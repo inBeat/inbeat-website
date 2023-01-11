@@ -1,108 +1,96 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In United States In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In United States In 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in United States in 2022. Most popular hashtags: #duet #tattooartist #fyp #tattoo.
+  Find top tattoo-artists TikTok influencers in United States in 2023. Most popular hashtags: #tattooartist #tattoo #fyp #tattoos.
 platform: TikTok
-hits: 316
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database has 316 TikTok influencers like this in United States for you to pitch.
+hits: 318
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 318 TikTok influencers like this in United States for you to pitch.
 profiles:
-  - username: "alimarie.art.lady"
-    fullname: >-
-      AliMarie
-    bio: >-
-      lady tattoo artist 🍉Level 28🍉 https://www.redbubble.com/people/SkinFlixTattoo
-    location: "United States"
-    followers: 94300
-    engagement: 2384
-    commentsToLikes: 0.037701
-    id: ck9c01pwio0rs0j78l3br6yxf
-    verified: false
-    hashtags: "#tattoosartist, #tattooartist, #tattoo, #coveruptattoo"
-  - username: "poppyrose783"
-    fullname: >-
-      poppyrose783
-    bio: >-
-      Tattoo artist, photographer. Iceg0dess-(GF/TTwife) 🏳️‍🌈 (L)gbt 🏳️‍🌈
-    location: "United States"
-    followers: 5457
-    engagement: 2624
-    commentsToLikes: 0.113685
-    id: cka68dhzmodjh0i78a4v7pinx
-    verified: false
-    hashtags: "#us, #home, #stemlife, #lesbianlife"
-  - username: "gabby_gh0ul"
-    fullname: >-
-      Gabby Gh0ul
-    bio: >-
-      Dead Meme Queen Tattoo Artist. Cosplayer. No spam likes #blacklivesmatter 🇵🇷
-    location: "United States"
-    followers: 9135
-    engagement: 2867
-    commentsToLikes: 0.039269
-    id: cka6lvfjn4pbv0i7816mezidx
-    verified: false
-    hashtags: "#junkoenoshima, #fyp, #junkochallenge, #anime"
-  - username: "artofjondump"
-    fullname: >-
-      Jonathan Dump
-    bio: >-
-      North Carolina tattoo artist Shop-Best Ink of Fayetteville 🗺 IG: @artofjondump
-    location: "United States"
-    followers: 441700
-    engagement: 1514
-    commentsToLikes: 0.026855
-    id: ckbb0mbv4r15u0j23k28pm7x2
-    verified: false
-    hashtags: "#stitch, #duet"
   - username: "bluerosetattoo"
     fullname: >-
       LilBlueRose
     bio: >-
       ✒️Professional Tattoo Artist 🖋 🌬Louisville, KY💨 Witchy 💀 Woman ⚰️ Lvl28⚰️
     location: "United States"
-    followers: 69700
-    engagement: 2261
-    commentsToLikes: 0.022784
+    followers: 72100
+    engagement: 1861
+    commentsToLikes: 0.043531
     id: ckd5ljrnqvu7n0j23z4jclhy9
     verified: false
-    hashtags: "#happyhalloween, #tattooartist, #tattooedpeopleoftiktok, #myhobby"
+    hashtags: "#stitch, #tattooartist, #tattooartistsoftiktok, #tattoos"
+  - username: "chelctattoos"
+    fullname: >-
+      ChelC
+    bio: >-
+      MN Tattoo Artist 🏳️‍🌈💍 @space_case Pan/Polyam💖 She/her $ChelCtattoos
+    location: "United States"
+    followers: 14800
+    engagement: 1743
+    commentsToLikes: 0.058130
+    id: ckd6xl5tguj3l0j23b4xeypuj
+    verified: false
+    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+  - username: "mr.tattooguy1"
+    fullname: >-
+      Everett
+    bio: >-
+      goofy tattoo artist CEO of tiktoker tattoo SC: Mrtattooguy1
+    location: "United States"
+    followers: 310900
+    engagement: 1323
+    commentsToLikes: 0.039121
+    id: ckcprmig6lhv80j23pzl0pzrh
+    verified: false
+    hashtags: "#lmao, #stitch, #skiptherinse, #funnyvideos"
   - username: "eli_jorgensen"
     fullname: >-
       eli_jorgensen
     bio: >-
       33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 12500
-    engagement: 1189
-    commentsToLikes: 0.092186
+    followers: 20600
+    engagement: 1286
+    commentsToLikes: 0.069516
     id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#seattle, #pnw, #movies, #spooky"
+    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
   - username: "ceciliamarietattoos"
     fullname: >-
       Cecilia Marie
     bio: >-
-      🌙Tattoo Artist 🌌Future Tattoo Therapist ✨Army Combat Veteran 💕Bi 🕸Witchy
+      🌙Tattoo Artist 🌌Future Tattoo Therapist ✨Army Combat Veteran 💕Kindness🕸Witch
     location: "United States"
-    followers: 14800
-    engagement: 1427
-    commentsToLikes: 0.060298
+    followers: 14900
+    engagement: 1369
+    commentsToLikes: 0.053516
     id: ckd6wvwcjt4x60j23lbbo8d09
     verified: false
-    hashtags: "#tattoos, #757, #tattooartist, #tattooshop"
+    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
   - username: "alastorwrath"
     fullname: >-
       Noel Garcia
     bio: >-
       They/them Makeup/tattoo artists Brooklyn NYC
     location: "United States"
-    followers: 18500
-    engagement: 1951
-    commentsToLikes: 0.020971
+    followers: 22900
+    engagement: 2106
+    commentsToLikes: 0.016752
     id: ck9fi3raq8w400j7804zh7zgj
     verified: false
     hashtags: ""
+  - username: "alimarie.art.lady"
+    fullname: >-
+      AliMarie
+    bio: >-
+      Tattoo Artist Skin Flix Tattooz Pa Level 29 She/her/they
+    location: "United States"
+    followers: 105700
+    engagement: 1542
+    commentsToLikes: 0.031240
+    id: ck9c01pwio0rs0j78l3br6yxf
+    verified: false
+    hashtags: "#tattooshoptok, #silicone, #tattoopractice, #tattoo"
   - username: "pennylanetattoos"
     fullname: >-
       Penny
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.024807
     id: ck9nrgfa58msd0j78dxubkenb
     verified: false
-    hashtags: "#foryou, #duet, #fyp, #tattoos"
+    hashtags: "#tattooartist, #tattoos, #foryou, #duet"
+  - username: "alien_artist_"
+    fullname: >-
+      alien_artist_
+    bio: >-
+      Tattoo Artist I'm funny sometimes I'm here to disappoint
+    location: "United States"
+    followers: 29600
+    engagement: 1649
+    commentsToLikes: 0.019605
+    id: ck9gsj8viip0d0j78omjuj595
+    verified: false
+    hashtags: "#haha, #replytocomments, #comedy, #art"
   - username: "pencillion"
     fullname: >-
       ashton
     bio: >-
-      27/enby/tattoo artist/clown casual cosplayer & cat dad
+      27/🏳️‍⚧️/tattoo artist/clown casual cosplayer & cat dad
     location: "United States"
     followers: 19800
-    engagement: 1634
-    commentsToLikes: 0.027578
+    engagement: 1392
+    commentsToLikes: 0.029719
     id: ckd0749mfalmm0j23wqsad6s2
     verified: false
-    hashtags: "#clowncosplay, #tattooartist, #happyhalloween, #arthurfleck"
+    hashtags: "#catsoftiktok, #jjstinkyman, #tattooartist, #tattoo"
 ---

@@ -1,48 +1,36 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Germany In 2022
+title: Top 10 Golfers Instagram Influencers In Germany In 2023
 description: >-
-  Find top golfers Instagram influencers in Germany in 2022. Most popular hashtags: #golf #golfaddict #golfswing #golfcourse.
+  Find top golfers Instagram influencers in Germany in 2023. Most popular hashtags: #golf #golferslife #golflifestyle #golflife.
 platform: Instagram
-hits: 17
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in Germany for you to contact.
+hits: 11
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Germany for you to work with.
 profiles:
   - username: "annicahansen"
     fullname: >-
       OFFICIAL PAGE • ANNICA HANSEN
     bio: >-
-      MODERATORIN • RIDER • YOUTUBER • GOLFER Horse Account 284K🐴➡️ @woelbchen YOUTUBE 198K ➡️ annicahansen SHOP @ponyliebe.de EquestrianFashion
+      MODERATORIN • RIDER • YOUTUBER • GOLFER • 🌱 Horse Account 327K🐴➡️ @woelbchen YOUTUBE 211K ➡️ annicahansen SHOP @ponyliebe.de EquestrianFashion
     location: "Germany"
-    followers: 130235
-    engagement: 825
-    commentsToLikes: 0.010208
+    followers: 131074
+    engagement: 773
+    commentsToLikes: 0.016495
     id: ck5c4ssjd20yn0i11wu6vamgl
     verified: true
-    hashtags: "#girls, #horses, #goals, #friends"
-  - username: "berndwiesberger"
+    hashtags: "#ootd, #instagood, #blondie, #countrylife"
+  - username: "lisamariegolf"
     fullname: >-
-      berndwiesberger
+      Lisa Marie Brantly
     bio: >-
-      Professional Golfer @titleist @footjoy @audemarspiguetgolf @raiffeisen @bmw_golfsport @technogym_austria @twothumbgrip @reitersreserve
+      ⛳️ Golfer 🎥 Host 👩🏼‍🎨 Designer 🌮 Foodie 📍 HTX
     location: "Germany"
-    followers: 26277
-    engagement: 344
-    commentsToLikes: 0.017623
-    id: ck0vuxfpgmlpl0i19201utb5n
-    verified: true
-    hashtags: "#championstrainwithtechnogym, #themasters, #staysafe, #covid"
-  - username: "matthiaskilling"
-    fullname: >-
-      Matthias Killing
-    bio: >-
-      Moderator / Daddy / Golfer / auch nachts erreichbar / SAT.1 / FFS / RAN / 🎙🎙🎙PODCAST „Killing trifft...“ bei Apple, Spotify, Google und Co...
-    location: "Germany"
-    followers: 83289
-    engagement: 234
-    commentsToLikes: 0.024796
-    id: ck0ubked3eniz0i19umdd8xm9
-    verified: true
-    hashtags: "#moderation, #matthiaskilling, #krise, #killingtrifft"
+    followers: 29714
+    engagement: 132
+    commentsToLikes: 0.065418
+    id: ck15usg7voct90i19o40k8546
+    verified: false
+    hashtags: "#hurricaneseason, #uswomensopen, #golf, #hurricanelaura"
   - username: "joachim_llambi"
     fullname: >-
       Joachim LLambi
@@ -54,77 +42,89 @@ profiles:
     commentsToLikes: 0.039709
     id: ck15r40z761cz0i19tm16afyp
     verified: true
-    hashtags: "#tanz, #tanzen, #llambistanzduell, #show"
+    hashtags: "#keinewerbung, #show, #llambistanzduell, #jury"
+  - username: "matthiaskilling"
+    fullname: >-
+      Matthias Killing
+    bio: >-
+      Moderator / Daddy / Golfer / auch nachts erreichbar / SAT.1 / FFS / RAN / 🎙🎙🎙PODCAST „Killing trifft...“ bei Apple, Spotify, Google und Co...
+    location: "Germany"
+    followers: 89222
+    engagement: 157
+    commentsToLikes: 0.018816
+    id: ck0ubked3eniz0i19umdd8xm9
+    verified: true
+    hashtags: "#matthiaskilling, #podcast, #sat1fr, #ranformele"
   - username: "golfpeaches.anne"
     fullname: >-
       Anne Golfpeaches
     bio: >-
-      #bogeygolf ⛳ #whyilovethisgame 🏌🏻‍♀️ #swingyourswing • 11/20: ↘️ -18.5 • 11/18: PE ↘️ 09/19: -23.7 My #golfjourney @golfclubderluederich
+      #bogeygolf ⛳ #whyilovethisgame 🏌🏻‍♀️ #swingyourswing • 01/21: 🔜 • 11/20: ↘️ -19.3 • 03/19: #golfbeginner My #golfjourney @golfclubderluederich ♡
     location: "Germany"
-    followers: 3041
-    engagement: 842
-    commentsToLikes: 0.107978
+    followers: 3069
+    engagement: 784
+    commentsToLikes: 0.092087
     id: ckaotcqo9vcei0i78oo6rcupr
     verified: false
-    hashtags: "#challengeaccepted, #sunsetgolf, #golflifestyle, #whyilovethisgame"
-  - username: "miss.fraenzis"
-    fullname: >-
-      Franzi | GolfGirl
-    bio: >-
-      Golflover Sport Model Teacher-to-be For IGTVs and more follow: @bonnie.and.slice
-    location: "Germany"
-    followers: 11100
-    engagement: 820
-    commentsToLikes: 0.038901
-    id: ckaormf4jnvqk0i78kds1ddts
-    verified: false
-    hashtags: "#golfgirl, #golftips, #friyay, #golfswag"
+    hashtags: "#golfaddict, #golftraining, #par, #lovegolf"
   - username: "tobisgolfblog"
     fullname: >-
-      Tobias Lehmann
+      Tobias Lehmann | Golf
     bio: >-
       GOLF LOVER AND BLOGGER FROM GERMANY. CONTENT IN 🇬🇧 🇩🇪 EQUIPMENT, FASHION, TRAVEL, FRIENDS & LIFESTYLE DM|EMAIL TO COLLAB @golfgeblubber PODCAST
     location: "Germany"
-    followers: 24619
-    engagement: 252
-    commentsToLikes: 0.050929
+    followers: 26446
+    engagement: 250
+    commentsToLikes: 0.055249
     id: ckap0vb10ryp90i78nharvzn3
     verified: false
-    hashtags: "#golfclub, #golftips, #golftravel, #golfindeutschland"
-  - username: "jonas_sofly"
+    hashtags: "#golfmental, #instagolfing, #golferslife, #golfinglife"
+  - username: "elke_july"
     fullname: >-
-      JONAS_SOFLY - PILOT
+      🌞Elke🌞
     bio: >-
-      ✈ Travel Lifestyle & Aviation ✈ born and raised in Munich ✈ flying the A350 around the world
+      《𝐖𝐞𝐫 𝐬𝐜𝐡𝐨̈𝐧 𝐬𝐞𝐢𝐧 𝐰𝐢𝐥𝐥, 𝐦𝐮𝐬𝐬 𝐥𝐚𝐜𝐡𝐞𝐧》 Fashion▪︎Lifestyle▪︎Travel▪︎Sports Mein Herz schlägt bayerisch🏞 📩 elke_july@web.de Copyright by me Impressum ⬇️
     location: "Germany"
-    followers: 111251
-    engagement: 191
-    commentsToLikes: 0.117048
-    id: ck6u699woe95m0j71mv6kvo9w
+    followers: 38987
+    engagement: 210
+    commentsToLikes: 0.177177
+    id: ck8t4xqzm875a0j78nq37avnt
     verified: false
-    hashtags: "#fashion, #ilovemyjob, #stayhackett, #herbstoutfit"
-  - username: "zauberpueppi83"
+    hashtags: "#christmasdress, #fashioninspo, #outfitpost, #blonde"
+  - username: "adriaan.vanveen"
     fullname: >-
-      KIC 🐒
+      ADRIAAN VAN VEEN
     bio: >-
-      no time for haters, jealousy, prejudice and ignorance 🕊💞 Spread love 🥋💗 BJJ @89.mma ⛳️🏌🏼‍♀️ Golf 🐶 dog mom 📍Ulm - Germany
+      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
     location: "Germany"
-    followers: 2684
-    engagement: 1390
-    commentsToLikes: 0.044014
-    id: ckap4vkt092rz0i78a28piwr3
+    followers: 18483
+    engagement: 93
+    commentsToLikes: 0.028050
+    id: ck8syv0u3m47i0j7850l8c3el
     verified: false
-    hashtags: "#happygirl, #lifeisbeautiful, #lovelife, #potd"
-  - username: "nednis_"
+    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
+  - username: "sven.sonn.pictures"
     fullname: >-
-      Dennis
+      Sven Sonnenberg | Fotograf
     bio: >-
-      YOUTUBE | BLOGGER | STREAMER 📈 - 𝐂𝐄𝐎 - @shishacloud_official 📍 - ULM 🚘 - RS6 | R8 🔜YOUTUBE ⬇️
+      📸 Sony A7 III | Dji Mavic Pro 2 🚁 Portrait I Hochzeitsfotograf | Drohnenfotografie ▶️Member of @raw_community 📍Magdeburg 🇩🇪
     location: "Germany"
-    followers: 15284
-    engagement: 760
-    commentsToLikes: 0.060044
-    id: ck15r7nd16jsv0i19ggw4j9ru
+    followers: 4060
+    engagement: 1102
+    commentsToLikes: 0.029958
+    id: ck6txg5o2xnci0j717vmiitvb
     verified: false
-    hashtags: "#car, #rsq, #bmw, #decennium"
+    hashtags: "#djimavicpro2, #elbe, #magdeburgerkind, #batpix"
+  - username: "danielbuder"
+    fullname: >-
+      Daniel Buder
+    bio: >-
+      | Agency:@sainoutalent @crush.agency.berlin PR:Carolin Nünemann|@idasimpressions ⬇️ www.danielbuder.de ⬇️ Founder -> @celebritygolfcamp
+    location: "Germany"
+    followers: 15887
+    engagement: 205
+    commentsToLikes: 0.048126
+    id: ck5c4b5yy0zdu0i11nijb34la
+    verified: true
+    hashtags: "#podcast, #daddyblogger, #schauspieler, #papapodcast"
 ---

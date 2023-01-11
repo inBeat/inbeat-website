@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Miami In 2022
+title: Top 10 Comedians Instagram Influencers In Miami In 2023
 description: >-
-  Find top comedians Instagram influencers in Miami in 2022. Most popular hashtags: #miami #comedy #comedian #funny.
+  Find top comedians Instagram influencers in Miami in 2023. Most popular hashtags: #comedy #miami #funny #comedian.
 platform: Instagram
-hits: 33
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 33 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 36
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 36 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
+  - username: "marlonwayans"
+    fullname: >-
+      Marlon Wayans
+    bio: >-
+      Come see me LIVE 👇... I’m on some other shit
+    location: "United States"
+    followers: 5854682
+    engagement: 93
+    commentsToLikes: 0.019512
+    id: ck0tx4i80hvj20i19vkh6pg4y
+    verified: true
+    hashtags: "#whitechicks, #classic, #wayanswednsdays, #comedyinmiami"
+  - username: "realchingobling"
+    fullname: >-
+      RED PILL TAMALES PODCAST 🫔💊
+    bio: >-
+      aka Gringo Bling 🤘🏽Freedom of speech tour! 🇺🇸🫔🔌
+    location: "United States"
+    followers: 216288
+    engagement: 63
+    commentsToLikes: 0.052474
+    id: ck5c2h3umx91v0i114fpogkni
+    verified: true
+    hashtags: "#comedy, #redpilltamales, #chingobling, #podcast"
   - username: "mario_ramil"
     fullname: >-
       MARIO RAMIL | Miami Comedian
     bio: >-
-      Dad 👧🏼 | Boyfriend ❤️ | Comedian🤣| Musician 🪕
+      Dad 👧🏼 | Boyfriend ❤️ | Comedian🤣| Musician 🪕 Host of @theramilpodcast 🎙 Business : marioramilcomedy@gmail.com
     location: "United States"
-    followers: 37278
-    engagement: 317
-    commentsToLikes: 0.116717
+    followers: 39693
+    engagement: 377
+    commentsToLikes: 0.082840
     id: ck55lcwcl1afw0i11lx7x9g9q
     verified: false
-    hashtags: "#cubans, #hispanics, #marioramilcomedy, #comedian"
+    hashtags: "#comedy, #voiceover, #miami, #marioramilcomedy"
   - username: "_fatandfunny"
     fullname: >-
       Miami Comedian Kitchen
     bio: >-
-      🌴Miami,Fl🌴 Booking Email: FatandFunnyent@gmail.com #FatandFunnyEnt #DigHerLowTv
+      🌴Miami,Fl🌴 Booking Email: FatandFunnyEnt@gmail.com #FatandFunnyEnt #BleeEnt
     location: "United States"
-    followers: 264822
-    engagement: 117
-    commentsToLikes: 0.059807
+    followers: 286768
+    engagement: 120
+    commentsToLikes: 0.055432
     id: ck5cfndtmna6r0i11l45kfo2a
     verified: false
-    hashtags: "#comedy, #digherlowtv, #shaderoom, #worldstar"
+    hashtags: "#bleeent, #injeanwetrust, #mr3bs, #nopwess"
   - username: "michaellenoci"
     fullname: >-
       Michael Lenoci
     bio: >-
       Stand-up Comedian and future owner of the Miami Dolphins •🐶 @wadethedog •🎧 Weekly Podcast @thetakeoverpod ⤵️
     location: "United States"
-    followers: 49173
-    engagement: 177
-    commentsToLikes: 0.058367
+    followers: 46483
+    engagement: 174
+    commentsToLikes: 0.050692
     id: ckf5lshiuquhh0j23nivhcbbq
     verified: true
-    hashtags: "#micdup, #thetakeoverpod, #tbt, #fsu"
-  - username: "jasoncarterofficial"
+    hashtags: "#timsbachelorparty, #thetakeoverpod, #thedatingdetective, #beccamingadornford"
+  - username: "mallowfrenchie"
     fullname: >-
-      JASON CARTER |#JASONUNLEASHED
+      Mallow Frenchie
     bio: >-
-      #HOST📺 EXECUTIVE PRODUCER Seen on @entertainmenttonight @theyoungturks @revolttv #dragrace @cnn @vh1 Contact:bookjasoncarter@gmail.com 2020 REEL👇🏾
+      ✨ big diva energy 🐷 thicc lil comedian & snaggletooth queen 🫶🏻 snacks, naps, & epic adventures — Miami & beyond 📸 as seen in @Forbes & @MiamiNewTimes
     location: "United States"
-    followers: 51045
-    engagement: 58
-    commentsToLikes: 0.047455
-    id: ck14irllvgvkm0i19ng6gg21v
+    followers: 62212
+    engagement: 246
+    commentsToLikes: 0.079741
+    id: ck0vv2ltyn96t0i19k1lpj8qh
+    verified: false
+    hashtags: "#pawlidaywishlist, #petfriendly, #sponsored, #friyay"
+  - username: "reneewillett"
+    fullname: >-
+      Renée Willett
+    bio: >-
+      Comedian Will Ferrell ...with [bigger] boobies New Yorker|LA|LON|MIA|TLV 🎾✡️ USC • MBA 🎓❤️💛✌🏼 @titsandchocolatechips
+    location: "United States"
+    followers: 413811
+    engagement: 142
+    commentsToLikes: 0.015897
+    id: ck5cj6bo3u2hk0i11riieh0wb
     verified: true
-    hashtags: "#talk, #makeup, #jasonunleashed, #dragrace"
-  - username: "iambleureese"
+    hashtags: "#finally, #nofilter, #selfiesunday, #itslit"
+  - username: "thefunnybombshell"
     fullname: >-
-      BleuserVEVO🦋🌏
+      Bombshell 💣✨
     bio: >-
-      + Jesus ✝️ Tik Tok @iambleureese 🎶 + Artist✨ • Entertainer 🎬• 🏳️‍🌈 MIAMI🌴 dm for Promos 💰 •time is valuable, do not waste it ~LLJ🖤
+      Miami Made • ATL 🏡 A day without her is a day without laughter! @bombshellest1992 @thefunnybombshellentertainment #GHAPFMB💎 It’s all there ⇩
     location: "United States"
-    followers: 10109
-    engagement: 210
-    commentsToLikes: 0.080450
-    id: ck5ckx1qvxs840i11ovchczda
+    followers: 50871
+    engagement: 322
+    commentsToLikes: 0.042481
+    id: ck5qa2qrbe9880i1165f3c81d
     verified: false
-    hashtags: "#youtuber, #llj, #influencerstakeoverflorida, #youtubechannel"
-  - username: "shirleydadiva_ffaceit"
+    hashtags: "#atlanta, #funny, #funnyvideos, #tagsomeone"
+  - username: "markvieracomedy"
     fullname: >-
-      Miami Makeup Artist 💄💋🎨
+      Mark Viera
     bio: >-
-      Shirley St.Fort #MiamiMakeupArtist @divaartistry #CelebrityMua#beautybyteknique HBO TvOne, Vh1 WeTv Enhancing beauty is my specialty▶VIP ☆Service
+      🇵🇷Puerto Rican Comedian from the #Bronx! #thelatinassasin Watch me on @hbomax @trutv @showtime @comedycentral and more! Show tickets & NEW special!👇
     location: "United States"
-    followers: 30276
-    engagement: 283
-    commentsToLikes: 0.023933
-    id: ck55mz4lj551l0i11fslxhn0x
+    followers: 31642
+    engagement: 170
+    commentsToLikes: 0.075289
+    id: ck5zunsg32pqa0i1448uf33bv
     verified: false
-    hashtags: "#southfloridamua, #miamimakeupartist, #familykarma, #bridalmakeupartist"
-  - username: "hilariousross2"
+    hashtags: "#love, #statenisland, #nyc, #laugh"
+  - username: "zoilafrausto"
     fullname: >-
-      Hilarious ent.
+      Zoila💋WarriorPrincess🥊Frausto
     bio: >-
-      JUST BECAUSE IM LESS HUMAN THAT DOSEN’T MEAN IM AN ANIMAL. North Miami Fl🌴😌.
+      1st @BellatorMMA Women’sWorld Champ •IKKC MuayThaiWorld🏆•WBC National MuayThai🏆•💍to this game🥊 •TaxPrep📑• RSO•Thai/Boxing Instructor•Ninja🥷🏻•Comedian🤣
     location: "United States"
-    followers: 10671
-    engagement: 1033
-    commentsToLikes: 0.032477
-    id: ck5zrv4qpxbjl0i14lacyozpr
-    verified: false
-    hashtags: "#funny, #likencomment, #comedy, #hilariousross2"
-  - username: "kingchocolatee"
-    fullname: >-
-      Prince Munroe
-    bio: >-
-      Miami/Cali🌴️☀️⛰[Entertainer]🎤[Actor]🎬 🌠🎥Host]🎨[performer]💰[Model]👔[Comedian]🎭see me in C. girls, Drake, C.Brown, lil Wayne, etc. Music Vid. ⭐️🇬🇾🇯🇲
-    location: "United States"
-    followers: 40235
-    engagement: 129
-    commentsToLikes: 0.078024
-    id: ck5q2z19migao0i11heezjjaa
-    verified: false
-    hashtags: "#lilbaby, #film, #flewedout, #citygirls"
-  - username: "lavellsthacomic"
-    fullname: >-
-      Lavell Crawford
-    bio: >-
-      Comedian / actor/chef/husband /father/legend for booking call Justin Edbrooke 424-288-2000
-    location: "United States"
-    followers: 132024
-    engagement: 69
-    commentsToLikes: 0.059809
-    id: ck0vw71e3sedg0i19opm710d8
+    followers: 42245
+    engagement: 193
+    commentsToLikes: 0.047903
+    id: ck5cebkcxkq3l0i11hxdycah5
     verified: true
-    hashtags: "#guranteedhilarious, #comedyisessentialtour2020, #getyourticketsnow, #guranteedtosellout"
-  - username: "sirlancewoods"
-    fullname: >-
-      Lance Woods
-    bio: >-
-      🎤Comedian 🎬Actor 💘International Sex Symbol 🎓Harvard graduate (Free online courses) Featured on Amazon, Hulu, Fox Sacramento Kings NbcSports
-    location: "United States"
-    followers: 32928
-    engagement: 84
-    commentsToLikes: 0.139222
-    id: ck5q66kacw60g0i11fzszx81t
-    verified: false
-    hashtags: "#livefromthecowpalace, #hoops, #zoomingwiththehomies, #tattoo"
+    hashtags: "#blessed, #repost, #skills, #mma"
 ---

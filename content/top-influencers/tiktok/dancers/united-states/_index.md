@@ -1,84 +1,72 @@
 ---
-title: Top 10 Dancers TikTok Influencers In United States In 2022
+title: Top 10 Dancers TikTok Influencers In United States In 2023
 description: >-
-  Find top dancers TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #foryou.
+  Find top dancers TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #foryou.
 platform: TikTok
-hits: 1922
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 1922 TikTok influencers like this in United States for you to work with.
+hits: 2005
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 2005 TikTok influencers like this in United States for you to contact.
 profiles:
+  - username: "_mad__madz_"
+    fullname: >-
+      Madz🪐
+    bio: >-
+      Dancer
+    location: "United States"
+    followers: 31900
+    engagement: 1394
+    commentsToLikes: 0.046530
+    id: ckcpszgu0nhje0j230hukrqsq
+    verified: false
+    hashtags: "#disney, #dancer, #dancing, #disneyworld"
   - username: "iamjordiofficial"
     fullname: >-
       iAmJordi
     bio: >-
       Singer/Dancer/Songwriter 💘 IG: iamjordiofficial YT: iAmJordi SC: iamjordi1
     location: "United States"
-    followers: 6800000
-    engagement: 3055
-    commentsToLikes: 0.033578
+    followers: 7600000
+    engagement: 2510
+    commentsToLikes: 0.014721
     id: ck8kdaihg4wob0j780t4ls400
     verified: true
-    hashtags: ""
-  - username: "totem4lyfe"
+    hashtags: "#romweback2school, #dancingqueenchallenge, #onebreathchallenge"
+  - username: "_mr.originality_"
     fullname: >-
-      Tyrese C. “Totem”
+      mrcr3at1vaty
     bio: >-
-      God 1st NC Dancer. 200k? Cashapp: $TyreseDC815 Ivl20 Do not spam like me yo
+      💯I follow back💯 🕺Dancer/Entertainer ❤️follow my insta❤️ _mr.originality_
     location: "United States"
-    followers: 67000
-    engagement: 2232
-    commentsToLikes: 0.048591
-    id: ck9sihe6myxwv0j78pdtuaj9b
+    followers: 55600
+    engagement: 2649
+    commentsToLikes: 0.055932
+    id: ckbb5bcrnvjj70j23sp00tyg4
     verified: false
-    hashtags: "#helpme, #fyp, #stitch, #duet"
-  - username: "officialjasonqueen"
-    fullname: >-
-      The Dancing Pastor
-    bio: >-
-      Best is yet to come so don’t give up @dancewithpurposefam Creator | Dancer
-    location: "United States"
-    followers: 13000
-    engagement: 2127
-    commentsToLikes: 0.163058
-    id: ck8p1gau2laoa0j787nvo2dve
-    verified: false
-    hashtags: "#showupshowoff, #love, #foryou, #christiantiktok"
+    hashtags: "#lovemusiclife"
   - username: "pixtheartist"
     fullname: >-
       PIX-THE-ARTIST
     bio: >-
-      -18- OG Shuffle Dancer🕺 Joined 11/19/2018 Fallen OG Creators: 19
+      -18- OG Shuffle Dancer🕺 No Bad Vibes 🏖 Fallen OG Creators: 22
     location: "United States"
-    followers: 79000
-    engagement: 2101
-    commentsToLikes: 0.053793
+    followers: 96700
+    engagement: 2233
+    commentsToLikes: 0.105755
     id: cka88j7jzbg2j0i78atikslkk
     verified: false
-    hashtags: "#mypfp, #duet, #xyzbca, #spooktober"
-  - username: "hauxy9"
+    hashtags: "#spring, #chill, #highschool, #dayandnight"
+  - username: "officialjasonqueen"
     fullname: >-
-      P
+      The Dancing Pastor
     bio: >-
-      idk lol 100k? smell Shuffle dancer Editor
+      Creator | Dancer | Communicator
     location: "United States"
-    followers: 69500
-    engagement: 1966
-    commentsToLikes: 0.122841
-    id: ckd6xenn0u7240j233y9oyf0w
+    followers: 13600
+    engagement: 1988
+    commentsToLikes: 0.118940
+    id: ck8p1gau2laoa0j787nvo2dve
     verified: false
-    hashtags: "#duet, #videoleap, #rtfx, #alightmotion"
-  - username: "k3ng_e"
-    fullname: >-
-      hi i’m k3🦍🖤
-    bio: >-
-      i’m 1 of chris brown’s background dancers💚
-    location: "United States"
-    followers: 272800
-    engagement: 1931
-    commentsToLikes: 0.040271
-    id: ckbbchvv41gfe0j2320c61vs3
-    verified: false
-    hashtags: "#dapradahouse, #stitch, #duet, #greenscreensticker"
+    hashtags: "#fyp, #christian, #makejesusviral, #wifey"
   - username: "nitinsonkamble2"
     fullname: >-
       dancer sonu
@@ -86,45 +74,57 @@ profiles:
       nandecha dancer sonu (single boy) jaybhim namo budddhay 🙏🇪🇺🙏
     location: "United States"
     followers: 13300
-    engagement: 1868
-    commentsToLikes: 0.070839
+    engagement: 1819
+    commentsToLikes: 0.073506
     id: ckbvtddv4s8f60j23hfrlc3em
     verified: false
-    hashtags: "#duets, #nitinsonkamble2, #jaybhimguys, #dance"
-  - username: "christiana.b4"
-    fullname: >-
-      christiana
-    bio: >-
-      chris-tea-on-uh wa dancer i’m just vibing venmo/snap: christianaburk
-    location: "United States"
-    followers: 234300
-    engagement: 2182
-    commentsToLikes: 0.023174
-    id: ck81q085tewju0j783a1fya4v
-    verified: false
-    hashtags: "#timewarpscan, #foryoupage, #duet"
-  - username: "nathangetz"
-    fullname: >-
-      Nathan Getz
-    bio: >-
-      Computer Programmer Aerialist/Dancer/Coach Music Producer Photographer Arvada CO
-    location: "United States"
-    followers: 22300
-    engagement: 1760
-    commentsToLikes: 0.110299
-    id: ckcdc0lox4wab0j23kn8f70no
-    verified: false
-    hashtags: "#fyp, #analog, #foryou, #timewarpscan"
+    hashtags: "#lovefan, #dance, #jaybhimguys, #duet"
   - username: "emo.ballerina"
     fullname: >-
       Sarah Noe
     bio: >-
-      “oikawa with cake” dancer & artist :) she/her ♡ 18 👇hand painted anime flags👇
+      “oikawa with cake” dancer & artist :) 18- she/her ♡ 👇hand painted anime flags
     location: "United States"
-    followers: 16600
-    engagement: 2925
-    commentsToLikes: 0.047333
+    followers: 17400
+    engagement: 2476
+    commentsToLikes: 0.079293
     id: ckb18qur3wn830j232l86t01l
     verified: false
-    hashtags: "#todoroki, #haikyuu, #handpainted, #anime"
+    hashtags: "#foryou, #squishmallows, #emogirl, #dancer"
+  - username: "sophiecourson"
+    fullname: >-
+      SophieArwyn
+    bio: >-
+      19✨ Cosplayer💖 Disabled Dancer ♿️ Twitch Streamer 💙 Black Lives Matter ✊🏽✊🏿
+    location: "United States"
+    followers: 92800
+    engagement: 1723
+    commentsToLikes: 0.082870
+    id: ckb1byo6b0orq0j23l4khfar7
+    verified: false
+    hashtags: "#elfoc, #elf, #duet, #fantasy"
+  - username: "vysefoxx"
+    fullname: >-
+      Vyse Foxx
+    bio: >-
+      Furry gamer, break dancer
+    location: "United States"
+    followers: 25100
+    engagement: 2627
+    commentsToLikes: 0.051496
+    id: ckcps9kqmmety0j238yjwazwm
+    verified: false
+    hashtags: "#tacobellfox, #furrytiktok, #furry, #duet"
+  - username: "rainbowhairdontcare"
+    fullname: >-
+      sepabling
+    bio: >-
+      Dancer, lover, teacher, dreamer, let’s laugh, share smiles, and get it started!!
+    location: "United States"
+    followers: 3811
+    engagement: 1578
+    commentsToLikes: 0.181532
+    id: ckauti509yhrw0j23fhgiqf6l
+    verified: false
+    hashtags: "#itsthebestway, #takeiteasy, #duet, #goodmood"
 ---

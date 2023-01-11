@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Indonesia In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Indonesia in 2022. Most popular hashtags: #tattoo #tattooartist #tattooed #tattoos.
+  Find top tattoo-artists Instagram influencers in Indonesia in 2023. Most popular hashtags: #tattoo #tattooartist #inked #tattoos.
 platform: Instagram
-hits: 25
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 25 Instagram influencers like this in Indonesia for you to work with.
+hits: 21
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 21 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "anne.tattoo"
     fullname: >-
@@ -13,48 +13,60 @@ profiles:
     bio: >-
       ♥ Business inquiries: petrichortattoo@gmail.com ♥ Blackwork Tattoo Artist ♥ Yogyakarta - Indonesia 🇮🇩 ∞ @petrichortattoo ∞ Δ @volcomindonesia Δ
     location: "Indonesia"
-    followers: 28255
-    engagement: 365
-    commentsToLikes: 0.013097
+    followers: 28728
+    engagement: 377
+    commentsToLikes: 0.013606
     id: ck6tppz5ulnse0j71s8wy7d3j
     verified: false
-    hashtags: "#taot, #indonesiantattooartist, #truetothis, #yogyakarta"
+    hashtags: "#indonesia, #batiktattoo, #volcomindonesia, #finelinetattoo"
   - username: "marelize_only"
     fullname: >-
       Marelize Nel  (M.J)  🇿🇦
     bio: >-
       ✈️ Lived in 🇿🇦🇮🇳🇹🇷🇹🇼🇸🇬🇲🇨🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently in South Africa International Model, Artist & Tattoo Artist @mjsink PR and Collabs marelize.nel16@gmail.com
     location: "Indonesia"
-    followers: 12193
-    engagement: 667
-    commentsToLikes: 0.032338
+    followers: 18673
+    engagement: 595
+    commentsToLikes: 0.021911
     id: ckf5n98g1x8nl0j23relvrrm9
     verified: false
-    hashtags: "#photography, #model, #musicvideo, #singer"
-  - username: "rit.kit.tattoo"
-    fullname: >-
-      tattoo-artist🌿
-    bio: >-
-      Rita, tattoo-artist and creator of #liveleaftattoo 🌿 💌 rit.kit.tattoo@gmail.com 📍from Ukraine, now in Bali 🇮🇩
-    location: "Indonesia"
-    followers: 608170
-    engagement: 239
-    commentsToLikes: 0.004616
-    id: ckap6axlwf4lp0i78ic8j52iw
-    verified: false
-    hashtags: "#botanicaltattoo, #liveleaftattoo, #botanical, #victorbrauner"
+    hashtags: "#greeneyes, #photographer, #birthday, #unicorn"
   - username: "magica.doll"
     fullname: >-
       ⚡️🔹[🅱🅰🅳 🅱🅾🆈🆉 🅲🅻🆄🅱]🔹⚡️
     bio: >-
-      📍Indonesian🇮🇩 🔸Tattoos.Style.Bad Boyz💋 🔸[I'm PRO-ARTIST❗️] 🔸BJD Tattoo Artist & Customizer ______________________________ ⚠️GOOD VIBEZ ONLY
+      📍Indonesian🇮🇩 🔸Tattoos.Style.Bad Boyz💋 🔸[I'm PRO-ARTIST❗️] 🔸BJD Tattoo Artist & Customizer
     location: "Indonesia"
-    followers: 8286
-    engagement: 712
-    commentsToLikes: 0.023405
+    followers: 8131
+    engagement: 726
+    commentsToLikes: 0.023191
     id: ck8t5ulylbay50j78ztnealjd
     verified: false
-    hashtags: "#iossezz, #cosplay, #doll, #tattoo"
+    hashtags: "#oc, #resindoll, #guywithtattoos, #tattoedguy"
+  - username: "bubulsadi_"
+    fullname: >-
+      ⛥BSOFFICIAL⛥
+    bio: >-
+      @saet_mati_team @pradnya_ink kreator sculpture ,tattoo artist
+    location: "Indonesia"
+    followers: 18974
+    engagement: 287
+    commentsToLikes: 0.008307
+    id: ckf5u9emhk1x40j23qyxpfwh5
+    verified: false
+    hashtags: "#bubulsadi, #layangan, #bali, #hiduphappymatidibali"
+  - username: "isnardbarbosa"
+    fullname: >-
+      ISNARD BARBOSA
+    bio: >-
+      . .tattoo artist &digital artist Working in Ireland-Dublin And One day, I hope to become a grown up. Backup*isnardbarbosas . legendarytattoostudio
+    location: "Indonesia"
+    followers: 353532
+    engagement: 291
+    commentsToLikes: 0.059158
+    id: ckaox6z5cc23k0i78211j94eu
+    verified: false
+    hashtags: "#radiantcolorsink, #dermalizepro, #dublintattoo, #neotradeu"
   - username: "madeardhaneraka"
     fullname: >-
       madeardha
@@ -66,65 +78,53 @@ profiles:
     commentsToLikes: 0.008654
     id: ckf5uzhnhmug10j235omefnzg
     verified: false
-    hashtags: "#3tahunlalusempatmikirinini, #singademaksudsok, #kanggoangmontomecande, #extrememoshpit"
+    hashtags: "#singademaksudsok, #malesuyut, #suarakeadilan, #musicvideo"
   - username: "biosipc"
     fullname: >-
-      𝖱𝖨𝖢𝖠𝖱𝖣𝖮 𝖡𝖨𝖮𝖲
+      𝐑𝐈𝐂𝐀𝐑𝐃𝐎 𝐁𝐈𝐎𝐒
     bio: >-
-      𝙏𝘼𝙏𝙐𝘼𝘿𝙊𝙍 𝙀𝙈 @cartabrancatatuaria ————————————————————————— 𝐎𝐑Ç𝐀𝐌𝐄𝐍𝐓𝐎𝐒 𝐄 𝐃Ú𝐕𝐈𝐃𝐀𝐒 𝐂𝐇𝐀𝐌𝐀 𝐍𝐎 𝐃𝐈𝐑𝐄𝐂𝐓 📩
+      𝚃𝚊𝚝𝚞𝚊𝚍𝚘𝚛 𝚎𝚖 @cartabrancatatuaria 💌 ———————————————————————- 𝙾𝚁Ç𝙰𝙼𝙴𝙽𝚃𝙾𝚂 𝙴 𝙳Ú𝚅𝙸𝙳𝙰𝚂 𝙲𝙷𝙰𝙼𝙰 𝙽𝙾 𝙳𝙸𝚁𝙴𝙲𝚃 📩
     location: "Indonesia"
-    followers: 8926
-    engagement: 452
-    commentsToLikes: 0.096911
+    followers: 9138
+    engagement: 398
+    commentsToLikes: 0.114419
     id: ckap6w86zhlwv0i78faeb7gye
     verified: false
-    hashtags: "#neotradsub, #taot, #neotradstyle, #neotradbrasil"
-  - username: "tattoo.motive"
-    fullname: >-
-      Tattoo_Fan_Germany
-    bio: >-
-      🔫 🎨💉 𝕿𝖆𝖙𝖙𝖔𝖔 𝕱𝖆𝖓 ☠️♠️♥️ 𝕿𝖆𝖙𝖙𝖔𝖔 𝕴𝖉𝖊𝖊𝖓, 𝕸𝖔𝖙𝖎𝖛𝖊, 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓𝖊𝖓 ♦️♣️💀 Like, Follow and TAG 🙏 📨 DM for Promo or Business inquiries 🤙
-    location: "Indonesia"
-    followers: 14297
-    engagement: 756
-    commentsToLikes: 0.007400
-    id: ckaoqvqqzkmmv0i78md7405kg
-    verified: false
-    hashtags: "#tattoo, #deutschlandtattoo, #girlstattoo, #tattooartist"
-  - username: "hendricshinigamibali"
-    fullname: >-
-      Hendric Shinigami Tattoo Bali
-    bio: >-
-      @hendricshinigami 📲 +62 812 1212 0897 📧 hendricshinigamibali@gmail.com Open at 10am-10pm
-    location: "Indonesia"
-    followers: 50138
-    engagement: 270
-    commentsToLikes: 0.007792
-    id: ckapbuwep1d8m0i78txvcq4nq
-    verified: false
-    hashtags: ""
+    hashtags: "#inkedup, #neotraditionaltattoo, #neotraditionaltattoos, #neotrad"
   - username: "hendricshinigami"
     fullname: >-
       Hendric Shinigami
     bio: >-
-      Consultation & Reservation : @hendricshinigamibali @hendricshinigamijakarta 🔴 My Official Video Channel ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+      @wijasoju Consultation & Reservation : @hendricshinigamibali @hendricshinigamijakarta 🔴 My Official Video Channel
     location: "Indonesia"
-    followers: 264856
-    engagement: 167
-    commentsToLikes: 0.016296
+    followers: 286695
+    engagement: 147
+    commentsToLikes: 0.011289
     id: ckap4ioyx7jv00i787fc6a2tg
     verified: true
-    hashtags: "#tattoo, #tattooartist, #tattoosleeve, #openyoureyes"
+    hashtags: "#tattooed, #hendricshinigami, #eternalink, #prophetsandpoets"
   - username: "sakyant_arjarn_fluke"
     fullname: >-
       I'm Arjarn Fluke
     bio: >-
       Credit card accepted ☎️& Whatsapp: +66955588578 Line id : 0955588578​ Email: arjarn.fluke@gmail.com Googlemap: Sakyant Arjarn fluke
     location: "Indonesia"
-    followers: 45874
-    engagement: 105
-    commentsToLikes: 0.004168
+    followers: 45593
+    engagement: 98
+    commentsToLikes: 0.002884
     id: ck8t8ybalmab80j789eclywmc
     verified: false
     hashtags: ""
+  - username: "sham_shal_photography"
+    fullname: >-
+      SHAMIL
+    bio: >-
+      PHOTOGRAPHER I EDITOR KERALIYAN MALAPPURAM Fam😍:@teamshutterlust THRIKKANNAN📷
+    location: "Indonesia"
+    followers: 6146
+    engagement: 2136
+    commentsToLikes: 0.037218
+    id: ck9wew96pm4a10j78cr0n6f4f
+    verified: false
+    hashtags: "#pubg, #sky, #keralatourism, #moodygrams"
 ---

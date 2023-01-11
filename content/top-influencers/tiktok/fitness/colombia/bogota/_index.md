@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Bogotá In 2022
+title: Top 10 Fitness TikTok Influencers In Bogotá in 2023
 description: >-
-  Find top fitness TikTok influencers in Bogotá in 2022. Most popular hashtags: #fitness #colombia #tiktok #parati.
+  Find top fitness TikTok influencers in Bogotá in 2023. Most popular hashtags: #fitness #colombia #tiktok #parati.
 platform: TikTok
 hits: 4
 text_top: Analyze the most popular TikTok profiles on inBeat.

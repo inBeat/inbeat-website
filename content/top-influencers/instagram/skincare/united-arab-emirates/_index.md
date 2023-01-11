@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Skincare Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top skincare Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #skincare #dubai #mydubai #beauty.
+  Find top skincare Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #beauty #mydubai #fashion.
 platform: Instagram
-hits: 73
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 73 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 66
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 66 Instagram influencers like this in United Arab Emirates for you to collaborate.
 profiles:
   - username: "alintzaa"
     fullname: >-
       Alintzaa
     bio: >-
-      💄 makeup and skincare 👗 fashion ✈️ travel Living a bikini kind of life 👙 Follow the link Use ALINTZAA for 15% off
+      💄 makeup and skincare 👗 fashion ✈️ travel Living a bikini kind of life 👙 📍Dubai 🇦🇪
     location: "United Arab Emirates"
-    followers: 42624
-    engagement: 354
-    commentsToLikes: 0.110720
+    followers: 48958
+    engagement: 322
+    commentsToLikes: 0.102782
     id: ck5c3fio4z8880i11ivk1g8i1
     verified: false
-    hashtags: "#modeling, #bikiniseries, #blondegoals, #emirates"
+    hashtags: "#travelblogger, #mydubai, #fashionstyle, #beachclub"
+  - username: "mohammed"
+    fullname: >-
+      Mohammed محمد
+    bio: >-
+      No Labels- Just me & some adventures Skincare & Scent Junkie A Fragrance Freak From Dubai UAE 🇦🇪
+    location: "United Arab Emirates"
+    followers: 115442
+    engagement: 134
+    commentsToLikes: 0.095820
+    id: ck9womgbc5r2f0j78i7k5e7bs
+    verified: true
+    hashtags: "#vacation, #dubai, #selfinspired, #fendi"
+  - username: "dina_and_perfumes"
+    fullname: >-
+      Dina
+    bio: >-
+      ⚜️Personal Blog And Welcome To My 🌎 ⚜️Certified Makeup Artist and SkinCare Consultant ⚜️Fragrance Enthusiast and Lover ⚜️ Mrs💍 📍#dubai
+    location: "United Arab Emirates"
+    followers: 6965
+    engagement: 330
+    commentsToLikes: 0.083047
+    id: ckaos9786qob90i785uhxbu46
+    verified: false
+    hashtags: "#sweet, #fraghead, #vanilla, #rak"
   - username: "touchoffarah"
     fullname: >-
-      Farah Habboush   فرح حبّوش
+      Farah Habboush  | فرح حبّوش
     bio: >-
-      • dubai • makeup | skincare • dental student 💌 touchoffarah@gmail.com
+      • dubai • makeup | skincare | beauty • dental student @olehenriksenme ambassador 💌 touchoffarah@gmail.com
     location: "United Arab Emirates"
-    followers: 7106
-    engagement: 948
-    commentsToLikes: 0.058189
+    followers: 7061
+    engagement: 633
+    commentsToLikes: 0.045864
     id: ck0w0ici0eciy0i19bhzg6lcn
     verified: false
-    hashtags: "#velourbabe, #middleeasternbeauty, #flawlessmakeup, #viral"
+    hashtags: "#makeupbloggers, #explore, #middleeasternwomen, #makeup"
+  - username: "malak.alotabi"
+    fullname: >-
+      Malak Alotaibi ♍️
+    bio: >-
+      👩‍💻Full time Electrical Engineer. 👩‍👧‍👦Mom of three. Makeup || Skincare || Modest Fashion || Lifestyle 📍Dubai, UAE
+    location: "United Arab Emirates"
+    followers: 189556
+    engagement: 240
+    commentsToLikes: 0.016292
+    id: ck5c4goxi1bih0i11bqyb1td0
+    verified: false
+    hashtags: "#homedecor, #homedesign, #tvcorner, #mascaralover"
+  - username: "amazingliveslover"
+    fullname: >-
+      Samrah khan|Lifestyle blogger
+    bio: >-
+      Super Mum of 2 kids 🧒👶|content creator #lifestyle #motherhood #skincare #modestfashion #beauty @mumzworld SAMRAH10 @goligummy amazingliveslover
+    location: "United Arab Emirates"
+    followers: 13916
+    engagement: 471
+    commentsToLikes: 0.095404
+    id: ckaotqvqbx3bo0i78p6d4si0l
+    verified: false
+    hashtags: "#stayblessed, #modestfashion, #babyproducts, #amazingliveslover"
+  - username: "hirah.n"
+    fullname: >-
+      Hirah Nabil |Hair & Makeup
+    bio: >-
+      Internationally Certified . Hair | Fashion | Makeup | Skincare . Living 2 lives on social media @green.chapter.dxb @hirah.n 🇦🇪 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇵🇰
+    location: "United Arab Emirates"
+    followers: 32186
+    engagement: 96
+    commentsToLikes: 0.164821
+    id: ck5zqt12wv8pn0i14skas4866
+    verified: false
+    hashtags: "#fashionpost, #fashion, #pretty, #swag"
   - username: "israashams"
     fullname: >-
-      لونا ✨-Luna
+      إسراء شمس 👑
     bio: >-
-      ١٩٩٧ 🇵🇸 || 🇪🇬 Medical student 🩺 Life style blogger 💫 Skincare || fashion || food
+      ١٩٩٧ 🇵🇸 || 🇪🇬 Medical student 🩺 Life style blogger 💫 A part time model📌 Skincare || fashion || food
     location: "United Arab Emirates"
-    followers: 47910
-    engagement: 261
-    commentsToLikes: 0.011463
+    followers: 47761
+    engagement: 237
+    commentsToLikes: 0.017469
     id: ckaot5io2ugxp0i78alfkj486
     verified: false
-    hashtags: "#hijabtutorial, #hijabindonesia, #hijaber, #fashionnova"
-  - username: "lorenianna"
+    hashtags: "#fashionblogger, #notebooks, #collagenbeautybooster, #dentoluna"
+  - username: "themayaahmad"
     fullname: >-
-      Loreni_Anna
+      MAYA مايا
     bio: >-
-      𝐅𝐨𝐫𝐞𝐯𝐞𝐫 𝐘𝐨𝐮𝐫 𝐆𝐢𝐫𝐥 🧡 ➖ collabs: lorozen1@gmail.com
+      ☼Virgo ☾Leo ↑Virgo Dubai Based Content Creator I created @mynethelabel Cycling Instructor @motion_cycling ✎ info@themayaahmad.com
     location: "United Arab Emirates"
-    followers: 139269
-    engagement: 313
-    commentsToLikes: 0.101190
-    id: ck5zlqi98l7760i14lzkrktjf
-    verified: false
-    hashtags: "#streetstyle, #style, #love, #lorenianna"
+    followers: 1243205
+    engagement: 32
+    commentsToLikes: 0.006237
+    id: ckaoqork5jo0c0i788s86vyui
+    verified: true
+    hashtags: "#skincare, #makeup, #haircare, #beauty"
   - username: "batoul.official"
     fullname: >-
       Toot 👄 ~ بَتول اندوره
     bio: >-
       ~ 🇸🇾 | 🇦🇪 ~ Beauty & Fashion 👗💄 ~ Batoulandoura@icloud.com
     location: "United Arab Emirates"
-    followers: 130018
-    engagement: 556
-    commentsToLikes: 0.021240
+    followers: 155131
+    engagement: 506
+    commentsToLikes: 0.015901
     id: ck14iyzrdhtr10i19nn87vui7
     verified: false
-    hashtags: "#fblogger, #celebritynews, #uae, #makeuplovers"
-  - username: "jelenamarkovic___"
-    fullname: >-
-      
-    bio: >-
-      🇦🇺 @quemodels 🇦🇪 @mamodelsdubai 🔜 @opentilllatestudio
-    location: "United Arab Emirates"
-    followers: 110450
-    engagement: 116
-    commentsToLikes: 0.095621
-    id: ck6ub08g86q0h0j71dfm6pmqg
-    verified: true
-    hashtags: "#skincare, #dubai, #luxury, #losangeles"
-  - username: "mayadaa.hisham"
-    fullname: >-
-      M A Y A D A  |  H I S H A M
-    bio: >-
-      🇪🇬🇰🇼🇦🇪•Alexandria •Kuwait •Dubai 💉clinical pharmacist 💄Makeup Artist ❄️Airbrush makeup ❄️skin care For inquiries: mayada.hisham992@gmail.com
-    location: "United Arab Emirates"
-    followers: 223199
-    engagement: 75
-    commentsToLikes: 0.443721
-    id: ck5hcfjb1ht880i11o76rw5y9
-    verified: false
-    hashtags: "#beirut, #diormakeup, #egypt, #maccosmetics"
-  - username: "rimshaasiddiqi"
-    fullname: >-
-      Rimsha | Makeup Artist Dubai
-    bio: >-
-      📍Dubai-UAE🇦🇪/🇵🇰 💄Aspiring Makeup Artist 📸Content Creator 📩DM/Email For Inquires 💸@ksecret_official Discount Code "RIMSHA10"
-    location: "United Arab Emirates"
-    followers: 5209
-    engagement: 1140
-    commentsToLikes: 0.334638
-    id: ck9wgfno1t7j80j785h32c1tf
-    verified: false
-    hashtags: "#recommended, #fakeupfix, #viralmakeup, #hudabeauty"
-  - username: "mahaalmarush"
-    fullname: >-
-      Maha Al Marush مها المروش
-    bio: >-
-      Perfume and Oud Expert👌🏻 Skin Love Coach 🧖🏻‍♀️💕 Digital Engineer & Marketing -Paris Public Diplomacy &Communication -UN Boutiqaat:
-    location: "United Arab Emirates"
-    followers: 131950
-    engagement: 74
-    commentsToLikes: 0.051356
-    id: ck14gv6dt76up0i19xd1vjymw
-    verified: false
-    hashtags: "#perfumes, #bakhoor, #skincare, #oud"
-  - username: "mydivine.journey"
-    fullname: >-
-      Anam Tariq Javed❣️
-    bio: >-
-      📍UAE-DXB 🇵🇰 Content creator•Reviews•Lifestyle DM for COLLABS/PR Zomato L11 Tiktok - mydivinejourney @ksecret_official DC >ANAM10 @pectiv DC >ANAM20
-    location: "United Arab Emirates"
-    followers: 8813
-    engagement: 684
-    commentsToLikes: 0.212433
-    id: ckap6vttohk5s0i78di8ztuvd
-    verified: false
-    hashtags: "#uaefoodblogger, #skincare, #zomatouae, #giveaway"
+    hashtags: "#tbt, #makeuplooks, #picsdubai, #skincare"
 ---

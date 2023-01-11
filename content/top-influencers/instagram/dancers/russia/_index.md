@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Russia In 2022
+title: Top 10 Dancers Instagram Influencers In Russia In 2023
 description: >-
-  Find top dancers Instagram influencers in Russia in 2022. Most popular hashtags: #kidsmodel #model #dancer.
+  Find top dancers Instagram influencers in Russia in 2023. Most popular hashtags: #dance #dancer #model.
 platform: Instagram
-hits: 473
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 473 Instagram influencers like this in Russia for you to collaborate.
+hits: 465
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 465 Instagram influencers like this in Russia for you to contact.
 profiles:
+  - username: "juliaakulina"
+    fullname: >-
+      JULIA AKULINA
+    bio: >-
+      Founder @juliaakulina_wear Dancer @redhazecrew Choreographer @juliaakulinacrew 📍Moscow
+    location: "Russia"
+    followers: 13961
+    engagement: 1176
+    commentsToLikes: 0.125972
+    id: ck14kgxenpgsm0i19zu4l9uz2
+    verified: false
+    hashtags: "#inmybed, #rotimi, #juliaakulinacrew, #ajcrew"
+  - username: "sulumotion"
+    fullname: >-
+      SựLu
+    bio: >-
+      MM entertainment. : singer. : dancer.
+    location: "Russia"
+    followers: 26566
+    engagement: 1929
+    commentsToLikes: 0.392156
+    id: ck6u7dvwzkxs50j718ojtujh4
+    verified: false
+    hashtags: ""
+  - username: "aventador_eboy"
+    fullname: >-
+      ⚡️Vladislav  Shitov⚡️
+    bio: >-
+      ⭐️Участник шоу "Танцы на ТНТ" ⚡️Electro Dancer ❤️ Likee - 920 К 🖤 ТIk Tok - 147 К Коллаборации и бизнес предложения - vladislav.schitoff@yandex.ru
+    location: "Russia"
+    followers: 12031
+    engagement: 1458
+    commentsToLikes: 0.065170
+    id: ck8tavlqtt90q0j78xrg3r5a4
+    verified: false
+    hashtags: "#electrodance, #likeerussia, #likeeapp, #likeeru"
+  - username: "leraryabchenko"
+    fullname: >-
+      Lera Riabchenko
+    bio: >-
+      professional Belly dancer participant of @dancestb student of “Diva Dance” student of film school🎭 beginner actress 🎬
+    location: "Russia"
+    followers: 6862
+    engagement: 1006
+    commentsToLikes: 0.145161
+    id: ck9wecrimjpvi0j78an0m3adx
+    verified: false
+    hashtags: "#foto, #bellydancer, #egypt, #bellydancing"
+  - username: "eva_shevchenko_holovko_actress"
+    fullname: >-
+      Ева Шевченко-Головко Actress 🎬
+    bio: >-
+      🎬🌟Actress #таещеактрисаЕва 📸👠Model 💃Dancer 📚 Schoolgirl ❤️Kiev my heart ✨World my dream ✨You're my friend 📩account managed Y Shevchenko cont Direct
+    location: "Russia"
+    followers: 9111
+    engagement: 1397
+    commentsToLikes: 0.076059
+    id: ck8t82w31iwpo0j78qdtjhryq
+    verified: false
+    hashtags: "#outfit, #besttime, #makeup, #casting"
   - username: "aiymka_bekbolieva_star_"
     fullname: >-
       ✨Айымка Бekбoлиeвa✨
     bio: >-
       🌌Добро пожаловать🌌 ~~ 🌠Подпишись здесь самое интересное🌠 ~~ 💞Старшая дочь Анжелики💓 ~~ ✨ⓢⓘⓝⓖⓔⓡ✨ ~~ 🌟ⓓⓐⓝⓒⓔⓡ🌟 👑Цель : 35k👑
     location: "Russia"
-    followers: 28384
-    engagement: 1173
-    commentsToLikes: 0.028508
+    followers: 27808
+    engagement: 1194
+    commentsToLikes: 0.028349
     id: ckf5ou5qt3ul40j2328t3ija1
     verified: false
     hashtags: "#apxu"
-  - username: "averimuhr"
-    fullname: >-
-      a v e r i ♡
-    bio: >-
-      dancer, artist, dreamer, lover of the earth ☆ 2019+2020 russian pointe ambassador ☆ ⠀⠀⠀ ⠀ tik tok // averimuhr (160k+)
-    location: "Russia"
-    followers: 10443
-    engagement: 1205
-    commentsToLikes: 0.034387
-    id: ck5hfl6cjy04n0i11ntvq56ui
-    verified: false
-    hashtags: "#rplove"
-  - username: "katrin_pitsentiy"
-    fullname: >-
-      Katrin
-    bio: >-
-      EK TEAM Dancer Choreographer Drummer
-    location: "Russia"
-    followers: 63250
-    engagement: 308
-    commentsToLikes: 0.069164
-    id: ckf5nia6nydpd0j232a4cqlwd
-    verified: false
-    hashtags: "#summertime, #books, #drums, #backstage"
-  - username: "polinakarpenko_"
-    fullname: >-
-      🔹Paulina❣️Karpenko🔹
-    bio: >-
-      ‘One in a million 🇧🇾 model, dancer 🦁 Contact manager: bookpolinakarpenko@gmail.com Page managed by my mum @natalikarpenko1976 #polinakarpenko2006
-    location: "Russia"
-    followers: 236484
-    engagement: 232
-    commentsToLikes: 0.041774
-    id: ck8tc7a98yjm50j78tnmiou7b
-    verified: false
-    hashtags: "#showmustgoon, #video, #tiktok, #14"
   - username: "_aleksandra_kiseleva"
     fullname: >-
       Aleksandra Kiseleva | Киселева
     bio: >-
-      • Саша Клевая ⭐️ • Actress, dancer • All offers: aleksandra@sashacool.ru Elena
+      • Саша Клевая 👽 • Actress, dancer • Agent +7 926 902-18-82 Natalya Gneusheva • Commercial offers: aleksandra@sashacool.ru Elena
     location: "Russia"
-    followers: 122846
-    engagement: 226
-    commentsToLikes: 0.045597
+    followers: 119827
+    engagement: 216
+    commentsToLikes: 0.043825
     id: ck0tuo04j7y6h0i19djkxx2ax
     verified: true
     hashtags: "#happybirthday, #18, #bangolufsen, #bangolufsenrus"
-  - username: "aleksasha1001"
-    fullname: >-
-      Aleksandra Yarovaya
-    bio: >-
-      Dancer, actress and model✨ МА @systemagency Saint-Petersburg, Russia🇷🇺 Account managed by mom @julia_photo_spb✌
-    location: "Russia"
-    followers: 111912
-    engagement: 220
-    commentsToLikes: 0.121638
-    id: ck137gw3sbh5m0i19qx5xacyo
-    verified: false
-    hashtags: "#fashiongirlsteens, #modeltests, #newfacemodel, #girldancer"
   - username: "dav_vasily"
     fullname: >-
       Vasily Sobolev
     bio: >-
-      Ballet dancer. Model. 13 y.o. Vaganova Academy’s student. Saint-Petersburg. Russia. Fan club @fanclub_sobolev Ambassador @about_rstart @kidwood.ru
+      Ballet dancer. Model. 13 y.o. Vaganova Academy’s student. Saint-Petersburg. Russia. Ambassador @about_rstart @kidwood.ru TikTok ⬇️⬇️⬇️
     location: "Russia"
-    followers: 42286
-    engagement: 606
-    commentsToLikes: 0.099851
+    followers: 53214
+    engagement: 602
+    commentsToLikes: 0.068637
     id: ck8t486ut5tv80j789beab353
     verified: false
-    hashtags: "#boymodel, #model, #ballet, #dancer"
-  - username: "dianadyakonova09"
+    hashtags: "#ballet, #dancer, #kidsmodel, #modelboys"
+  - username: "polinakarpenko_"
     fullname: >-
-      DIDA
+      🔹Paulina❣️Karpenko🔹
     bio: >-
-      MODEL//DANCER//ACTRESS Moscow/Russian 🇷🇺/Europe🇧🇷🇮🇹 Account managed by mother 👇🏼 +79637255373 @ekaterinagerner86
+      ‘One in a million 🇧🇾 model, dancer 🦁 Contact manager: bookpolinakarpenko@gmail.com Page control by mom @natalikarpenko1976 #polinakarpenko2006
     location: "Russia"
-    followers: 33328
-    engagement: 233
-    commentsToLikes: 0.089817
-    id: ck8t5rvnqb0yf0j783atvfreg
+    followers: 246572
+    engagement: 186
+    commentsToLikes: 0.036503
+    id: ck8tc7a98yjm50j78tnmiou7b
     verified: false
-    hashtags: "#kidsblogger, #instafashion, #childphoto, #modelkids"
-  - username: "grivnina"
+    hashtags: "#dancer, #goodnight, #polinakarpenko2006, #tiktok"
+  - username: "olegitstru"
     fullname: >-
-      Alèna Grivnina
+      Oleg R.
     bio: >-
-      RUS | Dancer with the @PrimMariinsky I & II laureate on "XDance" IBC III laureate on "DanceMoscow" IBC Finalist on "Grand Prix of Siberia" IBC
+      Dancer, freelancer, introvert✌🏻 @tntancy 7 season | Top-37 Member @iconichouseofninja x @kiki_house_of_mermaids_ Cooperation: olegitstru@gmail.com ✉️
     location: "Russia"
-    followers: 28099
-    engagement: 782
-    commentsToLikes: 0.015746
-    id: ckap3klta3e9x0i78rm9l728r
+    followers: 6183
+    engagement: 1655
+    commentsToLikes: 0.027575
+    id: ck55n683l5klr0i11quwm3vnd
     verified: false
-    hashtags: "#alenagrivnina, #primmariinsky, #one, #worldballetday2020"
-  - username: "_inna_dyachenko_"
-    fullname: >-
-      Inna Dyachenko 🐬
-    bio: >-
-      Young model, gymnast, dancer @todes_dmitrovofficial Account run by mom @love_shumik
-    location: "Russia"
-    followers: 6879
-    engagement: 1612
-    commentsToLikes: 0.020043
-    id: ck0vwg4j6tix50i1995dzo7jt
-    verified: false
-    hashtags: "#uaecup, #dubai, #contestsoldy"
+    hashtags: ""
 ---

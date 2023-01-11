@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wedding TikTok Influencers In 2022
+title: Top 10 Wedding TikTok Influencers In 2023
 description: >-
-  Find top wedding TikTok influencers in 2022. Most popular hashtags: #fyp #foryoupage #comedy #duet.
+  Find top wedding TikTok influencers in 2023. Most popular hashtags: #fyp #duet #photographer #foryoupage.
 platform: TikTok
-hits: 2933
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 2933 TikTok influencers like this for you to contact.
+hits: 2941
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 2941 TikTok influencers like this for you to contact.
 profiles:
-  - username: "thedavecarbon"
+  - username: "mollyarieanna"
     fullname: >-
-      thedavecarbon
+      MollyArieanna 
     bio: >-
-      Available for weddings and party’s for a very large fee (Straight male)
+      Join the #NekoFam 😻💖 👉🏻SUB OUR YT👈🏻 TikTok Wedding at 1M
     location: "United States"
-    followers: 13500
-    engagement: 1287
-    commentsToLikes: 0.113601
-    id: ck90vpy950z9v0j78zyctux0y
+    followers: 427500
+    engagement: 2075
+    commentsToLikes: 0.021857
+    id: ck90tzcjyupr30j7850oeets3
     verified: false
-    hashtags: "#biden2020, #truth, #duet, #comedy"
+    hashtags: "#boysinskirts, #kawaiimakeup, #kawaiigirl, #femboysarevalid"
+  - username: "aria.ready"
+    fullname: >-
+      AriaReady
+    bio: >-
+      🖤ENGAGED🖤 👉🏻🏳️‍⚧️👈🏻 👻Aria.Ready 👇🏻wedding fund👇🏻 Venmo:AriaReady777
+    location: "United States"
+    followers: 50300
+    engagement: 1905
+    commentsToLikes: 0.091975
+    id: ck8ozsxyodmcq0j78btn9q82k
+    verified: false
+    hashtags: "#shadowandbone, #fyp, #rentfreeinmymind, #rentfreeinmyhead"
+  - username: "allicampbellphoto"
+    fullname: >-
+      Alli Campbell
+    bio: >-
+      Wedding Photographer Nashville, TN
+    location: "United States"
+    followers: 16300
+    engagement: 1469
+    commentsToLikes: 0.081236
+    id: ck9fwsyws31nb0j78syhbnt1l
+    verified: false
+    hashtags: "#smallbusinesscheck, #healthycookiedough, #photographer, #shotoftheday"
   - username: "luckylott"
     fullname: >-
       Lucky Lott
     bio: >-
-      Weddings/ Portraits 📸🎥 Brooklyn 📍 Book me Below ⬇️
+      📸 Photographer 📸 Fashion / Weddings / Portraits 📍 Brooklyn 📍 ⬇️ Book me ⬇️
     location: "United States"
-    followers: 70600
-    engagement: 1252
-    commentsToLikes: 0.054483
+    followers: 69700
+    engagement: 1290
+    commentsToLikes: 0.062631
     id: ckcj3x6rb4zux0j23sztrr34i
     verified: false
-    hashtags: "#funny, #photoshoot, #photoshootidea, #behindthescenes"
-  - username: "vasuvashan"
+    hashtags: "#nyc, #sonya7iii, #photographer, #photoshoot"
+  - username: "spencercrandall"
     fullname: >-
-      Vashan Vasu 
+      Spencer Crandall
     bio: >-
-      Marine Engineering 👨‍🎓 No love,No wedding நான் என்றோ தனித்து வாழ பழகிவிட்டேன்
-    location: "Sri Lanka"
-    followers: 7207
-    engagement: 1080
-    commentsToLikes: 0.121769
-    id: cka7ny1buz8sa0i78tzuqze9p
-    verified: false
-    hashtags: "#tik, #jaffna, #actionwars, #fitness"
-  - username: "californiaweddingplanner"
-    fullname: >-
-      Weddings By Sarah Angelique
-    bio: >-
-      👰🏼👰🏽 👰🏻🤵🏻 🤵🏾🤵🏽 Destination & California Wedding Planner ✨Est. 2001✨
+      PRESAVE THE WEDDING VERSION OF MY PERSON @ THE LINK IN MY BIO!!
     location: "United States"
-    followers: 27800
-    engagement: 1535
-    commentsToLikes: 0.075147
-    id: ck90z0g7pc7bg0j788xlull57
+    followers: 1600000
+    engagement: 1633
+    commentsToLikes: 0.068460
+    id: ck9c7wi2hscay0j78mhwuh2md
+    verified: true
+    hashtags: "#countrymusic, #worththewait, #country, #voiceeffects"
+  - username: "darblins"
+    fullname: >-
+      Darby Leigh
+    bio: >-
+      21 Home Reno 🥳 Wedding stuff & some cats 🤍
+    location: "United States"
+    followers: 5100
+    engagement: 1090
+    commentsToLikes: 0.094298
+    id: ckav30zgb9ceo0j23v91xu9c6
     verified: false
-    hashtags: "#weddingplanner, #welldone, #mycostume, #fy"
+    hashtags: "#clayearringbusiness, #cattok, #catsoftiktok, #weddingdiy"
+  - username: "robandhaley"
+    fullname: >-
+      Haley
+    bio: >-
+      insta & yt ⬆️ oattok, weddingtok, & disneytok
+    location: "United States"
+    followers: 166300
+    engagement: 1455
+    commentsToLikes: 0.034560
+    id: ck8hljk5viafo0j78b3m9b455
+    verified: false
+    hashtags: "#disneytok, #foryou, #duet, #disneyland"
+  - username: "realalexisdent"
+    fullname: >-
+      alexis dent ✨
+    bio: >-
+      author + poet wedding vow writer your ✨shameless✨ BFF 📩 alexis@alexisdent.com
+    location: "United States"
+    followers: 98100
+    engagement: 914
+    commentsToLikes: 0.082506
+    id: ckav78832e8kk0j238whu9inq
+    verified: false
+    hashtags: "#myhistoryisblack, #blackhistorymonth, #trailblazertributes, #blacktiktok"
+  - username: "brandus25"
+    fullname: >-
+      Bebe
+    bio: >-
+      Level 27 OlllllllO (L)GBTQ 423 GBO Wedding fund- Cash app 👇🏼👇🏼
+    location: "United States"
+    followers: 100500
+    engagement: 855
+    commentsToLikes: 0.056310
+    id: ckcel6tg0uwvy0j23lgr2y810
+    verified: false
+    hashtags: "#again, #engayed, #girlswhomarrygirls, #startingover"
   - username: "charlieorca83"
     fullname: >-
       Charles
     bio: >-
       Just a newborn and wedding photographer who’s a bit of a wally
     location: "United Kingdom"
-    followers: 4281
-    engagement: 788
-    commentsToLikes: 0.159418
+    followers: 4236
+    engagement: 728
+    commentsToLikes: 0.123950
     id: ckakob78haln80i78w8wst07s
     verified: false
-    hashtags: "#germanshepherd, #fyp, #uk, #foryoupage"
-  - username: "jawadtanolitanoli"
-    fullname: >-
-      Jawad Tanoli Tanoli
-    bio: >-
-      Photo shoot weddingshoot opening lunching contacme jteventpr instgram contac me
-    location: "Pakistan"
-    followers: 305900
-    engagement: 877
-    commentsToLikes: 0.039378
-    id: ck8hqxif667ic0j78awojny1e
-    verified: false
-    hashtags: ""
-  - username: "graceandzay"
-    fullname: >-
-      Grace Hunter 👸🏽✨
-    bio: >-
-      Join the family on YT 🖤 You are officially invited to the wedding 🖤 800k?👀😭
-    location: "United States"
-    followers: 702800
-    engagement: 2178
-    commentsToLikes: 0.012223
-    id: ckcvgi8wpswqo0j239iwev5m7
-    verified: false
-    hashtags: "#thecoldeswater, #stitch, #fyp"
-  - username: "cristinaalemanpor"
-    fullname: >-
-      Cristina Aleman Porras
-    bio: >-
-      Tik Toker Mom of 2 🇵🇦 Wedding Planner 🗓 Love ballet 🩰
-    location: "Panama"
-    followers: 7235
-    engagement: 1723
-    commentsToLikes: 0.025207
-    id: ckdn5mqyjehq40j23g8uaihqw
-    verified: false
-    hashtags: "#ballet, #balletworkout, #nuncaestarde, #45years"
-  - username: "whoaitsmichelle"
-    fullname: >-
-      Michelle
-    bio: >-
-      TN Wedding & Lifestyle Photographer Thriving ❤️ OGMisfitAngel 🐘 JEG 3/08/18
-    location: "United States"
-    followers: 69500
-    engagement: 1812
-    commentsToLikes: 0.033377
-    id: ckbw8ai1qz6fv0j231v2tal6t
-    verified: false
-    hashtags: "#duet, #whoanation, #boudoir, #whattheheck"
-  - username: "workshop_at_the_gardens"
-    fullname: >-
-      Workshop@TheGardens
-    bio: >-
-      Wedding Venue Owner, Landscape Designer, Maker ~ The Gardens of Castle Rock : MN
-    location: "United States"
-    followers: 45400
-    engagement: 411
-    commentsToLikes: 0.051106
-    id: ckbkpkf2cjvwc0j23jnw4yrxy
-    verified: false
-    hashtags: "#granite, #strawbalegardening, #fyp, #graniteblock"
+    hashtags: "#foryoupage, #uk, #germanshepherd, #fyp"
 ---

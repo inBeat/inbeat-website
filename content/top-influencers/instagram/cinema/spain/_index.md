@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Spain In 2022
+title: Top 10 Cinema Instagram Influencers In Spain In 2023
 description: >-
-  Find top cinema Instagram influencers in Spain in 2022. Most popular hashtags: #tendermag #pellicolamag #magazine35mm.
+  Find top cinema Instagram influencers in Spain in 2023. Most popular hashtags: #streetphotography #nowherediary #thinkverylittle.
 platform: Instagram
-hits: 174
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 174 Instagram influencers like this in Spain for you to contact.
+hits: 129
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 129 Instagram influencers like this in Spain for you to work with.
 profiles:
   - username: "pattri.lc"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       📍LC, Galicia, Spain Sonriendo, que es gerundio✨ 📥 p.lcarballeira@gmail.com Youtube Channel & Cinematic Dron Session in Galicia⤵️
     location: "Spain"
-    followers: 4402
-    engagement: 1636
-    commentsToLikes: 0.077915
+    followers: 4809
+    engagement: 633
+    commentsToLikes: 0.090978
     id: ck9hc6zevk1ak0j78buqmc3z5
     verified: false
-    hashtags: ""
+    hashtags: "#landscape, #nature, #shein, #selfie"
   - username: "jorgefuembuena"
     fullname: >-
       Jorge Fuembuena
     bio: >-
       Visual Artist. Cinema.
     location: "Spain"
-    followers: 12467
-    engagement: 528
-    commentsToLikes: 0.041782
+    followers: 13920
+    engagement: 468
+    commentsToLikes: 0.062565
     id: ck6tqiw9vrq5a0j71qflxx75w
     verified: false
-    hashtags: "#arnoldschwarzenegger, #ricardodarin, #jorgefuembuena, #mattdillon"
+    hashtags: "#jorgefuembuena, #rufuswainwright, #laurynhill, #jeanclaudecarriere"
   - username: "_madcitylife_"
     fullname: >-
       FOTÓGRAFO en Madrid |ФОТОГРАФ
     bio: >-
-      Polina & Aleks 🖤 Photography | Cinematography📸 TikTok 1M+🌍 #portraits 🙋🏻‍♀️ #weddings 💍 #events 🎤 and more... We speak 🇪🇸🇺🇸🇺🇦🇷🇺 👇🏻PRESET 👇🏻
+      Polina & Aleks 🖤 Photography | Cinematography📸 TikTok 1.3M+🌍 Shein 15%: madcity #weddings 💍 #events 🎤 and more... We speak 🇪🇸🇺🇸🇺🇦🇷🇺 👇🏻PRESET 👇🏻
     location: "Spain"
-    followers: 19827
-    engagement: 553
-    commentsToLikes: 0.007017
+    followers: 45938
+    engagement: 295
+    commentsToLikes: 0.007047
     id: ck8wfbsw8fhoq0j78vqwykth8
     verified: false
-    hashtags: "#tutorial, #madcitylife, #fotografia, #presets"
-  - username: "almargsato"
+    hashtags: "#fotografia, #madcitylife, #madrid, #nevada"
+  - username: "angellofaccini"
     fullname: >-
-      🔵 Almar G. Sato 🔵
+      Angello Faccini ADFC
     bio: >-
-      Actress and Model #女優 #eurasian 🇪🇦🇯🇵 🇺🇸 @asian_cinema_entertainment 🇪🇸 @alc_actores 🇯🇵 JoinusEntertainment Madrid/Barcelona/LA/Tokio 継続は力なり✨
+      Cinematographer MEX/COL REP: @auracollective_____________ Last Feature Film: MILESTONE (Venice FF, Orizzonti ‘20)
     location: "Spain"
-    followers: 4233
-    engagement: 1110
-    commentsToLikes: 0.038338
-    id: ck6u51hy571990j71javre3c9
+    followers: 2721
+    engagement: 809
+    commentsToLikes: 0.055301
+    id: ck55m012t2vgp0i117ktdvttr
     verified: false
-    hashtags: "#happa, #asian, #asianmodel, #summer"
-  - username: "alxvisual"
-    fullname: >-
-      Alex Fernández
-    bio: >-
-      director / cinematographer
-    location: "Spain"
-    followers: 53220
-    engagement: 729
-    commentsToLikes: 0.017204
-    id: ck0vyd4bf3e1b0i19ppigbmjo
-    verified: false
-    hashtags: ""
-  - username: "alejandrodiperez"
-    fullname: >-
-      ᴀʟᴇᴊᴀɴᴅʀᴏ ᴅíᴀᴢ ᴘéʀᴇᴢ
-    bio: >-
-      📍 | Tenerife, Canary Islands, Spain 🎥 | Cinematographer | Filmmaker 📧 | morethanaminute01@gmail.com
-    location: "Spain"
-    followers: 2401
-    engagement: 2059
-    commentsToLikes: 0.085928
-    id: ckaorenwtmv760i78bxafy9dg
-    verified: false
-    hashtags: "#habitat, #underwater, #colourgrade, #postproduction"
-  - username: "mikelalors"
-    fullname: >-
-      Mikel Alors
-    bio: >-
-      22. Student / Cinematography Weekends at @catalunyaradio Tik Tok @mikelalors
-    location: "Spain"
-    followers: 11103
-    engagement: 7714
-    commentsToLikes: 0.019684
-    id: ck0vymkmu4qsj0i19k63wpgzk
-    verified: false
-    hashtags: "#feminismo, #coronavirus, #videojournalist, #tsunamidemocr"
-  - username: "manuleonfotografia"
-    fullname: >-
-      M A N U • L E Ó N
-    bio: >-
-      #cinematographer💡🎥 #Barcelona & #Sevilla 🗺 Dirección de fotografía #ESCAC
-    location: "Spain"
-    followers: 18736
-    engagement: 520
-    commentsToLikes: 0.022966
-    id: ck0w3i3hetixx0i19wbeu7thz
-    verified: false
-    hashtags: "#moodygram, #minimalmag, #cine, #liveforthestory"
+    hashtags: "#reflexionescovidianas"
   - username: "roman_petrusyak"
     fullname: >-
       Роман Петрусяк
     bio: >-
-      Cinematographer 🎥 35mm film / 16 mm /Super 8 /Commercials / music videos /art projects/ Open for collaborations
+      Cinematographer 🎥 35mm film / 16 mm / Bolex H16 owner/ Super 8 /Commercials / music videos /art projects/ Open for collaborations
     location: "Spain"
-    followers: 13017
-    engagement: 773
-    commentsToLikes: 0.022658
+    followers: 13080
+    engagement: 699
+    commentsToLikes: 0.027426
     id: ckaotrugzx7y10i78za9v3b1s
     verified: false
-    hashtags: "#shootfilmmag, #portra400, #ifyouleave, #thinkverylittle"
-  - username: "xhufflis"
+    hashtags: "#magazine35mm, #ricardobofill, #fubiz, #kodakvision350d"
+  - username: "irenecruzfoto"
     fullname: >-
-      Oscar Cabero Ramos
+      Filmmaker & Photo⚡️ Irene Cruz
     bio: >-
-      Founder of Shuffle Showcase Network© @shuffleshowcase •Master | Teacher of #shuffle •🎬 Cinematographer/Director •🎥Video 📷Photo ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⛩️ Kaiō ⛩️
+      📸 Photographer 📽Cinematographer (asoc. AEC) 📍Berlin / Madrid🍃 🌲NFT artist 🌬Be my Patreon👇🏼join my Domestika course
     location: "Spain"
-    followers: 6967
-    engagement: 1352
-    commentsToLikes: 0.035824
-    id: ck55omq8t8ocq0i1104rztrs2
+    followers: 25380
+    engagement: 271
+    commentsToLikes: 0.058954
+    id: ck14jkwa7kuok0i19o8lcey6n
     verified: false
-    hashtags: "#shuffle, #friends, #dance, #shuffledance"
+    hashtags: "#artistlife, #irenecruz, #collectart, #fotografa"
+  - username: "davidolivas"
+    fullname: >-
+      David Olivas
+    bio: >-
+      Cinematography | ESCAC beatriz@okikotalents.com
+    location: "Spain"
+    followers: 61934
+    engagement: 468
+    commentsToLikes: 0.010687
+    id: ck6tjb5742d8f0j71jjfzc3m2
+    verified: false
+    hashtags: "#ama, #dondemejoreste, #dalepoderatusideas, #ad"
+  - username: "manuleonfotografia"
+    fullname: >-
+      M A N U • L E Ó N
+    bio: >-
+      #cinematographer (Asoc. AEC) ✨🎥 #Barcelona & #Sevilla 🗺 Dirección de fotografía #ESCAC
+    location: "Spain"
+    followers: 18902
+    engagement: 393
+    commentsToLikes: 0.029132
+    id: ck0w3i3hetixx0i19wbeu7thz
+    verified: false
+    hashtags: "#cinema, #dop, #indiependentmag, #thinkverylittle"
+  - username: "alessiosaveri"
+    fullname: >-
+      Alessio Saveri
+    bio: >-
+      Cinematographer (Escac) - Wild life & Landscape Currently📍: Barcelona Somos 💡: @sunhouse.media Have Camera, Will travel
+    location: "Spain"
+    followers: 18182
+    engagement: 366
+    commentsToLikes: 0.027493
+    id: ck136uhl68bow0i19hzaya834
+    verified: false
+    hashtags: "#streetphotography, #travelersnotebook, #visitscotland, #outdooradventures"
+  - username: "alexxelafilms"
+    fullname: >-
+      Alex Xela
+    bio: >-
+      Founder @somosestudio_ 📽Cinematographer 📸Photographer Grupo quedada
+    location: "Spain"
+    followers: 16020
+    engagement: 281
+    commentsToLikes: 0.091310
+    id: ck5cc76rngu5n0i11mh3za44e
+    verified: false
+    hashtags: "#axsoloencasa, #argentina, #comuna13, #sonyalpha"
 ---

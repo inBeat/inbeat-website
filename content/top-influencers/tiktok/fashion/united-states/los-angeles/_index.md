@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Los Angeles In 2022
+title: Top 10 Fashion TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top fashion TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fashion #fyp #losangeles #viral.
+  Find top fashion TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fashion #fyp #losangeles #ootd.
 platform: TikTok
-hits: 127
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 127 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 144
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 144 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "therealjuliajolie"
+  - username: "cosette"
     fullname: >-
-      Julia Jolie
+      cosette
     bio: >-
-      126K verified on IG Obsessed with Hacks! Beauty, Fashion, Home!
+      hi ¨̮ welcome to my page! diy, lifestyle, fashion los angeles ❤️
     location: "United States"
-    followers: 56500
-    engagement: 511
-    commentsToLikes: 0.033908
-    id: ckbwin7by3afe0j23ena1og38
-    verified: false
-    hashtags: "#whataproof, #wip, #beautyhack, #motivationmonday"
-  - username: "maggieyes"
+    followers: 2300000
+    engagement: 1705
+    commentsToLikes: 0.007650
+    id: ck7zo2x2ihagg0j784nsd54p8
+    verified: true
+    hashtags: "#experiment, #randomthings, #lifehack, #magic"
+  - username: "mariaaluisabb"
     fullname: >-
-      Maggie Yes
+      MariaLuisa
     bio: >-
-      Popular on IG & YT over 5m followers.
+      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
     location: "United States"
-    followers: 15300
-    engagement: 2116
-    commentsToLikes: 0.029066
-    id: ck8j8yyxuky8n0j78dfjge92t
+    followers: 16300
+    engagement: 460
+    commentsToLikes: 0.040134
+    id: ckb9q730xlspj0j23xo0p4snq
     verified: false
-    hashtags: "#fyp, #itstartsontiktok, #fya, #foryou"
+    hashtags: "#california, #lifestyle, #beauty, #style"
+  - username: "majorwavezz"
+    fullname: >-
+      Majorwavez 
+    bio: >-
+      Follow me :) I host giveaways every week 🤪👟 use code tiktok for 13% off
+    location: "United States"
+    followers: 296900
+    engagement: 946
+    commentsToLikes: 0.015285
+    id: ck80crtx3aur40j78v451zh6u
+    verified: false
+    hashtags: "#customshoes, #majorwavezlab, #sneakerhead, #asmr"
+  - username: "marccolcer"
+    fullname: >-
+      Marc Colcer
+    bio: >-
+      Behind The Scenes of my photoshoots 📸 Check my Instagram for more photos/videos
+    location: "United States"
+    followers: 43400
+    engagement: 637
+    commentsToLikes: 0.020614
+    id: ckbeyufd2jiua0j23fnnszccw
+    verified: false
+    hashtags: "#foryoupage, #modeling, #bikini, #photoshoot"
+  - username: "dreaknowsbest"
+    fullname: >-
+      Drea Knowsbest 
+    bio: >-
+      Comedy,Lifestyle,Culture🇳🇬 NEW PODCAST EPISODE! 👇🏾👇🏾👇🏾👇🏾👇🏾
+    location: "United States"
+    followers: 5400000
+    engagement: 1605
+    commentsToLikes: 0.007764
+    id: ck80oqcwhj8qs0j78g76rvv1f
+    verified: true
+    hashtags: "#dance, #trend, #accentchallenge, #ankara"
+  - username: "atikhunk"
+    fullname: >-
+      atikhun kanjanakaset
+    bio: >-
+      fashion x anime los angeles 🇹🇭🇨🇳 Fridays @ 7:30PM PST ⬇️
+    location: "United States"
+    followers: 948900
+    engagement: 1521
+    commentsToLikes: 0.015449
+    id: ck8kezfv4bwe70j78z0aw3u82
+    verified: true
+    hashtags: "#tiktokfashionmonth, #tiktokfashion, #mystyle, #fashionedit"
+  - username: "waltercollection"
+    fullname: >-
+      WalterMendez
+    bio: >-
+      FOLLOW ME ON INSTAGRAM 👗 Fashion Designer, 📍Los Ángeles
+    location: "United States"
+    followers: 74500
+    engagement: 792
+    commentsToLikes: 0.035628
+    id: ck8vw3kwrne3e0j78e124rzzt
+    verified: true
+    hashtags: "#ootd, #runway, #fashion, #chanel"
+  - username: "_christinemariie4"
+    fullname: >-
+      _christinemariie
+    bio: >-
+      ☆ Let’s have some fun ☆ High & Bi
+    location: "United States"
+    followers: 5295
+    engagement: 1158
+    commentsToLikes: 0.049888
+    id: ckcdygja4gmuu0j23sd4svf6t
+    verified: false
+    hashtags: "#oregon, #outfitinspo, #fyp, #foryou"
   - username: "maysuncardwell"
     fullname: >-
       Maysun Cardwell
     bio: >-
       ATL to LA baby
     location: "United States"
-    followers: 3625
-    engagement: 627
-    commentsToLikes: 0.064886
+    followers: 3735
+    engagement: 640
+    commentsToLikes: 0.061217
     id: ckcpstbg7n9b50j23je2f5fhv
     verified: false
-    hashtags: "#fyp, #duet, #greenscreen, #covid19"
-  - username: "verifiedwave"
+    hashtags: "#fyp, #greenscreen, #catsoftiktok, #typo"
+  - username: "arthurtparra"
     fullname: >-
-      verifiedwave
+      Arthurparra
     bio: >-
-      Y͎O͎U͎ ͎N͎E͎E͎D͎~͎T͎O͎ ͎S͎E͎E͎ ͎T͎H͎I͎S͎
+      Fashion & Lifestyle IG : @arthurtparra Los Angeles
     location: "United States"
-    followers: 9813
-    engagement: 926
-    commentsToLikes: 0.036257
-    id: ckavbf9gmj2qk0j231o9ks3fy
+    followers: 38100
+    engagement: 514
+    commentsToLikes: 0.025555
+    id: ck8z5ye1ejtgf0j78epi9g5dx
     verified: false
-    hashtags: "#foruu, #extreme, #nike, #xyzcb"
-  - username: "atikhunk"
-    fullname: >-
-      atikhun kanjanakaset
-    bio: >-
-      fashion x anime los angeles 🇹🇭🇨🇳 follow the insta ⬇️
-    location: "United States"
-    followers: 617600
-    engagement: 1414
-    commentsToLikes: 0.012879
-    id: ck8kezfv4bwe70j78z0aw3u82
-    verified: true
-    hashtags: "#emojioutfits, #outfitideas, #tiktokfashion, #mystyle"
-  - username: "waltercollection"
-    fullname: >-
-      WalterMendez
-    bio: >-
-      👗 Fashion Designer, 📍Los Ángeles IG: @WalterCollection & @RyanAndWalter
-    location: "United States"
-    followers: 59900
-    engagement: 599
-    commentsToLikes: 0.044960
-    id: ck8vw3kwrne3e0j78e124rzzt
-    verified: true
-    hashtags: "#fashion, #style, #luxury, #ootd"
-  - username: "revicedenim"
-    fullname: >-
-      REVICE DENIM
-    bio: >-
-      Our jeans in action 💗✨ Designed in Los Angeles, as seen on your favorites!
-    location: "United States"
-    followers: 19800
-    engagement: 702
-    commentsToLikes: 0.022545
-    id: ckae395tiwnk30i78ju840xhg
-    verified: false
-    hashtags: "#losangeles, #fashion, #foryou, #fyp"
-  - username: "superduperdanni"
-    fullname: >-
-      SuperDuperDani 
-    bio: >-
-      Nintendo YouTuber and massive nerd 🎥
-    location: "United States"
-    followers: 13000
-    engagement: 1353
-    commentsToLikes: 0.046587
-    id: ckcegj6vpnvbt0j235v7p5xbs
-    verified: false
-    hashtags: "#gaming, #fyp, #pokemon, #pokemongo"
-  - username: "yu.lis.sa"
-    fullname: >-
-      Yulissa
-    bio: >-
-      FASHION/ PORTRAIT PHOTOGRAPHER They | Them 🌈 22 | So Cal Booking ↓
-    location: "United States"
-    followers: 21100
-    engagement: 1278
-    commentsToLikes: 0.047744
-    id: ckav1f4nf7fki0j23lxiyepzd
-    verified: false
-    hashtags: "#bipoc, #tiktokphotographer, #queer, #losangelesphotographer"
-  - username: "lm.meets"
-    fullname: >-
-      lm.meets
-    bio: >-
-      Photography and modeling meets/meetups IG: @LadyMehanPhoto
-    location: "United States"
-    followers: 18400
-    engagement: 210
-    commentsToLikes: 0.013664
-    id: ck8trb4gqqwyi0j78q14euf2r
-    verified: false
-    hashtags: "#tiktok, #joblife, #california, #bts"
+    hashtags: "#fashion, #outfitinspo, #fyp, #ootd"
 ---

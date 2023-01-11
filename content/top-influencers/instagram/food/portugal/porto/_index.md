@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Porto In 2022
+title: Top 10 Food Instagram Influencers In Porto In 2023
 description: >-
-  Find top food Instagram influencers in Porto in 2022. Most popular hashtags: #porto #style #photooftheday #love.
+  Find top food Instagram influencers in Porto in 2023. Most popular hashtags: #fashion #food #foodie #fashionblogger.
 platform: Instagram
-hits: 14
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 14 Instagram influencers like this in Porto, Portugal for you to pitch.
+hits: 4
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 4 Instagram influencers like this in Porto, Portugal for you to work with.
 profiles:
-  - username: "hugomigstos"
+  - username: "joanavaz_"
     fullname: >-
-      Hugo Santos 🦦
+      JOANA VAZ
     bio: >-
-      📍Porto, Portugal
+      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt SHOP MY SUNGLASSES COLLECTION HERE 👇
     location: "Portugal"
-    followers: 5397
-    engagement: 1389
-    commentsToLikes: 0.007872
-    id: ckf5m4640s63x0j23ynrpnn2h
-    verified: false
-    hashtags: "#beproud, #model, #gayboy, #topportophoto"
-  - username: "carolina10ferreira"
+    followers: 351000
+    engagement: 411
+    commentsToLikes: 0.011860
+    id: ck0vvzzinrhpl0i19s7rkfmrz
+    verified: true
+    hashtags: "#positano, #fashionstyle, #summer, #travel"
+  - username: "joanacbcosta"
     fullname: >-
-      Carolina Ferreira 🌱🌍🕊️
+      Joana Costa
     bio: >-
-      🍀 Wellness | Food | Healthy | Travel | Lifestyle 📍Porto, Portugal 🇵🇹 | ✈️: 🇪🇸🇨🇵🇩🇪🇲🇽🇨🇭 🎓 UPT - GH
+      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
     location: "Portugal"
-    followers: 3197
-    engagement: 1849
-    commentsToLikes: 0.148616
-    id: ck8t50jcr8g6g0j78pfzywg8j
+    followers: 61870
+    engagement: 353
+    commentsToLikes: 0.539473
+    id: ckap6c2m9f9gv0i786k2ulw9p
     verified: false
-    hashtags: "#like4likes, #healthyeating, #sunset, #lifestyle"
-  - username: "diogorcarrilho"
+    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
+  - username: "alicefcnunes"
     fullname: >-
-      Diogo Carrilho
+      Alice Nunes ✨
     bio: >-
-      Design, style and travel! 🌴 Collabs send DM 👊🏽 diogo_karrilho@hotmail.com 📩 @digs__design 📍lisbon
+      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com
     location: "Portugal"
-    followers: 14154
-    engagement: 506
-    commentsToLikes: 0.004993
-    id: ck8t6cxj8d5870j78q2eg4tc7
+    followers: 7231
+    engagement: 604
+    commentsToLikes: 0.081193
+    id: ck9hc85qyk6z00j78p5eawpc1
     verified: false
-    hashtags: "#lisboa, #photo, #visitportugal, #nature"
-  - username: "sarahmaggioli"
+    hashtags: "#portuguesegirl, #porto, #portugal, #igers"
+  - username: "lindsaydcst"
     fullname: >-
-      Sarah Maggioli ✨
+      Lindsay Da Costa
     bio: >-
-      📍 Porto, Portugal 🎓 Master in Psychology Buy my presets here 👇 @friospresets
+      🇫🇷 🇧🇪 | Sport | Healthy food | Travel ⚡️ @qntsportnutrition -20% CREWLINDSAY 🔥 @hipro.belgium 🎒 @kingkongapparel
     location: "Portugal"
-    followers: 39222
-    engagement: 397
-    commentsToLikes: 0.018820
-    id: ck6tx838kwcv10j71u8xta4rm
+    followers: 3140
+    engagement: 585
+    commentsToLikes: 0.041959
+    id: ckap9t0mgtjb50i78b1t0xl9h
     verified: false
-    hashtags: "#style, #styleblogger, #streetstyle, #lookstyle"
-  - username: "catarinaadeoliveira"
+    hashtags: "#crossfitfrance, #qntsportnutrition, #summervibes, #crossfitbelgium"
+  - username: "tothepointenutrition"
     fullname: >-
-      Catarina Oliveira
+      Dance Nutritionist Rachel Fine
     bio: >-
-      23🌞📍Lisboa 🇵🇹🇬🇧🇪🇸🇩🇪🇧🇪🇫🇷🇨🇭🇮🇹 Travel, food and beauty enthusiast | Human rights activist 📝 Aspiring writer 💊 pharmacist loading 📩catarinoli@gmail.com
+      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
     location: "Portugal"
-    followers: 3957
-    engagement: 715
-    commentsToLikes: 0.057818
-    id: ck8ta8l7oqufk0j786xnzevvc
+    followers: 37160
+    engagement: 204
+    commentsToLikes: 0.012168
+    id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#porto, #palaciodecristal, #lookportugal, #topinfluencerpt"
-  - username: "be_badass"
+    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+  - username: "rafaelaalexandra0"
     fullname: >-
-      BE BADASS
+      Rafaela Duarte | Healthy 💫
     bio: >-
-      Content creator Lifestyle & Entreprenariat 📍Parisian based in Porto contact@bebadass.fr
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
     location: "Portugal"
-    followers: 3083
-    engagement: 953
-    commentsToLikes: 0.132391
-    id: ck5zr1mqrvq1b0i14ap29cvao
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#goodvibesonly, #organisation, #idealofsweden, #entrepreneur"
-  - username: "_mariabatista_"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+  - username: "sea3p0"
     fullname: >-
-      𝐌𝐀𝐑𝐈𝐀 𝐁𝐀𝐓𝐈𝐒𝐓𝐀 🦋
+      s e a
     bio: >-
-      🐆 25 y | Virginiana ♍️ | Porto & Braga 🇵🇹 💅🏼 Lifestyle | Fashion | Makeup | Food | & lots of fun 🎉 💼 Coordenadora @hope.hospitalidade.eventos
+      I just really like anime and food🤤💖 📧 @notable.pt 👇👼🏼YOUTUBE👼🏼👇
     location: "Portugal"
-    followers: 20672
-    engagement: 537
-    commentsToLikes: 0.030046
-    id: ck55lm7yx1wgd0i11psuhdvnq
-    verified: false
-    hashtags: "#shoes, #style, #instagood, #instafashion"
-  - username: "beatrizrgama"
+    followers: 376974
+    engagement: 301
+    commentsToLikes: 0.008954
+    id: ck8t2x3uu110h0j78fihlmp31
+    verified: true
+    hashtags: "#parceria"
+  - username: "claudiadias.oficial"
     fullname: >-
-      𝐁 𝐄 𝐀 𝐓 𝐑 𝐈 𝐙   𝐆 𝐀 𝐌 𝐀
+      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
     bio: >-
-      𝟏𝟗 • 𝐅𝐫𝐨𝐦 𝐏𝐨𝐫𝐭𝐮𝐠𝐚𝐥 ✈︎ • 𝐔𝐌𝐢𝐧𝐡𝐨 👩🏽‍🎓𝐛𝐞𝐚𝐭𝐫𝐢𝐳𝐠𝐚𝐦𝐚𝐜𝐨𝐥𝐥𝐚𝐛@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+      💃🏽25| Lifestyle| Dancer | food lover Represented by @milenar_influence_media 💌claudia.dias@milenarmedia.pt 🎥Youtube Channel:Claudia Dias
     location: "Portugal"
-    followers: 18147
-    engagement: 862
-    commentsToLikes: 0.668769
-    id: ck8t69p8hcsbk0j78wisurjpc
+    followers: 42189
+    engagement: 772
+    commentsToLikes: 0.005703
+    id: ck13bn882w8ri0i19lsl0rjse
     verified: false
-    hashtags: "#photoshoot, #foodporn, #guimaraes, #fashionblogger"
-  - username: "virginiapferreira"
+    hashtags: "#day3, #cookingwithclaudia, #pub, #ograndegorrinho"
+  - username: "gabriellaspbrooks"
     fullname: >-
-      Virgínia Ferreira
+      Gabriella Brooks
     bio: >-
-      Beauty and Fashion Blogger CONTACT virginiaferreira91@gmail.com Tiktok ▶️ virginiaferreira91 @rotita_official
+      🇦🇺🇵🇹🇧🇪 Foodie @nxt.management Brands & Digital: lara@next.pt
     location: "Portugal"
-    followers: 8163
-    engagement: 764
-    commentsToLikes: 0.154529
-    id: ck8szqi8vpcay0j78qoqxb6qu
+    followers: 10344
+    engagement: 362
+    commentsToLikes: 0.046466
+    id: ck5c38a9hys8a0i11wx17zhik
     verified: false
-    hashtags: "#whatimweraring, #portoportugal, #photosideas, #outfit"
-  - username: "veraoliveiraa"
+    hashtags: "#dessertbae, #foodie, #hungrylittlemuffin, #stayathome"
+  - username: "golden.nico"
     fullname: >-
-      𝙑𝙚𝙧𝙖 𝙊𝙡𝙞𝙫𝙚𝙞𝙧𝙖
+      𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
     bio: >-
-      🌍🇪🇸 🇲🇦 🇫🇷 🇩🇪 🇮🇹🇨🇭🏴󠁧󠁢󠁥󠁮󠁧󠁿 ✈️ ∙𝙳𝙼-𝙲𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜 📩 #influencer •10% 𝚌/𝚌𝚘𝚍𝚒𝚐𝚘 𝚉𝚄𝙼𝚄𝙱➡️ 𝚅𝙴𝚁𝙰𝙾𝙻𝙸𝚅𝙴𝙸𝚁𝙰 ⤵️ Influecontactvera@gmail.com ⏰🍊🍎
+      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Spanish • English • Portuguese.
     location: "Portugal"
-    followers: 12160
-    engagement: 663
-    commentsToLikes: 0.102853
-    id: ck9wdjgbpfx1c0j78rjcn9wnd
+    followers: 14070
+    engagement: 291
+    commentsToLikes: 0.028862
+    id: ck6ucvcowhold0j71e8oo86f3
     verified: false
-    hashtags: "#influencers, #ootd, #dourolovers, #love"
+    hashtags: "#reels, #lookyanbal, #yanbal, #makeup"
 ---

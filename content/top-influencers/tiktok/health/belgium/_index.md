@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Belgium In 2022
+title: Top 10 Health TikTok Influencers In Belgium In 2023
 description: >-
-  Find top health TikTok influencers in Belgium in 2022. Most popular hashtags: #foryou #foryoupage #fyp #tiktok.
+  Find top health TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #love #belgium.
 platform: TikTok
-hits: 14
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 14 TikTok influencers like this in Belgium for you to collaborate.
+hits: 12
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Belgium for you to pitch.
 profiles:
   - username: "healthifycoach"
     fullname: >-
@@ -13,96 +13,108 @@ profiles:
     bio: >-
       Zoraida Carbajal Msc.🌸healthifycoach✔️https://www.paypal.me/HealthifyMyLife❤️
     location: "Belgium"
-    followers: 32900
-    engagement: 365
-    commentsToLikes: 0.129113
+    followers: 33200
+    engagement: 736
+    commentsToLikes: 0.171279
     id: cka0tni0eqm9h0i78i0xeuywr
     verified: false
-    hashtags: "#outdoorscoach, #cisnesblancos, #fitcoach, #datingcoachformen"
-  - username: "aesthetic.foodiary"
+    hashtags: "#fityogacoach, #healthifymylifewithzoraida, #fitlifecoach, #lovecoach"
+  - username: "kimvanderbeke"
     fullname: >-
-      Clara 🌸
+      Kim Van der Beke
     bio: >-
-      Follow my tiktok @claradevegaa let’s be friends! Food inspo Started: 2nd April
+      Just having Fun🙋‍♀️ * Fit and Health Coach * Teacher Insta👉kimvdb_fitcoach 💋
     location: "Belgium"
-    followers: 6177
-    engagement: 1868
-    commentsToLikes: 0.033220
+    followers: 10200
+    engagement: 675
+    commentsToLikes: 0.081739
+    id: ckcujsdm3gm7l0j23xtoayo5c
+    verified: false
+    hashtags: "#dance, #fyp, #duetme, #trending"
+  - username: "clarasfoodiary"
+    fullname: >-
+      Clara
+    bio: >-
+      recipes and meal inspo 📩 clarasfoodiary@gmail.com
+    location: "Belgium"
+    followers: 6521
+    engagement: 1530
+    commentsToLikes: 0.036049
     id: ckb9rx5ddoo800j232i4t6sg0
     verified: false
-    hashtags: "#healthyeats, #pescovegetarian, #foryoupage, #foodtiktok"
-  - username: "majalex_"
-    fullname: >-
-      MAJA LEX 
-    bio: >-
-      Belgian model 18 Insta : @majalex
-    location: "Belgium"
-    followers: 25200
-    engagement: 1176
-    commentsToLikes: 0.010859
-    id: cka0rviilioiy0i78pc2d683t
-    verified: false
-    hashtags: "#model, #modeling, #modellife, #foryou"
+    hashtags: "#cooking, #healthybreakfast, #foryou, #breakfastideas"
   - username: "tinne.oltmans"
     fullname: >-
       Tinne Oltmans
     bio: >-
-      Actor & singer VERDRIJF ME, OUT NOW! 💙 ☎ Business: tinne.oltmans@outlook.com
+      Actor & singer OP EEN DAG, OUT NOW! ✨ ☎ Business: tinne.oltmans@outlook.com
     location: "Belgium"
-    followers: 89200
-    engagement: 1827
-    commentsToLikes: 0.015824
+    followers: 105000
+    engagement: 1635
+    commentsToLikes: 0.012704
     id: ck921p03jj0o40j7863jp3fbm
-    verified: false
-    hashtags: "#tinneoltmans, #lipsync, #singer, #comedy"
-  - username: "vlada.bukshtynovich"
+    verified: true
+    hashtags: "#comedy, #lipsync, #tinneoltmans, #cover"
+  - username: "marjo_drien"
     fullname: >-
-      Vlada Bukshtynovich
+      marjo_drien
     bio: >-
-      insta @VLADA.BUKSHTYNOVICH unproblematic 18
+      Instagram marjo_drien 💕 #Belgium 🇧🇪
     location: "Belgium"
-    followers: 53800
-    engagement: 1359
-    commentsToLikes: 0.029253
-    id: ckcvh0q0ptm2a0j23l1572zi3
+    followers: 32300
+    engagement: 811
+    commentsToLikes: 0.036183
+    id: cka5zmwjhnfko0i78bx8s2xhn
     verified: false
-    hashtags: "#fyp, #foryou, #fy, #vladabukshtynovich"
+    hashtags: "#belgium, #single, #music, #weight"
   - username: "thib_sel"
     fullname: >-
       tselderslagh
     bio: >-
       Filmmaker| Photographer clothing brand: https://tulipewear.com
     location: "Belgium"
-    followers: 4313
+    followers: 4238
     engagement: 1007
-    commentsToLikes: 0.021733
+    commentsToLikes: 0.018422
     id: ckbkw66qlrt300j23la070jv6
     verified: false
-    hashtags: "#indonesia, #canggu, #bali, #broll"
-  - username: "donabr_dqnn_officiel"
+    hashtags: "#workout, #indonesia, #videomaking, #canggu"
+  - username: "bycamilaagostini"
     fullname: >-
-      donabr_dqnn_officiel
+      Camila Alija Agostin
     bio: >-
-      𝕭𝖊𝖑𝖌𝖊🇧🇪 1̴7̴ 𝚢𝚎𝚊𝚛𝚜 ꙆƮᙅᖴ 5Ʈᙖ🥳💪🥳 𝟙Ƽ~𝟙ϩ~𝟙९ 👫💍❤💑🥰
+      Um pouco do meu mundinho criativo explorando esse mundão! Brazilian in Belgium
     location: "Belgium"
-    followers: 3586
-    engagement: 1344
-    commentsToLikes: 0.029062
-    id: cka0phz4e8cmu0i78sk9rgsv1
+    followers: 7054
+    engagement: 962
+    commentsToLikes: 0.038055
+    id: ckdboujwob79z0j231bkepu0b
     verified: false
-    hashtags: "#music, #musically, #frenchhumour, #humour"
+    hashtags: "#viajar, #intercambio, #fotografia, #mochilao"
+  - username: "majalex_"
+    fullname: >-
+      MAJA LEX 
+    bio: >-
+      Belgian model / model tok 🤍 18 @majalex_
+    location: "Belgium"
+    followers: 48100
+    engagement: 1003
+    commentsToLikes: 0.010302
+    id: cka0rviilioiy0i78pc2d683t
+    verified: false
+    hashtags: "#tallgirl, #modellife, #majalex, #models"
   - username: "klaasje_meijer_"
     fullname: >-
       Klaasje Meijer
     bio: >-
       OFFICIËLE TIKTOK 💗 📩 klaasjemeijerofficial@gmail.com 📸 insta: klaasje_meijer
     location: "Belgium"
-    followers: 125000
-    engagement: 1080
-    commentsToLikes: 0.010289
+    followers: 161700
+    engagement: 999
+    commentsToLikes: 0.008934
     id: ckbqih9sb3pns0j23mvqb8jib
     verified: false
-    hashtags: "#fyp, #foryoupage, #tiktok, #fy"
+    hashtags: "#fyp, #tiktok, #foryoupage, #foryou"
   - username: "shannengalle"
     fullname: >-
       Shannen Galle
@@ -115,16 +127,4 @@ profiles:
     id: ckb9atiohw4hb0j23sfqku3bp
     verified: false
     hashtags: "#fyp, #belgium, #foryoupage, #foryou"
-  - username: "by_nowa"
-    fullname: >-
-      •Kristina Schnapp🥺💕•
-    bio: >-
-      Taking a break of posting I love Noah Schnappie and Anime😻❤️ AM(free)👀 👇❤️
-    location: "Belgium"
-    followers: 12600
-    engagement: 2980
-    commentsToLikes: 0.073000
-    id: ck9ewdb6vm8yp0j78euff2to8
-    verified: false
-    hashtags: "#viral, #unshadowbanmepls, #foryou, #foryoupage"
 ---

@@ -1,106 +1,118 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Peru In 2022
+title: Top 10 Bakers Instagram Influencers In Peru In 2023
 description: >-
-  Find top bakers Instagram influencers in Peru in 2022. Most popular hashtags: #peru #instagood #lifestyle #outfits.
+  Find top bakers Instagram influencers in Peru in 2023. Most popular hashtags: #peru #love #lakers #lifestyle.
 platform: Instagram
-hits: 8
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 8 Instagram influencers like this in Peru for you to contact.
+hits: 9
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Peru for you to work with.
 profiles:
-  - username: "tephaloza8"
+  - username: "lorenzomendez7"
     fullname: >-
-      Spheffany Loza
+      Lorenzo Mendez
     bio: >-
-      𝐒𝐩𝐨𝐫𝐭𝐬𝐰𝐨𝐦𝐚𝐧 & 𝐦𝐨𝐝𝐞𝐥𝐨 🇵🇪 Founder @carlotas_bakery 📩 Contacto: @mrayubu Tiktok: tephalo8
+      Business Inquiry: LorenzoMusic7@yahoo.com Cantante/Compositor 2X Latin Grammy Brand Ambassador YouTube Channel: ⬇️
     location: "Peru"
-    followers: 1504640
-    engagement: 154
-    commentsToLikes: 0.010269
-    id: ck6ucvv1khr3a0j71d27f75re
+    followers: 955657
+    engagement: 141
+    commentsToLikes: 0.022937
+    id: ck0ucgjlogpjm0i19pkgmsaag
     verified: true
-    hashtags: "#shooting, #inspo, #blessed, #papijuancho"
+    hashtags: "#lorenzomendez, #lm7entertainment, #lm7, #eldinerovieneyva"
   - username: "antonellasalini02"
     fullname: >-
       Antonella Salini
     bio: >-
-      Teen Universe Perú 19’ 📍 Trujillo - Perú Fundadora: @fransa_bakery 🥧 Colaboraciones al DM📨@
+      Teen Universe Perú 19’ 📺Conductora: @activanortemagazine 📍 Trujillo - Perú 20 - 2sep🌸 Fundadora: @fransa_bakery 🥧 @fransa_clothing8 ✨
     location: "Peru"
-    followers: 17684
-    engagement: 797
-    commentsToLikes: 0.029101
+    followers: 18080
+    engagement: 519
+    commentsToLikes: 0.017910
     id: ck8szk2ltoqxw0j789716ampe
     verified: false
-    hashtags: "#instalike, #cute, #liketime, #lifestyle"
-  - username: "manu___mg"
+    hashtags: "#likesforlike, #trujillo, #beauty, #lifestyle"
+  - username: "tephaloza8"
     fullname: >-
-      Manu
+      Spheffany Loza
     bio: >-
-      | Foodlover | Traveler 🏝 obsessed with cakes and all things sweet #manueats #manu_travels
+      𝐒𝐩𝐨𝐫𝐭𝐬𝐰𝐨𝐦𝐚𝐧 & 𝐦𝐨𝐝𝐞𝐥𝐨 🇵🇪 Founder @carlotas_bakery Tips @tephatips 📩 Contacto: @mrayubu Tiktok: tephalo8
     location: "Peru"
-    followers: 4938
-    engagement: 2009
-    commentsToLikes: 0.028077
-    id: ck6tucbacfiqx0j71qsyjhil9
-    verified: false
-    hashtags: "#nom, #foodphotography, #streetfood, #peru"
-  - username: "marana.gm"
+    followers: 1536162
+    engagement: 156
+    commentsToLikes: 0.009850
+    id: ck6ucvv1khr3a0j71d27f75re
+    verified: true
+    hashtags: "#amor, #cuidemosnuestroplaneta, #inspo, #mentesana"
+  - username: "laespatulaverde"
     fullname: >-
-      Majo y Analu - Content Creator
+      Karen Lema | Recetas caseras
     bio: >-
-      Nos dicen chis Moda - lifestyle ♡ Fundadoras de @almarosa.pe ♡ Contact.marana@gmail.com
+      👩🏻‍🍳Cocinera y autora del libro La Espátula Verde. 🥙Aprende a cocinar fácil y saludable. 💚Más recetas, ideas y tips en mi libro:
     location: "Peru"
-    followers: 35884
-    engagement: 253
-    commentsToLikes: 0.042316
-    id: ck1397rc6jylw0i190heewaet
+    followers: 122171
+    engagement: 374
+    commentsToLikes: 0.338682
+    id: ck13cqhvt1o2l0i19xu2swugr
     verified: false
-    hashtags: "#fashiontip, #looks, #ootd, #inspoun"
-  - username: "judacnyrondon"
+    hashtags: "#instafood, #recetadeldia, #easyrecipes, #cuidad"
+  - username: "pierina_dg"
     fullname: >-
-      J U D A C N Y R O N D O N
+      Pierina De La Borda Gotuzzo
     bio: >-
-      Hola gente linda CEO: @mundodejudacny ✉️info.judacnyrondon@gmail.com TikTok: Judacnyrondonn In Peru to the world
+      Comunicadora Social Lifestyle Blogger Founder:🍃 @qhalella.pe 🎭Actriz 📍Arequipeña en Lima 📩 pieri_dbg@hotmail.com AREQUIPA ❤️⬇️⬇️
     location: "Peru"
-    followers: 930573
-    engagement: 157
-    commentsToLikes: 0.027418
-    id: ckaorqlryobdp0i7814byomg4
+    followers: 28530
+    engagement: 279
+    commentsToLikes: 0.213252
+    id: ck0u81ats66gj0i19ly75nquv
     verified: false
-    hashtags: "#arreglosconglobos, #miraflores, #bicycle, #mtb"
-  - username: "daniellaeacosta"
+    hashtags: "#lookoftheday, #ootd, #outfitoftheday, #arequipa"
+  - username: "dibujatuviaje"
     fullname: >-
-      Daniella Acosta
+      Daniela Avila
     bio: >-
-      👩🏻‍🎓l Publicista & Lifestyle Blogger 🎶| #TikTok @daniellaeacosta 🌷l Jeremías 29:11 👩🏻‍💻l @versatile.peru Mira mi último video⬇️
+      Peruana 🇵🇪 Embajadora @cometoperu Te mostrare lo lindo de mi país 🥰 Encuéntrame en YouTu
     location: "Peru"
-    followers: 57299
-    engagement: 221
-    commentsToLikes: 0.188334
-    id: ck13d1tzc38n30i19e4v4c15v
+    followers: 43108
+    engagement: 924
+    commentsToLikes: 0.033068
+    id: ckapahfdgw4a50i78gy0nhdbv
     verified: false
-    hashtags: "#lifestyleblogger, #comfystyle, #fashionblog, #fashionstyle"
-  - username: "nancy_altfer"
+    hashtags: "#inthowild, #ctperu, #lake, #monta"
+  - username: "diegovaloficial"
     fullname: >-
-      Nancy Altamirano Fernández
+      Diego Val
     bio: >-
-      🥰hola🥰 ◾Lima Perú ◾Capricornio ◾19/01/2002 ◾Nancyaltfer75@gmail.com ❤️ vive hoy como si fueras a morir mañana♥️ ♡Viviendola♡
+      @empirelatino @latinvasion @wolfclanmedia Diegoval@wolfclanmedia.com 🐺🐺🐺🐺🐺🐺🐺🐺🐺 Album “TIMELESS” 📀 TellMe”Dime” Vídeo out now ⬇️📽
     location: "Peru"
-    followers: 18796
-    engagement: 987
-    commentsToLikes: 0.047808
-    id: ckf5vqm8cpk040j23shd85h1d
-    verified: false
-    hashtags: "#lifestyle, #hi, #day, #domingo"
-  - username: "sergiogabo"
+    followers: 126544
+    engagement: 113
+    commentsToLikes: 0.109630
+    id: ck15qsifs4f8x0i19d9vvh65f
+    verified: true
+    hashtags: "#timeless, #wolfclan, #wolf, #mexico"
+  - username: "jfalaoficial"
     fullname: >-
-      GABRIEL ZAVALETA⚘
+      J Fala
     bio: >-
-      •Coreógrafo / Bailarín 🇵🇪 @_soulfulstudio 🏠 🔻𝐌𝐈 𝐂𝐀𝐍𝐀𝐋 𝐃𝐄 𝐘𝐎𝐔𝐓𝐔𝐁𝐄🔻
+      🎵 Cantante 🔴 Modelo Publicitario 📍Lima, Peru 📩 info@angoraproducciones.com 🔴 Conoce y muévete con LA LOCURA ⬇️
     location: "Peru"
-    followers: 4052
-    engagement: 810
-    commentsToLikes: 0.089118
-    id: ck15thqzfi4y60i19mgaev1k0
+    followers: 87896
+    engagement: 338
+    commentsToLikes: 0.011158
+    id: ck9wggmlutbyf0j78hec3xqzk
     verified: false
-    hashtags: "#limaperu, #equipment, #4k, #costaverde"
+    hashtags: "#models, #descanzar, #pureza, #fitnessmotivation"
+  - username: "elrincondeltriplista"
+    fullname: >-
+      Juandi - Rincón del Triplista
+    bio: >-
+      #BALONCESTO #NBA Cuenta personal ➡️ @juuaandi 📽 YouTube: Juandi Triplista 📧 elrincondeltriplista@gmail.com 👇 NUEVO VÍDEO 👇
+    location: "Peru"
+    followers: 55506
+    engagement: 334
+    commentsToLikes: 0.003570
+    id: ckap14c4jt2fc0i78dwwvdof1
+    verified: false
+    hashtags: "#nba, #basketball, #baloncesto, #nbahistory"
 ---

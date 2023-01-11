@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Switzerland In 2022
+title: Top 10 Models TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top models TikTok influencers in Switzerland in 2022. Most popular hashtags: #foryou #model #fyp #switzerland.
+  Find top models TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #model #switzerland #viral.
 platform: TikTok
-hits: 28
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 28 TikTok influencers like this in Switzerland for you to contact.
+hits: 24
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 24 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "adrianamarques240"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Model pro📸🇵🇹🇨🇭 IG @adri_ana_adia @adriana_marquescompte2 tiktok 🙏❤
     location: "Switzerland"
-    followers: 108200
-    engagement: 1969
-    commentsToLikes: 0.021148
+    followers: 118100
+    engagement: 2468
+    commentsToLikes: 0.026349
     id: ckdhfvbuexi250j23o4lw70z1
     verified: false
-    hashtags: "#jeuxdacteurenfrancais, #pourtoi, #tiktokfrance, #tiktokjapan"
-  - username: "marcoandredasilva"
-    fullname: >-
-      Marco Andre da Silva
-    bio: >-
-      Actor🎬Model🤵🏻Dancer🕺🏾 —————————— 📍Zürich / 🇨🇭 IG: @marcoandredasilva
-    location: "Switzerland"
-    followers: 584300
-    engagement: 1248
-    commentsToLikes: 0.031521
-    id: ck9c4zt7qqa5g0j78vvbm9o03
-    verified: false
-    hashtags: "#comedyskit, #foryou, #outfitchange, #fyp"
+    hashtags: "#fourire, #viral, #funny, #drole"
   - username: "stevenepprecht"
     fullname: >-
       Steven Epprecht
     bio: >-
       model & blogger IG @stevenepprecht 272K Everywhere you go, take a smile with you
     location: "Switzerland"
-    followers: 214900
-    engagement: 922
-    commentsToLikes: 0.030160
+    followers: 223300
+    engagement: 1031
+    commentsToLikes: 0.029790
     id: cka85wri200ma0i78ffm00gw8
     verified: false
-    hashtags: "#howidressup, #whatiwearfor, #styleguide, #viral"
+    hashtags: "#trend, #switzerland, #fyp, #swiss"
   - username: "flawentica"
     fullname: >-
       flawenty
     bio: >-
       Model and Motion Picture Character Follow me on IG: @flawenty 🌸
     location: "Switzerland"
-    followers: 75100
-    engagement: 982
-    commentsToLikes: 0.010723
+    followers: 73800
+    engagement: 948
+    commentsToLikes: 0.010609
     id: ck8opwvcg539l0j78x97s83ne
     verified: false
-    hashtags: "#foryou, #xyzcba, #fyp, #xyzbca"
+    hashtags: "#xyzcba, #fyp, #outfits, #foryou"
   - username: "bat.inked.girl"
     fullname: >-
       bat.inked.girl
     bio: >-
       📸 Tattoomodel 📍 Schweiz 🇨🇿 Tschechin Insta: bat.inked.girl
     location: "Switzerland"
-    followers: 5905
-    engagement: 910
-    commentsToLikes: 0.021300
+    followers: 7618
+    engagement: 816
+    commentsToLikes: 0.019490
     id: ckbkhzyuia38d0j23nun1br3a
     verified: false
-    hashtags: "#modellife, #inkedgirl, #adventkalender, #czechgirl"
-  - username: "__mr.inked.zuerich94__"
-    fullname: >-
-      Niki
-    bio: >-
-      💉 TattooModel Follow me on Instagram 👌☺️ : __mr.inked.zuerich__
-    location: "Switzerland"
-    followers: 10500
-    engagement: 910
-    commentsToLikes: 0.020810
-    id: ckb9kqyv8cxmc0j232vwv96l0
-    verified: false
-    hashtags: "#smile, #new, #model, #mylife"
+    hashtags: "#christmas, #inkedgirl, #ink, #selflove"
   - username: "stepanida.sw"
     fullname: >-
       Stepanida
     bio: >-
       ⭐️ Insta: @stepanida.life • 📍 Living in Switzerland 🇨🇭
     location: "Switzerland"
-    followers: 9521
-    engagement: 418
-    commentsToLikes: 0.056248
+    followers: 9302
+    engagement: 414
+    commentsToLikes: 0.054963
     id: ckb0roj23h6d50j234mvszao3
     verified: false
-    hashtags: "#face, #german, #deutsch, #trend"
+    hashtags: "#viral, #german, #deutsch, #fyp"
   - username: "greta_varlese"
     fullname: >-
       Greta Varlese
     bio: >-
       21 , living in🇨🇭(TI) 50% 🇩🇪 50% 🇮🇹 / just having fun
     location: "Switzerland"
-    followers: 2458
-    engagement: 504
-    commentsToLikes: 0.031430
+    followers: 2394
+    engagement: 494
+    commentsToLikes: 0.030806
     id: ckd0n0vlqgudd0j23mlnf3u3q
     verified: false
-    hashtags: "#fy, #foryou, #switzerland, #tiktok"
-  - username: "alexpohl_"
-    fullname: >-
-      Fotoartist Alex Pohl
-    bio: >-
-      Offizieller Account Photographer & Filmmaker Germany & Switzerland
-    location: "Switzerland"
-    followers: 60596
-    engagement: 605
-    commentsToLikes: 0.013475
-    id: ck8hkkd4se97p0j787r3wjulc
-    verified: false
-    hashtags: "#tiktok, #photograhy, #tiktokgermay, #photoshoot"
+    hashtags: "#tiktok, #trending, #viral, #trend"
   - username: "saidbahrii"
     fullname: >-
       Said Bahri
     bio: >-
       One million smile - Mixed - No risk No fun - Follow on inst
     location: "Switzerland"
-    followers: 18100
-    engagement: 525
-    commentsToLikes: 0.009033
+    followers: 17200
+    engagement: 508
+    commentsToLikes: 0.010248
     id: ck8vwl1gjor6c0j78e0gvh3l8
     verified: false
-    hashtags: "#foryou, #fitnesstips, #ink, #style"
+    hashtags: "#fitchallenge, #saidbahrii, #ink, #fypage"
+  - username: "_aurorab.x_"
+    fullname: >-
+      👑Aurora👑
+    bio: >-
+      Aurora, 19 y/o 🧨Trend maker 🧨 Stay ready😍 Road to 18k?😍 IG: _aurorab.x_
+    location: "Switzerland"
+    followers: 17200
+    engagement: 1561
+    commentsToLikes: 0.101243
+    id: ckcvgj6jrsxxb0j23up6uh9jv
+    verified: false
+    hashtags: "#dancechallenge, #trend, #2021, #tiktokdeutschland"
+  - username: "renasoo1"
+    fullname: >-
+      🎧❤️ Reno ❤️🎧
+    bio: >-
+      ❤️☀️💚 🇨🇭 5K 😢👌 Sc: Renasoo43
+    location: "Switzerland"
+    followers: 4462
+    engagement: 1173
+    commentsToLikes: 0.046006
+    id: ck9fibduna05h0j78w1fwsjfe
+    verified: false
+    hashtags: "#mood, #style, #kurd, #kurdistan"
+  - username: "lenny_iza"
+    fullname: >-
+      Lenny Izaguire ✨
+    bio: >-
+      Fashion - Acting - Travel 💕 YouTube 🎥 @LennyIzaguire Instagram 📸 @Lenny.iza
+    location: "Switzerland"
+    followers: 573900
+    engagement: 1333
+    commentsToLikes: 0.011118
+    id: ckb0robd6h5te0j231em0oe51
+    verified: false
+    hashtags: "#hp, #dracomalfoy, #draco, #drarry"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Toronto In 2022
+title: Top 10 Health Instagram Influencers In Toronto In 2023
 description: >-
-  Find top health Instagram influencers in Toronto in 2022. Most popular hashtags: #fitness #toronto #health.
+  Find top health Instagram influencers in Toronto in 2023. Most popular hashtags: #health #toronto #flexibility.
 platform: Instagram
-hits: 115
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 115 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 43
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 43 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "matthew.giuffrida"
+  - username: "jakeyr_dance"
     fullname: >-
-      Matthew Giuffrida
+      JakeyR
     bio: >-
-      𝗣𝘂𝘁𝘁𝗶𝗻𝗴 𝘀𝗺𝗶𝗹𝗲𝘀 𝗼𝗻 𝗳𝗮𝗰𝗲𝘀 𝘀𝗶𝗻𝗰𝗲 𝟭𝟵𝟵𝟲! Tik Tok | Youtube | Facebook | Instagram •Email For Business/Collaboration Inquiries•
+      Aspiring Pro, 12 yo PD @abballetschool 21/22 @yycdanceproject 21/22 @tspheresdance Amb
     location: "Canada"
-    followers: 36514
-    engagement: 391
-    commentsToLikes: 0.082861
-    id: ck6ug7d0g1ceu0j71i3rml2sf
+    followers: 23093
+    engagement: 495
+    commentsToLikes: 0.169948
+    id: ckaounbyn10pd0i78s30ic99s
     verified: false
-    hashtags: "#ottawa, #brudder, #codered, #montreal"
-  - username: "ricardomarmitte"
+    hashtags: "#maledancer, #ottawadance, #boysdancetoo, #albertaballet"
+  - username: "lucybasso_welcomeangels"
     fullname: >-
-      Ricardo Marmitte
+      Psychic Medium/Reiki Master
     bio: >-
-      👦🏿Big hair, smile, heart & personality! ♥️Owner @dancepassionfitnessstudio 🎽Official distributor @zumbawearcanada 😁DM for collaborations #WhoDidItBest
+      👼Welcome Angels Wellness Centre Inc.👼 Private Sessions/Events/Workshops/Classes/Grief Support Specializing in Assisting Spiritually Gifted Children
     location: "Canada"
-    followers: 74798
-    engagement: 70
-    commentsToLikes: 0.050022
-    id: ck5zjcku9hcse0i141ocibu74
+    followers: 6443
+    engagement: 486
+    commentsToLikes: 0.117899
+    id: ckapaljcqwl9f0i78joelelaz
     verified: false
-    hashtags: "#zeslife, #zumbawearcanada, #canada, #zumba"
-  - username: "thefitfatale"
+    hashtags: "#psychicmedium, #lifecoach, #welcomeangels, #welcomeangelswellnesscentre"
+  - username: "thecurvymariah"
     fullname: >-
-      Samantha E Cutler
+      Mariah • Plus Size Fashion
     bio: >-
-      🎙Award Winning Podcast @thefitfatalepodcast 🔮Female Tech Founder @clout.jam 🎥 TikTok (16k+) 🧘🏼‍♀️Guided Meditations 💪🏻Fitness & Health Coach 📍Toronto
+      💁‍♀️ Fatshionista 🥰 Self love & self care enthusiast 🧠 Mental health advocate 📍Toronto, Canada
     location: "Canada"
-    followers: 33599
-    engagement: 142
-    commentsToLikes: 0.090289
-    id: ck5buoqlwi5na0i11i0026ejj
+    followers: 175617
+    engagement: 83
+    commentsToLikes: 0.031838
+    id: ck8t1sihiwuqj0j78ijq8hr5i
     verified: false
-    hashtags: "#lesssugarsweetlife, #senokot, #liketkit, #reginageorge"
+    hashtags: "#rideordie, #sorryboss, #notsponsored, #sudiomoments"
   - username: "yayjoon"
     fullname: >-
       joon!
     bio: >-
       〰 choosing health, wellness & joy 〰 toronto, canada
     location: "Canada"
-    followers: 2398
-    engagement: 2138
-    commentsToLikes: 0.425022
+    followers: 2601
+    engagement: 1512
+    commentsToLikes: 0.250462
     id: ckaorspayol0x0i78xnu5d8er
     verified: false
-    hashtags: "#christmascountdown, #goodmoodfood, #grazingtables, #christmastree"
+    hashtags: "#picnicparty, #stopasianhate, #sourmelonbitescanada, #quarantinebirthday"
+  - username: "vanessatiiu"
+    fullname: >-
+      Vanessa Tiiu
+    bio: >-
+      toronto, on that health obsessed girl who does fashion founder @syrsedawn & @thehealthcafe.co 🎬 youtube 180k+ 💌 contact@tablerockmanagement.com
+    location: "Canada"
+    followers: 30105
+    engagement: 1244
+    commentsToLikes: 0.032832
+    id: ck9wfcecso8ta0j78uytxjx0e
+    verified: false
+    hashtags: "#summervibe, #influencersinthewild, #streetwearbabe, #neutralfashion"
   - username: "goodhealthprettylife"
     fullname: >-
       NICOLE.
     bio: >-
-      #toronto blogger health . wellness . lifestyle {online hours 2-3pm est}
+      toronto blogger 🧚‍♀️ health • wellness • lifestyle @bodyrebirth.co launching 2021 .
     location: "Canada"
-    followers: 15143
-    engagement: 880
-    commentsToLikes: 0.316828
+    followers: 18313
+    engagement: 694
+    commentsToLikes: 0.337533
     id: ckf5m1tv0rxyx0j23rd5kanul
     verified: false
-    hashtags: "#vistaambassador, #partner, #vistamagcanada, #vistamagazine"
-  - username: "irina_fit"
+    hashtags: "#partner, #ad, #vistaambassador, #vistamagazine"
+  - username: "her.healthful"
     fullname: >-
-      Irina Andreea BSc, RYT, CNP
+      arasteh
     bio: >-
-      Personal Trainer/Movement & Mobility Coach Holistic Wellness, Eco-Conscious, 🌏LOVE Group Fitness @sweatandtonic🎉🔥 Personal Training @physiodna Toronto
+      toronto ph.d student into health n’ wellness
     location: "Canada"
-    followers: 19174
-    engagement: 292
-    commentsToLikes: 0.140570
-    id: ck8t0p05bsrft0j78csr43eno
+    followers: 42776
+    engagement: 535
+    commentsToLikes: 0.038281
+    id: ck9hb5tkffiio0j78mwrkqm7m
     verified: false
-    hashtags: "#movementismedicine, #toronto, #irinafit, #workout"
-  - username: "d_little_tank"
+    hashtags: "#freepeoplepartner, #selflove, #healthforall, #collegehealthyeating"
+  - username: "ricardomarmitte"
     fullname: >-
-      DILPREET BHATTAL
+      Ricardo Marmitte
     bio: >-
-      🔶Online Fitness Coach📧 🔶Founder: Little Tank Fitness 🔶For Health Sakes🎙 📍 Toronto ⚫️ @physiqueglobal ⚫️ @f45_training_torontodowntown ⚫️#IAM1STPHORM
+      👦🏿Big hair ♥️Owner @dancepassionfitnessstudio 🎽Official distributor @zumbawearcanada 😁DM for collaborations
     location: "Canada"
-    followers: 17290
-    engagement: 347
-    commentsToLikes: 0.079849
-    id: ck8tcs2fc0gly0j78mk0r2umy
+    followers: 74249
+    engagement: 103
+    commentsToLikes: 0.057206
+    id: ck5zjcku9hcse0i141ocibu74
     verified: false
-    hashtags: "#1stphorm, #punjabifitness, #thanksgiving, #toronto"
-  - username: "jogajana"
+    hashtags: "#ricardomarmitte, #family, #zumbanation, #mauritius"
+  - username: "vampx13"
     fullname: >-
-      Jana Webb
+      Amanda McKnight
     bio: >-
-      JOGA Creator: @joga_world ELITE Trainer: @fitplan_app MAMA: @will.__.webb
+      YouTuber @top10nerdofficial . Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. Writer. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
     location: "Canada"
-    followers: 68082
-    engagement: 164
-    commentsToLikes: 0.031873
-    id: ck6tqy6cavfv90j714olugiwz
-    verified: true
-    hashtags: "#fitnessmotivation, #fitness, #jogajana, #fit"
-  - username: "taylorxcross"
-    fullname: >-
-      Taylor Cross
-    bio: >-
-      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
-    location: "Canada"
-    followers: 16548
-    engagement: 189
-    commentsToLikes: 0.111690
-    id: ck8syvtfdm7ft0j78ugrn2b83
+    followers: 16200
+    engagement: 1149
+    commentsToLikes: 0.034217
+    id: ck135cy580ug20i19ij2x33dw
     verified: false
-    hashtags: ""
-  - username: "alizolfi.fitness"
+    hashtags: "#torontocosplayer, #redhair, #cosplay, #photography"
+  - username: "optimize.physiotherapy"
     fullname: >-
-      Alizolfi(AZfitness)
+      Optimize Physiotherapy
     bio: >-
-      Toronto🇨🇦🇮🇷 Canadian National pro qualifier Health,Fitness,Nutrition Canadian diploma👨🏻‍🎓 Online Coaching 📝 مربى آنلاين
+      Clinic • Virtual Physiotherapy • Education 🤸‍♂️Movement + Strength + Health 🇨🇦 Ottawa (2 locations) 🏃‍♂️ Physiotherapy & Sport Medicine 🌎 Workshops
     location: "Canada"
-    followers: 2803
-    engagement: 1547
-    commentsToLikes: 0.062888
-    id: ckf5nnrmyywli0j23gid2owm4
+    followers: 122343
+    engagement: 68
+    commentsToLikes: 0.014260
+    id: ck0u2ehwfzo740i191mmr2y3b
     verified: false
-    hashtags: "#fitnessmodel, #gymmotivation, #trainer, #gymlife"
+    hashtags: "#physiotherapy, #movement, #toronto, #yoga"
 ---

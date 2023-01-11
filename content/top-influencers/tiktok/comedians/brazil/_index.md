@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Brazil In 2022
+title: Top 10 Comedians TikTok Influencers In Brazil In 2023
 description: >-
-  Find top comedians TikTok influencers in Brazil in 2022. Most popular hashtags: #comedia #humor #fy #fusioninfluencers.
+  Find top comedians TikTok influencers in Brazil in 2023. Most popular hashtags: #humor #comedia #fy #standupcomedy.
 platform: TikTok
-hits: 1415
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 1415 TikTok influencers like this in Brazil for you to collaborate.
+hits: 1228
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 1228 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "gil_reis"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       COMEDIANTE AMADOR VEJA OS VÍDEOS.
     location: "Brazil"
-    followers: 14500
-    engagement: 3460
-    commentsToLikes: 0.495931
+    followers: 13900
+    engagement: 822
+    commentsToLikes: 0.079619
     id: ckck3k7imnjrl0j23v78gwctt
     verified: false
-    hashtags: "#geracaotiktok, #orgulhodeser, #fy, #gil"
-  - username: "clepton"
+    hashtags: "#efeitosdevoz, #gil, #tik, #bbb21"
+  - username: "luanfernandes"
     fullname: >-
-      Erick Clepton
+      Luan Fernandes
     bio: >-
-      SEGUE AÍ! Comediante quase aleatório Insta: @oerickclepton ESCUTE MEU PODCAST:
+      Pai de 😸, comediante e gamer 📧Lgfluan.ts@gmail.com📧 👇🏼👇🏼
     location: "Brazil"
-    followers: 2000000
-    engagement: 2136
-    commentsToLikes: 0.021330
-    id: ck80oa3iag8ug0j78ydop2rku
+    followers: 1600000
+    engagement: 1260
+    commentsToLikes: 0.013452
+    id: ck81t1k58uqlk0j78n3oy6qow
     verified: true
-    hashtags: "#paid, #cleptonentrevista, #com, #bts"
-  - username: "tadeutannouri"
-    fullname: >-
-      Tadeu Tannouri
-    bio: >-
-      Ator / Comediante Live segunda e quarta 20h RJ ❤️
-    location: "Brazil"
-    followers: 549600
-    engagement: 2652
-    commentsToLikes: 0.013790
-    id: ckdsuoxo9pvel0j236hrzaqfx
-    verified: false
-    hashtags: "#humorbrasil, #comediahumor, #humorbr, #humor2020"
+    hashtags: "#cruella, #mundoemcaosfilme, #ningu, #pets"
   - username: "well.silvaa"
     fullname: >-
       Well.Divardini
     bio: >-
       Comediante curioso😂🔍/ TOP1️⃣0️⃣ Segue no insta CWB @well.divardini (2ª conta)
     location: "Brazil"
-    followers: 622000
-    engagement: 2119
-    commentsToLikes: 0.012975
+    followers: 687900
+    engagement: 2193
+    commentsToLikes: 0.009140
     id: ck9eod5a4nqpo0j78jktn8bfe
     verified: false
-    hashtags: "#top10, #top5, #fyp, #wellsilvaa"
-  - username: "frances_com_paul"
+    hashtags: "#famosos, #foryou, #fyp, #curiosidadesdowell"
+  - username: "odiegointrieri"
     fullname: >-
-      Paul Cabannes
+      Diego Intrieri
     bio: >-
-      Suportável para um francês Comediante e professor de 🇫🇷 Siga no inst4 ⭐
+      Ator e comediante. (E professor de inglês). Esquetes no Insta: diegointrieri
     location: "Brazil"
-    followers: 571700
-    engagement: 1745
-    commentsToLikes: 0.014311
-    id: cka0o4yfq23270i788k38fm7s
+    followers: 13100
+    engagement: 847
+    commentsToLikes: 0.080159
+    id: ckdtk37zhxnyv0j23wvf7pcqi
     verified: false
-    hashtags: "#comediabr2020, #duo, #standupbrasil, #comediabrasil"
+    hashtags: "#com, #piada, #funny, #humor"
   - username: "guilhermerocker"
     fullname: >-
       Guilherme Rocker
     bio: >-
-      Comediante 29 anos Instagram: @rockerpirate
+      Comediante 29 anos Instagram: @rockerpirate Pix: contato@guilhermerocker.com
     location: "Brazil"
-    followers: 2600000
-    engagement: 1462
-    commentsToLikes: 0.013247
+    followers: 3000000
+    engagement: 1353
+    commentsToLikes: 0.019680
     id: ckbr4exzvkjrs0j23zzd1unyd
     verified: true
-    hashtags: "#billeted, #dueto, #fy, #usemaudio"
-  - username: "julianocoracao"
-    fullname: >-
-      Juliano Coração
-    bio: >-
-      COMEDIANTE Em todas as redes como: @julianocoracao Contato👇
-    location: "Brazil"
-    followers: 3500000
-    engagement: 2313
-    commentsToLikes: 0.005719
-    id: ck9kdukm6vwd70j78dez9aqef
-    verified: true
-    hashtags: "#fusioninfluencers, #paid, #resso, #julianocoracao"
+    hashtags: "#foryoupage"
   - username: "arypalmas"
     fullname: >-
       Áry Palma
     bio: >-
       Serviços gerais das artes Cênicas. Atriz Comediante Faz terapia por app gratuito
     location: "Brazil"
-    followers: 5084
-    engagement: 1315
-    commentsToLikes: 0.281525
+    followers: 5070
+    engagement: 1278
+    commentsToLikes: 0.273248
     id: ckan3lmo25vsg0i78qa6clxi0
     verified: false
-    hashtags: "#standupemcasa, #mulher, #standupcomedy, #quarentena"
-  - username: "odiegointrieri"
+    hashtags: "#humor, #standupemcasa, #piada, #comedia"
+  - username: "julianocoracao"
     fullname: >-
-      Diego Intrieri
+      Juliano Coração
     bio: >-
-      Ator e comediante. Esquetes no Insta: diegointrieri
+      COMEDIANTE Em todas as redes como: @julianocoracao Contato:👇
     location: "Brazil"
-    followers: 13000
-    engagement: 887
-    commentsToLikes: 0.063588
-    id: ckdtk37zhxnyv0j23wvf7pcqi
+    followers: 4000000
+    engagement: 2214
+    commentsToLikes: 0.004447
+    id: ck9kdukm6vwd70j78dez9aqef
+    verified: true
+    hashtags: "#freeco, #meumaiorpresente, #nomes, #julianocoracao"
+  - username: "agabrielaabdala"
+    fullname: >-
+      Gabriela Abdala
+    bio: >-
+      comediante stand up, cantora, artista segue no insta @agabrielaabdala
+    location: "Brazil"
+    followers: 1100000
+    engagement: 2145
+    commentsToLikes: 0.001791
+    id: ckb9nodzmhipl0j23b58kwm6r
+    verified: true
+    hashtags: "#engra, #namorados, #standupemcasa, #prarir"
+  - username: "felipemarianoshow"
+    fullname: >-
+      Felipe Mariano
+    bio: >-
+      Dublador profissional Comediante Se inscreve no meu canal 🎬
+    location: "Brazil"
+    followers: 22800
+    engagement: 867
+    commentsToLikes: 0.063213
+    id: ckd18v3hdqeb30j2331txeks4
     verified: false
-    hashtags: "#com, #humor, #vov, #fyou"
+    hashtags: "#comedy, #tikoker, #viral, #fy"
   - username: "evamansk"
     fullname: >-
       Eva Mansk
     bio: >-
       Sou comediante de Stand Up e mulher sem paciência pra machismo e imaturidade.
     location: "Brazil"
-    followers: 16500
-    engagement: 1135
-    commentsToLikes: 0.026461
+    followers: 64100
+    engagement: 1451
+    commentsToLikes: 0.015194
     id: ckbqdvkc7zry30j23fks2np6b
     verified: false
-    hashtags: "#dicas, #comedia, #dicasdebeleza, #brocha"
+    hashtags: "#comediahumor, #homens, #homensmodernos, #humorbr"
 ---

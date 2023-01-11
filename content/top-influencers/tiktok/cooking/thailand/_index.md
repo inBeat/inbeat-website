@@ -1,48 +1,36 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Thailand In 2022
+title: Top 10 Cooking TikTok Influencers In Thailand In 2023
 description: >-
-  Find top cooking TikTok influencers in Thailand in 2022. Most popular hashtags: #fyp #cooking #foryou #foryoupage.
+  Find top cooking TikTok influencers in Thailand in 2023. Most popular hashtags: #cooking #fyp #asmr #food.
 platform: TikTok
-hits: 15
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 15 TikTok influencers like this in Thailand for you to work with.
+hits: 13
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Thailand for you to collaborate.
 profiles:
-  - username: "happykulchaya"
-    fullname: >-
-      happykulchaya
-    bio: >-
-      Cooking / Lifestyle สูตรอาหารเด็ดๆมาใหม่ทุกวัน อัพเดทที่ไอจี @happykulchaya ค่ะ
-    location: "Thailand"
-    followers: 233600
-    engagement: 527
-    commentsToLikes: 0.002984
-    id: ckcj1q2063zf10j235obnadmd
-    verified: false
-    hashtags: "#debearexpress, #markrinchocolate, #philipssmartairfryer, #pancake"
   - username: "panofnunoo"
     fullname: >-
       Pan of Nunoo
     bio: >-
       My cooking diary IG : @panofnunoo
     location: "Thailand"
-    followers: 422000
-    engagement: 576
-    commentsToLikes: 0.002351
+    followers: 421500
+    engagement: 541
+    commentsToLikes: 0.002680
     id: ck9pmpiepamzj0j788jnijgp7
     verified: false
-    hashtags: "#vegeterian, #egg, #eggchallenge, #thaifood"
-  - username: "janezap"
+    hashtags: "#vegeterian, #tomyum, #thaifood, #larb"
+  - username: "happykulchaya"
     fullname: >-
-      Janezap ฟินเลย
+      happykulchaya
     bio: >-
-      เจนค่ะ YouTubeช่องJanezapฟินเลย ชีวิตส่วนตัวติดตามทางIG ติดต่องานID:janeasmr9
+      Cooking / Lifestyle จะพาไปกิน ไปเที่ยว ด้วยกัน🥳 🔽 ลิ้งค์รวมของที่รีวิวค่ะ
     location: "Thailand"
-    followers: 275200
-    engagement: 412
-    commentsToLikes: 0.014559
-    id: ck9k6wsn62jub0j78fgxzb9xi
+    followers: 244900
+    engagement: 296
+    commentsToLikes: 0.005672
+    id: ckcj1q2063zf10j235obnadmd
     verified: false
-    hashtags: "#mukbang, #asmr, #forupage, #eatingshow"
+    hashtags: "#tiktokuni, #tiktok"
   - username: "minihomelive"
     fullname: >-
       Mini home
@@ -54,77 +42,89 @@ profiles:
     commentsToLikes: 0.009295
     id: ckauyt7t94c7t0j238p8pyk9x
     verified: false
-    hashtags: "#fyp, #cocacola, #cooking, #chinesefood"
+    hashtags: "#egg, #cooking, #eatemup, #stayathome"
   - username: "bangkokstory"
     fullname: >-
       MyBangkokStory
     bio: >-
       Hostel owner Lazada seller Digital nomad Food lover thanks for your following
     location: "Thailand"
-    followers: 73000
-    engagement: 458
-    commentsToLikes: 0.003655
+    followers: 182800
+    engagement: 434
+    commentsToLikes: 0.002994
     id: ckc7pxmfwvk8z0j234znawap9
     verified: false
-    hashtags: "#magiccoolingmagicnow, #foryou, #fried, #cookingwithem"
-  - username: "martinbravobkk"
-    fullname: >-
-      Martin Bravo
-    bio: >-
-      เทรนเนอน์ส่วนตัวทั่วกรุงเทพ 🇪🇦Personal Trainer📍Bangkok For work DM my ig
-    location: "Thailand"
-    followers: 14900
-    engagement: 2104
-    commentsToLikes: 0.102334
-    id: ckcul2oe3h38j0j23vw03yrk8
-    verified: false
-    hashtags: "#bangkok, #tiktokthailand, #fyp, #personaltrainer"
-  - username: "rosespice"
-    fullname: >-
-      RoseSpice มะลิ
-    bio: >-
-      🌹Little geek freak🌹 🇹🇭 🍄1996🍄 🖤Duets? Yes pleas!🖤 🔞
-    location: "Thailand"
-    followers: 16200
-    engagement: 1180
-    commentsToLikes: 0.079284
-    id: ck8qdwzc5q4p90j78r1ewwj8a
-    verified: false
-    hashtags: "#bff, #lol, #dance, #fyp"
+    hashtags: "#mashroom, #fyp, #egg, #mamaokchallenge"
   - username: "siwon.kr"
     fullname: >-
       박시원 🇰🇷
     bio: >-
       🇰🇷Korean/อยู่ที่BKK ผมได้อ่านทุกคอมเมนท์เลย ขอบคุณที่กดถูกใจ❤ และติดตามผมครับ
     location: "Thailand"
-    followers: 34100
-    engagement: 1538
-    commentsToLikes: 0.038359
+    followers: 33700
+    engagement: 1427
+    commentsToLikes: 0.037492
     id: ckcj58on15kv50j23tf0f155s
     verified: false
-    hashtags: "#koreanboy, #chiangmai, #fyp, #duet"
+    hashtags: "#duet, #koreanboy, #foryou, #chiangmai"
+  - username: "shopeeth"
+    fullname: >-
+      Shopee Thailand
+    bio: >-
+      รวมมิตร สินค้าฮิตจาก #รีวิวช้อปปี้ 👇🏻
+    location: "Thailand"
+    followers: 780100
+    engagement: 468
+    commentsToLikes: 0.021777
+    id: ckblko6xzdfxs0j23yy9azvt8
+    verified: true
+    hashtags: "#stitch, #asmr, #shopeefoodth, #meme"
   - username: "moderndesi"
     fullname: >-
       Modern Desi Rapper
     bio: >-
       A hip-hop Artist 🎙️& A entrepreneur💰 only here to make some Good memories 💕
     location: "Thailand"
-    followers: 8561
-    engagement: 697
-    commentsToLikes: 0.094266
+    followers: 8548
+    engagement: 583
+    commentsToLikes: 0.082353
     id: ck8nbezcr9ldm0j78mgze05cg
     verified: false
-    hashtags: "#moderndesi, #tiktokindia, #thailand, #thaifood"
-  - username: "grwm._.aesthetic01"
+    hashtags: "#thailand, #moderndesi, #viral, #thaifood"
+  - username: "note.asmr"
     fullname: >-
-      Led lights And more✨
+      NOTE-ASMR
     bio: >-
-      Got my lights off amazon!💕 DayBetter led strip lights 32.8ft💗
+      โน๊ตครับ ขอบคุณที่ติดตามครับ ❤ YouTube : @noteasmr ติดต่องาน Line : notecmin
     location: "Thailand"
-    followers: 64100
-    engagement: 1658
-    commentsToLikes: 0.018093
-    id: ckbkq634jkdbj0j23x2gnkrna
+    followers: 24800
+    engagement: 329
+    commentsToLikes: 0.034732
+    id: ck9fxxr848i2i0j78wu3rjjlo
     verified: false
-    hashtags: "#g6filter, #led, #leavingmybody, #stayhomestaystrong"
+    hashtags: "#food, #mobilegame, #rovthailand, #asmr"
+  - username: "janezap"
+    fullname: >-
+      Janezap ฟินเลย
+    bio: >-
+      เจนค่ะ YouTubeช่องJanezapฟินเลย ชีวิตส่วนตัวติดตามทางIG ติดต่องานID:janeasmr9
+    location: "Thailand"
+    followers: 275500
+    engagement: 376
+    commentsToLikes: 0.013658
+    id: ck9k6wsn62jub0j78fgxzb9xi
+    verified: false
+    hashtags: "#asmrvideo, #mukbang, #asmr, #foru"
+  - username: "peepor_chuangin"
+    fullname: >-
+      พี่ปอชวนกิน
+    bio: >-
+      ชื่อพี่ปอนะคะ ดูคลิปเต็มๆได้ทางยูทูป ช่อง พี่ปอชวนกิน กับ ช่องพี่ปอกินแซ่บ 
+    location: "Thailand"
+    followers: 223600
+    engagement: 702
+    commentsToLikes: 0.007628
+    id: ckbkq6e1hkfe90j23zlt95o27
+    verified: false
+    hashtags: "#asmr, #pizza, #eating, #cook"
 ---

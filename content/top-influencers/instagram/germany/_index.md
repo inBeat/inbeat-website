@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Germany In 2022
+title: Top 10 Instagram Influencers In Germany In 2023
 description: >-
-  Find top Instagram influencers in Germany in 2022. Most popular hashtags: #carmushka #love #summervibes.
+  Find top Instagram influencers in Germany in 2023. Most popular hashtags: #christmas #wedding #weddingdress.
 platform: Instagram
-hits: 35762
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 35762 Instagram influencers like this in Germany for you to work with.
+hits: 27473
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 27473 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "lissiloveslife"
+  - username: "erdemduel"
     fullname: >-
-      𝗜𝗡𝗦𝗣𝗢 • 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
+      Erdem Dül
     bio: >-
-      ✨ 𝘓𝘪𝘴𝘢 / 28 𝘺/𝘰 👰🏼 𝘮𝘢𝘳𝘳𝘪𝘦𝘥 & 𝘮𝘰𝘮𝘮𝘺 🏡 𝘦𝘪𝘨𝘦𝘯𝘩𝘦𝘪𝘮𝘴𝘶𝘤𝘩𝘦 𝘱𝘢𝘥𝘦𝘳𝘣𝘰𝘳𝘯 2020/21 #️⃣ 𝘶𝘴𝘦 #lissiloveslife • 💻 𝘐𝘮𝘱𝘳𝘦𝘴𝘴𝘶𝘮:
+      📧 Coachingbyerdem@gmx.de CEO @ambitionclo_ 💚 @zecplus Makina10 🏋️ @climaqx_ Makina10 🥜 @spreadcella Makina10 🎙 Ambition & Visions Podcast 🎥 YouTube
     location: "Germany"
-    followers: 7036
-    engagement: 833
-    commentsToLikes: 0.169452
-    id: ck15tf4eshrue0i191ml886ab
+    followers: 44727
+    engagement: 546
+    commentsToLikes: 0.030368
+    id: ck600juy8dqiu0i14cq1z364b
     verified: false
-    hashtags: "#flatlay, #hyggehygge, #carmushkadresden, #sophieklex"
-  - username: "wandabadwal"
+    hashtags: "#fit, #makina, #healthyfood, #abs"
+  - username: "hayley_bui"
     fullname: >-
-      WANDA BADWAL
+      Hayley Bui
     bio: >-
-      ㅿ𝙔𝙊𝙂𝘼 𝘽𝙀𝙔𝙊𝙉𝘿 𝙏𝙃𝙀 𝘼𝙎𝘼𝙉𝘼 ☽ ㅿɢᴜɪᴅɪɴɢ ᴘᴇᴏᴘʟᴇ ᴛᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴡʜᴏ ᴛʜᴇʏ ᴀʀᴇ ㅿsᴘɪʀɪᴛᴜᴀʟ ɢᴜɪᴅᴇ / ʏᴏɢᴀ ᴛᴇᴀᴄʜᴇʀ / ᴀᴜᴛʜᴏʀ / sᴘᴇᴀᴋᴇʀ ㅿᴏɴʟɪɴᴇ ʏᴏɢᴀ: @ʀᴏsᴇ.ᴏғ.ғɪʀᴇ.ʏᴏɢᴀ
+      💌 hayley@dulcedo.com ☆ Youtube: Hayley Bui ☆ TikTok: Hayleybuix E 💍
     location: "Germany"
-    followers: 34097
-    engagement: 377
-    commentsToLikes: 0.070125
-    id: ck14hs02gbu2v0i19pus82mrj
+    followers: 1221086
+    engagement: 502
+    commentsToLikes: 0.002655
+    id: ck135e2mx0ytx0i19e148x64k
     verified: false
-    hashtags: "#achtsamkeit, #yoga, #loveyourself, #namaste"
-  - username: "drea_catalea"
+    hashtags: "#90, #hoolabronzer, #benefitcosmetics, #benefithoola"
+  - username: "vicdeangelis"
     fullname: >-
-      ♥𝐅𝐀𝐒𝐇𝐈𝐎𝐍|𝐈𝐍𝐒𝐏𝐎|𝐈𝐍𝐓𝐄𝐑𝐈𝐎𝐑|𝐐𝐔𝐎𝐓𝐄♥
+      Victoria De Angelis/ Måneskin
     bio: >-
-      𝐀𝐍𝐃𝐑𝐄𝐀 ✧ 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 ✧ 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧 ✧ 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 ✧ 𝐁𝐨𝐡𝐨𝐥𝐨𝐯𝐞 ✧ 𝐈𝐧𝐭𝐞𝐫𝐢𝐨𝐫𝐥𝐨𝐯𝐞 ✧ 𝐏𝐞𝐬𝐜𝐞𝐭𝐚𝐫𝐢𝐚𝐧 ✧ ♡ 𝖶𝗂𝖿𝖾𝗒 💍 @mike_will_be 🤍🤎🤍🤎 ➳ Dogmom from Boston Terrier Rocky🐾
+      BASS in @ManeskinOfficial Our new album RUSH! out on Jan 20th💋Pre-save/ pre-order it NOW!
     location: "Germany"
-    followers: 2384
-    engagement: 5069
-    commentsToLikes: 0.332963
-    id: ck0u0e0eutig30i19n1vbfwhp
+    followers: 3948836
+    engagement: 1228
+    commentsToLikes: 0.002721
+    id: ckzpxx9vbkomd0j23a0dtq07c
     verified: false
-    hashtags: "#moonmagicjewelry, #bayern, #aileenpgl, #berchtesgaden"
-  - username: "sndxcz"
+    hashtags: ""
+  - username: "vanezia_blum"
     fullname: >-
-      ＳＡＮＤＹ
+      VANEZIA | LIFESTYLE | ANIMALS
     bio: >-
-      white.red 🇵🇱 • XI.X.MMXV • 156 • 🔒🤍
+      contact: vanezia@somefriends.com founder of @vanezia.de x @vanezia.koblenz volunteer: @savethedogsinkallikratia
     location: "Germany"
-    followers: 2358
-    engagement: 5005
-    commentsToLikes: 0.284685
-    id: ckap494t56ax00i781qe7kvu3
+    followers: 351653
+    engagement: 576
+    commentsToLikes: 0.383113
+    id: ck5zz3ngib0oz0i14z4d0ucb8
     verified: false
-    hashtags: "#idealofsweden, #ad, #sponsored"
-  - username: "romanioz"
+    hashtags: "#gewinnspiel, #wedding, #bride, #iloveyou"
+  - username: "corinnakopf"
     fullname: >-
-      Roman
+      corinna kopf
     bio: >-
-      FFM📍🇦🇫 Simplefit | Streetwear Snapchat: itsromanioz 👻
+      @stake
     location: "Germany"
-    followers: 4045
-    engagement: 4568
-    commentsToLikes: 0.324545
-    id: ckaoskd0vruzd0i78ta4pjb3c
-    verified: false
-    hashtags: "#simplefit, #allblackoutfit"
-  - username: "kathikh"
+    followers: 6937002
+    engagement: 1321
+    commentsToLikes: 0.004627
+    id: ck13633004isf0i19t7dlfkfj
+    verified: true
+    hashtags: ""
+  - username: "quattroqueen01"
     fullname: >-
-      Kathi kh
+      Jenny 💚 Audi RS3 Kyalami
     bio: >-
-      K | 25y | Social Media Managerin | Slovakia | near Bielefeld founder of: @agentur.freiraum | @detailverliebtfotografie
+      🏁 Workaholic with passion for cars & trucks 🏎 Daily: RS3 8Y 2022 Limousine Kyalamigrün 📍 Germany Bavaria 👇 Codes & Mehr | #quattroqueen
     location: "Germany"
-    followers: 3211
-    engagement: 3959
-    commentsToLikes: 0.145263
-    id: ck139ivquliyn0i19znhtr9xk
+    followers: 42499
+    engagement: 721
+    commentsToLikes: 0.038553
+    id: ck0w5eufv3awe0i19m7i6rfsi
     verified: false
-    hashtags: "#blondesandcookies, #carmushka, #travelblogger, #anajohnson"
-  - username: "bea__hh"
+    hashtags: "#r8rwd, #performanceisanattitude, #supercars, #audi"
+  - username: "sarahfranssen"
     fullname: >-
-      Bea
+      Food I Fashion I Bride to be🌸
     bio: >-
-      ⚓️ Hamburg meine Perle 🇩🇪 🌏 Reise- und Kreuzfahrtliebe 🚢 💻 bea.hamburg@gmx.net ⠀⠀⠀⠀⠀𝐌𝐚𝐧 𝐫𝐞𝐢𝐬𝐭 𝐣𝐚 𝐧𝐢𝐜𝐡𝐭 𝐮𝐦 𝐚𝐧𝐳𝐮𝐤𝐨𝐦𝐦𝐞𝐧, ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝐬𝐨𝐧𝐝𝐞𝐫𝐧 𝐮𝐦 𝐳𝐮 𝐫𝐞𝐢𝐬𝐞𝐧.
+      📚 3 Kochbücher "Fit ohne Verzicht" 💍 Bride to be @henri_cl ☀️ Sunlover 🤸🏼‍♀️ Turnen 🌸 Team @foodistofficial (S10F)
     location: "Germany"
-    followers: 5573
-    engagement: 3843
-    commentsToLikes: 0.099566
-    id: ck15sr9n7efds0i19ivte6n45
+    followers: 249161
+    engagement: 525
+    commentsToLikes: 0.108408
+    id: ck0u9thrkan090i1950jkyrvl
     verified: false
-    hashtags: "#ineedvitaminsea, #dieweltentdecken, #fernweh, #diesachemitdemleben"
-  - username: "selin.zey"
+    hashtags: "#hochzeit, #foodreel, #wedding, #verlobung"
+  - username: "handluggageonly"
     fullname: >-
-      𝟐𝟎𝟎𝟑
+      Hand Luggage Only
     bio: >-
-      ♌︎ 𝐁𝐢𝐞𝐥𝐞𝐟𝐞𝐥𝐝/𝟎𝟔
+      🙋🏾‍♂️🙋🏻‍♂️Travel diary by Yaya and Lloyd 🏡 Home: @HomeWithHLO ⬇️ Find us everywhere
     location: "Germany"
-    followers: 2880
-    engagement: 3727
-    commentsToLikes: 0.177548
-    id: ckf5wr4nrsyfm0j230lbzdepc
+    followers: 178574
+    engagement: 1656
+    commentsToLikes: 0.020720
+    id: ck0u6a71g1gqn0i19sxno0qfi
     verified: false
-    hashtags: "#fashion, #sunkissed, #rose, #blumen"
-  - username: "zaraxjanssen"
+    hashtags: "#travel, #sweden, #finland, #hungary"
+  - username: "nicolas_aesthetics"
     fullname: >-
-      Zara
+      Nicolas Enache | Fitness, Cooking & Health
     bio: >-
-      📚Universiteit Utrecht
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
     location: "Germany"
-    followers: 2210
-    engagement: 3439
-    commentsToLikes: 0.168218
-    id: ck5hspbyiwz5w0i11dlk4irww
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
     verified: false
-    hashtags: "#endoornaaru, #blijjj"
-  - username: "dad.sheeran"
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
+  - username: "thedollzter"
     fullname: >-
-      René 🏃‍♂️🏋️‍♂️👣👁🧠
+      دُلي ديب | Dolly Dib
     bio: >-
-      •Germany 🇩🇪 •Sony Alpha 7 iii / Lumix 📸 •creativ Art 🙌 •My Child is my teacher 😍😁 •all pics are mine 🤘🖖 •Beauty is in the eye of the beholder
+      ✈️Jordan-Based Travel Blogger 🤷‍♀️I love traveling and food, but who doesn't 💥TikTok: thedollzter أفضل جدول سياحي ليوم في فيينا👇
     location: "Germany"
-    followers: 2456
-    engagement: 3300
-    commentsToLikes: 0.199747
-    id: ckapbh0cyztno0i78e4y94y3i
+    followers: 283566
+    engagement: 630
+    commentsToLikes: 0.011718
+    id: ck5camk5kdozz0i11o587u5hv
     verified: false
-    hashtags: "#way2ill, #art, #citykillerz, #creativemobs"
+    hashtags: "#womentravel, #jordanien, #beamman, #ammanstylez"
 cities:
   - name: Berlin
     link: /instagram/germany/berlin

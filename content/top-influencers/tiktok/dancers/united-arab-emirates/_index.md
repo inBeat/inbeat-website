@@ -1,48 +1,48 @@
 ---
-title: Top 10 Dancers TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Dancers TikTok Influencers In United Arab Emirates In 2023
 description: >-
-  Find top dancers TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #foryoupage #foryou #tiktok #fyp.
+  Find top dancers TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 25
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 25 TikTok influencers like this in United Arab Emirates for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 25 TikTok influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "sukanyatamilpoonu"
+  - username: "sukanyatamilponnu"
     fullname: >-
       Sukanya Chinnaswamy 
     bio: >-
       Follow and meet me on- Instagram 👍 🔝 #tamilpoonu #travellife #dancer 🇮🇳🇱🇰
     location: "United Arab Emirates"
-    followers: 31100
-    engagement: 1787
-    commentsToLikes: 0.051471
+    followers: 41100
+    engagement: 1556
+    commentsToLikes: 0.049594
     id: ckbbcbbm91d490j23pvokeqh5
     verified: false
-    hashtags: "#dubaipullingo, #dance, #tamil, #tamilpoonu"
-  - username: "anthonymonika"
-    fullname: >-
-      usermonikaanthony
-    bio: >-
-      Model/Actress/Dancer instructor 🇮🇳 🇦🇪 Feel free to follow me on Instagram
-    location: "United Arab Emirates"
-    followers: 37400
-    engagement: 1504
-    commentsToLikes: 0.041579
-    id: ckbfgak4mbdkp0j23oiijgllw
-    verified: false
-    hashtags: "#foryou, #foryoupage, #dubai, #dramaqueen"
+    hashtags: "#trending, #fyp, #newyork, #tamilponnu"
   - username: "hyderhdr"
     fullname: >-
       HYDER HDR
     bio: >-
       🕺🏻Dancer Choreographer Follow my Insta😉HYDER_HDR UAE🇦🇪 #hdr2 #teamd4 #pmtt
     location: "United Arab Emirates"
-    followers: 78600
-    engagement: 960
-    commentsToLikes: 0.074447
+    followers: 78400
+    engagement: 993
+    commentsToLikes: 0.073986
     id: ckaij0s9mcw4j0i78vqal3c4f
     verified: false
-    hashtags: "#mallu, #tiktokarab, #hdr2, #fyp"
+    hashtags: "#malayalam, #pmtt, #india, #danceindia"
+  - username: "moosewadha222"
+    fullname: >-
+      moosewadha
+    bio: >-
+      Based in UAE🇦🇪 🇸🇾 🇵🇸 Dancer 🙏
+    location: "United Arab Emirates"
+    followers: 23500
+    engagement: 760
+    commentsToLikes: 0.040952
+    id: ckb9k7xhkbyrp0j23f9j1u7qk
+    verified: false
+    hashtags: "#legwork, #fyp, #afrodance, #abudhabi"
   - username: "divyamadhu13"
     fullname: >-
       Divyadharshini
@@ -50,81 +50,81 @@ profiles:
       Model 👒 Artist💃 Dancer 👸😍D.O.B13.06.01
     location: "United Arab Emirates"
     followers: 236300
-    engagement: 696
-    commentsToLikes: 0.007057
+    engagement: 712
+    commentsToLikes: 0.006617
     id: ck9gn82s3vk9y0j78snj4kzp9
     verified: false
-    hashtags: "#onebillonchallenge, #podapodi, #tiktok, #myjourney"
+    hashtags: "#onebillonchallenge, #podapodi, #tiktok, #natpuforever"
   - username: "sapna_chaudhari"
     fullname: >-
       sapna_chaudhari
     bio: >-
       Dancer 💃 Actor 🙋‍♀️ Desiqueen 👸
     location: "United Arab Emirates"
-    followers: 49600
-    engagement: 1050
-    commentsToLikes: 0.005090
+    followers: 48300
+    engagement: 1082
+    commentsToLikes: 0.005713
     id: ckb9d7osy0dju0j23g173qo34
     verified: false
-    hashtags: "#foryoupage, #vr1, #danceinpublic, #my"
-  - username: "shot_jazzbeme"
+    hashtags: "#fyp, #sapnachaudhary, #desiqueen, #tiktokdubai"
+  - username: "khushi_mehra_1"
     fullname: >-
-      shot_PauloA
+      Khushi Mehra 🥀
     bio: >-
-      🇵🇭 Jazz, 20, Al Ain 🇦🇪 "one shot one love" simple humans of tiktok (shot)
+      Meet me on insta👆🏻 IND🇮🇳DXB🇦🇪 Happiness ki dukan😊💃 Haryanvi chori 💁🏻♀️
     location: "United Arab Emirates"
-    followers: 17600
-    engagement: 1858
-    commentsToLikes: 0.055266
-    id: cka0h2i2w7apq0i78erdqxvff
+    followers: 735300
+    engagement: 1920
+    commentsToLikes: 0.069322
+    id: ckad5oc9mvpyv0i78yoclyowp
     verified: false
-    hashtags: "#fyp, #foryou, #tropangshot, #tiktokph"
-  - username: "priyaamu1"
+    hashtags: "#duet, #khushumehra, #foryou, #xyzbca"
+  - username: "iamlovely90"
+    fullname: >-
+      ❤️LOVE🇵🇭🇦🇪❤️
+    bio: >-
+      A proud single mom of two😊😘
+    location: "United Arab Emirates"
+    followers: 7878
+    engagement: 3297
+    commentsToLikes: 0.044021
+    id: ckbbacr22zfn80j23lu5oi4ik
+    verified: false
+    hashtags: "#leyte, #fyp, #dubai, #proudbisaya"
+  - username: "iamjay.jae"
+    fullname: >-
+      ⚜️⁉️ Jae ⚜️⁉️
+    bio: >-
+      LIVE LOVE LAUGH IGNORE @Dubai UAE #tropanglagalagz FB: Jae Jayme
+    location: "United Arab Emirates"
+    followers: 15200
+    engagement: 1368
+    commentsToLikes: 0.083695
+    id: ck9fydec4abvc0j78xam729t5
+    verified: false
+    hashtags: "#tiktokuae, #tiktoktrend, #dancer, #dubai"
+  - username: "anthonymonika"
+    fullname: >-
+      usermonikaanthony
+    bio: >-
+      Fashion Model /Dance instructor 🇮🇳 🇦🇪
+    location: "United Arab Emirates"
+    followers: 40300
+    engagement: 1414
+    commentsToLikes: 0.049427
+    id: ckbfgak4mbdkp0j23oiijgllw
+    verified: false
+    hashtags: "#uae, #dancelover, #curlyhairgirl, #trendyyy"
+  - username: "priyanaidu183"
     fullname: >-
       Priya naidu
     bio: >-
       myself priya naidu 😆😆😆 I am arts student 😃😃😃 I luv musically lotttt
     location: "United Arab Emirates"
-    followers: 192274
-    engagement: 981
-    commentsToLikes: 0.016494
+    followers: 204200
+    engagement: 844
+    commentsToLikes: 0.009359
     id: ck9grxaghfuje0j78nek1kv7f
     verified: false
-    hashtags: "#dancing, #kundrathile, #tik, #comedy"
-  - username: "moosewadha222"
-    fullname: >-
-      moosewadha
-    bio: >-
-      Half Syrian🇸🇾 half Palestinian 🇵🇸 Based in 🇦🇪 Enjoy my Dancing Content🙏
-    location: "United Arab Emirates"
-    followers: 21000
-    engagement: 589
-    commentsToLikes: 0.039634
-    id: ckb9k7xhkbyrp0j23f9j1u7qk
-    verified: false
-    hashtags: "#afrodance, #foryoupage, #dancer, #afrobeat"
-  - username: ".chvrsli"
-    fullname: >-
-      CharliDamelio
-    bio: >-
-      - I’m a human she/her - 𝓼𝓽:13/2/2020
-    location: "United Arab Emirates"
-    followers: 17000
-    engagement: 2452
-    commentsToLikes: 0.286876
-    id: ckb9lzha2ewga0j23o0mnb1y7
-    verified: false
-    hashtags: "#foryou, #gemini, #dontflop, #tehee"
-  - username: "aishu_kunjuzz"
-    fullname: >-
-      Aiswarya sudheendran
-    bio: >-
-      🔥Thrissur kaarii🔥 vadakkum nandhan♥️🐘 Amma 😘 chattan peruth ishtam😍😍♥️♥️
-    location: "United Arab Emirates"
-    followers: 3520
-    engagement: 2117
-    commentsToLikes: 0.046356
-    id: ckb9lgp38e07s0j23ejzckwka
-    verified: false
-    hashtags: "#trendingsong, #art, #trending, #dubai"
+    hashtags: "#thalapathy, #southdance, #tik, #tiktoktamil"
 ---

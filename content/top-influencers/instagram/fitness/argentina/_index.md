@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Argentina In 2022
+title: Top 10 Fitness Instagram Influencers In Argentina In 2023
 description: >-
-  Find top fitness Instagram influencers in Argentina in 2022. Most popular hashtags: #fitness #sorteo #instagood.
+  Find top fitness Instagram influencers in Argentina in 2023. Most popular hashtags: #fitness #fitnessmotivation #love.
 platform: Instagram
-hits: 223
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 223 Instagram influencers like this in Argentina for you to connect with.
+hits: 271
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 271 Instagram influencers like this in Argentina for you to contact.
 profiles:
   - username: "andre_kerner_"
     fullname: >-
       Andre 🏃‍♀️🦋
     bio: >-
-      𝕊𝕚 𝕡𝕦𝕖𝕕𝕖𝕤 𝕊𝕆Ñ𝔸ℝ𝕃𝕆 𝕡𝕦𝕖𝕕𝕖𝕤 ℍ𝔸ℂ𝔼ℝ𝕃𝕆 🏃‍♀️#maratonista 42k PB 3.47 🔒 ⛰#trailrunning 💪#fitness 👊 #motivation 🏠 @kerner_propiedades 💋 @per.skinbeauty
+      𝗦𝗶 𝗽𝘂𝗲𝗱𝗲𝘀 𝗦𝗢𝗡̃𝗔𝗥𝗟𝗢 𝗽𝘂𝗲𝗱𝗲𝘀 𝗛𝗔𝗖𝗘𝗥𝗟𝗢 Inspirar Motivar Contagiar 🏃‍♀️😃 ❤ 🏃‍♀️#maratonista 42,195 k PB 3.47 🔒 ⛰#trailrunning 💪#fitness 👊 #motivation
     location: "Argentina"
-    followers: 6759
-    engagement: 1056
-    commentsToLikes: 0.146197
+    followers: 7429
+    engagement: 1073
+    commentsToLikes: 0.120005
     id: ck6tsqy756bzs0j71pk6xu3nn
     verified: false
-    hashtags: "#mujerespower, #instarunnersarg, #asicsfrontrunner, #runninggirl"
-  - username: "axelneriok"
-    fullname: >-
-      BEBUSKI
-    bio: >-
-      Modelo | Actor | Conductor de Tv - Radio | Fitness 📺 L a V, 10 hs @tulimitesosvos por @canalnetar 🎉
-    location: "Argentina"
-    followers: 99520
-    engagement: 232
-    commentsToLikes: 0.055162
-    id: ck5q1i9t3b45k0i11690e2o23
-    verified: true
-    hashtags: "#polaroideyewear, #sorteo, #viernes, #parana"
-  - username: "lolanoe.x"
-    fullname: >-
-      lola 🌹🌹
-    bio: >-
-      19☀️ Crossfit. 1st Fittest Teen in Argentina '18 🇦🇷 @amrap_cf @full.fitness.ok @bluedemonar
-    location: "Argentina"
-    followers: 14456
-    engagement: 1199
-    commentsToLikes: 0.014360
-    id: ck8sz3wfan2lo0j78013kt74c
-    verified: false
-    hashtags: ""
+    hashtags: "#mujeresquecorren, #runhappy, #positiva, #noche"
   - username: "sashunidos"
     fullname: >-
       SASHA NIEVAS
     bio: >-
       22 años 5 años Selección Argentina🇦🇷 Youth Olympic Medalist SASH FITNESS PROGRAM 📩 Indumentaria SASH 📍
     location: "Argentina"
-    followers: 27086
-    engagement: 1079
-    commentsToLikes: 0.010530
+    followers: 28235
+    engagement: 901
+    commentsToLikes: 0.009043
     id: ck14iu82eh71r0i197rq9ccj2
     verified: false
-    hashtags: "#happyolympicday, #monsterenergyar, #womansupportingwomen"
+    hashtags: "#monsterenergyar, #womansupportingwomen, #builtbybatuque"
   - username: "kekorosen"
     fullname: >-
       Keko Rosenblum
     bio: >-
-      👉 @tuvegankit 👉🏻 Profesor de Yoga🕉️ 👉🏽 Vegan Fitness 🌱💪 👉🏿 Activista por los animales🐔🐷🐄 👉🏿 Analista de sistemas/Lic en Marketing / MBA 🤓
+      👉 @ainaraheladosveganos 🍦 👉 @pizzavegana 🍕 👉 @campamentovegano ⛺️ 👉🏻 Profe Yoga🕉️ 👉🏽 Vegan Fitness💪 👉🏿 Activista por los 🐔🐷🐄 👉🏿 Lic mkt / MBA 🤓
     location: "Argentina"
-    followers: 10634
-    engagement: 847
-    commentsToLikes: 0.037448
+    followers: 10545
+    engagement: 845
+    commentsToLikes: 0.038711
     id: ck5pwnlrwnop00i11ovj5ip8o
     verified: false
-    hashtags: "#elmundodespierta, #govegan, #haceteveganx, #wakeupworld"
-  - username: "ginisantilli"
+    hashtags: "#vigilia, #parrilla, #basadoenplantas, #vegana"
+  - username: "lolanoe.x"
     fullname: >-
-      Gιиι Dαиιєℓα Sαитιℓℓι💕
+      lola 🌹🌹
     bio: >-
-      🅜🅐🅢 🅕🅤🅔🅡🅣🅔 💕๓ī ⅴīDค єN ғ๏ҭ๏ร 👑Reina del Turismo 2015 📌#luckystories Sorteos 📌Pasión por el Fitness 📌Chica Mendocina 🌞🍷 💫єใ ใí๓īҭє єร єl ςīєใ๏💫
+      20☀️ Crossfit. 1st Fittest Teen in Argentina '18 🇦🇷 @amrap_cf @full.fitness.ok @bluedemonar
     location: "Argentina"
-    followers: 20616
-    engagement: 488
-    commentsToLikes: 0.208937
-    id: ckapcl1rx49cj0i78s6ann7f0
+    followers: 16308
+    engagement: 1269
+    commentsToLikes: 0.009513
+    id: ck8sz3wfan2lo0j78013kt74c
     verified: false
-    hashtags: "#stronger, #dakiti, #summer, #sexy"
-  - username: "catacohan"
+    hashtags: "#fitnessmotivation, #fitnessgirl, #fitness, #crossfit"
+  - username: "kathecfit"
     fullname: >-
-      Cata Cohan
+      Kathe Cruz
     bio: >-
-      𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖 𝙝𝙤𝙡𝙞́𝙨𝙩𝙞𝙘𝙤 𝙙𝙚 𝙚𝙣𝙩𝙧𝙚𝙣𝙖𝙢𝙞𝙚𝙣𝙩𝙤 💫 Owner @thehealthywaybycata 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡𝙞𝙯𝙚𝙙 𝙩𝙧𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙧𝙤𝙜𝙧𝙖𝙢 💪🏼 Fitness instructor. Emprendedora. 👇🏼INFORMACIÓN‼️
+      📌| Bogota- Colombia 📚| Entrenadora en formación CCAPF 🏋🏻‍♀️ 💥| Fitness life 🙈 🎓| Tecnóloga en gestión ambiental y servicios públicos UD.
     location: "Argentina"
-    followers: 52039
-    engagement: 578
-    commentsToLikes: 0.016697
-    id: ck6tlqvaj6h410j71oz5recb9
+    followers: 29600
+    engagement: 668
+    commentsToLikes: 0.017382
+    id: ckap4egng703l0i78k3w2c4sb
     verified: false
-    hashtags: "#sorteo, #eventothw, #fitmotivation, #fitness"
-  - username: "romiortegaa"
+    hashtags: "#body, #fitness, #gym, #motivation"
+  - username: "cata_ferrand"
     fullname: >-
-      Romi 🐚
+      Catalina F.
     bio: >-
-      📸Modelo _ Mom - Fitness
+      Actriz. Comunicadora. Instructora en fitness y Profesora de Yoga. A metros de ser Licenciada en RRII. Mamá de Cayetana y Simona. Leonina. In ♡
     location: "Argentina"
-    followers: 131060
-    engagement: 363
-    commentsToLikes: 0.015338
-    id: ck6tkvoos5hvu0j71n5571f8w
+    followers: 64658
+    engagement: 157
+    commentsToLikes: 0.038118
+    id: ck602sbffivry0i14erona841
     verified: false
-    hashtags: "#novababe, #depilaciondefinitivalaser, #depilacionlaser, #mediostarnext"
+    hashtags: "#s21, #live, #extra, #wiz"
   - username: "javitolop"
     fullname: >-
       🇦🇷 Javier Lopez 🇦🇷
     bio: >-
       📍Living in Buenos Aires, Argentina 💈Professional Barber & Hairdresser @javierlopezhairstyle 🔮 Dreamer 🏋🏻‍♂️ Fitness Lover
     location: "Argentina"
-    followers: 13637
-    engagement: 885
-    commentsToLikes: 0.019909
+    followers: 14148
+    engagement: 780
+    commentsToLikes: 0.016142
     id: ckap0i04vqdiv0i78451bqcqk
     verified: false
-    hashtags: "#tbt, #verano2019, #mallorca, #yomequedoencasa"
-  - username: "veronica_vieyra"
+    hashtags: ""
+  - username: "anne_francisque"
     fullname: >-
-      Verito Vieyra
+      𝔸𝕟𝕚𝕥𝕒 🌺
     bio: >-
-      Comunicadora - Instructora de Fitness @suplementosverdi Consejos de Seducción-LIVE Cordobesa 🇦🇷💘🇨🇱 Trabajando siempre en mi mejor versión
+      🌴only acount🌴 Bikini & Fitness model Productora 🎬 Management @mg_movement Embajadora @deas_depilacion Bailarina @marimari_cce
     location: "Argentina"
-    followers: 75739
-    engagement: 176
-    commentsToLikes: 0.032370
-    id: ck0u1exuiwlq20i19o8iamidb
+    followers: 302051
+    engagement: 75
+    commentsToLikes: 0.023135
+    id: ck6udv6drnbpw0j71wnjueou6
     verified: false
-    hashtags: "#tbt, #mates, #covid"
+    hashtags: "#beachmodel, #bikinis, #fitnessmodel, #poledance"
+  - username: "yazminvg"
+    fullname: >-
+      Yazmin Con Y 🌸🐝
+    bio: >-
+      Owner @suritravel Agente de Viajes, Especialista en Disney •💪🏾Modelo Fitness🌸Amo lo Asiático 🇲🇽México es Chingon🌎Me Gusta Viajar Checa mis vídeos 🎥‼️
+    location: "Argentina"
+    followers: 35199
+    engagement: 109
+    commentsToLikes: 0.028678
+    id: ck6tsfvp94jd50j71wcc7nv8y
+    verified: false
+    hashtags: "#model, #behumble, #glutes, #workoutathome"
+  - username: "ladani.fit"
+    fullname: >-
+      Daniela🔥
+    bio: >-
+      ÚNICA CUENTA OFICIAL 📍Civil Engineer 🎓 📍Chica Fitness Anzoátegui 2017🥇 🔹1ER LUGAR CHICA FITNESS VZLA 2017🏆 📌 🇻🇪🔜🇵🇪
+    location: "Argentina"
+    followers: 48080
+    engagement: 150
+    commentsToLikes: 0.017097
+    id: ck0u0heoztp1d0i192nbaq774
+    verified: false
+    hashtags: "#me, #cardiodone, #selfietime, #love"
 ---

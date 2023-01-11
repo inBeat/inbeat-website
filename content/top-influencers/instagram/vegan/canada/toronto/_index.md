@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Toronto In 2022
+title: Top 10 Vegan Instagram Influencers In Toronto In 2023
 description: >-
-  Find top vegan Instagram influencers in Toronto in 2022. Most popular hashtags: #vegan #torontofoodblogger #torontofood #toronto.
+  Find top vegan Instagram influencers in Toronto in 2023. Most popular hashtags: #vegan #toronto #plantbased #veganfood.
 platform: Instagram
-hits: 73
+hits: 21
 text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 73 Instagram influencers like this in Toronto, Canada for you to contact.
+text_bottom: inBeat holds 21 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "thepunnyvegetarian"
+  - username: "tamlini"
     fullname: >-
-      The Punny Vegetarian
+      தமிழினி
     bio: >-
-      Using wordplay, recipe development, and food photography as activism Featured on @nytcooking, @eatingwell, and @somegoodnews She/Her 📍Toronto
+      Stay gold ✨ ———————— 📧: info@tamlini.ca @realtor.tamlini
     location: "Canada"
-    followers: 9103
-    engagement: 1130
-    commentsToLikes: 0.199331
-    id: ck6u7x16po5od0j71zial0lc6
+    followers: 8469
+    engagement: 338
+    commentsToLikes: 0.017070
+    id: ck134ocqxxee60i198p95dpo0
     verified: false
-    hashtags: "#bakersofig, #mangotart, #ketofriendly, #vincentvandoughnut"
-  - username: "cheskieeats"
-    fullname: >-
-      ✨ Cheskie ✨
-    bio: >-
-      🧁Beauty comes from within, so eat beautiful food 🌻 Blogger for @torontodateideas 🌞 Sharing my spiritual journey @cheskielives
-    location: "Canada"
-    followers: 5542
-    engagement: 420
-    commentsToLikes: 0.064762
-    id: ck6tic0ny0flh0j71ghph2pog
-    verified: false
-    hashtags: "#toronto, #datenight, #torontodateideas, #quarantinelife"
+    hashtags: "#tastetoronto, #gelatolovers, #uwaterloograd, #gifted"
   - username: "ladyofrandomnessto"
     fullname: >-
       Lady Of Randomness To 💙
     bio: >-
-      Tia 🔹Got a lot of 🖤 for Toronto 🔹Use #ladyofrandomness💙 to get featured 📧: DM or E-Mail me for collabs 🔹2020 Will be the Year of Giveaways 💫
+      Tia 👌Vibe Approver 🍡Foodie Lover 😜Being Random One Day At A Time 🎥Content Creator 🔥Dopamine Dealer 📧 Ladyofrandomness@hotmail.com
     location: "Canada"
-    followers: 13983
-    engagement: 338
-    commentsToLikes: 0.285591
+    followers: 17124
+    engagement: 175
+    commentsToLikes: 0.557627
     id: ck134od81xeii0i19nwpjlp6o
     verified: false
-    hashtags: "#desserts, #sweet, #treat, #booming"
-  - username: "fortheloveoffoodandlife"
+    hashtags: "#torontofoodblogger, #streetsoftoronto, #lick, #foodie"
+  - username: "gaia_is_i"
     fullname: >-
-      Adriana Paolella
+      🌎 Gaiaisi - Gaia's Eye 🌍
     bio: >-
-      Recipe creator Easy food&dinner ideas for busy ppl😊 👩‍🏫Teacher👩‍🍳Cook✏️Writer 👨‍👩‍👦‍👦Wife&Mom 👍🏼Content/Collab Tag for feature 🇨🇦 👇🏻Recipes
+      Lyricist, Man Who Likes To Laugh & Founder of the Animal Rights-Dedicated Enterprise: @vegan.brain.food 🔋🌿🧠🌿🔋 + 🛡🌳🦍🦏🐘🐄🐖🐣🌳🛡 =
     location: "Canada"
-    followers: 19575
-    engagement: 262
-    commentsToLikes: 0.656037
-    id: ck55n4hg75gki0i11zbiu2g8y
+    followers: 18350
+    engagement: 554
+    commentsToLikes: 0.051730
+    id: ck0w1btcpik6v0i19v0olh5uz
     verified: false
-    hashtags: "#fortheloveoffoodandlife, #kleinburgmoms, #bramptonmoms, #vaughanmoms"
-  - username: "dougmcnish"
+    hashtags: "#veganpower, #dogstagram, #crueltyfree, #vegan"
+  - username: "thecodycore"
     fullname: >-
-      Doug McNish
+      Jeff Cody - #fitness #trainer
     bio: >-
-      Executive Vegan Chef - Entrepreneur - Consultant - Author - Educator - Activist - Father. Order my new cookbook The Classics Veganized here 👇🏻
+      •⚓️🇨🇦 • 📸 Plant Based Fitness & Health🌱 • 🏋🏻 Certified Personal Trainer @fitlife.mvmt • 💪🏽Ambassador @underarmourca •💍 @plantbased_janice
     location: "Canada"
-    followers: 40333
-    engagement: 108
-    commentsToLikes: 0.121681
-    id: ck5cgoojzp8vc0i1134yqkozr
+    followers: 19560
+    engagement: 95
+    commentsToLikes: 0.112119
+    id: ck5cgfhnmoqi70i1179p5uv8h
     verified: false
-    hashtags: "#theclassicsveganized, #vegansofig, #giveaway, #veganized"
-  - username: "shaksz_3"
+    hashtags: "#gifted, #teamua, #fortmcmurray, #fitlifemvmt"
+  - username: "veganishmama"
     fullname: >-
-      Ahmed Mesallati
+      Heather |  Plant Based Mama 🌱
     bio: >-
-      ▫Mens Physique 🏆 ▫️Actor | Athlete | Architect ▫Toronto | Abu Dhabi | Gold Coast ✖️ 決して満足しない
+      she/her    Former professional cheese tester 🧀     Now Plant-Based 🌱  Food Photographer  📸  Mommy Blogger  💻  Sarcasm Queen 👸
     location: "Canada"
-    followers: 38753
-    engagement: 479
-    commentsToLikes: 0.033904
-    id: ck14jig87kikb0i19w6no7dxd
+    followers: 5354
+    engagement: 940
+    commentsToLikes: 0.207187
+    id: ckaozv0g2nisy0i78aoqd7isq
     verified: false
-    hashtags: "#candy, #hollywoodnorth, #motivation, #hulu"
-  - username: "yes.foodie"
+    hashtags: "#plantbased, #vegansofinstagram, #veganlifestyle, #vegetarian"
+  - username: "skinbyjess"
     fullname: >-
-      Wendy | Foodie From Toronto
+      jess ✿ │ skincare creator
     bio: >-
-      🙋🏻‍♀️ Follow @xowendyli 🇨🇦 📌 Say yaaas to fooood! 📌 Giveaways happening ALL THE TIME!! 📌 DM me for business & collaboration opportunities!!! 合作快樂!
+      i believe skincare is more than skin deep. toronto • DMs are open 🤍 ↓ check out my services + amazon / sephora faves !
     location: "Canada"
-    followers: 5337
-    engagement: 575
-    commentsToLikes: 0.601844
-    id: ck0w0rdugfnql0i198qxvcnip
+    followers: 3025
+    engagement: 604
+    commentsToLikes: 0.242993
+    id: ck6udx76anmsi0j71dlbddbw2
     verified: false
-    hashtags: "#torontoblogger, #foodphotography, #exploretoronto, #hamburger"
-  - username: "dineandfash"
+    hashtags: "#cleanskincare, #oilyskin, #youthtothepeople, #productphotography"
+  - username: "chef_somm"
     fullname: >-
-      Krystle | Toronto Blogger
+      Chef & Somm 🏳️‍🌈
     bio: >-
-      lawyer • travel • food • style • pretty places 🐶 @snuggleswithdouglas business inquiries by email only ↳ 📩 dineandfash@gmail.com see the latest 👇🏽
+      Toronto Private Chef New Account @chefsommto #chef #food @chefbeyondgender #wine @winestyleto #design @herecomespennie
     location: "Canada"
-    followers: 33579
-    engagement: 209
-    commentsToLikes: 0.348625
-    id: ck0ttlwob3a960i19t2km34pw
+    followers: 2498
+    engagement: 1094
+    commentsToLikes: 0.145653
+    id: ck15pe2a9xfe10i19p9j8nqze
     verified: false
-    hashtags: "#pursueprettythings, #abmhappylife, #f52grams, #lovetoronto"
-  - username: "paveesivaa"
+    hashtags: "#the6ix, #cute, #healthyfood, #toronto"
+  - username: "kaurscloset"
     fullname: >-
-      Pavee Siva
+      Aman Pannu 🕊
     bio: >-
-      ✨Living my best life✨ Arbonne Executive District Manager Business Inquiries: paveesivapr@gmail.com💌 @ps.impressionss @navsphotography_
+      📍toronto 💌 a.kaurscloset@gmail.com 🧖🏻‍♀️ @duomedispa
     location: "Canada"
-    followers: 4118
-    engagement: 1111
-    commentsToLikes: 0.138520
-    id: ckap74qbeimpa0i7898zrzyhd
+    followers: 106712
+    engagement: 768
+    commentsToLikes: 0.009129
+    id: ck14gpysp6gp40i192fbwd2qr
     verified: false
-    hashtags: "#entrepeneurlife, #navsphotography, #psimpressionss, #bossbabe"
-  - username: "bisante"
+    hashtags: "#motd, #punjab, #reelkarofeelkaro, #punjabisuit"
+  - username: "rachels_news"
     fullname: >-
-      Deeprest
+      Rachel Parent 🌎
     bio: >-
-      29. Toronto. Musician. Vegan. Happiness Crew. Deeprest. Twitch Streamer.
+      🌱Food and Climate Justice Activist 🌱Kids Right to Know Founder 🌱vegan 🌱TedX Speaker 🌱Gen-Earth 🌱Toronto ⬇️
     location: "Canada"
-    followers: 16841
-    engagement: 185
-    commentsToLikes: 0.057604
-    id: ck5zwl7es6bj40i14jkpr3sew
+    followers: 6313
+    engagement: 504
+    commentsToLikes: 0.070963
+    id: ck6tnzaflb80q0j719igp0uir
     verified: false
-    hashtags: ""
+    hashtags: "#activism, #food, #environment, #health"
+  - username: "terianncarty"
+    fullname: >-
+      Food Photographer + Stylist
+    bio: >-
+      👩🏻‍🍳Vegan Recipe Developer & Food Photographer 📝Contributor @bestofvegan 📷Food stylist 🧘🏻‍♀️Yoga Teacher📍Toronto
+    location: "Canada"
+    followers: 27667
+    engagement: 268
+    commentsToLikes: 0.272545
+    id: ck5zzcswubhtr0i14rz5mp0un
+    verified: false
+    hashtags: "#vegansofig, #easyvegan, #glutenfreevegan, #foodphotography"
 ---

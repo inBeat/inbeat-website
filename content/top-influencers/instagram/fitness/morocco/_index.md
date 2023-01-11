@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Morocco In 2022
+title: Top 10 Fitness Instagram Influencers In Morocco In 2023
 description: >-
-  Find top fitness Instagram influencers in Morocco in 2022. Most popular hashtags: #fitness #instagood #fitnessmotivation #morocco.
+  Find top fitness Instagram influencers in Morocco in 2023. Most popular hashtags: #fitness #photography #fitnessmotivation #morocco.
 platform: Instagram
-hits: 40
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 40 Instagram influencers like this in Morocco for you to collaborate.
+hits: 36
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 36 Instagram influencers like this in Morocco for you to work with.
 profiles:
-  - username: "nick.romanov"
-    fullname: >-
-      NICK ROMANOV 🇪🇺
-    bio: >-
-      ✖️ Founder of IT company ✖️ Traveller ✖️ Fitness lover 📍 Moscow, Russia
-    location: "Morocco"
-    followers: 10591
-    engagement: 958
-    commentsToLikes: 0.068430
-    id: ck8t7wav8i6de0j78e36v9pe8
-    verified: false
-    hashtags: ""
   - username: "chaymae_fit"
     fullname: >-
       🇲🇦C H A Y M A E 🇲🇦
     bio: >-
       •fitness & lifestyle •sport & musculation
     location: "Morocco"
-    followers: 10500
-    engagement: 985
-    commentsToLikes: 0.057199
+    followers: 11550
+    engagement: 999
+    commentsToLikes: 0.049856
     id: ckf5wnyajsorm0j239kfgok1n
     verified: false
-    hashtags: "#agadir, #nevergiveupyourdreams, #moroco, #agadirmarina"
-  - username: "chaimae_raaidi_"
+    hashtags: "#morocco, #fitnessgirl, #bodytransformation, #musique"
+  - username: "mimibitton"
     fullname: >-
-      CHAIMAE...💎
+      Myriam Bitton
     bio: >-
-      #la blonde 👩‍🦳 #les études 📚 👩🏼‍💻 #fitnessmotivation 🏋️‍♀️ #snapchat👻 شيماء الرعيدي 🍓🇲🇦
+      Director/Producer 🇺🇸 @mb.prods Moroccan Soul 🇲🇦 Flame Team 🔥🇯🇲 Dance 💃🏼, Music 🎶, Fitness 🏋🏼‍♀️, Travel ✈️, Nature 🌅, Food 🥘 L.O.V.E.R
     location: "Morocco"
-    followers: 5880
-    engagement: 1865
-    commentsToLikes: 0.028847
-    id: ck9we89pdj3f20j78cxv1k91e
+    followers: 20579
+    engagement: 349
+    commentsToLikes: 0.065155
+    id: ck5qa39l2ebpn0i11h813ztkj
     verified: false
-    hashtags: "#mohammedia, #caftanmarocain, #moroccanblogger, #makeup"
-  - username: "soufianeballouk_"
+    hashtags: "#happiness, #dancehall, #dance, #passion"
+  - username: "lahcen.attallah"
     fullname: >-
-      Soufianeballouk
+      One man army 🦁
     bio: >-
-      Newaccount personnel coach Soufian Ballouk-Fitness YouTuber-model 📍Marrakech,Morocco Men’s physic champ 🇲🇦🦍 Link to my last video 📩Ballouk.fitness@g.c
+      اللهم رحمنا *استغفر الله * Coach musculation et fitness byb 🇬🇧 Model 🧞‍♂️ Acteur🌓 Comédien 🌚 Influenceur 🧬
     location: "Morocco"
-    followers: 37891
-    engagement: 1350
-    commentsToLikes: 0.014905
-    id: ckap5kmpbc3qi0i78uedhl2cv
+    followers: 122055
+    engagement: 345
+    commentsToLikes: 0.015732
+    id: ck5zr5gg9vxte0i14xppwvrta
     verified: false
-    hashtags: "#moroccangorilla, #gym, #blackandwhite, #blackpower"
-  - username: "abaakilaya"
+    hashtags: ""
+  - username: "esirawi_aya"
     fullname: >-
-      AYA ABAAKIL
+      ALAMI AYA
     bio: >-
-      I workout but there is also more to life Professional airplane napper ✈️ Travel/ Fitness/ Lifestyle 📧 : contact.abaakilaya@gmail.com 📍Casablanca
+      ❤ ​ Fitness | Lifestyle | Travel 🥰 ❤ تابعني على YouTube 👇
     location: "Morocco"
-    followers: 327319
-    engagement: 548
-    commentsToLikes: 0.008571
-    id: ckaoxjid2djmf0i78o99o1qxx
+    followers: 878787
+    engagement: 55
+    commentsToLikes: 0.023553
+    id: ck9hblb22hc530j78i2603xya
     verified: false
-    hashtags: "#reels, #travel, #reelsinstagram, #dakhla"
-  - username: "zouhair_al"
+    hashtags: "#casablanca, #saadlamjarred, #tlemcen, #invention"
+  - username: "zouhairelkhaldaoui"
     fullname: >-
       زهير الخلداوي
     bio: >-
-      🇲🇦Casablanca📍 🙏🏻Sports & Fitness Instruction 🎓certified KRU "Muay thai"Thai yoga massage"pro🇹🇭 ⏱COACH SPORTIF 🙏🏻Plan alimentaire
+      .🇦🇪DUBAI📍 .🇲🇦Moroccan .🎓international certificat 🥇 .⏱COACH SPORTIF @tigerfitofficiel .🎓Sports & Fitness Instruction .🎓Muay thai"Thai massage"pro🇹🇭
     location: "Morocco"
-    followers: 155641
-    engagement: 253
-    commentsToLikes: 0.018785
+    followers: 216099
+    engagement: 408
+    commentsToLikes: 0.009886
     id: ck9wosdnp6est0j78blsbi1hp
     verified: false
-    hashtags: "#love, #likeforlikes, #beach, #enjoy"
+    hashtags: "#beach, #travelphotography, #thailand, #life"
   - username: "mandri_larosa"
     fullname: >-
       🏅STREET WORKOUT KILLER.🏅
     bio: >-
-      Hello my Friends i'm Mandri From Morocco and i'm Calisthenics & Street workout Pro★🏅❤️
+      Coach ⚫️
     location: "Morocco"
-    followers: 4152
-    engagement: 1697
-    commentsToLikes: 0.099303
+    followers: 5829
+    engagement: 1324
+    commentsToLikes: 0.117601
     id: ck9hborrjhsnv0j788vqto6b6
     verified: false
-    hashtags: "#beastofstatic, #workout24, #beast, #calisthenics"
-  - username: "lesfitkho"
+    hashtags: "#calisthenics, #thenx, #baristiworkout, #teamortizsw"
+  - username: "krbataphoto"
     fullname: >-
-      FitKho
+      KrbataPhoto | www.krbata.sk
     bio: >-
-      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
+      📷📽 Professional 👨 Influencer 🇸🇰 Based in Slovakia | Košice 📩 DM For Collab ❤️ @katkasalt
     location: "Morocco"
-    followers: 20900
-    engagement: 541
-    commentsToLikes: 0.135702
-    id: ck5hp9bxsqywa0i11d9217mwu
+    followers: 34839
+    engagement: 188
+    commentsToLikes: 0.053624
+    id: ck5hnrtbkoa9i0i11fcu6m8dd
     verified: false
-    hashtags: "#beautiful, #picoftheday, #workout, #girl"
-  - username: "espada.yassinee"
+    hashtags: "#kosice, #nightportrait, #skiing, #fitness"
+  - username: "seif_harnafi"
     fullname: >-
-      Yassine Moussaoui
+      Seif Harnafi
     bio: >-
-      _2eme: @espadayassinephotography _ambassador : @newchic_asia -📷ArtPhotography -👔Fashion blogger -🏋️‍♂️Fitness - 🤝Collab Dm Me - 🇲🇦 Morocco/Tanger
+      •Professional Fighter 🇲🇦🥊 👻seifchampp Tiktok:Seifharnafi1
     location: "Morocco"
-    followers: 89588
-    engagement: 252
-    commentsToLikes: 0.042663
-    id: ck6uevi25tbae0j714d36cpnl
+    followers: 4047
+    engagement: 1440
+    commentsToLikes: 0.059602
+    id: ck5zqlugguuet0i142hr0kqbj
     verified: false
-    hashtags: "#yellowtshirt, #motivation, #fitnessmotivation, #dapperman"
-  - username: "marouwa"
+    hashtags: "#fight, #germany, #fitness, #fitniss"
+  - username: "elham_haissoune"
     fullname: >-
-      Maroua
+      Ily🍯👅
     bio: >-
-      Here to create ✨ Lifestyle| music | travel and FUN! •💍 Married •📍Tangier, Morocco •🎬 Check out my my YouTube video:
+      00:00 ❤️❤️
     location: "Morocco"
-    followers: 6947
-    engagement: 1208
-    commentsToLikes: 0.055781
-    id: ck8tdcl8s2tce0j78ce1q5198
+    followers: 26829
+    engagement: 435
+    commentsToLikes: 0.019218
+    id: ck8t3w2th4pcd0j78hsszon0g
     verified: false
-    hashtags: "#moroccan, #marocaine, #travelblogger, #girly"
+    hashtags: "#stayathome, #shooting, #instalove, #essaouira"
+  - username: "hgfphoto.kerman"
+    fullname: >-
+      MehrdadMontazer Photography©
+    bio: >-
+      contact : direct 🇮🇷 تهران-قيطريه كرمان -شفا-كوچه ١٩
+    location: "Morocco"
+    followers: 8240
+    engagement: 952
+    commentsToLikes: 0.014027
+    id: ckaosmi2is3wp0i78prhjpmjv
+    verified: false
+    hashtags: "#beauty, #fashion, #women, #studio"
 ---

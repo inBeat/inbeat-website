@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Russia In 2022
+title: Top 10 Food Instagram Influencers In Russia In 2023
 description: >-
-  Find top food Instagram influencers in Russia in 2022. Most popular hashtags: #glamboxrussia #barcelonacity #permgirls.
+  Find top food Instagram influencers in Russia in 2023. Most popular hashtags: #summer2021 #haircare #streetstyle.
 platform: Instagram
-hits: 608
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 608 Instagram influencers like this in Russia for you to work with.
+hits: 630
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 630 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "_leeeemur_"
-    fullname: >-
-      ФУД ФОТОГРАФ МОСКВА
-    bio: >-
-      ᴊᴜʟɪᴀ ᴏʀʟᴏᴠᴀ 📷мᴇню|фото-контент 🍽коммерческие съемки 🍩еды мнᴏгᴏ нᴇ бывᴀᴇт 📮запись в Dɪʀᴇᴄᴛ 👩🏽‍🍳#рецепты ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ #food_and_lemur #sᴀɪɴᴛ♥️ʟᴇᴍᴜʀ
-    location: "Russia"
-    followers: 14855
-    engagement: 779
-    commentsToLikes: 0.012136
-    id: ck6u1hy3dlu4e0j716mtjc0aj
-    verified: false
-    hashtags: "#food"
-  - username: "mrs.rudenko_"
-    fullname: >-
-      Даша 🤍СЕМЬЯ РЕЦЕПТЫ
-    bio: >-
-      Founder of @4_baby.by Зажигай своим примером🌿 Много еды в сториз Вкусно #rudenko_food ОСТОРОЖНО! Здесь уютно Сотрудничество @rudenko.pr_
-    location: "Russia"
-    followers: 27721
-    engagement: 1464
-    commentsToLikes: 0.068977
-    id: ckaot16p9twx30i78hxomm0lt
-    verified: false
-    hashtags: "#rudenko"
   - username: "joytodorova"
     fullname: >-
       Radost Todorova
     bio: >-
       👑Miss Universe 🇧🇬 book & food lover📚 🎥Let’s live a happy & healthy life together🐣 🎬 YouTube channel👇
     location: "Russia"
-    followers: 76858
-    engagement: 489
-    commentsToLikes: 0.306696
+    followers: 83877
+    engagement: 497
+    commentsToLikes: 0.138073
     id: ck6u99hw2w94w0j715q9hp5wb
     verified: true
-    hashtags: "#gift, #spon, #giveaway, #youareworthitbox"
-  - username: "marialobanova"
+    hashtags: "#giveaway, #haircare, #joytodorova, #galdini"
+  - username: "ana.ignatenko"
     fullname: >-
-      Мария Лобанова/Maria Lobanova
+      Мамасита 👧🏻Жена моряка⚓️Блогер
     bio: >-
-      PR Guru&Marketing Bitch Food blogger Fitness Freak First SNC Mag Editor-in-Chief Lobanov PR:ЛИЧНЫЙ ПИАР, ПРОДВИЖЕНИЕ БРЕНДОВ, РЕСТОРАННЫЙ КОНСАЛТИНГ
+      • Амбассадор счастливых отношений❤️ • Главная морячка Одессы • 💌 @ignatenko.cooperation • @mamasita.food.ua
     location: "Russia"
-    followers: 25764
-    engagement: 380
-    commentsToLikes: 0.071467
-    id: ck139p43imfm10i19q8xrmmdh
+    followers: 42150
+    engagement: 456
+    commentsToLikes: 0.249046
+    id: ck5zoz4rzrnxf0i14du0bhorq
     verified: false
-    hashtags: "#wheretoeatmoscow, #wheretoeatsochi, #antiage, #nescens"
+    hashtags: ""
+  - username: "annaspoda"
+    fullname: >-
+      🌸 ANIKA 🌸
+    bio: >-
+      FOOD-флорист @annaranika Второй проект для творческих людей @rukodel_nitsa_ Мастер спорта по дзюдо 🥋 Гримёр 👩🏻‍🎨 любитель
+    location: "Russia"
+    followers: 7254
+    engagement: 1790
+    commentsToLikes: 0.057753
+    id: ck9wf4quan6zc0j783b0b2nz4
+    verified: false
+    hashtags: ""
+  - username: "nuchi_amazing"
+    fullname: >-
+      Нурлан Алимходжаев
+    bio: >-
+      Основатель салонов NUCHI @nuchi_astana 💄 / @nuchi_almaty 💅🏼 Партнёр - @maritas_food 🍏 📍ASTANA & ALMATY
+    location: "Russia"
+    followers: 237365
+    engagement: 394
+    commentsToLikes: 0.035369
+    id: ckf5o2vyq0oj60j23y0cwid8n
+    verified: false
+    hashtags: ""
   - username: "madame_perrier"
     fullname: >-
       Настоящая Франция
     bio: >-
       Мария 18 лет на Юге🇫🇷 Франция без розовых👓 Еда🧀Вино🍷Французы👨‍🎨 Food Wine Travel Influencer 👉#maryperrier_навигация
     location: "Russia"
-    followers: 108205
-    engagement: 264
-    commentsToLikes: 0.084469
+    followers: 116983
+    engagement: 321
+    commentsToLikes: 0.072730
     id: ck15unqeeo23e0i19snlwwa31
     verified: false
-    hashtags: "#maryperrier, #rtb"
-  - username: "lena_food_factory"
-    fullname: >-
-      Елена Тютюнникова
-    bio: >-
-      . САМЫЙ ЗАРАЗИТЕЛЬНЫЙ СМЕХ В МИРЕ ‼️Запатентован‼️ ВЫЕЗДНОЙ РЕСТОРАН Свадьбы Корпоративы ДР @food_factory_nsk ЛОФТ @pryatki_club ЖУРНАЛ @one_mag_
-    location: "Russia"
-    followers: 45284
-    engagement: 266
-    commentsToLikes: 0.066821
-    id: ck5zip5k8g4lf0i14r5ulblqg
-    verified: false
-    hashtags: "#foodeating, #foodphoto, #pfotofood, #teutonia"
+    hashtags: "#maryperrier"
   - username: "annamelkumian"
     fullname: >-
       Anna Melkumian
     bio: >-
-      Style, fashion, food, beauty, travel Email: amelkumian@gmail.com Мой YouTube 👇
+      Style, fashion, food, beauty, travel Email: amelkumian@gmail.com
     location: "Russia"
-    followers: 38147
-    engagement: 264
-    commentsToLikes: 0.072630
+    followers: 55436
+    engagement: 557
+    commentsToLikes: 0.024577
     id: ck5pyu378xt9t0i116v88tc2s
     verified: false
-    hashtags: "#lookoftheday, #weekend, #summer, #mondaymood"
-  - username: "kiseleva.kate"
+    hashtags: "#lookoftheday, #summer2021, #streetstyle, #dress"
+  - username: "oui_pingui"
     fullname: >-
-      Kate Kiseleva
+      блогер Лиза Коломиец | Минск
     bio: >-
-      🔈27 y.o. 🔈Bilbao📍 🔈photo, travel and food lover✈️📸🍝 📮collaboration gerda.kiseleva@gmail.com 🎥YouTube https://www.youtube.com/c/RusosReaccionan
+      ⭐️из food в lifestyle 💫 взращиваю вкус и чувство прекрасного в себе и тебе 🚀в ожидании нового дела 🙄как профукала предыдущее - смотрите по ссылке
     location: "Russia"
-    followers: 85797
-    engagement: 586
-    commentsToLikes: 0.020627
-    id: ck8t168emuk9n0j78i3wh09oq
+    followers: 70199
+    engagement: 509
+    commentsToLikes: 0.043015
+    id: ck6ty232p18ie0j71mdx8cn6d
     verified: false
-    hashtags: "#influencerespa, #bicitour, #barcelona, #lookofthedays"
+    hashtags: ""
+  - username: "lenatutunnikova"
+    fullname: >-
+      Елена Тютюнникова
+    bio: >-
+      САМЫЙ ЗАРАЗИТЕЛЬНЫЙ СМЕХ В МИРЕ Запатентован🤍 Психолог-сексолог, коуч Ведущая радио «Новое Вещание» @sexsation.pro @food_factory_nsk @pryatki_club
+    location: "Russia"
+    followers: 108994
+    engagement: 239
+    commentsToLikes: 0.099884
+    id: ck5zip5k8g4lf0i14r5ulblqg
+    verified: false
+    hashtags: "#2021, #ascania, #14"
   - username: "alina_lazo"
     fullname: >-
       Алинушка🐰
     bio: >-
-      📍 Sakhalin | St.Petersburg 💄 Beauty & Lifestyle 🍓 Food | Restaurants 💅🏻Амбассадор сети салонов Nail Sunny 💌 Cooperation: Direct
+      💄Beauty & Lifestyle 🍓Food & Restaurants 💅🏻Амбассадор сети салонов @nail_sunny 💌По рекламе: @alina_lazo.pr
     location: "Russia"
-    followers: 138413
-    engagement: 279
-    commentsToLikes: 0.032235
+    followers: 173556
+    engagement: 216
+    commentsToLikes: 0.045577
     id: ckf5p2lay4pvs0j23fqv688qd
     verified: false
-    hashtags: "#wedding, #stories, #sakhalin, #okhotsk"
-  - username: "annety_versange"
+    hashtags: "#totallook, #glambox10, #faberlicinfluencer, #glambox1"
+  - username: "malsh.va"
     fullname: >-
-      Annety Versange
+      ДОМ СЕМЬЯ РЕЦЕПТЫ МАТЕРИНСТВО
     bio: >-
-      Раскрываю секреты красоты Fashion | food #versangerest & Lifestyle Moscow | Dubai 📩Pr:direct | e-mail: versange8@gmail.com
+      👱🏼‍♀️Я - Таня ♾Сериал о жизни в сториз 🍰Рецепты #malsh_food 💌Сотрудничество в Директ
     location: "Russia"
-    followers: 115558
-    engagement: 148
-    commentsToLikes: 0.372067
-    id: ck9wemdhckwjh0j78u6kw3ssn
+    followers: 40319
+    engagement: 263
+    commentsToLikes: 0.066579
+    id: ckf5snxptfx750j23pa47kunr
     verified: false
-    hashtags: "#fendieyewear, #glambox, #givenchymakeup, #fendiroma"
+    hashtags: "#malsh, #sber"
 ---

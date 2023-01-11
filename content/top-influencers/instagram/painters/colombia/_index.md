@@ -1,84 +1,120 @@
 ---
-title: Top 10 Painters Instagram Influencers In Colombia In 2022
+title: Top 10 Painters Instagram Influencers In Colombia In 2023
 description: >-
-  Find top painters Instagram influencers in Colombia in 2022. Most popular hashtags: #pazinterior #gratitud #espiritualidad #colombia.
+  Find top painters Instagram influencers in Colombia in 2023. Most popular hashtags: #pazinterior #amorpropio #felicidad #despertarespiritual.
 platform: Instagram
-hits: 32
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 32 Instagram influencers like this in Colombia for you to pitch.
+hits: 33
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 33 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "maria.jose.guzman"
+  - username: "artedanielcaro"
     fullname: >-
-      Illustration 🌻
+      Daniel Caro
     bio: >-
-      Freelance illustrator COMISSIONS ARE OPEN ✨ ✉️ mariajoseguzman.art@gmail.com
+      Colombian Fine Artist
     location: "Colombia"
-    followers: 7830
-    engagement: 554
-    commentsToLikes: 0.120523
-    id: ckaoroy5bo6hp0i786cnxw9zt
+    followers: 4018
+    engagement: 1334
+    commentsToLikes: 0.063470
+    id: ck5cb46ngep540i11iulo9sct
     verified: false
-    hashtags: "#editorialillustration, #illustrationhowl, #femaleillustrator, #illustrationoftheday"
-  - username: "deejaylolita"
+    hashtags: "#contemporaryrealism, #art, #contemporaryart, #realismtoday"
+  - username: "erre.erre"
     fullname: >-
-      DJ LOLITA
+      Erre
     bio: >-
-      🎧✨•@defjamaicaclub •@audiolirica •@liannamusic •@yojosegabrielrcn •@elcandelario •@lapergolaclandestina •@panterasoundsystem ⬇️VÍDEO NUEVO⬇️
+      
     location: "Colombia"
-    followers: 11462
-    engagement: 661
-    commentsToLikes: 0.023271
-    id: ck0uads2wc24f0i19li9q6y0n
+    followers: 39539
+    engagement: 806
+    commentsToLikes: 0.010271
+    id: ck5q2xdnpi8pn0i11jsm8xwur
     verified: false
-    hashtags: "#defexpress, #djlolita, #lianna, #thisishardkore"
-  - username: "atma.nahar"
+    hashtags: "#bogotastreetart, #streetart, #screenprint, #erre"
+  - username: "pataconthedog"
     fullname: >-
-      Atma Naharॐ | Instablog✨
+      Patacón
     bio: >-
-      ✨Canal de 𝘈𝘶𝘵𝘰𝘵𝘳𝘢𝘯𝘧𝘰𝘳𝘮𝘢𝘤𝘪ó𝘯 & 𝘈𝘭𝘲𝘶𝘪𝘮𝘪𝘢 𝘝𝘪𝘣𝘳𝘢𝘤𝘪𝘰𝘯𝘢𝘭⁣ 💛Despertar espiritual, Abundancia & Camino de Alma🦋⁣ ⁣ 🧘‍♀️Por @soyatma en #autosanación 💕⁣⁣ +💌 ⬇
+      El de la cresta De Zapatoca para el🌎 Sun lover☀️nap fan💤 Cazador pro de moscas Aux.Cardiología veterinaria @marcel_qui Asistente en @mayibayonamakeup
     location: "Colombia"
-    followers: 53017
-    engagement: 288
-    commentsToLikes: 0.045779
+    followers: 8601
+    engagement: 793
+    commentsToLikes: 0.073523
+    id: ck5q2xluni9vf0i11zilj10ls
+    verified: false
+    hashtags: "#colombia, #dogreels, #adopted, #rescuedogsofinstagram"
+  - username: "andrecasallas18"
+    fullname: >-
+      Andrea 🎈
+    bio: >-
+      Dios mi vida ✨Filipenses 4:13✨ Publicidad: andrecasallas2014@gmail.com
+    location: "Colombia"
+    followers: 54257
+    engagement: 532
+    commentsToLikes: 0.023054
+    id: ck9hcvucvn6kp0j78zhwmzhnn
+    verified: false
+    hashtags: "#girl, #tumblr, #aesthetic, #pinterest"
+  - username: "isabelvesga"
+    fullname: >-
+      Isa • Designer | Styling
+    bio: >-
+      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
+    location: "Colombia"
+    followers: 9917
+    engagement: 453
+    commentsToLikes: 0.042405
+    id: ck8tcsh2n0i9l0j78rd38d8tm
+    verified: false
+    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
+  - username: "risletto"
+    fullname: >-
+      🐉 - 半神
+    bio: >-
+      Stop talking about love, talk about money.
+    location: "Colombia"
+    followers: 48837
+    engagement: 302
+    commentsToLikes: 0.058739
     id: ck0u88ccs6puz0i19kznj18xq
     verified: false
-    hashtags: "#gratitud, #piensapositivo, #crecimientoespiritual, #abundancia"
-  - username: "cultivandogratitud"
+    hashtags: "#leydeatracci, #viviendo, #elsecreto, #piensoenpositivo"
+  - username: "nanaarenales"
     fullname: >-
-      Lily Pérez 🌟
+      Nana Arenales
     bio: >-
-      🙌Agradece en todo 💛Mi propósito inspirarte a #vivirengratitud
+      Atleta Fitness- Mami😇 - Bianco 🐶 Propietaria de @narenabynana Influencer BGA TIKTOK https://vm.tiktok.com/ZMeNY7BVu/
     location: "Colombia"
-    followers: 207590
-    engagement: 396
-    commentsToLikes: 0.016460
-    id: ck0tw96y5egig0i19ejnhng83
+    followers: 100369
+    engagement: 29
+    commentsToLikes: 0.026303
+    id: ck6udri35mqc20j710kcwubmo
     verified: false
-    hashtags: "#alma, #abundancia, #pensamientos, #despertar"
-  - username: "hoponoponotransformacion"
+    hashtags: "#selfcare, #lifepath, #sinmapa, #lifestyle"
+  - username: "tribu.femenina"
     fullname: >-
-      Ho`oponopono transformación
+      TRIBU FEMENINA
     bio: >-
-      Porque a veces es fácil perder el equilibro 🔹Sanadora : ➡️Con Ho'oponopono ♒ 🔸🔝Terapias de Sanación online 💆‍♀️ 🔹Eventos Empresariales⏺️
+      Por @monirodriguezrestrepo Inscríbete gratis al reto mariposa 🦋 👇🏻
     location: "Colombia"
-    followers: 66965
-    engagement: 306
-    commentsToLikes: 0.023106
-    id: ck13844d1eepd0i19b02t79pg
+    followers: 136473
+    engagement: 136
+    commentsToLikes: 0.027039
+    id: ck8t9jqcxocoy0j780oiortd3
     verified: false
-    hashtags: "#armenia, #antioquia, #saludmental, #sabaneta"
+    hashtags: "#pazinterior, #sermujer, #crecimientopersonal, #tribufemenina"
   - username: "similarmente"
     fullname: >-
-      Expansión De Conciencia
+      Afirmaciones del Universo
     bio: >-
-      🙏 Trasciende tus miedos ⚡️ Conectate con tu poder creador 🧘‍♂️ Vive tu visión de vida Por: @andrucuellarw 💥Inscribete en la clase gratuita 👇👇👇👇👇👇
+      🙏 Afirmaciones diarias directamente del Universo para tu despertar espiritual! 💥 Descarga la visualización guiada para una vida abundante! 👇👇👇👇👇👇👇👇
     location: "Colombia"
-    followers: 13256
-    engagement: 223
-    commentsToLikes: 0.013713
+    followers: 12832
+    engagement: 276
+    commentsToLikes: 0.012758
     id: ck0ue3a05khet0i19ok3i11k1
     verified: false
-    hashtags: "#taoismo, #motivacion, #elsenderodelchaman, #felicidad"
+    hashtags: ""
   - username: "marvelinfinito"
     fullname: >-
       MARVEL INFINITO
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.010568
     id: ckf5tt5hoip2h0j231248ha7q
     verified: false
-    hashtags: "#mcuphase4, #thorloveandthunder, #deadpool3, #conceptart"
-  - username: "senalesdelcielo"
-    fullname: >-
-      Señales Del Cielo🌈
-    bio: >-
-      Ana Paola Martínez 🌟Terapeuta con Ángeles: Canalizaciones, Sanaciones, Limpiezas 🌟Citas presenciales/online 🌟8 años de experiencia 🌟Link a WA⤵️
-    location: "Colombia"
-    followers: 13688
-    engagement: 440
-    commentsToLikes: 0.044597
-    id: ck8t9ycckpsnq0j78ta8ml5a3
-    verified: false
-    hashtags: "#mensajesdeangeles, #terapiaconangeles, #sanaci, #arcangeles"
-  - username: "siad_keren"
-    fullname: >-
-      Siad Aldana
-    bio: >-
-      ▪️MLM Expert ▪️Lider Empoderamiento Social ▪️Jurisprudencia ▪️CEO @cardiff_beauty ▪️Paz mental | independencia intelectual | equilibrio emocional.
-    location: "Colombia"
-    followers: 31300
-    engagement: 249
-    commentsToLikes: 0.682567
-    id: ck6u5wzhac8lg0j71fdxqo6i5
-    verified: false
-    hashtags: "#iphone11, #barranquilla, #jukilopa, #keniaos"
-  - username: "paula.jimenez.garcia"
-    fullname: >-
-      𝐏𝐀𝐔𝐋𝐀 𝐉𝐈𝐌𝐄𝐍𝐄𝐙 𝐆𝐀𝐑𝐂𝐈𝐀
-    bio: >-
-      𝐏𝐑𝐈𝐌𝐄𝐑𝐀 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 𝐂𝐍𝐁® SEÑORITA ANTIOQUIA 👑 𝘈𝘮𝘢𝘯𝘵𝘦 𝘥𝘦 𝘭𝘰𝘴 𝘢𝘯𝘪𝘮𝘢𝘭𝘦𝘴 ~𝘈𝘣𝘰𝘨𝘢𝘥𝘢 𝘌𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘴𝘵𝘢
-    location: "Colombia"
-    followers: 16521
-    engagement: 569
-    commentsToLikes: 0.059860
-    id: ckf5kye8rno3q0j236bvrzxyq
-    verified: false
-    hashtags: "#paulajimenez, #woman, #happy, #love"
+    hashtags: "#viudanegra, #deadpool2, #daredevil, #marvelstud10s"
 ---

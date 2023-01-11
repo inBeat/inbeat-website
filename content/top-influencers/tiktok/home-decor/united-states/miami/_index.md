@@ -1,72 +1,96 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Miami In 2022
+title: Top 10 Home Decor TikTok Influencers In Miami In 2023
 description: >-
-  Find top home decor TikTok influencers in Miami in 2022. Most popular hashtags: #miami #homedecor #fyp #foryou.
+  Find top home decor TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #homedecor #miami #foryou.
 platform: TikTok
-hits: 22
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 22 TikTok influencers like this in Miami, United States for you to connect with.
+hits: 18
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 18 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "itsagracebigworld"
+    fullname: >-
+      Grace Zantua
+    bio: >-
+      California ☼ Miami, FL Passionately curious. 🇵🇭
+    location: "United States"
+    followers: 15400
+    engagement: 1135
+    commentsToLikes: 0.028533
+    id: ckbfgr4luc1ja0j23rdvi34bs
+    verified: false
+    hashtags: "#travel, #destinationdepop, #millionactsoflove, #diy"
+  - username: "marina.b.style"
+    fullname: >-
+      Marina B. Style
+    bio: >-
+      Interior Stylist | E-Design Life + Style + Home + Decor IG @marina.b.style
+    location: "United States"
+    followers: 226300
+    engagement: 402
+    commentsToLikes: 0.008237
+    id: ck90tz3ogunla0j78gnla1iov
+    verified: false
+    hashtags: "#christmas, #decorating, #interiordesign, #decoration"
+  - username: "juliaaramirezz"
+    fullname: >-
+      juliaaramirezz
+    bio: >-
+      julia ramirez on youtube
+    location: "United States"
+    followers: 6171
+    engagement: 971
+    commentsToLikes: 0.035790
+    id: ck9r4h5o4uvrb0j781ov6o3rh
+    verified: false
+    hashtags: "#musthaves, #thingstodoinatlanta, #amazon, #amazonchallenge"
+  - username: "itsmarianaus"
+    fullname: >-
+      Mariana Umaña
+    bio: >-
+      Instagram: Itsmarianaus Mamá de Mia | Vida de mamá y Estilo de Vida
+    location: "United States"
+    followers: 45400
+    engagement: 573
+    commentsToLikes: 0.011952
+    id: ck9f1trira0gn0j78314j6q15
+    verified: false
+    hashtags: "#funny, #momlife, #latinas, #momsoftiktok"
+  - username: "courtshauls"
+    fullname: >-
+      COURT✰
+    bio: >-
+      
+    location: "United States"
+    followers: 4392
+    engagement: 2289
+    commentsToLikes: 0.178493
+    id: ckbb1e7f7rqk10j23484orqjp
+    verified: false
+    hashtags: "#influencer, #notonething, #gifted, #aesthetic"
   - username: "darlapowell"
     fullname: >-
       Darla Powell
     bio: >-
       Miami Interior Designer ✨ Design + Hijinks darlapowell.com
     location: "United States"
-    followers: 3231
-    engagement: 1033
-    commentsToLikes: 0.075532
+    followers: 3217
+    engagement: 963
+    commentsToLikes: 0.073105
     id: ckd6kywvheldh0j23bu67uyl6
     verified: false
-    hashtags: "#fyp, #miami, #homedecor, #miamidesigner"
-  - username: "evolutioneventos"
+    hashtags: "#fyp, #makesomeonesmile, #homedecor, #gaysoftiktok"
+  - username: "asiamiamor"
     fullname: >-
-      Evolution Eventos
+      Asiamiamor
     bio: >-
-      112k in Instagram - Event design company. Online Floral Works
+      💕IG @asiamiamor
     location: "United States"
-    followers: 13200
-    engagement: 447
-    commentsToLikes: 0.026500
-    id: ck9fwzxaa3xtm0j78puohb2f9
+    followers: 13400
+    engagement: 601
+    commentsToLikes: 0.049009
+    id: ckbqglg2q23mj0j23thb0ds2i
     verified: false
-    hashtags: "#miamiflowers, #fall, #pumpkin, #flowers"
-  - username: "jalbertorc"
-    fullname: >-
-      Jose Alberto
-    bio: >-
-      🇵🇷 📍 🇺🇸 instagram : jalbertorc
-    location: "United States"
-    followers: 18200
-    engagement: 349
-    commentsToLikes: 0.011233
-    id: ckacgg5ctv1380i78x2xe9m3y
-    verified: false
-    hashtags: "#latino, #foryou, #xyzbca, #viral"
-  - username: "katielicata"
-    fullname: >-
-      Katie Licata
-    bio: >-
-      Somewhere between a Disney princess and Midge Maisel. she/her
-    location: "United States"
-    followers: 22400
-    engagement: 1400
-    commentsToLikes: 0.032129
-    id: ckbercvcb9i3z0j23zqh3ufw0
-    verified: false
-    hashtags: "#vintagestyle, #1950s, #vintagevibes, #disney"
-  - username: "laurenfrancesmm"
-    fullname: >-
-      Lauren
-    bio: >-
-      miami I paint murals in my room
-    location: "United States"
-    followers: 78200
-    engagement: 852
-    commentsToLikes: 0.030005
-    id: ckb0m23qzcm920j23h0ujikb4
-    verified: false
-    hashtags: "#pleasesetupazoomwithme, #artistsoftiktok, #greenscreen, #duet"
+    hashtags: "#mua, #moneytok, #foru, #foryou"
   - username: "idobeboredtho0"
     fullname: >-
       Venom
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.019593
     id: ckbf5lpjzuqzz0j236m3zzzrf
     verified: false
-    hashtags: "#familydinner, #acousticcovers, #wipeitdown, #yoplaitcuprelay"
-  - username: "natyp13"
+    hashtags: "#beyondscaredstraight, #soapbop, #quarantinelife, #familydinner"
+  - username: "aloprofile"
     fullname: >-
-      naty perezzz
+      aloprofile
     bio: >-
-      miamiiiii cashapp: natycheer13
+      Am I doing this right?! Life + style enthusiast in Dallas, TX
     location: "United States"
-    followers: 10900
-    engagement: 1180
-    commentsToLikes: 0.031561
-    id: ckbqtx59nehbo0j23antnptv0
+    followers: 193700
+    engagement: 947
+    commentsToLikes: 0.041831
+    id: ckbkt2ma7o3sv0j23z5y7w93l
     verified: false
-    hashtags: "#teleport, #stepintolove, #inmyaejeans, #duet"
-  - username: "victoriagkremer"
+    hashtags: "#dogsoftiktok, #springdress, #hometour, #miami"
+  - username: "kendallhuibregtse"
     fullname: >-
-      victoriagkremer
+      Kendall Huibregtse
     bio: >-
-      Believer of Christ 🤍 victoriagabriella.com 🤍 IG: @victoriagkremer
+      
     location: "United States"
-    followers: 2098
-    engagement: 397
-    commentsToLikes: 0.050391
-    id: ckdhomie40zxd0j23npz4uixt
+    followers: 9537
+    engagement: 727
+    commentsToLikes: 0.023160
+    id: ckcit2ofvzasb0j23714qd9qu
     verified: false
-    hashtags: "#mood, #pumpkinspice, #ootd, #miamiblogger"
-  - username: "shesgoing_"
-    fullname: >-
-      samantha
-    bio: >-
-      29 countries & Going. Travel & Sustainable Lifestyle
-    location: "United States"
-    followers: 8160
-    engagement: 293
-    commentsToLikes: 0.067260
-    id: ckbfdf6ub6pif0j23t82e8vy9
-    verified: false
-    hashtags: "#miami, #bts, #fu, #florida"
-  - username: "natalieeab"
-    fullname: >-
-      Natalie
-    bio: >-
-      renegade
-    location: "United States"
-    followers: 11600
-    engagement: 595
-    commentsToLikes: 0.031508
-    id: ck92whnluukxf0j787k6g32yv
-    verified: false
-    hashtags: "#umiami, #duet, #miami, #foundingfathers"
+    hashtags: "#miami, #weddingdress, #bridalstylist, #fyp"
 ---

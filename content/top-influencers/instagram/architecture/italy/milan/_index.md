@@ -1,48 +1,48 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Milan In 2022
+title: Top 10 Architecture Instagram Influencers In Milan In 2023
 description: >-
-  Find top architecture Instagram influencers in Milan in 2022. Most popular hashtags: #milano #architecture #milan #italy.
+  Find top architecture Instagram influencers in Milan in 2023. Most popular hashtags: #milano #architecture #milan #igersmilano.
 platform: Instagram
-hits: 200
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 200 Instagram influencers like this in Milan, Italy for you to connect with.
+hits: 164
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 164 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "milano_scomparsa_o_quasi"
+  - username: "milanstagramcom"
     fullname: >-
-      
+      Massimiliano Donghi
     bio: >-
-      Appassionato di storia, specialmente milanese e lombarda, collezionista di foto, incisioni, dipinti e immagini storiche di Milano.
+      📷 Freelance Photographer 📌 Based in Milan, Italy
     location: "Italy"
-    followers: 27001
-    engagement: 515
-    commentsToLikes: 0.017536
-    id: ck13947gcjfp70i192d0nhzov
+    followers: 23309
+    engagement: 514
+    commentsToLikes: 0.027438
+    id: ck0vv45c1ngm80i195vkiwio0
     verified: false
-    hashtags: "#art, #architecturephotography, #lombardia, #architecture"
-  - username: "yongbaeseok"
+    hashtags: "#travel, #postcard, #architecture, #milanocity"
+  - username: "fernariello"
     fullname: >-
-      YONG BAE SEOK®_석용배
+      Fernando
     bio: >-
-      Industrial/Fashion Designer, Creative Director TOD’S No_Code Project @todsno_code Head of Sneaker Design TOD’S, Founder Brand “SEOK™”@seok_individual
+      Un napoletano al parmigiano📱iPhone11promax📸CanonEOSM3📹GoPro H6💫Fotografare è cercare di fermare l'attimo fuggente🌎Viaggiare alla ricerca di se stessi🥇
     location: "Italy"
-    followers: 42570
-    engagement: 31
-    commentsToLikes: 0.034029
-    id: ck15symj6fgyw0i19pwyq73ce
+    followers: 10061
+    engagement: 1002
+    commentsToLikes: 0.049503
+    id: ck0u7pkq85e6t0i192e4tostl
     verified: false
-    hashtags: "#todsnocode, #todsnocodex, #nocode, #hybrid"
-  - username: "sara_rossetto"
+    hashtags: "#city, #nyc, #venezia, #love"
+  - username: "eventiatmilano"
     fullname: >-
-      Sara Nicole Rossetto
+      Eventi@Milano
     bio: >-
-      Professional dreamer 💭 Working on transforming them into reality Talent for Next Models Management Sara_rossetto@hotmail.it
+      𝘖𝘨𝘨𝘪. 𝘈 𝘔𝘪𝘭𝘢𝘯𝘰. 𝘘𝘶𝘢𝘭𝘤𝘰𝘴𝘢 𝘥𝘪 𝘥𝘪𝘷𝘦𝘳𝘴𝘰 𝘥𝘢𝘭 𝘴𝘰𝘭𝘪𝘵𝘰 𝘢𝘱𝘦𝘳𝘪𝘵𝘪𝘷𝘰. 📷 #eventiatmilano ⬇️ Promuovi il tuo evento ⬇️
     location: "Italy"
-    followers: 96372
-    engagement: 123
-    commentsToLikes: 0.024110
-    id: ck0u9nr2xaa120i19ou0py70a
+    followers: 30773
+    engagement: 171
+    commentsToLikes: 0.018016
+    id: ckaovrmzx5ux50i781wsa9gfm
     verified: false
-    hashtags: "#milano, #estateitaliana, #suppliedby, #villapizzorusso"
+    hashtags: "#ig, #castellosforzescomilano, #comunedimilano, #brera"
   - username: "carlo_stanga"
     fullname: >-
       Carlo Stanga Illustrator
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.020261
     id: ck0uba49be6y00i19e6pswk9y
     verified: false
-    hashtags: "#carlostanga, #architettura, #architecture, #illustratedbook"
-  - username: "_lagiuditta"
+    hashtags: "#zahahadid, #milan, #carlostanga, #architettura"
+  - username: "simonecioe"
     fullname: >-
-      Roberta Mazzone
+      Simone Cioè
     bio: >-
-      Nata in Sicilia, nell'estate di un anno dispari 🎒Travel/Lifestyle/Architecture 📍Milano↔️Brescia 📮robertamazzone91@gmail.com
+      🎥 Filmmaker 🔴 Content Creator 💟 @twitch.italy partner 🎖 @alphauniversebysony.eu Ambassador
     location: "Italy"
-    followers: 79518
-    engagement: 166
-    commentsToLikes: 0.070213
-    id: ck0vvaxkdobqm0i19ziuj7crf
+    followers: 20985
+    engagement: 662
+    commentsToLikes: 0.010217
+    id: ck55nxgso770x0i11kh59o8e8
     verified: false
-    hashtags: "#ad, #huaweip40pro, #huawei, #phoneclone"
-  - username: "fantamilano"
+    hashtags: "#streets, #photooftheday, #italy, #photography"
+  - username: "sfiziusello78"
     fullname: >-
-      Fanta Milano
+      sfiziusello78
     bio: >-
-      ✨✨✨ #FANTAMILANO ✨✨✨
+      Appunti disordinati di viaggi di un semplice 40enne🐻🌈🌞 Giovanni da Milano/salerno ❤️ mia famiglia ❤️il mio lavoro💉💊 💓viaggiatore dipendente✈️🛳️🌍 ❤️🍤🍣🍙
     location: "Italy"
-    followers: 6404
-    engagement: 1735
-    commentsToLikes: 0.004837
-    id: ckaorj8crnh6h0i78lueosuyf
+    followers: 6162
+    engagement: 727
+    commentsToLikes: 0.023465
+    id: ck5hs8t9ow6gg0i113gnk2n1t
     verified: false
-    hashtags: "#lombardia, #italia, #volgomilano, #milanodaclick"
-  - username: "eventiatmilano"
+    hashtags: "#art, #vivomilano, #museo, #chieseedintorni"
+  - username: "cristian.mohaded"
     fullname: >-
-      Eventi@Milano
+      C R I S T I A N.M O H A D E D
     bio: >-
-      𝘖𝘨𝘨𝘪. 𝘈 𝘔𝘪𝘭𝘢𝘯𝘰. 𝘘𝘶𝘢𝘭𝘤𝘰𝘴𝘢 𝘥𝘪 𝘥𝘪𝘷𝘦𝘳𝘴𝘰 𝘥𝘢𝘭 𝘴𝘰𝘭𝘪𝘵𝘰 𝘢𝘱𝘦𝘳𝘪𝘵𝘪𝘷𝘰. 📸 #eventiatmilano ⬇️ Promuovi il tuo evento ⬇️
+      Designer & Artist from 🇦🇷 Head of Design, Mohaded.Studio Founder & Art Director @entrevero.collections Rewriting Argentine Design
     location: "Italy"
-    followers: 30134
-    engagement: 142
-    commentsToLikes: 0.021985
-    id: ckaovrmzx5ux50i781wsa9gfm
+    followers: 27242
+    engagement: 210
+    commentsToLikes: 0.054772
+    id: ck5heupn8ura20i11otci61cj
     verified: false
-    hashtags: "#whywelovemilano, #comunedimilano, #eventiatmilano, #awesomeitaly"
-  - username: "boe_project"
+    hashtags: "#cristianmohaded, #craft, #handmade, #lamp"
+  - username: "milano_scomparsa_o_quasi"
     fullname: >-
-      #polimidrawings
+      Paolo
     bio: >-
-      a collection of Politecnico di Milano architectural drawings #polimidrawings boeproject@yahoo.com
+      Potete trovare i libri su AMAZON, IBS, KOBO, UNILIBRO, MONDADORI
     location: "Italy"
-    followers: 7057
-    engagement: 615
-    commentsToLikes: 0.002991
-    id: ck8t57u6h939k0j78igcs0z4y
+    followers: 36016
+    engagement: 453
+    commentsToLikes: 0.041519
+    id: ck13947gcjfp70i192d0nhzov
     verified: false
-    hashtags: "#autocad, #av, #architectureonpaper, #photoshop"
-  - username: "milandesignmarket"
+    hashtags: "#milano, #architecture, #architettura, #architecturephotography"
+  - username: "francinnocenti"
     fullname: >-
-      Milan Design Market
+      Francesco Innocenti
     bio: >-
-      A place for designers, who can exhibit and sell their products. Shop online and get the WOW! - Visit us during Milan Design Week @isoladesigndistrict
+      ✰Travel, style and design enthusiast ⚑ Milano ✎ francesco@andyjam.com
     location: "Italy"
-    followers: 28090
-    engagement: 85
-    commentsToLikes: 0.007522
-    id: ck9wd5m53e5wl0j78up342jsk
+    followers: 163828
+    engagement: 153
+    commentsToLikes: 0.024563
+    id: ck55my6cd52wu0i11iv936upg
     verified: false
-    hashtags: ""
-  - username: "vetto18"
+    hashtags: "#summerinitaly, #calafelice, #tuscany, #sandrohomme"
+  - username: "ilpiccionedimilano"
     fullname: >-
-      Andrea Vettore 🦁
+      Il Piccione di Milano
     bio: >-
-      𝖫𝗂𝖿𝖾𝗌𝗍𝗒𝗅𝖾 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 📚| Management Engineering 📍| BS, Italy 🇮🇹 📩| Collabs👉🏼DM 💲| “CUONKOQE” for -40% @dudios_official 🎧 💲| @apeman_official ↴
+      The one and only 🐦 Based in 📍Milan, Italy 🇮🇹 #ilpiccionedimilano
     location: "Italy"
-    followers: 15709
-    engagement: 597
-    commentsToLikes: 0.269315
-    id: ckap9am1druyb0i78ywwglrbd
+    followers: 7217
+    engagement: 627
+    commentsToLikes: 0.035794
+    id: ck8t5u7h8b9ut0j7847fahdtp
     verified: false
-    hashtags: "#varihfb1, #coronavirus, #aesthetics, #apple"
+    hashtags: "#fotografimilanesi, #italianarchitecture, #milanese, #ilovemilano"
 ---

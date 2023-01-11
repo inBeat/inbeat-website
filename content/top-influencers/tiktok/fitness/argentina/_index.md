@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Argentina In 2022
+title: Top 10 Fitness TikTok Influencers In Argentina In 2023
 description: >-
-  Find top fitness TikTok influencers in Argentina in 2022. Most popular hashtags: #fyp #fitness #parati #foryou.
+  Find top fitness TikTok influencers in Argentina in 2023. Most popular hashtags: #fitness #parati #fyp #foryou.
 platform: TikTok
 hits: 36
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 36 TikTok influencers like this in Argentina for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 36 TikTok influencers like this in Argentina for you to work with.
 profiles:
-  - username: "belu_fitness"
-    fullname: >-
-      belu_fitness
-    bio: >-
-      Coach Fitness & Nutricion Seguime IG 🚀 @belu_fitness Mamá de 3❤️
-    location: "Argentina"
-    followers: 34200
-    engagement: 627
-    commentsToLikes: 0.003418
-    id: ckbfchef359200j2346ym4pcc
-    verified: false
-    hashtags: "#training, #abdomenplano, #ab, #ejercicioencasa"
   - username: "yamilavanesatoled"
     fullname: >-
       Yamila Vanesa Toledo
     bio: >-
       Fitness Pro🥇7 Mundiales 1🥇 Olympia 1🥇Miss Univers 7🥇 Europeos 1🥇Arnold Clá
     location: "Argentina"
-    followers: 13100
-    engagement: 482
-    commentsToLikes: 0.001096
+    followers: 49700
+    engagement: 796
+    commentsToLikes: 0.040122
     id: ck9ej9wbx1pqi0j783za284rv
     verified: false
-    hashtags: "#mujeres, #domingo, #mifortaleza, #buenosdias"
-  - username: "tomaslabarere"
+    hashtags: "#mujeresde40ymas, #motivacionmujeres, #fitness, #fitnesswoman"
+  - username: "belu_fitness"
     fullname: >-
-      Tomas Labarere
+      belu_fitness
     bio: >-
-      Todo empezó en cuarentena Queres cambiar tu físico? Escribime al Instagram !!!
+      Ig: @belu_fitness (fitness+nutrición+ tips) Entrena con mis planes a distancia⬇️
     location: "Argentina"
-    followers: 47900
-    engagement: 986
-    commentsToLikes: 0.042779
-    id: cka0fo73a0i210i7824p1dor9
+    followers: 107100
+    engagement: 549
+    commentsToLikes: 0.004904
+    id: ckbfchef359200j2346ym4pcc
     verified: false
-    hashtags: "#humor, #foryoupage, #fyp, #fitness"
-  - username: "guerreroskravmaga"
+    hashtags: "#abdomen, #abs, #destacametiktok, #viral"
+  - username: "belbravo_"
     fullname: >-
-      Guerreros Krav Maga
+      Belén Bravo
     bio: >-
-      INSTA & YOUTUBE 👆 info@guerreroskm.com 📩 Clases & Llaveros 👇
+      Ante todo, ARTE 🙌 Actriz creadora de contenido 🖤 LLEGAMOS A 8K EN IG? ↗️
     location: "Argentina"
-    followers: 3100000
-    engagement: 1810
-    commentsToLikes: 0.007354
-    id: ck9nab5rea3qy0j78l2jwlxuq
-    verified: true
-    hashtags: "#fitness, #boxeo, #box, #fit"
+    followers: 80300
+    engagement: 1771
+    commentsToLikes: 0.007611
+    id: ckcps6dwamad30j23dnvowjg2
+    verified: false
+    hashtags: "#comedia, #actriz, #fit, #fitness"
+  - username: "franjoeldiver"
+    fullname: >-
+      franjoeldiver
+    bio: >-
+      Un tío y un sobrino más locos🤪 Seguinos en YouTube y divertirte ⬇️⬇️⬇️⬇️⬇️
+    location: "Argentina"
+    followers: 246000
+    engagement: 2307
+    commentsToLikes: 0.013508
+    id: ckdn9mwrrfu8h0j23rjxap68e
+    verified: false
+    hashtags: "#mujeresqueinspiran, #fitness, #telepatia, #fail"
+  - username: "diegoalcober"
+    fullname: >-
+      Diego Alcober
+    bio: >-
+      📲 síganme en mi Instagram : Diegoz98 📸 🤸Lic en Kinesiología y Fisiatría
+    location: "Argentina"
+    followers: 34500
+    engagement: 1165
+    commentsToLikes: 0.031614
+    id: ckb0h2hss8tn00j23a10eie9s
+    verified: false
+    hashtags: "#nutricion, #medicina, #salud, #fisioterapia"
+  - username: "leandrolimardo"
+    fullname: >-
+      leandrolimardo
+    bio: >-
+      Entrenador - Lic. en Alto Rendimiento Deportivo Seguir Ig: @warmup.fit 🔥
+    location: "Argentina"
+    followers: 62200
+    engagement: 460
+    commentsToLikes: 0.024825
+    id: cka0jysrlk6vq0i78d0dse4ay
+    verified: false
+    hashtags: "#personaltrainer, #fuerza, #flexibilidad, #hipertrofia"
   - username: "europini"
     fullname: >-
       europini
     bio: >-
       DEDICARSE SIMPLEMENTE A SER FELIZ ! 😍🤪
     location: "Argentina"
-    followers: 26700
-    engagement: 717
-    commentsToLikes: 0.039105
+    followers: 27000
+    engagement: 768
+    commentsToLikes: 0.043851
     id: ckbazu58iq7s50j23d8y701yq
     verified: false
-    hashtags: "#parati, #fit, #foryoupage, #parat"
+    hashtags: "#parati, #foryou, #cuarentena, #fit"
+  - username: "tomaslabarere"
+    fullname: >-
+      Tomas Labarere
+    bio: >-
+      Todo empezó en cuarentena Queres cambiar tu físico? Escribime al Instagram !!!
+    location: "Argentina"
+    followers: 48100
+    engagement: 842
+    commentsToLikes: 0.032076
+    id: cka0fo73a0i210i7824p1dor9
+    verified: false
+    hashtags: "#humor, #fyp, #foryou, #foryoupage"
   - username: "natipoledance"
     fullname: >-
       Natipoledance
     bio: >-
-      IG @natipoledance Intructora de POLE DANCE 💪🏻 🤸🏼‍♀️
+      IG @natipoledance Intructora de POLE DANCE 💪🏻🦋💫⚡️ 🤸🏼‍♀️
     location: "Argentina"
-    followers: 23400
-    engagement: 940
-    commentsToLikes: 0.023338
+    followers: 60600
+    engagement: 747
+    commentsToLikes: 0.015426
     id: ck83k3f9l90hl0j784iz35nwf
     verified: false
-    hashtags: "#fyp, #entrenando, #mehacefeliz, #gymlover"
-  - username: "agoslanda8"
+    hashtags: "#poledanceroftiktok, #dancers, #fitnessgirl, #clasesdepole"
+  - username: "im.crash"
     fullname: >-
-      agoslanda
+      Crash
     bio: >-
-      Twitch: agoslanda bs as🇦🇷 CEO en lives No me stalkees, seguime😉 20k?😳💜
+      Amo la música ⚡️Escucha mis canciones en todas las plataformas 🎶
     location: "Argentina"
-    followers: 18400
-    engagement: 900
-    commentsToLikes: 0.024912
-    id: ckavi74yuq9m10j23n754f3q6
-    verified: false
-    hashtags: "#parati, #dance, #fyp, #humor"
-  - username: "cocinandoando0"
-    fullname: >-
-      Valen martinez
-    bio: >-
-      Instagram @cocinandoando_
-    location: "Argentina"
-    followers: 8549
-    engagement: 510
-    commentsToLikes: 0.017645
-    id: ck9k5y00mymc60j78nkwyttuy
-    verified: false
-    hashtags: "#parati, #perderpeso, #fyp, #vegan"
-  - username: "sangre_escorpianaaa"
-    fullname: >-
-      Escorpiana
-    bio: >-
-      Gracias a mis seguidores , los amo 🥰 Bs.As 🇦🇷
-    location: "Argentina"
-    followers: 11900
-    engagement: 211
-    commentsToLikes: 0.008075
-    id: ckb9a0nt1umio0j23e4dcekjm
-    verified: false
-    hashtags: "#viral, #foryou, #parati, #pug"
-  - username: "winsor.ff"
-    fullname: >-
-      WINSORtiktok
-    bio: >-
-      LINK DIRECTO A MI CANAL DE YOU TUBE ☝️☝️ ❤ NUEVO VIDEO 👇
-    location: "Argentina"
-    followers: 202300
-    engagement: 2043
-    commentsToLikes: 0.034497
-    id: ckd5n5c98wj8y0j23pmi12woj
-    verified: false
-    hashtags: "#trending, #flighthouse, #funny, #foryou"
+    followers: 54800
+    engagement: 1374
+    commentsToLikes: 0.104999
+    id: ckbkz16wpv7uy0j23g0nc1agl
+    verified: true
+    hashtags: "#dance, #artist, #fyp, #foryou"
 ---

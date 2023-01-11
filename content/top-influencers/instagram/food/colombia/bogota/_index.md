@@ -1,60 +1,48 @@
 ---
-title: Top 10 Food Instagram Influencers In Bogotá In 2022
+title: Top 10 Food Instagram Influencers In Bogotá In 2023
 description: >-
-  Find top food Instagram influencers in Bogotá in 2022. Most popular hashtags: #bogota #colombia #food #love.
+  Find top food Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #food #bogota #love.
 platform: Instagram
-hits: 17
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat has 17 Instagram influencers like this in Bogotá, Colombia for you to connect with.
+hits: 16
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Bogotá, Colombia for you to work with.
 profiles:
-  - username: "julianatomann"
-    fullname: >-
-      𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙀𝙍 𝙒𝙊𝙈𝙀𝙉
-    bio: >-
-      ¡𝗔𝘆𝘂𝗱𝗼 𝗮 𝗹𝗮𝘀 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝘀 𝗮 𝗴𝗲𝗻𝗲𝗿𝗮𝗿 𝘃𝗮𝗿𝗶𝗮𝘀 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗱𝗲 𝗶𝗻𝗴𝗿𝗲𝘀𝗼! 👨‍👩‍👦‍👦|ƒαмιℓια 🌡|Eɴғᴇʀᴍᴇʀᴀ 🇨🇴|𝘽𝙊𝙂-𝘾𝙊𝙇 🙏🏻|𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜 #bogota #love #mujer #fuerza
-    location: "Colombia"
-    followers: 16266
-    engagement: 680
-    commentsToLikes: 0.111989
-    id: ck14ltbuxwdna0i19naqt0jed
-    verified: false
-    hashtags: "#beauty, #follow, #entrepreneur, #love"
   - username: "somoslosinsaciables"
     fullname: >-
       LOS INSACIABLES
     bio: >-
-      Descubriendo restaurantes 🤤 con $40.000 COP (15 dólares) #foodie @comidistaprofesional #losinsaciables #EatCoins #comida
+      🚶🏼🚶🏾 2 tipos que comemos con $45.000 COP (15 dólares) 🍔 Te ayudamos a comer rico gastando lo justo🍕🍖🍗 Mostramos restaurantes bacanos
     location: "Colombia"
-    followers: 130172
-    engagement: 50
-    commentsToLikes: 0.033775
+    followers: 142485
+    engagement: 208
+    commentsToLikes: 0.079736
     id: ck6ubkjmda4fm0j7160zj7vqq
     verified: false
-    hashtags: "#hamburguesas, #comidas, #losinsaciables, #bogota"
-  - username: "sofiaaldanaofficial"
+    hashtags: "#losinsaciables, #food, #bogota, #foodiescolombia"
+  - username: "aliriohernandez7"
     fullname: >-
-      Sofia Aldana
+      Alirio Enrique Hernandez
     bio: >-
-      @comfysloungewear 22 year old singer/songwriter 🎤 Check out my new single: Turn Around ⬇️ #New #Newsingle #NewArtist
+      Medicina UCLA. Ciencia Política. Activist DDHH.
     location: "Colombia"
-    followers: 3713
-    engagement: 836
-    commentsToLikes: 0.056190
-    id: ck5zwz85r71b70i14ypbgqrxj
+    followers: 27056
+    engagement: 304
+    commentsToLikes: 0.021746
+    id: ck5ch46ikq2xl0i11cqp52glz
     verified: false
-    hashtags: "#newpost, #sofiaaldana, #outfit, #pop"
-  - username: "mikevsfood_oficial"
+    hashtags: "#picoftheday, #venezuela, #friends, #workout"
+  - username: "annyriveraduque"
     fullname: >-
-      MikeVsFood
+      Anny Rivera
     bio: >-
-      Eating Without Limits Food Challenges Brand ambassador #93victories #1defeats
+      Ciclismo| Running| Training Lifestyle⁣ ➟ Bienestar ⁣ De Cali, 📍 Bogotá ⁣⁣ Strava: Anny Rivera Duque⁣⁣ ⁣⁣
     location: "Colombia"
-    followers: 23709
-    engagement: 245
-    commentsToLikes: 0.049697
-    id: ck0w4u3pm0ffj0i19xnl72mes
+    followers: 56563
+    engagement: 178
+    commentsToLikes: 0.019695
+    id: ck5q2qrfnhcc50i11qd0qax73
     verified: false
-    hashtags: "#eating, #chicken, #bloggerstyle, #eat"
+    hashtags: "#healthspo, #bici, #mtb, #patrocinado"
   - username: "calicolfit"
     fullname: >-
       LUZ MARINA GARCIA A 🐼🦄
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.048433
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#love, #fitness, #fit, #vibes"
-  - username: "zacmorriss_"
-    fullname: >-
-      Zac Morris
-    bio: >-
-      🇺🇸➡️🇨🇴➡️🌎 Let’s go to Colombia ➡️ @adventure_better Pra português➡️ @zacfala Learn more⬇️
-    location: "Colombia"
-    followers: 582288
-    engagement: 717
-    commentsToLikes: 0.028423
-    id: ck8syjqubl0x90j784elg1sdt
-    verified: true
-    hashtags: "#english, #espa, #risa, #comida"
-  - username: "lorenamar__"
-    fullname: >-
-      𝐋𝐎𝐑𝐄 𝐌𝐀𝐑𝐓𝐈𝐍𝐄𝐙
-    bio: >-
-      Tú solo sonríe, Uno nunca sabe! Colombianísima de Boyacá🇨🇴 Les hago recetas con amor🧁en IGTV ⬇️ Ingeniera Industrial Javeriana
-    location: "Colombia"
-    followers: 17436
-    engagement: 956
-    commentsToLikes: 0.034196
-    id: ck15qqbj544t40i19dl3zw4k4
-    verified: false
-    hashtags: "#igers, #travel, #tbt, #ricaurte"
-  - username: "mateo.vanegasvalderrama"
-    fullname: >-
-      Mateo Vanegas Valderrama
-    bio: >-
-      🍔Si amas la comida este perfil es para ti 😛🍕 DIRECTOR COMERCIAL DE @redessocialesmanizales @activateplus 😎 CANAL @tour_del_sabor 🍔
-    location: "Colombia"
-    followers: 16453
-    engagement: 258
-    commentsToLikes: 0.306858
-    id: ck8syjpo7l0ti0j78new0wiiu
-    verified: false
-    hashtags: "#caldas, #emprendedores, #comida, #moda"
+    hashtags: "#home, #workout, #cale, #legs"
   - username: "marrana.eats"
     fullname: >-
-      MARRANA Eats MIAMI
+      MARRANA EATS Miami
     bio: >-
-      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol ⁣⁣ Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
+      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
     location: "Colombia"
-    followers: 26046
-    engagement: 286
-    commentsToLikes: 0.219857
+    followers: 27175
+    engagement: 454
+    commentsToLikes: 0.405245
     id: ck5ch6qvwq7de0i11f0c2mnfo
     verified: false
-    hashtags: "#florida, #avocado, #eats, #marranaeats"
-  - username: "brianaceros"
+    hashtags: "#fries, #foodblog, #diy, #hungry"
+  - username: "marialejamirandap"
     fullname: >-
-      Brian Aceros
+      -M A R I A  A L E J A N D R A-
     bio: >-
-      🔷️DESAFÍO SUPER REGIONES 2019 🔷️Modelo Fitness, Línea de ropa @acerosworkout 🥗🥦🍅Instructor DIETA 2 SEMANAS🍅🥦🥗 ⬇️⬇️DESCARGA TU DIETA⬇️⬇️
+      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
     location: "Colombia"
-    followers: 17575
-    engagement: 189
-    commentsToLikes: 0.014863
-    id: ckf5uc22akc360j23mvemqqlo
+    followers: 8470
+    engagement: 510
+    commentsToLikes: 0.041288
+    id: ckaouqrjw1esd0i78decx4wuk
     verified: false
-    hashtags: "#motivation, #getfit, #fitnessgirl, #gymlife"
+    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
+  - username: "juandaimond"
+    fullname: >-
+      JUANDAIMOND
+    bio: >-
+      Youtuber: 🕺🏿🕺🏿🕺🏿🕺🏿🍪🍮🥙🍟⬇️⬇️
+    location: "Colombia"
+    followers: 53650
+    engagement: 179
+    commentsToLikes: 0.032440
+    id: ck6u91mx3uyoz0j71kuvli029
+    verified: false
+    hashtags: "#lovetodance, #dancefloor, #bailar, #dancer"
+  - username: "soy.hache"
+    fullname: >-
+      Heverth Aponte
+    bio: >-
+      #Actor viajando como #Mochilero He mochileado en 17 países Escribo para @historiasconhache Hago fotos para @lacalleconhache
+    location: "Colombia"
+    followers: 29445
+    engagement: 232
+    commentsToLikes: 0.026484
+    id: ckap8jpsmomb80i789r3f2etq
+    verified: false
+    hashtags: "#viaje, #colombia, #love, #mexico"
+  - username: "leococinero"
+    fullname: >-
+      Leonardo Moran
+    bio: >-
+      Chef y presentador 🍽👨🏻‍🍳🔪🥢 Ganador de Master Chef Colombia 2016 Embajador Adidas🥇@adidasco Contacto: lina.coralrestrepo@gmail.com
+    location: "Colombia"
+    followers: 211033
+    engagement: 71
+    commentsToLikes: 0.036990
+    id: ck136xdv48qa10i19fm2liv12
+    verified: true
+    hashtags: "#bienestar, #chefinstagram, #chefplateform, #alimentacionsaludable"
+  - username: "diegotrujillo"
+    fullname: >-
+      Diego Trujillo
+    bio: >-
+      Actor colombiano.
+    location: "Colombia"
+    followers: 279864
+    engagement: 157
+    commentsToLikes: 0.037752
+    id: ck14jjfwdknwx0i19yzrzsopj
+    verified: true
+    hashtags: "#love, #happy, #picoftheday, #destapandoollas"
 ---

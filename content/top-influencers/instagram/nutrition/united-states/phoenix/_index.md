@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Phoenix In 2022
+title: Top 10 Nutrition Instagram Influencers In Phoenix In 2023
 description: >-
-  Find top nutrition Instagram influencers in Phoenix in 2022. Most popular hashtags: #fitness #workout #fitnessmotivation #personaltrainer.
+  Find top nutrition Instagram influencers in Phoenix in 2023. Most popular hashtags: #fitness #fitnessmotivation #workout #instagood.
 platform: Instagram
-hits: 16
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Phoenix, United States for you to contact.
+hits: 17
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in Phoenix, United States for you to work with.
 profiles:
-  - username: "jeffrorad"
+  - username: "marioxfitnessx"
     fullname: >-
-      Jeffrey Louis | Bboy Jeffro
+      MARIO
     bio: >-
-      💪🏾 @fitbreakgym ⚡️RAD Crew 🔋 @monsterenergy Athlete 🚀Houston Rockets Dancer 🎓University of Houston Alum
+      NASM Certified 📚 Behavior Change Specialist 🧠 Weight Loss Specialist 🐷 Nutrition Coach 🍎 Phoenix, AZ 🥵 ☀️ 🌵
     location: "United States"
-    followers: 8583
-    engagement: 1426
-    commentsToLikes: 0.049475
-    id: ck6ugazw51y7a0j71xcal4uco
+    followers: 22248
+    engagement: 1477
+    commentsToLikes: 0.017834
+    id: ck15r3u8560cq0i19zqnfz5b1
     verified: false
-    hashtags: "#radydaddy, #hiphop, #hiphopdance, #houstondancers"
-  - username: "phx_fitlife"
+    hashtags: "#bodybuiding, #fitfam, #gym, #fit"
+  - username: "brittanydawnfit"
     fullname: >-
-      Angelica
+      Brittany Dawn
     bio: >-
-      💁🏻‍♀️Redefining the Mom Bod #Momlife 🌐Online Wellness Mentor Owner of @goodvibes_nutrition_phx 👩‍👧Momma To Phoenix Free Evaluation ⬇️
+      1ON1-GROUP-ONLINE TRAINING💪🏼 Master Trainer/Nutritionist 🎓 @vertimax CPT Reflect what you desire ✨🦄 #WomenEmpowerment
     location: "United States"
-    followers: 23100
-    engagement: 343
-    commentsToLikes: 0.017456
-    id: ck55ol3v58kiv0i114pcv9ng3
+    followers: 28701
+    engagement: 293
+    commentsToLikes: 0.070247
+    id: ckapawtnbxriz0i78mnpg6acb
     verified: false
-    hashtags: "#carneasada, #co, #buildyourbiz, #businessmentor"
-  - username: "vanessalouis__official"
-    fullname: >-
-      𝑽𝒂𝒏𝒆𝒔𝒔𝒂 𝑳𝒐𝒖𝒊𝒔
-    bio: >-
-      𝕡𝕠𝕤𝕚𝕥𝕚𝕧𝕖 𝕞𝕚𝕟𝕕..♡ ▫️ 𝘐𝘯𝘧𝘭𝘶𝘦𝘯𝘤𝘦𝘳|𝘔𝘰𝘥𝘦𝘭|𝘴𝘤𝘰𝘳𝘱𝘪𝘰 ♏️ ▫️ 𝖡𝗎𝗌𝗂𝗇𝖾𝗌𝗌✉️𝖣𝖬 ▫️ 𝖠𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋 𝖡𝗒 @ironmaxx_nutrition ↓ 𝐞𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭
-    location: "United States"
-    followers: 132574
-    engagement: 433
-    commentsToLikes: 0.024530
-    id: ck55o5l1u7o830i111e62h81i
-    verified: false
-    hashtags: "#bbl, #selfie, #ink, #bikini"
-  - username: "ryanfitsher"
-    fullname: >-
-      Ryan Fisher | Fitness
-    bio: >-
-      ✕ Phoenix, Arizona ✕ 6’2 | 220lbs ✕ @Staunch.Nation ↙️ “FITSHER”
-    location: "United States"
-    followers: 31439
-    engagement: 502
-    commentsToLikes: 0.023185
-    id: ck5bu8tt9hcsb0i11z79688t0
-    verified: false
-    hashtags: "#gains, #fit, #fitnessmodel, #instagood"
-  - username: "brandonfitfoodie"
-    fullname: >-
-      Brandon Budlong
-    bio: >-
-      Arizona State BS Nutrition @nutrishopusa Sponsored Athlete Code: Brandon AZ Trendsetter
-    location: "United States"
-    followers: 114973
-    engagement: 37
-    commentsToLikes: 0.228576
-    id: ck0vxs4wa0fwv0i19dl6uy3mc
-    verified: false
-    hashtags: "#fitfoodie, #nutrishopusa, #az, #snoozeameatery"
-  - username: "phoenix_montoya"
-    fullname: >-
-      Phoenix Montoya
-    bio: >-
-      CA📍 Trans•Pansexual🏳️‍🌈 IATB Overall Winner 2019 🏆 Mr Trans USA MA 👑 @ravenjadeking 💙🔥🔥 Cancer☀️Sag🌙Libra⬆️ For fitness/nutrition advice, check out⤵️
-    location: "United States"
-    followers: 29609
-    engagement: 420
-    commentsToLikes: 0.030734
-    id: ck5cbxamdgc3w0i11mybl75z9
-    verified: false
-    hashtags: "#soready, #happyhumpday, #phoenixandraven, #motivated"
-  - username: "flexingphoebs"
-    fullname: >-
-      Phoebe Davis
-    bio: >-
-      Flexing the Mind, Body & Soul 🌵AZ | 🏆 NQ NPC Bikini 📸 Model @fordrba 🌐 CMO @bowmar_nutrition PHOEBE @ryderwear PHOEBS10 WATCH LIVE ⬇️
-    location: "United States"
-    followers: 17835
-    engagement: 600
-    commentsToLikes: 0.074655
-    id: ck5hf94ruwe260i11tp16qd5o
-    verified: false
-    hashtags: "#workout, #activewear, #arizonafitness, #fitgirlsfam"
+    hashtags: "#womenempowerment, #scottsdale, #picoftheday, #love"
   - username: "acostafitness"
     fullname: >-
       Robert Acosta
     bio: >-
-      ♡God♡family♡soccer♡fitness/nutrition PSALMS 37:4🕇 Professional ⚽ @fltropics 📍Gilbert, AZ🌵 Speed & agility specialist🏃🏽‍♂️ Walk the Talk @kegriofficial
+      ♡God♡family♡soccer♡fitness/nutrition PS 37:4🕇 Professional ⚽ SAQ specialist🏃🏽‍♂️💨 Walk The Talk @1stphorm Brand Ambassador💪🏽
     location: "United States"
-    followers: 22222
-    engagement: 178
-    commentsToLikes: 0.048846
+    followers: 21966
+    engagement: 159
+    commentsToLikes: 0.053665
     id: ck9wdremqgx9y0j78vr0kwsvc
     verified: false
-    hashtags: "#athlete, #agilitytraining, #peaceandlove, #fitness"
+    hashtags: "#beardsofinstagram, #beardgang, #footballdrills, #soccer"
+  - username: "georgiatb"
+    fullname: >-
+      Georgia Taylor-Brown
+    bio: >-
+      “we’re on the brink of an adventure, don’t spoil it with questions” . TRIATHLON 🏊🏼‍♀️🚴🏼‍♀️🏃🏼‍♀️⭐️ 🌈 2020 World Champ 🤗 . @mezzomanagementgroup
+    location: "United States"
+    followers: 16295
+    engagement: 868
+    commentsToLikes: 0.009857
+    id: ck5qd6hjdu1s80i11o9rxj2hi
+    verified: false
+    hashtags: "#pho3nixteam, #wegotnow, #triathlon, #run"
   - username: "jeremyscottfitness"
     fullname: >-
       Jeremy Scott Fitness
     bio: >-
-      Only Official Account Jeremy Scott Fitness Podcast🔥 Best Selling Author 📚 Coach 💪🏼 Speaker🎙 🔥50 Days of Fitness Sign Up👇 #jeremyscottfitness
+      Only Official Account Jeremy Scott Fitness Podcast🔥 Best Selling Author 📚 Coach 💪🏼 Speaker🎙 🔥New 30-30 Fitness Challenge👇🏼
     location: "United States"
-    followers: 355480
-    engagement: 89
-    commentsToLikes: 0.013532
+    followers: 369874
+    engagement: 79
+    commentsToLikes: 0.013829
     id: ck6twxp4rup550j71p9n2bvpz
     verified: false
-    hashtags: "#personaltrainer, #fitstagram, #transformationtuesday, #podcast"
-  - username: "icaarly7"
+    hashtags: "#jeremyscottfitness, #health, #workout, #fitfam"
+  - username: "ryanfitsher"
     fullname: >-
-      Carly Camargo
+      Ryan Fisher | Fitness
     bio: >-
-      I help women get rid of stubborn fat, tone up & flourish mentally✨💛 @workouts_by_katya Ambassador Discount Code:CARLY10
+      ✕ Phoenix, Arizona ✕ 6’2 | 220lbs ✕ @Staunch.Nation ↙️ “FITSHER” ✕ @nocco.usa ✕ peep @ryansgunsngear 👀
     location: "United States"
-    followers: 25287
-    engagement: 446
-    commentsToLikes: 0.059792
-    id: ck5cej152l3su0i11kgzwsww3
+    followers: 30996
+    engagement: 530
+    commentsToLikes: 0.022461
+    id: ck5bu8tt9hcsb0i11z79688t0
     verified: false
-    hashtags: "#wbk, #confidenceissexy, #dallastexas, #femaleempowerment"
+    hashtags: "#fit, #instafit, #health, #naturephotography"
+  - username: "laufitofficial1"
+    fullname: >-
+      ✨ Ｌａｕｒａ  Ｒｏｂｅｒｔｓ  ✨
+    bio: >-
+      FITNESS • LIFESTYLE • NUTRITION ⁣⁣ Certified PT 🍏🍑 ⁣@30dayschallengebylaufit⁣ 🥗 @megafitmeals ⁣⁣ 🦄 @pltlifestyle⁣⁣ 🔝 @indurelifestyle LINKS 👇🏻
+    location: "United States"
+    followers: 288441
+    engagement: 125
+    commentsToLikes: 0.020333
+    id: ck5hemsq6tq450i11gwkcf7ub
+    verified: false
+    hashtags: "#mamanoel, #miamidade, #miamihairstylist, #babesofinstagram"
+  - username: "parasnayal"
+    fullname: >-
+      Paras  (THE PHOENIX)
+    bio: >-
+      NOT EVERYTHING COMES EASY IN LIFE!! YET NOTHING IS IMPOSSIBLE @genetics_aesthetics_paras Handled by @sparshikant in Loving memories of our Phoenix♥️
+    location: "United States"
+    followers: 6506
+    engagement: 1069
+    commentsToLikes: 0.049664
+    id: ck5zkqrosjzjb0i14ppr9hhmn
+    verified: false
+    hashtags: "#fitspo, #photooftheday, #lifestyle, #exercise"
+  - username: "thepilatesblonde"
+    fullname: >-
+      katie dudley barbieri
+    bio: >-
+      OWNER of @studiob__pilates 🐝🔆 REFORMER PILATES • FITNESS • NUTRITION MB + NB 💕
+    location: "United States"
+    followers: 5819
+    engagement: 764
+    commentsToLikes: 0.031942
+    id: ckaoz5eh0kg3g0i78to29m7b0
+    verified: false
+    hashtags: "#peakpilates, #classicalpilates, #fitness, #skippack"
+  - username: "mckaylah.modelaz"
+    fullname: >-
+      Mckaylah Smith
+    bio: >-
+      🎬Actress|Model 📸•Print•Commercial•Runway•Film AZ: Ford/RBA Model & Talent LA: Mavrick Artist Agency Competitive Dancer @invisalign
+    location: "United States"
+    followers: 22667
+    engagement: 558
+    commentsToLikes: 0.036160
+    id: ck6ucg427feeu0j71cgbfy8fd
+    verified: false
+    hashtags: "#bts, #photography, #influencer, #style"
 ---

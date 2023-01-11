@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Istanbul In 2022
+title: Top 10 Food Instagram Influencers In Istanbul In 2023
 description: >-
-  Find top food Instagram influencers in Istanbul in 2022. Most popular hashtags: #food #istanbul #fashion #instagood.
+  Find top food Instagram influencers in Istanbul in 2023. Most popular hashtags: #food #istanbul #sunum #yemek.
 platform: Instagram
-hits: 253
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 253 Instagram influencers like this in Istanbul, Turkey for you to contact.
+hits: 223
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 223 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
-  - username: "cemrekiralioglu"
+  - username: "shirvant"
     fullname: >-
-      Cemre Kıralioğlu
+      Shirvan
     bio: >-
-      Influencer | Singer | Entrepreneur #beauty #lifestyle #fashion #cemreniniçsesi 📩Youtube Kanalım
+      #fotoğraf 📷 lezzetli yemek 🍴yeni yerler keşfetmek 🗺 #food #travel #lifestyle & discover new countries 🌍
     location: "Turkey"
-    followers: 21391
-    engagement: 714
-    commentsToLikes: 0.019908
-    id: ck5zsqv6qz0y30i140m8dnuvm
+    followers: 49817
+    engagement: 167
+    commentsToLikes: 0.083368
+    id: ck8tdifpa3fx20j78k3fcs3x7
     verified: false
-    hashtags: "#pozitif, #time, #instamood, #sag"
-  - username: "gezginperi"
+    hashtags: "#instagood, #foodblogger, #europe, #fotografia"
+  - username: "hominigirtlakgurme"
     fullname: >-
-      Travel&Food 🌍 Ebru
+      Jülide
     bio: >-
-      📍IST Travel & Food Blogger/ Lifestyle / Photographer 💌gezginperiphotography@hotmail.com Only my pictures👆
+      📝Mekan Yazarı 📝Otel Yazarı 🍽Gurme 🏃🏻‍♀️ Sporcu
     location: "Turkey"
-    followers: 18058
-    engagement: 384
-    commentsToLikes: 0.084254
-    id: ckaoyf2xfh96j0i787t44enen
+    followers: 136585
+    engagement: 118
+    commentsToLikes: 0.126821
+    id: ck5c9v5vwc6gu0i11v90xr85l
     verified: false
-    hashtags: "#milliyetrota, #travelgram, #sunset, #corona"
+    hashtags: "#yemek, #gurme, #nefisyemektarifleri, #hominig"
   - username: "mehranrhz"
     fullname: >-
       Certified Event Decorator
     bio: >-
       Iran/ istanbul🇹🇷 •Food •Flower ديزاينر تخصصي مناسبتها
     location: "Turkey"
-    followers: 17526
-    engagement: 670
+    followers: 17327
+    engagement: 672
     commentsToLikes: 0.035735
     id: ck9whhupmxxe80j78bt2ue802
     verified: false
-    hashtags: "#tabledesign, #fingerfood, #tabledecor, #fruit"
-  - username: "pehlivan.mesut"
+    hashtags: "#tabledesign, #eventdesign, #cheeseboard, #fruit"
+  - username: "xphalitxp"
     fullname: >-
-      Ⓜ️esut Pehlivan
+      Temizkan_halidd
     bio: >-
-      Zafer barışın en kısa yoludur 🖋 🪐 Mustafa Kemal Atatürk♾♚ 🚸@hayde.gezelum 🆁İ🆉🅴
+      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
     location: "Turkey"
-    followers: 5050
-    engagement: 1089
-    commentsToLikes: 0.008789
-    id: ck8ta1cytq3cp0j78uwa7nq0a
+    followers: 10669
+    engagement: 384
+    commentsToLikes: 0.080603
+    id: ckapb2imgybv80i789vnokj18
     verified: false
-    hashtags: "#food, #pictureoftheday, #istanbul, #photography"
-  - username: "muhammedoguzbasar"
+    hashtags: "#healthyfood, #vscocam, #foodporn, #fit"
+  - username: "halimenin_mutfagii"
     fullname: >-
-      KEBAPÇI
+      Halime polat
     bio: >-
-      Hacıbaşar Restaurantları @hacibasar Kebap Bizim İşimiz👍
+      بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم Lütfen göz hakklarınızı helal edin🙏 Reklam ve ürün tanıtımı için DM📩 Youtube kanalım 👇👇👇👇👇
     location: "Turkey"
-    followers: 257872
-    engagement: 118
-    commentsToLikes: 0.118036
-    id: ck5hdg3nfn98g0i113ul26dkj
+    followers: 60314
+    engagement: 100
+    commentsToLikes: 0.024484
+    id: ck0uetq4sm9530i19qaxayoqb
     verified: false
-    hashtags: "#chef, #foods, #yummy, #kuwait"
-  - username: "shirvant"
+    hashtags: "#baklava, #tarifler, #pratiktatl, #masterchef"
+  - username: "secilkaygun"
     fullname: >-
-      Shirvan
+      mehmetali ❤️
     bio: >-
-      #fotoğraf 📷 lezzetli yemek 🍴yeni yerler keşfetmek 🗺 #food #travel #lifestyle & discover new countries 🌍 📧: shirvantnrkl@gmail.com
+      🌾M İ M O Z A 🌾 butik pastacılık 🧁 @mimozadukkan
     location: "Turkey"
-    followers: 47499
-    engagement: 177
-    commentsToLikes: 0.083450
-    id: ck8tdifpa3fx20j78k3fcs3x7
+    followers: 165543
+    engagement: 164
+    commentsToLikes: 0.011389
+    id: ck6u36v01w2ll0j71t2hzldnd
     verified: false
-    hashtags: "#ootd, #istanbulda1yer, #mondaymotivation, #yemek"
-  - username: "sibeltopcuogludedeoglu"
+    hashtags: "#bursa, #sopelido, #ormanya, #instagram"
+  - username: "nurun_renkli_dunyasi34"
     fullname: >-
-      Kahramanmaraş Mutfak Kültürü
+      pratik lezzetler...
     bio: >-
-      🎓 İstanbul Üni-Türkoloji 👩🏼‍🍳Kahramanmaraş Mutfağı 🍽Workshop Eğitmeni 🥕MSA 📚Angora Yaşam Dergisi 📝Türk Mutfak Vakfı Yazarı 📩sibeldedeoglu46@gmail.com
+      Yaşasın YEMEK YEMEK 😀 GÜNLÜK MİNİ MENÜ TARİFLERİM ♥️ KENDİ KADRAJİM 👩‍🍳👩‍🎨 HAMD OLSUN 😇
     location: "Turkey"
-    followers: 11145
-    engagement: 630
-    commentsToLikes: 0.283208
-    id: ck5q5cnpbs9s90i11qd87948u
+    followers: 5873
+    engagement: 371
+    commentsToLikes: 0.018848
+    id: ck8t432io5c1a0j78icw5o5vd
     verified: false
-    hashtags: "#foodporn, #geleneksellezzetler, #ke, #foodphotography"
-  - username: "murat_gozal"
+    hashtags: "#borek, #tatl, #lezzetlitariflerle, #sunumaski"
+  - username: "hobikasnak"
     fullname: >-
-      Gurme Sef
+      Hobi Kasnak
     bio: >-
-      Reklam ve işbirliği için Dm sayfalarımız @yesenecom @yemekailesi
+      Bir tutam nakış🍀 Sevgi ve emek ile bunu başarmak en saf,en temiz mutluluğum🎈
     location: "Turkey"
-    followers: 62029
-    engagement: 45
-    commentsToLikes: 0.168225
-    id: ck5zo3k8gpot90i14l6skz02p
+    followers: 15002
+    engagement: 192
+    commentsToLikes: 0.014593
+    id: ckf5obf9n1n9n0j23u91j55ic
     verified: false
-    hashtags: "#gaziantep, #biryemekiste, #lahmacun, #foodporn"
-  - username: "seymatan_collection"
+    hashtags: "#embroideryart, #amigurumi, #handmade, #bez"
+  - username: "cairofoodiecouple"
     fullname: >-
-      Şeyma Tantalkaya Büyükkuşoğlu
+      The Terzibashians 🇦🇲
     bio: >-
-      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
+      📽: TV hosts at @fatafeatchannel 👫 Travel - Food - Lifestyle 📌Istanbul - Cairo ✈️Travel Vlogs 📃Food reviews
     location: "Turkey"
-    followers: 12132
-    engagement: 779
-    commentsToLikes: 0.029987
-    id: ck15qpkgw40wk0i197f0lsby3
+    followers: 165167
+    engagement: 76
+    commentsToLikes: 0.041196
+    id: ck0w1ccquin5u0i19z48ujtoa
     verified: false
-    hashtags: "#izmir, #bag, #paris, #crosstich"
-  - username: "ebruli_lif_dunyasi"
+    hashtags: "#tagamo3, #chocolate, #valentines, #egypt"
+  - username: "berfoodblog"
     fullname: >-
-      Ebru
+      Travel And Food Blog
     bio: >-
-      Yeni model ve ceyizlik lifler Hobi sayfam 💛💛 Kargo alıcıya aiittir🌹🌹🌹 Kapıda ödemem yoktur
+      Berfu💫 Travel|Food Sevdiğim mekanlar,tatlar🍽 Fotoğraflar tarafıma aittir📸 📍Turkey
     location: "Turkey"
-    followers: 26150
-    engagement: 126
-    commentsToLikes: 0.083756
-    id: ck9we060fi1wx0j78ak7dxyj9
+    followers: 4989
+    engagement: 926
+    commentsToLikes: 0.296162
+    id: ckf5qsn67afwf0j237d6ps6v2
     verified: false
-    hashtags: "#tarif, #kolaytarifler, #crochet, #recipe"
+    hashtags: "#kahve, #tatl, #followforfollowback, #istanbul"
 ---

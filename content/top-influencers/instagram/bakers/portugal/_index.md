@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Portugal In 2022
+title: Top 10 Bakers Instagram Influencers In Portugal In 2023
 description: >-
-  Find top bakers Instagram influencers in Portugal in 2022. Most popular hashtags: #motorcycle #photography #bikers #instamoto.
+  Find top bakers Instagram influencers in Portugal in 2023. Most popular hashtags: #motorcycle #motorcyclelife #motorcycles #nature.
 platform: Instagram
-hits: 15
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 15 Instagram influencers like this in Portugal for you to collaborate.
+hits: 8
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Portugal for you to contact.
 profiles:
+  - username: "thehealthysins"
+    fullname: >-
+      Sónia & Diogo
+    bio: >-
+      📷 food photographer | food stylist ✨ recipe & content creation ⋅ cook & bake lovers For collaboration: info@sonia-pereira.com
+    location: "Portugal"
+    followers: 20540
+    engagement: 477
+    commentsToLikes: 0.051516
+    id: ck0ueb4m1l2c30i19g80ev9ux
+    verified: false
+    hashtags: "#springbaking, #onourcreativetable, #foodtographyschool, #raw"
+  - username: "caykuijpers"
+    fullname: >-
+      Cay | International Host
+    bio: >-
+      Cert 3 & 4 PT Academy Australia Plant Queen 🌿 @tulliaindoorplants Fitness and Healthy Mind Advocate 👶 @iammagnusorion
+    location: "Portugal"
+    followers: 66519
+    engagement: 114
+    commentsToLikes: 0.074643
+    id: ck0vws98ovcnv0i1927mqzo5g
+    verified: false
+    hashtags: "#harleydavidsonroadking, #girlswhorun, #cruiserbike, #nature"
   - username: "_oliverpape_"
     fullname: >-
       O L I V E R   P A P E
@@ -18,113 +42,65 @@ profiles:
     commentsToLikes: 0.007338
     id: ck0u9suw6ajvr0i196blbrfnp
     verified: false
-    hashtags: "#praha, #dog, #spoluprace, #nature"
-  - username: "sofia_novais_de_paula"
-    fullname: >-
-      💋 ᴅɪᴀʀɪᴏ ᴅᴇ ᴜᴍ ʙᴀᴛᴏᴍ 💋
-    bio: >-
-      ⚡️ Miss Energia & Miss Batom 💋 O meu dia tem muito mais que 24 horas 📩 sofia@diariodeumbatom.com
-    location: "Portugal"
-    followers: 50915
-    engagement: 222
-    commentsToLikes: 0.169732
-    id: ckap5if8hbtn10i780hw8y3dx
-    verified: false
-    hashtags: "#lookdiariodeumbatom, #sofianovaisdepaulastyle, #pink, #aboutme"
+    hashtags: "#cooking, #oliverovy, #czechboy, #spoluprace"
   - username: "karma_rider_"
     fullname: >-
       𝙆𝙖𝙧𝙢𝙖 | Biker Girl 💋
     bio: >-
-      Code: KARMA7 (7% disc. on Impormotor.es) YouTube Channel 🎬 ⬇️ Sponsors: @impormotor @nolangroup @tcxboots @cardosystems @motoin @xlmoto ..
+      Winter Sale @motoin ❄️ More than 2500 items up to 74% 🛒 ⬇️ Sponsors: @impormotor @mattracingmoto @nolangroup @tcxboots @cardosystems @motoin @xlmoto
     location: "Portugal"
-    followers: 18020
-    engagement: 450
-    commentsToLikes: 0.022025
+    followers: 18433
+    engagement: 471
+    commentsToLikes: 0.020780
     id: ck0w76btibz600i195suey17u
     verified: false
-    hashtags: "#bikelife, #photography, #cardosystems, #nolangroup"
-  - username: "taniamoreirarato"
+    hashtags: "#motorcyclelife, #mattracing, #motorbike, #instabike"
+  - username: "marina.oliveiira"
     fullname: >-
-      Tânia Moreira Rato
+      Marina Oliveira
     bio: >-
-      Founder ⚡ @thelitascascais ⚡ Rider: @dustgirlspt 🌍💨 Boss Babe: @lojapodearroz ®️ 📍 Portugal 🇵🇹 🎥🎬 Marrocos:
+      •ModeI •Mechanics Lover •Bikes •Tattoos •Travels •Animals •Nature •Rock n' Roll 🤘🏻 @backbone.babes @romainvollet Ambassador 📍Based in 🇵🇹 🇬🇧
     location: "Portugal"
-    followers: 6021
-    engagement: 655
-    commentsToLikes: 0.070781
-    id: ckaor4y12lr1j0i78ptyhw2hp
+    followers: 23388
+    engagement: 806
+    commentsToLikes: 0.029417
+    id: ckaot55ynufic0i78pudnuf3d
     verified: false
-    hashtags: "#yamahavirago535, #yamahaniken, #babesandbikes, #lifestyle"
-  - username: "patriciabasilio"
+    hashtags: "#softail, #custom, #bmw, #harleydavidson"
+  - username: "shes2wheeled"
     fullname: >-
-      Patrícia Basílio
+      Motorcycle Traveller | Susana
     bio: >-
-      ▪️I'm a rider from Portugal 🇵🇹🏍💨 ▪️Harley Davidson 883 🖤☠️ ▪️kawasakiw650 🏍 💥 ▪️Designer & teacher ▪️I love my Family & my Dog 🐶❤️
+      The twists and turns of a rookie riding a 🏍BMW F700GS 🇵🇹
     location: "Portugal"
-    followers: 11516
-    engagement: 577
-    commentsToLikes: 0.035567
-    id: ckaotfjwpvpz90i78xkorwi5h
+    followers: 5465
+    engagement: 867
+    commentsToLikes: 0.053392
+    id: ck6ufd8nywctc0j71i9dmgw1c
     verified: false
-    hashtags: "#motorcycle, #dyna, #custom, #moto"
-  - username: "mimelmt10"
-    fullname: >-
-      MimelMT10 🇵🇹 #29
-    bio: >-
-      🇵🇹🇪🇺 Motorcycle Racer ℹwww.golikeapro.pt ℹ @golikeapropt 🆕️Máximo Moto - Motorcycle Racing suits & Protective Gear 🆕️ @maximomotospain
-    location: "Portugal"
-    followers: 2404
-    engagement: 2536
-    commentsToLikes: 0.023218
-    id: ck8sxu9e0iorj0j780jppvqbx
-    verified: false
-    hashtags: "#instarider, #legendarybikes, #motoaddicted, #yamahamt10"
-  - username: "marianarferreiraa"
-    fullname: >-
-      Mariana Ferreira
-    bio: >-
-      📍Porto, Portugal My instagram doesn’t show all of me ⚡️
-    location: "Portugal"
-    followers: 8106
-    engagement: 747
-    commentsToLikes: 0.014579
-    id: ckaowj3yl95j30i78zqtojuwl
-    verified: false
-    hashtags: "#autumn, #girlsoneloavies, #ootd, #look"
-  - username: "pilotaroundtheworld"
-    fullname: >-
-      🄼🄰🅁🄸🄾🇮🇹 𝔽𝕚𝕣𝕤𝕥 𝕆𝕗𝕗𝕚𝕔𝕖𝕣
-    bio: >-
-      I❤️✈ 👨‍✈️Pilot ✈️#Boeing #747 🏡Italy 🇮🇹 #bergamo #desenzanodelgarda 🛫based in #Milano 💍 Engaged 🍕#Food 🌍#Travel 💪#Sport 🏍️#Motorbike
-    location: "Portugal"
-    followers: 13094
-    engagement: 759
-    commentsToLikes: 0.029031
-    id: ckaox0krdb8ar0i788ba3cebe
-    verified: false
-    hashtags: "#losangeles, #747, #sunset, #cargolux"
-  - username: "weirdoluis"
-    fullname: >-
-      𝕷𝖚𝖎𝖘 𝕭𝖆𝖕𝖙𝖎𝖘𝖙𝖆
-    bio: >-
-      ★@weirdohelena★ created and performed by moi ★An artist with no limits in terms of medium (makeup illustration music) for now ★London, UK/ Madeira, PT
-    location: "Portugal"
-    followers: 43652
-    engagement: 204
-    commentsToLikes: 0.022176
-    id: ck0u841gr6jcj0i19grbzz3wm
-    verified: false
-    hashtags: "#eye, #marilynmonroe, #familymakeup, #prosthetics"
+    hashtags: "#advmotorcycle, #madeforadventure, #spiritofgs, #lifebehindbars"
   - username: "carlos_guerreiro"
     fullname: >-
       Carlos Guerreiro
     bio: >-
-      @voyagecestlavie // @visionaireagency DM FOR #PHOTOSHOOTS (+351)936297777 📍Lisbon, PT 🇵🇹
+      @atriagem // @visionaireagency DM FOR #PHOTOSHOOTS (+351)936297777 📍Lisbon, PT 🇵🇹
     location: "Portugal"
-    followers: 17636
-    engagement: 662
-    commentsToLikes: 0.020831
+    followers: 17214
+    engagement: 400
+    commentsToLikes: 0.018231
     id: ckaow41br7bwq0i78q3169y17
     verified: false
-    hashtags: "#vintagevibes, #portraitsla, #portraitvisuals, #worldofportraits"
+    hashtags: "#clubedosretratos, #portraitsvision, #portraitsvisuals, #worldofportraits"
+  - username: "virus.pt"
+    fullname: >-
+      Virus
+    bio: >-
+      Graffiti Writter/Illustrator Porto,Portugal 🇵🇹 welovirus@gmail.com
+    location: "Portugal"
+    followers: 2873
+    engagement: 842
+    commentsToLikes: 0.061626
+    id: ck5qaxc8liqnv0i11extzt6pq
+    verified: false
+    hashtags: "#cycling, #portoart, #graffunk, #cyclingpainting"
 ---

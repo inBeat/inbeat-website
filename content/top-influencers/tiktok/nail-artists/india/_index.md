@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In India In 2022
+title: Top 10 Nail Artists TikTok Influencers In India In 2023
 description: >-
-  Find top nail artists TikTok influencers in India in 2022. Most popular hashtags: #trending #foryou #nailart #foryoupage.
+  Find top nail artists TikTok influencers in India in 2023. Most popular hashtags: #trending #foryou #nailart #foryoupage.
 platform: TikTok
 hits: 12
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in India for you to collaborate.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 12 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "shivani0812"
     fullname: >-
@@ -13,24 +13,24 @@ profiles:
     bio: >-
       MEERUT nailartist💅,youtuber(shivani singh nailsart), instagrm(cutepie vani)👈
     location: "India"
-    followers: 5495
+    followers: 5469
     engagement: 469
-    commentsToLikes: 0.009175
+    commentsToLikes: 0.009226
     id: ckamr132ujqgy0i78q2xdnx2t
     verified: false
-    hashtags: "#foryou, #love, #fyp, #longnails"
+    hashtags: "#sharethecare, #champibeats, #cute, #beautiful"
   - username: "lupinkakkar"
     fullname: >-
       Lupin kakkar
     bio: >-
       nailartist💅designer👗hisar🏠 To get a video of ur name follow on Instagram & dm
     location: "India"
-    followers: 118800
-    engagement: 334
-    commentsToLikes: 0.035679
+    followers: 118300
+    engagement: 333
+    commentsToLikes: 0.035645
     id: ckamr1d8njsia0i784ila9tw2
     verified: false
-    hashtags: "#nailart, #subscribemyyoutubechannel, #foryoupage, #nailartist"
+    hashtags: "#subscribemyyoutubechannel, #nailartist, #foryou, #happyfathersday"
   - username: "shalusharma865"
     fullname: >-
       Shalu Sharma
@@ -38,47 +38,47 @@ profiles:
       nailartist 💅🏻follow my Insta
     location: "India"
     followers: 34500
-    engagement: 907
-    commentsToLikes: 0.047010
+    engagement: 915
+    commentsToLikes: 0.045125
     id: ckcjixrkdd2h10j231oymvhn4
     verified: false
-    hashtags: "#foryoupag, #chand, #swagstepchallenge, #duet"
+    hashtags: "#trending, #shalusharma865, #sharethecare, #swagstepchallenge"
   - username: "lupin.kakkar"
     fullname: >-
       Lupin Kakkar
     bio: >-
       nailartist💅 designer 👗
     location: "India"
-    followers: 172300
-    engagement: 994
-    commentsToLikes: 0.010807
+    followers: 172100
+    engagement: 983
+    commentsToLikes: 0.011184
     id: ckbkzitlvw1c60j23yaqh94ju
     verified: false
-    hashtags: "#tiktokindia, #ondemand, #nailartist, #nailart"
-  - username: "payalsingh.nailsqueen"
+    hashtags: "#trending, #nailart, #ondemand, #foru"
+  - username: "payalsingh.nailqueen"
     fullname: >-
       Payal Singh
     bio: >-
       Mrs.Indiaglobe2020/NailsQueen💅Actor/Model, Insta- Payalsingh.nailqueen 😍💅❤
     location: "India"
-    followers: 13486
-    engagement: 619
-    commentsToLikes: 0.018036
+    followers: 13800
+    engagement: 772
+    commentsToLikes: 0.046877
     id: ck83k174h8ini0j78gw49e049
     verified: false
-    hashtags: "#tranding, #nails, #makeup, #stayhome"
+    hashtags: "#eyechallenge, #tiktok, #new, #nailsqueen"
   - username: "miss.singhh"
     fullname: >-
       Akshata Singh
     bio: >-
       Mumbaikar Mehendi Artist DM on insta for bookings
     location: "India"
-    followers: 7653
-    engagement: 811
-    commentsToLikes: 0.038584
+    followers: 7652
+    engagement: 814
+    commentsToLikes: 0.036791
     id: ckbkhsyb69xzc0j23lvsljewh
     verified: false
-    hashtags: "#trending, #tiktokindia, #comedy, #punjabisong"
+    hashtags: "#marathimuser, #marathimulgi, #tiktokmarathi, #champibeats"
   - username: "parulsainimakeovers"
     fullname: >-
       parulsainimakeovers 
@@ -86,45 +86,45 @@ profiles:
       Dubai n U.K Certified Makeup Artist INSTA/FB- parulsainimakeovers 📍AMBALA CANT
     location: "India"
     followers: 83000
-    engagement: 601
-    commentsToLikes: 0.021211
+    engagement: 608
+    commentsToLikes: 0.021395
     id: ckailzrqcqggn0i78sam8hlmu
     verified: false
-    hashtags: "#makeupvideo, #makeupartist, #haintaiyaarhum, #modelmakeup"
+    hashtags: "#edutok, #ambalacantt, #haintaiyaarhum, #modelmakeup"
+  - username: "lovelykushi9900"
+    fullname: >-
+      lovely kushi
+    bio: >-
+      feel my love 😍 ನಾನು ನಿಮ ಮನೆ ಮಗಳು ಲವ್ಲೀ 😀ಕುಶಿ ಉತ್ತರ ಕರ್ನಾಟಕ ಹುಡುಗಿ🙏
+    location: "India"
+    followers: 34800
+    engagement: 2063
+    commentsToLikes: 0.022630
+    id: ck9c3h3cnpn460j78tj2ihk7w
+    verified: false
+    hashtags: "#baby2020, #oryoupage, #shraddha07, #kannadamusically"
   - username: "prettysush24"
     fullname: >-
       Prettysush 
     bio: >-
       Artist youtube :- prettysush subscribe karo ✅ Facebook : Prettysush24 ✅
     location: "India"
-    followers: 225400
-    engagement: 605
-    commentsToLikes: 0.027120
+    followers: 225300
+    engagement: 614
+    commentsToLikes: 0.028244
     id: ckb9t7rcnr2c50j23z3qammqv
     verified: false
-    hashtags: "#theyolook, #foryou, #purplehack, #prettysush"
+    hashtags: "#purplehack, #hargharyoga, #prettysush24, #prettysush"
   - username: "kpoornima"
     fullname: >-
       poornima poo
     bio: >-
       Make-up artist
     location: "India"
-    followers: 22300
-    engagement: 352
-    commentsToLikes: 0.016158
+    followers: 22200
+    engagement: 385
+    commentsToLikes: 0.012784
     id: ckbqgcxu11r5v0j23or4b2t3p
     verified: false
-    hashtags: "#covid, #stayhome, #dollmakeover, #requestedvideo"
-  - username: "soni_fashion_rajkot"
-    fullname: >-
-      SONI FASHION RAJKOT 
-    bio: >-
-      “SONI FASHION “ ANAND BUNGALOW CHOWK, MAVDI MAIN ROAD, RAJKOT - 360004 GUJARAT
-    location: "India"
-    followers: 29600
-    engagement: 681
-    commentsToLikes: 0.030158
-    id: ckcel658iuvvh0j23r6mrappz
-    verified: false
-    hashtags: "#picsart, #rajkot, #fyp, #gemstone"
+    hashtags: "#charcoal, #nail, #partynailart, #homeramedy"
 ---

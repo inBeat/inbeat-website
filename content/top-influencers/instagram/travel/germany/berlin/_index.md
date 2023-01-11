@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Berlin In 2022
+title: Top 10 Travel Instagram Influencers In Berlin In 2023
 description: >-
-  Find top travel Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #travel #germany #happy.
+  Find top travel Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #travel #germany #fashion.
 platform: Instagram
-hits: 647
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 647 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 424
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 424 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "caona_m"
+  - username: "chrissyladeuxieme"
     fullname: >-
-      ℝ𝕖𝕒𝕝𝕝𝕚𝕗𝕖➳𝔽𝕒𝕞𝕚𝕝𝕪➳𝔹𝕖𝕒𝕦𝕥𝕪➳𝔽𝕒𝕤𝕙𝕚𝕠𝕟
+      Christine Pesch
     bio: >-
-      🤍 @leonard.freier ♡ 𝕄𝕠𝕞𝕞𝕪 𝕠𝕗 ⒶⓊⓇⓄⓇⒶ ▫️𝕎𝕖𝕣𝕓𝕦𝕟𝕘➳𝔾𝕖𝕨𝕚𝕟𝕟𝕤𝕡𝕚𝕖𝕝𝕖 📩 ℂ𝕒𝕠𝕟𝕒𝟛𝟘@𝕚𝕔𝕝𝕠𝕦𝕕.𝕔𝕠𝕞
+      Dresden 📍23 @radio_dresden @hitradio_rtl Rasende Reporterin und Social Media Tante 📻 Ein bisschen gestört aber trotzdem ganz cool
     location: "Germany"
-    followers: 19571
-    engagement: 454
-    commentsToLikes: 0.482237
-    id: ck5zs2eh9xoyw0i14gubdchvs
+    followers: 4006
+    engagement: 1699
+    commentsToLikes: 0.029852
+    id: ckaox72o3c2ku0i78i7vkq4i2
     verified: false
-    hashtags: "#sport, #fashion, #gewinn, #auslosung"
-  - username: "litaclips"
+    hashtags: "#anajohnson, #bestfriends, #luccacity, #ibiza"
+  - username: "tricktricktravels"
     fullname: >-
-      Lita🏳️‍🌈
+      Patrick TrickTrick
     bio: >-
-      6teen| 🇷🇺🇺🇸 ✈️ ——-> 📍 Near Munc & Bln Tiktok: literrrrrrrrrr Sry Mum I like Girls🌈
+      Trying to show the beauty in the world and its people _ Berlin based _ 📍now : Polska 🇵🇱 _ ✉️tricktricktravels@gmail.com
     location: "Germany"
-    followers: 18040
-    engagement: 182
-    commentsToLikes: 0.115729
-    id: ckap8ju03omxy0i78596ycf8s
+    followers: 6600
+    engagement: 1154
+    commentsToLikes: 0.180849
+    id: ckf5s5i2des1l0j237f5zbmka
     verified: false
-    hashtags: "#gay, #bodypositivity, #happy, #nike"
-  - username: "thesharks_"
-    fullname: >-
-      Sarah Sharks
-    bio: >-
-      New account @sharko030
-    location: "Germany"
-    followers: 28130
-    engagement: 140
-    commentsToLikes: 0.016099
-    id: ck5qa8reff4zw0i112gmjtj9m
-    verified: false
-    hashtags: "#techno, #berlintechno, #girlswithtattoos, #love"
-  - username: "ymlevart"
-    fullname: >-
-      Sabrina Empunkt
-    bio: >-
-      📍#Heidelberg 🇩🇪 📸 Sony A5000 Next stops: 🔜 Berlin 🇩🇪 🔜 Düsseldorf 🇩🇪 🔜 USA (West Coast) & Hawaii 🇺🇸
-    location: "Germany"
-    followers: 2053
-    engagement: 1843
-    commentsToLikes: 0.046512
-    id: ckaork0qonkxa0i78ye2ycgb5
-    verified: false
-    hashtags: "#germanalphas, #mytinyatlas, #travelgermany, #hessentourismus"
+    hashtags: "#slovenia, #35mmstreetphotography, #visitslovenia, #lensonstreets"
   - username: "fiona_berlin_based"
     fullname: >-
-      Fiona Hirschmann
+      Fiona|Berlin|Photographer
     bio: >-
-      ©Fiona Hirschmann Impressum: www.fionahirschmann.de •freelance photographer for: hirschmannbrand.de •Admin: @urbanimpuls
+      ©Fiona Hirschmann Impressum: fionahirschmann.de •freelancer for: hirschmannbrand.de, @bauhaus_archiv •Admin, photographer: @urbanimpuls
     location: "Germany"
-    followers: 5725
-    engagement: 466
-    commentsToLikes: 0.073735
+    followers: 5770
+    engagement: 454
+    commentsToLikes: 0.081064
     id: ck5zmwpbwnceq0i1491p6h1u5
     verified: false
-    hashtags: "#cityview, #lowkey, #hellofrom, #blackandwhite"
-  - username: "ma_delina_"
+    hashtags: "#seasonpoetry, #riverside, #noiretblancphotographie, #berlinphotography"
+  - username: "floooh_h"
     fullname: >-
-      Madeline Flierler | Fitness
+      F L O R I A N  | 📍GERMANY 🇩🇪
     bio: >-
-      📍 Magdeburg ♡ 🏋️‍♀️ Cheerleading | Fitness ❌ NO FAKE FOLLOWER THX 📩 for collab: flierler.madeline@gmx.de 🙌
+      FASHION | LIFESTYLE | TRAVEL 𝚍𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚒𝚗𝚜𝚝𝚎𝚊𝚍 𝚘𝚏 𝚋𝚘𝚛𝚎𝚍𝚘𝚖 🔜 | Berlin, Mallorca, ... ✉️ | floooh_h@web.de 👨🏼‍💻 | Welcome to my blog ⬇️
     location: "Germany"
-    followers: 6454
-    engagement: 1370
-    commentsToLikes: 0.083757
-    id: ck5c3akacywxz0i11jnw6f6a9
+    followers: 112979
+    engagement: 282
+    commentsToLikes: 0.027069
+    id: ck14i5rmsdry30i192ptukofi
     verified: false
-    hashtags: "#braunschweig, #outfitinspiration, #lookbook, #berlin"
-  - username: "patteswayze"
+    hashtags: "#santorini, #bucketlist, #mauritius, #traveltheworld"
+  - username: "asek.berlin"
     fullname: >-
-      Patrick
+      Alex
     bio: >-
-      Blogger, Photographer and content producer from Berlin. - - > DM or Mail for collaboration
+      Architect | based in Berlin architecture | design | travel ✉️asek@berlin.de 📷NIKON Z5 | ad asekberlin.com Founder of #berlin_minimal @berlin_minimal_
     location: "Germany"
-    followers: 17025
-    engagement: 175
-    commentsToLikes: 0.304065
-    id: ck14kxbgtrscn0i19lyptbo5j
+    followers: 26846
+    engagement: 393
+    commentsToLikes: 0.049383
+    id: ck6u4aa2v2lgj0j71dh755i00
     verified: false
-    hashtags: "#bl, #mendailyfashion, #berlin, #freitagstyle"
-  - username: "paninisfoodblog"
+    hashtags: "#minimalism, #vienna, #lookingup, #zcreators"
+  - username: "jennyprimadonna"
     fullname: >-
-      Mangia
+      𝐉𝐄𝐍𝐍𝐘 𝐏𝐑𝐈𝐌𝐀𝐃𝐎𝐍𝐍𝐀 🕊
     bio: >-
-      Kochen per la Famila🙌👨‍👩‍👧‍👦☘️ Kommt mit in unsere Paniniwelt Es wird Multikulti 👌 Meine Bilder mache ich alle selber 🌸 Hannover / Niedersachsen
+      Co-Founder @naturalprime_official 📍based in Cologne | Berlin Read my new Blog Post ☟︎
     location: "Germany"
-    followers: 5380
-    engagement: 857
-    commentsToLikes: 0.201956
-    id: ck9hc2t4pji580j78ysi4cs5k
+    followers: 31412
+    engagement: 224
+    commentsToLikes: 0.043817
+    id: ck6tu2zfve0gf0j71q44r0yvt
     verified: false
-    hashtags: "#breakfast, #mittagessen, #cheese, #hamburger"
-  - username: "simpalao"
+    hashtags: "#love, #beach, #smile, #tattoo"
+  - username: "leslieangelov"
     fullname: >-
-      Giacomo Aguzzoni🗺
+      𝗟𝗘𝗦𝗟𝗜𝗘 𝗔𝗡𝗚𝗘𝗟𝗢𝗩 🦅
     bio: >-
-      More Life » Canon ❂ Currently in Portugal 🇵🇹 ▵ Live, travel, adventure, bless and don't be sorry @giacomoaguzzoni for more Presets available here ↡
+      —————— ▪ ᴅᴊ & ᴘʀᴏᴅᴜᴄᴇʀ ▪ ʀᴇQᴜᴇsᴛs: ɪɴғᴏ@ᴅᴊʟᴇsʟɪᴇ.ᴅᴇ ▪ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ & sᴘᴏᴛɪғʏ 📸🎶
     location: "Germany"
-    followers: 9185
-    engagement: 619
-    commentsToLikes: 0.138953
-    id: ck6tilqjr0yhy0j71x1g98qnk
+    followers: 20507
+    engagement: 535
+    commentsToLikes: 0.047829
+    id: ck136i6kq6ltm0i19kdn2dqg3
     verified: false
-    hashtags: "#thewanderer, #topspainphoto, #palermo, #dolomitidasogno"
-  - username: "berlinstyle"
+    hashtags: "#leipzig, #zitate, #shooting, #dankbar"
+  - username: "i_am_global"
     fullname: >-
-      Berlin
+      Marc | Daddy & Pilot
     bio: >-
-      🇩🇪 - Best places to go in Berlin ⭐️ - Inspiring people everyday 🔗 - branch of @cimmino
+      Let me show you my office ✈️ #boeing 🌇 #berlin 🇩🇪 👨🏻‍✈️ #aviation & #travel 👨🏻‍💻 i_am_global@gmx.de
     location: "Germany"
-    followers: 38466
-    engagement: 348
-    commentsToLikes: 0.015110
-    id: ck5hnjtzunwkt0i11cvhmc6ew
+    followers: 47241
+    engagement: 402
+    commentsToLikes: 0.063668
+    id: ckap0ck1jpr0y0i788maf25mn
     verified: false
-    hashtags: "#berlin, #berlinstyle, #germany, #diestadtberlin"
+    hashtags: "#crew, #berlin, #travel, #fashion"
+  - username: "_arzu___"
+    fullname: >-
+      𝓐   𝓻   𝔃  𝓾  ☀️
+    bio: >-
+      𝙈 𝙊 𝙈 / 𝙁 𝘼 𝙎 𝙃 𝙄 𝙊 𝙉 | 𝙇 𝙄 𝙁 𝙀 𝙎 𝙏 𝙔 𝙇 𝙀 • Mᴀʀʀɪᴇᴅ 👰🏻🤵🏻 • Hᴀᴘᴘʏ 🥰 • Iɴ ʟᴏᴠᴇ ❤️ • ᴍᴏᴍ ᴏғ 2 Boys 🔒 4900
+    location: "Germany"
+    followers: 40044
+    engagement: 330
+    commentsToLikes: 0.075958
+    id: ck0u9ti3uan1i0i19hrp38ohm
+    verified: false
+    hashtags: "#comeasyouare, #kreativ, #hrvatska, #fashion"
+  - username: "vale_piesco"
+    fullname: >-
+      Valentino Piesco
+    bio: >-
+      📷 Canon User - Eos 1300D 🌍 Italy, Fardella - Basilicata 🇮🇹 currently in Berlin 🇩🇪 🏢 Structural Engineer✏💻 ✈ Last trip: Sardegna 🇮🇹
+    location: "Germany"
+    followers: 24202
+    engagement: 574
+    commentsToLikes: 0.030252
+    id: ck6tivexc1i7s0j71sbw6y99i
+    verified: false
+    hashtags: "#algarvecoast, #algarvealive, #weroamgermany, #paris"
 ---

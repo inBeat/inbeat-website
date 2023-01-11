@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Toronto In 2022
+title: Top 10 Home Decor TikTok Influencers In Toronto In 2023
 description: >-
-  Find top home decor TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #homedecor #foryou #foryoupage.
+  Find top home decor TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #homedecor #toronto #tiktokdiy.
 platform: TikTok
-hits: 20
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 20 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 21
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 21 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "bright_starr"
+  - username: "lizzi.mov"
     fullname: >-
-      Brightstarr
+      Liz Kapran
     bio: >-
-      📍Toronto | 🇵🇰 | 👍🏼
+      my life + jokes + tips 💅🏼 lizzi@musetheagency.com follow me on IG: @lizzi.jpg
     location: "Canada"
-    followers: 2946
-    engagement: 277
-    commentsToLikes: 0.051560
-    id: ckauvu44p0x1k0j23eahrs3i5
+    followers: 448800
+    engagement: 916
+    commentsToLikes: 0.010199
+    id: ck7zo4oe0hrk80j788dym2w4m
     verified: false
-    hashtags: "#kitchen, #fy, #hack, #whippedcoffee"
-  - username: "dvxmich"
+    hashtags: "#fyp, #hairtutorials, #homedecor, #beforeandafter"
+  - username: "sigh.renity"
     fullname: >-
-      mich
+      Sighrenity🌙
     bio: >-
-      
+      🦋
     location: "Canada"
-    followers: 10200
-    engagement: 963
-    commentsToLikes: 0.038263
-    id: ckbet2yvbbyqx0j23dr7p4dj5
+    followers: 128800
+    engagement: 473
+    commentsToLikes: 0.021031
+    id: cka0yw6j8d1bg0i78gt3retl9
     verified: false
-    hashtags: "#foryou, #mycrib, #acnh, #greenscreen"
-  - username: "leticiaa_robin"
+    hashtags: "#foryou, #pole, #foryoupage, #fyp"
+  - username: "nehahaxo"
     fullname: >-
-      Leticia Robin
+      Neha
     bio: >-
-      18 Instagram: @leticiarobinn Toronto🇨🇦
+      CEO of dressing up,eating out ALOT, hauls and DIY’s If that’s you.. follow me☝️
     location: "Canada"
-    followers: 5030
-    engagement: 1300
-    commentsToLikes: 0.046910
-    id: ckbf22djgooy30j23mpm45klu
+    followers: 4167
+    engagement: 466
+    commentsToLikes: 0.044805
+    id: ckaury299x05d0j23kcv1fif9
     verified: false
-    hashtags: "#myjob, #playball, #howto, #foryou"
+    hashtags: "#indian, #starbuckshack, #starbucks, #makeuphaul"
+  - username: "samanthalajeunesse_"
+    fullname: >-
+      Samantha-Rose
+    bio: >-
+      Instagram: samanthalajeunesse_
+    location: "Canada"
+    followers: 12700
+    engagement: 1622
+    commentsToLikes: 0.029867
+    id: ck9nieahrgv4w0j78vmacxnsm
+    verified: false
+    hashtags: "#pourtoi, #bestie, #fyp, #magiefondvert"
+  - username: "entyse"
+    fullname: >-
+      Mama Hamo
+    bio: >-
+      More on Instagram ⤴️ Mama Hamo ‘QAHWA’ Candle Bold & Brewtiful DM us on IG.
+    location: "Canada"
+    followers: 235600
+    engagement: 939
+    commentsToLikes: 0.117729
+    id: ckaifngb2xnpw0i78d2kdgmuh
+    verified: false
+    hashtags: "#cookiesandwich, #thankyou, #gift, #reaction"
   - username: "emscourtney"
     fullname: >-
       Emma
     bio: >-
       Lover of interior design, baking, travel, fitness & cats 📍Toronto
     location: "Canada"
-    followers: 3328
-    engagement: 706
-    commentsToLikes: 0.053382
+    followers: 3263
+    engagement: 771
+    commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#catsoftiktok, #vibecheck, #foryou, #cats"
-  - username: "klevismhm"
-    fullname: >-
-      Klevis Murati
-    bio: >-
-      Toronto🇨🇦 20 for legal reasons, these are jokes ig klevism18
-    location: "Canada"
-    followers: 2730
-    engagement: 684
-    commentsToLikes: 0.045197
-    id: ckdszej38r9mf0j23fron9sb7
-    verified: false
-    hashtags: "#comedy, #greenscreen, #nfyp, #fyp"
-  - username: "mandervillephotography"
-    fullname: >-
-      James Manderville
-    bio: >-
-      Photographer - in galleries in Toronto and Los Angeles
-    location: "Canada"
-    followers: 4234
-    engagement: 649
-    commentsToLikes: 0.042743
-    id: cka0yvs5icxue0i78w4etbobx
-    verified: false
-    hashtags: "#scary, #losangeles, #filmlocation, #80s"
+    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
   - username: "letitiakiu"
     fullname: >-
       Letitia Kiu
     bio: >-
       ☆ Thrift, Fashion & DIY ☆ YT & IG: @letitiakiu Toronto
     location: "Canada"
-    followers: 9986
-    engagement: 847
-    commentsToLikes: 0.020728
+    followers: 9928
+    engagement: 1055
+    commentsToLikes: 0.044757
     id: ck9818tumau510j78l0v2d07y
     verified: false
-    hashtags: "#styletips, #tiktokfashion, #thrifted, #thrift"
-  - username: "gabzxo_"
+    hashtags: "#holidaydecor, #diyhomedecor, #diy, #tiktokdiy"
+  - username: "klevismhm"
     fullname: >-
-      gabz
+      Klevis Murati
     bio: >-
-      🧚🏼 19 Toronto
+      Toronto🇨🇦 20 for legal reasons, these are jokes
     location: "Canada"
-    followers: 38100
-    engagement: 973
-    commentsToLikes: 0.010887
-    id: ckbf62jftvg6l0j23y29ga9zu
+    followers: 3882
+    engagement: 656
+    commentsToLikes: 0.049494
+    id: ckdszej38r9mf0j23fron9sb7
     verified: false
-    hashtags: "#fall, #aritzia, #fyp, #tiktokbrushes"
-  - username: "healthy.tasty"
+    hashtags: "#fyp, #wipeitdown, #duet, #nfyp"
+  - username: "mandervillegallery"
     fullname: >-
-      Healthy & tasty
+      James Manderville
     bio: >-
-      🇨🇦Toronto 🇨🇦
+      Photographer - in galleries in Toronto and Los Angeles
     location: "Canada"
-    followers: 13800
-    engagement: 498
-    commentsToLikes: 0.014747
-    id: ckd0b7knjc8zt0j232at7xbvo
+    followers: 4191
+    engagement: 692
+    commentsToLikes: 0.040098
+    id: cka0yvs5icxue0i78w4etbobx
     verified: false
-    hashtags: "#tiktokfood, #healthy, #learnontiktok, #homerecipe"
-  - username: "refreshhomeimprovements"
+    hashtags: "#fyp, #shopping, #scary, #decor"
+  - username: "sarahjenkinsxo"
     fullname: >-
-      Refresh
+      Sarah Jenkins
     bio: >-
-      🏚 Dan, Steve and #MoreMike Tuer breathe new life into old Toronto homes 🏡
+      Hey, my name is Sarah ✌🏼 I make daily vlogs about my life 🎥 🇨🇦 Toronto / 24
     location: "Canada"
-    followers: 21500
-    engagement: 343
-    commentsToLikes: 0.015311
-    id: ckdc0nvodffrd0j23ab41il7g
+    followers: 91200
+    engagement: 1091
+    commentsToLikes: 0.018802
+    id: ck90r2h2bkuzv0j787dqdtqt8
     verified: false
-    hashtags: "#wow, #art, #satisfying, #remodel"
+    hashtags: "#dailyroutine, #bedtimeroutine, #dailyvlogger, #nightin"
 ---

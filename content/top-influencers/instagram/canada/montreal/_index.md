@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Montreal In 2022
+title: Top 10 Instagram Influencers In Montreal In 2023
 description: >-
-  Find top Instagram influencers in Montreal in 2022. Most popular hashtags: #gifted #dirtybootsmessyhair #worldtravel.
+  Find top Instagram influencers in Montreal in 2023. Most popular hashtags: #ad #makehomematter #apartmenttherapy.
 platform: Instagram
-hits: 815
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 815 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 266
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 266 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "izzymtl_"
+  - username: "i_love_mtl"
     fullname: >-
-      izzy
+      I love Mtl
     bio: >-
-      montreal
+      Montreal’s favourite Instagram destination for local restaurant suggestions and giveaways. Use the hashtag #ilovemtl to be featured. Logo: @loogart
     location: "Canada"
-    followers: 11110
-    engagement: 997
-    commentsToLikes: 0.072930
-    id: ck55mznl056150i11l8tyionr
+    followers: 36607
+    engagement: 138
+    commentsToLikes: 0.217073
+    id: ck8syr70dlp280j784cd6bhi7
     verified: false
-    hashtags: "#ssensemontreal, #aimeleondore, #giveaway"
-  - username: "guillbond"
+    hashtags: "#montreal"
+  - username: "claudiemercier_"
     fullname: >-
-      
+      CLAUDIE
     bio: >-
-      Montréal
+      26 ans, heureuse, anxieuse assumée, Montréal. Youtubeuse 📸🎥 ✨ Magasine ma collection juste ici ✨
     location: "Canada"
-    followers: 8988
-    engagement: 1833
-    commentsToLikes: 0.021825
-    id: ck5c7vwt68acr0i11xyl921i2
-    verified: false
-    hashtags: ""
-  - username: "mattforsythe"
-    fullname: >-
-      Matthew Forsythe
-    bio: >-
-      Montreal
-    location: "Canada"
-    followers: 67847
-    engagement: 528
-    commentsToLikes: 0.011884
-    id: ck6tvz0n8p2ls0j71dzy0w1ea
-    verified: false
-    hashtags: ""
-  - username: "studioskateboards"
-    fullname: >-
-      Studio Skateboards
-    bio: >-
-      Montreal
-    location: "Canada"
-    followers: 9377
-    engagement: 525
-    commentsToLikes: 0.020158
-    id: ck55lhg1u1kpy0i118d7bq364
-    verified: false
-    hashtags: "#quarantine"
-  - username: "liv_m22"
-    fullname: >-
-      Livia Martin
-    bio: >-
-      Montreal Based 📍 Max & Livia on @cravecanadafr and @noovo.ca Interior design student livia@spritzsocial.com 📩
-    location: "Canada"
-    followers: 118050
-    engagement: 1064
-    commentsToLikes: 0.047149
-    id: ck15qha582u0w0i19ac6pnd4o
+    followers: 320591
+    engagement: 433
+    commentsToLikes: 0.022666
+    id: ckap48u1b69cf0i78dt14f4ib
     verified: true
-    hashtags: "#produitrec, #endypartner, #gifted, #ad"
-  - username: "normelnomads"
+    hashtags: "#dovepartner, #ad, #journaltrouvaillespc, #partenaire"
+  - username: "laeticia_andritiana"
     fullname: >-
-      Norm&Mel | Travel Couple
+      Laeticia💋
     bio: >-
-      ❥ #travelcouple hopping around the world ↬ Based in Montreal, Canada 🇨🇦 ☾ Positivity | Gratefulness | Happiness
+      📍Montreal, CA 💌 laeticiaandritiana@ooocreators.com
     location: "Canada"
-    followers: 3377
-    engagement: 2367
-    commentsToLikes: 0.141469
-    id: ckaozrx8zn4xx0i780nawyun9
+    followers: 6721
+    engagement: 727
+    commentsToLikes: 0.064982
+    id: cl8p48xr28es30i23yxktrs98
     verified: false
-    hashtags: "#starttheadventure, #travelworld, #muchlove, #coupletravel"
-  - username: "noemibaz"
+    hashtags: "#yul, #photodump, #photoideas, #outfitoftheday"
+  - username: "kelly.kiko"
     fullname: >-
-      𝓝𝓸𝓮𝓶𝓲 𝓑𝓪𝔃𝓲𝓷𝓮𝓽
+      in a world of my own ☾ .⭒• *⋆˚☆
     bio: >-
-      📍Montreal, Canada 📈 Commercial Director ✨Gemini 📩 noemiebazinet@outlook.com
+      montréal 🧚🏼‍♀️
     location: "Canada"
-    followers: 160582
-    engagement: 580
-    commentsToLikes: 0.043891
-    id: ck5hjbnrogchn0i11uvo7sv30
+    followers: 99828
+    engagement: 447
+    commentsToLikes: 0.006216
+    id: ckzzr31kf58rb0i23vwanvdek
     verified: false
-    hashtags: "#dollskill"
-  - username: "cam_ds"
+    hashtags: "#outfitinspo, #codibook"
+  - username: "saralevs"
     fullname: >-
-      CAM DS
+      SARA LEVITT
     bio: >-
-      créatrice de contenu & dog mom à temps plein. 📍montréal | business @ournextproject
+      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
     location: "Canada"
-    followers: 36985
-    engagement: 584
-    commentsToLikes: 0.100123
-    id: ck0ua5wntbgwk0i19yktqjj6c
+    followers: 5963
+    engagement: 295
+    commentsToLikes: 0.075173
+    id: ckaoszed3towd0i78ukl5z3y1
     verified: false
-    hashtags: "#commandite, #24hdepause, #pub, #gifted"
-  - username: "megmedeiros"
+    hashtags: "#lacucina"
+  - username: "thefarmhousedream"
     fullname: >-
-      Megan Medeiros
+      J o e l l e | Home & DIY
     bio: >-
-      Unapologetic Fashion Enthusiast | Montréal
+      Montreal | FR | 🇨🇦 Mom of 4 Passionnée de Déco - CAPSULE: Tous les mercredis on s’organise ! Conseil | Reno | inspiration Philippiens 4:8
     location: "Canada"
-    followers: 6478
-    engagement: 1149
-    commentsToLikes: 0.211934
-    id: ck9wfce55o8qs0j787h4x2c66
+    followers: 41267
+    engagement: 215
+    commentsToLikes: 0.193640
+    id: ckryhsu75ptfh0j23x5qeoy3q
     verified: false
-    hashtags: "#ardenelove, #ardenebabe, #mejuri, #mejuripartner"
-  - username: "vanessa.anna"
+    hashtags: "#thisminimalhome, #embracethemess, #mylovelyneutrals, #housebeautiful"
+  - username: "anacruz"
     fullname: >-
-      Vanessa Luttrell
+      Ana Cruz🌶
     bio: >-
-      montreal fashion + lifestyle 🌼🦋🤍🥧 💌 vanessa.luttrell@gmail.com
+      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
     location: "Canada"
-    followers: 15304
-    engagement: 808
-    commentsToLikes: 0.077300
-    id: ck0w4rrzb036i0i19s3yp8vlk
+    followers: 21900
+    engagement: 202
+    commentsToLikes: 0.108976
+    id: ck0u9oei7ad2e0i198tdo1bex
     verified: false
-    hashtags: "#rqbabe, #nastygalsdoitbetter"
+    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
+  - username: "jessika.denommee"
+    fullname: >-
+      Jessika Dénommée
+    bio: >-
+      📍Montréal / AZ 🔹Owner of @popunderwear 💌 jessika@dulcedo.com 👇🏼 Ma compagnie
+    location: "Canada"
+    followers: 202726
+    engagement: 134
+    commentsToLikes: 0.036514
+    id: ck5zmrqizn3oj0i14ux0hiio8
+    verified: true
+    hashtags: "#goldgrowthgiveaways, #ad, #arizona, #tampabay"
+  - username: "caroline.elie"
+    fullname: >-
+      Caroline Elie
+    bio: >-
+      Mama to Max + Fab✨ Founder @rosie.ca EIC & Partner @divinedotca 📍Montreal 🇨🇦 #BeARosie
+    location: "Canada"
+    followers: 16155
+    engagement: 63
+    commentsToLikes: 0.187352
+    id: ckq6b03jqieln0j2333xve4l0
+    verified: false
+    hashtags: "#ad, #olsenfashion, #myolsen, #twinning"
+  - username: "juliettebelangerc"
+    fullname: >-
+      Juliette Bélanger-Charpentier
+    bio: >-
+      • Montréalaise • Titulaire d’un baccap en arts ès sciences spécialisé en victimologie et en criminologie • juliettebelangerc@gmail.com
+    location: "Canada"
+    followers: 56309
+    engagement: 42
+    commentsToLikes: 0.001243
+    id: ck5cevmmrlsu30i118p3pdj58
+    verified: false
+    hashtags: "#metoo"
 ---

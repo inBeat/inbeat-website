@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian TikTok Influencers In New York In 2022
+title: Top 10 Christian TikTok Influencers In New York In 2023
 description: >-
-  Find top christian TikTok influencers in New York in 2022. Most popular hashtags: #fyp #christian #jesus #newyork.
+  Find top christian TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #viral #foryoupage.
 platform: TikTok
-hits: 30
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 30 TikTok influencers like this in New York, United States for you to contact.
+hits: 31
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 31 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "mimelyfe_"
-    fullname: >-
-      The Official MimeLyfe
-    bio: >-
-      Insta: MimeLyfe_ | YT: MimeLyfe TV God First | Purpose Driven New York 📍
-    location: "United States"
-    followers: 33400
-    engagement: 1615
-    commentsToLikes: 0.086828
-    id: ck9fycr3ya6120j78efoy10q1
-    verified: false
-    hashtags: "#god, #mimelyfe, #bible, #black"
   - username: "_rjwalker"
     fullname: >-
       RJ Walker
     bio: >-
       Psalms 118:6 CA -> ID 22 yrs old lookin like I’m 17
     location: "United States"
-    followers: 61900
-    engagement: 1189
-    commentsToLikes: 0.012945
+    followers: 61200
+    engagement: 1172
+    commentsToLikes: 0.012459
     id: ck80occjlgrrd0j78o25c9fdu
     verified: false
-    hashtags: "#motokids, #midwest, #motocross, #moto"
-  - username: "itssarahtaylorr"
+    hashtags: "#midwest, #motocross, #motokids, #moto"
+  - username: "chrisjb_"
     fullname: >-
-      user2412617501883
+      christian
     bio: >-
-      New cover on Instagram 💛👍🏼
+      🇵🇭 bay area, ca guitar/vocals
     location: "United States"
-    followers: 32700
-    engagement: 1300
-    commentsToLikes: 0.024223
-    id: ckc32nyk6su4z0j23gdowzqea
+    followers: 5739
+    engagement: 2216
+    commentsToLikes: 0.083691
+    id: ckcv952tbqpav0j239u61kn43
     verified: false
-    hashtags: "#singer, #fyp, #fy, #singing"
+    hashtags: "#geicolipsync, #singing, #tiktok, #sing"
+  - username: "davelist"
+    fullname: >-
+      David List
+    bio: >-
+      ✝️God first✝️ 📚College Student Thank you for 15k!! 20k? Going live at 50k😄
+    location: "United States"
+    followers: 17700
+    engagement: 1570
+    commentsToLikes: 0.047796
+    id: ck83ztafx2vj60j78mwixbcca
+    verified: false
+    hashtags: "#fyp, #foryou, #funny, #viral"
+  - username: "dippedlongisland"
+    fullname: >-
+      ____
+    bio: >-
+      Breakable hearts and chocolate covered strawberries! Nassau county!
+    location: "United States"
+    followers: 44800
+    engagement: 1117
+    commentsToLikes: 0.015625
+    id: cka6ayflty7ec0i78bfo89w1n
+    verified: false
+    hashtags: "#nyc, #fyp, #quarantine, #iftar"
+  - username: "mimelyfe_"
+    fullname: >-
+      The Official MimeLyfe
+    bio: >-
+      Insta: MimeLyfe_ | YT: MimeLyfe TV God First | Purpose Driven New York 📍
+    location: "United States"
+    followers: 46200
+    engagement: 1607
+    commentsToLikes: 0.086829
+    id: ck9fycr3ya6120j78efoy10q1
+    verified: false
+    hashtags: "#4upage, #love, #mimelyfe, #fyp"
+  - username: "pramiti._"
+    fullname: >-
+      𝐩𝐫𝐚𝐦𝐢𝐭𝐢✰
+    bio: >-
+      new york
+    location: "United States"
+    followers: 8624
+    engagement: 1691
+    commentsToLikes: 0.077024
+    id: ckb9asrvpw12h0j23g4y9oepc
+    verified: false
+    hashtags: "#hijabi, #newyork, #thebronx, #arab"
   - username: "cjmoney87"
     fullname: >-
       Christian Acosta
     bio: >-
       Born🇵🇷 Father of 2 From Brooklyn New York to 📍Youngstown Ohio Snap cjmoney87
     location: "United States"
-    followers: 2551
-    engagement: 850
-    commentsToLikes: 0.039407
+    followers: 2560
+    engagement: 840
+    commentsToLikes: 0.041497
     id: cka9l1hns1hdp0i78voairuq4
     verified: false
-    hashtags: "#champagnepapi, #tik, #fy, #bored"
-  - username: "thetexasguy"
+    hashtags: "#ohio, #drake, #dadlife, #trending"
+  - username: "therealjoshbutcher"
     fullname: >-
-      Reagan Green
+      Butcher
     bio: >-
-      No bullcrap Christian ✝️ Podcast - Spotify and Apple Podcast 🎙 Link in website
+      Christian, 406 Rancher, Husband, Father of 2, Fab, Elect, Mech and Fire Fighter
     location: "United States"
-    followers: 73500
-    engagement: 1923
-    commentsToLikes: 0.066956
-    id: ckavjn74osdue0j239m3txeyw
+    followers: 6006
+    engagement: 1492
+    commentsToLikes: 0.086427
+    id: ckbkip9i7b6jb0j239h8ttgab
     verified: false
-    hashtags: "#podcast, #fyp, #jesus, #christian"
-  - username: "caleb.drexler"
+    hashtags: "#america, #usa, #ranchin, #americafirst"
+  - username: "riley_ems"
     fullname: >-
-      Caleb 🙏🏻⛪️
+      Riley Van Andel
     bio: >-
-      Romans 6:23 Christian / 17 Snap: guppy_drexler63 WOLBI 22’
+      20 | Christian EMT | JEREMIAH 29:11 | Check out @officialtiktokems | Michigan📍
     location: "United States"
-    followers: 12900
-    engagement: 2666
-    commentsToLikes: 0.027692
-    id: ck9rmru5348f50j780zga7l17
+    followers: 4555
+    engagement: 1398
+    commentsToLikes: 0.053739
+    id: cka7o6m8z0gu60i78kgtjksg7
     verified: false
-    hashtags: "#christianboy, #reallove, #jesus, #amen"
-  - username: "colonelbrand"
+    hashtags: "#paramedic, #emt, #facts, #abandoned"
+  - username: "answers.luke"
     fullname: >-
-      Brandon
+      answers luke
     bio: >-
-      I’m Christian. Follow my insta ☝️. ✝️
+      business ✉️ luke@a-listme.com just a kid spreading the word saved by grace USA
     location: "United States"
-    followers: 10900
-    engagement: 1654
-    commentsToLikes: 0.056105
-    id: ckc3531yhudnk0j23qcbib65n
+    followers: 835200
+    engagement: 2613
+    commentsToLikes: 0.040072
+    id: ck7zoh2objzcs0j78dfnnlv5n
     verified: false
-    hashtags: "#duet, #jesusgang, #election2020, #politics"
-  - username: "samthesandman"
-    fullname: >-
-      Sam
-    bio: >-
-      Hawaii still sounds nice a few months later 14 NY Snap/SamShahem Insta/SamShahem
-    location: "United States"
-    followers: 4328
-    engagement: 2628
-    commentsToLikes: 0.104775
-    id: ckbqd0cwcz2190j235zg49dbs
-    verified: false
-    hashtags: "#conservative, #newyork, #foryoupage, #nyc"
-  - username: "poweredbydjecho"
-    fullname: >-
-      DJ Echo
-    bio: >-
-      ✝️💍🇺🇸🇵🇷 I’m a DJ. For real, my mom will vouch for me! Can you dig it?
-    location: "United States"
-    followers: 9541
-    engagement: 2462
-    commentsToLikes: 0.516747
-    id: ckc92m6oht8gp0j23tphkmm16
-    verified: false
-    hashtags: "#realmenwearpink, #djechobacktothe80s, #djechomashup, #dance"
-  - username: "diego.j.rivas"
-    fullname: >-
-      Diego Rivas
-    bio: >-
-      CEO of Gibberish Interesting things you’ve never heard of Come learn with me 🌎
-    location: "United States"
-    followers: 125900
-    engagement: 1028
-    commentsToLikes: 0.036482
-    id: ck8qj596fbz3f0j78uqgujo6l
-    verified: false
-    hashtags: "#learn, #religion, #french, #hispanic"
+    hashtags: "#foryou, #comedy, #easter, #christian"
 ---

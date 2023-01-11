@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Switzerland In 2022
+title: Top 10 Travel TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top travel TikTok influencers in Switzerland in 2022. Most popular hashtags: #switzerland #fyp #travel #viral.
+  Find top travel TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #travel #swiss #schweiz.
 platform: TikTok
-hits: 67
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 67 TikTok influencers like this in Switzerland for you to collaborate.
+hits: 62
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 62 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "runawayueli"
     fullname: >-
@@ -13,24 +13,24 @@ profiles:
     bio: >-
       travel photographer 📸 running away from ordinary life 🏕️ from switzerland 🇨🇭
     location: "Switzerland"
-    followers: 2838
-    engagement: 915
-    commentsToLikes: 0.069128
+    followers: 2849
+    engagement: 823
+    commentsToLikes: 0.075083
     id: ck902kj4ich270j78p29bwzys
     verified: false
-    hashtags: "#tiktoktravel, #schwiiz, #skifahren, #schweiz"
-  - username: "dladywanderer"
+    hashtags: "#schwiiz, #switzerland, #skifahren, #thailand"
+  - username: "lenny_iza"
     fullname: >-
-      🇵🇭Gen Lady Wanderer🇨🇭
+      Lenny Izaguire ✨
     bio: >-
-      Frm🇵🇭Ph living in🇨🇭CH.TravelLiveLoveLaugh Pls.NO Spam Likes. follow me@Insta
+      Fashion - Acting - Travel 💕 YouTube 🎥 @LennyIzaguire Instagram 📸 @Lenny.iza
     location: "Switzerland"
-    followers: 11400
-    engagement: 799
-    commentsToLikes: 0.078857
-    id: ckc32lpfcsr280j23ztni5lk1
+    followers: 573900
+    engagement: 1333
+    commentsToLikes: 0.011118
+    id: ckb0robd6h5te0j231em0oe51
     verified: false
-    hashtags: "#laugh, #justforfun, #foryou, #viral"
+    hashtags: "#hp, #dracomalfoy, #draco, #drarry"
   - username: "jessicaswissmermaid"
     fullname: >-
       Jess MerDragon 
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.007916
     id: ckai560c2qsh00i78zj88br4g
     verified: false
-    hashtags: "#mermaid, #freediving, #girlswhofreedive, #musicvideo"
-  - username: "michelphotography.ch"
+    hashtags: "#switzerland, #freediving, #girlswhofreedive, #fun"
+  - username: "dladywanderer"
     fullname: >-
-      Sylvia Michel
+      🇵🇭Gen Lady Wanderer🇨🇭
     bio: >-
-      Travel photographer of Switzerland 🇨🇭 - More infos on my Patreon site
+      Frm🇵🇭Ph living in🇨🇭CH. Random Content TravelLiveLoveLaugh NO SpamLikes Pls.✌
     location: "Switzerland"
-    followers: 37343
-    engagement: 956
-    commentsToLikes: 0.016924
-    id: cka6d6no56s270i786w1876qg
+    followers: 30200
+    engagement: 404
+    commentsToLikes: 0.046495
+    id: ckc32lpfcsr280j23ztni5lk1
     verified: false
-    hashtags: "#lauterbrunnen, #schwiz, #suisse, #goviral"
-  - username: "daniyalmhn"
-    fullname: >-
-      daniyal
-    bio: >-
-      TRAVEL - FASHION Instagram: Daniyalmhn
-    location: "Switzerland"
-    followers: 6585
-    engagement: 694
-    commentsToLikes: 0.053872
-    id: ck900ankba9b10j78mvihgksf
-    verified: false
-    hashtags: "#quarantine, #coronavirus, #switzerland, #tiktok"
-  - username: "lenny_iza"
-    fullname: >-
-      Lenny Izaguire ✨
-    bio: >-
-      Fashion - Acting - Travel 💕 YouTube 🎥 @LennyIzaguire Instagram 📸 @Lenny.iza
-    location: "Switzerland"
-    followers: 145100
-    engagement: 1439
-    commentsToLikes: 0.010885
-    id: ckb0robd6h5te0j231em0oe51
-    verified: false
-    hashtags: "#dracomalfoy, #couple, #thonny, #hp"
-  - username: "amorea.ramona"
-    fullname: >-
-      A M O R E A 🐚
-    bio: >-
-      90’s kid living in🇨🇭 I love photography and travelling ✨
-    location: "Switzerland"
-    followers: 117500
-    engagement: 847
-    commentsToLikes: 0.021384
-    id: ck8otb04akfda0j780gxhgtbq
-    verified: false
-    hashtags: "#travel, #switzerland, #philippines, #viral"
-  - username: "amvelsardo"
-    fullname: >-
-      Dear Traveler ®
-    bio: >-
-      🇨🇭 traveler 📍Lausanne
-    location: "Switzerland"
-    followers: 4632
-    engagement: 435
-    commentsToLikes: 0.053370
-    id: ckbf7gnxdxfwq0j23jbcwaf38
-    verified: false
-    hashtags: "#swisstourism, #switzerlandtourism, #naturelovers, #nature"
+    hashtags: "#beautiful, #foryou, #snow, #fun"
   - username: "darenrise"
     fullname: >-
       To dare is to rise
     bio: >-
       Travelling | Living | Experiencing 🏕 Lucerne | Switzerland | World | Nature 🗺
     location: "Switzerland"
-    followers: 6690
-    engagement: 1044
-    commentsToLikes: 0.014328
+    followers: 6677
+    engagement: 1036
+    commentsToLikes: 0.017902
     id: ckbwkt02k3v050j239ei7ccgg
     verified: false
-    hashtags: "#travelblogger, #traveling, #tiktok, #lake"
+    hashtags: "#switzerlandtourism, #foryoupage, #travelphotography, #nature"
   - username: "danlaza"
     fullname: >-
       Daniel Lazarov
     bio: >-
-      1992 Swiss-italian Travel creator Photo filters shop 👇🏼
+      swiss-italian made in macedonia 110k on IG Travel Creator 📸🌴 Photo filters👇🏼
     location: "Switzerland"
-    followers: 78000
-    engagement: 707
-    commentsToLikes: 0.012308
+    followers: 77400
+    engagement: 767
+    commentsToLikes: 0.017134
     id: ck9rbs3nvqjyw0j78bpxyb59g
     verified: false
-    hashtags: "#fyp, #tiktoktravel, #travel, #wewilltravelagain"
+    hashtags: "#maldives, #fyp, #switzerlandtourism, #ticino"
+  - username: "bless.travel"
+    fullname: >-
+      Domi & Pati 👫❤️
+    bio: >-
+      💑 Travelcouple 📍zürich 🇨🇭 💍verlobt
+    location: "Switzerland"
+    followers: 29100
+    engagement: 350
+    commentsToLikes: 0.008421
+    id: ck8opx5ne55bd0j78lb0s89tb
+    verified: false
+    hashtags: "#tiktok, #couplegoals, #viral, #switzerland"
+  - username: "janik.schaedler"
+    fullname: >-
+      King of FL 🇱🇮👑
+    bio: >-
+      Traveller from the Principality of Liechtenstein 🇱🇮
+    location: "Switzerland"
+    followers: 16600
+    engagement: 1265
+    commentsToLikes: 0.004196
+    id: ck8qgc5x60a4i0j78ct1edv6k
+    verified: false
+    hashtags: "#spa, #pool, #tirol, #robinschulz"
+  - username: "runawayrocio"
+    fullname: >-
+      RunawayRocio
+    bio: >-
+      Peruvian adventuress based in Switzerland 🇨🇭 Support my photography ⬇️
+    location: "Switzerland"
+    followers: 14500
+    engagement: 618
+    commentsToLikes: 0.059882
+    id: ck9016gb1bboh0j78dgsqybzn
+    verified: false
+    hashtags: "#travel, #cusco, #justswissthings, #coronavirus"
+  - username: "abenteuer_fernweh"
+    fullname: >-
+      abenteuer_fernweh
+    bio: >-
+      Inspiration Reisen
+    location: "Switzerland"
+    followers: 2350
+    engagement: 511
+    commentsToLikes: 0.084580
+    id: ckachn2qvzzqo0i78anv2e4e2
+    verified: false
+    hashtags: "#thailand, #unterhalteuns, #imbored, #schweiz"
 ---

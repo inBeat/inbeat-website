@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Durban In 2022
+title: Top 10 Fashion Instagram Influencers In Durban In 2023
 description: >-
-  Find top fashion Instagram influencers in Durban in 2022. Most popular hashtags: #durban #fashion #southafrica #capetown.
+  Find top fashion Instagram influencers in Durban in 2023. Most popular hashtags: #fashion #southafrica #durban #summer.
 platform: Instagram
-hits: 18
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 18 Instagram influencers like this in Durban, South Africa for you to collaborate.
+hits: 13
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 13 Instagram influencers like this in Durban, South Africa for you to pitch.
 profiles:
-  - username: "aly_bux"
-    fullname: >-
-      A A L I Y A H - B U X
-    bio: >-
-      Redefining the beauty industry 1 eyeliner at a time. Enemies of the heir, beware 🐍 Pro Makeup Artist | Content Creator Co-Partner at @bmups_ Academy
-    location: "South Africa"
-    followers: 13976
-    engagement: 708
-    commentsToLikes: 0.109319
-    id: ck15t918jgxbk0i19avy1pp4f
-    verified: false
-    hashtags: "#creative, #womenempowerment, #durbansouthafrica, #fashion"
   - username: "txshriq"
     fullname: >-
       tashriq 🧿
     bio: >-
-      he/him fashion student 18 | durban, south africa
+      he/him fashion student 18 | durban, south africa dm/email for promos/collabs
     location: "South Africa"
-    followers: 5151
-    engagement: 2919
-    commentsToLikes: 0.199956
+    followers: 7242
+    engagement: 3287
+    commentsToLikes: 0.201601
     id: ckap8rm6spkdg0i78v6ljb65s
     verified: false
-    hashtags: "#quarantine, #lockdown, #valentinesday, #superbman"
+    hashtags: "#lockdown, #18, #diwali2020, #explore"
   - username: "dainogulu"
     fullname: >-
       Dainamiaro
     bio: >-
-      A SEXY CHOCOLATE SLAB 🍫 🇳🇬 A NIGERIAN LOST IN SA🇿🇦 💪🏾 personal trainer 💪🏾 🥇agency: @bossmodelsdbn 📩Email:do1115131@gmail.com
+      African prince 👑 A SEXY CHOCOLATE SLAB 🍫 🇳🇬 A NIGERIAN LOST IN SA🇿🇦 🥇agency: @bossmodelsdbn 📩Email:do1115131@gmail.com Shop @thedrop.co.za ⬇️
     location: "South Africa"
-    followers: 13031
-    engagement: 564
-    commentsToLikes: 0.018923
+    followers: 12813
+    engagement: 413
+    commentsToLikes: 0.013873
     id: ckaor925xm8r70i78qr61uy1y
     verified: false
-    hashtags: "#durban, #gymlife, #fashion, #foryoupage"
-  - username: "fundi_zwane"
+    hashtags: "#fashion, #ekasi, #ootdmens, #ootdfashion"
+  - username: "kaminipather"
     fullname: >-
-      Fundi Zwane | Actress
+      Kamini Like Harmony
     bio: >-
-      Actress | Public Speaker| Entrepreneur| Content Creator| Mother| MC Appearances & Bookings: BookFundi@Society5.co.za Purchase Camagu NOW!
+      Host of #GirlEatWorldTV @Netflix SAFTA winner @MasterChef_SA winner S2. Runner.
     location: "South Africa"
-    followers: 21695
-    engagement: 536
-    commentsToLikes: 0.004147
-    id: ckf5o4dds0v7i0j236qeg2f0b
-    verified: false
-    hashtags: "#mazwanemagic, #camagu, #truestory, #iskhathisifikile"
-  - username: "londy_mazwide_eventdesigner"
+    followers: 36569
+    engagement: 148
+    commentsToLikes: 0.144325
+    id: ckaost6k2szaw0i78ocytqyhn
+    verified: true
+    hashtags: "#food, #supportlocal, #win, #competition"
+  - username: "withlovebloomingrose"
     fullname: >-
-      Londiwe Ndwandwe Ngcobo
+      Aminah Gallie
     bio: >-
-      Founder & Creative Director @andimahlebuildingevents Events , Fashion , Style , Travel Lifestyle ❤️ 📧 :info@andimahle.co.za
+      MARKETING | CONTENT CREATOR Plants | ParentHood | Doggie Love Cape Town 🔥🔥
     location: "South Africa"
-    followers: 148673
-    engagement: 108
-    commentsToLikes: 0.035773
-    id: ck0vw8gnysknh0i19lidhl65f
+    followers: 41869
+    engagement: 53
+    commentsToLikes: 0.495737
+    id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
-    hashtags: "#weddings, #weddingplanner, #events, #eventplanner"
+    hashtags: "#houseplants, #plantsmakepeoplehappy, #girlswithplants, #capetown"
   - username: "innographer"
     fullname: >-
       Innographer
     bio: >-
-      Fashion / Events / Weddings/ Commercial Photographer 📷 "Wherever there is light, one can photograph.” Bookings : Innographer@gmail.com 📍Durban 🇿🇦
+      Fashion / Events / Weddings/ Commercial Photographer 📷 Bookings : Innographer@gmail.com Personal Account :@nkanyisokhumalo_ 📍Durban, 🇿🇦
     location: "South Africa"
-    followers: 21707
-    engagement: 209
-    commentsToLikes: 0.022149
+    followers: 22818
+    engagement: 248
+    commentsToLikes: 0.023584
     id: ck5zu2r2e1km00i14450k4dm8
     verified: false
-    hashtags: "#beauty, #face, #fashion, #potrait"
-  - username: "kajalmaharaj"
-    fullname: >-
-      Kajal Maharaj
-    bio: >-
-      SA actress, Shria on the daily soapie Imbewu the Seed eTV MC, empowerment speaker TikTok@kajalmaharajshria Bookings precious.nakhira@talent-etc.co.za
-    location: "South Africa"
-    followers: 22883
-    engagement: 383
-    commentsToLikes: 0.060047
-    id: ck5zu2v351kti0i145fys4vbe
-    verified: false
-    hashtags: "#southafrica, #imbewutheseed, #hudabeauty, #fashion"
-  - username: "_ttlphotography_"
-    fullname: >-
-      TTL | Wedding Photographers
-    bio: >-
-      FATHIMA + SERAZ SONY Alpha Ambassadors Middle East/Africa. Educators at @sonyalphasa Send your photography enquiry via our website/email👇🏼
-    location: "South Africa"
-    followers: 16878
-    engagement: 207
-    commentsToLikes: 0.043787
-    id: ck5cimneasxrv0i11jccwxacq
-    verified: false
-    hashtags: "#southafrica, #sonyalphasouthafrica, #bridebook, #southafricawedding"
+    hashtags: "#blackwomen, #potrait, #culture, #bantuknot"
   - username: "thatdamnvandal"
     fullname: >-
       DAMN VANDAL
     bio: >-
-      Graffiti Artist/illustrator. South Africa 🇿🇦 ............ Sponsored By Posca Reebok Classics Ambassador 🇬🇧 Dromex
+      Graffiti Artist/illustrator. South Africa 🇿🇦 ............ Posca Ambassador 🇿🇦 Reebok Classics Ambassador 🇬🇧 4th Street Ambassador 🇿🇦
     location: "South Africa"
-    followers: 10108
-    engagement: 396
-    commentsToLikes: 0.039424
+    followers: 12453
+    engagement: 355
+    commentsToLikes: 0.031152
     id: ck8svw1i4cwto0j785pmqao89
     verified: false
-    hashtags: "#damnvandal, #durbanartist, #streetart, #digital"
+    hashtags: "#shaunoakley, #design, #mural, #durban"
   - username: "kunene_ayanda"
     fullname: >-
       Ayanda Kunene
     bio: >-
-      South African 🇿🇦 Twin: @amanda_Kunene Snapchat: kunene_ayanda 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
+      South African 🇿🇦 Twin: @amanda_Kunene 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
     location: "South Africa"
-    followers: 3500
-    engagement: 616
-    commentsToLikes: 0.080905
+    followers: 4206
+    engagement: 738
+    commentsToLikes: 0.064269
     id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#l4l, #milkmodelsearch, #vegan, #healthylifestyle"
+    hashtags: "#explorepage, #reels, #milkmodelsearch, #editorial"
+  - username: "ciara_tay_kruger"
+    fullname: >-
+      Ciara Taylor Kruger💋
+    bio: >-
+      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
+    location: "South Africa"
+    followers: 5624
+    engagement: 1387
+    commentsToLikes: 0.111456
+    id: ckapbizlf021z0i78vsf48vsh
+    verified: false
+    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
+  - username: "kajalbagwandeen"
+    fullname: >-
+      Kajal Bagwandeen
+    bio: >-
+      
+    location: "South Africa"
+    followers: 34662
+    engagement: 466
+    commentsToLikes: 0.024560
+    id: ck5zwx9uf6xtp0i148j6e9kj1
+    verified: true
+    hashtags: "#motherhood, #diwali, #adoptdontshop, #woolworths"
+  - username: "wadinepe"
+    fullname: >-
+      Itumeleng
+    bio: >-
+      A CREATIVE Portrait Events & fashion photographer 🇿🇦 Johannesburg
+    location: "South Africa"
+    followers: 11353
+    engagement: 677
+    commentsToLikes: 0.041071
+    id: ck8swja6cea080j78q6ijxr2w
+    verified: false
+    hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Los Angeles In 2022
+title: Top 10 Architecture TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top architecture TikTok influencers in Los Angeles in 2022. Most popular hashtags: #architecture #interiordesign #fyp #losangeles.
+  Find top architecture TikTok influencers in Los Angeles in 2023. Most popular hashtags: #architecture #interiordesign #losangeles #fyp.
 platform: TikTok
-hits: 13
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform has 13 TikTok influencers like this in Los Angeles, United States for you to work with.
+hits: 12
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 12 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "thatche"
-    fullname: >-
-      Thatcher
-    bio: >-
-      
-    location: "United States"
-    followers: 24600
-    engagement: 391
-    commentsToLikes: 0.030425
-    id: ck9ncexjubuh70j78ftqm5074
-    verified: false
-    hashtags: "#makebelieve, #morelife, #manhattan, #newyorkcity"
-  - username: "socaliforniadriana"
+  - username: "realestate.adriana"
     fullname: >-
       Realtor ADRIANA
     bio: >-
-      Los Angeles Real Estate homes@socaliforniadriana.com follow me on IG for more :)
+      Save $$ Selling your home w Adriana 💌 hello@realestateadriana.com 📍Los Angeles
     location: "United States"
-    followers: 5213
-    engagement: 495
-    commentsToLikes: 0.019293
+    followers: 5362
+    engagement: 528
+    commentsToLikes: 0.017325
     id: ckcdsgkladdsw0j233lhfhzam
     verified: false
-    hashtags: "#luxuryliving, #homeinterior, #interiordesign, #beautifulhomes"
-  - username: "housesgram"
-    fullname: >-
-      HousesGram
-    bio: >-
-      Interior and Exterior Inspiration @housesgram on Instagram Original Content
-    location: "United States"
-    followers: 141500
-    engagement: 636
-    commentsToLikes: 0.028846
-    id: ck8w1andl16z40j78950alhbe
-    verified: false
-    hashtags: "#losangeles, #architecture, #housesgram, #mansion"
-  - username: "wasiclothing"
-    fullname: >-
-      Wasi Clothing
-    bio: >-
-      🇧🇴 Small biz based in Los Angeles! Click link to check out shop!
-    location: "United States"
-    followers: 75400
-    engagement: 2071
-    commentsToLikes: 0.038919
-    id: ckbf4mgp0t46m0j232lcn5438
-    verified: false
-    hashtags: "#familialatina, #fyp, #goodvibes, #dayinmylife"
+    hashtags: "#realestate, #backyardgoals, #luxuryrealestate, #estate"
   - username: "aarongrushowhomes"
     fullname: >-
       Aaron Grushow
     bio: >-
-      Los Angeles Realtor🌴 Aaron Kirman Group x Compass $6.5 Billion+ Team Sales
+      Los Angeles Realtor🌴 Aaron Kirman Group x Compass $7 Billion+ Team Sales
     location: "United States"
-    followers: 1300000
-    engagement: 1493
-    commentsToLikes: 0.019128
+    followers: 1400000
+    engagement: 1397
+    commentsToLikes: 0.021967
     id: ck80oo2ohiocw0j78mtngppaf
     verified: true
-    hashtags: "#luxury, #design, #rich, #realestate"
+    hashtags: "#realestate, #house, #architecture, #modern"
+  - username: "justinfreeling"
+    fullname: >-
+      Justin Freeling
+    bio: >-
+      Videos to make you smile 😁 LOS ANGELES ✌🏻+❤️ 🏳️‍🌈
+    location: "United States"
+    followers: 77400
+    engagement: 1247
+    commentsToLikes: 0.058264
+    id: cka0fw20j1i6i0i78sx5o9p12
+    verified: false
+    hashtags: "#fyp, #gay, #gaytiktok, #makemomepic"
+  - username: "nicksaremi"
+    fullname: >-
+      Nick Saremi
+    bio: >-
+      Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
+    location: "United States"
+    followers: 107800
+    engagement: 857
+    commentsToLikes: 0.049946
+    id: ck9k9al5tcfbq0j784mvcqybp
+    verified: false
+    hashtags: "#ca, #realtorsoftiktok, #architecturetiktok, #la"
   - username: "rpnickson"
     fullname: >-
       Roberto Nickson
     bio: >-
       Design Tech Travel Los Angeles
     location: "United States"
-    followers: 30600
-    engagement: 692
-    commentsToLikes: 0.015322
+    followers: 30400
+    engagement: 870
+    commentsToLikes: 0.022568
     id: ck8hk4l3cc9iu0j786flqtz44
     verified: false
-    hashtags: "#joshuatree, #interiordesign, #travel, #california"
+    hashtags: "#travel, #california, #photography, #fyp"
   - username: "designbuildla"
     fullname: >-
       DESIGNBUILDLA
     bio: >-
       INTERIOR + ARCHITECTURAL DESIGN 📍LOS ANGELES www.designbuild.LA
     location: "United States"
-    followers: 12000
-    engagement: 681
-    commentsToLikes: 0.012560
+    followers: 15500
+    engagement: 595
+    commentsToLikes: 0.016789
     id: ckcp0ro2sawss0j231czyzz47
     verified: false
-    hashtags: "#fashiontiktok, #kendalljenner, #interiordesigner, #interiordesign"
-  - username: "greg.rh"
+    hashtags: "#minimalism, #interiordesigntips, #interiordesign, #interiordesignideas"
+  - username: "adventurousarchitect"
+    fullname: >-
+      AdventurousArchitect
+    bio: >-
+      Dream | travel Daily inspo Travel, Quotes and Architecture Thanks for 49k 😍
+    location: "United States"
+    followers: 49700
+    engagement: 893
+    commentsToLikes: 0.053150
+    id: cka6dzxfk9uaj0i78q1fgfyq8
+    verified: false
+    hashtags: "#stitch, #greenscreen, #adventurousarchitect, #greenscreenvideo"
+  - username: "greg.rha"
     fullname: >-
       Greg
     bio: >-
-      Art, furniture, fashion, and cooking g96harder@gmail.com
+      CoFounder of andagain Artist Success at MakersPlace
     location: "United States"
-    followers: 2677
-    engagement: 776
-    commentsToLikes: 0.118627
+    followers: 4499
+    engagement: 925
+    commentsToLikes: 0.031791
     id: ckcjhqtugceoo0j237jtjk2h3
     verified: false
-    hashtags: "#modeling, #furniture, #photography, #malemodel"
-  - username: "pillerproperties"
+    hashtags: "#losangeles, #dog, #vibes, #design"
+  - username: "ash_briana"
     fullname: >-
-      Piller Properties
+      𝓑𝓪𝓫𝓮💓 𝓑
     bio: >-
-      Real Estate Agent Bpiller@theagencyre.com for all inquires
+      Ashley💋♉️💄 ✈️ All travel videos are my experiences 🗺
     location: "United States"
-    followers: 321500
-    engagement: 909
-    commentsToLikes: 0.010812
-    id: ck80oo38niok40j78bmfulpw8
+    followers: 2373
+    engagement: 620
+    commentsToLikes: 0.025284
+    id: ck9jyyv6t6l9e0j7872ouv9io
     verified: false
-    hashtags: "#vibe, #modern, #rich, #realestate"
-  - username: "citykillerz.official"
+    hashtags: "#wanderlust, #italy, #views, #eurotrip"
+  - username: "felixsemper"
     fullname: >-
-      Citykillerz
+      felixsemper
     bio: >-
-      ↠ 300K on IG ⬆️ ↠ The Best Travel & Urban Content ↠ Email: Team@citykillerz.com
+      Stretching your imagination www.felixsemper.com
     location: "United States"
-    followers: 51300
-    engagement: 899
-    commentsToLikes: 0.023167
-    id: ckc32m92qsrkc0j23spvkbuao
+    followers: 520700
+    engagement: 708
+    commentsToLikes: 0.006575
+    id: ckb9mfm08fiae0j23ns0kxde7
     verified: false
-    hashtags: "#japan, #china, #timelapse, #fpv"
+    hashtags: "#semperart, #art, #rap, #sculpture"
 ---

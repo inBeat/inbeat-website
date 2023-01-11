@@ -1,48 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In 2022
+title: Top 10 Yoga Instagram Influencers In 2023
 description: >-
-  Find top yoga Instagram influencers in 2022. Most popular hashtags: #yoga #yogaeverydamnday #yogaeveryday.
+  Find top yoga Instagram influencers in 2023. Most popular hashtags: #yogapractice #yoga #yogachallenge #yogainspiration.
 platform: Instagram
-hits: 8663
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 8663 Instagram influencers like this for you to connect with.
+hits: 7818
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 7818 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "lauramadelain"
+  - username: "pigeatsfish"
     fullname: >-
-      Laura Madelain
+      
     bio: >-
-      🌙 @wilhelminamodels NY yoga teacher Love is always the answer 🌊
+      Yoga 🇸🇬
     location: "United States"
-    followers: 8415
-    engagement: 863
-    commentsToLikes: 0.083191
-    id: ck5cftwfpnm150i11jkuis4hi
+    followers: 35681
+    engagement: 55
+    commentsToLikes: 0.234435
+    id: ckaorrgr0of140i78ccytx5s4
     verified: false
-    hashtags: "#yoga"
-  - username: "trinskyyoga"
+    hashtags: "#alofourdirections, #fleximarchintospring, #alocarefortheocean, #alowomenscircle"
+  - username: "flou_yoga"
     fullname: >-
-      Tahl Rinsky
+      🅕🅐🅣🅘🅜🅐 | Yoga
     bio: >-
-      Yoga🔹Connection 🔹 Byron Bay 🔹Owner @creature.yoga with @bessyyoga YTT ONLINE 2020~ PRACTICE ONLINE daily @creature.yoga live link👇🏻 and @centrfit
-    location: "Australia"
-    followers: 35345
-    engagement: 200
-    commentsToLikes: 0.033281
-    id: ck14k08kdn2c40i19ql2gie57
+      𝘠𝘰𝘨𝘢 | 𝘓𝘪𝘷𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘦 𝘱𝘳𝘦𝘴𝘦𝘯𝘵 𝘮𝘰𝘮𝘦𝘯𝘵 🧘🏼‍♀️Yogi and 😷Dentist 💙Sharing my yoga journey and happy thoughts to hopefully inspire someone 🐚Galicia, Spain
+    location: "United States"
+    followers: 51255
+    engagement: 101
+    commentsToLikes: 0.188806
+    id: ck13bfe32v5w20i19pkdhwrqv
     verified: false
-    hashtags: "#yoga"
-  - username: "agostinamoroni"
-    fullname: >-
-      Agostina Moroni
-    bio: >-
-      📍Sevilla, España | Yoga&pilates | Vegetariana
-    location: "Spain"
-    followers: 22042
-    engagement: 453
-    commentsToLikes: 0.011951
-    id: ck5zp7mtis57b0i14jofkxvdz
-    verified: false
-    hashtags: "#yoga"
+    hashtags: "#sportygirl, #yogafitness, #yogainspiration, #yogareel"
   - username: "yoga"
     fullname: >-
       Yoga
@@ -54,7 +42,19 @@ profiles:
     commentsToLikes: 0.019284
     id: ck0tvu6omcsz20i19guq45v3p
     verified: true
-    hashtags: "#yogaposes, #yogaasana, #yogaposture, #yogavideo"
+    hashtags: "#yogapractice, #yogaposes, #yogaeverydamnday, #yogainspiration"
+  - username: "best.yoga"
+    fullname: >-
+      YOGA
+    bio: >-
+      ⁣⁣⁣⁣⁣⁣Follow us if you love Yoga! 💌Direct for shoutout ⬇️
+    location: "United States"
+    followers: 200410
+    engagement: 51
+    commentsToLikes: 0.011024
+    id: ck0u88i936ql80i19hmna0zb9
+    verified: false
+    hashtags: "#yogapractice, #yogachallenge, #yogatutorial, #splits"
   - username: "yogaahmadsyarif"
     fullname: >-
       Yoga
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.092822
     id: ckap4znmb9j1v0i785ol0dg1t
     verified: false
-    hashtags: "#jvgart, #stopmotion, #indovidgram, #ivgselasart"
-  - username: "best.yoga"
+    hashtags: "#stopmotion, #lyricalstopmotion, #sarangeditorid, #jvgart"
+  - username: "dylanwerneryoga"
     fullname: >-
-      YOGA
+      Dylan Werner
     bio: >-
-      ⁣⁣⁣⁣⁣⁣Follow us if you love Yoga! 💌Direct for shoutout
+      Yoga Teacher Living in Bali 🇮🇩 My book “The Illuminated Breath” is available on Amazon and Kindle!
+    location: "Indonesia"
+    followers: 813817
+    engagement: 298
+    commentsToLikes: 0.016796
+    id: ck5pyvzy3y2ig0i11xgtmxjmz
+    verified: true
+    hashtags: "#handstand, #backbend, #yoga, #expo2020"
+  - username: "graceru_x"
+    fullname: >-
+      G R A C E 🌸
+    bio: >-
+      Sunsets & selfies 🦋✨ Gym & yoga 🧘‍♀️💫 Northerner living down south 🇬🇧✌🏻
+    location: "United Kingdom"
+    followers: 99214
+    engagement: 270
+    commentsToLikes: 0.056818
+    id: ckaovj44k4rvm0i78zczj4qi8
+    verified: false
+    hashtags: "#ootd, #instagram, #instadaily, #happy"
+  - username: "anina.gepp"
+    fullname: >-
+      Anina 🦋
+    bio: >-
+      ☼ gesund, bewusst & im Moment leben ☼ sharing my passion for yoga, poems & food ☼ yoga teacher & author📍Tenerife ☼ Januar-Retreat - jetzt anmelden ⇣
+    location: "Switzerland"
+    followers: 98250
+    engagement: 249
+    commentsToLikes: 0.034483
+    id: ck0vyo0mf4y1v0i19m1bn9fbo
+    verified: false
+    hashtags: "#gl, #selbstf, #bewusstleben, #gutertag"
+  - username: "simply__radishing"
+    fullname: >-
+      caroline 💫🌿
+    bio: >-
+      health | fitness | travel | lifestyle ☀️ Miami yoga teacher, trainer & law student
     location: "United States"
-    followers: 185698
-    engagement: 135
-    commentsToLikes: 0.009566
-    id: ck0u88i936ql80i19hmna0zb9
+    followers: 14099
+    engagement: 231
+    commentsToLikes: 0.125041
+    id: ckmw1chbq6awp0j23mf1tl2w3
     verified: false
-    hashtags: "#yogalife, #yogajourney, #yogapose, #yogastrong"
-  - username: "willowpixie"
+    hashtags: "#coldest, #ad, #giveaway, #sponsored"
+  - username: "yogawithbrittney"
     fullname: >-
-      WILLOW ⋒ Content Creator
+      Brittney | Movement & Wellness
     bio: >-
-      💍Silly in love with @benkonation 🌸dreamy pink vibes always LIFESTYLE ✖️ TRAVEL ✖️ YOGA ( RYT200) 📍#PNW 💌 willowpixieblog@gmail.com MY PRESETS+BLOG👇🏼
+      Lots of yoga and handstands 🤸🏼‍♀️ Wellness tips 🥰 YOU CAN HEAL My yoga program ➡️ #strongandflexi 🧘‍♀️
     location: "United States"
-    followers: 7999
-    engagement: 1493
-    commentsToLikes: 0.091581
-    id: ck55mmf8549wb0i1167sozhej
+    followers: 10140
+    engagement: 193
+    commentsToLikes: 0.172954
+    id: ckrzelrpul3ts0j23r6xodqmc
     verified: false
-    hashtags: "#bts, #covidwedding"
-  - username: "siledona"
-    fullname: >-
-      Sile
-    bio: >-
-      Beauty is everywhere🦋 Happily married dentist💉 ❤️Travel/Fashion/Yoga/🐈 #siledona #silestyle ✒️🇬🇧🇷🇺🇮🇹🇱🇹 • 📩siledona7@gmail.com •
-    location: "Italy"
-    followers: 16797
-    engagement: 1036
-    commentsToLikes: 0.549106
-    id: ck13byiddxrgy0i1987nbvc01
-    verified: false
-    hashtags: "#mood, #siledona, #happyevening, #ciaociao"
-  - username: "inesbeautypl"
-    fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
-    bio: >-
-      𝓐𝓰𝓮41|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
-    location: "Poland"
-    followers: 36614
-    engagement: 763
-    commentsToLikes: 0.851104
-    id: ck8tdgwnv399r0j78scov01sy
-    verified: false
-    hashtags: "#niechsiedziejenajlepiej, #pozytywnabzdurka, #ialreadysawoso"
-  - username: "babysmokes_"
-    fullname: >-
-      | B A B Y |
-    bio: >-
-      NO H8🚫❤️ YogaDabber🧘🏼‍♀️😽💨 Cannabis Consumption ; Edibles🌱 Open 🧠| Creative 💭| Big ♥️|➰ Cannabis x Makeup🥀 TWT👇🏼
-    location: "United States"
-    followers: 5778
-    engagement: 1771
-    commentsToLikes: 0.183972
-    id: ck6uh0fxu69bs0j712opan5fr
-    verified: false
-    hashtags: "#cannababes, #girlswhosmoke, #michiganmeds, #beyourownhappy"
+    hashtags: "#chronicwellness, #tsw, #wolvenatheart, #moldillness"
 ---

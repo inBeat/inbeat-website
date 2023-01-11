@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Switzerland In 2022
+title: Top 10 Christian Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top christian Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #schweiz #zurich #travel.
+  Find top christian Instagram influencers in Switzerland in 2023. Most popular hashtags: #travel #italy #photooftheday.
 platform: Instagram
-hits: 43
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 43 Instagram influencers like this in Switzerland for you to collaborate.
+hits: 34
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 34 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "christian_huembs"
+  - username: "ballettzuerich"
     fullname: >-
-      Christian Hümbs
+      Ballett Zürich
     bio: >-
-      #patisserie
+      Official account of #ballettzuerich 📺 Sat 27 Feb «Impulse» live from @theaterwinterthur at 7.30pm ❄️ watch «Winterreise» online: opernhaus.ch/digital
     location: "Switzerland"
-    followers: 60929
-    engagement: 547
-    commentsToLikes: 0.072558
-    id: ck136ihxr6nai0i19jcaj5ugm
-    verified: true
-    hashtags: "#foodporn, #kreativ, #love, #thankful"
+    followers: 28864
+    engagement: 358
+    commentsToLikes: 0.012431
+    id: ck5ck2x9cw0sk0i11h4tty4gw
+    verified: false
+    hashtags: "#christianspuck, #julianonunes, #bryanarias, #dance"
   - username: "catholicnewsagency"
     fullname: >-
       Catholic News Agency
     bio: >-
-      Swiss guards and Pope pics, Bless the Lord. 🙏🏽 #PopeFrancis #Vatican #Catholicism
+      The Catholic news you need to know #Catholic #Pope
     location: "Switzerland"
-    followers: 354695
-    engagement: 286
-    commentsToLikes: 0.014353
+    followers: 384910
+    engagement: 187
+    commentsToLikes: 0.018928
     id: ck6tmhi7l7uwk0j71seqdpv6o
     verified: true
-    hashtags: "#italia, #urbietorbi, #100thanniversary, #christian"
-  - username: "ballettzuerich"
-    fullname: >-
-      Ballett Zürich
-    bio: >-
-      Official Instagram account of #ballettzuerich • See you soon! • Join us for free online streaming: opernhaus.ch/streaming!
-    location: "Switzerland"
-    followers: 25769
-    engagement: 219
-    commentsToLikes: 0.024982
-    id: ck5ck2x9cw0sk0i11h4tty4gw
-    verified: false
-    hashtags: "#ballettzuerich, #streaming, #online, #giuseppeverdi"
+    hashtags: "#vatican, #hope, #vaticancity, #jpii"
   - username: "svenepiney"
     fullname: >-
       Sven Epiney
     bio: >-
       Swiss TV-Radio-Host SRF EVENTMODERATOR Booking: mail@svenepiney.ch Infos: www.svenepiney.ch Facebook: @svenepiney #svenepiney #svenepineykuchen
     location: "Switzerland"
-    followers: 18087
-    engagement: 587
-    commentsToLikes: 0.024580
+    followers: 18444
+    engagement: 624
+    commentsToLikes: 0.030045
     id: ck6trm9lqzsyh0j71s36ia5g0
     verified: true
-    hashtags: "#bern, #boot, #man, #weekend"
-  - username: "kathrin_glauninger"
+    hashtags: "#schweiz, #love, #liebe, #tv"
+  - username: "andrea_guttyy"
     fullname: >-
-      Kathrin Glauninger
+      Andrea_Guttyy🌹🌹
     bio: >-
-      𝐟𝐨𝐮𝐧𝐝𝐞𝐫 @picbe_ & @bodyform_8wp 𝐊𝐨𝐬𝐭𝐞𝐧𝐥𝐨𝐬𝐞𝐫 𝟒- 𝐭𝐞𝐢𝐥𝐢𝐠𝐞𝐫 𝐨𝐧𝐥𝐢𝐧𝐞 𝐊𝐮𝐫𝐬 📲 👇🏼
+      #travel #mode #collaboration #influencer #voyage #beautifuldestinations
     location: "Switzerland"
-    followers: 26954
-    engagement: 481
-    commentsToLikes: 0.109749
-    id: ck6u4ahfg2mpq0j71upt9eenz
+    followers: 118637
+    engagement: 123
+    commentsToLikes: 0.026638
+    id: ckap5fp36bgxr0i78w7so5ckh
     verified: false
-    hashtags: "#dreambig, #thepicbesbestoutfit2020, #picbe, #mamablogger"
+    hashtags: "#photooftheday, #cannes, #suisse, #brasil"
+  - username: "kristin.atzeni"
+    fullname: >-
+      Kristin Atzeni
+    bio: >-
+      • passionated cyclist living in Switzerland 🚵🏼‍♀️ ✉︎ contact: hallo@routestudio.ch
+    location: "Switzerland"
+    followers: 109673
+    engagement: 156
+    commentsToLikes: 0.008566
+    id: ck0vz3cye73640i19fb5rnuzf
+    verified: false
+    hashtags: "#meridareacto, #cyclingswitzerland, #happycyling, #lunchbreak"
   - username: "mk7r_couple"
     fullname: >-
       Jessi & Tobi
     bio: >-
-      👫🚘👫 Jessica, 23, Zurich,🇨🇭 ➡️ @misanthrop_ MK7 R360S Deep Black Tobias, 29, Zurich,🇩🇪 MK7 R Oryx White/Matte Brown Metallic @integrated_engineering
+      👫🚘👫 Jessica, 24, Zurich,🇨🇭 ➡️ @misanthrop_ MK7 R360S Deep Black Tobias, 29, Zurich,🇩🇪 MK7 R Oryx White/Matte Brown Metallic @integrated_engineering
     location: "Switzerland"
-    followers: 11629
-    engagement: 838
-    commentsToLikes: 0.190409
+    followers: 13878
+    engagement: 919
+    commentsToLikes: 0.151585
     id: ck8t8o7mul3zo0j78vso071yx
     verified: false
-    hashtags: "#golf7, #itswhitenoise, #vehicle, #7r"
-  - username: "_fichtre"
+    hashtags: "#carphotography, #blacklist, #carbonfibre, #carswithoutlimits"
+  - username: "cyrillmatter"
     fullname: >-
-      FICHTRE !
+      Cyrill Matter
     bio: >-
-      Mathias Forbach Visual artist, Illustrator & teacher based in Switzerland #fichtre 👇🏽
+      📷 Photographer 🇨🇭 Zurich based ✨Represented by @rene.hauser #cyrillmatter
     location: "Switzerland"
-    followers: 6298
-    engagement: 705
-    commentsToLikes: 0.075336
-    id: ck5qdm4syw9420i117jyegptx
+    followers: 15984
+    engagement: 194
+    commentsToLikes: 0.026892
+    id: ck0u9nxo2aawb0i19bnju7blz
     verified: false
-    hashtags: "#creatives, #picame, #artjournal, #dessin"
-  - username: "romanosalis"
+    hashtags: "#graphic, #vintageclothes, #editorialmagazine, #portraitfolk"
+  - username: "maxibmaxib"
     fullname: >-
-      Romano Salis
+      MAXI B
     bio: >-
-      Stills and motion •🇨🇭Mountainguide • Ʌrc‘teryx
+      •☝🏻 #𝗺𝗮𝘅𝗶𝗯 • 📻 𝗦𝗽𝗲𝗮𝗸𝗲𝗿/𝗗𝗝 𝗥𝗮𝗱𝗶𝗼𝟯𝗶 • 📍𝗧𝗶𝗰𝗶𝗻𝗼 𝗦𝘃𝗶𝘇𝘇𝗲𝗿𝗮 • ⬇️ seguimi su TIKTOK ⬇️
     location: "Switzerland"
-    followers: 9962
-    engagement: 1043
-    commentsToLikes: 0.015198
-    id: ck6tuhbqmgcda0j71zpwt3qw6
+    followers: 15631
+    engagement: 498
+    commentsToLikes: 0.208798
+    id: ck5px88z6ql540i11dbreb5rk
     verified: false
-    hashtags: "#home, #switzerland, #bregaglia, #sunrise"
-  - username: "margaretdallospedale"
+    hashtags: "#morgan, #sanvalentino2021, #maxib"
+  - username: "maurocaviezel"
     fullname: >-
-      Margaret Dallospedale (Maggie)
+      Mauro Caviezel
     bio: >-
-      Since 2010📍🇮🇹 Born in 🇺🇸 with roots 🇮🇹🇻🇪 Economist Beauty lover Travel agent #heartsplaces Shein:Q4margaret/D2dallospedaleIT collabs@indiansavage.com
+      Skier🇨🇭
     location: "Switzerland"
-    followers: 205291
-    engagement: 141
-    commentsToLikes: 0.055148
-    id: ckap8hez0obc50i786kmn905x
+    followers: 39747
+    engagement: 1569
+    commentsToLikes: 0.011359
+    id: ck5q8cx4w5jtm0i117c327tn5
     verified: false
-    hashtags: "#instagood, #fashion, #schweiz, #heartsplaces"
-  - username: "nico.mueller51"
+    hashtags: "#weareskiing, #swissflexeyewear, #stepbystep, #moyglarestud"
+  - username: "guilhemlacaze"
     fullname: >-
-      Nico Mueller
+      Guilhem Lacaze
     bio: >-
-      🇨🇭 AUDI factory driver, DTM with ABT Sportsline 🔥 🥈 overall DTM ‘19 🏆 24h Nürburgring Winner Formula E with Geox Dragon ⚡️ LOVING LIFE ❤️🙌🏻
+      Professional #sockdoper Coffee racer at Alltricks X Mercedes Domestique de Luxe for Pro #Triathletes - Life is too short Don’t waste it reading my bio
     location: "Switzerland"
-    followers: 45457
-    engagement: 396
-    commentsToLikes: 0.007057
-    id: ck0uefpf4l8wm0i197lqyrnte
-    verified: true
-    hashtags: "#audisport, #granturismo, #nm51, #playstation"
+    followers: 30637
+    engagement: 230
+    commentsToLikes: 0.025339
+    id: ck5heicwgt1yz0i11qid14fu8
+    verified: false
+    hashtags: "#cyclinglife, #whyiride, #thisweekoninstagram, #lifebehindbars"
 ---

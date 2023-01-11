@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Austria In 2022
+title: Top 10 Stylists Instagram Influencers In Austria In 2023
 description: >-
-  Find top stylists Instagram influencers in Austria in 2022. Most popular hashtags: #fashion #fashionblogger #ootd #styling.
+  Find top stylists Instagram influencers in Austria in 2023. Most popular hashtags: #fashion #fashionblogger #stylish #vienna.
 platform: Instagram
-hits: 29
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 29 Instagram influencers like this in Austria for you to connect with.
+hits: 19
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 19 Instagram influencers like this in Austria for you to pitch.
 profiles:
-  - username: "danielaguti.the"
-    fullname: >-
-      Content Creator | Vienna
-    bio: >-
-      Daniela Guti: ▪️ Artist 🖌️ ▪️ Content creator ▪️ Your personal stylist
-    location: "Austria"
-    followers: 23247
-    engagement: 371
-    commentsToLikes: 0.232543
-    id: ck13b16cbt6lt0i19glzrw1yb
-    verified: false
-    hashtags: "#fashionblogger, #vintage, #retro, #paris"
   - username: "melanie.zehner"
     fullname: >-
-      Model | Travel | Styling
+      Model | Stylist
     bio: >-
-      📸 Professional Model & Hair-Stylist 📩DM for bookings 🌍Austrian 👩🏼 living in Switzerland🇨🇭& Mallorca Ambassador:@codezerosportswear-10% code: melanie10
+      Professional Model & Master Stylist Content Creator📸 🌱Vegan Food 📍Based in 🇨🇭 born in 🇦🇹 Next✈️: Balearen Trip For cooperations and bookings DM me😘
     location: "Austria"
-    followers: 10936
-    engagement: 814
-    commentsToLikes: 0.104672
+    followers: 11298
+    engagement: 661
+    commentsToLikes: 0.101776
     id: ck14kfzsypc600i194gkksqo4
     verified: false
-    hashtags: "#photomodelspain, #oiasantorini, #mindset, #followme"
-  - username: "kats_looks"
-    fullname: >-
-      𝐊𝐀𝐓𝐑𝐈𝐍
-    bio: >-
-      𝐌𝐘 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄 • 𝐌𝐘 𝐒𝐓𝐘𝐋𝐄 • 𝐌𝐘 𝐈𝐃𝐄𝐍𝐃𝐈𝐓𝐘 👗 𝗌𝗁𝖺𝗋𝗂𝗇𝗀 𝗆𝗒 𝗌𝗍𝗒𝗅𝖾 🛍 𝗉𝖾𝗋𝗌𝗈𝗇𝖺𝗅 𝗌𝗁𝗈𝗉𝗉𝖾𝗋 🇦🇹 𝗅𝗂𝗏𝗂𝗇𝗀 𝗂𝗇 𝖠𝗎𝗌𝗍𝗋𝗂𝖺 💍 𝗁𝖺𝗉𝗉𝗂𝗅𝗒 𝗆𝖺𝗋𝗋𝗂𝖾𝖽 𝖺𝗇𝖽 𝗆𝗎𝗆 𝗈𝖿 𝟥 🐾 𝖼𝖺𝗍𝗅𝗈𝗏𝖾𝗋
-    location: "Austria"
-    followers: 2574
-    engagement: 844
-    commentsToLikes: 0.075942
-    id: ckf5vlutxp1i20j23jhahlcnv
-    verified: false
-    hashtags: "#wiwt, #mystyle, #whatiwear, #personalstylist"
+    hashtags: "#fashion, #swissmodel, #fashionweek, #influencermarketing"
   - username: "lionheaded"
     fullname: >-
       raffael payr
     bio: >-
       / soft male attitude based in vienna creative director & videographer @unleashedstudio.at
     location: "Austria"
-    followers: 73915
-    engagement: 103
-    commentsToLikes: 0.025689
+    followers: 73169
+    engagement: 107
+    commentsToLikes: 0.023583
     id: ck14gmavg5xb60i19eqje0u50
     verified: false
-    hashtags: "#vividvisualvisions, #rochas, #interior, #casualelegance"
+    hashtags: "#softcorestyle, #easyluxury, #design, #phipps"
   - username: "josvoyage"
     fullname: >-
       Jovana Hiesmayr • Jo’s Voyage
     bio: >-
       •Life coach & Spiritual friend •Co-Founder of Dual Therapy •Master in Natural Science •Online Coaching #1 BESTSELLER “Upomoć,prijateljice”📕📚
     location: "Austria"
-    followers: 35128
-    engagement: 128
-    commentsToLikes: 0.063738
+    followers: 35314
+    engagement: 129
+    commentsToLikes: 0.101060
     id: ck6u349i9vm7e0j71s9qyzhwj
     verified: false
-    hashtags: "#superattractor, #edukacija, #motivationalquotes, #lifecoaching"
-  - username: "karolinakopincova"
+    hashtags: "#veze, #emotivniodnosi, #coaching, #tansformacija"
+  - username: "rieberermelanie"
     fullname: >-
-      MISS WORLD CZECH REPUBLIC 2020
+      RIEBERER Hair & Make Up
     bio: >-
-      Karolína Kopíncová @missczechrepublic 2020 💌Spolupráce, booking: karolina.kopincova@missczechrep.cz
+      📍Vienna/berlin🏙️ 📍Bavaria/tyrol 🏔️
     location: "Austria"
-    followers: 20953
-    engagement: 317
-    commentsToLikes: 0.042767
-    id: ck8szyzozq9ga0j78wn2k54rg
+    followers: 7367
+    engagement: 500
+    commentsToLikes: 0.036341
+    id: ck0u0wewjv2950i19tzk632lw
     verified: false
-    hashtags: "#wittytrade, #editorialshooting, #jemniste, #ceskarepublika"
-  - username: "sabalenka_aryna"
+    hashtags: "#colour, #photosphotoshoot, #editorialshoots, #hairstylist"
+  - username: "olesyaparfenyuk"
     fullname: >-
-      𝗔𝗥𝗬𝗡𝗔 𝗦𝗔𝗕𝗔𝗟𝗘𝗡𝗞𝗔 🐯
+      Olesya Parfenyuk
     bio: >-
-      P͙R͙O͙ T͙E͙N͙N͙I͙S͙ P͙L͙A͙Y͙E͙R͙ 💎 ᖴIᘜᕼT ᖴOᖇ YOᑌᖇ ᗪᖇᗴᗩᗰᔕ💎 (•̀ᴗ•́)و(•̀ᴗ•́)و(•̀ᴗ•́)و
+      Visual Artist based in Vienna explorer & collector of old and odd art student at @dieangewandte DM for inquiries / collabs / prints
     location: "Austria"
-    followers: 158177
-    engagement: 797
-    commentsToLikes: 0.037208
-    id: ck0u6yw0v3cdo0i19trq0qpfj
-    verified: true
-    hashtags: ""
-  - username: "_mathewtheone_"
+    followers: 32071
+    engagement: 232
+    commentsToLikes: 0.014105
+    id: ck0w2ao7snel30i192vwsf41r
+    verified: false
+    hashtags: "#genderfluidfashion, #editorialstylist, #mensfashion, #fpcha"
+  - username: "onin9_"
     fullname: >-
       The One
     bio: >-
-      I see art with other eyes✨ Trying to create something new🔬 Be the change 🔮 | Currently in Vienna 📍
+      @ven.uci Nevaland forever 🧚🏾‍♀️ Business/beats/bookings : nevalandforever@gmail.com
     location: "Austria"
-    followers: 9538
-    engagement: 835
-    commentsToLikes: 0.029871
+    followers: 9187
+    engagement: 944
+    commentsToLikes: 0.036126
     id: ck0w4345gwkhq0i199n114040
     verified: false
-    hashtags: "#mcmworldwide, #myclosetmonday, #mcmxmidnight, #horiznstudios"
-  - username: "bgirlmadmax"
+    hashtags: "#viennaonthemap, #horiznstudios, #letsgofurther, #horiznid"
+  - username: "bitsandbobsbyeva"
     fullname: >-
-      Maxime aka bgirl madmax
+      𝐄𝐯𝐚 // 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐁𝐥𝐨𝐠 𝐚𝐮𝐬 𝐋𝐢𝐧𝐳
     bio: >-
-      🏆Pro Bgirl Champion 🦅 Sponsored by @dstry_99 🕶 Sponsored by @on__view 🚀 Supported by @redbullbe 🧙‍♀️ Street wizards
+      blogger & digital content creator💭 ⇢ based in Austria | Linz 🌿 #goodvibesonly 🐣 dieses Profil enthält Werbung 💻 Stylische Loungewear ↓
     location: "Austria"
-    followers: 19555
-    engagement: 1189
-    commentsToLikes: 0.026815
-    id: ckapamef7wote0i78hu383km5
+    followers: 37562
+    engagement: 335
+    commentsToLikes: 0.016336
+    id: ckapax275xsi20i78vfa56e5a
     verified: false
-    hashtags: "#bgirl, #theskyisnotthelimit, #redbullbcone, #excited"
+    hashtags: "#desenio, #mairaa, #cantwaitforspring, #christmasgifts"
   - username: "retegan.denisa"
     fullname: >-
-      Denisa Retegan
+      Denisa
     bio: >-
-      Vienna 📍| Romanian Law student ⚖️ It’s either black or white - there‘s no in between.
+      Stay pretty, be educated, dress well. based in Vienna inquiries: retegandenisa@gmail.com
     location: "Austria"
-    followers: 50526
-    engagement: 477
-    commentsToLikes: 0.030154
+    followers: 110633
+    engagement: 879
+    commentsToLikes: 0.030749
     id: ck13bwlevxhn40i190ehwdmbw
     verified: false
-    hashtags: "#instafashion, #city, #wien, #instasyle"
+    hashtags: "#womanslook, #spain, #streetstyle, #bigcitylife"
+  - username: "avramov.zoran"
+    fullname: >-
+      ZORAN AVRAMOVIC
+    bio: >-
+      Vienna 🌏 #streetstyle #menfashion #fitness @smilodox -10% „Zoran10“ ❗️
+    location: "Austria"
+    followers: 162321
+    engagement: 239
+    commentsToLikes: 0.043819
+    id: ck5bw3bemkwzn0i1166i6nno2
+    verified: false
+    hashtags: "#dappermen, #suitup, #mensweardaily, #fashiongram"
+  - username: "katarinin_obesalnik"
+    fullname: >-
+      Katarina Benček | style inspo
+    bio: >-
+      - doza stila - ciscenje omare vsake toliko - travel profile @katarina_bencek
+    location: "Austria"
+    followers: 12315
+    engagement: 372
+    commentsToLikes: 0.022864
+    id: ck0w3tkozv7770i19dz0n7tn3
+    verified: false
+    hashtags: "#styleinspo, #styleoftheday, #dubailife, #stylish"
 ---

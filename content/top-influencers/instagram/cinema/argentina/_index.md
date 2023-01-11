@@ -1,96 +1,84 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Argentina In 2022
+title: Top 10 Cinema Instagram Influencers In Argentina In 2023
 description: >-
-  Find top cinema Instagram influencers in Argentina in 2022. Most popular hashtags: #cuarentena #quedateencasa #art.
+  Find top cinema Instagram influencers in Argentina in 2023. Most popular hashtags: #cine #cinema #cumplea #makeup.
 platform: Instagram
-hits: 81
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 81 Instagram influencers like this in Argentina for you to work with.
+hits: 112
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 112 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "fiosargenti"
-    fullname: >-
-      Fio Sargenti
-    bio: >-
-      Fueguina. Periodista. 📻 @SensacionalExito en @metro951 📺 @cinemarkhoyts 🎙 @postafm y @filmejuntoalpueblo
-    location: "Argentina"
-    followers: 58602
-    engagement: 246
-    commentsToLikes: 0.046238
-    id: ck139i2g9lev90i19fe0ofheb
-    verified: true
-    hashtags: "#nos4a2, #eld, #esunatrampa, #levanta"
-  - username: "faccubulacio"
-    fullname: >-
-      F a 🎬 u
-    bio: >-
-      Cinematographer 🎥🎬 Wild Photography 📷🔥 Director y Productor en @unrealcreative Argentino 🇦🇷🌎🇲🇽
-    location: "Argentina"
-    followers: 16899
-    engagement: 343
-    commentsToLikes: 0.013375
-    id: ck6udu9yon6930j71qanxuyqo
-    verified: false
-    hashtags: "#caribbeanlifestyle, #curvs, #sonya7iii, #beautiful"
   - username: "alexispuig"
     fullname: >-
       Alexis Puig
     bio: >-
       Columnista de @telenueve Conductor de #CulturaPop en @popradio1015 y #Cinetec Host de @cinemarkhoyts editor de En Cartel en @infobae #Cine #Series 🍿
     location: "Argentina"
-    followers: 37293
-    engagement: 176
-    commentsToLikes: 0.103488
+    followers: 46781
+    engagement: 145
+    commentsToLikes: 0.072065
     id: ck1353kxwzixq0i19pgoji42f
     verified: false
-    hashtags: "#cuarentena, #retarde, #joker, #quedateencasa"
-  - username: "alepetra_"
+    hashtags: "#culturapop, #wandavision, #marvel, #mcu"
+  - username: "itziarcastro"
     fullname: >-
-      ALE PETRA / Art of Visuals
+      Itziar Castro
     bio: >-
-      🛸 Cinematic FPV Drone Pilot (ANAC) 📽 Código de descuento ALESONY - Sony.com.ar ⚡CUADROS + PRESETS⚡
+      Actress & Singer, sometimes Director, Producer, Writer, Poet, MC...Theatre, TV, Cinema, Musicals, Cab Burlesque, Circus... @bedelkatalent
     location: "Argentina"
-    followers: 54286
-    engagement: 508
-    commentsToLikes: 0.038028
-    id: ck0ueh3salftm0i19oxrxa3md
-    verified: false
-    hashtags: "#equinox, #atpc, #quedateencasa, #yomequedoencasa"
-  - username: "zumayacordero"
+    followers: 460988
+    engagement: 110
+    commentsToLikes: 0.027282
+    id: ck55pu4zbbdsi0i11p1235bye
+    verified: true
+    hashtags: "#cumplea, #itziarcastro, #visavis, #culturasegura"
+  - username: "punisheriv"
     fullname: >-
-      Zumaya Cordero
+      Mariano Latapi Di Carlo
     bio: >-
-      📍Cuenta profesional 🎥 Executive Producer: Que León-Leones-NELQP-Los Reyes 🍿Caribbean Cinemas 🔐Cta personal:@zumatron_cordero LinkedIn Zumaya Cordero
+      To all the Mavericks. Un nuevo episodio de @lostimepilots todos los jueves en @youtube y @spotifymx. Totopista en @cinematotopo.
     location: "Argentina"
-    followers: 28378
-    engagement: 129
-    commentsToLikes: 0.056270
-    id: ck5hkv97oj3ei0i112cmuto41
+    followers: 10806
+    engagement: 986
+    commentsToLikes: 0.016020
+    id: ck6tzbaqh8p4d0j7159uoh90p
     verified: false
-    hashtags: "#zumatron, #condios, #positivevibes, #caribbeanfilms"
-  - username: "bangalter_cosplay"
+    hashtags: "#maythe4thbewithyou, #poweryourdreams, #xboxseriesx, #xboxseriess"
+  - username: "veronicaortizll"
+    fullname: >-
+      Verónica Ortiz La Loggia
+    bio: >-
+      #Actress #Producer Licenciada en Artes 👩‍🎓 #UCV Mención Cine🎬 #Cinematography #radiohost 🎬🎤 💙 #changingdiabetes 📍MADRID 🇻🇪🇮🇹🇪🇸🇩🇪
+    location: "Argentina"
+    followers: 8357
+    engagement: 523
+    commentsToLikes: 0.097157
+    id: ckaotucg2xk4h0i78qo522bsi
+    verified: false
+    hashtags: "#tbt, #repost, #fotorecuerdo, #taorminasicily"
+  - username: "bangalter_artist"
     fullname: >-
       Sabrina  Bangalter
     bio: >-
-      ARGENTINA 🇦🇷 Actress, shapeshifter, self taught make-up artist, International Cosplayer🎭 Movies, everything about cinema. TikTok: sabrinabangalter
+      CHACO, ARGENTINA 🇦🇷 Makeup artist, shapeshifter, actress, International Cosplayer🎭 Movies, everything about cinema. Loki makeup tutorial 👇
     location: "Argentina"
-    followers: 10101
-    engagement: 483
-    commentsToLikes: 0.042121
+    followers: 10258
+    engagement: 275
+    commentsToLikes: 0.039919
     id: ck0u7r1fk5l3q0i19wxnsi680
     verified: false
-    hashtags: "#cosplayersofinstagram, #toddphillips, #sfxmakeup, #finnwolfhard"
+    hashtags: "#picoftheday, #strangerthings, #artist, #makeupideas"
   - username: "premiosfenix"
     fullname: >-
       Premios Fénix
     bio: >-
       Premiación al cine y a las series realizadas en América Latina, España y Portugal. Organizado por @Cinema23oficial #PremiosFénix #MásQueUnPremio
     location: "Argentina"
-    followers: 17954
-    engagement: 213
-    commentsToLikes: 0.052285
+    followers: 17057
+    engagement: 70
+    commentsToLikes: 0.017737
     id: ck5zo6kg8pvhq0i14xx4sw6b2
     verified: false
-    hashtags: "#25n, #noestamosenguerra, #chilehoy, #noalautogolpe"
+    hashtags: "#vivaslasqueremos, #noestassola, #chilehoy, #ficunam10"
   - username: "cinemania.es"
     fullname: >-
       CINEMANÍA
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.020438
     id: ck14k01r6n1cd0i19dxvvf5m8
     verified: true
-    hashtags: "#batman, #dvd, #4kuhd, #starwars"
+    hashtags: "#robertpattinson, #edici, #1917, #batman"
   - username: "gaslorenzo"
     fullname: >-
       GASTÓN LORENZO
     bio: >-
       🎭 Actor 🕺🏽 Bailarín 👯‍♀️ Coreógrafo 🥊 Doble de riesgo 🌍💚 Aportando mi granito con @agranel.cido ♻️
     location: "Argentina"
-    followers: 26794
-    engagement: 191
-    commentsToLikes: 0.136447
+    followers: 25930
+    engagement: 204
+    commentsToLikes: 0.143108
     id: ck5zjhugshmcr0i141akgeu1g
     verified: false
-    hashtags: "#mequedoencasa, #actores, #arte, #casting"
-  - username: "tahimialvarinoveloz"
+    hashtags: "#cultura, #tv, #cuarentenacreativa, #bailarines"
+  - username: "closed_carles.ch"
     fullname: >-
-      Tahimi Alvariño Veloz 🧿🕉☮️☪️
+      Nueva cuenta 👉🏼 @carles.ch_
     bio: >-
-      Actriz, presentadora .Cubana 🌻
+      ⚠️Cuenta cerrada⚠️ 👇🏼👇🏼👇🏼 Sígueme en @carles.ch_ 👆🏼👆🏼👆🏼
     location: "Argentina"
-    followers: 51723
-    engagement: 551
-    commentsToLikes: 0.039913
-    id: ck0vyvybh61s40i19gq3h752h
+    followers: 4490
+    engagement: 936
+    commentsToLikes: 0.100471
+    id: ck6tmdflr7n140j71hjlr75db
     verified: false
-    hashtags: "#actricescubanas, #cinecubano, #latina, #in"
+    hashtags: "#marcosalbercaencasa, #pr0ject, #igpodium, #yeyophotos"
+  - username: "nazarenomakeup"
+    fullname: >-
+      Matias Nazareno
+    bio: >-
+      Nazareno y el Lobo Makeup Artist en Miss Universe 2011 Artista plástico Instructor en @muamakeupartstudio y @dockonce @kryolanargentina
+    location: "Argentina"
+    followers: 28805
+    engagement: 258
+    commentsToLikes: 0.075445
+    id: ck0w34hnprkee0i19stqu8s69
+    verified: false
+    hashtags: "#halloween, #phoshoot, #dragqueen, #terror"
 ---

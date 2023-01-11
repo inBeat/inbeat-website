@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Ukraine In 2022
+title: Top 10 Vegan Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top vegan Instagram influencers in Ukraine in 2022. Most popular hashtags: #girls #foodphotography #vegan.
+  Find top vegan Instagram influencers in Ukraine in 2023. Most popular hashtags: #love #valentines #vegan.
 platform: Instagram
-hits: 14
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 14 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 10
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 10 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "marinazakutnyaya"
-    fullname: >-
-      Marina Zakutnyaya ☀ Model
-    bio: >-
-      📍Ukraine Kiev ❤️ /vegan🌱❗️ambassador for @marsego_lovesyou @cupshe НЕ знакомлюсь 📌 ✉ collaboration direct
-    location: "Ukraine"
-    followers: 117228
-    engagement: 143
-    commentsToLikes: 0.029617
-    id: ck5znp2b6ovw70i14gsfeco6c
-    verified: false
-    hashtags: "#loveyougirls, #phuket, #tailand"
-  - username: "joinerdennis"
-    fullname: >-
-      Денис Столяров
-    bio: >-
-      ㊙️ Ride BMX since 2008 🥗 Vegan power ⚙️ Support & friends: @enjoy_bmxstore
-    location: "Ukraine"
-    followers: 16614
-    engagement: 1118
-    commentsToLikes: 0.040477
-    id: ckap7mqezknut0i78pgc1hk5p
-    verified: false
-    hashtags: "#bmx, #bigtoysshop, #sectacrewbmx"
   - username: "nataliegioia"
     fullname: >-
       Natalie Gioia Official 🎤🎧
     bio: >-
-      📌Singer, Songwriter, DJ, Vegan 📌Signed on: Spinnin,Armada, Black Hole, Kontor (Warner) 👇“Euphoria ”w/ @dj_t_h
+      📌Singer, Songwriter, DJ, Vegan 📌Signed on: Spinnin,Armada, Black Hole, Kontor (Warner)
     location: "Ukraine"
-    followers: 22954
-    engagement: 231
-    commentsToLikes: 0.080019
+    followers: 23873
+    engagement: 321
+    commentsToLikes: 0.064451
     id: ckap8ts78pumu0i78kypnsrcq
     verified: false
     hashtags: ""
-  - username: "totallyblond"
+  - username: "joinerdennis"
     fullname: >-
-      Liza Krasnova | Blogger | Kiev
+      Денис Столяров
     bio: >-
-      💋 Beautiful blogger :) 📬 Сотрудничество lizka@totallyblond.com 🎥 YouTube.com/user/Totallyblondcom (120+k) New video👇🏻
+      ㊙️ BMX rider since 2008 🥗 Vegan, blogger, PC Gamer ⚙️ Support & friends: @enjoy_bmxstore 📡 Найбільший україномовний BMX канал ⤵️ Perfluence
     location: "Ukraine"
-    followers: 123007
-    engagement: 129
-    commentsToLikes: 0.202718
-    id: ck0twglxpfabu0i19hiycf2zs
+    followers: 15318
+    engagement: 1251
+    commentsToLikes: 0.036202
+    id: ckap7mqezknut0i78pgc1hk5p
     verified: false
-    hashtags: "#makeup, #elan, #facechart, #recycle"
-  - username: "stankevych.elena"
+    hashtags: ""
+  - username: "lanaato"
     fullname: >-
-      Офицер Пупсик • Veggie • Эко
+      SLEEPLESS MAMA ON THE RUN ®
     bio: >-
-      🌿 Перешла на растительное питание 🍖 Жизнь с мясоедом 🤪 ♻️ ЭКО 🥙 Готовлю в Stories 🔎 Обзор заведений и продуктов
+      Lana Ato 🇺🇦 It’s H•A•P•P•Y here 💚 📸 Content creator. Kids whisperer 👯 Vegan parenting ♥️ Ukrainian + Nigerian family⠀⠀⠀⠀⠀⠀ 📧 svitlanaato@gmail.com
     location: "Ukraine"
-    followers: 14899
-    engagement: 307
-    commentsToLikes: 0.062966
-    id: ck9we3z7fih9v0j784pzm17j0
+    followers: 108544
+    engagement: 40
+    commentsToLikes: 0.298838
+    id: ck15qhmp12vtw0i195tjzgrvy
     verified: false
-    hashtags: "#outfitlook, #fashionblogger, #prettylittleiiinspo, #vegeterian"
-  - username: "valeri_666666"
+    hashtags: "#texasblogger, #kidsootd, #homedecorinspo, #homedecorideas"
+  - username: "thumbelinnat"
     fullname: >-
-      
+      Natasha 🍓
     bio: >-
-      Блогер из Одессы😉 Moto lady 🏍 По поводу рекламы, сотрудничества, фотосессий, пишите в direct 🤝
+      she/her Handpoke tattoo🧸🌸✨ Moscow Novosibirsk - March 12-14 🏳️‍🌈 friendly, 🌱vegan friendly DO NOT COPY❌ 18+ twitter - thumbelinnat Dm for booking 💌
     location: "Ukraine"
-    followers: 58881
-    engagement: 350
-    commentsToLikes: 0.009882
-    id: ck5ce5mibkdaq0i11pxev1v6b
+    followers: 20057
+    engagement: 368
+    commentsToLikes: 0.001965
+    id: ck0u12zsuvmdx0i199nhvcz0t
     verified: false
-    hashtags: "#couplegoals, #girls, #tattoo, #girl"
-  - username: "kiro.wang"
+    hashtags: "#tattoo, #handpoke, #cutetattoo, #handpoketattoo"
+  - username: "disney_landia"
     fullname: >-
-      FULL VIDEO🔥PHOTO PRODUCTION
+      ᗩᒪᐯI
     bio: >-
-      Co-founder: @krasivoprod Created 300+ individual projects 😈 Art director | Director | Photographer 10 years of shooting 🔥
+      ✨ тнє ωσяℓ∂ αѕ ι ѕєє ιт✨ C̤̈ɑӀι ցï̤яℓ 💁🏻ωιтн α Dï̤ѕиєу Թαѕѕ 💳 💫му нαղց συт ѕρσт нαѕ α cɑs̤̈тℓє ɑղ∂ c̤̈հυяяσѕ 📸𝕀 𝕥𝕒𝕜𝕖 𝕡𝕚𝕔𝕤 𝕠𝕗 𝕤𝕥𝕦𝕗𝕗 I 𝕕𝕠 🎬 TikTok 👇🏼
     location: "Ukraine"
-    followers: 6958
-    engagement: 589
-    commentsToLikes: 0.076249
-    id: ck6ttioh8atod0j71a7317qje
+    followers: 43141
+    engagement: 107
+    commentsToLikes: 0.014305
+    id: ck138s3gwhqwx0i19vvnojbp1
     verified: false
-    hashtags: "#ukraine, #nikontop, #kharkivgram, #krasivofood"
-  - username: "anna_ragushenko"
+    hashtags: "#love, #disneygram, #halloween, #disneyland"
+  - username: "pylypchuk_vasyl"
     fullname: >-
-      
+      Фотограф Василь Пилипчук
     bio: >-
-      🕊Семья на первом☝🏻Ждём малыша🤰🏻 🕊Co-owner @em_kids ™️ 🕊 Вдохновляюсь детскими lookами, сервировкой стола и уютом в #ДомНаГоре🏡
+      Wedding photographer Ivano-Frankivsk,Lviv,Bukovel
     location: "Ukraine"
-    followers: 16541
-    engagement: 645
-    commentsToLikes: 0.021284
-    id: ckaozzynno67t0i7828w75flf
+    followers: 52775
+    engagement: 281
+    commentsToLikes: 0.013842
+    id: ck14iibdofjml0i19t6ig8np2
     verified: false
-    hashtags: "#autumn, #pregnancy, #zarakids, #river"
-  - username: "korolevskaia_olia"
+    hashtags: "#happy, #bride, #ivanofrankivsk, #weddingphoto"
+  - username: "anastasia_vakula"
     fullname: >-
-      ♛ Королевская Оля ♛
+      ANASTASIA  VAKULA
     bio: >-
-      ♛ ex Телеведущая М1 ♛ ♛ блог о здоровье,диплом натуроплата. ♛переходи на сайт 👇🏻👇🏻👇🏻
+      Living my dreams 🕊 MIA @cgmmodels DC @kingsleymodels Plant-based Ukrainian Mom to @englishman_chukker
     location: "Ukraine"
-    followers: 91780
-    engagement: 144
-    commentsToLikes: 0.039351
-    id: ckap7d4x5jjue0i78n0dt8way
+    followers: 54673
+    engagement: 79
+    commentsToLikes: 0.068536
+    id: ck6uelxnzrpqo0j71ye4li5kz
     verified: false
-    hashtags: "#lookoftheday, #veganlife"
-  - username: "beauty.blog.julia"
+    hashtags: "#tiktok, #elsafrozen, #washingtondc, #engaged"
+  - username: "martamysakphoto"
     fullname: >-
-      💄Beauty Blog Julía💄
+      Marta Mysak. Photographer Bali
     bio: >-
-      💄Визажист-технолог 💄Знаю о косметике все 💄Ерунду не посоветую 💄Дарю бьюти боксы 💄Пожелания в сторис каждый день #косметикаюли #кистиюли #ароматыюли
+      📍Bali (1.04 - Kyiv) ♡ тут про любов, прийняття та довіру... ...заходьте із відкритим серцем ♡ а ще, тут багато фотографій, які говорять📸 Kyiv, UA
     location: "Ukraine"
-    followers: 6189
-    engagement: 793
-    commentsToLikes: 0.097469
-    id: ck5zp0q4arrgi0i14wkverbxp
+    followers: 20638
+    engagement: 761
+    commentsToLikes: 0.014402
+    id: ck14hwzjeck2k0i19ahitwqle
     verified: false
-    hashtags: "#faberlic, #faberlicinfluencer, #yvesrocher, #essence"
+    hashtags: "#birthdaygirl"
+  - username: "mur.che"
+    fullname: >-
+      Настенька aka Му́рче
+    bio: >-
+      👩🏼‍🍳готовлю по-всякому 🥦#постнаяМурче 🥝#овсянаяМурче 🥒#тыквеннаяМурче 🥬#творожнаяМурче 🥑#безглютеноваяМурче
+    location: "Ukraine"
+    followers: 25331
+    engagement: 262
+    commentsToLikes: 0.048890
+    id: ck5q6g4odx9k70i11up4gtl5b
+    verified: false
+    hashtags: "#bethelight"
+  - username: "yarina.tattooing"
+    fullname: >-
+      vegan fine line tattoos ✾
+    bio: >-
+      Welcome to my ink garden 🌱 Українська/English friendly Пишіть мені тут/Write me here👇🏻
+    location: "Ukraine"
+    followers: 87082
+    engagement: 227
+    commentsToLikes: 0.025468
+    id: ck8t5zgy1bqn30j78yoahkbn9
+    verified: false
+    hashtags: "#yarinatattooing"
 ---

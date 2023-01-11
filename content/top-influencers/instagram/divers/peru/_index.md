@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Peru In 2022
+title: Top 10 Divers Instagram Influencers In Peru In 2023
 description: >-
-  Find top divers Instagram influencers in Peru in 2022. Most popular hashtags: #peru #instapic #instagood #latina.
+  Find top divers Instagram influencers in Peru in 2023. Most popular hashtags: #humor #comedia #love #amor.
 platform: Instagram
-hits: 29
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database holds 29 Instagram influencers like this in Peru for you to collaborate.
+hits: 20
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 20 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "alexandramendezof"
+  - username: "fran_meric"
     fullname: >-
-      Alexandra
+      Fran Meric
     bio: >-
-      🇻🇪 Soy feliz en bikini😁 CONTRATOSYPUBLICIDAD⤵️ Alexandramendezof.2312@gmail.com MÁS DIVERSIÓN EN MI ONLYFANS👇🏽🔥
+      💥Actriz Conductora Cantante💥 Life coach, Terapeuta holistica y Speaker💥 MAMÁ💥 Mi canal de YouTube: Creadores de Luz! Manager: @gabrielblancoi
     location: "Peru"
-    followers: 810264
-    engagement: 270
-    commentsToLikes: 0.008852
-    id: ckap5ud7nd7c00i784ml1h6c1
+    followers: 284649
+    engagement: 136
+    commentsToLikes: 0.050404
+    id: ck5byvg7gpxcx0i11et5akpub
     verified: true
-    hashtags: "#onlyfan, #bumbumup, #onlyfangirl, #onlygirls"
-  - username: "bryanthealpinist"
+    hashtags: "#sanacion, #energia, #espiritualidad, #productosholisticos"
+  - username: "sebastiancuenca"
     fullname: >-
-      Bryan Mestre
+      Marketing Digital y Empresas
     bio: >-
-      @zodiacmilproofficial Special Application Technics instructor 🚤 @scarpafrance @barrabes.ski.mountain athlete 🧗🏻 Paraglider 🪂 Diver 🤿 Explorer 🛫 MP👮‍♂️
+      🚀 Enseño a #emprendedores a potenciar sus redes sociales en @limatechdigital y LimaTech Podcast ✈️ Digital Nomad 👇🏽Aprende con mis asesorías y cursos
     location: "Peru"
-    followers: 25929
-    engagement: 217
-    commentsToLikes: 0.009166
-    id: ck55ntoy36y9q0i111n4lqlq7
+    followers: 22784
+    engagement: 368
+    commentsToLikes: 0.049956
+    id: ck9wf4lncn6cu0j78w6v04p62
     verified: false
-    hashtags: "#outdoors, #alpinism, #explorer, #rhib"
-  - username: "mohsinkazmitakespictures"
-    fullname: >-
-      Mohsin Kazmi
-    bio: >-
-      Conservationist• Junglekeeper• Food Trucker• Millennial • Happy in the presence of (Bio)diversity. @tamanduaexpeditions @junglekeepers @thepakalachian
-    location: "Peru"
-    followers: 29586
-    engagement: 100
-    commentsToLikes: 0.013971
-    id: ck0u7nwlj56it0i195xbvaxf4
-    verified: false
-    hashtags: ""
-  - username: "sadithtapia_"
-    fullname: >-
-      Sᥲᑯɩtᖾ 🌼🐠
-    bio: >-
-      22 🦋 Fisioterapeuta en formación Interna en musculoesquelético del HNCH ❤ Sé feliz y brillaras ✨ Canceriana 🦀 #tiktok sadithtapia 💕 baile y diversión
-    location: "Peru"
-    followers: 2456
-    engagement: 4338
-    commentsToLikes: 0.039224
-    id: ckf5ut93um86g0j23cd13a6sb
-    verified: false
-    hashtags: "#sdvlikes, #chuvadelikes, #l4l, #seguedevolta"
-  - username: "tatianadiaz.29"
-    fullname: >-
-      Tatiana Díaz
-    bio: >-
-      Tatiana Diaz 💎👩‍⚕️👩‍⚕️ TikTok @tatianadiaz.29
-    location: "Peru"
-    followers: 29625
-    engagement: 1289
-    commentsToLikes: 0.054635
-    id: ck13azijgsy9r0i19la6qx3la
-    verified: false
-    hashtags: "#paisajes, #abrigos, #viajaresvivir, #cuarentena"
-  - username: "steveromeroalvarado"
-    fullname: >-
-      Steve Romero Alvarado
-    bio: >-
-      📺 Conductor de #ChapaTusTabas 🎤 Reportero de @latina.pe 🎓 Bachiller por la @unmsm_ ✉️ jsromeroa@gmail.com Alienta desde casa ➡️ https://bit.ly/2Yceulj
-    location: "Peru"
-    followers: 30525
-    engagement: 538
-    commentsToLikes: 0.034344
-    id: ck8tduxjj4v1p0j78v9413joc
-    verified: false
-    hashtags: "#sportsjournalism, #coronavirus, #latina, #covid19"
-  - username: "gattinicole"
-    fullname: >-
-      Nicole Gatti
-    bio: >-
-      🎙Cantante 🎹🎸Músico 💿@warnermusicmex 2.1 Millones en TIKTOK Nuevo Sencillo 🍀TRÉBOL🍀 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ SHEIN 15% code: EBF627
-    location: "Peru"
-    followers: 115448
-    engagement: 566
-    commentsToLikes: 0.015561
-    id: ck9wdhfldfn790j78g62t7daf
-    verified: false
-    hashtags: "#cantante, #nicolegatti, #teen, #tiktok"
-  - username: "lapozo"
-    fullname: >-
-      Ethel Pozo
-    bio: >-
-      • Comunicadora • Conductora de “Mi mamá Cocina mejor que la Tuya ” y “ América Hoy ” • Mamá 24/7 • 📧 contacto@influmedia.pe
-    location: "Peru"
-    followers: 626794
-    engagement: 146
-    commentsToLikes: 0.019617
-    id: ck55m1iux2yuy0i11dae6l0b0
-    verified: true
-    hashtags: "#norte, #sefeliz, #blessed, #mood"
+    hashtags: "#ecommerce, #diversidad, #influencers, #limatechpodcast"
   - username: "duiliovr"
     fullname: >-
       ᗪᑌIᒪIO
     bio: >-
-      #tenisplayer #modelo #lifestyle #entrepeneur Mr. International Perú 🇵🇪 2018, 🧩: @easyypunto Contratos: duiliovr92@gmail.com Vamos que se puede!
+      Mr. International Perú 🇵🇪 2018, Embajador: @yadealatinoamerica 🏍 ♻️ Contratos: duiliovr92@gmail.com #mediambiente #tenisplayer #modelo #entrepeneur
     location: "Peru"
-    followers: 269471
-    engagement: 147
-    commentsToLikes: 0.015239
+    followers: 269477
+    engagement: 112
+    commentsToLikes: 0.017060
     id: ckap0k020qn130i787zp90lr0
     verified: true
-    hashtags: "#menmodel, #modelohombre, #men, #outfitlove"
-  - username: "pasaportedeunartista"
+    hashtags: "#vamosquesepuede, #estilodevida, #logros, #so"
+  - username: "martincaligaris"
     fullname: >-
-      Luis Golding
+      Martin Caligaris
     bio: >-
-      🙋🏼‍♂️Aquí nos estamos reinventando VIDEO: PARIS🇫🇷⬇️
+      Artista de Circo de nacimiento , Cantante hace 23 años, Rey de la Primavera '93 y Padre hace 11 y 10 años!
     location: "Peru"
-    followers: 5256
-    engagement: 549
-    commentsToLikes: 0.035533
-    id: ckaowsk1wa9ek0i784fxuw5hp
+    followers: 109084
+    engagement: 246
+    commentsToLikes: 0.018264
+    id: ck5qcxh66st0s0i11nd1u6loh
+    verified: true
+    hashtags: "#caligaris, #recital, #loscaligaris, #todovuelveacomenzar"
+  - username: "connie_chaparro"
+    fullname: >-
+      ℂ𝕠𝕟𝕟𝕚𝕖 ℂ𝕙𝕒𝕡𝕒𝕣𝕣𝕠
+    bio: >-
+      𝐀𝐜𝐭𝐫𝐢𝐳 & 𝐌𝐚𝐦𝐚́ | 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 | 𝐑𝐚𝐝𝐢𝐨 𝐇𝐨𝐬𝐭 ✨ Tiktok | Youtube | Twitter Connie_Chaparro 💌 23.constanza@gmail.com
+    location: "Peru"
+    followers: 937529
+    engagement: 52
+    commentsToLikes: 0.022059
+    id: ck5bwfh7zllo00i11n49z6t5i
+    verified: true
+    hashtags: "#humor, #familia, #mama, #amorpuro"
+  - username: "kainospr"
+    fullname: >-
+      KAINOS | 1ST IS GOD
+    bio: >-
+      |🎭:Comediante |🎙:Cantante |🕹:YouTuber |📺:YouTube Comedia: Kainostv |📺:Youtube Música: Kainospr |📀:Regresa Disponible 👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽
+    location: "Peru"
+    followers: 36306
+    engagement: 300
+    commentsToLikes: 0.074610
+    id: ck5ciw5i9thvo0i11fy8qshnv
     verified: false
-    hashtags: "#travelblogger, #letsgoeverywhere, #happymoments, #traveltheworld"
+    hashtags: "#re, #nike, #happy, #fun"
+  - username: "jbjorgebenavides"
+    fullname: >-
+      Jorge Benavides
+    bio: >-
+      📌 Humorista Peruano, Imitador, Actor y Director 😜 📌 Contacto: jbjorgebenavides@gmail.com
+    location: "Peru"
+    followers: 959761
+    engagement: 284
+    commentsToLikes: 0.045997
+    id: ck8sxv4khis660j78qh9f7704
+    verified: true
+    hashtags: "#jbjorgebenavides, #comedia, #humor, #jbenatv"
+  - username: "ishaescribano"
+    fullname: >-
+      Isha Escribano
+    bio: >-
+      Y un día, el riesgo de quedarme atrapada dentro del brote se hizo mucho más doloroso que el riesgo de florecer 🌈🦋 👇PRÓXIMOS WORKSHOPS👇
+    location: "Peru"
+    followers: 33645
+    engagement: 252
+    commentsToLikes: 0.100227
+    id: ck8sy3t78jn7p0j78hqa8m9lx
+    verified: false
+    hashtags: "#om, #sihayamornohaymiedo, #transisbeautiful, #ser"
+  - username: "tejedaperu"
+    fullname: >-
+      Gladys Tejeda
+    bio: >-
+      Atleta 🇵🇪 Diners Club | Toyota | Nike | @inyogo 🥇Juegos Panamericanos Lima2019 🎖Record Panamericano 42k 🎖Récord Sudamericano 21k
+    location: "Peru"
+    followers: 57266
+    engagement: 483
+    commentsToLikes: 0.020521
+    id: ck6u90wnnuu6p0j71gvpnktri
+    verified: false
+    hashtags: "#publicidad, #teamtoyota, #yomequedoencasa, #startyourimpossible"
+  - username: "piccoloclemente_oficial"
+    fullname: >-
+      Piccolo Clemente Rothfuss
+    bio: >-
+      Pro Surfer – Longboard 🇵🇪 Diners Club | Reebok | Repalsa | @inyogo 🏆Campeón Mundial x3 🏆Campeón Sudamericano x4 🥇Panamericanos Lima 2019
+    location: "Peru"
+    followers: 54839
+    engagement: 885
+    commentsToLikes: 0.029332
+    id: ck6u90x1yuu960j71hgok62es
+    verified: true
+    hashtags: "#repalsatrujillo, #trujilloperu, #marineranorten"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Climbers Instagram Influencers In 2022
+title: Top 10 Climbers Instagram Influencers In 2023
 description: >-
-  Find top climbers Instagram influencers in 2022. Most popular hashtags: #climbing #adventure #climbers.
+  Find top climbers Instagram influencers in 2023. Most popular hashtags: #climbing #trailrunning #mountains.
 platform: Instagram
-hits: 776
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 776 Instagram influencers like this for you to connect with.
+hits: 761
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 761 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "climbersjp"
     fullname: >-
       CLIMBERS
     bio: >-
-      CLIMBERS（クライマーズ）はクライミングをテーマにした複合メディアプロジェクトです。フリーマガジンは全国のクライミングジム600店舗で配布中！ 🔎 Focus on Japanese sport climbing scenes and publishing a free magazine
+      CLIMBERS（クライマーズ）はクライミングをテーマにした複合メディアプロジェクトです。フリーマガジンは全国のクライミングジム630店舗で配布中！ 🔎 Focus on Japanese sport climbing scenes and publishing a free magazine
     location: "Japan"
-    followers: 10644
-    engagement: 470
-    commentsToLikes: 0.001003
+    followers: 13050
+    engagement: 588
+    commentsToLikes: 0.000681
     id: ck0ttpt123rzw0i197qfuh1oe
     verified: false
-    hashtags: "#japenseclimbinggyms, #savetheclimbinggyms, #happybirthday, #bouldering"
+    hashtags: "#bpump, #men, #women, #aimori"
+  - username: "kellienicole"
+    fullname: >-
+      Kellie Bochart • Arizona
+    bio: >-
+      📍 Roaming the Southwest 🐾 Adventure Guide for @elphiejrt ✨ You can find me sleeping under the stars 🌵Outdoorswoman, backcountry explorer, rock climber
+    location: "United States"
+    followers: 12346
+    engagement: 138
+    commentsToLikes: 0.011589
+    id: ck0u0xcgxv6cn0i19bi6fxgni
+    verified: false
+    hashtags: "#fableticspartner"
   - username: "sarahonthegoo"
     fullname: >-
       Sarah G. Francis
     bio: >-
       ⚙️ Electromechanical Engineer 🏍 Biker 🚎 VW Community 🧗‍♀️ Climber 🏊🏼‍♀️ Swimmer 🏃🏼‍♀️ Runner 🏕 Dite Ourson Complaisant☩ 🇱🇧 Dream it. Plan it. Do it.
-    location: ""
-    followers: 2597
-    engagement: 2981
-    commentsToLikes: 0.145833
+    location: "France"
+    followers: 2599
+    engagement: 2883
+    commentsToLikes: 0.151377
     id: ckf5vgt9dojx60j2308y28xod
     verified: false
-    hashtags: "#riverside, #betterwhensmiling, #campfire, #sunsetphotography"
+    hashtags: "#campfire, #lakeview, #mountainviews, #sunsetrays"
   - username: "jakestormoen"
     fullname: >-
       Jake Stormoen
     bio: >-
-      🎭-Actor ⚔️-Garret in #TheOutpost on @thecw/SYFY🌎 🐉-Creator of @stormforgeddice🎲 w/ @dieharddice 🤓-Geek 🧗‍♂️-Climber Let’s be friends
+      🎭-Actor ⚔️-Garret in #TheOutpost on @thecw/SYFY🌎 🐉-Creator of @stormforgeddice🎲 w/ @dieharddice 🤓-Fantasy Geek ⚔️🛡 🧗‍♂️-Climber Let’s be friends
     location: "United Kingdom"
-    followers: 12895
-    engagement: 898
-    commentsToLikes: 0.078756
+    followers: 16186
+    engagement: 969
+    commentsToLikes: 0.058890
     id: ck0w21nrym7ai0i19epig0ozk
     verified: true
-    hashtags: "#theoutpostseries, #spiritday, #theappearance, #horses"
-  - username: "kellienicole"
-    fullname: >-
-      Kellie Bochart
-    bio: >-
-      📍 Roaming the Southwest 🐾 Elphie’s Adventure Guide ✨ You can find me sleeping under the stars 🌵Backcountry explorer, rock climber, trail runner
-    location: "United States"
-    followers: 8623
-    engagement: 1555
-    commentsToLikes: 0.046052
-    id: ck0u0xcgxv6cn0i19bi6fxgni
-    verified: false
-    hashtags: "#xerocole, #overbuiltnotoverpriced, #fourpeakspartner, #thirstforadventure"
+    hashtags: "#theoutpost, #elderscrollsonline, #eso, #galaxycon"
   - username: "bethrodden"
     fullname: >-
       bethrodden
     bio: >-
       Professional Climber | Mom | Speaker | Yosemite Dweller | Ridgeback lover
     location: "United States"
-    followers: 57865
-    engagement: 971
-    commentsToLikes: 0.026210
+    followers: 66049
+    engagement: 1027
+    commentsToLikes: 0.028853
     id: ck5pyx3y6y8d70i117uecsj5b
     verified: false
-    hashtags: "#sustainablefinance, #sponsored, #orambassador, #curiousclimberpodcast"
+    hashtags: "#orambassador, #lastdaybestday, #yosemitebouldering, #sustainablefinance"
   - username: "vagabondhearts"
     fullname: >-
-      andrea ference 🇨🇦🇦🇹
+      Andrea Ference
     bio: >-
-      coffee drinker | mountain climber | cheese lover based in the canadian rockies hello@andreaference.com
-    location: "Canada"
-    followers: 327673
-    engagement: 671
-    commentsToLikes: 0.016245
+      coffee drinker | mountain climber | cheese lover canadian | austrian
+    location: "United States"
+    followers: 340594
+    engagement: 344
+    commentsToLikes: 0.025361
     id: ck0u0dfketfqu0i19nuhrf5ia
     verified: false
-    hashtags: "#hellobc, #yosemite, #california, #roadtrip"
-  - username: "yogabylindsay"
-    fullname: >-
-      𝐘𝐎𝐆𝐀•   𝐁𝐲 𝐋𝐢𝐧𝐝𝐬𝐚𝐲
-    bio: >-
-      ↳ RYT500 • RPYT • Reiki I • Mindfulness • 🇨🇦 ↳ Mama2022 • Kombucha Life • Mountain Climber ↳ Sky above, earth below, peace within. ↳ 𝐂𝐡𝐞𝐜𝐤 𝐭𝐡𝐢𝐬 𝐨𝐮𝐭!⇣
-    location: "Canada"
-    followers: 10107
-    engagement: 758
-    commentsToLikes: 0.193248
-    id: ck6tiglaw0ohi0j71ff6vgsqd
-    verified: false
-    hashtags: "#wolven, #pregnantyogi, #aumnie, #vayumudratribe"
+    hashtags: "#camp, #backcountrycamping, #reels, #lsfpartner"
   - username: "sofisaphier"
     fullname: >-
       Sofi Cofré Saphier
     bio: >-
-      24, Mountain Climber - Athlete. Civil Engineering, U de Chile. 🥇 Cerro Plomo (5424 masl) FKT Record Ascent.
-    location: ""
-    followers: 8955
-    engagement: 2404
-    commentsToLikes: 0.032989
+      25, Mountain Climber - Athlete. @corosglobal | Civil Engineering, UChile. 🥇 Cerro Plomo (5424masl) FKT Record Ascent. 🥇 San Jose Volcano Record Ascent
+    location: "United States"
+    followers: 16529
+    engagement: 1508
+    commentsToLikes: 0.041318
     id: ck6tt91079ao40j719b7av8hy
     verified: false
-    hashtags: "#mountain, #skyrunning, #iceclimbing, #climbing"
-  - username: "mariajazzi"
+    hashtags: "#skyrunning, #happy, #puremountain, #smellofthemountain"
+  - username: "nativein_la"
     fullname: >-
-      Maria|ماريا
+      JORDAN
     bio: >-
-      📍 Bey │ Leb 👩🏽‍⚕️ Nurse Student #nurse 🧗🏽‍♀️ Climber #climber 🏃🏽‍♀️ Runner #runner
-    location: ""
-    followers: 7059
-    engagement: 1242
-    commentsToLikes: 0.145827
-    id: ck6tj70j524ov0j71isqiljk5
+      #RunningForJustice #RunningWithPurpose @rising_hearts @runinrabbit PRO 🏃🏽‍♀️ 👟 @altrarunning @ultimatedirectionusa Producer/EP Mountaineer•Climber
+    location: "United States"
+    followers: 42278
+    engagement: 894
+    commentsToLikes: 0.018496
+    id: ck5bu7vobhb9e0i11isb76hhd
     verified: false
-    hashtags: "#adventure, #climbingphotography, #waterfall, #travel"
-  - username: "magmidt"
+    hashtags: "#stopline3, #mmiwg2s, #nodapl, #nokxl"
+  - username: "brookearoundtown"
     fullname: >-
-      Magnus Midtbø
+      Brooke Brisbine ✨
     bio: >-
-      Climber and aspiring YouTuber with a fetish for training. Founder of Rungne. Toyota, Scarpa
-    location: "Norway"
-    followers: 332387
-    engagement: 1245
-    commentsToLikes: 0.009001
-    id: ck0ub3bamdq7k0i191ns95bga
-    verified: true
-    hashtags: "#startyourimpossible, #tbt, #noplacetoofar, #tb"
+      seattle born / melbourne local 🇦🇺 mountain climber & nacho enthusiast 🏔 medical scientist turned full-time traveller 🚐
+    location: "United States"
+    followers: 6408
+    engagement: 931
+    commentsToLikes: 0.047365
+    id: ck9h9vch3a3rk0j78so98zlnh
+    verified: false
+    hashtags: "#type2fun"
+  - username: "martinapascutti"
+    fullname: >-
+      Martina Pascutti
+    bio: >-
+      Presentatrice televisiva TV presenter per @qvc_italy 📺 ( can. 32 dgt) Mamma di Leone 👶🏻 Climber🧗‍♀️ Per info e collaborazioni: Marti.caio@hotmail.it
+    location: "Italy"
+    followers: 25601
+    engagement: 238
+    commentsToLikes: 0.146242
+    id: ckaoy2utwftwi0i78rfnlvq6f
+    verified: false
+    hashtags: "#onirisjewels, #adv, #qvc, #qvcaftershow"
 ---

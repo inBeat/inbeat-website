@@ -1,130 +1,130 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In France In 2022
+title: Top 10 Pole Dancers Instagram Influencers In France In 2023
 description: >-
-  Find top pole dancers Instagram influencers in France in 2022. Most popular hashtags: #poledancer #dance #poledance #dancer.
+  Find top pole dancers Instagram influencers in France in 2023. Most popular hashtags: #poledance #poledancer #flexibility.
 platform: Instagram
-hits: 41
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 41 Instagram influencers like this in France for you to connect with.
+hits: 58
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 58 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "blufiefer"
+    fullname: >-
+      Blu Fiefer
+    bio: >-
+      Singer, producer, director & pole dancer 🇱🇧 🇲🇽 For inquiries: contact.blufiefer@gmail.com 👇🏽’Sint el Ew’ | سنة الإيو👇🏽
+    location: "France"
+    followers: 11417
+    engagement: 1106
+    commentsToLikes: 0.053347
+    id: ckapb6eu6yqpx0i78drq2mufl
+    verified: false
+    hashtags: ""
   - username: "canistsenguun"
     fullname: >-
       Tsenguun
     bio: >-
       Professional acrobat, pole dancer, Mongolia’s Got Talent semi-finalist
     location: "France"
-    followers: 93576
-    engagement: 416
-    commentsToLikes: 0.003319
+    followers: 102021
+    engagement: 363
+    commentsToLikes: 0.003029
     id: ck5ztbdm703f10i14n20az7vx
     verified: false
-    hashtags: "#mongolia, #minicooper, #modellife"
-  - username: "alik_tsiupa"
+    hashtags: "#minicooper, #pandora, #freshair, #fuckcorona"
+  - username: "estefjimpa"
     fullname: >-
-      Alik Tsiupa
+      ESTEFANIAJIMENEZ_OldSchoolPole
     bio: >-
-      | USNPC Doubles Champion, Professional Pole Dancer, Performer, & Instructor | Model | Filmmaker| 🥇🕺🎭🏍🛩
+      •Old school Pole Dancer• •Choreographer• •Leg movement connoisseur• •Wild Child• Join my two hour heel work master class 👇🏻
     location: "France"
-    followers: 5287
-    engagement: 492
-    commentsToLikes: 0.035957
-    id: ck5qe9ylmzfe30i11khgncf44
+    followers: 38320
+    engagement: 287
+    commentsToLikes: 0.049894
+    id: ck6u2kon8sd3d0j71n2qfn48e
     verified: false
-    hashtags: "#aerialstraps, #straps"
+    hashtags: "#sundaybumday"
   - username: "mimosapudicadna"
     fullname: >-
       Mimosa Pudica
     bio: >-
       🥀 pole dancer / Model 🥀 🌔🌓🌒Witch bitch 🌘🌗🌖 🦄Supersensitive drama queen 🦄 📍paris @martinipastaga : pole dance account with @mimimcv ❤️👯‍♀️
     location: "France"
-    followers: 5070
-    engagement: 1337
-    commentsToLikes: 0.023313
+    followers: 4830
+    engagement: 1334
+    commentsToLikes: 0.022948
     id: ck5zozyz0rpu20i14tm505euh
     verified: false
-    hashtags: "#artphotography, #portrait, #girls, #poledancer"
-  - username: "leslielili_pole"
+    hashtags: "#portrait, #poleperformer, #artphotography, #girls"
+  - username: "rodeocowgirl2809"
     fullname: >-
-      leslie lili
+      Carina Hinsche
     bio: >-
-      Pole dancer 💜France. Nantes 🌸21gs_official and Boomkats Polewear ambassador🦄🎀🦄 🌸ambassador @oksawear 💕
+      Mein Ponyhof ❤️ Ronja 🐴 Chipsy - Crispy 🐴 Miss Cody Sue🐴 Spirit Son Peppy🐴 Shakira Sierra Sue 🐴 DS Spotted Shadow 🐴 Oxygens Pole Dancer 🐴 Whisky 🐶
     location: "France"
-    followers: 85254
-    engagement: 212
-    commentsToLikes: 0.032327
-    id: ck6tjs0ve3b5g0j71p0f0mmd4
+    followers: 20633
+    engagement: 679
+    commentsToLikes: 0.007292
+    id: ck14h6gi28rvx0i19d5nrh15l
     verified: false
-    hashtags: "#training, #backflip, #brassmonkeyflip, #dancer"
-  - username: "julia_book_around_the_world"
+    hashtags: "#westernreiten, #pferdefotografie, #sierra, #horseriding"
+  - username: "alik_tsiupa"
     fullname: >-
-      julia
+      Alik Tsiupa
     bio: >-
-      French Girl 🇫🇷 ❤️ @simple_moments_with_u -> Travel around the world 🌎 -> Crewlife 🛩 -> Model 📷 -> Dancer ballerina 💃 -> Mermaid 🐚🧜‍♀️
+      | USNPC Doubles Champion, Professional Pole Dancer, Performer, & Instructor | Model | Filmmaker| Pilot🥇🕺🎭🏍
     location: "France"
-    followers: 5124
-    engagement: 1252
-    commentsToLikes: 0.156765
-    id: ck0w6bv827u9m0i19xxh08ey5
+    followers: 5240
+    engagement: 471
+    commentsToLikes: 0.042233
+    id: ck5qe9ylmzfe30i11khgncf44
     verified: false
-    hashtags: "#bandorebelz, #balletshoes, #sunnyday, #pointeshoes"
+    hashtags: "#aerialstraps, #straps"
+  - username: "lise.poledancer"
+    fullname: >-
+      Lise poledancer
+    bio: >-
+      📍 𝒟𝓊𝓉𝒸𝒽 🇱🇺 ♥️ 𝒞𝒽𝓇𝒾𝓈𝓉𝒾𝒶𝒶𝓃 🔸 @rolamoca.benelux 🔸 Discount code: Lise10 @paaldanstrain4lessschagen 🔘 𝒫𝑜𝓁𝑒𝒹𝒶𝓃𝒸𝑒𝓇 🔘 𝒜𝑒𝓇𝒾𝒶𝓁 𝓈𝒾𝓁𝓀𝓈 🔘 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 🔘 𝒯𝓌𝑒𝓇𝓀
+    location: "France"
+    followers: 3149
+    engagement: 782
+    commentsToLikes: 0.071908
+    id: ck8t9afudne8n0j78ws0ibyy3
+    verified: false
+    hashtags: "#girlswithmuscles, #polepassion, #gymmotivation, #fitfamnl"
+  - username: "starkestruck"
+    fullname: >-
+      Taylor Starke
+    bio: >-
+      🍎 NY 🙏🏽Owner @poleposition_ny ✨Pole dancer and performer ✨FKA Twigs, Snoop Dogg, Doja Cat, French Montana ✨Hustler’s Movie ✨DM for collaborations
+    location: "France"
+    followers: 26822
+    engagement: 685
+    commentsToLikes: 0.040575
+    id: cl3w8zi0zczu10i23wwrog75s
+    verified: false
+    hashtags: "#blackgirlspole, #wednesday, #poledancersofig, #weekendvibes"
+  - username: "sandra.beeston"
+    fullname: >-
+      Sandra Beeston 🖤
+    bio: >-
+      🎖 Certified Pole Fitness Instructor from 🇩🇪 📍 Gold Coast, Australia 📩 Dm for Private Pole Lessons 🎥 YouTube: Sandra Beeston
+    location: "France"
+    followers: 13770
+    engagement: 821
+    commentsToLikes: 0.083131
+    id: ck0w3qdvyuqev0i19nlryj2sw
+    verified: false
+    hashtags: "#poleart, #polelove, #stickyleggings, #poledance"
   - username: "salome_poledance"
     fullname: >-
       Salomé Marchal ✨
     bio: >-
       🇫🇷🥇FRENCH POLE DANCE CHAMPION 🥇🇫🇷 @salome_mrchl ——————————————————————
     location: "France"
-    followers: 2554
+    followers: 2595
     engagement: 1455
-    commentsToLikes: 0.102172
+    commentsToLikes: 0.099939
     id: ck60029xuctvf0i14jy4bmobm
     verified: false
-    hashtags: "#dancer, #athlete, #dancing, #flexible"
-  - username: "arianesnowleo"
-    fullname: >-
-      𝕬 𝖗 𝖎 𝖆 𝖓 𝖊   𝕾 𝖓 𝖔 𝖜 𝖑 𝖊 𝖔
-    bio: >-
-      ❄🐆 Pole & Exotic Dancer - Instructor 🥉Exotic Generation France 2020 - Flow 🏆Winner Pole Theatre Switzerland 2018 - Classic 📨 Business DM/Email
-    location: "France"
-    followers: 6117
-    engagement: 536
-    commentsToLikes: 0.114252
-    id: ck5hg46zf0u4x0i11br8m0ch1
-    verified: false
-    hashtags: "#exoticpoledancer, #freestyle, #kitana, #movements"
-  - username: "laura_adaraya"
-    fullname: >-
-      𝕃𝔸𝕌ℝ𝔸 ᴘᴏʟᴇ ᴅᴀɴᴄᴇ ʏᴏɢᴀ ᴛᴇᴀᴄʜᴇʀ
-    bio: >-
-      ❀ 𝕆𝕨𝕟𝕖𝕣 𝕠𝕗 @adaraya.studio ✺ 𝕐𝕠𝕘𝕒 𝕒𝕟𝕕 ℙ𝕠𝕝𝕖 𝕚𝕟𝕤𝕥𝕣𝕦𝕔𝕥𝕠𝕣 ▼▽▼Découvrez le studio▼▽▼
-    location: "France"
-    followers: 3253
-    engagement: 978
-    commentsToLikes: 0.084615
-    id: ck9h9rpfi9p3d0j78t2w1tley
-    verified: false
-    hashtags: "#yogini, #feeltheyogahigh, #training, #yoginisofinstagram"
-  - username: "dimitryroulland"
-    fullname: >-
-      Dimitry Roulland
-    bio: >-
-      🇫🇷 French photographer available for all your photographic projects. 📧contact@dr-photographies.com 📍Sarlat
-    location: "France"
-    followers: 27061
-    engagement: 213
-    commentsToLikes: 0.013687
-    id: ck0vv7iornvzu0i19rf900d33
-    verified: false
-    hashtags: "#nature, #paris, #ballerina, #france"
-  - username: "fitbyshelly"
-    fullname: >-
-      Shelly | Pole Bae
-    bio: >-
-      Owner of @exoticworkouts /@fit2flaunt 3 Locations in South Florida. Order your dance pole & Download my new pole fitness app ⬇️
-    location: "France"
-    followers: 184216
-    engagement: 762
-    commentsToLikes: 0.029774
-    id: ck0vx6u4rxfn80i19w3rbw78t
-    verified: false
-    hashtags: "#workout, #poledancer, #tsrtalent, #blackgirlspole"
+    hashtags: "#dance, #yoga, #staticpole, #strong"
 ---

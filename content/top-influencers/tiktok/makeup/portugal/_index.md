@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Portugal In 2022
+title: Top 10 Makeup TikTok Influencers In Portugal In 2023
 description: >-
-  Find top makeup TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #makeup #foryou #fy.
+  Find top makeup TikTok influencers in Portugal in 2023. Most popular hashtags: #makeup #fyp #foryou #trend.
 platform: TikTok
-hits: 22
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 22 TikTok influencers like this in Portugal for you to work with.
+hits: 26
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 26 TikTok influencers like this in Portugal for you to connect with.
 profiles:
   - username: "yasminlaleska"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Wait... I’m just finishing my makeup 💄💋 insta: @yasminlaleska
     location: "Portugal"
-    followers: 12700
-    engagement: 880
-    commentsToLikes: 0.028283
+    followers: 12600
+    engagement: 959
+    commentsToLikes: 0.031321
     id: ckav8uiw8g5gf0j233fnteg6b
     verified: false
-    hashtags: "#makeover, #alexademielook, #maquilhagem, #fy"
-  - username: "mateus_soares1"
-    fullname: >-
-      🔥Mateus Soares🔥
-    bio: >-
-      ✨BLM✨ 29.5k ppl hate trump 🍊🔫
-    location: "Portugal"
-    followers: 30300
-    engagement: 1875
-    commentsToLikes: 0.056902
-    id: ckbqnz08z8qge0j233usbxrfd
-    verified: false
-    hashtags: "#dueto, #fy, #mateussoares1, #fyp"
-  - username: "joanashino"
-    fullname: >-
-      𝕵𝖔𝖆𝖓𝖆𝕾𝖍𝖎𝖓𝖔
-    bio: >-
-      hi 👻
-    location: "Portugal"
-    followers: 6488
-    engagement: 1608
-    commentsToLikes: 0.016049
-    id: ck9ej5zx60rjr0j78mtperz6h
-    verified: false
-    hashtags: "#goth, #gothgirl, #creepy, #alternative"
-  - username: "irinamadaleno0"
-    fullname: >-
-      Irina Madaleno
-    bio: >-
-      Angolan🇦🇴 living in Portugal 🇵🇹
-    location: "Portugal"
-    followers: 46300
-    engagement: 1331
-    commentsToLikes: 0.017206
-    id: ck83zbs86zhr80j783zvuks9a
-    verified: false
-    hashtags: "#fyp, #tiktokangola, #tiktokportugal, #dueto"
+    hashtags: "#fy, #makeupartist, #br, #makeup"
   - username: "bibaaaaaaas"
     fullname: >-
       Beatriz Costa
     bio: >-
-      from portugal 🇵🇹 📥 hi@saywe.pt beatrizrelvas@hotmail.com
+      from 🇵🇹 📥 hi@saywe.pt instagram: 46k 👇🏽
     location: "Portugal"
-    followers: 33900
-    engagement: 1570
-    commentsToLikes: 0.010210
+    followers: 45100
+    engagement: 1460
+    commentsToLikes: 0.015219
     id: ckcoy6jwsa2oi0j234vv7lue1
     verified: false
-    hashtags: "#fyp, #makeuphacks, #foryou, #parati"
-  - username: "kapinhaoficial"
+    hashtags: "#foryou, #trending, #funny, #fyp"
+  - username: "oifizumvlog"
     fullname: >-
-      Kapinha
+      Lourenço Rodrigues
     bio: >-
-      Actor🎭TV Host📺Singer🎤 Thank you ❤️ 460k 🙏🏼 Next 465k😘 • 🤩MY CHALLENGE👇🏼
+      📀 youtube ⤴️ 🇧🇷 em 🇵🇹 🤳🏻 instagram ⤵️
     location: "Portugal"
-    followers: 460500
-    engagement: 1286
-    commentsToLikes: 0.013395
-    id: ck9glci1knl150j78kmvzjgzr
+    followers: 495500
+    engagement: 1641
+    commentsToLikes: 0.023242
+    id: ck9rcqeomukw80j78hts0dwik
+    verified: true
+    hashtags: "#bbb21, #firstimeindrag, #drag, #harrypotter"
+  - username: "franciscoafonsoo"
+    fullname: >-
+      Francisco Afonso
+    bio: >-
+      He/Him 🇵🇹🇩🇪 Jaime Carlos “O rapaz que fala muitas línguas”
+    location: "Portugal"
+    followers: 60500
+    engagement: 1355
+    commentsToLikes: 0.029375
+    id: ckcvgufbbtcyj0j23qpyf35k8
     verified: false
-    hashtags: "#makeup, #couple, #comedia, #spooky"
+    hashtags: "#fyp, #franciscoafonsoo, #makeup, #alem"
+  - username: "joanashino"
+    fullname: >-
+      𝕵𝖔𝖆𝖓𝖆𝕾𝖍𝖎𝖓𝖔
+    bio: >-
+      (っ◔◡◔)っ 🖤 𝓗𝓮𝔂 🖤 She/Her PT-EN
+    location: "Portugal"
+    followers: 48000
+    engagement: 995
+    commentsToLikes: 0.009310
+    id: ck9ej5zx60rjr0j78mtperz6h
+    verified: false
+    hashtags: "#parati, #makeup, #alt, #paravoce"
   - username: "irisloveunicorns"
     fullname: >-
       Ines Silva
     bio: >-
       Email: ines@musetheagency.com ♥️
     location: "Portugal"
-    followers: 238600
-    engagement: 1121
-    commentsToLikes: 0.005592
+    followers: 559800
+    engagement: 1479
+    commentsToLikes: 0.005514
     id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#anime, #outfits, #hisoka, #narcisamalfoy"
+    hashtags: "#fyp, #viral, #makeup, #anime"
   - username: "kimkardashian.westt"
     fullname: >-
       Kim Kardashian
     bio: >-
       
     location: "Portugal"
-    followers: 385800
-    engagement: 726
-    commentsToLikes: 0.020679
+    followers: 407300
+    engagement: 687
+    commentsToLikes: 0.019212
     id: ck9eqgv1gx58f0j788erj6xox
     verified: false
-    hashtags: "#foryou, #fypage, #famous, #like"
-  - username: "betsaida_fonseca_rosa"
+    hashtags: "#makeup, #trending, #xyzbca, #foryoupage"
+  - username: "jessie.riibeiro"
     fullname: >-
-      betesaida_fonseca_rosa
+      🦋 𝓙𝓮𝓼𝓼𝓲𝓮 🦋
     bio: >-
-      Armenia e romona com muito orgulho✨,melhores bffs @melissa @kayla @levinya❤️✨
+      
     location: "Portugal"
-    followers: 9176
-    engagement: 2567
-    commentsToLikes: 0.174975
-    id: ck9ergvdt1pj70j78ct7jtot4
+    followers: 67500
+    engagement: 1927
+    commentsToLikes: 0.040907
+    id: ck83zbpqozh0b0j78xe3d7htu
     verified: false
-    hashtags: "#fyp, #fy, #paravoce, #lan"
-  - username: "kitcattycosplay"
+    hashtags: "#brasil, #portugal, #foryoupage, #destaque"
+  - username: "luana_filipe_"
     fullname: >-
-      KitCattyCosplay
+      LuanaFilipe❤️
     bio: >-
-      ✨ Please follow me on 1nst4 to help me reach 10K 🥺 @kitcattycosplay ✨
+      Dating🤍 If-luanafilipe_ Votem do Harry Styles 🤍👇
     location: "Portugal"
-    followers: 16500
-    engagement: 2242
-    commentsToLikes: 0.035087
-    id: ck9kduryovyr50j78h0onwt79
+    followers: 2539
+    engagement: 1992
+    commentsToLikes: 0.058594
+    id: ckc91pri4rum50j23n5lileux
     verified: false
-    hashtags: "#starguardianahri, #jinxleagueoflegends, #foryou, #fyp"
+    hashtags: "#football, #paravc, #paravoceforyou, #linhacongelante"
+  - username: "mavisbluee"
+    fullname: >-
+      Mavisss
+    bio: >-
+      Instagram ⤴️ Pan 🏳️‍🌈 qualquer pronome! Tenho 20 anos porra
+    location: "Portugal"
+    followers: 138400
+    engagement: 1468
+    commentsToLikes: 0.074326
+    id: cka0uj6k9uid40i78b43f378j
+    verified: false
+    hashtags: "#scenegirl, #alternative, #emogirl, #xbcyza"
 ---

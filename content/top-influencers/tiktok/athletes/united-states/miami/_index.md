@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Miami In 2022
+title: Top 10 Athletes TikTok Influencers In Miami In 2023
 description: >-
-  Find top athletes TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #athlete #miami #foryou.
+  Find top athletes TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #athlete #xyzbca.
 platform: TikTok
-hits: 20
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 20 TikTok influencers like this in Miami, United States for you to collaborate.
+hits: 14
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
+  - username: "allnewyork"
+    fullname: >-
+      best content out 🤷🏼‍♂️
+    bio: >-
+      Business Email: benandnickweldon@gmail.com Use promo code “benn” to get 10% off
+    location: "United States"
+    followers: 24500
+    engagement: 1591
+    commentsToLikes: 0.073986
+    id: cka9kz60b17ur0i782wbhmp7m
+    verified: false
+    hashtags: "#nfl, #billsmafia, #nyc, #607"
   - username: "omaratalla"
     fullname: >-
       Omar Atalla
     bio: >-
       Just here for fun FL | WPB Click the link for my R&B Playlist
     location: "United States"
-    followers: 9283
-    engagement: 1097
-    commentsToLikes: 0.050764
+    followers: 8958
+    engagement: 1280
+    commentsToLikes: 0.039642
     id: ckcpcwc42fs5f0j238re4xpd8
     verified: false
-    hashtags: "#korra, #aang, #single, #xyzbca"
-  - username: "han.sorensen"
-    fullname: >-
-      Hannah Sorensen
-    bio: >-
-      sister of a legend
-    location: "United States"
-    followers: 114400
-    engagement: 1556
-    commentsToLikes: 0.007938
-    id: ckbwh5lw72nnz0j23khjwl6pm
-    verified: false
-    hashtags: "#costume, #athletic, #fyp, #fail"
+    hashtags: "#timewarpjump, #avatar, #fyp, #greenscreen"
   - username: "_caasi__"
     fullname: >-
       C A A S I
     bio: >-
       20, 🇭🇹 Miami-Dade,United States SC: uh_isaac CEO of Underrated Tik Toks 30k?
     location: "United States"
-    followers: 26700
-    engagement: 1496
-    commentsToLikes: 0.081827
+    followers: 26600
+    engagement: 1432
+    commentsToLikes: 0.080716
     id: cka9kqwwy0xfx0i78aunrmy2o
     verified: false
-    hashtags: "#xyzbca, #haitians, #haiti, #duet"
-  - username: "fuego305"
+    hashtags: "#miami, #fyp, #caribbean, #xyzbca"
+  - username: "heyitsdiegoo"
     fullname: >-
-      Allen Edwards
+      Diegoo
     bio: >-
-      Goal-30k?? Athlete 👻 - Allenedwards56 HMU on IG for workout !! Flawda boy 🌴
+      Get me to 10K 😛 Miami/PR
     location: "United States"
-    followers: 29700
-    engagement: 1268
-    commentsToLikes: 0.022382
-    id: ck83wuudym9ap0j787y9c72et
+    followers: 8872
+    engagement: 1142
+    commentsToLikes: 0.030100
+    id: cka9kqtc50wwy0i788eou0bp7
     verified: false
-    hashtags: "#nfl, #sports, #alttiktok, #fyp"
-  - username: "ajgreene15"
+    hashtags: "#greenscreen, #fyp, #foryou, #basketball"
+  - username: "angeliqueking0918"
     fullname: >-
-      Aj Greene📺
+      Angelique King
     bio: >-
-      Wide Receiver☝🏾 CEO of "cuu🥁🥁 it out" #AJTV Just a funny football player😁
+      yes I do tiktok...and you would do it too for a check fl 📍
     location: "United States"
-    followers: 523000
-    engagement: 2436
-    commentsToLikes: 0.018334
-    id: ckd18j5hhq1av0j23wcr7v3md
+    followers: 19600
+    engagement: 1882
+    commentsToLikes: 0.020930
+    id: ckcehbdefp0jz0j23mlpjoh7d
+    verified: false
+    hashtags: "#coming2america, #fyp, #foryoupage, #miami"
+  - username: "overtimemikey"
+    fullname: >-
+      Mike Kaufman
+    bio: >-
+      Former Overseas Pro 🎒 I’m the basketball guy at Overtime 🏀 Ask me a question👇
+    location: "United States"
+    followers: 455800
+    engagement: 1421
+    commentsToLikes: 0.007995
+    id: ck806zxv1nh100j78g5f1woxd
     verified: true
-    hashtags: "#dayinmylife, #motivation, #duet, #foryoupage"
+    hashtags: "#coach, #kyrie, #nba, #miami"
+  - username: "freeman.thecreator"
+    fullname: >-
+      freeman.thecreator
+    bio: >-
+      Follow my insta🔥😱 @freeman.thecreator Mail: mysivvasyl@gmail.com
+    location: "United States"
+    followers: 165600
+    engagement: 677
+    commentsToLikes: 0.086988
+    id: ck8km8t0o7hgx0j78cqdh3rca
+    verified: false
+    hashtags: "#tracer, #tricks, #calisthenics, #tricking"
   - username: "josh24barry24"
     fullname: >-
       Josh
     bio: >-
-      Sports Pittsburgh Twitter: Josh24barry Insta: Josh24barry Snap:josh_isawesome2
+      Baseball Pittsburgh Twitter: Josh24barry Insta: Josh24barry
     location: "United States"
-    followers: 2390
-    engagement: 1029
-    commentsToLikes: 0.015544
+    followers: 2540
+    engagement: 940
+    commentsToLikes: 0.015949
     id: ckdms7i4ma3sb0j23w8ej19k1
     verified: false
-    hashtags: "#oof, #dinger, #baseballszn, #baseball"
-  - username: "jesser3y"
+    hashtags: "#usa, #meme, #xyzbca, #sidemen"
+  - username: "em6era"
     fullname: >-
-      Jesse Rey
+      em6era
     bio: >-
-      Dance 💃 , Tumbling 🤸‍♂️ , Fitness 🏋️‍♀️ 30, lover of Men, from LA
+      Founder of EM6FITNESS Online training||personal training 💪🏽🏋️‍♀️ Website👇
     location: "United States"
-    followers: 22900
-    engagement: 867
-    commentsToLikes: 0.016934
-    id: ck9dwohdapw270j78qfm0xoh6
+    followers: 6366
+    engagement: 604
+    commentsToLikes: 0.020031
+    id: ckai922nf6k7x0i78jlke31q8
     verified: false
-    hashtags: "#trainer, #miamivibes, #dancers, #funny"
-  - username: "versacekat"
+    hashtags: "#latina, #cuban, #fyp, #football"
+  - username: "sports_memers"
     fullname: >-
-      krystal agnello 🦋
+      Sports Memers
     bio: >-
-      snap: xtrakrystal MIA 17 🇨🇺🇩🇴 80k ??🥺
+      Follow for high school highlights
     location: "United States"
-    followers: 77200
-    engagement: 2074
-    commentsToLikes: 0.022020
-    id: ckbf8fa6sywlm0j23gy8xmudd
+    followers: 2622
+    engagement: 1612
+    commentsToLikes: 0.172628
+    id: cka84a7drsq0p0i783qrehfbx
     verified: false
-    hashtags: "#fyp, #volleyball, #bf, #miami"
-  - username: "bballmemesandmoments"
-    fullname: >-
-      Sam Richard Roy
-    bio: >-
-      Bringing you the best memes and moments from the NBA. Don’t leave w/o following.
-    location: "United States"
-    followers: 5934
-    engagement: 1155
-    commentsToLikes: 0.077809
-    id: ckdnhm8gti7te0j23q8br3mqc
-    verified: false
-    hashtags: "#nbafans, #kawhileonard, #kembawalker, #kyrie"
-  - username: "theepicgoodguy"
-    fullname: >-
-      Nick Giglio
-    bio: >-
-      Trucker from NJ to FL who helps everyone he sees, because, why not?! #epicgood
-    location: "United States"
-    followers: 7235
-    engagement: 887
-    commentsToLikes: 0.102072
-    id: ckbbokvv9cj4i0j235meqnzuy
-    verified: false
-    hashtags: "#wedgethedog, #truckerlife, #legendarychallenge, #nickgiglio"
+    hashtags: "#touchdown, #football, #sports, #athletic"
 ---

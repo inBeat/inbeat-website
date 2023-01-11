@@ -1,130 +1,106 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Ukraine In 2022
+title: Top 10 Yoga Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top yoga Instagram influencers in Ukraine in 2022. Most popular hashtags: #yoga #stretching #sport.
+  Find top yoga Instagram influencers in Ukraine in 2023. Most popular hashtags: #yoga #flexible #style.
 platform: Instagram
-hits: 45
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 45 Instagram influencers like this in Ukraine for you to work with.
+hits: 8
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 8 Instagram influencers like this in Ukraine for you to work with.
 profiles:
-  - username: "ariana.voronkina"
-    fullname: >-
-      ★Ariaɳa★
-    bio: >-
-      Rhythmic Gymnastics ⭐️ Deriugina school 👯‍♀️ 2️⃣ adult sport rank🔥 Account run by mom @yoga_catrin
-    location: "Ukraine"
-    followers: 29457
-    engagement: 337
-    commentsToLikes: 0.044584
-    id: ck8tcegt0z72d0j78i8ruwprx
-    verified: false
-    hashtags: "#chihua"
-  - username: "sanorita.shpagata"
-    fullname: >-
-      Sandra•Stretching•FitnessYoga•
-    bio: >-
-      Тело переживает то , во что верит душа HOME #YOGALOVER Тяну шпагаты не в боль, а в кайф #stretching_with_sandra
-    location: "Ukraine"
-    followers: 30211
-    engagement: 194
-    commentsToLikes: 0.049827
-    id: ck8swtg0xf6ih0j78rb0h4alq
-    verified: false
-    hashtags: "#beyourself, #myyoga, #myyogalife, #beyorself"
-  - username: "feelalivenow"
-    fullname: >-
-      FEEL ALIVE NOW ⚡️
-    bio: >-
-      Photography & Filmmaking by Phil Photo & Yoga Camps - @nashimi.glazami 📍Крым ⬇️ Пресеты, луты и ценные материалы
-    location: "Ukraine"
-    followers: 26712
-    engagement: 669
-    commentsToLikes: 0.022483
-    id: ck0u638640wis0i197uedaj56
-    verified: false
-    hashtags: ""
-  - username: "nastyatoledo"
-    fullname: >-
-      Анастасия Степина
-    bio: >-
-      🤸‍♀️Yoga teacher ⠀⠀@yogalabchita ⠀⠀⠀⠀ Он-лайн курс для начинающих
-    location: "Ukraine"
-    followers: 22994
-    engagement: 311
-    commentsToLikes: 0.037600
-    id: ck5pv9r12gtnq0i118l272lpc
-    verified: false
-    hashtags: "#toledohandstands, #handstands, #yoga, #kurmasana"
-  - username: "anna_life_journey"
-    fullname: >-
-      Anna Moro
-    bio: >-
-      🧘🏽‍♀️ Yoga Instructor & wellness expert 📩 DM for collaboration 📍 Kiev Check my yoga promo 👇
-    location: "Ukraine"
-    followers: 19230
-    engagement: 107
-    commentsToLikes: 0.123538
-    id: ck6ttdnp1a1cz0j71n3t3ffmy
-    verified: false
-    hashtags: "#lovestory, #mauritius, #quarantine, #helthylifestyle"
   - username: "ilonkis___"
     fullname: >-
       ☾ Ilonа
     bio: >-
-      Art ↠ Yoga ↠ Travel ↠ Aesthetics #ilonkis_yoga Telegram 👇🏼
+      Yoga ↠ Travel ↠ Art ↠ Aesthetics Telegram 👇🏼
     location: "Ukraine"
-    followers: 87915
-    engagement: 638
-    commentsToLikes: 0.012128
+    followers: 84906
+    engagement: 710
+    commentsToLikes: 0.021767
     id: ck5zphkiksoj20i1489crdq6p
     verified: false
-    hashtags: "#ilonkis"
-  - username: "ruslankvinta"
+    hashtags: ""
+  - username: "mila_kucherenko"
     fullname: >-
-      Ruslan Kvinta
+      
     bio: >-
-      Composer/producer Yoga/Vegetarian/Meditation/ 🌱#1plus1media #thevoice
+      • Тренер, який не нашкодить. • Здорові марафони стрункості. • Новий марафон - 11 квітня. • Допоможу створити тіло мрії, треную онлайн.
     location: "Ukraine"
-    followers: 47048
-    engagement: 158
-    commentsToLikes: 0.022644
-    id: ck6tv3gb5jydq0j71drimuj2a
+    followers: 32403
+    engagement: 486
+    commentsToLikes: 0.127999
+    id: ck5c3lof1zkqt0i11rqlbmyow
     verified: false
-    hashtags: "#repost, #djnana, #anastasiadomination, #detalipr"
-  - username: "yanastryeltsova"
+    hashtags: "#giveaway, #yoga, #sport, #sportgirl"
+  - username: "margolibi"
     fullname: >-
-      Яна Стрельцова
+      Margo
     bio: >-
-      Последователь нутрициологии и холистического питания 💚Основатель @greenchef.ua Основатель "YogaClub" www.yogakiev.com.ua
+      Young&free🖤 🇺🇦Made in Ukraine 🏋️‍♀️Gym addicted 🎹Piano lover 👩‍🎓Student of philology
     location: "Ukraine"
-    followers: 24261
-    engagement: 562
-    commentsToLikes: 0.035882
-    id: ck6u5imlu9upg0j71hlzqm3mb
+    followers: 4188
+    engagement: 2076
+    commentsToLikes: 0.033996
+    id: ckf5n54tvws2s0j23d05v2ina
+    verified: false
+    hashtags: "#kiev, #poltava, #krainogram, #poltavagirls"
+  - username: "svitlanasokoliuk"
+    fullname: >-
+      Svitlana Bondarenko
+    bio: >-
+      ⠀ 👠Co-founder @largo.fashion ☝️Розкажу як зібрати базовий гардероб 🌏Подорожую 21 країна 🗺️Навігація⬇️
+    location: "Ukraine"
+    followers: 20894
+    engagement: 241
+    commentsToLikes: 0.080819
+    id: ckaoszfmytp3z0i78fvv2b22a
+    verified: false
+    hashtags: "#masks, #look, #spain, #food"
+  - username: "uvarovaa.p"
+    fullname: >-
+      Уварова Полина
+    bio: >-
+      I play with air🕊 🏆Чемпионка мира 2018 🏆Двукратная чемпионка Европы 2018,19 Артист Тренер Судья 👇🏽Онлайн мастер-класс 1.0
+    location: "Ukraine"
+    followers: 13963
+    engagement: 1068
+    commentsToLikes: 0.010662
+    id: ck0twbf8ier050i191no9cu00
+    verified: false
+    hashtags: "#aerialbeauties, #circusaroundtheworld, #circusinternational, #circusinspiration"
+  - username: "daria__skvortsova"
+    fullname: >-
+      Дарья Скворцова
+    bio: >-
+      💪🏻Делаю танцоров и фитоняшек из биоматериала от 4 до ∞ ⠀ 🔝Тренирую в @lets_fly_pole_dance_dnepr
+    location: "Ukraine"
+    followers: 9184
+    engagement: 472
+    commentsToLikes: 0.023111
+    id: ck6uhksg79opg0j71j5h7b1mr
+    verified: false
+    hashtags: "#poletrick, #pole, #flexible, #stretching"
+  - username: "olena_blog"
+    fullname: >-
+      Olena Filipova
+    bio: >-
+      Мій блог мотивує на Цікаве, Здорове, Насичене і Красиве Життя ! ☀️ Впевнена ви замотивуєтесь 🦋 17 років працюю в сфері краси 🏅 Мрії збуваються ТУТ
+    location: "Ukraine"
+    followers: 31123
+    engagement: 67
+    commentsToLikes: 0.058397
+    id: ck6tq1qdjox670j719xadxei7
     verified: false
     hashtags: ""
-  - username: "tymoshenko_yaroslava"
+  - username: "vladaae"
     fullname: >-
-      Ярослава Тимошенко
+      Vlada Kozachyshche
     bio: >-
-      Sport girl❤️RG 🧘‍♀️ Model girl 📷 Kharkov 🇺🇦 Ukraine Motivation and inspiration ✌️✨ For cooperation - write to direct Аккаунт принадлежит родителям
+      💋 Makeup Artist Los Angeles 🇺🇦 Ukrainian ✨ Follow for Makeup Inspiration #makeupbyvladaae
     location: "Ukraine"
-    followers: 48872
-    engagement: 175
-    commentsToLikes: 0.151791
-    id: ck9hbef5cggp80j78j0qdmi64
+    followers: 26811
+    engagement: 108
+    commentsToLikes: 0.034757
+    id: ck0u7cxz14g5r0i19apm2e4sg
     verified: false
-    hashtags: "#sportsmodel, #nicetime, #flexible, #fitnessmodel"
-  - username: "la_cirque.art"
-    fullname: >-
-      𝐀𝐍𝐃𝐑𝐈𝐈 𝐋𝐘𝐓𝐕𝐀𝐊 🎪🎭
-    bio: >-
-      🔘𝐀𝐫𝐭𝐢𝐬𝐭 𝐨𝐟 @cirquedusoleil @dragoneofficial 🎪🌞 𝐒𝐡𝐨𝐰𝐬: #Quidam #LaNouba #LaPerleDXB 🔘𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫 @la_pics.art 📸 𝐕𝐢𝐧𝐧𝐢𝐭𝐬𝐚 📍 𝐊𝐢𝐞𝐯 🇺🇦 🔱
-    location: "Ukraine"
-    followers: 9221
-    engagement: 576
-    commentsToLikes: 0.067612
-    id: ck0vzn9pw9y2n0i1931073vl6
-    verified: false
-    hashtags: "#travelgram, #dubaimall, #dubaigram, #creative"
+    hashtags: "#makeupbyvladaae, #cowprintmakeup, #cowprint"
 ---

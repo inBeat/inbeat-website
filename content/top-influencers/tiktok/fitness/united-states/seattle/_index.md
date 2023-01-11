@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Seattle In 2022
+title: Top 10 Fitness TikTok Influencers In Seattle In 2023
 description: >-
-  Find top fitness TikTok influencers in Seattle in 2022. Most popular hashtags: #seattle #fitness #fyp #foryou.
+  Find top fitness TikTok influencers in Seattle in 2023. Most popular hashtags: #fitness #seattle #fyp #workout.
 platform: TikTok
-hits: 26
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 26 TikTok influencers like this in Seattle, United States for you to collaborate.
+hits: 15
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat has 15 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
-  - username: "bodyverafitness"
-    fullname: >-
-      VICTORIA RIVERA
-    bio: >-
-      Ig: @bodyverafitness Yt: Tory Rivera 25 ✨ Ur fav Pilates instructor
-    location: "United States"
-    followers: 58400
-    engagement: 1013
-    commentsToLikes: 0.010970
-    id: ck8sax9kx4amq0j78c8b2fkf2
-    verified: false
-    hashtags: "#fitgirl, #filipina, #wellness, #athleisure"
   - username: "brittney_roy"
     fullname: >-
       BrittRoy
     bio: >-
       NY➡️WA. 🏳️‍🌈
     location: "United States"
-    followers: 34100
-    engagement: 1564
-    commentsToLikes: 0.006703
+    followers: 33400
+    engagement: 1498
+    commentsToLikes: 0.007189
     id: ck9v8fpao9nvr0j78o072oxya
     verified: false
-    hashtags: "#seattle, #fitness, #police, #femalecops"
-  - username: "amys_corpse"
-    fullname: >-
-      Amethyst Rose
-    bio: >-
-      ✨🎀I’m Not Okay🎀✨ 💰CashApp: $Amethystboss 80lbs ⬇️
-    location: "United States"
-    followers: 27900
-    engagement: 2105
-    commentsToLikes: 0.045153
-    id: ckamqn62pi4ks0i787a8wlwzy
-    verified: false
-    hashtags: "#fyp, #comedy, #neonshadow, #myhobby"
+    hashtags: "#fitness, #femalecops, #lgbtq, #seattle"
   - username: "jordankim04"
     fullname: >-
       Jordan Kim
     bio: >-
-      Jordan Kim DM📩for promos/business
+      Jordan Kim
     location: "United States"
-    followers: 8973
-    engagement: 761
-    commentsToLikes: 0.038770
+    followers: 8820
+    engagement: 705
+    commentsToLikes: 0.038141
     id: ck8nfci1sr8tx0j78n8r5avk8
     verified: false
-    hashtags: "#viral, #tattoo, #seattlecheck, #fyp"
-  - username: "chiroseattle"
+    hashtags: "#fyp, #hoops, #seattle, #foryou"
+  - username: "susangmusic"
     fullname: >-
-      Daniel DeLucchi DC
+      SusanGmusic
     bio: >-
-      Chiropractor Seattle WA Family | Fitness | Fun ⬇️ My Fav products & Location ⬇️
+      Singer, lifestyle writer, blogger. IG: @susangmusic www.susangmusic.com
     location: "United States"
-    followers: 417900
-    engagement: 477
-    commentsToLikes: 0.017326
-    id: ckai99ksu7fvp0i78mf6d70gm
+    followers: 38700
+    engagement: 609
+    commentsToLikes: 0.229849
+    id: cka5yfb44hzzz0i78fg84p7l7
     verified: false
-    hashtags: "#chiroseattle, #seattle, #selfcare, #backpain"
-  - username: "chantyfs"
+    hashtags: "#millionactsoflove, #coversong, #makemomepic, #fyp"
+  - username: "natthecvt"
     fullname: >-
-      chanty 🌸
+      Nat the rat
     bio: >-
-      20 • 🇵🇭 ’09 civic si let’s be friends 💗 IG @chantyfs
+      18 Seattle 🇲🇽
     location: "United States"
-    followers: 72000
-    engagement: 1102
-    commentsToLikes: 0.023642
-    id: ckbf5srfzux390j235v9178uj
+    followers: 85200
+    engagement: 802
+    commentsToLikes: 0.031897
+    id: ckbrauhj0p2ge0j23n5285siu
     verified: false
-    hashtags: "#static, #civicsi, #carsoftiktok, #cartiktok"
-  - username: "on.the.go_fitness"
+    hashtags: "#inmyaejeans, #c8, #stingray, #lookalikeedit"
+  - username: "jaebabyxo"
     fullname: >-
-      Jesse Belnap
+      jae ♡
     bio: >-
-      I think I am funny Insta: @on.the.go_fitness Venmo: @jesse-Belnap 🤷🏻‍♂️ 📍Utah
+      20 | seattle follow my insta 4 a kiss venmo—>jaeley-wright
     location: "United States"
-    followers: 138000
-    engagement: 1034
-    commentsToLikes: 0.107746
-    id: ckc7xzs080fx80j23fxwv4uvk
+    followers: 19800
+    engagement: 924
+    commentsToLikes: 0.038646
+    id: ckal8s5l2kv3t0i78kaihnc32
     verified: false
-    hashtags: "#fyp, #yougotthis, #dadsoftiktok, #happyhalloween"
-  - username: "luke_george32"
-    fullname: >-
-      Luke George
-    bio: >-
-      📍Seattle -> Arkansas UofA Track Athlete // All-American
-    location: "United States"
-    followers: 66800
-    engagement: 1427
-    commentsToLikes: 0.014072
-    id: ckbar698uhsut0j231hw28y1q
-    verified: false
-    hashtags: "#school, #zoomclass, #fyp, #foryou"
+    hashtags: "#instagram, #single, #groupchat, #foryou"
   - username: "amirahrosek"
     fullname: >-
       Amirah
     bio: >-
-      20 ♏️ Seattle CPT IG @amirahkaram
+      21 ♏️ Seattle CPT
     location: "United States"
     followers: 18200
-    engagement: 1142
-    commentsToLikes: 0.014495
+    engagement: 1071
+    commentsToLikes: 0.018791
     id: ckcd10pelztg50j23q5xat3fu
     verified: false
-    hashtags: "#fitness, #personaltrainer, #fitnessgirl, #sandiego"
-  - username: "abby_clark33"
+    hashtags: "#fitnessgirl, #fitness, #personaltrainer, #newyork"
+  - username: "siimplylexie"
     fullname: >-
-      Abby Clark
+      Lexie Jae
     bio: >-
-      3x American Ninja Warrior (S 9, 10, 11)
+      22 | Seattle
     location: "United States"
-    followers: 472200
-    engagement: 1739
-    commentsToLikes: 0.016611
-    id: ck8070eyunm0t0j78127k4rp4
+    followers: 7009
+    engagement: 609
+    commentsToLikes: 0.011257
+    id: ckcjc2zou99kz0j23llqydhdk
     verified: false
-    hashtags: "#military, #showupshowoff, #workout, #challenge"
+    hashtags: "#fyp, #healthyeating, #healthyrecipes, #whatieatinaday"
+  - username: "merriam.d"
+    fullname: >-
+      Dale merriam
+    bio: >-
+      ➖calisthenics 6ft2 195lb ➖Seattle,Washington #BarBrothers
+    location: "United States"
+    followers: 11500
+    engagement: 1060
+    commentsToLikes: 0.039791
+    id: ckd085q25b1w40j23izufndjs
+    verified: false
+    hashtags: "#gymshark, #barbrothers, #abs, #pullups"
+  - username: "bodyverafitness"
+    fullname: >-
+      VICTORIA RIVERA
+    bio: >-
+      Ig: @bodyverafitness Yt: Tory Rivera 25 ✨ Ur fav Pilates instructor
+    location: "United States"
+    followers: 56400
+    engagement: 905
+    commentsToLikes: 0.006885
+    id: ck8sax9kx4amq0j78c8b2fkf2
+    verified: false
+    hashtags: "#boandtee, #pilates, #workout, #posture"
+  - username: "sports_memers"
+    fullname: >-
+      Sports Memers
+    bio: >-
+      Follow for high school highlights
+    location: "United States"
+    followers: 2622
+    engagement: 1612
+    commentsToLikes: 0.172628
+    id: cka84a7drsq0p0i783qrehfbx
+    verified: false
+    hashtags: "#touchdown, #football, #sports, #athletic"
 ---

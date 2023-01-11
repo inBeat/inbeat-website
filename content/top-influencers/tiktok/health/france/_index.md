@@ -1,60 +1,72 @@
 ---
-title: Top 10 Health TikTok Influencers In France In 2022
+title: Top 10 Health TikTok Influencers In France In 2023
 description: >-
-  Find top health TikTok influencers in France in 2022. Most popular hashtags: #healthy #foryou #pourtoi #fyp.
+  Find top health TikTok influencers in France in 2023. Most popular hashtags: #foryou #healthy #whatieatinaday #fyp.
 platform: TikTok
-hits: 55
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 55 TikTok influencers like this in France for you to connect with.
+hits: 59
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 59 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "maddys_healthy"
     fullname: >-
       maddys_healthy
     bio: >-
-      Ici, on rigole 🤩 ✉️ maddyshealthy@rushinfluence.fr 📸 Insta : Maddys_healthy
+      Ici c’est chouette ☀️ 📸Insta Maddys_healthy ✉️ maddyshealthy@boltinfluence.fr
     location: "France"
-    followers: 814300
-    engagement: 2369
-    commentsToLikes: 0.008487
+    followers: 981200
+    engagement: 2309
+    commentsToLikes: 0.007156
     id: ck9uy61jx2zvc0j78zciu83yg
     verified: true
-    hashtags: "#tiktokacademie, #faismoipeur, #monhalloween, #halloween"
+    hashtags: "#beegees, #sponsoris, #manhaecapexpert, #codesrousseau"
+  - username: "inlack_of_food"
+    fullname: >-
+      K❤️
+    bio: >-
+      HEALTHY AND PORN FOOD 🌱🍝 CEO of mugcake 😏🍫
+    location: "France"
+    followers: 186200
+    engagement: 1113
+    commentsToLikes: 0.008536
+    id: ckamnwwxv6lqo0i78ebpx7vd2
+    verified: false
+    hashtags: "#recipe, #calories, #whatieat, #pourtoi"
   - username: "myclarinsofficial"
     fullname: >-
       Clarins Little Sis’
     bio: >-
       🌸 Who said that HEALTHY doesn’t rhyme with FUN ?
     location: "France"
-    followers: 58800
-    engagement: 864
-    commentsToLikes: 0.017214
+    followers: 58700
+    engagement: 846
+    commentsToLikes: 0.015596
     id: ck902cy57c9zq0j788q0sk5xj
     verified: true
-    hashtags: "#makeup, #slattt, #3mots, #diy"
+    hashtags: "#stayhomestaysafe, #myclarins, #beauty, #3mots"
   - username: "hello.alizee"
     fullname: >-
       hello.alizee
     bio: >-
       📍Vit à Lyon 🥨 Née à Strasbourg ❤️ 🎂 26 yo 🐱🐱🐱
     location: "France"
-    followers: 6765
-    engagement: 679
-    commentsToLikes: 0.057145
+    followers: 6698
+    engagement: 696
+    commentsToLikes: 0.057142
     id: ck9eodrgonyiy0j7851soy9fe
     verified: false
-    hashtags: "#recette, #foryou, #partenariat, #fyp"
-  - username: "inlack_of_food"
+    hashtags: "#lyon, #recette, #partenariat, #foryou"
+  - username: "emmanuelle.miralles"
     fullname: >-
-      K❤️
+      Emmanuelle Miralles
     bio: >-
-      I post what I eat and share my meals 🌱🍝 17 Yo and passionate about food 🙊😋
+      Insta : Emmanuellemiralles 5.6K 🌿Lifestyle Blogger ☀️French Traveler
     location: "France"
-    followers: 102800
-    engagement: 1056
-    commentsToLikes: 0.010833
-    id: ckamnwwxv6lqo0i78ebpx7vd2
+    followers: 2462
+    engagement: 602
+    commentsToLikes: 0.042632
+    id: ckacajja1h0dz0i78wtdntggx
     verified: false
-    hashtags: "#recovery, #veggie, #whatieatinaday, #veggiefood"
+    hashtags: "#foryou, #maroc, #sante, #lake"
   - username: "felipefitness"
     fullname: >-
       FELIPE
@@ -66,65 +78,53 @@ profiles:
     commentsToLikes: 0.011522
     id: cka0tnhl4qm4v0i78rwkxewkw
     verified: false
-    hashtags: "#usa, #weightloss, #recipe, #fit"
-  - username: "aux_fourneaux"
+    hashtags: "#weightloss, #gym, #workout, #duet"
+  - username: "miachalliner"
     fullname: >-
-      aux_fourneaux
+      mia challiner
     bio: >-
-      #Cuisine Compte Officiel aux_fourneaux Youtube 75k 💎 Instagram 24k 💎
+      Follow my insta for recipes and fitness 📩: mia.challiner@gmail.com
     location: "France"
-    followers: 24600
-    engagement: 430
-    commentsToLikes: 0.024128
-    id: ckdn8j49jfeg90j23i9cjzxno
+    followers: 758200
+    engagement: 1598
+    commentsToLikes: 0.007299
+    id: ckcuppke4ivln0j23u13yjdfc
     verified: false
-    hashtags: "#pastry, #fruits, #nutrition, #recettefacile"
-  - username: "abbot71"
+    hashtags: "#bakedoats, #whatieatinaday, #foryou, #fyp"
+  - username: "josiepowell_fit"
     fullname: >-
-      abbot
+      Josie Powell
     bio: >-
-      new user can benefit $0.01 gift deal more special offer click the link below
+      Online coach ✨ Be the best version of yourself ❤️ jp.training.academy@gmail.com
     location: "France"
-    followers: 108600
-    engagement: 340
-    commentsToLikes: 0.013892
-    id: ckaibdfg7g0yk0i78g62chyeq
+    followers: 51600
+    engagement: 934
+    commentsToLikes: 0.009188
+    id: ck85cq46k2y2m0j78l3d4a7zu
     verified: false
-    hashtags: "#healthy, #greenreact, #eat, #greenlover"
+    hashtags: "#foodtok, #whatieatinaday, #fitnessgirl, #health"
+  - username: "jordan_0fficiel"
+    fullname: >-
+      Jordan.F
+    bio: >-
+      Barber💈✂️,Travel, mode, frenchmodel, sport
+    location: "France"
+    followers: 21300
+    engagement: 513
+    commentsToLikes: 0.011483
+    id: ckb99igydtra70j23v2q37c7a
+    verified: false
+    hashtags: "#healthy, #sport, #nutrition, #bowlcake"
   - username: "penelope.dc"
     fullname: >-
       penelope.dc
     bio: >-
-      I’ve been convinced 🤍👼🍯⭐️🍋
+      i like to embarrass myself
     location: "France"
-    followers: 5996
-    engagement: 1059
-    commentsToLikes: 0.015511
+    followers: 7252
+    engagement: 799
+    commentsToLikes: 0.022143
     id: ckb9bqvfry6o80j23t966z2fo
     verified: false
-    hashtags: "#healthy, #fyp, #workout, #duet"
-  - username: "naturalmojo"
-    fullname: >-
-      Natural Mojo
-    bio: >-
-      🌱100% natural ingredients and superfoods 🥛Meal substitutes or supplements ⬇️
-    location: "France"
-    followers: 5145
-    engagement: 865
-    commentsToLikes: 0.012252
-    id: ckbr4zmsvkv9n0j23w9uoizbj
-    verified: false
-    hashtags: "#naturalmojo, #healthy, #halloween, #singlesday"
-  - username: "unpeuhealthy"
-    fullname: >-
-      EphélideGirl
-    bio: >-
-      Hey! 🍯 Fashion: @clemence_haincourt Recettes: @unpeuhealthy 📍Paris
-    location: "France"
-    followers: 6358
-    engagement: 643
-    commentsToLikes: 0.016678
-    id: ck9ka8whhg9rx0j780jadf5mr
-    verified: false
-    hashtags: "#foryou, #makeup, #tutorial, #pourtoi"
+    hashtags: "#sushi, #coffee, #foryou, #vegan"
 ---

@@ -1,48 +1,48 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Spain In 2022
+title: Top 10 Crossfit Instagram Influencers In Spain In 2023
 description: >-
-  Find top crossfit Instagram influencers in Spain in 2022. Most popular hashtags: #crossfit #travel #naturaleza.
+  Find top crossfit Instagram influencers in Spain in 2023. Most popular hashtags: #crossfit #photography #spain #crossfitgirls.
 platform: Instagram
-hits: 136
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 136 Instagram influencers like this in Spain for you to contact.
+hits: 99
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat has 99 Instagram influencers like this in Spain for you to contact.
 profiles:
   - username: "chamborodriguez"
     fullname: >-
       Salvador Rodríguez de Burgos
     bio: >-
-      1989 San Fernando | CADIZ | • Un buen cafe ☕️ • Un lugar que explorar 🌍 • CrossFit 🏋🏼‍♂️ • Salvadorrdb@hotmail.com 📩 📍 Getafe | MADRID | 🇪🇸
+      1989 San Fernando | CADIZ | • Un buen cafe ☕️ • Un lugar que explorar 🌍 • CrossFit 🏋🏼‍♂️ • Salvador@flapinkgo.es 📩 📍 Getafe | MADRID | 🇪🇸
     location: "Spain"
-    followers: 12800
-    engagement: 1275
-    commentsToLikes: 0.063549
+    followers: 12806
+    engagement: 1082
+    commentsToLikes: 0.071229
     id: ck5hgukm64u670i11r19vmbf9
     verified: false
-    hashtags: "#igtravel, #traveler, #explore, #iamtraveler"
-  - username: "baby__beast"
+    hashtags: "#europa, #amoviajar, #naturaleza, #atardecer"
+  - username: "fransiela_jimenezg"
     fullname: >-
-      Crossfit Girl
+      Fransiela Jiménez
     bio: >-
-      ÚNICA CUENTA 💁🏽‍♀️ Bea para los amigos 🖤 CrossFit 🎁 -10% PROZIS: BABY
+      🏋🏻‍♀️ Crossfit athlete 🇲🇽 México | El que persevera alcanza 🙌🏼💓 💪🏼1x crossfit games athlete 📚 Comercio Internacional
     location: "Spain"
-    followers: 44198
-    engagement: 1441
-    commentsToLikes: 0.311872
-    id: ck0tvwaagd2df0i1966pjh476
+    followers: 24426
+    engagement: 646
+    commentsToLikes: 0.007488
+    id: ck15ul8hqnqc40i19ykbbas2s
     verified: false
-    hashtags: "#workout, #crossfitgirls, #love, #wod"
-  - username: "karontte"
+    hashtags: "#training, #crossfit, #fitness, #weightlifting"
+  - username: "ritagarciaherrera"
     fullname: >-
-      Daniel Pardeiro
+      Rita Garcia
     bio: >-
-      📍Madrid 💪🏼CrossFit 🏋🏻‍♂️Weightlifting 🚵🏼‍♂️Mtb ✈️Travel 🎮videogames 🐶Animals ❌No grindr,scruff or similar.If u see a pic of me there,report
+      Owner of @sweetdeathcrossfit CROSSFIT - WEIGHTLIFTING Spanish🇪🇸-Sports-Dogs lover 4x #regionalsathlete 2x fittest in Spain 🔻❤️SPONSOR❤️🔻
     location: "Spain"
-    followers: 27748
-    engagement: 814
-    commentsToLikes: 0.034107
-    id: ckap6khqzg8e80i78nsco9ayv
+    followers: 32639
+    engagement: 495
+    commentsToLikes: 0.016595
+    id: ck5hr9fxfuhvt0i11ye1lkgut
     verified: false
-    hashtags: "#gayman, #gaylife, #gayspandex, #instaguy"
+    hashtags: "#myway, #crossfit, #fitnessgirl, #strongwomen"
   - username: "jessy__dress"
     fullname: >-
       Jessy
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.181113
     id: ckap0aoy3pi220i78g0bsz0w8
     verified: false
-    hashtags: "#bohemechic, #spain, #zaraaddict, #mallorca"
+    hashtags: "#zaraoutfit, #swissgirl, #mallorca, #summerholidays"
+  - username: "karontte"
+    fullname: >-
+      Daniel Pardeiro
+    bio: >-
+      📍Madrid 💪🏼CrossFit 🏋🏻‍♂️Weightlifting 🚵🏼‍♂️Mtb ✈️Travel 🎮videogames 🐶Animals ❌No grindr,scruff or similar.If u see a pic of me there,report
+    location: "Spain"
+    followers: 28052
+    engagement: 865
+    commentsToLikes: 0.035158
+    id: ckap6khqzg8e80i78nsco9ayv
+    verified: false
+    hashtags: "#gayvisibility, #gayalicante, #gaymadrid, #gaymadridcentro"
+  - username: "carolinapshopper"
+    fullname: >-
+      Carolina De Souza
+    bio: >-
+      🛍 Personal Shopper 👠 Fashion Blogger & Stylist 💄 Beauty 🏋🏽‍♀️ Crossfit addict 👗 15%Shein”carolinapshopper15” ⚠️ 21buttons.com/carolinapshopper/ 📍 Elx
+    location: "Spain"
+    followers: 29799
+    engagement: 356
+    commentsToLikes: 0.628286
+    id: ck6u71xgcizzc0j71c98cprdk
+    verified: false
+    hashtags: "#morgandetoi, #fashionstyle, #style, #lookoftheday"
   - username: "the_world_with_u"
     fullname: >-
       Carlos
     bio: >-
-      📌🇪🇸 🐶Thor & me @77feettraining la mejor programación! 📷GoPro lover & CrossFit🏋🏻 Ambassador @nu_bear @wodndone @prozisespana PROZIS CODE10%: THEWORLD
+      📌🇪🇸 🐶 & me 📷GoPro & CrossFit Ambassador @banbroken CrossFit outfit 💪🏼 @77feettraining mejor programación @nu_bear pole @prozisespana CODE10%:THEWORLD
     location: "Spain"
-    followers: 46346
-    engagement: 329
-    commentsToLikes: 0.076648
+    followers: 49305
+    engagement: 306
+    commentsToLikes: 0.065113
     id: ck0u6yt653c0h0i19erdtk05i
     verified: false
-    hashtags: "#nubear, #photography, #challerpestaple, #2020"
-  - username: "hectorenmadrid"
-    fullname: >-
-      Héctor en Madrid
-    bio: >-
-      🏠Madrid (Spain) ♊️ Gemini 15/06 🐶🐶Byron & Zeus 🎓Engineer 🏋🏻Crossfitter 🤦🏻‍♂️ Left-handed 🍭T1 Diabetic 💼Fashion Marketing Director
-    location: "Spain"
-    followers: 136902
-    engagement: 627
-    commentsToLikes: 0.015501
-    id: ck0w611oq6eb70i19nuz6s6l0
-    verified: false
-    hashtags: "#emsculpt, #maribelyebenes, #mymadrid, #dogsofinstagram"
-  - username: "bryanher97"
-    fullname: >-
-      Bryan Hernández
-    bio: >-
-      Las Palmas de Gran Canaria, Spain. 🇮🇨 CrossFit 🏋️ ULPGC CAFD 🤸 "Pasos pequeños pero firmes hacen fuerte el camino de un campeón"
-    location: "Spain"
-    followers: 9774
-    engagement: 1122
-    commentsToLikes: 0.034734
-    id: ck15t9ri0h11k0i198h80eswt
-    verified: false
-    hashtags: "#mochilaxoomproject, #sorteo, #crossfit, #reebok"
+    hashtags: "#instagood, #lavanda, #2020, #happybirthday"
   - username: "mobilla01"
     fullname: >-
       🇪🇸 🄹🄰🅅🄸🄴🅁 🄰🄱🄰🄳 🇪🇸
     bio: >-
-      ⭕ Ponferrada (El Bierzo) ⭕ Crossfit Athlete ⭕ Informático y friki ⭕ @wetaca : JAVIERA0861
+      🏡 Ponferrada (El Bierzo) 🏋️ Crossfit Athlete 📟 Informático
     location: "Spain"
-    followers: 12536
-    engagement: 1181
-    commentsToLikes: 0.021333
+    followers: 13436
+    engagement: 982
+    commentsToLikes: 0.015599
     id: ckap3v7sz4mq30i78d6g9q0vq
     verified: false
-    hashtags: "#crossfitter, #instagood, #ponferrada, #elbierzo"
-  - username: "fransiela_jimenezg"
+    hashtags: "#photography, #crossfit, #crossfiter, #photooftheday"
+  - username: "laurafitness.trainer"
     fullname: >-
-      Fransiela Jiménez
+      ~ Laura FitnessTrainer ~
     bio: >-
-      🏋🏻‍♀️ Crossfit athlete 🇲🇽 México | 19 | El que persevera alcanza 🙌🏼💓 💪🏼1x crossfit games athlete 📚 Comercio Internacional
+      👩🏼‍⚕️| Dietista - Nutrición Deportiva 🏋🏼‍♀️| Entrenadora - Crossfit por las venas 🔹| Código 𝐋𝐀𝐔𝐑𝐀𝐅𝐈𝐓 @myproteines 📩| ASESORÍAS + info en ⤵️
     location: "Spain"
-    followers: 22747
-    engagement: 843
-    commentsToLikes: 0.007922
-    id: ck15ul8hqnqc40i19ykbbas2s
+    followers: 5356
+    engagement: 790
+    commentsToLikes: 0.056787
+    id: ck8tbrtlewvkx0j78a4pjvrgy
     verified: false
-    hashtags: "#crossfit, #fitness, #training, #taekwondo"
-  - username: "rubenpadillac_"
+    hashtags: "#workout, #aputotope, #photography, #goals"
+  - username: "jim6157d"
     fullname: >-
-      Rubén Padilla
+      Jim 🇫🇷🇪🇸🇬🇧
     bio: >-
-      🔹A MAN | A GENTLEMAN | AN ANIMAL🔹 📍 Barcelona, Spain 🌍 Intl. Retail Management 🥑 Healthy Lifestyle 🏋🏼 Crossfitter injured
+      • Project manager • Gay & proud 🏳️‍🌈 • From Toulouse • Barcelona📍 • Crossfit - swimming - running 🏋️‍♀️ 🦄 Mama says I’m Special 😅
     location: "Spain"
-    followers: 16643
-    engagement: 1073
-    commentsToLikes: 0.007535
-    id: ck5q7ipdo1rjt0i11nnibo8da
+    followers: 2523
+    engagement: 3225
+    commentsToLikes: 0.015095
+    id: ck8t8z9ynmdj40j78oyxbbt96
     verified: false
-    hashtags: ""
+    hashtags: "#gayspanish, #mequedoencasa, #gaysports, #spanishgay"
 ---

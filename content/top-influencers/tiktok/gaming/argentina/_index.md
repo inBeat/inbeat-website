@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Argentina In 2022
+title: Top 10 Gaming TikTok Influencers In Argentina In 2023
 description: >-
-  Find top gaming TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #foryou #gaming.
+  Find top gaming TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 35
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 35 TikTok influencers like this in Argentina for you to pitch.
+hits: 26
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database has 26 TikTok influencers like this in Argentina for you to connect with.
 profiles:
   - username: "airsoftbb"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ⚪️Airsoft & 💻 gaming Suscríbanse a mi YouTube ⬇️ Objetivo 450k !!
     location: "Argentina"
-    followers: 426100
-    engagement: 717
-    commentsToLikes: 0.011691
+    followers: 416800
+    engagement: 849
+    commentsToLikes: 0.012624
     id: ckcj4ftpe58280j23pdav84m8
     verified: false
-    hashtags: "#philipshue, #rgb, #rainbowsixsiege, #airsoftclips"
+    hashtags: "#warzone, #airsoftclips, #airsoftbb, #fyp"
   - username: "edits._.arte._"
     fullname: >-
-      Mates artesanales y más
+      ._.
     bio: >-
-      Hacemos mates artesanales para todos los gustos. Envios a CABA Argentina 🌍🙌💌
+      no bio yet
     location: "Argentina"
-    followers: 4108
-    engagement: 2409
-    commentsToLikes: 0.085230
+    followers: 3987
+    engagement: 2224
+    commentsToLikes: 0.055944
     id: ckavtaf6j610e0j23z5mnc8t2
     verified: false
-    hashtags: "#charlidamelio, #behappy, #foryou, #asuran"
+    hashtags: "#noenparati, #greenscreen, #gamingmovil, #parati"
   - username: "denftw"
     fullname: >-
       denftw
     bio: >-
       Me gustan lo' jueguitos 🎮 Ig: denftw1 Seguime en Twitch, me re ayudás 💕 210k🔒
     location: "Argentina"
-    followers: 203500
-    engagement: 1877
-    commentsToLikes: 0.022713
+    followers: 198600
+    engagement: 1758
+    commentsToLikes: 0.023422
     id: ckbangh9geawq0j238kelyern
     verified: false
-    hashtags: "#fortnite, #leagueoflegends, #internet, #gaming"
-  - username: "suzuufun"
-    fullname: >-
-      Hernan Suzuki Son
-    bio: >-
-      Soy Argen-Japo-Corea-Tino 🇦🇷🇯🇵🇰🇷 ♥️ Gamers AMO STREAMEAR
-    location: "Argentina"
-    followers: 513100
-    engagement: 1630
-    commentsToLikes: 0.009439
-    id: ckavp23v200xu0j23m9nusep8
-    verified: false
-    hashtags: "#gamers, #twitch, #gaming, #pcgamer"
+    hashtags: "#gamergirl, #fortnite, #lolcito, #internet"
   - username: "tech.3d"
     fullname: >-
       Ian Carrasco
     bio: >-
       Proyectos, impresiones, cosplays y más 😉
     location: "Argentina"
-    followers: 49100
-    engagement: 1038
-    commentsToLikes: 0.011756
+    followers: 50900
+    engagement: 1012
+    commentsToLikes: 0.010683
     id: ckb9kq4jkct9g0j23m0i0d34x
     verified: false
-    hashtags: "#creality, #mask, #spiderman, #mandalorian"
-  - username: "ttvtiagoanzoo"
-    fullname: >-
-      tiagoanzoo
-    bio: >-
-      17 🇦🇷50k??🇦🇷 🤡El Sustos🤡 ¡¡Streams la noche arg!! ⬇️Seguime en Twitch!⬇️
-    location: "Argentina"
-    followers: 48000
-    engagement: 1456
-    commentsToLikes: 0.010116
-    id: ckd5xcl0m05a80j23z9mi0rfi
-    verified: false
-    hashtags: "#outlast, #gaming, #gameplay, #parati"
+    hashtags: "#spiderman, #starwars, #impresion3d, #marvel"
   - username: "_..lili..._"
     fullname: >-
       Lili :D
     bio: >-
       😾👍
     location: "Argentina"
-    followers: 4576
-    engagement: 2287
-    commentsToLikes: 0.068127
+    followers: 4479
+    engagement: 2141
+    commentsToLikes: 0.070591
     id: ckd6wirogsd7n0j23la6flgzd
     verified: false
-    hashtags: "#nuevoocxd, #gamingmovil, #greenscreen, #cancelzoom"
-  - username: "winsor.ff"
-    fullname: >-
-      WINSORtiktok
-    bio: >-
-      LINK DIRECTO A MI CANAL DE YOU TUBE ☝️☝️ ❤ NUEVO VIDEO 👇
-    location: "Argentina"
-    followers: 202300
-    engagement: 2043
-    commentsToLikes: 0.034497
-    id: ckd5n5c98wj8y0j23pmi12woj
-    verified: false
-    hashtags: "#trending, #flighthouse, #funny, #foryou"
+    hashtags: "#paratiporfa, #videojuegos, #ahreporqueduojajj, #creeendios"
   - username: "_francisco.m"
     fullname: >-
       Francisco Maldonado 👽
     bio: >-
       lo que pinte...soy buena onda brotherrr. mi Instagram está arriba👆🏻 seguimee
     location: "Argentina"
-    followers: 3746
-    engagement: 1964
-    commentsToLikes: 0.037469
+    followers: 3724
+    engagement: 1759
+    commentsToLikes: 0.030334
     id: ckcjblik491t90j234tszhygd
     verified: false
-    hashtags: "#destacame, #fyb, #arg, #comedia"
+    hashtags: "#parati, #fyb, #arg, #destacame"
+  - username: "winsor77yt"
+    fullname: >-
+      lawi.ff
+    bio: >-
+      SEGUIME EN YOU TUBE ♡ ☝️☝️ EDAD:19 ID: 1901004126 NUEVO VIDEO :( 👇👇
+    location: "Argentina"
+    followers: 312300
+    engagement: 1446
+    commentsToLikes: 0.016209
+    id: ckd5n5c98wj8y0j23pmi12woj
+    verified: false
+    hashtags: "#trending, #foryoupage, #tiktok, #ffcc"
   - username: "limonuvu"
     fullname: >-
       skiusmy 😾👊🏻
     bio: >-
-      tengo 22,1 k de personas en mi corazón ❤❤❤
+      tengo 22,0 k de personas en mi corazón ❤❤❤
     location: "Argentina"
-    followers: 22100
-    engagement: 2353
-    commentsToLikes: 0.041619
+    followers: 22000
+    engagement: 2463
+    commentsToLikes: 0.050420
     id: cka0g483q2ka40i78qim1mrya
     verified: false
-    hashtags: "#parati, #comedia, #fyp, #destacame"
+    hashtags: "#zybooooky, #enparati, #gacha, #amongus"
+  - username: "vickyherrera"
+    fullname: >-
+      Vicky Herrera
+    bio: >-
+      Gracias por seguirme, te amo✨🤍
+    location: "Argentina"
+    followers: 43300
+    engagement: 1444
+    commentsToLikes: 0.030273
+    id: ckb8z5djae9dm0j23hkttwe65
+    verified: false
+    hashtags: "#ty, #tt40t, #love, #go"
+  - username: ".aesthetic.vintage._"
+    fullname: >-
+      ♡𝓭𝓮 𝓽𝓸𝓭𝓸 𝓾𝓷 𝓹𝓸𝓬𝓸♡
+    bio: >-
+      ✿𝓿𝓲𝓭𝓮𝓸𝓼 𝓭𝓲𝓪𝓻𝓲𝓸𝓼✿ ❀𝓶𝓮𝓽𝓪:15K❀ ☆𝓰𝓻𝓪𝓬𝓲𝓪𝓼 𝓹𝓸𝓻 𝓵𝓸𝓼 10k☆
+    location: "Argentina"
+    followers: 10600
+    engagement: 1673
+    commentsToLikes: 0.021476
+    id: ckd05xtnia1nu0j23iken1n2m
+    verified: false
+    hashtags: "#aesthetic, #fyp, #impresionado, #zxycba"
 ---

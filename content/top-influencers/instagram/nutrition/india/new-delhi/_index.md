@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In New Delhi In 2022
+title: Top 10 Nutrition Instagram Influencers In New Delhi In 2023
 description: >-
-  Find top nutrition Instagram influencers in New Delhi in 2022. Most popular hashtags: #fashion #newdelhi #model #instagood.
+  Find top nutrition Instagram influencers in New Delhi in 2023. Most popular hashtags: #fitness #instagram #bodybuilding #workout.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 9 Instagram influencers like this in New Delhi, India for you to collaborate.
+hits: 7
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 7 Instagram influencers like this in New Delhi, India for you to connect with.
 profiles:
-  - username: "miss_jules_lifestyle"
+  - username: "palkakhurana"
     fullname: >-
-      🌸 Jules | Influencer 🌸
+      Palka Khurana
     bio: >-
-      Lifestyle, Beauty, Fashion, Travel @akshay.xplorer ❤️ DM/Email for collabs or features Always back and forth from the US to India ❤️
+      Fashion l Fitness | Traveller | Lifestyle *Mom of 2 Boys* DM/Email for Collabs
     location: "India"
-    followers: 28578
-    engagement: 249
-    commentsToLikes: 0.016841
-    id: ck9hb9ak9fw310j78ml6539u8
+    followers: 26467
+    engagement: 217
+    commentsToLikes: 0.095806
+    id: ckap6vk93hixs0i787foe2jbp
     verified: false
-    hashtags: "#smilesbylumiere, #beautycare, #indiafashion, #lumieredentalstudio"
-  - username: "kanika868"
-    fullname: >-
-      Kirandeep Kaur
-    bio: >-
-      By grace through faith💫 •Fashion,Beauty & Travel Blogger 📧kanikakaur10@gmail.com 👻Snapchat-kirandeep10 📍New Delhi,India
-    location: "India"
-    followers: 787229
-    engagement: 336
-    commentsToLikes: 0.010609
-    id: ck5zuhjxn2dcy0i14adj8104w
-    verified: false
-    hashtags: "#digitekringlight, #fitnessrefreshed, #ringlight, #reel"
+    hashtags: "#fitnessmotivation, #milohomeground, #fitnesslover, #healthinsideout"
   - username: "ashwaryabhutani"
     fullname: >-
       Aishwarya Bhutani
     bio: >-
-      ;Model | Living&Loving ✨ •Fashion•Lifestyle•Travel 🌍 🎓Economics, Du 📍New Delhi
+      Beauty & Confidence 🤍 Model | Fashion•Lifestyle•Travel 🎓Economics, DU 📍New Delhi
     location: "India"
-    followers: 4481
-    engagement: 1040
-    commentsToLikes: 0.050088
+    followers: 4662
+    engagement: 982
+    commentsToLikes: 0.057075
     id: ck0uaq701cvhl0i19ov2abkwy
     verified: false
-    hashtags: "#blog, #yourebeautiful, #lifestyle, #model"
-  - username: "namrata_pathania"
-    fullname: >-
-      Namrata Pathania
-    bio: >-
-      I love creating content and sharing with the world! 📧: namratapathania.np@gmail.com 📍: New Delhi, India
-    location: "India"
-    followers: 198571
-    engagement: 105
-    commentsToLikes: 0.062437
-    id: ck0w3ij7ytl960i19v7k7vg6k
-    verified: false
-    hashtags: "#reels, #indianfashion, #viral, #ethnic"
+    hashtags: "#staysafe, #outfitideas, #picturesofindia, #staytuned"
   - username: "thegastronomicquest"
     fullname: >-
       T . G . Q .
     bio: >-
       W. @simran_isha & @akanshathapliyal 🍽️ Life is a combination of magic and food & we can swear food has more magic than Hogwarts 🍽️|📍New Delhi, IND
     location: "India"
-    followers: 3447
-    engagement: 1486
-    commentsToLikes: 1.016691
+    followers: 3453
+    engagement: 1342
+    commentsToLikes: 0.981280
     id: ck5cbpdjafwwl0i11xafrwr8z
     verified: false
-    hashtags: "#foodshot, #foodporn, #coffeetime, #delhigram"
-  - username: "bineetkaurr"
+    hashtags: "#yummy, #yummyinmytummy, #instadessert, #foodbloggers"
+  - username: "thakur_jyotii"
     fullname: >-
-      Bineet Kaur
+      JYOTI | ONLINE FITNESS COACH
     bio: >-
-      📍new delhi Let’s fly
+      👩🏼‍💻DIET| WORKOUT PLAN| NUTRITION 🌟CHANGING LIVES THROUGH FITNESS. 📧EMAIL/DM FOR ONLINE COACHING. 👩🏻‍💼TEAM ON @optimumnutri_in
     location: "India"
-    followers: 5383
-    engagement: 750
-    commentsToLikes: 0.027752
-    id: ck6tmmgrp84470j710cbl020n
+    followers: 105960
+    engagement: 107
+    commentsToLikes: 0.025804
+    id: ck0u69bwh1cpt0i194tcnhlam
     verified: false
-    hashtags: "#dancer, #art, #movement, #shakti"
-  - username: "hansoloandsoami"
+    hashtags: "#hiit, #reels, #explore, #homeworkout"
+  - username: "food_mandi"
     fullname: >-
-      Aditya Wadhawan (Lucifer)
+      Food Mandi🥘🍜🍔
     bio: >-
-      Caption king. My ex made my instagram account, that's the only good thing she did🤰🏻 LOTR. A7x. ManUtd. Delhi/Gurgaon, India 📍
+      Delhi | NCR 🇮🇳 Food | Travel |Product Reviews | Daily Mouthwatering posts🤤 DM for Collab | Invites |Promation| Reviews🤝📩 Admin - @rajput_bhanu1110
     location: "India"
-    followers: 53741
-    engagement: 1670
-    commentsToLikes: 0.017096
-    id: ck5pyh2u0vzg80i11ekrij88n
+    followers: 4405
+    engagement: 843
+    commentsToLikes: 0.147696
+    id: ck8ta3p70qcnx0j783pemzz94
     verified: false
-    hashtags: "#bts, #telaviv, #gym, #starwars"
-  - username: "gunjan_kunwar99"
+    hashtags: "#delhifoodies, #delhistreetfood, #desifoodie, #foodbloger"
+  - username: "virus_sharma"
     fullname: >-
-      👑Gunjan Kunwar(Naina)👑
+      🧿 Vikas Sharma - DELHI FOODIE
     bio: >-
-      
+      Combination of #food & #fitness Use #virus_sharma 🎈 Verified Zomato Connoisseur 🌏 Level 6 Trip Advisor 📩 For #Invites, #Collaboration & #Promotions
     location: "India"
-    followers: 121218
-    engagement: 694
-    commentsToLikes: 0.023240
-    id: ck134pydxxmz30i19nk0mk2ds
+    followers: 41844
+    engagement: 314
+    commentsToLikes: 0.016300
+    id: ck8t2uger0qzv0j78wm98wp0y
     verified: false
-    hashtags: "#goodvibesonly, #fashionista, #newpostalert, #newdelhi"
-  - username: "delhi_streets_food"
+    hashtags: "#foodgasm, #gurgaon, #follow4follow, #sweetbox"
+  - username: "the_indianbodybuilding"
     fullname: >-
-      Foodie Ashwani
+      Indian Bodybuilding
     bio: >-
-      My Cafe @rabbitleecafe Khata😋 Rahe Mera Mn, Pita 🍺 Rahe Mera Dil, Yaar Just🥂 Chill, Sweet Lover 🍨 #Foodieashwani 👇Dm or Mail👇 Invite / Promo / Collab
+      Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
     location: "India"
-    followers: 29535
-    engagement: 827
-    commentsToLikes: 0.029387
-    id: ck8t6nxq2e95e0j7887175pte
+    followers: 120649
+    engagement: 345
+    commentsToLikes: 0.004448
+    id: ck13bgjh9vbfv0i193avrhy05
     verified: false
-    hashtags: "#delhistreetfood, #likeforlikes, #food, #foodieashwani"
-  - username: "nicolehuber90"
+    hashtags: "#fitness, #repost, #bodybuilding, #teambasekofitness"
+  - username: "rohitkhatrifitness"
     fullname: >-
-      Nicole Huber
+      Rohit Khatri
     bio: >-
-      ☆Health & Nutrition Coach IIN® ⍙ Yoga Teacher RYT500 ♡Facilitadora del Sistema Isha® ≛Centro de Bienestar @c.u.m.a.n.a ♡Eco Life Encontrando libertad☆
+      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
     location: "India"
-    followers: 111964
-    engagement: 242
-    commentsToLikes: 0.096602
-    id: ck0u9t977altr0i191ky8lq95
+    followers: 614738
+    engagement: 467
+    commentsToLikes: 0.004563
+    id: ck8wd6rbxdgf00j78gz3so4nb
+    verified: false
+    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
+  - username: "ifbbpro_jkaliwala"
+    fullname: >-
+      Junaid Kaliwala
+    bio: >-
+      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
+    location: "India"
+    followers: 333970
+    engagement: 247
+    commentsToLikes: 0.010723
+    id: ck5hrf80lurx60i11laqzr2nh
     verified: true
-    hashtags: "#novaseo, #temerecestodo, #ohyeah, #volveraloesencial"
+    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
+  - username: "komalchhikara1"
+    fullname: >-
+      Komal Chhikara Rathi
+    bio: >-
+      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
+    location: "India"
+    followers: 83159
+    engagement: 344
+    commentsToLikes: 0.013813
+    id: ck9hb43p6fbsm0j78er6ip0aq
+    verified: false
+    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
 ---

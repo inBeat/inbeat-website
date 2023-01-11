@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Spain In 2022
+title: Top 10 Gaming TikTok Influencers In Spain In 2023
 description: >-
-  Find top gaming TikTok influencers in Spain in 2022. Most popular hashtags: #parati #humor #gaming #gamer.
+  Find top gaming TikTok influencers in Spain in 2023. Most popular hashtags: #parati #gaming #fyp #foryou.
 platform: TikTok
-hits: 19
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in Spain for you to work with.
+hits: 18
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 18 TikTok influencers like this in Spain for you to contact.
 profiles:
   - username: "fpshungry"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       DIY Gaming Setups
     location: "Spain"
-    followers: 11300
-    engagement: 405
-    commentsToLikes: 0.023435
+    followers: 11200
+    engagement: 406
+    commentsToLikes: 0.023201
     id: ckbfdewev6ntt0j233orwnpqw
     verified: false
-    hashtags: "#gamingsetup, #classicgames, #pcgamingsetup, #tiktokgaming"
+    hashtags: "#tiktokgaming, #diyprojects, #classicgames, #pcgamer"
   - username: "redbullesp"
     fullname: >-
       Red Bull España
     bio: >-
       Aquí encontrarás baile, deporte, música, gaming y mucha adrenalina. 🤪 #TeDaAlas
     location: "Spain"
-    followers: 2600000
-    engagement: 1199
-    commentsToLikes: 0.005050
+    followers: 2700000
+    engagement: 1173
+    commentsToLikes: 0.003978
     id: ck9jv7rzkr1b50j78otdqzqnz
     verified: true
-    hashtags: "#redbull, #epicfail, #gentextraordinaria, #bike"
+    hashtags: "#motorcycle, #tedaalas, #redbull, #meme"
   - username: "xigneo"
     fullname: >-
       XIG-NEO
     bio: >-
-      🔥Youtuber Canario 🇮🇨 con 110.000 suscriptores 📽 ➡️Contacto: xigneo@tkers.es⬅
+      ➡️Contacto: businessxigneo@gmail.com 👇 GANA PAVOS Y DIAMANTES GRATIS👇
     location: "Spain"
-    followers: 508900
-    engagement: 2040
-    commentsToLikes: 0.016930
+    followers: 962100
+    engagement: 1777
+    commentsToLikes: 0.030841
     id: ck903dx69d7jq0j788wrovsuc
-    verified: false
-    hashtags: "#gamer, #gaming, #fortnite, #game"
-  - username: "atreyuvr"
+    verified: true
+    hashtags: "#fortnite, #gamer, #gaming, #vidagamer"
+  - username: "teamheretics"
     fullname: >-
-      AtreyuVR
+      Heretics
     bio: >-
-      BeatSaber... YouTube pincha ahí 🔝🔝, Twitch ahí abajo ⬇️
+      Esports y entretenimiento. https://youtu.be/LYbThk41X-o
     location: "Spain"
-    followers: 122300
-    engagement: 1942
-    commentsToLikes: 0.075631
-    id: ckb0m92e2crnp0j23tobyiaqk
-    verified: false
-    hashtags: "#beatsaber, #funny, #humor, #parati"
+    followers: 709000
+    engagement: 1722
+    commentsToLikes: 0.004605
+    id: ckb9t6ak4qtic0j23bnmgvwxh
+    verified: true
+    hashtags: "#foryou, #llobeti4, #miskinfavorita, #peereira7"
   - username: "blizzy23_yt"
     fullname: >-
       Blizzy 23 yt
     bio: >-
       😉Siempre humilde 😉 🔽🔽MI TWITCH WAP@S🔽🔽
     location: "Spain"
-    followers: 19200
-    engagement: 1229
-    commentsToLikes: 0.092897
+    followers: 19100
+    engagement: 1322
+    commentsToLikes: 0.105767
     id: ckb9jpqqnb4em0j23vjlvroix
     verified: false
-    hashtags: "#viral, #videogamescomunity, #fortnite, #parati"
-  - username: "cafelillo"
-    fullname: >-
-      cafelillo
-    bio: >-
-      gracias a todos por los 80k!!❤️ 🇪🇸🇯🇵 seguirme en Instagram: cafelillo_10
-    location: "Spain"
-    followers: 84900
-    engagement: 1964
-    commentsToLikes: 0.018211
-    id: ckd6g4czi88jf0j23gbfv3a7q
-    verified: false
-    hashtags: "#comedia, #jordiwild, #humor, #pasaeltiempo"
-  - username: "laurarobledo17"
-    fullname: >-
-      Laura Robledo ✨
-    bio: >-
-      
-    location: "Spain"
-    followers: 37600
-    engagement: 1737
-    commentsToLikes: 0.028408
-    id: ck9017elhbgi00j7880v21a2e
-    verified: false
-    hashtags: "#part, #tendencias, #love, #foryoupage"
-  - username: "polgamess"
+    hashtags: "#twitch, #humor, #foryou, #prati"
+  - username: "polcorominas"
     fullname: >-
       Pol Corominas
     bio: >-
-      🎥 Youtuber +450k 🟢 Trovo Streamer 📍 Barcelona
+      🎥 Youtuber +450k 📈 Social Media Marketing ⬇️ Mis proyectos ⬇️
     location: "Spain"
-    followers: 33700
-    engagement: 687
-    commentsToLikes: 0.037692
+    followers: 39000
+    engagement: 660
+    commentsToLikes: 0.034167
     id: ckbkf1dvx5wqc0j238ljx0iz7
     verified: false
-    hashtags: "#streamer, #espa, #gamer, #dog"
-  - username: "1000experiencias"
+    hashtags: "#cachorro, #puppy, #dog, #perro"
+  - username: "mariamlisveth"
     fullname: >-
-      1000 Experiencias
+      Mariam Lisveth🏳️‍🌈
     bio: >-
-      YT 🎥 1000 Experiencias IG 📸 1000experiencias 📍 Málaga, España 🇪🇸
+      📍Sabadell,Barcelona 📸Instagram: mariamlisveth 💔TODO PASA POR ALGO💔
     location: "Spain"
-    followers: 102400
-    engagement: 1379
-    commentsToLikes: 0.021369
-    id: ckcvhevkvu4r90j231p4r28x8
+    followers: 39600
+    engagement: 1239
+    commentsToLikes: 0.036145
+    id: ckbkge2hf7pqw0j23ofmasegv
     verified: false
-    hashtags: "#parati, #challenge, #aprendecontiktok, #cosasdegamers"
-  - username: "yspikeyness"
+    hashtags: "#greenscreenvideo, #comedia, #jsjsjs, #parati"
+  - username: "huawei_lagavia"
     fullname: >-
-      Bruno 
+      Huawei La Gavia
     bio: >-
-      Hi 👋🏻 I’m Bruno, I’m an actor and sometimes I record stupid videos! 🇪🇸 🇺🇸
+      Espacio oficial Huawei La Gavia 627 344 770 📱 huaweilagavia@dphoneretail.com 📩
     location: "Spain"
-    followers: 4504
-    engagement: 1042
-    commentsToLikes: 0.042873
-    id: cka0o5prl29h10i784r9bcqaf
+    followers: 152800
+    engagement: 651
+    commentsToLikes: 0.037306
+    id: ckcpew96aghd50j23yfwdkmoh
     verified: false
-    hashtags: "#foryoupage, #humorespa, #humor, #fyp"
+    hashtags: "#tecnologia, #foryou, #p40lite, #huawei"
+  - username: "deangelopro"
+    fullname: >-
+      Deangelo IFBB Pro
+    bio: >-
+      Entrenador Online 🧑🏼‍💻 Deangelotraining@gmail.com📩 Mi grupo de Inversión🖨
+    location: "Spain"
+    followers: 116700
+    engagement: 265
+    commentsToLikes: 0.043647
+    id: ckace910llp9u0i78nv18xt35
+    verified: false
+    hashtags: "#invertir, #bolsa, #ordenador, #inversion"
+  - username: "peerjii50"
+    fullname: >-
+      peerjii
+    bio: >-
+      Artist/Actor/FoodLover Taxi Vuaey Peer jii ( spain walay )
+    location: "Spain"
+    followers: 15700
+    engagement: 345
+    commentsToLikes: 0.119963
+    id: ckbwi6rco32og0j230i7fpyrr
+    verified: false
+    hashtags: "#fun, #barcelona, #foryou, #spain"
 ---

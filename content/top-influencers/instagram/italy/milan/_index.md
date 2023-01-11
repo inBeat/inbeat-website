@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Milan In 2022
+title: Top 10 Instagram Influencers In Milan In 2023
 description: >-
-  Find top Instagram influencers in Milan in 2022. Most popular hashtags: #makeup #makeuptutorial #halloweenmakeup.
+  Find top Instagram influencers in Milan in 2023. Most popular hashtags: #makeup #pridemonth #eyeliner.
 platform: Instagram
-hits: 3207
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 3207 Instagram influencers like this in Milan, Italy for you to collaborate.
+hits: 2574
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 2574 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
   - username: "angel.mcqueen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Milan
     location: "Italy"
-    followers: 25559
-    engagement: 1222
-    commentsToLikes: 0.017150
+    followers: 24897
+    engagement: 1258
+    commentsToLikes: 0.016584
     id: ckap1dgm1u4aa0i78c2mfpwxd
     verified: false
     hashtags: "#makeup, #eyeliner, #pokemon, #pokemonmakeup"
-  - username: "nicoleeceretta"
+  - username: "_andreacimatti"
     fullname: >-
-      Nicole Ceretta
+      A N D R E A  C I M A T T I
     bio: >-
-      🇿🇦🇮🇹 Milan
+      21, Milan Pro Make-Up Artist Beauty Content Creator 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎: andreacimatti01@gmail.com or DM
     location: "Italy"
-    followers: 13999
-    engagement: 612
-    commentsToLikes: 0.029460
-    id: ck8sxah0hgovr0j78zqdli67f
+    followers: 39030
+    engagement: 783
+    commentsToLikes: 0.032357
+    id: ck5zzrcpgca7b0i14bzggkci5
     verified: false
-    hashtags: "#unpublished, #day43, #facetimeshooting, #dgfamily"
-  - username: "silvio_tova"
+    hashtags: "#summermakeup, #pridemonth, #prideseries, #christmasmakeup"
+  - username: "conamoreesquallore"
     fullname: >-
-      S I L V I O  T O V A G L I A
+      Ilenia
     bio: >-
-      📸 PHOTOGRAPHER 🍭 CONTENT CREATOR 📍MILANO 📩 Business/ collabs : daniel@hedmedia.com
+      Racconto #librini📚(ora #mattoninglesi) Scrivo e parlo al microfono di #Malalingua Vivo a Milano, vado al mare a Catania Tutti i link ⤵️
     location: "Italy"
-    followers: 16967
-    engagement: 984
-    commentsToLikes: 0.193945
-    id: ck0u1mb6hx8ga0i19d9k1rvsb
+    followers: 60955
+    engagement: 584
+    commentsToLikes: 0.004159
+    id: ckaoytfkmizyj0i78tcy4kjtx
     verified: false
-    hashtags: "#insiemecelafaremo, #snipesknows, #supplied, #fratellipercaso"
-  - username: "ilaria.bertolasi"
+    hashtags: "#aroundsicily, #paris, #zelfie, #cicilia"
+  - username: "alessandroorati"
     fullname: >-
-      Ιlaria Bertolasi
+      Alessandro Orati
     bio: >-
-      📍Milan 🇮🇹 🎓 HR & Organizational Psychology 🔛 Stage @luca.mazzucchelli 🌍 visited 🇮🇹 🇬🇧 🇦🇹 🇩🇪 🇪🇸 🇫🇷 🇲🇨 🇸🇪 🇮🇪 🇭🇺🇨🇭🇺🇸 🇨🇦 🇹🇳 🇹🇷 🇪🇬 🇸🇨 🇨🇺 🇸🇲🇻🇦🇩🇴 🇸🇮 🇭🇷
+      Milano • 🌐Content Creator •💄Makeup Artist Youtube/TikTok: Alessandro Orati Collab: ale.orati@outlook.it Makeup / Hair (on request) ↓ ALL MY INFO ↓
     location: "Italy"
-    followers: 11777
-    engagement: 2891
-    commentsToLikes: 0.166018
-    id: ckf5uy081mppb0j23yby6tvyv
+    followers: 23240
+    engagement: 309
+    commentsToLikes: 0.011805
+    id: ck5hga6ly1q5e0i116idud8kh
     verified: false
-    hashtags: "#siviaggiare, #paesaggiitaliani, #scatto, #italyviews"
-  - username: "paolodebosio"
+    hashtags: "#gaypride, #ootd, #gay, #pridemonth"
+  - username: "camihawke"
     fullname: >-
-      Paolo
+      Camihawke
     bio: >-
-      📍Based in Milan. 🤍 TikTok:paolodebosio (+480k) 💌COLLAB: paoloinstagramdebosio@yahoo.com
+      La pasta al forno è il mio unico credo. Info&tavoli: Camihawke/Show-Reel Media Group Via G.Candiani 127 Milano Cose varie mostrate qui su istagra⬇️
     location: "Italy"
-    followers: 57555
-    engagement: 1933
-    commentsToLikes: 0.106893
-    id: ck13atwtqs5za0i19x3yzvng3
-    verified: false
-    hashtags: "#mugshotchallenge, #mugshot, #coronavirus, #covid"
-  - username: "francescobertoli_music"
-    fullname: >-
-      FRANCESCO BERTOLI
-    bio: >-
-      📍Milano|24 MGMT:@isoladegliartisti ✉:Info@isoladegliartisti.it Fuori ora Carpe Diem ⬇️
-    location: "Italy"
-    followers: 123501
-    engagement: 1529
-    commentsToLikes: 0.046909
-    id: ckap0c627pp540i781pzbb0ph
+    followers: 1380856
+    engagement: 457
+    commentsToLikes: 0.005365
+    id: ck0tvdqo9b02e0i19e5ti3m7e
     verified: true
-    hashtags: "#mcdonalds, #musica, #iorestoacasa, #carpediem"
-  - username: "chrislaway"
+    hashtags: "#herewithme, #esselunga, #adv, #untouchable"
+  - username: "libriamociblog"
     fullname: >-
-      Trap Player
+      Chiara Boniardi & Matteo Taino
     bio: >-
-      Milano 🇮🇹🇨🇭 Cantante Per info collaborazioni - bookinglaway@gmail.com 👇Video youtube👇
+      📚 Leggiamo libri 📸 Fotografiamo libri 👫 Scriviamo sul blog 🧳 Intanto programmiamo viaggi 📌 Milano 🔎#readchristie2022 📚#alfalibro #maggiodautore
     location: "Italy"
-    followers: 44284
-    engagement: 1339
-    commentsToLikes: 0.064364
-    id: ckap5t4b9d2000i78e1fdqnz8
+    followers: 67628
+    engagement: 188
+    commentsToLikes: 0.047642
+    id: ck0vw5eqvs6n40i190750ejgl
     verified: false
-    hashtags: "#relaxingtime"
-  - username: "la_snika"
+    hashtags: "#romance, #ticonsigliounlibro, #book, #bookstagramitalia"
+  - username: "mirko1704"
     fullname: >-
-      Federica Ricci
+      Mirko Salvetti
     bio: >-
-      💫 MOTHER OF BICCIZ #biccizfam 📍 Milan, Italy 💄Certified Makeup Artist 💌 federicaricci966@icloud.com 🎬 YOUTUBE 👇🏼
+      🙋🏽‍♂️ DETAILS MAKE THE DIFFERENCE 🇮🇹 CEO of @watchmdiamond ⌚️Ⓜ️💎 📍W M D² MILANO 📍W M D COMING SOON 📍. . . Copy me if you can 🙋🏽‍♂️
     location: "Italy"
-    followers: 20050
-    engagement: 1107
-    commentsToLikes: 0.148482
-    id: ck5c3to4l01ea0i11kixjuxq7
+    followers: 243603
+    engagement: 153
+    commentsToLikes: 0.022630
+    id: ck13bp11iwh2x0i1923huenrj
     verified: false
-    hashtags: "#patmcgrath, #glammakeup, #halloweeninspo, #fentybeauty"
-  - username: "liquorsbeauty"
+    hashtags: "#ilovemyjob"
+  - username: "selvaggialucarelli"
     fullname: >-
-      Luca 🐆🇮🇹
+      Selvaggia Lucarelli
     bio: >-
-      Beauty Lover👨🏼‍🎨 Milan 📩 lux.essposito90@gmail.com 👇🏼new YouTube video👇🏼
+      Italian journalist and gattara. Books. Tv. Podcast. Travels. I take pictures. J'aime la querelle. Milan. selvaggialucarelli@gmail.com
     location: "Italy"
-    followers: 34029
-    engagement: 860
-    commentsToLikes: 0.102450
-    id: ck138czq8fn0e0i19kkek2r3r
-    verified: false
-    hashtags: "#falslashes, #makeuptutorial, #reel, #hudabeauty"
-  - username: "sespo"
-    fullname: >-
-      Edoardo Esposito 👼🏻
-    bio: >-
-      🇮🇹21.10.99 🏠Milan CLICCATE PER COMPRARE #VALESPO PER SEMPRE
-    location: "Italy"
-    followers: 1747596
-    engagement: 1064
-    commentsToLikes: 0.029150
-    id: ck5zrz3xcxitf0i14j92kyo1b
+    followers: 1260383
+    engagement: 149
+    commentsToLikes: 0.063002
+    id: ck55mn9554brk0i11mq1t83rm
     verified: true
-    hashtags: "#ad, #adv, #huaweivideo, #valespo"
+    hashtags: "#nepal, #seoul, #palermo, #corea"
+  - username: "tamara"
+    fullname: >-
+      Tamara Kalinic
+    bio: >-
+      <<TIMES Top 100 Influencers>> 📍London - Paris - Milano TikTok @tamara 💌 Tamara@theglamandglitter.com
+    location: "Italy"
+    followers: 1390692
+    engagement: 134
+    commentsToLikes: 0.006621
+    id: ck0vykqbt4him0i19kocwjjpf
+    verified: true
+    hashtags: "#lvxyayoikusama, #jimmychoosnow, #openthewonder, #swarovski"
+  - username: "vincenzocornacchione"
+    fullname: >-
+      Vincenzo_Cornacchione 🇮🇹
+    bio: >-
+      PR & Communication Director @byryber Digital Manager @vmc.project Vincenzo@byryber.com Milan
+    location: "Italy"
+    followers: 34038
+    engagement: 110
+    commentsToLikes: 0.010808
+    id: ck0w55e0g1z9g0i19dg619hiv
+    verified: false
+    hashtags: "#vibes, #summervibes, #sunset, #greece"
 ---

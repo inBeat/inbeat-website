@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In India In 2022
+title: Top 10 Crossfit Instagram Influencers In India In 2023
 description: >-
-  Find top crossfit Instagram influencers in India in 2022. Most popular hashtags: #crossfit #instagood #instagram #fashion.
+  Find top crossfit Instagram influencers in India in 2023. Most popular hashtags: #fitness #crossfit #instagram #workout.
 platform: Instagram
-hits: 104
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 104 Instagram influencers like this in India for you to pitch.
+hits: 90
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 90 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "ajaz_abu"
-    fullname: >-
-      Ajaz Abu.
-    bio: >-
-      Just a guy, livin life Mr.India worldwide’19 finalist India’s Stylish Icon- Face of the city’19 Decathlon- Mr.CrossFit’19 Stuck in Bangalore traffic📍
-    location: "India"
-    followers: 2168
-    engagement: 3328
-    commentsToLikes: 0.038935
-    id: ck9wg27zvrkit0j78f8vlm5f3
-    verified: false
-    hashtags: "#like4like, #staysafe, #fashion, #love"
   - username: "shivneel_dotcom"
     fullname: >-
       Shivneel
     bio: >-
       Cougar Boys 📹 Fijian/Indian 🇫🇯 Crossfit 🏋🏽‍♂️ Foodie 🍔🍟🥤 Comedian 🤔🤔🤔
     location: "India"
-    followers: 28392
-    engagement: 635
-    commentsToLikes: 0.019978
+    followers: 27504
+    engagement: 479
+    commentsToLikes: 0.022285
     id: ck5cfr6minhdd0i112psbz2w0
     verified: false
-    hashtags: "#fireemoji, #pinnaclesnationalpark, #livetotheultimate, #onlyonmybreaksthough"
+    hashtags: "#gymlife, #teamdonttrainlegs, #onepiece, #butterflypullups"
   - username: "omersey"
     fullname: >-
       Omer Kılıc
     bio: >-
       ▪️ 💼 lawyer ▪️ 🌎 traveler ▪️ 🐍 wildlife lover ▪️ 🏋🏽‍♂️ crossfitter
     location: "India"
-    followers: 10327
-    engagement: 1175
-    commentsToLikes: 0.027993
+    followers: 10595
+    engagement: 1006
+    commentsToLikes: 0.031129
     id: ck0tzzii3s50w0i19xzz6t8a1
     verified: false
-    hashtags: "#vsco, #natgeoyourshot, #belgium, #earth"
-  - username: "hay_nah_fit"
+    hashtags: "#art, #saturday, #sea, #natgeoyourshot"
+  - username: "ajaz_abu"
     fullname: >-
-      Hannah
+      Ajaz Abu.
     bio: >-
-      @reebokindia #Athlete 🤸 @optimumnutri_in #Athlete 💪 #TeamOn #Proven #Fitness And Lifestyle Management Coach #crossfit 🏋️ #fitnessmodel #foodie 🇮🇳🇮🇱
+      Just a guy, livin life Mr.India worldwide’19 finalist India’s Stylish Icon- Face of the city’19 Decathlon- Mr.CrossFit’19 Stuck in Bangalore traffic📍
     location: "India"
-    followers: 61118
-    engagement: 133
-    commentsToLikes: 0.026783
-    id: ck5zy4ppk989d0i14pfrml5ry
+    followers: 2177
+    engagement: 3164
+    commentsToLikes: 0.038893
+    id: ck9wg27zvrkit0j78f8vlm5f3
     verified: false
-    hashtags: "#photooftheday, #fitlife, #shooting, #coach"
-  - username: "rj_yuvraaj"
+    hashtags: "#fitmen, #like4like, #art, #ig"
+  - username: "luposol"
     fullname: >-
-      Coffee
+      Sol Lupo
     bio: >-
-      Fittest Radio Jockey of Gujarat📻 Mail me for Collab❣️ . 🇮🇳 बंजारा | मुसाफ़िर | गुमनाम 🇮🇳 . Gujju, Indian📍 #artist #crossfitter #media #rj
+      Entrená 35' todos los días conmigo! Mandame MD . Atleta 2018 Crossfit Games Personal trainer- Estudiante de Osteopatía y Yoga @bornprimitive
     location: "India"
-    followers: 12361
-    engagement: 457
-    commentsToLikes: 0.065967
-    id: ck6tqpfl2sywy0j71t7qo6xf6
+    followers: 15793
+    engagement: 602
+    commentsToLikes: 0.014265
+    id: ckap6uo0jhf950i78hyawxv6d
     verified: false
-    hashtags: "#comedy, #word, #inktober, #painting"
-  - username: "karan_h_02"
+    hashtags: "#repost, #crossfit, #homewod, #fitness"
+  - username: "arushi.handa.official"
+    fullname: >-
+      ARUSHI HANDA
+    bio: >-
+      | Alpha woman | ♍️ | My legacy is a never ending curiosity| Divine😇Invincible🙅Books📚Crossfit 🏋️‍♀️ Managed by @pranimedia
+    location: "India"
+    followers: 534263
+    engagement: 321
+    commentsToLikes: 0.004760
+    id: ck0uc4gx0fyzl0i19h4cfyh6f
+    verified: false
+    hashtags: "#bookstagram, #delighteverymoment, #contestalert, #vivov20se"
+  - username: "ajayjeswani88official"
+    fullname: >-
+      Ajay Jeswani
+    bio: >-
+      FITNESS INFLUENCERS personal trainer Wish me 25 march Dm for brand collaborations contact
+    location: "India"
+    followers: 81448
+    engagement: 163
+    commentsToLikes: 0.026058
+    id: ck8wesk0tejw70j78qfocfgwn
+    verified: false
+    hashtags: "#instagood, #lifestyle, #fitnessmodel, #asitisnutrition"
+  - username: "karan.hegiste"
     fullname: >-
       Karan Hegiste
     bio: >-
-      𝐒𝐩𝐫𝐢𝐧𝐭𝐞𝐫⚡...𝐀𝐬𝐢𝐚𝐧 𝐲𝐨𝐮𝐭𝐡 𝐆𝐨𝐥𝐝 𝐦𝐞𝐝𝐚𝐥𝐢𝐬𝐭...𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐞𝐝𝐚𝐥𝐢𝐬𝐭...𝟏𝟎𝟎𝐦- 𝟏𝟎.𝟕𝟎 𝐬𝐞𝐜, 𝟐𝟎𝟎𝐦- 𝟐𝟏.𝟗𝟖 𝐬𝐞𝐜. Dm for Collaboration
+      𝐒𝐩𝐫𝐢𝐧𝐭𝐞𝐫⚡...𝐀𝐬𝐢𝐚𝐧 𝐲𝐨𝐮𝐭𝐡 𝐆𝐨𝐥𝐝 𝐦𝐞𝐝𝐚𝐥𝐢𝐬𝐭...𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐞𝐝𝐚𝐥𝐢𝐬𝐭... 𝐌𝐮𝐦𝐛𝐚𝐢 📍
     location: "India"
-    followers: 3263
-    engagement: 3517
-    commentsToLikes: 0.059605
+    followers: 3442
+    engagement: 2861
+    commentsToLikes: 0.054228
     id: ck6tyzf7m6r570j71xt6wnbne
     verified: false
-    hashtags: "#lightroomedits, #indianrunners, #tokyo2020olympics, #indoortrack"
-  - username: "pilot_elton"
+    hashtags: "#tracknfield, #strengthathlete, #athleticsvines, #liftheavy"
+  - username: "monikalm"
     fullname: >-
-      Elton Pascoal Figueiral
+      Mónica Valentín 😎
     bio: >-
-      ✈ Airline pilot 🌍 World traveler ⁣ 📍Porto, Portugal
+      🧘🏽‍♀️Yoga Teacher ⚽️P.Física de fútbol 🍽Exp Nutrición deportiva 🏋🏽‍♀️Crossfit Addict 📍Almería 📖 Blog 👇🏼
     location: "India"
-    followers: 23841
-    engagement: 694
-    commentsToLikes: 0.012683
-    id: ck8t82wajiwsp0j78k7cof1uc
+    followers: 18334
+    engagement: 394
+    commentsToLikes: 0.082435
+    id: ck5qe0a8ny3vl0i11eu9594i9
     verified: false
-    hashtags: "#car, #holidays, #nature, #pilotlife"
-  - username: "daisypolesquirrel"
+    hashtags: "#japon, #fitnesslifestyle, #viajar, #recetasana"
+  - username: "vinuchavan_official"
     fullname: >-
-      Daisy
+      V I N U  C H A V A N
     bio: >-
-      🐀🐀🐿 Pole, Dance, Fashion, Contortion BA @fableticseu @pushandpole @dragonflybrand @hence_stacks Discounts in my highlights DM me for collabs
+      📩DM For Shoots📸🎥 & Collaboration💰 🎬Ishq Pirman Ranglay🎵
     location: "India"
-    followers: 49298
-    engagement: 84
-    commentsToLikes: 0.027662
-    id: ck55psuoebayi0i11vqhwmvza
+    followers: 29381
+    engagement: 256
+    commentsToLikes: 0.064040
+    id: ckaoyvyi9jbwt0i78l9zkshp5
     verified: false
-    hashtags: "#brunette, #athleticgirls, #ballet, #calisthenics"
-  - username: "tapshi"
+    hashtags: "#picoftheday, #happy, #fitnessmotivation, #motivation"
+  - username: "r.clix"
     fullname: >-
-      Tapesh Kumar
+      R-Clix (Rohit) Studio
     bio: >-
-      27 I captain A320 I photographer I YouTuber(140k) l biker I marathoner I footballer I fitness freak I poet Member of TeamON @optimumnutri_in
+      Brand, Editorial, Fitness and Fashion Photography Portfolio & Shoot DM for Enquiry Associate @rohitnl, @_s_raj PUNE | MUM | DEL | BLR
     location: "India"
-    followers: 54665
-    engagement: 1826
-    commentsToLikes: 0.016914
-    id: ck9wevhm6m0s80j78xlkwq9ul
+    followers: 18132
+    engagement: 424
+    commentsToLikes: 0.012450
+    id: ck8swhn7pe4dc0j78o62fcf99
     verified: false
-    hashtags: "#instagood, #workout, #pilot, #boeingboy"
-  - username: "sinty_boy"
-    fullname: >-
-      Kishor Ravichandran
-    bio: >-
-      Jesus ❤️ Photographer/cinematographer Dm for paid shoots... @kapturenow 🔥
-    location: "India"
-    followers: 21997
-    engagement: 838
-    commentsToLikes: 0.003431
-    id: ck13c6da9yu2a0i19wkumr7ia
-    verified: false
-    hashtags: "#iphone, #womensfashion, #sonya7riii, #crossfitcommunity"
+    hashtags: "#fitnessaddict, #modelingagency, #fashionista, #sport"
 ---

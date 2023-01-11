@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Istanbul In 2022
+title: Top 10 Photographers Instagram Influencers In Istanbul In 2023
 description: >-
-  Find top photographers Instagram influencers in Istanbul in 2022. Most popular hashtags: #istanbul #turkey #photographer.
+  Find top photographers Instagram influencers in Istanbul in 2023. Most popular hashtags: #istanbul #sunset #turkey.
 platform: Instagram
-hits: 317
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 317 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 261
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 261 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
   - username: "ugurdemir"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Wedding Photographer ISTANBUL📍
     location: "Turkey"
-    followers: 62738
-    engagement: 939
-    commentsToLikes: 0.019601
+    followers: 59892
+    engagement: 947
+    commentsToLikes: 0.020507
     id: ck139uhyxn6cj0i19r349dcfa
     verified: false
     hashtags: "#zoom, #stayhome, #evdekal"
-  - username: "aozturk.photo"
-    fullname: >-
-      Photographer. Istanbul,Turkey.
-    bio: >-
-      💃🏼ALSU OZTURK 🏆TOP-10 photographers Istanbul, Turkey according to @35awards 2018. Portrait, kids, mathernity. 📩DM, ozturkalsu@gmail.com
-    location: "Turkey"
-    followers: 8612
-    engagement: 572
-    commentsToLikes: 0.064128
-    id: ck5hp6tq8quoc0i11wfexq2r2
-    verified: false
-    hashtags: ""
-  - username: "mehmetshhn"
-    fullname: >-
-      Mehmet Ali Şahin
-    bio: >-
-      Photographer İstanbul\Turkey
-    location: "Turkey"
-    followers: 61962
-    engagement: 741
-    commentsToLikes: 0.022542
-    id: ck0txqqprk6qm0i19k6qsw3b6
-    verified: false
-    hashtags: "#galatakulesi, #turkey, #sultanahmet, #balat"
   - username: "abdullahshhn"
     fullname: >-
       Abdullah Şahin
     bio: >-
       Photographer Istanbul | Turkey abdullahshn@outlook.com.tr
     location: "Turkey"
-    followers: 137922
-    engagement: 549
-    commentsToLikes: 0.025961
+    followers: 137452
+    engagement: 514
+    commentsToLikes: 0.019808
     id: ck0uddq0wivu90i19hpdunsr2
     verified: false
-    hashtags: "#galata, #beautifuldestinations, #ayasofya, #sunset"
+    hashtags: "#bosphorus, #sunset, #istanbul, #galata"
+  - username: "mehmetshhn"
+    fullname: >-
+      Mehmet Ali Şahin
+    bio: >-
+      Photographer İstanbul\Turkey
+    location: "Turkey"
+    followers: 63457
+    engagement: 635
+    commentsToLikes: 0.023022
+    id: ck0txqqprk6qm0i19k6qsw3b6
+    verified: false
+    hashtags: "#ayasofya, #istanbul, #galatakulesi, #sultanahmet"
   - username: "olayseven"
     fullname: >-
       Olay Seven
     bio: >-
       Photographer | Istanbul | Ozi ❤️ | olay@sevenplusad.com
     location: "Turkey"
-    followers: 312655
-    engagement: 169
-    commentsToLikes: 0.031528
+    followers: 314073
+    engagement: 139
+    commentsToLikes: 0.036494
     id: ck0uadqvnc2060i191j8okuhx
     verified: false
-    hashtags: "#florida, #clouds, #turkey, #sunset"
-  - username: "ismailgokbulut"
-    fullname: >-
-      İsmail GÖKBULUT
-    bio: >-
-      #Bird & #Wildlife #Photographer 🇹🇷İstanbul All photos taken by me in the wild Tüm fotoğraflar kendi çekimimdir
-    location: "Turkey"
-    followers: 6138
-    engagement: 1054
-    commentsToLikes: 0.030517
-    id: ck8t1yigaxjw90j785owudqjt
-    verified: false
-    hashtags: "#live, #discoverwildlife, #natgeowild, #kings"
+    hashtags: "#istanbul, #sunset, #turkey, #hellofrom"
   - username: "alpertorunn"
     fullname: >-
       Alper Torun
     bio: >-
       Outdoor Lifestyle Photographer İstanbul / Turkey
     location: "Turkey"
-    followers: 263554
-    engagement: 111
-    commentsToLikes: 0.031196
+    followers: 261729
+    engagement: 101
+    commentsToLikes: 0.036403
     id: ckaot5m1muhe60i7816faz4cg
     verified: false
     hashtags: "#libertybridge, #istanbul"
+  - username: "ismailgokbulut"
+    fullname: >-
+      İsmail GÖKBULUT
+    bio: >-
+      #Bird & #Wildlife #Photographer 🇹🇷İstanbul All photos taken by me in the wild Tüm fotoğraflar kendi çekimimdir
+    location: "Turkey"
+    followers: 5904
+    engagement: 788
+    commentsToLikes: 0.027889
+    id: ck8t1yigaxjw90j785owudqjt
+    verified: false
+    hashtags: "#featured, #pocket, #nature, #igscwildlife"
+  - username: "cananphotos"
+    fullname: >-
+      
+    bio: >-
+      Traveller | Photographer İstanbul 💙🧿💙 Turkey
+    location: "Turkey"
+    followers: 8993
+    engagement: 615
+    commentsToLikes: 0.035570
+    id: ckap6loufgecs0i78b7bxk1sx
+    verified: false
+    hashtags: "#instaflower, #objektifimden, #fotografvakti, #streetstyle"
   - username: "istanbul_photography1"
     fullname: >-
       Mustafa TATLISU
     bio: >-
-      Fotoğraflar Şahsıma Aittir
+      Fotoğraflar Şahsıma Aittir Reklam ve İş Birliği DM
     location: "Turkey"
-    followers: 17255
-    engagement: 1025
-    commentsToLikes: 0.029276
+    followers: 17225
+    engagement: 1013
+    commentsToLikes: 0.018165
     id: ck9wf7fpwniun0j78ef511ygk
     verified: false
-    hashtags: "#turkey, #eskiistanbul, #instagram, #photography"
-  - username: "vin.artsphotography"
+    hashtags: "#turkey, #photographyislifee, #naturephotography, #photographylovers"
+  - username: "lazopo53"
     fullname: >-
-      Vincent Ofware
+      Muhammet Yavuz Öksüz🇹🇷
     bio: >-
-      Award Winning Photographer ⤵️Visual Arts & Photography 📩vincentofware@gmail.com 📍 Istanbul, Turkey #VinArtsPhotography
+      Free Phytograpger Rize-Çayeli-İstanbul Canon EOS Iphone7 #lazopo53 🇹🇷🇹🇷🇹🇷
     location: "Turkey"
-    followers: 81337
-    engagement: 190
-    commentsToLikes: 0.037015
-    id: ck13602y743ft0i191rdjet04
+    followers: 10063
+    engagement: 348
+    commentsToLikes: 0.036500
+    id: ck1365bqb4tm30i19jpjgd3s2
     verified: false
-    hashtags: "#lightroom, #vinartsphotography, #photographyfashion, #canon"
-  - username: "ihsanmenkuphotography"
+    hashtags: "#photographers, #istanbul, #tu, #allshotsturkey"
+  - username: "aozturk.photo"
     fullname: >-
-      İhsan menku photography
+      Photographer. Istanbul,Turkey.
     bio: >-
-      2022 yılı erken rezervasyon fırsatlarını yakalamak icin.Şimdiden yerinizi ayırtın Ekip Markamiz @dugunhatiram Whatsapp için tıklayınız 👇
+      💃🏼ALSU OZTURK 🏆TOP-10 photographers Turkey according to @35awards 2019. Portrait, kids, mathernity. 📩DM, ozturkalsu@gmail.com
     location: "Turkey"
-    followers: 21531
-    engagement: 255
-    commentsToLikes: 0.000707
-    id: ckap5q9s4cpb60i78al2s7p8n
+    followers: 8636
+    engagement: 521
+    commentsToLikes: 0.071938
+    id: ck5hp6tq8quoc0i11wfexq2r2
     verified: false
-    hashtags: "#duguncekimleri, #discekimfotograflari, #gelindamat, #photographer"
+    hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Canada In 2022
+title: Top 10 Health TikTok Influencers In Canada In 2023
 description: >-
-  Find top health TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #duet #canada #foryoupage.
+  Find top health TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #canada #love.
 platform: TikTok
-hits: 615
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 615 TikTok influencers like this in Canada for you to work with.
+hits: 682
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 682 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "roseiquartz"
-    fullname: >-
-      💎 House of Quartz 💎
-    bio: >-
-      Chaos Content 🔥🐼 (18+)(she/her) 💕🍭🏳️‍🌈 Mental Health and Psychology 🧠
-    location: "Canada"
-    followers: 47000
-    engagement: 2469
-    commentsToLikes: 0.059599
-    id: ck8fbxh6m5bir0j7891y8cy4m
-    verified: false
-    hashtags: "#kinktok, #witchesforkinktok, #humor, #witchtok"
-  - username: "psardarni1"
-    fullname: >-
-      pamsangha1
-    bio: >-
-      A healthy distraction from a busy life. Live and Let live. Enjoy life.
-    location: "Canada"
-    followers: 8143
-    engagement: 4069
-    commentsToLikes: 0.134398
-    id: ckacn62kkmjlb0i78yqfur23a
-    verified: false
-    hashtags: "#fyp, #foryoupage, #halloweenishere, #tiktokusa"
   - username: "dr.naheedd"
     fullname: >-
       Dr Naheed Dosani🇨🇦
     bio: >-
       Palliative Care Doctor 👨🏽‍⚕️ Health Justice Activist ✊🏽 Instagram: @NaheedD
     location: "Canada"
-    followers: 11700
-    engagement: 1475
-    commentsToLikes: 0.128328
+    followers: 11900
+    engagement: 1423
+    commentsToLikes: 0.109245
     id: ckbf228pqoo3a0j23yvlu4av3
     verified: false
-    hashtags: "#doctiktok, #doctor, #blacklivesmatter, #fyp"
-  - username: "addyebee"
+    hashtags: "#canada, #toronto, #tiktokdoc, #blacklivesmatter"
+  - username: "p_sardarni"
     fullname: >-
-      Addison B
+      pamsangha1
     bio: >-
-      21 | Link to my discord server ⬇️ Mental health advice, pals and forehead kisses
+      A healthy distraction from a busy life. Live and Let live. Enjoy life.
     location: "Canada"
-    followers: 479600
-    engagement: 1539
-    commentsToLikes: 0.023990
-    id: ck8hry2trav990j786nsxcoz1
+    followers: 9482
+    engagement: 2979
+    commentsToLikes: 0.115710
+    id: ckacn62kkmjlb0i78yqfur23a
     verified: false
-    hashtags: "#motivationmonday, #listen"
-  - username: "momentofsunshine"
-    fullname: >-
-      Rebeckah Bird (They/Them)
-    bio: >-
-      They/Them🌈 My goal is to spread mental health & LGBTQ+ awareness 🌿 19 • Queer
-    location: "Canada"
-    followers: 6662
-    engagement: 1930
-    commentsToLikes: 0.051585
-    id: ck9rhj1pbflxl0j78ej6ojox8
-    verified: false
-    hashtags: "#cottagecore, #duet, #lgbtq, #wormonastring"
+    hashtags: "#like4like, #foryourpage, #womeninstem, #love"
   - username: "skinkissed"
     fullname: >-
       SKINKISSED
     bio: >-
       Experience The SKINKISSED Effect ✨ Healthy Skin For Everyone Shop Now 👇
     location: "Canada"
-    followers: 14900
-    engagement: 1769
-    commentsToLikes: 0.335275
+    followers: 15000
+    engagement: 1874
+    commentsToLikes: 0.321063
     id: ckck51vyqpsat0j231n30c7iz
     verified: false
-    hashtags: "#skincaretips, #skincare, #skinkissed, #trending"
+    hashtags: ""
+  - username: "reckless.intention.420"
+    fullname: >-
+      Jasmine
+    bio: >-
+      Healthcare | wife & BonusMom | 18+ | #Mamasharkfam
+    location: "Canada"
+    followers: 8714
+    engagement: 981
+    commentsToLikes: 0.119282
+    id: ckcv92m4lqoir0j23v33ixrg4
+    verified: false
+    hashtags: "#isaidwhatisaid, #personalsupportworker, #canadian, #duet"
+  - username: "ashtonthebeard"
+    fullname: >-
+      Ashton
+    bio: >-
+      🇨🇦ONTARIO🍁 SOBER LIVING MENTAL HEALTH ADV. MARRIED SPAM LIKES = BLOCKED
+    location: "Canada"
+    followers: 19200
+    engagement: 1656
+    commentsToLikes: 0.203631
+    id: ckd6z0npyxm130j234jncyc6i
+    verified: false
+    hashtags: "#careeradvice, #love, #foryourpage, #tiktokfashionmonth"
   - username: "moonlightbay20"
     fullname: >-
       Moonlightbay20
     bio: >-
-      #Healthcareworker 🏥 #Clerkin 🖥 #Canada 🇨🇦 #stukbystik
+      #Healthcareworker 🏥 #Clerkin 🖥 #Canada 🇨🇦 GTA #stukbystik
     location: "Canada"
-    followers: 3965
-    engagement: 1449
-    commentsToLikes: 0.094221
+    followers: 4172
+    engagement: 1996
+    commentsToLikes: 0.153160
     id: cka69d3q1s2zs0i78yte3ip98
     verified: false
-    hashtags: "#4youpage, #f4f, #followme, #foryoupage"
+    hashtags: "#fyp, #lol, #canada, #xyzcba"
   - username: "jaywoodford"
     fullname: >-
       Jay Woodford
     bio: >-
       📱 Publishing for @GaryVee 💜 All in on mental health 🥶 #WimHof 📍BC 🇨🇦
     location: "Canada"
-    followers: 62400
-    engagement: 936
-    commentsToLikes: 0.059351
+    followers: 61800
+    engagement: 930
+    commentsToLikes: 0.058386
     id: ck9jxlu051agw0j7822hgfo60
     verified: false
-    hashtags: "#bereal, #mentalheath, #wimhof, #mentalhealth"
-  - username: "chris_brake"
+    hashtags: "#bereal, #mentalhealth, #mentalheath, #wimhofmethod"
+  - username: "tylersarry"
     fullname: >-
-      Christopher Brake
+      Fitness & Mental Wellbeing
     bio: >-
-      🇨🇦 Memes | Physical Therapy Goal 👇 Health 💪 & Happiness 😊
+      🥰LIFE EST. 1985 T.O🇨🇦 Health & Fitness, Mental Resiliency, Emotional Agility
     location: "Canada"
-    followers: 27400
-    engagement: 1505
-    commentsToLikes: 0.057484
-    id: ckbfga7ctbbov0j23k3v89ywl
+    followers: 22700
+    engagement: 749
+    commentsToLikes: 0.198070
+    id: ckcem2lh5w6mr0j23et3wm83r
     verified: false
-    hashtags: "#stereotypes, #canadiantiktok, #canada, #moose"
-  - username: "rhys.sews.anime"
+    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+  - username: "needmoremomjuice"
     fullname: >-
-      ʟᴏᴄᴀʟ ꜱᴛɪᴛᴄʜɪɴɢ ʙᴏʏ
+      Kenn
     bio: >-
-      Rhys | 21 | He/Him 05/18 Mental Health Break Big plans tho after
+      safe space❤️ BLM MATERNAL MENTAL HEALTH ADVOCATE it’s the mom shaming for me.
     location: "Canada"
-    followers: 50900
-    engagement: 2370
-    commentsToLikes: 0.010347
-    id: ck9f9k37v75nr0j789abd2e94
+    followers: 3592
+    engagement: 1108
+    commentsToLikes: 0.070221
+    id: cka60mdkfrouf0i78xbw044ol
     verified: false
-    hashtags: "#mha, #embroidery, #stitching, #myheroacademia"
+    hashtags: "#duet, #foryou, #fyp, #foryoupage"
+  - username: "alanaahewitt"
+    fullname: >-
+       Alana Hewitt
+    bio: >-
+      23 she/her 🇨🇦🌼🦋🌞🏳️‍🌈 Makeup & Mental Health on IG✌🏼
+    location: "Canada"
+    followers: 2212
+    engagement: 1283
+    commentsToLikes: 0.153562
+    id: ckdi85kdkafk90j231j97ofim
+    verified: false
+    hashtags: "#lifestyle, #canada, #tiktokcanadacreates, #stitch"
 ---

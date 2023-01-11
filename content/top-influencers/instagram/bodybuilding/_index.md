@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In 2022
+title: Top 10 Bodybuilding Instagram Influencers In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in 2022. Most popular hashtags: #fitness #fitnessmotivation #bodybuilding.
+  Find top bodybuilding Instagram influencers in 2023. Most popular hashtags: #fitness #bodybuilding #fitnessmotivation.
 platform: Instagram
-hits: 4820
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 4820 Instagram influencers like this for you to collaborate.
+hits: 4772
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 4772 Instagram influencers like this for you to pitch.
 profiles:
+  - username: "alimansory_"
+    fullname: >-
+      Ali Mansour
+    bio: >-
+      🏆 Natural Bodybuilding Pro 👮🏽 Police Officer 🏋🏽‍♂️ @esncom Athlete | Code „Ali“ 🔜 Road to Stage 2023
+    location: "Germany"
+    followers: 11209
+    engagement: 378
+    commentsToLikes: 0.361270
+    id: ckaoybs6bgueb0i78ejoujesq
+    verified: false
+    hashtags: "#gym, #fitness, #trainhard, #weightlifting"
+  - username: "aliki_grunewald"
+    fullname: >-
+      GYM, FITNES & DUCATI MONSTER🏍
+    bio: >-
+      🗝 30 years 🖤 @gannikus_germany 🏋🏻‍♀️ 💪🏻 Bodybuilding Lifestyle
+    location: "Germany"
+    followers: 12200
+    engagement: 572
+    commentsToLikes: 0.108688
+    id: ck8t4udno7ykh0j78u0so3rv1
+    verified: false
+    hashtags: "#fitmilitarywomen, #sonntag, #blackhair, #boots"
+  - username: "tammy_bellabae_fitness"
+    fullname: >-
+      Tammy 🎀🌴👙💪
+    bio: >-
+      ISSA Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding and Senior Fitness @valorfitnessclothing 💙 TAMMY20
+    location: "United States"
+    followers: 12215
+    engagement: 1256
+    commentsToLikes: 0.111499
+    id: ckf5pez4b5ukz0j2385upfgyk
+    verified: false
+    hashtags: "#giveback, #louboutin, #tattedbabes, #gucci"
+  - username: "marzkiphysique"
+    fullname: >-
+      ᎷariaZ
+    bio: >-
+      🇲🇽Los Angeles✈️Utah Bodybuilding 🌕🌖🌗🌘🌑🌒🌓🌔🌕 🕯ᴇᴄʟᴇᴄᴛɪᴄ ᴡɪᴛᴄʜ🌻ʜɪᴘᴘɪᴇ🌞ɢʏᴘꜱʏ @angelcompetitionbikinis MARZ 🐲 @dragonarmyusa D10MARIAMORENO2
+    location: "United States"
+    followers: 7061
+    engagement: 1978
+    commentsToLikes: 0.175385
+    id: ck8td71jn25oi0j78nxvvsdrk
+    verified: false
+    hashtags: "#bodybuilding, #selflove, #mambamentality, #goddess"
   - username: "sadeq__yosefi"
     fullname: >-
       🇮🇷صادق یوسفی🇮🇷
     bio: >-
       ✌kurd✌ 🥇Classic Bodybuilding and Physical Body Gold🥇 🏠Life in Ravansar ⛔no entry
     location: "Iran"
-    followers: 3047
-    engagement: 2745
+    followers: 3180
+    engagement: 2630
     commentsToLikes: 0.200195
     id: ckaoysqppiwsd0i78w8mkri04
     verified: false
     hashtags: ""
-  - username: "marzkiphysique"
-    fullname: >-
-      ᎷariaZ
-    bio: >-
-      🇲🇽 Los Angeles✈️Utah ~Bodybuilding @sethelabel @angelcompetitionbikinis ~ Code : MARZ 🌕🌖🌗🌘🌑🌒🌓🌔🌕 🕯🔮Eclectic witch 🌻Hippie✨Gypsy 🌛🌕🌜 ✨🌿🌊💨🔥
-    location: "United States"
-    followers: 6307
-    engagement: 2171
-    commentsToLikes: 0.150886
-    id: ck8td71jn25oi0j78nxvvsdrk
-    verified: false
-    hashtags: "#hotsprings, #nature, #utah, #lakersnation"
-  - username: "tammy_bellabae_fitness"
-    fullname: >-
-      Tammy 🎀🌴👙💪
-    bio: >-
-      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
-    location: "United States"
-    followers: 11354
-    engagement: 1451
-    commentsToLikes: 0.087957
-    id: ckf5pez4b5ukz0j2385upfgyk
-    verified: false
-    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
-  - username: "aliki_grunewald"
-    fullname: >-
-      Aliki Susi G.
-    bio: >-
-      💪🏻 Bodybuilding & Powerlifting ✉️ aliki@steinkraussmanagement.de 🎗#fitsoldier in #Berlin
-    location: "Germany"
-    followers: 9223
-    engagement: 1106
-    commentsToLikes: 0.089852
-    id: ck8t4udno7ykh0j78u0so3rv1
-    verified: false
-    hashtags: "#bootyworkout, #girlswithtattoos, #wednesday, #girlswithmuscle"
-  - username: "ifbbpro_samanolfati_"
+  - username: "ifbbpro.samanolfati"
     fullname: >-
       ✏مربی بدنسازی
     bio: >-
-      In❤S IranQimia🇮🇷 athlete 🥇Iranian bodybuilding champion 🥇Champion&overal of bodybuilding world 🥇champion classicWorld ✏برنامه تمرینی و تغذیه
+      🚩kurd IranQimia🇮🇷 athlete 🥇Iranian bodybuilding champion 🥇Champion&overal of bodybuilding world 🥇champion classicWorld برنامه ورزشی و غذایی
     location: "Iran"
-    followers: 39394
-    engagement: 1002
-    commentsToLikes: 0.038249
+    followers: 40318
+    engagement: 977
+    commentsToLikes: 0.054112
     id: ck5bxf98unlze0i11ucjov8gz
     verified: false
     hashtags: ""
-  - username: "marc__hector"
-    fullname: >-
-      Marc Hector - IFBB PRO
-    bio: >-
-      2018 Amateur ⭕️lympia Overall Bodybuilding Champion🇬🇧🗡 🔴Online coach 🌍 🔴@eazyegguk Marc10 🔴Team @abdullah_fs_alotaibi 🔴BSc(Hons)Sports Science
-    location: "United Kingdom"
-    followers: 39256
-    engagement: 757
-    commentsToLikes: 0.040512
-    id: ck5zua4hg1z1i0i14ida9l2nt
-    verified: false
-    hashtags: "#thebritishgrandprix"
-  - username: "rezaghasemi_1376"
-    fullname: >-
-      Reza Ghasemi
-    bio: >-
-      Champion of three bodybuilding courses in Iran🏅 Champion of two bodybuilding courses in Tehran 🏅 Champion of two wrestling courses in Tehran🏅
-    location: "Iran"
-    followers: 7710
-    engagement: 1014
-    commentsToLikes: 0.099221
-    id: ck9wi1p4v0fyw0j78lpofx95j
-    verified: false
-    hashtags: "#fitness"
   - username: "svenjah.94"
     fullname: >-
       𝐒𝐯𝐞𝐧𝐣𝐚
     bio: >-
-      🇩🇪 Nbg, 25, Bodybuilding
+      🇩🇪 Nbg, 26, #bodybuildinglifestyle
     location: "Germany"
-    followers: 5421
-    engagement: 1169
-    commentsToLikes: 0.129618
+    followers: 5989
+    engagement: 1003
+    commentsToLikes: 0.107518
     id: ck8t9to5bpbg80j78mv8d9h4n
     verified: false
-    hashtags: "#asstograss, #bodypositivity, #backday, #womensphysique"
+    hashtags: "#fitfamgermany, #booty, #frenchiesofinstagram, #femalebodybuilder"
   - username: "niko_stil"
     fullname: >-
       Niko
     bio: >-
       Fitness 🏋🏻‍♂️ Natural Bodybuilding💪🏻 Twitch: Niko_Stil 👣 @jana_stil #NikoStil #Keller
     location: "Germany"
-    followers: 64368
-    engagement: 2263
-    commentsToLikes: 0.085224
+    followers: 61834
+    engagement: 2312
+    commentsToLikes: 0.117029
     id: ck5c635e34mce0i1130oqfsp7
     verified: false
-    hashtags: "#kellerfamily, #kellergmbh, #kelleristmacht, #keller"
-  - username: "jblary"
+    hashtags: "#oaschlochgang, #kelleristmacht, #kellerfamily, #keller"
+  - username: "saeedkhodayarii"
     fullname: >-
-      L A R Y . J B💕
+      Dr.Saeed Khodayari
     bio: >-
-      🔥FITMOM| BODYBUILDING|MOTIVATION🔥 Freedom.Love.Time.Death. Impressum/Datenschutz/Werbung
-    location: "Germany"
-    followers: 47309
-    engagement: 430
-    commentsToLikes: 0.064684
-    id: ck5zrd10jwctn0i14lb21z3m2
+      🎓PhD student in sports management 📚Sport researcher 🌎International Bodybuilding & wrestling coach 💻C.E.O of ”Ofogh varzesh co”
+    location: "Iran"
+    followers: 2918
+    engagement: 2434
+    commentsToLikes: 0.076866
+    id: ck13b6a12tvue0i192zysq6h3
     verified: false
-    hashtags: "#sixpack, #fitandhealthy, #firegirl, #fights"
+    hashtags: "#fitnessmotivation, #crossfit, #crossstitch"
+  - username: "rezaghasemi_1376"
+    fullname: >-
+      Reza Ghasemi
+    bio: >-
+      Champion of three bodybuilding courses in Iran🏅 Champion of two bodybuilding courses in Tehran 🏅 Champion of two wrestling courses in Tehran🏅
+    location: "Iran"
+    followers: 10149
+    engagement: 1102
+    commentsToLikes: 0.079163
+    id: ck9wi1p4v0fyw0j78lpofx95j
+    verified: false
+    hashtags: "#fitness"
 ---

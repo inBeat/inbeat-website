@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In India In 2022
+title: Top 10 Runners Instagram Influencers In India In 2023
 description: >-
-  Find top runners Instagram influencers in India in 2022. Most popular hashtags: #photooftheday #photography #love #instagood.
+  Find top runners Instagram influencers in India in 2023. Most popular hashtags: #instagood #india #reelsinstagram #reels.
 platform: Instagram
-hits: 173
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 173 Instagram influencers like this in India for you to pitch.
+hits: 137
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 137 Instagram influencers like this in India for you to collaborate.
 profiles:
+  - username: "anwesha_bhatia_firegirl"
+    fullname: >-
+      anwesha_bhatia_firegirl
+    bio: >-
+      Top 8 in Super Dancer ch 3✨ 1st runner up of Super Dancer Maharashtra✨ Semifinalist of India's got talent seson 7 ✨ Dm for Collaborations ❤️✨
+    location: "India"
+    followers: 23121
+    engagement: 280
+    commentsToLikes: 0.154347
+    id: ck13cu4hg26500i19mz0y5q2h
+    verified: false
+    hashtags: "#divine, #shine, #iamaboathead, #diwali2020"
   - username: "nishu9953"
     fullname: >-
       Nisha Jaiswal
     bio: >-
-      Engineer/ Model/ fashion / beauty /fitness/ lifestyle 🏅1st runner miss odisha photogenic 2k17 DM for collaboration and promotion
+      Engineer/ Model/ fashion / beauty /fitness/ lifestyle 🏅1st runner miss odisha photogenic 2k17 DM for collaboration and promotion @missnisha885
     location: "India"
-    followers: 19125
-    engagement: 898
-    commentsToLikes: 0.208597
+    followers: 20473
+    engagement: 560
+    commentsToLikes: 0.199165
     id: ck8t7azzvg60o0j78w0llw6jd
     verified: false
-    hashtags: "#beautybloggers, #fashionblogger, #indianblogger, #beromtlipsticks"
-  - username: "leen_kaurr"
+    hashtags: "#indianwear, #reelsindia, #beautybloggers, #outfitoftheday"
+  - username: "ninakmandal"
     fullname: >-
-      Gurleen Kaur
+      Nina Kant Mandal💋
     bio: >-
-      21💎 Influencer Miss Perfect Maharashtra 2nd runner up 2k19 👑 Miss Mridang👑 Dm for collab
+      🇳🇵Nepali 🇷🇺Russian 🇮🇳Indian 👑 Miss Universe Nepal 2020 2nd Runner Up 👑 Miss Asia Russia 2018 ❤️ She Speaks ✨ Mental health matters @mindswastha Tiktok
     location: "India"
-    followers: 6693
-    engagement: 1502
-    commentsToLikes: 0.107812
-    id: ck9hb5w4efisd0j78akcettx9
+    followers: 10882
+    engagement: 677
+    commentsToLikes: 0.058078
+    id: ck5cdolzyjic50i118itw6881
     verified: false
-    hashtags: "#glowing, #thane, #pink, #blue"
+    hashtags: "#indianmodel, #happy, #trend, #model"
   - username: "rahul_rajasekharann"
     fullname: >-
       Rahul Rajasekharan Nair
     bio: >-
-      Mr India 2015/16 1st runner up. Rahul5411@gmail.com for any work enquires 😊
+      Mr Supranational Asia 2021 Mr India 2015/16 1st runner up 🇮🇳 Rahul5411@gmail.com for any work enquires 😊
     location: "India"
-    followers: 39576
-    engagement: 525
-    commentsToLikes: 0.024534
+    followers: 50266
+    engagement: 566
+    commentsToLikes: 0.036206
     id: ck138muj0h03d0i19hff61qt2
     verified: true
-    hashtags: "#rahulrajasekharan, #rahul, #motorola, #portrait"
-  - username: "tinaaa_41"
+    hashtags: "#aspirational, #rahulrajasekharan, #mistersupranational2021, #5thmistersupranational"
+  - username: "nitinchandila"
     fullname: >-
-      Tina💫
+      NITIN MAHIPAL CHANDILA
     bio: >-
-      | 19 || 10feb | B.voc mass com student 🔥 Online villa S2 1st Runner up✨ [Tiktok-tinaaa_41 Fb-tina tungidwar]
+      🥇NBBUI Mr World 🥈IBBF Runner Up 🥉Olympia Amateur 📅24 Years Young 🏋️‍♂️Owner- @fitness_garage_gym_ ❤️ @priyanka_nitin___chandila 💍🌏
     location: "India"
-    followers: 2902
-    engagement: 2515
-    commentsToLikes: 0.033191
-    id: ck9wpa5308g860j78tg3y1lus
+    followers: 615188
+    engagement: 697
+    commentsToLikes: 0.004505
+    id: ck13bgk9wvbid0i19luc5k5yc
     verified: false
-    hashtags: "#photoshoot, #staysafe, #lockdown2020, #photo"
-  - username: "aditihundia"
+    hashtags: "#fitnessfreak, #health, #instagood, #eatclean"
+  - username: "marina_grigoriou_"
     fullname: >-
-      Aditi Hundia
+      Marina Grigoriou🧸🎈
     bio: >-
-      Femina Miss India finalist 2017 ✨ Miss Universe India 1st runner up 2018 👑 💄: @makeupbyaditihundia Work queries 📩 - hundiaditi97@gmail.com
+      🧚‍♀️Journalist💁🏻‍♀️📝 & Professional MUA💄Bridal Makeup✨ 1st RUNNER UP MISS HELLAS 2018👑 •For inquiries dm📩 Latest YouTube Video:⬇️⬇️⬇️🧚🏻‍♀️
     location: "India"
-    followers: 264654
-    engagement: 1158
-    commentsToLikes: 0.005160
-    id: ck15uyf6op35h0i199web3k2n
+    followers: 94662
+    engagement: 679
+    commentsToLikes: 0.102371
+    id: ck5chpx39r8mk0i11a0nhx6ln
     verified: true
-    hashtags: "#throwback, #lockdownlife, #rakshabandhan, #mirrormusings"
-  - username: "lokesh_chaprana"
+    hashtags: "#luigi, #onlinefashion, #newcollection"
+  - username: "vismayasunil_official"
     fullname: >-
-      LOKESH CHAPRANA
+      vismaya sunil
     bio: >-
-      Fitness || Influencer || Blogger 🎖Mr Delhi winner | 🇮🇳 Mr india runner up Mail for collaborations 📩
+      Dm for paid promotion ❣︎❤︎ @emirates_fashion_company runner_up😍💯❤️ Freelance / model ❤️ 19.👅 may 21 🎂
     location: "India"
-    followers: 14501
-    engagement: 673
-    commentsToLikes: 0.035555
-    id: ck5cbqambfyz10i118nsokfep
+    followers: 12534
+    engagement: 532
+    commentsToLikes: 0.087753
+    id: ckapb3b94yf8l0i785pqhqpc9
     verified: false
-    hashtags: "#lalalalalori"
-  - username: "vidya_prabhuu"
+    hashtags: "#reelsinstagram, #reels, #new, #copies"
+  - username: "gautamkhullarphotography"
     fullname: >-
-      Vidya Prabhu👑👸
+      Gautam Khullar
     bio: >-
-      Miss India TCU 1st Runner up 2018 If you are one among those 100's, I'm the 101th Model¦ Belly Dancer - Instructor✨ 📩For Enquiry
+      First Runners Up "Wedding Photographer of the Year" by @wsengage 2020 Destination and International weddings Based in Delhi, India
     location: "India"
-    followers: 9212
-    engagement: 816
-    commentsToLikes: 0.026860
-    id: ck8t62zmsc2c10j78fejrlt1r
+    followers: 34792
+    engagement: 349
+    commentsToLikes: 0.013718
+    id: ck5ztr1aj0ys30i14birmaa5q
     verified: false
-    hashtags: "#bellydancer, #bangalore, #lockdown, #bellydance"
-  - username: "the_.queeen_"
+    hashtags: "#weddingsutra, #popxowedding, #indianwedding, #canoneosr"
+  - username: "veeshakha_kavlekar"
     fullname: >-
-      Harmilan Bains
+      🖤💫make a vish🖤💫
     bio: >-
-      #mahadev🧘‍♂️🙏 ▪️#indianathlete 🇮🇳 ▪️#runner (1500 & 800) ▪️ 🌏Asian junior medalist▪️All India🇮🇳 Uni 1500M record holder▪️🌏World University Games 2019
+      🌴 GOA🌴 💀Welcome to ma world💀Too Glam to give a dam🔹️Wîńñéř Of Miss b'you.tiful 2019🔹️Wîńňêř Of Miss Glitz Global India 🔹️Miss Goa 2019 2nd Runner up🔹️
     location: "India"
-    followers: 33565
-    engagement: 1850
-    commentsToLikes: 0.013744
-    id: ck0w6gx3l8i7z0i19hy8uglw7
+    followers: 3378
+    engagement: 2249
+    commentsToLikes: 0.040927
+    id: ck5zu4n0s1oe00i14mbs3o4pn
     verified: false
-    hashtags: "#like, #photooftheday, #sports, #gymmotivation"
-  - username: "fitgirl_sneha"
+    hashtags: "#bridalmakeup, #promakeupartist, #makeupartist, #bridalgown"
+  - username: "anishavig"
     fullname: >-
-      Sneha Thakkar🌻
+      A N I S H A 🦋
     bio: >-
-      Runner I Powerlifting I Personal Trainer Certified Marathon Trainer Statistician l Data Science l Health l Fitness✨💪🏽 Lift heavy & live happy🏋️‍♀️❤️
+      JMC’19👩‍🎓 || Avid Runner 🏃‍♀️ If I don’t get my snacks I get angry... Influencer @garminindia
     location: "India"
-    followers: 3300
-    engagement: 1653
-    commentsToLikes: 0.087679
-    id: ck6tkbrlt4e180j712l4163n0
+    followers: 48877
+    engagement: 842
+    commentsToLikes: 0.014751
+    id: ck8t9xhyjppbq0j78xpg0a6je
     verified: false
-    hashtags: "#fitnessfreak, #stronggirl, #bikinibodygoals, #indianathlete"
-  - username: "sanyanagrare"
-    fullname: >-
-      daddy's girl 🌹
-    bio: >-
-      Careful when you come through my way⚡ Certified model from:-@ignitemodellingacademy ❤ 2nd runner up of Maharashtra next super model 👑
-    location: "India"
-    followers: 4361
-    engagement: 2154
-    commentsToLikes: 0.036077
-    id: ckap5oz84cju00i788hatbae8
-    verified: false
-    hashtags: "#trend, #nagure, #nagpur, #model"
+    hashtags: "#ootdmagazine, #toldwithexposure, #nothingisordinary, #livecolorfully"
 ---

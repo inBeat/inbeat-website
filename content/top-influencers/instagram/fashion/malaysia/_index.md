@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Malaysia In 2022
+title: Top 10 Fashion Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top fashion Instagram influencers in Malaysia in 2022. Most popular hashtags: #ootd #sudiomoments #sudio.
+  Find top fashion Instagram influencers in Malaysia in 2023. Most popular hashtags: #kitajagakita #happysunday #sulwhasoomyxshopee.
 platform: Instagram
-hits: 149
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 149 Instagram influencers like this in Malaysia for you to work with.
+hits: 102
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 102 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "sushalove"
+  - username: "winniek_my"
     fullname: >-
-      Sharen
+      Winnie K
     bio: >-
-      Beauty | Fashion | Style Snapchat : sushalove
+      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ wkproduction@gmail.com
     location: "Malaysia"
-    followers: 42479
-    engagement: 1179
-    commentsToLikes: 0.187139
-    id: ck14ju3t3m7220i190pvjobxv
-    verified: false
-    hashtags: "#indiangirl, #desigirl, #outfitinspiration, #styleblogger"
-  - username: "fishyfished"
-    fullname: >-
-      F I S H Y | MIR ⚜️ 創辦人
-    bio: >-
-      TRAVEL / LIFESTYLE / FASHION 🌸💖 : 💍👰🏻 to @iamzeanlim #zeanfishytravels : 🍰 @keikeu.studio | ⚜️ @miracle.group_official : 💌 fishyfished@gmail.com
-    location: "Malaysia"
-    followers: 7155
-    engagement: 836
-    commentsToLikes: 0.110737
-    id: ck0w0bgq0dcxi0i19xlwjcp38
-    verified: false
-    hashtags: "#sudiomoments, #sudio, #zeanfishytravels, #hylt"
-  - username: "ohmykaylagirl_k"
-    fullname: >-
-      K A Y L A💋
-    bio: >-
-      ✈️ Airasia Brand Ambassador 🎥 TV Host channel 5 Influencer Travel | Lifestyle | Beauty | Fashion 📩 DM > For Work
-    location: "Malaysia"
-    followers: 38068
-    engagement: 355
-    commentsToLikes: 0.039907
-    id: ck9ha754wbfqe0j781ij27o2e
-    verified: false
-    hashtags: "#flightattendantlife, #lifestyle, #aviationlovers, #style"
-  - username: "lucaseelau"
-    fullname: >-
-      𝐋𝐔𝐂𝐀𝐒 𝐋𝐀𝐔 💎
-    bio: >-
-      FASHION | BEAUTY | LIFESTYLE 📍Malaysia 📩woon_kiet@hotmail.com
-    location: "Malaysia"
-    followers: 73108
-    engagement: 302
-    commentsToLikes: 0.032591
-    id: ck0vx427zx1ip0i19drfybimk
-    verified: false
-    hashtags: "#karllagerfeld, #powerposechallenge, #marvelmy, #archiluxurygroup"
-  - username: "kayeepo"
-    fullname: >-
-      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
-    bio: >-
-      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella ☎️公司email : ella.heung@tvb.com.hk 🎥My Latest MV
-    location: "Malaysia"
-    followers: 163791
-    engagement: 311
-    commentsToLikes: 0.013859
-    id: ck5c5ipe33jpk0i1117y74mln
+    followers: 305977
+    engagement: 88
+    commentsToLikes: 0.104950
+    id: ck5zotkhyraxs0i14pe1m3368
     verified: true
-    hashtags: "#mv, #happynight, #loveit, #reallyhocheng1107"
+    hashtags: "#healthiswealth, #hydrogen, #healthylifestyle, #healthapp"
   - username: "blogitwithaqsa_"
     fullname: >-
       ✨ AQSA ALI ✨
     bio: >-
       🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
     location: "Malaysia"
-    followers: 25742
-    engagement: 166
-    commentsToLikes: 0.059595
+    followers: 25338
+    engagement: 185
+    commentsToLikes: 0.078883
     id: ck0vxl3nmzfk80i19bvk8axkb
     verified: false
-    hashtags: "#muharram1442"
-  - username: "areej.fatima"
+    hashtags: ""
+  - username: "jeschuhan"
     fullname: >-
-      Areej Fatima Saeed
+      Jes楚涵🍀
     bio: >-
-      Fashion Model,Travel & Lifestyle Blogger 📍Pakistan 👻 areejfatimak
+      Slashie 斜杠族 👉lifestyle | fitness | beauty | fashion 👉@jes_room 👉电商 @mayandzymes core partner | Jes Team. Leader | 👉ACCA certified | Igcse tutor
     location: "Malaysia"
-    followers: 176969
-    engagement: 157
-    commentsToLikes: 0.139965
-    id: ck15tuzpyk1dd0i19po7clqbt
+    followers: 26783
+    engagement: 328
+    commentsToLikes: 0.039495
+    id: ckap2834axs9o0i78q5pv2mze
     verified: false
-    hashtags: "#alkaramwoman, #winterwandering20, #areejfatimasaeed, #influencer"
+    hashtags: "#sp, #bepositive, #mco2021, #cnyootd2021"
   - username: "kittieyiyi"
     fullname: >-
       Kittie Yiyi
     bio: >-
       Fashion Designer @kittieyiyicollection Email: kittiekittie0905@gmail.com
     location: "Malaysia"
-    followers: 70419
-    engagement: 489
-    commentsToLikes: 0.007767
+    followers: 73294
+    engagement: 460
+    commentsToLikes: 0.014003
     id: ck0vx43cbx1o70i19xzd7o0as
     verified: false
-    hashtags: "#giftedbyfellaurban, #loveinspades, #katespadeny, #pandoramy"
-  - username: "jeschuhan"
+    hashtags: "#suityourself, #beunconventional, #thegrancoupe, #bmwmalaysia"
+  - username: "kayeepo"
     fullname: >-
-      Jes楚涵🍀
+      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
     bio: >-
-      Slashie 斜杠族 👉lifestyle | fitness | beauty | fashion 👉生活碎碎念 @jes_room 👉ACCA certified | Igcse tutor
+      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella 💻Office : 2335 2305 ☎️ Email : ella.heung@tvb.com.hk 🎥My Latest MV
     location: "Malaysia"
-    followers: 26439
-    engagement: 284
-    commentsToLikes: 0.024340
-    id: ckap2834axs9o0i78q5pv2mze
-    verified: false
-    hashtags: "#masjperfectv, #merzaestheticsmalaysia, #bonuslinkapp, #lazada1111"
-  - username: "terrance8989"
+    followers: 170188
+    engagement: 250
+    commentsToLikes: 0.015586
+    id: ck5c5ipe33jpk0i1117y74mln
+    verified: true
+    hashtags: "#happysunday, #love, #youtubechannel, #kayeetam"
+  - username: "rimka"
     fullname: >-
-      Terrance Ang | 洪永勝
+      RIMKA
     bio: >-
-      Fashion | Lifestyle | Product | Gym • From 🇲🇾 Malaysia • Job Enquiry : terrance8989@hotmail.com
+      Bright fashion, dark music & positive energy ✨ DJ/Producer & Co founder: @unveil.atelier & @immigrant.clothing ⁣⁣ GET MY TA’DUM TRACK👇🏽
     location: "Malaysia"
-    followers: 55338
-    engagement: 253
-    commentsToLikes: 0.017604
-    id: ck6u0dgq8f1sn0j712rebm7d0
+    followers: 6771
+    engagement: 416
+    commentsToLikes: 0.072161
+    id: ck5bwkl90lvsm0i113cnfztxp
     verified: false
-    hashtags: "#august, #snackchallenge, #stayathome, #covid19"
+    hashtags: "#truth"
+  - username: "_geying"
+    fullname: >-
+      _geying
+    bio: >-
+      Miss Astro 2018 Top 5 Miss Tourism World Msia 2017 Top 8 Lifestyle/ Fashion/ Beauty 🌼 job: geyinglee@hotmail.com
+    location: "Malaysia"
+    followers: 23359
+    engagement: 605
+    commentsToLikes: 0.009827
+    id: ck5c5jv1q3lze0i11zy6ot1sy
+    verified: false
+    hashtags: "#moreisevenmore, #mcobirthday, #dwgiftsoflove, #dwinmy"
+  - username: "impollylau"
+    fullname: >-
+      Polly Lau ⭐️
+    bio: >-
+      劉若寶 Actress • Freelance Model Beauty | Fashion | Singing| Travel | Cat Lover Job💌 : pollybo.lau@gmail.com ⭐️ 全民造星3
+    location: "Malaysia"
+    followers: 45064
+    engagement: 297
+    commentsToLikes: 0.012900
+    id: ck0vwiyl8u13s0i19bg217uae
+    verified: false
+    hashtags: "#ultimune, #citiplus, #levelup, #lepalgin"
+  - username: "jennagong"
+    fullname: >-
+      𝒥𝑒𝓃𝓃𝒶 𝒢𝑜𝓃𝑔
+    bio: >-
+      Blogger｜Model | Talent Fashion • Beauty • Lifestyle For jobs & collabs 💌: jennainstyle@gmail.com
+    location: "Malaysia"
+    followers: 79571
+    engagement: 215
+    commentsToLikes: 0.011337
+    id: ck15qb5ij1ztv0i191h6hifjl
+    verified: false
+    hashtags: "#shopee44megasale, #sulwhasoomyxshopee, #shopeeambassadormy, #fashionblogger"
+  - username: "aidaaziraaa"
+    fullname: >-
+      Aida Azira Kassim 🇲🇾
+    bio: >-
+      Becoming the best version of myself Z’s • Lifestyle • Fashion • Food @bydaa.my @aidaazofficial DM | aidaazira.work@gmail.com
+    location: "Malaysia"
+    followers: 303595
+    engagement: 104
+    commentsToLikes: 0.025956
+    id: ck5c0zokcu5s50i11d84f8p0s
+    verified: false
+    hashtags: "#followersappreciation, #glowupeveryday, #mco, #scarfree"
 ---

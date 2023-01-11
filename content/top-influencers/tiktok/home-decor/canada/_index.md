@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Canada In 2022
+title: Top 10 Home Decor TikTok Influencers In Canada In 2023
 description: >-
-  Find top home decor TikTok influencers in Canada in 2022. Most popular hashtags: #homedecor #fyp #howto #diy.
+  Find top home decor TikTok influencers in Canada in 2023. Most popular hashtags: #homedecor #fyp #tiktokdiy #diy.
 platform: TikTok
-hits: 168
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database holds 168 TikTok influencers like this in Canada for you to collaborate.
+hits: 131
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 131 TikTok influencers like this in Canada for you to work with.
 profiles:
-  - username: "majaxmro"
+  - username: "emscourtney"
     fullname: >-
-      𝓶𝓪𝓳𝓪 𝓶𝓻𝓸
+      Emma
     bio: >-
-      17 cancelled
+      Lover of interior design, baking, travel, fitness & cats 📍Toronto
     location: "Canada"
-    followers: 15700
-    engagement: 1059
-    commentsToLikes: 0.102422
-    id: ckbf3h0dsr8i00j23o4sd5ffr
+    followers: 3263
+    engagement: 771
+    commentsToLikes: 0.088157
+    id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#fyp, #ontario, #homedecor, #greenscreen"
-  - username: "aestheticallyjess_"
+    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+  - username: "boyuba"
     fullname: >-
-      Jessica Shelton
+      Boyu Ba
     bio: >-
-      Canadian Artist 🇨🇦 Use code “TikTok” at check out to save $$$
+      ☁️ pronounced boy-you 🔗 all things decor, style & beauty 📍vancouver, canada
     location: "Canada"
-    followers: 17200
-    engagement: 489
-    commentsToLikes: 0.048676
-    id: ckb97tqcjqv5e0j233soafj5s
+    followers: 8475
+    engagement: 352
+    commentsToLikes: 0.062355
+    id: ckb9lz5cdeutg0j23ldiqk0h0
     verified: false
-    hashtags: "#resinart, #homedecor, #smallbusinessowner, #sosatisfying"
-  - username: "camilasegura98"
+    hashtags: "#fyp, #nailsartvideos, #nails, #supportlocalbusiness"
+  - username: "the_fabricated_fox"
     fullname: >-
-      camilasegura
+      the_fabricated_fox
     bio: >-
-      if I make you laugh, you've made my day💕 📍🌎
+      🎃It’s always Halloween here🎃 20k! You’re all so wonderful!!
     location: "Canada"
-    followers: 2183
-    engagement: 559
-    commentsToLikes: 0.033004
-    id: ckc1t19zmxbbg0j23js7itl5f
+    followers: 20000
+    engagement: 1245
+    commentsToLikes: 0.035189
+    id: ckdnipplxiirk0j2332zxhrki
     verified: false
-    hashtags: "#relationship, #plantlover, #boyfriend, #fyp"
-  - username: "letitiakiu"
+    hashtags: "#princessmononoke, #painteddenim, #halloweendecor, #animetiktok"
+  - username: "thediymommy"
     fullname: >-
-      Letitia Kiu
+      The DIY Mommy
     bio: >-
-      ☆ Thrift, Fashion & DIY ☆ YT & IG: @letitiakiu Toronto
+      DIY & decor ideas to create a cozy home. Full tutorials on my blog + YouTube!
     location: "Canada"
-    followers: 9986
-    engagement: 847
-    commentsToLikes: 0.020728
-    id: ck9818tumau510j78l0v2d07y
+    followers: 100900
+    engagement: 616
+    commentsToLikes: 0.034325
+    id: ckb0ppp4lfjbj0j234xxanlcu
     verified: false
-    hashtags: "#styletips, #tiktokfashion, #thrifted, #thrift"
-  - username: "leah.carrick"
-    fullname: >-
-      Leah Carrick 
-    bio: >-
-      My face? Google Port-Wine Stain or watch this https://vm.tiktok.com/c8UM1A/
-    location: "Canada"
-    followers: 164000
-    engagement: 500
-    commentsToLikes: 0.015851
-    id: ckac5ssnmdkf40i789u6or5ro
-    verified: false
-    hashtags: "#frogs, #homedecor, #deepfried, #girls"
-  - username: "craftcupid"
-    fullname: >-
-      Craft Cupid
-    bio: >-
-      🌈 Art, Home, Thrift, & DIY 🌈 💌 craftcupidbusiness@gmail.com
-    location: "Canada"
-    followers: 101800
-    engagement: 1222
-    commentsToLikes: 0.005784
-    id: ck8f7tyte34jv0j78zu2yanx2
-    verified: false
-    hashtags: "#thriftwithme, #thriftshop, #diy, #tiktokdiy"
+    hashtags: "#homedecor, #stepbystep, #ikeatok, #tiktokdiy"
   - username: "meetthemehras"
     fullname: >-
       Meet the Mehras
     bio: >-
-      Aman and Kumar 🇨🇦
+      A and K 🇨🇦
     location: "Canada"
-    followers: 11200
-    engagement: 432
-    commentsToLikes: 0.027283
+    followers: 11000
+    engagement: 393
+    commentsToLikes: 0.050139
     id: ckauze5su4x7c0j23ehmkgn84
     verified: false
-    hashtags: "#shopping, #fyp, #costco, #over30"
-  - username: "oli_bea"
+    hashtags: "#foryoupage, #homesense, #couplegoals, #over30"
+  - username: "jaclynhdesigns"
     fullname: >-
-      Oli Bea
+      Jaclyn Harper
     bio: >-
-      just a girl, a guy, and their growing plant family 🌱
+      HGTV Stylist & TV Host Design/Decor/Styling Videos 👉🏻👈🏻IG @jaclynhdesigns
     location: "Canada"
-    followers: 15200
-    engagement: 924
-    commentsToLikes: 0.011489
-    id: ckbquu2i7f7z30j23dw2twcla
-    verified: false
-    hashtags: "#planthanger, #plantlover, #howto, #homedecor"
-  - username: "fromhousetohome"
+    followers: 154600
+    engagement: 421
+    commentsToLikes: 0.063442
+    id: ck8hk5cvvcfpf0j7820x9i7lf
+    verified: true
+    hashtags: "#hometips, #mistake, #styletips, #interiordesigntiktok"
+  - username: "craftcupid"
     fullname: >-
-      Jenna Rutherford
+      Craft Cupid
     bio: >-
-      MAKING MY HOUSE A HOME DIY - Woodworker - Lifestyle 🇨🇦Come Follow Along🇨🇦
+      🌈 Art, Home, Thrift, & DIY 🌈 craftcupidbusiness@gmail.com
     location: "Canada"
-    followers: 88000
-    engagement: 354
-    commentsToLikes: 0.015969
-    id: ckc7s13ohx0y60j23kfbd19ys
+    followers: 98800
+    engagement: 1195
+    commentsToLikes: 0.006579
+    id: ck8f7tyte34jv0j78zu2yanx2
     verified: false
-    hashtags: "#oneroomchallenge, #homediy, #stoppinningstartdoing, #homedecor"
-  - username: "alexx.jj"
+    hashtags: "#foryoupage, #painting, #fyp, #homedecor"
+  - username: "threadsandblooms"
     fullname: >-
-      user6653784189163
+      Threadsandblooms
     bio: >-
-      🍉 - B.C. - 🖤❤️💛🤍 Joey Bada$$ - TEMPTATION
+      Fixing up our 1908 Heritage Home All the details over on Instagram 🌸 🏡 🇨🇦
     location: "Canada"
-    followers: 3402
-    engagement: 574
-    commentsToLikes: 0.020919
-    id: ckcdyf8asglt60j23af86kh18
+    followers: 17000
+    engagement: 974
+    commentsToLikes: 0.013857
+    id: cka656p0vbri50i78klqhivp0
     verified: false
-    hashtags: "#foryoupage, #homedecor, #foryou, #fashion101"
+    hashtags: "#flowers, #fyp, #diyproject, #diyhome"
+  - username: "kristenroseg"
+    fullname: >-
+      Kristen Rose
+    bio: >-
+      wild & wandering BC 🇨🇦 • hiker 🥾• forest teacher 🌲
+    location: "Canada"
+    followers: 16300
+    engagement: 587
+    commentsToLikes: 0.042444
+    id: ckc7vooxoz45j0j23fafnqgll
+    verified: false
+    hashtags: "#beautifulbritishcolumbia, #homedecor, #fyp, #happyathome"
+  - username: "lizzi.mov"
+    fullname: >-
+      Liz Kapran
+    bio: >-
+      my life + jokes + tips 💅🏼 lizzi@musetheagency.com follow me on IG: @lizzi.jpg
+    location: "Canada"
+    followers: 448800
+    engagement: 916
+    commentsToLikes: 0.010199
+    id: ck7zo4oe0hrk80j788dym2w4m
+    verified: false
+    hashtags: "#fyp, #hairtutorials, #homedecor, #beforeandafter"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In United States In 2022
+title: Top 10 Comedians Instagram Influencers In United States In 2023
 description: >-
-  Find top comedians Instagram influencers in United States in 2022. Most popular hashtags: #nairobikenya #publicity254 #kenyamemes.
+  Find top comedians Instagram influencers in United States in 2023. Most popular hashtags: #christmas #ad #phoenix.
 platform: Instagram
-hits: 897
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 897 Instagram influencers like this in United States for you to contact.
+hits: 945
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 945 Instagram influencers like this in United States for you to pitch.
 profiles:
   - username: "daveattell"
     fullname: >-
@@ -13,36 +13,72 @@ profiles:
     bio: >-
       Comedian.
     location: "United States"
-    followers: 201458
-    engagement: 226
-    commentsToLikes: 0.020877
+    followers: 201480
+    engagement: 244
+    commentsToLikes: 0.022101
     id: ck0u6tk9o2zp60i19zvoayxgm
     verified: true
-    hashtags: "#2009vs2019, #phoenix, #happyhalloween, #bumpingmics"
+    hashtags: "#bumpingmics, #2009vs2019, #phoenix, #happyhalloween"
+  - username: "vinniemontez"
+    fullname: >-
+      Vinnie Montez
+    bio: >-
+      Comedian
+    location: "United States"
+    followers: 20822
+    engagement: 230
+    commentsToLikes: 0.029451
+    id: ck8swwr12fi9a0j78sjo8uuzl
+    verified: false
+    hashtags: "#family, #christmas, #laugh, #fun"
+  - username: "mineraldik"
+    fullname: >-
+      @ᴍɪɴᴇʀᴀʟᴅɪᴋ
+    bio: >-
+      Comedian
+    location: "United States"
+    followers: 14069
+    engagement: 874
+    commentsToLikes: 0.053116
+    id: ck5q1cdfkabac0i116one4nir
+    verified: false
+    hashtags: "#peruvianmarchingpowder, #wewontcomply, #beancrew, #covid"
   - username: "louieanderson"
     fullname: >-
       Louie Anderson
     bio: >-
       Comedian.
     location: "United States"
-    followers: 44259
-    engagement: 240
-    commentsToLikes: 0.030479
+    followers: 46185
+    engagement: 235
+    commentsToLikes: 0.032032
     id: ck55my8fz53330i110hi03oon
     verified: true
-    hashtags: "#giftfromhbomax, #recordvoterturnout2020, #standupcomedyking, #ilovemyfamily"
+    hashtags: "#christmastree, #love, #jimmycarter, #coming2america"
+  - username: "biancacristovao"
+    fullname: >-
+      Bianca Cristovao
+    bio: >-
+      Comedian
+    location: "United States"
+    followers: 15467
+    engagement: 382
+    commentsToLikes: 0.016869
+    id: ck8sypd0flhi70j78pgpdpwbo
+    verified: false
+    hashtags: "#loveyourself, #lovinginamerica, #blackouttuesday, #expressiveart"
   - username: "jimjefferies"
     fullname: >-
       Jim Jefferies
     bio: >-
       Comedian
     location: "United States"
-    followers: 302518
-    engagement: 119
-    commentsToLikes: 0.021529
+    followers: 310331
+    engagement: 123
+    commentsToLikes: 0.018197
     id: ck0u9nd4ga89b0i19jlqwzcal
     verified: true
-    hashtags: "#mothersday"
+    hashtags: ""
   - username: "harikondabolu"
     fullname: >-
       Hari Kondabolu
@@ -55,76 +91,40 @@ profiles:
     id: ck14kbdf0oojh0i19kf7gvhft
     verified: true
     hashtags: ""
-  - username: "itskategodfrey"
+  - username: "mallowfrenchie"
     fullname: >-
-      kate godfrey :)
+      Mallow Frenchie
     bio: >-
-      cast member of nickelodeon’s @allthat! ✨ comedian // actor // singer @schullertalent @a3artistsagency
+      ✨ big diva energy 🐷 thicc lil comedian & snaggletooth queen 🫶🏻 snacks, naps, & epic adventures — Miami & beyond 📸 as seen in @Forbes & @MiamiNewTimes
     location: "United States"
-    followers: 19286
-    engagement: 854
-    commentsToLikes: 0.118751
-    id: ck5c5is7a3jvh0i11z4ajt7nh
+    followers: 62212
+    engagement: 246
+    commentsToLikes: 0.079741
+    id: ck0vv2ltyn96t0i19k1lpj8qh
     verified: false
-    hashtags: "#17"
-  - username: "jacaranda_finnest"
+    hashtags: "#pawlidaywishlist, #petfriendly, #sponsored, #friyay"
+  - username: "ibnicolearbour"
     fullname: >-
-      🦋M_.T_🦋‼️
+      Nicole Arbour
     bio: >-
-      Comedian😂😂💔 . Usiforce😴‼️ . 🤟💛🦋
+      Comedian, Music Maker, Creative, Truth Teller. #GOTEAM #GoodVibes Click below! 💁🏼‍♀️⬇️
     location: "United States"
-    followers: 5021
-    engagement: 1437
-    commentsToLikes: 0.135936
-    id: ckaov7y993fru0i78s406qwy2
+    followers: 1717285
+    engagement: 56
+    commentsToLikes: 0.021024
+    id: ck5q1cv2lae270i11wyw0zm1f
+    verified: true
+    hashtags: "#storm, #finallyhaveashotwithelon, #ishouldthough, #liverking"
+  - username: "tonybaker"
+    fullname: >-
+      Tony Baker
+    bio: >-
+      Actor/Stand Up Comedian. Youtube: Tony Baker Comedy Instagram: @tonybakerrandomly Facebook: @TonyBakerComedyPage TURN ON MY NOTIFICATIONS 👆🏾
+    location: "United States"
+    followers: 2529132
+    engagement: 34
+    commentsToLikes: 0.046869
+    id: cl34yj62dzu5q0i237lz5qnuw
     verified: false
-    hashtags: "#instagood, #gainwithmtaaraw, #ignairobi, #gainlikes"
-  - username: "evan.eiglarsh"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀EVAN EIGLARSH
-    bio: >-
-      Comedian, Speaker, Reiki Master, Harmonica Player Tiktok @evan.tok (320k+) UCF ‘24 Business Inquiries: evanpartners@gmail.com
-    location: "United States"
-    followers: 3901
-    engagement: 2744
-    commentsToLikes: 0.088097
-    id: ck8wfwxs9gdxr0j783bxn6z2k
-    verified: false
-    hashtags: "#ucfknights, #askme, #imintoyou, #goal"
-  - username: "thedrewlynch"
-    fullname: >-
-      Drew Lynch
-    bio: >-
-      That stuttering comedian who won American Idol. 👇 My podcast 👇
-    location: "United States"
-    followers: 749740
-    engagement: 1539
-    commentsToLikes: 0.019022
-    id: ck0w1r3ohkq510i193qty3psq
-    verified: true
-    hashtags: ""
-  - username: "fletchercowan"
-    fullname: >-
-      Fletcher Cowan
-    bio: >-
-      British TV host, comedian & writer. 🇬🇧🇺🇸 Agent: ICM
-    location: "United States"
-    followers: 52056
-    engagement: 859
-    commentsToLikes: 0.032082
-    id: ck5cd8staiqli0i11b09n905d
-    verified: true
-    hashtags: "#thequarantinecatchup, #igtv, #igtvchannel, #zoomfails"
-  - username: "jonicatgibbs"
-    fullname: >-
-      Jojo T Gibbs
-    bio: >-
-      Los Angeles based Actress | Comedian | Writer | Tarheel | Grateful | Blessed | #NMCILA Hattie on TWENTIES on #BET
-    location: "United States"
-    followers: 24478
-    engagement: 1432
-    commentsToLikes: 0.065515
-    id: ck6tnn6yya6gg0j717juw87zt
-    verified: true
-    hashtags: "#givemealltheroles, #mondaze, #tbt, #twentiesonbet"
+    hashtags: "#tonybakerontheshelves, #thefabulousbakerboyz, #la, #burbank"
 ---

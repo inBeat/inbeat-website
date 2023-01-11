@@ -1,57 +1,57 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Russia In 2022
+title: Top 10 Gardening Instagram Influencers In Russia In 2023
 description: >-
-  Find top gardening Instagram influencers in Russia in 2022. Most popular hashtags: #gardening #garden #flowers #mygarden.
+  Find top gardening Instagram influencers in Russia in 2023. Most popular hashtags: #gardening #garden #mygarden #flowers.
 platform: Instagram
-hits: 17
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 17 Instagram influencers like this in Russia for you to pitch.
+hits: 14
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 14 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "lisa_i_sad"
     fullname: >-
-      Лиса и Сад.
+      Лиса и Сад
     bio: >-
-      Елизавета. Краснодарский край. О саде и о жизни. Пеларгониии и другие растения из моего сада здесь @lisa_katalog
+      Елизавета. О саде и о жизни. Саженцы из моего сада здесь @lisa_katalog Навигация по темам здесь #лиса_навигация
     location: "Russia"
-    followers: 11391
-    engagement: 796
-    commentsToLikes: 0.061986
+    followers: 14513
+    engagement: 523
+    commentsToLikes: 0.092110
     id: ck136dyx060qy0i19gmhe9cg0
     verified: false
-    hashtags: ""
+    hashtags: "#jardin, #gardening, #landscape, #snow"
+  - username: "pinacolada_garden"
+    fullname: >-
+      🌸🌾  Сад Юлии Матвейчук 🌸🌾
+    bio: >-
+      Ландшафтный дизайнер🌲🌾 Сад своими руками 🙌🏻 Страничка о моём саде, стрижке растений и уходе 👩🏻‍🌾 Обо мне и моей семье 👨‍👩‍👧‍👦 Минск, Беларусь
+    location: "Russia"
+    followers: 30523
+    engagement: 474
+    commentsToLikes: 0.034499
+    id: ckapb29p3yayp0i78z6wsgxdk
+    verified: false
+    hashtags: "#pinacolada, #garden, #gardenlife, #spirea"
   - username: "fuchsi_ya"
     fullname: >-
       Julia
     bio: >-
       Расскажу все о фуксиях Учусь выращивать розы Путешествую 💓🇹🇭🇬🇪 32 страны Here to inspire and be inspired
     location: "Russia"
-    followers: 7665
-    engagement: 910
-    commentsToLikes: 0.029228
+    followers: 7440
+    engagement: 859
+    commentsToLikes: 0.026712
     id: ck14hlt30ayns0i199myfhpxy
     verified: false
-    hashtags: "#jardin, #monjardin, #gardening, #fuchsi"
-  - username: "sultanova_sad"
-    fullname: >-
-      Людмила (Мой Сад)
-    bio: >-
-      Загородная жизнь, огород🍐🍎🍅, дача, сад, цветы🌷🌹🥀🌺. Люблю свой дом🏡, свою семью👨‍👩‍👦‍👦, в людях ценю - порядочность😉.
-    location: "Russia"
-    followers: 29344
-    engagement: 366
-    commentsToLikes: 0.042171
-    id: ck134ra68xtap0i191737dxon
-    verified: false
-    hashtags: "#myflowers, #flowers, #beautiful, #flowerstagram"
+    hashtags: "#fiori, #fuchsimania, #mygarden, #yakushi"
   - username: "landshaft.design"
     fullname: >-
       ЛАНДШАФТНЫЙ ДИЗАЙН▪︎ДАЧА▪︎САД
     bio: >-
-      🔝Первый блог в России о ландшафте и саде 🇷🇺 🏡 Садовые кресла @kreslo_relax 📲 По вопросам обращайтесь в директ Профессиональные услуги по озеленению ⬇️
+      🔝Первый блог в России о ландшафте и саде 🇷🇺 🏡 Садовые кресла @kreslo_relax Профессиональные услуги по озеленению ⬇️
     location: "Russia"
-    followers: 359124
-    engagement: 180
-    commentsToLikes: 0.009621
+    followers: 413275
+    engagement: 162
+    commentsToLikes: 0.012264
     id: ck15uajmem83n0i19updcp14r
     verified: false
     hashtags: ""
@@ -59,72 +59,72 @@ profiles:
     fullname: >-
       Richard Bloom
     bio: >-
-      Photographer of Gardens, Plants for mags and designers. International Garden Photographer of The Year 2016 GMG Features Photographer of The Year 2018.
+      Award winning international garden photographer.
     location: "Russia"
-    followers: 9603
-    engagement: 1070
-    commentsToLikes: 0.021065
+    followers: 11738
+    engagement: 827
+    commentsToLikes: 0.020646
     id: ck5zwne9r6flw0i14udxz3xd0
     verified: false
-    hashtags: "#conifers, #gardening, #gardenlovers, #floralphotography"
+    hashtags: "#gardenlove, #gardenphoto, #winter, #artofvisuals"
+  - username: "marharytabertosh"
+    fullname: >-
+      Marharyta Bertosh
+    bio: >-
+      💌Massi & Melly Mom 👚👕 💌Housewife in Action 👱🏽‍♀️®️ @chica_mkup 👄 #marharytacooks #marharytatravels 💌Pug #misspeppa🐽 💌ex CCL 🛳⚓️♥️🇺🇸 💌ex Au-pair 🇩🇪
+    location: "Russia"
+    followers: 7734
+    engagement: 612
+    commentsToLikes: 0.154531
+    id: ck6u3zjek0sy10j716sn2wqqv
+    verified: false
+    hashtags: "#marharytacooks, #dipriz, #baranovichi, #naturalcosmetics"
   - username: "julia_raduga_"
     fullname: >-
-      🌺🌹🌺дом в цветах🌳🌿🌲сад
+      🌺дом в цветах🌺руки из плеч🌺
     bio: >-
-      🌺Юлия ￼￼￼🌺выращиваю свой неповторимый сад 🌺коллекционирую сортовые пеларгонии 🌺магазин @pelargoni_garden_tula
+      🌺Юлия 🌺коллекционирую сортовые пеларгонии 🌺магазин @pelargoni_garden_tula 🌺выращиваю свой неповторимый сад 🌺делюсь идеями декора дома и сада
     location: "Russia"
-    followers: 40353
-    engagement: 511
-    commentsToLikes: 0.034801
+    followers: 44316
+    engagement: 586
+    commentsToLikes: 0.156650
     id: ck15uap1am8tw0i19baqoslyj
     verified: false
-    hashtags: "#geraniums, #pelargonium, #mygardentoday, #geranium"
-  - username: "helen_fairy_garden"
+    hashtags: "#pelargonium, #geranio, #geranium, #pelargonia"
+  - username: "sultanova_sad"
     fullname: >-
-      Елена Власова
+      Людмила (Мой Сад)
     bio: >-
-      Мой большой и молодой сад в Подмосковье
+      Загородная жизнь, огород🍐🍎🍅, дача, сад, цветы🌷🌹🥀🌺. Люблю свой дом🏡, свою семью👨‍👩‍👦‍👦, в людях ценю - порядочность😉.
     location: "Russia"
-    followers: 20161
-    engagement: 420
-    commentsToLikes: 0.040041
-    id: ck6ubd5je8vg00j71zvzo2q51
+    followers: 29094
+    engagement: 521
+    commentsToLikes: 0.050321
+    id: ck134ra68xtap0i191737dxon
     verified: false
-    hashtags: "#prettygardens, #autumngarden, #wintersoon, #annualflowers"
-  - username: "aleksandrov_sad"
+    hashtags: "#flowerstagram, #beautiful, #rose, #garden"
+  - username: "karina.chernykh_"
     fullname: >-
-      🍃Сад🍃Огород🍃Ландшафт
+      Студия Танцев МТВ Шахты
     bio: >-
-      👒ЮЛИЯ 🌳 Делюсь всеми секретами выращивания растений и уходом за садом. 🌳Растим сад с нуля. 🌳Дача40 соток в Подмосковье 🌳Фото только из Моего Сада!
+      😍 Карина Ч. Реклама, сотрудничество 💃Танцор, хореограф, артист @mtvdancestudio 🐶Будни моего пса 🌈Разноцветная жизнь
     location: "Russia"
-    followers: 107821
-    engagement: 349
-    commentsToLikes: 0.063381
-    id: ck0w5iduw3rv70i198s6ywevt
+    followers: 12053
+    engagement: 370
+    commentsToLikes: 0.053939
+    id: ck5ziwzshgj5r0i14bltduonk
     verified: false
-    hashtags: "#garden, #gardening"
-  - username: "dom___mechti"
+    hashtags: "#follow, #shakhty, #blogging, #yellow"
+  - username: "samodelkicreates"
     fullname: >-
-      ЛУЧШИЕ ИДЕИ ДЛЯ ДОМА🏡
+      DIY Creates | САМОДЕЛКИ
     bio: >-
-      🛋ИНТЕРЬЕР 🏡ДЕКОР 🔥УЮТ 💡ПОЛЕЗНЫЕ ИДЕИ 👩‍⚖️По поводу рекламы - в Direkt
+      🔽 Самоделки которые удивляют 🤔 🔽 Новое видео каждый день 📽️ 🔽 Присоединяйтесь 👍🔥 🔽 DIY Creates videos 😍 🔽 Subscribe 👍
     location: "Russia"
-    followers: 55231
-    engagement: 232
-    commentsToLikes: 0.017196
-    id: ckap1lk21v2ev0i78sfxhcqr2
+    followers: 200629
+    engagement: 61
+    commentsToLikes: 0.004961
+    id: ck13crfue1sx70i19smjrct7i
     verified: false
-    hashtags: "#decorationinterieur, #decor, #design, #interiordesign"
-  - username: "katerinagepta"
-    fullname: >-
-      Катерина Гепта
-    bio: >-
-      Здесь живут вышитые олени🦌 рисуются цветы и птицы🌿🦉 Мои рисунки - #katerinagepta_art Мои олени - #katerinagepta_embroidered_deer
-    location: "Russia"
-    followers: 8525
-    engagement: 490
-    commentsToLikes: 0.038070
-    id: ck14js63tlwr00i194rnxdq0n
-    verified: false
-    hashtags: "#garden, #botanicalillustration, #herbals, #flowersandgarden"
+    hashtags: "#welders, #diys, #engineeringlife, #hack"
 ---

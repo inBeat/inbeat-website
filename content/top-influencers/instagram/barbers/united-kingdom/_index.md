@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United Kingdom In 2022
+title: Top 10 Barbers Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top barbers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #barberlife #mensfashion #hair #barbershopconnect.
+  Find top barbers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #mensfashion #barber #hairstyles #london.
 platform: Instagram
-hits: 138
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 138 Instagram influencers like this in United Kingdom for you to connect with.
+hits: 78
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 78 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "paulhewitt_barber"
-    fullname: >-
-      Paul Hewitt ✪
-    bio: >-
-      @blklamourbarbers @brislingtonhill_barbershop @partsandlabourbarbers F🎗CKCANCER @monsterenergy @capeganguk @uppercutdeluxe @dickieslifeofficial
-    location: "United Kingdom"
-    followers: 26731
-    engagement: 261
-    commentsToLikes: 0.067978
-    id: ck0ttnvex3j7o0i19iyivf7qu
-    verified: false
-    hashtags: "#barberlife, #hair, #stancesocks, #girldad"
-  - username: "holly_inked"
-    fullname: >-
-      Holly Broome
-    bio: >-
-      Average tattooed barber ✨ Blackwork | Family | Fashion Promotional enquiries- hollyinkedenquiries@gmail.com
-    location: "United Kingdom"
-    followers: 156219
-    engagement: 401
-    commentsToLikes: 0.016147
-    id: ck0vv7a85nuvu0i19a8jp7qxg
-    verified: false
-    hashtags: "#mohawk, #alternativefashion, #altstyle, #darkart"
-  - username: "rfitchett_"
-    fullname: >-
-      
-    bio: >-
-      Men’s Hairstylist 💈Bull + Co barber shop 📍United Kingdom
-    location: "United Kingdom"
-    followers: 5283
-    engagement: 669
-    commentsToLikes: 0.038538
-    id: ck602g7wjhbta0i14gvka0j0n
-    verified: false
-    hashtags: ""
-  - username: "ryan_davieshall"
-    fullname: >-
-      RYAN DAVIES-HALL
-    bio: >-
-      The Wild One. - London // UK📍 - Barber // Model - @woodstockmodels 🇬🇧 Enquiries: RYANDAVIESHALL@GMAIL.COM THE BLACK EDITION // OUT NOW
-    location: "United Kingdom"
-    followers: 56302
-    engagement: 197
-    commentsToLikes: 0.016957
-    id: ck5bw6tbsl3p10i11omhnc7yr
-    verified: false
-    hashtags: "#model, #tattoo, #victoriahouse, #lfw"
-  - username: "kylebeaumont89"
-    fullname: >-
-      Kyle Beaumont 🦹🏼‍♀️
-    bio: >-
-      @undercoatuk 🤘🏽 @timetotraintogether 💪🏽 TIKTOK - https://vm.tiktok.com/ZSQp6Kwv/ BLANCA 🐶 @ruger_barber SWEET now available ✂️⬇️
-    location: "United Kingdom"
-    followers: 213498
-    engagement: 172
-    commentsToLikes: 0.011445
-    id: ck0u8ezaa76vx0i194sogsr77
-    verified: false
-    hashtags: "#hair, #fashion, #tattoo, #boy"
   - username: "r.braid"
     fullname: >-
       Robert Braid
     bio: >-
-      ▶️ AWARD WINNING BARBER ▶️ |B|COLLECTIVE EDUCATION ▶️ CREATIVE TEAM DIRECTOR ▶️ BRAIDBARBERSCREATIVETEAM ▶️ PHOTOGRAPHER / OWNER ▶️ [ @BRAIDBARBERS ]
+      ▶️ Award Winning Barber ▶️ Creative Team Director ▶️ @BRAIDBARBERS ▶️ Brand Ambassador ▶️ @LV3PRO ▶️ TikTok (r.braid)
     location: "United Kingdom"
-    followers: 42891
-    engagement: 241
-    commentsToLikes: 0.036247
+    followers: 43707
+    engagement: 200
+    commentsToLikes: 0.050254
     id: ck14ivctvhbn00i19yhwd1gjw
     verified: false
-    hashtags: "#rbraid, #hairdesign, #hairart, #menshair"
-  - username: "braidbarbers"
+    hashtags: "#menshair, #womenshair, #lv3elite, #l3vel3"
+  - username: "ryan_davieshall"
     fullname: >-
-      Braid Barbers
+      RYAN DAVIES-HALL
     bio: >-
-      Multi Award Winning - UK Barbers Milton Keynes. LeamingtonSpa. Photography: @R.Braid
+      The Wild One. - Birmingham // UK📍 - Barber // Model - @woodstockmodels 🇬🇧 Enquiries: RYANDAVIESHALL@GMAIL.COM THE BLACK EDITION // OUT NOW
     location: "United Kingdom"
-    followers: 97621
-    engagement: 75
-    commentsToLikes: 0.014665
-    id: ck6u5m81dafy40j710f0wak93
+    followers: 54161
+    engagement: 216
+    commentsToLikes: 0.018766
+    id: ck5bw6tbsl3p10i11omhnc7yr
     verified: false
-    hashtags: "#miltonkeynes, #ukbarbers, #braidbarberscreativeteam, #braidbarbers"
-  - username: "chas_hopkins"
-    fullname: >-
-      Chas Hopkins
-    bio: >-
-      Leamington Spa 131 Regent St Barbers at 131 To book with Me or Rich Call 01926337930
-    location: "United Kingdom"
-    followers: 30119
-    engagement: 171
-    commentsToLikes: 0.012034
-    id: ck9hb25vbf2c70j78c0j08az5
-    verified: false
-    hashtags: ""
-  - username: "cal_newsome"
-    fullname: >-
-      Cal Newsome
-    bio: >-
-      Men’s Hair Stylist/International Educator ✂️ Owner of Bull & Co Barbershop 💈 West Midlands, England, UK 📍
-    location: "United Kingdom"
-    followers: 52815
-    engagement: 332
-    commentsToLikes: 0.031033
-    id: ck5q1yqj1dfma0i11p8m896vg
-    verified: false
-    hashtags: ""
+    hashtags: "#victoriahouse, #lfw, #model, #londonfashionweek"
   - username: "m13ky"
     fullname: >-
       Mick Graham
     bio: >-
-      @jfh_social Newcastle / Belfast📍 British Master Barber off the year 2016 Co-founder of Elite Salon Mastermind Education enquires via D.M or Email
+      Founder Of “LOCATION” X Studio British Master Barber Of The Year 2016 Specifically Tailored Private 1-1 Or Group Education Days Available via D.M
     location: "United Kingdom"
-    followers: 33078
-    engagement: 136
-    commentsToLikes: 0.030204
+    followers: 40211
+    engagement: 367
+    commentsToLikes: 0.014069
     id: ck5zt8v4kzyik0i146y0441mr
     verified: false
-    hashtags: ""
+    hashtags: "#style, #gentshair, #supreme, #locationx"
+  - username: "joemcbarber"
+    fullname: >-
+      Joe McIlvaney
+    bio: >-
+      ▪💈Barber/ Men's Hairstylist 💈 ▪Owner of✂️ @artfulbarbers ✂️[LONDON] 📍 ▪DM for enquiries
+    location: "United Kingdom"
+    followers: 10195
+    engagement: 412
+    commentsToLikes: 0.072585
+    id: ck5hk4soihses0i11sth52vdz
+    verified: false
+    hashtags: "#barbershopconnect, #barberlife, #london, #thebarberpost"
+  - username: "littleandytattoo"
+    fullname: >-
+      Little Andy
+    bio: >-
+      EMAIL littleandytattoo@gmail.com / BOOKING MAY (no cover ups) @thechurchtattoo Birmingham 🇬🇧 Sponsors @electricink @barber_dts @pennyblacktattoobutter
+    location: "United Kingdom"
+    followers: 222452
+    engagement: 155
+    commentsToLikes: 0.015297
+    id: ck14ghpu35a5n0i195dvnemrf
+    verified: false
+    hashtags: "#tattoo, #tattooart, #tattooing, #tattooartist"
+  - username: "mdlnworld"
+    fullname: >-
+      𝐌𝐀𝐃𝐀𝐋𝐈𝐍 | 𝐌𝐃𝐋𝐍
+    bio: >-
+      ◾️WELLA TVA 2018 UK AWARD WINNER 🇬🇧🇬🇧🇬🇧 ◾️#blockchain #deFi #dapps #crypto #ETH enthusiast ◾️MANAGER & SENIOR BARBER @ HOB MAN
+    location: "United Kingdom"
+    followers: 21663
+    engagement: 203
+    commentsToLikes: 0.011774
+    id: ck5qaq2c1hol10i11r0jbrudd
+    verified: false
+    hashtags: "#hair, #trendvision2019, #stylist, #style"
+  - username: "chrismeighantattoo"
+    fullname: >-
+      Chris Meighan
+    bio: >-
+      Tattoo Artist @santacruzkustomclub Scotland Sponsored by @barber_dts @eikondevice @yayofamilia
+    location: "United Kingdom"
+    followers: 37374
+    engagement: 148
+    commentsToLikes: 0.035767
+    id: ck5buu3m6ig2n0i11sck5ckcs
+    verified: false
+    hashtags: "#skinartmag, #tattooideas, #tattoo, #colourtattoo"
+  - username: "shhumphreys"
+    fullname: >-
+      Scott Humphreys
+    bio: >-
+      Owner & barber @kitchhair Angel
+    location: "United Kingdom"
+    followers: 41883
+    engagement: 174
+    commentsToLikes: 0.027511
+    id: ck0w3pjx4um0q0i19yjf7kp3r
+    verified: false
+    hashtags: "#frenchbulldog, #conceptsalon, #london, #barbers"
+  - username: "kerisweir"
+    fullname: >-
+      KERIS WEIR💫BALAYAGE EXPERT
+    bio: >-
+      💫Creator @lalasaloon 💫Creator @hairreplacmentclinicni 📺 https://www.bbc.co.uk/iplayer/episodes/m000trzs/barbershop-for-bald-men
+    location: "United Kingdom"
+    followers: 28853
+    engagement: 572
+    commentsToLikes: 0.026600
+    id: ck15trjb2jj0l0i19y3q49b5r
+    verified: false
+    hashtags: "#balayageeducation, #lockdown2020, #dreambig, #focusonthegood"
+  - username: "kike.esteras"
+    fullname: >-
+      Kike Esteras
+    bio: >-
+      Barcelona, Owner of @blackship.bcn Bookings at: esteras.tattoo@gmail.com Pro Team @bepantholtattoo Sponsored by: @inkjecta @eternalink @barber_dts
+    location: "United Kingdom"
+    followers: 215348
+    engagement: 275
+    commentsToLikes: 0.008170
+    id: ck13cah6tze820i193wq1nujs
+    verified: false
+    hashtags: "#neotraditional, #barber, #tattoosnob, #originalaftercare"
 ---

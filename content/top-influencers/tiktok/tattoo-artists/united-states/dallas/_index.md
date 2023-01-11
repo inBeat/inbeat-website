@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Dallas In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Dallas In 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #duet #tattoo #foryou.
+  Find top tattoo-artists TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #tattooartist #tattoo #stitch.
 platform: TikTok
-hits: 6
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 6 TikTok influencers like this in Dallas, United States for you to pitch.
+hits: 4
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "piercingsbycheli"
-    fullname: >-
-      Araceli Saenz
-    bio: >-
-      9334 E.R.L Thorton FWY.STE 180 Dallas,TX 75228📍 Imperio ink
-    location: "United States"
-    followers: 174500
-    engagement: 477
-    commentsToLikes: 0.006062
-    id: ckcdw2f7xfdhf0j23pth82mab
-    verified: false
-    hashtags: "#bodypiercinginternationalday, #piercedgirl, #piercinglovers, #nosepiercing"
-  - username: "shaylahnguyen"
-    fullname: >-
-      Shayla Nguyen
-    bio: >-
-      TX | ty for 4K 🤪
-    location: "United States"
-    followers: 4158
-    engagement: 1061
-    commentsToLikes: 0.071140
-    id: ckce3oqgqj75x0j2312ozbhie
-    verified: false
-    hashtags: "#tattoo, #fyp, #boyfriend, #duet"
   - username: "c_hencsm"
     fullname: >-
       c_hencsm
     bio: >-
       Dallas, TX RecordingArtist//Songwriter//Actor//Tattoo Artist
     location: "United States"
-    followers: 3272
-    engagement: 327
-    commentsToLikes: 0.018486
+    followers: 3186
+    engagement: 332
+    commentsToLikes: 0.046996
     id: cka84qb0tutoa0i78ojzetzz7
     verified: false
-    hashtags: "#177, #tiktok, #fyp, #livefromthefeds"
+    hashtags: "#fyp, #freechen, #tiktok, #digitalstore"
+  - username: "piercingsbycheli"
+    fullname: >-
+      Araceli Saenz
+    bio: >-
+      9334 E.R.L Thorton FWY.STE 180 Dallas,TX 75228📍 Imperio ink
+    location: "United States"
+    followers: 171700
+    engagement: 495
+    commentsToLikes: 0.005811
+    id: ckcdw2f7xfdhf0j23pth82mab
+    verified: false
+    hashtags: "#piercinglovers, #conchpiercing, #dallastx, #nostrilpiercings"
+  - username: "joehannisburg"
+    fullname: >-
+      Daniel Oh
+    bio: >-
+      live life to the fullest
+    location: "United States"
+    followers: 25300
+    engagement: 1072
+    commentsToLikes: 0.075335
+    id: ck8nfcsyorblh0j78q63d143w
+    verified: false
+    hashtags: "#foryoupage, #skincare, #xyzbca, #asian"
   - username: "liltukos"
     fullname: >-
       Tuko
     bio: >-
       17 y/o Self Taught Artist 👻obey_harnest Music/ Video 👇🏽 SUPPORT 👇🏽
     location: "United States"
-    followers: 73400
-    engagement: 1828
-    commentsToLikes: 0.016343
+    followers: 70400
+    engagement: 1741
+    commentsToLikes: 0.017102
     id: ckc7x5up3zzom0j23h4sv4blh
     verified: false
-    hashtags: "#foryou, #fyp, #xybca, #artist"
-  - username: "jonybarra7"
+    hashtags: "#fyp, #xybca, #tattoo, #foryou"
+  - username: "bluerosetattoo"
     fullname: >-
-      Tatos.Bar
+      LilBlueRose
     bio: >-
-      Dallas tattooist Dancer si te gustan los Tattoos follow me on my business IG
+      ✒️Professional Tattoo Artist 🖋 🌬Louisville, KY💨 Witchy 💀 Woman ⚰️ Lvl28⚰️
     location: "United States"
-    followers: 15374
-    engagement: 831
-    commentsToLikes: 0.058983
-    id: ckb0uggmtjrgy0j23ys9aeeyt
+    followers: 72100
+    engagement: 1861
+    commentsToLikes: 0.043531
+    id: ckd5ljrnqvu7n0j23z4jclhy9
     verified: false
-    hashtags: "#followme, #dallas, #tiktok, #newyork"
-  - username: "gillliekwhoa"
+    hashtags: "#stitch, #tattooartist, #tattooartistsoftiktok, #tattoos"
+  - username: "chelctattoos"
     fullname: >-
-      Gillian Clark
+      ChelC
     bio: >-
-      Art, Raves and a breath of fresh air ☁️ take a look ✨🧚🏽
+      MN Tattoo Artist 🏳️‍🌈💍 @space_case Pan/Polyam💖 She/her $ChelCtattoos
     location: "United States"
-    followers: 12500
-    engagement: 1098
-    commentsToLikes: 0.033316
-    id: ck92y9hsy22e00j78zee1kz91
+    followers: 14800
+    engagement: 1743
+    commentsToLikes: 0.058130
+    id: ckd6xl5tguj3l0j23b4xeypuj
     verified: false
-    hashtags: "#lgbt, #paint, #fashion, #flowers"
-  - username: "alimarie.art.lady"
+    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+  - username: "mr.tattooguy1"
     fullname: >-
-      AliMarie
+      Everett
     bio: >-
-      lady tattoo artist 🍉Level 28🍉 https://www.redbubble.com/people/SkinFlixTattoo
+      goofy tattoo artist CEO of tiktoker tattoo SC: Mrtattooguy1
     location: "United States"
-    followers: 94300
-    engagement: 2384
-    commentsToLikes: 0.037701
-    id: ck9c01pwio0rs0j78l3br6yxf
+    followers: 310900
+    engagement: 1323
+    commentsToLikes: 0.039121
+    id: ckcprmig6lhv80j23pzl0pzrh
     verified: false
-    hashtags: "#tattoosartist, #tattooartist, #tattoo, #coveruptattoo"
-  - username: "poppyrose783"
+    hashtags: "#lmao, #stitch, #skiptherinse, #funnyvideos"
+  - username: "eli_jorgensen"
     fullname: >-
-      poppyrose783
+      eli_jorgensen
     bio: >-
-      Tattoo artist, photographer. Iceg0dess-(GF/TTwife) 🏳️‍🌈 (L)gbt 🏳️‍🌈
+      33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 5457
-    engagement: 2624
-    commentsToLikes: 0.113685
-    id: cka68dhzmodjh0i78a4v7pinx
+    followers: 20600
+    engagement: 1286
+    commentsToLikes: 0.069516
+    id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#us, #home, #stemlife, #lesbianlife"
-  - username: "gabby_gh0ul"
+    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
+  - username: "ceciliamarietattoos"
     fullname: >-
-      Gabby Gh0ul
+      Cecilia Marie
     bio: >-
-      Dead Meme Queen Tattoo Artist. Cosplayer. No spam likes #blacklivesmatter 🇵🇷
+      🌙Tattoo Artist 🌌Future Tattoo Therapist ✨Army Combat Veteran 💕Kindness🕸Witch
     location: "United States"
-    followers: 9135
-    engagement: 2867
-    commentsToLikes: 0.039269
-    id: cka6lvfjn4pbv0i7816mezidx
+    followers: 14900
+    engagement: 1369
+    commentsToLikes: 0.053516
+    id: ckd6wvwcjt4x60j23lbbo8d09
     verified: false
-    hashtags: "#junkoenoshima, #fyp, #junkochallenge, #anime"
-  - username: "artofjondump"
+    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
+  - username: "alastorwrath"
     fullname: >-
-      Jonathan Dump
+      Noel Garcia
     bio: >-
-      North Carolina tattoo artist Shop-Best Ink of Fayetteville 🗺 IG: @artofjondump
+      They/them Makeup/tattoo artists Brooklyn NYC
     location: "United States"
-    followers: 441700
-    engagement: 1514
-    commentsToLikes: 0.026855
-    id: ckbb0mbv4r15u0j23k28pm7x2
+    followers: 22900
+    engagement: 2106
+    commentsToLikes: 0.016752
+    id: ck9fi3raq8w400j7804zh7zgj
     verified: false
-    hashtags: "#stitch, #duet"
+    hashtags: ""
 ---

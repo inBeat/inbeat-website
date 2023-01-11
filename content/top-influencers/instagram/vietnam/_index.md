@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Vietnam In 2022
+title: Top 10 Instagram Influencers In Vietnam In 2023
 description: >-
-  Find top Instagram influencers in Vietnam in 2022. Most popular hashtags: #coffeelover #hoian #nguyendynasty.
+  Find top Instagram influencers in Vietnam in 2023. Most popular hashtags: #dwinvn #dwvietnam #danielwellington.
 platform: Instagram
-hits: 18
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 18 Instagram influencers like this in Vietnam for you to pitch.
+hits: 13
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 13 Instagram influencers like this in Vietnam for you to pitch.
 profiles:
   - username: "monstar_key"
     fullname: >-
@@ -13,8 +13,8 @@ profiles:
     bio: >-
       
     location: "Vietnam"
-    followers: 159770
-    engagement: 329
+    followers: 156169
+    engagement: 339
     commentsToLikes: 0.004527
     id: ck15q18g70m2k0i196vl8ox9u
     verified: true
@@ -23,108 +23,108 @@ profiles:
     fullname: >-
       Đoàn Triệu Diệu Anh
     bio: >-
-      🇻🇳 18 02/01/01 @prvd_anh
+      🇻🇳 18 02/01/01 @dieuanhneee
     location: "Vietnam"
-    followers: 222811
-    engagement: 223
-    commentsToLikes: 0.006398
+    followers: 237052
+    engagement: 222
+    commentsToLikes: 0.006518
     id: ck0tv40nd9u6q0i19d92mdd97
     verified: false
-    hashtags: "#yakultsorithanhlong, #crushquocdan, #danielwellington, #dwinvn"
+    hashtags: "#liptint, #sontint, #danielwellington, #sodacamera"
+  - username: "lemaihang"
+    fullname: >-
+      Lê Mai Hằng
+    bio: >-
+      24 | 🇻🇳 WELCOME TO THE LMH’s WORLD 🌏✨ Girl Empowerment Influencer & Financial Boss 🦋 Also my baby @otb.event 💦 CHECK OUT MY VLOG 👇🏻
+    location: "Vietnam"
+    followers: 23714
+    engagement: 394
+    commentsToLikes: 0.007240
+    id: ck0w0inyseeav0i19l8oa2r3o
+    verified: false
+    hashtags: "#danielwellington, #dwvietnam, #dwinvn, #dwforeveryone"
   - username: "truonghoang.maianh"
     fullname: >-
       Trương Hoàng Mai Anh
     bio: >-
       🇻🇳 Always be confident in yourself 📬 truonghoangmaianh@gmail.com Facebook: Trương Hoàng Mai Anh Tiktok: truoghoagmaianh 🎥 Youtube: Mai Anh đến đây!
     location: "Vietnam"
-    followers: 463319
-    engagement: 205
-    commentsToLikes: 0.005282
+    followers: 465762
+    engagement: 232
+    commentsToLikes: 0.003484
     id: ck14je2iljv0o0i19bzh8ktq9
     verified: true
-    hashtags: "#galaxynote20, #ngontinhhoanmy, #topshopvn, #comingsoon"
-  - username: "lemaihang"
-    fullname: >-
-      Lê Mai Hằng
-    bio: >-
-      23 | 🇻🇳 WELCOME TO THE LMH’s WORLD 🌏✨ Fashion & Girl Empowerment Influencer 🦋 @lemaihang.artworks @otb.event 💦 CHECK OUT MY VLOG 👇🏻
-    location: "Vietnam"
-    followers: 23145
-    engagement: 575
-    commentsToLikes: 0.008198
-    id: ck0w0inyseeav0i19l8oa2r3o
-    verified: false
-    hashtags: "#stillproud, #beyou, #worseangle, #lmh09"
+    hashtags: "#lazada1212, #beautytips, #clearskin, #clearskinroutine"
   - username: "baoanh0309"
     fullname: >-
-      Nguyễn Hoài Bảo Anh
+      Nguyễn Hoài Bảo Anh
     bio: >-
       • Singer, Vietnam 🇻🇳 • ®️FB: @BaoAnhOfficial
     location: "Vietnam"
-    followers: 2099434
-    engagement: 131
-    commentsToLikes: 0.003421
+    followers: 2081909
+    engagement: 61
+    commentsToLikes: 0.002521
     id: ck13a6fawoudp0i19304logdw
     verified: true
-    hashtags: "#sixsenseninhvanbay, #baoanh, #privitebeach, #tophill"
-  - username: "noemiepariss"
+    hashtags: "#zx, #adidasvn, #adidasoriginals"
+  - username: "cathylemoine"
     fullname: >-
-      PARIS NOÉMIE BẢO NHI
+      Chef Catherine Lemoine
     bio: >-
-      MIE 📧 noemie@travelmag.vn 📞 0762 599995 (Lisa)
+      Founder @temporadapopup & @lamesard / Cocinera / Chef Consulting / Private Vin Diesel Chef 👩🏼‍🍳 / Food Styling
     location: "Vietnam"
-    followers: 7541
-    engagement: 318
-    commentsToLikes: 0.009251
-    id: ck0tv42uj9ugq0i19hbsf2798
-    verified: false
-    hashtags: ""
-  - username: "thekrischris"
+    followers: 51757
+    engagement: 110
+    commentsToLikes: 0.038975
+    id: ck137x2ghdh7a0i192xrf3yxt
+    verified: true
+    hashtags: "#mortal, #brugalleyenda, #chefcathylemoine, #boarshead"
+  - username: "giangoivlog"
     fullname: >-
-      Kristen Christopher
+      Giang Ơi
     bio: >-
-      >>happy hapa<< 🇻🇳
+      Adulthood of a Weirdo 👽 Liên hệ công việc xin gửi email tới ✉️ tan@giangoi.com chứ gửi DM nó trôi quý vị ơi xin cảm ơn Ấn đây xem video mới nè 👇
     location: "Vietnam"
-    followers: 8975
-    engagement: 689
-    commentsToLikes: 0.056648
-    id: ck0u8ricl82jf0i19wvpxv8hz
+    followers: 426902
+    engagement: 491
+    commentsToLikes: 0.002459
+    id: ck14kgo49pfjq0i196cv1kdri
     verified: false
-    hashtags: "#jokesonyou, #lovesummerhateeverythingelse, #blackouttuesday"
-  - username: "macchiato.mile"
+    hashtags: "#uniqlo1nam, #cuchigang"
+  - username: "vietnamtourismboard"
     fullname: >-
-      Ｍｉｌｅ |  マイル
+      Vietnam Tourism Board
     bio: >-
-      Work 📧 macchiato.mile@gmail.com Artist | Designer • 🇻🇳 | 16 ♡ Nov 18th • Tiếng Việt | English COMMISSION CLOSED
+      Official account of Vietnam National Administration of Tourism 🇻🇳 Use the hashtags #WhyNotVietnam or #MyVietnam for a chance to be featured.
     location: "Vietnam"
-    followers: 43863
-    engagement: 1083
-    commentsToLikes: 0.003700
-    id: ck0tz098xomcr0i19ynw8iucu
-    verified: false
-    hashtags: "#vent, #sailormoonredraw, #arthurappreciationmonth, #watercolor"
-  - username: "soaipham"
+    followers: 166467
+    engagement: 206
+    commentsToLikes: 0.036869
+    id: ck0tw3xofdwze0i199jj5985a
+    verified: true
+    hashtags: "#myvietnam, #whynotvietnam"
+  - username: "besteverfoodreviewshow"
     fullname: >-
-      Soái Phạm Văn Vũ | Vietnam 🔵
+      Sonny
     bio: >-
-      🇻🇳 Travel & hospitality content creator | Published in @cntraveler - @culturetrip - @vietnamtourismboard - @passionpassport | 💌 vu.phamvan@gmail.com
+      Hunting down the world’s most unique food! Based in Vietnam 🇻🇳 Beauty Influencer Email Inquiries: marketing@befrs.com
     location: "Vietnam"
-    followers: 29961
-    engagement: 331
-    commentsToLikes: 0.025904
-    id: ck0vwbncysz000i19kvxc0y9j
+    followers: 254374
+    engagement: 138
+    commentsToLikes: 0.027076
+    id: ck13741ht9o0v0i197uierbhl
     verified: false
-    hashtags: "#hoian, #imisstravelling, #capturedwithemtec, #huecity"
+    hashtags: "#asia, #vietnam, #hochiminhcity, #besteverasiabiketrip"
   - username: "foodholicvn"
     fullname: >-
       Ăn Hết Thế Giới
     bio: >-
-      🇻🇳 Có tình yêu mãnh liệt với đồ ăn. #️⃣ #foodholicvn 🇹🇼 #foodholicvntw 🇹🇭 #foodholicvnthailand 📩For Work: foodholicvietnam@gmail.com
+      🇻🇳 Có tình yêu mãnh liệt với đồ ăn. #️⃣ #foodholicvn 📩For Work: foodholicvietnam@gmail.com
     location: "Vietnam"
-    followers: 65660
-    engagement: 196
-    commentsToLikes: 0.023708
+    followers: 72807
+    engagement: 153
+    commentsToLikes: 0.017301
     id: ck0tw3xymdx0n0i19xo2sybld
     verified: false
-    hashtags: "#odaucungchup, #coffee, #coffeelover, #foodholicvnquan1"
+    hashtags: "#sushi, #foodholicvncafe, #ganuongooo, #soithai"
 ---

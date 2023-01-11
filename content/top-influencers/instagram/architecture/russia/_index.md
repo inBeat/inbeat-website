@@ -1,46 +1,46 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Russia In 2022
+title: Top 10 Architecture Instagram Influencers In Russia In 2023
 description: >-
-  Find top architecture Instagram influencers in Russia in 2022. Most popular hashtags: #architecture #photography #architecturephotography.
+  Find top architecture Instagram influencers in Russia in 2023. Most popular hashtags: #architecture #sketch #sovietarchitecture.
 platform: Instagram
-hits: 172
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 172 Instagram influencers like this in Russia for you to contact.
+hits: 154
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 154 Instagram influencers like this in Russia for you to connect with.
 profiles:
   - username: "kamillahanapova"
     fullname: >-
-      Photographer/Collage Artist
+      Photographer
     bio: >-
-      @hasselblad Master 📍Saint-Petersburg/Moscow/Maykop 🔗 beauty, album covers, collages, architecture,retouch Personal @kamilla_hanapova portfolio📌
+      @hasselblad Master 📍St. Petersburg/Moscow/Maykop 🔗 beauty,album covers,fashion,collages, architecture,retouch Personal @kamilla_hanapova portfolio📌
     location: "Russia"
-    followers: 22937
-    engagement: 815
-    commentsToLikes: 0.014961
+    followers: 26697
+    engagement: 966
+    commentsToLikes: 0.018000
     id: ck0u0e4uttj0r0i19kgezrncw
     verified: false
     hashtags: ""
-  - username: "nukeproofsuit"
+  - username: "nomurushka"
     fullname: >-
-      
+      Veronika Nomura / モデル　Tokyo
     bio: >-
-      🗺 Director of Architecture ⠀⠀⠀⠀⠀⠀ 🏢 #chasingstraightfacades 📬 nukeproofsuitIG@gmail.com 🎭 ArchDaily Top Inspirational Feed to Follow👇🏼
+      MUSE Late bloomers ☺️ Architecture| Art | Books | Self develop | Nutrition
     location: "Russia"
-    followers: 22895
-    engagement: 342
-    commentsToLikes: 0.073359
-    id: ck15t1pjnfwml0i192b0xj1n2
+    followers: 16401
+    engagement: 520
+    commentsToLikes: 0.027410
+    id: ck0vviw8zpc9b0i19gxyv1pej
     verified: false
-    hashtags: "#archi, #sdmfeatures, #architecturephotography, #architecture"
-  - username: "northern.friend"
+    hashtags: "#expectation, #justdoit, #halloween, #nike"
+  - username: "elena.krizhevskaya"
     fullname: >-
-      Arseniy Kotov
+      Архитектурная Москва Елена
     bio: >-
-      ☭ Architecture and life in post-soviet world ✉ DM for ad/collab/partnership 💌 @galleriartsight for prints
+      Две мои книги @architecture_moscow_books «Best of Russia 📸» победитель Исследую Москву 🧐 Ссылка на книги 👇👇👇 Мои теги #тeги_лeна Все фото мои 📸
     location: "Russia"
-    followers: 152814
-    engagement: 834
-    commentsToLikes: 0.007358
-    id: ck0uawwyidbij0i195coapz6g
+    followers: 163581
+    engagement: 506
+    commentsToLikes: 0.016878
+    id: ck0w3yug8vyz50i194i6z9ycf
     verified: false
     hashtags: ""
   - username: "meau"
@@ -49,82 +49,82 @@ profiles:
     bio: >-
       Architecture, minimalism & Eastern Europe ⠀ You can see more @meau at @seemoremeau
     location: "Russia"
-    followers: 6114
-    engagement: 975
-    commentsToLikes: 0.036530
+    followers: 7024
+    engagement: 793
+    commentsToLikes: 0.042855
     id: ck9wd49mze0170j784h1fuoho
     verified: false
-    hashtags: "#ffa"
-  - username: "sokolovvvaa"
+    hashtags: ""
+  - username: "romanukyan"
     fullname: >-
-      🦊
+      Roman Manukyan
     bio: >-
-      21 y.o 💄| 👩🏽‍🎓Student St.Petersburg State University of Architecture and Civil Engineering💁🏽Departament of Economic...SPBGASU
+      📸 Photographer | Events, lifestyle, architecture 📍 Based in Moscow 💼 Portfolio:
     location: "Russia"
-    followers: 5361
-    engagement: 818
-    commentsToLikes: 0.019157
-    id: ckap0270loe7d0i78542xsmwx
+    followers: 27508
+    engagement: 400
+    commentsToLikes: 0.026002
+    id: ckaozvgnznkxi0i787zsw21xd
     verified: false
-    hashtags: "#21"
+    hashtags: "#ugolkileica, #olympus, #silavetra"
   - username: "xenia_klassen"
     fullname: >-
       Xenia Klassen
     bio: >-
-      | ARCHITECTURE • & • URBAN SKETCHING | | Tomsk • Russia |
+      ARCHITECTURE • & • URBAN SKETCHING Tomsk • Russia Онлайн-курс по скетчингу ⬇️
     location: "Russia"
-    followers: 14691
-    engagement: 826
-    commentsToLikes: 0.015869
+    followers: 15744
+    engagement: 721
+    commentsToLikes: 0.017733
     id: ck0tyw9qsobvw0i19ckudfq3h
     verified: false
-    hashtags: "#archisketcher, #urbansketch, #urbansketchers, #architecture"
-  - username: "erfan.agazadeh.1997"
-    fullname: >-
-      💲  PAPANIN GUL BALASI 💲
-    bio: >-
-      iyi ki sevmişim seni e ❤ . ❄1376/10/05 . 🏛uni_azad . 📐architecture . 🥊 kickboxing
-    location: "Russia"
-    followers: 21767
-    engagement: 301
-    commentsToLikes: 0.069651
-    id: ck8t1kfq4w3zj0j78yezcgpm6
-    verified: false
-    hashtags: "#gangboy, #photography, #gangster, #zona"
+    hashtags: "#artandarq, #tomsk, #sketchwalker, #archisketcher"
   - username: "madebyvadim"
     fullname: >-
       Vadim Sherbakov
     bio: >-
-      🎥 Award winning aerial videographer 📸 Architecture & cityscape photographer 🎞 Work featured in HBO • Netflix • Showtime • DJI • Irix• PolarPro New 🎥↓
+      🎥 Award winning aerial videographer 📸 Architecture & cityscape photographer 🎞 Work featured in HBO • Netflix • Showtime • DJI • Irix • PolarPro New🎥⤵️
     location: "Russia"
-    followers: 30392
-    engagement: 399
-    commentsToLikes: 0.042267
+    followers: 30324
+    engagement: 415
+    commentsToLikes: 0.034541
     id: ck0u9obicacp20i19nbrq6x5o
     verified: false
-    hashtags: "#liveinterview, #travel, #landscapephotography, #interview"
-  - username: "trafartstickers"
+    hashtags: "#landscape, #worldneedsmorespiralstaircases, #beautifuldestinations, #reflection"
+  - username: "kot_h"
     fullname: >-
-      Георгий
+      Konstantin
     bio: >-
-      🌑 George. 1️⃣9️⃣ y. o. 📷 Take pictures.🔦 Urban explorer. ✏️ Studying architecture.📝 Writing & Poetry.
+      @brutalistbeton Living in Saint-Petersburg, Russia. Photos of brutalist and modernist architecture. #brutalism #socialistmodernism #architecture
     location: "Russia"
-    followers: 5185
-    engagement: 1263
-    commentsToLikes: 0.016201
-    id: ck9hbghlogqgl0j787s5s9qdh
+    followers: 9622
+    engagement: 853
+    commentsToLikes: 0.011728
+    id: ck0w1rtxmkte60i1966rb2mmi
     verified: false
-    hashtags: "#msk, #moscowmoscow, #loves, #beautifuldestinations"
-  - username: "think.differrent"
+    hashtags: "#spb, #peterburg, #socialistmodernism, #concretearchitecture"
+  - username: "aysyluuu"
     fullname: >-
-      Vlad Vinogradov
+      Айсылу Зарипова
     bio: >-
-      #Travels #Urbex #Architecture 🏠Russia, Samara 🚷Есть много других мест
+      ✏️artist and illustrator ✏️pencil | watercolor | ink pen ✏️student of architecture | KSUAE ✏️kazan | russia
     location: "Russia"
-    followers: 6233
-    engagement: 674
-    commentsToLikes: 0.034424
-    id: ck14goxdq6bad0i199wcx9vrl
+    followers: 40347
+    engagement: 459
+    commentsToLikes: 0.006338
+    id: ck6u7aamtkcq20j71fue94eqf
     verified: false
-    hashtags: "#sovietarchitecture, #abandoned, #nyc, #socialistmodernism"
+    hashtags: "#3dfedor, #3dsmax, #visualisation, #coronarender"
+  - username: "mox.design"
+    fullname: >-
+      Moxarchitects
+    bio: >-
+      Award-winning landscape architects offering an end-to-end architecture and construction landscaping service across Russia and abroad.
+    location: "Russia"
+    followers: 15507
+    engagement: 647
+    commentsToLikes: 0.010011
+    id: ck5zwneh16fn50i14chw34s12
+    verified: false
+    hashtags: "#madebymox"
 ---

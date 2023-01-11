@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Spain In 2022
+title: Top 10 Fitness Instagram Influencers In Spain In 2023
 description: >-
-  Find top fitness Instagram influencers in Spain in 2022. Most popular hashtags: #summer #workout #menswear.
+  Find top fitness Instagram influencers in Spain in 2023. Most popular hashtags: #motivation #verano #fitnessmodel.
 platform: Instagram
-hits: 796
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 796 Instagram influencers like this in Spain for you to collaborate.
+hits: 630
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 630 Instagram influencers like this in Spain for you to pitch.
 profiles:
+  - username: "daiseyodonnell"
+    fullname: >-
+      Daisey O'Donnell
+    bio: >-
+      Founder @odollscollection available at @theofficialselfridges Founder @fitnesswithdaisey TikTok @theodolls enquiries contact daisey.od@gmail.com
+    location: "Spain"
+    followers: 1161407
+    engagement: 92
+    commentsToLikes: 0.005298
+    id: ck0uc5ig6g3l20i19fqd1dzau
+    verified: true
+    hashtags: ""
   - username: "serraalex_"
     fullname: >-
       Alex Serra
     bio: >-
-      Fitness | Lifestyle 📍Ibiza 🕶 Hawkers link en la bio ⬇️ 📩 serraalexibz@gmail.com
+      Fitness | Lifestyle 📍Ibiza @greatiamwear cod: ALEX @hawkerscrew 📩 serraalexibz@gmail.com
     location: "Spain"
-    followers: 11182
-    engagement: 1229
-    commentsToLikes: 0.126765
+    followers: 11225
+    engagement: 1057
+    commentsToLikes: 0.113688
     id: ckapapl23wznu0i78sl4p70rn
     verified: false
-    hashtags: "#fitmen, #muscle, #fitboy, #fitnessboy"
+    hashtags: "#arm, #bodybuilding, #muscle, #gym"
+  - username: "rosasorroche"
+    fullname: >-
+      Fitness & Chicness Blog
+    bio: >-
+      #overforty #overthirty #fashion / #fitness / #beauty / #lifestyleblogger 📍🇪🇸 🌍 📩info@fitnessandchicness.com
+    location: "Spain"
+    followers: 18960
+    engagement: 766
+    commentsToLikes: 0.055894
+    id: ck8szqjrcpch70j78pfaai8rg
+    verified: false
+    hashtags: "#adoptadog, #summerlook, #fashionreels, #workoutreels"
+  - username: "aleadrete"
+    fullname: >-
+      Ale Aldrete
+    bio: >-
+      🇲🇽 en 🇪🇸 •Periodista @realmadridue •Comunicóloga •Modelo•Body positive•Fitness• Love sports• 🔥@sheinofficial 15% of: 4aleadrete🔥
+    location: "Spain"
+    followers: 120794
+    engagement: 561
+    commentsToLikes: 0.080687
+    id: ck55pborva8ch0i11w3k9527q
+    verified: false
+    hashtags: "#shein, #sheingals, #sorteo, #donato"
   - username: "franroxe"
     fullname: >-
       F R A N R O X E
     bio: >-
       🌍 Traveller 🐕 Animal lover 🏋🏻‍♂️ Healthy and Fitness life 📍 España 🇪🇸
     location: "Spain"
-    followers: 35479
-    engagement: 845
-    commentsToLikes: 0.140863
+    followers: 35166
+    engagement: 607
+    commentsToLikes: 0.200806
     id: ckap0i3ulqe0w0i78zpi9owcb
     verified: false
     hashtags: "#holzkern, #holzkernwatches, #woodwatches, #relojesdemadera"
-  - username: "ansesurf"
-    fullname: >-
-      𝐀𝐍𝐒𝐄𝐋𝐌𝐎 𝐌𝐄𝐍𝐄́𝐍𝐃𝐄𝐙 𝐀𝐑𝐈𝐀𝐒
-    bio: >-
-      Adventure | Lifestyle | Fitness 🇪🇸 @thetribemodels 🇹🇷 @damanmgmt 🇩🇪 @eastwestmodels 🛡OLD SQUAD ✉️infoansesurf@gmail.com 🎼Tiktok: ansesurff {+270k}
-    location: "Spain"
-    followers: 43254
-    engagement: 850
-    commentsToLikes: 0.045041
-    id: ck8sylrvvl7n60j78mk7esvdo
-    verified: false
-    hashtags: "#explorando, #galiciamaxica, #malemodeling, #outfitsideas"
-  - username: "lolagfdez"
-    fullname: >-
-      Lola González🌪
-    bio: >-
-      Tenerife, Spain 🇪🇸📍 •Pharmacy student ULL👩🏽‍🔬 •Fitness •Model @talentmodelmgmt ▫️ @myproteines LOLAMP ▫️ @chicmeofficial LOLA10 ▫️ @zaful LOLA18
-    location: "Spain"
-    followers: 72533
-    engagement: 1934
-    commentsToLikes: 0.037675
-    id: ckap7dg6wjles0i78t7t9aemk
-    verified: false
-    hashtags: "#ootd, #yoins, #lingerie, #chicmebabe"
-  - username: "emmajaneo"
-    fullname: >-
-      Emma Jane
-    bio: >-
-      Fitness | Bikinis | Island life ✨ Tenerife ✨ Fitness & Diet coach ✨ I’m better on TikTok (150k+) - @emjaor ✨ Co-founder @purefectionco
-    location: "Spain"
-    followers: 37401
-    engagement: 1055
-    commentsToLikes: 0.037865
-    id: ck5qe06nvy3cw0i1196bvhbd4
-    verified: false
-    hashtags: "#poolside, #goldenhour, #tenerife2020, #poolparty"
-  - username: "nereaherz"
-    fullname: >-
-      NEREA HERNÁNDEZ MIRA
-    bio: >-
-      Creative soul. Beauty | Fitness See the world through my eyes Say HI ✉ nerea.hmira@gmail.com
-    location: "Spain"
-    followers: 11710
-    engagement: 998
-    commentsToLikes: 0.095479
-    id: ck8tayyhmtnuz0j78vxbqz1zk
-    verified: false
-    hashtags: "#sendo, #sendospain, #vegan, #crueltyfree"
   - username: "markosr6"
     fullname: >-
       ᗰᗩᖇᑕOᔕ ᗰOI᙭
     bio: >-
       🎽fitness | 🏃🏽‍♂️runner | 🏊🏽‍♂️swimmer 📍🅱🅰🆁🅲🅴🅻🅾🅽🅰
     location: "Spain"
-    followers: 5289
-    engagement: 2132
-    commentsToLikes: 0.066948
+    followers: 5752
+    engagement: 1839
+    commentsToLikes: 0.078950
     id: ck6tnncn2a6rp0j71hspia1op
     verified: false
-    hashtags: "#workout, #trailrunner, #trailrunning, #cycling"
+    hashtags: "#runners, #cycling, #smile, #trailrunning"
+  - username: "nereaherz"
+    fullname: >-
+      NEREA HERNÁNDEZ MIRA
+    bio: >-
+      Creative soul & design lover Beauty ✵ Fitness Say HI. nerea.hmira@gmail.com
+    location: "Spain"
+    followers: 11716
+    engagement: 743
+    commentsToLikes: 0.107660
+    id: ck8tayyhmtnuz0j78vxbqz1zk
+    verified: false
+    hashtags: "#feelyourbreast"
   - username: "josegaarcian"
     fullname: >-
-      J O S E   G A R C Í A
+      J O S E    G A R C Í A
     bio: >-
-      📍Alicante 💻 Asesoramiento online 💪🏽 Natural fitness 🔻15% @energyumsportabrahamyhugopaz CÓDIGO: JOSE15 🎥YOUTUBE ⬇️
+      🥇Mister Alicante 2020 💻Asesoramiento online ⚡️38% MYPROTEIN código:JOSEGAARCIANMP 🔝VIDA FITNESS 🎥YOUTUBE
     location: "Spain"
-    followers: 11812
-    engagement: 911
-    commentsToLikes: 0.091837
+    followers: 15034
+    engagement: 665
+    commentsToLikes: 0.065729
     id: ck6u126euj46f0j71nilmooyj
     verified: false
-    hashtags: "#playas, #verano2020, #cuerposano, #playa"
-  - username: "jamesibiza"
+    hashtags: "#verano, #cuerpo, #fitnessmodel, #deporte"
+  - username: "dianaserena_"
     fullname: >-
-      James
+      Diana Serena
     bio: >-
-      Fitness, sun & fun💪🐎☀️🦄🌴🐬🐶 . #travellover ✈️ #fittnessaddict 🏋️‍♂️ #animallover 🦁 #redhot100 🔥 #ibiza ☀️ . @redhot100 model19/20 @mwbodywear
+      🏃‍♀️Lic. en Educación Física 💃ZES™ Zumba® Fitness 💪🏻Master Trainer STRONG NATION™ 📬diana.serena@zumbamail.com 🗣🇮🇹🇪🇸🇬🇧🇵🇹 🌟#dianaserena
     location: "Spain"
-    followers: 25143
-    engagement: 951
-    commentsToLikes: 0.038044
-    id: ckf5m00o8rp2v0j231adyz170
-    verified: false
-    hashtags: "#fit, #redhead, #gym, #beach"
-  - username: "ain_ainhowi"
+    followers: 134550
+    engagement: 111
+    commentsToLikes: 0.099781
+    id: ck15s66qxbf8k0i19ijdr4c6d
+    verified: true
+    hashtags: "#fitcondianaserena, #sync, #rutinasembarazadas, #zumbacommunity"
+  - username: "martabisshopp"
     fullname: >-
-      A I N H O A🤟🏽
+      M A R T A  B I S S H O P P
     bio: >-
-      [] Spain (ELCHE) 🌍 [] TIK TOK (+160K): ainhoadancer26 [] Fitkid, dance & fitness 💪 [] Photography model 📸 📩 Colaboraciones
+      ▫️ Fitness&Health ▫️ Médico👩🏽‍⚕️🩺 ▫️ @myproteines : BISSHOPP ▫️#naturalbodybuilding
     location: "Spain"
-    followers: 21995
-    engagement: 487
-    commentsToLikes: 0.110834
-    id: ckap5rin0cuup0i7872g2k4a3
+    followers: 10487
+    engagement: 856
+    commentsToLikes: 0.014264
+    id: ck8talv1osaqn0j780xyqs5v2
     verified: false
-    hashtags: "#agosto, #keniaos, #jdpantoja, #giveaway"
+    hashtags: "#healthylifestyle, #lifestyle, #health, #train"
 ---

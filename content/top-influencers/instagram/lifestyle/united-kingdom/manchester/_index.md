@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Manchester In 2022
+title: Top 10 Lifestyle Instagram Influencers In Manchester In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Manchester in 2022. Most popular hashtags: #lifestyle #fashion #manchester #instagood.
+  Find top lifestyle Instagram influencers in Manchester in 2023. Most popular hashtags: #fashion #ad #summer #manchester.
 platform: Instagram
-hits: 55
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 55 Instagram influencers like this in Manchester, United Kingdom for you to contact.
+hits: 40
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 40 Instagram influencers like this in Manchester, United Kingdom for you to contact.
 profiles:
+  - username: "ghazalbee"
+    fullname: >-
+      Ghazal | Mama | Modesty
+    bio: >-
+      Family | Modest style | Lifestyle ✨ 📍Manchester, U.K. For inquires/collabs please DM or email 💌ghazalbee@hotmail.com 🇸🇾🇵🇸
+    location: "United Kingdom"
+    followers: 11914
+    engagement: 744
+    commentsToLikes: 0.093286
+    id: ck8td1hom1go10j78hkz1ximc
+    verified: false
+    hashtags: "#manchesterblogger, #manchestermums, #hijabfab, #ukbloggers"
   - username: "kirsty_and_the_girls"
     fullname: >-
-      Kirsty_and_the_girls
+      Kirsty
     bio: >-
       ▫️TWIN MUM | P L U S O N E 🤍Lottie ➿Florence ➿Penelope ⚪️#Family | #Lifestyle | #Motherhood 🏳️Manchester | UK
     location: "United Kingdom"
-    followers: 17695
-    engagement: 406
-    commentsToLikes: 0.049245
+    followers: 17528
+    engagement: 393
+    commentsToLikes: 0.045186
     id: ck5c95lajatfh0i111kecp2ki
     verified: false
-    hashtags: "#vetsquad, #bestiesforever, #makingmemories, #smartrike"
-  - username: "seejay100music"
+    hashtags: "#albert, #ad, #hialbert, #brbcrying"
+  - username: "chelsey.raising.daughters"
     fullname: >-
-      SEEJAY100 🇬🇧🇬🇲🇯🇲 CadsWorld❤️🌹
+      Chelsey 🌈
     bio: >-
-      snap Call_Me100 | Bookings/Enquiries - seejay100managment@gmail.com | GO RUN UP MY JOINTS ON SPOTIFY AND FOLLOW ME
+      Manchester, UK 🐝 Parenting | Lifestyle 👨‍👩‍👧‍👧🏡 Raising Two Princesses 👸👸 DM/email to #collab 📧
     location: "United Kingdom"
-    followers: 11107
-    engagement: 613
-    commentsToLikes: 0.086830
-    id: ck0tu4mln5m340i192zwacr5j
-    verified: true
-    hashtags: "#cadsworld, #theratedlegend, #alicante, #sundayvibes"
-  - username: "zaraburfitt_"
-    fullname: >-
-      𝐙𝐀𝐑𝐀
-    bio: >-
-      📍 Manchester / London model, lifestyle & travel | 19yrs @jadoremodelsmcr @independent_mgmt @theface.models kinga@jadoremodels.co.uk
-    location: "United Kingdom"
-    followers: 14060
-    engagement: 307
-    commentsToLikes: 0.033589
-    id: ck5hgg1y32kvx0i11ugbmwhxf
+    followers: 14200
+    engagement: 550
+    commentsToLikes: 0.049950
+    id: ck0w0nzf9f6880i193m3oo8bq
     verified: false
-    hashtags: "#nastygal, #blonde, #nastygalsdoitbetter, #prettylittlething"
-  - username: "andrewdwheatcroft"
+    hashtags: "#spiritofsummer, #thegrillison, #summeratbeefeater, #ao"
+  - username: "monika_d98"
     fullname: >-
-      Andrew Wheatcroft
+      MONIKA | neutral style inspo
     bio: >-
-      • Unapologetically Unfiltered • Skincare // Lifestyle // Mental Health Warrior • Manchester, U.K. 📍 • MGMT 💌 Emma@thegoodegg.co.uk
+      🇮🇹🇵🇱 in Manchester • Everyday fashion, styling & lifestyle • Depop: monika_d98 📧 : moniketta98@gmail.com
     location: "United Kingdom"
-    followers: 16519
-    engagement: 604
-    commentsToLikes: 0.344032
-    id: ck15pynii0abb0i19z79hmz2s
+    followers: 5232
+    engagement: 920
+    commentsToLikes: 0.204874
+    id: ck55mwudw500g0i11vdnvq72o
     verified: false
-    hashtags: "#positivevibes, #lifestyleblogger, #mentalhealth, #skincareproducts"
-  - username: "atiekomerc"
+    hashtags: "#rebelgal, #vivichigals, #missguided, #naploungewear"
+  - username: "lisamlifestyle"
     fullname: >-
-      KATIE COMER
+      𝓛𝓲𝓼𝓪
     bio: >-
-      🌻Model and History Student 🌸MA @jadoremodelsmcr 🍄MIAMI @nextmodels keshia@jadoremodels.co.uk
+      📍Manchester 🐝 🇬🇧 🍃Fashion | Lifestyle | Skincare | Beauty 🛍 🏠 🐰 🍃Plant & Cheese addict🪴🧀 🍃Crazy Animal lover 🐶😺😺
     location: "United Kingdom"
-    followers: 8571
-    engagement: 1210
-    commentsToLikes: 0.036942
-    id: ck14jbn82jiv30i19j81el2z6
+    followers: 2092
+    engagement: 1380
+    commentsToLikes: 0.320961
+    id: ck14j32n4idqp0i19kiw1k5jx
     verified: false
-    hashtags: "#makeup, #hair, #mermaidwaves, #model"
-  - username: "iam.keylaa"
+    hashtags: "#crueltyfree, #skincare, #beauty, #makeup"
+  - username: "nataliakurda"
     fullname: >-
-      Keyla Rodrigues ♡
+      Natalia
     bio: >-
-      Beauty-Lifestyle Brazil | Spain | Living in Manchester APMgirls @apmmonaco
+      fashion, lifestyle, home @misinistores enquiries: nataliakurda@gmail.com manchester 📍 UK shop my feed:
     location: "United Kingdom"
-    followers: 93104
-    engagement: 105
-    commentsToLikes: 0.052885
-    id: ck139dg1nkrkf0i19ycc84hkx
+    followers: 230858
+    engagement: 251
+    commentsToLikes: 0.016047
+    id: ck5hdnyqcog5d0i11joymqut4
     verified: false
-    hashtags: "#apmonaco, #nails, #whitetiger, #apmgils"
-  - username: "itsbenwalker"
+    hashtags: "#heritagebyts, #re, #superdrystudios, #cultstudios"
+  - username: "rs.shalabi"
     fullname: >-
-      𝐁𝐄𝐍 𝐖𝐀𝐋𝐊𝐄𝐑
+      رورو
     bio: >-
-      📍 24 | ♌︎ | Manchester ⛓ Fashion | Travel | Lifestyle 📩 benw_alker@live.co.uk
+      🇵🇸🇳🇱 be unique🤍 SJ💍, CEO of @bw.sand 📍Manchester
     location: "United Kingdom"
-    followers: 4224
-    engagement: 1005
-    commentsToLikes: 0.048303
-    id: ckaosazikqx180i78t9l373r5
+    followers: 37216
+    engagement: 717
+    commentsToLikes: 0.055115
+    id: ck9hcgfhel9mv0j7822dh16mg
     verified: false
-    hashtags: "#topmanstyle, #gifted, #ad, #braun"
-  - username: "joely_t"
+    hashtags: "#explorenl, #like, #style, #makeuplife"
+  - username: "domain_esdale"
     fullname: >-
-      Im me
+      Domain Esdale
     bio: >-
-      @soaruk Event Manger Teacher & Dancer Videographer Management: @my.influencers #BlackLivesMatter
+      My fashion and lifestyle archive 👞Founder: mcrfashindustry 🇬🇧 Mgmt: @matchstickgroup Email for all enquiries 📩 hello@matchstickgroup.co
     location: "United Kingdom"
-    followers: 5386
-    engagement: 445
-    commentsToLikes: 0.061031
-    id: ck5zupq4i2th70i14b1d1we0y
+    followers: 23301
+    engagement: 471
+    commentsToLikes: 0.095557
+    id: ck14l8tcgtf110i19jqqz2szw
     verified: false
-    hashtags: "#soarlikeaneagle, #sonya6000, #live, #videographer"
-  - username: "aneece111"
+    hashtags: "#ootd, #mensstyle, #ad, #fashionstyle"
+  - username: "traveldiarywithlove"
     fullname: >-
-      📸 Aneece Malik 📸
+      HANNAH  ☼☽ TRAVEL & LIFESTYLE
     bio: >-
-      الحمد لله❤️ 1️⃣TURN ON POST NOTIFICATIONS 2️⃣DM=Collab 📩AneeceMalik@mail.com 🦷Celebrity Smile creator 🚫Negativity = BLOCK 📍Manchester 🐝 🇬🇧
+      ☼ travel obsessed ♥ food on my mind 24/7 ➌➏ countries & counting ————————————— ↠ Currently; Manchester 🇬🇧
     location: "United Kingdom"
-    followers: 624688
-    engagement: 63
-    commentsToLikes: 0.062574
-    id: ck0w2jre5oq060i19mb75an0y
+    followers: 11069
+    engagement: 534
+    commentsToLikes: 0.374094
+    id: ck8t2gieszerh0j78zapl1dyu
     verified: false
-    hashtags: "#luxury, #veneers, #happy, #foreverlivingturkey"
-  - username: "krissyyouth"
+    hashtags: "#mytraveldiaries, #wonderful, #discoverunder15k, #beautifuldestinations"
+  - username: "lima.kx"
     fullname: >-
-      🇬🇧🇨🇾|Krissyyouth
+      L I M A ♡
     bio: >-
-      Fashion • Beauty • music @yovthhh • Lifestyle • travel • singer songwriter 📩krissyyouth@gmail.com
+      MCR fashion | beauty | lifestyle contact for promos & collabs
     location: "United Kingdom"
-    followers: 10719
-    engagement: 1064
-    commentsToLikes: 0.395829
-    id: ck55lym7j2rnw0i11yf2e37dx
+    followers: 34905
+    engagement: 584
+    commentsToLikes: 0.066168
+    id: ck6tijxeo0uvd0j715dmrxkfj
     verified: false
-    hashtags: "#travelling, #lifestyle, #quarantine, #florida"
+    hashtags: "#blondehair, #makeupinspo, #pakistanifashion, #fashion"
 ---

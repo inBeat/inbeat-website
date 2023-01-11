@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Portugal In 2022
+title: Top 10 Vegan Instagram Influencers In Portugal In 2023
 description: >-
-  Find top vegan Instagram influencers in Portugal in 2022. Most popular hashtags: #mentalhealth #protein #plantbased.
+  Find top vegan Instagram influencers in Portugal in 2023. Most popular hashtags: #ootd #instagood #outfitinspo #pub.
 platform: Instagram
-hits: 34
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 34 Instagram influencers like this in Portugal for you to pitch.
+hits: 21
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 21 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "thefruitgoddesss"
-    fullname: >-
-      Andrea | 📍Spain🌴
-    bio: >-
-      Vegan Travel Girl🌸 Eat more plants & travel often 🌎 Say hi💌 thefruitgoddess1@gmail.com Travel Guides & Lightroom Presets⬇️
-    location: "Portugal"
-    followers: 79540
-    engagement: 152
-    commentsToLikes: 0.193235
-    id: ck55ltvvc2f5o0i11rdq905c2
-    verified: false
-    hashtags: ""
-  - username: "jonvenus"
-    fullname: >-
-      Jon Venus
-    bio: >-
-      My mission is to help you THRIVE🌱✨ 🔸Health🔸Nutrition🔸Mindset 👇🏼Coaching, Vegan Plans & eBooks
-    location: "Portugal"
-    followers: 182882
-    engagement: 111
-    commentsToLikes: 0.035711
-    id: ck0u8sdvb86vc0i19svaj0t0s
-    verified: true
-    hashtags: "#dateswithdates, #itsoktochangeyourmind, #veganbodybuilding, #easiersaidthandone"
   - username: "susannameeow"
     fullname: >-
       susanna
     bio: >-
-      vegan✖️edge| |cats and plants 🐱🌱| |anti animal cruelty🐥|ocean addicted🌊| work: @_susannapaul 💌 susannameeow@gmail.com
+      vegan✖️edge|👩🏻‍🤝‍👨🏼💕| thaiboxing 🥊|gym | |cats and plants 🐱🌱| |anti animal cruelty🐥|ocean addicted🌊| work: @_susannapaul
     location: "Portugal"
-    followers: 120268
-    engagement: 631
-    commentsToLikes: 0.003898
+    followers: 135585
+    engagement: 524
+    commentsToLikes: 0.003987
     id: ck5q7vthl3a7n0i112ywil7um
     verified: false
-    hashtags: "#girlswithink, #ink, #tattoo, #travel"
+    hashtags: "#me, #tattoo, #happyme, #vacation"
   - username: "sunchasingtravelers"
     fullname: >-
-      Eco Lifestyle & Travel
+      Lea & Stefan | Eco | Travel
     bio: >-
-      Lea & Stefan 🌿 Mindful & Sustainable Living ✨ Eco Travel | Vegan | Sustainability Blog Check out our blog to read more:
+      📍Mexico 🌿 Nature Lovers | Mindful & Sustainable Living ✨ Eco Travel | Vegan | Sustainability Blog Check out our NEW WEBSITE here:
     location: "Portugal"
-    followers: 42482
-    engagement: 557
-    commentsToLikes: 0.180565
+    followers: 42969
+    engagement: 422
+    commentsToLikes: 0.199590
     id: ck0ue9bsqktr30i19nvwyqvo4
     verified: false
-    hashtags: "#inspiredtravelcouples, #portugaltravel, #ecotravel, #lisbonportugal"
-  - username: "lucas_rays"
+    hashtags: "#tulummexico, #tulumvibes, #creativetravelcouples, #costaricalife"
+  - username: "madebychoices"
     fullname: >-
-      Lucas
+      Receitas vegetarianas I Vânia
     bio: >-
-      Vegan🍀 Artist 🎨🎨🖌 Product Designer🍥 Architecture 👨‍💼🌆
+      🌱Ajudo-te a DESCOMPLICAR a gestão das refeições ✌️RECEITAS saudáveis (& vegan) para todos 📩Parcerias: hello@socias.pt Começa AQUI👇🏻
     location: "Portugal"
-    followers: 12410
-    engagement: 803
-    commentsToLikes: 0.023073
-    id: ckaoze1iolgn30i786s2yi0j0
+    followers: 90465
+    engagement: 252
+    commentsToLikes: 0.020757
+    id: ck0w42369wf800i19ij5ra2ij
     verified: false
-    hashtags: "#greektemple, #sicily, #agrigento, #fallen"
-  - username: "sofiadinis.sheisart"
+    hashtags: "#madebychoices, #receitasreels, #receitasveganas, #receitasvegetarianas"
+  - username: "jonvenus"
     fullname: >-
-      S O F I A   D I N I S
+      Jon Venus
     bio: >-
-      SHE IS ART | private tattoo studio | vegan tattoo 🌿 Lisboa, Portugal AGENDA ENCERRADA vamos tatuar? • contacto | 914119097 •
+      My mission is to help us THRIVE🌱✨ 🔸Health🔸Growth🔸Compassion🙏🏼 👇🏼Coaching, Vegan Plans & eBooks
     location: "Portugal"
-    followers: 96103
-    engagement: 437
-    commentsToLikes: 0.008469
-    id: ck8syzilammls0j78ghzny9g6
-    verified: false
-    hashtags: "#mesasbohemiaemcasa, #mesabohemiaemcasa, #pub, #sejarespons"
-  - username: "ana_marta_dias"
+    followers: 171284
+    engagement: 90
+    commentsToLikes: 0.021034
+    id: ck0u8sdvb86vc0i19svaj0t0s
+    verified: true
+    hashtags: "#fitnesstips, #plantbased, #healthtips, #veganfitness"
+  - username: "rafaelaalexandra0"
     fullname: >-
-      Ana Marta
+      Rafaela Duarte | Healthy 💫
     bio: >-
-      ⋒ 𝘁𝗿𝘂𝘀𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗳𝗹𝗼𝘄 𝗼𝗳 𝗹𝗶𝗳𝗲 ⋒ ‣ video, photography, art love our mama 🌍 ∴ vegan ∴ plants heal ☽ for the right to explore our consciousness work ↡ ↡ ↡
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
     location: "Portugal"
-    followers: 7087
-    engagement: 986
-    commentsToLikes: 0.022005
-    id: ck5cd09bdib020i119tvn4adz
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#elements, #35mm, #light, #mystic"
-  - username: "miguelthevegan"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+  - username: "anavarelaoficial"
     fullname: >-
-      Miguel
+      Ana Varela
     bio: >-
-      👨‍🎓 | Certified Personal Trainer & Vegan Nutritionist 💪 | 1-on-1 Coaching 🌊 | Vegan Surf Retreat @green_waves_portugal 🌱 | MIGUEL10 @vivolife 10% OFF
+      🌿Mother. Actress. Sustainability Advocate. 🎬Acting&Management: rscarrelo@gmail.com 💡PR,Digital & Brands: squad@connosco.pt
     location: "Portugal"
-    followers: 21677
-    engagement: 253
-    commentsToLikes: 0.058523
-    id: ck8t1d3xjvb1t0j78hu95cydr
-    verified: false
-    hashtags: "#quarantineworkout, #coffee, #nutrition, #plantprotein"
-  - username: "adrianhowellcoaching"
+    followers: 103860
+    engagement: 290
+    commentsToLikes: 0.027824
+    id: ck5q4f1gvou6w0i11c0b7cft3
+    verified: true
+    hashtags: "#bmwportugal, #queridospap, #greenlittlestep, #shampoosolidoultrasuave"
+  - username: "charliecfm"
     fullname: >-
-      Adrian Howell
+      CHΛRLIΞ • Carlos Frota Melo
     bio: >-
-      ⛰ Holistic Health Coach⁣⁣⁣ 🏃‍♂️ Endurance Athlete ⁣⁣ 🌱 Vegan supported by @plantathletic @envecomposites @we_are_sungod
+      you think you know me ... but you have no idea X ninja media coordinator @havas X marketing | content | social media X made in PT LOADING ...
     location: "Portugal"
-    followers: 10753
-    engagement: 552
-    commentsToLikes: 0.015042
-    id: ck6tjjwbm2uwz0j71gws7hqdv
+    followers: 7262
+    engagement: 1053
+    commentsToLikes: 0.370331
+    id: ckap4i5927hd50i782o8gpnof
     verified: false
-    hashtags: "#catdad"
-  - username: "cozinhalternativa"
+    hashtags: "#emcasa, #iloveoeiras, #socialisolation, #giveaway"
+  - username: "ajoanamaiaa"
     fullname: >-
-      Van Machado
+      TRAVEL✨| FASHION✨|LIFESTYLE ✨
     bio: >-
-      Offline ❌ Vegan Recipes & more ⬇️
+      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost ✨Joana - 18% @soulmia_store Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
     location: "Portugal"
-    followers: 31044
-    engagement: 340
-    commentsToLikes: 0.017277
-    id: ck6ub844b81a50j71zmt7s6tr
+    followers: 9479
+    engagement: 659
+    commentsToLikes: 0.128359
+    id: ck14hflt0a2vq0i19iwbux8so
     verified: false
-    hashtags: "#vegangirl, #slowblogging, #climatechange, #offline"
+    hashtags: "#poolview, #outfitinspo, #traveltheworld, #visitportugal"
+  - username: "phoenix.vida"
+    fullname: >-
+      Art♥Beauty♥Lifestyle♥Fashion
+    bio: >-
+      Educator｜Artist｜#HKKOL Portuguese mixed🇵🇹 #influencer #Model 👉🏻𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦, 𝘚𝘶𝘯𝘥𝘢𝘺𝘒𝘪𝘴𝘴, 𝘏𝘢𝘱𝘱𝘺𝘱𝘢𝘮𝘢 𝘦𝘵𝘤 📩Please DM for JoB／Collab
+    location: "Portugal"
+    followers: 20301
+    engagement: 422
+    commentsToLikes: 0.087758
+    id: ckf5vfj3loeqa0j23pi7yo2fw
+    verified: false
+    hashtags: "#vidadephoenix, #beautyshare, #hkfoodie, #naturalbeauty"
+  - username: "im.susanasilva"
+    fullname: >-
+      SUSANA SILVA ♡
+    bio: >-
+      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
+    location: "Portugal"
+    followers: 14331
+    engagement: 306
+    commentsToLikes: 0.080679
+    id: ckaovkl9a4ys60i787iawknf3
+    verified: false
+    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
 ---

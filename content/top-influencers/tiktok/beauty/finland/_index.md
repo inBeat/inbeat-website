@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Finland In 2022
+title: Top 10 Beauty TikTok Influencers In Finland in 2023
 description: >-
-  Find top beauty TikTok influencers in Finland in 2022. Most popular hashtags: #fyp #foryoupage #finland #foryou.
+  Find top beauty TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #foryoupage #finland #foryou.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok influencers on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In United Kingdom In 2022
+title: Top 10 Wellness Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top wellness Instagram influencers in United Kingdom in 2022. Most popular hashtags: #fitness #london #workout.
+  Find top wellness Instagram influencers in United Kingdom in 2023. Most popular hashtags: #glutes #motivation #workout.
 platform: Instagram
-hits: 260
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 260 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 198
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 198 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "brooklynkitten_"
+  - username: "georgie.crawford"
     fullname: >-
-      paulina | brooklyn kitten
+      Georgie Crawford
     bio: >-
-      left nyc for the world // always seeking the magic💫 travel • wellness • spirituality • positivity ✨ blog↡ | 💌paulina@brooklynkitten.com
+      @thegoodglow.ie Podcast & Online Wellness Course Mum & wife to my true loves Health & Wellness Speaker Fitbit Ambassador
     location: "United Kingdom"
-    followers: 32981
-    engagement: 649
-    commentsToLikes: 0.087854
-    id: ck0w6b0697pny0i19vpnmhdoe
-    verified: false
-    hashtags: "#amazingthailand, #travelvietnam, #hoianancienttown, #exploreitaly"
-  - username: "jade_packer"
-    fullname: >-
-      Jade Packer FIT
-    bio: >-
-      🔥 I help girls build badass bodies @wearegameface 🦈 @gymshark athlete ⚡️ #GameFaceOnLimitsOff 🤍 Wellness Bikini IFBB Elite PRO SHOP GYMSHARK ⇩
-    location: "United Kingdom"
-    followers: 29511
-    engagement: 781
-    commentsToLikes: 0.044299
-    id: ck5hkuxnhj2t50i11qxwp5j25
-    verified: false
-    hashtags: "#gamefaceonlimitsoff, #gymshark, #beavisionary"
+    followers: 86557
+    engagement: 279
+    commentsToLikes: 0.046770
+    id: ck15uuoaeolez0i190z7ag7pz
+    verified: true
+    hashtags: "#sp, #selflove, #wellness, #selfcare"
   - username: "leoniealert"
     fullname: >-
       Leonie Alert
     bio: >-
-      Fitness • Wellness • Positive vibes  ▪️Co-owner of @lavalifestyle  ▪️London based Fire performer & marketing/events manager
+      Fitness • Wellness • Positive vibes  ▪️Co-founder of @lavalifestyle  ▪️London based Fire performer & marketing/events manager
     location: "United Kingdom"
-    followers: 17999
-    engagement: 513
-    commentsToLikes: 0.162444
+    followers: 18712
+    engagement: 585
+    commentsToLikes: 0.109974
     id: ck15pwhvrzze30i19375dvg9e
     verified: false
-    hashtags: "#bikini, #fitness, #sunday, #tan"
-  - username: "guto.mbt"
+    hashtags: "#lockdown, #workout, #glutes, #strong"
+  - username: "indira.badia"
     fullname: >-
-      Luis Augusto
+      Indira Badia Fonseca
     bio: >-
-      Welcome to my World!🌎♉️ LifeStyle-Travel-Art-Wellness-Philosophy I Help People to achieve their goals for living!😎 Founder @mahamudrauk 📩@bma_models
+      🇪🇸IFBB PRO•FIRST UK WELLNESS🇬🇧 @fueledbodies Founder @indira.badia Tiktok @vedgenutrition @rawgear Booty Builder🍑 Plant Based🌱 Married 💍 Mum👩‍👦
     location: "United Kingdom"
-    followers: 28405
-    engagement: 275
-    commentsToLikes: 0.065295
-    id: ck5q5tupauk3r0i11o9eqrbp6
-    verified: false
-    hashtags: "#lifestyle, #fitness, #life, #london"
-  - username: "_golden_panther"
-    fullname: >-
-      𝗚𝗢𝗟𝗗𝗘𝗡 𝗣𝗔𝗡𝗧𝗛𝗘𝗥🐾
-    bio: >-
-      🏆FIRST UK WELLNESS 🥇IFBB PRO 🌱Vegan 👩‍👦Mother 🐉@dragonpharma_llc Code “PANTHER” 👙@bikinibkb_by_bikinimama 📍London
-    location: "United Kingdom"
-    followers: 127188
-    engagement: 447
-    commentsToLikes: 0.032259
+    followers: 236969
+    engagement: 538
+    commentsToLikes: 0.024271
     id: ck5cbzfd2gfuc0i11u7ir14sj
     verified: false
-    hashtags: "#dragonpharma, #blackviper, #fatburner, #sale"
-  - username: "hann.elaine"
-    fullname: >-
-      Hannah Elaine King
-    bio: >-
-      sharing words, pretty interiors & life things from a home in california. ☽❊ wellness account: @hanheldhome @earthsidemag
-    location: "United Kingdom"
-    followers: 33341
-    engagement: 487
-    commentsToLikes: 0.038857
-    id: ck8sxotoai4h90j78qxf6ym5g
-    verified: false
-    hashtags: "#sixmonthsold, #thealmondabode"
-  - username: "agfalzon"
-    fullname: >-
-      Alain Falzon
-    bio: >-
-      👶🏻 Born in Paris 🏡 Raised in Barcelona 📍Based in London 🗣 🇪🇸🇫🇷🇬🇧🇧🇷🇮🇹 🏋🏻‍♂️ Fitness/Wellness /Travel 🤸🏻‍♂️Enjoying my life
-    location: "United Kingdom"
-    followers: 7098
-    engagement: 876
-    commentsToLikes: 0.053244
-    id: ckap8mef9oz7p0i78yxa0v7bj
-    verified: false
-    hashtags: "#fit, #london, #fitnessmotivation, #fitness"
+    hashtags: "#workout, #motivation, #legs, #glutes"
   - username: "coral_pearl_"
     fullname: >-
       Coral Golding
     bio: >-
       Parenting • Lifestyle • Fashion • Wellness Home schooling mama of ✌🏽 Co founder of @42Juice 📍 Brighton, UK ✉️ Coral@42juice.com
     location: "United Kingdom"
-    followers: 33676
-    engagement: 182
-    commentsToLikes: 0.069466
+    followers: 35518
+    engagement: 175
+    commentsToLikes: 0.067881
     id: ck136j1ua6qbt0i19yfaj71of
     verified: false
-    hashtags: "#thisistheway, #beenoneofthosedays, #imwearingri, #thesearchisover"
+    hashtags: "#youcanbeanything, #veryuk, #barbie, #5amclub"
+  - username: "gabriela.pauluss"
+    fullname: >-
+      G A B R I E L A
+    bio: >-
+      Latvian girl living in London 🇱🇻/ 🇬🇧/ 🇷🇺 Fitness/wellness
+    location: "United Kingdom"
+    followers: 4012
+    engagement: 954
+    commentsToLikes: 0.122849
+    id: ck137gvkibh340i19zc6gh4rd
+    verified: false
+    hashtags: "#gymaddicts, #squatspo, #gyminspiration, #itsmeagain"
   - username: "sallyfazeli_lifestyle"
     fullname: >-
       Lifestyle & Wellness
     bio: >-
-      Family 👨‍👩‍👦‍👦 Yoga Teacher 300hr 🧘🏻‍♀️ EFT Wellness Journey @sallyfazeli If you can be anything...be kind ✨❤️ Interiors @sallyfazelihome
+      Family 👨‍👩‍👦‍👦 Baby on the way 🤰🏻 Pregnancy & Wellness Journey @sallyfazeli If you can be anything...be kind ✨❤️ Interiors @sallyfazelihome
     location: "United Kingdom"
-    followers: 48038
-    engagement: 139
-    commentsToLikes: 0.079130
+    followers: 47253
+    engagement: 155
+    commentsToLikes: 0.077031
     id: ck0w30oa5r1fg0i196vnn0sgv
     verified: false
-    hashtags: "#mywellkid, #vitabiotics, #wellkid, #cantwait"
-  - username: "abbygfitness_"
+    hashtags: "#wellkid, #mywellkid, #vitabiotics, #nhs"
+  - username: "facesbygrace23"
     fullname: >-
-      Abby Glasson
+      𝘎𝘙𝘈𝘊𝘌 𝘔𝘖𝘕𝘎𝘌𝘠
     bio: >-
-      GYM + PLANT BASED GIRL! 🌱✌🏼 TEAM SMW @shanmack_wellness ▫️Supported by @womensbest ▫️PT pending @thefitnessgrp ▫️ @ryderwear | ABBY ▫️ @doyoueven
+      Beauty • Wellness • Lifestyle • Interiors 🏡 @fbghome @graces_little_garden 👩🏻‍🌾 BA @womensbest 🧘🏻‍♀️
     location: "United Kingdom"
-    followers: 175782
-    engagement: 115
-    commentsToLikes: 0.057138
-    id: ck8t9kkuvoft70j78fzsor0i6
+    followers: 168104
+    engagement: 261
+    commentsToLikes: 0.035149
+    id: ck5zpglfdsmmu0i14lvq78j4r
+    verified: true
+    hashtags: "#3amstartsarenotok, #gleniffhorseshoe, #discoverireland, #inthestylexterriemcevoy"
+  - username: "dudu_kgoebane"
+    fullname: >-
+      Dr. Dudu Kgoebane-Masoeu🇿🇦
+    bio: >-
+      💉: Dr K 🧖🏽‍♀️: Skinfluencer, Wellness & Lifestyle 📧 PR/Enquires: info@dudukgoebane.co.za 🎥 YouTube: Dudu Kgoebane
+    location: "United Kingdom"
+    followers: 28442
+    engagement: 996
+    commentsToLikes: 0.053866
+    id: ckaoxnbfedzjm0i78oxk23tbu
     verified: false
-    hashtags: "#teamboandtee"
+    hashtags: "#ad, #makeup, #brunch, #bareskin"
+  - username: "maikenf"
+    fullname: >-
+      Maiken Ariana | Travel & Yoga
+    bio: >-
+      @w_modelmgmt Luxury travel + Wellness creator Yoga For Athletes Cert. Bookings: hannah@wmodel.co.uk @barebells.uk ambassador 📍 Sussex, UK
+    location: "United Kingdom"
+    followers: 47560
+    engagement: 261
+    commentsToLikes: 0.042720
+    id: ck0w2vujmqf210i1923poyurn
+    verified: false
+    hashtags: "#traveltheworld, #ukheatwave, #luxurydestinations, #siauibiza"
+  - username: "emilylouisejeal"
+    fullname: >-
+      Emily Louise ❁ Life & Style
+    bio: >-
+      ❁ Snapshots of my life in #Norfolk ❁ Chatty Stories ❁ Motherhood | Fashion | Wellness ❁ Join in with my hashtag #styleherhappy
+    location: "United Kingdom"
+    followers: 6492
+    engagement: 846
+    commentsToLikes: 0.244499
+    id: ckaoqyrnhkyfw0i7812z4wh0z
+    verified: false
+    hashtags: "#rainbowfeed, #thursdayvibes, #whatmamaworemonday, #beigepalette"
 ---

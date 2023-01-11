@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Los Angeles In 2022
+title: Top 10 Yoga TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top yoga TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #yoga #losangeles #foryou.
+  Find top yoga TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #yoga #love.
 platform: TikTok
-hits: 16
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform has 16 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 14
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 14 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "christianstockwell"
-    fullname: >-
-      Christian Stockwell
-    bio: >-
-      The Empath Coach💙 FREE 1-on-1 Coaching Session with me!🤯(Temporary)👇
-    location: "United States"
-    followers: 198900
-    engagement: 1511
-    commentsToLikes: 0.029408
-    id: ckc7wn294zpo30j23fqex7o8e
-    verified: false
-    hashtags: "#affirmation, #meditate, #5d, #loa"
   - username: "mulletedmadman"
     fullname: >-
       Saul Trujillo
     bio: >-
       Stand up comedian and kissing booth inspector.
     location: "United States"
-    followers: 9204
-    engagement: 773
-    commentsToLikes: 0.037983
+    followers: 9789
+    engagement: 1050
+    commentsToLikes: 0.035510
     id: ckbam3u4hd15a0j23lflq1s4z
     verified: false
-    hashtags: "#standup, #maincharacter, #mexican, #funny"
-  - username: "nareisraelyan"
-    fullname: >-
-      nareisraelyan
-    bio: >-
-      Actor & model living in sunny Los Angeles ☀️ Sharing my fav quick fitness tips💪🏼
-    location: "United States"
-    followers: 4660
-    engagement: 382
-    commentsToLikes: 0.063939
-    id: ck8vuskj9jw7u0j78eqjc669d
-    verified: false
-    hashtags: "#tiktokpartner, #fitfam, #stretch, #sixpackabs"
-  - username: "tiktoktatertotz"
-    fullname: >-
-      Tate
-    bio: >-
-      19 Denver | Los Angeles Have some fun along the way
-    location: "United States"
-    followers: 29300
-    engagement: 1181
-    commentsToLikes: 0.021640
-    id: cka0j3jbpgddv0i78mbtf99py
-    verified: false
-    hashtags: "#highschool, #dontletthisflop, #fitness, #drive"
-  - username: "momomitchell0"
-    fullname: >-
-      MomoMitchell
-    bio: >-
-      IG: @morganmmitchell Personal Trainer Los Angeles
-    location: "United States"
-    followers: 24500
-    engagement: 739
-    commentsToLikes: 0.027284
-    id: ck9kg8qhm6rgg0j78sn1nd85e
-    verified: false
-    hashtags: "#food, #foryou, #foryourpage, #kids"
+    hashtags: "#fyp, #funny, #standup, #standupcomedy"
   - username: "kerttukaron"
     fullname: >-
       Kerttu Karon
     bio: >-
       🎬 Actor & 🧘🏼‍♀️ Hot Yoga teacher 👸🏼 IG: kerttu.karon 📍Born 🇪🇪 Live 🇺🇸
     location: "United States"
-    followers: 10000
-    engagement: 465
-    commentsToLikes: 0.069587
+    followers: 10200
+    engagement: 508
+    commentsToLikes: 0.126642
     id: ckb9jh2woas0b0j23o7p8yczf
     verified: false
-    hashtags: "#duet, #fyp, #redlips, #acting"
-  - username: "rebeccaryanfit"
+    hashtags: "#la, #hotyoga, #yogateacher, #christmas"
+  - username: "tiktoktatertotz"
     fullname: >-
-      Rebecca Ryan
+      Tate
     bio: >-
-      Plant Lover • Yoga Teacher • Roller Skater
+      20 Denver | Los Angeles Have some fun along the way
     location: "United States"
-    followers: 30900
-    engagement: 557
-    commentsToLikes: 0.022243
-    id: ckcjfsc9bb8i60j23dx1j92m3
+    followers: 28200
+    engagement: 1206
+    commentsToLikes: 0.019711
+    id: cka0j3jbpgddv0i78mbtf99py
     verified: false
-    hashtags: "#plants, #plantlover, #tutorial, #plantstuff"
+    hashtags: "#notonething, #fyp, #foryou, #comedy"
+  - username: "cuppinglosangeles"
+    fullname: >-
+      Cupping Los Angeles
+    bio: >-
+      CuppingLosAngeles.com
+    location: "United States"
+    followers: 36400
+    engagement: 407
+    commentsToLikes: 0.006956
+    id: ckav5sqb1cgkf0j23b2n7o7ny
+    verified: false
+    hashtags: "#fire, #massage, #selfcare, #yoga"
   - username: "suvihannaa"
     fullname: >-
       suvihannaa
     bio: >-
       Instagram: @suvihannaa ✌🏼😛😇💓 From: 🇫🇮 📍: LA 🇺🇸 I REPLY TO ALL MY FANS
     location: "United States"
-    followers: 137400
-    engagement: 778
-    commentsToLikes: 0.056481
+    followers: 136000
+    engagement: 927
+    commentsToLikes: 0.153556
     id: ckd1a96yjs7k70j23qgzx832a
     verified: false
-    hashtags: "#fyp, #girl, #girls, #model"
-  - username: "elilavie"
+    hashtags: "#la, #finnish, #girl, #modelgirl"
+  - username: "ithinkmylifeisadream"
     fullname: >-
-      Eli
+      mim1018
     bio: >-
-      New on TikTok & love it 😍 Instagram: Life_is_always_sobeautiful Living in L.A
+      Instagram: @mim1018 I move around a lot
     location: "United States"
-    followers: 5715
-    engagement: 610
-    commentsToLikes: 0.048840
-    id: ckbfdosqp77up0j23icpw3glf
+    followers: 4246
+    engagement: 1095
+    commentsToLikes: 0.054833
+    id: ck9804aea65ak0j78o3xysv40
     verified: false
-    hashtags: "#friends, #california, #gumball, #yoga"
+    hashtags: "#outdoors, #la, #gooutside, #dtla"
   - username: "linettemenaskan"
     fullname: >-
       linettemenaskan
     bio: >-
       follow me on IG for more🤍 movement • writing • self love • cooking 🦋my book⬇️
     location: "United States"
-    followers: 114400
-    engagement: 962
-    commentsToLikes: 0.018943
+    followers: 112400
+    engagement: 1111
+    commentsToLikes: 0.016452
     id: ck9fmbu51sf3v0j78yya171lh
     verified: false
-    hashtags: "#artlessons, #fyp, #foryou, #canvas"
+    hashtags: "#yoga, #artlessons, #paint, #gymnastics"
+  - username: "elilavie"
+    fullname: >-
+      Eli
+    bio: >-
+      New on TikTok & love it 😍 Instagram: Life_is_always_sobeautiful Living in L.A
+    location: "United States"
+    followers: 5779
+    engagement: 606
+    commentsToLikes: 0.041861
+    id: ckbfdosqp77up0j23icpw3glf
+    verified: false
+    hashtags: "#dancechallenge, #yoga, #finalsathome, #exercise"
+  - username: "rebecca.mikul"
+    fullname: >-
+      Rebecca & Mikul
+    bio: >-
+      PLANTS • COFFEE • DIY
+    location: "United States"
+    followers: 31700
+    engagement: 745
+    commentsToLikes: 0.018269
+    id: ckcjfsc9bb8i60j23dx1j92m3
+    verified: false
+    hashtags: "#table, #fyp, #tiktoktaughtme, #plants"
+  - username: "hayleypalmaer"
+    fullname: >-
+      Hayley Palmaer
+    bio: >-
+      Here with the Quarantined Qomedy Follow/Share on IG and YouTube! @hayleypalmaer
+    location: "United States"
+    followers: 22900
+    engagement: 1305
+    commentsToLikes: 0.026943
+    id: ckc3ewaf50q0s0j23jouhfh1d
+    verified: false
+    hashtags: "#sketchcomedy, #covid, #tiktokcomedy, #comedy"
 ---

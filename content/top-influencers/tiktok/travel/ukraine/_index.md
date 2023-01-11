@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ukraine In 2022
+title: Top 10 Travel TikTok Influencers In Ukraine In 2023
 description: >-
-  Find top travel TikTok influencers in Ukraine in 2022. Most popular hashtags: #travel #ukraine #love #fyp.
+  Find top travel TikTok influencers in Ukraine in 2023. Most popular hashtags: #travel #love #ukraine.
 platform: TikTok
-hits: 19
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in Ukraine for you to work with.
+hits: 17
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 17 TikTok influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "bodyann"
     fullname: >-
@@ -13,84 +13,84 @@ profiles:
     bio: >-
       Doctor who travels around the world. -horses -cats -mtb cycling -photograpy 🎞📷
     location: "Ukraine"
-    followers: 17700
-    engagement: 1399
-    commentsToLikes: 0.010321
+    followers: 17200
+    engagement: 1378
+    commentsToLikes: 0.009529
     id: cka0ynboobxto0i783pm9t9jv
     verified: false
-    hashtags: "#field, #horse, #ukraine, #film"
+    hashtags: "#ukraine, #sunset, #field, #horse"
   - username: "yuriy.rybak"
     fullname: >-
       Yuriy_Rybak
     bio: >-
-      📈Investor 🎬Blogger 🚀Entrepreneur 🌍Traveling The World 🎥29K On YouTube
+      📈Investor 🎬Blogger 🚀Entrepreneur 🌍Traveling The World 🎥34K On YouTube
     location: "Ukraine"
-    followers: 6926
-    engagement: 532
-    commentsToLikes: 0.020330
+    followers: 7014
+    engagement: 614
+    commentsToLikes: 0.023005
     id: ckceli3iivcw80j23t1fq05nd
     verified: false
-    hashtags: "#couple, #relationship, #montenegro, #view"
+    hashtags: "#relationship, #travel, #business, #alberta"
   - username: "maksmoody"
     fullname: >-
       Maks Lepokhin
     bio: >-
       Traveler: 23 countries ✈️ How y’all feeling today? 📸☀️
     location: "Ukraine"
-    followers: 8953
-    engagement: 597
-    commentsToLikes: 0.016028
+    followers: 8835
+    engagement: 720
+    commentsToLikes: 0.012398
     id: cka6d6o366s770i78ujy5c9ve
     verified: false
-    hashtags: "#nature, #stunning, #amazing, #switzerland"
+    hashtags: "#landscape, #amazing, #view, #travel"
   - username: "tipsfortrips"
     fullname: >-
       Tipsfortrips.ua
     bio: >-
       Подорож твоєї мрії почнеться сьогодні! Авторські тури і не тільки ➡️Instagram
     location: "Ukraine"
-    followers: 12100
-    engagement: 663
-    commentsToLikes: 0.011434
+    followers: 11900
+    engagement: 689
+    commentsToLikes: 0.014839
     id: ckai8v8rp5tkz0i789qc8yww3
     verified: false
-    hashtags: "#trips, #rec, #riodejaneiro, #recommendations"
+    hashtags: "#recommendations, #tiktok, #riodejaneiro, #tiktoktravel"
+  - username: "killerok_"
+    fullname: >-
+      Андрейка
+    bio: >-
+      ether of life🤳🏻🚵🏻‍♂️🚈✈️🇬🇧🇺🇦
+    location: "Ukraine"
+    followers: 11700
+    engagement: 635
+    commentsToLikes: 0.019116
+    id: ckcuuial2kuuc0j237hlieq8x
+    verified: false
+    hashtags: "#top, #travel, #foollow, #greatbritain"
   - username: "lilovivang"
     fullname: >-
       Lilo 😍
     bio: >-
       
     location: "Ukraine"
-    followers: 6802
-    engagement: 292
-    commentsToLikes: 0.004823
+    followers: 6722
+    engagement: 279
+    commentsToLikes: 0.004364
     id: cka0mmzwww2wy0i78xm08l40r
     verified: false
-    hashtags: "#paris, #bebe, #modelo, #retrato"
-  - username: "aerial.hacker"
+    hashtags: "#girls, #paris, #spain, #picoftheday"
+  - username: "lisjart"
     fullname: >-
-      aerial.hacker
+      Евгения Лисовая
     bio: >-
-      Aerialist. Aerial silks & aerial straps instructor. From Ukraine 🇺🇦
+      Художник illustrator 🎨 Odessa Email: allalisovaa@gmail.com
     location: "Ukraine"
-    followers: 12000
-    engagement: 1361
-    commentsToLikes: 0.024344
-    id: ck8adhi1468xp0j786srnhnfz
+    followers: 201900
+    engagement: 1810
+    commentsToLikes: 0.035681
+    id: ckb9dg7ex0oo80j23sxh3500f
     verified: false
-    hashtags: "#aerial, #slowmo, #acrobatics, #aerialist"
-  - username: "alenaandrii"
-    fullname: >-
-      AlenaAndrii
-    bio: >-
-      
-    location: "Ukraine"
-    followers: 62400
-    engagement: 1269
-    commentsToLikes: 0.013760
-    id: ck83z5plzxxyo0j785cyt7vc5
-    verified: false
-    hashtags: "#circusartist, #help, #acrogirl, #iwanttowork"
+    hashtags: "#crete, #cretegreece, #greece, #procreate"
   - username: "nincompoop.s"
     fullname: >-
       🐺🐷
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.019780
     id: ckdhg98j3xmu50j23rzydurce
     verified: false
-    hashtags: "#comedy, #love, #viral, #bts"
+    hashtags: "#xyzbca, #viral, #relationship, #love"
   - username: "a_vlasenko"
     fullname: >-
       💖ANNA💖
     bio: >-
-      18 y.o. Kiev, Ukraine
+      18 ♊️
     location: "Ukraine"
-    followers: 24800
-    engagement: 1058
-    commentsToLikes: 0.032529
+    followers: 24600
+    engagement: 1054
+    commentsToLikes: 0.033109
     id: ck900x8zvaw5s0j78sstcqz64
     verified: false
-    hashtags: "#girlspower, #travel, #nofilter, #barbie"
-  - username: "jithu.jithuzz"
+    hashtags: "#foryoupage, #travel, #nofilter, #barbie"
+  - username: "juliya_s_tihonenko"
     fullname: >-
-      Jithu Jithuzz
+      Juliya Tykhonenko
     bio: >-
-      🇮🇳 🇺🇦 Ukrainian Mallu Medical student Catch me on IG 👆🏻
+      Instagram:@juliya_s_tihonenko 💫💫Дизайнер бренда @colorfull_studio💫💫
     location: "Ukraine"
-    followers: 29000
-    engagement: 836
-    commentsToLikes: 0.031598
-    id: ckcdi1wk782w60j23o9vvhrpz
+    followers: 5468
+    engagement: 446
+    commentsToLikes: 0.027851
+    id: ckcoioc2h49000j23nm2cctds
     verified: false
-    hashtags: "#ukraine, #slomo, #mallumuser, #duet"
+    hashtags: "#helloween, #makeup, #dancer, #dance"
 ---

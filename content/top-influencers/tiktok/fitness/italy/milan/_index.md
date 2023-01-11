@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Milan In 2022
+title: Top 10 Fitness TikTok Influencers In Milan In 2023
 description: >-
-  Find top fitness TikTok influencers in Milan in 2022. Most popular hashtags: #fitness #perte #foryou #milan.
+  Find top fitness TikTok influencers in Milan in 2023. Most popular hashtags: #fitness #milano #gym #foryou.
 platform: TikTok
-hits: 17
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 17 TikTok influencers like this in Milan, Italy for you to contact.
+hits: 13
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 13 TikTok influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "vanityfairitalia"
+  - username: "timeless.production"
     fullname: >-
-      Vanity Fair Italia
+      Timeless Production
     bio: >-
-      Siamo una rivista 🗞 un giornale online📱 e molto altro ✨💕
+      🎥 Videomaker 📩 timeless.produzioni@gmail.com IG: @timeless.production
     location: "Italy"
-    followers: 64500
-    engagement: 788
-    commentsToLikes: 0.012004
-    id: ck97ylpk700jw0j78en8r3k4o
-    verified: true
-    hashtags: "#moda, #2rise, #mfw, #hair"
-  - username: "pirlasv"
-    fullname: >-
-      Pier Francesco Gentili
-    bio: >-
-      Email Collab • pirlasv@corax.business Instagram @pirlasV
-    location: "Italy"
-    followers: 260500
-    engagement: 1722
-    commentsToLikes: 0.004248
-    id: ck9pm207h742r0j78g5z63tuv
-    verified: true
-    hashtags: "#perte, #seriea, #ragazze, #video"
-  - username: "eddy_kood"
-    fullname: >-
-      eddy 
-    bio: >-
-      📍🇮🇹 🇦🇱 ( Instagram eddykood)
-    location: "Italy"
-    followers: 2908
-    engagement: 464
-    commentsToLikes: 0.013690
-    id: ckbqudcy2eshv0j23pfj5chxr
+    followers: 21400
+    engagement: 806
+    commentsToLikes: 0.014587
+    id: ck901ycj8bynv0j78j9xgxkkr
     verified: false
-    hashtags: "#tiktokitaly, #video, #beach, #milan"
+    hashtags: "#shooting, #streetvideo, #fashion, #timelessproduction"
+  - username: "francesca.pezzano"
+    fullname: >-
+      𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
+    bio: >-
+      Fitness lifestyle 𝗢𝗻𝗹𝗶𝗻𝗲 & 𝗟𝗶𝘃𝗲 𝗖𝗼𝗮𝗰𝗵𝗶𝗻𝗴 📍Milano
+    location: "Italy"
+    followers: 57500
+    engagement: 872
+    commentsToLikes: 0.012343
+    id: ck8vsi512doq90j78h4cdonym
+    verified: false
+    hashtags: "#fitness, #bikinifitness, #bodybuilding, #fit"
   - username: "milanhouses"
     fullname: >-
       Milan Houses
     bio: >-
       milanhouses.com
     location: "Italy"
-    followers: 2075
-    engagement: 2372
-    commentsToLikes: 0.003964
+    followers: 2071
+    engagement: 2065
+    commentsToLikes: 0.010263
     id: ckc1rjl9lvyy90j231o9h11vu
     verified: false
-    hashtags: "#milan, #milano, #home, #monolocalemilano"
-  - username: "lucabardella5"
-    fullname: >-
-      lucabardella5
-    bio: >-
-      Milano 🇮🇹❤🖤🇮🇹 Instagram: lucabardella5
-    location: "Italy"
-    followers: 123800
-    engagement: 389
-    commentsToLikes: 0.059905
-    id: ckbercsen9hn60j23lu7u8pcc
-    verified: false
-    hashtags: "#scherzare, #foryou, #perte, #casa"
-  - username: "ritadisabato"
-    fullname: >-
-      Rita Di Sabato
-    bio: >-
-      IG: errediesse_0 📸 Nurse 👩🏻⚕️
-    location: "Italy"
-    followers: 2446
-    engagement: 548
-    commentsToLikes: 0.037095
-    id: ckbr8hcwjnci50j237gnbyyas
-    verified: false
-    hashtags: "#0324mytest, #greenscreen, #zyxcba, #tbt"
+    hashtags: "#rentapartmentmilano, #rent, #milan, #student"
   - username: "marikaandgiada"
     fullname: >-
       M & G
     bio: >-
       • Milan 🇮🇹 • Instagram: marikaandgiada • Collab: sorichettigiada@gmail.com
     location: "Italy"
-    followers: 268900
-    engagement: 1541
-    commentsToLikes: 0.007552
+    followers: 264700
+    engagement: 1216
+    commentsToLikes: 0.007445
     id: ck8f8vjo63mkk0j78jjed68rf
     verified: false
-    hashtags: "#euphoria, #summer, #fyp, #foryou"
+    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
   - username: "calis_mata"
     fullname: >-
       Tommaso Mata
     bio: >-
       SEGUIMI📍Milano Atleta Calisthenics Street Gorilla🤸🏼‍♂ Instagram: tommi__cali
     location: "Italy"
-    followers: 7206
-    engagement: 434
-    commentsToLikes: 0.040553
+    followers: 7284
+    engagement: 518
+    commentsToLikes: 0.036633
     id: ckb99ipiuts600j233snevw8j
     verified: false
-    hashtags: "#trend, #fitness, #viral, #neiperte"
-  - username: "gigifarne"
+    hashtags: "#fitness, #workout, #calisthenics, #sport"
+  - username: "eddy_kood"
     fullname: >-
-      gigif_62
+      eddy 
     bio: >-
-      Fitness & Personal Trainer Model over 58 📸 enjoy life Live and let live ❤️ 📬
+      📍 Milan 🇦🇱
     location: "Italy"
-    followers: 2901
-    engagement: 853
-    commentsToLikes: 0.001755
-    id: ckcuzcxtjmqoj0j23nhqxhmtb
+    followers: 2870
+    engagement: 528
+    commentsToLikes: 0.013272
+    id: ckbqudcy2eshv0j23pfj5chxr
     verified: false
-    hashtags: "#personaltrainer, #over58model, #modelagency, #healthylifestyle"
-  - username: "giulia.hostess"
+    hashtags: "#song, #italy, #milan, #viral"
+  - username: "schifezzeschifose"
     fullname: >-
-      giulia4
+      fabiocognome
+    bio: >-
+      🇮🇹 Milano 🇮🇹 🍩 Tanto cibo 🧁 🎊 Tanto divertimento 🎉
+    location: "Italy"
+    followers: 19200
+    engagement: 1045
+    commentsToLikes: 0.032573
+    id: ckai7hz8n09ew0i78gfr7j0q3
+    verified: false
+    hashtags: "#nutella, #quarantena, #party, #smarties"
+  - username: "gidigiuliaa"
+    fullname: >-
+      gidigiuliaa
     bio: >-
       📍 Milan, Italy 🎂 21 years old ✈️ Love my job 🍏 Fitness addicted
     location: "Italy"
-    followers: 11602
-    engagement: 494
-    commentsToLikes: 0.016377
+    followers: 14300
+    engagement: 597
+    commentsToLikes: 0.016082
     id: ckai3faejjmm00i78t3sfk6g8
     verified: false
-    hashtags: "#fitnessgirl, #doubleyourimpact, #foryou, #fitness"
+    hashtags: "#fitness, #doubleyourimpact, #girlpower, #girls"
+  - username: "birbabelle"
+    fullname: >-
+      Alis Scarinci
+    bio: >-
+      👸Alis 🇮🇹 Milano 👩‍🎓 Scienze Motorie 🤸‍♀️ Fitness Instructor
+    location: "Italy"
+    followers: 93900
+    engagement: 437
+    commentsToLikes: 0.012739
+    id: ck9f9csc368yt0j78vb4njeaq
+    verified: false
+    hashtags: "#vitadicoppiacomedy, #maritoemogliecomedy, #maritoemoglie, #italiangirl"
+  - username: "behrangyoga"
+    fullname: >-
+      Behrang Danesh Eshraghi 
+    bio: >-
+      www.behrangyoga.com
+    location: "Italy"
+    followers: 709200
+    engagement: 381
+    commentsToLikes: 0.018686
+    id: ck9by4cmwmxn30j78emf4rq14
+    verified: true
+    hashtags: "#tiktokitaliasport, #yogatime, #roma, #tiktokyoga"
 ---

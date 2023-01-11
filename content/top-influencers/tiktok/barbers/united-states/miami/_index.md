@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Miami In 2022
+title: Top 10 Barbers TikTok Influencers In Miami In 2023
 description: >-
-  Find top barbers TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #barber #miami #foryou.
+  Find top barbers TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #barber #funny.
 platform: TikTok
-hits: 13
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 13 TikTok influencers like this in Miami, United States for you to connect with.
+hits: 12
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
   - username: "errod_"
     fullname: >-
@@ -13,24 +13,12 @@ profiles:
     bio: >-
       Miami Barber Follow my Instagram @Errod_cutz Stupid comments get you blocked 🗣
     location: "United States"
-    followers: 78300
-    engagement: 824
-    commentsToLikes: 0.009678
+    followers: 84400
+    engagement: 939
+    commentsToLikes: 0.042900
     id: ckdt4dsyxsrw10j23r2rthssd
     verified: false
-    hashtags: "#miami, #wynwood, #art, #braids"
-  - username: "dailymedicated420"
-    fullname: >-
-      DailyMedicated420
-    bio: >-
-      🤴💜💚👸 YouTube @DailyMedicated420 Giveaway at 5K!!! Follow and stay tuned.
-    location: "United States"
-    followers: 4049
-    engagement: 667
-    commentsToLikes: 0.070685
-    id: ckb9j62gla4io0j23x5u19ijr
-    verified: false
-    hashtags: "#viral, #seeds, #hydro, #growersoftiktok"
+    hashtags: "#art, #fyp, #miami, #barber"
   - username: "amazingchevy"
     fullname: >-
       amazingchevy
@@ -38,93 +26,105 @@ profiles:
       💈 Amazing Styles Studio 💈 📍 18901 Sw 106 ave Suite 105📍 🏆18x Trophy’s 🏆
     location: "United States"
     followers: 10100
-    engagement: 655
-    commentsToLikes: 0.025945
+    engagement: 644
+    commentsToLikes: 0.028479
     id: ck81s0srzp6vq0j78c4vmoszd
     verified: false
-    hashtags: "#thebarbercartel, #foryou, #fyp, #barber"
-  - username: "keev.vids"
+    hashtags: "#vairal, #foryourpage, #foryoupge, #viral"
+  - username: "tpindell"
     fullname: >-
-      Kevinsito
+      tpindell
     bio: >-
-      Cuban American 🇨🇺🇺🇸 IG - Keev.vids 🔥😂
+      Maryland ✈️ Florida. ⬇️ YES, I’m On YouTube ⬇️
     location: "United States"
-    followers: 188100
-    engagement: 1269
-    commentsToLikes: 0.011573
-    id: cka9rh8q6947p0i78t57u5rsx
+    followers: 228600
+    engagement: 1330
+    commentsToLikes: 0.013106
+    id: ckbah2h4b8z4t0j23nt9zsq84
     verified: false
-    hashtags: "#cuban, #miami, #fyp, #target"
-  - username: "elgalvanjr"
+    hashtags: "#toxic, #relationship, #xyzcba, #fy"
+  - username: "legr.7"
     fullname: >-
-      ElGalvanJr
+      L.E 🦎🐕🐺🐠
     bio: >-
-      Twitter n IG Elgalvanjr.. Waco/Dallas
+      Solo un cubanito 🇨🇺 pasando El tiempo .😜
     location: "United States"
-    followers: 6494
-    engagement: 527
-    commentsToLikes: 0.012467
-    id: ck92t6f4lgljm0j78qcfyptpx
+    followers: 8878
+    engagement: 954
+    commentsToLikes: 0.019684
+    id: ckan0m5bgr9xe0i78mw5mg2y8
     verified: false
-    hashtags: "#wacotx, #latino, #latinos, #dallastexas"
+    hashtags: "#gym, #quickrecipes, #parati, #paratii"
   - username: "ron_the_barber66"
     fullname: >-
       Ron_the_barber66
     bio: >-
       Instagram- Ron_the_barber66
     location: "United States"
-    followers: 5010
-    engagement: 400
-    commentsToLikes: 0.047494
+    followers: 5087
+    engagement: 458
+    commentsToLikes: 0.029461
     id: ckb99ib20tql20j23tdgcx8xl
     verified: false
-    hashtags: "#barbershop, #covid19, #barber, #blacklivesmatter"
+    hashtags: "#selfcut, #rollsroyce, #nyc, #gucci"
+  - username: "pjabreu"
+    fullname: >-
+      PEDRO ABREU 💈
+    bio: >-
+      🔸 Like , Comment & Follow ! 🔸 🙏🏽 Thank You In Advance
+    location: "United States"
+    followers: 33700
+    engagement: 577
+    commentsToLikes: 0.014696
+    id: ckbf93j5tzss20j23jyck7ouy
+    verified: false
+    hashtags: "#haircut, #foryourpage, #mens, #fl"
+  - username: "oliviayjorge19"
+    fullname: >-
+      OliviayJorge19
+    bio: >-
+      Pareja feliz 😁 Papas de ✌🏻👧👧 Síguenos Instagram
+    location: "United States"
+    followers: 12100
+    engagement: 364
+    commentsToLikes: 0.027992
+    id: ckcdr5w4kcmgj0j23pcteivq3
+    verified: false
+    hashtags: "#latino, #anuestroestilo, #miami, #nivel100"
+  - username: "dosayeli"
+    fullname: >-
+      DOSAYELI
+    bio: >-
+      🗣 do~say~eli
+    location: "United States"
+    followers: 18200
+    engagement: 1539
+    commentsToLikes: 0.051443
+    id: ckb9hm8yi7cpp0j23nqbqsa02
+    verified: false
+    hashtags: "#sza, #pupperonishuffle, #welcome2021, #greenscreen"
   - username: "anye_44"
     fullname: >-
       Anyeuri Castillo
     bio: >-
-      AC🇩🇴 22 ATLANTA 6’7 hooper
+      AC🇩🇴 23 ATLANTA 6’7 hooper
     location: "United States"
-    followers: 6014
-    engagement: 1050
-    commentsToLikes: 0.045960
+    followers: 8759
+    engagement: 1309
+    commentsToLikes: 0.055505
     id: ck8vw2e8hn6790j786frrxyj4
     verified: false
-    hashtags: "#bored, #cuarentena, #ultrasmoothmoves, #sofunny"
-  - username: "parrkerrrrr"
+    hashtags: "#foryoupage, #dominican, #atlanta, #playwithlife"
+  - username: "randyiscomedy"
     fullname: >-
-      White Chocolate 2.0
+      Randyy
     bio: >-
-      Account Got Banned @250k & 2.7M Likes Snap-e_lanosa8 100K? FLORIDA🏝
+      NY🗽 I 🖤 To Make People Laugh IG:@randyiscomedy 👻:randy-boogie
     location: "United States"
-    followers: 123300
-    engagement: 1045
-    commentsToLikes: 0.031775
-    id: ckd06z5pfah8h0j23yyhvtfgf
+    followers: 531400
+    engagement: 2293
+    commentsToLikes: 0.011614
+    id: cka608ljmq51u0i785bd1l70f
     verified: false
-    hashtags: "#motivation, #halloween, #fyp, #foryoupage"
-  - username: "wavythegreat"
-    fullname: >-
-      WavySoOfficial🥵🌊
-    bio: >-
-      🇧🇸🌈 Cashapp: $BegreatWavy Cheap Promos Dm me on IG!
-    location: "United States"
-    followers: 115200
-    engagement: 1382
-    commentsToLikes: 0.014628
-    id: ckad4db37ovbp0i78b5jj8g3y
-    verified: false
-    hashtags: "#thecoldeswater, #haircut, #fyp, #florida"
-  - username: "tinogoku"
-    fullname: >-
-      TinoGoKu
-    bio: >-
-      TINOGOKU ON ALL SOCIAL MEDIA PLATFORMS Chicago📍 | 18
-    location: "United States"
-    followers: 37400
-    engagement: 1051
-    commentsToLikes: 0.012878
-    id: ckb10j9omp1ja0j23ubvescma
-    verified: false
-    hashtags: "#tinogoku, #crazy, #speaker, #lilkeev"
+    hashtags: "#facts, #viral, #comedy, #fyp"
 ---

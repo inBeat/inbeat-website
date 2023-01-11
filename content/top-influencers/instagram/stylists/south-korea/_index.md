@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists Instagram Influencers In South Korea In 2022
+title: Top 10 Stylists Instagram Influencers In South Korea In 2023
 description: >-
-  Find top stylists Instagram influencers in South Korea in 2022. Most popular hashtags: #life #12 #wkorea.
+  Find top stylists Instagram influencers in South Korea in 2023. Most popular hashtags: #celeb #turbantuesday #valentino.
 platform: Instagram
-hits: 27
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 27 Instagram influencers like this in South Korea for you to connect with.
+hits: 25
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in South Korea for you to work with.
 profiles:
   - username: "hyeseo_n2"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Stylist👗 hye seon
     location: "South Korea"
-    followers: 19307
-    engagement: 1522
-    commentsToLikes: 0.015677
+    followers: 22202
+    engagement: 1690
+    commentsToLikes: 0.016624
     id: ck5bvkssrjus20i11i5ooo7ey
     verified: false
-    hashtags: "#findkapoor, #manila, #lovepome, #lovepoem"
-  - username: "taeebal"
-    fullname: >-
-      곽태용
-    bio: >-
-      ▪️Korean National Sport Univ🇰🇷 ▪️H-STYLIST 3기 ▪️LIFEPLUS 앰배서더 5기 ▪️ @lloopy_ 🔺데이트 어플 사용 안합니다. 도용 하지 마세요
-    location: "South Korea"
-    followers: 44106
-    engagement: 769
-    commentsToLikes: 0.007672
-    id: ckap62x6be5ry0i78qupei18j
-    verified: false
-    hashtags: "#lifeplus, #k2, #2020, #life"
+    hashtags: "#iu, #herimageherstory, #celebrity, #bongkok"
   - username: "wwwwwwn88"
     fullname: >-
       
     bio: >-
       노주희 STYLIST👗 듀이듀이
     location: "South Korea"
-    followers: 58524
-    engagement: 534
-    commentsToLikes: 0.009495
+    followers: 62770
+    engagement: 910
+    commentsToLikes: 0.011770
     id: ck5bvkrotjuoy0i119ffwajwd
     verified: false
-    hashtags: "#atti, #deark, #primaute, #bbyb"
+    hashtags: "#rerhee, #celeb, #youaremycelebrity, #gqkorea"
+  - username: "iamladymandy"
+    fullname: >-
+      Lady Mandy
+    bio: >-
+      Style artist: Personal |fashion Stylist |Fashion pop culture | #theladystyles Subscribe to my new cooking show with Mr O 😇😇👇🏾
+    location: "South Korea"
+    followers: 45280
+    engagement: 510
+    commentsToLikes: 0.010469
+    id: ck5zs65pyxwjj0i14lr32x9jn
+    verified: false
+    hashtags: "#bodylove, #turbantuesday, #theladystyles, #igkenya"
   - username: "pvrkjiyeon"
     fullname: >-
       Jiyeon Park
     bio: >-
       STYLIST wealltry01@gmail.com
     location: "South Korea"
-    followers: 15874
-    engagement: 472
-    commentsToLikes: 0.008142
+    followers: 16565
+    engagement: 385
+    commentsToLikes: 0.009412
     id: ck0w3zluiw2rh0i19xuak7tal
     verified: false
-    hashtags: "#lelabo, #goldengoose, #dadstar, #passiton"
+    hashtags: ""
+  - username: "raymondchae"
+    fullname: >-
+      raymondchae
+    bio: >-
+      Stylist/Creative director/Raymond Chae 채한석. www.raymondchae.com Editor in chief @fassionmag www.fassionmag.com
+    location: "South Korea"
+    followers: 35747
+    engagement: 83
+    commentsToLikes: 0.022912
+    id: ck0tugv8u73lv0i19fse8kkyx
+    verified: true
+    hashtags: "#iwillsurvive, #salonpresentation, #soybeanoilprinted, #placemat1234"
+  - username: "cheristyle_"
+    fullname: >-
+      CHERI 챌미
+    bio: >-
+      Art. creator 🇰🇷🇬🇧 stylist in @styledbycherinara cherimyun@gmail.com
+    location: "South Korea"
+    followers: 206444
+    engagement: 319
+    commentsToLikes: 0.008892
+    id: ck0tyckysmfj20i19x7yd6b16
+    verified: false
+    hashtags: "#onitsukatiger, #dentigre, #dentigretaichi, #jimmychoo"
+  - username: "yomizyul"
+    fullname: >-
+      yomi ヨミ/ 요미
+    bio: >-
+      @yomiboom_official Designer / Stylist / Buyer Connect DM🇨🇳🇯🇵🇰🇷
+    location: "South Korea"
+    followers: 90466
+    engagement: 161
+    commentsToLikes: 0.003217
+    id: ck5zm9v0jm68l0i149c6mzma4
+    verified: false
+    hashtags: "#helloween, #offwhitedunk"
   - username: "f22lmin"
     fullname: >-
       Mingyu Lee
     bio: >-
       fashion stylist @firestudio_official
     location: "South Korea"
-    followers: 6835
-    engagement: 443
-    commentsToLikes: 0.030231
+    followers: 7456
+    engagement: 408
+    commentsToLikes: 0.035587
     id: ck0u0ugd5utnk0i19gkxhc15v
     verified: false
-    hashtags: "#portraitreport, #monstax, #loveyourw, #wkorea"
-  - username: "ga._.0611"
-    fullname: >-
-      오 영록
-    bio: >-
-      ZARA Fashion stylist 뒤죽박죽 피드💦
-    location: "South Korea"
-    followers: 12432
-    engagement: 276
-    commentsToLikes: 0.029083
-    id: ck9woo8ea5wm80j78x6sp0sk0
-    verified: false
-    hashtags: ""
-  - username: "yungblueboy"
-    fullname: >-
-      Sangwook PARK
-    bio: >-
-      STYLIST | 3000 wealltry01@gmail.com
-    location: "South Korea"
-    followers: 19683
-    engagement: 496
-    commentsToLikes: 0.011780
-    id: ck0w3zqxuw2zf0i19lo4xksqq
-    verified: false
-    hashtags: ""
+    hashtags: "#sanghunlee, #berluti, #driesvannoten, #andriyskrynnyk"
   - username: "wwwseoyun"
     fullname: >-
-      헤어디자이너 서윤 멥시/MEPCI 대표원장
+      멥시헤어디자이너 서윤 /MEPCI 대표원장
     bio: >-
-      hair stylist MEPCI대표 청담동31~6 📞02 514 7858 @mepci @mepci_wedding
+      hair stylist MEPCI대표 신사동627-14📞02 514 7858 @mepci @mepci_wedding
     location: "South Korea"
-    followers: 17765
-    engagement: 526
-    commentsToLikes: 0.008026
+    followers: 17797
+    engagement: 420
+    commentsToLikes: 0.008144
     id: ck5hec5nas5dr0i11amhxg93a
     verified: false
-    hashtags: "#ohmygirl, #makeup, #hair, #yooa"
-  - username: "naras._"
+    hashtags: "#hair, #mepci, #makeup, #ohmygirl"
+  - username: "erikawfong"
     fullname: >-
-      김나라 NARA
+      Erika Fong
     bio: >-
-      Openly Queer🏳️‍🌈 she/her Art & stylist ignameisnaras@gmail.com 🤍 Styling work @styledbycherinara
+      Korean | Chinese | British Creative Director | Stylist | Actor Represented by Hg5 Entertainment Founder @dewystone
     location: "South Korea"
-    followers: 195838
-    engagement: 445
-    commentsToLikes: 0.006738
-    id: ck14jhgekkd7l0i19ho03t184
+    followers: 45387
+    engagement: 214
+    commentsToLikes: 0.028748
+    id: ckap2w55u0krw0i78fdt1t7pv
     verified: false
-    hashtags: "#womanizerliberty, #womanizerpremium, #byredo, #byredocolour"
-  - username: "iamladymandy"
-    fullname: >-
-      Lady Mandy
-    bio: >-
-      Style artist: Personal |fashion Stylist |Fashion pop culture | #theladystyles Sharing a moment with you , one fabulously stylish outfit at a time.
-    location: "South Korea"
-    followers: 30035
-    engagement: 526
-    commentsToLikes: 0.023493
-    id: ck5zs65pyxwjj0i14lr32x9jn
-    verified: false
-    hashtags: "#eatout, #buykenyabuildkenya, #pyjamaparty, #stylist"
+    hashtags: ""
 ---

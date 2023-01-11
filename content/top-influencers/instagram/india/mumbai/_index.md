@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Mumbai In 2022
+title: Top 10 Instagram Influencers In Mumbai In 2023
 description: >-
-  Find top Instagram influencers in Mumbai in 2022. Most popular hashtags: #fashion #mumbai #style #photography.
+  Find top Instagram influencers in Mumbai in 2023. Most popular hashtags: #explore #reelkarofeelkaro #trendingreels #streetstyle.
 platform: Instagram
-hits: 5058
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 5058 Instagram influencers like this in Mumbai, India for you to contact.
+hits: 3137
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 3137 Instagram influencers like this in Mumbai, India for you to connect with.
 profiles:
-  - username: "awara_ho0"
+  - username: "rohittt_09_"
     fullname: >-
-      Ｖｉｎａｙａｋ Ｊａｄｈａｖ
+      𝐑𝐨𝐡𝐢𝐭 𝐙𝐢𝐧𝐣𝐮𝐫𝐤𝐞 ~ 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧𝐛𝐨𝐢 💫
     bio: >-
-      MUMBAi
+      • Fashion • Lifestyle • Video Creator 📍Surat ➰ Mumbai #reactionboi • YouTube : Rohit Zinjurke ( 35 Lakh Subscribers)
     location: "India"
-    followers: 2608
-    engagement: 1414
-    commentsToLikes: 0.097460
-    id: ck6u0kep3g7ob0j7131wgrf0m
+    followers: 24801559
+    engagement: 537
+    commentsToLikes: 0.009176
+    id: ck8tc6k3dygnd0j783tc47cg7
     verified: false
-    hashtags: "#anotherelement, #spi, #maibhisadakchap, #indiaclicks"
-  - username: "allthingspridee"
+    hashtags: "#fifaworldcup, #tvf, #amazonminitv, #watchnow"
+  - username: "the_indian_messieurs"
     fullname: >-
-      Priya Desai
+      Shivam Gupta
     bio: >-
-      All Things Priya Desai Finance Consultant with a vivid personality who loves cute things and is a child at heart 📍Navi Mumbai
+      💡 Fashion | Lifestyle | Travel 👔 NIFT | Content Creator & Designer 📩 DM/Mail To Collaborate 📍 Delhi NCR | Mumbai
     location: "India"
-    followers: 5528
-    engagement: 1862
-    commentsToLikes: 0.101110
-    id: ck8t74t5yfnbs0j78alab3jwe
+    followers: 283319
+    engagement: 432
+    commentsToLikes: 0.011731
+    id: ck6tmcgr07l2x0j71tc2tt54p
     verified: false
-    hashtags: "#gardenbythebay, #girltraveller, #bird, #travelgirl"
-  - username: "amirsiddiqui786"
+    hashtags: "#hairstylemen, #menshairstyle, #traditionalwear, #bloggerstyle"
+  - username: "mostlysane"
     fullname: >-
-      TEAMNAWAB
+      Prajakta Koli
     bio: >-
-      Lala With Big Dreams 😇 • Mumbai #teamnawab 👑 Snapchat : teamnawab786 Bade Miya To @siddiquifaizal RedBull at @whizzmark 💌
+      YouTuber | Blogger | Actor | Mess-er-up-er Mumbai, India Blog - MostlySane.in
     location: "India"
-    followers: 780532
-    engagement: 710
-    commentsToLikes: 0.036874
-    id: ck15ph4j9xup80i19w9heb69l
+    followers: 7338137
+    engagement: 511
+    commentsToLikes: 0.001446
+    id: ck0ttsfgd44nn0i19x8fgycny
     verified: true
-    hashtags: "#keepsupporting, #kbye, #amirsiddiqui, #fashion"
-  - username: "ianshpandit"
+    hashtags: "#realtalktuesday, #feedingindiaconcert, #16days, #notoviolence"
+  - username: "ruhaaneehiran"
     fullname: >-
-      Ansh Pandit
+      Ru
     bio: >-
-      Ghaziabad, Mumbai. Email for Buisness queries & promotions. Josh link 👇
+      here for the free stuff minimally maximal Mumbai Email for work
     location: "India"
-    followers: 576362
-    engagement: 838
-    commentsToLikes: 0.021200
-    id: ck0w4c4gdxudj0i1999f97tlg
+    followers: 34956
+    engagement: 656
+    commentsToLikes: 0.023760
+    id: ck6ueilmzr53b0j71b5bnnm1e
     verified: false
-    hashtags: "#shayari, #instagood, #photography, #instagram"
-  - username: "namitkhanna_official"
+    hashtags: "#streetstyle, #womenswear, #traffygirls, #pauseonline"
+  - username: "juhipimple_"
     fullname: >-
-      Namit khanna 🇮🇳
+      Dr. Juhi Pimple 🦄
     bio: >-
-      🔹Actor🔹Model🔹Photographer 🔹Traveller🔹Personal blog🔹Sanjivani 🔹YPNTKH 🔹Twisted 🔹Mumbai 🔹Delhi 📪 namit_khanna@hotmail.com
+      Livin’ a little ✨ 🐾 Dentist Fashion•Lifestyle•Travel 📍Pune/Mumbai DM for paid shoots/collaboration 📧: juhiipimple@gmail.com
     location: "India"
-    followers: 190653
-    engagement: 729
-    commentsToLikes: 0.024866
-    id: ck6tolnsnerl00j71asdkrzvo
+    followers: 104209
+    engagement: 542
+    commentsToLikes: 0.017616
+    id: ck0vy0e781mao0i19thhy8ss7
+    verified: false
+    hashtags: "#latestest, #danielwellington, #greatest, #stylehashtags"
+  - username: "ankitachhetri25"
+    fullname: >-
+      Ankita Chhetri
+    bio: >-
+      📍 - Mumbai || London guilty pleasure- love making filmy reels 👀 🎓 Kingston University, London Content Creator @nofiltr.group
+    location: "India"
+    followers: 1778341
+    engagement: 447
+    commentsToLikes: 0.006101
+    id: ck0vvpg4cq6340i19y2x2e50v
+    verified: false
+    hashtags: "#amazonindia, #ankitachhetri, #wardroberefreshsale, #amazon"
+  - username: "ashi_khanna"
+    fullname: >-
+      Ashi Khanna
+    bio: >-
+      By grace through faith 💫 📍 Delhi | Mumbai •Content Creator @nofiltr.group
+    location: "India"
+    followers: 1719891
+    engagement: 507
+    commentsToLikes: 0.007332
+    id: ck137fu6bbbcl0i19im8t5irs
+    verified: false
+    hashtags: "#deepikapadukone, #travelwithak, #wowfromwithin, #82exmeta"
+  - username: "narenphotography"
+    fullname: >-
+      Narendra Raj 🇮🇳 | Digital creator |
+    bio: >-
+      Photo - Film 👨🏻‍🎓 IIT Guwahati 📍Delhi , Mumbai ✉️ Mail for Projects / Collaboration YouTube-90k+ Family ⬇️
+    location: "India"
+    followers: 120375
+    engagement: 417
+    commentsToLikes: 0.015124
+    id: ck9wolz485p4r0j780ao7voct
+    verified: false
+    hashtags: "#travelreels, #photooftheday, #narendraraj, #pursuitofportraits"
+  - username: "thefitvogue"
+    fullname: >-
+      Yash Pal Singh
+    bio: >-
+      ▪️ : Menswear | Lifestyle | Fitness 📩 : thefitvogue@gmail.com 👻 : thefitvogue 📍 : Mumbai / Delhi 🇮🇳 Dm / Email for Collaboration⤵️ Living the dream…
+    location: "India"
+    followers: 106636
+    engagement: 632
+    commentsToLikes: 0.014788
+    id: ck6uevdl2takk0j71845dh2us
+    verified: false
+    hashtags: "#styling, #thefitvogue, #fashion, #explore"
+  - username: "siddharthajoshi"
+    fullname: >-
+      Siddhartha Joshi
+    bio: >-
+      A Traveller Seeking Unique & Sustainable Travel Experiences 📍 Bangalore | Mumbai | Goa ⬇️ SUBSCRIBE to my YouTube channel here ⬇️
+    location: "India"
+    followers: 373233
+    engagement: 495
+    commentsToLikes: 0.012584
+    id: ck137z19adpkx0i19der9dd8b
     verified: true
-    hashtags: "#namitkhannaphotography, #shotoniphone, #selfportrait, #memories"
-  - username: "unnati.unfiltered"
-    fullname: >-
-      Unnati
-    bio: >-
-      Vegetarian Food lover and a Fashion enthusiast who wants to travel the world Mumbai justunnati@gmail.com
-    location: "India"
-    followers: 6359
-    engagement: 982
-    commentsToLikes: 0.544399
-    id: ck9hcly99lylf0j78iml7cn9b
-    verified: false
-    hashtags: "#munchymumbai, #mumbaimerijaan, #chutney, #kolkata"
-  - username: "alinarai07"
-    fullname: >-
-      Alina Rai
-    bio: >-
-      Mumbai Official Account alinarai07@hotmail.com
-    location: "India"
-    followers: 118834
-    engagement: 680
-    commentsToLikes: 0.027226
-    id: ck0ubsns3f9tl0i190j8sn7ux
-    verified: false
-    hashtags: "#alinarai, #india, #actress, #inspiration"
-  - username: "kimaayasharmaa"
-    fullname: >-
-      KIMAAYA SHARMA OFFICIAL
-    bio: >-
-      🎂1st October 👰🏼FASHION / LIFESTYLE / BEAUTY / 📍PUNE | MUMBAI 📱𝑭𝒃,Roposo,👻, 𝑻𝒘𝒊𝒕𝒕𝒆𝒓 - @kimaayasharmaa 📩 DM for collaboration👇🏻
-    location: "India"
-    followers: 214842
-    engagement: 786
-    commentsToLikes: 0.023093
-    id: ck15rqrih986s0i19pta2vsvw
-    verified: false
-    hashtags: "#influencer, #puneblogger, #candid, #digitekmobilegimbal"
-  - username: "karekarchirag_"
-    fullname: >-
-      ♠️CHIRAG KAREKAR♠️
-    bio: >-
-      OFFICAL ACCOUNT♠️ 17/ Mumbai|India •Dancer• Influencer• Creator |DM/ MAIL FOR PAID PROMOTIONS AND COLLAB| <Managed By: @mahgram_media_networks >
-    location: "India"
-    followers: 13239
-    engagement: 6762
-    commentsToLikes: 0.042649
-    id: ck9we74iiix3t0j78wzgalb20
-    verified: false
-    hashtags: "#casualstyle, #jeans, #jaw, #shirt"
-  - username: "dark_visionn"
-    fullname: >-
-      Rishikesh Shewale
-    bio: >-
-      DM TO BOOK A SHOOT ! IN, Mumbai
-    location: "India"
-    followers: 2447
-    engagement: 2501
-    commentsToLikes: 0.120669
-    id: ck5bxlv3inyws0i114pjjvnc8
-    verified: false
-    hashtags: "#portrais, #photohunted, #portraitmode, #pursuitofportraits"
+    hashtags: "#rajasthan, #hindiquotes, #iphone14promax, #madhyapradesh"
 ---

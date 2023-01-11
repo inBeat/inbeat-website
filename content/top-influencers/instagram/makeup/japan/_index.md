@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Japan In 2022
+title: Top 10 Makeup Instagram Influencers In Japan In 2023
 description: >-
-  Find top makeup Instagram influencers in Japan in 2022. Most popular hashtags: #grunge #alternativefashion #kawaii.
+  Find top makeup Instagram influencers in Japan in 2023. Most popular hashtags: #makeup #makeupvideos #makeuplover.
 platform: Instagram
-hits: 390
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 390 Instagram influencers like this in Japan for you to contact.
+hits: 311
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 311 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "kahlaa._"
+  - username: "gianna_karamani"
     fullname: >-
-      Kah
+      Gianna Karamani
     bio: >-
-      Girl Boss🦋 DSU'21 Makeup Artist @beatbykah Certified Lash Tech @bbk_lashes https://linktr.ee/Beatbykah
+      MAKEUP ▪︎ REVIEWS ▪︎ MOMLIFE 📧 giannakaramanh@gmail.com YOUTUBE CHANNEL
     location: "Japan"
-    followers: 5713
-    engagement: 660
-    commentsToLikes: 0.114016
-    id: ckf5vqtkopkuh0j233nmsa7e5
+    followers: 24861
+    engagement: 964
+    commentsToLikes: 0.103259
+    id: ck5q3zuern3x80i11x51bgxo8
     verified: false
-    hashtags: "#21, #phillymua, #coveredgirl, #checkuponitchallenge"
+    hashtags: "#ootd, #stayinghome, #giannakaramani, #cozy"
   - username: "evilchocobunny"
     fullname: >-
       Jojo
     bio: >-
       Jojo |10% sugar 💖90% spice 👻| Fashion, makeup & life in Tokyo📍 Lived 22 years in 🇳🇱 now 4 years 🇯🇵 Music enthusiast 🎶 Aspiring 🎤+🎸
     location: "Japan"
-    followers: 22978
-    engagement: 448
-    commentsToLikes: 0.039815
+    followers: 22752
+    engagement: 456
+    commentsToLikes: 0.041350
     id: ck0w6r3px9w7g0i19xlwqqoot
     verified: false
-    hashtags: "#rogueandwolf, #halloween, #whatiworetoday, #witch"
-  - username: "im.a.kaos"
+    hashtags: "#goth, #disturbia, #altfashion, #egirl"
+  - username: "paranatka"
     fullname: >-
-      🌸  Naomi   K o n d o  🌸
+      NATALIA ZAJĄC 🐰
     bio: >-
-      BACKUP ACCOUNT. Follow 🖤 ➡️ @nao.pink.kaos 🖤 Let me make magic with your photos! 💌 DM!! Dreamy photo editions | Digital artist | Fashion, Makeup ❤️.
+      makeup & skincare tutorials 🌸✨ 💗 tag me: #paranatka 📧 nataliaannazajac@gmail.com 💄 2nd account:
     location: "Japan"
-    followers: 19184
-    engagement: 420
-    commentsToLikes: 0.068011
-    id: ck14j2fcmiah30i19pzkrs8h4
+    followers: 31714
+    engagement: 389
+    commentsToLikes: 0.046268
+    id: ck1390amviwc30i19iup7yh2g
     verified: false
-    hashtags: "#adobephotoshop, #artstation, #photoedition, #artstationhq"
+    hashtags: "#skincareproducts, #colourpopcosmetics, #dewyskin, #glossylips"
   - username: "yuuri_fukuse"
     fullname: >-
       MARILYN YUURI FUKUSE
     bio: >-
       Makeup YouTuber MARILYN FUKUSE YUURI マリリン公式グッズはこちらから↓
     location: "Japan"
-    followers: 124297
-    engagement: 340
-    commentsToLikes: 0.007334
+    followers: 129287
+    engagement: 318
+    commentsToLikes: 0.007463
     id: ck0vuzdo8mu6a0i19qhlt8za8
     verified: true
-    hashtags: "#christianlouboutin, #pr, #demonslayer"
+    hashtags: "#sixplus, #loft, #happybirthday"
+  - username: "kubraemirdogan"
+    fullname: >-
+      KÜBRA EMİRDOĞAN
+    bio: >-
+      🚩ADANA/Ziyapaşa 🗺 🚩MERSİN/Mezitli ⚜Kübra Emirdoğan & Mikail Ünal Makeup Studio 📲 0 (553 730 41 71 ) ⚜️📩 kubra_emirdogan@hotmail.com Whatsapp🔰
+    location: "Japan"
+    followers: 43437
+    engagement: 124
+    commentsToLikes: 0.020879
+    id: ck14i47ildk6y0i19qteuoi5b
+    verified: false
+    hashtags: "#makeuplover, #mersin, #adana, #makeup"
   - username: "nakajima_ayano"
     fullname: >-
       中島絢乃
     bio: >-
       Japanese blogger,model💘﻿ ⚠️仕事以外のDM直接お返事しません🙅‍♀️﻿ コメントへ✏️﻿ ．﻿ DisneyParks🇭🇰🇨🇳🇺🇸🇯🇵﻿ 中島姉妹👭#disneysisters_jp ﻿ ．﻿ travel/beauty/makeup movie/fashion/anime
     location: "Japan"
-    followers: 47076
-    engagement: 278
-    commentsToLikes: 0.013921
+    followers: 47486
+    engagement: 206
+    commentsToLikes: 0.011695
     id: ckap1ua7ew6ht0i780qid86re
     verified: false
-    hashtags: "#156cm, #disneysisters, #mickeythetrueoriginal, #celine"
+    hashtags: "#ohmycafe, #inmyroombyayanon, #156cm, #mignondebijoux"
+  - username: "juniwise"
+    fullname: >-
+      Juni Wise
+    bio: >-
+      フリーランスメイクアップアーティスト Tokyo-based makeup artist - 📍Tokyo, Japan 📩 juniwise@gmail.com - 👽 @titipjunidong
+    location: "Japan"
+    followers: 24237
+    engagement: 377
+    commentsToLikes: 0.003314
+    id: ck5cb54wfer570i118vhylzb5
+    verified: false
+    hashtags: ""
   - username: "nurfatinzakki"
     fullname: >-
       Nur Fatin Zakki
     bio: >-
       I have a mild obsession with makeup stuff. The end. 🎥 Youtube : NurFatinZakki ‼️ Watch my latest vid ⤵
     location: "Japan"
-    followers: 49442
-    engagement: 215
-    commentsToLikes: 0.009219
+    followers: 49102
+    engagement: 220
+    commentsToLikes: 0.009006
     id: ck5hlur7ykwcn0i11lw879mdh
     verified: false
-    hashtags: "#hokkaidoshrine, #genghiskhanramen, #celebrateyournoor, #goodvirtuesco"
-  - username: "katsumicos"
+    hashtags: "#celebrateyournoor, #goodvirtuesco"
+  - username: "skyflying_zoo"
     fullname: >-
-      Katsumi :3
+      sky
     bio: >-
-      * Doing cosplay for the fun of it since 09 ❤️ * Your local weeb * Makeup lover🧑🏼‍🎨
+      Welcome to my coloriage gallery🎨Stories is work in progress✍️Hair Makeup artist ‪‪✂︎‬Japanese🇯🇵 Thank you very much for your likes and follow💞🙇🏻‍♀️
     location: "Japan"
-    followers: 64643
-    engagement: 1151
-    commentsToLikes: 0.029151
-    id: ck5zt6y61zuqj0i14086up47q
+    followers: 3314
+    engagement: 1820
+    commentsToLikes: 0.139210
+    id: ck6tll3jh66c90j71ckt06ts0
     verified: false
-    hashtags: "#lolskin, #leaguefanart, #animecosplay, #leagueoflegendsmemes"
+    hashtags: "#creativelly, #polychromos, #leiladuly, #coloringforadults"
   - username: "akiko__endo"
     fullname: >-
       Akiko Endo 遠藤晶子
     bio: >-
       Hatsuko Endo Ginza hair salon/esthetic salon/ bridal hair&makeup/wedding dress/kimono @hatsuko_endo @a_by_hatsukoendo
     location: "Japan"
-    followers: 19716
-    engagement: 281
-    commentsToLikes: 0.010172
+    followers: 19438
+    engagement: 246
+    commentsToLikes: 0.009894
     id: ck8t34o4u1uiy0j789j50b086
     verified: false
-    hashtags: "#cat, #catsofinstagram, #karuizawajapan, #abyhatsukoendo"
-  - username: "hikaru_cho"
-    fullname: >-
-      チョーヒカル Hikaru Cho
-    bio: >-
-      Artist/Painter/Designer/🇨🇳🇯🇵 Currently in NY. *not a MUA(my makeup looks horrible)* DM me for inquiries. Check out my website for more pics💙
-    location: "Japan"
-    followers: 20743
-    engagement: 300
-    commentsToLikes: 0.005481
-    id: ck6ttgvo2ajok0j71kjt8w0dc
-    verified: false
-    hashtags: "#linenewsvision, #bodypaint, #art, #quarantine"
-  - username: "ken_nagasaka"
-    fullname: >-
-      Paulxavier Ken Nagasaka
-    bio: >-
-      Hair stylist and Makeup. Based in Japan. アシスタント募集しております。 work → @hm.ken_nagasaka 🐈　→ @liz_chipie_gram
-    location: "Japan"
-    followers: 7127
-    engagement: 778
-    commentsToLikes: 0.012774
-    id: ck15uk4hfnkjm0i1946mxqimv
-    verified: false
-    hashtags: "#film, #offshot, #hair, #makeup"
+    hashtags: "#dog, #karuizawajapan, #catlover, #egyptianmau"
 ---

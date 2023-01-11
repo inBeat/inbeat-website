@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In United Kingdom In 2022
+title: Top 10 Music TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top music TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryoupage #voiceeffects #foryou.
+  Find top music TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #stitch #duet #foryou.
 platform: TikTok
-hits: 975
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 975 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 949
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 949 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "hbcoolcat"
+  - username: "sahfy_"
     fullname: >-
-      Hannah O'Sullivan 
+      SAHFY
     bio: >-
-      I’m a musically OG 💓 35 makeup cosplay 💓 please drop a like or comment 🐰
+      Music Artist and Dancer 🌴 Spread peace not war🎤❤️ Soca/dancehall lover 🇬🇧
     location: "United Kingdom"
-    followers: 93300
-    engagement: 2004
-    commentsToLikes: 0.102137
-    id: ckbwl7q94407c0j23fqqfvcpw
-    verified: true
-    hashtags: "#makeup, #fyp, #transition, #theshining"
-  - username: "iamtobygrey"
-    fullname: >-
-      Toby Grey
-    bio: >-
-      (She/her) 🎤 I am a singer and songwriter. Pls check out my music below👇💙🌴
-    location: "United Kingdom"
-    followers: 123100
-    engagement: 3298
-    commentsToLikes: 0.051164
-    id: ckd08h31ob5f00j23oqlqkmi3
+    followers: 4987
+    engagement: 2229
+    commentsToLikes: 0.584508
+    id: ckbb5wo6cw3690j23y1712u5r
     verified: false
-    hashtags: "#fyp, #foryou, #tobygreyhair, #foryoupage"
-  - username: "officialicydarabbit"
+    hashtags: "#duet, #bellydance, #sahfy, #waistline"
+  - username: "itsyourboylouis"
+    fullname: >-
+      LOUIS WRIGHT
+    bio: >-
+      UNAPOLOGETICALLY ME LINK FOR MY MUSIC/MERCH BOYS IN PINK OUT NOW!
+    location: "United Kingdom"
+    followers: 438400
+    engagement: 2014
+    commentsToLikes: 0.026243
+    id: ck960m2kkj0600j78zdnwch0e
+    verified: false
+    hashtags: "#duet, #stitch"
+  - username: "that.one.edgy.kid"
+    fullname: >-
+      Mistake
+    bio: >-
+      20/NB Music content: @That_One_Metal_Kid @BritishCommunists member They/Them
+    location: "United Kingdom"
+    followers: 32300
+    engagement: 1869
+    commentsToLikes: 0.042561
+    id: ckcv9w5cyr0n80j23yeszg1tr
+    verified: false
+    hashtags: "#bi, #gay, #nonbinary, #british"
+  - username: "cianducrot"
+    fullname: >-
+      Cian Ducrot 
+    bio: >-
+      🤍🦋 ☆♪:*○・ emotional musical mess
+    location: "United Kingdom"
+    followers: 655200
+    engagement: 1330
+    commentsToLikes: 0.022760
+    id: ck8oui8ndpnzx0j78ajoaywdn
+    verified: true
+    hashtags: "#duet, #maleprivilege, #toxicmasculinity, #stitch"
+  - username: "icydarabbit"
     fullname: >-
       IcyDaRabbit
     bio: >-
       ⬇️⬇️ Listen to my music down below! ⬇️⬇️
     location: "United Kingdom"
-    followers: 77700
-    engagement: 2097
-    commentsToLikes: 0.057760
+    followers: 77300
+    engagement: 1620
+    commentsToLikes: 0.066757
     id: ck8kkzlqp1mpl0j783n35k1ji
     verified: false
-    hashtags: "#rap, #spotify, #lmao, #memes"
-  - username: "sanctuaryvegan"
+    hashtags: "#icydarabbit, #foryou, #music, #stitch"
+  - username: "montaguefs"
     fullname: >-
-      Matthew Sanctuary
+      Monty Stewart
     bio: >-
-      Vegan 🌱 musician 🎵 Following back 💯 songwriter 🔥for @mattyglilwinter
+      23 🇬🇧 Musician 🎤 Let’s hit 150k? Twitch Streamer :🎮 Montagueplays
     location: "United Kingdom"
-    followers: 9066
-    engagement: 1924
-    commentsToLikes: 0.211800
-    id: ckcj5asmo5m4b0j23pedom2ma
+    followers: 103200
+    engagement: 1507
+    commentsToLikes: 0.043940
+    id: ckbb6aoqbwffi0j23caozvsha
     verified: false
-    hashtags: "#youbettheydie, #veganchallenge, #voiceeffects, #vegan"
-  - username: "fullofpith"
+    hashtags: "#uk, #fyp, #alttiktok, #twitch"
+  - username: "deanravenmusic"
     fullname: >-
-      Leo
+      Dean Raven
     bio: >-
-      ♡ Leo, 32, he/they ♡ ☆ art, poetry, music, makeup & spicy opinions ☆
+      Singer/Songwriter 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Click the link to see all my vids and music
     location: "United Kingdom"
-    followers: 25300
-    engagement: 1782
-    commentsToLikes: 0.105389
-    id: ck8nfz4k2u3z80j78i8mklopi
+    followers: 3764
+    engagement: 2413
+    commentsToLikes: 0.312586
+    id: ck8oyzp0p9qgc0j78txftsg0q
     verified: false
-    hashtags: "#knowmyownface, #myfacenofilter, #hethey, #makeupfail"
-  - username: "popbuzz"
+    hashtags: "#sing, #feels, #emotional, #singing"
+  - username: "katekleinworldii"
     fullname: >-
-      PopBuzz
+      KateKleinWorld
     bio: >-
-      ⚡️ memes, music and movie stars ⚡️ 😎 new vids every weekday 😎
+      Music, guitars, skate and more issues.... IG: katekleinworld
     location: "United Kingdom"
-    followers: 281000
-    engagement: 2319
-    commentsToLikes: 0.017614
-    id: ckbbgehwg51k00j23bg0hkjwk
-    verified: true
-    hashtags: "#danielradcliffe, #fanfic, #harrystyles, #robertpattinson"
-  - username: "chloedianamusic"
-    fullname: >-
-      chloedianamusic
-    bio: >-
-      new song ‘Insomnia’ OUT NOW!! & music vid on YouTube
-    location: "United Kingdom"
-    followers: 19100
-    engagement: 2149
-    commentsToLikes: 0.115275
-    id: ck8oze62rbnzs0j78oy55826c
+    followers: 7661
+    engagement: 2188
+    commentsToLikes: 0.086963
+    id: ck8zazcl03i6l0j788flzv9cq
     verified: false
-    hashtags: "#viral, #trend, #featureme, #newmusic"
-  - username: "noah_horne"
+    hashtags: "#tiktoktraditions, #fyp, #foryou, #morehappydenimdance"
+  - username: "onesadsinger"
     fullname: >-
-      Noah Horne 
+      ❤️ Amelia ❤️
     bio: >-
-      🎤 Singer 🎤 ✍️Songwriter✍️ 🎶Harpist🎶 🎭Actor 🎭 Music and petitions in link⬇️
+      🎵Music is my escape🎵 1️⃣5️⃣years old
     location: "United Kingdom"
-    followers: 2712
-    engagement: 2821
-    commentsToLikes: 0.270298
-    id: ckbbg0i154njf0j23qnf92yov
+    followers: 4963
+    engagement: 1912
+    commentsToLikes: 0.078221
+    id: cka6map6n6jpx0i78gbhng80c
     verified: false
-    hashtags: "#harpist, #singer, #lgbt, #harptiktok"
-  - username: "itsjoedavison"
+    hashtags: "#foryoupage, #viral, #sportsdirectreprace, #broadway"
+  - username: "lucansmusically"
     fullname: >-
-      Joe Davison
+      Lucan Firth
     bio: >-
-      🌏Hiii🌏 🥛✨Milkgang✨🥛 💞😝Musical.ly vibes😝💞 I WILL RETURN TO TIKTOK😝😁🥰💞
+      “live with passion,live musical.ly” backup- lucanmusically🤍 #lucanmusers👑💛
     location: "United Kingdom"
-    followers: 206600
-    engagement: 2382
-    commentsToLikes: 0.113391
-    id: ckb96sb5np37n0j23am67wvw0
+    followers: 1100000
+    engagement: 1814
+    commentsToLikes: 0.051287
+    id: ckc8z0s86nqnq0j23bxx9p8u9
     verified: false
-    hashtags: "#milkgang, #fyp, #musicallyvibes, #viral"
-  - username: "edleetunes"
-    fullname: >-
-      EdLee
-    bio: >-
-      Follow me on Instagram ^ Singer/Songwriter 🎵 ⬇️ Check Out My Music ⬇️
-    location: "United Kingdom"
-    followers: 48100
-    engagement: 1973
-    commentsToLikes: 0.075102
-    id: ck9ej7fby14gj0j789n5azzee
-    verified: false
-    hashtags: "#coversongs, #singingvideo, #newmusic, #coversong"
+    hashtags: "#lucanmusers, #bringbackmusically, #foryoupage, #tiktok"
 ---

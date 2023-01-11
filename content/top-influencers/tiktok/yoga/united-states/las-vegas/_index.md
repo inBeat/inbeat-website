@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Las Vegas In 2022
+title: Top 10 Yoga TikTok Influencers In Las Vegas in 2023
 description: >-
-  Find top yoga TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #yoga #duet #foryou.
+  Find top yoga TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #yoga #duet #foryou.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok accounts on inBeat.

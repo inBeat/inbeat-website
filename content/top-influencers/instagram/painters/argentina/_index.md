@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Argentina In 2022
+title: Top 10 Painters Instagram Influencers In Argentina In 2023
 description: >-
-  Find top painters Instagram influencers in Argentina in 2022. Most popular hashtags: #art #arte #artist #love.
+  Find top painters Instagram influencers in Argentina in 2023. Most popular hashtags: #arte #artist #argentina #painter.
 platform: Instagram
-hits: 64
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 64 Instagram influencers like this in Argentina for you to contact.
+hits: 77
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 77 Instagram influencers like this in Argentina for you to contact.
 profiles:
   - username: "facundoquiros"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.114274
     id: ck5c7cxnk7aqn0i114x8997p1
     verified: false
-    hashtags: "#naked, #model, #bodybuilding, #nudephotography"
+    hashtags: "#argentina, #briefs, #training, #jean"
   - username: "bru.saa"
     fullname: >-
       Sabrina • 🌿
     bio: >-
-      Tatuadora en Casa Indeleble 🖤 La Plata . Argentina 🇦🇷 . @casaindeleble
+      Tatuadora en ✖️Casa Indeleble 🖤 La Plata . Argentina 🇦🇷 . @casaindeleble
     location: "Argentina"
-    followers: 9425
-    engagement: 908
-    commentsToLikes: 0.037938
+    followers: 9698
+    engagement: 883
+    commentsToLikes: 0.035060
     id: ck5znsosbp2y10i14sfq9ir4d
     verified: false
-    hashtags: "#dogsofinstagram, #neotradicionaltattoo, #chrysanthemums, #colors"
+    hashtags: "#neotradeu, #neotrad, #flowersofinstagram, #flores"
   - username: "dani_dossantoss"
     fullname: >-
       Daniela Dos Santos
     bio: >-
-      🥀𝓥𝓲𝓿𝓸 𝓹𝓪𝓻𝓪 𝓒𝓻𝓮𝓪𝓻🥀 🌈 Mi Arte @dani_dossart 🎙Podcast: #danielogia 💗YouTube: dani dos santos 🎬 Actriz • Ilustradora 🎨 🔮 Diseñadora • Modelo •🇻🇪
+      🥀𝓥𝓲𝓿𝓸 𝓹𝓪𝓻𝓪 𝓒𝓻𝓮𝓪𝓻🥀 🌈 Mi Arte @dani_dossart 🎙Podcast: #danielogia 💗YouTube: dani dos santos 🎬 Mira todo lo que hago aquí 👇
     location: "Argentina"
-    followers: 35678
-    engagement: 158
-    commentsToLikes: 0.073441
+    followers: 36905
+    engagement: 191
+    commentsToLikes: 0.077021
     id: ck136ixq86ppn0i19bpro10ht
     verified: false
-    hashtags: "#chicas, #selfie, #retratos, #buenosaires"
-  - username: "dpillogrillo"
-    fullname: >-
-      Diego Grillo Ilustrador
-    bio: >-
-      https://www.youtube.com/user/f0xydiego https://www.patreon.com/dpillogrillo
-    location: "Argentina"
-    followers: 9147
-    engagement: 795
-    commentsToLikes: 0.017744
-    id: ckaowov5p9sjn0i78i8kmgbhn
-    verified: false
-    hashtags: "#sketch, #pintando, #pencil, #dailyart"
-  - username: "yolandaperalta10"
-    fullname: >-
-      Yolanda Peralta
-    bio: >-
-      🇦🇷#Artist ©Photos and copyrighted painting. 📨Contact MD/yolma.84@gmail.com ✒ @yolandaperalta_drawings ✏ 📹TikTok yolanda_peralta10
-    location: "Argentina"
-    followers: 38251
-    engagement: 583
-    commentsToLikes: 0.208651
-    id: ck9hcf5ihl3fh0j78wwg5gk87
-    verified: false
-    hashtags: "#bohostyle, #painting, #artoftheday, #patterndesign"
-  - username: "anickanita"
-    fullname: >-
-      Ana Sanfelippo
-    bio: >-
-      Illustration💜Surface design💚Lettering💛 From BA 🇦🇷 Living in Madrid💃🏻 https://www.domestika.org/es/courses/493-diseno-de-patrones-ilustrados/anickanita
-    location: "Argentina"
-    followers: 25543
-    engagement: 347
-    commentsToLikes: 0.029369
-    id: ck55osctm90w10i11n56lpcwp
-    verified: false
-    hashtags: "#books, #wip, #quedateencasa, #sneakpeek"
-  - username: "zurdo.caribe"
-    fullname: >-
-      🌐
-    bio: >-
-      El Zurdo. @loscms @caribestribu Entrevista en Mtn-world⬇️
-    location: "Argentina"
-    followers: 13725
-    engagement: 1193
-    commentsToLikes: 0.027384
-    id: ck0w2b94fnhqb0i19abiyiras
-    verified: false
-    hashtags: "#graffiti, #spray, #collage, #zurdo"
+    hashtags: "#photooftheday, #beauty, #modelo, #portrait"
   - username: "gus_alvarez"
     fullname: >-
       𝔾𝕌𝕊 𝔸𝕃𝕍𝔸ℝ𝔼ℤ
     bio: >-
-      🇲🇽 Villahermosa! Me conocerás por hacer sesiones de retrato con XVs, después descubrirás qué hago mucho más.
+      🇲🇽 PORTRAITS | XVS | WEDDINGS | STUDIO | WORKSHOPS Próximo maratón de fotos de perfil - 18 Abril 👇🏼
     location: "Argentina"
-    followers: 21214
-    engagement: 294
-    commentsToLikes: 0.019570
+    followers: 39277
+    engagement: 260
+    commentsToLikes: 0.015886
     id: ckap1tersw28p0i78lp3xweid
     verified: false
-    hashtags: "#godoxmexico, #love, #campechewedding, #fujilove"
-  - username: "_sarnax"
+    hashtags: "#fotografodexv, #talentomexicano, #conceptual, #portrait"
+  - username: "derya_deniz_sahin"
     fullname: >-
-      sarnosa
+      Derya Deniz Sahin
     bio: >-
-      ✦ Commissions: DM me ✦ Arg 🇦🇷 | 16 | she/her ✦ Eng/esp | 18.11 🎂
+      İstifa edip yollara düşen birinin hikayesi💫 Left everything behind to discover !🌎 ✈️ 47 countries 🍾 Currently: Mexico 🇲🇽 New Video on YouTube⬇️⬇️
     location: "Argentina"
-    followers: 8607
-    engagement: 2716
-    commentsToLikes: 0.026123
-    id: ckap8zjj1qkr70i785zf1nmim
+    followers: 3604
+    engagement: 1000
+    commentsToLikes: 0.189085
+    id: ckf5mg0bbtmls0j23nhvzypuc
     verified: false
-    hashtags: "#kimyoosung, #yoosung, #mysticmessengerfanart, #wacomintuos"
-  - username: "telodijecantando"
+    hashtags: "#solotravel, #mexicocity, #love, #gezginlerbirarada"
+  - username: "kokonoficial"
     fullname: >-
-      Te lo dije cantando
+      KOKON
     bio: >-
-      Textos de Te lo dije cantando. Todas las fotos de esta cuenta las encuentro en Pinterest
+      by Daniel Ephraim 🇦🇷 Murales & Cuadros 🎨 Tienda Online / Curso Online ⬇️
     location: "Argentina"
-    followers: 10375
-    engagement: 572
-    commentsToLikes: 0.014316
-    id: ck60316v4kfhs0i14pdz10wad
+    followers: 63989
+    engagement: 231
+    commentsToLikes: 0.049516
+    id: ck6ti4jdg00v70j71jjddihkl
     verified: false
-    hashtags: "#reflexiones, #amigos, #abrazos, #post"
+    hashtags: "#colorful, #artistsoninstagram, #arty, #artproject"
+  - username: "carlosbardemoficial"
+    fullname: >-
+      Carlos Bardem
+    bio: >-
+      Actor, escritor, viajero y no necesariamente en ese orden /Actor, writer, traveller and not necessarily in that order 🤗🌎 #wanderlust #lustforlife
+    location: "Argentina"
+    followers: 44328
+    engagement: 197
+    commentsToLikes: 0.055757
+    id: ck5bvf2ayjj3m0i11gwhia2fm
+    verified: true
+    hashtags: "#espa, #audible, #happiness, #narrador"
+  - username: "yolandaperalta10"
+    fullname: >-
+      Yolanda Peralta
+    bio: >-
+      🇦🇷 Color is my language. I transform color into positive vibration. 📦Shipping to 🌎 💳 Paypal 💍@aedrian_q 🛍️⬇️Shop⬇️🛍️
+    location: "Argentina"
+    followers: 49069
+    engagement: 234
+    commentsToLikes: 0.029675
+    id: ck9hcf5ihl3fh0j78wwg5gk87
+    verified: false
+    hashtags: "#pink, #natureinspired, #artandcraft, #makersmovement"
+  - username: "grl.ss"
+    fullname: >-
+      ✨Gabriela R. Laureano (GRL)✨
+    bio: >-
+      ✨Ilustradora📍Puerto Rico 🇵🇷 ✨Me dibujo en mis altas y en mis lloriparties✨ 💌 PRONTO VUELVO HACER COMISIONES 💌
+    location: "Argentina"
+    followers: 11876
+    engagement: 835
+    commentsToLikes: 0.022801
+    id: ck15qo90r3ty90i19nkmzg1bi
+    verified: false
+    hashtags: "#draw, #drawthisinyourstyle, #illustrationartists, #procreate"
+  - username: "martinmagliano"
+    fullname: >-
+      Martin Magliano
+    bio: >-
+      🍜 Baterista en @ramenmusica | @cirsemusic ⚡️Artista oficial @zildjiancompany @pearl_drums @loscabosdrumsticks @dbdrums_ok @pantercase ZILDJIAN.COM👇🏻
+    location: "Argentina"
+    followers: 10279
+    engagement: 641
+    commentsToLikes: 0.150600
+    id: ck5q7qwl12q0g0i11sp7k31dh
+    verified: false
+    hashtags: "#drumreel, #bateristasargentinos, #rockdrummer, #drums"
 ---

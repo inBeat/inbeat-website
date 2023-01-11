@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In United Kingdom In 2022
+title: Top 10 Health TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top health TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #mentalhealth #foryoupage #mentalhealthmatters.
+  Find top health TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #mentalhealthmatters #foryoupage #britsmover.
 platform: TikTok
-hits: 462
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 462 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 415
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 415 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "drjuliesmith"
+  - username: "rhiebelle"
     fullname: >-
-      Dr Julie Smith - Psychologist
+      Rhiebelle
     bio: >-
-      PSYCHOLOGIST MENTAL HEALTH & PSYCHOLOGY MORE @ INSTAGRAM & YOUTUBE FREE COURSE👇
+      Drag Queen Twitch Streamer Variety games & mental health chats Link below!
     location: "United Kingdom"
-    followers: 2200000
-    engagement: 1390
-    commentsToLikes: 0.017198
-    id: ck83jyxba80bw0j78zkpz71eo
+    followers: 2851
+    engagement: 1674
+    commentsToLikes: 0.095232
+    id: ckck2khh5m15c0j23em5ef52q
+    verified: false
+    hashtags: "#twitch, #drag, #dragqueen, #embarrassing"
+  - username: "bald_font"
+    fullname: >-
+      Your Number 1 Fan ❤️
+    bio: >-
+      🧠Me, Myself & Mental Health issues 🧲Accidental Influencer 👄LipSync pro. 📍UK
+    location: "United Kingdom"
+    followers: 31700
+    engagement: 3097
+    commentsToLikes: 0.273118
+    id: ckb17cmpnuxqa0j23dfcy0jm2
+    verified: false
+    hashtags: "#mumsoftiktok, #lol, #lols, #fy"
+  - username: "annabell.michie"
+    fullname: >-
+      Annabell
+    bio: >-
+      18 | mental health awareness🎗
+    location: "United Kingdom"
+    followers: 29000
+    engagement: 1484
+    commentsToLikes: 0.145662
+    id: ckbwdua351bmq0j23eltpwv06
+    verified: false
+    hashtags: "#mentalhealthawareness, #bpdtiktok, #mentalhealth, #camhs"
+  - username: ".procreate._x"
+    fullname: >-
+      procreate girl xx
+    bio: >-
+      my book on MOTIVATION, BODY CONFIDENCE, MENTAL HEALTH + MORE will be out SOON 💕
+    location: "United Kingdom"
+    followers: 215800
+    engagement: 1977
+    commentsToLikes: 0.030186
+    id: cka0ujppkumhy0i78zmip19tc
+    verified: false
+    hashtags: "#ipad, #amongus, #funny, #fyp"
+  - username: "girlimusic"
+    fullname: >-
+      GIRLI
+    bio: >-
+      feminism / lgbtq+/ mental health i make music 🎶😈 my instagram is girlimusic 🌈
+    location: "United Kingdom"
+    followers: 45100
+    engagement: 2022
+    commentsToLikes: 0.042402
+    id: ck9eydcapve000j78zvmub6xb
     verified: true
-    hashtags: "#psychology, #moveformentalhealth, #psychologytricks, #motivation"
-  - username: "joeebrennan"
+    hashtags: "#fyp, #fy, #lockdownlove, #tiktokfashionmonth"
+  - username: "over40placi"
     fullname: >-
-      Joe Brennan ♡
+      Placi Espejo
     bio: >-
-      Johnjoe007@icloud.com GIVEAWAY ON IG NOW⤵️ Happy world mental health day!🥰 He/h
+      Positive Single Mum 😉 Mental Health Advocate 💙 Supporting #the3peaks4sands 🥰
     location: "United Kingdom"
-    followers: 330300
-    engagement: 1906
-    commentsToLikes: 0.030220
-    id: ck8adepts5nai0j78re655jdi
+    followers: 61800
+    engagement: 930
+    commentsToLikes: 0.176314
+    id: ckdtao21aulnm0j23dx7c0ztz
     verified: false
-    hashtags: "#timewarpscan, #dog, #boxerdog, #foryoupage"
-  - username: "pmcgregorcom"
+    hashtags: "#spanishqueen, #momsoftiktok, #the3peaks4sands, #britsmover"
+  - username: "kirstyoxford"
     fullname: >-
-      Paul McGregor
+      Kirsty .
     bio: >-
-      If you hit this ☝️I’ll try to keep you motivated. Mental health awareness
+      Mental health matters
     location: "United Kingdom"
-    followers: 32500
-    engagement: 1993
-    commentsToLikes: 0.042565
-    id: ck8ad944e4cui0j78uy9nmmfg
+    followers: 28100
+    engagement: 885
+    commentsToLikes: 0.045973
+    id: ckb9mqtd1g7m70j230va9ymwr
     verified: false
-    hashtags: "#selfcare, #anxiety, #fyp, #tiktoktherapy"
-  - username: "recoveringvic"
+    hashtags: "#berightbackworld, #fyp, #kirstyoxford, #britsmover"
+  - username: "sadatfitness"
     fullname: >-
-      Vic 🌻✨
+      Sadatfitness 
     bio: >-
-      mental health advocate✨ body positivity 🌻 f*ck society🖕🏼 ig: recoveringvic.x
+      Fitness & Health 🏃🏿‍♂️🌱 CEO of “Man” 😎 ⬇️ YouTube & Instagram ⬇️
     location: "United Kingdom"
-    followers: 38600
-    engagement: 2132
-    commentsToLikes: 0.016041
-    id: ckamq8k58gaz50i785jqlutf1
+    followers: 97300
+    engagement: 626
+    commentsToLikes: 0.038381
+    id: ckavogfnez7040j238ov411r1
     verified: false
-    hashtags: "#bodypositivity, #selflove, #fyp, #foryoupage"
+    hashtags: "#sadatfitness, #conciousandaware, #6packabsworkout, #ramdan2021"
+  - username: "mae.india"
+    fullname: >-
+      Mae x
+    bio: >-
+      18, UK 🏳️‍🌈 !! PRIDE, BLM, MENTAL HEALTH, MLM !! x Be Kind x
+    location: "United Kingdom"
+    followers: 6500
+    engagement: 1607
+    commentsToLikes: 0.032728
+    id: ck8tsevn3rava0j78p66zdiry
+    verified: false
+    hashtags: "#strength, #gaygirl, #pov, #recovery"
   - username: "itismexoxo"
     fullname: >-
       jess
     bio: >-
-      Mum to 4 and 18 angels Reborn mummy Mental health matters Adhd Lbgt ❤🧡💛💚💙
+      Mum to 4 and 18 angels Mental health matters Adhd Lbgt ❤🧡💛💚💙
     location: "United Kingdom"
-    followers: 10400
-    engagement: 1599
-    commentsToLikes: 0.082943
+    followers: 11000
+    engagement: 1285
+    commentsToLikes: 0.101405
     id: ckamtduxnua5p0i78s5u299js
     verified: false
-    hashtags: "#makeup, #fyp, #jdwonderland, #mentalhealthawarness"
-  - username: "solofinity"
-    fullname: >-
-      SoloFinity 🌱💚
-    bio: >-
-      🐔 Vegan for the animals 🐮 🌱 Plant based for health 🌱 ⚠️ FACE REVEAL ⚠️👇🏽
-    location: "United Kingdom"
-    followers: 17600
-    engagement: 851
-    commentsToLikes: 0.535647
-    id: ckcpi6in3hrzs0j23gk8r7xbo
-    verified: false
-    hashtags: "#vegan, #vegans, #nutritionist, #govegan"
-  - username: "niall_coaching"
-    fullname: >-
-      Niall Carr Coaching
-    bio: >-
-      Improve YOUR health, Improve YOUR mindset, Reach YOUR full potential.
-    location: "United Kingdom"
-    followers: 14600
-    engagement: 781
-    commentsToLikes: 0.125859
-    id: ckdsueh4wps4u0j23juyvx6hp
-    verified: false
-    hashtags: "#learnontiktok, #dollhousechallenge, #foryou, #happy"
-  - username: "maxmccannpt"
-    fullname: >-
-      Max McCann
-    bio: >-
-      Follow me on Insta ⬆️ Mental Health Warrior⚔️ CEO of “Here’s what it looks like”
-    location: "United Kingdom"
-    followers: 110100
-    engagement: 581
-    commentsToLikes: 0.038541
-    id: ckcj5r7at5vci0j238l67ftql
-    verified: false
-    hashtags: "#vegetables, #diet, #lowcalorie, #weightloss"
-  - username: "lillysaber"
-    fullname: >-
-      Lilly
-    bio: >-
-      19 | IG: @lillysaberr ♡ Stay healthy ♡
-    location: "United Kingdom"
-    followers: 207800
-    engagement: 1165
-    commentsToLikes: 0.022693
-    id: ck8ndqf9ck28w0j78pnyyg8nc
-    verified: false
-    hashtags: "#kpop, #pov, #makeup, #fyp"
-  - username: "hench_herbivore"
-    fullname: >-
-      Paul Kerton
-    bio: >-
-      Vegan Health/Fitness YouTuber
-    location: "United Kingdom"
-    followers: 3120
-    engagement: 398
-    commentsToLikes: 0.085204
-    id: ckbqv1380fbkj0j23ve0etbgb
-    verified: false
-    hashtags: "#veganhumour, #veganbodybuilding, #vegans, #vegansoftiktok"
+    hashtags: "#draftvideo, #fyp, #foryoupage, #mentalhealthmatters"
 ---

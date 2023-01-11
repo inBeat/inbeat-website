@@ -1,108 +1,60 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Ukraine In 2022
+title: Top 10 Outdoors Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top outdoors Instagram influencers in Ukraine in 2022. Most popular hashtags: #ukraine #outdoors #nature #instagood.
+  Find top outdoors Instagram influencers in Ukraine in 2023. Most popular hashtags: #photooftheday #fun #water #ukraine.
 platform: Instagram
-hits: 19
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 19 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 10
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Ukraine for you to work with.
 profiles:
-  - username: "khrystyna_zhuk_"
+  - username: "a.rashkovetskiy"
     fullname: >-
-      🌿Христя Жук 🚲⛺
+      Andriy Rashkovetskiy
     bio: >-
-      ✍ 59 країн✌ ✍ подорожі, лайфхаки, поради і велосипед👣🌎 ⠀ 👇Тут ютубчик📽
+      🏕 Hiking ▫ Adventure ▫ Outdoors 🇺🇦 Ukraine 📧a.rashkovetskiy@gmail.com
     location: "Ukraine"
-    followers: 25362
-    engagement: 830
-    commentsToLikes: 0.024877
-    id: ck9ha5ymqbain0j787uo189su
+    followers: 2804
+    engagement: 2920
+    commentsToLikes: 0.030852
+    id: ck0u7r7ff5ltz0i19xbhbds32
     verified: false
-    hashtags: "#lake, #nature, #river, #kayakadventures"
+    hashtags: "#exploretocreate, #visualsofearth, #ukraine, #vscoua"
   - username: "olka__seraya"
     fullname: >-
       Olka Seraya🦁
     bio: >-
-      👑 𝙈𝙞𝙨𝙨 𝙏𝙤𝙪𝙧𝙞𝙨𝙢 𝙐𝙠𝙧𝙖𝙞𝙣𝙚 2020 ⚡️𝚄𝚔𝚛𝚊𝚒𝚗𝚎, 𝙾𝚍𝚎𝚜𝚜𝚊 ⚡️𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚗𝚊𝚖𝚎𝚍 𝙺.𝙵.𝙳𝚊𝚗𝚔𝚎𝚟𝚒𝚌𝚑 ⚡️𝙳𝚊𝚗𝚌𝚎𝚛 ⚡️𝙼𝚘𝚍𝚎𝚕
+      👑 𝙈𝙞𝙨𝙨 𝙏𝙤𝙪𝙧𝙞𝙨𝙢 𝙐𝙠𝙧𝙖𝙞𝙣𝙚 2020 👑𝐌𝐨𝐝𝐞𝐥 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟎 ⚡️MA: @royalfamily_models ⚡️𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝙽𝚄 “𝙾𝚍𝚎𝚜𝚜𝚊 𝙻𝚊𝚠 𝙰𝚌𝚊𝚍𝚎𝚖𝚢” ⚡️𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚗𝚊𝚖𝚎𝚍 𝙺.𝙵.𝙳𝚊𝚗𝚔𝚎𝚟𝚒𝚌h”
     location: "Ukraine"
-    followers: 6937
-    engagement: 656
-    commentsToLikes: 0.018648
+    followers: 7015
+    engagement: 607
+    commentsToLikes: 0.022345
     id: ck14k57auns7e0i19ehzn7pu0
     verified: false
-    hashtags: "#fun, #face, #lady, #happy"
+    hashtags: "#lifestyle, #person, #ski, #brunette"
   - username: "marianna_vus"
     fullname: >-
       M a r i a n a  V u s  🍩 👑
     bio: >-
-      Не блогер ✖️ Не кохана дружина ✖️ Не щаслива мама ✖️ Не #fotomodel i не #actress ✖️ U A 🇺🇦 / P L 🇵🇱 /USA 🇺🇸 2018 📍 22 y.o.💪🏻
+      Не блогер ✖️ Не кохана дружина ✖️в минулому 😏 Не щаслива мама ✖️ Не #fotomodel i не #actress ✖️ U A 🇺🇦 / P L 🇵🇱 /USA 🇺🇸 2018 📍23 y.o.💪🏻
     location: "Ukraine"
-    followers: 16668
-    engagement: 2389
-    commentsToLikes: 0.020164
+    followers: 15931
+    engagement: 2447
+    commentsToLikes: 0.019011
     id: ck9halgd7cz4j0j780yrd6nsl
     verified: false
-    hashtags: "#autumn, #morning, #loveit, #sunday"
+    hashtags: "#instagood, #sunday, #loveit, #havefun"
   - username: "sonya22.08"
     fullname: >-
       SONYA MODEL
     bio: >-
-      ▪️Покажу мир моими глазами ▪️Туризм | Психология | Диетология ▪️ MA: @modelagentgroup @soldatovanastya @katevalatina 🇪🇸🇮🇹🇵🇱🇲🇪🇩🇪🇹🇷🇸🇬🇲🇾🇲🇨
+      📍Ukraine🇺🇦 ▪️MA : @vocemodels @agentkate_ ▪️My brand @kos_wool ▪️Покажу мир моими глазами ▪️Туризм | Психология | Диетология 🇪🇸🇮🇹🇵🇱🇲🇪🇩🇪🇹🇷🇸🇬🇲🇾🇲🇨🇬🇷
     location: "Ukraine"
-    followers: 16003
-    engagement: 535
-    commentsToLikes: 0.100054
+    followers: 22066
+    engagement: 307
+    commentsToLikes: 0.052223
     id: ck0tt4y9b16c40i1998ja5tza
     verified: false
-    hashtags: "#portraitmood, #instaphotography, #ootd, #whatiwore"
-  - username: "_._great_._guy_._"
-    fullname: >-
-      👿Alexander😈Sanya👿
-    bio: >-
-      ▶️Me 17 years😈 ◀️ ▶️My name is Sasha 🙃 ◀️ ▶️Live in Ukraine ☺️ ◀️
-    location: "Ukraine"
-    followers: 6246
-    engagement: 800
-    commentsToLikes: 0.011091
-    id: ck8t7irgvgyos0j78v55megsp
-    verified: false
-    hashtags: "#tweegram, #like4tags, #photooftheday, #nature"
-  - username: "iryna_popovich"
-    fullname: >-
-      𝙄𝙧𝙮𝙣𝙖
-    bio: >-
-      🌍Travel with me and look at the World with my eyes. ❤️A little about life and love of life. 🙏🎁🚗
-    location: "Ukraine"
-    followers: 2183
-    engagement: 2078
-    commentsToLikes: 0.079688
-    id: ck0vww0d9vuyq0i19mdag92zv
-    verified: false
-    hashtags: "#macronature, #kyiv, #myadventure, #egypt"
-  - username: "kirilltikhov"
-    fullname: >-
-      Kirill Tikhov
-    bio: >-
-      📷shotoniphone, 🚁DJI Mavic air2 Travel & lifestyle Kiev, UA🌎
-    location: "Ukraine"
-    followers: 6157
-    engagement: 1168
-    commentsToLikes: 0.037367
-    id: ckap0876lp66z0i782z9bdb2z
-    verified: false
-    hashtags: "#kievworld, #dronepilot, #mavicair2, #river"
-  - username: "sveta_artis"
-    fullname: >-
-      Стилист онлайн💄 Шопинг Европа
-    bio: >-
-      🌈Professoressa цвета Научу покупать меньше, выбирать лучшее и выглядеть всегда ВАУ! Омоложение одеждой 🛍Вещи из Европы @stile_artis Обучаю стилю⬇️
-    location: "Ukraine"
-    followers: 16996
-    engagement: 231
-    commentsToLikes: 0.119293
-    id: ckaoqt161k8v20i78c9q29vam
-    verified: false
-    hashtags: ""
+    hashtags: "#clouds, #sky, #sun, #waterfoam"
   - username: "vodaclub_bukovel"
     fullname: >-
       VODA club
@@ -114,17 +66,65 @@ profiles:
     commentsToLikes: 0.006866
     id: ck6tkzt545ptb0j713sje252w
     verified: false
-    hashtags: "#vodaclub, #spa, #bukovel, #summer2020"
-  - username: "alexander_trashin"
+    hashtags: "#bukovel, #spa, #vodaclubsummer, #summer2020"
+  - username: "andrew.vasylkiv"
     fullname: >-
-      Фототуры, путешествия по Крыму
+      A  N  D  R  Ē  W  🌿
     bio: >-
-      
+      Естетика мандрівника @soul_note_store мої блокноти @a.vslkv 👈 приватний 📥 Співпраця — дірект
     location: "Ukraine"
-    followers: 16076
-    engagement: 933
-    commentsToLikes: 0.016609
-    id: ck5zojg0yqoyx0i145fie2d4q
+    followers: 5374
+    engagement: 905
+    commentsToLikes: 0.049030
+    id: ckap1lpmrv30o0i78hi65mksr
     verified: false
-    hashtags: "#lifeofadventure, #stayandwander, #caucasus, #nikonschoollacie"
+    hashtags: "#kiev, #korea, #gramslayers, #ukrainiantravelers"
+  - username: "cabin_homes"
+    fullname: >-
+      ⍋ CABIN HOMES INTERIOR DESIGN
+    bio: >-
+      ✎ Дизайн Загородного Дома Вашей Мечты ∞ Деревянная Мебель На Заказ ⇝ ABOUT LOFT STYLE @LOFT_INTERIOR ⠀ ✆ +7-923-155-15-75 ⇘ What'sApp,Telegram,Viber
+    location: "Ukraine"
+    followers: 99482
+    engagement: 319
+    commentsToLikes: 0.004218
+    id: ck13585uz06gt0i193iugcrp9
+    verified: false
+    hashtags: "#lakelife, #tourtheplanet, #theglobewanderer, #travelawesome"
+  - username: "annagirm"
+    fullname: >-
+      A.n.n.a G.i.r Malowany 🌺
+    bio: >-
+      Good life blogger 🤳🏻 Born in Odessa Ukraine 🇺🇦 Living in Israel 🇮🇱 Traveling the world 🌎 Food 😋 and wine 🍷 fan
+    location: "Ukraine"
+    followers: 5594
+    engagement: 2134
+    commentsToLikes: 0.160600
+    id: ck0tyggvvmppp0i19v8scrgo5
+    verified: false
+    hashtags: "#smile, #happygirl, #enjoyinglife, #cheers"
+  - username: "lanaato"
+    fullname: >-
+      SLEEPLESS MAMA ON THE RUN ®
+    bio: >-
+      Lana Ato 🇺🇦 It’s H•A•P•P•Y here 💚 📸 Content creator. Kids whisperer 👯 Vegan parenting ♥️ Ukrainian + Nigerian family⠀⠀⠀⠀⠀⠀ 📧 svitlanaato@gmail.com
+    location: "Ukraine"
+    followers: 108544
+    engagement: 40
+    commentsToLikes: 0.298838
+    id: ck15qhmp12vtw0i195tjzgrvy
+    verified: false
+    hashtags: "#texasblogger, #kidsootd, #homedecorinspo, #homedecorideas"
+  - username: "yuri.bugayov"
+    fullname: >-
+      Wedding and Lifestyle 📸
+    bio: >-
+      🇺🇦🇩🇰🇸🇪🇵🇱🇨🇾🇮🇹🇩🇪🇨🇿🇬🇷🇬🇪 elegant weddings | fashion | lifestyle working with my ♡ @alyona.bugayova sumy ua ✈ all europe and worldwide
+    location: "Ukraine"
+    followers: 16050
+    engagement: 153
+    commentsToLikes: 0.031321
+    id: ck14hbjd09hq40i19a98lzhft
+    verified: false
+    hashtags: "#fuji400h, #destinationfilmphotographer, #contax645, #kodakportra160"
 ---

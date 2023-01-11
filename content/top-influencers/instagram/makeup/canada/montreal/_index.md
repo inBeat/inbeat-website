@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Montreal In 2022
+title: Top 10 Makeup Instagram Influencers In Montreal In 2023
 description: >-
-  Find top makeup Instagram influencers in Montreal in 2022. Most popular hashtags: #makeup #makeupartist #montreal #mua.
+  Find top makeup Instagram influencers in Montreal in 2023. Most popular hashtags: #makeup #fashion #maccosmetics #montreal.
 platform: Instagram
-hits: 51
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 51 Instagram influencers like this in Montreal, Canada for you to contact.
+hits: 16
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 16 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "sanssoleil"
+  - username: "miss.sugar.peach"
     fullname: >-
-      MONTREAL MAKEUP ARTIST
+      𝑨𝑹𝑰𝑬𝑳𝑳𝑬
     bio: >-
-      DEBORA BOEMIO *LIMITED SPACES FOR 2022* Professional Makeup Artist💄 7+ years experience EMAIL OR TEXT TO BOOK ❌NO DMS debora.boemio@live.ca
+      𝓌𝒶𝓉𝑒𝓇 𝓃𝓎𝓂𝓅𝒽 ✰ montreal ✰ makeup artist @back.in.the.garden ✰ also @roses.and.daffodils
     location: "Canada"
-    followers: 2613
-    engagement: 963
-    commentsToLikes: 0.052970
-    id: ckaoyexbrh8dn0i788vkl7fm8
+    followers: 243955
+    engagement: 545
+    commentsToLikes: 0.006090
+    id: ck0u0v0w3uvzb0i19anozkw3r
     verified: false
-    hashtags: "#makeupbysanssoleil, #bridalglam, #weddingmakeup, #glam"
-  - username: "minaj.mp"
+    hashtags: "#makeupforever, #maccosmetics, #limecrime, #hudabeauty"
+  - username: "pythia.queen"
     fullname: >-
-      ♏️inajmp💮
+      🔮PYTHIA🔮
     bio: >-
-      Stylist~Model~Beauty pro~Vlogger I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨 🔒@pouria_roozitalab Model @unik.models
+      ✨Oracular Drag Priestess✨ Artist • Costume Designer Makeup Artist • Drag Performer Montréal, Canada🇨🇦🇬🇷🧿
     location: "Canada"
-    followers: 59018
-    engagement: 273
-    commentsToLikes: 0.095481
-    id: ckaotndqcwn0x0i78myma80eh
+    followers: 16848
+    engagement: 1158
+    commentsToLikes: 0.033079
+    id: ck5qdi2d7vov70i11cz1b0ros
     verified: false
-    hashtags: "#modeling, #fashionphotography, #love, #fashion"
-  - username: "mariagrxms"
+    hashtags: "#timburtoncosplay, #lgbt, #drag, #instagay"
+  - username: "stracey1"
     fullname: >-
-      Maria Helena
+      Stephen Tracey🇨🇦🇮🇪
     bio: >-
-      19 | Freelance makeup artist | Montreal She/they #inthehaus
+      From the farm to the runway Actor/Model •@annewithane 👨🏻 •@expanseonprime 🧑🏻‍🚀 S5 •Toronto •IHOP The Talent House 6829
     location: "Canada"
-    followers: 4441
-    engagement: 1265
-    commentsToLikes: 0.087155
-    id: ck15rds1b7ffx0i19p0jhmlls
+    followers: 137247
+    engagement: 488
+    commentsToLikes: 0.007521
+    id: ck6006a2xd0yo0i1405ll8nyz
     verified: false
-    hashtags: "#neoakeup, #myartistcommunity, #tutorial, #theartistedit"
-  - username: "rainbow.drag"
+    hashtags: "#fashionphotography, #menstyle, #thursdayboots, #style"
+  - username: "anacruz"
     fullname: >-
-      🌈Rainbow Drag🌈
+      Ana Cruz🌶
     bio: >-
-      Montreal drag queen 🇨🇦 🦄 Collection Over The Rainbow en vente dès maintenant 🌈
+      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
     location: "Canada"
-    followers: 18404
-    engagement: 345
-    commentsToLikes: 0.022257
-    id: ck0vzdyv08mv50i195o62dyv7
+    followers: 21900
+    engagement: 202
+    commentsToLikes: 0.108976
+    id: ck0u9oei7ad2e0i198tdo1bex
     verified: false
-    hashtags: "#drag, #makeup, #lgbtq, #montreal"
-  - username: "davidkidd_portfolio"
+    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
+  - username: "gabiliciousxsx"
     fullname: >-
-      🦉David Kidd | Photographer🦉
+      𝐠𝐚𝐛𝐢𝐥𝐢𝐜𝐢𝐨𝐮𝐬𝐱𝐬𝐱 🖤|𝑀𝒶𝓀𝑒𝓊𝓅 𝒜𝓇𝓉𝒾𝓈𝓉
     bio: >-
-      🌿@davidkidd 🌿 🌹Montreal,Canada 🌹 📍 now in montreal 📍 |199X|Dm📥| pour 🍇infos Et booking🍇 ✨Audition⬇️Iconly✨
+      ✨💖👼🏼 Angel @danessamyricksangels 💌 DM for business & PR TikTok : Gabiliciousxsx Self Taught 💄& 📸 📍🇨🇦 Montreal Discount Codes In Highlights ⬇️
     location: "Canada"
-    followers: 8079
-    engagement: 563
-    commentsToLikes: 0.075280
-    id: ck5ciu4n9tdjh0i11bg2j10aa
+    followers: 11398
+    engagement: 387
+    commentsToLikes: 0.167061
+    id: ck5bu5ibeh70r0i11pv62kfct
     verified: false
-    hashtags: "#model, #montrealphotos, #hat, #tattoos"
-  - username: "malikaberube"
+    hashtags: "#afl, #ardellca, #morpheglamfam, #ttdeye"
+  - username: "chelseyboll"
     fullname: >-
-      MONTREAL MAKEUP ARTIST
+      Chelsey
     bio: >-
-      English/French Pro MUA, Makeup educator & content creator Founder of @beauty.mastermind 💄🤩 For BOOKING Enquires👇 Queen of GLAM makeup👑
+      🏳️‍🌈 She/they Photographer & model 🇨🇦 Montreal @plutinomodels @housmanagement 📸 For more photography follow @chelseyshoots
     location: "Canada"
-    followers: 12301
-    engagement: 132
-    commentsToLikes: 0.046646
-    id: ck15tuhxnjyro0i19kgiu5y6y
+    followers: 24356
+    engagement: 452
+    commentsToLikes: 0.025977
+    id: ck14hulfoc7xx0i196wyvjqwn
     verified: false
-    hashtags: "#makeupglam, #makeuptutorials, #makeuppage, #mtlmua"
-  - username: "demidiamandis"
+    hashtags: "#3dart, #mentalhealthmonday, #bpd, #bpdthings"
+  - username: "rachele.buriassi29"
     fullname: >-
-      DEMI DIAMANDIS  |  STYLE INSPO
+      Rachele Buriassi
     bio: >-
-      #fashion #beauty #lifestyle 💍SD pittsburgh | montreal @demi__makeup demitra.stappas@gmail.com
+      Principal Dancer with @grandsballets Previously 1st Soloist @thestuttgartballet and @bostonballet 🇮🇹🇨🇦🇺🇸📍Montreal @andreabelfiore ❤️
     location: "Canada"
-    followers: 9794
-    engagement: 513
-    commentsToLikes: 0.062389
-    id: ck137fbn8b8pe0i19a2455nzh
+    followers: 12387
+    engagement: 675
+    commentsToLikes: 0.065118
+    id: ck5hrvxcfvkbd0i11czs2czjx
     verified: false
-    hashtags: "#misslola, #30daysofoutfits, #americanstyle, #mlpartner"
-  - username: "lapetitevengeance"
+    hashtags: "#danza, #italiangirl, #danzaclassica, #montreal"
+  - username: "roxane_bailey"
     fullname: >-
-      M a r i k a  D’ A u t e u i l
+      Roxane Bailey | MTL📍
     bio: >-
-      📍Montreal based makeup artist, educator & content creator. 2020 tour dates postponed. Stay tuned 🌎
+      Makeup 💋 Fashion 👠 Food 🍰 Digital Marketing Manager at @image_motion 💁🏻‍♀️
     location: "Canada"
-    followers: 142898
-    engagement: 233
-    commentsToLikes: 0.019483
-    id: ck0ttuthi4ek60i197h03p64o
+    followers: 2212
+    engagement: 558
+    commentsToLikes: 0.275977
+    id: ck6uidy4aeiv60j71qnq4vwkk
     verified: false
-    hashtags: "#beetlejuice, #beetlejuicemakeup, #halloween2020, #diormakeup"
+    hashtags: "#endypartner, #gifted, #ad, #askingforafriend"
   - username: "beautybyabyy"
     fullname: >-
       B E A U T Y x A B Y ♡
     bio: >-
-      Makeup Artist • 20 Montreal, Canada 🇨🇦 PR : Beautybyabyy@gmail.com
+      PR 💌 beautybyabyy@gmail.com Montreal, QC 🇨🇦 21 ♡
     location: "Canada"
-    followers: 29820
-    engagement: 81
-    commentsToLikes: 0.251486
+    followers: 29190
+    engagement: 74
+    commentsToLikes: 0.261597
     id: ck0tyawjfm7vl0i19kawnqjr3
     verified: false
-    hashtags: "#lashes, #glittermakeup, #maccosmetics, #urbandecay"
-  - username: "moralview"
+    hashtags: "#abhbrows, #makeupartist, #norvina, #morphebrushes"
+  - username: "sofiacretaro"
     fullname: >-
-      Carlos Mora
+      𝖘 🍓 𝖋 𝖎 𝖆
     bio: >-
-      🇨🇴🇨🇦 Canada YYC, YOW Other account @morac3 DM for pics
+      MIAMI- @cgmmodels NEW YORK- @jagmodels CANADA- @dulcedomodels 📍
     location: "Canada"
-    followers: 15495
+    followers: 20982
     engagement: 403
-    commentsToLikes: 0.049734
-    id: ck9hb13ozexi20j78vutjkasl
+    commentsToLikes: 0.128773
+    id: ck5c4j1yb1gia0i111b8xxlay
     verified: false
-    hashtags: "#montreal, #calgary, #ottawaphotographer, #yycphotographer"
+    hashtags: "#miamiswimweek, #charlottetilbury, #maccosmetics, #montreal"
 ---

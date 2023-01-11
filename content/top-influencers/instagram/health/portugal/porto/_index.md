@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Porto In 2022
+title: Top 10 Health Instagram Influencers In Porto in 2023
 description: >-
-  Find top health Instagram influencers in Porto in 2022. Most popular hashtags: #portugal #porto #lifestyle #travel.
+  Find top health Instagram influencers in Porto in 2023. Most popular hashtags: #portugal #porto #lifestyle #travel.
 platform: Instagram
 hits: 11
 text_top: Identify the top-rated Instagram accounts on inBeat.

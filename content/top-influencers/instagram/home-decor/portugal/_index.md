@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Portugal In 2022
+title: Top 10 Home Decor Instagram Influencers In Portugal In 2023
 description: >-
-  Find top home decor Instagram influencers in Portugal in 2022. Most popular hashtags: #homedecor #portugal #home #homesweethome.
+  Find top home decor Instagram influencers in Portugal in 2023. Most popular hashtags: #homedecor #portugal #homesweethome.
 platform: Instagram
-hits: 18
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 18 Instagram influencers like this in Portugal for you to collaborate.
+hits: 14
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 14 Instagram influencers like this in Portugal for you to pitch.
 profiles:
   - username: "andrechaica"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Lisbon based, PT Content creator & social media manager ✉️ andrechaica@wowmeagency.com Edit like me 𖦝
     location: "Portugal"
-    followers: 39648
-    engagement: 301
-    commentsToLikes: 0.114228
+    followers: 40546
+    engagement: 299
+    commentsToLikes: 0.103972
     id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#ad, #lonelyplanet, #fashiorismo, #chaicatraveltolisbon"
-  - username: "sr.home.life"
+    hashtags: "#eattheseasons, #livingdestinations, #homemadefood, #ootd"
+  - username: "daphnemoreau"
     fullname: >-
-      SRHome&Life | Sónia Reis
+      Daphné Moreau (Mode&TheCity)
     bio: >-
-      Home decor • Content creator @biomaplants: SRHOMELIFE10-10% @citrinaplants: HOME15-15% @floresnocais: SR.HOME.LIFE -10% @the_cotton_way: SRHOME10
+      ✨ Sharing everyday things that make me happy : wellness, conscious fashion, #cleanbeauty & home decor 🔑 @daphnesdreamhome 💌 daphne@modeandthecity.net
     location: "Portugal"
-    followers: 21378
-    engagement: 521
-    commentsToLikes: 0.080351
-    id: ck8sy34sdjkem0j78wqc8p6nn
-    verified: false
-    hashtags: "#neutralhomedecor, #portugueseinteriorbloggers, #livingroominterior, #decorinspo"
-  - username: "vanessadesousa_pt"
-    fullname: >-
-      VSFIT / Home Workouts
-    bio: >-
-      📝Lic.Educação Física_UTAD •Presenter~Trainer~@eacsystempt ®️ 🎽 @greatiamwear code -10% "VSFIT" 🏋️ @ellipse_fitness code -30% "VSELLIPSE" • Aveiro,PT🇵🇹
-    location: "Portugal"
-    followers: 6419
-    engagement: 784
-    commentsToLikes: 0.053546
-    id: ck9h9txq29yij0j78i5rrvu25
-    verified: false
-    hashtags: "#relaxtime, #homegym, #relaxmood, #familytime"
-  - username: "itsanahilima"
-    fullname: >-
-      𝐀𝐧𝐚𝐡í 𝐋𝐢𝐦𝐚
-    bio: >-
-      🦋 Counting blessings contacto: itsanahilima@gmail.com shop @analucosmetics ⤵︎ meus looks
-    location: "Portugal"
-    followers: 21485
-    engagement: 1325
-    commentsToLikes: 0.065919
-    id: ck9wdx0obhnf90j78h8mughsz
-    verified: false
-    hashtags: "#bioextratusportugal, #outfitinspiration, #crespas, #blogueirinha"
+    followers: 188900
+    engagement: 242
+    commentsToLikes: 1.439422
+    id: ck0tu50yq5o140i19dtvus4cs
+    verified: true
+    hashtags: "#preppyfashion, #parisianstyle, #gossipgirl, #homerenovation"
   - username: "charliecfm"
     fullname: >-
       CHΛRLIΞ • Carlos Frota Melo
     bio: >-
       you think you know me ... but you have no idea X ninja media coordinator @havas X marketing | content | social media X made in PT LOADING ...
     location: "Portugal"
-    followers: 6965
-    engagement: 1031
-    commentsToLikes: 0.315040
+    followers: 7262
+    engagement: 1053
+    commentsToLikes: 0.370331
     id: ckap4i5927hd50i782o8gpnof
     verified: false
-    hashtags: "#vidadepublicita, #soldeinverno, #ilovelisboa, #portugaldenorteasul"
-  - username: "carinacaldeira_"
+    hashtags: "#emcasa, #iloveoeiras, #socialisolation, #giveaway"
+  - username: "chefchakall"
     fullname: >-
-      Carina Caldeira
+      Chakall
     bio: >-
-      📺 TV host @glittershow_ & Late Night 💄 Beauty Junkie 📧 imendesdasilva@notable.pt
+      🌎💃✈️🍽️ Dad, traveler & restaurants owner, book writer, TV host 👳 From Tigre...to the end of love. Welcome to my world! 😉🛸
     location: "Portugal"
-    followers: 70626
-    engagement: 239
-    commentsToLikes: 0.090091
-    id: ck5cdqiqrjlzo0i11j8hrqino
+    followers: 131224
+    engagement: 238
+    commentsToLikes: 0.232572
+    id: ck5chcis8qigt0i11mkghuxfs
     verified: true
-    hashtags: "#home, #babygirl, #pub, #glitterlife"
-  - username: "mexiquer"
+    hashtags: "#igersportugal, #chef, #foodstagram, #foodie"
+  - username: "rafaelaalexandra0"
     fullname: >-
-      SOFIA REIS | Mexiquer
+      Rafaela Duarte | Healthy 💫
     bio: >-
-      Fashion Blogger + Style lover + 🌎 trotter www.mexiquer.com 🙋💛 Contact 📩 mexiiqquer@gmail.com 📍From Portugal Last video on youtube 📹👇🏼
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
     location: "Portugal"
-    followers: 106300
-    engagement: 200
-    commentsToLikes: 0.124796
-    id: ck14gqv2g6l7m0i19xmx7am8d
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#makeover, #outfit, #trend, #zara"
-  - username: "rafinhaaaaa"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+  - username: "carlotassantos"
     fullname: >-
-      Rafinhaaaaa ✌🏽
+      Carlota Moutinho Santos
     bio: >-
-      Hey You! In love w/ my Frenchies🤍 Storyteller | Lifestyle | Business & Brands Travel | Culture | Tv | Food
+      Optimistic mind. Porto, Portugal Carlotasantos@live.com.pt
     location: "Portugal"
-    followers: 6489
-    engagement: 1090
-    commentsToLikes: 0.082579
-    id: ckaotdwnzvi7z0i78eazacr6i
+    followers: 29209
+    engagement: 226
+    commentsToLikes: 0.127324
+    id: ck14gyc407mfq0i19cis9jv34
     verified: false
-    hashtags: "#nice, #photographer, #blogger, #happy"
-  - username: "joanaflg"
+    hashtags: "#christmas, #diadosnamorados, #arcadiachocolates, #homedecor"
+  - username: "carolinapatrocinio"
     fullname: >-
-      Joana Gentil
+      Carolina Patrocínio
     bio: >-
-      🙆🏻‍♀️ 26 anos 📍Lisboa, Portugal 💍&⌚️ worker 💌 joanaflgentil@gmail.com Influenciadora na @influenzia_digital Descontos no link abaixo 🥰
+      Portuguese TV Host 🎤 Contact: geral@notable.pt Prozis code: CAROLINA
     location: "Portugal"
-    followers: 4725
-    engagement: 846
-    commentsToLikes: 0.298962
-    id: ck9wf7pffnkg00j78wooljbog
-    verified: false
-    hashtags: "#sintralovers, #porto, #caisdoginjal, #pontofinal"
-  - username: "brunomartins71"
+    followers: 940993
+    engagement: 202
+    commentsToLikes: 0.004134
+    id: ck5ca592acpxw0i11b5lrn0ub
+    verified: true
+    hashtags: "#abeilleroyale, #pumastudio, #foralltime, #homedecor"
+  - username: "soulnursespassport"
     fullname: >-
-      Bruno Martins
+      𝑺𝒐𝒓𝒂𝒊𝒂 ❥𝑭𝒊𝒍𝒊𝒑𝒆 | TRAVELblog
     bio: >-
-      "Less is more" ✉️ brunocostamartins71@gmail.com 📍 Portugal
+      Dois enfermeiros portugueses, a viver na Suíça🇨🇭 🎯 Be inspired with our lifestyle 📸 Collect moments not things
     location: "Portugal"
-    followers: 112852
-    engagement: 213
-    commentsToLikes: 0.041467
-    id: ck55k2m2uyb7a0i11ytfylrau
+    followers: 12120
+    engagement: 741
+    commentsToLikes: 0.153653
+    id: ck8tco70x03qo0j784k4k1ivg
     verified: false
-    hashtags: "#desenio, #skincare, #filorga, #galleria"
+    hashtags: "#portugal, #algarveportugal, #feelazores, #igers"
+  - username: "anamarquesoficial"
+    fullname: >-
+      Ana Marques
+    bio: >-
+      Portuguese TV host.📍Alô Portugal 📍Posso Entrar 📍Eu Quero Arrumar 📍 Mother of twin little girls. Author of the book " As Minhas Gémeas “
+    location: "Portugal"
+    followers: 121158
+    engagement: 167
+    commentsToLikes: 0.022273
+    id: ck0u6e9f91odw0i19ouk5ik8e
+    verified: false
+    hashtags: "#ocarnavalvoltaparaoano, #srtrouble, #batizado, #aloportugal"
+  - username: "mamasaidbecool"
+    fullname: >-
+      Mamasaidbecool.pl
+    bio: >-
+      Monika & Hubert Traveling lifestyle World explorers from Poland 🇵🇱 Cheap flights hunters Italy lovers 🇮🇹 ✉️ kontakt@mamasaidbecool.pl
+    location: "Portugal"
+    followers: 25319
+    engagement: 439
+    commentsToLikes: 0.052759
+    id: ckf5m13jkru9a0j23coctysnd
+    verified: false
+    hashtags: "#letitsnow, #portugalia, #folkscenery, #placestovisit"
 ---

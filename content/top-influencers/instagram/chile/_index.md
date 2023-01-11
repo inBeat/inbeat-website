@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Chile In 2022
+title: Top 10 Instagram Influencers In Chile In 2023
 description: >-
-  Find top Instagram influencers in Chile in 2022. Most popular hashtags: #maquillajechile #aquisomostodos #adidasfootball.
+  Find top Instagram influencers in Chile in 2023. Most popular hashtags: #chile #twitch #goodvibes.
 platform: Instagram
-hits: 2665
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 2665 Instagram influencers like this in Chile for you to connect with.
+hits: 2565
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 2565 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "itsnicolasignacio"
+  - username: "markgonzalez11"
     fullname: >-
-      Mi amor😍
+      Mark Gonzalez
     bio: >-
-      @nicolasitop | 18$ 🇨🇱 CANJES AL DM📥 Contacto: rodriguezcammell@gmail.com📥 🌐Valdivia/ río bueno/ santiago🌐
+      ⚽️ 🇨🇱 🇪🇸 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇷🇺 🇧🇷 ⚽️ @houseofmarkcl
     location: "Chile"
-    followers: 80005
-    engagement: 2525
-    commentsToLikes: 0.044364
-    id: ck55omvgy8olo0i11itsrz291
+    followers: 462454
+    engagement: 289
+    commentsToLikes: 0.015081
+    id: ck5pvgraqht1f0i1116jjylpm
+    verified: true
+    hashtags: "#expresslider, #lagarto, #poolparty, #mati"
+  - username: "derecho_facil"
+    fullname: >-
+      Derecho Fácil
+    bio: >-
+      ⚖ Estudio Jurídico 📚 Acercando el Derecho a las personas 📫 Contacto: asesorias@derechofacil.cl o vía WhatsApp 👇🏽 Nuestras redes sociales
+    location: "Chile"
+    followers: 341925
+    engagement: 242
+    commentsToLikes: 0.036836
+    id: ck8t0crdarmfi0j787sqewe2x
     verified: false
     hashtags: ""
-  - username: "_murielandrade"
+  - username: "paulamekis"
     fullname: >-
-      MURIEL ANDRADE
+      Paula Mekis Arnolds
     bio: >-
-      CR || CL instagram is not real life⚡️ ••••••••••• @_mandradefitness @mandrafitwear
+      CHILE @parsome.cl
     location: "Chile"
-    followers: 7260
-    engagement: 2491
-    commentsToLikes: 0.290445
-    id: ck0tx7trwi5cf0i19w2212n6t
+    followers: 56185
+    engagement: 296
+    commentsToLikes: 0.015175
+    id: ck5zypvcbab2x0i14cltqlh87
     verified: false
-    hashtags: ""
-  - username: "ofirvargass"
+    hashtags: "#publicidad, #brownieladehesa, #brownieenfalabella, #nuevatemporada"
+  - username: "max_cabezon"
     fullname: >-
-      OFIR Vargas B. 🖤⛓
+      Max Cabezón
     bio: >-
-      17 🍄 Tiktok: ofirvargass🦋 🇮🇱/ 🇨🇱 “Your life is too short enjoy” Producciones@onemediachile.cl 📩
+      Master Pizza Ninja 🥷🏼 Founder @testardos.pizza 🍕 #alwayshungry 🍜
     location: "Chile"
-    followers: 362019
-    engagement: 1853
-    commentsToLikes: 0.036358
-    id: ckap8qmvmpfyo0i78ymkuptza
-    verified: false
-    hashtags: "#myriderpack"
-  - username: "itayvargass"
+    followers: 239246
+    engagement: 181
+    commentsToLikes: 0.034141
+    id: ck13cqbby1n7c0i19x2gdvams
+    verified: true
+    hashtags: "#gourmetgaming, #legion, #intelesgaming, #minecraft"
+  - username: "ignaciaa_antonia"
     fullname: >-
-      𝑰𝒕𝒂𝒚 🤍
+      Ignacia Hernandez👑
     bio: >-
-      ~🇨🇱🇮🇱 Dancer🩰/model✨ •(14M en tiktok)🙏🏻 •💌producciones@onemediachile.cl📍
+      🇨🇱 en 🇲🇽📍 ignaciaantobiz@gmail.com Representación México: @zastalents
     location: "Chile"
-    followers: 1543636
-    engagement: 1404
-    commentsToLikes: 0.027331
-    id: ck8wen3wxeb1f0j781sj590wd
-    verified: false
-    hashtags: "#appgallery, #riderpack, #huaweiy8p"
-  - username: "conyrodriguezv"
+    followers: 9879042
+    engagement: 171
+    commentsToLikes: 0.003550
+    id: ck0u67b1e13920i19mic5m3p9
+    verified: true
+    hashtags: "#conosinreglaellapuede, #genshinimpact, #sumeru, #ignaciaantonia"
+  - username: "jadeseah"
     fullname: >-
-      C
+      Jade Seah
     bio: >-
-      XXII. mucho más de lo que ves aquí ☻ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀ FP @forget.cl ⚡️
+      Presenter | Media Consultant | Digital Creative | Eternal Optimist Shop @juujaaofficial Watch @kakikakilive For biz stuff, Angie: contact@jadeseah.com
     location: "Chile"
-    followers: 10836
-    engagement: 1278
-    commentsToLikes: 0.221064
-    id: ck6tzz2a8corl0j71dyuz23u2
+    followers: 92685
+    engagement: 91
+    commentsToLikes: 0.013328
+    id: ck55ljknf1ptt0i11ojtgbjis
     verified: false
-    hashtags: "#212vipred, #beredsavelives"
+    hashtags: "#riodejaneiro, #argentina, #patagonia, #brazil"
+  - username: "lareinadeldato"
+    fullname: >-
+      LA REINA DEL DATO ®
+    bio: >-
+      Datos útiles de todo tipo ⚡️👑 Casa • Servicios • Belleza • Comida • Niños • Entretención • Descuentos • y más!
+    location: "Chile"
+    followers: 290274
+    engagement: 46
+    commentsToLikes: 0.065358
+    id: ck5bx3llhmxsb0i1149t2slql
+    verified: false
+    hashtags: "#truelion, #rcmemories, #samsungchile, #losgennials"
+  - username: "nicoebner.b"
+    fullname: >-
+      ℕ𝕚𝕔𝕠
+    bio: >-
+      ℂ𝕙𝕚𝕝𝕖📍Catlover 🐈 Nike Run Club. 🏃‍♀️🏃‍♂️Entrenamiento personalizado con coaches. inscripción gratis ⬇️
+    location: "Chile"
+    followers: 15692
+    engagement: 598
+    commentsToLikes: 0.172488
+    id: ck0tt3ekl0zgz0i195fuwe8ea
+    verified: false
+    hashtags: "#nikerunning, #nike, #chile, #santiagodechile"
+  - username: "conejiwii"
+    fullname: >-
+      𝐶𝑜𝑛𝑒𝑗𝑖𝑤𝑖 ♡
+    bio: >-
+      🔥 Streamer de @rebirth_esports 💜 @twitch Partner & #leaguepartner 🌸 Cuenta secundaria @conejiwix
+    location: "Chile"
+    followers: 7552
+    engagement: 1463
+    commentsToLikes: 0.066271
+    id: ckap7kxpjkimg0i78921npdd1
+    verified: false
+    hashtags: "#smile, #inkedgirls, #goodvibes, #cute"
   - username: "paloportales"
     fullname: >-
       Paloma Laura
     bio: >-
-      @better_inabikini x mi Tips / outfits
+      ✨ TIPS / OUTFITS ✨ A veces hago vivos ¡Unica cuenta personal!
     location: "Chile"
-    followers: 14227
-    engagement: 1232
-    commentsToLikes: 0.241032
+    followers: 26704
+    engagement: 1235
+    commentsToLikes: 0.008067
     id: ck6tzz2occovy0j718ayyvyo6
     verified: false
-    hashtags: "#catnewarrivals, #americaneaglecl, #catthelcons, #catoriginalboots"
-  - username: "camivinet_"
-    fullname: >-
-      Cαmilα Vinet 🌻
-    bio: >-
-      Cirujαno Dentistα 👩🏻‍⚕️ Tco, Chile 📍 Mis 🌱🌺 @regala.vida_ 💛 💌 camilavinetb@gmail.com
-    location: "Chile"
-    followers: 16949
-    engagement: 1223
-    commentsToLikes: 0.099703
-    id: ck6tuupt6ij7l0j71x36i1yet
-    verified: false
-    hashtags: "#stayathome, #tbt, #ysllibrebeautytour, #libreysl"
-  - username: "verobianchi89"
-    fullname: >-
-      Veronica Bianchi
-    bio: >-
-      Deporte / Periodista y Conductora de TV #CDF #CHV Mi ❤️ entre Chile, Argentina y donde haya papas fritas🍟 Contacto💌: veronicabianchi1989@gmail.com
-    location: "Chile"
-    followers: 78167
-    engagement: 984
-    commentsToLikes: 0.048975
-    id: ck8sz3h8kn12e0j785s9k3wat
-    verified: false
-    hashtags: "#adidasfootball, #huaweiwatchgt2pro, #psplus, #vida"
-  - username: "angeles_araya_"
-    fullname: >-
-      Ángeles Araya
-    bio: >-
-      Madrugo! Siempre por las pantallas de @canal13cl @aquisomostodos
-    location: "Chile"
-    followers: 50585
-    engagement: 866
-    commentsToLikes: 0.060217
-    id: ck0vvt55tqne30i19twpips75
-    verified: false
-    hashtags: "#shotoniphone, #unyoghurtunasonrisa, #aquisomostodos, #vamospormas"
-  - username: "cata_fdez94"
-    fullname: >-
-      Cata ✨
-    bio: >-
-      🎥| Tutoriales y tips💋 📚| Ingenieria comercial pucv 🏝| Viña Del Mar 📩| Catalina.fernandez.saldias@gmail.com
-    location: "Chile"
-    followers: 68603
-    engagement: 825
-    commentsToLikes: 0.177335
-    id: ck0txdenbiu0b0i19gpkztj4k
-    verified: false
-    hashtags: "#makeupartistchile, #makeuptutorial, #tutorialdemaquillaje, #halloweenmakeup"
+    hashtags: "#lancomechile, #chiaraferragnicl, #ootd"
 ---

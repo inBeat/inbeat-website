@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Canada In 2022
+title: Top 10 Christian Instagram Influencers In Canada In 2023
 description: >-
-  Find top christian Instagram influencers in Canada in 2022. Most popular hashtags: #dailydevotional #biblejournaling #faithquotes.
+  Find top christian Instagram influencers in Canada in 2023. Most popular hashtags: #ad #shopsmall #cyberpunk #amen.
 platform: Instagram
-hits: 154
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 154 Instagram influencers like this in Canada for you to connect with.
+hits: 61
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 61 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "curtismason"
+  - username: "christian.covington"
     fullname: >-
-      Curtis Mason
+      Christian Covington
     bio: >-
-      26 - Montréal Boutique Manager at Christian Louboutin Montreal Model with Modeles LCP 👻: nolimitstoday
+      Vancouver | Cincinnati 𝗖𝟰 • Christian by Name & Faith • ΙΧΘΥΣ To Live is Christ • To Die is Gain • Cincinnati Bengals #99
     location: "Canada"
-    followers: 7740
-    engagement: 1684
-    commentsToLikes: 0.030357
-    id: ck6ubucspbrhx0j71xehwccu8
-    verified: false
-    hashtags: "#blackouttuesday"
+    followers: 28572
+    engagement: 630
+    commentsToLikes: 0.020311
+    id: ck5znhscxohms0i14c81doz53
+    verified: true
+    hashtags: "#amen, #happymothersday, #ripgeorgefloyd, #happyfathersday"
   - username: "fullsnack_developer"
     fullname: >-
       Nicholas Olsen | Developer
     bio: >-
       #web #software #developer | #graphicdesigner | #youtuber | #christian | #Artist | 🇨🇦 | #fullstackdeveloper ⬇️ AMAZING CANDLES ⬇️
     location: "Canada"
-    followers: 44759
-    engagement: 234
-    commentsToLikes: 0.022540
+    followers: 43622
+    engagement: 221
+    commentsToLikes: 0.020253
     id: ck15qkc4m39l40i19vtq2pk0o
     verified: false
-    hashtags: "#developer, #reactjs, #beautiful, #beardeddragon"
+    hashtags: "#beautiful, #coder, #shnoodle, #webdev"
+  - username: "scottsrides"
+    fullname: >-
+      Scott
+    bio: >-
+      Christian/husband/Car guy/Pilot - FFR Cobra, Porsche enthusiast- ‘18 911S , ‘79 911 SC. ‘67 Camaro PHIL 4:13 I can do all things through Christ...
+    location: "Canada"
+    followers: 11698
+    engagement: 336
+    commentsToLikes: 0.022602
+    id: ckaoz8j81kuba0i78diz0y58p
+    verified: false
+    hashtags: "#shelbycobra, #dreamcar, #garagegoals, #chevy"
+  - username: "mundydunn"
+    fullname: >-
+      Mandy T
+    bio: >-
+      🇨🇦👩🏻‍⚕️💖📷📱🌎 •christian ⛪️✝️ •want to make a difference •travel✈ •sunrise & sunsetlover🌅 •naturelover 🌷🌴♨⛰🏖 Pls don’t repost my photos Thanks
+    location: "Canada"
+    followers: 6860
+    engagement: 1417
+    commentsToLikes: 0.015973
+    id: ckf5n8anhx4ko0j231jgnmupg
+    verified: false
+    hashtags: "#japantravelphoto, #nature, #himejicastle, #sunrise"
   - username: "christianzanephotography"
     fullname: >-
       Christian Zane Clado
     bio: >-
-      Photography x Video ADVENTURE | URBAN | STREET Viewing the world through my lens one still at a time Portfolio @christianzanephotos Vancouver BC 🍁 ⬇️🆕
+      Photography x Video ADVENTURE | URBAN | STREET ➜ @streetsofvancity Viewing the world through my lens one still at a time Vancouver BC 🍁 ⬇️🆕
     location: "Canada"
-    followers: 2941
-    engagement: 2403
-    commentsToLikes: 0.518844
+    followers: 3362
+    engagement: 2379
+    commentsToLikes: 0.517344
     id: ck5q7xwke3jxc0i11yqup9uqn
     verified: false
-    hashtags: "#exploreshootconquer, #alpharoamers, #cyberpunk, #creatorsofvancity"
-  - username: "senait"
-    fullname: >-
-      Senait | Mommy Blogger
-    bio: >-
-      Christian✝️ Married @othneilrealestate💍 Therapist turned full-time mama🥰 Sharing+encouraging others along the way💕 💌senait@senaitlitchmore.com
-    location: "Canada"
-    followers: 2884
-    engagement: 996
-    commentsToLikes: 0.188267
-    id: ck6u9yyu60hv30j71zt80cv6j
-    verified: false
-    hashtags: "#pancakeboard, #breakfastboard, #goodfriday, #momlife"
-  - username: "chrisjallaire"
-    fullname: >-
-      Christian Allaire
-    bio: >-
-      Fashion and Style Writer @voguemagazine Indigenous (Ojibwe) 👊🏼 Twitter: @chrisjallaire TikTok: @christianallaire
-    location: "Canada"
-    followers: 8031
-    engagement: 429
-    commentsToLikes: 0.060229
-    id: ckap9n4lysu2i0i787hs9h5s4
-    verified: false
-    hashtags: "#metgala, #premet, #relaxinginr13"
+    hashtags: "#streetframez, #pnwwonderland, #urbanromantix, #pnwhikers"
   - username: "praiseyouforever"
     fullname: >-
-      Praiseyouforvever
+      Christian
     bio: >-
-      #praiseyouforever #instagod #godslove #christian #christianity #loveofgod #god #jesus #lord #church #praisethelord #praiseandworship #pray #thankgod
+      Spreading the word of God #praiseyouforever
     location: "Canada"
-    followers: 4134
-    engagement: 2772
-    commentsToLikes: 0.071709
+    followers: 70264
+    engagement: 316
+    commentsToLikes: 0.049695
     id: ck9we3o02ifxh0j7886h938fr
     verified: false
-    hashtags: "#godlovesme, #mentalhealthisimportant, #dailydevotional, #lifelessonslearned"
-  - username: "kristinancummings"
+    hashtags: "#biblescripture, #melanin, #amen, #trustgod"
+  - username: "onthecovehomeschool"
     fullname: >-
-      Kristina 🌸 Faith Devotions
+      Paige | Home Education 🍶🧺🍃
     bio: >-
-      I empower the everyday Christian woman to take her relationship with God to the next level. 🔗 Freebies, Courses + Coaching - FREE WORSHIP PLAYLIST👇🏼
+      ebbing & flowing with the tides of motherhood & homeschool | anchored in Jesus | seasonal rhythms . new brunswick 🇨🇦 #tidesofmotherhood
     location: "Canada"
-    followers: 7210
-    engagement: 780
-    commentsToLikes: 0.210182
-    id: ckaoykdl4huc90i78zt9hgc1e
+    followers: 30253
+    engagement: 120
+    commentsToLikes: 0.242627
+    id: ckaormqf7nx4b0i789nm8q7oc
     verified: false
-    hashtags: "#bibleart, #faithblogger, #prayerwarrior, #lightoftheworld"
-  - username: "akeel.music"
+    hashtags: "#homeschoolfamily, #homeschoollife, #homeschoolroom, #charlottemason"
+  - username: "georgeunice.adventures"
     fullname: >-
-      Akeel
+      Eunice | Canadian Mama 🇨🇦
     bio: >-
-      #Toronto | #LA #Christian GOLD Certified Creds:TreySongz|ToniBraxton|Ty$|SwaeLee|Jeremih|KidInk|Bas|Dreezy|LOONY+ 🎹 for Daniel Caesar ✍🏾️ to Babyface
+      ▪️family is the ultimate adventure ▪️mama to 👧👧👦 ▪️motherhood musings & marriage tips ✉️ georgeunice2015@gmail.com ⬇️
     location: "Canada"
-    followers: 5768
-    engagement: 336
-    commentsToLikes: 0.120855
-    id: ck0tutj6w8lg30i19ctm5xdon
+    followers: 22590
+    engagement: 66
+    commentsToLikes: 0.040896
+    id: ckaoryl3apcwh0i78dv6d1c4c
     verified: false
-    hashtags: "#14, #joyride, #behindtheboards, #defjam"
-  - username: "kisungkoh"
+    hashtags: "#momhumor, #listerinegreenteazero, #momcomedy, #funnyreels"
+  - username: "saguilar_"
     fullname: >-
-      kisung Koh
+      𝐂𝐎𝐍𝐅𝐈𝐃𝐄𝐍𝐂𝐄 𝐈𝐍 𝐌𝐎𝐕𝐄𝐌𝐄𝐍𝐓
     bio: >-
-      고기성/Koh,Christian,Toronto🇨🇦 from Seoul🇰🇷 ,nature,animallover,painter/ \<•>. /inquiry : kohkikoh@gmail.com
+      God First 🙏🏽🕊 Dance Instructor+Performer 💃🏼 ＭＥＮＴＯＲ💰 @confidenceinmovement_ 🎓SSW
     location: "Canada"
-    followers: 12102
-    engagement: 486
-    commentsToLikes: 0.019669
-    id: ck134ijbawlig0i19c5l32vrm
+    followers: 13009
+    engagement: 432
+    commentsToLikes: 0.111274
+    id: ck5himxzkeced0i112deaidsx
     verified: false
-    hashtags: "#wip, #tbt, #owl, #kisungkoh"
-  - username: "oshane.howard"
+    hashtags: "#smallbusinessowner, #contentcreator, #godisgood, #confidenceinmovement"
+  - username: "molly_onthemove"
     fullname: >-
-      O'shane Howard
+      Molly
     bio: >-
-      🇨🇦 🇯🇲 #Commercial #Editorial #Product Photographer, Creative Director, & Videographer Creator of @christianbased @forcreatives.co ° Toronto, Canada
+      I’ve rebranded! 🥳 Find me at @livewildlywell 💖
     location: "Canada"
-    followers: 4254
-    engagement: 1001
-    commentsToLikes: 0.162326
-    id: ck55mssu84p290i11acwyxu36
+    followers: 15
+    engagement: 205444
+    commentsToLikes: 0.177639
+    id: ckaorribjof9v0i78m8b4pwou
     verified: false
-    hashtags: "#covershoot, #photostories, #staytuned, #teamnaija"
+    hashtags: "#glitterguide, #austinsnowday, #theeverygirl, #sustainable"
 ---

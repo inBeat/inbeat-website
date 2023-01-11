@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In London In 2022
+title: Top 10 Lifestyle TikTok Influencers In London In 2023
 description: >-
-  Find top lifestyle TikTok influencers in London in 2022. Most popular hashtags: #fyp #london #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in London in 2023. Most popular hashtags: #fyp #london #foryou #lifestyle.
 platform: TikTok
-hits: 31
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 31 TikTok influencers like this in London, United Kingdom for you to pitch.
+hits: 32
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 32 TikTok influencers like this in London, United Kingdom for you to connect with.
 profiles:
-  - username: "izzykatee"
+  - username: "jessietrueman"
     fullname: >-
-      was: fl0werch1ld
+      Jessie
     bio: >-
-      changed name.. again ;)
+      Yes, I am Smallex4ft11’s sister
     location: "United Kingdom"
-    followers: 7156
-    engagement: 3204
-    commentsToLikes: 0.101521
-    id: cka6r6h7jqbsh0i780xzv35eu
+    followers: 7278
+    engagement: 818
+    commentsToLikes: 0.031263
+    id: ckavitzxjr8qt0j23pdax0b1k
     verified: false
-    hashtags: "#mylife, #uk, #glossier, #vlog"
+    hashtags: "#art, #foryou, #sewing, #aesthetic"
+  - username: "luxuryliving"
+    fullname: >-
+      The Luxury Living
+    bio: >-
+      The luxury lifestyle platform 📽 All original content
+    location: "United Kingdom"
+    followers: 444700
+    engagement: 834
+    commentsToLikes: 0.008956
+    id: ckan17dh4u2xm0i78asnhe819
+    verified: false
+    hashtags: "#london, #lifestyle, #luxuryliving, #bentley"
   - username: "happymultani1"
     fullname: >-
       Happy Multani
     bio: >-
       SINGH👳🏻♂️TRUCKIE 🚚 🎂 14 OCT 🇵🇹🛫 🛬🇬🇧
     location: "United Kingdom"
-    followers: 4461
-    engagement: 801
-    commentsToLikes: 0.043169
+    followers: 4433
+    engagement: 766
+    commentsToLikes: 0.039168
     id: ck80oc899gqrn0j78vig5hftb
     verified: false
-    hashtags: "#hifination, #justforfun, #holidayszn, #tiktokuk"
-  - username: "leefys_lifestyle"
-    fullname: >-
-      Leefy 🍂
-    bio: >-
-      🇮🇳 🇬🇧 L E E F Y 🇰🇷🇱🇰 📍: 🇬🇧 | 20 Follow my IG CEO of HUGS 🤗
-    location: "United Kingdom"
-    followers: 137800
-    engagement: 970
-    commentsToLikes: 0.022134
-    id: ck8adc7bu51zh0j78al2sloce
-    verified: false
-    hashtags: "#koreanbbqlondon, #fyp, #foryou, #indian"
-  - username: "dilmatharu"
-    fullname: >-
-      Dil Matharu
-    bio: >-
-      Make up Artist - INSTA & YOUTUBE CLICK ⬆️ 🇬🇧
-    location: "United Kingdom"
-    followers: 27200
-    engagement: 430
-    commentsToLikes: 0.062303
-    id: ckbf8g56jz1d70j2385slkd8q
-    verified: false
-    hashtags: "#dilmatharubeauty, #sikhbrides, #malemua, #makeupartist"
-  - username: "paulinagrabowska_"
-    fullname: >-
-      Paulina 
-    bio: >-
-      Hi all! Hope you like the videos and if you do follow my journey on my Instagram
-    location: "United Kingdom"
-    followers: 25100
-    engagement: 1092
-    commentsToLikes: 0.049361
-    id: ckbkxiuy4tkxy0j23dc8lvtvh
-    verified: false
-    hashtags: "#ukblogger, #tiktok, #londonstyle, #uk"
+    hashtags: "#tiktokuk, #hifination, #holidayszn, #justforfun"
   - username: "skinnydiplondon"
     fullname: >-
       skinnydiplondon
     bio: >-
       Lifestyle brand like no other. Designed in London 💕
     location: "United Kingdom"
-    followers: 27800
-    engagement: 1982
-    commentsToLikes: 0.023842
+    followers: 29000
+    engagement: 1831
+    commentsToLikes: 0.018587
     id: ckavl8u9quiov0j23bge9dzqi
     verified: true
-    hashtags: "#bts, #viral, #fyp, #skinnydiplondon"
+    hashtags: "#blackfriday2020, #fyp, #skinnydiplondon, #foryoupage"
   - username: "lifestyle.maddy"
     fullname: >-
       maddy🤍
     bio: >-
       blm! GO FOLLOW MY INSTAGRAM! <3 biz- lifestyle.maddyy@gmail.com
     location: "United Kingdom"
-    followers: 123400
-    engagement: 2273
-    commentsToLikes: 0.058750
+    followers: 124800
+    engagement: 2125
+    commentsToLikes: 0.047874
     id: ckcv44if9opyg0j23k3p2peh0
     verified: false
-    hashtags: "#summer, #morning, #uk, #fyp"
-  - username: "jululululiet"
+    hashtags: "#summer, #foryou, #morning, #routine"
+  - username: "tahsincooks"
     fullname: >-
-      juliet
+      tahsincooks
     bio: >-
-      19 london julululiet@milne.cc
+      21 ☁️ N London 🇬🇧
     location: "United Kingdom"
-    followers: 20200
-    engagement: 1718
-    commentsToLikes: 0.023829
-    id: ck9f9rcbh82l00j78t6wrjgau
+    followers: 17700
+    engagement: 928
+    commentsToLikes: 0.048808
+    id: ckdncq5kbgq0o0j23mmae270k
     verified: false
-    hashtags: "#travel, #fyp, #tiktoklondon, #secretlondon"
-  - username: "luxuryliving"
+    hashtags: "#easy, #food, #grubspot, #london"
+  - username: "naomijaneadams"
     fullname: >-
-      The Luxury Living
+      Naomi Jane Adams
     bio: >-
-      The luxury lifestyle platform 📽 All original content 🤭
+      Official Account Naomi Jane Adams Travel & Fashion & Lifestyle
     location: "United Kingdom"
-    followers: 372500
-    engagement: 808
-    commentsToLikes: 0.014466
-    id: ckan17dh4u2xm0i78asnhe819
+    followers: 5477
+    engagement: 614
+    commentsToLikes: 0.039632
+    id: cka0paawl7fy80i78ohqh4db5
     verified: false
-    hashtags: "#luxuryliving, #carsoftiktok, #foryou, #penthouse"
-  - username: "lifestyle_lily7"
+    hashtags: "#london, #catsoftiktok, #beautifulhotels, #fyp"
+  - username: "luxury_watches"
     fullname: >-
-      Lifestyle_lily7
+      mdn_watches
     bio: >-
-      🇫🇷 🇬🇫 girl living in 🇬🇧 Here for fun 💃🏾🍾🎉 IG : lifestyle_lily
+      ⌚️ Watch Dealer 📍London 👉🏻 Instagram: mdn_watches
     location: "United Kingdom"
-    followers: 3400
-    engagement: 946
-    commentsToLikes: 0.029928
-    id: ckamm3wgfyu520i78jcuu7rpf
+    followers: 12100
+    engagement: 521
+    commentsToLikes: 0.039494
+    id: ck8f89jya3dsf0j782x8waib3
     verified: false
-    hashtags: "#foryoupage, #foryou, #fyp, #houseoftiktok"
+    hashtags: "#oysterflex, #yachtmaster, #viral, #goldwatch"
+  - username: "bingerspingers"
+    fullname: >-
+      George Bingham
+    bio: >-
+      Food. Fitness. Health. Wealth. Lifestyle. Here for a good time, not a long time!
+    location: "United Kingdom"
+    followers: 469100
+    engagement: 562
+    commentsToLikes: 0.008791
+    id: ck9k05ippbjno0j78ynntubi9
+    verified: false
+    hashtags: "#fyp, #learnontiktok, #foryoupage, #fuelforfitness"
+  - username: "demelzamay"
+    fullname: >-
+      Demelza
+    bio: >-
+      Welcome to my uni life/fitness lifestyle DEMELZA20 for 20% off Misfitshealth💪🏼
+    location: "United Kingdom"
+    followers: 84500
+    engagement: 571
+    commentsToLikes: 0.011708
+    id: cka0gtk2b5zlq0i78ehasolh2
+    verified: false
+    hashtags: "#zara, #workout, #gym, #foryou"
 ---

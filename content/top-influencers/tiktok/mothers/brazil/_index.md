@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Brazil In 2022
+title: Top 10 Mothers TikTok Influencers In Brazil In 2023
 description: >-
-  Find top mothers TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #fy #tiktokbrasil.
+  Find top mothers TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #fy #anime.
 platform: TikTok
-hits: 34
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database has 34 TikTok influencers like this in Brazil for you to connect with.
+hits: 33
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat has 33 TikTok influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "ilxbebella"
-    fullname: >-
-      🎨💞
-    bio: >-
-      you are amazing! - monitored by the mother - ✉🛁🤍
-    location: "Brazil"
-    followers: 5480
-    engagement: 4119
-    commentsToLikes: 0.344820
-    id: ckcvj4g3awgpb0j239erh0yyw
-    verified: false
-    hashtags: "#ohno, #fy, #fyp, #girlsjoalin2audicao"
   - username: "lorenaescriche"
     fullname: >-
       Lorena Escriche
     bio: >-
       Mother 👩‍👧 firefighter 🚒, traveler ✈️
     location: "Brazil"
-    followers: 36800
-    engagement: 472
-    commentsToLikes: 0.009733
+    followers: 36700
+    engagement: 468
+    commentsToLikes: 0.009380
     id: ckb9u6y4bsnnk0j233pstjhb4
     verified: false
-    hashtags: "#tiktokviagem, #comedia, #challenge, #geracaotiktok"
+    hashtags: "#viagem, #tiktokbrasil, #tiktokviagem, #maternidade"
   - username: "lucasbrandao__"
     fullname: >-
       Lucas Brandão
     bio: >-
       quarantining...
     location: "Brazil"
-    followers: 28800
-    engagement: 1233
-    commentsToLikes: 0.022750
+    followers: 28400
+    engagement: 1229
+    commentsToLikes: 0.021452
     id: ckb12a14cqj580j23m9x2ub7w
     verified: false
-    hashtags: "#love, #fyp, #tiktok, #challenge"
+    hashtags: "#fyp, #love, #tiktok, #challenge"
   - username: "naiumigoldoni"
     fullname: >-
       naiumigoldoni
     bio: >-
       Atriz. Criadora de Conteúdo. Mãe. Super Mulher! 🤩😋 Insta: @naiumigoldoni
     location: "Brazil"
-    followers: 627400
-    engagement: 1481
-    commentsToLikes: 0.006391
+    followers: 909200
+    engagement: 1374
+    commentsToLikes: 0.007298
     id: ck8qgbxze08oz0j78wmc3t1i0
     verified: true
-    hashtags: "#tiktokbrasil, #mom, #dublagem, #humor"
-  - username: "brenoferreira"
+    hashtags: "#fy, #mother, #babygirl, #mom"
+  - username: "pleaseyume"
     fullname: >-
-      Breno Ferreira 
+      @PleaseYume
     bio: >-
-      Prazer, Breno! Jesus é bom :)
+      🌸Yume, 17y🌸 ig: PleaseYume 💫Na média com tudo💫 #Superbusksg
     location: "Brazil"
-    followers: 138400
-    engagement: 2388
-    commentsToLikes: 0.019351
-    id: ckahwlrizrgr90i78dgxclcax
+    followers: 3311
+    engagement: 2067
+    commentsToLikes: 0.092772
+    id: ckc91i8fvrics0j23c543xd0g
     verified: false
-    hashtags: "#jesus, #amor, #deus, #devocional"
-  - username: "referreiracos"
+    hashtags: "#superbuskgs, #otome, #pinkhair, #kawaiigotic"
+  - username: "offsuna_"
     fullname: >-
-      Rê Ferreira 🖤🌈
+      me chame de Yuri
     bio: >-
-      🖤💫Rê Ferreira💫💜 COSPLAY 🎭 RPG 🎲 NERDICES 🤓
+      ⺀He/She 🏳‍🌈 [L]GBT minha playlist 👇🏻
     location: "Brazil"
-    followers: 23700
-    engagement: 1529
-    commentsToLikes: 0.090420
-    id: ckc1o3tc5so930j23vivbdjyr
+    followers: 41000
+    engagement: 2283
+    commentsToLikes: 0.050104
+    id: cka9l09w61cm30i78w0japfnk
     verified: false
-    hashtags: "#arlequina, #druida, #bnha, #himikotoga"
-  - username: "pedrolomando"
+    hashtags: "#haikyuu, #tsuyu, #bakugou, #bnha"
+  - username: "ispeixe"
     fullname: >-
-      Pedro Lomando Rocha
+      Kiv
     bio: >-
-      Se vc se divertiu, meu dever foi cumprido
+      eu desenho coisas ele/dele he/him (Trans) 🏳️‍🌈🇧🇷 ⚫
     location: "Brazil"
-    followers: 26600
-    engagement: 2487
-    commentsToLikes: 0.031237
-    id: ckc8yszxpnf260j239d86sz6s
+    followers: 87500
+    engagement: 2421
+    commentsToLikes: 0.030697
+    id: ck9aclki3thba0j78mlbbus2q
     verified: false
-    hashtags: "#fyp, #fy, #viral, #backtoschool"
-  - username: "pewilliancoutinho"
+    hashtags: "#draw, #problems, #dueto, #art"
+  - username: "taets_"
     fullname: >-
-      Willian Coutinho
+      Gih
     bio: >-
-      Era pra ter algo legal escrito aqui...To pensando ainda! Me segue lá no insta!
+      ꒦꒷꒦꒷꒦꒷꒦꒷꒦ •she/her• :)
     location: "Brazil"
-    followers: 157500
-    engagement: 1398
-    commentsToLikes: 0.044500
-    id: ckcoxf3y19ti80j23hrue4uof
+    followers: 20100
+    engagement: 2444
+    commentsToLikes: 0.093448
+    id: ck9erglaw1mxo0j784ax6psrr
     verified: false
-    hashtags: "#padretiktoker, #funny, #tiktokbrasil, #church"
-  - username: "yue_10"
+    hashtags: "#viral, #fyp, #foryoupage, #fy"
+  - username: "yasminschesling"
     fullname: >-
-      yue_10
+      Yasmin Schesling
     bio: >-
-      ❤️👐👈(++) ;) "o"☺️😮 Obrigada por me seguir e da ❤️ 😮👈 da uma olhada 🤤🤙👇
+      Bailarina e etc Insta: yasminschesling
     location: "Brazil"
-    followers: 37900
-    engagement: 1401
-    commentsToLikes: 0.028537
-    id: ck982dozdfk6h0j784rdfhn32
+    followers: 116500
+    engagement: 1991
+    commentsToLikes: 0.097463
+    id: ck9uxz2jk25nn0j78fq9x597n
     verified: false
-    hashtags: "#thorfinn, #mydemons, #formy, #dark"
-  - username: "karenguilhen"
+    hashtags: "#bailarina, #fy, #balletdancer, #dan"
+  - username: "kira_tokyo"
     fullname: >-
-      Karen Mangini Guilhen
+      LANA
     bio: >-
-      🏳️‍🌈 Instagram: _krnguilhen Twitter: krnguilhen Segue aí 🦋
+      LANA//18yo Ela/dela Otaku/weeb SASAGEYO🛐 ᴄᴇᴏ ᴇᴍ ᴄᴀɪʀ ᴇᴍ ɢᴇɴᴊᴜᴛsᴜ
     location: "Brazil"
-    followers: 31300
-    engagement: 1867
-    commentsToLikes: 0.033607
-    id: ckdi8dc1gaswp0j236wutsebg
+    followers: 11600
+    engagement: 3059
+    commentsToLikes: 0.072280
+    id: ck9a64ck81jvs0j788wxp2n7m
     verified: false
-    hashtags: "#foryoupage, #comedia, #foryou, #humor"
+    hashtags: "#weebgirls, #dabi, #gomenasai, #bokunoheroacademia"
+  - username: "yasminartdrawing"
+    fullname: >-
+      Yasmin  
+    bio: >-
+      17y // Girl// Artist 🦄✍️ YasminArtDrawing@fanfluencer.com
+    location: "Brazil"
+    followers: 13600000
+    engagement: 1577
+    commentsToLikes: 0.028221
+    id: ck7zofq30jmmd0j78srz0lun4
+    verified: true
+    hashtags: "#art, #bff, #painting, #drawing"
 ---

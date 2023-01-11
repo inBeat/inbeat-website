@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Japan In 2022
+title: Top 10 Gymnasts Instagram Influencers In Japan in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Japan in 2022. Most popular hashtags: #gymnastics #acrobat #flip #tricking.
+  Find top gymnasts Instagram influencers in Japan in 2023. Most popular hashtags: #gymnastics #acrobat #flip #tricking.
 platform: Instagram
 hits: 16
 text_top: Identify the best Instagram profiles on inBeat.

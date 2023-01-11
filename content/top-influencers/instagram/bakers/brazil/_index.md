@@ -1,48 +1,60 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Brazil In 2022
+title: Top 10 Bakers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top bakers Instagram influencers in Brazil in 2022. Most popular hashtags: #foodphotography #pastry #baker #instafood.
+  Find top bakers Instagram influencers in Brazil in 2023. Most popular hashtags: #foodblogger #foodphotography #baking #foodstyling.
 platform: Instagram
-hits: 138
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 138 Instagram influencers like this in Brazil for you to contact.
+hits: 198
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 198 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "bakergkln"
+    fullname: >-
+      BAKER
+    bio: >-
+      🇧🇷 Brazillian Rapper 🎤@gilklan 💿@papatunes 📮Shows: contato@papatinho.com ☎️21 981386134 ⬇️⬇️LANÇAMENTO⬇️⬇️ Carlean - Passando de fase(feat.Baker)
+    location: "Brazil"
+    followers: 4156
+    engagement: 530
+    commentsToLikes: 0.160547
+    id: ck6u4so0c5jvh0j71heuwmy9i
+    verified: false
+    hashtags: "#quarentena, #ficaemcasa, #quarantine, #hiphop"
   - username: "lindsey.ruel"
     fullname: >-
       Lindsey
     bio: >-
       Cookie baker & decorator. Wife & momma. ⬇️ Blog, e-courses, recipes, tutorials, & supplies, below. Contact via email. 📧
     location: "Brazil"
-    followers: 26538
-    engagement: 311
-    commentsToLikes: 0.033563
+    followers: 28589
+    engagement: 344
+    commentsToLikes: 0.036927
     id: ck5hl8ib5jrlr0i11205zr0a0
     verified: false
-    hashtags: "#cookieoftheday, #cookiedecorating, #sugarcookie, #sugarcookies"
+    hashtags: "#cookiesofinstagram, #royalicing, #cookiedecorator, #cookielove"
   - username: "nat.mendonca"
     fullname: >-
       Natália Mendonça
     bio: >-
       I'll help you to become a better baker 🇬🇧 Students in 98 countries 🌏 Eu te ajudo a ser um confeiteiro melhor 🇧🇷 Alunos em 98 países 🌎
     location: "Brazil"
-    followers: 141721
-    engagement: 57
-    commentsToLikes: 0.032485
+    followers: 146332
+    engagement: 45
+    commentsToLikes: 0.025079
     id: ck15swve3f7kl0i19qovu1xbc
     verified: false
     hashtags: "#tbt"
-  - username: "rileyhawk"
+  - username: "dylansprousue"
     fullname: >-
-      Riley Hawk
+      Dylan Sprouse
     bio: >-
-      @bakerskateboards @lakailtd @brixton @steelmillcoffee @warish.usa
+      This is a fan account. || Brazilian owner. Dylan liked 2x. AllWiseMeadery liked 1x. Kj Apa liked 1x. Damon Baker liked 1x.
     location: "Brazil"
-    followers: 327564
-    engagement: 458
-    commentsToLikes: 0.010398
-    id: ck0ty2s53ldgc0i19bvlqx08o
+    followers: 86743
+    engagement: 385
+    commentsToLikes: 0.003722
+    id: ck15r9ent6t0v0i191rjpaeyo
     verified: false
-    hashtags: "#thps, #poodsforever"
+    hashtags: "#carteblanchefilm, #sprousetwins, #zackandcody, #suitlife"
   - username: "malasnomundo"
     fullname: >-
       𝕄𝕒𝕝𝕒𝕤 𝕟𝕠 𝕞𝕦𝕟𝕕𝕠 🗺
@@ -54,19 +66,7 @@ profiles:
     commentsToLikes: 0.058318
     id: ck0ueaw9ul17i0i194u0demz2
     verified: false
-    hashtags: "#uk, #discovereurope, #visithungary, #viajar"
-  - username: "chezmabi"
-    fullname: >-
-      O Quebra-Nozes Chez Mabi
-    bio: >-
-      #receitas #patisserie #foodfluffer Pâtisserie e outros contos 🇫🇷 Foodstyling | Recipe Developer 🍒
-    location: "Brazil"
-    followers: 6924
-    engagement: 617
-    commentsToLikes: 0.076055
-    id: ck8t8g3mekc720j783jigm1gr
-    verified: false
-    hashtags: "#bakeandshare, #foodlover, #createtoinspire, #chocolate"
+    hashtags: "#instaprague, #montreux, #hungary, #hungr"
   - username: "turkyilmazresmi"
     fullname: >-
       Nihat Türkyılmaz 🇹🇷
@@ -78,31 +78,19 @@ profiles:
     commentsToLikes: 0.055688
     id: ck14k1fkmn8rw0i1973szycsq
     verified: false
-    hashtags: "#liliankustercakedesigner, #fabind, #cakedesigner, #ballooncaketopper"
-  - username: "gsolovidal"
-    fullname: >-
-      Gonzalo Vidal •cozinheiro•
-    bio: >-
-      @la_choriceriarj @74restaurant @casas_brancas_hotel
-    location: "Brazil"
-    followers: 7527
-    engagement: 473
-    commentsToLikes: 0.031842
-    id: ck5pzfbjw0p2s0i11hasfpedm
-    verified: false
-    hashtags: "#sweet, #lunch, #brasil, #top"
+    hashtags: "#liliquetes, #ballooncaketopper, #baker, #boloespatulado"
   - username: "pratofundo"
     fullname: >-
       PratoFundo por Vitor Hugo
     bio: >-
       🍪Comida + Ciência👨‍🔬 + Mercado 🛒 Vem comer um bolinho e fofocas do Maillard! 📩 contato@pratofundo.com ⬇︎RECEITAS⬇︎
     location: "Brazil"
-    followers: 33155
-    engagement: 299
-    commentsToLikes: 0.040230
+    followers: 37908
+    engagement: 308
+    commentsToLikes: 0.033033
     id: ck5q1t6iucnlj0i113m4x1nwf
     verified: false
-    hashtags: "#bakersofinstagram, #foodporn, #pastry, #buzzfeedfood"
+    hashtags: "#foodstyling, #foodblogfeed, #foodgasm, #lovefood"
   - username: "padocadoalex"
     fullname: >-
       🇧🇷 Padoca do Alex 😉🌾
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.026347
     id: ck15rjcsz87e70i191l7wrb4e
     verified: false
-    hashtags: "#workshop, #pane, #bread, #naturallyleavened"
-  - username: "primechefbr"
+    hashtags: "#pa, #igbread, #homebaking, #baking"
+  - username: "chezmabi"
     fullname: >-
-      PRIME CHEF
+      O Quebra-Nozes Chez Mabi
     bio: >-
-      Importadora e Distribuidora de Acessórios para Confeitaria, Padaria e Festa. ☎️ ZAP VENDA NO ATACADO: (11) 94102-9005 VENDA NO VAREJO: (11) 97367-3381
+      #receitas #patisserie #foodfluffer Pâtisserie e outros contos 🇫🇷 Foodstyling | Recipe Developer 🍒
     location: "Brazil"
-    followers: 133401
-    engagement: 60
-    commentsToLikes: 0.415175
-    id: ck6u9ljmcy7vr0j713t85sdqy
+    followers: 6711
+    engagement: 592
+    commentsToLikes: 0.074907
+    id: ck8t8g3mekc720j783jigm1gr
     verified: false
-    hashtags: "#bolopersonalizados, #pastrylife, #primechefbr, #cakedesign"
+    hashtags: "#chocolate, #foodblogfeed, #inmykitchen, #fellowmag"
+  - username: "anabeatrizvilarinho"
+    fullname: >-
+      Ana Beatriz | Vegan Eats
+    bio: >-
+      Plant based recipes 🌱 Daily stories in 🇵🇹🇬🇧 Law student @fduporto ⚖️🇵🇹 DISCOUNT CODES 👇🏼
+    location: "Brazil"
+    followers: 7112
+    engagement: 643
+    commentsToLikes: 0.156639
+    id: ck5hqouovtglb0i11yfa5gsjn
+    verified: false
+    hashtags: "#buddhabowl, #veganportugal, #oats, #veganbowls"
 ---

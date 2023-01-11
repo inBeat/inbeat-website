@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Malaysia In 2022
+title: Top 10 Models Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top models Instagram influencers in Malaysia in 2022. Most popular hashtags: #ootd #selfie #model #photo.
+  Find top models Instagram influencers in Malaysia in 2023. Most popular hashtags: #photography #smile #makeup.
 platform: Instagram
-hits: 110
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 110 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 72
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 72 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
+  - username: "hannaqeela"
+    fullname: >-
+      Hanna Aqeela
+    bio: >-
+      Nutritionist | Model / Actress Email: hannaqeela90@gmail.com
+    location: "Malaysia"
+    followers: 363795
+    engagement: 6
+    commentsToLikes: 0.001464
+    id: ck6tj1z991uo40j71d9dsjhmq
+    verified: false
+    hashtags: "#prismplusmy, #prismplusmonitor, #englishpearandfreesia, #myjomalonelondon"
+  - username: "ruska.karkashadze"
+    fullname: >-
+      RUSKA KARKASHADZE/Actress
+    bio: >-
+      ▪️Actress🎬 ▪️Tv-Host🎤 ▪️Semi-finalist at #dwts 🌟 ▪️photo model📸 #ambassador 🙏🏻 ▪️love dancing 💃🏻 , & playing tennis 🎾
+    location: "Malaysia"
+    followers: 146490
+    engagement: 506
+    commentsToLikes: 0.158879
+    id: ck15rtli29n100i19yn2ff6p2
+    verified: false
+    hashtags: "#influencer, #shooting, #photography, #modeling"
   - username: "hanlibubu"
     fullname: >-
       Hanlibubu 汉梨 | 🇲🇾
     bio: >-
-      💛 Model • KOL • Host ✈️ Founder of @soinmediaenterprise 📥workwithme@hanlibubu.com 👇🏻分享我日常生活 📍KL, Malaysia 🇲🇾
+      💛 Model • KOL • Host ✈️ Founder of @soinmediaenterprise 📥workwithme@hanlibubu.com 💮Nirvana SA 📍KL, Malaysia 🇲🇾
     location: "Malaysia"
-    followers: 61314
-    engagement: 266
-    commentsToLikes: 0.055161
+    followers: 67638
+    engagement: 300
+    commentsToLikes: 0.058334
     id: ck0vy58c32am90i192780f20n
     verified: false
-    hashtags: "#hanlibubu, #clg, #uspresident, #uspresidents"
+    hashtags: "#joicomy, #goodbye2020, #touchngoewallet, #lebihbanyakesktra"
+  - username: "feniasworld"
+    fullname: >-
+      Fenia
+    bio: >-
+      Model | Traveller | Influencer | Artist 📸 My pics: 44 countries Manager : @photravel_iphone 📩 feniasworld@gmail.com 📌Malaysia @sazzito
+    location: "Malaysia"
+    followers: 53301
+    engagement: 349
+    commentsToLikes: 0.044948
+    id: ck60029k1ctu60i14dgo1jhth
+    verified: false
+    hashtags: "#girl, #beach, #valentineday, #smile"
+  - username: "da_astafieva"
+    fullname: >-
+      Даша Астафьева
+    bio: >-
+      Singer • Model • Actress • TV Host 55th Anniversary Playmate of @playboy  Bkng/Mng: +380 (99) 645 54 53 Adver: Alina@durnevsales.com.ua My new song 👇🏻
+    location: "Malaysia"
+    followers: 447404
+    engagement: 240
+    commentsToLikes: 0.025952
+    id: ck0vwvzyvvuw80i19qs2cibwb
+    verified: true
+    hashtags: "#style, #photography, #woolite, #ph"
+  - username: "winniek_my"
+    fullname: >-
+      Winnie K
+    bio: >-
+      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ wkproduction@gmail.com
+    location: "Malaysia"
+    followers: 305977
+    engagement: 88
+    commentsToLikes: 0.104950
+    id: ck5zotkhyraxs0i14pe1m3368
+    verified: true
+    hashtags: "#healthiswealth, #hydrogen, #healthylifestyle, #healthapp"
+  - username: "_hakkencoser_"
+    fullname: >-
+      Hakken 八犬
+    bio: >-
+      🇲🇾 ｜cosplayer ｜model ❗️THIS IS MY ONLY IG Please email for business✉️
+    location: "Malaysia"
+    followers: 2309289
+    engagement: 2471
+    commentsToLikes: 0.011961
+    id: ck136577k4sz50i1917sjsc3x
+    verified: false
+    hashtags: "#supergroupies, #animebound, #dollsoom, #skechersmy"
   - username: "yvonneyeefei"
     fullname: >-
       Yvonne 李伊霏
     bio: >-
       💼 Broadcaster | Model 📧 yvonneleeyeefei@gmail.com 🎶TikTok/抖音 yvonneyeefei 🐘小象Elelive ID: 10072011🔍 Page: www.facebook.com/YvonneLeeYeeFei/
     location: "Malaysia"
-    followers: 40785
-    engagement: 314
-    commentsToLikes: 0.032037
+    followers: 41019
+    engagement: 260
+    commentsToLikes: 0.028725
     id: ck5zl1awckjqh0i14kcuti2js
     verified: false
-    hashtags: "#instadaily, #lookoftheday, #smile, #cat"
-  - username: "khadim8657"
-    fullname: >-
-      Khadim Gaye
-    bio: >-
-      SENEGAL 🇸🇳🇸🇳/Dakar Khadim Gaye model Shooting/Défilé/Pub/Cinema Facebook / khadim gaye E-mail:Gkhadim440@gmail.com Whatshap +221///////
-    location: "Malaysia"
-    followers: 9232
-    engagement: 693
-    commentsToLikes: 0.041050
-    id: ck6txz0bk0oi90j71ihypp0h2
-    verified: false
-    hashtags: "#shooter, #black, #shooting, #passion"
+    hashtags: "#kinkalow, #catlover, #catstagram, #leeta"
   - username: "charissachong"
     fullname: >-
-      Charissa Chong
+      Charissa Chong 🌹
     bio: >-
-      Creator . Model . Host •Miss Universe Malaysia 2020 1stRu •Miss International Malaysia 2013 @positivityfordisability
+      Content creator • Host • Model Miss Universe Malaysia 2020 1stRU hello.charissachong@gmail.com
     location: "Malaysia"
-    followers: 44457
-    engagement: 252
-    commentsToLikes: 0.025614
+    followers: 47480
+    engagement: 298
+    commentsToLikes: 0.025828
     id: ck139piqzmhu10i19eh9zr68u
     verified: false
-    hashtags: "#kualalumpur, #quarantinelife, #fitnessmotivation, #hairgoals"
-  - username: "rienaamirah"
-    fullname: >-
-      ✨رينا اميره✨
-    bio: >-
-      Model Freelancer @rienazfood 📍KUL, 🇲🇾
-    location: "Malaysia"
-    followers: 38428
-    engagement: 600
-    commentsToLikes: 0.027709
-    id: ck137t1ktd88b0i194ye01x8h
-    verified: false
-    hashtags: "#pelakonwanita, #pelakon, #modelperempuan, #hijabmodel"
-  - username: "areej.fatima"
-    fullname: >-
-      Areej Fatima Saeed
-    bio: >-
-      Fashion Model,Travel & Lifestyle Blogger 📍Pakistan 👻 areejfatimak
-    location: "Malaysia"
-    followers: 176969
-    engagement: 157
-    commentsToLikes: 0.139965
-    id: ck15tuzpyk1dd0i19po7clqbt
-    verified: false
-    hashtags: "#alkaramwoman, #winterwandering20, #areejfatimasaeed, #influencer"
-  - username: "isabelleman2"
-    fullname: >-
-      Isabelle Man
-    bio: >-
-      Travel•Lifestyle•Fashion•Positivity•Health❤️HomeChef @bellebellebite/BeautyQueen/Biotech/Model/Influencer❤️Sponsorship:isabelleman78@gmail.com
-    location: "Malaysia"
-    followers: 10481
-    engagement: 235
-    commentsToLikes: 0.075642
-    id: ck0tyggo2mpog0i191owr96k3
-    verified: false
-    hashtags: "#babe, #selfie, #positivevibesonly, #malaysia"
-  - username: "ruska.karkashadze"
-    fullname: >-
-      RUSKA KARKASHADZE/Actress
-    bio: >-
-      Actress🎬 Tv-Host🎤 Semi-finalist at #dwts 🌟 photo model📸 #ambassador 🙏🏻 love dancing 💃🏻 , & playing tennis 🎾 🐚🐚🐚
-    location: "Malaysia"
-    followers: 132744
-    engagement: 498
-    commentsToLikes: 0.005034
-    id: ck15rtli29n100i19yn2ff6p2
-    verified: false
-    hashtags: "#instagram, #ruskakarkashadze, #instagood, #love"
-  - username: "intan.nurshahira"
-    fullname: >-
-      Founder of @raraa.boutique 🏦
-    bio: >-
-      Bibik @pastarawr_ 👩🏻‍🍳 🇲🇾 Freelance Model | 21's ⬇️ Photoshoot | Shooting | Collabs 🎁 Gift review & Paid review ⬇️ Kindly DM for any inquiries.
-    location: "Malaysia"
-    followers: 27294
-    engagement: 435
-    commentsToLikes: 0.031568
-    id: ckap1r6eavroa0i78b0n4k70p
-    verified: false
-    hashtags: "#marshallsburger, #yesmonkistyle, #uspizzamalaysia, #uspizzass2"
+    hashtags: "#pomelogirls, #fitnesswithcharissa, #fitnessjourney, #fitfam"
   - username: "impollylau"
     fullname: >-
       Polly Lau ⭐️
     bio: >-
-      劉若寶 Actress • Freelance Model Beauty | Fashion | Singing| Travel | Cat Lover Facebook Page: Pollylau💋 Job💌 : pollybo.lau@gmail.com Ig: All_aboutmycats
+      劉若寶 Actress • Freelance Model Beauty | Fashion | Singing| Travel | Cat Lover Job💌 : pollybo.lau@gmail.com ⭐️ 全民造星3
     location: "Malaysia"
-    followers: 40213
-    engagement: 234
-    commentsToLikes: 0.015972
+    followers: 45064
+    engagement: 297
+    commentsToLikes: 0.012900
     id: ck0vwiyl8u13s0i19bg217uae
     verified: false
-    hashtags: "#flawlessmakeup, #alldayprotection, #swarovskihk, #pollylau"
+    hashtags: "#ultimune, #citiplus, #levelup, #lepalgin"
 ---

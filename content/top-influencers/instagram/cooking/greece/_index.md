@@ -1,36 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Greece In 2022
+title: Top 10 Cooking Instagram Influencers In Greece In 2023
 description: >-
-  Find top cooking Instagram influencers in Greece in 2022. Most popular hashtags: #cooking #foodporn #instafood #foodstagram.
+  Find top cooking Instagram influencers in Greece in 2023. Most popular hashtags: #cooking #foodphotography #greece #foodstagram.
 platform: Instagram
-hits: 83
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 83 Instagram influencers like this in Greece for you to collaborate.
+hits: 63
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 63 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "alsisinanaj"
+  - username: "thodoris_papanikolaou"
     fullname: >-
-      Alsi Sinanaj
+      Thodoris_Papanikolaou
     bio: >-
-      • Enthusiast • Easy & Delicious Meals for Everyone • TV Chef / Alsi’s Celebrity Cooking #alsisinanajfood • I'm getting back to my old roots. ⤵️
+      OCD™ Obsessive Cooking Disorder
     location: "Greece"
-    followers: 25721
-    engagement: 317
-    commentsToLikes: 0.022011
-    id: ck6uelf2armi10j715roaoxrm
+    followers: 29183
+    engagement: 543
+    commentsToLikes: 0.014481
+    id: ck5q084xu4pli0i11xnqqo75w
     verified: false
-    hashtags: "#restaurant, #island, #foodporn, #alsisinanajfood"
+    hashtags: "#thodorispapanikolaou, #backtothefuture, #ocd, #obsessivecookingdisorder"
   - username: "fofo_ntemiri"
     fullname: >-
       Fotini Ntemiri
     bio: >-
       Actress,love theater cinema TV,music,literature,ARTS!Love cooking,knitting!Love you all!!!!love dark chocolate too!!
     location: "Greece"
-    followers: 14840
-    engagement: 697
-    commentsToLikes: 0.021080
+    followers: 15072
+    engagement: 688
+    commentsToLikes: 0.031364
     id: ck5pzbt6j07d70i113kyyi72i
     verified: false
-    hashtags: "#friends, #happiness, #repost, #actress"
+    hashtags: "#happiness, #friends, #actress, #vitaminsea"
   - username: "terzidoudespoina_dietitian"
     fullname: >-
       Δέσποινα Τερζίδου
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.017544
     id: ckaoxm55ydub50i78odtcuxly
     verified: false
-    hashtags: "#foodie, #weightcontrol, #eathealthy, #healthyrecipe"
-  - username: "justlife.gr"
+    hashtags: "#instafood, #healthychoices, #nutrition, #diet"
+  - username: "lucastoma"
     fullname: >-
-      justlife.gr
+      Lucas Toma
     bio: >-
-      Founder by @tinamel123 Owner & Content Creator Graphic designer Cook🍲 Travel 🛴 lifestyle 🍷 mum 💕 All 📸 & 📽 by me YouTube justlife.gr
+      #PHOTOGRAPHY #warsaw #paris #athens #rome #commercial #priv and #individual #workshops
     location: "Greece"
-    followers: 4906
-    engagement: 1111
-    commentsToLikes: 0.638078
-    id: ck6tiox5v14z30j71u8ov18hi
+    followers: 32450
+    engagement: 171
+    commentsToLikes: 0.020581
+    id: ck0w1x3eklkh70i19p8vdplyk
     verified: false
-    hashtags: "#tastevoice, #masterpiece, #welovegreece, #youtubecreators"
+    hashtags: "#lingerieseksi, #glamourgirls, #italianmodel, #playboycarti"
   - username: "savvas__lichanidis"
     fullname: >-
       Savvas Lixanidis
     bio: >-
       Chef 🔪 - see you all juju bar restaurant @jujubarrestaurant
     location: "Greece"
-    followers: 42225
-    engagement: 472
-    commentsToLikes: 0.014094
+    followers: 41279
+    engagement: 509
+    commentsToLikes: 0.034094
     id: ck5q4upylqbml0i11anrn069q
     verified: false
-    hashtags: "#cooking, #lovecooking, #cheflife, #comingsoon"
-  - username: "argirobarbarigou"
+    hashtags: "#cookinglife, #lovecooking, #cheflife, #cooking"
+  - username: "justlife.gr"
     fullname: >-
-      Argiro Barbarigou
+      justlife.gr
     bio: >-
-      🔪 Greek Chef • TV Host • Cookbook Author 🍳argiro.gr 🍽 @PapadakisRestaurant 🧿Δες περισσότερα εδώ 👇
+      Founded by @tinamel123 Owner & Content Creator Cook🍲 Travel 🛴 lifestyle 🍷 mum 💕 foodphotography All 📸 & 📽 by me YouTube justlife.gr Dm for collabs 📩
     location: "Greece"
-    followers: 500381
-    engagement: 159
-    commentsToLikes: 0.066671
-    id: ck5pvfdqahm110i11229pair7
-    verified: true
-    hashtags: "#food, #recipeoftheday, #breakfasttime, #argirobarbarigou"
-  - username: "giorgos_tsoulis"
-    fullname: >-
-      Giorgos Tsoulis
-    bio: >-
-      Made in 🇬🇷 📺 @alphatv Τρίτη & Παρασκευή @popup_iliana 🎥 Youtube: GiorgosTsoulis 👉🏻 #ΜηΜασάς 🍳Βρείτε όλες τις συνταγές μου εδώ:
-    location: "Greece"
-    followers: 179568
-    engagement: 175
-    commentsToLikes: 0.024946
-    id: ck0ttwpvu4n6c0i19id78h7xe
+    followers: 5281
+    engagement: 682
+    commentsToLikes: 0.258875
+    id: ck6tiox5v14z30j71u8ov18hi
     verified: false
-    hashtags: "#eeeeeats, #forkyeah, #huffposttaste, #mimasas"
+    hashtags: "#foodblogger, #perfect, #justlife, #justliferecipies"
   - username: "dimitris_konidaris"
     fullname: >-
       Dimitris konidaris
     bio: >-
       Head pastry Chef at @sovolosofficial Athens Greece🇬🇷
     location: "Greece"
-    followers: 32720
-    engagement: 352
-    commentsToLikes: 0.022366
+    followers: 33079
+    engagement: 323
+    commentsToLikes: 0.019747
     id: ck0w0bc9mdcb00i19yp40m6f4
     verified: false
-    hashtags: "#pastrychef, #picoftheday, #chocolatelover, #amazing"
+    hashtags: "#instagood, #cook, #pastrypassion, #sweet"
   - username: "barkas_christos"
     fullname: >-
       Christos Barkas
     bio: >-
-      YouTube channel Gastronomictraveler
+      Gastronomictraveler YouTube channel👇
     location: "Greece"
-    followers: 55411
-    engagement: 307
-    commentsToLikes: 0.018586
+    followers: 52714
+    engagement: 267
+    commentsToLikes: 0.017647
     id: ck5btda0rfr890i11lnpoqjbr
     verified: true
-    hashtags: "#chicken, #yammy, #farms, #chickenrecipes"
-  - username: "lefteris.soultatos"
+    hashtags: "#chickenrecipes, #staytuned, #pindos, #chicken"
+  - username: "asterios_koustoudis"
     fullname: >-
-      Eleftherios Soultatos
+      Asterios Koustoudis
     bio: >-
-      👨‍🍳
+      📍Based in Athens, Greece 🇬🇷 • Executive Chef @hotelgrandebretagne and @kinggeorgeathens and two times dad ❣ •Culinary writer @gastronomos_ 🍴📒
     location: "Greece"
-    followers: 60157
-    engagement: 1260
-    commentsToLikes: 0.007579
-    id: ck0tuwykt91lo0i19tv0f52m5
+    followers: 7978
+    engagement: 817
+    commentsToLikes: 0.034550
+    id: ck5q0834y4pc10i11rqznvb09
     verified: false
-    hashtags: "#instafood, #greekfood, #foodgram, #cheflife"
+    hashtags: "#stayhome, #greekvibes, #lovegreece, #cookathome"
+  - username: "artos_kai_theamata"
+    fullname: >-
+      Άρτος & Θεάματα
+    bio: >-
+      • Όσα μας ανοίγουν την όρεξη στην Αθήνα • Η πρώτη μου συνταγή στο blog! ⬇️
+    location: "Greece"
+    followers: 9636
+    engagement: 430
+    commentsToLikes: 0.030497
+    id: ckap71y1iiaf60i78laob71bk
+    verified: false
+    hashtags: "#foodfluffer, #foodilysm, #foodforfoodies, #brunch"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Dallas In 2022
+title: Top 10 Bloggers Instagram Influencers In Dallas In 2023
 description: >-
-  Find top bloggers Instagram influencers in Dallas in 2022. Most popular hashtags: #dallasblogger #liketkit #blogger #fall.
+  Find top bloggers Instagram influencers in Dallas in 2023. Most popular hashtags: #dallasblogger #lifestyleblogger #blogger #influencer.
 platform: Instagram
-hits: 108
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 108 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 115
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 115 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
   - username: "iamsarahmize"
     fullname: >-
-      Sarah Mize / Dallas Blogger
+      Sarah Mize
     bio: >-
       🍸 Full time blogger @dallaslovelist 👩🏻‍💻 Social Media Expert @studiolovelist ✨Founder @citylovelist 🎧 @2chainz 🏈 @vol_sports + 🍕enthusiast
     location: "United States"
-    followers: 23015
-    engagement: 138
-    commentsToLikes: 0.054494
+    followers: 22347
+    engagement: 145
+    commentsToLikes: 0.050596
     id: ck5pxeeu0rdqu0i11cxgny809
     verified: false
-    hashtags: "#sbfunside, #kansascity, #imsorry, #thegreatamericantakeoutdfw"
-  - username: "southern_belle_living"
+    hashtags: "#drakeoncake, #thegreatamericantakeoutdfw, #costarica, #citylovelist"
+  - username: "what.the.prick"
     fullname: >-
-      L A U R A  B E L L E
+      What The Prick! | T1D Blog
     bio: >-
-      | Georgia | • Choose Happy 💗 • #PowerYourPlatform 👗 • Travel Blogger sharing Fashion, Relationship, Lifestyle & Positivity
+      • Type 1 Diabetes Blog by @sophialivolsi 🩸 • Humor, honesty, & community are the best medicines (well, besides insulin, duh) 💉 • Website below 😊⬇️
     location: "United States"
-    followers: 20495
-    engagement: 386
-    commentsToLikes: 0.109917
-    id: ck5c07swqslrq0i11shut3acb
+    followers: 10053
+    engagement: 344
+    commentsToLikes: 0.063298
+    id: ckaox4h5zbquu0i78iqjuzd7e
     verified: false
-    hashtags: "#leopard, #love, #liketoknowit, #amazon"
+    hashtags: "#type1diabetes, #teamfreestylelibre, #type1diabetic, #blogger"
   - username: "heleneinbetween"
     fullname: >-
       Helene Sula |Lifestyle Blogger
     bio: >-
-      Storyteller. Exploring America via RV w/ 2 pups & 1 husband. Lived last 3 years in Europe, now back home in Texas! My candle line @nostalgiccandle ⬇️
+      Storyteller. Dallas, TX. Exploring USA via RV w/ 2 pups & 1 husband. #livealittle I travel for fun and blog for a living 🗺 Blog, travel, insta tips⬇️
     location: "United States"
-    followers: 165429
-    engagement: 326
-    commentsToLikes: 0.053131
+    followers: 166899
+    engagement: 291
+    commentsToLikes: 0.047672
     id: ck0w2u1drq6he0i19k0mvn2ss
     verified: false
-    hashtags: "#reels, #fall, #travelblogger, #newengland"
-  - username: "brooke_kenney"
+    hashtags: "#helenelovesdallas, #reels, #helenefortheholidays, #travelblogger"
+  - username: "sparklecates"
     fullname: >-
-      B R O O K E | K E N N E Y
+      Taryn Cates || Dallas Blogger
     bio: >-
-      Fashion Blogger 📍Dallas, TX , AR Native 🌟proud supporter of #ootds and retail therapy 💌let's collab: brookekenneyblog@gmail.com
+      Hey girl! Glad you’re here💕 Travel and Lifestyle Blogger in Dallas, TX✈️ 🤠 Bride To Be 💍 @hartryanc taryn@taryncates.com💌 NEW YOUTUBE VLOG🎥⬇️
     location: "United States"
-    followers: 18540
-    engagement: 321
-    commentsToLikes: 0.115558
-    id: ck5heegjlshd20i11dh278kjn
+    followers: 92778
+    engagement: 164
+    commentsToLikes: 0.237216
+    id: ck6tirgio1a5w0j71hs8x0n5o
     verified: false
-    hashtags: "#dallastx, #liketkit, #lovelulus, #lulusambassador"
-  - username: "teachingandlaundry"
+    hashtags: "#sparklecates, #becomethatgirl, #disneyworldtrip, #lifestylebloggers"
+  - username: "mattdew121212"
     fullname: >-
-      JAC MIZEUR
+      Matthew King
     bio: >-
-      ⭐️ Fashion, Travel & Book Blogger 📖 Dallas Teacher 💍 Bride to be 📧 teachingandlaundry@gmail.com
+      Matty ice 🧊. Atx - Blessed🙏 Sc ✨: yella_bone7 (250k)on tiktok🚨
     location: "United States"
-    followers: 30631
-    engagement: 168
-    commentsToLikes: 0.302652
-    id: ck6tuzi4ejbf40j71ni6yg1af
+    followers: 21181
+    engagement: 1968
+    commentsToLikes: 0.013764
+    id: ckap1fy3oufhh0i78vudsyg7e
     verified: false
-    hashtags: "#lovelulus, #lulusambassador, #liketkit, #spanxstyle"
-  - username: "thebravoboy"
+    hashtags: "#austintexas, #utsa, #explorepage, #austin"
+  - username: "darlenetambien"
     fullname: >-
-      Bravo Boy
+      DARLENE
     bio: >-
-      Bravo TV Blogger! 📍 Dallas, TX 👚MERCHANDISE👕
+      A highlight reel...
     location: "United States"
-    followers: 26287
-    engagement: 367
-    commentsToLikes: 0.050116
-    id: ck0w3it7stmq20i19jr31ohaa
+    followers: 3208
+    engagement: 771
+    commentsToLikes: 0.068667
+    id: ck5hlapb8jvq40i11fvjwkfv4
     verified: false
-    hashtags: "#realhousewives, #married2med, #gay, #nochill"
-  - username: "hollykstyles"
+    hashtags: "#discoverunder5k, #blessedprotein, #outfits, #whatiwore"
+  - username: "jackiee__lopez"
     fullname: >-
-      Holly
+      J a c k i e  L o p e z • Dallas Blogger
     bio: >-
-      floridian | dallas tx sharing tall fashion & lifestyle link below to shop my posts
+      💌DM/EMAIL for Collaborations 📍DFW, TX #Lifestyle + #Fashion + #Motherhood #DallasBlogger+ #ContentCreator #fortworthblogger 🧿
     location: "United States"
-    followers: 3987
-    engagement: 902
-    commentsToLikes: 0.314633
-    id: ckaowm7if9gug0i78mtyycrlx
+    followers: 17856
+    engagement: 279
+    commentsToLikes: 0.136309
+    id: ck0tznhp4r10b0i19wekrdxra
     verified: false
-    hashtags: "#dearjohndenim, #lifestyleblogger, #texas, #fall"
-  - username: "camila.tonello"
-    fullname: >-
-      🅂🄸🄼🄿🄻🄴 🄼🄾🅃🄷🄴🅁🄷🄾🄾🄳
-    bio: >-
-      𝙈𝙤𝙩𝙝𝙚𝙧𝙝𝙤𝙤𝙙 | 𝙡𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚 | 𝙛𝙖𝙞𝙩𝙝 💌 Collab: camilatonello@gmail.com 𝙤𝙧 DM
-    location: "United States"
-    followers: 17503
-    engagement: 326
-    commentsToLikes: 0.057212
-    id: ck5q8gthn645u0i11ap8mk0lb
-    verified: false
-    hashtags: "#fortworthfoodie, #dallastexas, #fe, #fortworthmom"
+    hashtags: "#influencer, #dfwblogger, #datenight, #ad"
   - username: "camille.elena"
     fullname: >-
       Camille Elena • Dallas Blogger
     bio: >-
-      #MillennialMama | Style + Beauty + Life #Chamoy Candy slinger: @camis.candies TikTok: camille.elena 🐥: @camilleelenaa 📧: camille.elena.blog@gmail.com
+      #MillennialMama | Style + Beauty + Life | Enneagram 5 #Chamoy Candy: @camis.candies TikTok 28k 👉🏼camille.elena 📧: camille.elena.blog@gmail.com
     location: "United States"
-    followers: 30773
-    engagement: 242
-    commentsToLikes: 0.106070
+    followers: 29847
+    engagement: 98
+    commentsToLikes: 0.197667
     id: ck0u9ateb9dxr0i19cumubcpe
     verified: false
-    hashtags: "#dallasmoms, #kohls, #kohlsfinds, #mominfluencer"
+    hashtags: "#dfwmommyblogger, #dreamyaesthetic, #fortworthblogger, #dfwlatinabloggers"
   - username: "marblelouslypetite"
     fullname: >-
       Abby | Dallas Blogger
     bio: >-
-      AFFORDABLE STYLE・BEAUTY ★ 5'0" petite + curvy ♥︎ new wifey ✸ brightening your feed with fun colors ✉︎ abby@marblelouslypetite.com ☾ shop my looks ⤵
+      AFFORDABLE STYLE・BEAUTY ・HOME DECOR 5'0" petite + curvy brightening your feed with fun and playful colors abby@marblelouslypetite.com shop my looks ⤵
     location: "United States"
-    followers: 53141
-    engagement: 205
-    commentsToLikes: 0.180026
+    followers: 60649
+    engagement: 203
+    commentsToLikes: 0.083346
     id: ck15ruvrx9tvn0i198lzs99h4
     verified: false
-    hashtags: "#hairgoals"
+    hashtags: "#jen7jeans, #vanityfairlingerie, #nintendoswitch, #influencehercollective"
+  - username: "hkcung"
+    fullname: >-
+      HOÀNG-KIM | DALLAS BLOGGER
+    bio: >-
+      Sharing what I love in my everyday life 🤍 engaged to @johnnyhvan & built #HKandJHome youtube.com/HKCung hello@colorandchic.com Blog posts & sources↓
+    location: "United States"
+    followers: 117341
+    engagement: 223
+    commentsToLikes: 0.073940
+    id: ck0w20ancm0ih0i19xwo9uyww
+    verified: false
+    hashtags: "#ltkhome, #ad, #liketkit, #hkandjhome"
 ---

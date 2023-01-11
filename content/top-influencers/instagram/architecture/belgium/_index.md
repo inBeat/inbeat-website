@@ -1,60 +1,36 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Belgium In 2022
+title: Top 10 Architecture Instagram Influencers In Belgium In 2023
 description: >-
-  Find top architecture Instagram influencers in Belgium in 2022. Most popular hashtags: #architecture #minimalism #contemporaryart #bluesky.
+  Find top architecture Instagram influencers in Belgium in 2023. Most popular hashtags: #architecture #belgium #brussels #architecturelovers.
 platform: Instagram
-hits: 36
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 36 Instagram influencers like this in Belgium for you to pitch.
+hits: 21
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 21 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "vasilmann"
+  - username: "sillage_an"
     fullname: >-
-      
+      Anastasia | Travel Photography
     bio: >-
-      Architecture / Minimal 📍Netherlands
+      💫Every photo is a trail of a moment 📸Street vibes, architecture, people 📍Based in Moscow, Russia 📩sillagean@gmail.com
     location: "Belgium"
-    followers: 36403
-    engagement: 340
-    commentsToLikes: 0.042437
-    id: ck5znsuy5p37u0i14bkf7gmkm
+    followers: 38395
+    engagement: 816
+    commentsToLikes: 0.085099
+    id: ckapahqsmw5t70i78wamy7vtq
     verified: false
-    hashtags: "#skyscraping, #jj, #republic, #archaicmag"
-  - username: "bildgestalter"
+    hashtags: "#wonderful, #sonyalpha, #moscowstreet, #postcardplaces"
+  - username: "sepidehfarvardin"
     fullname: >-
-      Andreas Paehge Photography
+      Sepideh | سپیده
     bio: >-
-      Fine Art Photograph Founder of Fineart ZONE @fineartzone Co-Founder and curator of Paradox Architecture @paradox_architecture
+      • Photographer based in Brussels • Cityscape, Architecture, Portrait, Design & Art • For commissions & art prints: hi@sepidehfarvardin.com
     location: "Belgium"
-    followers: 20733
-    engagement: 317
-    commentsToLikes: 0.011532
-    id: ck0vv206gn6cb0i19uo48sgmb
+    followers: 27371
+    engagement: 221
+    commentsToLikes: 0.018150
+    id: ck5hilxqee7dn0i116bl6ibi5
     verified: false
-    hashtags: "#fineart, #urbexzone, #urbexdecay, #fineartzone"
-  - username: "mastersketchers"
-    fullname: >-
-      MASTERSKETCHERS™
-    bio: >-
-      ©Archief Group • The Best Sketchers of Architecture • [ Exterior | Interior | Landscape | Product ] • #MASTERSKETCHERS
-    location: "Belgium"
-    followers: 159247
-    engagement: 495
-    commentsToLikes: 0.004478
-    id: ck15rciy678sq0i19i35cmc02
-    verified: false
-    hashtags: "#mastersketchers"
-  - username: "axelvervoordt_co"
-    fullname: >-
-      Axel Vervoordt Company
-    bio: >-
-      Art, architecture, and interior design practice founded in 1969 in Antwerp, Belgium.
-    location: "Belgium"
-    followers: 90665
-    engagement: 171
-    commentsToLikes: 0.020047
-    id: ck5hcxqdokh2k0i11dj6nka9f
-    verified: false
-    hashtags: "#tsuyoshimaekawa, #axelvervoordtkanaal, #portraitsofinteriors, #axelvervoordt"
+    hashtags: "#thefilmgang, #disparafilm, #thinkverylittle, #35mmfilm"
   - username: "photo_sebastian"
     fullname: >-
       Hamburg & traveling
@@ -66,19 +42,7 @@ profiles:
     commentsToLikes: 0.067465
     id: ck5chsw2erej30i111zktkfnz
     verified: false
-    hashtags: "#archi, #rsa, #brussels, #huntgramarchitecture"
-  - username: "dennisdtj"
-    fullname: >-
-      Dennis T'Jampens
-    bio: >-
-      Interior / Design / Architecture
-    location: "Belgium"
-    followers: 15910
-    engagement: 553
-    commentsToLikes: 0.028145
-    id: ck5q362jjje200i11j9nsxhy6
-    verified: false
-    hashtags: "#happynewyear, #antwerp, #2000, #dennistjampens"
+    hashtags: "#arkiminimal, #archilovers, #minimal, #archi"
   - username: "vandervelpen"
     fullname: >-
       Dieter Vander Velpen
@@ -90,41 +54,77 @@ profiles:
     commentsToLikes: 0.020668
     id: ck5hn88sdndvv0i11dul2g4f2
     verified: false
-    hashtags: "#belgiandesign, #stone, #craftsmanship, #luxuryhome"
-  - username: "eliencatteeuw"
+    hashtags: "#craftsmanship, #belgiandesign, #walnut, #knokke"
+  - username: "jamy_fotografs"
     fullname: >-
-      Elien Catteeuw
+      Jameel Akhtar 🇮🇳
     bio: >-
-      ♡ Bruges, Ghent and Lokeren ♡ 1996 baby ♡ Marketing at @bubblesathomebelgium ♡ Fashion, lifestyle and travel content
+      Love travelling and photography. Photos of my travel. 📸📱 📍 Mechelen, Belgium 🇧🇪 🌏 Travel 🇮🇳
     location: "Belgium"
-    followers: 5365
-    engagement: 914
-    commentsToLikes: 0.202230
-    id: ck139tp5ln2bj0i190g37u7tz
+    followers: 4689
+    engagement: 2301
+    commentsToLikes: 0.040166
+    id: ck5bx04qtmr3t0i1172vkn96p
     verified: false
-    hashtags: "#discoverunder10k, #passionpasport, #traveleurope, #visitghent"
-  - username: "desiree_deridder"
+    hashtags: "#mechelen, #colorful, #brussels, #earthfocus"
+  - username: "lwbh"
     fullname: >-
-      desiree de ridder
+      LWBH (Ellen Salomé)
     bio: >-
-      Visual Artist and nature lover argentina-belgian
+      𝕃𝕚𝕗𝕖 𝕎𝕚𝕥𝕙 𝔹𝕝𝕠𝕟𝕕 ℍ𝕒𝕚𝕣 🇧🇪 Belgian📍Brussels 👉 #Brussels #Travels #Restaurants #Food #Pets #Dance
     location: "Belgium"
-    followers: 8506
-    engagement: 800
-    commentsToLikes: 0.104645
-    id: ck6ucgjt7fh540j71tpgv3btd
+    followers: 7543
+    engagement: 695
+    commentsToLikes: 0.098774
+    id: ck9we4xuwim2w0j78v0vej6vh
     verified: false
-    hashtags: "#loveanimals, #campoargentino, #architecture, #noalmaltratoanimal"
-  - username: "cakesreisjes"
+    hashtags: "#pinksky, #belgiangirl, #europefinest, #grandplacebrussels"
+  - username: "locatellisteve"
     fullname: >-
-      ℂ𝔸(𝕣𝕠𝕝𝕚𝕟𝕖)❤️𝕂𝔼(𝕧𝕚𝕟)𝔾𝕦𝕤𝕤🧒𝕃𝕖𝕨𝕚𝕤👦
+      Locatelli steve
     bio: >-
-      ❇️Plan❇️Travel❇️Discover❇️Share❇️ 🇧🇪Wanderlust family into Coronaproof travels 🌍Discover beautiful places and views! 📌De Haan! 😃 💻Collab? 📨
+      Belgian Artist // A N T W E R P // www.locatellisteve.com
     location: "Belgium"
-    followers: 11062
-    engagement: 646
-    commentsToLikes: 0.250950
-    id: ckapbfed5zq1a0i78c5ve7flt
+    followers: 35380
+    engagement: 244
+    commentsToLikes: 0.030932
+    id: ck6trcg72y6sa0j71l4j143zv
     verified: false
-    hashtags: "#traveltipsandtricks, #ontdeklimburg, #travelfam, #goingplaces"
+    hashtags: "#contemporaryart, #interiordesign, #gallery, #anvers"
+  - username: "kristofeyckmans"
+    fullname: >-
+      Kristof Eyckmans
+    bio: >-
+      🌍 Belgian living and traveling across the globe 📷 Canon + IPhone 📬 kristofeyckmans@gmail.com
+    location: "Belgium"
+    followers: 110904
+    engagement: 159
+    commentsToLikes: 0.026674
+    id: ck5hfuuapzgfi0i11g4xdfsvq
+    verified: false
+    hashtags: "#maldivesislands, #paradise, #nature, #wildlife"
+  - username: "bys147.0"
+    fullname: >-
+      
+    bio: >-
+      
+    location: "Belgium"
+    followers: 142694
+    engagement: 182
+    commentsToLikes: 0.006494
+    id: ckap7tvkbljhz0i78rybbqjru
+    verified: false
+    hashtags: "#pencilsketching, #arch, #architectural, #sketchartgallery"
+  - username: "davidecomaschichocolates"
+    fullname: >-
+      Davide Comaschi
+    bio: >-
+      Master chocolatier Winner of the World Chocolate Masters 2013 Global creative lead Callebaut www.davidecomaschi.com
+    location: "Belgium"
+    followers: 97187
+    engagement: 33
+    commentsToLikes: 0.014937
+    id: ck0u7be7r48vm0i19bvtd57jj
+    verified: false
+    hashtags: "#foodphotography, #chocolatedesign, #pastry, #art"
 ---

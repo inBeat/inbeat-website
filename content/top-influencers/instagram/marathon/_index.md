@@ -1,130 +1,130 @@
 ---
-title: Top 10 Marathon Instagram Influencers In 2022
+title: Top 10 Marathon Instagram Influencers In 2023
 description: >-
-  Find top marathon Instagram influencers in 2022. Most popular hashtags: #runner #running #runnersofinstagram.
+  Find top marathon Instagram influencers in 2023. Most popular hashtags: #running #instarunners #run.
 platform: Instagram
-hits: 1933
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 1933 Instagram influencers like this for you to contact.
+hits: 1764
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 1764 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "brandytherunner_"
+    fullname: >-
+      Brandy Talamoni  | runner
+    bio: >-
+      Mom of 2 👧🏽👦🏽 USMC VET 🇺🇸 Marathoner and full time student Oceanside California 📍🌴
+    location: "United States"
+    followers: 46967
+    engagement: 617
+    commentsToLikes: 0.033225
+    id: ckn77etb5hkdp0j23xx8y38m0
+    verified: false
+    hashtags: "#runninginspiration, #instarunners, #running, #runner"
+  - username: "king_rome"
+    fullname: >-
+      King Rome
+    bio: >-
+      Model by day, 🐺🌕by night. LAFW Oct 22’ 📸 Next show: NYFW✈️ Feb 23’ Marathon 🏃🏽‍♂️🏅Next: Ultramarathon TBD 23’ 📍So Cal🇺🇸
+    location: "United States"
+    followers: 129252
+    engagement: 617
+    commentsToLikes: 0.013688
+    id: ck8t8h4nkkgmb0j7853j7m81d
+    verified: false
+    hashtags: "#expressyou, #jbwwatches, #expresspartner, #myjbw"
+  - username: "wealthandfitness"
+    fullname: >-
+      Eddy Oz | Doyoueven
+    bio: >-
+      CEO & Founder of @doyoueven // 2 x Ultras (60kms), 3 x Marathons (3:16:16) Creatively driven. Leaving my mark. 🏃‍♂️ on a torn ACL & missing meniscus
+    location: "United States"
+    followers: 45722
+    engagement: 214
+    commentsToLikes: 0.046708
+    id: ckap5xt6vdm7m0i78veeallgg
+    verified: false
+    hashtags: "#doyoueven, #youvsyou, #onefootforward, #leaveyourmark"
+  - username: "runmeb"
+    fullname: >-
+      Meb Keflezighi
+    bio: >-
+      Boston Marathon Champion NYC Marathon Champion Olympic Silver Medalist Runner
+    location: "United States"
+    followers: 121595
+    engagement: 110
+    commentsToLikes: 0.014903
+    id: ck135pf092kqw0i19i7ellh3i
+    verified: true
+    hashtags: "#worldsfastest5k, #medalmonday, #carlsbad5000, #runtowin"
+  - username: "warszawskibiegacz"
+    fullname: >-
+      Bartosz Olszewski
+    bio: >-
+      @newbalance ambassador 🔥 @trecnutrition ambassador 💪 Amateur marathoner with PB 2:25:16 👊 3 x @wflworldrun winner 🥇 Running coach 🏃‍♀️🏃
+    location: "United States"
+    followers: 21716
+    engagement: 185
+    commentsToLikes: 0.021181
+    id: ck55o5r507oo90i11tjdli1d0
+    verified: false
+    hashtags: "#trecendurance, #nprcz20, #czytamznprcz20, #trecnutrition"
   - username: "stanokoye"
     fullname: >-
       Stan Okoye
     bio: >-
-      🇺🇸 Raleigh/Charlotte, North Carolina 🇳🇬 Nigerian National Team 🏁 The Marathon Continues 🇮🇨 Las Palmas de Gran Canaria
-    location: "Spain"
-    followers: 9756
-    engagement: 1437
-    commentsToLikes: 0.099757
+      🇺🇸 Raleigh/Charlotte, North Carolina 🇳🇬 Nigerian National Team 🏁 The Marathon Continues 🇪🇸 Zaragoza, Spain
+    location: "United States"
+    followers: 10683
+    engagement: 1294
+    commentsToLikes: 0.097219
     id: ckap8ibsiofk00i78u9c9a7oe
     verified: true
-    hashtags: "#elconfital, #gameday, #okoyegiveaway, #runwithmaud"
-  - username: "caylajamess"
+    hashtags: "#okoyegiveaway"
+  - username: "ptbarts"
     fullname: >-
-      CAYLA JAMES
+      Elite Personal Fitness Coach
     bio: >-
-      Coco Santana 🇵🇭 District📍LA| The marathon will continue..
-    location: "United States"
-    followers: 24086
-    engagement: 832
-    commentsToLikes: 0.070581
-    id: ck5zm7kaim1wz0i14e57l2jq5
-    verified: false
-    hashtags: "#blackouttuesday, #summerarchives"
-  - username: "run4mh"
-    fullname: >-
-      MARK | Runner 🏃‍♂️
-    bio: >-
-      Runner, mental health🙌@runtalkrunsouthampton leader⁣, mh first aider⁣ 🔜 Edinburgh marathon @corosglobal @brooksrunninguk @gatosports @teamrunderwear⁣
+      👩‍🚒 Firefighter🚒 💪 Master Trainer 🏋️‍♂️ 🏃‍♂️ 38 Marathons, 2 ultras 📺 Featured-Ninja Warrior Uk +SundayBrunch 👟 Adidas Ambass 🌱 Based 🧪Life with IBD
     location: "United Kingdom"
-    followers: 8208
-    engagement: 1143
-    commentsToLikes: 0.079710
-    id: ck5hpb46kr2ef0i11kk6afn4d
+    followers: 14389
+    engagement: 1442
+    commentsToLikes: 0.270441
+    id: ck0u8kqbw7k6a0i190yweb9vs
     verified: false
-    hashtags: "#runner, #throwbackthursday, #depression, #fitness"
-  - username: "_sicht_weise"
+    hashtags: "#training, #healthylifestyle, #fitness, #health"
+  - username: "thomrunner63"
     fullname: >-
-      Kathrin | 📍Augsburg
+      Thomas Lambert 🇫🇷
     bio: >-
-      #running 🏃‍♀️#cycling 🚴🏼‍♀️#sports 🤸‍♂️ #storytelling 🖊 #science & #education 👩‍🏫 🔜 3rd #marathon 2x M | 2x HM #beatberlin42 in 2019 🏅
-    location: "Germany"
-    followers: 10720
-    engagement: 1069
-    commentsToLikes: 0.078401
-    id: ck0tvvcizcy860i193wvocbnr
+      𝓤ltra trail:2️⃣157km & 105 𝓜arathon:8️⃣(New-York🇺🇸Paris🇫🇷x2) 𝓣rail:7️⃣>58k 𝓗alf-Marathon:1️⃣1️⃣ ⏱M:3h38’37’’ ⏱S:1h39'42" 🏁Race:68 🏃🏽🏃‍♂️: Team LIFETRI
+    location: "France"
+    followers: 8269
+    engagement: 1082
+    commentsToLikes: 0.054720
+    id: ckaostrg1t20d0i78q97pfdep
     verified: false
-    hashtags: "#runchat, #instarunnersgermany, #runningmotivation, #runspiration"
-  - username: "lisadewiwood"
+    hashtags: "#photooftheday, #courseapied, #trailrunning, #sidasyourfootcompany"
+  - username: "virgyluka_run"
     fullname: >-
-      Lisa Dewi
+      💫Virginie💫
     bio: >-
-      Lucky wife & a proud mom My journey to WMM #Tokyo& Berlin 2018 #London& Chicago Marathon 2019 Creator@neela_by_lisadewi
-    location: "Indonesia"
-    followers: 35446
-    engagement: 507
-    commentsToLikes: 0.062641
-    id: ck5chr29yrb010i116qfs29rx
+      💫Triathlon 🏊🏼‍♀️🚴🏼‍♀️🏃‍♀️ ✨Semi-marathon 💫Marathon (x2) 8557
+    location: "France"
+    followers: 20432
+    engagement: 873
+    commentsToLikes: 0.052965
+    id: ckaowbfhu86i00i78dqndxulm
     verified: false
-    hashtags: "#fitmom, #fitfam, #runner, #fitcouple"
-  - username: "katierunsamarathon_"
+    hashtags: "#runstoppable, #run, #courir, #runningmotivation"
+  - username: "sara_dossena"
     fullname: >-
-      Katie Cruz | Runner
+      Sara Dossena
     bio: >-
-      13.1x2 | 26.2x1 🏃🏻‍♀️ Marathoner 🌟 Figuring life out one run at a time 💙 Brooks #runhappyteam 👇🏻 Blog Post - How to Grow Your IG
-    location: "United States"
-    followers: 6905
-    engagement: 990
-    commentsToLikes: 0.088349
-    id: ckap200pzwsov0i784m9erqk4
-    verified: false
-    hashtags: "#yourworldtorun, #runnergirl, #rundestober, #runningisnotcancelled"
-  - username: "camlevins"
-    fullname: >-
-      Cameron Levins
-    bio: >-
-      2012 Olympian 2014 Commonwealth Games 10k 🥉 🇨🇦 Record: Marathon 3:54/13:15/27:07/62:15/2:09:25 Sponsors: @hokaoneone @polarglobal
-    location: "Canada"
-    followers: 5861
-    engagement: 1868
-    commentsToLikes: 0.056125
-    id: ckapco3n24j070i78xlpy06pj
-    verified: false
-    hashtags: "#halfmarathon, #tokyo2020, #marathontraining, #runningmotivation"
-  - username: "sarahall3"
-    fullname: >-
-      Sara Hall
-    bio: >-
-      2:22 Marathon for 🇺🇸 & @asics Soccer Mom to 4 from 🇪🇹 💍 @ryanhall3 Jesus ❤️ Twitter: @SaraHall3
-    location: "United States"
-    followers: 120659
-    engagement: 998
-    commentsToLikes: 0.025102
-    id: ck5cheukuqmxf0i11pnjqb49x
+      Team NIKE 10000mt : 32'30" Half marathon: 1h10'10" Marathon: 2h24'00"
+    location: "Italy"
+    followers: 60400
+    engagement: 625
+    commentsToLikes: 0.034106
+    id: ck0u2nimq0hh20i19ge7so26e
     verified: true
-    hashtags: "#tokyo2022, #londonmarathon, #the40thrace, #superstarch"
-  - username: "zsofia_fe"
-    fullname: >-
-      ZSÓFIA🏃🏼‍♀️RUNNER
-    bio: >-
-      📍CGN Kreativer Laufkopf 🙃 Marathoni 🏅 Laufbotschafterin💥@koelnmarathon💥 Mein Blog & Co. ⤵️
-    location: "Germany"
-    followers: 5959
-    engagement: 1682
-    commentsToLikes: 0.099261
-    id: ck6ubvefbbxfj0j71rd8joxik
-    verified: false
-    hashtags: "#laufenverbindet, #gl, #nurdiehartenkommenindengarten, #etepetete"
-  - username: "asladurma"
-    fullname: >-
-      Fatih Topçu
-    bio: >-
-      Ironman 140.6(Pb 10:45) 10xIronman 70.3(Pb 4:46) 5 Marathon(Pb 3:18) 2016 Triatlon YG Şamp. 2019 Duatlon YG Şamp. 2020 CrossDuatlon YG Şamp.
-    location: "Turkey"
-    followers: 25264
-    engagement: 507
-    commentsToLikes: 0.108166
-    id: ck5q0wc8s83560i11puc6emor
-    verified: false
-    hashtags: "#runner, #instarun, #cappadocia, #kosu"
+    hashtags: ""
 ---

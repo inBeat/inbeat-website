@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Germany In 2022
+title: Top 10 Barbers Instagram Influencers In Germany In 2023
 description: >-
-  Find top barbers Instagram influencers in Germany in 2022. Most popular hashtags: #fashion #instagood #love #barber.
+  Find top barbers Instagram influencers in Germany in 2023. Most popular hashtags: #barber #barbershop #berlin #fashion.
 platform: Instagram
-hits: 84
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 84 Instagram influencers like this in Germany for you to pitch.
+hits: 75
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 75 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "rubien__"
-    fullname: >-
-      Mensfashion | Rubien
-    bio: >-
-      📍Germany MD | Fitness | Lifestyle | mensfashion 🎩 🏠From 🇹🇯🇸🇾 my shop @classic__barbershop_ #menswear #style #mensfashion
-    location: "Germany"
-    followers: 6727
-    engagement: 1077
-    commentsToLikes: 0.204815
-    id: ck0tvbs8haqkm0i193al7a1va
-    verified: false
-    hashtags: "#menfashionblogger, #mensfashion, #menwithstreetstyle, #mensweardaily"
-  - username: "ricke_boss"
-    fullname: >-
-      🦊إدوار_ كروغر 🦊
-    bio: >-
-      🐾DEUTSCHLAND (LEIPZIG) 🇩🇪 🐾MODEL (PHOTO)🤳🏼🕶 🐾26 Y. O. 🔞 🐾BLOGGER 🎬 🐾HAIRDRESSER-BARBER💈 🐾PHOTOGRAPHY 📷 🐾🏳️‍🌈 🇪🇸 🇺🇸 🇩🇪 🇷🇺
-    location: "Germany"
-    followers: 24863
-    engagement: 339
-    commentsToLikes: 0.041073
-    id: ckap0mphtqz5d0i785bpwngy3
-    verified: false
-    hashtags: "#gay, #iphone, #mask, #likesforlike"
-  - username: "derbartmann"
-    fullname: >-
-      Agrie Ahmad 🔵 BARTMANN
-    bio: >-
-      Umstyler & dein Kollege von Nebenan > 500.000 Abos auf YouTube 🎥 Mein Barbershop: @bartmannbarbershop
-    location: "Germany"
-    followers: 133470
-    engagement: 417
-    commentsToLikes: 0.015561
-    id: ck5hlsp7rksch0i118hwlkc1p
-    verified: false
-    hashtags: "#borat, #ventilator, #mittagsschlafbeste, #istanbul"
-  - username: "freshprince.thebarber"
-    fullname: >-
-      👑 𝐅𝐑𝐄𝐒𝐇 𝐏𝐑𝐈𝐍𝐂𝐄 𝐓𝐇𝐄 𝐁𝐀𝐑𝐁𝐄𝐑💈
-    bio: >-
-      𝒟𝑜𝓃‘𝓉 𝒻𝑜𝓁𝓁𝑜𝓌 𝓂𝑒, 𝒻𝑜𝓁𝓁𝑜𝓌 𝒥𝑒𝓈𝓊𝓈. International Master Barber 🇬🇭 🇩🇪 Educator & Trainer @wahlprogermany @wahlpro
-    location: "Germany"
-    followers: 22365
-    engagement: 495
-    commentsToLikes: 0.014392
-    id: ck0vzbb0l88wg0i19ciz96qal
-    verified: false
-    hashtags: "#curlstwists, #bundesliga, #blessed, #cornrow"
   - username: "julian.siebert"
     fullname: >-
       Corpsepainter
     bio: >-
       Owner @corpsepainter_tattoo Munich/Germany|Isabel❤️ Sponsored: Intenze, H2Ocean, Cheyenne, Stencilstuff, Wipe Outz, Unigloves, Squidsters, Barber_dts
     location: "Germany"
-    followers: 270870
-    engagement: 277
-    commentsToLikes: 0.011560
+    followers: 278531
+    engagement: 335
+    commentsToLikes: 0.011548
     id: ck600x3g1efr40i145ex1689n
     verified: false
-    hashtags: "#intenzefamily, #barberdts, #corpsepaintertattoo, #werbung"
-  - username: "hd_cutz_london"
+    hashtags: "#wipeoutz, #barberdts, #squidsterskinmarker, #intenzefamily"
+  - username: "kevholy"
     fullname: >-
-      HD Cutz® 💫Sheldon Edwards 🇯🇲🇬🇧
+      
     bio: >-
-      Cityandguilds Barbering Industry Board Member AUTHOR 📖 Barber to Elite Athletes and Media Personalities Usain⚡️⚽️RSterling✨JSancho💫Rudiger✨Bissaka
+      ⠀ ⠀ ⠀ STEELCITYBOY | LINZ | ATTERSEE | BARBER ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
     location: "Germany"
-    followers: 409597
-    engagement: 119
-    commentsToLikes: 0.010438
-    id: ck5c0ctglsw0i0i11gk4ptmoq
-    verified: true
-    hashtags: "#brand, #photooftheday, #followme, #style"
-  - username: "younes_gross"
-    fullname: >-
-      Jonas Kebir 🇩🇿🇩🇪
-    bio: >-
-      . . . . . • 7 YEARS OF TRAINING • . . . . . . . . . . 𝑂𝑛𝑒 𝐵𝑜𝑑𝑦 |⚜️| 𝑂𝑛𝑒 𝐿𝑖𝑓𝑒. . . . . .
-    location: "Germany"
-    followers: 18228
-    engagement: 416
-    commentsToLikes: 0.137632
-    id: ck9wozb2l74r30j78xtkjyy6p
+    followers: 18222
+    engagement: 178
+    commentsToLikes: 0.051761
+    id: ck5c4mzmo1om00i11x4jgwym5
     verified: false
-    hashtags: "#gq, #bremen, #manstyle, #modaparahomens"
-  - username: "lealiaa"
+    hashtags: "#coop, #staystrong, #harleydavidson, #stayhealthy"
+  - username: "beatseb"
     fullname: >-
-      Lea 🦋
+      Sebastian
     bio: >-
-      🦁🐯 FASHION | HAIR | FOOD 💕Hamburg|Düsseldorf ✉️ lealiaacollab@gmx.de
+      Be the best version of yourself Travel & Fitness addicted guy Creating life with @corihueb 📍 Köln, Germany
     location: "Germany"
-    followers: 15359
-    engagement: 1010
-    commentsToLikes: 0.070448
-    id: ck134xpkaypd10i193u4x17so
+    followers: 131637
+    engagement: 540
+    commentsToLikes: 0.016096
+    id: ck13avw1ssg9c0i19j1gac348
     verified: false
-    hashtags: "#modernsalon, #blonde, #curls, #ourportraitdays"
-  - username: "patrick_r_buelles"
+    hashtags: "#beardstyle, #fitness, #bart, #frankfurt"
+  - username: "luxsface"
     fullname: >-
-      FASHION | LIFESTYLE | Patrick
+      Makeup & Hair Styling Hamburg
     bio: >-
-      📍AUGSBURG 🎓Law Student 🐒 Founder of @the3monkeys__ 📸 @mostwantedmodels_official 📩 patrick@mediathleten.club
+      💄Celebrity Stylist. Diplom Cosmetologist.luxsface Beauty Academy سالون آرايش لوكس فيس
     location: "Germany"
-    followers: 18977
-    engagement: 486
-    commentsToLikes: 0.064644
-    id: ck0tzcgqmpsqd0i196j593cy1
+    followers: 40216
+    engagement: 229
+    commentsToLikes: 0.114066
+    id: ck5q70wudzjfw0i119dp4ljxi
     verified: false
-    hashtags: "#photography, #photoshoot, #vacation, #like"
-  - username: "farzad_ghanbari_79"
+    hashtags: "#farsi, #bhfyp, #photooftheday, #visagistinhamburg"
+  - username: "nurii_b"
     fullname: >-
-      Mr.farzad-فرزادقنبری 💈🎨✂
+      𝖓𝖚𝖗𝖎•𝕭
     bio: >-
-      برای تعیین وقت»»09013370983 Haircut artist✂️ Sec🔐@mrch._.19 Haircut salon: bbl
+      ๏ 80s HAIR STYLIST / 📍🇩🇪 📩Termine auf Anfrage 👨🏾‍🎨Seminare/ Anfragen Per Dm 📩
     location: "Germany"
-    followers: 6482
-    engagement: 717
-    commentsToLikes: 0.042517
-    id: ckaosmjb0s43m0i7810y66f07
+    followers: 46133
+    engagement: 441
+    commentsToLikes: 0.016751
+    id: ck5bw5ebgl14i0i11fzmp539z
     verified: false
-    hashtags: "#barbershop, #barberlife, #barbergame, #barberlove"
+    hashtags: "#du, #berlin, #essencity, #istanbul"
+  - username: "maicolbarber"
+    fullname: >-
+      🧙🏼‍♂️𝐌𝐀𝐈𝐊𝐈𝐋𝐋𝐄𝐑 🤴🏻
+    bio: >-
+      𝐸𝓁 𝐵𝒶𝓇𝒷𝑒𝓇𝑜 𝒹𝑒 𝓁𝑜𝓈 𝐹𝒶𝓂𝑜𝓈𝑜𝓈🎸🀄️ 𝕹𝖚𝖓𝖈𝖆 𝖋𝖚𝖊 𝖘𝖚𝖊𝖗𝖙𝖊 𝖘𝖎𝖊𝖒𝖕𝖗𝖊 𝖋𝖚𝖊 𝕯𝖎𝖔𝖘🙏🏼 @latinbrothersbarbershop @fukfakebarbershop 💈💈🚀Dale pa acá ✂️ Cali-Medellín 🇨🇴💯
+    location: "Germany"
+    followers: 101922
+    engagement: 430
+    commentsToLikes: 0.013291
+    id: ck6tl19tr5sdr0j715somc7n2
+    verified: false
+    hashtags: "#fukfakemusic, #barbershop, #barberlife, #medellin"
+  - username: "yunus.8.8"
+    fullname: >-
+      Soldat/ Sportler
+    bio: >-
+      ❌Privat Account❌ 🇩🇪#bundeswehr 🇩🇪#soldier #motivation Spare 15% beim @oatking Link RABATTCODE : ⬇️ oder nutze Yunus15
+    location: "Germany"
+    followers: 3402
+    engagement: 683
+    commentsToLikes: 0.115549
+    id: ck8t3j1783f6g0j78f3bioa8b
+    verified: false
+    hashtags: "#menstyle, #fitfm, #beautiful, #instalike"
+  - username: "_sabrinabeauty_"
+    fullname: >-
+      Sabrinabeauty
+    bio: >-
+      TECHNIK MOUNIR🦅 Master of Color Zusammen Arbeit @kfilmfernsehen @fame_lenses Kooperation Dm ⬇️⬇️⬇️⬇️⬇️ Bild.de link
+    location: "Germany"
+    followers: 19472
+    engagement: 255
+    commentsToLikes: 0.263463
+    id: ck5hghoq62tmh0i116y6iil0a
+    verified: false
+    hashtags: "#bild, #olaplex, #likeforfollow, #haircut"
+  - username: "firstclass.hairdresser"
+    fullname: >-
+      FirstClass
+    bio: >-
+      Mo-Fr 9:00 - 19:00 Sa 8:00 - 17:00 Hauptstraße 307/B, Strasshof, Austria
+    location: "Germany"
+    followers: 6742
+    engagement: 315
+    commentsToLikes: 0.010843
+    id: ck5zwbtvn5ulo0i14p577edgm
+    verified: false
+    hashtags: "#cut, #barbershop, #shaving, #firstclass"
+  - username: "muhammedyue"
+    fullname: >-
+      Muhammed | Kiel | GoodLifeCrew
+    bio: >-
+      Snapchat : muhammedyue 👻 YouTuber : GoodLifeCrew 🎥
+    location: "Germany"
+    followers: 17065
+    engagement: 1359
+    commentsToLikes: 0.029772
+    id: ck14hcljb9n7u0i1952k4qqo5
+    verified: false
+    hashtags: "#comedy, #lustig, #ootd, #hamburg"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Djs TikTok Influencers In India In 2022
+title: Top 10 Djs TikTok Influencers In India In 2023
 description: >-
-  Find top djs TikTok influencers in India in 2022. Most popular hashtags: #foryoupage #tiktokindia #trending #viral.
+  Find top djs TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #trending #tiktokindia #foryou.
 platform: TikTok
-hits: 58
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 58 TikTok influencers like this in India for you to connect with.
+hits: 62
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 62 TikTok influencers like this in India for you to work with.
 profiles:
-  - username: "djswayindia"
-    fullname: >-
-      Sway
-    bio: >-
-      Instagram Id 👉🏻 DJSwayIndia DJ | Remixer | Blogger 👩🏼‍🦱 Show Your Love ❤️
-    location: "India"
-    followers: 3
-    engagement: 838
-    commentsToLikes: 0.041289
-    id: ckbeye232issa0j23yi3fn67l
-    verified: false
-    hashtags: "#foryou, #tiktokfashionblogger, #fashionblogger, #viralvideo"
   - username: "sagardehraj"
     fullname: >-
       Sagar Dehraj
@@ -26,11 +14,23 @@ profiles:
       3 Aug Single follow me on Instagram. Djsagardehraj
     location: "India"
     followers: 43900
-    engagement: 768
-    commentsToLikes: 0.018443
+    engagement: 766
+    commentsToLikes: 0.018353
     id: ckbqi9bql3hli0j23daiz8sad
     verified: false
-    hashtags: "#forupage, #foryou, #stayhome, #moosewala"
+    hashtags: "#tiktokindian, #forupage, #handwashchallenge, #sidhumoosewalafan"
+  - username: "djswayy"
+    fullname: >-
+      Sway 
+    bio: >-
+      Instagram Id 👉🏻 DJSwayIndia DJ | Remixer | Blogger 👩🏼‍🦱 Show Your Love ❤️
+    location: "India"
+    followers: 16800
+    engagement: 1068
+    commentsToLikes: 0.027800
+    id: ckbeye232issa0j23yi3fn67l
+    verified: false
+    hashtags: "#girlsinheels, #funnyact, #tiktok, #fyp"
   - username: "mahimaheshwari"
     fullname: >-
       Mahi Maheshwari
@@ -38,11 +38,11 @@ profiles:
       Cine DANCER in Telugu film industry I love my professional work💕
     location: "India"
     followers: 94100
-    engagement: 980
-    commentsToLikes: 0.061675
+    engagement: 1009
+    commentsToLikes: 0.054158
     id: ck9n4kdi54tj20j78qjnpt9g5
     verified: false
-    hashtags: "#djsong, #viral, #mahimaheshwari, #hitsong"
+    hashtags: "#hitsong, #1milionaudition, #foryoupage, #viral"
   - username: "shubhamsardar358"
     fullname: >-
       DJ Shubham Ngp
@@ -50,11 +50,11 @@ profiles:
       Subscribe YouTube Channel ( Dj Shubham Ngp )🥰
     location: "India"
     followers: 15600
-    engagement: 1869
+    engagement: 1868
     commentsToLikes: 0.008475
     id: ckbliqawdbxfq0j23nn24jk4g
     verified: false
-    hashtags: "#nagpur, #tiktokindia, #foryoupage, #baba"
+    hashtags: "#tiktokindia, #foryoupage, #baba, #akolakar"
   - username: "roshanhiwale"
     fullname: >-
       Roshan Hiwale
@@ -62,47 +62,23 @@ profiles:
       😎😋TIK_TOK_LOVER"😍😘 🔄🔈🔉DJ_OPRETOR🎶🔊🙌
     location: "India"
     followers: 28800
-    engagement: 1095
-    commentsToLikes: 0.015053
+    engagement: 1099
+    commentsToLikes: 0.015339
     id: ckai0amo96w3h0i78b7v4kfhj
     verified: false
-    hashtags: "#foryou, #trending, #like, #typ"
+    hashtags: "#stayhome, #djremix, #bollywood, #dj"
   - username: "vinodmane19"
     fullname: >-
       Vinod Mane
     bio: >-
       😎Marathi Mulaga 😃Mumbaikar 😉Acting lover 👉 Follow Me On Insta vinod_mane_
     location: "India"
-    followers: 82600
-    engagement: 977
-    commentsToLikes: 0.013168
+    followers: 82700
+    engagement: 989
+    commentsToLikes: 0.013626
     id: cka62eliyzj2s0i78gyda40yo
     verified: false
-    hashtags: "#foryoupage, #djathome, #stayathome, #tiktok"
-  - username: "manikanta.pallapu000"
-    fullname: >-
-      🤟🤟🤟Ⓜⓐⓝⓘ
-    bio: >-
-      
-    location: "India"
-    followers: 15100
-    engagement: 1022
-    commentsToLikes: 0.010580
-    id: ckbeotkiz59vj0j23na3yg7tg
-    verified: false
-    hashtags: "#tikkik, #djsong, #sharethecare, #doubleexposure"
-  - username: "shashikumarnayak9"
-    fullname: >-
-      Shashi Kumar Nayak
-    bio: >-
-      instagram 🆔 :shashikumarnayak9 😍 thanks for supporting 🙏 Love you All ❤😍
-    location: "India"
-    followers: 761500
-    engagement: 907
-    commentsToLikes: 0.007935
-    id: cka8ih7ahfccr0i787067rhz4
-    verified: false
-    hashtags: "#foryoupage, #shashikumarnayak9, #dancechallenge, #trending"
+    hashtags: "#djathome, #vinod, #tiktok, #foryoupage"
   - username: "singersurenderromio"
     fullname: >-
       Surender Romio
@@ -110,21 +86,45 @@ profiles:
       Haryanvi Singer Fam Of Ghunghat Bain,Shopping,Bolan Ka Ke Lagi,Kotha Chad Lalkar
     location: "India"
     followers: 81800
-    engagement: 1132
-    commentsToLikes: 0.006425
+    engagement: 1208
+    commentsToLikes: 0.005711
     id: cka7so2mnk0iq0i78a63908se
     verified: false
-    hashtags: "#surenderromio, #anny, #djsong, #gr"
-  - username: "heman_52"
+    hashtags: "#surender, #akjatti, #djsong, #ashudhakal"
+  - username: "manikanta.pallapu000"
     fullname: >-
-      Heman khampariya
+      🤟🤟🤟Ⓜⓐⓝⓘ
     bio: >-
-      🙏स्वागतम🙏 🌹🌹🌹 {BANDA} Mp
+      
     location: "India"
-    followers: 321900
-    engagement: 994
-    commentsToLikes: 0.004301
-    id: ckbkg6jq17hgf0j23f3gh5565
+    followers: 15100
+    engagement: 1008
+    commentsToLikes: 0.010471
+    id: ckbeotkiz59vj0j23na3yg7tg
     verified: false
-    hashtags: "#dhskkdf, #mp15banda, #comedy, #djsk"
+    hashtags: "#doubleexposure, #myntraeorschallenge, #sharethecare, #tiktokindia"
+  - username: "djsuman0615"
+    fullname: >-
+      djsuman
+    bio: >-
+      DJ | create & mix | remixer follow me on ☝ instagram
+    location: "India"
+    followers: 54100
+    engagement: 933
+    commentsToLikes: 0.011969
+    id: ck9grithee47f0j78ci0c4y71
+    verified: false
+    hashtags: "#myntraeorschallenge, #tamilmuser, #dance, #fyp"
+  - username: "shashikumarnayak9"
+    fullname: >-
+      Shashi Kumar Nayak
+    bio: >-
+      instagram 🆔 :shashikumarnayak9 😍 thanks for supporting 🙏 Love you All ❤😍
+    location: "India"
+    followers: 762900
+    engagement: 904
+    commentsToLikes: 0.007921
+    id: cka8ih7ahfccr0i787067rhz4
+    verified: false
+    hashtags: "#love, #dance, #djsong, #tollywood"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Argentina In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Argentina In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Argentina in 2022. Most popular hashtags: #tattoo #argentina #inked #realism.
+  Find top tattoo-artists Instagram influencers in Argentina in 2023. Most popular hashtags: #tattoo #inked #tattooartist #tattoos.
 platform: Instagram
-hits: 47
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 47 Instagram influencers like this in Argentina for you to collaborate.
+hits: 62
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 62 Instagram influencers like this in Argentina for you to connect with.
 profiles:
   - username: "pau.armstrong"
     fullname: >-
       Pau Armstrong - Calalini
     bio: >-
-      #GirlBoss at @mf.bondstreet Check my music💔 @pau.armstrong.piercer #tarotist #tattoo #artist 22 Backup @lil.shypau pau.ladymaiden@gmail.com
+      #GirlBoss at @mf.bondstreet Check my music💔 Backup @lil.shypau 23 #tvhost #tarotist #tattoo #artist #piercer pau.ladymaiden@gmail.com
     location: "Argentina"
-    followers: 39637
-    engagement: 715
-    commentsToLikes: 0.078548
+    followers: 41216
+    engagement: 693
+    commentsToLikes: 0.014648
     id: ck5qbqxydmz000i11fl1khwv5
     verified: false
-    hashtags: "#punkgirl, #egirl, #goth, #gothgirl"
+    hashtags: "#manga, #cute, #inked, #anime"
   - username: "flucsy13"
     fullname: >-
-      Flucsy flu 🖤☠️
+      🧷☠️🖤  𝕱𝖑𝖚𝖈𝖘𝖞 𝖋𝖑𝖚🖤☠️🧷
     bio: >-
-      💉Tattoo Artist💉: en @flucsy.tattoo ⬅️🐰 ☾ 🖤Alt Model: Canjes o Produs al MD💌
+      💉Tattoo Artist💉: en @flucsy.tattoo ⬅️ ☾ Alt Model: Canjes o Produs al MD💌
     location: "Argentina"
-    followers: 23824
-    engagement: 581
-    commentsToLikes: 0.060950
+    followers: 25158
+    engagement: 578
+    commentsToLikes: 0.030418
     id: ck6ugnbn540aj0j71s1t8c8o1
     verified: false
-    hashtags: "#nugoth, #gothgirl, #alternativemodel, #gothmodel"
+    hashtags: "#blondegoth, #ahestetic, #fullcolortattoo, #tattoogirls"
+  - username: "lulens"
+    fullname: >-
+      Lucía Franzé
+    bio: >-
+      architect | tattoo artist 🇦🇷 @reebokargentina squad NO DM para tattoos FORMULARIO PARA TATUARTE ↓
+    location: "Argentina"
+    followers: 82119
+    engagement: 438
+    commentsToLikes: 0.012510
+    id: ck137445x9ohd0i19uz337z84
+    verified: false
+    hashtags: "#alltypesoflove, #haceloquequierasatupelo, #esley, #volveralsalon"
   - username: "ceciliareinoso"
     fullname: >-
       Cecilia Reinoso
     bio: >-
       🤘🏻Tattoo Artist desde 2007🤘🏻 🇦🇷ARGENTINA🇦🇷 🏛 @sociedadsecretats
     location: "Argentina"
-    followers: 14469
-    engagement: 557
-    commentsToLikes: 0.033213
+    followers: 15353
+    engagement: 535
+    commentsToLikes: 0.030412
     id: ck55ksx9600wp0i11w9n2wc1u
     verified: false
-    hashtags: "#joaquinphoenixjoker, #tattooworkers, #tattooer, #oscars"
-  - username: "lulens"
+    hashtags: "#colortattoo, #portraittattoo, #tattooer, #argentinatattoo"
+  - username: "juanjaimesg"
     fullname: >-
-      Lucía Franzé
+      Juan Jaimes
     bio: >-
-      architect | tattoo artist based in BA 🇦🇷 @reebokargentina squad AGENDA 2020 CERRADA no DM por tattoos, solo mail: luciafranzetattoo@gmail.com
+      Tattoo Artist Táchira-Venezuela🇻🇪 📍 Actually in Sweden 🇸🇪 Contact: 🔸Juanjaimescitas@gmail.com CITAS COTIZACIONES ⬇️📱
     location: "Argentina"
-    followers: 78137
-    engagement: 451
-    commentsToLikes: 0.011932
-    id: ck137445x9ohd0i19uz337z84
+    followers: 25460
+    engagement: 144
+    commentsToLikes: 0.138323
+    id: ck15rqyfv995s0i19oblee8wu
     verified: false
-    hashtags: "#ramosdeladeshonra, #doveargentina, #dovecuidayprotege, #chinosuave"
+    hashtags: "#tigertattoo, #radiantcolorsink, #tattoo, #juanjaimes"
   - username: "yet.tattoo"
     fullname: >-
       Yet Tattoo🍂
     bio: >-
       Estudio privado San Miguel 🏠🇦🇷 ~ Tattoo Artist 🖋️ ~ Nikon📸 ~🥑🌱 ~@goldenhousetattoo ft ~@sancheztattvamasi @pixieiara
     location: "Argentina"
-    followers: 17702
-    engagement: 172
-    commentsToLikes: 0.035619
+    followers: 17408
+    engagement: 167
+    commentsToLikes: 0.034717
     id: ck5hp6fp2qtxn0i119wzzkal4
     verified: false
-    hashtags: "#blackandgreytattoo, #draw, #tattoomodel, #tatuajes"
-  - username: "juanjaimesg"
-    fullname: >-
-      Juan Jaimes
-    bio: >-
-      Tattoo Artist Táchira-Venezuela🇻🇪 📍 Actually in Sweden 🇸🇪 • Contact: 🔸Juanjaimescitas@gmail.com CITAS COTIZACIONES ⬇️📱
-    location: "Argentina"
-    followers: 26402
-    engagement: 132
-    commentsToLikes: 0.116840
-    id: ck15rqyfv995s0i19oblee8wu
-    verified: false
-    hashtags: "#argentina, #tigre, #juanjaimes, #tigertattoo"
-  - username: "jona_sossi"
-    fullname: >-
-      Jona Sossi
-    bio: >-
-      Tattoo artist. 📍@lamalatattoocrew Black account @_any.mal_ La Plata, Buenos Aires, Argentina.
-    location: "Argentina"
-    followers: 7554
-    engagement: 863
-    commentsToLikes: 0.033242
-    id: ck5q47jhuo2ia0i110yykz9p4
-    verified: false
-    hashtags: "#videogametatts, #pokemon, #newschool, #cuarentena"
-  - username: "wilrtattoo"
-    fullname: >-
-      William ®️
-    bio: >-
-      📍Buenos Aires 🌐 Tattoo Artist ⚜️ Estudio Privado ⚜️ Turnos y consultas Whatsapp 📥
-    location: "Argentina"
-    followers: 22142
-    engagement: 234
-    commentsToLikes: 0.027817
-    id: ck6tk4cuc3zcq0j71tqccluya
-    verified: false
-    hashtags: "#argentina, #realisticdrawing, #lion, #tattoomiami"
+    hashtags: "#blackandgray, #tatt, #tattoolove, #inked"
   - username: "betz.art"
     fullname: >-
       Betzabeth Osuna
     bio: >-
-      Tattoo Artist 🇻🇪 🇦🇷 📩👇🏻 yeyotattoos@gmail.com betzart07@gmail.com
+      Tattoo Artist 🇻🇪 🇦🇷 Para consultas y cotizaciones escríbeme por WA📲👇🏻
     location: "Argentina"
-    followers: 12019
-    engagement: 414
-    commentsToLikes: 0.034244
+    followers: 13550
+    engagement: 407
+    commentsToLikes: 0.037892
     id: ck55pvqz5bhg10i11zr3pbecu
     verified: false
-    hashtags: "#inked, #ink, #inktattoo, #argentina"
+    hashtags: "#realismtattoo, #inktattoo, #fullcolortattoo, #realism"
   - username: "pablo_frias.tattoo"
     fullname: >-
       Pablo Frias
     bio: >-
-      Consultas únicamente mail pablofriasturnos@gmail.com 🎨✉️ No 🚫 mp Palermo, argentina #pablofriastattoo
+      Consultas únicamente mail pablofriasturnos@gmail.com 🎨✉️ # Sponsor @thesolidink @solidinklatam @emalla_official @electrumsupply
     location: "Argentina"
-    followers: 58389
-    engagement: 491
-    commentsToLikes: 0.025018
+    followers: 83940
+    engagement: 382
+    commentsToLikes: 0.024334
     id: ck6tmxilt8pxk0j71g1jw6o7i
     verified: false
-    hashtags: "#tattoodesign, #orco, #fullcolor, #inkmaster"
+    hashtags: "#tbt, #arte, #instagood, #beutiful"
+  - username: "bru.saa"
+    fullname: >-
+      Sabrina • 🌿
+    bio: >-
+      Tatuadora en ✖️Casa Indeleble 🖤 La Plata . Argentina 🇦🇷 . @casaindeleble
+    location: "Argentina"
+    followers: 9698
+    engagement: 883
+    commentsToLikes: 0.035060
+    id: ck5znsosbp2y10i14sfq9ir4d
+    verified: false
+    hashtags: "#neotradeu, #neotrad, #flowersofinstagram, #flores"
+  - username: "williamramirez_art"
+    fullname: >-
+      William Ramirez | Artist
+    bio: >-
+      📍Argentina 🇦🇷 ⚜️ Estudio @rebelink_tattoo ⚜️ Turnos y consultas Whatsapp 📥
+    location: "Argentina"
+    followers: 24307
+    engagement: 181
+    commentsToLikes: 0.035919
+    id: ck6tk4cuc3zcq0j71tqccluya
+    verified: false
+    hashtags: "#tattooartist, #argentina, #tiger, #realisticdrawing"
 ---

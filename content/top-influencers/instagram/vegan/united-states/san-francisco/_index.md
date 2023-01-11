@@ -1,24 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Francisco In 2022
+title: Top 10 Vegan Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top vegan Instagram influencers in San Francisco in 2022. Most popular hashtags: #vegan #sanfrancisco #plantbased #bayarea.
+  Find top vegan Instagram influencers in San Francisco in 2023. Most popular hashtags: #vegan #sanfrancisco #bayarea #plantbased.
 platform: Instagram
-hits: 37
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 37 Instagram influencers like this in San Francisco, United States for you to work with.
+hits: 26
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 26 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
-  - username: "whollyvegan"
+  - username: "theuncreamery"
     fullname: >-
-      Jen
+      The Uncreamery - Vegan Cheese
     bio: >-
-      Vegan | San Francisco
+      🌱The most delicious Vegan Cheese hand made in small batches in San Francisco!😍 CA can order direct!
     location: "United States"
-    followers: 57468
-    engagement: 113
-    commentsToLikes: 0.027370
-    id: ck8szlzxdoy5r0j78t3bnyd94
+    followers: 17534
+    engagement: 153
+    commentsToLikes: 0.051448
+    id: ck5zj9jjhh6vi0i14vb1nsfmk
     verified: false
-    hashtags: "#vegan, #veganfoodshare, #vegansofig, #justegg"
+    hashtags: "#meatless, #vegetarian, #thefutureofdairyisnuts, #food52"
   - username: "consciouschris"
     fullname: >-
       Chris • Ⓥ
@@ -30,101 +30,101 @@ profiles:
     commentsToLikes: 0.021312
     id: ck0uad7iobzko0i19m6risr0b
     verified: false
-    hashtags: "#sandwich, #plantbased, #vegan, #portland"
-  - username: "anna.sauce"
+    hashtags: "#pdx, #dairyfree, #portland, #meatless"
+  - username: "thereallifeveganqueen"
     fullname: >-
-      🌸 Anna Nguyen 🌸
+      Priscilla Rossouw👸🏻 🇿🇦🇺🇸
     bio: >-
-      Join me on my journey 🧳 Travel 🍤 Food 🧘🏻‍♀️ Self Discovery 📧 For serious inquiries: annanguyeny@gmail.com
+      #southafrican🇿🇦 #vegan #fitnessjunkie #traveler #sanfrancisco Revenue Operations Manager Engaged to @thereallifeveganking 💍👩‍❤️‍👨
     location: "United States"
-    followers: 12001
-    engagement: 1398
-    commentsToLikes: 0.023549
-    id: ck14h4yi28jx30i19oye3rns2
+    followers: 5964
+    engagement: 505
+    commentsToLikes: 0.074823
+    id: ckap7l52rkjmz0i78tvefuly2
     verified: false
-    hashtags: "#asiangirl, #traveler, #vacation, #california"
-  - username: "creatureintheparks"
-    fullname: >-
-      Trevor
-    bio: >-
-      Just a guy that loves to travel and eat cool shit 🤷🏻‍♂️ @missaliciam 🖤 Keep it posi ✌🏻
-    location: "United States"
-    followers: 5409
-    engagement: 680
-    commentsToLikes: 0.018314
-    id: ckap9lxbvsoy50i78t7673i3s
-    verified: false
-    hashtags: "#disneylove, #californiatakeover, #joshuatree, #disneystudios"
+    hashtags: "#bayarea, #birthday, #sanfrancisco, #birthdaygirl"
   - username: "andoni_lekue"
     fullname: >-
-      Andoní Lekue
+      The Vegan Wolf 🌱🐺
     bio: >-
-      Gold Wings Bar-Barian The Vegan Wolf 🌱🐺 @cashyum WORLD RECORD 87 MUSCLE UPS UNBROKEN click link TikTok @andoni_lekue #plantbased 043∞
+      Gold Wings Barbarian WWW.WHYNOTFLOW.COM 👇🏾 87 Muscle Ups UNBROKEN World Record
     location: "United States"
-    followers: 3546
-    engagement: 1057
-    commentsToLikes: 0.081239
+    followers: 322
+    engagement: 8638
+    commentsToLikes: 0.136500
     id: ck9wdybf4htln0j781fhen8i9
     verified: false
-    hashtags: "#wolf, #domore, #barbarian, #gatekeepaz"
-  - username: "theuncreamery"
+    hashtags: "#calisthenics, #family, #wework, #beast"
+  - username: "lisamyaf"
     fullname: >-
-      The Uncreamery - Vegan Cheese
+      Lisa Myaf 🌱 VEGAN FOOD
     bio: >-
-      🌱The most delicious Vegan Cheese hand made in small batches in San Francisco!😍 Order on Vegan Essentials (NATIONWIDE)
+      🧀 Vegan cheese maker 💝@theuncreamery co-founder 🍴Total Foodie 🌱San Francisco, CA ⬇CLICK HERE TO ORDER OUR CHEESE⬇
     location: "United States"
-    followers: 15925
-    engagement: 152
-    commentsToLikes: 0.057326
-    id: ck5zj9jjhh6vi0i14vb1nsfmk
+    followers: 25241
+    engagement: 315
+    commentsToLikes: 0.078021
+    id: ck0tv12mg9h380i19zqgmri55
     verified: false
-    hashtags: "#cheese, #vegetarian, #vegansandwich, #spicy"
-  - username: "rachel_dxe"
+    hashtags: "#ketodiet, #vegan, #meatlessmonday, #bestofvegan"
+  - username: "sanfrancisco_iloveyou"
     fullname: >-
-      Rachel Ziegler
+      We Love San Francisco ❤️🌁
     bio: >-
-      🔦Facing 8 felony charges for rescuing animals🐓 📣 Activist & bird mom🕊🐾✊🏾 📍The Vulcan: @awarehouse_oakland 📸 Page : @rachel.z.photography
+      We keep you posted on all the great places to visit, dishes to try & adventures to have in San Francisco! 🦀🍸 🏷@SanFrancisco_iLoveYou to get featured
     location: "United States"
-    followers: 2948
-    engagement: 657
-    commentsToLikes: 0.068455
-    id: ck8szr011pe4i0j78zoi162yz
+    followers: 7284
+    engagement: 712
+    commentsToLikes: 0.026965
+    id: ckf5rrzlzdptm0j235yskv93t
     verified: false
-    hashtags: "#photography, #meat, #politics, #halloween"
-  - username: "chefpierrethiam"
+    hashtags: "#sanfran, #sanfranciscoiloveyou, #bayarea, #california"
+  - username: "natsplantlife"
     fullname: >-
-      Pierre Thiam
+      Vegan | Low Waste Lifestyle
     bio: >-
-      Chef, Restaurateur, TED Speaker & Cultural Ambassador • Co-Founder @yolelefoods • Co-Founder @itsteranga_ • Please support: https://bit.ly/2VhpxHz
+      ⋒ Nataly | CA | Latina ↠ She/Her ♡ ↠ Simple vegan meals 🌱 ↠ Earth X Climate advocate ↠ Mental Health Positivity
     location: "United States"
-    followers: 11961
-    engagement: 391
-    commentsToLikes: 0.071728
-    id: ck0w4aqq0xn5l0i19n8w7236y
-    verified: true
-    hashtags: "#future50foods, #chefpierrethiam, #fonio, #yolelefoods"
-  - username: "simonagyoga"
-    fullname: >-
-      Simona G Yoga
-    bio: >-
-      Yoga teacher | E-RYT500 Empowering through physical and mental strength 🌱Plant powered Email for collaborations 🌉Based in San Francisco Bay Area 📺👇
-    location: "United States"
-    followers: 116618
-    engagement: 230
-    commentsToLikes: 0.052794
-    id: ck0vwp7n1uwss0i19fho9jq4p
+    followers: 8063
+    engagement: 435
+    commentsToLikes: 0.178114
+    id: ck0udd2j7issa0i19orq4ogr5
     verified: false
-    hashtags: "#yogastudent, #howtoyogaathome, #heartopener, #yogastrong"
-  - username: "bett_yu"
+    hashtags: "#consciousconsumer, #bayareavegans, #consciousliving, #environmentallyfriendly"
+  - username: "souleyvegan"
     fullname: >-
-      Betty Yu
+      SOULEY VEGAN
     bio: >-
-      CBS San Francisco @kpixtv at 11 pm byu@cbs.com facebook.com/BettyYuLive
+      EST. 2006 We are a Vegan Louisiana Creole restaurant in Oakland Ca Known 4 Bold approach to the vegan industry. Visit our website for locations!
     location: "United States"
-    followers: 8814
-    engagement: 460
-    commentsToLikes: 0.115646
-    id: ck5q4ykycqpts0i11oqs9jyxn
-    verified: true
-    hashtags: "#farmtotable, #outdoordining, #ranchlife, #ootd"
+    followers: 41535
+    engagement: 660
+    commentsToLikes: 0.013168
+    id: ck8szxanrq2cm0j78ugwn24sh
+    verified: false
+    hashtags: "#vegansofla, #souleyveganla, #crueltyfree, #veganofig"
+  - username: "pinkispalate"
+    fullname: >-
+      Priyanka Shah, PA-C
+    bio: >-
+      🌱Easy, nourishing vegan & Jain fusion recipes 👩🏽‍⚕️ Stanford Physician Associate 🧘🏽‍♀️Compassionate & conscious living 👇🏽Blog, more recipes, & links
+    location: "United States"
+    followers: 6075
+    engagement: 636
+    commentsToLikes: 0.072660
+    id: ckaory46dpai50i7811juasz0
+    verified: false
+    hashtags: "#vegansnacks, #easyrecipes, #veganindian, #indianfoodbloggers"
+  - username: "classycleanchic"
+    fullname: >-
+      Emerson 🦋
+    bio: >-
+      👩🏼‍💻Engineer turned FULL TIME FASHION BLOGGER 🐶Minneapolis dog mom @classycleancoco 🛍@shopclassycleanchic ✨I bought a condo🏡🏙🌤
+    location: "United States"
+    followers: 425759
+    engagement: 179
+    commentsToLikes: 0.105149
+    id: ck136v23q8epd0i19wfd6l9i5
+    verified: false
+    hashtags: "#revolveme, #ltksalealert, #winteroutfit, #minnesota"
 ---

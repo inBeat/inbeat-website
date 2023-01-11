@@ -1,72 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Chile In 2022
+title: Top 10 Cooking Instagram Influencers In Chile In 2023
 description: >-
-  Find top cooking Instagram influencers in Chile in 2022. Most popular hashtags: #love #cooking #happy #smile.
+  Find top cooking Instagram influencers in Chile in 2023. Most popular hashtags: #cooking #instagood #woman.
 platform: Instagram
-hits: 46
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 46 Instagram influencers like this in Chile for you to connect with.
+hits: 21
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "jmgfontaine"
+  - username: "annaissdiaz"
     fullname: >-
-      Jose Miguel
+      annaissdiaz
     bio: >-
-      •Masterchef 🇨🇱 2019. •Médico Veterinario 👨🏻‍⚕️. •@_natural.horse_ ELECTROACUPUNTURA/ DENTISTA EQUINO🐎. • @ika_bordercollie 🐶.
+      • Chef In Process 🤘🏼🔪 • I love Sneakers 🔥 • Coming soon @sushihikariquilpue 🥢
     location: "Chile"
-    followers: 33084
-    engagement: 209
-    commentsToLikes: 0.041565
-    id: ck5zmpc3mmz4v0i14fw9pur14
-    verified: true
-    hashtags: "#chile, #yolo, #chef, #cooking"
-  - username: "mmarocchino"
-    fullname: >-
-      ManFashion & Lifestyle
-    bio: >-
-      -FashionBusinessMan -LifeStyle&Fashion -Tv presenter📺 -Founder of @cielomilano 👔 -Founder of @sartoriamarocchino 🧵 -Founder of @cucinabycielomilano 🇮🇹
-    location: "Chile"
-    followers: 389014
-    engagement: 246
-    commentsToLikes: 0.019023
-    id: ck13bt0bax0tu0i19y0uylaz5
-    verified: true
-    hashtags: "#menstyle, #mensfashion, #menwithclass, #menwithstyle"
-  - username: "anthonella.cuevas"
-    fullname: >-
-      Anthonella Cuevas Albornoz
-    bio: >-
-      Canjes/publicidad->DM @dra.anthonellacuevas 🦷Odontóloga👆🏻 @mk_rustic -> 10%dcto: CUEVAS612 🇨🇱 L.A/Ccp
-    location: "Chile"
-    followers: 90896
-    engagement: 426
-    commentsToLikes: 0.010511
-    id: ck0u8m60x7qns0i19qwa3zo8m
+    followers: 157107
+    engagement: 877
+    commentsToLikes: 0.012117
+    id: ck8tckl0bzq5v0j78hj20spup
     verified: false
-    hashtags: "#challenge, #instalosangeleschile, #instaphoto, #selfie"
-  - username: "nataliaduco"
+    hashtags: "#nomakeup, #face, #chilegram, #instapic"
+  - username: "stellar.uwu"
     fullname: >-
-      N a t a l i a   D u c o
+      S t e l l a r
     bio: >-
-      Atleta Olímpica Chilena 🇨🇱 #29semanas con Luciano 🤰 Psicología 〰️ Deporte 〰️ Cocina GANADORA 🏆 #MasterChefCelebrityChile
+      🎮 Gamer, streamer and cosplayer. 🕹Lu, Ma, Jue 19:30 y Sa 19:00 por mi canal de Twitch! 🦍 Streamer @gorillascl @gorilla.setups ¡SÍGUEME EN TWITCH!
     location: "Chile"
-    followers: 243390
-    engagement: 609
-    commentsToLikes: 0.038644
-    id: ck5q12hlf8ybh0i11ceh0c6go
-    verified: true
-    hashtags: "#mam, #masterchefcelebritychile, #strongwoman, #receta"
-  - username: "javiromanm"
-    fullname: >-
-      Javi Roman 🇨🇱
-    bio: >-
-      ✨ Rally Codriver ✨ •👸🏻•🏆•🚗•🏁• - 1era Mujer Chilena 🇨🇱 Campeona de Rally. - 📍🇬🇧. - @full_motorsport_dynamics ⚙️🔧. #AnimalLover 💚
-    location: "Chile"
-    followers: 24136
-    engagement: 852
-    commentsToLikes: 0.026922
-    id: ck13bhlz5vfyl0i19byk0phjf
+    followers: 3227
+    engagement: 1114
+    commentsToLikes: 0.070881
+    id: ckaorzk88ph350i78smyas89y
     verified: false
-    hashtags: "#racing, #rudelracing, #selfie, #selfietime"
+    hashtags: "#twitch, #streamer, #pinkhair, #woman"
   - username: "bloncho"
     fullname: >-
       Bloncho/Pablo Valdés 📸
@@ -78,53 +42,89 @@ profiles:
     commentsToLikes: 0.017079
     id: ck55k2nr3ybce0i11yka8kcau
     verified: false
-    hashtags: "#portrait, #boudoir, #nude, #ice"
-  - username: "pastrychefmile"
+    hashtags: "#highlightscl, #boudoirphotography, #ice, #portrait"
+  - username: "kimloewenthal"
     fullname: >-
-      Chef Mile Vallejos M.
+      𝒦𝒾𝓂 ℒ𝑜𝑒𝓌𝑒𝓃𝓉𝒽𝒶𝓁🧿
     bio: >-
-      🍦Hago postres también me los como🐷 🍩Me creo el hoyo del queque 🤎Mamá 🍰Pastelera 👩🏻‍🍳Chef Instructor 👩‍⚖️Jurado BakeOff @chilevision
+      Empresaria 🌟𝙴𝚟𝚎𝚗𝚝 𝙿𝚕𝚊𝚗𝚗𝚎𝚛 𝚁𝚁.𝙿𝙿 Fashion-lifestyle-foodie-Beauty 📲📲Creadora de Contenido ✍🏻CEO @kimscreationsvzla. Embajadora @acluchemosporlavida
     location: "Chile"
-    followers: 22300
-    engagement: 247
-    commentsToLikes: 0.052124
-    id: ck5q1goqxawb30i118nqkw2vy
+    followers: 25813
+    engagement: 149
+    commentsToLikes: 0.090250
+    id: ck6uhlmyx9u180j71w3xd5oa5
     verified: false
-    hashtags: "#pastrychef, #chocolatelove, #v2020, #pastrylife"
-  - username: "bernardo_y_horacio"
-    fullname: >-
-      Bernardo - Horacio
-    bio: >-
-      Bernardo |🎉29-01-2017 Horacio |🥳15-10-2017 Comer , dormir y dar 👅 👑Embajadores: @fotoburbuja.cl @laabuelapetshotel @happydachshund.cl
-    location: "Chile"
-    followers: 11566
-    engagement: 916
-    commentsToLikes: 0.243765
-    id: ck6ti7oec070q0j71etxozgqz
-    verified: false
-    hashtags: "#likeforlikes, #f4follow, #sausagedog, #dachshundsonly"
-  - username: "r.madrid21"
-    fullname: >-
-      Rodolfo Madrid
-    bio: >-
-      @r.madrid21 Giving my best! Ex Futbolista profesional D.T. Colo-colo (2015-2017), Cobreloa (2017), Rodelindo Roman (2018-2019-2020).
-    location: "Chile"
-    followers: 14375
-    engagement: 391
-    commentsToLikes: 0.024473
-    id: ck55q4ho3c22d0i11yviffbit
-    verified: false
-    hashtags: "#lifeisgood, #colocoloeschile, #instachile, #quedateencasa"
+    hashtags: "#fashionstyle, #caracas, #tbt, #moda"
   - username: "maisacocina"
     fullname: >-
       maisacocina
     bio: >-
       Santiago, Chile
     location: "Chile"
-    followers: 20617
-    engagement: 382
-    commentsToLikes: 0.036538
+    followers: 21535
+    engagement: 341
+    commentsToLikes: 0.043040
     id: ck15rzgcqah2n0i190e4s9kbw
     verified: false
-    hashtags: "#healthyrecipes, #foodblogger, #instachile, #healthyeating"
+    hashtags: "#chileanfood, #disfrutemosquillayes, #instagood, #cocinachilena"
+  - username: "angeles_araya_"
+    fullname: >-
+      Ángeles Araya
+    bio: >-
+      Madrugo! Siempre por las pantallas de @canal13cl @aquisomostodos De salud hablamos en “Mito o Realidad” en @mitorealidadtalk
+    location: "Chile"
+    followers: 64140
+    engagement: 448
+    commentsToLikes: 0.050929
+    id: ck0vvt55tqne30i19twpips75
+    verified: false
+    hashtags: "#realidad, #consejos, #sonrie, #vamospormas"
+  - username: "osvavilaschef"
+    fullname: >-
+      Osvaldo Vilas Banqueteria
+    bio: >-
+      BANQUETERIA ➕ PRODUCCION👊🏻 Vilas.banqueteria@gmail.com
+    location: "Chile"
+    followers: 31138
+    engagement: 112
+    commentsToLikes: 0.030168
+    id: ck0vy3ifx21zy0i19gu7mq413
+    verified: false
+    hashtags: "#osvaldovilasbanqueteria, #osvavilaschef"
+  - username: "yourmamathegoat"
+    fullname: >-
+      𝑪𝑨𝑻𝑨𝑵𝑨
+    bio: >-
+      No lo entenderían
+    location: "Chile"
+    followers: 24248
+    engagement: 839
+    commentsToLikes: 0.024790
+    id: ck5q5qjhmu3pz0i11hh5i6yax
+    verified: false
+    hashtags: "#coomingsoon, #volandoenlanube, #holayadios, #dreamteam"
+  - username: "aventuranzas"
+    fullname: >-
+      A V E N T U R A N Z A S
+    bio: >-
+      #LaBocina 🔇 Mira el Video Clip Aquí👇🏼
+    location: "Chile"
+    followers: 278945
+    engagement: 678
+    commentsToLikes: 0.021388
+    id: ck15t6mzuglxf0i19enklnc9a
+    verified: false
+    hashtags: "#coomingsoon, #tbt, #micomplemento, #belenguix"
+  - username: "djkili"
+    fullname: >-
+      Dj Kili
+    bio: >-
+      🎧 Dj desde los 13 🎹 Tech House Music 📱 Booking @robinson_anriquez ⚡️ Out Now ⬇️
+    location: "Chile"
+    followers: 19224
+    engagement: 826
+    commentsToLikes: 0.035552
+    id: ck14jc7l3jlri0i19tt4jby5f
+    verified: false
+    hashtags: "#shishigang, #perreoflayte, #foda, #desayunofeliz"
 ---

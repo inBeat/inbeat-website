@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Diego In 2022
+title: Top 10 Fashion Instagram Influencers In San Diego In 2023
 description: >-
-  Find top fashion Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #fashion #losangeles #ootd.
+  Find top fashion Instagram influencers in San Diego in 2023. Most popular hashtags: #photography #sandiego #fashion #inked.
 platform: Instagram
-hits: 211
+hits: 193
 text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 211 Instagram influencers like this in San Diego, United States for you to contact.
+text_bottom: Our search engine holds 193 Instagram influencers like this in San Diego, United States for you to collaborate.
 profiles:
   - username: "lovely50s"
     fullname: >-
       💋𝓐 𝓭𝓭𝓲𝓮 𝓥𝓮𝓮 𝓞𝓻𝓽𝓮𝓪𝓼𝓮
     bio: >-
-      💄PinUp ⚓San Diego 🏋Fitness🦋Lupus 💈Wife👑🦈🐾Momma ✨Disney AP 🌹𝕮𝖍𝖎𝖈𝖆𝖓𝖆
+      💄PinUp ⚓San Diego 🏋‍♀️Fitness🦋Lupus 💈Wife👑🦈🐾Momma ✨Legacy Passholder 🌹𝕮𝖍𝖎𝖈𝖆𝖓𝖆
     location: "United States"
-    followers: 33532
-    engagement: 208
-    commentsToLikes: 0.043226
+    followers: 33809
+    engagement: 115
+    commentsToLikes: 0.071956
     id: ck5zj9dach6k90i14uhpubgpe
     verified: false
-    hashtags: "#selfcare, #celsius, #love, #workout"
-  - username: "carlresolution"
+    hashtags: "#motivation, #summervibes, #pinup, #disneyland"
+  - username: "throughthelensoflexie"
     fullname: >-
-      CARLOS ROBLES
+      San Diego Photographer
     bio: >-
-      #newyork 🤠
+      Event, Portrait, Editorial and International Published Photographer . Website 📌
     location: "United States"
-    followers: 4906
-    engagement: 2191
-    commentsToLikes: 0.015816
-    id: ckap5yrygdqh00i78g7bprbid
+    followers: 5425
+    engagement: 1059
+    commentsToLikes: 0.024809
+    id: ck6u4i4av3utc0j71a8zq1ut1
     verified: false
-    hashtags: "#aesthetic, #newyork, #photography, #summer"
-  - username: "erica_shawty"
+    hashtags: "#sdportraits, #bnw, #discoverportrait, #makeportraits"
+  - username: "stayinghomesawyer"
     fullname: >-
-      erica shutty
+      Shauna
     bio: >-
-      Food ﹒Travel ﹒Fashion ﹒Beauty San Diego, CA﹒ Fohr Verified shawtyerica@gmail.com
+      Living our best life in little squares. Sometimes curated and other times chaotic. That’s life! DM for Collabs
     location: "United States"
-    followers: 15236
-    engagement: 841
-    commentsToLikes: 0.128748
-    id: ck9hc8fb1k89h0j78pvrujhbh
+    followers: 31046
+    engagement: 271
+    commentsToLikes: 0.861068
+    id: ck5q2dcdufg6z0i11er53hd69
     verified: false
-    hashtags: "#ad, #thecassaraexperience, #visitcarlsbad, #nerdscandyatkroger"
-  - username: "sandiego.city"
+    hashtags: "#valentinesdessert, #homemadecakes, #appleproducts, #sandiegolife"
+  - username: "sandrazuri411"
     fullname: >-
-      Official San Diego Page
+      Sandra Zuri
     bio: >-
-      ♦️Tᴀɢ Us: @sandiego.city ♦️Hᴀsʜᴛᴀɢ Us: #sandiegocity ♦️Gᴏᴀʟ: #500 #500kfollowers ♦️Sʜᴀʀᴇ ᴀɴᴅ Rᴇᴘᴏsᴛ:🔁🔄 ♦️Nᴇᴡ Pᴏsᴛ Eᴠᴇʀʏ Dᴀʏ:📲📸 🔺SAN DIEGO CITY
+      💕@SZ411adventures 📸@916.aestheticz 👑@GoddessZuri411 🌎 916, CALIFORNIA ART▪︎CARS▪︎FASHION▪︎INK
     location: "United States"
-    followers: 134159
-    engagement: 200
-    commentsToLikes: 0.016912
-    id: ck5pvukg1jpio0i11o1rgzzx5
+    followers: 5324
+    engagement: 1372
+    commentsToLikes: 0.080427
+    id: ck5q81t4q42860i111ux54kb1
     verified: false
-    hashtags: "#sandiegocomiccon, #socal, #sandiegohairstylist, #sandiegosunset"
-  - username: "schmalltalk"
+    hashtags: "#portrait, #life, #goth, #fashion"
+  - username: "aarondellavedova_art"
     fullname: >-
-      SYDNEY SCHMALL
+      Aaron Della Vedova
     bio: >-
-      🌟IG Growth & Branding Strategist🌟 👇🏼DM Me To Grow Your Insta👇🏼 🌴Florida Based Influencer CEO @flossy.io @thetampabaysocialites 💅🏼
+      Grateful to be a purveyor of the greatest collaborative art form in the history of humankind!
     location: "United States"
-    followers: 16158
-    engagement: 956
-    commentsToLikes: 0.077027
-    id: ck6u4i1td3ucd0j71dv01zbix
+    followers: 52529
+    engagement: 139
+    commentsToLikes: 0.018271
+    id: ck55k5m1tyiqn0i11biq60cb2
     verified: false
-    hashtags: "#blogger, #entrepreneurslife, #fashioninfluencer, #latinagirl"
-  - username: "jazzyylovee"
+    hashtags: "#tattooist, #snaketattoo, #sandiegotattooartist, #tattoos"
+  - username: "overthemoonfaraway"
     fullname: >-
-      Jazmine De La Torre
+      Erin Miller
     bio: >-
-      •lifestyle •fashion •travel 📍San Diego, ca ☀️ 💌: jazzyylovee3@gmail.com
+      📍San Diego Fashion | Lifestyle | Laughs @tiktok 👉🏻 overthemoonfaraway ✉️ erin@shoshalmedia.com
     location: "United States"
-    followers: 2727
-    engagement: 713
-    commentsToLikes: 0.131753
-    id: ck14hviw6cc340i19ksxuay40
+    followers: 120526
+    engagement: 1099
+    commentsToLikes: 0.059243
+    id: ck5zs6ohuxxmk0i14hemsipd2
     verified: false
-    hashtags: "#ootdmagazine, #fallstyle, #whowhatwearing, #stylehunter"
+    hashtags: "#millennials, #millennial, #throwbackfashion, #collegememories"
+  - username: "nataliebrekka"
+    fullname: >-
+      Natalie Brekka
+    bio: >-
+      fashion, lifestyle, home San Diego, CA ✉️ nataliebrekka@yahoo.com Shop my life ↓
+    location: "United States"
+    followers: 39656
+    engagement: 238
+    commentsToLikes: 0.108292
+    id: ck0ttz6rv4yju0i199g7rhg0o
+    verified: false
+    hashtags: "#foodinspo, #reelsinstagram, #reels, #modernhomedecor"
   - username: "thestylishbisou"
     fullname: >-
       THE STYLISH BISOU
     bio: >-
-      🎀Fashion Diary of Chloe Bisou & Heather 🐾Pug obsessed•Fashion obsessed•Pug-fashion obsessed 🌴San Diego 👗ETSY closing Oct 1 for HOLIDAY prep!❤️
+      🎀Fashion Diary of Chloe Bisou & Heather 🐾PUG obsessed•FASHION obsessed•PUG-FASHION obsessed 🌴San Diego 👗ETSY SALE until Jan 11th!!!
     location: "United States"
-    followers: 31397
-    engagement: 172
-    commentsToLikes: 0.044804
+    followers: 31452
+    engagement: 173
+    commentsToLikes: 0.060946
     id: ck6u5lv72adrd0j71so3rmgme
     verified: false
-    hashtags: "#shoesdaytuesday, #mondayvibes, #halloween2020, #spookyseason"
-  - username: "kotineru"
+    hashtags: "#mondaymood, #tbt, #shoesdaytuesday, #lastdayofnovember"
+  - username: "ariellelevyphoto"
     fullname: >-
-      A Darling Dream Kayla Smith
+      SAN DIEGO PHOTOGRAPHER | Ari
     bio: >-
-      Fashion•Mama•Wife•San Diego 💌 Kaylaotineru@gmail.com Get all my outfit details👇🏻
+      Photographer for Content Creators & Brands fashion | lifestyle | commercial San Diego + travel
     location: "United States"
-    followers: 48769
-    engagement: 167
-    commentsToLikes: 0.102579
-    id: ck8t456045jlr0j78rlejdhe7
+    followers: 21316
+    engagement: 323
+    commentsToLikes: 0.098567
+    id: ck0u0vl8iuykn0i19o4xvqru0
     verified: false
-    hashtags: "#momstyle, #oldnavystyle, #ltkbaby, #ltkunder50"
-  - username: "crystalperezillustrations"
+    hashtags: "#tutorial, #branding, #sdphoto, #sandiegophotographer"
+  - username: "your_daly_dose_"
     fullname: >-
-      Crystal Perez Illustrations
+      Marissa Daly & Meredith Daly
     bio: >-
-      Whimsical Women Inspired by Beauty, Fashion, Life & Nature | San Diego, Ca | Personal IG @crystalllperez Shop Prints👇🏼
+      Your Daly Dose San Diego // fashion + lifestyle // MBAs // twins Designers and seamstresses @asmuchagain 💌: Yourdalydose2@gmail.com
     location: "United States"
-    followers: 18851
-    engagement: 481
-    commentsToLikes: 0.036411
-    id: ckf5wqmw4swvw0j23zqxetb33
+    followers: 107691
+    engagement: 225
+    commentsToLikes: 0.042110
+    id: ck15q3frt0wpo0i19ypt81py8
     verified: false
-    hashtags: "#happysaturdayeveryone"
-  - username: "medinaali_"
-    fullname: >-
-      medina ali 🧿🇦🇱
-    bio: >-
-      spread love | CA • 🎞 Aqua Talent 🎥 Caviar Entertainment 📍LA 📩DM/EMAIL business enquiries —————————————————————
-    location: "United States"
-    followers: 5403
-    engagement: 1389
-    commentsToLikes: 0.068593
-    id: ck14jlsfpkzk50i19duj5wis3
-    verified: false
-    hashtags: "#cute, #surfergirl, #igdaily, #balkangirl"
+    hashtags: "#ad, #vicidolls, #vicicollab, #revolvesummer"
 ---

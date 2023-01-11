@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Greece In 2022
+title: Top 10 Food TikTok Influencers In Greece In 2023
 description: >-
-  Find top food TikTok influencers in Greece in 2022. Most popular hashtags: #fyp #tiktok #food #greece.
+  Find top food TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #food #fyp #foryoupage.
 platform: TikTok
-hits: 18
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 18 TikTok influencers like this in Greece for you to work with.
+hits: 19
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 19 TikTok influencers like this in Greece for you to collaborate.
 profiles:
   - username: "grigoris.apostolou"
     fullname: >-
@@ -13,48 +13,84 @@ profiles:
     bio: >-
       Private Chef 👨‍🍳 Menu Developer 📜 Food Blogger 🍽 Sushi 🍣 Italian 🍝
     location: "Greece"
-    followers: 2590
-    engagement: 626
-    commentsToLikes: 0.042303
+    followers: 2452
+    engagement: 579
+    commentsToLikes: 0.036679
     id: ckb9kyvp6d73h0j23r46aw7mx
     verified: false
-    hashtags: "#houseoftiktok, #menoumekouzina, #foodporn, #menoumespiti"
+    hashtags: "#houseoftiktok, #chef, #pancakes, #grigorisapostolou"
   - username: "akis_petretzikis"
     fullname: >-
       Akis Petretzikis
     bio: >-
       Greek chef addicted to food and fun 😎
     location: "Greece"
-    followers: 155800
-    engagement: 780
-    commentsToLikes: 0.013943
+    followers: 166700
+    engagement: 762
+    commentsToLikes: 0.012643
     id: ckafud5vn9wye0i787geov7ga
     verified: true
-    hashtags: "#christmas, #video, #funny, #chef"
+    hashtags: "#chef, #funny, #akispetretzikis, #foryoupage"
   - username: "faymantzik"
     fullname: >-
       Fay Mantzika
     bio: >-
       I mainly obsess over car rides, dogs, skies, the moon and food.
     location: "Greece"
-    followers: 2335
-    engagement: 694
-    commentsToLikes: 0.016956
+    followers: 4184
+    engagement: 667
+    commentsToLikes: 0.019489
     id: ck9euj2kodu6a0j78l9bg0vdj
     verified: false
-    hashtags: "#athens, #viral, #foryou, #fyp"
+    hashtags: "#husky, #love, #dogsoftiktok, #viral"
   - username: "limechili"
     fullname: >-
       Prammatias_Ck
     bio: >-
-      🌶 GreekChef 🌶 ASMR videos CEO OF This is the result! ⬇️ SUB to my YT
+      🌶 GreekChef 🌶 CEO OF This is the result! ⬇️ SUB to my YT
     location: "Greece"
-    followers: 185000
-    engagement: 996
-    commentsToLikes: 0.017184
+    followers: 180100
+    engagement: 989
+    commentsToLikes: 0.017030
     id: ckauptv6zuxg50j23k71ny0k6
     verified: false
-    hashtags: "#saladtime, #cookme, #uk, #24"
+    hashtags: "#gr, #saladtime, #cookme, #greece"
+  - username: "iliaskarafoulidis"
+    fullname: >-
+      Ηλιας Καραφουλιδης
+    bio: >-
+      🇬🇷ɢʀᴇᴇᴄᴇ-ᴀᴛʜᴇɴs 🏋🏻‍♂️CrossFit®️ 🍏nutrition tips 💪Personal Trainer
+    location: "Greece"
+    followers: 5758
+    engagement: 568
+    commentsToLikes: 0.027779
+    id: cka0pi98m8evg0i787fe8gvpj
+    verified: false
+    hashtags: "#foodporn, #crossfitter, #greece, #crossfit"
+  - username: "annaantwniadou"
+    fullname: >-
+      Anna Antwniadou
+    bio: >-
+      Greek girl 👱🏻‍♀️ Instagram @annaantwniadou 📸 YouTube Via Dell' Anna 🎥
+    location: "Greece"
+    followers: 11000
+    engagement: 502
+    commentsToLikes: 0.019077
+    id: ckcptn27wofvj0j23dpib9w97
+    verified: false
+    hashtags: "#foryoupage, #decor, #viral, #annatony"
+  - username: "diy_labs"
+    fullname: >-
+      DIY Labs
+    bio: >-
+      An immersive lab full of fun, imaginative and delicious creations!
+    location: "Greece"
+    followers: 12200
+    engagement: 794
+    commentsToLikes: 0.004787
+    id: ckb9c96hdyyq60j23h5pi95zt
+    verified: false
+    hashtags: "#tiktok, #crafts, #viral, #fy"
   - username: "chloexlifestyle"
     fullname: >-
       𝔠 𝔥 𝔩 𝔬 𝔢 🐉
@@ -66,65 +102,29 @@ profiles:
     commentsToLikes: 0.179115
     id: ckbabf7fe40gn0j231a599f8n
     verified: false
-    hashtags: "#houseoftiktok, #viral, #closeup, #glossier"
-  - username: "eleonora_gk"
-    fullname: >-
-      🏝 Eleonora 🏝
-    bio: >-
-      🇬🇷 Greek 🐶 Mother of Romeo Instagram • @eleonora_gk Youtube • Eleonora 💜_💜
-    location: "Greece"
-    followers: 51100
-    engagement: 1769
-    commentsToLikes: 0.016484
-    id: ckcp8xffbe4u00j23hp4ea068
-    verified: false
-    hashtags: "#comedy, #happy, #greektv, #dogsoftiktok"
+    hashtags: "#bookclub, #foryoupage, #glossier, #upclose"
   - username: "anwarnzamba"
     fullname: >-
       Anwar N. Zamba
     bio: >-
       Natural born Dreamer Lucid Lifestyle 👨🏾‍🎨•|•🧙🏾‍♂️
     location: "Greece"
-    followers: 11200
-    engagement: 456
-    commentsToLikes: 0.133562
+    followers: 11100
+    engagement: 673
+    commentsToLikes: 0.158510
     id: cka0wpy3i3xya0i7887jvvetx
     verified: false
-    hashtags: "#questiontok, #zambamedia, #zamba, #raptok"
-  - username: "loukiasioupi"
+    hashtags: "#zurechtzamba, #funny, #fun, #guitar"
+  - username: "themillerme"
     fullname: >-
-      Loukia Sioupi
+      themillerme
     bio: >-
-      Fashion design-styling
+      •I like you because you join in on my weirdness• 📍 Athens
     location: "Greece"
-    followers: 11300
-    engagement: 596
-    commentsToLikes: 0.030806
-    id: cka84j8bdu2vk0i78vm9fmjkd
+    followers: 7707
+    engagement: 632
+    commentsToLikes: 0.073623
+    id: ckcdwgxm5foxq0j23xhbm6w1a
     verified: false
-    hashtags: "#iliaspsinakis, #funny, #psinakis, #fanislabropoulos"
-  - username: "lennertwolfs"
-    fullname: >-
-      DJ Lennert Wolfs 
-    bio: >-
-      DJ / VLOGGER from🇧🇪 🔥🎧 played at Tomorrowland NIEUWE VLOG ONLINE:
-    location: "Greece"
-    followers: 11200
-    engagement: 1045
-    commentsToLikes: 0.035804
-    id: ck8ae2u5k9bn10j78tewnsm1r
-    verified: false
-    hashtags: "#belgie, #djmix, #dj, #remix"
-  - username: "fipsterr"
-    fullname: >-
-      Fipsterr
-    bio: >-
-      I don’t know what I’m doing here! 🤷🏼‍♂️ From Greece🇬🇷
-    location: "Greece"
-    followers: 15300
-    engagement: 753
-    commentsToLikes: 0.015324
-    id: ckb9iwggy9m8i0j2389675xhj
-    verified: false
-    hashtags: "#greektiktok, #fyp, #foru, #forupage"
+    hashtags: "#fyp, #funnyvideos, #tiktokgreece, #foryoupage"
 ---

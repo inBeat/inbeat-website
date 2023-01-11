@@ -1,72 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Finland In 2022
+title: Top 10 Yoga Instagram Influencers In Finland In 2023
 description: >-
-  Find top yoga Instagram influencers in Finland in 2022. Most popular hashtags: #yoga #finland #nature #helsinki.
+  Find top yoga Instagram influencers in Finland in 2023. Most popular hashtags: #yoga #nature #photography #fitness.
 platform: Instagram
-hits: 19
+hits: 17
 text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 19 Instagram influencers like this in Finland for you to contact.
+text_bottom: Our search engine holds 17 Instagram influencers like this in Finland for you to contact.
 profiles:
+  - username: "ttaruannikas"
+    fullname: >-
+      TARU ANNIKA
+    bio: >-
+      Healing, learning and growing🦋⁣⁣ ”You will get there, but now you’re here. ⁣ - And here is good.”⁣ ⁣ ⁣✨Books,nature&yogalover⁣ Singlemom to one cutie✨
+    location: "Finland"
+    followers: 1611
+    engagement: 1707
+    commentsToLikes: 0.198346
+    id: ck6u6m0wngdro0j71gfciv63x
+    verified: false
+    hashtags: "#mibovi, #instablogit, #summer, #thisisme"
   - username: "kriselda"
     fullname: >-
       𝐊 𝐑 𝐈 𝐒 𝐄 𝐋 𝐃 𝐀
     bio: >-
       🚺 Co-Founder @yesgirlofficial 🕉 Yoga Teacher 💟 Positive Psychology student ☮️ Podcast ⤵️
     location: "Finland"
-    followers: 12427
-    engagement: 813
-    commentsToLikes: 0.064733
+    followers: 13052
+    engagement: 741
+    commentsToLikes: 0.040872
     id: ck13cwclf2hhg0i19uxbm92y1
     verified: false
-    hashtags: "#syksy, #best, #lappi, #alicia"
-  - username: "glow.by.zaarakhan"
+    hashtags: "#esteepartner, #jooga, #lovemylumene, #advancednightrepair"
+  - username: "eevsku"
     fullname: >-
-      زحرا
+      Eveliina Tistelgren
     bio: >-
-      🧘🏻‍♀️ yoga • spirituality • fitness 🌿 plant based • lover of positivity 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
+      Life is full of magic, love & adventures 🌙 Coach • Yoga Teacher 📍 Levi, Lapland ❄ Muutin Helsingistä Lappiin 🥇 Fitness World Champion '19
     location: "Finland"
-    followers: 7231
-    engagement: 589
-    commentsToLikes: 0.071042
-    id: ckaotmx93wko70i78wx7bsczb
+    followers: 67424
+    engagement: 497
+    commentsToLikes: 0.008443
+    id: ck13bo50twcn90i19rdsp8lf9
     verified: false
-    hashtags: "#yoga, #grateful, #helsinki, #glowup"
+    hashtags: "#polarstartravel, #levilapland, #sparksyoursoul, #aurinkomatkat"
   - username: "essirundgren"
     fullname: >-
       Essi Rundgren
     bio: >-
-      📱 Social media strategist @demi.fi 🧘‍♀️ Knitting is my yoga ✨ Everything DIY: #knitting #crocheting #braids 📍Helsinki, Finland
+      📱 Social media & content manager @novitaknits 🧘‍♀️ Knitting is my yoga 👉 @neulessi 📍Helsinki, Finland
     location: "Finland"
-    followers: 3499
-    engagement: 1547
-    commentsToLikes: 0.077554
+    followers: 3241
+    engagement: 601
+    commentsToLikes: 0.071810
     id: ck5ho32mgoudz0i11grsa9g48
     verified: false
-    hashtags: "#diy, #instaneulojat, #knitspo, #neulottu"
-  - username: "jorikotis"
-    fullname: >-
-      J O R I   K O T A - A H O 🇫🇮
-    bio: >-
-      ◾ Coach ◾ Known from TV ◾ @ritakotis & Jare ◾ All kinds of movement ◾ Vegan for the animals
-    location: "Finland"
-    followers: 10663
-    engagement: 1067
-    commentsToLikes: 0.029342
-    id: ck6trctegy98e0j71oijjv64x
-    verified: false
-    hashtags: "#photooftheday, #yoga, #personaltrainer, #family"
-  - username: "piruetti"
-    fullname: >-
-      Piruetti Oy
-    bio: >-
-      Kotimaisia ja laadukkaita treenivaatteita aktiiviseen elämäntyyliin! 🇫🇮 #madeintampere 📍Tampere, Helsinki, Turku 📸 Jaa kuvasi #piruetti #lapirouette
-    location: "Finland"
-    followers: 12624
-    engagement: 1010
-    commentsToLikes: 0.037671
-    id: ck5qa5veuep9a0i11wvkmhs0a
-    verified: false
-    hashtags: "#piruetti, #piruettiturku, #piruettihelsinki, #lapirouette"
+    hashtags: "#crochet, #crocheting, #instaneulojat, #instaknit"
   - username: "greenwindowfinlandnuuksio"
     fullname: >-
       A man from the forest
@@ -78,53 +66,65 @@ profiles:
     commentsToLikes: 0.041585
     id: ck5hfi96exlvh0i117cx4u6ve
     verified: false
-    hashtags: "#wald, #sky, #ig, #exceptional"
+    hashtags: "#trees, #earthfocus, #sky, #suomenluonto"
+  - username: "pernillabockerman"
+    fullname: >-
+      PERNILLA FANNY MATILDA
+    bio: >-
+      🧡 Elämäntapana treenaaminen, 22 & Finlandssvensk Team @gymnation @noccofinland @myproteinfi 📩 salla@fament.fi Uusi kotitreeni joka ma 👉🏼 @podimo_fi
+    location: "Finland"
+    followers: 205778
+    engagement: 355
+    commentsToLikes: 0.054876
+    id: ck5hl6tvujoa70i11k15pxcnu
+    verified: false
+    hashtags: "#yoga, #matsmartsuomi, #olematsmart, #ruokah"
   - username: "enna_enkeli"
     fullname: >-
       Elina Finning
     bio: >-
       ❤️ Mother of 4 kids ❤️ #Jkl 🇫🇮 -81 My Kids ❤️ family ❤️ friends ❤️ #Groupfitnessinstructor 😊 #Traveling 👍🇬🇷 💎 🏋️‍♀️ Katso Facebook Ennan ulkojumpat
     location: "Finland"
-    followers: 6316
-    engagement: 2508
-    commentsToLikes: 0.094416
+    followers: 7361
+    engagement: 1795
+    commentsToLikes: 0.101501
     id: ckaotta56xf6u0i78twz9s6kw
     verified: false
-    hashtags: "#motheroffour, #instructorlife, #groupfitnessinstructor, #athome"
-  - username: "the_sari_"
+    hashtags: "#groupexerciseinstructor, #finnishwoman, #brunette, #hyv"
+  - username: "glow.by.zaarakhan"
     fullname: >-
-      Sari Lehtonen
+      زحرا
     bio: >-
-      ✨Model photos ✨Stories about my life ✨Happily married❤️
+      🏋🏻‍♂️ Health & Fitness things • Flexible Dieting 💥 Sustainable weight loss - Backed by Science 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
     location: "Finland"
-    followers: 19746
-    engagement: 994
-    commentsToLikes: 0.078034
-    id: ck8t0cn5jrm2w0j78cgxdx18b
+    followers: 8225
+    engagement: 465
+    commentsToLikes: 0.068381
+    id: ckaotmx93wko70i78wx7bsczb
     verified: false
-    hashtags: "#photooftheday, #leatherjacket, #photography, #photoshoot"
-  - username: "rantaaho.alisa"
+    hashtags: "#suomi, #innerpeace, #finnishnature, #transformation"
+  - username: "maijuriskala"
     fullname: >-
-      𝐀𝐥𝐢𝐬𝐚 𝐑𝐚𝐧𝐭𝐚-𝐚𝐡𝐨 | 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
+      MAIJU RISKALA
     bio: >-
-      𝐅𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐁𝐞𝐚𝐮𝐭𝐲 | 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 👩🏻‍🎓: BBA 💌 contact.alisarantaaho@gmail.com ⁣ 🎨: @alisarantaahoart 📸: @missalisaphotography
+      🧚🏼 @mybnb_suomi 🤍 TEAM @gymnation 🎙 @omantienkulkijapodcast GET FIT, STAY HEALTHY myynnissä nyt ! 🔥
     location: "Finland"
-    followers: 7771
-    engagement: 837
-    commentsToLikes: 0.225913
-    id: ck5hfm9yiy5fp0i11mem5n1pl
+    followers: 11579
+    engagement: 952
+    commentsToLikes: 0.025026
+    id: ck55k2jm4yazs0i11jci1ify8
     verified: false
-    hashtags: "#bloggerstyle, #influencer, #fallfashion2020, #outfitgram"
-  - username: "venla.saartamo"
+    hashtags: "#kiskis, #hyvinvointi, #fitness, #jengiviihtyy"
+  - username: "monika_agarwall_04"
     fullname: >-
-      Venla
+      Moni💖💖
     bio: >-
-      Singer 🎤 / Songwriter 🎶 / Actress 🎥 / Breather 💚
+      @christian___bella_ ➡️5➖ßøYf®!€ñd ➡️DõN't Wo®®y !t'$ My ß!®tHdAt€😉 ➡️$€ãLf!€ Add!©tD📱 ➡️DõN't Pl@Y W!tH M€ B'©ôZ I KñôW I ©ãN Pl@Y ßâTt€® Th@ñ U😎
     location: "Finland"
-    followers: 7347
-    engagement: 691
-    commentsToLikes: 0.011117
-    id: ck8t0d489rnsm0j78aazhr0c7
+    followers: 104182
+    engagement: 113
+    commentsToLikes: 0.084674
+    id: ck9wh9d19wvay0j78vl96zkqp
     verified: false
-    hashtags: "#helsinki, #slowfashion, #modernhippie, #invent"
+    hashtags: "#model, #literasi, #post, #gururandhawa"
 ---

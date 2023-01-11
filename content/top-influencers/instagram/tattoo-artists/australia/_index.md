@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Australia In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Australia In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Australia in 2022. Most popular hashtags: #tattoo #blackandgreytattoo #tattoos.
+  Find top tattoo-artists Instagram influencers in Australia in 2023. Most popular hashtags: #tattoo #japanesetattoos #atg.
 platform: Instagram
-hits: 72
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 72 Instagram influencers like this in Australia for you to pitch.
+hits: 50
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 50 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "fuhrichtattoo"
-    fullname: >-
-      Henrique Fuhrich
-    bio: >-
-      Tattoo Artist from Brazil 🇧🇷 📍Gold Coast 🇦🇺 Bookings👇 • Instagram (Direct Message) 📩 henrique.fuhrich@gmail.com
-    location: "Australia"
-    followers: 5632
-    engagement: 711
-    commentsToLikes: 0.046338
-    id: ck8t986szn6wn0j78hphyi6mx
-    verified: false
-    hashtags: "#microrealism, #blackandwhite, #dogtattoo, #fineline"
   - username: "tattoosbycolin"
     fullname: >-
       Colin Woolford
     bio: >-
-      Owner Art n Soul Tattoo Studio. Sponsored by @swashdrive_tattoo_official tattoo machines. Award winning tattoo artist of celebrities . 👻colinglife
+      Owner Art n Soul Tattoo Studio. Sponsored by @swashdrive_tattoo_official Tattoo artist of celebrities.......*** BOOKS CLOSED for 2021***
     location: "Australia"
-    followers: 25976
-    engagement: 47
-    commentsToLikes: 0.056310
+    followers: 25885
+    engagement: 42
+    commentsToLikes: 0.091237
     id: ck135nrj22brh0i194yx7muwl
     verified: false
-    hashtags: ""
-  - username: "tessemilytattoos"
-    fullname: >-
-      Tess Emily
-    bio: >-
-      ❁ Perth, WA ✎ Tattoo Artist ⓥ Vegan friendly ✘ No DMs please ➤ @ascendencetattoo ➤ 15 Canning rd Kalamunda 6076
-    location: "Australia"
-    followers: 14085
-    engagement: 771
-    commentsToLikes: 0.012961
-    id: ck8t12d59u7ne0j780iea9jiv
-    verified: false
-    hashtags: ""
-  - username: "chantellethongtattoos"
-    fullname: >-
-      Chantelle Thong
-    bio: >-
-      ✉️ Email enquiries info@chantellethongtattoos.com Renae ♥︎ ✧ Tattoo Artist ✧ @fusion_ink @inkjecta Melbourne ,Aus
-    location: "Australia"
-    followers: 59056
-    engagement: 170
-    commentsToLikes: 0.017658
-    id: ck8syo7phlff20j789bva3j1o
-    verified: false
-    hashtags: "#facetattoo, #realisticsleeve, #realisticdrawing, #realistictattoos"
+    hashtags: "#tattoo, #ink, #inked, #inkedup"
   - username: "jacksonmay_tattooist"
     fullname: >-
       ℑ A C Ꮶ S Ꮎ N Ṁ A Ꮍ
     bio: >-
       ᵀᴬᵀᵀᴼᴼ ᴬᴿᵀᴵˢᵀ ⠀⠀⠀ owner of YOUNGBLOODS Tattoo Studio . PERTH . WA INKJECTA pro team - FUSION INK pro team - DR PICKLES - ZOO TATTOO ❤️CJ 🔒 Carter👶🏼
     location: "Australia"
-    followers: 36931
-    engagement: 170
-    commentsToLikes: 0.032526
+    followers: 36768
+    engagement: 118
+    commentsToLikes: 0.023749
     id: ck14lh1ggumr30i19lzof971e
     verified: false
-    hashtags: "#nba, #kobe, #kobebryant, #lakers"
+    hashtags: "#sportscenter, #lakers, #nba, #kobebryant"
+  - username: "deathbypiss_tattoo"
+    fullname: >-
+      ⛓ DEATH BY PISS ⛓
+    bio: >-
+      Tattoo Artist @blackivytattoo Scorpio • 27 • Gross SC - deathbypiss ⚔️⛓ EMAIL FOR BOOKINGS ⛓⚔️
+    location: "Australia"
+    followers: 21413
+    engagement: 478
+    commentsToLikes: 0.013181
+    id: ck6tqx34zv4w30j71xadhwqov
+    verified: false
+    hashtags: "#pug, #frenchbulldog"
+  - username: "tessemilytattoos"
+    fullname: >-
+      Tess Emily
+    bio: >-
+      ❁ Perth, WA ✎ Tattoo Artist ⓥ Vegan friendly ✘ No DMs please ➤ @ascendencetattoo ➤ 15 Canning rd Kalamunda 6076
+    location: "Australia"
+    followers: 14874
+    engagement: 523
+    commentsToLikes: 0.018892
+    id: ck8t12d59u7ne0j780iea9jiv
+    verified: false
+    hashtags: "#iveusedthatlinebefore, #mightdoitagain, #notevenlit, #notevensorry"
+  - username: "jimimay"
+    fullname: >-
+      JIMI MΛY
+    bio: >-
+      Artist - Oil paintings and Tattoos Tattoo artist @_littletokyo_ No DM bookings.
+    location: "Australia"
+    followers: 149963
+    engagement: 153
+    commentsToLikes: 0.025366
+    id: ck8swfkmady420j78qprrx60k
+    verified: false
+    hashtags: "#oiloncanvas, #oilpainting, #tattoo, #painting"
+  - username: "fuhrichtattoo"
+    fullname: >-
+      Henrique Fuhrich
+    bio: >-
+      Tattoo Artist from Brazil 🇧🇷 📍@gbh_tattoo - Gold Coast 🇦🇺 Bookings👇 • Instagram (Direct Message) 📩 henrique.fuhrich@gmail.com
+    location: "Australia"
+    followers: 5535
+    engagement: 644
+    commentsToLikes: 0.044480
+    id: ck8t986szn6wn0j78hphyi6mx
+    verified: false
+    hashtags: "#australiantattoo, #delicatetattoo, #dotwork, #microrealism"
   - username: "cocoloberg"
     fullname: >-
       COCO LOBERG
     bio: >-
       ❤️ 23. TATTOO ARTIST. PHOTOGRAPHER. WRITER. ❤️ @cocobonnieloberg For AUS bookings, Email k@absolutetattoo.com.au My book ‘Mercy’ is available now!
     location: "Australia"
-    followers: 53329
-    engagement: 146
-    commentsToLikes: 0.010956
+    followers: 54062
+    engagement: 110
+    commentsToLikes: 0.010299
     id: ck5bxevdqnlay0i11ojllop1h
     verified: false
-    hashtags: "#soccermums, #finelinetattoo"
-  - username: "suziemcintosh"
+    hashtags: ""
+  - username: "yveath"
     fullname: >-
-      Suzie Mcintosh Brows ®
+      𝐘𝐕𝐄 | Moved to @yvetattoos
     bio: >-
-      For a brow #glowup visit my team in 📍Toorak Rd, Toorak, Melbourne 📍William St, Paddington, Sydney International Cosmetic Tattoo Artist & Trainer
+      ✦ VIC, AUS | No Style 🌱 ✧ Illustration / Tattoo Artist ✦ Tattoos @yvetattoos ✧ 📨 yvethyssen@gmail.com “An organised mess with too many interests”
     location: "Australia"
-    followers: 48919
-    engagement: 82
-    commentsToLikes: 0.061847
-    id: ck14hxh8acmnr0i19dysbyjo8
+    followers: 10483
+    engagement: 278
+    commentsToLikes: 0.018933
+    id: ck15t85f3gspa0i19ndcuoko6
     verified: false
-    hashtags: "#bosslady, #browlamination, #combobrows, #browsbysuzie"
-  - username: "toddbaileytattoo"
+    hashtags: ""
+  - username: "ryanussher"
     fullname: >-
-      𝕿𝖔𝖉𝖉 𝕭𝖆𝖎𝖑𝖊𝖞 𝕿𝖆𝖙𝖙𝖔𝖔
+      Ｒ Ｙ Ａ Ｎ    Ｕ Ｓ Ｓ Ｈ Ｅ Ｒ
     bio: >-
-      👨🏻‍🎨ARTIST & FOUNDER ⛩@thirteenfeettattoo 🇦🇺SYDNEY,AUSTRALIA
+      Artist/Owner @lighthouse_tattoo SYD-AUS FOR ALL ENQUIRIES PLEASE EMAIL contact@usshertattoos.com @beers_and_bullshit Lic: 102910 TEEK WINT STEVIE ❤️
     location: "Australia"
-    followers: 113899
-    engagement: 5
-    commentsToLikes: 0.000000
-    id: ck14iv73thau90i19tdezj53f
+    followers: 132455
+    engagement: 166
+    commentsToLikes: 0.009054
+    id: ck5zvl7444g100i141epyia1t
     verified: false
-    hashtags: "#tattooart, #tattooflash, #skulltattoo, #neotraditionaltattoo"
-  - username: "crisrojasart"
+    hashtags: ""
+  - username: "alexrusty"
     fullname: >-
-      Cris Rojas
+      ALEX RUSTY
     bio: >-
-      ❎BOOKS CLOSED ⚜️🇨🇱Travelling artist living in 🇭🇲WA TATTOO X AIRBRUSH ✉️ sicksideoriginals@gmail.com ⚔Sponsors @tattoofixcare @z00tatt00
+      Artist/owner @Lighthouse_Tattoo in Sydney🇦🇺 •taking bookings for 2021 Enquires: mail@alexrusty.com @australiantattooistsguild @the.p.t.a.a Lic010948
     location: "Australia"
-    followers: 18509
-    engagement: 162
-    commentsToLikes: 0.082621
-    id: ck600x87uefw80i14p0b6x8xz
+    followers: 129564
+    engagement: 198
+    commentsToLikes: 0.003905
+    id: ckap8l92uotuk0i78l82kgazb
     verified: false
-    hashtags: "#tattooideas, #covid19, #art, #blackandgreyrealism"
-  - username: "lucaslua.tattoos"
-    fullname: >-
-      Lucas Lua  🌙
-    bio: >-
-      ✨Books currently closed✨ Tattoo inquiries through FB only. 📍Melbourne, Australia 🖤Movember donations 👇🏼
-    location: "Australia"
-    followers: 35253
-    engagement: 610
-    commentsToLikes: 0.010610
-    id: ck5c8ee7i9awq0i11zk5uv1jn
-    verified: false
-    hashtags: "#tattoo, #tattooideas, #blackwork, #tattooed"
+    hashtags: "#solidink, #alexrusty, #atg, #backpiece"
 ---

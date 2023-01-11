@@ -1,11 +1,11 @@
 ---
-title: Top 10 Journalists TikTok Influencers In 2022
+title: Top 10 Journalists TikTok Influencers In 2023
 description: >-
-  Find top journalists TikTok influencers in 2022. Most popular hashtags: #biden #nepali #duet.
+  Find top journalists TikTok influencers in 2023. Most popular hashtags: #tiktok #fyp #trumpimpeachment.
 platform: TikTok
-hits: 117
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 117 TikTok influencers like this for you to collaborate.
+hits: 107
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 107 TikTok influencers like this for you to contact.
 profiles:
   - username: "pallavijaiswal28"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Journalist 
     location: "India"
-    followers: 302100
-    engagement: 560
-    commentsToLikes: 0.015251
+    followers: 301500
+    engagement: 551
+    commentsToLikes: 0.015028
     id: ck9c7wn61sdhl0j78otjq8d0v
     verified: false
-    hashtags: "#funnyvideos, #nanilove, #china, #tomandjerry"
+    hashtags: "#tiktokindia, #funnyvideos, #boycutchina, #china"
+  - username: "gaga_gaga_"
+    fullname: >-
+      okokamere💥
+    bio: >-
+      #journalist
+    location: "Serbia"
+    followers: 3832
+    engagement: 287
+    commentsToLikes: 0.017347
+    id: cka6eep8kbhjx0i78a2aqj78h
+    verified: false
+    hashtags: "#christmastime, #srbija, #documentary, #trailer"
   - username: "ahmadelhajj007"
     fullname: >-
       Ahmad El Hajj
     bio: >-
       Journalist
     location: "Lebanon"
-    followers: 25800
-    engagement: 573
-    commentsToLikes: 0.040537
+    followers: 26000
+    engagement: 451
+    commentsToLikes: 0.047857
     id: ckdncnl5lgo7h0j23boaemqkk
     verified: false
-    hashtags: "#earth, #sky, #funny, #ksa"
-  - username: "nikothec"
-    fullname: >-
-      🅝🅘🅚🅞
-    bio: >-
-      ⭐️ CEO of Tiktok NEWS ⭐️ Journalist & Lehrer aus Berlin . 📧 niko@btstrm.com
-    location: "Germany"
-    followers: 784600
-    engagement: 2005
-    commentsToLikes: 0.034660
-    id: ck9bx5lcimcxk0j780c982j40
-    verified: true
-    hashtags: "#tiktokschule, #schule, #news, #tiktoknews"
+    hashtags: "#astronautas, #goodnight, #electrcity, #slowmotion"
   - username: "alejandrademg"
     fullname: >-
-      ale_worldfantasy 
+      alejandrademg
     bio: >-
       creative person 23 lv Spain Cosplay and journalist 9.000 please ?
     location: "Spain"
-    followers: 8512
-    engagement: 1984
-    commentsToLikes: 0.059537
+    followers: 9048
+    engagement: 1861
+    commentsToLikes: 0.059776
     id: cka6maaqw6gal0i78d104i08x
     verified: false
-    hashtags: "#raquellapin, #colegioispanya, #ispanyacm, #musicaespa"
+    hashtags: "#lentejas, #disney, #makeupcorazonroto, #makeuprapido"
   - username: "jonathangio"
     fullname: >-
       Jonathan Gio 
     bio: >-
       social media personality and journalist in los angeles all socials: jonathangioo
     location: "United States"
-    followers: 233400
-    engagement: 1600
-    commentsToLikes: 0.083786
+    followers: 229300
+    engagement: 1575
+    commentsToLikes: 0.079888
     id: ck933w0crpy8y0j789zq9dvey
     verified: false
-    hashtags: "#foryoupage, #foryou, #tiktok, #girls"
+    hashtags: "#foryoupage, #foryou, #tiktok, #love"
+  - username: "lighttravelsfaster"
+    fullname: >-
+      Eileen Rhein, Esq.📍NYC
+    bio: >-
+      ✨Lawyer, Journalist, Photographer NYU Law, 🇨🇦in NYC 308k on IG ✈️71+Countries
+    location: "United States"
+    followers: 72900
+    engagement: 1073
+    commentsToLikes: 0.018703
+    id: ckb9a021nuj170j231nhz7b0k
+    verified: false
+    hashtags: "#hottub, #albertacanada, #norway, #rockymountains"
   - username: "lisaremillard"
     fullname: >-
       📺The News Girl 📰
     bio: >-
       🎙 TV Journalist for 20 years 📺 Host #CarlosandLisa 👩🏼‍💻 Co-Founder @BeondTV
     location: "United States"
-    followers: 613600
-    engagement: 1600
-    commentsToLikes: 0.030985
+    followers: 913100
+    engagement: 1182
+    commentsToLikes: 0.033861
     id: ckb9kzuucdbhk0j239h8uapqy
     verified: true
-    hashtags: "#amyconeybarrett, #stimulus, #election2020, #scotus"
-  - username: "bhagyaneupane1"
+    hashtags: "#trumpimpeachment, #impeachment, #stimulusupdate, #impeachmenttrial"
+  - username: "supes"
     fullname: >-
-      Bhagya Neupane
+      SUPES
     bio: >-
-      Journalist, Youtubers, Social Wokers
-    location: "Nepal"
-    followers: 386500
-    engagement: 1837
-    commentsToLikes: 0.018191
-    id: ckbbpygxzds0u0j23mduo1oap
-    verified: false
-    hashtags: "#bhagyaneupanehelp, #help, #tattatokhabar, #bhagyaneupane"
+      Journalist ll Entrepreneur ll Speaker Matt Ramos 📩: supesbusiness@gmail.com
+    location: "United States"
+    followers: 1900000
+    engagement: 2071
+    commentsToLikes: 0.016962
+    id: ck87tvilf3nam0j786ebs56w9
+    verified: true
+    hashtags: "#show, #venom, #spiderman3, #marvel"
   - username: "lokjung"
     fullname: >-
       lokjung official👑👑
     bio: >-
       जमाना लातको छ, म फुल हातमा लिएर के गरुँ 💔 journalist,social worker
     location: "Nepal"
-    followers: 4502
-    engagement: 3144
-    commentsToLikes: 0.050008
+    followers: 4440
+    engagement: 3105
+    commentsToLikes: 0.051908
     id: ckafukmfxavr20i78cbdgwrfa
     verified: false
-    hashtags: "#keepsuporting, #withrapkeepsupportinggyes, #surkhet, #heartbroken"
-  - username: "eelsii"
+    hashtags: "#surkhetmuser, #tiktoknepal, #keepsupporting, #surkhet"
+  - username: "miguelgomezlive"
     fullname: >-
-      EeLsi👑🖤
+      Miguel Gómez
     bio: >-
-      FB-ელი სო❤️ Journalist 🎤💥 Goal:♾
-    location: "Georgia"
-    followers: 215100
-    engagement: 968
-    commentsToLikes: 0.047028
-    id: ckck2vn34mhvn0j23nc3uc039
+      Award-winning journalist Instagram @miguelgomezlive
+    location: "United States"
+    followers: 108100
+    engagement: 1962
+    commentsToLikes: 0.011876
+    id: ckc7uqt5vyjhj0j23vde92bb7
     verified: false
-    hashtags: "#blooper, #duet"
-  - username: "sonikaaryal1"
-    fullname: >-
-      Sonika Aryal
-    bio: >-
-      Journalist by profession TikTok is for fun :)
-    location: "Nepal"
-    followers: 10300
-    engagement: 1439
-    commentsToLikes: 0.041341
-    id: ckcei8cm4qd3n0j23j1ltre0c
-    verified: false
-    hashtags: "#nature, #duet, #hike, #himalayatv"
+    hashtags: "#fyp, #mexicantiktok, #mexican, #news"
 ---

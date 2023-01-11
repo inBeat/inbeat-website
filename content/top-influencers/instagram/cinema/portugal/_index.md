@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Portugal In 2022
+title: Top 10 Cinema Instagram Influencers In Portugal In 2023
 description: >-
-  Find top cinema Instagram influencers in Portugal in 2022. Most popular hashtags: #pub #photography #cinema #nature.
+  Find top cinema Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #instagood #summer #photooftheday.
 platform: Instagram
-hits: 29
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 29 Instagram influencers like this in Portugal for you to work with.
+hits: 14
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 14 Instagram influencers like this in Portugal for you to contact.
 profiles:
   - username: "iljakochan"
     fullname: >-
       ILJA KOCHAN
     bio: >-
-      𝗥𝗜𝗦𝗘 𝗔𝗡𝗗 𝗦𝗛𝗜𝗡𝗘. Dɪʀᴇᴄᴛᴏʀ @weareriseandshine Cʀᴇᴀᴛɪᴠᴇ ᴘʀᴏᴅᴜᴄᴛɪᴏɴ ᴄᴏᴍᴘᴀɴʏ ᴡɪᴛʜ ʟᴏᴠᴇ ғᴏʀ ʜɪɢʜ﹣ϙᴜᴀʟɪᴛʏ ᴠɪᴅᴇᴏ ᴄᴏɴᴛᴇɴᴛ Yᴏᴜᴛᴜʙᴇ ﹠ Wᴇʙsɪᴛᴇ ↴
+      𝗥𝗜𝗦𝗘 𝗔𝗡𝗗 𝗦𝗛𝗜𝗡𝗘. Fɪʟᴍᴍᴀᴋᴇʀ I Dɪʀᴇᴄᴛᴏʀ @weareriseandshine Cʀᴇᴀᴛɪᴠᴇ ᴘʀᴏᴅᴜᴄᴛɪᴏɴ ᴄᴏᴍᴘᴀɴʏ ᴡɪᴛʜ ʟᴏᴠᴇ ғᴏʀ ʜɪɢʜ﹣ϙᴜᴀʟɪᴛʏ ᴠɪᴅᴇᴏ ᴄᴏɴᴛᴇɴᴛ Wᴇʙsɪᴛᴇ ↴
     location: "Portugal"
-    followers: 33842
-    engagement: 128
-    commentsToLikes: 0.036773
+    followers: 33765
+    engagement: 96
+    commentsToLikes: 0.023924
     id: ck139fca4l0mb0i19qa33nakm
     verified: false
-    hashtags: "#film, #mensfashion, #ocean, #bestcasualoutfit"
-  - username: "anka_zhuravleva_arts"
+    hashtags: "#mood, #director, #moodoftheday, #photography"
+  - username: "itsanahilima"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Anka Zhuravleva
+      Anahí Lima
     bio: >-
-      Fine-art, portrait photography. Online course for surreal photography
+      @analucosmetics #sejanalu Email: itsanahilima@gmail.com Lisboa, PT | Angolana
     location: "Portugal"
-    followers: 174872
-    engagement: 224
-    commentsToLikes: 0.010367
-    id: ck0w4y3iv0z840i197nwmd0ff
+    followers: 27814
+    engagement: 1282
+    commentsToLikes: 0.026455
+    id: ck9wdx0obhnf90j78h8mughsz
     verified: false
-    hashtags: "#cinesomnia, #realismag, #apricotmagazine, #cinematicphotography"
-  - username: "albanojeronimooficial"
+    hashtags: "#cuidadoscomapele, #lookdodia, #bioextratus, #skincareroutine"
+  - username: "charliecfm"
     fullname: >-
-      ALBANO JERÓNIMO
+      CHΛRLIΞ • Carlos Frota Melo
     bio: >-
-      Actor | Director| TN21 🇵🇹🇺🇸🇫🇷🇬🇷🇩🇪🇪🇸🇧🇷 🇬🇧info@subtitletalent.com 🇵🇹 cecilia.mateus.actores@gmail.com
+      you think you know me ... but you have no idea X ninja media coordinator @havas X marketing | content | social media X made in PT LOADING ...
     location: "Portugal"
-    followers: 112504
-    engagement: 481
-    commentsToLikes: 0.024562
-    id: ck13ci19b0g4r0i19agog9xpz
+    followers: 7262
+    engagement: 1053
+    commentsToLikes: 0.370331
+    id: ckap4i5927hd50i782o8gpnof
+    verified: false
+    hashtags: "#emcasa, #iloveoeiras, #socialisolation, #giveaway"
+  - username: "ricardo.carrico_oficial"
+    fullname: >-
+      Ricardo Carriço
+    bio: >-
+      Fui Manequim, sou Actor, tenho uma paixão pela Pintura e adoro estar em cima do palco a cantar. PR, Digital&Brands susana@centralmodels.pt
+    location: "Portugal"
+    followers: 54477
+    engagement: 365
+    commentsToLikes: 0.034211
+    id: ck6tq15hdotkf0j71bdcr7a3o
     verified: true
-    hashtags: "#portugueseactor, #cinema, #paulobranco, #actor"
-  - username: "tiagoaldeia.oficial"
+    hashtags: "#atoresportugueses, #portugal, #atores, #vida"
+  - username: "sofianicholson"
     fullname: >-
-      Tiago Aldeia
+      sofia nicholson
     bio: >-
-      Actor & traveller
+      Actress🌻🌻🌻 Agent : Sofia Rosendo @sr.actor sr.actor@outlook.pt
     location: "Portugal"
-    followers: 136561
-    engagement: 465
-    commentsToLikes: 0.046384
-    id: ck0tybkaymaxy0i19q7jny64k
+    followers: 25308
+    engagement: 316
+    commentsToLikes: 0.042325
+    id: ck5q4f6gpouku0i11bokllrmo
+    verified: false
+    hashtags: "#semfiltro, #maebabada, #momentodivertido, #actor"
+  - username: "michal_officiel"
+    fullname: >-
+      Michal Kwiatkowski
+    bio: >-
+      #music #food #love #sport
+    location: "Portugal"
+    followers: 59510
+    engagement: 218
+    commentsToLikes: 0.021899
+    id: ck8t99lrjnbb50j78rrtu4t2i
     verified: true
-    hashtags: "#nazare, #actors, #sic, #velvetcreators"
-  - username: "martimpaulino"
+    hashtags: "#bixentesimonet, #vacances, #throwbackthursday, #menstyle"
+  - username: "antonio_camelier"
     fullname: >-
-      Martim Paulino
+      António Camelier
     bio: >-
-      Surfer sponsor by • VISSLA • Polen Surfboards • Globe • Futures Fins • 📥 martim.paulino@gmail.com
+      🎭Actor • 👨‍🎓Sports Sciences Degree at Faculty of Human Kinetics
     location: "Portugal"
-    followers: 11093
-    engagement: 1603
-    commentsToLikes: 0.057795
-    id: ckap7kq8vkhn00i78ipmtva2t
-    verified: false
-    hashtags: "#surfporn, #nature, #polensurfboards, #life"
-  - username: "jucsilva"
-    fullname: >-
-      Ju | Joana Silva
-    bio: >-
-      〰️ Founder @littleelf.pt 〰️ Mom of a 👶🏻 and a 🐶 〰️ 1987 | PT | 👷🏻‍♀️ 〰️ joanacssilva@gmail.com
-    location: "Portugal"
-    followers: 12479
-    engagement: 429
-    commentsToLikes: 0.352494
-    id: ck5zqsudkv8b70i14srzim2j9
-    verified: false
-    hashtags: "#adidasoriginals, #adidascontinental80, #torreshopping, #sweetnovember"
-  - username: "itwasfiti"
-    fullname: >-
-      Filipe Feio   / /   F i t i
-    bio: >-
-      Lisbon • Portugal people, things and people doing things 🎞️🧪 @tanquelisboa
-    location: "Portugal"
-    followers: 5617
-    engagement: 900
-    commentsToLikes: 0.034181
-    id: ck5c1gml1v5in0i112mjcesb3
-    verified: false
-    hashtags: "#staysafe, #filmisnotdead, #salgueiromaiaoimplicado, #senteisto"
-  - username: "happybrunette"
-    fullname: >-
-      CatarinaLoureiro HappyBrunette
-    bio: >-
-      80’s kid • life lover • dreamer • mommy to #petitenoa 👧🏼 #petitdinis 👦🏽 & @mel.thechihuahua 🐶 Algarve🇵🇹Portugal
-    location: "Portugal"
-    followers: 26629
-    engagement: 177
-    commentsToLikes: 0.059086
-    id: ck5hdsumgp7bx0i11fmq3uq0s
-    verified: false
-    hashtags: "#casanova, #noaedinis, #algarve, #home"
-  - username: "helenaisabeloficial"
-    fullname: >-
-      Helena Isabel
-    bio: >-
-      Atriz ✉️ Acting v.costacorreia@gmail.com 💡 PR, Digital & Brands pedro.isidro@adagietto.pt 📖 A Idade Não Me Define
-    location: "Portugal"
-    followers: 66954
-    engagement: 243
-    commentsToLikes: 0.040992
-    id: ck5hdllj1o3kz0i11rwlnz9a2
+    followers: 25356
+    engagement: 354
+    commentsToLikes: 0.015954
+    id: ck0w1554lhlv50i196uowy7ao
     verified: true
-    hashtags: "#pub, #guesthouse, #newcollection, #fall"
-  - username: "josefidalgo_oficial"
+    hashtags: "#48hourfilmproject, #shortfilm, #48hfplisboa, #actorslife"
+  - username: "fit_with_lia"
     fullname: >-
-      José Fidalgo
+      🇱​🇮​🇦
     bio: >-
-      Portuguese actor. Represented by @naughtyboysagency
+      💉𝗡𝘂𝗿𝘀𝗲 💙𝗕𝗼𝗱𝘆𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 👖𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @catslegs.fitnesswear 🔹𝗖𝘂𝗽𝗮𝗼: 𝗘𝗟𝗜𝗔𝗡𝗔𝟭𝟬 @zumub.pt #fitnessgirl #gym #fitness
     location: "Portugal"
-    followers: 304383
-    engagement: 142
-    commentsToLikes: 0.017906
-    id: ck5chcc1mqi650i1121ut8e4x
+    followers: 12020
+    engagement: 940
+    commentsToLikes: 0.045804
+    id: ckap3nmgb3rj60i78yk8si2rv
+    verified: false
+    hashtags: "#academia, #fitnessmodel, #happy, #gym"
+  - username: "filipal"
+    fullname: >-
+      Filipa Lobo
+    bio: >-
+      raging against the dying of the light ▲▼▲▼▲ ambassador @huaweimobilept mod @15aoburro mbr @raw_community_member @tv_doorsandwindows @jj_cheers_walls
+    location: "Portugal"
+    followers: 7774
+    engagement: 606
+    commentsToLikes: 0.053701
+    id: ck0vv99ewo40r0i19utsnxl7v
+    verified: false
+    hashtags: "#photocinematica, #odtakeovers, #sublimestreet, #raw"
+  - username: "catarinafurtadooficial"
+    fullname: >-
+      Catarina Furtado
+    bio: >-
+      @unfpa Goodwill Ambassador, President of the NGO @coracoescomcoroa, actress, TV host, author of 3 books and mother of 2. ❤️👑
+    location: "Portugal"
+    followers: 622400
+    engagement: 190
+    commentsToLikes: 0.025685
+    id: ck5c830bf8o6b0i11brmltd9o
     verified: true
-    hashtags: "#feelhomefarfromhome, #somethinggoodishappening, #ridefree, #costadacaparica"
+    hashtags: "#thevoicekids, #teatro, #pandemia, #na"
 ---

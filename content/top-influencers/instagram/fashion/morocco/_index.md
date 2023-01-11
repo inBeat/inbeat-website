@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Morocco In 2022
+title: Top 10 Fashion Instagram Influencers In Morocco In 2023
 description: >-
-  Find top fashion Instagram influencers in Morocco in 2022. Most popular hashtags: #fashion #fashionblogger #morocco #style.
+  Find top fashion Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #styleblogger #fashionblogger.
 platform: Instagram
-hits: 240
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 240 Instagram influencers like this in Morocco for you to connect with.
+hits: 160
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 160 Instagram influencers like this in Morocco for you to collaborate.
 profiles:
-  - username: "_kawtar1"
+  - username: "randdalati"
     fullname: >-
-      K  A  W  T  A  R | كوثر 🕊
+      The Datis 🌸 رند دالاتي • Dubai Influencer
     bio: >-
-      إمرأة تعرف من أين يُؤكَل الفرح ﷽ ☪️ Influencer | blogger For collaboration 📥 #mohammedia #morocco ▪︎makeup , beauty , lifestyle , fashion ,hijaber
+      👩🏼Licensed Content Creator in Dubai • Journalist • Youtuber 👗Snapchat & Tiktok: Randdalati 👢Beauty | Fashion | Lifestyle 📧: rand.dalati@gmail.com
     location: "Morocco"
-    followers: 26317
-    engagement: 633
-    commentsToLikes: 0.071920
-    id: ckap025c2oe0s0i781y7gp2rl
+    followers: 1637216
+    engagement: 208
+    commentsToLikes: 0.040509
+    id: ckap1n9hmva2a0i78fhcftoiq
     verified: false
-    hashtags: "#hijabootd, #modesty, #chichijab, #hijabstyleicon"
-  - username: "salwaanlouff"
+    hashtags: "#makeup, #outfit, #worldcup, #qatar"
+  - username: "marwahassan"
     fullname: >-
-      SALWA ANLOUF ✨ سلوى أنلوف
+      Marwa Hassan مروة حسن
     bio: >-
-      • Lifestyle, fashion and lots of Fun. • Finalist on X factor Arabia 2013. • Business inquiries📩Anloufcontact@gmail.com • Good vibes only✨💃 #bepositive
+      Fashion • Beauty • Travel Info.marwahassan@gmail.com @marwa 👘 @youssefandomar mum 👨‍👩‍👦‍👦 Cofounder @lyoscarfs | @montessorieducationaltoys
     location: "Morocco"
-    followers: 616701
-    engagement: 790
-    commentsToLikes: 0.009443
-    id: ck139ax93keda0i1975y3574a
-    verified: false
-    hashtags: "#skincare, #lessence, #haircare, #boost"
-  - username: "badgalberry"
+    followers: 2645433
+    engagement: 56
+    commentsToLikes: 0.005567
+    id: ck0tv6mfha5xw0i1977h5qc7v
+    verified: true
+    hashtags: "#trending, #sleem, #otrivinairbubble, #firsttimeinegypt"
+  - username: "wafaezzeldin122"
     fullname: >-
-      BERRY 🇲🇦
+      Wafaa Ezz Eldin| وفاء عزالدين
     bio: >-
-      Multifaceted if I may say so myself - Fashion blogger, rapper, songwriter. ~ Best bid wins ~ Contact: chaimaeberry@gmail.com “Alright” music video ⬇️
+      .Fashion .. Lifestyle .Travel ✈️🇹🇷🇦🇪🇸🇦 .Pharmacist .pink princess .wife @emadeldin92 .mom 📧omda9292@gmail.com
     location: "Morocco"
-    followers: 40513
-    engagement: 690
-    commentsToLikes: 0.012337
-    id: ck5ci9zaus9mz0i11vkd4cduk
+    followers: 1694053
+    engagement: 179
+    commentsToLikes: 0.027206
+    id: ck5hcg4jkhwk00i11d92wybti
     verified: false
-    hashtags: "#rotita, #sun, #newchicgals, #ootd"
-  - username: "happylittlefrenchie"
-    fullname: >-
-      Ouiame 💫
-    bio: >-
-      Fashion • Beauty • Kids Happy Mom of Mia & Léna 📍Paris 🇫🇷 💌 happylittlefrenchie@gmail.com
-    location: "Morocco"
-    followers: 10401
-    engagement: 467
-    commentsToLikes: 0.101167
-    id: ck5hmgq2ylx710i111jf5gxxd
-    verified: false
-    hashtags: "#lvbag, #womenwithstyle, #lookdujour, #sofitelmarrakech"
-  - username: "malak_beauteam"
-    fullname: >-
-      𝙼𝚊𝚕𝚊𝚔 𝚃𝚘𝚞𝚖𝚒
-    bio: >-
-      Proud moroccan girl 🇲🇦 📍Antwerp Youtuber🎥 | Beauty💄 | Fashion 👠 👻—> toumi.malak
-    location: "Morocco"
-    followers: 12210
-    engagement: 704
-    commentsToLikes: 0.036540
-    id: ck8t423fq58dh0j780wq5yjk2
-    verified: false
-    hashtags: "#fashionpost, #morocco, #me, #photoaday"
-  - username: "espada.yassinee"
-    fullname: >-
-      Yassine Moussaoui
-    bio: >-
-      _2eme: @espadayassinephotography _ambassador : @newchic_asia -📷ArtPhotography -👔Fashion blogger -🏋️‍♂️Fitness - 🤝Collab Dm Me - 🇲🇦 Morocco/Tanger
-    location: "Morocco"
-    followers: 89588
-    engagement: 252
-    commentsToLikes: 0.042663
-    id: ck6uevi25tbae0j714d36cpnl
-    verified: false
-    hashtags: "#yellowtshirt, #motivation, #fitnessmotivation, #dapperman"
-  - username: "beautiful4hijab"
-    fullname: >-
-      💛 حسناء💛
-    bio: >-
-      📍 MOROCCO/🌹🌹 Collaboration DM 📩🔹لإعلاناتكم التجارية Hijab Fashion👗👚📝reviews
-    location: "Morocco"
-    followers: 177200
-    engagement: 304
-    commentsToLikes: 0.015193
-    id: ck8t5x6ysbjom0j78sa8hp84v
-    verified: false
-    hashtags: "#hijab, #hijabinspiration, #hijabs, #kiwifruit"
-  - username: "yasminadaas"
-    fullname: >-
-      Yasmine Daas | ياسمين دعاس
-    bio: >-
-      Personal Style | Fashion | Travel | Beauty | Lifestyle Palestinian✌🏻 Contact: daasisgood@gmail.com YouTube: YASMINE DAAS | Styling page: @yd.styling
-    location: "Morocco"
-    followers: 51785
-    engagement: 418
-    commentsToLikes: 0.044766
-    id: ck14j2idqiauu0i194hnqzaoe
-    verified: false
-    hashtags: "#bloggerstyle, #lockdownlife, #covid, #fashionblogger"
+    hashtags: ""
   - username: "sfatimazahraa"
     fullname: >-
       Fatimazahra Sel 🇲🇦
     bio: >-
       💄/ Fashion beauty & lifestyle 🕊/ hijab 📍/ RABAT 📥/ For collaborations fatimazohra.selhami@gmail.com
     location: "Morocco"
-    followers: 37189
-    engagement: 193
-    commentsToLikes: 0.206039
+    followers: 47021
+    engagement: 393
+    commentsToLikes: 0.034769
     id: ckaoult3v0tp10i78ezrrkgyz
     verified: false
-    hashtags: "#fashionblogger, #look, #makeup, #photoshoot"
+    hashtags: "#fashionista, #hijabsyari, #fashiongram, #muslim"
+  - username: "itsrajaa__"
+    fullname: >-
+      R A J A A
+    bio: >-
+      🇲🇦🇮🇳 - NYC fashion, travel & a whole lotta culture 📧: Lesoukstyle@gmail.com
+    location: "Morocco"
+    followers: 2529
+    engagement: 1101
+    commentsToLikes: 0.095931
+    id: ck5pzuumh2v320i117fjmexc6
+    verified: false
+    hashtags: "#moroccotravel, #marrakech, #rooftopviews, #wfh"
+  - username: "oumaima_elghachi"
+    fullname: >-
+      Hijab Modest
+    bio: >-
+      🇲🇦 أُمَيمَة الغَاشِي @qafilaanamaak profile supporter Fashion•beauty•lifestyle #beautiful_in_hijab 💜
+    location: "Morocco"
+    followers: 826208
+    engagement: 310
+    commentsToLikes: 0.005391
+    id: ck15tt47rjrfp0i19lj8f0fus
+    verified: false
+    hashtags: "#maybellinesquad2021, #maybelline"
+  - username: "beautiful4hijab"
+    fullname: >-
+      💛 حسناء💛
+    bio: >-
+      Collaboration DM 📩🔹لإعلاناتكم التجارية Hijab Fashion👗👚📝reviews
+    location: "Morocco"
+    followers: 172469
+    engagement: 308
+    commentsToLikes: 0.014196
+    id: ck8t5x6ysbjom0j78sa8hp84v
+    verified: false
+    hashtags: "#duniabatma, #explore, #hijabstyle, #explor"
   - username: "feda_mak"
     fullname: >-
       FEDA MAHMOUD  |  فداء محمود
     bio: >-
-      Interior Architect 📐 Beauty-Fashion-lifestyle 📍living in Jerusalem -القدس Jordanian 🇯🇴 🇲🇦🇵🇸married💍 Snapchat: Feda_mak Working at @JACCO_autism
+      Interior Architect 📐 Beauty-Fashion-lifestyle 📍living in Jerusalem -القدس Jordanian 🇯🇴 🇵🇸married💍 Snapchat: Feda_mak Working at @JACCO_autism
     location: "Morocco"
-    followers: 83864
-    engagement: 168
-    commentsToLikes: 0.270438
+    followers: 84024
+    engagement: 198
+    commentsToLikes: 0.195604
     id: ck13655vr4sss0i19cn2wpfmj
     verified: false
-    hashtags: "#jordan, #blogger, #staysafe, #quarantine"
+    hashtags: "#qatar, #explore, #instagood, #ootd"
+  - username: "nounoua_selma"
+    fullname: >-
+      Fashion designer 🇩🇿
+    bio: >-
+      Propriétaire de : @nns_dz 🔸 Modeliste ✂️ Styliste. 🔸 Dermo-conseillère. 🔸 Fashionista. 🔸 Animatrice. 🔸 Self development.
+    location: "Morocco"
+    followers: 26990
+    engagement: 456
+    commentsToLikes: 0.048854
+    id: ck6ufvz8pzgb20j71ansox9z3
+    verified: false
+    hashtags: "#nns, #bienetre, #revue, #hijabinspiration"
+  - username: "fashionmintea"
+    fullname: >-
+      Yasmina Olfi
+    bio: >-
+      Moroccan digital entrepreneur🇲🇦Fashion ,Beauty, Travel & Lifestyle 🧿🌴 Current location:📍Morocco Contact : fashionmintea@gmail.com​ TED speaker 🔊
+    location: "Morocco"
+    followers: 230094
+    engagement: 190
+    commentsToLikes: 0.015014
+    id: ck6ub14qk6v2m0j71ictzdlvl
+    verified: true
+    hashtags: "#revolveme, #revolvewinter, #goodgirlcarolinaherrera, #marrakech"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Medellín In 2022
+title: Top 10 Skincare Instagram Influencers In Medellín In 2023
 description: >-
-  Find top skincare Instagram influencers in Medellín in 2022. Most popular hashtags: #beauty #makeup #skincare #medellin.
+  Find top skincare Instagram influencers in Medellín in 2023. Most popular hashtags: #skincare #skin #makeup #beauty.
 platform: Instagram
-hits: 8
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 8 Instagram influencers like this in Medellín, Colombia for you to pitch.
+hits: 6
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 6 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
-  - username: "toasmakeup"
+  - username: "lizcastromakeup"
     fullname: >-
-      Angelica Alvarado
+      ♡ LIZ CASTRO
     bio: >-
-      Me gusta el maquillaje sin complicaciones💫 Aveces canto 🌝 #SkinCareLover ⁣PR/Business DM📩
+      MAKEUP ARTIST 📍Envigado,Antioquia INSTRUCTORA @colombianmakeupschool IG personal @lizcastro.y WhatsApp (+57) 3186908451 CITAS📲:ingresa a este link👇🏻
     location: "Colombia"
-    followers: 32547
-    engagement: 200
-    commentsToLikes: 0.052010
-    id: ck13a557doomn0i19nzl4fozm
+    followers: 20552
+    engagement: 98
+    commentsToLikes: 0.020489
+    id: ck6uelp0bro7m0j71gd9jkc23
     verified: false
-    hashtags: "#makeupartist, #halloween, #halloweenmakeup, #rubores"
+    hashtags: "#makeup, #novia, #bridemakeup, #lizcastromakeupnovias"
   - username: "chdermatologia"
     fullname: >-
       CLAUDIA HERNÁNDEZ
     bio: >-
-      МD.Derмaтologιѕт •Expert Injector💉•KOL🌎•Research 🔬 360 Face & Body health - anti-aging & beauty strategies 📍Medellín-Col🇨🇴 📲574-4443072-3006413849
+      МD.Derмaтologιѕт •Injector💉•KOL🌎•Research 🔬 Anti-aging & beauty strategies 📍Medellín-Colombia🇨🇴 📲574-4443072-3006413849
     location: "Colombia"
-    followers: 86504
-    engagement: 175
-    commentsToLikes: 0.015401
+    followers: 93179
+    engagement: 192
+    commentsToLikes: 0.016119
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#dermatology, #beauty, #medellin, #fillers"
-  - username: "marianelamodel"
-    fullname: >-
-      Marianela💋Ramos
-    bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
-    location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "caritomakeup_"
-    fullname: >-
-      CARITO MAKE UP ✨💄
-    bio: >-
-      •CURSOS DE MAQUILLAJE👩🏽‍🎨 •Maquilladora profesional✨ • Maquillaje para toda ocasión 💄 •PUBLICIDAD🤳🏽📦🛍💸 •Administradora de empresas 👩🏽‍💻 #soyvogueraco
-    location: "Colombia"
-    followers: 20196
-    engagement: 286
-    commentsToLikes: 0.200244
-    id: ck13c60jgys9s0i19ohwx207v
-    verified: false
-    hashtags: "#ad, #cutie, #latin, #makeup"
+    hashtags: "#fillers, #envejecimiento, #beauty, #skincare"
   - username: "auraoro"
     fullname: >-
       Aura Maria Orozco
     bio: >-
-      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketvcali 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
+      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketv.co 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
     location: "Colombia"
-    followers: 27422
-    engagement: 196
-    commentsToLikes: 0.496485
+    followers: 27098
+    engagement: 98
+    commentsToLikes: 0.365928
     id: ckap7vyvwlszz0i7805o7f2u5
     verified: false
-    hashtags: "#rojo, #skincare, #sun, #pretty"
-  - username: "vanhardeyo"
+    hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
+  - username: "pabon.art"
     fullname: >-
-      ⚡️(VÂŃ) (HÃRDÈŸ) (ŸØ✞)
+      Jhonatan Pabon
     bio: >-
-      “𝒟𝑅𝐸𝒜𝑀𝒮 & 𝒮𝒞𝐻𝐸𝑀𝐸𝒮” 🌊 ¢єσ ✨ @swaggflowslikewater тσ σя∂єя ☕️ @donhenrycafe #ᴍᴏɴᴀᴛ ᴘʀᴏᴅᴜᴄᴛs (ᴄʟɪᴄᴋ ʟɪɴᴋ ɪɴ ʙɪᴏ ᴛᴏ sʜᴏᴘ) #𝕸𝖚𝖑𝖙𝖎𝖕𝖔𝖙𝖊𝖓𝖙𝖎𝖆𝖑𝖎𝖙𝖞 ⛈👽🦄 ¹¹:¹¹
+      Jesucristo es el camino, la verdad y la vida ✞ Tattoo Artist Currently in Bogota 🇨🇴 For Appoiment DM Skateboarding Love
     location: "Colombia"
-    followers: 32505
-    engagement: 107
-    commentsToLikes: 0.071375
-    id: ck5cb96fxez880i111ldfwqqw
+    followers: 34609
+    engagement: 153
+    commentsToLikes: 0.063557
+    id: ck55osusa927v0i11ix4c50ni
     verified: false
-    hashtags: "#bossbabe, #monatskincare, #monatofficial, #monatglobal"
-  - username: "saracalderonmakeup"
+    hashtags: "#nature, #bodyart, #cheyennetattooequipment, #boudoir"
+  - username: "marianelamodel"
     fullname: >-
-      Maquillaje Cartagena
+      MARIANELA | PRESENTADORA
     bio: >-
-      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 6466
-    engagement: 868
-    commentsToLikes: 0.118183
-    id: ckaoydrcxh39n0i78g1yu92pf
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
-  - username: "karomakeup13"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
+  - username: "julindda"
     fullname: >-
-      Carolina Arias
+      ↞Juliana #ElBaúlDeJulindda
     bio: >-
-      📍Manizales Todos mis Tips @tipsdebellezakaro Cuenta personal @karoariasj Negocios/publicidad 📲 karoarias13@gmail.com Mi canal de Youtube⬇️
+      ☾ Modelo•Community Manager•Creadora de contenido•¡La vida Real Sin Drama! •El Movimiento genera progreso•🇨🇴 @elbauldejulindda @visual_julindda #Ninfa
     location: "Colombia"
-    followers: 42759
-    engagement: 152
-    commentsToLikes: 0.037562
-    id: ck0vxhyamyzcu0i193iw9yy2g
+    followers: 35194
+    engagement: 158
+    commentsToLikes: 0.070187
+    id: ck5cfq336nflb0i11evw37gn7
     verified: false
-    hashtags: "#neonmakeup, #beauty, #manizales, #look"
-  - username: "nannamartinezp"
+    hashtags: "#fashionblogger, #marketingdigital, #reels, #medelli"
+  - username: "juliepardau"
     fullname: >-
-      Nanna Martínez
+      JULIETTE | PARDAU
     bio: >-
-      Freelance Fashion designer-Stylist Fashion tips, skincare @atypigal @thesecondchanceco 🌎👾🌻🐝🍒🌸🌈💚 “Progreso, no perfección” contacto@nannamartinezp.com
+      🎭 Actriz - Atriz - Actress 📩 Rep: @mclmanager 🧖🏻‍♀️ Skincare enthusiast at @la.jolie.skin
     location: "Colombia"
-    followers: 32866
-    engagement: 208
-    commentsToLikes: 0.081909
-    id: ck602cvayh5bm0i14s0r0qinq
-    verified: false
-    hashtags: "#instablogger, #fashionblog, #fashionpost, #theparisguru"
-  - username: "akasa.skincare"
+    followers: 607725
+    engagement: 471
+    commentsToLikes: 0.012911
+    id: ck15u05wxkrqd0i19gf27locd
+    verified: true
+    hashtags: "#maquillajelbel, #obviobobis, #muack, #oscarwilde"
+  - username: "fqdermato"
     fullname: >-
-      Mary Vale Guerra🌟 Akasa
+      FAY QUIROZ CHARRIS
     bio: >-
-      🌟Un espacio de amor propio ✨Skin enthusiast | Consume responsablemente✌🏻 💌PR - collab akasa.skincare@gmail.com 👇🏻Código AKASASKINCARE 20% de descuento
+      🙋🏼‍♀️| MD dermatóloga ⭐| Guardiana de salud, belleza y juventud #Skincaretips ☎️|Consulta virtual y presencial 📲 3138698688 👇🏻| Link directo FQ 👩🏼‍💻
     location: "Colombia"
-    followers: 25368
-    engagement: 1139
-    commentsToLikes: 1.290602
-    id: ck5qad0cvfr7d0i110kzww7ch
+    followers: 69061
+    engagement: 204
+    commentsToLikes: 0.184001
+    id: ck135dci50vzv0i194y46ooiw
     verified: false
-    hashtags: "#amorpropio, #cuidadofacial, #beautyblog, #skincareblog"
+    hashtags: "#haircare, #skincareroutine, #skin, #uriage"
+  - username: "yessenxaa"
+    fullname: >-
+      Yessenia Andrade
+    bio: >-
+      ‘97 | Colombian & Cape Verdean BIG animal lover 🌱 📍: Rhode Island 📧: andradey10@yahoo.com God is good all the time. All the time God is good.
+    location: "Colombia"
+    followers: 63156
+    engagement: 184
+    commentsToLikes: 0.090517
+    id: ckaova9cd3pg30i785lpflyn0
+    verified: false
+    hashtags: "#clearskin, #theme, #love, #curlsfordays"
+  - username: "auraoro"
+    fullname: >-
+      Aura Maria Orozco
+    bio: >-
+      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketv.co 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
+    location: "Colombia"
+    followers: 27098
+    engagement: 98
+    commentsToLikes: 0.365928
+    id: ckap7vyvwlszz0i7805o7f2u5
+    verified: false
+    hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
 ---

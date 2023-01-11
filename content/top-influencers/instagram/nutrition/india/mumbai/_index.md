@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Mumbai In 2022
+title: Top 10 Nutrition Instagram Influencers In Mumbai In 2023
 description: >-
-  Find top nutrition Instagram influencers in Mumbai in 2022. Most popular hashtags: #mumbai #nutrition #love #instagood.
+  Find top nutrition Instagram influencers in Mumbai in 2023. Most popular hashtags: #reels #fitness #nutrition #mumbai.
 platform: Instagram
-hits: 84
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 84 Instagram influencers like this in Mumbai, India for you to pitch.
+hits: 38
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 38 Instagram influencers like this in Mumbai, India for you to collaborate.
 profiles:
-  - username: "mommylilworld"
+  - username: "dr.richa.negi"
     fullname: >-
-      Garima Bansal
+      Richa
     bio: >-
-      👩‍🎓MBA 💖Digital Creator, Lifestyle, Food, Parenting, PR 🌟Ranked top 100 influencers of India 💌DM or email 4 collabs/events
+      Shuffler🕺🏻 Boxer 🥊 Budding Dermatologist 👩🏻‍⚕️ . Expert At Doing A Million Things,Messily😋
     location: "India"
-    followers: 41622
-    engagement: 231
-    commentsToLikes: 0.110560
-    id: ck8t8dji6k1m20j78rw7w1r0m
+    followers: 271708
+    engagement: 635
+    commentsToLikes: 0.014055
+    id: ck15t8yabgwvt0i19qla1bx8w
     verified: false
-    hashtags: "#cottontouch, #igkids, #funvideo, #bangaloreblogger"
-  - username: "divssrao"
+    hashtags: "#beautiful, #bollywood, #shuffle, #trend"
+  - username: "toomuchcheessy"
     fullname: >-
-      Divyaa
+      TOO MUCH CHEESSY ™
     bio: >-
-      Writer • Host • Producer • Media Strategist • Traveller 🌍 Founder @chroniclesofthechronic✨ Marketing @tiktok 💃 Former @erosnow @missmalini 🇬🇧🇨🇦🇮🇳🇶🇦🇦🇪
+      FOOD BLOGGER PARTH & MAISHA AMD | DLH Zomato-10 | Google-7 Facebook -73k/12k Magicpin - Verify 😍 Dm for invites/Promotion/Meets
     location: "India"
-    followers: 41359
-    engagement: 252
-    commentsToLikes: 0.016415
-    id: ck139qxx8mpa00i19djsdikum
+    followers: 20542
+    engagement: 1289
+    commentsToLikes: 0.036298
+    id: ck8t8tfdalqt80j78jlqa6n92
+    verified: false
+    hashtags: "#delhifoodies, #instadaily, #foodie, #instagood"
+  - username: "bombayfoodblogger"
+    fullname: >-
+      Ayush Dolani
+    bio: >-
+      📸 Professional Food Stylist and Photographer, India No Reposts ❌ DM/Mail for bookings
+    location: "India"
+    followers: 19076
+    engagement: 151
+    commentsToLikes: 0.092603
+    id: ck8tbgjl7vktu0j78arj4oy1l
+    verified: false
+    hashtags: "#mymumbai, #desikhana, #50mm, #drinksofinstagram"
+  - username: "fattofitbypriya"
+    fullname: >-
+      Priya Chandnani
+    bio: >-
+      A Wife & A Microbiologist🧬 who turned to Sports Nutritionist🏋🏻‍♂️ Diet Plans📝 | Fitness🤸🏻‍♀️| Online Coaching 📧/DM For Customised Plans|Business
+    location: "India"
+    followers: 24418
+    engagement: 378
+    commentsToLikes: 0.019274
+    id: ck8szmhzbp00c0j783w4ju8ao
+    verified: false
+    hashtags: "#information, #fit, #pcos, #bandra"
+  - username: "iamahteshaam"
+    fullname: >-
+      Ahteshaam(wheres_the_fo0d)
+    bio: >-
+      Food /Travel/Lifestyle Content Creator🎬📸 📧Email: ahteshaam19@gmail.com 📩DM for Invites/Collaborations/Promotions
+    location: "India"
+    followers: 32828
+    engagement: 114
+    commentsToLikes: 0.461548
+    id: ckap6vegghibr0i78eumopd80
+    verified: false
+    hashtags: "#somumbai, #instagram, #influencerstylelife, #tiktok"
+  - username: "varuninamdar"
+    fullname: >-
+      Chef Varun Inamdar
+    bio: >-
+      Chef | Chocolatier | Food Stylist | Food Archivist | 2 National Awards | Guinness World Record | Made in Oberoi mail@varuninamdar.com
+    location: "India"
+    followers: 33113
+    engagement: 112
+    commentsToLikes: 0.018485
+    id: ck6ui5kmwd7570j71ym9bt1yf
     verified: true
-    hashtags: "#sunsetsofinstagram, #passionpassport, #chronicpainwarrior, #travel"
-  - username: "crazy_busy_mom"
+    hashtags: "#stayfresh, #inittogether, #stayin, #cookinginquarantine"
+  - username: "hitesh__tekwani_"
     fullname: >-
-      Chef4mydaughter(Richa)
+      Hitesh Tekwani
     bio: >-
-      🌟MoM to a beautiful Daughter 🌟Interested in Food !! Recipe !! 🌟Blogger!! Product Reviewer!!
+      A software engineer Fitness || Fashion || Lifestyle Jaipur↔️Delhi↔️Mumbai ISSA CERT. Nutritionist Training @hitesh__here_to_train Youtube
     location: "India"
-    followers: 16063
-    engagement: 513
-    commentsToLikes: 0.168836
-    id: ckaoqwkhhkqle0i78ff5307r9
+    followers: 92511
+    engagement: 523
+    commentsToLikes: 0.024640
+    id: ck9hbr488i4d90j78ku43voux
     verified: false
-    hashtags: "#mumbaimoms, #creativefoodart, #mango, #tropicalfruit"
-  - username: "space_boy_98_official"
+    hashtags: "#life, #gymlife, #skincare, #influencer"
+  - username: "ifbb_elitepro_gary"
     fullname: >-
-      Neel mistry
+      G I R I S H  P.  P A T I L 🇮🇳
     bio: >-
-      🕴️Fashion Influencer. 🎞️ Content Creator. 🏚️Mumbai. 🎒Event manager. 📝Dm/Email for collaboration.
+      💎IFBB DIAMOND CUP 2019 PRO CARD WINNER💎 🏆Mr. Maharashtra🥈 🏆2✖️Mr.Raigad🥇 🏆Navodit Mumbai🥇 BA-@butter_box_ Supplements Sponsored By - @fitup_arena
     location: "India"
-    followers: 2828
-    engagement: 901
-    commentsToLikes: 0.062541
-    id: ck5zkbd2vj5zc0i14zjek4r1h
+    followers: 4488
+    engagement: 1669
+    commentsToLikes: 0.027801
+    id: ck5zyaonk9j7y0i14wyx425th
     verified: false
-    hashtags: "#accessoriesoftheday, #silence, #sky, #mask"
-  - username: "aspiring_psyche"
+    hashtags: "#fitnessmotivation, #reels, #mightynutrition, #nevergiveup"
+  - username: "sampurna_sarkar"
     fullname: >-
-      Chinu
+      Sampurna Sarkar
     bio: >-
-      🖤 Vegetarian🌱 FITNESS| FASHION| BEAUTY 🌟 ISSA certified sports nutritionist 📚 Owner:- @ironxofficial Online training plans 👇 Chinufitplan@gmail.com
+      Model | MUA | Influencer✨ Fashion, Makeup & lifestyle Makeup ac- @sampurnasarkar_makeup 📍Mumbai DM/Mail for paid Collabs
     location: "India"
-    followers: 229821
-    engagement: 450
-    commentsToLikes: 0.011302
-    id: ckap5e1esb93c0i78bfxq0mpl
+    followers: 17015
+    engagement: 457
+    commentsToLikes: 0.094163
+    id: ck0uac2o2bufl0i19eevw3u09
     verified: false
-    hashtags: "#fitness, #modelling, #selfie, #influencer"
-  - username: "khushboobhola0610"
+    hashtags: "#reelsinstagram, #outfitinspiration, #styling, #trending"
+  - username: "sahilaroras_universe"
     fullname: >-
-      Khushboo Gaurav Maggo
+      Sahil Radhakrishan Arora
     bio: >-
-      Fitness influencer Content creator Dm for paid collaboration @fapaschimvihar @favikaspuri Fit wife of Fit @imgauravmaggo
+      •MR.NATIONAL UNIVERSE INDIA🇮🇳(FINALIST) •RUBARU MR.INDIA NATIONAL UNIVERSE 2019🇮🇳 •MR.GUJARAT 2018🤴🏻OFFICIAL @rubarumr.india Mumbai-Surat- Ahmedabad
     location: "India"
-    followers: 37215
-    engagement: 435
-    commentsToLikes: 0.023454
-    id: ck5zxzw3i8z310i14mcdj779g
+    followers: 10860
+    engagement: 448
+    commentsToLikes: 0.032302
+    id: ck14j2wf5icth0i19902rqhcb
     verified: false
-    hashtags: "#weddingsutra, #weddingdress, #indianbride, #bridalmakeup"
-  - username: "adityabawaaa"
-    fullname: >-
-      ADITYA BAWA🔥
-    bio: >-
-      Reminder : Instagram isn't real life. 💫 Aquarius 👕 Fitness / Fashion 📍Delhi 🔁 Noida
-    location: "India"
-    followers: 16231
-    engagement: 912
-    commentsToLikes: 0.095535
-    id: ck8t754qcfodn0j78oqnut973
-    verified: false
-    hashtags: "#indianbodybuilding, #fitness, #fitlife, #gujjar"
-  - username: "saba_ka_jahaan"
-    fullname: >-
-      SABA IBRAHIM (صباء)
-    bio: >-
-      Mumbai 📍 Lifestyle influencer | youtuber Lifestyle• skincare•health• fashion•food Dm / Email for collaboration. 📩 ibrahimsaba2393gmail.com
-    location: "India"
-    followers: 372411
-    engagement: 1057
-    commentsToLikes: 0.047788
-    id: ck9wgfocut7mb0j78fusfrb63
-    verified: true
-    hashtags: "#happygirlsaretheprettiest, #ootd, #festiveseason, #lifestyleinfluencer"
-  - username: "saaj07"
-    fullname: >-
-      سَاجِد S A J I D
-    bio: >-
-      Welcome FAM😍 Central mr.gujarat surat finalist 2018🏅 Style | Travel | Fashion | Model | | Fitness | Lifestyle |👻Snap :Saaj07 Surat 🛫🛬 Mumbai
-    location: "India"
-    followers: 17410
-    engagement: 850
-    commentsToLikes: 0.079647
-    id: ck13b8qu7u99a0i198cuirqhm
-    verified: false
-    hashtags: "#photography, #streetwear, #fashionista, #me"
-  - username: "rachanasinghofficial"
-    fullname: >-
-      𝐑𝐚𝐜𝐡𝐚𝐧𝐚 𝐒𝐢𝐧𝐠𝐡 | 𝐅𝐢𝐭𝐧𝐞𝐬𝐬 𝐂𝐨𝐚𝐜𝐡
-    bio: >-
-      𝐅𝐢𝐭𝐧𝐞𝐬𝐬 || 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 || 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 To be NUTRITION CONSULTANT. Simple But Significant 🥰. @internationalprotein.in 📧 rachanait87@gmail.com 𝐘𝐨𝐮𝐓𝐮𝐛𝐞👇🏻
-    location: "India"
-    followers: 120543
-    engagement: 569
-    commentsToLikes: 0.027574
-    id: ck5zxzwjr8z4a0i144gsvp0pr
-    verified: false
-    hashtags: "#girlwhotravels, #cutegirlsonly, #bollywood, #goodvibestribe"
+    hashtags: "#photooftheday, #fitness, #mrgujarat2018, #reelsinstagram"
 ---

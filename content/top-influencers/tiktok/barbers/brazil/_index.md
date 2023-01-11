@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Brazil In 2022
+title: Top 10 Barbers TikTok Influencers In Brazil In 2023
 description: >-
-  Find top barbers TikTok influencers in Brazil in 2022. Most popular hashtags: #tiktok #foryou #barber #viral.
+  Find top barbers TikTok influencers in Brazil in 2023. Most popular hashtags: #tiktok #barbershop #barber #foryou.
 platform: TikTok
-hits: 15
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Brazil for you to work with.
+hits: 14
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 14 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "rodrigorezende17"
     fullname: >-
       Rodrigo Rezende
     bio: >-
-      Insta: @Salaorezendee @Ciclerezende ☝🏾 YouTube: Rodrigo Rezende
+      Insta: @Salaorezendee @Ciclerezende ☝🏾 YouTube: Rodrigo Rezende Barber
     location: "Brazil"
-    followers: 2466
-    engagement: 569
-    commentsToLikes: 0.021687
+    followers: 2507
+    engagement: 600
+    commentsToLikes: 0.023404
     id: ckb9akokhvrhh0j23ryzii7uw
     verified: false
-    hashtags: "#thebarberpost, #brasilbarbers, #homemmoderno, #bar"
+    hashtags: "#cabelo, #fade, #barbergang, #barbeariaclassica"
+  - username: "araobarbeiro"
+    fullname: >-
+      araobarbeiro
+    bio: >-
+      Instagram:: @araobarbeiro
+    location: "Brazil"
+    followers: 289300
+    engagement: 1165
+    commentsToLikes: 0.012058
+    id: ckdi7v9yo9ywx0j23ctmym87n
+    verified: false
+    hashtags: "#hairstyle, #haircut, #nobruapelao, #freefire"
   - username: "mikaelversatil"
     fullname: >-
       Mikael versátil
     bio: >-
       meu ista ➡️ @mikaelversatiloficial Aperfeiçoamentos Worckshops E só 🔥
     location: "Brazil"
-    followers: 23200
-    engagement: 463
-    commentsToLikes: 0.010374
+    followers: 23000
+    engagement: 424
+    commentsToLikes: 0.010562
     id: ckc8bd3l37rrt0j23xn2cqonm
     verified: false
-    hashtags: "#foryou, #fyp, #cortes, #fryp"
+    hashtags: "#cortes, #foryou, #saopaulo, #tik"
+  - username: "mundocurioso07"
+    fullname: >-
+      Mundo Curioso
+    bio: >-
+      Seja bem vindo 👇 Se inscreva em nosso canal 👇 https://youtu.be/-UoQs2lpFQ8
+    location: "Brazil"
+    followers: 27300
+    engagement: 599
+    commentsToLikes: 0.020541
+    id: cka0ig9p1dks20i785di2t9uq
+    verified: false
+    hashtags: "#bombou, #melhorescortes, #barbearia, #fy"
   - username: "cortezika"
     fullname: >-
       Salomão Machado
     bio: >-
       Instagram 👉🏻@magodu_cort ✂️ canal YouTube 👉🏻 corte zika
     location: "Brazil"
-    followers: 11600
-    engagement: 746
-    commentsToLikes: 0.018709
+    followers: 12000
+    engagement: 709
+    commentsToLikes: 0.013196
     id: cka0igc39dlcn0i78yil8gyqz
     verified: false
-    hashtags: "#viral, #seguidores, #barbershop, #cortemasculino"
-  - username: "leopanissa"
+    hashtags: "#galinha, #seguidores, #cortecomdesenho, #mc"
+  - username: "irmasmartinsz"
     fullname: >-
-      LéoPanissa
+      Sther e Laura
     bio: >-
-      SIGO TODOS DE VOLTA ! ❤️
+      @laura.martiins @sther.tins
     location: "Brazil"
-    followers: 15400
-    engagement: 708
-    commentsToLikes: 0.015552
+    followers: 15300
+    engagement: 323
+    commentsToLikes: 0.000000
     id: ckb99ifq7tr0z0j239mew185u
     verified: false
-    hashtags: "#animal, #foryou, #fypchallenge, #comedia"
-  - username: "barbeiroxtreme"
+    hashtags: "#foruyou, #chocolate, #tiktok, #fy"
+  - username: "djjuliasoster"
     fullname: >-
-      Barbeiros Extreme 🇧
+      DJ JULIA SOSTER ⚜️
     bio: >-
-      pagina sob Mundo Barbearia App Pagando bem 👇 https://www.wowapp.com/w/kassyano
+      ✝️ Jesus é o caminho, a verdade e a vida! Segue no insta: @djjuliasoster
     location: "Brazil"
-    followers: 20862
-    engagement: 676
-    commentsToLikes: 0.011554
-    id: cka0ig9p1dks20i785di2t9uq
+    followers: 12700
+    engagement: 1222
+    commentsToLikes: 0.046582
+    id: ckbf4vftttj4m0j234vsox1y0
     verified: false
-    hashtags: "#destaque, #barbershop, #melhorescortes, #barbeiro"
+    hashtags: "#tiktoker, #pride, #santacatarina, #lgbt"
   - username: "ramonsouza097"
     fullname: >-
       Ramon
     bio: >-
       salmos 91❤🙏🙌 RUMO A 50K🙌❤🙏
     location: "Brazil"
-    followers: 44300
-    engagement: 710
-    commentsToLikes: 0.032701
+    followers: 46200
+    engagement: 751
+    commentsToLikes: 0.029349
     id: ckai6bwotvh9f0i78zzumxq0d
     verified: false
-    hashtags: "#vamosl, #tiktok, #tiktokindia, #deus"
+    hashtags: "#assembleia, #gospel, #assembleiadedeus, #assembleianosdevalor"
   - username: "cristianpolicarpo"
     fullname: >-
       Cris.policarpos2
     bio: >-
       City:Paulínia SP Digital Influencer/Model ”Ontem era lixo hoje vê como tesouro”
     location: "Brazil"
-    followers: 249800
-    engagement: 2216
-    commentsToLikes: 0.003977
+    followers: 261300
+    engagement: 2135
+    commentsToLikes: 0.003766
     id: ck94n6hr35oc40j78zfmpto3w
     verified: false
-    hashtags: "#pravoce, #foryou, #fy, #viral"
-  - username: "gilsonteixeiraof"
+    hashtags: "#foryou, #viral, #meme, #pravoce"
+  - username: "alexhymans"
     fullname: >-
-      Gilson Teixeira
+      Alexander Hymans
     bio: >-
-      SEGUE AÍ ☝️ INSCREVA-SE NO NOSSO CANAL NO YOUTUBE INSTAGRAM ⬇️
+      Segue o brabo no insta ❤️🙏🏻 - @alexanderhymans
     location: "Brazil"
-    followers: 124800
-    engagement: 1217
-    commentsToLikes: 0.010221
-    id: ck9nejl56do8p0j78enx3bopx
+    followers: 142400
+    engagement: 1199
+    commentsToLikes: 0.023168
+    id: ckc3e61a7zkwc0j23c7mr8qqc
     verified: false
-    hashtags: "#desenho, #foryou, #barbershop, #top"
-  - username: "ocaetanno"
-    fullname: >-
-      CAETANNO
-    bio: >-
-      👍 FOLLOW INSTAGRAM👆🏻@ocaetanno
-    location: "Brazil"
-    followers: 6499
-    engagement: 721
-    commentsToLikes: 0.071124
-    id: ck94g4ojdebcx0j78qg0p1mey
-    verified: false
-    hashtags: "#bbb, #quarentena, #comedia, #tiktokbrasil"
-  - username: "guigofernandess"
-    fullname: >-
-      Guigo Fernandes
-    bio: >-
-      Tudo sobre o universo masculino Moda, saúde e lifestyle Segue no insta também!
-    location: "Brazil"
-    followers: 20300
-    engagement: 813
-    commentsToLikes: 0.047096
-    id: ckb99rfauu60v0j23h59g2vng
-    verified: false
-    hashtags: "#estilomasculino, #modaparahomens, #manstyle, #modamasculina"
+    hashtags: "#foryoupage, #alex, #funk, #brasil"
 ---

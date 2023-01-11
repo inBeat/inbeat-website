@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Canada In 2022
+title: Top 10 Cyclists Instagram Influencers In Canada in 2023
 description: >-
-  Find top cyclists Instagram influencers in Canada in 2022. Most popular hashtags: #cycling #teamcanada #tbt.
+  Find top cyclists Instagram influencers in Canada in 2023. Most popular hashtags: #cycling #teamcanada #tbt.
 platform: Instagram
 hits: 21
 text_top: Identify the best Instagram accounts on inBeat.

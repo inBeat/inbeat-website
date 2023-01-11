@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Dallas In 2022
+title: Top 10 Models TikTok Influencers In Dallas In 2023
 description: >-
-  Find top models TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #model #dallas #foryou.
+  Find top models TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #model #foryou #dallas.
 platform: TikTok
-hits: 27
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 27 TikTok influencers like this in Dallas, United States for you to connect with.
+hits: 20
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 20 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "theoriginalke"
+  - username: "lifeoftanyamarie"
     fullname: >-
-      theoriginalke
+      Life of Tanya Marie
     bio: >-
-      I’m Kemarilyn Chanel Singer, Youtuber, Model Dallas / Houston 📍 CA💰$Kemarilyn
+      Stay weird queens 🤪 lifeoftanyamarie@gmail.com
     location: "United States"
-    followers: 329100
-    engagement: 1972
-    commentsToLikes: 0.011089
-    id: ckb0sb3cshwq10j2312v0rwr9
+    followers: 462700
+    engagement: 1486
+    commentsToLikes: 0.027271
+    id: cka0laieuq7ar0i78n9d14fky
     verified: false
-    hashtags: "#vibewithus, #worldpeace, #blacktiktok, #hairtransformation"
-  - username: "glads44"
-    fullname: >-
-      Silo like silhouette
-    bio: >-
-      22 Follow my insta^^ Only fans here vv
-    location: "United States"
-    followers: 3621
-    engagement: 837
-    commentsToLikes: 0.119658
-    id: ckdnubcftmx8d0j231etmi87q
-    verified: false
-    hashtags: "#fyp, #viral, #money, #exoticdancer"
-  - username: "naomilissettee"
-    fullname: >-
-      naomilissettee
-    bio: >-
-      im kinda boring but hey (:
-    location: "United States"
-    followers: 398300
-    engagement: 2008
-    commentsToLikes: 0.017218
-    id: ck9epn7chtbuu0j78d1h6kvrc
-    verified: false
-    hashtags: "#foryou, #dallas, #fyp, #model"
+    hashtags: "#whydidimakethis, #ad, #hack, #stitch"
   - username: "helloimmaverick"
     fullname: >-
       Maverick
     bio: >-
       I like basketball tamu’22 business email: realhelloimmaverick@gmail.com
     location: "United States"
-    followers: 354900
-    engagement: 1330
-    commentsToLikes: 0.009153
+    followers: 342300
+    engagement: 1439
+    commentsToLikes: 0.010386
     id: ck8hklc63efyz0j78ypqt0p6i
     verified: false
-    hashtags: "#lebron, #lakers, #luka, #giannis"
-  - username: "dtal"
-    fullname: >-
-      Dylan Talimoni🇹🇴
-    bio: >-
-      Photographer 📍HTX Follow me on insta 👆🏼
-    location: "United States"
-    followers: 43600
-    engagement: 2077
-    commentsToLikes: 0.019397
-    id: ckbfbzg9s4cx50j23ocz5a78i
-    verified: false
-    hashtags: "#houstonphotography, #foryoupage, #photograhy, #photomagic"
-  - username: "djzetaofficial"
-    fullname: >-
-      DJ ZETA OFFICIAL
-    bio: >-
-      DJs | Twins | Texas | Regios ⛰
-    location: "United States"
-    followers: 185300
-    engagement: 748
-    commentsToLikes: 0.005566
-    id: ck9r4q7r3wa8m0j785exp8i93
-    verified: false
-    hashtags: "#funny, #quincea, #cowboys, #djzeta"
-  - username: "terjiah_loui"
-    fullname: >-
-      terjiah_loui
-    bio: >-
-      📍DALLAS TX THE KING OF TIKTOK👑 I’ll just verify myself✅ DM FOR CHEAP PROMO💰
-    location: "United States"
-    followers: 1500000
-    engagement: 2723
-    commentsToLikes: 0.012944
-    id: ck8or5qgyaokv0j78p0t13tkq
-    verified: false
-    hashtags: "#terjiah, #fyp, #fypchallenge, #greenscreenvideo"
-  - username: "alyssanicole.official"
-    fullname: >-
-      Alyssa Nicole✨
-    bio: >-
-      👻: alyssareed0012 SUB TO MY CHANNEL🌹 Join the Luxe Family✨ Dallas, TX
-    location: "United States"
-    followers: 51900
-    engagement: 2356
-    commentsToLikes: 0.037300
-    id: ck9glefgdo0110j783y897lfs
-    verified: false
-    hashtags: "#fyp, #greenscreenvideo, #greenscreen, #photoshoot"
+    hashtags: "#flightreacts, #stephcurry, #4u, #lebron"
   - username: "chasefelke"
     fullname: >-
       Chase Felke
     bio: >-
       FOLLOW MY INSTAGRAM. 👆 @Chasefelke Dallas, Texas
     location: "United States"
-    followers: 603900
-    engagement: 1466
-    commentsToLikes: 0.011094
+    followers: 687100
+    engagement: 1221
+    commentsToLikes: 0.009533
     id: ck9f9ylbv8zkx0j78zm4vp6oo
     verified: false
-    hashtags: "#supercars, #dallastx, #senna, #pagani"
-  - username: "rockyourhair"
+    hashtags: "#lamborghini, #supercars, #fyp, #hypercar"
+  - username: "djzetaofficial"
     fullname: >-
-      rockyourhair
+      DJ ZETA OFFICIAL
     bio: >-
-      Are You the Next R💖CK Model? ✨
+      DJs | Twins | Texas | Regios ⛰
     location: "United States"
-    followers: 352900
-    engagement: 1156
-    commentsToLikes: 0.012887
-    id: ckbr7ijrqmo0d0j23yjrtrext
+    followers: 191600
+    engagement: 922
+    commentsToLikes: 0.004838
+    id: ck9r4q7r3wa8m0j785exp8i93
     verified: false
-    hashtags: "#rockyourhair, #rockmodel, #fyp, #cheerleader"
+    hashtags: "#foryou, #quincea, #djzeta, #dance"
+  - username: "suggamonkey"
+    fullname: >-
+      Susan Curry
+    bio: >-
+      Model/Blogger/Influencer/, based in OKC, OK. We only live Once, LIVE LIFE BABY!
+    location: "United States"
+    followers: 15600
+    engagement: 859
+    commentsToLikes: 0.055345
+    id: ck9v73wxe4mcw0j78xyu4wfai
+    verified: false
+    hashtags: "#plus, #ftfbabe, #okc, #plussize"
+  - username: "itsbuschlikethebeer"
+    fullname: >-
+      Tori Busch🍻
+    bio: >-
+      Dallas//Cartersville Georgia 🤠 19 Snap: vbusch
+    location: "United States"
+    followers: 42700
+    engagement: 1035
+    commentsToLikes: 0.019975
+    id: ck9gl4jwwmmxs0j78fw3uokj8
+    verified: false
+    hashtags: "#fyp, #daytonatruckmeet2020, #duet, #myorder"
+  - username: "juandaniielz"
+    fullname: >-
+      Juan
+    bio: >-
+      Snapchat/Twitter/Instagram: @juandaniielz 📍Dallas / Oklahoma City
+    location: "United States"
+    followers: 42700
+    engagement: 954
+    commentsToLikes: 0.020502
+    id: ck8s8jkwsu2ve0j788qv6g81j
+    verified: false
+    hashtags: "#cumbia, #music, #summerbody, #curlyhair"
+  - username: "terrycostaprom"
+    fullname: >-
+      Terry Costa Prom
+    bio: >-
+      Largest Prom, Pageant, and HoCo dress store in TEXAS! 📍Dallas, TX #TCProm
+    location: "United States"
+    followers: 862300
+    engagement: 1446
+    commentsToLikes: 0.005072
+    id: ck9c3hayzpo130j784tplo0th
+    verified: false
+    hashtags: "#fyp, #model, #sherrihill, #tcprom"
+  - username: "taylorwedding"
+    fullname: >-
+      Taylor Wedding
+    bio: >-
+      I make noises and voices and art and take photos for a living 23 TX
+    location: "United States"
+    followers: 43600
+    engagement: 1882
+    commentsToLikes: 0.044649
+    id: ck95z2w6ycqpd0j78ogjs7muy
+    verified: false
+    hashtags: "#harmony, #sing, #duet, #fyp"
+  - username: "kailamargolis"
+    fullname: >-
+      kailamargolis
+    bio: >-
+      hi welcome🌞 all smiles here ☻︎ follow me on Pinterest I’m always active <3
+    location: "United States"
+    followers: 6951
+    engagement: 1871
+    commentsToLikes: 0.048993
+    id: ckb12vkr0r3300j235g335iw2
+    verified: false
+    hashtags: "#fyp, #foryou, #dallas, #aesthetic"
 ---

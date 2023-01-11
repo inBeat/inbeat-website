@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Miami In 2022
+title: Top 10 Cosmetics Instagram Influencers In Miami In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Miami in 2022. Most popular hashtags: #miami #cosmetics #beauty #makeup.
+  Find top cosmetics Instagram influencers in Miami in 2023. Most popular hashtags: #miami #beauty #cosmetics #makeup.
 platform: Instagram
-hits: 64
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 64 Instagram influencers like this in Miami, United States for you to connect with.
+hits: 75
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 75 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "mspriscillanyc"
+  - username: "classyjenn_"
     fullname: >-
-      💄Priscilla DiStasio
+      CEO Of @ClassyJennCosmetics
     bio: >-
-      🏆Celebrity💄MUA WWW.PRISCILLADISTASIO.COM PR & Partnership E:pr@priscilladistasio.com all other inquiries E:makeupbymspriscilla@gmail.com
+      Singer 🎤 | Model 📸 | MUA 💄| YouTuber | SC: ClassyJenn4 | Bookings & Features: ClassyJennCosmetics@Gmail.Com @classyjenncosmetics 💋
     location: "United States"
-    followers: 107302
-    engagement: 94
-    commentsToLikes: 0.062101
-    id: ck6tqoy5xsunt0j716md397go
+    followers: 94513
+    engagement: 111
+    commentsToLikes: 0.033380
+    id: ck0tt00ok0kae0i19lzj8bm73
     verified: false
-    hashtags: "#fyp, #makeupbymspriscilla, #mspriscillanyc, #makeupartistnyc"
-  - username: "itscidnee"
+    hashtags: ""
+  - username: "jpatrickstudio"
     fullname: >-
-      Cidnee G.
+      J. Patrick | Makeup
     bio: >-
-      I turn creative ideas into inspiring visuals. 5feet 10inches cidneegray@gmail.com South Florida 🌴
+      Represented by See Management Makeup / Content Creator #makeupbyjpatrick #jpatrick
     location: "United States"
-    followers: 7974
-    engagement: 728
-    commentsToLikes: 0.118559
-    id: ck6tsn9c15q990j71fmljjsnw
+    followers: 16410
+    engagement: 156
+    commentsToLikes: 0.065957
+    id: ck5zn8x4lo03x0i14cie28vft
     verified: false
-    hashtags: "#beautifulwomen, #poschemodels, #coffeevideo, #fashionweek"
-  - username: "geenafontanella"
+    hashtags: "#makeupartist, #tan, #hair, #editorial"
+  - username: "davidbenolielphotography"
     fullname: >-
-      G E E N A
+      David Benoliel
     bio: >-
-      Selling out the @staplescenterla in 3 years 🤘🏻 Artist 🎤 Pug Lover 🐶 ⭕️NEW SINGLE CIRCLES⭕️👇🏻👇🏻
-    location: "United States"
-    followers: 6495
-    engagement: 378
-    commentsToLikes: 0.077091
-    id: ck9wg0afyrbjb0j78wu05kwar
-    verified: false
-    hashtags: "#ootd, #streetstyle, #losangeles, #producer"
-  - username: "lil_ms.monroe"
-    fullname: >-
       
-    bio: >-
-      Vh1 Cartel Crew 📺 🤩 First Lady of @pureblanco_brand Assistant2michaelblanco@gmail.com
     location: "United States"
-    followers: 158972
-    engagement: 234
-    commentsToLikes: 0.029571
-    id: ck55nclk55x9t0i116eknirl9
-    verified: true
-    hashtags: "#beauty, #makeup, #beautiful, #miamonroebrand"
+    followers: 39101
+    engagement: 156
+    commentsToLikes: 0.018838
+    id: ck5zn9nd0o1bt0i14vcqzfp4g
+    verified: false
+    hashtags: "#photography, #makeup, #cover, #model"
+  - username: "bigbankmedia"
+    fullname: >-
+      BIG BANK
+    bio: >-
+      🎥 @bbsthemagazine 🏦 @bigbankstudios 👇 @bigbankkaid 📧 Instagram@bigbankstudios.com
+    location: "United States"
+    followers: 170926
+    engagement: 18
+    commentsToLikes: 0.026544
+    id: ckaot3ogou8m30i782c0p7el5
+    verified: false
+    hashtags: "#gadget, #dejalopisao, #challenge, #bhfyp"
   - username: "coopaloop28"
     fullname: >-
       Garrett Cooper
     bio: >-
       Miami Marlins Former Auburn Tiger Manhattan Beach, CA | Miami, FL
     location: "United States"
-    followers: 10951
-    engagement: 905
-    commentsToLikes: 0.027305
+    followers: 10909
+    engagement: 898
+    commentsToLikes: 0.030221
     id: ck5c3higczc790i1191hiksvm
     verified: true
-    hashtags: "#juntosmiami, #bottomfeeders, #brickell, #nyyankees"
-  - username: "doctor.q_"
-    fullname: >-
-      Student Dr.Q
-    bio: >-
-      @essentialtoothbrushco 📍Washington, DC 🦷 D.D.S Candidate 🎓 Howard U. Alum 📞 202.596.5563
-    location: "United States"
-    followers: 11666
-    engagement: 1075
-    commentsToLikes: 0.049834
-    id: ck15roakw8w890i19eyn4ntqc
-    verified: false
-    hashtags: "#hbcu, #dentist, #dental, #memphis"
-  - username: "kravekay"
-    fullname: >-
-      ♡ KAY KAY ♡
-    bio: >-
-      Youtuber|Influencer|Hairstylist Certified Lace Specialist CEO of @kravekaykollection Click “BOOK” for appointments😍 YOUTUBE: Krave Kay
-    location: "United States"
-    followers: 121238
-    engagement: 61
-    commentsToLikes: 0.021990
-    id: ck0w396a3s7q20i19k4pwgpui
-    verified: false
-    hashtags: "#frontalsewin, #atlhair, #squareshades, #pretty"
+    hashtags: "#brickell, #bottomfeeders, #juntosmiami, #cosmetic"
   - username: "drjanellevega"
     fullname: >-
       Dr. Janelle Vega
     bio: >-
-      Board-certified Dermatologist Co-founder: @mybialife Cosmetic dermatologist and #Skinhealth expert Miami, Fl 🔆 Family business 👩‍👧‍👧@mayoralderm
+      Board-certified Dermatologist Co-founder: @mybialife Cosmetic dermatologist & #skincare mentor. Miami, Fl 🔆. Family business @mayoralderm
     location: "United States"
-    followers: 114054
-    engagement: 64
-    commentsToLikes: 0.095828
+    followers: 124346
+    engagement: 104
+    commentsToLikes: 0.059497
     id: ck5q7hbg71kd00i11f3hzpjz7
     verified: true
-    hashtags: "#miami, #coronavirus, #bialife, #lipfiller"
-  - username: "mariagjieli"
+    hashtags: "#tweakments, #miami, #skincare, #filler"
+  - username: "arviv_aesthetics"
     fullname: >-
-      ᴍᴀʀɪᴀ ɢᴊɪᴇʟɪ
+      Arviv Medical Aesthetics
     bio: >-
-      🇦🇱 🔺22 | NYC | Miami 📍 🔺Model | Foodie 🔺Brands/promos: mariagjielimgmt@gmail.com 🔺Backup: @mariagjielixo 🔺Twitter: @ mariagjielixo
+      Miami | Tampa 💉🩺 Dr. Tali Arviv, MD, Board Certified Internal Medicine, Specializes in Cosmetic Dermatology 📲TEXT M 305.215.5171 | T 813.919.5801
     location: "United States"
-    followers: 1064029
-    engagement: 395
-    commentsToLikes: 0.020973
-    id: ckap4oi4a864k0i78h9xfuq4y
+    followers: 42536
+    engagement: 115
+    commentsToLikes: 0.004197
+    id: ck6ubvlrdbyo90j712m64rnr6
     verified: false
-    hashtags: "#boutiquemodel, #style, #viral, #fashion"
-  - username: "andrewcarterbeauty"
+    hashtags: "#injectables, #tampa, #antiaging, #jawlinefiller"
+  - username: "miamonroeofficial"
     fullname: >-
-      Andrew Carter - Beauty
+      Mia Monroe 💋💄
     bio: >-
-      Celeb Makeup Artist & Hairstylist Beauty Photographer 14 + years experience Cosmetics Owner & CEO #mua #fortlauderdale #extensions #glam #miami
+      CEO @lil_ms.monroe Vh1 Cartel Crew cast member 🤩 📺 @vh1 @cartelcrew
     location: "United States"
-    followers: 38035
-    engagement: 179
-    commentsToLikes: 0.020901
-    id: ck5q225wldwox0i11itad848q
+    followers: 25009
+    engagement: 82
+    commentsToLikes: 0.031301
+    id: ck5bu77unh9z00i11alw173yn
     verified: false
-    hashtags: "#businessheadshots, #andrewcarterbeautylashes, #sunnyisles, #greeneyes"
+    hashtags: "#miamonroebrand, #luxury, #beauty, #lilmsmonroe"
+  - username: "alisonbowles"
+    fullname: >-
+      Alison Kay Bowles
+    bio: >-
+      📍 Miami ⇄ NYC NY| @nymmg PNW| @musemanagement CEO @uprisemarketing.co Esther 4:14 All my links 💗⬇️
+    location: "United States"
+    followers: 349061
+    engagement: 275
+    commentsToLikes: 0.030283
+    id: ck0tvo5uuc43c0i19kuu07ylx
+    verified: false
+    hashtags: "#nycinfluencer, #nyfw, #miamimodel, #fashionweek"
+  - username: "bridgetzglam"
+    fullname: >-
+      BRIDGET MARTINEZ🦋
+    bio: >-
+      MUA|HAIR💄👸 LA🌴|🍊C ▪️Mobile 🚘✈🚢 📩bridgetmartinezmakeup@gmail.com
+    location: "United States"
+    followers: 58069
+    engagement: 65
+    commentsToLikes: 0.104625
+    id: ck5heik6st33p0i11wr7zftrm
+    verified: false
+    hashtags: "#slay, #makeup, #ocmua, #latina"
 ---

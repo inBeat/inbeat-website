@@ -1,48 +1,48 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Turkey In 2022
+title: Top 10 Bakers Instagram Influencers In Turkey In 2023
 description: >-
-  Find top bakers Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #turkey #food #foodporn.
+  Find top bakers Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #turkey #photooftheday #instafood.
 platform: Instagram
-hits: 110
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 110 Instagram influencers like this in Turkey for you to contact.
+hits: 102
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 102 Instagram influencers like this in Turkey for you to connect with.
 profiles:
   - username: "hatibon"
     fullname: >-
       Hatibon
     bio: >-
-      Food Blogger • Baker • Traveller • Sweet life in TR🇹🇷 IT🇮🇹 UK🇬🇧
+      Food Blogger • Baker • Sweet tooth Baking w/ @ekmekandmore
     location: "Turkey"
-    followers: 38271
-    engagement: 201
-    commentsToLikes: 0.053800
+    followers: 38760
+    engagement: 189
+    commentsToLikes: 0.037975
     id: ck8tavbnft7tk0j788agqqthr
     verified: false
-    hashtags: "#can, #creamtart, #artizanf, #eatslow"
+    hashtags: "#xmaseve, #mimosa, #tartauxfruits, #tostekmeg"
   - username: "barisdirbali"
     fullname: >-
       Barış Dırbalı
     bio: >-
       Tane Gurme Turkish Culinary Team Baker Chef, fırıncılık okulu eğitmen chef Turkish do&co executive Çırağan place kenpinski
     location: "Turkey"
-    followers: 5385
-    engagement: 585
-    commentsToLikes: 0.168303
+    followers: 5405
+    engagement: 543
+    commentsToLikes: 0.078516
     id: ckap959zzr7gu0i783eclk6d8
     verified: false
-    hashtags: "#barisdirbali, #breads, #ekmek, #tanegurme"
+    hashtags: "#breads, #ba, #ek, #kahvalt"
   - username: "gimezkuzu"
     fullname: >-
       ☼ Gizem Kuzu / Bakery
     bio: >-
-      Baker • Sculptor • Postcard Designer @postcardsbeyond Çarşamba-Cuma 09:00-18:00 Cumartesi-Pazar 10:00-15:00 Pazartesi-Salı KAPALI
+      Baker • Sculptor • @postcardsbeyond Pzt-Cuma 10:00 - 15:00 Paket servisimiz yoktur Kısıtlamalar süresince hafta sonu kapalıyız
     location: "Turkey"
-    followers: 53115
-    engagement: 168
-    commentsToLikes: 0.020290
+    followers: 55332
+    engagement: 157
+    commentsToLikes: 0.019566
     id: ck9wfcsp4oahj0j781h4x00l6
     verified: false
-    hashtags: "#brownie, #quarantinelife, #whitechocolatebrownies, #feedfeedbaking"
+    hashtags: "#chocolate, #chocolatelover, #bakery, #brownie"
   - username: "bakershamdeen"
     fullname: >-
       Beko Mc | بكر شمدين
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.032233
     id: ck8szgd78oca50j78a3lzu7g4
     verified: false
-    hashtags: "#2020, #thesystem, #damascus, #turkey"
+    hashtags: "#2020, #damascus, #istanbul, #thesystem"
+  - username: "yesene_catering"
+    fullname: >-
+      Dilek Pfeiffer
+    bio: >-
+      #foodblogger Architektin Künstlerin Sozialpädagogin "Wherever you go, find a cake" Bursa / Istanbul / Ravensburg
+    location: "Turkey"
+    followers: 15870
+    engagement: 446
+    commentsToLikes: 0.067160
+    id: ck5q4ijthp56n0i114o1hsbcv
+    verified: false
+    hashtags: "#besinalerjisi, #yapyepaylas, #veganfood, #foodstyling"
   - username: "realweak"
     fullname: >-
       Violent Weak
     bio: >-
       Graffiti & Visual Artist 🇹🇷
     location: "Turkey"
-    followers: 17340
-    engagement: 382
-    commentsToLikes: 0.031350
+    followers: 16466
+    engagement: 412
+    commentsToLikes: 0.029211
     id: ck15qtxrc4mld0i1958n8bwkl
     verified: false
-    hashtags: "#flow, #violentweak, #retro, #muralart"
-  - username: "chefmehmetgok"
-    fullname: >-
-      Mehmet Gök
-    bio: >-
-      President of Bocuse d'Or Turkey Restaurant Entrepreneur, chef owner Reserved Cappadocia Turkey @reservedcappadocia
-    location: "Turkey"
-    followers: 7791
-    engagement: 502
-    commentsToLikes: 0.052487
-    id: ck6ue52heov6u0j71fmkb5399
-    verified: false
-    hashtags: "#oliveoil, #vegetables, #homestyle, #instagood"
+    hashtags: "#mtn, #istanbul, #streetstyle, #violentweak"
   - username: "hellrosagrau"
     fullname: >-
       H E L L R O S A G R A U
     bio: >-
       MILENA.Textil-Designerin. Waldorf-Lehrerin. Mama. 🥨Dinkelvollkorn-Backrezepte 🎪Familienzirkus in Hamburg 🧡post@hellrosagrau.de
     location: "Turkey"
-    followers: 20141
-    engagement: 263
-    commentsToLikes: 0.023283
+    followers: 26846
+    engagement: 273
+    commentsToLikes: 0.023967
     id: ckap6ka5lg7g90i78q4cz55lr
     verified: false
-    hashtags: "#selbstgemacht, #wolle, #familie, #vollkorn"
-  - username: "ahmed_muhnad"
-    fullname: >-
-      AHMEDⓂMUHNAD-احمد مهند
-    bio: >-
-      🔴Official Account فنان عراقي⚫️ (اعتزمْ وكدَّ فإِن مضيتَ فلا تقفْ. .. واصبرْ وثابرْ فالنجاحُ محققُ)
-    location: "Turkey"
-    followers: 12494
-    engagement: 196
-    commentsToLikes: 0.022936
-    id: ck8szgepiocfo0j78ibpheva8
-    verified: false
-    hashtags: "#baghdad, #explorepage, #music, #iraq"
+    hashtags: "#selbstgemacht, #cake, #slowliving, #basteln"
   - username: "sokak_insan"
     fullname: >-
       Sokak ve İnsan
     bio: >-
       🌸Nature & Street & Portrait 🌸 tag us #sokak_insan @sokak_insan founder & admin :👉@ymk_photo 🗣
     location: "Turkey"
-    followers: 23417
-    engagement: 393
-    commentsToLikes: 0.009940
+    followers: 22876
+    engagement: 321
+    commentsToLikes: 0.009870
     id: ck14ld58nu2lz0i19r8fdhhtd
     verified: false
-    hashtags: "#eyes, #baby, #bw, #love"
-  - username: "eraykilic"
+    hashtags: "#fashionkids, #kidsportrait, #fotografheryerde, #portrait"
+  - username: "gastrokeyf"
     fullname: >-
-      Eray Kılıç🍴Yemek & Gastronomi
+      GastroKeyf
     bio: >-
-      😋 Lokanta ~ Restoran “YE-RİM” 🇹🇷 Yeni Lezzetler İçin “SEYYAH” 🍽 Gastro “PR” | “JÜRİ” | “YAZAR”
+      Bars Memişoğlu & A. Ender Ulusoy İki Kafadardan..Yemek..Gezi..Ve Dahası.. Şahsi hesaplarımız: @barsrider ve @alienderulusoy "Takipçi Satın Almadık"
     location: "Turkey"
-    followers: 151424
-    engagement: 116
-    commentsToLikes: 0.033552
-    id: ck0vzprmhaajg0i19u3648hjf
+    followers: 26894
+    engagement: 192
+    commentsToLikes: 0.099881
+    id: ck5c9vfvic71g0i118zs3k0ti
     verified: false
-    hashtags: "#lezzet, #food, #eraykilic, #kad"
+    hashtags: "#mekan, #lezzet, #leziz, #lezzetli"
+  - username: "ahmed_muhnad"
+    fullname: >-
+      Ahmed Muhnad - احمدمهند
+    bio: >-
+      🔴Official Account فنان عراقي⚫️ (التوكل على الله أول خطوة نحو النجاح)
+    location: "Turkey"
+    followers: 12690
+    engagement: 69
+    commentsToLikes: 0.018047
+    id: ck8szgepiocfo0j78ibpheva8
+    verified: false
+    hashtags: "#explorepage, #ke, #istanbul, #ahmed"
 ---

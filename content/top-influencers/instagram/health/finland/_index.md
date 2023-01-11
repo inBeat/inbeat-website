@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Finland In 2022
+title: Top 10 Health Instagram Influencers In Finland In 2023
 description: >-
-  Find top health Instagram influencers in Finland in 2022. Most popular hashtags: #ootd #helsinki #weekendvibes #monday.
+  Find top health Instagram influencers in Finland in 2023. Most popular hashtags: #fitness #smile #wellness #motivation.
 platform: Instagram
-hits: 56
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 56 Instagram influencers like this in Finland for you to connect with.
+hits: 50
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 50 Instagram influencers like this in Finland for you to pitch.
 profiles:
-  - username: "viivivalokainen"
+  - username: "glow.by.zaarakhan"
     fullname: >-
-      V I I V I
+      زحرا
     bio: >-
-      📍Helsinki, FIN 🇫🇮 | Mom🖤 Dailylife+Outfits Building My Body🏋🏼‍♀️🥗 Growing My Mind🌱 From Skinny To➡️Fit, Healthy & Strong💪🏽 Studying To Be A Paramedic🚑
+      🏋🏻‍♂️ Health & Fitness things • Flexible Dieting 💥 Sustainable weight loss - Backed by Science 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
     location: "Finland"
-    followers: 9386
-    engagement: 805
-    commentsToLikes: 0.166355
-    id: ck6tzivyg9ym50j71u8cq50gx
+    followers: 8225
+    engagement: 465
+    commentsToLikes: 0.068381
+    id: ckaotmx93wko70i78wx7bsczb
     verified: false
-    hashtags: "#koti, #helsinki, #barn, #perhe"
+    hashtags: "#suomi, #innerpeace, #finnishnature, #transformation"
+  - username: "maijuriskala"
+    fullname: >-
+      MAIJU RISKALA
+    bio: >-
+      🧚🏼 @mybnb_suomi 🤍 TEAM @gymnation 🎙 @omantienkulkijapodcast GET FIT, STAY HEALTHY myynnissä nyt ! 🔥
+    location: "Finland"
+    followers: 11579
+    engagement: 952
+    commentsToLikes: 0.025026
+    id: ck55k2jm4yazs0i11jci1ify8
+    verified: false
+    hashtags: "#kiskis, #hyvinvointi, #fitness, #jengiviihtyy"
+  - username: "misscourtxoxo"
+    fullname: >-
+      ＣＯＵＲＴＮＥＹ
+    bio: >-
+      𝟤6|Fitness|HealthyLifestyle 𝒮𝒸𝑜𝓇𝓅𝒾𝑜 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 𝒸𝑜𝒶𝒸𝒽 𝑀𝑒𝒶𝓁 𝓅𝓁𝒶𝓃𝓃𝑒𝓇 𝒪𝓇𝑒𝑔𝑜𝓃 👉🏻𝒞𝒶𝓁𝒾𝒻𝑜𝓇𝓃𝒾𝒶 𝔻𝕄 𝕞𝕖 𝕗𝕠𝕣 𝕞𝕠𝕣𝕖 𝕚𝕟𝕗𝕠 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖𝕒𝕝 𝕡𝕝𝕒𝕟𝕤
+    location: "Finland"
+    followers: 15486
+    engagement: 371
+    commentsToLikes: 0.041201
+    id: ckf5nwze0014k0j23weafidnt
+    verified: false
+    hashtags: "#supplements, #310influencer, #trusttheprocess, #motivation"
+  - username: "veerabianca"
+    fullname: >-
+      VEERA BIANCA »
+    bio: >-
+      Blogger & tourism professional ⫸ Passion project: @responsibletourism On a journey to better health 📍Finland ↠ veera@veerabianca.com
+    location: "Finland"
+    followers: 34608
+    engagement: 188
+    commentsToLikes: 0.025339
+    id: ck14lqh86vz8h0i19952flo07
+    verified: false
+    hashtags: "#equallyempowered, #workingonit, #zalandostyle, #ad"
+  - username: "aliisavilhelmiina"
+    fullname: >-
+      Aℓiiѕα M. ╳ Fitness lifestyle
+    bio: >-
+      ✘ 20 | Healthy lifestyle lover ✘ International marketing & accounting @ ÅA University🇫🇮🇸🇪 @myproteinfi athlete ”ALIISAMP” @glossyboxfi -30% ”ALIISA30”
+    location: "Finland"
+    followers: 2677
+    engagement: 1157
+    commentsToLikes: 0.061084
+    id: ck5zymh4ea4xb0i14esti03dv
+    verified: false
+    hashtags: "#mynordichome, #myprotein, #myproteinfi, #fuelyourambition"
+  - username: "linden.emilia"
+    fullname: >-
+      Emilia Lindén🇸🇪🇫🇮Fitness Coach
+    bio: >-
+      Nature,gym & delicious healthy food🙏 #CoachEmilia #FitnerizeNutrition Beachworkouts in Hanko 🏖 Email me 📧Fitnerize@hotmail.com
+    location: "Finland"
+    followers: 38585
+    engagement: 449
+    commentsToLikes: 0.006770
+    id: ck0w1mxq1k4n60i194231cxqm
+    verified: false
+    hashtags: "#activelifestyle, #naturekid, #myjourney, #dressup"
   - username: "vilmabergenheim"
     fullname: >-
       Vilma Bergenheim
     bio: >-
       •Mother•FashionModel•HealthCoach •Brand Ambassador 💇🏼‍♀️ @cutrinfinland •My jewellery collection 💎@natalinajewellery
     location: "Finland"
-    followers: 8685
-    engagement: 436
-    commentsToLikes: 0.058229
+    followers: 8961
+    engagement: 442
+    commentsToLikes: 0.058733
     id: ck15rhcxs7xtu0i1950h06xcx
     verified: false
-    hashtags: "#outfit, #style, #hmxme, #ootd"
-  - username: "linden.emilia"
+    hashtags: "#casualstyle, #outfit, #hmxme, #ootd"
+  - username: "la_tribu_des_chatons"
     fullname: >-
-      Emilia Lindén 🇸🇪🇫🇮
+      Vanessa ✨💫
     bio: >-
-      Nature,gym & delicious healthy food🙏 #CoachEmilia #FitnerizeNutrition Beachworkouts in Hanko 🏖 📧Fitnerize@hotmail.com
+      🗼Maman parisienne - Healthy 🌿 Fashionista🌹 Foodista🍰. 🍀 👶Augustin 15/06/17 👧 Capucine 29/08/19
     location: "Finland"
-    followers: 36322
-    engagement: 387
-    commentsToLikes: 0.011638
-    id: ck0w1mxq1k4n60i194231cxqm
+    followers: 4539
+    engagement: 2923
+    commentsToLikes: 0.348377
+    id: ck8tcuq1i0r6z0j78y5c25mso
     verified: false
-    hashtags: "#coachemilia, #weekend, #coachoffduty, #monday"
-  - username: "aliisavilhelmiina"
+    hashtags: "#mamanblogueuse, #motherhood, #family, #mereetfille"
+  - username: "5d_truth"
     fullname: >-
-      Aℓiiѕα M. ╳ Fitness lifestyle
+      5D ŦƦUŦҤ
     bio: >-
-      ✘ 20 | Healthy lifestyle lover ✘ International Marketing & Accounting student @ Åbo Akademi University 🇫🇮🇸🇪 🌸 @myproteinfi athlete, -33% ”ALIISAMP”
+      🔮 ΔSCΣΠDΣD SΣLҒ MΔSTΣRΨ 🦉Δ cσммʋиιтʏ ғσя тнɛ ∆ῳ∆к∑ 👁 𓂀 Ξϰρℓσяιиɢ тнɛ ʍψƨтɛяʏƨ σғ cσиƨcισʋƨиɛss @5d_holistic_health 🕊 𝐻𝑜𝓁𝒾𝓈𝓉𝒾𝒸 𝒽𝑒𝒶𝓁𝓉𝒽𝒸𝒶𝓇𝑒 🕊
     location: "Finland"
-    followers: 2633
-    engagement: 1582
-    commentsToLikes: 0.037841
-    id: ck5zymh4ea4xb0i14esti03dv
+    followers: 156590
+    engagement: 78
+    commentsToLikes: 0.016346
+    id: ck0vz9hgf7zh20i19e8ugs8w7
     verified: false
-    hashtags: "#myproteinfi, #fuelyourambition, #myprotein, #owowkit"
-  - username: "veerabianca"
+    hashtags: "#knowthyself, #enlightenment, #knowledge, #energy"
+  - username: "wellness_mia"
     fullname: >-
-      VEERA BIANCA »
+      M i a
     bio: >-
-      Traveller & Health Coach Blogger from Helsinki Changed my life: -35kg ⋙ veera@veerabianca.com 🐶: @sheltiesydney
+      Finland /Jns 🇫🇮 Psychologist Active lifestyle, positive mind 📷@miamielonen Sport | Fitness | Wellness | Nature | Outdoors | Modeling
     location: "Finland"
-    followers: 35126
-    engagement: 211
-    commentsToLikes: 0.018360
-    id: ck14lqh86vz8h0i19952flo07
+    followers: 5328
+    engagement: 1657
+    commentsToLikes: 0.082279
+    id: ckaos1gg8pq6x0i78e3kteybb
     verified: false
-    hashtags: "#zalandostyle, #pysyrytmissa, #ad, #pysylujana"
-  - username: "anettevirkki"
-    fullname: >-
-      Anette Virkki
-    bio: >-
-      💙 Welcome to my visual diary! 🌍 Flight attendant🇫🇮 🏋🏻‍♀️ Healthy lifestyle ✖️My only account!✨
-    location: "Finland"
-    followers: 2315
-    engagement: 1366
-    commentsToLikes: 0.039204
-    id: ckap1qggcvog30i78hyvuj6qx
-    verified: false
-    hashtags: "#throwback, #summertime, #olkap, #goodvibes"
-  - username: "petra.mustonen"
-    fullname: >-
-      Petra
-    bio: >-
-      Fitness and healthy lifestyle✨ 🙆🏼‍♀️23 📍Finland 👟 @icaniwill 20% off ’PETRAM20’ 🥾 Team @revolutionrace
-    location: "Finland"
-    followers: 3413
-    engagement: 1948
-    commentsToLikes: 0.103756
-    id: ck6uhiee59amf0j719jqsu1n4
-    verified: false
-    hashtags: "#vappu, #kotkafitnesscup, #vappu2020, #peakweek"
-  - username: "minna_vauhkonen"
-    fullname: >-
-      Food Photography - Minna
-    bio: >-
-      ✨ foodphotography and styling, recipe development, cookbooks 🇫🇮 Helsinki⠀⠀ ⠀⠀ 🌱 vegetarian food & healthy dessert inspiration 📷 DM for collaborations
-    location: "Finland"
-    followers: 5682
-    engagement: 1206
-    commentsToLikes: 0.141372
-    id: ckaosb0jyqx4b0i78yui9xiie
-    verified: false
-    hashtags: "#eatcaptureshare, #foodisourpower, #negativespacefoodphoto, #craftafoodstory"
-  - username: "vanelja"
-    fullname: >-
-      VANELJA | by Virpi Mikkonen
-    bio: >-
-      🌾 Inspiring towards calm, gratitude & good-vibe cuisine 🦢 Wellness artist ∽ Best selling author ∽ Health Coach 🪐 Helsinki. Get my FREE ebook ⤵︎
-    location: "Finland"
-    followers: 161626
-    engagement: 156
-    commentsToLikes: 0.037259
-    id: ck0w5lnd1498u0i197kec14dz
-    verified: true
-    hashtags: "#iittala, #smarket, #collab, #valitsevapaasti"
-  - username: "tuuliatalvio"
-    fullname: >-
-      TUULIA TALVIO
-    bio: >-
-      healthy living ✵✧✵ good vibes Helsinki, Finland hello@tuulia.co
-    location: "Finland"
-    followers: 23612
-    engagement: 263
-    commentsToLikes: 0.027239
-    id: ck55k2sv7ybmu0i11n435241o
-    verified: false
-    hashtags: "#foodin, #vegan, #tuuliablog, #nourish"
+    hashtags: "#fitnesslifestyle, #workoutoutfit, #tattooedgirls, #strongmindset"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Berlin In 2022
+title: Top 10 Christian Instagram Influencers In Berlin In 2023
 description: >-
-  Find top christian Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #selfie #sport.
+  Find top christian Instagram influencers in Berlin in 2023. Most popular hashtags: #corona #berlin #editorialmakeup.
 platform: Instagram
-hits: 65
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 65 Instagram influencers like this in Berlin, Germany for you to connect with.
+hits: 46
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 46 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "juliananepo"
-    fullname: >-
-      Juliana Nepomuceno
-    bio: >-
-      ⭐️JUJU⭐️ . αℓℓ ωє ทєє∂ is ℓσvє αท∂ a ραssρσrτ ❤️ . in Berlin/ Modelwerk📌
-    location: "Germany"
-    followers: 38034
-    engagement: 292
-    commentsToLikes: 0.055086
-    id: ck5bx7oqen5xm0i115nwvx8gc
-    verified: false
-    hashtags: "#avoncare, #lan, #oleodeabacate, #bff"
   - username: "vanelynnofficial"
     fullname: >-
       Vanelynn™️
     bio: >-
-      #veggie #metalcore #semicolonproject 🎥 TATORT: DEUTSCHLAND 🇫🇮Aikansa kutakin MANAGEMENT @agentur_publicpeople 🖤M♊️♓️ #12years
+      #veggie #metalcore #semicolonproject 💎ACTRESS|MODEL|COACH 🇬🇧 @victoriousmgt 🇩🇪 @agentur_publicpeople 🎬 @beautyhorizonfilms
     location: "Germany"
-    followers: 27154
-    engagement: 295
-    commentsToLikes: 0.481968
+    followers: 26324
+    engagement: 268
+    commentsToLikes: 0.473707
     id: ck5pzsswp2kym0i113a13w52b
     verified: false
-    hashtags: "#infinitum, #gemeinsamgegencorona, #vorbilder, #ombre"
+    hashtags: "#gesundheit, #gemeinsamgegencorona, #scenequeens, #catwalk"
+  - username: "evilynfrantic"
+    fullname: >-
+      Evilyn Frantic
+    bio: >-
+      🤘🎪🤙 #apollonmusagete #tanz #electricsideshow #trucklife #mercedes508 Friendly neighbourhood weirdo. Cats, music, whiskey & pleather 💋
+    location: "Germany"
+    followers: 6207
+    engagement: 694
+    commentsToLikes: 0.034076
+    id: ck6uf8uw6vlom0j7178pxwm77
+    verified: false
+    hashtags: "#filmnoir, #baronofjuxtaconcept, #badbruises, #berlin"
   - username: "vonguteneltern"
     fullname: >-
       Von guten Eltern
     bio: >-
       Hebammenwissen & Elterngedanken von Anja & Christian Gaca aus Berlin Eltern von drei Töchtern & einem Sohn #vonguteneltern & Neues auf dem Blog ⬇️
     location: "Germany"
-    followers: 25218
-    engagement: 270
-    commentsToLikes: 0.090045
+    followers: 26142
+    engagement: 261
+    commentsToLikes: 0.072362
     id: ck5zkwmitkase0i142otqr8xu
     verified: false
-    hashtags: "#geburt, #vonguteneltern, #hebamme, #wochenbett"
-  - username: "annabelle_mandeng"
-    fullname: >-
-      ᴀɴɴᴀʙᴇʟʟᴇ ᴍᴀɴᴅᴇɴɢ
-    bio: >-
-      ᴀᴄᴛʀᴇss l ᴅᴜʙʙɪɴɢ ᴀᴄᴛʀᴇss l ᴘʀᴇsᴇɴᴛᴇʀ l ᴘᴀɪɴᴛᴇʀ l ᴡᴡᴡ.ᴀɴɴᴀʙᴇʟʟᴇᴍᴀɴᴅᴇɴɢ-ᴀʀᴛ.ᴄᴏᴍ @annabellemandeng_art SUPPORT TODAY’S WORLD GOLD DAY @wgd1511
-    location: "Germany"
-    followers: 31814
-    engagement: 199
-    commentsToLikes: 0.088897
-    id: ck5hog1azphvi0i11hxsqbxq3
-    verified: true
-    hashtags: "#quarantined, #quarantinelife, #thankfulgratefulblessed, #actress"
+    hashtags: "#elternsein, #hebamme, #linkinbio, #geburt"
   - username: "christianlindner"
     fullname: >-
       Christian Lindner
     bio: >-
-      🤳Chef von @fdpbt und @fdp. 🎧 Podcast @spotify: 1 Thema, 2 Farben. 📲 christian.lindner@fdp.de 📍 Berlin
+      🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
     location: "Germany"
-    followers: 167359
-    engagement: 152
-    commentsToLikes: 0.036209
+    followers: 364919
+    engagement: 216
+    commentsToLikes: 0.035443
     id: ck0twafkcemez0i19ne6t0j6h
     verified: true
-    hashtags: "#deutschland, #lockdown, #freiheit, #trump"
-  - username: "hihadnet"
+    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
+  - username: "luise.heyer"
     fullname: >-
-      Hadnet Tesfai
+      Luise Heyer
     bio: >-
-      Cashmere and rap. she/her
+      Official Press Account // 🎥 +🍿2021: Generation Beziehungsunfähig, Nahschuss, Laura‘s Stern Film: @fitz_skoglund PR & Social Media: @zta_mgmt
     location: "Germany"
-    followers: 28741
-    engagement: 546
-    commentsToLikes: 0.017489
-    id: ck5hog25sphy00i11zw6vlru6
-    verified: true
-    hashtags: "#samesamebutdifferent, #verantwortungtragen, #niewiederleise, #siblinglove"
-  - username: "marinajacb"
-    fullname: >-
-      M A R I N A ☀️ 25
-    bio: >-
-      📍Dortmund, GER 📚 Geography ⠀ 🏃🏽‍♀️ Running 🚴🏽‍♀️ Roadbike 2️⃣1️⃣ @berlinmarathon
-    location: "Germany"
-    followers: 5136
-    engagement: 799
-    commentsToLikes: 0.044138
-    id: ck0vx3cagwxgy0i19s9p095w9
+    followers: 16998
+    engagement: 424
+    commentsToLikes: 0.014128
+    id: ck6tw3f9qpsiw0j71n7fubmzz
     verified: false
-    hashtags: "#goodtimeswithgoodpeople, #bunert, #selfie, #happygirl"
-  - username: "thestyleograph"
+    hashtags: ""
+  - username: "leonielomann"
     fullname: >-
-      The Styleograph
+      Leonielomann
     bio: >-
-      Street Style - Fashion - Photography 📷 Christian Vierig 🌍 traveling the world 📍 Berlin 👉 BOOKINGS: info@thestyleograph.com
+      Model based in Hamburg/ Bremen/Bremerhaven
     location: "Germany"
-    followers: 437741
-    engagement: 103
-    commentsToLikes: 0.004916
-    id: ck0tw6mg5e9160i19ofdeqq1i
+    followers: 5500
+    engagement: 461
+    commentsToLikes: 0.030458
+    id: ck5hlyvgol3ty0i11jbtkguxg
     verified: false
-    hashtags: "#womensfashion, #sonialyson, #fashionmoment, #pfw"
-  - username: "ralph_morgenstern"
-    fullname: >-
-      Ralph Morgenstern
-    bio: >-
-      German Actor and Host #ralphmorgenstern
-    location: "Germany"
-    followers: 19384
-    engagement: 332
-    commentsToLikes: 0.194119
-    id: ck5hp7046quzt0i11ur5ruk6i
-    verified: false
-    hashtags: "#ralphmorgenstern, #online, #lyrik, #actorslife"
+    hashtags: "#fashionphotography, #berlincitygirl, #modelshoot, #portraitphotography"
   - username: "christiantorez"
     fullname: >-
-      CHRISTIAN TOREZ MAKEUPARTIST
+      CHRISTIAN TOREZ
     bio: >-
-      MAKEUPARTIST | PHOTOGRAPHER 📍 BERLIN & WORLDWIDE MANAGEMENT • jana.limbach@divimove.com TIKTOK - 260k+🌈
+      BERLIN | COLOGNE TIKTOK - 300k+ Founder - @notinlineofficial Impressum - @maui.impressum
     location: "Germany"
-    followers: 97598
-    engagement: 1040
-    commentsToLikes: 0.023603
+    followers: 117645
+    engagement: 965
+    commentsToLikes: 0.014168
     id: ckap02kf5ofot0i78zfx4i0y0
     verified: true
-    hashtags: "#makeup, #makeuplook, #makeupartist, #beautyphotography"
+    hashtags: "#gay, #lgbtq, #ootd"
+  - username: "rick.okon"
+    fullname: >-
+      Rick Okon
+    bio: >-
+      Actor Berlin PR: @silviaschumacherpr
+    location: "Germany"
+    followers: 16902
+    engagement: 1765
+    commentsToLikes: 0.029495
+    id: ck0vy48l525xe0i19b7bofu62
+    verified: false
+    hashtags: "#season2, #zdf, #dasboot, #tatort"
+  - username: "paula.kalenberg"
+    fullname: >-
+      Paula Kalenberg
+    bio: >-
+      ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ Berufliche Anfragen bitte an: ◻️ @birnbaum.berlin ◻️ >> siehe Kontakte ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡
+    location: "Germany"
+    followers: 11263
+    engagement: 880
+    commentsToLikes: 0.019235
+    id: ck5bxbrywnf540i11payxta6p
+    verified: false
+    hashtags: "#joopvintage, #bullerei, #wolfganggross, #jetztgehtslos"
+  - username: "ingajackson"
+    fullname: >-
+      Inga Jackson
+    bio: >-
+      Berlin based
+    location: "Germany"
+    followers: 5220
+    engagement: 1033
+    commentsToLikes: 0.057187
+    id: ck5bvvrp2khy60i11l5kwqswm
+    verified: false
+    hashtags: "#hefeweizendurst"
 ---

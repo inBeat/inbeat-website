@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Australia In 2022
+title: Top 10 Runners Instagram Influencers In Australia In 2023
 description: >-
-  Find top runners Instagram influencers in Australia in 2022. Most popular hashtags: #plantbased #tgif #wegotnow.
+  Find top runners Instagram influencers in Australia in 2023. Most popular hashtags: #cleaneating #fitnessfreak #track.
 platform: Instagram
-hits: 62
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 62 Instagram influencers like this in Australia for you to work with.
+hits: 47
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 47 Instagram influencers like this in Australia for you to contact.
 profiles:
   - username: "fitfastfoods"
     fullname: >-
       CAROLENA KOSTAS
     bio: >-
-      Runner 🏃‍♀️ | Fit & Fast Recipes👩‍🍳 | Sydney 🇦🇺 | Digital Marketing & Communications👩‍💻 | 💌fitfastfoods@yahoo.com.au
+      Runner 🏃‍♀️| Fit & Fast Recipes 👩‍🍳 | Sydney 🇦🇺 | 💌 fitfastfoods@yahoo.com.au @viciswim Athlete “FITFAST10” 🏊‍♀️ @workoutmeals “CAROLENA10” 💪
     location: "Australia"
-    followers: 30188
-    engagement: 698
-    commentsToLikes: 0.059334
+    followers: 28876
+    engagement: 691
+    commentsToLikes: 0.061729
     id: ck5hn62z0n9y20i11te9pamgm
     verified: false
-    hashtags: "#plantbased, #barillaaus, #gifted, #vegan"
-  - username: "kylie_m_brown"
-    fullname: >-
-      Kylie Brown
-    bio: >-
-      Wife | Mumma 👧🏼👦🏼👩🏻 | Beauty Therapist 📩 kyliebrownbeauty@gmail.com @endo.runner Running page
-    location: "Australia"
-    followers: 51078
-    engagement: 296
-    commentsToLikes: 0.033496
-    id: ck5c1bwsnuv340i11hvhejak3
-    verified: false
-    hashtags: "#butterflyrunners, #takeflight, #lockdown, #homeschooling"
-  - username: "monicaplaza"
-    fullname: >-
-      🇧🇷🇦🇺Runner | Sporty Lifestyle
-    bio: >-
-      🏃🏻‍♀️Health-Conscious Runner Type ☀️ Beach Trips Girly 🌻Just smile! 💪Ambassador @virginactiveaustralia 📍Sydney, Australia 📩hello@monicaplaza.info
-    location: "Australia"
-    followers: 43972
-    engagement: 136
-    commentsToLikes: 0.057791
-    id: ck8t8p0whl7m70j781swxjr6z
-    verified: false
-    hashtags: "#city2surfvr, #visitnewcastle, #catherinehillbay, #amimegusta"
-  - username: "ollihoare"
-    fullname: >-
-      Oliver Hoare
-    bio: >-
-      Aussie boi. 🐨 running on clouds as a professional runner for @on_running ☁️. Training in Boulder CO. OAC. TBTC.
-    location: "Australia"
-    followers: 6142
-    engagement: 2387
-    commentsToLikes: 0.016049
-    id: ck0vvseruqjru0i19u6rf3ao1
-    verified: false
-    hashtags: "#whereisolin, #oac, #b1g9"
-  - username: "nanaaowusu"
-    fullname: >-
-      
-    bio: >-
-      Full time Aries | Part time Runner ￼💫 @domoreproject_
-    location: "Australia"
-    followers: 8423
-    engagement: 1228
-    commentsToLikes: 0.022357
-    id: ck6two5fht4h70j71a4o0fide
-    verified: false
-    hashtags: "#collab, #blackouttuesday, #indigenouslivesmatter, #domore"
+    hashtags: "#partner"
   - username: "lixsanyee"
     fullname: >-
       Alex Yee
     bio: >-
       Triathlete/Runner Lewisham to the World. Life is long but life is short Proudly: @newbalance @trekraceshop @oakleybike @huubdesign @maurten_official
     location: "Australia"
-    followers: 21689
-    engagement: 1686
-    commentsToLikes: 0.003476
+    followers: 62306
+    engagement: 1328
+    commentsToLikes: 0.029354
     id: ck0ttv1bv4flo0i19h7qtlbb0
     verified: false
-    hashtags: "#wegotnow, #homeadvantage, #futuresinthebalance, #hailmary"
-  - username: "bellapaigeofficial"
+    hashtags: "#dontregretit, #iswearyoudotriathlon, #deaddip, #homeadvantage"
+  - username: "ollihoare"
     fullname: >-
-      B E L L A  P A I G E
+      Oliver Hoare
     bio: >-
-      ⚡️ 19 | Singer ✖️ Songwriter 📍 Melb, Aus ✌️ The Voice AU Runner Up S7 💌 Bookings/collabs → bellapaigemusic@gmail.com
+      Aussie boi. Professional runner for @on_running ☁️. Training in Boulder CO. OAC. TBTC.
     location: "Australia"
-    followers: 33198
-    engagement: 576
-    commentsToLikes: 0.024817
-    id: ck15qtspd4lwd0i197dc2u1dv
+    followers: 7109
+    engagement: 2282
+    commentsToLikes: 0.013989
+    id: ck0vvseruqjru0i19u6rf3ao1
     verified: false
-    hashtags: "#raisethecurtain, #sing, #live, #music"
-  - username: "daveridley"
+    hashtags: "#whereisolin, #oac, #digdeeper, #customr8"
+  - username: "fitgirl_sneha"
     fullname: >-
-      Dave Ridley
+      Sneha Thakkar🌻l Fitness Coach
     bio: >-
-      🏃🏼 Runner | 2:19 Marathon ~ 64:43 Half ⏱ Coach @nikerunning Australia 🥤@ScienceInSport Athlete 🤑 Ad Man @acreativeagency 👣 Site | daveridley.com
+      Runner I Powerlifting I Personal Trainer Certified Marathon Trainer Statistician l Data Science l Health l Fitness✨💪🏽 Lift heavy & live happy🏋️‍♀️❤️
     location: "Australia"
-    followers: 12625
-    engagement: 839
-    commentsToLikes: 0.013361
-    id: ckaovcele3zc30i78nugzw4m3
+    followers: 4052
+    engagement: 2133
+    commentsToLikes: 0.036547
+    id: ck6tkbrlt4e180j712l4163n0
     verified: false
-    hashtags: "#theline, #virtualr4k, #youcantstoptherun"
+    hashtags: "#runnerscommunity, #runhappy, #runningcoach, #strengthcoach"
   - username: "georgia_dsmith"
     fullname: >-
       G E O R G I A
     bio: >-
       19 | Perth | @nickmitic_ ❤️ Paris 📍 Moulin Rouge 💃🏽 Freelance model - dm/email me💋 Runner up Miss World Australia ✨
     location: "Australia"
-    followers: 4527
-    engagement: 1583
-    commentsToLikes: 0.026986
+    followers: 4684
+    engagement: 1463
+    commentsToLikes: 0.026428
     id: ck6tv0s47jj0x0j71n7i5z5o9
     verified: false
-    hashtags: "#eletricbike, #spiltdrinks, #goals"
+    hashtags: "#spiltdrinks, #goals, #eletricbike"
   - username: "heidisee_"
     fullname: >-
       HEIDI SEE
     bio: >-
-      Aussie pro distance runner. 🇦🇺 foodie | beach baby | cat lady Based in San Diego. 🇺🇸
+      Aussie living in San Diego 🇦🇺🇺🇸 Pro runner @2xu / @goldencoasttc 🏃🏻‍♀️ Founder @boho_kitty 👸🏻 travel • fitness • design • food
     location: "Australia"
-    followers: 38478
-    engagement: 320
-    commentsToLikes: 0.008935
+    followers: 38014
+    engagement: 327
+    commentsToLikes: 0.012103
     id: ck138apwkfbtv0i19wim9q33h
     verified: false
-    hashtags: "#backontrack, #tgif, #heidandeat, #oneweekatatime"
+    hashtags: "#ttty, #2xu, #thankful, #loveyou"
+  - username: "bubblesprouse"
+    fullname: >-
+      Charlotte Olivia Prouse
+    bio: >-
+      • @unmloboxctf / MS student in Health ED • 2x NCAA Runner-Up, 5x All-American, Junior Western Hemisphere Steeple Record Holder • Team Canada Steepler
+    location: "Australia"
+    followers: 4974
+    engagement: 1610
+    commentsToLikes: 0.016495
+    id: ck55jsy46xoa20i1177sf95kf
+    verified: false
+    hashtags: "#backtoittomorrow, #canadaday, #moscowmolly, #rodeoinrodeo"
+  - username: "gengen_lacaze"
+    fullname: >-
+      Genevieve Gregson née LaCaze
+    bio: >-
+      Professional Runner 2 x Olympic Finalist 2 x World Champs Finalist AUSTRALIAN RECORD HOLDER Fueled by @mymusclechef
+    location: "Australia"
+    followers: 139274
+    engagement: 364
+    commentsToLikes: 0.008343
+    id: ck5zsqctsyzvx0i1448qn9d9j
+    verified: true
+    hashtags: "#tracktuesday, #track, #roadracing, #10km"
+  - username: "markjdavidson"
+    fullname: >-
+      Mark Davidson | Melbourne
+    bio: >-
+      ⇲ radio producer • photographer ⍟ Runner-up Australian Photography Awards 2020 ⍟ Runner-up Mono Awards 2020
+    location: "Australia"
+    followers: 4552
+    engagement: 1859
+    commentsToLikes: 0.074074
+    id: ckf5oe3qe1w6l0j23aj508m1f
+    verified: false
+    hashtags: ""
+  - username: "morganmcdonald__"
+    fullname: >-
+      chicken boy morgs
+    bio: >-
+      professional runner for @underarmour ⠀ 4xncaa champ ⠀ aussie in Boulder, CO [team Boss pledge] gotta risk it for the biscuit ⠀ TBTC
+    location: "Australia"
+    followers: 18301
+    engagement: 2035
+    commentsToLikes: 0.013454
+    id: ck0vvsdxwqjpc0i19xxum1y2p
+    verified: true
+    hashtags: "#sponsored, #theonlywayisthrough"
 ---

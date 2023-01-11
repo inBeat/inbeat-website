@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Morocco In 2022
+title: Top 10 Food TikTok Influencers In Morocco In 2023
 description: >-
-  Find top food TikTok influencers in Morocco in 2022. Most popular hashtags: #foryou #food #fyp #tiktok.
+  Find top food TikTok influencers in Morocco in 2023. Most popular hashtags: #fyp #foodlover #food #maroc.
 platform: TikTok
 hits: 13
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 13 TikTok influencers like this in Morocco for you to contact.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Morocco for you to collaborate.
 profiles:
+  - username: "sujithbhakthan"
+    fullname: >-
+      Tech Travel Eat
+    bio: >-
+      Travel Influencer, Food Lover and a Passionate Driver
+    location: "Morocco"
+    followers: 58600
+    engagement: 616
+    commentsToLikes: 0.007072
+    id: ck9numbewnty80j78es3g8m8p
+    verified: false
+    hashtags: "#techtraveleat, #travel, #withme, #kerala"
   - username: "recette_de_hayat"
     fullname: >-
       la gourmande 😋
     bio: >-
       🇲🇦 idée de recette rapide facile et délicieuse
     location: "Morocco"
-    followers: 52300
-    engagement: 565
-    commentsToLikes: 0.020556
+    followers: 60900
+    engagement: 493
+    commentsToLikes: 0.017958
     id: cka63tg8i5x0r0i78kd7s5ksj
     verified: false
-    hashtags: "#foodlover, #yumyum, #tiktokfoodie, #tiktok"
-  - username: "houdaworld"
+    hashtags: "#foodlover, #foryou, #tiktokfoodie, #homemade"
+  - username: "ayoubffjari"
     fullname: >-
-      عالم هدى 😍
+      ❤BOBONY CLIP🎬❤
     bio: >-
-      ضيفوني على الانستجرام 😍
+      ❤RPCLIP🎬 🔥150K🔥 ❤❤لا اله الا الله ❤❤ ❤❤BONONY FAMILY❤❤
     location: "Morocco"
-    followers: 5963
-    engagement: 1182
-    commentsToLikes: 0.017438
-    id: cka630pjh2apr0i785s9n7unl
+    followers: 115800
+    engagement: 612
+    commentsToLikes: 0.029291
+    id: ck9m0zplgcqe90j78yhnhv1c5
     verified: false
-    hashtags: "#foodlover, #cakes, #explore, #food"
+    hashtags: "#vodkafunky1, #pourtoi, #trending, #choclate"
   - username: "peches_gourmands_"
     fullname: >-
       Péchés Gourmands
     bio: >-
       Follow me on Instagram @peches_gourmands_
     location: "Morocco"
-    followers: 55400
-    engagement: 360
-    commentsToLikes: 0.013262
+    followers: 57300
+    engagement: 398
+    commentsToLikes: 0.010421
     id: cka0s3kqxjq4r0i7889jyku5k
     verified: false
-    hashtags: "#recep, #tiktokfood, #casablanca, #yummy"
-  - username: "emybeauty123"
+    hashtags: "#recette, #recep, #fyp, #morocco"
+  - username: "houdalife9"
     fullname: >-
-      Màzoùz Imane
+      عالم هدى 😍
     bio: >-
-      GOOOD VIBES ONLY!!! ❤️❤️❤️❤️ Are you following me on Instagram @emybeauty123 ?
+      لا اله الا الله محمد رسول الله
     location: "Morocco"
-    followers: 2493
-    engagement: 312
-    commentsToLikes: 0.035144
-    id: ckai1ukmed9jl0i78jonrnag4
+    followers: 6200
+    engagement: 701
+    commentsToLikes: 0.024494
+    id: cka630pjh2apr0i785s9n7unl
     verified: false
-    hashtags: "#love, #followme, #xoxo, #makeup"
-  - username: "user34542583"
+    hashtags: "#food, #foodlover, #cooking, #pancakes"
+  - username: "cuisinefacilebyme"
     fullname: >-
       user345425
     bio: >-
       
     location: "Morocco"
-    followers: 16100
-    engagement: 1225
-    commentsToLikes: 0.004363
+    followers: 16600
+    engagement: 1135
+    commentsToLikes: 0.004213
     id: cka63te3t5wkh0i78nk6ofq67
     verified: false
-    hashtags: "#gateau, #tiktokhot, #astuce, #kitchen"
-  - username: "jaguarjiro"
+    hashtags: "#yummmy, #maltesers, #tik, #recette"
+  - username: "problem_solved101"
     fullname: >-
-      Jaguar❤️
+      problem solved ✔
     bio: >-
-      🔥200k🔥 New channel Gaming Free fire🔥 روسيyt official 🔥10k🔥
+      if you want any promo/collab you can dm. us on insta or gmail follow us on inst
     location: "Morocco"
-    followers: 119500
-    engagement: 1161
-    commentsToLikes: 0.006056
-    id: ck9m0zplgcqe90j78yhnhv1c5
+    followers: 11300
+    engagement: 603
+    commentsToLikes: 0.012920
+    id: ckc80rpe623ab0j23r8xjavcm
     verified: false
-    hashtags: "#foruyou, #pourtoi, #trending, #foodchallenge"
-  - username: "ttebysb"
+    hashtags: "#gagets, #product, #carproduct, #amazingproduct"
+  - username: "kapildoorkapersad"
     fullname: >-
-      Tech Travel Eat
+      Kapil Doorkapersadh
     bio: >-
-      Travel Influencer, Wanderer and Travel Blogger 
+      🇿🇦South African married to a Moroccan & living in Maroc...this is my story🇲🇦
     location: "Morocco"
-    followers: 40651
-    engagement: 749
-    commentsToLikes: 0.005644
-    id: ck9numbewnty80j78es3g8m8p
+    followers: 12900
+    engagement: 494
+    commentsToLikes: 0.096908
+    id: ckbfal3bf25z30j23wg316r3x
     verified: false
-    hashtags: "#inbtrip, #techtraveleat, #travel, #food"
-  - username: "alibelabes"
-    fullname: >-
-      Ali belabess
-    bio: >-
-      Instagram : alibelabess
-    location: "Morocco"
-    followers: 76400
-    engagement: 771
-    commentsToLikes: 0.031495
-    id: ck9bzagqennpd0j78c6fabjua
-    verified: false
-    hashtags: "#burgers, #food, #burgerporn, #workout"
-  - username: "itsyou__ssef"
-    fullname: >-
-      JOE
-    bio: >-
-      Went viral in 5 days (11M views) but tiktok said ✨no✨
-    location: "Morocco"
-    followers: 19200
-    engagement: 1156
-    commentsToLikes: 0.050420
-    id: ckb0m1uorcljc0j23zivo41ek
-    verified: false
-    hashtags: "#biden2020, #holdup, #duet, #funny"
+    hashtags: "#maroc, #travel, #foryoupage, #fyp"
   - username: "unikornelike.co"
     fullname: >-
-      💗💗💗💗VS💗💗💗💗
+      🖤Wisso🖤
     bio: >-
-      اعطتني الحياة قلم اسود 🖤 و قالت لي ارسمي قوس قزح 🌈
+      Hi😐💗
     location: "Morocco"
-    followers: 170500
-    engagement: 1225
-    commentsToLikes: 0.007273
+    followers: 165500
+    engagement: 1097
+    commentsToLikes: 0.006200
     id: ck9pm249575ef0j78za69ix78
     verified: false
-    hashtags: "#unikornelikeco, #bts, #180k, #armyforever"
+    hashtags: "#bts, #180k, #armyforever, #unikornelikeco"
+  - username: "malinoislovee"
+    fullname: >-
+      malinois
+    bio: >-
+      
+    location: "Morocco"
+    followers: 89700
+    engagement: 814
+    commentsToLikes: 0.003687
+    id: ckcdbx0q44ucz0j23giy8jb62
+    verified: false
+    hashtags: "#malinois, #dog, #animals, #malinous"
 ---

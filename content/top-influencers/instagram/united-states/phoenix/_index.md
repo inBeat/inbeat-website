@@ -1,96 +1,96 @@
 ---
-title: Top 10 Instagram Influencers In Phoenix In 2022
+title: Top 10 Instagram Influencers In Phoenix In 2023
 description: >-
-  Find top Instagram influencers in Phoenix in 2022. Most popular hashtags: #liketkit #ad #running.
+  Find top Instagram influencers in Phoenix in 2023. Most popular hashtags: #refinishedfurniture #mycolourfulupcycle #instarunners.
 platform: Instagram
-hits: 1223
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 1223 Instagram influencers like this in Phoenix, United States for you to pitch.
+hits: 1408
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 1408 Instagram influencers like this in Phoenix, United States for you to pitch.
 profiles:
-  - username: "avisamuelangel"
+  - username: "krystalmeraz"
     fullname: >-
-      𝔸𝕧𝕚 𝕒𝕟𝕘𝕖𝕝
+      Phoenix
     bio: >-
-      🔒P.O.box 10810 N. Tatum Blvd #102908 Phoenix Az 85028 United States. Actor,model,rapper,singer Tiktok:aviangel14 (156k)
+      Owner of Studio V SYTYCD Choreographer Dance and Fitness with Phoenix Online Group Training M/W/F 3pm PDT 💪🏼 DM for info! Find me on depop! Link👇🏼
     location: "United States"
-    followers: 275044
-    engagement: 996
-    commentsToLikes: 0.214969
-    id: ckap1d4kgu2td0i7887pd9m5d
+    followers: 13793
+    engagement: 282
+    commentsToLikes: 0.028050
+    id: ck5bz3qs9qdz80i112gepy5f9
+    verified: false
+    hashtags: "#queenv, #academyofvillains, #fbf, #aov"
+  - username: "jamesfelixraw"
+    fullname: >-
+      James Felix
+    bio: >-
+      DM or E-mail for rates. All models must sign a Model Release. Backup: @netfelixndchill Phoenix, AZ PATREON- Follow link ⬇️
+    location: "United States"
+    followers: 375713
+    engagement: 168
+    commentsToLikes: 0.002665
+    id: ck15q3qng0y8o0i197e529lp9
     verified: false
     hashtags: ""
+  - username: "withlovefurniture"
+    fullname: >-
+      Aida Franco
+    bio: >-
+      🪴 Brand Ambassador 🪴Furniture Artist 👩🏻‍🎨. I 💗 to express my art through my furniture designs 🪴Custom work available Phoenix Az.🌵🍃
+    location: "United States"
+    followers: 56113
+    engagement: 115
+    commentsToLikes: 0.088959
+    id: ckqu7sjxq107b0j238ssfilze
+    verified: false
+    hashtags: "#zibraweeklypick, #flippinfurnitureartist, #midcentury, #scottsdale"
+  - username: "etwaun_55"
+    fullname: >-
+      E'Twaun Moore
+    bio: >-
+      Phoenix Suns#55 Purdue University 🚂⬆️ East Chicago Raised Twitter: @ETwaun55
+    location: "United States"
+    followers: 42425
+    engagement: 767
+    commentsToLikes: 0.019135
+    id: ck0w5biar2ucc0i19bizfo3af
+    verified: true
+    hashtags: "#nbafinals, #nbaplayoffs, #phoenixsuns, #nba"
+  - username: "rummingthroughthe6"
+    fullname: >-
+      Lindsey Rummings, SPT
+    bio: >-
+      Col❄️rado/San Dieg☀️ LA Jan-MidMar SDSU Doctorate of Physical Therapy ‘21 🇺🇸🇵🇭🇩🇪🇵🇱 8 Billboards Times Square, LA, Atlanta, San Jose, Stockton, Phoenix
+    location: "United States"
+    followers: 26239
+    engagement: 457
+    commentsToLikes: 0.311499
+    id: ck8t7dh8rgek50j78bfraiy9b
+    verified: false
+    hashtags: "#sheinbikini, #sheinbikinihaul, #sheinbeachwear, #bombaybeach"
   - username: "tysonhugie"
     fullname: >-
       Tyson Hugie
     bio: >-
       Phoenix, Arizona
     location: "United States"
-    followers: 7070
-    engagement: 1402
-    commentsToLikes: 0.058346
+    followers: 7283
+    engagement: 1438
+    commentsToLikes: 0.049936
     id: ck5ccp87khris0i1168fy6y30
     verified: false
-    hashtags: "#34048"
-  - username: "ohprettydaze"
-    fullname: >-
-      Diana Wakefield
-    bio: >-
-      ☼ phoenix, az ⋒ lifestyle + dog mom vibes ⟡ ohprettydaze@gmail.com ⇣ SHOP COMING SOON
-    location: "United States"
-    followers: 17423
-    engagement: 374
-    commentsToLikes: 0.199051
-    id: ck5c1qlxevq550i11kr4er521
-    verified: false
-    hashtags: "#clifbarcrew, #supportlocalartists, #brooklinen, #mybrooklinenstyle"
-  - username: "briannatraynor"
-    fullname: >-
-      BRIANNA
-    bio: >-
-      phoenix, az 🌵 wife | mama to jax + quinn blogger | youtuber ♡
-    location: "United States"
-    followers: 25077
-    engagement: 279
-    commentsToLikes: 0.072548
-    id: ck0u8zpb88qpm0i1959se94fx
-    verified: false
-    hashtags: "#revolveambassador, #brotherandsister, #revolveme, #christmasdecor"
-  - username: "stylesrevealed"
-    fullname: >-
-      SUSAN
-    bio: >-
-      Affordable Fashion| Lifestyle| Boy 💙💙 Mom Let’s Collab 💌susan@stylesrevealed.com AZ Life 🌵 Love Target 🎯 & SALES🙌🏼 📍#Phoenix, AZ 🌵 Outfit Details ⬇️
-    location: "United States"
-    followers: 35565
-    engagement: 199
-    commentsToLikes: 0.064683
-    id: ck5c23bwtwguc0i111agtwl57
-    verified: false
-    hashtags: "#osmosocialclub, #liketkit, #myfabkids, #kingofchristmas"
-  - username: "_phoenix_brierre_"
-    fullname: >-
-      ph03n1x
-    bio: >-
-      Snap • phoenixcosato TikTok • phoenixxxx07 (240k) YouTube • Phoenix Cosato DM- for promotions & business
-    location: "United States"
-    followers: 15521
-    engagement: 2344
-    commentsToLikes: 0.019316
-    id: ckap8oylhpbau0i78lradagj3
-    verified: false
     hashtags: ""
-  - username: "nextlevel_03"
+  - username: "jaydon.harvey"
     fullname: >-
-      Jevon Carter
+      jay
     bio: >-
-      Phoenix Suns 🏀 #NBA #WVUAlumni🏀 #ProvisoEast #NLP #Maywood #Illinois R.I.P. Grandma-Granddad❤️ 👻 Next_level02 For Any Inquiries- Email 📧
+      @phoenixmodelmanagement @fivetwentymgt @moonlightbyjaydon @aplacetoponder
     location: "United States"
-    followers: 65396
-    engagement: 709
-    commentsToLikes: 0.013394
-    id: ck0w0nykyf63l0i193ayi0wd8
-    verified: true
-    hashtags: "#treadmillmentality, #bulldog, #blacklivesmatter"
+    followers: 11294
+    engagement: 1499
+    commentsToLikes: 0.022797
+    id: ck5c7pxy97za70i11xf2s4ytg
+    verified: false
+    hashtags: "#tb"
   - username: "phxrunnergurl"
     fullname: >-
       Brandilynn☀️🌵
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.176532
     id: ck0tx5qevi18w0i19nf7uuwrv
     verified: false
-    hashtags: "#runnershigh, #iloverunning, #hiking, #marathontraining"
-  - username: "alannas96"
+    hashtags: "#instarunners, #hiking, #trails, #nature"
+  - username: "seannelsonphoto"
     fullname: >-
-      Alanna Simone Smith
+      Sean Nelson Photo
     bio: >-
-      🇦🇺 A . S . S. WNBA #11 Phoenix Mercury Nike athlete |Former Stanford WBB 🏀🌲|
+      Las Vegas based Travel Schedule: Phoenix | San Antonio | Portland
     location: "United States"
-    followers: 14832
-    engagement: 1227
-    commentsToLikes: 0.015818
-    id: ckap7mvwtkogf0i782ayyxxea
-    verified: true
-    hashtags: "#roadtotokyo, #blackouttuesday, #blacklivesmatter, #domore"
-  - username: "cassidymendezona"
-    fullname: >-
-      Cassidy Mendezona
-    bio: >-
-      Phoenix, AZ 💌cassidymendezona@gmail.com
-    location: "United States"
-    followers: 29956
-    engagement: 193
-    commentsToLikes: 0.109241
-    id: ckaoss42nsupf0i785wryg7se
+    followers: 89333
+    engagement: 194
+    commentsToLikes: 0.063088
+    id: ck0u0oabfubt50i19u2wtv7m9
     verified: false
-    hashtags: "#lulusambassador, #lovelulus, #ad, #justfabpartner"
+    hashtags: "#canonshooter, #canonshooters, #canonr5, #fitlifestyles"
+  - username: "ohprettydaze"
+    fullname: >-
+      Diana ✨
+    bio: >-
+      ⋒ Lifestyle • Decor • Dog Mama x3 ☼ New York / Phoenix / Los Angeles ⟡ Let me decorate your house thx ⌂
+    location: "United States"
+    followers: 16971
+    engagement: 320
+    commentsToLikes: 0.109129
+    id: ck5c1qlxevq550i11kr4er521
+    verified: false
+    hashtags: "#vasagle, #gettogether, #marleypartner"
 ---

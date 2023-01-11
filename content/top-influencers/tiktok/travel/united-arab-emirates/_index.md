@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Travel TikTok Influencers In United Arab Emirates In 2023
 description: >-
-  Find top travel TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #tiktokdubai #dance #foryou #dubai.
+  Find top travel TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #trending #foryou #tiktok #dubai.
 platform: TikTok
-hits: 76
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 76 TikTok influencers like this in United Arab Emirates for you to work with.
+hits: 72
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 72 TikTok influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "deepz_deepa"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       To laugh, to read,to travel ❤️ Kl14, Rak No chat pls Dec 29
     location: "United Arab Emirates"
-    followers: 49200
-    engagement: 3446
-    commentsToLikes: 0.121149
+    followers: 49400
+    engagement: 2958
+    commentsToLikes: 0.147991
     id: ckbwi6tae32sj0j23vrb0mqq1
     verified: false
-    hashtags: "#expression, #malayalamcomedy, #viral, #moves"
+    hashtags: "#forupage, #trending, #tiktok, #song"
   - username: "amjad_ali_speaks"
     fullname: >-
       Amjad Ali Speaks
     bio: >-
-      Businessman | Motivational Speaker | Executive Coach | Author | World Traveler
+      Businessman | Speaker | Coach | World Traveler
     location: "United Arab Emirates"
-    followers: 430900
-    engagement: 1571
-    commentsToLikes: 0.020935
+    followers: 521300
+    engagement: 1406
+    commentsToLikes: 0.021487
     id: ck9e3mqmyk6sl0j78hqn5iavr
     verified: false
-    hashtags: "#amjadalispeaks, #aasmessage, #mydubai, #aasmotivation"
-  - username: "sukanyatamilpoonu"
+    hashtags: "#amjadalispeaks, #tiktok, #foryou, #worldleaders"
+  - username: "sukanyatamilponnu"
     fullname: >-
       Sukanya Chinnaswamy 
     bio: >-
       Follow and meet me on- Instagram 👍 🔝 #tamilpoonu #travellife #dancer 🇮🇳🇱🇰
     location: "United Arab Emirates"
-    followers: 31100
-    engagement: 1787
-    commentsToLikes: 0.051471
+    followers: 41100
+    engagement: 1556
+    commentsToLikes: 0.049594
     id: ckbbcbbm91d490j23pvokeqh5
     verified: false
-    hashtags: "#dubaipullingo, #dance, #tamil, #tamilpoonu"
+    hashtags: "#trending, #fyp, #newyork, #tamilponnu"
   - username: "ralucazengatik"
     fullname: >-
       Raluca Rebedea Zenga
     bio: >-
       Just for a chuckle 🤭 📍Dubai, UAE 🇦🇪 Follow us on IG @ralucazenga.travels
     location: "United Arab Emirates"
-    followers: 12700
-    engagement: 1197
-    commentsToLikes: 0.038546
+    followers: 12600
+    engagement: 1062
+    commentsToLikes: 0.031708
     id: ckcj2ut8g4huo0j23adqx6xd2
     verified: false
-    hashtags: "#tiktokdubaiuae, #animelovers, #gamersdoingthings, #dubaitiktokers"
-  - username: "oftravelsandtales"
+    hashtags: "#glowup, #tiktokdubaiofficial, #beachvibes, #animelover"
+  - username: "user52505163"
     fullname: >-
-      Delaine + Jack | Travel & Food
+      Drama girl@sherins
     bio: >-
-      IG: 108K ↗️ travel bloggers & foodies sharing epic places & plates ✈🍴 📍UAE
+      Eat sleep travel repeat Follow me on insta -iam_sherin_shajeel
     location: "United Arab Emirates"
-    followers: 12000
-    engagement: 318
-    commentsToLikes: 0.064485
-    id: ckai927yt6l9i0i7805gh2s40
+    followers: 28300
+    engagement: 900
+    commentsToLikes: 0.030130
+    id: ckbwgngfr2kjq0j23bftl0l7m
     verified: false
-    hashtags: "#dessertlovers, #uaefood, #hungryaf, #krispykremedonuts"
+    hashtags: "#tamilmuser, #malayalam, #parippuvada, #kattankappi"
+  - username: "hadiaghaleb"
+    fullname: >-
+      Hadia Ghaleb
+    bio: >-
+      CEO of Hadia Ghaleb fashion travel entrepreneurship• srsly CEO @gph__• 🇦🇪Dubai
+    location: "United Arab Emirates"
+    followers: 1000000
+    engagement: 844
+    commentsToLikes: 0.016576
+    id: ckb9rq8mfoijg0j23vc7wpl4p
+    verified: true
+    hashtags: "#fashion, #vlog, #teamelghaleb, #vlogelghaleb"
+  - username: "arunmshaji"
+    fullname: >-
+      rx_pilot_47
+    bio: >-
+      kL 4️⃣7️⃣💪 2stroker♥️ human but psyco👽 traveller boy🏍️ single🚶
+    location: "United Arab Emirates"
+    followers: 4504
+    engagement: 2150
+    commentsToLikes: 0.014217
+    id: ckbke4gx54og80j2325gq9tv3
+    verified: false
+    hashtags: "#save2stroke, #baelove, #rxz, #rx100"
   - username: "jaidiiii"
     fullname: >-
       🔥JD🔥
     bio: >-
       Majid Khan Insta : Jaidiii 👻 Jaidiii Travel Lover ✈️. 🇵🇰 🇦🇪
     location: "United Arab Emirates"
-    followers: 56900
-    engagement: 1080
-    commentsToLikes: 0.055644
+    followers: 55700
+    engagement: 1079
+    commentsToLikes: 0.049199
     id: ck9slqew9fapd0j78hx4k35il
     verified: false
-    hashtags: "#foryou, #jaidiiii, #tiktokpak, #funnyvideos"
+    hashtags: "#funnyvideos, #tiktokpakistan, #browmunde, #tiktokpak"
   - username: "wenjiajess"
     fullname: >-
       Jessica
     bio: >-
       🇦🇪🇦🇺🇨🇳 Travel | Fitness | Fashion IG: WENJIAJESSICA
     location: "United Arab Emirates"
-    followers: 22800
-    engagement: 649
-    commentsToLikes: 0.037463
+    followers: 22700
+    engagement: 654
+    commentsToLikes: 0.040176
     id: ckbqintsr3se20j23v6v7w46d
     verified: false
-    hashtags: "#fitness, #healthy, #firgirl, #stayhealthy"
-  - username: "osmium08"
+    hashtags: "#summervibes, #fruit, #brother, #happy"
+  - username: "oftravelsandtales"
     fullname: >-
-      Mahi
+      Delaine & Jack Dsouza
     bio: >-
-      🤪Instagram: osmium08🤪 ⭐Abu dhabi⭐ Arts || Style || Fashion || Travel || Photos
+      118K on IG, Lets hang👆 ❥ Millenial M'lorean Couple TRAVEL. EAT. REPEAT✈🍴 📍UAE
     location: "United Arab Emirates"
-    followers: 63200
-    engagement: 481
-    commentsToLikes: 0.036194
-    id: ckavm14mevmbx0j23t23pjtlw
-    verified: true
-    hashtags: "#contentcreator, #fashionweek, #fashionhacks, #homeconcert"
-  - username: "isabelle_sk"
-    fullname: >-
-      Isabelle.sk
-    bio: >-
-      Fashion/ beauty /travel 🇦🇪 to the world Instagram @isabelle.sakaian
-    location: "United Arab Emirates"
-    followers: 44900
-    engagement: 246
-    commentsToLikes: 0.037615
-    id: ckb9extlz31b70j23z88zgzew
+    followers: 35000
+    engagement: 420
+    commentsToLikes: 0.070838
+    id: ckai927yt6l9i0i7805gh2s40
     verified: false
-    hashtags: "#beauty, #dubai, #skincare, #skincareroutine"
-  - username: "treshabck"
-    fullname: >-
-      Tresha Bucktowsing
-    bio: >-
-      Insta: Tresha.bucktowsing Frenchie in Dubai #food #fashion #travel #lifestyle
-    location: "United Arab Emirates"
-    followers: 5529
-    engagement: 745
-    commentsToLikes: 0.032411
-    id: ckaupn4enurhi0j23pakpobqy
-    verified: false
-    hashtags: "#fypage, #dubailife, #pourtoii, #latino"
+    hashtags: "#balkantravel, #travelinfluencers, #wheretoeat, #dessertlove"
 ---

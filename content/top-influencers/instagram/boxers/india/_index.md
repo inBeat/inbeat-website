@@ -1,130 +1,130 @@
 ---
-title: Top 10 Boxers Instagram Influencers In India In 2022
+title: Top 10 Boxers Instagram Influencers In India In 2023
 description: >-
-  Find top boxers Instagram influencers in India in 2022. Most popular hashtags: #instagram #photography #motivation #india.
+  Find top boxers Instagram influencers in India in 2023. Most popular hashtags: #motivation #mumbai #travel.
 platform: Instagram
-hits: 46
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 46 Instagram influencers like this in India for you to contact.
+hits: 38
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 38 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "pardeepkharera1"
+  - username: "dr.richa.negi"
     fullname: >-
-      Pardeep Kharera
+      Richa
     bio: >-
-      WBC ASIAN TITLE CHAMPION 🏆 PROFESSIONAL INTERNATIONAL BOXER RUBARU MR.INDIA UNITED CONTINENTS 2018
+      Shuffler🕺🏻 Boxer 🥊 Budding Dermatologist 👩🏻‍⚕️ . Expert At Doing A Million Things,Messily😋
     location: "India"
-    followers: 85865
-    engagement: 484
-    commentsToLikes: 0.032838
-    id: ck0tuumb08qof0i19m64d9zhu
+    followers: 271708
+    engagement: 635
+    commentsToLikes: 0.014055
+    id: ck15t8yabgwvt0i19qla1bx8w
+    verified: false
+    hashtags: "#beautiful, #bollywood, #shuffle, #trend"
+  - username: "prophetic.k"
+    fullname: >-
+      Ms.Kim👸🏽
+    bio: >-
+      I love the Lord! Jesus is my best friend. I am a woman of Faith with a Vision! #ODU24 Boxer,Writer Motivational-Minister Entrepreneur! #promoter
+    location: "India"
+    followers: 8750
+    engagement: 997
+    commentsToLikes: 0.058261
+    id: ck6u4p63450ff0j71kin7pqgi
+    verified: false
+    hashtags: "#builtdifferent, #bigceo, #respectfully"
+  - username: "neeraj_goyat"
+    fullname: >-
+      Neeraj Goyat
+    bio: >-
+      Professional Boxer 🇮🇳
+    location: "India"
+    followers: 28283
+    engagement: 832
+    commentsToLikes: 0.015795
+    id: ck136e5n161py0i19paocvu8w
     verified: true
-    hashtags: "#fashion, #outfitoftheday, #behappy, #branding"
+    hashtags: "#gangster, #motivation, #fit, #haryanavi"
   - username: "mkslattery"
     fullname: >-
       Mary-Kate Slattery
     bio: >-
-      ;) Boxer fighting out of @orourkesgym Masters student, International Peace Studies 🦋🌈🌞💓✨🐇🐯🧚🏽‍♂️🕺🔮🗡
+      Howya ;) Boxer fighting out of @orourkesgym Law | Peace Studies Masters student @trinitycollegedublin
     location: "India"
-    followers: 17084
-    engagement: 924
-    commentsToLikes: 0.012341
+    followers: 17639
+    engagement: 951
+    commentsToLikes: 0.010538
     id: ck601bmoef6us0i14qi14j2c6
     verified: false
-    hashtags: "#orourkesgym, #lsswomen, #internationalwomensday, #blackouttuesday"
-  - username: "little_champion._"
+    hashtags: "#blackouttuesday"
+  - username: "pardeepkharera1"
     fullname: >-
-      Gokul Drago
+      Pardeep Kharera
     bio: >-
-      🍻Party hard on Dec 16 📌@dc_photographe__ 👊🏻Temp boxer ❤️love @cj_the_pug_ 🚗Night trippers ➿Tattooed ⚫️Black addict 📷Adobe Photoshop
+      RUBARU MR.INDIA 2018 🥇 WBC ASIAN TITLE CHAMPION 🥇 PROFESSIONAL INTERNATIONAL BOXER👊🏻🏅
     location: "India"
-    followers: 17950
-    engagement: 549
-    commentsToLikes: 0.035843
-    id: ck9wg09m2rbeb0j78knliknc3
-    verified: false
-    hashtags: "#indiagram, #coimbatorian, #mypixeldiary, #lovefailure"
-  - username: "nishant_._06"
-    fullname: >-
-      Nishant karande🌐
-    bio: >-
-      🥊👊Boxer👊🥊 💪Mumbaiker💪 🙏Bappa lover🙏 #IES #Sigal MoM&DAD
-    location: "India"
-    followers: 19915
-    engagement: 99
-    commentsToLikes: 0.156078
-    id: ck8t927zxmp3f0j782ieywkor
-    verified: false
-    hashtags: "#aadil, #team, #hasnaink07, #addylover"
+    followers: 116103
+    engagement: 267
+    commentsToLikes: 0.012517
+    id: ck0tuumb08qof0i19m64d9zhu
+    verified: true
+    hashtags: "#couplelove, #actor, #showtime, #mrskharera"
   - username: "theindianmotorcyclist"
     fullname: >-
       Vinay Maurya🇮🇳
     bio: >-
       Riding solo across India for helmet awareness with #HelmetDaalo campaign | Road Safety Activist | Helmet-Man of India | Indian National Boxer🇮🇳 |MH 01
     location: "India"
-    followers: 8456
-    engagement: 801
-    commentsToLikes: 0.035169
+    followers: 8540
+    engagement: 1020
+    commentsToLikes: 0.027717
     id: ck55pfdbdag0q0i11mv3d13vs
     verified: false
-    hashtags: "#thunderbird, #roadtrip, #bikelife, #leh"
+    hashtags: "#thunderbird, #royalenfield, #helmetdaalo, #motorcycle"
   - username: "dha_herbie_boi"
     fullname: >-
-      valeyellow 46🔵
+      valeyellow 46
     bio: >-
-      #biker_boi 🔒 #boxer🥊 #wanderlust 💋 #stunt_lover 😘 #offroading DM for collaboration 📩 Sponsor @helmet_zone_kollam
+      biker_boi 🔒 boxer🥊 wanderlust 💋 stunt_lover 😘 offroading DM for collaboration 📩 Sponsor @helmet_zone_kollam
     location: "India"
-    followers: 15209
-    engagement: 1970
-    commentsToLikes: 0.044561
+    followers: 15502
+    engagement: 1741
+    commentsToLikes: 0.035837
     id: ck8t6b6blcy0u0j78bbg2au51
     verified: false
-    hashtags: ""
-  - username: "dr.richa.negi"
-    fullname: >-
-      Richa
-    bio: >-
-      Shuffler🕺🏻 Boxer 🥊 BornOnInstagram 💌 Dermatologist In The Making 👩🏻‍⚕️ . Expert At Doing A Million Things,Messily😋
-    location: "India"
-    followers: 283668
-    engagement: 1538
-    commentsToLikes: 0.026173
-    id: ck15t8yabgwvt0i19qla1bx8w
-    verified: false
-    hashtags: "#love, #shuffle, #dancer, #bollywood"
+    hashtags: "#bikersofindia, #bikerlife, #gear, #art"
   - username: "agent_bavo"
     fullname: >-
       Agent_Bavo
     bio: >-
       Tanzanian Best Action Actor Kapuela, Acrobatic, Martialarts,Kick boxer and Movie stunt. Subscribe to YouTube Channel👇🏽👇🏽👇🏽👇🏽
     location: "India"
-    followers: 45705
-    engagement: 307
-    commentsToLikes: 0.051689
+    followers: 50935
+    engagement: 329
+    commentsToLikes: 0.036809
     id: ck5q8v42683br0i11n115d7e2
     verified: false
-    hashtags: "#aftop"
-  - username: "boxeramitpanghalofficial"
+    hashtags: ""
+  - username: "leyla.loveslife"
     fullname: >-
-      𝐀𝐌𝐈𝐓 𝐏𝐀𝐍𝐆𝐇𝐀𝐋
+      Leyla Coenen
     bio: >-
-      Indian Boxer🇮🇳 World Rank #1 🥊 Asian Champ 2019🥇 World Championship 2019🥈 Asian Games 2018🥇 CWG 2018🥈 #MissionTokyo2021 95.amitpanghal@gmail.com
+      I’m Leyla❤️. Writer, passionate reader, dancer, DH biker, boxer, unschooled, and more. I absolutely love to travel and.... food. Nice to meet you!
     location: "India"
-    followers: 23376
-    engagement: 857
-    commentsToLikes: 0.019964
-    id: ck6trxpvc1o7t0j712kagvai4
-    verified: true
-    hashtags: "#repost, #boxing, #boxer, #olympian"
+    followers: 12966
+    engagement: 844
+    commentsToLikes: 0.037913
+    id: ck14hpr8xbim10i199veymy48
+    verified: false
+    hashtags: "#teeninfluencer, #girlswhoride, #danceismylife, #ilovedancing"
   - username: "cutman_muneer"
     fullname: >-
       Abdul Muneer
     bio: >-
-      Pro fighter MMA Boxer Kickboxer Fitnessmodel Lives in Bangalore
+      Pro fighter MMA Boxer Kickboxer Fitnessmodel Lives in Bangalore Email for collaboration📩 npamuneer@gmail.com
     location: "India"
-    followers: 6506
-    engagement: 564
-    commentsToLikes: 0.025481
+    followers: 6952
+    engagement: 696
+    commentsToLikes: 0.024161
     id: ck6u0w231i2l20j7138ciue6f
     verified: false
-    hashtags: "#mma, #boxing, #fighter, #sfl"
+    hashtags: "#motivation, #fighter, #kerala, #mma"
 ---

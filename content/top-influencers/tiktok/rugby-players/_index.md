@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rugby Players TikTok Influencers In 2022
+title: Top 10 Rugby Players TikTok Influencers In 2023
 description: >-
-  Find top rugby players TikTok influencers in 2022. Most popular hashtags: #rugby #fyp #foryou #viral.
+  Find top rugby players TikTok influencers in 2023. Most popular hashtags: #rugby #fyp #foryou #duet.
 platform: TikTok
-hits: 15
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 15 TikTok influencers like this for you to collaborate.
+hits: 17
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 17 TikTok influencers like this for you to contact.
 profiles:
   - username: "rojamalayam007"
     fullname: >-
@@ -13,24 +13,36 @@ profiles:
     bio: >-
       tvm based1989 model Rugby player.
     location: "India"
-    followers: 9376
-    engagement: 1800
-    commentsToLikes: 0.019371
+    followers: 9371
+    engagement: 1797
+    commentsToLikes: 0.019365
     id: ckbqriieacajf0j232aea1lt8
     verified: false
-    hashtags: "#malaysiarugby, #keralarugby, #olxdekhahai, #allblack"
+    hashtags: "#keralarugby, #olxdekhahai, #allblack, #malaysiarugby"
   - username: "jakerugby"
     fullname: >-
       Jake Armstrong
     bio: >-
       Instagram is over here👆🏼 Rugby Player with a TikTok obsession
     location: "United Kingdom"
-    followers: 11600
-    engagement: 796
-    commentsToLikes: 0.040326
+    followers: 11900
+    engagement: 736
+    commentsToLikes: 0.043135
     id: ckbaw3mdgmk470j231lqzimfr
     verified: false
     hashtags: "#fyp, #rugby, #duet"
+  - username: "kalyanbainsla007"
+    fullname: >-
+      Kalyan Bainsla 
+    bio: >-
+      Athlete International kabaddi player💪👈 Rugby player insta:-kalyan_bainsla
+    location: "India"
+    followers: 27200
+    engagement: 1516
+    commentsToLikes: 0.007636
+    id: ck83k529s9ezf0j78lb2eyf4l
+    verified: false
+    hashtags: "#lifebuoykarona, #upichalegachallenge, #handwashchallenge, #gym"
   - username: "vaea.fifita"
     fullname: >-
       Vaea Fifita
@@ -38,59 +50,35 @@ profiles:
       Rugby Player. NZ 📍 Check out my YouTube Channel fam👇
     location: "New Zealand"
     followers: 35800
-    engagement: 991
-    commentsToLikes: 0.020281
+    engagement: 974
+    commentsToLikes: 0.018981
     id: ckbbl9ddv9i140j23pitms6tr
     verified: false
-    hashtags: "#tonga, #fyp, #lions, #170kg"
-  - username: "kalyanbainsla007"
+    hashtags: "#lions, #fyp, #tonga, #nba"
+  - username: "notkeelangregg"
     fullname: >-
-      Kalyan Bainsla 
+      Keelan
     bio: >-
-      Athlete International kabaddi player💪👈 Rugby player insta:-kalyan_bainsla
-    location: "India"
-    followers: 27300
-    engagement: 1516
-    commentsToLikes: 0.007637
-    id: ck83k529s9ezf0j78lb2eyf4l
-    verified: false
-    hashtags: "#bodybuilding, #desifood, #workout, #lifebuoykarona"
-  - username: "sumirecoconuts"
-    fullname: >-
-      クリスマスまであと69日🎄
-    bio: >-
-      Rugby player 🏉地元愛強め🌾今はFUKUOKA💖　https://sumirecoconut.webnode.jp/
-    location: "Japan"
-    followers: 38700
-    engagement: 443
-    commentsToLikes: 0.025380
-    id: ckc7nh8l2tmyl0j23mgc3r9th
-    verified: false
-    hashtags: "#sephora, #christmas, #duet, #diy"
-  - username: "keelangregg1"
-    fullname: >-
-      Keelangregg
-    bio: >-
-      Rugby Player For Hull FC Insta: keelangregg
+      Rugby Player For Hull FC
     location: "United Kingdom"
-    followers: 7483
-    engagement: 736
-    commentsToLikes: 0.051251
+    followers: 7762
+    engagement: 785
+    commentsToLikes: 0.045786
     id: ck9n4w40k5y6j0j78xl28bmr7
     verified: false
-    hashtags: "#soccer, #foryou, #fyp, #fifa"
-  - username: "alicexevans0"
+    hashtags: "#soccer, #gaming, #fyp, #foryou"
+  - username: "sumirecoconuts"
     fullname: >-
-      Alice
+      菫子🥡🥢
     bio: >-
-      purely wholesome content ceo of liking rugby players twennnny 1 15k?
-    location: "United Kingdom"
-    followers: 12500
-    engagement: 641
-    commentsToLikes: 0.058847
-    id: ckcj5nxtv5t5g0j23ihrximui
+      NIIGATA->FUKUOKA -rugby player
+    location: "Japan"
+    followers: 44600
+    engagement: 422
+    commentsToLikes: 0.014203
+    id: ckc7nh8l2tmyl0j23mgc3r9th
     verified: false
-    hashtags: "#alicexevans, #timefortenet, #rugby, #rugbylad"
+    hashtags: "#lush, #theordinary, #kosas, #dragunbeauty"
   - username: "bcleall"
     fullname: >-
       Bryony Cleall
@@ -98,11 +86,11 @@ profiles:
       Professional Rugby Player. Saracens & England. 📷: bcleall Tighthead Prop
     location: "United Kingdom"
     followers: 11800
-    engagement: 611
-    commentsToLikes: 0.022982
+    engagement: 552
+    commentsToLikes: 0.017392
     id: ckcpd1614ftes0j236n3g36j6
     verified: false
-    hashtags: "#lakedistrict, #womensrugby, #walking, #holiday"
+    hashtags: "#saracens, #lakedistrict, #womensrugby, #rugbygirls"
   - username: "jadekonkel"
     fullname: >-
       Jade Konkel
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.007815
     id: cka0zjpayfpyb0i78tyb0fsf1
     verified: false
-    hashtags: "#foryou, #rugby, #houseoftiktok, #scotland"
-  - username: "rugby.moments"
+    hashtags: "#rugby, #foryou, #houseoftiktok, #worldrugby"
+  - username: "waakka7"
     fullname: >-
-      Rugby Moments
+      Waakka31
     bio: >-
-      🔥 Greatest Rugby Clips and Highlights 🔥 🎯 Road to 2.5K🎯 ✅ 🎯 Road to 3K 🎯
+      🏴󠁧󠁢󠁥󠁮󠁧󠁿 Professional rugby player 🏉 Streaming everyday at 7pm💥
     location: "United Kingdom"
-    followers: 3048
-    engagement: 1370
-    commentsToLikes: 0.009649
+    followers: 9100
+    engagement: 490
+    commentsToLikes: 0.158838
+    id: ck9ekbus15ulf0j78skop8g58
+    verified: false
+    hashtags: "#codclipsdaily, #warzonebestclips, #newmeta, #foryoupage"
+  - username: "ballcarrier"
+    fullname: >-
+      BALLCARRIER RUGBY
+    bio: >-
+      The home of RUGBY on the TOK 🏉
+    location: "United Kingdom"
+    followers: 90100
+    engagement: 1401
+    commentsToLikes: 0.013255
     id: cka0ve9wby8550i78qufkkw2a
     verified: false
-    hashtags: "#worldrugby, #rugbyplayer, #rugbycheck, #sport"
+    hashtags: "#rugbymayhem, #skill, #rugbylads, #sixnations"
 ---

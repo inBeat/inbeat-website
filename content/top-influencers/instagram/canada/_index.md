@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Canada In 2022
+title: Top 10 Instagram Influencers In Canada In 2023
 description: >-
-  Find top Instagram influencers in Canada in 2022. Most popular hashtags: #toronto #explorequebec #canadianphotographer.
+  Find top Instagram influencers in Canada in 2023. Most popular hashtags: #ad #sponsored #ootd.
 platform: Instagram
-hits: 12832
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 12832 Instagram influencers like this in Canada for you to contact.
+hits: 5485
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 5485 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "andreitalevin"
+  - username: "enigivensunday"
     fullname: >-
-      Andreita Levin
+      Eni Popoola | NYC Blogger
     bio: >-
-      Based in Canada | From Mexico ♡ 🤸🏻‍♀️Yoga/Pilates Teacher☼Dance Artist ➵ Wanderluster ✈️ 📍Toronto 🇨🇦
+      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
     location: "Canada"
-    followers: 21558
-    engagement: 602
-    commentsToLikes: 0.062108
-    id: ck0u7h3mp4njc0i19m5nnh9yv
+    followers: 120230
+    engagement: 663
+    commentsToLikes: 0.011475
+    id: ck5hi7xnuc41l0i11lv2p1q6j
     verified: false
-    hashtags: "#igyoga, #yoga, #yogaeverydamnday, #igyogafam"
-  - username: "madetwotravel"
+    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
+  - username: "virginiepilotte"
     fullname: >-
-      Marie & Gal | Love | Adventure
+      VIRGINIE
     bio: >-
-      ✨Working towards our dreams 📍Currently in Toronto 🌙 Photography @mariannephotography.ca FREE EBOOK - Travel Blog - Digital Nomad ↓
+      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
     location: "Canada"
-    followers: 53452
-    engagement: 5080
-    commentsToLikes: 0.091865
-    id: ck0u9yekvavxj0i19cvaqy8ow
+    followers: 32541
+    engagement: 593
+    commentsToLikes: 0.059708
+    id: ck55ppopob3mx0i11k0dp0cdv
     verified: false
-    hashtags: "#canadatravel, #torontophotographer, #explorequebec, #torontolife"
-  - username: "clairissacruz"
+    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
+  - username: "cassolive"
     fullname: >-
-      C L A I R I S S A C R U Z
+      Cassandra
     bio: >-
-      built an award winning intl company from nothing business life + most importantly a mom/wife above all 💛 filipinx + indigenous + latinx 🕊
+      Mama x 3 👦🏼👦🏼👶🏼 • Wife • Autism mama • Canadian 🇨🇦 mom style ♡ real life ♡ Cleaning and Organization
     location: "Canada"
-    followers: 6700
-    engagement: 2881
-    commentsToLikes: 0.575422
-    id: ck8szopwrp60z0j78x87i2qss
+    followers: 78477
+    engagement: 468
+    commentsToLikes: 0.090955
+    id: ck5zuz6in3asb0i1484iohqs7
     verified: false
-    hashtags: "#quarantine, #leoszn"
-  - username: "maeva.trottier"
+    hashtags: "#newmomlife, #newbornlifestyle, #imaginativeplay, #independentplay"
+  - username: "mommas_gang"
     fullname: >-
-      Maeva
+      SAMMY
     bio: >-
-      optimism & positivity 🥂🐚🌾👼🏼
+      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
     location: "Canada"
-    followers: 13525
-    engagement: 2616
-    commentsToLikes: 0.280247
-    id: ck5cfo5n2nbq60i118y4ovfh2
+    followers: 30491
+    engagement: 1265
+    commentsToLikes: 0.020403
+    id: ck5zijlgfftz90i14vjkufxsl
     verified: false
-    hashtags: "#fuckcorona, #hockeygirlfriend"
-  - username: "analaurassilva"
+    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
+  - username: "simplysuppa"
     fullname: >-
-      ana santos
+      Julia Suppa
     bio: >-
-      🧿 what is to give light must endure burning
+      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
     location: "Canada"
-    followers: 3327
-    engagement: 2407
-    commentsToLikes: 0.162857
-    id: ckf5rotpbdg7o0j232tiy8l1z
+    followers: 7593
+    engagement: 417
+    commentsToLikes: 0.101940
+    id: ck8tbwm6jxgan0j78y4he4wod
     verified: false
-    hashtags: "#thenewearth"
-  - username: "joeliegamatero"
+    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
+  - username: "lifewithelliott"
     fullname: >-
-      Joelie Jane
+      Elliott | Adventure + Travel Photographer †
     bio: >-
-      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
+      Come travel the world with me 📸🗺 Let’s work together → hello@lifewithelliott.com 👇🏻 My eBooks, courses, presets, vlogs, & more! Next ✈️: Vancouver 🇨🇦
     location: "Canada"
-    followers: 7176
-    engagement: 2333
-    commentsToLikes: 0.272646
-    id: ckf5s50lfeqxv0j23s9pw9dxh
+    followers: 112572
+    engagement: 740
+    commentsToLikes: 0.020163
+    id: ck0w2tbypq2x10i19jh48i0fy
     verified: false
-    hashtags: "#mykindofsilk, #mykaseme"
-  - username: "beingjulia_"
+    hashtags: "#beautifuldestinations, #depthsofearth, #santorini, #hikingadventures"
+  - username: "kaurscloset"
     fullname: >-
-      Julia
+      Aman Pannu 🕊
     bio: >-
-      🎃 pre-teen teaching, hat wearing, fashion loving Canadian gal 💌 beingjuliablog@gmail.com 🤍 See my latest blog post below!
+      📍toronto 💌 a.kaurscloset@gmail.com 🧖🏻‍♀️ @duomedispa
     location: "Canada"
-    followers: 6885
-    engagement: 2180
-    commentsToLikes: 0.280734
-    id: ck0vw213arr0n0i19hh5r731e
+    followers: 106712
+    engagement: 768
+    commentsToLikes: 0.009129
+    id: ck14gpysp6gp40i192fbwd2qr
     verified: false
-    hashtags: "#gigipip, #hmxme, #liketkit, #ltkunder100"
-  - username: "mandilicous"
+    hashtags: "#motd, #punjab, #reelkarofeelkaro, #punjabisuit"
+  - username: "rosalielessard_"
     fullname: >-
-      Mandy | Food | Lifestyle
+      Rosalie Lessard
     bio: >-
-      🇨🇦🇭🇰Published Model Lv 8 @googlelocalguides top1% Toronto @yelp elite @tiktok missmandilicous DM for collabs & invites 歡迎合作💕 Eng粵國 繁简
+      Youtubeuse 🍲 Foodie 📍Mtl Qc info@rosalielessard.com📥
     location: "Canada"
-    followers: 10231
-    engagement: 2126
-    commentsToLikes: 0.162206
-    id: ck15pdxixxeob0i199dnoaf03
+    followers: 171386
+    engagement: 456
+    commentsToLikes: 0.007290
+    id: ck5zm1mj1lqlu0i14lqhaw6b4
     verified: false
-    hashtags: "#tastetoronto, #tastethesix, #bubbletea, #torontofoodies"
-  - username: "xqcow1"
+    hashtags: "#cocoabutter, #bodycare, #147, #toujourslapourvous"
+  - username: "lysandrenadeau"
     fullname: >-
-      Félix Lengyel
+      Lysandre Nadeau
     bio: >-
-      23. Competitive Overwatch player/streamer for Gladiators Legion and sentinels. I stream everyday at www.twitch.tv/xqcow
+      Balado: @sexeoral.podcast artistes@soniagagnon.com 📩
     location: "Canada"
-    followers: 279461
-    engagement: 2034
-    commentsToLikes: 0.031580
-    id: ck5q606hnvcct0i1129ksmvq8
-    verified: false
-    hashtags: ""
-  - username: "julianjoseduarte"
+    followers: 410656
+    engagement: 789
+    commentsToLikes: 0.003606
+    id: ck55oebvq86q70i11ufli5ole
+    verified: true
+    hashtags: "#pub, #lieracparis, #phytolastil, #18weekspregnant"
+  - username: "sacheu"
     fullname: >-
-      JULIAN JOSE DUARTE 🇵🇹🇨🇱
+      𝐒𝐀𝐑𝐀𝐇 𝐂𝐇𝐄𝐔𝐍𝐆 🤠🤍✨
     bio: >-
-      📍Melbourne, Australia 🇦🇺 📧: julianduarte23@icloud.com Tiktok: JulianJoseDuarte
+      Founder @sacheubeauty⁣⁣⁣ ✉️sarah@select.co
     location: "Canada"
-    followers: 9300
-    engagement: 2000
-    commentsToLikes: 0.102360
-    id: ck8wg9yhmgzc80j78w7tx58d4
-    verified: false
-    hashtags: "#blackouttuesday, #the5th, #1millionparfume"
+    followers: 279780
+    engagement: 573
+    commentsToLikes: 43.436376
+    id: ck15rdcy97d660i19l5fj5g9d
+    verified: true
+    hashtags: "#wildstar, #sacheubeauty, #savagexambassador, #isamayabeauty"
 cities:
   - name: Toronto
     link: /instagram/canada/toronto

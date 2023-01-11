@@ -1,48 +1,48 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Peru In 2022
+title: Top 10 Beauty TikTok Influencers In Peru In 2023
 description: >-
-  Find top beauty TikTok influencers in Peru in 2022. Most popular hashtags: #fyp #foryou #parati #beauty.
+  Find top beauty TikTok influencers in Peru in 2023. Most popular hashtags: #peru #fyp #foryou #viral.
 platform: TikTok
-hits: 18
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 18 TikTok influencers like this in Peru for you to collaborate.
+hits: 16
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Peru for you to pitch.
 profiles:
-  - username: "royecharri"
+  - username: "mariaclaudia.durand"
     fullname: >-
-      Roy Echarri
+      mariaclaudiadurand
     bio: >-
-      Déjamelo saber en insta yo reacciono ➡️@royecharri Tengo el carácter de Tasmani
+      🇵🇪 Curvy Fashion🍑 Makeup&Beauty Reviews💄 Sígueme en Insta🤍 #bodypositive
     location: "Peru"
-    followers: 55300
-    engagement: 1527
-    commentsToLikes: 0.061176
-    id: ckc86ho8w5i6i0j23uybqrybh
+    followers: 30800
+    engagement: 603
+    commentsToLikes: 0.030561
+    id: cka620sk5xu720i78rsx2qier
     verified: false
-    hashtags: "#eresarte, #foryoupage, #goals, #fyp"
+    hashtags: "#marcasperuanas, #marcaslocales, #midsizeoutfitinspo, #midsizstyle"
   - username: "giancarlosmunguia"
     fullname: >-
       Gian Carlos Munguia Espinoza
     bio: >-
       Soy chimuelo🐶🇵🇪 ojala te gusten mis videos.
     location: "Peru"
-    followers: 420000
-    engagement: 2485
-    commentsToLikes: 0.019439
+    followers: 404500
+    engagement: 2463
+    commentsToLikes: 0.018318
     id: cka0io71nek2g0i78prbq1ffe
     verified: false
-    hashtags: "#tiktokpets, #1manimales, #parati, #foryou"
-  - username: "chiky274"
+    hashtags: "#1manimales, #tiktokpets, #makemefamous, #fyp"
+  - username: "fashionindahat"
     fullname: >-
-      🌬chiky💫
+      Alemazzini
     bio: >-
-      🌬 LA NATURALEZA ES EL ARTE DE DIOS 🌸
+      ¿Para qué estamos aquí? 👁✨🍄👽🌈❤️
     location: "Peru"
-    followers: 194500
-    engagement: 1568
-    commentsToLikes: 0.017220
-    id: ck95z9q75dl590j7802rv9fnk
+    followers: 212000
+    engagement: 1356
+    commentsToLikes: 0.023725
+    id: ck83zb3mrzbfn0j78tafbmdmf
     verified: false
-    hashtags: "#fyp, #animals, #seals, #dog"
+    hashtags: "#proposito, #mision, #vida, #espiritualidad"
   - username: "caballeritaa"
     fullname: >-
       Renata 💔
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.071096
     id: ck9ev9t0mhihb0j78yjijfdxa
     verified: false
-    hashtags: "#peruana, #venezuela, #cuarentena, #per"
-  - username: "fashionindahat"
+    hashtags: "#peru, #venezuela, #peruana, #tiktokperu"
+  - username: "lamalainfluencia7"
     fullname: >-
-      Alemazzini
+      La mala influencia
     bio: >-
-      A ver qué pasa si le das click a esa 👆 cámara de arriba
+      
     location: "Peru"
-    followers: 185100
-    engagement: 1112
-    commentsToLikes: 0.014071
-    id: ck83zb3mrzbfn0j78tafbmdmf
+    followers: 27300
+    engagement: 645
+    commentsToLikes: 0.006774
+    id: ckbesuiv7bl2x0j235qg9zcmo
     verified: false
-    hashtags: "#feminismo, #sermujer, #fashion, #model"
-  - username: "tanydelariva1"
+    hashtags: "#diciembre, #laverdad, #amigas, #dietas"
+  - username: "anahidecardenas"
     fullname: >-
-      Tany De La Riva
+      anahi de cardenas
     bio: >-
-      Drag Queen Peruana 🇵🇪⚡ Ya me sigues en Instagram? @tanydelariva 💎
+      
     location: "Peru"
-    followers: 15200
-    engagement: 778
-    commentsToLikes: 0.026089
-    id: ck9exyd52te3q0j78ymyclnrm
+    followers: 726400
+    engagement: 672
+    commentsToLikes: 0.008331
+    id: ckcehsruepq990j23zfcaixgd
     verified: false
-    hashtags: "#aguabella, #challengue, #trend, #beeper"
-  - username: "ancerilo"
+    hashtags: "#duet, #cuarentena, #peru, #buen"
+  - username: "miguellatorre8"
     fullname: >-
-      Ana Cecilia Rivero
+      Miguel La Torre
     bio: >-
-      👨‍👩‍👧‍👦Mamá de 2, diseñadora, y stylist Este es mi #estilodemama 💛🇵🇪
+      ATHLETE - MODEL - DANCER
     location: "Peru"
-    followers: 4688
-    engagement: 222
-    commentsToLikes: 0.018737
-    id: ckbfdf1jp6ovv0j23dqbbs40w
+    followers: 74000
+    engagement: 802
+    commentsToLikes: 0.022238
+    id: ck9ev9pfghhk00j78z75lnwlm
     verified: false
-    hashtags: "#modasostenible, #style, #mystyle, #tutorial"
-  - username: "lucumastyle"
+    hashtags: "#beautiful, #fitness, #man, #love"
+  - username: "__waterxmelon"
     fullname: >-
-      MARA
+      [ 𝘄 𝘅 𝗺 ]
     bio: >-
-      Hazlo de 💗 Creadora de contenido bonito 👑 23 y/o 🇵🇪
+      ( う-´)づ︻╦̵̵̿╤── he / him goal : 200ᛕ a m
     location: "Peru"
-    followers: 86000
-    engagement: 955
-    commentsToLikes: 0.010659
-    id: ck85cny1c2lpo0j78q3hmxirj
+    followers: 108600
+    engagement: 1472
+    commentsToLikes: 0.022043
+    id: ckbqlvsqz6yk80j23ti5nvtm0
     verified: false
-    hashtags: "#trickedme, #pov, #posesparafotos, #diy"
-  - username: "ingridlycmakeup"
+    hashtags: "#edit, #blackpink, #parati, #alightmotion"
+  - username: "perudios"
     fullname: >-
-      Ingrid Lyc
+      PERUVIAN🇵🇪
     bio: >-
-      🦋 🇵🇪 Sígueme en IG @ingridlycmakeup
+      Hola los quiero 🇵🇪😍
     location: "Peru"
-    followers: 2900
-    engagement: 426
-    commentsToLikes: 0.019522
-    id: cka0y16sp9ha20i787telts1h
+    followers: 49200
+    engagement: 1134
+    commentsToLikes: 0.144006
+    id: ckdnhjsqvi6gl0j231wyhbr03
     verified: false
-    hashtags: "#makeup, #mexico, #parati, #comedy"
-  - username: "v._.kpop"
+    hashtags: "#viral, #perucheck, #peru, #foryou"
+  - username: "unaufhaltsameslachen"
     fullname: >-
-      ... 🍃☘
+      Dumusstesnichtwi
     bio: >-
-      🌈❤🌈
+      Du musst es nicht wissen
     location: "Peru"
-    followers: 46700
-    engagement: 2992
-    commentsToLikes: 0.011483
-    id: ckbeo3lr93zif0j232qwfmqwp
+    followers: 22100
+    engagement: 1458
+    commentsToLikes: 0.022892
+    id: ckbksmb6oni4y0j23perk0n35
     verified: false
-    hashtags: "#parati, #cxyzd, #zyxcba, #fypppp"
+    hashtags: "#adogisforlife, #fun, #rescuedog, #christmas"
 ---

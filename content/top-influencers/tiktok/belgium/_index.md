@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Belgium In 2022
+title: Top 10 TikTok Influencers In Belgium In 2023
 description: >-
-  Find top TikTok influencers in Belgium in 2022. Most popular hashtags: #foryou #fyp #foryoupage.
+  Find top TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #foryoupage #fyp #duet.
 platform: TikTok
-hits: 705
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 705 TikTok influencers like this in Belgium for you to connect with.
+hits: 722
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 722 TikTok influencers like this in Belgium for you to pitch.
 profiles:
-  - username: "haileytje.b"
-    fullname: >-
-      Hailey Bonduwe
-    bio: >-
-      💙Dancer💙 🇧🇪 Belgium 🇧🇪 💌 HaileytjeB@yahoo.com💌 💎 Insta: @haileytje.b 💎
-    location: "Belgium"
-    followers: 117400
-    engagement: 2991
-    commentsToLikes: 0.036629
-    id: ckc3ecli2zvxy0j232vu00p3v
-    verified: false
-    hashtags: "#supportlunadupont, #besweet, #fyp, #havefaith"
   - username: "rayane.hbr"
     fullname: >-
       Rayane
     bio: >-
-      🇧🇪 📩 : rayane@babylone-agency.com
+      🇧🇪 📩 : rayanehbr2000@gmail.com
     location: "Belgium"
-    followers: 1600000
-    engagement: 2896
-    commentsToLikes: 0.018502
+    followers: 2000000
+    engagement: 2662
+    commentsToLikes: 0.029536
     id: ck8ql5ynjkbvq0j782uqpx4qy
     verified: false
-    hashtags: "#pov, #foryou, #cassonslescodes"
-  - username: "yaradesmedt"
+    hashtags: "#foryou, #pov, #xyzbca, #jedansebien"
+  - username: "dopefactz"
     fullname: >-
-      Yara💗
+      FUNFACTS
     bio: >-
-      Management: Yara@nextchapter.agency 🇧🇪 18
+      Daily Fun Facts 📘
     location: "Belgium"
-    followers: 292100
-    engagement: 2273
-    commentsToLikes: 0.030546
-    id: ck8addywz5h0k0j78ot1u3wma
-    verified: false
-    hashtags: "#fyp, #dance, #trend, #foryou"
-  - username: "jessiegoris"
-    fullname: >-
-      Jessiegoris
-    bio: >-
-      115k?✨ 🇧🇪België 📥 jessicagoris@live.be
-    location: "Belgium"
-    followers: 113600
-    engagement: 2231
-    commentsToLikes: 0.049110
-    id: ckbf623ccvdks0j23y2cbyp2v
-    verified: false
-    hashtags: "#harrypotter, #foryou, #duet, #essiegelcouture"
-  - username: "dopefacts"
-    fullname: >-
-      Fun Facts
-    bio: >-
-      ↕️Follow me on YouTube↕️ Daily Cool Facts 🔎 📩 dopefactscontact@gmail.com
-    location: "Belgium"
-    followers: 134900
-    engagement: 2147
-    commentsToLikes: 0.067645
+    followers: 128200
+    engagement: 1934
+    commentsToLikes: 0.046931
     id: ck9jv7u7zr1ry0j78t1uihb8v
     verified: false
-    hashtags: "#amazingfacts, #foryoupage, #fyp, #funfacts"
+    hashtags: "#foryou, #fact, #funfacts, #christmas"
+  - username: "joachimd22"
+    fullname: >-
+      Joachim Dk
+    bio: >-
+      Dit acc word verwijderd binnenkort 👇🏻 NEW ACCOUNT KLIK OP DE LINK 👇🏻
+    location: "Belgium"
+    followers: 67800
+    engagement: 1910
+    commentsToLikes: 0.061502
+    id: ck9r3ugh6rsn50j7853jmu6t6
+    verified: false
+    hashtags: "#foryoupage, #voorjou, #benltiktoks, #seeyousoon"
+  - username: ".rxchxl"
+    fullname: >-
+      yeah no bye
+    bio: >-
+      ug:ly no:motivation cry:baby du:mb
+    location: "Belgium"
+    followers: 4599
+    engagement: 6000
+    commentsToLikes: 0.135135
+    id: ckbakjpf4bk8i0j23kmgu8jbj
+    verified: false
+    hashtags: "#iminsecurelol, #stfu"
+  - username: "uwuqueen09"
+    fullname: >-
+      queen🙄😘
+    bio: >-
+      11.6k uwus like to get stabbed😛💋🔫🥺👍⚡️✨☺️😭🙄😘😛👄🎂👍🧁👅🐷
+    location: "Belgium"
+    followers: 11600
+    engagement: 3968
+    commentsToLikes: 0.136364
+    id: ckbbnlrh4bmr10j23fuvzjnop
+    verified: false
+    hashtags: "#grwm, #charlidamelio, #foryoupage, #zonut"
   - username: "left.ruin"
     fullname: >-
       🦋 Rune 🦋
     bio: >-
-      🍳 or ♠️ who knows.. I don’t
+      Our friendship will never die... @right.amy
     location: "Belgium"
-    followers: 2171
-    engagement: 4820
-    commentsToLikes: 0.263058
+    followers: 2169
+    engagement: 3525
+    commentsToLikes: 0.270374
     id: ck8rps56rn2np0j78untxruaj
     verified: false
-    hashtags: "#amongus, #andioop, #uwu, #trend"
+    hashtags: "#uwu, #trend, #ohmy, #andioop"
   - username: ".juuulllx"
     fullname: >-
-      insta: juliaruygtx 🍾🤍
+      j u l i a  r u y g t 🤍
     bio: >-
-      🤍🤍🤍 j u l i a 💍 v o o r d e l e u k 💍 🎡 account managed by my mom! 🎡
+      🤍🤍🤍 j u l i a 💖 account managed by my mom! 💖 • I,F,K,L,L •
     location: "Belgium"
-    followers: 12300
-    engagement: 3453
-    commentsToLikes: 0.146383
+    followers: 12200
+    engagement: 3047
+    commentsToLikes: 0.119652
     id: ck9r3wgpssdcw0j786leepx9z
     verified: false
-    hashtags: "#foryou, #slomo, #loveyouall, #fyp"
-  - username: ".zoeslasanga"
+    hashtags: "#slomo, #foryou, #duet, #ybzxca"
+  - username: "kate_doveforest"
     fullname: >-
-      user saver
+      🥵vladimir🥵
     bio: >-
-      user saver😹 were you searching for who had my user? dms dont work
+      🕊️Kate doveforest🌲 >Guusje< 🖤geen likespam pls🖤 When the sun shines...
     location: "Belgium"
-    followers: 13
-    engagement: 3333
-    commentsToLikes: 0.631579
-    id: ckbbnlrh4bmr10j23fuvzjnop
+    followers: 7516
+    engagement: 2643
+    commentsToLikes: 0.095132
+    id: ckc79b59fj7i00j2316k71vui
     verified: false
-    hashtags: "#charli, #fyp, #foryoupage, #xyzbca"
-  - username: "disneyzoezlp"
+    hashtags: "#foryoupage, #sso, #foryou, #fy"
+  - username: "rdiot"
     fullname: >-
-      hi
+      jordan
     bio: >-
-      💓
+      .ethhan mine 😋‼ jadessfvx is mine🙄‼ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ fp of :justjordan33
     location: "Belgium"
-    followers: 13200
-    engagement: 2934
-    commentsToLikes: 0.212953
+    followers: 13000
+    engagement: 2397
+    commentsToLikes: 0.227570
     id: ckaillvjlorp90i78ykuvog7r
     verified: false
     hashtags: ""
-  - username: "kate_doveforest"
+  - username: "2bfunkychick"
     fullname: >-
-      ...
+      Safia
     bio: >-
-      profiel foto is voor de grap🥵 Misty Mountain
+      Belgium Dance choreographer Happily married Mom of Charlie Love acting
     location: "Belgium"
-    followers: 6169
-    engagement: 2579
-    commentsToLikes: 0.093602
-    id: ckc79b59fj7i00j2316k71vui
+    followers: 23600
+    engagement: 2005
+    commentsToLikes: 0.077079
+    id: cka0n1oeqxpl30i78umn6hlhu
     verified: false
-    hashtags: "#starstable, #foryou, #fy, #fyp"
+    hashtags: "#duet, #2bfunkychick, #safioso, #kidnapper"
 ---

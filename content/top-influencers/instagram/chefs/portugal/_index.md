@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Portugal In 2022
+title: Top 10 Chefs Instagram Influencers In Portugal in 2023
 description: >-
-  Find top chefs Instagram influencers in Portugal in 2022. Most popular hashtags: #foodphotography #chef #food #covid.
+  Find top chefs Instagram influencers in Portugal in 2023. Most popular hashtags: #foodphotography #chef #food #covid.
 platform: Instagram
 hits: 8
 text_top: Analyze the top-rated Instagram accounts on inBeat.

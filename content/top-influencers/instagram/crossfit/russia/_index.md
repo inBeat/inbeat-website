@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Russia In 2022
+title: Top 10 Crossfit Instagram Influencers In Russia In 2023
 description: >-
-  Find top crossfit Instagram influencers in Russia in 2022. Most popular hashtags: #crossfit #mma #sportgirl.
+  Find top crossfit Instagram influencers in Russia in 2023. Most popular hashtags: #crossfit #reebokrussia #reebok.
 platform: Instagram
-hits: 82
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 82 Instagram influencers like this in Russia for you to contact.
+hits: 77
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 77 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "roman_khrennikov"
+  - username: "stavnicha_dasha"
     fullname: >-
-      Roman Khrennikov
+      Даша Ставнича🐆
     bio: >-
-      @rxpro.online Train with me Fittest in 🇷🇺 Crossfit Games Athlete 🥇Crossfit Regionals Europe2018 @gowod_mobilityfirst @brute.strength @aerobiccapacity
+      Fitness Coach 🔥Functional🔥TRX🔥CrossFit🔥Stretching 💪 Тренировки>с умом>на результат. 🏆МС-по лёгкой атлетики,Призёр чемпионат Мира и Европы. ❤️Авторский
     location: "Russia"
-    followers: 32194
-    engagement: 508
-    commentsToLikes: 0.013844
-    id: ck6tn92xm9dig0j71eb9v0g7a
+    followers: 10401
+    engagement: 1292
+    commentsToLikes: 0.037012
+    id: ck8tds9r44l770j78hijdqls0
     verified: false
-    hashtags: "#crossfit"
-  - username: "n1k_workout"
+    hashtags: "#runnersofinsta, #runplanet, #sportwomen, #nikewoman"
+  - username: "frolov__alexey"
     fullname: >-
-      NIK
+      Алексей Фролов
     bio: >-
-      Nikita Anisimov 🇷🇺 Шиноби скрытого Волгограда ❷ place Street Workout WORLD Cup 2016 ► Coach at @lionizer_crossfit KSA 🇸🇦 ► Videomaker YouTube ⬇️
+      Any challenge is a chance for me. 💥Flash www.flash.ru Love ❤️ Energy💥 Travelling 🌍🛫 CrossFit 🏋🏿‍♀️ Wakesurf 🏄🏻‍♂️ Hunting 🏹🦌 Photography📸
     location: "Russia"
-    followers: 49909
-    engagement: 272
-    commentsToLikes: 0.018516
-    id: ck5qc32v6omg60i11m8hhvcg2
+    followers: 10339
+    engagement: 1545
+    commentsToLikes: 0.022596
+    id: ck6tpasq7is6t0j71vp0c6ow5
     verified: false
-    hashtags: "#riyadhfitness, #riyadhgym, #streetworkout, #workout"
-  - username: "ilin24585"
-    fullname: >-
-      Alexandr Ilin
-    bio: >-
-      CrossFit Games Athlete 2019🏋🏽‍♂️ Fittest Man in Russian Federation 🇷🇺2018-2019💥 Europa Regional 2017-2018🏆 Crossfit 🏋🏽‍♂️ Idol team🎖 @dopingru 💪🏾
-    location: "Russia"
-    followers: 5936
-    engagement: 988
-    commentsToLikes: 0.012180
-    id: ck6tv1w34jp8c0j71kjrt1nd8
-    verified: false
-    hashtags: ""
+    hashtags: "#flashid, #love, #monaco, #photooftheday"
   - username: "tomat89"
     fullname: >-
       Toma Sleptsova
     bio: >-
       CrossFit💀 Siberia❄️ #томатнаячика
     location: "Russia"
-    followers: 3953
-    engagement: 1025
-    commentsToLikes: 0.066428
+    followers: 3984
+    engagement: 1045
+    commentsToLikes: 0.090865
     id: ck8swpcp4esjw0j78y3wn6qzc
     verified: false
-    hashtags: "#crossfitberloga, #berlogacamp, #crossfit, #10"
+    hashtags: "#crossfit, #crossfitberloga, #chencup, #crossfitberoga"
+  - username: "liashok_oleg_policeman"
+    fullname: >-
+      Cop👮🏼‍♂️Ляшок
+    bio: >-
+      Coach 🤝 🏆CrossFit🏋️‍♂️ 🏆Pankration🥊 🏆fitness🍏 🏆gym🏋️‍♀️
+    location: "Russia"
+    followers: 10796
+    engagement: 834
+    commentsToLikes: 0.022633
+    id: ckf5ljobyptrx0j23sk36gq44
+    verified: false
+    hashtags: "#orangebay"
+  - username: "ilin24585"
+    fullname: >-
+      Alexandr Ilin
+    bio: >-
+      CrossFit Games Athlete 2019🏋🏽‍♂️ Fittest Man in Russian Federation 🇷🇺2018-2019💥 Europa Regional 2017-2018🏆
+    location: "Russia"
+    followers: 5968
+    engagement: 1017
+    commentsToLikes: 0.010765
+    id: ck6tv1w34jp8c0j71kjrt1nd8
+    verified: false
+    hashtags: "#crossfitopen2021, #crossfitopen, #liveviking, #reebok"
   - username: "antkatya"
     fullname: >-
       Antonova Katerina
     bio: >-
       Supergirl💪Life❤️ sport ⛹ crossfit🏋🏻MMA🥊kite/wake/jet/surfing/🏄 sleds/snowbike❄️🗻🏍atv/dirtbikes 🏁 guitar🎸🎼🎤 reggaeton/dancehall🍑photo📷 @antkatyaphoto
     location: "Russia"
-    followers: 22598
-    engagement: 289
-    commentsToLikes: 0.017856
+    followers: 23667
+    engagement: 242
+    commentsToLikes: 0.014465
     id: ck6tntv1aak880j71yrkl5180
     verified: false
-    hashtags: "#snowbike, #lakelife, #sledheadz, #snowbikegirls"
-  - username: "vladimirova_anastasia"
+    hashtags: "#klimteamrus, #klimrussia, #klimlife, #sledheadz"
+  - username: "m.d.nikulin"
     fullname: >-
-      ⚜️Anastasiia Vladimirova⚜️
+      Никулин Максим
     bio: >-
-      CrossFit Athlete ⠀ Online training 🏋🏻‍♀️🏊🏼‍♀️🤸🏻‍♀️ ⠀ PersonalCoach ⠀ Winner BigCup17/18 ⠀ Master Sports in Swimming, ⠀ 🐶Am.Bully Brian&Raphael🐱Bichao
+      Мастер спорта по Тяжелой Атлетике🏋🏻 Консультирую и тренирую онлайн📲 #weightlifting #fitness #crossfit #onlinecoaching
     location: "Russia"
-    followers: 12520
-    engagement: 429
-    commentsToLikes: 0.020704
-    id: ck600znd8eko10i14e3vtaa88
+    followers: 20761
+    engagement: 146
+    commentsToLikes: 0.020408
+    id: ckaoubsqrzoi90i78b3nbrfiu
     verified: false
-    hashtags: ""
+    hashtags: "#gymnastics, #motivation, #workout, #tirus"
   - username: "murad_nukhkadiev"
     fullname: >-
       Murad Nukhkadiev
     bio: >-
-      | MMA FIGHTER | ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Europe champion | ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | weight 70 kg | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | love CrossFit | Сотрудничество +79676072185
+      | MMA FIGHTER | ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Europe champion | ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | weight 70 kg | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | love CrossFit |
     location: "Russia"
-    followers: 274676
-    engagement: 585
-    commentsToLikes: 0.008372
+    followers: 281945
+    engagement: 387
+    commentsToLikes: 0.012591
     id: ck5hjrpmlh4wf0i11x53nihww
     verified: true
-    hashtags: "#gfc, #mma, #alhamdulillah, #repost"
+    hashtags: "#inshaallah, #alhamdulillah"
   - username: "bellator_arena_sports"
     fullname: >-
       Тренажерный Зал Bellator
     bio: >-
       ⠀ 🏋🏻‍♂️ Bodybuilding ⚒ CrossFit 💪🏼 Armwrestling 🥩 SportPit ⠀ ⠀ 🔥 Парилка ⠀ ⏰ 08:00➖00:00 📆 Без Выходных
     location: "Russia"
-    followers: 13255
-    engagement: 890
-    commentsToLikes: 0.624687
+    followers: 13742
+    engagement: 938
+    commentsToLikes: 0.773262
     id: ck5pvkbjziaya0i11heek6eji
     verified: false
-    hashtags: "#islammakhachev, #ufc242, #ufc232, #ufc240"
+    hashtags: "#ufc242, #khabibtime, #khabibnurmagomedov, #ufc"
   - username: "ozdamirov.001"
     fullname: >-
       Ислам Оздамиров
     bio: >-
       CROSSFIT ФИТНЕС тренер г.Грозный ул.А-Х Кадырова тсц ВАЙ ПАРК 4-й этаж спорт комплекс "CHA-BORZ"
     location: "Russia"
-    followers: 9363
-    engagement: 322
-    commentsToLikes: 0.065834
+    followers: 8814
+    engagement: 347
+    commentsToLikes: 0.071567
     id: ck6tyjd8242ww0j71lnnpudlt
     verified: false
-    hashtags: ""
-  - username: "anutasb"
-    fullname: >-
-      Тренировки/Мотивация/ПП рецепт
-    bio: >-
-      У тебя не будет классной попы, пока ты на ней сидишь ⠀ 🌟Анна ❣️Организатор проекта #ДвижениеЖизньВладивосток ☘️Хочешь в проект, жми⤵️
-    location: "Russia"
-    followers: 23721
-    engagement: 356
-    commentsToLikes: 0.039944
-    id: ck5q9v6t8d5ub0i1181r625o2
-    verified: false
-    hashtags: "#training, #lovemylife, #autumn, #inspiration"
+    hashtags: "#biopharm, #bph, #biovit, #biopharmisowhey"
 ---

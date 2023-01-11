@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Los Angeles In 2022
+title: Top 10 Gaming TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top gaming TikTok influencers in Los Angeles in 2022. Most popular hashtags: #gaming #fyp #losangeles #california.
+  Find top gaming TikTok influencers in Los Angeles in 2023. Most popular hashtags: #gaming #fyp #losangeles #foryou.
 platform: TikTok
-hits: 14
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 17
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 17 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "thekaydentucker"
+  - username: "mikeoofs"
     fullname: >-
-      Kayden Tucker
+      MikeOOFS
     bio: >-
-      FOLLOW FOR GOOD LUCK 🥳 IG: @thekaydentucker ❤️ 📩 Kaydenquinntucker@gmail.com📩
+      CEO of High Quality Gaming Content TWITCH STREAMER Los Angeles
     location: "United States"
-    followers: 632900
-    engagement: 1517
-    commentsToLikes: 0.070310
-    id: ckack0sb49rob0i78sskmh791
+    followers: 388700
+    engagement: 1782
+    commentsToLikes: 0.018949
+    id: ckbkribwam5qm0j23cy70ipyq
     verified: false
-    hashtags: "#meme, #manifest, #holidaytiktok, #nonutnovember"
-  - username: "logan.barnett"
+    hashtags: "#viral, #relatable, #gaming, #warzone"
+  - username: "zach.spr"
     fullname: >-
-      logan.barnett
+      zach.spr
     bio: >-
-      IG: bogan.larnett 25k?
+      18, LA Christ saves things I find interesting
     location: "United States"
-    followers: 25000
-    engagement: 842
-    commentsToLikes: 0.039989
-    id: cka61eketv1q90i78nxiephoj
+    followers: 13100
+    engagement: 779
+    commentsToLikes: 0.049552
+    id: ckc7tiz3vxx2m0j23qt9ry84s
     verified: false
-    hashtags: "#womensrightshouse, #bust, #davidstesla, #kaytandra"
-  - username: "bootlegheroes"
+    hashtags: "#fyp, #funny, #outdoors, #rotc"
+  - username: "sivanplatt"
     fullname: >-
-      MIKEY PixelGameSquad
+      Sivan Platt
     bio: >-
-      FUNKOS+GAMING 🌴LA CALIFORNIA!☀️ Follow SOCIALS🔻 🔻New youtube video!🔻
+      Sivan 20🦋 Just for fun I’m shadowbanned :(
     location: "United States"
-    followers: 10800
-    engagement: 1345
-    commentsToLikes: 0.078919
-    id: ckac3dykfbfp70i781f655ehd
+    followers: 3817
+    engagement: 571
+    commentsToLikes: 0.118697
+    id: cka65sl5zeh1s0i78hdrfmwqs
     verified: false
-    hashtags: "#anime, #mariokartlivehomecircuit, #underratedfunkopops, #funkopops"
+    hashtags: "#newyork, #college, #horoscope, #cancelthenoise"
   - username: "riskychrissy"
     fullname: >-
       Risky
     bio: >-
       unbanned 6 months later... my other account @riskychrissyy
     location: "United States"
-    followers: 118100
-    engagement: 2201
-    commentsToLikes: 0.023578
+    followers: 116500
+    engagement: 1983
+    commentsToLikes: 0.022099
     id: ck9vd0tu8swxy0j78bxgn5uhr
     verified: false
-    hashtags: "#foryou, #videogames, #foryoupage, #greenscreen"
-  - username: "_the_one_above_all_"
+    hashtags: "#foryou, #videogames, #gaming, #fyp"
+  - username: "annadabbadoo"
     fullname: >-
-      The One Above All
+      Anna
     bio: >-
-      Follow me for my shitty videos. Tik tok is ass. Face reveal at 1M
+      Emma Stone / Queens Gambit crossover that only gets worse
     location: "United States"
-    followers: 16600
-    engagement: 1718
-    commentsToLikes: 0.048185
-    id: ckb9h2xkg6ct90j23ij19mt93
+    followers: 93500
+    engagement: 1489
+    commentsToLikes: 0.028420
+    id: ckbat4samjqn10j2373t33jjv
     verified: false
-    hashtags: "#help, #funny, #fun, #foryou"
-  - username: "superduperdanni"
+    hashtags: "#spartan, #lol, #gaming, #support"
+  - username: "therealrasberry"
     fullname: >-
-      SuperDuperDani 
+      Jonmarc Rasberry
     bio: >-
-      Nintendo YouTuber and massive nerd 🎥
+      Artist, Teacher, Christian Welcome, love you all 3000 ❤️ ⬇️My other socials⬇️
     location: "United States"
-    followers: 13000
-    engagement: 1353
-    commentsToLikes: 0.046587
-    id: ckcegj6vpnvbt0j235v7p5xbs
+    followers: 25400
+    engagement: 915
+    commentsToLikes: 0.114078
+    id: ckcur2kwvji9f0j236hr9i4qo
     verified: false
-    hashtags: "#gaming, #fyp, #pokemon, #pokemongo"
+    hashtags: "#marvel, #nfl, #fyp, #geicolipsync"
   - username: "patrikthelast"
     fullname: >-
       Patrik
     bio: >-
-      Insta & YouTube ⬆️ 🛑Live Occasionally ⬇️Join My Discord ⬇️
+      Insta & YouTube ⬆️ Producer for @TeamLiquid
     location: "United States"
-    followers: 38100
-    engagement: 787
-    commentsToLikes: 0.035742
+    followers: 38000
+    engagement: 695
+    commentsToLikes: 0.033311
     id: ck9rdp4hvytk80j78odakyi30
     verified: false
-    hashtags: "#fyp, #gaming, #twitch, #starwars"
-  - username: "fajahuno"
+    hashtags: "#videogames, #comedy, #gaming, #twitch"
+  - username: "95denises"
     fullname: >-
-      Fajah Uno
+      Denise
     bio: >-
-      YouTube: FajahUno Twitch: FajahUno Insta: FajahUno GiveAway King!
+      Denise 😊 ⚓️ Just here for fun🤷‍♀️😂 Thank you all 19k🥰
     location: "United States"
-    followers: 176800
-    engagement: 1005
-    commentsToLikes: 0.030181
-    id: ck8kd9xi24sfu0j78fiqzk84o
+    followers: 19500
+    engagement: 1477
+    commentsToLikes: 0.041919
+    id: ckcjds3ksa5qh0j235tltf73c
     verified: false
-    hashtags: "#amongusgame, #win, #fortnite, #twitchstreamer"
+    hashtags: "#relatable, #gamergirl, #foryou, #siblings"
+  - username: "kennybsanders"
+    fullname: >-
+      GTA5 vs. Reality
+    bio: >-
+      YouTube just launched 🚀 SUBSCRIBE for a more detailed look at GTA5 vs. Reality!
+    location: "United States"
+    followers: 110500
+    engagement: 1158
+    commentsToLikes: 0.021001
+    id: ckc8bckkr7rmy0j239b3hz3zw
+    verified: false
+    hashtags: "#gta5online, #gamer, #fortnite, #fypage"
   - username: "unboxingcloud"
     fullname: >-
       UNBOXING CLOUD
     bio: >-
       ☁️ UNBOXING CLOUD ☁️ Unboxing the world one product at a time!
     location: "United States"
-    followers: 29000
-    engagement: 948
-    commentsToLikes: 0.015837
+    followers: 28600
+    engagement: 941
+    commentsToLikes: 0.014682
     id: ckcdmgenta6df0j2354579kz2
     verified: false
-    hashtags: "#futuretech, #gadget, #smartphone, #invention"
-  - username: "gtavsreality"
-    fullname: >-
-      GTA5 vs Reality
-    bio: >-
-      CEO of GTA vs Reality!
-    location: "United States"
-    followers: 110800
-    engagement: 1092
-    commentsToLikes: 0.019345
-    id: ckc8bckkr7rmy0j239b3hz3zw
-    verified: false
-    hashtags: "#gta, #losangeles, #grandtheftauto, #gtamoney"
+    hashtags: "#smarthome, #tech, #invention, #gadgets"
 ---

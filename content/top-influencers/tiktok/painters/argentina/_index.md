@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters TikTok Influencers In Argentina In 2022
+title: Top 10 Painters TikTok Influencers In Argentina In 2023
 description: >-
-  Find top painters TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #argentina #painter.
+  Find top painters TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #foryou #argentina.
 platform: TikTok
-hits: 19
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat has 19 TikTok influencers like this in Argentina for you to connect with.
+hits: 25
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 25 TikTok influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "trixcianimes"
-    fullname: >-
-      trixci animes
-    bio: >-
-      🦇🌸
-    location: "Argentina"
-    followers: 144900
-    engagement: 2612
-    commentsToLikes: 0.015015
-    id: ck9euzegrfwwm0j78dvbzpptn
-    verified: false
-    hashtags: "#fyp, #painterofthenight, #cutegirl, #gothpastel"
   - username: "juaquiigonzalez"
     fullname: >-
       joacoo
     bio: >-
       joaco argentina🙌🏽🇦🇷🖌 dibujos realistas y tiro tips 30k???
     location: "Argentina"
-    followers: 27500
-    engagement: 1603
-    commentsToLikes: 0.038302
+    followers: 27200
+    engagement: 1570
+    commentsToLikes: 0.037688
     id: ckbap7jrhfvpm0j23taeen8yj
     verified: false
-    hashtags: "#dibujo, #fyp, #draw, #tutorial"
+    hashtags: "#artist, #dibujos, #draw, #foryoupage"
+  - username: "kokorofifi"
+    fullname: >-
+      𝖐𝖔𝖐𝖔
+    bio: >-
+      e d i t s ⚠️ spam like = block ⚠️
+    location: "Argentina"
+    followers: 16200
+    engagement: 1904
+    commentsToLikes: 0.024324
+    id: cka9o7tzt5gl10i78prkvmx16
+    verified: false
+    hashtags: "#yaoi, #blackcloveredit, #foryou, #manhwaedit"
   - username: "kalabkalash"
     fullname: >-
       Nadia Avalos
     bio: >-
       Llegamos a 1 K en Instagram? @kalabkalash 🙆🏻‍♀️👏
     location: "Argentina"
-    followers: 5389
-    engagement: 1598
-    commentsToLikes: 0.079243
+    followers: 5367
+    engagement: 1459
+    commentsToLikes: 0.061894
     id: ckbben3yg3e8b0j23qb2ayewl
     verified: false
-    hashtags: "#peluquer, #feliz, #dgz, #audiodewhatsapp"
+    hashtags: "#starwars, #audiodewhatsapp, #cortedepelo, #haircut"
   - username: "leila_mavka"
     fullname: >-
-      Leila Antonovska
+      Leila Mavka
     bio: >-
       ~Fairies witness~ Instagram @leila_mavka My creations @mavka.creations
     location: "Argentina"
-    followers: 73900
-    engagement: 1589
-    commentsToLikes: 0.008510
+    followers: 132200
+    engagement: 1380
+    commentsToLikes: 0.007603
     id: ckcuxrzfum5ov0j236wrz80te
     verified: false
-    hashtags: "#wicca, #joyeriaartesanal, #hechoamano, #scuplture"
-  - username: "anas.artt"
-    fullname: >-
-      Ana’s Artt
-    bio: >-
-      Instagram: @anas.artt Trabajos a pedido 🇦🇷🇺🇸
-    location: "Argentina"
-    followers: 66900
-    engagement: 1614
-    commentsToLikes: 0.011479
-    id: ckc7oviq1uorx0j234rluofho
-    verified: false
-    hashtags: "#fyp, #artist, #argentina, #art"
+    hashtags: "#parati, #fairy, #folk, #wicca"
   - username: "iviacosta4"
     fullname: >-
       Ivi Acosta
     bio: >-
-      📍Buenos Aires, Argentina •Instagram: ivii.acosta
+      📍Buenos Aires, Argentina 📷 Instagram: ivii.acosta MI EMPRENDIMIENTO👇🏻
     location: "Argentina"
-    followers: 5936
-    engagement: 578
-    commentsToLikes: 0.036202
+    followers: 6116
+    engagement: 593
+    commentsToLikes: 0.026451
     id: ckb9gn55s5syf0j23vgf0aam7
     verified: false
-    hashtags: "#foryou, #cuarentenatime, #abuelo, #likethisvideo"
+    hashtags: "#abuelo, #challeng, #paratiii, #paratii"
   - username: "guille.mastra"
     fullname: >-
       Guille !
     bio: >-
       💍💍Detección Metálica! ⚔️⚔️ ➡️️ Minelab Equinox 600 ➡️ Garrett Pro Pointer AT
     location: "Argentina"
-    followers: 3462
-    engagement: 755
-    commentsToLikes: 0.028781
+    followers: 3512
+    engagement: 730
+    commentsToLikes: 0.028547
     id: ckcdkhl9q9ay50j23qtqa0l9v
     verified: false
-    hashtags: "#mardelplata, #minelabequinox, #minelabdetecting, #deteccionmetalica"
-  - username: "manuela.modista"
-    fullname: >-
-      manuela.modista
-    bio: >-
-      Costura, moda IG @manuela.modista tips y tendencias Pinterest manuela.modista
-    location: "Argentina"
-    followers: 9395
-    engagement: 539
-    commentsToLikes: 0.005039
-    id: ckbf4fiovsy330j23eh304n6t
-    verified: false
-    hashtags: "#cuarentena, #cinderelladress, #parati, #cenicienta"
+    hashtags: "#playa, #mardelplata, #detectordemetales, #minelab"
   - username: "panconlechuga__"
     fullname: >-
       🍞🥬
     bio: >-
       De todo un poco cambie el contenido espero que les guste y me sigan apoyando💗
     location: "Argentina"
-    followers: 162400
-    engagement: 1840
-    commentsToLikes: 0.037851
+    followers: 158000
+    engagement: 1631
+    commentsToLikes: 0.022537
     id: ckdmpshw1984o0j231dasvs84
     verified: false
-    hashtags: "#pinterest, #foryourpage, #fotogenica, #fyp"
-  - username: "tiktokforbosses"
+    hashtags: "#pinterest, #fyp, #linda, #ranitas"
+  - username: "mmanuelapj"
     fullname: >-
-      Nacho
+      Manuela.transito
     bio: >-
-      Showing you how to start your online side hustle Free tuts in YT ⬇️Start Here⬇️
+      Cuenta secundaria TRANSITO.IND compra local wacho 👇🏼🤪
     location: "Argentina"
-    followers: 62600
-    engagement: 369
-    commentsToLikes: 0.104951
-    id: cka0hit4k9by10i78i7wfsfzs
+    followers: 9478
+    engagement: 647
+    commentsToLikes: 0.006821
+    id: ckbf4fiovsy330j23eh304n6t
     verified: false
-    hashtags: "#affiliatemarketingtips, #makemoneyfromhome, #onlinebusiness, #affiliatemarketing"
+    hashtags: "#tiktokargentina, #xyzbca, #fashiontrends, #pinterest"
+  - username: "zoearcucciiii"
+    fullname: >-
+      arcucci
+    bio: >-
+      IG: zoearcucci tiktok @zoearcucci2
+    location: "Argentina"
+    followers: 508600
+    engagement: 2341
+    commentsToLikes: 0.009150
+    id: ckb9cgndtz4yb0j2344injx48
+    verified: false
+    hashtags: "#fyp, #xyzbca, #greenscreen, #parati"
+  - username: "santic5490"
+    fullname: >-
+      videos
+    bio: >-
+      
+    location: "Argentina"
+    followers: 37300
+    engagement: 1712
+    commentsToLikes: 0.130089
+    id: cka0gt4er5vau0i78lgqt36fl
+    verified: false
+    hashtags: "#viral, #fortnite, #foryou, #funny"
 ---

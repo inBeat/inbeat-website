@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Chicago In 2022
+title: Top 10 Home Decor TikTok Influencers In Chicago In 2023
 description: >-
-  Find top home decor TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #homedecor #chicago #foryou.
+  Find top home decor TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #homedecor #chicago #foryou.
 platform: TikTok
-hits: 21
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 21 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 7
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 7 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "mands256"
-    fullname: >-
-      A.fin
-    bio: >-
-      Daily dose of cringey videos
-    location: "United States"
-    followers: 3627
-    engagement: 699
-    commentsToLikes: 0.053116
-    id: ckcptoj9fohum0j23v5yyj12u
-    verified: false
-    hashtags: "#funny, #fyp, #euphoria, #fail"
   - username: "livewithmoi"
     fullname: >-
       MOIRA
     bio: >-
-      Poor Chicago girl with taste Follow me on IG: moiiisauce 🤍
+      Poor Chicago girl with taste Follow me on IG: andmoira 🤍
     location: "United States"
-    followers: 4901
-    engagement: 838
-    commentsToLikes: 0.033802
+    followers: 4838
+    engagement: 797
+    commentsToLikes: 0.029837
     id: ckbexsvczia4n0j23hg485zgk
     verified: false
-    hashtags: "#stayathome, #boredathome, #happy, #target"
-  - username: "gennahardin"
+    hashtags: "#home, #fyp, #lifestyle, #apartment"
+  - username: "houseofhipsters"
     fullname: >-
-      Genna
+      Kyla  |  Home Decor Blogger
     bio: >-
-      18 🏳️‍🌈 chicago | film school
+      Home decor blogger sharing my home, styling tips, & inspiring you to DIY Chicago
     location: "United States"
-    followers: 6030
-    engagement: 1854
-    commentsToLikes: 0.044388
-    id: ck9k0cxn5chac0j78xmepv4o5
+    followers: 345700
+    engagement: 701
+    commentsToLikes: 0.049126
+    id: ckav06m635tc50j23rrberu2z
     verified: false
-    hashtags: "#readysetgo, #foryou, #foryoupage, #lgbt"
-  - username: "chan_the_rapper3"
-    fullname: >-
-      Anthony Chan
-    bio: >-
-      Loyola University Chicago J U S T F O R F U N 19
-    location: "United States"
-    followers: 7487
-    engagement: 1052
-    commentsToLikes: 0.080030
-    id: ckajkb1eppkyw0i78gyzwp43z
-    verified: false
-    hashtags: "#foryou, #sad, #duet, #fyp"
-  - username: "johnarundel"
-    fullname: >-
-      john arundel
-    bio: >-
-      🇮🇪 19 | Chicago business: jarundel20@gmail.com @thecoldestwater influencer
-    location: "United States"
-    followers: 79200
-    engagement: 1174
-    commentsToLikes: 0.023559
-    id: cka0x67za5vxj0i78f5cgxaqm
-    verified: false
-    hashtags: "#greenscreensky, #duet, #thecoldestwater, #selfcareroutine"
+    hashtags: "#tiktokpartner, #vintagevibes, #learnontiktok, #decorontiktok"
   - username: "hmorri15"
     fullname: >-
       han 🦋
     bio: >-
       21 ✰ chicago here for a good time not a long time folks
     location: "United States"
-    followers: 4584
-    engagement: 1119
-    commentsToLikes: 0.021237
+    followers: 4437
+    engagement: 1103
+    commentsToLikes: 0.021482
     id: ckb9rh5fpo4c40j232zlwl8nz
     verified: false
-    hashtags: "#italy, #studyabroad, #chicago, #aesthetic"
-  - username: "yunahlee"
+    hashtags: "#couplegoals, #aesthetic, #minnesota, #neverfitin"
+  - username: "texasluxuryliving"
     fullname: >-
-      yunahlee
+      DianaRealtor
     bio: >-
-      More aesthetic on IG 😘 Physician Assistant👩🏻‍⚕️ Your Chicago girl!
+      Let me find your next home 🏡 at the best rate! Fill out link for more info 📲
     location: "United States"
-    followers: 22300
-    engagement: 836
-    commentsToLikes: 0.022537
-    id: ckbf0gxcfm5pz0j23wr8ie0le
+    followers: 106000
+    engagement: 1116
+    commentsToLikes: 0.017731
+    id: ckcjcs62d9p6n0j23vqqxom0i
     verified: false
-    hashtags: "#cityofchicago, #chicagolife, #chicagorestaurants, #tiktokdessert"
-  - username: "serena.lol"
+    hashtags: "#ny, #houston, #moneytok, #chicago"
+  - username: "magggiemoooo"
     fullname: >-
-      serena🗣👑
+      MaggieMoo
     bio: >-
-      🇲🇽🇵🇷🇮🇹 Chicago, IL📍 It’s just a joke at this point🕺🏽
+      
     location: "United States"
-    followers: 11800
-    engagement: 1380
-    commentsToLikes: 0.027155
-    id: ck8adh1jf65k70j78z277tt1c
+    followers: 15300
+    engagement: 476
+    commentsToLikes: 0.021418
+    id: ckc7tb8e3xr780j236aoqzzpf
     verified: false
-    hashtags: "#greenscreen, #fyp, #bestie, #chicago"
-  - username: "houseofhipsters"
-    fullname: >-
-      Kyla  |  Home Decor Blogger
-    bio: >-
-      Home Decor Blogger - Styling & Interiors Chicago, IL
-    location: "United States"
-    followers: 42200
-    engagement: 594
-    commentsToLikes: 0.048588
-    id: ckav06m635tc50j23rrberu2z
-    verified: false
-    hashtags: "#designtrends, #cottagecore, #furnitureflip, #homedecorideas"
+    hashtags: "#foryoupage, #cleveland, #fyp, #duet"
   - username: "mangos_chile"
     fullname: >-
       Suri H :)
     bio: >-
-      BLACK LIVES MATTER She / her / hers Instagram: Mangos_chile
+      She / her / hers Instagram: Mangos_chile
     location: "United States"
-    followers: 16800
-    engagement: 1236
-    commentsToLikes: 0.021077
+    followers: 17400
+    engagement: 1243
+    commentsToLikes: 0.022741
     id: ckbl2ezouzjuy0j2337pay1cz
     verified: false
-    hashtags: "#green, #propagation, #succulentcare, #succulent"
+    hashtags: "#succulents, #plantshopping, #succulent, #fyp"
+  - username: "asiamiamor"
+    fullname: >-
+      Asiamiamor
+    bio: >-
+      💕IG @asiamiamor
+    location: "United States"
+    followers: 13400
+    engagement: 601
+    commentsToLikes: 0.049009
+    id: ckbqglg2q23mj0j23thb0ds2i
+    verified: false
+    hashtags: "#mua, #moneytok, #foru, #foryou"
+  - username: "jessiethomasdesigns"
+    fullname: >-
+      DIY & Design
+    bio: >-
+      🌷Everything Home🌷 DIY’s•HomeDecor•Garden Shop my TikTok videos below ⬇️
+    location: "United States"
+    followers: 40200
+    engagement: 317
+    commentsToLikes: 0.107724
+    id: ckb9j7spiacq80j23qrxld8wr
+    verified: false
+    hashtags: "#designedtobestuckup, #kitchendesign, #over30, #yesdaychallenge"
+  - username: "naztazia"
+    fullname: >-
+      Naztazia
+    bio: >-
+      Donna & Sarah from Naztazia #DIY #crafts #homedecor #recipes #beauty #tutorials
+    location: "United States"
+    followers: 8354
+    engagement: 963
+    commentsToLikes: 0.021178
+    id: ckd0fri5ydugq0j23pak1935n
+    verified: false
+    hashtags: "#crafty, #yarn, #summerdiy, #learnontiktok"
+  - username: "summerx._.cloudy"
+    fullname: >-
+      25k Loading.........
+    bio: >-
+      Z liked 1x ibf Nina Tysm for 14k followers💕💕 Z FOLLOWED 🥺🥺❤❤❤ goal 25k
+    location: "United States"
+    followers: 14100
+    engagement: 3144
+    commentsToLikes: 0.419208
+    id: ckbqkkx6y5n990j23hw4tlvs5
+    verified: false
+    hashtags: "#xyzbca, #fyp, #zoe, #healthyliving"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Las Vegas In 2022
+title: Top 10 Food Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top food Instagram influencers in Las Vegas in 2022. Most popular hashtags: #food #lasvegas #foodphotography #instafood.
+  Find top food Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #food #vegas #foodie.
 platform: Instagram
-hits: 107
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 107 Instagram influencers like this in Las Vegas, United States for you to pitch.
+hits: 137
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 137 Instagram influencers like this in Las Vegas, United States for you to connect with.
 profiles:
   - username: "menace"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       @TheWoodyShow Mornings on @ALT987FM #LosAngeles + 30 more cities ❤️ #Frenchies #Travel #Food #LasVegas ⤵️ sub to our podcast & mine @whatsnewpod 🔊📻
     location: "United States"
-    followers: 57218
-    engagement: 319
-    commentsToLikes: 0.018316
+    followers: 58428
+    engagement: 488
+    commentsToLikes: 0.027050
     id: ck0vxtx7e0pu90i19bk0p5w35
     verified: true
-    hashtags: "#foodphotography, #dtla, #foodporn, #yummy"
-  - username: "two_platez"
+    hashtags: "#soulfood, #weouthere, #food, #fastfood"
+  - username: "chef.ap"
     fullname: >-
-      TWO_PLATEZ
+      Chef AP
     bio: >-
-      Freddy | AKA Two_Platez | #twoplatez 🄻🄰🅂 🅅🄴🄶🄰🅂 For partnerships e-mail: twoplatez1904@gmail.com
+      🛫Traveling Private Chef 👨🏾‍🍳 “Superior Cuisine With The Warmth Of Home” For Private Dining & Catering Inquiries 📧 sogcuisine@chefaep.com #SteaKing
     location: "United States"
-    followers: 16077
-    engagement: 359
-    commentsToLikes: 0.218803
-    id: ck5c1q6gpvp7a0i1111wtiol6
+    followers: 61032
+    engagement: 576
+    commentsToLikes: 0.006586
+    id: ckf5odr5a1ujp0j23sfy1l2qo
     verified: false
-    hashtags: "#feedfeed, #gourmet, #foodiesofinstagram, #twoplatez"
-  - username: "michelernots"
+    hashtags: "#instachef, #foodstylist, #downtownlasvegas, #charlotteeats"
+  - username: "californiacalories"
     fullname: >-
-      Michel Ernots
+      SF BAY AREA FOODIES | E & A
     bio: >-
-      Pastry chef 🇧🇪🇺🇸 and co founder of @amauryguichon.pastryacademy
+      Eric & Allison • Not your average foodies 🤪 🎞 More fun on Reels ➡️ Reels tab 📍Bay Area, CA 📩 DM/email us to collab
     location: "United States"
-    followers: 24790
-    engagement: 316
-    commentsToLikes: 0.022466
-    id: ck5hle5agk20q0i11s3bvxh5a
+    followers: 14885
+    engagement: 482
+    commentsToLikes: 0.282445
+    id: ck6tqxx86vd6b0j710qhesskc
     verified: false
-    hashtags: "#pomati, #gelato, #vanilla, #coffeetime"
-  - username: "imediatrooper"
+    hashtags: "#yummy, #buzzfeast, #sf, #bayareafoodie"
+  - username: "mouseysmokey"
     fullname: >-
-      iMediatrooper
+      👱🏼‍♀️😎🏈🏡💰🖤
     bio: >-
-      “When you can’t make them see the light, make them feel the heat” Ronald Reagan. NV State Trooper, Vet🇺🇸, PIO, Las Vegas. Borrow my pics with 📸 credit
+      🖤married🖤💍😈💀R💀A💀I💀D💀E💀R💀S🖤 INFAMOUS BLOT CREW 🖤💯the real mouseysmokey 😜🇲🇽
     location: "United States"
-    followers: 14650
-    engagement: 764
-    commentsToLikes: 0.031021
-    id: ck5pzs1ze2h800i11n0733r2x
+    followers: 26698
+    engagement: 200
+    commentsToLikes: 0.032041
+    id: ck9wollux5ngw0j78e8oesayz
     verified: false
-    hashtags: "#honor, #beautiful, #imediatrooper, #fun"
+    hashtags: "#raidersfootball, #infamous, #rn4l, #raiders"
   - username: "shiannjanay"
     fullname: >-
       Shiann Lewis
     bio: >-
-      She-Ann...not Shy-Ann✨ Wine | Food | Fitness 📍Las Vegas |🌹Bach24
+      She-Ann...not Shy-Ann✨ Wine | Food | Fitness 📍Las Vegas |🌹Bachelor 24
     location: "United States"
-    followers: 12140
-    engagement: 382
-    commentsToLikes: 0.026724
+    followers: 11865
+    engagement: 391
+    commentsToLikes: 0.031204
     id: ckap5fcr9bf7r0i78c6fr9l1x
     verified: false
-    hashtags: "#cheerstothat, #cheerstofall, #cheershealth"
-  - username: "sinfullyspicy"
+    hashtags: ""
+  - username: "lasvegasfill"
     fullname: >-
-      Tanvi | Sinfully Spicy
+      LasVegasFill • Philip Tzeng
     bio: >-
-      Engineer|Recipes|Food Photography|Food Videos| 🏡Las Vegas Partnerships DM/📧sinfully.spicy@yahoo.com #sinfullyspicy #foodvideos #indianfood
+      Based out of Sin City and I eat almost everywhere! Check out the LasVegasFill Food + Social podcast on all major platforms! philiptzeng0@gmail.com
     location: "United States"
-    followers: 23178
-    engagement: 222
-    commentsToLikes: 0.177032
-    id: ck6tjj3352tg40j71ppldq3he
+    followers: 197893
+    engagement: 254
+    commentsToLikes: 0.022322
+    id: ck0u0nzqpuaf50i19zdbtiaeq
     verified: false
-    hashtags: "#punjabifood, #delicious, #ghee, #masala"
-  - username: "_patrykwlodarczyk_"
-    fullname: >-
-      Patryk Włodarczyk
-    bio: >-
-      📍LA 🕺🏼Dancer 🐎 Horse Rider - jumper/dressage @cwd_socal_la @cavalleriatoscana TikTok: _patrykwlodarczyk_ 📤wlodarczyk.patryk98@gmail.com
-    location: "United States"
-    followers: 12270
-    engagement: 562
-    commentsToLikes: 0.037613
-    id: ck0u1huehwy5o0i19fz49t1og
-    verified: false
-    hashtags: "#happy, #mountains, #love, #model"
-  - username: "fantazticfood"
-    fullname: >-
-      🍴Tazeen🍴Las Vegas Food
-    bio: >-
-      Las Vegas, NV
-    location: "United States"
-    followers: 13502
-    engagement: 833
-    commentsToLikes: 0.158421
-    id: ck5hemfn9to9w0i115znxq3dh
-    verified: false
-    hashtags: "#hawaiifoodfinds, #panader, #hawaiifoodie, #lobstertails"
+    hashtags: "#forbes, #seafoodlover, #fatty, #lasvegasfoodie"
   - username: "ryusauce"
     fullname: >-
       Las Vegas • Food & Drinks
     bio: >-
-      🙋🏻‍♂️ Paul Ryu 👰🏼 @mindi_rogers 🍼 Willow Jade 📍 Las Vegas 📱 All w/ my iPhone 🤳🏼 WORK w/ us! DM me or @jmpforce.. 👇🏼 More info
+      🙋🏻‍♂️ Paul Ryu 💁🏼‍♀️ @mindi_rogers 👶🏼 Willow Jade 📍 Las Vegas 📱All w/ my iPhone 🤳🏼 WORK w/ us! DM or Email! 👇🏼 More info
     location: "United States"
-    followers: 53682
-    engagement: 451
-    commentsToLikes: 0.028740
+    followers: 90067
+    engagement: 582
+    commentsToLikes: 0.031226
     id: ck0tvjjzebn6o0i195225aty0
     verified: false
-    hashtags: "#nomnom, #eatwell, #vegas, #sushi"
-  - username: "jayteetakesabite"
+    hashtags: "#foodnetwork, #worldstar, #vegasfood, #tacos"
+  - username: "maddispor"
     fullname: >-
-      Las Vegas Food🤳🍔🍜🌮·Jon "JT" T.
+      Madison Spor
     bio: >-
-      🙋‍♂️ @jaytee968 📸 DAILY FOOD PORN🤤 ⏰ TikTok: jayteetakesabite #️⃣ #EATLIKEAVEGASLOCAL 🏜 🏋🏻 I WORK OUT TO EAT OUT 🍽
+      lifestyle + fashion apparel Philadelphia, PA email me for PR/collab requests
     location: "United States"
-    followers: 14998
-    engagement: 361
-    commentsToLikes: 0.307854
-    id: ck0tvmp7gbxbl0i19usi723kr
+    followers: 5027
+    engagement: 1947
+    commentsToLikes: 0.043049
+    id: ck8tcy3f514i10j78witm0jo5
     verified: false
-    hashtags: "#foodie, #feastonthese, #vegas, #eatlikeavegaslocal"
+    hashtags: "#aesthetic, #blonde, #foodblog, #styleblogger"
+  - username: "lvfoodgoddess"
+    fullname: >-
+      Las Vegas Food/ Desserts
+    bio: >-
+      📍Las Vegas 🇬🇺:Island Girl @wearfoodinspiration use my code:lvfoodgoddess for 15% off
+    location: "United States"
+    followers: 17481
+    engagement: 203
+    commentsToLikes: 0.379025
+    id: ck5pznqj31vui0i11vu2ohhiu
+    verified: false
+    hashtags: "#eeeeeats, #guamfoodblog, #guamfood, #gufoodfinds"
+  - username: "avinash_poojary"
+    fullname: >-
+      AVINASH POOJARY 🇮🇳
+    bio: >-
+      Content Creator #Bangaloreinfluencer Lifestyle | Travel | Food | Hotels HHI 2016 🇺🇸 Las Vegas DM for 💵 collaboration Founder - @aftershot_studio
+    location: "United States"
+    followers: 11764
+    engagement: 930
+    commentsToLikes: 0.064360
+    id: ck600f8z2dhp30i14znhisuo0
+    verified: false
+    hashtags: "#valentinegift, #avinashpoojary, #fratellilovetalk, #lifestyleinfluencer"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Switzerland In 2022
+title: Top 10 Fitness TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top fitness TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #fitness #foryou #switzerland.
+  Find top fitness TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #fitness #viral #switzerland.
 platform: TikTok
-hits: 24
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 24 TikTok influencers like this in Switzerland for you to contact.
+hits: 21
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 21 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "karim.fit"
-    fullname: >-
-      Karim.fit
-    bio: >-
-      YouTube fitness karim Abonné 💪 👈 Espagne valancia 🇪🇦🇩🇿 Inst Abdelkarim.fi
-    location: "Switzerland"
-    followers: 50800
-    engagement: 955
-    commentsToLikes: 0.041061
-    id: ckac6091idre30i78vxiipxp1
-    verified: false
-    hashtags: "#cute, #anaba, #maroc, #gissen"
   - username: "kvn.bs"
     fullname: >-
       Kevin Messmer
@@ -30,101 +18,113 @@ profiles:
     commentsToLikes: 0.065162
     id: ckb99jdsbtupp0j23ymqnxusz
     verified: false
-    hashtags: "#foryou, #fyp, #basel, #goviral"
-  - username: "airgrabbers27"
+    hashtags: "#fy, #foryoupage, #schweiz, #notforyou"
+  - username: "karim.fit"
     fullname: >-
-      airgrabbers27
+      Karim.fit
     bio: >-
-      👦🏽Anis 💎 Mag👦🏻 😤 Allround athletes 😤 💥 Gamechangers 💥
+      Instagram : ➡️➡️➡️➡️⬆️👆 🇩🇿🇪🇦🇨🇭🇩🇪
     location: "Switzerland"
-    followers: 32700
-    engagement: 601
-    commentsToLikes: 0.013322
-    id: ck9c08m3yo4dy0j7803pfdb86
+    followers: 63600
+    engagement: 838
+    commentsToLikes: 0.031292
+    id: ckac6091idre30i78vxiipxp1
     verified: false
-    hashtags: "#fyp, #magic, #tiktok, #viral"
-  - username: "joly2210"
+    hashtags: "#wahran, #gen, #tunes, #esp"
+  - username: "blendimustafa04"
     fullname: >-
-      Jo
+      Blendi
     bio: >-
-      Follow me on instagram: be_real2210 Healthy food 🥦🥑🥑🥩🥩🍓🍓🥝
+      🇨🇭🇦🇱🇽🇰 VD Montreux Snap : blendi.m Insta : blendii_m Dancer 🕺🏻
     location: "Switzerland"
-    followers: 109500
-    engagement: 604
-    commentsToLikes: 0.009430
-    id: ck95xi9ii61fa0j78r9zcyjfs
+    followers: 4107
+    engagement: 342
+    commentsToLikes: 0.025265
+    id: ckc1zf0tm37oi0j23vaorj6t3
     verified: false
-    hashtags: "#foryoupage, #homeworkout, #abs, #fyp"
+    hashtags: "#shqip, #shqiptar, #gym, #albanian"
   - username: "saidbahrii"
     fullname: >-
       Said Bahri
     bio: >-
       One million smile - Mixed - No risk No fun - Follow on inst
     location: "Switzerland"
-    followers: 18100
-    engagement: 525
-    commentsToLikes: 0.009033
+    followers: 17200
+    engagement: 508
+    commentsToLikes: 0.010248
     id: ck8vwl1gjor6c0j78e0gvh3l8
     verified: false
-    hashtags: "#foryou, #fitnesstips, #ink, #style"
-  - username: "soleil_fatima"
+    hashtags: "#fitchallenge, #saidbahrii, #ink, #fypage"
+  - username: "maximbusiness"
     fullname: >-
-      soleil_fatima
+      Maxim Adam
     bio: >-
-      Instagram: soleil_fatima - Lifestyleblogger over50 - Content Creator - Dancer
+      Un entrepreneur qui s’amuse sur Tiktok 🤓 #Dubai 🇦🇪 #Miami 🇺🇸
     location: "Switzerland"
-    followers: 6866
-    engagement: 602
-    commentsToLikes: 0.073465
-    id: ckbfbafnj36t70j23zpx9xo5k
+    followers: 97400
+    engagement: 1218
+    commentsToLikes: 0.036726
+    id: ck9rdb9pkx6fl0j78l7b6jooz
     verified: false
-    hashtags: "#dancingkitchen, #over50club, #switzerland, #fitover50women"
-  - username: "stevenepprecht"
+    hashtags: "#dubai, #entrepreneur, #prank, #colloc"
+  - username: "tatakiii"
     fullname: >-
-      Steven Epprecht
+      TATAKI
     bio: >-
-      model & blogger IG @stevenepprecht 272K Everywhere you go, take a smile with you
+      TATAKI 🚀 Ton media suisse ! Dernier épisode FLASHBACK dispo👇
     location: "Switzerland"
-    followers: 214900
-    engagement: 922
-    commentsToLikes: 0.030160
-    id: cka85wri200ma0i78ffm00gw8
-    verified: false
-    hashtags: "#howidressup, #whatiwearfor, #styleguide, #viral"
-  - username: "boccalino.lana"
+    followers: 94500
+    engagement: 1897
+    commentsToLikes: 0.032806
+    id: ck9r43cmmt8b40j78sznrabs3
+    verified: true
+    hashtags: "#sneakersaddict, #lemondedapres, #jeudedevinettes, #playtogether"
+  - username: "nidonite"
     fullname: >-
-      boccalino.lana 🇨🇭
+      Nidonite
     bio: >-
-      Live, Love, Laugh 🙏🏻❣️😂 From Switzerland 🇨🇭 🗣 🇫🇷🇮🇹🇪🇸🇬🇧
+      🇨🇭 Suisse ⚔️ Militaire 🏍 Biker 🗯 Artiste Languages : 🇫🇷 🇬🇧 🇩🇪 🇸🇦
     location: "Switzerland"
-    followers: 9179
-    engagement: 512
-    commentsToLikes: 0.075095
-    id: ckamm3qgcyt3r0i78luxbyfnl
+    followers: 77900
+    engagement: 1256
+    commentsToLikes: 0.023512
+    id: ck95v8rohx6tk0j78d6zuil5s
     verified: false
-    hashtags: "#foryou, #perte, #foryoupage, #funny"
+    hashtags: "#bikergirl, #motorbike, #yamaha, #moto"
+  - username: "jenny._zhh"
+    fullname: >-
+      𝐽 𝐸 𝑁 𝑁 𝑌
+    bio: >-
+      📍𝐵𝑎𝑠𝑒𝑑 𝑖𝑛 𝑍𝑢̈𝑟𝑖𝑐ℎ 𝐺𝑜𝑜𝑑 𝑡ℎ𝑖𝑛𝑔𝑠 𝑛𝑒𝑒𝑑𝑠 𝑡𝑖𝑚𝑒
+    location: "Switzerland"
+    followers: 114600
+    engagement: 2664
+    commentsToLikes: 0.009179
+    id: ck9ntu3hgk2ts0j78nnbjkt5l
+    verified: false
+    hashtags: "#love, #2021, #winter, #foryoupage"
   - username: "marco_schweizer_"
     fullname: >-
-      Swiss Viking
+      Marco_Swiss_
     bio: >-
-      ➡️ Request ? ⬅️ ✉️ Contact me on Instagram ✉️ 📍 Switzerland 📍
+      ➡️ Request ? ⬅️ ✉️ Contact me on Instagram ✉️ 📍 Switzerland
     location: "Switzerland"
-    followers: 201800
-    engagement: 471
-    commentsToLikes: 0.022197
+    followers: 203000
+    engagement: 485
+    commentsToLikes: 0.021097
     id: ckdnkehkhj43a0j2331f30b69
     verified: false
-    hashtags: "#blueline, #sword, #insta, #dirt"
-  - username: "delikates.ch"
+    hashtags: "#axe, #dirt, #blueline, #cops"
+  - username: "trippy_tawny"
     fullname: >-
-      delikates.ch
+      T
     bio: >-
-      ☺️ FOLGE MIR AUF INSTA 😊 ⬆️ Oder Besuch mich in meinen Shop⬇️ Code: NEXT18FIVE
+      San Diego State 21' My videos are trash, but go ahead my dear 🧸
     location: "Switzerland"
-    followers: 3166
-    engagement: 368
-    commentsToLikes: 0.128653
-    id: ck8tlndh7c7my0j781m6cfa20
+    followers: 4689
+    engagement: 601
+    commentsToLikes: 0.020187
+    id: ckbljw2moctjm0j238uk9va9u
     verified: false
-    hashtags: "#burger, #safran, #schweiz, #switzerland"
+    hashtags: "#bfgf, #dance, #foryoupage, #foryou"
 ---

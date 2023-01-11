@@ -1,36 +1,36 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Medellín In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Medellín In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Medellín in 2022. Most popular hashtags: #tattoo #medellin #tattoos #tattooartist.
+  Find top tattoo-artists Instagram influencers in Medellín in 2023. Most popular hashtags: #tattoo #medellin #liontattoo #tattoos.
 platform: Instagram
-hits: 13
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 13 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+hits: 15
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 15 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
-  - username: "ginofragz"
+  - username: "cesarcardenas93"
     fullname: >-
-      Gino c Giménez
+      Cardenas
     bio: >-
-      Medellín - Colombia Realismo/Sᴏᴍʙʀᴀ/Cᴏʟᴏʀ. From Venezuela 🇻🇪
+      MEDELLIN 🇨🇴 ▫️Asesorías y reservas al Whatsapp 312 274 9644 ⬇️
     location: "Colombia"
-    followers: 18852
-    engagement: 242
-    commentsToLikes: 0.031759
-    id: ck55m0hkt2w8k0i11wm4w32dj
+    followers: 44233
+    engagement: 65
+    commentsToLikes: 0.021229
+    id: ck5q2xarqi8ej0i11mt65w05w
     verified: false
-    hashtags: "#tatuaje, #tatuajemedellin, #amazingtattoos, #liontattoo"
+    hashtags: "#tattoo, #sabaneta, #home, #inkedplus"
   - username: "hernanyepes_art"
     fullname: >-
       ⭕Hernan Yepes
     bio: >-
-      Tattoo artist #blackandgrey Medellín colombia 🇨🇴 WhatsApp +573234135952
+      Tattoo artist #blackandgrey Medellín colombia 🇨🇴 Cotizaciones solo por whatsapp +573234135952
     location: "Colombia"
-    followers: 93223
-    engagement: 397
-    commentsToLikes: 0.032833
+    followers: 99140
+    engagement: 429
+    commentsToLikes: 0.028309
     id: ck5ho6cflp0o90i11ihe5z39i
     verified: false
-    hashtags: "#blackandgreytattoo, #tattoo, #tatuajesnegros, #sleevetattoo"
+    hashtags: "#blancoynegro, #tatuajes, #tattoo, #colombiatattoo"
   - username: "juanpajo"
     fullname: >-
       pajo
@@ -43,88 +43,88 @@ profiles:
     id: ck8szknvlotcq0j78wgn2bq4a
     verified: false
     hashtags: ""
-  - username: "ronaldladinoart"
+  - username: "ginofragz"
     fullname: >-
-      Ronald Ladino
+      Gino c Giménez
     bio: >-
-      Déjame trabajar y el resultado sera 💪🏽 fundador de. @merakiink_tattoostudio patrocinador. @protonstencil whatsapp. ⬇️ 👇🏼 📲
+      Medellín - Colombia Realismo/Sᴏᴍʙʀᴀ/Cᴏʟᴏʀ. From Venezuela 🇻🇪
     location: "Colombia"
-    followers: 68823
-    engagement: 190
-    commentsToLikes: 0.097739
-    id: ck6tk4v8a40db0j71e2o0y0am
+    followers: 18852
+    engagement: 242
+    commentsToLikes: 0.031759
+    id: ck55m0hkt2w8k0i11wm4w32dj
     verified: false
-    hashtags: "#tattoo, #tattooartist, #tatuajes, #bucaramanga"
-  - username: "cesarcardenas93"
-    fullname: >-
-      Cesar Cardenas
-    bio: >-
-      ✏️ @cesarcardenas08 MEDELLIN 🇨🇴 ▫️Asesorías y reservas al Whatsapp 312 274 9644 ⬇️
-    location: "Colombia"
-    followers: 35862
-    engagement: 113
-    commentsToLikes: 0.017259
-    id: ck5q2xarqi8ej0i11mt65w05w
-    verified: false
-    hashtags: "#black, #inkedplus, #followme, #art"
-  - username: "giomgiraldo"
-    fullname: >-
-      🐏 Giovanny Medina - Tatuador
-    bio: >-
-      🧔🏻Tatuando en @etherius_tattoo ✨pregunta lo que quieras, estoy para ayudarte✨ ♦️citas disponibles 🔹MEDELLÍN - BOGOTÁ - MANIZALES 🇨🇴 3178544906
-    location: "Colombia"
-    followers: 28954
-    engagement: 205
-    commentsToLikes: 0.045402
-    id: ck5q48iqlo5ww0i11tglqcowm
-    verified: false
-    hashtags: "#tatuadoresenvigado, #tattooenvigado, #tattoocolombia, #tatuajesmedellin"
-  - username: "camilocolmenares"
-    fullname: >-
-      
-    bio: >-
-      📍 Bucaramanga. 📆 Bogotá, Medellín y Cali. 💌 INFO [whatsapp]
-    location: "Colombia"
-    followers: 147506
-    engagement: 227
-    commentsToLikes: 0.011681
-    id: ck6u1mqjomo0a0j71heh75dz9
-    verified: false
-    hashtags: "#tattoolife, #tattooist, #tattoodesign, #tattooed"
-  - username: "pabon.art"
-    fullname: >-
-      Jhonatan Pabon
-    bio: >-
-      Filipenses 4:13 Tattoo Artist Currently in Bogota 🇨🇴 For Appoiment DM Skateboarding Love
-    location: "Colombia"
-    followers: 34333
-    engagement: 140
-    commentsToLikes: 0.071032
-    id: ck55osusa927v0i11ix4c50ni
-    verified: false
-    hashtags: "#realistic, #healthy, #eyes, #leon"
+    hashtags: "#medellin, #medellink, #tatuadoresvenezolanos, #tatuaje"
   - username: "sebastiangomeztattoo"
     fullname: >-
       Sebastian gomez zuluaga
     bio: >-
-      Medellín 🇨🇴 ⚜️TOP⚜️ Un 🌍 de arte 🖼 📧sebastiangomeztattoo13@gmail.com ⚜️Mall palms avenue⚜️ Cotizacion al Dm o Wp ⬇️💯
+      Medellín 🇨🇴 Cancun 🇲🇽 ⚜️TOP⚜️ Un 🌍 de arte 🖼 📧sebastiangomeztattoo13@gmail.com ⚜️Mall palms avenue⚜️ Cotizacion al Dm o Wp ⬇️💯
     location: "Colombia"
-    followers: 58458
-    engagement: 138
-    commentsToLikes: 0.068197
+    followers: 80415
+    engagement: 147
+    commentsToLikes: 0.073381
     id: ck15shueud2vg0i19ewqv6jcp
     verified: false
-    hashtags: "#sebastiangomeztattoo, #colombiatattoos, #realismtattoo, #tattoomagazines"
-  - username: "hanspicotattoo"
+    hashtags: "#yosoysebastiangomez, #colombia, #colombiatattoos, #tattooart"
+  - username: "pabon.art"
     fullname: >-
-      Hans Felipe Pico Pulido
+      Jhonatan Pabon
     bio: >-
-      🇨🇴 Colombian Tattooist 📍Bogota, Colombia Owner @oleotattoogallery 📲 (+57) 3115094203 🏆 Sponsors @starbritecolors @eztattooing @protonstencil
+      Jesucristo es el camino, la verdad y la vida ✞ Tattoo Artist Currently in Bogota 🇨🇴 For Appoiment DM Skateboarding Love
     location: "Colombia"
-    followers: 45763
-    engagement: 141
-    commentsToLikes: 0.062727
-    id: ck5bur6dfiamj0i11hynhdzg9
+    followers: 34609
+    engagement: 153
+    commentsToLikes: 0.063557
+    id: ck55osusa927v0i11ix4c50ni
     verified: false
-    hashtags: "#healedtattoo, #realistic, #portrait, #starbritecolors"
+    hashtags: "#nature, #bodyart, #cheyennetattooequipment, #boudoir"
+  - username: "santicortes_"
+    fullname: >-
+      TATTOO ARTIST 𓅓
+    bio: >-
+      🛸 𝐓𝐀𝐓𝐓𝐎𝐎 𝐀𝐑𝐓𝐈𝐒𝐓 Medellín•Colombia 🇨🇴 CITAS WHATSAPP 💸 +573104099791
+    location: "Colombia"
+    followers: 45789
+    engagement: 230
+    commentsToLikes: 0.045531
+    id: ck8szl8y9ovrm0j78l6z6lpd0
+    verified: false
+    hashtags: "#salseros, #salsa, #ismaelrivera"
+  - username: "giomgiraldo"
+    fullname: >-
+      🐏 Giovanny Medina - Tatuador
+    bio: >-
+      🧔🏻Tatuando en @etherius_tattoo Medellín ✨pregunta lo que quieras, estoy para ayudarte✨ ♦️citas disponibles 🔹viajes Bogotá y Manizales 🇨🇴 3178544906
+    location: "Colombia"
+    followers: 30324
+    engagement: 176
+    commentsToLikes: 0.045319
+    id: ck5q48iqlo5ww0i11tglqcowm
+    verified: false
+    hashtags: "#tatuadorescolombianos, #envigadotattoo, #liontattoo, #medellin"
+  - username: "estebanalpez"
+    fullname: >-
+      Esteban Alpez
+    bio: >-
+      Tattoos hechos con amor ✏️🎨 #SoyRealismo Asesorías y cotizaciones por interno ,Medellín
+    location: "Colombia"
+    followers: 25121
+    engagement: 120
+    commentsToLikes: 0.013486
+    id: ck5ho6bnjp0n00i11h5l7r69c
+    verified: false
+    hashtags: "#soyrealismo, #medellin, #colombiaink, #tattoorealismo"
+  - username: "carloxangaritaart"
+    fullname: >-
+      Carlox Angarita Tattoo
+    bio: >-
+      appointment citas @carloxangaritagallery 📬 carloxangarita@gmail.com Carrera 14 a # 83-11 Bogota colombia 🇨🇴
+    location: "Colombia"
+    followers: 272777
+    engagement: 129
+    commentsToLikes: 0.061982
+    id: ck5bywshtq06p0i11lxzz0b2z
+    verified: false
+    hashtags: "#carloxangaritarealismset, #radiantcolorsink, #rockybalboa, #carloxangarita"
 ---

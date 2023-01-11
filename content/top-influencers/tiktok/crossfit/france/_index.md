@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In France In 2022
+title: Top 10 Crossfit TikTok Influencers In France In 2023
 description: >-
-  Find top crossfit TikTok influencers in France in 2022. Most popular hashtags: #crossfit #foryou #pourtoi #tiktok.
+  Find top crossfit TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #crossfit #foryou #humour.
 platform: TikTok
-hits: 21
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 21 TikTok influencers like this in France for you to contact.
+hits: 22
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 22 TikTok influencers like this in France for you to connect with.
 profiles:
-  - username: "oceaneb562"
-    fullname: >-
-      Oceaneb56🏋🏼‍♀️
-    bio: >-
-      Instagram 📷 oceaneb56 ↖️ 21 ans Crossfiteuse 💪🏻🏋🏼‍♀️
-    location: "France"
-    followers: 19600
-    engagement: 923
-    commentsToLikes: 0.046452
-    id: ckbl12xwexuxw0j23lz1mfgej
-    verified: false
-    hashtags: "#foryou, #soeur, #transition, #pourtoi"
   - username: "tonton_fit"
     fullname: >-
       Tonton Fit
     bio: >-
       🎉 Fun & Crossfit 🏋🏻 #tontonfit
     location: "France"
-    followers: 4772
-    engagement: 700
-    commentsToLikes: 0.050528
+    followers: 4912
+    engagement: 651
+    commentsToLikes: 0.048271
     id: ck9uw86tfuipj0j782ckesvl2
     verified: false
-    hashtags: "#fun, #confinement, #confinement2, #trentenaire"
+    hashtags: "#humour, #confinement, #confinement2, #fun"
+  - username: "oceaneb562"
+    fullname: >-
+      Oceaneb56🏋🏼‍♀️
+    bio: >-
+      Instagram 📷 oceaneb56 ↖️ 22 ans Crossfiteuse 💪🏻🏋🏼‍♀️
+    location: "France"
+    followers: 30400
+    engagement: 867
+    commentsToLikes: 0.038737
+    id: ckbl12xwexuxw0j23lz1mfgej
+    verified: false
+    hashtags: "#pourtoi, #tiktok, #tendance, #trend"
+  - username: "enzoleroutier"
+    fullname: >-
+      Enzooo👌🏻👏🏻💪
+    bio: >-
+      Enzo Petit voyageur De bordeaux 😜 30 ans Objectif —> 10.000K ??🥳🥳🥳
+    location: "France"
+    followers: 8006
+    engagement: 1194
+    commentsToLikes: 0.036981
+    id: ckbez3h2pk1rn0j23tlgmav3r
+    verified: false
+    hashtags: "#bordeaux, #crossfit, #forain, #french"
   - username: "madiy18"
     fullname: >-
       madiy18
     bio: >-
       Lot of Fun & Good Vibes Only 🏋️‍♀️🤸‍♀️👪 Insta: @madiy18
     location: "France"
-    followers: 42700
-    engagement: 924
-    commentsToLikes: 0.023712
+    followers: 42400
+    engagement: 790
+    commentsToLikes: 0.038760
     id: ckbf1clfjndt80j239447m3us
     verified: false
-    hashtags: "#fyp, #crossfit, #foryourpage, #pourtoi"
-  - username: "thomashubener"
+    hashtags: "#foryourpage, #crossfit, #garagegym, #foryou"
+  - username: "tokyo8476"
     fullname: >-
-      Thomas Hubener
+      Yemen8476
     bio: >-
-      DM on Instagram☝🏼 Cirque du Soleil Artist Ninja Warrior 2🥈1🥉 🇫🇷French🇫🇷
+      aalf2405@yahoo.com YouTube : tokyo8476 ❤❤❤Merci❤❤❤
     location: "France"
-    followers: 396200
-    engagement: 1302
-    commentsToLikes: 0.008111
-    id: ck910eh66hbl50j78vf4qh5qy
-    verified: true
-    hashtags: "#gymnastics, #afondlaforme, #acrobatics, #ninjawarrior"
-  - username: "clochette6991"
-    fullname: >-
-      Clochette6991
-    bio: >-
-      ❤️Merci à tous💋 Carpe Diem 🌹
-    location: "France"
-    followers: 35100
-    engagement: 1925
-    commentsToLikes: 0.075049
-    id: ckc1sufwgx4sn0j23rgojysq0
+    followers: 280600
+    engagement: 623
+    commentsToLikes: 0.028098
+    id: ckai83kne2trq0i78jrwicuxj
     verified: false
-    hashtags: "#tiktok, #muscu, #love, #halloween"
-  - username: "romanenzobl"
+    hashtags: "#adam, #duo, #ramadan2021, #crossfit"
+  - username: "delfynnmoreaux"
     fullname: >-
-      Enzooo👌🏻👏🏻💪
+      Delfynn Moreaux
     bio: >-
-      Enzo le Petit Forain de Bordeaux 👍🏻👊🏽 #gitan #bordeaux 👊🏽🙃 #29ans #enzo
+      Organisatrice d'évènementiel en Baie de Somme🐦. 39 ans, en couple, sans enfants
     location: "France"
-    followers: 3892
-    engagement: 1178
-    commentsToLikes: 0.030995
-    id: ckbez3h2pk1rn0j23tlgmav3r
+    followers: 6379
+    engagement: 2342
+    commentsToLikes: 0.960168
+    id: ckdmw2dfhbcg10j23qwl19zug
     verified: false
-    hashtags: "#foryou, #abonnetoi, #tiktok, #voyageur"
+    hashtags: "#dictature, #saintvalentin, #14fevrier, #mariereno"
   - username: "alvadi_officiel"
     fullname: >-
       alvadi_officiel
     bio: >-
       Insta ⚜ @alvadi_officiel ⚜ 🏋🏾‍♂️ Athlète 💪🏾gym 👟Fit 🏃🏾‍♂️Run 📍🇲🇫
     location: "France"
-    followers: 6605
-    engagement: 964
-    commentsToLikes: 0.038816
+    followers: 6499
+    engagement: 998
+    commentsToLikes: 0.029195
     id: ck81s5acqq37h0j78935m4ukf
     verified: false
-    hashtags: "#sportlife, #fitnes, #calisthenics, #gymtime"
-  - username: "ropestylers"
+    hashtags: "#workout, #amazing, #fitfam, #body"
+  - username: "josh_katt68"
     fullname: >-
-      ropestylers
+      Joshua
     bio: >-
-      The Ropestylers Double Dutch 📩Business : theropestylers@gmail.com
+      🌵Follow me on Instagram 🌵 ↪️Dernière vidéo YouTube↩️
     location: "France"
-    followers: 5091
-    engagement: 661
-    commentsToLikes: 0.041040
-    id: ckc82o34j3dd30j23jnv2bnxz
+    followers: 13700
+    engagement: 1318
+    commentsToLikes: 0.012897
+    id: ck9epngtste8v0j787g3npz1r
     verified: false
-    hashtags: "#slow, #vtep, #jumprope, #jumpropetraining"
-  - username: "racing.stripes"
-    fullname: >-
-      Racing stripes
-    bio: >-
-      𝟞𝟘.𝟘𝕂 ?? 𝔼́𝕕𝕚𝕥𝕤-𝕚𝕟𝕤𝕡𝕚𝕣𝕒𝕥𝕚𝕠𝕟𝕤 ♡︎💭
-    location: "France"
-    followers: 57800
-    engagement: 2160
-    commentsToLikes: 0.008504
-    id: ckdh40b48syo50j23kkwd9aqm
-    verified: false
-    hashtags: "#cute, #race, #first, #video"
+    hashtags: "#muscle, #pov, #meme, #pourtoi"
   - username: "remssbh1"
     fullname: >-
       Rems
     bio: >-
       📲 Insta : remssbh abonne toi ⬆️😁🔥 🇫🇷🇨🇦
     location: "France"
-    followers: 15500
-    engagement: 598
-    commentsToLikes: 0.028822
+    followers: 15200
+    engagement: 594
+    commentsToLikes: 0.027695
     id: ckbf1cktzndro0j23ygf6xgpm
     verified: false
-    hashtags: "#coronavirus, #militaire, #danse, #pourtoi"
+    hashtags: "#pourtoi, #danse, #tiktok, #tiktokchalenge"
+  - username: "jeoffreymln"
+    fullname: >-
+      Jeoffrey Mln
+    bio: >-
+      Tiktok🎵🎵 Un cadeau en jeux a 10k abonnés 🎊
+    location: "France"
+    followers: 5117
+    engagement: 876
+    commentsToLikes: 0.016879
+    id: ckb9io0an999x0j233s9cwc3s
+    verified: false
+    hashtags: "#pourtoii, #challenge, #humour, #covid19"
 ---

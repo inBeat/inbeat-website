@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Sydney In 2022
+title: Top 10 Food Instagram Influencers In Sydney In 2023
 description: >-
-  Find top food Instagram influencers in Sydney in 2022. Most popular hashtags: #sydneyfoodie #food #sydneyeats.
+  Find top food Instagram influencers in Sydney in 2023. Most popular hashtags: #sydneyfoodie #foodporn #food #sydneyfood.
 platform: Instagram
-hits: 132
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 132 Instagram influencers like this in Sydney, Australia for you to collaborate.
+hits: 67
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 67 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "lobaksoup"
+  - username: "chop_n_eat"
     fullname: >-
-      Lobak the Hungry Homecook
+      Chop_n_eat
     bio: >-
-      Sydney 🇦🇺 Homecooks 🇲🇾 Heritage Content Creator | For recipes, ➡️follow @thebaldmancooks 🔱 Shop Instagrammable Kitchenware & more :
+      Sydney’s cutest foodie couple —————————————— ♡ SYD, Australia ♡ Dm or Email for collabs & partnerships ✨ ♡ Chopneat1@gmail.com
     location: "Australia"
-    followers: 4178
-    engagement: 1711
-    commentsToLikes: 0.056872
-    id: ck9wd9q2ceq4u0j78jt53ai60
+    followers: 7939
+    engagement: 503
+    commentsToLikes: 0.074545
+    id: ck5buql1ui9bn0i11e9mknwxu
     verified: false
-    hashtags: "#hkfoodie, #eatclean, #foodblogger, #homecookedmeal"
-  - username: "ramvespa"
-    fullname: >-
-      Sydney Food|Travel|Biz
-    bio: >-
-      Sydney Food | Travel | Lifestyle 📸 🇦🇺🇹🇭Content Creator 📧 DM invites & collabs 📩 ram_ves@hotmail.com Lanopearl Skincare ManufacturingCompany #thailand
-    location: "Australia"
-    followers: 7948
-    engagement: 773
-    commentsToLikes: 0.045264
-    id: ck5zr10igvoo30i14ngfmggjg
-    verified: false
-    hashtags: "#canonaustralia, #ig, #victoria, #sydneylife"
-  - username: "biggerperm"
-    fullname: >-
-      Jamie Ray
-    bio: >-
-      Serial Mercedes modifier/technician/driver/ lowrider Bigperm from uk forums and magazines since the 90s (Welsh).Lives Sydney Food/Booze/Holidays/Cars
-    location: "Australia"
-    followers: 5491
-    engagement: 532
-    commentsToLikes: 0.045042
-    id: ck0udee16iyys0i19i4bbel9s
-    verified: false
-    hashtags: "#stancemerc, #rare, #airlift, #bigperm"
-  - username: "philsosophyy"
-    fullname: >-
-      Philip Lee
-    bio: >-
-      🇦🇺27/Sydney/Australia 📷 Photos by me =) 💪🏿 IIFYM | IF | Gym 🍔 Sydney Food Blog ✉️Gmail: philsosophyy@gmail.com
-    location: "Australia"
-    followers: 35901
-    engagement: 345
-    commentsToLikes: 0.069252
-    id: ck5hlrprdkqi30i11lmf5311s
-    verified: false
-    hashtags: ""
-  - username: "sma.au"
-    fullname: >-
-      Striking Models Agency 🇦🇺
-    bio: >-
-      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
-    location: "Australia"
-    followers: 91588
-    engagement: 9
-    commentsToLikes: 0.024599
-    id: ckaoxw09eezxz0i78z14ggye0
-    verified: false
-    hashtags: ""
+    hashtags: "#sydneyfoodie, #blogger, #parramattaeats, #foodgasm"
   - username: "ftlblog"
     fullname: >-
       FTLblog
     bio: >-
       Food 🍰, Travel 🛫, Lifestyle 🏖 and more. Explore the world 🌏 and be inspired. Capturing 📸 unforgettable moments. #FTLblog
     location: "Australia"
-    followers: 2709
-    engagement: 1115
-    commentsToLikes: 0.056513
+    followers: 2762
+    engagement: 610
+    commentsToLikes: 0.060995
     id: ck5zs0idcxlet0i14e4aid6b0
     verified: false
-    hashtags: "#ftl, #yum, #sydneyfoodblog, #food"
-  - username: "romelkouyan"
+    hashtags: "#food, #ftl, #instafood, #eat"
+  - username: "ramvespa"
     fullname: >-
-      Romel Kouyan
+      Ramvespa
     bio: >-
-      🎬 MKR 2020 | Pot Stirrer 🤷🏼‍♂️ 🎬 MKR 2019 | Grand Finalist 🎥 Host @ LIVE and PERSONAL | IGTV ✉️ Mngmt: Titus@mediatalent.net.au
+      Sydney Food | Travel | Lifestyle 📸 🇦🇺🇹🇭Content Creator 📧 DM invites & collabs 📩 ram_ves@hotmail.com Nikon Z6 📸 Canon EOS M50 📷
     location: "Australia"
-    followers: 19223
-    engagement: 303
-    commentsToLikes: 0.101261
-    id: ckap0gnilq73d0i78wtx969an
+    followers: 7801
+    engagement: 668
+    commentsToLikes: 0.033708
+    id: ck5zr10igvoo30i14ngfmggjg
     verified: false
-    hashtags: "#selflove, #igtv, #foodchannel, #romel"
-  - username: "foodbyzeebee"
+    hashtags: "#sydneyphotographer, #exploreaustralia, #photography, #foodgoals"
+  - username: "sma.au"
     fullname: >-
-      Sydney Foodie and Teacher
+      Striking Models Agency 🇦🇺
     bio: >-
-      💠Foodie/Photgrapher 💁🏽‍♀️🇦🇺 💠Teacher👩🏽‍🏫 💠Find me eating, cooking,networking or educating the masses 💠Dm: collab/invites #foodbyzeebee
+      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
     location: "Australia"
-    followers: 3625
-    engagement: 729
-    commentsToLikes: 0.340575
-    id: ck14l8pwiteja0i19ohnfce9t
+    followers: 87897
+    engagement: 10
+    commentsToLikes: 0.023061
+    id: ckaoxw09eezxz0i78z14ggye0
     verified: false
-    hashtags: "#coffeetable, #sydneyphotographer, #quoteoftheday, #sydneyfood"
-  - username: "sydneyoperahouse"
+    hashtags: ""
+  - username: "the_chew_crew"
     fullname: >-
-      Sydney Opera House
+      CHEW CREW MEDIA
     bio: >-
-      Watch: Bangarra Dance Theatre's 'Terrain' 👇
+      ‼️SOCIAL MEDIA MANAGEMENT🤳 SYD•PERTH•CBR•MELB East🇦🇺👉@issac_eatsalot @sammi_eatsalot @fdprn West🇦🇺👉@thebreakyrecce 🔸All Original Content🔸
     location: "Australia"
-    followers: 146110
+    followers: 60323
+    engagement: 407
+    commentsToLikes: 0.007533
+    id: ck8t08ctgr66d0j78pojtoxhp
+    verified: false
+    hashtags: "#sydneyburgerguide, #foodbeast, #burgerholic, #tryitordiet"
+  - username: "urbanfoodreview"
+    fullname: >-
+      Urban Food Review
+    bio: >-
+      🔘 Proven marketing techniques to grow your business 🔘 Social Media Management 🔘 Promotions & Reviews 🔘 Click below 👇🏻 to get in touch
+    location: "Australia"
+    followers: 33420
+    engagement: 58
+    commentsToLikes: 0.089116
+    id: ck15rhdy27xxl0i19kkmp198b
+    verified: false
+    hashtags: "#foodphotographer, #sharefood, #sydneyrestaurant, #food"
+  - username: "cynthiaeats_"
+    fullname: >-
+      Cynthia Food Photographer
+    bio: >-
+      🦘 sydney, australia 📷 food photographer, foodie & dietitian 🥢 reviewing the best cafes & restaurants 📩 cynthiaeats_@outlook.com
+    location: "Australia"
+    followers: 21205
+    engagement: 327
+    commentsToLikes: 0.098167
+    id: ck0ttrk2640ge0i19aw6ys53x
+    verified: false
+    hashtags: "#foodtography, #foodphotography, #sydfoodguide, #foodlover"
+  - username: "gardentogut"
+    fullname: >-
+      Carol 👩🏼‍🌾👩🏼‍🍳👩🏼‍💼
+    bio: >-
+      Growing family, food & flowers in suburban Sydney - or at least, trying to....
+    location: "Australia"
+    followers: 28865
     engagement: 84
-    commentsToLikes: 0.013585
-    id: ck5heaaa9rvq60i11s77u0iu8
-    verified: true
-    hashtags: "#pianoday, #ghostlights, #operaaustralia, #allaboutwomen"
-  - username: "lukenguyencooks"
+    commentsToLikes: 0.024837
+    id: ckaor9zqtmcv70i78tkbl26nz
+    verified: false
+    hashtags: "#westernsydney, #veggiepatch, #growfoodnotlawns, #sustainableliving"
+  - username: "igeorgeflavours"
     fullname: >-
-      Luke Nguyen
+      Flatlay Of Musician
     bio: >-
-      Chef, TV Presenter, Author, Gastronomic Traveller, Judge on Masterchef, Ambassador for APT, Vietnam Airlines & Taste of Australia
+      Thainese 🇹🇭 in 🇦🇺 Jesus first ✝️ ➖ DM for Collab and social media management. 📦 Out for the food, In love with the Music
     location: "Australia"
-    followers: 56860
+    followers: 12351
     engagement: 134
-    commentsToLikes: 0.022139
-    id: ck6uednniqb3k0j71n24c94rv
-    verified: true
-    hashtags: "#bazaarvietnam, #travel, #sydneytakeaway, #sbsfood"
+    commentsToLikes: 0.176680
+    id: ck5btm2m4g7gc0i119fixamx1
+    verified: false
+    hashtags: "#flathlay, #sydneyfoodblogger, #drinks, #foodpic"
+  - username: "bydanawang"
+    fullname: >-
+      Dana Wang
+    bio: >-
+      food & travel addict ☺️ 🇦🇺 ⠀from sydney, australia 🎥⠀ I sometimes make videos 👇
+    location: "Australia"
+    followers: 57613
+    engagement: 175
+    commentsToLikes: 0.054558
+    id: ckaowfy5q8rm70i78qlhe1osb
+    verified: false
+    hashtags: "#keepexploring, #travelislife, #travelphotography, #wanderlust"
 ---

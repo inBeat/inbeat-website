@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Toronto In 2022
+title: Top 10 Barbers TikTok Influencers In Toronto In 2023
 description: >-
-  Find top barbers TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #barber #foryou #foryoupage.
+  Find top barbers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #barber #canada.
 platform: TikTok
-hits: 9
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Toronto, Canada for you to work with.
+hits: 10
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 10 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "itsfreshjame"
+  - username: "kapillnagpal"
+    fullname: >-
+      Kapil Nagpal
+    bio: >-
+      Follow me on youtube⬆️ Senior hairstylist Etobicoke, Toronto. DM to book🇨🇦
+    location: "Canada"
+    followers: 16800
+    engagement: 306
+    commentsToLikes: 0.022724
+    id: ck81s0pb8p6710j78htkq1y8z
+    verified: false
+    hashtags: "#toronto, #barber, #fyp, #etobicoke"
+  - username: "manrajaujlahair"
+    fullname: >-
+      Manraj Aujla
+    bio: >-
+      Aujla Salon & Spa⬆️ IG: @AujlaSalonSpa @ManrajAujlaHair Toronto, Canada 🇨🇦
+    location: "Canada"
+    followers: 146200
+    engagement: 492
+    commentsToLikes: 0.014153
+    id: ckacl6j3peaeh0i78y1x7jvbf
+    verified: false
+    hashtags: "#hairsalon, #hairtransformation, #brampton, #toronto"
+  - username: "jbalwaysfresh_"
     fullname: >-
       JB
     bio: >-
-      Follow for a fun time 🥳 TORONTO 🇨🇦 BARBER💈 Hails💙
+      Dm me on Insta @jbalwaysfresh ⭐️ 17 year old barber 💈 jamielbustos@gmail.com
     location: "Canada"
-    followers: 292400
-    engagement: 1613
-    commentsToLikes: 0.011151
+    followers: 2000000
+    engagement: 1370
+    commentsToLikes: 0.030805
     id: ck90r261okrm70j782y2cmffd
     verified: false
-    hashtags: "#toronto, #barber, #haircut, #foryoupage"
-  - username: "julianosnuts"
-    fullname: >-
-      Julianosnuts
-    bio: >-
-      ❄️Follow me on Instagram @Julianosnuts❄️ ⚠️ Subscribe YouTube @Julianosnuts ⚠️
-    location: "Canada"
-    followers: 73200
-    engagement: 921
-    commentsToLikes: 0.023100
-    id: ck83zs57c2kam0j78myddzlud
-    verified: false
-    hashtags: "#fyp, #viral, #foryoupage, #modernwarfare"
-  - username: "devodlive"
-    fullname: >-
-      devodlive
-    bio: >-
-      Toronto 🇨🇦 Digital Creator Follow ur boi!
-    location: "Canada"
-    followers: 15300
-    engagement: 1324
-    commentsToLikes: 0.086255
-    id: ckb9uy8mhtxky0j23fdq2bfnh
-    verified: false
-    hashtags: "#6ix, #lifestyle, #foryou, #entertainment"
+    hashtags: "#foryou, #barber, #haircut, #foryoupage"
   - username: "vrajeshdave7"
     fullname: >-
       vrajesh
     bio: >-
       Toronto 🇨🇦 Soak up the good stuff
     location: "Canada"
-    followers: 27400
-    engagement: 949
-    commentsToLikes: 0.018596
+    followers: 29800
+    engagement: 1218
+    commentsToLikes: 0.019043
     id: ckbf8w7azzlqe0j23x5i44dkg
     verified: false
-    hashtags: "#foryou, #fyp, #workfromhome, #apple"
+    hashtags: "#fyp, #timefortenet, #foryou, #classroom"
+  - username: "yoyoivan"
+    fullname: >-
+      Ivan Derakhshani
+    bio: >-
+      Wait what
+    location: "Canada"
+    followers: 42700
+    engagement: 784
+    commentsToLikes: 0.062009
+    id: ck90z7cgdcui90j78rg7uqdnh
+    verified: false
+    hashtags: "#streamer, #fyp, #funny, #canada"
+  - username: "damicuts"
+    fullname: >-
+      damicuts
+    bio: >-
+      If u reading this u should follow for more content . ⬇️ hair product
+    location: "Canada"
+    followers: 383900
+    engagement: 1313
+    commentsToLikes: 0.017924
+    id: ckcde47i05yli0j23b7i1ynwm
+    verified: false
+    hashtags: "#calgary, #fyp, #barber, #duet"
+  - username: "harpsingh3"
+    fullname: >-
+      Harp Singh
+    bio: >-
+      Harp Singh IG _mrtak Hairstylist IG: hairbyharps 👻SC: harp07 Brantford 🇨🇦
+    location: "Canada"
+    followers: 28600
+    engagement: 450
+    commentsToLikes: 0.039236
+    id: ck80or3cojf930j78tqitbyz8
+    verified: false
+    hashtags: "#quarantine, #brantford, #shahkotiye, #fyp"
   - username: "ac_bl3nds"
     fullname: >-
       Alexcarisofficial
     bio: >-
-      Not your regular barber* | #teamBaByliss |
+      Just to make you laugh nothing really specific.
     location: "Canada"
-    followers: 109600
-    engagement: 784
-    commentsToLikes: 0.013918
+    followers: 111600
+    engagement: 866
+    commentsToLikes: 0.019050
     id: ck806z4mwn93h0j78pb2xc8t4
     verified: false
-    hashtags: "#fyp, #foryoupage, #coolcars, #foru"
-  - username: "manrajaujlahair"
-    fullname: >-
-      Manraj Aujla
-    bio: >-
-      Aujla Salon & Spa ⬆️ Toronto Hairstylist IG: @AujlaSalonSpa @ManrajAujlaHair
-    location: "Canada"
-    followers: 127600
-    engagement: 422
-    commentsToLikes: 0.011433
-    id: ckacl6j3peaeh0i78y1x7jvbf
-    verified: false
-    hashtags: "#apdhillon, #haircut, #perm, #fyp"
-  - username: "bramalea.rd"
-    fullname: >-
-      Bramalea Rd
-    bio: >-
-      🅱️🛣 Instagram: @bramalea.rd Twitter: BramaleaRd
-    location: "Canada"
-    followers: 27200
-    engagement: 564
-    commentsToLikes: 0.023590
-    id: ckbwl7v1z40ox0j23q41yr2z7
-    verified: false
-    hashtags: "#viral, #brown, #surrey, #comedy"
-  - username: "hair_house_boys"
-    fullname: >-
-      Roop brar
-    bio: >-
-      hair_house_boys (Instagram page) Hair house ( Facebook) 🇨🇦12565 88ave surrey
-    location: "Canada"
-    followers: 72300
-    engagement: 435
-    commentsToLikes: 0.006646
-    id: ck80os2tsjnzi0j781u7ph5cp
-    verified: false
-    hashtags: "#music, #red, #vancover, #barber"
+    hashtags: "#prank, #funnyvideos, #fyp, #carsoftiktok"
   - username: "oclno"
     fullname: >-
       OH
     bio: >-
-      Enjoy. 📍Yeg🇨🇦🇪🇺
+      Please Leave Your Hate Comments Below! ⬇️⬇️⬇️⬇️ So I can get a Good Laugh. HAHA
     location: "Canada"
-    followers: 13700
-    engagement: 668
-    commentsToLikes: 0.012772
+    followers: 13800
+    engagement: 931
+    commentsToLikes: 0.872453
     id: ck8f7vi2d3auo0j784a5ovbwh
     verified: false
-    hashtags: "#foryou, #xyzbca, #corona, #toiletpaper"
-  - username: "tri__barber"
+    hashtags: "#superbowl, #canada, #foryou, #haha"
+  - username: "heybarber"
     fullname: >-
-      Tristan Barber
+      Pavel Barber
     bio: >-
-      soit pas gener vien talk sur Snap: tri_barber je folow back insta : tri_barber
+      ▶️ YouTuber 🏒Stickhandling Specialist 🇨🇦 3x Canadian National Athlete
     location: "Canada"
-    followers: 37000
-    engagement: 1466
-    commentsToLikes: 0.025088
-    id: ckb9ugstit5od0j23mthqm6a0
-    verified: false
-    hashtags: "#tiktokquebec, #tiktokqc, #humour, #pourtoi"
+    followers: 489000
+    engagement: 1289
+    commentsToLikes: 0.009076
+    id: ck8njnxg1bb900j78k7sz68jg
+    verified: true
+    hashtags: "#hockeytiktoks, #hockey, #trickshot, #dodgeball"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Berlin In 2022
+title: Top 10 Fashion TikTok Influencers In Berlin In 2023
 description: >-
-  Find top fashion TikTok influencers in Berlin in 2022. Most popular hashtags: #berlin #fashion #fun #vlog.
+  Find top fashion TikTok influencers in Berlin in 2023. Most popular hashtags: #fashion #berlin #fyp #foryou.
 platform: TikTok
-hits: 26
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 26 TikTok influencers like this in Berlin, Germany for you to work with.
+hits: 28
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 28 TikTok influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "iloka_"
+  - username: "hannah.louisaa"
     fullname: >-
-      ilo
+      Hannah Louisa
     bio: >-
-      📍 Berlin Instagram: liloos__ 🙆🏻‍♀️ krmbx030 🙆🏻‍♂️
+      Hiiii :) 🧸-lin Pinterest & Spotify:
     location: "Germany"
-    followers: 52400
-    engagement: 1132
-    commentsToLikes: 0.009880
-    id: ckcosv89j84lr0j23ivcg2mer
+    followers: 19500
+    engagement: 1697
+    commentsToLikes: 0.014102
+    id: ckb9ffoi13uge0j23yf6iwm53
     verified: false
-    hashtags: "#girl, #lecker, #viral, #fy"
-  - username: "seusell_juli"
-    fullname: >-
-      Juli
-    bio: >-
-      ❤️⚓ mein Tiktok Anker @yaten82 ⚓❤️ folge mir auf Instagram #team_hotshots
-    location: "Germany"
-    followers: 5723
-    engagement: 1382
-    commentsToLikes: 0.216670
-    id: cka84a9hxsqp80i78m31jvhip
-    verified: false
-    hashtags: "#lookatme, #girls, #seusell, #sounds"
-  - username: "tanni_berlin"
-    fullname: >-
-      TanNi_BerLin
-    bio: >-
-      Insta @tanni_berlin CURVY FASHION FUN & FOOD
-    location: "Germany"
-    followers: 12700
-    engagement: 845
-    commentsToLikes: 0.071552
-    id: ckc8wpa96k7ff0j236coua8wy
-    verified: false
-    hashtags: "#meinerstestiktok"
+    hashtags: "#fyp, #style, #fashion, #berlin"
   - username: "alina_kossan"
     fullname: >-
       Alina Kossan
     bio: >-
-      Stylist/Model ⚡️IG:alina_kossan⚡️
+      ⚡️IG:alina_kossan⚡️
     location: "Germany"
-    followers: 19000
-    engagement: 1142
-    commentsToLikes: 0.015573
+    followers: 24700
+    engagement: 1230
+    commentsToLikes: 0.016320
     id: ck9nbgnozb1rl0j78lq2d5ain
     verified: false
-    hashtags: "#fashion, #vintage, #fyp, #berlin"
-  - username: "erikschlz"
+    hashtags: "#ootd, #viral, #fashion, #berlin"
+  - username: "bolzplatzkind_official"
     fullname: >-
-      Erik Scholz
+      Bolzplatzkind
     bio: >-
-      22 y old | 📍Berlin 🤸🏻IG: @erik [90k]
+      Football Fashion Brand Since 2015 Groß geworden, Kind geblieben. #bolzplatzkind
     location: "Germany"
-    followers: 17800
-    engagement: 795
-    commentsToLikes: 0.042493
-    id: ckblf8xxy96n90j23a3hkxmgp
-    verified: true
-    hashtags: "#foryoupage, #fashion, #meinstyle, #viral"
+    followers: 5576
+    engagement: 644
+    commentsToLikes: 0.079014
+    id: cka0oddkg381n0i78um6d3z9x
+    verified: false
+    hashtags: "#foryou, #comedy, #leben, #nachhaltigkeit"
+  - username: "mitharabui"
+    fullname: >-
+      Mithara Bui
+    bio: >-
+      turning travel into aesthetic
+    location: "Germany"
+    followers: 124700
+    engagement: 1341
+    commentsToLikes: 0.010481
+    id: cka0k7js1levm0i78k3od7gv7
+    verified: false
+    hashtags: "#berlin, #aestheticjapan, #japan, #aesthetic"
+  - username: "hashtagdaily"
+    fullname: >-
+      Hashtag Daily
+    bio: >-
+      💥 deine daily Tiktok Serie 💥 ⬇️⬇️⬇️ Shoppe Scarlet‘s Outfit‼️
+    location: "Germany"
+    followers: 41700
+    engagement: 675
+    commentsToLikes: 0.003240
+    id: ckbfeuom6923i0j23j13chc1a
+    verified: false
+    hashtags: "#viral, #hashtagdaily, #cybermobbing, #video"
+  - username: "tanni_berlin"
+    fullname: >-
+      TanNi_BerLin
+    bio: >-
+      Insta @tanni_berlin CURVY FASHION Hula Hoop FUN & FOOD
+    location: "Germany"
+    followers: 14800
+    engagement: 785
+    commentsToLikes: 0.073270
+    id: ckc8wpa96k7ff0j236coua8wy
+    verified: false
+    hashtags: "#tagderjogginghose, #maydaymayday, #hullahoop, #weightloss"
+  - username: "can.blair.new"
+    fullname: >-
+      can.blair
+    bio: >-
+      Dancer from Germany 🇩🇪 I look better on instagram😅 Snapchat, insta: can.blair
+    location: "Germany"
+    followers: 188800
+    engagement: 915
+    commentsToLikes: 0.015826
+    id: ck8rrj376unza0j7873nhjfbm
+    verified: false
+    hashtags: "#dance, #berlin, #tutorial, #fashion"
   - username: "fuerstwiacek"
     fullname: >-
       FUERST WIACEK
     bio: >-
       Modern Beer from Berlin.
     location: "Germany"
-    followers: 42100
-    engagement: 485
-    commentsToLikes: 0.002932
+    followers: 41800
+    engagement: 479
+    commentsToLikes: 0.003097
     id: ck9dpiy4jw3t70j78hclmklfk
     verified: false
-    hashtags: "#beer, #craftbeer, #fuerstwiacek, #ipa"
+    hashtags: "#craftbeer, #fuerstwiacek, #ipa, #craftbeerlife"
+  - username: "iloka_"
+    fullname: >-
+      ilo
+    bio: >-
+      📍 Berlin Instagram: liloos__ 🙆🏻‍♀️ krmbx030 🙆🏻‍♂️
+    location: "Germany"
+    followers: 64900
+    engagement: 1145
+    commentsToLikes: 0.010050
+    id: ckcosv89j84lr0j23ivcg2mer
+    verified: false
+    hashtags: "#essen, #german, #zara, #berlin"
   - username: "fromyenn"
     fullname: >-
       Yenn
     bio: >-
-      ✞ Let’s be kind 🦋 Follow for fashion & styles ✨
+      LOVE PEOPLE LOVE GOD 🤍 Fashion & a little bit of ✨spice✨
     location: "Germany"
-    followers: 7019
-    engagement: 1613
-    commentsToLikes: 0.049965
+    followers: 12000
+    engagement: 944
+    commentsToLikes: 0.087911
     id: ckbeymy2kj7zw0j23ls333ojh
     verified: false
-    hashtags: "#outfitideas, #berlinstyle, #falloutfits, #herbstlook"
-  - username: "yaten82"
-    fullname: >-
-      yaten
-    bio: >-
-      ❤⚓Mein TT-Anker @seusell_juli ❤⚓ 📍Berlin 😂 viele lustige Videos 😂
-    location: "Germany"
-    followers: 12600
-    engagement: 1211
-    commentsToLikes: 0.139246
-    id: cka863tci0w9r0i78frhnol80
-    verified: false
-    hashtags: "#tomboy, #zuckerhut, #sound, #duett"
-  - username: "sandra.winnik"
-    fullname: >-
-      Sandra
-    bio: >-
-      26 🤷🏻‍♀️ 🔥CEO of BERLIN🔥 🔥Instagram: sandramipw🔥
-    location: "Germany"
-    followers: 5020
-    engagement: 434
-    commentsToLikes: 0.072640
-    id: ckb8y2q6idaqf0j23kibkhr77
-    verified: false
-    hashtags: "#german, #fyp, #peopleofberlin, #mitte"
-  - username: "mitharabui"
-    fullname: >-
-      Mithara Bui
-    bio: >-
-      Addicted to travel, fashion, anime ❤️📸 I'm asexual and I'm proud of it!
-    location: "Germany"
-    followers: 98700
-    engagement: 1577
-    commentsToLikes: 0.011110
-    id: cka0k7js1levm0i78k3od7gv7
-    verified: false
-    hashtags: "#berlinfood, #aesthetic, #japan, #tokyo"
+    hashtags: "#fitcheck, #berlinstyle, #style, #springoutfit"
 ---

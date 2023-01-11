@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Canada In 2022
+title: Top 10 Divers TikTok Influencers In Canada In 2023
 description: >-
-  Find top divers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #canada #xyzbca.
+  Find top divers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #canada #greenscreen #duet.
 platform: TikTok
-hits: 41
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 41 TikTok influencers like this in Canada for you to connect with.
+hits: 196
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 196 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "thomasciprick"
     fullname: >-
@@ -13,60 +13,96 @@ profiles:
     bio: >-
       🇨🇦 Diver
     location: "Canada"
-    followers: 116800
-    engagement: 1049
-    commentsToLikes: 0.003845
+    followers: 116900
+    engagement: 1042
+    commentsToLikes: 0.003659
     id: ck806zczlnbd50j78tyvu07re
     verified: false
-    hashtags: "#diving, #foryoupage, #fyp, #foryou"
+    hashtags: "#diving, #fyp, #greenscreen, #sport"
+  - username: "michellejaelinrd"
+    fullname: >-
+      Michelle Jaelin, RD 關靜嫻
+    bio: >-
+      🇨🇦🇭🇰 TV Registered Dietitian. Culturally inclusive, diverse nutrition tips.
+    location: "Canada"
+    followers: 11300
+    engagement: 839
+    commentsToLikes: 0.129376
+    id: ckaftsbg96px60i7840eamxrs
+    verified: false
+    hashtags: "#wellnesstips, #tiktokdietitian, #asianfood, #asianamerican"
   - username: "moderndiver"
     fullname: >-
       The Modern Scuba Diver Channel
     bio: >-
-      🇨🇦 Dedicated to educating modern scuba divers 🇨🇦
+      🇨🇦 Dedicated to educating modern scuba divers 🇨🇦 👇 Merch, Discord, More 👇
     location: "Canada"
-    followers: 49100
-    engagement: 1112
-    commentsToLikes: 0.069529
+    followers: 145400
+    engagement: 987
+    commentsToLikes: 0.082513
     id: ckac5t83hdmvm0i78e4ynpqn2
     verified: false
-    hashtags: "#boo, #scubadiving, #storytime, #cave"
+    hashtags: "#tiktokcanadacreates, #diver, #scubadiving, #scuba"
   - username: "alexlloydd"
     fullname: >-
       Alex Lloyd⚓️
     bio: >-
-      🇨🇦NAVY DIVER🇨🇦 Insta: alex.lloyd__
+      Military Diver🇨🇦⚔️ Insta: alex.lloyd__
     location: "Canada"
-    followers: 14700
-    engagement: 1025
-    commentsToLikes: 0.025887
+    followers: 16700
+    engagement: 973
+    commentsToLikes: 0.035690
     id: ckbfaamx31l6i0j238oy05gjx
     verified: false
-    hashtags: "#ontario, #fyp, #canadiancheck, #canada"
+    hashtags: "#fyp, #xyzbca, #learnontiktok, #canada"
   - username: "ambersweaza"
     fullname: >-
       Amber Davis Sweaza
     bio: >-
       90’s Music ♬ Canada based ❅ World Wanderer ✈︎ Diverse Foodie ☕︎
     location: "Canada"
-    followers: 3622
-    engagement: 597
-    commentsToLikes: 0.019396
+    followers: 3550
+    engagement: 679
+    commentsToLikes: 0.020535
     id: ckcui5um8fy3a0j23uxf2yivv
     verified: false
-    hashtags: "#yyc, #travelthrowback, #canada, #italy"
-  - username: "michellejaelinrd"
+    hashtags: "#travelthrowback, #yyc, #canada, #fyp"
+  - username: "yabooktok"
     fullname: >-
-      Michelle Jaelin, RD 關靜嫻
+      faith:)
     bio: >-
-      🇨🇦🇭🇰Media Nutrition Expert. Asian Registered Dietitian. Journey to 10k 🙏🏼
+      she/her | 19 pfp: @h00djabi_ faithdehghan@gmail.com 🇨🇦🇮🇷
     location: "Canada"
-    followers: 6397
-    engagement: 832
-    commentsToLikes: 0.146528
-    id: ckaftsbg96px60i7840eamxrs
+    followers: 11900
+    engagement: 1700
+    commentsToLikes: 0.044119
+    id: ckbez2dw6jwfc0j23a3fpkniv
     verified: false
-    hashtags: "#evidencebased, #diversevoices, #healthyeatingtips, #fitness"
+    hashtags: "#readinglist, #shadowandbone, #booktok, #reading"
+  - username: "jaxonsorchafenris"
+    fullname: >-
+      Jax
+    bio: >-
+      actor/writer/storyteller 🏳️‍🌈 Queer AF 🏳️‍🌈 pan/poly/enby they/them/pirate
+    location: "Canada"
+    followers: 13200
+    engagement: 1665
+    commentsToLikes: 0.235256
+    id: ckcpsomhmn28n0j235jfpzqea
+    verified: false
+    hashtags: "#fyp, #colonialism, #nativetiktok, #nonbinary"
+  - username: "gray_enby"
+    fullname: >-
+      Bunny Grayson
+    bio: >-
+      🏳️‍🌈They/Them🏳️‍🌈 I'm 25 Peep the wishlists in my linktree 😉
+    location: "Canada"
+    followers: 65200
+    engagement: 2750
+    commentsToLikes: 0.053348
+    id: ckbbnlogwbmbo0j23g00wj3yw
+    verified: false
+    hashtags: "#fyp, #isaidwhatisaid, #foryoupage, #westan"
   - username: "elim_whatshername"
     fullname: >-
       Elim
@@ -74,57 +110,21 @@ profiles:
       🇨🇦 y'all need to chill
     location: "Canada"
     followers: 31600
-    engagement: 2182
-    commentsToLikes: 0.026931
+    engagement: 1970
+    commentsToLikes: 0.031849
     id: ck8f7v6rl3a2u0j78r9nijxj8
     verified: false
-    hashtags: "#phlebotomist, #brazilianjiujitsu, #fyp, #canadianproblems"
-  - username: "pypcicle"
+    hashtags: "#nurselife, #hospitaltiktoks, #bjjgirl, #phlebotomist"
+  - username: "thehunterathome"
     fullname: >-
-      Momma Pypes
+      hunterathome
     bio: >-
-      Adult only 19+ Harm Reduction She/Her 🇨🇦💗💛💙 Neurodiverse Leftist Catmom
+      Connect with me on Twitter & Insta! @hunterathome
     location: "Canada"
-    followers: 32000
-    engagement: 1662
-    commentsToLikes: 0.049998
-    id: ckb8zdyouem3b0j230j60br3i
+    followers: 22500
+    engagement: 1452
+    commentsToLikes: 0.053501
+    id: ckblj4g3fc8hb0j23k58liwcl
     verified: false
-    hashtags: "#science, #biden2020, #xyzbca, #duet"
-  - username: "joeachakji"
-    fullname: >-
-      Joe Achakji
-    bio: >-
-      Digital Soul Food Guru☝🏼🥣 Music | Passion | LifeTips Artist at heart
-    location: "Canada"
-    followers: 4384
-    engagement: 1887
-    commentsToLikes: 0.208082
-    id: cka0hba0l8gho0i78om371daq
-    verified: false
-    hashtags: "#helpothers, #xyzbca, #fyp, #beamazing"
-  - username: "marcolivier_slam"
-    fullname: >-
-      Élémo
-    bio: >-
-      Slameur et rappeur J’aime jouer avec les mots 😁🇨🇦🇭🇹 ig: @marcolivierslam
-    location: "Canada"
-    followers: 137000
-    engagement: 1598
-    commentsToLikes: 0.027420
-    id: ck7zo5jrdi0370j78t52h4h5p
-    verified: false
-    hashtags: "#montr, #slampo, #montreal, #slam"
-  - username: "elliott_gee"
-    fullname: >-
-      Elliott😀
-    bio: >-
-      Don’t take this seriously 🙈 Vancouver, BC🇨🇦 He/Him/His
-    location: "Canada"
-    followers: 21800
-    engagement: 1366
-    commentsToLikes: 0.034291
-    id: ckdbv96f6dhjb0j23cy8dx67r
-    verified: false
-    hashtags: "#vancouver, #itbelikethat, #canada, #barbz"
+    hashtags: "#yeg, #greenscreen, #cold, #fyp"
 ---

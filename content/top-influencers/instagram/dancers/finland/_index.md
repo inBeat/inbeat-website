@@ -1,108 +1,108 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Finland In 2022
+title: Top 10 Dancers Instagram Influencers In Finland In 2023
 description: >-
-  Find top dancers Instagram influencers in Finland in 2022. Most popular hashtags: #finland #dancer #dance #helsinki.
+  Find top dancers Instagram influencers in Finland in 2023. Most popular hashtags: #finland #dance #dancer.
 platform: Instagram
-hits: 21
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 21 Instagram influencers like this in Finland for you to collaborate.
+hits: 16
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 16 Instagram influencers like this in Finland for you to work with.
 profiles:
-  - username: "jenniekarri"
-    fullname: >-
-      Jennie Kari
-    bio: >-
-      Gogo dancer ✨ ▪️who loves to shuffle 💃🏽 @jennieshuffle ▪️future coder ⌨️ ‼️SHUFFLE TUNNIT HELSINGISSÄ 🔥👇🏾
-    location: "Finland"
-    followers: 5850
-    engagement: 1838
-    commentsToLikes: 0.072515
-    id: ck0w5fz5i3gik0i19zledfvx2
-    verified: false
-    hashtags: "#summer, #helsinki, #filipina, #dance"
-  - username: "veerajjulia"
-    fullname: >-
-      V E E R A  V I R T A
-    bio: >-
-      🇫🇮 23, Tampere⁣ 🇧🇷 Samba dancer&teacher⁣⁣ 🇷🇺 Language uni student⁣ 🎙Podcaster @ihmeellinenitapodcast ⁣ ⁣ 💪🏽@diamond.athlete -treeniohjelmat👇🏼
-    location: "Finland"
-    followers: 49937
-    engagement: 1121
-    commentsToLikes: 0.006646
-    id: ck5zwvh416u670i14efq5wu72
-    verified: false
-    hashtags: "#ainaeijaksa, #nealindbergpresets, #maybeauty, #merkitys2ndhand"
   - username: "jasmingeselle"
     fullname: >-
       JASMIN GESELLE  🇫🇮
     bio: >-
-      🔸 DANCER | CHOREOGRAPHER 🔸 TEAM @celsiussuomi 🔸 AMBASSADOR @solgarsuomi 🔸 @icaniwill -20% ’JASMINGESELLE20’
+      🔸 DANCER | CHOREOGRAPHER 🔸 TEAM @celsiussuomi 🔸 AMBASSADOR @icaniwill @suomentanssitarvike
     location: "Finland"
-    followers: 5926
-    engagement: 913
-    commentsToLikes: 0.020475
+    followers: 5982
+    engagement: 952
+    commentsToLikes: 0.045830
     id: ck6tzmucjamy50j71feg1ho3z
     verified: false
-    hashtags: "#dancers, #choreographer, #wellness, #dancer"
+    hashtags: "#30thbirthday, #dancer, #weekend, #browbarhelsinki"
+  - username: "veerajjulia"
+    fullname: >-
+      V E E R A  V I R T A
+    bio: >-
+      🇫🇮 24, Tampere⁣ 🇧🇷 Samba dancer&teacher⁣⁣ 🇷🇺 Language uni student⁣ 🎙Podcaster @ihmeellinenitapodcast ⁣ ⁣ 💪🏽@diamond.athlete -treeniohjelmat👇🏼
+    location: "Finland"
+    followers: 48592
+    engagement: 1221
+    commentsToLikes: 0.007342
+    id: ck5zwvh416u670i14efq5wu72
+    verified: false
+    hashtags: "#maybeauty, #theincrediblefacekit, #facekit, #lamps4makeup"
+  - username: "jenniekarri"
+    fullname: >-
+      Jennie Kari
+    bio: >-
+      Gogo dancer ✨ ▪️who loves to shuffle 💃🏽 @jennieshuffle ▪️future coder ⌨️ ‼️SHUFFLE TUNNIT HELSINGISSÄ🔥👇🏾
+    location: "Finland"
+    followers: 6163
+    engagement: 1518
+    commentsToLikes: 0.083466
+    id: ck0w5fz5i3gik0i19zledfvx2
+    verified: false
+    hashtags: "#ysta, #goodvibes, #espoo, #lovereels"
   - username: "jurgih"
     fullname: >-
-      Jyrki Haapala
+      
     bio: >-
       * Dancer, director, performer, communication & stress coach * 🏠 in 🇫🇮 & 🇫🇷
     location: "Finland"
-    followers: 20175
-    engagement: 775
-    commentsToLikes: 0.026890
+    followers: 20042
+    engagement: 767
+    commentsToLikes: 0.027885
     id: ck6uaap892hlw0j71t9aamis8
     verified: false
-    hashtags: "#beardnation, #beardiful, #plantlove, #plantlover"
+    hashtags: "#beautifulflowers, #beardup, #plantphotography, #ig"
   - username: "anttonlaine"
     fullname: >-
       Antton Laine
     bio: >-
       Creative Choreographer,Gymnastic Coach and Dancer from Helsinki Finland ❤🇫🇮🌍
     location: "Finland"
-    followers: 6416
-    engagement: 705
-    commentsToLikes: 0.027913
+    followers: 6443
+    engagement: 732
+    commentsToLikes: 0.030756
     id: ck55midfh40xc0i11tv8vbwsv
     verified: false
-    hashtags: "#love, #minetit, #nature, #2020"
+    hashtags: "#summer, #agg, #nature, #minetit"
   - username: "helenarngman"
     fullname: >-
       Helena Rängman
     bio: >-
-      Actress/Singer/Musician/Dancer/Coach/Freelancer Aira @suomenkesateatteri Evita @seinajoenkaupunginteatteri Director @tampereennuorisoteatteri
+      Actress•Singer•Musician•Dancer•Coach She/Her Evita @seinajoenkaupunginteatteri Director @tampereen_nuorisoteatteri Ambassador @alignfitnessbyallie
     location: "Finland"
-    followers: 17598
-    engagement: 280
-    commentsToLikes: 0.016818
+    followers: 17714
+    engagement: 238
+    commentsToLikes: 0.016764
     id: ck5bvfjfujk140i11je991pkd
     verified: false
-    hashtags: "#evitamusical, #jahelenaleipoo, #teamalw, #evita"
+    hashtags: "#musicalartist, #singer, #actress, #musical"
   - username: "josefiinakotajarvi"
     fullname: >-
       Josefiina Kotajärvi
     bio: >-
-      Dancer | Finland kotajarvijosefiina@gmail.com @d.oubledate @prpldc
+      Dancer | Finland kotajarvijosefiina@gmail.com @d.oubledate @prpldc @visuals.ko
     location: "Finland"
-    followers: 5042
-    engagement: 1331
-    commentsToLikes: 0.041399
+    followers: 5446
+    engagement: 1413
+    commentsToLikes: 0.043208
     id: ck6tzmxcoang20j71ggnqbcc0
     verified: false
-    hashtags: "#finland, #collab, #doubledate, #workshop"
+    hashtags: "#dance, #collab, #finland, #doubledate"
   - username: "minnamimz"
     fullname: >-
-      DHQ Minna Mimz
+      🇫🇮DHQ Minna Mimz
     bio: >-
-      👑 DANCEHALL QUEEN OF FINLAND 🇫🇮 Dancer | Dance teacher 📍Finland Dancehall 💛💚🖤 ➡ willman.minna@gmail.com
+      👑 DHQ OF FINLAND 2019/2020 💛💚🖤 || Dancer, dance teacher 👑 Member of @rarebastards 📍Finland || ➡ willman.minna@gmail.com
     location: "Finland"
-    followers: 3774
-    engagement: 973
-    commentsToLikes: 0.151526
+    followers: 4086
+    engagement: 935
+    commentsToLikes: 0.175826
     id: ck5c71b9k6mac0i11gt3ogiww
     verified: false
-    hashtags: "#dancehall, #finland, #shake, #dancehallfinland"
+    hashtags: "#helsinki, #minnamimz, #dancer, #dancehallfinland"
   - username: "kimberlyidigpio"
     fullname: >-
       Kimberly Michelle
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.052608
     id: ck6tzmto2ams50j7131ufcvhx
     verified: false
-    hashtags: "#finland, #pikkukimmo, #bringingcolorback, #performingarts"
-  - username: "kamna90"
+    hashtags: "#teamk, #bringingcolorback, #kimberlyidigpiochoreography, #pikkukimmo"
+  - username: "vanessastbn"
     fullname: >-
-      Kamna Arora
+      𝐕𝐚𝐧𝐞𝐬𝐬𝐚 𝐒𝐭𝐢𝐞𝐛𝐞𝐧 | 𝐃𝐚𝐧𝐜𝐞𝐫
     bio: >-
-      Co-Founder:@yellowstripedance @ysdcweddingchoreography Dance-preneur💃 Content creator: #AllThingsK⭐ Ambassador : @skyriaofficial YOUTUBE CHANNEL ⬇️
+      𝙱𝚊𝚕𝚕𝚎𝚝 @ballettatelier🩰 19 | 𝙷𝙽, 𝙶𝚎𝚛𝚖𝚊𝚗𝚢🇩🇪 𝚂𝚎𝚌𝚘𝚗𝚍 𝙰𝚌𝚌𝚘𝚞𝚗𝚝 @vanessa_24.8
     location: "Finland"
-    followers: 38193
-    engagement: 472
-    commentsToLikes: 0.043947
-    id: ck136x55x8oyf0i19wh4at8ls
+    followers: 2071
+    engagement: 1804
+    commentsToLikes: 0.081324
+    id: ckf5xfapovgd90j23178si93d
     verified: false
-    hashtags: "#workout, #indiancontemporary, #ysdc, #dancevideos"
+    hashtags: "#worldwideballet, #balletincity, #pointeshoes, #balleteverywhere"
 ---

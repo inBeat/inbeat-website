@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Brazil In 2022
+title: Top 10 Fashion TikTok Influencers In Brazil In 2023
 description: >-
-  Find top fashion TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #foryoupage #fy.
+  Find top fashion TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #fashion #fy #foryou.
 platform: TikTok
-hits: 152
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 152 TikTok influencers like this in Brazil for you to collaborate.
+hits: 156
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 156 TikTok influencers like this in Brazil for you to connect with.
 profiles:
   - username: "lanaacessoriosmanuais"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Insta @acessoriosmanuais Artesanato criação fashion
     location: "Brazil"
-    followers: 5599
-    engagement: 3327
-    commentsToLikes: 0.344123
+    followers: 5641
+    engagement: 2575
+    commentsToLikes: 0.346526
     id: ckb9toivbrr390j23t9bkg2el
     verified: false
-    hashtags: "#fyp, #lookdahora, #tiarasdeluxo, #avidavalemuito"
-  - username: "erik.martins"
+    hashtags: "#deboa, #horadearrasar, #fyp, #vamosdivertir"
+  - username: "raphamedeirox"
     fullname: >-
-      Erik Martins
+      Rapha Medeiros
     bio: >-
-      Modelo 📺 @recordtv 📺 👮‍♂️ MOÇO @Multishow insta : erik_fashion_style
+      ✨Bem-vindo ao tiktok fashion✨ Mais looks no 1nst4: raphamedeirox 🤍
     location: "Brazil"
-    followers: 40900
-    engagement: 1490
-    commentsToLikes: 0.118191
-    id: ck9a64avn1jgi0j78ggdco6f5
+    followers: 3658
+    engagement: 1665
+    commentsToLikes: 0.060456
+    id: ckcjqteodgyki0j23qnigx0e4
     verified: false
-    hashtags: "#tiktok, #videoviral, #viral, #comedia"
+    hashtags: "#moda, #fyp, #fy, #dicasdemoda"
   - username: "filipmelo"
     fullname: >-
       Filipe Melo
     bio: >-
-      fashion content contatofehmelo@gmail.com
+      brazilian | fashion content contatofehmelo@gmail.com
     location: "Brazil"
-    followers: 46500
-    engagement: 1364
-    commentsToLikes: 0.018078
+    followers: 73800
+    engagement: 1617
+    commentsToLikes: 0.017525
     id: ck9ej9mgz1nf50j78gthisdaq
     verified: false
-    hashtags: "#vintage, #pinterestchallenge, #style, #lookbook"
-  - username: "gabrieltuoto"
-    fullname: >-
-      GABRIEL TUOTO 🌟
-    bio: >-
-      Fashion & Lifestyle Curitiba 🔁 São Paulo sigo de volta no insta @gabriel_tuoto
-    location: "Brazil"
-    followers: 55400
-    engagement: 1299
-    commentsToLikes: 0.031259
-    id: ckblhrisbb6qs0j23fadtb0bn
-    verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #trend"
-  - username: "lorenafranzoi"
-    fullname: >-
-      Lorena Franzoi
-    bio: >-
-      Instagram: @lorenafranzoi Fashion & Fun
-    location: "Brazil"
-    followers: 4334
-    engagement: 436
-    commentsToLikes: 0.049756
-    id: ck9v49q4ytf5h0j78h3b1alk3
-    verified: false
-    hashtags: "#summerlooks, #fashionista, #stylechange, #fashion"
+    hashtags: "#style, #ootd, #outfitinspiration, #foryou"
   - username: "jtzanno"
     fullname: >-
       João Tzanno
     bio: >-
       eu gosto de roupa fashion • lifestyle • geek • travel contatojtzanno@gmail.com
     location: "Brazil"
-    followers: 167000
-    engagement: 1239
-    commentsToLikes: 0.021551
+    followers: 173800
+    engagement: 1409
+    commentsToLikes: 0.023619
     id: cka0rnmxkhrsi0i78rjalhek8
     verified: false
-    hashtags: "#disney, #dicasdemoda, #styletips, #modamasculina"
-  - username: "oiiantonellaa"
+    hashtags: "#publi, #tiktokfashion, #mensfashion, #modamasculina"
+  - username: "lorenafranzoi"
     fullname: >-
-      oiiantonellaa
+      Lorena Franzoi
     bio: >-
-      Mini Fashion Blogger | Maternidade Real | Dicas Instagram - @oiiantonella ✨
+      Instagram: @lorenafranzoi Fashion & Fun
     location: "Brazil"
-    followers: 100500
-    engagement: 1488
-    commentsToLikes: 0.011566
-    id: ckbf859wkydeo0j233y048th5
+    followers: 4736
+    engagement: 465
+    commentsToLikes: 0.031481
+    id: ck9v49q4ytf5h0j78h3b1alk3
     verified: false
-    hashtags: "#foryou, #chupetamania, #oiiantonella, #maeefilha"
-  - username: "leo.milane"
+    hashtags: "#fashion, #fashionista, #dicademodafeminina, #dicadeestilo"
+  - username: "gabrieltuoto"
     fullname: >-
-      leomilane
+      GABRIEL TUOTO 🌟
     bio: >-
-      📺 choreography 🎵| fashion 📸
+      Fashion & Lifestyle Curitiba 🔁 São Paulo instagram: @gabriel_tuoto
     location: "Brazil"
-    followers: 68500
-    engagement: 669
-    commentsToLikes: 0.009925
-    id: ckcomaety5tnx0j23sqzxo78v
+    followers: 111000
+    engagement: 1112
+    commentsToLikes: 0.028124
+    id: ckblhrisbb6qs0j23fadtb0bn
     verified: false
-    hashtags: "#moda, #foryoupage, #fy, #paris"
+    hashtags: "#routine, #lifestyle, #tiktokfashion, #fyp"
   - username: "lua__andrad"
     fullname: >-
       lua_andrad
     bio: >-
-      🌙 25. Alfenas - MG 💋 makeup | beauty | fashion CURSO ONLINE DE CHALLENGE ⤵️
+      🌙 26. Alfenas - MG 💋 makeup | beauty | fashion CURSO ONLINE DE CHALLENGE ⤵️
     location: "Brazil"
-    followers: 23400
-    engagement: 710
-    commentsToLikes: 0.011469
+    followers: 181600
+    engagement: 728
+    commentsToLikes: 0.011276
     id: ckan4egtn9qt00i786o03wfjk
     verified: false
-    hashtags: "#foryoupage, #tiktokchallenge, #fyp, #tik"
+    hashtags: "#viral, #foryoupage, #desafiofunkdaswinx, #fyp"
   - username: "jeison_estevam"
     fullname: >-
       Jeison Estevam
     bio: >-
       APENAS ACREDITE NOS SEUS SONHOS
     location: "Brazil"
-    followers: 6160
-    engagement: 3747
-    commentsToLikes: 0.279885
+    followers: 6107
+    engagement: 3705
+    commentsToLikes: 0.276016
     id: ckdcbmu8qj5nf0j23aljf99ov
     verified: false
-    hashtags: "#modamasculina2020, #moda, #musica, #fy"
+    hashtags: "#fy, #modamasculina2020, #foryoupage, #musica"
+  - username: "alicedeeas"
+    fullname: >-
+      ❀𝒶𝓁𝒾𝒸𝑒❀
+    bio: >-
+      15 || Áries she/her 💕💕 @alicedeeas em todas as redes sociais
+    location: "Brazil"
+    followers: 218800
+    engagement: 1805
+    commentsToLikes: 0.019882
+    id: ck9ergp0k1nsv0j782vyc151o
+    verified: false
+    hashtags: "#humor, #lgbt, #fyp, #fy"
+  - username: "squaloficial"
+    fullname: >-
+      George Francisco
+    bio: >-
+      Meu código é 29797282 e recebera 2,10$ na sua conta! ATENÇÃO: LIVE às 20h!
+    location: "Brazil"
+    followers: 15000
+    engagement: 2497
+    commentsToLikes: 0.046909
+    id: ck92xhjj7yp4p0j78l3uwgeyj
+    verified: false
+    hashtags: "#funnycats, #dogs, #garra, #funny"
 ---

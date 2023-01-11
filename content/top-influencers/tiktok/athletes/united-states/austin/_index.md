@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Austin In 2022
+title: Top 10 Athletes TikTok Influencers In Austin In 2023
 description: >-
-  Find top athletes TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #foryou #foryoupage #athlete.
+  Find top athletes TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #athlete #foryou #viral.
 platform: TikTok
-hits: 16
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 16 TikTok influencers like this in Austin, United States for you to pitch.
+hits: 15
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 15 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "austinpaceamp"
-    fullname: >-
-      austinpaceamp
-    bio: >-
-      I Train Athletes For A Living💪🏽 I Want To Educate, Entertain, & Motivate‼️
-    location: "United States"
-    followers: 369000
-    engagement: 1377
-    commentsToLikes: 0.013521
-    id: ck8rouo82j8aw0j78i0pfejy0
-    verified: false
-    hashtags: "#verticaljumpchallenge, #gymbros, #sixpackworkout, #cardioworkout"
-  - username: "nechtology"
-    fullname: >-
-      Jake Murray
-    bio: >-
-      American Ninja Warrior athlete and long time sk8er boi ✌️🧠
-    location: "United States"
-    followers: 54400
-    engagement: 1319
-    commentsToLikes: 0.015766
-    id: ck8ozteofdpwq0j78ezem0lp4
-    verified: false
-    hashtags: "#obstacles, #ninjawarrior, #nechtology, #friends"
-  - username: "_jaylensmith3"
-    fullname: >-
-      Jaylen Smith
-    bio: >-
-      Professional Baseball Player⚾️ ATL
-    location: "United States"
-    followers: 12800
-    engagement: 1453
-    commentsToLikes: 0.023834
-    id: ckbky788luf350j230k43pyfn
-    verified: false
-    hashtags: "#outerbanks, #baseball, #comegether, #softball"
-  - username: "that_ballplayer_austin"
-    fullname: >-
-      Austin Shumaker 
-    bio: >-
-      Pro baseball player⚾️ Following back people on IG! AZ 🌵
-    location: "United States"
-    followers: 103700
-    engagement: 1742
-    commentsToLikes: 0.028168
-    id: cka7wulrx1x0h0i781ccy3ywl
-    verified: false
-    hashtags: "#foryoupage, #fyp, #baseballseason, #foryou"
   - username: "swimmysam"
     fullname: >-
       Swimmysam
     bio: >-
       
     location: "United States"
-    followers: 4230
-    engagement: 1251
-    commentsToLikes: 0.019247
+    followers: 4245
+    engagement: 1237
+    commentsToLikes: 0.020339
     id: ck977bnak3ltb0j78wv09d1h2
     verified: false
-    hashtags: "#swimming, #fyp, #swimmer, #swimcapchallenge"
-  - username: "thepinggonggirl"
+    hashtags: "#swimming, #swimmer, #fyp, #swimmersproblems"
+  - username: "austinpaceamp"
     fullname: >-
-      Soo Yeon Lee
+      austinpaceamp
     bio: >-
-      I’m a professional table tennis player 🏓 / Model
+      24 Year Old Gym Owner💪🏽 I Train Athletes For A Living‼️ IG: @austinpaceamp
     location: "United States"
-    followers: 3983
-    engagement: 201
-    commentsToLikes: 0.016847
-    id: cka0xdexv6mfy0i78pf8l7wql
+    followers: 408800
+    engagement: 1362
+    commentsToLikes: 0.011923
+    id: ck8rouo82j8aw0j78i0pfejy0
     verified: false
-    hashtags: "#sport, #foryou, #playathome, #pingponggirl"
-  - username: "aleahnelson_"
+    hashtags: "#boxjump, #boxjumps, #gymownerlife, #mmatraining"
+  - username: "joshbutlertv"
     fullname: >-
-      aleahnelson🏀🏳️‍🌈
+      JoshButlerTv 
     bio: >-
-      go on my ig, I promise i’m cuter on there😭🤢 🏳️‍🌈
+      Athlete/Actor/Artist/Animals Here for fun 🤩 🐶’s @Roxy_RemiTv ⬇️all socials
     location: "United States"
-    followers: 381500
-    engagement: 2645
-    commentsToLikes: 0.021150
-    id: ckbf30662qe1e0j230g9mu5s2
+    followers: 974500
+    engagement: 2089
+    commentsToLikes: 0.011355
+    id: ckb9p54wljujj0j2332frb00y
     verified: false
-    hashtags: "#stitch, #sfxmakeup, #foryou, #fyp"
-  - username: "doseofmaryy"
+    hashtags: "#viral, #dogs, #fyp, #greenscreen"
+  - username: "joshreinstein"
     fullname: >-
-      mary da 🦄
+      Josh Reinstein
     bio: >-
-      Jersey🚦 Follow my ig 20k?
+      Follow my ig🥺 Athlete at Penn State Add my snap: Joshreinstein
+    location: "United States"
+    followers: 452500
+    engagement: 1818
+    commentsToLikes: 0.013159
+    id: ckd0hp878eltv0j237vswcrsz
+    verified: false
+    hashtags: "#xyzbca, #fyp, #pennstate, #athlete"
+  - username: "nechtology"
+    fullname: >-
+      Jake Murray
+    bio: >-
+      American Ninja Warrior athlete and long time sk8er boi ✌️🧠
+    location: "United States"
+    followers: 54000
+    engagement: 1300
+    commentsToLikes: 0.015541
+    id: ck8ozteofdpwq0j78ezem0lp4
+    verified: false
+    hashtags: "#nechtology, #obstacles, #ninjawarrior, #puzzles"
+  - username: "kingquaid"
+    fullname: >-
+      KingQuaidI3 
+    bio: >-
+      I just really enjoy sports especially volleyball🤙🏼 Road to 100k fans👀
+    location: "United States"
+    followers: 80500
+    engagement: 1763
+    commentsToLikes: 0.008659
+    id: ck8km88f97c3x0j78a5a4j2jw
+    verified: false
+    hashtags: "#throwback, #foryou, #sports, #volleyball"
+  - username: "usacancercycle"
+    fullname: >-
+      Greg taylor
+    bio: >-
+      🚴🏽‍♂️Biking the USA for a Cancer Charity! 🚴🏽‍♂️Get involved today in links!
+    location: "United States"
+    followers: 86600
+    engagement: 1510
+    commentsToLikes: 0.070452
+    id: ckdmuqlnvayw90j23osaw51kq
+    verified: false
+    hashtags: "#california, #fyp, #cycling, #usacancercycle"
+  - username: "_jaylensmith3"
+    fullname: >-
+      Jaylen Smith
+    bio: >-
+      Professional Baseball Player⚾️
     location: "United States"
     followers: 12700
-    engagement: 1534
-    commentsToLikes: 0.055877
-    id: ckck2coy9lq2p0j23mrbdnb4v
+    engagement: 1464
+    commentsToLikes: 0.024233
+    id: ckbky788luf350j230k43pyfn
     verified: false
-    hashtags: "#foryoupage, #collegegotmelike, #fanedit, #stemlife"
-  - username: "gavsocrazy"
+    hashtags: "#atlanta, #election, #biden2020, #baseball"
+  - username: "hayitsnicole"
     fullname: >-
-      GavSoStupid 
+      Nicole😝
     bio: >-
-      CEO of Doorway🚪tiktoks Snap-gaviontaylor23 Click the link below and earn cash⬇️
+      Hi
     location: "United States"
-    followers: 228200
-    engagement: 1699
-    commentsToLikes: 0.008861
-    id: ck8nkvj9yh4nz0j78eu3dggs3
+    followers: 9377
+    engagement: 711
+    commentsToLikes: 0.034787
+    id: ckan5dx75el4s0i78fzwve4f1
     verified: false
-    hashtags: "#foryou, #thecoldestwater, #foryoupage, #skits"
-  - username: "jdaniel0124"
+    hashtags: "#fyp, #foryou, #basketball, #hoodwbb"
+  - username: "temdbritt"
     fullname: >-
-      jaycarmichael4
+      Malcolm
     bio: >-
-      Washed up Student Athlete. Gators/Mocs LEO 👮🏽‍♂️ Twitter: jmichaeld4
+      IG: the_mdbritt LB 🦍 @ Old Dominion University 🏈 Future Pro Athlete 👀
     location: "United States"
-    followers: 13000
-    engagement: 1223
-    commentsToLikes: 0.018025
-    id: ckcjehkipahj40j23ftya9s74
+    followers: 46000
+    engagement: 1282
+    commentsToLikes: 0.150270
+    id: ckd0jm0eqff340j23o9cbbq0u
     verified: false
-    hashtags: "#thehighnote, #4thofjuly, #foryoupage, #baseballboys"
+    hashtags: "#stitch, #chiefs, #football, #nfl"
 ---

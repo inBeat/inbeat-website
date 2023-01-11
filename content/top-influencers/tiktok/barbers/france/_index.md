@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers TikTok Influencers In France In 2022
+title: Top 10 Barbers TikTok Influencers In France In 2023
 description: >-
-  Find top barbers TikTok influencers in France in 2022. Most popular hashtags: #barber #pourtoi #confinement #coiffeur.
+  Find top barbers TikTok influencers in France in 2023. Most popular hashtags: #barber #pourtoi #foryou #paris.
 platform: TikTok
-hits: 25
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 25 TikTok influencers like this in France for you to connect with.
+hits: 30
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 30 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "jordan_0fficiel"
     fullname: >-
       Jordan.F
     bio: >-
-      Barber💈✂️,Travel, mode, frenchmodel, humour, sport
+      Barber💈✂️,Travel, mode, frenchmodel, sport
     location: "France"
-    followers: 19900
-    engagement: 539
-    commentsToLikes: 0.012925
+    followers: 21300
+    engagement: 513
+    commentsToLikes: 0.011483
     id: ckb99igydtra70j23v2q37c7a
     verified: false
-    hashtags: "#nutrition, #barbershop, #barber, #sport"
+    hashtags: "#healthy, #sport, #nutrition, #bowlcake"
+  - username: "theladiesonwheels"
+    fullname: >-
+      ★彡  ⓥ𝐚ℕⒺ丂รΔ 彡★
+    bio: >-
+      💈Barber💈✂️ 🍭🍀Biker Girls 🇧🇷 🇵🇹 📍 Living in Paris 🗼🇫🇷 🎭 Follow Us
+    location: "France"
+    followers: 5409
+    engagement: 866
+    commentsToLikes: 0.013906
+    id: ckav30u9c9bs20j23hqc7lmbe
+    verified: false
+    hashtags: "#kawasaki, #motard, #france, #bullterrier"
   - username: "hairtist_paris"
     fullname: >-
       Hairtist_paris
     bio: >-
-      Venez sur Insta: 📸 hairtist_paris C’est cool aussi là-bas!
+      Insta: 📸 hairtist_paris
     location: "France"
-    followers: 339500
-    engagement: 1525
-    commentsToLikes: 0.009865
+    followers: 480400
+    engagement: 1712
+    commentsToLikes: 0.005759
     id: ck81s0q56p6c10j78evtm8nwn
     verified: false
-    hashtags: "#barberlife, #coiffure, #transformation, #pourtoi"
+    hashtags: "#transformation, #barber, #pourtoi, #coiffure"
   - username: "mieldur"
     fullname: >-
       Mich Mich
     bio: >-
-      Snap: Cesarkoba91 insta: sitchev_ronaldo Peace✌️and lové 💵.
+      Le respect le respect le respect...
     location: "France"
-    followers: 3467
-    engagement: 371
-    commentsToLikes: 0.060725
+    followers: 3412
+    engagement: 309
+    commentsToLikes: 0.057573
     id: ckavdm3sfln8a0j23h42o35im
     verified: false
-    hashtags: "#animaux, #barber, #car, #michelobama"
+    hashtags: "#barber, #car, #animaux, #tortoise"
   - username: "ali_.chance"
     fullname: >-
       ALI
     bio: >-
-      ⚡ hair styliste based in Paris 💇‍♀️💇‍♂️ 🤘🏻100🤔
+      ⚡ hair styliste based in Paris 💇‍♀️💇‍♂️
     location: "France"
-    followers: 75500
-    engagement: 462
-    commentsToLikes: 0.021277
+    followers: 76400
+    engagement: 399
+    commentsToLikes: 0.030808
     id: ckavl10fju6k90j23ijrtu2vb
     verified: false
-    hashtags: "#foyou, #barbershop, #indiana, #iran"
+    hashtags: "#pourtoi, #turc, #turkiye, #turk"
   - username: "leonsbarber"
     fullname: >-
       leonsbarber
     bio: >-
-      ⬇️ Découvrez Mon Univers ! ⬇️
+      ⬇️ Découvrez Mon Instagram de photo ! ⬇️
     location: "France"
-    followers: 3002
-    engagement: 928
-    commentsToLikes: 0.007030
+    followers: 2962
+    engagement: 930
+    commentsToLikes: 0.006505
     id: ck9ackytntb7a0j78bzf1t3u7
     verified: false
-    hashtags: "#like, #paris, #drole, #learndance"
+    hashtags: "#fructishairfoodchallenge, #paris, #leon, #haircut"
   - username: "nictokh"
     fullname: >-
       Nicolas Henry
     bio: >-
       Instagram @nicolas_alexandrehenry ✂️💈 YouTube AlexandreHenryHair
     location: "France"
-    followers: 2333
-    engagement: 620
-    commentsToLikes: 0.033407
+    followers: 2341
+    engagement: 637
+    commentsToLikes: 0.034659
     id: ckahwd736q9wl0i78ml3tvklt
     verified: false
-    hashtags: "#mdr, #humor, #coiffure, #jpp"
+    hashtags: "#fun, #lol, #fyp, #tetemalleable"
   - username: "breeder.of.the.beard"
     fullname: >-
       Breeder.Of.The.Beard
     bio: >-
       Get 15%OFF on BEARD STRUGGLE products Use code NEMAN10 ✔️ Check the link ⬇️ 🧔
     location: "France"
-    followers: 2337
-    engagement: 122
-    commentsToLikes: 0.009295
+    followers: 2618
+    engagement: 129
+    commentsToLikes: 0.009130
     id: ck9uy5zuf2zg60j78a39g2gjv
     verified: false
-    hashtags: "#beardo, #beardlook, #beard, #beardlife"
-  - username: "jeremy_leracnab"
+    hashtags: "#beardlook, #barbershop, #beard, #beardlife"
+  - username: "white_metis"
     fullname: >-
-      L'enfant sauvage😈
+      White Métis
     bio: >-
-      insta : jeremy_leracnab ☝️
+      Rappeur Bordelais de 18 ans, beaucoup plus actif sur mon ig
     location: "France"
-    followers: 8463
-    engagement: 1672
-    commentsToLikes: 0.171200
-    id: ckblnrl65fpb20j2379vbvqlk
+    followers: 3735
+    engagement: 1167
+    commentsToLikes: 0.118521
+    id: ckcvjrhx5xaf20j23zvci03x6
     verified: false
-    hashtags: "#pourtoi, #covid, #montage, #humour"
-  - username: "jsuisconfine"
+    hashtags: "#pourtoi, #bordeaux, #freestyle, #rap"
+  - username: "alannss34"
     fullname: >-
-      Jesuisconfine
+      alain attard
     bio: >-
-      Confiné tu connais
+      CHAINE YOUTUBE ALAIN ATTARD Instagram alannss34/alain_mapr5
     location: "France"
-    followers: 286400
-    engagement: 1662
-    commentsToLikes: 0.012076
-    id: ck9v909ndbvr60j78jtmuubhx
+    followers: 6680
+    engagement: 1070
+    commentsToLikes: 0.080226
+    id: cka7tno0vo8i00i78yn4b9spq
     verified: false
-    hashtags: "#pasdrole, #challenge, #troll, #jtm"
-  - username: "ahmedsyllaaa"
-    fullname: >-
-      Ahmed Sylla
-    bio: >-
-      Nouveau sur Tiktok... Bienvenue 🙂
-    location: "France"
-    followers: 335800
-    engagement: 1305
-    commentsToLikes: 0.016469
-    id: cka0phuoh8bl50i78llkzrx5p
-    verified: false
-    hashtags: "#netflix, #elprofesor, #casadepapel, #casadeahmed"
+    hashtags: "#duo, #foryou, #bloqu, #pourtoi"
 ---

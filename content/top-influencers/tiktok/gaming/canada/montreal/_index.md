@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Montreal In 2022
+title: Top 10 Gaming TikTok Influencers In Montreal In 2023
 description: >-
-  Find top gaming TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #montreal #gaming #quebec.
+  Find top gaming TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #gaming #funny.
 platform: TikTok
-hits: 5
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 5 TikTok influencers like this in Montreal, Canada for you to connect with.
+hits: 8
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 8 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "ob1canoebee"
+  - username: "gavineo"
     fullname: >-
-      stephanie
+      Mr Frog 🐸
     bio: >-
-      22 | MTL | 🇨🇦 General Steve Kenobi Watch my gaming stream ⬇️
+      Gavin | 22 🇨🇦 Montreal 🇨🇦 ‼️SATIRE CHANNEL‼️
     location: "Canada"
-    followers: 141100
-    engagement: 1878
-    commentsToLikes: 0.021906
-    id: ckacaxg56h8nw0i78lssdbcn7
+    followers: 453400
+    engagement: 1297
+    commentsToLikes: 0.028729
+    id: ck8fa2wz83zj30j78xucyvab0
     verified: false
-    hashtags: "#coronavirus, #quarantine, #mirror, #montreal"
-  - username: "coreytonge"
+    hashtags: "#fyp, #fortnite, #foryou, #school"
+  - username: "philberge"
     fullname: >-
-      coreytonge
+      Phil Berge
     bio: >-
-      🇨🇦Montréal 📷Insta: @CoreyTonge 💪🏼Comedy + Gaming 🤩70k?🤷🏻‍♂️
+      Stuff I create.Mostly tattoos. @tatouageroyal Montreal🇨🇦 Dm on insta for info
     location: "Canada"
-    followers: 68300
-    engagement: 1127
-    commentsToLikes: 0.033670
-    id: ckbf53t13tvnk0j23spclrfak
+    followers: 96500
+    engagement: 1088
+    commentsToLikes: 0.031691
+    id: cka0sbdqvkoog0i78aj4cuwfz
     verified: false
-    hashtags: "#cosplay, #gamer, #mtl, #comedygaming"
+    hashtags: "#tattoos, #stopmotion, #traditionaltattoo, #fyp"
   - username: "benwillingdorf"
     fullname: >-
       Ben Willingdorf
     bio: >-
       I like to make projects! Montreal, Canada 🇨🇦 IG: @BenWillingdorf
     location: "Canada"
-    followers: 544300
-    engagement: 1842
-    commentsToLikes: 0.006019
+    followers: 543200
+    engagement: 1844
+    commentsToLikes: 0.007328
     id: ck806yq03n5cn0j78y08sgrc9
     verified: false
-    hashtags: "#fyp, #food, #howto, #foodhacks"
-  - username: "cefnpete"
+    hashtags: "#art, #youtuber, #food, #easter"
+  - username: "itstheggfamily"
     fullname: >-
-      Cef&Pete
+      The GG Family
     bio: >-
-      Mtl 🇨🇦 IG:@CefnPete
+      Proprios de Sunday Studios, Monolith, Mainland Gaming et Les Nettoyeurs White’s
     location: "Canada"
-    followers: 6426
-    engagement: 547
-    commentsToLikes: 0.051013
-    id: ck8072k0lo5yx0j78dez9yk9q
+    followers: 64500
+    engagement: 1244
+    commentsToLikes: 0.007341
+    id: ckcduf2igej790j2333yvg6mx
     verified: false
-    hashtags: "#montreal, #quebec, #bromance, #comedy"
+    hashtags: "#entrepreneur, #montrealcanada, #montrealtiktok, #quebectiktok"
+  - username: "urboidrflips"
+    fullname: >-
+      Dragos
+    bio: >-
+      😂 🇨🇦 Mtl Road to 6k
+    location: "Canada"
+    followers: 5123
+    engagement: 1151
+    commentsToLikes: 0.035667
+    id: ck8072ib3o5hw0j78nu2dydmb
+    verified: false
+    hashtags: "#viral, #foryoupage, #gaming, #skating"
+  - username: "anthonyinfocus"
+    fullname: >-
+      Anthony Pereira
+    bio: >-
+      Subscribe to my YouTube channel
+    location: "Canada"
+    followers: 91800
+    engagement: 1636
+    commentsToLikes: 0.009395
+    id: ck90r27agkrzg0j78ww9rc71m
+    verified: false
+    hashtags: "#fyp, #gaming, #twitch, #duet"
   - username: "charlenefm"
     fullname: >-
       charlenefm
     bio: >-
-      Charlene 👵🏻 25 Ris donc avec moi, ou de moi comme tu l’feels🤙🏼
+      Charlene 👵🏻 26 Ris donc avec moi, ou de moi comme tu l’feels🤙🏼
     location: "Canada"
-    followers: 14400
-    engagement: 921
-    commentsToLikes: 0.012763
+    followers: 14200
+    engagement: 840
+    commentsToLikes: 0.012174
     id: ck9ab5byindpo0j78zadet2de
     verified: false
-    hashtags: "#foryou, #pourtoipage, #foryoupage, #montreal"
-  - username: "ob1canoebee"
+    hashtags: "#schoollife, #pourtoipage, #fyp, #educatricespecialisee"
+  - username: "hadjmamadou"
     fullname: >-
-      stephanie
+      HaadjMamadou
     bio: >-
-      22 | MTL | 🇨🇦 General Steve Kenobi Watch my gaming stream ⬇️
+      No bio yet
     location: "Canada"
-    followers: 141100
-    engagement: 1878
-    commentsToLikes: 0.021906
-    id: ckacaxg56h8nw0i78lssdbcn7
+    followers: 6374
+    engagement: 1283
+    commentsToLikes: 0.037177
+    id: ckbf4eh8mssfm0j23ip9nlewe
     verified: false
-    hashtags: "#coronavirus, #quarantine, #mirror, #montreal"
-  - username: "edgemonk"
+    hashtags: "#dios, #senegal, #dieu, #allah"
+  - username: "mrob29"
     fullname: >-
-      Edwin Joseph
+      Marissa Roberto
     bio: >-
-      Just Me The Real Me Sports-Gaming Mixer: Edjemonk
+      MRob29 on insta 🇮🇹🇨🇦 Work in sports+gaming, but this is personal. [she/her]
     location: "Canada"
-    followers: 2674
-    engagement: 1255
-    commentsToLikes: 0.058997
-    id: ckb9ppa93kz840j2327cxnwxm
+    followers: 37600
+    engagement: 983
+    commentsToLikes: 0.143995
+    id: ck8njn82eb58f0j7815ul8nz8
     verified: false
-    hashtags: "#greenscreen, #ripgigi, #nba2k, #ripkobe"
+    hashtags: "#leafsforever, #hockeytok, #toronto, #italiancheck"
   - username: "mtcosplay"
     fullname: >-
       RBTZful
     bio: >-
-      ROAD TO 5K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
+      ROAD TO 10K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
     location: "Canada"
-    followers: 5129
-    engagement: 1246
-    commentsToLikes: 0.042701
+    followers: 5112
+    engagement: 1319
+    commentsToLikes: 0.052439
     id: ck9gm0ph4qgbr0j78xdlm13c1
     verified: false
-    hashtags: "#foryou, #qualitycontent, #funny, #fyp"
-  - username: "sugarpawse"
-    fullname: >-
-      sugar pawse
-    bio: >-
-      •Cute gaming accessories• Ships from 🇨🇦 FREE Shipping in Canada
-    location: "Canada"
-    followers: 6467
-    engagement: 1393
-    commentsToLikes: 0.033573
-    id: ckc1t1k29xcc00j23058darwz
-    verified: false
-    hashtags: "#ecommerce, #smallbusinesstips, #smallbusinessadvice, #smallbusiness"
-  - username: "nicobbq_tiktok"
-    fullname: >-
-      nicobbq
-    bio: >-
-      I'm Nico and I'm gonna show you gaming tricks. I also make YouTube vids.
-    location: "Canada"
-    followers: 57700
-    engagement: 1800
-    commentsToLikes: 0.011595
-    id: ck8oswvhcit2f0j789lnjzj45
-    verified: false
-    hashtags: "#nintendo, #foryoupage, #fyp, #crazy"
+    hashtags: "#comedy, #foryou, #funny, #qualitycontent"
 ---

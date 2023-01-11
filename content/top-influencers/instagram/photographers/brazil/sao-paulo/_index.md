@@ -1,33 +1,45 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Sao Paulo In 2022
+title: Top 10 Photographers Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top photographers Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #saopaulo #photographer #photooftheday.
+  Find top photographers Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #photographer #photography.
 platform: Instagram
-hits: 149
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 149 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
+hits: 150
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 150 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
   - username: "the.lonely.project"
     fullname: >-
       The Lonely Project
     bio: >-
-      by Ricardo Rico | Brazilian Photographer São Paulo-SP 📥 contato@ricardorico.com 🟡 PRÉ-VENDA NO ESCURO 🟡 Lonely Mag n°19 👇
+      by Ricardo Rico | Brazilian Photographer São Paulo-SP 📥 contato@ricardorico.com ⚠️Nova Revista na PRÉ-VENDA! ⚠️ Lonely Mag n°20👇
     location: "Brazil"
-    followers: 25305
-    engagement: 742
-    commentsToLikes: 0.026875
+    followers: 25550
+    engagement: 728
+    commentsToLikes: 0.030360
     id: ck5hrm0b9v38t0i11jl6unkmm
     verified: false
     hashtags: "#tbt"
+  - username: "nickmansph"
+    fullname: >-
+      NICKMANS GABRIEL
+    bio: >-
+      Fashion Photographer São Paulo, Brazil ✉️ contato@nickmansgabriel.com.br
+    location: "Brazil"
+    followers: 6404
+    engagement: 453
+    commentsToLikes: 0.121846
+    id: ck137tbv7d9qx0i197u9xbebo
+    verified: false
+    hashtags: "#photography, #reels, #reelsinstagram, #reelsbrasil"
   - username: "nuquarto36"
     fullname: >-
       Caco Meira
     bio: >-
       Sensual Photographer - São Paulo 🇧🇷📷 Em breve @nq36_official Shop Online @caco.ph Contato e Orçamento no Direct
     location: "Brazil"
-    followers: 33269
-    engagement: 656
-    commentsToLikes: 0.009671
+    followers: 32805
+    engagement: 442
+    commentsToLikes: 0.009366
     id: ck5ckafifwgzj0i11z149ez9m
     verified: false
     hashtags: ""
@@ -37,94 +49,82 @@ profiles:
     bio: >-
       photographer são paulo/br | contato.joaok@gmail.com manager: thatiana@tcayres.com.br @thatianacayres
     location: "Brazil"
-    followers: 41252
-    engagement: 411
-    commentsToLikes: 0.014108
+    followers: 42281
+    engagement: 437
+    commentsToLikes: 0.013024
     id: ck0u9bv749j0m0i199pxq7mze
     verified: false
-    hashtags: "#pfw, #35mm"
+    hashtags: "#35mm, #35mmfilm"
   - username: "stephansolon"
     fullname: >-
       Stephan Solon
     bio: >-
       Pro Photographer - Sao Paulo/Brazil (DM for inquiries)
     location: "Brazil"
-    followers: 2569
-    engagement: 1058
-    commentsToLikes: 0.085017
+    followers: 2630
+    engagement: 702
+    commentsToLikes: 0.074544
     id: ck0u7vlp85svj0i19y0798nyz
     verified: false
-    hashtags: "#musicphotography, #concertphotography, #tbt, #donavonfrankenreiter"
-  - username: "fabriciogarciaph"
+    hashtags: "#tbt, #musicphotography, #yamaha, #concertphotography"
+  - username: "sarinha_rayy"
     fullname: >-
-      Fabricio Garcia 🔥
+      𝕾𝖆𝖗𝖆𝖍 𝕿𝖊𝖎𝖝𝖊𝖎𝖗𝖆  💕
     bio: >-
-      📷 Brazilian Photographer. 📍Porto Alegre - RS 📍São Paulo - SP 🔽 Agenda, orçamentos e afins.
+      ♡ O simples também é lindo.. 🌺✨ GUARULHOS 🔁 BAHIA 🇧🇷 Parcerias via direct 📲 Corinthiana ⚫⚪ 1996 ♒ Confeiteira 🍰 👫💍 @johnny_castelamare
     location: "Brazil"
-    followers: 112343
-    engagement: 445
-    commentsToLikes: 0.017688
-    id: ck6u4r7kr5bqz0j71njkgcmu1
+    followers: 6985
+    engagement: 355
+    commentsToLikes: 0.007580
+    id: ck15q5409155f0i19b8u0svy1
     verified: false
-    hashtags: "#girl, #goodmorning, #love, #art"
-  - username: "klebermelu"
-    fullname: >-
-      Kleber Melo
-    bio: >-
-      📸• Fotógrafo de retratos • 📚- Revelando a fotografia pra você! 📍• São Paulo e Itapetininga 📝 •Orçamentos via direct / e-mail
-    location: "Brazil"
-    followers: 17810
-    engagement: 411
-    commentsToLikes: 0.045936
-    id: ck0w0202bbzxw0i19qj3tg4aa
-    verified: false
-    hashtags: "#fotografia, #fotografo, #photographer, #saopaulocity"
-  - username: "mandymirella"
-    fullname: >-
-      𝐀𝐦𝐚𝐧𝐝𝐚 𝐌𝐢𝐫𝐞𝐥𝐥𝐚
-    bio: >-
-      Fotógrafa profissional @fotografiaecrise 𝐄𝐬𝐩𝐞𝐭𝐚́𝐜𝐮𝐥𝐨𝐬 𝐭𝐞𝐚𝐭𝐫𝐚𝐢𝐬 𝐞 𝐞𝐧𝐬𝐚𝐢𝐨𝐬 𝐟𝐨𝐭𝐨𝐠𝐫𝐚́𝐟𝐢𝐜𝐨𝐬 • Parcerias, agendamento de ensaios pelo direct 𝐒𝐚̃𝐨 𝐏𝐚𝐮𝐥𝐨
-    location: "Brazil"
-    followers: 6005
-    engagement: 466
-    commentsToLikes: 0.050148
-    id: ck5q6grjgxbyl0i11snntv37x
-    verified: false
-    hashtags: "#ensaiofotografico, #fashionshoot, #tbt, #portraitstream"
-  - username: "__dsalazar"
-    fullname: >-
-      𝕯𝖔𝖚𝖌𝖑𝖆𝖘 𝕽𝖎𝖈𝖆𝖗𝖉𝖔 🕸️🕷️
-    bio: >-
-      Não tenha medo da morte, ela é inevitável , mas sim tenha medo de uma vida mal vivida.. 🇧🇷🇵🇹 - SP - CWB 📚👩‍🎓 Gestão De Qualidade
-    location: "Brazil"
-    followers: 8753
-    engagement: 893
-    commentsToLikes: 0.020173
-    id: ckaoshsdyrkgm0i78q5c017vj
-    verified: false
-    hashtags: "#haircut, #hairstyle, #modelo, #metalheads"
-  - username: "amanda.sopi"
-    fullname: >-
-      Amanda de Souza
-    bio: >-
-      ᴛʀᴀᴠᴇʟ ~ ᴍᴏᴅᴀ ~ ʟɪꜰᴇꜱᴛʏʟᴇ 🌻 ᴜᴍᴀ ᴍᴏçᴀ ɢᴇɴᴛᴇ ʙᴏᴀ qᴜᴇ ʀɪ ᴅᴇ ᴛᴜᴅᴏ 📍ɪʙɪᴢᴀ / ʀɪᴏ ᴅᴇ ᴊᴀɴᴇɪʀᴏ 🦷 ᴅᴇɴᴛɪꜱᴛᴀ
-    location: "Brazil"
-    followers: 5108
-    engagement: 1182
-    commentsToLikes: 0.122547
-    id: ckaot4y1muekl0i784arle8to
-    verified: false
-    hashtags: "#sea, #lookoftheday, #itgirl, #acessorios"
+    hashtags: "#deus, #marketingdigital, #guarulhos, #amomuito"
   - username: "brunogomesph"
     fullname: >-
       BRUNO GOMES
     bio: >-
-      ✍🏿Creative Director 👁Fashion Photographer 🌎São Paulo, Brazil 📬brunogomesft@outlook.com
+      💭Creative Director 👁Fashion Photographer 🔎São Paulo, Brazil 💻brunogomesft@outlook.com
     location: "Brazil"
-    followers: 37058
-    engagement: 429
-    commentsToLikes: 0.067395
+    followers: 37167
+    engagement: 419
+    commentsToLikes: 0.052740
     id: ck15s6gt5bglk0i199wyqhct5
     verified: false
-    hashtags: "#vogue, #olhaelle, #elleview, #stilllife"
+    hashtags: "#reels, #fashionfilmdirector, #creativedirectors"
+  - username: "_tombarreto"
+    fullname: >-
+      ᴛᴏᴍʙᴀʀʀᴇᴛᴏ
+    bio: >-
+      photographer | director são paulo - BR + @tom_barreto
+    location: "Brazil"
+    followers: 13788
+    engagement: 260
+    commentsToLikes: 0.053237
+    id: ck0u9bvsz9j2l0i19hlcgs092
+    verified: false
+    hashtags: "#stayinhome"
+  - username: "marcelommm"
+    fullname: >-
+      Marcelo Machado de Melo
+    bio: >-
+      Brazilian Photographer from São Paulo, Brazil.
+    location: "Brazil"
+    followers: 4194
+    engagement: 944
+    commentsToLikes: 0.044399
+    id: ck0u6xcnu35ah0i19n2mpiv57
+    verified: false
+    hashtags: "#canonbr, #rallydakar, #4x4, #saudiarabia"
+  - username: "feraburaya"
+    fullname: >-
+      𝙵𝚎𝚛𝚗𝚊𝚗𝚍𝚊 𝙽𝚎𝚟𝚎𝚜 𝙰𝚋𝚞𝚛𝚊𝚢𝚊
+    bio: >-
+      Todas as revoluções que eu desejo começam em mim. 𝟷𝟿 | 𝙻𝚒𝚋𝚛𝚒𝚊𝚗𝚊
+    location: "Brazil"
+    followers: 1902
+    engagement: 5379
+    commentsToLikes: 0.082355
+    id: ck15sdh0zcga80i19h09n7x3o
+    verified: false
+    hashtags: "#modelo, #cidadedesaopaulo, #taubate, #fotostumblr"
 ---

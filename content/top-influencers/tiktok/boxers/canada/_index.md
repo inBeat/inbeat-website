@@ -1,84 +1,120 @@
 ---
-title: Top 10 Boxers TikTok Influencers In Canada In 2022
+title: Top 10 Boxers TikTok Influencers In Canada In 2023
 description: >-
-  Find top boxers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryoupage #boxer #foryou.
+  Find top boxers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #boxer #boxing #greenscreen.
 platform: TikTok
-hits: 18
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 18 TikTok influencers like this in Canada for you to contact.
+hits: 25
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 25 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "amyclark1282"
+  - username: "viralpanther"
     fullname: >-
-      Amy Clark
+      VIRAL PANTHER
     bio: >-
-      GO FOLLOW @n_a_t_h_a_n
+      CEO of Tiktok Virals🔥
     location: "Canada"
-    followers: 9577
-    engagement: 776
-    commentsToLikes: 0.024444
-    id: ckbfbajva37bm0j234l2bbdq3
+    followers: 458900
+    engagement: 1143
+    commentsToLikes: 0.205731
+    id: ck9go0nkyz0cr0j78k2wdx93f
     verified: false
-    hashtags: "#momover35, #boxersoftiktok, #dogsoftiktok, #gosteelers"
-  - username: "zonedmma"
+    hashtags: "#tysonfury, #miketyson, #blmmovement, #love"
+  - username: "thenameismichael"
     fullname: >-
-      ZonedMMA
+      Michael
     bio: >-
-      .Follow our Instagram ⬆️👆 . Daily MMA and Boxing content 🔥🥊
+      🇨🇦 🇷🇴 Ontario Thank you for 250k !!!
     location: "Canada"
-    followers: 79200
-    engagement: 923
-    commentsToLikes: 0.008646
-    id: ck9jwfjtnwbns0j78pi4osn3u
+    followers: 260400
+    engagement: 1284
+    commentsToLikes: 0.011282
+    id: ck81q1u82f9c80j789r0uf0hs
     verified: false
-    hashtags: "#fy, #bellator, #war, #punch"
+    hashtags: "#athome, #fitness, #cool, #viral"
   - username: "jawknee.v"
     fullname: >-
       jawknee.v
     bio: >-
-      HOW TO BOXING Instagram: Jawknee.v YouTube 👇🏻Link below👇🏻
+      Interested in brand collaborations Dm me
     location: "Canada"
-    followers: 99700
-    engagement: 841
-    commentsToLikes: 0.006595
+    followers: 118700
+    engagement: 708
+    commentsToLikes: 0.018038
     id: ck7zo26abh3oh0j7860h3oyla
     verified: false
-    hashtags: "#howto, #viral, #tutorial, #foryoupage"
+    hashtags: "#foryoupage, #drill, #training, #boxer"
   - username: "packmentality"
     fullname: >-
       Nik
     bio: >-
-      @glitterandgore veterinary assistant, PET MOM. Book Magnum Ontario Canada ⏬
+      @glitterandgore vet assistant, bathbomb maker, mother of dawgs. And cat. 🙄
     location: "Canada"
-    followers: 48100
-    engagement: 2100
-    commentsToLikes: 0.073458
+    followers: 69700
+    engagement: 2257
+    commentsToLikes: 0.091450
     id: ck9ndea2fcrcw0j78rm7en8pu
     verified: false
-    hashtags: "#magnumtheboxer, #halloween, #magnumandratchet, #boxersoftiktok"
-  - username: "golden.gunn3r"
+    hashtags: "#valentinesday, #fyp, #horrormovie, #colddays"
+  - username: "itzmurdy"
     fullname: >-
-      Bomber 🖤 gunner 💀
+      🥵 itzmurdy 🥵
     bio: >-
-      Bombardier and gunner Loves of my life Tia - 18
+      😎 2kmurdy#5785 😎 Ty for 80k balls in my jaws ⚽️⚽️😈
     location: "Canada"
-    followers: 6348
-    engagement: 2503
-    commentsToLikes: 0.016545
-    id: ckbr23lk4iz4p0j23pihqjn6m
+    followers: 81800
+    engagement: 1237
+    commentsToLikes: 0.129769
+    id: ckb0w1tizlafd0j23mwm3jbsz
     verified: false
-    hashtags: "#fyp, #servicedog, #redlab, #realservicedog"
+    hashtags: "#lilnasx, #dababy, #viral, #jakepaul"
   - username: "miz.zedd"
     fullname: >-
       Miz. Zedd
     bio: >-
       Mom Wife Teacher Frenchie Owned
     location: "Canada"
-    followers: 9973
-    engagement: 1053
-    commentsToLikes: 0.045251
+    followers: 9846
+    engagement: 1204
+    commentsToLikes: 0.097172
     id: ck8fa3bf441rx0j78adfpygp8
     verified: false
-    hashtags: "#foryoupage, #frenchielife, #teachersoftiktok, #frenchbulldog"
+    hashtags: "#frenchielife, #frenchiesoftiktok, #frenchbulldogsoftiktok, #over40"
+  - username: "golden.gunn3r"
+    fullname: >-
+      Bomber 🖤 gunner 💀
+    bio: >-
+      Bombardier and gunner Loves of my life Tia - 18
+    location: "Canada"
+    followers: 6257
+    engagement: 2379
+    commentsToLikes: 0.016134
+    id: ckbr23lk4iz4p0j23pihqjn6m
+    verified: false
+    hashtags: "#redlab, #fyp, #servicedog, #foryou"
+  - username: "princessk519"
+    fullname: >-
+      Top 5.6% of OF 💗👅
+    bio: >-
+      Check the links below for a fun surprise !! 💗😚
+    location: "Canada"
+    followers: 18200
+    engagement: 668
+    commentsToLikes: 0.106695
+    id: ckbf3gqhzr6r30j23ucq7s1o4
+    verified: false
+    hashtags: "#2020wrapped, #messytiktok, #greenscreen, #duet"
+  - username: "mahabellaaa"
+    fullname: >-
+      maha
+    bio: >-
+      🇨🇦🌈✨ Toronto • actor • she/they • 21 BBMAHABELLA for 10% off inkbox.com
+    location: "Canada"
+    followers: 62600
+    engagement: 1477
+    commentsToLikes: 0.023684
+    id: ck94gbm4uf44v0j78ba8s1tuv
+    verified: false
+    hashtags: "#greenscreen, #inkbox, #fyp, #lgbtq"
   - username: "racheim29"
     fullname: >-
       Rachel
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.039800
     id: ckaclzm8mhpj00i78j347p7td
     verified: false
-    hashtags: "#funny, #foryou, #tiktokcanada, #canada"
-  - username: "ashleybutt17"
-    fullname: >-
-      Ashley Butt
-    bio: >-
-      Grew up in newfoundland, living in Alberta! 💯 Canadian made 🇨🇦
-    location: "Canada"
-    followers: 7002
-    engagement: 493
-    commentsToLikes: 0.036396
-    id: ckcp7hn7udkgh0j23e2k5rwhu
-    verified: false
-    hashtags: "#babiesoftiktok, #fyp, #alberta, #foryoupage"
-  - username: "exclusivelyexpensive"
-    fullname: >-
-      ExclusivelyExpensive
-    bio: >-
-      ▪️|“Luxury is in each detail”👑 ▪️| @exclusivelyexpensive on IG Let’s hit 20k🔥
-    location: "Canada"
-    followers: 16000
-    engagement: 431
-    commentsToLikes: 0.039814
-    id: ck9nde92zcr510j78eyw5n8ar
-    verified: false
-    hashtags: "#luxury, #expensive, #cristiano, #house"
-  - username: "_.infront_bains_"
-    fullname: >-
-      DC
-    bio: >-
-      #Bains ✅ Rare souls connect
-    location: "Canada"
-    followers: 6505
-    engagement: 1116
-    commentsToLikes: 0.017413
-    id: ckbl7mucw5hrx0j23t8tci69g
-    verified: false
-    hashtags: "#pikka, #explore, #scorpio, #myntraeorschallenge"
+    hashtags: "#albumlookalike, #funny, #foryou, #tiktokcanada"
 ---

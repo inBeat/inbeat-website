@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In India In 2022
+title: Top 10 Home Decor TikTok Influencers In India In 2023
 description: >-
-  Find top home decor TikTok influencers in India in 2022. Most popular hashtags: #homedecor #foryoupage #foryou #love.
+  Find top home decor TikTok influencers in India in 2023. Most popular hashtags: #homedecor #foryoupage #love #foryou.
 platform: TikTok
 hits: 21
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 21 TikTok influencers like this in India for you to contact.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 21 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "meghali082"
     fullname: >-
@@ -14,23 +14,23 @@ profiles:
       🇮🇳 ♥️Assam♥️ ♥️নমস্কাৰ 🙏♥️ 🏡Golaghat♥️ 👸8 June 🎂
     location: "India"
     followers: 2789
-    engagement: 941
-    commentsToLikes: 0.055225
+    engagement: 899
+    commentsToLikes: 0.046372
     id: ckav6tbgkdooe0j23s0sp94o7
     verified: false
-    hashtags: "#tiktokindia, #embroidery, #homedecor, #mycraft"
+    hashtags: "#foryoupage, #mycraft, #homedecor, #tiktokindia"
   - username: "kathus2004"
     fullname: >-
       athulyasramesh10 
     bio: >-
       Follow me on insta Dance and music lover♥️ NeEd YoUr SuPpoRt GuYzz
     location: "India"
-    followers: 7030
-    engagement: 1254
-    commentsToLikes: 0.013405
+    followers: 7028
+    engagement: 1101
+    commentsToLikes: 0.013417
     id: ckbkrj1r8m9ea0j232igw51zy
     verified: false
-    hashtags: "#foryourpage, #lifebuoykarona, #comedy, #homedecor"
+    hashtags: "#karthus, #bottleart, #lifebuoykarona, #tiktokmalayalam"
   - username: "sonali.ilyyyyyy"
     fullname: >-
       Sonali❤ Singh❤
@@ -38,11 +38,11 @@ profiles:
       ab youtube or insta bhi p bhi aaplog follow kr do 😊🙏
     location: "India"
     followers: 1300000
-    engagement: 676
-    commentsToLikes: 0.010589
+    engagement: 697
+    commentsToLikes: 0.007660
     id: ckbf219f2oj7d0j23a4s398au
     verified: false
-    hashtags: "#craft, #sonali04, #missustreetfood, #foryoupage"
+    hashtags: "#foryoupage, #missustreetfood, #foryou, #monsoonvibes"
   - username: "aneshascreativecorner"
     fullname: >-
       ANESHA✍️🌱🎨🖌️🧵🧶✂
@@ -50,11 +50,11 @@ profiles:
       Artist🖌 I 💖my life.my you tube channel✍️Anesha's creative corner👇 subscribe
     location: "India"
     followers: 10700
-    engagement: 313
-    commentsToLikes: 0.013396
+    engagement: 272
+    commentsToLikes: 0.015189
     id: ckb9hdrzt706a0j23v0kjd8km
     verified: false
-    hashtags: "#craft, #artlover, #stone, #papercraft"
+    hashtags: "#papercraft, #artist, #craft, #homedecorideas"
   - username: "chandnisdiydecor"
     fullname: >-
       chandnisdiydecor
@@ -62,35 +62,35 @@ profiles:
       Welcome to Chandni's DIY Decor Simple and affordable DIY and home decor videos.
     location: "India"
     followers: 49000
-    engagement: 565
-    commentsToLikes: 0.004042
+    engagement: 575
+    commentsToLikes: 0.004495
     id: ckbqwkqu2gued0j234e1iv0ij
     verified: false
-    hashtags: "#tiktok, #edutokmotivation, #cddecor, #crafts"
+    hashtags: "#edutokcareer, #edutokmotivation, #crafts, #youtuber"
   - username: "monashwilove"
     fullname: >-
       Mona Ashwini
     bio: >-
       🇮🇳 Owner of Handmade Cards Monashwi Let’s talk on Insta click 👇🏻Craftlover
     location: "India"
-    followers: 36000
-    engagement: 361
-    commentsToLikes: 0.012425
+    followers: 36100
+    engagement: 359
+    commentsToLikes: 0.012416
     id: cka0lplfkry0r0i7823ofurzg
     verified: false
-    hashtags: "#funnyvideos, #comedyvideo, #trending, #homedecorideas"
+    hashtags: "#funnyvideos, #tutorial, #fyp, #lockdown"
   - username: "pta_nhi_kon"
     fullname: >-
       Davinder
     bio: >-
       🌿#ptn_art🌿 🌿Art/craft🌿 🌿Thanks for supporting!🌿 🌿Instagram+YouTube👆🏻🌿
     location: "India"
-    followers: 201900
-    engagement: 697
-    commentsToLikes: 0.002986
+    followers: 201100
+    engagement: 694
+    commentsToLikes: 0.002937
     id: ckav37xk69jqe0j23dmmm0qbp
     verified: false
-    hashtags: "#trending, #love, #homedecor, #ptn"
+    hashtags: "#love, #ptn, #trending, #foryou"
   - username: "jesssonii0920"
     fullname: >-
       soni..jess
@@ -98,33 +98,33 @@ profiles:
       for crafty pics visit insta id- ghani_hub Grandmaa.Family.Lover.Art n craft.
     location: "India"
     followers: 37200
-    engagement: 368
-    commentsToLikes: 0.006063
+    engagement: 367
+    commentsToLikes: 0.006428
     id: ck9n4tx8v5jhi0j78f9abs9ll
     verified: false
-    hashtags: "#crafty, #homedecor, #recycling, #handmade"
+    hashtags: "#recycling, #wallhanging, #handmade, #homedecor"
   - username: "artkala4u"
     fullname: >-
       artkala4u
     bio: >-
       Welcome to the World Of Innovation 🎨
     location: "India"
-    followers: 439300
+    followers: 438300
     engagement: 277
-    commentsToLikes: 0.002282
+    commentsToLikes: 0.002280
     id: ck81q81qtgos90j789g9jo5mw
     verified: true
-    hashtags: "#cookies, #garden, #savetheworld, #homedecor"
+    hashtags: "#whatieatinaday, #yummy, #juice, #cookies"
   - username: "kichuu95"
     fullname: >-
       🌊🆃🅷🅰🅻🅰🆂🆂🅾🅿🅷🅸🅻🅴🌊
     bio: >-
       ° ARCHITECT ° ° 1995 edition ° ° Kollamkaari ° ° Thrissur 🐘🎇 Ishttam °
     location: "India"
-    followers: 9806
-    engagement: 4553
-    commentsToLikes: 0.040934
+    followers: 9799
+    engagement: 3356
+    commentsToLikes: 0.044160
     id: ckbw3n9z3x5sc0j23dn6blrh3
     verified: false
-    hashtags: "#support, #foryoupage, #me, #foryou"
+    hashtags: "#fyp, #creativity, #gg99, #mallu"
 ---

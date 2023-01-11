@@ -1,36 +1,48 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Norway In 2022
+title: Top 10 Fashion TikTok Influencers In Norway In 2023
 description: >-
-  Find top fashion TikTok influencers in Norway in 2022. Most popular hashtags: #fyp #foryou #fashion #norge.
+  Find top fashion TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #norway #fashion.
 platform: TikTok
-hits: 15
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 15 TikTok influencers like this in Norway for you to connect with.
+hits: 14
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 14 TikTok influencers like this in Norway for you to contact.
 profiles:
   - username: "madde29"
     fullname: >-
       user6333846007239
     bio: >-
-      Your daily dose of fashion content Traveller | Tomboy Ig: Madde29 Snap: Rogge29
+      Your daily dose of fashion content Tomboy Ig: Madde29 Sc: Rogge29
     location: "Norway"
-    followers: 8326
-    engagement: 1578
-    commentsToLikes: 0.148973
+    followers: 10100
+    engagement: 1350
+    commentsToLikes: 0.081847
     id: ckd6ofxtjj1700j23azgc8pvb
     verified: false
-    hashtags: "#tomboy, #tomboystyle, #mascgirl, #lgbt"
+    hashtags: "#mascgirls, #fyp, #masclesbian, #lgbt"
   - username: "andre.ward"
     fullname: >-
       andreward
     bio: >-
-      jokes and fashion oslo/norway instagram//andreward
+      jokes and fashion oslo/norway IG//ANDREWARD SC//KJETILA
     location: "Norway"
-    followers: 17100
-    engagement: 924
-    commentsToLikes: 0.023880
+    followers: 24500
+    engagement: 1016
+    commentsToLikes: 0.028185
     id: ckbwfttne27xy0j23okdphvfm
     verified: false
-    hashtags: "#foryou, #fyp, #norge, #tiktoknorge"
+    hashtags: "#norway, #fy, #norge, #fyp"
+  - username: "annamariaricke"
+    fullname: >-
+      Anna Maria Ricke
+    bio: >-
+      🇳🇴Norwegian-American🇺🇸 Instagram Linked👆🏻 Skits and fashion
+    location: "Norway"
+    followers: 43900
+    engagement: 938
+    commentsToLikes: 0.022061
+    id: ckdc8tqadi7bq0j2332zvfn6b
+    verified: false
+    hashtags: "#norge, #foryou, #foreign, #norway"
   - username: "dasheys"
     fullname: >-
       🦋 KARDASHIANS FANPAGE 🦋
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.024859
     id: cka0r01f0ew4u0i78y60x8hhc
     verified: false
-    hashtags: "#food, #celeb, #lol, #wap"
+    hashtags: "#funny, #kuwtk, #wap, #kardashians"
+  - username: "stine_stromskag"
+    fullname: >-
+      Sytinaa🦋
+    bio: >-
+      Code: 25stinestromskag on
+    location: "Norway"
+    followers: 11600
+    engagement: 929
+    commentsToLikes: 0.052753
+    id: ckce62fjlkd4c0j23layy65zq
+    verified: false
+    hashtags: "#ootd, #getthisonthefyp, #fashion, #corset"
   - username: "hansnt"
     fullname: >-
       Hans N Tranberg
     bio: >-
       🇺🇲NYC 🇬🇧 LDN 🇳🇴 KRS 🇯🇵 TYO A looking glass into my world and work 🌍✈️💫
     location: "Norway"
-    followers: 9232
-    engagement: 831
-    commentsToLikes: 0.012253
+    followers: 9255
+    engagement: 753
+    commentsToLikes: 0.009742
     id: ckdhl6k51zqv20j23z7zqg4p8
     verified: false
-    hashtags: "#moschino, #norway, #nyfw, #topmodel"
+    hashtags: "#fyp, #nyfw, #jeremyscott, #supermodel"
   - username: "malinspettersen"
     fullname: >-
       Malin Pettersen
     bio: >-
       Just another basic bitch
     location: "Norway"
-    followers: 7472
-    engagement: 573
-    commentsToLikes: 0.011870
+    followers: 11300
+    engagement: 473
+    commentsToLikes: 0.008873
     id: cka0k7iysleo20i785eolanz3
     verified: false
-    hashtags: "#fashiontips, #style, #norge, #foryoupage"
-  - username: "mrsavage"
+    hashtags: "#foryoupage, #norway, #tiktoknorway, #fashion"
+  - username: "carmenroutine"
     fullname: >-
-      MrSavage
+      𝗖𝗮𝗿𝗺𝗲𝗻
     bio: >-
-      Pro Fortnite Player & Content Creator for 100 Thieves. Buy my apparel here:
+      Grwm | routines | lifestyle - 28k <3 - Small business👇
     location: "Norway"
-    followers: 582700
-    engagement: 1766
-    commentsToLikes: 0.008900
-    id: ckc2z2a9jq1hm0j238ocjycgk
-    verified: true
-    hashtags: "#trios, #fortnite, #harpoon, #carepackage"
-  - username: "jegerhaakon"
-    fullname: >-
-      Haakon
-    bio: >-
-      en ikke så stereotypisk kristen 🤷🏼‍♂️ haakonjordbakke på ig og yt
-    location: "Norway"
-    followers: 27100
-    engagement: 997
-    commentsToLikes: 0.034100
-    id: ckbaizms2a2nr0j23dwgmibwc
+    followers: 28400
+    engagement: 3432
+    commentsToLikes: 0.459543
+    id: ckb93c91nk65c0j234rspd3s6
     verified: false
-    hashtags: "#xyzbca, #foryou, #fyp, #foryoupage"
-  - username: "emilielein88"
+    hashtags: "#fyp, #viral, #pinterest, #maincharacterchallenge"
+  - username: "kvarsten"
     fullname: >-
-      Leinii
+      Nathan
     bio: >-
-      📩emilielein88@icloud.com
+      Brun og Blid😊 Oslo/Kristiansand❤️ 19 Instagram: @Nathankvarsten😘
     location: "Norway"
-    followers: 1900000
-    engagement: 1334
-    commentsToLikes: 0.007309
-    id: ck81qsgw7jhal0j78hql1bcco
-    verified: true
-    hashtags: "#ad, #zxycba, #foryou, #pleasedontbeugly"
-  - username: "nubbsofchubb"
+    followers: 7755
+    engagement: 594
+    commentsToLikes: 0.056938
+    id: cka0py10aaejs0i78ulj57amu
+    verified: false
+    hashtags: "#fyp, #duet, #foryou, #norway"
+  - username: "hokolpus"
     fullname: >-
-      Chubbnubb
+      Sarah
     bio: >-
-      he told me do so
+      Sapmi from Norway and proud of that 🇳🇴 Give love to one and another, not hate❤
     location: "Norway"
-    followers: 2424
+    followers: 2646
     engagement: 445
-    commentsToLikes: 0.067414
-    id: ck9fm3e0qr4um0j78qn5jkl68
+    commentsToLikes: 0.070219
+    id: cka6b721xz8eq0i78k881asyc
     verified: false
-    hashtags: "#wholesome, #feet, #thisistheway, #diy"
-  - username: "annelinsta"
-    fullname: >-
-      Annelin 
-    bio: >-
-      🇳🇴 Pregnant mom of 2 Follow my IG: annelinsta
-    location: "Norway"
-    followers: 8620
-    engagement: 1075
-    commentsToLikes: 0.026072
-    id: ck9er2e4ozvht0j786lqhxzt8
-    verified: false
-    hashtags: "#mom, #foryou, #pregnant, #fyp"
+    hashtags: "#tiktoknorge, #sapmitiktok, #norway, #indegenouspeople"
 ---

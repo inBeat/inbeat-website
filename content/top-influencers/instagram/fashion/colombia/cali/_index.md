@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Cali In 2022
+title: Top 10 Fashion Instagram Influencers In Cali In 2023
 description: >-
-  Find top fashion Instagram influencers in Cali in 2022. Most popular hashtags: #fashion #cali #colombia #cute.
+  Find top fashion Instagram influencers in Cali in 2023. Most popular hashtags: #medellin #fashion #cali #colombia.
 platform: Instagram
-hits: 39
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 39 Instagram influencers like this in Cali, Colombia for you to collaborate.
+hits: 25
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 25 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
-  - username: "rodwin.oficial"
+  - username: "nicollediez"
     fullname: >-
-      RODWIN MILLIONARY 💸
+      NICOLLE DIEZ
     bio: >-
-      🎖REAL, LOYAL & HUMBLE🎖 Singer🔹Songwriter🔸Producer 🔹LA ELITE 👁 🔸EL LÁPIZ MÁS DURO DE CALI ✏️ 🔹CEO EMPIRE MIDAS INC ⚜️
+      My life 📷 Mamá de Maite 🤍 #Fashion #beauty and #lifestyle inspiration @bynicollediez
     location: "Colombia"
-    followers: 13064
-    engagement: 829
-    commentsToLikes: 0.107209
-    id: ck5zknuj8jtk40i143p9gf3ro
+    followers: 97440
+    engagement: 106
+    commentsToLikes: 0.020316
+    id: ck5c27kdbwp4s0i11kuccrvnh
     verified: false
-    hashtags: "#laelite, #picoftheday, #photooftheday, #iphonesia"
+    hashtags: "#colombia, #ootd, #fashionstyle, #fashion"
   - username: "juan.ossa10"
     fullname: >-
       Juan Manuel O. ♛
     bio: >-
       𝗚𝗼𝗱’𝘀 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗮𝗻𝗴𝗲𝗹 👼🏻 𝗖𝗮𝗹𝗶, 𝗖𝗼𝗹𝗼𝗺𝗯𝗶𝗮📍🇨🇴 𝟭𝟵 𝗮ñ𝗼𝘀
     location: "Colombia"
-    followers: 11570
-    engagement: 1397
-    commentsToLikes: 0.071371
+    followers: 11665
+    engagement: 1337
+    commentsToLikes: 0.075338
     id: ck5qc4i3iotdz0i112ahgra0x
     verified: false
-    hashtags: "#modelo, #tbt, #photooftheday, #fashion"
-  - username: "lauritafitness"
+    hashtags: "#picoftheday, #tbt, #art, #photooftheday"
+  - username: "riickialvarezv"
     fullname: >-
-      Lau Tamayo 🎀
+      Ricardo Alvarez
     bio: >-
-      Colombian 🇨🇴 Cat lover 😻 Fitness 🏋️‍♀️ Travel ✈️ Trading 📈 #BornToBeRealNotPerfect
+      Guerreros Colombia El niño bonito de Bquilla Barranquilla Clun De Fans
     location: "Colombia"
-    followers: 4189
-    engagement: 1063
-    commentsToLikes: 0.115666
-    id: ck8szo35bp3ov0j789prcl2ok
+    followers: 26514
+    engagement: 116
+    commentsToLikes: 0.021218
+    id: ck8t8c8q8jwbj0j78rl42t8cp
     verified: false
-    hashtags: "#positiva, #verano, #model, #classy"
-  - username: "jc_gmz"
+    hashtags: "#likes, #lamarquesita, #soledad, #danielalvarez"
+  - username: "ramvidzapata"
     fullname: >-
-      The Julián Best Experiences 🌎
+      🆁🅰🅼🆅🅸🅳
     bio: >-
-      Content Creator /Runner / Brand Consultant and PR🇨🇴🇵🇹 | Travel • Luxury • Fashion |Ambassador @kevins_joyeros @gcaairlines Equality advocate 🏳️‍🌈✈️
+      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ 🍑@jjmalibu Ambassasor 🇻🇪Living in Bogota🇻🇪
     location: "Colombia"
-    followers: 30761
-    engagement: 526
-    commentsToLikes: 0.030620
-    id: ck5q6avj6wnpz0i11wjzba1z9
+    followers: 65605
+    engagement: 280
+    commentsToLikes: 0.016344
+    id: ck6u070hhdyy10j71x6lygpcd
     verified: false
-    hashtags: "#cartagenacolombia, #curazao, #mugcakenescafe, #luxury"
-  - username: "camiavellam"
+    hashtags: "#men, #photography, #inkedmen, #medellin"
+  - username: "macamilaquesada"
     fullname: >-
-      Camila Kamle Avella 🌞
+      C A M I
     bio: >-
-      🇨🇴 Colombian model | Content creator |Tv hostess | Jewelry designer| Fashion lover| @turmalinalegacy @telkatelas @camiavella_tips
+      Tips de moda para que disfrutes tu closet al máximo🌈⚡️ #yosoykancanjeans 👖💓 Yt: Nuevo Video ROOM TOUR 2021🎬
     location: "Colombia"
-    followers: 357617
-    engagement: 295
-    commentsToLikes: 0.020910
-    id: ck5c0pucztm3s0i11gxfqsu1r
-    verified: true
-    hashtags: "#kamlebytelka, #calicolombia, #turmalinalegacy, #domi"
-  - username: "laurajaramillo211"
-    fullname: >-
-      Laura Jaramillo Arango
-    bio: >-
-      @sky.colombia Publicidad Dm 📥 Única cuenta￼🔎 Cali - col 📍 Tik tok (+600k)
-    location: "Colombia"
-    followers: 239419
-    engagement: 1036
-    commentsToLikes: 0.034599
-    id: ck9we5zuyirbx0j78i6kajdyr
+    followers: 11584
+    engagement: 402
+    commentsToLikes: 0.055669
+    id: ckaortrpeoppg0i78tvtpigrp
     verified: false
-    hashtags: "#colombia, #love, #cute, #me"
-  - username: "isabelvesga"
+    hashtags: "#moda, #model, #colombiamoda, #modelofotografica"
+  - username: "franciny_bautista"
     fullname: >-
-      Isabel Vesga
+      ╰☆☆ FRANCINY ☆☆╮
     bio: >-
-      Fashion Designer | Content creator @elementumdesign @itsmariavesga Colombiana
+      🙏🏼 | ᴅ ɪ ᴏ s 💒 🎊 | 20 años 💃🏻 | Modelo 💰| Negocios 📲 🏋🏻‍♀️| Pasión ,deporte 🥰 👑 | Colombiana 🇨🇴 👇🏻🇨 🇴 🇳 🇹 🇦 🇨 🇹 🇴 ☎️ 📲
     location: "Colombia"
-    followers: 9419
-    engagement: 363
-    commentsToLikes: 0.034217
-    id: ck8tcsh2n0i9l0j78rd38d8tm
+    followers: 326315
+    engagement: 352
+    commentsToLikes: 0.021686
+    id: ckap1chnntzuz0i7855vdbflp
     verified: false
-    hashtags: "#travelphotography, #travel, #fashion, #colombians"
+    hashtags: "#pereira, #yoinscollection, #explorer, #feed"
+  - username: "giannimichielin"
+    fullname: >-
+      Giannina Michielin Roa
+    bio: >-
+      Personal Shopper 💌giannimichielin@hotmail.com 💡Co-Founder #brunchofideas 💌 brunchofideas@gmail.com Cali, Colombia 🇨🇴 || Italy 🇮🇹
+    location: "Colombia"
+    followers: 38253
+    engagement: 88
+    commentsToLikes: 0.102980
+    id: ck0w3n7rnu9n80i19d99jvcmt
+    verified: false
+    hashtags: "#gianninamichielin, #colombianblogger, #fashionlover, #spotify"
   - username: "auraoro"
     fullname: >-
       Aura Maria Orozco
     bio: >-
-      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketvcali 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
+      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketv.co 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
     location: "Colombia"
-    followers: 27422
-    engagement: 196
-    commentsToLikes: 0.496485
+    followers: 27098
+    engagement: 98
+    commentsToLikes: 0.365928
     id: ckap7vyvwlszz0i7805o7f2u5
     verified: false
-    hashtags: "#rojo, #skincare, #sun, #pretty"
-  - username: "isabellacubillos"
+    hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
+  - username: "dd.rm"
     fullname: >-
-      ISABELLA CUBILLOS
+      Derly Daniela
     bio: >-
-      Founder @symmetric.sportswear ⚡️ Cali, Colombia Fitness / Workouts / Lifestyle
+      •Owner of: @sebastiano.shop •Tiktok: dd.rm7 164k 💌 Info : ddrm.contacto@gmail.com •@illustrator.ddrm Fashion designer/Model/YouTube #fashionstyle
     location: "Colombia"
-    followers: 57746
-    engagement: 184
-    commentsToLikes: 0.043571
-    id: ck8t6makke3v20j78m7phwtob
+    followers: 28755
+    engagement: 699
+    commentsToLikes: 0.031405
+    id: ck9has8yzdw4r0j78jiu8f2rf
     verified: false
-    hashtags: "#lifestyle, #selfie, #cardiohiit, #fitnessjourney"
-  - username: "isabellaguirrel"
+    hashtags: "#modelocolombiana, #blackandwhite, #vestidodeba, #makeup"
+  - username: "marialejamirandap"
     fullname: >-
-      Isabella Aguirre
+      -M A R I A  A L E J A N D R A-
     bio: >-
-      📍Cali-Colombia 💃🏻Bailarina de @focus_dancers 📚Estudiante de Mercadeo Internacional y Publicidad
+      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
     location: "Colombia"
-    followers: 73695
-    engagement: 694
-    commentsToLikes: 0.013669
-    id: ck5pwhb8vmsrk0i11xa8s6b5c
+    followers: 8470
+    engagement: 510
+    commentsToLikes: 0.041288
+    id: ckaouqrjw1esd0i78decx4wuk
     verified: false
-    hashtags: "#ros, #heels, #fashion, #amigos"
+    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
 ---

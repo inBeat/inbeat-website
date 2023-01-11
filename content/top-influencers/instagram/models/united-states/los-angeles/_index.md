@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Los Angeles In 2022
+title: Top 10 Models Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top models Instagram influencers in Los Angeles in 2022. Most popular hashtags: #love #halloween #model.
+  Find top models Instagram influencers in Los Angeles in 2023. Most popular hashtags: #model #photography #losangeles.
 platform: Instagram
-hits: 976
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 976 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 923
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 923 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "paigewoolen"
-    fullname: >-
-      Paige Woolen
-    bio: >-
-      Essential Stay At Home Grass-Fed Model© // los angeles, california creator of @dudesinthedm
-    location: "United States"
-    followers: 209459
-    engagement: 465
-    commentsToLikes: 0.036485
-    id: ck0vuwe0gmgu50i190l1sp1wv
-    verified: false
-    hashtags: ""
-  - username: "beaurose_"
-    fullname: >-
-      BO ROSE
-    bio: >-
-      FITNESS COACH 💪🏾 MODEL Los Angeles, CA 🌴
-    location: "United States"
-    followers: 118859
-    engagement: 944
-    commentsToLikes: 0.017389
-    id: ck0w61jb76gvn0i19eghzqtub
-    verified: false
-    hashtags: "#lostfiles, #throwbackmonday, #motivationmonday"
-  - username: "ashbydrake"
-    fullname: >-
-      ashby
-    bio: >-
-      DJ & Dog mama Promoter of love, light and equal rights Yoga instructor @ashbyyoga NTA models • Los Angeles 🐾🎧🎨🧘‍♀️👽🌈
-    location: "United States"
-    followers: 16563
-    engagement: 721
-    commentsToLikes: 0.053379
-    id: ck5hmc06ulom20i11grhqpfkh
-    verified: false
-    hashtags: "#babyboy, #louisville, #princetonlane, #merrychristmas"
-  - username: "sidneynicolerogers"
-    fullname: >-
-      Sidney Nicole Rogers
-    bio: >-
-      Actress/Writer/Model Los Angeles, CA 1/2 of Mud Girls - @mudgirls on Tik Tok
-    location: "United States"
-    followers: 6569
-    engagement: 529
-    commentsToLikes: 0.089393
-    id: ckapa3p4dukzb0i78tvkq08wo
-    verified: false
-    hashtags: "#snr, #viaoils, #jbco, #probiotic"
-  - username: "mae.col"
-    fullname: >-
-      
-    bio: >-
-      next models · los angeles
-    location: "United States"
-    followers: 108918
-    engagement: 895
-    commentsToLikes: 0.006103
-    id: ck6tpg0j3jnlf0j71p8394r2w
-    verified: false
-    hashtags: ""
   - username: "aliromo89"
     fullname: >-
       Martha Romo
     bio: >-
-      Publish model. Los Angeles DM for shoots 📸🇫🇷🇲🇽 Mom 😇🐶 No Nudes Backup account: @aliromo.2
+      Publish model. Los Angeles DM for shoots 📸🇫🇷🇲🇽 Mom 😇🐶 Backup account: @aliromo.2
     location: "United States"
-    followers: 135896
-    engagement: 239
-    commentsToLikes: 0.033047
+    followers: 136689
+    engagement: 225
+    commentsToLikes: 0.026361
     id: ck6tlwa176r4a0j71vsh3tgth
     verified: false
-    hashtags: "#model, #love, #staysafe, #fitmom"
-  - username: "contrashelby"
+    hashtags: "#me, #abs, #sexy, #photoshoot"
+  - username: "olia.art"
     fullname: >-
-      Shelby
+      Olia 🌟
     bio: >-
-      🇲🇽 Makeup artist/model Los Angeles, CA Business: contrashelby@gmail.com 🖤
+      Founder of @art8air project Model based in Los Angeles Envy Models - Los Angeles 🇺🇸 Boom models - Milan 🇮🇹
     location: "United States"
-    followers: 72579
-    engagement: 492
-    commentsToLikes: 0.015460
-    id: ck0txihgpj9wi0i19jiu00nk8
+    followers: 32038
+    engagement: 146
+    commentsToLikes: 0.058483
+    id: ck55pda9fabiy0i11hdfigptc
     verified: false
-    hashtags: "#halloween, #colourpopme, #graphicliner, #makeupofinstagram"
+    hashtags: "#miamiswimweek, #pebblebeach, #quail, #bedroomeyes"
   - username: "lynneasmitherzz"
     fullname: >-
       Lynnea Smith
     bio: >-
       🌻Real Estate Agent and Model 🏡 @listingwithlynnea //Ford Models Chicago // O Models Los Angeles//Osbrink Agency
     location: "United States"
-    followers: 11878
-    engagement: 553
-    commentsToLikes: 0.019907
+    followers: 11687
+    engagement: 512
+    commentsToLikes: 0.017826
     id: ck0w5aswa2qm50i19s4m1k496
     verified: false
-    hashtags: "#wichita, #bookstagram, #whattoreadnext, #ictrealestate"
-  - username: "taneemccall"
+    hashtags: "#ictrealestate, #wichita"
+  - username: "beccasupreme"
     fullname: >-
-      Tanee
+      Formerly seunhere
     bio: >-
-      she/her Actor/Dancer/O Models Los Angeles, CA
+      Creator | Model Los Angeles 🙆🏾‍♀️🇳🇬 My Wigs 🥰: @kembeckled Business Inquiries: beccasupreme@gmail.com
     location: "United States"
-    followers: 6168
-    engagement: 655
-    commentsToLikes: 0.126851
-    id: ck5zvy66w54s40i142cn1i9ns
+    followers: 45301
+    engagement: 1729
+    commentsToLikes: 0.014059
+    id: ck5q8uo9c81440i11kafy1rr3
     verified: false
-    hashtags: "#love, #newborn, #quarantinebaby, #baby"
-  - username: "katerinakraz"
+    hashtags: "#blackcosplayer, #afro, #blondehair, #bussit"
+  - username: "sidneynicolerogers"
     fullname: >-
-      Katya♈️
+      Sidney Nicole Rogers
     bio: >-
-      Appreciate what you have. Nothing will be the same in a year. Model. Los Angeles. 📩 katerinakraz01@gmail.com
+      Actress/Writer/Model Los Angeles, CA 1/2 of Mud Girls - @mudgirls on Tik Tok
     location: "United States"
-    followers: 218110
-    engagement: 222
-    commentsToLikes: 0.018742
-    id: ck8systg0lvg00j786llnldas
+    followers: 6877
+    engagement: 509
+    commentsToLikes: 0.111345
+    id: ckapa3p4dukzb0i78tvkq08wo
     verified: false
-    hashtags: "#lamodel, #swimmo, #fun, #dance"
+    hashtags: "#teammango, #mangoandlime, #teamnatural, #bestcast"
+  - username: "valentinaruby"
+    fullname: >-
+      
+    bio: >-
+      💜💙💚💛🧡❤️ Next Models Los Angeles 🌴 Supreme NYC 🗽 Chic Management Sydney 🦘 ❤️🧡💛💚💙💜
+    location: "United States"
+    followers: 30021
+    engagement: 472
+    commentsToLikes: 0.013767
+    id: ck0twanj8endt0i19uil94bhy
+    verified: false
+    hashtags: "#dogood, #begood"
+  - username: "natalieannepetti"
+    fullname: >-
+      Natalie Anne Petti
+    bio: >-
+      God💋 CSULB Graduate💋 Lissa Turturro- Mngr
+    location: "United States"
+    followers: 12407
+    engagement: 331
+    commentsToLikes: 0.130536
+    id: ck5bvrw6uka7u0i11brd2mgno
+    verified: false
+    hashtags: "#miami, #dance, #onlyfans, #latina"
+  - username: "liv_aloha_"
+    fullname: >-
+      Liv Aloha
+    bio: >-
+      Island Girl from Maui Hawai’i 🍍 San Diego📍SDSU ‘23 @axosdsu TikTok @livvaloha For Collabs EMAIL👇
+    location: "United States"
+    followers: 30496
+    engagement: 250
+    commentsToLikes: 0.016451
+    id: ckap3eaei2plf0i78g7yh2rct
+    verified: false
+    hashtags: "#bikinimodel, #mood, #ohauhawaii, #bikini"
+  - username: "itsambermariee"
+    fullname: >-
+      Amber Marie💋
+    bio: >-
+      📍LA 🌴 @mtaagency
+    location: "United States"
+    followers: 21009
+    engagement: 203
+    commentsToLikes: 0.094497
+    id: ck8t0bjzari8m0j78xhush243
+    verified: false
+    hashtags: "#light, #model, #losangeles, #face"
+  - username: "maury_bruce"
+    fullname: >-
+      Maury Bruce
+    bio: >-
+      MA: @imdinc / hollie@imdmodeling.com
+    location: "United States"
+    followers: 3067
+    engagement: 1260
+    commentsToLikes: 0.099094
+    id: ck0u2n96g0gbt0i19tbtyo94j
+    verified: false
+    hashtags: "#streetphotography, #fitnessmotivation, #relationshipgoals, #photoshoot"
 ---

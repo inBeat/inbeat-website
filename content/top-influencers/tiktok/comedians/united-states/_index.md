@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians TikTok Influencers In United States In 2022
+title: Top 10 Comedians TikTok Influencers In United States In 2023
 description: >-
-  Find top comedians TikTok influencers in United States in 2022. Most popular hashtags: #fyp #comedy #duet #foryoupage.
+  Find top comedians TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #comedy #foryoupage.
 platform: TikTok
-hits: 1173
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 1173 TikTok influencers like this in United States for you to connect with.
+hits: 1089
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 1089 TikTok influencers like this in United States for you to pitch.
 profiles:
-  - username: "scoliosiscowgirl69"
-    fullname: >-
-      rambunctious reese
-    bio: >-
-      comedian
-    location: "United States"
-    followers: 23100
-    engagement: 1642
-    commentsToLikes: 0.028107
-    id: cka6oj4pmfqdt0i787ske2wj8
-    verified: false
-    hashtags: "#minnesota, #duet, #hehe, #mn"
   - username: "kevinjamesofficial"
     fullname: >-
       Kevin James
     bio: >-
       Comedian
     location: "United States"
-    followers: 1700000
-    engagement: 1280
-    commentsToLikes: 0.012524
+    followers: 1800000
+    engagement: 1278
+    commentsToLikes: 0.011954
     id: ck8qkrmgyikvf0j78910agtqz
     verified: true
-    hashtags: "#fypage, #foryou, #fyp, #hubiehalloween"
+    hashtags: "#foryou, #hubiehalloween, #soundguy, #fyp"
   - username: "evanzugin"
     fullname: >-
       Evan Zugin
     bio: >-
       Comedian
     location: "United States"
-    followers: 7457
-    engagement: 786
-    commentsToLikes: 0.023735
+    followers: 8211
+    engagement: 672
+    commentsToLikes: 0.025425
     id: ckb9pzor4llh40j23884w2ipb
     verified: false
-    hashtags: "#slug, #fyp, #foryou, #foryoupage"
-  - username: "jp_wrath"
+    hashtags: "#foryoupage, #chameleon, #chameleons, #fypage"
+  - username: "socialmedianews74"
     fullname: >-
-      JP
+      SMN74
     bio: >-
-      Aspiring Personal Trainer/Comedian 🧡•Reacting to those that follow IG•🧡
+      Actor | Comedian CEO OF MICS [MOST TRUSTED NAME IN NEWS] 😏Link Bio ⬇️
     location: "United States"
-    followers: 45000
-    engagement: 2361
-    commentsToLikes: 0.059952
-    id: ckbklkujqewdb0j23i5ot18kl
+    followers: 454200
+    engagement: 2327
+    commentsToLikes: 0.032837
+    id: ckb0svvo2idsf0j23e9e1lr75
     verified: false
-    hashtags: "#heinzhalloween, #interiordesign, #love, #comedy"
-  - username: "heyitscaitlincook"
+    hashtags: "#smn74weather, #smn74, #blacktiktok, #smn74weatherduet"
+  - username: "mrswilkins1"
     fullname: >-
-      Caitlin Cook
+      Mrswilkins1
     bio: >-
-      Musician / Comedian / Artist Posting a song a day More on IG & YT 👇 Merch 👇
+      Comedian/Entertainer! CHARACTER COMEDY NOT REAL LIFE! (Adult content 18+)
     location: "United States"
-    followers: 76000
-    engagement: 3363
-    commentsToLikes: 0.045325
-    id: ckbf5bqviu5vm0j23gowe8grh
+    followers: 98500
+    engagement: 1719
+    commentsToLikes: 0.462387
+    id: ckdnu2t7nmkoy0j23m34qtz9u
     verified: false
-    hashtags: "#biden2020, #redbulldanceyourstyle, #fyp, #musicalcomedy"
-  - username: "lilsaucelegend"
+    hashtags: "#foryourpage, #florida2021, #greenscreen, #duet"
+  - username: "nathanhurdcomedy"
     fullname: >-
-      LilSauceLegend
+      Nathan Hurd
     bio: >-
-      I'm just some weird twat biscuit tryin to make a living. Aspiring comedian PC
+      Actor/Comedian P.O Box: 4470 W Sunset Blvd #372 Los Angeles CA 90027
     location: "United States"
-    followers: 115400
-    engagement: 2443
-    commentsToLikes: 0.039788
-    id: ckdsv0p8tpz000j23kcskdmf5
+    followers: 1700000
+    engagement: 1451
+    commentsToLikes: 0.022426
+    id: ck9e0flve5u4m0j78hflwv6xu
     verified: false
-    hashtags: "#foryoupage, #pc, #stitch, #comedy"
-  - username: "larryventurino"
+    hashtags: "#laugh, #fyp, #comedy, #jokes"
+  - username: "monnacomedy"
     fullname: >-
-      LarryVenturino
+      Monna Comedy
     bio: >-
-      Stand Up Comedian
+      stand up comedian boohoos = hahas Snag your Coldest Water Bottle here! 👇🏻
     location: "United States"
-    followers: 75800
-    engagement: 2390
-    commentsToLikes: 0.300695
-    id: ck8s75e0dnpvw0j78za6u4j18
+    followers: 112700
+    engagement: 1244
+    commentsToLikes: 0.051391
+    id: ckbfen8np8t720j239m2yijim
     verified: false
-    hashtags: "#cake, #doyouknow, #whatdoyouthink, #halloween"
-  - username: "vysefoxx"
+    hashtags: "#thecoldestwater, #girlsofthecoldest, #foryou, #storytime"
+  - username: "bens_comedy"
     fullname: >-
-      Vyse Foxx
+      Ben Matias
     bio: >-
-      🐱 🦊 🐉 🐀 furry/gamer/comedian/ counselor) Vysefoxx.com/merch ) see merch <3
+      Actor/Writer/Comedian/Accountant 👇🏾👇🏾👇🏾
     location: "United States"
-    followers: 23000
-    engagement: 2130
-    commentsToLikes: 0.064150
-    id: ckcps9kqmmety0j238yjwazwm
+    followers: 927700
+    engagement: 1715
+    commentsToLikes: 0.023031
+    id: ckdcmcsg1omnv0j237wlbchpt
     verified: false
-    hashtags: "#duet, #furry, #vrchat, #gdfr"
-  - username: "amyfsell"
+    hashtags: "#benscomedy, #tattedislander, #stitch, #benmatias"
+  - username: "real.official.jr"
     fullname: >-
-      Amy F Sell
+      TikTok DJ
     bio: >-
-      #MSWarrior! 🧡 comedian #st0neyladies 420 friendly 🍃💨 Cash app: $AmySell14
+      Comedian radio disc jockey news media outlet subscriber click👇🏽
     location: "United States"
-    followers: 14300
-    engagement: 2124
-    commentsToLikes: 0.071794
-    id: cka8fnhvw30xm0i78axikq2uh
+    followers: 1600000
+    engagement: 1599
+    commentsToLikes: 0.030572
+    id: cka7ni3qcx45t0i78hlx4jy0u
+    verified: true
+    hashtags: "#fypppppppppppppp, #greenscreenvideo, #ripdebo, #tinylister"
+  - username: "leoddball"
+    fullname: >-
+      Leo Graye
+    bio: >-
+      VA/Comedian ✌️Follow my Insta!✌️ 🍋Just a lemon boi tryna be funny🍋 ⬇️ Merch 👀
+    location: "United States"
+    followers: 1100000
+    engagement: 3046
+    commentsToLikes: 0.017579
+    id: ckbl5vpxk3i2i0j23lbhgmwoz
     verified: false
-    hashtags: "#itscold, #ridingwithbiden, #st0neyladies, #fup"
+    hashtags: "#anime, #4u, #myheroacademia, #foryoupage"
   - username: "kill_wil"
     fullname: >-
       Wilhelm
     bio: >-
       Actor/Voice actor/Comedian.
     location: "United States"
-    followers: 24600
-    engagement: 2072
-    commentsToLikes: 0.061923
+    followers: 24400
+    engagement: 2012
+    commentsToLikes: 0.060284
     id: ckb99r7nru4yk0j23gqrr6jrz
     verified: false
-    hashtags: "#hefty, #nature, #cute, #morning"
+    hashtags: "#cute, #hefty, #nature, #morning"
 ---

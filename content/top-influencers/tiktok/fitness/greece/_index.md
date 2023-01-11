@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Greece In 2022
+title: Top 10 Fitness TikTok Influencers In Greece In 2023
 description: >-
-  Find top fitness TikTok influencers in Greece in 2022. Most popular hashtags: #fitness #fyp #tiktok #foryou.
+  Find top fitness TikTok influencers in Greece in 2023. Most popular hashtags: #fitness #foryou #tiktok #fyp.
 platform: TikTok
 hits: 11
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 11 TikTok influencers like this in Greece for you to contact.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 11 TikTok influencers like this in Greece for you to collaborate.
 profiles:
   - username: "pavlos_terzopoulos"
     fullname: >-
@@ -13,60 +13,12 @@ profiles:
     bio: >-
       ⬆️Get my instagram ⬆️ Fitness Presenter Personal Trainer Model
     location: "Greece"
-    followers: 9283
-    engagement: 375
-    commentsToLikes: 0.008118
+    followers: 8965
+    engagement: 467
+    commentsToLikes: 0.007330
     id: ckb9d79340b4q0j23kpj3v9ib
     verified: false
-    hashtags: "#houseoftiktok, #fitness, #fitnessmotivation, #foryou"
-  - username: "konstantinosemmanouil"
-    fullname: >-
-      Konstantinos. EM
-    bio: >-
-      Find me on Instagram Konstantinosemmanouil_ofc
-    location: "Greece"
-    followers: 48900
-    engagement: 748
-    commentsToLikes: 0.183086
-    id: ckbb8zj5ny3a10j23wfnz4oo8
-    verified: false
-    hashtags: "#king, #foryou, #foryourpage, #viral"
-  - username: "rea_komninoy"
-    fullname: >-
-      Rea_komninoy
-    bio: >-
-      🙏🏾𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒕𝒓𝒂𝒊𝒏𝒆𝒓🏋🏿‍♀️Boxing champion Instagram:rea_komninoy
-    location: "Greece"
-    followers: 9337
-    engagement: 574
-    commentsToLikes: 0.061766
-    id: ckc8igm5vc1g60j23mfzwqr2x
-    verified: false
-    hashtags: "#fyp, #post, #funnyvideo, #nomakeup"
-  - username: "chriskogias"
-    fullname: >-
-      kogiasxristos
-    bio: >-
-      YT : Chris Kogias INSTA : @chriskogias_sw 👇🏻CKF PARALLETTES 👇🏻
-    location: "Greece"
-    followers: 218400
-    engagement: 1724
-    commentsToLikes: 0.031268
-    id: ckafu2dkq8d4n0i78u2y1mqpq
-    verified: false
-    hashtags: "#chriskogias, #duet, #footieworkout, #fyp"
-  - username: "alexandros.siasos"
-    fullname: >-
-      Alexandros Siasos
-    bio: >-
-      MANUFACTURING | BIKE HACKS | BIKE TRIALS follow me on IG: @alexandros.siasos
-    location: "Greece"
-    followers: 10300
-    engagement: 1510
-    commentsToLikes: 0.029048
-    id: ckbko1ycci73a0j23r6nd1pgw
-    verified: false
-    hashtags: "#bike, #training, #stunt, #greece"
+    hashtags: "#fy, #tiktoktraditions, #foryoupage, #houseoftiktok"
   - username: "papito_jimmis"
     fullname: >-
       papitojimmis
@@ -78,19 +30,43 @@ profiles:
     commentsToLikes: 0.024418
     id: ck9euixs1dsxd0j78zdfv03dn
     verified: false
-    hashtags: "#teamtrelenomai, #iamcardib, #papitojimmis, #athens"
-  - username: "olympiacosfc"
+    hashtags: "#teamtrelenomai, #asteia, #greekvideo, #papitojimmis"
+  - username: "chriskogias"
     fullname: >-
-      Olympiacos FC
+      kogiasxristos
     bio: >-
-      The official #olympiacos TikTok account 45🏆 @olympiacosfc #WeKeepOnDreaming
+      YT : Chris Kogias INSTA : @chriskogias_sw CEO OF ΤOP
     location: "Greece"
-    followers: 72800
-    engagement: 1884
-    commentsToLikes: 0.007011
-    id: ck9rkl8iftijx0j78v26dlbes
+    followers: 387800
+    engagement: 1399
+    commentsToLikes: 0.012826
+    id: ckafu2dkq8d4n0i78u2y1mqpq
     verified: true
-    hashtags: "#foru, #goal, #trend, #magic"
+    hashtags: "#pestoeggs, #chriskogiascooking, #simplerecipe, #frontlever"
+  - username: "djzorz"
+    fullname: >-
+      Giorgos Georgiadis
+    bio: >-
+      
+    location: "Greece"
+    followers: 12700
+    engagement: 1585
+    commentsToLikes: 0.007758
+    id: cka0k6ft1l55x0i784el175qp
+    verified: false
+    hashtags: "#fyp, #chelseathedog, #tiktokgreece, #waterfall"
+  - username: "tzintzeropswmo_mwro"
+    fullname: >-
+      gingerbread_bae
+    bio: >-
+      the most famous the most successful
+    location: "Greece"
+    followers: 126700
+    engagement: 1537
+    commentsToLikes: 0.015122
+    id: ckc3fkgw81pk00j23q01n7oxk
+    verified: false
+    hashtags: "#findyourfitness, #createdbyfitness, #duet, #fitnessduetchallenge"
   - username: "mahmuttulhay"
     fullname: >-
       mahmuttulhay
@@ -98,33 +74,57 @@ profiles:
       🇧🇪mahmuttulhay🇧🇪 ☠️O BİR NAMİDİYER☠️ ✌️SOKAK SANATİ ✌️ 🌟ILLEGAL SAİR.🌟
     location: "Greece"
     followers: 12300
-    engagement: 763
-    commentsToLikes: 0.068457
+    engagement: 881
+    commentsToLikes: 0.040419
     id: ck83zoeee1lfc0j787rc35osw
     verified: false
-    hashtags: "#mafia, #sifirbir, #muptobaba, #kesfetbunu"
+    hashtags: "#bruxelles, #cznburak, #adanali, #siir"
+  - username: "rea_komninoy"
+    fullname: >-
+      Rea_komninoy
+    bio: >-
+      🙏🏾𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒕𝒓𝒂𝒊𝒏𝒆𝒓🏋🏿‍♀️Boxing champion Instagram:rea_komninoy
+    location: "Greece"
+    followers: 15600
+    engagement: 657
+    commentsToLikes: 0.052097
+    id: ckc8igm5vc1g60j23mfzwqr2x
+    verified: false
+    hashtags: "#greece, #tiktok, #gym, #hahaha"
+  - username: "evabelious"
+    fullname: >-
+      Diana 💫
+    bio: >-
+      I’m a mouse, duh🐭 ✨chase dreams, not people✨ 🩰🎹⛸✈️
+    location: "Greece"
+    followers: 7402
+    engagement: 1112
+    commentsToLikes: 0.018557
+    id: ckbksu0aenqrk0j23l8q6g369
+    verified: false
+    hashtags: "#spn, #fyp, #amongus, #study"
   - username: "melinajonina"
     fullname: >-
       Melina Jo
     bio: >-
       
     location: "Greece"
-    followers: 18900
-    engagement: 742
-    commentsToLikes: 0.032233
+    followers: 18600
+    engagement: 743
+    commentsToLikes: 0.028357
     id: ckbf8f1beyvuf0j23gs30si2h
     verified: false
-    hashtags: "#relatable, #foryoupage, #tiktok, #couplegoals"
-  - username: "slidismode"
+    hashtags: "#foryou, #relatable, #tiktok, #foryoupage"
+  - username: "marios_ml"
     fullname: >-
-      Eugenios
+      Marios Mimis
     bio: >-
-      👽Creative Strength 🥇6x Champ 🎖Greece Got Talent Finalist
+      Love Dance 😝 & Make Noise 😉
     location: "Greece"
-    followers: 47300
-    engagement: 988
-    commentsToLikes: 0.014440
-    id: ck8w1qo792u630j780hawhv26
+    followers: 10400
+    engagement: 979
+    commentsToLikes: 0.023681
+    id: ckbqfru481f5y0j23davwumxy
     verified: false
-    hashtags: "#frontlever, #slidismode, #tiktokgreece, #fypgreece"
+    hashtags: "#foryou, #greek, #greece, #greekmen"
 ---

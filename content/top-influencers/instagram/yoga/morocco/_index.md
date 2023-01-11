@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Morocco In 2022
+title: Top 10 Yoga Instagram Influencers In Morocco in 2023
 description: >-
-  Find top yoga Instagram influencers in Morocco in 2022. Most popular hashtags: #yoga #morocco #marrakech #love.
+  Find top yoga Instagram influencers in Morocco in 2023. Most popular hashtags: #yoga #morocco #marrakech #love.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram accounts on inBeat.

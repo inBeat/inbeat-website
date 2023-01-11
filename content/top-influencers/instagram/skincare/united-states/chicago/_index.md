@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Chicago In 2022
+title: Top 10 Skincare Instagram Influencers In Chicago In 2023
 description: >-
-  Find top skincare Instagram influencers in Chicago in 2022. Most popular hashtags: #skincare #skincaretips #365skincare #quarantine.
+  Find top skincare Instagram influencers in Chicago in 2023. Most popular hashtags: #skincare #selfcare #beauty #chicago.
 platform: Instagram
-hits: 77
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 77 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 72
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 72 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "skinclasshero"
+  - username: "mrs.gharbi1"
     fullname: >-
-      𝑨𝒔𝒉𝒍𝒆𝒚 𝑾𝒉𝒊𝒕𝒆
+      Perla A Gharbi
     bio: >-
-      𝙴𝚜𝚝𝚑𝚎𝚝𝚒𝚌𝚒𝚊𝚗 |📍Chicago 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 | Saving Face by Skin Class Hero 𝚂𝚝𝚞𝚍𝚒𝚘 | 917 W 18th St. Chicago, IL 60608 𝙰𝚜 𝚂𝚎𝚎𝚗 𝙸𝚗 | Teen Vogue + IntoTheGloss & more
+      𝘈𝘴𝘴𝘢𝘭𝘢𝘮𝘶 𝘢𝘭𝘢𝘪𝘬𝘶𝘮 📿 Age is just a Number Beauty will always shine from within. agelessbeautymx@gmail.com #skincare #makeup #wellness
     location: "United States"
-    followers: 17709
-    engagement: 775
-    commentsToLikes: 0.059406
-    id: ck13bmjnfw58p0i194vqq67d5
+    followers: 10160
+    engagement: 440
+    commentsToLikes: 0.142990
+    id: ck5cheybzqn5b0i11zum7y2hd
     verified: false
-    hashtags: "#discoverunder10k, #melaninexpert, #365skincare, #chicagoesthetician"
+    hashtags: "#mrsgharbi1, #naturalbeauty, #sentiveskincare, #organicbeauty"
+  - username: "makeupby.karishma"
+    fullname: >-
+      Karishma | MUA+ Hair | Chicago
+    bio: >-
+      💋 | Now booking 2022-2023 Brides 📧 | KarishmaMUA@gmail.com 👰‍♀️ | Bridal Bookings Only Make your special day one to remember 💫 #MakeupbyKarishma
+    location: "United States"
+    followers: 6300
+    engagement: 489
+    commentsToLikes: 0.130017
+    id: ck6tksisz5bmg0j71rdk2mfse
+    verified: false
+    hashtags: "#makeupbykarishma, #beautyblogger, #chicagomakeupartist, #eyeliner"
+  - username: "glammedbydena"
+    fullname: >-
+      Dena
+    bio: >-
+      
+    location: "United States"
+    followers: 201
+    engagement: 57039
+    commentsToLikes: 0.068524
+    id: ck0u0vk6nuyfn0i192wosw1iq
+    verified: false
+    hashtags: "#hoolabronzer, #glammedbydena, #giveaway, #eyebrows"
   - username: "intheglamroom"
     fullname: >-
-      Ashlee | Beauty Blogger
+      Ashlee | Skincare Tips
     bio: >-
-      Chicago Based Skincare Product Developer | Lover & Reviewer of All Things Beauty 📨: intheglamroom@gmail.com
+      Chicago Skincare Product Developer | Licensed Skincare Consultant | Skincare Tips & Beauty Hacks UGC 📨: intheglamroom@gmail.com Shop my faves! ⬇️
     location: "United States"
-    followers: 11014
-    engagement: 324
-    commentsToLikes: 0.205653
+    followers: 13063
+    engagement: 85
+    commentsToLikes: 0.194247
     id: ckaorscbdoj6i0i78bgrp0z1s
     verified: false
-    hashtags: "#365skincare, #glowyskin, #bblog, #skincaresolutions"
-  - username: "skincarebroad_"
+    hashtags: "#botox, #botoxtreatment, #skincaretipsandtricks, #acneskincare"
+  - username: "skinbeautyaddict"
     fullname: >-
-      Collette
+      Mari 🌸
     bio: >-
-      💗 Skincare/beauty 📍 Chicago 📩 skincarebroad@gmail.com
+      📍Chicago Beauty & Skincare is my weakness Cute & Colorful is where its at! 📧 skinbeautyaddict@gmail.com 📸 All pics are my own
     location: "United States"
-    followers: 4094
-    engagement: 1213
-    commentsToLikes: 0.403946
-    id: ck0vwz8pwwbtf0i19wbiyfpem
+    followers: 47765
+    engagement: 191
+    commentsToLikes: 0.170864
+    id: ck9wdnxixggaw0j78fwrjq2kk
     verified: false
-    hashtags: "#instaskincarecommunity, #skincareobsessed, #skincareobsession, #soldejaneiro"
-  - username: "abbiekaym"
+    hashtags: "#shelfiemoment, #skincare, #minis, #octolyfamily"
+  - username: "thestephanyjean"
     fullname: >-
-      Abbie Kay // Chicago Blogger
+      Stephany • Skin + Lifestyle
     bio: >-
-      Attainable Fashion // Relatable Lifestyle // Skincare Junkie Nebraska Native >> Chicago Living Check out the most recent blog post 👇🏼
+      🇭🇹 Inspiring women to create a life worth loving •• lifestyle, skincare & wellness •• wandering through chicago •• info@stephanyjean.com
     location: "United States"
-    followers: 2580
-    engagement: 841
-    commentsToLikes: 0.255189
-    id: ckaowxhcvaw8i0i78h50vg14m
+    followers: 5390
+    engagement: 649
+    commentsToLikes: 0.421548
+    id: ckaoxj1zfdhi70i78nmobo0ve
     verified: false
-    hashtags: "#flannel, #notcomplaining, #jetset, #happyhalloween"
-  - username: "officialgabija"
+    hashtags: "#nanoinfluencer, #blacklifestyleblogger, #browngirlbloggers, #blackgirlswhoblog"
+  - username: "jeniraitz"
     fullname: >-
-      Gabija Guzauskaite
+      Jeni Raitz
     bio: >-
-      Lithuanian girl in LA ✨ ✈️ NYC | CHI #beautymodel #fashionmodel #actress
+      sharing all about fashion, beauty & lifestyle bilingual • based in chicago contact.jeniraitz@gmail.com
     location: "United States"
-    followers: 8449
-    engagement: 439
-    commentsToLikes: 0.103466
-    id: ck14hpzjlbjts0i19bjcmwpet
+    followers: 73541
+    engagement: 188
+    commentsToLikes: 0.031286
+    id: ck5cdiebmj83w0i11yzg8s6e3
     verified: false
-    hashtags: "#newyork, #instagood, #midwest, #letsshoot"
-  - username: "demiarango_"
+    hashtags: "#revolvesummer, #ad, #revolve, #colorwow"
+  - username: "keepingitkymber"
     fullname: >-
-      Demi Arango
+      Kymber McClay
     bio: >-
-      Entrepreneur | Traveler | Mentor 𝑯𝒆𝒍𝒑𝒊𝒏𝒈 𝒐𝒕𝒉𝒆𝒓𝒔 𝒃𝒖𝒊𝒍𝒅 𝒕𝒉𝒆𝒊𝒓 𝒅𝒓𝒆𝒂𝒎 𝒍𝒊𝒇𝒆 ♡ ⇣ Let me upgrade you
+      🇨🇦🇱🇷 Twin, Fashion Designer, Founder @officialnaven Founder @kikfluence Founder @thatkoalife Singer/Songwriter/DJ collab NBD X NAVEN @revolve
     location: "United States"
-    followers: 17557
-    engagement: 186
-    commentsToLikes: 0.209524
-    id: ckap7p8x3kytm0i7899vfi3th
+    followers: 40575
+    engagement: 272
+    commentsToLikes: 0.056080
+    id: ck5hi1pnhb70z0i11fbfgv8b9
     verified: false
-    hashtags: "#reel, #blogger, #healthyliving, #bossbabe"
-  - username: "moneymaha"
+    hashtags: "#beachlife, #caligirl, #naven, #hotgirlsummer"
+  - username: "glymedplus"
     fullname: >-
-      💸💰 MONEY MAHA 💰💸 #MiddayGF
+      GlyMed Plus Skin Care
     bio: >-
-      POWER 92’S “MIDDAY GIRLFRIEND” 💚 MON-SAT 10-3PM 📻🎧 🇪🇬 100% EGYPTIAN 🇪🇬 ✖️HOST OF #LITANDLIVE ✖️INFLUENCER ✖️MEDIA PERSONALITY ✖️HERBALIFE
+      Pure, pharmaceutical-grade professional skin care. Patented technology & natural ingredients. 🌿⚗ #GlyMedPlus #DermaSound #PurelyProfessional
     location: "United States"
-    followers: 36044
-    engagement: 82
-    commentsToLikes: 0.091159
-    id: ck5zpm003swc70i14x0hg9hvk
+    followers: 72793
+    engagement: 72
+    commentsToLikes: 0.024477
+    id: ck5cemcs8l9y40i119uv2asp0
     verified: false
-    hashtags: "#litandlive, #takemebacktuesday, #tbt, #themiddayteeup"
-  - username: "rebelfaces_"
+    hashtags: "#aesthetician, #glymedskincare, #glymed, #glymedplus"
+  - username: "jymben"
     fullname: >-
-      Traveling Celebrity MUA 🛩
+      Jym Benzing
     bio: >-
-      ▪️Ta’Juan ♠️ Rebel ▫️Beauty Influencer ▫️LA/NYC/ATL/OH 📍 📋 Email- RebelFaces1@gmail.com
+      Producer/ Casting Director for Jym Benzing Casting. (OSHA Certified) For Casting/ Production work see website in link:
     location: "United States"
-    followers: 71486
-    engagement: 135
-    commentsToLikes: 0.118889
-    id: ck6tisie21c7v0j71p395lgy5
+    followers: 17223
+    engagement: 383
+    commentsToLikes: 0.029265
+    id: ck6ug45or0tds0j718r758433
     verified: false
-    hashtags: "#celebrity, #makeupaddict, #celebritymakeupartist, #kyliecosmetics"
-  - username: "msmarjorieann"
-    fullname: >-
-      Marjorie l Style & Positivity
-    bio: >-
-      Fashion ✨ Style ✨ Positive Vibes 💫 🍋 Zest for life📍Chicago Always in need of a mani and more sleep Collab 💌 mssmarjorieann@gmail.com
-    location: "United States"
-    followers: 14571
-    engagement: 746
-    commentsToLikes: 0.215007
-    id: ck8tcdkksz4730j78v5sqvrvj
-    verified: false
-    hashtags: "#ltkstyletip, #boutique, #friday, #fallfashion"
-  - username: "laurenrebeccaperez"
-    fullname: >-
-      Lauren Rebecca Perez Ⓥ
-    bio: >-
-      Plant Based Babe - #Vegan #Activist #CrueltyFree 🐰 Twitter: @LaurenLuvsVeg TikTok: @LaurenRebeccaPerez CHICAGO ✈️ ORLANDO
-    location: "United States"
-    followers: 18779
-    engagement: 387
-    commentsToLikes: 0.111665
-    id: ck8tdvovl4voc0j78xjdfjfvt
-    verified: false
-    hashtags: "#vegan, #gifted, #quarantine, #crueltyfree"
+    hashtags: "#casting, #models, #beauty, #modelcasting"
 ---

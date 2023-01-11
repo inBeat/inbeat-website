@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Malaysia In 2022
+title: Top 10 Bloggers Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top bloggers Instagram influencers in Malaysia in 2022. Most popular hashtags: #instagram #lahore #bookshelfie.
+  Find top bloggers Instagram influencers in Malaysia in 2023. Most popular hashtags: #indiancooking #kolkatadiaries #ootd #loewe.
 platform: Instagram
-hits: 33
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 33 Instagram influencers like this in Malaysia for you to connect with.
+hits: 51
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 51 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "rafzantomomi"
+  - username: "jennagong"
     fullname: >-
-      MOMI
+      𝒥𝑒𝓃𝓃𝒶 𝒢𝑜𝓃𝑔
     bio: >-
-      Rafzan Tomomi Malaysia's Lifestyle Blogger / Content Creator Ads or review, please DM 🌼 new hobby : 📸 #momisawitbefore Blog : www.rafzantomomi.com
+      Blogger｜Model | Talent Fashion • Beauty • Lifestyle For jobs & collabs 💌: jennainstyle@gmail.com
     location: "Malaysia"
-    followers: 22175
-    engagement: 281
-    commentsToLikes: 0.091210
-    id: ck5q81fvm412g0i1113002yxr
+    followers: 79571
+    engagement: 215
+    commentsToLikes: 0.011337
+    id: ck15qb5ij1ztv0i191h6hifjl
     verified: false
-    hashtags: "#bringbackmemories, #makansamasama, #momisawitbefore, #ayamasroasters"
+    hashtags: "#shopee44megasale, #sulwhasoomyxshopee, #shopeeambassadormy, #fashionblogger"
   - username: "areej.fatima"
     fullname: >-
       Areej Fatima Saeed
     bio: >-
       Fashion Model,Travel & Lifestyle Blogger 📍Pakistan 👻 areejfatimak
     location: "Malaysia"
-    followers: 176969
-    engagement: 157
-    commentsToLikes: 0.139965
+    followers: 187186
+    engagement: 121
+    commentsToLikes: 0.025445
     id: ck15tuzpyk1dd0i19po7clqbt
     verified: false
-    hashtags: "#alkaramwoman, #winterwandering20, #areejfatimasaeed, #influencer"
-  - username: "ohfishiee"
+    hashtags: "#lahore, #teamgalaxy, #areejfatimaxsamsung, #samsung"
+  - username: "dearruigallery"
     fullname: >-
-      °· F I S H ·°
+      小貓 Rui /
     bio: >-
-      😄Travel, Beauty, Food Blogger 💌Ads/sponsorship: ohfishie@gmail.com ❤WWW.OHFISHIEE.COM BIG GIVEAWAY👇🏻
+      Taipei x Tokyo🗼Photographer/Blogger My photography: #dearruigallery Mail 📪yuigallery0717@gmail.com Facebook ➡️小貓。dear Rui Gallery 💛上新片！凪季寶寶睡什麼⬇️
     location: "Malaysia"
-    followers: 20445
-    engagement: 503
-    commentsToLikes: 0.015641
-    id: ck0w5haxf3n6e0i19rr26hnc7
+    followers: 108251
+    engagement: 187
+    commentsToLikes: 0.005740
+    id: ck55oh5ex8cdl0i116bl3ru37
     verified: false
-    hashtags: "#ohfishieetravels, #ohfishieeootd, #ohfishieebeauty, #discoverhongkong"
-  - username: "jennagong"
+    hashtags: "#gracegiftxrui, #anirekxrui, #gracegiftxkerina, #loewe"
+  - username: "smokehookah_bln"
     fullname: >-
-      𝓙𝓮𝓷𝓷𝓪 𝓖
+      
     bio: >-
-      Blogger｜Model | Talent Fashion • Beauty • Lifestyle For jobs & collabs 💌: jennainstyle@gmail.com
+      • German Blogger🇩🇪 • Montag ‘s immer Review‘s⏰ • Alles rund um Shisha💨 • Dm für Kooperation 📩 • Nur eigene Bilder 📸
     location: "Malaysia"
-    followers: 58441
-    engagement: 224
-    commentsToLikes: 0.011643
-    id: ck15qb5ij1ztv0i191h6hifjl
+    followers: 3361
+    engagement: 742
+    commentsToLikes: 0.268526
+    id: ckap6urvehfoe0i78mpojo99y
     verified: false
-    hashtags: "#ad, #bluedress, #goldenhour, #summerlooks"
-  - username: "kamiliaassam__"
+    hashtags: "#nargilem, #phunnel, #shishalove, #shishagram"
+  - username: "maryshappybelly"
     fullname: >-
-      Kamilia Assem
+      Mary Tang 🍁 Toronto
     bio: >-
-      • Fashion Blogger • influencer ￼ • For businesses inquires DM 📩 • Alexandria 📍 • 6’6 🌍
+      @gustotv @sbsfood TV host/personality Blogger of Chinese/Asian recipes, tasty eats in T.O 🐥, FB, YouTube-maryshappybelly Order #MHBDumplings ⬇️
     location: "Malaysia"
-    followers: 249564
-    engagement: 128
-    commentsToLikes: 0.019817
-    id: ck9we2geviafe0j785efe8ua7
+    followers: 10346
+    engagement: 196
+    commentsToLikes: 0.265841
+    id: ck6tm3g8274330j71gulhup6t
     verified: false
-    hashtags: "#makeuplooks, #makeuptutorial, #fashion, #fashionstyle"
-  - username: "bhukkad_spotted"
-    fullname: >-
-      Food Influencer|Aniket Pagare
-    bio: >-
-      Food Blogger | Influencer Nashik ♥️ DM for Promotions | Invites | Colabs Follow #bhukkad_spotted Always give genuine review
-    location: "Malaysia"
-    followers: 16265
-    engagement: 936
-    commentsToLikes: 0.057596
-    id: ckap9to6ytmc70i78tsry90ou
-    verified: false
-    hashtags: "#nashikfoodie, #nashikfoodblogger, #bhukkad, #gharkakhana"
-  - username: "blackcitygirl__"
-    fullname: >-
-      Diary-Of-A-Black-City-Girl.
-    bio: >-
-      •Writer✍️ bookworm📚blogger🍁 #bcgbooks •Content Creator •Book Reviewer✍️ •DM for review, collaboration and promotions •New Blog Posts up now 👇🏾
-    location: "Malaysia"
-    followers: 6682
-    engagement: 862
-    commentsToLikes: 0.045866
-    id: ckaoypt15ijiq0i78qdpc1j3d
-    verified: false
-    hashtags: "#bookaesthetic, #booksbooksbooks, #bu, #lovebooks"
+    hashtags: "#goodfoodtoronto, #pictureoftheday, #foodporn, #tobermory"
   - username: "mayablogs"
     fullname: >-
       Maya Khan | Influencer
     bio: >-
-      The account where you can find best food in Islamabad Food Review Blogger🧿 Dm for | Invites | Collaborations #islamabadfoodblog 🇵🇰 🇦🇫🇹🇷
+      The account where you can find best food in Islamabad Food Review Blogger🧿 Dm for | Invites | Collaborations | PR | #islamabadfoodblog 🇵🇰 🇦🇫 🇹🇷
     location: "Malaysia"
-    followers: 14355
-    engagement: 445
-    commentsToLikes: 0.413076
+    followers: 17512
+    engagement: 352
+    commentsToLikes: 0.187088
     id: ck9wgy3wevgkm0j78bc2z5s8h
     verified: false
-    hashtags: "#amazingphotos, #happyeating, #lovefoodhatewaste, #burger"
-  - username: "nepal.food"
+    hashtags: "#happyfood, #islamabadblogger, #isbfoodnetwork, #islamabadians"
+  - username: "faim_bong"
     fullname: >-
-      NEPAL FOOD
+      Kolkata Food Blogger | Anindya
     bio: >-
-      I am Siddhartha Ghimire @rocketeersidharth Nepal's 1st food Blogger 🙏 I COOK & REVIEW RESTAURANT/HOTEL DM for promotion 📩
+      Hungry since birth 😜🍔🍕🍝🍲🍗 Aspiring Food Blogger & Youtuber. Zomato lvl - 10. DM for review/collab/invites. 📍Kolkata, India #kolkatafoodblogger
     location: "Malaysia"
-    followers: 181308
-    engagement: 250
-    commentsToLikes: 0.029418
-    id: ck5bu3hm8h3qw0i11syjvyj8u
+    followers: 7601
+    engagement: 913
+    commentsToLikes: 0.048597
+    id: ck5cfhmzlmz1h0i118fkbekvf
     verified: false
-    hashtags: "#instagram, #foodie, #foodnetwork, #f52grams"
+    hashtags: "#localdelicacy, #foodtalkindia, #kolkatafoodie, #penne"
+  - username: "missfoodiekolkata"
+    fullname: >-
+      || AHANA ||
+    bio: >-
+      Food& fashion Blogger DM or Email for Collab/Review/Invite/Promotion ZOMATO LEVEL-11+ GOOGLE LEVEL-6+ MAIN ACCOUNTS- @i.am.ahana
+    location: "Malaysia"
+    followers: 9528
+    engagement: 515
+    commentsToLikes: 0.036591
+    id: ckaovi28o4nbh0i783duk993s
+    verified: false
+    hashtags: "#buzzfeedfoods, #buzzfood, #indianfood, #foodmaniacindian"
   - username: "wiwinnie"
     fullname: >-
       Winnie
     bio: >-
       Ex cabin crew ✈︎ Blogger ✎ ➪Facebook: Winnie's little planet. ➪Email: wiwinnie11@gmail.com
     location: "Malaysia"
-    followers: 101347
-    engagement: 122
-    commentsToLikes: 0.009925
+    followers: 105277
+    engagement: 112
+    commentsToLikes: 0.010043
     id: ck0uaj4xtcc9m0i19ltqx27ib
     verified: false
-    hashtags: "#celine, #ootd, #taipeicoffee, #loewe"
+    hashtags: "#taipei, #outfit, #coordinate, #loewe"
+  - username: "hello_tothe_necessities_blog"
+    fullname: >-
+      kanwal usman
+    bio: >-
+      Lifestyle,fashion,food influencer/blogger DM for Tasting,review ,PR & MUCH more .
+    location: "Malaysia"
+    followers: 12768
+    engagement: 412
+    commentsToLikes: 0.140393
+    id: ck9wgp9dcudmu0j78gscy2bhd
+    verified: false
+    hashtags: "#mashallah, #karachigram, #lifestylebloggers, #bloggers"
 ---

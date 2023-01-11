@@ -1,12 +1,60 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Chicago In 2022
+title: Top 10 Architecture TikTok Influencers In Chicago In 2023
 description: >-
-  Find top architecture TikTok influencers in Chicago in 2022. Most popular hashtags: #architecture #fyp #foryoupage #foryou.
+  Find top architecture TikTok influencers in Chicago in 2023. Most popular hashtags: #architecture #chicago #design #architect.
 platform: TikTok
-hits: 4
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 4 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 5
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
+  - username: "agentmitchy"
+    fullname: >-
+      Mitch
+    bio: >-
+      Model Agent Select Model Management 🇺🇸
+    location: "United States"
+    followers: 7641
+    engagement: 1021
+    commentsToLikes: 0.031302
+    id: cka0w9kgj1y3m0i78l0yq295n
+    verified: false
+    hashtags: "#fyp, #foryou, #city, #sunrise"
+  - username: "mike_sansone"
+    fullname: >-
+      Mike Sansone
+    bio: >-
+      Mike Sansone Chicago Photographer #CEOofHeadshots Everyone is photogenic. 📸
+    location: "United States"
+    followers: 36400
+    engagement: 814
+    commentsToLikes: 0.032572
+    id: ckafts2606nmd0i789fk2go5d
+    verified: false
+    hashtags: "#ceoofheadshots, #mikesansonephotography, #chicagomodel, #lawyer"
+  - username: "echovoxx"
+    fullname: >-
+      The Scene Queen
+    bio: >-
+      Negative vibe merchant Backup: @echo.voxx PO BOX 6572 Evanston, IL 60204
+    location: "United States"
+    followers: 219400
+    engagement: 2349
+    commentsToLikes: 0.032190
+    id: ck9gmuqgiu38u0j78nnewu394
+    verified: false
+    hashtags: "#birbreport, #shadowandbone, #bird, #chicago"
+  - username: "citykillerz.official"
+    fullname: >-
+      Citykillerz
+    bio: >-
+      Follow us for awesome daily content 📸🔥
+    location: "United States"
+    followers: 50200
+    engagement: 867
+    commentsToLikes: 0.022858
+    id: ckc32m92qsrkc0j23spvkbuao
+    verified: false
+    hashtags: "#citykillerz, #chicago, #photography, #timelapse"
   - username: "gordontarpley"
     fullname: >-
       Gordon Tarpley
@@ -14,95 +62,59 @@ profiles:
       keeping it interesting
     location: "United States"
     followers: 1200000
-    engagement: 846
-    commentsToLikes: 0.010120
+    engagement: 852
+    commentsToLikes: 0.010136
     id: ck8qdx3hhq5ah0j78ujr6hl9f
     verified: false
-    hashtags: "#gordontarpley, #maker, #california, #alien"
-  - username: "mike_sansone"
+    hashtags: "#makeup, #usethissound, #alien, #aliens"
+  - username: "debbie.perez"
     fullname: >-
-      Mike Sansone
+      Debbie Perez
     bio: >-
-      Mike Sansone Chicago Photographer #CEOofHeadshots Everyone is photogenic. 📸
+      cubana art/architecture historian harvard // miami Sith Lord
     location: "United States"
-    followers: 31500
-    engagement: 808
-    commentsToLikes: 0.025594
-    id: ckafts2606nmd0i789fk2go5d
+    followers: 30700
+    engagement: 1828
+    commentsToLikes: 0.013352
+    id: ckbqq83l8b5n50j23xytitdt0
     verified: false
-    hashtags: "#mikesansonephotography, #ceoofheadshots, #lawyer, #laughpause"
-  - username: "citykillerz.official"
-    fullname: >-
-      Citykillerz
-    bio: >-
-      ↠ 300K on IG ⬆️ ↠ The Best Travel & Urban Content ↠ Email: Team@citykillerz.com
-    location: "United States"
-    followers: 51300
-    engagement: 899
-    commentsToLikes: 0.023167
-    id: ckc32m92qsrkc0j23spvkbuao
-    verified: false
-    hashtags: "#japan, #china, #timelapse, #fpv"
-  - username: "agentmitchy"
-    fullname: >-
-      Mitch
-    bio: >-
-      Model Agent | Men’s Division Select Model Management 🇺🇸
-    location: "United States"
-    followers: 7525
-    engagement: 1032
-    commentsToLikes: 0.031434
-    id: cka0w9kgj1y3m0i78l0yq295n
-    verified: false
-    hashtags: "#chicagoriver, #imonaboat, #chicago, #shesdancinglikeastrippper"
+    hashtags: "#leonardodavinci, #davinci, #renaissanceart, #arthistory"
   - username: "nicksaremi"
     fullname: >-
       Nick Saremi
     bio: >-
       Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
     location: "United States"
-    followers: 81700
-    engagement: 795
-    commentsToLikes: 0.028410
+    followers: 107800
+    engagement: 857
+    commentsToLikes: 0.049946
     id: ck9k9al5tcfbq0j784mvcqybp
     verified: false
-    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
-  - username: "emilyrayna"
+    hashtags: "#ca, #realtorsoftiktok, #architecturetiktok, #la"
+  - username: "adventurousarchitect"
     fullname: >-
-      Emily Shaw
+      AdventurousArchitect
     bio: >-
-      Interior Design/Architecture emilyrayna@select.co Check out my YouTube and IG!
+      Dream | travel Daily inspo Travel, Quotes and Architecture Thanks for 49k 😍
     location: "United States"
-    followers: 3400000
-    engagement: 1177
-    commentsToLikes: 0.005788
-    id: ckbkvhpq2qyqb0j23um0ytaq8
-    verified: true
-    hashtags: "#artober, #ios14, #dayinmylife, #myart"
-  - username: "studiosaira.ph"
+    followers: 49700
+    engagement: 893
+    commentsToLikes: 0.053150
+    id: cka6dzxfk9uaj0i78q1fgfyq8
+    verified: false
+    hashtags: "#stitch, #greenscreen, #adventurousarchitect, #greenscreenvideo"
+  - username: "sairamargarita"
     fullname: >-
       Architect Saira Margarita
     bio: >-
       Licensed Architect 🇵🇭 RISD’21 architecture@sairamargarita.com 👇FREE EBOOK!👇
     location: "United States"
-    followers: 144500
-    engagement: 727
-    commentsToLikes: 0.022798
+    followers: 161200
+    engagement: 766
+    commentsToLikes: 0.017895
     id: ckck2z8pummpj0j233qrlp8ov
     verified: false
-    hashtags: "#galingngpinoy, #architecture, #learnontiktok, #architecturestudent"
-  - username: "adventurousarchitect"
-    fullname: >-
-      AdventurousArchitect
-    bio: >-
-      Dream | travel vlog Daily inspo Travel, Quotes and Architecture
-    location: "United States"
-    followers: 49200
-    engagement: 731
-    commentsToLikes: 0.023620
-    id: cka6dzxfk9uaj0i78q1fgfyq8
-    verified: false
-    hashtags: "#adventurousarchitect, #foryou, #fyp, #architecture"
+    hashtags: "#architecture, #tiktokskwela, #furniture, #architect"
   - username: "tlmazer"
     fullname: >-
       Taylor Mazer
@@ -110,21 +122,9 @@ profiles:
       Working Artist Adjunct Professor at Kendall College of Art taylordraws.com
     location: "United States"
     followers: 15900
-    engagement: 1859
-    commentsToLikes: 0.037283
+    engagement: 1806
+    commentsToLikes: 0.051973
     id: ck95xi2y060h80j78l90sodnc
     verified: false
-    hashtags: "#illustration, #penartwork, #carart, #artwork"
-  - username: "10millioneachstate"
-    fullname: >-
-      $10 million
-    bio: >-
-      what house can you get for $10 million in each city?
-    location: "United States"
-    followers: 2714
-    engagement: 1371
-    commentsToLikes: 0.045766
-    id: ckbfalcf226yo0j23ybu891hh
-    verified: false
-    hashtags: "#foryoupage, #zillow, #architecture, #interiordesign"
+    hashtags: "#micron, #perspective, #microart, #architecture"
 ---

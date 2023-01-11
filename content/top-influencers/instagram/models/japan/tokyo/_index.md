@@ -1,60 +1,60 @@
 ---
-title: Top 10 Models Instagram Influencers In Tokyo In 2022
+title: Top 10 Models Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top models Instagram influencers in Tokyo in 2022. Most popular hashtags: #fashion #pr #ootd.
+  Find top models Instagram influencers in Tokyo in 2023. Most popular hashtags: #fashion #ootd #pr.
 platform: Instagram
-hits: 187
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 187 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 153
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 153 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
+  - username: "morgankriz"
+    fullname: >-
+      Morgyy
+    bio: >-
+      Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Osaka, Japan Axelle Models - Tokyo, Japan
+    location: "Japan"
+    followers: 45695
+    engagement: 346
+    commentsToLikes: 0.012883
+    id: ck5cal4wfdm7k0i11krjrtt5w
+    verified: false
+    hashtags: ""
   - username: "erina_saiki"
     fullname: >-
       Erina Saiki_彩希エリナ
     bio: >-
       Erina Saiki Official Instagram. musician/artist/model Tokyo/Japan _ birth Sep.9 Fashion*Classic*Art*Music*World* Twitter→eri_n0qa9xx
     location: "Japan"
-    followers: 19949
-    engagement: 112
-    commentsToLikes: 0.062251
+    followers: 19738
+    engagement: 104
+    commentsToLikes: 0.044636
     id: ck8t6g19idhne0j78manbvvw8
     verified: false
-    hashtags: "#enjoylife, #stayhome, #stayathome, #enjoyhome"
+    hashtags: "#hairmake, #hairmakeup, #radio, #komaefm"
   - username: "aimatsumoto_45"
     fullname: >-
       松本愛
     bio: >-
-      Ai Matsumoto / 1994.04.05 model tokyo 🇯🇵 10月2日〜 YouTube始めました📍
+      Ai Matsumoto / 1994.04.05 model tokyo 🇯🇵
     location: "Japan"
-    followers: 109129
-    engagement: 134
-    commentsToLikes: 0.020262
+    followers: 108233
+    engagement: 154
+    commentsToLikes: 0.033752
     id: ck0w53dla1osn0i19e2clx03a
     verified: true
-    hashtags: "#xperia, #chanelfinejewelry, #xperia1ii, #xperia1ll"
-  - username: "miki_rolleilife"
-    fullname: >-
-      M I K I *
-    bio: >-
-      Prestige Model Management Inc. model / photographer 写真集『Rollei Life』発売中#miki_rolleilife_photobook online store ↓ @prestige_model_tokyo @bookandsons
-    location: "Japan"
-    followers: 47387
-    engagement: 155
-    commentsToLikes: 0.020868
-    id: ck55pj9abaoh30i11e59hlg5l
-    verified: false
-    hashtags: "#rolleilife, #stayhome, #miki, #andersen"
+    hashtags: "#maisonmargiela, #fashion, #xperia, #pr"
   - username: "maimiokuwa"
     fullname: >-
       大桑マイミ
     bio: >-
       model.tokyo ＊DMについては所属事務所の管理となります。
     location: "Japan"
-    followers: 34090
-    engagement: 198
-    commentsToLikes: 0.010739
+    followers: 33936
+    engagement: 206
+    commentsToLikes: 0.008240
     id: ck6ts3ex42jfo0j71kd1mxyko
     verified: true
-    hashtags: "#scawaii, #miyashitapark, #dassaibeauty, #omusubobatonforplayer"
+    hashtags: "#froheweihnachten, #fujiyama, #addmilano, #addjapan"
   - username: "momochadayo"
     fullname: >-
       MOMOKO YOKOMACHI / 横町ももこ
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.014291
     id: ckf5viubeoroi0j23kb2l6qkz
     verified: false
-    hashtags: "#youtube, #japanesegirl, #model, #japan"
-  - username: "iwaigawa_jonio_iwai"
-    fullname: >-
-      岩井ジョニ男/ jonio Iwai
-    bio: >-
-      I am a Japanese comedian,like Chaplin,David Bowie. フォトブック「幻の哀愁おじさん」（文藝春秋刊）好評発売中！「岩井ジョニ男の週末旅スタ！」などお仕事の問い合わせは浅井企画イワイガワ担当・崎山まで☎︎03(3443)5751
-    location: "Japan"
-    followers: 93389
-    engagement: 629
-    commentsToLikes: 0.004144
-    id: ckf5mo648upnq0j23ytac521o
-    verified: false
-    hashtags: "#jonistagram, #ninetofiver, #cool, #cooljapan"
+    hashtags: "#japanesegirl, #lunch, #tokyo, #tipstar"
   - username: "haruka_takahashi0127"
     fullname: >-
       高橋晴香
     bio: >-
       model/PR Tokyo.Japan🇯🇵Haruka Takahashi/高橋晴香 アンバサダー @clena.official Trip🇹🇭🇰🇷🇭🇰🇬🇺🇺🇸🇬🇧 お仕事の依頼はDMにてお願い致します☆ アクセサリーブランド lumiere eclat プロデュース💎
     location: "Japan"
-    followers: 113177
-    engagement: 117
-    commentsToLikes: 0.061574
+    followers: 120558
+    engagement: 124
+    commentsToLikes: 0.074119
     id: ck0w7911ocdbw0i196up7cwdg
     verified: false
-    hashtags: "#outfit, #ootd, #ryuri, #clena"
-  - username: "kanna0123"
+    hashtags: "#japantrip, #skincare, #valmuer, #pr"
+  - username: "soi_portrait"
     fullname: >-
-      Kanna Oyama
+      soi
     bio: >-
-      Model / Sing Tokyo Japan My new release music「This is How」
+      🇯🇵photographer/Tokyo #メンズポートレート 👑Photo Vogue Best of✖️3👑TIFA2016 👑私的写真集選手権 '18準GP '19小林賞 👑Tokyo Models フォトテク賞 🌸東京カメラ部'19 🌸アイドンノー🌸男写凛 ♪
     location: "Japan"
-    followers: 63275
-    engagement: 560
-    commentsToLikes: 0.008844
-    id: ck15toyumj6eo0i19gjy5jx20
+    followers: 5549
+    engagement: 520
+    commentsToLikes: 0.014802
+    id: ck0w6xe99apq40i190a01ao0f
     verified: false
-    hashtags: "#kannas360, #maisonmargiela, #maisonmargielafragrances, #replica"
-  - username: "ayanen_11"
+    hashtags: "#lovers, #team, #photo, #good"
+  - username: "gemmatokyo"
     fullname: >-
-      彩音
+      ジェマ・ルイーズ  𝔾𝕖𝕞𝕞𝕒 𝕃𝕠𝕦𝕚𝕤𝕖 🏹
     bio: >-
-      ayane / Free lance model / fukuoka → tokyo
+      日本在住のイギリス人モデル📸グラビア👙 UK model in Tokyo💗🇯🇵🇬🇧
     location: "Japan"
-    followers: 35584
-    engagement: 532
-    commentsToLikes: 0.006742
-    id: ck0w4024nw4im0i19cwsccwjy
+    followers: 145640
+    engagement: 180
+    commentsToLikes: 0.029387
+    id: ck8t2lq52zwop0j78vy08i73j
     verified: false
-    hashtags: "#ricafrosh, #mer, #pr, #ayanen"
-  - username: "tsubasamasuwaka1013"
+    hashtags: "#halloween, #schoolgirl, #gravure, #cosplay"
+  - username: "blackyasuna"
     fullname: >-
-      益若つばさ/Tsubasa Masuwaka
+      yasuna
     bio: >-
-      Tokyo🇯🇵Model&produce☺︎ 💄/ @candydoll_official / @dolly_wink 👁/@bambi_angelcolor /👗/@eatme_japan Magazine📕/ @tokyodotmag /YouTube🎥↓
+      🇯🇵🇹🇭🇰🇷 poledancer.gogodancer.model. live in Tokyo Japan
     location: "Japan"
-    followers: 588241
-    engagement: 207
-    commentsToLikes: 0.004417
-    id: ck0tzf6u4q5gv0i19s38upv1n
-    verified: true
-    hashtags: "#eatme, #ootd, #fashion, #makeup"
+    followers: 12195
+    engagement: 264
+    commentsToLikes: 0.016956
+    id: ckapc3tbn2cr90i78wgrrvx8g
+    verified: false
+    hashtags: "#merryxmas, #inkgirl, #pv, #yello"
+  - username: "adubaby_519"
+    fullname: >-
+      大口あづ記 Azuki Oguchi
+    bio: >-
+      Tokyo / model /NMT inc./ 169cm
+    location: "Japan"
+    followers: 5555
+    engagement: 1026
+    commentsToLikes: 0.022518
+    id: ck6tkkwol4wpk0j71ea5wytvi
+    verified: false
+    hashtags: "#japanesemodel, #pr, #portrait, #jillstuart"
 ---

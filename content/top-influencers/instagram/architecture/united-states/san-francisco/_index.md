@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In San Francisco In 2022
+title: Top 10 Architecture Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top architecture Instagram influencers in San Francisco in 2022. Most popular hashtags: #architecture #sanfrancisco #travel #photooftheday.
+  Find top architecture Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #architecture #travel #california.
 platform: Instagram
-hits: 68
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 68 Instagram influencers like this in San Francisco, United States for you to collaborate.
+hits: 83
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 83 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
-  - username: "boisemidcenturyhomes"
+  - username: "dandridgesterne"
     fullname: >-
-      Mid-Century Homes • Boise, ID
+      Dandridge Sterne
     bio: >-
-      Mid-Century Homes by Anthology 🔶 Buy, Sell, Perfect 🏡 🔶 Featured by Atomic Ranch Magazine 🔶 Featured by The New York Times
+      A visual notebook of architecture & design inspiration, with an occasional snap of Knollwood, my family’s classic colonial work in progress.
     location: "United States"
-    followers: 18073
-    engagement: 343
-    commentsToLikes: 0.038922
-    id: ck9wcxtied53i0j78tb4fa60o
+    followers: 46410
+    engagement: 461
+    commentsToLikes: 0.013086
+    id: ck13bzukyxyi50i19nviekms1
     verified: false
-    hashtags: "#midcenturymodern, #midcenturydesign, #boisemidcenturyhome, #boiserealestate"
-  - username: "alvaro.castagnet"
+    hashtags: "#southernliving, #renovation, #manorhouse, #housegoals"
+  - username: "mtilsonthomas"
     fullname: >-
-      Alvaro Castagnet
+      Michael Tilson Thomas
     bio: >-
-      "A painting only exists when you capture the deepest facet of the subject"
+      Music Director @NWSymphony, Music Director Laureate @sfsymphony, Conductor Laureate @londonsymphonyorchestra
     location: "United States"
-    followers: 62884
-    engagement: 764
-    commentsToLikes: 0.025313
-    id: ck5zmkv58mqs20i14r7v4apaj
+    followers: 17932
+    engagement: 518
+    commentsToLikes: 0.020553
+    id: ck0w621a86jkj0i19dz0gg3js
     verified: false
-    hashtags: "#pittura, #aquarelle, #inspiration, #watercolourpaint"
+    hashtags: "#classicalmusic, #miamiartstrong, #conductor, #nwsymphony"
   - username: "emlee7"
     fullname: >-
       Emma Lee | Fashion designer
     bio: >-
-      Creativity takes courage|Travel • Fashion • Lifestyle Architecture & Me| Home = San Francisco #architectureemlee7 @_citytocity|📍NJ / NYC
+      Creativity takes courage|Travel • Fashion • Lifestyle Architecture & Me| Home = San Francisco #architectureemlee7 @_citytocity|📍NJ/NYC
     location: "United States"
-    followers: 28124
-    engagement: 191
-    commentsToLikes: 0.040434
+    followers: 27816
+    engagement: 103
+    commentsToLikes: 0.045041
     id: ck0txpr0hk27v0i19a4rpfpv4
     verified: false
-    hashtags: "#livethelittlethings, #livefolk, #flatlay, #exploremore"
-  - username: "j.rachmansf"
+    hashtags: "#theartofslowliving, #liveauthentic, #creativityfound, #momentslikethese"
+  - username: "sanfrancisco.city"
     fullname: >-
-      Jonathan Rachman
+      🌉Sᴀɴ Fʀᴀɴᴄɪsᴄᴏ Cɪᴛʏ 🌉
     bio: >-
-      JONATHAN RACHMAN DESIGN, interior designer | Publisher & Ed. in Chief for Di Sini Di Sana | Travel Addict - oh and wysiwyg I’m #honestaf
+      🔹𝗧𝗮𝗴 𝗨𝘀 @sanfrancisco.city 🔸𝗛𝗮𝘀𝗵𝘁𝗮𝗴 𝗨𝘀: #sanfranciscocity 🔹𝗚𝗼𝗮𝗹: #500k #500kfollowers 🔸𝗥𝗲𝗽𝗼𝘀𝘁 𝗮𝗻𝗱 𝗦𝗵𝗮𝗿𝗲: 🔁🔄 🔹𝗡𝗲𝘄 𝗣𝗼𝘀𝘁 𝗘𝘃𝗲𝗿𝘆 𝗗𝗮𝘆:📲📸 ❤️𝓢𝓕
     location: "United States"
-    followers: 60011
-    engagement: 442
-    commentsToLikes: 0.008666
-    id: ck55nlvi26hiq0i11x1lp2toj
+    followers: 168811
+    engagement: 217
+    commentsToLikes: 0.010507
+    id: ck0u1bd62wezl0i193tx9gq19
     verified: false
-    hashtags: "#blastfromthepast, #mom, #jrachman, #paris"
-  - username: "deandelray"
+    hashtags: "#bayarea, #photooftheday, #sanfrancisco, #california"
+  - username: "dom.riccobene"
     fullname: >-
-      Dean Delray
+      Dom Riccobene
     bio: >-
-      Comedian Actor Podcaster LET THERE BE TALK
+      🎥 Futurist Filmmaker / 🧱 Product Designer 🛰Merging Data, Art, and Fabrication 🌶 #Albuquerque, #NewMexico
     location: "United States"
-    followers: 47212
-    engagement: 145
-    commentsToLikes: 0.062709
-    id: ck5hjsqylh6t50i11lv05a8hb
+    followers: 228453
+    engagement: 492
+    commentsToLikes: 0.012861
+    id: ck0vv4vemnk230i19013ep3ed
+    verified: false
+    hashtags: "#instamachinist, #riccobene, #c4d, #pcgamer"
+  - username: "zunyan.yang"
+    fullname: >-
+      Zunyan Yang
+    bio: >-
+      
+    location: "United States"
+    followers: 12569
+    engagement: 1512
+    commentsToLikes: 0.016279
+    id: ckapb2o5yycjj0i7857g3f4l4
+    verified: false
+    hashtags: "#igers, #landscape, #postcardplaces, #folkscenery"
+  - username: "7shaunwhite"
+    fullname: >-
+      Shaun White
+    bio: >-
+      @sunriseon7 Consumer Correspondent 🎬 @serenawilliams #1 Fan 🎾 Innovation Addict 📡
+    location: "United States"
+    followers: 15139
+    engagement: 401
+    commentsToLikes: 0.035562
+    id: ck6tjigl02s6v0j71b1f9beyk
     verified: true
-    hashtags: "#candleslit, #mrbungle, #lettherebetalkpodcast, #handmade"
-  - username: "conexao.america"
+    hashtags: "#sanfrancisco, #automotivetech, #ces, #architecture"
+  - username: "citylab"
     fullname: >-
-      conexaoamerica
+      Bloomberg CityLab
     bio: >-
-      Dicas da América🇺🇸,🇧🇷fotos,lugares,compras, curiosidades,restaurantes,viagens,etc 👉Facebook @conexaoamericaoficial 👉Twitter @americaconexao
+      All things urban. Show us the view from your city with #citylab or #citylabontheground.
     location: "United States"
-    followers: 9394
-    engagement: 400
-    commentsToLikes: 0.012769
-    id: ck5q2yd9didcp0i11kxkjc1wh
-    verified: false
-    hashtags: "#iloveusa, #thisisnewyorkcity, #miami, #coronavirus"
-  - username: "marmolradziner"
+    followers: 75851
+    engagement: 86
+    commentsToLikes: 0.012724
+    id: ck6trrfwk0nmd0j7146gf5wi6
+    verified: true
+    hashtags: "#maps, #housing, #citylab2021, #climatechange"
+  - username: "insanelighting"
     fullname: >-
-      Marmol Radziner
+      Kirth A. Prawl
     bio: >-
-      Architecture, construction, landscape, and interiors Los Angeles | San Francisco | New York
+      📍Manhattan, New York 🎮 Gamer 🏙 Urban & Cityscape 👥 @way2ill_
     location: "United States"
-    followers: 41771
-    engagement: 344
-    commentsToLikes: 0.016782
-    id: ck0tzxsqwrwq70i19shh9oyx5
+    followers: 84877
+    engagement: 554
+    commentsToLikes: 0.062675
+    id: ck55lmhpl1x5p0i112pb5zd0v
     verified: false
-    hashtags: "#regram, #marmolradzinerinteriors, #californiadesign, #marmolradzinerlandscape"
-  - username: "jaguarcontainers"
+    hashtags: "#sublimestreet, #what, #picturesofnewyork, #alphacollective"
+  - username: "carlosramirezstudio"
     fullname: >-
-      Jaguar Containers
+      Carlos Ramirez
     bio: >-
-      . 🔥Top 10 Most Expensive Cigars🔥 . . CLICK👇 .
+      Artist in Santa Fe NM
     location: "United States"
-    followers: 53466
-    engagement: 326
-    commentsToLikes: 0.010263
-    id: ck6tz8edw87jx0j715h63gb21
+    followers: 34855
+    engagement: 293
+    commentsToLikes: 0.057294
+    id: ck5zws3h86nx30i14r8dvqx5z
     verified: false
-    hashtags: "#homesweethome, #trendy, #cabinvibes, #shippingcontainerhomes"
-  - username: "fisheyelemag"
-    fullname: >-
-      Fisheye Magazine
-    bio: >-
-      The world through emerging photography. To be featured: #fisheyelemag Gallery: @fisheye_gallery Festivals: @parisexperiencesphoto / @vrarlesfestival
-    location: "United States"
-    followers: 116651
-    engagement: 116
-    commentsToLikes: 0.004086
-    id: ck0uav21ud35d0i19wc6jq4d0
-    verified: false
-    hashtags: "#35mmfilm, #35mm, #confinement, #ifyouleave"
-  - username: "frvnkyvng"
-    fullname: >-
-      Frank Yang
-    bio: >-
-      📍 San Francisco 📐 Architectural Designer 📚 UC Berkeley B.A. | UCLA M.Arch. 📸 Photographer & Visual Artist 🔍 Mod: @shotzdelight & @way2ill_
-    location: "United States"
-    followers: 110283
-    engagement: 447
-    commentsToLikes: 0.258208
-    id: ck5hg7z8k1emv0i11a7qt561x
-    verified: false
-    hashtags: "#eclectic, #architizer, #moodygrams, #artofvisuals"
+    hashtags: "#abstractlandscape, #artathome, #homedecor, #acrylicart"
 ---

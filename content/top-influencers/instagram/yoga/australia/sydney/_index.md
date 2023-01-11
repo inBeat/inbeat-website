@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Sydney In 2022
+title: Top 10 Yoga Instagram Influencers In Sydney In 2023
 description: >-
-  Find top yoga Instagram influencers in Sydney in 2022. Most popular hashtags: #australia #yoga #sydney #love.
+  Find top yoga Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #australia #yoga #summer.
 platform: Instagram
-hits: 30
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 30 Instagram influencers like this in Sydney, Australia for you to contact.
+hits: 12
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "themagicalozfamily"
+  - username: "larissa.gavrilova"
     fullname: >-
-      🇦🇺 𝗧𝗵𝗲 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗢𝘇 𝗙𝗮𝗺𝗶𝗹𝘆 🇦🇺
+      Larissa Gavrilova
     bio: >-
-      💗 All things family, parenting, teaching & mum'ing 💗 Australian Eco Warriors #Brisbane #TeacherLife #Familylife #mumlife
+      16 ✨ Australian ballerina 🇦🇺 Gaynor Girl 2020/21 💗 @ma_cherie_dancewear creator BBASI USA 14, 15, 16, 18 Russian Masters Vaganova Ballet Academy 19
     location: "Australia"
-    followers: 21239
-    engagement: 352
-    commentsToLikes: 0.125058
-    id: ck5heb7fms0k80i11budywgdn
+    followers: 6747
+    engagement: 1079
+    commentsToLikes: 0.194308
+    id: ck5cev3v8lrp90i11z170x8sd
     verified: false
-    hashtags: "#mumlife, #womensfashion, #instamum, #parenting"
-  - username: "miguel_hand_balance"
-    fullname: >-
-      Miguel Sant'ana
-    bio: >-
-      🇧🇷Professional Hand Balancing Teacher in Melbourne 🇦🇺 1-1 online coaching available. Workshop in SYDNEY 11,12,13 Dec sign up at: 👇👇👇👇
-    location: "Australia"
-    followers: 100080
-    engagement: 189
-    commentsToLikes: 0.017533
-    id: ck0vxf3csyl6z0i194w0qmbij
-    verified: false
-    hashtags: "#hkyoga, #itsaholdnotscreenshot, #fujifilmxt2, #blackandwhite"
-  - username: "rosie.rees"
-    fullname: >-
-      Rosie Rees | Yoni Queen 👑🏳️‍🌈
-    bio: >-
-      Sexuality & Relationship Coach & CEO at @yoni_pleasure_palace & Nude Yoga founder @naked.awakening 💌 Enquiries: rosie@rosierees.com
-    location: "Australia"
-    followers: 74406
-    engagement: 129
-    commentsToLikes: 0.033154
-    id: ck5cj8c64u6zf0i11cuksevf1
-    verified: false
-    hashtags: "#nakedyoga, #nudeyogawithrosie, #nudeyoga, #selflove"
-  - username: "thirteenfeettattoo"
-    fullname: >-
-      𝕿𝖍𝖎𝖗𝖙𝖊𝖊𝖓 𝕱𝖊𝖊𝖙 𝕿𝖆𝖙𝖙𝖔𝖔
-    bio: >-
-      🐲 𝐎𝐏𝐄𝐍 𝟕 𝐃𝐀𝐘𝐒 📱BOOK ONLINE NOW BUTTON BELOW 🧼🖐🏼 𝐂𝐎𝐕𝐈𝐃 𝐒𝐀𝐅𝐄 𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑𝐄𝐃🧍🏻‍♂️↔️🧍🏽‍♀️ 📍KING ST,NEWTOWN 📍LITTLE HAY ST,CHINATOWN 💳 #010876 NT 💳 #011188 HM
-    location: "Australia"
-    followers: 15348
-    engagement: 65
-    commentsToLikes: 0.013939
-    id: ck14iv9elhb5i0i190kvbt0gj
-    verified: false
-    hashtags: "#thirteenfeettattoo, #love, #handdrawn, #trad"
-  - username: "overpackedsuitcase"
-    fullname: >-
-      Raphaela | Content Creator
-    bio: >-
-      🐨 #sydney based wanderlust soul and blogger 🤍 travel | fashion | lifestyle | yogi | lawyer ☀️ KINDNESS IS KING
-    location: "Australia"
-    followers: 16299
-    engagement: 536
-    commentsToLikes: 0.192212
-    id: ck139kzyplu2n0i19t677udhj
-    verified: false
-    hashtags: "#roostersofinstagram, #ladieslovetravel, #saltybutsweet, #femmetravel"
-  - username: "urb4n_gr33n"
-    fullname: >-
-      🌿 Nige 🌿
-    bio: >-
-      All plants, all the time Hydroponics, hydroculture & artificial environment Indoor growing- Canberra, Australia All 📷 are my own. Credit if reposting
-    location: "Australia"
-    followers: 10401
-    engagement: 945
-    commentsToLikes: 0.031549
-    id: ck9wfax0go14g0j78ijwqn45v
-    verified: false
-    hashtags: "#aroidsofinstagram, #aussieplantclub, #igplants, #anthuriumwarocqueanum"
-  - username: "movewithnicole"
-    fullname: >-
-      Nicole McPherson
-    bio: >-
-      🇦🇺 🇵🇭 🇪🇸 Yoga Lover || Latin Dancer Barre & Pilates Instructor @fitnessplaygroundaus 📍Sydney, Australia 👇 YouTube Channel 👇
-    location: "Australia"
-    followers: 27441
-    engagement: 687
-    commentsToLikes: 0.100910
-    id: ck5zm9ff1m5bf0i14yx1eswhf
-    verified: false
-    hashtags: "#yogisofinstagram, #pilatesinstructor, #yogainspo, #flexible"
-  - username: "gabsburgos"
-    fullname: >-
-      Gabby
-    bio: >-
-      ⚡️All you see, is not all I am. 📍Sydney
-    location: "Australia"
-    followers: 25341
-    engagement: 149
-    commentsToLikes: 0.087642
-    id: ck5zwb6ft5tih0i14arxv8bwj
-    verified: false
-    hashtags: "#rollerskates, #patins, #sydney, #golflife"
+    hashtags: "#dancelove, #dancersofinstagram, #balletpost, #pointe"
   - username: "tillyjacsmith"
     fullname: >-
       Tilly Smith ✨
     bio: >-
       Now in Sydney Mental health 🙏 Model - @scoopmanagement @chic_brisbane @newyorkmodelsdirect Social - @maxconnectors 🐝 Ambassador - @kai_yoga_mosman 🧘
     location: "Australia"
-    followers: 72337
-    engagement: 165
-    commentsToLikes: 0.021177
+    followers: 78076
+    engagement: 162
+    commentsToLikes: 0.022568
     id: ck0tuasak6d8v0i19y86vgcd7
     verified: false
-    hashtags: "#flawlessbeautyus, #sponsored, #rainbird, #partner"
-  - username: "marathonerdale"
+    hashtags: "#minenssey, #fragrance, #minebyminenssey, #mermaid"
+  - username: "iamshimakhosravi"
     fullname: >-
-      Dale Marie
+      shima khosravi
     bio: >-
-      running + yoga + life in australia @superflyendure run coach NASM, CPT 💪🏼 13.1 (1:32) • 26.2 (3:21) • 50K (4:48) #Sydney, Australia📍
+      Model, Actress, Stylist, Makeup artist,📍SYDNEY.🇭🇲 @shimakhosravimua @stylebyshima
     location: "Australia"
-    followers: 14588
-    engagement: 288
-    commentsToLikes: 0.030093
-    id: ck138xswcijt20i19eu99hwao
+    followers: 16116
+    engagement: 230
+    commentsToLikes: 0.134970
+    id: ck6tq2ll0p2040j71ojmm7o19
     verified: false
-    hashtags: "#fakehoneymoon, #byron, #onedayatatime, #justrunning"
+    hashtags: "#makeuplook, #beauty, #photoshoot, #beautiful"
+  - username: "icecreamshandae"
+    fullname: >-
+      Shandee Milla | Sydney | AU
+    bio: >-
+      Explorer. Animal lover. Sunrise & Sunset chaser. Yoga. Music. Hopeless romantic. Vegetarian. Pun addict. Gamer. I like to walk on crunchy leaves.
+    location: "Australia"
+    followers: 5888
+    engagement: 1240
+    commentsToLikes: 0.055703
+    id: ck15qr4q949130i19a960h3h8
+    verified: false
+    hashtags: ""
+  - username: "uma.jeyaseelan"
+    fullname: >-
+      By Uma © Artist
+    bio: >-
+      Yoga . Art . Architecture Illustrator . Building Designer . Environmentalist . 200hr Yoga Teacher No Instagram DMs please . No custom work. Sydney
+    location: "Australia"
+    followers: 17263
+    engagement: 277
+    commentsToLikes: 0.033683
+    id: ck602llkdhvlh0i1457hyrvfx
+    verified: false
+    hashtags: "#embossing, #indiandance, #sydneyartist, #indianmythology"
+  - username: "serchmaathexplorer"
+    fullname: >-
+      Serchmaa Oui
+    bio: >-
+      Cirque du Soleil 🌞 Contortionist / Coach 🤸🏻‍♀️ Mindfulness / Yoga 🦋 📍MELBOURNE 🇦🇺 @flex.create 🥕 Exploring body illustration
+    location: "Australia"
+    followers: 12901
+    engagement: 386
+    commentsToLikes: 0.053089
+    id: ck0u83em16gcx0i19hra0s8f0
+    verified: false
+    hashtags: "#cirquedusoleil, #cirquegram, #cirqueduinsta, #kurios"
+  - username: "robmillsarchitects"
+    fullname: >-
+      Rob Mills Architects (RMA)
+    bio: >-
+      Melbourne | Sydney | Brisbane | Perth | Byron Bay | Architecture & Interiors | AAP Firm of the Year | World Interior Practice of the Year
+    location: "Australia"
+    followers: 66213
+    engagement: 100
+    commentsToLikes: 0.010879
+    id: ck5c5mjjc3rbq0i11kk3xy9uk
+    verified: false
+    hashtags: "#robmills, #robmillsarchitects, #interiors, #design"
+  - username: "jennybeeen"
+    fullname: >-
+      Jenny Blenk | Content Creator
+    bio: >-
+      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
+    location: "Australia"
+    followers: 8147
+    engagement: 644
+    commentsToLikes: 0.205182
+    id: ck5honakipv940i114q4oggvy
+    verified: false
+    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
+  - username: "takeus_withyou"
+    fullname: >-
+      JESS and RYAN
+    bio: >-
+      🍃Escape The Ordinary 🎥 content creators Travelling Aus:Currently📍Northern QLD Client work: @tuwy_media Presets: @tuwypreset Email to work with us👇🏼
+    location: "Australia"
+    followers: 8928
+    engagement: 505
+    commentsToLikes: 0.207557
+    id: ckap0lvk6qvks0i78v04spwnq
+    verified: false
+    hashtags: "#vibes, #holidayherethisyear, #tropicalnorthqueensland, #nswtourism"
+  - username: "momentum_pilates"
+    fullname: >-
+      Momentum
+    bio: >-
+      
+    location: "Australia"
+    followers: 10
+    engagement: 1058500
+    commentsToLikes: 0.061606
+    id: ck0w2vj9jqdih0i19qcczoquj
+    verified: false
+    hashtags: "#fitness, #pilatescommunity, #pilatesstyle, #lululemonambassador"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Germany In 2022
+title: Top 10 Vegan Instagram Influencers In Germany In 2023
 description: >-
-  Find top vegan Instagram influencers in Germany in 2022. Most popular hashtags: #verlosung #happy #corona #happiness.
+  Find top vegan Instagram influencers in Germany in 2023. Most popular hashtags: #shooting #gamer #vegan.
 platform: Instagram
-hits: 1153
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 1153 Instagram influencers like this in Germany for you to work with.
+hits: 1016
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 1016 Instagram influencers like this in Germany for you to work with.
 profiles:
-  - username: "simonapetz"
+  - username: "adriaan.vanveen"
     fullname: >-
-      simona 🕊
+      ADRIAAN VAN VEEN
     bio: >-
-      ❝ hi beautiful 𝗳𝗶𝘁𝗻𝗲𝘀𝘀︱𝗳𝗮𝘀𝗵𝗶𝗼𝗻︱𝘁𝗿𝗮𝘃𝗲𝗹 ✿ vegan ♡ @nickgvm
+      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
     location: "Germany"
-    followers: 7513
-    engagement: 1212
-    commentsToLikes: 0.156517
-    id: ckapban7zz78u0i78z34p87j7
+    followers: 18483
+    engagement: 93
+    commentsToLikes: 0.028050
+    id: ck8syv0u3m47i0j7850l8c3el
     verified: false
-    hashtags: "#travelinspo, #glowy, #fitgirl, #jewelry"
-  - username: "littlefamily._"
+    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
+  - username: "cocoolinaa"
     fullname: >-
-      𝗔 𝗡 𝗔 🌻
+      Carolin
     bio: >-
-      • Mom of ✌🏻 | #Mamablog • Allein unter Jungs | #Lebenmitkindern • Vegan 🌱 • There is no Planet B 🌍 • Every day holds the possibility of a miracle ❤️
+      ✝️ 5’9” ♌️ who loves fashion and food Vegan 🌱 📍Germany Inquiries: 📧cocoolinaa@gmail.com I built up my own independence ✨ Travel addict 🌍
     location: "Germany"
-    followers: 5109
-    engagement: 1390
-    commentsToLikes: 0.108784
-    id: ck8t60bhsbszy0j781w8ki37x
+    followers: 129239
+    engagement: 951
+    commentsToLikes: 0.006589
+    id: ckaozit8om2k60i784j0ynw9b
     verified: false
-    hashtags: "#mamaundsohn, #lebenalsmama, #teamblau, #mamablogger"
+    hashtags: "#coconut, #zfgirl, #beach, #shein"
   - username: "picturing.spirit"
     fullname: >-
-      Johanna ✨ Yoga
+      Sustainable Yogini ✨ Johanna
     bio: >-
-      ☯️Yoga (200h TTC) 🌿Healthy vegan eats ✨sustainability 💧essential oils, natural solutions and more👇🏼
+      📍germany - she/her Ich • große yogaliebe | vegan | feministIn | real-life person | 🏳️‍🌈
     location: "Germany"
-    followers: 11912
-    engagement: 1342
-    commentsToLikes: 0.053476
+    followers: 18652
+    engagement: 675
+    commentsToLikes: 0.035410
     id: ck9hazujierui0j78teooufdv
     verified: false
-    hashtags: "#yogainnature, #homepractice, #yogafam, #pinchamayurasana"
-  - username: "mutimbauch"
+    hashtags: ""
+  - username: "jonathan.schoeck"
     fullname: >-
-      SINA ♡ Sei die Veränderung
+      Jonathan Schoeck
     bio: >-
-      🎬 YouTube: MutimBauch 🎤 Podcast: Teilzeit-Spießer 🌱 Vegan Family ♡ Mental Health & Körperakzeptanz ↓Coaching & Ernährungsberatung (+Impressum)↓
+      📍Berlin/Heidelberg 📲 |Follow me on Tik Tok (850k+) 🌱 Vegan 👟|Inspiration for #mensfashion ✈️|Travel 📩| jonathan.schoeck@foryouagency.de
     location: "Germany"
-    followers: 16813
-    engagement: 1228
-    commentsToLikes: 0.039676
-    id: ck14kwf3nrnm30i1912d0e4p1
+    followers: 52492
+    engagement: 193
+    commentsToLikes: 0.056284
+    id: ck14i5q33drpc0i19r9val9ys
     verified: false
-    hashtags: "#etepetete, #adoptdontshop, #committedtodobetter, #weltvegantag"
-  - username: "lauralehmannofficial"
+    hashtags: "#menwithstreetstyle, #couplelove, #freund, #casualoutfit"
+  - username: "lukasfootball_"
     fullname: >-
-      ♡ Ⓛ ⓐ Ⓤ ⓡ Ⓐ ♡
+      LUKASFOOTBALL
     bio: >-
-      🐚 Fashion shop @concept__l 💭 founder of @_laloushop_ 🕊 vegan 🤍 Proud Mom of 3 boys 💍 happily married 🏳️ Stuttgart 📩 laura@lehmann-mgmt.de
+      Vegan 🌱 Training 💯 Recovery 💤 ⚽️ @pumafootball Baller 😎 @teamfk Member 🥣 @provibez.official Founder
     location: "Germany"
-    followers: 107854
-    engagement: 387
-    commentsToLikes: 0.112830
-    id: ck15rt3mn9kdl0i19b2y1izo7
-    verified: false
-    hashtags: "#momof3, #familytime, #reels, #zalandostyle"
-  - username: "mehralsgruenzeug"
+    followers: 79093
+    engagement: 284
+    commentsToLikes: 0.010145
+    id: ck5hnb6pynhqn0i11ywbcw19f
+    verified: true
+    hashtags: "#werbung, #work, #fussball, #em"
+  - username: "dakadea"
     fullname: >-
-      Jenni Marr | Mehr als Grünzeug
+      DakaDea
     bio: >-
-      {she/her} Keeping my eyes open. ⋒ Doing things with words. ⋒ Sustainability. ⋒ Vegan. ⋒ Holistic & intersectional. ⋒ Dreamer. ☻ Introvert. BLOG:
+      📍🇩🇪 & 🇵🇱 | Lost my <3 to 🇨🇱 & 🇻🇪 • Director of Marketing - Gamer, life lover & prof. dream chaser • 🌱 #vegan • 💌 Business contact: d.aka.dea@gmail.com
     location: "Germany"
-    followers: 28297
-    engagement: 394
-    commentsToLikes: 0.068424
-    id: ck0w5izpu3v6g0i19bu9m2e5h
+    followers: 46388
+    engagement: 712
+    commentsToLikes: 0.026215
+    id: ck8t89bvqjjwx0j78zf3n14yp
     verified: false
-    hashtags: "#mentalhealthmatters, #eco, #pandemie, #greenblogger"
-  - username: "little.parkour.hulk"
+    hashtags: "#blackhairdontcare, #blackhairgirl, #chokeme, #risktaker"
+  - username: "fashiontwinstinct"
     fullname: >-
-      Ihab Yassin
+      𝕊𝕦 & ℂ𝕙𝕣𝕚𝕤 🕊
     bio: >-
-      On the 🌍 since 1995 Parkour Athlete since 2011- vegan 🌱 👕 @ohana.wear - athlete Mainz/Frankfurt, Germany 📍
+      Twinsisters 👯‍♀️ born in the 90‘s |Fashion • Lifestyle| based in #Cologne 🤍 🌱 #veganfood 💌 info@fashiontwinstinct.com
     location: "Germany"
-    followers: 12918
-    engagement: 1871
-    commentsToLikes: 0.033344
-    id: ck0udegoziz8s0i19667rohd7
+    followers: 111064
+    engagement: 238
+    commentsToLikes: 0.050667
+    id: ck5c2hhnnx9u60i113jwzceyb
     verified: false
-    hashtags: "#freeruning, #wiesbaden, #flow, #pk4life"
-  - username: "andherflowers"
+    hashtags: "#yesterday, #leslunesfamily, #leslunesgeburstag, #takemedrinkmeloveme"
+  - username: "tatjanagessler_official"
     fullname: >-
-      V a l e r i e
+      Tatjana Geßler
     bio: >-
-      Don‘t be the ego. Be your higher self.✨ • Selflove • Mindfulness • Gratitude • vegan • save the earth 🌎 • high vibrations 💫 • chillin‘ near munich
+      SWR Aktuell Moderatorin, Moderatorin „natürlich!“ TV Journalistin, Tierexpertin SWR Landesschau, Buchautorin Thienemannverlag, Tierschützerin, Vegan
     location: "Germany"
-    followers: 122257
-    engagement: 544
-    commentsToLikes: 0.035875
-    id: ck13ctwk9250w0i19khnmjb6l
+    followers: 8602
+    engagement: 712
+    commentsToLikes: 0.111670
+    id: ckaotumhixlfi0i78agfyujau
     verified: false
-    hashtags: "#childhoodunplugged, #mindfulness, #mindsetiseverything, #dontgiveup"
-  - username: "charlotte_weise"
+    hashtags: "#lovemyjob, #shooting, #hundeaufinstagram, #swrfernsehen"
+  - username: "myveryown.journey"
     fullname: >-
-      Charlotte Weise🌱
+      Ｙｏｇａ  ｂｙ  ＡＭＢＥＲ ＳＣＨＩＭＰＦ
     bio: >-
-      📍Barcelona 🏖Beachlife🐶🏡🌞♥️ 🌞Happiness 💃🏼Dancing 🐇🌿Natural cosmetics 🌍🌿Fair Fashion ♥️Selflove 🥦Veggie/vegan food
+      • 🧘🏻‍♀️🪴🦆🥑🍫🤸🏻‍♀️ • self taught yogi • obsessed w/ good + healthy food • taking care of Mother Nature • #sustainable | #ecofriendly | mostly #vegan
     location: "Germany"
-    followers: 132641
-    engagement: 536
-    commentsToLikes: 0.027862
-    id: ck0u628qx0s0a0i19j8mserwd
+    followers: 37410
+    engagement: 137
+    commentsToLikes: 0.141218
+    id: ck15rldii8hna0i19ywi6cbdq
     verified: false
-    hashtags: "#selbstliebe, #stayathome, #befree, #corona"
-  - username: "julispiration"
+    hashtags: "#yoga, #heartopener, #yogainspiration, #mybodymychoice"
+  - username: "vanessa.maria.inked"
     fullname: >-
-      JULI 🦋
+      𝚅𝚊𝚗𝚎𝚜𝚜𝚊| 𝙲𝚊𝚛𝚜| 𝚅𝚎𝚐𝚊𝚗 ✨🌱
     bio: >-
-      🐚Kiel 🍋deine tägliche Dosis Glück #crazystories 🎙 💗vegan 💡Motivationsblogposts 💌julispiration@mail.de
+      📍 Austria| Tyrol 🖤 Cargirl | Audi TT 🖤 Vegan| Fitness| Lifestyle 🖤 Model ♥️🔒 Love @daniel.hookah
     location: "Germany"
-    followers: 54680
-    engagement: 277
-    commentsToLikes: 0.466409
-    id: ck0u9saqrah3r0i19913ulp9v
+    followers: 14443
+    engagement: 1347
+    commentsToLikes: 0.024942
+    id: ck9h9xfhkac840j78i4giq3yf
     verified: false
-    hashtags: "#airpods, #happy, #verlosungxxl, #verlosung"
+    hashtags: "#mercedesamg, #inkedstyle, #sensualportrait, #quattro"
 ---

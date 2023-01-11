@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Indonesia In 2022
+title: Top 10 Athletes Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top athletes Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #tetapaktif #localpride.
+  Find top athletes Instagram influencers in Indonesia in 2023. Most popular hashtags: #skincare #workout #ukmkeputrianundiksha.
 platform: Instagram
-hits: 89
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 89 Instagram influencers like this in Indonesia for you to pitch.
+hits: 72
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 72 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
-  - username: "riismanita"
+  - username: "emquee"
     fullname: >-
-      Virgo♍️
+      Michelle Quan
     bio: >-
-      Kristiadi🖤 •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
+      Cledepeau Beaute UnderArmour Athlete Friend of DIOR Bvlgari @fitwithrealfoodid @ecovacs.indonesia
     location: "Indonesia"
-    followers: 5601
-    engagement: 1365
-    commentsToLikes: 0.046864
-    id: ckap2m2yszfj20i787zhl15zt
+    followers: 70446
+    engagement: 243
+    commentsToLikes: 0.022050
+    id: ck15rxjxha7af0i19ds8ubzmx
     verified: false
-    hashtags: "#makeuptiktokchallenge, #makeupcollection, #tutorialmakeupsimple, #makeuplooks"
-  - username: "furkyrs"
+    hashtags: "#bulgari, #bulgarihighjewelry, #serpenti, #edenthegardenofwonders"
+  - username: "bayusaptaji"
     fullname: >-
-      Furky R Syahroni
+      Bambang Bayu Saptaji
     bio: >-
-      Travel (hiking) enthusiast🇲🇨 I share what I saw Youtube Furky TM furkysyahroni.com #ceritafurky 👩🏼‍💻managing director at DE 🥎former softball athlete
+      Part of team @ortuseight athlete @pocarisportid Ambassador @topscoresport & @djsportapparel Kawan @ayo.indonesia 📞+82114211788 @ismipricilla
     location: "Indonesia"
-    followers: 8963
-    engagement: 1761
-    commentsToLikes: 0.041085
-    id: ck6ub9877882x0j71hhleart2
-    verified: false
-    hashtags: "#sindoro, #gunung, #indonesia, #pendaki"
-  - username: "riskymuhammads22"
+    followers: 841697
+    engagement: 566
+    commentsToLikes: 0.029455
+    id: ck13683gv57ff0i19bxdoynws
+    verified: true
+    hashtags: "#aplikasibola, #ayoindonesia, #avoiceforamateurs, #aplikasiayo"
+  - username: "asnawi_bhr"
     fullname: >-
-      Risky Muhammad Sudirman
+      ASNAWI MANGKUALAM
     bio: >-
-      • Young athlete🇲🇨 • @persija player🐯
+      Football Player🇮🇩 • Specs Athlete
     location: "Indonesia"
-    followers: 28967
-    engagement: 987
-    commentsToLikes: 0.009766
-    id: ck5zxup398p6k0i14laxpbf39
+    followers: 185053
+    engagement: 797
+    commentsToLikes: 0.006427
+    id: ckap8h4igo9ze0i78da3giwz3
     verified: false
-    hashtags: "#fiersabesari, #garisterdepan"
+    hashtags: "#mitsubishi, #psmmakassar, #ewako, #tetapaktif"
   - username: "syahmisafari20"
     fullname: >-
       Syahmi Safari
     bio: >-
       Selangor FA💊🔥 @pumafootball athlete [Usaha.Doa.Tawakal] —— @twenty20wrap 🚗 @eses20fries 🍟
     location: "Indonesia"
-    followers: 110163
-    engagement: 977
-    commentsToLikes: 0.007307
+    followers: 109509
+    engagement: 978
+    commentsToLikes: 0.007066
     id: ckapbrt7113ox0i78k1rpnvqz
     verified: true
-    hashtags: "#pumamy, #fifa21, #gamesbond, #wrap"
-  - username: "bagasadingrh"
+    hashtags: "#yoodofifa20challenge, #wrap, #fasxhipsterpomade, #pumafootball"
+  - username: "riskymuhammads22"
     fullname: >-
-      Bagas Adi Nugroho
+      Risky Muhammad Sudirman
     bio: >-
-      - Arema FC - Specs Athlete Management Contact: +62817162449 Munial Sport Group (MSG)
+      • Young athlete🇲🇨 • @persija player🐯
     location: "Indonesia"
-    followers: 190069
-    engagement: 723
-    commentsToLikes: 0.006395
-    id: ck9wducxrhb580j78bya2a6vv
-    verified: true
-    hashtags: "#jugglingchallenge, #pantangloyo, #tetapaktif, #dirumahaja"
-  - username: "asnawi_bhr"
-    fullname: >-
-      ASNAWI
-    bio: >-
-      • @amb_store.id • Specs Athlete
-    location: "Indonesia"
-    followers: 175250
-    engagement: 805
-    commentsToLikes: 0.003968
-    id: ckap8h4igo9ze0i78da3giwz3
+    followers: 28730
+    engagement: 938
+    commentsToLikes: 0.009681
+    id: ck5zxup398p6k0i14laxpbf39
     verified: false
-    hashtags: "#ewako, #psmmakassar, #mitsubishi, #100persenewako"
-  - username: "bayusaptaji"
-    fullname: >-
-      Bambang Bayu Saptaji
-    bio: >-
-      Part of team @ortuseight athlete @pocarisportid Ambassador @topscoresport Kawan @ayo.indonesia 📞82114211788 @ismipricilla
-    location: "Indonesia"
-    followers: 794714
-    engagement: 537
-    commentsToLikes: 0.009570
-    id: ck13683gv57ff0i19bxdoynws
-    verified: true
-    hashtags: "#ligaayoindonesia, #ayocoid, #sepakbola, #futsal"
+    hashtags: "#fiersabesari, #garisterdepan"
   - username: "ayub.antoh27"
     fullname: >-
       ayubantoh
     bio: >-
-      Sport Coaching Education Yogyakarta State University Athlete ⚽ Professional Football Player @martapurafc Filipi 4:13 😇 My YouTube Channel 👇Below
+      Endorse >>> DM📩 Athlete ⚽ Professional Football Player @martapurafc Filipi 4:13 😇 My YouTube Channel 👇Below
     location: "Indonesia"
-    followers: 22257
-    engagement: 589
-    commentsToLikes: 0.024278
+    followers: 22126
+    engagement: 665
+    commentsToLikes: 0.022667
     id: ck138tamchwmh0i19mnnylqdb
     verified: false
-    hashtags: "#ndonesia, #jerseyfantasytimnas, #localapparel, #banjarmasin"
+    hashtags: "#sadboy, #martapurafc, #paijopapuaisojowo, #sadgirl"
+  - username: "riismanita"
+    fullname: >-
+      Virgo♍️
+    bio: >-
+      Kristiadi❤️ •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
+    location: "Indonesia"
+    followers: 5639
+    engagement: 1189
+    commentsToLikes: 0.029934
+    id: ckap2m2yszfj20i787zhl15zt
+    verified: false
+    hashtags: "#ukmkeputrianundiksha, #sosimplesobeautiful, #indobeauty, #makeuptransitionrizal"
+  - username: "rivannurmulki"
+    fullname: >-
+      Rivannurmulki12
+    bio: >-
+      🏐Professional Volleyball Player🇮🇩 -ASICS ATHLETE -2018 super league🇹🇭 -2020-2021 V-league🇯🇵 inquiries🔽 📩jspjakarta09@gmail.com 📱+6281283998234 (WB) ⬇️
+    location: "Indonesia"
+    followers: 611087
+    engagement: 890
+    commentsToLikes: 0.003192
+    id: ckap53imra1h30i78a8fv2hy6
+    verified: true
+    hashtags: "#myhistory, #asicsid, #bebetter, #happynewyear"
   - username: "hijrah_bara"
     fullname: >-
       hijrah bara
     bio: >-
-      In Relationship - BA Of @beningsclinic_jakarta @bening__skincare -team @suplemenfitnesid & @whymutant @sfidnfits Sponsored Athlete
+      - BA Of @beningsclinic_jakarta @bening__skincare -team @suplemenfitnesid & @sfidnfits Sponsored Athlete
     location: "Indonesia"
-    followers: 137303
-    engagement: 212
-    commentsToLikes: 0.019995
+    followers: 144963
+    engagement: 217
+    commentsToLikes: 0.019418
     id: ckaounl5d11yo0i78ozdy9amh
     verified: false
-    hashtags: "#superweekend, #lazadaid, #gembafriends, #sfidnfits"
-  - username: "pinkmheni"
+    hashtags: "#sahabatbening, #beningsekarang, #skintreatment, #oaseindonesia1212"
+  - username: "x.t.i.n_m.i.l.a.n"
     fullname: >-
-      Mheni Pink
+      Christin Wijaya
     bio: >-
-      @vectorlabsofficial & @maxsproteinindonesia sponsored athlete
+      Triathlete | Ultra Endurance Athlete Mom of Milan #xtinmilan BA of @cannondale.id @wahoofitness.id @proactionbikes @oakley
     location: "Indonesia"
-    followers: 4194
-    engagement: 575
-    commentsToLikes: 0.099523
-    id: ck6u7wfp3o1mw0j71rl7ogvmd
+    followers: 12990
+    engagement: 294
+    commentsToLikes: 0.115628
+    id: ck5q87wwv4v2i0i11xfedvjy3
     verified: false
-    hashtags: "#jualsuplemen, #gymjakarta, #kekar, #binaraga"
+    hashtags: "#xtinmilan, #gakrecehgakasik, #gowes, #jumpropeworkout"
 ---

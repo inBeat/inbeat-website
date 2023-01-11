@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Tokyo In 2022
+title: Top 10 Yoga Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top yoga Instagram influencers in Tokyo in 2022. Most popular hashtags: #yoga #pr #fitness #tokyo.
+  Find top yoga Instagram influencers in Tokyo in 2023. Most popular hashtags: #japan #yoga #fashion #ootd.
 platform: Instagram
-hits: 33
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 33 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 25
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in Tokyo, Japan for you to contact.
 profiles:
   - username: "belleyogatokyo"
     fullname: >-
       Jo in Tokyo 🇯🇵
     bio: >-
-      #MoveForThePlanetWednesdays @liforme mat code 👉BELLETOKYO 🛍Discount Codes 👇
+      🧘🏻‍♀️Yoga / Saving the Planet 🌏 🏋🏻Team @allysangels_fitness @liforme -10% code 👉BELLETOKYO 👇Discount links👇
     location: "Japan"
-    followers: 64024
-    engagement: 114
-    commentsToLikes: 0.090738
+    followers: 65284
+    engagement: 115
+    commentsToLikes: 0.058017
     id: ck0tycg14mewo0i19onieu1ta
     verified: false
-    hashtags: "#motivation, #yinyoga, #meditation, #yogalife"
-  - username: "explorejpn"
+    hashtags: "#splits, #humpdayvibes, #amamioshima, #yogaonthebeach"
+  - username: "saorimahalo"
     fullname: >-
-      EXPLORE JAPAN
+      海  隼人  /  kai hayato
     bio: >-
-      References best tourism destination in Japan. Tag your memories with #EXPLOREJPN for sharing the beauty of Japan. 📩 explorejapanofficial@gmail.com
+      元宝塚歌劇団🌟星組 🌱Yoga Instructor (ryt200/facial yoga/ap yoga ) 　アロマヨガ桜スタジオ 🌵Ambassador of @glaz_respirer_japan🌱model 🌈zoom online yoga lesson🌈 不定期に更新中 ↓↓↓
     location: "Japan"
-    followers: 250741
-    engagement: 145
-    commentsToLikes: 0.005336
-    id: ck0w1enh5iyn50i19ja03w6wj
+    followers: 5295
+    engagement: 538
+    commentsToLikes: 0.042898
+    id: ck6ugjo113f6x0j719xllu7l5
     verified: false
-    hashtags: "#explorejpn"
+    hashtags: "#december, #bridal, #yogateacher, #kimono"
+  - username: "_natsumitakeda_"
+    fullname: >-
+      Natsumi Takeda / 武田奈津美
+    bio: >-
+      ♡Golf ⛳️🔴87 ♡Fishing ♡Fitness ♡Beauty ♡講談社VoCE VOCEST! PLATINUM💋 会社員とフリーで活動してます🐱🌻 ♡FiNCアンバサダー @finc_app
+    location: "Japan"
+    followers: 48882
+    engagement: 339
+    commentsToLikes: 0.020855
+    id: ck15s4wf8b8qe0i19kk4sfw6i
+    verified: false
+    hashtags: "#golfgirl, #youtube, #ootd, #coordinate"
+  - username: "mitokasuya"
+    fullname: >-
+      Mito Okawara Kasuya
+    bio: >-
+      liv’n honolulu👙used to professional body boarder. I am passionate🦋surfer🌊traveler🌏owner🙋🏼@surfergirlacademy 🏄🏼‍♀️🏄‍♂️Come to surf with us!
+    location: "Japan"
+    followers: 7985
+    engagement: 592
+    commentsToLikes: 0.015487
+    id: ck6tzec8n97ci0j71c6t0l1yw
+    verified: false
+    hashtags: "#hawaii, #surfergirlacademy, #japan, #tokyodisneyland"
   - username: "11misato10"
     fullname: >-
       MISATO
     bio: >-
-      ○Twitter @_M1110_ /Radio DJ (TOKYO FM) /yoga Instructor /酵素風呂サロンWABISABI代表 @wabisabikouso ◯follow me
+      ○Twitter @_M1110_ /Radio DJ (TOKYO FM/FM福岡) /yoga Instructor /酵素風呂サロンWABISABI代表 @wabisabikouso / ◯follow me
     location: "Japan"
-    followers: 10210
-    engagement: 1136
-    commentsToLikes: 0.036047
+    followers: 10066
+    engagement: 772
+    commentsToLikes: 0.029593
     id: ck5c7rkjo829m0i1149qnc4g3
     verified: false
-    hashtags: "#japan, #japanesegirl, #stayhome, #curry"
-  - username: "arisa28lucia"
+    hashtags: "#pr, #mightychristmas, #yogagirl, #cbd"
+  - username: "airi530n"
     fullname: >-
-      Arisa 🇯🇵🇮🇹
+      AIRI
     bio: >-
-      》全米YOGA アライアンス 》YouTube"ありさらチャンネル"↓ arisarah YouTube channel link below🌹
+      95' / 🇯🇵tokyo🤎 dance,music,trip,fashion,yoga🌿🌴 Twitter @airiiiii530
     location: "Japan"
-    followers: 13955
-    engagement: 715
-    commentsToLikes: 0.042411
-    id: ckaow4b797dc10i787gcj4ovu
+    followers: 44863
+    engagement: 92
+    commentsToLikes: 0.006591
+    id: ck13acl1yppps0i199gqyp43r
     verified: false
-    hashtags: "#marriotthotel, #training, #ac, #travel"
-  - username: "shibuya_yuri"
-    fullname: >-
-      🇯🇵渋谷ゆり/涉谷由里/Yuri Shibuya
-    bio: >-
-      Director @almoore_official Japanese/Fitness Trainer(NESTA) 👄Trilingual (中文/English/日本語) 📍東京/上海/台灣/香港/北京 Love&World Peace🌍👨‍👩‍👧‍👦❤️ FiNC ambassador
-    location: "Japan"
-    followers: 1167411
-    engagement: 109
-    commentsToLikes: 0.012708
-    id: ck6uhv9onbfnm0j71hz8973bs
-    verified: true
-    hashtags: "#bikini, #loseweight, #motivation, #muscle"
-  - username: "yuriyan.retriever"
-    fullname: >-
-      ゆりやんレトリィバァ
-    bio: >-
-      I am a Japanese COMEDIAN！
-    location: "Japan"
-    followers: 943508
-    engagement: 322
-    commentsToLikes: 0.007224
-    id: ck138zmveistm0i19j6n84ih4
-    verified: true
-    hashtags: "#teamnike, #pr, #youcantstopus, #hollywood"
-  - username: "annatsuchiya0311"
-    fullname: >-
-      土屋アンナ
-    bio: >-
-      YouTubeチャンネル開設したよ🐣💖 是非みんなみてね❣️❣️❣️
-    location: "Japan"
-    followers: 557637
-    engagement: 286
-    commentsToLikes: 0.005498
-    id: ck6tvu5y0oaqb0j7160tk6jzh
-    verified: true
-    hashtags: "#makeup, #rock, #billabong, #ai"
+    hashtags: "#ootd, #instafashion, #trip, #japanesegirl"
   - username: "natsumi_fujiwara"
     fullname: >-
       藤原菜摘(Fujiwara Natsumi)
     bio: >-
-      OSAKA→TOKYO🗼 1992.04.17 model / yoga instructor (RYT200) / contact⇨DM✉️ ※お仕事関係以外のDMは返信しません 質問等はコメント欄にお願いします🙏
+      OSAKA→TOKYO🗼 1992.04.17 model / yoga instructor (RYT200) / contact⇨DM ※質問等のDMは返信致しかねます。
     location: "Japan"
-    followers: 25414
-    engagement: 131
-    commentsToLikes: 0.009877
+    followers: 24803
+    engagement: 132
+    commentsToLikes: 0.008975
     id: ck5hn1onen1dv0i1157kdqd4f
     verified: false
-    hashtags: "#lalalei, #takeyourchance, #pr, #babylone"
-  - username: "s_o_u"
+    hashtags: "#ameri, #amerivintage, #aoyanagrandhotel, #kiels"
+  - username: "palmatsuura"
     fullname: >-
-      S Ø
+      松浦猛"𝙿𝙰𝙻"
     bio: >-
-      🎥 | Film | GoPro® Family 🌿 ↓ゴープロだけで作った動画と撮影方法↓
+      #ALOHA #焼肉 #SURF パルオの親父‼︎ １回しかない人生を華やかに歌舞く。本当にやりたい事をやりたい奴とやりまくるぜよ‼ ☀️🌊🍖🍍♨️🌈🤙🏿 @christinaginza @beauty_coat_medical_artmake @yakiniku_mitsukuni
     location: "Japan"
-    followers: 8824
-    engagement: 428
-    commentsToLikes: 0.020332
-    id: ck14jv2a6mc0b0i19ry8ll4hh
+    followers: 12088
+    engagement: 529
+    commentsToLikes: 0.049317
+    id: ckaorwsazp3u80i78u2dyb74s
     verified: false
-    hashtags: "#isup, #gopromax, #stayinghome, #goprohero9"
-  - username: "mariko_jpn_531"
+    hashtags: "#cute, #follow, #life, #family"
+  - username: "hiromi.tomii"
     fullname: >-
-      Mariko Nakagawa/中川 真理子🇯🇵
+      Hiromi.Tomii
     bio: >-
-      💫︎Miss Supranational Japan 東東京代表💫 　∟1st runner up ☀︎ ヨガインストラクター｜📍Tokyo｜172cm 🥇MSJ関東大会grand prix 💠 Beauty Pageant Media model 2020
+      #Tokyo ⇔ #kyoto⇔#yamaguchi #社会福祉士#精神保健福祉士　#MSW #スキューバダイビングインストラクター #ルーシーダットンインストラクター #インナービューティーダイエットアドバイザー #FiNCアンバサダー @finc_app
     location: "Japan"
-    followers: 10971
-    engagement: 1152
-    commentsToLikes: 0.010517
-    id: ck8t2ycl8164t0j782ru7na7h
+    followers: 96973
+    engagement: 73
+    commentsToLikes: 0.017546
+    id: ck5zsd9a9yaaz0i14aci63ntu
     verified: false
-    hashtags: "#love, #healthybeauty, #happy, #smile"
+    hashtags: "#golfstagram, #golfswing, #yoga, #ootd"
+  - username: "model_taku"
+    fullname: >-
+      TAKU
+    bio: >-
+      🗾Japanese model（🇬🇧@stormmodels ）🍎Juice bar Co-founder（@setsukojuice ）🧘‍♂Calisthenics/Yoga📏184cm tall📩 takujapan.9@gmail.com Check my pictures👇
+    location: "Japan"
+    followers: 42540
+    engagement: 261
+    commentsToLikes: 0.005186
+    id: ckf5p2pmk4qam0j23atphhd79
+    verified: false
+    hashtags: "#haveagoodone, #okusibu, #staysafe, #saturday"
 ---

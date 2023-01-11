@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Austin In 2022
+title: Top 10 Skincare TikTok Influencers In Austin In 2023
 description: >-
-  Find top skincare TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #greenscreen #skincare #duet.
+  Find top skincare TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #skincare #foryou #greenscreen.
 platform: TikTok
-hits: 40
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 40 TikTok influencers like this in Austin, United States for you to pitch.
+hits: 48
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 48 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "leonamarlene"
+  - username: "therealtarnanlamb"
     fullname: >-
-      leona ✨
+      taryn lamb
     bio: >-
-      nomad life • travel + more sharing influencer resources ✨ FOLLOW ALONG ON IG 🌸
+      a series of major social media faux pas insta: taryn_lamb
     location: "United States"
-    followers: 38300
-    engagement: 731
-    commentsToLikes: 0.048813
-    id: ckbqf509e0uvj0j23pjhrbgyx
+    followers: 49800
+    engagement: 490
+    commentsToLikes: 0.092546
+    id: ck83z8ucfyq3j0j78p94ss0nz
     verified: false
-    hashtags: "#socialmediatips, #workwithbrands, #influencer101, #tipsbyleona"
-  - username: "heyitsfiza"
+    hashtags: "#fyp, #greenscreen, #throwback, #film"
+  - username: "haley.snider"
     fullname: >-
-      Fiza
+      Haley Snider
     bio: >-
-      follow/subscribe ❤️ 🎃
+      Women Supporting Women💪 Living life beyond a 9-5🦋 Austin, Tx💕 3234
     location: "United States"
-    followers: 22100
-    engagement: 1091
-    commentsToLikes: 0.036367
-    id: ck8z1pjmh2f740j78xkbwpu5u
+    followers: 62800
+    engagement: 1470
+    commentsToLikes: 0.059096
+    id: ckcdd3zjs5clu0j230cpcya8x
     verified: false
-    hashtags: "#foreignexchange, #duet, #fyp, #phrog"
+    hashtags: "#tarotreading, #aesthetic, #tarot, #wicca"
   - username: "its_taceyman"
     fullname: >-
       Its_Taceyman
     bio: >-
       Austin Tacey if you wanna know my name 😘 AMOS~Tacey2000 20
     location: "United States"
-    followers: 31900
-    engagement: 2662
-    commentsToLikes: 0.021108
+    followers: 31400
+    engagement: 2650
+    commentsToLikes: 0.021928
     id: ckaiaf07wc0nw0i78rqow35na
     verified: false
-    hashtags: "#onlyfanpage, #fy, #michigan, #greenscreen"
-  - username: "gay4plants"
+    hashtags: "#vibez, #michigan, #fy, #whatsupdocchallenge"
+  - username: "ninaberenato"
     fullname: >-
-      Gay4Plants
+      Nina Berenato
     bio: >-
-      She/Her & They/Them PO Box 140101, Austin TX, USA Venmo: Gretasaur BLM✊🏿 ✊🏾
+      I own an all-girl jewelry shop in Austin ⚒ she/her Handmade • Custom •👇🏼Shop
     location: "United States"
-    followers: 64400
-    engagement: 1455
-    commentsToLikes: 0.037182
-    id: ck81s78kjqikc0j78dq2yjczq
+    followers: 119700
+    engagement: 1404
+    commentsToLikes: 0.013106
+    id: ck81s9n0nr1y10j785ei5mkqu
     verified: false
-    hashtags: "#plantmom, #houseplants, #iloveplants, #queer"
-  - username: "hailiebarberr"
+    hashtags: "#austin, #jewelrymaking, #positivity, #goodvibes"
+  - username: "marissaspagnoli"
     fullname: >-
-      Hailie Barber
+      Marissa Spagnoli
     bio: >-
-      ☁️ 24 Austin, TX
+      Unpopular beauty/fashion opinions☕️ Follow my IG for more! 📍BOS
     location: "United States"
-    followers: 45300
-    engagement: 1564
-    commentsToLikes: 0.014523
-    id: ckbqglj5d248z0j23gno2752y
+    followers: 59200
+    engagement: 913
+    commentsToLikes: 0.035596
+    id: ck984baq3nrah0j78jjl35s9k
     verified: false
-    hashtags: "#greenscreen, #ad, #snoozzzapalooza, #asos"
-  - username: "em.arz"
+    hashtags: "#stitch, #fyp, #skincare, #skincareroutine"
+  - username: "postytho"
     fullname: >-
-      emily
+      ✨𝓟𝓸𝓼𝓽𝔂𝓽𝓱𝓸✨
     bio: >-
-      Austin, TX 🇮🇷
+      Post Malone fan account💛 Updates🤗 All socials is the same username🥰
     location: "United States"
-    followers: 30000
-    engagement: 925
-    commentsToLikes: 0.017636
-    id: ckc7t7yutxoh20j23o8rgnb22
+    followers: 26700
+    engagement: 763
+    commentsToLikes: 0.021931
+    id: ckb9onciaj2xn0j238xranayh
     verified: false
-    hashtags: "#fyp, #relationship, #duet, #coffee"
-  - username: "austinkalama0"
+    hashtags: "#fyp, #king, #postytho, #thebest"
+  - username: "paigemorgannn3"
     fullname: >-
-      Austin Kalama
+      paige morgan💗
     bio: >-
-      Professional big wave surfer Maui Hawai’i 22 IG @austinkalama
+      insta: @paigemorgannn3 snap: @paigehigbee youtube: Paige Morgan 📍UT
     location: "United States"
-    followers: 9633
-    engagement: 665
-    commentsToLikes: 0.020861
-    id: ckdc9s27oijcm0j23ggu14r7a
+    followers: 326900
+    engagement: 1513
+    commentsToLikes: 0.029441
+    id: cka0tnuwgqpd80i78q7wmksz6
     verified: false
-    hashtags: "#foryoupage, #hawaii, #airheadsditchchallenge, #fyp"
-  - username: "amykristine27"
+    hashtags: "#skincarebyhyram, #skincare, #colorcustomizer, #makehimfamous"
+  - username: "luluxv.xo"
     fullname: >-
-      AmyKristine
+      Lulú Tovar
     bio: >-
-      Austin, Texas 🤘🏼🖤 📧 amyfaubion@icloud.com
+      🧿♎︎ she/her 📍ATX 🇲🇽🌈 BLM ✨dollar tree, beauty+ 💌DM for Promos/Collabs
     location: "United States"
-    followers: 13100
-    engagement: 621
-    commentsToLikes: 0.051960
-    id: ck9k2n6dll0e40j78ez8l5xog
+    followers: 12000
+    engagement: 930
+    commentsToLikes: 0.073960
+    id: ck8hk4h6tc8m70j781amcggxq
     verified: false
-    hashtags: "#horrortok, #texas, #halloween, #winter"
-  - username: "tbish99"
+    hashtags: "#viral, #finds, #texas, #makeup"
+  - username: "lifeoftanyamarie"
     fullname: >-
-      Thomas Bishop
+      Life of Tanya Marie
     bio: >-
-      Follow if you think I’m mildly funny Thanks for 10k😤
+      Stay weird queens 🤪 lifeoftanyamarie@gmail.com
     location: "United States"
-    followers: 14400
-    engagement: 809
-    commentsToLikes: 0.036202
-    id: ckdn1oambd8oh0j23tel8ekaw
+    followers: 462700
+    engagement: 1486
+    commentsToLikes: 0.027271
+    id: cka0laieuq7ar0i78n9d14fky
     verified: false
-    hashtags: "#duet, #quarantine, #xbox, #iowa"
-  - username: "_danikathehermit_"
+    hashtags: "#whydidimakethis, #ad, #hack, #stitch"
+  - username: "thefairygodmentor"
     fullname: >-
-      Danika
+      Cassidy Torrence
     bio: >-
-      I have a sock collection Proud Step-Chicken🐓 ✨18✨
+      Hi I’m Cass, your Fairy GodMENTOR 🧚‍♀️ ✨ Here to grant ur business wishes ✨
     location: "United States"
-    followers: 107600
-    engagement: 2245
-    commentsToLikes: 0.013048
-    id: ck8ourb7tqx1b0j789mu0h6ef
+    followers: 50400
+    engagement: 607
+    commentsToLikes: 0.028470
+    id: ckbf4mhpvt4e60j233ebr3m73
     verified: false
-    hashtags: "#collegelife, #foryoupage, #algorithm, #walmart2hrexpress"
+    hashtags: "#internship, #forsmallbusiness, #smallbusiness, #fyp"
 ---

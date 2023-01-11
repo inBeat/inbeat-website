@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Pakistan In 2022
+title: Top 10 Instagram Influencers In Pakistan In 2023
 description: >-
-  Find top Instagram influencers in Pakistan in 2022. Most popular hashtags: #fashion #instadaily #fashionblogger #blogger.
+  Find top Instagram influencers in Pakistan in 2023. Most popular hashtags: #ootd #pakistan #tiktok.
 platform: Instagram
-hits: 38
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 38 Instagram influencers like this in Pakistan for you to pitch.
+hits: 15
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 15 Instagram influencers like this in Pakistan for you to collaborate.
 profiles:
-  - username: "aleenasheikh._"
+  - username: "sanaabid.mua"
     fullname: >-
-      Aleena Sheikh
+      Sana Abid
     bio: >-
-      🔴Fashion and Style influencer!💃 🔶️Anesthesia technologist.💉💊 📍Lahore, Pakistan.🇵🇰 📩Dm for PR and collaborations
+      HAQ YA ALI A.S 🙏🏻 Makeup | hair, skincare content creator PR & promotions Dm @dicedigitalofficial CEO of @naturesnestbysanaabid 🫶🏻 Bahawalpur 🏡
     location: "Pakistan"
-    followers: 19724
-    engagement: 519
-    commentsToLikes: 0.066989
-    id: ck1348px4v9nm0i19t309k4m9
+    followers: 209517
+    engagement: 240
+    commentsToLikes: 0.123225
+    id: ck14l7k19t9bi0i19gr1taxam
     verified: false
-    hashtags: "#fashion, #aleenasheikh, #fashionblogger, #black"
-  - username: "umamaismailkhan"
-    fullname: >-
-      Umama Ismail Khan
-    bio: >-
-      Content Creator - Vocalist - Painter Dm or Email for PR||Collabs📍🇵🇰 Makeup artist @umamakhansmakeupstudio ArtWork: @umamasart
-    location: "Pakistan"
-    followers: 127366
-    engagement: 321
-    commentsToLikes: 0.078037
-    id: ck0w531k11n1h0i19dpyyoxlf
-    verified: false
-    hashtags: "#moreopenhairdays, #surfexcel, #pantenepakistan, #pantenefreedomhair"
-  - username: "fasi.asad"
-    fullname: >-
-      Fasi Asad | Lahore 🇵🇰
-    bio: >-
-      Fashion | Portraits | Weddings | Retoucher DM for PR/Paid Promotions Youtube & Presets 🔽
-    location: "Pakistan"
-    followers: 12833
-    engagement: 752
-    commentsToLikes: 0.094957
-    id: ck15qohm33v8d0i19tqsfh5ta
-    verified: false
-    hashtags: "#pursuitofportraits, #earth, #portraitpage, #777luckyfish"
+    hashtags: "#beautybloggers, #fashion, #makeup, #makeupartist"
   - username: "muahamb"
     fullname: >-
       Maham Waseem Bokhari
     bio: >-
       🇵🇰 SKT 💄Makeup enthusiast 💃🏻 Follow @makeupbymahamwb for client work 📩 info.muahamb@gmail.com
     location: "Pakistan"
-    followers: 3302
-    engagement: 1871
-    commentsToLikes: 0.208277
+    followers: 3342
+    engagement: 1898
+    commentsToLikes: 0.227304
     id: ck14gjx755lo20i19mu7y7brx
     verified: false
-    hashtags: "#colorpopme, #muasfam, #morphe, #watermelonmakeup"
-  - username: "zainabshabbirofficial"
+    hashtags: "#slayandblend, #youngmua, #morphebabe, #monakattan"
+  - username: "umamaismailkhan"
     fullname: >-
-      𝐙𝐚𝐢𝐧𝐚𝐛 𝐒𝐡𝐚𝐛𝐛𝐢𝐫
+      Umama Ismail Khan
     bio: >-
-      Actress - Fantasizer 🌟🇵🇰🌟 Watch Mehar Posh every friday 8pm only on Geo
+      Content Creator - Vocalist - Painter Dm or Email for PR||Collabs📍🇵🇰 Makeup artist @umamakhansmakeupstudio ArtWork: @umamasart
     location: "Pakistan"
-    followers: 245206
-    engagement: 402
-    commentsToLikes: 0.013995
-    id: ck15tuyktk1740i1921j7at18
+    followers: 139016
+    engagement: 376
+    commentsToLikes: 0.021139
+    id: ck0w531k11n1h0i19dpyyoxlf
     verified: false
-    hashtags: "#eidday3, #2ndoutfit, #eidday2, #zainabshabbir"
+    hashtags: "#winteroutfitinspo, #ootd, #winterootds, #stylewithumama"
   - username: "sairoz"
     fullname: >-
       Syra Yousuf
     bio: >-
       Actor 🇵🇰
     location: "Pakistan"
-    followers: 1567559
-    engagement: 471
-    commentsToLikes: 0.008442
+    followers: 1577097
+    engagement: 444
+    commentsToLikes: 0.008239
     id: ck0w2bpjtnk4s0i19deu0gzmo
     verified: true
-    hashtags: "#ultimatefun, #softonhands, #ultrafunction, #oppof17pro"
-  - username: "_haymur.fans"
+    hashtags: "#ultrafunction, #oppof17pro, #ultimatefun, #zahalawn"
+  - username: "hannahbuttofficial"
     fullname: >-
-      haymurian❤
+      Hannah Butt
     bio: >-
-      Haymur fan page💕 Craziest fan of; @_burakdeniz @handemiyy
+      Only Official Instagram account of Hannah Butt⭐️ Fashion Model |Actress |Foodie |Influencer DM for Shoots / PR Collabs 💌 👻 hanahofficial
     location: "Pakistan"
-    followers: 6980
-    engagement: 1756
-    commentsToLikes: 0.003622
-    id: ck13bb2k1ukmy0i1901ovxfnw
+    followers: 46149
+    engagement: 180
+    commentsToLikes: 0.032579
+    id: ck1348tl5va540i19ley4baow
     verified: false
-    hashtags: "#murat, #pyarlafzonmeinkahan, #best, #hayatuzunsirsalmaz"
-  - username: "ridaaasimislam"
+    hashtags: "#instadaily, #goodvibes, #hannah, #actress"
+  - username: "travelgirls.pk"
     fullname: >-
-      Rida Aasim Islam
+      TravelGirlsPakistan | Amna
     bio: >-
-      Co-founder @bekaar_films Fashion | YouTube | Travel 🇵🇰 🇸🇦 🇦🇿 🇦🇪 🇹🇭 🇹🇷 🇧🇭 👇 SHAKI SHAGUFTA 👇
+      Latest project @worldexplorers.pk Inspiring girls to travel. Lets do it together. Join us🇵🇰 Tag us to get featured or use #travelgirlspakistan 👈🏻
     location: "Pakistan"
-    followers: 58941
-    engagement: 599
-    commentsToLikes: 0.011089
-    id: ck0w4ovhxzntd0i19dhfmb23g
+    followers: 52883
+    engagement: 140
+    commentsToLikes: 0.015671
+    id: ck13cie4x0hzi0i19basdsseq
     verified: false
-    hashtags: "#travelblogger, #travelvlogger, #traveldiaries, #influencer"
-  - username: "asimmehmoodofficial"
+    hashtags: "#pakistaniphotographers, #beautifulpakistan, #picturepakistan, #attabad"
+  - username: "mystapaki"
     fullname: >-
-      A S I M    M E H M O O D
+      Bilal Hassan | بلال حسن
     bio: >-
-      🇵🇰 Twitter: Asimtheactor
+      Based in Karachi, Pakistan 🇵🇰 Travel | Culture | Social Commentary Featured: @guardian @thetorontostar @gulfnews @vicebrasil @dawn_dot_com
     location: "Pakistan"
-    followers: 79906
-    engagement: 192
-    commentsToLikes: 0.033176
-    id: ck0w36myirujb0i193dzed90r
+    followers: 33110
+    engagement: 649
+    commentsToLikes: 0.027507
+    id: ck15tia6li7sp0i19y91c4gqu
     verified: false
-    hashtags: "#photooftheday, #beautiful, #pakistan, #showbiz"
-  - username: "mysterylahore"
+    hashtags: ""
+  - username: "ibrahimsulaymann"
     fullname: >-
-      FATIMA
+      Ibrahim sulayman
     bio: >-
-      23🎂 Lahore/Riyadh 🇵🇰 🇸🇦 A girl who loves to dressup and show off👗🙈 Makeup freak💄 Foodie🍟🍕 BBA 👩‍🎓(UMT) For Paid promotions, PR and collab 💌 DM
+      🇵🇰Singer | Music producer Subscribe to my youtube ⤵️
     location: "Pakistan"
-    followers: 21478
-    engagement: 639
-    commentsToLikes: 0.045343
-    id: ck14iidvzfk0c0i19p1djn16w
+    followers: 14540
+    engagement: 857
+    commentsToLikes: 0.098186
+    id: ck0vv8q6eo1kp0i193abr35v4
     verified: false
-    hashtags: "#instalike, #ootdfashion, #fallfashion, #riyadhfashion"
+    hashtags: "#indiansongs, #singersongwriter, #pakistani, #unplugged"
+  - username: "muzamilhasan"
+    fullname: >-
+      Syed Muzamil Hasan Zaidi 🇵🇰
+    bio: >-
+      Digital Media Specialist | Host @ThoughtBehindThings | Previously left leaning, now unapologetic centrist | Proud Pakistani 🇵🇰
+    location: "Pakistan"
+    followers: 116213
+    engagement: 974
+    commentsToLikes: 0.013987
+    id: ck13ci2i40gcr0i19f1b47ddi
+    verified: true
+    hashtags: "#tbtpakistan, #oneshoethreeways, #blackout, #ndurepakistan"
+  - username: "hartk_99"
+    fullname: >-
+      ❤️k_99
+    bio: >-
+      VłĐɆØ ɆĐł₮ØⱤ 🎭 Q₮Ɽ 🇶🇦
+    location: "Pakistan"
+    followers: 102450
+    engagement: 561
+    commentsToLikes: 0.017586
+    id: ck135voee3gnb0i19ib7s87nu
+    verified: false
+    hashtags: "#hartk, #explore"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Japan In 2022
+title: Top 10 Fashion Instagram Influencers In Japan In 2023
 description: >-
-  Find top fashion Instagram influencers in Japan in 2022. Most popular hashtags: #ootd #zara #instafashion.
+  Find top fashion Instagram influencers in Japan in 2023. Most popular hashtags: #ootd #fashion #bike.
 platform: Instagram
-hits: 1153
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 1153 Instagram influencers like this in Japan for you to pitch.
+hits: 1061
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 1061 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "takuro.ohno"
-    fullname: >-
-      大野拓朗
-    bio: >-
-      TOKYO/NY Actor/Fashion 公式後援会▷▷takutomonokai@gmail.com Twitter▷▷@Takuro_Ohno OFFICIAL WEB SITE▷▷https://ohnotakuro.com/ ▽New Year's Dreamチケット購入▽
-    location: "Japan"
-    followers: 68474
-    engagement: 554
-    commentsToLikes: 0.047637
-    id: ck15s3xeob3ie0i19iokesmup
-    verified: true
-    hashtags: "#irotoiro, #dancyu, #honda, #fit"
-  - username: "risaokamoto_"
-    fullname: >-
-      RISA
-    bio: >-
-      Fashion Addict🖤 Tokyo,Japan Umiami 🙌
-    location: "Japan"
-    followers: 16902
-    engagement: 678
-    commentsToLikes: 0.232212
-    id: ck55nsw916wn40i11jv6gomvf
-    verified: false
-    hashtags: ""
   - username: "hidehisa0717"
     fullname: >-
       Hidehisa🔹Ohtsubo
     bio: >-
       Japan🔘Tokyo⏪️⏩️Fukuoka 🔵に🇮🇹 Fashion Suits or Casual #followme #like4like
     location: "Japan"
-    followers: 7637
-    engagement: 1539
-    commentsToLikes: 0.132291
+    followers: 7741
+    engagement: 1516
+    commentsToLikes: 0.199987
     id: ck13abcdjpk290i19a8dw37a4
     verified: false
     hashtags: ""
-  - username: "otoshima_risa"
+  - username: "candy50s"
     fullname: >-
-      音嶋莉沙
+      Candy∮♪♦︎
     bio: >-
-      ＝LOVE 🍒Risa🍒 fashion👗make💄pink🎀kawaii💖 tapioca🍹 follow me🦄 twitter👉@otoshima_risa お仕事、メッセージはこちらまで👇💌 info-equal-love@yagnet.jp
+      ♦︎♦️♦︎∮Osaka Japan∮♦︎♦️♦︎ Fashion Coordinator Doll「Dragon Comi」Designer 料理研究家HMH所属 Candy Official Blog
     location: "Japan"
-    followers: 36444
-    engagement: 1122
-    commentsToLikes: 0.022461
-    id: ckaovcxj041sf0i786pq7zkpt
+    followers: 20640
+    engagement: 2048
+    commentsToLikes: 0.039229
+    id: ckaotw24xxrbh0i78qs0ejjyv
+    verified: false
+    hashtags: "#billwallleather, #bikerfashion, #bike, #jeepjapan"
+  - username: "lara_vns"
+    fullname: >-
+      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+    bio: >-
+      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
+    location: "Japan"
+    followers: 12770
+    engagement: 786
+    commentsToLikes: 0.136789
+    id: ckap8nya3p6kk0i78tp4nb40s
+    verified: false
+    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
+  - username: "takuro.ohno"
+    fullname: >-
+      大野拓朗
+    bio: >-
+      TOKYO/NY Actor/Fashion 公式後援会▷▷takutomonokai@gmail.com Twitter▷▷@Takuro_Ohno OFFICIAL WEB SITE▷▷https://ohnotakuro.com/ ▽New Year's Dreamチケット購入▽
+    location: "Japan"
+    followers: 67292
+    engagement: 588
+    commentsToLikes: 0.044742
+    id: ck15s3xeob3ie0i19iokesmup
     verified: true
-    hashtags: "#zara, #grl, #risa, #shima"
-  - username: "sundailove"
-    fullname: >-
-      Sundai love
-    bio: >-
-      Your Fashionable Traveling TV Model 🌎 Now In Japan こんにちは ! ANTM Cycle 13, Travel Channel, MTV MY SHOP @mood.global Business: sundaiklove@gmail.com
-    location: "Japan"
-    followers: 56124
-    engagement: 810
-    commentsToLikes: 0.019674
-    id: ck5c0qylitogn0i110hr7582q
-    verified: false
-    hashtags: "#kyoto, #travelkyoto, #arashiyama, #japan"
-  - username: "asami_7.4"
-    fullname: >-
-      𝐚𝐬𝐚𝐦𝐢💋
-    bio: >-
-      🇯🇵tokyo...fashion👗/sneaker👟 🕴🏻156cm/👟US5～US6 ✩ ⋆ ✩ ⋆ ✩ ⋆ ✩ ⋆ ✩﻿ ⋆ ✩ ⋆ ﻿✩ ⋆ ✩ ⋆ ✩ ⋆ ✩ ⋆ ✩ 足元倶楽部 Feat.YOU vol.72💋
-    location: "Japan"
-    followers: 12534
-    engagement: 1684
-    commentsToLikes: 0.023357
-    id: ck9wdzn1ahzla0j78g7diin76
-    verified: false
-    hashtags: "#airjordan4, #jordan1, #supremejapan, #girlsdontcry"
+    hashtags: "#iwc, #tetsuharu, #duke390, #motonavi"
   - username: "a.asuka.a"
     fullname: >-
       asuka | Freelance Model
     bio: >-
       Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
     location: "Japan"
-    followers: 35469
-    engagement: 222
-    commentsToLikes: 0.061966
+    followers: 39010
+    engagement: 287
+    commentsToLikes: 0.059405
     id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#olympus, #fujimi, #goodmood, #pr"
-  - username: "shihomi1129"
-    fullname: >-
-      小越しほみ Shihomi Ogoshi
-    bio: >-
-      Japanese🇯🇵 model📸racequeen👯‍♀️ 💘写真集｢Sea for me｣発売中 💘日本RQ大賞2017,2018受賞 💘テレビ東京賞受賞 💘ゾゾタウンAD準グランプリ #JOJO#fashion#art#music#comic#ninja 📱17live/ツイキャス
-    location: "Japan"
-    followers: 95581
-    engagement: 201
-    commentsToLikes: 0.045812
-    id: ck8tctqg50n9m0j78s706lisg
-    verified: false
-    hashtags: "#ootd, #cordinate, #shooting, #tripgram"
-  - username: "jeffreyngai"
-    fullname: >-
-      Jeffrey Ngai 魏浚笙
-    bio: >-
-      📧jeffreyngaits@gmail.com Facebook: 🔍jeffreyngai 魏浚笙 🎥youtube: jeffreyngai 📍currently Hong Kong 💎Fashion |🛫Travel | 🕶Make up |☕️Lifestyle NOW UP ON👇🏾
-    location: "Japan"
-    followers: 67119
-    engagement: 662
-    commentsToLikes: 0.012007
-    id: ck0w0bqakddwa0i19285a55j1
-    verified: false
-    hashtags: "#eefit, #live, #cocacola, #lgwearableairpurifier"
+    hashtags: "#kuih, #kuihst, #locari, #ac"
   - username: "pinkgaijin"
     fullname: >-
       𝓝𝓲𝓴𝔂 ໒꒱
     bio: >-
-      𝒕𝒐𝒌𝒚𝒐 𝒃𝒂𝒔𝒆𝒅 🇦🇷 artist・fashion creative・model・color enthusiast🌈
+      ☁️ tokyo based / from argentina ໒꒱ 🎀 artist・model・fashion creative 🌸 youtube coming soon! 💌 日本語・english・español
     location: "Japan"
-    followers: 11315
-    engagement: 1110
-    commentsToLikes: 0.036083
+    followers: 11840
+    engagement: 1354
+    commentsToLikes: 0.028818
     id: ck5zjf5r1hhd40i148bi7rto1
     verified: false
-    hashtags: ""
+    hashtags: "#daiso, #aesthetic, #kawaii, #kawaiifood"
+  - username: "helitiiamaria"
+    fullname: >-
+      𝒯𝒾𝓃𝓀𝑒𝓇𝒷𝑒𝓁𝓁𝒶
+    bio: >-
+      #momlife #kids #fashion #beauty #food #flower #flatlay 👶🏽💗 Rosa 6/20 👶🏽💗 Jade 5/19 👦🏽💗 Lukas 9/12 💌 tinkerbellaheli@gmail.com 💕 Uusin video ⤵️
+    location: "Japan"
+    followers: 16327
+    engagement: 1069
+    commentsToLikes: 0.013703
+    id: ckap3dwfb2ntp0i78htwfh769
+    verified: false
+    hashtags: "#ootd, #makeistukku, #taffelpandashop, #fillerina"
+  - username: "otoshima_risa"
+    fullname: >-
+      音嶋莉沙
+    bio: >-
+      ＝LOVE 🍒Risa🍒 fashion👗make💄pink🎀kawaii💖 tapioca🍹 follow me🦄 twitter👉@otoshima_risa お仕事、メッセージはこちらまで👇💌 info-equal-love@yagnet.jp
+    location: "Japan"
+    followers: 45148
+    engagement: 1207
+    commentsToLikes: 0.018948
+    id: ckaovcxj041sf0i786pq7zkpt
+    verified: true
+    hashtags: "#oneway, #bubbles, #zacc, #clore"
+  - username: "_maaaiii_1828"
+    fullname: >-
+      Ⓜ︎ai
+    bio: >-
+      ⚀sneakers ⚁fashion ⚂denim ⚃nail ✖️無断転載禁止 ✖️しょーもないDMいりません fashionアカウント ▷▶︎▷▶︎ @_maimai_1828
+    location: "Japan"
+    followers: 10273
+    engagement: 1287
+    commentsToLikes: 0.028993
+    id: ckaowvmgzanh70i78ka3jcz7h
+    verified: false
+    hashtags: "#airmaxkicks, #airforce1, #streetfashion, #kicstagram"
+  - username: "kenken_baaaa"
+    fullname: >-
+      けんけん. Kenta Baba
+    bio: >-
+      ラテアートの先生 @lattepriart 🥇JAPAN MATCHA LATTEART COMPETITION 2020 . Tokyo | Barista | Fashion | Liver Youtube《真夜中の12時》 . ご連絡はDMにお願いします📩 ⠀ ⬇︎生徒さん募集中⬇︎
+    location: "Japan"
+    followers: 72702
+    engagement: 1321
+    commentsToLikes: 0.016580
+    id: ck5cjpl0zv8140i11ztw3v0p3
+    verified: false
+    hashtags: "#misojyu, #vancouvercoffee, #latteart, #a16yokohama"
 ---

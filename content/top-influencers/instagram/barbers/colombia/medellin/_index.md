@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Medellín In 2022
+title: Top 10 Barbers Instagram Influencers In Medellín in 2023
 description: >-
-  Find top barbers Instagram influencers in Medellín in 2022. Most popular hashtags: #medellin #cali #barbershop #colombia.
+  Find top barbers Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #cali #barbershop #colombia.
 platform: Instagram
 hits: 4
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       Andrés Felipe Campo
     bio: >-
-      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2022 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
+      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2023 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
     location: "Colombia"
     followers: 12631
     engagement: 272

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Montreal In 2022
+title: Top 10 Lifestyle Instagram Influencers In Montreal In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #quebec #ootd.
+  Find top lifestyle Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #canada #aesthetic #canadianblogger.
 platform: Instagram
-hits: 86
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 86 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 23
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 23 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "jessmegan"
+  - username: "fadikod"
     fullname: >-
-      Jess
+      fadikod
     bio: >-
-      ⚐ Montreal | Lifestyle, Home Decor & Simple Moments Maman de la petite Céleste & amoureuse 🤍 ✎ jessmegan.info@gmail.com
+      Canadian.Lebanese Recording Artist.Producer.Percussionist
     location: "Canada"
-    followers: 72027
-    engagement: 705
-    commentsToLikes: 0.022135
-    id: ck0w1u8p6l5x70i19qwdq8tqt
+    followers: 60399
+    engagement: 141
+    commentsToLikes: 0.308405
+    id: ck14ix6xjhkh70i19v32mx63u
     verified: false
-    hashtags: "#homesweethome, #mafiiille, #myhomesense, #ad"
-  - username: "la.mouette"
+    hashtags: "#singer, #lifestyle, #montreal, #lalahvirus"
+  - username: "saralevs"
     fullname: >-
-      Florence
+      SARA LEVITT
     bio: >-
-      👒 Graphiste/Illustratrice freelance - @ateliermouette Blogueuse Lifestyle 🇫🇷 📍 Montréal 🇨🇦 Autiste 🍃 💌 hello@la-mouette.com 📸 @lamouette.instants
+      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
     location: "Canada"
-    followers: 22778
-    engagement: 564
-    commentsToLikes: 0.041513
-    id: ck55ptio1bcg80i11u9gk175z
+    followers: 5963
+    engagement: 295
+    commentsToLikes: 0.075173
+    id: ckaoszed3towd0i78ukl5z3y1
     verified: false
-    hashtags: "#embracingtheseasons, #homedecor, #wanderfolk, #ournaturedays"
-  - username: "vanessa.anna"
+    hashtags: "#lacucina"
+  - username: "anacruz"
     fullname: >-
-      Vanessa Luttrell
+      Ana Cruz🌶
     bio: >-
-      montreal fashion + lifestyle 🌼🦋🤍🥧 💌 vanessa.luttrell@gmail.com
+      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
     location: "Canada"
-    followers: 15304
-    engagement: 808
-    commentsToLikes: 0.077300
-    id: ck0w4rrzb036i0i19s3yp8vlk
+    followers: 21900
+    engagement: 202
+    commentsToLikes: 0.108976
+    id: ck0u9oei7ad2e0i198tdo1bex
     verified: false
-    hashtags: "#rqbabe, #nastygalsdoitbetter"
-  - username: "leajplf"
+    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
+  - username: "aliciawaid"
     fullname: >-
-      Léa Jplf
+      Alicia Waid
     bio: >-
-      ↳ MODE, VOYAGES & LIFESTYLE 💛 - 📍 Montréal (🎓), Bruxelles et Paris - 💌 leajplfpro@gmail.com - 📹 YOUTUBE (19,1K🤍) / TIKTOK : leajplf
+      Montréal. Content Creator. Owner of @nvizionmedia. Lifestyle | Travel | Interior & Fashion ✉️ alicia.waid8@gmail.com
     location: "Canada"
-    followers: 47520
-    engagement: 569
-    commentsToLikes: 0.007360
-    id: ck6ubfq6c9avz0j71udkltm1m
+    followers: 34577
+    engagement: 19
+    commentsToLikes: 0.013499
+    id: ck6ucsdfrh9qx0j71lrgn6qdg
     verified: false
-    hashtags: "#lilufifteen, #cr, #montreal, #quebec"
-  - username: "dayan.01_"
+    hashtags: "#loveandwildhearts, #goldaccents, #thousandislands, #authenticlovemag"
+  - username: "mommy_and_mira"
     fullname: >-
-      Emdadul H Khan Dayan⚡️
+      Tahani.H 🇨🇦🇮🇶✨Ottawa♡Canada
     bio: >-
-      •"অন্যের কথা না লাগিয়ে গাছ লাগান 🌳 • 20 | Lifestyle | Fashion | photography •Montreal 🇨🇦||🇧🇩•Dhaka (Snap: Ehkdayan) Subscribe 👇🏻(official account)
+      Fashion& Beauty|Lifestyle|Travel| Mum to #mommyyandmira 📍Ottawa•Montreal Beauty account: @withstyyle | 📧 For Business inquiries |
     location: "Canada"
-    followers: 9060
-    engagement: 1423
-    commentsToLikes: 0.079571
-    id: ckaozpj5rmu3h0i78unt3g1iu
+    followers: 52973
+    engagement: 122
+    commentsToLikes: 1.225108
+    id: ck6u7w19snz1x0j71cpu5wk7j
     verified: false
-    hashtags: "#dhakagram, #lightroom, #picoftheday, #dhaka"
-  - username: "lejohnk"
+    hashtags: "#15daysofgiving, #ad, #shein, #sheingals"
+  - username: "twourism"
     fullname: >-
-      John-Kevin Lawson 🇹🇬
+      A & M - Toronto Foodies
     bio: >-
-      ▪️Organisateur d’événements ▪️Consultant en Marketing d’influence « Osez faire ce que les autres ne font pas » 📍Mtl 🇨🇦 Ps.23 ⛪️
+      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
     location: "Canada"
-    followers: 10334
-    engagement: 755
-    commentsToLikes: 0.083194
-    id: ck5cb2xgeemme0i1102ms64ga
+    followers: 12221
+    engagement: 724
+    commentsToLikes: 0.226612
+    id: ck6ubkqqma5jw0j718b18nc2f
     verified: false
-    hashtags: "#photoshoot, #shoes, #goodlife, #marketing"
-  - username: "typh.raymond"
+    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
+  - username: "meligatorr"
     fullname: >-
-      P H A N I E 🌿
+      Melisa | Montreal
     bio: >-
-      Lifestyle | Foodie | Un brin écolo C'est moi qui se cache derrière @petitlaurierco ✌️ 📍Montréal
+      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
     location: "Canada"
-    followers: 2210
-    engagement: 1513
-    commentsToLikes: 0.206793
-    id: ck5hkm2utio580i11k3m3mwui
+    followers: 28302
+    engagement: 274
+    commentsToLikes: 0.320554
+    id: ck5bz30vkqch20i11r2q74r5z
     verified: false
-    hashtags: "#mangerlocal, #mtlfoodie, #zerodechetmontreal, #mtlblogging"
-  - username: "abelaslife"
+    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
+  - username: "sidafz"
     fullname: >-
-      ABELA’S LIFE.🕊🤍
+      Sidrah | Toronto Blogger
     bio: >-
-      ⬗ Bacc en droit, Maîtrise en droit UdeM ⠀ ⠀ ⠀& créatrice de contenu ⚐ Montreal ↠ Fashion, Food & Lifestyle
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
     location: "Canada"
-    followers: 30713
-    engagement: 245
-    commentsToLikes: 0.125113
-    id: ck5zmrplon3na0i1479y9ok0q
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
     verified: false
-    hashtags: "#partenaire"
-  - username: "demidiamandis"
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "officialsarahwithanh"
     fullname: >-
-      DEMI DIAMANDIS  |  STYLE INSPO
+      S A R A H 🖤 S A N A N E S
     bio: >-
-      #fashion #beauty #lifestyle 💍SD pittsburgh | montreal @demi__makeup demitra.stappas@gmail.com
+      📍workin in Drayton(a) Valley, AB 🍁Montreal, QC 💌 mhmanagementca@gmail.com 🌻🌼 a lil mix between nature and lifestyle 🌸🍄 📷@esjayshoots IX XVII🎀
     location: "Canada"
-    followers: 9794
-    engagement: 513
-    commentsToLikes: 0.062389
-    id: ck137fbn8b8pe0i19a2455nzh
+    followers: 2963
+    engagement: 790
+    commentsToLikes: 0.127056
+    id: ckf5msybav8w60j23q5rlkye4
     verified: false
-    hashtags: "#misslola, #30daysofoutfits, #americanstyle, #mlpartner"
-  - username: "_curiozite_"
+    hashtags: "#lightroommobile, #officialsarahwithanh, #esjayshoots, #discoverunder5k"
+  - username: "joaohguedes"
     fullname: >-
-      Hanna🇭🇹
+      Joao Guedes
     bio: >-
-      Natural Hair + Beauty +Lifestyle ✨Digital Creator 📍Montreal 📧 Curiozite@icould.com 🎬 YouTube video ⬇️
+      Intimate Portrait Photographer Photography Educator Ottawa | Montreal | Vancouver Booking April 2021
     location: "Canada"
-    followers: 5333
-    engagement: 821
-    commentsToLikes: 0.049214
-    id: ckaovd2j542j00i78991331ho
+    followers: 59921
+    engagement: 323
+    commentsToLikes: 0.021439
+    id: ck5q6dcmywy5a0i11ddpbgnxw
     verified: false
-    hashtags: ""
+    hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
 ---

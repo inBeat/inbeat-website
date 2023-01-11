@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Morocco In 2022
+title: Top 10 Nutrition Instagram Influencers In Morocco in 2023
 description: >-
-  Find top nutrition Instagram influencers in Morocco in 2022. Most popular hashtags: #happy #love #picoftheday.
+  Find top nutrition Instagram influencers in Morocco in 2023. Most popular hashtags: #happy #love #picoftheday.
 platform: Instagram
 hits: 9
 text_top: Identify the most popular Instagram accounts on inBeat.

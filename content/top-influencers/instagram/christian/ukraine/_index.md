@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Ukraine In 2022
+title: Top 10 Christian Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top christian Instagram influencers in Ukraine in 2022. Most popular hashtags: #ukraine #autumn #summer.
+  Find top christian Instagram influencers in Ukraine in 2023. Most popular hashtags: #likeme #lviv #liketime #like4likes.
 platform: Instagram
-hits: 22
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Ukraine for you to work with.
+hits: 11
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 11 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "snizhana_yanush"
-    fullname: >-
-      SNIZHANA YANUSH
-    bio: >-
-      Christian ♥️ Сast all your anxiety on Him, because He cares for you. 1 Peter 5:7 🕊
-    location: "Ukraine"
-    followers: 3016
-    engagement: 1345
-    commentsToLikes: 0.048799
-    id: ck0vxwuur14yj0i19xs09qwrx
-    verified: false
-    hashtags: "#karpaty, #likeforlike, #fall2020, #fallvibes"
-  - username: "_slavika"
-    fullname: >-
-      Elisabeth V. Korsikova Kruk
-    bio: >-
-      Tik tok: elizabeth_kruk | Christian | Co-founder of: @vanilodessa
-    location: "Ukraine"
-    followers: 30246
-    engagement: 447
-    commentsToLikes: 0.016234
-    id: ck8t23yzdy2ag0j781mu105w9
-    verified: false
-    hashtags: "#pkelvkwed"
   - username: "yelizavetushka"
     fullname: >-
-      Золотко ❤️
+      Elizabeth Chernous
     bio: >-
       ▪️Студентка @ark_school ▪️Філолог - @phil.fcl.donnu ▪️ХВЄ ▪️Роблю годний контент ▪️Співаю в сторіс
     location: "Ukraine"
-    followers: 7180
-    engagement: 1872
-    commentsToLikes: 0.007014
+    followers: 6528
+    engagement: 1945
+    commentsToLikes: 0.006830
     id: ck8t3q8z742u70j78m8y5skwh
     verified: false
-    hashtags: "#warm, #sea, #bluesky, #sky"
-  - username: "dima_trionix"
+    hashtags: "#ilovegod, #sky, #blacksea, #ukraine"
+  - username: "nazenihovhannisyan"
     fullname: >-
-      Dima Trionix
+      Nazeni Hovhannisyan
     bio: >-
-      🇺🇦 I have no time to hate people who hate me, because I am too busy loving people who love me. Admin @bangkokspirit 🇹🇭 Bangkok/Khmelnytskyy based
+      http://www.facebook.com/NazeniHovhannisyanOfficial/
     location: "Ukraine"
-    followers: 17322
-    engagement: 551
-    commentsToLikes: 0.056193
-    id: ck0u1tu8rxx1d0i19nbopd9oy
+    followers: 508530
+    engagement: 192
+    commentsToLikes: 0.024428
+    id: ck6tr3rc3wrdj0j71undxdqne
+    verified: true
+    hashtags: "#armenia, #green, #2021, #nazenihovhannisyan"
+  - username: "captainco9"
+    fullname: >-
+      C.O. Pis©apo
+    bio: >-
+      3χ αѕ¢αρ αωαя∂ѕ ωιииєя🥇🥇🥇 fυтυяє gяαмму αωαя∂ѕ ωιииєя📀💿 тяιиα & тнα σтнєяz мαиαgєя💎 Hacked at 1 million🤩 👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽Dσℓℓу Dмρℓz “Wetty” Video
+    location: "Ukraine"
+    followers: 9342
+    engagement: 763
+    commentsToLikes: 0.117931
+    id: ck5c6ahjq51mv0i11ivz7ud03
     verified: false
-    hashtags: "#streetphotography, #travelanddestinations, #citykillerz, #lifequote"
-  - username: "love__rose92"
+    hashtags: "#chanelsneakers, #pinkfriday, #winning, #amirijeans"
+  - username: "verre_de_rose"
+    fullname: >-
+      VERRE DE ROSE📍
+    bio: >-
+      𝕄𝕆𝕆𝔻 𝔹𝕆𝔸ℝ𝔻 ᴍᴏᴏᴅ, sᴛʏʟᴇ ᴀɴᴅ ɪɴsᴘɪʀᴀᴛɪᴏɴ 📍 ᴘᴇʀsᴏɴᴀʟ ᴘᴜʙʟɪᴄᴀᴛɪᴏɴs ɪɴ sᴛᴏʀɪᴇs and IGTV📍 ᴍʏ ᴡᴏʀᴋs ᴀs ᴀ ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ #photodevy 📷 ᴠᴅʀᴍᴏᴏᴅ@ɢᴍᴀɪʟ.ᴄᴏᴍ 📩
+    location: "Ukraine"
+    followers: 413670
+    engagement: 49
+    commentsToLikes: 0.069296
+    id: ck14kwh4grnws0i1907dsspnk
+    verified: false
+    hashtags: "#blackandwhiteinspiration, #fashionphotography, #blackandwhitephotography, #stylistwork"
+  - username: "christina_yatsyk"
+    fullname: >-
+      christina_yatsyk
+    bio: >-
+      🖤Реал лайф (в сторіс) Ти зависнеш тут 🤎 Обробка | стосунки | мотивація #хтотакахристя 🎁Дарую подарунки Співпраця @christina_yatsykcoop . Yavoriv
+    location: "Ukraine"
+    followers: 20790
+    engagement: 673
+    commentsToLikes: 0.112948
+    id: ck9hagc5fcffr0j78x4cqdlo8
+    verified: false
+    hashtags: "#liketime, #top, #likeme, #like4likes"
+  - username: "_cooopoll_"
     fullname: >-
       
     bio: >-
-      Married 💍 Artist👩🏼‍🎨 designer 👗owner @le_rose___ 🛍@__love__rose__collection 👙 @save_in_yourself_humanity 👶 ❤️🏆travel 🐎🛥🌍🙏🏻 🇺🇦 🇦🇪28
+      welcome to favourite place 🌈
     location: "Ukraine"
-    followers: 2151782
-    engagement: 203
-    commentsToLikes: 0.018225
-    id: ck14ji29jkget0i19dctw3u0d
+    followers: 22804
+    engagement: 201
+    commentsToLikes: 0.011547
+    id: ckaottpf2xh660i78hja5g2a0
     verified: false
-    hashtags: "#mineralfoundation, #saudionlineshop, #bustcream, #skincare"
-  - username: "marina_zhuravel"
+    hashtags: "#gigihadid, #kyliejenner, #victoriassecret, #liamhemsworth"
+  - username: "konoplyanka.official"
     fullname: >-
-      
+      Yevhen Konoplyanka 👦🏻⚽️🏆
     bio: >-
-      Owner @marinazhuravel.official ❤️#журавельвнебі #justalittleextra
+      EVERY GAME IS SPECIAL. EVERY FAN IS PRICELESS. #kono
     location: "Ukraine"
-    followers: 11405
-    engagement: 379
-    commentsToLikes: 0.044264
-    id: ck0u7cust4fqr0i19t7d82mf2
-    verified: false
-    hashtags: "#chinchin, #inbloom, #marinazhuravel, #marinazhuravelofficialoutfits"
-  - username: "milakonvaliya"
+    followers: 400399
+    engagement: 456
+    commentsToLikes: 0.005702
+    id: ck6tlvjvc6pof0j71l0bkwxk0
+    verified: true
+    hashtags: "#playinside, #playfortheworld, #justdoit, #do"
+  - username: "_lerony777_"
     fullname: >-
-      Mila Konvaliya
+      Valeria Lykunych🎰
     bio: >-
-      My world is reflected in my eyes... Souls recognize each other by vibrations not by appearances... Married👪🇺🇦≈｡◕‿◕｡
+      Model by @dimodels_school
     location: "Ukraine"
-    followers: 4345
-    engagement: 1998
-    commentsToLikes: 0.082925
-    id: ckap0tzrersfl0i78sh4c70q3
+    followers: 3925
+    engagement: 1552
+    commentsToLikes: 0.030005
+    id: ckaowsiiia96c0i78392ie7sv
     verified: false
-    hashtags: "#association, #sun, #plants, #sunlight"
-  - username: "anechkayedynak"
+    hashtags: "#mylove, #likeforfollow, #happiness, #followermeee"
+  - username: "footballuatv"
     fullname: >-
-      Anya Yedynak
+      Телеканалы Футбол 1/2/3
     bio: >-
-      🧝🏼‍♀️♒️🏄🏻‍♀️ 〰️dreamer〰️ 〰️dancer〰️ 〰️traveler〰️ 〰️surf girl〰️
+      Великий Футбол - прямий ефір о 21:00 на однойменному YouTube і на Футбол 1👇
     location: "Ukraine"
-    followers: 9252
-    engagement: 594
-    commentsToLikes: 0.023158
-    id: ck0vw4g3ps26m0i195xbokgon
+    followers: 162618
+    engagement: 146
+    commentsToLikes: 0.014331
+    id: ck5pzaz7u03f30i119v9rth9t
     verified: false
-    hashtags: "#musicvideo, #music, #dancer, #contemporaneo"
-  - username: "maksymsykish"
+    hashtags: "#bundesliga, #fcshakhtar, #manchesterunited, #footballplayer"
+  - username: "hrustka"
     fullname: >-
-      MYXXXAM
+      Christina Khoma
     bio: >-
-      2002 @maksykish @pieceofartg @proscootersua
+      Українка в Естонії🇺🇦🇪🇪 🤓Аналітик, психолог, естет 💪Саморозвиток, мотивація
     location: "Ukraine"
-    followers: 2654
-    engagement: 3058
-    commentsToLikes: 0.046694
-    id: ck8szhs3nohya0j782jcjorc0
+    followers: 7910
+    engagement: 476
+    commentsToLikes: 0.050685
+    id: ckap0w39ts2i00i78nu530r4f
     verified: false
-    hashtags: "#trustscooters, #tiltlife, #proscooter, #undialedtv"
-  - username: "kate_luzan"
-    fullname: >-
-      Kate Luzan Катя Лузан
-    bio: >-
-      Creator. Dancer. Choreographer. Actress. Model. 1/2 Korean. 🌎 Kyiv, Ukraine Танцы на ТНТ 5 сезон Booking: Luzankate@gmail.com
-    location: "Ukraine"
-    followers: 20242
-    engagement: 554
-    commentsToLikes: 0.020504
-    id: ck0vz2i026ylc0i19nku6rb8p
-    verified: false
-    hashtags: "#experimental, #geometry, #flexible, #dancers"
+    hashtags: "#motherdaughter, #bosniaandherzegovina, #beautifuldestinations, #medjugorje"
 ---

@@ -1,36 +1,36 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In South Africa In 2022
+title: Top 10 Outdoors Instagram Influencers In South Africa In 2023
 description: >-
-  Find top outdoors Instagram influencers in South Africa in 2022. Most popular hashtags: #ocean #capetown #outdoors #southafrica.
+  Find top outdoors Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #outdoors #nature #photography.
 platform: Instagram
-hits: 61
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 61 Instagram influencers like this in South Africa for you to pitch.
+hits: 41
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 41 Instagram influencers like this in South Africa for you to contact.
 profiles:
   - username: "laurasidestreet"
     fullname: >-
       Laura 🌵 Side Street
     bio: >-
-      South African in Wales 🌈 Adventure | Skate | Family Travel Outdoors | Mountains | Seas Feminist raising boys (she/her)
+      South African in Wales She/Her 🌈 🏄🏻‍♀️🌿 Outdoors | Skater | Travel Here’s to never growing up ✌🏼 Feminist raising boys
     location: "South Africa"
-    followers: 17675
-    engagement: 254
-    commentsToLikes: 0.131297
+    followers: 17744
+    engagement: 225
+    commentsToLikes: 0.065053
     id: ckaoy3l84fwzh0i78h5wgilhv
     verified: false
-    hashtags: "#ukparentbloggers, #welshlockdown, #treasurethetime, #explorelocal"
+    hashtags: "#ukparentbloggers, #mumswhoskate, #wewalkaround, #skatermum"
   - username: "bokvanblerkreal"
     fullname: >-
       Bok van Blerk
     bio: >-
       Proudly South African Singer, Songwriter, Actor in training, Tv Personality and Entertainer. Child of God. Outdoors man!
     location: "South Africa"
-    followers: 110803
-    engagement: 178
-    commentsToLikes: 0.012401
+    followers: 115330
+    engagement: 167
+    commentsToLikes: 0.011819
     id: ck5hi5q6fbs840i11iad7zt21
     verified: true
-    hashtags: "#bringhomhuistoe, #marlinmonday, #champions, #staypositive"
+    hashtags: "#rhinoconservation, #fishingaddict, #rhinodehorning, #wahooligan"
   - username: "justvon09"
     fullname: >-
       Jóvan du Plessis
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.110165
     id: ck6trhztnz3pc0j717pumpd6d
     verified: false
-    hashtags: "#kaapstad, #westerncape, #sunset, #sunrise"
+    hashtags: "#awesome, #fitness, #throwback, #outdoor"
   - username: "kelvintrautman"
     fullname: >-
       Kelvin Trautman
     bio: >-
       Photographer and Filmmaker. Outdoorsman and Athlete. Often at the intersection of adventure, art, and advocacy. Story is King.
     location: "South Africa"
-    followers: 15679
-    engagement: 356
-    commentsToLikes: 0.022120
+    followers: 15690
+    engagement: 343
+    commentsToLikes: 0.020272
     id: ck13aqqiyrpex0i19t3oked6o
     verified: false
-    hashtags: "#earthday"
-  - username: "natureboy_ct"
-    fullname: >-
-      Ryle Rene De Morny
-    bio: >-
-      Actor | TV Presenter | World Champion Lifesaver 🎬-#BloodandWater (@netflix), @expressoshow, @topbillingtv 🏔️🌊-Owner @trailblazershikingclub,@gaiya.fit
-    location: "South Africa"
-    followers: 39237
-    engagement: 514
-    commentsToLikes: 0.052028
-    id: ck5qefshx09t00i115msdnw6p
-    verified: false
-    hashtags: "#outdoorlover, #mondaymotivation, #huaweiwatchfit, #bemagic"
-  - username: "mini__photography"
-    fullname: >-
-      Mini
-    bio: >-
-      📍Johannesburg 📩 bookings@miniphotography.co.za. 🎞Film & Digital photography 🙎🏾‍♂️Personal page : @mini____nene
-    location: "South Africa"
-    followers: 28421
-    engagement: 366
-    commentsToLikes: 0.009259
-    id: ck0u04it2sjfy0i19nmnv5q2w
-    verified: false
-    hashtags: ""
+    hashtags: "#earthday, #worldphotographyday, #blackouttuesday"
   - username: "onebreathbeth"
     fullname: >-
       Beth Neale
     bio: >-
-      🏆4x South African Freedive Champion 🥇Depth 50M/164ft without fins ⏱Breathhold 6min 📍Mozambique! 🎥Underwater Content 💙@freedivingcouple 🙏@aqua.souls
+      🏆4x South African Freedive Champion 🥇Depth 50M/164ft without fins ⏱Breathhold 6min 📍Maldives! 🎥Underwater Content 💙@freedivingcouple 🙏@aqua.souls
     location: "South Africa"
-    followers: 107597
-    engagement: 1026
-    commentsToLikes: 0.036113
+    followers: 129954
+    engagement: 860
+    commentsToLikes: 0.032360
     id: ck5bu9jpshdxs0i119b96a05h
     verified: false
-    hashtags: "#marinelife, #girlsthatfreedive, #mermaid, #nature"
+    hashtags: "#savethereef, #sharks, #oceanmagazine, #mermaid"
   - username: "ricky_schroeder"
     fullname: >-
       Ricky Schroeder
     bio: >-
       • Former Pro Rugby Player🏉 • Making Radio at @kfmza 📻 • @supersporttv Rugby Commentator🎙 • Making TV at #TussenOns 📺 • MC🎤 • @_rds_entertainment
     location: "South Africa"
-    followers: 11841
-    engagement: 570
-    commentsToLikes: 0.037960
+    followers: 13314
+    engagement: 380
+    commentsToLikes: 0.034613
     id: ckaotbsqzv7xk0i787hw9tj2z
     verified: false
-    hashtags: "#smile, #trail, #running, #sunday"
-  - username: "_across.the.atlantic"
+    hashtags: "#joy, #makingtv, #purpose, #tv"
+  - username: "seansafo"
     fullname: >-
-      MORGAN + PIERRE
+      SeanJunior
     bio: >-
-      🌍USA ↹ SOUTH AFRICA 📍Long Distance Couple / 8,609 miles ✈️T R A V E L 🇺🇸👱🏼‍♀️♡ 🇿🇦👱🏼‍♂️ 📷 Documenting living WORLDS APART ✘ 📱NEW WEBSITE ↡
+      * Olympic Games 2016 * 60m World Indoors Finalists 2018 * Commonwealth Games 2018 * African Games Champion 2019 * 🇬🇧 🇬🇭
     location: "South Africa"
-    followers: 3283
-    engagement: 1497
-    commentsToLikes: 0.132735
-    id: ck6ts0b5k23ob0j717mwj730g
-    verified: false
-    hashtags: "#travelcouple, #surfphotography, #travel, #travelblogger"
-  - username: "doc.beats"
+    followers: 7282
+    engagement: 1506
+    commentsToLikes: 0.047978
+    id: ck6tu0cd4dl4z0j71hcslquqs
+    verified: true
+    hashtags: "#health, #heretocreate, #inspiration, #running"
+  - username: "mini__photography"
     fullname: >-
-      Dr. B. Buchzik
+      Mini
     bio: >-
-      Medical Doctor Munich #oneactivityaday keeps the doctor away. ✉ info.docbeats@gmail.com
+      📍Johannesburg 📩 bookings@miniphotography.co.za. 🎞Film & Digital photography 🙎🏾‍♂️Personal page : @mini______aesthetics
     location: "South Africa"
-    followers: 16408
-    engagement: 183
-    commentsToLikes: 0.088152
-    id: ckaovkrsl4zmb0i78smbhj569
+    followers: 30090
+    engagement: 374
+    commentsToLikes: 0.012478
+    id: ck0u04it2sjfy0i19nmnv5q2w
     verified: false
-    hashtags: "#sport, #travelaroundtheworld, #cloudporn, #instamazing"
+    hashtags: ""
+  - username: "tay_mccurdy"
+    fullname: >-
+      T A Y L A    M c C U R D Y
+    bio: >-
+      Yep, living that bush life. • Private safari guide, trainer and wildlife TV presenter 🦁 📍South Africa...for now! 👉🏼 @kendrick_imports
+    location: "South Africa"
+    followers: 21739
+    engagement: 496
+    commentsToLikes: 0.025560
+    id: ck5zn0iconjoj0i14zoeh5ltq
+    verified: false
+    hashtags: "#bushgirl, #naturelovers, #safari, #privatesafari"
+  - username: "dylanroyalwildlife"
+    fullname: >-
+      Dylan Royal
+    bio: >-
+      Field Guide with andBeyond 🇿🇦 South Africa DM for prints or mail dylanwroyal@gmail.com
+    location: "South Africa"
+    followers: 22467
+    engagement: 230
+    commentsToLikes: 0.014481
+    id: ck138ct77fm1e0i19qzgte4h8
+    verified: false
+    hashtags: "#bigcats, #outdoors, #lion, #sabisands"
 ---

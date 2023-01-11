@@ -1,84 +1,72 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Canada In 2022
+title: Top 10 Bloggers TikTok Influencers In Canada In 2023
 description: >-
-  Find top bloggers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #foryoupage #trending.
+  Find top bloggers TikTok influencers in Canada in 2023. Most popular hashtags: #foryou #fyp #foryoupage #blogger.
 platform: TikTok
-hits: 18
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 18 TikTok influencers like this in Canada for you to work with.
+hits: 25
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 25 TikTok influencers like this in Canada for you to collaborate.
 profiles:
+  - username: "fabulashqueen3"
+    fullname: >-
+      🇨🇦Fabulash👸Queen🇵🇭
+    bio: >-
+      CA 🍁 beauty & fashion blogger + fabulashqueenstyles owner Isaiah 54:17 $Off
+    location: "Canada"
+    followers: 8963
+    engagement: 765
+    commentsToLikes: 0.111219
+    id: ckc3eylbx0u2u0j23ftzagj18
+    verified: false
+    hashtags: "#smallbusinesstips, #smallbizowner, #fabulashqueencosmetics, #bossbabe"
   - username: "pinkmillennial"
     fullname: >-
       pinkmillennial_
     bio: >-
       Lifestyle blogger (who loves pink)of 10+ year! 70k followers on IG come join me
     location: "Canada"
-    followers: 34400
-    engagement: 585
-    commentsToLikes: 0.060046
+    followers: 33100
+    engagement: 631
+    commentsToLikes: 0.091257
     id: ckc3elrwz09v60j23kr335xp7
     verified: false
-    hashtags: "#fashionblogger, #nailsartvideos, #styleblogger, #pinkoutfit"
+    hashtags: "#pinkdress, #pinklover, #tiktokggt, #ootd"
   - username: "pamperplace"
     fullname: >-
       thepamperplace
     bio: >-
-      skincare blogger 🧖🏽‍♀️content creator IG: @ThePamperPlace
+      blogger + content creator 🇨🇦 Ur new bestie thepamperplace@outlook.com
     location: "Canada"
-    followers: 5087
-    engagement: 741
-    commentsToLikes: 0.044675
+    followers: 20500
+    engagement: 608
+    commentsToLikes: 0.015909
     id: ckcp9huhcebyu0j23087mfvtl
     verified: false
-    hashtags: "#foryou, #kbeauty, #skincare, #skincarebyhyram"
-  - username: "mysuitcasejourneys"
-    fullname: >-
-      Jas
-    bio: >-
-      🇨🇦 Travel Blogger 🇨🇦 Travel + Vancouver tips! More inspo on IG ✌🏼
-    location: "Canada"
-    followers: 110300
-    engagement: 1542
-    commentsToLikes: 0.017129
-    id: ck8kfeusrdvyj0j7828wqgsbs
-    verified: false
-    hashtags: "#beautifulbc, #japaneseculture, #japantravel, #bccanada"
+    hashtags: "#pimplepatch, #pimplepopping, #pimplepatchremoval, #yttp"
   - username: "stefanaarnio"
     fullname: >-
       Stefan Aarnio
     bio: >-
       🏡 Real Estate Investor & Coach 📚 Author, Blogger, Entrepreneur 🎙 Podcaster
     location: "Canada"
-    followers: 120700
-    engagement: 584
-    commentsToLikes: 0.017514
+    followers: 119800
+    engagement: 705
+    commentsToLikes: 0.016167
     id: ck9v26kvzk8j40j78m4o3kt4s
     verified: true
-    hashtags: "#men, #foryou, #realestate, #business"
+    hashtags: "#business, #fyp, #realestate, #men"
   - username: "majakwei"
     fullname: >-
       Maja Kwei
     bio: >-
       Beauty + Lifestyle Blogger ✨ I hope to inspire! All Details at MajaKwei.com 👇
     location: "Canada"
-    followers: 26000
-    engagement: 230
-    commentsToLikes: 0.050637
+    followers: 25700
+    engagement: 238
+    commentsToLikes: 0.034366
     id: ck9v8tbhyb3ix0j785kt8ravb
     verified: false
-    hashtags: "#skintechnique, #lipfiller, #foryoupage, #travel"
-  - username: "jetlaggedlovers"
-    fullname: >-
-      Katia OK
-    bio: >-
-      Ice skater & fashion travel blogger ❤️ come say hi on insta!
-    location: "Canada"
-    followers: 70400
-    engagement: 742
-    commentsToLikes: 0.014239
-    id: ck8qgx6732n580j78i8oozh6i
-    verified: false
-    hashtags: "#tiktokfashion, #mypet, #imjealous, #unipride"
+    hashtags: "#vancouverblogger, #travel, #skintechnique, #majakwei"
   - username: "teachmestyle"
     fullname: >-
       TEACHMESTYLE
@@ -86,45 +74,57 @@ profiles:
       First grade teacher & lifestyle blogger! IG @teachme_style
     location: "Canada"
     followers: 14300
-    engagement: 447
-    commentsToLikes: 0.021233
+    engagement: 460
+    commentsToLikes: 0.016960
     id: ck9tuaphhkqnw0j78stkx38br
     verified: false
-    hashtags: "#delicious, #health, #style, #foryou"
+    hashtags: "#vegan, #healthy, #foryou, #fashion"
   - username: "allstylelife"
     fullname: >-
       Charlene Wong
     bio: >-
-      Follow for Fitness Challenges! Certified PT Lifestyle Blogger ✨ IG @AllStyleLife
+      Follow for Fitness Challenges! Certified PT Lifestyle Blogger IG @AllStyleLife
     location: "Canada"
-    followers: 46900
-    engagement: 491
-    commentsToLikes: 0.011858
+    followers: 52000
+    engagement: 616
+    commentsToLikes: 0.010728
     id: ck9rokdakczdz0j78sgyqb9iv
     verified: false
-    hashtags: "#funworkout, #homegym, #workoutchallenge, #fyp"
+    hashtags: "#plank, #workoutwithme, #cardio, #homeworkout"
+  - username: "evelynmayy"
+    fullname: >-
+      Evelyn May
+    bio: >-
+      Ig @evyliyn New account! @evelynmayfit
+    location: "Canada"
+    followers: 104100
+    engagement: 918
+    commentsToLikes: 0.023788
+    id: ck87u2f084uuo0j78j8gzqh7c
+    verified: false
+    hashtags: "#foryou, #viral, #fashion, #blogger"
   - username: "parkhi_ohri_"
     fullname: >-
       officialparkhi.
     bio: >-
       Artist Sc :pohri9 Use #parkhiohri Follow me on instagram to stay connected
     location: "Canada"
-    followers: 40900
-    engagement: 933
+    followers: 41500
+    engagement: 876
     commentsToLikes: 0.000000
     id: ck8qoqb5j02530j787g0l5kvx
     verified: false
-    hashtags: "#punjabimuser, #punjabisong, #tiktok, #brampton"
-  - username: "rinalmomen"
+    hashtags: "#brampton, #trending, #blogger, #foryoupage"
+  - username: "morganmartt"
     fullname: >-
-      Rina🦋
+      morgan
     bio: >-
-      18 🇨🇦 Beauty & fashion Makeup details on Instagram 💌 rinaalmomen@icloud.com
+      SHE/HER | 20 💌mgmttbusiness@gmail.com
     location: "Canada"
-    followers: 23700
-    engagement: 1154
-    commentsToLikes: 0.019136
-    id: ckb9gp28962x60j23w3ns4xhg
+    followers: 3123
+    engagement: 1198
+    commentsToLikes: 0.107633
+    id: ck8qe4kt7r4mf0j78zd5tuvkx
     verified: false
-    hashtags: "#halloweenmakeuptutorial, #halloweencostume, #makeuphacks, #halloween2020"
+    hashtags: "#12330workout, #fyp, #workout, #foryou"
 ---

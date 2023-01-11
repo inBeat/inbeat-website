@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Greece In 2022
+title: Top 10 Bakers Instagram Influencers In Greece In 2023
 description: >-
-  Find top bakers Instagram influencers in Greece in 2022. Most popular hashtags: #greece #summer #summervibes #urban.
+  Find top bakers Instagram influencers in Greece in 2023. Most popular hashtags: #nature #biker #photography #ktm.
 platform: Instagram
-hits: 12
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 12 Instagram influencers like this in Greece for you to connect with.
+hits: 22
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 22 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "candygirl.60s"
-    fullname: >-
-      Elena 🇬🇷
-    bio: >-
-      Self taught home Baker. I love to bake and decorate cookies. Vintage lover. Thessaloniki Greece 🇬🇷
-    location: "Greece"
-    followers: 4123
-    engagement: 1556
-    commentsToLikes: 0.524818
-    id: ck5zxydhx8w4l0i14ajs4d3ls
-    verified: false
-    hashtags: "#royalicingart, #santaclaus, #sugarartist, #summercookies"
   - username: "akamatra"
     fullname: >-
       Akamatra | Blogger Crafter Mom
     bio: >-
-      Always making something Crochet | Knit | Crafts | Books @book.arw Vegetarian recipes Biochemist PhD living chemical-free Gentle parenting
+      Maro (she/her) Always making something Crochet | Knit | Crafts | Books @book.arw Vegetarian recipes Biochemist PhD Gentle parenting
     location: "Greece"
-    followers: 16070
-    engagement: 222
-    commentsToLikes: 0.098488
+    followers: 16865
+    engagement: 212
+    commentsToLikes: 0.350028
     id: ckf5wdp51rq420j237g3mwu7j
     verified: false
-    hashtags: "#craftblogger, #bibliophile, #bookishfeature, #bookishlove"
-  - username: "aggeliki_koutelekou"
+    hashtags: "#stickning, #crochetfun, #knittingaddict, #booknerd"
+  - username: "_arrens"
     fullname: >-
-      Α γ γ ε λ ι κ ή ~ 📷
+      𝐀𝐫𝐫𝐞𝐧𝐬 | 𝐊𝐮𝐩𝐚𝐧𝐠
     bio: >-
-      🎓Physical Education & Sport Science 🏃🏻‍♀️Running Coach of @adidasrunners Athens, @adidas GR ambassador 〰️ Personal Coach 🚌 Ellinogermaniki Agogi
+      𝐓𝐫𝐚𝐯𝐞𝐥 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫 | 𝐒𝐎𝐍𝐘 α6000
     location: "Greece"
-    followers: 9004
-    engagement: 497
-    commentsToLikes: 0.008440
-    id: ck15tvzzzk6mp0i198d2qsr76
+    followers: 4079
+    engagement: 1147
+    commentsToLikes: 0.207220
+    id: ckapb0hmiy60k0i78kvd7req1
     verified: false
-    hashtags: "#sealover, #seaside, #greece, #moodoftheday"
-  - username: "myrto_kazi"
+    hashtags: "#magazine35mm, #ourplanetdaily, #nature, #stayandwander"
+  - username: "red._.dragon__"
     fullname: >-
-      Myrto Kazi
+      ᴛʀᴀᴠᴇʟ | ʟɪғᴇsᴛʏʟᴇ | ᴇxᴘʟᴏʀᴇ
     bio: >-
-      CEO of @yesidogr & @boommag.gr
+      🌻 тяαvεℓℓεя 🌻 🃏 ● vя 46 ιsнтαм ♥ ● @club___46 👑 ● @exmanics ● ρнσтσgяαρнεя ● ℓαη∂ε∂ ση 11 sερ 🎂
     location: "Greece"
-    followers: 39269
-    engagement: 340
-    commentsToLikes: 0.079543
-    id: ck0u8f78z77za0i19egv00c6v
+    followers: 6113
+    engagement: 1304
+    commentsToLikes: 0.125674
+    id: ck9wi4n500q020j78fk8vt4f3
     verified: false
-    hashtags: "#mi10tseries, #innovationforeveryone, #xiaomigreece, #bithaki"
-  - username: "dina.nikolaou"
+    hashtags: "#livetoride, #dominar400, #wandering, #pdarmy"
+  - username: "kyat.berry"
     fullname: >-
-      Dina Nikolaou
+      🇮 🇼 🇦  🇰 🇾 🇦 🇹  ♥️
     bio: >-
-      📺 TV chef / Dina’s Bakery 📚 Cook book author 👩🏻‍🍳 Chef at @evi.evane Paris Ambassador of Hellenic gastronomy in France 🇬🇷🍴🇫🇷 @mielehellas ambassador
+      . ❂ ᎻᎪᏢᏢᏆΝᎬՏՏ ᏆՏ Ꭺ ᏔᎪᎽ ϴҒ ͲᎡᎪᏙᎬᏞ ❣️ . ❂ ᏦᏞ 30 🌴 . ❂ ᏆΝҒᏞႮᎬΝᏟᎬᎡ 🤙 . ❂ ᏢᎻϴͲϴᎻϴᏞᏆᏟ 📸 . ❂ ᎬХᏢᏞϴᎡᎬ 🌎
     location: "Greece"
-    followers: 87572
-    engagement: 108
-    commentsToLikes: 0.010927
-    id: ck9web4njjhuj0j78q8jml99z
+    followers: 15200
+    engagement: 2740
+    commentsToLikes: 0.032007
+    id: ckaosl86ary8o0i780xd9b0la
     verified: false
-    hashtags: "#dinasbakery, #lovebaking, #femmecheffe, #monvillage"
-  - username: "kotaronis"
+    hashtags: ""
+  - username: "the.musicboy"
     fullname: >-
-      Alexandra💚
+      Rithu RK
     bio: >-
-      🔹Liqui Moly 🔹HJC RPHA 11 Joker 🔹Sprint filter 🔹Kawasaki Ninja💚
+      ᴄʟᴀssʏ ᴀɴᴅ ᴀ ʙɪᴛ ʙᴀᴅ ᴀssʏ 💫 ᴛʜɪs ɪs ᴡʜᴏ I ᴀᴍ ! 😈
     location: "Greece"
-    followers: 26735
-    engagement: 870
-    commentsToLikes: 0.025318
-    id: ckaorx5b6p5rf0i78gv8xsujt
+    followers: 3308
+    engagement: 4127
+    commentsToLikes: 0.046489
+    id: ckaozmvvmmk2a0i78836m3fy1
     verified: false
-    hashtags: "#tattoedgirls, #mondaymotivation, #mitas, #streetbikes"
-  - username: "babastroumf"
+    hashtags: "#kawasaki, #komban, #venom, #mrkomban"
+  - username: "the_track_bred"
     fullname: >-
-      ᴅɪᴍɪᴛʀᴀ ʙᴀʙᴀᴅɪᴍᴀ
+      ᴛʜᴇ_ᴛʀᴀᴄᴋ_ʙʀᴇᴅ /KTM BIKER🌼🌼
     bio: >-
-      🎥 @dimitra_babadima ᵂᴼᴿᴷᴵᴺᴳ ᴬˢ ᴬ ᵀᵛ * ᶠᴵᴸᴹ ᴰᴵᴿᴱᶜᵀᴼᴿ ᴰᵁᴿᴵᴺᴳ ᵀᴴᴱ ᴰᴬᵞ 🎬 —————————————— ᴸᴵᵛᴵᴺᴳ ᵀᴴᴱ ᴸᴵᶠᴱ ᴼᶠ ᴬᴺ ᴱˣᴱᶜᵁᵀᴵᵛᴱ ᵁᴺᴵᶜᴼᴿᴺ ᴰᵁᴿᴵᴺᴳ ᵀᴴᴱ ᴺᴵᴳᴴᵀ 🦄
+      ⚫κτм ℓονєя ⚫ οϲτοϐєя 24 ⚫ τяιρ ℓιƒє ⚫42 ℓονєr ⚫ϐικє ®️©️2οο. ⚫🅺🅾🅲🅷🅸 🤘
     location: "Greece"
-    followers: 6956
-    engagement: 1309
-    commentsToLikes: 0.022228
-    id: ck55p910ua2e60i117wc0pmik
+    followers: 11086
+    engagement: 1382
+    commentsToLikes: 0.052950
+    id: ck5bxpavpo5qh0i11gsycu549
     verified: false
-    hashtags: "#outdoor, #portrait, #travel, #sea"
-  - username: "vicky_panetsidou"
+    hashtags: "#bhfyp, #explore, #keralagram, #skyporn"
+  - username: "nikos.tzagarakis"
     fullname: >-
-      Vicky Panetsidou
+      Nick Tzagarakis 🇬🇷
     bio: >-
-      🇬🇷Karate 3🥇,2🥉European Champion 4🥇,2🥈,8🥉 Wold Pr.League 🥈MedGames 🌎#7 alltime world ranking 🔶@stoiximan.gr @Baya.fit @arawaza_intl @scitecnutrition
+      Menu Creator Pastry Consulting Chef Gelato Consulting Consulting Enquiries/Promotions/Collaborations/Masterclass Athens Greece 🇬🇷
     location: "Greece"
-    followers: 33128
-    engagement: 465
-    commentsToLikes: 0.017053
-    id: ck5pzbw2p07ro0i118125noqb
+    followers: 67621
+    engagement: 253
+    commentsToLikes: 0.013929
+    id: ck5ciiocwspqs0i119v72urhi
     verified: false
-    hashtags: "#iroesgr, #greekteam, #onegoal, #greatinjapan"
-  - username: "aris.messinis"
+    hashtags: "#prayforgreece, #foodphotography, #sweets, #christmasfeels"
+  - username: "apostolis_mic"
     fullname: >-
-      Aris Messinis
+      Alphamic |Streetstyler
     bio: >-
-      Chief photographer for AFP in Greece. Copyright belongs to Aris Messinis & AFP. No republishing without permission of the owner. Twitter:@arismessinis
+      Your boy 👨🏽 from next door 🏆| 1st 🇬🇷 streetstyler 👨| 6 yrs Digital Marketing ⭐| Content creator 💻| 📸 /editor 📍| Kallithea 💼| Mail for business
     location: "Greece"
-    followers: 18463
-    engagement: 981
-    commentsToLikes: 0.017186
-    id: ckap6bkaxf79r0i78xg7f0joc
+    followers: 20884
+    engagement: 1181
+    commentsToLikes: 0.190310
+    id: ck5pviqi9i2me0i11kofw0k6l
     verified: false
-    hashtags: "#athens, #missile, #acropolis, #people"
-  - username: "lazaros_chatzisavvas"
+    hashtags: "#apriliaracing, #greekvibes, #suitstyle, #greekblogger"
+  - username: "zoevassileiou"
     fullname: >-
-      Lazaros Chatzisavvas
+      Zoi Vasileiou
     bio: >-
-      Executive Pastry Chef @lindosblu @lindosmare Pastry instructor @anko_rhodes CDP @airdutemps_san ⭐⭐🇧🇪 (2014) Live in Rhodes, Greece 🇬🇷
+      My only profile ✨ Mechanical & Environmental Engineer 🛠⚙ Passionate about travels ✈️
     location: "Greece"
-    followers: 7679
-    engagement: 863
-    commentsToLikes: 0.011135
-    id: ck5q6fxkpx8r90i11ixozhn9a
+    followers: 133971
+    engagement: 334
+    commentsToLikes: 1.132415
+    id: ck8tdo1is442u0j788sk3slkp
     verified: false
-    hashtags: "#pastryaddict, #desserttime, #pastrypassion, #dessert"
+    hashtags: "#jewelrydesigner, #bags, #bagoftheday, #jewelryaddict"
+  - username: "korina_koumantaki"
+    fullname: >-
+      Korina Koumantaki
+    bio: >-
+      Style addict In search for beautiful things,places,people. Wife&mother of 3 Contact me 📩 Do not waste any day of your life!🎀💖💝
+    location: "Greece"
+    followers: 5644
+    engagement: 993
+    commentsToLikes: 0.141864
+    id: ck13b37v3tg910i192ek9jjid
+    verified: false
+    hashtags: "#vacationmode, #greekislands, #holidaysingreece, #kythnos"
 ---

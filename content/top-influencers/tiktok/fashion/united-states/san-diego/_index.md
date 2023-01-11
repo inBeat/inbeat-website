@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In San Diego In 2022
+title: Top 10 Fashion TikTok Influencers In San Diego In 2023
 description: >-
-  Find top fashion TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #fashion #foryoupage #viral.
+  Find top fashion TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #fashion #greenscreen #foryou.
 platform: TikTok
-hits: 36
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 36 TikTok influencers like this in San Diego, United States for you to collaborate.
+hits: 30
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 30 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
+  - username: "sheikhscloset"
+    fullname: >-
+      Sheikhs Closet
+    bio: >-
+      60k🤔 Follow me on IG: @SheikhsCloset (40k) Cook Group: @pluggedpalace
+    location: "United States"
+    followers: 53200
+    engagement: 837
+    commentsToLikes: 0.056471
+    id: ck8z7bubspi2z0j78q6qb6lat
+    verified: false
+    hashtags: "#yeezy, #fyp, #somali, #sneakers"
   - username: "benhornn"
     fullname: >-
       ben
     bio: >-
-      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
+      fashion, travel, lifestyle San Diego, CA ✉️benhorn1126@gmail.com follow my IG💕
     location: "United States"
-    followers: 219800
-    engagement: 2273
-    commentsToLikes: 0.144883
+    followers: 385500
+    engagement: 1170
+    commentsToLikes: 0.012189
     id: ckacgukn4woy10i78163lz6e5
     verified: false
-    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
-  - username: "edgarivansalcedo"
+    hashtags: "#greenscreen, #fashion"
+  - username: "explore_sd"
     fullname: >-
-      Edgar Salcedo
+      user7751984492931
     bio: >-
-      1 Tik Tok a Day keeps the doctor away. San Diego🌴 27
+      Sharing my passion for Food 🍱 Beauty💄Fashion 👗 Lifestyle, single mom 👩‍👦‍👦
     location: "United States"
-    followers: 2131
-    engagement: 687
-    commentsToLikes: 0.005485
-    id: ckcpf23m9gk7x0j23fh8iw14j
+    followers: 21300
+    engagement: 560
+    commentsToLikes: 0.077486
+    id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#viral, #fyp, #foryoupage, #sandiego"
-  - username: "mimosanet"
-    fullname: >-
-      Mimosa
-    bio: >-
-      Racism is not getting worst, it’s getting film! ✊🏻✊🏾✊🏿
-    location: "United States"
-    followers: 6308
-    engagement: 685
-    commentsToLikes: 0.020984
-    id: ckbf8wjj8znaj0j23kem6223g
-    verified: false
-    hashtags: "#latina, #georgefloyd, #starwars, #icantbreath"
-  - username: "averysanty"
-    fullname: >-
-      Avery Santy 💕✨
-    bio: >-
-      Diné | they/them | San Diego | 22 (Diné is a native american tribe FYI)
-    location: "United States"
-    followers: 8630
-    engagement: 1692
-    commentsToLikes: 0.026215
-    id: cka0nhcsgzn130i783j969xxg
-    verified: false
-    hashtags: "#sandiego, #nativetiktok, #nativetiktoks, #neverfitin"
+    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
   - username: "mewtwowilliam"
     fullname: >-
       Will!
     bio: >-
-      18 San Diego💛 Straight Dude named Will 15+ Please Duet! IG+Snap: @mewtwowilliam
+      18 San Diego💛 Straight Dude named Will 15+ Please Duet!
     location: "United States"
-    followers: 35600
-    engagement: 2209
-    commentsToLikes: 0.046033
+    followers: 35100
+    engagement: 2343
+    commentsToLikes: 0.052399
     id: ck8kmg2tl8dsw0j78sd3hziyq
     verified: false
-    hashtags: "#blacklivesmatter, #femboyfriday, #spaceforcewalk, #trending"
+    hashtags: "#trending, #acab, #viral, #shutupwill"
+  - username: "kaylisand"
+    fullname: >-
+      kayli
+    bio: >-
+      i edit n stuff lolz san diego >:D ⚡️🐉 !! edit tutorial up on my yt <3
+    location: "United States"
+    followers: 171400
+    engagement: 1419
+    commentsToLikes: 0.027876
+    id: ckb0ye5z6n9sn0j23532zvmdv
+    verified: false
+    hashtags: "#4u, #edit, #greenscreen, #motiongraphics"
   - username: "heymattnguyen"
     fullname: >-
       Matthew Nguyen
     bio: >-
-      photographer/videographer digital media specialist san diego • 22
+      photographer/videographer digital media specialist streamer san diego • 22
     location: "United States"
-    followers: 21200
-    engagement: 1095
-    commentsToLikes: 0.058748
+    followers: 20700
+    engagement: 1162
+    commentsToLikes: 0.036456
     id: ckd0vu3hnkbay0j23xxda8eqw
     verified: false
-    hashtags: "#daviddobrik, #justmakesense, #tesla, #prank"
-  - username: "alexzonce"
-    fullname: >-
-      ✨ Qween Shit ✨
-    bio: >-
-      San Diego, Ca - London, U.K. just crackhead tings ✨ 💗
-    location: "United States"
-    followers: 152800
-    engagement: 1596
-    commentsToLikes: 0.018171
-    id: ck9jv81t2r3fr0j78heo1p0g9
-    verified: false
-    hashtags: "#trending, #viral, #fyp, #comedy"
-  - username: "raekanoa"
-    fullname: >-
-      Rae Kanoa
-    bio: >-
-      20 ♡ uc san diego // LA youtube chick & film student can we get to 10k 😳
-    location: "United States"
-    followers: 6927
-    engagement: 1240
-    commentsToLikes: 0.035160
-    id: ckd0ss8oij0zm0j23btnyhs75
-    verified: false
-    hashtags: "#snoozzzapalooza, #fyp, #summer2020, #letsfaceit"
-  - username: "sarahabbyfulton"
-    fullname: >-
-      sarah abby
-    bio: >-
-      san diego 18 BLM
-    location: "United States"
-    followers: 1300000
-    engagement: 1960
-    commentsToLikes: 0.005679
-    id: ckd6ay5a34k0g0j23dufr06jv
-    verified: false
-    hashtags: "#fashion, #purge, #lgbtq, #heinzhalloween"
+    hashtags: "#twitch, #tindertok, #justmakesense, #prank"
   - username: "theglamghoul"
     fullname: >-
       Ashley Marie
     bio: >-
       Plus Size Middle Eastern 🇮🇶 Fly Girl from San Diego IG: @glamghoul
     location: "United States"
-    followers: 8610
-    engagement: 513
-    commentsToLikes: 0.022792
+    followers: 8929
+    engagement: 585
+    commentsToLikes: 0.022593
     id: ck9nbut3bbfnv0j78axdppvm5
     verified: false
-    hashtags: "#gordita, #morph, #nike, #fyp"
+    hashtags: "#foryou, #foryourpage, #morph, #plussize"
+  - username: "cakecapt"
+    fullname: >-
+      Lily Sensimilla
+    bio: >-
+      San Diego 🌞 Insta: LilySensimilla
+    location: "United States"
+    followers: 31500
+    engagement: 885
+    commentsToLikes: 0.018332
+    id: ck9shs2gpv0z90j787cejrdh3
+    verified: false
+    hashtags: "#foryourpage, #fyp, #foryoupage, #indiangirl"
+  - username: "fashionablysurfed"
+    fullname: >-
+      Allysa 🖤
+    bio: >-
+      Fashion, blogging tips, small biz 🖤 IG @fashionablysurfed
+    location: "United States"
+    followers: 5860
+    engagement: 462
+    commentsToLikes: 0.090522
+    id: ckcdzslthhde80j23623lmeu1
+    verified: false
+    hashtags: "#silkdress, #mirrorpalais, #worththewait, #goldendoodle"
+  - username: "tailoredbytaylor.xo"
+    fullname: >-
+      tailoredbytaylor.xo
+    bio: >-
+      All things lifestyle + faith + fashion + beauty CCLS by day, TikToker by night!
+    location: "United States"
+    followers: 9598
+    engagement: 994
+    commentsToLikes: 0.223719
+    id: ckbf87ofxyoza0j23ffh9anh8
+    verified: false
+    hashtags: "#childlifetiktok, #springootdideas, #tiktokunder30, #realtalktiktok"
 ---

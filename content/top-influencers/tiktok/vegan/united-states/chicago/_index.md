@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Chicago In 2022
+title: Top 10 Vegan TikTok Influencers In Chicago In 2023
 description: >-
-  Find top vegan TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #vegan #chicago #foryou.
+  Find top vegan TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #vegan #chicago #foryoupage.
 platform: TikTok
-hits: 14
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 14 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 8
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 8 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "laughlikeit"
     fullname: >-
-      HiddenJewel_7
+      Tee
     bio: >-
-      📍Chicago 🌱 Vegan 💃🏽TikTok Dancer Wannabe 🤪Silly 💕 Help Me Get To 5k. 💕
+      📍Chicago 💕Collaboration: itsok2byou7@gmail.com💕
     location: "United States"
-    followers: 3751
-    engagement: 1157
-    commentsToLikes: 0.144154
+    followers: 3850
+    engagement: 1075
+    commentsToLikes: 0.113267
     id: ck9e3tvkcl3lb0j784jlpdm9v
     verified: false
-    hashtags: "#phlebotomist, #trending, #foryoupage, #plantbased"
-  - username: "mowithafro"
-    fullname: >-
-      Massimo
-    bio: >-
-      Chicago Aspiring Dilf Venmo: massimoA 20 and immature
-    location: "United States"
-    followers: 4264
-    engagement: 2096
-    commentsToLikes: 0.100650
-    id: cka0rgmhdh10t0i78qzl1dlb6
-    verified: false
-    hashtags: "#stitch, #airheadsditchchallenge, #foryou, #fyp"
-  - username: "profe.teacher"
-    fullname: >-
-      Jackie
-    bio: >-
-      Chicago 🌎 Spanish Teacher👩🏼‍🏫 Venmo- @jsulisz Wishlist ⬇️
-    location: "United States"
-    followers: 2179
-    engagement: 1105
-    commentsToLikes: 0.075467
-    id: ckcv2cf5io2tg0j23y1exj1a3
-    verified: false
-    hashtags: "#teacherproblems, #teachersbelike, #greenscreen, #schoolhousetok"
+    hashtags: "#veganfoodie, #trending, #phlebotomist, #duet"
   - username: "madisonhut"
     fullname: >-
       Madison
     bio: >-
       Chicago 📍 25 Ⓥ 🌱 🏋🏻
     location: "United States"
-    followers: 3929
-    engagement: 463
-    commentsToLikes: 0.035395
+    followers: 3903
+    engagement: 460
+    commentsToLikes: 0.039180
     id: ck9eulbaced8u0j78uy0kz9sq
     verified: false
-    hashtags: "#foryoupage, #bakery, #indiana, #fyp"
-  - username: "liviflips"
+    hashtags: "#foryoupage, #indiana, #fyp, #bakery"
+  - username: "wndy_1229"
     fullname: >-
-      olivia romano
+      lake_life💙
     bio: >-
-      there’s prolly hella typos my b venmo - oliviaxromano
+      ✨Authentically Random✨
     location: "United States"
-    followers: 12500
-    engagement: 926
-    commentsToLikes: 0.059175
-    id: cka0wgzwk2rym0i785nkonoc9
+    followers: 79800
+    engagement: 503
+    commentsToLikes: 0.031181
+    id: ckcuzn1pymuux0j230wl6vzlk
     verified: false
-    hashtags: "#tylerthecreator, #fyp, #foryou, #chicago"
-  - username: "jessicahash4"
+    hashtags: "#lakelife, #lowcarb, #vegan, #fyp"
+  - username: "lactose.intolerants"
     fullname: >-
-      Jessica Hash
+      realfallgirlshit
     bio: >-
-      Beauty*Fashion*Dance Keep it classy
+      Nana MN 🇬🇭 CEO OF “BECUZ IM FAT!”
+    location: "United States"
+    followers: 22100
+    engagement: 1513
+    commentsToLikes: 0.044282
+    id: ckai6qcrrx7l30i78hffcxjxw
+    verified: false
+    hashtags: "#food, #ghana, #fyp, #african"
+  - username: "vmatt_mason36"
+    fullname: >-
+      Matt
+    bio: >-
+      Thanks for the love🙏🏼 here to entertain Follow me on IG mattwmason_
     location: "United States"
     followers: 63200
-    engagement: 684
-    commentsToLikes: 0.073626
-    id: ckcjbj3uw8zqm0j23ucaqkkas
+    engagement: 1280
+    commentsToLikes: 0.022887
+    id: cka7p945p6ajw0i78iqw72k7j
     verified: false
-    hashtags: "#razrfit, #outfitideas, #funny, #duets"
-  - username: "realsircruse"
-    fullname: >-
-      Sir Cruse
-    bio: >-
-      $30 Page Post. Cashapp $Sircruse27 Email: Kingcrusejr@icloud.com
-    location: "United States"
-    followers: 336000
-    engagement: 953
-    commentsToLikes: 0.011493
-    id: ckb9i53bi89sk0j23xheq9ck8
-    verified: false
-    hashtags: "#sircruse, #fyp, #haircut, #360waves"
-  - username: "mburkez"
-    fullname: >-
-      Not Morgan
-    bio: >-
-      24 🌈🌱 Resintock@gmail.com Go follow IG @resintock
-    location: "United States"
-    followers: 460200
-    engagement: 2096
-    commentsToLikes: 0.012880
-    id: cka69yaliuca20i78vwyfxn6t
-    verified: false
-    hashtags: "#paint, #painting, #craft, #art"
+    hashtags: "#madden, #nfl, #foryou, #wrestling"
   - username: "icrystalclearu"
     fullname: >-
       Luag Ntxhi Vaj
     bio: >-
       I eat, make, sleep, breathe FOOD 😁
     location: "United States"
-    followers: 3404
-    engagement: 754
-    commentsToLikes: 0.021137
+    followers: 3274
+    engagement: 727
+    commentsToLikes: 0.023043
     id: ckc30vh0lrhgg0j23jjv1vwv9
     verified: false
-    hashtags: "#koreanfood, #fyp, #homemade, #tiktokrecipe"
-  - username: "reyonce_carter"
+    hashtags: "#asianfood, #fy, #tiktokrecipe, #noodles"
+  - username: "satexasfoodies"
     fullname: >-
-      ReemtheDream🥺🌊
+      San Antonio Texas Foodies eats
     bio: >-
-      I should probably be studying right now...
+      Follow us to FIND YOUR NEXT MEAL! San Antonio, Tx! Follow on insta too! Look ⬇️
     location: "United States"
-    followers: 3462
-    engagement: 1282
-    commentsToLikes: 0.022050
-    id: ckbf9vhmy15010j23xho9z6ac
+    followers: 38600
+    engagement: 618
+    commentsToLikes: 0.039490
+    id: ckcjq0odjgmf60j237teiu72h
     verified: false
-    hashtags: "#snacks, #fyp, #foryoupage, #musthaves"
+    hashtags: "#tiktokfood, #newyearnewmio, #cheeseburger, #foodtiktok"
+  - username: "subwrestler"
+    fullname: >-
+      sub wrestler
+    bio: >-
+      
+    location: "United States"
+    followers: 4582
+    engagement: 449
+    commentsToLikes: 0.049735
+    id: ckb981wzcr4if0j23zzrh1mwh
+    verified: false
+    hashtags: "#quarantine, #mma, #warriorscholar, #boxing"
+  - username: "veganlesbianrepublicans"
+    fullname: >-
+      Eve & Das
+    bio: >-
+      “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
+    location: "United States"
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
+    id: ckdclovylnw2r0j23tvaevkjy
+    verified: false
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
+    fullname: >-
+      mae mae
+    bio: >-
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
+    location: "United States"
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
+    verified: false
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
 ---

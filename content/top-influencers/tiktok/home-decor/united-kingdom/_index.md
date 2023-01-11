@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In United Kingdom In 2022
+title: Top 10 Home Decor TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top home decor TikTok influencers in United Kingdom in 2022. Most popular hashtags: #homedecor #fyp #foryou #painting.
+  Find top home decor TikTok influencers in United Kingdom in 2023. Most popular hashtags: #homedecor #fyp #painting #foryou.
 platform: TikTok
-hits: 37
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 37 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 33
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 33 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "forsaintclements"
-    fullname: >-
-      FOR SAINT CLEMENTS
-    bio: >-
-      Home of satisfying resin pours✨ Shop our Etsy! All updates posted on our IG 🍊🤍
-    location: "United Kingdom"
-    followers: 54900
-    engagement: 1517
-    commentsToLikes: 0.018343
-    id: ckdsx07ncql3l0j23wuvt5y04
-    verified: false
-    hashtags: "#smallbusinessuk, #christmasgiftideas, #giftideas, #fyp"
-  - username: "victoriagriffiths70"
-    fullname: >-
-      Victoria Griffiths-J
-    bio: >-
-      DIY enthusiast. Psychotherapist & writer from Essex, UK.
-    location: "United Kingdom"
-    followers: 7456
-    engagement: 800
-    commentsToLikes: 0.043229
-    id: ckbqgslbp279s0j23qf2hz9cq
-    verified: false
-    hashtags: "#diy, #quarantine, #momsoftiktok, #kidstiktok"
   - username: "aj_painting"
     fullname: >-
       aj
     bio: >-
       Email: info@awspainting.com If you like my work, you can buy it here👇
     location: "United Kingdom"
-    followers: 65800
-    engagement: 1072
-    commentsToLikes: 0.021962
+    followers: 66000
+    engagement: 988
+    commentsToLikes: 0.023099
     id: ckcowyfm39nm80j234l41iyu2
     verified: false
-    hashtags: "#tiktokart, #asosdaytofright, #painting, #homedecor"
-  - username: "kellyprincewright"
+    hashtags: "#painting, #asosdaytofright, #homedecor, #tiktokart"
+  - username: "rebeccasresin"
     fullname: >-
-      Kelly Prince-Wright
+      RebeccasResin
     bio: >-
-      kelly 💫 a little magic | home | travel links to outfits ⤵️
+      🖤Use code ‘TIKTOK10’ for 10% off your order🖤 ⬇️SHOP⬇️
     location: "United Kingdom"
-    followers: 43700
-    engagement: 1706
-    commentsToLikes: 0.024840
-    id: ckcotyt5l8lb40j237ub9nf0g
+    followers: 5448
+    engagement: 1009
+    commentsToLikes: 0.106566
+    id: ckauwgbqx1r880j2384ze8lva
     verified: false
-    hashtags: "#homedecor, #wizardingworld, #autumn, #halloween"
+    hashtags: "#foryou, #garniermaskmoment, #whatwouldyouchoose, #nopart2s"
+  - username: "by_sambull"
+    fullname: >-
+      Sam Bull | Homeware | Art |
+    bio: >-
+      I paint colourful kitsch things and animals 🦜Shop Now 💖
+    location: "United Kingdom"
+    followers: 2374
+    engagement: 1090
+    commentsToLikes: 0.030435
+    id: ck8orfa7rc24i0j782sax8iyy
+    verified: false
+    hashtags: "#carddesigner, #gouachepainting, #smallbusinesstiktok, #homedecor"
   - username: "artistjessicasixsmith"
     fullname: >-
       Jessica Sixsmith Art
     bio: >-
-      ✨Acrylic Artist from Manchester ✨ Shop Art / View My Christmas Plans ⬇️
+      ✨ Welcome to PaintTok ✨
     location: "United Kingdom"
-    followers: 126000
-    engagement: 1328
-    commentsToLikes: 0.019403
+    followers: 153700
+    engagement: 1251
+    commentsToLikes: 0.017906
     id: ck8adbysv501f0j78x9880fsb
     verified: false
-    hashtags: "#foryou, #artistsoftiktok, #homedecor, #millennial"
-  - username: "moonlightdonkey"
-    fullname: >-
-      moonlightdonkey
-    bio: >-
-      ⬇️ Win a 1 of 1 porsche GT4 for £20!! ⬇️
-    location: "United Kingdom"
-    followers: 13700
-    engagement: 924
-    commentsToLikes: 0.019250
-    id: ckcpj8dd5i6li0j23ymqzfip8
-    verified: false
-    hashtags: "#italian, #fiat126p, #cars, #gt4"
-  - username: "happybohohome"
-    fullname: >-
-      Charlotte | Happy Boho Home☀️
-    bio: >-
-      Positivity from my bright yellow townhouse☀️ Insta - @happybohemianhome
-    location: "United Kingdom"
-    followers: 30800
-    engagement: 1288
-    commentsToLikes: 0.021655
-    id: ckbw6wd3dymoq0j23fenjc219
-    verified: false
-    hashtags: "#roommakeover, #beforeandafter, #color, #happy"
-  - username: "wearefamalishop"
-    fullname: >-
-      WeAreFamali ✨
-    bio: >-
-      Personalised Bespoke Frames (based in London & ship internationally) ✨
-    location: "United Kingdom"
-    followers: 136100
-    engagement: 790
-    commentsToLikes: 0.018757
-    id: ckbqjr6fw4yea0j23yjmvhxwx
-    verified: false
-    hashtags: "#frame, #giftsforher, #packaging, #love"
+    hashtags: "#homedecor, #artistsoftiktok, #painting, #art"
   - username: "paint_warrior"
     fullname: >-
       KJE painters
     bio: >-
-      Another day on the brush add Instagram 👆🏽 @k.j.e.painters
+      Another day on the brush add Instagram 👆🏽 @paintwarrior_
     location: "United Kingdom"
-    followers: 47800
-    engagement: 285
-    commentsToLikes: 0.030835
+    followers: 208900
+    engagement: 456
+    commentsToLikes: 0.031298
     id: ck81q7qbfgm2m0j78x11s8ycz
     verified: false
-    hashtags: "#homedecor, #xcyzba, #foryoupage, #painting"
-  - username: "homebyharry"
+    hashtags: "#4u, #foryou, #4upage, #xcyzba"
+  - username: "megfflur"
     fullname: >-
-      Harry Hughes
+      Meg Fflur
     bio: >-
-      Insta - @homebyharry
+      DIY | Comedy Business owner - @pethau Shop HOME below 👇🏼👇🏼
     location: "United Kingdom"
-    followers: 8346
-    engagement: 600
-    commentsToLikes: 0.009509
+    followers: 62500
+    engagement: 827
+    commentsToLikes: 0.027565
+    id: ck9017sqhbiq30j78vgt159n4
+    verified: false
+    hashtags: "#lickhome, #painting, #renovation, #decorating"
+  - username: "wearefamalishop"
+    fullname: >-
+      Wearefamali ✨
+    bio: >-
+      Welcome to CraftTok. Explore all of our products using the link below 💛
+    location: "United Kingdom"
+    followers: 177300
+    engagement: 752
+    commentsToLikes: 0.019774
+    id: ckbqjr6fw4yea0j23yjmvhxwx
+    verified: false
+    hashtags: "#wearefamali, #couple, #homedecor, #cricutprojects"
+  - username: "moonlightdonkey"
+    fullname: >-
+      moonlightdonkey
+    bio: >-
+      Try not to take me too seriously 🙃
+    location: "United Kingdom"
+    followers: 14000
+    engagement: 931
+    commentsToLikes: 0.025966
+    id: ckcpj8dd5i6li0j23ymqzfip8
+    verified: false
+    hashtags: "#funny, #fail, #donkey, #hypercar"
+  - username: "harryquick"
+    fullname: >-
+      Harry Quick
+    bio: >-
+      Insta - @harryrob96
+    location: "United Kingdom"
+    followers: 8889
+    engagement: 659
+    commentsToLikes: 0.039605
     id: ckb9hdlo26zi90j23rrgj9kb1
     verified: false
-    hashtags: "#homedecor, #stayathome, #cleaning, #interiordecor"
+    hashtags: "#foryou, #fyp, #bedmaking, #interiordesign"
+  - username: "rowenhomes"
+    fullname: >-
+      Rowen Homes
+    bio: >-
+      Follow us on Insta!! @rowenhomes - or shop our items on the link below 👇👇👇
+    location: "United Kingdom"
+    followers: 249100
+    engagement: 561
+    commentsToLikes: 0.019738
+    id: ck9euzgh3fx9z0j78g68uqypr
+    verified: false
+    hashtags: "#style, #tiktok, #fyp, #homedecor"
 ---

@@ -1,48 +1,48 @@
 ---
-title: Top 10 Wrestlers TikTok Influencers In 2022
+title: Top 10 Wrestlers TikTok Influencers In 2023
 description: >-
-  Find top wrestlers TikTok influencers in 2022. Most popular hashtags: #foryou #fyp #wrestling #duet.
+  Find top wrestlers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #wrestling #duet.
 platform: TikTok
-hits: 423
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 423 TikTok influencers like this for you to collaborate.
+hits: 395
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 395 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "alyssa_mahan123"
+    fullname: >-
+      oh wow
+    bio: >-
+      Hey ima wrestler delaware Snap: mahannalyssaa I love all 9000+ of u guys❤️
+    location: "United States"
+    followers: 9693
+    engagement: 1647
+    commentsToLikes: 0.110818
+    id: ckad3cdfxjyb00i78p058w7tc
+    verified: false
+    hashtags: "#fyp, #delaware, #greenscreen, #jersey"
   - username: "trixx_dancer"
     fullname: >-
       trixx_dancer
     bio: >-
       Welcome to the party🎉 1st Undisputed Polefessional Wrestler💪 IG Trixx_dancer
     location: "United States"
-    followers: 4293
-    engagement: 1594
-    commentsToLikes: 0.115234
+    followers: 4541
+    engagement: 1542
+    commentsToLikes: 0.039707
     id: ckbf3pz9yrq6f0j23336en4cu
     verified: false
-    hashtags: "#poledancer, #xpole, #duetthis, #socalgirl"
-  - username: "alyssa_mahan123"
+    hashtags: "#performer, #customcostume, #edmlife, #edmbabe"
+  - username: "aaroncashman"
     fullname: >-
-      oh wow
+      Aaron Cashman
     bio: >-
-      Hey ima wrestler DE Snap: mahannalyssaa
+      Iowa Wrestler🤼‍♂️ Insta:Aaroncashman Help buy me a taco venmo @aaron-cashman-1
     location: "United States"
-    followers: 9728
-    engagement: 1568
-    commentsToLikes: 0.081014
-    id: ckad3cdfxjyb00i78p058w7tc
+    followers: 28800
+    engagement: 1452
+    commentsToLikes: 0.063915
+    id: ck8w1xzuf3hnl0j78doaepps2
     verified: false
-    hashtags: "#greenscreen, #delaware, #wrestling, #delawaretiktok"
-  - username: "the_real_spade_34"
-    fullname: >-
-      The_Real_Spade_34
-    bio: >-
-      34 🇨🇦 . Heavy Duty Mechanic /Ghostbuster/Retired Pro Wrestler #Gravers
-    location: "Canada"
-    followers: 12400
-    engagement: 3013
-    commentsToLikes: 0.178283
-    id: ckae3g24zxhup0i78ny3ydj8w
-    verified: false
-    hashtags: "#happyhalloween, #viral, #halloweenlook, #mycostume"
+    hashtags: "#sports, #gymnastics, #xyzbca, #fyp"
   - username: "umesh_gavhane"
     fullname: >-
       Umesh Gavhane 
@@ -50,81 +50,81 @@ profiles:
       😎punekar😎 MH-42 📸photographer Athletic player 🥇 wrestler🤼🏻 🇮🇳Army Lover
     location: "India"
     followers: 3598
-    engagement: 2149
-    commentsToLikes: 0.092451
+    engagement: 2140
+    commentsToLikes: 0.087115
     id: cka6l28181dle0i78v8e25k64
     verified: false
-    hashtags: "#marathimusar, #marathimulga, #expression, #fitnessmotivation"
-  - username: "aaroncashman"
+    hashtags: "#viralvideos, #fitnessmotivation, #tiktok, #bolywood"
+  - username: "jjshoutoutking"
     fullname: >-
-      Aaron Cashman
+      Joshua Gilmore
     bio: >-
-      Iowa Wrestler🤼‍♂️ Insta:Aaroncashman Help buy me a taco venmo @aaron-cashman-1
+      Welcome to 2021 Let’s smile! Goal (50k) -I want to be a pro wrestler
     location: "United States"
-    followers: 29000
-    engagement: 1424
-    commentsToLikes: 0.059159
-    id: ck8w1xzuf3hnl0j78doaepps2
+    followers: 35300
+    engagement: 1869
+    commentsToLikes: 0.197684
+    id: ckb8ybkrmdo5a0j23vr28ykue
     verified: false
-    hashtags: "#hardest, #fyp, #gymnastics, #coupleschallenge"
-  - username: "dadi_djams97"
+    hashtags: "#christian, #greenscreen, #wwe, #positivity"
+  - username: "daddy_dapper"
     fullname: >-
-      Djams dadi
+      Blane
     bio: >-
-      instagram: ^djams Dadi^👆🏻 wrestler / judoka/ kick boxing 🥇🥈
-    location: "Algeria"
-    followers: 191400
-    engagement: 1255
-    commentsToLikes: 0.045874
-    id: ck83z3b3zxbu10j78xwq44wp3
-    verified: false
-    hashtags: "#algeria, #foryou, #dz, #oran"
-  - username: "heelhugz"
-    fullname: >-
-      HeelHugz
-    bio: >-
-      CEO of Don’t Reacts and Who’s that Wrestler #HeelClub and NGT Founder
+      DJ Wrestler Gym Rat 💪🏻 GA PO Box 1131 Cornelia GA 30531
     location: "United States"
-    followers: 39600
-    engagement: 1138
-    commentsToLikes: 0.061413
-    id: ckcpujpp6ppkm0j237h4jtzui
+    followers: 31000
+    engagement: 897
+    commentsToLikes: 0.080427
+    id: ckbeylwpuj2i80j234o0psjie
     verified: false
-    hashtags: "#swefury, #hugzpromo, #promobattle, #wwefan"
-  - username: "thedanielkline"
+    hashtags: "#duetwithme, #duet, #lovememode, #roadto50kfollowers"
+  - username: "kerrigan_k"
     fullname: >-
-      thedanielkline
+      Kerrigan
     bio: >-
-      Lover of Jesus ✝️ Florida ☀️ Pro Wrestler No I won’t cut my hair.
+      Former D1 Wrestler who created sweat changing apparel! Follow me for a free 👕!!
     location: "United States"
-    followers: 9605
-    engagement: 1504
-    commentsToLikes: 0.031709
-    id: cka0k7az8lcu90i786yemnf87
+    followers: 86000
+    engagement: 1769
+    commentsToLikes: 0.097126
+    id: cka8hohcubtza0i784b3lrlme
     verified: false
-    hashtags: "#music, #christian, #love, #foryou"
+    hashtags: "#wrestlers, #fyp, #wrestle, #foryou"
+  - username: "toksfale8"
+    fullname: >-
+      Toks Fale
+    bio: >-
+      Business: tokoson@hotmail.com Wrestler Speaker Entrepreneur
+    location: "New Zealand"
+    followers: 540400
+    engagement: 1577
+    commentsToLikes: 0.019188
+    id: ckc8yj7ykn1bw0j23ded1ctnz
+    verified: false
+    hashtags: "#faledojo, #motivation, #stitch, #toksfale"
   - username: "rounak_wrestler"
     fullname: >-
       Rounak Ankit Gulia
     bio: >-
       BHARAT KESARI Tiktok ban so my fans n frnds follow me on Insta @rounak_wrestler
     location: "India"
-    followers: 638600
-    engagement: 1341
-    commentsToLikes: 0.015301
+    followers: 636900
+    engagement: 1398
+    commentsToLikes: 0.013292
     id: ckb9upr0otl5g0j23ypkwtylq
     verified: false
-    hashtags: "#foryou, #foryourpage, #bollywood, #tiktok"
-  - username: "j.willy21"
+    hashtags: "#duet, #sharethecare, #crazygirl, #india"
+  - username: "tatum_brannen"
     fullname: >-
-      Jason Wilcox
+      Lil Tate
     bio: >-
-      Pnw🌲 Wrestler 🤼‍♂️ Snap: jason053503 👻 Insta: j.willy21 📸
+      Wrestler 17 years old sc : brannen_tatum Insta : brannen_tatum Skippy Fish 🐟
     location: "United States"
-    followers: 3269
-    engagement: 1732
-    commentsToLikes: 0.063389
-    id: ckavktma2tuws0j23btquyni8
+    followers: 10600
+    engagement: 2402
+    commentsToLikes: 0.032085
+    id: ckbfitcu2eyot0j23jpxordp4
     verified: false
-    hashtags: "#fy, #foryoupage, #theboys, #fyp"
+    hashtags: "#fyp, #foryou, #greenscreen, #wrestling"
 ---

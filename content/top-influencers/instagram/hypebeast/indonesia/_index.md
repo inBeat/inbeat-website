@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Indonesia In 2022
+title: Top 10 Hypebeast Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Indonesia in 2022. Most popular hashtags: #hypebeast #hypebeaststyle #indobikelifestyle #indonesia.
+  Find top hypebeast Instagram influencers in Indonesia in 2023. Most popular hashtags: #hypebeast #ootd #streetstyle #streetwear.
 platform: Instagram
-hits: 87
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 87 Instagram influencers like this in Indonesia for you to pitch.
+hits: 55
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 55 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "christianhadianto"
-    fullname: >-
-      Christian Bryan Hadianto
-    bio: >-
-      💍 @miraclejewelryid 👖 @hypebeastmiracle 🚙 @mtechexhaust Business Inquiries : Email/DM
-    location: "Indonesia"
-    followers: 26795
-    engagement: 416
-    commentsToLikes: 0.006808
-    id: ck6to9ytpcx8a0j71oz5vjadq
-    verified: false
-    hashtags: "#speedloverz, #dwp2019, #bmw, #photooftheday"
   - username: "ikamil1"
     fullname: >-
       Ibrahim Kamil
     bio: >-
       
     location: "Indonesia"
-    followers: 77000
-    engagement: 585
-    commentsToLikes: 0.025532
+    followers: 74292
+    engagement: 607
+    commentsToLikes: 0.025621
     id: ck15q96sv1pd30i19htz5bgyd
     verified: false
-    hashtags: "#nevertoolavish, #hypebeast, #urbansneakersociety, #lazadacybercombat"
-  - username: "16district"
+    hashtags: "#nevertoolavish, #hardthirteen, #aj1, #hypebeast"
+  - username: "katioma"
     fullname: >-
-      Steven Sendy
+      Oma
     bio: >-
-      20🔥
+      🇷🇺 Russia, Moscow 👟Team klekt 👟 @jordan1girls @dunksnkrs
     location: "Indonesia"
-    followers: 11314
-    engagement: 822
-    commentsToLikes: 0.047100
-    id: ck15r9i996tk20i191i3pr4ta
+    followers: 35781
+    engagement: 374
+    commentsToLikes: 0.026027
+    id: ck137cvkyawyq0i19j9l5iibw
     verified: false
-    hashtags: "#tonesbox, #wwgrams, #fatalframes, #photoshop"
-  - username: "johankriis"
-    fullname: >-
-      𝙹𝚘𝚑𝚊𝚗 𝙺𝚛𝚒𝚜
-    bio: >-
-      MAXI PILOT ⚡️ —— 💰@stupproti 💰@shopbeatbox 💰@cuansupply.id 🎗@ridingmajalengka 🎤@majalengkabeatbox ---- 📩 Dm for business ----
-    location: "Indonesia"
-    followers: 10549
-    engagement: 699
-    commentsToLikes: 0.050932
-    id: ckapbd1f3zgp00i784gdiwqxe
-    verified: false
-    hashtags: "#rucasxbimopd, #ridingmajalengka, #yamahanmax, #shoeimotegi2"
+    hashtags: "#dunkcontest, #jordan1club, #skateboard, #skateyourdunks"
   - username: "neisya_aprilia"
     fullname: >-
       Neisya aprilia
     bio: >-
-      Endorse / pp via dm admin : @robbysetiawan00 📩 📍Bandung
+      Endorse / pp via dm admin : @robbysetiawan00 📩 📍Bandung 🇮🇩
     location: "Indonesia"
-    followers: 20853
-    engagement: 686
-    commentsToLikes: 0.014078
+    followers: 20103
+    engagement: 729
+    commentsToLikes: 0.014719
     id: ck6udfbitkrfl0j71prm18afl
     verified: false
-    hashtags: "#kidsstyle, #kidsofinstagram, #kidsfashion, #fashionkids"
+    hashtags: "#hypebeaststyle, #street, #streetkekinian, #kids"
+  - username: "aldoirwnptr"
+    fullname: >-
+      Aldo Irawan
+    bio: >-
+      💽 Business inquiries : Whatsapp Business: ‪+62 815‑8535‑5702‬ Line@ ID : @xqa9949c TikTok id : @secondaldoirwnptr @aldoirwnptr_
+    location: "Indonesia"
+    followers: 13834
+    engagement: 693
+    commentsToLikes: 0.021840
+    id: ck5cjm33bv0ex0i11ngg9u0ux
+    verified: false
+    hashtags: "#fashion, #cover, #hypebeast, #bahasakalbu"
   - username: "aldiirwandi26"
     fullname: >-
       Muhamad Aldi Irwandi
     bio: >-
-      📩 : aldiirwandi123@gmail.com 📍 : +62/Jakarta
+      📩 : aldiirwandi123@gmail.com 📍 : +62/Jakarta 2nd: @aldehhh_
     location: "Indonesia"
-    followers: 5430
-    engagement: 2182
-    commentsToLikes: 0.016387
+    followers: 5377
+    engagement: 1745
+    commentsToLikes: 0.016324
     id: ck6u2h8qcrtbl0j71ccndmo3m
     verified: false
-    hashtags: "#sportbikeaddicts, #helmetlovers, #sportbikeindonesia, #cscmotospeed"
-  - username: "zidane_lazuardi"
+    hashtags: "#bikeaddict, #agvpista, #helmetindonesia, #indobikelifestyle"
+  - username: "petitenyvi"
     fullname: >-
-      ZL
+      Nyvi Stephanie
     bio: >-
-      Drone pilot, Videographer @play.indonesia - YouTube Click Link Bio ⬇️
+      • Traveller & Food enthusiast • Endorsement & inq. : DM • Owner @NVbyNyvi • SOP SUBARASHI • UTSUKUSHHII • Mark 10:27
     location: "Indonesia"
-    followers: 7905
-    engagement: 2305
-    commentsToLikes: 0.020694
-    id: ckaoqqn2rjx0k0i787h2489v0
+    followers: 50993
+    engagement: 727
+    commentsToLikes: 0.006832
+    id: ck0w007f9bqss0i197wyfwdf4
     verified: false
-    hashtags: "#yamahar25, #bandung, #cscmotospeed, #under250indo"
-  - username: "bilx_art"
+    hashtags: "#hypebeast, #styleinspo, #babyphotography, #envyroyalwedding"
+  - username: "johankriis"
     fullname: >-
-      🇧 🇮 🇱 🇽  ⷶ ͬ ͭ
+      𝙹𝚘𝚑𝚊𝚗 𝙺𝚛𝚒𝚜
     bio: >-
-      🦄Artist 💫 All art by me🌈😸 🌟🇲🇨 I N D O N E S I A 🇲🇨🌟 🦄Doodler, illustrator, realism🙀 🦄Use #bilxdoodles 🙌 🦄My talent since I was little✌🏻
+      MAXI PILOT ⚡️ —— 💰@stupproti 💰@shopbeatbox 💰@cuansupply.id 💰@cuangiveaway.id 🎗@ridingmajalengka 🎤@majalengkabeatbox ---- 📩 Dm for business ----
     location: "Indonesia"
-    followers: 8929
-    engagement: 831
-    commentsToLikes: 0.058176
-    id: ckaox9qb9cei20i78ztyshtqi
+    followers: 12327
+    engagement: 841
+    commentsToLikes: 0.109642
+    id: ckapbd1f3zgp00i784gdiwqxe
     verified: false
-    hashtags: "#astro, #flower, #pennywise, #artistsoninstagram"
-  - username: "imamturmudzi02"
+    hashtags: "#mt25modifikasi, #majalengka, #nmaxindonesia, #photoproject"
+  - username: "catur_khazae"
     fullname: >-
-      𝐈𝐦𝐚𝐦 𝐓𝐮𝐫𝐦𝐮𝐝𝐳𝐢
+      Catur_Indonesia🇲🇨
     bio: >-
-      Fashion - Travel - Lifestye - Photographer DM/Email For Business Inquiry 📩turmudii75@gmail.com 📍Jakarta 🇲🇨
+      🙇‍♂️Lokal Guide ✈️ Pilot Drone & 📸Sony & 📱Iphone 📩Bisnis for DM Mari berteman 😇
     location: "Indonesia"
-    followers: 21647
-    engagement: 292
-    commentsToLikes: 0.152284
-    id: ck15sbv6xc82h0i19xe3wbmrt
+    followers: 10562
+    engagement: 721
+    commentsToLikes: 0.323983
+    id: ck5zitqaugd0q0i14k84c4kn5
     verified: false
-    hashtags: "#hypebeaststyle, #follow, #lookbookindonesia, #menstyle"
-  - username: "firman_saksono"
+    hashtags: "#temanggung, #jogjamedia, #dolankemari, #jogjaku"
+  - username: "naishaalifiayuriiza"
     fullname: >-
-      Firman_Saksono
+      Naisa Alifia Yuriza (N.A.Y)
     bio: >-
-      🏠 Kebumen - Solo 📧 Firmansaksono@gmail.com
+      The NAY fanbase Account 🕹 Gaming 🖥 Daily Vlog 📺 NAYOFFICIAL ❤ 🇮🇩 👉 Kalo udah mampir di akun ini, difollow juga ya gaes 😉😉🤗 . . 🎯 Subscribe ⬇⬇
     location: "Indonesia"
-    followers: 5990
-    engagement: 523
-    commentsToLikes: 0.093621
-    id: ck5hj0oznfsrp0i11sxrabroq
+    followers: 10297
+    engagement: 1444
+    commentsToLikes: 0.028305
+    id: ck9woola05y4m0j78ttia1fp4
     verified: false
-    hashtags: "#4x5feed, #wonosobo, #lazyshutters, #portraitmood"
+    hashtags: "#thenaybandung, #naisafans, #thenayindonesia, #offwhitesneakers"
+  - username: "vhallah"
+    fullname: >-
+      ＶＨＡＬＬ
+    bio: >-
+      📍BALI / #35mm Travel • Menswear • Photography — CP: RISSA +6285719526234 ✉️: vhallah@gmail.com —
+    location: "Indonesia"
+    followers: 24762
+    engagement: 214
+    commentsToLikes: 0.071661
+    id: ck8sxgsvghca50j78md1u8xh6
+    verified: false
+    hashtags: "#ootd, #hsstyle, #beststreetoutfit, #minimalhouse1"
 ---

@@ -1,84 +1,96 @@
 ---
-title: Top 10 Guitar Instagram Influencers In France In 2022
+title: Top 10 Guitar Instagram Influencers In France In 2023
 description: >-
-  Find top guitar Instagram influencers in France in 2022. Most popular hashtags: #music #guitarplayer #gibsonguitar #guitarlife.
+  Find top guitar Instagram influencers in France in 2023. Most popular hashtags: #guitar #makeup #guitarist.
 platform: Instagram
-hits: 181
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 181 Instagram influencers like this in France for you to contact.
+hits: 176
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 176 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "nickhipa"
+    fullname: >-
+      Nick Hipa
+    bio: >-
+      Pretty Deece Dude Guitarist Motion Designer
+    location: "France"
+    followers: 29963
+    engagement: 1246
+    commentsToLikes: 0.048663
+    id: ck0w37lmyrzhe0i193inphxxk
+    verified: false
+    hashtags: ""
+  - username: "beanie_bailey"
+    fullname: >-
+      💐🌸Bailey🌸💐
+    bio: >-
+      💜 24 y/o 💙 Trans 🌈 💚 Paints 🎨 💛 JHS pedals🔧 🧡 Drums / Guitar / Bass ❤️ Solo Project: @rainbow__sushi
+    location: "France"
+    followers: 18725
+    engagement: 417
+    commentsToLikes: 0.060255
+    id: ckaovmksz583t0i78cnrku2g2
+    verified: false
+    hashtags: "#selfie, #glasses, #woman, #feelingcute"
   - username: "yasmine_taleb.off"
     fullname: >-
       Yasmine Taleb
     bio: >-
-      Algerienne 🇩🇿 Kabyle 😍 Chanteuse 🎤🎙❤ Guitariste 🎸🎧💕 Candidate de Alhan wa chabab 8🎶🎼 Master 2 en Anglais 📖📚 Fb👥: Yasmine Taleb ❤ Chaine Youtube ☟☟🎶♬
+      Algerienne 🇩🇿 Kabyle 😍 Chanteuse 🎤🎙❤ Guitariste 🎸🎧💕 Candidate de Alhan wa chabab 8🎼 Master 2 en Anglais 📖📚 Fb👥: Yasmine Taleb ❤ "Akken Yebghu Yili" 👇🎶
     location: "France"
-    followers: 27159
-    engagement: 551
-    commentsToLikes: 0.033834
+    followers: 28595
+    engagement: 406
+    commentsToLikes: 0.037966
     id: ck14jx57ammt90i19vic7p6sd
     verified: false
-    hashtags: "#libert, #beyou, #positivevibes, #femmekabyle"
-  - username: "guillaumemuschalle"
+    hashtags: "#bepositive, #joy, #sharemoments, #staystrong"
+  - username: "thejoestorm"
     fullname: >-
-      Guillaume Muschalle
+      Joe Hottinger
     bio: >-
-      🎸🇫🇷guitarist|filmmaker @daddarioandco @jackywalraet @chillhopmusic @dangelicony ´s Artist @solofficiel @verziclement #guitar #jazz #soul
+      Guitars, Pictures 🔴, Halestorm, and Rock N Roll. 🎉🎉 See a photo you like? Get it as a Print ⤵️
     location: "France"
-    followers: 15754
-    engagement: 372
-    commentsToLikes: 0.053466
-    id: ck136kelq6xqk0i19u90uvqu7
-    verified: false
-    hashtags: "#lickoftheday, #guitartone, #mydangelico, #talentedmusicians"
+    followers: 52825
+    engagement: 484
+    commentsToLikes: 0.014279
+    id: ck0vytky75pie0i19sgug6b13
+    verified: true
+    hashtags: "#leicam6, #ilforddelta3200, #printoftheweek, #firstoftheroll"
   - username: "whilewild"
     fullname: >-
       WhileWild
     bio: >-
       🔸Music and video producer 🎙🎬 🔹I do all my songs & videos by myself 🔸Pianist/Guitarist/Singer-Songwriter 🔹 Latest song ⤵ ➡ FLY AWAY out now!
     location: "France"
-    followers: 28170
-    engagement: 406
-    commentsToLikes: 0.042362
+    followers: 36212
+    engagement: 199
+    commentsToLikes: 0.035400
     id: ck601hth4fimg0i14lynjxqfr
     verified: false
-    hashtags: "#ramadanmubarak, #ramadan2020, #pianist, #dog"
-  - username: "thejoestorm"
+    hashtags: "#hawaiilife, #geneve, #colombia, #france"
+  - username: "binguy_qlv"
     fullname: >-
-      Joe Hottinger
+      Binguy
     bio: >-
-      Guitars, Pictures 🔴, and Rock N Roll. 🎉🎉 See a photo you like? Get it as a Print ⤵️
+      - Guitariste 🎸 - Producteur 🎹🎼👨🏾‍💻( MultiPlatinium) - Chef d’orchestre 🔈🎗 @sonymusicpubfrance
     location: "France"
-    followers: 51702
-    engagement: 369
-    commentsToLikes: 0.013524
-    id: ck0vytky75pie0i19sgug6b13
-    verified: true
-    hashtags: "#leicamp, #hasselblad500cm, #ilfordhp5, #leicam10p"
-  - username: "tatematsurifuji"
-    fullname: >-
-      tatematsurifuji
-    bio: >-
-      Pics of my personal Gibson guitars @gibsonguitar @gibsoncustom #gibsonlespaul from Japan 🇯🇵
-    location: "France"
-    followers: 8700
-    engagement: 1554
-    commentsToLikes: 0.023883
-    id: ck6ubii6p9s6k0j71lull2r3i
+    followers: 17972
+    engagement: 1008
+    commentsToLikes: 0.030271
+    id: ck6tlvemo6peb0j71h12we91u
     verified: false
-    hashtags: "#gibsonlespaul, #lespaulforum, #gibsonsofinstagram, #floor"
-  - username: "samplaysmusic_"
+    hashtags: "#ps5, #playhasnolimits"
+  - username: "charlieallenguitar"
     fullname: >-
-      Sam | Guitar Player
+      Charlie Allen
     bio: >-
-      🇫🇷 23 - French guitarist 🎸 ⚡️covers / lessons and gear 🎼 🎵 artist for @guitarpro_official | @covenantcables | @blackkatdevices 🎵
+      Guitarist. London UK. DM for lessons, sessions etc
     location: "France"
-    followers: 39244
-    engagement: 419
-    commentsToLikes: 0.040769
-    id: ck0w6238u6jwe0i19cx56g1f2
+    followers: 9146
+    engagement: 1290
+    commentsToLikes: 0.066006
+    id: ck0tyfcj7mksj0i19oim0ujki
     verified: false
-    hashtags: "#guitarras, #guitargear, #guitarshare, #bluesguitar"
+    hashtags: "#performanceiseverywhere, #guitar, #curtmanganstrings, #guitarist"
   - username: "franck_semonin"
     fullname: >-
       Franck Sémonin
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.048600
     id: ck14ipkrogl8w0i191sp81pb7
     verified: false
-    hashtags: "#sectionderecherches, #prostate, #friends, #testicule"
+    hashtags: "#testicule, #fenderstratocaster, #sectionderecherches, #tf1"
   - username: "rockloeyt"
     fullname: >-
       Rockloe
     bio: >-
-      22 yo 400K on YouTube Guitarist for @roulezjeunessemusic ▶️ "Play it fuckin' loud!" 🤘🏼
+      Chloé - 23 yo 🇫🇷 Just having fun with my guitar! Guitarist for @roulezjeunessemusic ▶️ "Play it fuckin' loud!" 🤘🏼
     location: "France"
-    followers: 100209
-    engagement: 893
-    commentsToLikes: 0.024953
+    followers: 110268
+    engagement: 879
+    commentsToLikes: 0.025123
     id: ck55p5azx9uc20i112c7c3siv
     verified: false
-    hashtags: "#vulfpeck, #letusflysolo, #lagrangesolo, #daddarioautolock"
-  - username: "rickgraham"
+    hashtags: "#daddarioautolock, #solotulesais, #lagrangesolo"
+  - username: "emanuelhedberg"
     fullname: >-
-      Rick Graham
+      Emanuel Hedberg
     bio: >-
-      📩rickgguitar@gmail.com 👇Visit my website for guitar lessons
+      ◾️ Official @lslinstruments artist ◾️ Tabs & Guitar Lessons At Patreon ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀👇
     location: "France"
-    followers: 149573
-    engagement: 351
-    commentsToLikes: 0.019519
-    id: ck0vvxt3zr93y0i19kuno990c
+    followers: 316220
+    engagement: 272
+    commentsToLikes: 0.016383
+    id: ck14jcuw1jpa00i19x1gcx7bc
     verified: false
-    hashtags: "#practice, #gram, #tbt, #blue"
-  - username: "sofieveieguitar"
-    fullname: >-
-      Sofie Veie 🎸
-    bio: >-
-      contact for gigs, tours, remote sessions: sofieveieguitar@gmail.com 📍London 🎸 Session guitarist Spotify playlist 👇👇
-    location: "France"
-    followers: 8057
-    engagement: 1091
-    commentsToLikes: 0.063248
-    id: ck9wfopovpt1o0j78u8c63z90
-    verified: false
-    hashtags: "#blackouttuesday, #dualipa, #futurenostalgia, #breakmyheart"
+    hashtags: "#lickwars, #gitarre, #guitarsdaily, #jazzblues"
 ---

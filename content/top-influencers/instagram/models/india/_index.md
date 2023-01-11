@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In India In 2022
+title: Top 10 Models Instagram Influencers In India In 2023
 description: >-
-  Find top models Instagram influencers in India in 2022. Most popular hashtags: #instagram #mumbai #keralagodsowncountry.
+  Find top models Instagram influencers in India in 2023. Most popular hashtags: #trending #fashion #viral #fashionblogger.
 platform: Instagram
-hits: 3849
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 3849 Instagram influencers like this in India for you to contact.
+hits: 2661
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 2661 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "lorenzodinatelle"
+  - username: "rj_yuvraaj"
     fullname: >-
-      Lorenzo Dinatelle 777
+      RJ Yuvraaj
     bio: >-
-      650,000+ volgers op Tiktok. 60,000 op Youtube. Model & Actor Samenwerken?: lorenzo@LJL-media.com
+      Fittest💪 | Digital Head @radioonefm95📻 | (Ex RJ) . Actor🎭 | Model🎬 | Host🎙| Artist🎨 #artist #calisthenics #creative
     location: "India"
-    followers: 144518
-    engagement: 919
-    commentsToLikes: 0.200205
-    id: ck8wf63lsf6r30j78fqoddsy2
+    followers: 59444
+    engagement: 1849
+    commentsToLikes: 0.023350
+    id: ck6tqpfl2sywy0j71t7qo6xf6
     verified: false
-    hashtags: "#hetisokeeomnietokeetezijn, #vampire, #halloween, #blackouttuesday"
-  - username: "the_ladybug____"
+    hashtags: "#amdavad, #classic, #bhavnagar, #workout"
+  - username: "niharika.sood_"
     fullname: >-
-      LadyBug
+      FASHION
     bio: >-
-      I’m just being me 🇮🇳 indian Biker model 💃🏻 #Street #style #spotlight
+      From the hills 🏔 Software Developer 💻 | Model 🎬 niharikasoodofficial@gmail.com 📍Chandigarh DM/mail for💰work
     location: "India"
-    followers: 43406
-    engagement: 3335
-    commentsToLikes: 0.106601
-    id: ck14j4o6fim2q0i197dkonn0o
+    followers: 14020
+    engagement: 719
+    commentsToLikes: 0.023055
+    id: ck0vxvnhx0ypz0i19qt1chixp
     verified: false
-    hashtags: "#ride, #rider, #bikesofinstagram, #honda"
-  - username: "mr_charmer_tejas"
+    hashtags: "#chandigarh, #fit, #justplixit, #nasa"
+  - username: "vekkey"
     fullname: >-
-      👑MR TEJA$ PANDHARE👑
+      Vekkey
     bio: >-
-      • fashion blogger | influencer 📷 • dm for callab | promotions 📩 • mr.ahmednagar top class of the fasion 2k20🏆 | • Professional Model | • ahmednagar |
+      Actor | Model | Influencer Bearded Icon of TamilNadu Best IndianBeard'16 Managed by @hashifyofficial Collabs📥vekkey@hashify.co BOI Recognized Creator
     location: "India"
-    followers: 6020
-    engagement: 3171
-    commentsToLikes: 0.156977
-    id: ck9wfpqdipyf10j78tfb8wr2k
+    followers: 70031
+    engagement: 461
+    commentsToLikes: 0.006889
+    id: ck136wy4x8nvk0i19kc97ay9z
     verified: false
-    hashtags: "#instadaily, #potrait, #swag, #fambruh"
-  - username: "_hasir_hashi_"
+    hashtags: "#mensfashion, #fifaworldcup, #chennaiinfluencer, #chennai"
+  - username: "sona_dey_official"
     fullname: >-
-      
+      Sona Dey
     bio: >-
-      SADAKATHULAI HASIR Her weirdo 🦄 Making every day magical ✨ Fashion/Model 🖤💫
+      Actor | Model | Dancer Work Hard Until Your Signature Turns to Autograph💫😊 - Any Queries - 6232770057
     location: "India"
-    followers: 3910
-    engagement: 2358
-    commentsToLikes: 0.184487
-    id: ckapboi2l0pat0i78zgty2ne9
+    followers: 4450436
+    engagement: 446
+    commentsToLikes: 0.019763
+    id: ck9hcqspvmm3j0j78190rorkp
     verified: false
-    hashtags: "#thrivandrum, #kasarago, #palkad, #culture"
-  - username: "the_sto_ned_heart_"
+    hashtags: "#viral, #trending, #reels, #padmavati"
+  - username: "lakshhmenon"
     fullname: >-
-      محمدشاميل. 
+      Lakshmi Menon🧚🏻‍♀️
     bio: >-
-      . 🏴Fashion model🌟 . ✨عدني بذلك, عِديني ألا, ـ عِدْنى إذن, لن تفعل معي 🔆 . 🦋motoaholic⚡️ . 💙photograpyicist🌈 . 💥Explorer💫 . 🎗Team..KALIYOSKI**🔫
+      Practice Gratitude! ♥️ 👑 Femina Miss India 2019 Finalist 👑 Miss South India and Miss Queen of India 2018 💫 Engineer reprogrammed to be a Model!
     location: "India"
-    followers: 5204
-    engagement: 1695
-    commentsToLikes: 0.144259
-    id: ck9hb3sn4fa700j78idb6eqc2
+    followers: 60888
+    engagement: 888
+    commentsToLikes: 0.007961
+    id: ck0w4d15wxz8t0i199hx90sm6
     verified: false
-    hashtags: "#chennai, #keralam, #thrissurgram, #keralaphotography"
-  - username: "reshy_razz"
+    hashtags: "#bbluntshinechallenge, #shinewithbblunt, #bridesofrizwan, #bridalmakeupartists"
+  - username: "realsidharthshukla"
     fullname: >-
-      Reshy Razz
+      Sidharth Shukla
     bio: >-
-      𝗡𝗲𝘄 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 Model ~ fashionate ~ explorer ~ dreamer Dress how you want to be adressed ❤️ Model @fashion_modeling_company @razzclothing2020 𝗞𝗲𝗿𝗮𝗹𝗮 🌴
+      Actor and Model . For Business Enquires: queries.sidharth@gmail.com . YouTube Channel Link:
     location: "India"
-    followers: 14145
-    engagement: 1659
-    commentsToLikes: 0.098277
-    id: ck9wipbgm3brj0j785m3gr7w3
-    verified: false
-    hashtags: ""
-  - username: "akanksha.yv"
+    followers: 4294433
+    engagement: 1718
+    commentsToLikes: 0.073292
+    id: ck5hcas99h2u00i11ktrps59d
+    verified: true
+    hashtags: "#pamperwithwow, #wowskinscienceindia, #gettheglow, #natureinspiredbeauty"
+  - username: "hamidbarkzi07"
     fullname: >-
-      Ａｋａｎｋｓｈａ 🌸
+      Hamid Barkzi
     bio: >-
-      ⚛️ Apothecary | Model | Artist | Life Enthusiast 🏆 National Record Holder 📍🇮🇳 Indian born & bred
+      25 Model & Athlete Winner- @mtvroadies Roadies Revolution 🏆 They call me the strongest underdog💪🏻 For queries- Kriti@chtrbox.com 📍- Delhi, Mumbai
     location: "India"
-    followers: 7901
-    engagement: 1370
-    commentsToLikes: 0.095451
-    id: ckaoyohieidoa0i78j7tzu3fk
+    followers: 280677
+    engagement: 1415
+    commentsToLikes: 0.004434
+    id: ck8t8sn2wlne60j78piejd277
     verified: false
-    hashtags: "#myhair, #indianinfluencer, #highbun, #longhairstyles"
-  - username: "rojmira_india"
+    hashtags: "#roadiesrevolution, #reels, #reelitfeelit, #pyaarsamundarpaar"
+  - username: "imrajatsingla"
     fullname: >-
-      Rose 🌷|rojmira|
+      Rajat Singla
     bio: >-
-      Freelance Model 🌱 Plant based Soon Jaipur DM to collaborate /invite
+      Chandigarh 🏡 🎬 Model 🏭Businessmen Dm/mail for collborations ✉️ imrajatsingla@gmail.com 👻 irajatsingla
     location: "India"
-    followers: 11307
-    engagement: 1106
-    commentsToLikes: 0.113918
-    id: ck8t9r205p16n0j78p112gy3i
+    followers: 432048
+    engagement: 214
+    commentsToLikes: 0.024364
+    id: ckf5tvydziwfz0j23xz26w1os
     verified: false
-    hashtags: "#tb, #pinkcityjaipur"
-  - username: "hussen_khan_"
+    hashtags: "#kid, #kidsofinstagram, #couplegoals, #instadaily"
+  - username: "meetbaggaa"
     fullname: >-
-      Hussen khan -حسین خان
+      MEET ARORA ♥️
     bio: >-
-      🎬 YouTuber / model Email for paid collaboration📥 📧Darkroomdm@gmail.com https://youtu.be/Eu6y9q61w44
+      Blogger | Model | Video creator Social marketing - ( @marketofmeetbaggaa ) 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐛𝐲 @baazdigitals 🦅 Ludhiana | Chandigarh | Delhi
     location: "India"
-    followers: 11967
-    engagement: 1025
-    commentsToLikes: 0.103482
-    id: ck9wp571d7uxz0j7884qln0vc
+    followers: 194003
+    engagement: 191
+    commentsToLikes: 0.010773
+    id: ckaosqdkzsmgp0i78pk14kyy4
     verified: false
-    hashtags: "#modeling, #photography, #youtuber, #india"
-  - username: "jas00_"
+    hashtags: "#beautyinfluencer, #trendingsongs, #fashioninfluencers, #fashionillustrator"
+  - username: "chathuvlogs"
     fullname: >-
-      Jas♠️
+      Chathu Silva
     bio: >-
-      ||FASHION | MODEL | INFLUENCER || 🤟🏻Dream Big DM For queries Email👇🏻 Jas.ss@outlook.com📤 MY YOUTUBE CHANNEL 👇🏻
+      Chathu Silva YouTuber | Beautician | Social Media Influencer | Plus Size Model | Entrepreneur | Food & Product Reviewer DM for collaborations
     location: "India"
-    followers: 31601
-    engagement: 794
-    commentsToLikes: 0.048297
-    id: ck9wp12w57c7r0j78wdzdezy5
+    followers: 90653
+    engagement: 134
+    commentsToLikes: 0.289315
+    id: ck134xdkfyno30i19n33h7nhu
     verified: false
-    hashtags: "#menswear, #gqinsider, #photooftheday, #indianblogger"
+    hashtags: "#curlyhair, #chathu, #chathuvlogs, #srilankan"
 ---

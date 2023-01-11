@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Indonesia In 2022
+title: Top 10 Cinema Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top cinema Instagram influencers in Indonesia in 2022. Most popular hashtags: #indonesia #photography #womeninframe #womenesia.
+  Find top cinema Instagram influencers in Indonesia in 2023. Most popular hashtags: #indovidgram #folkindonesia #exploreindonesia #indovisualgram.
 platform: Instagram
-hits: 737
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 737 Instagram influencers like this in Indonesia for you to pitch.
+hits: 655
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 655 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "mfm_ihsan"
+  - username: "ferryrusli"
     fullname: >-
-      Mfauzi M ihsan
+      Ferry Rusli
     bio: >-
-      بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - @gu_cinema 🎬 - @locatara.photo 🎬 - sentul 📍 -muhamadfauzi906@gmail.com - design graphic 👨‍💻 - smariah25♡
+      Cinematographer Godox supported by @doss.id Contact: ferryrusli@ymail.com
     location: "Indonesia"
-    followers: 6475
-    engagement: 1770
-    commentsToLikes: 0.066709
-    id: ck15sz332fjgw0i19rijp5ayq
+    followers: 24973
+    engagement: 207
+    commentsToLikes: 0.083335
+    id: ck0vxk91ezb3m0i19u0u7eqr1
     verified: false
-    hashtags: "#bogorpisan, #editorestid, #indovisualgram, #womenesia"
+    hashtags: "#kohfersuting, #erafone, #rwsmoments, #masterclassbyerafone"
   - username: "marzcheese"
     fullname: >-
-      UMAR LIE IMANUDDIN
+      UMAR LIE IMANUDDIN 🇮🇩
     bio: >-
-      𝘿𝙈 𝙛𝙤𝙧 #endorse #campaign BA of @erha.dermatology #fashion #streetstyle #menswear #photography #cinema #design #traveler #influencer #gym 📍#semarang
+      #fashion #lifestyle #streetstyle #menswear #photography #cinema #design #traveler #gym #reviewer 📍#SEMARANG 𝘿𝙈 𝙛𝙤𝙧 #endorse #paidpromote #campaign
     location: "Indonesia"
-    followers: 91928
-    engagement: 217
-    commentsToLikes: 0.355324
+    followers: 129319
+    engagement: 231
+    commentsToLikes: 0.288959
     id: ck9wgd8yuswsz0j78sz1pnpt7
     verified: false
-    hashtags: "#menwithstyle, #style, #lookbookindonesia, #travel"
+    hashtags: "#photography, #lookbookindonesia, #gingersnapbali, #bali"
   - username: "yudidatau"
     fullname: >-
       Yudi Datau.ICS
     bio: >-
       Cinematographer
     location: "Indonesia"
-    followers: 3630
-    engagement: 2286
-    commentsToLikes: 0.034332
+    followers: 4324
+    engagement: 1928
+    commentsToLikes: 0.034175
     id: ck6u0q3vbh5390j71093bbncg
     verified: false
-    hashtags: "#alexamini, #samsungnote9, #ics, #sabar"
-  - username: "kevingarrison"
+    hashtags: "#alexamini, #samsungnote9, #ics, #ayobangunsebelum"
+  - username: "khingcamweddings"
     fullname: >-
-      Kevin Garrison
+      Khingcam
     bio: >-
-      Cinematographer | Based in LA ☀️ Shooting on all 7 continents for @nomadthefilm 🌍 Alexa Mini LF + Signature Primes 🎥 Currently in Tampa, FL 🌴
+      Jamaica #1 wedding cinematographer. Getting married? book us today Page under construction 🚧 Manager & C.E.O : @khingcam
     location: "Indonesia"
-    followers: 27755
-    engagement: 448
-    commentsToLikes: 0.023784
-    id: ck135h5zg1eak0i1950hk2v4e
+    followers: 29234
+    engagement: 144
+    commentsToLikes: 0.001948
+    id: ck6tudq9nfqys0j71nqg28qgb
     verified: false
-    hashtags: "#earthday, #faroeislands, #teampixel, #ad"
-  - username: "andriu_fpv"
+    hashtags: ""
+  - username: "narasenaa"
     fullname: >-
-      Andrés Aguilera
+      Narasena
     bio: >-
-      𝗔𝗻𝗱𝗿𝗶𝘂𝗙𝗣𝗩 Professional cinematic video creator w/ FPV drones 🇪🇸 🚁🎥 DM or E-mail for business inquiries.
+      Cinematographer. Own #AlexaLF #AlexaXT Jakarta, Indonesia. @senafilms.id @senafilmstore
     location: "Indonesia"
-    followers: 240435
-    engagement: 1169
-    commentsToLikes: 0.028739
-    id: ck0ubmrqjeygk0i19u1kksrrb
+    followers: 30108
+    engagement: 762
+    commentsToLikes: 0.015701
+    id: ck5chb499qfyv0i11buaz3zgd
     verified: false
-    hashtags: "#fpvracing, #drones, #nature, #naturephotography"
-  - username: "dawerzs__athenart"
-    fullname: >-
-      🇲🇨 𝕯𝖆𝖜𝖊𝖗𝖟 𝖆𝖙𝖍𝖊𝖓𝖆  𝐕𝐄𝐍𝐆𝐄𝐀𝐍𝐂𝐄 🔰
-    bio: >-
-      Founder : 🇲🇨 @vengeance_ofportrait 📷 @whitehome_cinema 🛍️ @presetsmovie 💻 PhotoshootTutorialretouch | WORKSHOP #vengeance_ofportrait 📍NGAWI - SEMARANG
-    location: "Indonesia"
-    followers: 15876
-    engagement: 544
-    commentsToLikes: 0.241721
-    id: ckapadye3vpx50i783srkywd9
-    verified: false
-    hashtags: "#vengeanceofpotrait, #indonesia, #mood, #womeninframe"
+    hashtags: "#ri2020, #shotbysena, #eranyadji, #djiindonesia"
   - username: "ridhoalwanfahri"
     fullname: >-
       👤 Ridho Alwan Fahri
     bio: >-
-      Travel Enthusiast • • Kerja sama Dm/Hub👇 📲 08126713775 ( WA ) 📡 @shelter_production @shelter.cinema @shellterbook.id 🛸 Sewa Drone Pekanbaru •
+      Travel Enthusiast • • Kerja sama Dm/Hub👇 📲 08126713775 ( WA ) - @shelter_production - @shelter.cinema - @shellterbook.id - @pagador_team •
     location: "Indonesia"
-    followers: 20915
+    followers: 21647
     engagement: 444
-    commentsToLikes: 0.053279
+    commentsToLikes: 0.054778
     id: ck15rxgkaa6sx0i19s3ej4bhj
     verified: false
-    hashtags: "#enjoyindonesia, #pesonaaceh, #likeforlike, #agameoftones"
-  - username: "intanlatifahh"
+    hashtags: "#pesonaaceh, #gunungtalang, #fyp, #talamau"
+  - username: "mfm_ihsan"
     fullname: >-
-      Bussines Inq/Endorse. DM 📩
+      Mfauzi M ihsan
     bio: >-
-      📍Duta Antikorupsi Jateng '19 Duta Integritas Jateng ‘19 Ketua OSIS Smansapura 19/20 🎙️(musikalisasi,video cinematic,filmpendek) Sec @intanlatifah__
+      بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - @gu_cinema 🎬 - @locatara.photo 🎬 - sentul 📍 - - design graphic 👨‍💻 - smariah25♡
     location: "Indonesia"
-    followers: 24409
-    engagement: 501
-    commentsToLikes: 0.054891
-    id: ck0u6abq31hd30i19586w08qu
+    followers: 6510
+    engagement: 1081
+    commentsToLikes: 0.075408
+    id: ck15sz332fjgw0i19rijp5ayq
     verified: false
-    hashtags: "#gamisyari, #dirumahaja, #paketdatamurahtelkomsel, #puisihujan"
-  - username: "anglurselurr_"
+    hashtags: "#indovisualgram, #cinematicvideo, #womenesia, #indowomengram"
+  - username: "_dwfzr"
     fullname: >-
-      ⓅⓇⒶⓎⓄⒼⒶ ⓁⒶⓀⓈⓄⓃⓄ
+      Defa firmansyah kurniawan
     bio: >-
-      بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  ➖➖➖ 🎬 @gu_cinema 📸 #fujifilm_xseries 👣 Seneng Touring ➖➖➖ 🏬 Pakuan_University 🏡 Boegoer, Jawa Barat, Indonesia
+      Minimalist enthusiast Digital & Analog Garut ✉️:dewafajar24@gmail.com @thrifting.is.good | @lintasphotography |@lintas.cinema
     location: "Indonesia"
-    followers: 8224
-    engagement: 1371
-    commentsToLikes: 0.140541
-    id: ck0w285ayn2bs0i1990ilig3l
+    followers: 3394
+    engagement: 1630
+    commentsToLikes: 0.295434
+    id: ck5hhde0o7nh10i11m206bm95
     verified: false
-    hashtags: "#salam"
-  - username: "ferryrusli"
+    hashtags: "#sonyminimalism, #garagarainstagram, #dontstopgramming, #whpgoldenhour"
+  - username: "nvlrf"
     fullname: >-
-      Ferry Rusli
+      Naufal Rofif - 유오 가에머
     bio: >-
-      Cinematographer. Liberteam @lumixindonesia Contact: ferryrusli@ymail.com LoveForSale Trailer 👇👇👇
+      Cinematic Mood Film Freelance Videographers Commercial @moralitika
     location: "Indonesia"
-    followers: 22877
-    engagement: 258
-    commentsToLikes: 0.058784
-    id: ck0vxk91ezb3m0i19u0u7eqr1
+    followers: 3813
+    engagement: 1338
+    commentsToLikes: 0.052638
+    id: ck5q7mkk928zq0i11iabu1m8p
     verified: false
-    hashtags: "#cinematographer, #sumba, #kohfersuting, #note20ultra"
+    hashtags: "#banjarinfo, #exploreindonesia, #explorebanjar, #indovisualgram"
+  - username: "storyliterasi36"
+    fullname: >-
+      SUPPORT 50K🔵MUSIC🔵PAID PROMOTE
+    bio: >-
+      Follow Dong!!! Follow : @storyliterasi__ @storyliterasi36 @dillah038 Upload Tiap Hari🥰 🔵Cinemagram 🔵Musik 🔵Literasi INFO PP ➡️ DM
+    location: "Indonesia"
+    followers: 57833
+    engagement: 1161
+    commentsToLikes: 0.012139
+    id: ckaos6qb5qc7q0i78rtdjncz1
+    verified: false
+    hashtags: "#puisirindu, #quotesindonesia, #cinemagram, #musikindo"
 ---

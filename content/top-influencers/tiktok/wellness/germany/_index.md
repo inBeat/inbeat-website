@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness TikTok Influencers In Germany In 2022
+title: Top 10 Wellness TikTok Influencers In Germany in 2023
 description: >-
-  Find top wellness TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #foryou #viral #wellness.
+  Find top wellness TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #viral #wellness.
 platform: TikTok
 hits: 10
 text_top: Analyze the top-rated TikTok profiles on inBeat.

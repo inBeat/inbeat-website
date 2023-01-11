@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Russia In 2022
+title: Top 10 Chefs Instagram Influencers In Russia In 2023
 description: >-
-  Find top chefs Instagram influencers in Russia in 2022. Most popular hashtags: #chef #aroyd #chefstalk.
+  Find top chefs Instagram influencers in Russia in 2023. Most popular hashtags: #recipes #liketime #baking.
 platform: Instagram
-hits: 136
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 136 Instagram influencers like this in Russia for you to collaborate.
+hits: 141
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 141 Instagram influencers like this in Russia for you to connect with.
 profiles:
-  - username: "sergey_ternov"
+  - username: "tatiana_glonza"
     fullname: >-
-      Sergey Ternov
+      БЬЮТИ БОСС
     bio: >-
-      •Моя работа вдохновлять •кубок chef a’la russe •candidate Bocuse d’Or
+      Soul @bodyandsoul_niko Brain @tg.level Chef @glonza_probeautyservice Co-owner @g.bar.kherson ⠀
     location: "Russia"
-    followers: 7086
-    engagement: 780
-    commentsToLikes: 0.037427
-    id: ck6u6bt9ceoms0j71l6ywjzgk
-    verified: false
-    hashtags: "#chef, #altay, #cheflife, #corona"
-  - username: "sofka.dani"
-    fullname: >-
-      Софка и Дани
-    bio: >-
-      🛀🏻 Забавни видео концепти 📔 Најдобрите рецепти 💡Creative mastermind @tilic_d 👩🏻‍🍳 Pro Chef @sofka.kamiloska Од нашата кујна,до вашата!❤️
-    location: "Russia"
-    followers: 16776
-    engagement: 960
-    commentsToLikes: 0.086184
-    id: ckap2hj9dyuwq0i78wpsy1211
+    followers: 27575
+    engagement: 96
+    commentsToLikes: 0.133335
+    id: ck6tz2pwb79zu0j712isdvz80
     verified: false
     hashtags: ""
-  - username: "suzdalkina_olga"
-    fullname: >-
-      Olga Suzdalkina
-    bio: >-
-      Salt restaurant brand chef/MореLove bistro brand chef/Chefstable by WRF resident /Be polite to things the nature gives you The future is mindfulness💓🌈
-    location: "Russia"
-    followers: 6015
-    engagement: 332
-    commentsToLikes: 0.059674
-    id: ck55mx3e350jn0i114tbhxr71
-    verified: false
-    hashtags: "#soon, #nocomments, #focus, #consciousconsumption"
-  - username: "bhakti_vedanta_swami"
-    fullname: >-
-      Игорь Грицкевич 🇷🇺
-    bio: >-
-      🍽Шеф-повар 🗝Основатель @gastronomykrd 🚀Бренд-шеф компании Smeg по ЮФО 👌🏻Trust me, I'm a Chef
-    location: "Russia"
-    followers: 8531
-    engagement: 988
-    commentsToLikes: 0.650790
-    id: ck6udz1ikny270j71uzj0mikx
-    verified: false
-    hashtags: "#giveaway, #gritskevich"
-  - username: "artem__losev"
-    fullname: >-
-      Artem Losev
-    bio: >-
-      CHEF @mushroomsmoscow CHEF @gorynich.moscow Ведущий ТНТ «БОЛЬШОЙ ЗАВТРАК» • Losevchef@gmail.com
-    location: "Russia"
-    followers: 32408
-    engagement: 638
-    commentsToLikes: 0.050390
-    id: ck5pxx3qytahl0i11b6mc80rk
-    verified: false
-    hashtags: "#sriracha, #aroyd, #mamontcamp, #chooseadventure"
-  - username: "boris_zarkov"
-    fullname: >-
-      БОРИС ЗАРЬКОВ
-    bio: >-
-      РЕСТОРАТОР 🍽 основатель WRF @white_rabbit_family @whiterabbitmoscow @gorynich.moscow @sakhalin.moscow @selfiemoscow @chefstablewhiterabbit
-    location: "Russia"
-    followers: 58492
-    engagement: 456
-    commentsToLikes: 0.051040
-    id: ck139e0mtkuh90i1926djbfak
-    verified: true
-    hashtags: "#boriszarkov, #covid19, #themacallan, #whiterabbitfamily"
   - username: "papa_zharit"
     fullname: >-
       Aleksei Utkov
     bio: >-
       👨🏻‍🍳Chef с перчиком🌶 👦🏼 #миниchef Стёпа с 3х лет у плиты 🍓Ванильки добавить? 👇🏻Хочешь обрабатывать фото и монтировать видео, переходи по ссылке
     location: "Russia"
-    followers: 36585
-    engagement: 660
-    commentsToLikes: 0.025383
+    followers: 39200
+    engagement: 708
+    commentsToLikes: 0.066022
     id: ck6tipm1316db0j71yb0ufufe
     verified: false
     hashtags: ""
-  - username: "andreymatuha.am"
+  - username: "suzdalkina_olga"
     fullname: >-
-      Андрей Матюха
+      Olga Suzdalkina
     bio: >-
-      Chef of the year WTE south🏆 Bocuse d'Or ru 2017🥇 WACS 🥇🥈🥉 @_the_pech_ & @ugli_ugli @matuhateam Готовь так, как-будто от этого зависит твоя жизнь
+      SALT restaurant brand chef/ nutritionist/Meditation&Mindfulness teacher/The future is in connection between mind and food💓🌈
     location: "Russia"
-    followers: 14276
-    engagement: 545
-    commentsToLikes: 0.062678
-    id: ck5bz01v8q6nw0i11eg40fpyc
+    followers: 6234
+    engagement: 315
+    commentsToLikes: 0.059653
+    id: ck55mx3e350jn0i114tbhxr71
     verified: false
-    hashtags: "#matuhateam, #youtube, #matuhachef, #ugliuli"
-  - username: "evgeny_nasyrov"
+    hashtags: "#nocomments, #focus, #consciousconsumption, #addictive"
+  - username: "lisssheep"
     fullname: >-
-      Evgeny Nasyrov
+      Лиза Кузнецова | Лисшип
     bio: >-
-      Executive Chef / Moscow, Russia @igristiy_bar @tancy.food.people
+      🇷🇺 @ratemodelmanagement Model|Healthy-chef cook|Blogger |Обзоры кафе и ресторанов| #обзираемеду #lisssheephealthydiet Екатеринбург📍
     location: "Russia"
-    followers: 7727
-    engagement: 649
-    commentsToLikes: 0.053771
-    id: ck8szifsuokge0j78395pbzfh
+    followers: 43591
+    engagement: 166
+    commentsToLikes: 0.042692
+    id: ck0w211mjm4el0i1912v2qbfi
     verified: false
-    hashtags: "#foodart, #restaurant, #cooking, #foodie"
-  - username: "sidorova_valeri"
+    hashtags: "#sunkissed, #lisssheepslife, #lisssheephealthydiet, #pinkmood"
+  - username: "den_dmitriev_"
     fullname: >-
-      Сидорова Валерия
+      Denis Dmitriev
     bio: >-
-      Pastry Chef @whiterabbitmoscow Лучший кондитер года 2018 и 2019 @gqrussia Путешественница ✈️ 🌎 Bocuse d’Or Europe 2014 - “Best Commis”🏆
+      Saint-Petersburg Pastry chef @coffeeroom.sweet
     location: "Russia"
-    followers: 8602
-    engagement: 604
-    commentsToLikes: 0.021724
-    id: ck5q6uwsgywzm0i11kb4shikl
+    followers: 15969
+    engagement: 217
+    commentsToLikes: 0.022894
+    id: ck5hdv6bmpj9t0i11jhqyhin6
     verified: false
-    hashtags: "#sidorova, #chicago, #aroyd, #desert"
+    hashtags: ""
+  - username: "sofka.dani"
+    fullname: >-
+      Софка и Дани
+    bio: >-
+      🛀🏻 Забавни видео концепти 📔 Најдобрите рецепти 💡Creative mastermind @tilic_d 👩🏻‍🍳 Pro Chef @sofka.kamiloska
+    location: "Russia"
+    followers: 18338
+    engagement: 1005
+    commentsToLikes: 0.043389
+    id: ckap2hj9dyuwq0i78wpsy1211
+    verified: false
+    hashtags: ""
+  - username: "artem__losev"
+    fullname: >-
+      Artem Losev
+    bio: >-
+      CHEF @mushroomsmoscow CHEF @gorynich.moscow Ведущий ТНТ «БОЛЬШОЙ ЗАВТРАК» • Losevchef@gmail.com
+    location: "Russia"
+    followers: 32637
+    engagement: 632
+    commentsToLikes: 0.050031
+    id: ck5pxx3qytahl0i11b6mc80rk
+    verified: false
+    hashtags: "#mamontvodka, #sriracha, #aroyd, #mamontcamp"
+  - username: "bhakti_vedanta_swami"
+    fullname: >-
+      Игорь Грицкевич 🇷🇺
+    bio: >-
+      🍽Шеф-повар @reka_827 🗝Основатель @gastronomykrd 🚀Бренд-шеф компании Smeg по ЮФО 👌🏻Trust me, I'm a Chef
+    location: "Russia"
+    followers: 9083
+    engagement: 664
+    commentsToLikes: 0.266424
+    id: ck6udz1ikny270j71uzj0mikx
+    verified: false
+    hashtags: "#gritskevich"
+  - username: "pava_vb"
+    fullname: >-
+      Вадим Бжезинский Пава(Pava)
+    bio: >-
+      •Победитель @masterchefstb •Ambassador @pepsiukraine •Food blogger-2020’21 •сотрудничество(098)125 86 21 Инесса •TikTok 100k •Brand Chef @catdog_kh
+    location: "Russia"
+    followers: 282024
+    engagement: 255
+    commentsToLikes: 0.071948
+    id: ckap85cc5mw6s0i78zqlgq1mb
+    verified: true
+    hashtags: "#pava, #likeforfollow, #liketime, #pavachef"
+  - username: "mild_n"
+    fullname: >-
+      Татьяна Назарук
+    bio: >-
+      🔪 Автор сайта VkusnyBlog.ru 🔪 Бренд-шеф Favorit Catering 🔪 Ambassador Kenwood Cooking Chef 🇧🇾 🔪 Ambassador Big Green Egg 🇧🇾 Минск, Беларусь 🇧🇾
+    location: "Russia"
+    followers: 10790
+    engagement: 814
+    commentsToLikes: 0.045736
+    id: ck5cheypnqn6r0i11l2d8bbit
+    verified: false
+    hashtags: "#food, #recipes, #dinner, #vkusnyblog"
 ---

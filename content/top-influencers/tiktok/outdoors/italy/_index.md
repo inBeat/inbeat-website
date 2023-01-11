@@ -1,106 +1,106 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Italy In 2022
+title: Top 10 Outdoors TikTok Influencers In Italy In 2023
 description: >-
-  Find top outdoors TikTok influencers in Italy in 2022. Most popular hashtags: #travel #tiktoktravel #italy #italia.
+  Find top outdoors TikTok influencers in Italy in 2023. Most popular hashtags: #travel #italia #italy #sunset.
 platform: TikTok
 hits: 8
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Italy for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 8 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "dominus_dp"
+  - username: "filippobellisola"
     fullname: >-
-      DOMENICO PORFIDO
+      Filippo Bellisola
     bio: >-
-      🇮🇹 Apulian boy traveling the world 🌎 Instagram 130k dominus_dp
+      🙋🏻‍♂️ Hello! I'm an Italian Photographer Instagram @sheck
     location: "Italy"
-    followers: 15500
-    engagement: 890
-    commentsToLikes: 0.023815
-    id: ck9aardz6lq0f0j783td1zyra
+    followers: 8207
+    engagement: 1298
+    commentsToLikes: 0.030622
+    id: ck8qh5foi3ns80j78q769vxpj
     verified: false
-    hashtags: "#tiktoktravel, #italianboy, #monopoli, #apulia"
-  - username: "giuligartner"
-    fullname: >-
-      giuligartner
-    bio: >-
-      the girl with the yellow jacket from the Dolomites, Italy 🇮🇹✨ YouTube & Insta
-    location: "Italy"
-    followers: 57600
-    engagement: 902
-    commentsToLikes: 0.017428
-    id: ck8j488tq18210j78ycgwsc88
-    verified: true
-    hashtags: "#tiktoktravel, #neiperte, #travel, #photographer"
+    hashtags: "#hiking, #panorama, #tent, #alba"
   - username: "mela_fa"
     fullname: >-
       Mel
     bio: >-
       I like to travel ✈️
     location: "Italy"
-    followers: 19400
-    engagement: 514
-    commentsToLikes: 0.023317
+    followers: 19500
+    engagement: 509
+    commentsToLikes: 0.021546
     id: ckcdeh3p9654i0j23rx7zxsaa
     verified: false
-    hashtags: "#sunset, #grateful, #europe, #airplane"
-  - username: "ninjaleggendario"
+    hashtags: "#snow, #sun, #fyp, #grateful"
+  - username: "matteobusoli"
     fullname: >-
-      ninjaleggendario
+      Matteo Busoli
     bio: >-
-      un giorno senza Sorriso e' un giorno Perso Insta-Youtube 🃏 Ninjaleggendario 🃏
+      Mi piace fare viaggi e darvi consigli su di essi Sono anche su YouTube e insta
     location: "Italy"
-    followers: 2446
-    engagement: 610
-    commentsToLikes: 0.105671
-    id: ckdi8bhq0apqa0j23p5qncdim
+    followers: 26800
+    engagement: 680
+    commentsToLikes: 0.166537
+    id: cka61etlxv49t0i780rhty4lo
     verified: false
-    hashtags: "#vegeta, #akiratoriama, #duetto"
+    hashtags: "#italia, #skiing, #turismo, #outdoor"
   - username: "metvideo"
     fullname: >-
       metvideo
     bio: >-
       🌲Insta 10K @metvideo🌲 📽️Videomaker/photographer 🚀YOUTUBE 👇👇👇
     location: "Italy"
-    followers: 19500
-    engagement: 870
-    commentsToLikes: 0.028986
+    followers: 19200
+    engagement: 814
+    commentsToLikes: 0.034593
     id: cka0y8v7aadw70i78pwdl2kxm
     verified: false
-    hashtags: "#fotografocheck, #fotografo, #traveltok, #natura"
+    hashtags: "#trentinoaltoadige, #mountain, #freeride, #explorer"
   - username: "luigichiurchi"
     fullname: >-
       Luigi Chiurchi
     bio: >-
       • Art director • Filmmaker •Photographer • Founder @tripinyourshoes 🏕
     location: "Italy"
-    followers: 3767
-    engagement: 725
-    commentsToLikes: 0.010571
+    followers: 4378
+    engagement: 650
+    commentsToLikes: 0.010609
     id: cka6e75lqang20i78113e1tn1
     verified: false
-    hashtags: "#italy, #viral, #sunset, #mexico"
-  - username: "gionata_triplaa_system"
+    hashtags: "#travellife, #outdoor, #nature, #tiktoktravel"
+  - username: "giuligartner"
     fullname: >-
-      Gionata Raffaelli
+      giuligartner
     bio: >-
-      Esperto di fitness creatore del metodo TRIPLA A SYSTEM. ▶️ Aggiungimi su IG
+      I travel and take photos for a living
     location: "Italy"
-    followers: 76300
-    engagement: 371
-    commentsToLikes: 0.073279
-    id: ckc7zjtwv18ub0j23jef9xqv6
-    verified: false
-    hashtags: "#perte, #upperbodyworkout, #fitnesstrainer, #bodytransformation"
+    followers: 62800
+    engagement: 905
+    commentsToLikes: 0.018287
+    id: ck8j488tq18210j78ycgwsc88
+    verified: true
+    hashtags: "#tiktokitalia, #tiktoktravel, #viaggiare, #portugal"
   - username: "iduevagamondi"
     fullname: >-
       iduevagamondi
     bio: >-
       Simone & Romina behind the scenes ig @simone.mondino @iduevagamondi @_glacey_
     location: "Italy"
-    followers: 6640
-    engagement: 465
-    commentsToLikes: 0.013085
+    followers: 6535
+    engagement: 489
+    commentsToLikes: 0.012840
     id: ck81qwpnzkj4r0j78dl834gv4
     verified: false
-    hashtags: "#imparacontiktok, #photographer, #iduevagamondi, #doubleyourimpact"
+    hashtags: "#iknowiknow, #imparacontiktok, #patagonia, #followtheleader"
+  - username: "elisabettafarfalla3"
+    fullname: >-
+      Elisabetta Farfalla
+    bio: >-
+      Stato confusionale, non collaborante. 🦋👑 👩🏻‍⚕️
+    location: "Italy"
+    followers: 4299
+    engagement: 416
+    commentsToLikes: 0.011364
+    id: cka8747vg5b7q0i78wh3bs7fi
+    verified: false
+    hashtags: "#nonnonanni, #nonno90, #perte, #nonno"
 ---

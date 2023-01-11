@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in 2022. Most popular hashtags: #portrait #artlovers #portraitdrawing.
+  Find top graphic-designers Instagram influencers in 2023. Most popular hashtags: #photoshoot #streetstyle #love.
 platform: Instagram
-hits: 1573
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 1573 Instagram influencers like this for you to pitch.
+hits: 1333
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 1333 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "belenapar"
+  - username: "lucypug"
     fullname: >-
-      Belén Aparicio
+      Lucy
     bio: >-
-      🔸Graphic Designer, Illustrator, Creative 🔸Photography/Travel/Lifestyle 🔸Mis ilustraciones en @belenaparte 📍Madrid ✈️ 22 countries
-    location: "Spain"
-    followers: 6135
-    engagement: 1264
-    commentsToLikes: 0.145096
-    id: ck14grpdg6ot40i19ygsoaeuq
+      🦋 be creARTive 🤍graphic designer & owner @ohmydogsk @petitelucyworld @liliminipug 📧 thelucypug@gmail.com
+    location: ""
+    followers: 782582
+    engagement: 297
+    commentsToLikes: 0.024281
+    id: ck5q9n590bykp0i11emns4aki
     verified: false
-    hashtags: "#madriz, #madridmadrid, #hellofrom, #travellingthroughtheworld"
+    hashtags: "#barter, #outfitofthenight, #sunsetlover, #lorealparis"
+  - username: "intedismind"
+    fullname: >-
+      Tedi 🪐 | FREELANCER
+    bio: >-
+      Workaholic. Graphic Designer. Marketer. 20 years. 🌿Vegetarian | Plantaholic |📚|🌙| ♻️ Naturally introverted, selectively extroverted 📍Bucharest, RO
+    location: "United States"
+    followers: 10317
+    engagement: 1166
+    commentsToLikes: 0.097137
+    id: ck0vva2xmo7qv0i19ht4k55sn
+    verified: false
+    hashtags: "#giveawaytime, #instagood, #selfdevelopment, #bucharest"
+  - username: "marinallorca"
+    fullname: >-
+      Marina Llorca
+    bio: >-
+      📍Marbella • Madrid 🙋🏻‍♀️ Graphic Designer • Fashion 💌 marinallorcablog@gmail.com • @blvrd22agency ⇩MORE⇩
+    location: "Spain"
+    followers: 214757
+    engagement: 979
+    commentsToLikes: 0.105493
+    id: ck5btzgp9gw5u0i11qknwznfe
+    verified: true
+    hashtags: "#villanasdisneyurbanas, #hm, #hmxme, #8demarzo"
+  - username: "mrezababaei_photography"
+    fullname: >-
+      ▪️Mohammad Reza Babaei
+    bio: >-
+      📍Portrait ○○○ Fashion ○○○ Beauty ●●●●●●●●●●●●●●●●●●●●●●●●● Photograoher / Graphic Designer 📥 Dc For Work 📸 Tehran 📍
+    location: "Italy"
+    followers: 16075
+    engagement: 809
+    commentsToLikes: 0.110676
+    id: ck9wh0p3gvprk0j78ozld95x7
+    verified: false
+    hashtags: ""
   - username: "jasminecjonas"
     fullname: >-
       Jasmine Cecilia Jonas
     bio: >-
-      👋🏽✨ Blogger • Social Media Consultant • Graphic Designer • Public Speaker • Avid Iced Latte Drinker hello@jasminececiliajonas.com
-    location: "United Kingdom"
-    followers: 29688
-    engagement: 665
-    commentsToLikes: 0.080318
+      👋🏽✨ Blogger • Social Media Consultant • Graphic Designer hello@jasminececiliajonas.com
+    location: "United States"
+    followers: 27558
+    engagement: 708
+    commentsToLikes: 0.081322
     id: ck0vyitz747lf0i19jw08pqwr
     verified: false
-    hashtags: "#imwearingri, #topshopstyle, #topshopgirls"
+    hashtags: "#topshopgirls, #imwearingri, #topshopstyle"
   - username: "orhandoganer.artstudio"
     fullname: >-
       Orhan Doganer
     bio: >-
       Graphic designer - Photographer - Painter - Instructor Karate Istanbul/ Turkey
     location: "Turkey"
-    followers: 2614
-    engagement: 3709
-    commentsToLikes: 0.109500
+    followers: 2608
+    engagement: 3967
+    commentsToLikes: 0.107388
     id: ckaovg7y44hru0i78e3u55rit
     verified: false
-    hashtags: "#pencildrawings, #pencilportrait, #drawingoftheday, #artgallery"
+    hashtags: "#pencils, #artgallery, #drawing, #blackpencil"
   - username: "amberbjel"
     fullname: >-
       Amber Bjel
     bio: >-
       🇵🇭+🇸🇰 🖥 Graphic Designer 💃🏻 My closet is 99% thrifted 🏠 Code AMBERB for $250 off @avantstay
     location: "United States"
-    followers: 8220
-    engagement: 1189
-    commentsToLikes: 0.199875
+    followers: 7678
+    engagement: 1140
+    commentsToLikes: 0.153603
     id: ckf5wbm3criul0j23jaz58ilg
     verified: false
-    hashtags: "#supportblackownedbusinesses, #nojusticenopeace, #ripsummer2020"
-  - username: "kathy_vu"
+    hashtags: "#supportblackownedbusinesses, #nojusticenopeace, #ripsummer2020, #feeling22"
+  - username: "keyvanfeizi"
     fullname: >-
-      𝐤 𝐚 𝐭 𝐡 𝐲  𝐯 𝐮  //  CREATIVE
+      Keyvan Feizi  |  کیوان فیضی
     bio: >-
-      vietnamese, she/her » photographer + graphic designer + content creator » 𝕟𝕖𝕩𝕥 𝕤𝕥𝕠𝕡 ⤃ TBA ☆ ——— business inquiries » kvthyvu@gmail.com 💌
-    location: "United States"
-    followers: 18876
-    engagement: 724
-    commentsToLikes: 0.077364
-    id: ck135xsyp3s230i19s7fy9wkm
-    verified: false
-    hashtags: "#tblcollection, #ad, #oatmilkeverything, #laneigegiftedme"
-  - username: "shootquality"
-    fullname: >-
-      S H O O T Q U A L I T Y 📸
-    bio: >-
-      𝐈𝐕𝐀𝐍 ⚡️⚡️ 𝕱𝖎𝖑𝖒𝖒𝖆𝖐𝖊𝖗 📽 Graphic Designer 🖥 work 📥 & 📩 @ivann_sevilla #shootquality apps edits ⬇️
-    location: "France"
-    followers: 132511
-    engagement: 1969
-    commentsToLikes: 0.030400
-    id: ck6trap7gxwad0j71xh60gszb
-    verified: false
-    hashtags: "#bleachmyfilm, #kdpeoplegallery, #moodyports, #portrait"
-  - username: "_sheidabarati_"
-    fullname: >-
-      sheida
-    bio: >-
-      ‏ Graphic designer Every failure that does not kill me makes me stronger ‏
+      نیمْ‌چه/کارگَـــردانْ•بـازیگَــر•‌‌گِرافیســتْ Director•Actor•Graphicdesigner اَز‌قَبیله‌ی‌نَجیبِ‌لُرْ•بِهشْ‌میگنْ‌عآموکِیْوان
     location: "Iran"
-    followers: 5355
-    engagement: 1793
-    commentsToLikes: 0.073190
-    id: ck9whvikezo3k0j78so8twagm
+    followers: 2636
+    engagement: 2045
+    commentsToLikes: 0.133935
+    id: ck5zw2qeo5d5x0i140h7ixy4p
+    verified: false
+    hashtags: "#keyvanfeizi, #k1feizi, #keyvan, #crow"
+  - username: "samaneh_golkar"
+    fullname: >-
+      samanehgolkar
+    bio: >-
+      Graphic designer Musician Percussionist ✨🥁✨ #samaneh_golkar #سمانه_گلکار
+    location: "Iran"
+    followers: 37288
+    engagement: 1217
+    commentsToLikes: 0.039890
+    id: ck6u4vmii61rz0j71b3cts0t8
+    verified: false
+    hashtags: "#percussion, #handpan, #tonbak, #hangdrum"
+  - username: "lenavanguk"
+    fullname: >-
+      
+    bio: >-
+      Saint-Petersburg Blogger & graphic designer Barter, advertising / сотрудничество, реклама - direct 📩
+    location: "Russia"
+    followers: 11331
+    engagement: 1261
+    commentsToLikes: 0.059139
+    id: ck8tajr2rs23n0j78yiyk79lt
     verified: false
     hashtags: ""
-  - username: "martinhagomez"
-    fullname: >-
-      Martinha Gomez
-    bio: >-
-      💄Portuguese Blogger & Youtuber 💄 🖌️Graphic Designer |📍Lisbon ▪️Mother of 🐈🐈🐕 . Collabs ✉️ Insta.martinhagomez@gmail.com .
-    location: "Portugal"
-    followers: 28732
-    engagement: 573
-    commentsToLikes: 0.265003
-    id: ck0tybj33marc0i19b7w37ha9
-    verified: false
-    hashtags: "#fridayloveday, #novidade, #playa, #verao2020"
-  - username: "mafercuriiel"
-    fullname: >-
-      m a f f i  c u r i e l
-    bio: >-
-      ✨chilanga de sonrisa y chinos bonitos✨ pura b u e n a v i b r a 💖 cdmx 📍 graphic designer 👩🏻‍💻 @mafercuriiel everywhere 💫 contacto - collabs 📩
-    location: "Mexico"
-    followers: 33310
-    engagement: 503
-    commentsToLikes: 0.059921
-    id: ck15pkh3aybtg0i19zmy9nxm1
-    verified: false
-    hashtags: "#nerdoff, #buenfin, #cyamoda, #rebajascya"
-  - username: "red_infected"
-    fullname: >-
-      AACHU 👑
-    bio: >-
-      Professional Graphic Designer Trivandrum 💫 Bangalore MOTOHOLIC || MM93 ❤️ Adrenaline junkie 🌀 Not an EXPERT rider 🙉 Powered by @mypulsarofficial
-    location: "United States"
-    followers: 7996
-    engagement: 1637
-    commentsToLikes: 0.052846
-    id: ck6u2d966r55m0j7158f23w12
-    verified: false
-    hashtags: "#xbhp, #bikefamily, #wheelie, #picoftheday"
 ---

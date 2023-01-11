@@ -1,96 +1,108 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Melbourne In 2022
+title: Top 10 Vegan TikTok Influencers In Melbourne In 2023
 description: >-
-  Find top vegan TikTok influencers in Melbourne in 2022. Most popular hashtags: #vegan #fyp #australia #melbourne.
+  Find top vegan TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #australia #vegan.
 platform: TikTok
 hits: 7
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 7 TikTok influencers like this in Melbourne, Australia for you to connect with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 7 TikTok influencers like this in Melbourne, Australia for you to pitch.
 profiles:
-  - username: "rupinder.singh05"
+  - username: "ava_rawrr"
     fullname: >-
-      Rupinder.Singh
+      Dane/Ava
     bio: >-
-      #Vegan Bodybuilder #folk & Rock Bhangra Academy 🇦🇺 Snap- rupinder009
+      RawRr 🦕
     location: "Australia"
-    followers: 9563
-    engagement: 643
-    commentsToLikes: 0.047712
-    id: ckbvvpt6yu0150j233vfel1gk
+    followers: 11500
+    engagement: 1522
+    commentsToLikes: 0.064516
+    id: ck964o5znzhcm0j78x1cbj6qn
     verified: false
-    hashtags: "#bhangra, #gymlover, #sardari, #punjabi"
-  - username: "cocomelllll"
-    fullname: >-
-      Melissa
-    bio: >-
-      Melbourne / Aus ✨🍃 Oh well, whatever, never mind I make stuff ⬇️
-    location: "Australia"
-    followers: 8302
-    engagement: 732
-    commentsToLikes: 0.021088
-    id: ckbksljo1ndre0j239bhz9fci
-    verified: false
-    hashtags: "#flowers, #resin, #resinart, #fyp"
-  - username: "fake.treats"
-    fullname: >-
-      Fake Treats
-    bio: >-
-      Vegan | Cruelty-Free The Beauty Pamper Store AUS MADE 10% OFF WITH CODE: TIKTOK
-    location: "Australia"
-    followers: 62300
-    engagement: 666
-    commentsToLikes: 0.005534
-    id: ckcj2o3iu4ff60j23yreoabx6
-    verified: false
-    hashtags: "#australia, #bath, #beauty, #satisfying"
-  - username: "vganbooty"
-    fullname: >-
-      vganbooty
-    bio: >-
-      Tash Peterson Watch Dominion on YouTube how to go vegan ⬇️
-    location: "Australia"
-    followers: 131600
-    engagement: 1017
-    commentsToLikes: 0.219314
-    id: ckce5fjlsk1vq0j23voj7vv0l
-    verified: false
-    hashtags: "#yougotthis, #happyhalloween, #meleaving, #gaminglife"
-  - username: "renesarahlim"
-    fullname: >-
-      Renée Sarah Lim
-    bio: >-
-      Australian Asian who speaks Spanish Self-improvement tips 🇦🇺
-    location: "Australia"
-    followers: 6834
-    engagement: 879
-    commentsToLikes: 0.020431
-    id: ckd0bhqpjccue0j23812g25b3
-    verified: false
-    hashtags: "#read, #motivation, #health, #lockdown"
-  - username: "cassiecrowthertravels"
-    fullname: >-
-      Cassie Crowther
-    bio: >-
-      ✨Travel inspo & tips 📍Currently Sunshine Coast #Australia Insta: cassiecrowther
-    location: "Australia"
-    followers: 7970
-    engagement: 825
-    commentsToLikes: 0.022039
-    id: ckdnnejb6jylh0j23w3uk0146
-    verified: false
-    hashtags: "#newzealand, #travelwithme, #bucketlistvacations, #noosa"
+    hashtags: "#fortnite, #fyp, #foru, #australia"
   - username: "dahliafoo"
     fullname: >-
       Dahlia Foo
     bio: >-
       seal researcher and more!
     location: "Australia"
-    followers: 6239
-    engagement: 656
-    commentsToLikes: 0.013316
+    followers: 6193
+    engagement: 632
+    commentsToLikes: 0.012522
     id: ckai2ufghhaz30i78wawjljhf
     verified: false
-    hashtags: "#hobart, #australia, #foryou, #fyp"
+    hashtags: "#foryou, #newzealand, #fyp, #hobart"
+  - username: "cassiecrowthertravels"
+    fullname: >-
+      Cassie Crowther
+    bio: >-
+      Sunshine Coast #Australia
+    location: "Australia"
+    followers: 7642
+    engagement: 564
+    commentsToLikes: 0.023438
+    id: ckdnnejb6jylh0j23w3uk0146
+    verified: false
+    hashtags: "#bucketlist, #newzealand, #noosa, #bucketlistvacations"
+  - username: "rupinder.singh05"
+    fullname: >-
+      Rupinder.Singh
+    bio: >-
+      #Vegan Bodybuilder #folk & Rock Bhangra Academy 🇦🇺 Snap- rupinder009
+    location: "Australia"
+    followers: 9553
+    engagement: 639
+    commentsToLikes: 0.046623
+    id: ckbvvpt6yu0150j233vfel1gk
+    verified: false
+    hashtags: "#gymlover, #sardari, #folk, #punjabi"
+  - username: "cocomelllll"
+    fullname: >-
+      Melissa
+    bio: >-
+      Melbourne / Aus ✨🍃 Oh well, whatever, never mind
+    location: "Australia"
+    followers: 8409
+    engagement: 706
+    commentsToLikes: 0.020461
+    id: ckbksljo1ndre0j239bhz9fci
+    verified: false
+    hashtags: "#melbourne, #resin, #flowers, #fyp"
+  - username: "fake.treats"
+    fullname: >-
+      Fake Treats
+    bio: >-
+      Vegan | Cruelty-Free The Beauty Pamper Store AUS MADE 10% OFF WITH CODE: TIKTOK
+    location: "Australia"
+    followers: 61500
+    engagement: 594
+    commentsToLikes: 0.012857
+    id: ckcj2o3iu4ff60j23yreoabx6
+    verified: false
+    hashtags: "#foryou, #beautyblogger, #supportsmall, #faketreats"
+  - username: "renesarahlim"
+    fullname: >-
+      Renée Sarah Lim
+    bio: >-
+      Australian Asian who speaks Spanish Self-improvement tips 🇦🇺
+    location: "Australia"
+    followers: 6779
+    engagement: 793
+    commentsToLikes: 0.019988
+    id: ckd0bhqpjccue0j23812g25b3
+    verified: false
+    hashtags: "#learnontiktok, #selfdevelopment, #quarantine, #fyp"
+  - username: "llilipuff"
+    fullname: >-
+      💜lili💖
+    bio: >-
+      vegan h03 from AUS with lots of animals 🇦🇺 🔞+ links below 🥰
+    location: "Australia"
+    followers: 53600
+    engagement: 1849
+    commentsToLikes: 0.032744
+    id: ckbqnk6om8f9i0j23ek4y4gx4
+    verified: false
+    hashtags: "#ourchickens, #shrek, #werkingthesehashtags, #largenotesonly"
   - username: "sustainable.eating"
     fullname: >-
       zero waste foodie ✨
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.068752
     id: ck8fb23yn559y0j783l1z9r29
     verified: false
-    hashtags: "#fyp, #blm, #healthy, #food"
-  - username: "vganbooty"
-    fullname: >-
-      vganbooty
-    bio: >-
-      Tash Peterson Watch Dominion on YouTube how to go vegan ⬇️
-    location: "Australia"
-    followers: 131600
-    engagement: 1017
-    commentsToLikes: 0.219314
-    id: ckce5fjlsk1vq0j23voj7vv0l
-    verified: false
-    hashtags: "#yougotthis, #happyhalloween, #meleaving, #gaminglife"
+    hashtags: "#blm, #whatieatinaday, #healthy, #gym"
   - username: "angiekaran"
     fullname: >-
       Angie KaranⓋ🌱
     bio: >-
-      Ethical Vegan/A/RightsActivist🌱 Respect Nature/Animals Live Life Simply ((🕉))
+      Compassion for animals💚 🌏☮🙏🏻 Vegan🌱 Live Life Simply ((🕉))
     location: "Australia"
-    followers: 36300
-    engagement: 969
-    commentsToLikes: 1.349006
+    followers: 37900
+    engagement: 874
+    commentsToLikes: 1.686844
     id: ckbktjk5morbl0j23ezpidiie
     verified: false
-    hashtags: "#quote, #bekindtoanimals, #thefutureisvegan, #vegantruth"
+    hashtags: "#toinspire, #animals, #plantbased, #meateaters"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Lisbon In 2022
+title: Top 10 Health Instagram Influencers In Lisbon In 2023
 description: >-
-  Find top health Instagram influencers in Lisbon in 2022. Most popular hashtags: #portugal #nature #lisboa #sunset.
+  Find top health Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #pub #healthy #motivation.
 platform: Instagram
-hits: 20
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 20 Instagram influencers like this in Lisbon, Portugal for you to contact.
+hits: 5
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 5 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
 profiles:
-  - username: "joanamoreira_makeup"
-    fullname: >-
-      Joana Moreira_makeup
-    bio: >-
-      Beauty Makeup Artist 🇵🇹// Lisbon Celebrity / Beauty / Campaign / Brides Tutoriais aos Sábados 🙌🏼
-    location: "Portugal"
-    followers: 25130
-    engagement: 434
-    commentsToLikes: 0.122618
-    id: ck9h9qk9x9kew0j78npxs9q1j
-    verified: false
-    hashtags: "#makeuplisbon, #makeupartistlisbon, #makeupportugal, #makeuplisboa"
-  - username: "diogorcarrilho"
-    fullname: >-
-      Diogo Carrilho
-    bio: >-
-      Design, style and travel! 🌴 Collabs send DM 👊🏽 diogo_karrilho@hotmail.com 📩 @digs__design 📍lisbon
-    location: "Portugal"
-    followers: 14154
-    engagement: 506
-    commentsToLikes: 0.004993
-    id: ck8t6cxj8d5870j78q2eg4tc7
-    verified: false
-    hashtags: "#lisboa, #photo, #visitportugal, #nature"
-  - username: "filipacortezfaria"
-    fullname: >-
-      Filipa Cortez Faria
-    bio: >-
-      Lifestyle & Nutrition Nutricionista 0586N Consultas: 218438920/963934639 Founder & Creator of Dieta3Passos PhD Student | MSc Public Health
-    location: "Portugal"
-    followers: 23887
-    engagement: 194
-    commentsToLikes: 0.016555
-    id: ckaor1wxildd70i786tf6nho2
-    verified: false
-    hashtags: "#milos, #filipacortezfaria, #greece, #algarve"
-  - username: "marina.belun"
-    fullname: >-
-      Marina Belun - Content Creator
-    bio: >-
-      👩🏽‍💻 Designer @moonmagicjewelry 📸 #videographer 🌎 #Traveladdicted 📍 Lisbon
-    location: "Portugal"
-    followers: 7090
-    engagement: 473
-    commentsToLikes: 0.049261
-    id: ck5hp973hqyok0i11chy9wfod
-    verified: false
-    hashtags: "#comewithme, #inspiration, #explore, #travel"
-  - username: "barbaraduartz"
-    fullname: >-
-      BÁRBARA DUARTE✨
-    bio: >-
-      FITNESS & LIFESTYLE 🇵🇹 Be Yourself. Be Free.🦋 🗻 From Azores 💄Makeup Lover 🌐@zumub: BARBARA10
-    location: "Portugal"
-    followers: 5207
-    engagement: 1185
-    commentsToLikes: 0.040490
-    id: ckaoy4a4nfzym0i78lm1h1v1o
-    verified: false
-    hashtags: "#influencer, #portugal, #gymgear, #influencerstyle"
   - username: "nunoferreirapires"
     fullname: >-
       Nuno Ferreira Pires
     bio: >-
       C.E.O. SPORT•TV ▶️ great leaders give people something to believe in, not something to do
     location: "Portugal"
-    followers: 4496
-    engagement: 1163
-    commentsToLikes: 0.068288
+    followers: 4789
+    engagement: 1179
+    commentsToLikes: 0.082494
     id: ck5hdt970p9bf0i11wbozazzu
     verified: false
-    hashtags: "#cantskipportugal, #celebration, #nunoferreirapires, #me"
-  - username: "alexmoraisoff"
+    hashtags: "#sporttv, #peace, #god, #health"
+  - username: "rafaelaalexandra0"
     fullname: >-
-      Alexandre 🇪🇺
+      Rafaela Duarte | Healthy 💫
     bio: >-
-      @centralmodels 🇵🇹 Ambassador of @cabelopantene Shanti 🕊
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
     location: "Portugal"
-    followers: 5925
-    engagement: 1521
-    commentsToLikes: 0.028498
-    id: ck5pxx48stakv0i11ihxacllg
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#centralmodels, #fashionstyle, #levis, #outfit"
-  - username: "nescp"
-    fullname: >-
-      Inês Costa Pereira
-    bio: >-
-      🌱 Vegetarian, Health & Lifestyle 🌟 📍 Lisboa, Portugal 🛍 Compra a minha roupa @nescpcloset 🎥 YouTube +23k 🎓 Gestão de Marketing
-    location: "Portugal"
-    followers: 13731
-    engagement: 2018
-    commentsToLikes: 0.105267
-    id: ck6012z18eqtz0i14zh0znn8z
-    verified: false
-    hashtags: "#sorteio, #giveaway, #pub, #girlsgoneloavies"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
   - username: "alicetrewinnard"
     fullname: >-
       Alice Trewinnard
     bio: >-
-      From Lisbon, Portugal Fashion, beauty & healthy living Represented by @Notable.pt ALICE TREWINNARD X CATA VASSALO SHOP NOW!
+      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
     location: "Portugal"
-    followers: 250312
-    engagement: 872
-    commentsToLikes: 0.091161
+    followers: 269425
+    engagement: 1129
+    commentsToLikes: 0.006114
     id: ck134v13sybqz0i19a00owtxx
     verified: true
-    hashtags: "#cas, #portugal, #lorealparispub, #wells"
-  - username: "misscasimiro"
+    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+  - username: "andrechaica"
     fullname: >-
-      Mädchen
+      André Chaíça
     bio: >-
-      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
+      Lisbon based, PT Content creator & social media manager ✉️ andrechaica@wowmeagency.com Edit like me 𖦝
     location: "Portugal"
-    followers: 9604
-    engagement: 1786
-    commentsToLikes: 0.066591
-    id: ck9hb1xoaf15l0j789k7x4783
+    followers: 40546
+    engagement: 299
+    commentsToLikes: 0.103972
+    id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
+    hashtags: "#eattheseasons, #livingdestinations, #homemadefood, #ootd"
+  - username: "zeblackturboofficial"
+    fullname: >-
+      Zé Preto
+    bio: >-
+      🥇World records front lever🥇 🦍 inhumam power ▪️🇨🇻🇵🇹🇺🇲50 years old and still crazy af ◾100% natural strength💪 ◾the strongest core in the world 👽
+    location: "Portugal"
+    followers: 76442
+    engagement: 442
+    commentsToLikes: 0.046478
+    id: ck6tulw93h34k0j71i5ndwdae
+    verified: false
+    hashtags: "#beast, #oldschool, #california, #crossfit"
+  - username: "tothepointenutrition"
+    fullname: >-
+      Dance Nutritionist Rachel Fine
+    bio: >-
+      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
+    location: "Portugal"
+    followers: 37160
+    engagement: 204
+    commentsToLikes: 0.012168
+    id: ck6tkfn344lx00j714kteow87
+    verified: false
+    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+  - username: "xxsweetcharlottexx"
+    fullname: >-
+      Charlotte Marie
+    bio: >-
+      Travel || lifestyle || Health My own boss ❀ Self love ♥ Dutch/Portuguese ☾
+    location: "Portugal"
+    followers: 16783
+    engagement: 396
+    commentsToLikes: 0.210320
+    id: ck0tvkfc9brae0i19kemqpu58
+    verified: false
+    hashtags: "#dutchie, #selflovefirst, #fitgirls, #solotravels"
+  - username: "alicetrewinnard"
+    fullname: >-
+      Alice Trewinnard
+    bio: >-
+      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
+    location: "Portugal"
+    followers: 269425
+    engagement: 1129
+    commentsToLikes: 0.006114
+    id: ck134v13sybqz0i19a00owtxx
+    verified: true
+    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+  - username: "alannimal16"
+    fullname: >-
+      Ａｌａｎｎａ  M a r i a
+    bio: >-
+      OR 👩🏻‍⚕️💉 CF Games Team 17’ ⚒🖤 5x CF Regionals @xendurance @fitcoveraustralia : code ALANNA Inspiring others through an active & healthy lifestyle
+    location: "Portugal"
+    followers: 11858
+    engagement: 482
+    commentsToLikes: 0.027615
+    id: ck5hmt3xpmkpp0i119lcb9hy8
+    verified: false
+    hashtags: "#crossfitgames, #roamtheplanet, #workoutplans, #hiitworkout"
+  - username: "joanatelesrtp"
+    fullname: >-
+      Joana Teles 🧿
+    bio: >-
+      TV. Host | Brand Owner — www.bbme.pt — Health & nature lover 🧘🏼🍃 Agente: miguel@brain.com.pt
+    location: "Portugal"
+    followers: 99966
+    engagement: 145
+    commentsToLikes: 0.058160
+    id: ck0w6s8b9a1oq0i19u4ud8d6d
+    verified: true
+    hashtags: "#kerastase, #pub, #giveaway, #sensilis"
 ---

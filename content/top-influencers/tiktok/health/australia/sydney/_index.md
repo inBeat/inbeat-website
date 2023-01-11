@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Sydney In 2022
+title: Top 10 Health TikTok Influencers In Sydney In 2023
 description: >-
-  Find top health TikTok influencers in Sydney in 2022. Most popular hashtags: #sydney #fyp #foryou #foryoupage.
+  Find top health TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #sydney #foryou #foryoupage.
 platform: TikTok
 hits: 12
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 12 TikTok influencers like this in Sydney, Australia for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 12 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "tik_dox"
+  - username: "apreldiana"
     fullname: >-
-      mathewt_piukala
+      Diana Kostenko 
     bio: >-
-      Christian, Tongan, SYD - Central coast 😊
+      IG ; diana.kostenko.official Snapchat ; dkostenko88 Sydney, Australia
     location: "Australia"
-    followers: 15400
-    engagement: 1039
-    commentsToLikes: 0.052945
-    id: ck81qq6vxix990j786b1zoe3p
+    followers: 11400
+    engagement: 239
+    commentsToLikes: 0.031872
+    id: ckbffu4i5aq5q0j236gty6bbu
     verified: false
-    hashtags: "#centralcoast, #health, #tongan, #sydney"
-  - username: "envybyjosie"
+    hashtags: "#exersize, #beautifulbody, #fitness, #mysexymoves"
+  - username: "_kim_lawless_"
     fullname: >-
-      Envybyjosie
+      Kim
     bio: >-
-      Hair salon in Sydney 🇦🇺 Follow our insta 🤩
+      •Fitness•health lifestyle• Instagram- kimlawless_fitness
     location: "Australia"
-    followers: 3237
-    engagement: 281
-    commentsToLikes: 0.015183
-    id: ckdn5fqxregem0j23dudwkvcp
+    followers: 49000
+    engagement: 1060
+    commentsToLikes: 0.048493
+    id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#blonde, #tiktokartists, #hairstyles, #sydneyhair"
-  - username: "henri_hay"
-    fullname: >-
-      Henri Hay
-    bio: >-
-      Lyon 🇫🇷 Sydney 🇦🇺 عبد الله
-    location: "Australia"
-    followers: 227100
-    engagement: 310
-    commentsToLikes: 0.003624
-    id: ck8fa2q0d3ysz0j78an9tl9g0
-    verified: false
-    hashtags: "#acaibowl, #french, #trick, #france"
-  - username: "karimdaddyslim"
-    fullname: >-
-      Karim
-    bio: >-
-      your dad 📥 : Karimdaddyslim@gmail.com
-    location: "Australia"
-    followers: 113000
-    engagement: 1903
-    commentsToLikes: 0.006682
-    id: cka0xd8w86kqv0i78mt9b95un
-    verified: false
-    hashtags: "#haircut, #sydney, #vlog, #adventure"
-  - username: "rii.haytchh"
-    fullname: >-
-      Rii.rii
-    bio: >-
-      
-    location: "Australia"
-    followers: 8881
-    engagement: 617
-    commentsToLikes: 0.000000
-    id: ckb8znfqyf3vj0j23nga3tv6s
-    verified: false
-    hashtags: "#viral, #sydney, #funny, #love"
-  - username: "foodfomo_mernz"
-    fullname: >-
-      Home Chef 👩🏼‍🍳🇦🇺
-    bio: >-
-      Cooking & creating make my soul so happy👩🏻‍🍳 CEO of “Hello 😏” Be kind! ❤️
-    location: "Australia"
-    followers: 17000
-    engagement: 518
-    commentsToLikes: 0.016707
-    id: ckai5k4u2sfbm0i78t05vlykq
-    verified: false
-    hashtags: "#learnontiktok, #howto, #ratethings, #healthyliving"
-  - username: "missyleisha"
-    fullname: >-
-      Missy Leisha
-    bio: >-
-      Relatable content for women 🤍 Empowering Boss Babes Join me Live everyday
-    location: "Australia"
-    followers: 75600
-    engagement: 655
-    commentsToLikes: 0.052169
-    id: ckae5wqir9idz0i78zz6wm2cz
-    verified: false
-    hashtags: "#fitness, #relationships, #sydney, #selflove"
+    hashtags: "#dance, #tune, #tiktok, #foryou"
   - username: "geesl0uise"
     fullname: >-
       geesl0uise
     bio: >-
-      ☾ tarot + oracle readings posting wholesome content
+      27 • sydney • your typical firey aries
     location: "Australia"
-    followers: 16100
-    engagement: 683
-    commentsToLikes: 0.027073
+    followers: 23800
+    engagement: 581
+    commentsToLikes: 0.041455
     id: ckdhh3medxxtk0j23zlnftrpq
     verified: false
-    hashtags: "#foryoupage, #foryou, #australia, #googletranslate"
-  - username: "julzjulzjulzz"
+    hashtags: "#sydney, #fyp, #viral, #foryou"
+  - username: "kayywuerf"
     fullname: >-
-      Julia Woodford 
+      Kaymie Wuerfel
     bio: >-
-      AUS🇦🇺 WBFF PRO Started tiktok before it was cool info@juliawoodfordfitness.com
+      American in Syd🇦🇺 IG💖👆🏻 Collab? kaymie.info@gmail.com
     location: "Australia"
-    followers: 323000
-    engagement: 615
-    commentsToLikes: 0.019214
-    id: ckav70f74dx5n0j23wq99tqco
+    followers: 135100
+    engagement: 1184
+    commentsToLikes: 0.022742
+    id: cka0haxnz8drw0i78fudcrv75
+    verified: true
+    hashtags: "#ad, #foryou, #australia, #aussielife"
+  - username: "water_bebeh"
+    fullname: >-
+      ♕
+    bio: >-
+      Queen of Pisces ♓️
+    location: "Australia"
+    followers: 8915
+    engagement: 422
+    commentsToLikes: 0.003584
+    id: ckb8znfqyf3vj0j23nga3tv6s
     verified: false
-    hashtags: "#workout, #fyp, #foryoupage, #photoshoot"
+    hashtags: "#iraqi, #fyp, #iraq, #fy"
+  - username: "henri_hay"
+    fullname: >-
+      Fruit Samouraï 🥷🍉
+    bio: >-
+      No more head to slash, so I decided to start with fruits. 🔪🍎🍐🍑🍇🍓🥥🔪
+    location: "Australia"
+    followers: 231700
+    engagement: 245
+    commentsToLikes: 0.002644
+    id: ck8fa2q0d3ysz0j78an9tl9g0
+    verified: false
+    hashtags: "#guy, #trick, #satisfying, #fyp"
+  - username: "jasminmitwali"
+    fullname: >-
+      Jasmin
+    bio: >-
+      18 🦋 i’m hotter on instagram. YOLO
+    location: "Australia"
+    followers: 65100
+    engagement: 733
+    commentsToLikes: 0.026698
+    id: cka68dd3tocu60i784wus9bti
+    verified: false
+    hashtags: "#sydney, #viral, #foryoupage, #fyp"
+  - username: "shiwani_1"
+    fullname: >-
+      Shishres 
+    bio: >-
+      Follow me on instagram @seewanisesta 👍❄️✅
+    location: "Australia"
+    followers: 173900
+    engagement: 219
+    commentsToLikes: 0.022456
+    id: ckcva28m8r3wd0j2351d4ot6t
+    verified: false
+    hashtags: "#trend, #trythis, #song, #foryoupage"
+  - username: "chanel.ocvirk"
+    fullname: >-
+      ШАНЕЛЧЕ ОЦВИРК
+    bio: >-
+      🇭🇷 X 🇲🇰 📍Wollongong 15 STOP SPAM LIKING MY VIDS! ❤️
+    location: "Australia"
+    followers: 8105
+    engagement: 1184
+    commentsToLikes: 0.111006
+    id: ckbwflou520600j236z7x9aty
+    verified: false
+    hashtags: "#bosnia, #macedonian, #couple, #serbia"
   - username: "ambersidney"
     fullname: >-
       Amber Sidney
     bio: >-
       ✨
     location: "Australia"
-    followers: 3619
+    followers: 3520
     engagement: 148
-    commentsToLikes: 0.000486
+    commentsToLikes: 0.000459
     id: ckb9atr19w5l80j23ppo8n9zy
     verified: false
-    hashtags: "#health, #weightloss, #stretch, #home"
+    hashtags: "#athome, #stayhome, #fitness, #stretch"
 ---

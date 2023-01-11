@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Australia In 2022
+title: Top 10 Fashion Instagram Influencers In Australia In 2023
 description: >-
-  Find top fashion Instagram influencers in Australia in 2022. Most popular hashtags: #sydneylocal #sydneystyle #sydneyinfluencer.
+  Find top fashion Instagram influencers in Australia in 2023. Most popular hashtags: #ad #reels #sponsored.
 platform: Instagram
-hits: 997
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 997 Instagram influencers like this in Australia for you to contact.
+hits: 590
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 590 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "sabinamx"
+  - username: "itsjohnnymagz"
     fullname: >-
-      Sabina Mx
+      Johnny Magz
     bio: >-
-      FASHION | TRAVEL | INSPO 📍 Brisbane, Australia 📧 sabinamx@outlook.com 🤍 From Germany
+      Here to have Fun show you how to Stay Young and show you how Fashion is Done 😘 😸Daddy to @life_of_calliee 🏷 J&J Closet
     location: "Australia"
-    followers: 6924
-    engagement: 1057
-    commentsToLikes: 0.142140
-    id: ck8tbmepew8f40j78dxmxkt9r
+    followers: 32832
+    engagement: 1110
+    commentsToLikes: 0.044257
+    id: ck5pwlevtndcd0i11a1p4sbyj
     verified: false
-    hashtags: "#fashionblogger, #americanstyle, #activewear, #allyfashion"
-  - username: "yemagz"
-    fullname: >-
-      MAGGIE ZHOU
-    bio: >-
-      ✨ word wrangler, (slow) fashion wearer ☕️ chai drinker, chit-chatter @cultureclubpod 🦒 21 | melbourne | she/her
-    location: "Australia"
-    followers: 14661
-    engagement: 907
-    commentsToLikes: 0.103911
-    id: ck5q5rmwiu9np0i1113gmkrdf
-    verified: false
-    hashtags: "#ad, #whomademyclothes, #whatsinmyclothes, #shopbackau"
-  - username: "lorenaszy"
-    fullname: >-
-      LORENA SZY
-    bio: >-
-      Polish/Australian girl from Melbourne, Australia Lifestyle, Beauty, Fashion, Traveller Collab ✉ lorenaszy@outlook.com
-    location: "Australia"
-    followers: 68862
-    engagement: 472
-    commentsToLikes: 0.266812
-    id: ckf5qad588ogm0j239sx1fpua
-    verified: false
-    hashtags: "#circlednastory, #circladnachangemaker, #gifted, #showpo"
-  - username: "nath_page"
-    fullname: >-
-      𝐍𝐀𝐓𝐇𝐀𝐍 𝐏𝐀𝐆𝐄
-    bio: >-
-      • Fashion | Fitness | Lifestyle • Sydney | Australia📍 • Let’s work | DM me • Founder @epnmeals • N.page@live.com
-    location: "Australia"
-    followers: 70153
-    engagement: 469
-    commentsToLikes: 0.056184
-    id: ck8szdaqdnz700j78jj9bye27
-    verified: false
-    hashtags: ""
-  - username: "maddisonyates"
-    fullname: >-
-      MADDISON YATES
-    bio: >-
-      Noosa // Aus FASHION LIFESTYLE BEAUTY founder of @mandco.media 🤍 ✉️ - maddisonryates@gmail.com
-    location: "Australia"
-    followers: 25795
-    engagement: 516
-    commentsToLikes: 0.074105
-    id: ck55l39990nc70i11b2nkd4go
-    verified: false
-    hashtags: "#nastygalsdoitbetter, #statusanxiety, #esmiskinminerals, #glassons"
+    hashtags: "#instagay, #gaypride, #gayfollow, #gayusa"
   - username: "love.christina.xo"
     fullname: >-
       ✨Christina✨
     bio: >-
       🌟Digital creator & photographer 💫Travel, fashion, beauty, health & lifestyle ✨WINK model: info@winkmodels.com.au or hello@lovechristinaxo.com
     location: "Australia"
-    followers: 183710
-    engagement: 352
-    commentsToLikes: 0.119808
+    followers: 280068
+    engagement: 382
+    commentsToLikes: 0.080138
     id: ck13c84lqz1y50i192xk9bkvq
     verified: false
-    hashtags: "#bl, #revolve, #sheingals, #visitnsw"
-  - username: "ootdstylistaa"
+    hashtags: "#wearingtoday, #macquariepassnationalpark, #outfitshot, #editorialfashion"
+  - username: "she.isamy"
     fullname: >-
-      NISHA | Sydney Blogger
+      Amy
     bio: >-
-      🎀 Sydney based Influencer 🎦Lifestyle| Fashion | Beauty | Food & Travel 📸Sony alpha a7ii 📍Sydney, Australia 📮PR/collabs-DM/Email ⤵️Shop my collection
+      Content creator ✨ Beauty. Fashion. Travel DM or email to work together 🤍
     location: "Australia"
-    followers: 20109
-    engagement: 886
-    commentsToLikes: 0.071886
-    id: ckaot5lgvuh960i78yh489cri
+    followers: 33828
+    engagement: 288
+    commentsToLikes: 0.300074
+    id: ck0w0n5ovf1ul0i19gwdrag4c
     verified: false
-    hashtags: "#canberrablogger, #erheer, #sydneyinfluencer, #melbournefashion"
-  - username: "bethcolstonn"
+    hashtags: "#mynaturealbase, #nudebynaturepartner, #ad, #zenasalonexperience"
+  - username: "sabinamx"
     fullname: >-
-      B E T H 🦋 C O L S T O N
+      Sabina Mx
     bio: >-
-      MELBOURNE | 23 | FITNESS | FASHION 💌 amy@societyeightmanagement.com 🦋 @ryderwear “BETH10” @kliffo_ 💓
+      FASHION | TRAVEL | INSPO 📍 Brisbane, Australia 📧 sabinamx@outlook.com 🤍 From Germany
     location: "Australia"
-    followers: 11942
-    engagement: 752
-    commentsToLikes: 0.123722
-    id: ckapc6jj52o2o0i78xo89ahl0
+    followers: 6933
+    engagement: 583
+    commentsToLikes: 0.152012
+    id: ck8tbmepew8f40j78dxmxkt9r
     verified: false
-    hashtags: "#feelyourbreast, #collab, #gifted, #prettylittlething"
-  - username: "daialarie"
+    hashtags: "#mejuri, #mejuripartner"
+  - username: "katiestaffordd"
     fullname: >-
-      Daia Larie
+      Katie | Style & Fashion
     bio: >-
-      🛩 Travel & Fashion Blogger 📍Sydney 🇦🇺 💗Site: DaiaLarie.com 💌Daialarie@gmail.com 📽 @thedl_productions ❤️YouTube: DaiaLarie
+      Lover of good clothes, a good handbag and good wine. Blogger - Fashion - Feminine Style Melbourne - Australia Contact/Email👇🏼 B.B 🤍
     location: "Australia"
-    followers: 25189
-    engagement: 409
-    commentsToLikes: 0.067618
-    id: ck0w4api6xmy50i19r7x0glw0
+    followers: 11955
+    engagement: 632
+    commentsToLikes: 0.210953
+    id: ck13a5esfopze0i19fsbbs2t6
     verified: false
-    hashtags: "#sheisnotlost, #dametraveler, #travelinladies, #travelblogger"
-  - username: "cleo_mantra"
+    hashtags: "#asistylist"
+  - username: "ateaspoonofstyle"
     fullname: >-
-      🤍 E L i F 🧚‍♀️
+      Tanaka Tarou
     bio: >-
-      ➖A little of my life, in little squares➖ Theatre🎭 🔸 Fashion👗🔸Travel✈️ 📍Sydney 🇦🇺 Libra ♎️⚖️ 11Pro📸 cleomantra1@gmail.com📩
+      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
     location: "Australia"
-    followers: 24999
-    engagement: 413
-    commentsToLikes: 0.108922
-    id: ckap0hbozqago0i7832tq6gru
+    followers: 30201
+    engagement: 175
+    commentsToLikes: 0.218128
+    id: ck15seuspcnp30i19ut0843ge
     verified: false
-    hashtags: ""
+    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
+  - username: "erika.dwyer"
+    fullname: >-
+      Erika Dwyer
+    bio: >-
+      📍Brisbane, Australia | Fashion & Lifestyle ✨ Training at @plc_albion 🏋️‍♀️ TikTok 🎥: erika.dwyer Watch my latest YouTube video ⬇️
+    location: "Australia"
+    followers: 30909
+    engagement: 1239
+    commentsToLikes: 0.021223
+    id: ck0w136qehc490i193p3vskwx
+    verified: false
+    hashtags: "#tiktokfashion, #instagramreels, #styletips, #fashionreels"
+  - username: "eviemareee"
+    fullname: >-
+      Evie McClelland
+    bio: >-
+      Model | Content | Fashion Australia @daisyandchains Tiktok @eviemareee evie.mcclelland@hotmail.com
+    location: "Australia"
+    followers: 35147
+    engagement: 117
+    commentsToLikes: 0.090285
+    id: ck0vvd8msom140i19vv65dnqp
+    verified: false
+    hashtags: "#whitsundays, #mcobeautycherry, #mcobeauty, #glassons"
+  - username: "fabulizeyourlife"
+    fullname: >-
+      Trishi
+    bio: >-
+      👗 Fashion Lover 💄 Lipstick Lover 🧩 Inner Health 📸 Selfie Queen 💯 Mover & Shaker #fabulizeyourlife
+    location: "Australia"
+    followers: 128696
+    engagement: 215
+    commentsToLikes: 0.054496
+    id: ck0vx3s6xwzvj0i19om4i3owm
+    verified: false
+    hashtags: "#outfitselfie, #fabulizeyourlife, #bossbabe, #tshirtcouture"
+  - username: "macarenapaz.xo"
+    fullname: >-
+      Macarena
+    bio: >-
+      🤍On a Self love journey #Melbourne 🧿Fashion | Lifestyle | Travel | Motherhood Represented by @vive_management Collab-contact@vivemanagement.com.au
+    location: "Australia"
+    followers: 32327
+    engagement: 284
+    commentsToLikes: 0.126289
+    id: ck138kandgn5w0i19v036t07c
+    verified: false
+    hashtags: "#statusanxietypartner, #mahlithelabel, #ad, #choosekynd"
 ---

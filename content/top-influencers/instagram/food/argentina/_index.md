@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Argentina In 2022
+title: Top 10 Food Instagram Influencers In Argentina In 2023
 description: >-
-  Find top food Instagram influencers in Argentina in 2022. Most popular hashtags: #chocolate #foodporn #argentina #comida.
+  Find top food Instagram influencers in Argentina in 2023. Most popular hashtags: #traveladdict #travelphotography #travelblogger.
 platform: Instagram
-hits: 227
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 227 Instagram influencers like this in Argentina for you to collaborate.
+hits: 282
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 282 Instagram influencers like this in Argentina for you to work with.
 profiles:
-  - username: "diego_bartaburu"
+  - username: "alejoexplora"
     fullname: >-
-      Diego Bartaburu
-    bio: >-
-      Baterista de No Te Va Gustar. Foodie. @notevagustaroficial @dwdrums #notevagustar #notevagustaroficial @harmonicstop @oruga.ok
-    location: "Argentina"
-    followers: 9743
-    engagement: 1350
-    commentsToLikes: 0.027383
-    id: ck6tvcap2lf2a0j718x43skky
-    verified: false
-    hashtags: "#repost, #fervenza, #seasmalo, #marchadelsilencio2020"
-  - username: "alejocampo18"
-    fullname: >-
-      Alejandro Campo
+      A L E J A N D R O   C A M P O
     bio: >-
       Foodie traveler 👨🏼‍🍳 🌎 Pereira - Colombia📍. A bocados por el mundo ✈️🍔🍝🍢🍙🍷🍻 Pregunta por mi Taller de fotografía 📷🎥🎞 Congelando historias 📸📽
     location: "Argentina"
-    followers: 7914
-    engagement: 1109
-    commentsToLikes: 0.025981
+    followers: 11677
+    engagement: 754
+    commentsToLikes: 0.106938
     id: ckaor73zfm0810i78tw8f1n2l
     verified: false
-    hashtags: "#travel, #travels, #traveling, #travelblogger"
-  - username: "laurarezmasud"
+    hashtags: "#travelgram, #fotografo, #bogota, #landscapephotography"
+  - username: "melissajnaizzir"
     fullname: >-
-      Laura Rez Masud.
+      𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗝𝗶𝗺𝗲𝗻𝗲𝘇 𝗡𝗮𝗶𝘇𝘇𝗶𝗿
     bio: >-
-      Mendoza 🍷 Periodista 🎤📹 Canal 9 me gusta compartir 👗moda 💇‍♀️belleza/estética/salud 🍷Food &wine 🌍 mis viajes 🎤 mi trabajo 🏘 deco
+      Food|Travel|Livestyle “Nacimos para ser reales no perfectos” 🧿🍽✈️ 📍Colombia
     location: "Argentina"
-    followers: 24185
-    engagement: 279
-    commentsToLikes: 0.047843
-    id: ck5hoezxrpg0l0i11wx77idyl
+    followers: 2293
+    engagement: 1523
+    commentsToLikes: 0.120572
+    id: ckaossnyoswxp0i78vdogv00t
     verified: false
-    hashtags: "#homeoffice, #valledeuco, #mendoza, #familia"
+    hashtags: "#postres, #postressaludables, #covid, #longhairdocare"
+  - username: "la_petite_biere"
+    fullname: >-
+      Émilie Leclerc
+    bio: >-
+      Beer🍺+Food🍕+travel✈️+vintage +acting 📍: MTL ✉️: el.petite.biere@gmail.com @cicerone BS Actrice: Agence Bridget Dechene #lapetitebiere #NEIPAmonster
+    location: "Argentina"
+    followers: 40746
+    engagement: 448
+    commentsToLikes: 0.035488
+    id: ckaotj129w4f00i78yys0458s
+    verified: false
+    hashtags: "#neipamonster, #neipa, #boirelocal, #4origines"
+  - username: "sweet_home_anywhere"
+    fullname: >-
+      Sweet Home Anywhere
+    bio: >-
+      Carla & Pedro Base de operaciones en Granada 👫🐶 🗺Travelholics🗺 🥙 Foodies 🥘 🌎Soñando con nuestro próximo destino!🙌🏻✈️ 🔜 ¿?
+    location: "Argentina"
+    followers: 2153
+    engagement: 1397
+    commentsToLikes: 0.121692
+    id: ck6ufkx7rxo7x0j71utbfxodu
+    verified: false
+    hashtags: "#barcelona, #traveladdict, #cyclades, #beautifuldestinations"
   - username: "caceres_matias"
     fullname: >-
       ᴍᴀᴛíᴀs 🇦🇷
     bio: >-
       🎑🌇🌄🌉🌌🏞🏙🌅🌃 • #Sneakers 👟 • #Travel 🗺 • #Design 💻 • #Food 🍧 📍Olavarría / Tandil
     location: "Argentina"
-    followers: 17510
-    engagement: 522
-    commentsToLikes: 0.020699
+    followers: 18164
+    engagement: 636
+    commentsToLikes: 0.021081
     id: ck9wczegwdcg10j78v7spui9q
     verified: false
-    hashtags: "#sneakerrotationar, #663399, #courtpurple"
+    hashtags: "#rockyokix, #complexsneakers, #christmas, #dunksbornothing"
   - username: "sabryrodriguezcuack"
     fullname: >-
       Sabry Rodriguez Cuack 🐥♐️💙💛💙
     bio: >-
       Asesora de Bares 💛 Adm. Gastronómica 🍸Bartender Profesional Owner: @thegarnishbar ✨ 📍Mendoza🍷 #CuackStyle 📸 📺@estrictamendoza 📝@foodloversmdz @mdzol
     location: "Argentina"
-    followers: 19954
-    engagement: 485
-    commentsToLikes: 0.045864
+    followers: 20397
+    engagement: 555
+    commentsToLikes: 0.032939
     id: ck5znhkd6oh6b0i14f0s1rra5
     verified: false
-    hashtags: "#cuackstyle, #chinchin, #bartenderlife, #lacoctelera"
-  - username: "marceloromerofotos"
+    hashtags: "#bartenderlife, #chinchin, #cuackstyle, #espectacular"
+  - username: "foodiction.vlc"
     fullname: >-
-      Marcelo Romero
+      Foodiction
     bio: >-
-      📣📸 Foto 🎥 Video & 🍽️ Foodstyling 🍔 👉@estiloromerocatena 📣 Staff @pedidosya Consultas al MD 📥📨
+      Mar Bellver 🌱Disfruto en la cocina. 🍒Innovar con comida real. ✨Recetas Sin complicaciones FOODICTION - 10% @frutosecoonline FOODMP 38% @myproteines
     location: "Argentina"
-    followers: 14994
-    engagement: 33
-    commentsToLikes: 0.060933
-    id: ck14hj7gwakvn0i19w5s1fsah
+    followers: 49250
+    engagement: 478
+    commentsToLikes: 0.074748
+    id: ckap1riryvtag0i78h4vqr1do
     verified: false
-    hashtags: "#pasteleria, #emprendedores, #darkfoodphotography, #darkfoodphoto"
-  - username: "soledadfandino"
+    hashtags: "#keto, #comidareal, #recetasfaciles, #gastronomia"
+  - username: "instafoodperu"
     fullname: >-
-      Fandiño
+      Instafood Perú
     bio: >-
-      📍@theremakenet Actriz argentina Chef / Plant-based natural foods Chef
+      👉🏻Comunidad de FOODLOVERS 👈🏻 🌏¿Quieres ser parte de la comunidad? 💌 Etiquétanos en tus 📸 y sigue a #instafoodperu 📌@hiromi_kudo @chichasour
     location: "Argentina"
-    followers: 1054002
-    engagement: 200
-    commentsToLikes: 0.009451
-    id: ck13c4v87ymhq0i19488bic92
-    verified: true
-    hashtags: ""
-  - username: "gulatotal"
-    fullname: >-
-      Gulatotal foodies Ale&Fer 🇻🇪🇦🇷
-    bio: >-
-      🍔 COMIDA, RECETAS & LIFESTYLE @gulatotal 🔥 Foodies y creadores en Argentina Agencia de Marketing & Branding @woolabrands 🍫🍫 GANA MUCHOS CHOCOLATES 👇🏻
-    location: "Argentina"
-    followers: 188847
-    engagement: 239
-    commentsToLikes: 0.700000
-    id: ck5c0gn3qt3kf0i11hxbetpwf
+    followers: 120166
+    engagement: 250
+    commentsToLikes: 0.138404
+    id: ck15qse6e4end0i19vdt5b7b6
     verified: false
-    hashtags: "#argentina, #gulatotal, #foodie, #milka"
-  - username: "maxiaj"
+    hashtags: "#instafoodperu"
+  - username: "daliiatorres"
     fullname: >-
-      Maximiliano Aurellio Jurado
+      Bunny Princess 🐰👑
     bio: >-
-      • Argentino 🇦🇷 • Lifestyle & Menswear • Foodie 📍Madrid 👉🏼 Collect Moments Not Things
+      Actriz IMDb | LifeStyle | DisneyPrincess | Gryffindor | Foodie | Maestra Pokémon
     location: "Argentina"
-    followers: 12941
-    engagement: 569
-    commentsToLikes: 0.257272
-    id: ckaouf3euzzzh0i786wy76o17
+    followers: 33449
+    engagement: 84
+    commentsToLikes: 0.035675
+    id: ck8tagic8rnlk0j78lq355ky9
     verified: false
-    hashtags: "#instafoodie, #madridfood, #domingo, #saludables"
-  - username: "deliascakes"
+    hashtags: "#fashion, #goodvibes, #beauty, #blessed"
+  - username: "olga_vila"
     fullname: >-
-      Flor Mancini
+      Olga Vila | Food Stylist
     bio: >-
-      food & travel 🍩 Bs As✨ fotografia ✈️ 📸 @flormancini @tripfoodblogger_ 📩 hola@flormancini.com EBOOK en la web
+      Food & drink Stylist | Recipe developer Mis trabajos en @olga_foodstyler Mis servicios Olgavila.com. Mis recetas pepitagreens.com
     location: "Argentina"
-    followers: 301579
-    engagement: 465
-    commentsToLikes: 1.087480
-    id: ck8szplmyp9420j78fnrsnuto
+    followers: 12466
+    engagement: 511
+    commentsToLikes: 0.128107
+    id: ck5zu96tf1x310i14wlra1gbu
     verified: false
-    hashtags: "#parati, #torta, #chocolate, #dulcedeleche"
+    hashtags: "#pepitagreens, #foodfluffer, #foodstyling, #cookmagazine"
 ---

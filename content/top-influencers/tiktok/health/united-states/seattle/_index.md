@@ -1,72 +1,84 @@
 ---
-title: Top 10 Health TikTok Influencers In Seattle In 2022
+title: Top 10 Health TikTok Influencers In Seattle In 2023
 description: >-
-  Find top health TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #seattle #health #foryoupage.
+  Find top health TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #seattle #health #food.
 platform: TikTok
 hits: 14
-text_top: See the top-rated TikTok influencers on inBeat.
+text_top: Analyze the best TikTok influencers on inBeat.
 text_bottom: Our database aggregates 14 TikTok influencers like this in Seattle, United States for you to collaborate.
 profiles:
-  - username: "drbriansilverman"
+  - username: "seattle.rob"
     fullname: >-
-      Dr Brian Silverman
+      Seattle Rob
     bio: >-
-      For education only-Not Medical Advice YOUTUBE LINK ABOVE
+      Comedian & Mental Health | Girl Dad - Emry Lucille Feb 2021 🦄 |
     location: "United States"
-    followers: 16500
-    engagement: 880
-    commentsToLikes: 0.123365
-    id: ckbf22k4copvq0j23v4gj31dy
+    followers: 149400
+    engagement: 208
+    commentsToLikes: 0.025129
+    id: ckbbrbigkexsa0j23h4br5qfa
     verified: false
-    hashtags: "#recipe, #family, #kugel, #nurse"
+    hashtags: "#greenscreen, #duet, #greenscreenvideo, #sipintosummer"
   - username: ".disposable"
     fullname: >-
       Disposable teen
     bio: >-
       Alive, for now 😈 cinci_ryan
     location: "United States"
-    followers: 19700
-    engagement: 1300
-    commentsToLikes: 0.070002
+    followers: 19200
+    engagement: 1222
+    commentsToLikes: 0.064374
     id: ckbf7pgrcxt990j23om8xnme4
     verified: false
-    hashtags: "#mask, #health, #staysafe, #quarantine"
-  - username: "veronikaalcaraz"
+    hashtags: "#stopthespread, #staysafe, #policebrutality, #georgefloyd"
+  - username: "_angiemata"
     fullname: >-
-      Veronika Alcaraz
+      A N G I E  M A T A
     bio: >-
-      ✰...𝕪𝕖𝕤, 𝕪𝕠𝕦 𝕔𝕒𝕟 𝕓𝕒𝕓𝕖...✰
+      Un poquito de todo! Wife. Mom. | WA🌲|🇲🇽| 💖🎤💄👩🏻‍🍳 INSTAGRAM:@_angiemata
     location: "United States"
-    followers: 5843
-    engagement: 504
-    commentsToLikes: 0.034848
-    id: ckb9au16mw6ts0j23p5byjskf
+    followers: 142400
+    engagement: 757
+    commentsToLikes: 0.006360
+    id: ck932idajjn7l0j78nk9obu71
     verified: false
-    hashtags: "#pumpkinseason, #diy, #seattle, #diyideas"
-  - username: "tomstanley__"
+    hashtags: "#latina, #comida, #fyp, #dessert"
+  - username: "annabannerz"
     fullname: >-
-      Tom Stanley
+      annersz
     bio: >-
-      20 Years Old Taking People To New Heights 🛩 Instagram: tomstanley__
+      new tiktok! 3/19/20 THE FOODIE DRINK KETO/LOW CARB QUEEN
     location: "United States"
-    followers: 55900
-    engagement: 1262
-    commentsToLikes: 0.072175
-    id: ck9fbnqsbg5fk0j78f2fk63yg
+    followers: 20500
+    engagement: 360
+    commentsToLikes: 0.012409
+    id: ckacentu1njys0i78pnyuaea8
     verified: false
-    hashtags: "#travel, #airplane, #fly, #airline"
-  - username: "phillipkopczynski"
+    hashtags: "#lowcarb, #ketoqueen, #ketodrink, #ketogenic"
+  - username: "drbriansilverman"
     fullname: >-
-      Phillip Kopczynski
+      Dr Brian Silverman
     bio: >-
-      road comic. pro bono quarantine comic. ful sketches on IG, FB, YT SPECIAL-DRYBAR
+      For education only-Not Medical Advice YOUTUBE LINK ABOVE
     location: "United States"
-    followers: 7246
-    engagement: 1393
-    commentsToLikes: 0.031662
-    id: ckc38adqrx2a10j23by6pg0re
+    followers: 16700
+    engagement: 910
+    commentsToLikes: 0.124485
+    id: ckbf22k4copvq0j23v4gj31dy
     verified: false
-    hashtags: "#joke, #biden, #naive, #stitch"
+    hashtags: "#recipe, #life, #doctor, #nurse"
+  - username: "letspiritbeyourguide"
+    fullname: >-
+      Kat Heart
+    bio: >-
+      Tiktok’s Fairy Godmother, Worldwide Unity Tribe member,
+    location: "United States"
+    followers: 176700
+    engagement: 1017
+    commentsToLikes: 0.069696
+    id: ckbkza1sovn2n0j23ys35ya9a
+    verified: false
+    hashtags: "#spiritual, #planetearth, #loveyou, #colorado"
   - username: "martinerwin"
     fullname: >-
       Martin Erwin
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.049831
     id: cka8eqc8fyyl70i78t3wvh1ey
     verified: false
-    hashtags: "#funny, #fyp, #hair, #bored"
-  - username: "annabannerz"
+    hashtags: "#bored, #fun, #beard, #love"
+  - username: "likes_jo"
     fullname: >-
-      annersz
+      likes_jo
     bio: >-
-      new tiktok! 3/19/20 THE FOODIE DRINK QUEEN
+      Wander.
     location: "United States"
-    followers: 20400
-    engagement: 307
-    commentsToLikes: 0.014028
-    id: ckacentu1njys0i78pnyuaea8
+    followers: 115800
+    engagement: 1238
+    commentsToLikes: 0.028857
+    id: ck9e1fd8baerb0j78q7cpbipv
     verified: false
-    hashtags: "#keto, #coronavirus, #weightloss, #lowcarbdiet"
-  - username: "okqueersten"
+    hashtags: "#tomboy, #justjo, #tatted, #babe"
+  - username: "selfmade.ginger"
     fullname: >-
-      🦇🔪kiersten🕯️🖤
+      Don’t wish for it,work for it!
     bio: >-
-      26•she/they mental health advocate•recovering addict ♡︎ur queer big sis♡︎ OF☟︎
+      Be Happy•Be Bright•Be You• 6’7” Ginger •356 lbs March 14th• •324 lbs April 13th•
     location: "United States"
-    followers: 87400
-    engagement: 1673
-    commentsToLikes: 0.037207
-    id: ckavpnr400vnt0j237k1u3ac4
+    followers: 24500
+    engagement: 1649
+    commentsToLikes: 0.063440
+    id: cka9kzgm1194y0i780mqhun9n
     verified: false
-    hashtags: "#fyp, #trending, #greenscreen, #ghostmode"
-  - username: "lamthesaint"
+    hashtags: "#omg, #foryou, #animals, #like"
+  - username: "zeekabi"
     fullname: >-
-      IamTheSainT
+      zeekabi
     bio: >-
-      Proud Boy 4° 👌🏼 America patriot 🇺🇸 Ex Cod Pro 🎮 Seattle, Wa 🌲
+      I dont know what I’m doing here 🇮🇶
     location: "United States"
-    followers: 2311
-    engagement: 630
-    commentsToLikes: 0.072236
-    id: ckc7lqchdse6w0j23r1tm0uhq
+    followers: 17700
+    engagement: 879
+    commentsToLikes: 0.063749
+    id: ckbqpil5habgg0j23fpwf0nhr
     verified: false
-    hashtags: "#foryou, #foryoupage, #fypage, #antifa"
-  - username: "teaspoonofyum"
-    fullname: >-
-      Teaspoon of Yum
-    bio: >-
-      Luna // Cook - Eat - Travel IG: tspofyumseattle 📍: Seattle 🇵🇭 : Filipino
-    location: "United States"
-    followers: 21300
-    engagement: 539
-    commentsToLikes: 0.025631
-    id: ckb9cyo1hzz4b0j23dxwvwd65
-    verified: false
-    hashtags: "#fyp, #filipinofood, #ohiocheck, #tiktokcooks"
+    hashtags: "#bridgerton, #fyp, #photographer, #food"
 ---

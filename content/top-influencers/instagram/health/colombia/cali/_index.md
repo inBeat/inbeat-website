@@ -1,120 +1,48 @@
 ---
-title: Top 10 Health Instagram Influencers In Cali In 2022
+title: Top 10 Health Instagram Influencers In Cali In 2023
 description: >-
-  Find top health Instagram influencers in Cali in 2022. Most popular hashtags: #colombia #fitness #strong #lifestyle.
+  Find top health Instagram influencers in Cali in 2023. Most popular hashtags: #fitness #colombia #photography #motivacion.
 platform: Instagram
-hits: 12
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 12 Instagram influencers like this in Cali, Colombia for you to collaborate.
+hits: 7
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 7 Instagram influencers like this in Cali, Colombia for you to connect with.
 profiles:
-  - username: "foodfromtheheart"
+  - username: "natyarbelaezs"
     fullname: >-
-      Lauren Arboleda
+      Natalia Arbeláez
     bio: >-
-      Food From the Heart™ Ganadora MasterChef Latino 2019 👩‍🍳 Mamá 🐒 x2 Author 📖 #pregnancyfromtheheart Recipe Developer Health Coach 💕 Cali-🇨🇴 📍Miami
+      • Cali 🇨🇴 • Healthy Food ❤️✌️🥙 •Triatleta 🏊‍♀️🚴‍♀️🏊‍♀️ • 4XIM 70.3 Pr (4:55’) • 21k X 5🏃‍♀️PR (1:29’58”) • 🔜 IM 70.3 WC 2021 🇺🇸 YOUTUBE 🎬👇
     location: "Colombia"
-    followers: 101887
-    engagement: 155
-    commentsToLikes: 0.040215
-    id: ck0typeagnnfk0i19tbu4o2t8
+    followers: 85958
+    engagement: 178
+    commentsToLikes: 0.013814
+    id: ck6u3hnslxu800j717qzscv1u
     verified: false
-    hashtags: "#arepas, #greenpancakesfromtheheart, #feedfeed, #colombianfood"
-  - username: "juanseayala"
+    hashtags: "#triathletesfood, #trilifestyle, #triathletelife, #runnerscommunity"
+  - username: "lulabarriosc"
     fullname: >-
-      Juan Sebastián Ayala
+      Luisa Barrios
     bio: >-
-      🌎 Online Fitness Coach ⭐️ Celebrity Personal Trainer ⚡️ Embajador @fitbitlatam 📱 Planes de entrenamiento y nutrición ⬇️ 😍 eBooks Patty & Juanse ⬇️
+      @kafitt.oficial @komsports.oficial Creadora @bi_port @alcanciaslula 🎨✍🏼 🇨🇴 Caleña
     location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
+    followers: 123280
+    engagement: 352
+    commentsToLikes: 0.017252
+    id: ck14kjunypv330i19iag2r0df
     verified: false
-    hashtags: "#perderpeso, #gym, #fitness, #humorfit"
-  - username: "marianelamodel"
+    hashtags: "#panama, #photography, #instagram, #colombia"
+  - username: "valentinaramirez07"
     fullname: >-
-      Marianela💋Ramos
+      𝐕𝐀𝐋𝐄𝐍𝐓𝐈𝐍𝐀 𝐑𝐀𝐌𝐈𝐑𝐄𝐙 𝐆
     bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
+      ♡ 𝐈 𝐍 𝐒 𝐏 𝐈 𝐑 𝐄 ♡ Content creator ♡ Lifestyle | Healthy | Travel 🐾@okmascotascali 📍 Cali-Co
     location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 217787
+    engagement: 235
+    commentsToLikes: 0.006358
+    id: ck0w1flz9j3l90i193h826bqv
     verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "yermahin_balance7"
-    fullname: >-
-      Yermahin Solorzano
-    bio: >-
-      🇻🇪 #CIRCUS #fitness #art You can't live a normal life if you want to be extraordinary #handstand #handbalance #goals
-    location: "Colombia"
-    followers: 10815
-    engagement: 543
-    commentsToLikes: 0.025440
-    id: ckf5ptix078d40j2303t8diff
-    verified: false
-    hashtags: "#city, #goals, #artist, #dance"
-  - username: "ramvidzapata"
-    fullname: >-
-      🆁🅰🅼🆅🅸🅳
-    bio: >-
-      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ ✳️ @scrufflatino Influencer🏳️‍🌈 🍑@WeCakdUP Ambassador💊 🇻🇪Living in Bogota🇻🇪
-    location: "Colombia"
-    followers: 65330
-    engagement: 264
-    commentsToLikes: 0.020057
-    id: ck6u070hhdyy10j71x6lygpcd
-    verified: false
-    hashtags: "#me, #lingerie, #fit, #men"
-  - username: "espana927"
-    fullname: >-
-      𝗔𝗡𝗔 𝗖φ𝗭𝗔𝗥 𝗜𝗙𝗕𝗕
-    bio: >-
-      @NutrexResearch Athlete “espana927” @Ryderwear Athlete “espana10” CEO @corset_espana TRAIN WITH ME 👇🏽💥
-    location: "Colombia"
-    followers: 2580756
-    engagement: 89
-    commentsToLikes: 0.023699
-    id: ck9wd7f1zeer60j782th5zn6m
-    verified: true
-    hashtags: "#fitnessmotivation, #redheadlife, #gingerhair, #goodenergy"
-  - username: "naty.desafio15"
-    fullname: >-
-      NATALIA VARGAS ❤️🇨🇴
-    bio: >-
-      DESAFIO SUPER REGIONES 2019💙 ATLETA CROSSFIT 🤸🏻‍♀️🏋🏻‍♀️ #Neiva-Huila @healthysportscolombia 💜 @eliteboxneiva 🏡 @natuzmv20 🍧
-    location: "Colombia"
-    followers: 41253
-    engagement: 677
-    commentsToLikes: 0.025093
-    id: ck5zqdfmfuega0i14yvkra2cm
-    verified: false
-    hashtags: "#staystrong, #powergirl, #encasa, #strongwomen"
-  - username: "leidysolis76kg"
-    fullname: >-
-      Leidy Solis 🏋🏽
-    bio: >-
-      ATLETA DE ALTO RENDIMIENTO 🏋🏽 TRIPLE CAMPEONA DEL MUNDO 🥇🥇🥇 DOBLE CAMPEONA DEL MUNDO JUVENIL 🥇🥇 SUB CAMPEONA OLÍMPICA🥇
-    location: "Colombia"
-    followers: 37894
-    engagement: 558
-    commentsToLikes: 0.019031
-    id: ck8sxy4enj3200j78wvhe5jjh
-    verified: false
-    hashtags: "#champion, #instagood, #instafamous, #sport"
-  - username: "jonamontoyazumba"
-    fullname: >-
-      Jonathan Montoya
-    bio: >-
-      “Dreams Come True”🙏🏻 •@zumba Fitness Instructor •International Zumba Fitness Presenter🌎 ✈️ •ZIN Member •Cali Colombia🇨🇴 •Professional Salsa dancer🕺🏼
-    location: "Colombia"
-    followers: 13357
-    engagement: 674
-    commentsToLikes: 0.063292
-    id: ck1396johjs550i19eksedc0q
-    verified: false
-    hashtags: "#salsacale, #instagood, #colombiapresente, #zumbafitness"
+    hashtags: "#colombia, #travel, #santamarta, #fullbodyworkout"
   - username: "calicolfit"
     fullname: >-
       LUZ MARINA GARCIA A 🐼🦄
@@ -126,5 +54,77 @@ profiles:
     commentsToLikes: 0.048433
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#love, #fitness, #fit, #vibes"
+    hashtags: "#home, #workout, #cale, #legs"
+  - username: "leidysolis76kg"
+    fullname: >-
+      𝐋𝐞𝐢𝐝𝐲 𝐒𝐨𝐥𝐢𝐬
+    bio: >-
+      LEVANTAMIENTO DE PESAS DEPORTISTA DE ALTO RENDIMIENTO TRIPLE CAMPEONA DEL MUNDO DOBLE CAMPEONA DEL MUNDO JUVENIL SUB CAMPEONA OLÍMPICA
+    location: "Colombia"
+    followers: 50244
+    engagement: 633
+    commentsToLikes: 0.022984
+    id: ck8sxy4enj3200j78wvhe5jjh
+    verified: false
+    hashtags: "#worldchampion, #likelike, #crowd, #photooftheday"
+  - username: "lacoachdevida"
+    fullname: >-
+      Susana Arango
+    bio: >-
+      ❤️Cuenta personal @susana.arangog 🏃🏽‍♀️Rutinas de entrenamiento 🥦Estudiante Máster Nutrición y dietética 🙋‍♀️Health Coach IIN ☝️DM para asesorías
+    location: "Colombia"
+    followers: 49192
+    engagement: 136
+    commentsToLikes: 0.048954
+    id: ck5hozz5qqiu00i11nft64l7i
+    verified: false
+    hashtags: "#motivation, #follow4follow, #fitlife, #mujersaludable"
+  - username: "applesfera"
+    fullname: >-
+      Applesfera
+    bio: >-
+      Todo sobre el universo Apple: macOS, iPod, iPhone, iPad, Apple Watch, Apple TV y Macs. Noticias, los mejores análisis, trucos y artículos de opinión.
+    location: "Colombia"
+    followers: 41206
+    engagement: 92
+    commentsToLikes: 0.013430
+    id: ck0w6fjn48brz0i19pd28ue6j
+    verified: false
+    hashtags: "#apple, #appleleak, #iphoneleak, #augmentedreality"
+  - username: "the_runaddict"
+    fullname: >-
+      George | Running & Tri Junkie
+    bio: >-
+      ‣ Marketing | Triathlon & running coach 👉🏻 @aethosport ‣ Health & wellness motivation. ‣ 4 major marathons ⭐️ (so far).
+    location: "Colombia"
+    followers: 10343
+    engagement: 534
+    commentsToLikes: 0.112158
+    id: ckaozhml1lxdo0i78gltg1vkd
+    verified: false
+    hashtags: "#runningmotivation, #runningcolombia, #iloverunning, #nbrunning"
+  - username: "kevincardenas__"
+    fullname: >-
+      Kevin Cardenas 🇨🇴
+    bio: >-
+      🔥 desafío súper regiones 2019 #cafetero Embajador @healthysportscolombia 📝admon de negocios internacionales 📸modelo 🏋🏻 CrossFit
+    location: "Colombia"
+    followers: 61512
+    engagement: 471
+    commentsToLikes: 0.026606
+    id: ckapckj38474m0i788cgi5sma
+    verified: false
+    hashtags: "#fitness, #smile, #mensfashion, #photography"
+  - username: "valentinathorne"
+    fullname: >-
+      Valentina
+    bio: >-
+      Thornemvalentina@gmail.com📩 Embajadora: @healthysportscolombia @amarte.sw Diseñadora 👩‍🎨
+    location: "Colombia"
+    followers: 162947
+    engagement: 603
+    commentsToLikes: 0.016221
+    id: ckapbottv0qp30i78foawh7df
+    verified: false
+    hashtags: "#saturdaynight"
 ---

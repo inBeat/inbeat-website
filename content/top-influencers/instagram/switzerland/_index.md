@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Switzerland In 2022
+title: Top 10 Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #fashion #foryou.
+  Find top Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #photography #nature.
 platform: Instagram
-hits: 2421
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 2421 Instagram influencers like this in Switzerland for you to connect with.
+hits: 1196
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 1196 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "koelve"
+  - username: "codrina.apostol"
     fullname: >-
-      Elvira 🦋
+      Codrina Apostol
     bio: >-
-      Zurich, Switzerland Fashion Stylist 👱‍♀️ Live your dream ✨✨✨
+      Co-founder @muliebrity.negura ✉ codrina@muliebrity.ro 📍Greece
     location: "Switzerland"
-    followers: 12847
-    engagement: 2425
-    commentsToLikes: 0.189182
-    id: ck0uetn9rm8rc0i19tbe58bm9
+    followers: 73705
+    engagement: 604
+    commentsToLikes: 0.088196
+    id: ck5cavg01e7rb0i11ij3epx1l
     verified: false
-    hashtags: "#sky, #mystyle, #lake, #song"
-  - username: "lunavissers"
+    hashtags: "#worthgoingfurther, #aftereightchocolate, #diorholiday, #linterditcrew22"
+  - username: "isaacheeney"
     fullname: >-
-      Luna Vissers
+      Isaac Heeney
     bio: >-
-      Belgian harpist living in Switzerland 💃🏻 Tea lover in my freetime🍵 Secondhand fashion🍃
+      @sydneyswans #5 @doozydrinks buy some now @nike @telstra @swiss.8
     location: "Switzerland"
-    followers: 2922
-    engagement: 2386
-    commentsToLikes: 0.274958
-    id: ckf5ojnzb2ixq0j23ut9e0jwk
+    followers: 68838
+    engagement: 1114
+    commentsToLikes: 0.006856
+    id: cl9mnczi0k5zl0i237d35tw00
     verified: false
-    hashtags: "#idealofsweden"
-  - username: "couple.rn"
+    hashtags: "#ad, #mchappyday, #foxtelambassador, #gatoradenosugar"
+  - username: "greenflyingdude"
     fullname: >-
-      𝙍𝙞𝙣𝙤𝙧 & 𝙉𝙟𝙤𝙢𝙯𝙖
+      Chris Byrnes
     bio: >-
-      𝐏𝐎𝐒𝐈𝐓𝐈𝐕𝐄 𝐕𝐈𝐁𝐄𝐒 𝐎𝐍𝐋𝐘 - Based in Switzerland Official Facebook page👇🏼:
+      We are made of stardust... It's in our nature to shine. 🇦🇺 Wingsuit Pilot Fastest BASE jumper in the World
     location: "Switzerland"
-    followers: 263192
-    engagement: 2152
-    commentsToLikes: 0.032519
-    id: ck14jhxvnkfpt0i19mtlu5hmj
+    followers: 32109
+    engagement: 2356
+    commentsToLikes: 0.030970
+    id: ck0vwt885vhlq0i19a70502ar
     verified: false
-    hashtags: "#fashion, #beauty, #happy, #style"
-  - username: "i_am_birebaumli"
+    hashtags: "#lauterbrunnen, #switzerland, #basejumping, #adventure"
+  - username: "niklas.eschenmoser"
     fullname: >-
-      
+      Niklas Eschenmoser
     bio: >-
-      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
+      Photographer & Filmmaker Bern, Switzerland
     location: "Switzerland"
-    followers: 5800
-    engagement: 2017
-    commentsToLikes: 0.118826
-    id: ck13d3pg53irf0i190hd1hu57
+    followers: 7730
+    engagement: 425
+    commentsToLikes: 0.034666
+    id: ck14hpkiqbhmi0i19zx9qg4h0
     verified: false
-    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
-  - username: "iamclaudiadias"
+    hashtags: "#doubs, #nature, #biodiversity, #fleetingglaciers"
+  - username: "qqq"
     fullname: >-
-      𝘾𝙇𝘼𝙐𝘿𝙄𝘼 𝘿𝙄𝘼𝙎
+      A. AlGhafri 🇶🇦 عبدالله الغافري
     bio: >-
-      Fashion, Beauty & Lifestyle ✉️iamclaudiadias@gmail.com 📍Current location: Lausanne🇨🇭
+      Love All, Trust Few 🖤 —— 🎭 Lifestyle 🎓 Business&Mgmt. 👔 Entrepreneur 🎙 Host ✈️ Travel —— ⭐️ Snapchat&TikTok : QQQ 🎥 YouTube +2M👇🏽
     location: "Switzerland"
-    followers: 12900
-    engagement: 1379
-    commentsToLikes: 0.116422
-    id: ck6tyrotj5gm20j71vxml8uxh
+    followers: 1309739
+    engagement: 479
+    commentsToLikes: 0.227558
+    id: ck5qb9m7gki5k0i11k7fvnlqv
     verified: false
-    hashtags: "#passatempo, #experiencia, #gourmet, #airjordan"
-  - username: "fleursnoir"
+    hashtags: "#worldcup, #qatar2022, #youtube, #qqq"
+  - username: "muelli__21"
     fullname: >-
-      Fleur
+      Marius Müller
     bio: >-
-      * Hello stranger :) * photographer, gamer, lover of animals, traveling, cosplay, a good wine with Damien rice music’s and @artur.noir
+      @vivienclairemlr 👩🏼💍 @t1tan Keeper 🧤 @fcluzern_offiziell ⚽️ @uniquesg.de 🕵️‍♂️
     location: "Switzerland"
-    followers: 43327
-    engagement: 1248
-    commentsToLikes: 0.258550
-    id: ck15tmw04ivcw0i19nwamvzzb
-    verified: false
-    hashtags: "#netflix, #reels, #netflixcosplay, #ciri"
-  - username: "sausau__"
+    followers: 17772
+    engagement: 1024
+    commentsToLikes: 0.022791
+    id: ck6uibgdle5bo0j717yrrgan9
+    verified: true
+    hashtags: "#cleansheet, #nome, #nomeloz, #stayathomechallenge"
+  - username: "miandrija"
     fullname: >-
-      Sausau
+      Mia Kostova
     bio: >-
-      Lifestyle, travel 🇫🇷 Evian, Genève Tiktok : sauvanecarpentier 💌 Partnership
+      💃 I am doing it for me. 🍿 YouTube - Miandrija 🎼 #tiktok - Miandrija 💌 miakostova@yahoo.com 🤝 ~ DM ~
     location: "Switzerland"
-    followers: 27753
-    engagement: 935
-    commentsToLikes: 0.187463
-    id: ck5zkxelukcal0i14arveg083
+    followers: 55273
+    engagement: 361
+    commentsToLikes: 0.245392
+    id: ckap2hhsoyuqq0i78zru5mjuo
     verified: false
-    hashtags: "#jeuconcours, #collaboration, #flowers, #pinterest"
-  - username: "arnesa_rx"
+    hashtags: "#calvinklein, #calvinkleinwatch, #bozinovskiwatchesandjewelry, #mycalvins"
+  - username: "championscars"
     fullname: >-
-      Arnesa ♛
+      Championscars
     bio: >-
-      DM for collab 🖤 Snap: arnesa.13 Tiktok: arnesa.rx
+      Switzerland🇨🇭 Photographer | Video Creator Private Account: @blacktaurus7
     location: "Switzerland"
-    followers: 59307
-    engagement: 837
-    commentsToLikes: 0.136008
-    id: ck13aaqkvpguc0i19lh65dcxy
+    followers: 41182
+    engagement: 314
+    commentsToLikes: 0.014640
+    id: ck0w5jp2z3yxd0i19eg6sv3gb
     verified: false
-    hashtags: "#dafinators, #butriors, #ihopeyoumissme, #goodvibes"
-  - username: "leilachemam"
+    hashtags: "#sanktgallen, #911, #porschegt3cup, #dtmsportscars"
+  - username: "ilaydaserifi"
     fullname: >-
-      Leila Chemam
+      Ilayda Sherifi
     bio: >-
-      Smile to fight cancer 💪❣️ For donation 👇🏻
+      Zurich, Switzerland 🔒turkish albanian @fashionnova ambassador
     location: "Switzerland"
-    followers: 216412
-    engagement: 831
-    commentsToLikes: 0.042957
-    id: ck139nwd3m90p0i195833jcnk
+    followers: 259071
+    engagement: 311
+    commentsToLikes: 0.005397
+    id: cl5l336a6990r0i23bbvc58sf
     verified: false
-    hashtags: "#cancer"
-  - username: "deliastefanii"
+    hashtags: ""
+  - username: "aventouro"
     fullname: >-
-      DELIA STEFANI
+      AVENTOURO / Jürg Hostettler🇨🇭
     bio: >-
-      Fashion & Travel Mind soaked in positivity. 🕊
+      ↟ Adventure / Photography / Exclusive Tours ↟ I'll show you the best of Switzerland and abroad ↟ Spotlight Award Winner ↟ Contact me via DM or e-mail
     location: "Switzerland"
-    followers: 2580
-    engagement: 2767
-    commentsToLikes: 0.123338
-    id: ckap3amn528zq0i78t7igsxdt
+    followers: 123247
+    engagement: 311
+    commentsToLikes: 0.051585
+    id: ck0tw8lb6edt50i19i4of4sns
     verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: "#visit, #mercedes, #natureaddict, #creatorsde"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Spain In 2022
+title: Top 10 Architecture Instagram Influencers In Spain In 2023
 description: >-
-  Find top architecture Instagram influencers in Spain in 2022. Most popular hashtags: #spain #travel #barcelona #sunset.
+  Find top architecture Instagram influencers in Spain in 2023. Most popular hashtags: #architecture #arquitectura #barcelona #ig.
 platform: Instagram
-hits: 256
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 256 Instagram influencers like this in Spain for you to collaborate.
+hits: 185
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 185 Instagram influencers like this in Spain for you to connect with.
 profiles:
   - username: "marcplam"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       📍Barcelona 💡Designer / Actor Design•Architecture•Photography•Travels•Fashion•Creativity 🇪🇸 🇵🇹 🇦🇩 🇫🇷 🇮🇹 🇨🇭 🇩🇪 🇬🇧 🇧🇪 🇳🇱 🇬🇷 🇹🇷 🇪🇬 🇯🇴 🇻🇳 🇨🇳 🇵🇭 🇹🇭 🇸🇨 🇺🇸
     location: "Spain"
-    followers: 5952
-    engagement: 1855
-    commentsToLikes: 0.038305
+    followers: 6359
+    engagement: 1077
+    commentsToLikes: 0.044978
     id: ck15uzxdlp97j0i19rabrc07y
     verified: false
-    hashtags: "#ootdfashion, #instagay, #gaystagram, #gay"
-  - username: "imigordaniel"
+    hashtags: "#holidays, #men, #photography, #fashionman"
+  - username: "jasmine.moon_"
     fullname: >-
-      Igor Daniel
+      jas 🧿 ☽
     bio: >-
-      art travel fashion architecture 📍 Barcelona contactigordaniel@gmail.com
+      Founder & CEO @jun.ibiza Architecture, Design & Creative Direction
     location: "Spain"
-    followers: 13042
-    engagement: 1063
-    commentsToLikes: 0.026649
-    id: ckaox8rlbca0n0i78ax7igjz5
-    verified: false
-    hashtags: "#photooftheday, #malemodel, #menswear, #instaboy"
-  - username: "dennysmp"
-    fullname: >-
-      Dennys Martin Perez
-    bio: >-
-      . . . . . ⭐ . . . . . Diseñador y Fotógrafo ✈ Canario en Galicia 🏡 @lacarmonahouse Coming soon 🎥 @sch_lifestylephoto 📷 @sch_architecture
-    location: "Spain"
-    followers: 6399
-    engagement: 608
-    commentsToLikes: 0.040599
-    id: ck5zqui6hvbh90i14zx3omw3j
-    verified: false
-    hashtags: "#boiro, #galicia, #paraiso, #ribadavia"
-  - username: "vanillaattack"
-    fullname: >-
-      Teresa Sala
-    bio: >-
-      ☼ Mama to Noah ☼ Owner of @vanilla.swim ☼ BA in Architecture 💌 hello@vanillaattack.com
-    location: "Spain"
-    followers: 437598
-    engagement: 90
-    commentsToLikes: 0.021530
-    id: ck5zspybgyz2m0i14ym83xmci
-    verified: false
-    hashtags: "#jan, #bobbies, #bobbiespartner, #revolveme"
-  - username: "xuanyl7"
-    fullname: >-
-      Xuan Yin
-    bio: >-
-      📐Architect in progress 👔Intern at @amb_metropolis 📷 Freelance Architectural Photographer #Architecture | #Landscape | #Portrait
-    location: "Spain"
-    followers: 13593
-    engagement: 1551
-    commentsToLikes: 0.114601
-    id: ck5zrgjg8wje20i1419ezo7o3
-    verified: false
-    hashtags: "#minimal, #opengram20, #ohb20, #cityscape"
-  - username: "arqpatrimonial"
-    fullname: >-
-      A N D R É S | Chilean in Spain
-    bio: >-
-      📸 Urban | Architecture | Fisheye ©️ Founder of @castlesofspain 🇪🇸 Collaborated in @ok_spain 📍 Badajoz - Extremadura - Spain
-    location: "Spain"
-    followers: 7169
-    engagement: 1671
-    commentsToLikes: 0.151165
-    id: ck5zv3us93jlt0i14iqoyh7fw
-    verified: false
-    hashtags: "#castles, #lavera, #amar, #igersspain"
-  - username: "gonaquerreta"
-    fullname: >-
-      Gonzalo Aquerreta
-    bio: >-
-      architecture and digital
-    location: "Spain"
-    followers: 63577
-    engagement: 830
-    commentsToLikes: 0.008017
-    id: ck0w10k4pgymk0i19qjs9nv3m
+    followers: 11515
+    engagement: 569
+    commentsToLikes: 0.031475
+    id: ck14jaczhjc0l0i19nsbzpn0l
     verified: false
     hashtags: ""
-  - username: "manhund"
-    fullname: >-
-      Manuel Gil | Valencia
-    bio: >-
-      City | Architecture | Some people framing Living in Bilbao 🇪🇸 Nuevo vídeo en YouTube👇🏻 📽️
-    location: "Spain"
-    followers: 3895
-    engagement: 1464
-    commentsToLikes: 0.129281
-    id: ck5hdrrrnp1j00i116ow8ov3i
-    verified: false
-    hashtags: "#manhund, #theimaged, #exploreourearth, #streetsineurope"
   - username: "migmacia"
     fullname: >-
       Miguel
     bio: >-
       Burgos , lugares y el 🌍 alrededor. Travel....📸 Streets & Architecture.
     location: "Spain"
-    followers: 2402
-    engagement: 2405
-    commentsToLikes: 0.063438
+    followers: 2578
+    engagement: 2036
+    commentsToLikes: 0.069015
     id: ck8sywr4ambbr0j78pmhcrdub
     verified: false
-    hashtags: "#passionpassport, #visitportugal, #amar, #architecturephotography"
-  - username: "franlopez_r"
+    hashtags: "#cylesvida, #estaes, #architecture, #alluring"
+  - username: "yamildoval"
     fullname: >-
-      Francisca López
+      Yamil Doval
     bio: >-
-      🇨🇱 24 Last yr Architecture student || UVM Crossfit Bilingual (spanish/eng)
+      📍 Based in Barcelona 📷 Architecture & pretty places 💙 Galego ⬇️ Prints & Presets ⬇️
     location: "Spain"
-    followers: 3260
-    engagement: 989
-    commentsToLikes: 0.062093
-    id: ck5pw75dvlfl90i11z33znrwl
+    followers: 6936
+    engagement: 1319
+    commentsToLikes: 0.033526
+    id: ck6u7v27fnt470j718mz0eoun
     verified: false
-    hashtags: "#sur, #chile, #photography, #carreteraaustral"
+    hashtags: "#galicia, #citiesoftheworld, #europedestinations, #lebeauvoyage"
+  - username: "acampobaeza"
+    fullname: >-
+      Alberto Campo Baeza
+    bio: >-
+      PhD Architect. Professor at the Madrid School of Architecture, ETSAM. Full Member to the Royal Academy of Fine Arts of San Fernando of Spain.
+    location: "Spain"
+    followers: 33675
+    engagement: 685
+    commentsToLikes: 0.005329
+    id: ck15sd3y2ceiz0i19lnjk5bxo
+    verified: false
+    hashtags: "#ufv, #albertocampobaeza, #maquetas, #polideportivo"
+  - username: "krestadesign"
+    fullname: >-
+      KRESTA DESIGN
+    bio: >-
+      _Architecture and Design_ LUCAS Y HERNÁNDEZ-GIL
+    location: "Spain"
+    followers: 36879
+    engagement: 348
+    commentsToLikes: 0.072397
+    id: ck6tkuo3a5fpg0j71uyl30c6m
+    verified: false
+    hashtags: "#jos, #somewheremagazine, #renderart, #art"
+  - username: "adriagoulaphoto"
+    fullname: >-
+      Adria Goula Photo
+    bio: >-
+      Architecture photographer based in Barcelona #architecturephotography #barcelona
+    location: "Spain"
+    followers: 32442
+    engagement: 216
+    commentsToLikes: 0.019169
+    id: ck0uc6b2bg7a30i19ct5lcc37
+    verified: false
+    hashtags: "#architectureporn, #architecturedesign, #adriagoulaphoto, #architecturephotography"
+  - username: "peribet"
+    fullname: >-
+      Pedro
+    bio: >-
+      Barcelona Ⓜ️@raw_architecture_ Ⓜ️@rustlord_unity
+    location: "Spain"
+    followers: 12289
+    engagement: 328
+    commentsToLikes: 0.041354
+    id: ck5q84wyj4gb00i117gwc8li4
+    verified: false
+    hashtags: "#arquitecturamx, #creative, #kings, #excellent"
+  - username: "totonsanchez"
+    fullname: >-
+      TOTON SANCHEZ
+    bio: >-
+      A multidisciplinary architecture & interior design firm @totonsanchez #totonsanchez
+    location: "Spain"
+    followers: 14485
+    engagement: 445
+    commentsToLikes: 0.021926
+    id: ck14ltuwjwgga0i19thouzmze
+    verified: false
+    hashtags: "#arquitecturaydise, #architecture, #madrid, #interiordesign"
+  - username: "pollolavin"
+    fullname: >-
+      Felipe Lavin
+    bio: >-
+      Landscape and Architecture Photography 📍Chile info@felipelavin.com
+    location: "Spain"
+    followers: 17735
+    engagement: 196
+    commentsToLikes: 0.028149
+    id: ckf5pk5am6cw00j2370h4adfb
+    verified: false
+    hashtags: "#puntadelobos, #artwork, #photography, #contemporaryart"
 ---

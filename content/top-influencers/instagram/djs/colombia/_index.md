@@ -1,130 +1,130 @@
 ---
-title: Top 10 Djs Instagram Influencers In Colombia In 2022
+title: Top 10 Djs Instagram Influencers In Colombia In 2023
 description: >-
-  Find top djs Instagram influencers in Colombia in 2022. Most popular hashtags: #dj #colombia #tbt #bogota.
+  Find top djs Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #cali #dj #aleteo.
 platform: Instagram
-hits: 26
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database has 26 Instagram influencers like this in Colombia for you to connect with.
+hits: 25
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 25 Instagram influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "djyoyord"
+    fullname: >-
+      DJ YOYO PRESENTA
+    bio: >-
+      @bulovasfamily TOUR DJ - CEO-djssinnombrerd 🔥
+    location: "Colombia"
+    followers: 15866
+    engagement: 140
+    commentsToLikes: 0.114387
+    id: ck5zutt3p30zb0i14eubyuay7
+    verified: false
+    hashtags: "#repost, #una"
   - username: "mix89.9"
     fullname: >-
-      Mix 89.9 Medellín
+      Mix 89.9 Medellín
     bio: >-
-      🔥Medellín en #ModoMix 📱310 22 27 899 Dirige @LauraBuendiaJ DJ's @arguellesdj @alexgonzalezmiala @andrespartydj @eldieguini @djzajarave @davidramirezfm
+      🔥Medellín en #ModoMix 📱310 22 27 899 Dirige @LauraBuendiaJ DJ's @alexgonzalezmiala @arguellesdj @JennyDuque_ @guti899 @djzaja
     location: "Colombia"
-    followers: 127202
-    engagement: 54
-    commentsToLikes: 0.487988
+    followers: 224036
+    engagement: 42
+    commentsToLikes: 1.226874
     id: ck15shxrld3e70i19kc89omug
     verified: false
-    hashtags: "#enmicasaescuchandomix899, #moneymix, #martes, #teammix"
-  - username: "djsortech"
-    fullname: >-
-      𝗦𝗢𝗥𝗧𝗘𝗖𝗛
-    bio: >-
-      @groodtaste Medellin, Colombia 🇨🇴 Escucha Mi Nuevo Set 👇👇👇
-    location: "Colombia"
-    followers: 22330
-    engagement: 287
-    commentsToLikes: 0.060272
-    id: ck5c7kip47owi0i116d66veqm
-    verified: false
-    hashtags: "#cartagena, #sortech, #cali, #tbt"
+    hashtags: "#miercoles, #modomix, #jueves, #tbt"
   - username: "djsantiagocardona"
     fullname: >-
       SANTIAGO CARDONA
     bio: >-
-      DURO CON LA MÚSICA #guaracha • Booking Manager • +57 3158026410 • ESCUCHA MI ÚLTIMO SET🔥💯🕺🏼
+      DURO CON LA MÚSICA #guaracha • Booking Manager • +57 3158026410 • ESCUCHA AVENTURERO🔥💯🕺🏼
     location: "Colombia"
-    followers: 112167
-    engagement: 288
-    commentsToLikes: 0.072263
+    followers: 116744
+    engagement: 303
+    commentsToLikes: 0.020049
     id: ck6ubktnja62p0j71zvgq9xsn
     verified: false
-    hashtags: "#guarachacolombiana, #djsantiagocardona, #duroconlamusica, #guaracha"
+    hashtags: "#multiplesefectos, #duroconlamusica, #aventurero, #aleteo"
+  - username: "djsortech"
+    fullname: >-
+      𝗦𝗢𝗥𝗧𝗘𝗖𝗛
+    bio: >-
+      @groodtaste Residente @viuzclub Medellin, Colombia 🇨🇴 Escucha Mi Nuevo Set 👇👇👇
+    location: "Colombia"
+    followers: 22669
+    engagement: 247
+    commentsToLikes: 0.050925
+    id: ck5c7kip47owi0i116d66veqm
+    verified: false
+    hashtags: "#techhouse, #groodtaste, #music, #medellin"
   - username: "zapateolatino"
     fullname: >-
       𝐆 𝐔 𝐀 𝐑 𝐀 𝐂 𝐇 𝐀®
     bio: >-
       • Vᴀᴍᴏs ʜᴀᴄᴇʀ ᴄʀᴇᴄᴇʀ ᴇʟ ɢᴇ́ɴᴇʀᴏ💯 💸 𝐏𝐔𝐁𝐋𝐈𝐂𝐈𝐃𝐀𝐃 & 𝐀𝐏𝐎𝐑𝐓𝐄𝐒 📩 • Sɪ́ɢᴜᴇɴᴏs ᴇɴ Fᴀᴄᴇʙᴏᴏᴋ👇 👇
     location: "Colombia"
-    followers: 43585
-    engagement: 217
-    commentsToLikes: 0.012511
+    followers: 41974
+    engagement: 234
+    commentsToLikes: 0.012439
     id: ck9wfmpdspj6z0j78zsssffmv
     verified: false
-    hashtags: "#panama, #bogota, #dj, #djs"
-  - username: "djninacaballero"
-    fullname: >-
-      Nina Caballero
-    bio: >-
-      Dios #1 🇨🇴DJ Latín Beat ⬇️CONTRATACIONES ⬇️ 🔥 +57 3022986640 🔥 🎧Redacción @djcitylatino 🎓Comunicación social-Periodismo UPG NUEVO SET 😎🍑 ⬇️⬇️⬇️⬇️
-    location: "Colombia"
-    followers: 19082
-    engagement: 1375
-    commentsToLikes: 0.025764
-    id: ck14lq8govxzh0i19cnwbfzm1
-    verified: false
-    hashtags: "#fiesta, #reggaeton, #colombia, #chapinero"
+    hashtags: "#panama, #latinhouse, #chilezapatea, #argentina"
   - username: "paocalderon"
     fullname: >-
       Pao calderon
     bio: >-
       𝙳𝚓 𝚞𝚗𝚝𝚒𝚕 𝙸 𝚏𝚒𝚗𝚍 𝚊 𝚛𝚎𝚊𝚕 𝚓𝚘𝚋 . . . 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 @dtlrecords
     location: "Colombia"
-    followers: 27260
-    engagement: 337
-    commentsToLikes: 0.052836
+    followers: 27380
+    engagement: 380
+    commentsToLikes: 0.049176
     id: ck5zq0uzatpvu0i1455bdd8yh
     verified: true
-    hashtags: "#tb, #quevuelvaelcolor, #dj, #djlife"
-  - username: "puppysierna"
+    hashtags: "#moog, #streaming, #dj, #djlife"
+  - username: "ironcat.dj"
     fullname: >-
-      PUPPY SIERNA
+      IRONCAT 🐱
     bio: >-
-      Metele Rico😈 Disponible en YouTube Artist Relations @bpmlatino @solosabrosurarecords ESCUCHA🔻Mal De Amores 💔 • Manager 👉🏻+57 3124448569
+      Cali - Colombia 🇨🇴 Contrataciones: +57 312 687 67 85 ESCUCHA MI NUEVO SET !!! ⬇⬇️⬇
     location: "Colombia"
-    followers: 44016
-    engagement: 241
-    commentsToLikes: 0.041958
-    id: ck5q8p9q47b4p0i11zsbylpbk
+    followers: 21823
+    engagement: 348
+    commentsToLikes: 0.027309
+    id: ck5c7krwh7phw0i11tauhqg5t
     verified: false
-    hashtags: "#zapateocolombia, #guaracha, #puppysierna, #aleteo"
-  - username: "djchocobeats"
+    hashtags: "#valle, #instaexplore, #ironcat, #cali"
+  - username: "king.novaofficial"
     fullname: >-
-      Dj Choco Beats
+      KING NOVA .©™
     bio: >-
-      Senior Art Director Dj Choco Beats 🇨🇴 GLOBAL BEAT📀🎚📀 ESCUCHA➡️ MIXTAPE ROMANTIC PERREO⬇️🔊⬇️
+      👑King👑 Contacto: +34 654 00 85 60 Manager : @on_mngr
     location: "Colombia"
-    followers: 7213
-    engagement: 248
-    commentsToLikes: 0.045142
-    id: ck14lpz4pvwn70i192wbei7la
+    followers: 4057
+    engagement: 693
+    commentsToLikes: 0.112153
+    id: ck6u5kz8da8dy0j712h83hzvc
     verified: false
-    hashtags: "#classic, #guitar, #singer, #follows"
-  - username: "missangeldj"
+    hashtags: "#barcelona, #madrid, #freestyle, #usa"
+  - username: "koldomiranda"
     fullname: >-
-      Miss Angel
+      Koldo Miranda
     bio: >-
-      Djane/Producer Medellin Colombia MISS ANGEL Dj/Djane/ Mejor Dj Femenina CDA 2019 y 2015 House/Tech House/ Groove www.soundcloud.com/missangeldj
+      Koldo Miranda 360 @cuartofrio_gastro @ammacaffe_bog @km.kitchengallery
     location: "Colombia"
-    followers: 43324
-    engagement: 154
-    commentsToLikes: 0.047300
-    id: ck5q8py1o7evf0i11fapdd1a7
+    followers: 20879
+    engagement: 139
+    commentsToLikes: 0.038833
+    id: ck5c05f3zshaw0i11804vnb4j
     verified: false
-    hashtags: "#djs, #nigeria, #justfun, #work"
-  - username: "bombaestereo"
+    hashtags: "#chefsforamerica, #chefs, #chefstalk, #cheflife"
+  - username: "deejaylolita"
     fullname: >-
-      Bomba Estéreo
+      DJ LOLITA
     bio: >-
-      Próximo Concierto: 28 de Noviembre en Bogotá👇
+      🎧 -> •@defjamaicaclub •@audiolirica •@liannamusic •@yojosegabrielrcn •@elcandelario •@lapergolaclandestina ⬇️VÍDEO NUEVO⬇️
     location: "Colombia"
-    followers: 336697
-    engagement: 147
-    commentsToLikes: 0.020546
-    id: ck0vwy9gqw6mn0i19rn36zmge
-    verified: true
-    hashtags: "#fuego, #album, #nuevo, #elementoagua"
+    followers: 11784
+    engagement: 656
+    commentsToLikes: 0.024989
+    id: ck0uads2wc24f0i19li9q6y0n
+    verified: false
+    hashtags: "#djlolita, #deftv, #ilovetardeo, #def"
 ---

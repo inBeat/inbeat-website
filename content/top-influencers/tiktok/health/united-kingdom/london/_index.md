@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In London In 2022
+title: Top 10 Health TikTok Influencers In London In 2023
 description: >-
-  Find top health TikTok influencers in London in 2022. Most popular hashtags: #health #fyp #learnontiktok #london.
+  Find top health TikTok influencers in London in 2023. Most popular hashtags: #fyp #london #health #foryou.
 platform: TikTok
-hits: 33
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database holds 33 TikTok influencers like this in London, United Kingdom for you to collaborate.
+hits: 21
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 21 TikTok influencers like this in London, United Kingdom for you to connect with.
 profiles:
   - username: "embodyhealthldn"
     fullname: >-
       Embody Health London
     bio: >-
-      Dancing Dietitians 💃 ED RECOVERY & INTUITIVE EATING🌸 Apply for 1:1 coaching👇
+      Dancing Dietitians💃 ED RECOVERY & INTUITIVE EATING🌸 Recovery starts here ⤵️
     location: "United Kingdom"
-    followers: 42300
-    engagement: 750
-    commentsToLikes: 0.015354
+    followers: 66000
+    engagement: 829
+    commentsToLikes: 0.021477
     id: ckcuzpzbamw2i0j23qj1y4a4s
     verified: false
-    hashtags: "#dietitian, #itbelikethat, #edrecovery, #intuitiveeating"
-  - username: "smallspartanjay"
+    hashtags: "#pleasedontgo, #dancingdietitians, #fyp, #edrecovery"
+  - username: "gaganukwala"
     fullname: >-
-      Small Spartan 
+      Gaganukwala
     bio: >-
-      Jay@ixbtalent.com INSTAGRAM - @Smallspartanjay YOUTUBE - SMALLSPARTANTV
+      SINGLE 😉 FIT💪 MOTIVATION 🤝
     location: "United Kingdom"
-    followers: 373300
-    engagement: 531
-    commentsToLikes: 0.008157
-    id: ck83wyzr0n5k10j78grbaw3ur
+    followers: 688400
+    engagement: 529
+    commentsToLikes: 0.009495
+    id: ck8s5r5e2h5qa0j78sfzli6x9
     verified: false
-    hashtags: "#abs, #london, #fit, #sixpack"
-  - username: "jackrunstheworld"
+    hashtags: "#foryou, #india, #gaganukwala, #pakistan"
+  - username: "matthewshribman"
     fullname: >-
-      Jack Runs The World
+      Matthew Shribman
     bio: >-
-      Travel ✈️ Content creator and writer. Author. Singer/Songwriter. Gay. 🏳️‍🌈
+      ☄️ Scientist 🌱 Environmentalist 🎻 Musician Side-mission = befriend all dogs🐕
     location: "United Kingdom"
-    followers: 25300
-    engagement: 969
-    commentsToLikes: 0.039496
-    id: ckdi0jpeq5m1g0j233dlwy66u
+    followers: 17700
+    engagement: 1692
+    commentsToLikes: 0.025017
+    id: ck8ou4l9fo4af0j78fxlrppgb
     verified: false
-    hashtags: "#wales, #travels, #harrypottermovies, #harrypotter"
+    hashtags: "#edutok, #climatechange, #education, #radiation"
+  - username: "bald_font"
+    fullname: >-
+      Your Number 1 Fan ❤️
+    bio: >-
+      🧠Me, Myself & Mental Health issues 🧲Accidental Influencer 👄LipSync pro. 📍UK
+    location: "United Kingdom"
+    followers: 31700
+    engagement: 3097
+    commentsToLikes: 0.273118
+    id: ckb17cmpnuxqa0j23dfcy0jm2
+    verified: false
+    hashtags: "#mumsoftiktok, #lol, #lols, #fy"
   - username: "benslade09"
     fullname: >-
       Ben Slade
     bio: >-
       London 🇬🇧 IG: @ben_slade
     location: "United Kingdom"
-    followers: 6527
-    engagement: 488
-    commentsToLikes: 0.028837
+    followers: 6462
+    engagement: 506
+    commentsToLikes: 0.035712
     id: ck9nn319fnaaf0j78v0p6qabd
     verified: false
-    hashtags: "#foryoupage, #workout, #foryou, #trend"
-  - username: "ashlyraeceo"
+    hashtags: "#tiktok, #foryou, #foryourpage, #viral"
+  - username: "bingerspingers"
     fullname: >-
-      ashlyraeceo
+      George Bingham
     bio: >-
-      Scottish ✨ Living in London ✨ Plant Based 🌱 Health, Wealth & Beauty 🌸
+      Food. Fitness. Health. Wealth. Lifestyle. Here for a good time, not a long time!
     location: "United Kingdom"
-    followers: 21500
-    engagement: 360
-    commentsToLikes: 0.026622
-    id: ck8ouyb7jrp0w0j78801dsrdw
+    followers: 469100
+    engagement: 562
+    commentsToLikes: 0.008791
+    id: ck9k05ippbjno0j78ynntubi9
     verified: false
-    hashtags: "#london, #fyp, #yoga, #funny"
-  - username: "maxfostercnn"
+    hashtags: "#fyp, #learnontiktok, #foryoupage, #fuelforfitness"
+  - username: "judd_shoes"
     fullname: >-
-      Max Foster
+      Judd
     bio: >-
-      News & the stuff that happens around it
+      Judd Shoes and Reviews / Fits for the shoes / Smoothie lover & more 🔥👟
     location: "United Kingdom"
-    followers: 208500
-    engagement: 1047
-    commentsToLikes: 0.033742
-    id: ck9nohbsju2mr0j782zzdkha7
-    verified: true
-    hashtags: "#news, #cnn, #learnontiktok, #climatechange"
-  - username: "tillydumb3ll"
-    fullname: >-
-      Hi 👋 ☺️
-    bio: >-
-      Messages don’t work 💞 Pinterest-Tilly Dumbell Depop-tilly_
-    location: "United Kingdom"
-    followers: 14800
-    engagement: 1671
-    commentsToLikes: 0.038240
-    id: ckbqp2x3u9xfj0j234jvyuwbq
+    followers: 2747
+    engagement: 755
+    commentsToLikes: 0.121071
+    id: ckc7ha602pnw90j23nzmw97wr
     verified: false
-    hashtags: "#preppy, #styletips, #vibe, #indie"
-  - username: "jalalsamfit"
+    hashtags: "#notahypebeast, #fashion, #weekly, #smoothie"
+  - username: "chloekourga"
     fullname: >-
-      Jalal
+      chloekourga
     bio: >-
-      London🇬🇧 fitness | gains | tips instagram - jalalsamfit positive vibes 💫
+      Fitness thingz 🤘🏻 & Doing things that scare me 👊🏻 Funnier on IG ⬆️
     location: "United Kingdom"
-    followers: 226900
-    engagement: 558
-    commentsToLikes: 0.016176
-    id: ck9r6257720zb0j78fn86x6rr
+    followers: 21200
+    engagement: 1105
+    commentsToLikes: 0.021921
+    id: ck9n8ddna8h4a0j78dc7r70rs
     verified: false
-    hashtags: "#dessert, #health, #getfit, #easymeal"
-  - username: "theimperfectnutritionist"
+    hashtags: "#london, #stretching, #gymtok, #yoga"
+  - username: "graffitikings_gman"
     fullname: >-
-      Jennifer Medhurst
+      🔥FOLLOW🔥
     bio: >-
-      Registered Nutritionist London and virtual clinic Contact@jennifermedhurst.com
+      🔥 GRAFFITI KINGS 🔥 @graffitikings 151k Insta 2.4 mil Facebook 53k Twitter
     location: "United Kingdom"
-    followers: 93200
-    engagement: 464
-    commentsToLikes: 0.011222
-    id: ck9844lzrn0010j78stjuo5aq
+    followers: 11000
+    engagement: 652
+    commentsToLikes: 0.047074
+    id: cka0rgfufgzld0i78e8uwwkcw
     verified: false
-    hashtags: "#fyp, #healthyrecipe, #learnontiktok, #vegan"
-  - username: "alicesantos0204"
+    hashtags: "#fun, #graffitikings, #2022, #graffitiart"
+  - username: "mimilouj"
     fullname: >-
-      alicesantos0204
+      mimilouj
     bio: >-
-      Health • Wellness • Model Follow me on Instagram @alicesantos0204
+      📍LDN 🏋🏼‍♀️ Fitness blogger & level 3 PT ♥️ Insta @mimilouj (20k) ✨
     location: "United Kingdom"
-    followers: 55400
-    engagement: 1123
-    commentsToLikes: 0.010486
-    id: ckbqdwfnjzunv0j23os835vbo
+    followers: 3920
+    engagement: 550
+    commentsToLikes: 0.091608
+    id: ckcuqp74pjdbb0j23lj2wt0b8
     verified: false
-    hashtags: "#fy, #life, #health, #saudavel"
+    hashtags: "#healthy, #diet, #workout, #health"
 ---

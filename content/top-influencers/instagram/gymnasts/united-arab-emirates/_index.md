@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Gymnasts Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top gymnasts Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #mydubai #gymnastics #calisthenics #dubai.
+  Find top gymnasts Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #gymnastics #fitness #dubai #circus.
 platform: Instagram
-hits: 12
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 12 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 10
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 10 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
-  - username: "lamia_lilwonderofuae"
+  - username: "demibradyx"
     fullname: >-
-      Lamia Tariq
+      Ｄｅｍｉ Ｂｒａｄｙ
     bio: >-
-      Emirati Gymnast🇦🇪🤸🏻‍♀️🦄 Compete in RG to win medals🥇🥉 Won MBR Sport Award 2019🏆 هدفي التنافس في أولمبياد والفوز بالميدالية الذهبية🥇🇦🇪 ❤🇦🇪
+      DUBAI 📍 Dance & Gymnastics Coach 🤸🏻‍♀️ Primary 📚 MSc psychology 🧠
     location: "United Arab Emirates"
-    followers: 17034
-    engagement: 919
-    commentsToLikes: 0.027115
-    id: ck5zmawxym8f20i14twzno9y4
+    followers: 27079
+    engagement: 342
+    commentsToLikes: 0.079728
+    id: ck6u34dn9vmzq0j71sdl8uixf
     verified: false
-    hashtags: "#training, #olympicchannel, #kidsindubai, #beyourownkindofbeautiful"
-  - username: "worldofeva"
+    hashtags: "#byrokko, #tan"
+  - username: "flexifarah"
     fullname: >-
-      EVA✨Flexibility & Mindfulness
+      Farah
     bio: >-
-      Bring passion into everything you do 💫 🥀 Flexibility ✧ Yoga ✧ Stretching 🔮 Magical moments & adventures 🌙 Create your own dream life 📚 My EBOOK out 🔜
+      Contortionist 👽 & Flexibility coach 📍Dubai Train with me 💌 DM
     location: "United Arab Emirates"
-    followers: 21762
-    engagement: 444
-    commentsToLikes: 0.057929
-    id: ck14jk4h2kriv0i1912ora5pz
+    followers: 26175
+    engagement: 409
+    commentsToLikes: 0.026050
+    id: ck55lzhz02u970i11g6vocbs2
     verified: false
-    hashtags: "#yogapractice, #handstanding, #splitseverywhere, #yogainspiration"
-  - username: "fares_calisthenics"
+    hashtags: "#flexible, #split, #flexibilitygoals, #flexifarah"
+  - username: "gabrielsuski"
     fullname: >-
-      Fares🐺
+      Gabriel Suski
     bio: >-
-      2 time 1st place BOTB 1vs1 1st place Arnold classic calisthenics championship Melbourne’18 1st place redbull SW
+      💢Ex-Ginasta 🏡From Blumenau, Santa Catarina, Brazil🇧🇷 🎭Currently in La Perle by Franco Dragone 🎪 📍Dubai, UAE 🇦🇪
     location: "United Arab Emirates"
-    followers: 10657
-    engagement: 729
-    commentsToLikes: 0.062561
-    id: ck55lhb3i1kau0i11wiwf3u3u
+    followers: 9956
+    engagement: 678
+    commentsToLikes: 0.022227
+    id: ck139ozolmex10i195oa641aa
     verified: false
-    hashtags: "#calisthenicsworkout, #calisthenicsfreestyle, #mydubai, #freestylecalisthenics"
-  - username: "dr_marcfit"
+    hashtags: "#calisthenics, #happy, #vacation, #paje"
+  - username: "cherry_pole_dance_pro"
     fullname: >-
-      Asem Marc Bacha. DDS
+      Pole Dance/Stretching|Rostov
     bio: >-
-      Dentist | Oral Implantology Professor at UIC @gornation Athlete 🏆🥇WCO Battle of the Bars Dubai 2019 🏆🥇Feswc Arnold Classic Europe 2019
+      PoLeARt CHErRy CiRCuS 🏆Чемпионка Мира🏆 🏆Winner PoleTheatre World Drama19 🏆🏆Dubai PoleCup Pro17,18 🏆Ultimate Winner Pro PoleTheatre Art Hungary18
     location: "United Arab Emirates"
-    followers: 9741
-    engagement: 752
-    commentsToLikes: 0.040541
-    id: ck5zvl4zd4fw00i14r0yv8e36
+    followers: 57698
+    engagement: 140
+    commentsToLikes: 0.048988
+    id: ck55psqp5baoa0i117u3bnrnl
     verified: false
-    hashtags: "#handstand, #vertical, #oralsurgeon, #dentistry"
-  - username: "justinshape"
+    hashtags: "#badkittyusa, #poledancerofig, #stretching, #flexibilitytraining"
+  - username: "blackmarlin.divers"
     fullname: >-
-      Justin Garcia
+      Black Marlin Divers
     bio: >-
-      📍Dubai Personal Trainer 🇦🇪 ⭐️WCO Elite Coach 🏆WCO USA Featherweight Champ 👇ALL-LEVEL PLANCHE TEXTBOOK ($25)
+      @coach.tony.antoun #redsea #friends #family #activities #fun #love #underwater #jeddah #lebanon #jordan #uae #kuwait #blackmarlindivers 966 55 3687878
     location: "United Arab Emirates"
-    followers: 33268
-    engagement: 113
-    commentsToLikes: 0.045211
-    id: ck5pzkq7y1gbf0i11jeuq9r1q
+    followers: 5058
+    engagement: 557
+    commentsToLikes: 0.002031
+    id: ck6ttbw9f9qso0j71x07ifd4s
     verified: false
-    hashtags: "#crossfit, #life, #trainer, #handbalancing"
-  - username: "fahad_mousa_"
+    hashtags: "#sports, #family, #saudiarabia, #ballet"
+  - username: "muhabafifi"
     fullname: >-
-      FAHAD KAISARI | فهد الكيسري
+      Muhab M. Afifi
     bio: >-
-      Futsal player ‏‎Snapchat : fahadmousa_8
+      سبحان الله وبحمده سبحان الله العظيم 27 CFT ( Parkour & Freerunning ) trainer & athlete Stuntman 🎥 Egypt/Dubai Fast Cars ❤🏎
     location: "United Arab Emirates"
-    followers: 50132
-    engagement: 340
-    commentsToLikes: 0.049540
-    id: ck9wfad9vnybx0j78i66oscgw
+    followers: 18851
+    engagement: 266
+    commentsToLikes: 0.025089
+    id: ckap0ugunruog0i78vg25tga7
     verified: false
-    hashtags: "#jentalman, #armani, #body, #modeling"
-  - username: "maximshatrov"
+    hashtags: "#instafit, #mydubai, #style, #feelsgood"
+  - username: "kieparkour"
     fullname: >-
-      DUBAI PHOTOGRAPHER FILMMAKER
+      Cai Mckeever Willis
     bio: >-
-      Sport and Lifestyle | Photographer & Filmmaker | Dubai 🇦🇪 | @redbullphotography | Ambassador | @elinchrom_ltd | WhatsApp |+971503412101 |
+      Professional Drone Pilot 📍Dubai
     location: "United Arab Emirates"
-    followers: 7301
-    engagement: 1202
-    commentsToLikes: 0.045136
-    id: ck5q5btqgs6190i11gldfpmxw
-    verified: false
-    hashtags: "#dubaivideographer, #sportphotographer, #dubaiyogateacher, #elinchrom"
-  - username: "ferdubai"
+    followers: 109460
+    engagement: 425
+    commentsToLikes: 0.011885
+    id: ck0w4d1qpxzac0i19yugtcxfs
+    verified: true
+    hashtags: "#dji, #xdubai, #brighton, #gopro"
+  - username: "duo_destiny_"
     fullname: >-
-      Fernando 🇪🇸 | Dubai 🇦🇪
+      Duo Destiny
     bio: >-
-      💪🏼Getting ambitious people in shape in 90days. Check the results of my last clients after the lock down 🦠 12weeks plan👉🏼 @fernando_transformations
+      ᴋɪɴɢᴀ | ɢᴏɴᴄᴀʟᴏ 🇵🇱🇵🇹 Dubai📍 • 𝘞𝘪𝘯𝘯𝘦𝘳𝘴 𝘰𝘧 𝘗𝘰𝘭𝘢𝘯𝘥 𝘎𝘰𝘵 𝘛𝘢𝘭𝘦𝘯𝘵 🏆 • 𝘈𝘎𝘛 • 𝘊𝘪𝘳𝘲𝘶𝘦 𝘥𝘶 𝘚𝘰𝘭𝘦𝘪𝘭 • 𝘔𝘰𝘶𝘭𝘪𝘯 𝘙𝘰𝘶𝘨𝘦 • 𝘊𝘐𝘙𝘘𝘖 - 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘦𝘥 𝘛𝘳𝘢𝘪𝘯𝘦𝘳𝘴 • JOIN THE CLASS:
     location: "United Arab Emirates"
-    followers: 51929
-    engagement: 244
-    commentsToLikes: 0.027895
-    id: ck5zvkxyv4ffr0i142x0u7ckz
-    verified: false
-    hashtags: "#jumeirah, #motivationalquotes, #fitlife, #training"
+    followers: 23595
+    engagement: 577
+    commentsToLikes: 0.023508
+    id: ck6tm67k2791m0j71molmttj5
+    verified: true
+    hashtags: "#handstandeveryday, #circusstyle, #cirque, #artists"
   - username: "isa_galvao"
     fullname: >-
-      ISABELLA GALVÃO, 25 🇧🇷
+      ISABELLA GALVÃO, 26 🇧🇷
     bio: >-
-      CIRCUS / LIFESTYLE / FITNESS 📍Dubai ▫️Aerialist/Acrobat at @laperledxb 🎭 ▫️Gymnastics, Circus, Stretching Coach ▫️P.T ▫️Master Degree Sports Training
+      CIRCUS / FITNESS / LIFESTYLE 📍Dubai ▫️Aerialist/Acrobat at @laperledxb 🎭 ▫️Acrobatics, Circus, Stretching Coach ▫️Personal Trainer ▫️YOUTUBE⬇️
     location: "United Arab Emirates"
-    followers: 7098
-    engagement: 901
-    commentsToLikes: 0.040321
+    followers: 10683
+    engagement: 409
+    commentsToLikes: 0.051050
     id: ckap20658wtcf0i78prrhfs74
     verified: false
-    hashtags: "#workout, #calisthenics, #circuslife, #circusinspiration"
-  - username: "mar_violinha"
+    hashtags: "#circuseverydamnday, #aerialist, #yogatips, #laperledxb"
+  - username: "siggadb"
     fullname: >-
-      Marina :)
+      Dora The Explorer
     bio: >-
-      🤸🏼‍♀️ Calisthenics | HANDSTAND | Mobility Online handstand courses available Co-founder of @fortem__
+      📍Dubai 🇮🇸 From Iceland @voguefitness.jlt - Crossfit Coach
     location: "United Arab Emirates"
-    followers: 31187
-    engagement: 166
-    commentsToLikes: 0.039155
-    id: ck5zk5qbriv410i148z7y8t3a
+    followers: 2980
+    engagement: 958
+    commentsToLikes: 0.039005
+    id: ck0tt1z5q0t2k0i19qlaf7z0s
     verified: false
-    hashtags: "#inversions, #flexibilitytraining, #lifeisbetterupsidedown, #backbends"
+    hashtags: "#crossfit, #covid19, #crossfityas, #voguefitness"
 ---

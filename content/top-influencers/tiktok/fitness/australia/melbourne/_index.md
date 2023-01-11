@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Melbourne In 2022
+title: Top 10 Fitness TikTok Influencers In Melbourne In 2023
 description: >-
-  Find top fitness TikTok influencers in Melbourne in 2022. Most popular hashtags: #fyp #melbourne #fitness #foryoupage.
+  Find top fitness TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #foryou #melbourne #fitness.
 platform: TikTok
-hits: 21
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 21 TikTok influencers like this in Melbourne, Australia for you to work with.
+hits: 17
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database holds 17 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
-  - username: "amandamicallef"
+  - username: "karansandhu7oo"
     fullname: >-
-      Amanda Micallef
+      Karan Sandhu
     bio: >-
-      MAFS 2020 📺 Daily Training Tips Click link to enquire for Online Coaching
+      👑"Melbourne"👑
     location: "Australia"
-    followers: 11000
-    engagement: 339
-    commentsToLikes: 0.053217
-    id: ckbfd7kel6g5i0j23r5gvkxjn
+    followers: 3298
+    engagement: 619
+    commentsToLikes: 0.032435
+    id: ck9fi47kk90lc0j78j04yfgqs
     verified: false
-    hashtags: "#fitness, #melbourne, #onlinecoach, #goldcoast"
-  - username: "tia.christofi"
+    hashtags: "#australia, #punjabisong, #instagram, #premdhillon"
+  - username: "bigbadeddie2.0"
     fullname: >-
-      tiachristofi
+      user5886937274148
     bio: >-
-      oh hey! 19yrs fitness & food 👑 📍Melb AUS follow my insta @tiachristofi
+      
     location: "Australia"
-    followers: 340800
-    engagement: 780
-    commentsToLikes: 0.009481
-    id: ck9k8wm5ratpg0j78gbdghhoj
+    followers: 8713
+    engagement: 1462
+    commentsToLikes: 0.001537
+    id: ckavr97gm33et0j235hfk4j5p
     verified: false
-    hashtags: "#foryou, #viral, #dailyvlog, #vlog"
-  - username: "trickshotsam"
+    hashtags: "#meetmypet, #cat, #fyp, #kitten"
+  - username: "jye_cassidy"
     fullname: >-
-      Sam McN
+      jyecassidy
     bio: >-
-      Trick shots, pranks and a few other laughs 😂
+      Cars & Coffee Tall Crew Checking in 6’5
     location: "Australia"
-    followers: 23600
-    engagement: 760
-    commentsToLikes: 0.017234
-    id: ckbf8wkt0zneu0j236sz0lcoe
+    followers: 11800
+    engagement: 517
+    commentsToLikes: 0.284892
+    id: cka5z14t9kop90i78ouqudil2
     verified: false
-    hashtags: "#prank, #wow, #funny, #tiktokcovers"
-  - username: "abbyheeney"
+    hashtags: "#melbourne, #couple, #bmw, #couplegoals"
+  - username: "jimrossington"
     fullname: >-
-      Abby Heeney
+      Jim Rossington
     bio: >-
-      Twenty four, Australian ✨
+      Follow me on Insta ⬆️ Jim Day-Knight Biz - Jimrossington@outlook.com
     location: "Australia"
-    followers: 5831
-    engagement: 712
-    commentsToLikes: 0.033253
-    id: ck9n6gvbd777r0j78b0q68po9
+    followers: 197200
+    engagement: 1182
+    commentsToLikes: 0.015954
+    id: ckacr1i2u3emd0i786tam0tco
     verified: false
-    hashtags: "#foryourpage, #makeup, #isolation, #bedroomcheck"
+    hashtags: "#australia, #foryou, #comedy, #aus"
   - username: "thelifeofafitchick"
     fullname: >-
-      Alicia Newman
+      LeiSh
     bio: >-
-      Fitness Trainer🏋🏼‍♀️ Jeep Chick 💁🏼‍♀️ Mia 🐾 TNM ❤️ #THELIFECLIQUE
+      Fitness Trainer🏋🏼‍♀️ Jeep Chick 💁🏼‍♀️ Mia 🐾 #THELIFECLIQUE
     location: "Australia"
-    followers: 9722
-    engagement: 1695
-    commentsToLikes: 0.115325
+    followers: 14700
+    engagement: 1462
+    commentsToLikes: 0.095469
     id: ckdi84kwnadke0j2342ooh0ti
     verified: false
-    hashtags: "#fitness, #usa, #thelifeclique, #fyp"
-  - username: "lauren.film"
-    fullname: >-
-      lauren.disney22
-    bio: >-
-      Film student - Melbourne 🇦🇺 Single/19 Insta @lauren_mckay08 Filming: 30 days
-    location: "Australia"
-    followers: 22000
-    engagement: 1710
-    commentsToLikes: 0.020760
-    id: ckdhiy6bqyrp30j23ajavjnxx
-    verified: false
-    hashtags: "#mcspicymoves, #fyp, #ouch, #director"
+    hashtags: "#over30, #thirsttrap, #fyp, #foryoupage"
   - username: "messydanieljack"
     fullname: >-
       Jesse Mack
     bio: >-
       MELBOURNE, AUS
     location: "Australia"
-    followers: 44800
-    engagement: 485
-    commentsToLikes: 0.033061
+    followers: 44400
+    engagement: 416
+    commentsToLikes: 0.063356
     id: cka0rnj15hqt90i78cscih7d9
     verified: false
-    hashtags: "#fyp, #balletbeatdrop, #song, #singing"
-  - username: "jassturka4"
+    hashtags: "#harmony, #music, #sing, #song"
+  - username: "sandhuz__avi"
     fullname: >-
-      Jass Turka
+      Sandhuz avi 
     bio: >-
-      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
+      Melbourne 🇦🇺
     location: "Australia"
-    followers: 75500
-    engagement: 336
-    commentsToLikes: 0.031642
-    id: ckai3fp8wjp9s0i78tydhilnp
+    followers: 32700
+    engagement: 246
+    commentsToLikes: 0.045912
+    id: ck81t0o9iujh20j781k09umkh
     verified: false
-    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
-  - username: "_kim_lawless_"
+    hashtags: "#melbourne, #tiktok, #sidhumoosewala, #brownmunde"
+  - username: "polewithtameena"
     fullname: >-
-      Kim
+      Tameena Smith
     bio: >-
-      •Fitness•health lifestyle• Instagram- kimlawless_fitness
+      Crazy pole dance instructor stuck in Melbourne :) Insta: @polewithtameena
     location: "Australia"
-    followers: 47700
-    engagement: 851
-    commentsToLikes: 0.044897
-    id: cka7o7mp10qyp0i78xk1mluw6
+    followers: 9813
+    engagement: 709
+    commentsToLikes: 0.011755
+    id: ckdc5khzwh2rt0j23io930oxr
     verified: false
-    hashtags: "#duet, #fyp, #hi, #lockdown"
-  - username: "chloee_sg"
+    hashtags: "#poledancing, #fyp, #foryou, #heels"
+  - username: "thataveragebloke"
     fullname: >-
-      Chloee.SG
+      Average bloke
     bio: >-
-      Melbourne | Australia ✨Big Girl✨ BLM | LGBTQ | ACAB Top 1.1% OF
+      Stay kings 👑👑 Business enquiries -) jarradavis0@gmail.com Merch drop 2 soon!
     location: "Australia"
-    followers: 83700
-    engagement: 1310
-    commentsToLikes: 0.013795
-    id: ck9fo34xs0sy70j78s4670h76
+    followers: 106200
+    engagement: 1881
+    commentsToLikes: 0.024703
+    id: ckb98wlfssrqi0j23qe4v4iw2
     verified: false
-    hashtags: "#makeover, #goth, #plussize, #dance"
+    hashtags: "#viral, #melbourne, #footy, #xyzbca"
+  - username: "memoirsofstephfitmum"
+    fullname: >-
+      Stephanie Smith
+    bio: >-
+      Just Another "fitmum" (32) Tattoo Collector 🇦🇺
+    location: "Australia"
+    followers: 20000
+    engagement: 589
+    commentsToLikes: 0.075039
+    id: ckal669dl9jy50i78w9np7l9w
+    verified: false
+    hashtags: "#4u, #tattoo, #funny, #fyp"
 ---

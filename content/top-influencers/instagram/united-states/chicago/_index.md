@@ -1,59 +1,59 @@
 ---
-title: Top 10 Instagram Influencers In Chicago In 2022
+title: Top 10 Instagram Influencers In Chicago In 2023
 description: >-
-  Find top Instagram influencers in Chicago in 2022. Most popular hashtags: #painting #wip #solomonadufah.
+  Find top Instagram influencers in Chicago in 2023. Most popular hashtags: #over50andfit #midlife #over50.
 platform: Instagram
-hits: 3774
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 3774 Instagram influencers like this in Chicago, United States for you to contact.
+hits: 3675
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 3675 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
+  - username: "kahlilwhitney"
+    fullname: >-
+      The One
+    bio: >-
+      CHICAGO
+    location: "United States"
+    followers: 73304
+    engagement: 651
+    commentsToLikes: 0.015060
+    id: ck5qb4iopjrq40i11gc72qky5
+    verified: true
+    hashtags: "#lljw, #buzzcity"
+  - username: "domi26bokk"
+    fullname: >-
+      Dominik Bokk
+    bio: >-
+      chicago
+    location: "United States"
+    followers: 12276
+    engagement: 2125
+    commentsToLikes: 0.011130
+    id: ck5c4gjp61b740i112cyxd8ra
+    verified: true
+    hashtags: "#wjc, #deb, #iihf, #bauer"
   - username: "solomonadufah"
     fullname: >-
       Solomon Adufah
     bio: >-
-      🇬🇭/Chicago
+      🇬🇭 | Chicago
     location: "United States"
-    followers: 32461
-    engagement: 196
-    commentsToLikes: 0.043418
+    followers: 32246
+    engagement: 213
+    commentsToLikes: 0.041895
     id: ck6tsn5my5po80j71z7jd16go
     verified: true
-    hashtags: "#solomonadufah, #painting, #chicago, #wip"
-  - username: "annika.witte"
+    hashtags: "#solomonadufah, #wip, #chicago, #painting"
+  - username: "jaysbook"
     fullname: >-
-      annika
+      
     bio: >-
       chicago
     location: "United States"
-    followers: 2591
-    engagement: 1829
-    commentsToLikes: 0.037987
-    id: ckap5ps0ocnd20i784jarbzrc
+    followers: 36080
+    engagement: 139
+    commentsToLikes: 0.019946
+    id: ck5zw84cp5nti0i14bf2heiq6
     verified: false
-    hashtags: "#nature, #bored, #nostalgic"
-  - username: "colehosman"
-    fullname: >-
-      Cole Hosman
-    bio: >-
-      Chicago
-    location: "United States"
-    followers: 11054
-    engagement: 1392
-    commentsToLikes: 0.027851
-    id: ck9hcxezmnd0r0j78934d8u7k
-    verified: false
-    hashtags: ""
-  - username: "chicago"
-    fullname: >-
-      Chicago, IL
-    bio: >-
-      📷 Tag us in your photos for a chance to be featured! 🌆 Pictures of Chicago
-    location: "United States"
-    followers: 676962
-    engagement: 366
-    commentsToLikes: 0.004497
-    id: ck0tv19389hth0i19oivmgqja
-    verified: true
     hashtags: ""
   - username: "louisdeguzman"
     fullname: >-
@@ -61,46 +61,10 @@ profiles:
     bio: >-
       Chicago
     location: "United States"
-    followers: 28903
-    engagement: 515
-    commentsToLikes: 0.022091
+    followers: 41950
+    engagement: 423
+    commentsToLikes: 0.036295
     id: ck0u6y2rc38l40i19flssl0l9
-    verified: false
-    hashtags: ""
-  - username: "tadarrius.td"
-    fullname: >-
-      TD
-    bio: >-
-      chicago
-    location: "United States"
-    followers: 5928
-    engagement: 383
-    commentsToLikes: 0.046603
-    id: ckf5sw885gcyx0j2329qv3rxq
-    verified: false
-    hashtags: "#nationaldogday"
-  - username: "_wemmymo"
-    fullname: >-
-      WemmyMo.
-    bio: >-
-      Chicago.
-    location: "United States"
-    followers: 3913
-    engagement: 1275
-    commentsToLikes: 0.069102
-    id: ck8sycq1mkg9y0j78gcwpk1n7
-    verified: false
-    hashtags: "#002, #beforethelockdown, #happynationalgirlfriendday, #outnow"
-  - username: "jatuur"
-    fullname: >-
-      جبريل✨
-    bio: >-
-      chicago
-    location: "United States"
-    followers: 18391
-    engagement: 2299
-    commentsToLikes: 0.015364
-    id: ckf5mvpkzvlzu0j23rzva1818
     verified: false
     hashtags: ""
   - username: "_ilovechicago"
@@ -109,22 +73,58 @@ profiles:
     bio: >-
       CHICAGO 🌺☀️⚾️🌭🚖🍾🚲🎡🍕☔️❄️ No negativity ❌ Helping to share the beautiful windy city
     location: "United States"
-    followers: 12557
-    engagement: 589
-    commentsToLikes: 0.014118
+    followers: 17147
+    engagement: 1027
+    commentsToLikes: 0.009121
     id: ck8t4qj1x7po50j78ova1gv6n
     verified: false
-    hashtags: "#repost, #tepost"
-  - username: "mariagiannetos"
+    hashtags: "#repost"
+  - username: "chicago"
     fullname: >-
-      maria giannetos
+      Chicago, IL
     bio: >-
-      chicago
+      📷 Tag us in your photos for a chance to be featured! 🌆 Pictures of Chicago 👤 Admin @RBH
     location: "United States"
-    followers: 10238
-    engagement: 640
-    commentsToLikes: 0.056968
-    id: ck0w6cdo67wwq0i19fetta5l6
+    followers: 760276
+    engagement: 303
+    commentsToLikes: 0.003920
+    id: ck0tv19389hth0i19oivmgqja
+    verified: true
+    hashtags: ""
+  - username: "pat_lee"
+    fullname: >-
+      P A T • L E E
+    bio: >-
+      Chicago
+    location: "United States"
+    followers: 343928
+    engagement: 125
+    commentsToLikes: 0.005024
+    id: ck5q6rwyuylsg0i11o8jl1mat
     verified: false
-    hashtags: "#athomewitharitzia, #aritziastyleadvisor, #mejuri"
+    hashtags: "#muscle, #fitness, #abs, #aesthetics"
+  - username: "tingmystyle"
+    fullname: >-
+      Ting Ma
+    bio: >-
+      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+    location: "United States"
+    followers: 137144
+    engagement: 613
+    commentsToLikes: 0.084561
+    id: ck0w49r7mxhxq0i198zn6sfa8
+    verified: false
+    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
+  - username: "lifewithashleyann"
+    fullname: >-
+      ashley || chicago creator
+    bio: >-
+      ✨mom life around chicagoland + beyond • food to eat, places to go, what to wear • ✨lunch packing + recipe reels⬇️ 💌contactlifewithashleyann@gmail.com
+    location: "United States"
+    followers: 36554
+    engagement: 3783
+    commentsToLikes: -0.449386
+    id: cl7i0lxqdtv2n0i23c3joq3hq
+    verified: false
+    hashtags: "#luncheazepartner, #christmaspopup, #chicagopopup, #chicagobar"
 ---

@@ -1,106 +1,130 @@
 ---
-title: Top 10 Painters TikTok Influencers In Poland In 2022
+title: Top 10 Painters TikTok Influencers In Poland In 2023
 description: >-
-  Find top painters TikTok influencers in Poland in 2022. Most popular hashtags: #foryou #dlaciebie #artist #fashion.
+  Find top painters TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #foryou #trend.
 platform: TikTok
-hits: 8
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Poland for you to contact.
+hits: 15
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 15 TikTok influencers like this in Poland for you to work with.
 profiles:
-  - username: "chyba_tyyyy"
-    fullname: >-
-      Tak Właśnie
-    bio: >-
-      Hi 👋 I’m Mika 💗 Look how cute it is ——>🎷🐢 She/her
-    location: "Poland"
-    followers: 2662
-    engagement: 1479
-    commentsToLikes: 0.034356
-    id: ck8ot3yxvjmla0j78sjvuhma1
-    verified: false
-    hashtags: "#painting, #draw, #artist, #lgbt"
   - username: "robertlec7"
     fullname: >-
       Robert Lec
     bio: >-
       
     location: "Poland"
-    followers: 2524
-    engagement: 762
-    commentsToLikes: 0.015746
+    followers: 2517
+    engagement: 828
+    commentsToLikes: 0.016932
     id: ckcjjh7jfddlh0j23912uzy43
     verified: false
-    hashtags: "#work, #smile, #follow, #followme"
-  - username: "idacupas"
+    hashtags: "#smile, #work, #dc, #ilovepoland"
+  - username: "_x.positions._.ariana.x_"
     fullname: >-
-      idacupas
+      Honey Baby🤍🍯
     bio: >-
-      IG: @idacupas ❤️ YT: Ida Cupas ❤️
+      Honey Baby🤍🍯 🤍Positions🤍 ✨Cel 10k✨ ☁️Mam 4571 chmurek Ariany☁️
     location: "Poland"
-    followers: 44300
-    engagement: 895
-    commentsToLikes: 0.018051
-    id: ck9e38mibichm0j783urofgv5
+    followers: 4572
+    engagement: 3133
+    commentsToLikes: 0.201361
+    id: ckdmyfcvlc26n0j23igeo44bv
     verified: false
-    hashtags: "#pinterestchallenge, #dlaciebie, #foru, #fyp"
-  - username: "samantalesiak"
+    hashtags: "#fyp, #viral, #butera, #foryoupage"
+  - username: "grozny_bambi"
     fullname: >-
-      Sami
+      Bambi🦌
     bio: >-
-      Samanta 🥰 Art lover 🖌 IG: samantalesiak YT: Sami
+      lvl.19♍ taken♾ he/they nie spam💚 zapraszam na grupę
     location: "Poland"
-    followers: 115100
-    engagement: 2098
-    commentsToLikes: 0.015442
-    id: ck8qi4hnr7mre0j78g07zjcsb
+    followers: 29200
+    engagement: 1946
+    commentsToLikes: 0.070347
+    id: ckb9ryqjeow8r0j23yjh0z3gk
     verified: false
-    hashtags: "#sketchbook, #artist, #illustration, #foryoupage"
+    hashtags: "#dystans, #xdd, #yyyd, #haha"
+  - username: "contarix"
+    fullname: >-
+      Malwina
+    bio: >-
+      Let’s make history Age18 kpop and others Lublin Poland
+    location: "Poland"
+    followers: 65300
+    engagement: 2595
+    commentsToLikes: 0.028792
+    id: ckcjlm1mkeia90j23ptqxw4aw
+    verified: false
+    hashtags: "#bestfriendscheck, #teamwang, #kpop, #blink"
+  - username: "amelliiaq"
+    fullname: >-
+      Amelia✨
+    bio: >-
+      D Y S T A N S
+    location: "Poland"
+    followers: 15100
+    engagement: 1468
+    commentsToLikes: 0.033182
+    id: ck8zb6ykg4czq0j78ycerr604
+    verified: false
+    hashtags: "#dlaciebie, #dc, #foryoupage, #pinterest"
+  - username: "azartgroup"
+    fullname: >-
+      Andrii Zinchuk
+    bio: >-
+      Mandala Education Channel Artist Andrii Zinchuk Instagram 177.000 followers
+    location: "Poland"
+    followers: 93500
+    engagement: 968
+    commentsToLikes: 0.021406
+    id: ck7znza0lgb450j78oqsmdptm
+    verified: false
+    hashtags: "#zendala, #arts, #ornaments, #zendoodle"
+  - username: "gabrielamajka_"
+    fullname: >-
+      gabrielamajka
+    bio: >-
+      📍Poland Just livin’
+    location: "Poland"
+    followers: 6011
+    engagement: 1351
+    commentsToLikes: 0.045034
+    id: ckdnicdifif8m0j23430wbvox
+    verified: false
+    hashtags: "#dc, #duet, #trend, #xzybca"
+  - username: "deejaypallaside"
+    fullname: >-
+      Daniel Artur Pawlak
+    bio: >-
+      Kochasz horrory? Moja książka jest w takim razie dla Ciebie! Kup „PARANORMAL” ⬇️
+    location: "Poland"
+    followers: 289300
+    engagement: 1484
+    commentsToLikes: 0.013644
+    id: ckbbo03n6c1jg0j231qjxevo1
+    verified: false
+    hashtags: "#dlaciebie, #comedy, #samoyed, #zizej"
   - username: "fitashionn"
     fullname: >-
       Fitashionn
     bio: >-
       Instagram: @fitashionn Blog: www.fit-ashion.com YouTube: Fitashionn
     location: "Poland"
-    followers: 4322
-    engagement: 632
-    commentsToLikes: 0.051019
+    followers: 4265
+    engagement: 624
+    commentsToLikes: 0.030861
     id: ckbau4do1kq310j23nc51p4xc
     verified: false
-    hashtags: "#look, #foryou, #dlaciebie, #ootd"
-  - username: "deejaypallaside"
+    hashtags: "#ootd, #dlaciebie, #foryou, #look"
+  - username: "irena.vass"
     fullname: >-
-      Daniel Artur Pawlak
+      irena
     bio: >-
-      YouTuber - 1.800.000 SUBS! 😎 Wpadajcie na mój instagram : @DeeJayPallaside
+      🪐🤎✨ imirenavass@gmail.com
     location: "Poland"
-    followers: 281600
-    engagement: 1440
-    commentsToLikes: 0.015400
-    id: ckbbo03n6c1jg0j231qjxevo1
-    verified: true
-    hashtags: "#zizej, #dlaciebie, #foryou, #trend"
-  - username: "azartgroup"
-    fullname: >-
-      Andrii Zinchuk
-    bio: >-
-      Mandala Education Channel Artist Andrii Zinchuk Instagram 173.000 followers
-    location: "Poland"
-    followers: 96100
-    engagement: 880
-    commentsToLikes: 0.015412
-    id: ck7znza0lgb450j78oqsmdptm
+    followers: 1700000
+    engagement: 1111
+    commentsToLikes: 0.008137
+    id: ck97wpards3hg0j78a3qjkygw
     verified: false
-    hashtags: "#mandalaart, #mandalalove, #doodleart, #mandalas"
-  - username: "igusiowatik"
-    fullname: >-
-      Igusiowa
-    bio: >-
-      
-    location: "Poland"
-    followers: 17000
-    engagement: 213
-    commentsToLikes: 0.012192
-    id: ckd6jhw9scn4k0j23ibsvfi3a
-    verified: false
-    hashtags: "#shirt, #savagelove, #sprzatanie, #mariolka"
+    hashtags: "#fyp, #foryou, #makeup, #viral"
 ---

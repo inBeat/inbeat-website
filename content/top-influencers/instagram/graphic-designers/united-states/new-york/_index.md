@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In New York In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In New York In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in New York in 2022. Most popular hashtags: #newyork #graphicdesigner #photoshop #art.
+  Find top graphic-designers Instagram influencers in New York in 2023. Most popular hashtags: #photography #newyork #artist #graphicdesigner.
 platform: Instagram
-hits: 87
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 87 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 19
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 19 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "rrmcreative"
-    fullname: >-
-      Ryan Muller | Graphic Designer
-    bio: >-
-      DM or E-mail for Business @unanimousclothing
-    location: "United States"
-    followers: 3868
-    engagement: 562
-    commentsToLikes: 0.086639
-    id: ck9h9y12waetk0j780qko6wwp
-    verified: false
-    hashtags: "#mlbbaseball, #bradleyjackdesign, #graphic, #halloween"
   - username: "naomiotsu"
     fullname: >-
       Naomi Otsu
     bio: >-
-      New York based graphic designer and illustrator
+      New York based graphic designer and illustrator, occasional pickle maker.
     location: "United States"
-    followers: 20489
-    engagement: 338
-    commentsToLikes: 0.019846
+    followers: 21006
+    engagement: 386
+    commentsToLikes: 0.022640
     id: ck9wd7bf4ee5y0j78f90qlacb
     verified: false
-    hashtags: "#plantsonmywalk, #obaachansrecipes, #piteraessence, #playboys"
-  - username: "visionofjoe"
-    fullname: >-
-      Joe💫
-    bio: >-
-      Photoshop Mastermind 🧠 | New York 🇺🇸 • Contact me 💌 VisionofJoe.business@gmail.com • @joeraines_ ✈️ | #Visionscreatedreams 🌟 • Apparel Out Now👇🏼
-    location: "United States"
-    followers: 77005
-    engagement: 298
-    commentsToLikes: 0.013439
-    id: ck0vvid21p9vo0i19ccbjxwxc
-    verified: false
-    hashtags: "#adobe, #manipulation, #visualart, #photography"
-  - username: "ivigneshrajendran"
-    fullname: >-
-      VIGNESH RAJENDRAN 🎭
-    bio: >-
-      Chennai | New York City Personal Account: @ivigneshr.dhruv 🎥 Filmmaker | Photographer | Editor #ivigneshrajendran
-    location: "United States"
-    followers: 14944
-    engagement: 245
-    commentsToLikes: 0.019796
-    id: ck14kzfn6s3ey0i19sx3q0md0
-    verified: false
-    hashtags: "#quarantine, #instagram, #sun, #apocalypse"
-  - username: "alakijastudios"
-    fullname: >-
-      Jide Alakija - ALAKIJA STUDIOS
-    bio: >-
-      📍 New York City - Washington DC - Beyond ✉️ Inquiries : instagram@alakija.com 🎤 Nikon Speaker Street photos- @alakija
-    location: "United States"
-    followers: 61760
-    engagement: 83
-    commentsToLikes: 0.044915
-    id: ck15pkmomycjp0i19gajoqi8f
-    verified: false
-    hashtags: "#color, #weddingphoto, #weddinginspiration, #instaphoto"
-  - username: "asthetiquegroup"
-    fullname: >-
-      Λ S T H E T I Q U E
-    bio: >-
-      Award Winning Architectural Design | Brand Development New York, US | Moscow, RUS @alinamehrle @julienalbertini @asthetique.branding
-    location: "United States"
-    followers: 45569
-    engagement: 315
-    commentsToLikes: 0.016877
-    id: ck15uymryp3zk0i19yqxzhr59
-    verified: false
-    hashtags: "#restaurantdesign, #color, #architecture, #restaurants"
+    hashtags: "#piteraessence, #playboys, #plantsonmywalk, #obaachansrecipes"
   - username: "artsynnyc"
     fullname: >-
       A N D R I C  >>  🏊🏻🚴‍♀️🏃🏽
     bio: >-
       | New Yorker | Designer | Photographer | Marathoner | Aspiring Triathlete | coffee-snob. . @ticcc.social @babici @rapha_rcc
     location: "United States"
-    followers: 3158
-    engagement: 2036
-    commentsToLikes: 0.302677
+    followers: 3154
+    engagement: 2168
+    commentsToLikes: 0.318452
     id: ck55m9pwd3idg0i11wt98i3a3
     verified: false
-    hashtags: "#cyclingstyle, #bestcyclingkit, #nyc, #cyclingcollective"
+    hashtags: "#artist, #digitalart, #creative, #adobe"
+  - username: "visionofjoe"
+    fullname: >-
+      Joe💫
+    bio: >-
+      Photoshop Mastermind 🧠 | New York 🇺🇸 • Contact me 💌 VisionofJoe.business@gmail.com • @joeraines_ ✈️ | #Visionscreatedreams 🌟 • Apparel Out Now👇🏼
+    location: "United States"
+    followers: 73206
+    engagement: 299
+    commentsToLikes: 0.011973
+    id: ck0vvid21p9vo0i19ccbjxwxc
+    verified: false
+    hashtags: "#photography, #lightroom, #artist, #photos"
+  - username: "cristianachiossi"
+    fullname: >-
+      CRIS | REBEL • FREE • STUBBORN
+    bio: >-
+      #bartender | #graphicdesigner | #webdesigner ——————————— ♥️ | #victoriasecrets 🐶 | #pitbull 🌎 | #wanderlust 🤗 | #lifestyle ——————————— 📍 Rome (IT)
+    location: "United States"
+    followers: 2838
+    engagement: 1437
+    commentsToLikes: 0.052850
+    id: ckaosfezgrdtj0i78g7flw7w9
+    verified: false
+    hashtags: "#lifequotes, #motivations, #motivational, #quoteoftheday"
+  - username: "evaaphrodite"
+    fullname: >-
+      Eva Aphrodite Katerina
+    bio: >-
+      - Fine Artist, Graphic Designer, Illustrator - PhD Central Saint Martins, University of the Arts - My Art PRINTED on various products @REDBUBBLE
+    location: "United States"
+    followers: 9918
+    engagement: 753
+    commentsToLikes: 0.100602
+    id: ck14lj4mruy2v0i19vqh2i2w2
+    verified: false
+    hashtags: "#reddresses, #butterflies, #butterfliesofinstagram, #butterflyart"
+  - username: "foreveruppity"
+    fullname: >-
+      J.Monroe
+    bio: >-
+      Raised by: The Harlem Renaissance LUAlumnus | 🐶UnderDawg International Photographer/ Graphic Designer @Monroe.Media
+    location: "United States"
+    followers: 5221
+    engagement: 1327
+    commentsToLikes: 0.045065
+    id: ck0w6yw4jawyf0i19zgje3vak
+    verified: false
+    hashtags: "#atlphotography, #editorial, #gq, #editorialphotographer"
+  - username: "thegirlwhoblogss"
+    fullname: >-
+      Faiza Shahzad 👑
+    bio: >-
+      Graphic Designer 📍Islamabad 🇵🇰 ~Fashion | Reviews |Lifestyle|Digital Influencer ~For Collab,Promotions,Invitations Dm or 📧
+    location: "United States"
+    followers: 21429
+    engagement: 419
+    commentsToLikes: 0.208081
+    id: ck9wgj0irtn8b0j78rlh1ls0f
+    verified: false
+    hashtags: "#bloggerstyle, #thegirlwhoblogss, #photooftheday, #nature"
+  - username: "sicerow"
+    fullname: >-
+      SICEROW PHOTOGRAPHY
+    bio: >-
+      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 🐼 Making of 👇🏽 @sicerowphotography
+    location: "United States"
+    followers: 15119
+    engagement: 376
+    commentsToLikes: 0.038772
+    id: ck5q70ojozir30i11j6ldgc33
+    verified: false
+    hashtags: "#newyork, #modeling, #beautiful, #pretty"
+  - username: "garasigrafis"
+    fullname: >-
+      Ardimas Ramadan
+    bio: >-
+      Graphic designer Copyright ©2021 WhatsApp +6285758194455 @garasigraphic for mascot character design Info@garasigrafis.com
+    location: "United States"
+    followers: 35459
+    engagement: 167
+    commentsToLikes: 0.041285
+    id: ck5zk44i2is2z0i14uwdxi441
+    verified: false
+    hashtags: "#doublemeaning, #logoshift, #businesslogo, #designer"
   - username: "chris_dokebi"
     fullname: >-
       Chris Dokebi
     bio: >-
-      Maker of mischievous goblins. Closed for commission/freelance work. Website: chris-sammons.com/new-products
+      Maker of mischievous goblins. Commission/freelance work CLOSED
     location: "United States"
-    followers: 34190
-    engagement: 521
-    commentsToLikes: 0.008534
+    followers: 34180
+    engagement: 332
+    commentsToLikes: 0.008955
     id: ck14hwiogchih0i195zrta25a
     verified: false
-    hashtags: "#character, #streetart, #artistsoninstagram, #paint"
-  - username: "mrwilley"
-    fullname: >-
-      Matt Willey
-    bio: >-
-      Graphic designer. — Partner at @pentagramdesign, NY. — Previously the Art Director of The New York Times Magazine. — Twitter: @MrMattWilley
-    location: "United States"
-    followers: 33880
-    engagement: 641
-    commentsToLikes: 0.021750
-    id: ck15qv1y24s3h0i19kzjzqr9f
-    verified: false
-    hashtags: ""
-  - username: "catcybul"
-    fullname: >-
-      Venezuelan in Chicago📍
-    bio: >-
-      👁|CATHERINE CYBULKIEWICZ 🍋|Ácida + Capricorn + GraphicDesigner +Logo+WebDesign+Gifs+SocialMedia+Ads > DM✨ #CatEnChicago
-    location: "United States"
-    followers: 29932
-    engagement: 148
-    commentsToLikes: 0.058252
-    id: ck0u052q1slwo0i19u30xkquv
-    verified: false
-    hashtags: "#newyork, #boston, #nyc, #catennewyork"
+    hashtags: "#painting, #designertoy, #artist, #digitaldrawing"
 ---

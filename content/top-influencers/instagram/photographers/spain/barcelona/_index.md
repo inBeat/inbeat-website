@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Barcelona In 2022
+title: Top 10 Photographers Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top photographers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #costabrava #portrait.
+  Find top photographers Instagram influencers in Barcelona in 2023. Most popular hashtags: #photography #portrait #art.
 platform: Instagram
-hits: 161
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 161 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 105
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 105 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
   - username: "softdaylight"
     fullname: >-
@@ -13,69 +13,33 @@ profiles:
     bio: >-
       Aimlessly Photographer Barcelona (And worldwide if you want) @softlightweddings No Collaborations. DM for rates.
     location: "Spain"
-    followers: 18543
-    engagement: 546
-    commentsToLikes: 0.035620
+    followers: 18201
+    engagement: 566
+    commentsToLikes: 0.044916
     id: ck0u9blhg9hr30i19p7oramcn
     verified: false
-    hashtags: ""
-  - username: "carlotadelsol"
+    hashtags: "#way2ill, #artofvisuals, #ftwotw, #portraitphotography"
+  - username: "wernerstoltz"
     fullname: >-
-      Carlota Delgado 🌿
+      Werner Stoltz
     bio: >-
-      Photographer Barcelona 🌞 -✉️ carlotadelsol@gmail.com
+      •Photographer •Barcelona •Having a short hiatus, back soon
     location: "Spain"
-    followers: 5901
-    engagement: 681
-    commentsToLikes: 0.015114
-    id: ck5q8719t4qow0i11k7jr6gpa
+    followers: 34478
+    engagement: 269
+    commentsToLikes: 0.008949
+    id: ck5q9esupara90i11l7gbmj2h
     verified: false
-    hashtags: ""
-  - username: "milosz_bmx"
-    fullname: >-
-      milosz_bmx
-    bio: >-
-      Bmx + musica = felicidad Colaboraciones: milobmx97@gmail.com Mi canal:
-    location: "Spain"
-    followers: 29676
-    engagement: 419
-    commentsToLikes: 0.013828
-    id: ck135f47c13r20i19x8vh4t8j
-    verified: false
-    hashtags: "#420, #like, #ride, #new"
-  - username: "volynskaia_anna"
-    fullname: >-
-      Photographer Barcelona
-    bio: >-
-      ANNA VolynskaiA 🇷🇺🇪🇸🇬🇧 📍BARCELONA-Lloret-GIRONA 📍Costa Brava 📍Saint-Petersburg ☎️+34 608689347 (WhatsApp/Viber)
-    location: "Spain"
-    followers: 34687
-    engagement: 484
-    commentsToLikes: 0.074777
-    id: ck15sbmbkc6s80i19i3chb6ww
-    verified: false
-    hashtags: ""
-  - username: "albina.bouts"
-    fullname: >-
-      Photographer Barcelona/Moscow
-    bio: >-
-      Personal photoshoots. Based in Barcelona. Booking photoshoot: +34633110481 (WhatsApp)
-    location: "Spain"
-    followers: 12226
-    engagement: 317
-    commentsToLikes: 0.212987
-    id: ck5cefwr2kxut0i11vsuwggkb
-    verified: false
-    hashtags: "#barcelona, #golf, #alabrigahotel, #hotelw"
-  - username: "uriipaalaci"
+    hashtags: "#lanzarote, #capetown, #hondaprelude, #35mm"
+  - username: "uripalaci"
     fullname: >-
       Oriol Palací
     bio: >-
-      Hi! I’m Uri 🙋🏼‍♂️ 📍 Currently in Barcelona || Photographer & Filmmaker || Presets: @crazypresets.co Business contact: contactouriipaalaci@gmail.com
+      📍 Currently in Barcelona || Photographer & Filmmaker || Owner of @chillbroscreatives Business contact: contactouriipaalaci@gmail.com
     location: "Spain"
-    followers: 13740
-    engagement: 979
-    commentsToLikes: 0.023757
+    followers: 14355
+    engagement: 676
+    commentsToLikes: 0.021996
     id: ck5ckq2tpxdz60i11dgkcz1mc
     verified: false
     hashtags: ""
@@ -85,46 +49,82 @@ profiles:
     bio: >-
       Portrait Photographer 📍 Barcelona 👤 Personal account: @bernasesss Contrataciones: alexbernases@gmail.com
     location: "Spain"
-    followers: 5356
-    engagement: 817
-    commentsToLikes: 0.039365
+    followers: 4870
+    engagement: 768
+    commentsToLikes: 0.037134
     id: ckapaux8pxkaz0i78jehjziek
     verified: false
-    hashtags: "#snipes, #airmaxday, #nike, #snipesstaff98"
-  - username: "marieberiestain"
+    hashtags: "#photography, #art, #instagood, #marcosalberca"
+  - username: "sportvalen"
     fullname: >-
-      ℳ𝒶𝓇𝒾𝑒 ℬ𝑒𝓇𝒾𝑒𝓈𝓉𝒶𝒾𝓃
+      Valentí Enrich
     bio: >-
-      Artist till I find a real job Fashion and Beauty photographer in Barcelona Work and portfolio inquiries - marieberiestain@gmail.com
+      Sports photographer from Barcelona. All pictures are taken by me... or to me. Also @diariosport ’s photographer
     location: "Spain"
-    followers: 14181
-    engagement: 144
-    commentsToLikes: 0.065163
-    id: ck6tiayr30dh20j717efutvqw
+    followers: 7969
+    engagement: 952
+    commentsToLikes: 0.011981
+    id: ck133yda5ucfp0i19trcombux
     verified: false
-    hashtags: "#bts"
-  - username: "stoptheroc"
+    hashtags: "#messi, #soccer, #championsleague, #sportphotography"
+  - username: "javith13"
     fullname: >-
-      Roc Isern
+      Javi Martinez
     bio: >-
-      Photographer from Barcelona @BarcelonaFacades
+      🕶 Co-founder @hawkersco 💬 Motivator & entrepreneur 🏎 Car addict & Bike lover ⬇️ ⬇️ ⬇️
     location: "Spain"
-    followers: 167463
-    engagement: 252
-    commentsToLikes: 0.041911
-    id: ck0tsk2zf045q0i19bxfh01sn
+    followers: 177206
+    engagement: 142
+    commentsToLikes: 0.010497
+    id: ck5hp03atqj2r0i11t3qpi1nz
     verified: true
-    hashtags: "#basel, #barcelonafacades, #hellofrom, #stoptherocinbasel"
-  - username: "saraseaside"
+    hashtags: "#supercars, #bmwm, #bmw, #enjoy"
+  - username: "joseptienzaphoto"
     fullname: >-
-      Sara Costa
+      JOSEP TIENZA
     bio: >-
-      🎞 Photographer📷 Barcelona 🗺️ 📩 saracosta.es@gmail.com
+      Photographer & Filmmaker✨ 📍Barcelona, Spain CEO @streikmanagement ⚡️ + Info (DM) 💌 Personal account: @joseptienza
     location: "Spain"
-    followers: 9457
-    engagement: 538
-    commentsToLikes: 0.023720
-    id: ck14k0t4in5df0i19wxwgsl5q
+    followers: 26506
+    engagement: 1248
+    commentsToLikes: 0.045558
+    id: ck6tiaxqq0dek0j71itcwcylm
     verified: false
-    hashtags: "#odeandiefreude, #theanalogclub, #somewhereiwouldliketolive, #artclassified"
+    hashtags: ""
+  - username: "marcel.wydaxx"
+    fullname: >-
+      Marcel " WyDaXx " 📸
+    bio: >-
+      Marcel, C♡ 📍Barcelona Filmmaker & Photographer Do whatever it takes to get an epic photo 🤘🏼 Business and Inquiry 👇🏼
+    location: "Spain"
+    followers: 47893
+    engagement: 1764
+    commentsToLikes: 0.015913
+    id: ck5q71s0azni50i11fyl318bn
+    verified: false
+    hashtags: "#visualambassadors, #cinematography, #earth, #igrefined"
+  - username: "crissro"
+    fullname: >-
+      crissro
+    bio: >-
+      📷 @suicidegirls staff photographer 🌹 📍 Barcelona Let's work together!! write me 💌 🚀 Pers acount - @travelwithcrisro 🛸Twitter- itscrisro
+    location: "Spain"
+    followers: 55132
+    engagement: 493
+    commentsToLikes: 0.007209
+    id: ck55oucol95f10i1120audrea
+    verified: false
+    hashtags: "#membereview, #ingenue, #doublemalta"
+  - username: "andreadesignphotography"
+    fullname: >-
+      Andrea Design Photography
+    bio: >-
+      ω e ∂ ∂ ι η g & F α ѕ h ι o η photographers • 📍Valladolid - Barcelona 📍 + ⓘ ⓝ ⓕ ⓞ
+    location: "Spain"
+    followers: 33064
+    engagement: 126
+    commentsToLikes: 0.017348
+    id: ck6tjeq5n2kk80j711nktxg21
+    verified: false
+    hashtags: "#navidad2020, #london, #circus, #madrid"
 ---

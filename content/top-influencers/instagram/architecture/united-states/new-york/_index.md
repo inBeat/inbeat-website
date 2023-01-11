@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In New York In 2022
+title: Top 10 Architecture Instagram Influencers In New York In 2023
 description: >-
-  Find top architecture Instagram influencers in New York in 2022. Most popular hashtags: #architecture #newyork #newyorkcity #nyc.
+  Find top architecture Instagram influencers in New York in 2023. Most popular hashtags: #newyork #architecture #newyorkcity #nyc.
 platform: Instagram
-hits: 314
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 314 Instagram influencers like this in New York, United States for you to work with.
+hits: 370
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 370 Instagram influencers like this in New York, United States for you to contact.
 profiles:
+  - username: "imxplorer"
+    fullname: >-
+      Pavel Bendov
+    bio: >-
+      Work stuff : @archexplorer Bicoastal: 📍 NY/LA 👇🏻Order my book👇🏻 New Architecture New York
+    location: "United States"
+    followers: 16201
+    engagement: 102
+    commentsToLikes: 0.009695
+    id: ckapb3jwcyg1z0i78qyv81m6t
+    verified: false
+    hashtags: "#thehistoryofcars, #imxplorer, #newyork, #losangeles"
   - username: "archexplorer"
     fullname: >-
       Pavel Bendov
     bio: >-
-      Architectural & Interior photographer Personal Projects @imxplorer Bicoastal LA/NY📍 My book 📔New Architecture New York📔
+      Architectural & Interior photographer Personal Projects @imxplorer Bicoastal LA/NY 📍 My book 📔New Architecture New York📔
     location: "United States"
-    followers: 17554
-    engagement: 148
-    commentsToLikes: 0.022599
+    followers: 17194
+    engagement: 170
+    commentsToLikes: 0.023971
     id: ck5zwm98z6dgz0i14j5smfd99
     verified: false
-    hashtags: "#icu, #archexplorer, #imxplorer, #architecture"
-  - username: "sharoninnj"
+    hashtags: "#imxplorer, #architecturephotography, #archexplorer, #queens"
+  - username: "mchlanglo793"
     fullname: >-
-      Sharon In NJ
+      M I C H A E L   T.   Y O U N G
     bio: >-
-      📷🗽🌃🌉 Follow me for photos in and around New York City. All images are my own.🇺🇸
+      Architecture, New York City, Construction Updates With My Articles On @yimbygram & More On My Stories DM for photo inquiries 📸✉️
     location: "United States"
-    followers: 5678
-    engagement: 809
-    commentsToLikes: 0.106103
-    id: ck5q7hwum1nhn0i11paanus1u
+    followers: 38011
+    engagement: 436
+    commentsToLikes: 0.028179
+    id: ck0w3gprqtbdz0i19ji0kndgc
     verified: false
-    hashtags: "#newyorkcity, #cbsnewyork, #seeyourcity, #vermontfoliage"
-  - username: "girlintheyellowtaxinyc"
-    fullname: >-
-      Girl In The Yellow Taxi NYC
-    bio: >-
-      Little captures of the Big Apple A love letter to New York girlintheyellowtaxinyc@gmail.com
-    location: "United States"
-    followers: 25351
-    engagement: 475
-    commentsToLikes: 0.034068
-    id: ck5cigdwnslrk0i11xtto135m
-    verified: false
-    hashtags: "#facadelovers, #streeteasyfinds, #timeoutnewyork, #pictures"
+    hashtags: ""
   - username: "ig__newyork"
     fullname: >-
       New York City
     bio: >-
-      🙏Follow @ig__newyork 🙏Follow New York lovers 🙏Tag @ig__newyork for feature 🙏Tag #ig__newyork for sharing your 📷
+      🙏Follow @ig__newyork 🙏Follow New York lovers 🙏Tag @ig__newyork for feature 🙏Tag #ig__newyork for sharing your 📸
     location: "United States"
-    followers: 140348
-    engagement: 306
-    commentsToLikes: 0.016687
+    followers: 184473
+    engagement: 296
+    commentsToLikes: 0.013728
     id: ck0tyaclcm58c0i19ht3jox94
     verified: false
-    hashtags: "#newyorkmodel, #newyorkart, #newyorkartist, #newyorknewyork"
-  - username: "r.h.sin"
+    hashtags: "#america, #letitsnow, #newyorkphoto, #architecture"
+  - username: "picture_of_newyork"
     fullname: >-
-      r.h. Sin
+      new york City
     bio: >-
-      married to @samantha.king.holmes Proud Father New York Times Best-Selling Author Photographer | Traveling Writer/Poet
+      ▶Follow 💗 @picture_of_newyork ▶Daily dose of nyc pictures ▶Daily updates, Tag for future 🥇@picture_of_newyork #picture_of_newyork
     location: "United States"
-    followers: 1970215
-    engagement: 88
-    commentsToLikes: 0.009801
-    id: ck0w0zatqgrwc0i19sauj90zw
-    verified: true
-    hashtags: "#bookgram, #literature, #reading, #igreads"
-  - username: "_theexpeditioner"
-    fullname: >-
-      
-    bio: >-
-      Boston | 🌃| Globe Trotter 🌎📍88 Destinations ✈️ | Dog mom 🐶 @xena.the.pomeranian
-    location: "United States"
-    followers: 21243
-    engagement: 260
-    commentsToLikes: 0.019082
-    id: ck14gto3s6yzy0i19gfvicp81
+    followers: 43534
+    engagement: 128
+    commentsToLikes: 0.024374
+    id: ck8t4r21y7r6g0j78was1fhqj
     verified: false
-    hashtags: "#mexico, #caribbean, #views, #quebec"
+    hashtags: "#newyorkfood, #america, #ny, #nycity"
+  - username: "christinebottross"
+    fullname: >-
+      ChristineB. | Travel | Inspo
+    bio: >-
+      Stretching my life sides & taking you along with me. 📍#NYC based, #Cairo origins🐪 ✎ christinebottross@gmail.com
+    location: "United States"
+    followers: 30026
+    engagement: 234
+    commentsToLikes: 0.066910
+    id: ck0u95j7493ut0i19hmqcerhy
+    verified: false
+    hashtags: "#nyc, #stayandwander, #visitdr, #travelinspo"
+  - username: "asthetique.atelier"
+    fullname: >-
+      Asthetique Atelíer
+    bio: >-
+      Alchemy For Your Home™ Inspired by Mystical Minimalism 1st Drop | JULY 2021 by @asthetiquegroup
+    location: "United States"
+    followers: 21498
+    engagement: 238
+    commentsToLikes: 0.011434
+    id: ck6u53f5f7del0j71p84a4smp
+    verified: false
+    hashtags: "#homedecor, #logomark, #branding, #asthetiqueatelier"
+  - username: "discover.n.y.c"
+    fullname: >-
+      Discover NYC
+    bio: >-
+      🅽 Daily 𝗧𝗜𝗣𝗦 for your next 𝗡𝗬𝗖 𝗧𝗥𝗜𝗣 🆈 Travel 𝗚𝗨𝗜𝗗𝗘𝗦 by real New Yorkers 🅲 Live 𝗦𝗧𝗢𝗥𝗜𝗘𝗦 everyday from NYC ✈︎ 𝗕𝗘𝗦𝗧 Instagram page if you LOVE NYC
+    location: "United States"
+    followers: 432071
+    engagement: 262
+    commentsToLikes: 0.010232
+    id: ck0u6yzkv3ct80i19xxcytiny
+    verified: false
+    hashtags: "#newyorklife, #manhattan, #thisisnewyorkcity, #flynyon"
+  - username: "lastsuspect"
+    fullname: >-
+      🐇
+    bio: >-
+      Loading ...
+    location: "United States"
+    followers: 201302
+    engagement: 76
+    commentsToLikes: 0.013512
+    id: ck0vvqv18qctm0i19c8rg0l4s
+    verified: false
+    hashtags: "#createcommune, #igshotz, #mobilemag, #streetmagazine"
   - username: "joethommas"
     fullname: >-
       Joe Thomas
     bio: >-
-      Travel + Architecture Photographer 𖤥 New York ✉︎ joethomasphoto@gmail.com ↡ Prints
+      Travel + Architecture Photographer 𖤥 New York Interior work: @joethomasphoto ✉︎ joethomasphoto@gmail.com
     location: "United States"
-    followers: 125480
-    engagement: 757
-    commentsToLikes: 0.021791
+    followers: 143293
+    engagement: 624
+    commentsToLikes: 0.015959
     id: ck0tul0u17n2f0i193mgf2u2u
     verified: false
-    hashtags: "#presets, #esbvip, #lightroompresets"
-  - username: "twin_towers_new_york"
-    fullname: >-
-      World Trade Center
-    bio: >-
-      Never forget 9/11 & 2/26 Many photos of the original World Trade Center in New York.
-    location: "United States"
-    followers: 11235
-    engagement: 1329
-    commentsToLikes: 0.009482
-    id: ck0w6r50a9wd90i19nh7pv4gh
-    verified: false
-    hashtags: ""
-  - username: "clem0gram"
-    fullname: >-
-      Andrew Clements
-    bio: >-
-      🇦🇺 Wandering the world, all pics are mine 🌏 Bad drawings all done by me too 😅 Pushing an Iphone X to its limits 📱
-    location: "United States"
-    followers: 6335
-    engagement: 979
-    commentsToLikes: 0.020758
-    id: ck6txkpilyd5x0j71i58ib3qp
-    verified: false
-    hashtags: "#manhattan, #globalnightsquad, #nycprimeshot, #urbanphotography"
-  - username: "juliaa_expert_fx_"
-    fullname: >-
-      Juliaa makroviich
-    bio: >-
-      Make above 1BTC weekly Bitcoin Miner Fulltime Trader📉📈 Addicted to winners🤑 Active Account Investment is the key. 100% earnings and winings
-    location: "United States"
-    followers: 19741
-    engagement: 17
-    commentsToLikes: 0.087742
-    id: ck8td87mj2aqs0j78p95p24bi
-    verified: false
-    hashtags: "#woodhouse, #princeshill, #entrepreneurship, #trading"
+    hashtags: "#thecapstonepi, #ad, #happyworldphotographyday"
 ---

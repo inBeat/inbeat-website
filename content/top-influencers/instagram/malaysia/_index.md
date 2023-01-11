@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Malaysia In 2022
+title: Top 10 Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #staysafe #cmco.
+  Find top Instagram influencers in Malaysia in 2023. Most popular hashtags: #supportlocal #duducoffeeart #talents.
 platform: Instagram
-hits: 1859
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 1859 Instagram influencers like this in Malaysia for you to work with.
+hits: 1179
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 1179 Instagram influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "juliannefabulous"
+  - username: "winmetawin"
     fullname: >-
-      𝓙𝓾𝓵𝓲𝓪𝓷𝓷𝓮𝓯𝓪𝓫𝓾𝓵𝓸𝓾𝓼
+      Win Metawin O.
     bio: >-
-      Shoo shoo .. sincere followers only 🤨..
+      For work contact 02-669-9079 (GMMTV) 091-915-5464 (P’Eed) GMMTVARTISTS@GMAIL.COM
     location: "Malaysia"
-    followers: 23374
-    engagement: 2532
-    commentsToLikes: 0.506752
-    id: ckap18vbntjsa0i782zwahwl4
-    verified: false
-    hashtags: "#covidmalaysia, #thatquarantinelife, #tightfit, #enjoyingmytime"
-  - username: "n.adibahh"
+    followers: 14209976
+    engagement: 483
+    commentsToLikes: 0.010647
+    id: ck8tay3ahtjxa0j78v20rkn96
+    verified: true
+    hashtags: "#ais5g, #winonemorechance, #pradaholiday22, #sosxwin"
+  - username: "leeyufen"
     fullname: >-
-      𝗡𝘂𝗿 𝗔𝗱𝗶𝗯𝗮𝗵 🕊
+      Tia Lee 李毓芬
     bio: >-
-      . ☾ *   .   ☾ Gift review & Paid review ⬇️ DM/email for any business inquiries 💌
+      TIA LEE 李毓芬 x NERVO Remix 【GOODBYE PRINCESS 再見公主】 YouTube Link ⬇️
     location: "Malaysia"
-    followers: 6733
-    engagement: 1513
-    commentsToLikes: 0.070240
-    id: ckapc43xu2dze0i782z90h7ce
-    verified: false
-    hashtags: ""
-  - username: "dearkiki"
+    followers: 4646665
+    engagement: 272
+    commentsToLikes: 0.003589
+    id: ck15s8k74brs50i19qlc0f3t0
+    verified: true
+    hashtags: "#temptationapple, #thevoice, #thebeginning, #empowerherdance"
+  - username: "elecherlee"
     fullname: >-
-      DearKiki
+      Elecher 一粒車
     bio: >-
-      Dreamer ✨ Traveller ✨ Designer 🇲🇾 Penang, Malaysia ✉️ Dearkikitravel@gmail.com
+      @minielemu @oni.maltese @muziahau 🧝🏻‍♀️ @chers_co 👸🏻 @chevin_global 🥘 @shudaxiahotpot_klangvalley 💌 elecher_0606@hotmail.com FB/YouTube: Elecher一粒車
     location: "Malaysia"
-    followers: 16071
-    engagement: 1255
-    commentsToLikes: 0.060291
-    id: ckf5us823m3zl0j234bkncs06
+    followers: 426716
+    engagement: 238
+    commentsToLikes: 0.004078
+    id: ck5chxpvzrn9t0i118pgw7g81
     verified: false
-    hashtags: "#vietnamdestinations, #danangtrip, #vietnam, #vietnamnow"
-  - username: "_hakkencoser_"
+    hashtags: "#travelwithireneso, #amm, #hoshinoresorts, #fun"
+  - username: "kivi0223"
     fullname: >-
-      Hakken 八犬
+      KIᐯI🔅李芸
     bio: >-
-      🇲🇾 cosplayer ⚠️THIS IS MY ONLY IG NEXT CON🔜TBA Please email for business✉️
+      🤍工作請洽《曹哥》 ssicco1@gmail.com 0938-697-071 0973-867-373 ：：：：：：： 🐈 @modaxmiu 🎥 YT🔍KIVI李芸
     location: "Malaysia"
-    followers: 1492807
-    engagement: 2613
-    commentsToLikes: 0.017621
-    id: ck136577k4sz50i1917sjsc3x
+    followers: 67497
+    engagement: 224
+    commentsToLikes: 0.011947
+    id: ck5q40vizn8pk0i1158harxr6
     verified: false
-    hashtags: "#mysticmessenger, #juminhan, #bjalex, #loveisanillusion"
-  - username: "christinasiulan"
+    hashtags: "#kivi, #20210726, #boi, #rodeodrive"
+  - username: "iam_hafizihamizi"
     fullname: >-
-      Christina (크리스티나)
+      𝗛𝗔𝗙𝗜𝗭𝗜 🔸Malaysia
     bio: >-
-      @onearts_en - "fanochristina" for 20% off @senseoftouchmalaysia - "christinasiulan" for spec price 🖤✈️Travel 🖤💄🖤🍱☕ 🖤💃- ZIN 📍KL Collab👉DM ✨ Psalm 23
+      👨🏻‍🏫offical account 🌾Kuala Lumpur Only account No second account, No litmatch account-all fake
     location: "Malaysia"
-    followers: 26997
-    engagement: 509
-    commentsToLikes: 0.225455
-    id: ckap6fs9ufpuh0i78qpj16l59
+    followers: 86372
+    engagement: 214
+    commentsToLikes: 0.014914
+    id: ck14jm3owl19i0i19ckop85ne
     verified: false
-    hashtags: "#tbt, #staysafe, #healthylifestyle, #healthy"
-  - username: "aaryonstar"
+    hashtags: "#crinkleisbetter, #sonnomattress, #xmascampaign, #hotel"
+  - username: "dennisyin"
     fullname: >-
-      Aaryonstar ⭐️
+      Dennis Yin
     bio: >-
-      AARON | @dailypotion_my 。🇲🇾𝗠𝗬𝗦 🇸🇬𝗦𝗣𝗥｜𝗠𝗲𝗻 𝗦𝘁𝘆𝗹𝗲 . 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 . 𝗧𝗿𝗮𝘃𝗲𝗹 。✉️ wongyoonhuey@gmail.com 。⭐️ check out my YouTube ⤵️
+      LIVE.LOVE.LIFE @catx.global Chief Brand Officer 🚀 @malayaapeclub 🦧 @houseofchampionsmy Owner 🏋🏻‍♂️ @adidas Creator 👟 @myproteinmy Athlete 💪🏼
     location: "Malaysia"
-    followers: 10402
-    engagement: 1455
-    commentsToLikes: 0.149912
-    id: ckf5ndcwnxs8y0j23tpg7xvt6
-    verified: false
-    hashtags: "#cosbyyou, #lebihbanyakekstra, #workfromhome, #mcchicken"
-  - username: "arshinaz138"
+    followers: 102777
+    engagement: 184
+    commentsToLikes: 0.012610
+    id: ck5hnu5uvoec30i117cztpcwm
+    verified: true
+    hashtags: "#tastethegoodtimes, #celebrateresponsibly, #connorsmy, #newstartahead"
+  - username: "ayieelhamf88"
     fullname: >-
-      Arshi Naz Khan🌹
+      Tuan Nicky
     bio: >-
-      
+      -TNCKY- Husbaby @tashaawie 💍 Daddy to @aetajunior 👨🏻‍🍼 Founder: @aeta.perfume.officialhq IG review(DM ME)
     location: "Malaysia"
-    followers: 108929
-    engagement: 1285
-    commentsToLikes: 0.025294
-    id: ck14l5vomt0gb0i19tt7qmxyp
+    followers: 460180
+    engagement: 163
+    commentsToLikes: 0.005658
+    id: ck136lt2c74dg0i19lq50eba8
     verified: false
-    hashtags: "#gown, #green, #loveyouall, #arishfakhan"
-  - username: "sushalove"
+    hashtags: "#artismalaysia, #comedylife, #comedy, #socialmedia"
+  - username: "josephgermani"
     fullname: >-
-      Sharen
+      Joseph Germani
     bio: >-
-      Beauty | Fashion | Style Snapchat : sushalove
+      📍Currently in Kuala Lumpur, Malaysia 🇲🇾 ✨ Content Creator | YouTuber | Gamer | Mini NFT Collector | Home Cook 👨‍🍳 ⬇️ My Socials ✨
     location: "Malaysia"
-    followers: 42479
-    engagement: 1179
-    commentsToLikes: 0.187139
-    id: ck14ju3t3m7220i190pvjobxv
+    followers: 66435
+    engagement: 159
+    commentsToLikes: 0.025965
+    id: ck6twvn9rucve0j711m30hrvj
     verified: false
-    hashtags: "#indiangirl, #desigirl, #outfitinspiration, #styleblogger"
-  - username: "adligoldenboyhafidz"
+    hashtags: "#homecook, #homecooking, #josephgotalicia, #diptyque"
+  - username: "dududedoodle"
     fullname: >-
-      adli 'goldenboy' hafidz
+      DuDu Kent
     bio: >-
-      Malaysian Professional boxer 🇲🇾 SEA Games medalist WBC ASIA SILVER CHAMPION WBA ASIA SOUTH CHAMPION ( 8-0-0 )
+      Art, Coffee, Food and Travel #DuDuXplores #DuDuCoffeeArt ✉️dududedoodle@gmail.com
     location: "Malaysia"
-    followers: 18367
-    engagement: 907
-    commentsToLikes: 0.037388
-    id: ck5q3jm14l1p30i11z5ppw3z6
+    followers: 60959
+    engagement: 153
+    commentsToLikes: 0.005005
+    id: ck136puxd7ocb0i19eu71b4fl
     verified: false
-    hashtags: "#teamgoldenboy, #hardwork, #adligoldenboy, #routine"
-  - username: "kelv_teoh"
+    hashtags: "#dududedoodle, #igfeedsmenarik, #coffeepainting, #my"
+  - username: "marklee4444"
     fullname: >-
-      KELVTEOH草食男部落
+      marklee 本土天王 李国煌
     bio: >-
-      📍 槟城 Penang, Malaysia 🇲🇾 📕小红书：草食男Kelv
+      Join My Telegram https://t.m/markleemarkoftreasure DM for Collaborations Follow me about my NFT learning journey at my twitter account 👇🏻
     location: "Malaysia"
-    followers: 272822
-    engagement: 372
-    commentsToLikes: 0.041023
-    id: ck0vwsw6lvfzi0i19qurhm4c5
-    verified: false
-    hashtags: "#becomefam, #becomeasia, #becomesmilejourney, #becomers"
+    followers: 149019
+    engagement: 126
+    commentsToLikes: 0.015551
+    id: ck55n9yfl5rkl0i11o2hu9ni1
+    verified: true
+    hashtags: "#kingkongmediaproduction, #meiziya, #kingkongcreativemedia, #chinesenewyear"
 ---

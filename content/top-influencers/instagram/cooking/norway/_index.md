@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Norway In 2022
+title: Top 10 Cooking Instagram Influencers In Norway In 2023
 description: >-
-  Find top cooking Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #norge #oslo.
+  Find top cooking Instagram influencers in Norway in 2023. Most popular hashtags: #homemade #healthylifestyle #love.
 platform: Instagram
-hits: 74
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 74 Instagram influencers like this in Norway for you to work with.
+hits: 58
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 58 Instagram influencers like this in Norway for you to contact.
 profiles:
   - username: "hengekoyevenninner"
     fullname: >-
       Hengekøyevenninner TM🇳🇴
     bio: >-
-      ★Hammocking ✨ ★Outdoor cooking🔥 ★Hiking 🌿 💌hengekoyevenninner@gmail.com #hengekoyevenninner Heldige ambassadører for: @dingsebua.no @justhangstore 🥰
+      ★Hammocking ✨ ★Outdoor cooking🔥 ★Hiking🌿 💌hengekoyevenninner@gmail.com #hengekoyevenninner #hengekøyegenseren 📍@dingsebua.no 📍@justhangstore 🥰
     location: "Norway"
-    followers: 5692
-    engagement: 1049
-    commentsToLikes: 0.050442
+    followers: 6754
+    engagement: 809
+    commentsToLikes: 0.038709
     id: ckf5wk4r5saml0j23yvxhd9uw
     verified: false
-    hashtags: "#hektap, #hengek, #mittnorge, #hektapa"
+    hashtags: "#vintertid, #friluftslivuka, #hektap, #liveterbestute"
   - username: "sidraomarr"
     fullname: >-
-      Sidra -Hijabstyles|Recipes|Mom
+      
     bio: >-
-      🇵🇰 | 🇳🇴 📍Oslo Hijab tutorials • Food recipes • Lifestyle talk A little bit of everything i love ❤ Mirror-selfie addict 🤳 Millennial desi mom 💁🏻‍♀️
+      
     location: "Norway"
-    followers: 7970
-    engagement: 499
+    followers: 21
+    engagement: 189649
     commentsToLikes: 0.240447
     id: ck9wgfv4yt8iu0j78cqctl671
     verified: false
-    hashtags: "#hijabtutorial, #scarfstyles, #indianfoodrecipes, #hijabifashion"
-  - username: "christerrodseth"
+    hashtags: "#myramzanposts, #vegrecipesofindia, #gharkakhana, #ramzanrecipes"
+  - username: "gunhild_stordalen"
     fullname: >-
-      Christer Rødseth
+      Gunhild A. Stordalen
     bio: >-
-      🍴Head chef @vaaghals_restaurant 🍴Co owner @code_restaurant 🍴Host for Matsjokket @nrk Booking og kontakt: post@christerrodseth.no
+      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 10142
-    engagement: 903
-    commentsToLikes: 0.020593
-    id: ck8t4mu617cep0j78jult353j
-    verified: false
-    hashtags: "#coderestaurant, #norge, #newscandinaviancooking, #norway"
-  - username: "linekristinsdottir"
-    fullname: >-
-      Line Kristinsdottir
-    bio: >-
-      NORWAY, Trondheim🍃 Living history, and all things fun. @trondheimvikinglag
-    location: "Norway"
-    followers: 6769
-    engagement: 1535
-    commentsToLikes: 0.011843
-    id: ck15rflti7ovl0i19radrnev6
-    verified: false
-    hashtags: "#nature, #summer, #vikingwoman, #jul"
+    followers: 186309
+    engagement: 379
+    commentsToLikes: 0.025769
+    id: ck5zmq1uzn0kg0i147yvuqe2w
+    verified: true
+    hashtags: "#photoshoot, #dryjanuary, #artphotography, #nonpaidpromo"
   - username: "inamariehagen"
     fullname: >-
       Ina Marie Hagen
     bio: >-
       «Matbordet er det eneste stedet der man aldri kjeder seg den første timen.» @inamariehagen
     location: "Norway"
-    followers: 4807
-    engagement: 967
-    commentsToLikes: 0.092800
+    followers: 5033
+    engagement: 829
+    commentsToLikes: 0.094825
     id: ckf5n3tzpwmpi0j23d3kc63h2
     verified: false
-    hashtags: "#pescetarian, #instafood, #homecooking, #meetfree"
-  - username: "klarlan.camagon"
+    hashtags: "#pescetarian, #instafood, #buzzfeedfood, #eatyourveggies"
+  - username: "bnordstrand"
     fullname: >-
-      shots_with_kc
+      Berit Nordstrand
     bio: >-
-      NURSE | PHOTOGRAPHER | VIDEOGRAPHER 📍Oslo,Norway🇳🇴 👇👇👇👇YouTube channel
+      Forfatter og foredragsholder lidenskapelig opptatt av livsnytelse, optimal helse og minimal helserisiko gjennom ren, naturlig mat 🌱 Signert bok 👇🏻
     location: "Norway"
-    followers: 6390
-    engagement: 2057
-    commentsToLikes: 0.013388
-    id: ckap1mn0wv76p0i782m0nsp0w
-    verified: false
-    hashtags: "#bird, #birds, #nature, #youtube"
-  - username: "minfriluftstid"
-    fullname: >-
-      
-    bio: >-
-      Svartkjelen • Turkoppen • Turbålet @sydvang #minfriluftstid Alle bildene er mine 👍
-    location: "Norway"
-    followers: 2864
-    engagement: 1787
-    commentsToLikes: 0.027500
-    id: ckaoxtihheolv0i783rvn8y0j
-    verified: false
-    hashtags: "#igworldclub, #photographers, #photographer, #campvibes"
-  - username: "honeytheiggy"
-    fullname: >-
-      Honey 🍯
-    bio: >-
-      I’m an #italiangreyhound Named 🍯 because I’m so sweet. 🎂 19.10.18 🇳🇴 Oslo, Norway. I am the queen of playing 🥏
-    location: "Norway"
-    followers: 21473
-    engagement: 1165
-    commentsToLikes: 0.038063
-    id: ck5he3o1mqvns0i11p2vwjl15
-    verified: false
-    hashtags: "#mydogiscutest, #dogphotography, #hunder, #funnydog"
-  - username: "c.bolander"
-    fullname: >-
-      Cecilie Maria Bolander
-    bio: >-
-      Okurrr 🤙🏼 Email: ceciliemaria9@gmail.com @juicery @gorillazupgrade @underarmour @nocconorge @klinikkforallebekkestua
-    location: "Norway"
-    followers: 11338
-    engagement: 354
-    commentsToLikes: 0.038671
-    id: ck14jwp04mkk00i19ta3meh14
-    verified: false
-    hashtags: "#onestepatatime, #letsgo, #bjj, #judo"
-  - username: "tixmusic"
-    fullname: >-
-      TIX (Andreas Haukeland)
-    bio: >-
-      📱 Snap: tixmusic ✉️ Booking: marcus@artistpartner.no
-    location: "Norway"
-    followers: 205229
-    engagement: 1009
-    commentsToLikes: 0.098356
-    id: ck1385k26el150i19rg11iz2b
+    followers: 107245
+    engagement: 105
+    commentsToLikes: 0.061430
+    id: ck5c1z6j7w7r40i11lcx60d4z
     verified: true
-    hashtags: ""
+    hashtags: "#tarmensmedisin, #plantebasert, #melkefri, #omstart30"
+  - username: "carrielynnandmitchel"
+    fullname: >-
+      Carrie Beamer Mitch Stevenson
+    bio: >-
+      •ADVENTURES OF STEAMER •Grace thru Faith •CrossFit Games Athletes • #iam1stphorm •@rpstrength code MICA •@gotreign
+    location: "Norway"
+    followers: 107031
+    engagement: 182
+    commentsToLikes: 0.008837
+    id: ck0vwmykjulfm0i19whdubyqo
+    verified: false
+    hashtags: "#faithandfitness, #iam1stphorm, #crossfitguys, #fitnessgirl"
+  - username: "nyquist_home"
+    fullname: >-
+      Lill-Anita Nyquist
+    bio: >-
+      Interiør & livsstil @fryd_kosmetiske TAG #delmeg Owner of @funkisbloggen
+    location: "Norway"
+    followers: 80034
+    engagement: 81
+    commentsToLikes: 0.252072
+    id: ck0uajdd2cdhe0i19jo1to3yj
+    verified: false
+    hashtags: "#myhomevibe, #homeblogger, #interiorblogger, #homeinspo"
+  - username: "nilsingar"
+    fullname: >-
+      Nils-Ingar Aadne
+    bio: >-
+      Komiker og skiløper. For booking av foredraget «Gleden av å prestere!», konferansier eller stand-up, ta kontakt med FeelgoodiStage.
+    location: "Norway"
+    followers: 59830
+    engagement: 691
+    commentsToLikes: 0.058531
+    id: ck13atn6hs4jt0i19lnlzebpk
+    verified: true
+    hashtags: "#hoka, #mot, #kaffebryggeriet, #syltebrus"
+  - username: "vitamashadi"
+    fullname: >-
+      Vita Mashadi
+    bio: >-
+      ✉️ Management & booking: Christina.oien@plan-b.no 🎧 Podcast: «Tvillingterapi med Vita & Wanda» 🌸 VAAG by Vita & Wanda 👇🏽Nyeste episode av poden
+    location: "Norway"
+    followers: 87402
+    engagement: 372
+    commentsToLikes: 0.007686
+    id: ck5btpnjjgdft0i11zew7rtre
+    verified: true
+    hashtags: "#zalando, #stylecreator, #getthelook"
+  - username: "martebratberg"
+    fullname: >-
+      Marte Bratberg
+    bio: >-
+      📺 God Kveld Norge ✉️ booking: Julianne@brandpeople.no 🎧Janka og Martes podcast
+    location: "Norway"
+    followers: 137506
+    engagement: 909
+    commentsToLikes: 0.030795
+    id: ck15t4j6pgb780i19fn33qfso
+    verified: true
+    hashtags: "#theritualofmehr, #ritualsambassador, #opplevelsermedtwentyfour, #twentyfour"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Brazil In 2022
+title: Top 10 Gymnasts TikTok Influencers In Brazil In 2023
 description: >-
-  Find top gymnasts TikTok influencers in Brazil in 2022. Most popular hashtags: #gymnastics #foryou #fyp #fy.
+  Find top gymnasts TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #gymnastics #fyp #fy.
 platform: TikTok
-hits: 23
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform has 23 TikTok influencers like this in Brazil for you to contact.
+hits: 19
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 19 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "aninhabaracho"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🇧🇷 Circus teacher, Zumba ZIN, Ex- Gymnast Google: Galpão Aninha Baracho
     location: "Brazil"
-    followers: 5211
-    engagement: 1050
-    commentsToLikes: 0.044073
+    followers: 5195
+    engagement: 985
+    commentsToLikes: 0.058673
     id: ck9ejl9we38nh0j78j84ptdgj
     verified: false
-    hashtags: "#fy, #duet, #tiktokbrasil, #paravoce"
+    hashtags: "#fyp, #pravoce, #fy, #duet"
   - username: "arthurnory"
     fullname: >-
       arthurnory
     bio: >-
       Gymnast Olympic Medalist 🥉 World Champion 🥇
     location: "Brazil"
-    followers: 237200
-    engagement: 1161
-    commentsToLikes: 0.007585
+    followers: 296600
+    engagement: 864
+    commentsToLikes: 0.009322
     id: ck9k8acll84hx0j78muozs6i3
     verified: true
-    hashtags: "#foryou, #gymnastics, #tiktok, #challenge"
+    hashtags: "#gym, #gymnastics, #dance, #fyp"
   - username: "natigaudio"
     fullname: >-
       NATÁLIA GAUDIO
     bio: >-
       Olympian Gymnast of Brazilian Team! 🇧🇷🤸🏼‍♀️❤️ Insta: natigaudio
     location: "Brazil"
-    followers: 126500
-    engagement: 772
-    commentsToLikes: 0.012862
+    followers: 135200
+    engagement: 744
+    commentsToLikes: 0.011721
     id: ckaibrazihl9k0i78sdbt4c67
     verified: true
-    hashtags: "#tutorial, #quarantine, #fyp, #foryoupage"
+    hashtags: "#colors, #quarantine, #gymmast, #gymlover"
   - username: "bielzinx"
     fullname: >-
-      🔥 Gabriel Alves 🔥
+      Gabriel Alves
     bio: >-
-      Passando meu wpp pra quem me seguir no insta e avisar que veio da minha bio! ❤️
+      Vou tentar voltar a postar com mais frequência Não desistam de mim 🥺
     location: "Brazil"
-    followers: 53600
-    engagement: 2404
-    commentsToLikes: 0.093534
+    followers: 55100
+    engagement: 1988
+    commentsToLikes: 0.017848
     id: ck9kdgbjyu24g0j7807aeseuf
     verified: false
-    hashtags: ""
-  - username: "elastichear"
-    fullname: >-
-      elastichear
-    bio: >-
-      Criado para enaltecer dançarinos do mundo ❤️ Created to enhance the world's dan
-    location: "Brazil"
-    followers: 19900
-    engagement: 1673
-    commentsToLikes: 0.007793
-    id: ckbkslojsnek50j234zjiigtt
-    verified: false
-    hashtags: "#coppelia, #ballerina, #ballet, #royalballet"
+    hashtags: "#trend, #gymnastics, #tiedye, #viral"
   - username: "mateus_neb"
     fullname: >-
       Mateus Neb 😜
     bio: >-
       🇧🇷 TikTok 🤪 Atleta
     location: "Brazil"
-    followers: 3250
-    engagement: 1574
-    commentsToLikes: 0.032683
+    followers: 3213
+    engagement: 1665
+    commentsToLikes: 0.036376
     id: ck9kbvfcwmw520j78o0fe736f
     verified: false
-    hashtags: "#foryou, #fyp, #destaque, #foryoupage"
-  - username: "nildo.sousa.sw"
-    fullname: >-
-      Nildo Sousa sw 
-    bio: >-
-      Atleta de Streetworkout SBC Seja a pessoa que vc gostaria de encontrar em alguém
-    location: "Brazil"
-    followers: 596600
-    engagement: 944
-    commentsToLikes: 0.009689
-    id: ck81t2tc4v1z20j78qdg1r2fx
-    verified: true
-    hashtags: "#amigos, #aprendinamarra, #humorbr, #gymnastics"
+    hashtags: "#fy, #gym, #viral, #fyp"
   - username: "riqueaalves"
     fullname: >-
       Henrique Alves
     bio: >-
       handstand, acroyoga
     location: "Brazil"
-    followers: 2628
-    engagement: 928
-    commentsToLikes: 0.042507
+    followers: 2606
+    engagement: 915
+    commentsToLikes: 0.042186
     id: ck92trv9rj6o30j785mo7kkvq
     verified: false
-    hashtags: "#paradadem, #foryou, #capoeira, #awesome"
-  - username: "mineiro_augusto"
+    hashtags: "#circuslife, #acrobatics, #streetworkout, #headstand"
+  - username: "isamenarski"
     fullname: >-
-      Vinicius Reis
+      Isadora Menarski
     bio: >-
-      🎭 Comédia & Esporte 🤸🏽‍♂️ 📩 : viniciusaugustoreis2016@gmail.com
+      #FitForAll FITNESS/ FOTÓGRAFA / MÃE 📸 @menarski.fotografia
     location: "Brazil"
-    followers: 284700
-    engagement: 1468
-    commentsToLikes: 0.032214
-    id: ck9kdgz7eu8v70j78w4fdubft
+    followers: 534100
+    engagement: 545
+    commentsToLikes: 0.047474
+    id: ck81sx4zbtryy0j78rklaxlrw
     verified: false
-    hashtags: "#fyp, #vassourathru, #fail, #burgerking"
-  - username: "incondicionall"
+    hashtags: "#danca, #fitness, #greatdane, #danc"
+  - username: "nathyp0"
     fullname: >-
-      🍐
+      NAHTY
     bio: >-
-      um poquinho de tudo que gosto um poquinho de mim
+      Me sigam no Instagram 👆🏻
     location: "Brazil"
-    followers: 110300
-    engagement: 207
-    commentsToLikes: 0.040495
-    id: ckbf53lx2tu8e0j231a9ves31
+    followers: 6832
+    engagement: 508
+    commentsToLikes: 0.077716
+    id: ck92tre52j3ct0j78al662539
     verified: false
-    hashtags: "#gym, #emagrecimentocerto, #instagoog, #saudealimentar"
+    hashtags: "#fyp, #foryoupage, #fy, #paravoce"
+  - username: "juliarozicki"
+    fullname: >-
+      Júlia Rozicki
+    bio: >-
+      Vídeo (quase) todo dia haha Mais vídeos de pole no meu insta: @juliarozicki
+    location: "Brazil"
+    followers: 122200
+    engagement: 1508
+    commentsToLikes: 0.017503
+    id: ck8vxm0norh9c0j78pl25t99w
+    verified: false
+    hashtags: "#poledancing, #fyp, #fail, #polespin"
+  - username: "migtrevisan"
+    fullname: >-
+      Miguel Trevisan
+    bio: >-
+      📍 Santa Maria - RS Este perfil contém humor, ironia e mais!
+    location: "Brazil"
+    followers: 50000
+    engagement: 996
+    commentsToLikes: 0.042301
+    id: ckb17ccxjuw560j2398el8cyq
+    verified: false
+    hashtags: "#geracaotiktok, #crossfit, #mae, #lpo"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Yoga Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top yoga Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #yoga #yogainspiration #yogaeverydamnday #fitness.
+  Find top yoga Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #yoga #flexibility #stretching #dubai.
 platform: Instagram
-hits: 41
+hits: 31
 text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 41 Instagram influencers like this in United Arab Emirates for you to collaborate.
+text_bottom: Our database aggregates 31 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "odettecampbellx"
-    fullname: >-
-      𝐎 𝐃 𝐄 𝐓 𝐓 𝐄†☾
-    bio: >-
-      📍Dubai ॐ Yoga Teacher | 𓂀 Creative Soul @artandasanas ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ @womensbest.me ✉️ Bookings@odette-campbell.com
-    location: "United Arab Emirates"
-    followers: 30616
-    engagement: 402
-    commentsToLikes: 0.131880
-    id: ck14jk4nukrk40i19quf379fm
-    verified: false
-    hashtags: "#tlf, #takelifefurther, #redefineimpossible, #myth"
-  - username: "medinamaste"
-    fullname: >-
-      Sarah Medina | Yoga Teacher
-    bio: >-
-      🧘🏼‍♀️ YOGA INSTRUCTOR 🤸🏽‍♀️ Private • Events | Adults • Kids @myproteinae SM20 💊🏋🏻 @liquidodubai Sarah M27 🧘🏽‍♂️ 🇪🇸/🇧🇪 in Dubai
-    location: "United Arab Emirates"
-    followers: 33910
-    engagement: 351
-    commentsToLikes: 0.077089
-    id: ck0u9m4w2a2nt0i19h677hjcr
-    verified: false
-    hashtags: "#healthyliving, #blackandwhite, #positiveenergy, #yoga"
-  - username: "tania_romanenia"
-    fullname: >-
-      Yoga Miss Tee
-    bio: >-
-      🙏🏼200H YTT ❤️Theta Healing 🧠Access Bars @mumzworldcom Voga10 @x50lifestyleme X50TANJA @wolven MISSTEE20 @aura_yoga_wear Tania15 @vayumudra misstee15
-    location: "United Arab Emirates"
-    followers: 49856
-    engagement: 234
-    commentsToLikes: 0.097929
-    id: ck15pazw1wzar0i196pci2oz8
-    verified: false
-    hashtags: "#yogaeveryday, #instayoga, #yogafun, #yogainspiration"
   - username: "the_ranway"
     fullname: >-
       Ranwa Raffoul
     bio: >-
-      📍Beirut-Dubai Fashion - Beauty - Lifestyle Face yoga instructor @faceyogabyranwa Founder of @weartheranway 📧:contact@theranway.com
+      Fashion - Beauty - Lifestyle Face yoga instructor @faceyogabyranwa Founder of @weartheranway
     location: "United Arab Emirates"
-    followers: 13453
-    engagement: 640
-    commentsToLikes: 0.060427
+    followers: 12966
+    engagement: 570
+    commentsToLikes: 0.069470
     id: ck5qcc7wqpv060i11477oqbtl
     verified: false
-    hashtags: "#fashionblog, #fashionblogger, #stylish, #dubai"
-  - username: "marina_in_dubai"
+    hashtags: "#dxb, #fashiondiaries, #fashionblogger, #makeup"
+  - username: "kayalovesss"
     fullname: >-
-      💄MARINA🌴
+      Kaya ✨🙏🏼
     bio: >-
-      CITIZEN OF THE WORLD 🌍 ⠀ Make up, Yoga, Psychology ⠀ #ZeinaStar at @lifestylegulf ⠀ Russia➡️California➡️Dubai ⠀ 📧 marina_psby@icloud.com
+      Traveling Entrepreneur, Yoga Teacher, Business Coach & Fashion Designer @rainthelabel 🤍 Founder @kaya_yoga_therapy 🧘🏼‍♀️
     location: "United Arab Emirates"
-    followers: 70349
-    engagement: 174
-    commentsToLikes: 0.190186
-    id: ck8t4768w5qe90j78a3kgrzdw
+    followers: 57450
+    engagement: 93
+    commentsToLikes: 0.039158
+    id: ck6tonezdf0ys0j71z43wtc9w
+    verified: false
+    hashtags: "#turkeytravel, #bikinilife, #mydubai, #woman"
+  - username: "simoneyoga_uae"
+    fullname: >-
+      Simoné -YogaTeacher Dubai
+    bio: >-
+      International yoga teacher Bogotá 🛫 New York 🛬 Abu Dhabi 🛫 India 🛬📍Dubai Visit us at www.sensationzen.com Business: simonegil24@gmail.com
+    location: "United Arab Emirates"
+    followers: 9786
+    engagement: 335
+    commentsToLikes: 0.036730
+    id: ck14lp82uvsqm0i19u0q2fxja
     verified: false
     hashtags: ""
-  - username: "nesarassouli"
-    fullname: >-
-      Nesa Rassouli
-    bio: >-
-      📍Dubai Instructor @barrysuae Retail & Purchasing Manager @barrysuae Certified PT & Holistic Nutritionist Yin Yoga 50hr
-    location: "United Arab Emirates"
-    followers: 16145
-    engagement: 282
-    commentsToLikes: 0.048017
-    id: ck5c2k78jxetk0i11718gtze5
-    verified: false
-    hashtags: "#frieswithdat, #chasingsunsets, #barrysathome, #hellweek"
-  - username: "the_world_of_chacha"
-    fullname: >-
-      ˜”*°•. 𝓒𝓱𝓪𝓬𝓱𝓪
-    bio: >-
-      𝙼𝚢 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚒𝚜 𝚖𝚢 𝚜𝚙𝚒𝚛𝚒𝚝𝚞𝚊𝚕 𝚊𝚠𝚊𝚔𝚎𝚗𝚒𝚗𝚐 𓅰 𝙵𝚘𝚞𝚗𝚍𝚎𝚛: 𝚁𝚎𝚗𝚌𝚑𝚊 𝚈𝚘𝚐𝚊 𝚁𝚎𝚝𝚛𝚎𝚊𝚝𝚜ᵗᵐ 𝙱𝚕𝚘𝚐𝚐𝚎𝚛|𝙵𝚞𝚛 𝚖𝚞𝚖 @rencha_yoga_retreats @therenchaclub @thepuppiesdubai
-    location: "United Arab Emirates"
-    followers: 27358
-    engagement: 177
-    commentsToLikes: 0.080223
-    id: ck6tjw3t43jbl0j711rwpl3hi
-    verified: false
-    hashtags: "#photography, #dubailife, #poolside, #empoweredwomenempowerwomen"
-  - username: "veranika_vii"
-    fullname: >-
-      Veranika Vii
-    bio: >-
-      💎Muse 💎Motivator 💎Fitnes/yoga trainer 💎Health coach ❤️simple Belorussian girl who dreams big and working hard for it For collaboration DM
-    location: "United Arab Emirates"
-    followers: 40466
-    engagement: 140
-    commentsToLikes: 0.020849
-    id: ck8szvub7pwl80j78s6upo2lk
-    verified: false
-    hashtags: "#healthylifestyle, #modeling, #diet, #loseweight"
   - username: "avinashk996"
     fullname: >-
       Avinash Kumar
     bio: >-
       Here To Uplift you through Yoga 🧘‍♂️Strength💪Movement🤸‍♂️ Life of an🇮🇳boy👳‍♀️in Dubai Ido Portal Student 🐒 📬 DM for Private coaching
     location: "United Arab Emirates"
-    followers: 8249
-    engagement: 631
-    commentsToLikes: 0.042137
+    followers: 8135
+    engagement: 646
+    commentsToLikes: 0.042540
     id: ck6ub31tw76ba0j719d1tg22w
     verified: false
-    hashtags: "#uaefitnessmovement, #inthestreets, #instaindia, #yogaeverywhere"
-  - username: "worldofeva"
+    hashtags: "#yogainspiration, #workoutmotivation, #dubaiexpo2020, #dubaipersonaltrainer"
+  - username: "flexifarah"
     fullname: >-
-      EVA✨Flexibility & Mindfulness
+      Farah
     bio: >-
-      Bring passion into everything you do 💫 🥀 Flexibility ✧ Yoga ✧ Stretching 🔮 Magical moments & adventures 🌙 Create your own dream life 📚 My EBOOK out 🔜
+      Contortionist 👽 & Flexibility coach 📍Dubai Train with me 💌 DM
     location: "United Arab Emirates"
-    followers: 21762
-    engagement: 444
-    commentsToLikes: 0.057929
-    id: ck14jk4h2kriv0i1912ora5pz
+    followers: 26175
+    engagement: 409
+    commentsToLikes: 0.026050
+    id: ck55lzhz02u970i11g6vocbs2
     verified: false
-    hashtags: "#yogapractice, #handstanding, #splitseverywhere, #yogainspiration"
+    hashtags: "#flexible, #split, #flexibilitygoals, #flexifarah"
+  - username: "sarah_polefitdubai"
+    fullname: >-
+      Sarah
+    bio: >-
+      #Pole and #Aerial instructor at Pole Fit Dubai For enquires/collaborations please send a DM or email BEAUTIFUL LINES EBOOK👇🏼
+    location: "United Arab Emirates"
+    followers: 112898
+    engagement: 212
+    commentsToLikes: 0.021812
+    id: ck0uc5vvog5c30i199uylxye7
+    verified: false
+    hashtags: "#xpole, #pdcombo, #beachbabe, #trainathome"
+  - username: "isa_galvao"
+    fullname: >-
+      ISABELLA GALVÃO, 26 🇧🇷
+    bio: >-
+      CIRCUS / FITNESS / LIFESTYLE 📍Dubai ▫️Aerialist/Acrobat at @laperledxb 🎭 ▫️Acrobatics, Circus, Stretching Coach ▫️Personal Trainer ▫️YOUTUBE⬇️
+    location: "United Arab Emirates"
+    followers: 10683
+    engagement: 409
+    commentsToLikes: 0.051050
+    id: ckap20658wtcf0i78prrhfs74
+    verified: false
+    hashtags: "#circuseverydamnday, #aerialist, #yogatips, #laperledxb"
+  - username: "asarehmhd"
+    fullname: >-
+      Asareh Mohammadi
+    bio: >-
+      🥇UAE Aerial Hoop Championship 2019
+    location: "United Arab Emirates"
+    followers: 4882
+    engagement: 846
+    commentsToLikes: 0.085397
+    id: ck5q5bsqqs5yq0i11mak0t2ph
+    verified: false
+    hashtags: "#yoga, #sportgirl, #fitlife, #pdsplit"
+  - username: "cherry_pole_dance_pro"
+    fullname: >-
+      Pole Dance/Stretching|Rostov
+    bio: >-
+      PoLeARt CHErRy CiRCuS 🏆Чемпионка Мира🏆 🏆Winner PoleTheatre World Drama19 🏆🏆Dubai PoleCup Pro17,18 🏆Ultimate Winner Pro PoleTheatre Art Hungary18
+    location: "United Arab Emirates"
+    followers: 57698
+    engagement: 140
+    commentsToLikes: 0.048988
+    id: ck55psqp5baoa0i117u3bnrnl
+    verified: false
+    hashtags: "#badkittyusa, #poledancerofig, #stretching, #flexibilitytraining"
+  - username: "katsbling"
+    fullname: >-
+      Katia Jundi
+    bio: >-
+      Watch and Jewelry Connoisseur telling the stories of luxury from the female perspective. SOS Children’s Villages Ambassador
+    location: "United Arab Emirates"
+    followers: 74241
+    engagement: 217
+    commentsToLikes: 0.068723
+    id: ck6ugif9937c40j71kitkq3ew
+    verified: false
+    hashtags: "#franckmuller, #jewelry, #watchfam, #zakynthos"
 ---

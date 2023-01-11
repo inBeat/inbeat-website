@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In United Kingdom In 2022
+title: Top 10 Vegan Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top vegan Instagram influencers in United Kingdom in 2022. Most popular hashtags: #grungepost #nugrunge #alternativegirlsofinstagram.
+  Find top vegan Instagram influencers in United Kingdom in 2023. Most popular hashtags: #vegan #veganuary #veganfood.
 platform: Instagram
-hits: 730
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 730 Instagram influencers like this in United Kingdom for you to work with.
+hits: 563
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 563 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
+  - username: "yasminjohalx"
+    fullname: >-
+      yasmin • nottingham
+    bio: >-
+      🌞 the life of a young(ish) mum 💖 vegan food & beauty 🌿 autistic joy & everyday snapshots 👻 i like indie films and emo bands 💌 yasminjohalx@gmail.com
+    location: "United Kingdom"
+    followers: 15471
+    engagement: 497
+    commentsToLikes: 0.038000
+    id: ckaox76tbc36p0i7836x36vtg
+    verified: false
+    hashtags: "#veganbeautyblogger, #yardleylondon, #luxuryfragranceforless, #contemporaryfragrance"
+  - username: "vernahungrybanana"
+    fullname: >-
+      Verna | London eats & homecook
+    bio: >-
+      🌱 Living that #veganuary life 📽 TikTok, YouTube & Pinterest 🐈 Cat mum to @peanutplushazel 🥜 💌 Contact hello@vernabanana.com
+    location: "United Kingdom"
+    followers: 225208
+    engagement: 327
+    commentsToLikes: 0.022646
+    id: ck5ccmrh3hn7e0i11brtjwaum
+    verified: false
+    hashtags: "#dumplings, #asmr, #chinesefood, #miso"
+  - username: "lukecatleugh"
+    fullname: >-
+      Luke Catleugh
+    bio: >-
+      🇬🇧 London Food & lifestyle creator 🍳Easy Veggie & Vegan recipes 🎥 YouTuber 📩 lauren.shergold@milkmanagement.co.uk 👇🏻 WEEKLY YOUTUBE VIDEOS
+    location: "United Kingdom"
+    followers: 42730
+    engagement: 191
+    commentsToLikes: 0.071920
+    id: ck0tsz4590j3v0i19w1jcl0n0
+    verified: false
+    hashtags: "#christmasbaking, #christmasfood, #labrador, #christmastree"
   - username: "aliciatyra_cc"
     fullname: >-
       Alicia Corrales-Connor
     bio: >-
-      🏳️‍🌈🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇸 she / her ✨ K Howard 💖 @sixthemusical 👑 Represented by: @apolloartistmgt 🌱vegan🌱 Come play with me on Cameo !!!⬇️⬇️⬇️
+      🏳️‍🌈🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇸 (she/they)✨ K Howard 💖 @sixthemusical 👑 Represented by: @apolloartistmgt 🌱Vegan🌱 Come play with me on @cameo ⬇️⬇️⬇️
     location: "United Kingdom"
-    followers: 9050
-    engagement: 1746
-    commentsToLikes: 0.072221
+    followers: 9436
+    engagement: 1309
+    commentsToLikes: 0.084956
     id: ck0w2gj3oo91d0i19yavqcam5
     verified: false
-    hashtags: "#barbiegirl, #sundaysessions, #bluehair, #musicvideo"
-  - username: "katiepenny"
-    fullname: >-
-      K A T I E  P E N N Y ⚡️
-    bio: >-
-      Fashion | Lifestyle | Vegan 🌿 Bride to be 💍 Contact Katiepenny94@gmail.com Essex / London based ♥️ @matt_jeffries
-    location: "United Kingdom"
-    followers: 33789
-    engagement: 525
-    commentsToLikes: 0.193097
-    id: ck5c0lqhjte1u0i11p8vomza2
-    verified: false
-    hashtags: "#selftanforeverybody, #ownyourglow"
+    hashtags: "#outfitinspo, #loveandlight, #rainbow, #lgbtq"
   - username: "elee.bs"
     fullname: >-
       𝐄𝐥𝐞𝐧𝐚 𝐁𝐮𝐞𝐧𝐨 𝐒𝐞𝐠𝐮𝐫𝐚🥀
     bio: >-
       ✨💭🕊 🌱 vegan for the voiceless 🐮🍃 📍 Madrid | mamá de @ruculagata 📩 elena@letsbeinfluenced.com
     location: "United Kingdom"
-    followers: 160343
-    engagement: 437
-    commentsToLikes: 0.043125
+    followers: 148327
+    engagement: 380
+    commentsToLikes: 0.005930
     id: ck5zqkh7tureq0i14x5zwupkk
     verified: false
-    hashtags: "#lidlskincare, #ad, #cruelladevil, #halloween"
-  - username: "hollievwise"
-    fullname: >-
-      𝖍𝖔𝖑𝖑𝖎𝖊 𝖜𝖎𝖘𝖊 ⚡️🌜✨
-    bio: >-
-      Alt fashion inspo • Kent, UK • Vegan 🖤PR: hollievwise@gmail.com ⚡️SHEIN discount - HOLLIEV15 🖤 @my.influencers
-    location: "United Kingdom"
-    followers: 10437
-    engagement: 868
-    commentsToLikes: 0.076786
-    id: ck9wfsup0qe1g0j78n8qu0x4x
-    verified: false
-    hashtags: "#altstyle, #grungeoutfits, #alternativetogrunge, #egirlaesthetic"
+    hashtags: "#practicaelurbansummer, #beefeaterurbansummer"
   - username: "isabeljones_sm6"
     fullname: >-
       Isabel Jones
     bio: >-
-      Singer and bassist in @sm6band 🌟 🎶Songwriter 🌸Always positive 🥗Vegan & Humanitarian ☕️Need coffee to function 🖤MIA o u t n o w
+      Singer and bassist in @sm6band 🌟 🎶Songwriter 🌸Always positive 🥗Vegan & Humanitarian ☕️Need lots of coffee to function 🎶LISTEN NOW👇
     location: "United Kingdom"
-    followers: 102735
-    engagement: 1611
-    commentsToLikes: 0.027415
+    followers: 97527
+    engagement: 1183
+    commentsToLikes: 0.028423
     id: ckap5a27aaty10i78jn61ocjx
     verified: false
     hashtags: ""
-  - username: "katerinadubov"
+  - username: "as.danai"
     fullname: >-
-      Katerina Miranda Dubov
+      𝐷𝑎𝑛𝑎𝑖   |  𝑌𝑜𝑔𝑎 - 𝑀𝑖𝑛𝑑𝑓𝑢𝑙𝑛𝑒𝑠𝑠
     bio: >-
-      Vegan🌱 Earthling🌍 Health• Positivity• Consciousness @creative.kat.x 🇷🇺🇲🇽🇺🇸 📍MCR MA: @matriarch_model_mgmt MAN: @maverick_models
+      🙏Yoga Teacher 200hr 💙 based in Greece • connected with the World 🌎 🌱 Vegan 💌 DM/email for collabs
     location: "United Kingdom"
-    followers: 10769
-    engagement: 1355
-    commentsToLikes: 0.116820
-    id: ckf5rhfo1codc0j234f8dlw10
+    followers: 11481
+    engagement: 360
+    commentsToLikes: 0.128849
+    id: ck9woonfe5yeq0j78ggq92tjm
     verified: false
-    hashtags: "#olivedabday, #oliveda, #olivedaglow, #olivedaofficial"
-  - username: "baklavaah"
+    hashtags: ""
+  - username: "lauren_dungey"
     fullname: >-
-      🌸 | fitness and health
+      Lauren
     bio: >-
-      🤍 Just a pastry’s journey to getting stronger 🤍 Vegan 🌱 🤍 English/Turkish
+      Mother. Blogger. Vegan. Sometimes a runner. 🌿 Self Love and Body Confidence 🌻
     location: "United Kingdom"
-    followers: 4390
-    engagement: 1257
-    commentsToLikes: 0.168330
-    id: ckaozsbgzn6qn0i78rzvw9e7c
+    followers: 26344
+    engagement: 310
+    commentsToLikes: 0.079554
+    id: ckaorf3kamxay0i78py6ztub4
     verified: false
-    hashtags: "#fitness, #goals, #fitfam, #gymfit"
-  - username: "_golden_panther"
+    hashtags: "#beyoutiful, #friendsoffigleaves, #tauntonblogger, #fullerbustinspo"
+  - username: "katiepenny"
     fullname: >-
-      𝗚𝗢𝗟𝗗𝗘𝗡 𝗣𝗔𝗡𝗧𝗛𝗘𝗥🐾
+      K A T I E  P E N N Y ⚡️
     bio: >-
-      🏆FIRST UK WELLNESS 🥇IFBB PRO 🌱Vegan 👩‍👦Mother 🐉@dragonpharma_llc Code “PANTHER” 👙@bikinibkb_by_bikinimama 📍London
+      Fashion | Vegan | Bride to be 🤍 Home: @homeofkatieandmatt PR: katiepenny94@gmail.com Essex / London based
     location: "United Kingdom"
-    followers: 127188
-    engagement: 447
-    commentsToLikes: 0.032259
-    id: ck5cbzfd2gfuc0i11u7ir14sj
+    followers: 41268
+    engagement: 269
+    commentsToLikes: 0.081919
+    id: ck5c0lqhjte1u0i11p8vomza2
     verified: false
-    hashtags: "#dragonpharma, #blackviper, #fatburner, #sale"
-  - username: "abhinavmahajanlife"
+    hashtags: "#imwearingri, #loveyourhealthyhair, #beaulieuinbloom, #calaatbeaulieu"
+  - username: "gaarasama"
     fullname: >-
-      ABHINAV MAHAJAN
+      May 🐹 めいちゃん
     bio: >-
-      VEGAN I YOGA I AWARE Contact: awareman@yahoo.com
+      ▫️Plant-based distance runner | NHS Doctor 👩🏻‍⚕️ ▫️Promoting vegan food & fitness! 🏃🏻‍♀️ 🏋🏻‍♀️ 🌱 ▫️London | 🇬🇧🇮🇪🇲🇾🇨🇳
     location: "United Kingdom"
-    followers: 170349
-    engagement: 1065
-    commentsToLikes: 0.009793
-    id: ckap75a77iotl0i78bhc9oskq
+    followers: 9768
+    engagement: 1305
+    commentsToLikes: 0.026572
+    id: ck8tb64ciug3j0j78pgkbcmpu
     verified: false
-    hashtags: "#selfmade, #justthoughts, #manofnoego, #abhinavmahajanlife"
-  - username: "missfenderr"
-    fullname: >-
-      Alayna Joy ✧ Create Compassion
-    bio: >-
-      📷 Content #Creator 🌈 #LGBTQ 🌱 #Vegan 🐱 #Cat Mom 🌿 Outdoor Enthusiast ✨Mindful #Compassion Teacher ⬇️ NEWEST VIDEO! ⬇️
-    location: "United Kingdom"
-    followers: 45046
-    engagement: 1247
-    commentsToLikes: 0.009493
-    id: ck15qb729201d0i19t0xa7bku
-    verified: true
-    hashtags: "#mhd2020, #thedcut, #blacklivesmatter, #myhairmysay"
+    hashtags: "#gymsharkwomen, #exercise, #stressfracture, #running"
 ---

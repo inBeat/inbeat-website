@@ -1,24 +1,60 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Francisco In 2022
+title: Top 10 Vegan TikTok Influencers In San Francisco In 2023
 description: >-
-  Find top vegan TikTok influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #fyp #california #vegan.
+  Find top vegan TikTok influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #vegan #fyp #foodie.
 platform: TikTok
 hits: 10
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 10 TikTok influencers like this in San Francisco, United States for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 10 TikTok influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "mario0o0o0o0o0o"
+    fullname: >-
+      Mario
+    bio: >-
+      Vlogging the funniest parts of my life Bay Area San Francisco Hella Vegan
+    location: "United States"
+    followers: 57800
+    engagement: 1115
+    commentsToLikes: 0.026562
+    id: ck9fmcoylsnrp0j78anl0x3yk
+    verified: false
+    hashtags: "#bayareastandup, #oakland, #bayareashit, #sanfrancisco"
   - username: "901cali"
     fullname: >-
       Jermaine Leshun Elli
     bio: >-
       I like to travel make YouTube videos I’m also vegan and live in San Francisco!
     location: "United States"
-    followers: 3425
-    engagement: 352
-    commentsToLikes: 0.022047
+    followers: 3343
+    engagement: 441
+    commentsToLikes: 0.077601
     id: ckc8brrqk813a0j23pfdroer7
     verified: false
-    hashtags: "#skateboarding, #skateboardtime, #boosted, #notsoordinary"
+    hashtags: "#skateboardtime, #sanfrancisco, #australia, #skateboarding"
+  - username: "allie.eats"
+    fullname: >-
+      Allie Eats
+    bio: >-
+      food | life | recipes san francisco say hi on insta @allie.eats
+    location: "United States"
+    followers: 58400
+    engagement: 629
+    commentsToLikes: 0.031815
+    id: ckd6evi5r6jvm0j230rrgy6m3
+    verified: false
+    hashtags: "#sanfrancisco, #quickrecipe, #noodles, #foodinfluencer"
+  - username: "airamsveganvida"
+    fullname: >-
+      Airam
+    bio: >-
+      I cook on Youtube! Recipes ⬇️ Channel: Airam’s Vegan Vida 🌱
+    location: "United States"
+    followers: 25900
+    engagement: 1282
+    commentsToLikes: 0.025457
+    id: cka6f8nk2epdd0i78ymsbp7et
+    verified: false
+    hashtags: "#vegan, #veganfoodtiktok, #vegantiktok, #veganfood"
   - username: "wholeecow"
     fullname: >-
       WHOLeeCOW
@@ -26,105 +62,69 @@ profiles:
       whole-ecow.com All Natural Gourmet Beef & Vegan Jerky Handcrafted in Bay Area
     location: "United States"
     followers: 26000
-    engagement: 667
-    commentsToLikes: 0.015764
+    engagement: 697
+    commentsToLikes: 0.015227
     id: ck8nexkzgpaoq0j781bsvtyqa
     verified: false
-    hashtags: "#4u, #wholeecow, #foryoupage, #jerky"
-  - username: "mario0o0o0o0o0o"
-    fullname: >-
-      Mario
-    bio: >-
-      Daily Vlog Eating hella vegan food ⬇️SS2021 Merch Available! ⬇️
-    location: "United States"
-    followers: 31200
-    engagement: 983
-    commentsToLikes: 0.030908
-    id: ck9fmcoylsnrp0j78anl0x3yk
-    verified: false
-    hashtags: "#dolorespark, #duet, #munchies, #sanfrancisco"
+    hashtags: "#yum, #4u, #travel, #helicopter"
   - username: "fitchefmike"
     fullname: >-
       Chef Mike
     bio: >-
       Cook & Eat Like Mike ChopstickGang 🥢🔥 CEO of Everybody Eats
     location: "United States"
-    followers: 26900
-    engagement: 677
-    commentsToLikes: 0.037856
+    followers: 27400
+    engagement: 731
+    commentsToLikes: 0.037331
     id: ckdt434znspap0j23aiq9boxr
     verified: false
-    hashtags: "#noodle, #spicy, #cheese, #food"
+    hashtags: "#fries, #beef, #meat, #wagyu"
+  - username: "ven.ny"
+    fullname: >-
+      Venny G
+    bio: >-
+      Disciple 20 y/o ( follow my insta^ ) From LA 🌴
+    location: "United States"
+    followers: 7385
+    engagement: 899
+    commentsToLikes: 0.029840
+    id: ck83k2n528u160j782m6ks4w0
+    verified: false
+    hashtags: "#fyp, #healthy, #sanfrancisco, #food"
   - username: "k.aralyn"
     fullname: >-
       Karalyn Tuivaiti
     bio: >-
-      Girl power 🌈 Plant eater 🍄 Earth supporter 🦋
+      Plant Eater Power to women 🌟 BLM.
     location: "United States"
-    followers: 44800
-    engagement: 1316
-    commentsToLikes: 0.006493
+    followers: 43300
+    engagement: 1267
+    commentsToLikes: 0.006282
     id: ckbwauchv0ab60j231j3ym2x1
     verified: false
-    hashtags: "#fyp, #summa, #veganfoodie, #foru"
-  - username: "gym_sharky33"
+    hashtags: "#foru, #fyp, #vegan, #foryou"
+  - username: "carissaandclimate"
     fullname: >-
-      getty_san
+      carissa
     bio: >-
-      🇵🇭 🇺🇸Bayarea Daddy Shark All smiles no hate 10k? 🤪
+      make waves with me for the 🌎 marine biologist + conservationist ecotok / hawaii
     location: "United States"
-    followers: 27200
-    engagement: 665
-    commentsToLikes: 0.093062
-    id: ckbqudx7heuj20j23wqzi0id2
+    followers: 81400
+    engagement: 1496
+    commentsToLikes: 0.026377
+    id: ckdc9ufwuik6h0j23todq3uul
     verified: false
-    hashtags: "#vibe, #foryoupage, #pinoy, #over40"
-  - username: "sylusrothchild"
+    hashtags: "#capitalism, #climateaction, #orcas, #marinemammals"
+  - username: "kentboyd_"
     fullname: >-
-      Sylus Rothchild 
+      Kent
     bio: >-
-      The news of the day. Patreon in link. Venmo @jeff-ahern-1 (Life is short,Laugh)
+      Hiiiiiiiiiiii!!!!
     location: "United States"
-    followers: 27500
-    engagement: 3654
-    commentsToLikes: 0.071705
-    id: cka0r0kahf0ul0i783daut6hc
+    followers: 234500
+    engagement: 886
+    commentsToLikes: 0.021782
+    id: ckd6x1zm6thir0j238xm0ow2i
     verified: false
-    hashtags: "#vote, #biden, #fyp, #sad"
-  - username: "sammyobeid"
-    fullname: >-
-      Sammy Obeid
-    bio: >-
-      Fully half-talented Host of #100Humans on Netflix RSVP to my FREE live standup:
-    location: "United States"
-    followers: 48100
-    engagement: 2590
-    commentsToLikes: 0.007518
-    id: ck9uwgpbuvu5q0j789z4yl96z
-    verified: false
-    hashtags: "#sammyobeid, #govote, #standup, #california"
-  - username: "oaklandfanjose"
-    fullname: >-
-      Oaklandfanjose
-    bio: >-
-      Let’s gooo IG: oaklandfanjose
-    location: "United States"
-    followers: 4677
-    engagement: 499
-    commentsToLikes: 0.022002
-    id: cka8dxmleurxs0i78q6xpgb1q
-    verified: false
-    hashtags: "#california, #fyp, #bayarea, #modesto"
-  - username: "mykahmag"
-    fullname: >-
-      Mykahmag
-    bio: >-
-      SAC / Hawaii | 22 IG - @official_tannie
-    location: "United States"
-    followers: 5663
-    engagement: 817
-    commentsToLikes: 0.036034
-    id: ckcjor3y8fzpz0j23b2imaeu4
-    verified: false
-    hashtags: "#hawaii, #gotmilkchallenge, #fyp, #catperson"
+    hashtags: "#pridehousela, #dance, #queer, #wee"
 ---

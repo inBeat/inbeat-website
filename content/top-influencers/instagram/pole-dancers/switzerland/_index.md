@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Switzerland In 2022
+title: Top 10 Pole Dancers Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top pole dancers Instagram influencers in Switzerland in 2022. Most popular hashtags: #flexibility #yoga #switzerland #calisthenics.
+  Find top pole dancers Instagram influencers in Switzerland in 2023. Most popular hashtags: #flexibility #yoga #switzerland #calisthenics.
 platform: Instagram
 hits: 9
 text_top: Identify the top-rated Instagram profiles on inBeat.

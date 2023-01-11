@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Barcelona In 2022
+title: Top 10 Yoga Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top yoga Instagram influencers in Barcelona in 2022. Most popular hashtags: #yogabarcelona #yoga #yogapractice #yogaespa.
+  Find top yoga Instagram influencers in Barcelona in 2023. Most popular hashtags: #yogabarcelona #yogainspiration #yoga #lifestyle.
 platform: Instagram
-hits: 46
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 46 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 18
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
   - username: "esteryoga"
     fullname: >-
       ⒺⓈⓉⒺⓇ • Yogini • Barcelona
     bio: >-
-      #36weekspregnant 🛍️Discount codes: @liquidoactive ESTERLIQUIDO @myga_yoga ESTER15 @vayumudra ESTER15 @omstarsofficial ESTERYOGA More ⤵️
+      🛍️Discount codes: @liquidoactive ESTERLIQUIDO @myga_yoga ESTER15 @vayumudra ESTER15 @omstarsofficial ESTERYOGA More ⤵️
     location: "Spain"
-    followers: 57420
-    engagement: 171
-    commentsToLikes: 0.054546
+    followers: 56028
+    engagement: 155
+    commentsToLikes: 0.061045
     id: ck136knyk6z3f0i19nijvanju
     verified: false
-    hashtags: "#rooftopyoga, #momtobe, #prenatalfitness, #yogavideos"
-  - username: "kaitlynpatrizia"
-    fullname: >-
-      Kaitlyn Patrizia
-    bio: >-
-      🦎👣🐢 Práctica conmigo online 👇 Aerialist Movement Educator Ashtanga Yoga 🔜 Active Flexi Course . 📩 kaitlynpatrizia@gmail.com 📍BCN
-    location: "Spain"
-    followers: 28829
-    engagement: 109
-    commentsToLikes: 0.070277
-    id: ck136klx26ysm0i19b7brmqcl
-    verified: false
-    hashtags: "#ashtangavinyasayoga, #shambhalatribe, #cursosonline, #talcomrajaplatja"
-  - username: "laura_lakshmi_yoga"
-    fullname: >-
-      Laura Lakshmi Yoga & Retreats
-    bio: >-
-      Formaciones y Retiros de yoga
-    location: "Spain"
-    followers: 38743
-    engagement: 224
-    commentsToLikes: 0.037528
-    id: ck13bfdowv5tk0i197g9qx43p
-    verified: false
-    hashtags: "#retiroyoga, #yogaespa, #spirituality, #yogacurso"
-  - username: "albafityoga"
-    fullname: >-
-      Alba Fit Yoga 🤸🏽‍♀️
-    bio: >-
-      🏃🏽‍♀️Personal Trainer 🍎Fit Flexi Nutrition 🤸🏽‍♀️Rocket / Ashtanga Yoga 200RYT ⬇️Clases y descuentos 🌲@naturalbas ✉️albafityoga@gmail.com 📍Barcelona
-    location: "Spain"
-    followers: 9175
-    engagement: 609
-    commentsToLikes: 0.277769
-    id: ck13bfdf6v5r20i1970j9ei5p
-    verified: false
-    hashtags: "#yogabcn, #yogabarcelona, #bakasana, #rocketyoga"
-  - username: "galaortin"
-    fullname: >-
-      Gala Ortin
-    bio: >-
-      Yoga Teacher E-RYT •Vinyasa•Hatha•Vinyasa Flow•Core Vinyasa & Mindfulness Amb.: @alomoves @wanderlust__spain @freskincare @philipstein •Find more 👇🏻
-    location: "Spain"
-    followers: 12356
-    engagement: 565
-    commentsToLikes: 0.095265
-    id: ck6ucbt37eokn0j71o426lpul
-    verified: false
-    hashtags: "#aloyoga, #yogalifestyle, #yogainspiration, #yogapractice"
+    hashtags: "#motherhood, #backbending, #2monthspostpartum, #inversionaddict"
   - username: "absmo"
     fullname: >-
       ALESSANDRA ORAM - YOGA
     bio: >-
-      Co-Owner👩🏽‍🤝‍👨🏻of @ma.na_yogaloft🤍🙏 Senior Alumni Teacher🧘🏽‍♀️of @navakarana vinyāsa #GirlBOSS of @recklessred_om @oysho Ambassador Barcelona 📍 •
+      Co-Owner👩🏽‍🤝‍👨🏻of @ma.na_yogaloft🏛 #GirlBOSS of @recklessred_om Senior Alumni Teacher🧘🏽‍♀️of @navakarana vinyāsa @oysho Ambassador Barcelona 📍 •
     location: "Spain"
-    followers: 44529
-    engagement: 349
-    commentsToLikes: 0.019237
+    followers: 73363
+    engagement: 302
+    commentsToLikes: 0.018540
     id: ck0tyjan5n2cs0i19pxkoz4eh
     verified: false
-    hashtags: "#yogabarcelona, #yogaposes, #greece, #yogaretreat"
-  - username: "aranupintheairyoga"
+    hashtags: "#yogabarcelona, #navakara, #oysho, #yogaformacion"
+  - username: "albafityoga"
     fullname: >-
-      ⍣₳ℛ₳∩ ☾
+      Alba Fit Yoga 🤸🏽‍♀️
     bio: >-
-      ⌖Å℮℞ℷÅℓ Y⓿ⓖ🅐 Teacher ⌖ RYT 200 ⌖Nurse ❩ ⌖Circus ❤︎ ⌖Free Spirit ❯❯ ॐ aran@upintheair.cat ॐ https://m.facebook.com/aranupintheairyoga/
+      🏃🏽‍♀️Personal Trainer 🍎Fit Healthy Nutrition 🤸🏽‍♀️Rockstanga Vinyasa + Fit Yoga Teacher ⬇️+info 🌲@naturalbas ✉️albafityoga@gmail.com 📍Barcelona
     location: "Spain"
-    followers: 3579
-    engagement: 1196
-    commentsToLikes: 0.106009
-    id: ck9has6jkdvpr0j78eajq4mwy
+    followers: 13195
+    engagement: 385
+    commentsToLikes: 0.134713
+    id: ck13bfdf6v5r20i1970j9ei5p
     verified: false
-    hashtags: "#quedateencasa, #coronavirusespa, #yonopuedoquedarmeencasa, #cov"
-  - username: "redyogini"
+    hashtags: "#lavueltabravista, #skandasana, #yogabarcelona, #alomyogaday"
+  - username: "galaortin"
     fullname: >-
-      Ina
+      Gala Ortin
     bio: >-
-      🐝YOGA • VIAJES • BUENAS VIBRAS 🇪🇸Embajadora oficial @wanderlust__spain 🧘🏼‍♀️Profesora de vinyasa 200hrs ❤️ @thibaut_gst 👇🏻CLASES DE YOGA EN MADRID
+      Yoga Teacher E-RYT •Vinyasa•Core Vinyasa•Hatha & Mindfulness @aloyoga @alomoves @wanderlust__spain @freskincare @philipstein 📍Represented @unikomodels
     location: "Spain"
-    followers: 16450
-    engagement: 442
-    commentsToLikes: 0.034533
-    id: ck5znrfipp0kl0i1432dlkqfl
+    followers: 25648
+    engagement: 200
+    commentsToLikes: 0.076456
+    id: ck6ucbt37eokn0j71o426lpul
     verified: false
-    hashtags: "#asana, #madrid, #oysho, #treatyouwithkindness"
-  - username: "jordiccosta"
+    hashtags: "#aloyogachallenge, #france, #yogalifestyle, #yogachallenge"
+  - username: "claudiaariasyoga"
     fullname: >-
-      Jordi Costa
+      Claudia Arias
     bio: >-
-      📸SportsPhotography 📸E-commerce photos 📸Events 📩Colaboration DM/e-mail 🔎Nou perfil @jordi_costaphoto
+      Vinyasa | Dharma Yoga | Yin Yoga | Acroyoga Ashtanga YTT in India. ▫️ Clases Online en la SHALA. ▫️ Retiros. 👇🏾 Clases Presenciales y Eventos.
     location: "Spain"
-    followers: 16525
-    engagement: 664
-    commentsToLikes: 0.022529
-    id: ck0tzzaxms40n0i19k4gh797g
+    followers: 20263
+    engagement: 287
+    commentsToLikes: 0.090603
+    id: ck0vyy3lj6cqj0i190v297a9g
     verified: false
-    hashtags: "#ig, #osona, #pedraforca, #summit"
-  - username: "ranibruchstein"
+    hashtags: "#girona, #yogaasana, #beguresautentic, #emporda"
+  - username: "pau_inspirafit"
     fullname: >-
-      Rani Bruchstein
+      Paula Butragueño
     bio: >-
-      Welcome to my world 🌎, living in Barcelona Spain 🇪🇸, looking for models, dancers and yoga models, DM for more details
+      🏃🏽‍♀️Nike Master Trainer 🤸🏽‍♀️Jivamukti Yoga Teacher 🧘🏼‍♀️Mindfulness Coach 🥇 #forbesbestinfluencers 💌 inspirafit.info@gmail.com
     location: "Spain"
-    followers: 31112
-    engagement: 351
-    commentsToLikes: 0.075795
-    id: ck5hdrpqkp17h0i11m5u2iehz
+    followers: 117071
+    engagement: 110
+    commentsToLikes: 0.028105
+    id: ck55lyfqi2r8k0i11qtnwn24f
+    verified: true
+    hashtags: "#entrenaencasa, #meditacion, #mindfulness, #running"
+  - username: "blondysisters"
+    fullname: >-
+      Jennifer & Annais
+    bio: >-
+      🌎 Barcelona ✈️ w a n d e r l u s t 🌈 v i v i r c o n e n t u s i a s m o 👭 m y h a l f ✂️ @salon_delarco
+    location: "Spain"
+    followers: 14568
+    engagement: 266
+    commentsToLikes: 0.032197
+    id: ck6tm2zs8737x0j71gccbkzin
     verified: false
-    hashtags: "#canonphotography, #naturephotography, #portraiture, #portraitofday"
+    hashtags: "#castelldefels, #beach, #winteroutfit, #womenday8march"
+  - username: "laura.blancafort"
+    fullname: >-
+      Laura Blancafort
+    bio: >-
+      📍Dubai | Barcelona
+    location: "Spain"
+    followers: 2531
+    engagement: 1936
+    commentsToLikes: 0.065729
+    id: ck5hr3tfju7wa0i112hnsk08c
+    verified: false
+    hashtags: "#nature, #peace, #landscapephotography, #yomequedoencasa"
+  - username: "veggie_sweet"
+    fullname: >-
+      Alex🌷 Vegana & Realfooder🐰
+    bio: >-
+      💉 Enfermera 📍 Barcelona 🦋 También soy @sweet_alexitta 🌼 Nuestro reto Vegan☘ @losmartesvegan
+    location: "Spain"
+    followers: 18299
+    engagement: 811
+    commentsToLikes: 0.584254
+    id: ck5q7h2r11j7l0i11j1kfd0zv
+    verified: false
+    hashtags: "#realfooding, #dietasana, #sorteo, #losmartesvegan"
+  - username: "penos_gussi"
+    fullname: >-
+      ♤☆RENOS °●GuSSI☆♤🎬₩¥🎥
+    bio: >-
+      ♤Español🇪🇸Morocco 🇲🇦✴💯 @🗼Madrid 》《t...z ☆ ■ Instagram ♧ Facebook 01♥️🗼 @ Official_account$•°HD ☆📲+°°.•••••••••****** @ ADD FOLLOW Me🙋‍♂️
+    location: "Spain"
+    followers: 10733
+    engagement: 333
+    commentsToLikes: 0.125766
+    id: ckap5wg4mdg8m0i78473x4wcx
+    verified: false
+    hashtags: "#inspiration, #casablanca, #frases, #youtuber"
 ---

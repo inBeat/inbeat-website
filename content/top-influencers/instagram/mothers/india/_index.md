@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In India In 2022
+title: Top 10 Mothers Instagram Influencers In India In 2023
 description: >-
-  Find top mothers Instagram influencers in India in 2022. Most popular hashtags: #love #happy #beautiful #indianmomblogger.
+  Find top mothers Instagram influencers in India in 2023. Most popular hashtags: #reelitfeelit #ootd #reelsinstagram #reelsindia.
 platform: Instagram
-hits: 1549
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 1549 Instagram influencers like this in India for you to connect with.
+hits: 905
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 905 Instagram influencers like this in India for you to pitch.
 profiles:
+  - username: "manasinaik0302"
+    fullname: >-
+      Manasi Naik
+    bio: >-
+      Science student🔬 Mother of Cats🐱 Actor🇮🇳 3rd FeB🎂 DM for Collaborations🤝⚘
+    location: "India"
+    followers: 1294795
+    engagement: 150
+    commentsToLikes: 0.010705
+    id: ck15qzrm15f4u0i193nmse0uz
+    verified: true
+    hashtags: "#glowing, #lehengalover, #manasinaikkharera, #workinghard"
+  - username: "amominlove"
+    fullname: >-
+      Priyanka Bharwani
+    bio: >-
+      Being a mom first and then everything else! Motherhood | Style | Beauty Co-founder @mumbaimumtribe 📩 pribharwani@gmail.com
+    location: "India"
+    followers: 87886
+    engagement: 38
+    commentsToLikes: 0.151252
+    id: ck5bzdqrhqy010i11jtwqmn2y
+    verified: false
+    hashtags: "#tiktokindia, #tistheseason, #viralreels, #christmas"
   - username: "zeus.arya"
     fullname: >-
       A living meme™
     bio: >-
-      Jack of all trades🤪 Dance | Art | Music 💙 YTFF 2018 performer✨ - ❤️ @_save.mother.earth_ 📺 YouTube↓
+      Jack of all trades🤭 Dance | Art | Music 💙 YTFF 2018 performer✨ - ❤️ @_save.mother.earth_ 📺 Su Kare Che Video↓
     location: "India"
-    followers: 3246
-    engagement: 2673
-    commentsToLikes: 0.094975
+    followers: 3305
+    engagement: 2583
+    commentsToLikes: 0.090993
     id: ck5hibemjcmsn0i110x8vkg0a
     verified: false
-    hashtags: "#keepgoing, #dancersofinstagram, #immabeast, #zeusaryatravels"
-  - username: "vibhanigam6775"
+    hashtags: "#zeusaryatravels, #nimitkotianchoreography, #dance, #immabeastdancer"
+  - username: "dr_ifrah"
     fullname: >-
-      Vibhanigam
+      Dr Ifrah Dil Nawaz
     bio: >-
-      Mother of @thesiddharthnigam and @theabhisheknigam #CelebrityMom
+      Positive Soul | Motherhood | Lifestyle Mother of 2 girls @amairah.aizah Business @lovethewardrobe
     location: "India"
-    followers: 78098
-    engagement: 2074
-    commentsToLikes: 0.018641
-    id: ck0w1a18miaxq0i19wtr4gj0w
+    followers: 60918
+    engagement: 382
+    commentsToLikes: 0.032008
+    id: ck13bhfrfvezl0i19jum9i3jj
     verified: false
-    hashtags: "#jaimatadi, #newshow, #blessedmom, #repost"
-  - username: "thesweetlittlebaby"
-    fullname: >-
-      Neha  & Yaneisha
-    bio: >-
-      Mother/Teacher/Homemaker Mommying my little bomb Yaneisha😘 On an awesome journey of Motherhood😍 🇮🇳🇸🇦 Do not follow to unfollow Mom-@nehagambhirkapoor
-    location: "India"
-    followers: 10494
-    engagement: 655
-    commentsToLikes: 0.153415
-    id: ck8ta7w3vqs890j784kxp6qdv
-    verified: false
-    hashtags: "#instababygirl, #delhikids, #yaneisha, #riyadhkids"
-  - username: "naki.earth"
-    fullname: >-
-      Annachiara 🌿
-    bio: >-
-      🌿Happy soul~Yoga~Mother Nature~I talk with plants~LGBT~Content creator~Pharmacy Degree~World Traveller~In love with Life in all forms🌿
-    location: "India"
-    followers: 30789
-    engagement: 985
-    commentsToLikes: 0.019098
-    id: ck5pxylmmthrg0i11scerm36n
-    verified: false
-    hashtags: "#selflove, #italianplantcommunity, #amore, #earthling"
-  - username: "originalrashmi"
-    fullname: >-
-      Rashmi Teotia
-    bio: >-
-      Mother of Twins || Influencer || Youtuber Home maker || My channel 👇👇
-    location: "India"
-    followers: 97611
-    engagement: 411
-    commentsToLikes: 0.044493
-    id: ck14lpay6vt530i1961ym6eay
-    verified: false
-    hashtags: "#rashmiteotia, #originalrashmi, #diwaligifts, #beauty"
+    hashtags: "#reelitfeelit, #momlife, #bhaderwah, #amuifu"
   - username: "vibekeklemetsen"
     fullname: >-
       VIBEKE KLEMETSEN
     bio: >-
-      Mother of 3💞 Authorized Level 1 Ashtanga teacher by Sharath Jois🧘🏼‍♀️ Owner and Co-founder @runandrelax & @ayayoga.no Management: pia@brandpeople.no
+      Mother of 3💞 Authorized Level 1 Ashtanga teacher by Sharath Jois🧘🏼‍♀️ Owner and Co-founder @runandrelax Management: julianne@brandpeople.no
     location: "India"
-    followers: 38046
-    engagement: 167
-    commentsToLikes: 0.072368
+    followers: 38190
+    engagement: 295
+    commentsToLikes: 0.078826
     id: ck0vxex6eykap0i19j3qdkous
     verified: true
-    hashtags: "#ashtangamondays, #ashtangisupsidedown, #yoga, #zendium"
+    hashtags: "#ashtangayoga, #runandrelax, #namaste, #yoga"
+  - username: "whatsforstyle"
+    fullname: >-
+      Purva Nakhasi | Sydney Blogger
+    bio: >-
+      Here to share what I love | Fashion - Motherhood - Travel 📍Present: Sydney, Australia Past: India, UK, Singapore ✉️ DM/email for collaboration
+    location: "India"
+    followers: 7290
+    engagement: 620
+    commentsToLikes: 0.199823
+    id: ck0u9v9e6avii0i19xklwza17
+    verified: false
+    hashtags: "#newbornbaby, #guiltymom, #loretipartner, #mejuri"
+  - username: "masha.blazhevich"
+    fullname: >-
+      Masha Blazhevich
+    bio: >-
+      a mother 👧 🎬 an Actor Inspired musician 🎼 🛳⚓️ agent Traveler 🗺 ✨ Beautiful life creator Natural beauty 🌸
+    location: "India"
+    followers: 15431
+    engagement: 736
+    commentsToLikes: 0.023479
+    id: ckf5qqirya8ix0j23oxq4raes
+    verified: false
+    hashtags: "#batumigeorgia, #polaroids, #onlinephotography, #webpolaroid"
+  - username: "nitika.gusain1827"
+    fullname: >-
+      NitikaG
+    bio: >-
+      Influencer Beauty | Lifestyle | Motherhood Jammu|Dehradun Indian 🇮🇳 📩Dm/mail for collaborations nitika.gusain1827@gmail.com
+    location: "India"
+    followers: 22188
+    engagement: 347
+    commentsToLikes: 0.162761
+    id: ckf5qqnvpa94v0j23zzpin6mh
+    verified: false
+    hashtags: "#bffs, #instagood, #fyp, #reelsinstagram"
+  - username: "shwetakonnurmenon"
+    fullname: >-
+      Shweta Konnur Menon
+    bio: >-
+      Actor, Mother of two beautiful kids, traveler, adrenaline junkie
+    location: "India"
+    followers: 138396
+    engagement: 1059
+    commentsToLikes: 0.019374
+    id: ck5zk2pnripjj0i14zmlcg288
+    verified: false
+    hashtags: "#aboutlastnight, #ootd, #lovegettingdressedup, #ilovered"
   - username: "thefashionmommy"
     fullname: >-
       SUMEDHA || Portraits 🌼 Flowers
     bio: >-
       •Designer•Motherhood•Flowers•Photography•Food•Fashion•Travel•Wanderlust•India• #myfloralteatime ☕️🌹DM for collaborations 💌 Also at @_laburnumstudios_
     location: "India"
-    followers: 2729
-    engagement: 886
-    commentsToLikes: 0.144076
+    followers: 2696
+    engagement: 542
+    commentsToLikes: 0.130941
     id: ck0w42se6wiul0i192ub9041q
     verified: false
-    hashtags: "#petalsandprops, #ig, #botanicaldreamers, #createwithkika"
-  - username: "nitika.gusain1827"
-    fullname: >-
-      NitikaG
-    bio: >-
-      #influencer #beauty 💅💄| #lifestyle 💃👠⌚🍫| #health ❤| #motherhood 👪 Jammu | Dehradun Indian 🇮🇳 📩Dm/mail for collaborations nitika.gusain1827@gmail.com
-    location: "India"
-    followers: 11124
-    engagement: 250
-    commentsToLikes: 0.157671
-    id: ckf5qqnvpa94v0j23zzpin6mh
-    verified: false
-    hashtags: "#lehanga, #indianblogger, #indianbeautyblogger, #fyp"
-  - username: "saree_ki_kahani"
-    fullname: >-
-      Ruchi Prabhakar
-    bio: >-
-      #sareelover #healthenthusiast #eclectic #believer #motheroftwo #yogapractitioner
-    location: "India"
-    followers: 19726
-    engagement: 77
-    commentsToLikes: 0.072641
-    id: ck15qg3u12oay0i19kiq9tttd
-    verified: false
-    hashtags: "#sareesofinstagram, #iwearhandloom, #statementnecklace, #chanderisarees"
-  - username: "aakritisharma.official"
-    fullname: >-
-      Aakriti Sharma
-    bio: >-
-      Actor Account is managed by her mother @sharmadimpal05 Collaboration welcome : aaku.info@gmail.com YouTube - Aakriti Sharma
-    location: "India"
-    followers: 708453
-    engagement: 215
-    commentsToLikes: 0.014974
-    id: ck5hncmp5nk0g0i111d3ga3iz
-    verified: true
-    hashtags: "#unlockthefun, #kulfi, #tarezameenpar, #repost"
+    hashtags: "#momentsthatmattertome, #brimfulofcurious, #inspirewithblooms, #let"
 ---

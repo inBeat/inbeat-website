@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Chicago In 2022
+title: Top 10 Health Instagram Influencers In Chicago In 2023
 description: >-
-  Find top health Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #health #fashion.
+  Find top health Instagram influencers in Chicago in 2023. Most popular hashtags: #health #fitness #bodybuilding #ifbbpro.
 platform: Instagram
-hits: 149
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 149 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 133
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 133 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "serenityane"
-    fullname: >-
-      Serenity Rogers !
-    bio: >-
-      ⚡️💥⭐️ @wilhelminamodels chicago mental health advocate #breakthestigma diary of a wimpy kid stan
-    location: "United States"
-    followers: 14646
-    engagement: 1240
-    commentsToLikes: 0.039542
-    id: ck8wdhi5sduob0j78kxbf0z3n
-    verified: false
-    hashtags: "#makeinstagramcasualagain"
-  - username: "connorcarrick"
-    fullname: >-
-      Connor Carrick
-    bio: >-
-      • New Jersey Devils #5 • Curious Competitor Podcast • Husband @lexiicarrick   • @hoagiethefrenchie • Mental Health Advocate • Native Chicagoan
-    location: "United States"
-    followers: 49887
-    engagement: 293
-    commentsToLikes: 0.014639
-    id: ck14lbe9btt0n0i19tsl5cogk
-    verified: true
-    hashtags: "#njdevils, #ccpod, #mentalhealthmonday, #workingsmartisimplied"
-  - username: "heyclairewyckoff"
-    fullname: >-
-      Claire Wyckoff
-    bio: >-
-      Comedy writer. Sometimes performer. Inventor of Dickrunning. Lets get weird Tiktok: @claire_wyckoff Twitter: @clairewyckoff
-    location: "United States"
-    followers: 15564
-    engagement: 676
-    commentsToLikes: 0.088802
-    id: ck1360j9045m20i19y15hq3vi
-    verified: false
-    hashtags: "#nike, #workout, #covid19, #nikeplus"
-  - username: "fromeast2west_"
-    fullname: >-
-      Danielle & Rachael
-    bio: >-
-      CT > SF > Chicago Petite • Travel • Health • Sustainable Lifestyle • CPAs • Shop looks here! 👇🏻
-    location: "United States"
-    followers: 6362
-    engagement: 590
-    commentsToLikes: 0.102844
-    id: ck6tmz4uv8t8v0j71b2h0r0k9
-    verified: false
-    hashtags: "#petitestyle, #streetstyle, #aesthetic, #minimalism"
-  - username: "diamondsdosage"
-    fullname: >-
-      The Dosage Brand 💎
-    bio: >-
-      📍Chicago, IL Mental Health Specialist •Writer • Personality Diamond’s Dosage Podcast available on SoundCloud, Apple Podcasts & Spotify!
-    location: "United States"
-    followers: 5477
-    engagement: 718
-    commentsToLikes: 0.100789
-    id: ck5pvt5zljig30i11i6a0jd5m
-    verified: false
-    hashtags: "#thebadbitchebook, #badbitchreleasetomorrow"
-  - username: "saskiatopp"
-    fullname: >-
-      Saskia Jordyn Topp
-    bio: >-
-      I smile for a living.🌸 Model ~ Health & Fitness ~ Travel South African📍Chicago 🇺🇸 Select 🇿🇦Boss 🇩🇪PARS 🇬🇧MOT
-    location: "United States"
-    followers: 30833
-    engagement: 188
-    commentsToLikes: 0.058819
-    id: ck6u2s7s2tmls0j71eprx8zjp
-    verified: false
-    hashtags: "#stronger, #chicagohair, #chicago, #beautyaesthetics"
   - username: "jizzymack"
     fullname: >-
       Ray  Sadeghi
     bio: >-
-      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. Contact by DM or Email for any business inquiries.
+      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. CEO @smp.ink DM or Email for any business inquiries.
     location: "United States"
-    followers: 212389
-    engagement: 139
-    commentsToLikes: 0.015024
+    followers: 300164
+    engagement: 106
+    commentsToLikes: 0.035454
     id: ck0vx1u47wpyl0i19oypik8rj
     verified: false
-    hashtags: "#ufc, #fitness, #bible, #chicago"
-  - username: "msmarjorieann"
+    hashtags: "#newyork, #tmt, #ufc, #beauty"
+  - username: "stephfaye7"
     fullname: >-
-      Marjorie l Style & Positivity
+      Stephanie Faye
     bio: >-
-      Fashion ✨ Style ✨ Positive Vibes 💫 🍋 Zest for life📍Chicago Always in need of a mani and more sleep Collab 💌 mssmarjorieann@gmail.com
+      Director of Communications. Traveler. Masters in PR. 1/3 of The Frequency Podcast. “Never get so busy making a living, you forget to make a life.”
     location: "United States"
-    followers: 14571
-    engagement: 746
-    commentsToLikes: 0.215007
-    id: ck8tcdkksz4730j78v5sqvrvj
+    followers: 2585
+    engagement: 1237
+    commentsToLikes: 0.054226
+    id: ck8tbga4ivjod0j78hxiej9kq
     verified: false
-    hashtags: "#ltkstyletip, #boutique, #friday, #fallfashion"
-  - username: "officialzoeenyc"
+    hashtags: "#blacklivesmatter, #instatravel, #instablogger, #love"
+  - username: "biscaiapro"
     fullname: >-
-      Zoe RoseGold 🇭🇹🇺🇸
+      Beatriz Biscaia
     bio: >-
-      Digital Curator @rnhmagazine Visual Podcast: DreamHustleWin/The Parle Podcast @iheartradio
+      Youngest Bikini Olympian 2x Pro Champ @joe_binley 💕 @pewpewpew_prep @projectadofficial @professornutz @anesteziafitness @slimtum @protan_official
     location: "United States"
-    followers: 6055
-    engagement: 1568
-    commentsToLikes: 0.037939
-    id: ck6trtg330zp10j71sakwh64w
+    followers: 71755
+    engagement: 425
+    commentsToLikes: 0.014270
+    id: ck15sx6t9f98p0i19kolqw2ew
     verified: false
-    hashtags: "#worldstarhiphop, #unsignedhiphop, #baddie, #queen"
-  - username: "chickpeainthecity"
+    hashtags: "#projectad, #gymmotivation, #bodybuilding, #teamad"
+  - username: "mishina_valentina_ifbb_pro"
     fullname: >-
-      addie martanovic
+      Valentina Mishina IFBB PRO🇷🇺
     bio: >-
-      looking for light in pretty much everything. health, wellness, movement. all good things. 📍chicago
+      🎆3x Olympian 🏆🥇ChicagoPro2019;RomâniaMuscleFest 💚🥈 Ferrigno, OrlandoEuropa,OmahaPro, AtlanticCoast 💙 @gaspari athlete 🏋🏿Your coach ✨Top6 Olympia2019
     location: "United States"
-    followers: 52317
-    engagement: 119
-    commentsToLikes: 0.056398
-    id: ck0uen3x3ltlu0i19rs6zyp6k
+    followers: 167482
+    engagement: 178
+    commentsToLikes: 0.018278
+    id: ck5qe9xijzf8l0i119ygfb9qe
     verified: false
-    hashtags: "#mindfulness, #chickpeainthecity, #partner, #wfmhomeec365"
+    hashtags: "#bodybuilding, #ifbbpro, #gasparinutrition, #sport"
+  - username: "jzpthomas"
+    fullname: >-
+      JP | Fashion & Fitness
+    bio: >-
+      Where Fashion Meets Fitness Corporate professional with a passion for fashion health & fitness 📍Chicago NASM CPT Agent: Jaclyn@10mgmt.com @10mgmt
+    location: "United States"
+    followers: 18019
+    engagement: 260
+    commentsToLikes: 0.176869
+    id: ck8t3z3o950dg0j78vy93iljh
+    verified: false
+    hashtags: "#fableticspartner, #plantbaseddiet, #moveinfabletics, #strongnotskinny"
+  - username: "connorcarrick"
+    fullname: >-
+      Connor Carrick
+    bio: >-
+      • New Jersey Devils #5 • Host of @curiouscompetitor Podcast • Husband @lexiicarrick   • @hoagiethefrenchie • Mental Health Advocate • Native Chicagoan
+    location: "United States"
+    followers: 49594
+    engagement: 537
+    commentsToLikes: 0.021131
+    id: ck14lbe9btt0n0i19tsl5cogk
+    verified: true
+    hashtags: "#njdevils, #powerplate, #wjc, #feltcutemightdeletelater"
+  - username: "damienpatrick"
+    fullname: >-
+      Damien Patrick
+    bio: >-
+      Entrepreneur-IFBB 🇺🇸🇬🇾 Founder @totalalphabrand Co founder @boxingnbarbells @fitplan_app Trainer #adoptdontshop 500k+ YouTube subscribers Taken
+    location: "United States"
+    followers: 212792
+    engagement: 357
+    commentsToLikes: 0.022500
+    id: ck5zvo6484ln60i14mzher01s
+    verified: false
+    hashtags: "#blackmen, #classicbodybuilding, #aesthetics, #npc"
+  - username: "t.rocha16"
+    fullname: >-
+      Tony Rocha
+    bio: >-
+      🙏🏽Follower of Christ ⚽️ Professional Footballer @nycfc #15 ⚽️ Belize National Football Team 🌱Plant Based Athlete 🍎Nutrition Coach @nutritiongols
+    location: "United States"
+    followers: 3074
+    engagement: 870
+    commentsToLikes: 0.037992
+    id: ckf5mo6qfuprm0j23rgam8ha3
+    verified: true
+    hashtags: "#derby, #tr15, #ussoccer, #inspired"
+  - username: "xpatrunner"
+    fullname: >-
+      E R I N
+    bio: >-
+      😎 Wife. Runner. Digital Health. 🌎 Travel. Running Adventures. 🔜 Bahamas @berlinmarathon 2020 @asicsfrontrunner @garminfitness 📍 Boston
+    location: "United States"
+    followers: 30441
+    engagement: 328
+    commentsToLikes: 0.051979
+    id: ck5ch7k7rq8uc0i11kfjhp26d
+    verified: false
+    hashtags: "#asics, #run, #womenrunning, #runootd"
+  - username: "stefangoncalvez"
+    fullname: >-
+      Stefan Goncalvez
+    bio: >-
+      @joffreyballet From Brazil/Uruguay Living in Chicago
+    location: "United States"
+    followers: 16254
+    engagement: 1336
+    commentsToLikes: 0.035490
+    id: ck6tproalm6po0j71afmi3mq6
+    verified: false
+    hashtags: "#body, #male, #dancer, #ballet"
 ---

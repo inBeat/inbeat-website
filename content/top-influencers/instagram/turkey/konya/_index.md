@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Konya In 2022
+title: Top 10 Instagram Influencers In Konya In 2023
 description: >-
-  Find top Instagram influencers in Konya in 2022. Most popular hashtags: #konya #tbt #mevlana.
+  Find top Instagram influencers in Konya in 2023. Most popular hashtags: #konya #kesfet #ke.
 platform: Instagram
-hits: 300
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 300 Instagram influencers like this in Konya, Turkey for you to contact.
+hits: 298
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 298 Instagram influencers like this in Konya, Turkey for you to work with.
 profiles:
   - username: "konya"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Konya Resmi İnstagram Sayfası ©️ Official page of #Konya / #Turkey 📩Mail to: sehrimkonya@gmail.com Telegram kanalımıza abone olmak için 👇
     location: "Turkey"
-    followers: 65424
-    engagement: 264
-    commentsToLikes: 0.014424
+    followers: 66940
+    engagement: 278
+    commentsToLikes: 0.012532
     id: ck9wivume44o10j78a9gedkww
     verified: false
-    hashtags: "#konya, #mevlana, #sille, #bey"
-  - username: "abdllhozrc"
-    fullname: >-
-      Abdullah Emre Özarıcı
-    bio: >-
-      Konya ✈️
-    location: "Turkey"
-    followers: 33824
-    engagement: 1055
-    commentsToLikes: 0.027067
-    id: ck8t796ehg0fi0j787qbuisic
-    verified: false
-    hashtags: ""
+    hashtags: "#sille, #konya, #mevlana, #aziziye"
   - username: "alperuludag_"
     fullname: >-
       Alper Uludağ
     bio: >-
       @konyaspor Powered by @Players.id_ www.uludagfood.be / @uludagfood
     location: "Turkey"
-    followers: 29869
-    engagement: 534
-    commentsToLikes: 0.034452
+    followers: 37543
+    engagement: 456
+    commentsToLikes: 0.043001
     id: ckap4ju667ovz0i78qxjmfsvz
     verified: true
-    hashtags: "#konyaspor, #au25, #konyasporgeliyorbak, #rome"
-  - username: "denimilosevic95_"
-    fullname: >-
-      Deni Milosevic
-    bio: >-
-      Footballer of Konyaspor and Bosnian National Team |🇧🇦|🇹🇷|🇧🇪
-    location: "Turkey"
-    followers: 15145
-    engagement: 1271
-    commentsToLikes: 0.008669
-    id: ck13c2yr8ydam0i19zik1xekc
-    verified: true
-    hashtags: "#dm11, #su, #bih, #konyasporgeliyorbak"
+    hashtags: "#au25, #konyaspor, #konyasporgeliyorbak, #manieredevoir"
   - username: "xgamzeli_4242"
     fullname: >-
       gamze
     bio: >-
       😍Konya kızı 😍
     location: "Turkey"
-    followers: 2499
-    engagement: 4932
-    commentsToLikes: 0.027948
+    followers: 2310
+    engagement: 5372
+    commentsToLikes: 0.027155
     id: ckaosupt2t35c0i788l8b60lv
     verified: false
     hashtags: ""
-  - username: "ummuhani__dinc"
-    fullname: >-
-      Ümmühani Dinç
-    bio: >-
-      💗KONYA💗 👨‍👩‍👧 Elif Mina’nın annesi 👨‍👩‍👧 🎀Reklam ve iletişim için DM🎀 FARMASİ’de PLATİN DİREKTÖR 🤲🏻🏆 Ekibime dahil olmak için 👇🏻👇🏻👇🏻
-    location: "Turkey"
-    followers: 139330
-    engagement: 70
-    commentsToLikes: 0.111033
-    id: ck8t9d13bnn9h0j785of7okgb
-    verified: false
-    hashtags: "#kitchendesign, #mutfak, #can, #mutfakdekorasyonu"
   - username: "burcuogurofficial"
     fullname: >-
       🌹Burcu Oğur🌹
     bio: >-
-      Biz Bu İşe Geçen Pazartesi Başlamadık Oğlum🥳 Car Model💫 Konya🇹🇷 Reklam Ve İş Birliği İçin DM🐥 十八万〇二百一十九🥀
+      Biz Bu İşe Geçen Pazartesi Başlamadık Oğlum🥳 Car Model💫 Antalya/Konya🇹🇷 Reklam Ve İş Birliği İçin DM🐥 十八万〇二百一十九🥀
     location: "Turkey"
-    followers: 120388
-    engagement: 585
-    commentsToLikes: 0.006855
+    followers: 122211
+    engagement: 510
+    commentsToLikes: 0.011784
     id: ck14i5wm8dspp0i19pg393bww
     verified: false
     hashtags: ""
-  - username: "sir.photographyy"
+  - username: "gezginyogini"
     fullname: >-
-      @SIR.Photography 📸
+      Burcu Tunca
     bio: >-
-      Bir_tutam_konya🌾📸 Fotoğraflar şahsıma aittir. Etiketsiz kullanılmasına rızam yoktur.
+      🕉️Yoga Teacher & Practitioner 🌍Inner Traveler by the Outer Journeys ➡️Özel ve Online dersler için dm (Hatha, Vinyasa, Yin Yoga) 📌Antalya /Konyaaltı
     location: "Turkey"
-    followers: 10120
-    engagement: 1386
-    commentsToLikes: 0.034428
-    id: ck8t6is07dsig0j78gh0e9tf3
+    followers: 25165
+    engagement: 167
+    commentsToLikes: 0.056243
+    id: ckf5xaj3xuzge0j23eqvisz1o
     verified: false
-    hashtags: "#abd, #photography, #note9photography, #likelike"
-  - username: "ayseden_bir_tutam_lezzet"
+    hashtags: "#balance, #yogaantalya, #mudra, #antalyayogae"
+  - username: "theunver"
     fullname: >-
-      REKLAM ve İŞBİRLİĞİ için 🔊DM
+      Mehmet Ali Ünve️r
     bio: >-
-      Sadece yemek degil herşeyden bir tutam🌿🧚‍♀️ Renkli sayfama davetlisiniz🙋‍♀️🧚‍♀️ Anılar biriktiriyorum🧚‍♀️ Evli💕 Konya/Eregli🌿
+      📍İstanbul | Konya Best Model Of Turkey 2016 Semi F. 📩iletisim@mehmetaliunver.com
     location: "Turkey"
-    followers: 19055
-    engagement: 525
-    commentsToLikes: 0.062242
-    id: ck8t8vbsmlyzz0j78z9iy7rhe
+    followers: 48665
+    engagement: 334
+    commentsToLikes: 0.010321
+    id: ckap6m0cpgfz70i78kpyqe1nm
     verified: false
-    hashtags: "#nurr18rr, #enrastbt, #tbt"
+    hashtags: ""
   - username: "orgu_hazinesi_42"
     fullname: >-
       ÖRGÜ _ HAZINESI 🌟
     bio: >-
       🎀RENKLİ DÜNYAMA HOŞGELDİNİZ.😊 🎀RESİMLERİN HEPSİ BANA AİTTİR. 🎀SİPARİŞ ALMIYORUM 🚫 HAZIR SATIŞA GEÇTİM 🎀TURKEY🇹🇷 /KONYAM ❤/GERMANY🇩🇪 #crochet#knitting
     location: "Turkey"
-    followers: 24767
-    engagement: 457
-    commentsToLikes: 0.052082
+    followers: 27617
+    engagement: 436
+    commentsToLikes: 0.052246
     id: ckap5du8ub8850i78e5z7ldrz
     verified: false
-    hashtags: "#bebekbattaniyesi, #baybblanket, #crochetaddict, #handmadearbeit"
+    hashtags: "#brazilcrochet, #grannysquareblanket, #handarbeit, #bebekbattaniyesi"
+  - username: "ahmettcbnn"
+    fullname: >-
+      Ahmet Coban
+    bio: >-
+      Konya📍 Tiktok : 840 k
+    location: "Turkey"
+    followers: 20170
+    engagement: 1094
+    commentsToLikes: 0.012875
+    id: ck8wexks6erwv0j78zblia1pm
+    verified: false
+    hashtags: "#komedi, #ke, #tiktokt, #konya"
+  - username: "abdllhozrc"
+    fullname: >-
+      Abdullah Emre Özarıcı
+    bio: >-
+      Konya ✈️
+    location: "Turkey"
+    followers: 31996
+    engagement: 1087
+    commentsToLikes: 0.027732
+    id: ck8t796ehg0fi0j787qbuisic
+    verified: false
+    hashtags: "#rideordie, #gallery, #motorcycle, #instagram"
+  - username: "zevkliblog"
+    fullname: >-
+      Burcu'nun Dünyası 🌼
+    bio: >-
+      Konya 🌾 🔹Bitki Bakımı 🌱 🔹Ev dekorasyonu / DİY fikirleri 🌱 🔹Aktüel ürün ve indirim haberleri 🌱 🔹Anne/bebek alışverişi öneri🌱 REKLAM ve ÜRÜN TANITIM DM
+    location: "Turkey"
+    followers: 31473
+    engagement: 345
+    commentsToLikes: 0.176633
+    id: ckap4wfh296t80i78f7v4ztak
+    verified: false
+    hashtags: "#flowerstagram, #kalanchoe, #saks, #follow"
 ---

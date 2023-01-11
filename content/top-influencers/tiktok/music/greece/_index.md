@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In Greece In 2022
+title: Top 10 Music TikTok Influencers In Greece In 2023
 description: >-
-  Find top music TikTok influencers in Greece in 2022. Most popular hashtags: #foryou #fyp #foryoupage #tiktok.
+  Find top music TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #greece #fyp #foryoupage.
 platform: TikTok
-hits: 22
+hits: 23
 text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 22 TikTok influencers like this in Greece for you to work with.
+text_bottom: Our platform holds 23 TikTok influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "marthanimiti"
+    fullname: >-
+      marthanimiti
+    bio: >-
+      T&F 15♎️ next 15k🎯 Here since musically
+    location: "Greece"
+    followers: 13000
+    engagement: 2326
+    commentsToLikes: 0.098783
+    id: ckb970yu8pgxh0j23e86u5k0j
+    verified: false
+    hashtags: "#greece, #virall, #fyp, #foryou"
+  - username: "vasiasoto"
+    fullname: >-
+      TheDcGirl🖤
+    bio: >-
+      here since Musically ✌️ Next goal 40K Σημασία έχει να το ζεις✨ 20 y.o 🇬🇷🇪🇸
+    location: "Greece"
+    followers: 39600
+    engagement: 1312
+    commentsToLikes: 0.057737
+    id: ck8rofftpgwk40j783no64gn3
+    verified: false
+    hashtags: "#viral, #greece, #notforyou, #pattitofeo"
+  - username: "switchdisco"
+    fullname: >-
+      switchdisco
+    bio: >-
+      🎧 THE UK’S NO.1 MASHUP DJ DUO 🎧 🎶 OUR MUSIC SOUNDS BETTER WITH YOUR TIKTOKS🎶
+    location: "Greece"
+    followers: 105300
+    engagement: 529
+    commentsToLikes: 0.037313
+    id: ckc92agbrsqnu0j23z7e40oxx
+    verified: false
+    hashtags: "#sia, #edm, #mashup, #dnb"
   - username: "moonlight1132"
     fullname: >-
       MoonLight 11
     bio: >-
       I miss musical.ly 19k beautiful people 😊 Goal 20k 18 years old ✈️
     location: "Greece"
-    followers: 19400
-    engagement: 1731
-    commentsToLikes: 0.017282
+    followers: 19900
+    engagement: 1563
+    commentsToLikes: 0.014799
     id: ckd69tbch45vs0j23qamdpocs
     verified: false
-    hashtags: "#fyp, #fy, #foryou, #mum"
-  - username: "mariliakontos"
+    hashtags: "#fyp, #fy, #foryou, #life"
+  - username: "mavridism_"
     fullname: >-
-      mariliakontos
+      🌙
     bio: >-
-      ✩❣since 2015. U might know me from musical.ly🥺
+      ~LISZTOMANIA~ -A need to listen to music all the time. Snapchat👻: devilsnake95
     location: "Greece"
-    followers: 139900
-    engagement: 822
-    commentsToLikes: 0.009743
-    id: ck999so51e2mf0j78acefh0te
-    verified: true
-    hashtags: "#foryoupage, #duet, #tiktoktraditions, #greece"
-  - username: "froso_pimenidou"
-    fullname: >-
-      Φροσούλα Τρ.
-    bio: >-
-      •Greece• Press •❤️• to my musical.lys Follow me🌟 👉Instagram:Froso_pimenidou
-    location: "Greece"
-    followers: 26300
-    engagement: 601
-    commentsToLikes: 0.017711
-    id: ckbf9vw9j17120j23twh7j17t
+    followers: 19600
+    engagement: 728
+    commentsToLikes: 0.018158
+    id: ck9dvijxkl1m80j78u8o25509
     verified: false
-    hashtags: "#mybrother, #challenges, #summerlove, #wearefriends"
+    hashtags: "#gay, #guy, #andritsou, #fypchallenge"
   - username: "mag_19"
     fullname: >-
       Maria Georvasaki
     bio: >-
       Music🎶 is my love Dance💃🏽 is my passion.. 🇬🇷
     location: "Greece"
-    followers: 36300
-    engagement: 838
-    commentsToLikes: 0.005557
+    followers: 39600
+    engagement: 792
+    commentsToLikes: 0.005523
     id: ck8qeblk9rxit0j78dwknh65c
     verified: false
-    hashtags: "#oriental, #orient, #foryoupage, #dancelove"
-  - username: "devilsnake95"
-    fullname: >-
-      Mike Mavrides
-    bio: >-
-      ~LISZTOMANIA~ -A need to listen to music all the time. Snapchat👻: devilsnake95
-    location: "Greece"
-    followers: 18400
-    engagement: 670
-    commentsToLikes: 0.009325
-    id: ck9dvijxkl1m80j78u8o25509
-    verified: false
-    hashtags: "#tiktok, #fyp, #tiktoktraditions, #gntm"
+    hashtags: "#dance, #foryoupage, #orient, #dancing"
   - username: "cobaltmusicgr"
     fullname: >-
       cobaltmusicgr
     bio: >-
       l ✖️🎵 COBALT MUSIC OFFICIAL ACCOUNT 🎤l #1️⃣ GREEK MUSIC CHANNEL ON YOUTUBE 🔥
     location: "Greece"
-    followers: 4142
-    engagement: 479
-    commentsToLikes: 0.009684
+    followers: 4407
+    engagement: 501
+    commentsToLikes: 0.009830
     id: ckbbsvmbrgec90j23adkau2qz
     verified: false
-    hashtags: "#tiktok, #houseofdrama, #tiktokgreece2020, #eleftheriaeleftheriou"
+    hashtags: "#tiktokgreeceofficial, #tiktokgreek, #fy, #greece"
   - username: "tustok"
     fullname: >-
       TUS
     bio: >-
-      Singer 🎤 Musician 🎵 Songwriter OUT NOW ON YOUTUBE <ALE ALE> 👇🏻
+      Singer 🎤 Musician 🎵 Songwriter OUT NOW ON YOUTUBE <YOU & I> 👇🏻
     location: "Greece"
-    followers: 188900
-    engagement: 1054
-    commentsToLikes: 0.008933
+    followers: 220400
+    engagement: 1035
+    commentsToLikes: 0.009278
     id: ck9euj0iedtm20j78g8mskv0s
     verified: false
-    hashtags: "#tattoo, #karate, #gym, #fight"
-  - username: "vasiasoto"
-    fullname: >-
-      TheDcGirl🖤
-    bio: >-
-      here since Musically ✌️ Next goal 40K IG: vasia_soto Dancer 🎀 19 y. o✨ 🇬🇷
-    location: "Greece"
-    followers: 36900
-    engagement: 624
-    commentsToLikes: 0.022329
-    id: ck8rofftpgwk40j783no64gn3
-    verified: false
-    hashtags: "#greeksounds, #dance, #greece, #foryoupage"
-  - username: "yia.yiannopoulos"
-    fullname: >-
-      yia.yiannopoulos
-    bio: >-
-      
-    location: "Greece"
-    followers: 3514
-    engagement: 741
-    commentsToLikes: 0.015810
-    id: ckcek399lt9ks0j23hjkzqjzn
-    verified: false
-    hashtags: "#greekcomedy, #quarantine, #funny, #comedy"
+    hashtags: "#ink, #singer, #kid, #song"
   - username: "alex.reber5567"
     fullname: >-
       damenek
     bio: >-
       follow me to see the real world
     location: "Greece"
-    followers: 38600
-    engagement: 352
-    commentsToLikes: 0.007537
+    followers: 38100
+    engagement: 357
+    commentsToLikes: 0.008551
     id: ckc8y112cmbow0j23tmg7wrry
     verified: false
-    hashtags: "#pyp, #trend, #typ, #girls"
+    hashtags: "#trend, #girls, #duet, #pyp"
+  - username: "xcrazyy_redhead"
+    fullname: >-
+      Chris84
+    bio: >-
+      ❗No spam likes, watch the whole video ❗ 👉Vintage, 🔞, thirst, cosplay, comedy👈
+    location: "Greece"
+    followers: 50600
+    engagement: 5322
+    commentsToLikes: 0.079056
+    id: ckc1ygheb29kl0j23j3y8sokp
+    verified: false
+    hashtags: "#kinkyasf, #purgefam, #xcrazyy, #song"
 ---

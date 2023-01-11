@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Australia In 2022
+title: Top 10 Yoga Instagram Influencers In Australia In 2023
 description: >-
-  Find top yoga Instagram influencers in Australia in 2022. Most popular hashtags: #yogagram #yoga #igyoga.
+  Find top yoga Instagram influencers in Australia in 2023. Most popular hashtags: #inabudhabi #allconnected #alocelebratelove.
 platform: Instagram
-hits: 186
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 186 Instagram influencers like this in Australia for you to pitch.
+hits: 91
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 91 Instagram influencers like this in Australia for you to contact.
 profiles:
-  - username: "trinskyyoga"
+  - username: "angieasimus"
     fullname: >-
-      Tahl Rinsky
+      Angie Asimus
     bio: >-
-      Yoga🔹Connection 🔹 Byron Bay 🔹Owner @creature.yoga with @bessyyoga YTT ONLINE 2020~ PRACTICE ONLINE daily @creature.yoga live link👇🏻 and @centrfit
+      Girl from Gundagai | Storyteller: @7newssyd | Weather chaser & climate graduate: @usqedu | Urban yogi @the_yoga_cloud | Ambassador: @actforkids
     location: "Australia"
-    followers: 35345
-    engagement: 200
-    commentsToLikes: 0.033281
-    id: ck14k08kdn2c40i19ql2gie57
-    verified: false
-    hashtags: "#yoga"
-  - username: "movewithnicole"
+    followers: 6979
+    engagement: 970
+    commentsToLikes: 0.052481
+    id: ck5ckoh10xans0i11a6qx7tus
+    verified: true
+    hashtags: "#domesticviolenceawareness, #pinktest, #tbt, #missyouguys"
+  - username: "reneecanzoneri"
     fullname: >-
-      Nicole McPherson
+      Renee Canzoneri
     bio: >-
-      🇦🇺 🇵🇭 🇪🇸 Yoga Lover || Latin Dancer Barre & Pilates Instructor @fitnessplaygroundaus 📍Sydney, Australia 👇 YouTube Channel 👇
+      ➖ Yoga + Meditation Trainings & Retreats ➖ Move with me @op_e___n ✨creating things, coming soon, very mysterious✨ 📍just a Vegemite loving Aussie in LA
     location: "Australia"
-    followers: 27441
-    engagement: 687
-    commentsToLikes: 0.100910
-    id: ck5zm9ff1m5bf0i14yx1eswhf
-    verified: false
-    hashtags: "#yogisofinstagram, #pilatesinstructor, #yogainspo, #flexible"
-  - username: "lukassneale"
-    fullname: >-
-      Lukass ☀️
-    bio: >-
-      Yoga through life. Life through yoga. 🙏 👨🏼‍💻 #Technology | 🧘‍♂️ #Yoga 👩🏼 @eva.kaszycki | 👦🏼🧒🏼👶🏼 Daddy of 3 ‘Be light ✨ Live light ✨’
-    location: "Australia"
-    followers: 21284
-    engagement: 674
-    commentsToLikes: 0.063829
-    id: ck8tbbnt3v1eo0j787m3jtubz
-    verified: false
-    hashtags: "#yogashapes, #enlightenment, #yogatribe, #yogagram"
-  - username: "miawoolrich"
-    fullname: >-
-      Mia
-    bio: >-
-      Yoga @yogawithmw New York Model Management Chadwick Australia LA Models Elite Miami Elite Milan Louisa Germany Innovative LA • NY
-    location: "Australia"
-    followers: 27547
-    engagement: 231
-    commentsToLikes: 0.079942
-    id: ck6u527vi75t50j71cqqw4ks7
+    followers: 19444
+    engagement: 318
+    commentsToLikes: 0.103168
+    id: ck14hj7hmakwr0i191zy9toc3
     verified: false
     hashtags: ""
-  - username: "supermyca"
-    fullname: >-
-      SuperMyca
-    bio: >-
-      Yoga | Hand Balancer | Dreamer @mycalifestyle Get 10% off @aloyoga DM me for the code! Yoga + Life blog + Discount Codes👇🏼
-    location: "Australia"
-    followers: 21776
-    engagement: 279
-    commentsToLikes: 0.116736
-    id: ck6tihorg0qjy0j71x6pj9bke
-    verified: false
-    hashtags: "#healthyliving, #igyoga, #asana, #practicenotperfection"
   - username: "karinachorley"
     fullname: >-
       Karina Nicole
     bio: >-
-      Represented by @bespoke_digital lee@bespokepublicrelations.com.au Cacao is life 🍫 Yoga teacher in training🧘🏽‍♀️ Brand boss 💻 DJ 🎧
+      Represented by @bespoke_digital lee@bespokepublicrelations.com.au Cacao is life 🍫 Yoga teacher in training🧘🏽‍♀️ Brand consultant 💻 DJ 🎧
     location: "Australia"
-    followers: 28297
-    engagement: 181
-    commentsToLikes: 0.062514
+    followers: 31894
+    engagement: 120
+    commentsToLikes: 0.096834
     id: ck55pulacbezw0i11jzx7jjlw
     verified: false
-    hashtags: ""
-  - username: "clairefalconer__"
-    fullname: >-
-      C L A I R E  🍉
-    bio: >-
-      🌴 Traveling around Aus in @vanlifestraya 🌴 Personal Trainer & Yoga RYT 200 🌴 @coachedbyclaire 💌 info@clairefalconer.me
-    location: "Australia"
-    followers: 39451
-    engagement: 173
-    commentsToLikes: 0.087504
-    id: ck0tzgrzjqd5y0i19c5egbdw8
-    verified: false
-    hashtags: "#dueapril2022, #vanlife, #cabaritabeach, #cabrita"
-  - username: "patti.sebastiao"
-    fullname: >-
-      Patti
-    bio: >-
-      I share yoga and coffee adventures yoga teacher + forever student | gc, australia ⋒ let’s create -> @wildthing.photography ☼ aulas de yoga ↓
-    location: "Australia"
-    followers: 6659
-    engagement: 723
-    commentsToLikes: 0.081487
-    id: ckaowgyxk8w6m0i784getmoqr
-    verified: false
-    hashtags: "#summerisaroundthecorner, #happyday, #howyogissunbathe, #fromtoday"
+    hashtags: "#kcpartner, #jagjeansforgenes, #jeansforgenes, #thesheetsociety"
   - username: "tranquil_steph"
     fullname: >-
       Steph | Yoga & PT Abu Dhabi |
     bio: >-
       Aussie #inAbuDhabi teaching Yoga, PT, wakesurfing, traveling & creating my dream life 💫 💍 @willy_spirituales 👫 @body.soul.evolution 🏄🏼‍♀️ @WakeEvo
     location: "Australia"
-    followers: 22213
-    engagement: 169
-    commentsToLikes: 0.092466
+    followers: 22111
+    engagement: 168
+    commentsToLikes: 0.077726
     id: ck6ub36rq776c0j71uori86te
     verified: false
-    hashtags: "#huaweip40pro, #aussiegirl, #ignitetheaussome, #ad"
-  - username: "melpretorius"
+    hashtags: "#care, #inabudhabi, #adidas, #writeyourlegacy"
+  - username: "kpearl21"
     fullname: >-
-      Mel Surf Yoga
+      KRYSTAL PEARL
     bio: >-
-      Movement as Medicine Freelance journalist Yoga | therapeutics + flow 🌱200hr trainings with @yogakoh_
+      Spread Love & Positivity ❥ Jeremiah 29:11 † @gymmolly “krystal20” {BS Health Science ✦ NFL Cheerleader ✦ Yoga Sculpt instructor}
     location: "Australia"
-    followers: 7411
-    engagement: 572
-    commentsToLikes: 0.074351
-    id: ck0w3hwk6thve0i19vvv68irt
+    followers: 233517
+    engagement: 308
+    commentsToLikes: 0.015771
+    id: ckap64fa5ecm00i78wwrabsp2
     verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: "#dancer, #nflcheerleaders, #thursdaymood, #happyearlyvalentinesday"
+  - username: "patti.sebastiao"
+    fullname: >-
+      Patti
+    bio: >-
+      Yoga teacher and practicioner Gold coast, Australia ⋒ Let’s create @wildthing.photography Aulas de yoga no YouTube ↓
+    location: "Australia"
+    followers: 6794
+    engagement: 563
+    commentsToLikes: 0.079525
+    id: ckaowgyxk8w6m0i784getmoqr
+    verified: false
+    hashtags: "#auladeyoga, #happyday, #howyogissunbathe"
+  - username: "alioetjen"
+    fullname: >-
+      ALI WELLNESS 👸🏼
+    bio: >-
+      🧝🏼‍♀️LOVE & LIGHT WARRIOR 🧘🏼‍♀️Meditation & Yoga Teacher 👩🏼‍💻Certified Life Coach 🙏🏽Wellness Retreats 🎥TV Personality 🥗@raisethebarfoods
+    location: "Australia"
+    followers: 227692
+    engagement: 250
+    commentsToLikes: 0.025267
+    id: ck0twtjrfgo530i19t755qoqn
+    verified: true
+    hashtags: "#meditation, #onelove, #allconnected, #livemeditation"
+  - username: "tillyjacsmith"
+    fullname: >-
+      Tilly Smith ✨
+    bio: >-
+      Now in Sydney Mental health 🙏 Model - @scoopmanagement @chic_brisbane @newyorkmodelsdirect Social - @maxconnectors 🐝 Ambassador - @kai_yoga_mosman 🧘
+    location: "Australia"
+    followers: 78076
+    engagement: 162
+    commentsToLikes: 0.022568
+    id: ck0tuasak6d8v0i19y86vgcd7
+    verified: false
+    hashtags: "#minenssey, #fragrance, #minebyminenssey, #mermaid"
+  - username: "valdasaur"
+    fullname: >-
+      Valerie 🌞
+    bio: >-
+      just for fun ↠ Registered nurse 🌿 Yoga: @yogalab._ ↠ KA-VALERIELEE 15% off @kydraofficial ⇩
+    location: "Australia"
+    followers: 30052
+    engagement: 171
+    commentsToLikes: 0.057490
+    id: ck0u9ot11aez00i19hs6bg996
+    verified: false
+    hashtags: "#kydrasquad, #lornajane, #ad, #exploreyoga"
+  - username: "pacificyogi"
+    fullname: >-
+      Jacqui Black ☾
+    bio: >-
+      yoga teacher funky shapes creative flows welcome to my heart space
+    location: "Australia"
+    followers: 18669
+    engagement: 277
+    commentsToLikes: 0.356148
+    id: ckaorqo16obpw0i78xj0m4u6t
+    verified: false
+    hashtags: "#alobouttransitions, #alocelebratelove, #feelfebruary, #yogashapes"
 ---

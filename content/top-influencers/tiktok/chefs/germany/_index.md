@@ -1,108 +1,96 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Germany In 2022
+title: Top 10 Chefs TikTok Influencers In Germany In 2023
 description: >-
-  Find top chefs TikTok influencers in Germany in 2022. Most popular hashtags: #chef #comedy #foryou #duett.
+  Find top chefs TikTok influencers in Germany in 2023. Most popular hashtags: #chef #comedy #fun #lustig.
 platform: TikTok
-hits: 22
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 22 TikTok influencers like this in Germany for you to connect with.
+hits: 24
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 24 TikTok influencers like this in Germany for you to pitch.
 profiles:
-  - username: "nachtaktiv.events"
+  - username: "karriereguru"
     fullname: >-
-      Nachtaktiv.Events
+      Der Karriereguru
     bio: >-
-      👉🏻 AZUBI vs CHEF! ⏰2x LIVE ⤵️ DO 19| SO 19 INSTA, YT, SHOP ⤵️
+      🦸🏻‍♂️ CEO of Schule / Studium & Beruf ⬇️ Formulierungen im ARBEITSZEUGNIS ⬇️
     location: "Germany"
-    followers: 82400
-    engagement: 1040
-    commentsToLikes: 0.041851
-    id: ckcei0w31q16s0j23ttm0v4xi
+    followers: 367200
+    engagement: 848
+    commentsToLikes: 0.019825
+    id: ckbeoc4fh4e8y0j23gopt8o0t
     verified: false
-    hashtags: "#teamazubi, #teamregie, #nachtaktivevents, #azubi"
+    hashtags: "#sch, #duett, #test, #antwort"
   - username: "trymacs"
     fullname: >-
       Trymacs
     bio: >-
       Moin Leute, Trymacs hier!
     location: "Germany"
-    followers: 320500
-    engagement: 1758
-    commentsToLikes: 0.006388
+    followers: 368300
+    engagement: 1689
+    commentsToLikes: 0.005843
     id: ckavq22fp1er50j2399gxms2u
     verified: true
-    hashtags: "#fallguys, #trymacs, #chefstrobel, #montanablack"
-  - username: "andywerner1"
+    hashtags: "#chefstrobel, #fallguys, #trymacs, #cable"
+  - username: "fantasyschaefer"
     fullname: >-
-      Andy Werner
+      Rudi
     bio: >-
-      das Leben ist wie eine Knallerbse..kurz laut oder bei Instagram andy.werner.587
+      Autor ✒️ 📚 Dogs 🐾❤️🐶Dave & 🐺Buddy❤️🐾 Machen ist wie wollen nur krasser 😉
     location: "Germany"
-    followers: 137300
-    engagement: 1607
-    commentsToLikes: 0.064379
-    id: ckb9mxuiygcon0j23v87k2htd
+    followers: 11100
+    engagement: 1554
+    commentsToLikes: 0.299815
+    id: ckdi642zb7crt0j23w3ufosog
     verified: false
-    hashtags: "#realtalk, #katzenliebhaber, #duett, #tippdestages"
-  - username: "armineagle"
+    hashtags: "#smile, #dog, #hundefun, #urlaub"
+  - username: ".schmidti"
     fullname: >-
-      Armin Eagle
+      Schmidti 
     bio: >-
-      Folge mir auf TT und Insta oder Youtube😎 ich grüße dich im nächsten Video 😊
+      #_schmidti_ Instagram: xxschmidtixx #strongtogether🤝🖤 Witze aus dem Netz
     location: "Germany"
-    followers: 324900
-    engagement: 2054
-    commentsToLikes: 0.021680
-    id: ckdhbdatfvsuv0j23whszdtep
+    followers: 3396
+    engagement: 1021
+    commentsToLikes: 0.182299
+    id: ckblkocjzdh0g0j23va429aka
     verified: false
-    hashtags: "#foryoupage, #mama, #fail, #vater"
-  - username: "nicks.zu.lachen"
-    fullname: >-
-      Nick 
-    bio: >-
-      Ich bin nur wegen des Tiktok Pullis hier! 🇷🇺/🇩🇪 Next: 75k
-    location: "Germany"
-    followers: 71400
-    engagement: 1202
-    commentsToLikes: 0.039626
-    id: ck9n4w1br5xpo0j78rvoo3wsc
-    verified: false
-    hashtags: "#frauen, #beziehung, #comedy, #foodlove"
-  - username: "yakismis"
-    fullname: >-
-      🦁 Yusufcan
-    bio: >-
-      Instagram ( kedi777 ) Yiğidi öldür ama hakkını yeme👍🧿
-    location: "Germany"
-    followers: 5566
-    engagement: 1112
-    commentsToLikes: 0.036450
-    id: ckbqce6ocyjpg0j23oio4lyt4
-    verified: false
-    hashtags: "#seydaperin, #hollanda, #cologne, #yusufusta"
+    hashtags: "#catslove, #sichselbstnichtzuernstnehmen, #witzig, #lustig"
   - username: "ohhdreascher"
     fullname: >-
       Ohh Dreascher
     bio: >-
       🇩🇪Just posting some DIY etched tools, woodworking and leathercrafts.
     location: "Germany"
-    followers: 46100
-    engagement: 924
-    commentsToLikes: 0.032114
+    followers: 54000
+    engagement: 938
+    commentsToLikes: 0.031580
     id: ckdszo4carbwz0j23z1vqep3a
     verified: false
-    hashtags: "#etched, #vikings, #norse, #biker"
-  - username: "heike_chien"
+    hashtags: "#organize, #workshop, #thor, #engraving"
+  - username: "tobifreudenthal"
     fullname: >-
-      delfinius36
+      Tobi Freudenthal
     bio: >-
-      ❤️Ich liebe alle Tiere ❤️ 🌱 Go Vegan 🌱 ❤️ Comedy ❤️
+      Stand-Up COMEDIAN🎤⬆️ Sketch - Rätsel - Live😎 #bleibtgesund ⬇️🔥MEHR VIDEOS🔥⬇️
     location: "Germany"
-    followers: 30300
-    engagement: 822
-    commentsToLikes: 0.130658
-    id: cka62tbe61d4h0i78ldqp0i9w
+    followers: 45500
+    engagement: 1259
+    commentsToLikes: 0.043173
+    id: cka7o8r3g12180i78pqfx5ntv
     verified: false
-    hashtags: "#viralvideo, #veganteacher, #partner, #tierschutz"
+    hashtags: "#trick, #fy, #spa, #bewerbungsgespr"
+  - username: "derjoscha"
+    fullname: >-
+      𝕵𝖔𝖘𝖈𝖍𝖆🌹
+    bio: >-
+      ⚠️HOBBY SYNCHRONSPRECHER⚠️ 👻↬Snapchat - j0sch4 📬↬business.derjoscha@gmail.com
+    location: "Germany"
+    followers: 320200
+    engagement: 1062
+    commentsToLikes: 0.027840
+    id: ck9si05zcwao40j785gdbfh9o
+    verified: false
+    hashtags: "#heidelberg, #comedy, #illusion, #ironie"
   - username: "112_brandenburg"
     fullname: >-
       Einsatzfahrten🚒🚨
@@ -110,21 +98,33 @@ profiles:
       Einsatzfahrten und Memes🚨🚒 Nachrichten gerne über Instagram👨‍🚒🚨
     location: "Germany"
     followers: 22700
-    engagement: 1257
-    commentsToLikes: 0.018474
+    engagement: 1217
+    commentsToLikes: 0.018034
     id: cka6q5echm69l0i78gi3o1fvz
     verified: false
-    hashtags: "#ddr, #emergency, #w50, #freiwilligefeuerwehr"
-  - username: "ingoberlingo"
+    hashtags: "#ehrenamt, #ifaw50, #freiwilligefeuerwehr, #ddr"
+  - username: "resialarm"
     fullname: >-
-      INGO🅑🅔🅡🅛🅘🅝🅖🅞
+      ResiAlarm
     bio: >-
-      👋 Hey Ingo | 49 Berlin | 🏳️‍🌈 | taken 💛💚💙💜♥️🧡 👉 Comedy, Realtalk
+      Es macht so Spaß mit Euch ❤️ Schaffen wir bald die 90k? 😍 📪 resialarm@gmx.de
     location: "Germany"
-    followers: 80500
-    engagement: 1143
-    commentsToLikes: 0.037114
-    id: cka6jgsqturhr0i78s4rcjc6m
+    followers: 88200
+    engagement: 1219
+    commentsToLikes: 0.029061
+    id: ckav8fzxrfqc60j23ufz3b0py
     verified: false
-    hashtags: "#pov, #freundin, #spa, #lol"
+    hashtags: "#food, #essen, #fun, #foryou"
+  - username: "...isa...bell"
+    fullname: >-
+      ...isa...bell
+    bio: >-
+      »Arbeiten von zuhause 📱 »31Jahre alt »Glücklich vergeben❤02.12.16❤ »2fache Mama
+    location: "Germany"
+    followers: 8324
+    engagement: 920
+    commentsToLikes: 0.062336
+    id: ck8rtna5c3pkj0j7858ll7at4
+    verified: false
+    hashtags: "#zusammen, #geil, #team, #chance"
 ---

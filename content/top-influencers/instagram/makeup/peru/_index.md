@@ -1,108 +1,84 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Peru In 2022
+title: Top 10 Makeup Instagram Influencers In Peru In 2023
 description: >-
-  Find top makeup Instagram influencers in Peru in 2022. Most popular hashtags: #makeup #halloweenmakeup #halloween #maquillaje.
+  Find top makeup Instagram influencers in Peru in 2023. Most popular hashtags: #makeupartist #makeup #halloweenmakeup #peru.
 platform: Instagram
-hits: 89
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 89 Instagram influencers like this in Peru for you to collaborate.
+hits: 112
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 112 Instagram influencers like this in Peru for you to collaborate.
 profiles:
+  - username: "arturotobdan"
+    fullname: >-
+      Arturo Foronda | Art 🎨📷🎬
+    bio: >-
+      Self taught artist👨‍🎨 📷 Fotógrafo 🎨 Adoro hacer arte 🎬 Youtube 🖌️ Artistic & FX makeup 🖥️ Creador de contenido 📌 Perú.
+    location: "Peru"
+    followers: 7360
+    engagement: 764
+    commentsToLikes: 0.090166
+    id: ck14jp8c3li1x0i19pdtn8kn8
+    verified: false
+    hashtags: "#peruvianmakeupartist, #peruvianmua, #conceptualportrait, #selfportraitart"
   - username: "anggie.makeupartist"
     fullname: >-
-      Anggie Rodriguez
+      Anggie Rodriguez Maquilladora
     bio: >-
-      💄Makeup Artist 📍Lima- Perú 🇵🇪 En Facebook /AnggieRodriguezMakeup Reserva tu cita al Dm 💌anggierodriguez.mua@gmail.com
+      Makeup Artist
     location: "Peru"
-    followers: 5991
-    engagement: 847
-    commentsToLikes: 0.171993
+    followers: 6030
+    engagement: 724
+    commentsToLikes: 0.143102
     id: ck5zzoq6cc4zt0i14cq17ibln
     verified: false
-    hashtags: "#disneyvillainmakeup, #undiscoveredmuas, #peruvianmakeup, #makeuptutorial"
-  - username: "antonellaleguab"
-    fullname: >-
-      Anto Legua B
-    bio: >-
-      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle | MakeUp ✉ antonellaleguab@gmail.com 📌 Perú
-    location: "Peru"
-    followers: 82062
-    engagement: 128
-    commentsToLikes: 0.179357
-    id: ck6u904yrupf20j711z5lc25b
-    verified: false
-    hashtags: "#dknychallenge, #dknystories, #publicidad, #celebremostodo"
+    hashtags: "#undiscovered, #somosmuaperu, #staycolorful, #bperfectcosmetics"
   - username: "artbycch"
     fullname: >-
       Camila Chehade ☆
     bio: >-
-      Beauty Blogger ☆ MAKEUP ARTIST ☆ 🤍 @closetsalebycch 🪐✨💭 Tik tok 🦄 : cch.99 💌 camilachehade@hotmail.com
+      ☆ Makeup Artist ☆ 📍 Milan, Italy 🪐✨💭 💌 camilachehade@hotmail.com
     location: "Peru"
-    followers: 10419
-    engagement: 572
-    commentsToLikes: 0.064751
+    followers: 10107
+    engagement: 653
+    commentsToLikes: 0.104176
     id: ck6tibs9h0f3y0j71zb553mbn
     verified: false
-    hashtags: "#muaperu, #muasfam, #muasupport, #benebabe"
-  - username: "maferbenites"
-    fullname: >-
-      MAFER BENITES
-    bio: >-
-      Beauty Influencer-Maquilladora Pro 💄 400K TikTok maferbenitesmk Cursos de Automaquillaje-Makeup Pro 📹YouTube @maferbenites 💳compra aquí ⬇️
-    location: "Peru"
-    followers: 52298
-    engagement: 208
-    commentsToLikes: 0.108064
-    id: ck55m203f309u0i11trhkmrnf
-    verified: false
-    hashtags: "#instagramreels, #makeup, #makeuplooks, #maquillaje"
-  - username: "kawaiidoll1"
-    fullname: >-
-      kawaiidoll1
-    bio: >-
-      ᔕOY ᑭᗩO👩🏻 📦 eimisamanta20@gmail.com 💄YOUTUBE KAWAIIDOLL1🌸paolife 💙FACEBOOK MAKEUPBYPAO Paleta KAWAIIPRINCESS Código kdoll1 de descuento
-    location: "Peru"
-    followers: 404278
-    engagement: 134
-    commentsToLikes: 0.010772
-    id: ck0u21rarym180i19k4dh5bcs
-    verified: false
-    hashtags: "#looks, #beautyglazed, #lurecosmetics, #rudecosmetics"
+    hashtags: "#blendtherules, #fyp, #plouisebase, #wavyhairstyle"
   - username: "sandrallosamakeup"
     fullname: >-
       Sandra Llosa
     bio: >-
       ♡ Makeup Artist ♡ 📍Lima, Perú 💌 Business: sandrallosa78@gmail.com 👇🏼Info y citas a través de Facebook
     location: "Peru"
-    followers: 38996
-    engagement: 1124
-    commentsToLikes: 0.015570
+    followers: 41447
+    engagement: 1214
+    commentsToLikes: 0.017039
     id: ck8tda4542in70j78nq06c5m0
     verified: false
-    hashtags: "#disney, #sfx, #halloweenmakeup, #stitch"
-  - username: "valemorris"
+    hashtags: "#machalloween, #maccosmetics, #voldemortmakeup, #sfx"
+  - username: "kawaiidoll1"
     fullname: >-
-      Valeria Morris
+      kawaiidoll1
     bio: >-
-      📍Lima, Perú @valemorris.makeup
+      ᔕOY ᑭᗩO👩🏻 📦 eimisamanta20@gmail.com 💄YOUTUBE KAWAIIDOLL1🌸paolife 💙FACEBOOK MAKEUPBYPAO Paleta 🦋soñadora (disponible)👆🏼 Código kdoll1 de descuento
     location: "Peru"
-    followers: 2840
-    engagement: 1777
-    commentsToLikes: 0.034758
-    id: ckf5rfhf5chxe0j23q8wz1ryj
+    followers: 412339
+    engagement: 72
+    commentsToLikes: 0.011683
+    id: ck0u21rarym180i19k4dh5bcs
     verified: false
-    hashtags: ""
+    hashtags: "#docolor, #luxylas, #peru, #maquiaguem"
   - username: "lamaquilladora_"
     fullname: >-
       🦄 Cynthia Calderon 🇵🇪
     bio: >-
-      💋Actriz, Pro Brow, Pro Makeup Artist & Coach 👉🏼 citas@lamaquilladora.pe www.MAMACITA.pe Mi tienda @mamacita.pe Mi curso en CREHANA👇🏼
+      💋Actriz, Pro Brow, Pro Makeup Artist & Coach 👉🏼 citas@lamaquilladora.pe 👩🏻‍💻www.MAMACITA.pe 🛍Mi tienda @mamacita.pe 🔥Mi curso en CREHANA👇🏼
     location: "Peru"
-    followers: 88124
-    engagement: 113
-    commentsToLikes: 0.052553
+    followers: 91406
+    engagement: 103
+    commentsToLikes: 0.034114
     id: ck5zrc3ihwayy0i147kdusb1o
     verified: true
-    hashtags: "#makeuptutorial, #tutorial, #makeuplook, #look"
+    hashtags: "#bemyvalentine, #navidadconlamaquilladora, #cejas, #lookoftheday"
   - username: "ceciliakatz"
     fullname: >-
       Cecilia Katz
@@ -114,17 +90,41 @@ profiles:
     commentsToLikes: 0.041259
     id: ck0twjqqqfoye0i197c58iytx
     verified: false
-    hashtags: "#ceciliakatz, #halfcutcrease, #maquillaje, #fullcolormakeup"
-  - username: "lavidamesonrie"
+    hashtags: "#smokeyeye, #halloween, #halfcutcrease, #mesrosa"
+  - username: "glamstudio1"
     fullname: >-
-      Jenny Ruiz hair&makeup artist
+      GS® | PIONEROS EN LATAM
     bio: >-
-      💡Hair stylist ✂️ in @laresistenciacero Makeup artist 💄Modelo De cosas ideales🧚‍♀️ I'M MULTIPOTENCIAL 📷💅💄💃🕶️
+      #TuEspacioTuMomento 🖤 ¡Revolucionamos la deco con nuestro GLAM! 🔨 Interiores para makeup y fashion lovers 💡 Diseñamos | Fabricamos | Implementamos
     location: "Peru"
-    followers: 2794
-    engagement: 2491
-    commentsToLikes: 0.038393
-    id: ck14hh413aav10i19dflrkpw1
+    followers: 97478
+    engagement: 65
+    commentsToLikes: 0.038211
+    id: ckf5paopw5ika0j239h2g9wvi
     verified: false
-    hashtags: ""
+    hashtags: "#glamsquad, #calidadglamstudio, #glam, #tuespaciotumomento"
+  - username: "nicollechangc"
+    fullname: >-
+      Nicolle Chang Makeup Artist.
+    bio: >-
+      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
+    location: "Peru"
+    followers: 125184
+    engagement: 902
+    commentsToLikes: 0.032827
+    id: ck6ucvwnlhrbb0j71u9zr5a8m
+    verified: false
+    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
+  - username: "pmxbeauty"
+    fullname: >-
+      Paola Escalante
+    bio: >-
+      📍 Lima, Perú ✉️ PR/Business: pmxbeauty@gmail.com +300 TikTok
+    location: "Peru"
+    followers: 34233
+    engagement: 225
+    commentsToLikes: 0.089189
+    id: ck9wf1jr7mvjd0j78072wplp2
+    verified: false
+    hashtags: "#wakeupandmakeup, #makeupdaily, #disney, #abhfam"
 ---

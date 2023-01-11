@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In India In 2022
+title: Top 10 Gymnasts Instagram Influencers In India In 2023
 description: >-
-  Find top gymnasts Instagram influencers in India in 2022. Most popular hashtags: #gymnastics #love #fitness #mumbai.
+  Find top gymnasts Instagram influencers in India in 2023. Most popular hashtags: #love #mumbai #gymnastics.
 platform: Instagram
-hits: 107
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 107 Instagram influencers like this in India for you to collaborate.
+hits: 80
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform has 80 Instagram influencers like this in India for you to contact.
 profiles:
   - username: "hayliehendrickson"
     fullname: >-
       Haylie
     bio: >-
-      Indiana | Arizona U of A Gymnastics Alum @mdskinlounge
+      UEPA ‘23 Indiana | Arizona U of A Gymnastics Alum
     location: "India"
-    followers: 6818
-    engagement: 1418
-    commentsToLikes: 0.031513
+    followers: 6826
+    engagement: 1394
+    commentsToLikes: 0.026943
     id: ck6u50u1l6xkk0j71g19t4eee
     verified: false
-    hashtags: "#notsatisfied, #btfd, #blackouttuesday, #aussieaussieaussie"
+    hashtags: "#blackouttuesday, #aussieaussieaussie"
   - username: "dipakarmakarofficial"
     fullname: >-
-      Dipa Karmakar
+      Dipa Karmakar 🤍
     bio: >-
-      Indian Olympian Artistic Gymnast 🤸 For enquiries, contact sharba@merakiconnect.com
+      Indian Olympian 4th finished vault Table Artistic Gymnast 🤸 Padmasree, Dhyan Chand Khel Ratna award, Arjun Award Contact sharba@merakiconnect.com
     location: "India"
-    followers: 31458
-    engagement: 860
-    commentsToLikes: 0.012046
+    followers: 41481
+    engagement: 993
+    commentsToLikes: 0.012124
     id: ck0ttuz0q4fcx0i19etvdooul
     verified: true
-    hashtags: "#kbckaramveer, #festivevibes, #diwali2020, #indiansportstories"
+    hashtags: "#tokyo2021, #instagood, #follow, #teamtoyota"
   - username: "_chingee_"
     fullname: >-
-      ISHWARI SHIRODKAR 🍁
+      ISHWARI SHIRODKAR
     bio: >-
       #model#sports#athlete 📩 : shirodkarishwari6@gmail.com International Aerobic Gymnastics Champion Miss Maharashtra Regina2019
     location: "India"
-    followers: 5542
-    engagement: 3040
-    commentsToLikes: 0.032561
+    followers: 5180
+    engagement: 2815
+    commentsToLikes: 0.037865
     id: ckaoy1wv7fpy60i78l2g4ewl5
     verified: false
-    hashtags: "#skincare, #love, #insta, #instagood"
+    hashtags: "#photooftheday, #makeup, #followme, #follow4follow"
   - username: "chienwei023"
     fullname: >-
       黃芊葳
     bio: >-
       Wei's Life/Style/Travel/Lover/New mommy 合作邀約/二手衣 請私訊小盒子❤️ - Athlete. Rhythmic Gymnastics Coach. Dancing And Yoga Trainer In College.
     location: "India"
-    followers: 42497
-    engagement: 190
-    commentsToLikes: 0.011454
+    followers: 42631
+    engagement: 168
+    commentsToLikes: 0.013597
     id: ck5hmvkqqmpa80i11rwwyk71f
     verified: false
-    hashtags: "#uniqlobaby, #excelsior, #7m, #6m13d"
+    hashtags: "#8m7d, #30, #8m, #10m15d"
   - username: "abhinavparkour"
     fullname: >-
       Abhinav Parkour & Freerunning
     bio: >-
       Ditch the machines! Parkour Functional Calisthenics Gymnastics Cardio Kickboxing All age groups 👦Kids special! Book a demo session👇
     location: "India"
-    followers: 16720
-    engagement: 1001
-    commentsToLikes: 0.027932
+    followers: 19375
+    engagement: 306
+    commentsToLikes: 0.014497
     id: ckap8mswsp14c0i78lu34v17b
     verified: false
-    hashtags: "#workoutathome, #gymnasticscoach, #tiktokhyderabad, #parkourtraining"
-  - username: "anuditapaul_did"
+    hashtags: "#gymnastics, #hyderabad, #abhinavparkour, #fun"
+  - username: "ajmer_shaikh_k"
     fullname: >-
-      A N U D I T A ♡
+      (KICK) Ajmer Shaikh
     bio: >-
-      DANCER/@andyandbabies 🦋 💫Did lil Master's season3/top8 💜D+ season-4 🇮🇳NATIONAL aero Gymnast 📩 DM / Email for collaboration.
+      Exclusively on @officialjoshapp 5.4 Million on Tiktok Gymnastic parkour tricker Dancer 💃 Manage by @myqyuki Singer Kick🔑☂️☂️🌋🥑💋
     location: "India"
-    followers: 42870
-    engagement: 1066
-    commentsToLikes: 0.031094
-    id: ck8t8v8mplymh0j78klobdjqn
+    followers: 76608
+    engagement: 375
+    commentsToLikes: 0.009747
+    id: ck8wf2eizf0kj0j78b0tx3l8u
     verified: false
-    hashtags: "#peaceout, #anudita, #love, #18yo"
-  - username: "parth_chauhanpc"
-    fullname: >-
-      Parth Chauhan
-    bio: >-
-      ◼ 15th April🎂 ◼ Love God & Fitness ◼ Calisthenics freestyle, Street workout & Gymnastics💯 ◼ Video link 👇
-    location: "India"
-    followers: 8889
-    engagement: 1041
-    commentsToLikes: 0.029389
-    id: ck8wer19weh8k0j78jcjt9q5u
-    verified: false
-    hashtags: "#freestylecalisthenics, #parthchauhan, #bodyweighttraining, #reelskarofeelkaro"
+    hashtags: "#backflip, #gym, #ajmerkfam, #reelkarofeelkaro"
   - username: "surendra_suru_"
     fullname: >-
       Surendra Vishwakarma
     bio: >-
       21| sportlover 🌺 | gymnast flips🔥|YouTuber #sportlover #flipper #gymnast Learner. Traveller✈️ My hope my god Call or Dm for collab🤘
     location: "India"
-    followers: 4190
-    engagement: 1012
-    commentsToLikes: 0.041950
+    followers: 4284
+    engagement: 1051
+    commentsToLikes: 0.040185
     id: ck8wfvcbagbfx0j78ma8gzd9u
     verified: false
-    hashtags: "#bandra, #lovemumbai, #nallasopara, #followme"
-  - username: "rahulsuryavanshi27"
+    hashtags: "#followne, #photooftheday, #live, #likeforlikeback"
+  - username: "missvalkondos"
     fullname: >-
-      Rahul Suryavanshi
+      Valorie Kondos Field
     bio: >-
-      Gymnastics Trainer to Celebrities; Fitness Expert & Guidance; Representing Team Tiger. Enquiry: rahulparkour7@gmail.com
+      Retired Head Coach, 7X NCAA Champion UCLA Gymnastics. Pac-12 Coach of the Century. Author "Life is Short Don't Wait to Dance". TED Talk speaker.
     location: "India"
-    followers: 20195
-    engagement: 185
-    commentsToLikes: 0.021122
-    id: ck14gj5hh5hlt0i193w67suzq
-    verified: false
-    hashtags: "#fitness, #fitnessmodel, #workout, #india"
-  - username: "urbanacroyogi"
+    followers: 79305
+    engagement: 266
+    commentsToLikes: 0.006005
+    id: ck0w07tl2ctdb0i19zt0beq47
+    verified: true
+    hashtags: "#championsinlife, #grateful, #repost, #foodinsecure"
+  - username: "gymnasticsfails"
     fullname: >-
-      Ashutosh Haldankar
+      ｇｙｍｎｏｔｓ™
     bio: >-
-      Acroyoga & Yoga🧘‍♂️ Certified Fitness Trainer & Performer Gymnast & Parkour Athlete Electronic Engineer Lord Jesus Christ PvtAc:@ashutoshhaldankar
+      IT'S OK TO FALL ON YOUR FACE, WE CAN ALL LAUGH ABOUT IT HERE😂🤘🏻 ✨TᗩG ᐯIᗪEOᔕ TO: #gymnasticsfailstag ♡ 💞EᗰᗩIᒪ: gумиαѕтιcѕfαιℓѕ@уαнσσ.cσм🎈 Or DM me!
     location: "India"
-    followers: 3826
-    engagement: 1059
-    commentsToLikes: 0.076450
-    id: ckap279spxolt0i7809jt6xsa
+    followers: 44873
+    engagement: 221
+    commentsToLikes: 0.010791
+    id: ck5bv9nxdj8lq0i11m1bog3nx
     verified: false
-    hashtags: "#beach, #namaste, #colaboration, #fitnesstrainer"
+    hashtags: "#gymnasticsfailstag"
+  - username: "_insta_amigoz"
+    fullname: >-
+      Insta_Modelz(27k) page😇
+    bio: >-
+      Insta_Amigoz (AmiGoz) 🌴Follow & support 🌴Shutout page 🌴Mention the page 🌴Tag ur hd pic 🌴Ur support is best 🌴Retern support💯%
+    location: "India"
+    followers: 20379
+    engagement: 136
+    commentsToLikes: 0.084969
+    id: ck9wgp2zmucmw0j781w5eakit
+    verified: false
+    hashtags: "#malayalee, #ilovemypug, #pugworld, #trivandrum"
 ---

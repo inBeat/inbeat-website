@@ -1,60 +1,60 @@
 ---
-title: Top 10 Djs Instagram Influencers In Greece In 2022
+title: Top 10 Djs Instagram Influencers In Greece In 2023
 description: >-
-  Find top djs Instagram influencers in Greece in 2022. Most popular hashtags: #dj #skg #hiphop.
+  Find top djs Instagram influencers in Greece in 2023. Most popular hashtags: #athens #music #thessaloniki.
 platform: Instagram
 hits: 10
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Greece for you to contact.
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Greece for you to contact.
 profiles:
+  - username: "nikkosunset"
+    fullname: >-
+      Nikko Sunset
+    bio: >-
+      DJ - Producer - Label Owner - Compiler Promo Manager στη δισκογραφική εταιρεία Planetworks 𝙁𝙡𝙤𝙮𝙙 𝘽𝙖𝙧 𝙍𝙚𝙨𝙩𝙪𝙧𝙖𝙣𝙩 • 𝘽𝙖𝗿𝗼𝗼𝗺 • 𝙎𝙞𝙭 𝘾𝙤𝙣𝙨𝙪𝙡𝙩𝙖𝙩𝙞𝙤𝙣 𝙖𝙜𝙚𝙣𝙘𝙮
+    location: "Greece"
+    followers: 59671
+    engagement: 185
+    commentsToLikes: 0.014381
+    id: ck5c1moq8vhot0i11yalcsv0k
+    verified: true
+    hashtags: "#photo, #deep, #deephouse, #christmas"
   - username: "rania1111"
     fullname: >-
       Rania Kostaki
     bio: >-
-      🧚‍♀️“Αυτό το χαμόγελο,ανάμεσα στα φιλιά,αυτό θέλω”🧚‍♂️
+      𝔻𝕛 / ℙ𝕣𝕠𝕕𝕦𝕔𝕖𝕣 / 𝕄𝕦𝕤𝕚𝕔 𝕞𝕒𝕟𝕒𝕘𝕖𝕣 ℝ𝕒𝕕𝕚𝕠 𝕡𝕣𝕖𝕤𝕖𝕟𝕥𝕖𝕣 ℝ𝕪𝕥𝕙𝕞𝕠𝕤 94,9 20:00-23:00 ℍ𝕠𝕤𝕥 𝕠𝕗 "ℕ𝕪𝕩𝕥𝕒 𝕤𝕥𝕠 ℝ𝕪𝕥𝕙𝕞𝕠"
     location: "Greece"
-    followers: 136723
-    engagement: 666
-    commentsToLikes: 0.007562
+    followers: 140312
+    engagement: 679
+    commentsToLikes: 0.008264
     id: ck5ckppbzxd9x0i11w5f1lin3
     verified: false
-    hashtags: "#summer2020, #dj, #radio, #radiopersonality"
-  - username: "chris_karr_"
+    hashtags: "#femaledj, #raniakostaki, #djlife, #radiopersonality"
+  - username: "village_gr"
     fullname: >-
-      ᴄʜʀɪꜱ ᴋᴀʀʀ
+      Village
     bio: >-
-      💿ᴍᴜꜱɪᴄ ᴘʀᴏᴅᴜᴄᴇʀ @panik_entertainment_group 🎧ᴅᴇᴇᴊᴀʏ 🏀 ʙᴀꜱᴋᴇᴛʙᴀʟʟ ᴀᴅᴅɪᴄᴛᴇᴅ ✨ᴅʀᴇᴀᴍᴇʀ
+      Η Απόλυτη Κινηματογραφική Εμπειρία!
     location: "Greece"
-    followers: 4660
-    engagement: 1791
-    commentsToLikes: 0.027527
-    id: ck5cex5qdlw3s0i11lxtzz5rk
-    verified: false
-    hashtags: "#dj, #party, #dance, #djlife"
-  - username: "djjaylajayr"
-    fullname: >-
-      JAYLA JAY-R ⚡️
-    bio: >-
-      •DEE JAY🎧 @hookahouse.skg @veranda_refresh_your_feelings •FOR BOOKINGS DM 📩 °YOUTUBE VIDEO 👇
-    location: "Greece"
-    followers: 20855
-    engagement: 619
-    commentsToLikes: 0.013281
-    id: ck5hika2odyag0i11obwra2g6
-    verified: false
-    hashtags: "#streetstyle, #beach, #bikini, #summer2020"
+    followers: 37513
+    engagement: 179
+    commentsToLikes: 0.008418
+    id: ck5pznbzr1tn20i11vi9bv00c
+    verified: true
+    hashtags: "#athens, #larissa, #volos, #thessaloniki"
   - username: "toukoutoubi"
     fullname: >-
-      Tukutubegr
+      TukuGR
     bio: >-
-      Cinema Addict Tech Enthusiast Podcaster Anti-Influencer Business inquiries: tukutube@gmail.com #tukutubegr #toukoutoubi #giataviews Latest video 👇👇
+      Cinema addict Stand up Comedian Podcast Owner of TukuGR | TukuGamesGR
     location: "Greece"
-    followers: 14282
-    engagement: 1186
-    commentsToLikes: 0.006868
+    followers: 13731
+    engagement: 1246
+    commentsToLikes: 0.006491
     id: ck5cbufzig6k60i118atht14g
     verified: false
-    hashtags: "#instadaily, #improvatines, #show, #instafollow"
+    hashtags: "#comedy, #awesome, #skg, #instadaily"
   - username: "georgetsilipakos"
     fullname: >-
       George Tsilipakos
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.006982
     id: ck0u2a18bzdzr0i194eevuqb3
     verified: false
-    hashtags: "#eclipse, #nhaosnightclub, #sunday, #newstore"
+    hashtags: "#accessfashion, #pioneer, #skg, #dj"
+  - username: "stikoudikaterin"
+    fullname: >-
+      Katerina Stikoudi
+    bio: >-
+      🎤, 📺 , 👠, 🐈, 💍. -KS💋 ▫️Νέο 🔥 single: ‘All In’ με Dj Stephan & Lil Pop⤵️
+    location: "Greece"
+    followers: 386494
+    engagement: 337
+    commentsToLikes: 0.041897
+    id: ck0u0jhcvtyup0i19r3s0vm1o
+    verified: true
+    hashtags: "#2021, #brandnew, #sexy, #instyle"
   - username: "logostimis_lt_koraki"
     fullname: >-
       Λόγος Τιμής-Λ.Τ (Κοράκι)⚫
     bio: >-
-      Logos Timis 2nd profile @crows_nest_koraki Official ® Latest track :
+      Logos Timis Official ® Latest track :
     location: "Greece"
-    followers: 81467
-    engagement: 2542
-    commentsToLikes: 0.007593
+    followers: 78754
+    engagement: 2630
+    commentsToLikes: 0.007452
     id: ckaoyqkapin1o0i7889iadyii
     verified: true
-    hashtags: ""
+    hashtags: "#slg, #nyxta, #rap, #hiphop"
   - username: "bitapeis"
     fullname: >-
       ΒΗΤΑ ΠΕΙΣ
     bio: >-
-      Μέχρι να πέσει και ο τελευταίος... @logos90 @hate_u_most @diform23
+      Μέχρι να πέσει και ο τελευταίος... αυτό είχαμε συμφωνήσει. 0.Μ.0023 @logos90 @hate_u_most @diform23
     location: "Greece"
-    followers: 16626
-    engagement: 1838
-    commentsToLikes: 0.003151
+    followers: 17627
+    engagement: 1893
+    commentsToLikes: 0.005433
     id: ck5pvebv7hgj30i111a9gqnfd
     verified: false
     hashtags: ""
-  - username: "zissis_live"
-    fullname: >-
-      Zissis Tsoubos
-    bio: >-
-      Concert photographer and stage diver from Athens Greece For booking DM me. ** find more of my photos at @zissistsoubos **
-    location: "Greece"
-    followers: 7644
-    engagement: 1671
-    commentsToLikes: 0.003122
-    id: ckaoqu2j0kee50i78h7m08yya
-    verified: false
-    hashtags: "#pocket, #noizproductions, #thehub, #mikroskleftis"
   - username: "novel_729"
     fullname: >-
       Novel 729 🗝
     bio: >-
       Ψυχή που δεν λυγίζει δεν βαστάει. @novel_729.merch
     location: "Greece"
-    followers: 41464
-    engagement: 3010
-    commentsToLikes: 0.008511
+    followers: 42597
+    engagement: 3087
+    commentsToLikes: 0.007557
     id: ck14j9znejap30i196u2cujce
     verified: false
-    hashtags: "#novel729, #skg"
+    hashtags: ""
   - username: "rationalistas_official"
     fullname: >-
       Rationalistas
     bio: >-
-      Merchandise:
+      RATIONALISTAS - ΠΙΣΩ ΤΑ ΠΑΝΤΑ
     location: "Greece"
-    followers: 5470
-    engagement: 1568
-    commentsToLikes: 0.004728
+    followers: 6280
+    engagement: 1615
+    commentsToLikes: 0.005062
     id: ckaoyqlozin810i78tlg1a2ts
     verified: false
-    hashtags: "#rationalistas, #skgduballiance, #respectthewest, #live"
+    hashtags: "#rationalistas, #respectthewest, #pisotapanta, #skgduballiance"
 ---

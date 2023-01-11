@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers TikTok Influencers In San Diego In 2022
+title: Top 10 Photographers TikTok Influencers In San Diego In 2023
 description: >-
-  Find top photographers TikTok influencers in San Diego in 2022. Most popular hashtags: #sandiego #fyp #photographer #foryoupage.
+  Find top photographers TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #sandiego #viral #photographer.
 platform: TikTok
-hits: 19
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in San Diego, United States for you to contact.
+hits: 24
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 24 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "sdchrisp"
+  - username: "chrispaetow"
     fullname: >-
       Chris Paetow
     bio: >-
       Photographer • San Diego, CA • Exploring SoCal’s hidden & unique locations!
     location: "United States"
-    followers: 4377
-    engagement: 697
-    commentsToLikes: 0.067187
+    followers: 4292
+    engagement: 868
+    commentsToLikes: 0.092064
     id: ckdt9pq4huc790j234jxk75pm
     verified: false
-    hashtags: "#foryoupage, #fyp, #viral, #lovestory"
-  - username: "dphotopro"
+    hashtags: "#2020, #viral, #foryoupage, #fyp"
+  - username: "ninthvision"
     fullname: >-
-      dphotopro
+      Jayden
     bio: >-
-      San Diego • Photographer • ACNH & Fortnite
+      Car Photographer in San Diego IG: ninthvision
     location: "United States"
-    followers: 131900
-    engagement: 1006
-    commentsToLikes: 0.032745
-    id: ckbqfyt2v1j8b0j238ixc0rlp
-    verified: false
-    hashtags: "#happyhalloween, #halloweenhorrorprincess, #halloweenhorrorprincesses, #showupshowoff"
-  - username: "teagan.maddux"
-    fullname: >-
-      Teagan
-    bio: >-
-      Outdoor adventure, landscape, and lifestyle photographer.
-    location: "United States"
-    followers: 4479
+    followers: 8742
     engagement: 1126
-    commentsToLikes: 0.045339
-    id: ck8f6dxoe2e7m0j78ms7mo3b7
+    commentsToLikes: 0.031763
+    id: ckcvisczgvzbo0j23ed6zoyw8
     verified: false
-    hashtags: "#vanlife, #california, #inspirational, #roadtrip"
-  - username: "heymattnguyen"
+    hashtags: "#homedecor, #stancenation, #trending, #porschegt3rs"
+  - username: "tati4realys"
     fullname: >-
-      Matthew Nguyen
+      Tatiana
     bio: >-
-      photographer/videographer digital media specialist san diego • 22
+      San Diego Photographer ig: @portraitsbytatiana
     location: "United States"
-    followers: 21200
-    engagement: 1095
-    commentsToLikes: 0.058748
-    id: ckd0vu3hnkbay0j23xxda8eqw
+    followers: 11600
+    engagement: 1001
+    commentsToLikes: 0.012622
+    id: ck92ygge92vgt0j78rzm33d2g
     verified: false
-    hashtags: "#daviddobrik, #justmakesense, #tesla, #prank"
-  - username: "alecbasanec"
-    fullname: >-
-      Alec
-    bio: >-
-      Giving Tik Tok a try 📍 San Diego, CA 📸 Photographer IG: @alec_basanec
-    location: "United States"
-    followers: 7359
-    engagement: 1911
-    commentsToLikes: 0.013569
-    id: cka1067s1iaio0i785sob53rn
-    verified: false
-    hashtags: "#sandiego, #tiktoktravel, #skateboarding, #skate"
-  - username: "wingrovestudiosphoto"
-    fullname: >-
-      Wingrove Studios
-    bio: >-
-      Dance & Movement Photographer / Portrait Studio located in San Diego.
-    location: "United States"
-    followers: 21500
-    engagement: 1706
-    commentsToLikes: 0.002762
-    id: ckc7nss4qtuza0j23i6w47cpn
-    verified: false
-    hashtags: "#circus, #dancer, #wingrovestudios, #balletphotography"
-  - username: "cakecapt"
-    fullname: >-
-      Lily Sensimilla
-    bio: >-
-      SanDiego 🌞 Insta: LilySensimilla
-    location: "United States"
-    followers: 30900
-    engagement: 1394
-    commentsToLikes: 0.019184
-    id: ck9shs2gpv0z90j787cejrdh3
-    verified: false
-    hashtags: "#indiangirl, #fyp, #foryoupage, #foryourpage"
+    hashtags: "#pregnant, #sandiegophotographer, #sandiego, #portraitsbytatiana"
   - username: "harimarjon"
     fullname: >-
       Harim Arjon
     bio: >-
       San Diego I’m cooler on Instagram, I promise
     location: "United States"
-    followers: 37100
-    engagement: 1543
-    commentsToLikes: 0.011322
+    followers: 39600
+    engagement: 1530
+    commentsToLikes: 0.012260
     id: ckbfbzlhy4dwm0j234j141zs0
     verified: false
-    hashtags: "#photoshop, #photography, #photograhy, #photomagic"
-  - username: "fitzpattymac21"
+    hashtags: "#photography, #artistoftiktok, #photoshop, #photomagic"
+  - username: "thecrazyadventurist"
     fullname: >-
-      Mason Leigh
+      Brian Blindauer
     bio: >-
-      Insta: @fitzpattymac21 ✖️ Venmo: Mase21 PO BOX 16685 San Diego, CA 92116
+      IG: @thecrazyadventurist Email: brianblindauer@hotmail.com
     location: "United States"
-    followers: 111900
-    engagement: 1319
-    commentsToLikes: 0.028759
-    id: ckcphg06nhhc00j236dxw0gul
+    followers: 25000
+    engagement: 1113
+    commentsToLikes: 0.039930
+    id: ck9ve0u36x4rg0j78wp1ee89k
     verified: false
-    hashtags: "#expressieyourself, #showupshowoff, #foryoupage, #smallbusinesscheck"
-  - username: "andrewisahi"
+    hashtags: "#roadtrip, #filmphotography, #landscapephotography, #nature"
+  - username: "alecbasanec"
     fullname: >-
-      Andrew
+      Alec
     bio: >-
-      Let’s be friends! 📸Photographer🎥 SoCal
+      📍 San Diego, CA 📸 Photographer IG: @alec_basanec
     location: "United States"
-    followers: 120100
-    engagement: 1968
-    commentsToLikes: 0.070922
-    id: ckbf3oj7mricj0j23qo7i37ye
+    followers: 27200
+    engagement: 1926
+    commentsToLikes: 0.013168
+    id: cka1067s1iaio0i785sob53rn
     verified: false
-    hashtags: "#problemsolved, #expressieyourself, #interiordesign, #beach"
+    hashtags: "#sandiego, #skateboarding, #tiktoktravel, #skate"
+  - username: "wingrovestudiosphoto"
+    fullname: >-
+      Wingrove Studios
+    bio: >-
+      Dance & Movement Photographer / Portrait Studio located in San Diego.
+    location: "United States"
+    followers: 21200
+    engagement: 1588
+    commentsToLikes: 0.007115
+    id: ckc7nss4qtuza0j23i6w47cpn
+    verified: false
+    hashtags: "#aerialsilks, #ballet, #dancephotography, #dancer"
+  - username: "froth.monster"
+    fullname: >-
+      Matt
+    bio: >-
+      Action sports Filmer and mountain bike racer. Ig: @froth.monster
+    location: "United States"
+    followers: 32700
+    engagement: 988
+    commentsToLikes: 0.031358
+    id: ckbl6y5ym4mkj0j2314u10zxm
+    verified: false
+    hashtags: "#fyp, #viral, #surf, #photographer"
+  - username: "viralcyril"
+    fullname: >-
+      viralcyril
+    bio: >-
+      Follow me for car and skate stuff :) Goal: 20k 🥰
+    location: "United States"
+    followers: 13600
+    engagement: 1112
+    commentsToLikes: 0.035850
+    id: ckcue2f1we5eq0j23g4k7buui
+    verified: false
+    hashtags: "#skatetok, #sk8, #jdm, #skater"
+  - username: "heymattnguyen"
+    fullname: >-
+      Matthew Nguyen
+    bio: >-
+      photographer/videographer digital media specialist streamer san diego • 22
+    location: "United States"
+    followers: 20700
+    engagement: 1162
+    commentsToLikes: 0.036456
+    id: ckd0vu3hnkbay0j23xxda8eqw
+    verified: false
+    hashtags: "#twitch, #tindertok, #justmakesense, #prank"
 ---

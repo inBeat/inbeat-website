@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Lifestyle TikTok Influencers In United Arab Emirates In 2023
 description: >-
-  Find top lifestyle TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #dubailife #tiktokdubai #foryou.
+  Find top lifestyle TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #lifestyle #foryou #fashion.
 platform: TikTok
-hits: 26
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 26 TikTok influencers like this in United Arab Emirates for you to pitch.
+hits: 24
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 24 TikTok influencers like this in United Arab Emirates for you to contact.
 profiles:
   - username: "akdoraztv"
     fullname: >-
-      اقدوره العنيزي 🏁❤
+      اقدوره العنيزي 👑 Akdora
     bio: >-
-      اقدوره العنيزي 🇱🇾 متسابق سيارات Akdora Racing Driver 🏁 Lifestyle in Dubai 👑
+      اقدوره العنيزي Akdora Racing Driver 🏁 Luxury Lifestyle 👑 Libyan in Dubai 🇱🇾
     location: "United Arab Emirates"
-    followers: 92400
-    engagement: 741
-    commentsToLikes: 0.044802
+    followers: 170200
+    engagement: 818
+    commentsToLikes: 0.036047
     id: ckcdtipwndwgl0j23i4f647le
     verified: false
-    hashtags: "#bmwe34, #subarusti, #bmwe36, #hatta"
-  - username: "shonidimpi"
-    fullname: >-
-      Dimps
-    bio: >-
-      Multitalented kudi ❤ Lifestyle Influencer Certified Mind Trainer and Life Coach✅
-    location: "United Arab Emirates"
-    followers: 268600
-    engagement: 1061
-    commentsToLikes: 0.031774
-    id: ck8f82g0d3cn20j788bxihk2r
-    verified: false
-    hashtags: "#foryou, #cbbcsale, #women, #smile"
-  - username: "dameshandbook"
-    fullname: >-
-      Rukku Sumayya
-    bio: >-
-      Message me on Insta.. lifestyle blogger www.adameshandbook.com
-    location: "United Arab Emirates"
-    followers: 5033
-    engagement: 1492
-    commentsToLikes: 0.032232
-    id: ckb9lh0fae2120j23yq3625mc
-    verified: false
-    hashtags: "#coronatime, #dubaiblogger, #coronam, #happyonam"
+    hashtags: "#subarusti, #toyotasupra, #r34, #paulwalker"
   - username: "leanneeverett"
     fullname: >-
       Leanne Everett
     bio: >-
       لِيان Fashion/Beauty/Lifestyle Creator/Model Follow all my social media😘
     location: "United Arab Emirates"
-    followers: 70900
-    engagement: 560
-    commentsToLikes: 0.068721
+    followers: 74700
+    engagement: 484
+    commentsToLikes: 0.063764
     id: ck81s14qwp99s0j78q7unea3a
     verified: false
-    hashtags: "#fameopportunity, #thisstyle, #fyp, #tuckinyourshirt"
+    hashtags: "#fashionstatement, #itsallinthedetails, #2021colors, #101"
   - username: "treshabck"
     fullname: >-
       Tresha Bucktowsing
     bio: >-
       Insta: Tresha.bucktowsing Frenchie in Dubai #food #fashion #travel #lifestyle
     location: "United Arab Emirates"
-    followers: 5529
-    engagement: 745
-    commentsToLikes: 0.032411
+    followers: 5483
+    engagement: 733
+    commentsToLikes: 0.031460
     id: ckaupn4enurhi0j23pakpobqy
     verified: false
-    hashtags: "#fypage, #dubailife, #pourtoii, #latino"
+    hashtags: "#virall, #dubailife, #model, #fashion"
   - username: "karina_kuckoo"
     fullname: >-
       Karina Kuckoo
     bio: >-
       Dubai 🇦🇪 Lifestyle|Beauty|Fashion Follow my IG @karina_kuckoo
     location: "United Arab Emirates"
-    followers: 37500
-    engagement: 1081
-    commentsToLikes: 0.035244
+    followers: 36900
+    engagement: 1044
+    commentsToLikes: 0.034315
     id: ck9enx5roli9y0j78ih5tkhpk
     verified: false
-    hashtags: "#todayoutfit, #quarantinelife, #myquaratinetime, #outfitidea"
-  - username: "missmimifashion"
+    hashtags: "#dubailife, #tiktokdubai, #outfitidea, #dubai"
+  - username: "aminatibi"
     fullname: >-
       Amina Tibi
     bio: >-
       Fashion | Beauty | Lifestyle Here for fun 💃🏻 IG @missmimifashion
     location: "United Arab Emirates"
-    followers: 15100
-    engagement: 438
-    commentsToLikes: 0.020018
+    followers: 15200
+    engagement: 431
+    commentsToLikes: 0.019167
     id: cka0mtq1fwrnc0i78ubrzim5z
     verified: false
-    hashtags: "#foryou, #dubai, #pregnantstyle, #tiktokarabia"
-  - username: "robjsharpe"
+    hashtags: "#pregnantstyle, #fyp, #dubai, #pregnantfashion"
+  - username: "rukkusumayya"
     fullname: >-
-      Robert Sharpe
+      Rukku Sumayya
     bio: >-
-      Fitness | fashion | Lifestyle ⬇️FREE Train Plan ⬇️
+      Lifestyle blogger. Malayali.Top 30 blogs in UAE Follow my Insta @rukkusumayya
     location: "United Arab Emirates"
-    followers: 19300
-    engagement: 343
-    commentsToLikes: 0.015058
-    id: ckbfgat83bevo0j23ueqingf2
+    followers: 6817
+    engagement: 493
+    commentsToLikes: 0.029457
+    id: ckb9lh0fae2120j23yq3625mc
     verified: false
-    hashtags: "#fitnesstips, #challenge, #tiktokuk, #trainingtips"
+    hashtags: "#catchmeoninstagram, #dubaiblogger, #valentinesday2021, #dubai"
   - username: "kriskrsticfit"
     fullname: >-
       Kristina Krstic
     bio: >-
       Certified Fitness Trainer 📍 Abu Dhabi 🇦🇪
     location: "United Arab Emirates"
-    followers: 3944
-    engagement: 1246
-    commentsToLikes: 0.054452
+    followers: 3902
+    engagement: 1186
+    commentsToLikes: 0.050432
     id: ckav3sshka5bx0j23ub63259j
     verified: false
-    hashtags: "#abs, #fatloss, #personaltrainerabudhabi, #fitness"
-  - username: "lanabeautyicon"
+    hashtags: "#fitness, #tiktokuae, #justdoit, #caloriedeficit"
+  - username: "desertsafari971504102786"
     fullname: >-
-      Lanabeautyicon
+      Choudhrysafaridxb
     bio: >-
-      
+      I am thankful to my lovers who watch N love my video 😍🌹🌹🌹❤️❤️
     location: "United Arab Emirates"
-    followers: 12600
-    engagement: 641
-    commentsToLikes: 0.024402
-    id: ckacb4952hbru0i78e7ltkhfa
+    followers: 12500
+    engagement: 410
+    commentsToLikes: 0.065004
+    id: ckb9rfx67nwqm0j23yyevah2c
     verified: false
-    hashtags: "#luxurycars, #fitgirl, #crazygirl, #luxurylife"
+    hashtags: "#my, #super, #choudhrymunawar, #hain"
+  - username: "sulaiman1009"
+    fullname: >-
+      ❤️Sulaiman Khan❤️
+    bio: >-
+      From 🇵🇰 📍🇦🇪 Transport Incharge At Marwan Pgr Transport Dubai Kpk Buner 🐍.
+    location: "United Arab Emirates"
+    followers: 20700
+    engagement: 603
+    commentsToLikes: 0.035345
+    id: ck9e3tyqhl4n80j78c23l4mml
+    verified: false
+    hashtags: "#emirats, #uae, #tourism, #dubai"
+  - username: "ranaking242"
+    fullname: >-
+      Rana Ashir
+    bio: >-
+      I am, indeed, a king, because I know how to rule myself.
+    location: "United Arab Emirates"
+    followers: 16500
+    engagement: 1220
+    commentsToLikes: 0.008487
+    id: cka9llb0z2qqr0i78wq1y06i1
+    verified: false
+    hashtags: "#pakistan, #moulanatariqjameelsahab, #gloriajeanscoffees, #mydubai"
 ---

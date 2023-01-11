@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In United Kingdom In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in United Kingdom in 2022. Most popular hashtags: #tattoo #inked #tattoos #art.
+  Find top tattoo-artists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #tattoo #tattoos #inkedmag #blackandgrey.
 platform: Instagram
-hits: 180
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 180 Instagram influencers like this in United Kingdom for you to work with.
+hits: 140
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 140 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "maya_gat"
-    fullname: >-
-      Maya Gat Tattoos 🌿 מיה גת
-    bio: >-
-      Tattoo artist & painter • Tel Aviv •Working at @rom_studio •Bookings via email only -mayagat.tattoos@gmail.com Make tea not war 🍵✨
-    location: "United Kingdom"
-    followers: 11799
-    engagement: 1089
-    commentsToLikes: 0.069054
-    id: ckf5mm1zkufzc0j23pzpw6z21
-    verified: false
-    hashtags: "#requiemforadream"
-  - username: "scottartist"
-    fullname: >-
-      Scott Artist
-    bio: >-
-      📍West Midlands UK 🇬🇧 • portrait artist/tattoo artist 💉✍🏼 • film & tv 🎥 • prints available (DM) • Commissions closed ❌
-    location: "United Kingdom"
-    followers: 7519
-    engagement: 358
-    commentsToLikes: 0.091622
-    id: ck8tdjo6j3l150j789emfsyrm
-    verified: false
-    hashtags: "#instaart, #ink, #artists, #tattoos"
   - username: "thomascarlijarlier"
     fullname: >-
       Thomas Carli jarlier
     bio: >-
-      Tattoo artist, owner of @noireinkcarligallery @noireinkcollective @tattoodo BOOKING ARE CLOSED, Only answering to emails while bookings are open!!!
+      Tattoo artist, owner of @noireinkfrance - CLERMONT-FERRAND 🇫🇷 @noireinklondon - LONDON Realism/Abstract Realism
     location: "United Kingdom"
-    followers: 388824
-    engagement: 242
-    commentsToLikes: 0.017908
+    followers: 448028
+    engagement: 140
+    commentsToLikes: 0.014065
     id: ck15puamyznrx0i19z5bqwza4
     verified: false
-    hashtags: "#thomascarlijarlier, #nethacreation, #noireinkset, #tattooed"
-  - username: "jackpeppiette"
+    hashtags: "#blackandgrey, #sunskinthomascarlijarliersignature, #realistictattoo, #carligallery"
+  - username: "maya_gat"
     fullname: >-
-      Jack Peppiette
+      Maya Gat Tattoos 🌿 מיה גת
     bio: >-
-      Tattoo Artist - Edinburgh @insidertattoo - For appointments please email jackpeppiette@gmail.com
+      Tattoo artist & painter • Tel Aviv •Working at @rom_studio Booking will open again soon 🧡 •Bookings via email only-mayagat.tattoos@gmail.com
     location: "United Kingdom"
-    followers: 160838
-    engagement: 450
-    commentsToLikes: 0.008906
-    id: ck6tkv98j5gxd0j71bgz50wsn
+    followers: 20207
+    engagement: 772
+    commentsToLikes: 0.069048
+    id: ckf5mm1zkufzc0j23pzpw6z21
     verified: false
-    hashtags: "#mandala, #uktta, #tattoolife, #dotworkers"
-  - username: "aimeecornwelltattoo"
+    hashtags: "#tattoos, #tatts, #tattooideas, #tattooed"
+  - username: "scottartist"
     fullname: >-
-      Aimée Cornwell
+      •S C O T T • A R T I S T•
     bio: >-
-      Tattoo artist working from my small farm in Llandeilo, Wales🏴󠁧󠁢󠁷󠁬󠁳󠁿 For tattoo and artwork commissions ~aimeetattoos@gmail.com @peggweggyforaging 🍄👁🍄
+      ▪️ West Midlands UK 🇬🇧 ▪️ portrait and tattoo artist ✍🏼💉 ▪️ represented by @buzz_talent_ 📸 🎭 ▪️ film & tv 🎥
     location: "United Kingdom"
-    followers: 126098
-    engagement: 430
-    commentsToLikes: 0.010474
-    id: ck55p54gk9tuc0i1130auy526
+    followers: 9022
+    engagement: 371
+    commentsToLikes: 0.134057
+    id: ck8tdjo6j3l150j789emfsyrm
     verified: false
-    hashtags: "#blackandgrey, #tattooideas, #tattooedgirls, #girlswithtattoos"
-  - username: "jordancroketattoo"
-    fullname: >-
-      Jordan Croke
-    bio: >-
-      Tattoo Artist. Derby, United Kingdom 🇬🇧 SANG REAL Tattoo Co. All Booking Enquiries: Jordancroketattoo@gmail.com
-    location: "United Kingdom"
-    followers: 62382
-    engagement: 187
-    commentsToLikes: 0.028292
-    id: ck6tojo8geg3v0j71vee25xyv
-    verified: false
-    hashtags: "#eternalink, #inkjecta, #barberdts, #sangrealarmy"
+    hashtags: "#pen, #drawing, #artinstagram, #realisticdrawing"
   - username: "katysars"
     fullname: >-
       KATY SARS
     bio: >-
       Tattoo artist. Up north. Sagittarius. 🌙 Studio IX, Manchester. Sponsored by @butterluxe_uk
     location: "United Kingdom"
-    followers: 10898
-    engagement: 396
-    commentsToLikes: 0.057881
+    followers: 11251
+    engagement: 404
+    commentsToLikes: 0.063267
     id: ck5zqi2h2un420i14i23ytfbt
     verified: false
-    hashtags: "#work, #portrait, #neotradsub, #neotrad"
+    hashtags: "#ukta, #neotradeu, #killerinktattoo, #neotradsub"
+  - username: "jackpeppiette"
+    fullname: >-
+      Jack Peppiette
+    bio: >-
+      Tattoo Artist - Edinburgh @insidertattoo - For appointments please email jackpeppiette@gmail.com
+    location: "United Kingdom"
+    followers: 160073
+    engagement: 310
+    commentsToLikes: 0.010116
+    id: ck6tkv98j5gxd0j71bgz50wsn
+    verified: false
+    hashtags: "#tattoolife, #totaltattoo, #tttism, #blxckink"
   - username: "emmabundonis_tattoo"
     fullname: >-
       emmabundonis
     bio: >-
       Tattoo artist at Through My Third Eye in London, UK. For all enquires please Email: throughmythirdeye@outlook.com
     location: "United Kingdom"
-    followers: 18984
-    engagement: 357
-    commentsToLikes: 0.023985
+    followers: 19361
+    engagement: 370
+    commentsToLikes: 0.026639
     id: ck14h61n58ppq0i19x2aq7dd7
     verified: false
-    hashtags: "#tattoo, #berlin, #emmabundonistattoo, #oneononeberlin"
-  - username: "tomftattoo"
+    hashtags: "#berlin, #blackandgreytattoo, #emmabundonistattoo, #geometrictattoo"
+  - username: "jordancroketattoo"
     fullname: >-
-      Tom Farrow
+      Jordan Croke
     bio: >-
-      Tattoo Artist @inkjecta @fusion_ink @killerinktattoo Based at @exiletattoo.leighonsea @six_bullets_tattoo Email/bookings: tomftattoo@gmail.com
+      Tattoo Artist. Derby, United Kingdom 🇬🇧 SANG REAL Tattoo Co. All Booking Enquiries: Jordancroketattoo@gmail.com
     location: "United Kingdom"
-    followers: 71722
-    engagement: 168
-    commentsToLikes: 0.023585
-    id: ck5hfr15ryvp60i11jkn9vkds
+    followers: 62304
+    engagement: 164
+    commentsToLikes: 0.023449
+    id: ck6tojo8geg3v0j71vee25xyv
     verified: false
-    hashtags: ""
+    hashtags: "#barberdts, #inkjecta, #eternalink, #sangrealarmy"
   - username: "volkantattooz"
     fullname: >-
       volkan demirci
     bio: >-
       Tattoo Artist, London 🇬🇧 ,⚜️h2ocean ⚜️worldfamousink ⚜️ inkjecta 📩 volkantattooz@gmail.com #volkantattooz
     location: "United Kingdom"
-    followers: 34234
-    engagement: 190
-    commentsToLikes: 0.028677
+    followers: 34285
+    engagement: 178
+    commentsToLikes: 0.029997
     id: ck0ud0vv0i2ys0i19f37jnlbx
+    verified: false
+    hashtags: ""
+  - username: "tomftattoo"
+    fullname: >-
+      Tom Farrow
+    bio: >-
+      Tattoo Artist @inkjecta @fusion_ink @killerinktattoo Based at @exiletattoo.leighonsea @six_bullets_tattoo Email/bookings: tomftattoo@gmail.com
+    location: "United Kingdom"
+    followers: 72227
+    engagement: 181
+    commentsToLikes: 0.022915
+    id: ck5hfr15ryvp60i11jkn9vkds
+    verified: false
+    hashtags: "#skinartmag, #blackandgreytattoo, #realistictattoo, #tattooedcommunity"
+  - username: "chiyo.fx"
+    fullname: >-
+      
+    bio: >-
+      ♥ Tattoo Artist - @chiyo.tattoo ♥ Lingerie Enthusiast ♥ Enquire : chiyofx@outlook.com
+    location: "United Kingdom"
+    followers: 8972
+    engagement: 683
+    commentsToLikes: 0.025107
+    id: ck5bv4zhlj05v0i11hirh5hf0
     verified: false
     hashtags: ""
 ---

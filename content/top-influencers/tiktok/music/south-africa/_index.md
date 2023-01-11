@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In South Africa In 2022
+title: Top 10 Music TikTok Influencers In South Africa In 2023
 description: >-
-  Find top music TikTok influencers in South Africa in 2022. Most popular hashtags: #comedy #duet #fyp #music.
+  Find top music TikTok influencers in South Africa in 2023. Most popular hashtags: #southafrica #music #comedy #duet.
 platform: TikTok
-hits: 54
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 54 TikTok influencers like this in South Africa for you to work with.
+hits: 58
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 58 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "herc1987"
     fullname: >-
       💫 Herc1987 - Richard 💫
     bio: >-
-      Richard 🇿🇦 Married👨‍👩‍👧‍👦Music🎶Good Vibes🌍 Comedy🤪 💫Be The Change💫
+      Richard 🇿🇦 Married👨‍👩‍👧‍👦 Music🎶 Dance 💫 Acting Bits 💫 Keep Sailing💫
     location: "South Africa"
-    followers: 16900
-    engagement: 1760
-    commentsToLikes: 0.387448
+    followers: 23200
+    engagement: 2430
+    commentsToLikes: 0.499273
     id: ckd6ec09h5vo20j234fq9i4ca
     verified: false
-    hashtags: "#friends, #simpledance, #keepsmiling, #comedy"
+    hashtags: "#moulinrouge, #dance, #herc1987, #comedy"
   - username: "sketchybongo"
     fullname: >-
       Sketchy Bongo
     bio: >-
-      South African dj and music producer.
+      ZA musician. Sketchy Bongo, Jimmy Nevis, Emtee - The Moment👇
     location: "South Africa"
-    followers: 10200
-    engagement: 1344
-    commentsToLikes: 0.062753
+    followers: 17300
+    engagement: 951
+    commentsToLikes: 0.057078
     id: cka6mwlk991940i786sop5c78
     verified: true
-    hashtags: "#aesthetics, #party, #crowd, #duet"
+    hashtags: "#tiktokmusicfestival, #musicmachine, #celebrateeaster, #oysters"
   - username: "eugene.zeelie"
     fullname: >-
-      Eugene Zeelie🃏😏
+      Eugene Zeelie😏
     bio: >-
-      GOD FIRST 🇿🇦Musician, Joker🃏 Complete songs on Soundcloud
+      GOD FIRST 🇿🇦Musician, Joker🃏 ⬇️ Clothing Store ⬇️
     location: "South Africa"
-    followers: 172100
-    engagement: 1397
-    commentsToLikes: 0.053818
+    followers: 211600
+    engagement: 1182
+    commentsToLikes: 0.069029
     id: ck9f31b2ffote0j78siajr052
     verified: true
-    hashtags: "#stitch, #influencersacomedy, #viral, #trend"
+    hashtags: "#fyp, #comedy, #viral, #duet"
+  - username: "katemusic25"
+    fullname: >-
+      Kate Music
+    bio: >-
+      • 24 • Insta ↗️ • 🏳️‍🌈 (L)GBTQ+ 🇿🇦 • Music Artist - Click the Link ⬇️
+    location: "South Africa"
+    followers: 23800
+    engagement: 1707
+    commentsToLikes: 0.024161
+    id: ckb9k8cmic0vq0j23w8rzrhq2
+    verified: false
+    hashtags: "#lesbian, #puertorico, #lgbtq, #latina"
   - username: "__ohsodandy_"
     fullname: >-
       kiara.a.dandridge
     bio: >-
       21 Vibes on good music, good fashion Sews as well Art too 🇿🇦
     location: "South Africa"
-    followers: 11500
-    engagement: 1682
-    commentsToLikes: 0.027734
+    followers: 11600
+    engagement: 1605
+    commentsToLikes: 0.026421
     id: ckav3zycnad8w0j23grzfftv1
     verified: false
-    hashtags: "#photoshoot, #transition, #fashion, #outfits"
+    hashtags: "#fashiontok, #transition, #fashiondesignstudent, #30daysofoutfits"
   - username: "casspernyovest"
     fullname: >-
       R.M Phoolo
     bio: >-
       South African Musician.
     location: "South Africa"
-    followers: 356700
-    engagement: 642
-    commentsToLikes: 0.014023
+    followers: 420500
+    engagement: 620
+    commentsToLikes: 0.014535
     id: ckb9pq0z8l3350j23jrqqst7t
     verified: true
-    hashtags: "#casspernyovest, #comedy, #cyrilramaphosa, #nokthula"
+    hashtags: "#nokthulagalaxychallenge, #southafrica, #cyrilramaphosa, #nokthula"
+  - username: "jubjub_1"
+    fullname: >-
+      Jub Jub
+    bio: >-
+      Musician | Actor | Host | Motivational Speaker | Entrepreneur | God’s Child
+    location: "South Africa"
+    followers: 114800
+    engagement: 529
+    commentsToLikes: 0.016333
+    id: ckbaq6w1iguhg0j23c47ewece
+    verified: false
+    hashtags: "#uyajola99, #jubsundays, #ndikhokheleremixchallenge, #jubjub"
+  - username: "mseventydeeteersa"
+    fullname: >-
+      @MseventyDeeTee
+    bio: >-
+      Musician | Sound Engineer | Content Creator 😎
+    location: "South Africa"
+    followers: 34100
+    engagement: 213
+    commentsToLikes: 0.035875
+    id: ckbbmmktnaqwc0j232ptvipfz
+    verified: false
+    hashtags: "#yesidothecleaning, #tiktokmzansi, #music, #ambitiouz"
   - username: "thabangmolaba_"
     fullname: >-
       ThabangMolaba_
     bio: >-
       Actor | Musician | Digital Entrepreneur
     location: "South Africa"
-    followers: 9107
-    engagement: 1155
-    commentsToLikes: 0.016778
+    followers: 10400
+    engagement: 1107
+    commentsToLikes: 0.015066
     id: ckbbw04tajbil0j235kh2kfsu
     verified: false
-    hashtags: "#ingagara, #pantsula, #litty, #themepark"
-  - username: "iam_sio"
+    hashtags: "#meanwhile, #drip, #cigg, #class"
+  - username: "itsscandss"
     fullname: >-
-      Sio
+      Candice ;)
     bio: >-
-      i am a storyteller my songs say so... Stream my new single ALL SOUL 👇🏽
+      idk anymore
     location: "South Africa"
-    followers: 4672
-    engagement: 1624
-    commentsToLikes: 0.041317
-    id: ckc92ijm8t2c40j23loxlqbht
-    verified: false
-    hashtags: "#relationships, #foryou, #fyp, #music"
-  - username: "vipey_06"
-    fullname: >-
-      Esmarie hamman
-    bio: >-
-      ☠︎︎𝑭𝒐𝒍𝒍𝒐𝒘 𝑰𝑮 𝑨𝒃𝒐𝒗𝒆☠︎︎ ✌︎𝐼𝑡 𝑖𝑧 𝑤ℎ𝑎𝑡 𝑖𝑡 𝑖𝑧✌︎
-    location: "South Africa"
-    followers: 6752
-    engagement: 1160
-    commentsToLikes: 0.048312
-    id: ck9f41kp6kc5y0j78bn3agtyy
-    verified: false
-    hashtags: "#xyzbca, #comedy, #feels, #foryoupage"
-  - username: "unqonqoshe"
-    fullname: >-
-      Follow me back 🙏💯
-    bio: >-
-      I'm interested in great content, laughs and extraordinary talent 💯🇿🇦🙏
-    location: "South Africa"
-    followers: 133900
-    engagement: 531
-    commentsToLikes: 0.036785
-    id: ckb9pe3qrk81o0j23vcktqbqc
-    verified: false
-    hashtags: "#foryoupage, #viral, #mzansifun, #comedy"
-  - username: "dannmace"
-    fullname: >-
-      Dan Mace
-    bio: >-
-      Film Director - Youtuber - @Dannmace Full videos on my YouTube
-    location: "South Africa"
-    followers: 195200
-    engagement: 1839
-    commentsToLikes: 0.010362
-    id: ck81q3w77fpsl0j78vshzaler
-    verified: false
-    hashtags: "#seeingsounds, #foryou, #music, #fyp"
+    followers: 179800
+    engagement: 1704
+    commentsToLikes: 0.023511
+    id: ck978grmd7wvg0j78yyqurpn3
+    verified: true
+    hashtags: "#aesthetic, #photocrop, #vibes, #music"
 ---

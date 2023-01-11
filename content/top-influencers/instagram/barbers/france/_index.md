@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In France In 2022
+title: Top 10 Barbers Instagram Influencers In France In 2023
 description: >-
-  Find top barbers Instagram influencers in France in 2022. Most popular hashtags: #barber #barbershop #thebarberpost.
+  Find top barbers Instagram influencers in France in 2023. Most popular hashtags: #barber #barbershop #barbers #fadegame.
 platform: Instagram
-hits: 135
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 135 Instagram influencers like this in France for you to collaborate.
+hits: 141
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 141 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "sael_timall"
+    fullname: >-
+      👾. Saël .👾
+    bio: >-
+      📍Paris📍 E-mail : saeldominique@yahoo.com Compte de secours : @sael_timall_secoure Barber💈: @barber_touch Compte de sport : @sael_bikz
+    location: "France"
+    followers: 10194
+    engagement: 4813
+    commentsToLikes: 0.021920
+    id: ckf5wdld6rpo10j239lin3yew
+    verified: false
+    hashtags: "#reels, #explore, #tismeycurlyhair, #teinturecheveveux"
   - username: "caiolas_barber"
     fullname: >-
       Mika Caiolas
     bio: >-
-      💈 @barber_factory ✂️ sponsored by @babylisspro_eu 📩 Caiolas.m@hotmail.fr —- for an appointment 👇🏻—-
+      💈 @barber_factory ✂️ sponsored by @babylisspro_eu 📩 Caiolas.m@hotmail.fr TIKTOK : caiolas_barber / for an appointment 👇🏻/
     location: "France"
-    followers: 54127
-    engagement: 291
-    commentsToLikes: 0.023841
+    followers: 53609
+    engagement: 290
+    commentsToLikes: 0.022468
     id: ck1363cxm4k8z0i19q3h6laiz
     verified: false
-    hashtags: "#barber, #mashiro, #picoftheday, #manicpanic"
-  - username: "bilal.19_"
+    hashtags: "#barbershop, #caio, #manicpanic, #color"
+  - username: "nando.quaranta_barber"
     fullname: >-
-      Bilal
+      Nando Quaranta
     bio: >-
-      Owner —> @barber.nariko Co-founder —> @blaze_agency
+      Barber 🇮🇹 International Champion 🏆 @Barbermatch Sede Aversa @labarbieriadelseggio Ambassador @barberapp.official Co_partner @luigididomenic
     location: "France"
-    followers: 37921
-    engagement: 506
-    commentsToLikes: 0.013497
-    id: ck5ca7bnxcueq0i11kv0oi9cs
+    followers: 56055
+    engagement: 297
+    commentsToLikes: 0.017196
+    id: ck5byp2napkdc0i117bx1abfi
     verified: false
-    hashtags: "#finale"
-  - username: "johan_akan_off"
+    hashtags: "#napoli, #razorfade, #calcio, #barber"
+  - username: "fardin_madani_"
     fullname: >-
-      Johan Akan
+      فردین مدنی
     bio: >-
-      Johan . Barber | Paris 💇🏻‍♂️💇‍♂️💇🏽‍♂️💇🏿‍♂️ 👻 SNAP: jojobelek2020 ONLYFANS ACCOUNT .com/johan_akan Aka Nyx Ulric ⚔️ Ally. ✊🏿✊✊🏽✊🏼
+      💥💥My wishes come true soon💥💥 💈💈💈💈💈 #Barber #Barberqom #hair #hairstyles #hairstylist #hairperfect #fade #fadehaircut #fademaster +989198516442
     location: "France"
-    followers: 44670
-    engagement: 305
-    commentsToLikes: 0.008389
-    id: ckf5mkiw8u8he0j23oozr4rv8
+    followers: 3423
+    engagement: 1107
+    commentsToLikes: 0.161782
+    id: ck9whyhhg01cj0j78rrcnjr3l
     verified: false
-    hashtags: "#jak"
-  - username: "farshad_salimi7"
+    hashtags: "#middlefade, #menshair, #menspire, #barberqom"
+  - username: "obi_one__tattoo"
     fullname: >-
-      farshad
+      Obi One Tattoo
     bio: >-
-      💈Mr Barber💈 💈Barber shop💈 💈Haircut.Style.creatine. 💈 💈Face Cleansing.Grimm 💈 Sirjan_ Kh.khajo ✂Fully vip✂
+      🇫🇷➡️pro team: - @barbernorthstar @barber_dts - @eternalink - @tatsoul - @criticaltattoosupply - @the.cross.lifestyle ➡️owner of @timelessartcrew
     location: "France"
-    followers: 3566
-    engagement: 1413
-    commentsToLikes: 0.064997
-    id: ckf5mmyjiukqu0j23s5p9mhml
+    followers: 25533
+    engagement: 572
+    commentsToLikes: 0.065512
+    id: ckap57jupaizq0i78fwmmnv9w
     verified: false
-    hashtags: ""
+    hashtags: "#tattooaddict, #blackandgreytattoo, #paristattoo, #animaltattoo"
+  - username: "lenfant__"
+    fullname: >-
+      LRLV
+    bio: >-
+      #470 💈 • @vienspecho_barber 🎙️ • @incomparvble__
+    location: "France"
+    followers: 103
+    engagement: 179607
+    commentsToLikes: 0.046614
+    id: ck6tn3ruj92rp0j7132tr1j24
+    verified: false
+    hashtags: "#trump, #lereglement, #putaindepoque, #1minute2rap"
   - username: "bledbarber"
     fullname: >-
       European In Canada 🇦🇱🇨🇦📍
     bio: >-
       MASTER BARBER PROPRIÉTAIRE DES BARBERSHOPS BLEDART à Ste-Foy et Stoneham💈prenez rendez-vous sur le site ici👇🏼
     location: "France"
-    followers: 17950
-    engagement: 122
-    commentsToLikes: 0.045245
+    followers: 17781
+    engagement: 119
+    commentsToLikes: 0.060265
     id: ck5znjc0yokwg0i14tabbjxib
     verified: false
-    hashtags: "#bledbarber, #barbershop, #fjwatches, #barber"
+    hashtags: "#styleblogger, #fjwatches, #barbershop, #barber"
+  - username: "yanielbarber"
+    fullname: >-
+      𝐒𝐂𝐀𝐋𝐏 𝐌𝐈𝐂𝐑𝐎𝐏𝐈𝐆𝐌𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍
+    bio: >-
+      • Consultas | Consultations DM📥 • 𝐒𝐌𝐏 𝐀𝐫𝐭𝐢𝐬𝐭 #scalpmicropigmentation 🖊 • 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 #barber 💈 @yanielmicro • 𝐍𝐞𝐰 𝐘𝐨𝐫𝐤📍 #newyork 🇺🇸|🇩🇴
+    location: "France"
+    followers: 33116
+    engagement: 72
+    commentsToLikes: 0.050122
+    id: ck5c6etxw5ajn0i11dfvoumei
+    verified: false
+    hashtags: "#hairloss, #hairlinetattoo, #skinfade, #hairline"
   - username: "jufthebarber"
     fullname: >-
       Julián Fuenmayor ✂️🔥🇻🇪
     bio: >-
-      Professional Barber 🇻🇪 Hay niveles 🔝🔥🚀 Citas y consultas al Dm📱 TAG #jufthebarber #estilolibr
+      Professional Barber 🇻🇪 Hay niveles 🔝🔥🚀 Citas y consultas al Dm📱
     location: "France"
-    followers: 29353
-    engagement: 136
-    commentsToLikes: 0.094495
+    followers: 29198
+    engagement: 110
+    commentsToLikes: 0.108081
     id: ck15uc2x4mf6w0i19y1fregmz
     verified: false
-    hashtags: "#junitoelbarber, #addictedtodopecutz, #bookorview, #barberlife"
-  - username: "barbershop_lecorner"
+    hashtags: "#crispylineup, #addictedtodopecutz, #caracascity, #sharpfade"
+  - username: "theladiesonwheels"
     fullname: >-
-      Le Corner Barbershop
+      Biker Girls 🇵🇹🇧🇷
     bio: >-
-      💈1st Barber Sud Essonne 💈 🕙Ouvert de 10h/20h🕗 ☎️ 01 69 90 07 08 FB: Barbershop Le Corner 👻 barber.corner contact@barbershop-le-corner.fr
+      🏍 Zx10R KRT 2020 ➕ MT125 2020 📍 Paris / From 🇧🇷🇵🇹 💈 Barber ✂️ ✏️👕Stickers and Custom 👉🏻@blacksheepstickers4u👈🏻 ⬇️ Watch my channel ⬇️7k 🔐 10k 🔓
     location: "France"
-    followers: 5619
-    engagement: 159
-    commentsToLikes: 0.006674
-    id: ck5c74cz66s9t0i11cyi59xgi
+    followers: 24867
+    engagement: 129
+    commentsToLikes: 0.019598
+    id: ckf5t55ddgyq00j23n039ignw
     verified: false
-    hashtags: ""
-  - username: "hairtist_paris"
-    fullname: >-
-      Adrien Thomas 🇫🇷
-    bio: >-
-      💈 •Barber | •Formateur 📩 •Hairtist776@gmail.com 🎥 •⤵️⤵️⤵️
-    location: "France"
-    followers: 210797
-    engagement: 511
-    commentsToLikes: 0.011028
-    id: ck5c65jve4rm10i11t5jpqeau
-    verified: false
-    hashtags: "#thebarberpost, #fade, #hairstyle, #barber"
-  - username: "barber.nariko"
-    fullname: >-
-      Barber Nariko 🇫🇷
-    bio: >-
-      💈 Barber Shop 💈 🚊ligne 11 porte des Lilas (à 100 mètres du salon) ☎️01.42.00.88.93 👇Réservez en ligne 24h/24
-    location: "France"
-    followers: 27336
-    engagement: 376
-    commentsToLikes: 0.021282
-    id: ck5ca7drtcuja0i11tg6v1ajt
-    verified: false
-    hashtags: "#barbernariko, #neymar, #hairstyle, #haircolor"
-  - username: "criminal__barber"
-    fullname: >-
-      Vittorio Saccá ItalianBarber🇮🇹
-    bio: >-
-      GUYS, WE START A NEW ADVENTURE💈🇮🇹 ⭕ AMBASSADOR ⭕ @babylisspro_eu
-    location: "France"
-    followers: 73128
-    engagement: 74
-    commentsToLikes: 0.008564
-    id: ck5zrbo7vwa3t0i14a5knrt4z
-    verified: false
-    hashtags: "#menshairstyle, #hairstylesformen, #italianstyle, #newstyle"
+    hashtags: "#superbikers, #kawasakimotors, #superbikesgram, #2wheels"
 ---

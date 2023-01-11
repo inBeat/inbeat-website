@@ -1,132 +1,132 @@
 ---
-title: Top 10 TikTok Influencers In United States In 2022
+title: Top 10 TikTok Influencers In United States In 2023
 description: >-
-  Find top TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryoupage #foryou #duet.
+  Find top TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
-hits: 130272
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 130272 TikTok influencers like this in United States for you to connect with.
+hits: 124515
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 124515 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "jakechamseddine"
     fullname: >-
       Jake Chamseddine 
     bio: >-
-      Usually at a concert, always with a camera What’s up nerds
+      Photographer/twitch partner 35k? ⬇️Come say hey nerds⬇️
     location: "United States"
-    followers: 30900
-    engagement: 2417
-    commentsToLikes: 0.031167
+    followers: 30200
+    engagement: 1859
+    commentsToLikes: 0.051004
     id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: "#travel, #photo, #xyzbca, #photography"
+    hashtags: "#patd, #photo, #photography, #fyp"
   - username: "robrast"
     fullname: >-
       Rob Rast
     bio: >-
-      Wild and Free in San Diego Insta & YT here 👆
+      Posting a new joke every day for 30 days Insta & YT here 👆
     location: "United States"
-    followers: 20200
-    engagement: 681
-    commentsToLikes: 0.027534
+    followers: 20700
+    engagement: 708
+    commentsToLikes: 0.040127
     id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
+    hashtags: "#joke, #skate, #jokes, #standup"
   - username: "amberscloset33"
     fullname: >-
       AmbersCloset33
     bio: >-
       Just a weirdo from YouTube & IG @AmbersCloset
     location: "United States"
-    followers: 8505
-    engagement: 1246
-    commentsToLikes: 0.030018
+    followers: 256400
+    engagement: 1182
+    commentsToLikes: 0.013664
     id: ckbfens788w850j23trusgv3z
     verified: false
-    hashtags: "#moodflip, #lesbiantiktok, #vote, #inspirational"
-  - username: "carolines_music"
+    hashtags: "#lesbian, #masclesbians, #pride2021, #foryoupage"
+  - username: "brycampion"
     fullname: >-
-      CAROLINE
+      brycampion
     bio: >-
-      My new song Against US is out now!! Click the link to listen💗
+      👇buy a popl here for 20% off!
     location: "United States"
-    followers: 6955
-    engagement: 5529
-    commentsToLikes: 0.251761
-    id: ck978gs4l7x130j78o558uwsq
+    followers: 32900
+    engagement: 668
+    commentsToLikes: 0.018142
+    id: ck8w2kq8c5myd0j781ju44mw1
     verified: false
-    hashtags: "#duet, #foryou, #fyp, #greenscreenvideo"
-  - username: "fieldmanworker"
+    hashtags: "#fitness, #fyp, #fy, #foryou"
+  - username: "cerealdad"
     fullname: >-
-      fieldmanworker
+      Cereal Dad
     bio: >-
-      hi! P.O Box 771556 Coral Springs, FL 33077 Biz: Fieldmanworker@gmail.com Merch ↓
+      amosc: vaughndedrick idaho
     location: "United States"
-    followers: 220700
-    engagement: 4602
-    commentsToLikes: 0.054141
-    id: ckd0be632cb8b0j23s38t9s2y
+    followers: 144000
+    engagement: 4376
+    commentsToLikes: 0.005992
+    id: ck9c7wchwsb7v0j787swxe6ny
     verified: false
-    hashtags: "#funnystory, #christianschoolstories, #greenscreenvideo, #expressieyourself"
-  - username: "sylusrothchild"
+    hashtags: "#esntls, #foryou, #fyp, #jadeblack"
+  - username: "nlikenarwhal"
     fullname: >-
-      Sylus Rothchild 
+      aloe <3 (any pronouns)
     bio: >-
-      The news of the day. Patreon in link. Venmo @jeff-ahern-1 (Life is short,Laugh)
+      🇪🇹🏳️‍🌈 any pronouns, 28, VA on kiskiack land
     location: "United States"
-    followers: 27500
-    engagement: 3654
-    commentsToLikes: 0.071705
-    id: cka0r0kahf0ul0i783daut6hc
+    followers: 16200
+    engagement: 3507
+    commentsToLikes: 0.061479
+    id: ckbafp5fc7r0y0j23w4hc5t54
     verified: false
-    hashtags: "#vote, #biden, #fyp, #sad"
-  - username: "mauiwaves"
+    hashtags: "#stitch, #queer, #lesbian, #blackartist"
+  - username: "peterciardiello"
     fullname: >-
-      molly
+      p e t e r 🦋
     bio: >-
-      15.1k ! so grateful, ily :) pinterest - mauiwavess mauiwaves13@gmail.com
+      👻~ peterciardiello
     location: "United States"
-    followers: 15100
-    engagement: 3639
-    commentsToLikes: 0.277073
-    id: ckc85eho04zeu0j23vto2avgt
+    followers: 85800
+    engagement: 3020
+    commentsToLikes: 0.043367
+    id: ckc8wv1mvkftl0j231huvasi6
     verified: false
-    hashtags: "#fyp, #morningroutine, #vibes, #coffee"
-  - username: "alisonsaidno"
-    fullname: >-
-      What~is~Normal
-    bio: >-
-      💛 Venmo/alisonsaidno PayPal alison8029@gmail.com tOLeRaNcE OnLy
-    location: "United States"
-    followers: 526300
-    engagement: 3509
-    commentsToLikes: 0.023670
-    id: ck999uavheiat0j787tbe0iyh
-    verified: false
-    hashtags: "#girlmom, #anxiety, #momlife, #lipgloss"
+    hashtags: "#xyzbca, #duet, #stitch, #closettour"
   - username: "zayaperysian"
     fullname: >-
       Zaya💕
     bio: >-
-      Follow my IG✨ 📧: zperysian@viralnationtalent.com She/Her
+      19 🏳️‍⚧️ 📧: zperysian@viralnationtalent.com She/Her
     location: "United States"
-    followers: 2500000
-    engagement: 3486
-    commentsToLikes: 0.019851
+    followers: 3300000
+    engagement: 2953
+    commentsToLikes: 0.018229
     id: ckbkzhxuivwfz0j23mzsy9cps
     verified: true
-    hashtags: "#greenscreen, #stitch, #bidenharris2020, #trans"
-  - username: "blewk_huston"
+    hashtags: "#onerainbow, #fabfitfunpartner, #adultswim, #pridemoves"
+  - username: "lifestylemols"
     fullname: >-
-      luke huston 🥄
+      molly
     bio: >-
-      cruise the yt am angsty teen venmo: @lukehuston email: lukehustonart@gmail.com
+      lifestyle vlogs 💕💿🐛🌞🍄
     location: "United States"
-    followers: 284800
-    engagement: 3399
-    commentsToLikes: 0.027445
-    id: ck81q0k8gezlo0j78xvt1kr5i
+    followers: 29200
+    engagement: 2947
+    commentsToLikes: 0.140218
+    id: ckc85eho04zeu0j23vto2avgt
     verified: false
-    hashtags: "#sad, #friends, #teen, #emotional"
+    hashtags: "#summer, #foryou, #grwm, #daily"
+  - username: "michaellanzaa"
+    fullname: >-
+      Michael Lanza
+    bio: >-
+      Follow Me On Insta ⬆️ 💜Click The Link - Free Download Good Riddance💜
+    location: "United States"
+    followers: 139000
+    engagement: 2934
+    commentsToLikes: 0.042735
+    id: ck8qj6nj8cb5r0j783y7b9971
+    verified: false
+    hashtags: "#singing, #music, #violin, #armybts"
 cities:
   - name: New York
     link: /tiktok/united-states/new-york

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Toronto In 2022
+title: Top 10 Fashion Instagram Influencers In Toronto In 2023
 description: >-
-  Find top fashion Instagram influencers in Toronto in 2022. Most popular hashtags: #fashionblogger #makeuplooks #makeupartist #torontoblogger.
+  Find top fashion Instagram influencers in Toronto in 2023. Most popular hashtags: #fashion #toronto #beauty.
 platform: Instagram
-hits: 302
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 302 Instagram influencers like this in Toronto, Canada for you to pitch.
+hits: 117
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 117 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "yami.navi"
+  - username: "capricestylist"
     fullname: >-
-      Yami Navi
+      CAPRICE CONNERS
     bio: >-
-      🎴 Yu-Gi-Oh! 🕹 Gamer 👕 Fashion 🇨🇦 Toronto, Canada 🗣🇺🇸🇫🇷🇮🇹 #yugioh #retrogaming #gamers ⬇️ YouTube Channel ⬇️
+      Creative Director | Fashion Stylist Editorial | TV & Film 🎞 Mama to Everly Blue 🦋 For Inquiries & Partnerships 📧 anna@sinclaircreativeagency.com
     location: "Canada"
-    followers: 9665
-    engagement: 1231
-    commentsToLikes: 0.016768
-    id: ck9ha5iezb8hm0j782qbihl2m
+    followers: 9961
+    engagement: 353
+    commentsToLikes: 0.087705
+    id: ck5c6l8jg5o6t0i11vqijxo04
     verified: false
-    hashtags: "#instagamer, #dragonballsuper, #yaminavi, #gamingcommunity"
-  - username: "minaj.mp"
+    hashtags: "#canadafashion, #fashionedit, #streetwearculture, #fashionstylists"
+  - username: "nikescanvas"
     fullname: >-
-      ♏️inajmp💮
+      Adenike Akinpelu | Beauty Enthusiast
     bio: >-
-      Stylist~Model~Beauty pro~Vlogger I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨 🔒@pouria_roozitalab Model @unik.models
+      #sephorasquad alum 🇨🇦 📧: management@nikescanvas.com
     location: "Canada"
-    followers: 59018
-    engagement: 273
-    commentsToLikes: 0.095481
-    id: ckaotndqcwn0x0i78myma80eh
+    followers: 264800
+    engagement: 538
+    commentsToLikes: 0.025920
+    id: ck0w723uzbdw80i19or5xl2y2
     verified: false
-    hashtags: "#modeling, #fashionphotography, #love, #fashion"
-  - username: "claumattos"
+    hashtags: "#fashion, #reelsinstagram, #makeup, #juviasplace"
+  - username: "beautifullifestudios"
     fullname: >-
-      CLAU MATTOS ⚡️
+      Beautiful Life Studios Inc
     bio: >-
-      Latina & Creator ♥︎ T-Shirt Lover ✌🏽 Founder of @clashtee ✉️ claumattos.personalstylist@gmail.com
+      VANCOUVER - @beautifullifebc Toronto | Vancouver | Miami 📧 team@beautifullifestudios.com Joyful, tasteful & elegant storytelling
     location: "Canada"
-    followers: 37846
-    engagement: 191
-    commentsToLikes: 0.048660
-    id: ck13c4c57yk0h0i19jhq0yxl5
+    followers: 28570
+    engagement: 73
+    commentsToLikes: 0.058440
+    id: ck5zk53p8itul0i14arslfser
     verified: false
-    hashtags: "#skincareproducts, #contest, #lifestyle, #brightboost"
+    hashtags: "#okanaganwedding, #destinationwedding, #website, #vancouverwedding"
+  - username: "katedevv"
+    fullname: >-
+      KATHRYN
+    bio: >-
+      But you can call me Kate. Iqaluit, NU but sometimes in Toronto Fashion student, amongst other things
+    location: "Canada"
+    followers: 7080
+    engagement: 483
+    commentsToLikes: 0.082490
+    id: ck5zyqrjjacwp0i14zj9yjdta
+    verified: false
+    hashtags: "#pilgrimjewellery"
+  - username: "ismahan.co"
+    fullname: >-
+      Halima
+    bio: >-
+      📍Toronto FASHION • TRAVEL • LIFESTYLE Alx for everything ✨ Contact: ismahanco@gmail.com
+    location: "Canada"
+    followers: 41186
+    engagement: 194
+    commentsToLikes: 0.028333
+    id: ck15qrpma4b6d0i19swjjb73s
+    verified: false
+    hashtags: "#choosetochallenge"
   - username: "sairahayatkhan"
     fullname: >-
       Saira Hayat Khan
     bio: >-
       Motherhood. Fashion. Lifestyle. Toronto, Canada 🇨🇦
     location: "Canada"
-    followers: 43203
-    engagement: 161
-    commentsToLikes: 0.155303
+    followers: 44777
+    engagement: 184
+    commentsToLikes: 0.085914
     id: ckap1sltivybk0i784nr7lx7p
     verified: false
-    hashtags: "#ad, #ineverhavenicenails, #allowmetoreintroducemyself"
-  - username: "alanahlorraine"
-    fullname: >-
-      A 🕊
-    bio: >-
-      fashion + lifestyle toronto|hamilton ✉️alanahlorraine@gmail.com shop links ⬇️
-    location: "Canada"
-    followers: 4142
-    engagement: 728
-    commentsToLikes: 0.138424
-    id: ck0tubujo6i450i19w2jakvr4
-    verified: false
-    hashtags: "#ardenebabe, #vintagethefestival, #ardenelove, #fallchic"
-  - username: "ismahan.co"
-    fullname: >-
-      Halima
-    bio: >-
-      📍Toronto FASHION • TRAVEL • LIFESTYLE Cafe&Food: #IsmahanEats New initiative @somali.scholars Alx for everything ✨ For promos 📩:ismahanco@gmail.com
-    location: "Canada"
-    followers: 39721
-    engagement: 261
-    commentsToLikes: 0.023156
-    id: ck15qrpma4b6d0i19swjjb73s
-    verified: false
-    hashtags: "#makeupartist, #makeupvideos, #muas, #modanisa"
-  - username: "letitiakiu"
-    fullname: >-
-      LETITIA KIU
-    bio: >-
-      Toronto Fashion & Lifestyle YouTuber Host of Podcast GIRL WHA?! Find me for ☆ Thrift, DIY and Fashion ☆ ˚✧ WE BOUGHT A HOUSE ✧༚
-    location: "Canada"
-    followers: 9501
-    engagement: 413
-    commentsToLikes: 0.040961
-    id: ck9ha326baxlr0j78jud7p3gs
-    verified: false
-    hashtags: "#ad, #togetherwithinterac, #poweroflocal, #ourfirsthome"
-  - username: "beyondyourgrasp"
-    fullname: >-
-      vb.
-    bio: >-
-      creating... Romans 12:12 TORONTO Fashion | Beauty | Lifestyle ———————— Email for inquiries
-    location: "Canada"
-    followers: 35822
-    engagement: 77
-    commentsToLikes: 0.028943
-    id: ck9ha98gdbn5u0j78ax9j4j76
-    verified: false
-    hashtags: "#instagram, #makeupjunkie, #6ix, #makeupartist"
-  - username: "mahakhan__"
+    hashtags: "#thoughtsofaseasonallydepressedmom"
+  - username: "channelforcopyrightnotice"
     fullname: >-
       
     bio: >-
-      📍Toronto Fashion • Beauty • Lifestyle ✉️ k.maharukh29@gmail.com ↓ Use my discount codes
+      © Instagram Help Center If you have infringed copyright, you will be notified through this channel.
     location: "Canada"
-    followers: 9058
-    engagement: 533
-    commentsToLikes: 0.456995
-    id: ck8t2bbvaytuv0j78cogyr3kf
+    followers: 57583
+    engagement: 262
+    commentsToLikes: 0.051543
+    id: ck5c83emv8p080i11xfp1baui
     verified: false
-    hashtags: "#kyliecosmetics, #pakistaniwedding, #torontophotography, #fashiongram"
-  - username: "mariah_noelle"
+    hashtags: "#makeuplooks, #jamescharlespalette, #tatcha, #makeuptoturial"
+  - username: "sherinn_"
     fullname: >-
-      MARIAH
+      Sherin
     bio: >-
-      toronto⁣⁣⁣⁣⁣ | fashion + lifestyle ⁣ ✉️ mariahnoelle24@gmail.com
+      Don't just dance, move the world 🌎💃📚 Positive vibes only ✌
     location: "Canada"
-    followers: 4244
-    engagement: 913
-    commentsToLikes: 0.149224
-    id: ck9wfpe9ypwqt0j78lyot0ar3
+    followers: 2709
+    engagement: 1230
+    commentsToLikes: 0.191761
+    id: ck600knzjds6w0i14yaeivg0u
     verified: false
-    hashtags: "#getintothisstyle, #monochrome, #discoverunder10k, #unreap"
+    hashtags: "#instagramreels, #toronto, #fashion, #curlyhair"
+  - username: "jocebedard"
+    fullname: >-
+      Jocelyn Bedard
+    bio: >-
+      🌻 acting ☁️ youtube host 🪴 health & fitness 💬 links ⇩
+    location: "Canada"
+    followers: 17570
+    engagement: 454
+    commentsToLikes: 0.073783
+    id: ck9wgxgpmveft0j78rr1j2su4
+    verified: false
+    hashtags: "#photoshootideas, #santa, #ootd, #yyz"
+  - username: "tynomibanks"
+    fullname: >-
+      Tynomi Banks
+    bio: >-
+      I'm the queen I'm Miss Tynomi 👑 when I'm on stage I know you know me 😘 https://linktr.ee/TynomiBanks
+    location: "Canada"
+    followers: 86120
+    engagement: 576
+    commentsToLikes: 0.044278
+    id: ck0w4kfcgz0gx0i193nyi3hy5
+    verified: false
+    hashtags: "#gay, #dragrace, #transformation, #lgbtq"
 ---

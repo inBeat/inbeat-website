@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Italy In 2022
+title: Top 10 Barbers TikTok Influencers In Italy In 2023
 description: >-
-  Find top barbers TikTok influencers in Italy in 2022. Most popular hashtags: #barber #perte #barbershop #hair.
+  Find top barbers TikTok influencers in Italy in 2023. Most popular hashtags: #barber #barbershop #hair #perte.
 platform: TikTok
-hits: 17
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 17 TikTok influencers like this in Italy for you to work with.
+hits: 16
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 16 TikTok influencers like this in Italy for you to collaborate.
 profiles:
   - username: "tiger_fade"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Artista Founder TIGER FADE METHOD Owner STILE BARBER SHOP (four locations)
     location: "Italy"
-    followers: 5151
-    engagement: 304
-    commentsToLikes: 0.025163
+    followers: 5165
+    engagement: 277
+    commentsToLikes: 0.022139
     id: ckbfakqww24710j230p06xz0u
     verified: false
-    hashtags: "#pinkhair, #doubleyourimpact, #fadehaircut, #foryou"
+    hashtags: "#neiperte, #lovedisoloqua, #fadehaircut, #foryou"
+  - username: "pappabarbershop"
+    fullname: >-
+      Pappa BarberShop
+    bio: >-
+      Seguici su Instagram ⬆️ 🏆Barber pluripremiato 📍Roma 🎧 Ascoltaci su Spotify⬇️
+    location: "Italy"
+    followers: 24300
+    engagement: 326
+    commentsToLikes: 0.032704
+    id: ckdnkadgjj31l0j23xf3q74dh
+    verified: false
+    hashtags: "#neiperte, #foryoupage, #barbershop, #4upage"
   - username: "davidegrecobarber"
     fullname: >-
       Davide Greco
     bio: >-
-      380 Mila Instagram @davide_greco_barber Italiano 🇮🇹 clicca qui👇🏾
+      400 Mila Instagram @davide_greco_barber Italiano 🇮🇹 clicca qui👇🏾
     location: "Italy"
-    followers: 121900
-    engagement: 456
-    commentsToLikes: 0.006495
+    followers: 125200
+    engagement: 439
+    commentsToLikes: 0.005799
     id: ckc1xj0501gg60j23bkurney2
     verified: false
-    hashtags: "#perte, #hair, #neiperte, #galaxycolorchallenge"
+    hashtags: "#hairstyles, #hair, #neiperte, #perte"
   - username: "giuschi_official"
     fullname: >-
       Giuseppe Schittino
     bio: >-
       •🇮🇹 TURIN,ITALY •BARBER EDUCATOR •Fashion Man 🔥 •Menshaircut 💈
     location: "Italy"
-    followers: 18400
-    engagement: 276
-    commentsToLikes: 0.006225
+    followers: 18000
+    engagement: 272
+    commentsToLikes: 0.010685
     id: ck8vshqkgdm570j78fv3p6tzx
     verified: false
-    hashtags: "#barbers, #menshair, #barber, #hair"
+    hashtags: "#tiktoktaac, #barberstown, #barbershop, #tiktokita"
   - username: "mickfonto"
     fullname: >-
       mickfonto
     bio: >-
-      Barber addicted 💈 Instagram: @mickfonto
+      Barber addicted 💈 Instagram 👉🏻 @mickfonto
     location: "Italy"
-    followers: 95200
-    engagement: 461
-    commentsToLikes: 0.002781
+    followers: 144300
+    engagement: 326
+    commentsToLikes: 0.009349
     id: cka0ig8vfdkk00i780tj35c8m
     verified: false
-    hashtags: "#dummyhead, #lifeathome, #doubleyourimpact, #foryou"
-  - username: "pappabarbershop"
+    hashtags: "#foryoupage, #haircut, #fy, #perte"
+  - username: "supertaglio.sg"
     fullname: >-
-      Pappa BarberShop
+      SUPERTAGLIO SG
     bio: >-
-      Seguici su Instagram ⬆️ 🏆Barber pluripremiato 💈Corsi di formazione 📍Roma
+      PARRUCCHIERE.BARBERSHOP.CENTROESTETICO quartiere africano via TRIPOLITANIA155 RM
     location: "Italy"
-    followers: 23200
-    engagement: 388
-    commentsToLikes: 0.004259
-    id: ckdnkadgjj31l0j23xf3q74dh
+    followers: 41900
+    engagement: 217
+    commentsToLikes: 0.000297
+    id: ck8vsi0ocdnu90j78ni1xty0h
     verified: false
-    hashtags: "#barbershopchallenge, #foryoupage, #barbergirl, #friend"
+    hashtags: "#parrucchiere, #parrucchieri, #capelli, #hairideas"
   - username: "mottolanewstyle1983"
     fullname: >-
       MottolaNewstyle
     bio: >-
       Seguitemi su Instagram 👉 @mottolanewstyle Barbiere 🇮🇹🇮🇹🇮🇹
     location: "Italy"
-    followers: 10500
-    engagement: 339
-    commentsToLikes: 0.018084
+    followers: 13900
+    engagement: 368
+    commentsToLikes: 0.017733
     id: ckb99i9kstq9n0j230x8f20ga
     verified: false
-    hashtags: "#siamotuttifratelli, #friends, #barbershoop, #old"
+    hashtags: "#siamotuttifratelli, #neiperte, #old, #nei"
   - username: "parrucchieriapacchiolo69"
     fullname: >-
       PACCHIOLO
     bio: >-
-      4.300 Mila Instagram @lineauomopacchiolo Italiano 🇮🇹 clicca qui👇
+      4.700 Mila Instagram @lineauomopacchiolo Italiano 🇮🇹 clicca qui👇
     location: "Italy"
-    followers: 14800
-    engagement: 379
-    commentsToLikes: 0.008583
+    followers: 18300
+    engagement: 322
+    commentsToLikes: 0.008557
     id: ck83x32wpnuls0j78jhukh02v
     verified: false
-    hashtags: "#seguime, #tiktokindia, #italia, #italy"
-  - username: "supertaglio.sg1"
+    hashtags: "#italia, #virale, #2020vision, #faidate"
+  - username: "ilgladiatorethereal"
     fullname: >-
-      SUPERTAGLIO SG
+      Emanuele vaccarini
     bio: >-
-      No bio yet
+      maestro di arti marziali, autoironico e cuoco da strapazzo...IL GLADIATORE
     location: "Italy"
-    followers: 24390
-    engagement: 351
-    commentsToLikes: 0.003369
-    id: ck8vsi0ocdnu90j78ni1xty0h
+    followers: 5415
+    engagement: 784
+    commentsToLikes: 0.036448
+    id: cka0knobwnhnj0i789y4h2lui
     verified: false
-    hashtags: "#memes, #meme, #funnymemes, #dankmemes"
-  - username: "inter"
+    hashtags: "#emanuelevaccarini, #thegladiator, #cuoco, #homemade"
+  - username: "sabrinasugoni"
     fullname: >-
-      inter
+      _Sabrina🐸
     bio: >-
-      ⚫️🔵 FC Internazionale Milano official account
+      PRATICAMENTE VI RACCONTO LA MIA VITA! 💇🏻‍♀️💈💅💄👩🏻‍🌾🐎🐶 IG: instasab__
     location: "Italy"
-    followers: 751000
-    engagement: 1214
-    commentsToLikes: 0.015471
-    id: ck8z9siq3z7i60j78hgmibolq
-    verified: true
-    hashtags: "#football, #foryou, #forzainter, #inter"
-  - username: "akakikx"
-    fullname: >-
-      𝘼𝙆𝘼 ✓
-    bio: >-
-      ❄️Le sfide più belle di TikTok🔥 📩Collabs: aka@whatthefactory.it 🪐New Planet👇
-    location: "Italy"
-    followers: 378800
-    engagement: 1894
-    commentsToLikes: 0.016295
-    id: ck90u637jvf8x0j78jhm4bq61
+    followers: 59200
+    engagement: 550
+    commentsToLikes: 0.025365
+    id: ckb9dom8k10w80j23e7s1y9oj
     verified: false
-    hashtags: "#pov, #divertente, #cosechenonsai, #comedy"
+    hashtags: "#duetto, #fyp, #powerawesome, #greenscreen"
 ---

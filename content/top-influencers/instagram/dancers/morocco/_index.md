@@ -1,117 +1,93 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Morocco In 2022
+title: Top 10 Dancers Instagram Influencers In Morocco In 2023
 description: >-
-  Find top dancers Instagram influencers in Morocco in 2022. Most popular hashtags: #dance #lifestyle #dancer #morocco.
+  Find top dancers Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #dancer #dance #lifestyle.
 platform: Instagram
-hits: 34
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 34 Instagram influencers like this in Morocco for you to contact.
+hits: 15
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 15 Instagram influencers like this in Morocco for you to work with.
 profiles:
+  - username: "thehotman_"
+    fullname: >-
+      Othmane Oubella
+    bio: >-
+      Dancer | Choreographer Co-founder of @fonkademy Rabat 🇲🇦
+    location: "Morocco"
+    followers: 4836
+    engagement: 1716
+    commentsToLikes: 0.096308
+    id: ck5ciauyasbdo0i11kx4hy32n
+    verified: false
+    hashtags: "#begin, #dancer, #locking4life, #muchlove"
   - username: "wissalinou"
     fullname: >-
       ouissal
     bio: >-
       youth-ing around 🌙 • Official Dancer at @l.baroque 📧 lbaroque.talent@gmail.com
     location: "Morocco"
-    followers: 6713
-    engagement: 1084
-    commentsToLikes: 0.040109
+    followers: 6703
+    engagement: 792
+    commentsToLikes: 0.040213
     id: ck5zoedecqdgq0i14bagmuem7
     verified: false
-    hashtags: "#dancers, #choreography, #goodvibes, #dance"
-  - username: "nouhaila_sistorms"
-    fullname: >-
-      Nouhaila SiStorms ✨
-    bio: >-
-      🔮Dancer | SISTORMS 👯‍♀️🌪 🌟Converse ambassador ✨ 🦋Curly hair lover🍃 📚Engineer |Al Akhawayn University 🎓🇲🇦|TU Graz🇦🇹 📍Morocco🇲🇦 ✈️ 🇩🇪🇧🇪🇦🇹🇱🇧🇦🇪🇫🇷🇳🇱🇸🇮🇪🇸
-    location: "Morocco"
-    followers: 20898
-    engagement: 257
-    commentsToLikes: 0.065839
-    id: ckaoricvbncr20i78x8xydqsj
-    verified: false
-    hashtags: "#curlygirlmethod, #hiphopislife, #outfitlove, #powergirl"
-  - username: "lilyfitlife"
-    fullname: >-
-      LILY 🌸
-    bio: >-
-      Moroccan dancer 🙆‍♀️ 👇🏻👇🏻👇🏻
-    location: "Morocco"
-    followers: 9861
-    engagement: 1269
-    commentsToLikes: 0.077657
-    id: ck5pvdhn3hcfs0i11aas6celt
-    verified: false
-    hashtags: "#fitlife, #danceislife, #morrocandancer, #photography"
+    hashtags: ""
   - username: "cb_0g"
     fullname: >-
       CHAIMAE BOUBNANE 💫
     bio: >-
-      🇲🇦 Dancer Management : @l.baroque 📨 : lbaroque.talent@gmail.com
+      📍: 🇲🇦 Dancer | YouTuber 📨 chaimaebnne@gmail.com YouTube Channel 👇🏻
     location: "Morocco"
-    followers: 84825
-    engagement: 923
-    commentsToLikes: 0.037970
+    followers: 86992
+    engagement: 654
+    commentsToLikes: 0.021595
     id: ck5ciaxocsbid0i11ve0cy5rl
     verified: false
-    hashtags: "#love, #family, #moroccangirl, #contest"
-  - username: "salmaaguenaou"
-    fullname: >-
-      Ⓢ Ⓐ ❥
-    bio: >-
-      Aesthete✨🦋 Official dancer at @l.baroque 📨 Management : @l.baroque Inquiries: lbaroque.talent@gmail.com Bε чσυ ღ 📍Morocco
-    location: "Morocco"
-    followers: 7298
-    engagement: 1255
-    commentsToLikes: 0.044946
-    id: ck5q6c5sowsmk0i112yjd7e1y
-    verified: false
-    hashtags: "#feelings, #staysafe, #dance, #passion"
+    hashtags: "#shorthair, #arabiangirl, #foryou, #choreography"
   - username: "haitamhl8"
     fullname: >-
-      Haitam Lahjouji 🌹
+      Haitam Lahjouji ✨
     bio: >-
-      I Dance and Stuff. 🌊🌊 Dancer / Choreographer @l.baroque Management @l.baroque Inquiries : lbaroque.talent@gmail.com
+      I Dance and Stuff. 🌊🌊 Dancer / Choreographer @l.baroque Management @l.baroque Inquiries : lbaroque.talent@gmail.com Owner of @takhayalll 🌪🌪
     location: "Morocco"
-    followers: 49471
-    engagement: 1260
-    commentsToLikes: 0.013260
+    followers: 46258
+    engagement: 1013
+    commentsToLikes: 0.018217
     id: ck5ciaw6zsbfi0i11u65m7slr
     verified: false
-    hashtags: "#style, #dancersofinstagram, #pose, #riyadhseason"
+    hashtags: "#lbaroque, #dancer, #picture, #pictureoftheday"
+  - username: "zizou_kharroubi"
+    fullname: >-
+      Zizou 🇲🇦
+    bio: >-
+      ©️ Official Dancer @l.baroque  📨 Management @l.baroque 📧 lbaroque.talent@gmail.com 15/10/97 #M.K 🙏👮‍♂️
+    location: "Morocco"
+    followers: 8267
+    engagement: 887
+    commentsToLikes: 0.040773
+    id: ck5q6canxwt4w0i11ixg3rxtq
+    verified: false
+    hashtags: "#vsco, #boy, #moroccanboy, #model"
   - username: "samiataki"
     fullname: >-
       Samia🎀
     bio: >-
-      22 yo dancer & flight attendant trainee 🛫 📍Official Dancer at ▶@l.baroque ✉Management : @l.baroque 📧 lbaroque.talent@gmail.com
+      🇲🇦22YO Moroccan Dancer 🛫Flight Attendant Trainee 📍Official Dancer at @l.baroque 📧 lbaroque.talent@gmail.com
     location: "Morocco"
-    followers: 106803
-    engagement: 1231
-    commentsToLikes: 0.016532
+    followers: 106888
+    engagement: 731
+    commentsToLikes: 0.015895
     id: ck5q6c7xywsxb0i112slmq9a7
     verified: false
-    hashtags: "#stayhome, #lbaroque, #moroccan, #staysafe"
-  - username: "zizou_kharroubi"
-    fullname: >-
-      Abdelaziz 🇲🇦
-    bio: >-
-      ©️ Official Dancer @l.baroque  📨 Management @l.baroque 📧 lbaroque.talent@gmail.com 15/10/97 #M.K 🙏👮‍♂️
-    location: "Morocco"
-    followers: 7977
-    engagement: 1291
-    commentsToLikes: 0.040611
-    id: ck5q6canxwt4w0i11ixg3rxtq
-    verified: false
-    hashtags: "#fashion, #hiphop, #dance, #outfit"
+    hashtags: "#dancer, #picture, #photography, #dance"
   - username: "yassine_derbali"
     fullname: >-
       DANCER 🕺
     bio: >-
       © Official Dancer @l.baroque 📨 Management @l.baroque 📧 lbaroque.talent@gmail.com •BOOK READER 📚
     location: "Morocco"
-    followers: 13688
-    engagement: 914
-    commentsToLikes: 0.019098
+    followers: 13251
+    engagement: 885
+    commentsToLikes: 0.020481
     id: ck5q6cc9qwtb00i11xor3f6cd
     verified: false
     hashtags: "#blackouttuesday"
@@ -121,10 +97,34 @@ profiles:
     bio: >-
       ‎ممثل🎬_ دانسر🃏_ مقدم استعراض🎪 ‎للعروض و الدعايه و الاعلانات ( دايركت ) 📥 ‎‏Popping dancer 👑🎭 Snapchat : Assad.BT👻 TikTok : 👇🏻🎶
     location: "Morocco"
-    followers: 98717
-    engagement: 126
-    commentsToLikes: 0.038903
+    followers: 96344
+    engagement: 106
+    commentsToLikes: 0.034907
     id: ckap6uixfherh0i780r7wh63n
     verified: false
-    hashtags: "#instagram, #tiktok"
+    hashtags: "#instgram, #tiktok, #instagram"
+  - username: "chaimaarady_"
+    fullname: >-
+      Shay •
+    bio: >-
+      Rugby player 🏈 Dancer 💃🏻 📍 Casablanca الدار البيضاء
+    location: "Morocco"
+    followers: 2166
+    engagement: 1084
+    commentsToLikes: 0.080316
+    id: ck5zoeiewqdrh0i14cn92uoao
+    verified: false
+    hashtags: "#morocco, #casablanca, #unitydancecamp, #moroccandancer"
+  - username: "beechara_"
+    fullname: >-
+      Bee 🐝
+    bio: >-
+      Angelic devil 💫 «I reward loyalty with loyalty » « I reward disloyaty With distance» 📍 Casablanca , Morocco Passionate dancer , Model , Law Student
+    location: "Morocco"
+    followers: 24837
+    engagement: 883
+    commentsToLikes: 0.013966
+    id: ck5zkeod5jccv0i14gjw54avb
+    verified: false
+    hashtags: "#photography, #makeup, #hairstyle, #pixiecut"
 ---

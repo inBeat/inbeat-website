@@ -1,48 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In London In 2022
+title: Top 10 Health Instagram Influencers In London In 2023
 description: >-
-  Find top health Instagram influencers in London in 2022. Most popular hashtags: #london #health #fashion #quarantine.
+  Find top health Instagram influencers in London in 2023. Most popular hashtags: #health #london #love.
 platform: Instagram
-hits: 299
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 299 Instagram influencers like this in London, United Kingdom for you to work with.
+hits: 207
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 207 Instagram influencers like this in London, United Kingdom for you to connect with.
 profiles:
-  - username: "nadine_stoly"
+  - username: "you_had_me_at_pizzax"
     fullname: >-
-      Nadine Stolycia
+      Abbie | Food Blogger
     bio: >-
-      Proper Yorkshire lass 🇬🇧💋
+      💓 surrey / london eats 🥑 recipes, restaurants & travel 🍕 pizza queeeeeen 💌 youhadmeatpizza@hotmail.com
     location: "United Kingdom"
-    followers: 3955
-    engagement: 1435
-    commentsToLikes: 0.134756
-    id: ckap4q5kw8dba0i78yb5s7c1j
+    followers: 6044
+    engagement: 604
+    commentsToLikes: 0.240092
+    id: ckap51b889qoe0i78btzgjr7p
     verified: false
-    hashtags: "#bikini, #me, #mykonos, #fitness"
-  - username: "shaunvlog"
-    fullname: >-
-      Shaun.
-    bio: >-
-      Scottish guy on YouTube Brasileiro do coração 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇧🇷 Travel, adventure, food etc. 👇 Latest vlog
-    location: "United Kingdom"
-    followers: 22101
-    engagement: 378
-    commentsToLikes: 0.060778
-    id: ck5c9tuprc4510i111c35wddo
-    verified: false
-    hashtags: "#edinburghbloggers, #igersscotland, #highlands, #visitscotland"
-  - username: "gyorgymelnik"
-    fullname: >-
-      🅼🆁. 🅼🅴🅻🅽🅸🅺
-    bio: >-
-      ◦ 𝙳𝙼 𝚏𝚘𝚛 𝚜𝚑𝚘𝚝 📩 ◦ 𝙻𝚘𝚗𝚍𝚘𝚗 📍
-    location: "United Kingdom"
-    followers: 32707
-    engagement: 126
-    commentsToLikes: 0.045488
-    id: ck14kr1p4qvwt0i19b7zupo3k
-    verified: false
-    hashtags: "#nhs, #health, #london, #quarantine"
+    hashtags: "#londonlife, #foodieuk, #londoncocktails, #viral"
   - username: "brixtonsoupkitchen"
     fullname: >-
       Snapchat: BrixSoupKitchen
@@ -54,77 +30,101 @@ profiles:
     commentsToLikes: 0.043553
     id: ck0vx0isvwiry0i19j6k6zt5q
     verified: false
-    hashtags: "#instagram, #donation, #brixtonsoupkitchen, #homeless"
+    hashtags: "#donation, #coronavirus, #bskcovid19responseteam, #instagram"
   - username: "sonalisilvaa"
     fullname: >-
       sonalisilvaa
     bio: >-
       📍 London @shedecidesgfi MSc Global Health Policy @londonschoolofeconomics / @cheveningfcdo Scholar 2020
     location: "United Kingdom"
-    followers: 31785
-    engagement: 400
-    commentsToLikes: 0.013791
+    followers: 31801
+    engagement: 351
+    commentsToLikes: 0.011036
     id: ck5q9t7clcvme0i11vq5l39d5
     verified: false
-    hashtags: "#pfw2020, #melanin, #model, #womenswear"
-  - username: "livevitae"
+    hashtags: "#lockdown, #tb, #mandala, #london"
+  - username: "josh_physioathletic"
     fullname: >-
-      Ryan Carter - LIVE VITAE ☀️💧🧲
+      Josh Bryant
     bio: >-
-      I coach individuals to cultivate,empower & remove obstactles in achieving optimal health 📍London 🇬🇧 Connect👇🏼 💻www.livevitae.com📧hello@livevitae.com
+      🏋🏽‍♂️Physio & PT 📍Liverpool Street 💪🏼 @physioathletic_ldn Code: JOSH - 37% off @myproteinuk JOSH10 - 10% off @prepperfectuk 💍VH
     location: "United Kingdom"
-    followers: 435943
-    engagement: 133
-    commentsToLikes: 0.021172
-    id: ck0tz2o5roxn40i19wap1qecy
+    followers: 23527
+    engagement: 335
+    commentsToLikes: 0.034462
+    id: ck15ubff5mcr90i193bwehlur
     verified: false
-    hashtags: "#almonds, #paleo, #egg, #fitfood"
-  - username: "smallspartan_barsparta"
+    hashtags: "#getfit, #photooftheday, #healthychoices, #londonpersonaltrainer"
+  - username: "_moyap_"
     fullname: >-
-      Jay Chris
+      Moya P ✨
     bio: >-
-      🤸🏾‍♂️ Pro Athlete / Creative Co-Founder @Barsparta 🏆 3x UK National Champ 🏆 2x WCO World FW Champ 🔥 @bulkpowders 📥 Jay@ixbtalent.com
+      •BSc Psychology •MSc Psychology & Neuroscience of Mental Health @kings_college_london •Model @wilhelmina.london
     location: "United Kingdom"
-    followers: 120613
-    engagement: 254
-    commentsToLikes: 0.030560
-    id: ck0vvdwimop610i196jth2hqf
+    followers: 89041
+    engagement: 439
+    commentsToLikes: 0.008877
+    id: ck0tu9yei69bm0i19p648vt3v
     verified: false
-    hashtags: "#sixpack, #quarantine, #handstand, #ad"
-  - username: "tanyalivingfree"
+    hashtags: "#35mm"
+  - username: "laura.phippsx"
     fullname: >-
-      Tanya~Endo life & Foodie✨
+      Laura | Petite Midsize Blogger
     bio: >-
-      🎗️Glamorously navigating life with #Endometriosis & my #Ileostomy 🌻#Glutenfree Foodie 🌸All things sweet 💌DM / email for collabs 📍LDN (endo article ⬇️)
+      ✨23 | Mental Health | Fashion | Herts/London 💌lauranorman-phipps@hotmail.co.uk #️⃣ #timetotalktuesdays #mystylingfinds ♻️ Founder of @lulaify
     location: "United Kingdom"
-    followers: 3331
-    engagement: 1541
-    commentsToLikes: 0.236827
-    id: ck6uf20yiuek30j71r1kwu2xh
+    followers: 11077
+    engagement: 324
+    commentsToLikes: 0.170697
+    id: ck9weyah3mel30j78va2ckaae
     verified: false
-    hashtags: "#foodphotography, #dairyfree, #guthealth, #eatlondon"
-  - username: "gabriela.pauluss"
+    hashtags: "#braunuk, #minihairremover, #ad, #timetotalktuesdays"
+  - username: "shagunkhanna"
     fullname: >-
-      G A B R I E L A
+      Shagun Khanna
     bio: >-
-      Latvian girl living in London 🇱🇻/ 🇬🇧/ 🇷🇺 Fitness/wellness
+      Jury member @vogueindia Beauty Awards 2018/19 @elleindia Beauty Influencer 2018 Sharing my experiences on #Health #Skincare #PCOS LONDON/INDIA
     location: "United Kingdom"
-    followers: 4023
-    engagement: 1016
-    commentsToLikes: 0.111190
-    id: ck137gvkibh340i19zc6gh4rd
+    followers: 53942
+    engagement: 225
+    commentsToLikes: 0.083557
+    id: ck5zvc0va3y630i14hqr0q7e4
     verified: false
-    hashtags: "#squatgirl, #baltic, #latviangirl, #gymquotes"
-  - username: "jessxplore"
+    hashtags: "#delhiwinters, #love, #adistantrum, #easyrecipes"
+  - username: "jaxmiddleton_author"
     fullname: >-
-      jessica 🌺
+      Jacquelyn Middleton 🇨🇦📚
     bio: >-
-      ☆ just exploring life 🌴 🇵🇭 ⋆ travel ⋆ food ⋆ wellness ⋆ + based in london, uk ☕️ ™ @pngaea @machesuite
+      ✨Award-winning author of love stories for hopeful romantics ✨Book recs ✨Mental health advocate 🇨🇦 loving London & Orkney ✨Say Hello, Kiss Goodbye ↓
     location: "United Kingdom"
-    followers: 4767
-    engagement: 760
-    commentsToLikes: 0.083312
-    id: ck6ug4j9b0vds0j71hkrle6a3
+    followers: 9919
+    engagement: 342
+    commentsToLikes: 0.046463
+    id: ck9hahjd0ckap0j789e6b7e1g
+    verified: true
+    hashtags: "#readersofinstagram, #amreading, #bookrecs, #readromance"
+  - username: "missnutritionist"
+    fullname: >-
+      Rosie Millen
+    bio: >-
+      🌱 Nutritionist and Author, London 💕Health, Wellness & Stress Eliminating Tips 📚 Order my new book Burnout’s a B*tch: A 6 week meal & lifestyle plan 👇🏻
+    location: "United Kingdom"
+    followers: 28266
+    engagement: 60
+    commentsToLikes: 0.084823
+    id: ck8swu7guf96q0j78i7e2m450
     verified: false
-    hashtags: "#thailand, #phuket, #wearepangaea, #femmetravel"
+    hashtags: "#prize, #win, #competition, #giveaway"
+  - username: "collettemichelle"
+    fullname: >-
+      Collette Michelle
+    bio: >-
+      London 🇮🇪 In God we Trust ❤️ ✝️
+    location: "United Kingdom"
+    followers: 17836
+    engagement: 259
+    commentsToLikes: 0.094885
+    id: ck5c5eyij3ch00i1121jqyjvq
+    verified: false
+    hashtags: "#trainingday, #legday, #trainhard, #boxing"
 ---

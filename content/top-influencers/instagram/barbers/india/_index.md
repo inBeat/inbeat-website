@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In India In 2022
+title: Top 10 Barbers Instagram Influencers In India In 2023
 description: >-
-  Find top barbers Instagram influencers in India in 2022. Most popular hashtags: #barber #fashion #barbershop #style.
+  Find top barbers Instagram influencers in India in 2023. Most popular hashtags: #fashion #barbershop #style #photography.
 platform: Instagram
-hits: 57
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 57 Instagram influencers like this in India for you to contact.
+hits: 52
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 52 Instagram influencers like this in India for you to work with.
 profiles:
   - username: "zaid_zabardast"
     fullname: >-
       ZAID  KHAN | MEN'S FASHION 👔
     bio: >-
-      -influencer/blogger -📍Mumbai/bhopal -Men’s barber 💈 Second account @zaidkhan.hair -📩Dm for collaboration/promotion
+      -influencer/blogger -📍Mumbai/bhopal -Men’s barber 💈 Managed By: @humlaanetwork Second account @zaidkhan.hair -📩Dm for collaboration/promotion
     location: "India"
-    followers: 25171
-    engagement: 1435
-    commentsToLikes: 0.022815
+    followers: 30614
+    engagement: 1332
+    commentsToLikes: 0.016908
     id: ck13d0zhi344h0i19byopy27k
     verified: false
-    hashtags: "#reels, #fashionblogger, #menshair, #streetstyle"
+    hashtags: "#fashioninfluencer, #menswear, #menstyle, #outfits"
   - username: "allothompson"
     fullname: >-
       Diallo Thompson
     bio: >-
       Diallo "Allo" Thompson ACTOR - FILM MAKER 🎥 "Kenny" in Barbershop The Next Cut “Cj” in Freshman Year on NETFLIX Facebook: allothompson MY YOUTUBE 👇🏾
     location: "India"
-    followers: 13752
-    engagement: 558
-    commentsToLikes: 0.082357
+    followers: 14042
+    engagement: 537
+    commentsToLikes: 0.062708
     id: ckap7rflyl8f60i78cy1pf052
     verified: false
-    hashtags: "#explore, #movie, #love, #barbershop3"
-  - username: "italia_barber_society"
+    hashtags: "#nofilter, #art, #cute, #love"
+  - username: "mr.line_"
     fullname: >-
-      IBS 💈Italia Barber Society 💈
+      stylist™️mohamad, mohalati🇮🇷
     bio: >-
-      Una barberia classica con lo spirito moderno ✂️💈 OUR DREAM TEAM @notordinarybarber @alovalovayeah @alexander_elprimero 💈 Prenota da app ⬇️
+      A new wave in hairdressing🔝 product USA of the JRL ,brand🇺🇸: @jrlusa
     location: "India"
-    followers: 27760
-    engagement: 124
-    commentsToLikes: 0.034464
-    id: ck5zr6ye6w0zr0i14m0ne2jkk
+    followers: 29164
+    engagement: 821
+    commentsToLikes: 0.043608
+    id: ckaoy92wmgifd0i78c6ju0b0r
     verified: false
-    hashtags: "#barbershopconnect, #showcasebarbers, #wahlpro, #btcbigshot2020"
-  - username: "mr.bluestyles"
-    fullname: >-
-      men's Hairstyles 👦
-    bio: >-
-      • Turn on post notification 🔔 •With us you can find the perfect fashion tips and hairstyles for you 💇‍♂️ • Follow @mr.bluestyles 👀 for more 🔥
-    location: "India"
-    followers: 42585
-    engagement: 704
-    commentsToLikes: 0.016764
-    id: ckf5kygaunofh0j23rgqtu7p2
-    verified: false
-    hashtags: "#baldfade, #hairproduct, #barbershopconnect, #barbershop"
-  - username: "mia_siva_leone"
-    fullname: >-
-      🛡️🇸‌🇮‌🇻‌🇦‌🇳‌🇪‌🇸‌🇭‌🕉️ ☯️
-    bio: >-
-      தமிழ்🇮🇳|தாய்❤️|நட்பு👬 ✝️ 🕉️ ☪️ 🔥GoaL iS To DiE wiTh MeMoriEs nOt WiTh DreaMs🏍️ ⚔️Bearded LioNs⚔️🦁 🅱️+ve💙 ViLLaiNS😎 Traveller✈️ BISHOPian 1️⃣MC ⏩⏭️🎵⏪⏮️
-    location: "India"
-    followers: 4744
-    engagement: 1096
-    commentsToLikes: 0.030507
-    id: ckf5xfos0vhka0j23937i3nxc
-    verified: false
-    hashtags: "#villain, #beardfashion, #photography, #beardwash"
-  - username: "amityashwant_hair"
-    fullname: >-
-      Amit Yashwant
-    bio: >-
-      ▪@tigerjackieshroff Hair Stylist ▫Studied at @sassoonacademyofficial - UK ▪ Co-founder of @manemaniac_hairstudio ▫ Contact: + 7506950380☎️ ◾️📍Mumbai
-    location: "India"
-    followers: 34602
-    engagement: 313
-    commentsToLikes: 0.026523
-    id: ck6uatmj55l3p0j71x8iq7ocb
-    verified: true
-    hashtags: "#barbershop, #haircolor, #hairstylist, #india"
+    hashtags: "#hairformen, #dropfade, #fadedhaircut, #4hairpleasure"
   - username: "sheharyar321"
     fullname: >-
       MALIK SHEHARYAR
     bio: >-
       MODEL/ACTOR/INFLUENCER LESMILLS certified YOGA and GRIT trainer.💪 REIKI, DANCING, ART. 💜 FREE SOUL 👻
     location: "India"
-    followers: 21301
-    engagement: 438
-    commentsToLikes: 0.024329
+    followers: 22251
+    engagement: 501
+    commentsToLikes: 0.021797
     id: ck5q2lxewgnyd0i11fz4vrn08
     verified: false
-    hashtags: "#barber, #instagram, #actor, #gentleman"
-  - username: "stylexplore"
+    hashtags: "#artist, #photooftheday, #smile, #motivation"
+  - username: "mia_siva_leone"
     fullname: >-
-      Fashion 💖 Style 💖 Beauty
+      🛡️🇸‌🇮‌🇻‌🇦‌🇳‌🇪‌🇸‌🇭‌🕉️ ☯️
     bio: >-
-      👗Ɇxploring different styles everyday! ❣️ Follow us for daily inspiration 📩 DM For Features, PR & Paid Promos
+      தமிழ்🇮🇳|தாய்❤️|நட்பு👬 ✝️ 🕉️ ☪️ HuManity Gang!🔥 ⚔️Bearded LioN🦁 🅱️+ve💉DoNoR🩸 Traveller✈️ Foodie 🤩 T-Totaler💯 BISHOPian 1️⃣MC ⏩⏭️U🎵1️⃣⏪⏮️
     location: "India"
-    followers: 217421
-    engagement: 385
-    commentsToLikes: 0.007709
-    id: ck8t9puf6owkm0j78756xdtdo
+    followers: 4571
+    engagement: 977
+    commentsToLikes: 0.026105
+    id: ckf5xfos0vhka0j23937i3nxc
     verified: false
-    hashtags: "#forbeauty, #fashionsta, #longhair, #emohairstyle"
+    hashtags: "#barber, #hairgoals, #hairstyles, #hairstylist"
+  - username: "mr.bluestyles"
+    fullname: >-
+      men's Hairstyles 👦
+    bio: >-
+      •With us you can find the perfect fashion tips and hairstyles for you 💇‍♂️ • Follow @mr.bluestyles 👀 for more 🔥 • Dm for promotions.
+    location: "India"
+    followers: 46290
+    engagement: 309
+    commentsToLikes: 0.014800
+    id: ckf5kygaunofh0j23rgqtu7p2
+    verified: false
+    hashtags: "#love, #like, #photography, #berber"
   - username: "rtb_cutz"
     fullname: >-
-      DETAILS
+      Birmingham uk barber
     bio: >-
-      2022 #live #love #laugh 💈Natural 🇬🇧🇯🇲 Subscribe to YouTube Channel
+      🇯🇲 🇬🇧 #live #love #laugh BOOK A APPOINTMENT HERE 👇🏾👇🏾👇🏾👇🏾👇🏾
     location: "India"
-    followers: 20743
-    engagement: 556
-    commentsToLikes: 0.014254
+    followers: 22335
+    engagement: 591
+    commentsToLikes: 0.019126
     id: ck5qaqgpzhqo50i117nsosoz7
     verified: false
-    hashtags: "#360waves, #barber, #explorepage, #ukbarber"
-  - username: "editing_trends"
+    hashtags: "#topwavers, #wavesonspin, #thisweekoninstagram, #waver"
+  - username: "editing_club_12"
     fullname: >-
-      Editing_Trends
+      Editing_club
     bio: >-
-      👉Believe Yourself💯 ◆Trending Photo's📸, Fashion💃 Lifestyles✈ 👉Platform To Showcase Your Talent👔 ☢️ #editingtrends 📥DM For Collaboration
+      🌐Worlds Top Editing Collection👆🏻 ◆Target 500 K Goal...🏹 💵Only Paid Promotions Available💵 Tag Ur Pics Turn On Post Notification .
     location: "India"
-    followers: 368312
-    engagement: 285
-    commentsToLikes: 0.017074
-    id: ck15s0yhkaor20i19reg196gw
+    followers: 219230
+    engagement: 127
+    commentsToLikes: 0.019576
+    id: ck0w21inkm6k50i19yp3u11qo
     verified: false
-    hashtags: "#art, #carryminatimemes, #instagood, #tiktok"
+    hashtags: "#repost, #msdhoni, #cars, #picoftheday"
+  - username: "therealkhansab786"
+    fullname: >-
+      Imran Nazir Khan ( خان صاب 👑)
+    bio: >-
+      Model/ Actor/ Video creator كشمير🏡 📍| Mumbai | For collaboration kindly Mail or Dm
+    location: "India"
+    followers: 38359
+    engagement: 129
+    commentsToLikes: 0.047217
+    id: ck8wexq5des840j78jt70iva7
+    verified: false
+    hashtags: "#explore, #reels, #photooftheday, #outfitoftheday"
+  - username: "oszkaipeter"
+    fullname: >-
+      𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙬𝙤𝙧𝙡𝙙!
+    bio: >-
+      Follow my life in stories, and watch the art in feed! ⚡ Tiktok:oszkaipeter Business: email or dm ⚓️ Model ▪ Influencer ▪ Tiktoker
+    location: "India"
+    followers: 45461
+    engagement: 216
+    commentsToLikes: 0.044933
+    id: ck8tbd11gv6k90j78tjbp6l6m
+    verified: false
+    hashtags: "#look, #itstimeshop, #holiday, #portraitfeed"
 ---

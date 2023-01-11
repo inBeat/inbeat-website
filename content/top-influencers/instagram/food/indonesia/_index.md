@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Indonesia In 2022
+title: Top 10 Food Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top food Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #diindonesiaaja #ootd.
+  Find top food Instagram influencers in Indonesia in 2023. Most popular hashtags: #kulinerjakarta #kulinernusantara #jktfoodies.
 platform: Instagram
-hits: 842
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 842 Instagram influencers like this in Indonesia for you to work with.
+hits: 758
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 758 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "istii0298"
+  - username: "milla_khs"
     fullname: >-
-      Ⓘⓢⓣⓘⓠⓞⓜⓐⓗ🍑||TANGERANG
+      MILLA HISYAM S.Pd 🇲🇨🇸🇦
     bio: >-
-      بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ 🍑FASHION•FOOD•BEAUTY💦 💍ʷⁱᶠᵉ : @ahmdrizal15👰 📍CIKUPA TANGEƦANG ✏Part of : ADR 📩ENDORSE DLL,WA👇
+      LIFESTYLE,BEAUTY,FOOD,TRAVEL JOGJA Pp/Endorse(DM/Email/Wa CP) 📩millakhs1999@gmail.com TIKTOK 30K CEO @myndmanagement @rioslvs_ 🔒 Wa Cp (Mario) 👇🏻
     location: "Indonesia"
-    followers: 19352
-    engagement: 1041
-    commentsToLikes: 0.120091
-    id: ck9wh93hawtx20j785he705cp
+    followers: 122173
+    engagement: 408
+    commentsToLikes: 0.025745
+    id: ckf5s6zluewgv0j232p2dmoz5
     verified: false
-    hashtags: "#onepaletteallmakeup, #dazzlemebeauty, #beautybeyondboundaries, #pondsindonesia"
-  - username: "zelitaptr24"
+    hashtags: "#pesanuntuknur, #thatskygameid, #glowingjuicyskin, #kelilingbarengbecakichitan"
+  - username: "abellyc"
     fullname: >-
-      Ikke Zelita Putri💫
+      Abel Cantika ♥
     bio: >-
-      influencer|beauty|lifestyle|food|hijaber 𝗘𝗻𝗱𝗼𝗿𝘀𝗲 👇🏻 UNIVERSITAS RIAU’18🎓 #endorsebyzelita
+      See the beauty in everything // Beauty Enthusiast 🇲🇨 I Love Food - 158cm 💁🏻‍♀️ Spotify: Abel Cantika 📩: abelcantika.business@gmail.com
     location: "Indonesia"
-    followers: 12827
-    engagement: 1128
-    commentsToLikes: 0.186355
-    id: ck9wh8ehrwqfy0j782jhdp4ri
-    verified: false
-    hashtags: "#pekanbaru, #endorsebyzelita, #skincare, #bersamalawancorona"
-  - username: "trsplanet"
+    followers: 1014098
+    engagement: 324
+    commentsToLikes: 0.006817
+    id: ck0tzxq8mrwcg0i198cepsjxl
+    verified: true
+    hashtags: "#takethespotlight, #wajahmukekuatanmu, #mykaluela, #upgradecerahmu"
+  - username: "vallerieaudrey"
     fullname: >-
-      Romal & Aneka | IG Filters
+      Vallerie Audrey
     bio: >-
-      - Follow to unlock 20+ filters free - Travel | Food | Lifestyle - DM me if you want your own instagram effect or filter
+      ♥ Fashion | Beauty | Food | Lifestyle ♥ #StylebyVall 🪐 ☁️Line@ : @vallerieaudrey (with @)📲 // DM 🇮🇩Jakarta, Indonesia 💌vallerie.audrey@yahoo.com
     location: "Indonesia"
-    followers: 10867
-    engagement: 1259
-    commentsToLikes: 0.058981
-    id: ck15r793r6hra0i19jn5uhkmt
+    followers: 37903
+    engagement: 202
+    commentsToLikes: 0.013240
+    id: ck5cbcc48f5jc0i118nrotk24
     verified: false
-    hashtags: ""
-  - username: "solo_rider_vr1"
+    hashtags: "#ootdfashion, #ootdindo, #ootdinspiration, #ootdstyle"
+  - username: "zahrah.ateerah"
     fullname: >-
-      kerala മലപ്പുറം കാരൻ
+      Zahrah Ateerah
     bio: >-
-      V3 ❤ lover🏍 Ride fo my life 🏍 Call me jinu food boll player ⚽
+      TIDAK PUNYA AKUN GIVEAWAY ❤️ Food Enthusiast 📍 Kota Batu - Malang, Jawa Timur 🇮🇩 📩 Endorse/ Bussiness 082233043715 (admin)
     location: "Indonesia"
-    followers: 14148
-    engagement: 854
-    commentsToLikes: 0.092730
-    id: ck9widtkj1vn30j7854jolz9q
+    followers: 524112
+    engagement: 162
+    commentsToLikes: 0.005718
+    id: ck14k53rfnron0i195tlm6y08
     verified: false
-    hashtags: "#bikelife, #r15v3fans, #motogp2020, #v3"
-  - username: "asq04_"
+    hashtags: "#kulinermalang, #mito, #resep, #mitoelectronic"
+  - username: "nova.arioo"
     fullname: >-
-      𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝙈𝙞𝙛𝙩𝙖𝙝𝙪𝙡 𝘼𝙨𝙞𝙦𝙞𝙣 아시 친
+      nova ario
     bio: >-
-      Collab & Work Inquiries 📞📩 Let It Be 👻 I 💞 Pose In Front 📸 #lifestyle 👨‍🦱 #food 🍹🍱 #fashion 👔 #beauty 🛍️ Onin•Adr•SHR•Milenial•Stellar•TCE•Ball
+      Journey trough on odyssey of fashion & food stylist Business Inquiries Only DM📌 MALANG, ID
     location: "Indonesia"
-    followers: 14699
-    engagement: 765
-    commentsToLikes: 0.141731
-    id: ck5hnvjkoogsq0i11y2l34uj9
+    followers: 140221
+    engagement: 115
+    commentsToLikes: 0.019259
+    id: ck9wd95dwendd0j78uy3n422r
     verified: false
-    hashtags: "#asiqiinootd, #dirumahaja, #explorewithasiqiin, #asiqiinfood"
-  - username: "subianto.eko"
+    hashtags: "#selfservicelaundry, #rosannaonline, #spreiaesthetic, #thedailywashlaundromat"
+  - username: "hendry.jonathan"
     fullname: >-
-      SUBI - Hotel Reviewer
+      Kuliner Viral Indonesia | Food Content Creator
     bio: >-
-      Food | Travel My life is my journey Welcome to my world ! 🏡 Surabaya 📷 DM for collabs Thank God for all the blessings that You give me
+      Food Blogger, Gym Enthusiast, Sales Manager Tiktok: Kuliner Viral Indonesia (folls: 425k) Youtube: Hendry Jonathan (90k subscribers) Invite,Endorse:DM
     location: "Indonesia"
-    followers: 36891
-    engagement: 439
-    commentsToLikes: 0.275946
-    id: ck6u8z2f9uj5a0j713axvwjot
+    followers: 131422
+    engagement: 97
+    commentsToLikes: 0.032913
+    id: ck5q0p6m172n30i118qao3xy3
     verified: false
-    hashtags: "#selalubersyukur, #hotelreviewer, #staycation, #hotelreviewerindonesia"
-  - username: "agungpinota"
+    hashtags: "#kulinerjakartabarat, #jktfoodblogger, #kulinerjakarta, #kulinerlegendjakarta"
+  - username: "heytheresia"
     fullname: >-
-      Agung Pinota
+      Tere ☘
     bio: >-
-      📍Jakarta - Indonesia |🇲🇨 Travel | Lifestyle | Food For Business Inquiries Please DM or Email 😊 📥agungpinota@gmail.com
+      🔍 Top 10 Food Bloggers - Indonesia Tatler 🔍 Influence Asia Food 2015 🎥 video producer of @73studio.id 🍵 @itoenindonesia
     location: "Indonesia"
-    followers: 21672
-    engagement: 505
-    commentsToLikes: 0.062379
-    id: ck9wgogxoua5a0j78t9ylnil9
+    followers: 81728
+    engagement: 70
+    commentsToLikes: 0.156774
+    id: ck6tpsz9qmls80j71wwsmukh8
     verified: false
-    hashtags: "#banggabuatanindonesia, #diindonesiaaja, #thoughtfulindonesia, #ayokebali"
-  - username: "syosuaronald"
+    hashtags: "#kulinerserpong, #jakartafood, #heytheresia, #kulinerjakarta"
+  - username: "perutkarets"
     fullname: >-
-      Yosua Ronald Soukotta
+      Jerie Yanti
     bio: >-
-      Lifestyle | Travel | Food CC @pulaupelangiresort @baroko.id @siomaygiri @topbread.id @breadnos.id Sales Marketing @pulaupelangiresort Asprod MNC TV
+      Food Recommendations, Food lovers 📍Jakarta ✉️ DM For Inquiry 👶 : @joiceathaliaa
     location: "Indonesia"
-    followers: 58953
-    engagement: 341
-    commentsToLikes: 0.132185
-    id: ck9wgpyt6uguf0j78uvroykyg
+    followers: 261434
+    engagement: 158
+    commentsToLikes: 0.034445
+    id: ck0vx02emwg7o0i19hmphx03i
     verified: false
-    hashtags: "#crepes, #msglowformen, #yakinbisa, #percayadiri"
-  - username: "ferensabening"
+    hashtags: "#fruits, #kulinerindonesia, #bakmi, #buahimport"
+  - username: "jktfoodmap"
     fullname: >-
-      Ferensa Bening Azhilmi
+      Kelvin Tan
     bio: >-
-      @farisandani ‘s Wife. Food Lover. Photo Taker. 👕: @untukdiskusi Managed by @hashnetwork.co LINE: @asp8337o (use @)
+      Jakarta Food Map #jktfoodmap @myname.kelvin 🙇‍♂️🙏Thanks for following Email for Invitation / Endorsement
     location: "Indonesia"
-    followers: 20808
-    engagement: 495
-    commentsToLikes: 0.083582
-    id: ck15q30zd0ulu0i194532yf79
+    followers: 125165
+    engagement: 49
+    commentsToLikes: 0.037240
+    id: ck6u7wnpbo3490j71ix0a5xzx
     verified: false
-    hashtags: "#mandirisyariahmobile, #lebihmudah, #lebihberkah, #pindahkeyangberkah"
-  - username: "gagitusil"
+    hashtags: "#jktfoodmap, #jfmbogor, #jfmjakut, #jfmjakpus"
+  - username: "cheni_su"
     fullname: >-
-      Sisil
+      PP/Endorsement? Dm 💌
     bio: >-
-      FOOD, COMEDY, TRAVEL 😳✨ CP : 0821-2565-5247 (Rendy) 👕 : @belanjay.id 🥘 : @madeby.sil @gerakanmilenialindonesia @gmi_dkijakarta
+      • Fashion | Food | Lifestyle | Beauty Any business inquiries? DM 💌 📍Batam
     location: "Indonesia"
-    followers: 21611
-    engagement: 907
-    commentsToLikes: 0.020389
-    id: ck6tqujezufw70j71e9xn500d
+    followers: 14603
+    engagement: 802
+    commentsToLikes: 0.035555
+    id: ckap9h5ffslag0i78rawvyhei
     verified: false
-    hashtags: "#vivobookultra14d, #powerfulcolorful, #forsakenworldgadsea, #buatygngertiaja"
+    hashtags: "#fyp, #viralvideo, #samasamabelajar, #inspiration"
 ---

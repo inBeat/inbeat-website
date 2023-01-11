@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Toronto In 2022
+title: Top 10 Lifestyle Instagram Influencers In Toronto In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #lifestyle #ad #canada.
+  Find top lifestyle Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #sponsored #torontoblogger #torontolife.
 platform: Instagram
-hits: 253
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 253 Instagram influencers like this in Toronto, Canada for you to pitch.
+hits: 71
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 71 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "sairahayatkhan"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Motherhood. Fashion. Lifestyle. Toronto, Canada 🇨🇦
     location: "Canada"
-    followers: 43203
-    engagement: 161
-    commentsToLikes: 0.155303
+    followers: 44777
+    engagement: 184
+    commentsToLikes: 0.085914
     id: ckap1sltivybk0i784nr7lx7p
     verified: false
-    hashtags: "#ad, #ineverhavenicenails, #allowmetoreintroducemyself"
-  - username: "alanahlorraine"
-    fullname: >-
-      A 🕊
-    bio: >-
-      fashion + lifestyle toronto|hamilton ✉️alanahlorraine@gmail.com shop links ⬇️
-    location: "Canada"
-    followers: 4142
-    engagement: 728
-    commentsToLikes: 0.138424
-    id: ck0tubujo6i450i19w2jakvr4
-    verified: false
-    hashtags: "#ardenebabe, #vintagethefestival, #ardenelove, #fallchic"
+    hashtags: "#thoughtsofaseasonallydepressedmom"
   - username: "raineedays"
     fullname: >-
       R A I N E E
     bio: >-
-      • Mommy to Chayce • Riley • Rocky • • Photography • Parenting • Adventures • Lifestyle • • Toronto 🇨🇦 •
+      • Photography • Family Travel • Parenting Adventures • Lifestyle • • Toronto, Ontario•
     location: "Canada"
-    followers: 23316
-    engagement: 384
-    commentsToLikes: 0.110493
+    followers: 24029
+    engagement: 286
+    commentsToLikes: 0.186394
     id: ck0w6pxeo9qpp0i19wn93zd9n
     verified: false
-    hashtags: "#gifted, #ad, #canada, #momminainteasy"
-  - username: "froudemandy"
+    hashtags: "#ad, #gifted, #wgg211, #giftedproduct"
+  - username: "coralrosecarson"
     fullname: >-
-      Mandy Froude
+      CORAL CARSON
     bio: >-
-      🏆Miss Bikini NL 💃CPA Competitor 🔥@inside_fitness Hot & Fit 100 👙@khcustoms MF10 🍴@premiumchoicemeals MANDY10 💪🏼@bodylogix MANDY20
+      ♡ Miss Canada World Europe Continental ✎ top 25 women in weed ✧ Mgmt: @worldmgmt » @coralcarson.backup
     location: "Canada"
-    followers: 9714
-    engagement: 507
-    commentsToLikes: 0.035896
-    id: ckaordok3mr1c0i78ychdbuuv
+    followers: 80303
+    engagement: 64
+    commentsToLikes: 0.108176
+    id: ckap2ehwryhld0i784v3igkxb
     verified: false
-    hashtags: "#instafit, #views, #grateful, #beautifuldays"
-  - username: "kyallegend"
+    hashtags: "#magazine, #naturalbeauty, #rhk, #fit"
+  - username: "joecyzhang"
     fullname: >-
-      K Y A L  L E G E N D
+      𝐉𝐎𝐄𝐂𝐘 🇨🇦 𝐓𝐫𝐚𝐯𝐞𝐥 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
     bio: >-
-      Pronounced ( kai - al ) Founder & Designer @ishopBEAU lifestyle, beauty, and travel. 📩 kyallegend@gmail.com
+      ♡ The Official #joecyzhang ♡ Fashion | Beauty | Food | Travel ♡ Canada Lifestyle Blogger ♡ Collaboration: joecyzhang@yahoo.com 👠👘🍰🍵🧤👗✈️👖☔️👙
     location: "Canada"
-    followers: 39901
-    engagement: 161
-    commentsToLikes: 0.014981
-    id: ck5qdi681vpcs0i11raefdsdz
+    followers: 46592
+    engagement: 212
+    commentsToLikes: 0.417447
+    id: ck5hk2tozhowq0i11ucrjamzm
     verified: false
-    hashtags: "#lifestyle, #torontolife, #toronto, #ootd"
-  - username: "__marlyn.mary__"
+    hashtags: "#torontofoodie, #foodstagram, #instafree, #fashionblogger"
+  - username: "choudhurydib"
     fullname: >-
-      💍 𝑀𝒶𝓇𝓎 💍✧⋆
+      Dibya | Fashion && Lifestyle
     bio: >-
-      🇷🇺🇦🇫🇨🇦 ᴀᴄᴛᴏʀ/ᴍᴏᴅᴇʟ ᴡɪᴛʜ ᴘᴜɴᴊᴀʙ sᴛᴀʀ ⭐️| ʀᴀᴅɪᴏ ʜᴏsᴛ ᴡɪᴛʜ ᴄɪɴᴀ ʀᴀᴅɪᴏ | ᴀssᴏᴄɪᴀᴛᴇᴅ ᴡɪᴛʜ @jg_immiconsultant ᴛɪᴋᴛᴏᴋ:mαrlчn.mαrч snαpchαt:mαrlчn.mαrч
+      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
     location: "Canada"
-    followers: 2539
-    engagement: 1168
-    commentsToLikes: 0.122604
-    id: ck8weq5xlefx90j782190ye0b
+    followers: 23419
+    engagement: 287
+    commentsToLikes: 0.415016
+    id: ck8tbjidovy1i0j78zwxaohqd
     verified: false
-    hashtags: "#loveyourself, #style, #selfcare, #positivevibes"
-  - username: "casalnagringa_"
+    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
+  - username: "loki.eats"
     fullname: >-
-      Gaby & Victor no Canadá 🇨🇦
+      @lokiexplore
     bio: >-
-      Uma estudante de moda e um estudante de marketing morando no Canadá 🇧🇷🇨🇦 📍Toronto-ON 🇨🇦 Rotina, College e vida no Canadá 🎂23 e 23 anos 👇🏼 YouTube
+      New Account @lokiexplore
     location: "Canada"
-    followers: 5712
-    engagement: 909
-    commentsToLikes: 0.027716
-    id: ckaotdadivf5m0i78ynutqkor
+    followers: 1
+    engagement: 7711250
+    commentsToLikes: 0.134902
+    id: ck15pdw1zxegt0i19c6ul7eap
     verified: false
-    hashtags: "#brasileirosemtoronto, #couplegoals, #toronto, #cntower"
-  - username: "zarconhomes"
+    hashtags: "#flatlay, #falloutfit, #phoneeatsfirst, #torontogirl"
+  - username: "roseporsche981"
     fullname: >-
-      Zarcon Homes
+      981 Rose
     bio: >-
-      Luxury Custom Home Builder Development Consulting | Project Management | Planning Design & Build 416-389-1515 #zarconhomes Info@zarconhomes.com
+      🇨🇳🇨🇦 Car enthusiast🏎2014 Porsche Cayman 981; 2017 Jag XE Rsport “My problem is that I appreciate them all”— Paul Walker Gym lover 🏋🏻‍♀️💪👊
     location: "Canada"
-    followers: 4098
-    engagement: 606
-    commentsToLikes: 0.132105
-    id: ck15teniqhpew0i19wuhubgil
+    followers: 3655
+    engagement: 914
+    commentsToLikes: 0.042069
+    id: ckap9rsd3te9g0i789k90d2h7
     verified: false
-    hashtags: "#buildersofinsta, #modernhomes, #housegoals, #like"
-  - username: "shalini_matt"
+    hashtags: "#porschetruenorth, #cargirlsofinstagram, #cargirlculture, #porsche981"
+  - username: "erinwithmatt"
     fullname: >-
-      Shaluuu🌹
+      Toronto Lifestyle & Food 🇨🇦
     bio: >-
-      Fashion || Travel || Lifestyle 📍Toronto, Canada
+      💌 DM/erinwithmatt@gmail.com for collabs/PR 欢迎合作~ 👇 Check out our TikTok (130K+) & Reels
     location: "Canada"
-    followers: 3075
-    engagement: 2562
-    commentsToLikes: 0.085035
-    id: ck6uernicsp5o0j71ntftvyov
+    followers: 12497
+    engagement: 467
+    commentsToLikes: 0.046742
+    id: ck9wd15ncdlf50j78htqd40um
     verified: false
-    hashtags: "#wedding, #upbabe, #urbanplanet, #muah"
-  - username: "andrewcretaro"
+    hashtags: "#charminenjoythego, #shopperstoppicks, #peersdm, #markham"
+  - username: "pizza.and.peonies"
     fullname: >-
-      Andrew Cretaro
+      Sandra | Real Motherhood
     bio: >-
-      Content Creator • Lifestyle • Menswear Toronto📍 ✉️ Andrew.cretaro@gmail.com
+      Boy mama🧒🏼(3yo)+👶🏼(9m) Raising good humans #Intentionalparenting Wife Sharing all things motherhood+lifestyle Content creator 🇨🇦Toronto ENDY Partner⤵️
     location: "Canada"
-    followers: 15399
-    engagement: 309
-    commentsToLikes: 0.235476
-    id: ck0tv2w6i9pf20i19rqsqx1ao
+    followers: 25301
+    engagement: 321
+    commentsToLikes: 0.040525
+    id: ck5q1zbx4di6n0i11ax5d49km
     verified: false
-    hashtags: "#mejuri, #mejuripartner, #birramoretticanada, #authenticitalia"
+    hashtags: "#thatmomlife, #ontariolakes, #honestmothering, #mommylife"
+  - username: "iitheneaii"
+    fullname: >-
+      ☾ ᴛʜᴇɴᴇᴀ
+    bio: >-
+      Fashion · Lifestyle · Beauty —————————————— ◼️ Toronto ◼️ Thenea98@gmail.com
+    location: "Canada"
+    followers: 19521
+    engagement: 98
+    commentsToLikes: 0.076397
+    id: ck0u2jjvzzzv50i191h6ifmdf
+    verified: false
+    hashtags: "#vlog, #eyecream, #picnic, #sekkisei"
 ---

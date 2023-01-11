@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Osaka In 2022
+title: Top 10 Fitness Instagram Influencers In Osaka In 2023
 description: >-
-  Find top fitness Instagram influencers in Osaka in 2022. Most popular hashtags: #fitness #japan #kyoto #fashion.
+  Find top fitness Instagram influencers in Osaka in 2023. Most popular hashtags: #fitness #workout #training #osaka.
 platform: Instagram
-hits: 5
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5 Instagram influencers like this in Osaka, Japan for you to connect with.
+hits: 6
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 6 Instagram influencers like this in Osaka, Japan for you to pitch.
 profiles:
-  - username: "amyypatton"
-    fullname: >-
-      Ami
-    bio: >-
-      Tokyo・Japan 📍 🇯🇵🇮🇹🇮🇪🇩🇪 Mix TikTok : ami.patton お仕事依頼はメールまで📩 Youtube Channel ↓
-    location: "Japan"
-    followers: 88514
-    engagement: 419
-    commentsToLikes: 0.022528
-    id: ckap2aj7qy10w0i7847sryioc
-    verified: false
-    hashtags: "#ishigakiisland, #biancaclinic, #japangram, #okinawa"
   - username: "aiii528"
     fullname: >-
       AI / bodymake
     bio: >-
-      🇯🇵JPN/Kyoto/1992 ▫️BODY MAKE&おうちごはん ▫️CanCam8月号にBeforeAfter掲載💓 1年で−8.5kg🌼努力次第で人は変われる🕊🤍 毎日の自宅トレーニングで健康的な体を作る🌈
+      🇯🇵JPN/Kyoto/1992/食育実践プランナー資格 ▫️BODY MAKE&おうちごはん ▫️CanCam8月号にBeforeAfter掲載💓 1年で−8.5kg🌼努力次第で人は変われる🕊🤍 毎日の自宅トレーニングで健康的な体を作る🌈
     location: "Japan"
-    followers: 15717
-    engagement: 220
-    commentsToLikes: 0.021952
+    followers: 15177
+    engagement: 178
+    commentsToLikes: 0.017179
     id: ckap5uyysda3a0i78b7h5vsom
     verified: false
-    hashtags: "#foodstagram, #training, #diet, #beforeafter"
-  - username: "hitomin_1230"
+    hashtags: "#friends, #cookingram, #abs, #bodymake"
+  - username: "mina_shirakawa"
     fullname: >-
-      𝑯𝑰𝑻𝑶𝑴𝑰
+      白川未奈 Mina Shirakawa
     bio: >-
-      🇯🇵OSAKA / 1984 / 166cm 👩小学生ママ / フリーモデル 🏋️‍♀️ママ専門美容パーソナルトレーナー 💄コスメコンシェルジュ 👶チャイルドコーチングアドバイザー 📱アメブロやトレーニングお問い合わせ↓
+      Japanese bikini model & professional wrestler🇯🇵 #STARDOM ・ Please DM me for booking🤼‍♀️💓 #model #fitness #prowrestling #STARDOM #柔術 #BJJ #プロレス #グラビア
     location: "Japan"
-    followers: 35867
-    engagement: 163
-    commentsToLikes: 0.017083
-    id: ck0w20hc7m1ke0i198lt9namo
+    followers: 125768
+    engagement: 332
+    commentsToLikes: 0.019851
+    id: ck5qc5jfeoyif0i11vbdg2f3o
     verified: false
-    hashtags: "#viage, #ponte, #locari, #mineby3mootd"
-  - username: "kotachumu"
+    hashtags: "#beauty, #prowrestling, #workout, #japanese"
+  - username: "cfowl22"
     fullname: >-
-      こたつ@フォーエイト
+      Cory Fowler
     bio: >-
-      YouTube始めました➡︎こたちゅ〜ぶ【こたつ】
+      Cosplayer/Streamer/Fitness Christ is King 👑 NEXT COSPLAYS: Gojo, Reki, Tsukishima, Grey Fullbuster 290k on TikTok 📍Tokyo, Japan
     location: "Japan"
-    followers: 151220
-    engagement: 960
-    commentsToLikes: 0.007690
-    id: ck14kbwh3or7e0i191c7di7yn
+    followers: 7148
+    engagement: 645
+    commentsToLikes: 0.025538
+    id: ck0tskwuj07nu0i19gko2uqyn
     verified: false
-    hashtags: "#fashion, #fashiongram, #usj, #kpopdance"
-  - username: "shin_kuroobisan"
+    hashtags: "#cosplayphotography, #dccomics, #anime, #cosplayersofinstagram"
+  - username: "karenokajima0318"
     fullname: >-
-      黒帯さん^ ^
+      karen
     bio: >-
-      model•influencer料理研究家賃貸マンション経営空手•グルメ•ビューティーの黒帯が目標横浜ベイシェラトンスーパーフード料理監修食べログGooglemapRetty人気ブロガーとしてTV出演 @woomy.me @woomy.beauty @woomy.restaurant
+      #岡島かれん です🥰 ❤️#関西インフルエンサー 👯‍♀️#おかじデータ 🍴#グルメ岡島 ✈️#おかじ旅行記 👗#おかじコーデ ⛳️#おかじゴルフ ✍﻿ @minami_kuchikomi_news 👇🏻 依頼用LINEはこちら
     location: "Japan"
-    followers: 62427
-    engagement: 256
-    commentsToLikes: 0.022602
-    id: ck14gn8qo62a00i19x842erjn
+    followers: 44097
+    engagement: 91
+    commentsToLikes: 0.014642
+    id: ck5hjvotehbuq0i11mu8lvl4u
     verified: false
-    hashtags: "#pr, #onsen, #hello100, #canon"
-  - username: "blifetokyo"
+    hashtags: "#bvlgari, #louisvuitton, #osakahotel, #rayon"
+  - username: "yui_innami"
     fullname: >-
-      B-life
+      𝗬𝗨𝗜
     bio: >-
-      Yoga & Fitness Workout Creator. 痩せたい！健康的になりたい！すべての方の悩みを解決するエクササイズ動画を無料で配信しています。10〜15分くらいの空き時間で気軽に行えますので、是非お試しください♪
+      𝗧𝗼𝗸𝘆𝗼🇯🇵 𝗗𝗮𝗻𝗰𝗲𝗿 / 𝗖𝗵𝗼𝗿𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿 𝗬𝗼𝗴𝗮 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗼𝗿 (𝗥𝗬𝗧𝟮𝟬𝟬・𝗥𝗣𝗬𝗧𝟴𝟱) 𝗕𝗼𝗱𝘆𝗷𝗮𝗺 / 𝗣𝗮𝗶𝗻𝘁𝗲𝗿 / 𝗠𝗼𝗺 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @onearts_jpn @sloli_jp #yuiinnami #yuiyoga21 🌹
     location: "Japan"
-    followers: 41649
-    engagement: 735
-    commentsToLikes: 0.032724
-    id: ckapb665gypre0i78i1v3kh7d
+    followers: 5893
+    engagement: 410
+    commentsToLikes: 0.012667
+    id: ck15qzol85eoh0i19iscqplh1
     verified: false
-    hashtags: "#389, #393, #401"
-  - username: "emo_thinker"
+    hashtags: "#yuiyoga21, #vans, #minne, #freehand"
+  - username: "yukonano"
     fullname: >-
-      ابجت  🔴
+      波志冨裕子/𝕐𝕌𝕂𝕆
     bio: >-
-      ABhi (royalenfield) 🏍 . standard 350 . BikeR🌍 . Fitness model💪 . Modelling👕 . mechanical 🛠 . palakkad | kochi . powered by: @pvrwheelsroyalenfield
+      ⛰Trail 🏕Camp ✈️Trip 🎶DJ 💃Model 💄beauty 👗fashion 🧏🏻‍♀️ambassador ♡yukostyle💕 好きなもの running休止
     location: "Japan"
-    followers: 7791
-    engagement: 1991
-    commentsToLikes: 0.054009
-    id: ckap2k38zz6e20i78aet83e5p
+    followers: 12825
+    engagement: 656
+    commentsToLikes: 0.000392
+    id: ck6tzekzf98r10j713bxzq7zd
     verified: false
-    hashtags: "#speed, #moto, #bikersaroundtheglobe, #entekeralam"
+    hashtags: "#dw, #fashionstyle, #yukostyle, #foodstagram"
+  - username: "lara_vns"
+    fullname: >-
+      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+    bio: >-
+      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
+    location: "Japan"
+    followers: 12770
+    engagement: 786
+    commentsToLikes: 0.136789
+    id: ckap8nya3p6kk0i78tp4nb40s
+    verified: false
+    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
+  - username: "miyako.610"
+    fullname: >-
+      都　Miyako
+    bio: >-
+      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
+    location: "Japan"
+    followers: 36569
+    engagement: 1025
+    commentsToLikes: 0.014134
+    id: ck8tc215gy01u0j78fh6krpoo
+    verified: false
+    hashtags: "#workout, #life, #coralu, #fitnessgirl"
   - username: "sapirfi"
     fullname: >-
       ספיר פישלזון-מאיר
     bio: >-
       נינג'ה ישראל Baby Power Mom Fitness 🤘 Hands stands Gymnastics | Acrobatics | Parkour | Ninja🤸‍♀️ Harder| Better | Faster | STRONGER #אמאנינגה 👩
     location: "Japan"
-    followers: 14110
-    engagement: 1037
-    commentsToLikes: 0.028930
+    followers: 14244
+    engagement: 779
+    commentsToLikes: 0.031599
     id: ck13cvsmv2ery0i19obywhslt
     verified: false
-    hashtags: "#34weekspregnant, #momlife, #strongwoman, #balance"
-  - username: "yogi_liza"
-    fullname: >-
-      Eliza
-    bio: >-
-      Japanese Hoosier in Houston. CPA by day, fitness junkie all other hrs. Teacher @bigpoweryoga My BFFs are @the_texaspups 500 HR RYT 🧘🏽‍♀️
-    location: "Japan"
-    followers: 24201
-    engagement: 214
-    commentsToLikes: 0.110587
-    id: ck13b66j7tvcj0i193wjwt13o
-    verified: false
-    hashtags: "#fallforthechakras, #fableticspartner, #alofusarethankful, #thankfulthursday"
+    hashtags: "#fitnesslife, #handstand, #momlove, #babyworkout"
   - username: "wikd_fury"
     fullname: >-
       Ash 👋☺
     bio: >-
-      Gamer (PC & PS4) 🎮 Cosplayer 💁 Fitness Junkie 💪 @wikd_fitness Follow me on Twitch & Patreon! ⤵⤵⤵
+      Gamer since '91 Cosplayer 🙆‍♀️ Nursing Major 🩺 Lost but not Alone: #wikdwarriors @wikd_fitness 💪 Follow my Twitch & Patreon! ⤵
     location: "Japan"
-    followers: 21719
-    engagement: 460
-    commentsToLikes: 0.037178
+    followers: 21296
+    engagement: 430
+    commentsToLikes: 0.041081
     id: ck0w4lzpvz8o20i19lg1qv85i
     verified: false
-    hashtags: "#twitchkittens, #twitchstreamer, #twitchaffiliate, #vegetaxbulma"
+    hashtags: "#cosplayersofinstagram, #dccomics, #cosplayphotography, #catwoman"
 ---

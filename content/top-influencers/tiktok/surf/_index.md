@@ -1,130 +1,130 @@
 ---
-title: Top 10 Surf TikTok Influencers In 2022
+title: Top 10 Surf TikTok Influencers In 2023
 description: >-
-  Find top surf TikTok influencers in 2022. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top surf TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #viral #thisorthatsblv.
 platform: TikTok
-hits: 1085
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database has 1085 TikTok influencers like this for you to work with.
+hits: 1038
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 1038 TikTok influencers like this for you to work with.
 profiles:
-  - username: "lexileigh_"
-    fullname: >-
-      LexiLeigh_
-    bio: >-
-      Not that nobody cares but I’m in school Last follower: @subway_surfers_games01
-    location: "United States"
-    followers: 7726
-    engagement: 2569
-    commentsToLikes: 0.063067
-    id: ckck2slzrmdao0j23vtcgdq4b
-    verified: false
-    hashtags: "#greenscreensticker, #immuneupvapedown, #halloweenathome, #oikosonetrip"
   - username: "ginalikestosurf"
     fullname: >-
       Gina DAndraia 
     bio: >-
       Surfing is life 🏄 Chase 🐾 Cooper INSTA: g_dandraia
     location: "United States"
-    followers: 41200
-    engagement: 2552
-    commentsToLikes: 0.036835
+    followers: 41100
+    engagement: 1958
+    commentsToLikes: 0.038531
     id: ckbqkszik5vp70j234y7drbu8
     verified: false
-    hashtags: "#fyp, #doggo, #foryou, #showandtell"
-  - username: "alisonsadventures"
+    hashtags: "#pupperonishuffle, #thisorthatsblv, #tiktokpets, #fyp"
+  - username: "southernsurfer"
     fullname: >-
-      alisonteal
+      Jimmie
     bio: >-
-      Surfing Indiana Jones Eco Hawaii Treehouse Your Passport To The World NEW BOOK👇
+      Husband, Father, Surfer Here just for fun 21 and older #blueeyedviking
     location: "United States"
-    followers: 541200
-    engagement: 2257
-    commentsToLikes: 0.015117
-    id: ck93o4y5430qx0j78x1zd7uz9
-    verified: true
-    hashtags: "#eco, #surf, #offgrid, #ocean"
-  - username: "arri_goes_rawrr"
-    fullname: >-
-      Arri
-    bio: >-
-      On the surface its beauty confuses. It’s lethal. 18+ She/Her
-    location: "United States"
-    followers: 6581
-    engagement: 2772
-    commentsToLikes: 0.188508
-    id: ckavr2iqm2vv90j23im117rdf
+    followers: 18100
+    engagement: 3154
+    commentsToLikes: 0.616576
+    id: ckd1aa0ffs8a80j23p9ap213o
     verified: false
-    hashtags: "#demonoc, #skeleton, #uv, #duet"
+    hashtags: "#foryou, #fyp, #beingsilly, #positivityteam"
   - username: "kai.samuel"
     fullname: >-
       kai.samuel
     bio: >-
-      50k?? Thank you for 42k!!! 🦀 Maryland 🦀 Surfer
+      🦀 Maryland 🦀 Surfer Snap: kdavis6165
     location: "United States"
-    followers: 41400
-    engagement: 2425
-    commentsToLikes: 0.025832
+    followers: 40600
+    engagement: 2518
+    commentsToLikes: 0.023443
     id: ck933otchoyk00j78brpxrbta
     verified: false
-    hashtags: "#outerbanks, #foryoupage, #surferboy, #surfer"
+    hashtags: "#pov, #surferboy, #foryoupage, #foryou"
   - username: "livbehri"
     fullname: >-
-      livbehri
+      Liv
     bio: >-
-      18 FL i’m joking. this doesn’t exist. oh & surfing is the only thing i can do
+      18 FL 🌈 this isn’t real oh & surfing is the only thing i can do
     location: "United States"
-    followers: 41300
-    engagement: 1756
-    commentsToLikes: 0.039553
+    followers: 52100
+    engagement: 1708
+    commentsToLikes: 0.039581
     id: ckcvjkoykx19m0j23qawdlgl1
     verified: false
-    hashtags: "#bi, #wewintogether, #animation, #expressieyourself"
+    hashtags: "#smile, #happy, #seashanty, #lgbt"
+  - username: "koala_mads2"
+    fullname: >-
+      M̴a̴d̴s̴🦋
+    bio: >-
+      You can’t stop the waves, but you can learn to surf
+    location: "United States"
+    followers: 50200
+    engagement: 3058
+    commentsToLikes: 0.019587
+    id: ckbb3xsgtu7lv0j23whqt63ue
+    verified: false
+    hashtags: "#basketball, #fyp, #foryou, #thisorthatsblv"
   - username: "jewelians"
     fullname: >-
       julian 👑
     bio: >-
       SHOP @ JEWELIANS.COM 👑 they/them. 👑 tools: clip studio paint/surface pro 👑
     location: "United States"
-    followers: 52500
-    engagement: 2699
-    commentsToLikes: 0.018759
+    followers: 57900
+    engagement: 2350
+    commentsToLikes: 0.020543
     id: ck9glf42ho56y0j783j8t5szm
     verified: false
-    hashtags: "#twistedwonderland, #kda, #identityv, #idv"
-  - username: "oceanna_"
+    hashtags: "#junkoenoshima, #enoshimajunko, #danganronpa, #asuka"
+  - username: "moewilliams88"
     fullname: >-
-      oceanna
+      Moe Williams
     bio: >-
-      📼 Nostalgia surfer 📼 IG: @oceanna
+      DM me on insta ^^ Once i hit 50K I’m baking 50,000 cookies 🍪 Surfer 🏄🏼
     location: "United States"
-    followers: 17100
-    engagement: 1057
-    commentsToLikes: 0.068285
-    id: ck9r4iqkfv8vg0j78c95l8nz6
+    followers: 42500
+    engagement: 1884
+    commentsToLikes: 0.018836
+    id: ck9el4eoz8z5f0j78tdwr0seq
     verified: false
-    hashtags: "#1980s, #cringe, #90s, #nostalgia"
-  - username: "eimeo.czermak"
+    hashtags: "#rollerskating, #rednoseday, #familythings, #howto"
+  - username: "codynewmanmusic"
     fullname: >-
-      Eimeo Czermak
+      cody newman
     bio: >-
-      Surfer Boy From Tahiti Hopefully you like what I’m doing 🙏🏽❤️
-    location: "French Polynesia"
-    followers: 359600
-    engagement: 2295
-    commentsToLikes: 0.021126
-    id: cka0npjz20o680i78rpcbxmc2
-    verified: false
-    hashtags: "#viral, #devinelapersonne"
-  - username: "southernsurfer"
-    fullname: >-
-      Southern Surfer
-    bio: >-
-      Husband, Father, Surfer and Entertainer!!! Here just for fun! Hurley 18+
+      they/them some 15 year old surf punk snapchat: codynewmanmusic
     location: "United States"
-    followers: 16700
-    engagement: 1762
-    commentsToLikes: 0.175346
-    id: ckd1aa0ffs8a80j23p9ap213o
+    followers: 73900
+    engagement: 2409
+    commentsToLikes: 0.039703
+    id: ck9grjiu4ebd10j782ubf76hj
     verified: false
-    hashtags: "#positivityteam, #southernsurfer, #bff, #foryoupage"
+    hashtags: "#ftm, #lgbt, #transition, #newmusic"
+  - username: "aitanaste"
+    fullname: >-
+      Aitana López
+    bio: >-
+      4 fun :)) surfer Ig: aiitanalopzz👼🏼
+    location: "Spain"
+    followers: 45500
+    engagement: 1922
+    commentsToLikes: 0.014052
+    id: ckd6zci1by7y10j23oih9vtkk
+    verified: false
+    hashtags: "#lentejas, #parati, #viral, #puntos"
+  - username: "blake_zeitler"
+    fullname: >-
+      Officialblake
+    bio: >-
+      50k? Snap: bzeitler2019 Insta: b_zeitler7 Florida surfer boy 🏄
+    location: "United States"
+    followers: 10600
+    engagement: 1979
+    commentsToLikes: 0.060262
+    id: ckd5qgj8jxt950j23gfbrq7nm
+    verified: false
+    hashtags: "#fyp, #viral, #scarystories, #straighttiktok"
 ---

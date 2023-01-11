@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Chile In 2022
+title: Top 10 Models Instagram Influencers In Chile In 2023
 description: >-
-  Find top models Instagram influencers in Chile in 2022. Most popular hashtags: #makeupartist #corsalovers #nyxcosmetics.
+  Find top models Instagram influencers in Chile in 2023. Most popular hashtags: #model #chile #moda.
 platform: Instagram
-hits: 136
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 136 Instagram influencers like this in Chile for you to collaborate.
+hits: 158
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 158 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "anitabritog"
-    fullname: >-
-      A N I T A  B R I T O
-    bio: >-
-      •Content Creator• 💜Makeup Artist. 💚Dancer. 🤍Model. 📍 𝘝𝘦𝘯𝘦𝘻𝘰𝘭𝘢𝘯𝘢 𝘦𝘯 𝘊𝘩𝘪𝘭𝘦. Colaboraciones /PR al Dm 💌
-    location: "Chile"
-    followers: 12562
-    engagement: 889
-    commentsToLikes: 0.100555
-    id: ck6tibwbn0fcp0j71tshs2oj3
-    verified: false
-    hashtags: "#bridemakeup, #morphebrushes, #nakedskin, #anastasiabeverlyhills"
-  - username: "vale_caballero"
-    fullname: >-
-      Vale Caballero
-    bio: >-
-      Travel 🌍 Model ⠀⠀⠀⠀⠀⠀⠀ ✈️ 44 countries 📩 valecaballerof@gmail.com TikTok/Youtube👇🏻
-    location: "Chile"
-    followers: 399532
-    engagement: 630
-    commentsToLikes: 0.012120
-    id: ck5zyp425a9n80i14yja6llaq
-    verified: true
-    hashtags: "#revolveme, #halloween, #tiedye"
   - username: "clementekalm"
     fullname: >-
       Clemente Kalm E.
     bio: >-
-      We Love Models Chile clemente.kalm1@gmail.com
+      Chile Elite Model Management clemente.kalm1@gmail.com
     location: "Chile"
-    followers: 18584
-    engagement: 1580
-    commentsToLikes: 0.018877
+    followers: 18849
+    engagement: 1613
+    commentsToLikes: 0.017305
     id: ck5zyp696a9s80i145tp81ktw
     verified: false
-    hashtags: "#urbanfalabella, #cambiaturutina, #pepsimatch, #aexme"
+    hashtags: "#catoriginalsboots, #catnewarrivals, #adidasoriginals, #urbanfalabella"
+  - username: "daniela_kirberg"
+    fullname: >-
+      Daniela Kirberg ⚡️
+    bio: >-
+      Periodista ⚡️ Mamá de Benja, Sarah y Rafa ⚡️Conductora de TV ⚡️Community manager⚡️Agencia We Love Models⚡️Market place ⬇️
+    location: "Chile"
+    followers: 90144
+    engagement: 160
+    commentsToLikes: 0.070298
+    id: ck1370ewf95x50i19jssbusj9
+    verified: true
+    hashtags: "#alanizloverz, #vichylaboratoires, #pielsana, #regeneralapiel"
   - username: "conti_silvae"
     fullname: >-
       Conti Silva
     bio: >-
-      Represented by WE LOVE MODELS 🇨🇱 📧: contisilva@hotmail.com
+      Represented by WE LOVE MODELS 🇨🇱 Content creator Outfits/ Lifestyle/ Travels 📧: contisilva@hotmail.com
     location: "Chile"
-    followers: 21640
-    engagement: 251
-    commentsToLikes: 0.068356
+    followers: 21036
+    engagement: 183
+    commentsToLikes: 0.056585
     id: ck5cc31s1gmf40i11fpfdl80q
     verified: false
-    hashtags: "#allergenproof, #yslbeautychile, #dejatetentar, #tumejorvoz"
-  - username: "erlande_augustin_"
+    hashtags: "#nomakeup, #sinfiltro, #soul, #dejatellevar"
+  - username: "samanthamofc"
     fullname: >-
-      Erly 🇭🇹 ✨
+      ★ s ᴀ ᴍ ᴀ ɴ ᴛ ʜ ᴀ ★
     bio: >-
-      ♏️Scorpio 🦂 Actress &model Model📩 : @welovemodels._ 👩🏾‍🦱 Santiago, chile 📍 BLACK IS MY RELIGION ✊🏿 #worthpridelyblack
+      SAMANTHAMOFC MARTINEZ 👇 (UNICA CUENTA DE FACEBOOK) Dance @movingartistdancecompany Youtuber🎤 Samy red social Model 13 años.. 🇻🇪 en 🇺🇸 📩 Dm
     location: "Chile"
-    followers: 17154
-    engagement: 352
-    commentsToLikes: 0.053281
-    id: ck0vxd82gybim0i19kvq0a1s5
+    followers: 56738
+    engagement: 300
+    commentsToLikes: 0.016546
+    id: ck14ha7859bd50i19k4nzrkq1
     verified: false
-    hashtags: "#tbt, #love, #18, #raiseyourflag"
-  - username: "lisandrasilva"
+    hashtags: "#influencerlife, #followers, #fashionkids, #influencerkids"
+  - username: "micamurua"
     fullname: >-
-      LISANDRA SILVA
+      
     bio: >-
-      Cuban Model/ Actress/ Tv Host Noah’s Mom Business 📩contacto@lisandrasilva.cl Creative Director @cambiatuimagen.tv
+      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
     location: "Chile"
-    followers: 1876671
-    engagement: 239
-    commentsToLikes: 0.010613
-    id: ck134cotivt0j0i19hrj7qn98
-    verified: true
-    hashtags: "#saddlebag, #revolvegirl, #yoelijoe, #nosquitamoslasmascarillasparalafoto"
-  - username: "simonamaass"
-    fullname: >-
-      Simona Maass
-    bio: >-
-      📍Santiago, Chile Elite Model, Chile Contempo Models, CDMX Coral Management, Peru
-    location: "Chile"
-    followers: 14452
-    engagement: 501
-    commentsToLikes: 0.038133
-    id: ck6tzz17ucoka0j71cc3d7qvz
+    followers: 23851
+    engagement: 336
+    commentsToLikes: 0.145892
+    id: ck139t27qmz500i19t1yqfv2v
     verified: false
-    hashtags: "#peronichile"
-  - username: "santiagocanepaa"
+    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
+  - username: "trinidaddesign"
     fullname: >-
-      Santiago Canepa 🌱🇦🇷
+      Trinidad Zoldyck
     bio: >-
-      • Traveler ✈️ • Photography lover • Scouting @manifiestomanagement • MA @vmg.models
+      Trans Model🔥 Graphic designer 👩🏼‍💻 Hair artist 💇🏼‍♀️ 👦🏼👶🏽❤️ @mktowel.cl
     location: "Chile"
-    followers: 6141
-    engagement: 1007
-    commentsToLikes: 0.016165
-    id: ck6tzyt65cn7k0j71l99nb1tj
+    followers: 10038
+    engagement: 971
+    commentsToLikes: 0.022464
+    id: ck8t1fkzgvkvi0j78nnwqe5hw
     verified: false
-    hashtags: "#ecco, #cuarentenamodoon"
+    hashtags: "#maccosmetics, #model, #blonde, #lips"
   - username: "brankobacovich"
     fullname: >-
       BRANKO BACOVICH
     bio: >-
-      🎓 Ing Adm Empresas 💣 CEO @bombagencia_cl | Tmetal Spa 📸 Model @elitemodel_chile 🌍 Traveller 💪 Fitness 📍 Stgo/Antof🇨🇱🇭🇷 📩 bbacovich@gmail.com
+      🎓 Ing Adm Empresas 💡Business 📸 Model @elitemodel_chile 🌍 Traveller 💪 Fitness 📍 Stgo/Antof 📩 bbacovich@gmail.com
     location: "Chile"
-    followers: 43310
-    engagement: 333
-    commentsToLikes: 0.009308
+    followers: 48233
+    engagement: 401
+    commentsToLikes: 0.026380
     id: ckf5qnd3i9y2q0j23nslwt8np
     verified: true
-    hashtags: "#corsalovers, #opelcorsa, #opellovers, #cars"
+    hashtags: "#aldoloveplanet, #starbucksathome, #aldosneakershop, #aldocrew"
   - username: "criscanalsok"
     fullname: >-
       CRISTIAN CANALS
     bio: >-
-      Mendoza, Argentina 🌱 Plant Based Mexico @deluxe_model 🇲🇽 Chile @elitemodel_chile 🇨🇱 Brasil @cosmos_mgm 🇧🇷
+      📍Santiago, Chile From Argentina 🇦🇷 🌱 Plant Based Mexico @deluxe_model 🇲🇽 Chile @elitemodel_chile 🇨🇱 Brasil @cosmos_mgm 🇧🇷
     location: "Chile"
-    followers: 12366
-    engagement: 437
-    commentsToLikes: 0.069409
+    followers: 16240
+    engagement: 410
+    commentsToLikes: 0.041126
     id: ck5zsr4jkz1ec0i14brparpf3
     verified: false
-    hashtags: ""
+    hashtags: "#domingo, #shower, #camboriu, #miernes"
+  - username: "margotcorvalan"
+    fullname: >-
+      Margot Corvalan
+    bio: >-
+      Dueña /Owner @elementalclothing.co Skin Care lover Model
+    location: "Chile"
+    followers: 69434
+    engagement: 116
+    commentsToLikes: 0.020571
+    id: ck6u9niujyjq90j71hvdjt6p2
+    verified: true
+    hashtags: "#shopping, #elementalclothingco, #functionoverfashion, #moda"
+  - username: "ryanstoneoficial"
+    fullname: >-
+      Ryan Stone
+    bio: >-
+      🇺🇸🇨🇺🇵🇦 Fitness | Model | Lifestyle Disque fotógrafo y filmmaker 📸🎥🎞 Visita mi tienda @hotshoppanama 🛒🔥
+    location: "Chile"
+    followers: 91420
+    engagement: 185
+    commentsToLikes: 0.007668
+    id: ck15rz0nhaetn0i19yjr3tgz7
+    verified: false
+    hashtags: "#photography, #portrait, #panama, #blackandwhitephotography"
 ---

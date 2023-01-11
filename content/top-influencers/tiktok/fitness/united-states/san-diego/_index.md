@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In San Diego In 2022
+title: Top 10 Fitness TikTok Influencers In San Diego In 2023
 description: >-
-  Find top fitness TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #fitness #sandiego #foryou.
+  Find top fitness TikTok influencers in San Diego in 2023. Most popular hashtags: #workout #fitness #fyp #sandiego.
 platform: TikTok
-hits: 38
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 38 TikTok influencers like this in San Diego, United States for you to connect with.
+hits: 34
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 34 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "sealslax"
+  - username: "the_fitevolution"
     fullname: >-
-      San Diego Seals
+      Jereke Armstrong
     bio: >-
-      Your favorite NLL team. 🔱
+      Former Pro Athlete 🏈 I’ll give you a free workout program if you follow my IG!
     location: "United States"
-    followers: 4893
-    engagement: 1441
-    commentsToLikes: 0.024348
-    id: ckcej936vrwx10j23c7mvr3ih
-    verified: true
-    hashtags: "#sports, #dance, #fyp, #fitness"
-  - username: "deep_end_fitness"
-    fullname: >-
-      deependfitness
-    bio: >-
-      Outperform in competition through mind and body calmness and confidence.
-    location: "United States"
-    followers: 345100
-    engagement: 526
-    commentsToLikes: 0.005205
-    id: ck9jzl9pc9cec0j78byq4c8nh
+    followers: 38800
+    engagement: 568
+    commentsToLikes: 0.010269
+    id: ck83zgge00jgm0j78459tmumn
     verified: false
-    hashtags: "#fyp, #underwater, #water, #fitness"
+    hashtags: "#personaltrainer, #sports, #sandiego, #fitness"
+  - username: "denzeleusebio"
+    fullname: >-
+      Denzel Eusebio
+    bio: >-
+      San Diego Dance & Fitness NASM CPT, CES LVN
+    location: "United States"
+    followers: 4301
+    engagement: 893
+    commentsToLikes: 0.059843
+    id: ckauzs80v5d0s0j23qyp7fiie
+    verified: false
+    hashtags: "#fyp, #kpop, #taeyang, #dance"
+  - username: "powerliftingprincess"
+    fullname: >-
+      powerliftingprincess
+    bio: >-
+      67.5kg powerlifter 💪🏼 San Diego Insta: @carawochaski
+    location: "United States"
+    followers: 7511
+    engagement: 1007
+    commentsToLikes: 0.036345
+    id: ck9v1fcqygwe00j78t3is49ht
+    verified: false
+    hashtags: "#powerlifting, #girlswholift, #girlswhopowerlift, #gymshark"
+  - username: "bigslank31"
+    fullname: >-
+      Seth Shaw
+    bio: >-
+      Vegas IFBB PRO Online 1:1 coaching Training and Nutrition
+    location: "United States"
+    followers: 57300
+    engagement: 1046
+    commentsToLikes: 0.020840
+    id: ck8os0x1aenz50j785cy6oj8i
+    verified: false
+    hashtags: "#armday, #workout, #ifbb, #ifbbpro"
+  - username: "napalmfitness"
+    fullname: >-
+      🔥Napalm Power🔥
+    bio: >-
+      🇺🇸 San Diego CA Love the 💪🔥 energy! Second account: LiftingNapalm
+    location: "United States"
+    followers: 38500
+    engagement: 2988
+    commentsToLikes: 0.189945
+    id: ckb9oxyy7jpgr0j23xplgtp1l
+    verified: false
+    hashtags: "#gym, #feeltheburn, #squats, #lifting"
+  - username: "alextherealtor"
+    fullname: >-
+      Alex The Realtor
+    bio: >-
+      San Diego Realtor 🏡 Dog parent 🐶 🇲🇽🇺🇸
+    location: "United States"
+    followers: 329300
+    engagement: 743
+    commentsToLikes: 0.024393
+    id: ck81q43safrl20j78sptfwwhw
+    verified: false
+    hashtags: "#labrador, #dogs, #lab, #quarantinethings"
+  - username: "theworx34"
+    fullname: >-
+      Jason Worx
+    bio: >-
+      ⚓️ 20 yrs retired Navy!! ⚓️ LvL 39 San Diego has my ❤️
+    location: "United States"
+    followers: 9362
+    engagement: 1463
+    commentsToLikes: 0.082223
+    id: ck9skjk5994na0j783jahk282
+    verified: false
+    hashtags: "#ily, #loveyourself, #mondaymotivation, #duet"
   - username: "lauranovack"
     fullname: >-
       laura.novack
     bio: >-
       personal trainer. san diego, ca lauranovack88@gmail.com
     location: "United States"
-    followers: 609000
-    engagement: 1359
-    commentsToLikes: 0.009588
+    followers: 696800
+    engagement: 1044
+    commentsToLikes: 0.008901
     id: ck80oaixtgd0o0j78k4ahjjes
     verified: false
-    hashtags: "#california, #fitness, #fitnesschallenge, #sandiego"
-  - username: "carajunee"
+    hashtags: "#sandiego, #partnerchallenge, #abs, #gymnastics"
+  - username: "chefonlyphans"
     fullname: >-
-      carajunee
+      phan
     bio: >-
-      67.5kg powerlifter 💪🏼 San Diego Insta: @carawochaski
+      san diego still figuring out how to cook
     location: "United States"
-    followers: 6491
-    engagement: 923
-    commentsToLikes: 0.025770
-    id: ck9v1fcqygwe00j78t3is49ht
+    followers: 48900
+    engagement: 1884
+    commentsToLikes: 0.008437
+    id: ckbqbxl0rxzug0j23tn66539s
     verified: false
-    hashtags: "#gymshark, #fit, #gym, #deadlift"
-  - username: "jacksparrowed"
+    hashtags: "#krakboba, #fyp, #boba, #barista"
+  - username: "nutritionwithles"
     fullname: >-
-      Captain Jack Sparrow
+      Leslie gonzalez
     bio: >-
-      Venmo @CaptainJackSparrowEd
+      HELLLOO 🤍 Future RD 🔜 Realistic nutrition 🥑 San Diego📍 / SDSU 📚 / 20
     location: "United States"
-    followers: 551500
-    engagement: 1085
-    commentsToLikes: 0.029618
-    id: ckb9hnh807i740j23rtg18yk3
+    followers: 6073
+    engagement: 802
+    commentsToLikes: 0.041750
+    id: ckcuyupu6mjd10j23llt9kvil
     verified: false
-    hashtags: "#you, #piratesofthecaribbean, #jacksparrow2020, #pirate"
-  - username: "denzeleusebio"
-    fullname: >-
-      Denzel Eusebio
-    bio: >-
-      San Diego Dance & Fitness Follow me on Twitch & IG
-    location: "United States"
-    followers: 4207
-    engagement: 908
-    commentsToLikes: 0.055034
-    id: ckauzs80v5d0s0j23qyp7fiie
-    verified: false
-    hashtags: "#kpop, #dance, #fyp, #taeyang"
-  - username: "courtknee_24"
-    fullname: >-
-      Courtney Ilten
-    bio: >-
-      IG: courtknee_24 San Diego, CA
-    location: "United States"
-    followers: 4544
-    engagement: 513
-    commentsToLikes: 0.063198
-    id: ckb9m7a7nf5py0j23q22nhhvp
-    verified: false
-    hashtags: "#girls, #california, #dance, #friends"
-  - username: "renaemalone"
-    fullname: >-
-      renaemalone
-    bio: >-
-      travel, vegan, yogi🌺 follow me on insta! @renaemalone
-    location: "United States"
-    followers: 212300
-    engagement: 1113
-    commentsToLikes: 0.010395
-    id: ck8j8562yhcdk0j78tbal3sfg
-    verified: false
-    hashtags: "#foryou, #couplegoals, #beach, #fyp"
-  - username: "brycemarin"
-    fullname: >-
-      Bryce
-    bio: >-
-      Follow my ig🦋 ^^
-    location: "United States"
-    followers: 8867
-    engagement: 986
-    commentsToLikes: 0.040943
-    id: ckdspznc9om2l0j23srk0fcwf
-    verified: false
-    hashtags: "#adventure, #explore, #film, #editing"
-  - username: "officialrambam"
-    fullname: >-
-      Ofc. Al.B
-    bio: >-
-      Sharing my daily life ● 18+ Work ● Food ● Experiences ● Traveling 🇯🇴●🇺🇲
-    location: "United States"
-    followers: 15000
-    engagement: 325
-    commentsToLikes: 0.011406
-    id: ckcpd8r17fx1t0j23x4nb02sn
-    verified: false
-    hashtags: "#walk, #nature, #letsgo, #animal"
+    hashtags: "#health, #nutrition, #thatwitch, #rd2b"
 ---

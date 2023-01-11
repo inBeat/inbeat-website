@@ -1,60 +1,36 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Barbers Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top barbers Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #mydubai #dubailife #uae.
+  Find top barbers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #dxb #barbershop.
 platform: Instagram
-hits: 9
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 9 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 15
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 15 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "tareq_almasri1"
-    fullname: >-
-      Tareq Almasri  💈✂💇🏻‍♂️
-    bio: >-
-      Hairstylist Owner of @final_touch_salon1 . . . 👇🏻👇🏻FINAL TOUCH SALON👇🏻👇🏻 @final_touch_salon1 YOUTUBE 👇🏻👇🏻
-    location: "United Arab Emirates"
-    followers: 71819
-    engagement: 879
-    commentsToLikes: 0.019836
-    id: ckap5irqnbvb00i787fvwqn1m
-    verified: false
-    hashtags: "#uae, #barbershop, #barber, #dxb"
   - username: "abedkosove"
     fullname: >-
       abed qisie -عبد قيسي
     bio: >-
-      🇦🇪📍
+      uae 🇦🇪📍 abedkosove 👻
     location: "United Arab Emirates"
-    followers: 35837
-    engagement: 247
-    commentsToLikes: 0.090786
+    followers: 35171
+    engagement: 291
+    commentsToLikes: 0.082048
     id: ck9wfmoghpj4d0j78x4a8vj9b
     verified: false
-    hashtags: "#dubai, #dubailifestyle, #uae, #salon"
-  - username: "arsallan__"
-    fullname: >-
-      A R S ꕔ L A N
-    bio: >-
-      DUBAI 🇦🇪 INTERNATIONAL HAIRSTYLIST & HAIR INDUSTRY PROFESSIONAL . A COLLECTION OF MY WORK, MY CLIENTS & MY PASSION 🌎 _________ booking 🔻
-    location: "United Arab Emirates"
-    followers: 31885
-    engagement: 412
-    commentsToLikes: 0.056733
-    id: ckapcmvmi4ec10i78w6u4dbtt
-    verified: false
-    hashtags: "#dubailife, #jbr, #barberhub, #dxb"
+    hashtags: "#bahrain, #luxury, #fashion, #views"
   - username: "soledair_salon"
     fullname: >-
-      عباس حمود الصفحة الرسمية
+      SOLEDAIR SALON & SPA
     bio: >-
-      1st 🇦🇪 #Uae #Dubai +971 54 221 2920 2nd🇱🇧 #Beirut #Achrafieh +96171100610 3rd🇱🇧 #Dahye 📞+961 81 888 738 4th🇱🇧#Hazmieh #champs 71 10 06 10
+      1st 🇦🇪 #Uae #Dubai +971 54 221 2920 2nd🇱🇧 #Beirut #Achrafieh +96176655549 3rd🇱🇧 #Dahye 📞+961 81 888 738 4th🇱🇧#Hazmieh #champs 71100610
     location: "United Arab Emirates"
-    followers: 64469
-    engagement: 336
-    commentsToLikes: 0.091524
+    followers: 106026
+    engagement: 498
+    commentsToLikes: 0.059942
     id: ck5cikqtdsu130i11oi3j9tgh
     verified: false
-    hashtags: "#haircolor, #dubai, #soledairsalon, #magleb"
+    hashtags: "#magleb, #dxb, #uae, #salon"
   - username: "kochifaraj"
     fullname: >-
       Your hair is my duty
@@ -66,53 +42,89 @@ profiles:
     commentsToLikes: 0.012163
     id: ck135ouie2hm20i19zfkcua3u
     verified: true
-    hashtags: "#dubaibarber, #fade, #dubai, #wellafamily"
-  - username: "ajmal_khan_"
+    hashtags: "#fade, #wellaplex, #wella, #stockholm"
+  - username: "kamran_nateghiii"
     fullname: >-
-      Ajmal Khan | AK
+      Kamran Nateghi
     bio: >-
-      Remember why you started. •Personal style blogger• 📧: contact.ajmalkhan@gmail.com DUBAI 📍
+      🇮🇷🇸🇪 Model | Bodybuilder | Boxer | Father | Grandfather 🥈IFBB Championships Dubai 2016 Silver 🥇WFF Ireland 2016 Honorary Gold
     location: "United Arab Emirates"
-    followers: 1881391
-    engagement: 275
-    commentsToLikes: 0.023827
-    id: ck0u9huh19wtj0i19c0zp8fz9
-    verified: true
-    hashtags: "#tagwagai, #photo, #like, #beauty"
-  - username: "bigrossiradio"
-    fullname: >-
-      Ross Burrill
-    bio: >-
-      33.3333% of the Kris Fade Show on Virgin Radio Dubai
-    location: "United Arab Emirates"
-    followers: 23961
-    engagement: 143
-    commentsToLikes: 0.049427
-    id: ck6tpuch7n1g90j713tbumfki
+    followers: 50213
+    engagement: 584
+    commentsToLikes: 0.054377
+    id: ck9wii7lo2dtv0j78joaqhfce
     verified: false
-    hashtags: "#parenting, #covidlife, #stayhome, #coronavirus"
-  - username: "shirinvandort"
+    hashtags: "#gang, #fitnes, #modeling, #portrait"
+  - username: "mr.andyo"
     fullname: >-
-      Fashion|Makeup|Lifestyle|Dxb
+      ANDY ONASSIS
     bio: >-
-      business@shirinvandort.com Licensed. @worldspecialtycoffee @capturedbyshirin 🇳🇱 🇦🇪 🇺🇿 BBA&MARKETING @canadianuniversitydubai www.shirinvandort.com
+      BUSINESS MAN /ACTOR DUBAI | LONDRES | SÃO PAULO WWW.ONLYFANS.COM/ANDYONASSIS
     location: "United Arab Emirates"
-    followers: 179846
-    engagement: 19
-    commentsToLikes: 0.078372
-    id: ck136qf9z7r2d0i191qfnrwx2
+    followers: 14159
+    engagement: 964
+    commentsToLikes: 0.023972
+    id: ckap5ixchbvye0i78utjw6xdg
     verified: false
-    hashtags: "#bhfyp, #dubailife, #dubai, #fallfashion"
-  - username: "__amazingking_"
+    hashtags: "#etw, #london, #self, #tbt"
+  - username: "janeaboujaoude.official"
     fullname: >-
-      Kingsley Rainbow
+      Jane Abou Jaoude Official
     bio: >-
-      “No one is you and that is your power”. Artist Manager #ENDSARS #ENDPOLICEBRUTALITY Founder 👉 @dubai.babershop_africans
+      ▫Fashion Model/ Actress/ Beautician ▫based in dubai 🇦🇪 subscribe to my you tube channel ▫@janeaboujaoudebeauty
     location: "United Arab Emirates"
-    followers: 8517
-    engagement: 332
-    commentsToLikes: 0.060843
-    id: ck135551rzrbx0i199xde19df
+    followers: 159358
+    engagement: 59
+    commentsToLikes: 0.034890
+    id: ckap8d8fcntc90i78iwncnkdr
     verified: false
-    hashtags: "#lifestyle, #brandinfluencer, #happybirthday, #staysafe"
+    hashtags: "#dubaievents, #stance, #abudhabi, #dubaitalent"
+  - username: "tareq_almasri1"
+    fullname: >-
+      Tareq Almasri  💈✂💇🏻‍♂️
+    bio: >-
+      Hairstylist Owner of @final_touch_salon1 Snap 👻 : tziad89 . . 👇🏻👇🏻FINAL TOUCH SALON👇🏻👇🏻 @final_touch_salon1 YOUTUBE 👇🏻👇🏻
+    location: "United Arab Emirates"
+    followers: 81034
+    engagement: 964
+    commentsToLikes: 0.014457
+    id: ckap5irqnbvb00i787fvwqn1m
+    verified: false
+    hashtags: "#amman, #explore, #uae, #barberlife"
+  - username: "muhanad._sadek"
+    fullname: >-
+      Muhannad Sadek | PhotoGrapher
+    bio: >-
+      Fashion & Beauty Photography SYRIA 🇸🇾 DUBAI 🇦🇪
+    location: "United Arab Emirates"
+    followers: 20917
+    engagement: 164
+    commentsToLikes: 0.035654
+    id: ck14i4oezdml70i19nnnvkh78
+    verified: false
+    hashtags: "#fashionblogger, #blogger, #summervibes, #style"
+  - username: "alsaidalani"
+    fullname: >-
+      طلال الصيدلاني🦖
+    bio: >-
+      Singer 🎤 ‎للإستفسار @allailak الليلك 00965 99114211 00965 66114211 Snap: alsaidalani 👇🏾
+    location: "United Arab Emirates"
+    followers: 35437
+    engagement: 129
+    commentsToLikes: 0.039834
+    id: ck15q8qvo1n0w0i19437k7yg3
+    verified: false
+    hashtags: "#fullserves, #kalmullah, #barbershop"
+  - username: "hiphopcardio"
+    fullname: >-
+      HipHop Cardio Dance Dubai🇦🇪
+    bio: >-
+      👯A Fun Way To Work Out 🎧Hip-Hop Meets Fitness🤸🏻‍♂️ 📍🇦🇪Dubai 📍group&private classes in Dxb, UAE/kids & adults classes Tag #hiphopcardio 👇Book
+    location: "United Arab Emirates"
+    followers: 23279
+    engagement: 220
+    commentsToLikes: 0.045394
+    id: ck6tygjsl3llb0j71h5z7fna2
+    verified: false
+    hashtags: "#hiphop, #danceworkout, #burncalories, #fitnessindxb"
 ---

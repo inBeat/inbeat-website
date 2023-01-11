@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Bali In 2022
+title: Top 10 Instagram Influencers In Bali In 2023
 description: >-
-  Find top Instagram influencers in Bali in 2022. Most popular hashtags: #bali #freedomthinkers #amexambassador.
+  Find top Instagram influencers in Bali in 2023. Most popular hashtags: #bali #pastipuaspastidiblibli #sahabatperjalananmu.
 platform: Instagram
-hits: 2522
+hits: 1865
 text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 2522 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+text_bottom: inBeat holds 1865 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
-  - username: "maia_rose_x"
-    fullname: >-
-      Maia Rose
-    bio: >-
-      🌏 living in Bali 🏹 fashion, beauty, travel 💌 m.koumis@hotmail.co.uk
-    location: "Indonesia"
-    followers: 41143
-    engagement: 217
-    commentsToLikes: 0.038292
-    id: ckap3hnx831cn0i78qohzqlfi
-    verified: false
-    hashtags: "#bali"
-  - username: "patty_searle"
-    fullname: >-
-      Patty Dungca-Searle
-    bio: >-
-      Bali based || Let’s work together | hey@passionsxpatty.com all around creative | @passionsxpatty @kohei.island.co @black_book_fashion @urbankissed
-    location: "Indonesia"
-    followers: 16191
-    engagement: 441
-    commentsToLikes: 0.319377
-    id: ck6tucm78fkfd0j71iwh1nrm4
-    verified: false
-    hashtags: "#bali"
-  - username: "engelhardtlund"
-    fullname: >-
-      Simone Engelhardt
-    bio: >-
-      Bali
-    location: "Indonesia"
-    followers: 6938
-    engagement: 994
-    commentsToLikes: 0.036817
-    id: ck5zygcaj9u270i14hom1z5yh
-    verified: false
-    hashtags: "#sacredfeminine, #bali, #balance, #canggu"
   - username: "explorebali"
     fullname: >-
       BALI
     bio: >-
       Sharing experience of Bali’s diversity. Tag your Bali Experience #explorebali to give us permission to repost. 📩 explorebali.traveling@gmail.com
     location: "Indonesia"
-    followers: 487413
-    engagement: 123
-    commentsToLikes: 0.013980
+    followers: 514564
+    engagement: 98
+    commentsToLikes: 0.012278
     id: ck0tymxg5nbp20i19tvm05xp1
     verified: false
-    hashtags: "#stayathome, #dirumahaja, #explorebalihandinhand, #explorebali"
-  - username: "kamilasikl"
+    hashtags: "#explorebali, #pesandarirumahaja, #erafone, #eraspace"
+  - username: "andadenayu"
     fullname: >-
-      KAMILA SIKL KRECKOVA
+      Anda Denayu
     bio: >-
-      Naše cesta kolem světa @thesikls 🌎 📍Bali🐲🌊 BoysMama 🛹🪁 Elliot & Levi Tvoříme @siklsskirt • @wewillsee_jewelry 🌙 📮sikls@sikls.com
+      ✨Clozette 🌟#Charisceleb Contact: DM @sahabatberkahh #collabwithanda Jog | Bali #revu_id_5e087e99
     location: "Indonesia"
-    followers: 132500
-    engagement: 587
-    commentsToLikes: 0.115361
-    id: ck9wfvtzbqpst0j78s6pr516h
+    followers: 17191
+    engagement: 389
+    commentsToLikes: 0.067460
+    id: ck5hnmytno1qm0i11qr7jwi4c
     verified: false
-    hashtags: "#prvninocvnovembyte, #travelkids, #nutrilon, #nutriloncz"
-  - username: "jerwahyu"
+    hashtags: "#kskincare, #hicharis, #charisceleb, #korea"
+  - username: "backpackertampan"
     fullname: >-
-      Jerwah.
+      Tampan | Bali
     bio: >-
-      Bali, Indonesia🇮🇩 Traveling and business @jerproject || @hypebali.sply My travel agency⬇️
+      📍Living a fairytale in Bali 🌈🧚🏻✨ ⭐️ My upcoming Boba Cafe @uchuboba ⭐️ Clothing brand @semesta.bytampan ⭐️ Photo preset @tampanfilms
     location: "Indonesia"
-    followers: 3498
-    engagement: 2086
-    commentsToLikes: 0.238925
-    id: ck8t0dk1yrpin0j78xd33le27
+    followers: 198785
+    engagement: 311
+    commentsToLikes: 0.017571
+    id: ck0w040h7c9ml0i19vkozopxk
     verified: false
-    hashtags: "#igersworldwide, #stayandwander, #awesomeearth, #peoplescreatives"
-  - username: "eltonandersonjr"
+    hashtags: "#baliindonesia, #traveler, #bali, #travelphotography"
+  - username: "dylanwerneryoga"
     fullname: >-
-      ELTON ANDERSON, JR
+      Dylan Werner
     bio: >-
-      Life is good... constantly making it better. ⚡️ 📍Bali, Indonesia 🌍 81 Countries Podcast @detroitchopra Founder @CreatorsofColor Host @lensofculture
+      Yoga Teacher Living in Bali 🇮🇩 My book “The Illuminated Breath” is available on Amazon and Kindle!
     location: "Indonesia"
-    followers: 40924
-    engagement: 891
-    commentsToLikes: 0.046050
-    id: ck0vw7he5sg250i19v404rzfp
-    verified: false
-    hashtags: "#sheamoisturepartner, #deltaamex, #yearofreturn, #beautyatitsroots"
-  - username: "kiranaekaputrii"
+    followers: 813817
+    engagement: 298
+    commentsToLikes: 0.016796
+    id: ck5pyvzy3y2ig0i11xgtmxjmz
+    verified: true
+    hashtags: "#handstand, #backbend, #yoga, #expo2020"
+  - username: "her_journeys"
     fullname: >-
-      Ida Ayu Kirana Eka Putri
+      ANGGEY ANGGRAINI
     bio: >-
-      ₁₄ | 📩 𝚙𝚙/𝚎𝚗𝚍𝚘𝚛𝚜𝚎 @stars_management._ @qrraana 🌙 putri bali👇🏼
+      Love to travel, share her experiences and enjoy the little joys of life 🫶🏽 🌏: 𝚠𝚠𝚠.𝚑𝚎𝚛𝚓𝚘𝚞𝚛𝚗𝚎𝚢𝚜.𝚌𝚘𝚖 📺: 𝚢𝚘𝚞𝚝𝚞𝚋𝚎.𝚌𝚘𝚖/𝚑𝚎𝚛_𝚓𝚘𝚞𝚛𝚗𝚎𝚢𝚜 📍Bali, Indonesia
     location: "Indonesia"
-    followers: 8868
-    engagement: 2476
-    commentsToLikes: 0.054290
-    id: ckapbbzyizcej0i78qk2aox6b
+    followers: 183483
+    engagement: 290
+    commentsToLikes: 6.448539
+    id: ck0w287kqn2pj0i19lqinfn4t
     verified: false
-    hashtags: "#musergeneration, #muserindo, #tiktokbali, #muserindonesia"
-  - username: "karennijsen"
+    hashtags: "#sahabatperjalananmu, #bliblisahabatperjalananmu, #pastipuaspastidiblibli, #paidpromote"
+  - username: "herman_wang"
     fullname: >-
-      Karen Nijsen
+      Luxury Travel Hotel Beauty
     bio: >-
-      💌 knijsen@gmail.com 📍Bali, Indonesia
+      I’m Indonesian 👬 Capricorn man #Fashion designer @herman_arifin #Travel #Hotel @wang_baliluxuryhotel #Luxury brands @hermanwang_luxurycloset
     location: "Indonesia"
-    followers: 73161
-    engagement: 434
-    commentsToLikes: 0.044158
-    id: ck14i7huce0yd0i195flsdzh9
+    followers: 54821
+    engagement: 128
+    commentsToLikes: 0.030431
+    id: ck6tsifpl4xzq0j71jvjln74u
     verified: false
-    hashtags: ""
-  - username: "sakharova.md"
+    hashtags: "#ayanaresort, #jimbaran, #jakartasfinestexperience, #jomalone"
+  - username: "harivalzayuka"
     fullname: >-
-      ДИАНА | КЛИНИЧЕСКИЙ ПСИХОЛОГ
+      Harival Zayuka| Travel Blogger
     bio: >-
-      Найти себя невозможно — себя можно только создать! ⠀ 🎥Снимаю антидепрессивные сторис ⠀ 🇲🇨 Live in Indonesia, Bali ⬇️Терапия, статьи, лекции
+      Traveler / Gym Enthusiast 📍 Bali, Indonesia For business inquiries WA +6281246508649 ✉️ contact@harivalzayuka.com
     location: "Indonesia"
-    followers: 40863
-    engagement: 464
-    commentsToLikes: 0.068560
-    id: ck5ceuufmlr4c0i119imzvi6c
+    followers: 112661
+    engagement: 108
+    commentsToLikes: 0.015457
+    id: ck0uehemrlh6d0i19p2hms9lx
     verified: false
-    hashtags: "#sakharova, #dianalyse"
+    hashtags: "#harivalswitzerland, #europe, #swiss, #switzerland"
+  - username: "onic.esports"
+    fullname: >-
+      ONIC
+    bio: >-
+      ONIC ID -- @tokopedia @gopayindonesia @biznethome @dailybox.id @asusrog.id @popsworldwide_id @balitoken -- @onicsupplyid @sobat_onic
+    location: "Indonesia"
+    followers: 1543439
+    engagement: 41
+    commentsToLikes: 0.016693
+    id: ck0w07cw4cr3b0i19skg9oz5i
+    verified: true
+    hashtags: "#nonstopantingedrop, #mlbbesports, #m4, #goonic"
+  - username: "reginaaphx"
+    fullname: >-
+      Regina Phoenix
+    bio: >-
+      📍Bali & Bdg @zirius.official 💫 📲 Vindi 082115567250 (Brand) ☎️Doni 0895607892020 (Schedule)
+    location: "Indonesia"
+    followers: 170693
+    engagement: 23
+    commentsToLikes: 0.000700
+    id: ck6twvbccuawq0j71ymzanm6n
+    verified: false
+    hashtags: "#doktermobil, #pastiberes, #confidencehalo, #jasminemeetsrose"
+  - username: "gasdedd"
+    fullname: >-
+      Deddy Mahardika
+    bio: >-
+      ❁ Bali - Indonesia ✎ infogasdedd@gmail.com ➤ Part of @sewamirrorlessnine ▼ #BALIMISSINGYOUFFA
+    location: "Indonesia"
+    followers: 6207
+    engagement: 1624
+    commentsToLikes: 0.079286
+    id: ck5hhy1onan890i11zq59mjh8
+    verified: false
+    hashtags: "#welivetoexplore, #earthfocus, #discoverearth, #stayandwander"
 ---

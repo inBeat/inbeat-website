@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Italy In 2022
+title: Top 10 Crossfit Instagram Influencers In Italy In 2023
 description: >-
-  Find top crossfit Instagram influencers in Italy in 2022. Most popular hashtags: #crossfit #love #fitness.
+  Find top crossfit Instagram influencers in Italy in 2023. Most popular hashtags: #love #fitness #crossfit #body.
 platform: Instagram
-hits: 132
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 132 Instagram influencers like this in Italy for you to pitch.
+hits: 101
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 101 Instagram influencers like this in Italy for you to contact.
 profiles:
-  - username: "_giadamassara_"
-    fullname: >-
-      Giada Massara
-    bio: >-
-      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
-    location: "Italy"
-    followers: 35091
-    engagement: 1014
-    commentsToLikes: 0.084816
-    id: ck5hr9419uhac0i116ngq4l7x
-    verified: false
-    hashtags: "#muscle, #quarantena, #fitnessitalia, #ootd"
   - username: "alessiam__m"
     fullname: >-
       ᗩᒪᙓSSIᗩ ♥️ 𝒯𝑜𝓇𝒾𝓃𝑜-𝒪𝓁𝒷𝒾𝒶 🖤
     bio: >-
       🦋𝙸 𝚕𝚘𝚟𝚎 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢🦋 • business consultant• 🐩🐩🐩 • Torino - Olbia • Love SARDINIA•♥️💙 • F.V.C.G. ⚽️ CROSSFIT •💃🏻🎾
     location: "Italy"
-    followers: 5383
-    engagement: 1272
-    commentsToLikes: 0.070404
+    followers: 5569
+    engagement: 1449
+    commentsToLikes: 0.069761
     id: ckf5lxaczrede0j23ki7nmwtl
     verified: false
-    hashtags: "#summer2020, #torino, #sardinia, #summer"
+    hashtags: "#sardegna, #turin, #torino, #summer"
   - username: "marlensitzia"
     fullname: >-
       Marlen
     bio: >-
       🇮🇹 @crossfittorino ♡ 🏋🏻‍♀️🤸🏻‍♀️🧘🏻‍♀️
     location: "Italy"
-    followers: 10389
-    engagement: 1256
-    commentsToLikes: 0.023743
+    followers: 10312
+    engagement: 1085
+    commentsToLikes: 0.026497
     id: ck6txdrerx8xv0j718cl2wa9l
     verified: false
-    hashtags: "#outfit, #calisthenicsitalia, #workout, #bulking"
-  - username: "matteobracco"
+    hashtags: "#flexibility, #covid2020, #crossfitlife, #bodytransformation"
+  - username: "enx_o"
     fullname: >-
-      Matteo Braccani
+      Vincenzo
     bio: >-
-      🔵CO-OWNER @crossfitcortina 🎓Laurea in scienze motorie IUSM Personal Trainer 🏋 Crossfit L1 “Avanti un altro” - Canale5 Matteo.braccani@gmail.com
+      🔸Chemist 📌Napoli/Saronno🇮🇹 🔹Brand Ambassador - Team Leader 🔹Gym addicted - Crossfit
     location: "Italy"
-    followers: 9905
-    engagement: 1401
-    commentsToLikes: 0.016198
-    id: ck5zp8g76s6x80i14y2zino2y
+    followers: 20268
+    engagement: 593
+    commentsToLikes: 0.044444
+    id: ckap7a67lj7300i78ksz9oxub
     verified: false
-    hashtags: "#palestra, #training, #lifestyle, #strong"
-  - username: "frolov__alexey"
+    hashtags: "#castles, #happiness, #igernapoli, #campaniadavivere"
+  - username: "nickynellow"
     fullname: >-
-      Алексей Фролов
+      Nikola Kičmerová
     bio: >-
-      Any challenge is a chance for me. Love ❤️ Energy💥 Travelling 🌍🛫 CrossFit 🏋🏿‍♀️ Wakesurf 🏄🏻‍♂️ Hunting 🏹🦌 Photography📸
+      CROSSFIT GIRL 🐰 ᴘʟᴀʏʙᴏʏ 11/2020 ▪ғɪᴛɴᴇss ᴛʀᴀɪɴᴇʀ 📖 ᴇ-ʙᴏᴏᴋ: Zadeček + Nohy, Břicho I, II 📩ᴍᴀɪʟ: ɴɪᴋᴏʟᴀ.ᴋɪᴄᴍᴇʀᴏᴠᴀ@sᴇᴢɴᴀᴍ.ᴄᴢ
     location: "Italy"
-    followers: 9626
-    engagement: 1655
-    commentsToLikes: 0.012445
-    id: ck6tpasq7is6t0j71vp0c6ow5
+    followers: 131816
+    engagement: 170
+    commentsToLikes: 0.047550
+    id: ck6u996crw7570j71whf5lrd2
     verified: false
-    hashtags: "#lyfestyle, #flashpay, #flashid, #it"
+    hashtags: "#brunettes, #crossfitcouple, #happy, #czechgirl"
+  - username: "lorussofa"
+    fullname: >-
+      Fabio
+    bio: >-
+      Italy 🇮🇹 Puglia 🏖 Crossfit lover🏋️ 🎓 Business administration Talk about me @lorussofaremark
+    location: "Italy"
+    followers: 75399
+    engagement: 194
+    commentsToLikes: 0.022210
+    id: ck5zk5e1viuhb0i144lam1g15
+    verified: false
+    hashtags: "#holiday, #italy, #summervibes, #summer2020"
+  - username: "karel_losenicky"
+    fullname: >-
+      Karel Losenicky
+    bio: >-
+      fashion sport and animal lover rapresened by @productionlink_photographers muay-thai @degymmuaythai_degym2.0 crossfit @milanimalcom
+    location: "Italy"
+    followers: 19293
+    engagement: 294
+    commentsToLikes: 0.108696
+    id: ck0u0q1g3ujhk0i19moi0gsei
+    verified: false
+    hashtags: "#beauty, #flawless, #adv, #sea"
   - username: "filippazzonoemi"
     fullname: >-
       Noemi Filippazzo
     bio: >-
-      🏋🏽‍♀️Weightlifting Athlete 🤸🏽‍♀️Gymnastics coach #fgi 🎓Scienze delle attività motorie 💍❤️ @gianluca_stitzer #crossfit #weightlifting
+      🏋🏽‍♀️Weightlifting Athlete 🤸🏽‍♀️Gymnastics coach #fgi #crossfit 🎓Scienze delle attività motorie 💍❤️ @gianluca_stitzer #mammadiPriamo🍼💙
     location: "Italy"
-    followers: 4741
-    engagement: 1244
-    commentsToLikes: 0.046383
+    followers: 4627
+    engagement: 1293
+    commentsToLikes: 0.046739
     id: ck5pyfpkjvsme0i11dxoh8tvx
     verified: false
-    hashtags: "#strappo, #weightlifting, #nationalteam, #firstplace"
-  - username: "gianluca_stitzer"
-    fullname: >-
-      Gianluca Stitzer
-    bio: >-
-      🏋🏼Meridian Regional CrossFit® Athlete 2018 🤸‍♂️ BLOR Athlete 💪YAMAMOTO Athlete 👊 2 x Kick Boxing World champion 🇮🇹 ITARMY Official ❤ @filippazzonoemi
-    location: "Italy"
-    followers: 7762
-    engagement: 759
-    commentsToLikes: 0.023531
-    id: ck5pyfp5ivsjh0i11uk3wvv9s
-    verified: false
-    hashtags: "#blorcompany, #blorathlete, #bhtlab, #yamamototeam"
+    hashtags: "#weightlifting, #nationalteam, #strappo, #fipe"
   - username: "rach_goldenberg"
     fullname: >-
       Rachel (Goldenberg) Reichanek
     bio: >-
-      Owner/Head coach @crossfitparallax “Gymnastics by Goldenberg” 🤸🏼‍♀️ @imbuilt code Rachel1010 @iloveanti code Rachel10 @grytfitness code Rach15
+      Owner/Head coach @crossfitparallax “Gymnastics by Goldenberg” @imbuilt code Rachel1010 @iloveanti code Rachel10 @grytfitness code Rach15
     location: "Italy"
-    followers: 23439
-    engagement: 299
-    commentsToLikes: 0.029870
+    followers: 23242
+    engagement: 267
+    commentsToLikes: 0.027411
     id: ck5bzouwqrkht0i111mhwuamj
     verified: false
-    hashtags: "#imbuilt, #bgirl, #builtbar, #everygirlingymclass"
-  - username: "kasseedy"
+    hashtags: "#imbuilt, #bgirl, #builtbar, #soundon"
+  - username: "vero.pala"
     fullname: >-
-      cassandra giusto🌈
+      VERONICA PALADINO
     bio: >-
-      crossfit🏋🏽‍♀️ football⚽️ techno addicted 🔊🎛lenske
+      🇮🇹 CrossFit 📍Milano ⬇️ ＤＩＳＣＯＵＮＴ ＣＯＤＥＳ ⬇️
     location: "Italy"
-    followers: 6232
-    engagement: 974
-    commentsToLikes: 0.009757
-    id: ckf5r7he7bonn0j234oqxkohi
+    followers: 17493
+    engagement: 479
+    commentsToLikes: 0.014423
+    id: ck5hr93mquh930i11647cnlo9
     verified: false
-    hashtags: ""
+    hashtags: "#skullfit, #skullfitathlete, #crossfit, #iamxeniosusa"
   - username: "seretwin"
     fullname: >-
       𝓢𝓮𝓻𝓮𝓷𝓪 𝓕𝓮𝓻𝓻𝓲
     bio: >-
       🏋🏼‍♀️CFL1-L2 Trainer 💼coach-Progetto Crossfit-Faenza 🐶🐶Kuma&Sexy 👯‍♀️twin sister ♥️love @reebokcrossfitravenna,☀️👙sun&sea, 🙏🏻life #alwayssmile
     location: "Italy"
-    followers: 4530
-    engagement: 1443
-    commentsToLikes: 0.026647
+    followers: 4489
+    engagement: 1211
+    commentsToLikes: 0.028864
     id: ckaowe5j98jda0i78v5kumbxi
     verified: false
-    hashtags: "#selflove, #summer, #happy, #life"
+    hashtags: "#me, #style, #body, #fitness"
 ---

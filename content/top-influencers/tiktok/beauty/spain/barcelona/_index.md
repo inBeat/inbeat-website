@@ -1,84 +1,72 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Barcelona In 2022
+title: Top 10 Beauty TikTok Influencers In Barcelona In 2023
 description: >-
-  Find top beauty TikTok influencers in Barcelona in 2022. Most popular hashtags: #barcelona #fyp #viral #parati.
+  Find top beauty TikTok influencers in Barcelona in 2023. Most popular hashtags: #espa #barcelona #viral #fyp.
 platform: TikTok
-hits: 7
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 7 TikTok influencers like this in Barcelona, Spain for you to connect with.
+hits: 6
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 6 TikTok influencers like this in Barcelona, Spain for you to collaborate.
 profiles:
-  - username: "annersite"
-    fullname: >-
-      ANNERSITE
-    bio: >-
-      📍Girona/Barcelona Beauty || Tips || Creative Makeup 📬 annersite@tkers.es
-    location: "Spain"
-    followers: 410700
-    engagement: 2535
-    commentsToLikes: 0.016004
-    id: ck904fvc3e8110j78ehh8w2o5
-    verified: true
-    hashtags: "#halloween, #makeupartist, #storytime, #maquillajeartistico"
-  - username: "izaan.freerun"
-    fullname: >-
-      I Z A N
-    bio: >-
-      Instagram: @izaan.freerun📷 Parkour & Freerunning🔥 15 years✌🏻
-    location: "Spain"
-    followers: 5162
-    engagement: 1519
-    commentsToLikes: 0.050786
-    id: ckblrh8vfitfn0j23svps8i7a
-    verified: false
-    hashtags: "#parati, #parkour, #freerun, #slowmo"
   - username: "ssharankyna"
     fullname: >-
       Anna - Ssharankyna
     bio: >-
-      Barcelona 📍 #pregnancy #lifestyle #beauty #fashion #travel *Chemical Engineer*
+      Barcelona 📍 #maternity #lifestyle #beauty #fashion #travel *Chemical Engineer*
     location: "Spain"
-    followers: 3314
-    engagement: 521
-    commentsToLikes: 0.018114
+    followers: 3325
+    engagement: 489
+    commentsToLikes: 0.019532
     id: ckd07ty3aawzu0j23t8s9wxiy
     verified: false
-    hashtags: "#reciennacido, #dulceespera, #pregnantstyle, #embarazada"
-  - username: "electrogirls"
+    hashtags: "#pregnant, #pregnantoutfits, #embarazada, #babyboy"
+  - username: "lissmorr"
     fullname: >-
-      ElectroGirls
+      lissmorr
     bio: >-
-      🚀 Girls & Electronic Music 🔥 Send us your Videos 🌍 Welcome to Our World
+      ACTRIZ 🇦🇷 🇲🇽 🇪🇸
     location: "Spain"
-    followers: 30500
-    engagement: 696
-    commentsToLikes: 0.010346
-    id: ckb9d7b490bgk0j2358s9169c
+    followers: 61600
+    engagement: 1485
+    commentsToLikes: 0.016003
+    id: cka0knp7hni030i78j8j1hs4p
     verified: false
-    hashtags: "#amelielens, #beauty, #peggygou, #music"
-  - username: "tustrenzasbarcelona1"
+    hashtags: "#rebeldeway, #viral, #parati, #netflix"
+  - username: "mikhailcossi"
     fullname: >-
-      adjodjja
+      MIKHAIL COSSI
     bio: >-
-      Contactad por Ig: tustrenzasbarcelona1 ¡Estamos en Cornellà!
+      🔥 19 K in INSTAGRAM ⬆️ ⚡️ Designer and actor 🇪🇺 Madrid | Barcelona ✉️ Direct
     location: "Spain"
-    followers: 49600
-    engagement: 1183
-    commentsToLikes: 0.006753
+    followers: 86000
+    engagement: 397
+    commentsToLikes: 0.055204
+    id: ckdsukdmzptjz0j23kfgfh6cx
+    verified: false
+    hashtags: "#invierno, #tiktok, #reels, #vzla"
+  - username: "evecasino"
+    fullname: >-
+      Eve
+    bio: >-
+      📍Barcelona
+    location: "Spain"
+    followers: 9184
+    engagement: 527
+    commentsToLikes: 0.021731
+    id: ckb0edkbp6rxb0j23b7o5ycfj
+    verified: false
+    hashtags: "#fiesta, #castle, #smile, #boy"
+  - username: ".5kh_on_top"
+    fullname: >-
+      Tustrenzasbarcelona1
+    bio: >-
+      
+    location: "Spain"
+    followers: 49000
+    engagement: 1604
+    commentsToLikes: 0.011830
     id: ckd6gpa4w8z1z0j23043yhg36
     verified: false
-    hashtags: "#trenzasdemoda, #boxbraids, #bcn, #trenzas"
-  - username: "anastasia_sax_mcqueen"
-    fullname: >-
-      Anastasia McQueen
-    bio: >-
-      🎷International saxophonist 📸Model 🏄‍♀️Watersports & yachts 📍Ibiza
-    location: "Spain"
-    followers: 15300
-    engagement: 414
-    commentsToLikes: 0.018921
-    id: ckac8656dfald0i78136x9zsp
-    verified: false
-    hashtags: "#summertime, #saxophone, #superyacht, #formentera"
+    hashtags: "#parati, #porti, #espa, #barcelona"
   - username: "venusbcn"
     fullname: >-
       Venus BCN 
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.023488
     id: cka0hzyp6bjju0i78vz8ry0x2
     verified: false
-    hashtags: "#cultura, #espa, #catal, #catalunya"
+    hashtags: "#educacion, #catal, #cultura, #espa"
   - username: "anutabelike"
     fullname: >-
       Annett
     bio: >-
       💜i'm 17💜 💄beauty and fashion🛍 ...☝🏻russian girl☝🏻...
     location: "Spain"
-    followers: 17300
-    engagement: 1398
-    commentsToLikes: 0.046619
+    followers: 17000
+    engagement: 1383
+    commentsToLikes: 0.036701
     id: ck81s127zp8t00j78lanh49dt
     verified: false
-    hashtags: "#outfits, #fyp, #fashion, #minecraft"
-  - username: "annersite"
-    fullname: >-
-      ANNERSITE
-    bio: >-
-      📍Girona/Barcelona Beauty || Tips || Creative Makeup 📬 annersite@tkers.es
-    location: "Spain"
-    followers: 410700
-    engagement: 2535
-    commentsToLikes: 0.016004
-    id: ck904fvc3e8110j78ehh8w2o5
-    verified: true
-    hashtags: "#halloween, #makeupartist, #storytime, #maquillajeartistico"
+    hashtags: "#outfits, #fashion, #fyp, #aesthetic"
   - username: "imani_amal"
     fullname: >-
-      Imani.amal
+      Imani_amal
     bio: >-
-      It’s not her beauty, it’s her vibe 🇹🇹🇲🇦🏝 Music and comedy
+      It’s not her beauty, it’s her vibe 🇹🇹🇲🇦 Comedy and music All enquirers👇🏾
     location: "Spain"
-    followers: 41200
-    engagement: 864
-    commentsToLikes: 0.075978
+    followers: 225100
+    engagement: 1307
+    commentsToLikes: 0.024385
     id: ckbbpylnwdsls0j235h7dsmhq
     verified: false
-    hashtags: "#relatable, #comedy, #joke, #northafrican"
+    hashtags: "#comedy, #hairsalon, #maroc, #northafrican"
+  - username: "vittoriasajir"
+    fullname: >-
+      VittoriaSajir
+    bio: >-
+      YT & IG ☀️ VITTORIASAJIR 💙Mom of Ricky and Sebas💙 💄 Beauty • Fitness 💪
+    location: "Spain"
+    followers: 11000
+    engagement: 1393
+    commentsToLikes: 0.008468
+    id: ckbf4v8qctibw0j23fvum35uj
+    verified: false
+    hashtags: "#perte, #estate2020, #estate, #gatti"
+  - username: "ssharankyna"
+    fullname: >-
+      Anna - Ssharankyna
+    bio: >-
+      Barcelona 📍 #maternity #lifestyle #beauty #fashion #travel *Chemical Engineer*
+    location: "Spain"
+    followers: 3325
+    engagement: 489
+    commentsToLikes: 0.019532
+    id: ckd07ty3aawzu0j23t8s9wxiy
+    verified: false
+    hashtags: "#pregnant, #pregnantoutfits, #embarazada, #babyboy"
 ---

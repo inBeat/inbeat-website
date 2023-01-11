@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Norway In 2022
+title: Top 10 Mothers Instagram Influencers In Norway In 2023
 description: >-
-  Find top mothers Instagram influencers in Norway in 2022. Most popular hashtags: #norway #norge #visitnorway.
+  Find top mothers Instagram influencers in Norway in 2023. Most popular hashtags: #motherhood #norway #love #nature.
 platform: Instagram
-hits: 79
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 79 Instagram influencers like this in Norway for you to collaborate.
+hits: 58
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 58 Instagram influencers like this in Norway for you to pitch.
 profiles:
-  - username: "catkrii"
+  - username: "yogakristine"
     fullname: >-
-      ♛ Cathrine
+      Kristine Mikkelsen
     bio: >-
-      ♛5x5, Norway🌍 ⠀⠀⠀⠀· ⌊ΙFESTYLEⒺ / MOTHERHOOⒹ / INSPIRATIOⓃ · ♛ @bodylabnorge ♡ ⠀⠀⠀⠀
+      •Mother of 3 •Physical Therapist •Yoga Teacher (RYT 200, MediYoga, prenatal) Oslo, Norway
     location: "Norway"
-    followers: 16277
-    engagement: 189
-    commentsToLikes: 0.088843
-    id: ck5zjsemsi63w0i14g9vbebr0
+    followers: 8738
+    engagement: 714
+    commentsToLikes: 0.253550
+    id: ck5zp2b4zruom0i14szyc61c3
     verified: false
-    hashtags: "#happyinternationalwomensday2020, #idealofsweden, #mygirls, #teambodylab"
-  - username: "tonerud"
+    hashtags: "#myyogapractice, #yogainspiration, #yogaselfpractice, #letsdoyoga"
+  - username: "eminesanders"
     fullname: >-
-      🎶Tone💃🏃‍♀️
+      EMINE SANDERS🦧🦧🦧
     bio: >-
-      Married mother. Living 🇧🇻 Cabin 🇸🇪 Nikon/Huawei Mbr: @raw_community @passion_4_living_photos @ig_week_family @be_one_family
+      gladlaks / mother / livsnjutare og tullemor.
     location: "Norway"
-    followers: 7281
-    engagement: 2241
-    commentsToLikes: 0.202941
-    id: ck0u285emz4yu0i19v4k5q7lq
+    followers: 11206
+    engagement: 476
+    commentsToLikes: 0.040513
+    id: ck14lb71otrww0i19jgk9z3jq
     verified: false
-    hashtags: "#be, #bestofnorwegiannature, #adressa, #excellent"
-  - username: "ruskicat"
-    fullname: >-
-      Ruski, Evi & Kiara
-    bio: >-
-      😺 𝗥𝘂𝘀𝗸𝗶, mothercat wannabe 😾 𝗘𝘃𝗶, expert purring machine 🐱 𝗞𝗶𝗮𝗿𝗮, seated world champion ⚡️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 by @eukanubanorge 🇳🇴
-    location: "Norway"
-    followers: 23175
-    engagement: 822
-    commentsToLikes: 0.030261
-    id: ck8t59bg099lx0j78x6h6qew7
-    verified: false
-    hashtags: "#weeklyfluff, #balousfriends, #catloaf, #siberianforestcat"
+    hashtags: "#eboks, #ebokspluss, #digitalpostkasse, #telenornorge"
   - username: "hervisuals"
     fullname: >-
-      ADVENTURE • NATURE • FREEDOM
+      TRAVEL • ADVENTURE • FREEDOM
     bio: >-
-      Captivated by culture🌻 • Lover of Mother Earth, words and curry • My brothers keeper🕊
+      - Cheneise 👋🏼 - Exploring Mama Bali w/ @tobiwurld📍 - Captivated by culture 🍃 - Mother Earth | Words | | Healing | Life’s ‘Little Things’ 💫
     location: "Norway"
-    followers: 2950
-    engagement: 1776
-    commentsToLikes: 0.298483
+    followers: 3121
+    engagement: 2091
+    commentsToLikes: 0.298394
     id: ckapa1aq5ub810i78vn2ljggg
     verified: false
-    hashtags: "#wildernesstones, #mtnfolk, #madeiranowordsneeded, #passionpassport"
+    hashtags: "#cinebible, #moodyedits, #wandernext, #madeiralovers"
   - username: "villarostille"
     fullname: >-
       MARIELLE ROSTILLE
     bio: >-
       Live in Norway/Trondheim ~ Mother to Levi 🧡 📷 Credit @villarostille ✉️ Collaborate? Send DM or EMAIL marielle.rostille@gmail.com
     location: "Norway"
-    followers: 31862
-    engagement: 173
-    commentsToLikes: 0.194711
+    followers: 32095
+    engagement: 170
+    commentsToLikes: 0.208121
     id: ck55lrsda29d20i11pcfn029p
     verified: false
-    hashtags: "#scandinavianhome, #autumnfashion, #woodentoys, #norway"
-  - username: "odinscrotum"
+    hashtags: "#kidsfashion, #villarostille, #nofred, #nurserydecor"
+  - username: "elinwulfsberg"
     fullname: >-
-      
+      Elin Wulfsberg
     bio: >-
-      ᛋ ᛟ ᚠ - Viking history and Norse religion. - Lover of writing. - Harp and Kravik lyre amateur. - Mother to a mighty dragon. 🌙🌲🌨🐉🏔⚔️
+      Mother, Wife From Kongsberg, Norway Member of @joyful_pics & @hey_ihadtosnapthat @world_great Amateurphotographer 😊 Hope you enjoy my gallery 🙋🌞
     location: "Norway"
-    followers: 10759
-    engagement: 914
-    commentsToLikes: 0.034497
-    id: ck0tu5rox5rjv0i1911dxeufx
+    followers: 2681
+    engagement: 1039
+    commentsToLikes: 0.087879
+    id: ck5q1364791q00i11de3j0rcs
     verified: false
-    hashtags: "#runechallenge"
-  - username: "danilangedal"
+    hashtags: "#norgeimitthjerte, #splendid, #fiftyshades, #heart"
+  - username: "acousteau"
     fullname: >-
-      Danielle Langedal from Norway
+      Alexandra Cousteau
     bio: >-
-      • Teacher, photographer & mother • Landscape - lifestyle - dogs • danilangedal@gmail.com • @trultethesheepdog • @swims.norway ambassador
+      Ocean lover, Mother, Co-founder of Oceans 2050, Nat Geo Explorer, Young Global Leader WEF, Senior Advisor Oceana, Speaker, Storyteller, Earthling.
     location: "Norway"
-    followers: 18377
-    engagement: 447
-    commentsToLikes: 0.108938
-    id: ck5cjxno0vpcc0i117ig0mko3
+    followers: 12250
+    engagement: 493
+    commentsToLikes: 0.033978
+    id: ck0u1wiv2y9jv0i19kx6mr58y
     verified: false
-    hashtags: "#beautifuldestinations, #norway, #hellofrom, #voyaged"
-  - username: "nemventures"
+    hashtags: "#ocean, #protectwhatyoulove, #oceanlover, #transparency"
+  - username: "jilanbaker"
     fullname: >-
-      𝔽𝕚𝕟𝕝𝕒𝕟𝕕🇫🇮 𝔽𝕚𝕥𝕟𝕖𝕤𝕤🏋️‍♀️ 𝔽𝕒𝕞𝕚𝕝𝕪
+      Jilan Baker
     bio: >-
-      🇺🇦🇫🇮 🏋️‍♀️#Fitnessmom of 🏕🌍#activefamily #Motherhood journey and Family travelling Let's discover #Finland together
+      Mom of two ❀♡ Brand rep | @newbielovers
     location: "Norway"
-    followers: 2577
-    engagement: 968
-    commentsToLikes: 0.148111
-    id: ck9wozv5077830j78yc9qsk1c
+    followers: 8759
+    engagement: 636
+    commentsToLikes: 0.359099
+    id: ck55pam67a5zj0i11vbur9u2c
     verified: false
-    hashtags: "#taivaskeronkierros, #nem"
-  - username: "strikkveines"
+    hashtags: "#momlife, #momanddaughter, #inspirationforflickor, #julepynt"
+  - username: "adelheidstokka"
     fullname: >-
-      Caroline Veines
+      Adelheid
     bio: >-
-      26 | Norway | Mother of two 👶🏼👧 | Wife 🤎 Driver @broderistrikk 🍂
+      Fillip and Albert 👦🏼👦🏼 Sharing our everyday moments🌼 Norwegian mama 🌻 Collab➖ isdal.stokka.marketing@gmail.com //annonse
     location: "Norway"
-    followers: 6350
-    engagement: 736
-    commentsToLikes: 0.051217
-    id: ckaou9477zczx0i78u16jzbr9
+    followers: 19573
+    engagement: 367
+    commentsToLikes: 0.134800
+    id: ck0u60z060mhj0i1946ykwz4n
     verified: false
-    hashtags: "#margotbuksa, #vingedress, #bamselue, #sundaysweaterjunior"
-  - username: "rebeccaamber"
+    hashtags: "#ootd, #easter, #motherhood, #family"
+  - username: "aninestang"
     fullname: >-
-      rebeccaamber📸
+      Anine Stang
     bio: >-
-      Photographer.mother.Eyes of spring heart of summer owner/creator @nordicretreats
+      🎵Singer/Songwriter 🎧 DJ @popjoybooking 📝 Actor / Writer / Concept creator 📷 Face @heartbreakmanagement 🌿 Plant-based enviromentalist
     location: "Norway"
-    followers: 16373
-    engagement: 247
-    commentsToLikes: 0.022159
-    id: ck0u1er7kwkwp0i19kjx27msi
+    followers: 14215
+    engagement: 167
+    commentsToLikes: 0.147934
+    id: ck135gibc1atg0i1906g2bo8w
     verified: false
-    hashtags: "#print, #westcoast, #film, #workinonsomething"
+    hashtags: "#styling, #hendrixhair, #music, #nymusikk"
+  - username: "born2be_afamily"
+    fullname: >-
+      TRAVEL | FITNESS | LIFESTYLE
+    bio: >-
+      ﷽ . . Samina & Abdulla💕 👼🏻👶🏻Abdul Rahman & Amina 🇦🇺🏡📍Melbourne The 🌎is changed by Your example, not by Your opinion 📧CB ❗️SUBSCRIBE YOUTUBE👇
+    location: "Norway"
+    followers: 48976
+    engagement: 770
+    commentsToLikes: 0.042213
+    id: ck14jgsoak9mu0i194puvnx3j
+    verified: false
+    hashtags: "#muslim, #muslimah, #muslimcouple, #islamicquotes"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Chicago In 2022
+title: Top 10 Photographers Instagram Influencers In Chicago In 2023
 description: >-
-  Find top photographers Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #artofchi #portraitpage.
+  Find top photographers Instagram influencers in Chicago in 2023. Most popular hashtags: #portraitpage #illgrammers #model.
 platform: Instagram
-hits: 198
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 198 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 205
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 205 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
   - username: "katiekett"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Mama to Liam 👦🏼 & Theo 👶🏼 Lifestyle & Wedding Photographer • Chicago
     location: "United States"
-    followers: 4951
-    engagement: 496
-    commentsToLikes: 0.044083
+    followers: 4980
+    engagement: 527
+    commentsToLikes: 0.040255
     id: ck6u2wn3oucfn0j710idq6clg
     verified: false
     hashtags: ""
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       Artist & Photographer Chicago, IL. 🇺🇸 Creature of the night.
     location: "United States"
-    followers: 12828
-    engagement: 860
-    commentsToLikes: 0.026364
+    followers: 12921
+    engagement: 808
+    commentsToLikes: 0.025804
     id: ckap1k1hnuv4b0i782ztnr0u9
     verified: false
-    hashtags: "#houseoftones, #dof, #worldtones, #shotzdelight"
+    hashtags: "#synthwave, #bokehlicious, #houseoftones, #shotzdelight"
+  - username: "chollette"
+    fullname: >-
+      Chollette
+    bio: >-
+      Everyone deserves a photoshoot Work featured at the Grammys 🏆 Director | Photographer Chicago Orel@chollette.com🎥📸
+    location: "United States"
+    followers: 7414
+    engagement: 473
+    commentsToLikes: 0.057612
+    id: ck5ckxe21xsvl0i11ddg6y1nr
+    verified: false
+    hashtags: "#shootwithchollette"
+  - username: "eli.snapped"
+    fullname: >-
+      ELI
+    bio: >-
+      Published Photographer | Chicago Native - @gns.eli EMAIL for booking 📸💰 📍DTX
+    location: "United States"
+    followers: 8398
+    engagement: 165
+    commentsToLikes: 0.081983
+    id: ck5c9kbreblan0i11k4x5vhzm
+    verified: false
+    hashtags: "#thegrind, #elisnapped, #livinglegends, #year3"
   - username: "johnstoffer"
     fullname: >-
       John Stoffer
     bio: >-
       Interior and Portrait Photographer || Chicago, IL
     location: "United States"
-    followers: 107364
-    engagement: 293
-    commentsToLikes: 0.011465
+    followers: 109934
+    engagement: 302
+    commentsToLikes: 0.012163
     id: ck0tvdb8paxzw0i19po3xdy5i
     verified: true
-    hashtags: "#negroni, #n100"
+    hashtags: "#n100, #negroni"
+  - username: "grahamboaviation"
+    fullname: >-
+      Graham W
+    bio: >-
+      Aviation Photographer -Chicago Based -Sony A7 III -Please Ask Before Reposting
+    location: "United States"
+    followers: 13956
+    engagement: 413
+    commentsToLikes: 0.015153
+    id: ck5q3tkgnmcev0i110scrk5s0
+    verified: false
+    hashtags: "#chooseohare, #unitedairlines, #777, #767"
   - username: "barrybutler9"
     fullname: >-
       Barry Butler Chicago
     bio: >-
       Professional landscape photographer. Chicago/Ireland imagery. FAA UAS Remote Pilot. Helicopter aerial photography. Images taken/posted daily. Nikon.
     location: "United States"
-    followers: 35141
-    engagement: 493
-    commentsToLikes: 0.012202
+    followers: 50317
+    engagement: 310
+    commentsToLikes: 0.011995
     id: ck0ttv3n24fwu0i1937jo3gg8
     verified: false
     hashtags: ""
-  - username: "espressoandmartini"
-    fullname: >-
-      Neha:  Wandering Consultant
-    bio: >-
-      📍#Seattle/ #Chicago Photographer/Blogger Travel || Fashion || Coffee Collabs - gurneha.naggi@gmail.com Currently living & exploring PNW
-    location: "United States"
-    followers: 8686
-    engagement: 830
-    commentsToLikes: 0.105550
-    id: ck0u81sva68sp0i191it30awj
-    verified: false
-    hashtags: "#desiblogger, #seattlewashington, #fallphotography, #falloutfits"
   - username: "_dannyphoto_"
     fullname: >-
       Daniel Stewart
     bio: >-
       Chicago Photographer (primarily film)
     location: "United States"
-    followers: 12522
-    engagement: 1592
-    commentsToLikes: 0.028206
+    followers: 12179
+    engagement: 1638
+    commentsToLikes: 0.028067
     id: ck6u1rtmuniec0j71sda8cbn3
     verified: false
-    hashtags: "#vscocam, #portraitpage, #instamagazine, #cinestill800t"
+    hashtags: "#instamagazine, #vsco, #120film, #filmisnotdead"
+  - username: "goldedlocs"
+    fullname: >-
+      CHRIS ROBINSON
+    bio: >-
+      📸 Photographer 📍 Chicago, IL 👇🏾 BTS, Outtakes and more via the link below!
+    location: "United States"
+    followers: 9007
+    engagement: 554
+    commentsToLikes: 0.048766
+    id: ck6tjlbzm2xsg0j71xrw9fcji
+    verified: false
+    hashtags: "#portraitpage, #buildandbloom, #art, #quietthechaos"
   - username: "jm_photography23"
     fullname: >-
       Tyler James
     bio: >-
       SH. Published Chicago photographer/ actor represented by BMG and Paige model and talent. DM for Rates #chicagophotographer
     location: "United States"
-    followers: 27108
-    engagement: 130
-    commentsToLikes: 0.020791
+    followers: 27235
+    engagement: 109
+    commentsToLikes: 0.029994
     id: ck6tqrsnntmh90j71ub1siyfp
-    verified: false
-    hashtags: ""
-  - username: "itscolinmiller"
-    fullname: >-
-      colin miller
-    bio: >-
-      los angeles via chicago photographer / film maker contact: colinmillermedia@gmail.com
-    location: "United States"
-    followers: 12873
-    engagement: 434
-    commentsToLikes: 0.018026
-    id: ck0u7aweg46hj0i191jf8hrpq
-    verified: false
-    hashtags: ""
-  - username: "ordavgeek"
-    fullname: >-
-      Kevin Cargo
-    bio: >-
-      Aviation photographer from Chicago.
-    location: "United States"
-    followers: 13915
-    engagement: 860
-    commentsToLikes: 0.060275
-    id: ck5zxfm3f7xab0i14l0w9v5bq
-    verified: false
-    hashtags: "#plane, #myunitedjourney, #777, #spotters"
-  - username: "elizabethnordphoto"
-    fullname: >-
-      Nashville Wedding Photographer
-    bio: >-
-      As seen in Martha + Style Me Pretty Best Chicago photographers by Expertise Nashville • Chicago • Destination Portraits @elizabethnordportraits
-    location: "United States"
-    followers: 5593
-    engagement: 149
-    commentsToLikes: 0.096366
-    id: ck138bp1zfg0y0i19o4ql69oe
     verified: false
     hashtags: ""
 ---

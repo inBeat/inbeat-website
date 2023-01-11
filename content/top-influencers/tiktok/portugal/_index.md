@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Portugal In 2022
+title: Top 10 TikTok Influencers In Portugal In 2023
 description: >-
-  Find top TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #fy #foryou.
+  Find top TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryoupage #trend.
 platform: TikTok
-hits: 455
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 455 TikTok influencers like this in Portugal for you to collaborate.
+hits: 465
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database has 465 TikTok influencers like this in Portugal for you to work with.
 profiles:
   - username: "davidbras03"
     fullname: >-
@@ -13,24 +13,12 @@ profiles:
     bio: >-
       hi stalker 👋🏻 ig: davidjbras Work: info.davidbras@gmail.com
     location: "Portugal"
-    followers: 249000
-    engagement: 1651
-    commentsToLikes: 0.016604
+    followers: 306500
+    engagement: 1654
+    commentsToLikes: 0.008444
     id: ck8sfm1njoqjp0j78vdrj4qlp
     verified: false
     hashtags: "#foryoupage, #fyp, #davidbras, #trend"
-  - username: "naosouoclaudex"
-    fullname: >-
-      🖤Claudexter2💔
-    bio: >-
-      Não sou o claudex Mas sigam aqui em baixo 👇🏻
-    location: "Portugal"
-    followers: 183500
-    engagement: 2199
-    commentsToLikes: 0.064948
-    id: ckav8ujdyg5kd0j23rfdrmy9j
-    verified: false
-    hashtags: "#linhacongelante"
   - username: "opps_.editsx"
     fullname: >-
       "Scared Potter"😌🙌
@@ -42,91 +30,103 @@ profiles:
     commentsToLikes: 0.391203
     id: ckdtkjqh4ycnq0j23kzqiusxa
     verified: false
-    hashtags: "#bts, #parkjimin, #valorizaedits, #jimin"
+    hashtags: "#valorizaedits, #jimin, #bts, #parkjimin"
   - username: "ops..finnie"
     fullname: >-
-      Wolfie e Bubba
+      📍Wolfie📍
     bio: >-
-      1 fc🥰 More than 4k to smile Amp(alight motion pro) fillie shipper
+      👑ʟᴏᴠᴇ ʏᴏᴜ👑 🥀ᴄᴀʟʟ ᴍᴇ ᴍᴀɴᴜ🥀 🔥ғɪʟʟɪᴇ sʜɪᴘᴘᴇʀ🔥 🎬ʏᴏᴜ'ʀᴇ ɪᴍᴘᴏʀᴛᴀɴᴛ🎬
     location: "Portugal"
-    followers: 4180
-    engagement: 3334
-    commentsToLikes: 0.124040
+    followers: 4560
+    engagement: 3455
+    commentsToLikes: 0.237671
     id: ckdtljtqkzrrv0j23hraql5t1
     verified: false
-    hashtags: "#foryou, #fy, #finnwolfhard, #fyp"
-  - username: "its.grils.power0"
-    fullname: >-
-      🍓⃤meta as 7000
-    bio: >-
-      😌 seguindo de volta
-    location: "Portugal"
-    followers: 6090
-    engagement: 3056
-    commentsToLikes: 0.074278
-    id: ckaiiexpja57s0i78foktk7nw
-    verified: false
-    hashtags: "#fyp, #dueto"
+    hashtags: "#fyp, #foryoupage, #foryoupageofficiall, #millie"
   - username: "leonorfilipaa"
     fullname: >-
       Leonor Filipa😝💗
     bio: >-
       Follow me on instagram👆🏻😝 Portuguese dancer🇵🇹💃🏻 PR & Brands: @thisisluvin
     location: "Portugal"
-    followers: 697100
-    engagement: 2914
-    commentsToLikes: 0.038792
+    followers: 708900
+    engagement: 2650
+    commentsToLikes: 0.029819
     id: ck83zbp6yzgu70j78gy6fv7cd
     verified: true
-    hashtags: "#dance, #tiktokportugal, #trend, #orgulhosamentesumol"
-  - username: "debora.ramiress"
-    fullname: >-
-      ✰ Débora Ramirez ✰
-    bio: >-
-      Instagram: debora.ramiress ☝🏼☝🏼 + de 100K motivos para não desistir ❤️🧚🏼
-    location: "Portugal"
-    followers: 130900
-    engagement: 2750
-    commentsToLikes: 0.038360
-    id: ckbrc8gxlq5jv0j230twtdmvm
-    verified: false
-    hashtags: "#xmas, #sumol, #cocreatorsbysumol, #orgulhosamentesumol"
-  - username: "_omeunomeewybie_"
-    fullname: >-
-      𝐖𝐲𝐛𝐢𝐞
-    bio: >-
-      ➪🏳️‍🌈 ➪16𝐲 ➪𝐓𝐫𝐚𝐧𝐬/𝐏𝐚𝐧 ➪𝐄𝐥𝐞/𝐃𝐞𝐥𝐞 ➪𝐢𝐧𝐬𝐭𝐚:_𝐰𝐲𝐛𝐢𝐞𝐞_
-    location: "Portugal"
-    followers: 83400
-    engagement: 2659
-    commentsToLikes: 0.045962
-    id: ck9kenm8ozna80j78xea4ai6s
-    verified: false
-    hashtags: "#alvineosesquilos, #simoncosplay, #foryou, #dueto"
+    hashtags: "#dance, #trend, #tiktokportugal, #sumol"
   - username: "betsaida_fonseca_rosa"
     fullname: >-
       betesaida_fonseca_rosa
     bio: >-
-      Armenia e romona com muito orgulho✨,melhores bffs @melissa @kayla @levinya❤️✨
+      Armenia e romona com muito orgulho✨💕👑
     location: "Portugal"
-    followers: 9176
-    engagement: 2567
-    commentsToLikes: 0.174975
+    followers: 9676
+    engagement: 1978
+    commentsToLikes: 0.087905
     id: ck9ergvdt1pj70j78ct7jtot4
     verified: false
-    hashtags: "#fyp, #fy, #paravoce, #lan"
-  - username: "uniter.vinesx_"
+    hashtags: "#paravoc, #fyp, #foryou, #fyy"
+  - username: "_omeunomeewybie_"
     fullname: >-
-      Now united💘
+      𝐖𝐲𝐛𝐢𝐞
     bio: >-
-      6049 razões do pk eu sou flopada;-;(brunks obg)
+      ➪🏳️‍🌈 ➪𝐄𝐥𝐞/𝐃𝐞𝐥𝐞 ➪𝐢𝐠:_𝐰𝐲𝐛𝐢𝐞𝐞_ ➪𝐦𝐞𝐭𝐚𝐝𝐢𝐧𝐡𝐚 @_oopsiisah_
     location: "Portugal"
-    followers: 5885
-    engagement: 2121
-    commentsToLikes: 0.114037
-    id: ckbwife6p350a0j236js7uheq
+    followers: 83900
+    engagement: 2062
+    commentsToLikes: 0.040687
+    id: ck9kenm8ozna80j78xea4ai6s
     verified: false
-    hashtags: "#nu, #fy, #fypg, #foryoupage"
+    hashtags: "#fyp, #foryoupage, #dueto, #pov"
+  - username: "mariamariakk"
+    fullname: >-
+      Mari 🌿
+    bio: >-
+      stalkeando quem me seguir no insta 🤝 ela/dela 🏳️‍🌈 Bi minha lojinha 👇🏻
+    location: "Portugal"
+    followers: 407100
+    engagement: 1957
+    commentsToLikes: 0.024516
+    id: ckb9fnxip46630j23ozawk4e3
+    verified: false
+    hashtags: "#foryou, #lojaonline, #dueto, #lbgt"
+  - username: "carolepereira"
+    fullname: >-
+      Carole_Pereira
+    bio: >-
+      #PijamaGirl✌#27 #🦂 #MadeiraIslnd🇵🇹🏳️‍🌈 💥TeamElite💥 LIVE ...
+    location: "Portugal"
+    followers: 5897
+    engagement: 1808
+    commentsToLikes: 0.400064
+    id: ckan007syo68l0i78u55ls4rf
+    verified: false
+    hashtags: "#pijamagirl, #dueto, #madeiraisland, #comedy"
+  - username: "valtersousa"
+    fullname: >-
+      🔱 VALTER 🔱
+    bio: >-
+      Follow my Instagram 👆🏽 CEO of “a mãe tuga” 1 MILHÃO?! 🇵🇹
+    location: "Portugal"
+    followers: 929100
+    engagement: 1568
+    commentsToLikes: 0.119227
+    id: ckbr6xjvsma150j237grivaq1
+    verified: true
+    hashtags: "#foryoupage, #fyp, #pub"
+  - username: "murilomesmo"
+    fullname: >-
+      menino do sentadão
+    bio: >-
+      gay qualquer pronome 📧 nuriavelez@yourself.pt
+    location: "Portugal"
+    followers: 349100
+    engagement: 1499
+    commentsToLikes: 0.021052
+    id: ck8sahnbs26cv0j78nh71u5xz
+    verified: false
+    hashtags: "#dueto"
 cities:
   - name: Lisbon
     link: /tiktok/portugal/lisbon

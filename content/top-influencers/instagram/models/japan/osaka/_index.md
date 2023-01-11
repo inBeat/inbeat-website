@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Osaka In 2022
+title: Top 10 Models Instagram Influencers In Osaka In 2023
 description: >-
-  Find top models Instagram influencers in Osaka in 2022. Most popular hashtags: #osaka #model #pr #fashion.
+  Find top models Instagram influencers in Osaka in 2023. Most popular hashtags: #model #fashion #osaka.
 platform: Instagram
-hits: 28
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 28 Instagram influencers like this in Osaka, Japan for you to collaborate.
+hits: 36
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 36 Instagram influencers like this in Osaka, Japan for you to collaborate.
 profiles:
-  - username: "chi831sa"
+  - username: "morgankriz"
     fullname: >-
-      chi831sa
+      Morgyy
     bio: >-
-      🔶OSAKA 🔹#佐原知沙 本職は介護士 副業でトリプルwork 🔸お仕事の御依頼はDM✉へ 仕事 以外のDMは返信出来ません。 🌸過去活動歴はハイライトにて 🔊 #ten_age MV出演 🌿reggae 中毒🚧 reggae 愛💭 #420girls
+      Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Osaka, Japan Axelle Models - Tokyo, Japan
     location: "Japan"
-    followers: 32311
-    engagement: 149
-    commentsToLikes: 0.012499
-    id: ck15qn7c83o8w0i19l9ts0o0j
+    followers: 45695
+    engagement: 346
+    commentsToLikes: 0.012883
+    id: ck5cal4wfdm7k0i11krjrtt5w
     verified: false
-    hashtags: "#mmm, #markx, #grx130, #ferrari"
+    hashtags: ""
+  - username: "misakuma_17live"
+    fullname: >-
+      𝕄𝕀𝕊𝔸𝕂𝕀🦄💕
+    bio: >-
+      ♡Hostess♡17ライバー✧みさくま🧸💕🍭 ((:@misakkuma__ :) どちらも本人です✧ 北新地 Kitashinchi୨୧˙˳
+    location: "Japan"
+    followers: 3371
+    engagement: 1890
+    commentsToLikes: 0.152863
+    id: ckaou9735zdbv0i78h09rb5z1
+    verified: false
+    hashtags: "#17, #tiktok, #cosplaygirl, #osakagirl"
   - username: "_saosaori"
     fullname: >-
       さぁら⑅︎◡̈︎*
     bio: >-
-      ✿ osaka / salon model / 6歳と4歳のmama #さぁらネイル #howtoさぁらネイル #さぁらバッグ #さぁらポーチ ✿ 𝕟𝕒𝕚𝕝 / 𝕔𝕠𝕤𝕞𝕖 / 𝕓𝕖𝕒𝕦𝕥𝕪 ♥ ✿ @gelatofactory_jp 公式アンバサダー ✿ ご依頼はDMよりお願いします⑅︎
+      ✿ osaka / salon model / 2児の母 #さぁらネイル #howtoさぁらネイル ✿ 𝕟𝕒𝕚𝕝 / 𝕔𝕠𝕤𝕞𝕖 / 𝕓𝕖𝕒𝕦𝕥𝕪 ♥ ✿ お仕事のご依頼はDMよりお願いします⑅︎
     location: "Japan"
-    followers: 32361
-    engagement: 295
-    commentsToLikes: 0.005750
+    followers: 63427
+    engagement: 130
+    commentsToLikes: 0.004880
     id: ck8tcqxk40c5a0j78a0psu3vw
     verified: false
-    hashtags: "#canmake, #pr, #zara, #whatsinmybag"
-  - username: "chia_koma"
+    hashtags: "#canmake, #gelatofactory, #pr, #mavenwatches"
+  - username: "yana_yz"
     fullname: >-
-      チアコマ
+      Ayana
     bio: >-
-      チアコマ🐕 153cm❤︎ COSPLAYER❤︎コスプレ❤︎DIY ❤︎CAMP ❤︎ポケモンGO❤︎オーガニック﻿ 🏕初心者キャンパー♡お肉食べません♡﻿ ﻿ 🌏コスプレ➡︎ @chiakoma_cosplay﻿ 🌐撮影データ➡︎ @chiakomander﻿ ﻿ ※お仕事ご依頼はDM💌へ
+      Photog | Model | Voice Over 📍Osaka🇯🇵 📩DM/EMAIL to hire 📷 My photography: @yanayzphoto 🎙My podcast: Kurly in Kansai ⭐My baby: @blackcreativesjapan
     location: "Japan"
-    followers: 28515
-    engagement: 86
-    commentsToLikes: 0.037796
-    id: ck6tuk94ugtju0j71pcv0utlx
+    followers: 2417
+    engagement: 991
+    commentsToLikes: 0.065620
+    id: ck6uepj1wsbth0j71b7dul5l9
     verified: false
-    hashtags: "#camping, #fashion, #japan, #outfit"
-  - username: "3sv_18pink"
+    hashtags: "#photooftheday, #blackmodel, #modelinjapan, #melanin"
+  - username: "kozu1240"
     fullname: >-
-      ちびさや 🌻 関西グルメ（ −36kgダイエット ）
+      Ryuji ＆ Koki
     bio: >-
-      💒@cielo38_official 🧸🎀プロデューサー . お取り寄せグルメ、飲食店PR、テイクアウトPR 少しでもお力になれる様に頑張ります😊 お仕事依頼はお気軽にDMまで✨ #関西グルメ #お取り寄せグルメ #テイクアウト #おうちごはん #おうちごはん部 #大阪グルメ
+      LDH EXPG dance&vocal CAMURO スタ選ファイナリスト2回 ベストキッズオーディション いんすた☆まがじん第5期・第6期 奈良コレクション 滋賀・奈良キッズコレクション 中国キッズコレクション ブラフェス ジャパンコレクション リトルミスターコンテスト4回受賞 (両親管理)
     location: "Japan"
-    followers: 18978
-    engagement: 301
-    commentsToLikes: 0.004225
-    id: ck5q8z1ya8mbk0i11w3tfot5q
+    followers: 9604
+    engagement: 1269
+    commentsToLikes: 0.025627
+    id: ck0w6bqcg7tim0i19i6ldz3zb
     verified: false
-    hashtags: "#gourmet, #love, #kyoto, #pr"
-  - username: "mmmarvinjp"
+    hashtags: "#mens, #kidsmodel, #kiss, #instakids"
+  - username: "blackyasuna"
     fullname: >-
-      Marvin
+      yasuna
     bio: >-
-      from Germany🇩🇪 living in Tokyo🇯🇵 日本語オッケー👌
+      🇯🇵🇹🇭🇰🇷 poledancer.gogodancer.model. live in Tokyo Japan
     location: "Japan"
-    followers: 10942
-    engagement: 712
-    commentsToLikes: 0.025996
-    id: ck0w5voi95na20i19o3clk7yf
+    followers: 12195
+    engagement: 264
+    commentsToLikes: 0.016956
+    id: ckapc3tbn2cr90i78wgrrvx8g
     verified: false
-    hashtags: "#aesthetically, #modeling, #tokyolife, #aestheticboy"
-  - username: "fabro_tazumi"
-    fullname: >-
-      Tazumi
-    bio: >-
-      🇵🇭×🇯🇵 160cm/24/Fukuoka,Nagoya,osaka フリー⊿MODEL、被写体、サロモ（有償） 趣味⊿仕事 事業⊿カフェ経営、貿易 拠点⊿福岡民 撮影、お仕事依頼はDMにて
-    location: "Japan"
-    followers: 72323
-    engagement: 538
-    commentsToLikes: 0.010520
-    id: ck6tovc8kgb4c0j71t3lgcamu
-    verified: false
-    hashtags: "#photo, #photolate, #instagood, #sexy"
-  - username: "rion_nakamura89"
-    fullname: >-
-      中村りおん(りぃたむ)
-    bio: >-
-      tamu world gram💎 2002.9.29/高校3年生 18才 /元Popteenレギュラーモデル ・ 海外スタイル．オルチャンギャル ・ AbemaTV Popteenカバーガール戦争出演 ・ ファンマーク 🦋💜 ファンネーム たむたむ ・お仕事依頼はDMまでお願いしますっ🤲🏼
-    location: "Japan"
-    followers: 34895
-    engagement: 444
-    commentsToLikes: 0.048765
-    id: ck5zvf2vf44590i14qv7ovf40
-    verified: false
-    hashtags: "#l4l, #fashion, #stylenandaxdisney, #kawaii"
-  - username: "yuika.hitomi"
-    fullname: >-
-      日冨結迦🔯
-    bio: >-
-      クラリニスト♪EMU音所属🎼 お店を応援する人💕 ★経歴★ リーガロイヤル・ANAクラウンプラザ・神戸ポートピアホテル・グランヴィア大阪・スイスホテル・日航ホテル・ホテルモントレ・アゴーラ・ワシントンホテル・帝国ホテル等で演奏♪ 東京サミット音楽コンクール審査員賞受賞 レースクィーン・モデル経験あり
-    location: "Japan"
-    followers: 14995
-    engagement: 457
-    commentsToLikes: 0.060383
-    id: ck9wfaeofnyk70j785lnk1t52
-    verified: false
-    hashtags: "#yummy, #sweets, #sweetstagram, #happy"
-  - username: "pakio999"
-    fullname: >-
-      アリー（パキ男）
-    bio: >-
-      japan🇯🇵×pakistan🇵🇰 adidas fashion🍁 BITTER読者モデル🍫 team win♪win🐒
-    location: "Japan"
-    followers: 12456
-    engagement: 358
-    commentsToLikes: 0.043725
-    id: ckap63hnhe8cz0i78hmj171rg
-    verified: false
-    hashtags: "#beauty, #adidas, #me, #macaron"
+    hashtags: "#merryxmas, #inkgirl, #pv, #yello"
   - username: "natsumi_fujiwara"
     fullname: >-
       藤原菜摘(Fujiwara Natsumi)
     bio: >-
-      OSAKA→TOKYO🗼 1992.04.17 model / yoga instructor (RYT200) / contact⇨DM✉️ ※お仕事関係以外のDMは返信しません 質問等はコメント欄にお願いします🙏
+      OSAKA→TOKYO🗼 1992.04.17 model / yoga instructor (RYT200) / contact⇨DM ※質問等のDMは返信致しかねます。
     location: "Japan"
-    followers: 25414
-    engagement: 131
-    commentsToLikes: 0.009877
+    followers: 24803
+    engagement: 132
+    commentsToLikes: 0.008975
     id: ck5hn1onen1dv0i1157kdqd4f
     verified: false
-    hashtags: "#lalalei, #takeyourchance, #pr, #babylone"
+    hashtags: "#ameri, #amerivintage, #aoyanagrandhotel, #kiels"
+  - username: "emilijaagate"
+    fullname: >-
+      Emīlija Agate Palina
+    bio: >-
+      ✝️💖tiktok 50k cuties 🇯🇵Osaka;Tokyo🇨🇳Beijing 🇹🇼Taipei 🇱🇻MA @nataliemodels.riga
+    location: "Japan"
+    followers: 8350
+    engagement: 1305
+    commentsToLikes: 0.093358
+    id: ck0w011a8buv00i19pr2m8fy3
+    verified: false
+    hashtags: "#nakdlounge, #rekl, #zaful, #sadarb"
+  - username: "a.asuka.a"
+    fullname: >-
+      asuka | Freelance Model
+    bio: >-
+      Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
+    location: "Japan"
+    followers: 39010
+    engagement: 287
+    commentsToLikes: 0.059405
+    id: ck5hiace7cgwh0i11o7iuh993
+    verified: false
+    hashtags: "#kuih, #kuihst, #locari, #ac"
+  - username: "jumy_as"
+    fullname: >-
+      🎪じゅみ (𝕁𝕦𝕞𝕪 )  | 芦田純子
+    bio: >-
+      📺youtube声優番組公開中🎤 累計1100万再生突破ありがとう✨ ▶︎歌ったり喋ったり﻿/ model ▶︎cosplayer (@jumy___jumy )﻿ 📍大阪 🎥サンテレビ『週感PV』/ 魔女イチQueen /舞台『旅立ちの詩』/イルコ2020写真集 お仕事依頼はDMより
+    location: "Japan"
+    followers: 34774
+    engagement: 173
+    commentsToLikes: 0.063194
+    id: ckapbh2rcztud0i78s8p40qna
+    verified: false
+    hashtags: "#model, #hifu, #pr, #usj"
 ---

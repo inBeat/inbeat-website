@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Austria In 2022
+title: Top 10 Mothers Instagram Influencers In Austria In 2023
 description: >-
-  Find top mothers Instagram influencers in Austria in 2022. Most popular hashtags: #momlife #mamablogger #familytime #nature.
+  Find top mothers Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #family #wien #babygirl.
 platform: Instagram
-hits: 95
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 95 Instagram influencers like this in Austria for you to pitch.
+hits: 25
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 25 Instagram influencers like this in Austria for you to pitch.
 profiles:
   - username: "jasminspanitz"
     fullname: >-
       MORE THAN YOGA
     bio: >-
-      ☼☽ Inspiring you to start moving - your MIND and BODY. ⋒ Motherhood ⚘ Yoga Teaching+Therapy | Holistic Health & Life | Coachings Work with me ⇩
+      ☼☽ Inspiring you to start moving - your MIND and BODY. ⋒ Life & Motherhood ⚘ Holistic Approach to Health | YOGA • Founder of @yogabrunchvienna
     location: "Austria"
-    followers: 9967
-    engagement: 712
-    commentsToLikes: 0.038485
+    followers: 9574
+    engagement: 477
+    commentsToLikes: 0.031416
     id: ckaordh7umq390i78qm8lts3r
     verified: false
-    hashtags: "#tb, #babygirl, #pregnancy, #love"
-  - username: "buhnella"
-    fullname: >-
-      Sandra
-    bio: >-
-      ain’t no hood like motherhood. 🤍 Mariella http://bit.ly/buhnellaxLILLYDOO
-    location: "Austria"
-    followers: 8324
-    engagement: 611
-    commentsToLikes: 0.035689
-    id: ck15rt2w19k9u0i19ic7flrbw
-    verified: false
-    hashtags: "#mamaleben, #diy, #mamablogger, #bellamariella"
-  - username: "hildisgoodlife"
-    fullname: >-
-      Hilda 🇦🇹
-    bio: >-
-      🌱 Happily in Love With my Best Friend🌱 🌱 Mother of the Best Son Ever 🌱 🌱 Homebody 🌱 🌱 Gardenlover 🌱 WELCOME TO MY LIFE
-    location: "Austria"
-    followers: 8236
-    engagement: 1162
-    commentsToLikes: 0.077196
-    id: ck8t2x0q510n80j788rijgjsv
-    verified: false
-    hashtags: "#landhausliving, #hygge, #countrylife, #meindekozauber"
-  - username: "lenas_little_sunshine"
-    fullname: >-
-      🌊📷𝕃𝕖𝕟𝕒
-    bio: >-
-      Vienna - Austria 🇦🇹 Travel Fashion Inspo Mommy 👦 Collab ➡️ lenas_little_sunshine@gmx.at beb6
-    location: "Austria"
-    followers: 16796
-    engagement: 273
-    commentsToLikes: 0.121148
-    id: ck14hs3ilbulm0i19z0lgkcr6
-    verified: false
-    hashtags: "#bag, #prater, #love, #waterfall"
-  - username: "piepmadame"
-    fullname: >-
-      wiebke 🎀
-    bio: >-
-      meine mutterschaft mit piepmadame(5) u fritz(0) aus wien🇦🇹 wirklich kein erziehungsratgeber✌🏼 #situationselastisch #bedingungslos #teamliebe
-    location: "Austria"
-    followers: 41740
-    engagement: 1351
-    commentsToLikes: 0.030387
-    id: ck8t8aux1jqky0j78inu773yv
-    verified: false
-    hashtags: "#vertrauen, #motherhoodsimplified, #newborn2020, #verantwortung"
-  - username: "mel.cream"
-    fullname: >-
-      M E L ♡
-    bio: >-
-      | mountains 🏔️ , me & the girls 🤍 | #mountainlifestyle
-    location: "Austria"
-    followers: 14306
-    engagement: 555
-    commentsToLikes: 0.048546
-    id: ckap0kfzcqp110i782miicjvm
-    verified: false
-    hashtags: "#berge, #tragemama, #qualitytime, #herbstliebe"
-  - username: "senoritachiquita"
-    fullname: >-
-      Jacqui 🦋
-    bio: >-
-      Traveling✈️ Animals🐶 Food🐽 Cooking👩🏻‍🍳 Techno 🎶 Dancing💃🏻 Flowers🌸 Art🧑🏻‍🎨 Memes🤪 Manager: @valentinagurova For PR inquiries: infovalya@mail.ru
-    location: "Austria"
-    followers: 26609
-    engagement: 535
-    commentsToLikes: 0.046663
-    id: ck5hi8pcsc8b80i11j0gymcwn
-    verified: false
-    hashtags: "#bnw, #model, #jewelry, #outfit"
-  - username: "steffi.knr"
-    fullname: >-
-      Steffi
-    bio: >-
-      ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴏᴜʀ ᴀᴅᴠᴇɴᴛᴜʀᴇs ♡ ᴍᴜᴍᴍʏ | ᴅᴏɢᴍᴜᴍ | ᴀᴜsᴛʀɪᴀ | ɴᴀᴛᴜʀᴇ ʟᴏᴠᴇʀ | 📩 sᴛᴇғғɪ.ᴠɪᴇ@ɢᴍx.ᴀᴛ
-    location: "Austria"
-    followers: 5184
-    engagement: 781
-    commentsToLikes: 0.043431
-    id: ckf5lrac7qo8f0j23r243rt65
-    verified: false
-    hashtags: "#myboys, #mumlife, #lassig, #mamaleben"
+    hashtags: "#standingdesk, #yogamom, #croatia, #yaasa"
   - username: "karl_se"
     fullname: >-
-      ᴋᴀʀʟ
+      ᴋᴀʀʟ 3͜͡
     bio: >-
-      ᵗʰᵉ ⁿᵉˣᵗ ᵉᵖⁱˢᵒᵈᵉ* 🖤
+      🖤 ▪️𝐬𝐭𝐚𝐲 𝐰𝐞𝐢𝐫𝐝, 𝐛𝐞 𝐮𝐧𝐢𝐪𝐮𝐞 ▪️ 🎱
     location: "Austria"
-    followers: 4969
-    engagement: 2947
-    commentsToLikes: 0.066877
+    followers: 5199
+    engagement: 2922
+    commentsToLikes: 0.077625
     id: ck5hcbp5fh7kj0i112if2shsj
     verified: false
-    hashtags: "#instamagazine, #minimalmood, #openmyworld, #sunset"
-  - username: "violetfleur_com"
+    hashtags: "#natureloversgallery, #gloomy, #smallmomentsofcalm, #soulful"
+  - username: "vojtkova.petra"
     fullname: >-
-      Nadja Nemetz •  VioletFleur
+      Petra Vojtková
     bio: >-
-      FASHION | BABY | BEAUTY | LIFESTYLE 📍 Vienna | 🤰🏻#schwanger2020 ✉️ info@violetfleur.com ⬇️ NEW BLOGPOST ⬇️
+      💜Máma=Nathaniel💜 Patronka Aleje roku Muzikálová herečka @thegreatestshowconcert @divadlo_kalich @divadlo_hybernia @muzikal_djkt
     location: "Austria"
-    followers: 10609
-    engagement: 360
-    commentsToLikes: 0.033433
-    id: ckf5vrh77pnmv0j23mtcw56ov
+    followers: 34959
+    engagement: 621
+    commentsToLikes: 0.011518
+    id: ck13d1bhk35xb0i19ogk03via
     verified: false
-    hashtags: "#cutecatcrew, #catsworld, #pregnantandperfect, #winterbaby"
+    hashtags: "#love, #mother, #nathaniel, #spoluprace"
+  - username: "einalem1710"
+    fullname: >-
+      M*👧🏼
+    bio: >-
+      enjoy the sporty way of life 📍🇦🇹 🎿🏃🏼‍♀️🧗🏼‍♀️🚴🏻‍♀️ ⛰️🏔️ It's more than passion
+    location: "Austria"
+    followers: 11160
+    engagement: 681
+    commentsToLikes: 0.009233
+    id: ck8t0mn0cskwf0j78jiup1jjf
+    verified: false
+    hashtags: "#outdoor, #summit, #igersaustria, #discoverthebackland"
+  - username: "megancloke_"
+    fullname: >-
+      Meg🌸
+    bio: >-
+      📚Law student 📌Brand ambassador for @popsmelts(MEG10) @badgyalarchive(megancloke10)
+    location: "Austria"
+    followers: 5224
+    engagement: 1298
+    commentsToLikes: 0.107390
+    id: ck5q1qhroc9w30i11bllbkhrs
+    verified: false
+    hashtags: "#influencerstyle, #wearewomenn, #curves, #tattoo"
+  - username: "sarah.stormborn"
+    fullname: >-
+      Sarah Stormborn
+    bio: >-
+      💉🇦🇹 medstudent 💋💄makeupaddict 🔮💀⚰🐲vamp/goth/dragonqueen 🃏♠real life-harley quinn use code „sstormborn“ at @newrockaustralia for 10% off 💸
+    location: "Austria"
+    followers: 13235
+    engagement: 445
+    commentsToLikes: 0.041414
+    id: ck8t815ukiqas0j7802q56q8b
+    verified: false
+    hashtags: "#nugoth, #halloweencostume, #gothicstyle, #wearekillstar"
+  - username: "maryamzeb_"
+    fullname: >-
+      • Beauty • Fashion • Travel
+    bio: >-
+      Welcome to my world ✨ Chocoholic | Sucker for handbags | Lawyer 📍Vienna
+    location: "Austria"
+    followers: 7141
+    engagement: 1128
+    commentsToLikes: 0.117757
+    id: ckaoy48pgfzq90i78nzj3d5bv
+    verified: false
+    hashtags: "#outfitinspiration, #fashionblogger, #ootd, #veromoda"
+  - username: "rebeccachelbea"
+    fullname: >-
+      Rebecca Chelbea
+    bio: >-
+      I normalize normal things. ▷ selflove, selfworth & boundaries ▷sustainable | vegan | mindful ▷she/her ⚲ living in a 🚗 for a month YouTube ↡
+    location: "Austria"
+    followers: 94530
+    engagement: 745
+    commentsToLikes: 0.016188
+    id: ck6tu7briepxl0j719z690fyo
+    verified: false
+    hashtags: "#vienna, #igersaustria, #selfacceptance, #carlife"
+  - username: "alinamariaderoumanie"
+    fullname: >-
+      Alina Maria de Roumanie
+    bio: >-
+      Promoter of Romanian culture, products and design
+    location: "Austria"
+    followers: 11399
+    engagement: 1382
+    commentsToLikes: 0.018030
+    id: ck6twk0oisfyd0j71ef1whlcc
+    verified: false
+    hashtags: "#nicolaealromaniei, #baptism, #mariaalexandraaromaniei, #royalbaby"
+  - username: "twinbabydiariesfc"
+    fullname: >-
+      BELLA👸🏻 VIENNA👸🏻
+    bio: >-
+      Fan page of Bella and Vienna🥰 Official page @twinbabydiaries 🧚🏻‍♀️🧚🏻‍♀️ Dad @karanvirbohra 🦸🏻‍♂️ Mom @bombaysunshine 🦸🏻‍♀️
+    location: "Austria"
+    followers: 15428
+    engagement: 436
+    commentsToLikes: 0.006136
+    id: ck9wedpzpjs2e0j78dju3ctrf
+    verified: false
+    hashtags: "#twinbabydiariesfc, #instadaily, #boraboratwins, #twinbabydiaries"
 ---

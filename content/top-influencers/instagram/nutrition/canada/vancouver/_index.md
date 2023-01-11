@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Vancouver In 2022
+title: Top 10 Nutrition Instagram Influencers In Vancouver In 2023
 description: >-
-  Find top nutrition Instagram influencers in Vancouver in 2022. Most popular hashtags: #nutrition #fitness #family #lifestyle.
+  Find top nutrition Instagram influencers in Vancouver in 2023. Most popular hashtags: #fitness #fitnessmotivation #healthylifestyle #motivation.
 platform: Instagram
 hits: 13
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 13 Instagram influencers like this in Vancouver, Canada for you to collaborate.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 13 Instagram influencers like this in Vancouver, Canada for you to connect with.
 profiles:
-  - username: "plentyfullme"
+  - username: "melissamerk"
     fullname: >-
-      Michelle △ Nutritionist
+      MELISSA MERK
     bio: >-
-      a place for all things health + wellness 🌿 easy healthy recipes using simple ingredients 📸 brand photography + content creation 〰️
+      📍 Vancouver , Canada 📚 holistic nutrition 🐶 dog mom @tikatheaussie 🎬 new YT video every Monday 📩melissa@infagency.com
     location: "Canada"
-    followers: 8886
-    engagement: 730
-    commentsToLikes: 0.614167
-    id: ck5bu85cxhbpj0i11rny7q9gu
-    verified: false
-    hashtags: "#sponsored, #healthyfood, #linkinbio, #holisticnutrition"
+    followers: 89239
+    engagement: 398
+    commentsToLikes: 0.009295
+    id: ck0vv6qk1nsgx0i19k4xey9r7
+    verified: true
+    hashtags: "#summerofcupcake, #cupcakelighthearted, #choosejoy, #ad"
   - username: "wil.loh"
     fullname: >-
       WILSON LOH | VANCOUVER FITNESS
     bio: >-
       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 To motivate and Inspire Ascend Aesthetically ▪️| Team @1upnutrition ‘WILLOH’ for 20% off ▪️| Natural Bodybuilder ▪️| Vancouver, B.C
     location: "Canada"
-    followers: 11283
-    engagement: 1253
-    commentsToLikes: 0.040637
+    followers: 10792
+    engagement: 1309
+    commentsToLikes: 0.040569
     id: ckap4u9908wjn0i78sn655hv2
     verified: false
-    hashtags: "#gymshark, #1upnutrition, #1up, #legday"
+    hashtags: "#1up, #1upnutrition, #gymshark, #homeworkout"
+  - username: "laurinthorne"
+    fullname: >-
+      ◣Laurin Thorne◥
+    bio: >-
+      🇨🇦 Elite Triathlete 📍Victoria/Vancouver/Calgary 🎓BSc Economics 📷Model @reelathletesagency ———👑——— Rumble•FSC•Näak•Endūr•Huub
+    location: "Canada"
+    followers: 10742
+    engagement: 484
+    commentsToLikes: 0.023499
+    id: ck14gk5qo5mva0i19oibx2zo2
+    verified: false
+    hashtags: "#swimbikerunworld, #swimming, #bike, #instadaily"
   - username: "nicolehutchinson__"
     fullname: >-
       Nicole Michaela Hutchinson
     bio: >-
-      Professional Ray of Sunshine Hyperhydrosis queen Vancouver, BC 🇨🇦 // San Diego, CA ☀️ Ask me about #RoadtoSub60 ••• @nicolesknits
+      Professional Ray of Sunshine Vancouver, BC 🇨🇦 // San Diego, CA ☀️ Ask me about #RoadtoSub60 ••• @nicolesknits
     location: "Canada"
-    followers: 2433
-    engagement: 2272
-    commentsToLikes: 0.018773
+    followers: 2422
+    engagement: 2295
+    commentsToLikes: 0.020442
     id: ckap3892t1yvz0i78yxn47uy5
     verified: false
-    hashtags: "#runsandiego, #runcalifornia, #local, #nothankyou"
-  - username: "mulderronald"
+    hashtags: "#goldencoast, #holistic, #pnw, #mrmnutrition"
+  - username: "tiffyybeans"
     fullname: >-
-      Ronald Mulder
+      T I F F 💋
     bio: >-
-      3 times Olympic Speedskater Vancouver, Sochi 🥉, Pyeongchang. European Champion 500 🥇, World Champion Team-Sprint 🥇
+      🇭🇰|🇨🇦 UBC food nutrition and health | AOii Model @thenumanetwork @escapeswimwear code TIFFANY 1 Corinthians 13: 4-8 ⛪️
     location: "Canada"
-    followers: 18983
-    engagement: 647
-    commentsToLikes: 0.013628
-    id: ck55pqyk1b6d80i11shvj1p94
+    followers: 10386
+    engagement: 454
+    commentsToLikes: 0.022597
+    id: ck8tbattpuya00j780g1d4ydo
     verified: false
-    hashtags: "#power, #schaatsen, #bikelife, #boys"
+    hashtags: "#aestheticfashion, #thevisualmag, #photography, #aesthetica"
   - username: "lindsaypleskot"
     fullname: >-
-      Dietitian, RD/nutrition expert
+      Dietitian |Nutritionist | Mom
     bio: >-
-      Helping busy women save time, stress, and ditch dieting #makefoodfeelgood 🥑 Easy Recipes 🍋 Meal Plans & Ktchn Hacks 🍉 Nutrition made simple GET IT 👇
+      Let's #makefoodfeelgood! Mindful eating & nutrition for a lifelong feel good relationship with food & your body. 🍋 6 Week MFFG Program 🥑 Meal Plans
     location: "Canada"
-    followers: 16833
-    engagement: 198
-    commentsToLikes: 0.307812
+    followers: 18932
+    engagement: 159
+    commentsToLikes: 0.256294
     id: ck6u7wtt9o4a30j71vmkqsh14
     verified: false
-    hashtags: "#covid19, #pantrycooking, #freezerfriendly, #kitchenshortcuts"
+    hashtags: "#thatmomlife, #vancouvermoms, #vancouverbloggers, #proteinpacked"
   - username: "vancouversveryown"
     fullname: >-
       Brandon Nair | DJ Nizzy 🇫🇯🌺
     bio: >-
-      Sponsored by @ufcgymbc x @therawunite Team BC Athlete | Coach⚽️ Personal Trainer 💪🏽 DJ🎧
+      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
     location: "Canada"
-    followers: 6683
-    engagement: 776
-    commentsToLikes: 0.045185
+    followers: 7165
+    engagement: 736
+    commentsToLikes: 0.068972
     id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#l4l, #vancitybuzz, #vancouverevents, #instagood"
-  - username: "praisevaughn"
+    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
+  - username: "des_lifts_"
     fullname: >-
-      Praise Vaughn
+      𝐃𝐞𝐬𝐩𝐢𝐧𝐚 𝐒𝐭𝐚𝐢𝐤𝐨𝐬 🦋
     bio: >-
-      Courage. Compassion. Connection. 👉🏽 2 Timothy 1:7 🙌🏽 👊🏽 Learn to Box 👊🏽
+      👙 CPA Bikini ➡️ Road to Wellness ✨ Be better than yesterday 💪🏼 @teamludachris Athlete 💥 @popeyesburnaby_coquitlam Ambassador
     location: "Canada"
-    followers: 17020
-    engagement: 424
-    commentsToLikes: 0.056641
-    id: ck6tk1qdc3u3e0j71y20xt5vc
+    followers: 3475
+    engagement: 1081
+    commentsToLikes: 0.075894
+    id: ck8t3t42s4e680j788uwc3b0d
     verified: false
-    hashtags: "#fightcapital, #vancouverboxing, #sausagedog, #vancity"
+    hashtags: "#bootybuilding, #whateverittakes, #fitnessmodel, #nopainnogain"
   - username: "stevibreezy"
     fullname: >-
       Stevi Schnoor
     bio: >-
       #theBULL 🏈3x🇺🇸 National 🏆, 1x🇨🇦 National 🏆 🏉🇨🇦Rugby League World Cup Athlete ‘17 💙Fulfilling my dreams while trying to inspire greatness in others
     location: "Canada"
-    followers: 20861
-    engagement: 218
-    commentsToLikes: 0.055266
+    followers: 20710
+    engagement: 202
+    commentsToLikes: 0.060351
     id: ck6uhok1oabma0j71bhar371d
     verified: false
-    hashtags: "#weightlifting, #seattle, #runningback, #fitness"
-  - username: "graceoreto"
+    hashtags: "#nikewomen, #wellness, #nutrition, #nikeaddict"
+  - username: "joeysplate"
     fullname: >-
-      G R A C E 🌺
+      Joelle LMP8 | BC 🇨🇦
     bio: >-
-      🌜UKIYO 浮世 [u - key - yo] @fullforcefitnesscanada Athlete @xfitonway.canada Athlete 💍🤍
+      Vegan recipe developer & photographer NFT artist Herbal medicine student 📺 Le meilleur pâtissier / La belle vie
     location: "Canada"
-    followers: 5789
-    engagement: 625
-    commentsToLikes: 0.032662
-    id: ck9wdkah4g1ds0j78tnutzfk8
+    followers: 31961
+    engagement: 235
+    commentsToLikes: 0.055934
+    id: ck0vwkrs7uaaq0i19tizrwxmb
     verified: false
-    hashtags: "#muscle, #shredded, #agarmy, #family"
-  - username: "myorganicdiary"
-    fullname: >-
-      Happy Eating + Living 🥑
-    bio: >-
-      👩🏻‍🔬 Dietetics Student + #IIN Holistic Health Coach 🥑 Anti-Inflammatory #PlantBased Living 📸 Food + Lifestyle Creator 🇫🇷 French Eat-Girl in📍MTL
-    location: "Canada"
-    followers: 21304
-    engagement: 305
-    commentsToLikes: 0.041849
-    id: ck6ttj527awby0j7166tt8nbz
-    verified: false
-    hashtags: "#iinhealthcoach, #foodphotography, #instagood, #healthyfood"
+    hashtags: "#sonyalpha, #roamtheplanet, #eatplants, #nightphotography"
 ---

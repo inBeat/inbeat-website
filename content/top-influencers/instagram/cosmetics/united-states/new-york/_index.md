@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In New York In 2022
+title: Top 10 Cosmetics Instagram Influencers In New York In 2023
 description: >-
-  Find top cosmetics Instagram influencers in New York in 2022. Most popular hashtags: #makeup #newyork #cosmetics #love.
+  Find top cosmetics Instagram influencers in New York in 2023. Most popular hashtags: #beauty #makeup #cosmetics #fashion.
 platform: Instagram
-hits: 84
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 84 Instagram influencers like this in New York, United States for you to connect with.
+hits: 83
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 83 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "itscidnee"
-    fullname: >-
-      Cidnee G.
-    bio: >-
-      I turn creative ideas into inspiring visuals. 5feet 10inches cidneegray@gmail.com South Florida 🌴
-    location: "United States"
-    followers: 7974
-    engagement: 728
-    commentsToLikes: 0.118559
-    id: ck6tsn9c15q990j71fmljjsnw
-    verified: false
-    hashtags: "#beautifulwomen, #poschemodels, #coffeevideo, #fashionweek"
-  - username: "curls.aliya"
-    fullname: >-
-      😉
-    bio: >-
-      To be posted check the rules In highlights. *make sure your video quality is good 💞 Account ran by ~ @aliiyyyyya ❗️ Dᴍ ғᴏʀ promos💙
-    location: "United States"
-    followers: 7736
-    engagement: 141
-    commentsToLikes: 0.017719
-    id: ck0vwkoeeu9sd0i19jgeqrhql
-    verified: false
-    hashtags: "#hairstyles, #trending, #cute, #edgesonfleek"
   - username: "sdmedicalarts"
     fullname: >-
       Svetlana M. Danovich MD, FACS
     bio: >-
-      Double Board-Certified Cosmetic Surgeon in New York Founder of SD Medical Arts, Whole Body Organic Rejuvenation Center Tel: 917.893.3603
+      Double Board-Certified New York Cosmetic Surgeon Founder of SD Medical Arts, Whole Body Organic Rejuvenation Center Tel: 917.893.3603
     location: "United States"
-    followers: 33442
-    engagement: 346
-    commentsToLikes: 0.002638
+    followers: 32110
+    engagement: 220
+    commentsToLikes: 0.024145
     id: ck8sxtn7uimdh0j787km4s3wo
     verified: false
-    hashtags: "#staysafe, #virtualconsultation, #teleconsultation, #superfood"
-  - username: "omidiraei"
+    hashtags: "#stayhealthy, #virtualconsultation, #staysafe, #teleconsultation"
+  - username: "celebritydentistry"
     fullname: >-
-      Omid Iraei
+      Celebrity 👄 Dentistry
     bio: >-
-      Painter / Photographer
+      🤩 smile care inspo from real dentists
     location: "United States"
-    followers: 26495
-    engagement: 787
-    commentsToLikes: 0.030145
-    id: ck0ty2mxhlcsn0i196pixiubc
+    followers: 116051
+    engagement: 150
+    commentsToLikes: 0.019337
+    id: ckf5vs2bfpqcw0j23oierzhxe
     verified: false
-    hashtags: "#victoriassecretmodels, #photographer, #canon5dmarkiv, #bazaareditorial"
-  - username: "glam.sophie"
+    hashtags: "#transformation, #veneers, #surgery, #dentist"
+  - username: "jennylliana"
     fullname: >-
-      🇱🇧صوفي ال زين🇺🇸
+      Jenny Lliana | Beauty Blogger
     bio: >-
-      Tiktok- glam.sophiee Personal Insta @elzein95_ 💌 glam.fammm@yahoo.com
+      📍LA | OC Mom to Be Makeup Tutorials ✧ Skincare ✧ Petite Style 🎬 YouTube ⇢English & Español 💌 JennyLlianaBeauty@gmail.com ↡ YouTube, LIKEtoKNOW.it ↡
     location: "United States"
-    followers: 56196
-    engagement: 169
-    commentsToLikes: 0.071283
-    id: ck8wcy8bsd5tg0j78w7bswfu8
+    followers: 5165
+    engagement: 574
+    commentsToLikes: 0.495001
+    id: ck5cbfjgsfbpu0i11uy1xf95w
     verified: false
-    hashtags: "#glowing, #california, #cold, #darkhair"
-  - username: "makeupmelanin"
+    hashtags: "#cosmeticswithacause, #jazminefightsdiabetes, #everydaymakeuproutine, #simplemakeuplook"
+  - username: "leckieroberts"
     fullname: >-
-      MAKEUP MELANIN
+      LECKIE
     bio: >-
-      Beauty blog Bolstering makeup looks for WOC PR/Collabs/Promos ⤵️ 💌 makeupmelanin1@gmail.com Follow @hairstylemelanin #makeupmelanin
+      SERIOUS STYLE FOR UNSERIOUS PEOPLE 📍#NYC
     location: "United States"
-    followers: 117906
-    engagement: 307
-    commentsToLikes: 0.018043
-    id: ck6u0steihk2y0j71yuxgag83
+    followers: 252022
+    engagement: 74
+    commentsToLikes: 0.057164
+    id: ck0ub3253dp120i19qq7ok91s
     verified: false
-    hashtags: "#makeuprevolutionusa, #darkskin, #beatface, #melaninbeautiesunite"
-  - username: "nailed_by_becky"
+    hashtags: "#westvillage, #charlestonsc, #nyc, #eggfreezing"
+  - username: "areiihairjourney"
     fullname: >-
-      BECKY WITH THE GOOD NAILS™️
+      Areion✨
     bio: >-
-      📍Austin, TX 💃🏼Celebrity Nail Artist💅🏻 💓Nail Mentor 🇺🇸 💌 Not taking any new clients at the moment 📩
+      21| Natural Hair Blogger Currently transitioning from heat damage Lets Work! areionjones@gmail.com Product page: @areiihairproducts
     location: "United States"
-    followers: 35471
-    engagement: 112
-    commentsToLikes: 0.040427
-    id: ck6tk5n3o41r70j71oizdxx9j
+    followers: 6476
+    engagement: 340
+    commentsToLikes: 0.029552
+    id: ckaow1dd16zfr0i78lttpmvij
     verified: false
-    hashtags: "#beauty, #nail, #nailgirl, #nailart"
-  - username: "h2ochristina"
+    hashtags: "#naturalhairstyles, #longhairdontcare, #naturalchixs, #kinkycurly"
+  - username: "manizarrin"
     fullname: >-
-      AZ Living, Adventure Thriving
+      MANI ZARRIN
     bio: >-
-      I like to eat, too @bestfoodphoenix content creator DM or email for collabs
+      Creative Director - New York
     location: "United States"
-    followers: 8085
-    engagement: 523
-    commentsToLikes: 0.179932
-    id: ck5zqne3uuxhp0i146cr6r06g
+    followers: 42983
+    engagement: 93
+    commentsToLikes: 0.033783
+    id: ck13582tw060k0i19awjivu2k
     verified: false
-    hashtags: "#igersphx, #azfood, #philadelphia, #nj"
-  - username: "my_name_is_dentist"
+    hashtags: "#photography, #beauty, #salmon, #art"
+  - username: "mishkaivana"
     fullname: >-
-      Best Dental Works & Dentists
+      M I S H K A  ʕ•ᴥ•ʔ
     bio: >-
-      BEST DENTISTS & WORKS ENDO @olga_zemliakovavl VENEERS @dr.lukoshin CLINIC @profi_esthetic FOLLOW @dentist_4_smile & @dentalovers PHOTO @dentiphoto
+      NYC•LA•MIA Vegan 🌱🇷🇺🇺🇿🧿 MA @dollhousemgmt God and family above all else ✡︎ 💌 collab: mishkaivana1@gmail.com
     location: "United States"
-    followers: 97717
-    engagement: 108
-    commentsToLikes: 0.024671
-    id: ck0w3qi72ur0p0i1914ywjo5w
+    followers: 31373
+    engagement: 180
+    commentsToLikes: 0.041626
+    id: ck5hpddcqr68v0i11a2gx6vow
     verified: false
-    hashtags: "#cosmeticdentistry, #dentista, #dentalhygienist, #implant"
-  - username: "clarissalunanyc"
+    hashtags: "#makeup, #nymodel, #veganmodel, #lamodel"
+  - username: "brandonligons"
     fullname: >-
-      CLARISSA LUNA - Celebrity MUA
+      Brandon Ligons
     bio: >-
-      Beauty Brand Product Development Consultant Crosby Carter Management 🍎NY | LA☀️ •Bookings & Brand Partnerships• Bryan@crosbycartermgmt.com
+      📍New York, Ny Beauty & Fashion is my VIBE ! Welcome to my World 🌎
     location: "United States"
-    followers: 41554
-    engagement: 64
-    commentsToLikes: 0.105112
-    id: ck8swkw4gefjc0j78yu06a7v6
-    verified: true
-    hashtags: "#makeupartist, #beautybyclarissa, #lips, #newyork"
+    followers: 15799
+    engagement: 593
+    commentsToLikes: 0.090276
+    id: ck0u0w28sv0re0i19jocdpj0w
+    verified: false
+    hashtags: ""
+  - username: "nadiakazakova"
+    fullname: >-
+      Nadia Kazakova | Model
+    bio: >-
+      Model at Q managementinc NYC Direct 🔥Influencer 🏡New York City🏡 🌪Beauty takes me captive Love blinds my soul🌿 #nadiakazakova
+    location: "United States"
+    followers: 78910
+    engagement: 359
+    commentsToLikes: 0.026374
+    id: ck15qq9z644kc0i19pphvutgu
+    verified: false
+    hashtags: "#blondegirl, #sheisnotlost, #nadiakazakova, #nycmodels"
+  - username: "albertmarashistudio"
+    fullname: >-
+      Albert Marashi
+    bio: >-
+      Creative Director | Photographer I work with some beautiful people. New York 📍 🇺🇸🇦🇱 Fashion Beauty Celebrity
+    location: "United States"
+    followers: 12212
+    engagement: 619
+    commentsToLikes: 0.071926
+    id: ck5ztb7ck030q0i14pfxvayqu
+    verified: false
+    hashtags: "#redhair, #pink, #hair, #beauty"
 ---

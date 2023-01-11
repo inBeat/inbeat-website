@@ -1,130 +1,118 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Ukraine In 2022
+title: Top 10 Chefs Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top chefs Instagram influencers in Ukraine in 2022. Most popular hashtags: #chef #foodporn #dessert.
+  Find top chefs Instagram influencers in Ukraine in 2023. Most popular hashtags: #chef #foodporn #happy.
 platform: Instagram
-hits: 18
+hits: 9
 text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 18 Instagram influencers like this in Ukraine for you to pitch.
+text_bottom: Our search engine aggregates 9 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
-  - username: "tatiana_glonza"
+  - username: "sergey_ternov"
     fullname: >-
-      БЬЮТИ БОСС
+      Sergey Ternov
     bio: >-
-      Soul @bodyandsoul_niko Brain @tg.level Chef @glonza_probeautyservice Co-owner @g.bar.kherson ⠀
+      🌍- Моя работа вдохновлять 👹- Кулинарный шаман 🏆- финал Chef a’la Russe 🏆-TV show «Битва шефов» 📖 - учился @institutpaulbocuse @ecole_ducasse
     location: "Ukraine"
-    followers: 17695
-    engagement: 172
-    commentsToLikes: 0.122682
-    id: ck6tz2pwb79zu0j712isdvz80
+    followers: 7329
+    engagement: 753
+    commentsToLikes: 0.037055
+    id: ck6u6bt9ceoms0j71l6ywjzgk
     verified: false
-    hashtags: ""
+    hashtags: "#cheflife, #russia, #altay, #chef"
   - username: "klopotenko"
     fullname: >-
       Ievgen Klopotenko
     bio: >-
       Chef🔪Improver of the Ukrainian food culture 🇺🇦 Co-owner @100rokivtomuvpered Store @gastroprikhozhane Ambassador @frankeukraine info@klopotenko.com
     location: "Ukraine"
-    followers: 515780
-    engagement: 139
-    commentsToLikes: 0.013356
+    followers: 547276
+    engagement: 173
+    commentsToLikes: 0.014884
     id: ck5hrjyzxuzqt0i11djcpm5e7
     verified: true
-    hashtags: ""
-  - username: "pava_vb"
-    fullname: >-
-      Вадим Бжезинский Пава(Pava)
-    bio: >-
-      •Победитель @masterchefstb • #PepsiBeStFriend •Brand Chef @catdog_kh •сотрудничество @whynot__enot (098)125 86 21 Инеса •pava.chef@gmail.com
-    location: "Ukraine"
-    followers: 200329
-    engagement: 328
-    commentsToLikes: 0.048757
-    id: ckap85cc5mw6s0i78zqlgq1mb
-    verified: true
-    hashtags: "#chef, #food, #pava, #recipes"
+    hashtags: "#franke, #makeitwonderful, #frankeukraine"
   - username: "hectorjimenezbravo"
     fullname: >-
       Hector Jimenez-Bravo
     bio: >-
-      Chef. TV Host & Judge at @masterchefstb. Restaurateur & Founder of @bao.restaurant, @nam.kyiv & @bo.pastry #ЭкторХименесБраво
+      Chef. TV Host & Judge at @masterchefstb. Restaurateur & Founder of @bao.restaurant & @nam.kyiv #ЭкторХименесБраво
     location: "Ukraine"
-    followers: 1023952
-    engagement: 144
-    commentsToLikes: 0.010631
+    followers: 1032858
+    engagement: 118
+    commentsToLikes: 0.012294
     id: ck5bvwekgkja10i11xhb89z25
     verified: true
-    hashtags: "#bopastry"
-  - username: "shabieva_victoria__spicy_chef"
+    hashtags: ""
+  - username: "yefym.kravchenko"
     fullname: >-
-      Victoria Shabieva & Spicy Chef
+      Yefym Kravchenko🦦
     bio: >-
-      NL int.🌏 @shabieva_nl 🥂founder МК @girls_power_vi 🎀co-founder @em_kids ❤️co-founder @AnnVi_brand 🗝SMM
+      Pastry chef 🇺🇦 ▪️ frantic art and design. ▪️ international consulting and master classes. 🔴YOUTUBE:
     location: "Ukraine"
-    followers: 25273
-    engagement: 364
-    commentsToLikes: 0.023535
-    id: ckap0bxovpnyt0i78g0pz65tz
+    followers: 21399
+    engagement: 1014
+    commentsToLikes: 0.011646
+    id: ck8tcpp1h07gx0j78bp4rffta
     verified: false
-    hashtags: "#honeymoon, #husband, #toppeople, #kiev"
-  - username: "dinarakasko"
+    hashtags: "#pastryart, #foodporn, #pastry, #cake"
+  - username: "savva_loginov"
     fullname: >-
-      Dinara Kasko
+      O.G.Savana 🧬🎨
     bio: >-
-      Динара Касько You can buy my silicone moulds for cakes Pastry masterclasses Ukraine, Kharkov 🇺🇦 dinarakasko@gmail.com
+      Chef @barkada.cafe 🔪Custom artist👨🏼‍🎨 Kyiv Skateboarder🛹 Skate video operator🎥 My interview for Monster Energy😍👇🏼
     location: "Ukraine"
-    followers: 662680
-    engagement: 163
-    commentsToLikes: 0.027241
-    id: ck135sth831yt0i19557yzuxs
-    verified: true
-    hashtags: "#banana, #gastroart, #dinarakasko, #instacake"
-  - username: "_andrea.arts_"
-    fullname: >-
-      ⭐️Illustrator⭐️2D Artist⭐️
-    bio: >-
-      Anastasiia Andreieva Character design, children book illustration Ukraine . Cooperation : andreieva.art@gmail.com . Behance, Etsy shop⤵️
-    location: "Ukraine"
-    followers: 11663
-    engagement: 2726
-    commentsToLikes: 0.018475
-    id: ck9hb5471fftg0j78nw69rtf5
+    followers: 4035
+    engagement: 1360
+    commentsToLikes: 0.034057
+    id: ck6ucehbwf4mu0j71yx5u4kii
     verified: false
-    hashtags: "#drawdaily, #cartoon, #artistsoninstagram, #characterdesign"
-  - username: "kiro.wang"
-    fullname: >-
-      FULL VIDEO🔥PHOTO PRODUCTION
-    bio: >-
-      Co-founder: @krasivoprod Created 300+ individual projects 😈 Art director | Director | Photographer 10 years of shooting 🔥
-    location: "Ukraine"
-    followers: 6958
-    engagement: 589
-    commentsToLikes: 0.076249
-    id: ck6ttioh8atod0j71a7317qje
-    verified: false
-    hashtags: "#ukraine, #nikontop, #kharkivgram, #krasivofood"
+    hashtags: "#createathome, #grip, #thrashermag, #35mm"
   - username: "yaroslavskyi_vova"
     fullname: >-
       Владимир Ярославский
     bio: >-
-      Шеф @lucky.restaurant Суддя #MasterChef Тисни #ворецепт - побачиш рецепти Зі мною готувати легко! ⠀ За співпрацею - пишіть на електронку Сайт:
+      Шеф @lucky.restaurant Працюю з найкращими продуктами в улюбленому @goodwine Суддя #MasterChef Співпраця @yaroslavskiy.cooperation
     location: "Ukraine"
-    followers: 141632
-    engagement: 422
-    commentsToLikes: 0.023541
+    followers: 167178
+    engagement: 327
+    commentsToLikes: 0.020283
     id: ck5hee4dnsfml0i1122hqv5dc
     verified: true
-    hashtags: "#masterchef, #dessert, #risotto, #show"
-  - username: "foodawesooome"
+    hashtags: "#happy, #tasty, #home, #life"
+  - username: "_misskara_"
     fullname: >-
-      Еда | Рецепты | Обзоры
+      K🤍
     bio: >-
-      🥘: Создатель вкусных видео. 🎥: Снимал контент для ресторанов Димы Борисова, Евгения Клопотенко, фестиваля Ulichnaya Eda Мой YouTube - канал 👇🏻
+      
     location: "Ukraine"
-    followers: 16301
-    engagement: 331
-    commentsToLikes: 0.025089
-    id: ckaotw4icxrll0i78n23uytp7
+    followers: 32378
+    engagement: 800
+    commentsToLikes: 0.024088
+    id: ckaotms7twjwd0i783a6g7os5
     verified: false
-    hashtags: "#eggrolls, #eggrollinabowl, #grillporn, #foodawesooome"
+    hashtags: "#dubai, #barcelona, #travelling, #paris"
+  - username: "hez_arslan"
+    fullname: >-
+      Hezret-Arslan Berdiev
+    bio: >-
+      My life in @birch_saintp restaurant
+    location: "Ukraine"
+    followers: 10610
+    engagement: 1270
+    commentsToLikes: 0.030108
+    id: ck6uhjwc69jmf0j71fz11flsl
+    verified: false
+    hashtags: "#wtespb2019, #dinnerinthesky, #repost, #whiterabbitfamily"
+  - username: "lerabrumina"
+    fullname: >-
+      Lera Brumina
+    bio: >-
+      Interior designer based in Kyiv
+    location: "Ukraine"
+    followers: 9987
+    engagement: 364
+    commentsToLikes: 0.009236
+    id: ck6ue9rjupnd50j713e8cfj3k
+    verified: false
+    hashtags: "#lerabrumina, #57sqmetersapartment, #residential, #interiordesign"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Greece In 2022
+title: Top 10 TikTok Influencers In Greece In 2023
 description: >-
-  Find top TikTok influencers in Greece in 2022. Most popular hashtags: #fyp #greece #foryou.
+  Find top TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #greece #fy.
 platform: TikTok
-hits: 282
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 282 TikTok influencers like this in Greece for you to contact.
+hits: 292
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 292 TikTok influencers like this in Greece for you to work with.
 profiles:
   - username: "shajarabbas240"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       
     location: "Greece"
-    followers: 4470
-    engagement: 5349
-    commentsToLikes: 0.167474
+    followers: 4265
+    engagement: 5603
+    commentsToLikes: 0.104609
     id: ckad8vi07atcx0i78ciipipr9
     verified: false
-    hashtags: "#duet, #stitch"
-  - username: "itsan_na"
+    hashtags: "#duet"
+  - username: "findlifeandgetoutofhere"
     fullname: >-
-      💚
+      ✨ XEZEIS ✨
     bio: >-
-      13 y/o 2/7 🥳 4k?
+      h mana s
     location: "Greece"
-    followers: 3539
-    engagement: 3350
-    commentsToLikes: 0.082943
-    id: cka9lhnlg253w0i784zo7tjqw
+    followers: 2335
+    engagement: 3829
+    commentsToLikes: 0.331304
+    id: cka83sqh2qdcn0i78a4ejwuh3
     verified: false
-    hashtags: "#youarebeautiful, #ilovemybody, #fyp, #celebritycrush"
-  - username: "manitarimelenexarhka"
+    hashtags: "#foryou, #fy, #gamidia, #fyy"
+  - username: "rasel.khan00"
     fullname: >-
-      ΓΕΙΑ ΣΟΥ ΜΠΡΟ😌
+      ❤️❤️ king Arif ❤️❤️
     bio: >-
-      #19❤️⛓️ 🇦🇺🇬🇷
+      king Arif
     location: "Greece"
-    followers: 3969
-    engagement: 3119
-    commentsToLikes: 0.081603
-    id: ckbevlkb1f5mg0j23c7qn1u52
+    followers: 13800
+    engagement: 3650
+    commentsToLikes: 0.121845
+    id: cka8h1v5e90hx0i787dim1s64
     verified: false
-    hashtags: "#mpesforoyou, #foryoupage, #virall, #tiktokgreece"
+    hashtags: "#funny, #albumcover, #stitch"
+  - username: "shadow.bonnie.love.me"
+    fullname: >-
+      🌹_s.bonnie's_girl_🌹
+    bio: >-
+      s.bonniexkaty ft.freddyxkaty b.freddyxkaty ft.freddyxft.foxy s.bonniexlolbit💜🖤
+    location: "Greece"
+    followers: 5987
+    engagement: 3144
+    commentsToLikes: 0.101685
+    id: cka88q2ivc6x40i78fs8fhf9w
+    verified: false
+    hashtags: "#cupcut, #funtimefreddyxkaty, #springtrap, #ucn"
   - username: "grxsquad"
     fullname: >-
       🄶🅁🅇 🅂🅀🅄🄰🄳
     bio: >-
       14 Members
     location: "Greece"
-    followers: 1955
-    engagement: 2941
-    commentsToLikes: 0.149338
+    followers: 1866
+    engagement: 2893
+    commentsToLikes: 0.132839
     id: ck8rs64hkxdim0j785wffcv10
     verified: false
-    hashtags: "#foryoupage, #greece, #foryou, #dance"
+    hashtags: "#fyp, #dance, #foryou, #foryoupage"
   - username: "silia_37"
     fullname: >-
-      🍭✨❤️
+      💗🌿🔮
     bio: >-
-      Don't be shy puss this button↖️ 🎂24/7🥳 3030 beautiful friends💗🥺
+      Don't be shy push this button↖️ 3258 beautiful friends💗🥺 thank u❤️
     location: "Greece"
-    followers: 3031
-    engagement: 2933
-    commentsToLikes: 0.082721
+    followers: 3253
+    engagement: 2749
+    commentsToLikes: 0.084486
     id: ckc3dzslvzaj80j23kb7inhpu
     verified: false
-    hashtags: "#timewarpscan"
-  - username: "findlifeandgetoutofhere"
+    hashtags: "#timewarpscan, #fyp"
+  - username: "xcrazymama"
     fullname: >-
-      ✨ XEZEIS ✨
+      𝓐𝓷𝓪𝓼𝓽𝓪𝓬𝓲𝓪
     bio: >-
-      antziagaphmouelaparemeapodww
+      🇬🇷 ℝ𝕚𝕟𝕘 𝕃𝕚𝕘𝕙𝕥📀𝕋𝕖𝕒𝕞 🖤 𝓣𝓱𝓮 𝓒𝓻𝓮𝓪𝓽𝓸𝓻 🖤 #katsarida🦗
     location: "Greece"
-    followers: 2396
-    engagement: 2909
-    commentsToLikes: 0.205401
-    id: cka83sqh2qdcn0i78a4ejwuh3
+    followers: 23900
+    engagement: 2674
+    commentsToLikes: 0.147803
+    id: ckbkvr79xrew60j23rdy03man
     verified: false
-    hashtags: "#foryouu, #fy, #gamidia, #fyy"
+    hashtags: "#agapoulines, #the, #comfuzioteam, #happybirthdaytome"
   - username: "priencejahid71"
     fullname: >-
       Jahid71
     bio: >-
-      💜💜 greece🇧🇩🇬🇷❤🌹💜💜🎂🎂🎂🎂7july 🎂 birthday🎂🎂🎂
+      💜💜 greece🇬🇷🇧🇩🇮🇹italy❤comilla🌹💜💜🎂🎂🎂🎂7july 🎂 birthday🎂🎂🎂
     location: "Greece"
-    followers: 13600
-    engagement: 2756
-    commentsToLikes: 0.209989
+    followers: 14100
+    engagement: 2422
+    commentsToLikes: 0.185337
     id: ckbbnlviebnfh0j23t1zh76f8
     verified: false
-    hashtags: "#gr, #jahid71, #mona71, #greece"
-  - username: "xara_xaroula_.23"
+    hashtags: "#greece, #jahid71, #italy, #foryou"
+  - username: "_.maria..p_"
     fullname: >-
-      Μόνο το #23✌️❤️👉👈
+      𝖒𝖎𝖐𝖑𝖔 𝖐𝖔𝖑𝖎𝖙𝖘𝖆𝖐𝖎
     bio: >-
-      LiveGreece🇬🇷 Instagrm:xaroula_23📲 Make me famous👉👈🥺 13/7🍰❤️
+      Kalamata ‘09♓ ★birthday 24/2 🧚 Just for fun∞₱ taken😼✨ ❤️
     location: "Greece"
-    followers: 42400
-    engagement: 2737
-    commentsToLikes: 0.049393
-    id: ckbeq8jyg7see0j236wxqi7p7
+    followers: 4067
+    engagement: 2401
+    commentsToLikes: 0.183924
+    id: ckbevlkb1f5mg0j23c7qn1u52
     verified: false
-    hashtags: "#pov, #kotopoulakiamou, #instagram, #foryou"
-  - username: "king.arif1"
+    hashtags: "#goonfyp, #fy, #mpesforoyou, #twinwho"
+  - username: "marthanimiti"
     fullname: >-
-      arif ahmed "
+      marthanimiti
     bio: >-
-      arif_ahmed
+      T&F 15♎️ next 15k🎯 Here since musically
     location: "Greece"
-    followers: 11800
-    engagement: 2675
-    commentsToLikes: 0.116740
-    id: cka8h1v5e90hx0i787dim1s64
+    followers: 13000
+    engagement: 2326
+    commentsToLikes: 0.098783
+    id: ckb970yu8pgxh0j23e86u5k0j
     verified: false
-    hashtags: "#duet"
-  - username: "shadow.bonnie.love.me"
-    fullname: >-
-      🌹🎄Mrs.s.bunny🌹🎄
-    bio: >-
-      s.bonniexkaty ft.freddyxkaty b.freddyxkaty ft.freddyxft.foxy s.bonniexlolbit💜🖤
-    location: "Greece"
-    followers: 5983
-    engagement: 2648
-    commentsToLikes: 0.089113
-    id: cka88q2ivc6x40i78fs8fhf9w
-    verified: false
-    hashtags: "#blacktimefreddyxkaty, #zodiacsigns, #shadowbonniexkaty, #catnoir"
+    hashtags: "#greece, #virall, #fyp, #foryou"
 ---

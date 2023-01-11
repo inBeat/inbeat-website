@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Switzerland In 2022
+title: Top 10 Divers Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top divers Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #switzerland #swiss #amazing.
+  Find top divers Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #switzerland #swiss #happy.
 platform: Instagram
-hits: 29
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 29 Instagram influencers like this in Switzerland for you to connect with.
+hits: 14
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 14 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "divetascha"
-    fullname: >-
-      Natascha Leisi
-    bio: >-
-      🌊 Water Adventures 🖤 Master Scuba Diver Trainer 🧜🏼‍♀️ PADI Freediver Instructor Ⓥ Plant powered ➳ Switzerland OrcaTorch Ambassador
-    location: "Switzerland"
-    followers: 6875
-    engagement: 1132
-    commentsToLikes: 0.034714
-    id: ckap2r8lpzywx0i78cmh175qi
-    verified: false
-    hashtags: "#nobluenogreen, #waterlovers, #waterworld, #marinedebris"
-  - username: "itsmarionreber"
-    fullname: >-
-      M A R I O N
-    bio: >-
-      TikTok @ marionreber YouTube @ itsmarionreber your future Actress, digital entrepreneur and diverse clothing hanger
-    location: "Switzerland"
-    followers: 50305
-    engagement: 233
-    commentsToLikes: 0.100588
-    id: ck5zu9dni1xee0i14mh59gylk
-    verified: false
-    hashtags: "#lovewhatyoudo, #mixedgirlsdoitbetter, #swissmodel, #mixedgirl"
-  - username: "sarah_underwater"
-    fullname: >-
-      S A R A H | سارة🇨🇭
-    bio: >-
-      Scuba Diving Instructor 🐙| Wanderess🧭 | Aqaba, Jordan🇯🇴 @diverse_divers __________________________________ 《Stay wild, ocean child》 🌊
-    location: "Switzerland"
-    followers: 7248
-    engagement: 801
-    commentsToLikes: 0.017916
-    id: ck15u9445m0yp0i19xkejgtit
-    verified: false
-    hashtags: "#travelgram, #dametraveler, #wander, #girlsthatscuba"
-  - username: "garinho_photography"
-    fullname: >-
-      Role
-    bio: >-
-      🇨🇭 Berne Loving nature, music and travelling! My specialty: Diversity! 🌱🌻🌅🛫⛳️ All pics by myself (Iphone Xs / Lumix DC-FZ82)
-    location: "Switzerland"
-    followers: 11840
-    engagement: 967
-    commentsToLikes: 0.042964
-    id: ck9haylzrelxg0j787px0k6ly
-    verified: false
-    hashtags: "#getoutstayout, #myswitzerland, #passionpassport, #inlovewithswitzerland"
   - username: "vedralan"
     fullname: >-
       Anna Vedralová
     bio: >-
       Education-Animals-Entomology veg food🌱 free/scuba-diver💙 Biology student🦂 Roller derby Traveler[Philipphines,Srilanka,Hawaii, Indonesia,Seychelles]
     location: "Switzerland"
-    followers: 17804
-    engagement: 1095
-    commentsToLikes: 0.005537
+    followers: 17629
+    engagement: 936
+    commentsToLikes: 0.005486
     id: ck0ub9zdke6a90i19kl5uwjvc
     verified: false
-    hashtags: "#interesting, #mermaid, #naturelover, #zvire"
-  - username: "itz_fabienne"
-    fullname: >-
-      FABIENNE
-    bio: >-
-      📍Basel 💍Wifey 🧩 #autismmom 👱🏼‍♀️👦🏼 Mom of two 2005/2017 ⚪️Momlife,Travel,Fashion 💌 itzfabienne@gmail.com 6
-    location: "Switzerland"
-    followers: 13162
-    engagement: 693
-    commentsToLikes: 0.248298
-    id: ck0u9tisean590i19onj5aj5i
-    verified: false
-    hashtags: "#swissblogger, #americanstyle, #ig, #momswithcameras"
+    hashtags: "#green, #underwater, #month, #insect"
   - username: "callherpaprika"
     fullname: >-
       PAPRIKA | Drag Queen
     bio: >-
-      👑 Miss HEAVEN 💞 Miss CONGENIALITY 🇨🇭 based in SWITZERLAND 📩 BOOKINGS: callherpaprika@gmail.com 📰 Media ⬇️
+      👑 Miss HEAVEN 💞 Miss CONGENIALITY 🇨🇭 based in SWITZERLAND 📩 BOOKINGS: callherpaprika@gmail.com 📰 MEDIA ⬇️
     location: "Switzerland"
-    followers: 2791
-    engagement: 2319
-    commentsToLikes: 0.065476
+    followers: 3213
+    engagement: 2022
+    commentsToLikes: 0.072455
     id: ck6tuh73mgbl20j71w8u3houw
     verified: false
-    hashtags: "#dragmakeup, #instadrag, #astronaut, #gaypride"
-  - username: "swiss_made_obsession"
+    hashtags: "#queer, #transrights, #gown, #qwerrrkout"
+  - username: "neda.draws"
     fullname: >-
-      Swiss Made Obsession
+      Neda Sadreddin
     bio: >-
-      Mr. and Mrs. totally obsessed with Swiss made timepieces. 🇺🇸 living in 🇳🇱 ⌚️ #Rolex ⌚️ #Tudor ⌚️ #Omega ⌚️ #Breitling ⌚️ #Panerai
+      Freelance Illustrator. 🇺🇸 Welcome to my world. ✨😊 For private orders email me at: neda.sadreddin@gmail.com YouTube Channel:
     location: "Switzerland"
-    followers: 7329
-    engagement: 668
-    commentsToLikes: 0.085536
-    id: ck8t8nbhal2n70j78f094m2r1
+    followers: 29773
+    engagement: 740
+    commentsToLikes: 0.035060
+    id: ck8szgi1vocu90j78q4ro2cz4
     verified: false
-    hashtags: "#wristwatchcheck, #toolwatchfriday, #watchfan, #travelingtimepiece"
+    hashtags: "#cuteillustration, #digitalillustration, #funnybird, #littlemonster"
+  - username: "papingchulo"
+    fullname: >-
+      Julio Alberto Suero Arciniega
+    bio: >-
+      •Professional Dancer •Founder of Latin Funk|☕️Cafe con Leche •Bookings: papingchulo@gmail.com/DM •Godfirst •LatinoGang🇩🇴🇺🇾🇩🇴 •K.P.C🍑 • Assassins♠️
+    location: "Switzerland"
+    followers: 3112
+    engagement: 1484
+    commentsToLikes: 0.097926
+    id: ck5cjn01iv2ci0i117ps7d7kz
+    verified: false
+    hashtags: "#fun, #vibez, #love, #passion"
+  - username: "tobiaswestenphoto"
+    fullname: >-
+      Tobias | Hunting | Photography
+    bio: >-
+      Professional Photographer 🏠🇨🇭🇩🇪 Hunting & Outdoor Photography Commercial Photography Contact me for Bookings 🌎
+    location: "Switzerland"
+    followers: 6189
+    engagement: 863
+    commentsToLikes: 0.038393
+    id: ck9hb3unefai90j78l1q6c11c
+    verified: false
+    hashtags: "#roedeer, #wildboar, #caccia, #hunt"
+  - username: "ninaburriofficial"
+    fullname: >-
+      Nina Burri
+    bio: >-
+      Contortionist 🐍 Actress 👀 Model 💋 Based in Berlin 🇩🇪 & Switzerland 🇨🇭 ninaburri.com Bookings: ninaburri@gmail.com
+    location: "Switzerland"
+    followers: 27329
+    engagement: 369
+    commentsToLikes: 0.028216
+    id: ck8swefjsdv840j789xz7y932
+    verified: true
+    hashtags: "#noiretblanc, #love, #print, #blueeyes"
+  - username: "max.iris.pk"
+    fullname: >-
+      Maxime Renaud
+    bio: >-
+      20 years old Switzerland 🇨🇭 Parkour and freerunning @IrisParkour athlete 👁️ email: maximerenaud2000@gmail.com 📨
+    location: "Switzerland"
+    followers: 2442
+    engagement: 2551
+    commentsToLikes: 0.058655
+    id: ck5hctme2jwsu0i11r39r6898
+    verified: false
+    hashtags: "#jump, #chill, #freerunning, #low"
   - username: "jonny__fischer"
     fullname: >-
       Jonny Fischer
     bio: >-
-      Comedian @cabaretdivertimento 🎭 CEO @zenmove_official 💪🏽
+      Comedian @cabaretdivertimento 🎭 VRP und Fan @zenmove_official 💪🏽
     location: "Switzerland"
-    followers: 73613
-    engagement: 752
-    commentsToLikes: 0.018006
+    followers: 83239
+    engagement: 647
+    commentsToLikes: 0.019879
     id: ck6trmkkkzutq0j712z7rbuoq
     verified: true
-    hashtags: "#relax, #gaycouple, #capetown, #stayathome"
-  - username: "redbullbe"
+    hashtags: "#capetown, #gay, #gaycouple, #comedy"
+  - username: "kevinxtm"
     fullname: >-
-      Red Bull Belgium
+      Kevin Crupi  xtm
     bio: >-
-      #GivesYouWings
+      🇮🇹🇪🇸🇨🇭 📍Lausanne VD 🤸 Pro P.K athlete 👕@livers_fr 🧠@xtremmove Ceo 📍#xtmpark 🦁 @lionscreative.ch Coo 🎬@from_a2u world tour 🎩@ramdam.ch P.K athlete
     location: "Switzerland"
-    followers: 47297
-    engagement: 110
-    commentsToLikes: 0.009080
-    id: ck0u9gi9v9qg70i191gwm2doa
-    verified: true
-    hashtags: "#stayfit, #motorsports, #redbullracing, #redbull"
+    followers: 5458
+    engagement: 448
+    commentsToLikes: 0.057486
+    id: ck5hctkuyjwis0i118o9g71zy
+    verified: false
+    hashtags: "#legday, #climbing, #switzerland, #frontflip"
+  - username: "denisa.marie46"
+    fullname: >-
+      Denisa S. 🧜‍♀️
+    bio: >-
+      Bern 🇨🇭 Welcome to my world! 💘 Business email: denisamarie46social@gmail.com
+    location: "Switzerland"
+    followers: 413265
+    engagement: 172
+    commentsToLikes: 0.062429
+    id: ck8t72s7xfg270j78vf7pfoop
+    verified: false
+    hashtags: "#schweiz, #humpdaymotivation, #instagood, #throwback"
 ---

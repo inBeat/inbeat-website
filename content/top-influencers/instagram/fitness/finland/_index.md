@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Finland In 2022
+title: Top 10 Fitness Instagram Influencers In Finland In 2023
 description: >-
-  Find top fitness Instagram influencers in Finland in 2022. Most popular hashtags: #fitness #weekend #helsinki #happy.
+  Find top fitness Instagram influencers in Finland in 2023. Most popular hashtags: #fitness #fitnessmotivation #finland #motivation.
 platform: Instagram
-hits: 82
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 82 Instagram influencers like this in Finland for you to pitch.
+hits: 71
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 71 Instagram influencers like this in Finland for you to pitch.
 profiles:
-  - username: "krisztih04"
+  - username: "marikahongisto"
     fullname: >-
-      𝓴𝓻𝓲𝓼𝔃𝓽𝓲 𝓻𝓪𝓬𝔃
+      Marika Hongisto
     bio: >-
-      Snapchat : kriszti04 ♡ Tracking my fitness progress 🏋️‍♀️ ♡ Finland📍 ♡ Getting stronger physically and mentally 🦋 ♡ My fitness community group👇
+      💪🏽 Kuntosaliyrittäjä @fitnesse_gym_ 💥Sfu virallinen fitnessvalmentaja @dreamteamathletes 💫Poledance Coach @_dreampoledanceathletes_
     location: "Finland"
-    followers: 2581
-    engagement: 3120
-    commentsToLikes: 0.099928
-    id: ckf5rppfmdj3x0j2372xjgnly
+    followers: 12334
+    engagement: 804
+    commentsToLikes: 0.021562
+    id: ckaoyptwiijlu0i78r83jkep3
     verified: false
-    hashtags: "#abschallege, #chloetingchallenge, #finland, #athomeworkouts"
-  - username: "teatyvijarvi"
+    hashtags: "#fitnessmotivation, #fitnessphotography, #bikinifitnessathlete, #mobility"
+  - username: "wellness_mia"
     fullname: >-
-      Tea Tyvijärvi 🇫🇮
+      M i a
     bio: >-
-      ▪️Owner of @hiuskeskustea ▪️IFBB Wellness Fitness Finnish Champ 2018 ▪️Contacts: tea.tyvijarvi@gmail.com
+      Finland /Jns 🇫🇮 Psychologist Active lifestyle, positive mind 📷@miamielonen Sport | Fitness | Wellness | Nature | Outdoors | Modeling
     location: "Finland"
-    followers: 13811
-    engagement: 2633
-    commentsToLikes: 0.037636
-    id: ckf5wxa20tisl0j23kqjpjpcf
+    followers: 5328
+    engagement: 1657
+    commentsToLikes: 0.082279
+    id: ckaos1gg8pq6x0i78e3kteybb
     verified: false
-    hashtags: "#viikonloppu, #smile, #tyyli, #hiukset"
+    hashtags: "#fitnesslifestyle, #workoutoutfit, #tattooedgirls, #strongmindset"
+  - username: "kipatiivola"
+    fullname: >-
+      ✨𝐊𝐈𝐏𝐀 𝐓𝐈𝐈𝐕𝐎𝐋𝐀🇫🇮
+    bio: >-
+      HYVINVOINTIA TOSISSAAN MUTTEI VAKAVISSAAN 🧠 Solution Focused Mind Coach 💫 Fitness Professional 👟 Trainer @lesmillsnordic ⚡️ Team @nopainsport
+    location: "Finland"
+    followers: 18053
+    engagement: 520
+    commentsToLikes: 0.054352
+    id: ckapa4tnuupmj0i78i35byeiu
+    verified: false
+    hashtags: "#hyvinvointi, #exercise, #core, #hyv"
   - username: "annituuliali"
     fullname: >-
-      ANNI LIPPONEN 🇫🇮
+      Anni Lipponen
     bio: >-
       🤍 Fitness lifestyle ▪️ @icaniwill -20% ’ANNIL20’ ▪️ @myproteinfi -42% ’ANNIMP’ ▪️ @lohilo -10% ’ANNI’ 📨 Contacts: annilipponen@outlook.com
     location: "Finland"
-    followers: 3279
-    engagement: 1495
-    commentsToLikes: 0.120640
+    followers: 3355
+    engagement: 1430
+    commentsToLikes: 0.111831
     id: ckap4wbp796e40i788mk2eyzb
     verified: false
-    hashtags: "#comfy, #comfystore, #idealofsweden, #collaboration"
-  - username: "kerttumatilda"
-    fullname: >-
-      Kerttu Rissanen
-    bio: >-
-      ▪️Group Fitness Instructor👯‍♂️💪🏻 ▪️BODYCOMBAT & BODYBALANCE❤️ ▪️Student📚📓
-    location: "Finland"
-    followers: 124104
-    engagement: 673
-    commentsToLikes: 0.008164
-    id: ck6tzmvjzan520j71fofr1lq3
-    verified: false
-    hashtags: "#yhteistyo, #weekend, #monday, #friday"
-  - username: "maiju_minea"
-    fullname: >-
-      Maiju Minea Aalto
-    bio: >-
-      🇫🇮Body fitness athlete 🌐Coach @teambalancedbody 🎓MSc Student @jyubiolpa ▪️@fastfinland ▪️@officialbetterbodies ▪️@celsiussuomi
-    location: "Finland"
-    followers: 17576
-    engagement: 462
-    commentsToLikes: 0.103949
-    id: ck8t0cz2prn9j0j78ci9puh5i
-    verified: false
-    hashtags: "#ifbbproud, #fitnesscoach, #suomenfitnessurheilu, #betterbodies"
+    hashtags: "#lohilo, #lohiloambassador, #idealofsweden, #lohiloaf"
   - username: "glow.by.zaarakhan"
     fullname: >-
       زحرا
     bio: >-
-      🧘🏻‍♀️ yoga • spirituality • fitness 🌿 plant based • lover of positivity 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
+      🏋🏻‍♂️ Health & Fitness things • Flexible Dieting 💥 Sustainable weight loss - Backed by Science 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
     location: "Finland"
-    followers: 7231
-    engagement: 589
-    commentsToLikes: 0.071042
+    followers: 8225
+    engagement: 465
+    commentsToLikes: 0.068381
     id: ckaotmx93wko70i78wx7bsczb
     verified: false
-    hashtags: "#yoga, #grateful, #helsinki, #glowup"
+    hashtags: "#suomi, #innerpeace, #finnishnature, #transformation"
+  - username: "fitpilot12"
+    fullname: >-
+      JC (Justin)
+    bio: >-
+      ✈️ Airline Captain 💪 Fitness 🌏 ElPasoTexas Born | World Raised 🗺 New Orleans, Louisiana
+    location: "Finland"
+    followers: 13112
+    engagement: 1430
+    commentsToLikes: 0.014576
+    id: ck5zxfq2k7xkz0i14v3gmp5jn
+    verified: false
+    hashtags: "#flightdeck, #travel, #airport, #flightdeckview"
+  - username: "kerttumatilda"
+    fullname: >-
+      Kerttu Rissanen
+    bio: >-
+      ▪️Group Fitness Instructor, Les Mills BC&BB&BP❤️ ▪️Yoga teacher to be🧘🏻‍♀️ ▪️Acting, content creating, studying ▪️Collabs: manager.maijanen@gmail.com
+    location: "Finland"
+    followers: 131399
+    engagement: 459
+    commentsToLikes: 0.006247
+    id: ck6tzmvjzan520j71fofr1lq3
+    verified: false
+    hashtags: "#kes, #lesmills, #simerock, #jumppa"
+  - username: "mertsi_"
+    fullname: >-
+      MERI TURUNEN 🏋🏼‍♂️☀️
+    bio: >-
+      Kotoisin Lapista 🇫🇮 💛 Fitnessmalli & Love Island 💛 Personal trainer & somevaikuttaja 💛 MS extrana
+    location: "Finland"
+    followers: 53217
+    engagement: 535
+    commentsToLikes: 0.014981
+    id: ck5py90vtuvu00i11kipvxkir
+    verified: false
+    hashtags: "#inspiration, #photoshootideas, #photographers, #lapland"
+  - username: "veerakononen"
+    fullname: >-
+      Veera Könönen | Valmentaja
+    bio: >-
+      Wellness Fitness NFE2021 Team @finnishphysiqueacademy veera15 -15% @same_goal_clothing @villitwellnessmimmit @wellnessmalli.fi🥇
+    location: "Finland"
+    followers: 14038
+    engagement: 1162
+    commentsToLikes: 0.014300
+    id: ck5cl1g6wy23f0i11jz1ltjjk
+    verified: false
+    hashtags: "#motivaatio, #alekoodi, #alennus, #helsinki"
   - username: "sofiesejdija"
     fullname: >-
       SOFIE SABRIE S.
     bio: >-
-      Bikini Fitness | @euphoriafitnessteam 24 | 🇫🇮/🇽🇰 >@icaniwill code "SOFIESS20" > @lohilo code "SOFIES"
+      💪🏻IFBB Bikini Fitness | @euphoriafitnessteam 🤳🏻24 | 🇫🇮/🇽🇰 ✨@icaniwill code "SOFIESS20"
     location: "Finland"
-    followers: 7323
-    engagement: 1025
-    commentsToLikes: 0.020262
+    followers: 7793
+    engagement: 989
+    commentsToLikes: 0.024116
     id: ck6tnq4mxachr0j71nb4ync5p
     verified: false
-    hashtags: "#ad, #ootd, #iciw, #outfit"
-  - username: "cindymicaelaa"
-    fullname: >-
-      Cindy Koivula, FIN 🇫🇮
-    bio: >-
-      ▪️Bikini Fitness debut ➡️ 2021 💙@icaniwill use code CINDYM20 for 20% discount 🦄@lohilo ambassador CINDY for 10% discount
-    location: "Finland"
-    followers: 12692
-    engagement: 450
-    commentsToLikes: 0.059465
-    id: ckap8ssatppym0i78z0kpvhuv
-    verified: false
-    hashtags: "#gym, #lohilo, #summer, #lohiloaf"
-  - username: "katarinatunturi"
-    fullname: >-
-      KATARINA
-    bio: >-
-      📍Helsinki www.katarinatunturi.com 📧: katarina@katarinatunturi.com 🏋🏼🏋🏻‍♀️ @fitnessandvitality Tutustu uuteen BODY FITNESS VERKKOVALMENNUKSEEN 👇🏽
-    location: "Finland"
-    followers: 10836
-    engagement: 771
-    commentsToLikes: 0.023537
-    id: ckaoz01l7js760i78wk0c5yd7
-    verified: false
-    hashtags: "#katarinatunturi, #valmentaja, #hyvinvointi, #yritta"
-  - username: "venlamarias"
-    fullname: >-
-      VENLA SALMINEN | FITNESS
-    bio: >-
-      LIFESTYLE / FITNESS ATHLETE ✨ . Perus arkea hyvällä fiiliksellä 👌🏼 . 🔸 MYPROTEIN ATHLETE - 35% ”VENLASMP” . Tuomas ❤️ / 📍Helsinki
-    location: "Finland"
-    followers: 2696
-    engagement: 1984
-    commentsToLikes: 0.035311
-    id: ckaosia83rm8c0i785tr5juey
-    verified: false
-    hashtags: ""
+    hashtags: "#happy, #finnishgirl, #athlete, #bikinifitness"
 ---

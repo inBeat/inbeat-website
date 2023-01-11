@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Turkey In 2022
+title: Top 10 Food Instagram Influencers In Turkey In 2023
 description: >-
-  Find top food Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #travel #travelblogger #gezilecekyerler.
+  Find top food Instagram influencers in Turkey in 2023. Most popular hashtags: #gezilecekyerler #gezgin #helpturkey.
 platform: Instagram
-hits: 703
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 703 Instagram influencers like this in Turkey for you to contact.
+hits: 673
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 673 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "wemovedabroad"
+  - username: "monicaawidy"
     fullname: >-
-      ALEX & LUCILLE
+      Monica Ayu W 📍 SIDOARJO
     bio: >-
-      ✈ sharing the precious travel moments in between food poisonings and sleeping on public transport ⚑ now: home 🇺🇸 ↡ OUR TRAVEL BLOG
+      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
     location: "Turkey"
-    followers: 14129
-    engagement: 1426
-    commentsToLikes: 0.069510
-    id: ck0tuu3be8o460i19gfmksiv9
+    followers: 4443
+    engagement: 864
+    commentsToLikes: 0.033954
+    id: ckf5mxv9rvuxm0j23k5swcw7u
     verified: false
-    hashtags: "#backpackersintheworld, #egypt, #travelbloggers, #passportready"
+    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
+  - username: "leconfiserie"
+    fullname: >-
+      Inh. Melda Muzaffer
+    bio: >-
+      📍Marktstr.12 |Oer-erkenschwick 📧business@leconfiserie.eu 📞02368 8980907 Foodblogger - Recipes ✨ Mo: Ruhetag Die-Fr: 17:00-22:00🕘 Sa | So: 16:00-22:00🕙
+    location: "Turkey"
+    followers: 139796
+    engagement: 316
+    commentsToLikes: 0.016762
+    id: ck0u6m7rq2dkx0i19jf3tozfj
+    verified: false
+    hashtags: "#coffee, #cheesecake, #cake, #leconfiserie"
+  - username: "elvin"
+    fullname: >-
+      Elvin Levinler 🌈
+    bio: >-
+      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+    location: "Turkey"
+    followers: 1185764
+    engagement: 120
+    commentsToLikes: 0.016211
+    id: ck15uwgu4ou830i19ej5guzkx
+    verified: true
+    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
   - username: "orasiseninburasibenim"
     fullname: >-
       Gizem Yüksel
     bio: >-
       Milliyet Tatil Yazarı✍🏼 Travel | Lifestyle | Food Blog⬇️ California Road Trip yayında⬇️
     location: "Turkey"
-    followers: 19505
-    engagement: 870
-    commentsToLikes: 0.457252
+    followers: 28195
+    engagement: 399
+    commentsToLikes: 0.062709
     id: ck9wfvjrmqogg0j7814abqbqs
     verified: false
-    hashtags: "#ig, #gezginlerbirarada, #geziyorum, #travelgram"
-  - username: "bujuyollarda"
-    fullname: >-
-      BURCU ✈Travel Addict
-    bio: >-
-      Travel | Hotel | Food ❀Die with your memories,not your dreams❀ ♡ @ustunyollarda ✉ info@bujuyollarda.com www.bujuyollarda.com
-    location: "Turkey"
-    followers: 16823
-    engagement: 721
-    commentsToLikes: 0.217073
-    id: ck6u2ot43t20x0j71wop70ogi
-    verified: false
-    hashtags: "#traveltheworld, #bujuyollarda, #travelblogger, #travelturkey"
-  - username: "selenajinah"
-    fullname: >-
-      𝐒𝐞𝐥𝐞𝐧 𝐀𝐣𝐢𝐧𝐚𝐡 سيلين عجينة
-    bio: >-
-      Lifestyle | Fashion | Food | Photography 📍Jeddah, Saudi Arabia 🇸🇦 Founder: @byselenajinah
-    location: "Turkey"
-    followers: 53557
-    engagement: 415
-    commentsToLikes: 0.073536
-    id: ckapcghj43pwn0i782volq8v1
-    verified: false
-    hashtags: "#riyadh, #art, #lifeinsaudiarabia, #islam"
-  - username: "muhendisbirkadin"
-    fullname: >-
-      Ayça Aydın 🧿
-    bio: >-
-      📌Lifestyle | Food | Travel | Beauty 👷🏻‍♀️İnşaat Mühendisi 👩🏻‍💻 Inf.Mark. & Event Hosting 📍İzmir Pr&Mekan Tanıtımları: Mail/Dm
-    location: "Turkey"
-    followers: 78560
-    engagement: 269
-    commentsToLikes: 0.217945
-    id: ck8t3fiwe32ch0j786o58wssv
-    verified: false
-    hashtags: "#bucayikesfet, #izmirblogger, #kahvalt, #izmirdeyasam"
+    hashtags: "#travellifev, #hamileanneler, #wanderluster, #yolacikyolacik"
   - username: "gulsahsenalpsevinc"
     fullname: >-
       𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
     bio: >-
-      🌏Travel / 🍽🥤Food&Drink / YouTube’/ 📍ANKARA / 📥 PR:gulsahsenalp@gmail.com
+      🌏Travel / 🍽🥤Food&Drink /YouTube JoyfulCampers/ PR:gulsahsenalp@gmail.com
     location: "Turkey"
-    followers: 15416
-    engagement: 633
-    commentsToLikes: 0.046919
+    followers: 15021
+    engagement: 649
+    commentsToLikes: 0.051012
     id: ckaoyf7emh9pn0i78g75bpriq
     verified: false
-    hashtags: "#geziyorum, #africasafaris, #karavangu, #gezginyas"
-  - username: "its_fama"
+    hashtags: "#youtube, #gezginler, #karavanturkiye, #hu"
+  - username: "tuceyildrm"
     fullname: >-
-      Fatima
+      Tuçe y.g
     bio: >-
-      PhD in SE👩‍🎓 | Doll's Mom 🤱 Traveler✈️ | Foodie🌮 | Makeup Lover💄 Follow for daily stories 🎥 Pakistani based in Istanbul 🇵🇰 🇹🇷 DM for collaboration
+      Fashion | Lifestyle | Beauty Food engineer and chemist 📍İzmir 💌yildirim.tuce@gmail.com / dm @girisimcikadinlargrubu
     location: "Turkey"
-    followers: 16676
-    engagement: 195
-    commentsToLikes: 0.115854
-    id: ck8t4eqqz6iuu0j78g7tw59ry
+    followers: 114309
+    engagement: 51
+    commentsToLikes: 0.075819
+    id: ck14hmkmhb2tb0i19x6v60e72
     verified: false
-    hashtags: "#multan, #malaysia, #istanbulturkey, #pakistan"
-  - username: "hulyaakcaofficial"
+    hashtags: "#dream, #helpturkey, #turkeyisburning, #adrasan"
+  - username: "tugbatunckaya"
     fullname: >-
-      Hülya Akça
+      Tuğba Tunçkaya Denizöz
     bio: >-
-      ♡ Digital Content Creator ♡ Lifestyle | Beauty | Mia | Food & More • Political Science & International Relations • Mail or DM for business Turkey🇹🇷
+      Lifestyle , Fashion , Beauty , Mom . @tugbatunckaya #blogger #lifestyle #mom #beauty #fashion #food #baby 📩 tunckayatugba@gmail.com
     location: "Turkey"
-    followers: 40355
-    engagement: 161
-    commentsToLikes: 0.030868
-    id: ck0u6kg2q25fc0i19cbyqg9vm
+    followers: 304469
+    engagement: 171
+    commentsToLikes: 0.016479
+    id: ck9wonm9e5utz0j785ljj2f08
     verified: false
-    hashtags: "#lostinwonder, #watch, #maskemvarken, #camgibicilt"
+    hashtags: "#look, #ootd, #helpturkey, #me"
+  - username: "ecemarda_"
+    fullname: >-
+      Ecem Arda
+    bio: >-
+      Food and tableware stylist | Mom’s journal Ela’nın oyuncakları listesi:
+    location: "Turkey"
+    followers: 31334
+    engagement: 927
+    commentsToLikes: 0.415851
+    id: ck5zpiffhsqap0i147bqk7cju
+    verified: false
+    hashtags: "#hmbringonthefuture, #goodnightkiss, #ecorecycle, #annelik"
   - username: "gezginonerisi"
     fullname: >-
       Zeynep
     bio: >-
-      Gezgin Gözüyle Ürün| Mekan | Gezi önerileri -Milliyet Favori Lezzetler Yazarı -Travel & Food & Lifestyle -İletişim: DM & gezginonerisi@gmail.com
+      Gezgin Gözüyle Ürün| Mekan | Gezi önerileri -Travel & Food & Lifestyle -İletişim: DM & gezginonerisi@gmail.com
     location: "Turkey"
-    followers: 145944
-    engagement: 132
-    commentsToLikes: 0.055894
+    followers: 183625
+    engagement: 145
+    commentsToLikes: 0.011431
     id: ck8tbfw6yvi1w0j785lowufpc
     verified: false
-    hashtags: "#gezginonerisi, #kapadokya, #go, #goturkey"
-  - username: "i_clairie_"
+    hashtags: "#kapadokya, #cappadociaturkey, #kapadokyaturu, #cappadocia"
+  - username: "asma_boukhris"
     fullname: >-
-      ᏟᏞᎪᎥᏒᎥᎬ ✈️
+      Dr. Asma Boukhris
     bio: >-
-      Cypriot Traveller 🌎 A seeker of everyday magic 💫 #wanderlust #traveldiary #foodtasting #worldtodolist #sharingmoments #cypriottraveller
+      Docteur en Archéologie ⛏🔦 Studied @ FSHST #love #life #positivevibes #positiveenergy #be #yourself ❤ Outfits 👠 foods 🍔 beauty 👄
     location: "Turkey"
-    followers: 8206
-    engagement: 807
-    commentsToLikes: 0.014368
-    id: ck0vx3qpewzob0i19lcbs9a0f
+    followers: 75920
+    engagement: 122
+    commentsToLikes: 0.041162
+    id: ck6tty8zsd8tk0j71g93ll1vo
     verified: false
-    hashtags: "#visitgreece, #forevercyprus, #kalopanagiotis, #korakonisi"
+    hashtags: "#goodvibes, #happy, #love, #tunisie"
 ---

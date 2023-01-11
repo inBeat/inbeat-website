@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Spain In 2022
+title: Top 10 Rappers Instagram Influencers In Spain In 2023
 description: >-
-  Find top rappers Instagram influencers in Spain in 2022. Most popular hashtags: #rap #rapper #music #musica.
+  Find top rappers Instagram influencers in Spain in 2023. Most popular hashtags: #rap #rapper #hiphop.
 platform: Instagram
-hits: 25
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 25 Instagram influencers like this in Spain for you to contact.
+hits: 19
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 19 Instagram influencers like this in Spain for you to connect with.
 profiles:
-  - username: "iamtatavlad"
+  - username: "bigtobzsf"
     fullname: >-
-      Tata Vlad
+      Big Tobz
     bio: >-
-      Manager, A&R, songwriter, music producer, rapper for one of the biggest rap acts in Europe, @b.u.g.mafia.
+      Rapper | Songwriter | Actor #NEARLYQUIT OUT NOW
     location: "Spain"
-    followers: 52800
-    engagement: 753
-    commentsToLikes: 0.029553
-    id: ck5qb0g8kj7570i11li242gyh
-    verified: false
-    hashtags: "#doublesnarevlad, #tatavlad, #aintplayinfairwiththatfuckindoublesnaretata, #aintplayinfairwiththatdoublesnaretata"
-  - username: "elninoworld"
-    fullname: >-
-      𝐄 𝐋 𝐍 𝐈 𝐍 𝐎
-    bio: >-
-      Booking: associal81@gmail.com Music artist.Rapper. 🇨🇿Czech rep.
-    location: "Spain"
-    followers: 23835
-    engagement: 280
-    commentsToLikes: 0.013190
-    id: ckaoy4di6g0bz0i78bvbtu0hg
-    verified: false
-    hashtags: "#elnino, #matador, #czechrap, #associal"
+    followers: 177679
+    engagement: 244
+    commentsToLikes: 0.026867
+    id: ck5c6w1zk6bhh0i116w46j15s
+    verified: true
+    hashtags: "#cagecitylondon, #oursnottheirs, #togetherwearestronger, #nearlyquit"
   - username: "el_chojin_oficial"
     fullname: >-
       El Chojin
     bio: >-
       Hip Hop como forma de vida #elchojin #chojin Contratación: monica@elchojin.net Moan fang. Yebekuan Rapper 🎤 ¡¡NUEVO CANAL!! 👇🏾
     location: "Spain"
-    followers: 327842
-    engagement: 175
-    commentsToLikes: 0.013128
+    followers: 333665
+    engagement: 161
+    commentsToLikes: 0.015632
     id: ck0w466gfx0h60i193eiaixhd
     verified: true
-    hashtags: "#endsars"
+    hashtags: "#classic, #gentecontalento"
   - username: "mgkspainofficial"
     fullname: >-
-      Machine Gun Kelly
+      FAN ACCOUNT
     bio: >-
-      Club de fans de MGK en España 🔹Daily Spanish&English updates for rapper&actor @machinegunkelly #27TourSpain🇪🇸#HotelDiabloTourEurope ⬇️YouTube Channel
+      🚨NOT IMPERSONATING MACHINE GUN KELLY🚨 🔹Daily spanish/english updates for rapper&actor MGK #27TourSpain🇪🇸 #HotelDiabloTourEurope ⬇️Our YouTube channel
     location: "Spain"
-    followers: 17806
-    engagement: 737
-    commentsToLikes: 0.013473
+    followers: 19966
+    engagement: 696
+    commentsToLikes: 0.009889
     id: ck1354tbczpk20i19qcq9clzn
     verified: false
-    hashtags: "#generaladmission, #est, #yungblud, #whyareyouhere"
-  - username: "gary9630"
-    fullname: >-
-      Garik Asatryan
-    bio: >-
-      Sevilla📍 Commissions are closed for now ✉️❌ ⬇️Youtube, prints, original drawings, etc⬇️
-    location: "Spain"
-    followers: 6996
-    engagement: 2197
-    commentsToLikes: 0.021997
-    id: ck8t1y4y8xidl0j78sup79bge
-    verified: false
-    hashtags: "#art, #pencils, #instaart, #pencilsacademy"
-  - username: "itsmissraisa"
-    fullname: >-
-      ᗰIᔕᔕ ᖇᗩIᔕᗩ
-    bio: >-
-      𝔼𝕤𝕔𝕣𝕚𝕓𝕠 ‘𝕔𝕠𝕤𝕒𝕤’ 𝕪 ‘𝕒𝕝𝕘𝕠𝕤’ 𝕢𝕦𝕖 𝕟𝕖𝕔𝕖𝕤𝕚𝕥𝕠 𝕖𝕩𝕡𝕣𝕖𝕤𝕒𝕣 𝕡𝕒𝕣𝕒 𝕤𝕖𝕟𝕥𝕚𝕣𝕞𝕖 𝕪𝕠 ✍🏼 🎵 𝚁𝚊𝚙𝚙𝚎𝚛 ❤️ 𝙷𝚞𝚖𝚊𝚗 💫 𝙳𝚛𝚎𝚊𝚖𝚎𝚛 #𝗯𝗿𝗲𝗮𝗸𝗶𝗻𝗴𝘀𝘁𝗲𝗿𝗲𝗼𝘁𝘆𝗽𝗲𝘀📩 𝗺𝗶𝘀𝘀𝗿𝗮𝗶𝘀𝗮.𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺
-    location: "Spain"
-    followers: 21029
-    engagement: 1001
-    commentsToLikes: 0.016817
-    id: ck9han6j9d6zd0j784c1qwd5x
-    verified: false
-    hashtags: "#morocco, #muslim, #rap, #black"
-  - username: "thesaaree"
-    fullname: >-
-      Sare 📸
-    bio: >-
-      Mi retina es una lente HD Canon • People • Onstage • Backstage Miembro de la #URDESIGNARMY 📷 Personal: @aka.sare Canal de YouTube👇🏻
-    location: "Spain"
-    followers: 4144
-    engagement: 840
-    commentsToLikes: 0.052802
-    id: ck5cc8ch7gw9y0i11c4lpm88h
-    verified: false
-    hashtags: "#freestyle, #improvisacion, #trapper, #fms"
+    hashtags: ""
   - username: "__frasesderap__"
     fullname: >-
       FRASES DE RAP🔥
     bio: >-
       "Oprimir un sentimiento es matarte con el" 🖇️ 🌐MÁS EN NUESTRA WEB🌐
     location: "Spain"
-    followers: 36190
-    engagement: 551
-    commentsToLikes: 0.003087
+    followers: 36586
+    engagement: 519
+    commentsToLikes: 0.002278
     id: ck6ubndz1alp30j71x602bxko
     verified: false
-    hashtags: "#spain, #batalla, #rap, #rapfrases"
+    hashtags: "#frases, #rapper, #batalla, #music"
   - username: "compare.flow"
     fullname: >-
       compareflowoficial
     bio: >-
       𝙎𝙞𝙜𝙤 𝙝𝙖𝙘𝙞𝙚𝙣𝙙𝙤 𝙡𝙤 𝙙𝙚 𝙨𝙞𝙚𝙢𝙥𝙧𝙚... ᴍᴜʟᴛɪsʏʟʟᴀʙɪᴄ-ʀʜʏᴍᴇs! (𝐜𝐨𝐧𝐭𝐫𝐚𝐭𝐚𝐜𝐢𝐨𝐧𝐞𝐬: 𝐞𝐥𝐜𝐨𝐦𝐩𝐚𝐫𝐞𝐟𝐥𝐨𝐰@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 𝐨 𝐌𝐃 ) 👇ᴸᶦⁿᵏ ˢᶦᵍᵒ ʰᵃᶜᶦᵉⁿᵈᵒ ˡᵒ ᵈᵉ ˢᶦᵉᵐᵖʳᵉ👇
     location: "Spain"
-    followers: 43128
-    engagement: 564
-    commentsToLikes: 0.022179
+    followers: 41877
+    engagement: 569
+    commentsToLikes: 0.022431
     id: ck5qarrdhhxb10i11o0rdc68e
     verified: false
-    hashtags: "#flow, #rapespa, #cocinandoskills, #zaskomaster"
-  - username: "ainadsilva"
+    hashtags: "#rap, #multisil, #cocinandoskills, #90s"
+  - username: "eddykew"
     fullname: >-
-      𝖆𝖎𝖓𝖆 𝖉𝖆 𝖘𝖎𝖑𝖛𝖆 🦋
+      Eddy Kew 🇩🇴 - ᑎᗩ  #𝟮𝟳𝗗𝗘𝗔𝗕𝗥𝗜𝗟🌏
     bio: >-
-      •Artista de @reggaetonbeachfestival •Contrataciones :@dqualitygroup •Managment: @roccomotion ESCUCHA AQUÍ MI MÚSICA 🎶⬇️💗
+      🐺 | Coreografo INTERNACIONAL 🌏 (+14 países) | @agt Season 13th @darepublik| World Champion @officialhhi 🏆| 𝙍𝙖𝙥𝙚𝙧𝙤 🎤 | 𝟴 𝘔𝘪𝘭𝘭𝘰𝘯𝘦𝘴 𝘥𝘦 𝘷𝘪𝘦𝘸𝘴👇🏾
     location: "Spain"
-    followers: 6159
-    engagement: 1386
-    commentsToLikes: 0.093032
-    id: ck6u5l69ra9k80j71n66ko023
+    followers: 30872
+    engagement: 486
+    commentsToLikes: 0.102640
+    id: ck6tp9uoqimij0j715bh2qqzc
     verified: false
-    hashtags: "#makeup, #singer, #sing, #curly"
+    hashtags: "#viral, #dembow, #coreografia, #foryou"
+  - username: "gaphrieloefelem"
+    fullname: >-
+      💤TEMPOFLM💤
+    bio: >-
+      
+    location: "Spain"
+    followers: 2669
+    engagement: 1626
+    commentsToLikes: 0.096483
+    id: ck6udygc4nuhi0j71qba0hqrc
+    verified: false
+    hashtags: "#love, #dancehall, #drill, #tecno"
+  - username: "capaz_hp"
+    fullname: >-
+      Capaz Oficial
+    bio: >-
+      ▪Facebook: @capazMC ▪Twitter: @Capaz_HP ▪Channel: CapazVEVO ▪Contratación: Info@mad91.com ▪ 📞912299154
+    location: "Spain"
+    followers: 41234
+    engagement: 296
+    commentsToLikes: 0.030975
+    id: ck5c5u3h345jw0i114mszxzet
+    verified: true
+    hashtags: "#2021, #capaz, #ilustracion, #repost"
+  - username: "okiman.1"
+    fullname: >-
+      ☠ OKIS GBS TGF
+    bio: >-
+      Graffiti/Illustrator 📍Canary islands//Basque Country
+    location: "Spain"
+    followers: 8605
+    engagement: 506
+    commentsToLikes: 0.013471
+    id: ck9hcaqqdkjiy0j78ffdmgj11
+    verified: false
+    hashtags: "#digitalart, #graffiticartoon, #okiman, #cartoon"
+  - username: "m.u.x.x.x.e"
+    fullname: >-
+      𝔐𝔘𝔛𝔛𝔛𝔈
+    bio: >-
+      ✧✧ 🎀 𝐿𝒶 𝓂𝒶𝓈 𝒻𝒾𝓃𝒶 🎀 ✧✧ ᴅᴇʟ ᴛᴇʀᴄᴇʀ ᴍᴜɴᴅᴏ ᴘᴀʀᴀ ᴇʟ ᴍᴜɴᴅᴏ For bookings | collaborations | inquires muxxxegusto@gmail.com
+    location: "Spain"
+    followers: 9143
+    engagement: 358
+    commentsToLikes: 0.033835
+    id: ck0w0ajrrd8440i19bxdz3sed
+    verified: false
+    hashtags: "#frontera, #border, #performance, #fucktrump"
 ---

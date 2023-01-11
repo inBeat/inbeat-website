@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Venezuela In 2022
+title: Top 10 Beauty Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top beauty Instagram influencers in Venezuela in 2022. Most popular hashtags: #makeup #makeupartist #beauty #halloween.
+  Find top beauty Instagram influencers in Venezuela in 2023. Most popular hashtags: #makeup #makeuplooks #makeuptutorial.
 platform: Instagram
-hits: 113
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 113 Instagram influencers like this in Venezuela for you to pitch.
+hits: 93
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 93 Instagram influencers like this in Venezuela for you to work with.
 profiles:
+  - username: "estefaniaramirezmakeup"
+    fullname: >-
+      Estefanía Ramírez
+    bio: >-
+      🌸 A R T I S T 🌸 ✨ Content Creator - Be your own concept of BEAUTY - 🐰 @ethicalbeauty.ve 💌 estefaniaramirezmakeup@gmail.com
+    location: "Venezuela"
+    followers: 18128
+    engagement: 1353
+    commentsToLikes: 0.068183
+    id: ck5c8lit49qpl0i113dncncnq
+    verified: false
+    hashtags: "#beautysquad, #xiogal"
   - username: "changophoto"
     fullname: >-
       Johan Chango
     bio: >-
       Fashion & Beauty Photographer Caracas, Venezuela
     location: "Venezuela"
-    followers: 29885
-    engagement: 785
-    commentsToLikes: 0.039853
+    followers: 31874
+    engagement: 654
+    commentsToLikes: 0.033483
     id: ck55pst4hbaur0i114a66uuyt
     verified: false
-    hashtags: "#changophoto, #firepoi, #acrobatics, #ten"
-  - username: "monicest"
-    fullname: >-
-      💋Monicest
-    bio: >-
-      Happiness is the main ingredient of eternal youth and beauty... 😀 Come and join me in this wonderful adventure... #Calendario2020 #exclusivecontent
-    location: "Venezuela"
-    followers: 549073
-    engagement: 352
-    commentsToLikes: 0.034458
-    id: ck5q62a96vmbq0i11siwz24d9
-    verified: false
-    hashtags: "#calendario, #islademargarita, #calendario2022, #bikini"
+    hashtags: "#changophoto"
   - username: "dannasm"
     fullname: >-
       Danna Solórzano
     bio: >-
-      FASHION | BEAUTY Curly✨Aprecia, Valora y #ViveTusRizos 🎥+140K YouTube ☁️+115K TikTok/ Curlys around the world...
+      FASHION | BEAUTY #Curly ✨Aprecia, Valora y #ViveTusRizos 〰️ AUDIOVISUAL PRODUCTIONS 🎥+140K YouTube ☁️+130K TikTok Curlys around the world...
     location: "Venezuela"
-    followers: 46096
-    engagement: 1123
-    commentsToLikes: 0.019854
+    followers: 63574
+    engagement: 1167
+    commentsToLikes: 0.020173
     id: ck6ttdsgra24o0j71ytfvyc2f
     verified: false
-    hashtags: "#paris, #italia, #vivetusrizos, #italiangirl"
-  - username: "alexmagomakeup"
+    hashtags: "#mediterraneanlife, #naturalhaircommunity, #vivetusrizos, #tudiferenciatumejoraccesorio"
+  - username: "mishelegonzalezmakeup"
     fullname: >-
-      Makeup|Bridal specialist
+      Mishele Gonzalez
     bio: >-
-      Makeup Artist & Beauty Educator Booking 📲 0414-7793482 Alexandermago1992@gmail.com 🇻🇪 🌟musuteam
+      Bienvenida a mi mundo rosa 🌸 Mommy & Wife 🌸 Professional Makeup Artist International Certified 🇩🇴🇲🇽🇧🇷 GUATEMALA📍 #beautybloggers
     location: "Venezuela"
-    followers: 19630
-    engagement: 367
-    commentsToLikes: 0.093894
-    id: ck6tk6s8044070j717ryh888c
+    followers: 9614
+    engagement: 469
+    commentsToLikes: 0.055939
+    id: ck6u21513p3h20j71tiur5ral
     verified: false
-    hashtags: "#makeuplovers, #margarita, #makeupturorial, #cumana"
-  - username: "themarianamontoya"
+    hashtags: "#makeup, #xmas, #eyeshadow, #photoshoot"
+  - username: "soyemep"
     fullname: >-
-      Mariana Montoya | Makeup
+      mary
     bio: >-
-      Beauty Blogger 📸 m.montoyamakeup@gmail.com Mamá de ✌🏻👩‍👧‍👦 ᶠʳᵉᵉ ˢᵖᶦʳᶦᵗ ʷᶦˡᵈ ˢᵒᵘˡ
+      @beautyhouse.ve
     location: "Venezuela"
-    followers: 11772
-    engagement: 256
-    commentsToLikes: 0.128328
-    id: ck6ub73fe7vas0j710pcouaqu
+    followers: 16458
+    engagement: 422
+    commentsToLikes: 0.027940
+    id: ck6ubuvd0bu680j71h7rdb7d7
     verified: false
-    hashtags: "#makeup, #beautyblogger, #lifestyle, #blogger"
-  - username: "kevinbeauty"
+    hashtags: "#tb"
+  - username: "lorenabodenski"
     fullname: >-
-      𝕂𝕖𝕧𝕚𝕟 ℝ𝕠𝕕𝕣𝕚𝕘𝕦𝕖𝕫. 𝐌𝐚𝐤𝐞𝐮𝐩 𝐀𝐫𝐭𝐢𝐬𝐭
+      Lorena
     bio: >-
-      Maturin - Monagas - Venezuela 🇻🇪 MAKEUP ARTIST 💄 BEAUTY EDUCATOR ✨ HAIR STYLIST 💇🏻‍♀️ Certificed: @eyerlingpulido ✨ @saul_mendoza1 0412-979-4580
+      Eres la suma de la personas que ayudas a brillar. @chetenefrega.ve @adaicollection Beauty and Healthy life Publicidad 📩
     location: "Venezuela"
-    followers: 6225
-    engagement: 688
-    commentsToLikes: 0.084623
-    id: ck6ti4o9n013y0j717lymxztk
+    followers: 45689
+    engagement: 163
+    commentsToLikes: 0.026266
+    id: ck5cjiznuuti50i11dum5wpzj
     verified: false
-    hashtags: "#makeupprofessional, #trendy, #menblogger, #mua"
-  - username: "trinistylist"
+    hashtags: "#classic, #womenempowerment, #sanvalentin, #14febrero"
+  - username: "osoriomelaniemakeup"
     fullname: >-
-      Trini  (juan)
+      Melanie Osorio | MakeUp Artist
     bio: >-
-      HAIR & MAKEUP. 🔹Social / shooting. Beauty educator. ⤵️ ✉️stylist.juan@gmail.com
+      💜Beauty Content Creator 🌈Venezolana CEO @tutiendazafiro 📩PR: osoriomelaniemakeup@gmail.com Infoooo⤵️
     location: "Venezuela"
-    followers: 19891
-    engagement: 695
-    commentsToLikes: 0.087879
-    id: ck6tk726x44mp0j714fris3yh
+    followers: 14257
+    engagement: 534
+    commentsToLikes: 0.032179
+    id: ck0udl39ojfiy0i19blygkewj
     verified: false
-    hashtags: "#venezuela, #ccs, #mua, #halloween"
-  - username: "veronicaselva_"
+    hashtags: "#makeuplooks, #makeup, #makeuptutorial, #makeuplover"
+  - username: "sharonsasac"
     fullname: >-
-      Verónica Selva
+      SHARON HIDALGO
     bio: >-
-      Tv host @viajerastv Comunicación social Miss Teen Venezuela Mundo '18 🇻🇪 Miss Beauty World '18 Reina Internacional del Café España 2019 🇪🇸
+      Venezolana Modelo, Comunicadora Social Fashion and beauty content Owner @mushaoficial
     location: "Venezuela"
-    followers: 12920
-    engagement: 506
-    commentsToLikes: 0.050254
-    id: ck8t0qtuasydi0j781r0jkoz1
+    followers: 190831
+    engagement: 135
+    commentsToLikes: 0.013115
+    id: ck6tk70ju44iy0j71ocd0cto3
     verified: false
-    hashtags: "#quedateencasa, #anecdotasdeveronica"
-  - username: "isabelcarolinav"
-    fullname: >-
-      Isαbel Cαrolinα
-    bio: >-
-      ♡| Makeup Artist•beauty blogger @isabelvcarolina 👩🏻‍💻|Social media➕content creator 💄| Citas de maquillajes•Cursos
-    location: "Venezuela"
-    followers: 28241
-    engagement: 164
-    commentsToLikes: 0.048778
-    id: ck55lgnje1it80i11wzq6pc0n
-    verified: false
-    hashtags: "#makeupartistvzla, #pixibeautymy, #makeupmadrid, #maquilldoramadrid"
+    hashtags: "#miami, #venezuela, #margarita"
   - username: "pedrojose_ph"
     fullname: >-
       Pedro José
     bio: >-
       #Beauty / #lifestyle / #fashioneditorials ♞: Comunicador Visual - @Bl.Book 📍: Caracas, VE. 📩: pedrojsm1@gmail.com
     location: "Venezuela"
-    followers: 5654
-    engagement: 585
-    commentsToLikes: 0.048405
+    followers: 5646
+    engagement: 492
+    commentsToLikes: 0.039540
     id: ck6ubvbv6bx0k0j71byvcmptf
     verified: false
-    hashtags: "#modamujer, #facetimephotoshoot, #shotfromhome, #beautypic"
+    hashtags: "#mexico, #picoftheday, #editorialfashion, #modaespa"
+  - username: "healthylifehn"
+    fullname: >-
+      Healthy Lifestyle Girl🍋
+    bio: >-
+      Soy Elena Venegas, Hondureña, viviendo en balance. 🤱🏻Mamá de #Luciana 🐰 fallow @elrinconcitodeluhn & @beautyfithn 💍Esposa de @edwinmunoz04
+    location: "Venezuela"
+    followers: 24503
+    engagement: 627
+    commentsToLikes: 0.403070
+    id: ck6ub8s4o85fi0j7194b4dyai
+    verified: false
+    hashtags: "#6meses, #fuerzahonduras, #itstrickychallenge"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Brazil In 2022
+title: Top 10 Dancers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top dancers Instagram influencers in Brazil in 2022. Most popular hashtags: #dance #foto #dancer.
+  Find top dancers Instagram influencers in Brazil in 2023. Most popular hashtags: #dance #explorar #reels.
 platform: Instagram
-hits: 673
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 673 Instagram influencers like this in Brazil for you to work with.
+hits: 608
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 608 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "rogeroes"
+    fullname: >-
+      Rogelio Rolon
+    bio: >-
+      Dancer
+    location: "Brazil"
+    followers: 30232
+    engagement: 372
+    commentsToLikes: 0.012367
+    id: ck5chjbycqvro0i111lz43hvr
+    verified: false
+    hashtags: ""
   - username: "orricodan"
     fullname: >-
       DARLAN ORRICO
     bio: >-
-      Model • Dancer • Coreographer Tec em Dança/FUNCEB Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta. 🌹☕ BA
+      Dancer • Coreographer • Model Tec em Dança • FUNCEB (DRT) Bahia 🇧🇷 Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta.
     location: "Brazil"
-    followers: 5430
-    engagement: 1526
-    commentsToLikes: 0.146273
+    followers: 19443
+    engagement: 7488
+    commentsToLikes: 0.123524
     id: ck5c05idbshhr0i111j3xherx
     verified: false
-    hashtags: "#beydancer, #dance, #beyonce, #tbt"
-  - username: "vinnisan_"
+    hashtags: "#beyonce, #desprezivelchallenge, #dance, #challengedaari"
+  - username: "caro.lina.gil"
     fullname: >-
-      Vinni San
+      Cäro
     bio: >-
-      Profissional Dancer TikTok: Vinnisan_ Gaúcho 22yrs
+      ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
     location: "Brazil"
-    followers: 6823
-    engagement: 1368
-    commentsToLikes: 0.083477
-    id: ck5zyjcu09zty0i1497bzbezt
+    followers: 8738
+    engagement: 1589
+    commentsToLikes: 0.083574
+    id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#dance, #brasil, #funk, #ohjulianachallenge"
-  - username: "saabrinarocha"
-    fullname: >-
-      Sabrina Rocha
-    bio: >-
-      Dancer | Singer | Capoeira 📺 Bailarina do Faustão 2017|2019 📍SJRP x SP ⬇️ASSISTA Levo Aonde eu vou feat. Dani Alves
-    location: "Brazil"
-    followers: 77948
-    engagement: 985
-    commentsToLikes: 0.086697
-    id: ck15qyxvd5ayq0i19ftjcam5l
-    verified: false
-    hashtags: "#photoshoot, #girl, #challenge, #dance"
-  - username: "ivan_tremedeira"
-    fullname: >-
-      MISERÊ BRABO
-    bio: >-
-      FÉ! 🙌🏾 "O medo de arriscar é oque te impede de evoluir! " Recife -pe 📍 Dancer - @pnprodutora 🕺🏽 Assessoria: +55 081995075424
-    location: "Brazil"
-    followers: 88229
-    engagement: 685
-    commentsToLikes: 0.043916
-    id: ck5znprndoxhl0i14gzq2ln8k
-    verified: false
-    hashtags: ""
-  - username: "victorinh4"
-    fullname: >-
-      V I C T O R I N H 4 🔥
-    bio: >-
-      youtuber | actress | dancer atriz em formação: @teatrotablado Publicidade: contato@srdigi.com.br 20y, Brasil, RJ 🇧🇷 owner- @victorinh4store
-    location: "Brazil"
-    followers: 425147
-    engagement: 671
-    commentsToLikes: 0.076153
-    id: ck6u5tb5ibm3t0j718vmpku9z
-    verified: false
-    hashtags: "#vidasaudavel, #qualidadedevida, #queimadiaria, #fitness"
-  - username: "jvmartinsa"
-    fullname: >-
-      João Martins
-    bio: >-
-      📷| Fotógrafo das pole dancer e retratos 📍| Rio de Janeiro, RJ ✉️| Orçamento por DM ou e-mail
-    location: "Brazil"
-    followers: 6180
-    engagement: 2060
-    commentsToLikes: 0.244986
-    id: ck8sybbqikcca0j78yljcv3r1
-    verified: false
-    hashtags: "#arraialdo, #arraialdocabo, #riodejaneiro"
-  - username: "eduardo.ofcl_"
-    fullname: >-
-      Eduardo
-    bio: >-
-      Felipe Guerra-RN🌎 Dancer: @heullinhooficial1 ⬇️Link Do Canal da banda⬇️
-    location: "Brazil"
-    followers: 11952
-    engagement: 1708
-    commentsToLikes: 0.632598
-    id: ck9wh4p0lw8i10j7847tsrg1q
-    verified: false
-    hashtags: "#bregafunk, #aleoliveira, #bregafunkchallenge, #selfie"
-  - username: "klebeer.andrade"
-    fullname: >-
-      Gato Moreno Do Passinho 🐈🔥
-    bio: >-
-      🕺 DANCER : @tropaadobrega SERGIPANO COM ORGULHO 🏜️ EM MUDANÇAS 🙏♥️
-    location: "Brazil"
-    followers: 23167
-    engagement: 752
-    commentsToLikes: 0.513475
-    id: ck9wh63mewfi50j78z5cfaxa2
-    verified: false
-    hashtags: "#bloggers, #fototumblr, #explore, #marketingdigital"
+    hashtags: "#cancerfighter, #diary, #love, #breathe"
   - username: "victor.goesx"
     fullname: >-
       PRINCIPE DO BREGAFUNK🕺🏼👑
     bio: >-
-      📽| ASSISTA OS STORIES🌻☝️ 🕺🏼| dancer influencer 📲| parceiras via @centralvictorecleison PRIMEIRO CLIP DO CASAL👇🏻
+      Parcerias e publicidade : @centralvictorgoesx Dancer influencer 🕺🏼 conteúdos +18
     location: "Brazil"
-    followers: 40577
-    engagement: 1112
-    commentsToLikes: 0.050760
+    followers: 57219
+    engagement: 780
+    commentsToLikes: 0.052208
     id: ck9wh30ziw0rl0j78b43ucums
     verified: false
-    hashtags: ""
+    hashtags: "#casal, #tiktok, #humor"
+  - username: "eduardo.ofcl_"
+    fullname: >-
+      Eduardo 🔥
+    bio: >-
+      Felipe Guerra-RN🌎 Dancer: @heullinhooficial1 ⬇️Link Do Canal da banda⬇️
+    location: "Brazil"
+    followers: 16101
+    engagement: 1236
+    commentsToLikes: 0.149215
+    id: ck9wh4p0lw8i10j7847tsrg1q
+    verified: false
+    hashtags: "#reelsvideo, #bregabregoso, #bregafunkchallenge, #reelsinstagram"
   - username: "tamysilva.ofc"
     fullname: >-
       Tamy 🌸
     bio: >-
-      Parcerias via direct 📱 Proprietaria @macarraodatamy 🍝 Proprietária @studiobelezaft Maquiadora 💋💄 Dancer 👯‍♀️ Assistam os story 🤳🏼🌸❤️ 𝑆𝑎̃𝑜 𝑃𝑎𝑢𝑙𝑜 ✨
+      Parcerias via direct 📱 Proprietaria @macarraodatamy 🍝 Proprietária @studiobelezaft Maquiadora 💋💄 Dancer 👯‍♀️ Assistam os story 🤳🏼🌸❤️ Aracaju ✨
     location: "Brazil"
-    followers: 65374
-    engagement: 576
-    commentsToLikes: 0.953920
+    followers: 66159
+    engagement: 566
+    commentsToLikes: 0.943471
     id: ck6u7yb1hodvd0j71fo0e39qw
     verified: false
-    hashtags: "#tran, #mar, #viajar, #foto"
+    hashtags: "#cinelandia, #foto, #mar, #feed"
+  - username: "leonorfilipaa"
+    fullname: >-
+      LEONOR FILIPA❣️
+    bio: >-
+      • 17y😝 Dancer💃🏻Lisbon, Portugal 🇵🇹 • #tiktok: @leonorfilipaa 👑 (+700k) • PR, Digital & Brands: @thisisluvin • Collaborations: Direct / Email 📥
+    location: "Brazil"
+    followers: 42561
+    engagement: 1470
+    commentsToLikes: 0.048389
+    id: ck8wep64meeic0j78gwbo95r6
+    verified: false
+    hashtags: "#trend, #unstoppabledance, #tiktok, #pub"
+  - username: "klebeer_andrade"
+    fullname: >-
+      Gato Moreno Do Passinho 🐈🔥
+    bio: >-
+      🕺 DANCER : @tropaadobrega MODELO DE LOJA , MODELO FOTOGRÁFICO ♥️ GATO MORENO DO PASSINHO 🥵♥️ Parceria via direct ♥️
+    location: "Brazil"
+    followers: 22607
+    engagement: 708
+    commentsToLikes: 0.511317
+    id: ck9wh63mewfi50j78z5cfaxa2
+    verified: false
+    hashtags: "#maloka, #bregafunk, #sergipe, #explorepage"
+  - username: "brunnofraga_"
+    fullname: >-
+      BRUNO FRAGA
+    bio: >-
+      O Senhor é o meu pastor, nada me faltará ❤️ A PRÁTICA LEVA À PERFEIÇÃO 🔥#dancer DISPONÍVEL jobs/ações/shows/eventos @bandasaiddybamba
+    location: "Brazil"
+    followers: 9061
+    engagement: 880
+    commentsToLikes: 0.157828
+    id: ck5pwe4r1meg10i1120lb3rct
+    verified: false
+    hashtags: "#amigos, #semservulgar, #salvador, #luisasonza"
+  - username: "saabrinarocha"
+    fullname: >-
+      Sabrina Rocha
+    bio: >-
+      Dancer | Singer | Capoeira 📺 Bailarina do Faustão 2017|2019 📺 A noite é Nossa na Record (no ar) ⬇️ASSISTA Levo Aonde eu vou feat. Dani Alves
+    location: "Brazil"
+    followers: 93266
+    engagement: 279
+    commentsToLikes: 0.101081
+    id: ck15qyxvd5ayq0i19ftjcam5l
+    verified: false
+    hashtags: "#nature, #summer, #fitness, #paradise"
 ---

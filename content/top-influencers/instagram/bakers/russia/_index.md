@@ -1,33 +1,33 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Russia In 2022
+title: Top 10 Bakers Instagram Influencers In Russia In 2023
 description: >-
-  Find top bakers Instagram influencers in Russia in 2022. Most popular hashtags: #baker #bakery #instafood.
+  Find top bakers Instagram influencers in Russia in 2023. Most popular hashtags: #fashion #baker #pastry.
 platform: Instagram
-hits: 116
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 116 Instagram influencers like this in Russia for you to collaborate.
+hits: 104
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 104 Instagram influencers like this in Russia for you to contact.
 profiles:
   - username: "zabavnikov_ivan"
     fullname: >-
-      Baker Пекарь Забавников
+      Пекарь Иван Забавников
     bio: >-
-      Пеку и преподаю хлеб Сотрудничество 👉Анна @miss.av.baker Полезно знать #тонкостихлебопечения Заказать книгу 👇👇👇👇👇
+      Пеку и преподаю хлеб Менеджер 👉Анна @miss.av.baker Всё для начинающих пекарей 👇👇👇
     location: "Russia"
-    followers: 75229
-    engagement: 364
-    commentsToLikes: 0.054660
+    followers: 90946
+    engagement: 312
+    commentsToLikes: 0.036980
     id: ck0w5w3aq5pjw0i19s7kcud6t
     verified: false
-    hashtags: "#nzmp"
+    hashtags: "#repost, #croissant"
   - username: "smbatbaker"
     fullname: >-
       Пекарь с Улиц-Smbat Tonoyan
     bio: >-
       "Baker from streets " International bakery consultant Masterclass 🌎 Онлайн курс по выпечке «289 Слоёв» ⬇️⬇️⬇️
     location: "Russia"
-    followers: 20078
-    engagement: 665
-    commentsToLikes: 0.029508
+    followers: 21344
+    engagement: 528
+    commentsToLikes: 0.028912
     id: ck5c8dyp799zz0i117no5kk13
     verified: false
     hashtags: ""
@@ -35,96 +35,96 @@ profiles:
     fullname: >-
       Наталья Гаврилова
     bio: >-
-      Kовров.🇷🇺 📌Кондитер,шоколатье. 📌Десерты на заказ. 📌Видео-уроки; 📌Рецепты; 📌Промокод GAVRILOVA @bakerstore_russia
+      Kовров.🇷🇺 📌Кондитер,шоколатье. 📌Консультации. 📌Видео-уроки,авторские техкарты. 📌Промокод GAVRILOVA @bakerstore_russia
     location: "Russia"
-    followers: 36722
-    engagement: 192
-    commentsToLikes: 0.041134
+    followers: 35512
+    engagement: 170
+    commentsToLikes: 0.033703
     id: ck8t0s8v1t4010j78cdodwqbs
     verified: false
-    hashtags: "#dessertmassters, #cacaobarryofficial, #chocolate, #dessertmasters"
+    hashtags: "#cacaobarryofficial, #chocolate, #pastry, #callebaut"
   - username: "markivanir"
     fullname: >-
       Mark Ivanir
     bio: >-
       An Israeli-Russian actor who lives in the USA and works in the world. Sort of a life diary. Homeland. Undisputed. Barry. Away. Baker and the Beauty
     location: "Russia"
-    followers: 33616
-    engagement: 119
-    commentsToLikes: 0.027060
+    followers: 33921
+    engagement: 138
+    commentsToLikes: 0.028559
     id: ck55no7j16mcx0i11wcwomlgc
     verified: true
-    hashtags: "#ripseanconnery"
-  - username: "kondi_school"
+    hashtags: "#ripseanconnery, #awaynetflix, #hilaryswank"
+  - username: "amirova_valeria"
     fullname: >-
-      Кондитерская Школа
+      Валерия Амирова
     bio: >-
-      🔥 СКИДКА 5% по Купону 🔸kondischool🔸 в магазине bakerstore.ru 🔥 📕 РЕЦЕПТЫ 📱 ЭФИРЫ 🎉 РОЗЫГРЫШИ 🛍 ПОДАРКИ 👇 Записаться на Мастер-Класс 👇
+      . Не художник, не кондитер . Уютная кофейня в уютном городе . За десертами и кофе по адресу: Ленина 14, Baker Sweet . Заказать торт, попасть на мк👇🏽
     location: "Russia"
-    followers: 51443
-    engagement: 121
-    commentsToLikes: 0.598032
-    id: ck0w0p4rlfcme0i193crmn1sy
+    followers: 12126
+    engagement: 814
+    commentsToLikes: 0.052407
+    id: ck5hg4hr80vlr0i1138354e70
     verified: false
-    hashtags: "#mamsy, #mamsyru, #kondischool, #kondi"
+    hashtags: ""
+  - username: "irin_dudkina"
+    fullname: >-
+      Irina  ☆  Chicago Influencer
+    bio: >-
+      Lifestyle |Travel | Fashion ⠀ Оставила все, ради США и любви. 🍷 Хочешь узнать, что из этого вышло? ⠀ ☾ Belarusian girl in USA ☾ Travel state challenge
+    location: "Russia"
+    followers: 43100
+    engagement: 289
+    commentsToLikes: 0.050664
+    id: ck8sylc7hl65e0j78h12e3zhr
+    verified: false
+    hashtags: "#octolyfamily, #atthecay, #orolay, #orolayofficial"
+  - username: "yury.eu"
+    fullname: >-
+      Yury 🧔🏻
+    bio: >-
+      German resident with a russian soul. In love with France & Monaco. 🇫🇷🌴🏖🚤🥂🍾🇲🇨 Travel | Fashion | Croquet | Champagne | Fragrances
+    location: "Russia"
+    followers: 10505
+    engagement: 1125
+    commentsToLikes: 0.025225
+    id: ck5c2la8cxh600i11nymjgpkx
+    verified: false
+    hashtags: "#picoftheday, #freunde, #fashion, #photooftheday"
   - username: "manandbread"
     fullname: >-
       Дмитрий Нестеров
     bio: >-
-      Gluten, yeast & calories. Про меня, хлеб и людей, которые его делают. Мастер-классы по выпечке хлеба. Здесь 👉 @dmnesteroff не только хлеб.
+      Gluten, yeast & calories. Про меня, хлеб и людей, которые его делают. Мастер-классы по выпечке хлеба. Магазин 👉 @manandbread.shop
     location: "Russia"
-    followers: 19127
-    engagement: 611
-    commentsToLikes: 0.042433
+    followers: 20327
+    engagement: 674
+    commentsToLikes: 0.042917
     id: ck0w0p26ifc6x0i19dctxxnjx
     verified: false
-    hashtags: "#homebaker, #manandbread, #dmnesteroff, #bakingathome"
-  - username: "white.olya"
+    hashtags: "#nippononline, #21, #20, #19"
+  - username: "retouch_tata"
     fullname: >-
-      𝓞𝓵𝔂𝓪✨
+      TATA PLECHKOVA RETOUCHER
     bio: >-
-      Russian Mom of 2 girls 👩👧Motherhood•Photography lover•DIY•Twinning is winning•Magical moments•Creative photos‣📩DM for collab📍Boca Raton, Fl.⬇️EtsyShop
+      • Beauty, Hi-End, Fashion retouching. • Reply in direct.📍 Belarus . ⬇️ My online course on retouching RU|EN|FR ⬇️ Обучение бьюти ретуши.
     location: "Russia"
-    followers: 20866
-    engagement: 405
-    commentsToLikes: 0.207369
-    id: ck8t9dqtxnppy0j78ddwh63g1
+    followers: 28257
+    engagement: 997
+    commentsToLikes: 0.014684
+    id: ck15sb35nc3zt0i19cmdw8lxm
     verified: false
-    hashtags: "#babybirthdayparty, #birthdaygirl, #stylishkids, #kidstutudress"
-  - username: "ato.team"
+    hashtags: ""
+  - username: "catnat_nn"
     fullname: >-
-      A.T.Ø Studio
+      Фудфотограф 📷 фудблогер 🍽
     bio: >-
-      ▪️INTERIOR DESIGN & ARCHITECTURE ▪️Moscow & Worldwide ▪️info@ato.team ✉️ ‭▪️+7 (903) 284-81-13 WhatsApp
+      Наталья, Н.Новгород Здесь ОБЪЕКТИВно ВКУСно💯 Снимаю,готовлю ,сотрудничаю🙌 🔥контент и 🚀реклама-запись➡️DIRECT В stories-жизнь фудфотоматери 🤝
     location: "Russia"
-    followers: 31503
-    engagement: 276
-    commentsToLikes: 0.016873
-    id: ck14lfuv5ugg80i1958spuirv
+    followers: 30573
+    engagement: 601
+    commentsToLikes: 0.074321
+    id: ck5cfdf4xmqgs0i117dz1htp0
     verified: false
-    hashtags: "#luxurydesign, #visualization, #interiordesigner, #design"
-  - username: "tortdeko_shop"
-    fullname: >-
-      CakeDeco - Кондитерский Паблик
-    bio: >-
-      🍭Журнал ТортДеко - учимся украшать торты. Открыта подписка на 2020 год, заказ в директ. Магазин - @tortdeko_store Бесплатные #тортдеко_рецепты
-    location: "Russia"
-    followers: 80927
-    engagement: 73
-    commentsToLikes: 0.024544
-    id: ck15swwcsf7oc0i19gj9atbne
-    verified: false
-    hashtags: "#foodphotographer, #instafood, #isomaltsugar, #lollipops"
-  - username: "ermilaboss"
-    fullname: >-
-      ЕРМИЛА 🎭
-    bio: >-
-      РЭМЭМБЭ МИ 🤡
-    location: "Russia"
-    followers: 51121
-    engagement: 497
-    commentsToLikes: 0.045588
-    id: ck8sztdbjpn3c0j78iacnc3dc
-    verified: false
-    hashtags: "#lays, #cheetos, #2020"
+    hashtags: "#redmond, #steakmaster"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Berlin In 2022
+title: Top 10 Gaming TikTok Influencers In Berlin In 2023
 description: >-
-  Find top gaming TikTok influencers in Berlin in 2022. Most popular hashtags: #fyp #gaming #viral #foryou.
+  Find top gaming TikTok influencers in Berlin in 2023. Most popular hashtags: #gaming #viral #berlin #fortnite.
 platform: TikTok
-hits: 6
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 6 TikTok influencers like this in Berlin, Germany for you to collaborate.
+hits: 7
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
+  - username: "marvinvlogt"
+    fullname: >-
+      Marvinvlogt
+    bio: >-
+      Snapchat: Marvin28307 ✅ YouTube 300.000+🎥Marvinvlogt ✅ Instagram Marvin_Vlogt
+    location: "Germany"
+    followers: 95000
+    engagement: 1573
+    commentsToLikes: 0.019646
+    id: ckdck1hb3m1ih0j23q6i6xwbe
+    verified: false
+    hashtags: "#fouyoupage, #sportwagen, #supercell, #opening"
+  - username: "tacfox_oo"
+    fullname: >-
+      Tacfox_Lala
+    bio: >-
+      Ehm.... 🤭 Berlin 📍 🎮 Instagram: tacfox_lala 👋twitch : TacFox
+    location: "Germany"
+    followers: 20800
+    engagement: 872
+    commentsToLikes: 0.070980
+    id: ck94o5y2f9s3o0j78617ogm4n
+    verified: false
+    hashtags: "#gamingvideos, #foryourpage, #foryou, #funnyvideos"
+  - username: "mymmems"
+    fullname: >-
+      mymmems
+    bio: >-
+      ▶️ Streamer
+    location: "Germany"
+    followers: 85600
+    engagement: 1261
+    commentsToLikes: 0.051731
+    id: ckbfc87tx4sae0j23ev57qro1
+    verified: false
+    hashtags: "#playstation, #gamingpc, #games, #fy"
   - username: ".fremdwelt"
     fullname: >-
       Fremdwelt Family
@@ -18,113 +54,77 @@ profiles:
     commentsToLikes: 0.011576
     id: ckb99svahucx30j232csgqj95
     verified: false
-    hashtags: "#fremdwelt, #onlyloveisreal, #goodvibesonly, #minecraft"
-  - username: "moosaicc"
+    hashtags: "#minecraft, #onlyloveisreal, #berlin, #goodvibesonly"
+  - username: "masha"
     fullname: >-
-      moosaicc
+      Masha 
     bio: >-
-      👋🏻 hi I’m Nil, 20, based in Berlin 🤡 Pfp @sattou twt Follow me on insta too!
+      Bisschen weird aber sonst ok
     location: "Germany"
-    followers: 585600
-    engagement: 2956
-    commentsToLikes: 0.009435
-    id: ckbajrhtqarl90j23cph5ezmj
-    verified: false
-    hashtags: "#anime, #weeb, #bakugou, #artist"
-  - username: "tacfox_oo"
-    fullname: >-
-      Tacfox_Lala
-    bio: >-
-      Ehm.... 🤭 Berlin 📍 🎮 Instagram: tacfox_lala 👋twitch : TacFox
-    location: "Germany"
-    followers: 20100
-    engagement: 901
-    commentsToLikes: 0.078850
-    id: ck94o5y2f9s3o0j78617ogm4n
-    verified: false
-    hashtags: "#fypg, #fyp, #gamergirl, #viral"
-  - username: "marvinvlogt"
-    fullname: >-
-      Marvinvlogt
-    bio: >-
-      Snapchat: Marvin28307 ✅ YouTube 250.000 🎥Marvinvlogt ✅ Instagram Marvin_Vlogt ✅
-    location: "Germany"
-    followers: 74500
-    engagement: 1945
-    commentsToLikes: 0.017297
-    id: ckdck1hb3m1ih0j23q6i6xwbe
-    verified: false
-    hashtags: "#live, #opening, #supersell, #fortnite"
-  - username: "pascal_fk.16"
-    fullname: >-
-      Pascal_fk16
-    bio: >-
-      Instagram:pascal_fk16 Snapchat:pascal_fk16
-    location: "Germany"
-    followers: 10800
-    engagement: 1434
-    commentsToLikes: 0.058421
-    id: ckcu3rml9a4mz0j23t546j51g
-    verified: false
-    hashtags: "#gaming, #youtube, #10k, #nrw"
-  - username: "marios_gavrilis"
-    fullname: >-
-      Marios Gavrilis
-    bio: >-
-      Schauspieler & Denvers Synchronsprecher. Instagram: @marios_gavrilis_official
-    location: "Germany"
-    followers: 410700
-    engagement: 1355
-    commentsToLikes: 0.010868
-    id: ck9c7bcerrt280j78n6tlebn0
+    followers: 21000
+    engagement: 560
+    commentsToLikes: 0.030184
+    id: ck9c08jbbo4500j785qcmh747
     verified: true
-    hashtags: "#foryoupage, #comedy, #actor, #featureme"
+    hashtags: "#nachhaltigkeit, #weihnachtsgeschenke, #vegan, #unn"
+  - username: "sven.frontpage"
+    fullname: >-
+      Sven.Frontpage
+    bio: >-
+      Founder Frontpage.TV / NoNameHaus FFM🌇 / HH🌉 Folge mir auch bei Twitch ⬇️
+    location: "Germany"
+    followers: 139800
+    engagement: 1495
+    commentsToLikes: 0.015925
+    id: ck8sft3depmey0j78p3929pgr
+    verified: false
+    hashtags: "#preiserraten, #quiz, #wgleben, #liegest"
+  - username: "monkeymoritz"
+    fullname: >-
+      Moritz
+    bio: >-
+      🖤Schwarzer Humor🖤 🤡Teilzeit Rapper🤡 🦥Costa Rica Reisefotos ➡️ Instagram 🦜
+    location: "Germany"
+    followers: 381100
+    engagement: 629
+    commentsToLikes: 0.011206
+    id: ckdc99wj8id1b0j2326zrta0f
+    verified: false
+    hashtags: "#duett, #ironie, #bratee, #flachwitz"
+  - username: "lyonbro"
+    fullname: >-
+      Lyon
+    bio: >-
+      Bei mir seht ihr: Memes🐸, Bike🚴 und Gamingcontent🎮 Mein eigener DC Server⬇️
+    location: "Germany"
+    followers: 73300
+    engagement: 1449
+    commentsToLikes: 0.139388
+    id: ckciyoxqb2fn00j23rmht41e0
+    verified: false
+    hashtags: "#emojis, #cringe, #bike, #vlog"
   - username: "luisa.gaming"
     fullname: >-
       luisa.gaming
     bio: >-
       ❤DANKE FÜR 50K❤ EPIC : TT_luisa.gaming ⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩
     location: "Germany"
-    followers: 49300
-    engagement: 2236
-    commentsToLikes: 0.100476
+    followers: 48200
+    engagement: 2146
+    commentsToLikes: 0.096357
     id: ckbeos8zu51qe0j236gku50pk
     verified: false
-    hashtags: "#fyp, #single, #gamergirl, #pc"
-  - username: "pixelzlp"
+    hashtags: "#ps4, #trend, #fortnite, #germany"
+  - username: "snoopey_tv"
     fullname: >-
-      PixelZ LP
+      snoopey
     bio: >-
-      Kontent: Gaming, Fahrzeuge Steam: PixelZ Dorfkind
+      Gaming × Marvel 2ter TikTok Acc: Twitch_snoopeyTV Twitch: snoopeyTV
     location: "Germany"
-    followers: 12400
-    engagement: 1120
-    commentsToLikes: 0.060562
-    id: ckccyiodzyfna0j23o7z5rbun
+    followers: 8355
+    engagement: 1453
+    commentsToLikes: 0.096229
+    id: cka0nibnszvmx0i78vsx6q7nk
     verified: false
-    hashtags: "#autos, #beforeandafter, #car, #forzahorizon4"
-  - username: "lucaclipsxd"
-    fullname: >-
-      _luca_Gaming:)
-    bio: >-
-      14Yo🤟🏽 Ziel:50k😍🥺🤟🏽 Hauptsächlich Gaming🔫🕹📱 Name:luca Twitch:Twix_luca
-    location: "Germany"
-    followers: 42600
-    engagement: 1042
-    commentsToLikes: 0.037347
-    id: cka0gm2vd53mg0i789gxxr3an
-    verified: false
-    hashtags: "#foryou, #fyp, #foryoupage, #viral"
-  - username: "codskull"
-    fullname: >-
-      CodSkull
-    bio: >-
-      🎮Random Gaming Content🎮 🇩🇪 20
-    location: "Germany"
-    followers: 76800
-    engagement: 608
-    commentsToLikes: 0.040234
-    id: ckc8idn4mbzec0j23uv6czqpx
-    verified: false
-    hashtags: "#tiktok, #foryou, #fyp, #ps4"
+    hashtags: "#foryoupage, #twitch, #viral, #fortnite"
 ---

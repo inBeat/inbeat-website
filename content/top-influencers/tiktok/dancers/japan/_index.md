@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Japan In 2022
+title: Top 10 Dancers TikTok Influencers In Japan In 2023
 description: >-
-  Find top dancers TikTok influencers in Japan in 2022. Most popular hashtags: #tiktok #dance #fyp #foryoupage.
+  Find top dancers TikTok influencers in Japan in 2023. Most popular hashtags: #dance #fyp #dancer #foryoupage.
 platform: TikTok
-hits: 22
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 22 TikTok influencers like this in Japan for you to pitch.
+hits: 18
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 18 TikTok influencers like this in Japan for you to pitch.
 profiles:
   - username: "kotaroide"
     fullname: >-
-      KOTARO IDE / こーたろー
+      KOTARO IDE / Disney Dancer
     bio: >-
-      DANCER 🇯🇵x🇨🇳 Team "SuperMe" 猫8匹飼ってる live with 8 cats 💎YouTube Channel💎
+      Disney Dancer / ディズニーダンサー 🇯🇵 × 🇨🇳 The Happiest Place for you
     location: "Japan"
-    followers: 218900
-    engagement: 565
-    commentsToLikes: 0.035704
+    followers: 219900
+    engagement: 592
+    commentsToLikes: 0.041571
     id: ckc3e5y0vzkpf0j23k9xrox68
     verified: false
-    hashtags: "#blackpink, #kpop, #meme, #tiktok"
-  - username: "kunimeg"
-    fullname: >-
-      KUNI JAPAN🇯🇵
-    bio: >-
-      I am a Japanese nunchaku dancer and stretch trainer.ヌンチャク、ダンス、ストレッチ、好き！ グリフォン國松
-    location: "Japan"
-    followers: 2919
-    engagement: 283
-    commentsToLikes: 0.076620
-    id: ckbkqdx54kntn0j23yjckh6il
-    verified: false
-    hashtags: "#cooking, #nunchaku, #tiktok, #applejuice"
+    hashtags: "#fyp, #jojopose, #jojodance, #jojo"
   - username: "uchiyamasan7322"
     fullname: >-
       内山さん(Uchiyamasun☀️)
     bio: >-
       I'm a mysterious dancer🕺🏻✨ Thank you for coming to see❤️ RPGエンターテイメント所属🍌
     location: "Japan"
-    followers: 4100000
-    engagement: 1013
-    commentsToLikes: 0.012972
+    followers: 4500000
+    engagement: 867
+    commentsToLikes: 0.013367
     id: ckcpsoeion1x00j23e767o5af
     verified: true
-    hashtags: "#tiktok, #chelmico, #jojo, #redbulldanceyourstyle"
-  - username: "a8no.queen"
+    hashtags: "#worldfood, #tiktok, #childplay, #dj"
+  - username: "kunimeg"
     fullname: >-
-      a8no
+      KUNIMATSU🇯🇵
     bio: >-
-      dancer/Choreographer Instagram➡️ _.a8no._ Twitter ➡️ a8no_swag 👑👩8️⃣🖤🔥
+      I am a Japanese nunchaku dancer and stretch trainer. グリフォン國松 インスタ、YouTube見てね♪
     location: "Japan"
-    followers: 23600
-    engagement: 616
-    commentsToLikes: 0.038003
-    id: ckbr2v5zpjgdf0j239flb7l8d
+    followers: 2892
+    engagement: 292
+    commentsToLikes: 0.076541
+    id: ckbkqdx54kntn0j23yjckh6il
     verified: false
-    hashtags: "#ootd, #dancer, #dance, #fyp"
+    hashtags: "#bts, #dance, #nunchaku, #dynamite"
   - username: "m.sensei_paj"
     fullname: >-
       M.sensei_paj
     bio: >-
       🇯🇵Dancer, Producer🇺🇸
     location: "Japan"
-    followers: 212800
-    engagement: 1040
-    commentsToLikes: 0.028723
+    followers: 213200
+    engagement: 1033
+    commentsToLikes: 0.027679
     id: ck9foagvo1t2l0j781b4wn9bj
     verified: true
-    hashtags: "#headspinnerchallenge, #dancitionking, #duet, #japan"
+    hashtags: "#stairshuffle, #levelupchallenge, #theshiggychallenge, #dotheshiggy"
+  - username: "aristar154"
+    fullname: >-
+      Arianna Collins Washington
+    bio: >-
+      Colorado Native~21~Dancer~Navy Just a blonde trying to find myself a personality
+    location: "Japan"
+    followers: 3410
+    engagement: 1042
+    commentsToLikes: 0.042866
+    id: ckcel5swcuv4s0j23dqb9qg0f
+    verified: false
+    hashtags: "#fyp, #vibes, #zybcba, #japan"
+  - username: "a8no.queen"
+    fullname: >-
+      a8no
+    bio: >-
+      dancer/Choreographer Instagram➡️ _.a8no._ Twitter ➡️ a8no_swag 👑👩8️⃣🖤🔥
+    location: "Japan"
+    followers: 26500
+    engagement: 756
+    commentsToLikes: 0.019180
+    id: ckbr2v5zpjgdf0j239flb7l8d
+    verified: false
+    hashtags: "#dancer, #fyp, #japan, #dance"
   - username: "johnmusiclover"
     fullname: >-
       Musicismylife
     bio: >-
       From 🇵🇭 living in 🇯🇵/ 100% Singer / 10% dancer 😅
     location: "Japan"
-    followers: 47100
-    engagement: 278
-    commentsToLikes: 0.046886
+    followers: 46200
+    engagement: 272
+    commentsToLikes: 0.045414
     id: cka6nx5fad8cr0i786l19rbz0
     verified: false
-    hashtags: "#foryou, #foryoupage, #xyzcba, #transition"
-  - username: "akanenmiyoshi"
+    hashtags: "#foryou, #xyzcba, #foryoupage, #shutdown"
+  - username: "taichi_redlinx"
     fullname: >-
-      AKANEN
+      タイチ😈【RedLinX】
     bio: >-
-      Akanen Dancer from Japan🍣but I can't eat sushi🤪 Insta @akanenmiyosh
+      振付師兼ダンス系YouTuber 【RedLinX】の最年少‼︎🔥 UUUM所属　スポンサー【Coca・Cola】
     location: "Japan"
-    followers: 14200
-    engagement: 734
-    commentsToLikes: 0.011190
-    id: ckb98vap7smu10j23o6uabesx
+    followers: 25700
+    engagement: 833
+    commentsToLikes: 0.049660
+    id: ckb93j3p4kbi30j239fx9oh8u
     verified: false
-    hashtags: "#foryoupage, #foryou, #akanenchoreo, #fyp"
-  - username: "aristar154"
+    hashtags: "#redlinx, #dancer, #dance, #kpop"
+  - username: "riko_aniyama_1431"
     fullname: >-
-      Arianna Collins Washington
+      Riko🌻
     bio: >-
-      ~21~Dancer~Navy Just a blonde trying to find myself a personality
+      instagram→@riko_1431
     location: "Japan"
-    followers: 3401
-    engagement: 885
-    commentsToLikes: 0.026598
-    id: ckcel5swcuv4s0j23dqb9qg0f
+    followers: 22500
+    engagement: 667
+    commentsToLikes: 0.033594
+    id: ckc7p5afsuw5o0j2341s9chpf
     verified: false
-    hashtags: "#japan, #viral, #toxic, #foryoupage"
-  - username: "orisa0510"
-    fullname: >-
-      おりさ【六本木 JAIL tokyo DANCER】
-    bio: >-
-      六本木JAIL TOKYO 金曜ダンサー (予約したい方はDM下さい💕) なないろランジェリー 緑担当💚 名古屋 ▶︎ 東京 / 🎂5月10日 /B型
-    location: "Japan"
-    followers: 350400
-    engagement: 514
-    commentsToLikes: 0.017565
-    id: ck9tu9lwrkfiy0j780e36ykb5
-    verified: false
-    hashtags: "#jail, #jailtokyo, #dancer, #tiktok"
+    hashtags: "#couple, #tiktokdance, #foryoupage, #fyp"
   - username: "dancer_yuna"
     fullname: >-
       Yu-na
     bio: >-
       Follow me instagram 💕
     location: "Japan"
-    followers: 3509
-    engagement: 296
-    commentsToLikes: 0.048468
+    followers: 3536
+    engagement: 273
+    commentsToLikes: 0.044192
     id: ck9tv0768od5v0j78vio92u6e
     verified: false
-    hashtags: "#stayathome, #dancer, #dance, #stayathomemom"
+    hashtags: "#dancer, #stayathome, #dance, #tailand"
 ---

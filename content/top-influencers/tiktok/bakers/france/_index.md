@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In France In 2022
+title: Top 10 Bakers TikTok Influencers In France In 2023
 description: >-
-  Find top bakers TikTok influencers in France in 2022. Most popular hashtags: #foryou #fyp #pourtoi #viral.
+  Find top bakers TikTok influencers in France in 2023. Most popular hashtags: #fyp #pourtoi #foryou #humour.
 platform: TikTok
-hits: 11
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 11 TikTok influencers like this in France for you to work with.
+hits: 12
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 12 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "mamate37.humour"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.059650
     id: ckb9postnkwnb0j23rpjz3kn1
     verified: false
-    hashtags: "#blague, #duo, #humour, #baker"
-  - username: "ahhussain1"
-    fullname: >-
-      Ahhussain
-    bio: >-
-      Tu veux regarder vidéo drôle c’est ici👆 Abonne toi mon Instagram - ahhussain
-    location: "France"
-    followers: 275300
-    engagement: 1040
-    commentsToLikes: 0.019923
-    id: ckbkwe9bls3lf0j231zlyqj1l
-    verified: false
-    hashtags: "#duo, #triche, #ahhussain, #kfc"
+    hashtags: "#blague, #humour, #duo, #tiktok"
   - username: "leboulangermaskey"
     fullname: >-
       leboulangermasqué
     bio: >-
       Le monde appartient à ceux qui se lève tôt ✌ ❤ We Love Bakery ❤
     location: "France"
-    followers: 3930
-    engagement: 354
-    commentsToLikes: 0.022229
+    followers: 3939
+    engagement: 348
+    commentsToLikes: 0.021382
     id: cka0tvl27rmyo0i78u42fr6sw
     verified: false
-    hashtags: "#coronavirus, #confinementchallenge, #bakery, #patisserie"
-  - username: "antho13726"
-    fullname: >-
-      🇮🇹🅐🅝🅣🅗🅞🅝🅨💚🤍❤️🏍✌🏻
-    bio: >-
-      𝑴𝒐𝒕𝒂𝒓𝒅 𝑫𝒖𝒄𝒂𝒕𝒊 𝓜𝓸𝓷𝓼𝓽𝓮𝓻 🅰🅱🅾🅽🅽🅴🆉-🆅🅾🆄🆂 🅸🅽🆂🆃🅰 👇🏼
-    location: "France"
-    followers: 22600
-    engagement: 802
-    commentsToLikes: 0.047673
-    id: ckac5lgw4ddqi0i78q8rve1m0
-    verified: false
-    hashtags: "#bikerlover, #pti, #biker, #pourtoi"
+    hashtags: "#confinement, #frenchbakery, #pastry, #faitmaison"
   - username: "furiosa_biker"
     fullname: >-
       Emi Chrétien
     bio: >-
       Fan de kustom kulture et bodmod! abonne toi à mon insta!
     location: "France"
-    followers: 15100
-    engagement: 537
-    commentsToLikes: 0.038343
+    followers: 15000
+    engagement: 546
+    commentsToLikes: 0.037633
     id: cka64l52v944l0i78oa6krols
     verified: false
-    hashtags: "#infirmiere, #inkedgirl, #tattoo, #happy"
+    hashtags: "#moto, #inked, #split, #tattooedgirl"
+  - username: "elii_bnh"
+    fullname: >-
+      Elii_bnh
+    bio: >-
+      🤭 Saint-Maixent-l’École / 📸: elii_bnh 🏳️‍🌈 🧩 29 ans 🧩
+    location: "France"
+    followers: 123700
+    engagement: 1026
+    commentsToLikes: 0.030997
+    id: ckai38ltlizo30i78f5ba9an0
+    verified: false
+    hashtags: "#repost, #devinelapersonne, #danse, #teamdanse"
+  - username: "antho13726"
+    fullname: >-
+      🏍🅓🅤🅒🅐🅣🅘✌🏻🅡🅘🅓🅔🅡🏍
+    bio: >-
+      𝐑𝐞𝐧𝐝𝐞𝐳-𝐯𝐨𝐮𝐬 𝐬𝐮𝐫 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 💥💯✌🏻 👇🏼
+    location: "France"
+    followers: 25600
+    engagement: 1026
+    commentsToLikes: 0.061553
+    id: ckac5lgw4ddqi0i78q8rve1m0
+    verified: false
+    hashtags: "#voiture, #motardsfrance, #moto, #boiserie"
   - username: "tiphainepln6"
     fullname: >-
-      Tiphaine P
+      Amal & Tiphaine
     bio: >-
-      🇫🇷 French girl 🇲🇨 Suami sy org Indonesia Belajar bahasa perancis sm kami
+      🇮🇩 👨🏾 & 🇫🇷 👩🏼 Amal & Tiphaine 📍Jakarta #Indonesia
     location: "France"
-    followers: 253900
-    engagement: 1187
-    commentsToLikes: 0.022248
+    followers: 303100
+    engagement: 1057
+    commentsToLikes: 0.020085
     id: ckbf6b5urvtub0j233zupdepc
     verified: false
-    hashtags: "#istri, #indonesia, #lagu, #challenge"
-  - username: "audreyskitchen"
+    hashtags: "#bule, #mixedcouple, #cinta, #suamiistri"
+  - username: "nathanlpt3"
+    fullname: >-
+      Nathanlpt
+    bio: >-
+      IG : nathanlpt .......☝🏼 French rider 🇫🇷 Bike : 450YZF
+    location: "France"
+    followers: 292200
+    engagement: 970
+    commentsToLikes: 0.006652
+    id: ckbwecabs1kn20j23om4mp1kt
+    verified: false
+    hashtags: "#humour, #bike, #motocross, #fyp"
+  - username: "theladiesonwheels"
+    fullname: >-
+      ★彡  ⓥ𝐚ℕⒺ丂รΔ 彡★
+    bio: >-
+      💈Barber💈✂️ 🍭🍀Biker Girls 🇧🇷 🇵🇹 📍 Living in Paris 🗼🇫🇷 🎭 Follow Us
+    location: "France"
+    followers: 5409
+    engagement: 866
+    commentsToLikes: 0.013906
+    id: ckav30u9c9bs20j23hqc7lmbe
+    verified: false
+    hashtags: "#kawasaki, #motard, #france, #bullterrier"
+  - username: "_audreyskitchen"
     fullname: >-
       Audrey’s Kitchen
     bio: >-
-      ❤️ Baking and cooking lover ❤️ ❤️ it’s all about cravings ❤️
+      Cuisine et pâtisserie ❤️ Follow me on IG pour les recettes complètes❤️
     location: "France"
-    followers: 6353
-    engagement: 780
-    commentsToLikes: 0.020174
+    followers: 7201
+    engagement: 694
+    commentsToLikes: 0.016574
     id: ckav1tugp7xk50j234v8wrgw2
     verified: false
-    hashtags: "#dessert, #recettefacile, #recipes, #beyoncesong"
-  - username: "matthiasdandois"
+    hashtags: "#food, #tiktokfood, #fyp, #recettefacile"
+  - username: "leckalen"
     fullname: >-
-      Matthias Dandois
+      Lecka
     bio: >-
-      🇫🇷 Bikes and Things Instagram: @matthiasdandois
+      👩‍❤️‍👩💍🏳️‍🌈 Insta : leckalen youtube 👇💕
     location: "France"
-    followers: 237800
-    engagement: 1719
-    commentsToLikes: 0.008794
-    id: ck9fcsg5xlb9n0j78petwgqc4
-    verified: true
-    hashtags: "#pourtoi, #dog, #bmx, #foryou"
-  - username: "laget81"
-    fullname: >-
-      user5742974765977
-    bio: >-
-      FRENCH ARTIST Retrouvez mes œuvres sur insta: LAGET81
-    location: "France"
-    followers: 7837
-    engagement: 442
-    commentsToLikes: 0.014168
-    id: ckb0va66nko3d0j23gygk28rm
+    followers: 22900
+    engagement: 1549
+    commentsToLikes: 0.032632
+    id: ck9r9ug89i7140j78oispc0bs
     verified: false
-    hashtags: "#sneaker, #realmadrid, #tableau, #frenchartist"
-  - username: "vvaldo"
-    fullname: >-
-      Vvaldo
-    bio: >-
-      Instagram @vv_a_l_d_o Snapchat walio74 Rhône-Alpes
-    location: "France"
-    followers: 5612
-    engagement: 701
-    commentsToLikes: 0.003429
-    id: ckc1zeyxy37b90j23opk2tgxn
-    verified: false
-    hashtags: "#po, #instagood, #immobilier, #animal"
+    hashtags: "#tiktokartists, #anime, #pourtoi, #manga"
 ---

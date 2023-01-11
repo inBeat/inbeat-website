@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Argentina In 2022
+title: Top 10 Wellness Instagram Influencers In Argentina In 2023
 description: >-
-  Find top wellness Instagram influencers in Argentina in 2022. Most popular hashtags: #wellness #healthyfood #fitness.
+  Find top wellness Instagram influencers in Argentina in 2023. Most popular hashtags: #wellness #fitness #amor #love.
 platform: Instagram
-hits: 22
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 22 Instagram influencers like this in Argentina for you to pitch.
+hits: 26
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 26 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "alondra_fitness12"
+  - username: "danielgallimore_"
     fullname: >-
-      Nutriologa Alondra Corona
+      Daniel Gallimore
     bio: >-
-      México🇲🇽Guadalajara Licenciada en Nutrición 🍎 🏋🏽‍♀️Fitnessgirl 👙Bikini Wellness Juvenil 🏆Campeona Juvenil 2018 🏆Campeona Estatal 2018
+      Wellness Coach en formación STC Certificado en entrenamiento funcionales Comunicador Social🇵🇦 Singer🎤 Marketing📊 Model
     location: "Argentina"
-    followers: 67477
-    engagement: 176
-    commentsToLikes: 0.010370
-    id: ck6udourbmbvd0j71tz5f6o0f
+    followers: 10805
+    engagement: 365
+    commentsToLikes: 0.041027
+    id: ck5pw6nx1ld8a0i11j6opjhb4
     verified: false
-    hashtags: "#picoftheday, #whatdoyoulift4, #fitnessfamily, #rousselteam"
-  - username: "greenhabitshn"
+    hashtags: "#modeltrip, #islasecasparadise, #panama, #modelmode"
+  - username: "valerybob04"
     fullname: >-
-      Andrea Palacios Sikaffy
+      Valerya Aranda
     bio: >-
-      -God❤️ - Founder @vivesanu @letsbeactiv -IIN Health Coach 🌸 -Healthy Recipe developer 🍪.
+      ✨Maternidad Real-Tips-Belleza-Wellness✨ Show Business & Marketing 💻🎶 🤰🏻Prego @soynicomtz 👶🏼 Mami de @robimtz ❤️💍 @pollo24 😺Gatijo @bowiejulion
     location: "Argentina"
-    followers: 9124
-    engagement: 230
-    commentsToLikes: 0.041217
-    id: ck6tupr4fhpf20j71v3kgkbd7
+    followers: 55808
+    engagement: 670
+    commentsToLikes: 0.032257
+    id: ck8svwvutd0570j78df209ggd
     verified: false
-    hashtags: "#fitness, #greenhabits, #greenlifestyle, #wellnessblog"
-  - username: "chefdanielvargas"
+    hashtags: "#pregoproblems, #momlife, #mommydaughter, #maternidadreal"
+  - username: "melissalopez302"
     fullname: >-
-      Daniel Vargas
+      Melylopez
     bio: >-
-      @daniel_vargas_lifecoach •Precision Nutrition Coach •CF Level 1 •OPEX CCP Coach •Lic Nutrición en curso •Master PNL en curso •Le Cordon Bleu Madrid
+      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
     location: "Argentina"
-    followers: 102102
-    engagement: 130
-    commentsToLikes: 0.087037
-    id: ck6tzgjcy9kh40j716txd2kt1
+    followers: 8186
+    engagement: 1174
+    commentsToLikes: 0.029175
+    id: ck5c7ld9p7qsh0i11qryq9pd1
     verified: false
-    hashtags: "#fuerzadevoluntad, #wod, #wellness, #cambio"
+    hashtags: "#amor, #colombia, #fitness, #cuerposano"
+  - username: "nesszertu"
+    fullname: >-
+      Vanessa Serrano (NESS)
+    bio: >-
+      Fundadora de @zertumx Líder en Evolución y Expansión de Consciencia
+    location: "Argentina"
+    followers: 268829
+    engagement: 100
+    commentsToLikes: 0.041628
+    id: ck8t26wc0yd4s0j78j065d5ss
+    verified: false
+    hashtags: "#wellnesws, #2021, #motivacio, #atraccio"
   - username: "evimeria_bienestarinterior"
     fullname: >-
       Evimeria Bienestar Interior
     bio: >-
-      🔮 T A R O T 🌌 A S T R O L O G I A 🌙 C O A C H I N G 🔅 @evirama.natural ✨ @barbaramartinez1980 ♈️ 1121786265 🔆 @tinamartinezzzz ♍️ 1137556693
+      🔮 T A R O T ✨ A S T R O L O G I A 🌙 C O A C H I N G @tinamartinezzzz ♍️ 1137556693 @barbaramartinez1980 ♈️ 1121786265
     location: "Argentina"
-    followers: 10238
-    engagement: 418
-    commentsToLikes: 0.055871
+    followers: 17557
+    engagement: 544
+    commentsToLikes: 0.011617
     id: ck8t6468dc7200j781svmi3a6
     verified: false
-    hashtags: "#astrolovers, #venus, #saturno, #astralfacts"
-  - username: "nutriologa_kmillan"
+    hashtags: "#urano, #luna, #astrology, #wellnesscoach"
+  - username: "danielvargasc_"
     fullname: >-
-      👩🏻‍⚕️Nutrióloga 🌿 Karen Millán
+      Daniel Vargas
     bio: >-
-      🍏Educadora en diabetes y Coach Nutricional 🍎Consulta presencial y en línea 🏅Programas de alimentación y Retos 21 📍Guadalajara 📩 ln.kmillan@gmail.com
+      •Precision Nutrition Coach •OPEX Coach •CF Level 1 •Master PNL •Lic Nutrición en proceso •Master Inteligencia Emocional proceso •Cordon Bleu Madrid
     location: "Argentina"
-    followers: 29735
-    engagement: 234
-    commentsToLikes: 0.058917
-    id: ckaor4h0kloqx0i780nzwbmw9
+    followers: 102950
+    engagement: 94
+    commentsToLikes: 0.008307
+    id: ck6tzgjcy9kh40j716txd2kt1
     verified: false
-    hashtags: "#eatclean, #postresaludable, #cleaneatting, #cleaneating"
-  - username: "ayalafeer"
+    hashtags: "#disciplina, #fitlife, #pedialyte30, #wellness"
+  - username: "zetadouka"
     fullname: >-
-      Fernanda Ayala
+      Zeta Douka
     bio: >-
-      Cordoba, Argentina Atleta Wellnes NPC 🇦🇷 🐃🍑@torotrainercoach Sponsor: @magsuplementosnutricionales
+      Actress , Founder of Anasa(NGO against eating disorders), Editor/blogger All4z.gr & daisy.gr . Mother. Uneasy brain. Greek.
     location: "Argentina"
-    followers: 7787
-    engagement: 963
-    commentsToLikes: 0.025594
-    id: ck5bwe2h7limu0i11rd24h3t0
+    followers: 241325
+    engagement: 427
+    commentsToLikes: 0.012587
+    id: ck0tz0oe0oogy0i196i2mr63h
     verified: false
-    hashtags: "#hardwork, #girlswithmuscle, #sportlife, #gymmotivation"
-  - username: "ayepaleo"
+    hashtags: "#motheranddaughter, #love, #thalia, #eimasteoloimazi"
+  - username: "camilamainero"
     fullname: >-
-      Ayelen Celeste Paleo
+      𝑪𝒂𝒎𝒊 𝑴𝒂𝒊𝒏𝒆𝒓𝒐 💛
     bio: >-
-      📩 Escuela Tango Flores 💃 @escuelatangoflores 🇦🇷 ❌NO Twitter 💪 Gym is life ✍️ 💃Bailarina de Tango 🤩Vedette
+      📍Personal trainer 🗳Asesoramientos online 💻 🔑Construye tu negocio desde 🏠 👙Únete RETO21 📩Contacto: Rellena el formulario ⬇️o envíame un directo ☺️
     location: "Argentina"
-    followers: 483083
-    engagement: 190
-    commentsToLikes: 0.015747
-    id: ckapaz8s3y0y70i783hnbox1m
-    verified: true
-    hashtags: "#mamushka, #loqueseviene, #wellness, #novedades"
-  - username: "solvillarrealok"
-    fullname: >-
-      Soledad Villarreal
-    bio: >-
-      • Disfrutadora de la vida 🌟 • Conductora de tv y radio, modelo, periodista. • #Bienestar #Moda #Entrevistas • 🎸 #linearockbysolvillarreal 🤘
-    location: "Argentina"
-    followers: 56225
-    engagement: 69
-    commentsToLikes: 0.245539
-    id: ck0w60qhp6cv90i198y355v6r
-    verified: true
-    hashtags: "#accesorios, #lookoftheday, #imagen, #linearockbysolvillarreal"
-  - username: "celestewellness"
-    fullname: >-
-      Coach
-    bio: >-
-      Reconectando a mujeres con su poder personal a través del entrenamiento y alimentación ⚡✊💚 Enfermera💙 Nutrición Deportiva 💚 Apúntate acá 👇🏋️🧘‍♀️⚡💫💜
-    location: "Argentina"
-    followers: 64839
-    engagement: 233
-    commentsToLikes: 0.052366
-    id: ck5zypmqhaamw0i143jtm1thh
+    followers: 169134
+    engagement: 295
+    commentsToLikes: 0.013993
+    id: ckap6uue3hfyv0i78f97r3yas
     verified: false
-    hashtags: "#viernes, #amate, #mujer, #quierete"
-  - username: "airisfit"
+    hashtags: "#hermanos, #familia, #piscina, #verano"
+  - username: "soyirinamargarita"
     fullname: >-
-      ⚡️AIRISFIT⚡️
+      Irina Margarita
     bio: >-
-      Pablo Champagne 🙋‍♂️ Embajador @aviaargentina
+      🍓Fruity Baby Vegana🍓 📩La palabra sana, no hiere... ¡Frases para el alma!✏🗒 No estás sol@... Suelta.... ❤🎶Posita de @tonyelcreador🎶❤
     location: "Argentina"
-    followers: 131831
-    engagement: 114
-    commentsToLikes: 0.060483
-    id: ck14iux9rh9jr0i19mhv6tnfw
+    followers: 5175
+    engagement: 425
+    commentsToLikes: 0.052078
+    id: ck15svf05ezth0i19dxvy9pn6
     verified: false
-    hashtags: "#recetasfitair, #recetassaludables, #fitnesslifestyle, #ropa"
+    hashtags: "#familytime, #myveganlife, #empoweringwomen, #womanph"
+  - username: "irene_kilmister"
+    fullname: >-
+      Irene Kilmister Priest💕
+    bio: >-
+      📸Fotógrafa para @max.metal 📸 @irenekilmister.photo 🎶 Rock'n'roll 📓un libro y a vivir 💚 💉Enfermera en Barcelona💊 ✌ 🎤Fan de Mägo de Oz 🎸🎹
+    location: "Argentina"
+    followers: 3065
+    engagement: 988
+    commentsToLikes: 0.049973
+    id: ckf5roza7dgqv0j23o91tbba4
+    verified: false
+    hashtags: "#hairstyle, #metalwoman, #sea, #metalqueen"
 ---

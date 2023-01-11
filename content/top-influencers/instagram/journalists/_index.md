@@ -1,18 +1,18 @@
 ---
-title: Top 10 Journalists Instagram Influencers In 2022
+title: Top 10 Journalists Instagram Influencers In 2023
 description: >-
-  Find top journalists Instagram influencers in 2022. Most popular hashtags: #summer #love #picoftheday.
+  Find top journalists Instagram influencers in 2023. Most popular hashtags: #food #qatar #cafe.
 platform: Instagram
-hits: 1578
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 1578 Instagram influencers like this for you to pitch.
+hits: 1526
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 1526 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "hamishnews"
     fullname: >-
       Hamish Macdonald
     bio: >-
       Journalist.
-    location: "Australia"
+    location: "United States"
     followers: 34257
     engagement: 678
     commentsToLikes: 0.025782
@@ -25,9 +25,9 @@ profiles:
     bio: >-
       Journalist
     location: "Iran"
-    followers: 19791
-    engagement: 962
-    commentsToLikes: 0.012499
+    followers: 20028
+    engagement: 935
+    commentsToLikes: 0.013121
     id: ck5zjp7tvhzz00i14w6l4kvy3
     verified: false
     hashtags: ""
@@ -36,34 +36,46 @@ profiles:
       Tanviya de Girval Sapru
     bio: >-
       Journalist
-    location: "Italy"
-    followers: 33652
-    engagement: 2130
-    commentsToLikes: 0.005810
+    location: "United States"
+    followers: 37917
+    engagement: 2078
+    commentsToLikes: 0.005413
     id: ck138q0pwhfx90i19ffo94wgx
     verified: false
-    hashtags: "#london, #love, #eminem, #archery"
-  - username: "bdottm"
+    hashtags: "#love, #eminem, #london, #yeswedid"
+  - username: "mazaevagalia"
     fullname: >-
-      brian b.dot™ miller
+      Galina Mazaeva
     bio: >-
-      journalist
-    location: "United States"
-    followers: 37262
-    engagement: 96
-    commentsToLikes: 0.081731
-    id: ck0ubzmebfrr10i19jilelqxy
+      Journalist
+    location: "Russia"
+    followers: 6097
+    engagement: 642
+    commentsToLikes: 0.061187
+    id: ck5q9xxxndkiz0i11mp5an26q
     verified: false
-    hashtags: "#jayz, #homegrown, #2pac, #vmas"
+    hashtags: "#mybestsupport, #newarrivals, #poodle, #puppylove"
+  - username: "ira_chaykovskaya"
+    fullname: >-
+      Ира Чайковская
+    bio: >-
+      Journalist
+    location: "United States"
+    followers: 79543
+    engagement: 119
+    commentsToLikes: 0.023079
+    id: ck5hmzin4mxca0i11aavphpms
+    verified: false
+    hashtags: "#nofilter, #maldives, #paradise, #nevermisssunset"
   - username: "amirmoosakazemi"
     fullname: >-
       امیر موسی کاظمی
     bio: >-
       Journalist
     location: "Iran"
-    followers: 11156
-    engagement: 595
-    commentsToLikes: 0.018481
+    followers: 11039
+    engagement: 602
+    commentsToLikes: 0.025795
     id: ck5q8wi3g8alt0i11srt3sgyj
     verified: false
     hashtags: ""
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.019462
     id: ckap8lhxrov1t0i7809xh29ci
     verified: false
-    hashtags: "#song, #relax, #music, #reporter"
-  - username: "elvira_1_"
+    hashtags: "#music, #liberta, #soothing, #journalist"
+  - username: "katebroug"
     fullname: >-
-      Эльвира Шигапова
+      Kate Broug | Entrepreneur
     bio: >-
-      📺 журналист 1 Канала /journalist 1TV Channel Russia 📝пишу/writing 🌎путешествую/traveling 🎨рисую/drawing
-    location: "Russia"
-    followers: 5525
-    engagement: 2732
-    commentsToLikes: 0.144124
-    id: ckap6v4iehh440i78wepuv4fz
+      Woman of action. Entrepreneur. Pilot. Journalist. Podcast Host. Contributor @entrepreneur. ✉️ Email: kb@katebroug.com
+    location: "United States"
+    followers: 140609
+    engagement: 438
+    commentsToLikes: 0.028638
+    id: ckxe9prq245ws0j23ak2n6hg7
     verified: false
-    hashtags: "#tv, #family, #fam, #lady"
-  - username: "_sincoordenadas"
+    hashtags: "#tcsnycmarathon, #nyc, #nycmarathon, #aviation"
+  - username: "theamyclark"
     fullname: >-
-      GIGI SALOMÓN
+      Amy Clark
     bio: >-
-      📍 Barcelona ❥ Girl traveling around the world 🌏 ➤ #travelgirl & #journalist 📩 info.sincoordenadas@gmail.com ↡WEB↡
-    location: "Philippines"
-    followers: 4994
-    engagement: 2014
-    commentsToLikes: 0.221486
-    id: ck8svumjjcr5d0j78olwarewb
+      No BS beauty reviews! Beauty Editor | Journalist | Content Creator 💥 Formerly Adore Beauty, Mamamia/You Beauty.
+    location: "Australia"
+    followers: 14564
+    engagement: 511
+    commentsToLikes: 0.057139
+    id: cks1re31us59f0j23oj7712eg
     verified: false
-    hashtags: "#igersmenorca, #menorcaparadise, #catalun, #spaintourism"
-  - username: "enina.mama"
+    hashtags: "#loveyourskin, #simpleisbeautiful, #skincare, #frenchbeauty"
+  - username: "amina.dehbi"
     fullname: >-
-      Andrea Tomašević Kolenda
+      Amina Dehbi - أمينة الذهبي
     bio: >-
-      ■ Ena❤💙Dani ■ Journalist & PR ■ Mom blogger ■ 🚩 71000 Sarajevo, BiH ■ Contact: andrea.tomasevic@gmail.com
-    location: ""
-    followers: 21668
-    engagement: 1607
-    commentsToLikes: 0.072498
-    id: ck5hn2imcn3320i11k6lpzb25
+      Creator | Journalist For business: Amina.dehbi001@gmail.com 🔻Last Youtube video:
+    location: "Morocco"
+    followers: 1022931
+    engagement: 923
+    commentsToLikes: 0.008608
+    id: ckf5opd4s37v40j23ptbyxhbt
     verified: false
-    hashtags: "#eninamama, #littledani, #eninbrat, #zajednosmojedno"
-  - username: "tvagios"
-    fullname: >-
-      Thanos Vagios
-    bio: >-
-      📺 Journalist at @alphatv, @kalyteradeginetai 🍸 Life Style Blogger ⬇️⬇️⬇️⬇️
-    location: "Greece"
-    followers: 17048
-    engagement: 1084
-    commentsToLikes: 0.212347
-    id: ck8t0b5mirgpa0j780izubn00
-    verified: false
-    hashtags: "#men, #mensfashion, #photooftheday, #blue"
+    hashtags: "#qatar, #travel, #visitrwanda, #adventure"
 ---

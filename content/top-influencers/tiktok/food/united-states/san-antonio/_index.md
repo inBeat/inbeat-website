@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In San Antonio In 2022
+title: Top 10 Food TikTok Influencers In San Antonio In 2023
 description: >-
-  Find top food TikTok influencers in San Antonio in 2022. Most popular hashtags: #texas #sanantonio #fyp #food.
+  Find top food TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #texas #sanantonio #food.
 platform: TikTok
-hits: 22
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 22 TikTok influencers like this in San Antonio, United States for you to connect with.
+hits: 20
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 20 TikTok influencers like this in San Antonio, United States for you to collaborate.
 profiles:
+  - username: "chris.tinap"
+    fullname: >-
+      chris.tinap
+    bio: >-
+      24♋️ SA Tx📍 Insta 📸: @allurementbynina
+    location: "United States"
+    followers: 49000
+    engagement: 878
+    commentsToLikes: 0.017925
+    id: ck8qgq8qr1u350j78uxycxgl5
+    verified: false
+    hashtags: "#noass, #woah, #bulldog, #makeup"
   - username: "sanantoniomunchies"
     fullname: >-
       Alex
     bio: >-
-      SA’s best food blogger! Insta: SanAntonioMunchies FaceBK: San Antonio Munchies
+      FOOD, GIVEAWAYS, HUMOR, Insta: SanAntonioMunchies DM for any questions 👍🏽
     location: "United States"
-    followers: 4581
-    engagement: 490
-    commentsToLikes: 0.020155
+    followers: 4958
+    engagement: 527
+    commentsToLikes: 0.026117
     id: cka8dxu11utso0i78mptr257f
     verified: false
-    hashtags: "#sanantoniotexas, #homemade, #210, #sanantonio"
-  - username: "tonyduran711"
+    hashtags: "#sanantoniofoodie, #safood, #sanantoniofood, #tiktoksanantonio"
+  - username: "joelstoks"
     fullname: >-
-      Tony Duran
+      Sugar
     bio: >-
-      Tony Duran from New Braunfels, Tx. Decorative concrete IG: lawscreationsdc
+      30 im irrelevant constantly hustling business owner here to connect
     location: "United States"
-    followers: 4098
-    engagement: 319
-    commentsToLikes: 0.023547
-    id: ckb9pzezplkmy0j23huic58d5
+    followers: 224100
+    engagement: 586
+    commentsToLikes: 0.138662
+    id: ck982lve1go840j782g7gej20
     verified: false
-    hashtags: "#garage, #flooring, #epoxy, #newbraunfels"
-  - username: "glennshares"
+    hashtags: "#stitch, #duet, #pourtoi, #catnap"
+  - username: "s3_michael"
     fullname: >-
-      AKtoTX
+      Michael
     bio: >-
-      Jesus follower, husband, dad of 8, goofball. Follow on insta @Glennshares
+      FOLLOW MY IG FOR MORE • San Antonio, Texas
     location: "United States"
-    followers: 12500
-    engagement: 1156
-    commentsToLikes: 0.158183
-    id: ckdc7hffxhry00j233alc37ub
+    followers: 70800
+    engagement: 1175
+    commentsToLikes: 0.028273
+    id: ckba7b4di0dcn0j23wk1po7g1
     verified: false
-    hashtags: "#travel, #humor, #food, #missouri"
-  - username: "jameswopo2x"
-    fullname: >-
-      James Perez
-    bio: >-
-      SAN ANTONIO TEXAS📍
-    location: "United States"
-    followers: 15300
-    engagement: 853
-    commentsToLikes: 0.022283
-    id: ckbf4oad6tdwq0j23yjhttn62
-    verified: false
-    hashtags: "#coronavirus, #fyp, #greenscreen, #friends"
+    hashtags: "#crazycart, #razor, #drift, #texasweathercheck"
   - username: "kynthos18"
     fullname: >-
       Cinthya Ruiz 💕
     bio: >-
       Titan Factory Direct 📍1950 SW Loop 410, San Antonio, Texas 78227 🇺🇸
     location: "United States"
-    followers: 3676
-    engagement: 554
-    commentsToLikes: 0.014455
+    followers: 3653
+    engagement: 658
+    commentsToLikes: 0.016438
     id: ck982luyfgo4x0j7883ch2su6
     verified: false
-    hashtags: "#hawaii, #vacation, #sanantonio, #housechallenge"
-  - username: "kaylachance_"
+    hashtags: "#swimming, #housechallenge, #hawaii, #fyp"
+  - username: "sparky32377"
     fullname: >-
-      Kayla Chance
+      UnionSparky
     bio: >-
-      Food, Travel & Country stuff 🤠 Austin, Texas 🇺🇸 Roll Tide ♥️
+      Los Angeles 🇨🇺 🇲🇽 IG: union_sparky11 Father of 👦 👦
     location: "United States"
-    followers: 11800
-    engagement: 416
-    commentsToLikes: 0.028097
-    id: ckamhilpgg7680i78unlsoypo
+    followers: 16700
+    engagement: 1259
+    commentsToLikes: 0.113497
+    id: ckcj15oai3q8j0j23mavqpci9
     verified: false
-    hashtags: "#austin, #country, #texas, #alanjackson"
-  - username: "siempre_sanantonio"
+    hashtags: "#trump, #food, #son, #dadsoftiktok"
+  - username: "alyssaannofficial"
     fullname: >-
-      Siempre 💖 SA
+      AlyssaAnn
     bio: >-
-      Follow me on IG @siempre_sanantonio 💖 😃 Thanks for 30k 🎉
+      ❤️Hope you enjoy the videos❤️ 📸 IG:alyssa.g.fit 🎥YT: Alyssa Gomez
     location: "United States"
-    followers: 31500
-    engagement: 978
-    commentsToLikes: 0.015387
-    id: ckdt9p3tzuc170j23izns9znl
+    followers: 133800
+    engagement: 1745
+    commentsToLikes: 0.088869
+    id: ckbkzr1gjwc7p0j23qxyu69g3
     verified: false
-    hashtags: "#tiktoksanantonio, #sanantoniofoodie, #tiktokfoodie, #sanantoniocheck"
-  - username: "officialhypehousetexas"
+    hashtags: "#tiktok, #texas, #featureme, #lipsync"
+  - username: "kaydrauhl"
     fullname: >-
-      HHT✔︎
+      Kaylee Baker
     bio: >-
-      𝕥𝕙𝕖 𝕠𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝕥𝕖𝕩𝕒𝕤 𝕔𝕣𝕖𝕒𝕥𝕠𝕣 𝕙𝕠𝕦𝕤𝕖
+      My boyfriend is my only personality trait
     location: "United States"
-    followers: 73400
-    engagement: 1887
-    commentsToLikes: 0.070519
-    id: ckbf5tow6v2560j23uky0rmc1
+    followers: 11200
+    engagement: 925
+    commentsToLikes: 0.030511
+    id: ckd6iv544bs5j0j230dabvdj5
     verified: false
-    hashtags: "#texas, #foryou, #food, #texascheck"
-  - username: "itsjazziejas"
+    hashtags: "#texas, #austin, #couple, #fyp"
+  - username: "nonamenoone246"
     fullname: >-
-      Jasmine💕🥳
+      NoName
     bio: >-
-      CEO of We Got A Situation 21🍾SaTx🤠40k🥺 I lift🏋🏽‍♀️ Dreams to Reality
+      NoNameNoOne
     location: "United States"
-    followers: 37500
-    engagement: 1659
-    commentsToLikes: 0.054799
-    id: ck9si0azswc3o0j78mepe17oz
+    followers: 3364
+    engagement: 479
+    commentsToLikes: 0.058271
+    id: ckcjnjbfzfgh20j23qbruse9r
     verified: false
-    hashtags: "#greenscreensticker, #halloween, #micellarrewind, #sanantonio"
-  - username: "monicalicea7"
+    hashtags: "#foryoupage, #texas, #4u, #viral"
+  - username: "sebastian_arellano_"
     fullname: >-
-      Monica Licea
+      Sebas✨
     bio: >-
-      Trying to raise money for a car to get to work and take my dad to the doctor
+      El Paso TX 18🥂
     location: "United States"
-    followers: 2319
-    engagement: 681
-    commentsToLikes: 0.057572
-    id: cka8dxwpduuk50i7824ddyuwa
+    followers: 42400
+    engagement: 1661
+    commentsToLikes: 0.111455
+    id: ck963njatvmmo0j78oje2oajb
     verified: false
-    hashtags: "#covid19, #4u, #foryoupage, #fyp"
+    hashtags: "#elpaso, #foryoupage, #frenchie, #texas"
 ---

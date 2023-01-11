@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Indonesia In 2022
+title: Top 10 Makeup Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top makeup Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #ootdwithnuabee #nuabee #supportlocalbrand.
+  Find top makeup Instagram influencers in Indonesia in 2023. Most popular hashtags: #makeup #makeuptransformation #makeuptutorial #makeupartist.
 platform: Instagram
-hits: 1480
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 1480 Instagram influencers like this in Indonesia for you to work with.
+hits: 1341
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 1341 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "karinporavne"
+  - username: "lalaaastr"
     fullname: >-
-      MAKEUP & LASH FILLER 🤍
+      🫶🏻Lalaahmad
     bio: >-
-      • Makeup artist | Bridal & beauty •Certified by @makeupbymario @belamakeuplada @ana.minic • Lash filler by @inlei_italy 📍Ljubljana, Slovenia
+      ✨ Makeup & skincare ✨ #dryskin ✨ Tiktok @lalaaastr21 ✨ Lemon8 @lalaaastr - Owner @foreverco.id Racun shopee⤵️
     location: "Indonesia"
-    followers: 14913
-    engagement: 1327
-    commentsToLikes: 0.090320
-    id: ck6tuqz0uhwdy0j71pn10zbsd
+    followers: 2476
+    engagement: 842
+    commentsToLikes: 0.031345
+    id: ck9wggvt8tcxw0j78lcteyov8
     verified: false
-    hashtags: "#lashfiller, #ad, #muabykarin, #nudestix"
+    hashtags: "#makeuplover, #makeuplook, #makeuptutorial, #makeupwisuda"
+  - username: "gresiazumardam"
+    fullname: >-
+      MC SURABAYA | MODERATOR ALL EVENT
+    bio: >-
+      •MC, Moderator #mcgresia •BA @rannafabeauty •VO Talent #voiceovergresia •Model Makeup @gresiazmuse •Photo Catalog,Visit,Endorse,etc 📩 : DM only
+    location: "Indonesia"
+    followers: 8787
+    engagement: 312
+    commentsToLikes: 0.037320
+    id: ck5zimkmbfzmg0i1446dcxcuy
+    verified: false
+    hashtags: "#moderatorgresia, #mcbirthdaysurabaya, #mchijab, #mcbirthdaysby"
+  - username: "nathaniec"
+    fullname: >-
+      Nathanie Christy Krisno, S.Psi
+    bio: >-
+      Makeup , Fashion, Mental Health 🌜🎨 📖 🧘🏼‍♀️🪴 🎞 🌛 Business Inq. 081212922217 (Egi) 🌷@pastelova
+    location: "Indonesia"
+    followers: 111820
+    engagement: 41
+    commentsToLikes: 0.012701
+    id: ck5q0p3zd72810i114v7ffdta
+    verified: false
+    hashtags: "#sipalingbestie, #auteentic, #iamnona, #rawatdiritanpaabaikanbumi"
+  - username: "srisuhe"
+    fullname: >-
+      sri andriyani
+    bio: >-
+      스리 앤 리야 니 📍Sumedang - Sukabumi Makeup 💄💋 Coffee ☕
+    location: "Indonesia"
+    followers: 5244
+    engagement: 1659
+    commentsToLikes: 0.209285
+    id: ck9wh5p9awdhh0j782hd230rh
+    verified: false
+    hashtags: "#pajagan, #jatigede, #jabarhits, #sumedanghits"
+  - username: "feillycia_ms"
+    fullname: >-
+      ❥ 𝐅𝐄𝐈𝐋𝐋𝐘𝐂𝐈𝐀 𝐌𝐒
+    bio: >-
+      ═ 𝙁𝙚𝙖𝙧𝙛𝙪𝙡𝙡𝙮 𝙖𝙣𝙙 𝙬𝙤𝙣𝙙𝙚𝙧𝙛𝙪𝙡𝙡𝙮 𝙢𝙖𝙙𝙚 🦋 📍 Surabaya, ID 💄 Makeup Artist @feillycia_mua 📩 Any Inquiries by DM or click the link below
+    location: "Indonesia"
+    followers: 18946
+    engagement: 757
+    commentsToLikes: 0.101876
+    id: ck9who1geyreq0j78krzk607z
+    verified: false
+    hashtags: "#wearoosy, #kaie, #kaiebeauty, #lipgloss"
+  - username: "sinaqofrani"
+    fullname: >-
+      Sina Qofrani | سینا غفرانی
+    bio: >-
+      ²⁴`⁰¹ • Portrait / Fashion /Advertising • Makeup Album | Boutique & Meson Journal • Based in Tehran • Message for work : Direct #❤
+    location: "Indonesia"
+    followers: 43967
+    engagement: 402
+    commentsToLikes: 0.099748
+    id: ck5hj3lhmfxw80i110jmaw974
+    verified: false
+    hashtags: "#portrature, #portraitpage, #photography, #photographyeveryday"
+  - username: "angelineay"
+    fullname: >-
+      Angeline☁️
+    bio: >-
+      of my life and currently on ☁️ nine. _____________________________________ makeup portfolio: @byangelineyap
+    location: "Indonesia"
+    followers: 7163
+    engagement: 945
+    commentsToLikes: 0.080856
+    id: ck5c52j6e2lnf0i11i523gsj9
+    verified: false
+    hashtags: "#art, #makeupideas, #glam, #makeupartist"
+  - username: "cheanuh"
+    fullname: >-
+      Chea Nuh
+    bio: >-
+      🇮🇩📍JAKARTA📍BALI, INDONESIA 🌊 Thallassophile 🎬 Makeup & Skincare 💌 cheanuh@gmail.com
+    location: "Indonesia"
+    followers: 32062
+    engagement: 359
+    commentsToLikes: 0.050830
+    id: ck15pzhlx0efy0i19c0d8rd8w
+    verified: false
+    hashtags: "#mylittlesecret, #votrepeau, #partyslay, #cleansebetter"
   - username: "irmafrz"
     fullname: >-
       Irma Farez
     bio: >-
       💄makeup artist x beauty vlogger Wa : 081703003833 (nia ) Email : irmafarez14@gmail.com MyYoutubechannel ⬇️⬇️⬇️
     location: "Indonesia"
-    followers: 85084
-    engagement: 711
-    commentsToLikes: 0.050132
+    followers: 85039
+    engagement: 321
+    commentsToLikes: 0.030033
     id: ck5ce8jq9kjwx0i112dzmoy74
     verified: false
-    hashtags: "#facepaint, #facepainting, #disney, #tiktokindonesia"
-  - username: "srisuhe"
-    fullname: >-
-      sri andriyani
-    bio: >-
-      스리 앤 리야 니 🏡 Sumedang city Makeup 💄💋 Coffee ☕
-    location: "Indonesia"
-    followers: 5146
-    engagement: 1722
-    commentsToLikes: 0.209513
-    id: ck9wh5p9awdhh0j782hd230rh
-    verified: false
-    hashtags: "#lingkartimurwadukjatigede, #pajagan, #jatigede, #sumedanghijab"
-  - username: "dilaprilyanii"
-    fullname: >-
-      Dila Aprilyani
-    bio: >-
-      perfection belongs only to Allah💫 @minithrifts29 @dilaprilyani_makeup @bridal_yulianaakbar
-    location: "Indonesia"
-    followers: 7469
-    engagement: 1212
-    commentsToLikes: 0.085187
-    id: ck9wh5smswdy90j78yjxsyiv4
-    verified: false
-    hashtags: "#pengantinpontianak, #stayhome, #dirumahaja, #lfl"
-  - username: "angelineay"
-    fullname: >-
-      Angeline Yapto🦋
-    bio: >-
-      of me doing makeups🧝🏻‍♀️🧚🏻‍♀️🧟‍♀️
-    location: "Indonesia"
-    followers: 7196
-    engagement: 876
-    commentsToLikes: 0.087487
-    id: ck5c52j6e2lnf0i11i523gsj9
-    verified: false
-    hashtags: "#makeupartist, #makeupideas, #coretanangel, #makeuptutorial"
-  - username: "niaingrid"
-    fullname: >-
-      Balik lagi bersama NIAINGRID 😜
-    bio: >-
-      🎨FaceArt & Foodies🍳#NomNomNiaingrid 🧠#MakeupSpeakup 🇲🇨Indonesian MUA &Content Creator 📞Business Inquiries: 0857 7770 8854 (Cia) 💄@byniaingrid
-    location: "Indonesia"
-    followers: 34258
-    engagement: 2365
-    commentsToLikes: 0.046884
-    id: ckaor3c3qljn20i78peotnxhu
-    verified: false
-    hashtags: "#artmakeup, #faceart, #creativemakeup, #makeupspeakup"
-  - username: "riismanita"
-    fullname: >-
-      Virgo♍️
-    bio: >-
-      Kristiadi🖤 •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
-    location: "Indonesia"
-    followers: 5601
-    engagement: 1365
-    commentsToLikes: 0.046864
-    id: ckap2m2yszfj20i787zhl15zt
-    verified: false
-    hashtags: "#makeuptiktokchallenge, #makeupcollection, #tutorialmakeupsimple, #makeuplooks"
-  - username: "farasyahid"
-    fullname: >-
-      ꧁ 𝓕𝓪𝓻𝓼𝔂𝓪 𝓛𝓾𝓺𝓶𝓪𝓷 ꧂
-    bio: >-
-      𝗙𝗮𝘀𝗵𝗶𝗼𝗻 & 𝗯𝗲𝗮𝘂𝘁𝘆 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 Line@ : @ytt2851z for any inq #farasthriftideas #makeupbyfarasyahid Qa,GAL
-    location: "Indonesia"
-    followers: 18879
-    engagement: 312
-    commentsToLikes: 0.073775
-    id: ckaoslom3s05e0i78hv93uoyg
-    verified: false
-    hashtags: "#1tetes3xlebihcerah, #youtheradiancewhite, #youmakeups, #triplebrightactivator"
-  - username: "ay_akm"
-    fullname: >-
-      𝙲𝚊𝚕𝚕 𝙼𝚎 𝙰𝚢💖𝙽𝚞𝚛𝚜𝚎💉
-    bio: >-
-      𝐇𝐞𝐚𝐥𝐭𝐡|𝐁𝐞𝐚𝐮𝐭𝐲|𝐅𝐚𝐬𝐡𝐢𝐨𝐧 BUSINESS INQUIRIES👇 Whatsapp 087708701556 Owner @ay_makeup26 @ay_fashion26
-    location: "Indonesia"
-    followers: 15422
-    engagement: 1635
-    commentsToLikes: 0.046261
-    id: ck9whwt8ozu4l0j787jqs090m
-    verified: false
-    hashtags: "#nonstopkreasiq, #lfl, #supportlocalbrand, #lflf"
+    hashtags: "#anime, #makeup, #kakashi, #attackontitan"
   - username: "triayudmynt"
     fullname: >-
       Tri Ayu Damayanti
     bio: >-
       Akun MUA @makeuptad_ PP & Endorsement : @ourteam_management Part of @chayrahijabers 📍cirebon ~ bekasi ⬇️subscribe⬇️
     location: "Indonesia"
-    followers: 5146
-    engagement: 1101
-    commentsToLikes: 0.119826
+    followers: 5512
+    engagement: 1021
+    commentsToLikes: 0.100303
     id: ck9wh67qewg1c0j788cruoavt
     verified: false
-    hashtags: "#outfisimple, #dailymakeup, #fashioninspiration, #hijabers"
+    hashtags: "#selebgram, #hijabersindonesia, #ootddailyhijab, #alamindonesia"
 ---

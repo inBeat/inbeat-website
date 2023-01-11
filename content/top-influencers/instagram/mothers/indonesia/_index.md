@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Indonesia In 2022
+title: Top 10 Mothers Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top mothers Instagram influencers in Indonesia in 2022. Most popular hashtags: #tiktokindonesia #fashion #dirumahaja.
+  Find top mothers Instagram influencers in Indonesia in 2023. Most popular hashtags: #family #bumpstyle #ootd.
 platform: Instagram
-hits: 370
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 370 Instagram influencers like this in Indonesia for you to pitch.
+hits: 333
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 333 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "yennikristiani"
+  - username: "nisrinadhiya"
     fullname: >-
-      Jouw Yenni Kristiani
+      Nisrina
     bio: >-
-      Mother of two @babyjouw 👶🏻👶🏻 Walking in God’s grace. @lifeofpure @cremejkt @cashlessss
+      An architect who likes simplicity but elegance, passionate in creating with @sudut_ruang, enjoys life as mother and wife, takes care of @nmhouse.id
     location: "Indonesia"
-    followers: 42265
-    engagement: 711
-    commentsToLikes: 0.092331
-    id: ck5zskiabyo6p0i14hrvnjpwm
+    followers: 14832
+    engagement: 735
+    commentsToLikes: 0.012034
+    id: ckap9akbsruob0i784be3p0so
     verified: false
-    hashtags: "#ootdasian, #simplefits, #flackhofemales, #urbansneakersociety"
+    hashtags: "#uniqloindonesia, #reels, #nmfamily, #tacoid"
+  - username: "dithapurwana"
+    fullname: >-
+      dita novianty
+    bio: >-
+      Mother of 4 boys 💍 @ranggana.purwana ▶️ youtube chanel : #inikamii https://youtu.be/aLyilOdZv0I Business inq : 081311270349 Eltasya
+    location: "Indonesia"
+    followers: 125943
+    engagement: 573
+    commentsToLikes: 0.012107
+    id: ck5q5u5seulq90i11eqquwqoi
+    verified: false
+    hashtags: "#weekendvibes, #sunday, #thursdayvibes, #saturdayvibes"
+  - username: "mikailapatritz"
+    fullname: >-
+      ⓜⓘⓚⓐⓘⓛⓐ ⓟⓐⓣⓡⓘⓣⓩ
+    bio: >-
+      💍FardhanKhan's. Mother of #Arupalaka Co-founder Of @zooman.id Head Of #ATVBeautyIcon @Atvcreative.asia
+    location: "Indonesia"
+    followers: 430642
+    engagement: 303
+    commentsToLikes: 0.006003
+    id: ck0w6zd89azgc0i19abelzch5
+    verified: true
+    hashtags: "#bumpstyle, #transition, #fashionreels, #ootd"
+  - username: "ritanadhira"
+    fullname: >-
+      Rita Nadhira.
+    bio: >-
+      📍JKT • Wife and Blessed mother of two @kay_and_kal • Business Contact: +6285764324545 (Finan) or DM. @hi__noora @fleek.official @littlenoora.id
+    location: "Indonesia"
+    followers: 84778
+    engagement: 135
+    commentsToLikes: 0.010593
+    id: ck5hps0j4rvbn0i11shi4uvjo
+    verified: false
+    hashtags: "#breastfeeding, #familypotrait, #familypotraits, #fourever"
+  - username: "kevinlln"
+    fullname: >-
+      Kevin Lilliana, S.Sn., M.M.
+    bio: >-
+      Bachelor of Arts & Master of Management🎓 Living my life to the fullest as a mother, and a speaker💫 📞Selfi +628121421416
+    location: "Indonesia"
+    followers: 499492
+    engagement: 123
+    commentsToLikes: 0.006426
+    id: ck0w3yjufvxix0i195khct2bf
+    verified: true
+    hashtags: "#lebihderas, #bebasulat, #sambalabcnyalakansuasana, #mandialabundaalaayah"
+  - username: "indahnadapuspita"
+    fullname: >-
+      Indah Nada Puspita
+    bio: >-
+      A Mother. Creativepreneur. Founder & Creative Director of @nadapuspita.official @npwoman Business contact ⬇️
+    location: "Indonesia"
+    followers: 1072871
+    engagement: 94
+    commentsToLikes: 0.010149
+    id: ckaox85wmc7i40i78rhih40nt
+    verified: true
+    hashtags: "#bulgarijewelry, #grwm, #sekaranguntuknanti, #beautyfestasia2022"
+  - username: "tengkudewiputri_tdp"
+    fullname: >-
+      TengkuDewiPutri
+    bio: >-
+      Motherhood ,Who's into healthy Lifestyle, Beach Lover BA of @purebaby.id CP ⬇️ Endorsement : 085218311214 WA (Nadya) TV : 081318447677 (Ricco)
+    location: "Indonesia"
+    followers: 889274
+    engagement: 31
+    commentsToLikes: 0.006833
+    id: ck6tqy43vvf8j0j71qil04a1i
+    verified: true
+    hashtags: "#kreasijawaranyachalenge, #poleworkout, #bali, #baliphotographer"
+  - username: "uwiemariska"
+    fullname: >-
+      Uwie Mariska
+    bio: >-
+      🤎Coffee addict 🤍Motherhood | Fashion | Affordable Style @wieshare.preloved Business Inquiries | 📩Line : uwie_mariskaa
+    location: "Indonesia"
+    followers: 85671
+    engagement: 19
+    commentsToLikes: 0.082273
+    id: ck139165nj0q00i19ild0rqld
+    verified: false
+    hashtags: "#hootd, #hlladies, #hijabootd, #hijabstyle"
+  - username: "shynnz"
+    fullname: >-
+      Shannon she/her
+    bio: >-
+      Motherhood, honestly. Normalizing the highs the lows + everything in between. We believe ❤️ is ❤️ and BLM Muchmostdarling@gmail.com
+    location: "Indonesia"
+    followers: 64350
+    engagement: 340
+    commentsToLikes: 0.114113
+    id: ck14hkjbparz00i193kidn9b3
+    verified: false
+    hashtags: "#bumpstyle, #homebirth, #hellomeridian, #greyhair"
   - username: "arumi_ningsih1"
     fullname: >-
       GIVEAWAY - Arumi ningsih
     bio: >-
-      Beauty||lifestyle||motherhood 📧 Arumie_01@yahoo.com @sociolla disc voucher 50k --> SBN043157
+      Beauty||lifestyle||motherhood 📧 Arumie_01@yahoo.com https://www.ruminingsih.com/2020/12/pentingnya-manfaat-air-untuk-kulit-aqua.html?m=1
     location: "Indonesia"
-    followers: 44773
-    engagement: 439
-    commentsToLikes: 0.053561
+    followers: 53562
+    engagement: 328
+    commentsToLikes: 0.054977
     id: ck6u0t59qhm2e0j71fn9u5vls
     verified: false
-    hashtags: "#mynudemood, #beautyblogger, #clozetteid, #mominfluencer"
-  - username: "abigailclie"
-    fullname: >-
-      AURA Clarri
-    bio: >-
-      Game Shoutcaster The Queen Mother of @auraesports
-    location: "Indonesia"
-    followers: 36736
-    engagement: 950
-    commentsToLikes: 0.026784
-    id: ck5hhrszj9rg10i11vi8kcnhl
-    verified: false
-    hashtags: "#weekenddealduniagames, #bethefirst, #predatorgaming, #jadilahyangpertama"
-  - username: "emma.1905"
-    fullname: >-
-      Umamul Husen wife 👫
-    bio: >-
-      Mother Of Ammar Zain Husen👶 🌄 Bogor, Indonesia Fabbiayi aala 'i rabbikumaa tukadzdzibaan Channel Youtube Jangan lupa Subcribe ya teman 😍 😎⬇️
-    location: "Indonesia"
-    followers: 8952
-    engagement: 911
-    commentsToLikes: 0.049140
-    id: ckf5nfeyny1hq0j23hryjyuoc
-    verified: false
-    hashtags: ""
-  - username: "jaydekemp12"
-    fullname: >-
-      jaydekemp12
-    bio: >-
-      •I collect tattoos & lingerie •@stronglifter😻💕 •Mother of @happybluestaffy🐶 •🆕 @happyshq •Aspiring lingerie designer💋 • BIKINIS 👙⤵️
-    location: "Indonesia"
-    followers: 9000
-    engagement: 778
-    commentsToLikes: 0.040087
-    id: ck5hjgegdgkxt0i11fwbj91ae
-    verified: false
-    hashtags: "#weekendgym, #gymdaily, #allblackoutfit, #sushitime"
-  - username: "tiffofili"
-    fullname: >-
-      Tiffany Porter
-    bio: >-
-      Christian. Wife. Mother. 2 x Olympian (#TeamAdidas ///). Pharmacist. AKA 💗💚 #Blessed Snapchat 👻: tiffporter
-    location: "Indonesia"
-    followers: 26256
-    engagement: 148
-    commentsToLikes: 0.084052
-    id: ck5qeiv2b0ph90i115lq1vpx7
-    verified: true
-    hashtags: "#mommyandme, #tokyo2022, #teamadidas, #chichimama"
-  - username: "oliastepanenco"
-    fullname: >-
-      Olia Stepanenco
-    bio: >-
-      📍🄱🄰🄻🄸 🌕🌖🌗🌘🌑 MOTHER OF👉@style_retreat_bali_shop 🅢🅣🅨🅛🅘🅢🅣 🅟🅔🅡🅢🅞🅝🅐🅛 🅢🅗🅞🅟🅟🅔🅡 🅒🅞🅝🅣🅔🅝🅣 🅜🅐🅝🅐🅖🅔🅡
-    location: "Indonesia"
-    followers: 32387
-    engagement: 206
-    commentsToLikes: 0.051865
-    id: ck6tv2kzujtba0j71qzwqcl2v
-    verified: false
-    hashtags: ""
-  - username: "stephbaier"
-    fullname: >-
-      Steph Baier | Bali Model
-    bio: >-
-      🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
-    location: "Indonesia"
-    followers: 6001
-    engagement: 642
-    commentsToLikes: 0.045244
-    id: ck8syl5qql5jw0j781h8foqv1
-    verified: false
-    hashtags: ""
-  - username: "alandakariza"
-    fullname: >-
-      
-    bio: >-
-      mother // @bearrito.jkt // @advis.lab // @amameicecream
-    location: "Indonesia"
-    followers: 25252
-    engagement: 299
-    commentsToLikes: 0.028253
-    id: ck15tgs3ni07e0i19zlw2oru0
-    verified: false
-    hashtags: "#sennapartydisenoparty, #acesemarakakhirtahun, #tbt, #belanjatenang"
-  - username: "yasminehany"
-    fullname: >-
-      YASMINE HANY
-    bio: >-
-      Better oops than what if Mother agency @unnmodels Founder of @shopthesol 📍Cairo, Egypt
-    location: "Indonesia"
-    followers: 14996
-    engagement: 992
-    commentsToLikes: 0.009910
-    id: ck600rh0ve4t50i14zgbarfzh
-    verified: false
-    hashtags: ""
+    hashtags: "#skincare, #clozzeteid, #clozetteid, #anti"
 ---

@@ -1,108 +1,120 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Madrid In 2022
+title: Top 10 Beauty Instagram Influencers In Madrid In 2023
 description: >-
-  Find top beauty Instagram influencers in Madrid in 2022. Most popular hashtags: #beauty #madrid #love.
+  Find top beauty Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #love #beauty #fashion.
 platform: Instagram
-hits: 204
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 204 Instagram influencers like this in Madrid, Spain for you to contact.
+hits: 167
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 167 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
-  - username: "mypersonalkloset"
+  - username: "palomaszalai"
     fullname: >-
-      My Personal Kloset
+      🕊️
     bio: >-
-      Healthylife 🥑 Amante del deporte🏃‍♀️ Ambassador @vitaminwellesp @ikaikafit_ 10% 'MPK' Mypersonalkloset2@gmail.com
+      Actriz Madrid, Spain Trabajos MD 📩 22~44 🐺
     location: "Spain"
-    followers: 31495
-    engagement: 404
-    commentsToLikes: 0.202496
-    id: ck6u11pufj1gf0j71pdg3djud
+    followers: 4726
+    engagement: 858
+    commentsToLikes: 0.117783
+    id: ck6tk3maa3xte0j71siy0i687
     verified: false
-    hashtags: "#beauty, #madrid, #beautiful, #disfruta"
-  - username: "dalianaharekion"
+    hashtags: "#madridfoto, #sesiondefotosmadrid, #modelmadrid, #shootingmadrid"
+  - username: "yaniraruiz_"
     fullname: >-
-      Dalianah Arekion
+      Yanira Ruiz
     bio: >-
-      Mauritian🇲🇺 Spanish🇪🇸 BE 505 LOXP♥️ Line Up Model • New York Model Management • Monster Management • Premier Models • LA Models • A Management
+      👩🏼‍🦱 Bailarina/Dancer 🧘🏼‍♀️ YogaLover 📺 "Tu cara me suena" 👩🏼‍💻 @perfordance 📩 yanira@perfordance.com
     location: "Spain"
-    followers: 316629
-    engagement: 174
-    commentsToLikes: 0.020840
-    id: ck135voph3gpt0i19f2iy00zv
-    verified: true
-    hashtags: "#tb, #andalucia, #editorial, #parisfashionweek"
-  - username: "rakbcn28"
-    fullname: >-
-      Rakel Lopez Sanchez
-    bio: >-
-      🌟 🅡🅐🅚🅑🅒🅝 🌟 🎥Youtuber / Instagrammer📸 📍Salamanca 🚆Madrid / Barcelona ✈️ 📧 contact: hola@rakbcn.com #Salamanca #fashion #beauty #Barcelona #Madrid
-    location: "Spain"
-    followers: 95098
-    engagement: 143
-    commentsToLikes: 0.034909
-    id: ckap1u757w6250i7835sd5kp7
+    followers: 9528
+    engagement: 853
+    commentsToLikes: 0.068683
+    id: ck6u6i4ubfq7p0j71zvkjo6cx
     verified: false
-    hashtags: "#salamanca, #rakbcn, #enjoyyourlife, #enjoy"
-  - username: "deborahserendipity"
+    hashtags: "#pregnant, #perfordance, #dancer, #pregnantphotography"
+  - username: "grehiliz"
     fullname: >-
-      DÉBORAH SERENDIPITY
+      𝑮𝒓𝒆𝒉𝒊𝒍𝒊𝒛 Henriquez
     bio: >-
-      SEXY SE NACE, NO SE HACE ByMe Journalist🇪🇸💘🇮🇹 #GladiatorInASuiT LuchadorA, ApasionadA,PayasA,ImpulsivA,EternamentE SoñadorA. EverythinG is PossiblE
+      🅿︎🆄🅱︎🅻🅸🅲🅸🅳🅰︎🅳-🅜🅞🅓🅔🅛🅞 ⚖️ 𝔄𝔟𝔬𝔤𝔞𝔡𝔞 🎤 𝔓𝔢𝔯𝔦𝔬𝔡𝔦𝔰𝔱𝔞 🎬𝔗.𝔖.𝔘 𝔐𝔢𝔡𝔦𝔬𝔰 𝔡𝔢.𝔭𝔯𝔬𝔡𝔲𝔠𝔠𝔦𝔬́𝔫 𝔢𝔫 𝔠𝔬𝔪𝔲𝔫𝔦𝔠𝔞𝔠𝔦𝔬́𝔫 𝔰𝔬𝔠𝔦𝔞𝔩 𝔓𝔯𝔢𝔰𝔦𝔡𝔢𝔫𝔱𝔞 @fundacionamorporvenezuela 🇻🇪📍🇪🇸
     location: "Spain"
-    followers: 39732
-    engagement: 320
-    commentsToLikes: 0.059428
-    id: ck5cj6mu4u35m0i11iatfslim
-    verified: true
-    hashtags: "#deborahserendipity, #gladiatorinasuit, #giornalista, #valladolid"
-  - username: "nattvillee"
-    fullname: >-
-      Natalia Villena Núñez *
-    bio: >-
-      - Madrid 📍 - Jugadora del @torrecf ⚽ 🖤 - 💌 nataliavillena@rimmeo.com - Soy un verdadero DESASTRE y eso es lo mejor que tengo para ofrecer ✨ 🤪
-    location: "Spain"
-    followers: 93371
-    engagement: 1125
-    commentsToLikes: 0.008250
-    id: ckap8jf8qokuv0i788ya6nxyp
+    followers: 171244
+    engagement: 144
+    commentsToLikes: 0.116424
+    id: ck9wdf0x3fcwh0j7829eszab0
     verified: false
-    hashtags: "#beautiful, #girl, #love, #party"
-  - username: "dirianyisabel"
+    hashtags: "#trip, #barcelona, #getxo, #areeta"
+  - username: "kattydacosta"
     fullname: >-
-      Diriany Isabel
+      Katherin Da costa
     bio: >-
-      Venezuela 🇻🇪 ..Tenerife🇮🇨 Marbella 🌴 Madrid 📍 Beauty Ambassador @pprimor 💄 Colaboraciones: dirianyisabelp@gmail.com 📩 Código % DIRIANY10⬇️
+      Madrid Fashion & LifeStyle Blogger. 23. 📩 Dacostak.98@gmail.com Madrid📍. ⬇️Sigueme en ⬇️
     location: "Spain"
-    followers: 127733
-    engagement: 342
-    commentsToLikes: 0.024540
-    id: ckap1o5vfvdra0i78xb3tcx9x
+    followers: 8336
+    engagement: 483
+    commentsToLikes: 0.016286
+    id: ck5hizi4jfqmc0i11kgy7ksub
     verified: false
-    hashtags: ""
-  - username: "aratrendystyle"
+    hashtags: "#instafashion, #fun, #currentlywearing, #lookoftheday"
+  - username: "tania.rdg"
     fullname: >-
-      Ara ✨ 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖢𝗋𝖾𝖺𝗍𝗈𝗋
+      𝑻𝑨𝑵𝑰𝑨 𝑹𝑶𝑫𝑹𝑰
     bio: >-
-      ⭐️Soñadora e Inspiradora💫📍#madrid #Fashion • #Beauty • #Lifestyle 📧Contact: byarastyle@gmail.com ⬇️Nos vemos en⬇️
+      GAP🎓 𝑴𝒊𝒔𝒔 𝑮𝒐𝒍𝒅 𝑴𝒂𝒅𝒓𝒊𝒅 𝟮𝟬𝟮𝟭 Rumbo a @missgoldspain @seahostbcn
     location: "Spain"
-    followers: 4218
-    engagement: 1230
-    commentsToLikes: 0.079699
-    id: ckap09bo8pbhx0i78jhkkadje
+    followers: 10700
+    engagement: 590
+    commentsToLikes: 0.162763
+    id: ck5hr3uo2u7ys0i11ntw0a7bv
     verified: false
-    hashtags: "#looks, #stradivarius, #streetstyle, #viernes"
-  - username: "bydianafdez"
+    hashtags: "#strong, #workout, #healthy, #fitnessmodel"
+  - username: "portimismo"
     fullname: >-
-      D I A N A  F E R N Á N D E Z
+      Portimismo (Jen) 👩🏻♻️
     bio: >-
-      💘 Cádiz 📍Madrid #fashion #beauty #model #travel #luxury
+      ❤Recetas fáciles #fit 🍴Los JUEVES te Reto Cooking (destacado RETOS) 📌Lugares y productos de moda ✈️VIAJES diferentes! 👪Mamá #japanlover 💌Colab
     location: "Spain"
-    followers: 3692
-    engagement: 1426
-    commentsToLikes: 0.054208
-    id: ck5znok0zouvr0i14zdntjf5x
+    followers: 9370
+    engagement: 827
+    commentsToLikes: 0.521784
+    id: ckapcpw254q4w0i78s6ozn6k6
     verified: false
-    hashtags: "#summertime, #swimsuit, #sunday, #blue"
+    hashtags: "#recetassaludables, #premio, #desayunosaludable, #snacksaludable"
+  - username: "anushkatuska"
+    fullname: >-
+      ANA SÁNCHEZ GALINDO
+    bio: >-
+      #MOMTOBE 🤰🏽✨✨ 🐣NOLAN💛27 semanas 📍Madrid / Salamanca ⚡️Fashion, beauty, lifestyle & more... 📩anasanchezgalindo@gmail.com
+    location: "Spain"
+    followers: 90168
+    engagement: 173
+    commentsToLikes: 0.062664
+    id: ck6tvayyel6rq0j71gl33pxcn
+    verified: false
+    hashtags: "#picture, #me, #beautiful, #instagood"
+  - username: "claucienfuegos"
+    fullname: >-
+      Claudia Cienfuegos ✨
+    bio: >-
+      🧜🏻‍♀️Serendipity 🗺 •BEAUTY•LIFESTYLE•TRAVELS 📍#Madrid. •🖥CEO @cienfuegosmarketing 📩cluscornerblog@gmail.com ⬇️Mi web
+    location: "Spain"
+    followers: 35004
+    engagement: 164
+    commentsToLikes: 0.100296
+    id: ck55nf1va62iu0i113hkvoya5
+    verified: false
+    hashtags: "#zaraoutfit, #bloggermadrid, #latina, #influencermadrid"
+  - username: "maikshine"
+    fullname: >-
+      Mai | MAIKSHINE blog |
+    bio: >-
+      ☀Fashion, beauty & lifestyle blogger☀ 🌍Madrid ✈️ San Sebastián 📩maikshine.blog@gmail.com 👇🆕 BLOG POST 👇 Tónicos CosRX
+    location: "Spain"
+    followers: 14074
+    engagement: 482
+    commentsToLikes: 0.089066
+    id: ck8tcvwbv0vy40j78xbmzckds
+    verified: false
+    hashtags: "#moda, #love, #igersmadrid, #yesstylereview"
   - username: "angelina_kidsmodelss"
     fullname: >-
       ".ᎯℕᎶℰℒℐℕᎯ . ¸.•*(¸.•*´♥`*•.¸)
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.147169
     id: ck15u6staloyr0i19zbex1kbo
     verified: false
-    hashtags: "#redhair, #love, #kidstyle, #kidsworld"
-  - username: "danisanzfoto"
-    fullname: >-
-      Dani Sanz
-    bio: >-
-      Photographer "In love with portrait & nature" 🎤Artist🎸🏞️Landscape-nightphoto🌌💇Fashion💄 📷Based in Madrid📷 #fashionphotography #nightphoto
-    location: "Spain"
-    followers: 5292
-    engagement: 1067
-    commentsToLikes: 0.077540
-    id: ck6ty2clz1a3r0j71n88n3i7j
-    verified: false
-    hashtags: "#adventure, #loves, #spainpassion, #space"
+    hashtags: "#love, #kidstyle, #madrid, #happy"
 ---

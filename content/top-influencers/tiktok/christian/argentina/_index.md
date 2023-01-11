@@ -1,72 +1,72 @@
 ---
-title: Top 10 Christian TikTok Influencers In Argentina In 2022
+title: Top 10 Christian TikTok Influencers In Argentina In 2023
 description: >-
-  Find top christian TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #foryou #christian.
+  Find top christian TikTok influencers in Argentina in 2023. Most popular hashtags: #fyp #parati #christian #xyzbca.
 platform: TikTok
-hits: 27
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 27 TikTok influencers like this in Argentina for you to collaborate.
+hits: 29
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 29 TikTok influencers like this in Argentina for you to pitch.
 profiles:
   - username: "christianfrache"
     fullname: >-
       ChristianFrache19
     bio: >-
-      Instagram: christianfrache4 30K😍❤️
+      Instagram: christianfrache4 40K??
     location: "Argentina"
-    followers: 30800
-    engagement: 2436
-    commentsToLikes: 0.024390
+    followers: 44000
+    engagement: 2278
+    commentsToLikes: 0.031612
     id: ckblix3d2c1fg0j23mm8o49oa
     verified: false
-    hashtags: "#foryou, #argentina, #mexico, #tiktok"
+    hashtags: "#parati, #fyp, #argentina, #viral"
   - username: "kevinaravena"
     fullname: >-
       Kevin Aravena
     bio: >-
-      Iɴsᴛᴀɢʀᴀᴍ: @kevin_aravena Yᴏᴜᴛᴜʙᴇ: Kevin Aravena
+      Iɴsᴛᴀɢʀᴀᴍ: @kevin_aravena Yᴏᴜᴛᴜʙᴇ: Kevin Aravena ESCUCHA MI NUEVA CANCIÓN 👇🏻🔥
     location: "Argentina"
-    followers: 87900
-    engagement: 1829
-    commentsToLikes: 0.022144
+    followers: 98300
+    engagement: 1594
+    commentsToLikes: 0.015435
     id: ckb18jvm3wfo20j23fnwcfh1k
     verified: false
-    hashtags: ""
+    hashtags: "#biblia, #jovenescristianos, #dios, #cristianos"
+  - username: "camimazaa"
+    fullname: >-
+      Camilaaaaa
+    bio: >-
+      King’s daughter ♥️ 🇦🇷
+    location: "Argentina"
+    followers: 210800
+    engagement: 2058
+    commentsToLikes: 0.010841
+    id: ckbaafrfm343j0j23nco2yqlb
+    verified: false
+    hashtags: "#foryou, #parati, #fyp, #christian"
+  - username: "mor.juarez"
+    fullname: >-
+      More
+    bio: >-
+      #Hagamosviralajesus Cristiana❤️ Mateo 6:33
+    location: "Argentina"
+    followers: 19200
+    engagement: 2323
+    commentsToLikes: 0.013424
+    id: ckacabwbygsey0i78cmpd2oih
+    verified: false
+    hashtags: "#jovenesencristo, #jovenescristianos, #diosesamor, #jovenesdebendicion"
   - username: "sofia.cagiao"
     fullname: >-
       Sofy
     bio: >-
       • Jesus is King • ♥️ Hija del Rey ♥️
     location: "Argentina"
-    followers: 45000
-    engagement: 1880
-    commentsToLikes: 0.030915
+    followers: 45500
+    engagement: 1656
+    commentsToLikes: 0.024570
     id: ckbr8vaeanm1c0j23dgoktw5a
     verified: false
-    hashtags: "#diosteama, #yoenlafiesta, #jovenescristianos, #tiktokcristiano"
-  - username: "camimazaa"
-    fullname: >-
-      Camilaaaaa
-    bio: >-
-      King’s daughter ♥️ Influencer de CRISTO🤪 🇦🇷
-    location: "Argentina"
-    followers: 156200
-    engagement: 2188
-    commentsToLikes: 0.011521
-    id: ckbaafrfm343j0j23nco2yqlb
-    verified: false
-    hashtags: "#parati, #foryou, #christian, #fyp"
-  - username: "eliask.jgonzalezs"
-    fullname: >-
-      Elias K.J Gonzalez S
-    bio: >-
-      Sonríe que la vida es corta para estar triste!!🇦🇷🤍🏳️‍🌈🐶🤍🐶
-    location: "Argentina"
-    followers: 34400
-    engagement: 1717
-    commentsToLikes: 0.036806
-    id: ckbfc8lhz4u4c0j23ckb6y2j0
-    verified: false
-    hashtags: "#boys, #parati, #gayboys, #risas"
+    hashtags: "#christian, #cristiana, #cristianos, #parati"
   - username: "michelemorroneofc"
     fullname: >-
       Michele Morrone
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.013781
     id: ckc8w2mcqjanw0j23k153lrer
     verified: false
-    hashtags: "#365days, #michelemorrone, #massimoandlaura, #massimotorricielli"
-  - username: "sis.lbrd"
+    hashtags: "#massimoandlaura, #massimotorricielli, #365dias, #michelemorrone"
+  - username: "simonsantos81"
     fullname: >-
-      CamyDan
+      Simón
     bio: >-
-      Nuestra mamá se roba la atención Salmos 121 ❤⚓
+      Ig: simonsantos_ Twitch simonsantos81 Cuenta secu: simonsantos_
     location: "Argentina"
-    followers: 12300
-    engagement: 852
-    commentsToLikes: 0.022419
-    id: ckbf8w67tzlkg0j2340i7xg11
+    followers: 375200
+    engagement: 2475
+    commentsToLikes: 0.009142
+    id: ckae3g7nxxjb80i782s1v7pdk
     verified: false
-    hashtags: "#parati, #fyp, #doctorslife, #doctor"
-  - username: "sorich.20"
-    fullname: >-
-      Late
-    bio: >-
-      App: Cute Cut Pro CEO en que Tiktok no me de pelota
-    location: "Argentina"
-    followers: 265200
-    engagement: 1162
-    commentsToLikes: 0.009598
-    id: ckcjjbskpdaec0j23wp7oy039
-    verified: false
-    hashtags: "#xyzbca, #netflix, #hot, #harrypotter"
-  - username: "augustogimenez"
-    fullname: >-
-      AugustoGimenez
-    bio: >-
-      Si ves esto tendras un buen día⚡️ Augustogimenez04@gmail.com @Trendsetters.ok
-    location: "Argentina"
-    followers: 4000000
-    engagement: 2809
-    commentsToLikes: 0.006713
-    id: ckail6xr1mrpu0i788uc3utfh
-    verified: true
-    hashtags: ""
+    hashtags: "#starwars, #pegar"
   - username: "selagueo"
     fullname: >-
       Jose Lagos
     bio: >-
       𝗙𝗕𝗜🕴️𝗖𝗘𝗢 😧querés una sorpresa? seguime en insta y mandame un "8"
     location: "Argentina"
-    followers: 178900
-    engagement: 2043
-    commentsToLikes: 0.008091
+    followers: 176400
+    engagement: 1931
+    commentsToLikes: 0.008506
     id: ckdtke0q8y3bu0j232sa31niv
     verified: false
-    hashtags: "#selagueo, #fbi, #parati, #fyp"
+    hashtags: "#parati, #fyp, #selagueo, #fbi"
+  - username: "maribelquirozsoliz"
+    fullname: >-
+      Maribel Quiroz Soliz
+    bio: >-
+      amo a mis amores 💟💋
+    location: "Argentina"
+    followers: 110000
+    engagement: 685
+    commentsToLikes: 0.013900
+    id: ckav3t7xpa74n0j23fxhqmohi
+    verified: false
+    hashtags: "#follow, #foryou, #descartame, #foryupagee"
+  - username: "fercarlos75"
+    fullname: >-
+      Fernando Carlos
+    bio: >-
+      Veni Vení TikTokeá conmigo! Argentina 🇦🇷 IG: @fercarlos75 Tw: @fercarlos75
+    location: "Argentina"
+    followers: 80600
+    engagement: 690
+    commentsToLikes: 0.024325
+    id: ckcdax8w34c6e0j23nhnap1g7
+    verified: true
+    hashtags: "#cristiano, #futbol, #telefe, #messi"
 ---

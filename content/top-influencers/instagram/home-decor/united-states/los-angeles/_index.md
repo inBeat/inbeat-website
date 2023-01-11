@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2022
+title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top home decor Instagram influencers in Los Angeles in 2022. Most popular hashtags: #homedecor #realestate #interiordesign #losangeles.
+  Find top home decor Instagram influencers in Los Angeles in 2023. Most popular hashtags: #homedecor #interiordesign #realestate #losangeles.
 platform: Instagram
 hits: 115
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 115 Instagram influencers like this in Los Angeles, United States for you to pitch.
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 115 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "mibellephotographers"
+  - username: "nicholasparkerr"
     fullname: >-
-      Wedding Photography
+      Nico Parker
     bio: >-
-      Now booking 2022 weddings & events 🌎 wide!
+      
     location: "United States"
-    followers: 7084
-    engagement: 72
-    commentsToLikes: 0.040777
-    id: ck0w23a6omex60i19up2g3wge
+    followers: 4477
+    engagement: 1385
+    commentsToLikes: 0.083625
+    id: ck14l2suesk8f0i19eyxdwdw7
     verified: false
-    hashtags: "#michellebellerphoto, #photobooth, #photoboothrental, #bestcoast"
+    hashtags: "#luxuryrealestate, #currenthomeview, #architecture, #lahomes"
+  - username: "angel_nicolas"
+    fullname: >-
+      Miami Real Estate Advisor
+    bio: >-
+      Angel Nicolas | Entrepreneur President of @thenicolasgroup at Compass
+    location: "United States"
+    followers: 28818
+    engagement: 82
+    commentsToLikes: 0.067900
+    id: ckf5te9cyhlnh0j23u8z03xai
+    verified: false
+    hashtags: "#dreamhome, #compassagents, #interiordesign, #motivation"
+  - username: "hauntinglyalex"
+    fullname: >-
+      Alex | 🎃✌🏼🧡 | She/Her
+    bio: >-
+      𝙼𝚎𝚗𝚝𝚊𝚕 𝚑𝚎𝚊𝚕𝚝𝚑 𝚊𝚍𝚟𝚘𝚌𝚊𝚝𝚎. 𝚃𝚑𝚎 𝚖𝚊𝚌𝚊𝚋𝚛𝚎. 𝚁𝚎𝚝𝚛𝚘 𝚊𝚍𝚖𝚒𝚛𝚎𝚛. 𝙼𝚎𝚐𝚊 𝚐𝚎𝚎𝚔. 𝚆𝚛𝚒𝚝𝚒𝚗𝚐. 𝙼𝚞𝚜𝚒𝚌. 𝚁𝚎𝚊𝚍𝚒𝚗𝚐. 📖 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗿𝗲𝗮𝗱𝗶𝗻𝗴: “𝘎𝘳𝘦𝘦𝘯𝘭𝘪𝘨𝘩𝘵𝘴”𝘣𝘺 𝘔𝘢𝘵𝘵𝘩𝘦𝘸 𝘔𝘤𝘊𝘰𝘯𝘢𝘶𝘨𝘩𝘦𝘺
+    location: "United States"
+    followers: 9483
+    engagement: 692
+    commentsToLikes: 0.032029
+    id: ck8tbk8n4vyuw0j78fka93cli
+    verified: false
+    hashtags: "#halloween365, #halloween, #spooky, #awakenthespirits"
+  - username: "hardstark"
+    fullname: >-
+      Georgia Hardstark
+    bio: >-
+      I’m half of @MyFavoriteMurder podcast, memoir Stay Sexy & Don’t Get Murdered, & @exactlyright podcast network. Totally obsessed w/ @ElvisAndMimiAndDot
+    location: "United States"
+    followers: 585273
+    engagement: 1335
+    commentsToLikes: 0.021657
+    id: ck0vxpvy704hx0i19go3itzm4
+    verified: true
+    hashtags: "#elvisthesiamese, #tbt, #ourgirlcookie, #hardstarking"
+  - username: "mansionstyles"
+    fullname: >-
+      Mansions🏰 | Houses🏡 | Homes🏚️
+    bio: >-
+      🏰 Best Mansions on IG 💰 DM for Promos/Advertising 💎 Follow @billionairesinterior for Interiors 👇 Inside Marshmello’s $10 Million Mansion👇
+    location: "United States"
+    followers: 389959
+    engagement: 178
+    commentsToLikes: 0.008813
+    id: ck0twxfkjh5se0i19tem1fol3
+    verified: false
+    hashtags: "#beautifulhome, #architecture, #luxuryhome, #modernarchitecture"
   - username: "seva_ceramics"
     fullname: >-
-      Natalya Seva🔥Raku Queen
+      Natalya Seva🔥Raku Artist
     bio: >-
       🌿 Ceramics Inspired by Nature 🌅 Los Angeles 10%off code: INSTAGRAM ⬇️ _ LINK TO SHOP_ ⬇️
     location: "United States"
-    followers: 102399
-    engagement: 200
-    commentsToLikes: 0.012375
+    followers: 115115
+    engagement: 154
+    commentsToLikes: 0.014442
     id: ck139vakwnaid0i19iepsgowv
     verified: false
-    hashtags: "#barktexture, #unique, #losangelesartists, #natureinspiration"
-  - username: "dannywangdesign"
+    hashtags: "#whimsical, #teaceremony, #succulentpot, #woodinspiration"
+  - username: "joshreef"
     fullname: >-
-      DANNY WANG DESIGN BUILD
+      Josh Reef
     bio: >-
-      We design and/or build pretty things 📞1-888-896-9168‬ 📧 ig@dannywang.com
+      ⭐️ Realtor @DouglasElliman 📍Los Angeles/Beverly Hills 📺 As Seen on “Extra TV” 🔑 Find/Sell Your Home 📲 (310) 728-9228
     location: "United States"
-    followers: 584319
-    engagement: 187
-    commentsToLikes: 0.071898
-    id: ck5cc57rngqtb0i115oeqvhes
+    followers: 40303
+    engagement: 310
+    commentsToLikes: 0.051240
+    id: ckf5owj1m429z0j234zxw78m8
     verified: false
-    hashtags: "#interior, #realestate, #renovation, #newportbeach"
-  - username: "ashleydaneclark"
+    hashtags: "#homedesign, #decorliving, #interiordesigner, #home"
+  - username: "mybelonging"
     fullname: >-
-      Ashley Dane Clark
+      MYBELONGING • Modern Lifestyle
     bio: >-
-      Canada Born Currently in Los Angeles @ntamodels @ntatalent Style • Interior Design • Dad Jokes • DIY
+      𝗠𝗼𝗱𝗲𝗿𝗻 𝗹𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 𝗯𝘆 𝗧𝗼𝗺𝗺𝘆 𝗟𝗲𝗶. a safe space ft. @archdigest @getclever @dominomag | home • style • travel tag #leisurelyhome for repost 🖼@tommy.lei 🔻
     location: "United States"
-    followers: 70816
-    engagement: 73
-    commentsToLikes: 0.036399
-    id: ck5q5sqyduf4h0i114tyjp551
-    verified: false
-    hashtags: "#ootd, #fashion, #accessories, #purse"
-  - username: "sulheejessica"
-    fullname: >-
-      Jessica Woo
-    bio: >-
-      Bento Box Kween ❤️ Refined and unruly. P.O. Box 370784 Las Vegas, NV 89137 @packmylunchmom for lunch ideas
-    location: "United States"
-    followers: 171415
-    engagement: 607
-    commentsToLikes: 0.020496
-    id: ck8wgf582h8ie0j78rmr9w5mt
-    verified: false
-    hashtags: "#fyp, #bentoboxlunchmom, #sulheejessica, #ad"
-  - username: "themaryfitzgerald"
-    fullname: >-
-      Mary Fitzgerald
-    bio: >-
-      Realtor & Cast of “Selling Sunset” PR/Press inquiries: Jane@janeowenpr.com Collab offers: samantha@stargazer.co Cameo: https://v.cameo.com/toQk3AYA06
-    location: "United States"
-    followers: 964628
-    engagement: 447
-    commentsToLikes: 0.025973
-    id: ck0w5knto43xn0i19rp1fcmzv
+    followers: 103246
+    engagement: 198
+    commentsToLikes: 0.019154
+    id: ck0vv2eran87t0i19efvbvmfq
     verified: true
-    hashtags: "#behindthescenes, #realestate, #luxurylifestyle, #comingsoon"
-  - username: "real_estate_inspiration_com"
+    hashtags: "#hyggehome, #japandi, #foodreels, #gantriathome"
+  - username: "bobridges"
     fullname: >-
-      Luxury Mansions & Homes
+      Bo Bridges
     bio: >-
-      🏘️Beautiful Mansion 🌇 📩DM for business 📩 💲Luxury inspiration QEDbew
+      • Commercial & Fine Art Photographer/Director • @bobridgesgallery MB | Aspen | Vail • Limited Edition Artwork, Rad Gifts, & More 👇🏼
     location: "United States"
-    followers: 15842
-    engagement: 472
-    commentsToLikes: 0.022790
-    id: ckap2zzb211rf0i78vdf6oh16
-    verified: false
-    hashtags: "#exteriors, #homebuilders, #houseaddictive, #luxurylistings"
-  - username: "exclusiverarity"
+    followers: 39428
+    engagement: 148
+    commentsToLikes: 0.033814
+    id: ck0u68az017t80i19pszb6qjs
+    verified: true
+    hashtags: "#socal, #la, #homedecor, #limitededition"
+  - username: "billionairehouse"
     fullname: >-
-      Exclusive Rarity
+      Luxury Real Estate
     bio: >-
-      Following Fashion, Tech & Luxury. #exclusiverarity
+      ❖ Showcasing The World's Top #RealEstate ❖ Division of @millionaire__homes ➞ DM For Promo/Shoutouts/Growth ⇲ Follow Top Luxury Realtor @maxhasman
     location: "United States"
-    followers: 89286
-    engagement: 101
-    commentsToLikes: 0.011888
-    id: ck0tw8lkmeduy0i19230wguau
+    followers: 552420
+    engagement: 60
+    commentsToLikes: 0.006703
+    id: ck14lp97hvsv30i19ytyoyygj
     verified: false
-    hashtags: "#billionaire, #california, #exteriordesign, #californiarealestate"
-  - username: "victoria_magrini"
-    fullname: >-
-      • V I C T O R I A •
-    bio: >-
-      Actor | Model | Athlete | Traveler 🌴 Los Angeles | Represented by Daniel Hoff Agency
-    location: "United States"
-    followers: 92638
-    engagement: 746
-    commentsToLikes: 0.017391
-    id: ck8t8d218jzg80j78mjvhg04k
-    verified: false
-    hashtags: "#girlswhoskate, #travel, #emmawatson, #skatepark"
-  - username: "abstractshares"
-    fullname: >-
-      Abstract Share Page® 🎨🖌
-    bio: >-
-      🎨|Sharing the best Abstract Art by Plogix 🔸|Join Plogix Gallery Today! 👇
-    location: "United States"
-    followers: 24432
-    engagement: 549
-    commentsToLikes: 0.022273
-    id: ckaos98a1qoeg0i78whkxw84m
-    verified: false
-    hashtags: "#abstractartorg, #artgallery, #interiorart, #abstraction"
+    hashtags: "#dreamhome, #luxuryhomes, #luxurylistings, #mansions"
 ---

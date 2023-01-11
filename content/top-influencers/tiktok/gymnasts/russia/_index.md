@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Russia In 2022
+title: Top 10 Gymnasts TikTok Influencers In Russia In 2023
 description: >-
-  Find top gymnasts TikTok influencers in Russia in 2022. Most popular hashtags: #gymnastics #sport #top #circus.
+  Find top gymnasts TikTok influencers in Russia in 2023. Most popular hashtags: #gymnastics #tiktok #amazing #russia.
 platform: TikTok
-hits: 13
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 13 TikTok influencers like this in Russia for you to contact.
+hits: 12
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Russia for you to collaborate.
 profiles:
+  - username: "polabr"
+    fullname: >-
+      polina 🦕
+    bio: >-
+      (i'll be back soon) 20 medical student & ex gymnast spb, ru my small store ↓
+    location: "Russia"
+    followers: 12000
+    engagement: 989
+    commentsToLikes: 0.025452
+    id: ckdbz3hpleujw0j23tre0zumy
+    verified: false
+    hashtags: "#indiemusic, #crochet, #mothermothermusic, #cagetheelephant"
   - username: "denchik_vitkind"
     fullname: >-
       Denis
     bio: >-
       Circus gymnast 🤸🏻‍♂️🎪 Inst: @denchik_vitkind
     location: "Russia"
-    followers: 220500
-    engagement: 830
-    commentsToLikes: 0.006489
+    followers: 231100
+    engagement: 839
+    commentsToLikes: 0.006099
     id: ck81s1xzfperw0j788sfbmv1k
     verified: false
-    hashtags: "#tutorial, #crazy, #amaizing, #workout"
-  - username: "multi_mao"
-    fullname: >-
-      Multi_Mao
-    bio: >-
-      Цель 100к Оригинальные видео с репетиций Воздушных гимнастов
-    location: "Russia"
-    followers: 97600
-    engagement: 1353
-    commentsToLikes: 0.025199
-    id: ckac8r9ugfne10i78w7cxnfmv
-    verified: false
-    hashtags: "#trick, #gymnastics, #amazing, #fyp"
-  - username: "sergey.eltsov"
-    fullname: >-
-      Sergey.eltsov✅
-    bio: >-
-      Мастер спорта международного класса🏆🥇🤸🏻‍♂️ Сборная России🔥Основной состав🔝
-    location: "Russia"
-    followers: 34100
-    engagement: 1031
-    commentsToLikes: 0.021338
-    id: ck8kdqdgz6xgc0j78r7qzut0a
-    verified: false
-    hashtags: "#gymmotivation, #artisticgymnastics, #sport, #gymnastics"
+    hashtags: "#amazing, #tutorial, #workout, #crazy"
   - username: "mix.flow"
     fullname: >-
       mix flow
     bio: >-
-      Свобода движения 🕺 Приходи ко мне не марафон! ссылка 👇
+      Свобода движения 🕺
     location: "Russia"
-    followers: 15900
-    engagement: 218
-    commentsToLikes: 0.044823
+    followers: 18200
+    engagement: 460
+    commentsToLikes: 0.054258
     id: ckdn6y5dtexa80j239zks3qfr
     verified: false
-    hashtags: "#mixflow, #calistenia, #boxing, #movementculture"
+    hashtags: "#mobilitytraining, #animalflow, #yoga, #gymnastics"
+  - username: "multi_mao"
+    fullname: >-
+      Multi_Mao
+    bio: >-
+      Цель 200K Мастер спорта по спортивной гимнастике🇰🇿 Артист цирка🇷🇺
+    location: "Russia"
+    followers: 142400
+    engagement: 1129
+    commentsToLikes: 0.013023
+    id: ckac8r9ugfne10i78w7cxnfmv
+    verified: false
+    hashtags: "#top, #trampoline, #gymnastics, #skills"
+  - username: "sergey.eltsov"
+    fullname: >-
+      Sergey.eltsov✅
+    bio: >-
+      Champion! Мастер спорта международного класса! 🌏🏆🥇🤸🏻‍♂️ Инст добейте 10к 🙏
+    location: "Russia"
+    followers: 72900
+    engagement: 878
+    commentsToLikes: 0.019641
+    id: ck8kdqdgz6xgc0j78r7qzut0a
+    verified: false
+    hashtags: "#vorkaut, #cirquedusoleil, #motivation, #streetworkout"
+  - username: "nikdotrick"
+    fullname: >-
+      nikdotrick
+    bio: >-
+      ⬇️ Донат на корм ⬇️
+    location: "Russia"
+    followers: 41800
+    engagement: 989
+    commentsToLikes: 0.024644
+    id: ck8tt7e77rrs90j78uh4yciu0
+    verified: false
+    hashtags: "#flexible, #fyp, #comedy, #gymnastics"
+  - username: "aleksasuz"
+    fullname: >-
+      Suzdaltseva Aleksa
+    bio: >-
+      🔥🔝МИСС-растяжка🔝🔥 Та самая PLASTILINKA Подписывайся 🥰🙌🏻❤️
+    location: "Russia"
+    followers: 132100
+    engagement: 1575
+    commentsToLikes: 0.019797
+    id: ckb9jpxj0b5180j23coeqvcy4
+    verified: false
+    hashtags: "#gymnastics"
   - username: "volkovalex"
     fullname: >-
       Алексей
     bio: >-
       🔛MOVEMENT ARTIST 📲INSTAGRAM: @trickoreo
     location: "Russia"
-    followers: 27100
-    engagement: 995
-    commentsToLikes: 0.014527
+    followers: 26800
+    engagement: 885
+    commentsToLikes: 0.031383
     id: ck8nhl9l81fxq0j78srz0ddhr
     verified: false
-    hashtags: "#skills, #trampoline, #flips, #beauty"
-  - username: "anna_sopkalova"
+    hashtags: "#nature, #tricking, #naturelover, #coffee"
+  - username: "vlad.i.slav.us"
     fullname: >-
-      Anna Sopkalova
+      Vladislav  Litvinenko
     bio: >-
-      Model &Trainer 🏆Miss Talent of Miss Globe 👑Miss Best Body of Miss All Nations
+      Instagram: @vladlitvinenko_official Professional Tricker🙏 ProDancer🕺🏻
     location: "Russia"
-    followers: 15400
-    engagement: 744
-    commentsToLikes: 0.023524
-    id: cka0q68yabgar0i78c7e0bwh0
+    followers: 95100
+    engagement: 1100
+    commentsToLikes: 0.013454
+    id: ck8njfygua6du0j780gseijtx
     verified: false
-    hashtags: "#cannes, #acrobatics, #handstand, #baikal"
-  - username: "davidbelyavskiy01"
-    fullname: >-
-      David
-    bio: >-
-      team Russia🇷🇺 2x medalist Olympic Games Rio 2016 🥈🥉 World champion 🥇
-    location: "Russia"
-    followers: 136000
-    engagement: 1223
-    commentsToLikes: 0.005336
-    id: cka0w1x5l11j50i785hskmcln
-    verified: true
-    hashtags: "#sport, #sports, #summer, #gym"
-  - username: "qylek"
-    fullname: >-
-      КОЛЁК
-    bio: >-
-      КОЛЁК ✅сальто, пранки, живые реакции ЧЕЛЯБА/МОСКВА лакаю за подписку в инсту👇🏻
-    location: "Russia"
-    followers: 242300
-    engagement: 905
-    commentsToLikes: 0.014325
-    id: cka5z10twknvf0i78p4iedxbx
-    verified: false
-    hashtags: "#reaction, #meme, #foryou, #flips"
-  - username: "mikemikelm"
-    fullname: >-
-      MikeMikelM
-    bio: >-
-      SUBSCRIPTION 🔜 ➡️ ❤️ LIKE 👆Inst & Vk👇
-    location: "Russia"
-    followers: 16500
-    engagement: 578
-    commentsToLikes: 0.003900
-    id: cka7oroki3uzr0i78auekq523
-    verified: false
-    hashtags: "#weekend, #brothers, #pinpong, #sea"
-  - username: "ivamosso"
+    hashtags: "#fail, #tricking, #funny, #wow"
+  - username: "ivamosso_"
     fullname: >-
       Iva Moss’o
     bio: >-
-      La scelta è sempre tua Вдохновляем и объединяем людей через наш стиль и культуру
+      Переходим на новый аккаунт @ivamosso
     location: "Russia"
-    followers: 6565
-    engagement: 248
-    commentsToLikes: 0.006429
+    followers: 7919
+    engagement: 199
+    commentsToLikes: 0.005967
     id: cka0tv44uriur0i784c88bmxm
     verified: false
-    hashtags: "#tiktok, #top, #fitness, #model"
+    hashtags: "#tiktok, #model, #girl, #popular"
 ---

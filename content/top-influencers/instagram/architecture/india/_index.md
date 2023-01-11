@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In India In 2022
+title: Top 10 Architecture Instagram Influencers In India In 2023
 description: >-
-  Find top architecture Instagram influencers in India in 2022. Most popular hashtags: #photography #india #instagram #nature.
+  Find top architecture Instagram influencers in India in 2023. Most popular hashtags: #architecture #india #sunset #moodygrams.
 platform: Instagram
-hits: 454
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 454 Instagram influencers like this in India for you to work with.
+hits: 334
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 334 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "thearchattire"
+  - username: "theinvadedcamera"
     fullname: >-
-      THE ARCH ATTIRE
+      Pune Photographer• Vinay Pinto
     bio: >-
-      Ar. Swati Sharma Fashion | Lifestyle | Architecture | Fitness | Music Work 📧: swati@thearchattire.com
+      📸 Portraits // Lifestyle // Fashion // Products //Architecture-Interiors // Food //Events & Weddings 😄 Dm / Call to get your Shoot done 📍 Pune-Mumbai
     location: "India"
-    followers: 74031
-    engagement: 44
-    commentsToLikes: 0.064065
-    id: ck5zmnkkrmvso0i14wfcplmaq
+    followers: 3224
+    engagement: 1120
+    commentsToLikes: 0.062581
+    id: ck8tbq7jrwol50j78af80o69y
     verified: false
-    hashtags: "#thearchattire, #fashion, #fitness, #influencer"
-  - username: "jalansahba"
+    hashtags: "#photography, #portraits, #punephotographers, #portraitphotography"
+  - username: "globetrottingsu"
     fullname: >-
-      Jalan Sahbá
+      Sunetra | Singapore ✈ NYC
     bio: >-
-      Interdisciplinary venturer of architecture, design, fashion and photography #bahai
+      ☼ Travel Blogger & Photographer ♡ Nature, architecture & slow fashion ✧ 55 countries with 9-5👩🏻‍🔬 ✎ globetrottingsu@gmail.com ❊ Photo & Travel Guides↡
     location: "India"
-    followers: 16164
-    engagement: 467
-    commentsToLikes: 0.022514
-    id: ck5hplidork5i0i11w7oc2rqb
+    followers: 24633
+    engagement: 585
+    commentsToLikes: 0.238581
+    id: ck0txu052kf7e0i19zn82ut1c
     verified: false
-    hashtags: "#shotoniphone, #afrodyssee, #childhood, #travelphotography"
-  - username: "_shreya_mahajan_"
+    hashtags: "#visitsingapore, #sheisnotlost, #voyaged, #travelanddestinations"
+  - username: "juans83"
     fullname: >-
-      SHIUU👑
+      Juan Sánchez
     bio: >-
-      Fashion💃🏻•Beauty✨•Travel✈️•Architecture💕 Dm for collaborations💌 👻- shiuu1998
+      📸 All pics are mine 💙 Travel, architecture, cinema 🇪🇸 @ok_spain 🅰️dmin 🇫🇷 @onlylyon 🅰️mbassador 📷 Fujifilm X-T4 & X-T2 🤝 DM / email collaboration
     location: "India"
-    followers: 15591
-    engagement: 272
-    commentsToLikes: 0.093295
-    id: ckf5oxfto460c0j23rxiw9248
+    followers: 20595
+    engagement: 1094
+    commentsToLikes: 0.036834
+    id: ck13cyhw52sfg0i19tcl3k5ou
     verified: false
-    hashtags: "#photoshoot, #photomodel, #blueaesthetic, #travelgram"
-  - username: "dy___bbuk"
-    fullname: >-
-      George Kutty™ דיבוק
-    bio: >-
-      @_the_unborn_ @geofoto_works #portrait l #arts l #architecture l #commericals l #wedding l #photographer #nikond5 & #oneplus
-    location: "India"
-    followers: 23052
-    engagement: 328
-    commentsToLikes: 0.011808
-    id: ck15qtnp74l7d0i19xyzdknmq
-    verified: false
-    hashtags: "#newbornphotography, #indianethinicwear, #wind, #quarantinelife"
-  - username: "nanna.phatt"
-    fullname: >-
-      Nanna.phat💋
-    bio: >-
-      📍Cabin crew at Bangkok Airways 📖 Interior Architecture from Chulalongkorn 🏡 Bangkok, Thailand 💕 Design and life style travel are my happiness
-    location: "India"
-    followers: 3009
-    engagement: 1049
-    commentsToLikes: 0.047302
-    id: ck8szpn0lp9ab0j78dovmsv8x
-    verified: false
-    hashtags: ""
-  - username: "hari_krishna__hk"
-    fullname: >-
-      ☬GU Hari Krishna
-    bio: >-
-      #Indian🇮🇳 #gods_own_country🌴 #thrissur Artist🎨 photographer 📷 singing, editor #architecture_student 📐 #tuttuz @hkphotographey @gangsters_united_
-    location: "India"
-    followers: 7068
-    engagement: 953
-    commentsToLikes: 0.136101
-    id: ck9wp1dd17dig0j78vu7c7kyy
-    verified: false
-    hashtags: "#malayalam, #keralagram, #kerala, #instagram"
-  - username: "karlkolah"
-    fullname: >-
-      KARL KOLAH 🇮🇳
-    bio: >-
-      📱 PHOTOGRAPHER ARCHITECTURE | TRAVEL | CARS | MOBILES #WhatKarlLoves | #TeamPixel 📩 KarlKolah@gmail.com Zindagi badi honi chahiye lambi nahi
-    location: "India"
-    followers: 35551
-    engagement: 299
-    commentsToLikes: 0.077068
-    id: ck5bwt71amd5w0i11dzvw24v2
-    verified: false
-    hashtags: "#mumbai, #gun, #cntgiveitashot, #thisisparis"
+    hashtags: "#royal, #reflection, #super, #europe"
   - username: "photosbymaharshi"
     fullname: >-
       Maharshi Patel 🇮🇳
     bio: >-
       🌏 Travel / Tech / Portrait / wedding / Architecture 📍 Mumbai, India 📩 photosbymaharshi@gmail.com
     location: "India"
-    followers: 44524
-    engagement: 598
-    commentsToLikes: 0.040358
+    followers: 43938
+    engagement: 619
+    commentsToLikes: 0.038129
     id: ck5hgxqr25bre0i11ju77e8k0
     verified: false
-    hashtags: "#sunset, #citypalaceudaipur, #udaipurdiaries, #quarantine"
+    hashtags: "#citypalaceudaipur, #djiglobal, #goa, #drone"
   - username: "theincomplete_storyy"
     fullname: >-
       Shreya | Travel & Photography
     bio: >-
       Minimalist | Traveller | Blogger the efficient/sufficient cause 🦋 Architecture, Nature, Space, Writing. DM/ Email for collaboration
     location: "India"
-    followers: 5082
-    engagement: 1629
-    commentsToLikes: 0.150984
+    followers: 4347
+    engagement: 1920
+    commentsToLikes: 0.150662
     id: ckap3bcol2ccz0i78qvwcs5j8
     verified: false
-    hashtags: "#traveller, #indiantravelbloggers, #yourshot, #travellersofindia"
-  - username: "sanskaari_kalakaar"
+    hashtags: "#streetphotography, #travelblogger, #tourist, #photographyeveryday"
+  - username: "minghan1004"
     fullname: >-
-      Akash Pratap Singh | India🇮🇳
+      Ming Han | Malaysia 🇲🇾
     bio: >-
-      Travel | Macro | Creative | Architecture #teamrealme #phoneonly Restless AF Mail for collab- singhakashpratap76@gmail.com #sanskaari_kalakaar
+      Travel Blogger | Photographer | Pharmacist 📷Sony A7iii 🇲🇾 Malaysian ❤️Travel | Hotel | Architecture | Landscape | Lifestyle 📬stanlylow@live.com
     location: "India"
-    followers: 7755
-    engagement: 1107
-    commentsToLikes: 0.112543
-    id: ck5pwhn4vmuk50i118n2ziydt
+    followers: 3266
+    engagement: 1321
+    commentsToLikes: 0.150919
+    id: ckaortdemonvl0i78xdxywvkk
     verified: false
-    hashtags: "#photographers, #phoneonly, #jeeteraho, #mobigrapher"
+    hashtags: "#londoncityworld, #igtones5k, #discoverkl, #theimaged"
+  - username: "baxirahul"
+    fullname: >-
+      Rahul Baxi
+    bio: >-
+      Doctor | Diabetes | Bombay Hospital | Architecture | Travel | Street | Singapore I’grammer of the year 2018 | @apple @natgeoasia #ExplorewithRahul
+    location: "India"
+    followers: 13664
+    engagement: 690
+    commentsToLikes: 0.081764
+    id: ck0vwyul2w9sf0i19ydg869ya
+    verified: false
+    hashtags: "#streetphotographyindia, #mumbai, #architecture, #akphotoweekend"
+  - username: "dakshkalra"
+    fullname: >-
+      Ar. Daksh Kalra | Musician
+    bio: >-
+      Singer | Artist |Musician🎤🎹🎸 Architect-SPA Delhi Architecture: @hastaakshardesignstudio Founder:@musicians_hastaakshar TheVoiceIndia3 NFT launch soon
+    location: "India"
+    followers: 20378
+    engagement: 681
+    commentsToLikes: 0.049631
+    id: ck9wdwnachlo30j788c0bmqma
+    verified: false
+    hashtags: "#songs, #reel, #explore, #reelindia"
+  - username: "towering_goals"
+    fullname: >-
+      Sanjog Mhatre
+    bio: >-
+      23. Skyscraper architecture and cityscape photographer. Shot from the top of 163 buildings and skyscrapers till date. 📍Mumbai, India.
+    location: "India"
+    followers: 22450
+    engagement: 1505
+    commentsToLikes: 0.025353
+    id: ckaox0omdb8st0i7849b7baxn
+    verified: false
+    hashtags: "#ig, #beautifuldestinations, #theimaged, #dslrofficial"
+  - username: "delhikikhansahiba_"
+    fullname: >-
+      Delhi Ki Khan Sahiba
+    bio: >-
+      Travel / Architecture / Lifestyle / Food DM for promotion/collaboration #Delhikikhansahiba 📍New Delhi, India 💌delhikikhansahiba@gmail.com
+    location: "India"
+    followers: 2825
+    engagement: 1139
+    commentsToLikes: 0.102871
+    id: ckaos2pa7pw740i784xphng2p
+    verified: false
+    hashtags: "#indialove, #delhikikhansahiba, #girlphotographer, #indiaphotos"
 ---

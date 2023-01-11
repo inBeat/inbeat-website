@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Greece In 2022
+title: Top 10 Health Instagram Influencers In Greece In 2023
 description: >-
-  Find top health Instagram influencers in Greece in 2022. Most popular hashtags: #makeitdelicious #stayhome #foodphotographyandstyling #foodartblog.
+  Find top health Instagram influencers in Greece in 2023. Most popular hashtags: #foodie #healthyfood #makeitdelicious #greece.
 platform: Instagram
-hits: 188
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 188 Instagram influencers like this in Greece for you to contact.
+hits: 132
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 132 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "athinamon.fit"
-    fullname: >-
-      𝓐𝓽𝓱𝓲𝓷𝓪 ❣️
-    bio: >-
-      𝙜𝙞𝙧𝙡 𝙤𝙣 𝙖 𝙢𝙞𝙨𝙨𝙞𝙤𝙣 🤞 🎯Making the world healthier and happier 🇬🇷Greek 🌍Herbalife Nutrition ind. distributor START your Journey ⬇️
-    location: "Greece"
-    followers: 28637
-    engagement: 226
-    commentsToLikes: 0.034632
-    id: ck9hbb0pyg38a0j784rx2pjmu
-    verified: false
-    hashtags: "#fitnessjourney, #shakelover, #nutritioniskey, #smile"
   - username: "anthivoulgari"
     fullname: >-
       Anthi Voulgari
     bio: >-
       Journalist Tv presenter Radio producer 🎙 Health, fitness & lifestyle blogger 💻 Travel lover ❤️
     location: "Greece"
-    followers: 29079
-    engagement: 737
-    commentsToLikes: 0.019669
+    followers: 42627
+    engagement: 830
+    commentsToLikes: 0.023608
     id: ck5zkeso4jcmz0i14u294cwhq
     verified: false
-    hashtags: "#welovepelion, #weddingvibes, #nature, #lovehorses"
+    hashtags: "#koinoniaoramega, #tomegatokalo, #larathefrenchieb, #sundays"
+  - username: "themomdiary"
+    fullname: >-
+      The Mom Diary - Greek Family
+    bio: >-
+      Meggie Greek/Canadian Mom of 2 boys Raw motherhood🤱 Lifestyle 🕶 Wellness🌿 Selfcare💗 Mental health⚖️ Traveling ✈️ YouTube👇
+    location: "Greece"
+    followers: 11576
+    engagement: 953
+    commentsToLikes: 0.122528
+    id: ck5q40ewhn6qm0i113xdjlzan
+    verified: false
+    hashtags: "#greeklifestyle, #greeksummer, #greekfamily, #greekbeaches"
+  - username: "katya_levin"
+    fullname: >-
+      KATYA LEVIN
+    bio: >-
+      Health • Fitness • Lifestyle Today I am a model & co owner | @hatzbykatyalevin You are ART. Create yourself over and OVER ✌🏻
+    location: "Greece"
+    followers: 22072
+    engagement: 179
+    commentsToLikes: 0.069933
+    id: ck15qc4oo24v50i19p19uazyo
+    verified: false
+    hashtags: "#oldfashion, #acaibowl, #healthylifestyle, #healthyfood"
   - username: "charisyourpersonaltrainer"
     fullname: >-
       Charis - Greece 💪
     bio: >-
       ▪️#marketing ▪️#personaltrainer ▪️ #fitness #pilates ▪️#influencer #healthylifestyle ▪️🇬🇷 #athens #greece
     location: "Greece"
-    followers: 41043
-    engagement: 364
-    commentsToLikes: 0.014334
+    followers: 40833
+    engagement: 361
+    commentsToLikes: 0.013959
     id: ckap0pbvdradn0i78fb9dbbtf
     verified: false
-    hashtags: "#charisyourpersonaltrainer, #instalifo, #monocharis, #healthylifestyle"
+    hashtags: "#healthyfood, #charisyourpersonaltrainer, #mensfitness, #greece"
   - username: "thehealthycookblog"
     fullname: >-
       Evi Skoura 🇬🇷
     bio: >-
-      Healthy Food Blogger | Recipe Developer | Food photographer Athens, GR Contact : DM or 📧info@thehealthycook.gr #thehealthycookblog
+      Healthy Food Blogger | Recipe Developer | Food photographer | Book & Plant Lover Athens GR Contact: DM or info@thehealthycook.gr #thehealthycookblog
     location: "Greece"
-    followers: 13676
-    engagement: 614
-    commentsToLikes: 0.252550
+    followers: 17412
+    engagement: 393
+    commentsToLikes: 0.161913
     id: ck8szk115oqri0j781nmk3c7g
     verified: false
-    hashtags: "#fresh, #greek, #tv, #allazoumesinithies"
-  - username: "emilycoralx"
-    fullname: >-
-      Emily Coral
-    bio: >-
-      Living my best life ✨ health nerd 🥦
-    location: "Greece"
-    followers: 160179
-    engagement: 166
-    commentsToLikes: 0.052783
-    id: ck601xantgcdf0i141j23o32w
-    verified: false
-    hashtags: "#shoot, #model, #blonde, #makeup"
-  - username: "gavaskantira"
-    fullname: >-
-      Georgia Avaskantira
-    bio: >-
-      Professional Dancer | Choreographer | Graphic designer | illustrator @parisianou.gr | Healthy pastry lover •I wish my eyes could take photos•
-    location: "Greece"
-    followers: 16625
-    engagement: 1142
-    commentsToLikes: 0.012828
-    id: ck6tiomp314du0j71hv1hp960
-    verified: false
-    hashtags: "#thebabycity, #moodoftheday, #quaxgreece, #quaxbaby"
+    hashtags: "#onourcreativetable, #foodblogfeed, #foodgloriousfood, #foodphotographyandstyling"
   - username: "letstreatourselves.gr"
     fullname: >-
       Eugenia Trousa
     bio: >-
       My Sweet, Savoury & Healthy Food Stories 🍴Food blogger 📷Food photography ✨ Food stylist 💌 Collabs:letstreatourselves@gmail.com My photos, my blog
     location: "Greece"
-    followers: 9504
-    engagement: 661
-    commentsToLikes: 0.074039
+    followers: 10466
+    engagement: 673
+    commentsToLikes: 0.091574
     id: ckaotmq80wjjv0i78j7t9470g
     verified: false
-    hashtags: "#foodphotographyandstyling, #eatprettythings, #saveurmag, #ourfoodstories"
-  - username: "hofitgolanofficial"
+    hashtags: "#ourfoodstories, #getpropped, #firstweeat, #cuisine"
+  - username: "vkikilias"
     fullname: >-
-      Hofit Golan
+      Vassilis Kikilias
     bio: >-
-      TV host. Model. Fashion & travel influencer. Winner lifestyle influencer of the year 🏆 Advocating for health, environment & Animals 👀 more on story
+      Minister of Health | Doctor | athlete | dreamer | fighter | doglover | member of parliament | in love with Athens
     location: "Greece"
-    followers: 2242820
-    engagement: 124
-    commentsToLikes: 0.041381
-    id: ck0vz41vs77180i190359drkg
+    followers: 93407
+    engagement: 259
+    commentsToLikes: 0.020627
+    id: ckap9cnv3s4bw0i78si4luu8c
     verified: true
-    hashtags: "#viewgoals, #dolomites, #motivationalquotes, #santorini"
-  - username: "filip_baf"
+    hashtags: "#rapidtest, #keepgoing, #testing, #vaccines"
+  - username: "terzidoudespoina_dietitian"
     fullname: >-
-      Filippakos Baf 🕹
+      Δέσποινα Τερζίδου
     bio: >-
-      @dubbmx @hvntclothing @takenbmx @subrosabrand @theshadowconspiracy @luvnroll @broncobar @healthandcannabis.gr @carnagesocks !! ☘️KEEP GOING☘️
+      📍 Δαβάκη 36 Σκύδρα 👩🏻‍🎓Nutritionist-Dietitian 📚 A.T.E.I Thessalonikis 👩‍🍳Love healthy cooking ❤Eat like you love yourself
     location: "Greece"
-    followers: 8847
-    engagement: 1405
-    commentsToLikes: 0.008505
-    id: ck6u04oivdli70j7103jgu7ht
+    followers: 7693
+    engagement: 855
+    commentsToLikes: 0.017544
+    id: ckaoxm55ydub50i78odtcuxly
     verified: false
-    hashtags: "#bmx, #bmxlife, #chillnotskills, #ride"
-  - username: "puremomentum"
+    hashtags: "#instafood, #healthychoices, #nutrition, #diet"
+  - username: "charalamboshadjiprodromou"
     fullname: >-
-      Dr. Αngela Spanou, Παθολόγος
+      Charalambos Hadjiprodromou
     bio: >-
-      📗Γνώση = επιλογή 👩🏻‍⚕️Internal Medicine 👩🏻‍🎓MSc Global Health Crisis 👩🏻‍🔬Preventive Medical Nutritional Therapy 🥑RecipeCreator 🌱Seagan Mum of 👱🏻‍♀️👧🏼
+      🔹️Chef at @healthydo_cy 🔹️Nicosia, Cyprus 🔹️Travel Lover 🌍 🇷🇺🇩🇪🇫🇷🇬🇧🇪🇺🇪🇸🇮🇹 🇨🇾🇮🇱🇳🇱🇭🇺🇱🇧🇬🇷🇦🇹 🔹️Moments
     location: "Greece"
-    followers: 20015
-    engagement: 408
-    commentsToLikes: 0.069067
-    id: ck8sx9s1mgmjz0j78oulgf7c6
+    followers: 14335
+    engagement: 379
+    commentsToLikes: 0.005182
+    id: ck6txhmq4xvys0j7150li7nql
     verified: false
-    hashtags: "#beetroot, #diy, #foodlover, #sweet"
+    hashtags: "#cheflife, #love, #passion, #chef"
+  - username: "avital"
+    fullname: >-
+      AVITAL COHEN
+    bio: >-
+      ✡️ #FitnessQueen I’m just a GIRL BOSS that’s building MY NEW EMPIRE. Contact 📧 avitalcollab@gmail.com
+    location: "Greece"
+    followers: 2050482
+    engagement: 451
+    commentsToLikes: 0.007396
+    id: ck15td53hhioh0i19e1gsq2mv
+    verified: true
+    hashtags: "#mood, #ad, #bangenergy, #healthylifehappylife"
 ---

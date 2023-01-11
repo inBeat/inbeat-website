@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Portugal In 2022
+title: Top 10 Travel TikTok Influencers In Portugal In 2023
 description: >-
-  Find top travel TikTok influencers in Portugal in 2022. Most popular hashtags: #portugal #fyp #travel #foryou.
+  Find top travel TikTok influencers in Portugal in 2023. Most popular hashtags: #travel #fyp #foryou #portugal.
 platform: TikTok
-hits: 20
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 20 TikTok influencers like this in Portugal for you to contact.
+hits: 21
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 21 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
   - username: "crank_lauren"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Pole. Food. Travel. Life. 🌎 Follow us on insta @polewithaview☝️🙌☺️
     location: "Portugal"
-    followers: 8142
-    engagement: 1217
-    commentsToLikes: 0.014654
+    followers: 8025
+    engagement: 1192
+    commentsToLikes: 0.013366
     id: ckb9ofa5zisjr0j239xi50zs3
     verified: false
-    hashtags: "#portugal, #fyp, #foryoupage, #polefitnessgirl"
-  - username: "pilotluana"
+    hashtags: "#fyp, #polefitnessgirl, #poledancing, #passion"
+  - username: "amynyarbaigchaboy"
     fullname: >-
-      LUANA & FRED | TRAVEL |
+      Amyn Yar Baig Chaboy
     bio: >-
-      Luana & Fred Follow us for travel inspo ♥️ IG @pilotluana
+      Artist & Traveler Hunza (Pakistan)🇵🇰 2nd Home 🇨🇦 & 🇦🇺 🇫🇷🇨🇭🇩🇪 🇵🇹
     location: "Portugal"
-    followers: 82500
-    engagement: 563
-    commentsToLikes: 0.023743
-    id: ckcjsqe7shw750j23wlbhirmo
+    followers: 14000
+    engagement: 538
+    commentsToLikes: 0.032459
+    id: ckbw5bbafxy5d0j23miojtqld
     verified: false
-    hashtags: "#travel, #portugal, #iamlost, #fyp"
+    hashtags: "#pakistani, #eurovision, #france, #lisbon"
   - username: "monicaspassport"
     fullname: >-
       Mónica Moreira
     bio: >-
       The best thing you can do is travel ❤ Find more on instagram @monicaspassport
     location: "Portugal"
-    followers: 23400
-    engagement: 338
-    commentsToLikes: 0.032249
+    followers: 23100
+    engagement: 346
+    commentsToLikes: 0.033028
     id: ckcphb1prhftr0j231wf32yt6
     verified: false
-    hashtags: "#travel, #tiktoktravel, #vietnam, #hanoi"
-  - username: "balbinno"
+    hashtags: "#hanoitrainstreet, #portugal, #tiktoktravel, #vietnam"
+  - username: "pilotluana"
     fullname: >-
-      ⭐⭐฿₳Ⱡ฿ł₦₦Ø⭐⭐
+      LUANA & FRED | TRAVEL |
     bio: >-
-      Editor de vídeos/ FanDub 🇧🇷 🇵🇹 🔴Ao vivo no Twitch.tv ✅
+      Luana & Fred Traveling is our full time job IG @pilotluana
     location: "Portugal"
-    followers: 39300
-    engagement: 1337
-    commentsToLikes: 0.058338
-    id: ck85cqi24319j0j78i64xawc1
+    followers: 87400
+    engagement: 543
+    commentsToLikes: 0.020792
+    id: ckcjsqe7shw750j23wlbhirmo
     verified: false
-    hashtags: "#zoom, #zoomchallenge, #treinandoprasermal, #traveling"
+    hashtags: "#travel, #tiktok, #maldives, #messingup"
   - username: "travelandsnorkeling"
     fullname: >-
       TravelAndSnorkeling
     bio: >-
       Bem vindos!
     location: "Portugal"
-    followers: 4729
-    engagement: 1135
-    commentsToLikes: 0.034941
+    followers: 4679
+    engagement: 1091
+    commentsToLikes: 0.026367
     id: ckc7xmvt408y90j23t2m900a4
     verified: false
-    hashtags: "#travelandsnorkeling, #ocean, #paravoce, #snorkeling"
-  - username: "explorei"
+    hashtags: "#snorkeling, #reef, #ocean, #travelandsnorkeling"
+  - username: "creativeaway"
     fullname: >-
-      Tutki Khan
+      creativeaway
     bio: >-
-      
+      Got some ideas to share #𝔦𝔪𝔞𝔤𝔦𝔫𝔢 #𝔯𝔢𝔠𝔬𝔯𝔡 #𝔠𝔯𝔢𝔞𝔱𝔢 🇵🇹✈️🌍
     location: "Portugal"
-    followers: 0
-    engagement: 977
-    commentsToLikes: 0.009417
+    followers: 41000
+    engagement: 821
+    commentsToLikes: 0.011019
     id: ckd0kjiwufynm0j23uwwxvaix
     verified: false
-    hashtags: "#travel, #portugal, #nature, #tourist"
-  - username: "edu.marza"
+    hashtags: "#budapest, #winter, #foryou, #beautiful"
+  - username: "ka_vini2"
     fullname: >-
-      Edu Marzá
+      Kaua Braz
     bio: >-
-      se te puder arrancar um sorriso,já fico feliz!
+      🇵🇹🇧🇷
     location: "Portugal"
-    followers: 3892
-    engagement: 1391
-    commentsToLikes: 0.167384
-    id: ckbfc9ya750u60j23x1boqoae
+    followers: 2319
+    engagement: 2118
+    commentsToLikes: 0.047956
+    id: ckd0qx6pfibb40j23bia5f22u
     verified: false
-    hashtags: "#comedy, #vidareal, #horadetiktoks, #geracaotiktok"
-  - username: "nathalea15"
+    hashtags: "#foryou, #brasil, #foryoupage, #porto"
+  - username: "rafaasobralw"
     fullname: >-
-      Nathália
+      𝒓𝒂𝒇𝒂𝒂🖤
     bio: >-
-      🍋 insta 🍋 💫pessoal= @amaronathi 🎨 minha lojinha de arte= @amaroartt
+      siga 6k 🥳🙌🏽
     location: "Portugal"
-    followers: 112000
-    engagement: 1638
-    commentsToLikes: 0.070742
-    id: ckb0pwyxrfqfk0j2386o2q9f5
+    followers: 5513
+    engagement: 1323
+    commentsToLikes: 0.071971
+    id: ckdhit25hypav0j23i66blifw
     verified: false
-    hashtags: "#desenho, #desenhosnostalgicos, #disneyart, #ipaddrawing"
-  - username: "numairiqbal"
+    hashtags: "#foryou, #trend, #fy, #viral"
+  - username: "its.leite"
     fullname: >-
-      Numair Iqbal
+      Tiago 👀
     bio: >-
-      #EuropeanLove🤗 Lives in Spain🇪🇸 HomeTown Chakwal,Pakistan🇵🇰
+      Amo @noah_mozart
     location: "Portugal"
-    followers: 26500
-    engagement: 760
-    commentsToLikes: 0.042506
-    id: cka0md4apuoq60i78877ur2ct
-    verified: false
-    hashtags: "#mylevismyvibe, #figueres, #bcn, #chakwalian"
-  - username: "brunoalvesfcporto"
+    followers: 215700
+    engagement: 1920
+    commentsToLikes: 0.008880
+    id: ck8tsesphradk0j780yyxql22
+    verified: true
+    hashtags: "#foryou, #fyp, #viral, #texttospeechtrend"
+  - username: "vanilda331"
     fullname: >-
-      Bruno Alves
+      Vanilda😷💓
     bio: >-
-      Gostas de futebol? Gostas de comédia? Então, de que esperas para me seguir? ⚽
+      👌💉🚑💯🙏
     location: "Portugal"
-    followers: 34000
-    engagement: 1449
-    commentsToLikes: 0.030007
-    id: ckbqq7z1pb5ce0j23ev6v9qup
+    followers: 10200
+    engagement: 958
+    commentsToLikes: 0.020211
+    id: cka7npamhxxlb0i78bmm5k18w
     verified: false
-    hashtags: "#futebolportugues, #parati, #pt, #viral"
+    hashtags: "#covid19, #vaificartudobem, #ly, #coronareport"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Norway In 2022
+title: Top 10 Nutrition Instagram Influencers In Norway In 2023
 description: >-
-  Find top nutrition Instagram influencers in Norway in 2022. Most popular hashtags: #reklame #fitness #health.
+  Find top nutrition Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #crossfit #nutrition #workout.
 platform: Instagram
-hits: 18
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 18 Instagram influencers like this in Norway for you to work with.
+hits: 16
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 16 Instagram influencers like this in Norway for you to pitch.
 profiles:
-  - username: "jeanette.astor"
+  - username: "cscoffin13"
     fullname: >-
-      Jeanette Astor 🐺 Fitness Coach
+      Corinna Coffin, MS, RD
     bio: >-
-      ▫️ Norway | Mama x3 🤍 ▫️ PT, nutritionist & coach 🔥 @ryderwear athlete - ‘ASTOR’
+      Registered Dietitian | Athlete CrossFit Games & OCR competitor🏋🏽‍♀️🏃🏽‍♀️ @altrarunning Athlete - USA Nutrition Coaching 👇🏼
     location: "Norway"
-    followers: 20734
-    engagement: 1015
-    commentsToLikes: 0.065728
-    id: ck8takllts5s90j78bjb1deuw
+    followers: 20252
+    engagement: 611
+    commentsToLikes: 0.042972
+    id: ck55kiv8rzeli0i11pxw4bzqs
     verified: false
-    hashtags: ""
-  - username: "sarahschollathlete"
-    fullname: >-
-      Sarah Scholl ATHLETE and COACH
-    bio: >-
-      🇺🇸Strength Coach/Nutrition Coach Crossfit Games Athlete MastersDegree in Sport Psychology Track&Field All-American@Georgetown U @myathleticadvantage
-    location: "Norway"
-    followers: 99781
-    engagement: 258
-    commentsToLikes: 0.036902
-    id: ck5hcjprvifb00i11nkwb3cnn
-    verified: false
-    hashtags: "#fit, #fitness, #coach, #strong"
-  - username: "maritanaess"
-    fullname: >-
-      Marita Berge Næss
-    bio: >-
-      🇳🇴 Oslo • Norway Coach/ Nutritionist at @crossfitgamlebyen Team NOCCO & Barebells @underarmournordics | @apexklinikken ✉️ maritabnaess@gmail.com
-    location: "Norway"
-    followers: 67603
-    engagement: 381
-    commentsToLikes: 0.011438
-    id: ck15ub17smao50i194rdmfkmd
-    verified: false
-    hashtags: "#postsurgerypr, #happyfriday, #wfsp800n, #truegearsports"
-  - username: "emilienutrition"
-    fullname: >-
-      Emilie Nereng
-    bio: >-
-      Forfatter av boka «Sunt og digg»🌸 B.Sc. Nutrition💚 | Foodies Podcast 🎧 Ny YouTube ute👇🏼👇🏼
-    location: "Norway"
-    followers: 113935
-    engagement: 241
-    commentsToLikes: 0.052014
-    id: ck55lurn92hi50i113d68s7ce
-    verified: false
-    hashtags: "#egenreklame, #reklame, #dilla"
-  - username: "lenealexandra"
-    fullname: >-
-      L E N E  A L E X A N D R A
-    bio: >-
-      CHANGEAGENT DNCF Master NLP Coach | Mental Trainer | PT | Nutritionist
-    location: "Norway"
-    followers: 63099
-    engagement: 123
-    commentsToLikes: 0.069304
-    id: ck5zrxlowxfwr0i148loso2u7
-    verified: true
-    hashtags: "#coachlenealexandra, #lafood, #iloveyou, #sterkere"
-  - username: "sverreglomnes"
-    fullname: >-
-      Sverre Ryland Glomnes
-    bio: >-
-      🇳🇴 24y/o Biathlon Athlete 📚 Nutritional Science 📷 @xpulse.no
-    location: "Norway"
-    followers: 2531
-    engagement: 1070
-    commentsToLikes: 0.040238
-    id: ck5bydo82oyjr0i11m5bd3kq8
-    verified: false
-    hashtags: "#skiskyting, #tjeld, #lightroom, #bioracerspeedwear"
+    hashtags: "#spartanpro, #foodforthought, #teamaltra, #repost"
   - username: "beatewibe"
     fullname: >-
       Beate Wibe | FITNESS
     bio: >-
-      YOUTUBER 🎥 24 year old norwegian girl with a love for fitness ♡ Personal Trainer & Nutrition Coach ♡ @beaybl Supportcode “BEATE”
+      YOUTUBER 🎥 24 year old norwegian girl who loves to work out🥰 ♡ Personal Trainer & Nutrition Coach ♡ @beaybl Supportcode “BEATE”
     location: "Norway"
-    followers: 21658
-    engagement: 656
-    commentsToLikes: 0.053467
+    followers: 20995
+    engagement: 356
+    commentsToLikes: 0.059804
     id: ck5zo7idlpxod0i14hu15ynlx
     verified: false
-    hashtags: "#circuit, #train, #workoutinspo, #fitnesslife"
-  - username: "weightliftingadvice"
+    hashtags: "#fitnesslife, #trainhard, #nopainnogain, #fitness"
+  - username: "sarahschollathlete"
     fullname: >-
-      Weightlifting Advice | Fitness
+      Sarah Scholl ATHLETE & COACH🇺🇸
     bio: >-
-      💪🏼 Making Weightlifting Simple 💡 Evidence-Based Content 🍊 Healthy Nutrition Tips 📍 Norway
+      Strength Coach/ Nutrition Coach CrossFit Games Athlete MastersDegree SportPsychology Track&Field All-American/Georgetown alum @myathleticadvantage
     location: "Norway"
-    followers: 4119
-    engagement: 1196
-    commentsToLikes: 0.192819
-    id: ck6uhmknf9zna0j717bycmfpd
+    followers: 104370
+    engagement: 164
+    commentsToLikes: 0.030144
+    id: ck5hcjprvifb00i11nkwb3cnn
     verified: false
-    hashtags: "#coreworkouts, #musclefitness, #dwaynetherockjohnson, #nobodyoutworksme"
+    hashtags: "#workhard, #gym, #myathleticadvantage, #fitness"
+  - username: "aaparker1"
+    fullname: >-
+      Alex Parker
+    bio: >-
+      2015 Crossfit Games Athlete 6x Regionals Athlete Lawyer turned Nutrition Coach Owner of @tacticnutrition Podcast - @afternoonsnackpodcast
+    location: "Norway"
+    followers: 43776
+    engagement: 198
+    commentsToLikes: 0.019449
+    id: ck0vweg7wtbpd0i19s7p5by66
+    verified: false
+    hashtags: "#tacticnutrition, #nutrition, #crossfit, #supplements"
   - username: "matildegarnes"
     fullname: >-
       Matilde Garnes 🇳🇴 24
     bio: >-
       ▫️Owner of @cf.trondheim ▪️Physiotheraphist, Coach & Nutritionist 🤸🏽 CrossFit Athlete CF Games 2020 qualifier REEBOK | NOCCO | BAREBELLS | ATA | HOKA
     location: "Norway"
-    followers: 27550
-    engagement: 332
-    commentsToLikes: 0.021494
+    followers: 27945
+    engagement: 382
+    commentsToLikes: 0.050262
     id: ck15ub1pdmape0i19j4nc0dkq
     verified: false
-    hashtags: "#cft, #monkeyfriday, #crossfittrondheim, #nor3f"
+    hashtags: "#ad, #theataexperience, #noccochristmaschallenge, #grinding"
+  - username: "weightliftingadvice"
+    fullname: >-
+      Weightlifting Advice | Fitness
+    bio: >-
+      💪🏼 Making Weightlifting Simple 💡 Evidence-Based Content 🍊 Healthy Nutrition Tips 📍 Norway
+    location: "Norway"
+    followers: 4161
+    engagement: 1216
+    commentsToLikes: 0.189045
+    id: ck6uhmknf9zna0j717bycmfpd
+    verified: false
+    hashtags: "#bestlifeproject, #gymbeast, #projectrock, #alwaysinbeta"
   - username: "bayleerayl"
     fullname: >-
       BAYLEE RAYL
     bio: >-
-      CHRIST | 24 | 2x CROSSFIT GAMES TEAM ATHLETE | COLLEGIATE GOLF | Nutrition Coaching & Home Workouts: 👇🏽 @wateringwellness
+      CHRIST | 24 | 2x CROSSFIT GAMES TEAM ATHLETE | COLLEGIATE GOLF | Nutrition Coaching & Home Workouts: @wateringwellness
     location: "Norway"
-    followers: 109150
-    engagement: 523
-    commentsToLikes: 0.005396
+    followers: 112298
+    engagement: 491
+    commentsToLikes: 0.005930
     id: ck135aqzl0k2u0i19pbtycxhm
     verified: false
-    hashtags: "#nobull, #beamdream, #enjoythejourney, #madetoflourish"
+    hashtags: "#gratefulthatican, #grateful, #forbettereverything, #happy"
+  - username: "sverreglomnes"
+    fullname: >-
+      Sverre Ryland Glomnes
+    bio: >-
+      🇳🇴 24y/o Biathlon Athlete 📚 Nutrition Sciences
+    location: "Norway"
+    followers: 2530
+    engagement: 1134
+    commentsToLikes: 0.041580
+    id: ck5bydo82oyjr0i11m5bd3kq8
+    verified: false
+    hashtags: "#hokaoneone, #reklame, #naturephotography, #sonya7sii"
+  - username: "carrielynnandmitchel"
+    fullname: >-
+      Carrie Beamer Mitch Stevenson
+    bio: >-
+      •ADVENTURES OF STEAMER •Grace thru Faith •CrossFit Games Athletes • #iam1stphorm •@rpstrength code MICA •@gotreign
+    location: "Norway"
+    followers: 107031
+    engagement: 182
+    commentsToLikes: 0.008837
+    id: ck0vwmykjulfm0i19whdubyqo
+    verified: false
+    hashtags: "#faithandfitness, #iam1stphorm, #crossfitguys, #fitnessgirl"
+  - username: "hogberglukas"
+    fullname: >-
+      Crossfit | Athlete | PT online
+    bio: >-
+      🇸🇪 Crossfit Games competitor - 3rd fittest on earth 2018| Athlete | @nike | @redbullsweden | @kingsbox_italia | 💥👇🏻PT Online coachning👇🏻💥 GET FIT🔥
+    location: "Norway"
+    followers: 128580
+    engagement: 200
+    commentsToLikes: 0.022360
+    id: ck5cjzv5gvtyr0i11gfkd3cp1
+    verified: true
+    hashtags: "#workoutideas, #pt, #ptonline, #fitnessfood"
 ---

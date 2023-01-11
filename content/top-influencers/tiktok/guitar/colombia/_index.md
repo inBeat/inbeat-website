@@ -1,24 +1,12 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Colombia In 2022
+title: Top 10 Guitar TikTok Influencers In Colombia In 2023
 description: >-
-  Find top guitar TikTok influencers in Colombia in 2022. Most popular hashtags: #fyp #colombia #cuarentena #foryou.
+  Find top guitar TikTok influencers in Colombia in 2023. Most popular hashtags: #fyp #colombia #viral #foryou.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Colombia for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Colombia for you to work with.
 profiles:
-  - username: "marremusicoficial"
-    fullname: >-
-      Marremusic
-    bio: >-
-      Singer • Blogger • Pr
-    location: "Colombia"
-    followers: 18800
-    engagement: 1286
-    commentsToLikes: 0.101613
-    id: ckbfflvvbadwu0j23snqwup8w
-    verified: false
-    hashtags: "#viral, #foryou, #dollskill, #latina"
   - username: "xngelx.sx"
     fullname: >-
       χиgєℓχ.ѕχ ◟̽◞̽
@@ -30,91 +18,103 @@ profiles:
     commentsToLikes: 0.005965
     id: ckbqt2bhxdvc70j23aq9ng0o5
     verified: false
-    hashtags: "#books, #guitar, #bff, #dog"
+    hashtags: "#toy, #books, #bff, #hp"
+  - username: "diegoasb16"
+    fullname: >-
+      Diego Armando Segura
+    bio: >-
+      
+    location: "Colombia"
+    followers: 36800
+    engagement: 583
+    commentsToLikes: 0.018476
+    id: ckcuy3134m9rn0j23g93zo5xe
+    verified: false
+    hashtags: "#musica, #colombia, #viral, #guitarhero"
   - username: "lily_gio"
     fullname: >-
       Lily Gio
     bio: >-
-      Riamos juntos 🇨🇴🇮🇹 INSTAGRAM @Lily_gio15 🌹🥛🌹
+      Riamos juntos 🇨🇴🇮🇹 INSTAGRAM @Lily_gio15 🌹🥛🍎🌹
     location: "Colombia"
-    followers: 4884
-    engagement: 3000
-    commentsToLikes: 0.365433
+    followers: 4787
+    engagement: 2817
+    commentsToLikes: 0.373580
     id: ckavsvzs65jgd0j23ybxuh7w9
     verified: false
-    hashtags: "#humor, #comedia, #italia, #amor"
-  - username: "carloscordero73"
+    hashtags: "#teamlosmalaleche, #italia, #anime, #amor"
+  - username: "1camilat"
     fullname: >-
-      Carlos Cordero
+      emo clown
     bio: >-
-      
+      q miras sígueme 𝐬𝐞𝐠𝐮𝐧𝐝𝐚 𝐜𝐮𝐞𝐧𝐭𝐚: 𝟏𝐚𝐥𝐰𝐚𝐲𝐬𝐬𝐚𝐝 mi playlist👇
     location: "Colombia"
-    followers: 31800
-    engagement: 319
-    commentsToLikes: 0.023100
-    id: cka637qmd36ma0i784udk62wr
+    followers: 12200
+    engagement: 2311
+    commentsToLikes: 0.039262
+    id: ckdbop2jbb58x0j230fjtsbth
     verified: false
-    hashtags: "#pareja, #tiktok, #married, #love"
+    hashtags: "#fyp, #gay, #parati, #foryou"
+  - username: "marremusicoficial"
+    fullname: >-
+      Marremusic
+    bio: >-
+      Singer • Blogger • Pr
+    location: "Colombia"
+    followers: 31200
+    engagement: 1084
+    commentsToLikes: 0.043841
+    id: ckbfflvvbadwu0j23snqwup8w
+    verified: true
+    hashtags: "#foryou, #skincare, #fyp, #beauty"
   - username: "gris272"
     fullname: >-
       Gris272
     bio: >-
       Instagram: Gris272 🇨🇴70k? ⚡️⚡️
     location: "Colombia"
-    followers: 69400
-    engagement: 420
-    commentsToLikes: 0.016191
+    followers: 69700
+    engagement: 428
+    commentsToLikes: 0.016501
     id: ckb9ofnseiumi0j23dtnbwuii
     verified: false
-    hashtags: "#cuarentena, #colombia, #famous, #challenge"
+    hashtags: "#fyp, #cuarentena, #famous, #colombia"
+  - username: "untalpatron"
+    fullname: >-
+      Patron
+    bio: >-
+      Instagram: untal_patron
+    location: "Colombia"
+    followers: 53800
+    engagement: 1366
+    commentsToLikes: 0.006970
+    id: ck83x3q5ao18a0j78wnvbgi40
+    verified: false
+    hashtags: "#cat, #tiktok, #viralvideo, #parati"
   - username: "memetaleros"
     fullname: >-
-      Metaleros 🤘🏻🤪
+      Metaleros
     bio: >-
-      
+      🤘🏻✨ Gracias por los 20k ♥️
     location: "Colombia"
-    followers: 11800
-    engagement: 864
-    commentsToLikes: 0.016857
+    followers: 24100
+    engagement: 951
+    commentsToLikes: 0.018410
     id: ckdn9oee7fum80j236ecacsmq
     verified: false
-    hashtags: "#comedia, #megadeth, #nirvana, #metal"
-  - username: "jmickemg"
-    fullname: >-
-      Micke Mosquera
-    bio: >-
-      Bogotá Col Mi objetivo de vida: Ser feliz y sonreír 😁 Insta: jmickemg
-    location: "Colombia"
-    followers: 26700
-    engagement: 209
-    commentsToLikes: 0.011211
-    id: ckb9cycbpzx5a0j23ujlgr11v
-    verified: false
-    hashtags: "#comedy, #encasa, #foryou, #music"
-  - username: "iamvalegonzalezv"
-    fullname: >-
-      Vale González V
-    bio: >-
-      Me gusta inspirar y educar :) Esto te va a gustar:
-    location: "Colombia"
-    followers: 177300
-    engagement: 1015
-    commentsToLikes: 0.010608
-    id: ckbfcq0ch5n2d0j23m14rl7ib
-    verified: false
-    hashtags: "#valegonzalezv, #icfes, #trucosparalaescuela, #foryou"
+    hashtags: "#fyp, #parati, #metallica, #davemustaine"
   - username: "maitoag2"
     fullname: >-
       Mauricio Ag
     bio: >-
       😅😅me gustaria ver su sonrisa con la que ven mis locuras😂😂
     location: "Colombia"
-    followers: 6753
-    engagement: 503
-    commentsToLikes: 0.023775
+    followers: 6882
+    engagement: 739
+    commentsToLikes: 0.024482
     id: ckan00l2eo9m10i78uemqey4e
     verified: false
-    hashtags: "#recordando, #antiktoker, #chachacha, #misgustos"
+    hashtags: "#colombia, #mipatria, #diadebrujas, #retodela"
   - username: "danielavillazon77"
     fullname: >-
       danielavillazon7777
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.015982
     id: ckc7gqkhzp75b0j23e72p2hdp
     verified: false
-    hashtags: "#teamo, #dance, #love, #amor"
+    hashtags: "#cuarentena, #soltera, #mundo, #lgbt"
 ---

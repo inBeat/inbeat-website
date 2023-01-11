@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Russia In 2022
+title: Top 10 Fashion TikTok Influencers In Russia In 2023
 description: >-
-  Find top fashion TikTok influencers in Russia in 2022. Most popular hashtags: #fashion #ootd #photooftheday #foryou.
+  Find top fashion TikTok influencers in Russia in 2023. Most popular hashtags: #fashion #fyp #ootd #aesthetic.
 platform: TikTok
-hits: 52
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 52 TikTok influencers like this in Russia for you to connect with.
+hits: 35
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 35 TikTok influencers like this in Russia for you to pitch.
 profiles:
   - username: "katyakovtunovich"
     fullname: >-
@@ -13,33 +13,21 @@ profiles:
     bio: >-
       Fashion designer, self made entrepreneur Happy moments, fun, fashion Dubai🇦🇪
     location: "Russia"
-    followers: 3380
-    engagement: 1057
-    commentsToLikes: 0.119070
+    followers: 3273
+    engagement: 1036
+    commentsToLikes: 0.140243
     id: ckbak5ncdb6500j23y8p2brh7
     verified: false
-    hashtags: "#addressskyview, #mydubai, #beachdress, #girlboss"
-  - username: "elina.go"
-    fullname: >-
-      EL
-    bio: >-
-      fashion & 1D
-    location: "Russia"
-    followers: 6744
-    engagement: 1048
-    commentsToLikes: 0.025763
-    id: ckck62udwr6t20j23o6jntmw8
-    verified: false
-    hashtags: "#xyzbca, #onedirection, #foryou, #fyp"
+    hashtags: "#addressskyview, #fyp, #foryou, #viral"
   - username: "karinanigay"
     fullname: >-
       Karina Nigay
     bio: >-
       👠FASHION LOVER INSTAGRAM 2 millions Я НАУЧУ ТЕБЯ СТИЛЬНО ОДЕВАТЬСЯ
     location: "Russia"
-    followers: 675700
-    engagement: 776
-    commentsToLikes: 0.006784
+    followers: 824200
+    engagement: 597
+    commentsToLikes: 0.009768
     id: ck920y4vkg64h0j78eqy9grwq
     verified: true
     hashtags: ""
@@ -49,82 +37,94 @@ profiles:
     bio: >-
       • Fashion & Travel Influencer • IG: @kaaaaaaaaaaat 📸 I’m trying..😅
     location: "Russia"
-    followers: 25400
-    engagement: 870
-    commentsToLikes: 0.019048
+    followers: 34000
+    engagement: 1066
+    commentsToLikes: 0.009947
     id: ck900ypkib25c0j78t5epdc85
     verified: false
-    hashtags: "#paris, #field, #picnic, #travelblogger"
+    hashtags: "#paris, #blogger, #ootd, #fashionblogger"
   - username: "fashion.world"
     fullname: >-
       Fashion
     bio: >-
       
     location: "Russia"
-    followers: 66000
-    engagement: 787
-    commentsToLikes: 0.005905
+    followers: 65900
+    engagement: 797
+    commentsToLikes: 0.005263
     id: ck81t1eahup4e0j781b67x2yq
     verified: false
-    hashtags: "#style, #instagood, #beautiful, #portrait"
-  - username: "lav_story"
+    hashtags: "#love, #like, #fashion, #modeling"
+  - username: "alinadiamondd"
     fullname: >-
-      Andrey
+      alina diamond
     bio: >-
-      You should follow my Insta since you're here already😜 ♥️ Inst.: lav_story_life
+      19 saint-p | russia ig: alinadiamondd 2 acc: alinadiamondd1
     location: "Russia"
-    followers: 406300
-    engagement: 1001
-    commentsToLikes: 0.025871
-    id: ckbbaje2szjxb0j23vfs9g04n
+    followers: 212900
+    engagement: 2012
+    commentsToLikes: 0.025110
+    id: cka0oehiq3hro0i78euiid10t
     verified: false
-    hashtags: ""
-  - username: "annakalash47"
+    hashtags: "#fashion, #foryou, #hughgrant, #90s"
+  - username: "sneakerfy"
     fullname: >-
-      Анна Калашникова
+      Sneakerfy
     bio: >-
-      Певица 🎤 Телеведущая 📺 Актриса 🎬 Бьюти-блогер 💞 Insta - 1.5 🍋 @annakalash
+      На 100к подписчиков разыграю Yeezy⬇️ Кроссовки, мода, баскетбол👌
     location: "Russia"
-    followers: 41000
-    engagement: 493
-    commentsToLikes: 0.112675
-    id: ckbfew4o7985w0j23cployyhn
-    verified: true
-    hashtags: "#beauty, #fashion, #spiderman, #irobot"
-  - username: "oleska_girl"
-    fullname: >-
-      oleska_girl🐰
-    bio: >-
-      3500✔️ 3600❌ lnst:oleska_girl моя реклама или пост:все в истограми не дорого🤙
-    location: "Russia"
-    followers: 3558
-    engagement: 837
-    commentsToLikes: 0.076135
-    id: ckbeyu2kujftz0j23snpxilji
+    followers: 37300
+    engagement: 616
+    commentsToLikes: 0.058208
+    id: ckb0u25ruje1d0j23x4hotv0i
     verified: false
-    hashtags: "#fashion, #party, #summer, #night"
-  - username: "romanoffjane"
-    fullname: >-
-      Jane
-    bio: >-
-      ♊️ Simping for Margiela and McQueen
-    location: "Russia"
-    followers: 22300
-    engagement: 1690
-    commentsToLikes: 0.010833
-    id: ckbkxhsgmte940j23jws74mkd
-    verified: false
-    hashtags: "#bellababyhappy, #lifestyle, #altstyle, #indiestyle"
+    hashtags: "#nike, #funny, #fashion, #nba"
   - username: "minecraft_and_armen"
     fullname: >-
       Armen
     bio: >-
       мы смогли набрать 500подписчиков👍😎👥!!! следующая цель🎯~700~!!!! ¯\_(ツ)_/¯
     location: "Russia"
-    followers: 5004
-    engagement: 1128
-    commentsToLikes: 0.066553
+    followers: 4910
+    engagement: 1123
+    commentsToLikes: 0.065388
     id: ckcdeeooc63jv0j23284njpwv
     verified: false
-    hashtags: ""
+    hashtags: "#ootd, #contests, #followme, #bestoftheday"
+  - username: "olga_bazhutova"
+    fullname: >-
+      Ольга Бажутова
+    bio: >-
+      Equine photographer. my Instagram @olga_bazhutova Email 8316035@gmail.com
+    location: "Russia"
+    followers: 690000
+    engagement: 1366
+    commentsToLikes: 0.004996
+    id: ckcui308lfww30j230astici1
+    verified: false
+    hashtags: "#backstage, #friesian, #horse, #horsevideo"
+  - username: "helen_yushkova"
+    fullname: >-
+      helen_yushkova
+    bio: >-
+      model 💔 creator 💎 Insta: Helen_yushkova ads@pzprod.ru
+    location: "Russia"
+    followers: 8433
+    engagement: 813
+    commentsToLikes: 0.029372
+    id: cka6a5nurv4w30i78p5cblax4
+    verified: false
+    hashtags: "#aesthetic, #backstage, #moscow, #timelapse"
+  - username: "romanoffjane"
+    fullname: >-
+      Jane
+    bio: >-
+      ♊️ Simping for Margiela and McQueen
+    location: "Russia"
+    followers: 28700
+    engagement: 1394
+    commentsToLikes: 0.009890
+    id: ckbkxhsgmte940j23jws74mkd
+    verified: false
+    hashtags: "#outfitideas, #outfitinspiration, #dreamlifestyle, #nana"
 ---

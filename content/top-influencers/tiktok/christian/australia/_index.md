@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Australia In 2022
+title: Top 10 Christian TikTok Influencers In Australia In 2023
 description: >-
-  Find top christian TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #christian #jesus #australia.
+  Find top christian TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #jesus #christian #duet.
 platform: TikTok
-hits: 45
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 45 TikTok influencers like this in Australia for you to contact.
+hits: 40
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 40 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "vintage_eskimo"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Wifey ♡ Mama bear to 3 angels ♡ road to 5K! Alternative Christian ♡
     location: "Australia"
-    followers: 3553
-    engagement: 1860
-    commentsToLikes: 0.065398
+    followers: 3495
+    engagement: 1827
+    commentsToLikes: 0.062196
     id: ckb9mhiygfrxs0j23p2uad1sn
     verified: false
-    hashtags: "#attitude, #cute, #love, #viral"
-  - username: "officialtessasol"
+    hashtags: "#tattoos, #mentalhealth, #altgirl, #girlswithtattoos"
+  - username: "official_tessasol"
     fullname: >-
       🦋 Tessa Solomon 🦋
     bio: >-
-      ✝️ Christian 🇻🇺 Melanesian 🇸🇧 Indigenous Australian 🇦🇺
+      Christian ✝️ Indigenous Australian 👣🇦🇺 Melanesian 🇻🇺🖤
     location: "Australia"
-    followers: 4094
-    engagement: 1686
-    commentsToLikes: 0.026108
+    followers: 4255
+    engagement: 1627
+    commentsToLikes: 0.030063
     id: ckb9pq2bcl3ab0j23skgzxsim
     verified: false
-    hashtags: "#jesus, #southseaislander, #australia, #christian"
+    hashtags: "#blackanddeadly, #aboriginal, #southseaislander, #fyp"
   - username: "tik_dox"
     fullname: >-
       mathewt_piukala
     bio: >-
-      Christian, Tongan, SYD - Central coast 😊
+      Christian, Married, Tongan, SYD - Central coast 😊
     location: "Australia"
-    followers: 15400
-    engagement: 1039
-    commentsToLikes: 0.052945
+    followers: 15500
+    engagement: 889
+    commentsToLikes: 0.040492
     id: ck81qq6vxix990j786b1zoe3p
     verified: false
-    hashtags: "#centralcoast, #health, #tongan, #sydney"
-  - username: "lozzabi"
-    fullname: >-
-      lauren may 🦋
-    bio: >-
-      TPWK 💛 she/her 🥰 Anglican & LGBT+ 🏳️‍🌈✝️ dms open 🦋 HELPFUL LINKS ⬇️
-    location: "Australia"
-    followers: 34600
-    engagement: 2516
-    commentsToLikes: 0.040882
-    id: ck9drtucf5h6z0j78oelk7f3k
-    verified: false
-    hashtags: "#girls, #yungblud, #wlw, #xyzcba"
+    hashtags: "#duet, #centralcoast, #tongan, #fyp"
   - username: "brandonshashati"
     fullname: >-
       bshashati
     bio: >-
-      All for God 🙌🙏 Insta: @this_is_godstruth or @brandon_shashat1 Australia -17
+      All for God 🙌🙏 Insta: @this_is_godstruth or @brandon_shashat1 Australia -18
     location: "Australia"
-    followers: 17000
-    engagement: 2779
-    commentsToLikes: 0.031403
+    followers: 17500
+    engagement: 2308
+    commentsToLikes: 0.035069
     id: ckal6f2soaume0i787wqc74fm
     verified: false
-    hashtags: "#bible, #god, #fyp, #christian"
+    hashtags: "#christian, #christianboy, #bible, #christiangirl"
+  - username: "lozzabi"
+    fullname: >-
+      lauren may 🦋
+    bio: >-
+      hiya sunflowers, dm me 🌻 she/her 🧸💛 ✞ Anglican ✞ queer 🏳️‍🌈 USEFUL LINKS ⏬
+    location: "Australia"
+    followers: 35400
+    engagement: 1841
+    commentsToLikes: 0.034621
+    id: ck9drtucf5h6z0j78oelk7f3k
+    verified: false
+    hashtags: "#christian, #xyzbca, #trending, #god"
+  - username: "kidstallionez"
+    fullname: >-
+      Henrystar
+    bio: >-
+      Follow ma insta @stallyfitness Tiktoker of Christ. God is my number 1
+    location: "Australia"
+    followers: 5126
+    engagement: 1093
+    commentsToLikes: 0.040475
+    id: ckbqbg2cex8ou0j23er82hwh6
+    verified: false
+    hashtags: "#dance, #christiantiktoker, #singer, #greenscreensticker"
   - username: "hillsongmusic"
     fullname: >-
       Hillsong Music
     bio: >-
       Music from Hillsong Church
     location: "Australia"
-    followers: 51800
-    engagement: 1218
-    commentsToLikes: 0.009884
+    followers: 56900
+    engagement: 1129
+    commentsToLikes: 0.009552
     id: ck9fipm7zbzse0j7869hd0cfa
-    verified: false
-    hashtags: "#kingofkings, #hillsongworship, #fypg, #church"
-  - username: "winniefarry"
+    verified: true
+    hashtags: "#worship, #church, #hillsong, #christian"
+  - username: "moonlight.tomorrow"
     fullname: >-
-      Winnie Farry
+      Moonlight.tomorrow
     bio: >-
-      Aus 🇦🇺 Lover of Jesus Providing: Vlogs and Entertainment Thx for 31k!! 💗
+      Much love to Emperor Naruhito
     location: "Australia"
-    followers: 31000
-    engagement: 1370
-    commentsToLikes: 0.016945
-    id: ck9flnliioyg00j78chp9gow5
+    followers: 146800
+    engagement: 1983
+    commentsToLikes: 0.094213
+    id: ckb9ioago9amt0j234logbwdd
     verified: false
-    hashtags: "#australia, #sisters, #sunset, #fyp"
-  - username: "aunty_fem"
+    hashtags: "#opinion, #stitch, #joke, #facts"
+  - username: "crownedpureblessed1"
     fullname: >-
-      poultry
+      👑 Stephanie Bennett 👑
     bio: >-
-      debunking ur best anti abortion arguements. - solidarity with polish women -
+      🌻Heal - Grow - Thrive 🌻 Stephanie Bennett Coaching
     location: "Australia"
-    followers: 10900
-    engagement: 1683
-    commentsToLikes: 0.124476
-    id: ckcpbptyefbyg0j23xqariib7
+    followers: 18400
+    engagement: 1620
+    commentsToLikes: 0.111734
+    id: cka0t7y5xoq700i784dtdoe6y
     verified: false
-    hashtags: "#biden2020, #prolife, #greenscreenvideo, #election"
-  - username: "monotheism_19"
+    hashtags: "#selflove, #narctok, #narcissisticabuse, #healing"
+  - username: "fazza_rose"
     fullname: >-
-      Monotheist
+      Rose
     bio: >-
-      I follow the CREED OF ABRAHAM ❗️No RELIGION❗️ 👇I am on Instagram 👇
+      Idk what I'm doing, so don't ask.
     location: "Australia"
-    followers: 25700
-    engagement: 599
-    commentsToLikes: 1.269087
-    id: ck9f1sr069t020j78sdngoxdx
+    followers: 3775
+    engagement: 2142
+    commentsToLikes: 0.047018
+    id: ckbqm3thh76ij0j2397i1rut8
     verified: false
-    hashtags: "#islam, #creedofabraham, #pagan, #goskate"
-  - username: "imcaelodonnell"
-    fullname: >-
-      Cael O’Donnell
-    bio: >-
-      🥇AU #1 TikTok Psychic 🔮I do Readings, Interpret Dreams+ 🎁 My gift to you ↙️
-    location: "Australia"
-    followers: 204200
-    engagement: 1019
-    commentsToLikes: 0.024013
-    id: ck8tnejolimmz0j78l2675sbs
-    verified: false
-    hashtags: "#spirituality, #fyp, #didyouknow, #psychicgifts"
+    hashtags: "#drawing, #fyp, #sketch, #photographer"
 ---

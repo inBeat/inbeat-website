@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Phoenix In 2022
+title: Top 10 Food TikTok Influencers In Phoenix In 2023
 description: >-
-  Find top food TikTok influencers in Phoenix in 2022. Most popular hashtags: #food #fyp #duet #foryou.
+  Find top food TikTok influencers in Phoenix in 2023. Most popular hashtags: #food #fyp #arizona #phoenix.
 platform: TikTok
-hits: 21
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database has 21 TikTok influencers like this in Phoenix, United States for you to work with.
+hits: 20
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 20 TikTok influencers like this in Phoenix, United States for you to work with.
 profiles:
-  - username: "tastesofaz"
+  - username: "southwestsampler"
     fullname: >-
-      TastesofAZ
+      Andrea Blake
     bio: >-
-      Venmo: TastesOfAZ 9920 S. Rural Rd. #108-101 Tempe, AZ 85284-4100
+      Experience the best in the southwest #samplethesouthwest ✨
     location: "United States"
-    followers: 39300
-    engagement: 674
-    commentsToLikes: 0.053229
-    id: ckc7w6v9szg4d0j23kri8hzfd
+    followers: 48000
+    engagement: 687
+    commentsToLikes: 0.022778
+    id: ck8s8io5mtul90j78zy6kxzzb
     verified: false
-    hashtags: "#arizona, #chandler, #eat, #arizonacheck"
+    hashtags: "#azfoodie, #samplethesouthwest, #arizona, #hikearizona"
+  - username: "jonathanchoione"
+    fullname: >-
+      Jonathan Choi
+    bio: >-
+      Food Travel NYC Born n Raised Brooklyn Venmo - Jonathanchoi1
+    location: "United States"
+    followers: 55500
+    engagement: 596
+    commentsToLikes: 0.033639
+    id: ckbf0i3grmaoi0j23ykk5ho05
+    verified: false
+    hashtags: "#azfood, #koreanfood, #kpop, #food"
   - username: "azfoodguy"
     fullname: >-
-      Arizona Foodie & Coach
+      Arizona Foodie & Weeb
     bio: >-
-      CEO of Weebs 🌵Arizona Food Influencer Follow me on Instagram for more stuff.
+      🌵Arizona Food Influencer & Weeb Showing great AZ places! Merch & Biz Inquiry 👇
     location: "United States"
-    followers: 57100
-    engagement: 1097
-    commentsToLikes: 0.053602
+    followers: 170700
+    engagement: 981
+    commentsToLikes: 0.041081
     id: ckai0ofji8gnb0i785mx5a6v2
     verified: false
-    hashtags: "#arizonahype, #tiktokfood, #yougotthis, #chandler"
-  - username: "_silver_phoenix_"
-    fullname: >-
-      Silver Phoenix
-    bio: >-
-      Follow me on Instagram: _silver_phoenix_ 🌸🌸🌸 #silverphoenix Super Nanny
-    location: "United States"
-    followers: 10800
-    engagement: 2348
-    commentsToLikes: 0.055870
-    id: ck9107hpqgor80j78e2vlc4nj
-    verified: false
-    hashtags: "#mask, #outdoors, #duet, #fail"
+    hashtags: "#arizonacheck, #scottsdale, #tempe, #tucson"
   - username: "123.cha.cha"
     fullname: >-
       💖Cha-Cha💖
     bio: >-
-      Hi, I'm Angela/Chacha!💖😁🌵🌞 2632 S 83rd Ave, Suite 100 #236 Phoenix, AZ 85043
+      Hello I'm Angela from Phoenix!🌵😁 Follow me for videos on crafts and food.💖
     location: "United States"
     followers: 11900
-    engagement: 933
-    commentsToLikes: 0.114646
+    engagement: 1150
+    commentsToLikes: 0.222525
     id: ck9fx8y3j5d870j78h4rrmvbb
     verified: false
-    hashtags: "#foryou, #duet, #sendhelp, #paint"
-  - username: "lizbeth.rivera"
-    fullname: >-
-      LizbethRivera
-    bio: >-
-      Hola!😘Ya me sigues en Instragram? 📲 @Lizbethrivera0405 Phoenix Arizona🌵🇺🇸
-    location: "United States"
-    followers: 50900
-    engagement: 778
-    commentsToLikes: 0.030436
-    id: ck9r4hf4ruxzp0j781r8u8zdt
-    verified: false
-    hashtags: "#latina, #comida, #construction, #sopes"
-  - username: "foodienightmare"
-    fullname: >-
-      Lukasz Jagiello
-    bio: >-
-      Phoenix, Arizona Facebook-Twitter-Instagram #foodienightmare
-    location: "United States"
-    followers: 175900
-    engagement: 341
-    commentsToLikes: 0.012185
-    id: ck80cr534aow30j78ykdl12w1
-    verified: false
-    hashtags: "#foodienightmare, #foodie, #food, #shunknifes"
+    hashtags: "#duet, #funny, #amigurumi, #help"
   - username: "catiedip216"
     fullname: >-
       Caitlin Marie 
     bio: >-
       Cleveland ——-> Phoenix Hablemos! Adventure🛣 Amateur cooking 😋 20K?
     location: "United States"
-    followers: 19900
-    engagement: 1110
-    commentsToLikes: 0.015967
+    followers: 19800
+    engagement: 1140
+    commentsToLikes: 0.038913
     id: ck80ooygdiwnz0j78we9ufb4k
     verified: false
-    hashtags: "#sedona, #nature, #spookytreats, #huskypuppy"
-  - username: "navidathenerd"
+    hashtags: "#vibewithme, #dialitforward, #arizona, #jinglejanglewithme"
+  - username: "foodienightmare"
     fullname: >-
-      NavidaTheNerd
+      Lukasz Jagiello
     bio: >-
-      Halloween Wax Bears & WaxSeals 20% OFF Code BOO2020 Ends November 1st
+      Phoenix, Arizona Facebook-Twitter-Instagram #foodienightmare
     location: "United States"
-    followers: 33200
-    engagement: 2480
-    commentsToLikes: 0.049703
-    id: ckcj0ofas3grb0j23st7knn00
+    followers: 175400
+    engagement: 336
+    commentsToLikes: 0.012003
+    id: ck80cr534aow30j78ykdl12w1
     verified: false
-    hashtags: "#ocean, #waxseal, #duet, #waxsealstamp"
-  - username: "jessiesayhey"
+    hashtags: "#food, #foodienightmare, #foodie, #cooking"
+  - username: "lizbeth.rivera"
     fullname: >-
-      Jess 
+      LizbethRivera
     bio: >-
-      Oh hi Insta- jessiesayhey jessiesayhey@gmail.com PO Box 4507 Yuma, AZ 85366
+      Hola!😘Ya me sigues en Instragram? 📲 @Lizbethrivera0405 Phoenix Arizona🌵🇺🇸
     location: "United States"
-    followers: 446600
-    engagement: 2602
-    commentsToLikes: 0.007347
-    id: ck7zozna7mpg30j78uo2o4xf8
+    followers: 50300
+    engagement: 693
+    commentsToLikes: 0.028291
+    id: ck9r4hf4ruxzp0j781r8u8zdt
     verified: false
-    hashtags: "#recipes, #creator, #cravings, #yummy"
-  - username: "asuntagaribay"
+    hashtags: "#cena, #sopes, #comida, #comidamexicana"
+  - username: "afg.kustomkydex"
     fullname: >-
-      Asunta Garibay
+      afg.kustomkydex
     bio: >-
-      I’m a chef with personality and opinions!! Enjoy!
+      Phoenix, AZ Life Kydex holsters
     location: "United States"
-    followers: 9255
-    engagement: 472
-    commentsToLikes: 0.043255
-    id: ckcjbj1z48zo00j23yycwvf3k
+    followers: 7998
+    engagement: 592
+    commentsToLikes: 0.061699
+    id: ck9ndl1g1cvoz0j78tq3zetoh
     verified: false
-    hashtags: "#fyp, #foryoupage, #fitness, #foodie"
+    hashtags: "#kydexholster, #fyp, #kydex, #holster"
+  - username: "lamorena76"
+    fullname: >-
+      Karina Escarcega
+    bio: >-
+      PHOENIX AZ📍 🏳️‍🌈 Follow the insta klamorena88
+    location: "United States"
+    followers: 2169
+    engagement: 186
+    commentsToLikes: 0.026451
+    id: ckbf63iz7vlau0j23fk34dnm9
+    verified: false
+    hashtags: "#4wheeler, #felizconmiamorcito, #atvs, #rzrs"
+  - username: "phoenixherp"
+    fullname: >-
+      Reptile Sanctuary 🐊
+    bio: >-
+      USA’s largest reptile sanctuary! Katelyn 💜🦎 Address on IG Venmo @Phoenixherp
+    location: "United States"
+    followers: 960100
+    engagement: 1147
+    commentsToLikes: 0.012919
+    id: ck8z9scc8z6gw0j78i0zymq79
+    verified: true
+    hashtags: "#itwasntme, #getreadywitholdspice, #otter, #arizona"
 ---

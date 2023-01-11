@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Finland In 2022
+title: Top 10 Cosmetics Instagram Influencers In Finland In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Finland in 2022. Most popular hashtags: #makeup #beauty #cosmetics #makeupartist.
+  Find top cosmetics Instagram influencers in Finland in 2023. Most popular hashtags: #makeup #beauty #cosmetics.
 platform: Instagram
 hits: 11
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 11 Instagram influencers like this in Finland for you to collaborate.
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in Finland for you to work with.
 profiles:
   - username: "annekukkohovi"
     fullname: >-
       Anne Kukkohovi
     bio: >-
-      Eco Cosmetics Queen & Rap Lover 💓 info@supermood.fi 💓 Founder @supermoodbeauty 💓 Co-founder @luvacare 💓 Web @dsgnrs.fi
+      Eco Cosmetics Queen 💓 info@theannekukkohovi.com 💓 Founder @supermoodbeauty 💓 Co-founder @luvacare 💓 Web @dsgnrs.fi
     location: "Finland"
-    followers: 37849
-    engagement: 437
-    commentsToLikes: 0.037660
+    followers: 40022
+    engagement: 401
+    commentsToLikes: 0.038712
     id: ck6tt7c7a90zp0j719zj0s4z7
     verified: true
-    hashtags: "#kotiscandic, #koticlassic, #koticlassicplus, #gingerpeoplesuomi"
-  - username: "eeviteittinen"
-    fullname: >-
-      Eevi Teittinen
-    bio: >-
-      ⭐HOHDE Organic Cosmetics Ambassador ❤ Life & Sport Coach 💚 Interior @eevidesign 🧡 Training Camps @activecampfinland 💙Email eevi@eeviteittinen
-    location: "Finland"
-    followers: 114606
-    engagement: 241
-    commentsToLikes: 0.005865
-    id: ck6ucs71wh8wh0j71tnymkalk
-    verified: true
-    hashtags: "#doglife, #kotimaanmatkailu, #vacation, #autumn"
+    hashtags: "#yhteistyo, #sharethelove, #finaali, #romuttaustalla"
   - username: "tinatevosyan_beautycenter"
     fullname: >-
-      Tina Tevosyan Beauty Center
+      Tina Tevosyan
     bio: >-
       💄Founded by @makeuptinaa 📍Yerevan, Baghramyan 85 Marketing 📱 +374 98 908264 👇🏼Join our FB page
     location: "Finland"
-    followers: 86589
-    engagement: 107
-    commentsToLikes: 0.006012
+    followers: 89238
+    engagement: 89
+    commentsToLikes: 0.003522
     id: ck6ueah20prxl0j71yxjzum2c
     verified: false
-    hashtags: "#hairdresser, #topmakeup, #weddingmakeup, #hairfashion"
-  - username: "tuulaslife"
+    hashtags: "#hairby, #makeupartist, #pinklips, #day"
+  - username: "laura.kaartinen"
     fullname: >-
-      Tuula / Tuula's life
+      Laura | Lifestyle | Sport
     bio: >-
-      Moments of my life ❤️ Lifestyle blogger Turku Finland Lue uusin juttu blogista ↙️
+      𝕄𝕠𝕞𝕞𝕪𝕝𝕚𝕗𝕖 𝕨𝕚𝕥𝕙 𝕥𝕙𝕣𝕖𝕖👧🏼👦🏼👧🏼 𝕊𝕡𝕠𝕣𝕥 𝕚𝕤 𝕞𝕪 𝕡𝕒𝕤𝕤𝕚𝕠𝕟❤️ 𝔾𝕠𝕠𝕕𝕧𝕚𝕓𝕖𝕤 𝕒𝕟𝕕 𝕟𝕠𝕥 𝕤𝕠 𝕤𝕖𝕣𝕚𝕠𝕦𝕤𝕝𝕪 Collab➡️Dm ✉️ •@place_oflove •Linkit👇🏼Klikkaa auki 🎀
     location: "Finland"
-    followers: 5545
-    engagement: 788
-    commentsToLikes: 0.101777
-    id: ck13a03b6nykf0i19nnzso8q7
+    followers: 9233
+    engagement: 865
+    commentsToLikes: 0.180607
+    id: ck9hck99glsd90j78hx3r1844
     verified: false
-    hashtags: "#archipelago, #yescellbes, #linkkiprofiilissa, #marraskuu"
+    hashtags: "#homesweethome, #smile, #inked, #mommylife"
   - username: "blvckmurose"
     fullname: >-
       Aundrey
     bio: >-
       ° Scandinavian Cypriot Mastered Makeup artist x stylist
     location: "Finland"
-    followers: 6202
-    engagement: 592
-    commentsToLikes: 0.015426
+    followers: 6142
+    engagement: 593
+    commentsToLikes: 0.015362
     id: ck5c5ry7h41jg0i11xcvxf7jb
     verified: false
-    hashtags: "#aesthetic, #ocean, #fashion, #beigeaesthetic"
-  - username: "ainopans"
+    hashtags: "#beautiful, #style, #makeupartist, #parisianchic"
+  - username: "_giuliabeautycorner_"
     fullname: >-
-      Aino [EYE-no]
+      🌸 𝓖𝓲𝓾𝓵𝓲𝓪 𝓑𝓮𝓪𝓾𝓽𝔂 𝓒𝓸𝓻𝓷𝓮𝓻 🌸
     bio: >-
-      🌿from Finland 🌻she/her 🍊I love all things beauty and skincare, from luxury to drugstore 👶🏼midwife by day, beauty blogger by night 🌞ainopans@gmail.com
+      𝓖𝓲𝓾𝓵𝓲𝓪💄 @giulia_mattiello._ ᴠɪᴄᴇɴᴢᴀ, ɪᴛ. 𝕝𝕚𝕡𝕤𝕥𝕚𝕔𝕜 𝕝𝕠𝕧𝕖𝕣: ʟɪɴᴋs:
     location: "Finland"
-    followers: 10741
-    engagement: 551
-    commentsToLikes: 0.031939
-    id: ck8t3u83r4iit0j78pwtrce36
+    followers: 9914
+    engagement: 529
+    commentsToLikes: 0.285902
+    id: ck8t79q7ag1yi0j78ykgjdp6r
     verified: false
-    hashtags: "#highlighter, #makeup, #toofaced, #natashadenonametropolispalette"
-  - username: "noorasusann"
+    hashtags: "#avonuk, #facecream, #photo, #christmas"
+  - username: "cesar_leonn"
     fullname: >-
-      Noora Susanna 🌸
+      Cesar Leon
     bio: >-
-      FIN 🇫🇮 / PH 🇵🇭 📍Finland 🌷☀️ Blog ⤵️
+      Maquillista 💁‍♀️💅👄💄 23 años Leo 🦁 Cachanilla 🔥💯
     location: "Finland"
-    followers: 2482
-    engagement: 2117
-    commentsToLikes: 0.045437
-    id: ck5bzewc5r08a0i117gsj25py
+    followers: 98554
+    engagement: 525
+    commentsToLikes: 0.021418
+    id: ck8t9da2wno440j78pjkt1wdb
     verified: false
-    hashtags: "#smallmomentsofcalm, #asennesurf, #surfsup, #skincare"
-  - username: "katherinekuzin"
-    fullname: >-
-      Katherine 🐁
-    bio: >-
-      📍Helsinki Full of trouble.
-    location: "Finland"
-    followers: 21331
-    engagement: 399
-    commentsToLikes: 0.020981
-    id: ck0ubm4bhevok0i19bovpc199
-    verified: false
-    hashtags: "#gothgirl, #gothicmakeup, #spookygirl, #gothgoth"
+    hashtags: "#menthatblend, #mondaysbymitchell, #transformationtuesday, #makeupartistworldwide"
   - username: "emma.dragon"
     fullname: >-
       🐉Emma🐉
     bio: >-
       💄Makeup Enthusiast 📩 Contact: emma.dragon@hotmail.com 📍Helsinki, Finland
     location: "Finland"
-    followers: 18234
-    engagement: 585
-    commentsToLikes: 0.040947
+    followers: 17830
+    engagement: 603
+    commentsToLikes: 0.041017
     id: ck6uhcgpy8ben0j71oxyw06qz
     verified: false
     hashtags: ""
+  - username: "bangtsikitsiki"
+    fullname: >-
+      𝐏𝐄𝐓𝐑𝐀 𝐌𝐈𝐄𝐓𝐓𝐈𝐍𝐄𝐍
+    bio: >-
+      ✖ Helsinki, Finland ✖ 𝔸𝕣𝕥𝕚𝕤𝕥 in progress ✖ ᴄᴏɴᴛᴀᴄᴛ 》bangtsikitsiki@ɢᴍᴀɪʟ.ᴄᴏᴍ
+    location: "Finland"
+    followers: 253397
+    engagement: 455
+    commentsToLikes: 0.019252
+    id: ck0ua7p5sbp1e0i199hiuv1rl
+    verified: false
+    hashtags: "#holiday, #valentines, #geometry, #glittermakeup"
   - username: "dhayricci"
     fullname: >-
       Dhay Ricci
     bio: >-
       💁🏽‍♀️| SOCIAL MAKEUP SPECIALIST 👰🏼|BRIDAL MAKEUP 👩🏼‍🎓| CURSOS - INICIANTE 🧑🏼‍🎨|PERFECCIONAMIENTO Tutoriales y más... 💌|Agenda⬇️
     location: "Finland"
-    followers: 21578
-    engagement: 193
-    commentsToLikes: 0.140481
+    followers: 21226
+    engagement: 219
+    commentsToLikes: 0.162646
     id: ck6ti46wb007t0j711em8r2mm
     verified: false
-    hashtags: "#makeupartist, #makeupartistvzla, #podermua, #musuquerida"
+    hashtags: "#beach, #lovetahiti, #allmodernmakeup, #xmasglam"
+  - username: "makeupby.esca"
+    fullname: >-
+      Makeupby.esca
+    bio: >-
+      ————————————————— 💄 Professional Makeup Artist 💌 makeupby.esca@gmail.com 🚫 No DM 📍 Finland —————————————————
+    location: "Finland"
+    followers: 24297
+    engagement: 446
+    commentsToLikes: 0.010613
+    id: ck15t6quggmge0i19gj5xeydp
+    verified: false
+    hashtags: "#eyelashes, #meikki, #dressyourface, #highlights"
 ---

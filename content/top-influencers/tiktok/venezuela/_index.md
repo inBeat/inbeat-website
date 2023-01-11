@@ -1,12 +1,48 @@
 ---
-title: Top 10 TikTok Influencers In Venezuela In 2022
+title: Top 10 TikTok Influencers In Venezuela In 2023
 description: >-
-  Find top TikTok influencers in Venezuela in 2022. Most popular hashtags: #fyp #parati #venezuela #foryou.
+  Find top TikTok influencers in Venezuela in 2023. Most popular hashtags: #fyp #parati #foryou.
 platform: TikTok
-hits: 279
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 279 TikTok influencers like this in Venezuela for you to pitch.
+hits: 286
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 286 TikTok influencers like this in Venezuela for you to collaborate.
 profiles:
+  - username: "juandacorte"
+    fullname: >-
+      Juan Da Corte
+    bio: >-
+      👨‍🎨🇻🇪 SI QUIERES QUE TE DIBUJE CHECA ESTE LINK ⬇️
+    location: "Venezuela"
+    followers: 169800
+    engagement: 1948
+    commentsToLikes: 0.043508
+    id: ckc7p0lhxurok0j23872197qz
+    verified: false
+    hashtags: "#art, #fanart, #pintura, #juandacorte"
+  - username: "emibontemps"
+    fullname: >-
+      Emily Bontemps
+    bio: >-
+      Sígueme aquí ↗️ Hija de Dios💓 Mi canal de YouTube⬇
+    location: "Venezuela"
+    followers: 94900
+    engagement: 2466
+    commentsToLikes: 0.063075
+    id: ckdhsqz142mgd0j23zb6tmuds
+    verified: false
+    hashtags: "#fe, #parati, #fyp, #reflexion"
+  - username: "loren.wassouf"
+    fullname: >-
+      loren 
+    bio: >-
+      🏳️‍🌈💚💜 Potterhead ❤️💛💙💚
+    location: "Venezuela"
+    followers: 279700
+    engagement: 1908
+    commentsToLikes: 0.039221
+    id: ckcegleqeny5q0j23jyeqcd30
+    verified: false
+    hashtags: "#lentejas, #venezuela, #fyp, #religion"
   - username: "isamuelgomez"
     fullname: >-
       🇸 🇴 🇾  🇸 🇦 🇲
@@ -19,112 +55,76 @@ profiles:
     id: ckbfhervqctqx0j237doq8t26
     verified: false
     hashtags: "#greenscreen"
-  - username: "anavallee"
+  - username: "dr.henderchuello"
     fullname: >-
-      Ana Vallee
+      Hender Chuello
     bio: >-
-      Venezolana🇻🇪 800k?🔥 Instagram: @anavallee Youtube: Ana Vallee +27k subs😍 ⬇
+      Médico especialista en estética y rejuvenecimiento facial💉IG: @Dr.HenderChuello
     location: "Venezuela"
-    followers: 777700
-    engagement: 2417
-    commentsToLikes: 0.020336
-    id: ckc7der9imvj90j232vsxdbf2
+    followers: 516900
+    engagement: 1827
+    commentsToLikes: 0.047518
+    id: ckd16ufmnnwyj0j230506md7l
     verified: false
-    hashtags: "#comedia, #casosmisteriosos, #amongus, #terror"
-  - username: "emibontemps"
-    fullname: >-
-      Emily Bontemps
-    bio: >-
-      Sígueme aquí ↗️ Hija de Dios💓 En vivo🔴Viernes 11:00pm🇻🇪 Mi canal de YouTube⬇
-    location: "Venezuela"
-    followers: 80400
-    engagement: 2214
-    commentsToLikes: 0.061144
-    id: ckdhsqz142mgd0j23zb6tmuds
-    verified: false
-    hashtags: "#dios, #jovenescristianos, #chicacristiana, #paz"
+    hashtags: "#drhenderchuello, #doctor, #drtiktok, #cuarenton"
   - username: "inemesis102"
     fullname: >-
       *💖 inemesis102💖*
     bio: >-
       😈DARK QUEEN😈 dejame tocar tu corazon...y hagamos magia para que puedas sonreir
     location: "Venezuela"
-    followers: 161600
-    engagement: 2204
-    commentsToLikes: 0.077858
+    followers: 279700
+    engagement: 1668
+    commentsToLikes: 0.040568
     id: ckc8znjl1opwy0j238hnrcejz
     verified: false
-    hashtags: "#monsterhihg, #demikas, #legiondar, #storytime"
-  - username: "manuelejs_"
-    fullname: >-
-      Manuel Jimenez
-    bio: >-
-      Te regalo un 🐶 si me sigues en IG❤ 140k?
-    location: "Venezuela"
-    followers: 138900
-    engagement: 1925
-    commentsToLikes: 0.034673
-    id: ckc8gekggau3b0j239hg0gkcj
-    verified: false
-    hashtags: "#parati, #mujeres, #fyp, #desamor"
-  - username: "lorepereda7"
-    fullname: >-
-      💙L💚
-    bio: >-
-      🇻🇪 ⚠️Contest +18⚠️ Occosplay / Maquillaje / Fantasía / Gothic / Comedia
-    location: "Venezuela"
-    followers: 12800
-    engagement: 2255
-    commentsToLikes: 0.052939
-    id: ckbffupahasy50j23ffx96j7r
-    verified: false
-    hashtags: "#challenge, #laordendelterror, #timburton, #tiktoklatino"
-  - username: "beaulilful"
-    fullname: >-
-      trish ʕ ꈍᴥꈍʔ
-    bio: >-
-      🧃🦦🧦🐛🪐 she/her dm's open! (minor)
-    location: "Venezuela"
-    followers: 3251
-    engagement: 1721
-    commentsToLikes: 0.084154
-    id: ckbqj3ib749nn0j23e19mkgx6
-    verified: false
-    hashtags: "#vnzla, #indie, #fyp, #wlw"
+    hashtags: "#fyp, #legiondark, #jackson, #foryou"
   - username: "valemachuk"
     fullname: >-
       Valeria Machuca
     bio: >-
       19 🦋 intentando hacer del mundo un lugar mejor ❤️ mi canal de YouTube 👇🏼
     location: "Venezuela"
-    followers: 1800000
-    engagement: 2542
-    commentsToLikes: 0.011319
+    followers: 2700000
+    engagement: 2665
+    commentsToLikes: 0.013989
     id: ckamgxfd7druc0i78pmessuhp
     verified: false
-    hashtags: ""
-  - username: "ariperez_"
+    hashtags: "#consejos, #amorpropio, #consejosdevida, #leydelaatraccion"
+  - username: "lorepereda7"
     fullname: >-
-      Arii
+      MortyMOON🌙
     bio: >-
-      Hey solo trato de dar la mejor parte de mi 👼🏼 10k? 🇪🇸🇻🇪
+      🇻🇪 ⚠️Contest +18⚠️ 🚫SpamLike=Block ✨ 20K! ✨ Occosplay / Comedia / Cosplay /
     location: "Venezuela"
-    followers: 8947
-    engagement: 2004
-    commentsToLikes: 0.044853
-    id: ckbbmfla6akdv0j235cj1j35a
+    followers: 20400
+    engagement: 1968
+    commentsToLikes: 0.060961
+    id: ckbffupahasy50j23ffx96j7r
     verified: false
-    hashtags: "#paratipage, #foryou, #fyp, #indie"
-  - username: "karianam"
+    hashtags: "#fyp, #madison, #wolf, #foryou"
+  - username: "mariapaulinarm"
     fullname: >-
-      Kariana Martínez
+      María Paulina
     bio: >-
-      Vamos por los 10K 🇻🇪 ✨Sígame en Instagram también: @Kariana_m @karianasmakeup
+      Business: mariapaulinabusiness@gmail.com Venezuela 🦋🦋🦋
     location: "Venezuela"
-    followers: 9937
-    engagement: 1496
-    commentsToLikes: 0.081599
-    id: ckbex4jpkh8vj0j23wb8dssrl
+    followers: 418700
+    engagement: 1934
+    commentsToLikes: 0.018571
+    id: ckbkl4j13eacl0j23921zx72h
     verified: false
-    hashtags: "#playa, #puravida, #life, #friends"
+    hashtags: "#makeup, #monterreychallenge, #glowup, #crush"
+  - username: "karigoz"
+    fullname: >-
+      Karina🦋
+    bio: >-
+      νєηєzσℓαηα🇻🇪¢υαяєηтσηα✌🏼 α¢υαяιαηα♒️νινє у ∂єנα νινιя💖
+    location: "Venezuela"
+    followers: 9469
+    engagement: 3034
+    commentsToLikes: 0.442256
+    id: ckb0i7gwf9nnk0j23qb6ymocw
+    verified: false
+    hashtags: "#karigoz, #foryou, #acuarianas, #venezolana"
 ---

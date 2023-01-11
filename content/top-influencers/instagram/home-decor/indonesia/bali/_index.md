@@ -1,36 +1,60 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Bali In 2022
+title: Top 10 Home Decor Instagram Influencers In Bali In 2023
 description: >-
-  Find top home decor Instagram influencers in Bali in 2022. Most popular hashtags: #homedecor #bali #interiordesign #interior.
+  Find top home decor Instagram influencers in Bali in 2023. Most popular hashtags: #homedecor #homedecoration #homesweethome #bali.
 platform: Instagram
-hits: 23
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 23 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 19
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 19 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "coffeetomoto"
+  - username: "wearedesignassembly"
     fullname: >-
-      Nita Tomo
+      D E S I G N   A S S E M B L Y
     bio: >-
-      |everywhere coffee's available| •☕️ Dopamine Hunter• ~📸 Serious shot @nitatomoto
+      Architecture & Design Studio based in Bali Studio visits by appointment only
     location: "Indonesia"
-    followers: 27963
-    engagement: 412
-    commentsToLikes: 0.087834
-    id: ck0vzwwfcbado0i19db204fnn
+    followers: 10322
+    engagement: 339
+    commentsToLikes: 0.010656
+    id: ck1347ovzv4dd0i193zivdl63
     verified: false
-    hashtags: "#baristadaily, #balivibes, #flatlaystyle, #homedecor"
-  - username: "baliinteriors"
+    hashtags: "#architecturephotography, #offplan, #architecturelovers, #dreamland"
+  - username: "steffisanta"
     fullname: >-
-      BALI INTERIORS by @sheilaman_
+      Steffi Santa
     bio: >-
-      Photographing the best Interiors in Bali & beyond. Creative direction for homewares and lifestyle brands. DM me for enquires. www.bali-interiors.com
+      🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
     location: "Indonesia"
-    followers: 58153
-    engagement: 198
-    commentsToLikes: 0.036712
-    id: ck1347obtv4a70i198g3sfm1b
+    followers: 13636
+    engagement: 327
+    commentsToLikes: 0.029745
+    id: ck8sx7vvzggci0j78zgcb3gwn
     verified: false
-    hashtags: "#hunkerhome, #interior444, #baliinteriors, #bedroomgoals"
+    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
+  - username: "ebi.ebie"
+    fullname: >-
+      Ebi Ebie | Home decor
+    bio: >-
+      🏡 LT/LB: 88/66m (2KT+1, 2KM) 🎥 D'sign Net, DAAITV, MendekorIndonesia 📷 Asrinesia, Tab.Rumah 🌐 IDNTimes Yg punya @kebunebi . http://y2u.be/Jfb6rkgYlSc
+    location: "Indonesia"
+    followers: 42303
+    engagement: 100
+    commentsToLikes: 0.174372
+    id: ck13ar3uprrc50i19d2zuevfr
+    verified: false
+    hashtags: "#idedekorasirumah, #gamirrorreflectiondecoration, #instahome, #endorsement"
+  - username: "drg_diahnovi"
+    fullname: >-
+      diahnovi
+    bio: >-
+      I’m a dentist but I love decorating my home... wife and mom @nadiahsalsabila @ravoletta #homedecorloversid 📍Malang Indonesia DM for inquiries✨
+    location: "Indonesia"
+    followers: 24618
+    engagement: 261
+    commentsToLikes: 0.244615
+    id: ck8t501dg8eh90j78ivdbh0at
+    verified: false
+    hashtags: "#gamirrorreflectiondecoration, #giveaway, #homedecorloversid, #endorse"
   - username: "nurrin_nurrinawati"
     fullname: >-
       ɴᴜʀʀɪɴᴀᴡᴀᴛɪ
@@ -42,79 +66,19 @@ profiles:
     commentsToLikes: 0.311897
     id: ck8t5048e8eqc0j78a1roxgpt
     verified: false
-    hashtags: "#dekorasirumah, #instahome, #inspirasirumah, #homesweethome"
-  - username: "wearedesignassembly"
-    fullname: >-
-      D E S I G N   A S S E M B L Y
-    bio: >-
-      Architecture & Design Studio based in Bali Studio visits by appointment only
-    location: "Indonesia"
-    followers: 9391
-    engagement: 429
-    commentsToLikes: 0.011935
-    id: ck1347ovzv4dd0i193zivdl63
-    verified: false
-    hashtags: "#interiors, #architect, #lumion, #interiordesign"
-  - username: "ibukubali"
-    fullname: >-
-      Elora Hardy — IBUKU Studio
-    bio: >-
-      Magical spaces, inspired by nature. Experiential bamboo architecture and design for commercial and residential projects in Bali and around the world.
-    location: "Indonesia"
-    followers: 68341
-    engagement: 132
-    commentsToLikes: 0.007790
-    id: ck13cnhg4183g0i19t0lvdv4y
-    verified: false
-    hashtags: "#greenbuilding, #behindthedesign, #sustainablearchitecture, #sustainability"
-  - username: "greenvillagebali_"
-    fullname: >-
-      Green Village
-    bio: >-
-      A unique community of homes custom designed by @ibukubali from bamboo on the banks of Ayung River, Bali. Book your stay bit.ly/stayatgreenvillage
-    location: "Indonesia"
-    followers: 32954
-    engagement: 129
-    commentsToLikes: 0.011840
-    id: ck5c3ev4oz6q80i11v409ofk7
-    verified: false
-    hashtags: "#interiorstyling, #repost, #livinginthejungle, #bali"
-  - username: "brigidalourdes"
-    fullname: >-
-      🌈 Welcome to my dreamy world 🌈
-    bio: >-
-      Founder @iwearlourdes Creative Director🌻Fashion Stylist @misslourdes_portfolio Set Designer 🌸 Buy or Rental : @missaudrey_wardrobe 🌼 Work: Email/DM
-    location: "Indonesia"
-    followers: 26138
-    engagement: 87
-    commentsToLikes: 0.109162
-    id: ck0tvg84tb7tf0i19npgjwh98
-    verified: false
-    hashtags: "#fashiondesigner, #interior, #wanderlust, #hotelreviewer"
+    hashtags: "#inspirasirumah, #pojokfavorit, #dekorasirumah, #instadecor"
   - username: "rumahputihabuabu"
     fullname: >-
       rumahputihabu2
     bio: >-
-      🏠Dokumentasi putihabu2❤ 👩 yunitaaaa👨‍👩‍👧‍👧 By @yunita_widyartanti 📸 just share and sharing LT 105m2// LB145m2 Endorse/PP 🔛 DM Home Ideas ⬇️
+      🏠Dokumentasi putihabu2❤ 👩 yunita👨‍👩‍👧‍👧 By @yunita_widyartanti LT 105m2// LB145m2 Endorse/PP 🔛 DM Produk hdi @hdi_jatiasihbekasi Join member HDI ⬇️
     location: "Indonesia"
-    followers: 42641
-    engagement: 93
-    commentsToLikes: 0.202262
+    followers: 43444
+    engagement: 83
+    commentsToLikes: 0.203988
     id: ck55odiq285j70i11o7ijy1qq
     verified: false
-    hashtags: "#homedecor, #ruangkeluarga, #inspirasirumah, #designinspirasi"
-  - username: "bohemian_interior_decor"
-    fullname: >-
-      Bohemian Inspirations
-    bio: >-
-      🌿Colorful, Rustic, Eclectic, Scandinavian Styles 🌵Bohemianathome@gmail.com 📩 🌿Regram 📸 #BIDathome 🌵Daily inspirations 🤗
-    location: "Indonesia"
-    followers: 182089
-    engagement: 255
-    commentsToLikes: 0.005709
-    id: ck0tu9wwi694j0i19ihkls73l
-    verified: false
-    hashtags: "#interiorideas, #interiordesign, #livingwithplants, #neutraldecor"
+    hashtags: "#rumahkecil, #dekorasi, #kamartidursederhana, #rumahimpian"
   - username: "edelmacrame"
     fullname: >-
       edelmac
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.016590
     id: ck15u90ppm0jp0i19mqj1ik9v
     verified: false
-    hashtags: "#macramemakers, #edelmac, #cottoncord, #accessories"
+    hashtags: "#dreamcatcher, #rusticdecor, #benangkatun, #homedecor"
+  - username: "julio_architect"
+    fullname: >-
+      Julio Julianto IAI HDII
+    bio: >-
+      Sharing my thought in architecture... Julio Architect & Partners Jakarta_Indonesia📷🇮🇩
+    location: "Indonesia"
+    followers: 38796
+    engagement: 119
+    commentsToLikes: 0.006888
+    id: ck0uabp7fbsqb0i198jsjidga
+    verified: false
+    hashtags: "#interiordesign, #futurevision, #futurebuilding, #sketchbook"
+  - username: "j_anandary"
+    fullname: >-
+      Jennifer Anandary | Travel Blogger
+    bio: >-
+      travel 🧳• edit 🤳🏽• home decor 🛋 @studiohae_ @presetsbyanandary ✉️ hello@jenniferanandary.com 👇🏼 LINK👇🏼
+    location: "Indonesia"
+    followers: 83001
+    engagement: 96
+    commentsToLikes: 0.025058
+    id: ck0tu4zji5ntm0i19vukfuq8c
+    verified: false
+    hashtags: "#wonderfulindonesia, #ayoliburan, #diindonesiaaja, #anandaryjakarta"
+  - username: "ruri_ferori"
+    fullname: >-
+      Inspirasi Rumah Mungil Cilla
+    bio: >-
+      Random Gallery 🏡home decor enthusiast 💌 DM for Endors/PP Ummi Cilla| ID indonesia| mferori wife Owner @cialiving
+    location: "Indonesia"
+    followers: 12675
+    engagement: 340
+    commentsToLikes: 0.188978
+    id: ck55odh8n85fh0i11vmm0xufx
+    verified: false
+    hashtags: "#giveaway, #gatempatkuberdandan, #rumahminimalis, #giveawayindonesia"
 ---

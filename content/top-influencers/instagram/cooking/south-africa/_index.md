@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In South Africa In 2022
+title: Top 10 Cooking Instagram Influencers In South Africa In 2023
 description: >-
-  Find top cooking Instagram influencers in South Africa in 2022. Most popular hashtags: #lockdown #lockdown2020 #stayhome #southafrica.
+  Find top cooking Instagram influencers in South Africa in 2023. Most popular hashtags: #cooking #food #capetown.
 platform: Instagram
-hits: 184
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 184 Instagram influencers like this in South Africa for you to collaborate.
+hits: 154
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 154 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "km_mothupi"
-    fullname: >-
-      Kopano Mametlhwa Mothupi
-    bio: >-
-      🤱🏽Mamagorori 🧑🏽‍🎓Wits Alumni ‘Witsie’ 👩🏽‍🏫Educator, Psychologist 02.02 ♒️An Aquarian ♥️Outdoors, fitness, cooking and babies
-    location: "South Africa"
-    followers: 2063
-    engagement: 661
-    commentsToLikes: 0.038446
-    id: ck6to4kqfc2aa0j71f1ohul63
-    verified: false
-    hashtags: ""
-  - username: "cooking_with_nthabi"
-    fullname: >-
-      Cooking_with_Nthabi
-    bio: >-
-      Cook 🥘 :Private&corporate catering :Cooking Classes/Lessons :Recipe Developer :Food Lover :nsetati@yahoo.com Parent @nthabi_setati :🌍🇿🇦
-    location: "South Africa"
-    followers: 99806
-    engagement: 213
-    commentsToLikes: 0.020398
-    id: ck9hazsb5erj80j78pbyy9erq
-    verified: false
-    hashtags: "#foodlover, #cookingwithnthabi, #foodie, #food"
-  - username: "dinneratmatlohas"
-    fullname: >-
-      Dinner@Matloha's
-    bio: >-
-      Food writer Recipe Developer Cookingclasses Restaurant Drum Food Ambassador First Choice Ambassador In Boksburg for Bookings:0763068085.
-    location: "South Africa"
-    followers: 89167
-    engagement: 48
-    commentsToLikes: 0.018837
-    id: ck5qdlsmfw7h20i11jds6da4y
-    verified: false
-    hashtags: "#stayhome, #lockdown, #sunday, #stayhomemeals"
   - username: "sinazotambo"
     fullname: >-
       BONES
     bio: >-
-      -🇿🇦 -Umxhosa -Follow my cooking page @sinazothecook
+      -🇿🇦 -UmXhosa -Follow my cooking page @sinazothecook
     location: "South Africa"
-    followers: 6749
-    engagement: 557
-    commentsToLikes: 0.018442
+    followers: 8614
+    engagement: 1400
+    commentsToLikes: 0.023223
     id: ck8ta6x8iqobk0j786dvvimbg
     verified: false
-    hashtags: "#darlingbraids, #quarantine, #blackgirl, #fatgirl"
-  - username: "geradewet"
+    hashtags: "#plussizefashion, #curvyfashion, #curvemodel, #curvymodel"
+  - username: "dinneratmatlohas"
     fullname: >-
-      Gera de Wet
+      Dinner@Matloha's
     bio: >-
-      My visual journey of interior designing, gardening, styling, cooking, flowers, DIY’ing, travelling + family. @dewetshofwines is home. South Africa
+      Food writer Recipe Developer Cookingclasses Drum Food Ambassador First Choice Ambassador Brand Influencer 0763068085
     location: "South Africa"
-    followers: 6845
-    engagement: 413
-    commentsToLikes: 0.067078
-    id: ck6tzrg32bevv0j71wlx9h72c
+    followers: 120467
+    engagement: 49
+    commentsToLikes: 0.064527
+    id: ck5qdlsmfw7h20i11jds6da4y
     verified: false
-    hashtags: "#countrystyle, #countrylife, #seasonspoetry, #safarilife"
+    hashtags: "#dinneratmatlohas, #sundaycookingclass"
+  - username: "judiekama"
+    fullname: >-
+      Judie Sbahle Kama
+    bio: >-
+      •cooking page @plate_with_judiekama •Co-owner and founder of @botched_hair •Makeup artist @makeup_by_judiekama •Dj God Favourite 😇
+    location: "South Africa"
+    followers: 99404
+    engagement: 259
+    commentsToLikes: 0.013507
+    id: ck13cgiel084e0i19d3dxjumm
+    verified: false
+    hashtags: "#babysoft, #ad, #ithembawalkathon, #toiletschangelives"
+  - username: "fehmz"
+    fullname: >-
+      Fehmz
+    bio: >-
+      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
+    location: "South Africa"
+    followers: 125944
+    engagement: 313
+    commentsToLikes: 0.015450
+    id: ck0w6espr882r0i19xmu3iovq
+    verified: false
+    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
   - username: "neillanthony"
     fullname: >-
       Neill Anthony
     bio: >-
-      Private chef in Cape Town and around the world. TV show in over 160 countries.Private chef book on www.neillanthonyshop.com www.neillanthony.com
+      Virtual diary of the private chef in Cape Town and around the world 🌎... www.neillanthony.com
     location: "South Africa"
-    followers: 14160
-    engagement: 340
-    commentsToLikes: 0.044238
+    followers: 22816
+    engagement: 336
+    commentsToLikes: 0.040738
     id: ck5znyge0peao0i14kglzwm3b
     verified: false
-    hashtags: "#capetown, #food, #foodstagram, #privatechef"
-  - username: "mrszahmarty"
+    hashtags: "#food, #royallivekitchen, #lockdown, #privatechef"
+  - username: "olivermatthieu"
     fullname: >-
-      Zahirah Marty
+      Oliver Matthieu
     bio: >-
-      Founder @thinkliquorice | Podcast @bewellbranded Entrepreneur | Content Creator Breakfast Show @pearlfmuae African soul. Desert lover. Global heart
+      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
     location: "South Africa"
-    followers: 26337
-    engagement: 217
-    commentsToLikes: 0.036329
-    id: ck0u1vrygy6cm0i19i1mikoq3
+    followers: 5393
+    engagement: 1299
+    commentsToLikes: 0.091890
+    id: ck15pkwu6ye0b0i19o3n9yx4s
     verified: false
-    hashtags: "#travel, #dubai, #podcast, #mydubai"
-  - username: "davidhiggschef"
+    hashtags: "#childmodel, #friendship, #boy, #schoolboy"
+  - username: "michelle_vanessaa_"
     fullname: >-
-      David Higgs 🇿🇦
+      Michelle Vanessa
     bio: >-
-      JHB | Chef | Marble Restaurant | Saint Restaurant | Mile8 Author | Mercedes-Benz Ambassador | TV Personality | Dave’s Kitchen - YouTube | Canyon
+      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
     location: "South Africa"
-    followers: 27334
-    engagement: 160
-    commentsToLikes: 0.060495
-    id: ck14gy0qs7ks20i19hl1c9gok
+    followers: 30778
+    engagement: 465
+    commentsToLikes: 0.120945
+    id: ck6tqe91vqy2q0j71tv5jm53n
     verified: false
-    hashtags: "#stayhome, #staysafe, #sponsoredbymercedesbenz, #g63"
-  - username: "seangoesnatural"
+    hashtags: "#miami, #heels, #travel, #wanderlust"
+  - username: "blenbaby"
     fullname: >-
-      Ayurveda & Adulting|Sean
+      Babygirl🤎
     bio: >-
-      🇿🇦Natural Hair, Ayurvedic Beauty & Attempts at Adulting 💁🏽 Co-founder of #ManeEvent031 & #FroEverDecember #ILookLikeAnEngineer 🎓 No ragrets 🌻 ✝️
+      🏫 Sociology & African Studies Blen Gebru Import & Export™️ Dm @hosabysosa to join our meal plan🥗 🇺🇸 🇦🇼 🇨🇦 🇦🇪 🇪🇬 🇹🇷 🇶🇦... 📞 +251911232862 /Viber 🌍📍🇪🇹
     location: "South Africa"
-    followers: 2920
-    engagement: 1175
-    commentsToLikes: 0.211062
-    id: ck6u39s65wk240j71e8ku32l4
+    followers: 22325
+    engagement: 263
+    commentsToLikes: 0.046462
+    id: ck0w3y8xlvvy10i19x7t1ffnh
     verified: false
-    hashtags: "#perfectlycurly, #naturalhairproducts, #curlyhairjunkies, #naturalchixs"
-  - username: "cherrified_"
+    hashtags: "#exercise, #cooking, #blackwomen, #pampered"
+  - username: "jeannimulder"
     fullname: >-
-      Mbali Cherry 🍒 Graham
+      🕊 jeanni mulder 🕊
     bio: >-
-      like nothing you've seen before ✨ surely one of God's greatest works✝️ 🇿🇦 Culture Curator 📑PR-CherRosé mp.ubisi@gmail 💌 mansamusaiient@gmail
+      📍cape town @freedommodelsla @bossmodelsa @modelwerk @modellinkagency @womendirect_milano
     location: "South Africa"
-    followers: 29063
-    engagement: 437
-    commentsToLikes: 0.015640
-    id: ck135uk2c3b5t0i19c9vgjcwq
+    followers: 25791
+    engagement: 512
+    commentsToLikes: 0.009827
+    id: ck5cdutvtjth20i11g9f60fzd
     verified: false
-    hashtags: "#golimpopo, #ad, #madeinafricafortheworld, #suzukiboosterjet"
+    hashtags: "#hi, #summerishere, #cookingmadeeasy, #staytuned"
+  - username: "tylz_m"
+    fullname: >-
+      TYLER MOOLMAN
+    bio: >-
+      📍Cape Town 🇿🇦 ICE Model Management Loves snacks. Industrial Psychology. Sand Cloud Ambassador (25% discount: TylerMo25)🌊 #savetheocean
+    location: "South Africa"
+    followers: 10849
+    engagement: 594
+    commentsToLikes: 0.018948
+    id: ck5cdtyimjruu0i11z4jb2rt6
+    verified: false
+    hashtags: "#island, #sailing, #seychelles, #catamaran"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Osaka In 2022
+title: Top 10 Beauty Instagram Influencers In Osaka In 2023
 description: >-
-  Find top beauty Instagram influencers in Osaka in 2022. Most popular hashtags: #osaka #pr #genic #ootd.
+  Find top beauty Instagram influencers in Osaka in 2023. Most popular hashtags: #pr #japan #model.
 platform: Instagram
-hits: 44
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 44 Instagram influencers like this in Osaka, Japan for you to contact.
+hits: 35
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 35 Instagram influencers like this in Osaka, Japan for you to connect with.
 profiles:
+  - username: "kayakaya.official"
+    fullname: >-
+      KAYA💋KAYA
+    bio: >-
+      🦄スピリチュアルガイドKAYAKAYA🦄 🌸賃貸マイスター 🌸follower10000以上Instagram養成講座🌈 🌸ラジオ岸和田FM79.7 ⏩毎月第2金曜日24時から24時30分まで 💎カヤのママママウンテンマウンテン ⏩毎月第1木曜日20時〜21時まで生放送 💎1.2.3
+    location: "Japan"
+    followers: 52169
+    engagement: 200
+    commentsToLikes: 0.012798
+    id: ck6udpnk9mg6m0j719bx8fuik
+    verified: false
+    hashtags: "#pr, #fm79, #wellvis, #kishiwada"
   - username: "a.asuka.a"
     fullname: >-
       asuka | Freelance Model
     bio: >-
       Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
     location: "Japan"
-    followers: 35469
-    engagement: 222
-    commentsToLikes: 0.061966
+    followers: 39010
+    engagement: 287
+    commentsToLikes: 0.059405
     id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#olympus, #fujimi, #goodmood, #pr"
+    hashtags: "#kuih, #kuihst, #locari, #ac"
   - username: "emi_akesaka"
     fullname: >-
       明坂英美　《vivi-E》
@@ -30,101 +42,89 @@ profiles:
     commentsToLikes: 0.045379
     id: ck13akj75qtp00i19b7g4m1hu
     verified: false
-    hashtags: "#teamlocohawaii, #selfim, #keepallbags, #dip"
-  - username: "mamiset"
+    hashtags: "#locohawaii, #selfim, #ilovekorea, #ex"
+  - username: "jumy_as"
     fullname: >-
-      瀬戸 麻実　セトマミ
+      🎪じゅみ (𝕁𝕦𝕞𝕪 )  | 芦田純子
     bio: >-
-      🇯🇵 美容家 色×形×質感で無限大の #マミ様メイク #メイクアップのための色彩学 マミ様メイク書籍大人気爆走中📚
+      📺youtube声優番組公開中🎤 累計1100万再生突破ありがとう✨ ▶︎歌ったり喋ったり﻿/ model ▶︎cosplayer (@jumy___jumy )﻿ 📍大阪 🎥サンテレビ『週感PV』/ 魔女イチQueen /舞台『旅立ちの詩』/イルコ2020写真集 お仕事依頼はDMより
     location: "Japan"
-    followers: 83148
-    engagement: 157
-    commentsToLikes: 0.009347
-    id: ck0vwpyj1v0at0i19lj9aw76z
+    followers: 34774
+    engagement: 173
+    commentsToLikes: 0.063194
+    id: ckapbh2rcztud0i78s8p40qna
+    verified: false
+    hashtags: "#model, #hifu, #pr, #usj"
+  - username: "nozo0806"
+    fullname: >-
+      Nozomi Iijima
+    bio: >-
+      Principal dancer with Houston Ballet donna @donnamodels.jp
+    location: "Japan"
+    followers: 80880
+    engagement: 465
+    commentsToLikes: 0.002471
+    id: ck0u20n6pyh5l0i19wfddvc2a
     verified: true
-    hashtags: "#makeup, #cosmetics, #tokyo, #beauty"
-  - username: "mizuki_b2ew"
+    hashtags: "#blackpi, #blackpink, #tb, #thecage"
+  - username: "hami0519"
     fullname: >-
-      福岡みづき♡週1ホテルステイ/ゆるいアラサー美容
+      岩永ハミ
     bio: >-
-      【暮らすようにホテルステイする♡】 webマーケター/埼玉/170cm ▶︎過去のホテル巡り #ホテルステイ記録 ▶︎27ヵ国を訪問（フランス🇫🇷1年留学） ▶︎美容プロ公認の美肌 ▶︎茶道歴7年（裏千家） ✏️毎週日曜、ストーリーでインスタプチ講座 ↓女性が等身大のままインスタで人生を謳歌するコツ
+      osaka/maternity🤰 2021.5 boy出産予定👶🏻 #ハミのおうちカフェ #ハミんちのごはん 👑@famys123 🐶@coromo0810
     location: "Japan"
-    followers: 35798
-    engagement: 149
-    commentsToLikes: 0.028361
-    id: ckap5tq2hd4id0i78wozblofl
+    followers: 13538
+    engagement: 550
+    commentsToLikes: 0.068772
+    id: ck55kdin6z2gq0i110pwbslzk
     verified: false
-    hashtags: "#pr, #goto, #20, #wakasalife"
-  - username: "h.rinko.h"
+    hashtags: "#christmas, #cafe, #pooh, #3rdmenu"
+  - username: "vivichan1325"
     fullname: >-
-      Rinko
+      vivichan
     bio: >-
-      ᴊᴀᴘᴀɴㅤ ᴏSᴀᴋᴀ/ᴋʏᴏᴛᴏ/ɴᴀʀᴀ/ᴛᴏᴋʏᴏ.. Fᴏᴏᴅ/ᴄᴀFᴇ/SᴡᴇᴇᴛS/FᴀSʜɪᴏɴ... . ᴏFFɪᴄɪᴀʟ ᴀᴍʙᴀSSᴀᴅᴏʀ @trevary_cafe @gourmedia__ ᴡᴏᴏᴍʏ ɪɴFʟᴜᴇɴᴄᴇʀ ウーミーインフルエンサー
+      yoga&beauty サロン♡♡♡chiakissオーナー♡♡♡ファッション、グルメ、ヨガ、エステをこよなく愛してヘルシーライフを目標に💕
     location: "Japan"
-    followers: 9077
-    engagement: 930
-    commentsToLikes: 0.004155
-    id: ck1386ln3eqg70i19y8f8hukv
+    followers: 63693
+    engagement: 474
+    commentsToLikes: 0.006267
+    id: ck5zzyii4cmxu0i14f0xfn50r
     verified: false
-    hashtags: "#sweets, #osakagourmet, #cafe, #trevary"
-  - username: "_miuinoue_"
+    hashtags: "#youtube"
+  - username: "mai_inoue"
     fullname: >-
-      海羽(みう)
+      井上麻衣
     bio: >-
-      2000 ｜ 19y ｜ fashion ｜ osaka Twitter 3iuchan tiktok m1uchan
+      osaka⇔tokyo 2児のママしてます✨ clubhouse📻⇒ @mai_inoue #fashion / #cosmetic / #gourmet / #travel #mama / #onsen / #traning 👧🏻(7)👶🏻(1) 案件☞ DMお願いします❤️
     location: "Japan"
-    followers: 44805
-    engagement: 747
-    commentsToLikes: 0.011634
-    id: ck0twcbzuev120i19iswb882f
+    followers: 64266
+    engagement: 194
+    commentsToLikes: 0.016418
+    id: ckaoxsqlvekuu0i78mefbdd20
     verified: false
-    hashtags: "#coordinate, #selfie, #gyda, #miucode"
-  - username: "rinachesca"
+    hashtags: "#shooting, #fashion, #onsen, #ashigara"
+  - username: "yukonano"
     fullname: >-
-      ちぇすか ❁ Rina Franchesca 関西モデル
+      波志冨裕子/𝕐𝕌𝕂𝕆
     bio: >-
-      90’ 兵庫在住 関西⇔関東 癒し系とよく言われます🌷 ▪️モデル ▪️SNSディレクター ▪️アットコスメBeauty Specialist #CHESCA服 #CHESCA美容 #CHESCAぐるめ 👇🏻YouTube, Fanclub, TikTok, Twitter
+      ⛰Trail 🏕Camp ✈️Trip 🎶DJ 💃Model 💄beauty 👗fashion 🧏🏻‍♀️ambassador ♡yukostyle💕 好きなもの running休止
     location: "Japan"
-    followers: 73422
-    engagement: 287
-    commentsToLikes: 0.034403
-    id: ck5q2gu43fy9j0i11lds0ysg6
+    followers: 12825
+    engagement: 656
+    commentsToLikes: 0.000392
+    id: ck6tzekzf98r10j713bxzq7zd
     verified: false
-    hashtags: "#30, #chesca, #nanalens, #551"
-  - username: "miki0000000000"
+    hashtags: "#dw, #fashionstyle, #yukostyle, #foodstagram"
+  - username: "knst_20"
     fullname: >-
-      🔆poledancer_miki🔆
+      
     bio: >-
-      I'm pole dancer&Dental hygienist. Please feel free to follow me:) ポールダンサー＆歯科衛生士です←(ライセンス持ってるだけ)😂 気軽にフォローしてね😊 🇯🇵Nara🦌→Osaka🐙⇔NY🗽 #poledancer
+      大阪府内の自宅周辺の四季を撮っています。 兵庫→東京→大阪 I live in Osaka, Japan ♂ Photos taken by me around my house Beauty of the four seasons 📸Canon📷
     location: "Japan"
-    followers: 43503
-    engagement: 310
-    commentsToLikes: 0.021692
-    id: ckap6xki3hs2l0i783gsdwkva
+    followers: 3001
+    engagement: 2319
+    commentsToLikes: 0.032911
+    id: ck5ciod16t1j40i1184ie8vay
     verified: false
-    hashtags: "#bikini, #swimwear, #street, #bff"
-  - username: "yuika00802"
-    fullname: >-
-      𝐘 𝐔 𝐈 𝐊 𝐀
-    bio: >-
-      𝑀𝑜𝒹𝑒𝓁/𝟙𝟟𝟚㎝/𝕠𝕤𝕒𝕜𝕒⇄𝕥𝕠𝕜𝕪𝕠 👑𝐌𝐢𝐬𝐬𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐞𝐉𝐚𝐩𝐚𝐧特別賞 モデル・MC幅広く活動してます♡ #yuika_beauty #yuika_code👗 #yuika_travel✈️ #ユイカノレディスタグラム . お仕事のご依頼 ご相談はメール(事務所)へお願いします📩
-    location: "Japan"
-    followers: 76458
-    engagement: 90
-    commentsToLikes: 0.018165
-    id: ck14hr9labqcw0i19o0k3sbw6
-    verified: false
-    hashtags: "#hedy, #lefuacloset, #genic, #outfit"
-  - username: "linhchi_zuriababy"
-    fullname: >-
-      👸🏼Linh Chi
-    bio: >-
-      Vietnamese-Actress-Model 👑MissNSao2011🦋ÁHậuPhụNữViệtNam2012 NailSpa @olala_nail_beauty Stuff @2h2v2n_archive Angels @linhchilamvinhhaifamily
-    location: "Japan"
-    followers: 189659
-    engagement: 118
-    commentsToLikes: 0.011043
-    id: ck15suvg4ex370i19luk0ijlp
-    verified: true
-    hashtags: "#beautiful, #lovemylife, #lanngoc, #family"
+    hashtags: "#jp, #allmightybirds, #clearvisionshots, #onestorytraveller"
 ---

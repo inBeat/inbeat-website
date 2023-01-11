@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Berlin In 2022
+title: Top 10 Travel TikTok Influencers In Berlin In 2023
 description: >-
-  Find top travel TikTok influencers in Berlin in 2022. Most popular hashtags: #berlin #foryou #travel #fyp.
+  Find top travel TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #berlin #travel.
 platform: TikTok
-hits: 26
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 26 TikTok influencers like this in Berlin, Germany for you to pitch.
+hits: 20
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database holds 20 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "timmtok"
+  - username: "sebastianoschweitzer"
     fullname: >-
-      timmtok
+      sebastianoschweitzer
     bio: >-
-      🇪🇦🇩🇪 Berlin 10000🔒🙏 Erzieher 4 Life
+      german tv host 🎥 | SuperRTL | travel |📍Berlin Instagram: @sebastianoschweitzer
     location: "Germany"
-    followers: 8355
-    engagement: 698
-    commentsToLikes: 0.050773
-    id: ck8rrj8qhuplg0j78rs2abqtu
+    followers: 18300
+    engagement: 786
+    commentsToLikes: 0.022195
+    id: ck9kbvmiomyr60j78vl10fabi
     verified: false
-    hashtags: "#comedy, #lipsync, #foryoupage, #fun"
-  - username: "yo.caromaro"
+    hashtags: "#fyp, #viral, #foryou, #bestofdeutschland"
+  - username: "shinesmyth"
     fullname: >-
-      Caro
+      Shine Smith
     bio: >-
-      🧸 hannover 🍂 19 🍂 kleiderkreisel: caro.smnn 🤍
+      dude...
     location: "Germany"
-    followers: 15500
-    engagement: 1876
-    commentsToLikes: 0.036166
-    id: cka0lhzadr2rh0i78rx5b7ip8
+    followers: 47600
+    engagement: 405
+    commentsToLikes: 0.032021
+    id: ckd6chs0650ix0j23q0142t86
     verified: false
-    hashtags: "#summer, #fy, #viral, #flipaus"
-  - username: "emmakantt"
+    hashtags: "#satisfying, #doctor, #asmr, #medical"
+  - username: "marina.hadid"
     fullname: >-
-      die Emma 🌞
+      Marina.hadid
     bio: >-
-      Dancer/Germany Instagram: emmakantt Snap: emmse_bremse03
+      Instagram: marinahadid 🙋🏻‍♀️
     location: "Germany"
-    followers: 224200
-    engagement: 819
-    commentsToLikes: 0.007979
-    id: ck81swwittq1w0j78mhlo8wj6
+    followers: 10600
+    engagement: 720
+    commentsToLikes: 0.015284
+    id: cka0ivbzpfc4t0i78aj0wuktc
     verified: false
-    hashtags: "#summer, #dance, #foryou, #slowmotion"
-  - username: "sandra.winnik"
+    hashtags: "#fy, #tiktok, #viral, #fyp"
+  - username: "sandra.morf.nilreb"
     fullname: >-
       Sandra
     bio: >-
-      26 🤷🏻‍♀️ 🔥CEO of BERLIN🔥 🔥Instagram: sandramipw🔥
+      🔥27🔥 👩🏻‍💻career📈growth💰investments (Ex-CEO of Berlin)
     location: "Germany"
-    followers: 5020
-    engagement: 434
-    commentsToLikes: 0.072640
+    followers: 4925
+    engagement: 559
+    commentsToLikes: 0.107323
     id: ckb8y2q6idaqf0j23kibkhr77
     verified: false
-    hashtags: "#german, #fyp, #peopleofberlin, #mitte"
-  - username: "josily"
-    fullname: >-
-      Josi💗
-    bio: >-
-      💗love to edit my videos💗 🇩🇪Berlin // 20 📸insta: josily 👻snap: xjosilyx
-    location: "Germany"
-    followers: 1200000
-    engagement: 1699
-    commentsToLikes: 0.012496
-    id: ck81svncktfks0j7840nn8c35
-    verified: true
-    hashtags: "#story, #foryou, #trend, #berlin"
+    hashtags: "#travel, #germany, #peopleofberlin, #mitte"
   - username: "travel.actions"
     fullname: >-
       Bishal Gautam
     bio: >-
       🧑‍💻 Software Engineer 📸 Newbie Photographer ✨ Travel with me (virtually 😉)✨
     location: "Germany"
-    followers: 31100
-    engagement: 866
-    commentsToLikes: 0.029382
+    followers: 30900
+    engagement: 817
+    commentsToLikes: 0.075027
     id: ck9r3wdprscj30j78zacze9cb
     verified: false
-    hashtags: "#nature, #summertime, #summer, #dresden"
+    hashtags: "#quoteoftheday, #frozenlake, #fyp, #deutschland"
+  - username: "marina_vierra"
+    fullname: >-
+      Marina Vierra
+    bio: >-
+      fashion / travel / vibes 🤍 𝕭𝖊𝖗𝖑𝖎𝖓 insta ↓
+    location: "Germany"
+    followers: 533500
+    engagement: 765
+    commentsToLikes: 0.028569
+    id: ck8qkrtjdimxv0j78caj00ue8
+    verified: false
+    hashtags: "#outfitinspiration, #ootd, #fy, #purelei"
   - username: "care4art"
     fullname: >-
       Julian
     bio: >-
       Travel Photographer & Videographer 🌎 Behind the scenes 🌎 Instagram: @care4art
     location: "Germany"
-    followers: 265800
-    engagement: 1204
-    commentsToLikes: 0.006763
+    followers: 266400
+    engagement: 1269
+    commentsToLikes: 0.007153
     id: ck83z6j37y5r20j7869shf6og
     verified: false
-    hashtags: "#reflection, #lofoten, #sunrise, #fyp"
+    hashtags: "#sunrise, #reflection, #travel, #fyp"
   - username: "mitharabui"
     fullname: >-
       Mithara Bui
     bio: >-
-      Addicted to travel, fashion, anime ❤️📸 I'm asexual and I'm proud of it!
+      turning travel into aesthetic
     location: "Germany"
-    followers: 98700
-    engagement: 1577
-    commentsToLikes: 0.011110
+    followers: 124700
+    engagement: 1341
+    commentsToLikes: 0.010481
     id: cka0k7js1levm0i78k3od7gv7
     verified: false
-    hashtags: "#berlinfood, #aesthetic, #japan, #tokyo"
-  - username: "erikschlz"
+    hashtags: "#berlin, #aestheticjapan, #japan, #aesthetic"
+  - username: "mbp_mustbeplayed"
     fullname: >-
-      Erik Scholz
+      MBP
     bio: >-
-      22 y old | 📍Berlin 🤸🏻IG: @erik [90k]
+      DORTMUND BASED DJ DUO 📀🇩🇪 fun | music | travel 👇 follow us on spotify 👇
     location: "Germany"
-    followers: 17800
-    engagement: 795
-    commentsToLikes: 0.042493
-    id: ckblf8xxy96n90j23a3hkxmgp
+    followers: 12300
+    engagement: 826
+    commentsToLikes: 0.057332
+    id: ck83wunxpm8440j78ugpe3jn2
     verified: true
-    hashtags: "#foryoupage, #fashion, #meinstyle, #viral"
-  - username: "robert.juhnke"
+    hashtags: "#lockdown, #turnaround, #challenge, #foryoupage"
+  - username: "manosaronis"
     fullname: >-
-      Robert Juhnke
+      Manos Aronis
     bio: >-
-      Travel & Photography 🌍📸 Official Creator @ #LernenMitTikTok Say Hi on Insta⤵️
+      ✈️ Traveler from Crete, Greece 🇬🇷 📍 Based in Berlin 🇩🇪
     location: "Germany"
-    followers: 134100
-    engagement: 1015
-    commentsToLikes: 0.019535
-    id: ck80ocst7gv2z0j782v05bn29
+    followers: 19400
+    engagement: 661
+    commentsToLikes: 0.034173
+    id: ckb9jxqxubfc00j23oh71lvlw
     verified: false
-    hashtags: "#iphone, #tiktoktravel, #tutorial, #fyp"
+    hashtags: "#video, #fyp, #foryou, #cuba"
 ---

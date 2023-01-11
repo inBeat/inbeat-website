@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Montreal In 2022
+title: Top 10 Yoga Instagram Influencers In Montreal in 2023
 description: >-
-  Find top yoga Instagram influencers in Montreal in 2022. Most popular hashtags: #yoga #canada #montreal #flexibility.
+  Find top yoga Instagram influencers in Montreal in 2023. Most popular hashtags: #yoga #canada #montreal #flexibility.
 platform: Instagram
 hits: 25
 text_top: Discover the most popular Instagram accounts on inBeat.

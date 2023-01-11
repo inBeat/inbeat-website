@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United States In 2022
+title: Top 10 Bodybuilding Instagram Influencers In United States In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in United States in 2022. Most popular hashtags: #bodybuilding #fitness #abs.
+  Find top bodybuilding Instagram influencers in United States in 2023. Most popular hashtags: #bodybuilding #fitnessmotivation #gymlife #fitness.
 platform: Instagram
-hits: 1576
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 1576 Instagram influencers like this in United States for you to work with.
+hits: 2164
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 2164 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "marzkiphysique"
-    fullname: >-
-      ᎷariaZ
-    bio: >-
-      🇲🇽 Los Angeles✈️Utah ~Bodybuilding @sethelabel @angelcompetitionbikinis ~ Code : MARZ 🌕🌖🌗🌘🌑🌒🌓🌔🌕 🕯🔮Eclectic witch 🌻Hippie✨Gypsy 🌛🌕🌜 ✨🌿🌊💨🔥
-    location: "United States"
-    followers: 6307
-    engagement: 2171
-    commentsToLikes: 0.150886
-    id: ck8td71jn25oi0j78nxvvsdrk
-    verified: false
-    hashtags: "#hotsprings, #nature, #utah, #lakersnation"
   - username: "tammy_bellabae_fitness"
     fullname: >-
       Tammy 🎀🌴👙💪
     bio: >-
-      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
+      ISSA Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding and Senior Fitness @valorfitnessclothing 💙 TAMMY20
     location: "United States"
-    followers: 11354
-    engagement: 1451
-    commentsToLikes: 0.087957
+    followers: 12215
+    engagement: 1256
+    commentsToLikes: 0.111499
     id: ckf5pez4b5ukz0j2385upfgyk
     verified: false
-    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
+    hashtags: "#giveback, #louboutin, #tattedbabes, #gucci"
+  - username: "marzkiphysique"
+    fullname: >-
+      ᎷariaZ
+    bio: >-
+      🇲🇽Los Angeles✈️Utah Bodybuilding 🌕🌖🌗🌘🌑🌒🌓🌔🌕 🕯ᴇᴄʟᴇᴄᴛɪᴄ ᴡɪᴛᴄʜ🌻ʜɪᴘᴘɪᴇ🌞ɢʏᴘꜱʏ @angelcompetitionbikinis MARZ 🐲 @dragonarmyusa D10MARIAMORENO2
+    location: "United States"
+    followers: 7061
+    engagement: 1978
+    commentsToLikes: 0.175385
+    id: ck8td71jn25oi0j78nxvvsdrk
+    verified: false
+    hashtags: "#bodybuilding, #selflove, #mambamentality, #goddess"
+  - username: "fitness_gee"
+    fullname: >-
+      Germany
+    bio: >-
+      🔹 God🥇 🔹 Combat Vet 🎖Usmc SSgt 🔹 Bodybuilding - Modeling - Muay Thai 🔹 Mind ➕ Body ➕ Soul 🧘🏾‍♂️ 🔹 6’3 🇳🇬 🇺🇸 “ Enjoy Your Journey ✨ “
+    location: "United States"
+    followers: 12622
+    engagement: 1571
+    commentsToLikes: 0.025628
+    id: ck8swi771e67z0j78qyjz1g4t
+    verified: false
+    hashtags: "#classic, #warrior, #passion, #offseason"
   - username: "leeciknight"
     fullname: >-
       Leeci✖️Knight
     bio: >-
-      Booty Cheeks and Bodybuilding 🍑🥵 Just a regular girl who likes to lift. Metal Head 🤘🏼 Big Booty Tight Tummy Guide 👇🏼
+      Booty Cheeks and Bodybuilding 🍑🥵 Just a regular girl who likes to lift. lil Metal Head 🤘🏼💀 Shop my gym guides below 👇🏼
     location: "United States"
-    followers: 620972
-    engagement: 575
-    commentsToLikes: 0.013874
+    followers: 660254
+    engagement: 366
+    commentsToLikes: 0.011972
     id: ck5how4e9qc8y0i11576f72qh
     verified: false
-    hashtags: "#homeworkouts, #gymvideos, #photooftheday, #fatloss"
-  - username: "gunsnbuns13"
+    hashtags: "#humpday, #selfie, #workharder, #fitnessjourney"
+  - username: "iamashkan"
     fullname: >-
-      Courtney Jacobs
+      𝗔𝘀𝗵𝗸𝗮𝗻 |Podcaster| Youtuber |
     bio: >-
-      🦾Bodybuilding🧘🏼‍♀️ 🇺🇸Veteran🤘🏽 🌴Charleston, SC☀️ 🌱Growth mindset🌺 ✨Make an impact💥
+      • #bodybuildingmotivation 💪🏻 • Sweden🇸🇪 Powered by : @officialgasp använd kod Ash15 @mutantnation @gymleco Online Coaching |👇🏻
     location: "United States"
-    followers: 28990
-    engagement: 529
-    commentsToLikes: 0.032736
-    id: ck5btxwmpgst80i11vy8kwycz
+    followers: 18661
+    engagement: 296
+    commentsToLikes: 0.125267
+    id: ckap96of6rdra0i787wagfadx
     verified: false
-    hashtags: "#love, #npcfigure, #prep, #triedandtested"
-  - username: "lachinafit"
+    hashtags: "#heretoinspire, #bodybuildinglifestyle, #gasp, #veins"
+  - username: "theirongiantess"
     fullname: >-
-      LACHINAFIT
+      LAURA MICETICH | Coach⬇️150+lb
     bio: >-
-      👩🏻‍🎓Business Manager :🚛Truck’s Corp 💪🏼14 years fitness experience 🏋🏻‍♀️Natural bodybuilding 📧Fitnessbylachina@gmail.com @fitnessbylachina 👇🏻 tienda
+      320+lbs➡️ATHLETE Tiktok 375K+ Cert. Transformation Specialist💚Nutritionist🍏CPT💪Glute Specialist🍑Bodybuilding Trainer @innosupps(GIANT) @UltimateTagFox
     location: "United States"
-    followers: 440603
-    engagement: 191
-    commentsToLikes: 0.024473
-    id: ck6tq7gyjptpz0j71ir6kg2lj
+    followers: 408923
+    engagement: 153
+    commentsToLikes: 0.014101
+    id: ck55ptpwebcwl0i11i9sqevo3
+    verified: true
+    hashtags: "#selflove, #bodybuilding, #lawofattraction, #transformation"
+  - username: "thepunjabilion"
+    fullname: >-
+      ROBO The Punjabi Lion
+    bio: >-
+      Pro Wrestler⭐️ State Bodybuilding Champ 2011🏆 India level competitor🏅 Chandigarh,Punjab🇮🇳 Boston🇺🇸
+    location: "United States"
+    followers: 18776
+    engagement: 630
+    commentsToLikes: 0.030687
+    id: ck0u0d52rte9o0i199aero61o
     verified: false
-    hashtags: "#antesydespues, #naturalbodybuilding, #justcardio, #28"
-  - username: "shaevaleksei"
+    hashtags: "#robokdm, #styleblogger, #positivevibes, #viralvideos"
+  - username: "abed_murad92"
     fullname: >-
-      Персональный тренер,с 2005 г.
+      Model Abid Murad
     bio: >-
-      🔹Абсолютный чемпион Arnold Classic 2015 🔹Вице-президент @nbcrus 🔹Промоутер @bodybuilding_ryazan 🔹Team @realsteel_official 🔹Создатель @systemafood
+      |.[Abed Murad-💍عابد مراد] ‏👔|.[model-fitness ] [🇴🇲] [🌍] [married] [BodyBuilding🏋🏻‍♂️] ‏📥l.[للاعلانات التواصل-For the Business Direct] 📽|.[عابدShow]
     location: "United States"
-    followers: 26217
-    engagement: 132
-    commentsToLikes: 0.131298
-    id: ck5qe9wi0zf1l0i11ryoq5n81
-    verified: false
-    hashtags: "#bikini, #fitness, #classicphysique, #bodybuilding"
-  - username: "crayson1982"
-    fullname: >-
-      Jason
-    bio: >-
-      NYC-FL+💻 +Bodybuilding+philanthropy Zaddy to 👱‍♀️Sophia + 🐕 Pancho 👬 @daymienkaiser NPC #classicphysique https://PayPal.me/lostdogfoundation
-    location: "United States"
-    followers: 70700
-    engagement: 1400
-    commentsToLikes: 0.016856
-    id: ckapcey1e3jej0i7813pf8hyo
-    verified: false
-    hashtags: "#markhenderson, #muscle, #instagay, #bodybuilding"
-  - username: "trey.meagher"
-    fullname: >-
-      Trey Meagher
-    bio: >-
-      ◼️ @golden.organics ATHLETE💯 ◾️19 Year Old Fitness Athlete ◼️Aesthetic Bodybuilding 🔪 ◼️MMA TRAINING 🥊 ◼️ PRODIGY™️ 🔰 @theprodigyproject
-    location: "United States"
-    followers: 18582
-    engagement: 235
-    commentsToLikes: 0.061869
-    id: ck14jwgf2mjaj0i19e0052n95
-    verified: false
-    hashtags: "#warriormentality, #beabeast, #driventosucceed, #riseuptogether"
-  - username: "charlton_banks"
-    fullname: >-
-      Charly Joung
-    bio: >-
-      @b__joung <4 @falcongarments co-founder @rpstrength largest quads @fullromapparel member Ex-powerlifter 800/474/672/1925 @ 242 Onto bodybuilding.
-    location: "United States"
-    followers: 20777
-    engagement: 492
-    commentsToLikes: 0.018935
-    id: ckap8db33nto10i78oq8krbgm
+    followers: 34406
+    engagement: 74
+    commentsToLikes: 0.068658
+    id: ck8szvwk6pwv90j78ee2zy5ln
     verified: false
     hashtags: ""
-  - username: "andreishark_"
+  - username: "madebymyself80"
     fullname: >-
-      Andrei Shark Veg🍀
+      Chris
     bio: >-
-      🥦Vegan athlete & coach 💪🏼PAF Armwrestling Overall Champion 🏋️‍♀️Bench Press champion 🏆Top 3 Arnold Classic, World and Europa Classic bodybuilding 👇🏻
+      In the end,it‘s not the years in your life that count.It‘s the life in your years. 🔥HarleyDavidson🔥Tattoo🔥Bodybuilding 🔥Beard🔥Tuning🔥Shooting🔥Audi🔥
     location: "United States"
-    followers: 32245
-    engagement: 162
-    commentsToLikes: 0.044167
-    id: ck14kywqqs0v80i19vl23qsi8
+    followers: 2384
+    engagement: 2683
+    commentsToLikes: 0.029083
+    id: ck8tcpmpe079f0j78o5uzdhqe
     verified: false
     hashtags: ""
+  - username: "blakewheller"
+    fullname: >-
+      Blake Wheller
+    bio: >-
+      Melbourne | Australia 🇦🇺 ⚡️Chasing aesthetics 🏆 Bodybuilding lifestyle
+    location: "United States"
+    followers: 25126
+    engagement: 110
+    commentsToLikes: 0.063200
+    id: ck135twve37vq0i19q4nn0u6u
+    verified: false
+    hashtags: "#training, #fit, #bodybuilding, #fitnessmotivation"
 ---

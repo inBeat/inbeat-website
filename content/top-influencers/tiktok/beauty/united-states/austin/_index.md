@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Austin In 2022
+title: Top 10 Beauty TikTok Influencers In Austin In 2023
 description: >-
-  Find top beauty TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #beauty #foryou #austin.
+  Find top beauty TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #beauty #foryou #texas.
 platform: TikTok
-hits: 48
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 48 TikTok influencers like this in Austin, United States for you to pitch.
+hits: 52
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 52 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "swiftwellness"
+  - username: "blubumblebri"
     fullname: >-
-      swiftwellness
+      bri
     bio: >-
-      fashion + affordable beauty reviews + Amazon finds in Austin TX Links here 👇🏻
+      my primary form of id is my ralph’s card ig: @blubumblebri
     location: "United States"
-    followers: 206900
-    engagement: 726
-    commentsToLikes: 0.031344
-    id: ck81q0y7qf2fw0j7865fjsj3q
+    followers: 16000
+    engagement: 812
+    commentsToLikes: 0.081269
+    id: ckcunkg1ni2kr0j23g3ybd2se
     verified: false
-    hashtags: "#amazonfashion, #amazonhaul, #founditonamazon, #amazonfinds2020"
-  - username: "ninaberenato"
+    hashtags: "#zodiacsigns, #zodiac, #pickle, #yummy"
+  - username: "haley.snider"
     fullname: >-
-      Nina Berenato
+      Haley Snider
     bio: >-
-      I own an all-girl jewelry studio in Austin 🛠 Handmade • Custom • One of a Kind
+      Women Supporting Women💪 Living life beyond a 9-5🦋 Austin, Tx💕 3234
     location: "United States"
-    followers: 116400
-    engagement: 1422
-    commentsToLikes: 0.016162
-    id: ck81s9n0nr1y10j785ei5mkqu
+    followers: 62800
+    engagement: 1470
+    commentsToLikes: 0.059096
+    id: ckcdd3zjs5clu0j230cpcya8x
     verified: false
-    hashtags: "#fashion, #ootd, #smallbusiness, #smallbusinesscheck"
-  - username: "amykristine27"
+    hashtags: "#tarotreading, #aesthetic, #tarot, #wicca"
+  - username: "luluxv.xo"
     fullname: >-
-      AmyKristine
+      Lulú Tovar
     bio: >-
-      Austin, Texas 🤘🏼🖤 📧 amyfaubion@icloud.com
+      🧿♎︎ she/her 📍ATX 🇲🇽🌈 BLM ✨dollar tree, beauty+ 💌DM for Promos/Collabs
     location: "United States"
-    followers: 13100
-    engagement: 621
-    commentsToLikes: 0.051960
-    id: ck9k2n6dll0e40j78ez8l5xog
+    followers: 12000
+    engagement: 930
+    commentsToLikes: 0.073960
+    id: ck8hk4h6tc8m70j781amcggxq
     verified: false
-    hashtags: "#horrortok, #texas, #halloween, #winter"
+    hashtags: "#viral, #finds, #texas, #makeup"
   - username: "vcboudoir"
     fullname: >-
-      user1502462802788
+      Victoria Caroline Boudoir
     bio: >-
-      I help women get their sexy back 📸 Insta for 🔥: @vcboudoir Austin, TX + travel
+      I help women get their sexy back 📸 Insta: @vcboudoiratx Austin, TX
     location: "United States"
-    followers: 213500
-    engagement: 706
-    commentsToLikes: 0.011756
+    followers: 277600
+    engagement: 721
+    commentsToLikes: 0.022156
     id: ckc7pcf4rv2e80j23z6wucru9
     verified: false
-    hashtags: "#trending, #photographer, #momsoftiktok, #fy"
-  - username: "nitabita94"
+    hashtags: "#outfit, #over30, #women, #confidence"
+  - username: "mariana.zarag"
     fullname: >-
-      Nitabita94
+      Mariana Zaragoza
     bio: >-
-      Beauty is in the eye of the beholder IG: Nitabita94 💕
+      Fashion. Beauty. Home. Oh, and baby! 👶🏻 IG @marianazarag
     location: "United States"
-    followers: 14300
-    engagement: 1842
-    commentsToLikes: 0.017892
-    id: ck9nidra1gs5k0j78szeq55bh
+    followers: 8842
+    engagement: 464
+    commentsToLikes: 0.020990
+    id: cka6czpu362630i78a6or5cw4
     verified: false
-    hashtags: "#fyp, #60s, #hairtutorial, #hair"
-  - username: "rockyl_87"
+    hashtags: "#starbucks, #easyrecipe, #toddlermom, #recipe"
+  - username: "marissaspagnoli"
     fullname: >-
-      Rocky L
+      Marissa Spagnoli
     bio: >-
-      I Love💞The🌙Intellect🧠Birthdays🥳Beauty🥀Music🎶and Tacos🌮 Follow my Journey!
+      Unpopular beauty/fashion opinions☕️ Follow my IG for more! 📍BOS
     location: "United States"
-    followers: 4547
-    engagement: 566
-    commentsToLikes: 0.024854
-    id: ckdbya503elga0j236wlnsmiz
+    followers: 59200
+    engagement: 913
+    commentsToLikes: 0.035596
+    id: ck984baq3nrah0j78jjl35s9k
     verified: false
-    hashtags: "#chemicalhearts, #playball, #readysetgo, #mommyordaddychallenge"
-  - username: "the_lochness_jonster"
+    hashtags: "#stitch, #fyp, #skincare, #skincareroutine"
+  - username: "itsdakotab"
     fullname: >-
-      jon Prichard
+      dax
     bio: >-
-      My names not actually Ryan Make sure to follow my Instagram for more content!
+      I’m just here to watch everyone else be funny | 19 | NC she/her
     location: "United States"
-    followers: 15300
-    engagement: 1269
-    commentsToLikes: 0.029410
-    id: ckcuhqoohfr4z0j23iveab25o
+    followers: 9416
+    engagement: 1467
+    commentsToLikes: 0.232210
+    id: ckd6876x53pbr0j23832oxscx
     verified: false
-    hashtags: "#cliffs, #amazing, #backflip, #deathdive"
-  - username: "sharkeisha_da_god"
+    hashtags: "#makeupartist, #evermore, #evermorealbum, #fyp"
+  - username: "statickiss"
     fullname: >-
-      Zack
+      ⚡️💋Statickiss
     bio: >-
-      I am a vape farmer, these are my crops. ADD MY INSTA!
+      
     location: "United States"
-    followers: 260400
-    engagement: 1837
-    commentsToLikes: 0.008683
-    id: ckbqmq6c47ork0j23aketf41m
+    followers: 2831
+    engagement: 1040
+    commentsToLikes: 0.066030
+    id: ck8key137bkvl0j78fmbdikhb
     verified: false
-    hashtags: "#pink, #build, #foryou, #insane"
-  - username: "literallytrashy"
+    hashtags: "#nature, #explore, #viral, #hike"
+  - username: "viennaprom"
     fullname: >-
-      Kelly
+      viennaprom
     bio: >-
-      23 Bisexual 🏳️‍🌈 Body Positive ✨ Idahome 5K? 🥺
+      👗✨Be Unique, Be You, Rock Vienna✨👗
     location: "United States"
-    followers: 2066
-    engagement: 1898
-    commentsToLikes: 0.037686
-    id: ckc7cctanm0q20j23e76aws4t
+    followers: 11800
+    engagement: 789
+    commentsToLikes: 0.013040
+    id: ckcvhpb3ouj450j23ijke3qf8
     verified: false
-    hashtags: "#fyp, #humor, #flirt, #bisexual"
-  - username: "shutupiris"
+    hashtags: "#viennagown, #model, #viennaprom, #viennaangel"
+  - username: "batlee52"
     fullname: >-
-      iris 🥳
+      Batlee
     bio: >-
-      Treat people with kindness dude. - 20, ATX 🤠
+      King:kmohn93💖 #quinntets #whow3are #c3ws
     location: "United States"
-    followers: 3307
-    engagement: 1766
-    commentsToLikes: 0.053294
-    id: ck9grjbs5e9670j78z786oeyo
+    followers: 27200
+    engagement: 1144
+    commentsToLikes: 0.115751
+    id: ckan5l0p6fjny0i78ely92quf
     verified: false
-    hashtags: "#college, #summer2020, #favoritememories, #foryoupage"
+    hashtags: "#blueeyedbabes, #airpodsjump, #artistoftheweek, #austinhall"
 ---

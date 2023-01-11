@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In New York In 2022
+title: Top 10 Models TikTok Influencers In New York In 2023
 description: >-
-  Find top models TikTok influencers in New York in 2022. Most popular hashtags: #fyp #model #foryoupage #newyork.
+  Find top models TikTok influencers in New York in 2023. Most popular hashtags: #newyork #fyp #model #nyc.
 platform: TikTok
-hits: 99
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 99 TikTok influencers like this in New York, United States for you to contact.
+hits: 88
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 88 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "harshhayden"
+  - username: "byjessicaweiss"
     fullname: >-
-      hayden
+      Jessica
     bio: >-
-      just have fun 20 y/o Artist/Model MD📍 —> NYC🗽 PO Box 834 Funkstown MD 21734
+      Writer She/Her 24 I’m a blogger and I post NYC event coverage
     location: "United States"
-    followers: 36300
-    engagement: 1979
-    commentsToLikes: 0.029072
-    id: ck9gkn7ajk8wm0j78u7enm65h
+    followers: 101100
+    engagement: 1005
+    commentsToLikes: 0.041986
+    id: ck8j6d4ub980r0j78wkbrd817
     verified: false
-    hashtags: "#paintingeverydayuntilimfamous, #foryou, #painting, #myart"
-  - username: "briscalesse"
+    hashtags: "#nyc, #model, #newyork, #fyp"
+  - username: "maggieyes"
     fullname: >-
-      briscalesse
+      Maggie Yes
     bio: >-
-      model, disability advocate, NYC ✨ insta: @briscalesse
+      Popular on IG & YT over 5m followers. Follow my insta- barvinam
     location: "United States"
-    followers: 445500
-    engagement: 1655
-    commentsToLikes: 0.010562
-    id: ck8ndykrcl9r50j78848sl8n3
+    followers: 15100
+    engagement: 2192
+    commentsToLikes: 0.029893
+    id: ck8j8yyxuky8n0j78dfjge92t
     verified: false
-    hashtags: "#disability, #model, #wheelchair, #newyork"
-  - username: "mitchellbienvenue"
-    fullname: >-
-      Mitchell Bienvenue
-    bio: >-
-      Columbus, OH | Fort Lauderdale, FL Instagram @mitchellbienvenue
-    location: "United States"
-    followers: 134000
-    engagement: 995
-    commentsToLikes: 0.109744
-    id: ckbfg8plcb3w60j23cuvc1m18
-    verified: false
-    hashtags: "#motivationmonday, #ohiolife, #showupshowoff, #holidaytiktok"
-  - username: "artistic_living"
-    fullname: >-
-      MG
-    bio: >-
-      Showing you how to be an artist in every aspect of your life
-    location: "United States"
-    followers: 28300
-    engagement: 1571
-    commentsToLikes: 0.018536
-    id: ckammbwqczuyj0i78oa7f7kat
-    verified: false
-    hashtags: "#greenscreen, #nailart, #art, #artist"
+    hashtags: "#nyc, #model, #newyork, #view"
   - username: "sunainabhagisb"
     fullname: >-
       Sunaina Bhagi
     bio: >-
       Actor Model Fitness freak New York📍Mumbai📍Delhi📍 Instagram- sunainabhagi
     location: "United States"
-    followers: 63300
-    engagement: 535
-    commentsToLikes: 0.046706
+    followers: 62900
+    engagement: 414
+    commentsToLikes: 0.022750
     id: ckbwjfosa3jji0j23kdgxx6ip
     verified: false
-    hashtags: "#inthewild, #usa, #creator, #newyork"
-  - username: "ariweiss_"
+    hashtags: "#christmas, #love, #bagelbopscontest, #sky"
+  - username: "bentleymescall"
     fullname: >-
-      Ari 📸
+      BENTLEY MESCALL
     bio: >-
-      photographer / nyc
+      NYC 🦋 IMG Models Worldwide 🦋 ⇩ YOUTUBE CHANNEL ⇩
     location: "United States"
-    followers: 18900
-    engagement: 1114
-    commentsToLikes: 0.029516
-    id: ckbfbzih04d9d0j231j0n8onu
+    followers: 239800
+    engagement: 2094
+    commentsToLikes: 0.007430
+    id: ckcekzi52uktu0j232agh7h3k
     verified: false
-    hashtags: "#photographer, #xyzbca, #foryou, #photography"
-  - username: "allisoncamile"
+    hashtags: "#nyc, #foryou, #imgmodels, #modeltok"
+  - username: "shotzbyalex"
     fullname: >-
-      Allison Camile
+      Alex Frank
     bio: >-
-      New York City 🗽 Wilhemina Model | Student lets be friends on IG Proud Latina🤍
+      ⚡️NYC photographer⚡️ shop my presets ⬇️
     location: "United States"
-    followers: 296000
-    engagement: 1456
-    commentsToLikes: 0.010348
-    id: ckd6d0szh57i60j23181mafb5
+    followers: 258100
+    engagement: 1326
+    commentsToLikes: 0.010656
+    id: ck94nksjs78a70j78pr2mv23c
     verified: false
-    hashtags: "#interiordesign, #greenscreen, #signedtowilhelmina, #dance"
-  - username: "ride.or_die_biker"
+    hashtags: "#photomagic, #photoshoot, #fashion, #photographer"
+  - username: "russiaancream"
     fullname: >-
-      Aaron Falvo
+      САНЯ 222
     bio: >-
-      New Jersey Still living free and not giving a f**k (18)
+      Следи за собой ur fav photographer & stylist chicago/nyc 20
     location: "United States"
-    followers: 118600
-    engagement: 1319
-    commentsToLikes: 0.016971
-    id: ckbklrry5f0rc0j23z4m6zemz
+    followers: 26900
+    engagement: 1577
+    commentsToLikes: 0.017133
+    id: ck9aaylbqmlmx0j78f0wepbvx
     verified: false
-    hashtags: "#ninja, #grom, #zx6r, #motorcycle"
-  - username: "dmichaelburke"
+    hashtags: "#newyork, #model, #style, #fit"
+  - username: "emmymercado"
     fullname: >-
-      Michael
+      Emmy M
     bio: >-
-      🧚🏼‍♂🌈Literally gay🌈🧚🏼‍♂️ P.O. Box 6778 Ocean Isle Beach, NC 28467
+      a little bit of everything ✨ $EmilyDancer
     location: "United States"
-    followers: 297300
-    engagement: 1813
-    commentsToLikes: 0.018303
-    id: ckd6xnmkkuono0j23lgexalqz
+    followers: 36800
+    engagement: 1314
+    commentsToLikes: 0.055462
+    id: cka66lfu4hehl0i7835nyz4r5
     verified: false
-    hashtags: "#foryoupage, #flirt, #foryou, #gay"
-  - username: "zodiacslibra"
+    hashtags: "#fyp, #xyzbca, #latina, #silouhettechallenge"
+  - username: "trini180528"
     fullname: >-
-      𝙰𝚕𝚒𝚗𝚊
+      Maria Roman
     bio: >-
-      𝕊𝕙𝕖/𝕙𝕖𝕣 𝐻𝑎𝑝𝑝𝑦 𝑆𝑐𝑜𝑟𝑝𝑖𝑜 𝑆𝑒𝑎𝑠𝑜𝑛 THANK YOU FOR 40K
+      Fans🙏🇩🇴artistas,amor, paz, respecto.Amo todos los seres vivos. Reírse.🦜🐕➕🎶
     location: "United States"
-    followers: 40200
-    engagement: 1739
-    commentsToLikes: 0.033199
-    id: ckbf7pzfbxvtz0j23vkxrllpm
+    followers: 199500
+    engagement: 637
+    commentsToLikes: 0.036545
+    id: ck9eocrw3nn1m0j78biactf4u
     verified: false
-    hashtags: "#in, #girls, #people, #future"
+    hashtags: "#trap, #viral, #baby, #latin"
+  - username: "kahanucu"
+    fullname: >-
+      Kahanu Cuban
+    bio: >-
+      my sisters got me into this
+    location: "United States"
+    followers: 10100
+    engagement: 1001
+    commentsToLikes: 0.023766
+    id: ckavng373xou10j23u1yeyold
+    verified: false
+    hashtags: "#fyp, #college, #hawaii, #christmas"
+  - username: "sarahlynnmonroe"
+    fullname: >-
+      Sarahlyn Monroe
+    bio: >-
+      just my life enjoi Nomadic New Yorker ☁️ model, artist, lowkey burnout ⚰️
+    location: "United States"
+    followers: 8343
+    engagement: 1333
+    commentsToLikes: 0.038733
+    id: ck90xz1nv8md70j78l306lmua
+    verified: false
+    hashtags: "#yungblud, #xyzcba, #triptok, #dumptrump"
 ---

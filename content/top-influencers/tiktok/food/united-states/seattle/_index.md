@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Seattle In 2022
+title: Top 10 Food TikTok Influencers In Seattle In 2023
 description: >-
-  Find top food TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #food #foryou #seattle.
+  Find top food TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #seattle #food #foryou.
 platform: TikTok
-hits: 54
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 54 TikTok influencers like this in Seattle, United States for you to pitch.
+hits: 36
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 36 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
-  - username: "phillipkopczynski"
+  - username: "iamejayiii"
     fullname: >-
-      Phillip Kopczynski
+      Ejay Barquet III
     bio: >-
-      road comic. pro bono quarantine comic. ful sketches on IG, FB, YT SPECIAL-DRYBAR
+      📍Skyway , Wa Est. 2000🖤 John 3:16✝️ #RIPUB Go follow @mirmir2006 and @Zamiah08
     location: "United States"
-    followers: 7246
-    engagement: 1393
-    commentsToLikes: 0.031662
-    id: ckc38adqrx2a10j23by6pg0re
+    followers: 3947
+    engagement: 1016
+    commentsToLikes: 0.032624
+    id: ckdc7smvshvza0j23t13bvjl4
     verified: false
-    hashtags: "#joke, #biden, #naive, #stitch"
+    hashtags: "#funny, #couples, #fyp, #foryou"
+  - username: "mamiabbiexo"
+    fullname: >-
+      Abigail Herrera
+    bio: >-
+      Snapchat:👻. Mamiabbie IG: _abbie.xoxo
+    location: "United States"
+    followers: 13800
+    engagement: 468
+    commentsToLikes: 0.022678
+    id: ckbfdxl6k7o260j23dam7xbr6
+    verified: false
+    hashtags: "#fyp, #mexicanfood, #tigerking, #jennirivera"
+  - username: "_angiemata"
+    fullname: >-
+      A N G I E  M A T A
+    bio: >-
+      Un poquito de todo! Wife. Mom. | WA🌲|🇲🇽| 💖🎤💄👩🏻‍🍳 INSTAGRAM:@_angiemata
+    location: "United States"
+    followers: 142400
+    engagement: 757
+    commentsToLikes: 0.006360
+    id: ck932idajjn7l0j78nk9obu71
+    verified: false
+    hashtags: "#latina, #comida, #fyp, #dessert"
+  - username: "bellawomackk"
+    fullname: >-
+      Bella W
+    bio: >-
+      30k?🥺 WA Follow me on insta💗
+    location: "United States"
+    followers: 27000
+    engagement: 1385
+    commentsToLikes: 0.068636
+    id: ckc905a79pfj80j23kvhdaxut
+    verified: false
+    hashtags: "#tiktok, #thatwitch, #foryou, #fyp"
+  - username: "westcoastlivinn"
+    fullname: >-
+      West Coast Livin
+    bio: >-
+      We relate to you. Washington State 💯 How I got 500k views on one video 👇🏼
+    location: "United States"
+    followers: 4936
+    engagement: 684
+    commentsToLikes: 0.042350
+    id: ck8z6kgn4mgz50j781fx1fs7y
+    verified: false
+    hashtags: "#washingtonstate, #tacomawa, #seatac, #fyp"
+  - username: "maeiiza"
+    fullname: >-
+      Cristina Yang
+    bio: >-
+      if only you wanted me the way I want you
+    location: "United States"
+    followers: 263200
+    engagement: 1607
+    commentsToLikes: 0.020305
+    id: ck9m0z1xackdo0j78wqma3l4f
+    verified: false
+    hashtags: "#lgbt, #lingerie, #comedy, #fyp"
   - username: "rambosthanos"
     fullname: >-
       Thanos
     bio: >-
       
     location: "United States"
-    followers: 28600
-    engagement: 401
-    commentsToLikes: 0.007635
+    followers: 28400
+    engagement: 390
+    commentsToLikes: 0.012550
     id: ck83zglvs0kxx0j78rtmgjztr
     verified: false
-    hashtags: "#food, #zoo, #yummy, #seattle"
-  - username: "s.a.r.a.h.l.e.e.e"
+    hashtags: "#yummy, #zoo, #seattle, #nature"
+  - username: "itskiraxo"
     fullname: >-
-      Sarah Lee
+      Kira Skolnick
     bio: >-
-      Sarah Lee 18 🇰🇷WA📍 Fllw my Insta :) @s.a.r.a.h.l.e.e.e Venmo:sarahlee726
+      Probably over dressed. IG itskiraxo ✨
     location: "United States"
-    followers: 106400
-    engagement: 1093
-    commentsToLikes: 0.023078
-    id: ckan2l8ky0vhh0i78s2o37oik
+    followers: 3778
+    engagement: 723
+    commentsToLikes: 0.055515
+    id: ckd0t5hshj7c50j23y6oc22k9
     verified: false
-    hashtags: "#relationship, #foryoupage, #fyp, #washington"
-  - username: "pktxxre"
-    fullname: >-
-      Alex
-    bio: >-
-      🇰🇷🇺🇸 18 😎 150k!!! 🥺
-    location: "United States"
-    followers: 160300
-    engagement: 1805
-    commentsToLikes: 0.013505
-    id: ckck37de1myxs0j239g0e9aas
-    verified: false
-    hashtags: "#korean, #asian, #boba, #relatable"
-  - username: "parkermorgannn"
-    fullname: >-
-      Parker Morgan
-    bio: >-
-      i use instagram more^^ | 20 fighting cancer 🎗
-    location: "United States"
-    followers: 39200
-    engagement: 581
-    commentsToLikes: 0.014285
-    id: ckdn3p7txdych0j23hji0baox
-    verified: false
-    hashtags: "#christmas, #duet, #cancer, #fyp"
+    hashtags: "#fashion, #fyp, #travel, #pokeitout"
   - username: "_wyattrussell_"
     fullname: >-
       wyattrussell
     bio: >-
-      norf seattle
+      norf seattle 18
     location: "United States"
-    followers: 86300
-    engagement: 2224
-    commentsToLikes: 0.043441
+    followers: 81100
+    engagement: 1615
+    commentsToLikes: 0.041237
     id: ck99ans2cidkl0j78ksicr7vq
     verified: false
-    hashtags: "#naruto, #lol, #4u, #fyp"
-  - username: "h.a.n.a.n.a"
+    hashtags: "#4u, #skate, #fyp, #highschool"
+  - username: "baristart"
     fullname: >-
-      h.a.n.a.n
+      Michael Breach
     bio: >-
-      Seattle, Washington 🌲 🚗 to 300K Business: Abdullahihanan53@gmail.com
+      Michael Breach IG @baristart TODAY Show, Disney, Food Network Can I get to 30k?
     location: "United States"
-    followers: 247500
-    engagement: 2250
-    commentsToLikes: 0.019662
-    id: ck9shzbrvw2e90j78c7ovu8vf
+    followers: 21500
+    engagement: 1519
+    commentsToLikes: 0.066340
+    id: cka6l25lm1d1x0i784nz4rvkb
     verified: false
-    hashtags: "#showupshowoff, #muslim, #hijabi, #fyp"
-  - username: "sayabee3"
-    fullname: >-
-      Saya
-    bio: >-
-      Saya -21- 🇺🇸🇯🇵 ハーフ Seattle/Portland I post a lot about Japan
-    location: "United States"
-    followers: 19600
-    engagement: 1505
-    commentsToLikes: 0.026880
-    id: ck8kfesnrdvhm0j78fcrg31kn
-    verified: false
-    hashtags: "#foryou, #wasian, #love, #japan"
-  - username: "ephrimvidz"
-    fullname: >-
-      Ephrim Kim
-    bio: >-
-      Seattle 📍WA, welcome to my skits (follow my Instagram ephrimvidz )
-    location: "United States"
-    followers: 106500
-    engagement: 1975
-    commentsToLikes: 0.011247
-    id: ckbl26y2sz84u0j232e12s7wg
-    verified: false
-    hashtags: "#comedyskit, #cutegirls, #girlfriend, #foryou"
-  - username: "thomasstone38"
-    fullname: >-
-      Thomas Stone
-    bio: >-
-      Seattle Single Dad Not sure how I ended up here....
-    location: "United States"
-    followers: 489300
-    engagement: 1595
-    commentsToLikes: 0.003803
-    id: ck8j3udhizt270j780tuklbpx
-    verified: false
-    hashtags: "#art, #jello, #artlessons, #jelloflower"
+    hashtags: "#hogwarts, #latte, #harrypotter, #coffee"
 ---

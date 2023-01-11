@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Germany In 2022
+title: Top 10 Fashion Instagram Influencers In Germany In 2023
 description: >-
-  Find top fashion Instagram influencers in Germany in 2022. Most popular hashtags: #fashion #ootd #fashionblogger #blogger.
+  Find top fashion Instagram influencers in Germany in 2023. Most popular hashtags: #blogger #fashionblogger #bloggerstyle #ootd.
 platform: Instagram
-hits: 4894
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database holds 4894 Instagram influencers like this in Germany for you to connect with.
+hits: 3941
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 3941 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "usamskeyy"
+  - username: "vanessa.rhd"
     fullname: >-
-      "USAMA RAFIQ"
+      Vanessa 🦋
     bio: >-
-      ◤◢◤◢◤◢◤◢◤◢◤◢◤◢ ▪️👤 Fashion // Streetwear ▪️📍 Karlsruhe, Germany ▪️10 % Discount @musthype_ with "USAMSKEYY10"
+      Berlin / Barcelona📍19yo @vannibunny26 @fashionnova ambassador
     location: "Germany"
-    followers: 5663
-    engagement: 2402
-    commentsToLikes: 0.105696
-    id: ck138kxgcgqj70i19oskftgev
+    followers: 1875590
+    engagement: 912
+    commentsToLikes: 0.007031
+    id: ck0w4s0dj04hc0i19mgbdpogi
     verified: false
-    hashtags: ""
-  - username: "chantal.pe"
-    fullname: >-
-      chantal
-    bio: >-
-      🖤Fashion | Inspo | Lifestyle 📍based in germany | ffm 📩 contact: chantal.pe@gmx.net do more of what makes you happy✨ use: #chantalpe
-    location: "Germany"
-    followers: 12631
-    engagement: 2242
-    commentsToLikes: 0.115021
-    id: ck15t3kabg6aa0i19wgtb1i5p
-    verified: false
-    hashtags: "#herbstinspo, #sonnenbrille, #girlsinsposupport, #classy"
-  - username: "jacki.byr"
-    fullname: >-
-      Jacki 🍍
-    bio: >-
-      FASHION | LIFESTYLE | FITNESS 📍NRW 🧳 Visual Merchandiser ...𝓂𝒶𝓀𝑒 𝒾𝓉 𝒽𝒶𝓅𝓅𝑒𝓃 ✨
-    location: "Germany"
-    followers: 5065
-    engagement: 2201
-    commentsToLikes: 0.136230
-    id: ck8t8vsl9m0yx0j7850rvescv
-    verified: false
-    hashtags: "#fashionlover, #fashionaddict, #fashionstyle, #outfitoftheday"
-  - username: "pmaa_"
-    fullname: >-
-      Pia
-    bio: >-
-      Fashion Journalism @looxxmagazine Duesseldorf pia.mb@hotmail.com
-    location: "Germany"
-    followers: 7480
-    engagement: 2020
-    commentsToLikes: 0.108620
-    id: ck6tuzcnfjak20j71xrdb80ef
-    verified: false
-    hashtags: "#safirashine, #kaleandme"
-  - username: "bak_lifestyle"
+    hashtags: "#chngepartner"
+  - username: "mrspinay"
     fullname: >-
       Yvonne
     bio: >-
-      ᶠᵃˢʰⁱᵒⁿ 🌸 ᴮᵉᵃᵘᵗʸ 🌸 ᴸⁱᶠᵉˢᵗʸˡᵉ • 👰🏻wifey • 👧🏻mommy • 🇩🇪🇵🇱 • Girl next door 💌 bak_lifestyle@web.de / DM 📍 Bochum , NRW 🌍 Next📍
+      FASHION | FAMILY | TRAVEL 📧Kooperation | yvonne.hamamci@gmail.com 👼🏼Mommy to Mila 👼🏼Mommy to Eliyas Malik 💍 Wifey to @fategoo93
     location: "Germany"
-    followers: 9463
-    engagement: 1927
-    commentsToLikes: 0.194192
-    id: ck6tp2218hegf0j71wbb5mlvr
+    followers: 11386
+    engagement: 1124
+    commentsToLikes: 0.067877
+    id: ckaowep3y8lue0i78l7vgphsg
     verified: false
-    hashtags: "#girlssupportgirls, #germanbloggerinspo, #streetstyle, #sunday"
-  - username: "luisa.kuco"
+    hashtags: "#happy, #shein, #sheingals, #blogger"
+  - username: "kybra.dinas"
     fullname: >-
-      GOOD VIBES ONLY🖤
+      KÜBRA
     bio: >-
-      📍 Freiburg 🇩🇪 💌 luisa.kuri@online.de fashion lover | lifestyle | pug mom
+      •fashion addicted •daily outfit posts •based in cologne •UGC creator
     location: "Germany"
-    followers: 7344
-    engagement: 1666
-    commentsToLikes: 0.118456
-    id: ckap557kya91x0i78i3ofuiig
+    followers: 20238
+    engagement: 439
+    commentsToLikes: 0.110167
+    id: cky43n7p5hpvc0j23ivh14pow
     verified: false
-    hashtags: "#carmushka, #puglove, #autumnvibes, #annaix"
-  - username: "kimisdiary"
+    hashtags: "#postitfortheaesthetics, #germanbloggergirls, #germaninfluencer, #aestheticfeed"
+  - username: "vicces_"
     fullname: >-
-      Kimberly
+      victoria
     bio: >-
-      FASHION - LIFESTYLE Germany, 25, in love, 🦁 Frenchiemommy 🐶 FOTOGRAFIELIEBE
+      🦋 fitness • fashion • model ☁️ cologne | 22 🏋🏽‍♀️ Teveo -10% mit Viccesx10 🤎 @naughtynuts -10% mit Victoria10
     location: "Germany"
-    followers: 5603
-    engagement: 1615
-    commentsToLikes: 0.095759
-    id: ck9hag4hccenj0j78gjk72ym1
+    followers: 91635
+    engagement: 723
+    commentsToLikes: 0.029055
+    id: ck8t8e2rsk3ta0j78t0okncez
     verified: false
-    hashtags: "#blondesandcookies, #liebsmaximal, #americanstyle, #blondehair"
-  - username: "thisismyuca"
+    hashtags: "#potd, #teveo, #gymmotivation, #fitfamgermany"
+  - username: "oh.hey.nina"
     fullname: >-
-      M Y U C A 🌸
+      ♡ NINA ♡
     bio: >-
-      FASHION & TRAVEL & OOTD✨ https://shein.com/es 15% OFF ⭐️thisismyuca15 📍Dresden - Spain 🌍
+      FASHION • OOTD • LIFESTYLE 📍 w ü r z b u r g | Germany Life is about moments - don‘t wait for them - CREATE them! ♥
     location: "Germany"
-    followers: 8254
-    engagement: 1596
-    commentsToLikes: 0.117346
-    id: ckap3c1r72f9s0i78zfdxi2kt
+    followers: 13792
+    engagement: 543
+    commentsToLikes: 0.133250
+    id: ck8ta74syqp8f0j78lxllfyfe
     verified: false
-    hashtags: "#october, #outfits, #autumn, #instagood"
-  - username: "paulawelninski"
+    hashtags: "#styleblogger, #streetstylefashion, #malediven, #mylookoftheday"
+  - username: "mrs.lilly___"
     fullname: >-
-      𝒫𝒶𝓊𝓁𝒶 🕊
+      L I L L Y 🕊 Ѡ
     bio: >-
-      22 | Berlin | Fashion ♡ ✉️ p.welninski@gmx.de
+      FASHION • TRAVEL ——taken 💍🤍 για πάντα
     location: "Germany"
-    followers: 9477
-    engagement: 1403
-    commentsToLikes: 0.129611
-    id: ck8t38l232bsc0j78lnikru8p
+    followers: 132831
+    engagement: 774
+    commentsToLikes: 0.023858
+    id: ck0w6o8e89i8w0i19ya6r4wwu
     verified: false
-    hashtags: "#fashion, #ootd, #fashioninspo, #summer"
-  - username: "katharinaaaa__aaa"
+    hashtags: "#dino, #shorthair, #tattoo, #freckles"
+  - username: "katiazygouli"
     fullname: >-
-      Katharina
+      Katia Zygouli
     bio: >-
-      #family 💕 #fashion Anfragen 👉🏻 gkatharina28@gmail.com |sweet 32| |Austria|@daddy_vienna
+      Mother of 4 I love to share stories @katias_stories Fashion model Paris @martineswomenagency Germany @parsmanagement Austria @wiener_models
     location: "Germany"
-    followers: 259682
-    engagement: 1401
-    commentsToLikes: 0.408258
-    id: ck5zvlx0y4hfs0i1483ir2ipw
+    followers: 333643
+    engagement: 265
+    commentsToLikes: 0.009306
+    id: ck5q8m8316vgz0i114eun6fi9
     verified: false
-    hashtags: "#liebe, #fashion, #family, #instafamily"
+    hashtags: "#syosscolor, #oleointense, #syosscare, #omorfamalliakathemera"
+  - username: "stephifashion"
+    fullname: >-
+      Stephanie
+    bio: >-
+      FASHION | CREATIVE | REZEPTE 💍 @JULIAN.EVANGELOS ✉️ karo@kyndberlin.com Feminist @impressum_stephifashion
+    location: "Germany"
+    followers: 239502
+    engagement: 252
+    commentsToLikes: 0.028280
+    id: ck5bzq3klrmqk0i11a9e14a87
+    verified: true
+    hashtags: "#weihnachtsmen, #couplegoals, #newyork, #schnellerezepte"
+  - username: "elke_july"
+    fullname: >-
+      🌞Elke🌞
+    bio: >-
+      《𝐖𝐞𝐫 𝐬𝐜𝐡𝐨̈𝐧 𝐬𝐞𝐢𝐧 𝐰𝐢𝐥𝐥, 𝐦𝐮𝐬𝐬 𝐥𝐚𝐜𝐡𝐞𝐧》 Fashion▪︎Lifestyle▪︎Travel▪︎Sports Mein Herz schlägt bayerisch🏞 📩 elke_july@web.de Copyright by me Impressum ⬇️
+    location: "Germany"
+    followers: 38987
+    engagement: 210
+    commentsToLikes: 0.177177
+    id: ck8t4xqzm875a0j78nq37avnt
+    verified: false
+    hashtags: "#christmasdress, #fashioninspo, #outfitpost, #blonde"
+  - username: "uls_andthekids"
+    fullname: >-
+      Ulli | Interior • Fashion • Lifestyle
+    bio: >-
+      Hello: uls.andthekids@gmail.com Interior | Lifestyle | Fashion Impressum:
+    location: "Germany"
+    followers: 65856
+    engagement: 187
+    commentsToLikes: 0.076438
+    id: ck55nuals6zoy0i11ocwl0j65
+    verified: false
+    hashtags: "#decohome, #fuchsegg, #plantsofinstagram, #interior"
 ---

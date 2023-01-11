@@ -1,130 +1,130 @@
 ---
-title: Top 10 Jiu-Jitsu Fighters Instagram Influencers In 2022
+title: Top 10 Jiu-Jitsu Fighters Instagram Influencers In 2023
 description: >-
-  Find top jiu-jitsu fighters Instagram influencers in 2022. Most popular hashtags: #jiujitsu #bjj #love #bjjgirls.
+  Find top jiu-jitsu fighters Instagram influencers in 2023. Most popular hashtags: #jiujitsu #bjj #jiujitsuparamulheres.
 platform: Instagram
-hits: 1039
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 1039 Instagram influencers like this for you to contact.
+hits: 1063
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 1063 Instagram influencers like this for you to contact.
 profiles:
-  - username: "claracardoso.bjj"
+  - username: "brandencondy"
     fullname: >-
-      Uchiha
+      Branden Condy
     bio: >-
-      🔱🦊👑. •JIU JITSU (GI AND NOGI)🌍 ☆Competing Athete☆ [GIBBORIM TOP TEAM]
+      ✝️ brazilian jiu jitsu 🥋 Marketing 🖥 Ecom 💻
     location: "Brazil"
-    followers: 3884
-    engagement: 2423
-    commentsToLikes: 0.138897
-    id: ck8t7pdi2hjvd0j78818bi0u9
+    followers: 1093577
+    engagement: 118
+    commentsToLikes: 0.014145
+    id: ck5bu4iz5h5an0i11flqmys5r
     verified: false
-    hashtags: "#jiujitsu, #jiujitsu4life, #jiujitsulove, #jiujitsuforeveryone"
+    hashtags: ""
   - username: "ellem_hm"
     fullname: >-
       Ellem HM
     bio: >-
-      🚨 Policial Civil/SC 🇧🇷👮💀 🥋Jiu Jitsu 💙BJJ - Blue Belt L😻❤E 🐾 Bsb ✈️ SC/BC ♎️🌞Libriana✨Sagitário ♐️✨Leão🌙♌️ ⚖️ Nutri🍎 🌎👽🪐
+      🚨 Policial Civil/SC 🇧🇷👮💀 🥋Jiu Jitsu 💙BJJ - Blue Belt L😻❤E 🐾 Bsb ✈️ SC ♎️🌞Libriana✨Sagitário ♐️✨Leão🌙♌️ ⚖️ Nutri🍎 🌎👽🪐
     location: "Brazil"
-    followers: 21429
-    engagement: 1436
-    commentsToLikes: 0.058995
+    followers: 21877
+    engagement: 1243
+    commentsToLikes: 0.064765
     id: ck9hb49oefcf40j78m2tasjoe
     verified: false
-    hashtags: "#cops, #brazil, #carreiraspoliciais, #forc"
+    hashtags: "#policia, #cuidedasuasaude, #pc, #brazil"
+  - username: "claracardoso.bjj"
+    fullname: >-
+      Cardoso
+    bio: >-
+      •GIBBORIM 🇧🇷 •JIU JITSU (GI AND NOGI)🌍 ☆Competing Athete☆ •15y >@_joaovictorr._💖
+    location: "Brazil"
+    followers: 4447
+    engagement: 1935
+    commentsToLikes: 0.163412
+    id: ck8t7pdi2hjvd0j78818bi0u9
+    verified: false
+    hashtags: "#jiujitsulife, #jiujitsuparamulheres, #jiujitsubrasiloficial, #jiujitsuforeveryone"
   - username: "ron_.levi"
     fullname: >-
       Ron Levi
     bio: >-
       Don't limit your challenges challenge your limits💪 @brickmodels MA 🇮🇱 @trendmodelsmgmt 🇪🇸 BJJ- Brazilian Jiu-Jitsu Train🏋🏻‍♂️Eat🍰Sleep😴Repeat🔙
     location: "Brazil"
-    followers: 228120
-    engagement: 973
-    commentsToLikes: 0.020897
+    followers: 242617
+    engagement: 1031
+    commentsToLikes: 0.020108
     id: ck5hgspdp4jz00i11xbfssplu
     verified: false
-    hashtags: "#catsofinstagram, #workout, #delivery, #deliveryguy"
-  - username: "mateus_velo"
+    hashtags: "#brickmodels, #model, #telaviv"
+  - username: "monetbabazadeh"
     fullname: >-
-      💥Mateus💥
+      Monet Babazadeh
     bio: >-
-      💎SANTO ANDRÉ💎 Jiu-jítsu🥋 @saopaulofc Dix-@dix_mateus_velo Conta segundaria-@m_veloxx 💥Parcerias no direct💥
-    location: "Brazil"
-    followers: 9996
-    engagement: 2241
-    commentsToLikes: 0.125580
-    id: ck9wh5o8fwdfn0j78721veamj
+      I am a fierce and passionate woman. AOJ/ATOS Jiu-Jitsu purple belt. 🇮🇷 SC 👻monetnb 📍 Seoul, Korea 🎥 My NEW VIDEO IS UP!!!👇
+    location: "South Korea"
+    followers: 38919
+    engagement: 259
+    commentsToLikes: 0.055884
+    id: ckap8dxbonwmx0i787fym253r
     verified: false
-    hashtags: ""
-  - username: "ju_amaral_bjj"
-    fullname: >-
-      Juliana Amaral
-    bio: >-
-      ✝️ Uma nova vida em Cristo ✨ Parcerias via direct ❤️ @thiagoalmeida18 💪🏻 @personal.maia 🥋 jiu-jítsu @gfteamhigienopolis 📚Engenharia elétrica
-    location: "Brazil"
-    followers: 33493
-    engagement: 403
-    commentsToLikes: 0.124424
-    id: ck8t3srub4col0j78jxdz24b9
-    verified: false
-    hashtags: "#life, #brazil, #amor, #blessed"
+    hashtags: "#sailormoonvibes, #otakugirl, #sweettoothformickey, #happybirthdaytome"
   - username: "_murilotavares"
     fullname: >-
-      Murilo Tavares 🇧🇷
+      Murilo Tavares
     bio: >-
       Chasing my dreams 🏆 Jiu-Jitsu lifestyle 🥋
-    location: "United Arab Emirates"
-    followers: 6192
-    engagement: 1174
-    commentsToLikes: 0.069146
+    location: "United States"
+    followers: 5903
+    engagement: 1154
+    commentsToLikes: 0.067978
     id: ck5zyt8q0ahn90i145ae1gs8j
     verified: false
-    hashtags: "#bjjlifestyle"
-  - username: "kendallreusing"
-    fullname: >-
-      KENDALL REUSING - Jiu Jitsu
-    bio: >-
-      I am a 23 y/o 7x Jiu Jitsu World Champion who loves to talk about Mindset, Body Positivity and Love 🖤 @graciebarra @venum @redbowiecbd Use my link 🦋⤵️
-    location: "United States"
-    followers: 46868
-    engagement: 643
-    commentsToLikes: 0.040069
-    id: ckaoum31l0v2l0i78mgawzw8y
-    verified: false
-    hashtags: "#peace, #grit, #selfcare, #nogijiujitsu"
-  - username: "carazeveney_bjj"
-    fullname: >-
-      Cara "Queen in the North" Z
-    bio: >-
-      ᛏᛁᛚᛚ vᚪᛚᛚᚻᚪᛚᛚᚪ 🍃History🍃 Fitness🍃Nature🍃 ❤@big_zesty 💍🔔 🇧🇷Jiu Jitsu Blue Belt💙🥋 @futurekimonos Athlete - Use Code ➡️ RED15 @einherjarwear ☠ 📍FL
-    location: "United States"
-    followers: 9879
-    engagement: 1848
-    commentsToLikes: 0.026435
-    id: ck5cl4dbky82l0i11wip1j5hg
-    verified: false
-    hashtags: "#jiujitsulifestyle, #jiujitsugirls, #valkyrie, #gingergirl"
-  - username: "juliaboscher"
-    fullname: >-
-      Julia Boscher
-    bio: >-
-      #fightlikeagirl 🥋Brazilian Jiu Jitsu ◼️Black Belt 📩 partnerships sponsorships seminars private and self defense classes please contact only by email.
-    location: "Brazil"
-    followers: 32882
-    engagement: 643
-    commentsToLikes: 0.081541
-    id: ck5zy606m9ae30i14aq9o1xnp
-    verified: false
-    hashtags: "#repost, #jiujitsu, #bjj, #brazilianjiujitsu"
+    hashtags: "#valentine, #bjjlifestyle"
   - username: "ghi_eburneo"
     fullname: >-
       Giovanna Eburneo 👊🏼🥋
     bio: >-
-      Jiu Jitsu - Brownbelt 🥋 Atleta @dragonpharmabrasil 🐲 Educação Física 💪🏼 Consultoria On-line 💪🏼 👉🏼Ghieburneo@hotmail.com 📩 Parcerias👆🏼 Cupom: Ghi10 👇🏼
+      Jiu Jitsu - Brownbelt 🥋 Atleta @dragonpharmabrasil 🐲 Personal Trainer💪🏼 Consultoria On-line 💪🏼 👉🏼Ghieburneo@hotmail.com 📩 Parcerias👆🏼 Cupom: Ghi10 👇🏼
     location: "Brazil"
-    followers: 249178
-    engagement: 493
-    commentsToLikes: 0.023809
+    followers: 253246
+    engagement: 315
+    commentsToLikes: 0.029570
     id: ck1378sg6ac9o0i19epg9e894
     verified: false
-    hashtags: "#god, #oss, #educacaofisica, #blackviper"
+    hashtags: "#bjj, #brownbelt, #look, #tryex"
+  - username: "laraprocopio_ufc"
+    fullname: >-
+      Lara Fritzen Procópio
+    bio: >-
+      ▪️UFC Fighter ▪️Black Belt Jiu-jitsu ▪️Team Nova União / RJ
+    location: "Brazil"
+    followers: 8460
+    engagement: 605
+    commentsToLikes: 0.077834
+    id: ck15q834g1jkz0i19bon7og1y
+    verified: false
+    hashtags: "#ufc, #mindset, #ufcbrasil, #foco"
+  - username: "kendallreusing"
+    fullname: >-
+      KENDALL REUSING - Jiu Jitsu
+    bio: >-
+      I am a 7x Jiu Jitsu World Champion who loves to share my Mindset, Body Positivity, Poetry, & Love 🍯 Sponsors: @venum @redbowiecbd @whoop Use link🦋👇
+    location: "United States"
+    followers: 52473
+    engagement: 479
+    commentsToLikes: 0.033861
+    id: ckaoum31l0v2l0i78mgawzw8y
+    verified: false
+    hashtags: "#normalizenormalbodies, #manifestation, #championmindset, #girlswholiftweights"
+  - username: "mika.cristina_"
+    fullname: >-
+      Micaelle
+    bio: >-
+      João 10:10 2x Brazilian National Champion 2x South American Champion Brazilian Jiu jitsu purple belt
+    location: "Brazil"
+    followers: 8548
+    engagement: 945
+    commentsToLikes: 0.050995
+    id: ck5znucqtp63w0i146jvt7t0e
+    verified: false
+    hashtags: "#jiujitsulife, #ibjjf, #sejafoda, #grappling"
 ---

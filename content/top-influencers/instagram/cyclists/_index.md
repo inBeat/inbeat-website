@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In 2022
+title: Top 10 Cyclists Instagram Influencers In 2023
 description: >-
-  Find top cyclists Instagram influencers in 2022. Most popular hashtags: #cycling #cyclinglife #cyclist.
+  Find top cyclists Instagram influencers in 2023. Most popular hashtags: #cycling #cyclinglife #ciclismo.
 platform: Instagram
-hits: 962
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 962 Instagram influencers like this for you to connect with.
+hits: 987
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 987 Instagram influencers like this for you to work with.
 profiles:
   - username: "tommeeusen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Cyclist
     location: "Netherlands"
-    followers: 17329
-    engagement: 1579
-    commentsToLikes: 0.009329
+    followers: 16983
+    engagement: 1656
+    commentsToLikes: 0.018449
     id: ck5byx1v7q0p90i11b7qsnen5
     verified: false
     hashtags: ""
-  - username: "dylangroenewegen"
-    fullname: >-
-      Dylan Groenewegen
-    bio: >-
-      Dylan Groenewegen 🇳🇱 - ❌❌❌ - Pro cyclist Jumbo-Visma - Twitter: @GroenewegenD - inquiries: @segcycling
-    location: "Netherlands"
-    followers: 303694
-    engagement: 570
-    commentsToLikes: 0.037441
-    id: ck0tw2ndidr6e0i19xiy48vah
-    verified: false
-    hashtags: "#coronahulp, #helpenmaaktjehappy, #samentegencorona, #blackandyellow"
-  - username: "gloriavanmechelen"
-    fullname: >-
-      Gloria Van Mechelen
-    bio: >-
-      🇱🇹🇧🇪 Cyclist for @cannibalteam tiktok: fruitybae
-    location: ""
-    followers: 2351
-    engagement: 2060
-    commentsToLikes: 0.177057
-    id: ckapckyky48w60i786b5rzcvn
-    verified: false
-    hashtags: "#fuckerfits, #weekday, #examsgotmelike, #nature"
-  - username: "jasperphilipsen"
-    fullname: >-
-      Jasper Philipsen
-    bio: >-
-      - Professional cyclist for @uae_team_emirates - Represented by @squadrasportsmanagement
-    location: "United Kingdom"
-    followers: 15930
-    engagement: 1438
-    commentsToLikes: 0.032565
-    id: ck5qe0jr7y5a20i11miq9mp2f
-    verified: false
-    hashtags: "#bike, #uaeteamemirates, #ridetogether, #cyclinglife"
-  - username: "clippedinandfree"
-    fullname: >-
-      Alina Jäger
-    bio: >-
-      Cyclist. Sensitive & savage Creator @einmenschwiejeder Founder @agentur.authentisch 📍Germany ❤@mikula.thome
-    location: "Germany"
-    followers: 97432
-    engagement: 731
-    commentsToLikes: 0.018557
-    id: ck5zs18lrxmqn0i148cz2x1v8
-    verified: false
-    hashtags: "#rideyourbike, #clippedinandfree, #cycling, #vscocycling"
-  - username: "kelsey.mitchell9"
-    fullname: >-
-      Kelsey Mitchell
-    bio: >-
-      🇨🇦 Team Canada 🚲 Track Cyclist 🌎 World Record Holder 🏆 PanAm Champion 🙌 @RBC #Tokyo2020 || CANFund #150women 📍ONTARIO
-    location: "Canada"
-    followers: 6727
-    engagement: 1918
-    commentsToLikes: 0.033535
-    id: ck5hndtdrnm010i11v8eoipby
-    verified: false
-    hashtags: "#trackcycling, #teamcanada, #rbctrainingground, #rbc"
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
     bio: >-
       ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 60698
-    engagement: 462
-    commentsToLikes: 0.046698
+    followers: 64316
+    engagement: 540
+    commentsToLikes: 0.058125
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#espnbiketeam, #gorigogo, #ciclismo, #cycling"
+    hashtags: "#cyclinglife, #ciclismo, #gorigogooficial, #cycling"
+  - username: "gloriavanmechelen"
+    fullname: >-
+      Gloria Van Mechelen
+    bio: >-
+      🇱🇹🇧🇪 Cyclist for @cannibalteam tiktok: fruitybae
+    location: "United States"
+    followers: 2406
+    engagement: 2045
+    commentsToLikes: 0.170805
+    id: ckapckyky48w60i786b5rzcvn
+    verified: false
+    hashtags: "#nationalgeographic, #nature, #unreap, #fuckerfits"
+  - username: "king_iz"
+    fullname: >-
+      Isabel King
+    bio: >-
+      D1 soccer-> trading floor-> MBA-> pro triathlete-> cyclist? Sure. Why not try? Wear orange. Be fast and friendly. 🧡⚡️🚲 for @canyon_na
+    location: "United States"
+    followers: 11906
+    engagement: 1378
+    commentsToLikes: 0.042581
+    id: ckaownu5i9nre0i78jt33ckl0
+    verified: false
+    hashtags: "#climbmountains, #yikes, #selfinducedshortnessofbreath, #whosideawasthis"
+  - username: "_sicht_weise"
+    fullname: >-
+      Kathrin | 📍 Augsburg
+    bio: >-
+      Meine (nicht immer so weise) Sicht der Dinge 🏊‍♀️ #bleiente 🚴🏼‍♀️ #cyclist 🏃‍♀️ #runner 42k ♥️ empathische Wortakrobatin 🍑 schenkt & sucht #motivation
+    location: "Germany"
+    followers: 13987
+    engagement: 1344
+    commentsToLikes: 0.046314
+    id: ck0tvvcizcy860i193wvocbnr
+    verified: false
+    hashtags: "#correr, #rennradm, #runningmom, #instafriends"
   - username: "woutvanaert"
     fullname: >-
       Wout van Aert
     bio: >-
-      💍 Sarah 🚴‍♂️ Cyclist @jumbovisma_road 🚀 @RedBullBE athlete #GivesYouWings ✌🏼 Godfather of @towalkagain 🗣 'Stilstaan is achteruitgaan' #All4Goolie
+      🤍 Georges 👶🏼 & Sarah 💍 🚴‍♂️ Cyclist @jumbovisma_road & @RedBullBE athlete ✌🏼 Godfather @towalkagain 🗣 'Stilstaan is achteruitgaan' #all4goolie
     location: "United States"
-    followers: 375307
-    engagement: 1308
-    commentsToLikes: 0.014181
+    followers: 423441
+    engagement: 1470
+    commentsToLikes: 0.014928
     id: ck0tw2nspdr8w0i192v7k3gis
     verified: true
-    hashtags: "#samenwinnen, #comeback, #corona, #socialdistancing"
-  - username: "mooooo000min"
+    hashtags: "#covid, #newkitday, #staysafetogether, #nationals"
+  - username: "jasperphilipsen"
     fullname: >-
-      beki（ベキ/ムーミン）
+      Jasper Philipsen
     bio: >-
-      【ONELAP ANGEL 】ワンラップエンジェル e-Sports BIKE 女子チームメンバー @esportsangel_jp ・福岡在住 JAPAN🇯🇵 ・cyclist ・愛車はTREK （Madone4.5とMadone9） ・ロードバイクは2010年からスタート
-    location: "Japan"
-    followers: 23913
-    engagement: 1196
-    commentsToLikes: 0.024189
-    id: ck0w0ickgeck70i19zoleh1zm
+      - Professional cyclist for @alpecinfenix - Represented by @squadrasportsmanagement
+    location: "United Kingdom"
+    followers: 17544
+    engagement: 1548
+    commentsToLikes: 0.030622
+    id: ck5qe0jr7y5a20i11miq9mp2f
     verified: false
-    hashtags: "#moving2020, #coordinate, #trek, #fashion"
-  - username: "stefanoellea"
+    hashtags: "#uaeteamemirates, #ridetogether, #cycling, #limburgforlife"
+  - username: "sarah_allthingsoutdoors"
     fullname: >-
-      Stefano LA
+      SARAH️️ | Cycling Adventures
     bio: >-
-      Adventure Cyclist 🌍 Mountain Lover 🏔 Athlete: @albaoptics @lookcycle @prologo.official CO-FOUNDER @assaultofreedom
-    location: "Italy"
-    followers: 22303
-    engagement: 726
-    commentsToLikes: 0.044025
-    id: ck0vx12hnwlrl0i19zqu8qjap
+      plant-based cyclist & outdoors lover exploring the world on two wheels 🚲 @iamspecialized | 🗺 @garmincycling 📩 sarah@outdoorsaffair.com 📍Los Angeles
+    location: "United States"
+    followers: 98046
+    engagement: 227
+    commentsToLikes: 0.043344
+    id: ck0vvwfj1r2lr0i19i5dtm7ug
     verified: false
-    hashtags: ""
+    hashtags: "#specializedbikes, #maapapparel, #garmincycling, #maapinthefield"
+  - username: "_____laetitia"
+    fullname: >-
+      outdoor sports enthusiast🐒
+    bio: >-
+      •⛷|Skier 🚴‍♀️|Cyclist 🤿|Diver 🥾|Hiker 🤸‍♀️|Gymnast 🎾|TennisPlayer •UOB-PE🏃‍♀️
+    location: ""
+    followers: 7100
+    engagement: 720
+    commentsToLikes: 0.083291
+    id: ckap3n17n3ozo0i78hgdkz1gr
+    verified: false
+    hashtags: "#photooftheday, #wildlife, #snow, #roadbike"
+  - username: "clarahonsinger"
+    fullname: >-
+      Clara Honsinger
+    bio: >-
+      Cyclist of Various Types
+    location: "United States"
+    followers: 7421
+    engagement: 1548
+    commentsToLikes: 0.031901
+    id: ck5c4x1pc2ane0i11akfszhtg
+    verified: false
+    hashtags: "#cyclocross, #ucicyclocrossworldcup, #cannondalewomen, #etap"
 ---

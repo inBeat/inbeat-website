@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Bali In 2022
+title: Top 10 Architecture Instagram Influencers In Bali In 2023
 description: >-
-  Find top architecture Instagram influencers in Bali in 2022. Most popular hashtags: #bali #architecture #indonesia #balilife.
+  Find top architecture Instagram influencers in Bali in 2023. Most popular hashtags: #architecture #bali #indonesia #interiordesign.
 platform: Instagram
-hits: 39
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 39 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 23
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 23 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "wearedesignassembly"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Architecture & Design Studio based in Bali Studio visits by appointment only
     location: "Indonesia"
-    followers: 9391
-    engagement: 429
-    commentsToLikes: 0.011935
+    followers: 10322
+    engagement: 339
+    commentsToLikes: 0.010656
     id: ck1347ovzv4dd0i193zivdl63
     verified: false
-    hashtags: "#interiors, #architect, #lumion, #interiordesign"
-  - username: "baliinteriors"
+    hashtags: "#architecturephotography, #offplan, #architecturelovers, #dreamland"
+  - username: "awaneko"
     fullname: >-
-      BALI INTERIORS by @sheilaman_
+      Awan Eko
     bio: >-
-      Photographing the best Interiors in Bali & beyond. Creative direction for homewares and lifestyle brands. DM me for enquires. www.bali-interiors.com
+      
     location: "Indonesia"
-    followers: 58153
-    engagement: 198
-    commentsToLikes: 0.036712
-    id: ck1347obtv4a70i198g3sfm1b
+    followers: 4
+    engagement: 2679062
+    commentsToLikes: 0.081751
+    id: ck134a05tvfby0i19i3yamd3i
     verified: false
-    hashtags: "#hunkerhome, #interior444, #baliinteriors, #bedroomgoals"
-  - username: "fiutos"
-    fullname: >-
-      Camilla ☽ travel photography
-    bio: >-
-      ‎📸🗺 | Horses🐴🏜 |📍Italy
-    location: "Indonesia"
-    followers: 3143
-    engagement: 977
-    commentsToLikes: 0.078470
-    id: ck9hajkwkcrjb0j78tu4exb3b
-    verified: false
-    hashtags: "#baliisland, #balitrip, #dolomiti, #mountainlovers"
-  - username: "karinaapsari"
-    fullname: >-
-      Ni Putu Karina Apsari Triana P
-    bio: >-
-      📍'96 Balinese - Ubud @karyabali_shop @bykarinaapsari gedesuryamataram
-    location: "Indonesia"
-    followers: 40382
-    engagement: 154
-    commentsToLikes: 0.018562
-    id: ck15pp5wlyyod0i19ndecxo89
-    verified: false
-    hashtags: "#bonvoyage, #marriotthotel, #travelagain, #traveller"
+    hashtags: "#jakarta, #topdowndroneshots, #captureperfection, #gadingdronepilots"
   - username: "gigidewa"
     fullname: >-
-      D E W A N A T A
+      G I G I D E W A
     bio: >-
-      • hamba Allah SWT 💛 my mom 💛 • Jakarta, Indonesia
+      • Jakarta, Indonesia
     location: "Indonesia"
-    followers: 15968
-    engagement: 307
-    commentsToLikes: 0.053734
+    followers: 16070
+    engagement: 309
+    commentsToLikes: 0.068323
     id: ck0w3bmzjsksv0i19xloepl9r
     verified: false
-    hashtags: "#sunrise, #jelajahi, #instatravel, #architecture"
+    hashtags: "#architecture, #folkindonesia, #landscapuldelinations, #travelspain"
+  - username: "julio_architect"
+    fullname: >-
+      Julio Julianto IAI HDII
+    bio: >-
+      Sharing my thought in architecture... Julio Architect & Partners Jakarta_Indonesia📷🇮🇩
+    location: "Indonesia"
+    followers: 38796
+    engagement: 119
+    commentsToLikes: 0.006888
+    id: ck0uabp7fbsqb0i198jsjidga
+    verified: false
+    hashtags: "#interiordesign, #futurevision, #futurebuilding, #sketchbook"
+  - username: "yudipranata06"
+    fullname: >-
+      I Made Yudi Pranata, S.Ars.
+    bio: >-
+      Bachelor of Architecture
+    location: "Indonesia"
+    followers: 2145
+    engagement: 721
+    commentsToLikes: 0.077610
+    id: ck13cqwa11q5j0i19bi1c0xqk
+    verified: false
+    hashtags: "#architecture, #nookbali, #lastholidayoftheyear, #perangicovid19"
   - username: "_hennykusumadewi_"
     fullname: >-
       @HK
     bio: >-
-      👸ExtraOrdinary women live in an ExtraOrdinary life👸 📍𝓙𝓪𝓴𝓪𝓻𝓽𝓪, 𝓘𝓷𝓭𝓸𝓷𝓮𝓼𝓲𝓪 🇮🇩 ✈ -🇫🇷-🇩🇪-🇸🇬-🇲🇾-🇨🇳-🇵🇭-🇭🇰-🇹🇭-🇻🇳-🇦🇪 Check my new video on youtube below!
+      👸ExtraOrdinary women live in an ExtraOrdinary life👸 📍𝓙𝓪𝓴𝓪𝓻𝓽𝓪, 𝓘𝓷𝓭𝓸𝓷𝓮𝓼𝓲𝓪 🇮🇩 ✈ -🇫🇷-🇩🇪-🇸🇬-🇲🇾-🇨🇳-🇵🇭-🇭🇰-🇹🇭-🇻🇳-🇦🇪
     location: "Indonesia"
-    followers: 4068
-    engagement: 1315
+    followers: 4218
+    engagement: 1268
     commentsToLikes: 0.038143
     id: ckaoqzj1cl25r0i78tbvuvf6s
     verified: false
-    hashtags: "#greatshotz, #mint, #exploreindonesia, #pesonaindonesia"
-  - username: "kimmconn"
+    hashtags: "#hny, #longexpohunter, #pesonaindonesia, #geonusantara"
+  - username: "ajiabiyoga"
     fullname: >-
-      Travel + Festival Blogger🧜🏼‍♀️
+      Aji Abiyoga
     bio: >-
-      Kimmie🐬 Adventures of a 🇺🇸🇦🇺 Couple ‘Stuck’ in Bali📍5.5 Years on the Road🌄 Photographer🗺 Indefinite Work/Travel🤙🏾 Embarassing af😝
+      Bali @surabayalandscapers @ksf_landscape @balilandscapers @geonusantara @cameraindonesia @instanusantara Cah Megono Semoga menghibur anda
     location: "Indonesia"
-    followers: 50543
-    engagement: 95
-    commentsToLikes: 0.107316
-    id: ck0w0eudvdu6h0i19nxm0a7r9
+    followers: 4068
+    engagement: 1070
+    commentsToLikes: 0.202369
+    id: ck5zkd239j97k0i14f9rsv0l3
     verified: false
-    hashtags: "#droneofficial, #architecture, #nusapenidaisland, #adventureenthusiasts"
-  - username: "greenvillagebali_"
+    hashtags: "#indotravellers, #explorejembrana, #lingkarindonesia, #hubs"
+  - username: "vhallah"
     fullname: >-
-      Green Village
+      ＶＨＡＬＬ
     bio: >-
-      A unique community of homes custom designed by @ibukubali from bamboo on the banks of Ayung River, Bali. Book your stay bit.ly/stayatgreenvillage
+      📍BALI / #35mm Travel • Menswear • Photography — CP: RISSA +6285719526234 ✉️: vhallah@gmail.com —
     location: "Indonesia"
-    followers: 32954
-    engagement: 129
-    commentsToLikes: 0.011840
-    id: ck5c3ev4oz6q80i11v409ofk7
+    followers: 24762
+    engagement: 214
+    commentsToLikes: 0.071661
+    id: ck8sxgsvghca50j78md1u8xh6
     verified: false
-    hashtags: "#interiorstyling, #repost, #livinginthejungle, #bali"
-  - username: "monika_sozanska"
+    hashtags: "#ootd, #hsstyle, #beststreetoutfit, #minimalhouse1"
+  - username: "triaji_"
     fullname: >-
-      Monika🤺Sozanska
+      
     bio: >-
-      *** OLYMPIAN 🤺 *** Multiple medalist at the World & European Champs *** 🌎 Founder MOSIKS 💫 IG mosiks_jewelry & ✨✨✨www.fechtincentives.de ✨✨✨
+      @triajijati 📌 Jakarta - Bali
     location: "Indonesia"
-    followers: 28713
-    engagement: 367
-    commentsToLikes: 0.041178
-    id: ckap7c3p8jffi0i781bs9nu0o
-    verified: true
-    hashtags: "#fencing, #mentawais, #bali, #indonesia"
-  - username: "asean.skyscraper"
-    fullname: >-
-      AseanSkyscraper&Infrastructure
-    bio: >-
-      Follow @asean.skyscraper . update about buildings and development of skyscrapers in Southeast Asia 🇮🇩🇲🇾🇹🇭🇻🇳🇸🇬🇵🇭🇧🇳🇰🇭🇲🇲🇱🇦
-    location: "Indonesia"
-    followers: 5505
-    engagement: 782
-    commentsToLikes: 0.009557
-    id: ck14i2rm5dcn50i19b6s17iao
+    followers: 17487
+    engagement: 191
+    commentsToLikes: 0.033563
+    id: ck5c7yzdo8g820i114cwi5akd
     verified: false
-    hashtags: "#aseanskyscraper, #drone, #wanderlust, #jakartacity"
+    hashtags: "#architecturedesign, #architecturedaily, #interiordesign, #interiorphotography"
+  - username: "devarra_"
+    fullname: >-
+      
+    bio: >-
+      📍Bali-Jakarta 🚭Music Producer • mgmt : dita@inspireartistry.com • booking : david +62 815 11303003 New Release “Paradox” music video👇
+    location: "Indonesia"
+    followers: 12230
+    engagement: 700
+    commentsToLikes: 0.041289
+    id: ck0vvg32yozek0i19vz5l8kr7
+    verified: false
+    hashtags: "#lovejapan, #japan, #architecture, #santorini"
 ---

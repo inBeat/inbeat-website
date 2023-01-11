@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In United States In 2022
+title: Top 10 Divers Instagram Influencers In United States In 2023
 description: >-
-  Find top divers Instagram influencers in United States in 2022. Most popular hashtags: #ad #stayinside #k9unit.
+  Find top divers Instagram influencers in United States in 2023. Most popular hashtags: #tlpicks #melaninjourney #blacktravelfeed.
 platform: Instagram
-hits: 1529
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 1529 Instagram influencers like this in United States for you to work with.
+hits: 2302
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 2302 Instagram influencers like this in United States for you to collaborate.
 profiles:
+  - username: "kelleesetgo"
+    fullname: >-
+      Kellee Edwards | Multi-Media Host
+    bio: >-
+      Travel & Adventure Journalist/TV Host Pilot✈️| Global Explorer 🌍| Scuba Diver👌🏾 🎙@TravelandLeisure Let’s Go Together 🏆Winning TV Host @discoveryplus
+    location: "United States"
+    followers: 151655
+    engagement: 120
+    commentsToLikes: 0.012824
+    id: ck5zjged0hjk30i14xuqhxidw
+    verified: true
+    hashtags: "#exploremore, #outdoorwomen, #inlovewithswitzerland, #pilotlife"
   - username: "officersofcolor"
     fullname: >-
       Officers Of Color
     bio: >-
       ⚫️🔵⚫️ Celebrating the diversity in Law Enforcement. Showing the world a different perspective. Erasing the stereotype one day at a time. 🇺🇸
     location: "United States"
-    followers: 32987
-    engagement: 507
-    commentsToLikes: 0.059454
+    followers: 33142
+    engagement: 689
+    commentsToLikes: 0.031483
     id: ck13bso3wwzeg0i19pljegpug
     verified: false
-    hashtags: "#blackpride, #backtheblue, #blackandblue, #swat"
-  - username: "brydenhattie"
+    hashtags: "#bluelinefamily, #blackandblue, #the, #thinblueline"
+  - username: "sonalicheruku"
     fullname: >-
-      Bryden Hattie
+      Sonali ♡
     bio: >-
-      🔸University of Tennessee🔸 Canadian National Team Diver 🇨🇦 -Youth Olympics -World Championships -Commonwealth Games 🌈👻- Brydenhattie
+      @DiversifiTalent | @FlaveHouse Talent Management and Influencer Marketing
     location: "United States"
-    followers: 9042
-    engagement: 1598
-    commentsToLikes: 0.039964
-    id: ck9hcy43cng0e0j78b9l5p5un
+    followers: 18593
+    engagement: 699
+    commentsToLikes: 0.121613
+    id: ck5zr272nvr8d0i140r7bz2zp
     verified: false
-    hashtags: "#chunli, #blacklivesmatter, #olympicday, #teamcanada"
+    hashtags: "#happydiwali, #diwali, #inmyjs"
+  - username: "alexxandranicole"
+    fullname: >-
+      ALEX 🤍
+    bio: >-
+      ✩ bay area ✩ @gammaphibetacsuf ✩ ✩ panhellenic vp of diversity and inclusion ✩
+    location: "United States"
+    followers: 2311
+    engagement: 2315
+    commentsToLikes: 0.084415
+    id: ckf5m59m2sb6e0j23l8ghpqfe
+    verified: false
+    hashtags: "#divafam, #bidday"
+  - username: "chrisandregtravel"
+    fullname: >-
+      Chris and Reg Travel - Atlanta
+    bio: >-
+      TRAVEL| WINE/SPIRITS | LIFESTYLE #atlantablogger #contentcreator Promoting #Diversity and #Inclusion in Travel and Lifestyle! ⬇️VIEW MEDIA KIT HERE⬇️
+    location: "United States"
+    followers: 59522
+    engagement: 683
+    commentsToLikes: 0.028177
+    id: ckf5m5m1lscu60j230bu14xjm
+    verified: false
+    hashtags: "#atlantaphotographer, #savannahgeorgia, #travelingislife, #canonusa"
+  - username: "oneikatraveller"
+    fullname: >-
+      Oneika Raymond🇨🇦🇯🇲 | TV Host
+    bio: >-
+      🎥 Emmy-nominated Journalist & Host ✊🏾 Amplifier of diverse voices | ✈️ Perpetual explorer 📺 @TravelChannel @NewYorkLiveTV 📧oneika@oneikaraymond.com
+    location: "United States"
+    followers: 116532
+    engagement: 414
+    commentsToLikes: 0.041509
+    id: ck13c2kglyb9e0i19ah6upip8
+    verified: true
+    hashtags: "#lonelyplanet, #blacktravelmovement, #melaninjourney, #betchestravel"
+  - username: "katie_parrott"
+    fullname: >-
+      Katie Parrott (she/her)
+    bio: >-
+      26 | living on lutruwita/Tasmania 🇦🇺⁣ fat fashion ~ normalising diverse bodies mental health chats serious feed, no-filter stories 💌 @young_mgmt 💖🟪🔵
+    location: "United States"
+    followers: 27465
+    engagement: 429
+    commentsToLikes: 0.084044
+    id: ck5c38dwbysff0i117mn00qcd
+    verified: false
+    hashtags: "#ad, #modibodi, #arthurpants, #yorkpinaforehack"
   - username: "jovankalexndra"
     fullname: >-
-      𝐴𝑙𝑒̀𝑥𝑎𝑛𝑑𝑟𝑎
+      Jovanka Alexàndra
     bio: >-
-      🌊Licensed Scuba Divers 🌏Bibliophile|Astrophile|Thallasophile 🌱@lembehfoundation ______________________________________
+      🌊| Licensed Scuba Divers 🌏| Bibliophile|Astrophile|Thallasophile 🌱| @lembehfoundation ______________________________________
     location: "United States"
-    followers: 42210
-    engagement: 1162
-    commentsToLikes: 0.025354
+    followers: 42037
+    engagement: 641
+    commentsToLikes: 0.028980
     id: ck14i7k21e1920i19ebi6p017
     verified: false
-    hashtags: "#bersamacampina, #toyotaadauntukanda, #stayinside, #campinaicecream"
+    hashtags: "#exsportbags, #spreadthegoodness, #celebrategoodness, #womenempowerment"
   - username: "irietoaurora"
     fullname: >-
-      Writer |Podcaster |Activist 🇹🇹
+      Noami 🇹🇹| Dustin | Amara 🐶
     bio: >-
-      ✌🏾Irie: the state of feeling great 👩🏾‍💻Founder: @diversify.vanlife 🎙Host: @nomadsattheintersectionspod Paypal/Venmo: @irietoaurora 👇🏾PODCAST👇🏾
+      Writer | Podcaster | Digital Nomad 🚐 Irie: state of feeling great 👩🏾‍💻Founder @diversify.vanlife 🎙@nomadsattheintersectionspod 💰@irietoaurora LINKS👇🏾
     location: "United States"
-    followers: 55570
-    engagement: 505
-    commentsToLikes: 0.037331
+    followers: 57125
+    engagement: 292
+    commentsToLikes: 0.043219
     id: ck0vw628ss9r40i19dl3u0nx3
     verified: false
-    hashtags: "#for21, #diversifyvanlife, #pacificogiveaway, #pacificopartner"
-  - username: "nowakmj1"
+    hashtags: "#sayhisname, #blacklivesmatter, #canidaecrew, #melaninpoppin"
+  - username: "bj.thetraveller"
     fullname: >-
-      Monika Jessica Nowak
+      B.Scott | Adventure Traveller
     bio: >-
-      @caffe_giro *owner* ❤️🚴‍♀️☕️ @rogellisportswear 👊🏻 @diverseyteam 📩 nowakmj1@gmail.com
+      📍Expat in Australia Photographer 📷 USMC VET 🏅 Certified Chef 🔪 Certified Diver🤿 Adventurer 🏄🏽 Gamer 🎮
     location: "United States"
-    followers: 8270
-    engagement: 1282
-    commentsToLikes: 0.040244
-    id: ck0vz3bxp731s0i19nl5c5pmi
+    followers: 8990
+    engagement: 613
+    commentsToLikes: 0.092716
+    id: ck8t0ha4vs22x0j78jby8l3k4
     verified: false
-    hashtags: "#bike, #polishgirl, #trekbike, #trekgirl"
-  - username: "modismagic"
-    fullname: >-
-      MORGAN ✨ Disney Style
-    bio: >-
-      Full-time dreamer serving Disney magic with a dash of sass and a sprinkle of positivity💫🌈 💌 modismagic@gmail.com 📍Orlando 🍫Disney Diversity 🤍 she/her
-    location: "United States"
-    followers: 8944
-    engagement: 1039
-    commentsToLikes: 0.118588
-    id: ck15rp7r490rx0i19nk5hvuwb
-    verified: false
-    hashtags: "#waltdisneyworld, #blackgirldisney, #recycledfashion, #shopdisney"
-  - username: "t1dchick"
-    fullname: >-
-      Jillian: T1Dchick
-    bio: >-
-      ✨Chronic illness advocate 💉 Type 1 diabetes + cystic acne + psoriasis 💦 Certified Diver 🦋 All bodies are beautiful 🤓 Speaker | Michigan 📍
-    location: "United States"
-    followers: 46562
-    engagement: 161
-    commentsToLikes: 0.083786
-    id: ck5c7r1m181650i114bw40334
-    verified: false
-    hashtags: "#talkaboutcomplications, #t1d, #scream, #comingsoon"
-  - username: "isbeeracarb"
-    fullname: >-
-      megan ✻ beer ✻ travel ✻ style
-    bio: >-
-      💁🏻‍♀️whatever, i'm getting cheese fries 🌾brewer 🌈diversity, equity, inclusion advocate 🍻traveling brewer+speaker 💼@societebrewing 📍san diego
-    location: "United States"
-    followers: 33513
-    engagement: 850
-    commentsToLikes: 0.030048
-    id: ck5c817tp8krs0i11qrqas6p2
-    verified: false
-    hashtags: "#makethefirstmove, #bumblepartner, #raiseyourbarr, #barrhillpartner"
-  - username: "robbiequinnnyc"
-    fullname: >-
-      robbie quinn
-    bio: >-
-      Celebrating Diversity and Inclusion through style. Photographer, Author @streetunicornsbook
-    location: "United States"
-    followers: 11163
-    engagement: 683
-    commentsToLikes: 0.067084
-    id: ck0vzun31aze00i19x3r2ai4a
-    verified: false
-    hashtags: "#thisisnewyorkcity, #fromstreetswithlove"
-  - username: "valeriaaesquivel"
-    fullname: >-
-      ⓥⓐⓛ
-    bio: >-
-      Central FL 📍//🇵🇪// diverse🖤//appreciating life.
-    location: "United States"
-    followers: 5575
-    engagement: 1192
-    commentsToLikes: 0.034070
-    id: ckap1b1gqttbn0i78zcl7o2tn
-    verified: false
-    hashtags: "#machupicchu, #9daysleft, #andibagus, #sippinandslipping"
+    hashtags: "#soulsociety, #blacktravelmovement, #theblacktravelclub, #blackvoyageurs"
 ---

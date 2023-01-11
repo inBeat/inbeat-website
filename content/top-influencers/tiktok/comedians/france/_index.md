@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians TikTok Influencers In France In 2022
+title: Top 10 Comedians TikTok Influencers In France In 2023
 description: >-
-  Find top comedians TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #humour #foryoupage.
+  Find top comedians TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #humour #foryou #foryoupage.
 platform: TikTok
-hits: 37
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 37 TikTok influencers like this in France for you to collaborate.
+hits: 42
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 42 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "redhajr"
     fullname: >-
       Redha JR
     bio: >-
-      French comedian 🇫🇷 📮 Redhajr.contact.pro@gmail.com 🦧🏴‍☠️❤️
+      Comedian 🇫🇷 📧 Redhajr@lafirme.co📮 📍Marseille
     location: "France"
-    followers: 2300000
-    engagement: 1702
-    commentsToLikes: 0.005651
+    followers: 3100000
+    engagement: 1653
+    commentsToLikes: 0.012723
     id: ck9025jt4c3ws0j78tnvvmvnx
     verified: true
-    hashtags: "#sosomaness"
+    hashtags: "#rdlgchallenge, #collage"
   - username: "thomas.letutour"
     fullname: >-
       Thomas Le Tutour
     bio: >-
       IG: thomas.letutour Singer/Comedian 🎙🎭 Spreading Positivity 🌈 🇨🇦✨🇫🇷
     location: "France"
-    followers: 8848
-    engagement: 1038
-    commentsToLikes: 0.013286
+    followers: 8765
+    engagement: 1017
+    commentsToLikes: 0.014013
     id: cka0s32ljjlok0i78gs4sdknf
     verified: false
-    hashtags: "#quebec, #foryou, #4u, #snow"
+    hashtags: "#foryou, #fun, #smile, #canada"
   - username: "stephanesacreofficiel"
     fullname: >-
       stephanesacre
     bio: >-
       L’excès, comedian from 🇨🇮 live in Paris 🇫🇷/👻 blacknigga95 /📷 stephanesacre
     location: "France"
-    followers: 8257
-    engagement: 960
-    commentsToLikes: 0.014646
+    followers: 61300
+    engagement: 945
+    commentsToLikes: 0.012893
     id: ckadavrxbk6v10i78w624rx9h
     verified: false
-    hashtags: ""
+    hashtags: "#cpbraiso, #exceschallenge, #humour, #exces"
   - username: "angelikadewiseoff"
     fullname: >-
       Angelika De Wise ⚜️
     bio: >-
-      Je penses donc je le suis - Aristocrate
+      Je penses donc je le suis - Aristocrate / 🌈
     location: "France"
-    followers: 26400
-    engagement: 408
-    commentsToLikes: 0.000000
+    followers: 26700
+    engagement: 699
+    commentsToLikes: 0.001176
     id: ck9c2whjypd8w0j782mkz53h4
     verified: false
-    hashtags: "#angelikadewisemovie, #angelikadewise, #pourtoi, #gabysolis"
-  - username: "carlito8093"
-    fullname: >-
-      Carlito lucho
-    bio: >-
-      Instagram: carlitolucho Snap: carlito.om Comédien😀 Charles.om82@gmail.com
-    location: "France"
-    followers: 106300
-    engagement: 1499
-    commentsToLikes: 0.059076
-    id: ck9vcmttirbx70j786vcnc29x
-    verified: false
-    hashtags: "#collage, #fyp, #tiktok, #oklm"
-  - username: "mohamedlesuedois"
-    fullname: >-
-      MOHAMED LE SUEDOIS
-    bio: >-
-      humoriste comedien
-    location: "France"
-    followers: 27600
-    engagement: 733
-    commentsToLikes: 0.061096
-    id: cka83zzijr6t90i78qoayaixs
-    verified: false
-    hashtags: "#foryou, #didierraoult, #pourtoi, #jequittecetteplanete"
+    hashtags: "#funny, #fyp, #angelikadewiseofficial, #pourtoichallenge"
   - username: "asterixdu33"
     fullname: >-
       le souf comedy club
     bio: >-
       Comédien/喜剧演员/Actor ➡️👻stiktokeur👻⬅️ je répond à tous le monde ✔️
     location: "France"
-    followers: 359900
-    engagement: 1468
-    commentsToLikes: 0.058809
+    followers: 359000
+    engagement: 1417
+    commentsToLikes: 0.045712
     id: ck81sx8sltsre0j78gtie6low
     verified: false
-    hashtags: "#foryoupage, #pourtoi, #humour, #com"
-  - username: "marynnvita"
+    hashtags: "#comedy, #voiture, #duo, #chien"
+  - username: "mohamedlesuedois"
     fullname: >-
-      Marynn
+      MOHAMED LE SUEDOIS
     bio: >-
-      l’alsacienne phénomène chanteuse et comédienne avec un grand cœur vive l’humour
+      humoriste comedien
     location: "France"
-    followers: 101200
-    engagement: 1121
-    commentsToLikes: 0.033405
-    id: ckav5srpxcgpw0j236vc5wlyb
+    followers: 29300
+    engagement: 753
+    commentsToLikes: 0.062799
+    id: cka83zzijr6t90i78qoayaixs
     verified: false
-    hashtags: "#boulo, #travail, #marynn, #pourtoiiii"
+    hashtags: "#pourtoi, #foryou, #didierraoult, #mohamedlesuedois"
   - username: "le_vincent_le_vrai"
     fullname: >-
       Vincent
     bio: >-
       INSTAGRAM : @le_vincent_le_vrai Comédien, enfin je crois, enfin peut-être
     location: "France"
-    followers: 515000
-    engagement: 1850
-    commentsToLikes: 0.011087
+    followers: 722500
+    engagement: 2141
+    commentsToLikes: 0.010970
     id: ckamnwpu16kfj0i78dg9rhsv1
     verified: false
-    hashtags: "#lumieresur, #pourtoii, #levincent, #viral"
+    hashtags: "#humour, #sketch, #viral, #pourtoi"
   - username: "johnnysteff1"
     fullname: >-
       Johnny Steff
     bio: >-
       Johnny Steff sosie officiel de Johnny Depp et Jack Sparrow, comédien.
     location: "France"
-    followers: 735600
-    engagement: 788
-    commentsToLikes: 0.091864
+    followers: 871100
+    engagement: 1152
+    commentsToLikes: 0.112061
     id: ckc8xbz58l6mc0j23sd0y5mms
     verified: false
-    hashtags: "#viral, #sosie, #piratesofthecarribean, #foryou"
+    hashtags: "#parodie, #joker, #johnnydepp, #pourtoi"
+  - username: "dianeseg"
+    fullname: >-
+      DianeSeg
+    bio: >-
+      Comédienne / dianesegpro@gmail.com Chaîne YT: Mathilde et Diane
+    location: "France"
+    followers: 260500
+    engagement: 1645
+    commentsToLikes: 0.014228
+    id: cka0pxnbzab8g0i786a99li08
+    verified: false
+    hashtags: "#loveyou, #viral, #mdr, #omg"
+  - username: "jayrld10"
+    fullname: >-
+      Jason Desrouleaux
+    bio: >-
+      Comédien-Humoriste Instagram / Twitter : jason_rld YouTube : Jason Rolland ♥️
+    location: "France"
+    followers: 106900
+    engagement: 1662
+    commentsToLikes: 0.004047
+    id: ckc36vhrbvrym0j23dge55tkq
+    verified: false
+    hashtags: "#foryoupage, #fyp, #voyage, #voyageurdutemps"
 ---

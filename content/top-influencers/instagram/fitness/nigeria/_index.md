@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Nigeria In 2022
+title: Top 10 Fitness Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top fitness Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #endpolicebrutality #endswat #staysafe.
+  Find top fitness Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #reels #model #explorepage.
 platform: Instagram
-hits: 43
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 43 Instagram influencers like this in Nigeria for you to pitch.
+hits: 16
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 16 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "lateefwahbson"
+  - username: "_sunkissedcurls"
     fullname: >-
-      Wahab Lateef
+      Kim 🌻
     bio: >-
-      🇳🇬⚽️ ▪ Winger/Striker ▪ Model ▪ Brand | Fitness | Lifestyle | Fashion ▪ COLLABS | PROMOTIONS (DM/EMAIL) Watch my highlight video⚽👇
+      🙌🏽GOD 🌴Miami Natural Hair + Lifestyle + Fitness Wife 💍 Mommy to @jaxsonmylo 👶🏽 📧 sunkissedcurlsmgmt@gmail.com for business LATEST VIDEO⤵️
     location: "Nigeria"
-    followers: 9541
-    engagement: 823
-    commentsToLikes: 0.119459
-    id: ck0tze8pyq0zm0i19kaytuda3
+    followers: 42473
+    engagement: 284
+    commentsToLikes: 0.059122
+    id: ck5zjzxxeiknk0i141we5iwzb
     verified: false
-    hashtags: "#cleatworld, #mercurical, #vamesuhype, #cleatnation"
-  - username: "divamaka"
+    hashtags: "#reelsinstagram, #ufdincvs, #reels, #unclefunkysdaughter"
+  - username: "uzoosimkpa"
     fullname: >-
-      Amaka Oguike Brendalyne
+      UZO O. OSIMKPA
     bio: >-
-      Saved by Grace, through Faith 💫 Fitness Enthusiast 💪🏼 Brand Influencer Content Creator
+      ACTOR | DIRECTOR | PRODUCER FITNESS ENTHUSIAST ENTREPRENEUR CEO: @trimyourcloset @lagosthriftly
     location: "Nigeria"
-    followers: 9775
-    engagement: 667
-    commentsToLikes: 0.160735
-    id: ck5hqv4k7trxb0i117dpfciyg
+    followers: 76419
+    engagement: 161
+    commentsToLikes: 0.040214
+    id: ck5c4qdae1viu0i11a07knpwb
     verified: false
-    hashtags: "#highfashion, #holiday, #model, #work"
-  - username: "blaqcoffeegram"
-    fullname: >-
-      Dozie
-    bio: >-
-      Blaqcoffee Lifestyle. Hospitality || Entertainment || Fitness.
-    location: "Nigeria"
-    followers: 3299
-    engagement: 1375
-    commentsToLikes: 0.067328
-    id: ckaoww97faqcg0i78lk9vp9rd
-    verified: false
-    hashtags: "#adventure, #blaqcoffee, #8bouts, #positivevibes"
+    hashtags: "#endpolicebrutality, #endswat, #stopkillingus, #endsars"
   - username: "zmariebeauty"
     fullname: >-
       ᏃᎪᏆNᎪᏴ 🇸🇱🇬🇳
     bio: >-
       •D(M)V 📍 •Natural Hair ✨ •Fitness 💪🏾 •YouTube Channel 🎥: ZmarieBeauty 👇🏾Check Me Out 👇🏾
     location: "Nigeria"
-    followers: 10906
-    engagement: 1790
-    commentsToLikes: 0.029532
+    followers: 10631
+    engagement: 1345
+    commentsToLikes: 0.029164
     id: ck0twog7tg5wg0i19up5sti3j
     verified: false
-    hashtags: "#untiltomorrow, #carchronicles"
-  - username: "officialmakepeace"
+    hashtags: "#naturalhair, #protectivestylesfornaturalhair, #protectivestyles, #passiontwists"
+  - username: "plato_15"
     fullname: >-
-      Ugbojiaku Makepeace Micheal
+      Plato Gabriel
     bio: >-
-      Founder @bodytransformation_ng Fitness Enthusiast, Foodie, animal lover.
+      This Page is 4 learning & Culture CEO @saidatech_learn @dynitiks BigData/MachineLearnng Career Mentor 🖊 Coding|Music|Fitness M👨‍🎓 B.A. , MA Econs 📚
     location: "Nigeria"
-    followers: 12919
-    engagement: 259
-    commentsToLikes: 0.113973
-    id: ck55kas5oyvs40i11uztfwtrg
+    followers: 61020
+    engagement: 303
+    commentsToLikes: 0.065859
+    id: ck6u3sxrlzp620j71m2f7ahlb
     verified: false
-    hashtags: "#covid, #stayhome, #staysafe, #reformnigeria"
-  - username: "msima__"
+    hashtags: "#bngunion, #music, #saxophone, #love"
+  - username: "thefrenchman__"
     fullname: >-
-      Ima | Health Coach |📍Lagos 🇳🇬
+      DAVOU PWAJOK
     bio: >-
-      “Willpower knows no obstacles” CELEBRITY/ISSA CPT CEO 👉🏽BodybyIma Fitness LTD ✨PERSONAL TRAINING ✨ONLINE COACHING 📞📧 👻 ima_ima @bodybyima #fitness
+      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08143894285
     location: "Nigeria"
-    followers: 13479
-    engagement: 866
-    commentsToLikes: 0.073253
-    id: ckapc4ojl2ghf0i785mvbw6nj
+    followers: 11468
+    engagement: 1438
+    commentsToLikes: 0.114227
+    id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
-    hashtags: "#thesweatlife, #fitnessmotivation, #bodybyima, #healthcoach"
-  - username: "uzoosimkpa"
+    hashtags: "#thefrenchman, #model, #fashion, #fitnessmodel"
+  - username: "thesashagomez"
     fullname: >-
-      UZO O. OSIMKPA
+      🦋𝐓 𝐇 𝐄   𝐁 𝐔 𝐓 𝐓 𝐄 𝐑 𝐅 𝐋 𝐘🦋
     bio: >-
-      ACTOR | DIRECTOR | PRODUCER FITNESS ENTHUSIAST ENTREPRENEUR CEO: @trimyourcloset_ @lagosthriftly
+      God 1st 🦋❤️ (📍ATL) 🇵🇦 🇨🇴🎤⭐️ “Hey Girl Hey” 🎥
     location: "Nigeria"
-    followers: 75619
-    engagement: 99
-    commentsToLikes: 0.047920
-    id: ck5c4qdae1viu0i11a07knpwb
+    followers: 23557
+    engagement: 1136
+    commentsToLikes: 0.047657
+    id: ck6u4inn63y230j7156ejasgn
     verified: false
-    hashtags: "#uzorazor, #stayhome, #endsars, #endswat"
-  - username: "lolaogunnaike"
+    hashtags: "#explorepage, #singer, #explore, #valentines"
+  - username: "savedby_drbell"
     fullname: >-
-      Lola Ogunnaike
+      Dr. Akeadra Bell
     bio: >-
-      Journalist/People TV Anchor/CNN and MSNBC commentator/CouchSurfing Host/Writer/Producer/ProudMommyAndWife/FitnessLover
+      God is Dope. 🙏🏽 Jeremiah 29:11 Saving Smiles, one tooth at a time! 👩🏽‍⚕️✨ AEGD Resident | 📍ATL 1908 💕| HBCU Alum
     location: "Nigeria"
-    followers: 27316
-    engagement: 162
-    commentsToLikes: 0.074062
-    id: ck6ubje0u9xce0j713goky8az
-    verified: true
-    hashtags: "#endsars, #lekkitollgate, #couchsurfing, #lagos"
-  - username: "jazzyogaga"
-    fullname: >-
-      👑JAZZY 👑
-    bio: >-
-      ♋️ Fitness/Fashion enthusiast @jazz_fittt Black and unapologetic
-    location: "Nigeria"
-    followers: 16950
-    engagement: 528
-    commentsToLikes: 0.038572
-    id: ck8szwiuppz450j78dg9glcgw
+    followers: 5056
+    engagement: 1619
+    commentsToLikes: 0.071135
+    id: ck15prw2czcdt0i19jzcjhjb5
     verified: false
-    hashtags: "#endpolicebrutality, #endsars, #endswat, #endbadgovernment"
-  - username: "emmanuelumohjr_"
+    hashtags: "#whitecoatsblackdoctors, #leoseason, #whitecoats4blacklives, #inspiration"
+  - username: "lhidhiastanley"
     fullname: >-
-      
+      LYDIA STANLEY 🦋
     bio: >-
-      MISTER AFRICA Int’l ‘19/20 Model•Travel•Fitness•Realtor Mr. Ideal Nigeria ’19 Face of NICE(uniport)’18 @bodylab_official @houseoftwitch
+      BEAUTY INFLUENCER | DIGITAL CONTENT CREATOR | CIVIL ENGINEER 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬 GET YOUR MAKEUP DONE @lhidhiastanley_studio
     location: "Nigeria"
-    followers: 18026
-    engagement: 352
-    commentsToLikes: 0.045215
-    id: ck5c4r36q1x5y0i11bobitut4
+    followers: 68463
+    engagement: 575
+    commentsToLikes: 0.051065
+    id: ck15ptj6rzjut0i19mt8joqe2
     verified: false
-    hashtags: "#africanking, #model, #misterafricainternational, #travel"
+    hashtags: "#nigerian, #wakeupandmakeup, #lhidhiastanley, #bellanaijaweddings"
+  - username: "oladapoofficial"
+    fullname: >-
+      𝐨𝐥𝐚 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐦𝐨𝐬𝐭
+    bio: >-
+      Intimacy births music PROUD OUT NOW🤍
+    location: "Nigeria"
+    followers: 7452
+    engagement: 1276
+    commentsToLikes: 0.114107
+    id: ck5ho9i5dp6cu0i11av0i5c8o
+    verified: false
+    hashtags: "#fitnesswithola, #02challenge, #silhouette, #olawiththemost"
+  - username: "uzodinma_g"
+    fullname: >-
+      Uzodinma Gift🌺🌺
+    bio: >-
+      Welcome to my page✨✨ Personal gallery✨ Virgo♍️
+    location: "Nigeria"
+    followers: 3763
+    engagement: 660
+    commentsToLikes: 0.115014
+    id: ckaowcbz88au40i78te9hv4ip
+    verified: false
+    hashtags: "#gaintrick, #gaintrain, #beauty, #gains"
 ---

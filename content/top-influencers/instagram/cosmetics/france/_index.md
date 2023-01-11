@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In France In 2022
+title: Top 10 Cosmetics Instagram Influencers In France In 2023
 description: >-
-  Find top cosmetics Instagram influencers in France in 2022. Most popular hashtags: #cosmetics #giveaway #love.
+  Find top cosmetics Instagram influencers in France in 2023. Most popular hashtags: #outfit #pregnant #outfits.
 platform: Instagram
-hits: 314
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 314 Instagram influencers like this in France for you to collaborate.
+hits: 313
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 313 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "justinagafaro"
+    fullname: >-
+      Justina Gafaro
+    bio: >-
+      Founder of @gafaro.beautyhouse and boutique in Vilnius Beauty e-shop www.gafaro.lt GAFARO cosmetics line @bygafaro Shop premium products:
+    location: "France"
+    followers: 57586
+    engagement: 55
+    commentsToLikes: 0.041438
+    id: ck5zkmuzhjrmh0i14f7ynu3cl
+    verified: false
+    hashtags: "#bride, #nottestedonanimals, #nuotaka, #nuotakosmakiazas"
+  - username: "nouhaila_ytb"
+    fullname: >-
+      Nouhaïla 💕
+    bio: >-
+      Founder & ceo @noha_cosmetics ✨ Content creator & beauty expert 🌸 My Youtube Channel (400k of beauties) 📽
+    location: "France"
+    followers: 355387
+    engagement: 769
+    commentsToLikes: 0.062593
+    id: ck6uc606cdq5f0j712nt83wz7
+    verified: false
+    hashtags: "#winter, #fashionlover, #nailstyle, #nailsinspiration"
+  - username: "ngone_josyane"
+    fullname: >-
+      Josy Jolie ☺️✨👑
+    bio: >-
+      Med Student | Entrepreneur | Content Creator | CEO of Josy Jolie Cosmetics 🌸 | @josyjoliecosmetics Fashion. Beauty. Music. Lifestyle. 🤍
+    location: "France"
+    followers: 26611
+    engagement: 1056
+    commentsToLikes: 0.169518
+    id: ckapal3jgwjgw0i78hrx3dk54
+    verified: false
+    hashtags: "#sushi, #senegal, #un75, #freeuyghur"
   - username: "ines.curly"
     fullname: >-
-      Ines Curly 🇲🇦🇩🇿♓️
+      Ines Curly🇩🇿🇲🇦♓️
     bio: >-
-      Founder of @inescurly.cosmetic 👻 ines.chpl & inescosmetic 👻 📽 youtubeuse Site ines curly cosmetic⬇️
+      Founder of @inescurly.cosmetic 👻 ines.chpl 👻 Créatrice de cosmétiques 💄 Site ines curly cosmetic⬇️
     location: "France"
-    followers: 212453
-    engagement: 1135
-    commentsToLikes: 0.033590
+    followers: 174369
+    engagement: 1183
+    commentsToLikes: 0.024088
     id: ck5cb2f73eljr0i11tkfy7fk5
     verified: false
-    hashtags: "#sneakers, #dior, #sheincurve, #sponsoris"
+    hashtags: "#sheincurve, #walkyourwonderful, #sheinfashionshow, #sheintogether"
   - username: "lauraaluve"
     fullname: >-
       Lauraa Luve Officiel
     bio: >-
-      FOUNDER & CEO @lauraaluve.cosmetics @lauraaluve.institut
+      👶🏽👶🏽👼🏽 Mom ♥️🤰🏽 👻 Lauraa_luve 📩 partenariat : pro@lauraaluve.fr Founder of : @lauraaluve.cosmetics & @54nuances.fr
     location: "France"
-    followers: 143677
-    engagement: 484
-    commentsToLikes: 0.049417
+    followers: 155874
+    engagement: 764
+    commentsToLikes: 0.010111
     id: ck5c4g7r01adf0i112vb8s3q9
     verified: false
-    hashtags: "#outfitoftheday, #outfitinspiration, #twins, #nude"
-  - username: "wanda_icardi"
-    fullname: >-
-      Wanda nara
-    bio: >-
-      Paris 🇫🇷 Home & ⚽️ Milan 🇮🇹 Home 🏠 & 🐎 📩 Wandanarainfo@gmail.com ⬇️⬇️⬇️ My Brand Cosmetics
-    location: "France"
-    followers: 7143774
-    engagement: 218
-    commentsToLikes: 0.000092
-    id: ck15smakqdqan0i1929tchgnk
-    verified: true
-    hashtags: ""
-  - username: "noemie_discoveries"
-    fullname: >-
-      Noémie #endogirl 🎗
-    bio: >-
-      #endogirl #endometriose #beauté #cosmetics #makeup #skincare #food #instagrameuse 📩J'accepte les #partenariat , n'hésitez pas à me contacter 😃
-    location: "France"
-    followers: 9142
-    engagement: 2040
-    commentsToLikes: 0.366015
-    id: ck9h9pm469g4q0j78yiz7pwgu
-    verified: false
-    hashtags: "#skincare, #aloevera, #produitoffert, #makeuptutorial"
-  - username: "tessmakeup"
-    fullname: >-
-      PRO MAKEUP ARTIST / YOUTUBER
-    bio: >-
-      🇬🇫Guyanaise 🧸Mummy ❌2020 •Pas de prestations Makeup Founder of @Tess.cosmetics ✉️Tessmakeup.contact@gmail.com (NO DM) YOUTUBE ⬇️
-    location: "France"
-    followers: 112674
-    engagement: 499
-    commentsToLikes: 0.053195
-    id: ck14juyilmbfk0i19b0bxqdfo
-    verified: false
-    hashtags: "#makeuptutorial, #toofacedpartner, #makeupartist, #makeup"
-  - username: "biotipful"
-    fullname: >-
-      Biotipful
-    bio: >-
-      🗼 French blogger 💄Home made cosmetics & tips 🌱 Hair care & natural care 🦄 Bordeaux 📩 Biotipful@gmail.com ⬇️ Blog & derniers articles ⬇
-    location: "France"
-    followers: 4303
-    engagement: 817
-    commentsToLikes: 0.344366
-    id: ckaov2u4e2vw20i78x1y3pwhg
-    verified: false
-    hashtags: "#hairoftheday, #slowcosmetique, #soinnaturel, #cheveuxaunaturel"
-  - username: "sandiedrs"
-    fullname: >-
-      Sandie Drs 💄
-    bio: >-
-      🇨🇵 Douai, France #Influenceuse #Mode #Lifestyle #Cosmetics 📍Collaborations en MP Contact pro : sandie.darras@yahoo.fr
-    location: "France"
-    followers: 21005
-    engagement: 170
-    commentsToLikes: 0.125332
-    id: ck8sxrwgsifu60j78uf37kywp
-    verified: false
-    hashtags: "#instamood, #photooftheday, #look, #frenchinfluencer"
-  - username: "ikramparfums"
-    fullname: >-
-      Ikram Parfums
-    bio: >-
-      📍Paris, FR 🇫🇷 Analyste digital & Content creator Parfum addict & makeup lover #beauty #fragrance #cosmetics #cutethings 📩 ikramparfums@gmail.com
-    location: "France"
-    followers: 45043
-    engagement: 110
-    commentsToLikes: 0.212904
-    id: ckap0m50vqwto0i78cp2bm69b
-    verified: false
-    hashtags: "#nuxe, #fragrance, #parfumaddict, #cutethings"
-  - username: "hypexleaks"
-    fullname: >-
-      HYPEX
-    bio: >-
-      Fortnite Latest News, Updates, Leaks, Cosmetics, & More! CC For @teamcontinue
-    location: "France"
-    followers: 101476
-    engagement: 341
-    commentsToLikes: 0.030694
-    id: ckaoythxzj0b60i78b6yyq6ex
-    verified: false
-    hashtags: ""
+    hashtags: "#outfit, #outfitinspiration, #outfits, #outfitoftheday"
   - username: "ladygaga.chromatica"
     fullname: >-
       𝗟𝗔𝗗𝗬 𝗚𝗔𝗚𝗔 𝗙𝗔𝗡𝗣𝗔𝗚𝗘
     bio: >-
-      ⚔️ New Album | Chromatica | Out Now 💄 Cosmetics | Haus Laboratories | Available Now 🔮 Concert | Chromatica Ball Tour | Summer 2022
+      ⚔️ New Album | Chromatica | Out Now 💄 Cosmetics | Haus Laboratories | Available Now 🔮 Concert | Chromatica Ball Tour | Summer 2021
     location: "France"
-    followers: 32803
-    engagement: 256
-    commentsToLikes: 0.007419
+    followers: 32944
+    engagement: 295
+    commentsToLikes: 0.006839
     id: ck0u1zcq0yb7s0i19k2lme83x
     verified: false
-    hashtags: "#100, #freewoman, #gagaradio"
+    hashtags: ""
+  - username: "tessmakeup"
+    fullname: >-
+      PRO MAKEUP ARTIST / YOUTUBER
+    bio: >-
+      🇬🇫Guyanaise 🧸Mummy Founder of @Tess.cosmetics & @ayana.swim ✉️Tessmakeup.contact@gmail.com (NO DM) YOUTUBE ⬇️
+    location: "France"
+    followers: 103927
+    engagement: 665
+    commentsToLikes: 0.018075
+    id: ck14juyilmbfk0i19b0bxqdfo
+    verified: false
+    hashtags: "#theoutfitscrapbook, #outfit, #pregnant, #pregnancy"
+  - username: "yoshimi925"
+    fullname: >-
+      Yoshimi Inoue／🇯🇵墨絵師×💄化粧品マーケッター
+    bio: >-
+      Painter of Japanese art🇯🇵 / Cosmetic Planner💄 日本を元気にしたいと思っている#墨絵師 #beautyjapan 2020年日本大会ファイナリスト ArtBattleJapan決勝進出　墨絵のみ⏩ @yosu529
+    location: "France"
+    followers: 3662
+    engagement: 876
+    commentsToLikes: 0.052091
+    id: ckapbakjqz6yi0i785dphsq8x
+    verified: false
+    hashtags: "#livepainting, #enjoyhome, #artistsoninstagram, #carigraphy"
+  - username: "_kaylahazel"
+    fullname: >-
+      Kayla Gorden
+    bio: >-
+      #atl | 1913🔺| HBCU alum 🎓 | #kcg3 - Ciara, MAC cosmetics, Big KRIT, CNN YT🎥: Kayla Hazel EMAIL TO BOOK 👇🏽Buck & Tuck Dance Fitness Tape👇🏽
+    location: "France"
+    followers: 48486
+    engagement: 693
+    commentsToLikes: 0.024507
+    id: ck0vvbkq3oelt0i19sm9hvgok
+    verified: false
+    hashtags: "#buckandtuckdancefitnesscollection, #smallsnippet, #trainingmode, #whatsinyourbox"
+  - username: "zara.kenzi"
+    fullname: >-
+      Zara
+    bio: >-
+      MBA Degree 📉 Lifestyle blogger 👑💍💎💐🌹✈️🔱 SK cosmetics soon🌸💄🛍️
+    location: "France"
+    followers: 132539
+    engagement: 166
+    commentsToLikes: 0.031304
+    id: ck9hcem13l0pz0j789k8lfo6t
+    verified: false
+    hashtags: "#zouhirbahaoui, #tanger, #agadir, #douniabatma"
 ---

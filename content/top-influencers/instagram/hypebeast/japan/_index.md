@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Japan In 2022
+title: Top 10 Hypebeast Instagram Influencers In Japan In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Japan in 2022. Most popular hashtags: #hypebeast #moodygrams #hbouthere #outfitsociety.
+  Find top hypebeast Instagram influencers in Japan in 2023. Most popular hashtags: #hypebeast #streetfashion #japan #sneakers.
 platform: Instagram
-hits: 78
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 78 Instagram influencers like this in Japan for you to work with.
+hits: 44
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 44 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "poggytheman"
+    fullname: >-
+      POGGY🤘
+    bio: >-
+      Fashion director: @2gtokyo & @proomtheworld Producer: @snackyaropoggy IGTV “Invite Only” on @hypebeastjp 👇✨
+    location: "Japan"
+    followers: 157332
+    engagement: 206
+    commentsToLikes: 0.008332
+    id: ck15qa0gf1trm0i19qwus16da
+    verified: false
+    hashtags: "#poggy, #repost, #thegentlemanintheparlour, #erichaze"
   - username: "hy_ym0207"
     fullname: >-
       HiROYUKi
     bio: >-
       made in Japan🇯🇵
     location: "Japan"
-    followers: 13243
-    engagement: 421
-    commentsToLikes: 0.056319
+    followers: 13443
+    engagement: 469
+    commentsToLikes: 0.062166
     id: ckaotjspuw8bb0i786dr7bnc7
     verified: false
-    hashtags: "#airfearofgod, #airfearofgod1, #snkrskickcheck, #fearofgodla"
-  - username: "taishi4609"
-    fullname: >-
-      TAISHI
-    bio: >-
-      👦🏻-🇯🇵(たいし) Sneakers-streetwear👟👘 3本線の人 足元倶楽部feat-you⇩
-    location: "Japan"
-    followers: 18070
-    engagement: 531
-    commentsToLikes: 0.011066
-    id: ck5qbh9oplm5d0i11v52xwd7u
-    verified: false
-    hashtags: "#simplefits, #hypedstreets, #yeezy700, #outfitsociety"
-  - username: "ssym.ry"
-    fullname: >-
-      SHIMO.®
-    bio: >-
-      JPN🇯🇵'96🗓 Tokyo🗼 Fashion ♻️ Sneaker 🙏Please follow me🙏 @_nextreet_
-    location: "Japan"
-    followers: 14459
-    engagement: 461
-    commentsToLikes: 0.023609
-    id: ck8tdknt63pao0j78ct3jbv0m
-    verified: false
-    hashtags: "#povoutfit, #newbalance993, #jjjjound, #stayhome"
+    hashtags: "#fearofgodzegna, #essentialsfearofgod, #vaporwaffle, #balenciaga"
   - username: "109_sucha"
     fullname: >-
       sucha®
     bio: >-
       ambassador @_nextreet_ @street_zyoshi_ lover @jordan_porcini
     location: "Japan"
-    followers: 5398
-    engagement: 913
-    commentsToLikes: 0.000656
+    followers: 5771
+    engagement: 1032
+    commentsToLikes: 0.001045
     id: ck9wdgdkafid30j78ii7pvy1e
     verified: false
-    hashtags: "#streak, #sneaker, #streetfashion, #streetstyle"
-  - username: "ldn2hk"
+    hashtags: "#af1, #streetfashion, #street, #outfitpctg"
+  - username: "jp2qi"
     fullname: >-
-      LDN2HK
+      jp🇯🇵
     bio: >-
-      • Global #Fashion & #Streetwear Curator • London•Oslo•TX•HK•NYC•LA•#Tokyo • @Visionarism APAC Division • Inquiries. Landy@visionarism.com
+      ・趣味用自己満コーデ記録用アカウント。 ・とりあえずフォローお願い致します🤝 ・コメントは返信遅れがちですが大歓迎です📝 👇👇👇スニーカー浮遊LEDディスプレイ👟
     location: "Japan"
-    followers: 120628
-    engagement: 88
-    commentsToLikes: 0.036453
-    id: ck0vy6arf2fmn0i1921qggb7t
+    followers: 16534
+    engagement: 439
+    commentsToLikes: 0.015838
+    id: ckf5un55jljb70j23jks7mrm2
     verified: false
-    hashtags: "#sacaiblazer, #brkicks, #complexkicks, #lvsupreme"
-  - username: "kaiser.ki"
+    hashtags: "#nikecdg, #supremenyc, #kicks, #sneakers"
+  - username: "taishi4609"
     fullname: >-
-      Takumi Kaizaki｜Tokyo 🇯🇵
+      TAISHI
     bio: >-
-      I'm back in IG. 📩 ka1zaki0818@gmail.com or DM
+      👦🏻-🇯🇵(たいし) Sneakers-streetwear👟👘
     location: "Japan"
-    followers: 42278
-    engagement: 1493
-    commentsToLikes: 0.024689
-    id: ckaoszrdjtqew0i780p4eolnb
+    followers: 17557
+    engagement: 390
+    commentsToLikes: 0.007958
+    id: ck5qbh9oplm5d0i11v52xwd7u
     verified: false
-    hashtags: "#streetphotography, #citygrammers, #ig, #gramslayers"
+    hashtags: "#outfitsociety, #outfitpost, #hypebeast, #sneakerheads"
   - username: "akiraharigae"
     fullname: >-
       AKIRA 👹
     bio: >-
-      🇵🇭 | @sonyalpha a7riii | 🇯🇵 📧 harigaekira@gmail.com 📍JP 📸|📽|💻 DM/e-mail for rates/business
+      🇵🇭 | @sonyalpha a7riii | 🇯🇵 📧 harigaekira@gmail.com 📍JP 📸|📽|💻 DM/e-mail for rates/business 🤞🏽@tanyadii
     location: "Japan"
-    followers: 27702
-    engagement: 534
-    commentsToLikes: 0.018164
+    followers: 27218
+    engagement: 530
+    commentsToLikes: 0.017182
     id: ck0ua5dj5beeb0i195tnh9v77
     verified: false
-    hashtags: "#creative, #createinspire, #hsdailyfeature, #heatercentral"
-  - username: "changekie"
+    hashtags: "#rsa, #hbouthere, #visualauthority, #heatercentral"
+  - username: "kyohei_w516"
     fullname: >-
-      Worapoom Change Chueawanit​
+      KYOHEI WATARI
     bio: >-
-      Father,Husband,Entrepreneur,Sneakers Collector All Shoes are mine 🚩 *Personal Collection* My Passion 😍 *nothing for sell here* No Business ⛔
+      1995 Fukuoka↪︎Tokyo contact↪︎DM (web広告.sns branding.apparel.personal)
     location: "Japan"
-    followers: 16245
-    engagement: 850
-    commentsToLikes: 0.109732
-    id: ck5btmay9g7wn0i11ok09l8cz
+    followers: 12230
+    engagement: 188
+    commentsToLikes: 0.008017
+    id: ck13cy0hy2pzy0i19oznccdti
     verified: false
-    hashtags: "#thesolesupplier, #sneakershouts, #nbdaily, #klekttakeover"
-  - username: "yako_flpr3"
+    hashtags: "#doports, #bravogreatphoto, #pr0ject, #streets"
+  - username: "djnedtek"
     fullname: >-
-      Naohiro Yako
+      DJ NEDTEK
     bio: >-
-      🎥flapper3 inc. Director / 💻VJ / 🎵Bunkai-Kei records CEO / 📷 α7Riii / 🗡 @fatal.frames / 🇯🇵Tokyo
+      Japan based🇯🇵 OPEN FORMAT DJ⏯ FREELANCE PHOTOGRAPHER📸 My photography @illmatek_
     location: "Japan"
-    followers: 83362
-    engagement: 667
-    commentsToLikes: 0.014084
-    id: ck0w40ojdw7g20i19zz0o9ztu
+    followers: 9420
+    engagement: 296
+    commentsToLikes: 0.252109
+    id: ck0w2h3fzocc00i190mxjyx5b
     verified: false
-    hashtags: "#huffpostgram, #wonderful, #voyaged, #heatercentral"
-  - username: "35mmfullsize"
+    hashtags: "#seratodj, #funk, #artofvisuals, #newmusic"
+  - username: "lupus_solum"
     fullname: >-
-      AKIRA
+      lupus
     bio: >-
-      Niigata, Japan (21) 35mmfullsize@gmail.com
+      camping Journey 🏕 Jeep Wrangler interior Scandinavian design coffee ☕︎ コメント フォローお気軽にどうぞ⛰
     location: "Japan"
-    followers: 37725
-    engagement: 900
-    commentsToLikes: 0.015125
-    id: ck0twxcx3h5fw0i191ddnu8cz
+    followers: 5635
+    engagement: 1724
+    commentsToLikes: 0.011350
+    id: ck5q637t2vrar0i11izk9o3x8
     verified: false
-    hashtags: "#discoverearth, #reels, #hypebeast, #japan"
+    hashtags: "#wp, #pt, #sunsetclimax, #pashadelic"
+  - username: "k04z04y"
+    fullname: >-
+      𝙁𝙐𝙆𝙐 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+    bio: >-
+      𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔩𝔩𝔬𝔴 𝔪𝔢. #supreme #sneaker #streetwear
+    location: "Japan"
+    followers: 8305
+    engagement: 2477
+    commentsToLikes: 0.006099
+    id: ck9wfyks4r3570j78o1jpwuo9
+    verified: false
+    hashtags: "#boxlogohoodie, #jordanretro, #supremenyc, #supremenorthface"
 ---

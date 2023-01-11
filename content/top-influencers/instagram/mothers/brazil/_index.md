@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Brazil In 2022
+title: Top 10 Mothers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top mothers Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #rocksted #halloweenmakeup.
+  Find top mothers Instagram influencers in Brazil in 2023. Most popular hashtags: #pub #makeup #tbt.
 platform: Instagram
-hits: 630
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 630 Instagram influencers like this in Brazil for you to connect with.
+hits: 411
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 411 Instagram influencers like this in Brazil for you to pitch.
 profiles:
+  - username: "helenacoelhooo"
+    fullname: >-
+      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
+    bio: >-
+      💄 Makeup | Fitness | Lifestyle | Motherhood 📍 Lisboa, Portugal 💌 lenacoelho.o@gmail.com
+    location: "Brazil"
+    followers: 620096
+    engagement: 1287
+    commentsToLikes: 0.295236
+    id: ck0u0az0ut4qf0i19ylg3kdyp
+    verified: false
+    hashtags: "#lactacyd, #lactacydportugal, #higieneintima, #pub"
+  - username: "rita_montenegro"
+    fullname: >-
+      Rita Montenegro
+    bio: >-
+      keep life simple. 💘 Storyteller • Lifestyle • Home Styling Mother 👶🏽 Vasco @casamor.home
+    location: "Brazil"
+    followers: 52395
+    engagement: 586
+    commentsToLikes: 0.201391
+    id: ck5cde03hj08f0i11y2odg4q9
+    verified: false
+    hashtags: "#pub, #foreoportugal, #giveaway, #casamor"
   - username: "vejotaaa"
     fullname: >-
       𝑽𝖊𝖏𝖔𝖙𝖆🐲
     bio: >-
       DJ 🦠 fashion designer 🦠 Trendsetter 🦠 MOTHERFUCKIN’ HOUSE 🏠 | NATAL/RN🌴☀️ Contratos/Parcerias por direct 💌
     location: "Brazil"
-    followers: 10057
-    engagement: 1518
-    commentsToLikes: 0.083741
+    followers: 10293
+    engagement: 1567
+    commentsToLikes: 0.077991
     id: ckf5sg3ywfge00j23exfd5d4n
     verified: false
-    hashtags: "#doglovers, #dogsofinstagram, #fashionstyle, #pride"
-  - username: "rockstedmusic"
+    hashtags: "#pride, #makeupartist, #eboy, #dogsofinstagram"
+  - username: "isaldanha"
     fullname: >-
-      Leandro Rocksted
+      Isabel Saldanha
     bio: >-
-      Label: @klandestinemusic ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Store: @klandestinestore ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Mother Funk House:
+      Isabel Saldanha Writer, Photographer & Traveller Mother of 👧🏼👧🏼 🍷Wine lover 📚 Book addicted 🌎Compulsive traveller | in ✍🏻 writing a Book
     location: "Brazil"
-    followers: 55436
-    engagement: 221
-    commentsToLikes: 0.054019
-    id: ck5ckvk9cxozt0i11l1n7p4fl
+    followers: 72748
+    engagement: 222
+    commentsToLikes: 0.062688
+    id: ck55p9qrza4250i112oryci6b
     verified: false
-    hashtags: "#fractallxrocksted, #klandestine, #rocksted, #onlymonsters"
-  - username: "stephany_says"
+    hashtags: "#praticaodesapego, #photography, #words, #ac"
+  - username: "doubletrouble_bd"
     fullname: >-
-      Stephany Says
+      Bruno & Diego
     bio: >-
-      🏆 Miss Tattoo 2014 • 2015 • 2016 • tattoo • lifestyfe • travel • motherhood • 🇬🇧🇪🇸🇺🇾🇦🇷🇳🇱🇮🇹🇫🇷🇵🇹🇬🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based 🇧🇷
+      • Almost twin brothers from almost twin mothers • 🖤 & support small shops 📍PNW ✉️ DM for collabs/BR 👩‍💻 Account ran by Diego’s mom: @cynnsh
     location: "Brazil"
-    followers: 59939
-    engagement: 155
-    commentsToLikes: 0.277216
-    id: ck5bucslbhjt50i11av8u3jw0
+    followers: 4790
+    engagement: 1288
+    commentsToLikes: 0.087285
+    id: ck5hctflbjvp70i11t8d52cyl
     verified: false
-    hashtags: "#sorteiotattoo, #xocoronavirus, #justi, #throwback"
-  - username: "thaynacalil_jolstead"
-    fullname: >-
-      ⋒ THAYNÁ  JOLSTEAD ⋒
-    bio: >-
-      Wife | James's mama | LDS | Brazilian living in the USA 🇧🇷🇺🇸 📍Idaho •Let’s collab! DM me! 📩thayna.jolstead1995@gmail.com #lifestyle #motherhood
-    location: "Brazil"
-    followers: 20622
-    engagement: 387
-    commentsToLikes: 0.045426
-    id: ck55o0aia7dbu0i11fj241woj
-    verified: false
-    hashtags: "#idahoblogger, #instamaterno, #halloweenmakeup, #bohobedroom"
+    hashtags: "#blackouttuesday, #goodoldtimes, #frontyardfourth"
   - username: "carolinactoledo"
     fullname: >-
       Carolina Toledo
     bio: >-
       • Mother of 👦🏻👦🏻 • Married💍 • Fashion👗 and photo 📷 lover • 📩 carol@caroltoledo.com.br
     location: "Brazil"
-    followers: 80339
-    engagement: 108
-    commentsToLikes: 0.049502
+    followers: 88700
+    engagement: 125
+    commentsToLikes: 0.054593
     id: ck0tyq3wbnqo80i19th5o3rcq
     verified: false
-    hashtags: "#pelourinho, #salvador, #anasbirthday, #lapinhadaserra"
-  - username: "sara_moreira_oficial"
+    hashtags: "#adv, #tbt, #friendship, #adotem"
+  - username: "carolinajardim_"
     fullname: >-
-      Sara Moreira
+      Isaurinha Jardim
     bio: >-
-      - Mother👦 🏃‍♀️Athlete Team 🇵🇹, Sporting CP 💚 and Adidas 👟 -🥇🏆European HM 2016
+      🙋🏼 Mother 👩🏼‍💻 carolinaljardim@gmail.com
     location: "Brazil"
-    followers: 11945
-    engagement: 717
-    commentsToLikes: 0.039830
-    id: ck8t0ey4zru820j78w221fnhk
-    verified: false
-    hashtags: "#adizeroadiospro, #wtfast, #adidasrunning, #vaiqued"
+    followers: 40429
+    engagement: 453
+    commentsToLikes: 0.018164
+    id: ck5c2wlk8y4w10i11i96sxf66
+    verified: true
+    hashtags: "#ajudaosistemaimunitario, #pub, #aptababy, #parceria"
   - username: "topdicasdeviagem"
     fullname: >-
       Top Dicas de Viagem
     bio: >-
-      By Sofia Stegle⠀ Motherhood Lifestyle ⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀ #topdicasdeviagem
+      By Sofia Stegle⠀ Falamos de viagens e um pouco de tudo mais Motherhood, Mãe do Theo e do Noah 🤰 Lifestyle ⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀ #topdicasdeviagem
     location: "Brazil"
-    followers: 34924
-    engagement: 48
-    commentsToLikes: 0.069637
+    followers: 34063
+    engagement: 67
+    commentsToLikes: 0.083499
     id: ck0w6d6y180rl0i196g7jghyc
     verified: false
-    hashtags: "#tbt, #topdicasdeviagem, #clubmedriodaspedras, #hturviagens"
-  - username: "jkatiucia_"
+    hashtags: "#topdicasdeviagem, #clubmedriodaspedras, #tbt, #angradosreis"
+  - username: "briennda"
     fullname: >-
-      Katiucia
+      Brenda
     bio: >-
-      Mother agency: @bmminternational 🇧🇷: @evolmgmt 🇫🇷🇬🇧🇪🇸: @vivamodel 🇰🇷: @platinummodels.korea
+      Oi 🙋🏻‍♀️ bem vindo(a) ao 1% da minha vida Challenge | Makeup Tutorial 🎨 Girl mother @annalizbb 💓
     location: "Brazil"
-    followers: 2631
-    engagement: 1696
-    commentsToLikes: 0.113238
-    id: ck15r7eyk6ika0i19nhv13nxx
+    followers: 18124
+    engagement: 66
+    commentsToLikes: 0.072411
+    id: ck0ty8g55lwix0i19jewp44ij
     verified: false
-    hashtags: "#fashiondiaries, #pic, #fotografia, #fashionable"
-  - username: "edense"
+    hashtags: "#parabenschallenge, #challengemakeup, #tutorialmakeup, #maquiagem"
+  - username: "marinadnery"
     fullname: >-
-      Eden Saban Tal
+      Marina Nery
     bio: >-
-      model/actress Mother agency - @itmodels__ 🇮🇱 For inquiries Omri@itmodels.co.il
+      Baiana, from Brasil. 🖤 📍São Paulo - @megamodelbrasil Mother agency @canvasmgt
     location: "Brazil"
-    followers: 103352
-    engagement: 257
-    commentsToLikes: 0.018549
-    id: ck14j5893ioue0i19geov09a7
+    followers: 47915
+    engagement: 236
+    commentsToLikes: 0.030853
+    id: ck15pub5cznuf0i19gl5apxfd
     verified: true
-    hashtags: "#armanimyway, #iamwhatilive, #armnibeauty, #letsvogue"
-  - username: "gabymenotti"
-    fullname: >-
-      Marília Gabriela
-    bio: >-
-      ✨I'm Blessed!✨ ❤️Cristã, esposa e mãe 📚Psicóloga 👩🏻‍🍳Healthy cooking🍃💪🏻 ▫️Embaixadora da @capebh 👧🏻Mother of @jujumenotti
-    location: "Brazil"
-    followers: 120955
-    engagement: 165
-    commentsToLikes: 0.342921
-    id: ck5c70l5h6knv0i11xvc4low1
-    verified: false
-    hashtags: "#deuse, #deus, #publi, #jujumenottifaz7"
+    hashtags: "#blackartmatters, #salvador, #akbgrl"
 ---

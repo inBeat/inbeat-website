@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Chile In 2022
+title: Top 10 Divers TikTok Influencers In Chile In 2023
 description: >-
-  Find top divers TikTok influencers in Chile in 2022. Most popular hashtags: #parati #chile #fyp #foryou.
+  Find top divers TikTok influencers in Chile in 2023. Most popular hashtags: #parati #fyp #viral #greenscreen.
 platform: TikTok
-hits: 25
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 25 TikTok influencers like this in Chile for you to connect with.
+hits: 27
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 27 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "paty.anto13"
     fullname: >-
@@ -18,79 +18,67 @@ profiles:
     commentsToLikes: 0.028224
     id: ck9em4uazdkqf0j78xtdnp1za
     verified: false
-    hashtags: "#ridiculossquad, #parati, #foryou, #reaccionar"
+    hashtags: "#ridiculossquad, #parati, #foryou, #3rr0rsquad"
+  - username: "italo_rey"
+    fullname: >-
+      Italorey
+    bio: >-
+      SOLO DIVERSIÓN ❌❌💂💂❌❌🇨🇱🇨🇱
+    location: "Chile"
+    followers: 11800
+    engagement: 701
+    commentsToLikes: 0.164881
+    id: ckck5afe6q40h0j23bsypik3o
+    verified: false
+    hashtags: "#pegar, #yavali"
   - username: "itsvicexd"
     fullname: >-
       elvicee
     bio: >-
       Sígueme en Instagram: @itsvicexd Solo por diversión , Chilean 🇨🇱
     location: "Chile"
-    followers: 229700
-    engagement: 1625
-    commentsToLikes: 0.036153
+    followers: 227600
+    engagement: 1158
+    commentsToLikes: 0.029900
     id: cka610psltf480i780rmidby3
     verified: false
-    hashtags: "#foryoupage, #parati, #trending, #destacame"
+    hashtags: "#parati, #foryou, #trend, #viral"
   - username: "camilaa_cavieres"
     fullname: >-
       🎀 𝘾𝙖𝙢𝙞𝙡𝙖𝙖 🎀
     bio: >-
       Solo por diversión✨ Curicó💖 19//🇨🇱
     location: "Chile"
-    followers: 23700
-    engagement: 1641
-    commentsToLikes: 0.038985
+    followers: 23400
+    engagement: 1507
+    commentsToLikes: 0.028984
     id: ckb9c1d8eyp630j23x2533pio
     verified: false
-    hashtags: "#parati, #chile, #xyzbca, #fyp"
-  - username: "brandon_marcuss"
-    fullname: >-
-      brandon_marcuss
-    bio: >-
-      Ig: brandon_marcuss 🔝 Solo por diversión✨ Santiago, Chile.🇨🇱
-    location: "Chile"
-    followers: 31900
-    engagement: 1459
-    commentsToLikes: 0.010871
-    id: ckbben5yd3ejg0j23ppix23wi
-    verified: false
-    hashtags: "#greenscreen, #viral, #goviral, #chile"
+    hashtags: "#pegar, #curico, #chile, #fyp"
   - username: "panchito_acevedo"
     fullname: >-
       panchito_acevedo14
     bio: >-
-      Corona Time "Todo lo que sea creado acá , es por diversión"
+      Corona Time 15K? "Todo lo que sea creado acá , es por diversión"
     location: "Chile"
-    followers: 3712
-    engagement: 419
-    commentsToLikes: 0.020913
+    followers: 10200
+    engagement: 447
+    commentsToLikes: 0.015807
     id: ckb9d874o0ftf0j23hkuayf9a
     verified: false
-    hashtags: "#cuarentena, #usa, #chile, #hollywood"
+    hashtags: "#usa, #parati, #greenscreen, #cuarentena"
   - username: "poligho"
     fullname: >-
       Poli🇨🇱#tiktokchile
     bio: >-
       la vida es bella..😍 🇨🇱 Humor y solo buena onda 💪actuo la musica es mi pasion
     location: "Chile"
-    followers: 4266
-    engagement: 2163
-    commentsToLikes: 0.361521
+    followers: 4661
+    engagement: 925
+    commentsToLikes: 0.267631
     id: cka9mdeaq4a840i7812hi0i0l
     verified: false
-    hashtags: "#lasmontini, #hoyesviernesymicuerpolosabe, #diversion, #gallina"
-  - username: "franrafi"
-    fullname: >-
-      María Francisca Pizarro
-    bio: >-
-      Locuras ❤️ From Chile 🇨🇱
-    location: "Chile"
-    followers: 15600
-    engagement: 868
-    commentsToLikes: 0.022737
-    id: ckbf38cucqrlm0j23cia7hxsm
-    verified: false
-    hashtags: "#invierno, #tiktok, #locuras, #parati"
+    hashtags: "#humor, #diversiontiktok, #lachilindrina, #fergie"
   - username: "ferrvidalb"
     fullname: >-
       Fernanda Vidal Basul
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.080776
     id: ckdhatdr0vk3z0j23jkh2ov1v
     verified: false
-    hashtags: "#baile, #nurse, #reaccionar, #enfermera"
-  - username: "_nicourrutia_"
+    hashtags: "#baile, #enfermera, #nurse, #reaccionar"
+  - username: "latinosxelmundo"
     fullname: >-
-      Nicolas Urrutia
+      Dr. Alejandro González
     bio: >-
-      instagram: _nicourrutia_ 📧: nicolas.urrutiacap@gmail.com I’m stupid?... oh yes!
+      Latinos x el 🌍 🇨🇺 D ♥️ 🏠🇨🇱 Implantología Oral y Estética Ig: @gymadental
     location: "Chile"
-    followers: 168300
-    engagement: 1950
-    commentsToLikes: 0.012423
-    id: ckbatipvvk32c0j23brcxj710
+    followers: 45400
+    engagement: 972
+    commentsToLikes: 0.140167
+    id: ckcufoqr7es9s0j23vte1ue7c
     verified: false
-    hashtags: "#pennywise, #foryoupage, #chile, #parati"
-  - username: "josa_prado"
+    hashtags: "#latinos, #viral, #risas, #humor"
+  - username: "lauraistall"
     fullname: >-
-      Josefina Antonia Prado
+      ✨ℓαυяï✨
     bio: >-
-      𝟙𝟞 🇨🇱 🎭Pov’s y Comedia 🎭 Stalkeo a la gente que me vaya a seguir a mi Ig⬆️
+      ✨ceo de los altos✨ chocar con todo, it's my passion 🦒
     location: "Chile"
-    followers: 169800
-    engagement: 2253
-    commentsToLikes: 0.012277
-    id: ck83ze11czwzs0j789x1fxmof
+    followers: 3511
+    engagement: 1174
+    commentsToLikes: 0.031235
+    id: ckbewukl8gmdm0j23uu9dmico
     verified: false
-    hashtags: "#humor, #mexico, #storytime, #xd"
+    hashtags: "#chile, #lentejas, #fyp, #greenscreen"
+  - username: "paulirivera"
+    fullname: >-
+      Pauli Rivera 🥰
+    bio: >-
+      Mamá, emprendedora💕 Mg cocinar Mg hacer reír Mg viajar Ig: Pauli.riveratapia
+    location: "Chile"
+    followers: 4440
+    engagement: 650
+    commentsToLikes: 0.030892
+    id: ckdnva3laodm80j23xp7ct6u2
+    verified: false
+    hashtags: "#sur, #amor, #panguipulli, #metodogrez"
 ---

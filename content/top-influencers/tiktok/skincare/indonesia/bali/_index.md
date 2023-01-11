@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Bali In 2022
+title: Top 10 Skincare TikTok Influencers In Bali In 2023
 description: >-
-  Find top skincare TikTok influencers in Bali in 2022. Most popular hashtags: #fyp #skincare #foryou #skincareroutine.
+  Find top skincare TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #skincare #foryoupage #foryou.
 platform: TikTok
-hits: 7
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 7 TikTok influencers like this in Bali, Indonesia for you to pitch.
+hits: 6
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in Bali, Indonesia for you to work with.
 profiles:
-  - username: "tha_mitha1"
+  - username: "divocado"
     fullname: >-
-      Ta_mitha
+      bb 🤍
     bio: >-
-      Bali, kupang Indo🇮🇩 Hidup Slow, Mati Mekelo Ig :Mitharira
+      bali kid 🥥
     location: "Indonesia"
-    followers: 1700000
-    engagement: 1460
-    commentsToLikes: 0.006517
-    id: ckd5xz0ff0bfn0j23lcp5lt85
+    followers: 26000
+    engagement: 618
+    commentsToLikes: 0.042926
+    id: ckdi6bkqe7od30j23a4litsxz
     verified: false
-    hashtags: "#racunintiktok, #fypforyourpage, #becandasayang, #kadekmitha"
-  - username: "richkyi"
+    hashtags: "#foru, #beranda, #fy, #fyp"
+  - username: "kels.vaughne"
     fullname: >-
-      Risky Wiradana
+      Kels Vaughne
     bio: >-
-      BALI 🌴 PP/Endorse : DM IG/Line @richkyi (pakai '@') 👇🏻KACAMATA TONO 25K👇🏻
+      I like making videos 🎥 & I live on an island called Bali 🌴 Find me on YT & IG
     location: "Indonesia"
-    followers: 1800000
-    engagement: 1581
-    commentsToLikes: 0.006559
-    id: ck8f824os3btq0j7894yeu22y
-    verified: true
-    hashtags: "#baikbersama, #fyp, #skincare, #jadisultanbarengdana"
-  - username: "dillaprb"
-    fullname: >-
-      Dillah Probokusumo ⛓
-    bio: >-
-      Brand Ambassador of @mirandahaircare 20 📍Jakarta 🎓Law Faculty I enjoy sewing
-    location: "Indonesia"
-    followers: 493700
-    engagement: 1519
-    commentsToLikes: 0.007980
-    id: ckbwl7xrl40x70j23ukcky208
-    verified: true
-    hashtags: "#foryoupage, #foryou, #localbrand, #tiktokpintar"
+    followers: 7552
+    engagement: 889
+    commentsToLikes: 0.050169
+    id: ck9fme94ft2n40j78bx0jig2x
+    verified: false
+    hashtags: "#fyp, #sunset, #bali, #tiktoktravel"
   - username: "sayblebaby"
     fullname: >-
       Sayble
     bio: >-
-      💅🏼beauty / / travel Adhesive Eyeliner 👇🏼
+      💅🏼Beauty tips and hacks Founder | @balilash 🌴 Discount code: TIKTOK
     location: "Indonesia"
-    followers: 58200
-    engagement: 887
-    commentsToLikes: 0.067802
+    followers: 59300
+    engagement: 450
+    commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beautyessentials, #fallaesthetic, #adhesiveeyeliner, #makeuphacks"
-  - username: "aleyamax"
+    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+  - username: "diasmei"
     fullname: >-
-      Aleyamax
+      DiasMei
     bio: >-
-      🇮🇩 🇩🇪 | just for fun IG : Aleyamax Youtube : Aleya & Max
+      Balinese 🌼 IG: @diasmeilanny_ 🥺
     location: "Indonesia"
-    followers: 24800
-    engagement: 327
-    commentsToLikes: 0.045370
-    id: ckc356mk2ugek0j23dvptauau
+    followers: 209300
+    engagement: 1134
+    commentsToLikes: 0.013902
+    id: ckbqdfo2lzf9s0j23v1a1cc1v
     verified: false
-    hashtags: "#foryou, #failed, #mixedcouple, #voiceeffects"
-  - username: "khafebi"
+    hashtags: ""
+  - username: "iniapamiskha"
     fullname: >-
-      febi
+      Lihat balasan (11) ᨆ：
     bio: >-
-      - ur future dentist mas💉🦷
+      There’s nothing interesting down here 🤷🏾
     location: "Indonesia"
-    followers: 5283
-    engagement: 568
-    commentsToLikes: 0.030286
-    id: ckc8ijhfqc3as0j23clell35h
+    followers: 16100
+    engagement: 995
+    commentsToLikes: 0.077444
+    id: ckbr6qgx3m3xn0j236gvffwav
     verified: false
-    hashtags: "#fyp, #samasamadirumah, #xyzbca, #nbagame"
-  - username: "erilegas"
+    hashtags: "#skincare, #squeezeyuk, #fyp, #foryou"
+  - username: "hardstyleprincess"
     fullname: >-
-      Chill-Kid
+      Hardstyle Princess 👑
     bio: >-
-      Bali kid🏝 Just to busy having fun
+      Hardstyle 🖤. Harpist & Pianist. Jalan jalan ke TURKEY 🇹🇷 @instagram👇🏻
     location: "Indonesia"
-    followers: 38100
-    engagement: 421
-    commentsToLikes: 0.070399
-    id: ckc8iwpqfcfqf0j232nib7qvg
+    followers: 124400
+    engagement: 438
+    commentsToLikes: 0.014740
+    id: ckbqtx9pfehjt0j23k0c7hrq8
     verified: false
-    hashtags: "#sign, #aries, #foryou, #omnibuslaw"
-  - username: "nona.sipa"
+    hashtags: "#transitions, #tiktoktainment, #foryou, #couple"
+  - username: "dannysreza"
     fullname: >-
-      Nona
+      danny
     bio: >-
-      Yg tanya sipa pake skincare apa langsung meluncur k shopee
+      follow me on ig a mix of humor + skincare 👼🏻 20
     location: "Indonesia"
-    followers: 1200000
-    engagement: 1075
-    commentsToLikes: 0.020163
-    id: ckbbshrqlg1eq0j2396ciogu0
+    followers: 44400
+    engagement: 1240
+    commentsToLikes: 0.051912
+    id: cka65zgowf99g0i78xyxxi9y9
     verified: false
-    hashtags: "#pyf, #fyp, #fyou"
+    hashtags: "#mulaidari100, #kejardiskonwib, #skincarewithdanny, #skincare"
   - username: "abelsoe"
     fullname: >-
       ABEL ✨
     bio: >-
-      Pangeran of SKINCARE🇲🇨 Rekomendasi cek di #skincareabel QnA follow IG aku ya⬇️
+      Pangeran of SKINCARE🇲🇨 #SkincareHasNoGender Rekomendasi cek #skincareabel & ⬇️
     location: "Indonesia"
-    followers: 388300
-    engagement: 824
-    commentsToLikes: 0.032621
+    followers: 435100
+    engagement: 938
+    commentsToLikes: 0.084113
     id: ckbkoojikit210j235awbr3gf
     verified: false
-    hashtags: "#duet, #skincarebyabel, #skincarereview, #abelsoe"
+    hashtags: "#skincarebyabel, #skincareindo, #skincarelokal, #duet"
+  - username: "mathwang.kie"
+    fullname: >-
+      Mathwang Kie
+    bio: >-
+      Fashion Model, Businessman, CEO and Founder - MATHWANG KIE SKINCARE
+    location: "Indonesia"
+    followers: 49500
+    engagement: 492
+    commentsToLikes: 0.036244
+    id: ckail07c0lyx00i78wuwl72p7
+    verified: false
+    hashtags: "#fyp, #foryourpage, #foryoupage, #tiktokindonesia"
   - username: "deasilistiani"
     fullname: >-
       ECHI
     bio: >-
-      Instagram & Youtube 🔝 Skincare • Lifestyle • Fun Facts CP admin - 085216161996
+      Skincare | Lifestyle | Storyteller Interesting Facts Instagram & Youtube 👆
     location: "Indonesia"
-    followers: 1400000
-    engagement: 1412
-    commentsToLikes: 0.011654
+    followers: 2300000
+    engagement: 1174
+    commentsToLikes: 0.010479
     id: ckbkq6rm2khry0j23wk1e79ty
     verified: false
-    hashtags: "#facts, #fyp, #samasamabelajar, #skincare"
+    hashtags: "#storytime, #kelascinta, #story, #kreasivalentine"
 ---

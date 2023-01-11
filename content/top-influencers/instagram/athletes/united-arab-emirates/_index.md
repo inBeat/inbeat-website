@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Athletes Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top athletes Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #fitness #dubai #crossfit.
+  Find top athletes Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fitness #mydubai.
 platform: Instagram
-hits: 30
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 30 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 24
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 24 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
+  - username: "aeebeh"
+    fullname: >-
+      Ali Omar 🇮🇶 | علي عمر
+    bio: >-
+      Life Coach I exist to inspire you Athlete with 🏆 25x | Marketer 🧑‍🎓 DXB | London 📍 @zerofatae | @expinapp | @almaskoof_
+    location: "United Arab Emirates"
+    followers: 176421
+    engagement: 48
+    commentsToLikes: 0.262171
+    id: ck13ceb8yzxpq0i19vdq74msa
+    verified: false
+    hashtags: "#bodybuilding, #bodybuilder, #gym, #uae"
+  - username: "felycel"
+    fullname: >-
+      Felicia 🌴
+    bio: >-
+      📍 Dubai 🏋🏽‍♀️ @geniusnutrition Athlete ✨ @prettylittlething.me Ambassador ✉️ DM ME for Personal Training info My YouTube Chanel ⬇️
+    location: "United Arab Emirates"
+    followers: 12739
+    engagement: 580
+    commentsToLikes: 0.101126
+    id: ckf5rdf4ccahr0j23wccvawds
+    verified: false
+    hashtags: ""
   - username: "somaiah_wbffpro"
     fullname: >-
       Somaiah WBFF PRO
     bio: >-
       🔸️Passion for fitness and fashion 🔸️Founder, creator @maeyaclothing 🔸️Pro fitness athlete @wbffentertainment 📍Dubai, UAE
     location: "United Arab Emirates"
-    followers: 21120
-    engagement: 374
-    commentsToLikes: 0.077848
+    followers: 20558
+    engagement: 382
+    commentsToLikes: 0.090070
     id: ck6u3399bvfvi0j71o1d7mdu9
     verified: false
-    hashtags: "#tb, #werkit, #workit, #samples"
+    hashtags: "#tb, #werkit, #workit, #inspirational"
   - username: "mikethurston"
     fullname: >-
       Mike Thurston
     bio: >-
-      📍Dubai 🇦🇪 | 1M+ YouTube subs @MyProteinuk Athlete @Thrstwear Founder Training Programmes👇🏼
+      📍Dubai 🇦🇪 | 1.1M YouTube subs @MyProteinuk Athlete @ThrstOfficial Founder Training Programmes👇🏼
     location: "United Arab Emirates"
-    followers: 726655
-    engagement: 465
-    commentsToLikes: 0.008777
+    followers: 821871
+    engagement: 513
+    commentsToLikes: 0.008348
     id: ck0uak9xychs50i197sjtzy5a
     verified: false
     hashtags: ""
-  - username: "shona_hayley"
+  - username: "muhabafifi"
     fullname: >-
-      ꧁ 𝚂𝚑𝚘𝚗𝚊 𝙷𝚊𝚢𝚕𝚎𝚢 ꧂
+      Muhab M. Afifi
     bio: >-
-      🏡-🇿🇦 📍-🇦🇪 📧 - 𝚜𝚑𝚘𝚗𝚊𝚑𝚊𝚢𝚕𝚎𝚢𝟶𝟶𝟽@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖 Professional athlete , Branded model and at this point a liar 😂
+      سبحان الله وبحمده سبحان الله العظيم 27 CFT ( Parkour & Freerunning ) trainer & athlete Stuntman 🎥 Egypt/Dubai Fast Cars ❤🏎
     location: "United Arab Emirates"
-    followers: 5223
-    engagement: 999
-    commentsToLikes: 0.011306
-    id: ckap4d37h6t080i78nbjymvgr
+    followers: 18851
+    engagement: 266
+    commentsToLikes: 0.025089
+    id: ckap0ugunruog0i78vg25tga7
     verified: false
-    hashtags: ""
-  - username: "felycel"
+    hashtags: "#instafit, #mydubai, #style, #feelsgood"
+  - username: "nelita_v"
     fullname: >-
-      Felicia 🌴
+      Actress | Martial Artist
     bio: >-
-      📍 Dubai 🏋🏽‍♀️@geniusnutrition Athlete ✨@prettylittlething.me Ambassador ✉️ DM ME for Online Personal Training My YouTube Chanel ⬇️
+      🇵🇭🇺🇸 LA to Dubai 🎥 Agency @ntatalent #senseibae @squatwolf Athlete 🐺 Weapons & Merch ⚔️www.shopnelitav.com Training & Nutrition🥊💪🏾🥗 ⬇️
     location: "United Arab Emirates"
-    followers: 12203
-    engagement: 632
-    commentsToLikes: 0.049255
-    id: ckf5rdf4ccahr0j23wccvawds
+    followers: 117631
+    engagement: 585
+    commentsToLikes: 0.031251
+    id: ck55njxxe6d6e0i11n08b4xm4
     verified: false
-    hashtags: ""
-  - username: "shalan.mahmood"
+    hashtags: "#philippines, #3sectionstaff, #football, #femalemartialartist"
+  - username: "mohamed.farag"
     fullname: >-
-      محمود شعلان Mahmood Shalan
+      محمد فرج  Mohamed Farag
     bio: >-
-      • Fittest in UAE 🇦🇪 • Crossfit Games athlete • PT, online coaching or programs ⬇️ @followmylead.training
+      الحمدلله Egypt📍 Tv presenter @alnahareg @theprankers2020 Co-Owner @braavos_lounge Co-Founder @mfstore.eg Blogger, Traveler, Entrepreneur, Athlete.
     location: "United Arab Emirates"
-    followers: 4502
-    engagement: 876
-    commentsToLikes: 0.053896
-    id: ck6tvb8p7l8d50j71vezwhdx9
+    followers: 2896943
+    engagement: 446
+    commentsToLikes: 0.014002
+    id: ck6tn85hn9bor0j71mzyzwvi4
     verified: false
-    hashtags: "#mydubai, #fitness, #online, #dubai"
+    hashtags: "#realme, #realmeandyou, #pixi, #pixibogo"
+  - username: "alnassark"
+    fullname: >-
+      Khalid Alnassar
+    bio: >-
+      ‎بوخلود | koko 🇸🇦 Marketer🪝- YouTuber 🎥- athlete🏋🏼‍♂️ +1 M Subscribers ❤️ “Loko friends “ ⬇️⬇️
+    location: "United Arab Emirates"
+    followers: 68211
+    engagement: 813
+    commentsToLikes: 0.033086
+    id: ck5qe2534ycp10i114t2qtuz5
+    verified: false
+    hashtags: "#stopirritation, #schwarzenegger, #dubai, #fun"
   - username: "walidyari"
     fullname: >-
       Walid Yari وليد يري
     bio: >-
-      #وحش_الخليج #Blessed #Greatest GuinnessWorldRecordHolder #TheBeastOfTheMiddleEast @adidasmena Athlete @fitnessfirstme @ehplabs walidyari@gmail.com
+      #وحش_الخليج #Blessed GuinnessWorldRecordHolder #TheBeastOfTheMiddleEast @adidasmena Athlete @yari.camp @fitnessfirstme @ehplabs walidyari@gmail.com
     location: "United Arab Emirates"
-    followers: 637943
-    engagement: 47
-    commentsToLikes: 0.024462
+    followers: 630196
+    engagement: 45
+    commentsToLikes: 0.028845
     id: ck13c5oufyqkr0i19yckam948
     verified: false
-    hashtags: "#adidadmena, #adidas, #likeaviking, #chapsandco"
-  - username: "tracyharmoush"
+    hashtags: "#repost, #miniagmc, #miwatch, #theminithingsdxb"
+  - username: "shalan.mahmood"
     fullname: >-
-      Tracy Harmoush   تريسي هرموش
+      محمود شعلان
     bio: >-
-      From Investment Banker to Athlete 📧contact@tracyharmoush.com Register to @livewithtracy 👇🏽
+      • 2x Fittest in UAE 🇦🇪 • Crossfit Games athlete • PT, online coaching or programs ⬇️ @followmylead.training
     location: "United Arab Emirates"
-    followers: 257718
-    engagement: 314
-    commentsToLikes: 0.012314
-    id: ck14gw4d97brq0i19a0u0bvbe
-    verified: true
-    hashtags: "#panchothechicken, #21dayskind"
-  - username: "karenmattar"
-    fullname: >-
-      Karen Mattar  كارن مطر
-    bio: >-
-      📍Dubai Health Coach,yoga,calisthenics,🏋🏻‍♀️ I help women be the best version of themselves from the inside out-DM for coaching. Athlete @womensbest.me
-    location: "United Arab Emirates"
-    followers: 124448
-    engagement: 287
-    commentsToLikes: 0.014275
-    id: ck14lk6eev3mt0i19ux5okwka
-    verified: true
-    hashtags: "#ad, #myfitnessjourney, #fitnessmotivation, #weighttraining"
-  - username: "dr_marcfit"
-    fullname: >-
-      Asem Marc Bacha. DDS
-    bio: >-
-      Dentist | Oral Implantology Professor at UIC @gornation Athlete 🏆🥇WCO Battle of the Bars Dubai 2019 🏆🥇Feswc Arnold Classic Europe 2019
-    location: "United Arab Emirates"
-    followers: 9741
-    engagement: 752
-    commentsToLikes: 0.040541
-    id: ck5zvl4zd4fw00i14r0yv8e36
+    followers: 4882
+    engagement: 780
+    commentsToLikes: 0.050032
+    id: ck6tvb8p7l8d50j71vezwhdx9
     verified: false
-    hashtags: "#handstand, #vertical, #oralsurgeon, #dentistry"
-  - username: "rashadsempire"
-    fullname: >-
-      Rashad | رشاد 👑
-    bio: >-
-      🐾| SIU Alumni ☠️| Dominate Humbly 🎓| M.S. Mech. Engineering 📍| Chicago, USA ⤵️ Dubai, UAE 🏋🏻‍♂️| Athlete Ambassador @rgfit_gym
-    location: "United Arab Emirates"
-    followers: 5448
-    engagement: 363
-    commentsToLikes: 0.312578
-    id: ck136qfdl7r4v0i19xmziten6
-    verified: false
-    hashtags: "#uae, #workout, #myinvite, #weight"
+    hashtags: "#dubai, #sports, #programs, #mydubai"
 ---

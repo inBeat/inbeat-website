@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Germany In 2022
+title: Top 10 Yoga Instagram Influencers In Germany In 2023
 description: >-
-  Find top yoga Instagram influencers in Germany in 2022. Most popular hashtags: #yogachallenge #ecofashion #adidascleanclassics.
+  Find top yoga Instagram influencers in Germany in 2023. Most popular hashtags: #happyme #mondaymotivation #yogadeutschland #style.
 platform: Instagram
-hits: 540
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 540 Instagram influencers like this in Germany for you to connect with.
+hits: 394
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 394 Instagram influencers like this in Germany for you to contact.
 profiles:
-  - username: "wina.yoga"
+  - username: "picturing.spirit"
     fullname: >-
-      Wina ❘ Yoga Teacher
+      Sustainable Yogini ✨ Johanna
     bio: >-
-      💫 Certified Yoga Teacher 400+ 🧘🏻‍♀️ Yoga Livestream, Personal Yoga, Business Yoga 📍 Düsseldorf, languages: 🇩🇪 & 🇺🇸 👩🏻‍💻 PR Consultant
+      📍germany - she/her Ich • große yogaliebe | vegan | feministIn | real-life person | 🏳️‍🌈
     location: "Germany"
-    followers: 20119
-    engagement: 632
-    commentsToLikes: 0.083350
-    id: ck5zofwc9qh710i14f88yiolg
+    followers: 18652
+    engagement: 675
+    commentsToLikes: 0.035410
+    id: ck9hazujierui0j78teooufdv
     verified: false
-    hashtags: "#alomoves, #aloyogachallenge, #alobouthips, #yogachallenge"
-  - username: "xenia.greta"
+    hashtags: ""
+  - username: "endless_footsteps"
     fullname: >-
-      Xenia ☼ Yoga & Empowerment
+      va̧nlife łravel ɱindfulness
     bio: >-
-      Relax. Feel. Grow. ♡ @sonnenhaldeyoga Online Yoga | Workshops | Retreats
+      ⋖ daniela x patrick ⋗ ♒︎ fulltime vanlife vw lt 28 ⥉ poland ॐ yoga teacher ↡ homepage & products
     location: "Germany"
-    followers: 9391
-    engagement: 996
-    commentsToLikes: 0.143635
-    id: ck1363z3e4nij0i19n5bs2ods
+    followers: 12117
+    engagement: 508
+    commentsToLikes: 0.091738
+    id: ck0tytyoio1g30i19aqgl2p7t
     verified: false
-    hashtags: "#wirbegleitendeinglu, #myjuniorkinderwagen, #verga, #weareone"
+    hashtags: "#fulltimetravel, #vwlt28, #mindfulliving, #couplegoals"
   - username: "charmed_by_yoga"
     fullname: >-
-      BINA - Yoga Coach Köln
+      BINA MAQBOOL - Yoga Coach Köln
     bio: >-
-      *reconnect to your body & soul* 🧘‍♀️1:1 yoga | womencircles
+      Youtube: bina maqbool *reconnect to your body & soul* 🧘‍♀️1:1 yoga | womencircles ambassador @vioyoga @vayumudra @onzie @mindfulnesshop
     location: "Germany"
-    followers: 14986
-    engagement: 690
-    commentsToLikes: 0.302061
+    followers: 18787
+    engagement: 507
+    commentsToLikes: 0.305507
     id: ck6tu7hb9eqvv0j710okd7z1x
     verified: false
-    hashtags: "#aloholdeachother, #yoga, #heartsalove, #softness"
-  - username: "sandra_von_zabiensky"
+    hashtags: "#alomoves, #yoga, #yogalifestyle, #yogapose"
+  - username: "kathaaab"
     fullname: >-
-      Sandra von Zabiensky
+      Kathi | fashion
     bio: >-
-      уσυ αяє ℓσνє∂ 💎💜 ∇ Tantrik Yoga ∇ Online:@yogaeasygermany @fvckluckygohappy ∇ writings: @houseofgraceyoga ∇ Podcast:HouseofGrace
+      Petite Girl 🕊 Yoga🧘🏽‍♀️ 24 • § • M🤍
     location: "Germany"
-    followers: 7803
-    engagement: 750
-    commentsToLikes: 0.155309
-    id: ck14hs0vebu6m0i192pbw5qzz
+    followers: 5662
+    engagement: 572
+    commentsToLikes: 0.089656
+    id: ck0vybse7379g0i19sztgonwe
     verified: false
-    hashtags: "#sexyourway, #beschenkteuchselbst, #amorelie"
-  - username: "fannymuller_model"
+    hashtags: "#sunday, #anajohnson, #style, #fashiondiaries"
+  - username: "elke.offiziell"
     fullname: >-
-      Fanny Müller
+      Leni‘s Mom oder Elke
     bio: >-
-      Professional Traveling Model Fine Art/Dance/Pole/Aerial Acrobatics/Ballet/Yoga 📍Now: Germany🇩🇪->Austria🇦🇹 Want to shoot? 📩m.fanny.v@gmail.com
+      #mompreneur @fairpackage_agency #Tvhost @channel21_official #momblog #veg #yogagirl #strokesurvivor #animallove jahn.management@gmail.com DXB - MUC
     location: "Germany"
-    followers: 43359
-    engagement: 270
-    commentsToLikes: 0.066188
-    id: ck55jyeroy22i0i110juq12a0
+    followers: 211134
+    engagement: 1047
+    commentsToLikes: 0.008165
+    id: ckap3hyv432nt0i78vnwsqck2
     verified: false
-    hashtags: "#fannymuller, #bodyart, #bnwart, #ballerina"
-  - username: "considerlena"
-    fullname: >-
-      LENA
-    bio: >-
-      ♥️ Mindfulness, Food, Drinks & Yoga 👯 gemeinsam mit @considerleonie ✉️ considercologne@googlemail.com 🎥 youtube.com/considercologne 📝 Unser Shop
-    location: "Germany"
-    followers: 108839
-    engagement: 567
-    commentsToLikes: 0.023913
-    id: ck5hp7td1qw9p0i1154r1c1o3
-    verified: false
-    hashtags: "#mondaymood, #cheerstotheweekend, #feierabend, #foodieforever"
-  - username: "hannah.nele"
-    fullname: >-
-      Sustainable | Mindful | Honest
-    bio: >-
-      🌍 fighting for our home 📍#usedom 🌿 95% plantbased 🧘🏽‍♀️ yoga & mindfulness attempts 🌞 lust for life 💃🏽 dance it out
-    location: "Germany"
-    followers: 35393
-    engagement: 587
-    commentsToLikes: 0.037490
-    id: ck8t4385j5cn80j786acpji7c
-    verified: false
-    hashtags: "#votethiscapdown, #agriculture, #feelgoodclub, #vote"
+    hashtags: "#likemotherlikedaughter, #matchymatchy, #mysiblingsoutfit, #stayhome"
   - username: "madymorrison"
     fullname: >-
       YOGA & FIT LIFESTYLE
     bio: >-
-      » Youtuber | Yogateacher | Designer » Yoga, Fitness & Lifestyle 🎥Youtube: Mady Morrison 1 Mio.🤘🏻 ✨ MINDFUL MOMENTS - Yoga Challenge:
+      » Youtuber | Yogateacher | Designer » Yoga, Fitness & Lifestyle 🎥Youtube: Mady Morrison 1,9 Mio.🤘🏻 ✨30 Min. Full Body Stretch:
     location: "Germany"
-    followers: 444933
-    engagement: 511
-    commentsToLikes: 0.017340
+    followers: 669501
+    engagement: 636
+    commentsToLikes: 0.015549
     id: ck13bieknvk160i190slpq2el
     verified: false
-    hashtags: "#yogamitmady, #youtubeyoga, #zalando, #getthelook"
+    hashtags: "#zalandostyle, #handstandlover, #teammorrison, #yogamitmady"
+  - username: "tanja_lanaeus"
+    fullname: >-
+      Tanja Lanäus
+    bio: >-
+      Agentur Actors Connection ✨ Running ✨ Fitness ✨ Yoga (Beginner)
+    location: "Germany"
+    followers: 27038
+    engagement: 696
+    commentsToLikes: 0.106528
+    id: ck5hkvnkgj44v0i11pgjxghxx
+    verified: false
+    hashtags: "#actresslife, #sundaysin, #fiftyyearsold, #coffeelover"
+  - username: "anne_bodykiss"
+    fullname: >-
+      Anne Kissner ❤ BodyKiss
+    bio: >-
+      FitnessLover & YogaTeacher🏋️Dackel Mum🐶 Lawyer⚖️ #TeamGalaxy 600.000 Abos YouTube🎥 Impressum: https://bodykiss.net/impressum💚 Gewinnspiel TNB💚👇🏽
+    location: "Germany"
+    followers: 314892
+    engagement: 283
+    commentsToLikes: 0.018092
+    id: ck5bw7hn2l52w0i1133wyqhmc
+    verified: true
+    hashtags: "#unfoldyourworld, #withgalaxy, #teamgalaxy, #galaxyunpacked"
+  - username: "xenia.greta"
+    fullname: >-
+      𝐗𝐞𝐧𝐢𝐚 ☼ 𝐆𝐫𝐮̈𝐧𝐝𝐞𝐫𝐢𝐧 𝐯𝐨𝐧 𝐒𝐨𝐡𝐚
+    bio: >-
+      𝑫𝒆𝒓 𝑴𝒐𝒎𝒆𝒏𝒕, 𝒘𝒆𝒏𝒏 𝒘𝒊𝒓 𝒖𝒏𝒔 𝒂𝒏 𝒖𝒏𝒔𝒆𝒓𝒆 𝑮𝒂𝒏𝒛𝒉𝒆𝒊𝒕, 𝑳𝒆𝒊𝒄𝒉𝒕𝒊𝒈𝒌𝒆𝒊𝒕 & 𝑳𝒆𝒃𝒆𝒏𝒔𝒍𝒊𝒆𝒃𝒆 𝒆𝒓𝒊𝒏𝒏𝒆𝒓𝒏... ♡ @sohacommunity ⇨ Yoga ~ Coaching ~ Kurse ~ Ausbildung ~ Retreats
+    location: "Germany"
+    followers: 9947
+    engagement: 485
+    commentsToLikes: 0.079984
+    id: ck1363z3e4nij0i19n5bs2ods
+    verified: false
+    hashtags: "#sohacommunity, #sohafeeling, #sohayoga, #ver"
   - username: "its___carl"
     fullname: >-
       Caroline 🌞 カロリネ
     bio: >-
-      Vegan🐮🐷🐔 Tree Hugger 🌱 Ocean child 🌊 Yoga student 🧘🏻‍♀️ Traveler ✈️ Dreamer 🔮 based in Hamburg, Germany 🇩🇪
+      Just a girl that likes to travel ✈️ nature 🌱 the ocean 🌊 hugging trees 🌳 dreaming 🔮 and yoga 🧘🏻‍♀️ based in Hamburg, Germany 🇩🇪
     location: "Germany"
-    followers: 15518
-    engagement: 390
-    commentsToLikes: 0.078264
+    followers: 15540
+    engagement: 343
+    commentsToLikes: 0.078806
     id: ckf5qri62abxs0j239o2yl0qj
     verified: false
-    hashtags: "#practiceandalliscoming, #moonchildambassador, #challengeaccepted, #challenges"
-  - username: "lea.louisa.wolfram"
-    fullname: >-
-      𝑳𝒆𝒂 𝑳𝒐𝒖𝒊𝒔𝒂
-    bio: >-
-      🎭Actress/Model 📿 Yoga Teacher&Student •Actors Connection •Kult Models Hamburg •Ice Genetics Cape Town 📍Berlin
-    location: "Germany"
-    followers: 6674
-    engagement: 934
-    commentsToLikes: 0.048599
-    id: ck6tlq3ov6fmn0j719r8iigte
-    verified: false
-    hashtags: ""
+    hashtags: "#practiceandalliscoming, #loveandalliscoming, #yogadeutschland, #onandoffthemat"
 ---

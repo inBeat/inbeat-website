@@ -1,60 +1,96 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Italy In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Italy In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Italy in 2022. Most popular hashtags: #italy #instagood #ig #giftedby.
+  Find top graphic-designers Instagram influencers in Italy in 2023. Most popular hashtags: #instagood #love #ig.
 platform: Instagram
-hits: 141
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 141 Instagram influencers like this in Italy for you to collaborate.
+hits: 67
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 67 Instagram influencers like this in Italy for you to work with.
 profiles:
+  - username: "mrezababaei_photography"
+    fullname: >-
+      ▪️Mohammad Reza Babaei
+    bio: >-
+      📍Portrait ○○○ Fashion ○○○ Beauty ●●●●●●●●●●●●●●●●●●●●●●●●● Photograoher / Graphic Designer 📥 Dc For Work 📸 Tehran 📍
+    location: "Italy"
+    followers: 16075
+    engagement: 809
+    commentsToLikes: 0.110676
+    id: ck9wh0p3gvprk0j78ozld95x7
+    verified: false
+    hashtags: ""
   - username: "_umbertodf_"
     fullname: >-
       UMBERTO DI FINIZIO
     bio: >-
-      👤 25 yo, Gemini 📍Napoli, Italy 📺 Graphic Designer | Rai Television 👨🏽‍🎓 Graduated 💿 R&B
+      👤 25 yo, Gemini 📍 Napoli, Italy 🎆 Graphic Designer 📺 Rai | Background Actor 👨🏽‍🎓 Graduated in Cinema 📧 umberto.difinizio.fct1@gmail.com
     location: "Italy"
-    followers: 21511
-    engagement: 328
-    commentsToLikes: 0.103366
+    followers: 22545
+    engagement: 338
+    commentsToLikes: 0.111740
     id: ck8t8kselku270j78iw4rcp3g
     verified: false
-    hashtags: "#sannicolaarcella, #london, #orsomarso, #pologize"
+    hashtags: "#poolparty, #pool, #white, #primestudentit"
   - username: "carment93"
     fullname: >-
-      Carmen Testa 🌸
+      Carmen 🌸 Fashion - Travel
     bio: >-
-      Based in Naples 📍 •Graphic designer - Photographer •Social Media Manager 📧 Carmentesta93@outlook.it
+      My shop @karmashop93 🛍 Naples - Milan📍 •Graphic designer - Photographer •Digital creator and SMM 📧 Carmentesta93@outlook.it
     location: "Italy"
-    followers: 18269
-    engagement: 646
-    commentsToLikes: 0.077143
+    followers: 21374
+    engagement: 431
+    commentsToLikes: 0.085784
     id: ck8syf32fkneo0j78v2nkoosr
     verified: false
-    hashtags: "#traveler, #summer, #all, #italia"
-  - username: "liveasaqueen_"
+    hashtags: "#inspiration, #beautifuldestinations, #blogger, #girl"
+  - username: "angieray_"
     fullname: >-
-      REGINA👑
+      Angie 💀
     bio: >-
-      𝖣𝗈𝗇'𝗍 𝗌𝗍𝗈𝗉 𝗎𝗇𝗍𝗂𝗅 𝗒𝗈𝗎'𝗋𝖾 𝗉𝗋𝗈𝗎𝖽. 🇮🇹Creative 90’s girl from Calabria 💻Graphic designer/Creator 👸🏽My clothes: @dressasaqueen_ 🛒Shop my presets
+      ⚡ Harley Rider 🇳🇱 Amsterdam ♠️ Graphic Designer / Art Direction 📧 Business: DM/Mail ⬇️ Shop now!
     location: "Italy"
-    followers: 27227
-    engagement: 202
-    commentsToLikes: 0.428621
-    id: ck5q9ra5rckxk0i112ay17isc
+    followers: 19416
+    engagement: 1383
+    commentsToLikes: 0.029546
+    id: ck14gulgf73t20i19os5xd7nh
     verified: false
-    hashtags: "#purshcollection, #suppliedby, #instagramtips, #liveasaqueen"
-  - username: "orietta.gs"
+    hashtags: "#tb"
+  - username: "kristina.kimi"
     fullname: >-
-      OrieTTa gelArdin spinOla
+      Kristina Kimina 🔥🔥
     bio: >-
-      graphic designer | ricoh GRIII ambassador | hypochondriac | pisces |@lacalleesnuestracolectivo
+      LIFE FOR LOVE: Snowboarder ~ Ocean Lover ~ Graphic Designer ~ Post Surgery Rehab🦵🏼 Visit my art: @kimi.vibe #kimiboarding ⬇️ My snowboarding is here
     location: "Italy"
-    followers: 17056
-    engagement: 486
-    commentsToLikes: 0.064179
-    id: ck15rle1b8hqj0i19gzgsksag
+    followers: 17254
+    engagement: 849
+    commentsToLikes: 0.044458
+    id: ck5zutk3m30iy0i14ylk1997e
     verified: false
-    hashtags: "#romacitt, #romacitta, #iwasforyearsintheyellowperiodyouknowjosefalbers"
+    hashtags: "#digitalart, #kimivibe, #vansrussia, #artwork"
+  - username: "damaridea_photographer"
+    fullname: >-
+      𝙳𝚊𝚖𝚊𝚛𝚒𝚍𝚎
+    bio: >-
+      Photographer & Graphic Designer Traveller and explorer addicted 🌍 #writewithlight Based in La Spezia / Cinque Terre📍 Booking: damaridea@gmail.com 📩
+    location: "Italy"
+    followers: 4584
+    engagement: 1333
+    commentsToLikes: 0.050998
+    id: ckaowk8279acz0i788d5mye17
+    verified: false
+    hashtags: "#theend"
+  - username: "mskevin"
+    fullname: >-
+      Kévin 🧔🏻✨
+    bio: >-
+      Lille • France • Graphic Designer 〰️ Nikon Z5 | #NikonZCreators
+    location: "Italy"
+    followers: 18174
+    engagement: 1266
+    commentsToLikes: 0.069498
+    id: ck8szyo3yq87z0j78u889dsin
+    verified: false
+    hashtags: ""
   - username: "massimiliano_fulgosi"
     fullname: >-
       ◭MΛSSIMILIΛNO◭
@@ -66,65 +102,29 @@ profiles:
     commentsToLikes: 0.144427
     id: ck5q0590p4bes0i11qpwf6z81
     verified: false
-    hashtags: "#visit, #mapthewild, #liguria, #bestmountainartists"
-  - username: "mskevin"
-    fullname: >-
-      Kévin 🧔🏻✨
-    bio: >-
-      Lille • France • Graphic Designer 〰️ iPhone Xs • Fuji x100t Soon > 🇵🇹 🇪🇸 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-    location: "Italy"
-    followers: 17495
-    engagement: 1063
-    commentsToLikes: 0.076961
-    id: ck8szyo3yq87z0j78u889dsin
-    verified: false
-    hashtags: "#topeuropephoto, #italy, #afterlight, #awesome"
-  - username: "dontcallmepapi"
-    fullname: >-
-      Matteo.png
-    bio: >-
-      • Co-founder @efesto_lab47 • Graphic Designer @sommovement / @7.54error / @someducation / @criminaleducation_ • @touchthewood Headquarter
-    location: "Italy"
-    followers: 45021
-    engagement: 397
-    commentsToLikes: 0.010266
-    id: ck5zkhy0jji7w0i145f25fmll
-    verified: false
-    hashtags: "#screenshot, #instaquotes, #quotes, #quotesoftheday"
+    hashtags: "#earth, #landscapephotography, #visitmountain, #puremountain"
   - username: "alicedetogni"
     fullname: >-
       Alice
     bio: >-
       📓Interior & Graphic Designer.
     location: "Italy"
-    followers: 239479
-    engagement: 248
-    commentsToLikes: 0.006532
+    followers: 241069
+    engagement: 277
+    commentsToLikes: 0.007974
     id: ck0u7e6gq4lw80i191qrwfjjc
     verified: false
-    hashtags: "#primark, #primania, #ad, #oysho"
+    hashtags: "#returkey, #readyandsafet, #onlyint, #got"
   - username: "selva_francesca_"
     fullname: >-
       Francesca Selva
     bio: >-
       Italian | #Venice ProCyclist | @tredfactoryracing Photographer | @_fsfoto_ Graphic designer | @itts_volterra_ Science of communication | @uninettuno
     location: "Italy"
-    followers: 10938
-    engagement: 674
-    commentsToLikes: 0.019634
+    followers: 16218
+    engagement: 567
+    commentsToLikes: 0.024840
     id: ck6tynvez4tr20j71xd2n1ksm
     verified: false
-    hashtags: "#pista, #alienwheels, #royceuk, #manaiasixdays"
-  - username: "replica004"
-    fullname: >-
-      Sara
-    bio: >-
-      26 🏳️‍🌈🇮🇹 Rome Graphic Designer & Illustrator 🐓⚡️◼️ 🚫Repost/Edit not allowed!🚫
-    location: "Italy"
-    followers: 9407
-    engagement: 1949
-    commentsToLikes: 0.006323
-    id: ck14liwpiuwum0i19rw7roeub
-    verified: false
-    hashtags: "#hxhfanart, #bethesda, #jojoart, #samecharacter"
+    hashtags: "#ashaa"
 ---

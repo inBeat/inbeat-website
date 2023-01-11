@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In London In 2022
+title: Top 10 Vegan TikTok Influencers In London In 2023
 description: >-
-  Find top vegan TikTok influencers in London in 2022. Most popular hashtags: #fyp #vegan #london #food.
+  Find top vegan TikTok influencers in London in 2023. Most popular hashtags: #vegan #london #fyp #veganrecipes.
 platform: TikTok
 hits: 22
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 22 TikTok influencers like this in London, United Kingdom for you to contact.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 22 TikTok influencers like this in London, United Kingdom for you to connect with.
 profiles:
   - username: "thelittlelondonvegan"
     fullname: >-
       thelittlelondonvegan
     bio: >-
-      🍔Food blogger & restaurant reviewer 📸104k IG @thelittlelondonvegan
+      🍔Food blogger & restaurant reviewer 📸118k IG @thelittlelondonvegan
     location: "United Kingdom"
-    followers: 7659
-    engagement: 777
-    commentsToLikes: 0.052864
+    followers: 18400
+    engagement: 819
+    commentsToLikes: 0.066417
     id: ckd0z2veoljnk0j23lmmwb23w
     verified: false
-    hashtags: "#vegantok, #foodlover, #vegansoftiktok, #veganssupportingvegans"
-  - username: "cookingmummi"
+    hashtags: "#vegansoftiktok, #vgang, #veganuary, #whatveganseat"
+  - username: "tallys_art"
     fullname: >-
-      gabrielle
+      TALLYS_ART
     bio: >-
-      I like to cook. Sometimes I film it and you get to watch. Recipes on my Insta.
+      Activist & Artist ✨🌸
     location: "United Kingdom"
-    followers: 65300
-    engagement: 690
-    commentsToLikes: 0.009057
-    id: ckcejgd50s99d0j23ai6to99p
+    followers: 3483
+    engagement: 1517
+    commentsToLikes: 0.066686
+    id: ckamyjbpwhup20i78m82iqvwf
     verified: false
-    hashtags: "#cooking, #fyp, #foryoupage, #foryou"
-  - username: "yviescarlet"
+    hashtags: "#london, #animals, #vegan, #veganfood"
+  - username: "veganbeautygirl"
     fullname: >-
-      🦋𝔂𝓿𝓲𝓮🦋
+      Nicole | vegan beauty girl 🌿
     bio: >-
-      instagram and youtube ↑ ↑ ↑ collabs: g@musetheagency.com💌 @diaryofadumbslut
+      she/her | london 13 yrs vegan 🥦 i like garlic + carbs
     location: "United Kingdom"
-    followers: 79300
-    engagement: 1623
-    commentsToLikes: 0.016436
-    id: ck8ouya2vroo90j78jopqv9em
+    followers: 39600
+    engagement: 808
+    commentsToLikes: 0.017595
+    id: ckc7w8zmgzhcb0j23e6hri2rm
     verified: false
-    hashtags: "#lgbtq, #glowup, #makeup, #fashion"
+    hashtags: "#crueltyfree, #whatieatinadayvegan, #vegan, #veganfood"
+  - username: "catherineallen_1"
+    fullname: >-
+      cathallen_
+    bio: >-
+      hello
+    location: "United Kingdom"
+    followers: 59100
+    engagement: 704
+    commentsToLikes: 0.014776
+    id: ck8jal4ifsvlv0j78jwscut3o
+    verified: false
+    hashtags: "#lockdownlife, #foryou, #houseoftiktok, #boredvibes"
+  - username: "fitbritbill"
+    fullname: >-
+      fitbritbill
+    bio: >-
+      I do what I want, not sorry. I represent nothing but myself. Deal with it.....
+    location: "United Kingdom"
+    followers: 85500
+    engagement: 1315
+    commentsToLikes: 0.099495
+    id: ckavsoi1l58f80j23c3psv6z3
+    verified: false
+    hashtags: "#duet, #fyp, #banter, #monclerbubbleup"
   - username: "jojoslipzz_"
     fullname: >-
       !JѲJѲ! ®
     bio: >-
       London📍🇬🇧 @instagram Ambassador PR Enquiries: jojoslipzz@gmail.com
     location: "United Kingdom"
-    followers: 49400
-    engagement: 1834
-    commentsToLikes: 0.016532
+    followers: 47200
+    engagement: 1589
+    commentsToLikes: 0.026109
     id: ckbqdvfvhzrm80j23kshq3qz3
     verified: false
-    hashtags: "#london, #vegitarian, #foodporn, #healthyfood"
-  - username: "ibabthekebab"
+    hashtags: "#london, #weightlosscheck, #fyp, #weightloss"
+  - username: "paulbrown_uk"
     fullname: >-
-      Ibabthekebab
+      Paul Brown
     bio: >-
-      London Yuh Pakistani Yuh
+      Hit that Follow Button now Follow on Instagram PaulBrown_uk Live London updates
     location: "United Kingdom"
-    followers: 10100
-    engagement: 1435
-    commentsToLikes: 0.078488
-    id: ckdnbs1h9gfzg0j23synovgom
+    followers: 37000
+    engagement: 249
+    commentsToLikes: 0.071643
+    id: cka0zjipufodq0i78f4wf7w7f
     verified: false
-    hashtags: "#trend, #dajjal, #makkah, #hijab"
+    hashtags: "#centrallondon, #kickingoff, #lockdown, #police"
+  - username: "aliciasstuff"
+    fullname: >-
+      alicia
+    bio: >-
+      VEGAN she/her
+    location: "United Kingdom"
+    followers: 40500
+    engagement: 1544
+    commentsToLikes: 0.055930
+    id: cka0w12gd0uwk0i781sdx1nwe
+    verified: false
+    hashtags: "#uk, #duet, #london, #fyp"
   - username: "the_vibey_vegan"
     fullname: >-
       the_vibey_vegan
     bio: >-
       RORO | 22 | TRAVEL FOLLOW MY VIBALICIOUS INSTA FOR MORE FUN! @the_vibey_vegan
     location: "United Kingdom"
-    followers: 8597
-    engagement: 974
-    commentsToLikes: 0.039378
+    followers: 8486
+    engagement: 1043
+    commentsToLikes: 0.051295
     id: ck80oevdmhecx0j78kvzci6a8
     verified: false
-    hashtags: "#bali, #vegan, #adventure, #travel"
-  - username: "theimperfectnutritionist"
+    hashtags: "#healthyrecipes, #foodtiktok, #healthyfood, #tiktokfood"
+  - username: "helloviclanda"
     fullname: >-
-      Jennifer Medhurst
+      vic ✌🏼
     bio: >-
-      Registered Nutritionist London and virtual clinic Contact@jennifermedhurst.com
+      London 🎡 CEO of triggering fragile masculinity @helloviclanda on insta
     location: "United Kingdom"
-    followers: 93200
-    engagement: 464
-    commentsToLikes: 0.011222
-    id: ck9844lzrn0010j78stjuo5aq
+    followers: 6436
+    engagement: 876
+    commentsToLikes: 0.042050
+    id: ckceima98qzi20j23maglh7n7
     verified: false
-    hashtags: "#fyp, #healthyrecipe, #learnontiktok, #vegan"
-  - username: "monikasimla"
-    fullname: >-
-      Monika Simla
-    bio: >-
-      London Follow me on Instagram: ninja_foodi
-    location: "United Kingdom"
-    followers: 7957
-    engagement: 381
-    commentsToLikes: 0.015522
-    id: cka0rgla7h0p20i78m2uvqv8k
-    verified: false
-    hashtags: "#desi, #food, #desifood, #foryoupage"
-  - username: "sirenstore"
-    fullname: >-
-      Siren Store
-    bio: >-
-      Sustainably made goods 〰️ Vegan & plastic free CANDLE RESTOCK COMING SOON
-    location: "United Kingdom"
-    followers: 12600
-    engagement: 1612
-    commentsToLikes: 0.016701
-    id: ckd0adrpuby3a0j23ji4kpq3u
-    verified: false
-    hashtags: "#smallbusiness, #witchtok, #cottagecore, #candlebusiness"
-  - username: "bolt.beauty"
-    fullname: >-
-      Bolt Beauty
-    bio: >-
-      Beauty made easy (wherever you are). Biodegradable, vegan, super cute 🌏💙⚡️
-    location: "United Kingdom"
-    followers: 43000
-    engagement: 1544
-    commentsToLikes: 0.034828
-    id: ck92u6361ku0n0j78bz7e9v1x
-    verified: true
-    hashtags: "#biodegradable, #myskin, #myskincare, #asmrs"
+    hashtags: "#vegan, #veganrecipes, #stitch, #plantbasedcouple"
 ---

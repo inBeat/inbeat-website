@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Turin In 2022
+title: Top 10 Models Instagram Influencers In Turin In 2023
 description: >-
-  Find top models Instagram influencers in Turin in 2022. Most popular hashtags: #turin #portrait #italy #italiangirl.
+  Find top models Instagram influencers in Turin in 2023. Most popular hashtags: #torino #turin #model #fashion.
 platform: Instagram
-hits: 24
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 24 Instagram influencers like this in Turin, Italy for you to collaborate.
+hits: 20
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 20 Instagram influencers like this in Turin, Italy for you to pitch.
 profiles:
-  - username: "ibg_hott"
-    fullname: >-
-      Rino - VolgoItalia | Volgo 🇮🇹
-    bio: >-
-      Admin, Collab.& Marketing @volgoitalia LM @volgopiemonte Adm @volgotorino 🔽 info & collaborations 📷#Canon 📽#GoPro 📱#samsung All pics are mine
-    location: "Italy"
-    followers: 2902
-    engagement: 1254
-    commentsToLikes: 0.134311
-    id: ck0tvy69ddaxm0i19dbc0whhk
-    verified: false
-    hashtags: "#ig, #riminilifestyle, #piemonte, #note10plus"
-  - username: "sii.lv_"
-    fullname: >-
-      Silvia Di Santo♡
-    bio: >-
-      Addicted to travel 🌍 Based in Turin 📍 Model & Cinema🎬
-    location: "Italy"
-    followers: 90480
-    engagement: 696
-    commentsToLikes: 0.005380
-    id: ck8wgojylhris0j781y7zz7eb
-    verified: false
-    hashtags: "#loveromwe, #giftedby, #adv, #cluse"
   - username: "marty__muse"
     fullname: >-
       ༺MARTINA RAMUNDO༻
     bio: >-
       ❃Travel ❃Lifestyle ❃Beauty ❃ Italian Model 📍From Turin 📩infomartymuse@gmail.com / Direct Scopri i miei Tiktok 👇🏻 👇🏻
     location: "Italy"
-    followers: 38675
-    engagement: 221
-    commentsToLikes: 0.216067
+    followers: 37977
+    engagement: 204
+    commentsToLikes: 0.196795
     id: ck6u6mviogjau0j71oddxhlt1
     verified: false
     hashtags: ""
-  - username: "elisa_macco"
+  - username: "sii.lv_"
     fullname: >-
-      Elisa Macco
+      Silvia Di Santo♡
     bio: >-
-      ~Born in Savona 🌅 ~Live in Turin 🌃 ~Collaborations -> Email/DM📷 ~maccoelisa@gmail.com ~Nobody said it was easy 🌞 #unito #psychology #turin
+      Addicted to travel 🌍 Based in Turin 📍 Model & Cinema🎬
     location: "Italy"
-    followers: 3871
-    engagement: 970
-    commentsToLikes: 0.106334
-    id: ck9wfappso01w0j78eijbuqxj
+    followers: 82412
+    engagement: 409
+    commentsToLikes: 0.006131
+    id: ck8wgojylhris0j781y7zz7eb
     verified: false
-    hashtags: "#girly, #artofselfportraiture, #bravogreatphoto, #one"
-  - username: "milejuveofficial"
+    hashtags: "#teentv, #simplee, #aliexpress, #tallygang"
+  - username: "navid.nasri"
+    fullname: >-
+      Navid Nasri | Photographer
+    bio: >-
+      Freelance photographer. specialized in portrait and fashion styles. Collaboration : me@navidnasri.com Paris - Lyon
+    location: "Italy"
+    followers: 3275
+    engagement: 1642
+    commentsToLikes: 0.051045
+    id: ck6ubfw5q9bx10j71fmh0g8ff
+    verified: false
+    hashtags: "#lyonnaise, #portraits, #torino, #prewedding"
+  - username: "milejuvelove"
     fullname: >-
       🤍🖤 Milena Garreffa 🤍🖤
     bio: >-
       📍#turin 🤍🖤 🎀#model#actress #dancer #showgirl • CiaoDarwin7 🌈 • Furore ⭐ • Pantellas 🥳 My life is my #passion 💗 ➡ follow me #ForzaJuve! 🤍🖤
     location: "Italy"
-    followers: 23644
-    engagement: 1484
-    commentsToLikes: 0.034726
+    followers: 19700
+    engagement: 1074
+    commentsToLikes: 0.046889
     id: ck8t66o44cfip0j787rsra0xs
     verified: false
-    hashtags: "#finoallafine, #me, #milenagarreffa, #sensual"
-  - username: "martadimatteo__"
+    hashtags: "#finoallafine, #italy, #milejuve, #iorestoacasa"
+  - username: "elisa_macco"
     fullname: >-
-      🌸 MARTA DI MATTEO 🌸
+      Elisa Macco
     bio: >-
-      🎓 Economics 💄 Model 🎿 Ski Instructor 💚 Monster Energy Girl 📧 For collabs: DM or marta_dimatteo@libero.it 📍Turin, Italy 🇮🇹
+      ~Born in Savona 🌅 ~Live in Turin 🌃 ~Collab -> elisamacco1@gmail.com 📷 ~Nobody said it was easy 🌞 #unito #psychology #turin
     location: "Italy"
-    followers: 36399
-    engagement: 701
-    commentsToLikes: 0.041850
-    id: ck8szh5zhofe00j78w2gx6kik
+    followers: 4273
+    engagement: 1155
+    commentsToLikes: 0.105870
+    id: ck9wfappso01w0j78eijbuqxj
     verified: false
-    hashtags: "#monstergirls, #sporty, #monsterenergygirl, #summertime"
-  - username: "enrica_76to"
+    hashtags: "#turin, #sexy, #newjerseymodel, #portraitstyles"
+  - username: "egolifeofficial"
     fullname: >-
-      Enrica
+      Eghosa Edayi
     bio: >-
-      Blonde Chemistry, Personal Blog Pictures of my life! Fashion addicted, Blog, Life! 💋👩👗✨👠 Turin
+      🥇 AINBB Italian Male Model Champ 💪🏽 Get flawless or die tryin’ 💢Fitness/ Fashion/ Model💢 Physiqapparel “Egolife” -10%
     location: "Italy"
-    followers: 27750
-    engagement: 1032
-    commentsToLikes: 0.036956
-    id: ck9wez8nvmjp90j78g67dab4y
+    followers: 17173
+    engagement: 574
+    commentsToLikes: 0.240803
+    id: ckap7pf3rkzn50i7827zusl3r
     verified: false
-    hashtags: "#minigonna, #italiangirl, #legs, #labionda"
+    hashtags: "#fitnessmodel, #fashionnova, #videooftheday, #photography"
   - username: "carola_bianco_"
     fullname: >-
       Carola Bianco
     bio: >-
-      📍 Turin, Milan | Italy ❄️20 years old 👩🏻‍⚕️Med student @unitorino Agency: @bravemodels
+      📍 Turin, Milan | Italy ❄️21 years old 👩🏻‍⚕️Med student at Molinette Torino Agency: @bravemodels
     location: "Italy"
-    followers: 8034
-    engagement: 653
-    commentsToLikes: 0.038672
+    followers: 7904
+    engagement: 687
+    commentsToLikes: 0.036432
     id: ck6ufbfr2w2590j71nlmz3inb
     verified: false
-    hashtags: "#portraitgirl, #fashiongirl, #girl, #beauty"
-  - username: "lucialuciano"
-    fullname: >-
-      L U C E ✨
-    bio: >-
-      📍Turin, Italy ◻️◼️🇮🇹⚽️ TikTok lucia.luciano 🎥 TOKYO IL FILM ⬇️⬇️
-    location: "Italy"
-    followers: 42907
-    engagement: 199
-    commentsToLikes: 0.288551
-    id: ckf5xciyiv6by0j23ra6u6f33
-    verified: false
-    hashtags: "#turin, #bikini, #italia, #ibiza"
+    hashtags: "#girlportrait, #girl, #relaxgirl, #portraitgirl"
   - username: "lauratortorici"
     fullname: >-
       Laura Tortorici
     bio: >-
-      • Donnavventura Experience 2019 🌍 •5^ classificata @missitalia 2019 👑 •Computer engineering💻 •Detto Fatto (Rai2) model
+      • Donnavventura Experience 2019 🌍 •5^ classificata @missitalia 2019 👑 •Computer engineering💻 •Rai2 model
     location: "Italy"
-    followers: 6389
-    engagement: 624
-    commentsToLikes: 0.024295
+    followers: 6747
+    engagement: 669
+    commentsToLikes: 0.045882
     id: ck5q4xt8lqn870i11yz1t4tiq
     verified: false
-    hashtags: "#italia, #roma, #rome, #italy"
+    hashtags: "#italy, #piedmont, #turin, #sicilia"
+  - username: "luca_messy"
+    fullname: >-
+      ✘ Luca MESSY ✘
+    bio: >-
+      ...ti scatterò una foto 📸 🌎 • Turin, Italy 🇮🇹 📥 • DM - Collaborations ⚜️ • Owner of ®MESSY brand
+    location: "Italy"
+    followers: 33357
+    engagement: 388
+    commentsToLikes: 0.043645
+    id: ck6u3kocwyc6i0j71dbdaul60
+    verified: false
+    hashtags: "#glamourstyle, #fashionphotographers, #brunettegirls, #fashionstyle"
+  - username: "serena_filomena"
+    fullname: >-
+      SERENA FILOMENA ✨
+    bio: >-
+      📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty & Lifestyle • Travel 🧳 •🔜Cosmoprof Worldwide 💌serenafilomena9@gmail.com
+    location: "Italy"
+    followers: 17142
+    engagement: 95
+    commentsToLikes: 0.044497
+    id: ck6u6fiztfb4i0j71uwtevple
+    verified: false
+    hashtags: "#clothing, #hot, #glam, #cosmetics"
 ---

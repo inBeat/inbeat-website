@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In 2022
+title: Top 10 Cinema Instagram Influencers In 2023
 description: >-
-  Find top cinema Instagram influencers in 2022. Most popular hashtags: #cinema #travelphotography #indiaclicks.
+  Find top cinema Instagram influencers in 2023. Most popular hashtags: #photography #love #nature.
 platform: Instagram
-hits: 9267
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 9267 Instagram influencers like this for you to work with.
+hits: 9384
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 9384 Instagram influencers like this for you to connect with.
 profiles:
   - username: "lynncinema"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.015809
     id: ck13440czulad0i19xnj7a4yv
     verified: false
-    hashtags: "#setlife, #spiritedaway, #redweapon, #animeart"
-  - username: "chalta_firtaa"
+    hashtags: "#redweapon, #arri, #arrialexamini, #steadicam"
+  - username: "sennabellod"
     fullname: >-
-      Chetan S Uike | NAGPUR📍
+      Senna Bellod
     bio: >-
-      🛩️ Aerial Photographer | Cinematographer 🌎 Your world, My Perspective 📸 DM For Collabs & Paid shoots 📩 Chetanuk6@gmail.com 🎥 @uikefilms7
+      senna@cinemates.amsterdam YouTubekanaal🎥:
+    location: "Netherlands"
+    followers: 311546
+    engagement: 841
+    commentsToLikes: 0.003866
+    id: ck14hti9pc23k0i19f9peeevd
+    verified: false
+    hashtags: "#gekregen"
+  - username: "sjomanart"
+    fullname: >-
+      Jacob Sjoman
+    bio: >-
+      Golf & Travel Inspiration 🌎 International Photographer/Cinematographer Contact: info@sjomanart.com ⛳️GolfWRX🚁📸🎬🎥 YouTube:Jacob Sjoman
+    location: "Sweden"
+    followers: 19472
+    engagement: 393
+    commentsToLikes: 0.043313
+    id: ck0tz6ir3p8980i19s6abva0m
+    verified: false
+    hashtags: ""
+  - username: "imshrihan"
+    fullname: >-
+      Shrihan
+    bio: >-
+      Na gamyam cinema Respect Women #BB6👁PEOPLE’s Winner shrihanactor@gmail.com Fan of NTR & SURIYA😍 Oct-19🍼
     location: "India"
-    followers: 8051
-    engagement: 2076
-    commentsToLikes: 0.112352
-    id: ck55lg1m01hdb0i11s28r5jew
+    followers: 382629
+    engagement: 2593
+    commentsToLikes: 0.004247
+    id: ck5cch9u8hcwq0i11y585smzz
     verified: false
-    hashtags: "#moodygrams, #shwetamalhotra03, #shotongopro, #kaminekalakar"
-  - username: "angelo_conforti"
+    hashtags: "#voteforshrihan, #bbflashback, #wearewithyoushrihan, #supportshrihan"
+  - username: "avidaemsalvador"
     fullname: >-
-      Angelo Conforti
+      A Vida Em Salvador
     bio: >-
-      𝑷𝒆𝒓 𝒂𝒔𝒑𝒆𝒓𝒂 𝒂𝒅 𝒂𝒔𝒕𝒓𝒂✨ •Mister Italia Forever Cinema 👑🇮🇹🎬 •I love theater and cinema 🎭 •Contact and booking in D.M. •📩 angconforti97@gmail.com
-    location: "Italy"
-    followers: 8137
-    engagement: 1482
-    commentsToLikes: 0.085695
-    id: ckap8fjzco3ga0i78m3q64grk
-    verified: false
-    hashtags: "#odoredimare, #summervibes, #wonderfulsea, #puglia"
-  - username: "toktam_akhjavani1313"
-    fullname: >-
-      TOKTAM AKHJAVANI
-    bio: >-
-      A C T R E S S theater🎭 Cinema📽
-    location: "Iran"
-    followers: 2558
-    engagement: 2392
-    commentsToLikes: 0.143489
-    id: ck9wj0xhv4t1u0j78mm009neq
-    verified: false
-    hashtags: "#women, #fuji, #cinema, #mashhad"
-  - username: "thomas_camorani"
-    fullname: >-
-      Thomas Camorani
-    bio: >-
-      🇮🇹/🇺🇸 Sotto Il sole di Riccione on @netflixit SUMMERTIME on @netflixit Digital ~ @wannabemgmt Cinema ~ ?? 🥊 🥊
-    location: "Italy"
-    followers: 67461
-    engagement: 1233
-    commentsToLikes: 0.087189
-    id: ckap520cm9tu80i78qw5rjc7s
-    verified: false
-    hashtags: "#adv, #suppliedby, #halloween, #vampire"
-  - username: "adriano.occulto"
-    fullname: >-
-      Adriano Occulto
-    bio: >-
-      Italy 🇮🇹 Agenzia cinema: @cdastudiodinardo 📈📈: adrianoocculto@cdastudiodinardo.com
+      👨🏽‍💻 Salvador por Caio Costa - @blogcitario e cinema @cinemaemsalvador 📧 Publicidade: caiovcosta@gmail.com ⬇️ Acesse o blog para + dicas
     location: "Brazil"
-    followers: 369989
-    engagement: 1238
-    commentsToLikes: 0.030136
-    id: ck0w70msab5zt0i19kbqcw87x
+    followers: 138244
+    engagement: 297
+    commentsToLikes: 0.020931
+    id: ck1342ymxufug0i19lh2bionm
+    verified: false
+    hashtags: "#salvadorbahia, #avidaemsalvador, #salvador, #bahia"
+  - username: "gossiproomoff"
+    fullname: >-
+      Gossip Room
+    bio: >-
+      Bienvenue 👋 Twitter et TikTok : GossipRoomOff ✉️ : gossiproom@marmeladz.com #news #travel #food #tv #cinema #media
+    location: "France"
+    followers: 2229913
+    engagement: 392
+    commentsToLikes: 0.005735
+    id: ck15puxoxzr560i19a5btshve
     verified: true
-    hashtags: "#barcelona, #spain, #madrid, #bodytransformation"
-  - username: "gabi.lvss"
+    hashtags: "#picoftheday, #cinema, #videooftheday, #avengers"
+  - username: "aydavii"
     fullname: >-
-      𝙂𝙖𝙗𝙧𝙞𝙚𝙡𝙡𝙖 𝙎𝙞𝙡𝙫𝙖 ✨
+      Ayda Dehnavi
     bio: >-
-      Apaixonada por séries e cinema. 🎬 @dwe_maciel 💍 📍 𝔅𝔯𝔞𝔰í𝔩𝔦𝔞, DF | 19 𝓎 ☼ Libra ↟ Peixes ☾ Aquário
-    location: "Brazil"
-    followers: 6491
-    engagement: 1232
-    commentsToLikes: 0.193655
-    id: ck9we26v2i9gv0j784zfko45e
+      studied cinema Persian
+    location: "Turkey"
+    followers: 23316
+    engagement: 227
+    commentsToLikes: 0.012234
+    id: ck9wi97g919iv0j78vggdd4vp
     verified: false
-    hashtags: "#makeup, #ginger, #redhair, #ruivasbrasil"
-  - username: "mfm_ihsan"
+    hashtags: "#girl, #summer, #blackandwhite, #fashion"
+  - username: "olivertakac"
     fullname: >-
-      Mfauzi M ihsan
+      Oliver Takáč
     bio: >-
-      بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - @gu_cinema 🎬 - @locatara.photo 🎬 - sentul 📍 -muhamadfauzi906@gmail.com - design graphic 👨‍💻 - smariah25♡
+      photographer,colorist,cinematographer born in the shadows of the tallest building takac.oliver@gmail.com
+    location: "United Kingdom"
+    followers: 195510
+    engagement: 217
+    commentsToLikes: 0.007531
+    id: ck0tzzuf6s6ow0i1910yyei2c
+    verified: false
+    hashtags: "#makemomentsmega, #momentbyoliver, #xiaomi12tseries, #horses"
+  - username: "ferryrusli"
+    fullname: >-
+      Ferry Rusli
+    bio: >-
+      Cinematographer Godox supported by @doss.id Contact: ferryrusli@ymail.com
     location: "Indonesia"
-    followers: 6475
-    engagement: 1770
-    commentsToLikes: 0.066709
-    id: ck15sz332fjgw0i19rijp5ayq
+    followers: 24973
+    engagement: 207
+    commentsToLikes: 0.083335
+    id: ck0vxk91ezb3m0i19u0u7eqr1
     verified: false
-    hashtags: "#bogorpisan, #editorestid, #indovisualgram, #womenesia"
-  - username: "ashkan.hoorsun"
+    hashtags: "#kohfersuting, #erafone, #rwsmoments, #masterclassbyerafone"
+  - username: "pattri.lc"
     fullname: >-
-      اشكان هورسان🌀ASHKAN HOORSUN
+      P A T R I C I A   L Ó P E Z
     bio: >-
-      #اشكان_هورسان Actor In Cinema,Tv&Teather Production Manager&Casting In Short Film جنگ،جنگ تا پيروزي؛حتي اگر سنگ هم از آسمان ببارد💪💪
-    location: "India"
-    followers: 11649
-    engagement: 1329
-    commentsToLikes: 0.049786
-    id: ck60246cfgpcd0i145yia2tp7
+      📍LC, Galicia, Spain Sonriendo, que es gerundio✨ 📥 p.lcarballeira@gmail.com Youtube Channel & Cinematic Dron Session in Galicia⤵️
+    location: "Spain"
+    followers: 4809
+    engagement: 633
+    commentsToLikes: 0.090978
+    id: ck9hc6zevk1ak0j78buqmc3z5
     verified: false
-    hashtags: "#trophy, #cultfilm"
-  - username: "amandawolf_"
-    fullname: >-
-      Amanda Wolf
-    bio: >-
-      ★ creator ★ fashion & lifestyle ★ vinte e dois, cinema e audiovisual and social media assistant at @redeangeloni
-    location: "Brazil"
-    followers: 7215
-    engagement: 1083
-    commentsToLikes: 0.084659
-    id: ck5zkm1pajq140i14dlimpiw7
-    verified: false
-    hashtags: "#fashion, #foryou, #ootd, #teambasico"
+    hashtags: "#landscape, #nature, #shein, #selfie"
 ---

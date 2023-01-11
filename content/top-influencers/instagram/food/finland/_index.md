@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Finland In 2022
+title: Top 10 Food Instagram Influencers In Finland In 2023
 description: >-
-  Find top food Instagram influencers in Finland in 2022. Most popular hashtags: #instablogit #hanko #helsinki.
+  Find top food Instagram influencers in Finland in 2023. Most popular hashtags: #smile #travelblogger #tinyhome.
 platform: Instagram
-hits: 83
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 83 Instagram influencers like this in Finland for you to collaborate.
+hits: 84
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 84 Instagram influencers like this in Finland for you to pitch.
 profiles:
-  - username: "maijuriskala"
+  - username: "petra.mustonen"
     fullname: >-
-      MAIJU RISKALA
+      Petra
     bio: >-
-      🏋🏾‍♀️ PT @bealivehealthclub | @mybnb_suomi 🖤 team @gymnation | 10 % off MAIJU 🌸 Ambassador @foodin | maiju15 🎙 @omantienkulkijapodcast
+      🏋🏼‍♀️ terveelliset elämäntavat 🍝 #foodlover ❤️ cat & dog mom 📍 Finland 🥾 Team @revolutionrace 👟 @icaniwill 20% off ’PETRAM20’ 👇🏼
     location: "Finland"
-    followers: 11635
-    engagement: 1124
-    commentsToLikes: 0.045192
-    id: ck55k2jm4yazs0i11jci1ify8
+    followers: 2492
+    engagement: 2374
+    commentsToLikes: 0.084087
+    id: ck6uhiee59amf0j719jqsu1n4
     verified: false
-    hashtags: "#omantienkulkijapodcast, #wellness, #podcast, #giveaway"
+    hashtags: "#brunssi, #alekoodi, #candylover, #ideaparkfitnesscup"
+  - username: "anjaschuschu"
+    fullname: >-
+      Anja Gasser 🌙 INSPO / FASHION
+    bio: >-
+      #tinyhouselife #food #nature #beauty #fashion base: #switzerland & #germany blog since 2010 - insta since 2012 info@schuschublog.com ♡ @willibaatz
+    location: "Finland"
+    followers: 18165
+    engagement: 435
+    commentsToLikes: 0.206130
+    id: ck5zy0dj48zzz0i14m083yzb9
+    verified: false
+    hashtags: "#americanstyle, #fillyourlifewithmoments, #farmgirl, #farmlife"
+  - username: "jasminsofi"
+    fullname: >-
+      JASMINSOFI
+    bio: >-
+      📍I love good classics, thrifting and veg food. 💭 Be kind. ✉️ jasmin.muurinen@gmail.com
+    location: "Finland"
+    followers: 48074
+    engagement: 1044
+    commentsToLikes: 0.002433
+    id: ck14ku31arbt40i194je1lxzo
+    verified: false
+    hashtags: "#zalandostyle, #ad, #hyvinvointionasenne, #mainos"
   - username: "jenalexandrova"
     fullname: >-
       Jenni Alexandrova
     bio: >-
-      Radio (@radioaalto morning show) & TV host. Mama. Loves questions without right answers. Passion for good food, wine and art in every form.
+      Radio (@radioaalto)& TV host. Mama. Loves questions without right answers. Passion for good food, wine and art in every form.
     location: "Finland"
-    followers: 49135
-    engagement: 380
-    commentsToLikes: 0.023372
+    followers: 49437
+    engagement: 350
+    commentsToLikes: 0.017052
     id: ck55k35pzyck40i11jy75uy0d
     verified: true
-    hashtags: "#kcitymarket, #aikasiarvoinen, #u2, #smooothknitting"
+    hashtags: "#fuckcorona, #avenesuomi, #christmasjourneytoavene, #marraskuu"
   - username: "linden.emilia"
     fullname: >-
-      Emilia Lindén 🇸🇪🇫🇮
+      Emilia Lindén🇸🇪🇫🇮Fitness Coach
     bio: >-
-      Nature,gym & delicious healthy food🙏 #CoachEmilia #FitnerizeNutrition Beachworkouts in Hanko 🏖 📧Fitnerize@hotmail.com
+      Nature,gym & delicious healthy food🙏 #CoachEmilia #FitnerizeNutrition Beachworkouts in Hanko 🏖 Email me 📧Fitnerize@hotmail.com
     location: "Finland"
-    followers: 36322
-    engagement: 387
-    commentsToLikes: 0.011638
+    followers: 38585
+    engagement: 449
+    commentsToLikes: 0.006770
     id: ck0w1mxq1k4n60i194231cxqm
     verified: false
-    hashtags: "#coachemilia, #weekend, #coachoffduty, #monday"
-  - username: "emminuorgam"
-    fullname: >-
-      Emmi Nuorgam
-    bio: >-
-      ✨ Sápmelaš, Goržán Bávvála Armasa Emmi ✨ Speaker, writer, foodie, feminist & vintage lover ✨ Impact producer of @suviwest ✨ Booklover @lukuretriitti
-    location: "Finland"
-    followers: 15394
-    engagement: 824
-    commentsToLikes: 0.024313
-    id: ck5zr869pw36q0i14ya134tbq
-    verified: false
-    hashtags: "#stopnettikiusaamiselle, #faktaakoronasta, #giellavahkku, #talkinginfluence"
-  - username: "mikaelakosk"
-    fullname: >-
-      Mikaela Koskela▪️Bloggaaja
-    bio: >-
-      Life | Beauty | Travel | Food | Sustainable thinking Blogger since 2008 Finnish blogger, influencer & entrepreneur ✉️: mikaela.koskela@gmail.com
-    location: "Finland"
-    followers: 5364
-    engagement: 379
-    commentsToLikes: 0.055522
-    id: ck5zwvke76udp0i143rpfqg9g
-    verified: false
-    hashtags: "#instablogit, #pollutri, #instablogitfinland, #italia"
+    hashtags: "#activelifestyle, #naturekid, #myjourney, #dressup"
   - username: "travelsbyhenna"
     fullname: >-
       Henna Pihlaja
     bio: >-
-      🌊Life with big passion🔥Helsinki🇫🇮Traveling🌎travel tips🌴hotels🏛food🍣races🏁F1🏎 @ah.fitness.wear @hennajanita -15% with code: HENNA_FREDDY15
+      🌊Life with big passion🔥Helsinki🇫🇮Traveling🌎travel tips🌴hotels🏛food🍣races🏁F1🏎 @ah.fitness.wear @hennajanita
     location: "Finland"
-    followers: 15796
-    engagement: 451
-    commentsToLikes: 0.003577
+    followers: 15468
+    engagement: 454
+    commentsToLikes: 0.004387
     id: ckaozwfdnnpgi0i787e64gqnh
     verified: false
-    hashtags: "#traveltips, #finland, #travelblog, #f1gp"
-  - username: "s_dimitriadis"
+    hashtags: "#travelgram, #summerhouse, #worldtraveller, #lounge"
+  - username: "la_tribu_des_chatons"
     fullname: >-
-      Stefanos Dimitriadis
+      Vanessa ✨💫
     bio: >-
-      Swimmer | Olympian 2012, 2016 Dietitian- Nutritionist BSc, MSc, 🔹Sports - Clinical Nutrition, HUA 🔹Food Technologist, AUA @sd_integrativenutrition
+      🗼Maman parisienne - Healthy 🌿 Fashionista🌹 Foodista🍰. 🍀 👶Augustin 15/06/17 👧 Capucine 29/08/19
     location: "Finland"
-    followers: 10375
-    engagement: 518
-    commentsToLikes: 0.008041
-    id: ck0ubyj7zfmpt0i19cyebqb86
+    followers: 4539
+    engagement: 2923
+    commentsToLikes: 0.348377
+    id: ck8tcuq1i0r6z0j78y5c25mso
     verified: false
-    hashtags: "#arenagreece, #cleaneating, #garmingreece, #summeringreece"
+    hashtags: "#mamanblogueuse, #motherhood, #family, #mereetfille"
   - username: "minna_vauhkonen"
     fullname: >-
       Food Photography - Minna
     bio: >-
-      ✨ foodphotography and styling, recipe development, cookbooks 🇫🇮 Helsinki⠀⠀ ⠀⠀ 🌱 vegetarian food & healthy dessert inspiration 📷 DM for collaborations
+      ✨ food photographer, food stylist, recipe developer, cookbook author 🇫🇮 Helsinki⠀⠀ ⠀⠀ 🌱 vegetarian food 📷 DM for collaborations and brand content
     location: "Finland"
-    followers: 5682
-    engagement: 1206
-    commentsToLikes: 0.141372
+    followers: 8154
+    engagement: 1144
+    commentsToLikes: 0.073830
     id: ckaosb0jyqx4b0i78yui9xiie
     verified: false
-    hashtags: "#eatcaptureshare, #foodisourpower, #negativespacefoodphoto, #craftafoodstory"
+    hashtags: "#vaihdaaitoon, #gruy, #gruyerestories, #waffleday"
   - username: "sarimaaria"
     fullname: >-
       Sari Maria
     bio: >-
       Happily married mother of two daughters❤️❤️Decor, flowers, candles, food and wine. All that is beautiful and delicious. Repost with credit
     location: "Finland"
-    followers: 5499
-    engagement: 652
-    commentsToLikes: 0.140251
+    followers: 5516
+    engagement: 621
+    commentsToLikes: 0.132533
     id: ck5hn4ldpn7050i1108wykcz7
     verified: false
-    hashtags: "#bohostyle, #villa, #bedroomdecor, #bedroominspo"
-  - username: "juliahagstedt"
+    hashtags: "#homeofinstagram, #kattaus, #roomforgirl, #deco"
+  - username: "juliakatarinah"
     fullname: >-
       Julia
     bio: >-
-      Travel & nature & food 〰️ Happy moments 〰️
+      Outdoor lover | food | lifestyle
     location: "Finland"
-    followers: 2010
-    engagement: 1223
-    commentsToLikes: 0.128378
+    followers: 1823
+    engagement: 1271
+    commentsToLikes: 0.123101
     id: ckap8rc9vpixx0i78ie4wex4f
     verified: false
-    hashtags: "#smoothie, #frooshsmoothie, #froosh, #smoothieideas"
+    hashtags: "#lifeisgood, #lumikenka, #ulkonaperilla, #outdooractivities"
 ---

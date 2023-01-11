@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Miami In 2022
+title: Top 10 Models Instagram Influencers In Miami In 2023
 description: >-
-  Find top models Instagram influencers in Miami in 2022. Most popular hashtags: #bodysuit #inkedmodel #legsleevetattoo.
+  Find top models Instagram influencers in Miami in 2023. Most popular hashtags: #girlswithpiercings #mensstyleguide #streetfashion.
 platform: Instagram
-hits: 777
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 777 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 840
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 840 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "sarahmollica"
+  - username: "goonza_costa"
     fullname: >-
-      Sarah Mollica
+      Gonzalo Costa
     bio: >-
-      Select Models - LA Next Models - Miami Ford - Mother Agent
+      NO SABES QUE PONERTE? Yo te ayudo, sígueme 🤝 . • Fashion model/Brands model • Miami 🇺🇸 • Collaboration/ Work : goonzacostaokk@gmail.com
     location: "United States"
-    followers: 56492
-    engagement: 212
-    commentsToLikes: 0.049436
-    id: ck5hem9v8tnf80i11gff07wyn
+    followers: 124927
+    engagement: 192
+    commentsToLikes: 0.083372
+    id: ck0tvs52icmwn0i19otnqmb05
     verified: false
-    hashtags: ""
+    hashtags: "#instafashion, #streetphotography, #fashionblogger, #menslook"
   - username: "nicole.langer"
     fullname: >-
-      ✰ N I C O L E ✰
+      Nicole Langer
     bio: >-
-      Next models Miami & NYC ☲ fsu engineering 👩🏼‍🔧
+      Next models Miami & NYC ☲ @fsutridelta
     location: "United States"
-    followers: 8386
+    followers: 8636
     engagement: 1168
-    commentsToLikes: 0.023530
+    commentsToLikes: 0.025791
     id: ck8swj1rqe95t0j78wypci4uw
     verified: false
     hashtags: ""
-  - username: "dpershina"
+  - username: "maritzanadiraa"
     fullname: >-
-      ｄａｒｉａ   ｐｅｒｓｈｉｎａ
+      Model | Host | Ambassador
     bio: >-
-      Istanbul 📍 Bounty Models LA 🌴 Select Models Miami Chicago MGM Models Hamburg/Düsseldorf Flash Models Istanbul The Circle Models Cape Town
+      Maritza | Published Model | Miami, FL 🇯🇲 Future Doctor | Med student | SGU ‘25 🩺 You can do it all ✨ 💌 Dm/email for collabs & sponsorships
     location: "United States"
-    followers: 37226
-    engagement: 171
-    commentsToLikes: 0.071429
-    id: ck55kp1bnzsj70i11efq3k34h
+    followers: 38871
+    engagement: 242
+    commentsToLikes: 0.053799
+    id: ckap66qi6emys0i78poypqzty
     verified: false
-    hashtags: ""
-  - username: "selenaweber"
-    fullname: >-
-      Sel Weber
-    bio: >-
-      NEXT Models Miami @weare_caringhearts
-    location: "United States"
-    followers: 71113
-    engagement: 99
-    commentsToLikes: 0.034952
-    id: ck5ci87ygs7430i11g7hv7ylr
-    verified: false
-    hashtags: ""
+    hashtags: "#ootd, #brandambassador, #curlykillas, #mixedbeauties"
   - username: "yesyn13"
     fullname: >-
       Yesy Naya 💀💋
     bio: >-
-      Published Model Miami📍Cuban 🇨🇺 Private page: @onlyfansyesy
+      Published Model Miami📍Cuban 🇨🇺 Private Page : @ynaya.13 ANY OTHER PAGE IS FAKE!!!!!!
     location: "United States"
-    followers: 1144763
-    engagement: 186
-    commentsToLikes: 0.019378
+    followers: 1181325
+    engagement: 220
+    commentsToLikes: 0.019873
     id: ck6tygc0e3kak0j717q2xpjlx
     verified: false
     hashtags: ""
-  - username: "tonyrodriguezzzz"
+  - username: "sebastiantomig"
     fullname: >-
-      Tony Rodriguez
+      Sebas
     bio: >-
-      -Fashion Model Miami | @nextmodels New York | @majormodelsny Milan | @dmanagementgroup Brussels | @immbxl -Investor 📈📊 GET 2 FREE STOCKS BELOW ⬇️
+      BMG Models Miami
     location: "United States"
-    followers: 3306
-    engagement: 673
-    commentsToLikes: 0.096451
-    id: ck5hrds0lupba0i11ry3fkls9
+    followers: 12034
+    engagement: 1003
+    commentsToLikes: 0.017574
+    id: ck9ha3sflb0sq0j78p2f91noc
     verified: false
-    hashtags: "#majormodels, #disney, #nextmodels, #tunnelvision"
-  - username: "marrs_the_martian"
+    hashtags: "#imback"
+  - username: "chanelmargaux"
     fullname: >-
-      .::ᶜᴴᴿᴵˢᵀᴼᴾᴴᴱᴿ ᴹᴬᴿᴿˢ::.
+      Chanel Margaux Postrel
     bio: >-
-      Creative Being ✨ CHI || 10 MGMT LA || O Models LONDON || D1 Models MIAMI || CGM Models Creative Director - Obvious Magazine
+      👼🏻 la / mia Wilhelmina Models LA - The Source Models Miami - Salt Models MA Atlanta inquiries: Andrew@thesourcemodels.com
     location: "United States"
-    followers: 11257
-    engagement: 513
-    commentsToLikes: 0.015466
-    id: ck0uae8y6c48q0i193ae6igzw
+    followers: 181231
+    engagement: 119
+    commentsToLikes: 0.016977
+    id: ck0ubds9oe8sa0i19axfoe0fi
     verified: false
-    hashtags: "#vote"
+    hashtags: "#wokeuplikethis"
+  - username: "raynessworld"
+    fullname: >-
+      MISS RAYNE ☔️
+    bio: >-
+      Miami, Fl📍 Dominicana🇩🇴 Virtual Assistant 🖥 Dm or Check out my website ⬇️ Hair • Psoriasis • Erotic Art🌹 #Model #miamimodel #AllThatHair #FreeSpirit
+    location: "United States"
+    followers: 6291
+    engagement: 467
+    commentsToLikes: 0.045412
+    id: ck6tt6tpe8xxr0j713nvdtj62
+    verified: false
+    hashtags: "#roadtrip, #family, #views, #canada"
   - username: "liya_suicide"
     fullname: >-
       Liya Suicide
     bio: >-
-      Tattooed Model. Miami Patreon.com/LiyaSuicide Twitter.com/LiyaSuicide Facebook.com/LiyaSuicide/
+      Tattooed Model. Miami Twitter.com/LiyaSuicide Facebook.com/LiyaSuicide/
     location: "United States"
-    followers: 122397
-    engagement: 101
-    commentsToLikes: 0.012094
+    followers: 118634
+    engagement: 90
+    commentsToLikes: 0.012457
     id: ck5qe62s4yw7q0i112zhszucy
     verified: false
-    hashtags: "#tattooed, #inkedmodels, #tattoos, #modelswithtattoos"
-  - username: "thealexishenry"
+    hashtags: "#tattoomodels, #inkedmodels, #inked, #longhairdontcare"
+  - username: "yana_dubnik"
     fullname: >-
-      Lex ⭐️
+      Yana Dubnik
     bio: >-
-      Fashunnnn. *two snaps* NYC: @yaniimodels @red_models MIAMI: @nextmodels SEATTLE:@heffnermanagement #MentalHealth is health 🧠 @theplusonepodcast 🌎❤️
+      The Source Models Miami 2nd runner up miss Russia
     location: "United States"
-    followers: 28209
-    engagement: 247
-    commentsToLikes: 0.026560
-    id: ck14iilrpfl690i19kq703u98
+    followers: 90859
+    engagement: 345
+    commentsToLikes: 0.032040
+    id: ck5cg1vtjo0t00i115u5uwk9t
     verified: false
-    hashtags: "#quarantine, #tiktok, #motherhood, #facetimephotoshoot"
-  - username: "rayne.gomez"
+    hashtags: ""
+  - username: "mannycurb"
     fullname: >-
-      MISS RAYNE ☔️
+      Manny Curbelo
     bio: >-
-      Miami, Fl 📍 Dominicana 🇩🇴 Gm of @Srkgirlz Hair • Psoriasis • Erotic Art🌹 #Model #miamimodel #AllThatHair #FreeSpirit #bodygoals
+      ▫️ Realtor || Miami Realty Solution ▫️ NEXT Models || Miami
     location: "United States"
-    followers: 6055
-    engagement: 469
-    commentsToLikes: 0.061049
-    id: ck6tt6tpe8xxr0j713nvdtj62
+    followers: 5816
+    engagement: 579
+    commentsToLikes: 0.107851
+    id: ck55nkxbi6f830i117wz5jos0
     verified: false
-    hashtags: "#promo, #forbiddenfruit, #tb, #sheabutterbaby"
+    hashtags: "#305, #perolike, #whyyoumadbro, #someoneneedssomeazucar"
 ---

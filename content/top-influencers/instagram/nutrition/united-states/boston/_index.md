@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Boston In 2022
+title: Top 10 Nutrition Instagram Influencers In Boston In 2023
 description: >-
-  Find top nutrition Instagram influencers in Boston in 2022. Most popular hashtags: #fitness #nutrition #boston #healthylifestyle.
+  Find top nutrition Instagram influencers in Boston in 2023. Most popular hashtags: #boston #nutrition #fitness #easyrecipes.
 platform: Instagram
 hits: 21
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 21 Instagram influencers like this in Boston, United States for you to collaborate.
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 21 Instagram influencers like this in Boston, United States for you to connect with.
 profiles:
-  - username: "big__ab"
-    fullname: >-
-      Big Ab™️
-    bio: >-
-      🔹🌐IFBB Pro Classic Physique 🔹’19 ⭕️lympian 🔹💰Financial￼ Liaison & 🏋🏾‍♂️Celebrity-Trainer 🔹Subscribe to my YouTube Channel 🎥⬇️
-    location: "United States"
-    followers: 61576
-    engagement: 391
-    commentsToLikes: 0.014385
-    id: ck6tunfhfhb910j71dqk6owiw
-    verified: true
-    hashtags: "#miami, #la, #handsome, #nutrition"
-  - username: "xosaraherickson"
-    fullname: >-
-      Sarah Erickson
-    bio: >-
-      Raising three little men Seattle, WA erickson_sarah@ymail.com
-    location: "United States"
-    followers: 6175
-    engagement: 617
-    commentsToLikes: 0.147511
-    id: ck5zn64q2nupm0i14xcdvo0wr
-    verified: false
-    hashtags: "#learningathome, #manimonday, #worlddayagainsttrafficking, #ethicalfashion"
   - username: "africarubiop"
     fullname: >-
       Africa Rubio / Health Coach
     bio: >-
-      Health Coach @nutritionschool Co-Founder @bostonwomensmarket - @namastaywell.co YSTT~RYTT 200~GFI~YIN NAMASTAY HOME WORKOUTS™ SIGN UP HERE⬇️
+      ▫️Hormone Health Coach @nutritionschool ▫️Gut Health Coach ▫️Co-Founder @namastaywell.co ▫️Co-Founder @bostonwomensmarket ▫️Work with me ⬇️
     location: "United States"
-    followers: 11224
-    engagement: 393
-    commentsToLikes: 0.040329
+    followers: 15507
+    engagement: 358
+    commentsToLikes: 0.029254
     id: ck14jacm1jby30i194h487oqj
     verified: false
-    hashtags: "#movedaily, #healthandwellness, #namastayhomeworkouts, #eatwell"
-  - username: "petermollofitness"
+    hashtags: "#healthandwellness, #holisticapproach, #healthieryou, #namastaywell"
+  - username: "_laurajstewart_"
     fullname: >-
-      Peter Mollo
+      Laura
     bio: >-
-      * B.S. Physical Education * ACE CPT * Fitness Nutrition Specialist * Sports Performance Specialist * Glute 🍑 Training * Online Coaching * #PMF
+      Find the beauty in everything ❤️ Seek Light✨ TX raised, AZ living 🏜
     location: "United States"
-    followers: 17295
-    engagement: 262
-    commentsToLikes: 0.271707
-    id: ck5hllsi1kfwh0i11cmj9znyk
+    followers: 10044
+    engagement: 1295
+    commentsToLikes: 0.046885
+    id: ck6to5by3c6lx0j71go2006c8
     verified: false
-    hashtags: "#athome, #personaltrainer, #fitgirls, #repost"
-  - username: "evieneedstoeat"
+    hashtags: "#nature, #keepitwild, #perspective, #az"
+  - username: "karalydonrd"
     fullname: >-
-      Evie Hobbs
+      Kara Lydon, RD, LDN
     bio: >-
-      Food//Travel//Lifestyle Content By @eviehobbs 😍🍴#evieneedstoeat Boston/Philly & Beyond evieneedstoeat@gmail.com 5438
+      mama to Luca ✨ best dietitian 2021 by Boston Magazine intuitive eating, recipes, and real talk blogger @ the foodie dietitian 1:1 nutrition counseling
     location: "United States"
-    followers: 20819
-    engagement: 350
-    commentsToLikes: 0.202511
-    id: ck5hi0akbaz740i11g7fjslqo
+    followers: 21719
+    engagement: 168
+    commentsToLikes: 0.095286
+    id: ckap4uuaw8z1s0i78vb2i5lfh
     verified: false
-    hashtags: "#steeldustvodka, #applemagic, #mundet, #ad"
-  - username: "gordiegronk"
-    fullname: >-
-      Gordie Gronk
-    bio: >-
-      Shark Tank, Family Feud Former LA Angels - Drafted 2006 @gronkfitness @shopguruclub
-    location: "United States"
-    followers: 24326
-    engagement: 330
-    commentsToLikes: 0.119693
-    id: ck0vxgx3vyu7t0i19jq20zdcg
-    verified: false
-    hashtags: "#thankful, #brothers, #family, #diced"
+    hashtags: "#nondietdietitian, #summerrecipes, #antidietculture, #pandemicbaby"
   - username: "clairerunsthere"
     fullname: >-
       Claire
     bio: >-
-      🔹Optimizing health advocate 🔹Pursuing Mstrs in Nutrition 🔹Non🏃🏼‍♀️->self coached Boston marathonr🏅 🔹Momx4 🔹BQx9🦄26.2x20 🔹int dsgnr&artist 🔹Bio-hacker
+      🔹Non🏃🏼‍♀️->self coached Boston mthnr x 3🦄 🔹Boston ‘21💙💛 🔹26.2x21, BQx9, 🏃🏼‍♀️ing 9 yrs 🔹Momx4 💙💗💗💙 🔹Interior dsgnr/Artist 🔹Nutrition grad stdnt
     location: "United States"
-    followers: 21660
-    engagement: 451
-    commentsToLikes: 0.131751
+    followers: 20620
+    engagement: 343
+    commentsToLikes: 0.173559
     id: ckap52ymi9ynt0i788vwaujei
     verified: false
-    hashtags: "#runhappy, #garminfitness, #brooksrunning, #brookswomen"
+    hashtags: "#runnerscommunity, #womenrunning, #bostonmarathontraining, #runitfast"
+  - username: "big__ab"
+    fullname: >-
+      Big Ab™️
+    bio: >-
+      🔹🌐IFBB Classic Physique Pro 🔹’19 ⭕️lympian 🔹Community Liaison🏘 🔹Elite Personal Trainer😎🏋🏾‍♂️
+    location: "United States"
+    followers: 79244
+    engagement: 395
+    commentsToLikes: 0.032720
+    id: ck6tunfhfhb910j71dqk6owiw
+    verified: true
+    hashtags: "#npc, #instafit, #classicphysique, #gym"
+  - username: "sarahkesseli"
+    fullname: >-
+      Sarah Kesseli
+    bio: >-
+      🍉Easy eats 🤓 Social Media’ing 🐶 Espresso ✨ ED & HA Warrior 💜 Psalm 139:14 📍Boston, MA
+    location: "United States"
+    followers: 33433
+    engagement: 153
+    commentsToLikes: 0.220870
+    id: ck5c0i4wtt6mh0i118lmizkj0
+    verified: false
+    hashtags: "#deats, #mealprepsunday, #homemadefood, #wholefoods"
+  - username: "thepunjabilion"
+    fullname: >-
+      ROBO The Punjabi Lion
+    bio: >-
+      Pro Wrestler⭐️ State Bodybuilding Champ 2011🏆 India level competitor🏅 Chandigarh,Punjab🇮🇳 Boston🇺🇸
+    location: "United States"
+    followers: 18776
+    engagement: 630
+    commentsToLikes: 0.030687
+    id: ck0u0d52rte9o0i199aero61o
+    verified: false
+    hashtags: "#robokdm, #styleblogger, #positivevibes, #viralvideos"
   - username: "planejanedrag"
     fullname: >-
       Plane Jane
     bio: >-
-      💃🤡 Boston Venmo @ peanutbuttr
+      It’s Plane like airplanes ✈️ Профессиональная клоунесса👑 Home base: Boston Venmo: @ peanutbuttr
     location: "United States"
-    followers: 3054
-    engagement: 1204
-    commentsToLikes: 0.085878
+    followers: 3389
+    engagement: 1382
+    commentsToLikes: 0.075933
     id: ck5cd31bkig800i11tjt1pxoh
     verified: false
-    hashtags: "#rpdr, #undiscoveredmuas, #queerart, #fashion"
-  - username: "indianarunnergirl"
+    hashtags: "#meninmakeup, #rupaulsdragrace, #makeup, #welovequeens"
+  - username: "starinfinitefood"
     fullname: >-
-      ᴛʀᴀᴄɪᴇ ʜᴜɴᴛᴇʀ
+      Caitlin Greene
     bio: >-
-      26.2 x 23 13.1 x 14 Always running for @snickers IRG Training - Online Coaching 🏃certified Running Coach 🍏 certified Nutrition Coach
+      Boston 📍 Cook. Wholesome, easy recipes. Subscribe to my Newsletter! Cookbook author: JUST EAT REAL FOOD Inquiries: madison@smithsaint.com
     location: "United States"
-    followers: 8527
-    engagement: 666
-    commentsToLikes: 0.140320
-    id: ckaovjsyj4vid0i78gj6n6gym
+    followers: 256112
+    engagement: 133
+    commentsToLikes: 0.118400
+    id: ck0tu8qz363gs0i190h63fhbw
     verified: false
-    hashtags: "#brooksrunning, #marathontraining, #fitover40, #beautifulday"
-  - username: "happy.healthy.hayley"
+    hashtags: "#feedfeedglutenfree, #mediterraneandiet, #healthylifestyle, #todayfood"
+  - username: "heather.happykidskitchen"
     fullname: >-
-      Hayley MacLean, MS
+      Heather 👩‍🍳 Happy Kids Kitchen
     bio: >-
-      Plant enthusiast 🌱 Seattle📍 Wear black 🖤 Eat colors 🌈 Former pigeon lady. 🐦 #rd2be #nutrition #dieteticintern #happyhealthyhayley
+      Mama. Cooking instructor. Recipe Developer. Make healthy food FUN! Boston 🇺🇸 📚Free Ebook and Links👇
     location: "United States"
-    followers: 3924
-    engagement: 1621
-    commentsToLikes: 0.232845
-    id: ck5ce58sokcfy0i118ytqatxw
+    followers: 45727
+    engagement: 129
+    commentsToLikes: 0.077387
+    id: ck13bhjbrvfic0i19wc641alo
     verified: false
-    hashtags: "#nutritiousanddelicious, #todaybreakfast, #todayfood, #healthybreakfast"
+    hashtags: "#blw, #cookingwithtoddlers, #kidsfood, #kidslunchbox"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Brisbane In 2022
+title: Top 10 Instagram Influencers In Brisbane In 2023
 description: >-
-  Find top Instagram influencers in Brisbane in 2022. Most popular hashtags: #brisbane #australia #blogger.
+  Find top Instagram influencers in Brisbane in 2023. Most popular hashtags: #cute #love #instagood.
 platform: Instagram
-hits: 705
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 705 Instagram influencers like this in Brisbane, Australia for you to contact.
+hits: 546
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 546 Instagram influencers like this in Brisbane, Australia for you to work with.
 profiles:
   - username: "hxodu"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.145359
     id: ck5q5xw38v2sz0i11yyt3wa7w
     verified: false
-    hashtags: "#skybangerz, #qld, #ozshotmag, #thisisqueensland"
+    hashtags: "#discoverqueensland, #queensland, #seeaustralia, #thisisqueensland"
   - username: "brisbane"
     fullname: >-
       @BRISBANE - MYBRISBANE.COM
     bio: >-
       Bringing you the best our local community has to offer. Things To Do • Food & Wine • Lifestyle • Property Tag #MyBrisbane & @Brisbane ✉️ Get in touch
     location: "Australia"
-    followers: 108110
-    engagement: 183
-    commentsToLikes: 0.055773
+    followers: 107110
+    engagement: 173
+    commentsToLikes: 0.045474
     id: ck0vvol3uq2010i19y8idrc27
     verified: false
-    hashtags: "#southbank, #yum, #mybrisbane, #breaking"
-  - username: "lakotaajohnson"
+    hashtags: "#preservativefree, #noaddedsugar, #southbank, #yum"
+  - username: "leangreenie"
     fullname: >-
-      Lakota🐒
+      Stacey Parish 💚 Vegan
     bio: >-
-      TikTok- Lakotaaaaa 1.8mill Acting - Joseph@chictalent.com.au AUS mattk@industryentertainment.com LA Modelling-@chic_brisbane AUS @wilhelminalosangeles
+      Brisbane
     location: "Australia"
-    followers: 211812
-    engagement: 1488
-    commentsToLikes: 0.050585
-    id: ck5pz6ygfzit90i11p2m4e0y3
+    followers: 24316
+    engagement: 276
+    commentsToLikes: 0.039238
+    id: ckap98q1brmmh0i78lcgntkqc
     verified: false
-    hashtags: "#iambold, #hallensteinbrothers, #swatchbigbold, #ad"
+    hashtags: "#vegan, #animallovers, #veganforlife, #animalrights"
+  - username: "goodboykumo"
+    fullname: >-
+      Kumo The Japanese Spitz
+    bio: >-
+      Brisbane, Australia 🏠 🎂 29.6.18 KUMO15 - 15% off @tedandpatrick 😍 💕 MYPALKUMO - 10% off @pawfectpalsau
+    location: "Australia"
+    followers: 13066
+    engagement: 443
+    commentsToLikes: 0.244341
+    id: ck6tshqps4twy0j71n1e8g5k5
+    verified: false
+    hashtags: "#furbaby, #merrychristmas, #dogsofbrisbane, #positivevibes"
+  - username: "conagh_kat"
+    fullname: >-
+      CONAGH KATHLEEN 👼🏼✨☁️
+    bio: >-
+      brisbane • 23 @earlybirdsociety ☀️🌈🦋🕊 ✉️ conagh@maxconnectors.com.au @train.withsoph x @conagh_kat 💜⬇️
+    location: "Australia"
+    followers: 101150
+    engagement: 183
+    commentsToLikes: 0.001169
+    id: ck6uef6q6qk380j71n7lksp70
+    verified: false
+    hashtags: "#grwm, #reels, #motivation, #makeup"
+  - username: "zoe.creed"
+    fullname: >-
+      Zoe Creed🦋
+    bio: >-
+      Owner: @born.creed ʀᴇᴘʀᴇsᴇɴᴛᴇᴅ ʙʏ @chic_brisbane COLLAB- thien-an@chicbrisbane.com.au BOOKINGS –thomas@chicbrisbane.com.au 🥊 @hustle_boxing
+    location: "Australia"
+    followers: 42004
+    engagement: 158
+    commentsToLikes: 0.019581
+    id: ck6ub22k770mk0j71z3t0fu3w
+    verified: false
+    hashtags: "#sponsored, #jeyahaircare, #allyfashion, #paid"
+  - username: "organisedsimplicity"
+    fullname: >-
+      Organised Simplicity
+    bio: >-
+      Jordy ✨ home organisation ◦ interior design decluttering ◦ ndis ◦ moving + staging brisbane • gold coast • sunshine coast (aus) book a consult👇🏻
+    location: "Australia"
+    followers: 100939
+    engagement: 31
+    commentsToLikes: 0.044410
+    id: cl4f69fa4q8j10i23qx0ede1w
+    verified: false
+    hashtags: "#homeorganisation, #pantry, #pantryorganisation, #linencupboard"
   - username: "morgsfit"
     fullname: >-
-      Morgan Dor | Gym & Fitness
+      Morgan Dor ⚡️
     bio: >-
-      ⚡️ Classic Physique 📍 Australia/Brisbane 📸 YouTube "morgsfit”
+      🌐 Classic Physique 🇦🇺 Australia/Brisbane ⚡️ @ehplabs “MORGANSTAR” 🎥 YouTube - morgsfit
     location: "Australia"
-    followers: 10314
-    engagement: 1464
-    commentsToLikes: 0.091195
+    followers: 12329
+    engagement: 1270
+    commentsToLikes: 0.089131
     id: ck9haszqte0200j78nmeaj38h
     verified: false
-    hashtags: "#teamdoyoueven, #teamdye, #doyoueven, #focusseamless"
-  - username: "_talishax"
-    fullname: >-
-      Talisha Hansen
-    bio: >-
-      ♡ 19 ♡ Brisbane
-    location: "Australia"
-    followers: 10996
-    engagement: 1239
-    commentsToLikes: 0.064451
-    id: ck5cjfuzsun2v0i11v93ugg7b
-    verified: false
-    hashtags: ""
-  - username: "katyusharin"
-    fullname: >-
-      🐱Catherine🐱
-    bio: >-
-      Cosplayer Aus Brisbane Dm for collab/promotions (*´꒳`*)
-    location: "Australia"
-    followers: 10022
-    engagement: 3089
-    commentsToLikes: 0.059860
-    id: ck8t2mww2014t0j782vvkrabd
-    verified: false
-    hashtags: ""
-  - username: "jennybeeen"
-    fullname: >-
-      Jenny Blenk | Content Creator
-    bio: >-
-      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
-    location: "Australia"
-    followers: 7040
-    engagement: 1114
-    commentsToLikes: 0.223159
-    id: ck5honakipv940i114q4oggvy
-    verified: false
-    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
-  - username: "sabinamx"
-    fullname: >-
-      Sabina Mx
-    bio: >-
-      FASHION | TRAVEL | INSPO 📍 Brisbane, Australia 📧 sabinamx@outlook.com 🤍 From Germany
-    location: "Australia"
-    followers: 6924
-    engagement: 1057
-    commentsToLikes: 0.142140
-    id: ck8tbmepew8f40j78dxmxkt9r
-    verified: false
-    hashtags: "#fashionblogger, #americanstyle, #activewear, #allyfashion"
-  - username: "candice3lise__"
-    fullname: >-
-      CANDICE 🦋
-    bio: >-
-      🌏 Brisbane, AU 📧 Candice3lise@gmail.com 🧬 @shredders_nutrition “CANDICE” 10% off 👄 @envyaesthetics___ “$20 off 💆🏼‍♀️ @skin.enhance 20CANDICE 20% off
-    location: "Australia"
-    followers: 11854
-    engagement: 921
-    commentsToLikes: 0.346734
-    id: ckap42c1b5j8i0i78100qqryc
-    verified: false
-    hashtags: "#photooftheday, #ootd, #instagood, #instagram"
+    hashtags: "#classicphysique, #bodybuilding, #clasicphysique, #posing"
   - username: "rubygracemarks"
     fullname: >-
       r u b y g r a c e
     bio: >-
-      brisbane | @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
+      brisbane; @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
     location: "Australia"
-    followers: 14373
-    engagement: 840
-    commentsToLikes: 0.090133
+    followers: 23763
+    engagement: 894
+    commentsToLikes: 0.052252
     id: ckap2n0uwzk0o0i78zh5qva2i
     verified: false
-    hashtags: "#siksilkwomens, #siksilkstyle, #ad"
+    hashtags: "#billinibabes"
+  - username: "_talishax"
+    fullname: >-
+      Talisha Hansen
+    bio: >-
+      20 | Brisbane ☆
+    location: "Australia"
+    followers: 10591
+    engagement: 1257
+    commentsToLikes: 0.043099
+    id: ck5cjfuzsun2v0i11v93ugg7b
+    verified: false
+    hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Finland In 2022
+title: Top 10 Travel Instagram Influencers In Finland In 2023
 description: >-
-  Find top travel Instagram influencers in Finland in 2022. Most popular hashtags: #finland #suomi #visitfinland #nature.
+  Find top travel Instagram influencers in Finland in 2023. Most popular hashtags: #finland #nature #ig.
 platform: Instagram
-hits: 141
+hits: 123
 text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 141 Instagram influencers like this in Finland for you to collaborate.
+text_bottom: inBeat has 123 Instagram influencers like this in Finland for you to pitch.
 profiles:
+  - username: "ourfinland"
+    fullname: >-
+      VisitFinland
+    bio: >-
+      • Official Travel Site of Finland • Share your images & videos with #VisitFinland and @ourfinland for a chance to be featured!
+    location: "Finland"
+    followers: 335188
+    engagement: 112
+    commentsToLikes: 0.007357
+    id: ck8swiqhae81w0j78gbzoqmp2
+    verified: false
+    hashtags: ""
   - username: "enna_enkeli"
     fullname: >-
       Elina Finning
     bio: >-
       ❤️ Mother of 4 kids ❤️ #Jkl 🇫🇮 -81 My Kids ❤️ family ❤️ friends ❤️ #Groupfitnessinstructor 😊 #Traveling 👍🇬🇷 💎 🏋️‍♀️ Katso Facebook Ennan ulkojumpat
     location: "Finland"
-    followers: 6316
-    engagement: 2508
-    commentsToLikes: 0.094416
+    followers: 7361
+    engagement: 1795
+    commentsToLikes: 0.101501
     id: ckaotta56xf6u0i78twz9s6kw
     verified: false
-    hashtags: "#motheroffour, #instructorlife, #groupfitnessinstructor, #athome"
-  - username: "veerahaapoja"
+    hashtags: "#groupexerciseinstructor, #finnishwoman, #brunette, #hyv"
+  - username: "suzy.antunes"
     fullname: >-
-      VEERA HAAPOJA
+      Susanna Antunes
     bio: >-
-      Here to empower and inspire Travelling the world w/ @teppohaapoja Team @vitaminwellsuomi Walking by Faith, @houmchurch 💌: veerahaapoja@gmail.com
+      From Finland 🇫🇮 Living in Portugal 🇵🇹 ✈️ Traveling 👠 Fashion
     location: "Finland"
-    followers: 10796
-    engagement: 834
-    commentsToLikes: 0.082307
-    id: ck0w49byvxfp00i19exzik4kd
+    followers: 3696
+    engagement: 1354
+    commentsToLikes: 0.208532
+    id: ck14lcy8wu1hv0i19jzzwtke4
     verified: false
-    hashtags: "#reels, #visitfinland, #fiksuruoka, #finland"
-  - username: "obelixy"
+    hashtags: "#neutralstyle, #discoverunder5k, #tyyli, #neutralcolors"
+  - username: "janniamanda"
     fullname: >-
-      Nikolaos / OBELIXY
-    bio: >-
-      You’re early! Travel & Photo infobelixy@gmail.com
-    location: "Finland"
-    followers: 33703
-    engagement: 830
-    commentsToLikes: 0.066051
-    id: ck0tznjgdr1920i194dgdi34o
-    verified: false
-    hashtags: "#mobilemag, #wonderful, #instagram, #earthfocus"
-  - username: "janniehari"
-    fullname: >-
-      Janni-Amanda Keituri
+      Janni Keituri
     bio: >-
       lifestyle • photography • home decor • fashion • travel Content creator from Finland 📸 E-mail: contact@janniehari.fi 💌 @aititreffit Podcast 🎙️🎧
     location: "Finland"
-    followers: 16356
-    engagement: 586
-    commentsToLikes: 0.009743
+    followers: 16491
+    engagement: 457
+    commentsToLikes: 0.006261
     id: ck8szpvh2pa3a0j78ybk8gl9w
     verified: false
-    hashtags: "#lindexstrongertogether, #ellosfashion, #iseyskyrbarsuomi, #maaliskuiset2020"
-  - username: "mikaelakosk"
+    hashtags: "#kitchen, #toddlerlife, #valio, #tarramonsteri"
+  - username: "holin.tang"
     fullname: >-
-      Mikaela Koskela▪️Bloggaaja
+      Thomas Tang
     bio: >-
-      Life | Beauty | Travel | Food | Sustainable thinking Blogger since 2008 Finnish blogger, influencer & entrepreneur ✉️: mikaela.koskela@gmail.com
+      📍Musician - Cellist 📍Taipei, Taiwan 📍Travel Music Fitness Cook 🇹🇼 🇳🇱
     location: "Finland"
-    followers: 5364
-    engagement: 379
-    commentsToLikes: 0.055522
-    id: ck5zwvke76udp0i143rpfqg9g
+    followers: 5390
+    engagement: 549
+    commentsToLikes: 0.063089
+    id: ck9wd0dvjdhjv0j78vre37wx9
     verified: false
-    hashtags: "#instablogit, #pollutri, #instablogitfinland, #italia"
-  - username: "veerabianca"
+    hashtags: "#new, #night, #dream, #nike"
+  - username: "jannixo"
     fullname: >-
-      VEERA BIANCA »
+      50 shades of inspiration
     bio: >-
-      Traveller & Health Coach Blogger from Helsinki Changed my life: -35kg ⋙ veera@veerabianca.com 🐶: @sheltiesydney
+      Daily Inspiration for fashion photography & travel ❤️ 🇫🇮 Helsinki, Finland 📌 clothing designer student 💕 NEW POSTS DAILY
     location: "Finland"
-    followers: 35126
-    engagement: 211
-    commentsToLikes: 0.018360
-    id: ck14lqh86vz8h0i19952flo07
+    followers: 14986
+    engagement: 453
+    commentsToLikes: 0.063017
+    id: ck6uhhvx697fw0j71cqqnh961
     verified: false
-    hashtags: "#zalandostyle, #pysyrytmissa, #ad, #pysylujana"
-  - username: "kaiskos"
-    fullname: >-
-      Susanna
-    bio: >-
-      Finland 🏞 Nature, outdoor, travel Ⓜ️ ffan_nature🔹️fiftysh_of_nature fotocatchers 🔹 heart_impr 🔹️ig_week🔹️ig_discover allkindsofn🔹️hey_ihtst🔹️raw_com
-    location: "Finland"
-    followers: 10789
-    engagement: 2056
-    commentsToLikes: 0.075204
-    id: ck5cink4bszrf0i11rabqrbxg
-    verified: false
-    hashtags: "#global, #explore, #hugs, #nature"
-  - username: "anna28h"
-    fullname: >-
-      𝒜𝓃𝓃𝓊𝓀𝓀𝒶
-    bio: >-
-      ❅ Finland ❅ nature and travels ❅ it’s all about feeling 🦋 ❅ @annah.drawings
-    location: "Finland"
-    followers: 16646
-    engagement: 965
-    commentsToLikes: 0.060283
-    id: ck8tdhkdn3c9i0j78100eoydd
-    verified: false
-    hashtags: "#foggymorning, #visitkuusamo, #sombrescapes, #nature"
-  - username: "namastediary"
-    fullname: >-
-      namastediary
-    bio: >-
-      Expat📍🇫🇮 Love travelling✈️ 🔹Cityscape 🔹Streetscape #oneplus7pro #fujixt30 📸All my edits are in Lightroom mobile
-    location: "Finland"
-    followers: 5403
-    engagement: 1888
-    commentsToLikes: 0.058892
-    id: ck5zwu0b96rj20i145rkkf9cv
-    verified: false
-    hashtags: "#earthvisuals, #fujifilm, #outdoorfinland, #condenasttraveler"
+    hashtags: "#helsinkiphotographer, #tuesdayfunday, #bikinioutfit, #finland4seasons"
   - username: "travelsbyhenna"
     fullname: >-
       Henna Pihlaja
     bio: >-
-      🌊Life with big passion🔥Helsinki🇫🇮Traveling🌎travel tips🌴hotels🏛food🍣races🏁F1🏎 @ah.fitness.wear @hennajanita -15% with code: HENNA_FREDDY15
+      🌊Life with big passion🔥Helsinki🇫🇮Traveling🌎travel tips🌴hotels🏛food🍣races🏁F1🏎 @ah.fitness.wear @hennajanita
     location: "Finland"
-    followers: 15796
-    engagement: 451
-    commentsToLikes: 0.003577
+    followers: 15468
+    engagement: 454
+    commentsToLikes: 0.004387
     id: ckaozwfdnnpgi0i787e64gqnh
     verified: false
-    hashtags: "#traveltips, #finland, #travelblog, #f1gp"
+    hashtags: "#travelgram, #summerhouse, #worldtraveller, #lounge"
+  - username: "just_aapi"
+    fullname: >-
+      Aarni Pirjetä
+    bio: >-
+      Nature, landscape and travel photography Based in Mäntsälä, Finland
+    location: "Finland"
+    followers: 24820
+    engagement: 1363
+    commentsToLikes: 0.023142
+    id: ck5cc54mvgqmk0i116tp2wvkj
+    verified: false
+    hashtags: ""
+  - username: "nora_piero"
+    fullname: >-
+      Nora Piero
+    bio: >-
+      Fashion, travel, lifestyle Passion for traveling 🧳 Content creator 🤓 Based in Helsinki, Finland 🇫🇮 New Youtube channel ⬇️
+    location: "Finland"
+    followers: 38427
+    engagement: 246
+    commentsToLikes: 0.110289
+    id: ck139vxe2ndry0i197wc0qd8m
+    verified: false
+    hashtags: "#norgebilder, #traveladdicted, #autumnvibes, #thenordicscollective"
+  - username: "sariheikkin"
+    fullname: >-
+      𝕊𝕒𝕣𝕚 * Content creator
+    bio: >-
+      📸 Nature & outdoors 🌎 Travel ✨𝔽𝕚𝕟𝕕 𝕞𝕖 𝕨𝕙𝕖𝕣𝕖 𝕥𝕙𝕖 𝕨𝕚𝕝𝕕 𝕥𝕙𝕚𝕟𝕘𝕤 𝕒𝕣𝕖✨ 📍Kuhmo, FI ✉️ momentbysari@gmail.com
+    location: "Finland"
+    followers: 21375
+    engagement: 3196
+    commentsToLikes: 0.019110
+    id: ck138m5v3gwux0i19rqu7oguj
+    verified: false
+    hashtags: "#got, #macro, #master, #wilderness"
 ---

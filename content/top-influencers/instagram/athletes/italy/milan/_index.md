@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Milan In 2022
+title: Top 10 Athletes Instagram Influencers In Milan In 2023
 description: >-
-  Find top athletes Instagram influencers in Milan in 2022. Most popular hashtags: #workout #motivation #happiness #love.
+  Find top athletes Instagram influencers in Milan in 2023. Most popular hashtags: #milano #sport #milan #family.
 platform: Instagram
-hits: 38
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 38 Instagram influencers like this in Milan, Italy for you to connect with.
+hits: 30
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 30 Instagram influencers like this in Milan, Italy for you to connect with.
 profiles:
-  - username: "manuel_caruso_calisthenics"
+  - username: "nikmelli"
     fullname: >-
-      Manuel Caruso
+      Nicolò Melli
     bio: >-
-      🤸‍♂️Trainer & performer ✒️Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
+      Made and raised in 🇮🇹 Played in 🇮🇹🇩🇪🇹🇷🇺🇸 Currently in Milano @adidasita athlete 🏀 Proud Girl Dad 🦩
     location: "Italy"
-    followers: 64648
-    engagement: 1596
-    commentsToLikes: 0.128524
-    id: ck14jwjg0mjq00i19kj845qvh
-    verified: false
-    hashtags: "#power, #alimentazionesanana, #pullups, #muscle"
-  - username: "rickygissss"
-    fullname: >-
-      Riccardo Gismondi
-    bio: >-
-      Entrepreneur / Athlete / Artist Conscious Living 📍Rome / Milan #BlvckSheep 👁‍🗨 📨: Riccardo@the-talent-lab.com
-    location: "Italy"
-    followers: 649307
-    engagement: 249
-    commentsToLikes: 0.001806
-    id: ck138c34kfi370i19cqqgxuwi
+    followers: 156985
+    engagement: 1173
+    commentsToLikes: 0.008667
+    id: ck5cikboist7r0i11acdhwbjk
     verified: true
-    hashtags: "#tbt, #bal, #theminithings, #adv"
+    hashtags: "#tokyo2020, #family, #mffl, #olympics"
+  - username: "sofia_aloja"
+    fullname: >-
+      Sofia Aloja tennis ❤️
+    bio: >-
+      Passionate tennis player - Liceo scientifico - artist 👩‍🎨 Team @headtennis_official
+    location: "Italy"
+    followers: 20207
+    engagement: 1046
+    commentsToLikes: 0.138515
+    id: ckaot0kpbtu560i78fh97dpfe
+    verified: false
+    hashtags: "#tennislife, #instatennis, #picoftheday, #toscana"
   - username: "cristinachirichella10"
     fullname: >-
       Cristina Chirichella
     bio: >-
-      Professional Volleyball Player •Igor Volley Novara #10 •Italian National Team🇮🇹 •Nike Athlete •#TeamLGS,@lgssportlab •📚Università Cattolica Milano
+      Professional Volleyball Player •Igor Volley Novara #10 •Italian National Team🇮🇹 •Nike Athlete •#TeamLGS,@lgssportlab- • 📚Universita Cattolica Milano
     location: "Italy"
-    followers: 144763
-    engagement: 388
-    commentsToLikes: 0.005745
+    followers: 137999
+    engagement: 358
+    commentsToLikes: 0.006212
     id: ck13cndhy17i30i19qrqkoi14
     verified: true
-    hashtags: "#athletelife, #nike, #empoweryourbeauty, #iorestoacasa"
+    hashtags: "#emotions, #igorgorgonzola, #gustoitaliano, #gustoirresisitibile"
+  - username: "sair.tan"
+    fullname: >-
+      SAIR TAN
+    bio: >-
+      🇷🇴 🚁Currently in Romania
+    location: "Italy"
+    followers: 9582
+    engagement: 105
+    commentsToLikes: 0.024997
+    id: ck5hkaqlxi37b0i11fz5ncsju
+    verified: false
+    hashtags: "#modaitaliana, #fashionblog, #longhair, #heaven"
   - username: "kozica"
     fullname: >-
       Jan Kozamernik
     bio: >-
       Volleyball player in Powervolley Milano🇮🇹🏐🏆 Slovenian National Team Athlete🇸🇮🥈🏐 BSc in Electrical Engineering🎓 Represented by @sportines_
     location: "Italy"
-    followers: 10591
-    engagement: 1408
-    commentsToLikes: 0.005370
+    followers: 10458
+    engagement: 1113
+    commentsToLikes: 0.016158
     id: ck14k0qv1n50x0i19e1rqejb5
     verified: false
-    hashtags: "#pallavolo, #superlega, #kozainitaly, #powerboys"
-  - username: "franci266"
+    hashtags: "#italy, #volleyball, #milano, #personalbranding"
+  - username: "sophiebindi"
     fullname: >-
-      Francesca Re
+      Sophie Bindiku
     bio: >-
-      📍Milan, Italy 🇮🇹 📚Scienze e Tecnologie Alimentari 🏋🏼‍♀️Gym and Food lover🧁💕 🔷 @myproteinit ambassador (Cod: FRANCI)👇🏼
+      • Consulente nutrizionale -certificata🥦 • Biologia 📚 • Influencer @amazon • Photographer @sophiebindi.ph 📍 MI e MB ❤️ Sardinia
     location: "Italy"
-    followers: 32852
-    engagement: 1137
-    commentsToLikes: 0.007293
-    id: ck5pwupymop3z0i11uu1hguxa
+    followers: 22915
+    engagement: 486
+    commentsToLikes: 0.016348
+    id: ckaoy3t3vfxsb0i78wwuhy0k8
     verified: false
-    hashtags: "#lookfantastic, #fitnessgirl, #picoftheday, #ambassador"
-  - username: "chiararotacf"
+    hashtags: "#foodblogger, #atleticaitaliana, #fidal, #picoftheday"
+  - username: "manuel_caruso_calisthenics"
     fullname: >-
-      Chiara Rota
+      Manuel Caruso
     bio: >-
-      🏋🏻‍♀️CrossFit Athlete 👩🏻‍🎓L2 CF coach ✨Life & Mental coach 📌Counselor to be 🇮🇹 MI 📧 @feel__mgmt ⇃Check out my sponsor & discount code⇂
+      🤸‍♂️Trainer & performer 📩Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
     location: "Italy"
-    followers: 33756
-    engagement: 285
-    commentsToLikes: 0.017757
-    id: ck9wovgmd6rgt0j7817rr8e8g
+    followers: 90907
+    engagement: 4096
+    commentsToLikes: 0.009509
+    id: ck14jwjg0mjq00i19kj845qvh
     verified: false
-    hashtags: "#booty, #healthylife, #crossfitclawhammer, #bootygainz"
-  - username: "erikakirpu"
+    hashtags: "#milano, #spagna, #funny, #viralreels"
+  - username: "deborahsalvatoririnaldi"
     fullname: >-
-      Erika Kirpu⭐️
+      Deborah S.Rinaldi ☀️
     bio: >-
-      Estonian athlete🇪🇪🤺 training in Italy 🇮🇹 We, athletes, should unite people 🌎
+      Milano Football player @acmilan ⚽️ 🔴⚫️ Adidas athlete @adidas Founder @booksrinaldi_ #soccerplayer #adidasathlete #designer #seguiilsole
     location: "Italy"
-    followers: 9643
-    engagement: 759
-    commentsToLikes: 0.012043
-    id: ck5zx2yfa78uk0i14p892d7uo
-    verified: false
-    hashtags: "#tallinn, #poppyfield, #stronger, #strongerlabel"
-  - username: "richiesmullen"
-    fullname: >-
-      Richie Smullen
-    bio: >-
-      Fighting out of @sbgireland Signed by @bellatormma @gorillawearusa athlete
-    location: "Italy"
-    followers: 26811
-    engagement: 225
-    commentsToLikes: 0.018035
-    id: ck5cl3u69y6zj0i1133dtuk59
-    verified: false
-    hashtags: "#sbg, #ireland, #milan, #bellator"
-  - username: "flavialauramanzoli"
-    fullname: >-
-      Flavia Laura Manzoli
-    bio: >-
-      🏃🏼‍♀️ Runner 🐶 Dogs lover 🎓 Bocconi University 📍 Milan, Italy 💌 fiaba93@hotmail.it
-    location: "Italy"
-    followers: 17990
-    engagement: 364
-    commentsToLikes: 0.115219
-    id: ck135occu2ew60i19irooo0rj
-    verified: false
-    hashtags: "#workout, #motivation, #instagood, #sunrise"
-  - username: "silvia.fascians"
-    fullname: >-
-      Silvia Fascians 💪🏽🌙
-    bio: >-
-      🤸🏽‍♀️Lo sport é passione, e le passioni salvano la vita. 🇮🇹Fitness & empowerment YouTuber 🎥 @myproteinit 💼@mccann_italy Economia & Marketing 🎓 📍Milan
-    location: "Italy"
-    followers: 180541
-    engagement: 442
-    commentsToLikes: 0.010770
-    id: ck6u5wjczc5ws0j71b0298dar
+    followers: 26992
+    engagement: 454
+    commentsToLikes: 0.017746
+    id: ck5bzndglrhgc0i11aayz9ziz
     verified: true
-    hashtags: "#homeworkout, #bodypositivity, #healthylifestyle, #lovelife"
+    hashtags: "#acmilan, #snow, #seriea, #fiorentinamilan"
+  - username: "valentinagiacinti"
+    fullname: >-
+      Valentina Giacinti
+    bio: >-
+      Milano📍 Football player @acmilan 🔴⚫️ National team @azzurrefigc 🇮🇹 Atlhete @adidas 👟👕 Athlete @4plusnutrition 🏋🏼‍♂️🔋 Athlete @lierac_italia ☀️
+    location: "Italy"
+    followers: 191435
+    engagement: 1040
+    commentsToLikes: 0.020188
+    id: ck55jxhu8xzwh0i11ilzxgqqx
+    verified: true
+    hashtags: "#acmilan, #predator, #vivoazzurro, #danimarcaitalia"
+  - username: "giusy_versace_official"
+    fullname: >-
+      GiusyV.
+    bio: >-
+      Paralympic Athlete🇮🇹 European Champ.2016 🥈200m 🥉400m; Fondatrice della onlus www.disabilinolimits.org; Segni particolari:Tremenda voglia di vivere
+    location: "Italy"
+    followers: 60591
+    engagement: 272
+    commentsToLikes: 0.044259
+    id: ck5bx0ssemsd90i11o7m3vo2x
+    verified: true
+    hashtags: "#solocosebelle, #iofortunata, #bepositive, #thankgod"
 ---

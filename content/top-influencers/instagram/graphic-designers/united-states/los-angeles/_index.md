@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Los Angeles In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Los Angeles in 2022. Most popular hashtags: #art #graphicdesign #design.
+  Find top graphic-designers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #digitalart #illustration.
 platform: Instagram
-hits: 31
+hits: 60
 text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat has 31 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+text_bottom: Our platform aggregates 60 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "awolone"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.041510
     id: ck5hsditawf1e0i11p2cv4nt3
     verified: false
-    hashtags: "#speakerface, #bioexorcist, #jointhecloaks, #spotify"
-  - username: "nevermade"
-    fullname: >-
-      Francisco Reyes Jr.
-    bio: >-
-      Artist & Graphic Designer From Los Angeles Visual Stimuli | Serigraphs | Murals | Merchandise Hit The Shop! 🔻🔻
-    location: "United States"
-    followers: 33168
-    engagement: 146
-    commentsToLikes: 0.015433
-    id: ck55l5wpn0u1n0i11l5tfnhfu
-    verified: false
-    hashtags: "#savetheusps, #nevermade, #nevermadegiveaway10"
-  - username: "andresandrieu"
-    fullname: >-
-      Andrés Andrieu
-    bio: >-
-      Graphic Designer & Photographer Los Angeles, CA 🌴
-    location: "United States"
-    followers: 15678
-    engagement: 119
-    commentsToLikes: 0.022781
-    id: ck13d0uxw33kh0i19ddk9n11v
-    verified: false
-    hashtags: "#delivery, #immigration, #cybertruck, #tesla"
-  - username: "cheligfx"
-    fullname: >-
-      Che1ique
-    bio: >-
-      Graphic Artist // Remember you have infinite potential! Clients with: NBA l B/R | Knicks | ESPN Open to work! 💥 Inquiries: cheliross90@yahoo.com
-    location: "United States"
-    followers: 5611
-    engagement: 1642
-    commentsToLikes: 0.060103
-    id: ck5qb4i8qjroe0i11wubzm7lu
-    verified: false
-    hashtags: "#art, #lebron, #kobebryant, #artists"
-  - username: "leonatsume"
-    fullname: >-
-      Leo Natsume
-    bio: >-
-      Creative Designer. Clients: Google, Instagram, Adobe, Uber, Twitter, Huawei, Nike, Disney, Coca-Cola, NYT, Mercedes-Benz, WillSmith, Armani.
-    location: "United States"
-    followers: 24332
-    engagement: 398
-    commentsToLikes: 0.017378
-    id: ck0vuzgofmuiw0i19bru4qv33
-    verified: false
-    hashtags: "#octane, #catsofinstagram, #smartphone, #influencer"
+    hashtags: "#beetlejuice, #speakerface, #bioexorcist, #jointhecloaks"
   - username: "super_scoundrel"
     fullname: >-
       Devin Doty | Illustrator
     bio: >-
       Los Angeles illustrator/graphic designer. Shop vv
     location: "United States"
-    followers: 18643
-    engagement: 1385
-    commentsToLikes: 0.015970
+    followers: 32743
+    engagement: 1744
+    commentsToLikes: 0.013862
     id: ckaoqtk30kbo20i78yv9ntanw
     verified: false
-    hashtags: "#vector, #poster, #fanart, #vaporwave"
-  - username: "melaamory"
-    fullname: >-
-      Sasha Vinogradova | Design
-    bio: >-
-      🖍Graphic designer and artist 📍Los Angeles | art director at Apple 📮 melaamory@gmail.com #cg #cinema4d #3d 🔻My short Forest
-    location: "United States"
-    followers: 12734
-    engagement: 839
-    commentsToLikes: 0.030548
-    id: ck5qakzlpgy430i11q0xxnghi
-    verified: false
-    hashtags: "#thegraphicpr0ject, #artinstallation, #weekly, #photoshop"
-  - username: "createbymadden"
-    fullname: >-
-      Create by madden LLC
-    bio: >-
-      Just a small shop with Big Dreams:) #Customsigns / #WoodWork / #Eventrentals Deposit Required Shipping available. Located in #Riverbank, Ca
-    location: "United States"
-    followers: 24503
-    engagement: 371
-    commentsToLikes: 0.735130
-    id: ck6tqpknht0ck0j71wwgurctc
-    verified: false
-    hashtags: "#startup, #style, #nurseryinspo, #design"
+    hashtags: "#starwarsblackseries, #disney, #digitalillustration, #clonewars"
   - username: "morganweske"
     fullname: >-
       Morgan Weske
     bio: >-
       Roller Skater / Choreographer / Creative Director / Film SFX Editor ❤️ passion project @dance.skate 📍Venice Beach, Los Angeles
     location: "United States"
-    followers: 23545
-    engagement: 608
-    commentsToLikes: 0.046008
+    followers: 24492
+    engagement: 399
+    commentsToLikes: 0.041831
     id: ckf5ttlniiqal0j237acetcqy
     verified: false
-    hashtags: "#rollerskate, #skatelove, #rollerskating, #danceskate"
+    hashtags: "#rollerskate, #skatetour, #danceskate, #rollerskating"
+  - username: "haven_everly"
+    fullname: >-
+      Haven Everly 🎭Actor & Singer
+    bio: >-
+      Haven a good time! 🎉 📍 Los Angeles Netflix YOU Girl Who Left Home Film 🎤 Singing Coach 🏡 Professional Homebody
+    location: "United States"
+    followers: 29425
+    engagement: 215
+    commentsToLikes: 0.084300
+    id: ck0vw6yjase0d0i19gxinknut
+    verified: false
+    hashtags: "#actor, #losangeles, #sundayvibes, #fridayvibes"
   - username: "emilyboffeli"
     fullname: >-
       emily boffeli
     bio: >-
       los angeles art direction | designer | content creation sr. graphic designer + content strategist @mate_the_label emilyboffeli@gmail.com
     location: "United States"
-    followers: 4936
-    engagement: 927
-    commentsToLikes: 0.245481
+    followers: 4995
+    engagement: 716
+    commentsToLikes: 0.243974
     id: ck0vvh2u8p4110i19z2zi473p
     verified: false
     hashtags: ""
+  - username: "davis.rider"
+    fullname: >-
+      Davis ⚒ Rider
+    bio: >-
+      Los Angeles, CA 🌴 Tattoo Flash Maker Graphic Designer for @jeffreestarcosmetics Part owner @outsidercult Davisrider@gmail.com 📬
+    location: "United States"
+    followers: 37870
+    engagement: 818
+    commentsToLikes: 0.018558
+    id: ck6tnwy2laui00j715hugi7t4
+    verified: false
+    hashtags: "#conspiracy, #jeffreestarcosmetics, #shanexjeffree, #it"
+  - username: "lucaminxu"
+    fullname: >-
+      luca minxu シュガー
+    bio: >-
+      Los Angeles☁️⠀ 💗 OF 💗 ᴹᵒᵈᵉˡ | ᵀʷⁱᵗᶜʰ ᴳᵃᵐᵉʳ | ᴳʳᵃᵖʰⁱᶜ ᴰᵉˢⁱᵍⁿᵉʳ | ᶜᵒˢᵖˡᵃʸᵉʳ | ᴰᵃⁿᶜᵉʳ | ᴬˢᴹᴿ | ᴼⁿˡʸᶠᵃⁿˢ | ᴾᵃᵗʳᵉᵒⁿ ⠀ ⠀⠀ ⠀ ⠀ ⠀ 🄻🄸🄽🄺🅂 🄷🄴🅁🄴 ⬇️
+    location: "United States"
+    followers: 12035
+    engagement: 504
+    commentsToLikes: 0.066353
+    id: ck9ha0j1aaphj0j783s3aazxr
+    verified: false
+    hashtags: "#ryukocosplay"
+  - username: "hometown_designs"
+    fullname: >-
+      Jimmy Mitchell
+    bio: >-
+      Graphic Designer. Chicago, IL Creative Services Coordinator @chicagobulls
+    location: "United States"
+    followers: 57973
+    engagement: 1886
+    commentsToLikes: 0.013063
+    id: ck5qb3owzjnt30i11pefzp2rk
+    verified: false
+    hashtags: "#mj, #michael, #zachlavine, #basketball"
+  - username: "monimonanabanana"
+    fullname: >-
+      Moni Monana Banana 🍌
+    bio: >-
+      🌲⛄~🌴🌊 ~🍇🍷 Graphic Designer + Motion Grapher + Videomaker Drone Pilot 🚁 📍La Rioja 🇪🇸 Aliens don't talk with us because of me..
+    location: "United States"
+    followers: 10342
+    engagement: 910
+    commentsToLikes: 0.058047
+    id: ck6ufgnypwxx80j713pke2up8
+    verified: false
+    hashtags: "#hero7, #hero9, #goproes, #goprohero8"
+  - username: "theartofbokkaboom"
+    fullname: >-
+      𝔹𝕆𝕂𝕂𝔸𝔹𝕆𝕆𝕄
+    bio: >-
+      #bokkaboom Illustrator | Graphic Designer | Creative Director Inspired by hip hop & street culture at it's finest.🔥 📨 Inquiries: bokkaboom@gmail.com
+    location: "United States"
+    followers: 7635
+    engagement: 276
+    commentsToLikes: 0.098177
+    id: ck55ppf2db31c0i11su8l5nc5
+    verified: false
+    hashtags: "#bennythebutcher, #airjordan1, #hiphop, #northface"
 ---

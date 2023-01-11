@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Germany In 2022
+title: Top 10 Chefs Instagram Influencers In Germany In 2023
 description: >-
-  Find top chefs Instagram influencers in Germany in 2022. Most popular hashtags: #love #happy #culinary #kochen.
+  Find top chefs Instagram influencers in Germany in 2023. Most popular hashtags: #happy #pasta #lecker #kochen.
 platform: Instagram
-hits: 110
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 110 Instagram influencers like this in Germany for you to collaborate.
+hits: 94
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 94 Instagram influencers like this in Germany for you to contact.
 profiles:
   - username: "corneliapoletto"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Chef
     location: "Germany"
-    followers: 25558
-    engagement: 308
-    commentsToLikes: 0.025518
+    followers: 27020
+    engagement: 325
+    commentsToLikes: 0.051218
     id: ck13550ahzqlk0i19fook9pfy
     verified: true
-    hashtags: "#medizin, #pflegeberuf, #hamburg, #pflege"
-  - username: "sara.arja"
+    hashtags: "#altonaerkinderkrankenhaus, #pflege, #beatmung, #medizin"
+  - username: "christianlindner"
     fullname: >-
-      Soñador..☁️
+      Christian Lindner
     bio: >-
-      🇩🇪~🇱🇧 Wedel/Hamburg 📍 •How Soon Is Now🏹 •3.756,4 km away🥺 •Follow me on TikTok by:saraar5.5 •45% chef👩‍🍳 •35% traveler✈️ •85% enjoy my life🤠
+      🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
     location: "Germany"
-    followers: 3318
-    engagement: 1440
-    commentsToLikes: 0.136848
-    id: ckap866nwmzzx0i78ukb4oyxn
-    verified: false
-    hashtags: "#picoftheday, #quarantinelife, #selfcare, #explorepage"
+    followers: 364919
+    engagement: 216
+    commentsToLikes: 0.035443
+    id: ck0twafkcemez0i19ne6t0j6h
+    verified: true
+    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
   - username: "kaktuspoooo"
     fullname: >-
       Lisa
     bio: >-
       Was mich ausmacht ist meine Art! 👉Racehorses, Chef, Shootings👈 🖤 Dinge erleben, auf mich zukommen lassen, Situationen nutzen, lachen! 🖤 NRW Girl
     location: "Germany"
-    followers: 5716
-    engagement: 743
-    commentsToLikes: 0.032612
+    followers: 5873
+    engagement: 718
+    commentsToLikes: 0.033902
     id: ck5hd61etloj30i11cmcienl9
     verified: false
-    hashtags: "#you, #on, #bedtime, #fashion"
-  - username: "zorilipanski"
+    hashtags: "#this, #weekend, #happy, #like"
+  - username: "sofuckindelicious"
     fullname: >-
-      Zora Klipp
+      Michael Frisch
     bio: >-
-      Chef in @weidenkantine ☕️ Kochbücher @EMF_verlag 📚 Signierte Bücher, Schürzen, Rezepte
+      👨‍🍳 Chef 🥩 Grill verrückt 🍸 Gin Liebhaber #sofuckindelicious #gintasting #grillverrückt #gourmet #feinschmecker
     location: "Germany"
-    followers: 39214
-    engagement: 653
-    commentsToLikes: 0.005248
-    id: ckap0asispijg0i78gfx4g8t3
+    followers: 12582
+    engagement: 712
+    commentsToLikes: 0.053111
+    id: ck8t6i5bddq530j78yyuljce0
     verified: false
-    hashtags: "#kochen, #backen, #meinnachmittag, #ndr"
-  - username: "marco.pogo"
+    hashtags: "#pulpo, #wagyubeef, #sauerteig, #cafedeparis"
+  - username: "woid.kitchen"
     fullname: >-
-      Marco Pogo
+      Natalie | 30 🐶🏡👩🏽‍❤️‍👨🏼👶🏻
     bio: >-
-      ◼️ Gründer der BIERPARTEI ✊🏻 ◼️ Dirigent von TURBOBIER 👨🏻‍🎤 ◼️ Chef bei POGO's EMPIRE 👨🏻‍💻 ◼️ Herausgeber des TURBOBIERES 🍺 📧 ➔ pogo@turbobier.at
+      ▫️einfache Rezepte❤️ ▫️mit und ohne Thermomix & Pampered Chef ▫️dahoam im bayerischen Woid 🌿 ▫️Rabattcodes, Impressum & Blog⬇️
     location: "Germany"
-    followers: 19036
-    engagement: 867
-    commentsToLikes: 0.011666
-    id: ck5zmfenvmh320i14rkwn3prv
-    verified: true
-    hashtags: "#beer, #bierpartei, #simmering, #turbobier"
-  - username: "gaborkitchen"
-    fullname: >-
-      Gabor J. Bakai
-    bio: >-
-      Executive Chef,Supervisor Hilton****S,Kempinski*****S,A'Rosa Riva****S LA,Hollywood,Suisse,Austria www.finecut_chefwear.de 10% with code gaborkitchen
-    location: "Germany"
-    followers: 24704
-    engagement: 267
-    commentsToLikes: 0.077351
-    id: ck139hfi7lbev0i19jl0bgj3d
+    followers: 38256
+    engagement: 369
+    commentsToLikes: 0.029226
+    id: ck8swtx4af82c0j78pqa1piu7
     verified: false
-    hashtags: "#artofplating, #foodstarz, #sousvide, #chefsalert"
+    hashtags: "#unter30minuten, #thermomixdeutschland, #pamperedchefdeutschland, #vegetarischerezepte"
   - username: "roland_trettl"
     fullname: >-
       Roland Trettl
     bio: >-
       Chef Foodvictim First Dates Gastgeber
     location: "Germany"
-    followers: 325877
-    engagement: 157
-    commentsToLikes: 0.047135
+    followers: 348283
+    engagement: 207
+    commentsToLikes: 0.042894
     id: ck5hgmgzn3kqf0i119pcj6rsl
     verified: true
-    hashtags: "#dibbernmanufaktur, #dibbern, #trettlkocht, #stayspiced"
-  - username: "christianlindner"
-    fullname: >-
-      Christian Lindner
-    bio: >-
-      🤳Chef von @fdpbt und @fdp. 🎧 Podcast @spotify: 1 Thema, 2 Farben. 📲 christian.lindner@fdp.de 📍 Berlin
-    location: "Germany"
-    followers: 167359
-    engagement: 152
-    commentsToLikes: 0.036209
-    id: ck0twafkcemez0i19ne6t0j6h
-    verified: true
-    hashtags: "#deutschland, #lockdown, #freiheit, #trump"
+    hashtags: "#liebe, #werbung, #vox, #firstdateshotelvox"
   - username: "chefmoebetta"
     fullname: >-
       Chef MoeBetta
     bio: >-
       Owner @streetcornerkitchen Season 1 “Insta Chef”👇🏾
     location: "Germany"
-    followers: 87236
-    engagement: 614
-    commentsToLikes: 0.011581
+    followers: 88004
+    engagement: 801
+    commentsToLikes: 0.008861
     id: ck0ubek17ec9j0i191dnl1we4
     verified: false
-    hashtags: "#personalchef, #chickenwing, #restaurant, #grilledchicken"
-  - username: "rawtransitiondiet"
+    hashtags: "#alfredo, #candiedyams, #nyc, #chickenwings"
+  - username: "paulcooks.de"
     fullname: >-
-      Damian | Health Coach & Chef
+      Paul Cooks | 🥩👨🏻‍🍳🤳📸
     bio: >-
-      🌕 We help people stuck in their health journey to step into their full potential . 🥬 Raw Vegan Chef 💚 Coach 🌱 Permaculturist
+      🙋🏻‍♂️ | Self-taught Chef, Not Vegan at all 📍 | Based in Dortmund - Germany 🇩🇪 📬 | Anfragen ➡️ hello@paulcooks.de
     location: "Germany"
-    followers: 8973
-    engagement: 360
-    commentsToLikes: 0.094592
-    id: ck9wd2bi1dr640j780ut0ekly
+    followers: 45780
+    engagement: 289
+    commentsToLikes: 0.019420
+    id: ck6tw6ybxqc590j71d7d5uq66
     verified: false
-    hashtags: "#mucuslessdiet, #health, #healingjourney, #fruitarian"
+    hashtags: "#roastbeef, #paulcooks, #steaklovers, #flapmeat"
+  - username: "chefsstuff.de"
+    fullname: >-
+      ChefsStuff - Der Kochkanal
+    bio: >-
+      ELENA & SIMON - Rezeptvideos auf YOUTUBE - ContentCreator @maly_story Mediengestalterin @simon_chef_story Küchenmeister ⬇️VIDEOS⬇️
+    location: "Germany"
+    followers: 3529
+    engagement: 963
+    commentsToLikes: 0.061103
+    id: ckaowdsjr8hon0i7869puwdjj
+    verified: false
+    hashtags: "#nudelliebe, #kochenmitherz, #fleischliebe, #grillen"
+  - username: "soschmecktliebe"
+    fullname: >-
+      Luisa Zerbo
+    bio: >-
+      Chef & Pastry Chef | The Taste Finalistin 2017 mails: luisa@soschmecktliebe.de Koch-& Backbuch Autorin So schmeckt Liebe
+    location: "Germany"
+    followers: 11651
+    engagement: 493
+    commentsToLikes: 0.052589
+    id: ck6tzkcnya7jb0j712oq3w5r1
+    verified: false
+    hashtags: "#ownyourspace, #bambihilftkindern, #fuerdengutenzweck, #macaronvideo"
 ---

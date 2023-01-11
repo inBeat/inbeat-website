@@ -1,36 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Italy In 2022
+title: Top 10 Health Instagram Influencers In Italy In 2023
 description: >-
-  Find top health Instagram influencers in Italy in 2022. Most popular hashtags: #puglia #style #bodytransformation.
+  Find top health Instagram influencers in Italy in 2023. Most popular hashtags: #goodvibes #homesweethome #redhairdontcare.
 platform: Instagram
-hits: 955
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 955 Instagram influencers like this in Italy for you to work with.
+hits: 846
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 846 Instagram influencers like this in Italy for you to contact.
 profiles:
+  - username: "itstheskinyourein"
+    fullname: >-
+      Serena✨beauty content creator - UGC
+    bio: >-
+      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
+    location: "Italy"
+    followers: 36489
+    engagement: 1556
+    commentsToLikes: 0.159760
+    id: ck8tdo5fr44kc0j78ws6cotly
+    verified: false
+    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
+  - username: "mamastateofmind"
+    fullname: >-
+      Ashley Ager ☾
+    bio: >-
+      wife + mama motherhood | home | real life advocate for mental health + healing trauma ⚲ military family living in italy
+    location: "Italy"
+    followers: 12720
+    engagement: 674
+    commentsToLikes: 0.015836
+    id: ck0w5lkj248tg0i191ytcpnpg
+    verified: false
+    hashtags: "#twentynine, #lastyearofmytwenties, #family, #dallas"
   - username: "paolafreeman"
     fullname: >-
       Paula Freimane
     bio: >-
-      📚 Author of best-seller healthy cookbook 💜 Zelta Sastāvdaļa 📩 freimane.paula@gmail.com ⬇️Workouts YOUTUBE⬇️
+      📚Author of two best-seller healthy cookbooks 💜Zelta Sastāvdaļa 🧡Zelta Sastāvdaļa 2 📩freimane.paula@gmail.com ⬇️iegādājies Zelta Sastāvdaļa⬇️
     location: "Italy"
-    followers: 124758
-    engagement: 754
-    commentsToLikes: 0.317503
+    followers: 121890
+    engagement: 780
+    commentsToLikes: 0.177274
     id: ck0vv4f4anhzj0i19bhlmg690
     verified: true
-    hashtags: "#travellatvia, #autumn, #comingsoon, #rokudarbs"
-  - username: "remalda"
+    hashtags: "#rekla, #olbaltumvielambagats, #vicisurimi, #pokebowl"
+  - username: "nerinafrancesca"
     fullname: >-
-      Travel/Fashion/motherhood🇦🇱🇮🇹
+      💎 Francesca Nerina 💎
     bio: >-
-      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 Watch my stories 🙏 ✝️=💜 📨livetoinspireblog@gmail.com
+      HEALTH | FITNESS | LIFESTYLE 💪 Italy 🇮🇹 Brand Ambassador My only backup @francescanerinaa
     location: "Italy"
-    followers: 12106
-    engagement: 931
-    commentsToLikes: 0.099789
-    id: ck5zmzotkni710i1426xyuqcp
+    followers: 528497
+    engagement: 680
+    commentsToLikes: 0.048623
+    id: ck8t5753n90v00j78mkte5hhx
     verified: false
-    hashtags: "#momswhotravel, #polignanoamare, #perugia, #pugliabella"
+    hashtags: "#selfie, #heels, #dress, #homesweethome"
   - username: "aurilion_"
     fullname: >-
       𝓐𝓾𝓻𝓸𝓻𝓪 🐆
@@ -42,89 +66,65 @@ profiles:
     commentsToLikes: 0.093104
     id: ckap5am87awas0i786flt3d6h
     verified: false
-    hashtags: "#milanomarittima, #rexaline, #collezioneestiva, #occhialidasole"
-  - username: "nerinafrancesca"
+    hashtags: "#eyewear, #mykonos, #modadonna, #vacanze"
+  - username: "remalda"
     fullname: >-
-      💎 Francesca Nerina 💎
+      Travel/Fashion/motherhood🇦🇱🇮🇹
     bio: >-
-      HEALTH | FITNESS | LIFESTYLE 💪 Brand Ambassador My only backup @francescanerinaa
+      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 👀 my stories🙏 ✝️=💜 📨livetoinspireblog@gmail.com Nixplay
     location: "Italy"
-    followers: 419505
-    engagement: 377
-    commentsToLikes: 0.040970
-    id: ck8t5753n90v00j78mkte5hhx
+    followers: 12910
+    engagement: 463
+    commentsToLikes: 0.128079
+    id: ck5zmzotkni710i1426xyuqcp
     verified: false
-    hashtags: "#sea, #sun, #mirror, #night"
-  - username: "anej_sosic"
-    fullname: >-
-      Anej Sosic
-    bio: >-
-      Model + Actor - ~𝘈𝘸𝘢𝘳𝘥 𝘸𝘪𝘯𝘯𝘪𝘯𝘨 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘤𝘳𝘦𝘢𝘵𝘰𝘳~ T E Dx • youth, health legislation •
-    location: "Italy"
-    followers: 91574
-    engagement: 354
-    commentsToLikes: 0.068643
-    id: ck6ufp29jyboh0j71ap3j3rvu
-    verified: false
-    hashtags: "#pose, #repost, #comingsoon, #venice"
-  - username: "roza_koltsova"
-    fullname: >-
-      Roza Koltsova
-    bio: >-
-      •self-irony 80 lvl😸🇷🇺 🇪🇪 #humor#beauty#healthylifestyle
-    location: "Italy"
-    followers: 6039
-    engagement: 2436
-    commentsToLikes: 0.049393
-    id: ckaowclk58c6g0i78vg9n1u9t
-    verified: false
-    hashtags: "#tallinn, #mykonos, #napoli, #puglia"
+    hashtags: "#enjoylife, #visitalbania, #espa, #girlswhotravel"
   - username: "andreapetagna"
     fullname: >-
       ANDREA PETAGNA
     bio: >-
-      Football player @officialsscnapoli Co-founder @healthycolor_it
+      Football player @officialsscnapoli Co-founder @healthycolor_it BULLDOZER 🚜
     location: "Italy"
-    followers: 497055
-    engagement: 888
-    commentsToLikes: 0.014126
+    followers: 504125
+    engagement: 1068
+    commentsToLikes: 0.014402
     id: ck137on0icla00i19ej2aukdx
     verified: true
-    hashtags: "#pushup, #challenge, #bulldozer, #realsociedadnapoli"
-  - username: "kilianlenox"
+    hashtags: "#backtowork, #forzanapolisempre, #realsociedadnapoli, #diego"
+  - username: "emilyrosecolangelo"
     fullname: >-
-      KiLiaN LeNoX
+      Emily Rose Colangelo
     bio: >-
-      Italian boy 🇮🇹 Athletic man 💪 Lover of healthy life 🥑 Lover of art 🎨 Believe in yourself 💯 kiliandello95@gmail.com 📩
+      Irish Dancer World Champion👑 🇮🇪/🇮🇹 @d.d.c.t.d | @healthy_cave emilyrosecolangelo1@gmail.com 👻- emilyrose_c04
     location: "Italy"
-    followers: 7033
-    engagement: 1784
-    commentsToLikes: 0.032498
-    id: ck8ta70sxqosb0j785547l56p
+    followers: 11240
+    engagement: 1900
+    commentsToLikes: 0.035453
+    id: ck5c05ty8si3c0i11dmb9qjnw
     verified: false
-    hashtags: "#fitness, #transgender, #ftmtransgender, #photooftheday"
-  - username: "rachele_maria_mura"
+    hashtags: "#sportsmodel, #gymsharkwomen, #worldchampion, #irishdancer"
+  - username: "giuliacastronovi"
     fullname: >-
-      Rachele Mura
+      GIULIA STELLA CASTRONOVI
     bio: >-
-      •LIFECOACH 🌟 •FITNESS🏋🏽‍♀️ MOTIVATOR •MINDSET💡 •HEALTHY 🥑 TRAINER •YOGA INSTRUCTOR🧘🏽‍♀️ •WORLDTRAVELLER 🌏
+      🌪 22 y/o 📍Milan 🇮🇹 Model 📚 Business Communications ☀️Positive Vibes 🍒Healthy lifestyle “Amare se stessi è l’inizio di una lunga storia d’amore”
     location: "Italy"
-    followers: 48279
-    engagement: 283
-    commentsToLikes: 0.081017
-    id: ck8tacxn5r9e10j78z4wznfzp
+    followers: 31521
+    engagement: 289
+    commentsToLikes: 0.065269
+    id: ck5chokjyr6550i11e740ehei
     verified: false
-    hashtags: "#stayfit, #staystrong, #fase2, #loveyourself"
-  - username: "jeanie_1"
+    hashtags: ""
+  - username: "qu33nth3"
     fullname: >-
-      Jeanie Lee ♡ San Francisco
+      Valentina Di Iorio
     bio: >-
-      💍 @ahmadcheikho Women in Healthcare 100+ Countries ✈︎ Every Continent Traveled Living a Life of Gratitude ♱ John 3:16 ❥ jeaniestraveldiary@gmail.com
+      Sardinian redhead 👩🏻‍🦰🐚 ~ happy mum of Baballuco + two cats ~ This is my simple real healthy (not too much) lifestyle 🌱 ~ Ce la faremooo..(Forse!)
     location: "Italy"
-    followers: 36763
-    engagement: 628
-    commentsToLikes: 0.057118
-    id: ck5c83hrv8p7e0i11e5gyxe2c
+    followers: 5714
+    engagement: 1668
+    commentsToLikes: 0.036004
+    id: ckf5ryovbeakn0j23toc6ct5z
     verified: false
-    hashtags: "#beautifuldestinations, #bolivia, #swipeleft, #page"
+    hashtags: "#redheadfitness, #redhairdontcare, #gingerhead, #portraitfeed"
 ---

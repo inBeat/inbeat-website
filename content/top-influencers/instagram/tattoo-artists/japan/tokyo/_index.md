@@ -1,48 +1,48 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Tokyo In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Tokyo in 2022. Most popular hashtags: #art #japan #artwork #tattoo.
+  Find top tattoo-artists Instagram influencers in Tokyo in 2023. Most popular hashtags: #art #tattoo #japan #tattooart.
 platform: Instagram
-hits: 5
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in Tokyo, Japan for you to connect with.
+hits: 7
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 7 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
-  - username: "thedeadpigeon"
+  - username: "bizentattoo"
     fullname: >-
-      Magnus Jansson
+      彫師 美漸 - tattooist  Bizen
     bio: >-
-      I'm a Swedish illustrator & tattoo artist living in Tokyo. Youtube: Sketches & Coffee
+      BIZEN ART-TattooStudio🇯🇵 TOKYO Nakameguro&Kanagawa 👥所属彫師 @roja_tattooist @tattoo_mayu @dk_tattoo_omn BIZENアパレル販売DM📩
     location: "Japan"
-    followers: 19896
-    engagement: 613
-    commentsToLikes: 0.015385
-    id: ck9wdttwah8fz0j78filugesy
+    followers: 38776
+    engagement: 287
+    commentsToLikes: 0.001874
+    id: ckap8hkbxoc1h0i78tqqw272b
     verified: false
-    hashtags: "#japan, #artwork, #sketchbook, #drawing"
+    hashtags: "#bizentattoo, #tattooartist, #japanesetattoo, #tokyo"
   - username: "horiren1st"
     fullname: >-
       初代 彫蓮
     bio: >-
       Japanese tattoo artist Photo book is on sale For any questions regarding the international order please contact us at 1rentakusho@gmail.com
     location: "Japan"
-    followers: 10584
-    engagement: 718
-    commentsToLikes: 0.010854
+    followers: 10932
+    engagement: 716
+    commentsToLikes: 0.010914
     id: ck0w6phqq9oty0i19pxyfjcau
     verified: false
-    hashtags: "#tattoo, #art, #maori, #japanese"
-  - username: "bizentattoo"
+    hashtags: "#traditionalculture, #tattoo, #tattooartist, #japan"
+  - username: "yw0209c4"
     fullname: >-
-      彫師 美漸 - tattooist  Bizen
+      Yuya Wakamatsu  若松佑弥
     bio: >-
-      BIZEN ART-TattooStudio🇯🇵 TOKYO Nakameguro&Kanagawa 👥所属彫師 @roja_tattooist @tattoo_mayu BIZENアパレル販売DM📩
+      TRIBE TOKYO M.M.A所属 ONE championshipフライ級4位 @onechampionship @rebellious_behavior
     location: "Japan"
-    followers: 32309
-    engagement: 303
-    commentsToLikes: 0.002416
-    id: ckap8hkbxoc1h0i78tqqw272b
-    verified: false
-    hashtags: "#tokyo, #bizenart, #bizentattoo, #fashion"
+    followers: 6798
+    engagement: 650
+    commentsToLikes: 0.017784
+    id: ck5zrpurux1j90i14rxwge48s
+    verified: true
+    hashtags: "#jujitsu, #grappling, #tattoo, #tattoodesign"
   - username: "chachamandala"
     fullname: >-
       CHACHA
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.012698
     id: ckaowpfi89v6z0i784ee3ilom
     verified: false
-    hashtags: "#stayhome, #zenart, #art, #flowerpower"
-  - username: "okada_jur"
+    hashtags: "#mandala, #zentangleinspiredart, #flower, #flowers"
+  - username: "airi_hara1002"
     fullname: >-
-      岡田 悠助／Yusuke Okada
+      書道アーティスト/原 愛梨【作品集】Airi Hara
     bio: >-
-      Japan🇯🇵/Tokyo love ART and SFX Hair stylist→self-taught sfx artist.→work ( @jur_plus ) I post my works 📭DM me for mask orders
+      書道家・書道アーティスト　AiriHara #書道アート【世界へ🌎】 ●仕事依頼→keisuke.nishizawa@twinplanet.co.jp Twitter／YouTube は下記リンクへ🖌 ・ ※DM事務所管理
     location: "Japan"
-    followers: 29976
-    engagement: 605
-    commentsToLikes: 0.017512
-    id: ck8svs6k1ci000j78nzxgyabr
+    followers: 23869
+    engagement: 527
+    commentsToLikes: 0.007412
+    id: ck6uazeoe6l6d0j7187kzvb6w
     verified: false
-    hashtags: "#siliconehead, #okina, #nohmask, #mask"
+    hashtags: "#drawing, #artwork, #calligraphyart, #tattoo"
+  - username: "hexhillstudiosfx"
+    fullname: >-
+      HEXHILL STUDIOS
+    bio: >-
+      OFFICIAL INSTAGRAM ACCOUNT OF HEXHILL STUDIOS • JP SIMON • MONSTER ZOMBIE FX STUDIO • LOS ANGELES 🇺🇸
+    location: "Japan"
+    followers: 22096
+    engagement: 272
+    commentsToLikes: 0.009074
+    id: ck15rzcgwaghe0i19fdy519zr
+    verified: false
+    hashtags: "#zombie, #tokyo, #pandemic, #fitness"
+  - username: "karma_kitten_art"
+    fullname: >-
+      Kitty ♡
+    bio: >-
+      self-taught 🎨 anime/ manga/ BTS fanart 💜 thank you for the support! 💜 DM or mail for business inquiries 💌 wanna buy me a coffee?! ☕❤
+    location: "Japan"
+    followers: 49874
+    engagement: 281
+    commentsToLikes: 0.045772
+    id: ck5qammjdh6o00i11n7ym0slk
+    verified: false
+    hashtags: "#draken, #sharingan, #kpop, #artwork"
   - username: "chapi_pi_pi"
     fullname: >-
-      CHAPI
+      CHAPIちゃぴ
     bio: >-
-      ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️ . tattoo artist 彫師 @chapi1225 . 💎 @chapi1225 💎 Japan Osaka 💎 リーダー🐈2020.0630 . インスタメッセージ見てません . ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
+      💎tattoo artist 彫師 @chapi1225 . 💎 Japan Osaka 💎 🐈 リーダー and ノア 💎 🐈猫垢 @leadernoa . インスタメッセージ見てません
     location: "Japan"
-    followers: 38653
-    engagement: 669
-    commentsToLikes: 0.002198
+    followers: 41738
+    engagement: 657
+    commentsToLikes: 0.002017
     id: ck134wxj8ylcr0i19in88dm5b
     verified: false
-    hashtags: "#pivotdoor, #pivot, #pvdcode"
-  - username: "horiren1st"
+    hashtags: ""
+  - username: "gdc_tattoo"
     fullname: >-
-      初代 彫蓮
+      Gianluca Di Cristofaro
     bio: >-
-      Japanese tattoo artist Photo book is on sale For any questions regarding the international order please contact us at 1rentakusho@gmail.com
+      Tattoo artist based in Torino, Italy at Franco Roggia Japanese Tattoo art - Guest every month at @milanocityink - Facebook: Gianluca Di Cristofaro
     location: "Japan"
-    followers: 10584
-    engagement: 718
-    commentsToLikes: 0.010854
-    id: ck0w6phqq9oty0i19pxyfjcau
+    followers: 40813
+    engagement: 329
+    commentsToLikes: 0.005956
+    id: ckaoyfgc3hat50i78k7lp8eac
     verified: false
-    hashtags: "#tattoo, #art, #maori, #japanese"
+    hashtags: "#tatuaggio, #dragontattoo, #tattoo, #torino"
   - username: "horibenny"
     fullname: >-
       彫紅 Hori Benny
     bio: >-
       🌸 Osaka Tattoo Artist 👽 Invasion Club Owner @invasionclubJP 🦾 #Otattoo ⛩️ Author: Japanese Tattoos 👯‍♀️ Sponsor: @cheyenne_tattooequipment Booking↓
     location: "Japan"
-    followers: 124736
-    engagement: 610
-    commentsToLikes: 0.011821
+    followers: 132270
+    engagement: 597
+    commentsToLikes: 0.011550
     id: ck134wx41yla90i19ol82zkrg
     verified: false
-    hashtags: "#animetattoo, #otattoo, #cheyennetattooequipment, #blacklivesmatter"
-  - username: "thedeadpigeon"
-    fullname: >-
-      Magnus Jansson
-    bio: >-
-      I'm a Swedish illustrator & tattoo artist living in Tokyo. Youtube: Sketches & Coffee
-    location: "Japan"
-    followers: 19896
-    engagement: 613
-    commentsToLikes: 0.015385
-    id: ck9wdttwah8fz0j78filugesy
-    verified: false
-    hashtags: "#japan, #artwork, #sketchbook, #drawing"
-  - username: "keanu_illu"
-    fullname: >-
-      Mitchell Keanu | Blackbear Ink
-    bio: >-
-      • Tattoo Artist | Illustrator • keanu@blackbear.ink • Bookings OPEN • No DM please
-    location: "Japan"
-    followers: 17792
-    engagement: 305
-    commentsToLikes: 0.023953
-    id: ck5hoqu0sq25j0i11hymsppkl
-    verified: false
-    hashtags: "#linework, #blackworkerssubmission, #blackworknow, #blacktattoo"
+    hashtags: "#animetattoo, #originalcharacter, #otattoo, #animemasterink"
 ---

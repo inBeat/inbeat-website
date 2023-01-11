@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Belgium In 2022
+title: Top 10 Dancers Instagram Influencers In Belgium In 2023
 description: >-
-  Find top dancers Instagram influencers in Belgium in 2022. Most popular hashtags: #dance #dancer #love #model.
+  Find top dancers Instagram influencers in Belgium in 2023. Most popular hashtags: #dance #dancer #belgium #vibes.
 platform: Instagram
-hits: 41
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 41 Instagram influencers like this in Belgium for you to pitch.
+hits: 19
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 19 Instagram influencers like this in Belgium for you to connect with.
 profiles:
   - username: "steffi_mercie"
     fullname: >-
       Steffi Mercie
     bio: >-
-      🤍 dancer & actress 🧸 positive vibes overloaded ✨Contact: Steffi.mercie@gmail.com ✌🏽In love @gerben.tuerlinckx 🌜#Nevergiveup #Steffifam
+      💖 dancer & actress 🧸 positive vibes overloaded ✨ Contact: Steffi.mercie@gmail.com 💐 In love @gerben.tuerlinckx 🌜 #Nevergiveup #Steffifam
     location: "Belgium"
-    followers: 181558
-    engagement: 1171
-    commentsToLikes: 0.016272
+    followers: 187212
+    engagement: 1037
+    commentsToLikes: 0.007538
     id: ck8wfb84sfgja0j78qtavljkc
     verified: false
-    hashtags: "#yakult85jaar, #jbcfamily, #excited, #steffimerciexjbc"
-  - username: "kiaramintiens"
+    hashtags: "#myjewellerybelgium, #myjewellery, #galavandegoudenks, #jbcfamily"
+  - username: "tamaraarruti"
     fullname: >-
-      🤍Kiara Mintiens🤍
+      Tamara Arruti
     bio: >-
-      ♥ 22 y/o ♥ Belgium based 📍 ♥ Dancer/Fashion/Beauty/Mode.. 💕 ♥ Contact: kiara-10s@hotmail.be 📩 ♥ Julie in #LikeMe 💄 @likemeketnet ⬇️Vergeet de tijd⬇️
+      Movement director | Choreographer | Dancer •Humanity is my passion, dance is my tool• @artacompany_ |@projecthomedance info@tamaraarruti.com
     location: "Belgium"
-    followers: 11593
-    engagement: 1257
-    commentsToLikes: 0.055576
-    id: ckf5oln1s2s0t0j239p90yhzk
+    followers: 9111
+    engagement: 634
+    commentsToLikes: 0.030575
+    id: ck55ppy4cb4840i11y7klq0hq
     verified: false
-    hashtags: "#reels, #zalandostyle, #happy, #pink"
-  - username: "kvrismvtic"
-    fullname: >-
-      Michée - Child Konzi 🦑
-    bio: >-
-      LA MICHANCE X NDUANA🤞🏾 🙏🏾2Chronicles7:14💛 👣🇨🇩🇵🇹🇱🇧📍BE🇧🇪 🕺🏾Dancer🧠 Model 🖖🏾@AfroHouseBelgium ✊🏾@TheRevolutionaryBelgium 🤙🏾@DrickxKonzi👑 🙅🏾‍♂️Law Student
-    location: "Belgium"
-    followers: 16096
-    engagement: 573
-    commentsToLikes: 0.082729
-    id: ck5qcjg9aqvph0i11wwreufni
-    verified: false
-    hashtags: "#243, #streetwear, #photography, #20"
-  - username: "victoria_krs_"
-    fullname: >-
-      Vic
-    bio: >-
-      ▪️model / dancer ▪️ @therevolutionarybelgium ▪️tik tok : victoria_krs_ ▪️private account : @vicx.pv
-    location: "Belgium"
-    followers: 2786
-    engagement: 2975
-    commentsToLikes: 0.062255
-    id: ck5qcjatfquvu0i11ebcvcpf8
-    verified: false
-    hashtags: "#connection, #throwback, #workshop, #therevolutionary"
-  - username: "laurentrnbk"
-    fullname: >-
-      Laurent R.N.B.K
-    bio: >-
-      Dancer-choregrapher-videomaker 💣 @_d.t.s_ 💥 @k_dts_ 🎩 @the.league.of.gentlemen 👑 @nikkadance 👶 @marsdancestudios
-    location: "Belgium"
-    followers: 2775
-    engagement: 1658
-    commentsToLikes: 0.059014
-    id: ck55lw0um2ksf0i11dih884mz
-    verified: false
-    hashtags: "#choreographer, #dancer, #vibes, #love"
-  - username: "auroredinauxdeedee"
-    fullname: >-
-      DEEDEE | Aurore Dinaux
-    bio: >-
-      Dancer • Choreographer • Fashion Designer Collective | THE REVOLUTIONARY 📍 🇧🇪 🇬🇧 📚 Booking: aurore.dinaux@gmail.com
-    location: "Belgium"
-    followers: 3687
-    engagement: 755
-    commentsToLikes: 0.138405
-    id: ck6u3cfw9x04n0j71be6x15ei
-    verified: false
-    hashtags: "#covid19, #creators, #undizfamily, #nothingtohide"
+    hashtags: "#trixonline, #jwldms, #newvideo, #growingpains"
   - username: "elyalufwa"
     fullname: >-
-      E L Y A
+      ELYA 🌟
     bio: >-
-      dancer⁣/choreographer⁣ brussels⁣ 📍 los angeles for any inquiries/professional tings, EMAIL ME! plz
+      dancer⁣/choreographer⁣/model/actress owner of @customzbyel ✨ brussels⁣ 📍
     location: "Belgium"
-    followers: 20496
-    engagement: 687
-    commentsToLikes: 0.018535
+    followers: 24997
+    engagement: 691
+    commentsToLikes: 0.024068
     id: ck15tn78giwzr0i19b50qweo2
     verified: false
-    hashtags: "#postanddelete, #icemeout, #ad, #savageremixchallenge"
-  - username: "anae2mad"
+    hashtags: "#vibe, #passion, #choreo, #belgium"
+  - username: "dancelord_miracle"
     fullname: >-
-      𝔸ℕ𝔸𝔼 ✨
+      🤴🏽MoveLikeMiRACLE🦅
     bio: >-
-      • Dancer/Debutant actress • 📍Belgium 🇺🇲the ellen show 2019🇺🇲 Compte surveillé par 1 adulte ‼️ Contact pro : molinarikarine@gmail.com ⬇️ YouTube ⬇️
+      📍🇬🇭 Dancer | Choreographer Crdt: Beyoncé,ShattaWale,etc Mem. of @dwpacademy 🏆 Fashion @adorablecoutureusa 📢Ads | Promos💡| Private Session💃🏻 🎥YT VID⬇️
     location: "Belgium"
-    followers: 482716
-    engagement: 248
-    commentsToLikes: 0.013379
-    id: ck55lvv4k2kec0i11zcm8477v
+    followers: 41399
+    engagement: 247
+    commentsToLikes: 0.121266
+    id: ck0vwb06wsw590i19dv9304ft
     verified: false
-    hashtags: "#footlockerchallenge, #nike, #dance, #nikejuniors"
+    hashtags: "#dancelordmiracle, #fyp, #vibes, #viral"
   - username: "maxdbk20"
     fullname: >-
       Max Dbk
     bio: >-
       🌍 Belgium, Brussels ◾Dancer/Choreographer/Teacher ◾Co-founder of : 🔻@therevolutionarybelgium 🔻@summervibesdc 🔻@mixing_vibes ◾Showreel Video :
     location: "Belgium"
-    followers: 4166
-    engagement: 1478
-    commentsToLikes: 0.045307
+    followers: 4398
+    engagement: 1497
+    commentsToLikes: 0.042266
     id: ck55pna9eaxok0i11k0nstci2
     verified: false
-    hashtags: "#dance, #videodance, #lockdown, #mixed"
-  - username: "maxlukaina"
+    hashtags: "#photo, #couple, #model, #binome"
+  - username: "frankzegelsofficial"
     fullname: >-
-      Maximus
+      Frank Zegels
     bio: >-
-      Lukaina | The Movement Theory 🇧🇪 Dancer | Model 👻 Maxlukaina 📧 Maxlukaina@gmail.com
+      Professional Dancer 🇧🇪 Antwerp 💥 Owner @dance_one1 studio 🕺🏼 Pro on #dwtsbelgium #choreographer
     location: "Belgium"
-    followers: 2740
-    engagement: 2086
-    commentsToLikes: 0.057775
-    id: ck5cj3mkxtwt10i11u9liu2oy
+    followers: 7218
+    engagement: 734
+    commentsToLikes: 0.048872
+    id: ck5c2lvpfxift0i11y5ez1ey8
     verified: false
-    hashtags: "#lukaina, #belgium, #video, #art"
+    hashtags: "#couple, #love, #tour, #latin"
+  - username: "yassinjokersan"
+    fullname: >-
+      Y A S S I N  J O K E R
+    bio: >-
+      👦🏻 Human|Artist|Dancer• 📍 Brussels/Paris• 🌍 World Lover• 🐉 @evolvedanceprogram 🧿🧿🧿🧿🧿🧿🧿🧿
+    location: "Belgium"
+    followers: 6482
+    engagement: 369
+    commentsToLikes: 0.054303
+    id: ck5zpkeazstem0i140y5ecov0
+    verified: false
+    hashtags: "#dance, #jokersan, #hiphop, #stayhomeandkeeptraining"
+  - username: "jenybsg"
+    fullname: >-
+      Jenybsg
+    bio: >-
+      Professional Dancer / choreographer • @theellenshow 🇺🇸 • @afrohousebelgium CEO • @dance_4kids founder • @nweworldwide
+    location: "Belgium"
+    followers: 1093526
+    engagement: 241
+    commentsToLikes: 0.010997
+    id: ck138txu4i03i0i19gxk8wsb7
+    verified: false
+    hashtags: "#cooloffchallenge, #namedancechallenge, #kohlanta, #justiceforahmaud"
+  - username: "cey_dancer_23"
+    fullname: >-
+      Ceylan ✨
+    bio: >-
+      member @therevolutionarybelgium @motusthecompany Contact: ceylan_gulbas@hotmail.com #23#god
+    location: "Belgium"
+    followers: 3076
+    engagement: 1166
+    commentsToLikes: 0.089257
+    id: ck6tm2eqk728t0j71x8uv4j6j
+    verified: false
+    hashtags: "#dance, #girl, #dancer, #gogoclub"
+  - username: "bgtlana"
+    fullname: >-
+      Lana Verkest BGT’19
+    bio: >-
+      ⭐️Belgium’s got talent ‘19 ~Top 3 Semi-Finalist 🏆Belgian Champion modern dance 🎀Model @detailsdancewear ❤️Mories 👇🎵Tiktok:lanaverkest [16,3K]
+    location: "Belgium"
+    followers: 6440
+    engagement: 804
+    commentsToLikes: 0.026505
+    id: ck5c2m91uxj720i11nezudgb5
+    verified: false
+    hashtags: "#igers, #instahappy, #balletpak, #belgium"
 ---

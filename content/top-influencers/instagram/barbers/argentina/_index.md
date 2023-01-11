@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Argentina In 2022
+title: Top 10 Barbers Instagram Influencers In Argentina In 2023
 description: >-
-  Find top barbers Instagram influencers in Argentina in 2022. Most popular hashtags: #barber #hairstyle #barbershop #fade.
+  Find top barbers Instagram influencers in Argentina in 2023. Most popular hashtags: #barberia #barbershop #barber #menshair.
 platform: Instagram
-hits: 46
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 46 Instagram influencers like this in Argentina for you to connect with.
+hits: 42
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 42 Instagram influencers like this in Argentina for you to contact.
 profiles:
   - username: "javitolop"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       📍Living in Buenos Aires, Argentina 💈Professional Barber & Hairdresser @javierlopezhairstyle 🔮 Dreamer 🏋🏻‍♂️ Fitness Lover
     location: "Argentina"
-    followers: 13637
-    engagement: 885
-    commentsToLikes: 0.019909
+    followers: 14148
+    engagement: 780
+    commentsToLikes: 0.016142
     id: ckap0i04vqdiv0i78451bqcqk
     verified: false
-    hashtags: "#tbt, #verano2019, #mallorca, #yomequedoencasa"
+    hashtags: ""
   - username: "alexisgabrielg"
     fullname: >-
       Alexis Gabriel 💈🇦🇷
     bio: >-
-      •Barbero •Dueño [Alexis Gabriel] salón masculino •🏆 Award winner barber X14🏆 •God is good • 💈desde $400 •🏠 desde $1500 (domicilio)
+      •Barbero •Dueño [Alexis Gabriel] salón masculino •🏆 Award winner barber X14🏆 •God is good • 💈desde $500 •🏠 desde $1500 (domicilio)
     location: "Argentina"
-    followers: 12032
-    engagement: 791
-    commentsToLikes: 0.044686
+    followers: 17861
+    engagement: 1643
+    commentsToLikes: 0.021852
     id: ckap0w1eqs2dx0i78j8iy7kna
     verified: false
-    hashtags: "#barbersinc, #nastybarbers, #redone, #menstyle"
-  - username: "kayte.yb"
-    fullname: >-
-      K A Y T E 🇦🇷
-    bio: >-
-      Barber: @youngbad.k Escucha "bendecido" ft @nikilloyb ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-    location: "Argentina"
-    followers: 8882
-    engagement: 521
-    commentsToLikes: 0.014762
-    id: ckap4ssns8pjv0i781bokl6lx
-    verified: false
     hashtags: ""
-  - username: "leabarber_"
+  - username: "fadespain"
     fullname: >-
-      𝐋𝐄𝐀𝐍𝐃𝐑𝐎 𝐒𝐈𝐋𝐕𝐀🐺
+      YO INVENTE ESTE JUEGO 🤡 🗝️💈
     bio: >-
-      •𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐎🇦🇷 🏆𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐚 𝐥𝐨𝐬 𝐬𝐢𝐥𝐯𝐚🏆 •👹𝐋𝐀 𝐕𝐈𝐃𝐀 𝐄𝐒 𝐔𝐍 𝐅𝐑𝐄𝐄𝐒𝐓𝐘𝐋𝐄👹 • ➕ 𝐃𝐄 𝟑𝐊 #fadexx 🔱 • 𝕮𝖗𝖊𝖈𝖊𝖗 𝖘𝖎𝖓 𝖕𝖎𝖘𝖆𝖗 𝖆 𝖓𝖆𝖉𝖎𝖊 🌎🐾
+      🥊®CREADOR de las batallas Online por storys 🗝️ 🌏Eventos en todo el mundo 🔱Más 115k #fadespain 📚Lic en #marketing /Barber 🇪🇸Portal N°1 👨‍🏫Educador 👇
     location: "Argentina"
-    followers: 17978
-    engagement: 1391
-    commentsToLikes: 0.045350
-    id: ckapcimrh3ymu0i785ubl6ydg
+    followers: 55718
+    engagement: 170
+    commentsToLikes: 0.428781
+    id: ck13d9mmd4ct60i19lbdqx8ld
     verified: false
-    hashtags: "#barberoslatinos, #barbersinct, #color, #style"
-  - username: "imaxflight"
+    hashtags: "#menshaircut, #barbershop, #thebarberpost, #menstyle"
+  - username: "elnene_style"
     fullname: >-
-      EnjoytheFlight. EnjoytheLife.
+      e͆l͆n͆e͆n͆e͆_s͆t͆y͆l͆e͆
     bio: >-
-      Crew ✈️ Gym 💪 Travel 🌎 Buenos Aires 📍Argentina 🇦🇷 Escorpiano 🔥 Avatar 👽 196 cm. Be Free 🌈 Enamoradisimo 👬 de @_r_a_m__s_u_e_
+      💈✂️💈_____barber 🇩🇴 ________Dominicano 🇩🇴💯%_________vegano 🇺🇸 ________Brooklyn New York 📺 CANAL DE YOUTUBE ABAJO 👇🏾 ♏ ________ Escorpio
     location: "Argentina"
-    followers: 10593
-    engagement: 1007
-    commentsToLikes: 0.027930
-    id: ck5zxfp0i7xh80i14c037fgxy
+    followers: 51502
+    engagement: 75
+    commentsToLikes: 0.021770
+    id: ck139r3exmq0q0i1928pxql7p
     verified: false
-    hashtags: "#instagood, #muscle, #sexygay, #workout"
-  - username: "beedgvng"
-    fullname: >-
-      BEED G
-    bio: >-
-      📍 BA, Argentina. Disponible en todas las plataformas digitales. @lealtadmusicinc
-    location: "Argentina"
-    followers: 18087
-    engagement: 267
-    commentsToLikes: 0.038061
-    id: ckaoy8ai1gf6i0i78i5nwnjhx
-    verified: false
-    hashtags: "#twitchtv, #mood, #art, #photographer"
+    hashtags: "#faded, #mensstyle, #hairdressing, #instagood"
   - username: "gsoaressalon"
     fullname: >-
       Gabriel Soares Men’s Salon
     bio: >-
       Barcelona 📍 @soaresmencare 👇🏽RESERVA ONLINE 24/7 en👇🏽
     location: "Argentina"
-    followers: 16391
-    engagement: 332
-    commentsToLikes: 0.012763
+    followers: 16707
+    engagement: 335
+    commentsToLikes: 0.013195
     id: ck5chu1lqrgm50i11wkvcjkpo
     verified: false
-    hashtags: "#barber, #haircut, #olesademontserrat, #barcelona"
+    hashtags: "#hairstyle, #cortedepelo, #barcelona, #barber"
+  - username: "beedgvng"
+    fullname: >-
+      BEED G
+    bio: >-
+      📍 BA, Argentina. Disponible en todas las plataformas digitales. FLIPEBOMB #1 OUT NOW 👇
+    location: "Argentina"
+    followers: 17392
+    engagement: 210
+    commentsToLikes: 0.038510
+    id: ckaoy8ai1gf6i0i78i5nwnjhx
+    verified: false
+    hashtags: "#now, #latina, #rip, #beedg"
   - username: "fades.uy"
     fullname: >-
-      👹 ＴＨΞ ＧΛＭΞ ＣＨΛＮＧΞＲ  👹
+      👹 THE GAME CHANGER 👹
     bio: >-
-      🇺🇾 Portal N°1 🇺🇾 🌎 Trabajos de todo el mundo 🌍 #️⃣ Usa #fadeuy #️⃣ 💎 @jhoannhernandezz_ 💎 💅🏼 @trendingsnails 💅🏼
+      👑 The King 👑 📉 Marketing Digital 📈 🧑🏼‍💻 @jhoannhernandezz_ 🧑🏼‍💻 #️⃣ MÁS DE 9k #fadeuy #️⃣
     location: "Argentina"
-    followers: 27541
-    engagement: 291
-    commentsToLikes: 0.031835
+    followers: 26210
+    engagement: 115
+    commentsToLikes: 0.033796
     id: ck8t3j1133f570j78edh2ta7l
     verified: false
-    hashtags: "#barberpost, #nationalfadeleague, #barbercartel, #trending"
+    hashtags: "#barbertalent, #galeria, #barberforever, #worldwide"
   - username: "alejoinfamy"
     fullname: >-
       Alejo
     bio: >-
-      𝗕𝗔𝗥𝗕𝗘𝗥𝗢 𝗣𝗥𝗢𝗙𝗘𝗦𝗜𝗢𝗡𝗔𝗟 ✂️ Creador de @barberiainfamous • Artista en @slikhaartv @youtube • Sponsored by @byvilain • Team @andisclippers 💈
+      𝗕𝗔𝗥𝗕𝗘𝗥𝗢 𝗣𝗥𝗢𝗙𝗘𝗦𝗜𝗢𝗡𝗔𝗟 💈 Creador de @barberiainfamous • Asesor de Imagen @andisclippers Team
     location: "Argentina"
-    followers: 133401
-    engagement: 63
-    commentsToLikes: 0.098023
+    followers: 132573
+    engagement: 54
+    commentsToLikes: 0.090732
     id: ck14k70vho1z70i1986hii9ok
     verified: false
-    hashtags: "#pop, #barbershop, #trap, #andisclippers"
+    hashtags: "#barbero, #pop, #youtube, #deportes"
+  - username: "la_rosy15"
+    fullname: >-
+      Female_Barber
+    bio: >-
+      Sígueme en mi canal de YouTube 🎥👇🏻
+    location: "Argentina"
+    followers: 301876
+    engagement: 331
+    commentsToLikes: 0.008829
+    id: ck15uc3qjmf9e0i19ziv6xq2c
+    verified: false
+    hashtags: "#friday, #hairtrends, #barberlife, #reels"
   - username: "barberiainfamous"
     fullname: >-
       Barberia Infamous®
     bio: >-
-      Salón Barberia Masculino EST. 2009 por @alejoinfamy 📍Nicolas Avellaneda 974, Castelar ☎️ 4600-5736 Consultas 📱15-6058-1987 Reservas.
+      Salón Barberia Masculino EST. 2009 por @alejoinfamy 📍Nicolas Avellaneda 974, Castelar 📱15-6058-1987 Turnos ☎️ 4600-5736 Consultas
     location: "Argentina"
-    followers: 20734
-    engagement: 196
-    commentsToLikes: 0.025914
+    followers: 21347
+    engagement: 115
+    commentsToLikes: 0.022525
     id: ck14k70sho1x50i19e2d8rrjg
     verified: false
-    hashtags: "#fade, #barbershop, #championsleague, #barberia"
+    hashtags: "#musica, #barbershop, #championsleague, #fade"
 ---

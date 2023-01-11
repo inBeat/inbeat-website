@@ -1,24 +1,60 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Greece In 2022
+title: Top 10 Vegan Instagram Influencers In Greece In 2023
 description: >-
-  Find top vegan Instagram influencers in Greece in 2022. Most popular hashtags: #vegan #greece #healthylifestyle #love.
+  Find top vegan Instagram influencers in Greece in 2023. Most popular hashtags: #greece #vegan #giveaway.
 platform: Instagram
-hits: 49
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 49 Instagram influencers like this in Greece for you to work with.
+hits: 38
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 38 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "samantha__elizabeth_"
+  - username: "sabrinalutz"
     fullname: >-
-      Samantha Elizabeth
+      Sabrina Lutz 🌞
     bio: >-
-      y o u t u b e r . sharing a whole bunch of my life on the internet . vegan + yoga teacher
+      kitesurf child | happy traveler I yogini 🌈 yoga teacher RYT 200 european champion🥇12x german champion yoga on & off the mat ✨ 🌿veggie & vegan foodie
     location: "Greece"
-    followers: 19789
-    engagement: 162
-    commentsToLikes: 0.048602
-    id: ck6u7yci7odz40j717n7m5k2n
+    followers: 7944
+    engagement: 604
+    commentsToLikes: 0.019700
+    id: ck5c5uukk46v40i11j5moonoa
     verified: false
-    hashtags: "#yoga, #yogaeverydamnday, #grateful, #yogatelaviv"
+    hashtags: "#vacation, #germany, #kite, #home"
+  - username: "annapavlidouofficial"
+    fullname: >-
+      🥥 Άννα Παυλίδου 🥥
+    bio: >-
+      ✨ Founder, CEO & Hostess of @famoosh.gr ✨ ✨ YouTuber / Vegan / 🐶🐱mom ✨ “Επιχειρηματίας...με το Ζόρι” 👇🏻 𝑮𝒆𝒕 𝒎𝒚 𝐁𝒐𝒐𝒌 𝑵𝒐𝒘 👇🏻
+    location: "Greece"
+    followers: 23080
+    engagement: 265
+    commentsToLikes: 0.010249
+    id: ck9wp6ea580980j782xyeipuu
+    verified: false
+    hashtags: "#feelingfree, #epixeirimatiasmetozori, #annapavlidouofficial, #summer2021"
+  - username: "wholesomeboholife"
+    fullname: >-
+      ANNA & ZHIVKO ☼ BOHO TRAVELERS
+    bio: >-
+      📍Greece 🇬🇷 ⋒ vegans for the Earth ✧ follow Anna’s daily life ⇸ @annas_wholesomeboholife⁣⁣ ⇣ more ⇣
+    location: "Greece"
+    followers: 22965
+    engagement: 242
+    commentsToLikes: 0.248196
+    id: ck14hqy7zbora0i19dd360fio
+    verified: false
+    hashtags: "#greeceis, #amorgosgreece, #travelgreece, #journeysofgirls"
+  - username: "kosuke6"
+    fullname: >-
+      kosuke6
+    bio: >-
+      What is art?Life KeyGrip-Filmmaker/Kendo/Prague❤️Athens Thoughts flow,like clouds in the sky,and you're heaven. Vegan🙏🏻justAman🤟🏻lifeLover📽@justgrips
+    location: "Greece"
+    followers: 18787
+    engagement: 417
+    commentsToLikes: 0.013232
+    id: ck5bvd96djfax0i1109yi1mps
+    verified: false
+    hashtags: ""
   - username: "memevictim2000x"
     fullname: >-
       Sauced
@@ -31,54 +67,42 @@ profiles:
     id: ck1354cwgzn6y0i19zghp7ny9
     verified: false
     hashtags: "#wcw"
-  - username: "thehealthycookblog"
+  - username: "madamegingercom"
     fullname: >-
-      Evi Skoura 🇬🇷
+      Madame Ginger ♥︎
     bio: >-
-      Healthy Food Blogger | Recipe Developer | Food photographer Athens, GR Contact : DM or 📧info@thehealthycook.gr #thehealthycookblog
+      🌱 Delicious plant-based recipes ♻️ #easyGREEN eco living tips 📕 Writer of «ΔΕ ΚΟΥΚΜΠΟΥΚ» & «GREEN ΚΟΥΚΜΠΟΥΚ»
     location: "Greece"
-    followers: 13676
-    engagement: 614
-    commentsToLikes: 0.252550
-    id: ck8szk115oqri0j781nmk3c7g
+    followers: 188939
+    engagement: 194
+    commentsToLikes: 0.079711
+    id: ck5cburn5g7ak0i11x69lfmye
     verified: false
-    hashtags: "#fresh, #greek, #tv, #allazoumesinithies"
-  - username: "isiaaak"
+    hashtags: "#veganfood, #food, #foodmehard, #cookwithginger"
+  - username: "marasamartzi"
     fullname: >-
-      Justyna Kamińska
+      MARA SAMARTZI
     bio: >-
-      Greece- Larissa🌅 / Poland- Szczecin 🏡 |Architect | welcome to my breakfast world Save 15% on yoursuperfoods order with code: isiak15 💛
+      BEAUTY & LIFESTYLE YOUTUBER Watch my latest video ▼
     location: "Greece"
-    followers: 23659
-    engagement: 300
-    commentsToLikes: 0.102822
-    id: ck5hrcekmumzz0i1137fxkxfp
+    followers: 125386
+    engagement: 746
+    commentsToLikes: 0.273541
+    id: ck8t0am4iretb0j78jlgv0qub
     verified: false
-    hashtags: "#healthyfoodlover, #breakfastinbed, #wellness, #recipe"
+    hashtags: "#myskinloveskorea, #climaxsafely, #narsissist, #neverfakeit"
   - username: "foodaroundgreece"
     fullname: >-
       𝔽𝕠𝕠𝕕 𝔸𝕣𝕠𝕦𝕟𝕕 𝔾𝕣𝕖𝕖𝕔𝕖
     bio: >-
       ⚠︎︎𝗙𝗼𝗼𝗱 𝗚𝘂𝗶𝗱𝗲 ♔𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗱𝗲𝘀𝘁𝗶𝗻𝗮𝘁𝗶𝗼𝗻𝘀 ❤︎𝗛𝗼𝗺𝗲𝗺𝗮𝗱𝗲 𝗿𝗲𝗰𝗶𝗽𝗲𝘀 𝗳𝗼𝗿 𝗮𝗹𝗹 𝘁𝘆𝗽𝗲𝘀 𝗼𝗳 𝗱𝗶𝗲𝘁𝘀 ☀︎︎𝗗𝗮𝗶𝗹𝘆 𝗳𝗼𝗼𝗱 𝗶𝗻𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 ☞︎𝗙𝗼𝗿 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝗗𝗠 𝗼𝗿 𝗘𝗺𝗮𝗶𝗹
     location: "Greece"
-    followers: 11082
-    engagement: 474
-    commentsToLikes: 0.034644
+    followers: 14286
+    engagement: 426
+    commentsToLikes: 0.185373
     id: ck5zxygrr8wbj0i14rs3v9258
     verified: false
-    hashtags: "#athensfoodguide, #breakfastlover, #sugar, #athensvoice"
-  - username: "caroline_de_souza"
-    fullname: >-
-      Carol. 🇧🇷🇬🇷
-    bio: >-
-      An old soul /art creator #cdsouza_art . ... when im not painting i am @happy_kitchenart
-    location: "Greece"
-    followers: 26011
-    engagement: 91
-    commentsToLikes: 0.027788
-    id: ck6uelk6zrncn0j71n70o30mz
-    verified: false
-    hashtags: "#fiquememcasa, #fiqueemcasa, #art, #cdsouza"
+    hashtags: "#ig, #vegan, #athensfood, #pancakes"
   - username: "efi_koloverou_dietitian"
     fullname: >-
       Dr Efi Koloverou
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.035971
     id: ck5zn51abnspg0i14ob50s6ej
     verified: false
-    hashtags: "#instalifestyle, #panhellenic, #greekstagram, #nutritionlessons"
-  - username: "goldenrosegreece"
+    hashtags: "#tadeefi, #nutritionlessons, #lent, #greekstagram"
+  - username: "avgerinoscosmetics"
     fullname: >-
-      Golden Rose Greece
+      Avgerinos Cosmetics
     bio: >-
-      Η Επίσημη σελίδα GOLDEN ROSE 🇬🇷 Londessa S.A. Cosmetics💄 #️⃣ #goldenrosegreece 🏢 @goldenrosestorekavala 👍 facebook.com/goldenrosegreece 🛍️SHOP ONLINE👇
+      Worldwide shipping 🌐 www.avgerinoscosmetics.gr 📍Σύνταγμα ☎️ 21 0324 6901 📍Χαλάνδρι ☎️2106820844 📍Κηφισιά ☎️2108086316 📍Μελίσσια ☎️2102796238
     location: "Greece"
-    followers: 41390
-    engagement: 149
-    commentsToLikes: 0.054194
-    id: ck5pvdwn1he8q0i1183at24jh
+    followers: 114272
+    engagement: 134
+    commentsToLikes: 0.179519
+    id: ck5c6cetv55fu0i11adn71zpn
     verified: false
-    hashtags: "#kissproof, #matteliquidlipstick, #crueltyfree, #gr"
-  - username: "a_leandra_"
-    fullname: >-
-      alex.
-    bio: >-
-      Live ✌️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Love 💕 Travel 🌏 J♥ | DO📍💛👫| RE 👨‍👩‍👧 | DUS👨🏼‍⚖️ A_LEANDRA@web.de
-    location: "Greece"
-    followers: 6399
-    engagement: 871
-    commentsToLikes: 0.105308
-    id: ckap5r3eqct0k0i78jyvbsq66
-    verified: false
-    hashtags: "#love, #summeroutfit, #travel, #fashionlover"
-  - username: "ele_xtz"
-    fullname: >-
-      𝑬𝑳𝑬𝑭𝑻𝑯𝑬𝑹𝑰𝑨 🍍 𝑪𝑯𝑨𝑱𝑰𝑫𝑰𝑴𝑰𝑻𝑹𝑰𝑶𝑼
-    bio: >-
-      𝗚𝗿𝗲𝗲𝗰𝗲🌎 • 𝗹𝗲𝗳𝗶𝟭@𝘄𝗶𝗻𝗱𝗼𝘄𝘀𝗹𝗶𝘃𝗲.𝗰𝗼𝗺📩 • 𝗝𝘂𝗻𝗲, 𝟭𝟳🎂
-    location: "Greece"
-    followers: 7994
-    engagement: 830
-    commentsToLikes: 0.511467
-    id: ckf5nf0lkxzfx0j2313dqx41d
-    verified: false
-    hashtags: "#nails, #giveaway, #fashion, #jewellery"
+    hashtags: "#beautyproducts, #vegan, #skincare, #body"
 ---

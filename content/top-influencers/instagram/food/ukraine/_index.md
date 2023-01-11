@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Ukraine In 2022
+title: Top 10 Food Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top food Instagram influencers in Ukraine in 2022. Most popular hashtags: #instagood #me #beautiful.
+  Find top food Instagram influencers in Ukraine in 2023. Most popular hashtags: #food #foodporn #makeup.
 platform: Instagram
-hits: 121
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 121 Instagram influencers like this in Ukraine for you to work with.
+hits: 37
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 37 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "annaspoda"
-    fullname: >-
-      🌸 ANIKA 🌸
-    bio: >-
-      FOOD-флорист @annaranika Мастер спорта по дзюдо 🥋 Гримёр 👩🏻‍🎨 любитель
-    location: "Ukraine"
-    followers: 7314
-    engagement: 2249
-    commentsToLikes: 0.050058
-    id: ck9wf4quan6zc0j783b0b2nz4
-    verified: false
-    hashtags: ""
   - username: "annagirm"
     fullname: >-
       A.n.n.a G.i.r Malowany 🌺
     bio: >-
       Good life blogger 🤳🏻 Born in Odessa Ukraine 🇺🇦 Living in Israel 🇮🇱 Traveling the world 🌎 Food 😋 and wine 🍷 fan
     location: "Ukraine"
-    followers: 5937
-    engagement: 2000
-    commentsToLikes: 0.166215
+    followers: 5594
+    engagement: 2134
+    commentsToLikes: 0.160600
     id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
-    hashtags: "#weekend, #fantastic, #lovethispic, #instalike"
-  - username: "ana.ignatenko"
+    hashtags: "#smile, #happygirl, #enjoyinglife, #cheers"
+  - username: "yuliyaliya_"
     fullname: >-
-      Мамасита 👧🏻Жена моряка⚓️Блогер
+      Yuliya
     bio: >-
-      • Амбассадор счастливых отношений❤️ • Главная морячка Одессы 🌊 • Семейный бизнес с любовью @mamasita.food.ua 🌱 • Реклама 💌 @ignatenko.cooperation
+      Lifestyle•beauty•food•insta 🌙тут щиро
     location: "Ukraine"
-    followers: 29241
-    engagement: 310
-    commentsToLikes: 0.125592
-    id: ck5zoz4rzrnxf0i14du0bhorq
+    followers: 43414
+    engagement: 311
+    commentsToLikes: 0.067380
+    id: ckaowv0h5akhg0i78lmq3d3cx
     verified: false
     hashtags: ""
-  - username: "_kuznetsova_"
+  - username: "kp_zhuravleva"
     fullname: >-
-      Olga Kuznetsova
+      Кристина Журавлева
     bio: >-
-      Fashion & Lifestyle & Food ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 📍Poland, Zabrze based From Ukraine 🇺🇦
+      ▫️Воронеж/Москва ▫️FCSM ❤️ ▫️Я художник, я так вижу 🔞 @art.zhura ▫️Нутрициолог, ПП 🥦 @zhura.foodorgasm
     location: "Ukraine"
-    followers: 6193
-    engagement: 2498
-    commentsToLikes: 0.025949
-    id: ckap3ub224ij50i787ff5imnr
+    followers: 67357
+    engagement: 302
+    commentsToLikes: 0.021658
+    id: ckaowtlq4aeaj0i7836f64q6l
     verified: false
-    hashtags: ""
-  - username: "adriana_turkevych"
-    fullname: >-
-      ADRIANA 🌾
-    bio: >-
-      • Beauty ( проверяю и • Fashion ( рекомендую) • Food ( вкусно ем )🍝 • Cook ( рецепты ) • Travel • Ballroom dancer ⠀ 💌 Offers in direct or 👇🏻
-    location: "Ukraine"
-    followers: 48107
-    engagement: 711
-    commentsToLikes: 0.007313
-    id: ckf5n23l0weo80j23hkv6vbqv
-    verified: false
-    hashtags: "#covid"
-  - username: "julia_shelegova"
-    fullname: >-
-      Юлия Тихоступ (Шелегова)
-    bio: >-
-      Женский фотограф 📸 И много котиков в stories 😻 free, calm and happy 💕 Mood FOOD 📹 :
-    location: "Ukraine"
-    followers: 7092
-    engagement: 525
-    commentsToLikes: 0.069620
-    id: ck5q1hoc0b13t0i11ntuo2lhv
-    verified: false
-    hashtags: ""
-  - username: "ktaniak"
-    fullname: >-
-      Tatiana Koberidze
-    bio: >-
-      «Best food blogger» 2019 DIVA Awards FEA Queen of the ring 2019👑 🔥Грузинка с характером Сталина🔥 Ты залипнешь на моих сторис! По работе- на почту плиз
-    location: "Ukraine"
-    followers: 97097
-    engagement: 340
-    commentsToLikes: 0.012324
-    id: ck6u88ojwq32q0j71dy08f75u
-    verified: false
-    hashtags: "#couplegoal, #kievlife, #happyblonde, #kievtoday"
-  - username: "hozhelnyk"
-    fullname: >-
-      ɴᴀᴛᴀʟɪ ʜᴏᴢʜᴇʟɴʏᴋ💔
-    bio: >-
-      BABY🍯👉🏽@beeloved.ua Photographer📸 @hozhelnykphoto Співпраця👉🏽👉🏽DIRECT Navigation 👉🏽#hozhelnykphoto Director🎥#hozhelnykvideo #hozh_food 🦋love my job
-    location: "Ukraine"
-    followers: 27428
-    engagement: 294
-    commentsToLikes: 0.022698
-    id: ck0tyfko7mlsg0i19uez6jbd1
-    verified: false
-    hashtags: "#hozhelnykphoto, #anastasiabeverlyhills"
-  - username: "_________yanchik_________"
-    fullname: >-
-      Yana Shevchenko
-    bio: >-
-      VIP flight attendant ✈️ Finalist Kniagynia Ukraine 2017👑 1st vice Miss Summer Queen 2017👑 Food expert ,nutritionist🔬 Model, fitness💃🏼
-    location: "Ukraine"
-    followers: 23936
-    engagement: 429
-    commentsToLikes: 0.035942
-    id: ckap39ll824ni0i78xszp1ok4
-    verified: false
-    hashtags: "#model, #likemypic, #young, #likemyphoto"
+    hashtags: "#kraken"
   - username: "klopotenko"
     fullname: >-
       Ievgen Klopotenko
     bio: >-
       Chef🔪Improver of the Ukrainian food culture 🇺🇦 Co-owner @100rokivtomuvpered Store @gastroprikhozhane Ambassador @frankeukraine info@klopotenko.com
     location: "Ukraine"
-    followers: 515780
-    engagement: 139
-    commentsToLikes: 0.013356
+    followers: 547276
+    engagement: 173
+    commentsToLikes: 0.014884
     id: ck5hrjyzxuzqt0i11djcpm5e7
     verified: true
+    hashtags: "#franke, #makeitwonderful, #frankeukraine"
+  - username: "fashionfoodfoto"
+    fullname: >-
+      ФУД ФОТОГРАФ (ХАРЬКОВ)
+    bio: >-
+      Christy 📸 Still life and food photographer О еде и жизни 🍳🥗🎂🍷☕ 🍽 Cook, make photo, enjoy! 📍Kharkov, UA По поводу съёмки пишите в директ
+    location: "Ukraine"
+    followers: 30728
+    engagement: 234
+    commentsToLikes: 0.045323
+    id: ck0u69u5f1f4b0i190egbt0bh
+    verified: false
+    hashtags: "#opinelonelove, #fff, #opinel, #opinelknife"
+  - username: "family.fest"
+    fullname: >-
+      Найсімейніший фестиваль Львова
+    bio: >-
+      🙌🏻Бренд зона+food+game+chill 👨‍👩‍👧‍👦7 березня 🎪Палац Мистецтв, вул. Коперника 17 ⏰12:00-20:00 ⚡️Вхід 40 грн 💙Реєстрація на бренд/food зону на сайті👇🏻
+    location: "Ukraine"
+    followers: 14861
+    engagement: 168
+    commentsToLikes: 0.002674
+    id: ck0tz6zb3pa9y0i191qhekptw
+    verified: false
     hashtags: ""
+  - username: "vladkardash"
+    fullname: >-
+      Фотограф Vlad Kardash
+    bio: >-
+      Весільне/будуарне/контент-планове фото📸 Знімаю по всій Україні🇺🇦 7 років в сфері фотографії😮 Відзняв понад 1млн кадрів🤗 Співпраця/реклама - direct✉️
+    location: "Ukraine"
+    followers: 40506
+    engagement: 158
+    commentsToLikes: 0.011376
+    id: ck5hcs0sajo9n0i11vwb9hrh5
+    verified: false
+    hashtags: "#nudeartphotography, #nude, #photography, #nudedrawing"
+  - username: "svitlanasokoliuk"
+    fullname: >-
+      Svitlana Bondarenko
+    bio: >-
+      ⠀ 👠Co-founder @largo.fashion ☝️Розкажу як зібрати базовий гардероб 🌏Подорожую 21 країна 🗺️Навігація⬇️
+    location: "Ukraine"
+    followers: 20894
+    engagement: 241
+    commentsToLikes: 0.080819
+    id: ckaoszfmytp3z0i78fvv2b22a
+    verified: false
+    hashtags: "#masks, #look, #spain, #food"
+  - username: "cooking_by_yuliya"
+    fullname: >-
+      Cooking_by_Yuliya
+    bio: >-
+      Зі мною готувати легко ! Прості страви на кожен день ! В процесі змін ❤️ Співпраця @cby_cooperation_ Навігація ⬇️
+    location: "Ukraine"
+    followers: 143844
+    engagement: 509
+    commentsToLikes: 0.012718
+    id: ck6u73jcnj9kq0j71h772os4y
+    verified: false
+    hashtags: "#food, #foodblog, #blog, #blogger"
+  - username: "yefym.kravchenko"
+    fullname: >-
+      Yefym Kravchenko🦦
+    bio: >-
+      Pastry chef 🇺🇦 ▪️ frantic art and design. ▪️ international consulting and master classes. 🔴YOUTUBE:
+    location: "Ukraine"
+    followers: 21399
+    engagement: 1014
+    commentsToLikes: 0.011646
+    id: ck8tcpp1h07gx0j78bp4rffta
+    verified: false
+    hashtags: "#pastryart, #foodporn, #pastry, #cake"
 ---

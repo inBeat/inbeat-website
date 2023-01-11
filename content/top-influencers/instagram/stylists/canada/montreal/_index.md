@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Montreal In 2022
+title: Top 10 Stylists Instagram Influencers In Montreal In 2023
 description: >-
-  Find top stylists Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #mtl #style #fashionstyle.
+  Find top stylists Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #love #fashion.
 platform: Instagram
-hits: 12
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 12 Instagram influencers like this in Montreal, Canada for you to contact.
+hits: 4
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 4 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "ariacalli"
+  - username: "aliciasmcn"
     fullname: >-
-      ARIA〰️fashion beauty lifestyle
+      Alicia S Mcnamara
     bio: >-
-      montreal stylist / creative 🤠
+      @etcanada 💕 Be Kind & Hustle 💕
     location: "Canada"
-    followers: 3300
-    engagement: 1369
-    commentsToLikes: 0.250973
-    id: ck8tbksikw1420j78ip326zz7
+    followers: 13478
+    engagement: 536
+    commentsToLikes: 0.277124
+    id: ck138v2jui69c0i19purjhp67
     verified: false
-    hashtags: "#productphotography, #beatthealgo, #andsave, #skinstagram"
-  - username: "annita_mompellert"
+    hashtags: "#toronto, #ootd, #wardrobestylist, #love"
+  - username: "leahmcflywaackeisha"
     fullname: >-
-      Anne Laura
+      Leah McFly-Waackeisha
     bio: >-
-      🕊Always be yourself & never stop dreaming! 📍Born HAV 🇨🇺 • Home MTL 🇨🇦 ♡ Fashion lover • Lifestyle • Fitness • Travel
+      Dancer, Creative Director, Choreographer & stylist, cosmic healer, actress agency @dacosta_talent Tetris game-you'll disapear if you try to FIT IN
     location: "Canada"
-    followers: 52019
-    engagement: 224
-    commentsToLikes: 0.080186
-    id: ck0w0jffuei2p0i19um5n3392
+    followers: 10214
+    engagement: 331
+    commentsToLikes: 0.075310
+    id: ck8swtzvkf8dm0j78c7hu0l8b
     verified: false
-    hashtags: "#mtlady, #walkonnow, #ad, #montreal"
-  - username: "davidkidd_portfolio"
+    hashtags: "#mtlvintage, #90s, #funk, #dance"
+  - username: "allisonelang"
     fullname: >-
-      🦉David Kidd | Photographer🦉
+      ALLISON E. LANG
     bio: >-
-      🌿@davidkidd 🌿 🌹Montreal,Canada 🌹 📍 now in montreal 📍 |199X|Dm📥| pour 🍇infos Et booking🍇 ✨Audition⬇️Iconly✨
+      amputee & body inclusivity advocate 🇨🇦 educator | athlete | model | traveler | jokester rep by @agencelasuite 𖤥 mtl subscribe to my YouTube⤵
     location: "Canada"
-    followers: 8079
-    engagement: 563
-    commentsToLikes: 0.075280
-    id: ck5ciu4n9tdjh0i11bg2j10aa
+    followers: 9872
+    engagement: 501
+    commentsToLikes: 0.099625
+    id: ckap3rwrc4ar60i78z29q3lf1
     verified: false
-    hashtags: "#model, #montrealphotos, #hat, #tattoos"
-  - username: "minaj.mp"
+    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
+  - username: "ouijdane_mo"
     fullname: >-
-      ♏️inajmp💮
+      Ouijdane | Fashion Blogger ✨
     bio: >-
-      Stylist~Model~Beauty pro~Vlogger I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨 🔒@pouria_roozitalab Model @unik.models
+      - 𝒍𝒆𝒕 𝒎𝒆 𝒓𝒆𝒎𝒊𝒏𝒅 𝒚𝒐𝒖 🕊️ - 𝒕𝒉𝒊𝒔 𝒊𝒔 𝒎𝒚 𝒐𝒏𝒍𝒚 𝒂𝒄𝒄𝒐𝒖𝒏𝒕 🙌🏻 -📍𝒎𝒐𝒏𝒕𝒓𝒆́𝒂𝒍, 𝒄𝒂𝒏𝒂𝒅𝒂 🇨🇦 - 𝒄𝒐𝒍𝒍𝒂𝒃 📩: Mamouniouijdane@gmail.com
     location: "Canada"
-    followers: 59018
-    engagement: 273
-    commentsToLikes: 0.095481
-    id: ckaotndqcwn0x0i78myma80eh
+    followers: 63769
+    engagement: 405
+    commentsToLikes: 0.031466
+    id: ckap5jd9rby2q0i78j7t0sbgr
     verified: false
-    hashtags: "#modeling, #fashionphotography, #love, #fashion"
-  - username: "diutoajoku"
+    hashtags: "#mtl, #fashioninspo, #smile, #photooftheday"
+  - username: "styledbyamrita"
     fullname: >-
-      Diuto Ajoku (리아)
+      Amrita 🌸
     bio: >-
-      • 🙏🏾Jesus is my King❤️❤️ • @cocobayhair • Fashion/Hair stylist | Makeup Artist • Email👇🏾 • 🎥129k YT munchkins •📍Montreal🇨🇦 • New video👇🏾
+      LA | Vancouver Published Wardrobe Stylist | PR | styledbyamrita@gmail.com
     location: "Canada"
-    followers: 55214
-    engagement: 1392
-    commentsToLikes: 0.045004
-    id: ck6u0t4yihm150j713a6z3doq
+    followers: 15572
+    engagement: 471
+    commentsToLikes: 0.052211
+    id: ck15pzh1f0ec70i19leafodw0
     verified: false
-    hashtags: "#makeupforwoc, #melaningoddess, #leatherjackets, #montrealhairdresser"
-  - username: "caillebot"
+    hashtags: "#alohouse"
+  - username: "arshmultanii"
     fullname: >-
-      Claire • FOOD & 📸
+      𝐀𝐑𝐒𝐇 𝐌𝐔𝐋𝐓𝐀𝐍𝐈
     bio: >-
-      || Auteure du blog CAILLEBOT 👩🏻‍🍳👩🏻‍💻 || Créatrice de contenu, Styliste & Photographe culinaire 🌸 📍Montréal 🇨🇦 ⛵️From la Normandie & Paris 👩🏻‍🌾🇫🇷
+      vancouver, bc • 6’2” influencer, stylist, owner @offwhitefilms and more use #yourstyleplug to get noticed email to work 🤍
     location: "Canada"
-    followers: 4648
-    engagement: 1266
-    commentsToLikes: 0.157723
-    id: ck5cezx50m1tj0i11hknvtool
+    followers: 10106
+    engagement: 1485
+    commentsToLikes: 0.041385
+    id: ck9whlru1yg5q0j78b0c5bxrf
     verified: false
-    hashtags: "#recettehealthy, #homemadefood, #foodphotography, #pumpkin"
-  - username: "nicolasdionstyle"
+    hashtags: "#trueoutfit, #modishgallery, #trillestoufit, #urbanstylemens"
+  - username: "bohemewandering"
     fullname: >-
-      Fashion | Oufit Inspiration
+      Leilani ⋒ piscean mermaid
     bio: >-
-      •Outfit Ideas | Fashion posts | Blogger •Casual Style | Street Style •Sneakers, shoes and accessories •Business owner | 📍Montreal🇨🇦
+      Philosophic spiritualist . Poet & speaker. Channeller. Vintage curator & stylist. Collage artist. Microdosing with @blumlabss - “LEILANI15” 🍄
     location: "Canada"
-    followers: 147817
-    engagement: 261
-    commentsToLikes: 0.042510
-    id: ckapa03rru6bp0i78n4sfz2fq
+    followers: 18968
+    engagement: 75
+    commentsToLikes: 0.136602
+    id: ck5hm2zualaad0i116k5nnxmm
     verified: false
-    hashtags: "#instastyle, #streetstyle, #mensfashion, #outfit"
-  - username: "lowkeemtl"
+    hashtags: "#islandgirl, #yyj, #vintagestyle, #bohemehoney"
+  - username: "aurelafashionista"
     fullname: >-
-      LowkeeMTL⏱
+      Aurela Nasedkin
     bio: >-
-      •Montreal Artist/Rapper🎤🎤 •Videographer Life🎬🎬 •Photography Gang📸📸 •Barz On Barz Out Now!!🔥🔥
+      STYLIST 📩 aurelafashionista@gmail.com
     location: "Canada"
-    followers: 9092
-    engagement: 1378
-    commentsToLikes: 0.097155
-    id: ckap1tuynw4ea0i78inu1b58u
+    followers: 149371
+    engagement: 46
+    commentsToLikes: 0.144150
+    id: ck0tv8m4iabzl0i19t4aimlpi
     verified: false
-    hashtags: "#newmusicalert, #rapgod, #rapper, #mixtape"
-  - username: "maryem_wesleti"
+    hashtags: "#haircut, #hairtransformation, #maxmara"
+  - username: "josiestevens"
     fullname: >-
-      Mimi 🇹🇳🇨🇦
+      Josie Stevens
     bio: >-
-      Half Tunisian, Half Canadian 📍Montreal, Sousse
+      Fashion designer & stylist, interior designer, MUA. TV Personality-E!’s “Married to Rock”.
     location: "Canada"
-    followers: 56013
-    engagement: 234
-    commentsToLikes: 0.000509
-    id: ckap6vmsghj810i78wdxdslvm
-    verified: false
-    hashtags: "#pictureday, #instapic, #instamoment, #canada"
-  - username: "veveordie"
+    followers: 46142
+    engagement: 290
+    commentsToLikes: 0.062584
+    id: ck0vw9j9wspmu0i1933ue7baz
+    verified: true
+    hashtags: "#youractionssavelives, #rockthevote, #dollskill, #slowthespread"
+  - username: "hoodhippiespice"
     fullname: >-
-      Vincent 🌈| Montreal 🇨🇦
+      🦋SUZUKI🦋
     bio: >-
-      Travel Photographer 51 Countries Visited🌎 veveordie@gmail.com
+      🧚🏾 we connected bb GROOVY STYLIST expressive🎍 @spice.disposablez☮️
     location: "Canada"
-    followers: 9383
-    engagement: 572
-    commentsToLikes: 0.022928
-    id: ck14lit5buwa20i199kkgn9fb
+    followers: 6544
+    engagement: 957
+    commentsToLikes: 0.067502
+    id: ck5bukbt3hxw90i11rm05cbk2
     verified: false
-    hashtags: "#architecture, #qc, #nature, #montreallife"
+    hashtags: "#pride"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Dallas In 2022
+title: Top 10 Health Instagram Influencers In Dallas In 2023
 description: >-
-  Find top health Instagram influencers in Dallas in 2022. Most popular hashtags: #motivation #fitness #health #healthylifestyle.
+  Find top health Instagram influencers in Dallas in 2023. Most popular hashtags: #health #fitness #dallas #fitnessmotivation.
 platform: Instagram
-hits: 120
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 120 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 105
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 105 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "humbly_bald"
+  - username: "dulcediana"
     fullname: >-
-      HumblyBaggYo 🏄🏾‍♂️💰 | Dallas📍
+      𝗗𝗶𝗮𝗻𝗮 𝗣𝗮𝗿𝗲𝗷𝗮 | 𝗛𝗼𝘂𝘀𝘁𝗼𝗻 𝗧𝗿𝗮𝗶𝗻𝗲𝗿
     bio: >-
-      🔹Follow @positively__humble ✨🧘🏽‍♂️🖤 🔹UCF ALUM⚡️⚔️ 🔹Duval Raised👌🏽, Orlando 4Ever❤️ 🔹Blessed🙏🏽 🔹76ers🏀 🔹1904💙💛 #LongLiveAuntieAngel🕊 #LongLiveSacha🕊
+      Personal Trainer & Online Coach 🇨🇴 @doubletaketeam Strength•Balance•Movement #IAM1STPHORM Apply for coaching in the link ⤵️
     location: "United States"
-    followers: 2199
-    engagement: 1439
-    commentsToLikes: 0.102597
-    id: ckaoxawaccjnn0i78n2bfbqqt
+    followers: 12578
+    engagement: 338
+    commentsToLikes: 0.051676
+    id: ckwx3iv46wlz30j235p34o6w4
     verified: false
-    hashtags: "#positiveenergy, #positivity, #confidence, #family"
-  - username: "tonyd_ifbbpro"
+    hashtags: "#latina, #gluteworkout, #houston, #legday"
+  - username: "antoine_howard"
     fullname: >-
-      Tony Davis
+      Antoine Howard
     bio: >-
-      🥇2016 IFBB NAmerica Championship Overall Champion 🏋🏾‍♂️PT Dallas
+      🧠 Mindset Architect 👥Community Advocate 🏋🏽‍♂️Master Group Fitness Instructor (3x) Founder of @iamlifted_ Get involved ⬇️
     location: "United States"
-    followers: 10471
-    engagement: 404
-    commentsToLikes: 0.017355
-    id: ck14j5e8jipst0i19l5sgeup7
+    followers: 7876
+    engagement: 166
+    commentsToLikes: 0.051987
+    id: ck6tzcjuy8wp70j71vc0z7kvv
     verified: false
-    hashtags: "#frenchiesofinstagram, #privategym, #bookyourappointment, #goonsquad"
-  - username: "curlybeviie"
+    hashtags: "#training, #dallaslovelist, #thingstodoindallas, #dallasfitness"
+  - username: "dmillsfitness"
     fullname: >-
-      Auntie Bev, MS🌼
+      Personal Trainer Dallas TX
     bio: >-
-      24 | CEO/Founder @neocurly | Master of Science in Psychology | Dallas, Tx | Beauty, Self Love, Health, Confidence & Natural Life | Black Girl Magic ✨|
+      🌐 Functional Movement Specialist ◾️Coach @innerstrengthwarehouse ◾️10 years PT experience ◾️100+ body transformations ◾️Apply for coaching⬇️
     location: "United States"
-    followers: 199673
-    engagement: 885
-    commentsToLikes: 0.010701
-    id: ck5cbnpwqftey0i11mfpnd1mw
+    followers: 15194
+    engagement: 189
+    commentsToLikes: 0.091606
+    id: ck8swcw4ldt9j0j78af531ufe
     verified: false
-    hashtags: "#bhcosmetics, #nyxcosmetics, #fentybeauty, #ipsyfutureyou"
-  - username: "notyouravg_mom"
+    hashtags: "#fitnessmotivation, #lvlup, #fitness, #igfitness"
+  - username: "itsanniegraft"
     fullname: >-
-      Brenda Garza
+      Annie 😋💪🏼🍍
     bio: >-
-      Lifestyle Blogger & #contentcreator 🤝 Here to inspire healthy living through nutrition, fitness, beauty & business. 📍Dallas TX 📧 DM for collabs
+      📍dtx, Living a 7-day weekend🤘🏼 @letsgetuncomfy.podcast 🎙160k plays est Aug ‘20 Fit App: @fitlifefitme_fam 📲 🚫Judgement-Free Zone🚫 Vegan bizz owner🌿
     location: "United States"
-    followers: 22619
-    engagement: 639
-    commentsToLikes: 0.067088
-    id: ckap0ncegr1y10i780nlz0oh0
+    followers: 99990
+    engagement: 345
+    commentsToLikes: 0.008506
+    id: ck13c3zd8yi7v0i19x85xz3bk
     verified: false
-    hashtags: "#votelikeamadre, #momlife, #healthylifestyle, #skincare"
-  - username: "nwebb94"
+    hashtags: "#vulnerability, #applepodcasts, #spotifypodcast, #selftrust"
+  - username: "nathankwebb"
     fullname: >-
       Nathan Webb
     bio: >-
-      Englishman 🇬🇧chasing the American 🇺🇸 Dream. 📍Dallas, Tx Ephesians 6:11
+      Englishman🇬🇧Living the American🇺🇸Dream @netflix @toohotnetflix Season 2 📺 📩: nathankwebbmgmt@gmail.com
     location: "United States"
-    followers: 24689
-    engagement: 2366
-    commentsToLikes: 0.039813
+    followers: 440383
+    engagement: 1194
+    commentsToLikes: 0.013897
     id: ck8tcbst8yz0c0j78onpb7rsn
     verified: false
-    hashtags: "#bodybuilding, #picoftheday, #fitspo, #fitnessmodels"
-  - username: "janellepaigebrandom"
+    hashtags: "#fitspo, #gym, #dallas, #toohottohandle"
+  - username: "amyachanel"
     fullname: >-
-      Janelle Paige Brandom
+      AMYACHANEL🦋
     bio: >-
-      💃Fashion, Fitness, Positivity, Health, Faith ✨Come as you are 👇🏻Blog, Outfits, Shop 📍Dallas
+      Entertainer/choreographer💜 Freelance Model Email for collaborations and partnerships✨ SUBSCRIBE to my channel‼️
     location: "United States"
-    followers: 103807
-    engagement: 244
-    commentsToLikes: 0.077318
-    id: ck0w745zgbo0a0i19vsflcbuj
+    followers: 12304
+    engagement: 740
+    commentsToLikes: 0.074924
+    id: ck8swjyv9ecco0j78n5epipc9
     verified: false
-    hashtags: "#fallfashion, #amazonfinds, #october, #fall"
-  - username: "lyndsayyxoxo"
+    hashtags: "#explore, #beauty, #dallasdancers, #heelsdance"
+  - username: "dannichick34"
     fullname: >-
-      Lyndsay
+      Danni  [Texas Fashion Blogger]
     bio: >-
-      •CB💍💕 •NY ➡️ Dallas, Texas📍 •Racecars🏁 •Dog mom🐾 •Fitness💪🏻 •Photographer: @capturedbylynds📸 •@buckedupsupps: Lyndsay.20 for 20% off!
+      ♡ Dallas Fashion + lifestyle blogger Affordable Everyday Size 4/6 Fashion 💋 💌 DM/Email to work together
     location: "United States"
-    followers: 10991
-    engagement: 3008
-    commentsToLikes: 0.032913
-    id: ck9ham3tbd1xk0j785m5kf7i4
+    followers: 9430
+    engagement: 363
+    commentsToLikes: 0.291442
+    id: ck5zk971fj25n0i144lbmf379
     verified: false
-    hashtags: "#gymaholic, #selflove, #buckedupbabes, #fitnessmotivation"
-  - username: "cinphotos"
+    hashtags: "#neutrallook, #neutralstyle, #texasfashion, #fashionblogger"
+  - username: "shalese_gallagher"
     fullname: >-
-      Cinthia ✨ Dallas Photographer
+      Shalese Gallagher
     bio: >-
-      Boldly capturing the magic and authenticity in women and brands | Latina 🇲🇽 Mental Health Advocate ✨ Body Posi
+      Utah 27 Financial Professional Titan and Kingston’s mom Kallie Edwards Petersen Success Fund ⬇️
     location: "United States"
-    followers: 3638
-    engagement: 1242
-    commentsToLikes: 0.167470
-    id: ck0w2g4s6o6we0i19u6cftf43
+    followers: 17352
+    engagement: 403
+    commentsToLikes: 0.024152
+    id: ck14gp9ak6d1n0i19fr2atr4h
     verified: false
-    hashtags: "#vote, #sinmiedo"
-  - username: "dearciera"
+    hashtags: "#mom, #influencer, #singlemom, #boymom"
+  - username: "streetsbeatseats"
     fullname: >-
-      C I E R A  H O K E
+      casey brown | self love
     bio: >-
-      Content Creator | Dallas📍 💼| Engineer @Facebook 🧘🏽‍♀️| Fitness Enthusiast 💄| Skincare lover 🤝| Mental Health Advocate 🥾|Retired Army Veteran
+      self love + body confidence journey ✨ curvy fashion | fitness | ed recovery | mental health things to do in dallas, tx 📍 📧 Casey@StreetsBeatsEats.com
     location: "United States"
-    followers: 23137
-    engagement: 1132
-    commentsToLikes: 0.037577
-    id: ck5hg59dy0zm30i11yj2t9jef
+    followers: 111099
+    engagement: 268
+    commentsToLikes: 0.027462
+    id: ck1375vwj9xy10i197v3h3258
     verified: false
-    hashtags: "#dearciera, #travelgram, #tourists, #styleinspiration"
-  - username: "skyepolk"
+    hashtags: "#itsonlyworthitifyouenjoyit, #ad, #ltkcurves, #tkpartner"
+  - username: "theplasticnp"
     fullname: >-
-      Skye Polk- Fashion Blogger
+      Jen Pilotte, APRN
     bio: >-
-      Dallas based Fashion Blogger ✨ Helping modern women stay affordably stylish Petite friendly|Mental Health Advocate Skyepolk@Gmail.com Shop my looks⤵️
+      Nurse Practitioner at LAPSC America’s Top 💯 Injector 📱TEXT ‘book’ to 214-571-7089 & follow prompts 📆BOOKING April/May 2021
     location: "United States"
-    followers: 13899
-    engagement: 308
-    commentsToLikes: 0.310755
-    id: ck15qcbo525yd0i1965dbvfdg
+    followers: 52202
+    engagement: 88
+    commentsToLikes: 0.064058
+    id: ck5q52uitr5mo0i118g52dmmw
     verified: false
-    hashtags: "#ltkstyletip, #ltkfall, #sponsored, #liketkit"
+    hashtags: "#skincare, #liquidnosejob, #antiaging, #skin"
 ---

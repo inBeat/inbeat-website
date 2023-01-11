@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Artists TikTok Influencers In 2022
+title: Top 10 Makeup Artists TikTok Influencers In 2023
 description: >-
-  Find top makeup artists TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #makeup #halloween.
+  Find top makeup artists TikTok influencers in 2023. Most popular hashtags: #duet #makeup #fyp #greenscreen.
 platform: TikTok
-hits: 301
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 301 TikTok influencers like this for you to contact.
+hits: 324
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 324 TikTok influencers like this for you to collaborate.
 profiles:
-  - username: "alyjae4real"
+  - username: "thedaltonlevi"
     fullname: >-
-      Aly Jae
+      DaltonLevi
     bio: >-
-      👑Storyteller/Actress/Makeup Artist 📧 alyjaemua@gmail.com “However, Comma” ♊️
+      ❤️ Kinda a Makeup Artist/Actor/Singer P.O. Box 1195 Jacksonville Alabama 36265❤️
     location: "United States"
-    followers: 137400
-    engagement: 2389
-    commentsToLikes: 0.046685
-    id: ckahxrsgywexa0i784lo10o7u
+    followers: 104200
+    engagement: 2556
+    commentsToLikes: 0.085335
+    id: ck8zb75vi4esq0j78mw3gu0et
     verified: false
-    hashtags: "#greenscreen, #stitch, #greenscreenvideo, #duet"
-  - username: "angelaardz"
-    fullname: >-
-      Angela Rodríguez
-    bio: >-
-      ✨No permitas que tú brillo se apague ✨ MAKEUP ARTIST💄 CHEER🎀
-    location: "Mexico"
-    followers: 404800
-    engagement: 2200
-    commentsToLikes: 0.026969
-    id: ck9m0yl7qcgbr0j786ordbm9w
-    verified: false
-    hashtags: "#fashionbootcamp, #tutorial, #catrinamiamor, #diademuertos"
+    hashtags: "#teamlevi, #duet, #stitch, #greenscreen"
   - username: "parameswaransivakumar"
     fullname: >-
       பரமேஸ்வரன் சிவகுமார்
     bio: >-
       You must do the things you think you cannot do. MAKEUP ARTIST
     location: "Malaysia"
-    followers: 15200
-    engagement: 2087
-    commentsToLikes: 0.081958
+    followers: 16500
+    engagement: 2215
+    commentsToLikes: 0.104640
     id: ckbf8g46xz14p0j23uy4sohla
     verified: false
-    hashtags: "#parameswaransivakumar, #beurself, #makeupartist, #loveurself"
-  - username: "mo0nliet"
+    hashtags: "#wecandoanything, #parameswaran, #parameswaransivakumar, #360hkfoodmoments"
+  - username: "sheltercatmell"
     fullname: >-
-      🦋lawliet🦋
+      Michelle Pierce
     bio: >-
-      makeup artist 🤍follow my instagram; mo0nliet🤍 collab; moonliet.light@gmail.com
-    location: "Spain"
-    followers: 12600
-    engagement: 2745
-    commentsToLikes: 0.060160
-    id: ckbw28qlvwjbt0j23ik396g0q
-    verified: false
-    hashtags: "#makeupartist, #makeuptutorial, #fyp, #parati"
-  - username: "pauliesfx"
-    fullname: >-
-      Paulie
-    bio: >-
-      Makeup artist Instagram: paulie_sfx YouTube/SC pauliesfx Email for inquiries
+      Nonbionary💜💛, Full Time Parent, Makeup Artist 🎨, Musician🎶 and Model!
     location: "United States"
-    followers: 1700000
-    engagement: 1939
-    commentsToLikes: 0.021396
-    id: ck8oqpbyc8h7z0j78m1ttyse0
-    verified: true
-    hashtags: "#foryou, #tutorial, #scary, #foryoupage"
-  - username: "aliciatoolemua"
-    fullname: >-
-      Alicia Toole
-    bio: >-
-      FT Mom & Creative Makeup Artist that enjoys LIFE! Follow me on IG for more looks
-    location: "United States"
-    followers: 36500
-    engagement: 1815
-    commentsToLikes: 0.091502
-    id: ckc928q53soni0j231xdy9m4z
+    followers: 67300
+    engagement: 1983
+    commentsToLikes: 0.115869
+    id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#creative, #fun, #tiktok, #beauty"
+    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
+  - username: "amyjartistry"
+    fullname: >-
+      Amy J
+    bio: >-
+      Makeup Artist amyjartistry@gmail.com
+    location: "United Kingdom"
+    followers: 33300
+    engagement: 1894
+    commentsToLikes: 0.058846
+    id: ckavjfllas2qv0j234brs62i2
+    verified: false
+    hashtags: "#valentine, #duet, #makeupartist, #bossit2021"
   - username: "sacrecoeur96"
     fullname: >-
       Courtney🦇
     bio: >-
       Arx Mortis 🎃 Makeup Artist 🎨 Spooky 24/7 👻 Viewers Beware 👹 ⚠️18+⚠️
     location: "United States"
-    followers: 253200
-    engagement: 1715
-    commentsToLikes: 0.030790
+    followers: 252600
+    engagement: 1894
+    commentsToLikes: 0.042667
     id: ckb9l09b5ddnw0j234rw4l4v9
     verified: false
-    hashtags: "#voodoo, #demon, #witch, #haunt"
-  - username: "phinamua"
+    hashtags: "#aloistheclown, #scatterbrain, #hauntactor, #invri"
+  - username: "oddball_artzwi"
     fullname: >-
-      phina M.U.A
+      oddball_artzwi
     bio: >-
-      MAKEUP ARTIST you tube :-phinamua Instagram:-phina_mua
-    location: "India"
-    followers: 27700
-    engagement: 2672
-    commentsToLikes: 0.338526
-    id: ckck26365lgvz0j236wulqf3q
-    verified: false
-    hashtags: "#tiktokindia, #sharethecare, #phinamua, #trending"
-  - username: "canassavictor"
-    fullname: >-
-      Victor Canassa
-    bio: >-
-      Makeup artist/ Singer Insta: @canassavictor Contato: vicanassa09@gmail.com
-    location: "Brazil"
-    followers: 82800
-    engagement: 2615
-    commentsToLikes: 0.026098
-    id: ckcps74rjmbpf0j23946vmcb1
-    verified: false
-    hashtags: "#makeup, #maquiagem, #maquiagemartistica, #make"
-  - username: "kennidimonroe"
-    fullname: >-
-      Kennidi Monroe
-    bio: >-
-      Trans Recording & Makeup Artist PO Box 2811, Cypress, TX 77410 ⬇️Merch🔸Links⬇️
+      WI Makeup Artist This profile is 🔥CHAOS🔥 WELCOME she/her LGBTQ+ Ally
     location: "United States"
-    followers: 16800
-    engagement: 3394
-    commentsToLikes: 0.136294
-    id: ckb8zope7fbbc0j238bappgww
+    followers: 19700
+    engagement: 1740
+    commentsToLikes: 0.116700
+    id: ckcps1ur4m4pc0j23gpuqzj1q
     verified: false
-    hashtags: "#comingofage, #brideofchucky, #meleaving, #welldone"
+    hashtags: "#plussize, #altgirlsummer, #callcenterstorytime, #callcenter"
+  - username: "irlreedtard"
+    fullname: >-
+      Alaynaaa
+    bio: >-
+      ga Wannabe makeup artist Vitaminsad - snap
+    location: "United States"
+    followers: 21200
+    engagement: 2138
+    commentsToLikes: 0.049252
+    id: ckaci8hb12dbg0i78p81ywfef
+    verified: false
+    hashtags: "#thesuicidesquadmovie, #quickbooksvictorypose, #liveflowsweatduet, #hotwirehotelgoals"
+  - username: "samisk00l"
+    fullname: >-
+      sam
+    bio: >-
+      16 self taught wannabe makeup artist she/her
+    location: "United States"
+    followers: 75300
+    engagement: 2261
+    commentsToLikes: 0.035243
+    id: ckdt3nddmsk2h0j23jrnt0kh4
+    verified: false
+    hashtags: "#euphoria, #isthisavailable, #greenscreen, #valentinesmakeup"
+  - username: "thebrooklynpost"
+    fullname: >-
+      Brooklyn 🎨
+    bio: >-
+      Makeup artist Turn your creativity Into a Masterpiece 🎨 P.O Box 592 Empire Co
+    location: "United States"
+    followers: 50800
+    engagement: 1563
+    commentsToLikes: 0.062677
+    id: ckbf4f0mgsvf20j23r0kvxesj
+    verified: false
+    hashtags: "#artist, #itwasntme, #tomandjerry, #fyp"
+  - username: "bitchieasian"
+    fullname: >-
+      Bitchieasian
+    bio: >-
+      🍭Lisa🍭 🎨Makeup artist🎨 🌙Cosplay🌙 🌸🇳🇱DUTCH & VIET🇻🇳🌸 🦋she/they🦋
+    location: "Netherlands"
+    followers: 297000
+    engagement: 2289
+    commentsToLikes: 0.021315
+    id: ck83ypb3auid40j78rxdbllf0
+    verified: false
+    hashtags: "#danganronpa, #fnafcosplay, #danganronpacosplay, #junkoenoshimacosplay"
 ---

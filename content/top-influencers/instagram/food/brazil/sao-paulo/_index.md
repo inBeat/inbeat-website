@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Sao Paulo In 2022
+title: Top 10 Food Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top food Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #love #look #moda.
+  Find top food Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #food #instafood #foodstyling.
 platform: Instagram
-hits: 83
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 83 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 69
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 69 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
+  - username: "dutokushima"
+    fullname: >-
+      Eduardo Tokushima
+    bio: >-
+      Food specialist São Paulo, Brasil
+    location: "Brazil"
+    followers: 2856
+    engagement: 927
+    commentsToLikes: 0.076518
+    id: ck5c8lkhf9qsq0i119d55jkpu
+    verified: false
+    hashtags: "#sdd, #backbypopulardemand"
   - username: "priscilastuckynacozinha"
     fullname: >-
       Priscila Stucky
@@ -18,88 +30,88 @@ profiles:
     commentsToLikes: 0.182250
     id: ckf5ovz1m40710j23wo0zyb5f
     verified: false
-    hashtags: "#fotodecomida, #rap10resolvebonito, #foodstyling, #foodstylist"
-  - username: "o_denao"
+    hashtags: "#foodstyling, #foodstylist, #fotodecomida, #rap10resolvebonito"
+  - username: "sou.silverio"
     fullname: >-
-      DΞNIS ΔNGΞLᎾ
+      Sou Silverio
     bio: >-
-      🏁 | @approvcar ⚓️ | @larocclub | @ame.club 🧢 | @madrugaosuplementos 15% off 🏷DENAO 🎗 | #Jesus #Aesthetics
+      
     location: "Brazil"
-    followers: 36515
-    engagement: 104
-    commentsToLikes: 0.115789
-    id: ck8tdrew04i360j78jdt7g1w9
+    followers: 16693
+    engagement: 120
+    commentsToLikes: 0.025536
+    id: ck133yv9iuf3y0i198blzezak
     verified: false
-    hashtags: "#sc, #balneario, #summer, #amor"
-  - username: "dutokushima"
+    hashtags: "#quarentena, #instagood, #fiqueemcasa, #love"
+  - username: "joaoeff19_chefdecozinha"
     fullname: >-
-      Eduardo Tokushima
+      João Evangelista
     bio: >-
-      Food specialist no @tastydemais @buzzfeedbrasil São Paulo, Brasil
+      📽📸Aproveitando a Quarentena para compartilhar boas receitas. Acompanhe os Stories e o IGTV. 😉😉😉 🍳Cozinheiro 🍽Eventos Gastronômicos Outras Mídias👇👇👇
     location: "Brazil"
-    followers: 2846
-    engagement: 984
-    commentsToLikes: 0.075199
-    id: ck5c8lkhf9qsq0i119d55jkpu
+    followers: 15008
+    engagement: 902
+    commentsToLikes: 0.193272
+    id: ckf5vl9nboyqt0j2325gbju9f
     verified: false
-    hashtags: ""
-  - username: "vivaanos8090"
+    hashtags: "#sobremesa, #receitaslowcarb, #jejumintermitente, #jejum"
+  - username: "tastyfoodle"
     fullname: >-
-      @vivaanos8090 📺🎵🎼
+      Tasty Food
     bio: >-
-      @vivaanos8090 📺🎵🎼 REVIVA CONOSCO OS ANOS 80 E 90 🤗 #blog #frases #anos80 #fe #retro #musica #fotografia #nostalgia #love #followme #instagram
+      
     location: "Brazil"
-    followers: 106502
-    engagement: 187
-    commentsToLikes: 0.064751
-    id: ck8t35ew91xtc0j787l7b3upk
+    followers: 1556
+    engagement: 18352
+    commentsToLikes: 0.009640
+    id: ck9we9jpmj9tj0j788fqi8hom
     verified: false
-    hashtags: "#beleza, #blog, #sport, #flashback"
-  - username: "gabrielabarivieira"
+    hashtags: "#brasil, #healthybowl, #yummy, #delicioso"
+  - username: "victorahmar"
     fullname: >-
-      Gabriela Barivieira
+      Victor Ahmar
     bio: >-
-      Aqui só existe o bem 🙌🏻💕 • Fashion | Beauty | Lifestyle | Travel • Assessora: Leticia +55 51 9100-2209 Porto Alegre, RS. #gabrielabarivieira
+      Comediante, roteirista e um pão de queijo. Parcerias: victorahmar@gmail.com/ victor@changodigital.com.br AGENDA COMPLETA:
     location: "Brazil"
-    followers: 124043
-    engagement: 129
-    commentsToLikes: 0.038771
-    id: ck0u6nymj2lkl0i19ad5ir9mg
+    followers: 105679
+    engagement: 637
+    commentsToLikes: 0.015357
+    id: ck13616eq48uf0i193of5cil7
     verified: false
-    hashtags: "#moda, #photo, #details, #love"
-  - username: "brunomarquesofc"
+    hashtags: "#standupcomedy, #jokes, #humor, #comedia"
+  - username: "ledamiguell"
     fullname: >-
-      𝐁𝐫𝐮𝐧𝐨 𝐌𝐚𝐫𝐪𝐮𝐞𝐬
+      Mãe Matraca
     bio: >-
-      𝙼𝚊́ 𝙸𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛 | 𝙳𝚒𝚌𝚊𝚜 𝚙𝚊𝚛𝚊 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝙻𝚒𝚏𝚎𝚂𝚝𝚢𝚕𝚎 | 𝙳𝚒𝚌𝚊𝚜 𝚍𝚎 𝚖𝚘𝚍𝚊 𝙲𝚞𝚒𝚊𝚋𝚊́ 𝙼𝚃📍 𝙲𝚘𝚗𝚝𝚊𝚝𝚘 𝚋𝚛𝚞𝚗𝚘𝚌𝚋𝚊𝟷𝟻@𝚑𝚘𝚝𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
+      👱🏻‍♀️Mãe da Lara e do Luiz 👧🏼👦🏼 ☺️ Tagarelando sobre a vida com muito carinho. 📩 Parcerias via direct 📍 Campinas SP #seutreinoinspira
     location: "Brazil"
-    followers: 21921
-    engagement: 281
-    commentsToLikes: 0.072842
-    id: ckf5ot4qx3q4d0j23plhtqsx7
+    followers: 41385
+    engagement: 102
+    commentsToLikes: 0.076395
+    id: ck0vwezrstdnn0i19n6y6kgyn
     verified: false
-    hashtags: "#summer, #swag, #igers, #instalike"
-  - username: "anabelleassato"
+    hashtags: "#book, #indaiatuba, #comida, #vinhedo"
+  - username: "chefantoniomaiolica"
     fullname: >-
-      Anabelle Assato
+      Antonio Maiolica
     bio: >-
-      aprendendo e ensinando sobre: maquiagem | cabelo | dicas 💖 •📍Limeira - gemini •dream without limits....💫
+      From Salerno 🇮🇹 São Paulo 🇧🇷 "Think global. Eat local" 🐃 @bufala_almeida_prado @pop_up_cucina 🏆 Melhor Trattoria Veja São Paulo 2019
     location: "Brazil"
-    followers: 19025
-    engagement: 1428
-    commentsToLikes: 0.355750
-    id: ck8swxp2rfl1s0j783ve2f1zw
+    followers: 17133
+    engagement: 164
+    commentsToLikes: 0.030744
+    id: ck5zkl2asjob70i14bb6ox383
     verified: false
-    hashtags: "#makeuplover, #model, #challenger, #exploremore"
+    hashtags: "#italy, #jardins, #higienopolis, #saopaulo"
   - username: "myketakashi"
     fullname: >-
       Myke Takashi
     bio: >-
       ▪️ Jornalismo | Marketing e comunicação 📍 São Paulo - Curitiba ✨ Saúde | lifestyle | food | autocuidado✨
     location: "Brazil"
-    followers: 13256
-    engagement: 982
-    commentsToLikes: 0.064936
+    followers: 17512
+    engagement: 752
+    commentsToLikes: 0.063914
     id: ckap1g78xugko0i78k3czew7o
     verified: false
     hashtags: "#lagoaazul, #tbt, #blackouttuesday"
@@ -109,22 +121,10 @@ profiles:
     bio: >-
       23 | São Paulo - SP 📍 Lifestyle • Palmeiras • Food • Tech • Beauty Electrical Engineer ⚡️| @verdonnas adm
     location: "Brazil"
-    followers: 2178
-    engagement: 1210
-    commentsToLikes: 0.280575
+    followers: 2227
+    engagement: 881
+    commentsToLikes: 0.268090
     id: ck8t26ww8yd620j780em7wfjm
     verified: false
-    hashtags: "#tbt, #omomicelarinsiders, #omomicelar, #theinsidersbrasil"
-  - username: "luizalacerda"
-    fullname: >-
-      Luiza Lacerda
-    bio: >-
-      São Paulo 📍 Fashion | Dicas | Photos | Food ✨ 📧 contatoluizalacerda@hotmail.com
-    location: "Brazil"
-    followers: 22989
-    engagement: 228
-    commentsToLikes: 0.053649
-    id: ck15ub3fkmaze0i19y23h224j
-    verified: false
-    hashtags: "#arrasteparaolado"
+    hashtags: "#avantipalestra, #omomicelarinsiders, #omomicelar, #theinsidersbrasil"
 ---

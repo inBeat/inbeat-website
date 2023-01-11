@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Boston In 2022
+title: Top 10 Fitness Instagram Influencers In Boston In 2023
 description: >-
-  Find top fitness Instagram influencers in Boston in 2022. Most popular hashtags: #fitness #boston #bostonfitness #mondaymotivation.
+  Find top fitness Instagram influencers in Boston in 2023. Most popular hashtags: #fitness #boston #motivation #fitnessmotivation.
 platform: Instagram
-hits: 130
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 130 Instagram influencers like this in Boston, United States for you to work with.
+hits: 111
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 111 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
-  - username: "bspokestudios"
+  - username: "runnersrepost"
     fullname: >-
-      B/SPOKE Studios
+      Runners Repost
     bio: >-
-      Boston | CAPE HOUSE | Wellesley | @dripcafebos Created To Improve Life Streaming ON DEMAND and LIVE Classes
+      RUN / SHARE / INSPIRE TO BE FEATURED: 👉🏻 Follow @runnersrepost 👉🏻 #RunnersRepost Keep on running!
     location: "United States"
-    followers: 28046
-    engagement: 90
-    commentsToLikes: 0.032475
-    id: ck55lj7wt1p6v0i11fjwc7avl
+    followers: 29746
+    engagement: 49
+    commentsToLikes: 0.006958
+    id: ck5cjix23utc40i11z399c37f
     verified: false
-    hashtags: "#dayinthelife, #cycling, #mindfulness, #bspokelife"
-  - username: "barley__thegolden"
+    hashtags: "#halfmarathontraining, #fitfluential, #runnergirl, #runnerscommunity"
+  - username: "sarahmc_fit"
     fullname: >-
-      Barley 🎾
+      Sarah McElligott
     bio: >-
-      🌾Barley ☀️Goldiva Golden 🏆AKC Certified Golden: Sail Away Goldiva 📍Boston, MA 🎈4/4/2018 Hobbies: Beach Bum, Chasing Squirrels & Eating Treats
+      📍Boston Fitness / Lifestyle 🦋 👸🏻Owner: @mcfitclique 💫 @nvgtn / @legion athlete ↓ apply for 1:1 coaching & links ↓
     location: "United States"
-    followers: 2780
-    engagement: 1360
-    commentsToLikes: 0.075141
-    id: ck8szvglspv2x0j78kgtqm5d8
+    followers: 262000
+    engagement: 125
+    commentsToLikes: 0.022820
+    id: ck8t4ljw177160j78igq2m2p6
     verified: false
-    hashtags: "#goldensofinstagram, #instadogsfeature, #dogsofcalifornia, #maine"
-  - username: "africarubiop"
+    hashtags: "#justcbd"
+  - username: "clairerunsthere"
     fullname: >-
-      Africa Rubio / Health Coach
+      Claire
     bio: >-
-      Health Coach @nutritionschool Co-Founder @bostonwomensmarket - @namastaywell.co YSTT~RYTT 200~GFI~YIN NAMASTAY HOME WORKOUTS™ SIGN UP HERE⬇️
+      🔹Non🏃🏼‍♀️->self coached Boston mthnr x 3🦄 🔹Boston ‘21💙💛 🔹26.2x21, BQx9, 🏃🏼‍♀️ing 9 yrs 🔹Momx4 💙💗💗💙 🔹Interior dsgnr/Artist 🔹Nutrition grad stdnt
     location: "United States"
-    followers: 11224
-    engagement: 393
-    commentsToLikes: 0.040329
-    id: ck14jacm1jby30i194h487oqj
+    followers: 20620
+    engagement: 343
+    commentsToLikes: 0.173559
+    id: ckap52ymi9ynt0i788vwaujei
     verified: false
-    hashtags: "#movedaily, #healthandwellness, #namastayhomeworkouts, #eatwell"
-  - username: "tolakinyo54"
+    hashtags: "#runnerscommunity, #womenrunning, #bostonmarathontraining, #runitfast"
+  - username: "laurenwelcome"
     fullname: >-
-      Tola Morakinyo
+      Lauren Welcome
     bio: >-
-      Fitness|Food|Naps🔄 @nobullproject @invictusboston @properfuel IF3|GRID|CF
+      ACSM-CPT B.S. Kinesiology, UMass Amherst Doctor of Physical Therapy, Tufts University ‘22
     location: "United States"
-    followers: 23155
-    engagement: 473
-    commentsToLikes: 0.021300
-    id: ck5zua9vz1zdy0i14eqz5kvab
+    followers: 9333
+    engagement: 419
+    commentsToLikes: 0.038469
+    id: ckf5le9eup9qf0j236gj9mry3
     verified: false
-    hashtags: "#invictusathlete, #nobull, #oly, #tbt"
-  - username: "patreck257"
+    hashtags: "#equinoxtrainer, #igfit, #homeworkout, #womenshealth"
+  - username: "payydayyy"
     fullname: >-
-      Patrick Reckner
+      Payton Stumbaugh Chadwick
     bio: >-
-      Temple Alum BS Kinesiology CPT and Sports Performance Coach Apparel @tlaathletics Supplements @questnutrition
+      @asics Athlete • Arkansas Alumni • USA 🥈 • @traegergrills • @macrostax • @uniblen 📍Fayetteville, AR
     location: "United States"
-    followers: 20864
-    engagement: 233
-    commentsToLikes: 0.059386
-    id: ckap85vc1myo90i78gapi431d
+    followers: 9943
+    engagement: 1119
+    commentsToLikes: 0.051758
+    id: ck6ttzvwrdif40j71zt7z25ev
     verified: false
-    hashtags: "#npcbodybuilding, #sponsor, #tlaathletics, #sponsored"
-  - username: "niaraijezie"
+    hashtags: "#soundmindsoundbody, #usatf, #olympictrials, #track"
+  - username: "rodneylavoiejr"
     fullname: >-
-      NiARA IJEZIE
+      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
     bio: >-
-      Welcome to my world 😌💅🏾✨ Boss Beauty | Spiritual | Traveler | Real Estate Agent ~ Lifestyle page @bostonloftyliving Click the link to see more 👇🏾
+      🎙 Motivational Speaker 🧠 Mental Health Awareness 🫂 Life Coach 📚501(c)3:@TheWarriorsofPurpose 🎧 Podcast:@SilenceKillsMovement 📲 Back-up:@SurvivorRodney
     location: "United States"
-    followers: 3514
-    engagement: 706
-    commentsToLikes: 0.161989
-    id: ck6tifle60mhs0j711ru3rnsr
-    verified: false
-    hashtags: "#blackbloggers, #selflove, #love, #thebloggerpoint"
-  - username: "jetkotee"
+    followers: 393099
+    engagement: 659
+    commentsToLikes: 0.040046
+    id: ck6u2a8u3qmzb0j71yukdua4n
+    verified: true
+    hashtags: "#motivation, #miami, #depression, #selflove"
+  - username: "mojax98"
     fullname: >-
-      JET 💎• 🌍
+      Moses Jackson
     bio: >-
-      Boston | @FitnessByJet (fitness programs below ↓)
+      Boston MA📍 NBA dunker World traveler Free runner #acrobatics #fitnessmotivation
     location: "United States"
-    followers: 27485
-    engagement: 1057
-    commentsToLikes: 0.035517
-    id: ckap5d823b5h80i78uc1w7axc
+    followers: 19001
+    engagement: 319
+    commentsToLikes: 0.015663
+    id: ck0w2yh1jqqjn0i191be54o7t
     verified: false
-    hashtags: "#explore, #jetfit, #abschallenge, #fitnesschallenge"
-  - username: "provisionsbypaige"
+    hashtags: "#tb, #freerunning, #boston, #gymnastics"
+  - username: "andrewmolen"
     fullname: >-
-      PAIGE HEMMEN
+      Andrew Molen
     bio: >-
-      22 📍stl, boulder, boston food | fitness | all the things that make me :)
+      🍴🍷#Food & #Beverage 🏠NewYork,NY|Boston,MA
     location: "United States"
-    followers: 4349
-    engagement: 913
-    commentsToLikes: 0.139488
-    id: ckaorrruiogfs0i784ukczyv9
+    followers: 40835
+    engagement: 377
+    commentsToLikes: 0.032136
+    id: ck5cfy6fsnt5r0i1132qbzjea
     verified: false
-    hashtags: "#provisionsplates, #spring, #sorrynotsorry"
-  - username: "irun26point2__"
+    hashtags: "#covid19, #chefsofinstagram, #lol, #fun"
+  - username: "petermollofitness"
     fullname: >-
-      Patrick Cutter
+      Peter Mollo
     bio: >-
-      🏃🏻‍♂️| 🏋🏻‍♂️ Weight Lifting |🗽NY | 585 | 26.2 x 22⌚️2:34 | 13.1 x 18⌚️1:12 Go One More☝🏼 #teambpn Use code: Cutter Run Coach @mckirdytrained
+      * Founder Peter Mollo Fitness * B.S. Physical Education * ACE CPT * Fit/Nutrition Specialist * Sports Performance Specialist * ⬇️ JOIN US NOW ⬇️
     location: "United States"
-    followers: 52956
-    engagement: 524
-    commentsToLikes: 0.044310
-    id: ck5zsuultz84b0i14mom50fdw
+    followers: 21622
+    engagement: 147
+    commentsToLikes: 0.076023
+    id: ck5hllsi1kfwh0i11cmj9znyk
     verified: false
-    hashtags: "#irun, #cardio, #runner, #runningcommunity"
+    hashtags: "#fitness, #legs, #womenshealth, #boston"
   - username: "jessicagcookmusicc"
     fullname: >-
       Jessica Glynn Cook
     bio: >-
-      Will sing for burgers 🎙 🍔 🖤 ABA Therapist, grad student, educator, singer, 🌈 DM for business inquiries!
+      I gave myself quaran-cut bangs and I need likes to boost my self-esteem Will sing for burgers 🎙 🍔 🖤 ABA Therapist, grad student, educator, singer, 🌈
     location: "United States"
-    followers: 16736
-    engagement: 212
-    commentsToLikes: 0.090662
+    followers: 15674
+    engagement: 107
+    commentsToLikes: 0.140122
     id: ck136amh55kgv0i19di5h6gsm
     verified: false
-    hashtags: "#bestsingers, #perfectvocalz, #songwriters, #musicianlife"
+    hashtags: "#picoftheday, #naturephotography, #photooftheday, #instagood"
 ---

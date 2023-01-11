@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In New York In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In New York In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in New York in 2022. Most popular hashtags: #tattooartist #tattoo #newyork #tattoos.
+  Find top tattoo-artists Instagram influencers in New York in 2023. Most popular hashtags: #tattoo #tattooartist #tattoos #newyork.
 platform: Instagram
-hits: 99
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 99 Instagram influencers like this in New York, United States for you to pitch.
+hits: 104
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 104 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "mikhailandersson"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ▪️Tattoo artist ▪️Laser removal ▪️CEO/owner @firstclassnyc 🗽New York ▪️info@mikhailandersson.com▪️646-998-5203🇺🇸 🎥 @mikhail.nyc
     location: "United States"
-    followers: 57684
-    engagement: 228
-    commentsToLikes: 0.020196
+    followers: 57187
+    engagement: 131
+    commentsToLikes: 0.058119
     id: ck13au7h3s7jy0i19iigl0uti
     verified: false
-    hashtags: "#ink, #inked, #tattooed, #newtorktattoo"
-  - username: "yinessa_nicole"
+    hashtags: "#colortattoo, #crazyytattoos, #tattoo, #inked"
+  - username: "goldy_z"
     fullname: >-
-      YINESSA NICOLE, RN, BSN💋
+      Zlata Kolomoyskaya
     bio: >-
-      Tattoo Artist #ATL Awesome Ink Studios 1331 Marietta Blvd NW DM 2 BOOK #tlcproducts 💫 Registered Nurse (ICU) 💉❤️ Tattoos 👉🏽 @inkedby_nessa
+      Co-owner @dot.creativegroup Booking February and March NYC No work DMs please
     location: "United States"
-    followers: 37855
-    engagement: 143
-    commentsToLikes: 0.028643
-    id: ck5zqqzcwv4gl0i14zafxn8hk
+    followers: 184762
+    engagement: 382
+    commentsToLikes: 0.016676
+    id: ck5ho6dvqp0s00i11ldml1mfu
     verified: false
-    hashtags: "#tattoos, #cbdadvocate, #selflove, #twinning"
-  - username: "blindreasontattoo"
+    hashtags: "#love, #classic, #singleneedle, #psyche"
+  - username: "barisyesilbas"
     fullname: >-
-      BLINDREASON TATTOO NEW YORK
+      Baris Yesilbas
     bio: >-
-      - NOW HIRING - 1-646-838-9220 info@blindreasontattoo.com
+      • Tattoo artist based in New York 🗽 • Sneakerhead • for appointment : byesilbas@outlook.com
     location: "United States"
-    followers: 19683
-    engagement: 233
-    commentsToLikes: 0.003629
-    id: ck14jwy1mmlt00i19hdgh2fny
+    followers: 69000
+    engagement: 72
+    commentsToLikes: 0.018357
+    id: ck6tm6cmf799c0j71piy6nkpu
     verified: false
-    hashtags: "#cutetattoo, #animetattoo, #newyork, #lineworktattoo"
-  - username: "zhimpamoreno"
+    hashtags: "#watercolortattoo, #watercolor, #tattoo, #tattooed"
+  - username: "mattbeckerich"
     fullname: >-
-      Zhimpa Moreno
+      MattBeckerich
     bio: >-
-      New York , inquiries ✉️ zhimpaz@gmail.com Owner @zhimpatattoos Sponsored by @cheyenne_tattooequipment @fusion_ink @hivecaps @balm_tattoo
+      Artist and co-founder @fountainheadnewyork -DTT⚡️- @tattoodo ambassador bookings email www.fountainheadny@gmail.com 👇🏻FOLLOW LINK TO LEARN MORE👇🏻
     location: "United States"
-    followers: 43328
-    engagement: 100
-    commentsToLikes: 0.031981
-    id: ck8svu53dcp6x0j78ohmzinvn
+    followers: 28289
+    engagement: 306
+    commentsToLikes: 0.015880
+    id: ck55pdcygabn10i1172uz19v9
     verified: false
-    hashtags: "#zhimpa, #art, #limitededition, #launch"
-  - username: "nessie_blaze"
+    hashtags: "#lotus, #lotustattoo, #devotion, #huntingtonvillage"
+  - username: "victordelfueyo"
     fullname: >-
-      𝐍𝐞𝐬𝐬𝐢𝐞 𝐁𝐥𝐚𝐳𝐞
+      Victor del Fueyo de la Torre
     bio: >-
-      𝔗𝔞𝔱𝔱𝔬𝔬𝔢𝔯 • 𝔓𝔞𝔦𝔫𝔱𝔢𝔯 • 𝔅𝔯𝔞𝔱 ♈️ Black Ink Crew Compton. 💕 Text “Tattoo” to 267-223-5660 to book. 🔺PR: @raethepublicist @arianad_pr 🔺ASST: @dejah.mc
+      From León, Spain 🇪🇸 📍New York City 🗽 ➕@bangbangnyc ➕@nycdelfueyo 🌌appts@bangbangforever.com🌌
     location: "United States"
-    followers: 35340
-    engagement: 257
-    commentsToLikes: 0.041340
-    id: ck14jo9lelctg0i19m675pqat
+    followers: 33261
+    engagement: 163
+    commentsToLikes: 0.010592
+    id: ck8t55bzy8tuj0j78qnabec9c
     verified: false
-    hashtags: "#atlanta, #petersstreetstation, #linkinbio, #dope"
-  - username: "tattoosbyandrea"
+    hashtags: "#sky, #tattoodesign, #cosmos, #ink"
+  - username: "tinto_tlv"
     fullname: >-
-      Tattoos By Andrea Timson
+      Ruben Kravets
     bio: >-
-      @Davincitattoostudio, Wantagh NY. Thurs, Fri, Sat and Mon 11-9 ☠️BOOKING NOW ⏰ andreatimsontattoos@gmail.com
+      tattoo artist Studio @john_boy_tattoo Booking in Is Israel - 0509021019 Or press the link👇 New York for booking DM Or press the link👇
     location: "United States"
-    followers: 17177
-    engagement: 574
-    commentsToLikes: 0.011762
-    id: ck8wd50hxdeev0j78esy4p1xf
+    followers: 36160
+    engagement: 264
+    commentsToLikes: 0.032997
+    id: ck1384peaehm90i19n3x18xhy
     verified: false
-    hashtags: "#davincitattoo, #ny, #tattoosbyandrea, #disneytattoo"
-  - username: "2pac_real_legend"
+    hashtags: "#colortattoo, #tattoodo, #realistictattoo, #nytattooartist"
+  - username: "raphaelbarrostattoos"
     fullname: >-
-      ❤ 1971 - ∞  ❤
+      ♏⚜️Raph ⚜🦂
     bio: >-
-      only god can judge me 😇 " My mama always used to tell me : If you can't find somethin ' to live for you best find somethin ' to die for " tupac 👑
+      Tattoo Artist 💯BEKIND ➕BadInfluencer➕ MA #bostonstrong 🇺🇸🇧🇷 Sponsor @fytsupplies ✈️ MA / NY / LA /LV ⚜Life is Good⚜
     location: "United States"
-    followers: 194689
-    engagement: 309
-    commentsToLikes: 0.005072
-    id: ck8t8iefpkleo0j78fzgqsw4x
+    followers: 39571
+    engagement: 68
+    commentsToLikes: 0.092295
+    id: ck0w62twl6mpo0i19uywjx7bn
     verified: false
-    hashtags: "#westcoast, #amazing, #june, #moodoftheday"
-  - username: "michaelperryart"
+    hashtags: "#ink, #inkedshop, #stayhome, #hustlehard"
+  - username: "pecksone"
     fullname: >-
-      Michael Perry
+      PECKS ONE
     bio: >-
-      Creative Realism Now booking NYC @l_o_v_e_machine Books closed MKE @sanctuarytattoogallery @cheyenne_tattooequipment @empireinks @mdwipeoutz
+      “Angels Carry Kings” OUT NOW ‼️🔥
     location: "United States"
-    followers: 56313
-    engagement: 252
-    commentsToLikes: 0.042790
-    id: ck0w324n7r8t10i19qv5h35l8
+    followers: 17834
+    engagement: 125
+    commentsToLikes: 0.099538
+    id: ck5qah5ghgdms0i11aqfjo4bx
     verified: false
-    hashtags: "#artist, #guyswithtattoos, #nyc, #soho"
+    hashtags: "#rapper, #rap, #rhymes, #tour"
   - username: "nate_needles"
     fullname: >-
       Nate Needles
     bio: >-
-      @highnoontattoofl @nate_needless @tattoo_yardist For appointments ⤵️ Dm or email
+      @lalalalajojo 💘🔐 @highnoontattoofl @nate_needless @tattoo_yardist For appointments ⤵️ Dm or email #tattoo #tattoos #tattooartist #tattooed
     location: "United States"
-    followers: 28466
-    engagement: 267
-    commentsToLikes: 0.038708
+    followers: 28288
+    engagement: 263
+    commentsToLikes: 0.039681
     id: ck6tr03d5vxnx0j71y63g4ua8
     verified: false
-    hashtags: "#downtownmelbourne, #ink, #tattoomodel, #jacksonvilletattooartist"
-  - username: "jjjaylud"
+    hashtags: "#blackandgreyink, #floridatattooartist, #nateneedles, #cocoabeachtattoo"
+  - username: "teddy_ferrer"
     fullname: >-
-      Jason Lu ✪
+      Teddy Ferrer
     bio: >-
-      Welcome! Tattooing in NYC @atelier.eva No DMs about appointments please 🍏 Booking for mid/late NOV ✉️ Jason@ateliereva.com
+      FIVE POINTS TATTOO NYC For appointments- Teddyferrertattoo@gmail.com
     location: "United States"
-    followers: 9008
-    engagement: 735
-    commentsToLikes: 0.029770
-    id: ck14jx2l8mmgr0i197og02m3b
+    followers: 41763
+    engagement: 98
+    commentsToLikes: 0.053851
+    id: ck5q7wdof3cu20i11ugmzkmm6
     verified: false
-    hashtags: "#tattoo, #tattooartist, #dotworktattoo, #microtattoo"
+    hashtags: "#chinatownnyc, #nyctattoo, #newyorkart, #teddyferrer"
 ---

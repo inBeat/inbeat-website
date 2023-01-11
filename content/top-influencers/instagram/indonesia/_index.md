@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Indonesia In 2022
+title: Top 10 Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top Instagram influencers in Indonesia in 2022. Most popular hashtags: #ootd #lfl #naturephotography.
+  Find top Instagram influencers in Indonesia in 2023. Most popular hashtags: #nyxprofessionalmakeuppartner #couplegoals #nyxinlasvegas.
 platform: Instagram
-hits: 21573
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 21573 Instagram influencers like this in Indonesia for you to contact.
+hits: 16814
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 16814 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "salsabila09__"
+  - username: "emiwaybantai"
     fullname: >-
-      𝒮𝒶𝓁𝓈𝒶 𝒷𝑒𝓁𝒶 𝓂𝒶𝒾𝓁𝒶𝓃𝒾
+      Emiway Bantai
     bio: >-
-      📍 𝒫𝑜𝓃𝓉𝒾𝒶𝓃𝒶𝓀, 𝒦𝒶𝓁𝒾𝓂𝒶𝓃𝓉𝒶𝓃 𝒷𝒶𝓇𝒶𝓉 📌𝐻𝑜𝒷𝒷𝓎 : 𝐹𝒪𝒯𝒪 @aryazlfkr_9 ❤️
+      (INDEPENDENT) Artist/Hip Hop Email - Imailemiway@gmail.com Twitter - emiwaytweets LIVE BTS ⬇️
     location: "Indonesia"
-    followers: 3021
-    engagement: 4134
-    commentsToLikes: 0.195053
-    id: ck8t8vvblm1aa0j78fszotdk9
+    followers: 4610303
+    engagement: 487
+    commentsToLikes: 0.012057
+    id: ck0tuousr82250i19yv8bg1s1
+    verified: true
+    hashtags: "#kots, #rap91live, #worldenvironmentday, #independent"
+  - username: "aashnahegde"
+    fullname: >-
+      Aashna Hegde
+    bio: >-
+      w̶a̶r̶r̶i̶o̶r̶ worrier 👽 Content Creator @nofiltr.group thrift 💌 @outofstock.in
+    location: "Indonesia"
+    followers: 1144485
+    engagement: 911
+    commentsToLikes: 0.011594
+    id: ck0u9bfgn9gyc0i190jjesa4v
     verified: false
-    hashtags: "#hijabindonesia, #ootdhijabstyle, #hijabindotreveller, #hijabindokece"
-  - username: "nisaazharii_"
+    hashtags: "#ad, #cirquedusoleil, #nyxprofessionalmakeuppartner, #nyxinlasvegas"
+  - username: "skingasmid"
     fullname: >-
-      Nisa J Azhari
+      Fitri
     bio: >-
-      God is really kind.
+      Skincare . Beauty 📸 @trizastudio 🍂 @sheisfitri_
     location: "Indonesia"
-    followers: 5921
-    engagement: 3387
-    commentsToLikes: 0.213111
-    id: ck9wh6wkswj8u0j786m9mbv0q
+    followers: 13797
+    engagement: 468
+    commentsToLikes: 0.197752
+    id: cl3w8ztbod9z00i23ifj2oupn
     verified: false
-    hashtags: "#makeupkorea, #makeuplooks, #blackpink, #explorebandung"
-  - username: "sandha.sakti"
+    hashtags: "#modernurban, #azarinecosmetic, #marvelxazarine, #reviewrombongan"
+  - username: "btr_babyla"
     fullname: >-
-      Sandha Sakti | Indonesia
+      Nabila Rahmarizarti Maharani
     bio: >-
-      random feed
+      Be Blessed✨ PUBG Mobile Player of @bigetronesports ACE @blah.by.babyla • CP +62 813-1851-1995 talitha
     location: "Indonesia"
-    followers: 6643
-    engagement: 2810
-    commentsToLikes: 0.133762
-    id: ck13cr1jw1quj0i196mq5z0ij
+    followers: 1697868
+    engagement: 436
+    commentsToLikes: 0.002276
+    id: ck14lb1w2tr550i190ydgaw5m
     verified: false
     hashtags: ""
-  - username: "wimkybnzrr"
+  - username: "aquinaldoadrian"
     fullname: >-
-      𝒘𝒊𝒎𝒌𝒚 𝒃 𝒏𝒂𝒛𝒂𝒓𝒊
+      QUIN
     bio: >-
-      
+      @021hmiay @qprlvd
     location: "Indonesia"
-    followers: 3076
-    engagement: 2630
-    commentsToLikes: 0.187015
-    id: ckap593lqaq0u0i78fri9gkwi
-    verified: false
-    hashtags: ""
-  - username: "florenciagomezs"
+    followers: 127829
+    engagement: 453
+    commentsToLikes: 0.007260
+    id: ck13b7x7xu4rb0i19w4k3y5nt
+    verified: true
+    hashtags: "#oscarlawalataculture, #museumdihatiku, #museumnasionalindonesia, #akudankain"
+  - username: "yuliana_fonataba"
     fullname: >-
-      𝐹𝐿𝑂𝑅 ☘︎︎ | traveler & dreamer
+      yuliana fonataba
     bio: >-
-      ✨living my life the way I dreamt it ✈︎ travel, photography & ocean enthusiast 🪐36 countries and counting Uruguay born ☀︎︎ Currently in madrid
+      The Year To Arise and Shine 🤩 😇🙏🏾 News Presenter Liputan 6 @sctv MC - Moderator 🙏🏾 For Business inquire 085643657619 (patricia)
     location: "Indonesia"
-    followers: 4876
-    engagement: 2484
-    commentsToLikes: 0.273880
-    id: ck0u8riq182lx0i19avaj1a3n
+    followers: 13703
+    engagement: 465
+    commentsToLikes: 0.034607
+    id: ck6txmbh8ylz90j71dews510p
     verified: false
-    hashtags: "#greece, #indonesia, #islandlife, #traveler"
-  - username: "gavi.an"
+    hashtags: "#parpol, #selfreminder, #liputan6sctv, #sctvberita"
+  - username: "dr.nadiaw"
     fullname: >-
-      𝓖𝓪𝓿𝓲
+      Nadia Wirantari
     bio: >-
-      📍𝓦𝓸𝓷𝓸𝓼𝓸𝓫𝓸 🌿 𝓑𝓾𝓴𝓪𝓷 𝓼𝓲𝓪𝓹𝓪-𝓼𝓲𝓪𝓹𝓪, 𝓣𝓪𝓴 𝓹𝓾𝓷𝔂𝓪 𝓪𝓹𝓪-𝓪𝓹𝓪 𝓱𝓪𝓷𝔂𝓪 𝓬𝓪𝓵𝓸𝓷 𝓳𝓮𝓷𝓪𝔃𝓪𝓱
+      Board certified dermatovenereologist. 📍SUB,ID. @anareclinic.id @adihusada.uw 🗣Skin problems |Skincare |Skin treatments ✉️DM for collab
     location: "Indonesia"
-    followers: 11566
-    engagement: 2343
-    commentsToLikes: 0.130863
-    id: ck5zikiy8fvqr0i14ndbpqd6e
+    followers: 15185
+    engagement: 669
+    commentsToLikes: 0.051887
+    id: cl3w8ztgtda3q0i23gpz8s0i6
     verified: false
-    hashtags: "#camp, #indozonetravel, #art, #pebdakiindonesia"
-  - username: "jimbo__h"
+    hashtags: "#myskintention, #jerawat, #skincare, #treatmentbopeng"
+  - username: "clarissaputri_"
     fullname: >-
-      Jimbo Hall
+      Clarissa Putri H 😽
     bio: >-
-      WAVE HOUSE MEMBER 👀🌊 1.1 million on TikTok 🥳 email: jimbo@yokemgmt.com
+      Beauty & Fashion Enthusiast✨ #GenerasiKulitSehat Bersama @npureofficial Olshop: 081389164343 (WA) Brand: 081294584704 (Kartika) / 0812 82820619 (Momi)
     location: "Indonesia"
-    followers: 33053
-    engagement: 1938
-    commentsToLikes: 0.096884
-    id: ck8wfpvfog2pr0j780d6w57h6
+    followers: 1205363
+    engagement: 530
+    commentsToLikes: 0.003916
+    id: ck0vvfnomoxe20i19i2qvn84r
     verified: false
-    hashtags: "#funderm, #selflovefunderm, #ad"
-  - username: "widyalaaa"
+    hashtags: "#fdnevent, #enjoyamazingskin, #lazadafestivalfashion, #sipalingbestie"
+  - username: "filio_lou"
     fullname: >-
-      Widya Lailatur Rohmania
+      Filio Tsinoglou-Oikonomou
     bio: >-
-      🤍17th
+      🇬🇷 🇹🇷 🇮🇩 🇬🇧 🇯🇴 🇲🇻 🇦🇹 🇲🇽 🇹🇿 🇫🇷 ♡ mumof2, babygirl 16.03.17 ♡ baby boy 01.09.21 📧 Collab Requests: filio_lou@renfluence.com
     location: "Indonesia"
-    followers: 12158
-    engagement: 1782
-    commentsToLikes: 0.091368
-    id: ck8t5jmtfabzj0j78ntlhkw9j
+    followers: 328046
+    engagement: 669
+    commentsToLikes: 0.111284
+    id: ck5q40hron6zo0i111y3qc1s2
     verified: false
-    hashtags: "#followers, #widya01, #ootd, #ootdhijab"
-  - username: "dhuhamalik"
+    hashtags: "#couplegoals, #mexico, #family, #love"
+  - username: "yurayunita"
     fullname: >-
-      Muhammad Dhuha Malik
+      Yura Yunita
     bio: >-
-      F.O @hijrahalajomblo Part Of @bigetronesports CP : 0858-8277-2914 (damar) Business/Endorse : @ytv2477j use (@) PP Story : @bless_management -
+      CP : +62 813 63203050 Video Musik #DuniaTipuTipu 🤍
     location: "Indonesia"
-    followers: 203375
-    engagement: 1655
-    commentsToLikes: 0.080223
-    id: ck6u7qvlqn4u50j71d7v8txip
-    verified: false
-    hashtags: "#janganlupamuhasabahdiri, #dhuhamalik, #janganlupabersyukur, #janganlupaalkahfi"
-  - username: "yeniynsh"
-    fullname: >-
-      Yeni
-    bio: >-
-      💊Pharmacist 📩DM for endorse/catalog/collab/campaigns ✨Part of Celeb • Time • Dermage • Adr • Mmr • Shr
-    location: "Indonesia"
-    followers: 7179
-    engagement: 1516
-    commentsToLikes: 0.206772
-    id: ck9whwmsrzt8h0j78olx09k9i
-    verified: false
-    hashtags: "#lancarhaid, #nuabee, #chocomory, #hijabhatiadem"
+    followers: 967658
+    engagement: 499
+    commentsToLikes: 0.006738
+    id: ck0u2ficqzss70i192zy6dq5x
+    verified: true
+    hashtags: "#colordancechallenge, #uniqloindonesia, #uniqlocolor, #yurayunita"
 cities:
   - name: Jakarta
     link: /instagram/indonesia/jakarta

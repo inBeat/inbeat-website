@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wedding Instagram Influencers In 2022
+title: Top 10 Wedding Instagram Influencers In 2023
 description: >-
-  Find top wedding Instagram influencers in 2022. Most popular hashtags: #photography #wedding #love.
+  Find top wedding Instagram influencers in 2023. Most popular hashtags: #couplegoals #weddinginspiration #weddingdress.
 platform: Instagram
-hits: 18154
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat has 18154 Instagram influencers like this for you to collaborate.
+hits: 18369
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 18369 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "photo_lysenko"
+  - username: "chelseastratso"
     fullname: >-
-      ФОТОГРАФ КИЕВ | Полтава
+      Hawaii Photog + Business Coach
     bio: >-
-      Сергей Лысенко Wedding • Love • Family Автор уникального в мире проекта @do_glubiny_dushi_ua Фотошкола. МК. Обучаю Открыта бронь дат 2020
-    location: "Ukraine"
-    followers: 30593
-    engagement: 93
-    commentsToLikes: 0.009613
-    id: ck6tz37si7cwe0j71v8ajnc9p
-    verified: false
-    hashtags: "#verholy, #lovestory, #photokiev, #photokyiv"
-  - username: "athul.raveendran_"
-    fullname: >-
-      ATHUL RAVEENDRAN
-    bio: >-
-      Modelling | Wedding DM 4 Shoot📸 @_athul_350 Kerala | India📍
-    location: "India"
-    followers: 9160
-    engagement: 1364
-    commentsToLikes: 0.084882
-    id: ck14ih89tfdvn0i19togpqa5k
-    verified: false
-    hashtags: "#instagood, #india, #creative, #mumbai"
-  - username: "holovenko_photo"
-    fullname: >-
-      
-    bio: >-
-      Wedding & Love Story Ivano-Frankivsk🔸Lviv🔸Kiev 📲+380961037779
-    location: "Ukraine"
-    followers: 10630
-    engagement: 1349
-    commentsToLikes: 0.086410
-    id: ck5qcyjcosyeh0i11emumhcks
-    verified: false
-    hashtags: "#holovenko, #weddingdress, #holovenkophotography, #engaged"
-  - username: "_faeze.sadeghi_"
-    fullname: >-
-      𝑭𝒂𝒆𝒛𝒆 𝑺𝒂𝒅𝒆𝒈𝒉𝒊 |فائزه صادقی🕊
-    bio: >-
-      🌱عکس هایی که روایتگرِ یک قصه ی بی اغراق اند🌱 Portrait | life style | wedding | fashion |Beauty 🌿به امید روزهایِ سبز تر
-    location: "United Kingdom"
-    followers: 13550
-    engagement: 1748
-    commentsToLikes: 0.093403
-    id: ck8tbwk6txfra0j78z9wv8rzi
-    verified: false
-    hashtags: ""
-  - username: "parhamr2"
-    fullname: >-
-      Parham Rahnamaee Studio
-    bio: >-
-      ⚜️ Parham Rahnamaee Studio ⚜️ 👰🏼 WEDDING STUDIO 🤵🏻 📞 09123888720 📍 Kamraniyeh
-    location: "Iran"
-    followers: 82248
-    engagement: 1722
-    commentsToLikes: 0.347881
-    id: ck5cg9w2qof3p0i11b0l9qdru
-    verified: false
-    hashtags: "#khafan, #borande"
-  - username: "anitashanesaz.studio"
-    fullname: >-
-      Anitashanesaz studio
-    bio: >-
-      . Wedding photography . Isfahan/sheykhsadogh . 📱0913 5 72 82 92
-    location: "Iran"
-    followers: 51330
-    engagement: 1202
-    commentsToLikes: 0.068267
-    id: ck6ug15cb0c320j71zzj4zn9c
-    verified: false
-    hashtags: "#bride, #mezon, #purelove, #weddingworkout"
-  - username: "mubarak_mubu__"
-    fullname: >-
-      -- ℳυᏰυ --
-    bio: >-
-      📸 @mbm_weddings . . . . . . 📺 ™@tm__hermes__ 𝕴 𝖆𝖒 𝖆𝖘 𝕴 𝖆𝖒 𝖂𝖍𝖊𝖙𝖍𝖊𝖗 𝖍𝖆𝖓𝖉𝖘𝖔𝖒𝖊 𝖔𝖗 𝖍𝖎𝖉𝖊𝖔𝖚𝖘 𝖉𝖊𝖕𝖊𝖓𝖉𝖘 𝖔𝖓 𝖜𝖍𝖔 𝖎𝖘 𝖒𝖆𝖉𝖊 𝖏𝖚𝖉𝖌𝖊
-    location: "France"
-    followers: 14753
-    engagement: 1106
-    commentsToLikes: 0.229842
-    id: ckap664fsek530i78o6ufyu9w
-    verified: false
-    hashtags: ""
-  - username: "muratkoksalart"
-    fullname: >-
-      Cappadocia Photographer
-    bio: >-
-      Wedding & Fashion Photographer 📸 Based in Cappadocia 🎈🇹🇷 Contact : +905397695214 Photographer| Retoucher 💻
-    location: "Turkey"
-    followers: 27793
-    engagement: 1058
-    commentsToLikes: 0.052968
-    id: ck5hsms8dwuhw0i11wlke04jm
-    verified: false
-    hashtags: "#cappadocia, #reels, #kapadokya, #muratkoksal"
-  - username: "brooksandpine"
-    fullname: >-
-      Janelle Brooks
-    bio: >-
-      Elopements • Weddings • Couples 10% of all bookings donated to @ourrescue UT roots, traveling worldwide
+      ♡Traveling photographer ☼ Colorful, fun photos for weddings/adventures ≫ Helping photogs stand out & market online JOIN THE GAME CHANGER ACADEMY ⤵
     location: "United States"
-    followers: 8738
-    engagement: 1600
-    commentsToLikes: 0.062192
-    id: ck8szs41kpibw0j78ps065idf
+    followers: 5392
+    engagement: 896
+    commentsToLikes: 0.065731
+    id: ckaorzzhrpj1z0i78leic56zf
     verified: false
-    hashtags: ""
-  - username: "badarapreira"
+    hashtags: "#wedding"
+  - username: "planwithlaur"
     fullname: >-
-      Badara Preira
+      PlanWithLaur
     bio: >-
-      PHOTOJOURNALISME - PORTRAIT - STREET PHOTO - WEDDING - COMMERCIAL - EVENT INGÉNIEUR FINANCIER
-    location: "France"
-    followers: 15065
-    engagement: 1289
-    commentsToLikes: 0.055087
-    id: ck5c55zsa2syg0i11uf340pg7
+      📍NYC Bridal/Wedding & Lifestyle Creator 📸 Your Favorite Wedding & Event Content Creator ⬇️ Let’s Chat- planwithlaur@gmail.com
+    location: "United States"
+    followers: 12923
+    engagement: 495
+    commentsToLikes: 0.098905
+    id: ckqg5v0tpnj8i0j23o2ymhu4y
     verified: false
-    hashtags: "#mosquee, #portrait, #dakar, #streetphotography"
+    hashtags: "#eventcontentcreator, #erincondrenlifeplanner, #weddingcontent, #erincondren"
+  - username: "yaonlylivvonce"
+    fullname: >-
+      Gionna Daddio
+    bio: >-
+      I wrestle once a week on live TV Once crashed a wedding Farm life @thewonderlandranch Sometimes soap maker @theshoplivemore Covered in bruises
+    location: "United States"
+    followers: 1998998
+    engagement: 418
+    commentsToLikes: 0.011563
+    id: ck5hfh0m0xfnm0i11kngx83b2
+    verified: true
+    hashtags: "#motherlover, #jaketucker, #summerslam, #thecallistoprotocol"
+  - username: "brigittefoysi"
+    fullname: >-
+      Brigitte Foysi Fotografie
+    bio: >-
+      🏆WEDDING AWARD GERMANY TRIPLE WINNER🥇 Married #weddingphotographercouple ✧epic photos for modern couples ✫Workshops | Mentoring | Maternity Pictures
+    location: "Germany"
+    followers: 60596
+    engagement: 640
+    commentsToLikes: 0.040742
+    id: ck5hi6h56bw7f0i11qvwku25l
+    verified: false
+    hashtags: "#voguewedding, #loveandwildhearts, #francewedding, #weddingphotography"
+  - username: "cassidy.maysonet"
+    fullname: >-
+      Cassidy Maysonet
+    bio: >-
+      •NYC• 🇩🇴🇵🇷 Engaged & planning a wedding!💍 👩🏻‍💻Cassidy@adonainyc.com SUBSCRIBE TO MY YOUTUBE
+    location: "United States"
+    followers: 19011
+    engagement: 344
+    commentsToLikes: 0.037324
+    id: ck6tnp9abaaop0j71aejrq16i
+    verified: false
+    hashtags: "#holidayglam, #eyshadowtutorial, #easyeyeshadow, #holidayhairstyle"
+  - username: "jbivphotography"
+    fullname: >-
+      John Branch IV Photography
+    bio: >-
+      Raleigh, NC Wedding Photographer YouTube Content Creator, Speaker, + Educator Official @fujifilmx_us X-Photographer
+    location: "United States"
+    followers: 33217
+    engagement: 289
+    commentsToLikes: 0.021582
+    id: ck8t0m60dsj8d0j78rghndflv
+    verified: false
+    hashtags: "#photoediting, #lightroom, #aiphotoeditor, #photographybusiness"
+  - username: "melendephotography"
+    fullname: >-
+      ⫸ Mel Ende Photography
+    bio: >-
+      Hippietraum im Reihenhaus WEDDING | FAMILY | MAGICAL&EPIC BOHOPORTRÄT ↞ based in #Cologne Germany ☾ @melendemygown @friendsandinspirationworkshop
+    location: "Germany"
+    followers: 17937
+    engagement: 365
+    commentsToLikes: 0.029456
+    id: ck13antxzraqx0i19zanop3vw
+    verified: false
+    hashtags: "#mommytobe, #photobugcommunity, #bridalhair, #couplegoals"
+  - username: "mirchi_rj_mit"
+    fullname: >-
+      Mirchi RJ Meet Mit
+    bio: >-
+      Mirchi RJ Meet નહીં, Mit Trivedi Radio Mirchi, Ahmedabad Whatsapp : 📞 9512 983 983 for 🎤 Wedding, Corporate Hosting, Promotions Mit Trivedi
+    location: "India"
+    followers: 453735
+    engagement: 340
+    commentsToLikes: 0.004555
+    id: ck8t6tvieeo2u0j78fezmkors
+    verified: false
+    hashtags: "#gujju, #reels, #funnyvideos, #prank"
+  - username: "optimeye"
+    fullname: >-
+      Optimeye
+    bio: >-
+      Wedding Storytellers| #optimeye Based in Switzerland 🇨🇭 For enquires and jobs, visit our website. Bern | Paris | Chennai
+    location: "Switzerland"
+    followers: 20866
+    engagement: 208
+    commentsToLikes: 0.023462
+    id: ck5zii2iufqyl0i143stfgzj9
+    verified: false
+    hashtags: "#bride, #weddinginspiration, #tamilwedding, #tamilweddingphotographer"
+  - username: "oriaazran_"
+    fullname: >-
+      Oria azran
+    bio: >-
+      Wedding & Evening Dress 📞 +972-542896567 Email:studiooriaazran@gmail.com// ORIA AZRAN @oriaazran_online
+    location: "France"
+    followers: 236073
+    engagement: 188
+    commentsToLikes: 0.012291
+    id: ck0tzd1i6pvdw0i19x401uz78
+    verified: false
+    hashtags: "#oriaazranevningdresses, #oriaazraneveningdress, #oriaazranbridal"
 ---

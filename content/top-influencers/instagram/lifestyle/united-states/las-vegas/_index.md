@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Las Vegas In 2022
+title: Top 10 Lifestyle Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #lifestyle #vegas #healthylifestyle.
+  Find top lifestyle Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lifestyle #lasvegas #love #vegas.
 platform: Instagram
-hits: 208
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 208 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 254
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 254 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
-  - username: "raquellelynnette"
+  - username: "brittballs"
     fullname: >-
-      •ｒａｑｕｅｌｌｅ •
+      Brittney Britania
     bio: >-
-      Beauty•Fashion•Lifestyle Las Vegas ☀️🏔🌵 PR/Collabs : raquellelynnette@gmail.com 🎞| New video 👇🏾
+      she/her | beauty + lifestyle las vegas
     location: "United States"
-    followers: 21256
-    engagement: 153
-    commentsToLikes: 0.090111
-    id: ckf5vkz3joxmd0j23w30nauec
+    followers: 19991
+    engagement: 965
+    commentsToLikes: 0.011637
+    id: ck9wg34xqropw0j78h8fvmr4d
     verified: false
-    hashtags: "#igreels, #linkinbio, #hudabeauty, #benefitbrows"
-  - username: "thalia.delmar"
+    hashtags: "#revolveme"
+  - username: "theivansimental"
     fullname: >-
-      FITNESS | LIFESTYLE
+      Ivan Simental | MortgageLeader
     bio: >-
-      LV 📍 🏋️‍♀️🇵🇷 Owner @xonaparallela @1upnutrition @peachbands | “DELMAR” @stevensalazar6 💍
+      🙏🏽 • Avid fan of JESUS 🏠 • #1 #LatinLender 🧠 • I help people build wealth through Real Estate 🙋🏽‍♂️ • Community Builder
     location: "United States"
-    followers: 20200
-    engagement: 255
-    commentsToLikes: 0.090954
-    id: ckap8q7rupe300i78u7kavfej
+    followers: 43073
+    engagement: 25
+    commentsToLikes: 0.126964
+    id: ck14iawjjehyz0i1927nmqziz
     verified: false
-    hashtags: "#happy, #lifestyle, #lasvegas, #model"
-  - username: "two_platez"
+    hashtags: "#love, #life, #mindset, #motivation"
+  - username: "raddyherich"
     fullname: >-
-      TWO_PLATEZ
+      Radovan Herich
     bio: >-
-      Freddy | AKA Two_Platez | #twoplatez 🄻🄰🅂 🅅🄴🄶🄰🅂 For partnerships e-mail: twoplatez1904@gmail.com
+      Helping others live better and healthier life 🎥 YouTube: Raddy Herich | @vitaminwelluae 🥙 Nutrition: @matternutrition.xyz
     location: "United States"
-    followers: 16077
-    engagement: 359
-    commentsToLikes: 0.218803
-    id: ck5c1q6gpvp7a0i1111wtiol6
+    followers: 75589
+    engagement: 82
+    commentsToLikes: 0.033977
+    id: ck5cjj89kuu190i11i6imrg4u
     verified: false
-    hashtags: "#feedfeed, #gourmet, #foodiesofinstagram, #twoplatez"
-  - username: "lizashleyxo"
+    hashtags: "#trending, #outdoorworkout, #downtowndubai, #workout"
+  - username: "breeweberxo"
     fullname: >-
-      𝙴𝚕𝚒𝚣𝚊𝚋𝚎𝚝𝚑 𝙰𝚜𝚑𝚕𝚎𝚢
+      B R E E   W E B E R✨
     bio: >-
-      Fitness ➕ Lifestyle ➕ Beauty 🇺🇸 💊 @bsnsupplements 15% off code LIZ15 Business Inquiries: ape@gorillawithapen.com Links ⬇️
+      NFL Cheerleader @raiderettes 🖤 sharing my life • style • home decor disney enthusiast🐭 wifey to @gweb18 💍 dog mom to Bentley + Teddy🐶 SHOP MY PAGE👇🏻
     location: "United States"
-    followers: 31447
-    engagement: 332
-    commentsToLikes: 0.069357
-    id: ckaow63v07kyc0i78cvdrs6r6
+    followers: 7737
+    engagement: 855
+    commentsToLikes: 0.038503
+    id: ck5bvg41xjl0y0i11mqtsogzg
     verified: false
-    hashtags: "#fitnessmotivation, #fitnessfreaks, #gymlife, #mensfitness"
-  - username: "priscilagallesfit"
+    hashtags: "#raidersbaby, #blogger, #moveinfabletics, #love"
+  - username: "ricardo_laguna"
     fullname: >-
-      PRISCILA GALLES 🇧🇷🇺🇸
+      Ricardo Laguna
     bio: >-
-      ▪️NPC Bikini Overall Champion 🗡🏆 ▪️Shop @byouniqstore ▪️Model & Entrepreneur @charmluxagency
+      BMX Athlete | Real Estate Investor | Reality Show @TheRicardoLagunaProject on @MTV @tr3s_tv y @MTVLA Latin America |Founder @CelebrandoFestival Foodie
     location: "United States"
-    followers: 46697
-    engagement: 128
-    commentsToLikes: 0.202795
-    id: ckap3x2w74ver0i784s34rdaz
+    followers: 30984
+    engagement: 386
+    commentsToLikes: 0.032144
+    id: ck5c0zw2eu6810i1105nzum7s
+    verified: true
+    hashtags: "#rlsbackyard, #bmxrace, #custombicycles, #dirtlife"
+  - username: "forouzan.zad"
+    fullname: >-
+      فروزان / اینفلوئنسر & بلاگر
+    bio: >-
+      📍Las Vegas Lifestyle & Fashion 💄👗 همه چيز درباره فروزان🌸🦋 با لايف استايل و روزمرگي من در امريكا بيشتر آشنا بشيد🇺🇸
+    location: "United States"
+    followers: 109703
+    engagement: 460
+    commentsToLikes: 0.057542
+    id: ck13bs0agww2c0i197mwdc0qf
     verified: false
-    hashtags: "#photoshoot, #healthylifestyle, #sandiego, #california"
+    hashtags: "#style, #explorepage, #iran, #styleinspo"
   - username: "unamexicanaenlasvegas"
     fullname: >-
       Angelica
     bio: >-
       📍LAS VEGAS, NV. 🎲 •Fashion •beauty •lifestyle 📷 Latina #lasvegasblogger
     location: "United States"
-    followers: 67238
-    engagement: 168
-    commentsToLikes: 0.035592
+    followers: 67014
+    engagement: 152
+    commentsToLikes: 0.033219
     id: ck6tt5io48q060j71err0y6f3
     verified: false
-    hashtags: "#ad, #votelikeamadre, #sponsored, #one"
-  - username: "forouzan.zad"
+    hashtags: "#votelikeamadre, #ad, #sponsored, #delightfulhealthydelicious"
+  - username: "two_platez"
     fullname: >-
-      Forouzan Zad
+      Texas Food and Beyond
     bio: >-
-      Fashion | Beauty | Lifestyle Based in Las Vegas, USA Forouzad@yahoo.com 📩 @sheinofficial DC: [D2Fozad]
+      𝐅𝐫𝐞𝐝𝐝𝐢𝐞 North TX Texoma ➡️ New Fatass on the block Just a guy with a camera and a collection of pics. Collab? DM or Email. #twoplatez
     location: "United States"
-    followers: 105212
-    engagement: 731
-    commentsToLikes: 0.078942
-    id: ck13bs0agww2c0i197mwdc0qf
+    followers: 15244
+    engagement: 347
+    commentsToLikes: 0.164269
+    id: ck5c1q6gpvp7a0i1111wtiol6
     verified: false
-    hashtags: "#bloggerstyle, #advertising, #styleoftheday, #collaborate"
-  - username: "laura.roeper"
+    hashtags: "#taste, #photooftheday, #foodstagram, #foodies"
+  - username: "burnettbungalow"
     fullname: >-
-      In Little Words
+      Janelle Burnett-DIY-Home Decor
     bio: >-
-      Petite Fashion & Lifestyle 👰🏻🤵🏼 Married to my bff 🏠Cali-Vegas🌵 ✨Real life in my stories. 💌inlittlewords@gmail.com 🛍LIKEtoKNOW.it/Laura.Roeper
+      🌿Interiors🌿Everyday Mom🌿Sharing my life🌿Reinventing my home one DIY at a time Feat. in @apartmenttherapy @dwellmagazine @originmagazine @dominomag
     location: "United States"
-    followers: 3706
-    engagement: 732
-    commentsToLikes: 0.131556
-    id: ck5q7y11o3kk70i11r9kliuhz
+    followers: 62497
+    engagement: 249
+    commentsToLikes: 0.067615
+    id: ck0tv9lqoagi80i19epac4u24
     verified: false
-    hashtags: "#casualstyle, #nanamacs, #bloggerstyle, #lasvegasblogger"
-  - username: "themichelewang"
+    hashtags: "#onetofollow, #thedelightofdecor, #familyroomdecor, #motherhood"
+  - username: "blaiseserra"
     fullname: >-
-      Michele Wang
+      𝑩𝒍𝒂𝒊𝒔𝒆
     bio: >-
-      Luxury Beauty and Lifestyle Content Creator / NYC>Las Vegas / Mommy to @missfuzzybutters / Food - @mishi2x / More on latest post!👇🏻
+      Turning Ideas into Reality Performer/ Consultant
     location: "United States"
-    followers: 37597
-    engagement: 373
-    commentsToLikes: 0.047620
-    id: ck13ao2h6rc160i19ibw861s0
+    followers: 11098
+    engagement: 503
+    commentsToLikes: 0.032480
+    id: ck6tmrm388ecl0j71pj6lnxvz
     verified: false
-    hashtags: "#therow, #ootd, #bottegaveneta, #chanel"
-  - username: "newmommy_in_city"
-    fullname: >-
-      𝐒𝐈𝐌𝐑𝐀𝐓 𝐁𝐀𝐆𝐆𝐀 💕
-    bio: >-
-      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄 𝐁𝐋𝐎𝐆𝐆𝐄𝐑 Fashion 💃🏻 / Food 🍔 / Lifestyle 🙋🏻‍♀️ LAS VEGAS 🌍 Best Pillow ever 👇👇
-    location: "United States"
-    followers: 22690
-    engagement: 276
-    commentsToLikes: 0.195090
-    id: ck6uhfg7p8t5k0j71kfpgml1l
-    verified: false
-    hashtags: "#giveaway, #patpatmomsays, #lasvegas, #patpatsweetie"
+    hashtags: "#magician, #magiciansofinstagram, #artist, #sleightofhand"
 ---

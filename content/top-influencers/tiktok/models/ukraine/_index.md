@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Ukraine In 2022
+title: Top 10 Models TikTok Influencers In Ukraine In 2023
 description: >-
-  Find top models TikTok influencers in Ukraine in 2022. Most popular hashtags: #model #girls #girl #beautiful.
+  Find top models TikTok influencers in Ukraine in 2023. Most popular hashtags: #model #girls #beautiful #fashion.
 platform: TikTok
-hits: 15
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 15 TikTok influencers like this in Ukraine for you to pitch.
+hits: 12
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 12 TikTok influencers like this in Ukraine for you to collaborate.
 profiles:
   - username: "kintiger7"
     fullname: >-
@@ -13,36 +13,60 @@ profiles:
     bio: >-
       Dancer⚡Tomboy🌈Singer🎸Model😎 7️⃣Leader of MA.SCOT🐾 UA🇺🇦
     location: "Ukraine"
-    followers: 17700
-    engagement: 1670
-    commentsToLikes: 0.019087
+    followers: 18100
+    engagement: 1540
+    commentsToLikes: 0.037212
     id: ckcjeq99ianav0j235pt0w263
     verified: false
-    hashtags: "#top1, #recomend, #ua, #tiger"
+    hashtags: ""
   - username: "petrzelenin777"
     fullname: >-
       Пётр Зеленин
     bio: >-
-      Strip man show🐍(Kiev) Для заказа inst:petrzelenin777 ✍️ Model ,Actor, Dancer
+      Dancer 🔥 Actor🔥 Fitness model🔥 Добьём 1 🍋 ❤️ Onlyfans.com/mikeford
     location: "Ukraine"
-    followers: 144000
-    engagement: 1038
-    commentsToLikes: 0.015220
+    followers: 233800
+    engagement: 658
+    commentsToLikes: 0.021281
     id: ckbqnjyn88dyj0j231c7pnaxz
     verified: false
-    hashtags: "#chellenge2020, #fyp, #foryoupage, #mychellange"
+    hashtags: "#mike, #police, #red, #sport"
+  - username: "4ak1"
+    fullname: >-
+      ImmaHoodBaby
+    bio: >-
+      CHOREOGRAPHER // MODEL // ARTIST YBS🩸 IG: immahoodbaby
+    location: "Ukraine"
+    followers: 151500
+    engagement: 1365
+    commentsToLikes: 0.004754
+    id: ck8fc0j2p5tnt0j78clfpdh6w
+    verified: false
+    hashtags: "#fyp, #ycc, #toptopchallenge, #rec"
   - username: "brunettojkaofficial"
     fullname: >-
       ❤K$❤
     bio: >-
       Instagram brunettojkaofficial sportsmenka ❤ model ❤ blogger ❤ photograph ❤
     location: "Ukraine"
-    followers: 2468
-    engagement: 308
+    followers: 2457
+    engagement: 340
     commentsToLikes: 0.000000
     id: ckd0vquvnk8sg0j23b4dg8f9o
     verified: false
-    hashtags: "#koblevo2020, #koblevo, #rest, #europe"
+    hashtags: "#koblevo, #europe, #ukraine, #modeling"
+  - username: "moda_krasota"
+    fullname: >-
+      Мода и Красота
+    bio: >-
+      🎀Все о модной индустрии. Советы на каждый день и много ярких образов👑
+    location: "Ukraine"
+    followers: 12900
+    engagement: 774
+    commentsToLikes: 0.004582
+    id: ckb9my67gge740j2363rkzdb4
+    verified: false
+    hashtags: "#top, #top5, #tiktok, #tiktoker"
   - username: "telegram.girl"
     fullname: >-
       sexy
@@ -54,77 +78,53 @@ profiles:
     commentsToLikes: 0.010269
     id: ck8s5bah5f4370j78eiwb2ap3
     verified: false
-    hashtags: "#bikinibabe, #swimwear, #bikinigirls, #beach"
-  - username: "moda_krasota"
-    fullname: >-
-      Мода и Красота
-    bio: >-
-      🎀Все о модной индустрии. Советы на каждый день и много ярких образов👑
-    location: "Ukraine"
-    followers: 12100
-    engagement: 602
-    commentsToLikes: 0.003324
-    id: ckb9my67gge740j2363rkzdb4
-    verified: false
-    hashtags: "#tiktok, #podium, #reccommendations, #top"
+    hashtags: "#siswim, #fashion, #model, #beautiful"
   - username: "lilovivang"
     fullname: >-
       Lilo 😍
     bio: >-
       
     location: "Ukraine"
-    followers: 6802
-    engagement: 292
-    commentsToLikes: 0.004823
+    followers: 6722
+    engagement: 279
+    commentsToLikes: 0.004364
     id: cka0mmzwww2wy0i78xm08l40r
     verified: false
-    hashtags: "#paris, #bebe, #modelo, #retrato"
-  - username: "hollywood_star0"
+    hashtags: "#girls, #paris, #spain, #picoftheday"
+  - username: "heldersoon_"
     fullname: >-
-      Girls thoughts
+      Danya Fesenko
     bio: >-
-      Добьём 6к ❤️🙏🏻 Официальная страница "Girls thoughts " ✔️
+      18
     location: "Ukraine"
-    followers: 5770
-    engagement: 1497
-    commentsToLikes: 0.034586
-    id: ckav91n3kgciq0j23qql68avg
+    followers: 51600
+    engagement: 1754
+    commentsToLikes: 0.006446
+    id: ck8qmjrt1qhfm0j78obospd19
     verified: false
-    hashtags: "#hollywood, #newtrend, #2020, #usa"
-  - username: "protsssenko"
-    fullname: >-
-      Protsenko  Victoria 
-    bio: >-
-      Check my insta 💩
-    location: "Ukraine"
-    followers: 27500
-    engagement: 850
-    commentsToLikes: 0.010987
-    id: ckbkg5h5d7bv90j23flgqc65p
-    verified: false
-    hashtags: "#heyyy, #model, #posing, #stranger"
+    hashtags: "#fyp, #foryoupage, #fup, #xyzcba"
   - username: "kotova75"
     fullname: >-
       Аннета
     bio: >-
       Живу ярко и красиво!🔞🔥😎 Делюсь эмоциями тут 💃сотрудничество в инст: kotova75
     location: "Ukraine"
-    followers: 114900
-    engagement: 571
-    commentsToLikes: 0.009958
+    followers: 112900
+    engagement: 498
+    commentsToLikes: 0.011088
     id: ck9rbs1ciqjbb0j789e9e7lr4
     verified: false
-    hashtags: "#beautygirl, #badgirl, #luxury, #saxygirl"
-  - username: "_dasha__one"
+    hashtags: "#modelukraine, #girls, #beautygirl, #luxurygirls"
+  - username: "alexsinaa"
     fullname: >-
-      __Dasha__One
+      Alexis 🍒
     bio: >-
       
     location: "Ukraine"
-    followers: 14000
-    engagement: 620
-    commentsToLikes: 0.010690
-    id: ck9n4x40o64iw0j78mqa63sh6
+    followers: 1871
+    engagement: 271
+    commentsToLikes: 0.006852
+    id: ck95wdija1jym0j7859xu3nlr
     verified: false
-    hashtags: "#woah, #challenge, #sigarette, #harleyquinn"
+    hashtags: "#skywatcher, #cloud, #photography, #instagood"
 ---

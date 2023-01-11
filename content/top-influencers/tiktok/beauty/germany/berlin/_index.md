@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Berlin In 2022
+title: Top 10 Beauty TikTok Influencers In Berlin In 2023
 description: >-
-  Find top beauty TikTok influencers in Berlin in 2022. Most popular hashtags: #foryou #berlin #beauty #fyp.
+  Find top beauty TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #beauty #viral #berlin.
 platform: TikTok
-hits: 9
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 9 TikTok influencers like this in Berlin, Germany for you to pitch.
+hits: 7
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
   - username: "_amaya_beauty_ber"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ▪️bbglow▪️lashes ▪️Microneedling ▪️Microblading ▪️Powderbrows ▪️Aquarelllips
     location: "Germany"
-    followers: 17500
-    engagement: 275
-    commentsToLikes: 0.012371
+    followers: 17200
+    engagement: 261
+    commentsToLikes: 0.011489
     id: ckbkop1puivmv0j23j1i9ovlz
     verified: false
-    hashtags: "#shadow, #beauty, #yes, #feauterme"
-  - username: "melisa.alnkc"
+    hashtags: "#shadow, #lips, #amayabeautyberlin, #german"
+  - username: "melissaserena_"
     fullname: >-
-      Melisa
+      Melissa 🦋
     bio: >-
-      17🏹 🇩🇪/🇹🇷 Snapchat: melisa6719
+      FOOD | BEAUTY regular girl from berlin ✌🏼🦋 💌 melissaserena@web.de
     location: "Germany"
-    followers: 5384
-    engagement: 1371
-    commentsToLikes: 0.028506
-    id: ckbephft16dff0j23miyp5atv
+    followers: 28000
+    engagement: 760
+    commentsToLikes: 0.028124
+    id: ckbexl187i0aj0j235603gbcl
     verified: false
-    hashtags: "#fy, #edosaiya, #bestfriend, #fyp"
-  - username: "sophialuisa20"
+    hashtags: "#dm, #shein, #hairgrowth, #sheingals"
+  - username: "3bdull0h"
     fullname: >-
-      Sophia Luisa
+      Abdullah bln
     bio: >-
-      Sophia 🌞 22 🌞 Munich, Germany Instagram: sophia_luisa
+      ﷽ live in Germany 📍Berlin 🇩🇪
     location: "Germany"
-    followers: 22200
-    engagement: 405
-    commentsToLikes: 0.018698
-    id: ckb99syycud6e0j23pkorctst
+    followers: 11200
+    engagement: 1504
+    commentsToLikes: 0.153297
+    id: ck81svrkvtgma0j78h52brjva
     verified: false
-    hashtags: "#whatiwearfor, #germany, #fyp, #coronavirus"
+    hashtags: "#fyp, #foryou, #german, #turkish"
   - username: "lushdeutschland"
     fullname: >-
       LUSH Deutschland
     bio: >-
       Offizieller TikTok Account von Lush Deutschland Immer der Nase nach:
     location: "Germany"
-    followers: 18900
-    engagement: 1592
-    commentsToLikes: 0.021591
+    followers: 18100
+    engagement: 1648
+    commentsToLikes: 0.020208
     id: ckbb6vkm2wwl80j23tcsjwa4s
     verified: false
-    hashtags: "#whatthefact, #deo, #sommerferien, #teiledeinwissen"
-  - username: "sandra.winnik"
+    hashtags: "#teiledeinwissen, #deo, #plasticfreejuly, #whatthefact"
+  - username: "spatzemitsoos"
     fullname: >-
-      Sandra
+      Spatzemitsoos
     bio: >-
-      26 🤷🏻‍♀️ 🔥CEO of BERLIN🔥 🔥Instagram: sandramipw🔥
+      Schwäbische Comedy Für Kooperation : spatzemitsoos@mail.de
     location: "Germany"
-    followers: 5020
-    engagement: 434
-    commentsToLikes: 0.072640
-    id: ckb8y2q6idaqf0j23kibkhr77
+    followers: 121600
+    engagement: 947
+    commentsToLikes: 0.030347
+    id: ckbqhu5ly33lq0j23zlztuxpd
     verified: false
-    hashtags: "#german, #fyp, #peopleofberlin, #mitte"
-  - username: "sophiasafiyaa"
+    hashtags: "#lernenmittiktok, #fyfyfyfyfyfy, #dialekt, #schw"
+  - username: "mariaclaragroppler"
     fullname: >-
-      🕊   صوفيا
+      mariaclaragroppler
     bio: >-
-      الحب الحقيقي يحمل 𝖻𝖺𝗌𝖾𝖽 𝗂𝗇 𝖡𝖾𝗋𝗅𝗂𝗇 Instagram-sophiasafiyaa
+      VEGAN, STAND UP COMEDY, JUNGFRAU Insta: mariaclaragroppler ⬇️ Mein Shop ⬇️
     location: "Germany"
-    followers: 6007
-    engagement: 813
-    commentsToLikes: 0.026066
-    id: ckb99t0kjudcp0j23cajpbd1o
+    followers: 237600
+    engagement: 984
+    commentsToLikes: 0.008030
+    id: ck9gpc41v4gva0j78fbfmb6yg
     verified: false
-    hashtags: "#haul, #outfits, #berlin, #fyp"
-  - username: "aliciaawa"
+    hashtags: "#foryou, #comedy, #fy, #funny"
+  - username: "sophialuisa20"
     fullname: >-
-      AliciaAwa
+      Sophia Luisa
     bio: >-
-      Singer🥰 instagram - aliciaawa ❤️
+      Sophia 🌞 22 🌞 Munich, Germany Instagram: sophia_luisa
     location: "Germany"
-    followers: 1200000
-    engagement: 1254
-    commentsToLikes: 0.007541
-    id: ckbl3hh4f0uv60j23r17hiooo
-    verified: true
-    hashtags: "#foryou, #fyp, #comedy, #shuschneckewiegehs"
-  - username: "masha"
-    fullname: >-
-      Masha 
-    bio: >-
-      Ich mag Mode, Sport und Politik. Klar geht das zusammen! 𝐼𝑛𝑠𝑡𝑎: @𝑚𝑎𝑠ℎ𝑎
-    location: "Germany"
-    followers: 20500
-    engagement: 611
-    commentsToLikes: 0.017081
-    id: ck9c08jbbo4500j785qcmh747
-    verified: true
-    hashtags: "#vegan, #homeworkout, #workoutfromhome, #earthhour"
-  - username: "wilmargomez"
-    fullname: >-
-      Wilmar Gomez
-    bio: >-
-      
-    location: "Germany"
-    followers: 0
-    engagement: 657
-    commentsToLikes: 0.009048
-    id: ckdtktgfiyp1s0j231wa66rmw
+    followers: 22700
+    engagement: 391
+    commentsToLikes: 0.018168
+    id: ckb99syycud6e0j23pkorctst
     verified: false
-    hashtags: "#fun, #followme, #viral, #tango"
-  - username: "ijennyan"
+    hashtags: "#fyp, #whatiwearfor, #coronavirus, #howtodress"
+  - username: "gamanderlopez"
     fullname: >-
-      🌸 J E N 🌸
+      Gamander López
     bio: >-
-      💖 𝐉𝐞𝐧 • 25 • 𝐋𝐞𝐢𝐩𝐳𝐢𝐠 💖 💕 Comedy | Realtalk | Motivation | Beauty 💕
+      Follow my Insta 👆 🦊 Capturing the beauty of nature ⬇️ My Website
     location: "Germany"
-    followers: 727700
-    engagement: 1621
-    commentsToLikes: 0.021885
-    id: ck99a2i6sfqg70j781vh0svbj
+    followers: 1500000
+    engagement: 1744
+    commentsToLikes: 0.014954
+    id: ck9go7xfkzyyh0j78m4rnd4sa
+    verified: false
+    hashtags: "#photographer, #wildanimals, #birds, #bird"
+  - username: "x_tekkgesteuert_x"
+    fullname: >-
+      Corinna_lgbt 🏳️‍🌈
+    bio: >-
+      23-(L)GBT 17.08.2020!❤️ -S #The👑Psychos #TheDementedCrew #BeautysAndBeast
+    location: "Germany"
+    followers: 26200
+    engagement: 1327
+    commentsToLikes: 0.079815
+    id: ck9du58xuf1em0j78an48xzv7
+    verified: false
+    hashtags: "#psychohouse, #duett, #beautysandbeasts, #foryou"
+  - username: "rose.friederike"
+    fullname: >-
+      ROSE
+    bio: >-
+      Hi 🙋🏻‍♀️ Model/Creator Welcome to my world of Beauty✨ 💌 rose@labs.management
+    location: "Germany"
+    followers: 686400
+    engagement: 1876
+    commentsToLikes: 0.019209
+    id: ck8vubiylijd00j784ntgsjco
     verified: true
-    hashtags: "#twitch, #makeup, #anime, #streamer"
+    hashtags: "#waxingvideos, #viral, #tiktokfashion, #fashionhack"
 ---

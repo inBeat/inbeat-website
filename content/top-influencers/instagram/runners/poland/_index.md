@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Poland In 2022
+title: Top 10 Runners Instagram Influencers In Poland In 2023
 description: >-
-  Find top runners Instagram influencers in Poland in 2022. Most popular hashtags: #runner #run #mountains #poland.
+  Find top runners Instagram influencers in Poland in 2023. Most popular hashtags: #run #bieganie #polishgirl #weekend.
 platform: Instagram
-hits: 87
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 87 Instagram influencers like this in Poland for you to contact.
+hits: 72
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 72 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "bojarmeow"
+  - username: "weroviko"
     fullname: >-
-      Karolina Bojar-Stefańska
+      Viko
     bio: >-
-      ⚽️ Football referee 🏆 Runner 🎓 Law student ⚖️ Sports & Intellectual Property Law 🇵🇱 Kraków/Warszawa, Poland 📧 marketing@karolinabojar.pl
+      🧶 @wiko_handmade Ultra and marathon runner 🏃‍♀️ 110km⛰ 50+km⛰ 42,195km *7 Healthy lifestyle🤸‍♀️ Mountains #SeeYouLaterTeam 📩 weroviko(at)op.pl
     location: "Poland"
-    followers: 161046
-    engagement: 732
-    commentsToLikes: 0.009462
-    id: ck0vvd9n3om4v0i19z6s4r4s9
-    verified: true
-    hashtags: "#brunette, #football, #ad, #selfie"
-  - username: "berte.bob"
-    fullname: >-
-      Bob Bertemes
-    bio: >-
-      Middle distance runner Luxembourg 🇱🇺 1500 : 3:48 3000 : 8:08 5000: 14:29 5k 14:22 10k 30:18 @myvitargo : vitargobob for -10% @jaybirdsport
-    location: "Poland"
-    followers: 73720
-    engagement: 637
-    commentsToLikes: 0.009680
-    id: ck6u3umguzz8x0j71pf6x4o03
+    followers: 3940
+    engagement: 3226
+    commentsToLikes: 0.077378
+    id: ckap4qhso8f0a0i782vs00mf7
     verified: false
-    hashtags: ""
-  - username: "klaudiawisniowska"
-    fullname: >-
-      Klaudia Wiśniowska
-    bio: >-
-      @telewizja.polotv tv presenter Miss Poland Runner Up 2012 2nd Runner Up Miss Globe 2013 Miss Tourism International Poland 2015 @miss_warszawy producer
-    location: "Poland"
-    followers: 14151
-    engagement: 708
-    commentsToLikes: 0.037503
-    id: ck6uen9m2rxwn0j710nn0tm0l
-    verified: false
-    hashtags: "#discovertunisia, #look, #production, #restaurant"
-  - username: "from_r_with_love"
-    fullname: >-
-      Renata
-    bio: >-
-      🇵🇱 Polish ex Londoner 🇬🇧 living in Dubai 🇦🇪 Business Technology 👩🏼‍💻 Recently returned writer📝 Always returning surfer🏄🏼‍♀️ Runner🏃🏼‍♀️ 43 countries🌎
-    location: "Poland"
-    followers: 3235
-    engagement: 1432
-    commentsToLikes: 0.174193
-    id: ck6tzwdcec9j30j71qb7fow0p
-    verified: false
-    hashtags: "#photooftheday, #wekeepmoments, #goralka, #letsgosomewhere"
-  - username: "biegam_i_pije"
-    fullname: >-
-      Marcin Szczurkiewicz
-    bio: >-
-      Comedy actor, TV host 📺🎭 Runner, sport freak 🏃‍♂️🥇 Travelholic 🗺🗽 Lifelover 🏝🕺 Premium spirits enthusiast 🍸🥂 biegam.i.pije.official@gmail.com 📩
-    location: "Poland"
-    followers: 21042
-    engagement: 506
-    commentsToLikes: 0.023922
-    id: ck13aawtfphso0i1909irsi9j
-    verified: false
-    hashtags: "#biegam, #wednesday, #silownia, #weekend"
+    hashtags: "#polkasport, #run, #moments, #runandfun"
   - username: "emi.run4fun"
     fullname: >-
       Emilia Kuźmiak
     bio: >-
       Asics FrontRunner🇵🇱 @asicsfrontrunner Olsztyn 🎓M.Eng🌹🌲🌏 Mom of two ❤️ W&B 👶🏻👦🏼 Runner🏃🏻‍♀️01.01.2016 PB 10k 40'20" (11.11.2017 Żagań) 5k 19'30”
     location: "Poland"
-    followers: 4965
-    engagement: 1478
-    commentsToLikes: 0.027160
+    followers: 5360
+    engagement: 1514
+    commentsToLikes: 0.042046
     id: ckaoqzjovl28h0i78t8ycskc5
     verified: false
-    hashtags: "#runner, #runnersworld, #loverunning, #biegacz"
+    hashtags: "#run, #bieganiejestfajne, #2021, #bieganie"
+  - username: "klaudiawisniowska"
+    fullname: >-
+      Klaudia Wiśniowska
+    bio: >-
+      TV PRESENTER YT: Queen Of Cars Miss Poland Runner Up 2012 2nd Runner Up Miss Globe 2013 Miss Tourism International Poland 2015
+    location: "Poland"
+    followers: 15059
+    engagement: 622
+    commentsToLikes: 0.033323
+    id: ck6uen9m2rxwn0j710nn0tm0l
+    verified: false
+    hashtags: "#lookoftheday, #ilovemyjob, #blondegirl, #blondie"
+  - username: "from_r_with_love"
+    fullname: >-
+      Renata
+    bio: >-
+      🇵🇱Polish exLondoner🇬🇧 living in Dubai🇦🇪 Technology and analytics👩🏼‍💻 #adobelightroom Pro Wannabe Returning surfer🏄🏼‍♀️ Runner🏃🏼‍♀️ 44 countries🌎
+    location: "Poland"
+    followers: 4142
+    engagement: 1199
+    commentsToLikes: 0.153828
+    id: ck6tzwdcec9j30j71qb7fow0p
+    verified: false
+    hashtags: "#dubai, #fashionblogger, #instatravel, #islandlife"
+  - username: "biegam_i_pije"
+    fullname: >-
+      Marcin Szczurkiewicz
+    bio: >-
+      Comedy actor 🎭 TV host 📺 Runner 🏃‍♂️ Sport freak🥇 Travelholic 🗺 Lifelover 🥳 Premium spirits enthusiast 🥃 biegam.i.pije.official@gmail.com 📩
+    location: "Poland"
+    followers: 32595
+    engagement: 301
+    commentsToLikes: 0.025731
+    id: ck13aawtfphso0i1909irsi9j
+    verified: false
+    hashtags: "#40, #wtorek, #tv, #biegamipije"
+  - username: "bojarmeow"
+    fullname: >-
+      Karolina Bojar-Stefańska
+    bio: >-
+      ⚽️ Football referee 🏆 Runner 🎓 Law student ⚖️ Sports & Intellectual Property Law 🇵🇱 Kraków/Warszawa, Poland 📧 marketing@karolinabojar.pl
+    location: "Poland"
+    followers: 161685
+    engagement: 529
+    commentsToLikes: 0.007241
+    id: ck0vvd9n3om4v0i19z6s4r4s9
+    verified: true
+    hashtags: "#tanzania, #referee, #football, #beach"
   - username: "marta__kaczmarczyk"
     fullname: >-
       Marta Kaczmarczyk
     bio: >-
-      Poland Master of Nursing 4th Runner Up MISS POLAND 2018 👑 Photo\Video Model | Actress | Dancer
+      Model Master of Nursing & Bioesthetic Cosmetology 4th Runner Up MISS POLAND 2018 👑
     location: "Poland"
-    followers: 12138
-    engagement: 847
-    commentsToLikes: 0.017655
+    followers: 15157
+    engagement: 952
+    commentsToLikes: 0.008099
     id: ck15ty363kgxc0i199acf0tyt
     verified: false
-    hashtags: "#holiday, #xana, #shape, #poland"
+    hashtags: "#xanacollection, #polishinfluencer, #polishwoman, #outfitinspiration"
   - username: "more_everyday_susan"
     fullname: >-
       ASICS FrontRunner Poland 🇵🇱
     bio: >-
       S u s a n 🔹️Runner 🔹️Interior Designer 🔹️Warsaw 📍 🔸️5k 20:10 🔸️10k 43:08 🔸️HM 1:36:51 🔸️M 03:58:05
     location: "Poland"
-    followers: 8957
-    engagement: 517
-    commentsToLikes: 0.029593
+    followers: 9066
+    engagement: 531
+    commentsToLikes: 0.037528
     id: ck0u8ya5z8jvd0i196pebmj3r
     verified: false
-    hashtags: "#girl, #trip, #wakacje, #soundmindsoundbody"
-  - username: "mateusz_chajdas"
+    hashtags: "#garminpolska, #runforlife, #instarunners, #runtofeel"
+  - username: "jakub.pursa"
     fullname: >-
-      Mateusz Chajdas
+      Jakub Pursa
     bio: >-
-      💑@wcieniugor Mountain Runner 🇵🇱🏃‍♂️ "W górach jestem lepszą częścią siebie" ⛰🏃‍♂️
+      🇵🇱26 y.o. / 183 tall @misterpolski - semi-finalist💪🏼 @czarnonabialym.art ◼️◽️▪️ SYTYCD PL - 🔝8 / Got to Dance - first runner up! 👉🏼TikTok: jakub.pursa
     location: "Poland"
-    followers: 2134
-    engagement: 1718
-    commentsToLikes: 0.012192
-    id: ck9wfvr3aqpdm0j782xfn7fhy
+    followers: 10301
+    engagement: 395
+    commentsToLikes: 0.015067
+    id: ck8t5yo1sboma0j78rorrwdel
     verified: false
-    hashtags: "#tatramountains, #podhale, #suuntopolska, #run"
-  - username: "donaldtusk"
+    hashtags: "#szareoczy, #misterpolski, #chlopak, #czarnobia"
+  - username: "dr_spraweczka"
     fullname: >-
-      Donald Tusk
+      Marta Sprawka
     bio: >-
-      President of European People’s Party. European, Pole, Kashubian, husband, father, grandfather, runner, still football player and fan of Lechia Gdańsk.
+      👩🏼‍⚕️ doctor 🏥 resident of orthopedic surgery 💪 personal trainer 🏃🏼‍♀️ runner 👯‍♀️ @smmash_xwear Girl 🥰 10% SPRAWECZKA
     location: "Poland"
-    followers: 210217
-    engagement: 1220
-    commentsToLikes: 0.020466
-    id: ck0w6p9zw9nn30i19u67zqlut
-    verified: true
-    hashtags: ""
+    followers: 17801
+    engagement: 502
+    commentsToLikes: 0.016219
+    id: ck14ky1b4rw7i0i19jtn0ptso
+    verified: false
+    hashtags: "#doc, #abs, #zima2021, #staysafe"
 ---

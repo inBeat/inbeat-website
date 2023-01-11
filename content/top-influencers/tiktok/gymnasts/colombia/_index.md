@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Colombia In 2022
+title: Top 10 Gymnasts TikTok Influencers In Colombia in 2023
 description: >-
-  Find top gymnasts TikTok influencers in Colombia in 2022. Most popular hashtags: #foryou #parati #colombia #fyp.
+  Find top gymnasts TikTok influencers in Colombia in 2023. Most popular hashtags: #foryou #parati #colombia #fyp.
 platform: TikTok
 hits: 8
 text_top: Identify the top-rated TikTok profiles on inBeat.

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Ankara In 2022
+title: Top 10 TikTok Influencers In Ankara In 2023
 description: >-
-  Find top TikTok influencers in Ankara in 2022. Most popular hashtags: #ankara #ke #opposelfie #kesfet.
+  Find top TikTok influencers in Ankara in 2023. Most popular hashtags: #ankara #ke #tiktok.
 platform: TikTok
-hits: 332
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 332 TikTok influencers like this in Ankara, Turkey for you to connect with.
+hits: 329
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 329 TikTok influencers like this in Ankara, Turkey for you to pitch.
 profiles:
   - username: "tahaburaak06"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ~AnKaRa~
     location: "Turkey"
-    followers: 2065
-    engagement: 1719
-    commentsToLikes: 0.024008
+    followers: 2048
+    engagement: 1601
+    commentsToLikes: 0.025286
     id: ckbqf5dwq0wbe0j23gdj5dxwm
     verified: false
-    hashtags: "#bursa, #catoftheday, #mercedes, #ben"
-  - username: "buse7575"
-    fullname: >-
-      buse75
-    bio: >-
-      ankara 🇹🇷
-    location: "Turkey"
-    followers: 5403
-    engagement: 1527
-    commentsToLikes: 0.025216
-    id: ckbqjbqex4ijo0j23pjen3utm
-    verified: false
-    hashtags: "#ankara, #sevdi, #ankaral, #a101"
-  - username: "mrc_simsek06"
-    fullname: >-
-      By Şimşek_06_40
-    bio: >-
-      Ankara
-    location: "Turkey"
-    followers: 18900
-    engagement: 815
-    commentsToLikes: 0.041296
-    id: ck8z1a28d0u3m0j78phmgphka
-    verified: false
-    hashtags: "#kesfet, #mamak, #tiktok, #takibetakip"
+    hashtags: "#scottishfold, #britishshorthair, #cat, #tiktokturkiye"
   - username: "m.simsek06"
     fullname: >-
       Mustafa Şimşek 
     bio: >-
       Ankara
     location: "Turkey"
-    followers: 5356
-    engagement: 1050
-    commentsToLikes: 0.024589
+    followers: 6102
+    engagement: 1085
+    commentsToLikes: 0.026523
     id: ckdmsjnffa8ax0j2322f093sp
     verified: false
-    hashtags: "#agcopower, #masseyferguson, #5450, #ankara"
+    hashtags: "#newholland, #masseyferguson, #agcopower, #5450"
+  - username: "buse7575"
+    fullname: >-
+      buse75
+    bio: >-
+      ankara 🇹🇷
+    location: "Turkey"
+    followers: 5236
+    engagement: 1333
+    commentsToLikes: 0.016055
+    id: ckbqjbqex4ijo0j23pjen3utm
+    verified: false
+    hashtags: "#olay, #sar, #ankarali, #efsane"
+  - username: "mrc_simsek06"
+    fullname: >-
+      By Şimşek_06_40
+    bio: >-
+      Ankara
+    location: "Turkey"
+    followers: 18400
+    engagement: 715
+    commentsToLikes: 0.034277
+    id: ck8z1a28d0u3m0j78phmgphka
+    verified: false
+    hashtags: "#sokakhayvanlar, #sevgi, #ankara, #belcikamalinos"
   - username: "ismail__sanal"
     fullname: >-
       İsmail__06
     bio: >-
       Ankara
     location: "Turkey"
-    followers: 3027
-    engagement: 601
-    commentsToLikes: 0.035658
+    followers: 2895
+    engagement: 607
+    commentsToLikes: 0.031928
     id: ckauwfpru1os00j23irql1hc4
     verified: false
-    hashtags: "#denizli, #pamukkale, #ke, #agkgchallenge"
+    hashtags: "#nowaterchallenge, #spenchallenge, #denizli, #ankara"
   - username: "korayvrgc"
     fullname: >-
       Koray Vurgeç
     bio: >-
       ANKARA
     location: "Turkey"
-    followers: 7699
-    engagement: 254
-    commentsToLikes: 0.046342
+    followers: 14100
+    engagement: 252
+    commentsToLikes: 0.035658
     id: ckcohbsqu3nmq0j23fdm9nsmq
     verified: false
-    hashtags: "#ortam, #beni, #ankara, #evimke"
-  - username: "essah1angarali1"
+    hashtags: "#kv, #rezidans, #ankara, #evimke"
+  - username: "damlaklc999"
     fullname: >-
-      🔥AngaraBebesi🔥
+      damla kılıç
     bio: >-
-      İnstagram : ercinbesiktas MEKAN ANGARA GARDAS ANKARA❤️YOZGAT
+      FENERBAHÇE💙💛 Aşırı FENERBAHÇE içerir #TeamFener🌿 #DKFC💙 ANKARA
     location: "Turkey"
-    followers: 7229
-    engagement: 1296
-    commentsToLikes: 0.076213
-    id: ck9nsgaf0dhzo0j78rf68llm7
+    followers: 44800
+    engagement: 1851
+    commentsToLikes: 0.022816
+    id: ckb9uoo7ctg3g0j23xuygtrdt
     verified: false
-    hashtags: "#essah1angaral, #angaral, #sorgun, #ankara"
+    hashtags: "#dkfc, #taraftara, #1907, #ortam"
+  - username: "aysudexx"
+    fullname: >-
+      aysude
+    bio: >-
+      AYFC🍀🍀 ankara
+    location: "Turkey"
+    followers: 1100000
+    engagement: 1758
+    commentsToLikes: 0.012032
+    id: ckacwe63as5x90i789ganml1z
+    verified: false
+    hashtags: "#ayfc, #hi"
+  - username: "apoyum"
+    fullname: >-
+      🔱Apoyum🔱
+    bio: >-
+      Ankara Instagram.@apo_yum 40K
+    location: "Turkey"
+    followers: 29100
+    engagement: 1254
+    commentsToLikes: 0.050967
+    id: ckbeu473bd80p0j23qbw37lun
+    verified: false
+    hashtags: "#fyp, #tiktok, #teamlacos, #ke"
   - username: "ilknurrr_1903"
     fullname: >-
       ilknur_1903
     bio: >-
-      konya-ankara buraya kadar geldin takip edersin 🇹🇷🇦🇿
+      konya-ankara buraya kadar geldin takip edersin
     location: "Turkey"
-    followers: 5107
-    engagement: 2489
-    commentsToLikes: 0.033571
+    followers: 5895
+    engagement: 1187
+    commentsToLikes: 0.057101
     id: ckbq8du9jurh10j23iy3bu2av
     verified: false
-    hashtags: "#ke, #capcut, #tiktok"
-  - username: "dilannkuaf"
-    fullname: >-
-      Dilan
-    bio: >-
-      ANKARA KUAFÖR & GÜZELLİK UZMANI ✂️💄
-    location: "Turkey"
-    followers: 34200
-    engagement: 2153
-    commentsToLikes: 0.019426
-    id: ckb9r7bmbnj5f0j23miex5yvh
-    verified: false
-    hashtags: "#ortam, #06, #angara, #kesfetttttt"
-  - username: "akaymesut"
-    fullname: >-
-      Mesut Akay
-    bio: >-
-      🏠 Ankara
-    location: "Turkey"
-    followers: 4106
-    engagement: 2215
-    commentsToLikes: 0.023188
-    id: cka0py7bzagdm0i786b2kjrlw
-    verified: false
-    hashtags: "#ankara, #sakarya, #merkez, #opposelfie"
+    hashtags: "#ke, #ahmet, #candancan, #karde"
 ---

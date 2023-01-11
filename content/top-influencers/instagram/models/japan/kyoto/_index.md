@@ -1,36 +1,72 @@
 ---
-title: Top 10 Models Instagram Influencers In Kyoto In 2022
+title: Top 10 Models Instagram Influencers In Kyoto In 2023
 description: >-
-  Find top models Instagram influencers in Kyoto in 2022. Most popular hashtags: #kyoto #model #japan #fashion.
+  Find top models Instagram influencers in Kyoto in 2023. Most popular hashtags: #model #kyoto #japan #pr.
 platform: Instagram
-hits: 25
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 25 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+hits: 21
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 21 Instagram influencers like this in Kyoto, Japan for you to collaborate.
 profiles:
-  - username: "oreorerisa"
+  - username: "kumai_yurina"
     fullname: >-
-      risa_yoshiyama
+      熊井友理奈
     bio: >-
-      【公式】吉山りさ 10/26 TV#秘湯ロマン #温泉女子 #温泉 #美容 #案件 🐰モデル歴25年目 現在フリー#モデル 📸限定写真→『りさっ子クラブ』開始❣️ 🧜🏻‍♀️シングル＆グランM ✉️Gmail→仕事関係のみ本人へ届きます #旅行 #海 #ラーメン 💓 YouTube↓
+      Yurina Kumai﻿ 유리나 쿠마이 ﻿ 長身ですがいちおアイドル出身﻿ 現在は model / talent🌿﻿ ﻿ •TBS「王様のブランチ」土9:30〜﻿ •tvk「カナフルTV」日18:00〜﻿ ﻿ blog✍️
     location: "Japan"
-    followers: 96174
-    engagement: 172
-    commentsToLikes: 0.078434
-    id: ck9wemip9kx2u0j781kg1gwcl
-    verified: false
-    hashtags: "#thejuneihotel, #40, #photography, #morning"
-  - username: "daigo___d5"
-    fullname: >-
-      荒木大吾
-    bio: >-
-      2016-2019ジュビロ磐田 #27 2020- 京都サンガF.C. #8
-    location: "Japan"
-    followers: 9901
-    engagement: 1446
-    commentsToLikes: 0.011266
-    id: ckaoubkcrznfw0i78tsmlb9ms
+    followers: 87002
+    engagement: 310
+    commentsToLikes: 0.013892
+    id: ck5hcv84nk53x0i11zls1ag39
     verified: true
-    hashtags: "#puclothing, #cafe, #hario, #inflightpack"
+    hashtags: "#kanafultv, #necklace, #repost, #tvk"
+  - username: "yana_aya_"
+    fullname: >-
+      Ayaka Yanagihara / 柳原史佳
+    bio: >-
+      VIOLINIST / MODEL (T:166) 📍TOKYO ⇔ KYOTO Contact : Email or DM📩 #yana_aya_hotel
+    location: "Japan"
+    followers: 8737
+    engagement: 493
+    commentsToLikes: 0.012392
+    id: ckaouoe9y15t40i789ygepcqt
+    verified: false
+    hashtags: "#dw, #kyotohostel, #kyotocafe, #len"
+  - username: "canon27canon"
+    fullname: >-
+      岸本花音🦄CANON💋親管理🔑
+    bio: >-
+      ❤️関西コレクション2019 ❤️カタログモデル、写真集モデル、専属モデル、 モニターモデル、イメージモデル、受賞歴 有り ❤️事務所所属 TikTok 👇 消されたので１から始めました🤣
+    location: "Japan"
+    followers: 4547
+    engagement: 1088
+    commentsToLikes: 0.114564
+    id: ckapc8nw42u9c0i78ytfw6qrp
+    verified: false
+    hashtags: "#halloween, #fashionmodel, #kce, #juniormodel"
+  - username: "settefotogallaria"
+    fullname: >-
+      sette
+    bio: >-
+      Osaka pref. Japan SonyProSupport 📷SONY α7RⅣ α7SⅢ
+    location: "Japan"
+    followers: 36427
+    engagement: 656
+    commentsToLikes: 0.008109
+    id: ck8t631cxc2hq0j785y3z6uaw
+    verified: false
+    hashtags: "#cute, #japan, #tokyo, #sel2470gm"
+  - username: "kouki0025"
+    fullname: >-
+      ko-ki☀︎
+    bio: >-
+      osaka / japan /22age 大好きな人達の笑顔を撮ってます☺️ #毎日が笑顔で溢れてる member @good_portraits_world 定期的にmeet企画してます📸 "撮影依頼等お仕事依頼はDMまで"
+    location: "Japan"
+    followers: 51257
+    engagement: 518
+    commentsToLikes: 0.005069
+    id: ck14h9xsz99zv0i1940uh4auy
+    verified: false
+    hashtags: "#photo, #tokyocameraclub, #pics, #japan"
   - username: "ann.badkitten"
     fullname: >-
       Ann a.k.a Badkitten
@@ -42,89 +78,53 @@ profiles:
     commentsToLikes: 0.024321
     id: ck5buknzbhynm0i114i04suq6
     verified: false
-    hashtags: "#goodkitten, #japan, #repost, #bes"
-  - username: "yana_aya_"
+    hashtags: "#repost, #japan, #goodkitten, #rkemishi"
+  - username: "jumy_as"
     fullname: >-
-      Ayaka Yanagihara / 柳原史佳
+      🎪じゅみ (𝕁𝕦𝕞𝕪 )  | 芦田純子
     bio: >-
-      VIOLINIST / MODEL (T:166) 📍KYOTO ⇔ TOKYO : ご依頼はe-mailにお願い致します。
+      📺youtube声優番組公開中🎤 累計1100万再生突破ありがとう✨ ▶︎歌ったり喋ったり﻿/ model ▶︎cosplayer (@jumy___jumy )﻿ 📍大阪 🎥サンテレビ『週感PV』/ 魔女イチQueen /舞台『旅立ちの詩』/イルコ2020写真集 お仕事依頼はDMより
     location: "Japan"
-    followers: 8494
-    engagement: 506
-    commentsToLikes: 0.010425
-    id: ckaouoe9y15t40i789ygepcqt
+    followers: 34774
+    engagement: 173
+    commentsToLikes: 0.063194
+    id: ckapbh2rcztud0i78s8p40qna
     verified: false
-    hashtags: "#uniqlo, #danielwellington, #len, #dw"
-  - username: "pakio999"
-    fullname: >-
-      アリー（パキ男）
-    bio: >-
-      japan🇯🇵×pakistan🇵🇰 adidas fashion🍁 BITTER読者モデル🍫 team win♪win🐒
-    location: "Japan"
-    followers: 12456
-    engagement: 358
-    commentsToLikes: 0.043725
-    id: ckap63hnhe8cz0i78hmj171rg
-    verified: false
-    hashtags: "#beauty, #adidas, #me, #macaron"
-  - username: "3sv_18pink"
-    fullname: >-
-      ちびさや 🌻 関西グルメ（ −36kgダイエット ）
-    bio: >-
-      💒@cielo38_official 🧸🎀プロデューサー . お取り寄せグルメ、飲食店PR、テイクアウトPR 少しでもお力になれる様に頑張ります😊 お仕事依頼はお気軽にDMまで✨ #関西グルメ #お取り寄せグルメ #テイクアウト #おうちごはん #おうちごはん部 #大阪グルメ
-    location: "Japan"
-    followers: 18978
-    engagement: 301
-    commentsToLikes: 0.004225
-    id: ck5q8z1ya8mbk0i11w3tfot5q
-    verified: false
-    hashtags: "#gourmet, #love, #kyoto, #pr"
-  - username: "sundailove"
-    fullname: >-
-      Sundai love
-    bio: >-
-      Your Fashionable Traveling TV Model 🌎 Now In Japan こんにちは ! ANTM Cycle 13, Travel Channel, MTV MY SHOP @mood.global Business: sundaiklove@gmail.com
-    location: "Japan"
-    followers: 56124
-    engagement: 810
-    commentsToLikes: 0.019674
-    id: ck5c0qylitogn0i110hr7582q
-    verified: false
-    hashtags: "#kyoto, #travelkyoto, #arashiyama, #japan"
-  - username: "anzu_akiba"
-    fullname: >-
-      🌹Anzu Akiba🌹
-    bio: >-
-      👸🏻 Miss Japan 🇯🇵 💃 Miss Asia 3rd 👯‍♀️ Best Body Japan Tokyo&Chiba GP 🧜🏻‍♀️ Model｜Editor｜Secretly｜Food analyst ❤️ travel｜food｜art｜fashion
-    location: "Japan"
-    followers: 9552
-    engagement: 813
-    commentsToLikes: 0.031950
-    id: ckap7wrqblwkw0i781qzx2ckb
-    verified: false
-    hashtags: "#fashiongram, #bikini, #hairstyle, #model"
+    hashtags: "#model, #hifu, #pr, #usj"
   - username: "ayachamo_1028"
     fullname: >-
       ayaka
     bio: >-
-      🐱portrait model 💓like 　アニメ🧚‍♀️ゲーム🎮食べ物🍣 　着物👘美容💄旅行✈️写真📸 🎮好きなげーむ 　ポケモン🐹スプラトゥーン🦑 　マイクラ👾バイオハザード😈 　ラスアス🎸アンチャーテッド💎 　どうぶつの森🐥風来のシレン🍙 　フォールガイズ🍟 📍Japan、nagoya
+      🐱portrait model 💓好き 　アニメ🧚‍♀️ゲーム🎮食べ物🍣 　着物👘美容💄旅行✈️写真📸 🎮ポケモン🐹スプラトゥーン🦑 　マイクラ👾バイオハザード😈 　ラスアス🎸アンチャーテッド💎 　どうぶつの森🐥風来のシレン🍙 　フォールガイズ🍟 📍Japan、nagoya 📸撮影有償です
     location: "Japan"
-    followers: 63316
-    engagement: 1797
-    commentsToLikes: 0.016841
+    followers: 181020
+    engagement: 1267
+    commentsToLikes: 0.010996
     id: ckf5kwo15nj4v0j236ybsjsmn
     verified: false
-    hashtags: "#japanesegirl, #photography, #portraitmodel, #portraitmood"
-  - username: "kanaekomiya"
+    hashtags: "#miniskirt, #blackhair, #prettygirls, #japanesemodel"
+  - username: "naachan__"
     fullname: >-
-      小宮かなえ 🇯🇵尾道→東京⇄関西🏘
+      伊 藤  奈 月｜𝗡𝗮𝘁𝘀𝘂𝗸𝗶 𝗜𝘁𝗼
     bio: >-
-      旅の途中…🐱✨ . 👗講談社 with girls 🍦#スイーツ暮らしのカナエッティ 💛salon model 💒wedding model ⭐️ROWEN model 👉@rowen_jp . 💫アンバサダー @paliobag @styleonme_jp . お仕事、ご依頼はDMで💕
+      ☺︎なーちゃん☺︎ ホリプロ所属｜97' 01.16 (24) サロモ｜お仕事依頼 ▷ DM 19' Musashi univ. 🎓｜19' Ray model 🎓 🕊@𝙣𝙖__𝙧𝙪𝙉 ｜ TikTok @𝙣𝙖𝙖𝙘𝙝𝙖𝙣__ Clubhouse @𝙣𝙖𝙖𝙘𝙝𝙖𝙣_
     location: "Japan"
-    followers: 43516
-    engagement: 189
-    commentsToLikes: 0.042000
-    id: ck601o1zsfuqt0i144if5z141
+    followers: 120757
+    engagement: 242
+    commentsToLikes: 0.007813
+    id: ckap65if2ehfc0i78sbrkrlmd
     verified: false
-    hashtags: "#styleonmejp, #herlipto, #styleonme, #paliobag"
+    hashtags: "#samanthathavasa, #mercuryduo, #pr, #cafe"
+  - username: "matsuidaisuke_official"
+    fullname: >-
+      松井大輔
+    bio: >-
+      公式インスタ daisuke matsui お仕事はメール📩お願いします Please request job matter in E-mail. #fashion #saigonfc #kyoto #japan #tokyo #soccer #旅行#trip #家具#温泉
+    location: "Japan"
+    followers: 78748
+    engagement: 770
+    commentsToLikes: 0.005710
+    id: ckf5vymozqb1q0j23w6zxugdr
+    verified: true
+    hashtags: "#vietnam, #saigon, #hochiminhcity, #japan"
 ---

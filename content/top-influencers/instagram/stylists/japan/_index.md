@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Japan In 2022
+title: Top 10 Stylists Instagram Influencers In Japan In 2023
 description: >-
-  Find top stylists Instagram influencers in Japan in 2022. Most popular hashtags: #pr #coupleshoot #snackswkfilm.
+  Find top stylists Instagram influencers in Japan in 2023. Most popular hashtags: #pr #ootd #synek.
 platform: Instagram
-hits: 95
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 95 Instagram influencers like this in Japan for you to connect with.
+hits: 103
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 103 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "shinosuganuma"
-    fullname: >-
-      Shino Suganuma 管沼詩乃
-    bio: >-
-      Stylist
-    location: "Japan"
-    followers: 6406
-    engagement: 315
-    commentsToLikes: 0.013322
-    id: ck5bztpj5rtn10i118sjwt356
-    verified: false
-    hashtags: "#ellejapon, #repost, #girlofthemonth, #voguegirl"
   - username: "hironamarubayashi"
     fullname: >-
       丸林広奈
     bio: >-
       Stylist
     location: "Japan"
-    followers: 101531
-    engagement: 165
-    commentsToLikes: 0.007015
+    followers: 101703
+    engagement: 159
+    commentsToLikes: 0.007253
     id: ck0tv5h1ia0q50i194s274j37
     verified: false
-    hashtags: "#suqqu, #phoebebeautyup, #flowers, #penhaligons"
-  - username: "snackswk"
+    hashtags: "#zanchetti, #totebag, #hairstyle, #fashion"
+  - username: "joana_gorska"
     fullname: >-
-      𝕾𝖓𝖆𝖈𝖐 𝕾𝖜𝖐 🕷
+      Joanna ♡
     bio: >-
-      OWNER @narcissism.official | @ncsstudio_ CREATIVE DIRECTOR @winaworeofficial. STYLIST #saysawakastylist ⭕️FOR WORK PLEASE DM ⭕️ 👇🏻 YOUTUBE CHANEL👇🏻
+      🤰🏼 Mama Franka 08.01.2020 🛍 @frankowaszafa 💉 Cosmetologist/Lashes Stylist @skincentrumkosmetologii 🏠 Koszalin ✉️ Współpraca: gorska-joanna@wp.pl
     location: "Japan"
-    followers: 23810
-    engagement: 738
-    commentsToLikes: 0.006395
-    id: ckap458z45wh60i78lnm4vvcp
+    followers: 16644
+    engagement: 428
+    commentsToLikes: 0.029933
+    id: ckf5vjxjnoudk0j235zhdqz5e
     verified: false
-    hashtags: "#snackswkfilm, #winawore, #winaworeofficial, #spreader"
-  - username: "miyutomii88"
+    hashtags: "#magicznyczas, #nazawszerazem, #mamaisyn, #mamaisynek"
+  - username: "sakuraan"
     fullname: >-
-      とみい
+      💎Sakura Nakamura💎
     bio: >-
-      ライブ、カラオケ、歯科衛生士、ちゃちゃまる @chachamalu88 twitter→miyutomii88 Tik Tok→miyutomii stylist @pocher_official YouTubeやってます！ とみいちゃんねる
+      📍NYC fashion/stylist✨ dm for promo📩 100% japanese born and raised🇯🇵 pisces♓️
     location: "Japan"
-    followers: 105538
-    engagement: 394
-    commentsToLikes: 0.002512
-    id: ck5zreix5wfqt0i14pkar844t
+    followers: 17729
+    engagement: 708
+    commentsToLikes: 0.037329
+    id: ck6u1gc51lkhf0j71c4s38t6w
     verified: false
-    hashtags: "#chifure, #cosmetics, #furbo, #vlog"
-  - username: "hakarinian"
+    hashtags: "#tbt, #pisces, #2021"
+  - username: "reina_usui"
     fullname: >-
-      Karina Ha
+      碓井玲菜
     bio: >-
-      • Branding Stylist, Creative & Art Director • ELLE Magazine Star Contributor, Lifestyle Content Creator
+      22 model／actress @pocher_official stylist DMについては所属事務所の管理となります お仕事のご依頼はこちらからお願い致します
     location: "Japan"
-    followers: 34354
-    engagement: 311
-    commentsToLikes: 0.010536
-    id: ckap0fsdwq2zc0i78zoxsm8ig
-    verified: false
-    hashtags: "#pinkribboncoloringchallenge, #360wellness, #turnlifeon, #powerpack"
+    followers: 24762
+    engagement: 497
+    commentsToLikes: 0.011406
+    id: ck5hibg81cn010i1184abin2c
+    verified: true
+    hashtags: "#160cm, #film, #calin"
   - username: "yurikaden"
     fullname: >-
       YURIKA NAKANO
     bio: >-
       stylist ゆりかでん スタイリングのご依頼はLOVABLEまでお願いします #ゆりかでんのバッグ @curlychou_
     location: "Japan"
-    followers: 18360
-    engagement: 512
-    commentsToLikes: 0.001614
+    followers: 20124
+    engagement: 578
+    commentsToLikes: 0.002658
     id: ck15qj8a634010i19sq0ldalb
     verified: false
-    hashtags: "#mywork, #curlychou, #ootd, #youtube"
-  - username: "inkimono"
+    hashtags: "#ootd, #curlychou, #youtube, #mywork"
+  - username: "awatsumai"
     fullname: >-
-      Stasia🇵🇱Stylist & Photographer
+      あわつまい
     bio: >-
-      👘Professional licensed kimono stylist & photographer 着付け師/プロフォトグラファー ＊Kimono Experience: personalized styling, lecture + pro photoshoot; INFO:
+      27歳 / HOLIDAY所属 / スニーカー / 保護猫🐈🐈 #MAI_SNEAKER_LIFE @pocher_official STYLIST
     location: "Japan"
-    followers: 12267
-    engagement: 866
-    commentsToLikes: 0.016905
-    id: ck5zungra2p270i14d5ya1h7j
-    verified: false
-    hashtags: "#coupleshoot, #120daysinkimono, #kimonoshoot, #kimonostyling"
-  - username: "ryutaronagasawa"
+    followers: 93253
+    engagement: 147
+    commentsToLikes: 0.014689
+    id: ck8szz3dfq9xt0j78gm4gjx4x
+    verified: true
+    hashtags: "#vocemagazine, #mai, #goodal, #pr"
+  - username: "miyutomii88"
     fullname: >-
-      Ryutaro
+      とみい
     bio: >-
-      OOO YY / Top stylist Reserve - 0337808331 or Instagram DM Address - 代官山町12-16シンフォニー代官山201
+      カラオケ、歯科衛生士、ちゃちゃまる @chachamalu88 YouTubeやってます。 とみいちゃんねる twitter→miyutomii88 Tik Tok→miyutomii stylist @pocher_official
     location: "Japan"
-    followers: 36759
-    engagement: 271
-    commentsToLikes: 0.002182
-    id: ck138v3ywi6hj0i19qkfuwwll
+    followers: 108977
+    engagement: 313
+    commentsToLikes: 0.002958
+    id: ck5zreix5wfqt0i14pkar844t
     verified: false
-    hashtags: "#driesvannoten, #bandofoutsiders, #ourlegacy, #oooyy"
+    hashtags: "#tigora, #pr, #perverze, #adidas"
   - username: "naokookusa"
     fullname: >-
       Naoko Okusa_official
     bio: >-
       #stylist #love fashion #salsa
     location: "Japan"
-    followers: 291507
-    engagement: 164
-    commentsToLikes: 0.005336
+    followers: 300307
+    engagement: 168
+    commentsToLikes: 0.005293
     id: ck0vzcdjz8eib0i19lw7dorg5
     verified: false
-    hashtags: "#vermeilpariena, #theory, #amarcstore, #cos"
-  - username: "_wadaerika"
+    hashtags: "#allsaints, #upperhights, #theory, #hermes"
+  - username: "ryutaronagasawa"
     fullname: >-
-      和田えりか
+      Ryutaro
     bio: >-
-      (28)158 🐶/ @tofu.311 お仕事のご依頼はメッセージでお願いします📨🗞🖊 ▶︎詳細は必ずご記入ください 🚥企業様以外のDM個別返信は対応できないです pocher / stylist 🩲
+      OOO YY / Top stylist Reserve - 0337808331 or Instagram DM Address - 代官山町12-16シンフォニー代官山201
     location: "Japan"
-    followers: 126879
-    engagement: 170
-    commentsToLikes: 0.002839
-    id: ck5hcu550jzht0i11bx91fumn
+    followers: 37134
+    engagement: 201
+    commentsToLikes: 0.001909
+    id: ck138v3ywi6hj0i19qkfuwwll
     verified: false
-    hashtags: "#wadaerika, #sabon, #reldi, #pr"
+    hashtags: "#oooyy, #dairiku, #prada, #gr10k"
+  - username: "______839048"
+    fullname: >-
+      tomoka
+    bio: >-
+      DMは個別に返信出来ません💭 @pocher_official stylist
+    location: "Japan"
+    followers: 66560
+    engagement: 151
+    commentsToLikes: 0.004153
+    id: ck0w4dvoky3k50i19tsb19i6k
+    verified: false
+    hashtags: "#reldi, #lebenaorganic, #pr, #solace"
 ---

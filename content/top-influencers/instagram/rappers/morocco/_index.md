@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Morocco In 2022
+title: Top 10 Rappers Instagram Influencers In Morocco in 2023
 description: >-
-  Find top rappers Instagram influencers in Morocco in 2022. Most popular hashtags: #sun #positivelife #fhamni.
+  Find top rappers Instagram influencers in Morocco in 2023. Most popular hashtags: #sun #positivelife #fhamni.
 platform: Instagram
 hits: 15
 text_top: Analyze the top-rated Instagram accounts on inBeat.

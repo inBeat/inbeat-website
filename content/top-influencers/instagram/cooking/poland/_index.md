@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Poland In 2022
+title: Top 10 Cooking Instagram Influencers In Poland In 2023
 description: >-
-  Find top cooking Instagram influencers in Poland in 2022. Most popular hashtags: #style #fashion #me #smile.
+  Find top cooking Instagram influencers in Poland in 2023. Most popular hashtags: #instagood #makeup #instaphoto #fashion.
 platform: Instagram
-hits: 302
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 302 Instagram influencers like this in Poland for you to contact.
+hits: 242
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 242 Instagram influencers like this in Poland for you to contact.
 profiles:
+  - username: "monika_mielnicka_official"
+    fullname: >-
+      Monika Mielnicka
+    bio: >-
+      20y 🤍 Acting🎬/dubbing🗣/cooking👩‍🍳/sport🏃‍♀️/psychology🧠 BP/Warsaw
+    location: "Poland"
+    followers: 31058
+    engagement: 1079
+    commentsToLikes: 0.019657
+    id: ck8t2rspu0h6u0j78h9lr11fn
+    verified: false
+    hashtags: "#soon, #christmas, #memories, #mjakmi"
   - username: "thirtyfashionblog"
     fullname: >-
       Magdalena Antosiewicz
     bio: >-
       Moj najnowszy 👍 Fashionbloger , Youtuber Thirtyfashionvlog, Travel, Cooking - follow me: 📩 kontakt mag.antosiewicz@gmail.comt
     location: "Poland"
-    followers: 68766
-    engagement: 166
-    commentsToLikes: 0.089845
+    followers: 70408
+    engagement: 188
+    commentsToLikes: 0.098754
     id: ck0w5hvwa3q600i19ybr20do6
     verified: false
-    hashtags: "#me, #wspierampolskiemarki, #follow, #instafashion"
-  - username: "melallove"
-    fullname: >-
-      
-    bio: >-
-      ｍｅｌａｎｉａ Childhood ◽ Diary◽ Fashion ◽ Everyday cooking recipes ⤵️
-    location: "Poland"
-    followers: 6719
-    engagement: 491
-    commentsToLikes: 0.093446
-    id: ck15tg5n9hx5w0i19zyib7lov
-    verified: false
-    hashtags: "#momlife, #jestembojestes, #momanddaughter, #mamaidziecko"
+    hashtags: "#smile, #me, #fashion, #lovemylife"
   - username: "_kaarolllinaaa_"
     fullname: >-
       Karolina
     bio: >-
       🔸🇵🇱 🔸Lifestyle 🔸🐾 Shih Tzu 🐶 🔸Love Cooking 😍 ➡➡ @all_passion_in_cooking 🍽 🔸Travel🌍 🔸Healthy lifestyle🚴‍♀️
     location: "Poland"
-    followers: 7755
-    engagement: 531
-    commentsToLikes: 0.043805
+    followers: 8056
+    engagement: 586
+    commentsToLikes: 0.038123
     id: ck8t3mv7c3rka0j78v91tavag
     verified: false
-    hashtags: "#leatherskirt, #polishgirl, #seaside, #style"
+    hashtags: "#littledog, #beauty, #shihtzu, #instaphoto"
+  - username: "aleksandra_szwed"
+    fullname: >-
+      Aleksandra Szwed / SaleMonster
+    bio: >-
+      🎭Actress / 🎙Singer / 👩🏽‍💼 TV Host / ⭐️MA in cultural studies / 📚Bookoholic / 🧑🏽‍🍳 Cooking amateur /
+    location: "Poland"
+    followers: 89189
+    engagement: 242
+    commentsToLikes: 0.015585
+    id: ck0vzr446ahs30i19tv0l0r47
+    verified: false
+    hashtags: "#toniejestpostsponsorowany, #photoby, #szwedmaluje, #piese"
   - username: "diamond_girl_2468"
     fullname: >-
-      ➳ 🎥🌹💎𝔬𝔣𝔣𝔦𝔠𝔦𝔞𝔩۵_۵𝔪𝔞𝔩𝔦𝔫𝔞™👑💕✨💯
+      ♡+♡=♥²💎➳🎥🌹𝔬𝔣𝔣𝔦𝔠𝔦𝔞𝔩۵_۵𝔪𝔞𝔩𝔦𝔫𝔞™🌹👑
     bio: >-
-      ♡+♡=♥² ❣️Model📸Kinga🙋‍♀️19yo🤩fashion(lifestyle)👑Poland(Dębica)loving travel🛩cooking lover🍲 https://mym.fans/diamond_girl_2468
+      ♡+♡=♥² 𝖇ą𝖉ź 𝖙𝖆𝖐𝖆, 𝖆𝖇𝖞 𝖎𝖓𝖓𝖊 𝖐𝖔𝖇𝖎𝖊𝖙𝖞 ż𝖆ł𝖔𝖜𝖆ł𝖞, ż𝖊 𝖓𝖎𝖊 𝖘ą 𝕿𝖔𝖇ą❣️Model📸Kinga🙋‍♀️20yo🤩fashion(lifestyle)👑Poland(Dębica)loving travel🛩cooking lover🍲
     location: "Poland"
-    followers: 7827
-    engagement: 647
-    commentsToLikes: 0.036984
+    followers: 10836
+    engagement: 561
+    commentsToLikes: 0.026977
     id: ck9wfjwkmp5u60j78sid3bgdi
     verified: false
-    hashtags: "#cute, #smile, #poland, #follow"
-  - username: "kasiazyzak"
-    fullname: >-
-      Kasia Zyzak
-    bio: >-
-      Kontakt: Kasia_2193@interia.pl 🇸🇰🇺🇦🇨🇺🇯🇲🇲🇽🇰🇾🇦🇹🇨🇿🇮🇹🇸🇮🇭🇷🇧🇦🇲🇪🇦🇱🇬🇷🇪🇸🇭🇺🇷🇸🇹🇭🇸🇽🇬🇵🇻🇬🇩🇴🇲🇶 #motocyklistka 🏍 #travel 🌍 Happy #wife💖 #bulldogfrances 🐶 #cooking 🥘
-    location: "Poland"
-    followers: 17155
-    engagement: 845
-    commentsToLikes: 0.104797
-    id: ck6ttx1jbd2430j71l2c1pem3
-    verified: false
-    hashtags: "#nature, #picoftheday, #kfs, #me"
-  - username: "sylwia.home"
-    fullname: >-
-      Sylwia 🇵🇱
-    bio: >-
-      WHITE IKEA HOME 1912r. 🗝 Ikea GreenGate Riviera Maison Home ☆ Style ☆ Baking & Cooking ☆
-    location: "Poland"
-    followers: 17512
-    engagement: 375
-    commentsToLikes: 0.078747
-    id: ck14i33krdedm0i19r98rqct9
-    verified: false
-    hashtags: "#landhaus, #livingroom, #scandihome, #scandinaviandesign"
-  - username: "tadeusz_muller"
-    fullname: >-
-      Tadeusz Müller
-    bio: >-
-      ♻️Coffee with soy milk please! •Host of cooking programme Z gruntu zdrowo https://youtu.be/-UZzh5P0fBQ •Mng:ewaskolarus@gmail.com📞 601165553‬
-    location: "Poland"
-    followers: 17867
-    engagement: 489
-    commentsToLikes: 0.043126
-    id: ck5zx1wl176s60i14htfc812u
-    verified: false
-    hashtags: "#vuca, #czekolada, #zdrowie, #lovechocolate"
-  - username: "mrs.polkadot"
-    fullname: >-
-      Mrs. Polka Dot / Agnieszka
-    bio: >-
-      • family lifestyle blogger • mom • interior design lover • cooking enthusiast • author of #sumadrobnychradosci #polkaprzygarach #dzieciakiprzygarach
-    location: "Poland"
-    followers: 56644
-    engagement: 216
-    commentsToLikes: 0.040592
-    id: ck0vv41tdng2q0i19wnlsa8pw
-    verified: false
-    hashtags: "#jajkazapiekane, #warzywa, #jajka, #asus"
+    hashtags: "#instagood, #polskadziewczyna, #photography, #polishmodel"
   - username: "jik_thawinee"
     fullname: >-
       แม่ว่าดี cooking🍳
     bio: >-
-      🤘My family diary ✉ 🍳Cooking for my little Nara and my husband❤ 🎥YT :แม่ว่าดี chanel 🌐FB: แม่ว่าดี Contact : DM สั่งหน้ากากผ้า คลิก👇
+      🤘My family diary ✉ 🍳Cooking for my little Nara/Nami and husband 🎥YT :แม่ว่าดี chanel 🌐FB: แม่ว่าดี Contact : DM สั่งหน้ากากผ้า คลิก👇
     location: "Poland"
-    followers: 14244
-    engagement: 157
-    commentsToLikes: 0.138867
+    followers: 14606
+    engagement: 120
+    commentsToLikes: 0.104477
     id: ck5pv32gyfvty0i110hb8fc9r
     verified: false
-    hashtags: "#mylittlenara, #foodforbaby, #kidfoodidea, #maewadeecooking"
+    hashtags: "#foodforbaby, #maewadeecooking, #mylittlenara, #kidfoodidea"
+  - username: "kocikowa_gotuje"
+    fullname: >-
+      Agnieszka Kocik
+    bio: >-
+      Gotowanie to moja pasja, w kuchni odpoczywam i ładuje akumulatory 😊 Cooking is my life. Baking is my passion. ❤ 🥞🥐🥩🌯🍕🍭🍰 I'm from Poland
+    location: "Poland"
+    followers: 44883
+    engagement: 336
+    commentsToLikes: 0.023137
+    id: ck8t6i32ndpwc0j78r8aylgez
+    verified: false
+    hashtags: "#photooftheday, #patisserie, #omg, #delicious"
+  - username: "tadeusz_muller"
+    fullname: >-
+      Tadeusz Müller
+    bio: >-
+      ♻️Coffee with soy milk please! 🫑 •Host of cooking programme Miasto W Słoiku i Z Gruntu Zdrowo 🍆🔪🍅Youtube •Mng:ewaskolarus@gmail.com📞 601165553‬
+    location: "Poland"
+    followers: 22437
+    engagement: 442
+    commentsToLikes: 0.024923
+    id: ck5zx1wl176s60i14htfc812u
+    verified: false
+    hashtags: "#summer, #love, #lanzarote, #jagoda"
   - username: "aga_i_dom"
     fullname: >-
       
     bio: >-
       *pieczenie *gotowanie *dom *ogród *cooking *baking *home *gardening *England in my ❤️🇬🇧. Don’t copy my pics. Agnieszka, Poland📩 redmore@poczta.onet.pl
     location: "Poland"
-    followers: 27739
-    engagement: 276
-    commentsToLikes: 0.034299
+    followers: 28009
+    engagement: 247
+    commentsToLikes: 0.041138
     id: ckf5oqo9j3ech0j233us8cf4p
     verified: false
-    hashtags: "#cake, #mie, #yummy, #kuchnia"
+    hashtags: "#obiad, #delicious, #goodfood, #cook"
+  - username: "karolinafig"
+    fullname: >-
+      Karolina ❤
+    bio: >-
+      Podlasie/PL LIFESTYLE 😊 nails 💅coffee☕ books📚 Cosmetics💄ukulele 🪕🎶 handmade 🧶🧵cooking 🍳🧁 socialworker👥🦸 Współpraca: karolinafig1@op.pl lub DM 📩
+    location: "Poland"
+    followers: 8326
+    engagement: 895
+    commentsToLikes: 0.030911
+    id: ckf5pfbtt5w3s0j23m7b3g3h0
+    verified: false
+    hashtags: "#naturalbeauty, #bookstagrampl, #czytaniejestfajne, #nails"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In San Francisco In 2022
+title: Top 10 Athletes Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top athletes Instagram influencers in San Francisco in 2022. Most popular hashtags: #athlete #sports #sanfrancisco #fitness.
+  Find top athletes Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #athlete #blessed #fitness.
 platform: Instagram
-hits: 26
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 26 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 25
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
+  - username: "cryssaboo"
+    fullname: >-
+      Cryssa 🌺🐉
+    bio: >-
+      Mandalorian ABG 💜💙👾🎮 ⚕️🔫🏋🏽‍♀️🥊🤍💚
+    location: "United States"
+    followers: 15647
+    engagement: 664
+    commentsToLikes: 0.022248
+    id: ck5chej43qmhq0i1149b8h4xm
+    verified: false
+    hashtags: "#tactical, #muaythai, #crossfit, #bobafett"
+  - username: "sanfrankrisco"
+    fullname: >-
+      Kris Hui
+    bio: >-
+      san francisco • sjsu alum @gymshark athlete NEWEST VIDEO ↡ ↡ ↡
+    location: "United States"
+    followers: 51764
+    engagement: 1678
+    commentsToLikes: 0.007308
+    id: ckap55xiqac1d0i78ipx47ct8
+    verified: false
+    hashtags: "#scottyd, #fitness"
+  - username: "ucf_ashley"
+    fullname: >-
+      Ashley Evans
+    bio: >-
+      Athlete/Cheerleader UCF Firestorm & Storm Lhs 22’ @rebelathletic Model 2017-21 @gomeegirl Ambassador
+    location: "United States"
+    followers: 5730
+    engagement: 402
+    commentsToLikes: 0.101619
+    id: ckaowisu694b30i782fyg53qc
+    verified: false
+    hashtags: "#backspot, #rebelathleticwomen, #rebelathleticgirls, #strongisbeautiful"
   - username: "welton.lewis"
     fullname: >-
       Welton
     bio: >-
       Actor|Model|Entertainer 📍San Francisco
     location: "United States"
-    followers: 35178
-    engagement: 256
-    commentsToLikes: 0.019563
+    followers: 34948
+    engagement: 227
+    commentsToLikes: 0.013875
     id: ck0w4olfnzma00i19t74kg2wy
     verified: false
-    hashtags: "#malemodel, #model, #bodybuilder, #actor"
-  - username: "worldofwindsurf"
+    hashtags: "#bodybuilder, #model, #malemodel, #actor"
+  - username: "nikita_teterev"
     fullname: >-
-      ᗯᗝᖇᒪᗪ ᗝᖴ ᗯᎥᑎᗪᔕᑌᖇᖴ
+      𝐍𝐢𝐤𝐢𝐭𝐚 𝐓𝐞𝐭𝐞𝐫𝐞𝐯
     bio: >-
-      Media | News | Digital Publishing: 🔂 #26 Digi Mag "TWO ZERO " is online, https://edition26.worldofwindsurf.com/ #worldofwindsurf @worldofwindsur
+      📍 𝙻𝙰 🇺🇸 🚨 ᴘʜᴏᴛᴏ/ᴠɪᴅᴇᴏ 🎪 ᴄɪʀqᴜᴇ ᴅᴜ sᴏʟᴇɪʟ 🔺 sᴛᴜɴᴛ ᴘᴇʀꜰᴏʀᴍᴇʀ ♦️ ᴘᴀʀᴋᴏᴜʀ ᴄʜᴀᴍᴘɪᴏɴ 🔻 ᴀᴄʀᴏʙᴀᴛɪᴄ ᴄʜᴏʀᴇᴏɢʀᴀᴘʜᴇʀ 📩 ɴɪᴋɪᴛᴀ.ᴛᴇᴛᴇʀᴇғғ@ʏᴀɴᴅᴇx.ʀᴜ
     location: "United States"
-    followers: 61312
-    engagement: 186
-    commentsToLikes: 0.005549
-    id: ck0w4ii6syqcr0i19zbz7s5pj
+    followers: 70138
+    engagement: 126
+    commentsToLikes: 0.045484
+    id: ck5zr2ilyvrwc0i14x2znqqjn
     verified: false
-    hashtags: "#worldofwindsurf, #windsurfgirls, #windsurf, #windsurfing"
-  - username: "deoam"
-    fullname: >-
-      Deo A-Mutomb
-    bio: >-
-      black art — black stories focused 🇨🇩✊🏿 Watch “Planet of the humans” ⬇️⬇️⬇️
-    location: "United States"
-    followers: 7145
-    engagement: 861
-    commentsToLikes: 0.042908
-    id: ck0txk13ejgxc0i19rkqjuqpz
-    verified: false
-    hashtags: "#africanart, #oaklandartist, #artsy, #procreate"
-  - username: "rustam.serbiev"
-    fullname: >-
-      Rustam Serbiev
-    bio: >-
-      Professional Fighter I represent team @americankickboxingacademy Sponsorship/сотрудничество serbievmma@hotmail.com
-    location: "United States"
-    followers: 191813
-    engagement: 97
-    commentsToLikes: 0.016658
-    id: ck5cgxes9ppz50i11ecd6dduh
-    verified: false
-    hashtags: "#fighter, #instadaily, #sportwear, #belgium"
+    hashtags: "#headshots, #trick, #workout, #flip"
   - username: "thekatelync"
     fullname: >-
       Katelyn Ribero
     bio: >-
-      San Francisco Bay Area Women’s Strength, Physique & Nutrition Coach Self Love & Body Confidence Advocate @johnskillerprotein Athlete Code:KatelynC
+      San Francisco Bay Area Follower of Jesus Strength, Physique & Nutrition coach Mother @johnskillerprotein Athlete Code:KatelynC
     location: "United States"
-    followers: 34861
-    engagement: 100
-    commentsToLikes: 0.077136
+    followers: 33125
+    engagement: 51
+    commentsToLikes: 0.113766
     id: ck0u1t467xtqm0i198zgyih5g
     verified: false
-    hashtags: "#sffitness, #trainertips, #selflove, #familyphotoshoot"
-  - username: "kamalanidung"
+    hashtags: "#strongwomen, #personaltrainer, #mondaymotivation, #christianquotes"
+  - username: "kirstenalexisadventures"
     fullname: >-
-      XEANA - 𝙼𝚜. 𝚆𝚘𝚛𝚕𝚍𝚠𝚒𝚍𝚎
+      Kirsten Alexis
     bio: >-
-      Professional Athlete PUR National Team Medalist 🥇🥉 UC Berkeley Currently in 📍 San Francisco, CA TM ❤️
+      Adventure Athlete 🏄🏻‍♀️ Content Creator Skydiving 🪂 Hiking 🥾 SUP 🌊 Fitness and Health 🏃🏼‍♀️ Founder: @thisadventurelife 🏔 #livefearlessly 🤙🏻
     location: "United States"
-    followers: 13838
-    engagement: 1201
-    commentsToLikes: 0.057202
-    id: ck5cab220d2i80i11boge4u86
+    followers: 21214
+    engagement: 148
+    commentsToLikes: 0.067000
+    id: ck5cfsmt6njyh0i11v2zen0t8
     verified: false
-    hashtags: "#espn, #cbssports, #prosoftball, #mentalhealthawareness"
-  - username: "annikamichelle1"
+    hashtags: "#renotahoe, #staylocaltahoe, #womenempowerment, #mindsetiseverything"
+  - username: "missfitlq"
     fullname: >-
-      Annika Michelle
+      Lauren Q - Get Fit With Me
     bio: >-
-      🎥Entertainment TV Host 🎤Interviewing Celebs & Athletes 💌Inquiries: Annika@annikamichelle.com
+      ♥ I teach women to feel good naked + gain confidence working out! ❀ @cheri_fit athlete LQ10 ⚘ @blessedprotein LQ10 ☟Join the Next 6 Week Challenge!
     location: "United States"
-    followers: 93330
-    engagement: 420
-    commentsToLikes: 0.161211
-    id: ck137q5spctbh0i19syo4wbtf
-    verified: true
-    hashtags: "#travelvibes, #traveladventures, #travelgram, #enjoyingeverymoment"
-  - username: "killagiros"
-    fullname: >-
-      Maria Kalogiros
-    bio: >-
-      📍DE || GRE 🇬🇷 @healthyassets Athlete | discount code- killagiros •whats your problem man?• Lash Certified @killalashes_ 🦋 SHOP MY INSTAGRAM 👇🏼
-    location: "United States"
-    followers: 6092
-    engagement: 840
-    commentsToLikes: 0.034319
-    id: ck5q46dasnygy0i11tknox0mw
+    followers: 53718
+    engagement: 145
+    commentsToLikes: 0.047900
+    id: ck6ttbrs39pxb0j71hm3dx9je
     verified: false
-    hashtags: "#ltkfashion, #shein, #fashionblogger, #liketoknowitstyle"
+    hashtags: "#pregnancy, #motivation, #pregnant, #motivationalquotes"
   - username: "iwilliams93"
     fullname: >-
       Ian Williams
     bio: >-
-      @notredame - Film&TV Degree ☘️ Pro Athlete - 49ers 🏈 NBC Sports Bay Area Analyst @nbcsauthentic 🐦 iwilliams95 (407) Father
+      @notredame - Film&TV Degree ☘️ Pro Athlete - 49ers 🏈 NFL Analyst - Xfinity Sunday NBC Bay Area 🐦 iwilliams95 (407) Father
     location: "United States"
-    followers: 29434
-    engagement: 702
-    commentsToLikes: 0.044221
+    followers: 29080
+    engagement: 725
+    commentsToLikes: 0.044043
     id: ck6tj20g31urv0j71vdj2al31
     verified: true
-    hashtags: "#49ersfootball, #bayarea, #nbcsports, #nfcwest"
-  - username: "showtimewerner"
+    hashtags: "#ninerfaithful, #nbc, #49erfaithful, #ninerempire"
+  - username: "konagirllee"
     fullname: >-
-      Chelsea Werner
+      ᒪEᗩᑎᑎE ᖇEYᑎOᒪᗪS
     bio: >-
-      2X WORLD CHAMPION GYMNAST @womensbest athlete @wespeakmodels @milkmodelmanagement @naturallyfitagencyla
+      ᴹᴬᴰᴱ ᴵᴺ ᴴᴬᵂᴬᴵᴵ 🌴 ᶜᴬᴸᴵᶠᴼᴿᴺᴵᴬ📍🇺🇸 🅥🅞🅛🅚🅢🅦🅐🅖🅔🅝 🇧🇷 🇺🇸 🇲🇽 ᴠᴡ ғᴜsᴄᴀ + ᴋᴏᴍʙɪ ᴏᴡɴᴇʀ @fitcouple.coppini @EvogenNutrition ᴱᴸᴵᵀᴱ ᴬᵀᴴᴸᴱᵀᴱ
     location: "United States"
-    followers: 180434
-    engagement: 223
-    commentsToLikes: 0.073441
-    id: ck5ciqdwyt5qw0i11cogt5ka4
-    verified: true
-    hashtags: "#womensbest, #reels, #tbt, #womensbestwear"
+    followers: 13461
+    engagement: 420
+    commentsToLikes: 0.033017
+    id: ck9h9pzds9hui0j78b2nwl3b3
+    verified: false
+    hashtags: "#volks, #vwgirl, #goodvibes, #love"
 ---

@@ -1,36 +1,72 @@
 ---
-title: Top 10 Wellness Instagram Influencers In India In 2022
+title: Top 10 Wellness Instagram Influencers In India In 2023
 description: >-
-  Find top wellness Instagram influencers in India in 2022. Most popular hashtags: #healthylifestyle #travel #goa #fitnessmotivation.
+  Find top wellness Instagram influencers in India in 2023. Most popular hashtags: #giveawayalert #reelitfeelit #reelkarofeelkaro.
 platform: Instagram
-hits: 217
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 217 Instagram influencers like this in India for you to collaborate.
+hits: 183
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 183 Instagram influencers like this in India for you to pitch.
 profiles:
+  - username: "_jasminvanessa"
+    fullname: >-
+      JΛSMIN ╳ VΛNESSΛ
+    bio: >-
+      ur virtual soul sis Unfiltered NY creative💃🏽 Life+CurvyStyle ✘ Wellness ✘ Advocacy join the fam #jasmINSPIRED jasminvanessa93@gmail.com LATEST YT VID↓
+    location: "India"
+    followers: 29165
+    engagement: 1068
+    commentsToLikes: 0.204951
+    id: ck55mxhoz51bd0i11q9fhs1x0
+    verified: false
+    hashtags: "#birthdayshoot, #springaesthetic, #pinterestaesthetic, #lablogger"
+  - username: "kaitlindemello"
+    fullname: >-
+      Kaitlin DeMello
+    bio: >-
+      paid to play with your doggos • clean beauty & wellness • Oahu let’s turn your dreams into reality
+    location: "India"
+    followers: 11360
+    engagement: 1055
+    commentsToLikes: 0.109524
+    id: ck6ucpzdtgya20j71ben1zt78
+    verified: false
+    hashtags: "#mixedgirl, #beachphotoshoot, #monathair, #asianmodels"
+  - username: "manthanpatelia"
+    fullname: >-
+      Manthan Patelia
+    bio: >-
+      🤾‍♂️ Young hustler filled with positivity 🛩 Globetrotter 🌿 Nutrition & wellness advisor 🕶 Expanding Empire 🎖 Founders Platinum @amway @xsnation
+    location: "India"
+    followers: 7364
+    engagement: 1655
+    commentsToLikes: 0.022419
+    id: ckap586zlam0d0i786uqhgqky
+    verified: false
+    hashtags: "#jobsearching, #customizeyourlife, #artistry, #nocaption"
+  - username: "esmee_ldn"
+    fullname: >-
+      ESMÉE 🌙💫💛
+    bio: >-
+      Head of Exercise Wellness @virginactiveuk 🎥 Online Presenter 🏋🏼‍♀️ Coach 🎤 Motivational Speaker 📧 cathy@insanitygroup.com | @ixbtalent | @insanityhq
+    location: "India"
+    followers: 29941
+    engagement: 286
+    commentsToLikes: 0.031903
+    id: ck1394hxrjhb30i199t0p6p83
+    verified: false
+    hashtags: "#newhomes, #happilyeveractive, #exercisewellness, #wellness"
   - username: "glamadventuress"
     fullname: >-
-      Navneet|Travel & Lifestyle
+      Navneet| Travel Blogger
     bio: >-
-      ☀️Forever chasing sunsets and wanderlust! 📎Travel, wellness and everything in between 📮Enquiries: glamadventuress@yahoo.com ↓Blog, guides, tips
+      ☀️All things travel, fashion, food & wellness 🗺www.GlamAdventuress.com 💌Let’s get in touch:glamadventuress@yahoo.com 🎞Check out my new YouTube channel
     location: "India"
-    followers: 45381
-    engagement: 365
-    commentsToLikes: 0.057773
+    followers: 94813
+    engagement: 285
+    commentsToLikes: 0.068197
     id: ck139dzxykug00i19eoq1az5z
     verified: false
-    hashtags: "#reelsvideo, #teatime, #chaitime, #healthysnackideas"
-  - username: "rhythm_of_yoga"
-    fullname: >-
-      YᗩᔕᔕᗰIᑎE Yoga Teacher Dubai
-    bio: >-
-      ☾CYT 500hrs مدربة يوغا معتمدة ➵Yoga & Wellness | Vegan traveler ➵Dm 4 classes↴& Collaborations ➵Prenatal- Adult & kids yoga ➵Discounts↴@liquidodubai
-    location: "India"
-    followers: 40161
-    engagement: 107
-    commentsToLikes: 0.212685
-    id: ck9h9sslg9tqq0j78qpb49pf5
-    verified: false
-    hashtags: "#yogateacherdubai, #funpinkyogis, #yogaforeveryone, #yogachallenge2020"
+    hashtags: "#glamadventuress, #indiangirlstravel, #travelreels, #reelitfeelit"
   - username: "amritajeremiah"
     fullname: >-
       AMRITA JEREMIAH
@@ -42,89 +78,53 @@ profiles:
     commentsToLikes: 0.026987
     id: ck14kwwferq7s0i19nrgf4l2l
     verified: false
-    hashtags: "#wherechennaieats, #holistichealth, #autumnaesthetic, #sweaterseason"
-  - username: "heartyourlifee"
+    hashtags: "#chennaiwinter, #madras, #holistichealth, #autumnaesthetic"
+  - username: "mrinalikabhanjdeo"
     fullname: >-
-      HeartYourLifee 🌸
+      Mrinalika Bhanjdeo, Mayurbhanj
     bio: >-
-      Welcome to my world 💫 Fashion | Food | Beauty | Lifestyle | Wellness 🌸 Personal account- @vidushi_sethi 💓 DM for collaborations 📧
+      Director @thebelgadiapalace 🏰 Founder @hasa.atelier Certified Hatha & Yin yoga teacher Online classes-DM for collaborations. All things #wellness🌈
     location: "India"
-    followers: 6564
-    engagement: 1259
-    commentsToLikes: 0.251142
-    id: ckf5sb43df5740j23h84pzy52
+    followers: 13449
+    engagement: 728
+    commentsToLikes: 0.020358
+    id: ck14gyhc77n7k0i19dwdh1eo2
     verified: false
-    hashtags: "#lucknowblogger, #stylinginspiration, #jewellerystyling, #todayslook"
-  - username: "karishma_sakhrani"
+    hashtags: "#tnlindia, #odisha, #discovertheundiscovered, #sustainable"
+  - username: "phuongkhanh_official"
     fullname: >-
-      Karishma Sakhrani
+      PHUONG KHANH
     bio: >-
-      God's Favourite Child. Chef. MasterChefIndia4 Finalist. Wellness Enthusiast . Seeker of Balance. Sun Chaser. Believer 📍Bombae
+      THE PURSUIT OF WELLNESS Life is beautiful 🌀 👑Miss Earth 2018 Contact for work: (+84) 0931824648 Email: info@spherevietnam.com
     location: "India"
-    followers: 94146
-    engagement: 114
-    commentsToLikes: 0.031996
-    id: ck5cavvh8e8ta0i11z9eqcqsa
-    verified: false
-    hashtags: "#dharanawayoflife, #masterchef, #masterchefindia, #atombox"
-  - username: "kellylkruger"
-    fullname: >-
-      KELLY KRUGER BROOKS
-    bio: >-
-      U know me from ur fav TV shows, movies & @madisoncharlesoils. I share beauty/wellness /mom tips while hopefully making u laugh.Fav roles: Wife & Mama💕
-    location: "India"
-    followers: 91473
-    engagement: 223
-    commentsToLikes: 0.060292
-    id: ck15ra5wt6x3j0i19a0diwokw
+    followers: 132286
+    engagement: 249
+    commentsToLikes: 0.007605
+    id: ck5cd9f21irlt0i11rhws8thl
     verified: true
-    hashtags: "#staytuned, #marriedlife, #makeuplook, #momlife"
-  - username: "kisslifehelllo"
+    hashtags: "#staysafe, #ponkanstudio, #staystrong, #missearth"
+  - username: "sonekanwar"
     fullname: >-
-      Sneha Navneeth Sangani 𓂀 ♓︎
+      SONE KANWAR | Beauty & Style
     bio: >-
-      ॐ☽🧿practicing self love & body love • balanced living • realness & wellness • recipes • plant lady • dog mamma • creative stylist living in bdq/del
+      सोन I create Beauty , Skincare , Wellness Personal Style & Fashion content. 📍Noida #goodvibesonly Delhi sone@glossypolish.com
     location: "India"
-    followers: 28279
-    engagement: 333
-    commentsToLikes: 0.033876
-    id: ck6txlab7ygcb0j71srgxb83o
+    followers: 210491
+    engagement: 257
+    commentsToLikes: 0.134429
+    id: ckaouxn7i29iw0i78srtq9fxc
     verified: false
-    hashtags: "#tijarafortpalace, #travel, #heritagehotels, #relivehistory"
-  - username: "poojabediofficial"
+    hashtags: "#skincareroutines, #ootdinspo, #skincareblogger, #haircareproducts"
+  - username: "deekshamishraofficial"
     fullname: >-
-      POOJA BEDI
+      Deeksha Mishra
     bio: >-
-      Artist | Mother | Adventurer | Child of the Universe Wellness Entrepreneur Founder - @happysoullifestyle
+      Millennial Motherhood 👩‍👦‍👦 Fashion, Beauty, Lifestyle & Wellness Inspire over Influence | Brand Specialist 💌deeksha.agrawal@gmail.com Delhi NCR
     location: "India"
-    followers: 132137
-    engagement: 164
-    commentsToLikes: 0.040495
-    id: ckaot4ugyue620i783cr7oje6
-    verified: true
-    hashtags: "#comedycouple, #jokinglyyours, #happysoulwellness, #happysoulmoment"
-  - username: "ajithbabu7"
-    fullname: >-
-      Fitness Trainer
-    bio: >-
-      Help You to Achieve Your Overall Wellness FOUNDER : LIFT @liftwithajith PERSONAL TRAINER : @therealprithvi HEAD OF : @parkwaykochi
-    location: "India"
-    followers: 10495
-    engagement: 838
-    commentsToLikes: 0.057224
-    id: ck1396gwljrre0i194edylh09
+    followers: 75858
+    engagement: 191
+    commentsToLikes: 0.083763
+    id: ck9wdb4iqeuds0j78l9uo7aj8
     verified: false
-    hashtags: "#muscle, #fitness, #transformation, #boxingtraining"
-  - username: "thedefaultrunner"
-    fullname: >-
-      Reeti Sahai
-    bio: >-
-      Entrepreneur | Marathoner | 🐶 mom Captain @adidasrunners Delhi Athlete @univedsports Certified Fitness Trainer I Yoga Lover Wellness | Travel Foodie
-    location: "India"
-    followers: 21816
-    engagement: 296
-    commentsToLikes: 0.034221
-    id: ckaoz7o1tkqi80i78nl4066xj
-    verified: false
-    hashtags: "#marathoner, #travelgram, #fitoverforty, #travelholic"
+    hashtags: "#explorepage, #gurugram, #reels, #gurgaonmoms"
 ---

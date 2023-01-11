@@ -1,96 +1,120 @@
 ---
-title: Top 10 Food TikTok Influencers In 2022
+title: Top 10 Food TikTok Influencers In 2023
 description: >-
-  Find top food TikTok influencers in 2022. Most popular hashtags: #fyp #duet #foryoupage #youwantmore.
+  Find top food TikTok influencers in 2023. Most popular hashtags: #stitch #duet #fyp.
 platform: TikTok
-hits: 13998
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 13998 TikTok influencers like this for you to connect with.
+hits: 13572
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 13572 TikTok influencers like this for you to contact.
 profiles:
-  - username: "foods"
-    fullname: >-
-      Foods
-    bio: >-
-      Foodies Child Click Below To Add My Snapchat⬇️ adding back first 100 (87/100)
-    location: "United States"
-    followers: 383200
-    engagement: 2125
-    commentsToLikes: 0.020492
-    id: ckavk8b2bt4nh0j23fe2720hw
-    verified: true
-    hashtags: "#learnontiktok, #cheese, #ramen, #recipe"
   - username: "foodysporn"
     fullname: >-
       Foodysporn
     bio: >-
       Food
     location: "Australia"
-    followers: 95000
-    engagement: 1913
-    commentsToLikes: 0.006945
+    followers: 93900
+    engagement: 1822
+    commentsToLikes: 0.007631
     id: ck9nai4n5a90m0j78g1sex0ig
     verified: false
-    hashtags: ""
+    hashtags: "#streetfood, #lovefood, #burger, #dessert"
+  - username: "ruslanapopach"
+    fullname: >-
+      Ruslana Popach
+    bio: >-
+      18 Sc: food_unicorn8
+    location: "United States"
+    followers: 171600
+    engagement: 1775
+    commentsToLikes: 0.023270
+    id: ck9324031huxi0j783t5cs6s1
+    verified: false
+    hashtags: "#foryou"
   - username: "the_anu_v"
     fullname: >-
       Tik Toker
     bio: >-
       bollywood fan and music is my food ! thank you for checking my profile 👍🤩🙏
     location: "India"
-    followers: 2098
-    engagement: 3268
-    commentsToLikes: 0.141526
+    followers: 2094
+    engagement: 2952
+    commentsToLikes: 0.133888
     id: ckbklsci4f3nd0j23z9nvgr7e
     verified: false
-    hashtags: "#neverquit, #havefaith, #sundayvibes, #mondaymood"
-  - username: "dobermans_of_tiktok"
+    hashtags: "#havefaith, #sundayvibes, #theanuv, #mondaymood"
+  - username: "i_like_anime_perro"
     fullname: >-
-      dobermans_of_tiktok
+      Love anime
     bio: >-
-      Not my dogs!!! Raw food, Dobermans and other amazing dogs 💗
-    location: "United Kingdom"
-    followers: 136300
-    engagement: 2212
-    commentsToLikes: 0.044207
-    id: ckcoxgpis9u2s0j23kv8yg5im
-    verified: false
-    hashtags: "#dobermanedit, #dobermansoftiktok, #apbt, #dobermans"
-  - username: "samia_khaan.1"
-    fullname: >-
-      سامية خان❤️
-    bio: >-
-      #horselover #food From🇵🇰🇺🇸 📍🇦🇪
-    location: "United Arab Emirates"
-    followers: 95500
-    engagement: 2099
-    commentsToLikes: 0.043433
-    id: ckbawarl1mqhz0j23jqwmt5t3
-    verified: false
-    hashtags: "#pakistani, #samiakhan, #mylook, #hyee"
-  - username: "ikenwin"
-    fullname: >-
-      Kenny Nguyen
-    bio: >-
-      150k❗️ ‘97 liner Actor/Foodie/Model Be a #Winner Spam likes will get you blocked
+      Love anime💕I like food lol💕 🙃love the boys No homo
     location: "United States"
-    followers: 117600
-    engagement: 2614
-    commentsToLikes: 0.033164
-    id: ckcegf7panp9a0j232mohslnl
+    followers: 7112
+    engagement: 1969
+    commentsToLikes: 0.134033
+    id: ckdi7y2jya2jr0j23s80euc83
     verified: false
-    hashtags: "#duet, #myhobby, #couplegoals, #fyp"
-  - username: "sinfully_virgo"
+    hashtags: "#duet"
+  - username: "makeupbyluckiestar48"
     fullname: >-
-      Josephina♍️
+      Makeupbyluckiestar48
     bio: >-
-      I don’t share food!!! -Joey
+      #WCC that loves Da Lord, Family, Food & Music 💫
     location: "United States"
-    followers: 81800
-    engagement: 2003
-    commentsToLikes: 0.038856
-    id: ckbwb32am0kb70j23h4hp1c5f
+    followers: 10600
+    engagement: 1924
+    commentsToLikes: 0.121093
+    id: ckb9r85kann5c0j23pz70kce1
     verified: false
-    hashtags: "#foryoupage, #stemlife, #familyimpression, #redbulldanceyourstyle"
+    hashtags: "#thankyoulord, #wcc, #salad, #dinner"
+  - username: "cupcakesandbarbells"
+    fullname: >-
+      cupcakesandbarbells
+    bio: >-
+      Fitness pro helping people understand food and exercise
+    location: "United States"
+    followers: 59000
+    engagement: 1896
+    commentsToLikes: 0.068913
+    id: ckcdysmz1gux80j23xk4mflco
+    verified: false
+    hashtags: "#fitness, #gym, #pistolsquats, #workout"
+  - username: "biteswithbuddy"
+    fullname: >-
+      Buddy
+    bio: >-
+      Sharing & Searching for ❤️ thru food & growth
+    location: "United States"
+    followers: 345200
+    engagement: 1869
+    commentsToLikes: 0.038080
+    id: ck982l6pqgibu0j782qnir0ss
+    verified: false
+    hashtags: "#newchef, #dinnerideas, #mealprep, #welcomeback"
+  - username: "agatillano"
+    fullname: >-
+      RAIKANTOPHINO (พี่โน่)
+    bio: >-
+      ❤️ Food, Travel, & Comedy 🇮🇩🇹🇭
+    location: "Indonesia"
+    followers: 201100
+    engagement: 1816
+    commentsToLikes: 0.031685
+    id: ck9kduzc2w0se0j78zpvhbnu4
+    verified: false
+    hashtags: "#viensboys, #raikantophino, #kulinertiktok, #kulinersolo"
+  - username: "johannaswanderland"
+    fullname: >-
+      Johanna
+    bio: >-
+      35 & winging it Random sleeper Travel 🖤 Food
+    location: "United States"
+    followers: 9793
+    engagement: 1015
+    commentsToLikes: 0.135674
+    id: ckbbshikxfztb0j2341iv0xv6
+    verified: false
+    hashtags: "#duet, #adulting, #stitch, #fyp"
   - username: "ro.pxx"
     fullname: >-
       ✨magic✨
@@ -103,28 +127,4 @@ profiles:
     id: ckd6p21e8jvny0j23kvk4e6bq
     verified: false
     hashtags: "#duet"
-  - username: "makeupbyluckiestar48"
-    fullname: >-
-      Makeupbyluckiestar48
-    bio: >-
-      Texas wheelchairchic that loves Da Lord, fam, food, music & $Makeupbyluckiestar
-    location: "United States"
-    followers: 8196
-    engagement: 1738
-    commentsToLikes: 0.075513
-    id: ckb9r85kann5c0j23pz70kce1
-    verified: false
-    hashtags: "#fyp, #smalltiktoker, #wheelchair, #navybeans"
-  - username: "lobos_austintx_realtor"
-    fullname: >-
-      Neil
-    bio: >-
-      Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
-    location: "United States"
-    followers: 5672
-    engagement: 1732
-    commentsToLikes: 0.284642
-    id: ckbatpudxkb4z0j23681zq86x
-    verified: false
-    hashtags: "#whatsyourpower, #randomthings, #thisisbliss, #friends"
 ---

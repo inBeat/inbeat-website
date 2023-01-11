@@ -1,34 +1,22 @@
 ---
-title: Top 10 Triathlon Athletes Instagram Influencers In 2022
+title: Top 10 Triathlon Athletes Instagram Influencers In 2023
 description: >-
-  Find top triathlon athletes Instagram influencers in 2022. Most popular hashtags: #triathletes #compressport #sunday #giuliomolinari.
+  Find top triathlon athletes Instagram influencers in 2023. Most popular hashtags: #ironman #2020h2ctwtime4fun #swimming #swimmer.
 platform: Instagram
-hits: 2
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 2 Instagram influencers like this for you to connect with.
+hits: 1
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 1 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "giulio.molinari"
+  - username: "joylee82309"
     fullname: >-
-      Giulio Molinari
+      詹瑩 李
     bio: >-
-      Italian PRO triathlon athlete. 2014-2016-2018 European champion. 2014-2016-2017 Italian champion. Kona 2017 and 2018. 🥇 Icon Livigno Xtreme
-    location: "Italy"
-    followers: 9509
-    engagement: 1205
-    commentsToLikes: 0.030821
-    id: ck134zj3yyymk0i19oji97o3u
+      Founder of JoyUp @joyuptoday 💕 愛爾達電視節目 #防疫動起來 Triathlete NTU🏫 172c͟͟m͟͟ Yoga instructor Swimming coach 📧：joylee.studio93@gmail.com
+    location: ""
+    followers: 9749
+    engagement: 466
+    commentsToLikes: 0.023892
+    id: ck8sxjyhaho880j787tf02d2b
     verified: false
-    hashtags: "#iorestoacasa, #giuliomolinari, #compressport, #livigno"
-  - username: "olgapurroytri"
-    fullname: >-
-      Olga Purroy
-    bio: >-
-      •Madre y Esposa 👨‍👩‍👧‍👦 •Ciclista de Pista y Ruta🚵 •Triatleta 🏊🚴🏃 • #roadtokona2021 🌺 Team @trespinas 👇Diplomado Inteligencia Mental Deportiva 👇
-    location: "Venezuela"
-    followers: 10989
-    engagement: 612
-    commentsToLikes: 0.045832
-    id: ck8t4sr627uzg0j78gmpf83r7
-    verified: false
-    hashtags: "#triathletes, #bike, #citybikesmiami, #swimbikerun"
+    hashtags: "#ironman, #triathlon, #athlete, #2020h2ctwtime4fun"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Milan In 2022
+title: Top 10 Cosmetics Instagram Influencers In Milan In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Milan in 2022. Most popular hashtags: #makeup #milano #fashion #style.
+  Find top cosmetics Instagram influencers in Milan in 2023. Most popular hashtags: #makeuptutorial #makeup #beauty #undiscovered.
 platform: Instagram
-hits: 112
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 112 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 92
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 92 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "mirkostendardi.official"
+  - username: "thegabriellealvarez"
     fullname: >-
-      Mirko Stendardi
+      midnight_weirdo
     bio: >-
-      🍾 #winelover 🇮🇹 italian lifestyle Info&Collabs📩 mirko.stendardi@gmail.com TIK TOK 🤙🏻
+      Gabi Alvarez MUA + Photog 📩 gabrielle.alvarez3@gmail.com 📍LA + will travel
     location: "Italy"
-    followers: 18184
-    engagement: 650
-    commentsToLikes: 0.086166
-    id: ck6ufez1dwncy0j717p7pyuxb
+    followers: 30090
+    engagement: 519
+    commentsToLikes: 0.062307
+    id: ck0tv4vss9y080i1960y4spo5
     verified: false
-    hashtags: "#italianmodel, #fashion, #blackandwhite, #fashionstyle"
+    hashtags: "#glowbyauric, #triochrome, #auric, #ambientlux"
+  - username: "porziacarlone"
+    fullname: >-
+      Porzia Carlone
+    bio: >-
+      ❤️ Porzia | Content Creator 💋 💄 Make up / Skincare 💆‍♀️ @sheinofficial 15% 👉🏻 Q2Porzia For collab or pr ➡️ porziacarl1988@gmail.com
+    location: "Italy"
+    followers: 7631
+    engagement: 820
+    commentsToLikes: 0.168139
+    id: ckaouniqt11nt0i78ywy1zyl9
+    verified: false
+    hashtags: "#catrice, #gifted, #reels, #glammakeuplook"
   - username: "aly_makeup_"
     fullname: >-
       𝓐𝓵𝓲𝓬𝓮 💄 𝓑𝓮𝓪𝓾𝓽𝔂 𝓵𝓸𝓿𝓮𝓻💄
     bio: >-
       •#️⃣ #alymakeup •makeup artist/lover💄 •TOP 30 NYX F. AWARDS 2019 •✉️PRContact: alymakeup20081@gmail.com •D.CODE SIGMA: Alymakeup 10% •🇮🇹 MY YOUTUBE
     location: "Italy"
-    followers: 8029
-    engagement: 613
-    commentsToLikes: 0.137926
+    followers: 7953
+    engagement: 618
+    commentsToLikes: 0.108302
     id: ck8tda59n2iro0j7826ecefl1
     verified: false
-    hashtags: "#beautyeditorial, #nablacutiepalette, #nablacosmetics, #abibybox"
+    hashtags: "#blendingeyeshadows, #abibybox, #meritocracyforbeauty, #beautygirl"
+  - username: "dalisiads"
+    fullname: >-
+      🎀Dalisia🎀
+    bio: >-
+      Founder of @andalisia_fashionjewels #crativegirl 🌹🤍🧚‍♀️ ♎️ #havecourageandbekind👑 Graduated in Design della Moda👩‍🎓 I was born romantic and dreamer🎀
+    location: "Italy"
+    followers: 40170
+    engagement: 163
+    commentsToLikes: 0.146921
+    id: ck5hceqzohoxh0i11b8vvvatw
+    verified: false
+    hashtags: "#shein, #sheinblackfriday, #nataleinarrivo, #igcollaborations"
+  - username: "lulysmakeupbeauty"
+    fullname: >-
+      •LUCIA•💄
+    bio: >-
+      💄BEAUTY CONTENT CREATOR 🇮🇹 Italy 📦COLLABORATION lulysmakeupbeauty@libero.it 🎥NEW VIDEO🔽
+    location: "Italy"
+    followers: 7675
+    engagement: 596
+    commentsToLikes: 0.220700
+    id: ck14lgxi4um520i1951rcu4ib
+    verified: false
+    hashtags: "#catricecosmetics, #testandtell, #meritocracyforbeauty, #video"
   - username: "elenapiink"
     fullname: >-
       Elena
     bio: >-
       Per info DM Cosmetic Dentist 📍Milan
     location: "Italy"
-    followers: 46519
-    engagement: 113
-    commentsToLikes: 0.078763
+    followers: 46004
+    engagement: 116
+    commentsToLikes: 0.075912
     id: ckapcbmjq35wc0i789992n4ea
     verified: false
-    hashtags: "#ootdmilano, #milano, #thesquaremilano, #albergo"
-  - username: "andreea_tolomeiu"
+    hashtags: "#milano, #ootdmilano, #thesquaremilano, #outfit"
+  - username: "miss.mrj"
     fullname: >-
-      ANDREEA SET EL KOL
+      miss.mrj
     bio: >-
-      Ac Milan ❤️🖤 @acmilan #acmilan 📩 andreea.d@tolomeiu.com
+      🇮🇹 Influencer📲digital creator🌎GlobeTrotter💉nurse👩‍🔬 💌 maria.mrj2@gmail.com 📍Matera-Milano-Torino ♻️💚Eco warrior 🧖🏻‍♀️wellness🛍️home&lifestyle🍰food
     location: "Italy"
-    followers: 62850
-    engagement: 371
-    commentsToLikes: 0.060815
-    id: ck9wdfbl7fec80j78tkjgkmw3
+    followers: 22121
+    engagement: 151
+    commentsToLikes: 0.139292
+    id: ckap0fnqsq2fx0i78r73wi0iu
     verified: false
-    hashtags: "#milan, #milanista, #forzamilan, #acmilan"
-  - username: "porziacarlone"
+    hashtags: "#ambassador, #beautyroutine, #relax, #model"
+  - username: "_federicaiacono"
     fullname: >-
-      Porzia Carlone
+      🎀Fᴇᴅᴇʀɪᴄᴀ🎀😎
     bio: >-
-      ❤️ Porzia | Beauty Creator 💋 💄 Make up obsessed 💄 💆‍♀️ Skincare lover 💆‍♀️ For collab or pr ➡️ porziacarl1988@gmail.com
+      •22y old,Ischia,Italy 🇮🇹 •Fashion lover / Beauty blogger💄👒 •Collab --> DM o E-mail📩 ~I M P A R A A D A R T I T E M P O~☘️
     location: "Italy"
-    followers: 7188
-    engagement: 1277
-    commentsToLikes: 0.288044
-    id: ckaouniqt11nt0i78ywy1zyl9
+    followers: 45928
+    engagement: 76
+    commentsToLikes: 0.263070
+    id: ckapa9s46vazg0i788mppepjz
     verified: false
-    hashtags: "#makeupglam, #anastasiabeverlyhills, #anastasiabeverlyhillscosmetics, #lipstickoftheday"
-  - username: "chiarabullo_makeup"
+    hashtags: "#followme, #italy, #myself, #model"
+  - username: "make_in_paris"
     fullname: >-
-      CHIARA BULLO MAKE UP
+      Elena Parise
     bio: >-
-      Make-Up Artist & Hairstylist 💎 10+ years in Fashion industry, Commercial and Bridal 💎 Workshop, Masterclass and 1:1 📩 info@chiarabullomakeup.com
+      🇮🇹 Italy, Veneto 💄Freelancer MUA & Trainer 📸Content creator 💌Collab: elena.parise@makeinparis.it ⬇️Youtube:
     location: "Italy"
-    followers: 29689
-    engagement: 920
-    commentsToLikes: 0.050195
-    id: ck5py5pigufv90i11h6mej8z8
+    followers: 9964
+    engagement: 446
+    commentsToLikes: 0.146069
+    id: ck15sskesem4l0i19evi47t2o
     verified: false
-    hashtags: "#purplemakeup, #foundationglowing, #smokeyeye, #colorfulglam"
-  - username: "dam.doll"
+    hashtags: "#makeupinspo, #italianmua, #colorfulmakeup, #glammakeup"
+  - username: "reginainneverland"
     fullname: >-
-      ∘✧₊⁺𝕯⁺₊✧∘
+      Regina Azizova
     bio: >-
-      ℒ𝓊𝓃𝒶 𝒟𝒶𝓂 ℳ𝒶𝓀𝑒𝓊𝓅 ✨𝓣𝓲𝓳𝓾𝓪𝓷𝓪 / 𝓑𝓒✨
+      🎨Professional #makeupartist & #makeuptrainer ▪️CORSI collettivi o individuali ⬇️ 📞chiama/whatsapp +39 351 700 7277
     location: "Italy"
-    followers: 19501
-    engagement: 263
-    commentsToLikes: 0.006434
-    id: ck0w3m0htu39h0i19qb8q8hlz
+    followers: 24075
+    engagement: 351
+    commentsToLikes: 0.060796
+    id: ck5hsczj9we540i11obvenlvu
     verified: false
-    hashtags: ""
-  - username: "basic_gaia"
-    fullname: >-
-      Basic Gaia
-    bio: >-
-      ✨ 𝘽𝙞𝙪𝙩𝙞𝙜𝙪𝙧𝙪 𝙋𝙤𝙧𝙖𝙘𝙘𝙞𝙖 ✨ 💄 Web Creator & Beauty Junkie 📹 YouTube: Basic Gaia 🐰 #crueltyfree
-    location: "Italy"
-    followers: 175429
-    engagement: 995
-    commentsToLikes: 0.007357
-    id: ck15rg9df7s540i19sy05o51c
-    verified: false
-    hashtags: "#basicfriday, #essenceupdate, #makebeautyfunathome, #gifted"
-  - username: "thegeorgettist"
-    fullname: >-
-      GEORGETTE AMÈLIE SARNO®
-    bio: >-
-      🇮🇹🇺🇸 ◾ALCHEMY. ◾MEDITATION. ◾POSITIVE ENERGY. ◾PERSONAL REALIZATION. ◾TO EMERGE.
-    location: "Italy"
-    followers: 7230
-    engagement: 1328
-    commentsToLikes: 0.071342
-    id: ckaoyv11oj7ms0i780ivw8icz
-    verified: false
-    hashtags: "#beauty, #instalike, #benessere, #avellino"
-  - username: "giovanni_zummo"
-    fullname: >-
-      Giovanni Zummo
-    bio: >-
-      📩: giovanni.zummo96@gmail.com
-    location: "Italy"
-    followers: 18564
-    engagement: 1012
-    commentsToLikes: 0.016299
-    id: ck5zz51vnb3ga0i14hy6tccg3
-    verified: false
-    hashtags: "#wet, #shooting, #makeup, #prolabacasa"
+    hashtags: "#makeuptransformation, #reginainneverland, #makeupartist, #trucconaturale"
 ---

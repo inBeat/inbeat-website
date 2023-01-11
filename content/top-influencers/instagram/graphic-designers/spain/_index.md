@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Spain In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Spain In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Spain in 2022. Most popular hashtags: #summer #nature #travelphotography #spain.
+  Find top graphic-designers Instagram influencers in Spain in 2023. Most popular hashtags: #travelblogger #lightroom #spain.
 platform: Instagram
-hits: 35
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 35 Instagram influencers like this in Spain for you to connect with.
+hits: 24
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 24 Instagram influencers like this in Spain for you to contact.
 profiles:
+  - username: "marinallorca"
+    fullname: >-
+      Marina Llorca
+    bio: >-
+      📍Marbella • Madrid 🙋🏻‍♀️ Graphic Designer • Fashion 💌 marinallorcablog@gmail.com • @blvrd22agency ⇩MORE⇩
+    location: "Spain"
+    followers: 214757
+    engagement: 979
+    commentsToLikes: 0.105493
+    id: ck5btzgp9gw5u0i11qknwznfe
+    verified: true
+    hashtags: "#villanasdisneyurbanas, #hm, #hmxme, #8demarzo"
   - username: "belenapar"
     fullname: >-
       Belén Aparicio
     bio: >-
-      🔸Graphic Designer, Illustrator, Creative 🔸Photography/Travel/Lifestyle 🔸Mis ilustraciones en @belenaparte 📍Madrid ✈️ 22 countries
+      🔸Graphic Designer, Illustrator, Creative 🔸Photography/Travel/Lifestyle 🔸My art account @belenaparte 📍Los rincones más bonitos de Madrid
     location: "Spain"
-    followers: 6135
-    engagement: 1264
-    commentsToLikes: 0.145096
+    followers: 7744
+    engagement: 870
+    commentsToLikes: 0.176117
     id: ck14grpdg6ot40i19ygsoaeuq
     verified: false
-    hashtags: "#madriz, #madridmadrid, #hellofrom, #travellingthroughtheworld"
+    hashtags: "#madridmadrid, #lovemadrid, #demadridalcielo, #madridmola"
   - username: "michalppz"
     fullname: >-
       Michal Kozelský
     bio: >-
-      I make videos sometimes. Graphic designer, traveler, marketing, social media. Snapchat: michalppz ► Zvolen, for now xd 🇸🇰🇺🇸🇬🇷
+      🎬 Video creator 🎨 Graphic designer ✈️ Traveler @michalkozelsky_graphic 👻 Snapchat: michalppz 🇸🇰🇬🇷
     location: "Spain"
-    followers: 9325
-    engagement: 965
-    commentsToLikes: 0.036411
+    followers: 10293
+    engagement: 1048
+    commentsToLikes: 0.007974
     id: ck8wf02rrewc50j78wbljxgnm
     verified: false
-    hashtags: "#youtuber, #photo, #barcelona, #sunny"
+    hashtags: "#travel, #traveller, #travelling, #traveltheworld"
   - username: "aizane"
     fullname: >-
-      SANDRA MARTINEZ
+      Sandra Martínez // Aizane //
     bio: >-
-      PORTRAIT, FASHION & CREATIVE PHOTOGRAPHER & GRAPHIC DESIGNER. Sesiones, one to one, clases de edición 📩 ➡️ MD o info@aizanephoto.com
+      FREELANCE PHOTOGRAPHER & GRAPHIC DESIGNER Edición, sesiones, 1to1, clases de edición Cuenta fotografía infantil: @aizane.kids 📍Madrid
     location: "Spain"
-    followers: 5617
-    engagement: 1307
-    commentsToLikes: 0.090257
+    followers: 6186
+    engagement: 1083
+    commentsToLikes: 0.095802
     id: ck8t06m7pqz410j78o2v5zpzj
     verified: false
-    hashtags: "#photography, #photooftheday, #photoshop, #fashionphotography"
-  - username: "chelseamusic__"
+    hashtags: "#fotodome, #theartconvict, #sombrebeings, #photoshop"
+  - username: "judmoya"
     fullname: >-
-      Chelsea van de Kimmenade
+      ~ ♈️
     bio: >-
-      » Dj&Vocalist info@chelsea-music.com » Creative Director @wearesistersinbusiness » Graphic Designer @thedreamsketcher_
+      #graphicdesigner Designer · Illustrator · Model – · ᴛʜᴇ ᴇᴀʀᴛʜ ᴡɪᴛʜᴏᴜᴛ ᴀʀᴛ ɪꜱ ᴊᴜꜱᴛ "ᴇʜ" ツ · ɴᴏ ᴍᴜꜱɪᴄ, ɴᴏ ʟɪꜰᴇ ♫
     location: "Spain"
-    followers: 16879
-    engagement: 297
-    commentsToLikes: 0.056597
-    id: ck5hqu42ztq6b0i11q175nzz8
+    followers: 9611
+    engagement: 409
+    commentsToLikes: 0.031845
+    id: ck5c4d6t413qs0i11wfcpjx9d
     verified: false
-    hashtags: "#design, #new, #goodvibesonly, #summer"
+    hashtags: "#hellomonday, #catedraldesevilla"
+  - username: "sabrinamannina"
+    fullname: >-
+      Sabrina Mannina
+    bio: >-
+      Ichi-go ichi-e⛩ Learning something🥊 Graphic Designer ULA Pole dance teacher at @poleypunto Sports lover Animals lover🌱 God✨
+    location: "Spain"
+    followers: 5986
+    engagement: 541
+    commentsToLikes: 0.039140
+    id: ck602z2e1k3te0i142crv90qt
+    verified: false
+    hashtags: "#workoutathome"
   - username: "ddaida_"
     fullname: >-
       ENTER THE VO11D || ダイダ
     bio: >-
-      Street Style // Vegan // Blogger Graphic designer @once.41 📍 tik tok | ddaida . YouTube | Enterthevo11d 👩🏼‍🍳 @aboutlovefood 🌱@_impulsas
+      🇪🇸 Street Style // Vegan // Blogger GRAPHIC DESIGNER @once.41 👩🏼‍🍳 @aboutlovefood 🌱@_impulsas 📍. YouTube | Enterthevo11d
     location: "Spain"
-    followers: 13777
-    engagement: 604
-    commentsToLikes: 0.026523
+    followers: 13749
+    engagement: 475
+    commentsToLikes: 0.022430
     id: ck55ku97w03yq0i11ziwzx1p5
     verified: false
-    hashtags: "#streetphotography, #streetstyle, #streetwear, #pose"
+    hashtags: "#streetwear, #analog, #streetphotography, #thinkverylittle"
   - username: "paucarrera"
     fullname: >-
       • ᴘ ᴀ ᴜ ᴄ ᴀ  • 🏁
     bio: >-
       📍Argentina en Barcelona ••••••••••••• 📮 carrerapaulad@gmail.com 🇦🇷 | Graphic designer👩🏽‍💻| Fashion lover 💁🏽‍♀️
     location: "Spain"
-    followers: 48073
-    engagement: 307
-    commentsToLikes: 0.013427
+    followers: 49206
+    engagement: 331
+    commentsToLikes: 0.017145
     id: ck14hd6z19qcb0i19b8bsdse8
     verified: false
-    hashtags: "#outfits, #inspofashion, #zara, #sheingals"
-  - username: "tamarabrdesign"
-    fullname: >-
-      🐺 Nanook & Tamara 👩🏼
-    bio: >-
-      El mundo que hable, tu, mientras tanto, quiérete🌻 . 🐺 #lobitogüeno 👩🏼‍💻 Brand & Graphic Designer 〰️ #tamarabrdesign 💌 tamarabrdesign@gmail.com
-    location: "Spain"
-    followers: 11002
-    engagement: 728
-    commentsToLikes: 0.080443
-    id: ckap49cph6c3u0i78s1tr4p7w
-    verified: false
-    hashtags: "#asturiaspatriaquerida, #perros, #alaskanmalamute, #naturaleza"
-  - username: "valenciachris"
-    fullname: >-
-      Christian Valencia - كريستيان
-    bio: >-
-      Graphic Designer 📍Madrid - Ourense, Galiza.
-    location: "Spain"
-    followers: 3644
-    engagement: 1463
-    commentsToLikes: 0.079957
-    id: ckaozrktcn3g80i786dykhdth
-    verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: "#lookoftoday, #myoutfit, #lookoftheday, #sheingals"
   - username: "michitothehappiness"
     fullname: >-
       道~ to the Happiness
     bio: >-
-      ✏️ Graphic designer – illustrator. 💌 michitothehappiness@gmail.com 🌱 Shop: @tienda.michi / @tienda.cohetelunar 🎨 patreon.com/michitothehappiness
+      ✏️ Graphic designer – illustrator. 💌 michitothehappiness@gmail.com 🌱 Shop: @tienda.michi 🎨 patreon.com/michitothehappiness
     location: "Spain"
-    followers: 25895
-    engagement: 593
-    commentsToLikes: 0.018555
+    followers: 26191
+    engagement: 661
+    commentsToLikes: 0.025033
     id: ck6tznk7harcx0j7131kjzszx
     verified: false
-    hashtags: "#watercolorpainting, #illustration, #haikyuu, #proyectosencasa"
-  - username: "ibiza_travels_and_me"
+    hashtags: "#hobonichi, #kimetsunoyaiba"
+  - username: "paoesco8ar"
     fullname: >-
-      🌴 ᴊᴜsᴛ ᴍʏ ʙᴇᴀᴜᴛɪғᴜʟ ᴘɪᴄs...
+      - p a o l a  e s c o b a r -
     bio: >-
-      💻 @ushuaiaibiza & @hiibizaofficial Brand Director 🎨 Graphic Designer 🐠 Diving Lover ⚓️ PPER Yacht Captain 🇪🇸🇱🇰🇵🇭🇹🇭🇵🇱🇬🇧🇳🇱🇲🇽🇯🇵🇲🇻
+      Illustrator / Graphic designer / Freelancer / Colombia 🇨🇴 💌pao.escobar.es@gmail.com @paolaesco8ar
     location: "Spain"
-    followers: 12038
-    engagement: 835
-    commentsToLikes: 0.026039
-    id: ckf5sp9oxg0rl0j23qeoj5s3x
+    followers: 27395
+    engagement: 742
+    commentsToLikes: 0.023958
+    id: ck14hkd7far1t0i19hk97y47c
     verified: false
-    hashtags: "#sea, #top, #loving, #islasbaleares"
+    hashtags: "#fairytale, #paolaescobar, #illustrationartists, #flora"
 ---

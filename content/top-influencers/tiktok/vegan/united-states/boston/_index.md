@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Boston In 2022
+title: Top 10 Vegan TikTok Influencers In Boston In 2023
 description: >-
-  Find top vegan TikTok influencers in Boston in 2022. Most popular hashtags: #fyp #vegan #boston #duet.
+  Find top vegan TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #vegan #foryou #foryoupage.
 platform: TikTok
-hits: 9
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 9 TikTok influencers like this in Boston, United States for you to work with.
+hits: 6
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 6 TikTok influencers like this in Boston, United States for you to collaborate.
 profiles:
+  - username: "mikaelamstewart"
+    fullname: >-
+      mikaela🍓🦒☮️
+    bio: >-
+      my sister very much dislikes me
+    location: "United States"
+    followers: 24400
+    engagement: 1366
+    commentsToLikes: 0.084104
+    id: ckbqpr5k1alwq0j23dkkxp397
+    verified: false
+    hashtags: "#itwasntme, #foryou, #fyp, #pajamajam"
   - username: "conservative.humor"
     fullname: >-
       Conservative Humor
@@ -18,113 +30,101 @@ profiles:
     commentsToLikes: 0.236804
     id: ckbqv13pmfboe0j23hysxe71k
     verified: false
-    hashtags: "#maga2020, #biden, #trumptrain, #trump"
-  - username: "methodofnerd"
+    hashtags: "#sleepyjoe, #progun, #liberal, #trump"
+  - username: "vidhidesai97"
     fullname: >-
-      Mikey! 
+      Vidhi Desai
     bio: >-
-      Be Your Own Unique, Weird and Nerdy Self! #mentalheathmatters
+      Boston
     location: "United States"
-    followers: 7272
-    engagement: 2264
-    commentsToLikes: 0.236501
-    id: ckbb9roa7yuq50j23haxc9wj7
+    followers: 4319
+    engagement: 289
+    commentsToLikes: 0.035947
+    id: ckc36pjnovlrz0j2330f211tb
     verified: false
-    hashtags: "#foryou, #duet, #mentalheath, #fyp"
+    hashtags: "#fyp, #foryou, #foryoupage, #glowup"
   - username: "jamesdeveney"
     fullname: >-
       James Deveney
     bio: >-
       Hot-Takes | Always Yelling Co-Host of 🔥Raiders of the Lost Podcast🔥
     location: "United States"
-    followers: 82900
-    engagement: 1286
-    commentsToLikes: 0.053873
+    followers: 81400
+    engagement: 1255
+    commentsToLikes: 0.049784
     id: ck8hrxj8zaq0q0j78hi4qudcf
     verified: false
-    hashtags: "#cnn, #fox, #fyp, #boston"
-  - username: "twotastebuddiez"
+    hashtags: "#comedy, #boston, #newengland, #cnn"
+  - username: "kayhilditch"
     fullname: >-
-      twotastebuddiez
+      Kay Hilditch
     bio: >-
-      Maddie & Rachel follow us on ig! @twotastebuddiez twotastebuddiez@gmail.com
+      big fan of the ✨aesthetics✨ to-do ideas + travel + photography MA gal
     location: "United States"
-    followers: 18000
-    engagement: 849
-    commentsToLikes: 0.029520
-    id: ckc8iuk5dcdkk0j23706jahtf
+    followers: 17200
+    engagement: 993
+    commentsToLikes: 0.042501
+    id: ckdhck9e9wbf10j23j5rxvsod
     verified: false
-    hashtags: "#fun, #brunch, #bostonfood, #restaurant"
-  - username: "vidhidesai97"
+    hashtags: "#dreamy, #todo, #shoplocal, #photoresults"
+  - username: "adryprad0"
     fullname: >-
-      Vidhi Desai
+      Adriana Prado
     bio: >-
-      22 | Boston, MA
+      Cocinando y Corriendo Cooking and Running Instagram @adryprad0 🍳🏃🏽‍♀️
     location: "United States"
-    followers: 4424
-    engagement: 292
-    commentsToLikes: 0.049845
-    id: ckc36pjnovlrz0j2330f211tb
+    followers: 28100
+    engagement: 379
+    commentsToLikes: 0.018703
+    id: ckbfbqsmy3zht0j23gvzvitko
     verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #food"
-  - username: "easyveganrecipes"
+    hashtags: "#food, #groupchat, #fyp, #paratupagina"
+  - username: "veganlesbianrepublicans"
     fullname: >-
-      Rach
+      Eve & Das
     bio: >-
-      Founder @boiebar My podcast on how to go vegan linked below⬇️
+      “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
     location: "United States"
-    followers: 18700
-    engagement: 967
-    commentsToLikes: 0.021129
-    id: ckb9o6jauie2z0j23lv49b75g
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
+    id: ckdclovylnw2r0j23tvaevkjy
     verified: false
-    hashtags: "#veganlife, #veganfoodie, #vegans, #veganfood"
-  - username: "maandchris"
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
     fullname: >-
-      anthony.gleeson4
+      mae mae
     bio: >-
-      YOUR FAVORITE MA! Business Inquiries 📩 maandchrisfromboston@gmai.com
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
     location: "United States"
-    followers: 64800
-    engagement: 1021
-    commentsToLikes: 0.021080
-    id: ckbez3sl8k2uv0j2331lajq7u
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#foryou, #thecoldestwater, #relatable, #fyp"
-  - username: "wumbro"
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+  - username: "veganmumu"
     fullname: >-
-      val
+      Shannon
     bio: >-
-      24 | MA co-host of @twentywhatpod she/her
+      your vegan mom 🐧 Florida 🍊
     location: "United States"
-    followers: 27800
-    engagement: 1751
-    commentsToLikes: 0.037570
-    id: ckc7sfsg0x9jh0j236d3hmrzz
+    followers: 6762
+    engagement: 1446
+    commentsToLikes: 0.401234
+    id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#stitch, #costume, #marvel, #fyp"
-  - username: "wholesomehedonista"
+    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
+  - username: "kawaiikingb"
     fullname: >-
-      Emily Daniels
+      MJ Cobra
     bio: >-
-      Wholesome plant-based recipes 🌱
+      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
     location: "United States"
-    followers: 242900
-    engagement: 1195
-    commentsToLikes: 0.007006
-    id: ck80nr7xwe4d30j782ec7be39
+    followers: 4459
+    engagement: 2638
+    commentsToLikes: 0.068353
+    id: ckav30jp99aym0j2355hwtnvy
     verified: false
-    hashtags: "#dairyfree, #healthydessert, #smoothiebowl, #veganrecipes"
-  - username: "thevintagegoree"
-    fullname: >-
-      •Black Retro Babe•
-    bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
-    location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
-    verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
+    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
 ---

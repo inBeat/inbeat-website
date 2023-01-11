@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Dallas In 2022
+title: Top 10 TikTok Influencers In Dallas In 2023
 description: >-
-  Find top TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #wewintogether #duet.
+  Find top TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #foryou #texas #duet.
 platform: TikTok
-hits: 745
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 745 TikTok influencers like this in Dallas, United States for you to work with.
+hits: 801
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 801 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "ms._dallas_marie"
-    fullname: >-
-      Dallas
-    bio: >-
-      Distributor-Ssh..It's Real 🇺🇸 made CBD by Puritilabs. Checkout code DALLAS 21+
-    location: "United States"
-    followers: 4820
-    engagement: 1139
-    commentsToLikes: 0.166909
-    id: ck9e3n3ujkatd0j780za2lzkd
-    verified: false
-    hashtags: "#duetthis, #duet, #4upage, #4upageonly"
   - username: "drippyy.dallas"
     fullname: >-
       dallas
     bio: >-
-      socal 🌴 venmo - @Dallas-Smulson cashapp- $bbydallass
+      socal 🌴 venmo - @Dallas-Smulson cashapp- $bbydallass paypal - bbydallass
     location: "United States"
-    followers: 836300
-    engagement: 2654
-    commentsToLikes: 0.005939
+    followers: 897800
+    engagement: 2424
+    commentsToLikes: 0.009321
     id: ck9kduu0bvzcb0j78mvu8i6z1
     verified: false
-    hashtags: "#duet"
-  - username: "whtart"
+    hashtags: "#duet, #stitch"
+  - username: "omsteve"
     fullname: >-
-      William Toliver
+      Old Man Steve 
     bio: >-
-      Dallas based Teacher | Creative
+      I’m 82 years old from Dallas/Ft Worth https://www.Venmo.com/Stephen-Austin-40
     location: "United States"
-    followers: 66700
-    engagement: 1947
-    commentsToLikes: 0.059310
-    id: cka0skbbxlxbo0i78drc2tac0
+    followers: 1400000
+    engagement: 2101
+    commentsToLikes: 0.026636
+    id: ck81q35otfjtv0j78efhqzq1b
     verified: false
-    hashtags: "#foryou, #truestory, #thecoldestwater, #fyp"
-  - username: "chicago_dallas"
-    fullname: >-
-      Anthony Ward
-    bio: >-
-      Project Manager Dallas, TX
-    location: "United States"
-    followers: 5098
-    engagement: 1738
-    commentsToLikes: 0.145063
-    id: ckal63r428x1r0i788j1gj5j9
-    verified: false
-    hashtags: "#foryou, #fyp, #swa, #foryoupage"
-  - username: "ballsack202"
-    fullname: >-
-      coral🍆
-    bio: >-
-      25k ????? dallas/keller tx📍 dm me on main
-    location: "United States"
-    followers: 22700
-    engagement: 1618
-    commentsToLikes: 0.145701
-    id: ckcvgh735sv070j23bww2ozai
-    verified: false
-    hashtags: "#foryou, #fyp"
+    hashtags: "#fun, #texas, #foryoupage, #foryou"
   - username: "terjiah_loui"
     fullname: >-
       terjiah_loui
     bio: >-
-      📍DALLAS TX THE KING OF TIKTOK👑 I’ll just verify myself✅ DM FOR CHEAP PROMO💰
+      📍Dallas,Tx THE KING OF TIKTOK👑 “The guy with many talents”✨
     location: "United States"
-    followers: 1500000
-    engagement: 2723
-    commentsToLikes: 0.012944
+    followers: 2400000
+    engagement: 2512
+    commentsToLikes: 0.014188
     id: ck8or5qgyaokv0j78p0t13tkq
     verified: false
-    hashtags: "#terjiah, #fyp, #fypchallenge, #greenscreenvideo"
-  - username: "austingeter"
+    hashtags: "#fyp, #fypchallenge, #terjiah, #greenscreenvideo"
+  - username: ".tabaki"
     fullname: >-
-      austingeter
+      Its spelled taba’ki 🕵🏾‍♂️
     bio: >-
-      Ex-viner Husband and DAD 👨‍👩‍👧 Dallas, TX Email: Austingeter@yahoo.com
+      17 Dallas🥶❄️☃️ If i get 100k ill take off my beanie join the discord 😈
     location: "United States"
-    followers: 1500000
-    engagement: 2348
-    commentsToLikes: 0.028728
-    id: ck9ro61qrazkf0j78jp3gipkg
+    followers: 87900
+    engagement: 1832
+    commentsToLikes: 0.076344
+    id: ckbf0fmcblzhq0j23t9kbcz0t
     verified: false
-    hashtags: "#fyp, #foryou, #ohno, #greenscreen"
-  - username: "ohitsthathannah"
+    hashtags: "#aot, #naruto, #bleach, #attackontitan"
+  - username: "fatimaalozanoo"
     fullname: >-
-      HANNAH
+      fati🍒
     bio: >-
-      I think we should say “I love you” more💕 PO Box 195578 Dallas, TX 75219
+      50k children in my basement dallas tx 📍
     location: "United States"
-    followers: 337300
-    engagement: 2223
-    commentsToLikes: 0.027978
-    id: ck8j96kgwm2aw0j78r66z6l0p
+    followers: 57300
+    engagement: 1616
+    commentsToLikes: 0.040452
+    id: ckae7jhhvhhuj0i78dcbrctg4
     verified: false
-    hashtags: "#edrecovery, #foryou, #pov, #fyp"
-  - username: "mews"
+    hashtags: "#fy, #fyp, #foryou, #goforthehandful"
+  - username: "ballsack202"
     fullname: >-
-      FaZe Mew - CODE MEW
+      coral🍆
     bio: >-
-      ✅ @FaZeClan • Dallas, TX 🚨USE CODE MEW 💌 FCMews@gmail.com 📸 Twitter: @FaZeMew
+      i got a bae or wtv🧍‍♀️ dallas/keller tx📍 turning this into my spam♉️
     location: "United States"
-    followers: 2500000
-    engagement: 2167
-    commentsToLikes: 0.015750
-    id: ck8oqpb6y8h1j0j784l15lgt9
+    followers: 21900
+    engagement: 1648
+    commentsToLikes: 0.124075
+    id: ckcvgh735sv070j23bww2ozai
+    verified: false
+    hashtags: "#texas, #snow, #fyp, #puppy"
+  - username: "jamiemarchi"
+    fullname: >-
+      jamiemarchi
+    bio: >-
+      Voice Actor-Writer-Podcaster #BLM - 🏳️‍🌈 Ally PO Box 742664 Dallas TX 75374
+    location: "United States"
+    followers: 332100
+    engagement: 1909
+    commentsToLikes: 0.022187
+    id: ckc92musnt9gv0j23zi8y5l48
+    verified: false
+    hashtags: "#voiceactor, #riasgremory, #canaalberona, #foryou"
+  - username: "goldenboydallas"
+    fullname: >-
+      Dallas and Boomer
+    bio: >-
+      Dallas is a Golden Retriever and Boomer is a Husky, German Shepard, Aussie Mix.
+    location: "United States"
+    followers: 286800
+    engagement: 1631
+    commentsToLikes: 0.037058
+    id: ck9razmk6n12g0j789cqnjifg
+    verified: false
+    hashtags: "#foryoupage, #fyp, #foryou, #starwars"
+  - username: "dallasartstudios"
+    fullname: >-
+      🄳🄰🄻🄻🄰🅂
+    bio: >-
+      𝐀𝐜𝐭𝗼𝐫/ 𝐀𝐫𝐭𝐢𝐬𝐭/ 𝐏𝐫𝗼𝐝𝐮𝐜𝐞𝐫 Venmo @DallasW1997
+    location: "United States"
+    followers: 43200
+    engagement: 2178
+    commentsToLikes: 0.125140
+    id: ck9gtbqqim12b0j78rru2d51f
+    verified: false
+    hashtags: "#skiptherinse, #duet, #texas, #ifeelweightless"
+  - username: "dallasmavs"
+    fullname: >-
+      Dallas Mavericks
+    bio: >-
+      The Official TikTok of the Dallas Mavericks 🏀
+    location: "United States"
+    followers: 1100000
+    engagement: 1541
+    commentsToLikes: 0.039528
+    id: ck8kkshg10p400j78ameijwl8
     verified: true
-    hashtags: "#showupshowoff, #foryoupage, #twitch, #ohno"
-  - username: "yungski1"
-    fullname: >-
-      ✪ Cristian Baul
-    bio: >-
-      Dallas TX 🦃🍁 Follow me on insta Snap:cbaul_5 70k? Cool kids
-    location: "United States"
-    followers: 69300
-    engagement: 2493
-    commentsToLikes: 0.060457
-    id: cka7v2kksuhg40i78hdmpsswf
-    verified: false
-    hashtags: "#wewintogether, #foryou, #notonething, #relatable"
+    hashtags: "#mffl, #luka, #mcxfun, #porzingis"
 ---

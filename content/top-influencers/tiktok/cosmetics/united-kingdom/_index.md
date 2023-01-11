@@ -1,84 +1,72 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In United Kingdom In 2022
+title: Top 10 Cosmetics TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top cosmetics TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
+  Find top cosmetics TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #makeup #viral.
 platform: TikTok
-hits: 27
+hits: 21
 text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform has 27 TikTok influencers like this in United Kingdom for you to collaborate.
+text_bottom: Our search engine holds 21 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "chloe.c_xo"
-    fullname: >-
-      Chloe🌸
-    bio: >-
-      💌 aesthetic.cosmetics@yahoo.com💌
-    location: "United Kingdom"
-    followers: 22300
-    engagement: 1852
-    commentsToLikes: 0.036459
-    id: ckb8z57lne8j30j23mfj9swju
-    verified: false
-    hashtags: "#sun, #li, #fail, #loveisland"
   - username: "lushhull"
     fullname: >-
       Lush Hull
     bio: >-
       Fresh Handmade Cosmetics Order and collect now available!
     location: "United Kingdom"
-    followers: 6648
-    engagement: 1406
-    commentsToLikes: 0.026030
+    followers: 6638
+    engagement: 1394
+    commentsToLikes: 0.022012
     id: ck8ae1a728xa80j78l5wgi5w2
     verified: false
-    hashtags: "#lush, #lushcosmetics, #lushhull, #lushbathbomb"
+    hashtags: "#halloween, #lushchristmas, #lushbathbomb, #lush"
+  - username: "makeupbyycourt"
+    fullname: >-
+      makeupbyycourt
+    bio: >-
+      Makeup artist IG: instagram.com/makeupbyycourt Unicorn cosmetics code “UCCOURT”
+    location: "United Kingdom"
+    followers: 42700
+    engagement: 1484
+    commentsToLikes: 0.028958
+    id: ck8ndqhqdk2vc0j780gdvjyho
+    verified: false
+    hashtags: "#nespressotalents, #viral, #foryou, #makeup"
   - username: "bperfectcosmetics"
     fullname: >-
       BPerfect Cosmetics
     bio: >-
       The OFFICIAL page of BPerfect Cosmetics ✌🏼 https://www.bperfectcosmetics.com
     location: "United Kingdom"
-    followers: 35100
-    engagement: 1431
-    commentsToLikes: 0.028507
+    followers: 37700
+    engagement: 1220
+    commentsToLikes: 0.013632
     id: ck8nh6dlozdvh0j780g0kwjkj
     verified: false
-    hashtags: "#christmas, #bperfectxjacjossa, #carnivallovetahiti, #10secondtan"
+    hashtags: "#christmas, #indestructibrow, #manifestpalette, #carnivallovetahiti"
   - username: "kevindp88"
     fullname: >-
       Kevin Daniel Parkhouse
     bio: >-
       🄾🅅🄴🅁 🔞 🄾🄽🄻🅈 #🅃🄷🄸🅁🅂🅃🅈🄰🅂🄵💦 🅂.🅆🄰🄻🄴🅂 🏴󠁧󠁢󠁷󠁬󠁳󠁿🏳️‍🌈
     location: "United Kingdom"
-    followers: 5972
-    engagement: 1631
-    commentsToLikes: 0.313396
+    followers: 5888
+    engagement: 1616
+    commentsToLikes: 0.297900
     id: cka6j1le0sy7p0i78viegenb3
     verified: false
-    hashtags: "#thirstyasf, #duet, #dance, #lgbtq"
-  - username: "ayishamakeup"
-    fullname: >-
-      Ayisha Amrani
-    bio: >-
-      MUA | 🇩🇿🇬🇧 Follow 👇🏽🥺 Instagram - @ayishamakeup YouTube - @ayishamakeup
-    location: "United Kingdom"
-    followers: 50600
-    engagement: 1547
-    commentsToLikes: 0.059755
-    id: ckd5wp8nazx9c0j23l3qfw6rd
-    verified: false
-    hashtags: "#smallbusiness, #fyp, #algeria, #foryoupage"
+    hashtags: "#forthelaughs, #missyou, #comedy, #onewayplease"
   - username: "nikocados"
     fullname: >-
-      Joe Biden
+      Trisha 🌸
     bio: >-
-      CEO of Nikocado Avocado 🥑 FOLLOW OUR INSTAGRAM 🤍 Currently shadow banned 🥰
+      THANK YOU FOR 6.6K🤍 Please don’t spam me (I’m shadowbanned)
     location: "United Kingdom"
-    followers: 4675
-    engagement: 1306
-    commentsToLikes: 0.167273
+    followers: 6598
+    engagement: 1324
+    commentsToLikes: 0.136955
     id: ckcjf7vzkavr20j23ytx7vzt0
     verified: false
-    hashtags: "#fyp, #foryoupage, #beauty, #biden"
+    hashtags: "#foryou, #uk, #nikocados, #school"
   - username: "baldmuthatrucka"
     fullname: >-
       Ryan
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.189571
     id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
-    hashtags: "#friends, #tiktok, #bathroom, #joke"
-  - username: "nanshyofficial"
+    hashtags: "#fun, #kids, #tiktok, #uk"
+  - username: "officaltracygraham"
     fullname: >-
-      NanshyOfficial
+      Tracy graham
     bio: >-
-      Beauty Brand. Softest Brushes, Sponges and more. Cruelty-Free🐇 and Vegan🐻!
+      Comedy 🥰 MUA...My back up is tracygraham228 inquiries tracygraham383@gmail.com
     location: "United Kingdom"
-    followers: 9246
-    engagement: 533
-    commentsToLikes: 0.024905
-    id: ckb9kp6g5cory0j231b7s00u0
+    followers: 147800
+    engagement: 1131
+    commentsToLikes: 0.034343
+    id: ckce1mo2yicfz0j23sxelh24d
     verified: false
-    hashtags: "#makeuplover, #makeuptime, #makeuplooks, #makeupideas"
-  - username: "itsdanilevi"
+    hashtags: "#acting, #funny, #bants, #foryou"
+  - username: "yes_its_rhys"
     fullname: >-
-      Dani Levi
+      Yes_Its_Rhys
     bio: >-
-      📍London Makeup Artist 💄💋 @itsdanilevi
+      ✌🏼Just Do You!✌🏼 📍Lancashire UK 🇬🇧 Blackpool Pleasure Beach - 12/06!🎢
     location: "United Kingdom"
-    followers: 7716
-    engagement: 761
-    commentsToLikes: 0.015566
-    id: ckb9kp6uscovt0j23wmagbm9w
+    followers: 83600
+    engagement: 714
+    commentsToLikes: 0.109378
+    id: ck9fq3z6paex70j78wj1yu1pf
     verified: false
-    hashtags: "#makeupartist, #audacitycosmetics, #smallbusinesscheck, #smallbusinessowner"
-  - username: "aleenatareem"
+    hashtags: "#yesitsrhys, #gay, #duet, #gayguysoftiktok"
+  - username: "leonahoneyman1"
     fullname: >-
-      Aleena Tareem
+      leonahoneyman1
     bio: >-
-      Hehe 🔫 x insta @aleena.tareem & @silktussah
+      Leona 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My life in boxes 👀 🤍 ⬇️ Subscribe to my Channel ⬇️
     location: "United Kingdom"
-    followers: 9105
-    engagement: 807
-    commentsToLikes: 0.011442
-    id: ck94k51wetwlr0j78azv2des8
+    followers: 6827
+    engagement: 915
+    commentsToLikes: 0.041221
+    id: cka0hr4fyabse0i78lki2gooj
     verified: false
-    hashtags: "#fashion, #foryou, #fy, #makeuptutorial"
+    hashtags: "#haul, #foryoupage, #viral, #fyp"
+  - username: "amber_scottt"
+    fullname: >-
+      amber_scottt
+    bio: >-
+      Insta - @amber_scottt 22🌸 Northern Ireland🌻
+    location: "United Kingdom"
+    followers: 77600
+    engagement: 1413
+    commentsToLikes: 0.017329
+    id: ck8f7fzkx30ue0j789asf8wqu
+    verified: false
+    hashtags: "#goboldcolorista, #coming2america, #videosnapchallenge, #ourhouse2021"
 ---

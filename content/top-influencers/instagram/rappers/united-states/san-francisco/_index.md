@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In San Francisco In 2022
+title: Top 10 Rappers Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top rappers Instagram influencers in San Francisco in 2022. Most popular hashtags: #newyork #love #losangeles.
+  Find top rappers Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #hiphop #music.
 platform: Instagram
 hits: 5
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 5 Instagram influencers like this in San Francisco, United States for you to contact.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 5 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
   - username: "gsteezybeats"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       UNSIGNED MUSIC PRODUCER FROM THE BAY 💣Hiphop/Rap/RnB💣 🔥Mission District, SF, CA🔥 🌊Made radio waves #2019🌊 🧿Link is 👇🏼 below for purchase🧿
     location: "United States"
-    followers: 2732
-    engagement: 1732
-    commentsToLikes: 0.024387
+    followers: 2642
+    engagement: 1814
+    commentsToLikes: 0.023949
     id: ck13b72hmu02c0i19krh423sy
     verified: false
-    hashtags: "#rap, #instrumental, #alternative, #lax"
-  - username: "kwdstyle"
+    hashtags: "#music, #trapsoul, #gsteezybeats, #bayarea"
+  - username: "allenkass"
     fullname: >-
-      Customade Original Style💎
+      Allen Kass
     bio: >-
-      New (Men’s collection ) Detroit 15yrs Popular with “Ladies who lunch" Knit Designer to the Stars n women of all curves! (Premium Quality Only)
+      👨‍👧‍👦𝓓𝓪𝓭 𝓑𝓮𝓯𝓸𝓻𝓮 𝓐𝓷𝔂𝓽𝓱𝓲𝓷𝓰 ☁️𝓛𝓲𝓿𝓮 𝓨𝓸𝓾𝓻 𝓓𝓻𝓮𝓪𝓶𝓼 🇷🇺🇺🇦 TUNNEL VISION Music Video Out Now!
     location: "United States"
-    followers: 35838
-    engagement: 108
-    commentsToLikes: 0.133275
-    id: ck5q1i7pub3up0i11h9fygy6h
+    followers: 12246
+    engagement: 723
+    commentsToLikes: 0.065934
+    id: ckap8j3pbojih0i78q5200lq1
     verified: false
-    hashtags: "#cardib, #atlanta, #versace, #coronavirus"
-  - username: "todayinamericanhistory"
+    hashtags: "#energy, #singer, #working, #hungry"
+  - username: "ktvu2"
     fullname: >-
-      Today in American History
+      KTVU Channel 2 News
     bio: >-
-      The American Story 🇺🇸 nonpartisan & apolitical Produced by @mrmaxfrost ✍️ Want to sponsor a post? DM for info. 📩
+      Delivering you the latest news, awesome pics, and fun hashtags that are #hellabay! Read the stories you see on our Instagram page here:
     location: "United States"
-    followers: 238610
-    engagement: 434
-    commentsToLikes: 0.015316
-    id: ck13dbfwz4ly50i192i90d2o3
-    verified: false
-    hashtags: "#music, #travel, #history, #ushistory"
-  - username: "kungfuvampire"
-    fullname: >-
-      KUNG FU VAMPIRΞ
-    bio: >-
-      🩸 Rap𝔭𝔢𝔯 🔺 Act𝔬𝔯 🎒 Fat𝔥𝔢𝔯 👕 Merch
-    location: "United States"
-    followers: 47833
-    engagement: 114
-    commentsToLikes: 0.139631
-    id: ckf5m0fz0rrbz0j23p1y0q5q2
+    followers: 156587
+    engagement: 113
+    commentsToLikes: 0.088881
+    id: ck0u1b27uwdk30i19uthpmgss
     verified: true
-    hashtags: "#1986, #kfv, #kungfuvampire, #bayareahiphop"
+    hashtags: "#covid, #sanfrancisco, #vaccine, #coronavirus"
+  - username: "blackpicasso101"
+    fullname: >-
+      Hakim Waters (titoe)
+    bio: >-
+      Visionary Blackpicasso617@gmail.com
+    location: "United States"
+    followers: 11300
+    engagement: 599
+    commentsToLikes: 0.038382
+    id: ckap1basttucz0i78o2gjzaqd
+    verified: false
+    hashtags: "#picasso, #art, #blackrenaissance, #fineart"
   - username: "vpichkova"
     fullname: >-
       Варя Пичкова
     bio: >-
       Dancer 💃 Chernomorsk/Odessa, Ukraine📍 San Francisco, California 🇺🇸 @balletpapier AMBASSADOR @body.wrappers Model@Large 🇷🇺🇺🇦 Cooperation -Direct/Email
     location: "United States"
-    followers: 13121
-    engagement: 2002
-    commentsToLikes: 0.014983
+    followers: 12628
+    engagement: 2077
+    commentsToLikes: 0.015327
     id: ck5ccebbxh70k0i11iehz2kih
     verified: false
-    hashtags: "#bayerballet, #russianpointe, #bayerballetacademy, #bodywrappers"
-  - username: "avisamuelangel"
+    hashtags: "#sponsored, #bayerballetacademy, #varyapichkova, #iophotostudio"
+  - username: "lilkloroxxx"
     fullname: >-
-      𝔸𝕧𝕚 𝕒𝕟𝕘𝕖𝕝
+      Lil Kloroxxx
     bio: >-
-      🔒P.O.box 10810 N. Tatum Blvd #102908 Phoenix Az 85028 United States. Actor,model,rapper,singer Tiktok:aviangel14 (156k)
+      Rapper // Lifestyle Artist 🙏🏻 Yea I’m giving away a Wraith 💪🏻 LATEST VISUAL 👇🏻👇🏻
     location: "United States"
-    followers: 275044
-    engagement: 996
-    commentsToLikes: 0.214969
-    id: ckap1d4kgu2td0i7887pd9m5d
+    followers: 35382
+    engagement: 1528
+    commentsToLikes: 0.049377
+    id: ck8weho4oe2e60j78aczwh872
     verified: false
-    hashtags: ""
-  - username: "brandzo1"
+    hashtags: "#platinum, #traptothefuture, #promqueen, #halloween"
+  - username: "teeferrari"
     fullname: >-
-      Brandz FW
+      Tee Ferrari
     bio: >-
-      energiesarereal 👨🏽‍🔬 aka John Papi. #FWMG 💔 BIG WAVER. Cobain Brazy. HENDRIXX II. Singer 💔 Rapper 🌠 3WAVEMG
+      The rapper that bouta be the Leukemia back to back champ.🏆 CEO of Trash Rap Entertainment Inc Oceanside CA
     location: "United States"
-    followers: 61911
-    engagement: 555
-    commentsToLikes: 0.052218
-    id: ck5c6vuqo6b0o0i11qhavdn03
-    verified: true
-    hashtags: "#putthisonyourstory"
-  - username: "trossthegiant"
-    fullname: >-
-      T. ROSS.
-    bio: >-
-      Ugly Boy the Trash Rapper (just beat leukemia too🙏🏼, so stay away if you aint got no mask bro)
-    location: "United States"
-    followers: 6003
-    engagement: 2222
-    commentsToLikes: 0.061573
+    followers: 5773
+    engagement: 2050
+    commentsToLikes: 0.059394
     id: ck136ile16nu00i19gafflw2f
     verified: false
     hashtags: ""
-  - username: "kflum"
+  - username: "leamotion"
     fullname: >-
-      kevin flum
+      Lea Sabban 🎥
     bio: >-
-      songwriter/rapper guy aka @itsdrinkurwater Bookings/Inquires: justin@motionprojects.io - NEW MUSIC OUT NOW
+      📽 Digital Content Creator📍NYC📍🇫🇷 in 🇺🇸 🎬 Clients : Will Smith, Jada Pinkett Smith, Chance the Rapper, Jessica Chastain, FootLocker, Hamilton, Adobe...
     location: "United States"
-    followers: 28851
-    engagement: 468
-    commentsToLikes: 0.065572
-    id: ck0uahmxyc5ep0i19jp68ijug
-    verified: true
-    hashtags: ""
-  - username: "nushymusic"
-    fullname: >-
-      NuShY
-    bio: >-
-      Rapper, RnB singer from 📍Slovenia, Europe! Just released new music video. Watch at link below👇🏻👇🏻 #femalerapper #rnbsinger #womeninmusic
-    location: "United States"
-    followers: 9174
-    engagement: 668
-    commentsToLikes: 0.225073
-    id: ck6udvfeznd6h0j71aqwn1ged
+    followers: 93572
+    engagement: 232
+    commentsToLikes: 0.041553
+    id: ck0vv4hk3nia80i19u6kk547q
     verified: false
-    hashtags: "#ftmedd, #wheretofindme, #photohunted, #suicideawarness"
+    hashtags: "#madewithrush, #adobepartner, #editedbyme, #stayhome"
+  - username: "calebslife"
+    fullname: >-
+      Caleb
+    bio: >-
+      God 1st! Introvert with extrovert ambitions! Professional napper, Rapper, Dog Whisperer, Papercut survivor, Spotify bathroom DJ.
+    location: "United States"
+    followers: 71737
+    engagement: 247
+    commentsToLikes: 0.079172
+    id: ck5ck3xgcw3260i11x9neq3yr
+    verified: false
+    hashtags: "#quarantinebirthday, #blacklivesmatter, #justiceforgeorgefloyd, #idontknowwhatimdoing"
+  - username: "salmaslims"
+    fullname: >-
+      SALMA S
+    bio: >-
+      Not Friendly & Aka Salma Banks Out Now Runway Rapper Shit 🇬🇲
+    location: "United States"
+    followers: 208139
+    engagement: 409
+    commentsToLikes: 0.026711
+    id: ck5ckcpvzwlqk0i11igm7ubxa
+    verified: true
+    hashtags: "#notfriendly"
 ---

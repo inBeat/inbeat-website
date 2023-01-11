@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Denver In 2022
+title: Top 10 Food Instagram Influencers In Denver In 2023
 description: >-
-  Find top food Instagram influencers in Denver in 2022. Most popular hashtags: #food #denver #denverfoodie #colorado.
+  Find top food Instagram influencers in Denver in 2023. Most popular hashtags: #food #foodporn #denver.
 platform: Instagram
-hits: 54
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 54 Instagram influencers like this in Denver, United States for you to contact.
+hits: 44
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 44 Instagram influencers like this in Denver, United States for you to connect with.
 profiles:
-  - username: "jasonganahl"
-    fullname: >-
-      Jason Ganahl
-    bio: >-
-      ❤️ Husband 👩🏼👧🏼👦🏼👱🏼‍♀️ Father 🔥 Founder @gquebbq 🍦 Founder @icecreamfarm 🏈🏀⚾️ Fanatic 🏔🇺🇸⛰ Denver CO ⬇️Surf & Turf Recipe⬇️
-    location: "United States"
-    followers: 20298
-    engagement: 167
-    commentsToLikes: 0.101623
-    id: ck0u75kav3ur00i19clkaqqq6
-    verified: false
-    hashtags: "#303, #smokedmeat, #sandwich, #5280eats"
-  - username: "1000thingstodoindenver"
-    fullname: >-
-      Denver📍Things To Do in Denver
-    bio: >-
-      Voted Denver's Best Instagram • Denver Food, Drink, Fashion, Fitness, Music, Art, Outdoors & More • 💌1000ThingsToDoInDenver@gmail.com
-    location: "United States"
-    followers: 72505
-    engagement: 206
-    commentsToLikes: 0.135754
-    id: ck14iedh6f09e0i19yn8q4p4e
-    verified: false
-    hashtags: "#1000thingstodoindenvercreative, #blessed, #1000thingstodoindenver"
-  - username: "regina.foodie"
-    fullname: >-
-      REGINA FOSTER
-    bio: >-
-      📍 New York photographer FOOD BLOGGER For inquiries: mail@reginafoster.us Portrait lifestyle @reginafoster.us
-    location: "United States"
-    followers: 2445
-    engagement: 1508
-    commentsToLikes: 0.058768
-    id: ck5ch68eeq6g20i110o67yx06
-    verified: false
-    hashtags: "#denverportraitphotographer, #foodblogger, #foodie, #breakfast"
-  - username: "fox31denver"
-    fullname: >-
-      FOX31 Denver KDVR
-    bio: >-
-      FOX31 brings you #Denver news, weather, sports, and what's happening in communities all around #Colorado. ⬇️ Link in bio ⬇️
-    location: "United States"
-    followers: 50598
-    engagement: 99
-    commentsToLikes: 0.037937
-    id: ck0u0dbrbtf8p0i19t71mwmzt
-    verified: false
-    hashtags: "#spring, #wildlife, #denver, #weather"
-  - username: "milehighmunch"
-    fullname: >-
-      ⓂⒾⓁⒺⒽⒾⒼⒽⓂⓊⓃⒸⒽ
-    bio: >-
-      🏔 Denver, CO ⁣ 🍴 Food is life ⁣ 👩🏻‍💻 Content Creator⁣ ©️ Credit my photos
-    location: "United States"
-    followers: 22939
-    engagement: 203
-    commentsToLikes: 0.055675
-    id: ck5chz159rpia0i11vbv8ygro
-    verified: false
-    hashtags: "#pulledpork, #foodporn, #delivery, #foooood"
   - username: "a_fat_guy_in_denver"
     fullname: >-
       Fat Guy
     bio: >-
       I'm an entrepreneur, restauranteur and father. I post pics of food and my everyday life. Normal guy just taking pics with my phone
     location: "United States"
-    followers: 26891
-    engagement: 248
-    commentsToLikes: 0.150053
+    followers: 26553
+    engagement: 255
+    commentsToLikes: 0.147007
     id: ck0u75k3v3uon0i19q4kxx87e
     verified: false
-    hashtags: "#spicy, #love, #rare, #foodporn"
-  - username: "rosin.ryan"
+    hashtags: "#303eats, #spicy, #love, #food"
+  - username: "1000thingstodoindenver"
     fullname: >-
-      Ryan
+      Denver📍Things To Do in Denver
     bio: >-
-      Denver CO Novice grower Solventless consultations Rosin @dabolio710. 21+
+      Voted Denver's Best Instagram • Denver Food, Drink, Fashion, Fitness, Music, Art, Outdoors & More • 💌1000ThingsToDoInDenver@gmail.com
     location: "United States"
-    followers: 36906
-    engagement: 337
-    commentsToLikes: 0.030463
-    id: ck14jlf20kxie0i19e517lrof
+    followers: 84395
+    engagement: 247
+    commentsToLikes: 0.235779
+    id: ck14iedh6f09e0i19yn8q4p4e
     verified: false
-    hashtags: "#rosin, #icewax, #fullmelt, #dabs"
-  - username: "wilsonchindesign"
+    hashtags: "#1000thingstodoindenver, #ad, #ruckify, #rentanything"
+  - username: "jasonganahl"
     fullname: >-
-      Wilson Chin Design
+      Jason Ganahl
     bio: >-
-      Production designer on and off Broadway, Opera, TV & Film. Projects have won a Pulitzer Prize, 4 Lortel Awards and 2 Tony noms. #Riverdale #KatyKeene
+      ❤️ Husband 👩🏼👧🏼👦🏼👱🏼‍♀️ Father 🔥 Founder @gquebbq 🍦 Founder @icecreamfarm 🏈🏀⚾️ Fanatic 🏔🇺🇸⛰ Denver CO ⬇️Steak and Eggs⬇️
     location: "United States"
-    followers: 7278
-    engagement: 1017
-    commentsToLikes: 0.064570
-    id: ck8t5sg53b30o0j785ix68g38
+    followers: 20059
+    engagement: 142
+    commentsToLikes: 0.118197
+    id: ck0u75kav3ur00i19clkaqqq6
     verified: false
-    hashtags: "#setdesigner, #broadwaymusical, #scenography, #littlewomen"
+    hashtags: "#foodvideos, #comfortfood, #bacon, #5280eats"
+  - username: "dinnerdatecait"
+    fullname: >-
+      DENVER FOOD & DRINK
+    bio: >-
+      📍Denver (at the moment) 🥡 Can’t live a full life on an empty stomach 🥂 Formerly known as caitscolumbuseats
+    location: "United States"
+    followers: 3619
+    engagement: 496
+    commentsToLikes: 0.072379
+    id: ck6tqifnurnge0j71zvel4jbq
+    verified: false
+    hashtags: ""
+  - username: "milehighmunch"
+    fullname: >-
+      ⓂⒾⓁⒺⒽⒾⒼⒽⓂⓊⓃⒸⒽ
+    bio: >-
+      🏔 Denver, CO ⁣ 🍴 Food is life ⁣ ©️ Credit my photos
+    location: "United States"
+    followers: 25212
+    engagement: 229
+    commentsToLikes: 0.054856
+    id: ck5chz159rpia0i11vbv8ygro
+    verified: false
+    hashtags: "#ad, #todenverwithlove, #cheesy, #hangry"
+  - username: "etymologynerd"
+    fullname: >-
+      Adam Aleksic
+    bio: >-
+      Harvard linguistics student with a disturbing interest in word origins. Twitter: @etymology_nerd | Youtube: Etymology Nerd
+    location: "United States"
+    followers: 10758
+    engagement: 561
+    commentsToLikes: 0.048378
+    id: ck5hptaourxkr0i117oeazj5c
+    verified: false
+    hashtags: "#etymology, #interesting, #maps, #map"
+  - username: "denv.her"
+    fullname: >-
+      Alisha Alexandra
+    bio: >-
+      It’s me. It’s she. I’m her. Denver Blogger📍 Fashion | Food | Lifestyle Yelp Elite ‘21, ‘20 denvherco@gmail.com 📧 Founder: @alishaalxandra
+    location: "United States"
+    followers: 35597
+    engagement: 170
+    commentsToLikes: 0.129701
+    id: ck8swzzxlfrln0j78ayznim8l
+    verified: false
+    hashtags: "#giveaway, #giftcards, #federales, #urbandecay"
   - username: "thekidmcmanus"
     fullname: >-
       Brandon McManus
     bio: >-
       #8 Denver Broncos | SB 50 🏆| Food and Fashion
     location: "United States"
-    followers: 87040
-    engagement: 687
-    commentsToLikes: 0.011394
+    followers: 88821
+    engagement: 699
+    commentsToLikes: 0.013217
     id: ck5hglf5t3e320i11l44hwym2
     verified: true
-    hashtags: "#mycausemycleats, #happyvalentinesday"
-  - username: "milehighfoodfairy"
+    hashtags: "#iamarebuilder, #homeforahome, #happybirthday, #happyvalentinesday"
+  - username: "regina.foodie"
     fullname: >-
-      Mile High Food Fairy
+      REGINA FOSTER
     bio: >-
-      🧚 Tooth fairy by day, food fairy by night 📍 Utah ← Denver 📷 Photos by me 🌟 @bestfooddenver | Community Leader 📝 @yelputahcounty | Elite 👩🏻@foodietribe
+      📍 New York photographer FOOD BLOGGER For inquiries: mail@reginafoster.us Portrait lifestyle @reginafoster.us
     location: "United States"
-    followers: 12178
-    engagement: 419
-    commentsToLikes: 0.154947
-    id: ck55lz2da2szj0i11jthuovvv
+    followers: 2216
+    engagement: 1696
+    commentsToLikes: 0.057346
+    id: ck5ch68eeq6g20i110o67yx06
     verified: false
-    hashtags: "#onfire, #liquidnitrogen, #denverfoodscene, #foodiegram"
+    hashtags: "#agameoftones, #feedfeed, #worldofportraits, #bakingtime"
+  - username: "zalligraphy__"
+    fullname: >-
+      ℓαнzα ѕυƒα∂ 🌻
+    bio: >-
+      | life is beautiifulllll😇 | | 🇴🇲 × 🇮🇳 | | ᥇ꪗꫀ ƚꪖӄe ᥴꪖrꫀ. ❤️ |
+    location: "United States"
+    followers: 2687
+    engagement: 1502
+    commentsToLikes: 0.129564
+    id: ck9wg69f5s37x0j78oz1w17kj
+    verified: false
+    hashtags: "#mobilephotography, #exposure, #fashion, #photographerlife"
 ---

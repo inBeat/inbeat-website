@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Melbourne In 2022
+title: Top 10 TikTok Influencers In Melbourne In 2023
 description: >-
-  Find top TikTok influencers in Melbourne in 2022. Most popular hashtags: #fyp #tiktok #viral #foryou.
+  Find top TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #foryou.
 platform: TikTok
-hits: 419
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 419 TikTok influencers like this in Melbourne, Australia for you to connect with.
+hits: 450
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 450 TikTok influencers like this in Melbourne, Australia for you to work with.
 profiles:
-  - username: "idontownashirt"
-    fullname: >-
-      Stef
-    bio: >-
-      🇦🇺Melbourne🇦🇺
-    location: "Australia"
-    followers: 236400
-    engagement: 1166
-    commentsToLikes: 0.038025
-    id: ckck6nko0s1120j23qr9wp8mt
-    verified: false
-    hashtags: "#viral, #fyp, #tiktokaustralia, #dance"
-  - username: "punjabigora"
-    fullname: >-
-      Gora Jatt
-    bio: >-
-      🇦🇺 Melbourne 🇦🇺
-    location: "Australia"
-    followers: 395100
-    engagement: 905
-    commentsToLikes: 0.010663
-    id: ck81t0cznuh5l0j78ck8jyjrm
-    verified: false
-    hashtags: "#goat, #diljitdosanjh, #sidhumoosewala, #game"
   - username: "sonusivia5"
     fullname: >-
       Sonu Sivia
     bio: >-
       MELBOURNE
     location: "Australia"
-    followers: 114100
-    engagement: 589
-    commentsToLikes: 0.013236
+    followers: 114300
+    engagement: 994
+    commentsToLikes: 0.021470
     id: ck81t0ce8ugz50j785wh21297
     verified: false
-    hashtags: "#melbourne, #sonusivia, #tiktok, #coronatime"
+    hashtags: "#sonusivia, #melbourne"
+  - username: "punjabigora"
+    fullname: >-
+      Gora Jatt
+    bio: >-
+      🇦🇺 Melbourne 🇦🇺
+    location: "Australia"
+    followers: 399400
+    engagement: 997
+    commentsToLikes: 0.011233
+    id: ck81t0cznuh5l0j78ck8jyjrm
+    verified: false
+    hashtags: "#goat, #diljitdosanjh, #game, #2222"
+  - username: "pardeep_parry7"
+    fullname: >-
+      Pardeep Singh
+    bio: >-
+      🇦🇺Melbourne🇦🇺
+    location: "Australia"
+    followers: 165400
+    engagement: 576
+    commentsToLikes: 0.013936
+    id: ck904fsoze7pm0j78i60v0wom
+    verified: false
+    hashtags: "#k200, #kenworth, #pardeep, #melbourne"
   - username: "sandhuz__avi"
     fullname: >-
       Sandhuz avi 
     bio: >-
       Melbourne 🇦🇺
     location: "Australia"
-    followers: 32400
-    engagement: 310
-    commentsToLikes: 0.027812
+    followers: 32700
+    engagement: 246
+    commentsToLikes: 0.045912
     id: ck81t0o9iujh20j781k09umkh
     verified: false
-    hashtags: "#karan, #hooka, #diljitdosanjh, #melbourne"
-  - username: "mannumangat3"
+    hashtags: "#melbourne, #tiktok, #sidhumoosewala, #brownmunde"
+  - username: "jolegsi"
     fullname: >-
-      ASTAAD 🦌
+      jolegsi
     bio: >-
-      Melbourne 🇦🇺
+      From Melbourne Australia, I'll appear in your dreams and nightmares
     location: "Australia"
-    followers: 28600
-    engagement: 881
-    commentsToLikes: 0.010667
-    id: ckb9s63pzp3ca0j237tbhs7a8
+    followers: 157500
+    engagement: 2070
+    commentsToLikes: 0.040703
+    id: ck8klez1m3lj60j78ixcxnnro
     verified: false
-    hashtags: "#sydney, #melbourne, #viral, #perte"
-  - username: "joelbergs"
-    fullname: >-
-      JoelBergs
-    bio: >-
-      🇦🇺 Melbourne | Australia CEO of “LOIFE” Join the LEGENDSQUAD!
-    location: "Australia"
-    followers: 5900000
-    engagement: 2436
-    commentsToLikes: 0.019684
-    id: ck83z3rdzxg5q0j78xonym8i0
-    verified: true
-    hashtags: "#bangenergy, #duet, #australia, #fyp"
-  - username: "thesmeds"
-    fullname: >-
-      Becca Smedley 
-    bio: >-
-      18 She/her Melbourne Aus🇦🇺 I want a frozen coke
-    location: "Australia"
-    followers: 127800
-    engagement: 1924
-    commentsToLikes: 0.038001
-    id: ckacukpdrjbky0i782p8idg1h
-    verified: false
-    hashtags: "#jessicarabbit, #bi, #foryoupage, #foryou"
+    hashtags: "#duet, #leagueofvillains, #jolegsi, #danganronpacosplay"
   - username: "the5thwatches"
     fullname: >-
       The5th
     bio: >-
       From Melbourne, Australia. Shipped Worldwide.
     location: "Australia"
-    followers: 2004
-    engagement: 1850
-    commentsToLikes: 0.274782
+    followers: 1979
+    engagement: 1546
+    commentsToLikes: 0.263889
     id: ck9fipmuubzv20j786zo1i0dh
     verified: false
-    hashtags: "#the5th, #watches, #the5thfam, #foryou"
+    hashtags: "#foryou, #smallbusinesscheck, #the5thfam, #the5th"
   - username: "jonathangoro"
     fullname: >-
       Jonathan Goro
     bio: >-
       📍Melbourne, Australia 17 <> Instagram: Jonathangoro__ 230k????
     location: "Australia"
-    followers: 229000
-    engagement: 2100
-    commentsToLikes: 0.107734
+    followers: 225600
+    engagement: 2106
+    commentsToLikes: 0.086704
     id: ckbqr3l7zby3u0j23u1a1kre2
     verified: false
-    hashtags: "#fyp, #trending, #artober, #feelinggood"
+    hashtags: "#foryou, #trending, #levitating, #standingwithyou"
   - username: "tahls.ajw"
     fullname: >-
       Tahlia Ward
     bio: >-
       Yes I'm 21! Goal 120k Melbourne Itsjusttahlia@gmail.com
     location: "Australia"
-    followers: 112500
-    engagement: 1986
-    commentsToLikes: 0.030500
+    followers: 111400
+    engagement: 1961
+    commentsToLikes: 0.026022
     id: ck9m4hzgnkduf0j78oihgyoxs
     verified: false
-    hashtags: "#makeup, #cosplay, #10secondsvs, #beautytutorial"
+    hashtags: "#beautytutorial, #10secondsvs, #makeup, #cosplay"
+  - username: "billy_backflip"
+    fullname: >-
+      Billy_backflip
+    bio: >-
+      📍Melbourne, AU 17
+    location: "Australia"
+    followers: 16400
+    engagement: 1936
+    commentsToLikes: 0.029495
+    id: ckcjrlylwhbam0j234t2oq2zv
+    verified: false
+    hashtags: "#vic, #ohno, #melbourne, #aussie"
+  - username: "sylvana.k"
+    fullname: >-
+      sylvanaaa
+    bio: >-
+      16 melbourne 🇱🇧🇸🇮 18k?
+    location: "Australia"
+    followers: 17000
+    engagement: 1999
+    commentsToLikes: 0.022573
+    id: ckdcaltmoitgv0j23ulzk6gxl
+    verified: false
+    hashtags: "#stitch, #greenscreenvideo, #blowup, #foryoupage"
 ---

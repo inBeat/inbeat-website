@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Colombia In 2022
+title: Top 10 Fitness Instagram Influencers In Colombia In 2023
 description: >-
-  Find top fitness Instagram influencers in Colombia in 2022. Most popular hashtags: #fitnesslifestyle #fitness #tbt.
+  Find top fitness Instagram influencers in Colombia in 2023. Most popular hashtags: #fitnessmotivation #fitness #fitnessgirl #fit.
 platform: Instagram
-hits: 255
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 255 Instagram influencers like this in Colombia for you to work with.
+hits: 228
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 228 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "nicoleaguayoo___"
+  - username: "camiloroanutricionista"
     fullname: >-
-      🍃🌸 ηίɕσʆε 🌸🍃
+      Dr. Camilo Roa® 👨🏻‍⚕️👱🏻‍♀️✍🏻
     bio: >-
-      📍Concepción , Chile 📌 🦋 ConstructorCivil, Obra Palomares Alto 👷🏻‍♀️ 33 Vueltas al Sol ☀️ Fitness 🏋🏻‍♀️
+      🇨🇴🥇Nutricionista Dietista Coach 💻 Online 🌎 📞+573044713952 🇪🇸Esp.N.Deportiva y Fitness🏃🏻 🇪🇸Esp.Sobrepeso Obesidad🍴 🥗Recomposición Corporal⚙️ 🍔 Hábitos
     location: "Colombia"
-    followers: 80353
-    engagement: 731
-    commentsToLikes: 0.013768
-    id: ck0vy4n55284a0i19d2hpdukw
+    followers: 121517
+    engagement: 102
+    commentsToLikes: 0.027509
+    id: ck8sz2favmx340j78unmqz99n
     verified: false
-    hashtags: "#instamoment, #deporte, #instagram, #primavera"
+    hashtags: "#fitness, #nutri, #bajardepesorapido, #tonificar"
+  - username: "laura_.stephany"
+    fullname: >-
+      Stephany Laura
+    bio: >-
+      💕 Vive la vida al máximo!! Solo cuentas con el presente para ser Feliz 💕. #love #beauty #fitness 📍Miami 🌆 @estephany_laura 😍(Cuenta Principal)
+    location: "Colombia"
+    followers: 16584
+    engagement: 747
+    commentsToLikes: 0.060533
+    id: ckap86oayn2ai0i781kpyyiy0
+    verified: false
+    hashtags: "#only, #tbt, #miami, #cubanas"
+  - username: "mariafernandagalavis"
+    fullname: >-
+      Maria Fernanda Galavis 👸🏻
+    bio: >-
+      Amor propio, fitness y algo de locura💁🏻‍♀️ VidaFit❣️#maferfit💪🏻👸🏻 Mía’s mom👧🏻 Odín Ra 🐶 @shanti_mf ✨ +AMOR❤️ -APEGOS🍃 Empoderamiento 💝 📍🇨🇴
+    location: "Colombia"
+    followers: 271481
+    engagement: 186
+    commentsToLikes: 0.242349
+    id: ck6tk75zf44ub0j71ee6vxku0
+    verified: false
+    hashtags: "#maferfit, #fitnessmotivation, #fitnessgirl, #sorteoscolombia"
   - username: "bebasantander"
     fullname: >-
       Thalia Santander 🐰💪
     bio: >-
-      Manager: @patricioazeta DIOS ♥ Wellness Fitness🏆 💪🏻 Lcda en fisioterapia 👩🏻‍⚕️
+      Manager: @azetanetwork DIOS ♥ Wellness Fitness🏆 💪🏻 Lcda en fisioterapia 👩🏻‍⚕️
     location: "Colombia"
-    followers: 26414
-    engagement: 1036
-    commentsToLikes: 0.015698
+    followers: 61981
+    engagement: 832
+    commentsToLikes: 0.016937
     id: ck6u63rwudcom0j71z5o3zzfa
     verified: false
-    hashtags: "#fitnessaddict, #fitnessmotivation, #fitnessgirl, #wellness"
+    hashtags: "#fitnessgirl, #ecuador, #wellness, #manabi"
+  - username: "marianelamodel"
+    fullname: >-
+      MARIANELA | PRESENTADORA
+    bio: >-
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
+    location: "Colombia"
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
+    verified: false
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
+  - username: "marlennedm"
+    fullname: >-
+      Marlennedm
+    bio: >-
+      Manager:@ruben_rojillo +52 55 6617 9254 Psicóloga, fitnessgirl, vegana, nowaste , y a veces modelo Lamujerquebotafuego🔥@marlenne.dm @hazluzenelmundo
+    location: "Colombia"
+    followers: 55699
+    engagement: 353
+    commentsToLikes: 0.031760
+    id: ckaoy0acufikr0i78qdvyffqb
+    verified: false
+    hashtags: "#hazluzenelmundo, #tattoo, #model, #sexylegs"
   - username: "maleja__fitness"
     fullname: >-
       ✨MalejaFitness✨
     bio: >-
-      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Creadora @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
+      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Mi marca @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
     location: "Colombia"
-    followers: 52587
-    engagement: 185
-    commentsToLikes: 0.202511
+    followers: 52431
+    engagement: 152
+    commentsToLikes: 0.213505
     id: ck6ub52tt7ihr0j71agebuhxm
     verified: false
-    hashtags: "#fitgirls, #fitnessmotivation, #healthy, #powergirl"
+    hashtags: "#bodybuilding, #powergirl, #rutinasdeejercicios, #bogotafitness"
+  - username: "nattynatooo"
+    fullname: >-
+      Natalia Carrasco Sanhueza
+    bio: >-
+      🇨🇱 Cuenta Oficial @elbaul_dela_natty @casaspremadesantiago Agradecida ❤️ Mamá 👧 🐕 🐩🐈 Cosmetologa Artista Fitness Modelo
+    location: "Colombia"
+    followers: 25906
+    engagement: 371
+    commentsToLikes: 0.043108
+    id: ckap7in9ok8i40i784t4ska85
+    verified: false
+    hashtags: "#surdechile, #sol, #universo, #amor"
   - username: "dahiabetancur"
     fullname: >-
       DaHiAnA BeTaNcUr  🌸 👀
     bio: >-
-      COLOMBIA 🇨🇴 24/7 fitnesslife #dahiafit 💪🏻🏋🏻‍♀️💯 Típs para cuerpo y mente saludables estilo de vida ❤️🥗 @distriledautomotriz 🚘🏍
+      MEDELLÍN, COLOMBIA 🇨🇴 24/7 fitnesslife #dahiafit 💪🏻🏋🏻‍♀️💯 Gym + Crossfit 🔥 estilo de vida ❤️🥗 @distriledautomotriz 🚘🏍
     location: "Colombia"
-    followers: 23577
-    engagement: 195
-    commentsToLikes: 0.071696
+    followers: 25489
+    engagement: 133
+    commentsToLikes: 0.081514
     id: ck5zpekqcsj620i14rtne7liv
     verified: false
-    hashtags: "#estilodevida, #fitnesslifestyle, #strong, #dahiafit"
-  - username: "kathecfit"
+    hashtags: "#bodyfitness, #lifestyle, #strongwomen, #bodygoals"
+  - username: "racolmenero"
     fullname: >-
-      Kathe Cruz
+      Ra Colmenero
     bio: >-
-      📌| Bogota- Colombia 📚| Entrenadora en formación CCAPF 🏋🏻‍♀️ 💥| Fitness life 🙈 🎓| Tecnóloga en gestión ambiental y servicios públicos UD.
+      📍 CDMX 🏴‍☠️Co-Founder @tootoxicshop 🏋️‍♀️ Fitness coach @fvrclubmx 💻 Manager: @lulucasgar @pineapplemgmt 🚀 Social media ⬇️
     location: "Colombia"
-    followers: 25686
-    engagement: 708
-    commentsToLikes: 0.016115
-    id: ckap4egng703l0i78k3w2c4sb
+    followers: 48158
+    engagement: 99
+    commentsToLikes: 0.062561
+    id: ck5bwg654ln820i11cyisja0y
     verified: false
-    hashtags: "#fitness, #fit, #instafit, #results"
-  - username: "nanis44"
-    fullname: >-
-      𝕯𝖎𝖆𝖓𝖆 𝕵𝖎𝖒𝖊𝖓𝖊𝖟
-    bio: >-
-      ⚬Amante a los animales 🐶🐮🐂🐎😻 ⚬ Atleta fitness 🙅🏻‍♀️ 💟@guerreroscolombia Embajadora 🏋🏽‍♀️ @tntsupernutrition
-    location: "Colombia"
-    followers: 208588
-    engagement: 293
-    commentsToLikes: 0.016866
-    id: ckaorayu7mhe50i78sklndpx9
-    verified: false
-    hashtags: "#domingorelax, #tbt"
-  - username: "danielgarciazumba"
-    fullname: >-
-      Daniel García
-    bio: >-
-      🚨 SIGUEME EN @brothers_twinz 🚨 • Zumba® Instructor 🌎 • International Zumba® Fitness Presenter • ZIN Member™ • Cali, Colombia 🇨🇴
-    location: "Colombia"
-    followers: 4788
-    engagement: 875
-    commentsToLikes: 0.080545
-    id: ckaoydj2uh26b0i78rq2ifuxo
-    verified: false
-    hashtags: "#cali, #colombia, #zumbawear, #zumba"
-  - username: "janee.hdz"
-    fullname: >-
-      Jαηє н∂z 👑
-    bio: >-
-      ❗POSITIVE WOMAN❗ WORK @multimediostv FITNESS MOM OF @bellavargas_15💪🏼 CODE @sheinofficial -15%”Q3janeehdz” ✨Collabs Correo o DM✨ LIC ADMIN🐘 GEMINIS♊
-    location: "Colombia"
-    followers: 174786
-    engagement: 114
-    commentsToLikes: 0.033845
-    id: ckf5la1mgovpq0j23ki6zx9le
-    verified: false
-    hashtags: "#shein, #sheingals, #loveit, #sheingirls"
-  - username: "laura_manrique13"
-    fullname: >-
-      Laura Manrique
-    bio: >-
-      Athlete Bikini Fitness👙 Personal trainer🏋🏻‍♀️ posing coach 🏆 Colombiana 🇨🇴 Panamá 🇵🇦 @abcfitnesspanama 🛍🛒
-    location: "Colombia"
-    followers: 39152
-    engagement: 258
-    commentsToLikes: 0.022775
-    id: ck6tmt8738hn60j71nllvp2a8
-    verified: false
-    hashtags: "#tbt, #espalda"
-  - username: "locombia"
-    fullname: >-
-      Locombia
-    bio: >-
-      ♥ We love #hiking #mountains #outdoors #fitness #fashion #vanlifer with 🚐 Mistral Ligia (Colombian)+ Stephen (Irish) @esmurphy01 📍London
-    location: "Colombia"
-    followers: 23232
-    engagement: 244
-    commentsToLikes: 0.219215
-    id: ck5zw15bi5a3m0i148n3du114
-    verified: false
-    hashtags: "#getoutside, #intothewilderness, #themountainiscalling, #ukhiking"
+    hashtags: "#men, #menstyle, #gym, #fitness"
 ---

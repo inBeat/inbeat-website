@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Bangkok In 2022
+title: Top 10 Instagram Influencers In Bangkok In 2023
 description: >-
-  Find top Instagram influencers in Bangkok in 2022. Most popular hashtags: #bangkok #thailand #travel.
+  Find top Instagram influencers in Bangkok in 2023. Most popular hashtags: #bangkok #thailand #bangkoklife.
 platform: Instagram
-hits: 295
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 295 Instagram influencers like this in Bangkok, Thailand for you to pitch.
+hits: 270
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 270 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
   - username: "phka_studio"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.004123
     id: ck5hsbrr1wbqd0i11gfxt1ua8
     verified: false
-    hashtags: "#phkabloom, #weddingreception, #poonhintheseries, #phkaarchive"
+    hashtags: "#stagedesign, #weddingflower, #weddingdecoration, #phkaarchive"
+  - username: "bellenvl"
+    fullname: >-
+      Belle
+    bio: >-
+      @tr.rclinic @bb_second_things @choice.hairlounge Bangkok, Thailand
+    location: "Thailand"
+    followers: 109547
+    engagement: 25
+    commentsToLikes: 0.006649
+    id: ck1348u7dva7l0i19yolr29zm
+    verified: false
+    hashtags: "#omegathailand, #hydravitallight, #mesoesteticth, #demisathu49"
   - username: "app.coll"
     fullname: >-
       App.Coll
     bio: >-
-      👩‍🎓Law| 👩‍💻#realestate |#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 🛒For 21+@wine_all_day 🛒Shopping My Collection @spritz_clothing 📍#Bangkok
+      👩‍🎓Law| 👩‍💻#realestate|#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 Check my👇 🏡 @rightkeyestate 🛒🍷@wine_all_day 🛒 👗@spritz_clothing 🎈#Bangkok
     location: "Thailand"
-    followers: 13350
-    engagement: 1607
-    commentsToLikes: 0.058934
+    followers: 20325
+    engagement: 1396
+    commentsToLikes: 0.059246
     id: ckaoxrshcegax0i78l9dyxfyz
     verified: false
-    hashtags: "#outfit, #latex, #thailand, #tan"
-  - username: "orav.angel"
+    hashtags: "#asiangirl, #makeup, #holiday, #weekend"
+  - username: "thekittyway"
     fullname: >-
-      Angelica Orav
+      Fashion Travel Lifestyle Mommy
     bio: >-
-      From Estonia, live in Bangkok 173cm ‌Fitness/Modeling/Positivity For ADs/Collabs/Shoutouts: contact@angelorav.com
+      ✨ Content Creator | Wifey | Mom 👼🏻 @valentina.erika.b 💍 @s_kantapong 📍Bangkok 🐱 ชื่อเล่น: คิตติ้ / 📍Germany 💌 contact.kitty292@gmail.com
     location: "Thailand"
-    followers: 33339
-    engagement: 292
-    commentsToLikes: 0.060753
-    id: ckapb8122yxbe0i78welwauad
+    followers: 51011
+    engagement: 356
+    commentsToLikes: 0.045323
+    id: ck14kgjfqpeth0i19xhv4ztx1
     verified: false
-    hashtags: "#animals, #poledancer, #safariworldbangkok, #teengirl"
+    hashtags: "#thaigerman, #fashionblogger, #inspojunkie, #thehappynow"
   - username: "genevemiller"
     fullname: >-
       geneve
     bio: >-
       MA: @worldmgmt 🇨🇦 @iconmodelmanagement, Toronto 🇨🇦 @applemodels, Bangkok 🇹🇭 Filipino-Canadian.20.♈︎.❥o.r. 📍Canada
     location: "Thailand"
-    followers: 9629
-    engagement: 1502
-    commentsToLikes: 0.028655
+    followers: 9004
+    engagement: 1310
+    commentsToLikes: 0.025919
     id: ck8wfbu31fhpz0j78fmkaxfik
     verified: false
-    hashtags: "#swimwear, #giveaway, #giveawaycontest, #bikini"
-  - username: "anitabye"
+    hashtags: "#giveaway, #giveawaycontest, #bikini, #swimwear"
+  - username: "nanna.phatt"
     fullname: >-
-      Anita Bye/อันนิต้า บี Thailand
+      Nanna.phat💋
     bio: >-
-      📍Bangkok ✖️Thai/Norwegian 💪🏼Personal trainer @thecubicfitness 🥊@knockoutbkk 💕Brand ambassador @barebells.thailand
+      📍Cabin crew at Bangkok Airways 📖 Interior Architecture from Chulalongkorn 🏡 Bangkok, Thailand 💕 Design and life style travel are my happiness
     location: "Thailand"
-    followers: 39475
-    engagement: 222
-    commentsToLikes: 0.057508
-    id: ck8taypvztmid0j7889mj9a69
+    followers: 5137
+    engagement: 1709
+    commentsToLikes: 0.030837
+    id: ck8szpn0lp9ab0j78dovmsv8x
     verified: false
-    hashtags: "#activewear, #stayhome, #proteinbar, #bangkok"
-  - username: "yamy2p"
-    fullname: >-
-      Yam Poramate
-    bio: >-
-      Mister​ ​Universe​ Bangkok​ 2019​ 🇹🇭 MC​'50​ We Run ABM​ MFU'14 AOT​ VTCC 61 CMU AGRO FE'​54
-    location: "Thailand"
-    followers: 16525
-    engagement: 1073
-    commentsToLikes: 0.014751
-    id: ck5q253yqebb40i11e69r5di2
-    verified: false
-    hashtags: "#omgsportswear, #omgboy, #streetwear, #onmygame"
+    hashtags: ""
   - username: "journeytojunipero"
     fullname: >-
       Journey to Junipero
     bio: >-
       Mirko roaming Southeast Asia Travel Photography + Writing 📍Bangkok, Thailand hello@journeytojunipero.com
     location: "Thailand"
-    followers: 11680
-    engagement: 468
+    followers: 11411
+    engagement: 479
     commentsToLikes: 0.126435
     id: ck6tlnucq6b0z0j71568uu1dq
     verified: false
-    hashtags: "#bangkokcity, #pinasmuna, #lostinph, #artofportrait"
+    hashtags: "#femaleportraits, #cebuph, #discoverph, #bacc"
   - username: "peternoszek"
     fullname: >-
       Peter
     bio: >-
       🌏 Trying to learn something new every day. 📍 Bangkok 🇹🇭 🤍 ซื้อหน้ากากผ้า @carbonmasks.th
     location: "Thailand"
-    followers: 7088
-    engagement: 1323
-    commentsToLikes: 0.068085
+    followers: 7879
+    engagement: 1296
+    commentsToLikes: 0.050785
     id: ckaoxtyuseqot0i7853za2sw2
     verified: false
-    hashtags: "#thailand, #bangkok, #kohchang, #entrepreneur"
-  - username: "mmintsiri"
+    hashtags: "#thailand, #bangkok, #travel, #samui"
+  - username: "chomfeb"
     fullname: >-
-      CHANAKARN S.
+      Feb.
     bio: >-
-      🗽University of La Verne,California: Leadership and Human Asset Management 💎Bangkok University: Logistic and Supply Chain Management 🚶🏻‍♀️AIESECer
+      Artist Manager : Nadao Bangkok
     location: "Thailand"
-    followers: 24523
-    engagement: 1172
-    commentsToLikes: 0.007023
-    id: ck9wp772g83mt0j78fpn9fcrd
+    followers: 64862
+    engagement: 672
+    commentsToLikes: 0.010600
+    id: ck0tufg7b6x5c0i19gum87rvr
     verified: false
-    hashtags: ""
-  - username: "tanuki_army"
+    hashtags: "#bmmf11, #whatsfebb"
+  - username: "alelironi"
     fullname: >-
-      Theerasak Yusuksuwan
+      Aleliro
     bio: >-
-      Cabin Crew : Bangkok Airways 🛫 Education : Silpakorn University SU 🎓 Master : Zhejiang University ZJU 🎓🎓 Facebook : Theerasak Yusuksuwan 🇹🇭🇨🇳
+      Lake Como | Bangkok. Creator of @webangkok.
     location: "Thailand"
-    followers: 21505
-    engagement: 1037
-    commentsToLikes: 0.008424
-    id: ckap1mmygv75g0i78uw824vrd
+    followers: 10174
+    engagement: 641
+    commentsToLikes: 0.070089
+    id: ck0tvufavcu3o0i19nupvpik5
     verified: false
-    hashtags: "#pg, #pgcrew, #thaicrew, #bangkokairways"
+    hashtags: "#maekampong, #thailand, #bangkok, #kohchang"
 ---

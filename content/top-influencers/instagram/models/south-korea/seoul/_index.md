@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Seoul In 2022
+title: Top 10 Models Instagram Influencers In Seoul In 2023
 description: >-
-  Find top models Instagram influencers in Seoul in 2022. Most popular hashtags: #korea #seoul #model.
+  Find top models Instagram influencers in Seoul in 2023. Most popular hashtags: #korea #seoul #model.
 platform: Instagram
-hits: 43
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 43 Instagram influencers like this in Seoul, South Korea for you to collaborate.
+hits: 31
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 31 Instagram influencers like this in Seoul, South Korea for you to connect with.
 profiles:
+  - username: "mariamaria.dantas"
+    fullname: >-
+      Maria Dantas 🇧🇷
+    bio: >-
+      Actor/ Model Seoul 📍 Stella Adler Academy and Theater LA 🎭 @platinummodels.korea Team @tropeaka
+    location: "South Korea"
+    followers: 71397
+    engagement: 151
+    commentsToLikes: 0.032696
+    id: ck8t2c74oyxhv0j78u0cjp1s7
+    verified: false
+    hashtags: "#tbt, #sevenknights, #lego, #ikea"
   - username: "sandra_ssong"
     fullname: >-
       Sasha Song (모델 사샤)
     bio: >-
-      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 YouTuber 1.6 Million / 유튜버 165만명 TikTok 2 Million / 틱톡 200만명
+      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 광고,촬영문의 / Business- DM 📩
     location: "South Korea"
-    followers: 159437
-    engagement: 1392
-    commentsToLikes: 0.016032
+    followers: 692345
+    engagement: 3617
+    commentsToLikes: 0.011403
     id: ck8t8gcnikdal0j7833hnrq5k
     verified: false
-    hashtags: ""
+    hashtags: "#korea, #lifeinkorea, #russianmodel, #internationalcouple"
+  - username: "d2nasoaring"
+    fullname: >-
+      Dina 디나 Mujanović
+    bio: >-
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜@dina11mujanovic <-- 촬영 🐙 dancer, yogi, voice actress, actress 🦖 Youtuber
+    location: "South Korea"
+    followers: 6790
+    engagement: 1103
+    commentsToLikes: 0.079772
+    id: ck6tvpzpwnm7r0j718srk9qrl
+    verified: false
+    hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
   - username: "mounecasta"
     fullname: >-
       Moon Casta 윤아
     bio: >-
       🧿•Paris🇫🇷 •Seoul🇰🇷 •Alger🇩🇿 • Model• 👑Miss France Veet 14’ •Tiktok : Mounecasta. @newme.in.korea
     location: "South Korea"
-    followers: 59118
-    engagement: 205
-    commentsToLikes: 0.018669
+    followers: 59042
+    engagement: 238
+    commentsToLikes: 0.017956
     id: ckf5tntk7i9xo0j23olqhf879
     verified: false
-    hashtags: "#algerianinkorea, #love, #paris, #model"
-  - username: "alena_vita"
+    hashtags: "#paris, #lyon, #gangnam, #alger"
+  - username: "ellgimogi"
     fullname: >-
-      📸ФОТО СЕУЛ👤ПУСАН👤Photo Korea
+      ellgimogi ❤️ 국제커플
     bio: >-
-      #alena_vita_навигация 🖲жизнь между : США🇺🇸 КОРЕЯ🇰🇷РОССИЯ🇷🇺 🖲ЗАКАЗ ФОТО ТУТ: @alena_vita_photo 🖲 Информативно с эмоциями 🖲Телеграм:
+      •Korean/Ukrainian-Greek couple 🇰🇷👫🇺🇦🇬🇷 📩 촬영문의 DM •Youtube ⤵️ • 국제커플🌸 📍Seoul, South Korea 🎥국제커플 일상♡ 🇰🇷 17/08/2020✈️🔒 #internationalcouple #국제커플
     location: "South Korea"
-    followers: 10362
-    engagement: 1005
-    commentsToLikes: 0.042118
-    id: ck9hbs550i7bv0j78ia6jbsvr
+    followers: 4469
+    engagement: 1850
+    commentsToLikes: 0.044971
+    id: ckap5j8k1bxey0i78ubr7zbhe
     verified: false
-    hashtags: "#korea, #seoul, #busan, #models"
+    hashtags: "#amwf, #korea, #jogyesa, #explorekorea"
+  - username: "ay__ble"
+    fullname: >-
+      이지은
+    bio: >-
+      ᎪYᏴᏞᎬ / ᏞᎬᎬ ᏓᏆ ᎬᏌN 🇰🇷Hiphop dancer / Choreographer @play_holybang Lesson or Contact 📩DM
+    location: "South Korea"
+    followers: 2440
+    engagement: 984
+    commentsToLikes: 0.046810
+    id: ckaoruzgbov5v0i7829jirrui
+    verified: false
+    hashtags: "#dancer, #choreo, #ayble, #dance"
   - username: "ji_kat"
     fullname: >-
-      Kat(이루나)
+      Kat(이루나)
     bio: >-
-      Daily photos 🐙 ⠀ 제주 lover⛱🏝 Christ follower 🕊 Living in Seoul 🌃 프리랜서 모델~ 모델 문의,DM for contact Happy girl Kat🐱 Photo @film_seoul #ji_kat🐱navigation
+      Daily photos 🐙 ⠀ 제주 lover⛱🏝 Christ follower 🕊 Living in Seoul 🌃 프리랜서 모델~ 모델 문의 Portfolio @le_model_kat Happy girl Kat🐱
     location: "South Korea"
-    followers: 5760
-    engagement: 967
-    commentsToLikes: 0.020156
+    followers: 6384
+    engagement: 1281
+    commentsToLikes: 0.023574
     id: ck9hbs5d9i7ed0j78a0badowv
     verified: false
-    hashtags: "#model, #korea, #ji, #vlog"
-  - username: "mariamaria.dantas"
+    hashtags: "#model, #travel, #ji, #korea"
+  - username: "yangayoung"
     fullname: >-
-      Maria Dantas 🇧🇷
+      Ayoung🇰🇷
     bio: >-
-      Actor/ Model @platinummodels.korea Team @tropeaka Seoul📍
+      -17.SIPC🥉 -17.Angel🥇 -17.KPSC.PCS.🥉 -18.SIPC🥇 -18.POSA.KOREA.POLE ART🥇 -18.Poleart.korea.🥇 -19. Posa.Pole art.worldChampionship 5th. . ☎ 031)551-8884
     location: "South Korea"
-    followers: 72139
-    engagement: 160
-    commentsToLikes: 0.029068
-    id: ck8t2c74oyxhv0j78u0cjp1s7
+    followers: 26356
+    engagement: 191
+    commentsToLikes: 0.022784
+    id: ck5ca2pfyckzu0i11cr8v969o
     verified: false
-    hashtags: "#tbt, #blm, #sevenknights"
-  - username: "nnennarimma"
+    hashtags: "#pdgripchange, #tinkerbellpolestudio, #poler, #bendy"
+  - username: "marianapinam"
     fullname: >-
-      Nnenna Rimma
+      M A R I A N A   P I Ñ A  🍍
     bio: >-
-      Model, Art historian, Rat @nikmodelmanagement Seoul @wagency 📍
+      🇲🇽MA| @capitalmodel 🇺🇸@selectmodellosangeles 🇰🇷 @modeldirectors 🇨🇳 @gfimodels 🇯🇵 @wildflower_model 🇨🇱🇦🇷 @welovemodels._
     location: "South Korea"
-    followers: 6634
-    engagement: 530
-    commentsToLikes: 0.015212
-    id: ck5hcnu2kj1tm0i111woraski
-    verified: false
-    hashtags: ""
-  - username: "d2nasoaring"
-    fullname: >-
-      Dina 디나 Mujanović
-    bio: >-
-      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
-    location: "South Korea"
-    followers: 7855
-    engagement: 1165
-    commentsToLikes: 0.068807
-    id: ck6tvpzpwnm7r0j718srk9qrl
-    verified: false
-    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
-  - username: "nadiia_shnaider"
-    fullname: >-
-      ɴᴀᴅɪɪᴀ sʜɴᴀɪᴅᴇʀ 📍🇰🇷
-    bio: >-
-      •model пережила карантин в Корее •сторис из Seoul 🇰🇷 •38 countries •22К в TikTok➡️nadiia_shnaider modelSelectiveMGMT
-    location: "South Korea"
-    followers: 64074
-    engagement: 110
-    commentsToLikes: 0.031527
-    id: ck0ty5kmglqbe0i192lq1tfcw
+    followers: 17177
+    engagement: 1392
+    commentsToLikes: 0.009940
+    id: ck5ci5u32s2t90i11x4pt2qpc
     verified: false
     hashtags: ""
-  - username: "b4dape"
-    fullname: >-
-      B4DAPE 이재혁
-    bio: >-
-      🇰🇷 DJ / MODEL @djbadmon @mr.hyungbae 📩 Contact DM
-    location: "South Korea"
-    followers: 37372
-    engagement: 877
-    commentsToLikes: 0.007965
-    id: ck5qco14vrib60i11khs6p8sg
-    verified: false
-    hashtags: "#goldengooseseoul, #sincity, #sincityseoul, #dadstar"
   - username: "taelaraa"
     fullname: >-
       Dilara ILGAZ
     bio: >-
       #모델 #model 촬영문의 ⤵️ 📩 이메일:anj-ent@naver.com ☎️연락처 (백철호): +82 010-7455-0175
     location: "South Korea"
-    followers: 7191
-    engagement: 963
-    commentsToLikes: 0.031512
+    followers: 7566
+    engagement: 1016
+    commentsToLikes: 0.029799
     id: ck8t2ajzoyqub0j78rmpoc531
     verified: false
-    hashtags: "#girl, #red, #love, #eyeliner"
+    hashtags: "#girl, #me, #makeup, #taelara"
 ---

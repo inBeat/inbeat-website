@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Madrid In 2022
+title: Top 10 Vegan Instagram Influencers In Madrid In 2023
 description: >-
-  Find top vegan Instagram influencers in Madrid in 2022. Most popular hashtags: #vegan #madrid #foodporn.
+  Find top vegan Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #vegan #chocolate #instafood.
 platform: Instagram
-hits: 45
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 45 Instagram influencers like this in Madrid, Spain for you to pitch.
+hits: 35
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 35 Instagram influencers like this in Madrid, Spain for you to connect with.
 profiles:
   - username: "albertolancha"
     fullname: >-
       Alberto Lancha
     bio: >-
-      🌱 Vegano 📸 Comparto mi comida 🌍 Madrid 📩 albertolancha@nativetalents.es
+      🌱 Recetas fáciles y veganas 📩 albertolancha@nativetalents.es
     location: "Spain"
-    followers: 53323
-    engagement: 248
-    commentsToLikes: 0.039261
+    followers: 51897
+    engagement: 267
+    commentsToLikes: 0.036066
     id: ck6tm1buo70ga0j71t392ibzd
     verified: false
-    hashtags: "#veganism, #handmade, #delicious, #healthy"
-  - username: "deardiaryblog"
+    hashtags: "#veganism, #instafood, #foodie, #cook"
+  - username: "yamifitfood"
     fullname: >-
-      Marta Martín
+      Recetas fáciles y saludables
     bio: >-
-      🐮 Vegan 🐷 🏠 Madrid 📩 Email: deardiaryfashion@gmail.com 🎥Youtube: DearDiaryBlog ⬇️⬇️
+      Entrena conmigo ⤵️ 🏋️‍♀️CrossFit & Fitness @yami.fitteam 🎥Todos los días recetas en stories.
     location: "Spain"
-    followers: 183856
-    engagement: 726
-    commentsToLikes: 0.011436
-    id: ck5c30i0vycqg0i11wvbdgum0
+    followers: 111739
+    engagement: 102
+    commentsToLikes: 0.147775
+    id: ck14jw27qmh6r0i19zhedefic
     verified: false
-    hashtags: "#mbfwmadrid, #ponstranslator, #vocabularytrainer, #ad"
-  - username: "eliuseche"
-    fullname: >-
-      Elizabeth Useche
-    bio: >-
-      Made in Venezuela 🌱 Vegan 🐾 📍Madrid
-    location: "Spain"
-    followers: 19124
-    engagement: 405
-    commentsToLikes: 0.012999
-    id: ck6uaz4lz6je00j71qpzqeilz
-    verified: false
-    hashtags: "#love, #mipez, #squad, #justforpizzalovers"
+    hashtags: "#galletas, #platano, #chocolatelover, #desayuno"
   - username: "portimismo"
     fullname: >-
       Portimismo (Jen) 👩🏻♻️
     bio: >-
-      ❤Comida Real, Fácil y #healthy 👪Mamá #japanlover ✈️FAN de VIAJES diferentes 💌Colaboración 🤗Haciendo familia en #instagram 💪Piens@➕ #comidaestrellada
+      ❤Recetas fáciles #fit 🍴Los JUEVES te Reto Cooking (destacado RETOS) 📌Lugares y productos de moda ✈️VIAJES diferentes! 👪Mamá #japanlover 💌Colab
     location: "Spain"
-    followers: 8583
-    engagement: 689
-    commentsToLikes: 0.421526
+    followers: 9370
+    engagement: 827
+    commentsToLikes: 0.521784
     id: ckapcpw254q4w0i78s6ozn6k6
     verified: false
-    hashtags: "#mamamolona, #challenging, #singluten, #foodart"
+    hashtags: "#recetassaludables, #premio, #desayunosaludable, #snacksaludable"
+  - username: "madridgoout"
+    fullname: >-
+      MadridG👀ut - Foodies  - Madrid
+    bio: >-
+      👨‍👩‍👦 Lis 🇻🇪 & Edu 🇪🇦 Experiencias gastronómicas millennials Dónde comer y qué hacer en #Madrid 🍴 #Foodies 👶🏼#babyfriendly 📩 Hola@madridgoout.com
+    location: "Spain"
+    followers: 19145
+    engagement: 129
+    commentsToLikes: 0.130215
+    id: ck5cgcgxdokb80i1197l7mcok
+    verified: false
+    hashtags: "#madridgoout, #turismo, #alicante, #parquesdemadrid"
   - username: "vegan_nia"
     fullname: >-
       Stefania Isabel
     bio: >-
       Como libros y plantas, pero no animales. . 📍 Madrid 🇻🇪🇪🇸 📸 YouTube: Vegan Nia
     location: "Spain"
-    followers: 45965
-    engagement: 249
-    commentsToLikes: 0.052930
+    followers: 46216
+    engagement: 261
+    commentsToLikes: 0.053365
     id: ckap1rkyjvtjj0i78o1mfjd9a
     verified: false
-    hashtags: "#tb"
-  - username: "pilotalba"
+    hashtags: "#tb, #apoyoalagricultor"
+  - username: "lacocinademasito"
     fullname: >-
-      Alba
+      La cocina de Masito
     bio: >-
-      • #Pilot B737👩🏻‍✈️ • 🌱 based 🧘🏼Fitness lover. #Aviation enthusiast. Made in Barcelona.✨ 💌 albamangado@gmail.com
+      🙋‍♂️Hola, Soy Masito, aqui verás #recetasfaciles de #cocina que todos podréis hacer en casa. ☎️lacocinademasito@gmail.com MI LIBRO DE COCINA ⬇️⬇️⬇️
     location: "Spain"
-    followers: 33871
-    engagement: 296
-    commentsToLikes: 0.030071
-    id: ck0twclqmewa20i19f0iv9v8j
+    followers: 60940
+    engagement: 261
+    commentsToLikes: 0.063053
+    id: ck1350h5az2qk0i19uen4znpl
     verified: false
-    hashtags: "#pilotalba, #pilotlife, #pilotlifestyle, #naturephotography"
-  - username: "sara_buzon"
+    hashtags: "#recetarica, #postre, #lacocinademasito, #food"
+  - username: "yolanda_rosell"
     fullname: >-
-      Sara Buzón
+      𝐘𝐎𝐋𝐀𝐍𝐃𝐀 𝐑𝐎𝐒𝐄𝐋𝐋
     bio: >-
-      Luz, textura y sabor. ❤️♥️♥️ Fotógrafa y estilista gastronómica. info@sarabuzon.com . @sarabuzon_retratos
+      Valencia - Madrid Graduated in Human Resources 🎓 #opositora #glutenfree 🌾 Colaboraciones: yolirosell@hotmail.com 💗2️⃣
     location: "Spain"
-    followers: 25722
-    engagement: 637
-    commentsToLikes: 0.123556
-    id: ck6tmic507wl00j7189kwukn9
+    followers: 39583
+    engagement: 161
+    commentsToLikes: 0.177986
+    id: ckap4yx1y9fo00i781e0xuzd2
     verified: false
-    hashtags: "#sarabuzon, #foodmadrid, #foodporn, #foodstyle"
-  - username: "joselu_zapata"
+    hashtags: "#apmgirls, #pinterest, #outfitoftheday, #apmmonaco"
+  - username: "soraya.keyrer"
     fullname: >-
-      JOSELU ZAPATA
+      S O R A Y A    K E Y R E R
     bio: >-
-      🌱 Plant Based 📍 Madrid ✨ @nuenem
+      • Art - Draw&Tattoo @soraya.keyrer.art • Work - soraya.keyrer@gmail.com 🖌️🎨📸💉✨🌈🦋🛹🎶 • #Madrid - #Ibiza📍- Adv&PR - ☀️🗡️🌙 👇VIDEOCLIP 'ROCK MY WORLD'👇
     location: "Spain"
-    followers: 17633
-    engagement: 499
-    commentsToLikes: 0.083656
-    id: ck15u9353m0w70i19xler85y2
+    followers: 13356
+    engagement: 455
+    commentsToLikes: 0.086569
+    id: ckf5suhx0g8r20j234xadbuuz
     verified: false
-    hashtags: "#retratofotografico, #sesiondefotos, #recetassaludables, #retrato"
-  - username: "loleetavonvil"
+    hashtags: "#photography, #spanishgirl, #photoshoot, #madrid"
+  - username: "palomaszalai"
     fullname: >-
-      Loleeta - ella/she/her
+      🕊️
     bio: >-
-      👠 Vintage - Punk Rockabilly 🐰 Salud mental y mi vida 🍃 Vegan 👗 Estilista y pro MUAH @wloleeta 📍Madrid 📥 loleetawho@gmail.com
+      Actriz Madrid, Spain Trabajos MD 📩 22~44 🐺
     location: "Spain"
-    followers: 8403
-    engagement: 719
-    commentsToLikes: 0.039719
-    id: ckap2oowmznzw0i78tbt25p6v
+    followers: 4726
+    engagement: 858
+    commentsToLikes: 0.117783
+    id: ck6tk3maa3xte0j71siy0i687
     verified: false
-    hashtags: "#hollywoodflawlessfilter, #xovinyl, #snapshadows, #lolitaporvidapalette"
-  - username: "caroline_caroline_blg"
+    hashtags: "#madridfoto, #sesiondefotosmadrid, #modelmadrid, #shootingmadrid"
+  - username: "itiroy"
     fullname: >-
-      C A R O L
+      Irene T-Roy
     bio: >-
-      👠Fashion 💄Beauty 🌍Traveller 🐶Dog lover 💃Dancer ✏️Teacher 🍜foodie 📍Madrid Descuento 15% @shein SMA88 Colaboraciones MD omail
+      ✒️IP Lawyer ⚡️Tireless dreamer & Unconditional traveler 🚩Madrid & Zgz | Originally from Seville 👗- 15% @sheinofficial itiroy315👇🏻
     location: "Spain"
-    followers: 43892
-    engagement: 188
-    commentsToLikes: 0.046015
-    id: ck5zywk34anmu0i14bwklxlxy
+    followers: 36716
+    engagement: 92
+    commentsToLikes: 0.063719
+    id: ck8tagbu7rmvb0j78wp6wdguf
     verified: false
-    hashtags: "#sheinlook, #cuidadopiel, #zarajeans, #photography"
+    hashtags: "#fashion, #sanvalent, #ootd, #december"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Seattle In 2022
+title: Top 10 TikTok Influencers In Seattle In 2023
 description: >-
-  Find top TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #duet #foryoupage #greenscreen.
+  Find top TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #duet #seattle #foryoupage.
 platform: TikTok
-hits: 934
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 934 TikTok influencers like this in Seattle, United States for you to pitch.
+hits: 596
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 596 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
   - username: "nguyenolivvia"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       seattle
     location: "United States"
-    followers: 9156
-    engagement: 1152
-    commentsToLikes: 0.010293
+    followers: 8967
+    engagement: 1232
+    commentsToLikes: 0.022793
     id: ckcptrgsuol1c0j23wsw9qsk3
     verified: false
-    hashtags: "#vietnamese, #fashion, #scoobdance, #healthheroes"
-  - username: "sheluvslouie"
+    hashtags: "#scoobdance, #pacnw, #vietnamese, #fashion"
+  - username: "mrgetbands"
     fullname: >-
       Luis Diego
     bio: >-
-      seattle
+      Seattle
     location: "United States"
-    followers: 110700
-    engagement: 2517
-    commentsToLikes: 0.008001
+    followers: 106800
+    engagement: 1688
+    commentsToLikes: 0.009142
     id: ckbw97qx8zk740j23vcklic7s
     verified: false
-    hashtags: "#resolutionunlocked, #sowholesome, #foryou, #fyp"
+    hashtags: "#resolutionunlocked, #sowholesome, #washington, #seattletiktok"
   - username: "misshalamarie"
     fullname: >-
       Marie
     bio: >-
       Age 36 Seattle Washington
     location: "United States"
-    followers: 3692
-    engagement: 3366
-    commentsToLikes: 0.135553
+    followers: 3688
+    engagement: 3440
+    commentsToLikes: 0.135699
     id: ckbki8n9bai3h0j23hzct821j
     verified: false
-    hashtags: "#expressieyourself, #fyp, #micellarrewind, #foryoupage"
-  - username: "_wyattrussell_"
+    hashtags: "#duet, #expressieyourself, #fyp, #foryoupage"
+  - username: "thedndmom"
     fullname: >-
-      wyattrussell
+      Shando, the D&D Mom
     bio: >-
-      norf seattle
+      teacher and TTRPG nerd I'd love to hear from you! PO BOX 30163 SEATTLE, WA 98103
     location: "United States"
-    followers: 86300
-    engagement: 2224
-    commentsToLikes: 0.043441
-    id: ck99ans2cidkl0j78ksicr7vq
+    followers: 58500
+    engagement: 2210
+    commentsToLikes: 0.069255
+    id: ck9elxrivcqs80j78n58l9sdg
     verified: false
-    hashtags: "#naruto, #lol, #4u, #fyp"
-  - username: "gracevz"
+    hashtags: "#duet, #bardcc, #dndhypehouse, #dnd"
+  - username: "shaiberryshortcake"
     fullname: >-
-      Grace
+      Shai
     bio: >-
-      Seattle 😤 18 🤪 BLM ACAB DUMPTRUMP
+      They/them ✡️ Seattle area 13 Bo was here <3
     location: "United States"
-    followers: 4262
-    engagement: 2081
-    commentsToLikes: 0.091305
-    id: ckcdh5yos7hge0j23i51dzrx9
+    followers: 12400
+    engagement: 2080
+    commentsToLikes: 0.058960
+    id: ck999u5gaegtf0j78tftghg25
     verified: false
-    hashtags: "#blm, #dylanobrien, #leftist, #acab"
+    hashtags: "#foryoupage, #foryou, #fyp, #videosnapchallenge"
   - username: "icravecornbread"
     fullname: >-
       ALΞЖ LICHTΞNHAN
     bio: >-
       Sit down👇🏻😡you’re talking to the rat queen🐭👑 📍Seattle WA He/him
     location: "United States"
-    followers: 4594
-    engagement: 2056
-    commentsToLikes: 0.081682
+    followers: 4533
+    engagement: 2078
+    commentsToLikes: 0.080143
     id: cka0vtdy5zyt10i78y3vi66yv
     verified: false
-    hashtags: "#tinybaby, #xyzbca, #fyp, #seattle"
-  - username: "thedndmom"
-    fullname: >-
-      Shando, the D&D Mom
-    bio: >-
-      Co-founder of the Bard Community College PO BOX 30163 Seattle, WA, 9811
-    location: "United States"
-    followers: 58800
-    engagement: 1919
-    commentsToLikes: 0.062837
-    id: ck9elxrivcqs80j78n58l9sdg
-    verified: false
-    hashtags: "#dnd, #bardcc, #biden2020, #duet"
+    hashtags: "#seattle, #fyp, #tinybaby, #xyzbca"
   - username: "amyhallmusic"
     fullname: >-
       Amy Hall
     bio: >-
       20, seattle wa. i write sad songs. she/her 🏳️‍🌈
     location: "United States"
-    followers: 4053
-    engagement: 1903
-    commentsToLikes: 0.089925
+    followers: 4026
+    engagement: 1974
+    commentsToLikes: 0.096820
     id: ckb9q8ma0m0ew0j23tbn9535d
     verified: false
-    hashtags: "#songwriter, #washingtonstate, #duet, #crucialcatch"
-  - username: "drumcorpskat"
+    hashtags: "#songwriter, #duet, #phoebebridgers, #musictaste"
+  - username: "_wyattrussell_"
     fullname: >-
-      DrumCorpsKat
+      wyattrussell
     bio: >-
-      Blue Stars: 2020/ 2022 Seattle Cascades: 2019 Venmo: KatConaway
+      norf seattle 18
     location: "United States"
-    followers: 48300
-    engagement: 2098
-    commentsToLikes: 0.032557
-    id: ck8w1bcyg1alf0j78l65xwa63
+    followers: 81100
+    engagement: 1615
+    commentsToLikes: 0.041237
+    id: ck99ans2cidkl0j78ksicr7vq
     verified: false
-    hashtags: "#mypfp, #wewintogether, #drumcorps, #greenscreenvideo"
-  - username: "kuhleeuh"
+    hashtags: "#4u, #skate, #fyp, #highschool"
+  - username: "zoexxmoore"
     fullname: >-
-      Kalia 🎤❤
+      Zoe Moore
     bio: >-
-      ✨Kalia| Seattle,WA| Black/Filipina| Singer| Model IG: kuhleeuh ✨
+      Seattle 📍 insta & snap: zoexxmoore
     location: "United States"
-    followers: 923400
-    engagement: 2574
-    commentsToLikes: 0.056664
-    id: ck8khqqd8ny2v0j78w5tkbw1j
-    verified: true
-    hashtags: "#happyhalloween, #kendrascott, #sponsored, #dutchbros"
+    followers: 147500
+    engagement: 1703
+    commentsToLikes: 0.040866
+    id: ck9ns8iunceb60j78dt3y7nnt
+    verified: false
+    hashtags: "#fyp, #foryou"
+  - username: "gracevz"
+    fullname: >-
+      grace
+    bio: >-
+      Seattle 19 she/they BLM ACAB leftist 🏴🚩
+    location: "United States"
+    followers: 14500
+    engagement: 1660
+    commentsToLikes: 0.071657
+    id: ckcdh5yos7hge0j23i51dzrx9
+    verified: false
+    hashtags: "#acab, #duet, #seattle, #fyp"
 ---

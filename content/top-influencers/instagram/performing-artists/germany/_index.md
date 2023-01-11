@@ -1,7 +1,7 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In Germany In 2022
+title: Top 10 Performing Artists Instagram Influencers In Germany in 2023
 description: >-
-  Find top performing artists Instagram influencers in Germany in 2022. Most popular hashtags: #artist #germany #love #dancer.
+  Find top performing artists Instagram influencers in Germany in 2023. Most popular hashtags: #artist #germany #love #dancer.
 platform: Instagram
 hits: 10
 text_top: Analyze the top-rated Instagram accounts on inBeat.

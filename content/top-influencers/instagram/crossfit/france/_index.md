@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In France In 2022
+title: Top 10 Crossfit Instagram Influencers In France In 2023
 description: >-
-  Find top crossfit Instagram influencers in France in 2022. Most popular hashtags: #fitness #crossfit #fit #motivation.
+  Find top crossfit Instagram influencers in France in 2023. Most popular hashtags: #fitness #fitnessmotivation #crossfit #summer.
 platform: Instagram
-hits: 182
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 182 Instagram influencers like this in France for you to pitch.
+hits: 213
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 213 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "elissa_charavia"
+  - username: "vero9cah"
     fullname: >-
-      𝓔𝓵𝓲𝓼𝓼𝓪 𝓒𝓱𝓪𝓻𝓪𝓿𝓲𝓪
+      PT VERONICA.H 🇳🇴 BERGEN
     bio: >-
-      📍🇫🇷 - Fʀᴇ́ᴊᴜs • Gᴏᴏᴅ Vɪʙᴇs Oɴʟʏ • @crossfitgrimaud @pierre.rouxx ❤︎︎ @esc_sounds @unchained_fr @ardor_progress @noccofrance @barebellsfrance
+      ⭐️PersonalTrainer #PT Bergen [ @afpt ]@progresjon OnlineCoach! ⭐️NOCCO @nocconorge ⭐️TIGHTS.NO @tights.no #crossfit #bootcamp #outdoors
     location: "France"
-    followers: 36362
-    engagement: 1471
-    commentsToLikes: 0.024320
-    id: ck0ub1blldh6b0i19znrhsv8d
+    followers: 26943
+    engagement: 518
+    commentsToLikes: 0.184184
+    id: ck8t1wg5oxb5y0j78hwu0l4e7
     verified: false
-    hashtags: "#girl, #gym, #best, #goodvibes"
-  - username: "naokisqueen"
+    hashtags: ""
+  - username: "vicctoriasouz"
     fullname: >-
-      He is Queen 🏳️‍🌈
+      Victória Souza
     bio: >-
-      18 Years Old Little Boy From Countryside Now live in Clermont Ferrand 🇫🇷 Crossfit Life ✨ He/Him
+      Rj | Crossfit | ⚖️ Sans amour, je ne serais rien.✨
     location: "France"
-    followers: 4847
-    engagement: 2802
-    commentsToLikes: 0.053397
-    id: ck14kvxpjrl000i19xred3q9y
+    followers: 2422
+    engagement: 2089
+    commentsToLikes: 0.104680
+    id: ck8t1b7zxv3mn0j78ld5pfhrb
     verified: false
-    hashtags: "#nipplesfree, #gaze, #goldenhour, #coquinou"
-  - username: "sufontes"
+    hashtags: "#quarentenaselfie, #sel, #caralimpa, #selfie"
+  - username: "kailacw_"
     fullname: >-
-      💕 Su 💕
+      ⓚⓐⓘⓛⓐ ⓒⓛⓐⓨⓟⓞⓞⓛ-ⓦⓞⓞⓓ 🌻
     bio: >-
-      45y 💪 Ducati Diavel Crossfit Addicted @eunutrition_pt 15% SUFONTES15 @cascarija 10% SUFONTES10 @maisvoce_cabeleireiros 15% SUFONTES15 @nexxhelmets
+      CrossFit Addict🏋️‍♀️ B.S. in Health Fitness & Recreation 📜 Minor in nutrition🥑 Personal trainer certified 💪🏼 Substitute teacher K-12 🍎 Neko & nala 🐾🦴
     location: "France"
-    followers: 29714
-    engagement: 607
-    commentsToLikes: 0.073564
-    id: ck14i1ox8d84m0i19ztlsj9ap
+    followers: 8468
+    engagement: 995
+    commentsToLikes: 0.057199
+    id: ck55n6a7s5koh0i11mwtyi0xl
     verified: false
-    hashtags: "#rider, #crossfitportugal, #ducatidiavel, #muscle"
+    hashtags: "#bowmargiveaway, #livelife, #gympost, #gymbeast"
   - username: "pamthorburn"
     fullname: >-
       Pam Thorburn
     bio: >-
       • Ski Cross/ Freeride • British Champion • Athlete/ Coach • Crossfit L2 • 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇳🇱 Nocco Head Ski Ellis Brigham Rocktape
     location: "France"
-    followers: 6306
-    engagement: 922
-    commentsToLikes: 0.056116
+    followers: 6243
+    engagement: 1000
+    commentsToLikes: 0.052627
     id: ck5hf6be5w02h0i11fqlrgth2
     verified: false
-    hashtags: "#extremepaddleboarding, #portugal, #iamasweatybetty, #worldanimalday"
-  - username: "m_coaching"
-    fullname: >-
-      Emeric D’azevedo 🏋️
-    bio: >-
-      Emeric D’azevedo🇫🇷/ 28 ans 🏋️coach sportif Marié 💍 et Papa👶🏼 Coaching :💥Message privé💥 Passion:fitness,crossfit🏋️
-    location: "France"
-    followers: 5387
-    engagement: 594
-    commentsToLikes: 0.109082
-    id: ck9wou1zd6lny0j78mzxv4uy7
-    verified: false
-    hashtags: "#training, #french, #crossfit, #workout"
-  - username: "jessicaavetter"
-    fullname: >-
-      Jessica Vetter
-    bio: >-
-      📍🇫🇷 www.jessicavetter.fr CrossFit, Gymnastique, Fitness Programmation @extragymprogram @wodabox @compexfrance @noccofrance
-    location: "France"
-    followers: 74442
-    engagement: 394
-    commentsToLikes: 0.054161
-    id: ck6tvc7f9lehx0j71ai1hptcq
-    verified: false
-    hashtags: "#forcesspeciales, #fitness, #france, #crossfit"
+    hashtags: "#worldanimalday, #tothekore, #extremepaddleboarding, #allinthistogether"
   - username: "peerezjustine"
     fullname: >-
       Justine Perez ✨
     bio: >-
-      🇫🇷 | Paris 🏋🏻‍♀️ | Crossfit 💪🏼 | Team #GoSportCrew ♡ 🌸 | PR & Influence @agencetrendsparis ———— 💌 peerezjustine@gmail.com
+      Sport • Lifestyle 🇫🇷 | Paris 🏋🏻‍♀️ | Crossfit 💪🏼 | Team #GoSportCrew ♡ 👩🏻‍💻 | PR & Influence @agencetrendsparis —— 💌 peerezjustine@gmail.com
     location: "France"
-    followers: 8596
-    engagement: 914
-    commentsToLikes: 0.064738
+    followers: 11491
+    engagement: 566
+    commentsToLikes: 0.087780
     id: ck134dwmhvyxl0i199a16bs3m
     verified: false
-    hashtags: "#light, #yogagirl, #chill, #ajaccio"
-  - username: "anaisgrangerac"
+    hashtags: "#yogagirl, #sunset, #crossfit, #ootd"
+  - username: "loriane_nuixa"
     fullname: >-
-      Anaïs Grangerac
+      Loriane 🌹
     bio: >-
-      📺 [] Animatrice TF1 / TV Host sur @tf1 @tfxtv 🏋️‍♀️ [] Crossfit 💪 🍽 [] Épicurienne ❤ ⌨ [] Mail : anaisgrangeracpro@gmail.com 🔎 [] Facebook
+      Coach apprenti @crossfit.illiberis 🏋🏻‍♀️ Tiktok: 275k d’amour 🧡! 📩: loriane@hotmango.fr 24 years Perpignan📍🇫🇷 💍: @sebastiensanyas 💞
     location: "France"
-    followers: 27171
-    engagement: 662
-    commentsToLikes: 0.027948
-    id: ck55n4gek5ghw0i11x7i0tixb
-    verified: true
-    hashtags: "#greeneyes, #fdj, #healthyfood, #bienmanger"
-  - username: "axellebonnemaisonoff"
-    fullname: >-
-      Axelle Bonnemaison
-    bio: >-
-      | Founder @axelle_bonnemaison_brand | | Model 🇫🇷 | | Training @elevate_premium_chartrons & @crossfit_chartrons_by_elevate |
-    location: "France"
-    followers: 11296
-    engagement: 527
-    commentsToLikes: 0.044755
-    id: ck6u08euce79y0j71iylvgspe
+    followers: 21926
+    engagement: 1473
+    commentsToLikes: 0.008819
+    id: ck8wgiyfqhfu00j787vu6p871
     verified: false
-    hashtags: "#anglet, #blueeyes, #women, #luxurylifestyle"
+    hashtags: "#model, #mood, #sheingals, #shein"
+  - username: "jc_gmr"
+    fullname: >-
+      Jean-Christophe
+    bio: >-
+      🐻 French 🇫🇷 | Portuguese 🇵🇹 🏠 France, Strasbourg 🥨 / Paris 🥐 🏋🏻 Crossfit Addict @crossfit_67 🎼 Chorus member @pelicanto
+    location: "France"
+    followers: 9052
+    engagement: 1014
+    commentsToLikes: 0.035949
+    id: ck5q1env7amqv0i11irzx0u7e
+    verified: false
+    hashtags: "#couple, #portrait, #hotguys, #tattoed"
+  - username: "lesfitkho"
+    fullname: >-
+      FitKho
+    bio: >-
+      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
+    location: "France"
+    followers: 20978
+    engagement: 505
+    commentsToLikes: 0.145316
+    id: ck5hp9bxsqywa0i11d9217mwu
+    verified: false
+    hashtags: "#fitness, #cute, #baby, #kids"
   - username: "roxanebust"
     fullname: >-
       Roxane Bfit
     bio: >-
-      Madame Burpees CrossFit Level 1 Trainer Lyon 📍 @womensbest.fr Athlete ℂ𝕠𝕕𝕖𝕤 𝕡𝕣𝕠𝕞𝕠 𝕖𝕥 𝕝𝕚𝕖𝕟𝕤 ⤵️
+      Coach sportive diplômée 🎓 CrossFit Level 1 Trainer Lyon 📍 @womensbest Athlete ℂ𝕠𝕕𝕖𝕤 𝕡𝕣𝕠𝕞𝕠 𝕖𝕥 𝕝𝕚𝕖𝕟𝕤 ⤵️
     location: "France"
-    followers: 137380
-    engagement: 153
-    commentsToLikes: 0.024529
+    followers: 131586
+    engagement: 200
+    commentsToLikes: 0.015152
     id: ckap236fbx6g70i7863a9n3ln
     verified: false
-    hashtags: "#fitness, #fit, #crossfitfrance, #motivation"
+    hashtags: "#sportwear, #cocker, #fitnessgirl, #swimwear"
+  - username: "m_coaching"
+    fullname: >-
+      Emeric D’azevedo 🏋️
+    bio: >-
+      Emeric D’azevedo🇫🇷/ 28 ans 🏋️coach sportif Marié 💍 et Papa👶🏼 Coaching :💥Message privé💥 Passion:fitness,crossfit 🏋🏼‍♀️
+    location: "France"
+    followers: 5317
+    engagement: 546
+    commentsToLikes: 0.088340
+    id: ck9wou1zd6lny0j78mzxv4uy7
+    verified: false
+    hashtags: "#coach, #competition, #training, #fitfrenchies"
 ---

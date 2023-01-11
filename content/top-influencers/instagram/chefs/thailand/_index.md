@@ -1,108 +1,72 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Thailand In 2022
+title: Top 10 Chefs Instagram Influencers In Thailand In 2023
 description: >-
-  Find top chefs Instagram influencers in Thailand in 2022. Most popular hashtags: #food #foodstagram #foodporn #chef.
+  Find top chefs Instagram influencers in Thailand in 2023. Most popular hashtags: #food #yummy #masterchefthailand #chef.
 platform: Instagram
 hits: 18
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 18 Instagram influencers like this in Thailand for you to connect with.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 18 Instagram influencers like this in Thailand for you to contact.
 profiles:
-  - username: "ins_cf"
+  - username: "kaewpaweenuch"
     fullname: >-
-      In'Narongrit Saekho
+      Kaew Paweenuch
     bio: >-
-      Facebook:In'Narongrit Seakho Sweetchef Thailand ss.1 #chef For Work ID : ins_cf @kamlangin_aokkai ||@in_kamlangin
+      Contact: ‭099-289-2464, 081-839-1999 Winner of Masterchef Thailand SS1 Top 5 of the Next Iron Chef SS2 ▴Youtube: Kaew Paweenuch ▴FB: Kaew Paweenuch
     location: "Thailand"
-    followers: 40527
-    engagement: 1236
-    commentsToLikes: 0.011456
-    id: ckap1noy1vbx10i78r7d39zxn
+    followers: 198475
+    engagement: 114
+    commentsToLikes: 0.008590
+    id: ckaost7oaszho0i78uzhq2if1
     verified: false
-    hashtags: "#foodshare, #instalike, #instagram, #food"
-  - username: "alps1984"
-    fullname: >-
-      Chef Aey
-    bio: >-
-      Lifestyle 🌵🏋🏼‍♂️🦌🦏.Travel🏝🌃⛰🌉Iggy lover 🐾🐾🐾Dessert professional 🍭🥧🍪🎂🍩Executive Pastry Chef at St. Regis Bangkok
-    location: "Thailand"
-    followers: 6608
-    engagement: 876
-    commentsToLikes: 0.016826
-    id: ckaowiivh934w0i78xe8xu9ah
-    verified: false
-    hashtags: "#akachefaeyinwonderland, #sugarshowpiece, #sugarwork, #lasucre"
+    hashtags: "#girl, #croissant, #me, #love"
   - username: "superployploy"
     fullname: >-
       line superployploy
     bio: >-
       https://m.facebook.com/nathanporn.janchalia?__user=69723012 I am a jewellery designer but I'm also a full time chef!!! www.facebook.com/ployjewellery
     location: "Thailand"
-    followers: 75383
-    engagement: 208
-    commentsToLikes: 0.005024
+    followers: 78991
+    engagement: 153
+    commentsToLikes: 0.004581
     id: ck0vx7kq2xjju0i19gemh7c1z
     verified: false
-    hashtags: "#daytwo, #ployhomemade, #frencdinner"
+    hashtags: "#frencdinner, #ployhomemade"
+  - username: "alps1984"
+    fullname: >-
+      Chef Aey
+    bio: >-
+      Lifestyle 🌵☘️Travel🏝Iggy lover 🐾Dessert professional 🍭🥧Executive Pastry Chef at St. Regis Bangkok ติดต่องาน event คุณแพม : 089-500-9181
+    location: "Thailand"
+    followers: 7074
+    engagement: 410
+    commentsToLikes: 0.013508
+    id: ckaowiivh934w0i78xe8xu9ah
+    verified: false
+    hashtags: "#inspiration, #pastrylife, #cake, #dessert"
   - username: "baika.fit"
     fullname: >-
       Baika P. Cassel
     bio: >-
-      👩🏻‍🍳Chef 🥑Certified Nutritionist 🤸🏻‍♀️Gym dweller Proud owner of @FitBakerybkk #ชะนีมีกล้าม Ambassador: @underarmoursoutheastasia
+      👩🏻‍🍳Chef 🥑Certified Nutritionist 🤸🏻‍♀️Gym dweller Proud owner of @FitBakerybkk @Treemeals #ชะนีมีกล้าม Ambassador: @underarmoursoutheastasia
     location: "Thailand"
-    followers: 28026
-    engagement: 80
-    commentsToLikes: 0.027503
+    followers: 28065
+    engagement: 68
+    commentsToLikes: 0.030241
     id: ck8sy6v6wjx3f0j785o8yzfs7
     verified: false
-    hashtags: "#underarmourth, #underarmourwomen, #pombaikatryeverything, #underarmoursea"
+    hashtags: "#underarmourth, #treemealssoftcookie, #underarmoursea, #morningkickstart"
   - username: "palmpalminstinct"
     fullname: >-
       Palm palm Instinct
     bio: >-
       Singer Painter & chef!!!!!! @mr_sexman @mr.sexmanclothing Tiktok : senseipalm #chefpalmpalm #chefpalmsudclean
     location: "Thailand"
-    followers: 52138
-    engagement: 164
-    commentsToLikes: 0.008270
+    followers: 54238
+    engagement: 233
+    commentsToLikes: 0.009487
     id: ck15tvbpbk32q0i193xw3q4a7
     verified: false
-    hashtags: "#rimpingsupermarket, #jooxforartists, #togetherwecan, #cpschaps"
-  - username: "makkieez"
-    fullname: >-
-      Jarinporn  Boonrit
-    bio: >-
-      The best thing that ever happened to me🌈 • Le cordon bleu 👩‍🍳 • Facebook : Jarinporn boonrit • Bakery : @De_SweetKie 🍮💗
-    location: "Thailand"
-    followers: 65812
-    engagement: 237
-    commentsToLikes: 0.018278
-    id: ck137qesfcuq90i191lbf9s0o
-    verified: false
-    hashtags: "#happy, #chef, #desweetkie, #afternoontea"
-  - username: "jack_l2y"
-    fullname: >-
-      Jack Kitti Suwanchoti
-    bio: >-
-      Photographer | Filmmaker | Editor For work : Direct Message Bangkok,Thailand 🇹🇭
-    location: "Thailand"
-    followers: 88140
-    engagement: 190
-    commentsToLikes: 0.011943
-    id: ck136ktme6zwe0i19aai35f0g
-    verified: false
-    hashtags: "#foodlover, #canoneos, #shotoniphone, #foodblogger"
-  - username: "monsieur.chou"
-    fullname: >-
-      Chulapât
-    bio: >-
-      Bangkok-based pâtissier & croissant enthusiast 🇹🇭 🥐
-    location: "Thailand"
-    followers: 6646
-    engagement: 1165
-    commentsToLikes: 0.043791
-    id: ck9wfbryro5lo0j787suyuk59
-    verified: false
-    hashtags: "#briochemaison, #feuilletage, #viennoiseries, #gourmandcroquant"
+    hashtags: "#clothingdesign, #rimpingsupermarket, #ionslab, #popart"
   - username: "pattieeeeee__"
     fullname: >-
       Pattie Chananchida
@@ -114,17 +78,53 @@ profiles:
     commentsToLikes: 0.005518
     id: ckap93o5rr0kd0i78ypptd0us
     verified: false
-    hashtags: "#chefschallenge, #masterchefjuniorthailandseason1, #masterchefallstarsthailand, #stayhome"
+    hashtags: "#chefschallenge, #masterchefjuniorthailandseason1, #masterchefallstarsthailand, #pattieeeeee"
+  - username: "misterchou.bkk"
+    fullname: >-
+      Chou
+    bio: >-
+      Bangkok-based pâtissier & croissant enthusiast 🇹🇭 🥐 For orders, please DM
+    location: "Thailand"
+    followers: 7404
+    engagement: 1025
+    commentsToLikes: 0.036508
+    id: ck9wfbryro5lo0j787suyuk59
+    verified: false
+    hashtags: "#laminateddough, #artisanbaker, #kouignamann, #croissanterie"
+  - username: "chefakiraback"
+    fullname: >-
+      Akira Back (백승욱)
+    bio: >-
+      Vegas, Seoul, Toronto, Dubai, Singapore, San Diego, Paris, Saudi, Bangkok, Doha, San Francisco, Dallas, Hanoi, Orlando, Delray......
+    location: "Thailand"
+    followers: 42331
+    engagement: 1487
+    commentsToLikes: 0.005765
+    id: ck139ht1yldh50i19eap9rqqr
+    verified: true
+    hashtags: "#singapore, #quarantine, #blessed, #best"
   - username: "iankittichai"
     fullname: >-
       Pongtawat Chalermkittichai
     bio: >-
-      🇹🇭@cuisineconcept 🇹🇭@issayasiameseclub 🇺🇸@spotdessertbar 🇸🇬@rwsdiningartisans 🇹🇭Masterchefthailand 🇳🇱kittichaiBV
+      🇹🇭@cuisineconcept 🇹🇼@coasttaiwan 🇹🇭@issayasiameseclub 🇺🇸@spotdessertbar 🇸🇬@rwsdiningartisans 🇹🇭Masterchefthailand 🇳🇱KittichaiBV
     location: "Thailand"
-    followers: 215688
-    engagement: 72
-    commentsToLikes: 0.004427
+    followers: 215932
+    engagement: 90
+    commentsToLikes: 0.006584
     id: ck0w3aqkbsfrf0i1993riqqo5
     verified: false
-    hashtags: "#foodphotography, #travelling, #cheflife, #travel"
+    hashtags: "#iankittichai, #stayhome, #igdaily, #cuisineconceptbyiankittichai"
+  - username: "aberonx"
+    fullname: >-
+      Anurag Baruah
+    bio: >-
+      A plate of function, with a side of form. For work contact: @theformco
+    location: "Thailand"
+    followers: 8132
+    engagement: 884
+    commentsToLikes: 0.033098
+    id: ck5hl45yhjjf00i115i6fxaqe
+    verified: false
+    hashtags: "#coffee, #food, #sonyalphain, #coffeehouse"
 ---

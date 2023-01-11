@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Turkey In 2022
+title: Top 10 Skincare Instagram Influencers In Turkey In 2023
 description: >-
-  Find top skincare Instagram influencers in Turkey in 2022. Most popular hashtags: #skincare #skincareroutine #ciltbak #avon.
+  Find top skincare Instagram influencers in Turkey in 2023. Most popular hashtags: #makyaj #skincare #makeup #ciltbak.
 platform: Instagram
-hits: 102
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 102 Instagram influencers like this in Turkey for you to contact.
+hits: 115
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 115 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "blog_kubist"
+  - username: "ojemrujumrimelim"
     fullname: >-
-      
+      Nihal Kanık
     bio: >-
-      Kübra✌️ #skincare #cosmetics 💄 Uygun ve yüksek fiyatlı ürün inceleme 💥 TANITIM,REKLAM VE İŞBİRLİKLERİ için DM❣️
+      Beauty | Wellness | Lifestyle | Skincare Social Media & Influencer Marketing Yeni Video⬇️
     location: "Turkey"
-    followers: 15805
-    engagement: 466
-    commentsToLikes: 0.089137
-    id: ckaoveru14avm0i78chujci0j
+    followers: 272662
+    engagement: 58
+    commentsToLikes: 0.105558
+    id: ck8t91bqqmlhq0j78ie2isgu5
     verified: false
-    hashtags: "#ke, #farmasi, #denemeli, #kiehls"
-  - username: "denizlebak"
-    fullname: >-
-      Deniz
-    bio: >-
-      📍@sachane 📩denizlebak@gmail.com #cosmetics #skincare #healtyskin #beauty
-    location: "Turkey"
-    followers: 27082
-    engagement: 273
-    commentsToLikes: 0.085170
-    id: ck9hc53ocjtvw0j789s8zuixr
-    verified: false
-    hashtags: "#girl, #me, #style, #purse"
+    hashtags: "#summer, #sundayfunday, #sa, #helpturkey"
   - username: "sevdeyes"
     fullname: >-
       Sevda
     bio: >-
-      lifestyle & skincare 🐰 Ankara, Hacettepe sevdeyesblog@gmail.com
+      skincare 🐰 Ankara, Hacettepe sevdeyesblog@gmail.com
     location: "Turkey"
-    followers: 12971
-    engagement: 723
-    commentsToLikes: 0.015882
+    followers: 15424
+    engagement: 565
+    commentsToLikes: 0.031257
     id: ck14gozks6bme0i19bt8kwcrm
     verified: false
-    hashtags: "#sunshine, #skinfluencer, #skincarejunkie, #hijabfashion"
+    hashtags: "#skincarejunkie, #skincareobsessed, #turkishskincarecommunity, #hijabers"
+  - username: "blog_kubist"
+    fullname: >-
+      K ü b r a
+    bio: >-
+      #skincare #cosmetics ✨ Uygun ve yüksek fiyatlı ürün inceleme ✨ Tanıtım,Reklam ve işbirlikleri için DM ✨
+    location: "Turkey"
+    followers: 19857
+    engagement: 388
+    commentsToLikes: 0.073668
+    id: ckaoveru14avm0i78chujci0j
+    verified: false
+    hashtags: "#ciltbak, #makyaj, #koreanskincare, #skincare"
+  - username: "glamwithayca"
+    fullname: >-
+      Ayça 🎠
+    bio: >-
+      Makeup | Skincare 𝖨𝗌𝗍𝖺𝗇𝖻𝗎𝗅📍 glamwithayca@gmail.com 💌 𝑅𝑒𝑘𝑙𝑎𝑚, 𝑖𝑠 𝑏𝑖𝑟𝑙𝑖𝑘𝑙𝑒𝑟𝑖 𝑖𝑐𝑖𝑛 𝐷𝑀
+    location: "Turkey"
+    followers: 56372
+    engagement: 184
+    commentsToLikes: 0.034835
+    id: ck8t2ub9t0qfn0j782paj14np
+    verified: false
+    hashtags: "#beauty, #tbt, #kesfet, #makyaj"
   - username: "handeilemakyaj"
     fullname: >-
       Handeilemakyaj
     bio: >-
       🍃Makyaj ✨ Bakım 💕 #makeupaddict #skincareaddict çekiliş var ⬇️Story makyajları ☀️ Gardrops: @handeilemakyaj görsellerimi izinsiz kullanmayınız 😫 🦁
     location: "Turkey"
-    followers: 34396
-    engagement: 213
-    commentsToLikes: 0.190902
+    followers: 33952
+    engagement: 251
+    commentsToLikes: 0.312971
     id: ck0u0cbtyta9u0i19dtdfzf5p
     verified: false
-    hashtags: "#makeup, #maccosmetics, #indirim, #bak"
-  - username: "guzelliginesintisi"
+    hashtags: "#ciltbak, #leke, #makeup, #missha"
+  - username: "gozdesblogg"
     fullname: >-
-      Gözde's Blog 💎
+      
     bio: >-
-      Tekirdağ 📍 #makeup#skincare#beauty#güzellik#bakim#makyaj#ciltbakim#lifestyle#kozmetik#indirimliürünler #alisveris
+      #Beauty#Skincare#Cosmetic#Nail#Lifestyle#Photography 📷
     location: "Turkey"
-    followers: 21134
-    engagement: 285
-    commentsToLikes: 0.008381
+    followers: 25340
+    engagement: 155
+    commentsToLikes: 0.028795
     id: ck8taiquirxjh0j78nsxg8g3r
     verified: false
-    hashtags: "#kozmetik, #likeforlike, #girls, #makyaj"
-  - username: "its_fama"
+    hashtags: "#picoftheday, #summertime, #sa, #follow"
+  - username: "caliskantugced"
     fullname: >-
-      Fatima
+      Tuğçe Çalışkan
     bio: >-
-      PhD in SE👩‍🎓 | Doll's Mom 🤱 Traveler✈️ | Foodie🌮 | Makeup Lover💄 Follow for daily stories 🎥 Pakistani based in Istanbul 🇵🇰 🇹🇷 DM for collaboration
+      Influencer | ITU | Istanbul 🇹🇷 Beauty | Skincare ContentPro Creator My son:@caliskancesurr #caliskantugced #tugcecaliskan PR / İş birliği için DM ✉️
     location: "Turkey"
-    followers: 16676
-    engagement: 195
-    commentsToLikes: 0.115854
-    id: ck8t4eqqz6iuu0j78g7tw59ry
+    followers: 27628
+    engagement: 134
+    commentsToLikes: 0.261933
+    id: ck9hc50s8jtib0j78dq5ix26h
     verified: false
-    hashtags: "#multan, #malaysia, #istanbulturkey, #pakistan"
-  - username: "elifsafak_"
+    hashtags: "#muadil, #avonturkiye, #newwellmakeup, #caliskantugced"
+  - username: "gokceswonderlands"
     fullname: >-
-      Elif Safak
+      Gökçe's Wonderland
     bio: >-
-      lifestyle • fitness • music 📩 elfsafak@hotmail.com
+      👷🏻‍♀️ architect & designer 🚩•lifestyle •makeup •nail •skincare •travel 📍Based in Ankara/Cappadocia 🔎 #gökçeninkitapönerisi 🔎 #gökçenineskizleri
     location: "Turkey"
-    followers: 31845
-    engagement: 208
-    commentsToLikes: 0.031943
-    id: ckap9fs2oshro0i78tyx4x89l
+    followers: 31862
+    engagement: 253
+    commentsToLikes: 0.050516
+    id: ck14gp0da6bq50i19vqwr2h1l
     verified: false
-    hashtags: "#stayhome, #ahava, #19may, #oysho"
-  - username: "clbblog"
+    hashtags: "#artoftheday, #makeupblogger, #go, #artistsoninstagram"
+  - username: "makeupofme"
     fullname: >-
-      Gülce Erek
+      Makeupofme
     bio: >-
-      24 👩🏻‍⚖️ İstanbul #gulceninazsekerlieyelineri #gulceninkasurunu
+      #skincareofme (kuru cilt) & coffee lover❤ 📍Houston, TX / Antalya
     location: "Turkey"
-    followers: 37434
-    engagement: 174
-    commentsToLikes: 0.021321
-    id: ck14jgp73k9430i198cok56jy
+    followers: 40053
+    engagement: 111
+    commentsToLikes: 0.024255
+    id: ck9wdaw9vet6p0j78c08etn1l
     verified: false
-    hashtags: "#igtv, #igtvchannel, #eyes, #makeupmess"
-  - username: "bengitheblogger"
+    hashtags: "#skincareroutine, #skincaretips, #turkishskincarecommunity, #skincareproducts"
+  - username: "mrs.konuk"
     fullname: >-
-      Bengi the Blogger 💞
+      Aysun Konuk🌙
     bio: >-
-      💋 Makyaj & Bakım & Lifestyle 📍 İzmir 📩 PR & işbirliği & iletişim için DM ya da e-posta 🎥 YouTube 👇🏻
+      Mom💙 ✨Makeup , Beauty , Skincare , Fashion 📍Kocaeli 📩PR : aysun.konuk@hotmail.com
     location: "Turkey"
-    followers: 18826
-    engagement: 297
-    commentsToLikes: 0.091114
-    id: ck15sub6ueu3h0i19jzemod3j
+    followers: 30794
+    engagement: 216
+    commentsToLikes: 0.045169
+    id: ck8tdjg5z3k5b0j78xsod3hsf
     verified: false
-    hashtags: "#neutrogena, #gratismoru, #skincareproducts, #avon"
-  - username: "makyajkelebegiblog"
-    fullname: >-
-      makyajkelebegiblog
-    bio: >-
-      🌸 B L O G G E R ‘ 2 0 1 2 🌸 T E A C H E R 🌸 T R A V E L L O V E R
-    location: "Turkey"
-    followers: 69435
-    engagement: 156
-    commentsToLikes: 0.060218
-    id: ck5c8d78h98jb0i11j84shtry
-    verified: false
-    hashtags: "#avonturkiye, #homesweethome, #lorealmakeup, #marakozmetik"
+    hashtags: "#likesforlike, #makeuplover, #likeme, #ciltbak"
 ---

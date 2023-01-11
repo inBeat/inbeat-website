@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Germany In 2022
+title: Top 10 Crossfit Instagram Influencers In Germany In 2023
 description: >-
-  Find top crossfit Instagram influencers in Germany in 2022. Most popular hashtags: #happy #crossfit #fitness #weekend.
+  Find top crossfit Instagram influencers in Germany in 2023. Most popular hashtags: #crossfit #hamburg #fitness #berlin.
 platform: Instagram
-hits: 157
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 157 Instagram influencers like this in Germany for you to collaborate.
+hits: 112
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 112 Instagram influencers like this in Germany for you to connect with.
 profiles:
   - username: "malenas.blog"
     fullname: >-
       Malena | CrossFit | Lifestyle
     bio: >-
-      • northern germany • crossfit & coffee addiction • @noccogermany • @underarmourdach • Impressum:
+      • hamburg • happy kiddo 🌚 • crossfit & coffee addiction • Impressum:
     location: "Germany"
-    followers: 13847
-    engagement: 768
-    commentsToLikes: 0.275119
+    followers: 13713
+    engagement: 576
+    commentsToLikes: 0.329278
     id: ck8t4lpnl77o00j781v141whd
     verified: false
-    hashtags: "#workonyourweakness, #germany, #sportblogger, #personalgrowth"
-  - username: "m4x3nc3_tr"
-    fullname: >-
-      Maxence
-    bio: >-
-      [French] [Physiothérapist] [Judo] [Crossfit] [🐻]
-    location: "Germany"
-    followers: 15854
-    engagement: 1554
-    commentsToLikes: 0.017622
-    id: ck5bxg7lcnnt60i11qp9kgl84
-    verified: false
-    hashtags: "#hairyman, #gayhunk, #gayhairy, #beard"
+    hashtags: "#besteleben, #happysunday, #sunday, #happyweekend"
   - username: "herbst.maedl"
     fullname: >-
       Natur◇Alltagsmomente◇Offizier
     bio: >-
-      ♡ －ｌｉｃｈ Ｗｉｌｌｋｏｍｍｅｎ 📷 》@zauberschoen.photography 🎗 》#bundeswehr »privater Account 🌲 》 #naturliebe 🤸🏼‍♀️ 》 #crossfit
+      ♡ －ｌｉｃｈ Ｗｉｌｌｋｏｍｍｅｎ 📷 》@zauberschoen.photography 🎗 》#bundeswehr » privater Account 𓆱 》@faszinatur.photography ↟#naturliebe 🤸🏼‍♀️ 》 #crossfit
     location: "Germany"
-    followers: 13279
-    engagement: 1883
-    commentsToLikes: 0.016855
+    followers: 13518
+    engagement: 1341
+    commentsToLikes: 0.023819
     id: ck9hb1tezf0iz0j78sqlghd3v
     verified: false
-    hashtags: "#soldaten, #dienst, #militarypics, #naturephotography"
-  - username: "alicagrabitsch"
+    hashtags: "#genughashtags, #potrait, #heer, #soldier"
+  - username: "alena_halv"
     fullname: >-
-      Alica Grabitsch
+      𝐀𝐥𝐞𝐧𝐚 𝐇.
     bio: >-
-      📍 Germany | Frankfurt 🏋🏾‍♀️ @crossfitgengym ➕ @fitaideurope ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀ 🌱 @optimum__performance ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ 🦁 @loewenanteil ⠀⠀⠀⠀
+      Das Leben ist zu kurz, um nicht zu lächeln! ツ Soldat & Physiotherapeutin CrossFit @better_training Militaryfitness privat Account
     location: "Germany"
-    followers: 10616
-    engagement: 1206
-    commentsToLikes: 0.016547
-    id: ck8t1mgkvw93p0j78j3dyqr0n
+    followers: 24658
+    engagement: 937
+    commentsToLikes: 0.021496
+    id: ckap8bgjunnue0i78v32icaxg
     verified: false
-    hashtags: "#crossfitdeutschland, #teamfitaid, #italy, #recovery"
-  - username: "kaddlise"
-    fullname: >-
-      crossfit | body positivity
-    bio: >-
-      Crossfit Athlete and Coach @bens_gym 📥 kooperation.isele@gmx.de @reebokeurope | @multipowerofficial | @mybraineffect | @fosdrinks | @wodstore_de
-    location: "Germany"
-    followers: 6892
-    engagement: 776
-    commentsToLikes: 0.060992
-    id: ck5hhozu69d8e0i114673t8wf
-    verified: false
-    hashtags: "#crossfit, #ginger, #gymnastics, #tension"
-  - username: "mimikraus"
-    fullname: >-
-      Michael Kraus
-    bio: >-
-      •Pro Handball Player🤾🏼‍♂️ •World Champion🏆 •Championsleague🏆 •CrossFit Level 1 •Business: mimikraus1983@gmail.com •Founder @nice_athletic_club
-    location: "Germany"
-    followers: 217118
-    engagement: 911
-    commentsToLikes: 0.003491
-    id: ck5qdxd3kxq1l0i11je7pxypy
-    verified: true
-    hashtags: "#weekend, #kids, #happy, #motivation"
+    hashtags: "#fitfamgermany, #protein, #bremen, #berlin"
   - username: "aannkathrinn"
     fullname: >-
-      Ann-Kathrin 🇩🇪
+      Ann-Kathrin 🇪🇺
     bio: >-
       ➽ model 🇩🇪 🇩🇰 🇿🇦 ➽ civilengineer👷‍♀️ for💧 💩 ∼ crossfit . fitness . running . yoga ∼ kitesurfing . wakeboarding . sup . surf
     location: "Germany"
-    followers: 20349
-    engagement: 628
-    commentsToLikes: 0.015779
+    followers: 20300
+    engagement: 507
+    commentsToLikes: 0.019513
     id: ck0tvqa2ycdyh0i19uq6al46j
     verified: false
-    hashtags: "#crete, #berlin, #kreta, #autumn"
-  - username: "dennis_boerschig"
+    hashtags: "#water, #fabletics, #berlin, #fableticseu"
+  - username: "m4x3nc3_tr"
     fullname: >-
-      DENNIS | BÖRSCHIG
+      Maxence
     bio: >-
-      #FASHION | #MENSWEAR | #CROSSFIT ▪️ @loewenanteil -10% Code dennis-LA ▫️ @myproteinde Athlete ▫️-35% Code DENNISMYP ▪️ info@dennisboerschig.de
+      [French🇫🇷] [Physiothérapist💆🏻] [Judo🥋] [Crossfit🏋🏻‍♀️] [🐻]
     location: "Germany"
-    followers: 25892
-    engagement: 87
-    commentsToLikes: 0.078669
-    id: ck13723qs9du50i196rynbpy5
+    followers: 21292
+    engagement: 1839
+    commentsToLikes: 0.013616
+    id: ck5bxg7lcnnt60i11qp9kgl84
     verified: false
-    hashtags: "#ootdmen, #gym, #workout, #crossfit"
+    hashtags: "#bearded, #hairy, #teamwit, #scruffygay"
+  - username: "shagelbutt"
+    fullname: >-
+      Shagel Butt
+    bio: >-
+      Athlete 🇵🇰 CrossFit-Programming @multipowerofficial @loewenanteil @wodstore.de @by_foos Fittest Master in Germany 40+ 2019
+    location: "Germany"
+    followers: 15694
+    engagement: 676
+    commentsToLikes: 0.026414
+    id: ck5cassxqe25d0i11xaflk62v
+    verified: false
+    hashtags: "#master, #crossfit, #athlete, #hipsterofdoom"
+  - username: "marco_westinfishing"
+    fullname: >-
+      Marco Drewer
+    bio: >-
+      Kayak addict | German ⬇️ 🥇Fishing | Outdoors 🎣🛶🏕️ 🥈Crossfit 🏋🏼‍♂️ 🥉Food 🔹Westin Fishing 🔸Humminbird Deutschland 🔹NRS Fishing
+    location: "Germany"
+    followers: 10742
+    engagement: 429
+    commentsToLikes: 0.037492
+    id: ck15rsdea9gix0i19vqfgb7q4
+    verified: false
+    hashtags: "#perchfishing, #westink, #crankbaits, #natur"
   - username: "ijayef"
     fullname: >-
-      Johann Flöck
+      J
     bio: >-
-      Hey, I am Jayef 👋🏼 Tiktok: got deleted Crossfit Athlete 💪🏼 Author 📖 Student 🎓
+      Hey, I am Jayef 🇦🇹 Tiktok: got deleted :/ Crossfit Athlete 💪🏼 Author 📖 Student 🎓 20 y
     location: "Germany"
-    followers: 119448
-    engagement: 159
+    followers: 115580
+    engagement: 165
     commentsToLikes: 0.006887
     id: ck0vy9ff72vnc0i19ce1wcrns
     verified: false
-    hashtags: "#hair, #cameronboyce, #colesprouse, #nofilter"
+    hashtags: "#instadaily, #riverdale, #descendant, #descendants"
   - username: "yogawithalessia"
     fullname: >-
       A L E S S I A
     bio: >-
-      Yogini & Yogalehrerin 🤍 Inspire & be inspired ✨ Yoga | Fotografie | Nachhaltigkeit | Empowerment 🦋 CrossFit 🏋🏼‍♀️ @yogaweinstrasse 🧘🏼‍♀️
+      Yogini & Yogalehrerin 🤍 Yoga | Fotografie | Nachhaltigkeit | Empowerment 🦋 CrossFit ⚡️ @yogaweinstrasse 🧘🏼‍♀️ @fotosmitalessia 📸
     location: "Germany"
-    followers: 6900
-    engagement: 621
-    commentsToLikes: 0.026464
+    followers: 6741
+    engagement: 593
+    commentsToLikes: 0.030312
     id: ck55kk8n8zi3k0i11gvgwdjvw
     verified: false
-    hashtags: "#yogawithalessia, #yogaweinstrasse, #fallvibes, #yoga"
+    hashtags: "#yogateacher, #spreadlove, #canaryislands, #yogaclass"
+  - username: "mrtzfbg"
+    fullname: >-
+      Moritz Fiebig
+    bio: >-
+      Hier um DICH und MICH zu verbessern. #CROSSFIT @sanktpauliathletik Owner @nordicoil MORITZ20 @ahead_nutrition MORITZ15 @loewenanteil moritzfiebig-la
+    location: "Germany"
+    followers: 2599
+    engagement: 979
+    commentsToLikes: 0.034972
+    id: ck5casncde1t30i11q7n3hjvm
+    verified: false
+    hashtags: "#regeneration, #community, #hwpo, #training"
 ---

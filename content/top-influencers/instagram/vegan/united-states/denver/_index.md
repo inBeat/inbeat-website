@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Denver In 2022
+title: Top 10 Vegan Instagram Influencers In Denver In 2023
 description: >-
-  Find top vegan Instagram influencers in Denver in 2022. Most popular hashtags: #vegan #colorado #sponsored.
+  Find top vegan Instagram influencers in Denver in 2023. Most popular hashtags: #vegan #denver #colorado.
 platform: Instagram
 hits: 15
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 15 Instagram influencers like this in Denver, United States for you to pitch.
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 15 Instagram influencers like this in Denver, United States for you to pitch.
 profiles:
-  - username: "bruno_gang_travels"
+  - username: "christinexploring"
     fullname: >-
-      🌸Jess Bruno || Colorado 🏔
+      Christine Marie ✨
     bio: >-
-      ✨On a digital break— be back in a jiffy ✌🏼 💌bruno_gang@protonmail.com #Adventure #Outdoors #Lifestyle #mindful #sustainableliving
+      🌱 vegan. 🌎 traveler. ⚖️ lawyer. #Denver - #DC - #NYC - #Istanbul 📍 Denver hello@christinexploring.com
     location: "United States"
-    followers: 2106
-    engagement: 1492
-    commentsToLikes: 0.100735
-    id: ck6tvp1xsnglg0j71eb1blcmn
+    followers: 87795
+    engagement: 54
+    commentsToLikes: 0.053997
+    id: ck6ufo5u7y61a0j712gdv1hp6
     verified: false
-    hashtags: "#sheisnotlost, #coloradosprings, #outdoorwomen, #colorado"
-  - username: "hungrycleo"
+    hashtags: "#glocalme, #alwaysbetterconnected, #clearcleansustainable, #camelbak"
+  - username: "stylemeblonde"
     fullname: >-
-      CLEO | MINDSET | MENTOR
+      MEGAN MCGEEHAN
     bio: >-
-      222 Cincy 〰️ Seattle Change your mindset, change your life Your vegan hair&skin care junkie Evolving into my higher self Be present #exjw
+      Hey, I'm Megan Your very own hype girl probably drinking iced ☕️ 📍Denver ☆ living my best blonde inquiries —> hello@lexandpark.com shop my page 👇🏼
     location: "United States"
-    followers: 2731
-    engagement: 993
-    commentsToLikes: 0.077254
-    id: ck0vy9jsl2wbb0i19cd3pc9bq
+    followers: 49554
+    engagement: 137
+    commentsToLikes: 0.237858
+    id: ck5c15kmuuibn0i1113jo601f
     verified: false
-    hashtags: "#healthyhair, #travel, #model, #nature"
-  - username: "galen.neil"
+    hashtags: "#blondehair, #targetfinds, #blonde, #dogmom"
+  - username: "_jdodson"
     fullname: >-
-      💦 📸🦈
+      Jeremy Dodson (Mauala)
     bio: >-
-      Born in the mountains, living in the sea. Let's 'splore!📍 Denver Change bad habits, quit single use plastics!
+      ☆ Believer ✝️ ☆ Olympian (🇺🇲/🇼🇸) ☆ @lululemon Ambassador ☆ Thriving through traumatic brain condition 📍Lausanne, SWITZERLAND
     location: "United States"
-    followers: 40355
-    engagement: 463
-    commentsToLikes: 0.013268
-    id: ck136461h4okd0i194z8gxbxe
-    verified: false
-    hashtags: "#turtle, #oahu, #justdance, #freediving"
-  - username: "ambierichards"
+    followers: 20653
+    engagement: 328
+    commentsToLikes: 0.023587
+    id: ck0u0dbqmtf830i19v0kpippt
+    verified: true
+    hashtags: "#fitfam, #traumaticbraininjury, #athletics, #fitnessmotivation"
+  - username: "muybuenocooking"
     fullname: >-
-      𝗔𝗺𝗯𝗲𝗿 𝗠𝗮𝗿𝗶𝗲 𝗥𝗶𝗰𝗵𝗮𝗿𝗱𝘀
+      Mexican Recipes | Yvette
     bio: >-
-      📍Denver 🌱Vegan⠀⠀⠀⠀ ▫️Twin Momma 💌: ambermarierichards@gmail.com
+      Proud Latina / Traditional Mexican, Latin-Inspired & Healthyish Recipes / Author of 2 Cookbooks / Denver, CO / yvette@muybuenocookbook.com
     location: "United States"
-    followers: 16994
-    engagement: 531
-    commentsToLikes: 0.056604
-    id: ck0w5oem94ndk0i19ucevm2ky
+    followers: 53520
+    engagement: 95
+    commentsToLikes: 0.049091
+    id: ck0ue1wl9kb4n0i19akiats88
     verified: false
-    hashtags: "#twinmom, #boymom, #veganmom, #postpartum"
-  - username: "taylorbelle"
+    hashtags: "#ad, #mexicanfood, #mexicanfoodblogger, #mexican"
+  - username: "notyouraverageladki"
     fullname: >-
-      Taylor Belle 🌻
+      A V I S H A  P A T E L
     bio: >-
-      denver • student • holistic health & wellness & oh ya, I’m vegan 🌱 • photography page @taylorbelletookthis • backup account @moretaylorbelle
+      Behavioral Therapist for Children with Autism ✌🏽 Femin- Environmental- Conservation- Behavior- Art- Style- —IST 🌿♻️📚🏔 Vegan 🌱 Model in Denial
     location: "United States"
-    followers: 31513
-    engagement: 274
-    commentsToLikes: 0.052555
-    id: ck0w4fewryaxv0i1918jb6u0e
+    followers: 3858
+    engagement: 1255
+    commentsToLikes: 0.068252
+    id: ck6tuw4uiirca0j71yyrkea2m
     verified: false
-    hashtags: "#vegan, #worldveganday"
-  - username: "elsadeherrrera"
-    fullname: >-
-      Elsa DeHerrera
-    bio: >-
-      denver
-    location: "United States"
-    followers: 20680
-    engagement: 349
-    commentsToLikes: 0.016512
-    id: ckap006y4o78u0i78eabt7dns
-    verified: false
-    hashtags: "#noimnotimhawaiirn, #vegan"
+    hashtags: "#facialrejuvenation, #fentybeauty, #brownskingirl, #hairremoval"
   - username: "nataliaavegaa"
     fullname: >-
       NATALIA VEGA
     bio: >-
       Vegan is the new black Ⓥ⠀ Me gusta tomar fotos 📸⠀ 📍Dallas, Texas 🍂
     location: "United States"
-    followers: 7633
-    engagement: 587
-    commentsToLikes: 0.024104
+    followers: 6769
+    engagement: 662
+    commentsToLikes: 0.024373
     id: ck6uc7xdae0hh0j71x8mgeequ
     verified: false
-    hashtags: "#miamibeach, #vegantacos, #veganburger, #veganbreakfast"
+    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
+  - username: "stephanieparsley"
+    fullname: >-
+      Stephanie Parsley 🌱
+    bio: >-
+      ?!?!? 📍colorado | arkansas ✿ podcasting @ohhherewego ✿ wanna stay or shoot at my place? @theparsleypad ✿ social media managin’ @fidelandco ✿ #vegan
+    location: "United States"
+    followers: 30851
+    engagement: 191
+    commentsToLikes: 0.018941
+    id: ck13by2itxp570i19tjg6j3cn
+    verified: false
+    hashtags: ""
+  - username: "plantbasedmuscle"
+    fullname: >-
+      Vanessa Espinoza
+    bio: >-
+      Vegan Trainer & Nutrition Coach 🌱🍀☘ Join My 8 Week Screw Hibernation Program Online & At Home Training 🐕🐕🐕🐕 Rescue Chihuahuas Colorado 🏔🌞🏳️‍🌈
+    location: "United States"
+    followers: 23106
+    engagement: 126
+    commentsToLikes: 0.049278
+    id: ckapax9b1xt9w0i78cmteewo0
+    verified: false
+    hashtags: "#veganbodybuilders, #veganflexfriday, #colorado, #plantbasedmuscle"
   - username: "sailor_bailey"
     fullname: >-
       Bailey
     bio: >-
-      Simple meals & treats on the healthier side. ☆🎙@breakfastatbaileyspodcast ◇ denver, co 🍽 all recipes are linked below
+      Simple meals & treats on the healthier side. 📍Denver, CO 🍽 all recipes are linked below👇🏼
     location: "United States"
-    followers: 94132
-    engagement: 159
-    commentsToLikes: 0.074825
+    followers: 104171
+    engagement: 102
+    commentsToLikes: 0.080205
     id: ck14lflsbuf0z0i19m1dwbybl
     verified: false
-    hashtags: "#sponsored, #breakfastplate, #breakfast, #feedfeed"
+    hashtags: "#vegetarianrecipes, #vegetarian, #mealprepideas, #corn"
   - username: "vegantraveleats"
     fullname: >-
-      Valerie Libutti
+      Valerie Libutti [she/her]
     bio: >-
-      [she/her] 💥Delicious Vegan Recipes with No Diet Culture BS💥 HAES advocate, BLM, and real science All Recipes ⬇️ @bestofvegan contributor
+      💥Delicious Vegan Food with No Diet Culture BS💥 HAES Advocate, Anti-Racist, & no pseudoscience @bestofvegan contributor 📍DEN & MIA All Recipes⬇️
     location: "United States"
-    followers: 101503
-    engagement: 234
-    commentsToLikes: 0.034078
+    followers: 102818
+    engagement: 275
+    commentsToLikes: 0.027545
     id: ck0vz202f6w3a0i198py2butw
     verified: false
-    hashtags: "#whatveganseat, #veganfoodporn, #tofu, #veganprotein"
-  - username: "bentwarp"
-    fullname: >-
-      Riff Hunter™
-    bio: >-
-      Cosmic vegan death metal crazy person 👽 💯zero faith in civilization (but Stay Posi✌) Normies frick off!! 🙅 If you are a false do not try follow
-    location: "United States"
-    followers: 11136
-    engagement: 1258
-    commentsToLikes: 0.038514
-    id: ck0w0aiard7w30i19el3mwmhn
-    verified: false
-    hashtags: "#spectralvoice, #deathmetal, #darkdescentrecords, #manifester"
+    hashtags: "#eeeeeats, #meatless, #vegancomfortfood, #meatlessmonday"
 ---

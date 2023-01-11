@@ -1,84 +1,84 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Brazil In 2022
+title: Top 10 Boxers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top boxers Instagram influencers in Brazil in 2022. Most popular hashtags: #dog #boxerlove #boxerdog #clubinhodosboxers.
+  Find top boxers Instagram influencers in Brazil in 2023. Most popular hashtags: #clubinhodosboxers #photooftheday #pets #puppy.
 platform: Instagram
-hits: 49
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 49 Instagram influencers like this in Brazil for you to contact.
+hits: 43
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 43 Instagram influencers like this in Brazil for you to pitch.
 profiles:
+  - username: "danielbzk_"
+    fullname: >-
+      DANIEL ARAÚJO 🇧🇷
+    bio: >-
+      "THE BRAZILIAN KING" 🇧🇷 Pro boxer: 5-0-0 (3KO) 🏠 🇧🇷 BSB/MIAMI 🇺🇸
+    location: "Brazil"
+    followers: 2857
+    engagement: 1721
+    commentsToLikes: 0.162510
+    id: ck5qac7cpfmxq0i11rftsgxbt
+    verified: false
+    hashtags: "#vamosquevamos, #vitoria, #hardwork, #miami"
   - username: "leandrotorneiro"
     fullname: >-
       Leandro Torneiro
     bio: >-
-      919k no YouTube Patrocinadores:@lojadomecanico @boxersoldas @emasterelevadores Email Comercial: leandrotorneiro1@gmail.com
+      960k no YouTube Patrocinadores:@lojadomecanico @boxersoldas @emasterelevadores Email Comercial: leandrotorneiro1@gmail.com
     location: "Brazil"
-    followers: 76819
-    engagement: 587
-    commentsToLikes: 0.017899
+    followers: 80974
+    engagement: 442
+    commentsToLikes: 0.014979
     id: ck15rcxor7ayl0i19eo1g1jr4
     verified: false
     hashtags: ""
-  - username: "boxerboris_"
-    fullname: >-
-      Boris 04/11/15⭐Shiro 07/01/18
-    bio: >-
-      Boris - Boxer, carinhoso e atrapalhado, embaixador @petmoove @labovetoficial @atelielacosdesol @dogtripbr Shiro - Akita, guloso e branquelo
-    location: "Brazil"
-    followers: 13856
-    engagement: 768
-    commentsToLikes: 0.174989
-    id: ck9we27ufi9kq0j78sqkxef6j
-    verified: false
-    hashtags: "#akitaclub, #akitabranco, #atelielacosdesol, #boxerdog"
   - username: "peleantoniobb"
     fullname: >-
-      ✨PELÉ ANTÔNIO ✨
+      ✨PELÉ ANTÔNIO ✨
     bio: >-
       •Boxer- adotado❤️ •Irmão da pretinha e tuca💜 •Porto Belo-SC📍 •Levando uma vida de cão🍃 •Paixão pelo mar⛵️ •Dieta biologicamente apropriada🥩 •Cupons⬇️📦
     location: "Brazil"
-    followers: 7556
-    engagement: 513
-    commentsToLikes: 0.284633
+    followers: 7646
+    engagement: 348
+    commentsToLikes: 0.159238
     id: ck9hbmfkahhoq0j784clte7us
     verified: false
-    hashtags: "#boxersmile, #engajaamipets, #mar, #boxersofinstagram"
-  - username: "daniel_araujofg"
-    fullname: >-
-      DANIEL ARAÚJO 🇧🇷
-    bio: >-
-      "THE BRAZILIAN KING" 🇧🇷 Pro boxer: 3-0-0 (2 KO) 🏠 🇧🇷 BSB/MIAMI 🇺🇸
-    location: "Brazil"
-    followers: 2782
-    engagement: 1498
-    commentsToLikes: 0.128117
-    id: ck5qac7cpfmxq0i11rftsgxbt
-    verified: false
-    hashtags: "#trabalho, #eua, #letsgo, #boxinglife"
+    hashtags: "#praia, #turmadebigode, #praianos, #clubinhodosboxers"
   - username: "diariodeumtrio"
     fullname: >-
       Max,Sophie e Lucy 🐶
     bio: >-
-      🧸 O mimado,a caçadora e a Godzilla 🐾 Somos 2 SRD e uma BOXER 👑 Emb.@madalojinhaoficial 🤝 Parc.@meuauau_oficial 🛍️ Cupons no link ↙️
+      🐕 Perfil com muito look e fofura para vocês ☺️ 🐾 Somos 2 SRD e uma BOXER 🧸 O mimado,a caçadora e a Godzilla 🛍️ Cupons no link abaixo ↙️
     location: "Brazil"
-    followers: 11066
-    engagement: 732
-    commentsToLikes: 0.091573
+    followers: 11166
+    engagement: 596
+    commentsToLikes: 0.121127
     id: ck8t9uv2ppfwi0j78my50kbdl
     verified: false
-    hashtags: "#eusouapequenasophie, #photooftheday, #ilovemydog, #eusouaboxerlucy"
+    hashtags: "#photooftheday, #boxerlove, #puppy, #dogs"
+  - username: "boxerboris_"
+    fullname: >-
+      Boris 04/11/15⭐Shiro 07/01/18
+    bio: >-
+      Boris - Boxer, carinhoso e atrapalhado, embaixador @labovetoficial @atelielacosdesol @dogtripbr Shiro - Akita, guloso e branquelo
+    location: "Brazil"
+    followers: 14381
+    engagement: 610
+    commentsToLikes: 0.150230
+    id: ck9we27ufi9kq0j78sqkxef6j
+    verified: false
+    hashtags: "#akitasofinstagram, #bichoextra, #humorpet, #itimalia"
   - username: "josecarlosmalato"
     fullname: >-
       josecarlosmalato
     bio: >-
       TV Host. RTP My Speaker’s Corner Pai de 2 boxers🐾 Reservado o direito de expulsão 7/3/64🐠 🌈👨‍❤️‍👨
     location: "Brazil"
-    followers: 49102
-    engagement: 208
-    commentsToLikes: 0.035835
+    followers: 49511
+    engagement: 217
+    commentsToLikes: 0.035933
     id: ck5zva5ql3uhg0i14b5fin58z
     verified: true
-    hashtags: "#tiobabado, #josecarlosmalato, #paideboxers, #gemeos"
+    hashtags: "#paideboxers, #meusamores, #josecarlosmalato, #tiobabado"
   - username: "bossmanvenom"
     fullname: >-
       Darren Venom Goodall
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.029835
     id: ck5hj0hyefsh90i11hxmggeby
     verified: false
-    hashtags: "#boxing, #boxingtraining, #boxingworkout, #tips"
+    hashtags: "#boxing, #boxingtraining, #boxingworkout, #levelup"
   - username: "patrickteixeiraboxing"
     fullname: >-
       Patrick Teixeira
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.044103
     id: ck5pxyahktg7i0i11kjgaj1vp
     verified: true
-    hashtags: "#teamteixeira, #ibgboxing, #repost, #goldenboyboxing"
+    hashtags: "#repost, #ibgboxing, #teamteixeira, #goldenboyboxing"
   - username: "proper_alpha_boxers"
     fullname: >-
       Proper Alpha Boxers
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.007880
     id: ck136r2p37ubj0i19n17d6913
     verified: false
-    hashtags: "#boxerdog, #boxerlovers, #pet, #boxerdogfans"
+    hashtags: "#playtime, #photooftheday, #boxerpuppy, #cute"
   - username: "os.boxers"
     fullname: >-
       ➤ ♀️ ʙᴇʟʟᴀ, ʙᴏʙʏ ᴇ ᴅᴜᴋᴇ ♂️
     bio: >-
-      DESATIVADOS!! 💜| ʙᴇʟʟᴀ 🐶| ʙᴏxᴇʀ c/ ᴘʀᴏɢɴᴀᴛɪꜱᴍᴏ ɪɴꜰᴇʀɪᴏʀ ♀️| ꜰêᴍᴇᴀ 🎂| 26/11/18 . 💙| ʙᴏʙʏ 🐶| ʙᴏxᴇʀ ♂️| ᴍᴀᴄʜᴏ 🎂| 18/10/14 . 🌎| ʀꜱ 📦| ᴘᴀʀᴄᴇʀɪᴀꜱ ᴅᴅ/ᴇᴍᴀɪʟ
+      DESATIVADOS!!
     location: "Brazil"
-    followers: 9937
-    engagement: 1056
-    commentsToLikes: 0.107601
+    followers: 9632
+    engagement: 1091
+    commentsToLikes: 0.107458
     id: ckf5sgja3fgzy0j23jfxb8afm
     verified: false
-    hashtags: "#divulgaengajapets, #clubinhodosboxers, #amigosdakim, #quart"
+    hashtags: "#divulgaengajapets, #amigosdakim, #clubinhodosboxers, #divulgaccs0911"
 ---

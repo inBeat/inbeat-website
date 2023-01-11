@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Atlanta In 2022
+title: Top 10 Fashion Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top fashion Instagram influencers in Atlanta in 2022. Most popular hashtags: #fashion #atlanta #ootd #model.
+  Find top fashion Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #fashion #fashionblogger #miami.
 platform: Instagram
-hits: 434
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat has 434 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 453
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 453 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
-  - username: "wstco"
+  - username: "skoobi.e"
     fullname: >-
-      TATYANA WSTCO
+      Skoobie 🇯🇲🇭🇹🇨🇳
     bio: >-
-      Busy•✘ YouTube:Beauty/Fashion •Atlanta ⓔ•Tatyanawstco@gmail.com
+      𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑫𝒂𝒏𝒄𝒆𝒓/𝑪𝒉𝒐𝒓𝒆𝒐𝒈𝒓𝒂𝒑𝒉𝒆𝒓 Academy Of Phresh @iamphresh_ Member of @dwpacademy.usa ℕ𝕐🗽↔️ 𝔻𝔼🌲
     location: "United States"
-    followers: 140799
-    engagement: 349
-    commentsToLikes: 0.009773
-    id: ck8sxr40gictq0j78f2pjw9dr
+    followers: 8964
+    engagement: 427
+    commentsToLikes: 0.113703
+    id: ck6u3cav5wzah0j7138yc37yg
     verified: false
-    hashtags: ""
-  - username: "rakebamonet"
+    hashtags: "#philly, #melanin, #afrohiphop, #blackexcellence"
+  - username: "iambarbielee"
     fullname: >-
-      Rakeba Monet 📍 Atlanta
+      B A R B I E   L E E  🏳️‍🌈
     bio: >-
-      ▫️ΔΣθ 🐘 ▫️864✈️404 ▫️SCSU Alumna 🐶 ▫️#MM⭕️ Investor 📊 ▫️Registered Nurse 👩🏾‍⚕️ ▫️CO-CEO of @girlsnxtdoor_ 💅🏽 ▫️YouTube: GirlsNxtDoor 🎥
+      👸🏾Dark Skin Specialist 🥂VIP Glam Sessions ⏰5am-8pm 📍Buckhead ATL ✈️Lifestyle Influencer 🍑Southern Belle ♒️Aquarius 🛍@glamboxofficial 👇🏾 𝕊ℍ𝕆ℙ • 𝔹𝕆𝕆𝕂 👇🏾
     location: "United States"
-    followers: 9015
-    engagement: 1625
-    commentsToLikes: 0.079088
-    id: ckf5t59gwgz4c0j23mhap7plp
+    followers: 52331
+    engagement: 141
+    commentsToLikes: 0.113694
+    id: ck13cv1qu2b3n0i19ho5v43z4
     verified: false
-    hashtags: "#blackbusinesswomen, #girlsnxtdoor, #girlsnxtdoorhaircompany, #lifestylevlogger"
-  - username: "monetthomas_"
+    hashtags: "#atlantamakeupartist, #vanitygoals, #makeupformelaningirls, #naturalhair"
+  - username: "thebossmannmedia"
     fullname: >-
-      • Atlanta Growing Hands •
+      Boss Mann Media Group
     bio: >-
-      📍Atlanta Follow @thehalolife Click Link To Book Your Appointment
+      Follow our Main account @bossmannmedia DM's the main account, no message will be answered here.
     location: "United States"
-    followers: 75322
-    engagement: 155
-    commentsToLikes: 0.025953
-    id: ck15sc8j6ca0h0i19d39mwqx4
+    followers: 2
+    engagement: 3074375
+    commentsToLikes: 0.011661
+    id: ck15u9w0ym4z50i1964go9iod
     verified: false
-    hashtags: "#atlmicrolinks, #growinghands, #newjerseyhairstylist, #naturalhair"
-  - username: "shawn_antonia"
+    hashtags: "#magazine, #management, #peace, #god"
+  - username: "rileysrampage"
     fullname: >-
-      S H A W N   A N T O N I A🇵🇷
+      Riley Weidman
     bio: >-
-      #BusinessOwner *INFLUENCER PAGE* Grad Student 🎓 Travel Agency Owner 🛫 #TravelAgent page @BookWithShawn DM for collaborations
+      Professional Downhill Mountain Biker/Model @hannahnoellemodels email Contact@Hannahnoelle.com for bookings
     location: "United States"
-    followers: 59973
-    engagement: 333
-    commentsToLikes: 0.065010
-    id: ckaowcrfb8cy70i78241mboip
+    followers: 5454
+    engagement: 392
+    commentsToLikes: 0.034799
+    id: ck8t2v03j0sx50j78sn5mpbsz
     verified: false
-    hashtags: "#chivette, #fashion, #atlanta, #influencers"
-  - username: "realmiacole"
+    hashtags: "#dh, #crankworxinnsbruck, #girlswhoshred, #travel"
+  - username: "elizadonahue"
     fullname: >-
-      Mia Cole
+      É L I Z A    D O N A H U E 🦋
     bio: >-
-      901 @miacoleaesthetics @shopcolecollection_
+      (Lie-zuh) 🇵🇭 Xcel Talent Agency IN/ATL 📍#502mademe
     location: "United States"
-    followers: 9609
-    engagement: 304
-    commentsToLikes: 0.017315
-    id: ck6uaa6ll2elo0j71l27zozui
+    followers: 5070
+    engagement: 851
+    commentsToLikes: 0.110378
+    id: ck14kvoc5rjjo0i19pc697hgx
     verified: false
-    hashtags: "#clothingboutique, #memphisboutique, #trending, #clothing"
-  - username: "andzelika_bobrova"
+    hashtags: "#atlanta, #explorepage, #dance, #inspire"
+  - username: "winnnterrr"
     fullname: >-
-      Andzelika
+      Winter Williams
     bio: >-
-      𝓉𝒽𝑒𝓇𝑒’𝓈 𝓈𝑜𝓂𝑒𝒷𝑜𝒹𝓎 𝒻𝑜𝓇 𝑒𝓋𝑒𝓇𝓎𝒷𝑜𝒹𝓎
+      atlanta // fashion i love clothes welcome to my life
     location: "United States"
-    followers: 32676
-    engagement: 310
-    commentsToLikes: 0.030527
-    id: ck8sxf0emh5s40j78hce8tuqa
+    followers: 67139
+    engagement: 91
+    commentsToLikes: 0.011441
+    id: ck9weaq7ujfsj0j78r4a2n5mz
     verified: false
-    hashtags: "#fashion, #atlantamodels, #blonde, #ovmefiller"
+    hashtags: "#fashion, #prettylittlething, #style, #streetstyle"
+  - username: "adrianalately"
+    fullname: >-
+      Adriana | Atlanta Blogger
+    bio: >-
+      lifestyle • beauty • fashion • travel atlanta 🍑 • boy mom 💙 sharing real life on stories 💁🏽‍♀️ check out my latest blog post ↓↓
+    location: "United States"
+    followers: 75761
+    engagement: 138
+    commentsToLikes: 0.043058
+    id: ck5zv2j663h470i14vrshtqz5
+    verified: false
+    hashtags: "#styleblogger, #familytravel, #familytravelblogger, #styleoftheday"
   - username: "city.peach"
     fullname: >-
       Mireille (Mir-ay) | City Peach
     bio: >-
-      Style | Motherhood | & Having Both Atlanta fashion blogger + wardrobe stylist Living a stylish motherhood one chaotic day at a time
+      Style | Motherhood | & Having Both Atlanta fashion blogger + wardrobe stylist Living a stylish motherhood one chaotic day at a time est.2014
     location: "United States"
-    followers: 102172
-    engagement: 203
-    commentsToLikes: 0.027891
+    followers: 96564
+    engagement: 155
+    commentsToLikes: 0.022296
     id: ck0tuofbw80450i198l2zl5uu
     verified: false
-    hashtags: "#stayhomewithltk, #stylishmotherhood, #liketkit, #mommyandme"
-  - username: "hallie.amc"
+    hashtags: "#mommyandme, #ltkunder100, #summerstyle, #motherhood"
+  - username: "justaurmaria"
     fullname: >-
-      hallie mcclain
+      A U R M A R I A  シ
     bio: >-
-      😎//🏖chs☀️//😎 (you probably aren't pronouncing my name right) USC Cola ‘23🤙 Excuse me, I’m sorry, I’m really such a lady ⚡️ travel/music/art/memories💛
+      LA 📍DETROIT | CHICAGO | ATLANTA Fashion | Lifestyle | Beauty TikTok: Justaurmaria 𝒜𝓁𝑒𝓍𝒶, Tell Jesus I love him
     location: "United States"
-    followers: 12639
-    engagement: 1501
-    commentsToLikes: 0.066761
-    id: ck5ckmh7jx6bp0i11s63q47yj
+    followers: 7534
+    engagement: 493
+    commentsToLikes: 0.088793
+    id: ckaorh8l8n7e90i78khdcbd5p
     verified: false
-    hashtags: "#photooftheday, #willyscoutsall, #atlanta, #fashion"
-  - username: "cosmicrachael"
+    hashtags: "#texasmodel, #protectivestyle, #quarantine, #atlantamodels"
+  - username: "strawberrychicxo"
     fullname: >-
-      ⋆ Miss Rachael ⋆
+      Amanda | Atlanta Youtuber
     bio: >-
-      🌻 save the earth and shop secondhand 🌈 ATL, GA ♻️ #thrifty ghibli girl 👩🏻‍🚀 NASA social alumni
+      Atlanta Fashion Youtuber New Mama to Josie 🎀 Influencer mentor @theprofitableinfluencer 👇🏼click to shop my feed
     location: "United States"
-    followers: 7364
-    engagement: 655
-    commentsToLikes: 0.077136
-    id: ck5zp4leerzdg0i147dy52d2y
+    followers: 68200
+    engagement: 194
+    commentsToLikes: 0.056033
+    id: ck5hf1vqvvj680i11fmkrntxm
     verified: false
-    hashtags: "#coppermooncoffee, #ootd, #goodwillfinds, #slowfashion"
-  - username: "kctaylor17"
-    fullname: >-
-      Korisha Curtis
-    bio: >-
-      ➕Model, Influencer VP @sweettreatsga @byashleystewart Semi-Finalist Atlanta, GA Dis. Code: kctay10 @lovelywholesale__official
-    location: "United States"
-    followers: 40184
-    engagement: 217
-    commentsToLikes: 0.072972
-    id: ckapaj5ncwbgk0i78xn88zc0z
-    verified: false
-    hashtags: "#vibes, #plusmodel, #psfashion, #boldncurvy"
+    hashtags: "#ltkbump, #ad, #nsale, #liketkit"
 ---

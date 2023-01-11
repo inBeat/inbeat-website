@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Chile In 2022
+title: Top 10 Makeup Instagram Influencers In Chile In 2023
 description: >-
-  Find top makeup Instagram influencers in Chile in 2022. Most popular hashtags: #makeupchile #makeupartist #halloweenmakeup #makeup.
+  Find top makeup Instagram influencers in Chile in 2023. Most popular hashtags: #chile #makeup #makeupartist #makeupchile.
 platform: Instagram
-hits: 200
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 200 Instagram influencers like this in Chile for you to work with.
+hits: 175
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 175 Instagram influencers like this in Chile for you to contact.
 profiles:
-  - username: "camiverdugo"
-    fullname: >-
-      𝘊𝘢𝘮𝘪 𝘝𝘦𝘳𝘥𝘶𝘨𝘰⚡️Content Creator
-    bio: >-
-      ✧ Makeup Artist ✧ › tips, tutoriales y más! › tiktok: cami_verdugo (+50k) › mi canal de YouTube aquí👇🏻
-    location: "Chile"
-    followers: 22674
-    engagement: 910
-    commentsToLikes: 0.057531
-    id: ck5q5jx7jt8nx0i11amep8d5v
-    verified: false
-    hashtags: "#nyxcosmeticschile, #estoespublicidad, #narschile, #regeneracionextrema"
-  - username: "anitabritog"
-    fullname: >-
-      A N I T A  B R I T O
-    bio: >-
-      •Content Creator• 💜Makeup Artist. 💚Dancer. 🤍Model. 📍 𝘝𝘦𝘯𝘦𝘻𝘰𝘭𝘢𝘯𝘢 𝘦𝘯 𝘊𝘩𝘪𝘭𝘦. Colaboraciones /PR al Dm 💌
-    location: "Chile"
-    followers: 12562
-    engagement: 889
-    commentsToLikes: 0.100555
-    id: ck6tibwbn0fcp0j71tshs2oj3
-    verified: false
-    hashtags: "#bridemakeup, #morphebrushes, #nakedskin, #anastasiabeverlyhills"
   - username: "pascalealvo_makeup"
     fullname: >-
       Pascale Alvo Makeup
     bio: >-
-      Makeup NO DM ✖️ info a pascalealvomakeup@gmail.com 🇨🇱STGO Beauty content creator #maquillaje
+      Makeup NO DM ✖️ info a pascalealvomakeup@gmail.com @bigg.fitcl 🏋️‍♀️ 🇨🇱STGO Beauty content creator #maquillaje
     location: "Chile"
-    followers: 24886
-    engagement: 388
-    commentsToLikes: 0.273467
+    followers: 24636
+    engagement: 287
+    commentsToLikes: 0.185983
     id: ck5pwoyabnvbo0i11jzwapkl0
     verified: false
-    hashtags: "#love, #maccosmeticschile, #lorealchile, #diorchile"
-  - username: "josewaddington"
+    hashtags: "#maquilladorachilena, #inglotchile, #beautiful, #inbeautmag"
+  - username: "christell_oficial"
     fullname: >-
-      JOSE 🍊
+      𝓒𝓱𝓻𝓲𝓼𝓽𝓮𝓵𝓵
     bio: >-
-      Estudiante Derecho / Makeup Artist Doy vida a ⚡️ @zanottifranca Una es más auténtica cuanto más se parece a lo que ha soñado de si misma 🧵
+      𝑪𝒂𝒏𝒕𝒂𝒏𝒕𝒆 🇨🇱 𝑽𝒐𝒄𝒂𝒍 𝑪𝒐𝒂𝒄𝒉🗣 𝑴𝒂𝒌𝒆𝒖𝒑 𝑨𝒓𝒕𝒊𝒔𝒕 💋 𝑭𝒖𝒕𝒖𝒓𝒂 𝑭𝒐𝒏𝒐𝒂𝒖𝒅𝒊𝒐𝒍𝒐𝒈𝒂 Emprendedora 🛍@beyou.makeupstore @beyoustudio.cl ⬇️ESCUCHA✨Mi Sentir✨⬇️
     location: "Chile"
-    followers: 9545
-    engagement: 726
-    commentsToLikes: 0.098348
-    id: ck0w2nzb7pbwt0i19zdps0e1t
-    verified: false
-    hashtags: "#myriderpack, #throwback, #fashion, #welcomeonboard"
-  - username: "aleuh_"
+    followers: 355329
+    engagement: 194
+    commentsToLikes: 0.024943
+    id: ck5q5qpnlu4qw0i1184zg16q7
+    verified: true
+    hashtags: "#maquillaje, #makeup, #musica, #videoclip"
+  - username: "camisg"
     fullname: >-
-      ➶︎ 𝓐𝓵𝓮𝔁𝓲𝓪 🐍
+      🦋 CAMILA SALDAÑO GARCÍA 🦋
     bio: >-
-      ☞ ☯︎𝘤𝘤𝘱, 𝘫𝘰𝘷𝘦𝘯 𝘳𝘢𝘵𝘢 ★ ☞ Embajadora de @artemisa.makeup 💋 ☞Taekwondo 🇰🇷 @mati.cuc 🤍
+      ♡ SCL 🇨🇱 》𝐏𝐫𝐨Makeup Artist & FX《 ♡ Esteticista Integral 🚘 Conductora en @amikasa.cl 🧖🏻‍♀️ @camiskincare CEO @bombillas.cl ♻️ ♡ Me gusta dibujar🎨👩🏻‍🎨
     location: "Chile"
-    followers: 9413
-    engagement: 1490
-    commentsToLikes: 0.019470
-    id: ck8t1bhn7v4qs0j78bm3gp3ub
+    followers: 18850
+    engagement: 297
+    commentsToLikes: 0.068063
+    id: ck55l99mb11qs0i119szhehp1
     verified: false
-    hashtags: "#instachile, #chilegram, #instaconce, #tiktok"
-  - username: "natashaliramakeup"
-    fullname: >-
-      NATASHA LIRA | MAQUILLAJE
-    bio: >-
-      Makeup Artist 💗 #maquillajechile Especialista en novias 👰 #noviaschile 💄capacitaciones #cursodemaquillaje Para inf de presupuesto⤵️
-    location: "Chile"
-    followers: 20339
-    engagement: 284
-    commentsToLikes: 0.077538
-    id: ck5zkg1hajewf0i14i9qpwhjm
-    verified: false
-    hashtags: "#maquillajeprofesional, #makeupchile, #makeupsocial, #santiagodechile"
-  - username: "bydanielle.art"
-    fullname: >-
-      𝕭𝖆́𝖗𝖇𝖆𝖗𝖆 𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊
-    bio: >-
-      Pro Makeup Artist ⚜️Winner NYX Face awards 2019 Chile ⚜️ Docente academia @artepierrot @bydanielle.studio 𝕬𝖖𝖚𝖎 𝖕𝖚𝖇𝖑𝖎𝖈𝖔 𝖒𝖎𝖘 𝖘𝖚𝖊𝖓̃𝖔𝖘 𝖞 𝖕𝖊𝖘𝖆𝖉𝖎𝖑𝖑𝖆𝖘
-    location: "Chile"
-    followers: 21576
-    engagement: 1011
-    commentsToLikes: 0.103021
-    id: ck15so2czdywf0i19n4lfzjxh
-    verified: false
-    hashtags: "#art, #makeupideas, #mua, #muachile"
+    hashtags: "#concurso, #concursochile, #vichycl, #capitalsoleil"
   - username: "makeupbycire"
     fullname: >-
       ☆ MAQUILLAJE CHILE ☆
     bio: >-
       PRO MAKEUP 💄 📍SANTIAGO/ CHILE 🇻🇪 📩cirelylaya@gmail.com CURSOS ONLINE INFORMACIÓN 🔽
     location: "Chile"
-    followers: 9479
-    engagement: 444
-    commentsToLikes: 0.078354
+    followers: 9345
+    engagement: 457
+    commentsToLikes: 0.078861
     id: ck5hr0emiu1nc0i11j5kstx10
     verified: false
-    hashtags: "#maquillajechile, #makeupchile, #makeupartischile, #makeupartist"
-  - username: "javicorreamedina"
+    hashtags: "#makeupartistchile, #makeupartist, #makeupchile, #makeupartischile"
+  - username: "peque_2_"
     fullname: >-
-      Javi Correa
+      ⚜ 𝐆𝐞𝐧𝐞𝐬𝐢𝐬 ⚜
     bio: >-
-      Fashion Stylist | MKT Digital | Chef 💖Moda, Viajes y MakeUp ⚡️Curatoría @byjavicorrea Programa de moda “Dress Code” en @yooytv 😍
+      👑𝐓𝐢𝐤 𝐓𝐨𝐤:Ｐｅｑｕｅ_２👑 MUSIC 🤍@genessiss_2 🖤@makeuppeque
     location: "Chile"
-    followers: 25942
-    engagement: 325
-    commentsToLikes: 0.043009
-    id: ck6u9mkx1ye4q0j71efs2htzd
+    followers: 10447
+    engagement: 1107
+    commentsToLikes: 0.033417
+    id: ckaovl4e6511e0i78hgt529z4
     verified: false
-    hashtags: "#modachilena, #styled, #chile, #fashion"
-  - username: "gustav_cosplay"
+    hashtags: "#chilena, #mujer, #instatiktok, #likelike"
+  - username: "valentinadavilamua"
     fullname: >-
-      ✨ G U S T A V C O S P L A Y 🇨🇱
+      Valentina Dávila 🐈‍⬛
     bio: >-
-      ❤️ 𝐸𝑙 𝐻𝑎𝑐𝑒𝑑𝑜𝑟 𝑑𝑒 𝑊𝑎𝑖𝑓𝑢𝑠 ✨ 🏩 Embajador de @katsuracosplay 🎨 Makeup Artist 👚 Cosplayer/Maker ✂️ WigMaker 📨 gustav.cosplay@gmail.com
+      ♒︎ ♋︎ Astrology student Makeup Artist / Dsr CL ☕️🧠🔮
     location: "Chile"
-    followers: 34907
-    engagement: 579
-    commentsToLikes: 0.012714
-    id: ckap4c3u56o940i78hwnqhqh5
+    followers: 499152
+    engagement: 459
+    commentsToLikes: 0.005608
+    id: ck5c7c6sy792p0i11qrso4cdi
+    verified: true
+    hashtags: "#creadoconadidas, #juntassomosseguridad, #mycalvins"
+  - username: "natashaliramakeup"
+    fullname: >-
+      NATASHA LIRA | MAQUILLAJE
+    bio: >-
+      Makeup Artist 💗 #maquillajechile Especialista en novias 👰 #noviaschile 💄capacitaciones #cursodemaquillaje Para inf de presupuesto⤵️
+    location: "Chile"
+    followers: 20723
+    engagement: 236
+    commentsToLikes: 0.048674
+    id: ck5zkg1hajewf0i14i9qpwhjm
     verified: false
-    hashtags: "#cosplay, #corpsebride, #soratocosplay, #sorato"
+    hashtags: "#cursodemaquillaje, #santiagodechile, #makeupartist, #maquillajeprofesional"
+  - username: "coteemiller"
+    fullname: >-
+      C O T E E    M I L L E R
+    bio: >-
+      👠Drag Queen 💄Makeup Artist 💋@houseofhookers 🕷@thehouseofaddams 💅🏻 Nails by @exenails 📍Chile 🇨🇱 📌DM - coteemiller@gmail.com
+    location: "Chile"
+    followers: 16872
+    engagement: 849
+    commentsToLikes: 0.033488
+    id: ck5zjc9qfhc4j0i14aiigi9rh
+    verified: false
+    hashtags: "#makeupideas, #mua, #rpdr, #fashion"
+  - username: "carlagasic"
+    fullname: >-
+      Carla Gasic
+    bio: >-
+      Makeup Artist. Film, TV, SFX, Beauty Celebrities
+    location: "Chile"
+    followers: 42218
+    engagement: 133
+    commentsToLikes: 0.052629
+    id: ck5hofvcrphno0i11llrldisl
+    verified: false
+    hashtags: "#imitadores, #campa, #sebastiansichel, #makeup"
+  - username: "pameearely"
+    fullname: >-
+      PAMELA ARELY RIVERA☆🌙
+    bio: >-
+      Welcome♥️ Arica🇨🇱 | ⚖ Outfits👠| Makeup | Recomendaciones♡ @areelybeauty Consultora Natura🍃🌸 👇👇👇👇
+    location: "Chile"
+    followers: 9358
+    engagement: 479
+    commentsToLikes: 0.051588
+    id: ck15rdt6o7fm60i19ssafqro6
+    verified: false
+    hashtags: "#outfitoftheday, #instachile, #chile, #arica"
 ---

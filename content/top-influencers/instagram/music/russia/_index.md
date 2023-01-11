@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Russia In 2022
+title: Top 10 Music Instagram Influencers In Russia In 2023
 description: >-
-  Find top music Instagram influencers in Russia in 2022. Most popular hashtags: #singer #music #voice.
+  Find top music Instagram influencers in Russia in 2023. Most popular hashtags: #cover #russia #music.
 platform: Instagram
-hits: 1173
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat has 1173 Instagram influencers like this in Russia for you to pitch.
+hits: 1184
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 1184 Instagram influencers like this in Russia for you to contact.
 profiles:
+  - username: "skripka_show"
+    fullname: >-
+      Арина Дукмасова Скрипка Челны
+    bio: >-
+      От классики до современной🎵 🍒Мурашки гарантированы😘 Music show on distance 🎼 📞+79179048118 кликай⤵️
+    location: "Russia"
+    followers: 4054
+    engagement: 2439
+    commentsToLikes: 0.162125
+    id: ck5ccour9hqs50i11ij96bp78
+    verified: false
+    hashtags: "#violin, #soulmusic, #lyricsvideo, #russia"
   - username: "mavl.x"
     fullname: >-
       Мэвл
     bio: >-
-      @legacy_music_to 👊 💌 booking@musiclegacy.ru | +79959218354 Антон Трек «ДА ПОШЛО ВСЕ» 🥀
+      ГОВОРИ НЕ БОЙСЯ, БОЙСЯ НЕ ГОВОРИТЬ 🦍@legacy_music_to 🦾 💌 booking@musiclegacy.ru | +79959218354 Антон МОЯ БИОГРАФИЯ 👇
     location: "Russia"
-    followers: 678839
-    engagement: 1056
-    commentsToLikes: 0.043475
+    followers: 568961
+    engagement: 465
+    commentsToLikes: 0.023186
     id: ck5q5pxw6u0kw0i11cu4fhdfk
     verified: true
-    hashtags: "#honormagicearbuds"
+    hashtags: ""
+  - username: "anna_radchenko"
+    fullname: >-
+      Режиссёрка с Марса 🎬
+    bio: >-
+      🎥Клиенты: Nike, Warner music, Vogue 🇬🇧Живу в Лондоне 🤝Знаю, как подружить искусство и 💶 🔥Открыт набор на курс пАРТа 👇🏻
+    location: "Russia"
+    followers: 112028
+    engagement: 415
+    commentsToLikes: 0.028471
+    id: ck5pw2dzikrsa0i11jr5l0w8r
+    verified: false
+    hashtags: ""
+  - username: "konfuz_music"
+    fullname: >-
+      Mishka🧸✝️
+    bio: >-
+      Booking: +7-995-921-83-54 Антон PR Director: +7-916-823-24-09 Ирина Email: booking@musiclegacy.ru Интервью GQ👇🏻
+    location: "Russia"
+    followers: 263769
+    engagement: 1335
+    commentsToLikes: 0.013944
+    id: ck8t2fuv6zbzi0j78ry2hpp83
+    verified: false
+    hashtags: "#mycalvins, #glamourinfluencersawards"
   - username: "lizi_kotenok"
     fullname: >-
       Модель / Model 👸
     bio: >-
       🤗 Лиза Толмачёва & мама Марина 😉 🎤,💃, 🎨, 📽, 📸, #musicLizi ☝️ Run by mom @marinak_2007 📲 По сотрудничеству➡️Директ 🇷🇺 Москва-СПб МА @macaroniskids
     location: "Russia"
-    followers: 22540
-    engagement: 619
-    commentsToLikes: 0.123459
+    followers: 26377
+    engagement: 486
+    commentsToLikes: 0.151280
     id: ck6tpc7kaj0wx0j7166iwlr0q
     verified: false
-    hashtags: "#firdsmodels, #musiclizi, #polkadots, #pati"
-  - username: "ya_krivtsova"
+    hashtags: "#tacos, #littlebigband, #littlebig, #inthemorning"
+  - username: "veronika.snow"
     fullname: >-
-      Евгения Кривцова
+      Your Vintage Soul ❤️
     bio: >-
-      Sexy мама троих✌🏻 Гоняю на Porsche и голодаю по три дня🧘🏻‍♀️ Ругаюсь матом 🤪 🎞TV Host: Music Box ⠀ 🥜 ешь @ohmynuts.store ⠀ 📮krivtsovaPR@ya.ru
+      ✨Vintage girl from Moscow 💄let’s be beautiful together #snow_tutor ⠀ Musicals are literally my life ♥️ ⠀ DM for collaboration👋
     location: "Russia"
-    followers: 3010240
-    engagement: 345
-    commentsToLikes: 0.124086
-    id: ck137wbn1ddkx0i19f8lqkv4x
+    followers: 7625
+    engagement: 724
+    commentsToLikes: 0.108700
+    id: ck8t28dp1yioh0j78pykrnfga
     verified: false
-    hashtags: "#sunsiyam, #olhuveli, #sunsiyamresorts, #maldives"
-  - username: "anna_radchenko"
-    fullname: >-
-      Режиссёр с Марса 🎬
-    bio: >-
-      🎥Клиенты: Nike, Warner music, Vogue 🇬🇧Живу в Лондоне 🤝Знаю, как подружить искусство и 💶 🔥Онлайн курсы, меняющие карьеры и жизни 🎙Подкаст «Прорыв»
-    location: "Russia"
-    followers: 105823
-    engagement: 461
-    commentsToLikes: 0.040160
-    id: ck5pw2dzikrsa0i11jr5l0w8r
-    verified: false
-    hashtags: ""
-  - username: "avivagelfermundl"
-    fullname: >-
-      Aviva✨Aвива✨
-    bio: >-
-      Vaganova Ballet Academy ‘20 ➡️ @bostonballet ‘18 Prix de Lausanne Prize Winner/Vaganova Prix 🥈18 Music Center Grandprize/DDS model
-    location: "Russia"
-    followers: 7889
-    engagement: 1417
-    commentsToLikes: 0.026510
-    id: ckap73954ig720i78sdakn2jt
-    verified: false
-    hashtags: "#balletworld, #worldofballet, #ballet, #dancephotography"
-  - username: "narcismusic"
-    fullname: >-
-      Narcis Iustin Ianau
-    bio: >-
-      New music video out now 👇
-    location: "Russia"
-    followers: 8589
-    engagement: 934
-    commentsToLikes: 0.061015
-    id: ck9haph18diit0j78fmu0qk1b
-    verified: false
-    hashtags: "#eyes, #singer, #world, #singing"
-  - username: "_comrade"
-    fullname: >-
-      🐁 COMRADE* 🌈 Moscow, RU
-    bio: >-
-      artist ✷ designer ✷ musician ✷ influencer ✷ mental person ✷ riot grrrl 🖍art 🖇tattoo @ownhead_ 🎨@ocdd_fun 🎤vocal @fatherssins_ 🎸bass @frienemies_punk
-    location: "Russia"
-    followers: 37842
-    engagement: 1071
-    commentsToLikes: 0.016888
-    id: ck14h0zq1801o0i19jpbbgf9v
-    verified: false
-    hashtags: "#squier, #monkistyle, #picsart, #comrade"
+    hashtags: "#vintageautumn, #pinupgal, #vintagelady, #fifties"
   - username: "hayrzamanov"
     fullname: >-
       🎹Альберт Хайрзаманов🎹
     bio: >-
       Albert | Professional Musician Booking: +7-919-322-03-42 Pianist🎹 Saxophonist 🎷 Guitar player🎸 Singer🎤
     location: "Russia"
-    followers: 7279
-    engagement: 618
-    commentsToLikes: 0.115601
+    followers: 7934
+    engagement: 703
+    commentsToLikes: 0.101490
     id: ck6u61dl0cz750j71q05buzr5
     verified: false
-    hashtags: "#tiktokrussia, #saxophone, #piano, #pianocover"
+    hashtags: "#russiansingers, #russia, #music, #tiktok"
   - username: "yella_kg"
     fullname: >-
       Елла 🎙
     bio: >-
       Назгуль Токтакунова Победитель проекта «Резидент ТНТ Music» 🇷🇺 Автор песен / Поэт / Исполнитель 🎙 «Пончик» 👇🏻👇🏻👇🏻
     location: "Russia"
-    followers: 335213
-    engagement: 162
-    commentsToLikes: 0.031894
+    followers: 362603
+    engagement: 178
+    commentsToLikes: 0.037088
     id: ck14hbmwp9i8v0i19uhqvc78x
     verified: false
-    hashtags: "#nofilter, #ilg, #iloveyoumom"
-  - username: "anastasia_rafalovskaya"
+    hashtags: "#myall, #marygu, #cover, #yella"
+  - username: "rinal_mukhametov"
     fullname: >-
-      Anastasia Rafalovskaya
+      Риналь Мухаметов
     bio: >-
-      TV Host on Music Box Founder & Editor -in-Chief "BALLARE MAGAZINE"
+      Music: RINAL Попечитель фонда @podarizhizn Agent: +79154658009 (Suzanna) rinalmukhametov@gmail.com
     location: "Russia"
-    followers: 252432
-    engagement: 160
-    commentsToLikes: 0.034233
-    id: ck6tpe63zjcol0j71nnd90ukg
+    followers: 84816
+    engagement: 824
+    commentsToLikes: 0.011354
+    id: ck5btend4ftrf0i1181hdlms8
+    verified: true
+    hashtags: "#finolhumaldives, #seasidefinolhu, #finolhu, #cosmopolitanmanawards"
+  - username: "evgenyfist"
+    fullname: >-
+      EVGENY FIST
+    bio: >-
+      Musician, writer, author of 2 bestsellers Founder @outfofame @hollagallery ✉️ evgenyfist@gmail.com ⬇️⬇️⬇️NEW SONG🔥
+    location: "Russia"
+    followers: 162820
+    engagement: 373
+    commentsToLikes: 0.026182
+    id: ck13c3ek9yfgg0i19vmpgtqef
     verified: false
-    hashtags: ""
+    hashtags: "#nikesb"
 ---

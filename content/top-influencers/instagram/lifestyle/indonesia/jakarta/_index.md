@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Jakarta In 2022
+title: Top 10 Lifestyle Instagram Influencers In Jakarta In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Jakarta in 2022. Most popular hashtags: #lifestyle #jakarta #dirumahaja.
+  Find top lifestyle Instagram influencers in Jakarta in 2023. Most popular hashtags: #lifestyle #skincare #fashion.
 platform: Instagram
-hits: 118
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 118 Instagram influencers like this in Jakarta, Indonesia for you to contact.
+hits: 89
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 89 Instagram influencers like this in Jakarta, Indonesia for you to contact.
 profiles:
-  - username: "onihoironi"
+  - username: "dody_sportisi"
     fullname: >-
-      Travel & Lifestyle | Jakarta
+      Dody Syahputra WFF PRO 🇮🇩
     bio: >-
-      🌈 Preset Lightroom > @warnabyoni 🚶Travel, Lifestyle & Hotel Blogger 👨🏼‍💻 Digital Nomad Lifestyle 📍 Jakarta - Bali
+      -Athlete Nutrabolics Indonesia -Wffpro -Mensphysique -Personal Trainer Freeland Youtube channel:
     location: "Indonesia"
-    followers: 25929
-    engagement: 184
-    commentsToLikes: 0.143712
-    id: ck0vybx2l37zl0i19at00lylk
+    followers: 35573
+    engagement: 131
+    commentsToLikes: 0.031079
+    id: ck5pvud9ijohb0i11oeym2b09
     verified: false
-    hashtags: "#nusapenida, #hsbcindonesia, #senggigibeach, #beautifulplace"
+    hashtags: "#nabbawff, #on, #mensphysique, #lifestyle"
+  - username: "lrtjkt"
+    fullname: >-
+      LRT Jakarta
+    bio: >-
+      #LRTJakarta Official Account of PT LRT Jakarta Member of Jakpro Group ☎️ CARLA : 021 - 508 999 09
+    location: "Indonesia"
+    followers: 82521
+    engagement: 30
+    commentsToLikes: 0.013105
+    id: ck0vyb8ny34ev0i19fyqzg8xt
+    verified: true
+    hashtags: "#lrtjkt, #imlekdirumahaja, #cintalrtj, #phbs"
   - username: "evitakezia"
     fullname: >-
       e v i t a k e z i a🐰
     bio: >-
-      Fashion • Beauty • Lifestyle 📍Jakarta, ID 💌 evitakeziaa@gmail.com 💄@modelmakeup.evitakez
+      Fashion • Beauty • Lifestyle 📍Jakarta, ID 💌 evitakeziaa@gmail.com
     location: "Indonesia"
-    followers: 32893
-    engagement: 440
-    commentsToLikes: 0.087003
+    followers: 34897
+    engagement: 366
+    commentsToLikes: 0.063822
     id: ck5zoxop5rkhf0i14p8a3rvcr
     verified: false
-    hashtags: "#tabula, #tabulafriends, #summerwithmates, #summermakeuplook"
-  - username: "tarigansilangit_"
+    hashtags: "#tenagax, #xtratenaga, #xtrasemangat, #betterhooman"
+  - username: "onihoironi"
     fullname: >-
-      ᗪᕼT
+      Travel & Lifestyle | 📍Bali 🌴
     bio: >-
-      KALAK KARO 🧚‍♀️ Fashion, Lifestyle 📍 Jakarta, ID 💌 Business inquires : DM @oninfluencer @millenial.modelagency New Video
+      📧 For business +6285155089114 (Rian) 🚶Travel, Lifestyle & Hotel Blogger 👨🏼‍💻 Digital Nomad Lifestyle 📍 Jakarta - Bali 🌴 @onipresets
     location: "Indonesia"
-    followers: 31624
-    engagement: 202
-    commentsToLikes: 0.030113
-    id: ck136ovqx7jac0i19sdfonvnu
+    followers: 53708
+    engagement: 225
+    commentsToLikes: 0.039625
+    id: ck0vybx2l37zl0i19at00lylk
     verified: false
-    hashtags: "#kalakkarokerina, #borubatak, #bataakhitss, #batakpariban"
+    hashtags: "#oni, #terbangaman, #wonderfulindonesia, #diindonesiaaja"
   - username: "arumi_ningsih1"
     fullname: >-
       GIVEAWAY - Arumi ningsih
     bio: >-
-      Beauty||lifestyle||motherhood 📧 Arumie_01@yahoo.com @sociolla disc voucher 50k --> SBN043157
+      Beauty||lifestyle||motherhood 📧 Arumie_01@yahoo.com https://www.ruminingsih.com/2020/12/pentingnya-manfaat-air-untuk-kulit-aqua.html?m=1
     location: "Indonesia"
-    followers: 44773
-    engagement: 439
-    commentsToLikes: 0.053561
+    followers: 53562
+    engagement: 328
+    commentsToLikes: 0.054977
     id: ck6u0t59qhm2e0j71fn9u5vls
     verified: false
-    hashtags: "#mynudemood, #beautyblogger, #clozetteid, #mominfluencer"
-  - username: "stevenwang27"
+    hashtags: "#skincare, #clozzeteid, #clozetteid, #anti"
+  - username: "christina_chandraa"
     fullname: >-
-      STEVEN WANG | LIFESTYLE & FOOD
+      𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓪 𝓬𝓱𝓪𝓷𝓭𝓻𝓪
     bio: >-
-      📮: dearstevenwang@gmail.com 💡: @kaiaproject 🧵: @castor.apparel 🌶 : @sambalgusti More TIPS at TikTok👇🏻 #SOLATIPS SQUAD
+      📍 Jakarta,Indonesia. Lifestyle blogger & full time mom #christinachandraareview ✨ business inquiries 💌 Tap here 🫶🏼 👇🏼
     location: "Indonesia"
-    followers: 74788
-    engagement: 127
-    commentsToLikes: 0.037403
-    id: ck13agjkvqa6t0i199p48mj6z
+    followers: 104042
+    engagement: 138
+    commentsToLikes: 0.085619
+    id: ck8t0gbe7rytw0j78yib1ck3c
     verified: false
-    hashtags: "#jakartainfluencer, #lifestyle, #jktfoodies, #influencerjakarta"
+    hashtags: "#momlife, #traveling, #lifestyleblogger, #skincare"
+  - username: "glowliciousme"
+    fullname: >-
+      Lily Kanaya • Blogger
+    bio: >-
+      Phil 4.6 🌿 #JBBinsider @jakartabeautyblogger 📍Jakarta Beauty & Lifestyle Blogger 📷 Sony A6400 50mm 1.8 ✉️ hi@glowlicious.me
+    location: "Indonesia"
+    followers: 37571
+    engagement: 139
+    commentsToLikes: 0.106619
+    id: ck8tbgr1tvlpu0j78y9wd6yro
+    verified: false
+    hashtags: "#abskincare, #tipsmakeupnatural, #365inskincare, #crueltyfreeskincare"
   - username: "chelsyalaurent"
     fullname: >-
       Chelsya Laurent
     bio: >-
       📍Jakarta, ID 🇮🇩 Lifestyle | Beauty | Fashion | Travel 💌: Chelsya0310@gmail.com
     location: "Indonesia"
-    followers: 87350
-    engagement: 443
-    commentsToLikes: 0.007487
+    followers: 87607
+    engagement: 467
+    commentsToLikes: 0.009606
     id: ck5q846n34cnm0i11dou0pfek
     verified: false
-    hashtags: "#mbvgroup, #kulogroup, #teammotahu, #tahuwalikaja"
-  - username: "viennaelfira"
+    hashtags: "#misshaindonesia, #toner, #321glow, #dirumah"
+  - username: "mr.njoo"
     fullname: >-
-      Vienna Elfira Putri
+      Chris Njoo
     bio: >-
-      Fashion/Health/Lifestyle/Beauty 📍Jakarta / Bali 5 - 16 Nov ———— Founder of @levien.studio ✨ For inquiries: DM 💌 @belongs_2you (Preloved)
+      Lifestyle - Fashion - Travel 📍 Jakarta 📩 njooisme@gmail.com 📺 YOUTUBE :
     location: "Indonesia"
-    followers: 164463
-    engagement: 112
-    commentsToLikes: 0.012283
-    id: ck6ud3sysiz9z0j71f66tah32
+    followers: 83203
+    engagement: 197
+    commentsToLikes: 0.021984
+    id: ck5c42t1r0j440i119yizk5dk
     verified: false
-    hashtags: "#happysaturdayeveryone, #betterlouderclearerqcyt7"
-  - username: "nrfitriayn"
+    hashtags: "#casetifysea, #valuelifebetter, #ilovecosrx, #temancosrx"
+  - username: "kalistaiskandar"
     fullname: >-
-      Fitri
+      Kalista Iskandar
     bio: >-
-      💡Beauty | Lifestyle | Food 📍 Jakarta, Indonesia 🛍🛒Voucher "SBN04B069" 50k @sociolla
+      ID ft. AL 2021: Year of Reorganizing 💖 3rd RU Puteri Indonesia 2020 📩 DM for Business Enquires #UncoveringIndonesia
     location: "Indonesia"
-    followers: 24300
-    engagement: 370
-    commentsToLikes: 0.051341
-    id: ck9wgq5kkuhsi0j78xrn6kvr3
+    followers: 56555
+    engagement: 333
+    commentsToLikes: 0.015633
+    id: ck8t030avqnr20j78j3hldo72
     verified: false
-    hashtags: "#likeforlikes, #serudirumah, #ngepopmie, #like4likes"
-  - username: "kelvinkosasih"
-    fullname: >-
-      Lifestyle || Fashion || Food
-    bio: >-
-      Social Media Influencer @castor.apparel @peonydecoration #Super9Boyz 📩Kelvinkosasih.castor@gmail.com
-    location: "Indonesia"
-    followers: 75006
-    engagement: 108
-    commentsToLikes: 0.060573
-    id: ck1362bo74et70i1924ro64kb
-    verified: false
-    hashtags: "#temankepo, #dirumahaja, #indomen, #watch"
-  - username: "kabar_otomotif"
-    fullname: >-
-      Kabar otomotif
-    bio: >-
-      #AUTOMOTIVE | #REVIEW | #MOBIL | #MOTOR | #EVENT Kabar informasi,Update seputar dunia otomotif . Dm for paid promote & media partner . YOUTUBE 👇👇👇👇
-    location: "Indonesia"
-    followers: 66307
-    engagement: 383
-    commentsToLikes: 0.008452
-    id: ck13al1tdqwd90i19ythl8ydw
-    verified: false
-    hashtags: "#gettinlow, #automotive, #jakarta, #bmw"
+    hashtags: "#green, #potd, #instagram, #instawalk"
 ---

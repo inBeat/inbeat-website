@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In India In 2022
+title: Top 10 Nutrition Instagram Influencers In India In 2023
 description: >-
-  Find top nutrition Instagram influencers in India in 2022. Most popular hashtags: #fashion #love #desi.
+  Find top nutrition Instagram influencers in India in 2023. Most popular hashtags: #lifestyle #fitness #health.
 platform: Instagram
-hits: 325
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 325 Instagram influencers like this in India for you to pitch.
+hits: 194
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 194 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "nicolehuber90"
-    fullname: >-
-      Nicole Huber
-    bio: >-
-      ☆Health & Nutrition Coach IIN® ⍙ Yoga Teacher RYT500 ♡Facilitadora del Sistema Isha® ≛Centro de Bienestar @c.u.m.a.n.a ♡Eco Life Encontrando libertad☆
-    location: "India"
-    followers: 111964
-    engagement: 242
-    commentsToLikes: 0.096602
-    id: ck0u9t977altr0i191ky8lq95
-    verified: true
-    hashtags: "#novaseo, #temerecestodo, #ohyeah, #volveraloesencial"
-  - username: "deepikashindey_"
-    fullname: >-
-      Deepika Shindey
-    bio: >-
-      Fashion designer, Stylist and Influencer.🥂 👗- @stash__official 💪🏻- @nutritionubydee 📍Indore, India. G R A T E F U L 🌑
-    location: "India"
-    followers: 5547
-    engagement: 1098
-    commentsToLikes: 0.066062
-    id: ck8t4k7to723q0j78xyjhpukx
-    verified: false
-    hashtags: "#ootdfashion, #bloggerofindore, #fishnet, #nudedress"
-  - username: "winged__girl"
-    fullname: >-
-      Mrittika |Kolkata Blogger|
-    bio: >-
-      #Beauty#Fashion#Lifestyle Bong 👩🇮🇳 Professional singer🎤 Nutritionist🎓 4th August🎂 My Music Profile @mrittikaformusic DM/Email for Business queries👇
-    location: "India"
-    followers: 109838
-    engagement: 184
-    commentsToLikes: 0.054415
-    id: ck15uywsrp56x0i19wve2f57h
-    verified: false
-    hashtags: "#thankyougod, #indianluxuryblogger, #beautyblogger, #musician"
-  - username: "kaurwhopaints"
-    fullname: >-
-      Harpreet kaur
-    bio: >-
-      ▫️ Clinical Nutritionist👩🏻‍⚕️🥗 ▪️ Surat🌇
-    location: "India"
-    followers: 6399
-    engagement: 1845
-    commentsToLikes: 0.022792
-    id: ck5hkk7yqikmb0i11lj6wvspr
-    verified: false
-    hashtags: "#550gurpurab, #srigurugobindsinghji, #basantwedsaish, #gabbar"
-  - username: "vasumittal"
-    fullname: >-
-      VM 🇻🇮
-    bio: >-
-      Aesthetic revolutionist Founder & CEO: @vm.nutrition Train with me👇
-    location: "India"
-    followers: 516830
-    engagement: 801
-    commentsToLikes: 0.007445
-    id: ck8t2q9900c3d0j78f4en6qja
-    verified: true
-    hashtags: "#blueskies, #outsideworkout, #trainingmotivation, #growandglow"
-  - username: "imambikadutt"
-    fullname: >-
-      Ambika Dutt
-    bio: >-
-      |Nutritionist| Content creator| Founder @shapetutor_
-    location: "India"
-    followers: 362349
-    engagement: 363
-    commentsToLikes: 0.017436
-    id: ck138gls5g4vl0i19espus3bq
-    verified: false
-    hashtags: "#onionoil, #grandeuronionrange, #festiveseason, #quads"
   - username: "rohitkhatrifitness"
     fullname: >-
       Rohit Khatri
     bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : business@rohitkhatri.co.in 🔹Dm For Paid Online Coaching 📝 🔹India’s no. 1 Fitness Channel (YouTube)
+      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
     location: "India"
-    followers: 406104
-    engagement: 802
-    commentsToLikes: 0.005134
+    followers: 614738
+    engagement: 467
+    commentsToLikes: 0.004563
     id: ck8wd6rbxdgf00j78gz3so4nb
     verified: false
-    hashtags: "#fitness, #chest, #shoulder, #menshair"
+    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
+  - username: "ifbbpro_jkaliwala"
+    fullname: >-
+      Junaid Kaliwala
+    bio: >-
+      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
+    location: "India"
+    followers: 333970
+    engagement: 247
+    commentsToLikes: 0.010723
+    id: ck5hrf80lurx60i11laqzr2nh
+    verified: true
+    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
+  - username: "komalchhikara1"
+    fullname: >-
+      Komal Chhikara Rathi
+    bio: >-
+      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
+    location: "India"
+    followers: 83159
+    engagement: 344
+    commentsToLikes: 0.013813
+    id: ck9hb43p6fbsm0j78er6ip0aq
+    verified: false
+    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
+  - username: "manthanpatelia"
+    fullname: >-
+      Manthan Patelia
+    bio: >-
+      🤾‍♂️ Young hustler filled with positivity 🛩 Globetrotter 🌿 Nutrition & wellness advisor 🕶 Expanding Empire 🎖 Founders Platinum @amway @xsnation
+    location: "India"
+    followers: 7364
+    engagement: 1655
+    commentsToLikes: 0.022419
+    id: ckap586zlam0d0i786uqhgqky
+    verified: false
+    hashtags: "#jobsearching, #customizeyourlife, #artistry, #nocaption"
+  - username: "roaming_nutritionist"
+    fullname: >-
+      Ambika Dutt
+    bio: >-
+      Nutritionist on tour✈️ 🌍| Content creator| Founder @shapetutor_ Ambassador @sixpack.nutrition Code -AMBIKA Latest vlog 👇🏻
+    location: "India"
+    followers: 409128
+    engagement: 509
+    commentsToLikes: 0.014259
+    id: ck138gls5g4vl0i19espus3bq
+    verified: false
+    hashtags: "#valentines, #wellness, #energy, #weekend"
+  - username: "hitesh__tekwani_"
+    fullname: >-
+      Hitesh Tekwani
+    bio: >-
+      A software engineer Fitness || Fashion || Lifestyle Jaipur↔️Delhi↔️Mumbai ISSA CERT. Nutritionist Training @hitesh__here_to_train Youtube
+    location: "India"
+    followers: 92511
+    engagement: 523
+    commentsToLikes: 0.024640
+    id: ck9hbr488i4d90j78ku43voux
+    verified: false
+    hashtags: "#life, #gymlife, #skincare, #influencer"
   - username: "theaniray"
     fullname: >-
       THE ANI RAY OFFICIAL
     bio: >-
-      🤵FASHION BLOGGER 📹 INDIAN YOUTUBER (248K+SUBSCRIBERS) 💪FITNESS EXPERT 🥗NUTRITIONIST 📩Collab flair.ani@gmail.Com BACKUP ACCOUNT @therealaniray
+      🤵FASHION BLOGGER 📹 INDIAN YOUTUBER (275k +SUBSCRIBERS) 💪FITNESS EXPERT 🥗NUTRITIONIST ✈️TRAVELER 📩Collab flair.ani@gmail.Com
     location: "India"
-    followers: 24464
-    engagement: 174
-    commentsToLikes: 0.059596
+    followers: 23958
+    engagement: 115
+    commentsToLikes: 0.112775
     id: ck5hhym48aq6u0i119j40ehj2
     verified: false
-    hashtags: "#streetphotography, #outdors, #instareels, #indianyoutuber"
-  - username: "mish_magik"
+    hashtags: "#lifestyle, #life, #poems, #fashion"
+  - username: "julieebaybee"
     fullname: >-
-      Misha Theron
+      Julie
     bio: >-
-      🌠 Believer of Music, Movement and Magik! 🥑 ACE Certified CPT & Fitness Nutrition Specialist
+      👑 Princess Jasmine ✨ Indian/Dominican 🌺 @lotusinfused 💪🏽 @lionedge_nutrition (Julie10 @ checkout) Student . Model . Bartender . Influencer
     location: "India"
-    followers: 7268
-    engagement: 1508
-    commentsToLikes: 0.011927
-    id: ck9whu00izgvv0j78mzwtx0n9
+    followers: 75853
+    engagement: 634
+    commentsToLikes: 0.023002
+    id: ck6u1nad8mree0j719mhuc2z3
     verified: false
-    hashtags: "#indialockdown2020, #quarantinelife, #alwaysfnatic, #insulinresistance"
-  - username: "rachanasinghofficial"
+    hashtags: "#princess, #fantanas, #flavoredsodas, #whodiditbetter"
+  - username: "sanyogitaghorpade"
     fullname: >-
-      𝐑𝐚𝐜𝐡𝐚𝐧𝐚 𝐒𝐢𝐧𝐠𝐡 | 𝐅𝐢𝐭𝐧𝐞𝐬𝐬 𝐂𝐨𝐚𝐜𝐡
+      Sanyogita Ghorpade
     bio: >-
-      𝐅𝐢𝐭𝐧𝐞𝐬𝐬 || 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 || 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 To be NUTRITION CONSULTANT. Simple But Significant 🥰. @internationalprotein.in 📧 rachanait87@gmail.com 𝐘𝐨𝐮𝐓𝐮𝐛𝐞👇🏻
+      Indian Badminton player🇮🇳 Shiv Chatrapati Awardee🏆 Air India athlete✈ Nutrition partner @steadfastnutrition
     location: "India"
-    followers: 120543
-    engagement: 569
-    commentsToLikes: 0.027574
-    id: ck5zxzwjr8z4a0i144gsvp0pr
+    followers: 11707
+    engagement: 623
+    commentsToLikes: 0.036608
+    id: ck602nooyi6990i14wfqq2pg1
     verified: false
-    hashtags: "#girlwhotravels, #cutegirlsonly, #bollywood, #goodvibestribe"
+    hashtags: "#feels, #happysoul, #badmintongirl, #goodvibes"
+  - username: "chhillar.mohit"
+    fullname: >-
+      Mohit Chhillar
+    bio: >-
+      Indian Kabaddi Player.. PKL Season-1 2 3 UMumba ..4 bulls...5 Haryana..6 Panthers..7 Tamil thalivas💪.Wish me on 13 July 🎂Divine Nutrition Athlete🙏
+    location: "India"
+    followers: 98996
+    engagement: 527
+    commentsToLikes: 0.006048
+    id: ck0vwenpgtcmp0i199obn64i7
+    verified: true
+    hashtags: "#frnds, #lifefitness, #enjoymarriagefunction, #daughterlove"
 ---

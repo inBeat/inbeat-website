@@ -1,96 +1,72 @@
 ---
-title: Top 10 TikTok Influencers In Porto In 2022
+title: Top 10 TikTok Influencers In Porto In 2023
 description: >-
-  Find top TikTok influencers in Porto in 2022. Most popular hashtags: #fyp #foryou #foryoupage #portugal.
+  Find top TikTok influencers in Porto in 2023. Most popular hashtags: #fyp #foryou #fy #portugal.
 platform: TikTok
-hits: 48
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 48 TikTok influencers like this in Porto, Portugal for you to contact.
+hits: 42
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 42 TikTok influencers like this in Porto, Portugal for you to work with.
 profiles:
   - username: "iasmynesampaio"
     fullname: >-
       Iasmyne Sampaio
     bio: >-
-      170k? 🥰 Meu nome é IASMYNE, não Inês. ❤️ BR vivendo no Porto-PT.📍 Insta 👇🏽
+      200k? 🥰 Meu nome é IASMYNE, não Inês. ❤️ BR vivendo no Porto-PT.📍 Insta 👇🏽
     location: "Portugal"
-    followers: 162100
-    engagement: 2294
-    commentsToLikes: 0.022953
+    followers: 181000
+    engagement: 1777
+    commentsToLikes: 0.036948
     id: ckbqq7vjib4ti0j23e105r34b
     verified: false
-    hashtags: "#foryoupage, #fyp, #caradesemgra"
-  - username: "beatrizcerqueiraneves"
+    hashtags: "#foryou, #fyp, #xyzbca, #deixadeondachallenge"
+  - username: "nadinesilvaalmeida"
     fullname: >-
-      Bea Cerqueira
+      Nadine Silva Almeida
     bio: >-
-      Brasileira 🇧🇷, Morando no Porto 🇵🇹! 😉
+      Capeverdian🇨🇻 📍Porto Portugal https://pay.hotmart.com/D41976246I?bid=1605316
     location: "Portugal"
-    followers: 9241
-    engagement: 721
-    commentsToLikes: 0.069030
-    id: ckc8fusijah9d0j2366y9jyp8
+    followers: 263400
+    engagement: 865
+    commentsToLikes: 0.019153
+    id: ck9ng9fdjf1qf0j78kb4qseaf
     verified: false
-    hashtags: "#tiktok, #funny, #fup, #foru"
+    hashtags: "#fy, #challenge, #criola, #ootd"
   - username: "heymateportugal"
     fullname: >-
       heymateportugal
     bio: >-
       Só malucos nesta empresa 🤡 🇵🇹Lisboa•Cascais•Porto 🛵Entregas em Casa👇🏽
     location: "Portugal"
-    followers: 227300
-    engagement: 1924
-    commentsToLikes: 0.013760
+    followers: 281600
+    engagement: 1576
+    commentsToLikes: 0.011811
     id: ckdcl3t6tn7q70j23er9e17um
     verified: false
-    hashtags: "#foryou, #nutella, #heymateportugal, #halloween"
-  - username: "nadinesilvaalmeida"
+    hashtags: "#porto, #fyp, #fazerumgelado, #heymateportugal"
+  - username: "beatrizcerqueiraneves"
     fullname: >-
-      Nadine Silva Almeida
+      Bea Cerqueira
     bio: >-
-      Capeverdian🇨🇻 📍Porto Portugal
+      Brasileira 🇧🇷, Morando no Porto 🇵🇹! 😉
     location: "Portugal"
-    followers: 227900
-    engagement: 1066
-    commentsToLikes: 0.010450
-    id: ck9ng9fdjf1qf0j78kb4qseaf
+    followers: 9862
+    engagement: 705
+    commentsToLikes: 0.071590
+    id: ckc8fusijah9d0j2366y9jyp8
     verified: false
-    hashtags: "#junteaspe, #linhacongelante"
+    hashtags: "#tiktok, #fy, #viral, #parati"
   - username: "loryhecker"
     fullname: >-
       Lourenço Hecker
     bio: >-
-      Porto, Portugal 🇵🇹 Half Portuguese, Half German ❤️
+      Porto, Portugal 🇵🇹 Half Portuguese, Half German Studying Journalism
     location: "Portugal"
-    followers: 154900
-    engagement: 1099
-    commentsToLikes: 0.022268
+    followers: 154200
+    engagement: 1084
+    commentsToLikes: 0.022361
     id: ckcdyhqvlgo6d0j23tqm0s0bf
     verified: true
-    hashtags: "#comedy, #fypage, #foryou, #foryoupage"
-  - username: "marianaoribeiro"
-    fullname: >-
-      Mariana Ribeiro
-    bio: >-
-      — A minha vida em Barcelona — Porto - Barcelona 🇪🇸 YouTube 👇🏽
-    location: "Portugal"
-    followers: 52100
-    engagement: 1028
-    commentsToLikes: 0.011052
-    id: ckb9e5pl01p280j239ln47un2
-    verified: false
-    hashtags: "#barcelona, #dicasdemarketing, #barcelonaspain, #influenciadordigital"
-  - username: "rafabessa__"
-    fullname: >-
-      ▫️Rafabessa 🧿
-    bio: >-
-      100K ainda este ano ? 🔳 22y 🔳 Porto 🔳 Fui feito para te animar 😂
-    location: "Portugal"
-    followers: 54400
-    engagement: 867
-    commentsToLikes: 0.032950
-    id: ckbfca2fs51870j23a30o8wwk
-    verified: false
-    hashtags: ""
+    hashtags: "#voiceactor, #foryoupage, #comedia, #xbyzca"
   - username: "francisco.silva7"
     fullname: >-
       Francisco Silva
@@ -103,28 +79,52 @@ profiles:
     id: cka0uj17wugzq0i781c4ziir5
     verified: false
     hashtags: "#xicomontanelas, #xaninha"
+  - username: "marianaoribeiro"
+    fullname: >-
+      Mariana Ribeiro
+    bio: >-
+      - Dicas para redes sociais - Porto ➡️ Barcelona 🇪🇸 A minha marca👇🏽
+    location: "Portugal"
+    followers: 63000
+    engagement: 1017
+    commentsToLikes: 0.009097
+    id: ckb9e5pl01p280j239ln47un2
+    verified: false
+    hashtags: "#truquesiphone, #appsfotos, #dicasredessociais, #truquesfotos"
+  - username: "tiagocouto3"
+    fullname: >-
+      Tiago Couto
+    bio: >-
+      📍 Porto, Portugal 🇵🇹
+    location: "Portugal"
+    followers: 5726
+    engagement: 832
+    commentsToLikes: 0.035005
+    id: cka8e7h2vw7ds0i789izl8ibf
+    verified: false
+    hashtags: "#furunfa, #backtoworkbisssh, #2345meia78, #positiva"
   - username: "augustoygor"
     fullname: >-
       Augusto Ygor Machado
     bio: >-
       Filmmaker, editor & producer Porto, Portugal
     location: "Portugal"
-    followers: 16800
-    engagement: 883
-    commentsToLikes: 0.026127
+    followers: 16600
+    engagement: 957
+    commentsToLikes: 0.027393
     id: ckcdyhf31gnng0j23m4aabwt9
     verified: false
-    hashtags: "#portugal, #filmmaker, #porto, #oporto"
-  - username: "anafilipasilva"
+    hashtags: "#oporto, #portugal, #porto, #fyp"
+  - username: "fabioalmeida992"
     fullname: >-
-      Ana Filipa Silva
+      Fabio Almeida
     bio: >-
-      19y Porto, Portugal 🤍
+      🙅🏼‍♂️fabio Almeida 🌍 Porto
     location: "Portugal"
-    followers: 14200
-    engagement: 774
-    commentsToLikes: 0.005643
-    id: ck9evgq2aibs20j784n2efgv2
+    followers: 11600
+    engagement: 457
+    commentsToLikes: 0.010986
+    id: cka7p1d9e5bdv0i78eh0ups34
     verified: false
-    hashtags: "#foryou, #foryoupage, #fyp, #portugal"
+    hashtags: "#2020, #potugal, #2021, #suzuki"
 ---

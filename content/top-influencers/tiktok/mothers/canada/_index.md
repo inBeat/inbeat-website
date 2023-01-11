@@ -1,84 +1,108 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Canada In 2022
+title: Top 10 Mothers TikTok Influencers In Canada In 2023
 description: >-
-  Find top mothers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #duet #foryoupage #happyhalloween.
+  Find top mothers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #love #valentinesday.
 platform: TikTok
-hits: 296
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 296 TikTok influencers like this in Canada for you to pitch.
+hits: 394
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 394 TikTok influencers like this in Canada for you to pitch.
 profiles:
+  - username: "formativefox"
+    fullname: >-
+      foxy
+    bio: >-
+      🦈ocean mother 🌊 single 💜let's spread the glow 💙 my tags:#foxyteam #glowverse
+    location: "Canada"
+    followers: 661300
+    engagement: 2453
+    commentsToLikes: 0.035066
+    id: ck80716kcnt950j78iael4jo6
+    verified: false
+    hashtags: "#valentinesday, #glowverse, #jellyfishchan, #universechan"
+  - username: "packmentality"
+    fullname: >-
+      Nik
+    bio: >-
+      @glitterandgore vet assistant, bathbomb maker, mother of dawgs. And cat. 🙄
+    location: "Canada"
+    followers: 69700
+    engagement: 2257
+    commentsToLikes: 0.091450
+    id: ck9ndea2fcrcw0j78rm7en8pu
+    verified: false
+    hashtags: "#valentinesday, #fyp, #horrormovie, #colddays"
   - username: "barefootsue"
     fullname: >-
       Barefoot Sue
     bio: >-
       Serving humanity inspiring others to remember Mother Nature🍁 Love ice baths❄️
     location: "Canada"
-    followers: 183400
-    engagement: 2010
-    commentsToLikes: 0.036593
+    followers: 179200
+    engagement: 1377
+    commentsToLikes: 0.033331
     id: cka0p26lt6fbj0i78074e5ntm
     verified: false
-    hashtags: "#soletosoul, #isolation, #biohack, #mothernature"
-  - username: "make.a.mess_art.studio"
-    fullname: >-
-      Nahthanha🎨😁
-    bio: >-
-      Artist 👩🏼‍🎨 Business owner Mother of 3kids 2dogs 2cats
-    location: "Canada"
-    followers: 108600
-    engagement: 2937
-    commentsToLikes: 0.045050
-    id: ckavnnig9y1830j23y71u5ksq
-    verified: false
-    hashtags: "#makeamess, #fyp, #artist, #dayinthelifeofanentrepreneur"
-  - username: "ryanne_alecia"
-    fullname: >-
-      Ryanne Alecia
-    bio: >-
-      I’m a mom of sassy girls that enjoys sharing my chaotic motherhood journey 💜
-    location: "Canada"
-    followers: 43300
-    engagement: 1364
-    commentsToLikes: 0.117147
-    id: ckacstz8ebruj0i78aux71k0s
-    verified: false
-    hashtags: "#girlmommax3, #ryanne, #sassymomofsassygirls, #momcontent"
-  - username: "truckingmomma"
+    hashtags: "#spring, #love, #barefootsue, #isolation"
+  - username: "truckingmomma_tarot"
     fullname: >-
       Melissa Galvin
     bio: >-
       ®️🔞🇨🇦 wife, mother N’ longhaul trucker #tmcrazytrain #TMCrazyTrain
     location: "Canada"
-    followers: 14700
-    engagement: 1156
-    commentsToLikes: 0.109863
+    followers: 16400
+    engagement: 1497
+    commentsToLikes: 0.081665
     id: ckamuye141alt0i784eocxkxl
     verified: false
-    hashtags: "#canadiantrucker, #family, #truckerfamily, #tmcrazytrain"
+    hashtags: "#otrdriver, #duet, #christliketruckers, #tmcrazytrain"
+  - username: "sarahfitmama"
+    fullname: >-
+      Hotmess Xennial Mom Content
+    bio: >-
+      🇨🇦 Wife•Mama•Relatable Motherhood Content 📩 contactsarahfitmama@gmail.com
+    location: "Canada"
+    followers: 121500
+    engagement: 1070
+    commentsToLikes: 0.056334
+    id: ckdcjz6x9lz3e0j233k9bncn6
+    verified: false
+    hashtags: "#mixedfamily, #momhumor, #canadianmom, #parentinghumor"
   - username: "sherisseds"
     fullname: >-
       Mr. Smith's Wife
     bio: >-
       Daughter, sister, wife, mother to 3, grandmother to 2. #over50 God first.
     location: "Canada"
-    followers: 8249
-    engagement: 1149
-    commentsToLikes: 0.139855
+    followers: 10300
+    engagement: 1040
+    commentsToLikes: 0.125135
     id: ckbqpaxooa55h0j23nih7qwiv
     verified: false
-    hashtags: "#duet, #interiordesign, #fallfashion, #genx"
+    hashtags: "#over50club, #genx, #duet, #couples"
   - username: "pinkladypitbull1990"
     fullname: >-
       Carey 
     bio: >-
       🇨🇦🇵🇹💍Fun loving mother of 3 little monsters Thick 🍑 Bi sexual...😊Be Nice
     location: "Canada"
-    followers: 16200
-    engagement: 1227
-    commentsToLikes: 0.057265
+    followers: 16400
+    engagement: 1122
+    commentsToLikes: 0.059851
     id: ck9fdr5f8pu7y0j78yuojoexh
     verified: false
-    hashtags: "#foryoupage, #duetwithme, #duet, #ottawa"
+    hashtags: "#tatted, #foryoupage, #fyp, #duet"
+  - username: "caitlinfladager"
+    fullname: >-
+      Caitlin Fladager
+    bio: >-
+      Telling my truth about mental health, marriage, and motherhood. ♡ 🇨🇦
+    location: "Canada"
+    followers: 1800000
+    engagement: 1950
+    commentsToLikes: 0.010184
+    id: ckdhoscty136d0j23qlmzpldu
+    verified: false
+    hashtags: "#kidsmentalhealth, #foryoupage, #repost, #fyp"
   - username: "j_a_s_s_y_m"
     fullname: >-
       J@ssy M
@@ -86,45 +110,21 @@ profiles:
       I'am a bitch, I'm a lover, I'm a child, I'm a mother 😜
     location: "Canada"
     followers: 11500
-    engagement: 672
-    commentsToLikes: 0.084914
+    engagement: 630
+    commentsToLikes: 0.086358
     id: ckcpc8pz4fik80j23p8mcfcz8
     verified: false
-    hashtags: "#spirit, #connerie, #autumn, #notrump2020"
-  - username: "meganwalker3"
+    hashtags: "#noteam, #nohate, #spirit, #dog"
+  - username: "the_robbinsnest"
     fullname: >-
-      Megan Walker
+      Ashley 🎀
     bio: >-
-      Teacher, Mother, Girlfriend, Friend, Loud and Funny🌈♥️🇨🇦
+      +the ‘insta ⬆️ Helping you laugh through motherhood🎀the.robbinsnest@hotmail.com
     location: "Canada"
-    followers: 186000
-    engagement: 1739
-    commentsToLikes: 0.029105
-    id: ckdtc7tu7v00r0j230e5suixf
+    followers: 54300
+    engagement: 608
+    commentsToLikes: 0.076209
+    id: ck8kg0q0fgf260j787cvugeq0
     verified: false
-    hashtags: "#juniorhighteacher, #novascotiateacher, #duet, #lgbtqteacher"
-  - username: "yayabide"
-    fullname: >-
-      Jaya + Cedes
-    bio: >-
-      blogTO girl & her mother IG: @itsbenzy / @jayaaarora
-    location: "Canada"
-    followers: 12900
-    engagement: 777
-    commentsToLikes: 0.042175
-    id: ck8qoc0iaybe00j78pkrar03r
-    verified: false
-    hashtags: "#foryoupage, #fyp, #happyhalloween, #diy"
-  - username: "sheepishly.me"
-    fullname: >-
-      SheepishlyMe
-    bio: >-
-      Wife. Mother. Farmer. But always, Sheepishly Me.
-    location: "Canada"
-    followers: 22800
-    engagement: 1391
-    commentsToLikes: 0.014169
-    id: ckcui9606fzoo0j23lc4nu4v9
-    verified: false
-    hashtags: "#friends, #lambingseason2020, #farmer, #sheepfarmer"
+    hashtags: "#ttct3, #sahmlife, #ttcbabynumber2, #ttcollabz"
 ---

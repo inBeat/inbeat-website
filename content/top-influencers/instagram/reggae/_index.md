@@ -1,130 +1,130 @@
 ---
-title: Top 10 Reggae Instagram Influencers In 2022
+title: Top 10 Reggae Instagram Influencers In 2023
 description: >-
-  Find top reggae Instagram influencers in 2022. Most popular hashtags: #reggaeton #rap #batalladegallos.
+  Find top reggae Instagram influencers in 2023. Most popular hashtags: #gram #dj #cannalogica.
 platform: Instagram
-hits: 2283
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 2283 Instagram influencers like this for you to work with.
+hits: 2291
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 2291 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "lulianmuth"
+  - username: "pendejaonwheels"
     fullname: >-
-      Lucia Anmuth
+      isabella
     bio: >-
-      23✨ 🇦🇷 De Rosario en BS AS .cazzu .adexe y nau Bailándole a la vida 💕 Clases Reggaeton principiante Martes 18 hs 👇🏽 @lacasadabajo
-    location: "Argentina"
-    followers: 7445
-    engagement: 1029
-    commentsToLikes: 0.091682
-    id: ck5c7e2sv7d2e0i1152sgrced
+      🌈 Latina Roller Skater & Actor from Miami ♏️ 🍾1/2 of @perreoenpatines - A queer, reggaeton skate party ‼️ 💌 PendejaOnWheels@Gmail.com
+    location: "United States"
+    followers: 16352
+    engagement: 297
+    commentsToLikes: 0.058756
+    id: ckaotc0z3v9260i78i6dzvshm
     verified: false
-    hashtags: "#nada, #hastaquesesequeelmalecon, #elclubencasa, #bailaquecalor"
+    hashtags: "#rollerskater, #fitness, #rollerdisco, #skills"
   - username: "koniyahhh"
     fullname: >-
       Konya Plummer
     bio: >-
       +Pro footballer @orlpride +Reggae Girlz #5 🇯🇲 +UCF ALUM ⚔️ -Management: @uppervathletes
     location: ""
-    followers: 5383
-    engagement: 1606
-    commentsToLikes: 0.050891
+    followers: 5369
+    engagement: 1573
+    commentsToLikes: 0.048526
     id: ck6uakfwp42700j71cpo2xkvp
     verified: false
-    hashtags: "#skincare, #hemp, #cannalogica, #sweat"
+    hashtags: "#skincare, #cannalogica, #hemp, #cbd"
   - username: "bun_bun10"
     fullname: >-
       Khadija Shaw
     bio: >-
       Reggae Girlz #11 Girondins de Bordeaux 🔵⚪️ @nike Info@avsports.co 🌴 🇯🇲
     location: ""
-    followers: 13464
-    engagement: 1672
-    commentsToLikes: 0.021245
+    followers: 14293
+    engagement: 1650
+    commentsToLikes: 0.020626
     id: ck6u1ckopkxj10j71zda6jblj
     verified: true
-    hashtags: "#stayhome, #fcgb, #fittestofthefittestwillsurvive, #nolimit"
-  - username: "jowwi_lee"
+    hashtags: "#nolimit, #justdoit, #strikehard, #stayhome"
+  - username: "arletterm"
     fullname: >-
-      Candy Cough
+      Arlette Ramirez Marcos
     bio: >-
-      Kvndyswing 💔 REGGAETONIANO 🇨🇺
-    location: "Spain"
-    followers: 5697
-    engagement: 994
-    commentsToLikes: 0.070424
-    id: ck6ufe89awine0j71sak8kawy
-    verified: false
-    hashtags: "#kvndyswing, #siempreestar, #nuevosingle, #distrito2"
-  - username: "veropereira22"
-    fullname: >-
-      Vero Pereira
-    bio: >-
-      🎤RAPERA/HIPHOPERA/REGGAE🎤 Todo lo que crees que no he dicho,búscalo en mis temas.
+      🇲🇽♉️ Embajadora del Reggaeton aka Arly G Host de @trapeoyperreo ✨🖤 @vixenarmymty VXN Master Trainer Co-Founder @latina.tribe 📲 @theinnfluencers
     location: "Venezuela"
-    followers: 21900
-    engagement: 291
-    commentsToLikes: 0.114108
-    id: ck0w2ax69nfvo0i19w010hln1
+    followers: 17918
+    engagement: 789
+    commentsToLikes: 0.103266
+    id: ckf5s67kceu1w0j230hdh93gi
     verified: false
-    hashtags: "#style, #can, #song, #stree"
-  - username: "xtenlovesyou"
+    hashtags: "#loading, #bodychallenge, #eutdm, #badbunny"
+  - username: "djosmancr"
     fullname: >-
-      XTEN
+      
     bio: >-
-      Hey there! ✨I’m a proud Latina & former NFL Dancer who loves traveling, cuddling with my fur baby & listening to reggaeton 🤍 Dαℓℓαѕ, тχ ✭
-    location: "United States"
-    followers: 7146
-    engagement: 930
-    commentsToLikes: 0.106246
-    id: ck6udmve6m0430j712pc51tw0
+      @grlabrand @omr.kong @reggaecr
+    location: ""
+    followers: 10197
+    engagement: 511
+    commentsToLikes: 0.095159
+    id: ck5qef50z06ec0i11jdlz8w5e
     verified: false
-    hashtags: "#dallasinfluencer, #latina, #mentalhealthawareness, #latinainfluencer"
+    hashtags: "#show, #dancehall, #dj, #like"
   - username: "davidramjamrodigan"
     fullname: >-
       David Rodigan MBE. OD.
     bio: >-
-      42 Years in Reggae. BBC 1Xtra Bookings: lucy.putman@paradigmagency.com
+      43 Years in Reggae. BBC 1Xtra Bookings: lucy.putman@paradigmagency.com
     location: "United Kingdom"
-    followers: 85387
-    engagement: 299
-    commentsToLikes: 0.037106
+    followers: 98541
+    engagement: 526
+    commentsToLikes: 0.050940
     id: ck0w6088q6aci0i1923maze4m
     verified: true
-    hashtags: "#letthemusicplay, #blackhistorymonth, #carnival, #thisactuallyhappened"
+    hashtags: "#reggae, #tune, #summer"
+  - username: "homer_elmeromero"
+    fullname: >-
+      H
+    bio: >-
+      @barderos 🔫 MDB CREW. ⬇️ REGGAETON SESSION #3
+    location: "Argentina"
+    followers: 627358
+    engagement: 1271
+    commentsToLikes: 0.006759
+    id: ck0u7oil359c20i19tjoiaq1g
+    verified: true
+    hashtags: ""
   - username: "gracielarodarte"
     fullname: >-
       Graciela
     bio: >-
       reggaetón enthusiast | AZ |
     location: "United States"
-    followers: 6153
-    engagement: 1617
-    commentsToLikes: 0.018799
+    followers: 6125
+    engagement: 1583
+    commentsToLikes: 0.016820
     id: ck8t3xr024vh30j78qotlm6wg
     verified: false
-    hashtags: "#mepuselaspilas"
-  - username: "solomonraymusic"
+    hashtags: ""
+  - username: "bobmarlon_oficial"
     fullname: >-
-      Solomon Ray
+      Marlon Onassis
     bio: >-
-      Retired Reggaetonero. | @santoxsantojewelry
-    location: "United States"
-    followers: 45488
-    engagement: 321
-    commentsToLikes: 0.033733
-    id: ck0ttcs1325zy0i1958aeefhl
-    verified: true
-    hashtags: "#theressomethingaboutmary, #themeaningofmariahcarey, #caymus, #happyhalloween"
+      Bob Marlon - Cantor/Compositor de Natal/RN 🔥#reggaemusic #potiguar #reggaebrasil ⬇️“TODOS PRECISAM DO AMOR”⬇️
+    location: "Brazil"
+    followers: 15396
+    engagement: 248
+    commentsToLikes: 0.116834
+    id: ck5qbqw0umynp0i11az2pvfy9
+    verified: false
+    hashtags: "#tbt, #gratid, #givethanks"
   - username: "rocioragonesi"
     fullname: >-
       Rago🤪
     bio: >-
       Instructora de reggaeton | Bailarina Ed.fisica - UNLAM CANJES/ PUBLICIDAD AL MD @r.rkids @r.r_indumentaria @rragonesi.clases
     location: "Argentina"
-    followers: 34613
-    engagement: 434
-    commentsToLikes: 0.025248
+    followers: 34428
+    engagement: 504
+    commentsToLikes: 0.020843
     id: ck55jq5d4xjo80i111oeisily
     verified: false
-    hashtags: "#reggaeton, #dance, #bailarina, #reggaetonestrella"
+    hashtags: "#twerk, #entucuerporemix, #entucuerpo, #reggaetonestrella"
 ---

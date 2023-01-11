@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In 2022
+title: Top 10 Music Instagram Influencers In 2023
 description: >-
-  Find top music Instagram influencers in 2022. Most popular hashtags: #music #russia #lebanese.
+  Find top music Instagram influencers in 2023. Most popular hashtags: #reels #explore #reelitfeelit.
 platform: Instagram
-hits: 41446
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 41446 Instagram influencers like this for you to collaborate.
+hits: 37165
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 37165 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "jakewebber9"
+  - username: "alisharajput_22"
     fullname: >-
-      Jake Webber
+      Chitra singh
     bio: >-
-      music?
-    location: "United States"
-    followers: 821503
-    engagement: 1274
-    commentsToLikes: 0.010793
-    id: ck13bzobmxxnc0i19spym07qa
+      Actor-Influencer-Music Alisha Rajput Production
+    location: "India"
+    followers: 4248363
+    engagement: 795
+    commentsToLikes: 0.009674
+    id: ck9h9ysh1ai5j0j78gpnw0cx9
     verified: false
-    hashtags: ""
-  - username: "kristinashloma.official"
+    hashtags: "#exploremore, #alisharajput, #dance, #explore"
+  - username: "osloibrahim"
     fullname: >-
-      × MUSIC ×
+      LORD OSLO
     bio: >-
-      ღ Dsds - 2020 - Top 17 ♬ Singer & Musiclover
+      he is wonderful. he is me and i’m him. 📞 : +62 856 7660881 (balian) “he makes music”
+    location: "United States"
+    followers: 49241
+    engagement: 692
+    commentsToLikes: 0.012044
+    id: ck8sz7hthndus0j7894d27aks
+    verified: false
+    hashtags: "#masmaslyfe, #livebold, #tennislyfe, #tenniscourt"
+  - username: "juliengeloen"
+    fullname: >-
+      Julien Geloën
+    bio: >-
+      📩 juliengeloenpro@gmail.com 🏳️🎶 music : @iamblanc 🐯🐯 @superstarbianca 🌞 SUN IS SHINING 🌞 🎥 Tiktok ↙️↙️
+    location: "United States"
+    followers: 437933
+    engagement: 485
+    commentsToLikes: 0.010626
+    id: ck55j15u3w0jk0i11r3rbowyd
+    verified: true
+    hashtags: "#monmomentestheticcenter, #estheticcenter, #thinknewdrinknew, #deltatour"
+  - username: "taina"
+    fullname: >-
+      Tainá Costa
+    bio: >-
+      🐦 Twitter: eutainacosta 📬 @showdatai CONFIRA MÚSICA NOVA LOVEZINHO, AQUI👇🏼
+    location: "Brazil"
+    followers: 16329051
+    engagement: 650
+    commentsToLikes: 0.008599
+    id: ck0vz6p5n7kwi0i19ib9icvma
+    verified: true
+    hashtags: "#fusioncapudocup2021, #desxcontovigoroso, #lovezinho"
+  - username: "jeffsatur"
+    fullname: >-
+      𝗝 𝗘 𝗙 𝗙   𝗦 𝗔 𝗧 𝗨 𝗥 (罗杰夫)
+    bio: >-
+      🪐Work @studio_on_saturn:0968626665(K.Venus) @beoncloud.official Line:@beoncloud ✉️artist@beoncloud.com Warner Music Thailand :0654409098(K.Boy)
+    location: "United States"
+    followers: 2615963
+    engagement: 1688
+    commentsToLikes: 0.005370
+    id: cl31crsw9xwqw0i23qc3523r1
+    verified: false
+    hashtags: "#jeffxmnyfreshtint, #jeffsatur, #panth, #santosdecartier"
+  - username: "connorprice_"
+    fullname: >-
+      Connor Price
+    bio: >-
+      Toronto | LA | Vegas ‘Connor Price’ on Spotify & Apple Music New songs w/ Hoodie Allen out now ↙️
+    location: "Canada"
+    followers: 1415840
+    engagement: 1483
+    commentsToLikes: 0.034572
+    id: ck6tlxwmw6u3s0j71vpnndoao
+    verified: true
+    hashtags: "#rapper, #reels, #remix, #logic"
+  - username: "partidamx"
+    fullname: >-
+      PARTIDA
+    bio: >-
+      • DJ/Producer | Resident DJ At: @ludy.cg • Management & PR: @talentmotion • Promos: jhonny_r97@hotmail.com • Music and press ⬇️
+    location: "Mexico"
+    followers: 15920
+    engagement: 1300
+    commentsToLikes: 0.014433
+    id: ckaoxzvccfgtp0i78n5xe5izu
+    verified: false
+    hashtags: "#talentmotion, #djpartida, #gshockmexico, #outfits"
+  - username: "annettelee"
+    fullname: >-
+      Annette Lee 李安
+    bio: >-
+      just here to tell stories + send u memes✨ musician | filmmaker | actor-host 🎵🎬🇸🇬 @theannandbenshow @asianbillionaires.series ⬇️ 𝐧𝐞𝐰 𝐯𝐢𝐝𝐞𝐨 𝐨𝐮𝐭 𝐧𝐨𝐰! ⬇️
+    location: "Singapore"
+    followers: 165711
+    engagement: 778
+    commentsToLikes: 0.011989
+    id: ck5cl5vkxyb0y0i11sbbihduv
+    verified: true
+    hashtags: "#asianparenttings, #chatswithchantelle, #annetteandaccents, #canoneosm50markii"
+  - username: "punitjpathakofficial"
+    fullname: >-
+      Punit J Pathak
+    bio: >-
+      NAACH BABY Music video 👇🏽
+    location: "India"
+    followers: 2487707
+    engagement: 568
+    commentsToLikes: 0.003034
+    id: ck0u2euphzpr80i194k66w0np
+    verified: true
+    hashtags: "#husband, #love, #reels, #danceplus6"
+  - username: "why.not.music"
+    fullname: >-
+      WHY NOT 🦙
+    bio: >-
+      🍕 | artist from italy 🪐 | trying to make this world a better place 📩 | info@whynot-music.it @kardo.squad | good vibes only🫶🏽
     location: "Germany"
-    followers: 6293
-    engagement: 753
-    commentsToLikes: 0.066688
-    id: ck8t313yk1hz90j78n434kt9i
+    followers: 10664
+    engagement: 427
+    commentsToLikes: 0.038721
+    id: ck5zxg6qx7yhk0i14fjlvzrwg
     verified: false
-    hashtags: "#girl, #cold, #germany, #russia"
-  - username: "chechorodriguez"
-    fullname: >-
-      Checho Rodriguez
-    bio: >-
-      Music!
-    location: "Colombia"
-    followers: 32393
-    engagement: 319
-    commentsToLikes: 0.049285
-    id: ck139hccvlaxd0i19o5lgzkex
-    verified: false
-    hashtags: "#wearehumanx, #somoshumanx, #despesperado"
-  - username: "mohammadabbasimusic"
-    fullname: >-
-      mohammadabbasimusic 🎹🎧
-    bio: >-
-      #Music
-    location: "Iran"
-    followers: 5019
-    engagement: 2072
-    commentsToLikes: 0.096461
-    id: ck9wgvpu3v72z0j78bf7favtd
-    verified: false
-    hashtags: "#hosseinmansorian, #mp3, #music, #singletrack"
-  - username: "mahmood.shobeiri"
-    fullname: >-
-      
-    bio: >-
-      Music
-    location: "Iran"
-    followers: 12598
-    engagement: 1023
-    commentsToLikes: 0.043864
-    id: ck9wcxrqxd4s90j781nrrwv7y
-    verified: false
-    hashtags: "#alizandvakili, #iranmuzic"
-  - username: "tajralph"
-    fullname: >-
-      Taj Ralph
-    bio: >-
-      Music
-    location: "United States"
-    followers: 7069
-    engagement: 611
-    commentsToLikes: 0.029172
-    id: ck6u1uaienxaf0j71rd3u3t32
-    verified: false
-    hashtags: ""
-  - username: "thegiftedvoices"
-    fullname: >-
-      MUSIC
-    bio: >-
-      Music | Música | La Musique | 音乐 | ❤️ • Tag us in your videos • Email: Thegiftedvoices1@yahoo.com • Enjoy the covers :) #thegiftedvoices
-    location: "United States"
-    followers: 55442
-    engagement: 189
-    commentsToLikes: 0.017688
-    id: ck14hc4ut9kth0i19vhtn9pkl
-    verified: false
-    hashtags: "#music, #covers, #christmas"
-  - username: "juliaholter"
-    fullname: >-
-      julia shammas holter
-    bio: >-
-      music
-    location: "United States"
-    followers: 19172
-    engagement: 336
-    commentsToLikes: 0.017317
-    id: ck0w02qa7c3d90i19vh1t72mb
-    verified: false
-    hashtags: ""
-  - username: "kalleyheili"
-    fullname: >-
-      kalley
-    bio: >-
-      I like words and they say pictures are worth a thousand. • Wife + Mom, BSSM2 + Bethel Music I wear lots of hats. Literally.
-    location: "United States"
-    followers: 282086
-    engagement: 1245
-    commentsToLikes: 0.013977
-    id: ck55n1llc5abw0i11669c6kha
-    verified: false
-    hashtags: "#blackouttuesday, #enneagram, #myersbriggs, #disc"
-  - username: "amir_sbeys"
-    fullname: >-
-      Amir Sbeys | امیر اِسبيس‌
-    bio: >-
-      beauty music company maneger @beauty_muzic #sari Persian Rap artist 👇 " download New music " Dige Nadaramet "
-    location: "Iran"
-    followers: 3674
-    engagement: 3580
-    commentsToLikes: 0.177325
-    id: ck9wiq2ao3fmt0j784113t6p6
-    verified: false
-    hashtags: "#rap, #rapmusic, #rapfarsi, #hiphop"
+    hashtags: "#novalja, #zr, #zrcebeach, #isoladipag"
 ---

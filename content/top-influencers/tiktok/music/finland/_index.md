@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Finland In 2022
+title: Top 10 Music TikTok Influencers In Finland In 2023
 description: >-
-  Find top music TikTok influencers in Finland in 2022. Most popular hashtags: #fyp #fry #foryou #foryoupage.
+  Find top music TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #fry #foryou #finland.
 platform: TikTok
-hits: 19
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in Finland for you to pitch.
+hits: 15
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 15 TikTok influencers like this in Finland for you to work with.
 profiles:
   - username: "zounaas"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       YT ja IG: Zounaas 📩business@zounaas.com - My mom's music
     location: "Finland"
-    followers: 64000
-    engagement: 1262
-    commentsToLikes: 0.103312
+    followers: 67000
+    engagement: 1249
+    commentsToLikes: 0.053559
     id: ckc8vweq2j21u0j23mfo6nfkn
     verified: false
-    hashtags: "#fry, #foryou, #fyp, #zounaasgang"
-  - username: "helmeri_pirinen"
-    fullname: >-
-      Helmeri Pirinen
-    bio: >-
-      YouTube: HAV Instagram : @helmeri_pirinen Business: helmeri@finscooter.com
-    location: "Finland"
-    followers: 15700
-    engagement: 765
-    commentsToLikes: 0.029110
-    id: ckbf6c870vysi0j23wxkcfy64
-    verified: false
-    hashtags: "#foryou, #scoottaus, #fry, #fyp"
-  - username: "aish3ley"
-    fullname: >-
-      Aishe
-    bio: >-
-      
-    location: "Finland"
-    followers: 32200
-    engagement: 496
-    commentsToLikes: 0.011780
-    id: ck9r9uocbi8re0j78c8abl9t8
-    verified: false
-    hashtags: "#turkey, #tiktok, #musically, #ankara"
-  - username: "juliajokivalli"
-    fullname: >-
-      Julia
-    bio: >-
-      18 Jotai yritän välil laulaa ja kans vähä jotai jerryy heittää 🦋
-    location: "Finland"
-    followers: 18400
-    engagement: 934
-    commentsToLikes: 0.013967
-    id: ckbr40z0ik9cq0j23rciys7h9
-    verified: false
-    hashtags: "#singing, #lol, #foryoupage, #foryou"
-  - username: "zagzagel87"
-    fullname: >-
-      Zagzagel
-    bio: >-
-      18+🔞 🎼All duets are welcome🎼 ♥️When I comment, I share ♥️ 🎵Lipsing/sync🎵
-    location: "Finland"
-    followers: 3683
-    engagement: 5070
-    commentsToLikes: 1.173745
-    id: ckdnufhijn4480j23033mqe0i
-    verified: false
-    hashtags: "#fyp, #duet, #viral, #foryoupage"
+    hashtags: "#foryou, #zounaasgang, #fortheboys, #fry"
   - username: "mauton1"
     fullname: >-
       Mauton
     bio: >-
       i create ig: officialmauton sc: mautonherra
     location: "Finland"
-    followers: 50400
-    engagement: 1097
-    commentsToLikes: 0.081795
+    followers: 55200
+    engagement: 1212
+    commentsToLikes: 0.054743
     id: cka6l225d1cji0i78tg1uqznd
     verified: false
-    hashtags: "#fry, #fyp, #foru, #foryou"
+    hashtags: "#fryp, #foryoupage, #foru, #music"
+  - username: "aish3ley"
+    fullname: >-
+      Aishe
+    bio: >-
+      
+    location: "Finland"
+    followers: 31300
+    engagement: 494
+    commentsToLikes: 0.011546
+    id: ck9r9uocbi8re0j78c8abl9t8
+    verified: false
+    hashtags: "#ankara, #turkishgirl, #finland, #tiktokt"
+  - username: "tuplaw"
+    fullname: >-
+      Tupla W
+    bio: >-
+      From🇫🇮 Snapchat: waltterijj Spotify: Tupla W ”Haastavaa” nyt spotifys😈
+    location: "Finland"
+    followers: 29300
+    engagement: 611
+    commentsToLikes: 0.015792
+    id: ckbf3olq7rir20j230ipiyg1s
+    verified: false
+    hashtags: "#finland, #foryoupage, #for, #finnish"
+  - username: "matteuspentti"
+    fullname: >-
+      Matteus Pentti
+    bio: >-
+      Kuvataideopettaja | Art Teacher Ylästön koulu, Vantaa ✨👨🏻‍🎨🎨🏳️‍🌈
+    location: "Finland"
+    followers: 18600
+    engagement: 1222
+    commentsToLikes: 0.032559
+    id: cka0hzw36biq50i78rilhiqta
+    verified: false
+    hashtags: "#art, #kuvisope, #matteuspentti, #duetto"
   - username: "timmytattari"
     fullname: >-
       Timmy Tattari
     bio: >-
-      CEO of #somebodycomegether 74K! 🎉 75K? 😆 3M! 🎉 Sc: T_tattari IG: TimmyTattar
+      CEO of #somebodycomegether YouTube: Boo InstaGram: TimmyTattari 🐷
     location: "Finland"
-    followers: 74200
-    engagement: 1686
-    commentsToLikes: 0.035748
+    followers: 72900
+    engagement: 1678
+    commentsToLikes: 0.033815
     id: ckdtkfc1qy4xe0j232isfrl9k
     verified: false
-    hashtags: "#foryou, #fyp, #xyzbca, #somebodycomegether"
-  - username: "minttx"
+    hashtags: "#original, #foryou, #viral, #fyp"
+  - username: "littlebiatchh"
     fullname: >-
-      Minttu
+      Tomi Siira
     bio: >-
-      Snap: @minttuwwsss 18 ✨ aspiring actress ✨ ✞
+      22v drama queen Salosta🥂 M🔒❤️
     location: "Finland"
-    followers: 4121
-    engagement: 847
-    commentsToLikes: 0.050581
-    id: ckbf0pm65mjpc0j23hroq4tjj
+    followers: 7268
+    engagement: 938
+    commentsToLikes: 0.013537
+    id: ckbbbj5wl0lh40j23348dbkl5
     verified: false
-    hashtags: "#fry, #wheatenterrier, #fyp, #animal"
-  - username: "saattowaki"
+    hashtags: "#fun, #friends, #fyp, #finnish"
+  - username: "kaverikarim"
     fullname: >-
-      saattowaki
+      kaverikarim
     bio: >-
-      🇫🇮 Ig: @saattowaki
+      ㋛ i like me i’m different instagram: kaverikarim
     location: "Finland"
-    followers: 19600
-    engagement: 916
-    commentsToLikes: 0.068244
-    id: ckad9h4uadm240i78lixn1ern
+    followers: 4689
+    engagement: 823
+    commentsToLikes: 0.019173
+    id: ck9by4dscmxuo0j78o10brko8
     verified: false
-    hashtags: "#dance, #halloween, #clown, #jimcarrey"
-  - username: "isok94_"
+    hashtags: "#tiktoksuomi, #komedia, #karanteeni, #fyp"
+  - username: "sannis_84"
     fullname: >-
-      IsoK
+      Sanna
     bio: >-
-      Gothic like makeup artist from Finland 🇫🇮 Just having fun in here.
+      
     location: "Finland"
-    followers: 15400
-    engagement: 1222
-    commentsToLikes: 0.015443
-    id: cka0nxx3u1b560i78kuy5mfp6
+    followers: 3220
+    engagement: 219
+    commentsToLikes: 0.027114
+    id: ckbfbinut3kes0j23g6nllzdr
     verified: false
-    hashtags: "#headband, #clothing, #finnish, #gothic"
+    hashtags: "#dog, #tiktok, #uuno, #uunovideot"
+  - username: "frameseq"
+    fullname: >-
+      Petter Pentilä
+    bio: >-
+      My animations are available as stickers! Perfect for laptops! 👇
+    location: "Finland"
+    followers: 130600
+    engagement: 912
+    commentsToLikes: 0.015670
+    id: ck9si74s5x5tu0j78kielcn9u
+    verified: false
+    hashtags: "#finland, #finnish, #viral, #feature"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Australia In 2022
+title: Top 10 Chefs TikTok Influencers In Australia In 2023
 description: >-
-  Find top chefs TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #chef #foryou #cooking.
+  Find top chefs TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #chef #foryou #cooking.
 platform: TikTok
-hits: 30
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 30 TikTok influencers like this in Australia for you to contact.
+hits: 26
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 26 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "the_achayans"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Kollam ✈️ Brisbane Chef 👨🏻‍🍳 #ozmallutiktokers Text me in insta to know me 😇
     location: "Australia"
-    followers: 6850
-    engagement: 2352
-    commentsToLikes: 0.065500
+    followers: 6838
+    engagement: 2253
+    commentsToLikes: 0.065123
     id: ckaij81q2dtrk0i788tkcagg3
     verified: false
-    hashtags: "#foryoupage, #kattankaappi, #trending, #viral"
+    hashtags: "#slowmo, #viral, #foryoupage, #foryou"
+  - username: "chefsanddogs"
+    fullname: >-
+      Chefs & Dogs
+    bio: >-
+      👨🏼‍🍳🐶 Chefs & Doge
+    location: "Australia"
+    followers: 1700000
+    engagement: 993
+    commentsToLikes: 0.009483
+    id: ckb9m6srpf2zu0j2388aak2q8
+    verified: true
+    hashtags: "#quail, #asmrfood, #asmr, #food"
   - username: "kgwill"
     fullname: >-
       kgwill
     bio: >-
       🇦🇺 *chef’s kiss*
     location: "Australia"
-    followers: 73800
-    engagement: 1182
-    commentsToLikes: 0.016146
+    followers: 72800
+    engagement: 1047
+    commentsToLikes: 0.016102
     id: ckdckpttvmr9f0j23sct0veh2
     verified: false
-    hashtags: "#familythings, #fyp, #petstory, #retailtherapy"
-  - username: "raaaachyp"
+    hashtags: ""
+  - username: "tullyzkitchen"
     fullname: >-
-      Rachael Paterson
+      tullyzkitchen
     bio: >-
-      Melbourne girl with a new hat Instagram @raaaachyp Pastry chef Doggo lover
+      🌱Vegan Recipes and Laughs 🌱Can I get to 300k👍 🌱www.tullyzkitchen.com
     location: "Australia"
-    followers: 3651
-    engagement: 557
-    commentsToLikes: 0.031395
-    id: ckcjapzly8k0m0j230oipwvtk
+    followers: 246800
+    engagement: 1297
+    commentsToLikes: 0.024167
+    id: ck8fayx0p4pgh0j786vm7safe
     verified: false
-    hashtags: "#covid19, #cake, #fyp, #foryou"
-  - username: "jordsarah"
-    fullname: >-
-      Jordan
-    bio: >-
-      Chef Business owner IG: Jordanhartley Comedian
-    location: "Australia"
-    followers: 73900
-    engagement: 585
-    commentsToLikes: 0.015064
-    id: ck8hqqh015b2g0j78cv2mmbdj
-    verified: false
-    hashtags: "#chef, #viral, #fyp, #viraltiktok"
-  - username: "zee_cooking"
-    fullname: >-
-      Zak.osta
-    bio: >-
-      Hakuna mattata 😃... only if it was that simple! Ig: zee_cooking
-    location: "Australia"
-    followers: 13600
-    engagement: 516
-    commentsToLikes: 0.042700
-    id: ckbf4edzisryc0j23zr43lbjl
-    verified: false
-    hashtags: "#food, #naturevibes, #chef, #timefortenet"
+    hashtags: "#vegan, #ramsayreacts, #foryou, #easyrecipe"
   - username: "sweetscertified"
     fullname: >-
       Sweets Certified
     bio: >-
       🍰 The Most Amazing Sweets & Pastry Online! 🍫 Follow us on Insta!
     location: "Australia"
-    followers: 477800
-    engagement: 1512
-    commentsToLikes: 0.003706
+    followers: 493400
+    engagement: 1460
+    commentsToLikes: 0.003691
     id: ck81q44yrfryn0j7876448tkb
     verified: false
-    hashtags: "#sweetscertified, #yummy, #baking, #sweets"
+    hashtags: "#foryou, #cooking, #icing, #baking"
+  - username: "littlebabyj3"
+    fullname: >-
+      Littlebbyj3
+    bio: >-
+      OF find it on my Twitter acc or insta bio!!👇🏽🥵😈 twitter.com/jordansarah_
+    location: "Australia"
+    followers: 138200
+    engagement: 560
+    commentsToLikes: 0.034727
+    id: ck8hqqh015b2g0j78cv2mmbdj
+    verified: false
+    hashtags: "#lol, #shadowbanned, #bpd, #aussie"
   - username: "justslapit"
     fullname: >-
       Christian Grant
     bio: >-
       Just a silly Aussie bogan slapping dinner IG - @justslapitcooking
     location: "Australia"
-    followers: 49900
-    engagement: 786
-    commentsToLikes: 0.011471
+    followers: 48700
+    engagement: 747
+    commentsToLikes: 0.014312
     id: ckakob3y4al3r0i7847qai05v
     verified: false
-    hashtags: "#slapit, #cookinghack, #fyp, #cooking"
+    hashtags: "#aussie, #melbourne, #cookinghack, #cooking"
   - username: "vishuaro1"
     fullname: >-
       🔥 𝕄ℝ ☾ꫝꫀᠻ 🔥
     bio: >-
       Following my dreams ❤️
     location: "Australia"
-    followers: 43400
-    engagement: 296
-    commentsToLikes: 0.019173
+    followers: 43000
+    engagement: 295
+    commentsToLikes: 0.019151
     id: ckbktho9joilf0j237rrxkqwv
     verified: false
-    hashtags: "#indian, #traveler, #cheflife, #happylife"
+    hashtags: "#indian, #happylife, #cheflife, #foodlover"
   - username: "..oodie..hypehouse"
     fullname: >-
       𝕆𝕠𝕕𝕚𝕖 𝕙𝕪𝕡𝕖 𝕙𝕠𝕦se
     bio: >-
       𝙰𝚞𝚍𝚒𝚝𝚒𝚘𝚗𝚜 𝚊𝚛𝚎 𝚘𝚙𝚎𝚗 𝚘𝚠𝚗𝚎𝚛𝚜: avocado - 𝚙𝚊𝚗𝚍𝚊
     location: "Australia"
-    followers: 2373
-    engagement: 3221
-    commentsToLikes: 0.165949
+    followers: 2301
+    engagement: 2548
+    commentsToLikes: 0.114900
     id: ckb93txackz6x0j23z46l1js0
     verified: false
-    hashtags: "#bling, #bloxburg, #aesthetic, #fyp"
+    hashtags: "#foryoupage, #aesthetic, #oodie, #foryou"
   - username: "surajkc7"
     fullname: >-
       Suraj
     bio: >-
       Let’s have some fun 😂😂
     location: "Australia"
-    followers: 3336
-    engagement: 2136
-    commentsToLikes: 0.101297
+    followers: 3169
+    engagement: 2150
+    commentsToLikes: 0.088995
     id: ckb9hczbe6wl70j23cpf0hdpm
     verified: false
-    hashtags: "#nepalimuser, #fy, #binduandsuraj, #foryourpage"
+    hashtags: "#dontletitflop, #fy, #4u, #tiktok"
 ---

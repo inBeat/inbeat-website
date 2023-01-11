@@ -1,24 +1,12 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Poland In 2022
+title: Top 10 Gymnasts TikTok Influencers In Poland In 2023
 description: >-
-  Find top gymnasts TikTok influencers in Poland in 2022. Most popular hashtags: #gymnastics #dlaciebie #dc #fyp.
+  Find top gymnasts TikTok influencers in Poland in 2023. Most popular hashtags: #fyp #dc #dlaciebie #gymnastics.
 platform: TikTok
-hits: 26
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 26 TikTok influencers like this in Poland for you to work with.
+hits: 24
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 24 TikTok influencers like this in Poland for you to contact.
 profiles:
-  - username: "zuziaa.akro"
-    fullname: >-
-      zuzka❤
-    bio: >-
-      Hi🇵🇱 | 16 🌿Gymnast and dancer🌿 Ig: zuziajuraszek
-    location: "Poland"
-    followers: 45000
-    engagement: 2862
-    commentsToLikes: 0.055153
-    id: ckck5ns2hqogn0j235ocxh316
-    verified: false
-    hashtags: "#dc, #flexibility, #gymnastics, #trend"
   - username: "gymnastic.poland"
     fullname: >-
       🤸🏼♀️Gymnastics🤸🏻♂️
@@ -31,90 +19,78 @@ profiles:
     id: ckck3cn46n7d70j23ldbaxamc
     verified: false
     hashtags: "#gymnasticpll, #fyp"
+  - username: "zuziaa.akro"
+    fullname: >-
+      Zuzia✨
+    bio: >-
+      🌿 Gymnast | contortion 🌿 Ig: zuziajuraszek Ig: suzietumble
+    location: "Poland"
+    followers: 49500
+    engagement: 2248
+    commentsToLikes: 0.024182
+    id: ckck5ns2hqogn0j235ocxh316
+    verified: false
+    hashtags: "#dlaciebie, #flexibility, #flexibilitychallenge, #greenscreenvideo"
+  - username: "zuzukap"
+    fullname: >-
+      B I G O S I K
+    bio: >-
+      💃🏼dancer | 🎭comedy | 🇵🇱 2009-2017 rhythmic gymnastics 18
+    location: "Poland"
+    followers: 108000
+    engagement: 1770
+    commentsToLikes: 0.042006
+    id: ckc7si59zxayw0j23rfpg5hcc
+    verified: true
+    hashtags: "#dc, #makija, #paznokcie, #lekcjeonline"
   - username: "oliwiaszydowska2"
     fullname: >-
       Oliwia_Dancer®❤️🇵🇱❤️
     bio: >-
-      💃🏼Dancer💃🏼 💗Gymnastics💗 🔥Snap: oliwia716 🔥 🇵🇱World champion in dance 🇵🇱
+      💃🏼Dancer💃🏼 💗Gymnastics💗 🇵🇱 World Champion🇵🇱 🔥Ig: szydlowska.oliwia🔥
     location: "Poland"
-    followers: 63000
-    engagement: 2166
-    commentsToLikes: 0.015560
+    followers: 63500
+    engagement: 1949
+    commentsToLikes: 0.014023
     id: ckcjnsu8cflgw0j23ot3kq1a4
     verified: false
-    hashtags: "#jazz, #dancer, #turns, #iloveit"
-  - username: "julcz00"
-    fullname: >-
-      Julia Pustelnik
-    bio: >-
-      🥇Polish champion aerial hoop 2020🏆 📸Instagram: julcz00 🤸🏼‍♀️Acro trainer
-    location: "Poland"
-    followers: 4736
-    engagement: 1669
-    commentsToLikes: 0.028131
-    id: ckac5zqojdpma0i782l1mwfoc
-    verified: false
-    hashtags: "#aerialist, #fyp, #dc, #aerialhoop"
+    hashtags: "#fyp, #viral, #iloveit, #flexible"
   - username: "serszynkaiananas"
     fullname: >-
-      Pauluu❤️
+      my name is Paula
     bio: >-
-      Paula 🤡 16 soocer ⚽️ acro 🤸 scout🏕 10k🔒
+      2003 mood polish rapunzel🤪❤️ soocer ⚽️ acro 🤸 scout🏕
     location: "Poland"
-    followers: 5557
-    engagement: 937
-    commentsToLikes: 0.057586
+    followers: 5532
+    engagement: 932
+    commentsToLikes: 0.067744
     id: ckae15nqun7300i78m0lnjyg8
     verified: false
-    hashtags: "#fail, #backhandspring, #beautyfull, #tired"
-  - username: "nataliakulig1"
-    fullname: >-
-      Natalia Kulig
-    bio: >-
-      19 years old | Łódź 🇵🇱 INSTAGRAM: n_kulig contact: natalka.kulig@gmail.com ❤️
-    location: "Poland"
-    followers: 686100
-    engagement: 1996
-    commentsToLikes: 0.010939
-    id: ckbl1ih6lyb310j23vkzhna8h
-    verified: true
-    hashtags: "#pov, #dance, #gymnastics, #global"
-  - username: "jakub.pursa"
-    fullname: >-
-      Jakub Pursa
-    bio: >-
-      DANCER - GYM LOVER - HUSKY OWNER IG: @jakub.pursa 😉
-    location: "Poland"
-    followers: 15600
-    engagement: 830
-    commentsToLikes: 0.031096
-    id: ckb981ba4r1x20j238go4w5ow
-    verified: false
-    hashtags: "#lift, #gymnastics, #fy, #duet"
+    hashtags: "#trampoline, #gymnastic, #acrobatic, #merrychristmas"
   - username: "myjowski"
     fullname: >-
       Dawid Myjak
     bio: >-
       🇵🇱 Łódź, Poland 🚦03.08.19 Start 📌 myjowski@gmail.com 🍀paypal.me/myjowski
     location: "Poland"
-    followers: 521900
-    engagement: 1681
-    commentsToLikes: 0.005782
+    followers: 537900
+    engagement: 1716
+    commentsToLikes: 0.007074
     id: ck8j85awuhdcp0j783tsguy1g
-    verified: false
-    hashtags: "#gymnastics, #trampoline, #silly, #comedy"
+    verified: true
+    hashtags: "#gymnastics, #dlaciebie, #polska, #acrobatics"
   - username: "juliamaciuszek"
     fullname: >-
       Julia Maciuszek
     bio: >-
       Akrobatka i pasjonatka biegów przeszkodowych🤸‍♀️ Więcej➡️Ig: @juliamaciuszek
     location: "Poland"
-    followers: 179700
-    engagement: 1634
-    commentsToLikes: 0.003329
+    followers: 185500
+    engagement: 1567
+    commentsToLikes: 0.005307
     id: ckb9kgjyfcc1u0j23aoj5t1n6
     verified: false
-    hashtags: "#underarmour, #runmageddon, #obstaclecourse, #moveformentalhealth"
+    hashtags: "#obstacles, #challenge, #ninja, #ninjawarrior"
   - username: "martynka_kus"
     fullname: >-
       ...
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.082230
     id: ck8vv0e1pkfoa0j787rwjv8jt
     verified: false
-    hashtags: "#europe, #dlaciebie, #foryou, #fyp"
+    hashtags: "#dlaciebie, #girl, #trend, #foryou"
+  - username: "julcz00"
+    fullname: >-
+      Julia Pustelnik
+    bio: >-
+      🥇Polish champion aerial hoop 2020🏆 📸Instagram: julcz00 🤸🏼‍♀️Acro trainer
+    location: "Poland"
+    followers: 6342
+    engagement: 1616
+    commentsToLikes: 0.028172
+    id: ckac5zqojdpma0i782l1mwfoc
+    verified: false
+    hashtags: "#aerialhoop, #aerialist, #trainer, #fyp"
+  - username: "patapat__"
+    fullname: >-
+      Patrycja Kołowska
+    bio: >-
+      Pata🧚🏻‍♀️ contact: pati180702@gmail.com
+    location: "Poland"
+    followers: 31900
+    engagement: 1949
+    commentsToLikes: 0.023304
+    id: ckbepr7bd6yl00j23tcmcndlv
+    verified: false
+    hashtags: "#funny, #dancer, #choreo, #foryou"
 ---

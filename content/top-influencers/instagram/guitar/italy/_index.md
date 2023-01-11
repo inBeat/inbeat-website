@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Italy In 2022
+title: Top 10 Guitar Instagram Influencers In Italy In 2023
 description: >-
-  Find top guitar Instagram influencers in Italy in 2022. Most popular hashtags: #guitarsolo #guitar #guitarist #instapic.
+  Find top guitar Instagram influencers in Italy in 2023. Most popular hashtags: #guitarist #love #guitar #music.
 platform: Instagram
-hits: 179
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database has 179 Instagram influencers like this in Italy for you to work with.
+hits: 133
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 133 Instagram influencers like this in Italy for you to contact.
 profiles:
-  - username: "adr6strings"
-    fullname: >-
-      Anna Della Ragione
-    bio: >-
-      Guitarist, composer, arranger, director... musician 🐬
-    location: "Italy"
-    followers: 11608
-    engagement: 1148
-    commentsToLikes: 0.105681
-    id: ckaospznoskes0i78dlefd6d0
-    verified: false
-    hashtags: "#guitarstagram, #guitarplayer, #campiflegrei, #instamusicians"
-  - username: "simonasansovini"
-    fullname: >-
-      Simona Sansovini
-    bio: >-
-      ✨⚡️Electric Soul⚡️✨ Guitarist 🇮🇹 Touring musician Model Blues addicted Endorsed by @daddarioandco Business inquiries 📩
-    location: "Italy"
-    followers: 160123
-    engagement: 503
-    commentsToLikes: 0.039842
-    id: ck0tzzp0js5uw0i19jrejhow7
-    verified: false
-    hashtags: "#guitardaily, #guitarist, #guitar, #guitarsarebetter"
   - username: "nixenomorph"
     fullname: >-
       Martina Nixe Riva 🎸
     bio: >-
-      Guitar Player from Italy! 🇮🇹 Killin’ it in @killinbaudelaire 🧛🏻‍♀️ BUFFY METAL VERSION ⬇️
+      Guitar Player from Italy! 🇮🇹 Killin’ it in @killinbaudelaire 🎸 New cover ⬇️
     location: "Italy"
-    followers: 19604
-    engagement: 1402
-    commentsToLikes: 0.052072
+    followers: 20621
+    engagement: 1282
+    commentsToLikes: 0.056935
     id: ck8syt1rplwcv0j78q6yo4n1p
     verified: false
-    hashtags: "#musicgear, #femalemusicians, #ltdguitars, #girlswithguitars"
-  - username: "alicelanezombie"
+    hashtags: "#femaleguitarist, #guitargirl, #femalemusician, #guitarlove"
+  - username: "thaliabellazecca"
     fullname: >-
-      🩸Alice Lane - BassPlayer🩸
+      Thalìa Bellazecca
     bio: >-
-      𝗕𝗔𝗦𝗦 𝗣𝗟𝗔𝗬𝗘𝗥 of @killinbaudelaire 🤘🏻 𝗖𝗠𝗢 at @tribe_guitars 🎸 ⠀ 🎬 YT CHANNEL :
+      ~ On @twitch as ThaliaBellazecca 🍪 ~Metal Lefty Guitarist 🎸🔥 ~A 21 y/o half-blood 🇨🇺🇮🇹 That's all you need to know ✨ 🤯⬇LINKS⬇🤯
     location: "Italy"
-    followers: 43347
-    engagement: 1052
-    commentsToLikes: 0.030008
-    id: ck5zuyiz739mm0i141ohb3h8e
+    followers: 13526
+    engagement: 1139
+    commentsToLikes: 0.065268
+    id: ck8t531iv8nrp0j78jmab8d7e
     verified: false
-    hashtags: "#bassista, #bassgirl, #bassistgirl, #bassplayers"
+    hashtags: "#guitarplayer, #heavymetal, #style, #shredding"
   - username: "dd_lacuna"
     fullname: >-
-      DIego DD Cavallotti
+      Diego DD Cavallotti
     bio: >-
-      LACUNA COIL Session&Guitar lesson founder\owner @drinkemallbeer
+      𝕷𝖆𝖈𝖚𝖓𝖆 𝕮𝖔𝖎𝖑 Session&Guitar lesson founder\owner @drinkemallbeer
     location: "Italy"
-    followers: 16881
-    engagement: 713
-    commentsToLikes: 0.033416
+    followers: 17701
+    engagement: 706
+    commentsToLikes: 0.038006
     id: ck14gl6bd5rev0i19b6zqstr9
     verified: true
-    hashtags: "#instapic, #livefromtheapocalypse, #me, #diegocavallotti"
-  - username: "lucastricagnoli"
+    hashtags: "#lacunacoilofficial, #guitarist, #picoftheday, #diegocavallotti"
+  - username: "dario.pinelli"
     fullname: >-
-      Luca Stricagnoli 🎸
+      Dario Pinelli
     bio: >-
-      Guitar player from Italy. New video out now (link below)
+      🇮🇹 Italian guitarist and singer 🇮🇹 ❤️🎸 World Traveller 🌎🎶 Booking & Collaboration: booking.dariopinelli@gmail.com 👇NEW VIDEO "BELLA CIAO"👇
     location: "Italy"
-    followers: 102322
-    engagement: 611
-    commentsToLikes: 0.023685
-    id: ck137ynojdnvl0i193ypvqwxu
+    followers: 124585
+    engagement: 146
+    commentsToLikes: 0.093090
+    id: ckf5mjszqu4w50j233q8193pm
     verified: true
-    hashtags: "#relaxing, #soundtrack, #video, #guitarist"
-  - username: "sylvyaboschiero"
+    hashtags: "#musiclife, #hiphop, #amazing, #classic"
+  - username: "zaminyrmouth"
     fullname: >-
-      Sylvya Boschiero
+      Mazza { alias zamvlas }
     bio: >-
-      Italian guitarist🎸 1998 Facebook: Silvia Boschiero Email: silviaboschiero98@gmail.com YouTube channel: Sylvya Boschiero
+      • Guitarist for @sharksinyourmouthofficial • Guitarist for @enclavesofficial • Italy🇮🇹 New video for ‘𝗖 𝗨 𝗟 𝗧 𝟰 𝟬 𝟰’ out now! ↓
     location: "Italy"
-    followers: 7967
-    engagement: 1228
-    commentsToLikes: 0.022899
-    id: ck15uwyoaowfj0i19lz70k93f
+    followers: 42178
+    engagement: 1052
+    commentsToLikes: 0.046957
+    id: ck13c2zxdydhl0i19cbv8l4rt
     verified: false
-    hashtags: "#shred, #femaleguitarplayer, #guitarsdailyinstagram, #suhrguitars"
-  - username: "gianfrenk"
+    hashtags: "#guitar, #guitarist, #guitarsolo, #guitarsofinstagram"
+  - username: "richardchurch_"
     fullname: >-
-      Gianfranco Zedda
+      RICHARD CHURCH
     bio: >-
-      📍Cagliari - Sardinia 🇮🇹 Guitar Player, Singer & Songwriter 📸 iPhone 11pMax - Hero9 black - DJI - Sony A7iii Insta360 oneX #loungedelica New Video 👇👇👇
+      BHMG® ‘99 producer, guitarist & sample maker
     location: "Italy"
-    followers: 23647
-    engagement: 923
-    commentsToLikes: 0.087666
-    id: ck13581cj05t20i199p2i37qq
+    followers: 6215
+    engagement: 1599
+    commentsToLikes: 0.067547
+    id: ck1398uevk3im0i191fsj1cyq
     verified: false
-    hashtags: "#sonyalpha, #sardegnareporter, #wonderful, #earthofficial"
-  - username: "giacomoturra"
+    hashtags: "#iorestoacasa, #fromjupitercontest, #sinacontest20, #beatthecorona"
+  - username: "timhanseroth"
     fullname: >-
-      JMT
+      Tim Hanseroth
     bio: >-
-      Guitarist • Singer • Songwriter Artist for @dangelicony @felix_custom_guitars ⇩ TABS ⇩
+      BRANDI CARLILE -GUITARIIST-SONGMAKER- DAD ZONE-
     location: "Italy"
-    followers: 83974
-    engagement: 1288
-    commentsToLikes: 0.060860
-    id: ck5zmo7b0mwx80i14i49bvt2y
+    followers: 26241
+    engagement: 825
+    commentsToLikes: 0.051450
+    id: ck5zx04af733z0i14cc1ufvxh
+    verified: true
+    hashtags: "#bramily, #cheeseplate, #stopby, #wegotcropperhere"
+  - username: "_rakaia_"
+    fullname: >-
+      Ｃｏｎｎｉｅ
+    bio: >-
+      • Florence, Italy 🇮🇹📌 • Christmas 1988 🎁🎄 • Music therapist 🎵 • Guitar 🎸🎼 • RHCP 🌶 • Thai boxing 🥊
+    location: "Italy"
+    followers: 38359
+    engagement: 541
+    commentsToLikes: 0.094546
+    id: ck9hcny76m8wn0j78401xz7gd
     verified: false
-    hashtags: ""
+    hashtags: "#song, #split, #italy, #smile"
+  - username: "una_prof_tra_le_note"
+    fullname: >-
+      Alba Napolitano
+    bio: >-
+      🎤 Singer 🎸 Guitar 👩‍🏫 Spanish teacher #ancheiotralenote 📺 Guarda il mio NUOVO video! ↙️
+    location: "Italy"
+    followers: 7263
+    engagement: 589
+    commentsToLikes: 0.085806
+    id: ck8t8rym8lki90j78qsb6a9be
+    verified: false
+    hashtags: "#talkshow, #chitarraevoce, #manifeellikeawoman, #anni80"
   - username: "matteomancuso.guitar"
     fullname: >-
       Matteo Mancuso
     bio: >-
-      Guitar player from Palermo, Italy 🇮🇹 @yamaha_guitars and @official_line6 artist 🎸🎧 Click here 👇 to download my official Helix Patch 🔥
+      Guitar player from Palermo, Italy 🇮🇹 @yamaha_guitars and @official_line6 artist 🎸🎧 👇Download my Helix Patch here👇
     location: "Italy"
-    followers: 36484
+    followers: 45849
     engagement: 1013
-    commentsToLikes: 0.027846
+    commentsToLikes: 0.027139
     id: ck135hi6m1g4r0i19i4bgmklw
     verified: false
-    hashtags: "#line6, #guitarsolo, #fusionguitar, #yamahaguitars"
+    hashtags: "#fusiontrio, #yamahaguitars, #jazzfusion, #line6helix"
 ---

@@ -1,84 +1,12 @@
 ---
-title: Top 10 Food TikTok Influencers In Sao Paulo In 2022
+title: Top 10 Food TikTok Influencers In Sao Paulo In 2023
 description: >-
-  Find top food TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #comedia #humor #food #foryou.
+  Find top food TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #fyp #food #saopaulo #viral.
 platform: TikTok
-hits: 8
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 8 TikTok influencers like this in Sao Paulo, Brazil for you to work with.
+hits: 10
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
-  - username: "agabrielaabdala"
-    fullname: >-
-      Gabriela Abdala
-    bio: >-
-      comediante! videos de comedia TODOS OS DIAS! 😍 segue no insta @agabrielaabdala
-    location: "Brazil"
-    followers: 1000000
-    engagement: 2100
-    commentsToLikes: 0.002111
-    id: ckb9nodzmhipl0j23b58kwm6r
-    verified: true
-    hashtags: "#geracaotiktok, #namorados, #standupemcasa, #comedian"
-  - username: "maru_tuzaki"
-    fullname: >-
-      Maru Tuzaki 💋
-    bio: >-
-      🎬 | YouTube: +2M 🌽 📍 | São Paulo/ Paraguaçu Pta 💖 | Instagram @maru_tuzaki
-    location: "Brazil"
-    followers: 249700
-    engagement: 2028
-    commentsToLikes: 0.036594
-    id: ck8os2wvsf2om0j785gtliln1
-    verified: true
-    hashtags: "#dublagem, #comedia, #fy, #blogdasirmas"
-  - username: "caroldietrichsofc"
-    fullname: >-
-      Carol Dietrichs
-    bio: >-
-      Humor/Horror São Paulo - SP e-mail: ca5510@hotmail.com Live: seg. a sex. 16h
-    location: "Brazil"
-    followers: 465700
-    engagement: 1566
-    commentsToLikes: 0.033200
-    id: ckahwkkv7r6ct0i78ol8acu35
-    verified: false
-    hashtags: "#engra, #scary, #funny, #portugal"
-  - username: "helenr0ck"
-    fullname: >-
-      Helen Rock
-    bio: >-
-      Be Good
-    location: "Brazil"
-    followers: 28900
-    engagement: 608
-    commentsToLikes: 0.010317
-    id: ck8s8ih58tt0z0j784xwtupnx
-    verified: false
-    hashtags: "#japan, #bahia, #food, #saopaulo"
-  - username: "dom_brazil"
-    fullname: >-
-      Diego Costa
-    bio: >-
-      Turistando
-    location: "Brazil"
-    followers: 5399
-    engagement: 339
-    commentsToLikes: 0.013239
-    id: ck9k8b6zj8bn30j78x27rlj47
-    verified: false
-    hashtags: "#humor, #coronavirus, #corona, #love"
-  - username: "elainepeixoto1704"
-    fullname: >-
-      Elaine Peixoto
-    bio: >-
-      Momentos inesquecíveis 😍❤️
-    location: "Brazil"
-    followers: 29900
-    engagement: 530
-    commentsToLikes: 0.016334
-    id: ckai19rgmawrs0i78xd83w5m6
-    verified: false
-    hashtags: "#harrypotter, #diversaofamilia, #gelo, #tiktokficaemcasa"
   - username: "leonardorosselli3"
     fullname: >-
       Leonardo Rosselli
@@ -90,41 +18,113 @@ profiles:
     commentsToLikes: 0.007839
     id: ck9k8ah2b85ap0j781616o1rd
     verified: false
-    hashtags: "#usa, #tikttok, #brasil, #argentina"
+    hashtags: "#google, #painting, #video, #europe"
+  - username: "saboreando..saopaulo"
+    fullname: >-
+      Saboreando São Paulo
+    bio: >-
+      ✨ Dicas gastronômicas de São Paulo ✨
+    location: "Brazil"
+    followers: 13300
+    engagement: 858
+    commentsToLikes: 0.015686
+    id: ckaibr83uhkmp0i78mtlo9d51
+    verified: false
+    hashtags: "#viral, #couple, #dicassp, #food"
+  - username: "wiliancesar02"
+    fullname: >-
+      Wilian Cesar
+    bio: >-
+      25y Brasil 🇧🇷
+    location: "Brazil"
+    followers: 2581
+    engagement: 249
+    commentsToLikes: 0.013213
+    id: ckcov264i8zby0j23j5lnu5y6
+    verified: false
+    hashtags: "#tiktok, #viral, #comida, #foryou"
+  - username: "tiaglopes"
+    fullname: >-
+      Tiago Lopes
+    bio: >-
+      +41 million views no YT e FB🏆 🧩 Perceba o mundo de forma positiva comigo :)
+    location: "Brazil"
+    followers: 42600
+    engagement: 1267
+    commentsToLikes: 0.033528
+    id: ck81t227ouvb30j78840gffoc
+    verified: false
+    hashtags: "#fatospsicologicos, #foryou, #fatoscuriosos, #curiosidades"
+  - username: "liviapereira"
+    fullname: >-
+      Viajando com Lívia | Dicas ✈️
+    bio: >-
+      Me ajuda a bater 100K no 1NST4 gente 🥲⬆️
+    location: "Brazil"
+    followers: 335400
+    engagement: 517
+    commentsToLikes: 0.027729
+    id: ckdcc9yb0je510j23tsboae5o
+    verified: false
+    hashtags: "#trend, #milhas, #viagem, #promo"
+  - username: "viagensdomatheus"
+    fullname: >-
+      Matheus Lincoln
+    bio: >-
+      Coisas aleatórias, viagens reais ou da minha cabeça.
+    location: "Brazil"
+    followers: 51800
+    engagement: 763
+    commentsToLikes: 0.032325
+    id: ck9k93xusbp6r0j78dkvcubfp
+    verified: false
+    hashtags: "#vacina, #fy, #dica, #bigbrotherbrasil"
+  - username: "tiagopapan"
+    fullname: >-
+      Desafio da Pesca
+    bio: >-
+      Born to fish, forced to work. That’s how it is 🤷🏼‍♂️😂🐟
+    location: "Brazil"
+    followers: 20200
+    engagement: 388
+    commentsToLikes: 0.018684
+    id: ckcuzc2i5mq5r0j23t7cnybr3
+    verified: false
+    hashtags: "#fyp, #parati, #catchandrelease, #peacockbass"
+  - username: "alessandraperes84"
+    fullname: >-
+      Alessandra Peres
+    bio: >-
+      Sou esposa mãe e avó ! Amo a Deus a vida e minha família ! Amo ser feliz 🙏
+    location: "Brazil"
+    followers: 14000
+    engagement: 436
+    commentsToLikes: 0.038056
+    id: ckaiitfkubz3d0i78zq2zn4ky
+    verified: false
+    hashtags: "#netamajo, #tiktokbrasil, #tiktok, #noflop"
+  - username: "dom_brazil"
+    fullname: >-
+      Diego Costa
+    bio: >-
+      Turistando
+    location: "Brazil"
+    followers: 5462
+    engagement: 331
+    commentsToLikes: 0.013967
+    id: ck9k8b6zj8bn30j78x27rlj47
+    verified: false
+    hashtags: "#quarentena, #maytheforcebewithyou, #darthvader, #disney"
   - username: "carolalgayer"
     fullname: >-
       Caroline Algayer
     bio: >-
       
     location: "Brazil"
-    followers: 7016
-    engagement: 306
-    commentsToLikes: 0.020244
+    followers: 6896
+    engagement: 294
+    commentsToLikes: 0.019890
     id: cka0muiquwxuq0i78chrgzgz0
     verified: false
-    hashtags: "#fyp, #musically, #viral, #tiktok"
-  - username: "whatmatter_"
-    fullname: >-
-      What Matter
-    bio: >-
-      IG l YT l FB - @WhatMatter Music🔊 Gamez🎮 piadas🎭 pics📸 tripz✈️ food🥩
-    location: "Brazil"
-    followers: 16100
-    engagement: 1034
-    commentsToLikes: 0.029820
-    id: ckaibrbbhhlec0i784ze4gxiw
-    verified: false
-    hashtags: "#engra, #giro, #fast, #piada"
-  - username: "anafukunishi"
-    fullname: >-
-      Ana Fukunishi
-    bio: >-
-      just for fun 😜 . love . tie dye . travel . food . dance .
-    location: "Brazil"
-    followers: 43800
-    engagement: 1193
-    commentsToLikes: 0.009589
-    id: ckd65vu7m2yma0j23verf19ck
-    verified: false
-    hashtags: "#tiedyelovers, #foryou, #tiedyechallenge, #tiedye"
+    hashtags: "#fun, #tiktokbrasil, #foyou, #comedia"
 ---

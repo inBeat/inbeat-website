@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Canada In 2022
+title: Top 10 Hypebeast TikTok Influencers In Canada In 2023
 description: >-
-  Find top hypebeast TikTok influencers in Canada in 2022. Most popular hashtags: #hypebeast #sneakers #fyp #nike.
+  Find top hypebeast TikTok influencers in Canada in 2023. Most popular hashtags: #hypebeast #sneakers #sneakerhead #nike.
 platform: TikTok
-hits: 35
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 35 TikTok influencers like this in Canada for you to work with.
+hits: 33
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 33 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "yvngrice"
     fullname: >-
       🍚 yvngrice 🍚
     bio: >-
-      🔥 ¥YC’s HYPEBEAST 🔥 310K!?⛽🔥🤯🙏 | MISSION TO 1M ☝️😁 FREE 👟’s ON IG 😤💯
+      🔥 ¥YC’s HYPEBEAST 🔥 888K!?⛽🔥🤯🙏 | MISSION TO 1M ☝️😁 FOLLOWIN BACK ON IG 😤
     location: "Canada"
-    followers: 316200
-    engagement: 1892
-    commentsToLikes: 0.006124
+    followers: 888800
+    engagement: 1278
+    commentsToLikes: 0.009234
     id: ck8f7ukwk37gt0j7865h6i8pw
     verified: false
-    hashtags: "#learnontiktok, #fashion101, #jumpman, #notfyp"
+    hashtags: "#learnontiktok, #fyp, #yyc, #hypebeastcheck"
   - username: "skyproness"
     fullname: >-
       skyproness
     bio: >-
       YYC🇨🇦 Sneakerhead/Hypebeast Quest to 10k🙏🏻🙏🏻
     location: "Canada"
-    followers: 3600
-    engagement: 1350
-    commentsToLikes: 0.004404
+    followers: 3566
+    engagement: 1177
+    commentsToLikes: 0.033159
     id: ckac5t0sodlqq0i78mzjbtf6w
     verified: false
-    hashtags: "#boredathome, #sneakers, #nike, #sneakerhead"
+    hashtags: "#supreme, #bape, #covid19, #fyp"
   - username: "thewashedmarket"
     fullname: >-
       THEWASHEDMARKET
     bio: >-
       GROUP OF GUYS SELLING SNEAKERS FOLLOW OUR IG
     location: "Canada"
-    followers: 13800
-    engagement: 1446
-    commentsToLikes: 0.076789
+    followers: 13700
+    engagement: 1413
+    commentsToLikes: 0.076528
     id: ck8fa2unv3zae0j78oc64h3ty
     verified: false
-    hashtags: "#onmyway, #xyzbca, #4upage, #sneakermeetup"
+    hashtags: "#sneakermeetup, #topdog, #famous, #sneakers"
   - username: "lqmnahmed"
     fullname: >-
       Luqman
     bio: >-
-      Go follow my Instagram ⬆️ @lqmnahmed Soleistermgnt@gmail.com 🇨🇦 Toronto
+      Toronto 📍 Soleistermgnt@gmail.com Your Average Sneaker Head 👟
     location: "Canada"
-    followers: 50700
-    engagement: 1232
-    commentsToLikes: 0.037784
+    followers: 100100
+    engagement: 988
+    commentsToLikes: 0.026899
     id: ckcjczohy9swl0j23a0yy16bm
     verified: false
-    hashtags: "#sneakerhead, #nike, #jordan1, #snkrs"
+    hashtags: "#diy, #tiktokggt, #sneakers, #foryoupage"
+  - username: "cainbeaudoin"
+    fullname: >-
+      Cain Beaudoin
+    bio: >-
+      Artist / Sneakerhead
+    location: "Canada"
+    followers: 31800
+    engagement: 1082
+    commentsToLikes: 0.080609
+    id: ckcp3xunvc4yn0j23bfxk4qau
+    verified: false
+    hashtags: "#nike, #pokemon, #sneakerheads, #duet"
   - username: "kristophercarrillo"
     fullname: >-
       Kris Carrillo
     bio: >-
       I try to make sneakerhead content when I can 🇨🇦🇵🇭 ‘02 LLCB 🕊✊🏽
     location: "Canada"
-    followers: 72800
-    engagement: 1359
-    commentsToLikes: 0.029667
+    followers: 70200
+    engagement: 1193
+    commentsToLikes: 0.020351
     id: ck8tprcnpqk4w0j78axn3eblk
     verified: false
-    hashtags: "#xyzbca, #streetwear, #nike, #yyc"
+    hashtags: "#hypebeast, #fashion, #foryoupage, #streetwear"
   - username: "paintplugz"
     fullname: >-
       Paintplugz
     bio: >-
       Bringing you wearable art 🎨 Custom shoes 👟 Dm on IG to make a purchase!
     location: "Canada"
-    followers: 26300
-    engagement: 1491
-    commentsToLikes: 0.013402
+    followers: 25600
+    engagement: 1436
+    commentsToLikes: 0.012459
     id: ckcowlot49ivg0j23fiwvh757
     verified: false
-    hashtags: "#louisvuitton, #burberry, #customshoes, #airforce1"
-  - username: "abi.sals"
-    fullname: >-
-      Abs😇
-    bio: >-
-      Only my shoes go viral
-    location: "Canada"
-    followers: 7544
-    engagement: 875
-    commentsToLikes: 0.029450
-    id: ck9dx92mcsa1i0j780cixc623
-    verified: false
-    hashtags: "#shoes, #euphoria, #hypebeast, #canada"
-  - username: "austinottone"
-    fullname: >-
-      Austin Ottone
-    bio: >-
-      🇨🇦 - 22 ⬇️FALL 2020⬇️
-    location: "Canada"
-    followers: 199900
-    engagement: 947
-    commentsToLikes: 0.015506
-    id: ck806zm4rndor0j78p6bgjsh2
-    verified: false
-    hashtags: "#oneofone, #upcycledfurniture, #vancitystreet, #vancityst"
+    hashtags: "#hypebeast, #customshoes, #angeluspaints, #airforce1"
   - username: "rozkicks"
     fullname: >-
       Rozkicks
     bio: >-
-      Canada📍 Insta - @Rozkickz
+      Canada📍 Insta - @Rozkicks
     location: "Canada"
-    followers: 3513
-    engagement: 1244
-    commentsToLikes: 0.011125
+    followers: 3344
+    engagement: 1240
+    commentsToLikes: 0.010712
     id: ck8f82ju53csm0j78882yd7iz
     verified: false
-    hashtags: "#greenscreen, #fy, #customshoes, #jordan"
-  - username: "cainbeaudoin"
+    hashtags: "#hypebeast, #jordans, #shoes, #fypage"
+  - username: "itsfivethree"
     fullname: >-
-      Cain Beaudoin
+      Five Three
     bio: >-
-      Artist & Sneakerhead checkout my friends store
+      Redefining Luxury @ New Toronto LLDR
     location: "Canada"
-    followers: 8575
-    engagement: 1143
-    commentsToLikes: 0.033660
-    id: ckcp3xunvc4yn0j23bfxk4qau
+    followers: 5342
+    engagement: 775
+    commentsToLikes: 0.023780
+    id: ckavjn311sda80j23716zfbqc
     verified: false
-    hashtags: "#sneakerhead, #shoe, #jordan, #ooh"
+    hashtags: "#kith, #hypebeast, #offwhite, #virgilabloh"
+  - username: "overdoseto"
+    fullname: >-
+      ODTO
+    bio: >-
+      273 Queen St W, Toronto Friday - Saturday: 12PM - 7PM Sunday - Thursday: CLOSED
+    location: "Canada"
+    followers: 27300
+    engagement: 1270
+    commentsToLikes: 0.021266
+    id: ckck5lcelqkm80j23b684fhh0
+    verified: false
+    hashtags: "#supremenewyork, #foryoupage, #trophyroom, #sneakers"
 ---

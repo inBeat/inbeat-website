@@ -1,36 +1,24 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Poland In 2022
+title: Top 10 Illustrators Instagram Influencers In Poland In 2023
 description: >-
-  Find top illustrators Instagram influencers in Poland in 2022. Most popular hashtags: #illustration #digitalart #procreate #digitalillustration.
+  Find top illustrators Instagram influencers in Poland in 2023. Most popular hashtags: #illustration #ilustracja #digitalillustration #digitalart.
 platform: Instagram
-hits: 49
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 49 Instagram influencers like this in Poland for you to contact.
+hits: 40
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 40 Instagram influencers like this in Poland for you to work with.
 profiles:
-  - username: "mateusz_kolek"
-    fullname: >-
-      Mateusz Kolek
-    bio: >-
-      Illustrator
-    location: "Poland"
-    followers: 12516
-    engagement: 439
-    commentsToLikes: 0.018478
-    id: ck136wwhc8nmt0i19ib9ncl6n
-    verified: false
-    hashtags: "#streetart, #artdaily, #blackandwhite, #art"
   - username: "emilia.dziubak"
     fullname: >-
       Emilia Dziubak 🍋
     bio: >-
       Illustrator
     location: "Poland"
-    followers: 49588
-    engagement: 315
-    commentsToLikes: 0.017169
+    followers: 51548
+    engagement: 316
+    commentsToLikes: 0.012088
     id: ck8szg724obg70j78y3oq9bpg
     verified: false
-    hashtags: "#bookstagram, #emiliadziubak, #bookstagrampl, #repost"
+    hashtags: "#emiliadziubak, #barbarakosmowska, #martinwidmark, #bonniercarlsen"
   - username: "nioskacom"
     fullname: >-
       Katarzyna Bogucka
@@ -42,89 +30,101 @@ profiles:
     commentsToLikes: 0.011243
     id: ck0w3crlpsqx70i1994n3z6ec
     verified: false
-    hashtags: "#editorialillustration, #paperillustration, #katarzynabogucka, #paperwork"
-  - username: "nagannapanna"
+    hashtags: "#cutout, #paperwork, #nioska, #paperart"
+  - username: "wonder_franca"
     fullname: >-
-      Panna
+      Marta
     bio: >-
-      Creative mind | Architecture student | Illustrator ▫️Commissions ▫️Check out my YouTube channel
+      designer | illustrator tattoo apprentice in @scarlettstudiotattoo | Bydgoszcz
     location: "Poland"
-    followers: 10252
-    engagement: 1278
-    commentsToLikes: 0.023068
-    id: ckaovuz6i679c0i78epu9rkir
+    followers: 2603
+    engagement: 665
+    commentsToLikes: 0.042875
+    id: ck6u6qmf1h5l40j71orehgr7i
     verified: false
-    hashtags: "#speedpaint, #illustration, #creative, #design"
+    hashtags: "#neotraditionaltattoo, #polandtattoos, #whiptattoo, #tattooink"
   - username: "rena.illustration"
     fullname: >-
       Renata Krawczyk
     bio: >-
-      Freelance illustrator & designer ——————————————— ✉️ hello@renaillustration.com ———————————————
+      Freelance illustrator & designer Collaboration: hello@renaillustration.com ————————— My shop on Etsy:
     location: "Poland"
-    followers: 14750
-    engagement: 784
-    commentsToLikes: 0.017273
+    followers: 21905
+    engagement: 469
+    commentsToLikes: 0.022437
     id: ck0vz71rr7mth0i19hwh4v2z9
     verified: false
-    hashtags: "#handmade, #picame, #illustration, #szkicownik"
+    hashtags: "#penandinkart, #pendrawing, #fineliner, #sketchbookdrawing"
   - username: "muiri_"
     fullname: >-
-      Marta 🌿✏️
+      Marta Głowacka 🌿✏️
     bio: >-
       🎨 freelance illustrator 🌻 plants and colors enthusiast 💌 business inquiries/commissions: muiri.art@gmail.com
     location: "Poland"
-    followers: 10668
-    engagement: 701
-    commentsToLikes: 0.067396
+    followers: 10688
+    engagement: 480
+    commentsToLikes: 0.080277
     id: ck15sxgwxfapb0i195nokcbam
     verified: false
-    hashtags: "#digitalart, #natureart, #traditionalillustration, #botanicalart"
-  - username: "maciek_polak"
-    fullname: >-
-      illustration design mural
-    bio: >-
-      ✍🏻 illustrator/designer/muralist/type/creative head✉️ collabs: maciekpolak01@gmail.com 🇵🇱 ŁDŹ/CZWA
-    location: "Poland"
-    followers: 15995
-    engagement: 552
-    commentsToLikes: 0.019244
-    id: ck55ops0v8v7g0i11hhgp39lt
-    verified: false
-    hashtags: "#illustrator, #poster, #ilustracja, #painting"
-  - username: "fennethianell"
-    fullname: >-
-      Agnieszka Lepak
-    bio: >-
-      PLS DON'T REPOST MY ART TO OTHER SITES! 31 | Poland | PL/ENG | storyboard | fanartist | illustrator @fennethianell on dA, fb, twitter, tumblr
-    location: "Poland"
-    followers: 5185
-    engagement: 1075
-    commentsToLikes: 0.025027
-    id: ck6tjclq32g650j71ucfargcn
-    verified: false
-    hashtags: "#t100, #marcuskane, #ardent, #kabby"
+    hashtags: "#botanicalart, #markerart, #theydrawandgarden, #femaleartist"
   - username: "iwakowalska.pl"
     fullname: >-
       Iwa Kowalska | Custom painting
     bio: >-
       Mama • Illustrator • Pizzalover Illustrations • Logo • Customized family portraits Orders: iwa@iwakowalska.pl
     location: "Poland"
-    followers: 6517
-    engagement: 451
-    commentsToLikes: 0.056221
+    followers: 6965
+    engagement: 301
+    commentsToLikes: 0.047607
     id: ck9hbq38vhzhx0j78s3wmtaph
     verified: false
-    hashtags: "#botanical, #illustrator, #customgifts, #custompainting"
-  - username: "helen.of.koi"
+    hashtags: "#digitalillustrator, #giftidea, #perfectgift, #digitalart"
+  - username: "anarudak"
     fullname: >-
-      Helen Li // illos × pokes
+      Anna Rudak
     bio: >-
-      Aussie illustrator in Warsaw, Poland Handpoke tattoos @nanuszkaartstudio
+      ✺ illustrator ✺ yogi ✺ cloudhead @anarudakdaily
     location: "Poland"
-    followers: 18518
-    engagement: 669
-    commentsToLikes: 0.007547
-    id: ck0w1ptbpkjcl0i19g7kl40az
+    followers: 28129
+    engagement: 357
+    commentsToLikes: 0.014822
+    id: ck600v5avebup0i14ggi3toac
     verified: false
-    hashtags: "#minimalarchive, #dogtattoo, #polandtattoo, #cutetattoo"
+    hashtags: "#illustration, #polishillustration, #dailyart, #minimal"
+  - username: "annahalarewicz"
+    fullname: >-
+      Anna Halarewicz
+    bio: >-
+      annahalarewicz@gmail.com #fashionillustrator #annahalarewicz #illustrator #watercolorillustration
+    location: "Poland"
+    followers: 40979
+    engagement: 102
+    commentsToLikes: 0.057498
+    id: ck5cimoz4sxvd0i115cskcvzn
+    verified: false
+    hashtags: "#workinprogress, #annahalarewicz, #couture, #watercolor"
+  - username: "fennethianell"
+    fullname: >-
+      Fen
+    bio: >-
+      PLS DON'T REPOST MY ART TO OTHER SITES! 31 | Poland | PL/ENG | storyboard | fanartist | illustrator @fennethianell on dA, twitter, tumblr, youtube
+    location: "Poland"
+    followers: 5097
+    engagement: 949
+    commentsToLikes: 0.025312
+    id: ck6tjclq32g650j71ucfargcn
+    verified: false
+    hashtags: "#kabby, #digitalsketch, #regency, #cartoonstyle"
+  - username: "julia.pezowicz"
+    fullname: >-
+      Julia | journaling & doodles
+    bio: >-
+      illustrator & small business owner from Poland ✨ contact: j.pezowicz7@gmail.com my stickers shop, youtube and more 👇🏻
+    location: "Poland"
+    followers: 29778
+    engagement: 236
+    commentsToLikes: 0.053353
+    id: ck8taumx8t4pv0j7872adqhc2
+    verified: false
+    hashtags: "#shopupdate, #shopsmall, #stickershop, #aestheticbujo"
 ---

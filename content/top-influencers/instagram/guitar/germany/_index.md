@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Germany In 2022
+title: Top 10 Guitar Instagram Influencers In Germany In 2023
 description: >-
-  Find top guitar Instagram influencers in Germany in 2022. Most popular hashtags: #guitarist #guitar #music #guitarra.
+  Find top guitar Instagram influencers in Germany in 2023. Most popular hashtags: #guitarist #guitar #music #musician.
 platform: Instagram
-hits: 234
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 234 Instagram influencers like this in Germany for you to pitch.
+hits: 159
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 159 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "marcussiepen"
-    fullname: >-
-      Marcus Siepen
-    bio: >-
-      Blind Guardian guitarist @blindguardian #guitarist #musician #metal
-    location: "Germany"
-    followers: 8432
-    engagement: 1269
-    commentsToLikes: 0.065612
-    id: ck9wox4f46y8y0j78xbqqv9yr
-    verified: false
-    hashtags: "#iloveit, #lespaul, #electricguitar, #guitarporn"
-  - username: "taylr_the_g"
-    fullname: >-
-      
-    bio: >-
-      “If I’m gonna tell a real story, I’ll start with my name” 𝕿𝖆𝖞𝖑𝖔𝖗 𝕲 God ☝🏽 Gamble 🩸🎲🩸 Guitarist 🎸
-    location: "Germany"
-    followers: 7922
-    engagement: 725
-    commentsToLikes: 0.083922
-    id: ck5zs7angxytl0i147oj7lckm
-    verified: false
-    hashtags: "#arilennox, #fender, #sheabutterbaby, #femaleguitarist"
   - username: "martinablazeska"
     fullname: >-
       Martina Blazeska
     bio: >-
-      guitar playing, singing & songwriting ✨ macedonian based in usa / germany ↓ watch my new video
+      guitar playing, singing & songwriting ✨ macedonian in usa / germany watch my new video ↓
     location: "Germany"
-    followers: 16664
-    engagement: 980
-    commentsToLikes: 0.047398
+    followers: 19603
+    engagement: 1291
+    commentsToLikes: 0.030133
     id: ck14gg8w652lo0i19p30pja4z
     verified: false
-    hashtags: "#guitarra, #music, #vocals, #ibanezguitars"
-  - username: "jaxonrose"
+    hashtags: "#musico, #fashionstyle, #songwriting, #singer"
+  - username: "javier_g_breatheyourlast"
     fullname: >-
-      JAXON ROSE  🇳🇿
+      ♠️ 𝕵𝖆𝖛𝖎𝖊𝖗 𝕲𝖆𝖗𝖈𝖎𝖆
     bio: >-
-      vocals/guitarist @sunroseband @wilhelminamodels @modelwerk @independent_mgmt @ericsternstyle
+      Vox & Guitars @breatheyourlast Model & Ambassador @emp_de 🔥Cooperations: @nuclearblastrecords @metalbladerecords @oktober_promotion @centurymediaeu
     location: "Germany"
-    followers: 195706
-    engagement: 298
-    commentsToLikes: 0.016387
-    id: ck5zyqjpyacf30i141r4dfpka
-    verified: true
-    hashtags: ""
+    followers: 36257
+    engagement: 341
+    commentsToLikes: 0.114457
+    id: ckap0lflhqtjc0i78m9ateyis
+    verified: false
+    hashtags: "#supportmetalbands, #hornsup, #metal, #javier"
+  - username: "albert_draufgaenger"
+    fullname: >-
+      Albert-Mario Lampel
+    bio: >-
+      🎤🎸 #singer & #guitarist @die_draufgaenger 📀 🎧 #songwriter & #producer lampel records 🥤 friend of @dsire_teadrink_austria
+    location: "Germany"
+    followers: 20637
+    engagement: 810
+    commentsToLikes: 0.012643
+    id: ck14ljudvv1v20i19zn2fyo1k
+    verified: false
+    hashtags: "#lampelrecords, #stayathome, #bleibdahoam, #moteaviert"
+  - username: "_micklas_"
+    fullname: >-
+      Michael Glashauser
+    bio: >-
+      European | Landscapes | Family | Guitar | Books | Sports 🏡 | Bavaria @markt_essing 📭 | collab&training 📷 | mine © 🌍 | 38/194 ™️ | @_micklastravels_
+    location: "Germany"
+    followers: 55758
+    engagement: 1611
+    commentsToLikes: 0.116716
+    id: ckapcf53a3k780i78ciu2wlpb
+    verified: false
+    hashtags: "#deutschland, #travelwithkids, #wellness, #venetogram"
   - username: "g.force.club"
     fullname: >-
       G-Force Club
     bio: >-
       Favorite guitar masters
     location: "Germany"
-    followers: 12673
-    engagement: 1038
-    commentsToLikes: 0.012400
+    followers: 13852
+    engagement: 776
+    commentsToLikes: 0.012092
     id: ck0w4voey0mwo0i19cgwy5v4q
     verified: false
-    hashtags: "#gibsonguitars, #charvelguitars, #marshallamps, #stratocaster"
-  - username: "_micklas_"
-    fullname: >-
-      Michael G.
-    bio: >-
-      European|Cosmopolitan|Traveller|Family|Guitar|Books|Sports 🏡 | Bavaria @markt_essing 📭 | collab+training 📷 | mine © 🌍 | 38/194 ™️ | @_micklastravels_
-    location: "Germany"
-    followers: 37084
-    engagement: 2415
-    commentsToLikes: 0.103260
-    id: ckapcf53a3k780i78ciu2wlpb
-    verified: false
-    hashtags: "#tirol, #beachvibes, #gewinnspiel, #concours"
-  - username: "cil.city"
-    fullname: >-
-      Cil City
-    bio: >-
-      Music | Guitar | Coffee | Horrormovies | Ibanez-Freak personal Profile of Cil City Guitarist Hal West official Jägermeister Band NEW SINGLE OUT NOW!
-    location: "Germany"
-    followers: 3919
-    engagement: 871
-    commentsToLikes: 0.207485
-    id: ckapajqstwdtf0i78zapgymla
-    verified: false
-    hashtags: "#passion, #wien, #rockguitar, #ibanezjem"
-  - username: "mille.petrozza"
-    fullname: >-
-      Mille Petrozza
-    bio: >-
-      Singer, guitarist and songwriter of the band Kreator
-    location: "Germany"
-    followers: 55195
-    engagement: 564
-    commentsToLikes: 0.017477
-    id: ckaoz2zwrk5g50i782fvathco
-    verified: true
-    hashtags: "#satan, #metal, #kreator, #thrashmetal"
+    hashtags: "#legend, #gibsonlespaul, #guitargod, #guitarsolo"
   - username: "yaroslava.ihnatenko"
     fullname: >-
       Yaroslava Ihnatenko
     bio: >-
-      classical guitarist Robert Schumann Hochschule für Musik Sumy, Ukraine - Düsseldorf, Germany
+      Sharing the moments of my practice classical guitarist Robert Schumann Hochschule für Musik Sumy, Ukraine - Düsseldorf, Germany
     location: "Germany"
-    followers: 58898
-    engagement: 988
-    commentsToLikes: 0.022628
+    followers: 64284
+    engagement: 1110
+    commentsToLikes: 0.020810
     id: ck9hc30tyjj480j7807xe430a
     verified: false
-    hashtags: "#classical, #girlmusician, #germany, #caprice"
+    hashtags: "#femaleguitarist, #guitarlife, #guitarplayer, #instaguitar"
   - username: "serkanozcelik"
     fullname: >-
-      Serkan Özçelik
+      Serkan Özçelik
     bio: >-
       Guitarist / Developer • Born in Germany, lives in Turkey.
     location: "Germany"
-    followers: 5231
+    followers: 5274
     engagement: 524
-    commentsToLikes: 0.008270
+    commentsToLikes: 0.012906
     id: ckap33jz11eyc0i78foypnaym
     verified: false
-    hashtags: "#burak, #nightlife, #rockmusic, #nightclub"
+    hashtags: "#guitarist, #burak, #marshall, #rockmusic"
+  - username: "josiestickdorn"
+    fullname: >-
+      Josie ✨
+    bio: >-
+      nineteen heidelberg, germany self taught #guitarist 🎸 tennis player 👇 check out my latest youtube video
+    location: "Germany"
+    followers: 113603
+    engagement: 882
+    commentsToLikes: 0.030347
+    id: ck5hdhei7nfxb0i11u292w2q6
+    verified: false
+    hashtags: "#guitarporn, #guitar, #musician, #guitarist"
+  - username: "arapersadmehr"
+    fullname: >-
+      Ara Persadmehr
+    bio: >-
+      Musician🎵🎼🎶🎸 (آرا پِرسادمهر) برای هماهنگی ضبط استودیو گیتار و تدریس دایرکت لطفاً 🙏 TeachingGuitar Singer/Guitarist/Composer/Arrangement
+    location: "Germany"
+    followers: 3239
+    engagement: 1438
+    commentsToLikes: 0.080588
+    id: ck6027ypkgw1z0i14lrkl8655
+    verified: false
+    hashtags: "#modernmusic, #guitarplayer, #flamencoguitar, #piano"
+  - username: "noelledosanjos"
+    fullname: >-
+      Noelle dos Anjos
+    bio: >-
+      👾 Streaming on Mon/Wed/Fri on Twitch! 🎶 Vocalist/Guitarist for @nungaraband 🎸Lead Guitarist for @alkoholika_tribute 🌺 Twitch, YouTube, Patreon & more:
+    location: "Germany"
+    followers: 28261
+    engagement: 747
+    commentsToLikes: 0.025622
+    id: ckf5vbepenzbc0j239mj58a5n
+    verified: false
+    hashtags: "#guitarriffs, #twitchmusician, #maleficent, #twitchstreamer"
 ---

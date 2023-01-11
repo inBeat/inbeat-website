@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Berlin In 2022
+title: Top 10 Models Instagram Influencers In Berlin In 2023
 description: >-
-  Find top models Instagram influencers in Berlin in 2022. Most popular hashtags: #fashion #model #berlin #loveyourself.
+  Find top models Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #model #photography #fashion.
 platform: Instagram
-hits: 550
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 550 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 350
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 350 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "janice.mle"
+  - username: "cinnndulka"
     fullname: >-
-      𝐉𝐚𝐧𝐢𝐜𝐞-𝐌𝐚𝐱𝐢𝐧𝐞
+      𝐂𝐈𝐍𝐃𝐘 𝐊𝐎𝐋𝐋 | 📍Dortmund
     bio: >-
-      𝐛𝐞𝐫𝐥𝐢𝐧, 𝐠𝐞𝐫𝐦𝐚𝐧𝐲 ᴸ‘²⁰⁰⁵
+      𝚈𝙾𝚄 𝚂𝙷𝙾𝚄𝙻𝙳 𝙱𝙴 𝚂𝙼𝙸𝙻𝙸𝙽𝙶✨ • sport • lifestyle • positivity • @pomelo_co.de bis zu 60% ⬇️
     location: "Germany"
-    followers: 5447
-    engagement: 1929
-    commentsToLikes: 0.086842
-    id: ck9hc2hptjgox0j78t8c6o10e
+    followers: 5348
+    engagement: 1582
+    commentsToLikes: 0.081813
+    id: ckf5kwimlnigf0j23wi8vg36d
     verified: false
-    hashtags: "#photography, #picoftheday, #loveyourself, #blond"
-  - username: "vanessa.leoness"
+    hashtags: "#dortmund, #shooting, #lifestyleportraits, #instagram"
+  - username: "juliabornkessel"
     fullname: >-
-      Vanessa Lu 🦁☀️
+      Julia Bornkessel Fotografin
     bio: >-
-      it's V 🌱 Plantbased vegan 🌱 Fashion | Nutrition | Fitness
+      Fotografin |📍Berlin Pankow | Social Media @dmsg_nordrheinwestfalen | 💚Bündnis 90/Die Grünen KV Pankow| 👇 Arbeit im Feed, 👈 Tag in der Story |
     location: "Germany"
-    followers: 9218
-    engagement: 514
-    commentsToLikes: 0.093369
-    id: ckap9cfwcs3eq0i78ejbqnu2g
+    followers: 13200
+    engagement: 734
+    commentsToLikes: 0.007154
+    id: ckaoyfdimhagc0i78s0zm1h8m
     verified: false
-    hashtags: "#model, #berlinmodel, #modelcouple, #modelsgermany"
-  - username: "jolinasofie"
+    hashtags: ""
+  - username: "officialarbresha"
     fullname: >-
-      Joliηα Peppiηα Shαlуη Sofie
+      officialarbresha
     bio: >-
-      Currently Berlin 📍 🦋 BOOKINGS-> @seedsmodels @selectmodelstockholm @bravemodels @blowmodels @scoutmodel1 @elite_lisbon
+      ℍ𝕖𝕣𝕫𝕝𝕚𝕔𝕙𝕨𝕚𝕝𝕝𝕜𝕠𝕞𝕞𝕖𝕟 𝕒𝕦𝕗 𝕞𝕖𝕚𝕟𝕖𝕟 ℙ𝕣𝕠𝕗𝕚𝕝 𝕩𝟛 𝕄𝕠𝕕𝕖,𝕝𝕚𝕗𝕖𝕤𝕥𝕪𝕝 & 𝕞𝕠𝕣𝕖 🏴
     location: "Germany"
-    followers: 18442
-    engagement: 170
-    commentsToLikes: 0.053688
-    id: ck5c34wytylti0i11w42a14he
+    followers: 9117
+    engagement: 330
+    commentsToLikes: 0.071016
+    id: ck0ua6viobldh0i190z600qf2
     verified: false
-    hashtags: "#germany, #beach, #noretouch, #atumn"
-  - username: "stellasstern.official"
+    hashtags: "#kosova, #bhfyp, #lifestyle, #fero"
+  - username: "guelcan_arslan"
     fullname: >-
-      Stella Schulz   Mom/ Lifestyle
+      Gülcan Arslan Pro Make up 💋
     bio: >-
-      Stella Schulz 🚩 #berlin ⭐️ #lifestyle ⭐️ #momlife ⭐️ #family Partnerprofil: stella.schulz.official Impressum :https://stellasstern.de/impressum/
+      Pro Dipl.Special Make up Artist 💯 Senior Beauty Expert🌸 Face& Bodypaint Artist ❤️ #makeupartistsworldwide #makeupartist
     location: "Germany"
-    followers: 219330
-    engagement: 164
-    commentsToLikes: 0.116892
-    id: ck15uwkxtousu0i19bnqa4bxo
+    followers: 36655
+    engagement: 960
+    commentsToLikes: 0.006089
+    id: ck135l9781yrx0i19qsa0viia
     verified: false
-    hashtags: "#giveaway, #lebenmitkleinkind, #beauty, #mom"
-  - username: "cathy.lugner"
+    hashtags: "#mua, #chabos, #outnow, #tb"
+  - username: "angelo19_88"
     fullname: >-
-      𝐉𝐮𝐬𝐭 𝐂𝐚𝐭𝐡𝐲 ♡
+      ᴬ     ᴺ     ᴳ     ᴱ     ᴸ    ᴼ
     bio: >-
-      𝐃𝐨𝐧’𝐭 𝐣𝐮𝐝𝐠𝐞 - 𝐬𝐩𝐫𝐞𝐚𝐝 𝐥𝐨𝐯𝐞 ❥ ⋆ 𝙰𝚗𝚒𝚖𝚊𝚕𝚜 | 𝙶𝚘𝚍 | 𝙵𝚒𝚝𝚗𝚎𝚜𝚜 ⋆ 𝙱𝚎𝚛𝚕𝚒𝚗 | 𝟹𝟶 ⋆ 𝙼𝚊𝚔𝚎-𝚞𝚙-𝙰𝚛𝚝𝚒𝚜𝚝 ↳ 𝚋𝚘𝚘𝚔𝚒𝚗𝚐: 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝@𝚌𝚊𝚝𝚑𝚢𝚕𝚞𝚐𝚗𝚎𝚛.𝚌𝚘𝚖
+      🇮🇹 | B E R L I N ᴬᴿᵀᴰᴵᴿᴱᶜᵀᴼᴿ_ᴾᴴᴼᵀᴼᴳᴿᴬᴾᴴᴱᴿ _
     location: "Germany"
-    followers: 178364
-    engagement: 337
-    commentsToLikes: 0.030018
-    id: ck6uf1lodubt20j713qge0wxq
+    followers: 20039
+    engagement: 1191
+    commentsToLikes: 0.034179
+    id: ck5q9kse0bly90i11szpa9t6k
+    verified: false
+    hashtags: "#stayathome, #iorestoacasa, #bleibtzuhause, #bw"
+  - username: "marcellsantoz"
+    fullname: >-
+      FASHION, TRAVEL & LIFESTYLE
+    bio: >-
+      📱TikTok ~ 200k #marcellsantoz #mensfashion #travel - 🌎 Content creator & traveler 📧 Management@marcellsantoz.com 📍 #berlin 🇩🇪
+    location: "Germany"
+    followers: 80317
+    engagement: 178
+    commentsToLikes: 0.056467
+    id: ck0tzcfufpsmm0i19gjqjo2yp
+    verified: false
+    hashtags: "#architecture, #mensoutfitideas, #architecturephoto, #matemate"
+  - username: "martashkop"
+    fullname: >-
+      Marta Shkop
+    bio: >-
+      
+    location: "Germany"
+    followers: 111077
+    engagement: 487
+    commentsToLikes: 0.003821
+    id: ck5hjklv6gskm0i11g6cvno15
+    verified: false
+    hashtags: "#berlinale, #movie, #berlin, #premiere"
+  - username: "vans.blanc"
+    fullname: >-
+      𝐕 𝐀 𝐍 𝐒
+    bio: >-
+      graphic designer, dancer, model 🔗 Berlin | Ulm 🇪🇷🇩🇪🐪
+    location: "Germany"
+    followers: 2860
+    engagement: 1224
+    commentsToLikes: 0.115761
+    id: ckaowvcl2am100i78970d3f9f
+    verified: false
+    hashtags: "#berlin, #girlswithcurls, #curlyhair, #illustration"
+  - username: "wilfried.em"
+    fullname: >-
+      Ebongue Wilfried
+    bio: >-
+      Dancer • Performer • Creative • Model 📍Berlin • Le Mans 🇫🇷✖️🇨🇲 @little_ummah_ @legiteam_obstruxion @flyingsteps93 @ccnlr @ciespoart
+    location: "Germany"
+    followers: 5150
+    engagement: 550
+    commentsToLikes: 0.056293
+    id: ck15u3o6wl9tv0i19bwc4slv7
+    verified: false
+    hashtags: "#bboy, #sneakers, #berlin, #photography"
+  - username: "sally.ann"
+    fullname: >-
+      sally ann
+    bio: >-
+      𝔠𝔯𝔢𝔞𝔱𝔢 𝔡𝔬𝔫’𝔱 𝔥𝔞𝔱𝔢 ⋆ model / artist ⋆ berlin ⋆ @girlsclubmgmt
+    location: "Germany"
+    followers: 65848
+    engagement: 224
+    commentsToLikes: 0.011579
+    id: ck5q6444cvvd30i11dvpapgr2
     verified: true
-    hashtags: "#poetrylover, #love, #bln, #cathylugner"
-  - username: "leonielomann"
-    fullname: >-
-      Leonielomann
-    bio: >-
-      Model based in Hamburg/ Bremen Berlin / Osnabrück/Copenhagen
-    location: "Germany"
-    followers: 5507
-    engagement: 494
-    commentsToLikes: 0.035612
-    id: ck5hlyvgol3ty0i11jbtkguxg
-    verified: false
-    hashtags: "#germanmodel, #balconylife, #portraitphotography, #fashionphotography"
-  - username: "sarahamalija"
-    fullname: >-
-      sassybabydemon
-    bio: >-
-      “tall, skinny, and ugly” 🤠 @izaio.modelmanagement
-    location: "Germany"
-    followers: 3979
-    engagement: 1382
-    commentsToLikes: 0.025144
-    id: ck55nhy4l698x0i11cly5s4sh
-    verified: false
-    hashtags: "#mcmworldwide, #myclosetmonday, #ronashooting, #model"
-  - username: "leonieyoung"
-    fullname: >-
-      ＬＥＯ ＪＵＮＧ 🌻
-    bio: >-
-      TV-Producer | Model | Dogmum BERLIN | SCHWARZWALD | CAPE TOWN 24/7 info@leoniejung.com
-    location: "Germany"
-    followers: 32888
-    engagement: 353
-    commentsToLikes: 0.023097
-    id: ck602d8hah6380i1491ga0iak
-    verified: false
-    hashtags: "#loveyourself, #autumn2020, #nofilternofriends, #sundayz"
-  - username: "liza.waschke"
-    fullname: >-
-      Liza Waschke
-    bio: >-
-      Actress, Model ◾️ @berlinmanagement Impressum:
-    location: "Germany"
-    followers: 470795
-    engagement: 393
-    commentsToLikes: 0.005706
-    id: ck137da4daywp0i19lhsdt5v1
-    verified: true
-    hashtags: "#shooting, #adidas, #loveyourself, #fanwuphotography"
-  - username: "trixigiese"
-    fullname: >-
-      Trixi Giese
-    bio: >-
-      Trixi | 20 years old | Model 📍Berlin, Toulouse NEW YouTube Video ⬇️🎥
-    location: "Germany"
-    followers: 227623
-    engagement: 384
-    commentsToLikes: 0.011445
-    id: ck5q642yavv8y0i111rqpgllv
-    verified: true
-    hashtags: "#styleblogger, #quotes, #outfit, #instafashion"
+    hashtags: "#fashion, #streetfashion, #zalandostyle, #championeurope"
 ---

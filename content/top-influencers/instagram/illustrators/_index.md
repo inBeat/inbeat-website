@@ -1,130 +1,130 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In 2022
+title: Top 10 Illustrators Instagram Influencers In 2023
 description: >-
-  Find top illustrators Instagram influencers in 2022. Most popular hashtags: #illustration #digitalart #corona.
+  Find top illustrators Instagram influencers in 2023. Most popular hashtags: #vector #sketchbook #martinwidmark.
 platform: Instagram
-hits: 5975
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 5975 Instagram influencers like this for you to work with.
+hits: 5711
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 5711 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "sashakru"
+  - username: "jannamattia"
     fullname: >-
-      Illustrator
-    bio: >-
-      Illustrator, CEO at @lil.school sashakrucha(a)gmail.com
-    location: "Russia"
-    followers: 77706
-    engagement: 397
-    commentsToLikes: 0.057316
-    id: ck5zrha72wkor0i1497ut0ns4
-    verified: false
-    hashtags: "#lil"
-  - username: "roshi_rouzbehani"
-    fullname: >-
-      Roshi Rouzbehani
+      Janna Mattia
     bio: >-
       Illustrator
-    location: "Iran"
-    followers: 10615
-    engagement: 710
-    commentsToLikes: 0.045478
-    id: ck15s6xxjbj620i19ax17s0rr
+    location: ""
+    followers: 23669
+    engagement: 654
+    commentsToLikes: 0.017854
+    id: ck138vy16i9ux0i19s8malcis
     verified: false
-    hashtags: "#corona, #illustratorsoninstagram, #illustagram, #editorialillustration"
-  - username: "martinbedolla"
+    hashtags: "#watercolor, #sketchbook, #holidays, #christmas"
+  - username: "kodone"
     fullname: >-
-      Martiη Bеdοlla
+      kodone
     bio: >-
       illustrator
-    location: ""
-    followers: 53583
-    engagement: 701
-    commentsToLikes: 0.004381
-    id: ck6u3otazz0en0j71x2rh3j50
+    location: "United States"
+    followers: 130480
+    engagement: 355
+    commentsToLikes: 0.011330
+    id: ck5c2d6ljx0wn0i11pplszpf3
     verified: false
-    hashtags: "#wip, #tbt"
+    hashtags: ""
+  - username: "alikikarkoulia"
+    fullname: >-
+      Aliki Karkoulia
+    bio: >-
+      Illustrator
+    location: "United States"
+    followers: 45895
+    engagement: 557
+    commentsToLikes: 0.005993
+    id: ck8sxr8eaida50j780mt2lj7f
+    verified: false
+    hashtags: ""
   - username: "nimuradaisuke"
     fullname: >-
       Nimura daisuke
     bio: >-
       illustrator
     location: "Japan"
-    followers: 21973
-    engagement: 826
-    commentsToLikes: 0.006719
+    followers: 22946
+    engagement: 726
+    commentsToLikes: 0.005129
     id: ck5buvx1piixp0i11y1pefk11
     verified: false
     hashtags: "#stayhome"
-  - username: "elisatalentino"
-    fullname: >-
-      Elisa Talentino Illustration
-    bio: >-
-      Illustrator
-    location: "Italy"
-    followers: 20611
-    engagement: 437
-    commentsToLikes: 0.014895
-    id: ck0w5p5eq4rca0i19fi6c5nq8
-    verified: false
-    hashtags: "#astadipasquetta, #ildanzatoredellacqua"
-  - username: "joseramos1972"
-    fullname: >-
-      Jose Ramos
-    bio: >-
-      Illustrator
-    location: ""
-    followers: 30411
-    engagement: 1145
-    commentsToLikes: 0.029247
-    id: ck0w1rc12krd40i19q701akoy
-    verified: false
-    hashtags: "#sixfanart, #sixfanarts, #strangerthingsday, #6fanarts"
-  - username: "brian_draws"
-    fullname: >-
-      Brian Pratt
-    bio: >-
-      Illustrator
-    location: ""
-    followers: 8626
-    engagement: 587
-    commentsToLikes: 0.023427
-    id: ck6u5lks0abzz0j71qea1oex0
-    verified: false
-    hashtags: "#oldstuff"
-  - username: "rebeccaclarke"
-    fullname: >-
-      Rebecca Clarke
-    bio: >-
-      Illustrator
-    location: "United States"
-    followers: 5843
-    engagement: 502
-    commentsToLikes: 0.041189
-    id: ck8t0mycusm1s0j785wlnc37h
-    verified: false
-    hashtags: "#ruthbaderginsburg, #maxernst, #artgenius, #herm"
-  - username: "lizrowland"
-    fullname: >-
-      Liz Rowland
-    bio: >-
-      Illustrator
-    location: ""
-    followers: 17889
-    engagement: 332
-    commentsToLikes: 0.019338
-    id: ck8t295haylwu0j78stn5h4t7
-    verified: false
-    hashtags: ""
   - username: "vandubovik"
     fullname: >-
       Ivan Dubovik
     bio: >-
       Illustrator
     location: ""
-    followers: 33751
-    engagement: 301
-    commentsToLikes: 0.008767
+    followers: 31585
+    engagement: 350
+    commentsToLikes: 0.009349
     id: ck9ha44bwb29e0j78glt2jfmy
     verified: false
-    hashtags: "#vandubovik, #drawingaday, #dailyillustration, #dailydrawing"
+    hashtags: "#illustration, #inktober2020, #vandubovik, #stockillustration"
+  - username: "katepugsley"
+    fullname: >-
+      kate pugsley
+    bio: >-
+      illustrator
+    location: ""
+    followers: 204432
+    engagement: 157
+    commentsToLikes: 0.006549
+    id: ck15uiio6nca30i19q9m2bvdo
+    verified: false
+    hashtags: ""
+  - username: "emilia.dziubak"
+    fullname: >-
+      Emilia Dziubak 🍋
+    bio: >-
+      Illustrator
+    location: "Poland"
+    followers: 51548
+    engagement: 316
+    commentsToLikes: 0.012088
+    id: ck8szg724obg70j78y3oq9bpg
+    verified: false
+    hashtags: "#emiliadziubak, #barbarakosmowska, #martinwidmark, #bonniercarlsen"
+  - username: "robbaileystudio"
+    fullname: >-
+      Rob Bailey
+    bio: >-
+      Illustrator
+    location: ""
+    followers: 24478
+    engagement: 223
+    commentsToLikes: 0.008467
+    id: ck5q5zmbuv9pt0i114dclyo9d
+    verified: false
+    hashtags: ""
+  - username: "lizrowland"
+    fullname: >-
+      Liz Rowland
+    bio: >-
+      Illustrator
+    location: ""
+    followers: 18642
+    engagement: 351
+    commentsToLikes: 0.018734
+    id: ck8t295haylwu0j78stn5h4t7
+    verified: false
+    hashtags: ""
+  - username: "hungrae_"
+    fullname: >-
+      Hung Rae
+    bio: >-
+      Illustrator
+    location: "South Korea"
+    followers: 63902
+    engagement: 1847
+    commentsToLikes: 0.005357
+    id: ck5c41xdy0h6q0i119q0h4km7
+    verified: false
+    hashtags: ""
 ---

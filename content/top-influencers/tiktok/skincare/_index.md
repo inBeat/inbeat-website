@@ -1,108 +1,48 @@
 ---
-title: Top 10 Skincare TikTok Influencers In 2022
+title: Top 10 Skincare TikTok Influencers In 2023
 description: >-
-  Find top skincare TikTok influencers in 2022. Most popular hashtags: #skincare #fyp #aesthetic #skincareroutine.
+  Find top skincare TikTok influencers in 2023. Most popular hashtags: #fyp #skincare #skincareroutine #aesthetic.
 platform: TikTok
-hits: 4174
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 4174 TikTok influencers like this for you to connect with.
+hits: 5339
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 5339 TikTok influencers like this for you to work with.
 profiles:
-  - username: "skinkick"
-    fullname: >-
-      SkinKick
-    bio: >-
-      Clean + Natural Skincare @target @macys @ulta
-    location: "United States"
-    followers: 17400
-    engagement: 2792
-    commentsToLikes: 0.103643
-    id: ckbbvssj9j3cp0j23bd8px10x
-    verified: false
-    hashtags: "#skinkicklove, #asthetics, #vsco, #skincare"
-  - username: "laynes.life"
-    fullname: >-
-      ✰ layne ✰
-    bio: >-
-      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
-    location: "United States"
-    followers: 42400
-    engagement: 2550
-    commentsToLikes: 0.071745
-    id: ckfplcec901cu0j23yd02dkww
-    verified: false
-    hashtags: "#closeup, #xyzbca, #fall, #fyp"
-  - username: "jc.dombrowski"
-    fullname: >-
-      J.C. Dombrowski
-    bio: >-
-      💦Cornell23 MarineBio Student🧬 🇵🇭Honest Skincare🏳️‍🌈 FakeNews-phobic 💅🏼
-    location: "United States"
-    followers: 2900000
-    engagement: 2574
-    commentsToLikes: 0.013173
-    id: ck80obynrgodq0j786z4nwcq0
-    verified: true
-    hashtags: "#skincareroutine, #tiktokpartner, #edutok, #election"
-  - username: "bliss"
-    fullname: >-
-      Bliss
-    bio: >-
-      ✨Clean, Cruelty-Free Skincare Shop: @target @walmart @ultabeauty @cvs @walgreens
-    location: "United States"
-    followers: 85400
-    engagement: 2014
-    commentsToLikes: 0.030622
-    id: ck8zb72ow4e090j78e2bos8cg
-    verified: true
-    hashtags: "#oddlysatisfying, #skincare, #aesthetic, #thisisbliss"
-  - username: "glossygurrl"
-    fullname: >-
-      aesthetic
-    bio: >-
-      More Love <3 skincare, cooking, lifestyle, tips
-    location: "Lebanon"
-    followers: 13900
-    engagement: 1574
-    commentsToLikes: 0.067853
-    id: ckbeo2x2p3w9e0j231mb7x5nm
-    verified: false
-    hashtags: "#blingeffect, #sogood, #tasty, #foryoupage"
   - username: "allthingscloseup"
     fullname: >-
       <33
     bio: >-
       closeups + skincare biz: allthingscloseup@gmail.com backup @.allthingscloseup :)
     location: "United States"
-    followers: 2874
-    engagement: 3020
-    commentsToLikes: 0.158353
+    followers: 2802
+    engagement: 2970
+    commentsToLikes: 0.151081
     id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#skincare, #upclose, #routine, #aesthetic"
-  - username: "yeauty"
+    hashtags: "#grwm, #upclose, #closeups, #aesthetic"
+  - username: "yeauty_official"
     fullname: >-
-      YEAUTY
+      yeauty_official
     bio: >-
       💗 | BE YEAUTYFUL ✨ | german skincare brand 🛒 | dm, müller, rossmann, budni
     location: "Germany"
-    followers: 36500
-    engagement: 2311
-    commentsToLikes: 0.112438
+    followers: 76900
+    engagement: 2124
+    commentsToLikes: 0.060289
     id: ckd66j13n37ca0j23mu4f0q2p
     verified: false
-    hashtags: "#augenpads, #yeauty, #dmdrogeriemarkt, #serum"
+    hashtags: "#yeauty, #comedy, #eyepadmask, #winwinwin"
   - username: "skinkisseduk"
     fullname: >-
       SKINKISSEDUK
     bio: >-
       CEO Of Skincare 📧 ambassador@skinkissed.co.uk
     location: "Philippines"
-    followers: 5854
-    engagement: 1981
-    commentsToLikes: 0.206052
+    followers: 5791
+    engagement: 1847
+    commentsToLikes: 0.246273
     id: ckcek2bhkt7ko0j2342zkeamu
     verified: false
-    hashtags: ""
+    hashtags: "#beautytips, #trending, #skincare, #beautyhaul"
   - username: "skincareandbeyond"
     fullname: >-
       ✨skincareandbeyond✨
@@ -114,17 +54,77 @@ profiles:
     commentsToLikes: 0.242478
     id: ckbalbee5c8qt0j235lax4qy1
     verified: false
-    hashtags: "#foryou, #makemefamous, #facemask, #closeup"
-  - username: "kidskinusa"
+    hashtags: "#xyzcba, #closeup, #fyp, #skincare"
+  - username: "laurens.vibee"
     fullname: >-
-      Kidskin
+      ♡´･ᴗ･`♡
     bio: >-
-      Skincare line for pre-teens and teens Official account 💙🤍
-    location: "United States"
-    followers: 14900
-    engagement: 2791
-    commentsToLikes: 0.156769
-    id: ck933afl0n66k0j78usl1zbsj
+      ♡︎Grwm,routines,skincare and more♡︎ 60k!
+    location: "United Kingdom"
+    followers: 62600
+    engagement: 2325
+    commentsToLikes: 0.050982
+    id: ck982shuwhhw50j784hxzuvzp
     verified: false
-    hashtags: "#kidskin, #hyram, #skincare, #grwm"
+    hashtags: "#vsco, #foryou, #fyp, #foryoupage"
+  - username: "jc.dombrowski"
+    fullname: >-
+      J.C. Dombrowski
+    bio: >-
+      Cornell Marine Bio Science + Skincare 🇵🇭🏳️‍🌈 Follow my insta ❤️
+    location: "United States"
+    followers: 2800000
+    engagement: 2151
+    commentsToLikes: 0.010895
+    id: ck80obynrgodq0j786z4nwcq0
+    verified: true
+    hashtags: "#fyp, #scary, #ocean, #edutok"
+  - username: "avecnou"
+    fullname: >-
+      Minou
+    bio: >-
+      Fashion • Skincare • Lifestyle Follow me on Instagram for more content
+    location: "United States"
+    followers: 2587
+    engagement: 1396
+    commentsToLikes: 0.151162
+    id: ckbfflxyvae6l0j23v9fyz53x
+    verified: false
+    hashtags: "#skincareroutine, #ootd, #makeuptutorial, #makeuptips"
+  - username: "glossygurrl"
+    fullname: >-
+      aesthetic
+    bio: >-
+      More Love <3 skincare, cooking, lifestyle, tips
+    location: "Lebanon"
+    followers: 13900
+    engagement: 1647
+    commentsToLikes: 0.058295
+    id: ckbeo2x2p3w9e0j231mb7x5nm
+    verified: false
+    hashtags: "#foryou, #aesthetic, #closeup, #tasty"
+  - username: "seechelleflow"
+    fullname: >-
+      Lynn
+    bio: >-
+      #Auntie #BusinessOwner #Conversationalist #SkincareExpert #Herbalist #Entrepre
+    location: "United States"
+    followers: 21500
+    engagement: 1528
+    commentsToLikes: 0.083258
+    id: ckbktjkn4orfp0j23nly8j53s
+    verified: false
+    hashtags: "#menandwomen, #thingswomennevertellmen, #anxiety, #relationships"
+  - username: "twinmomplusone26"
+    fullname: >-
+      Catherine Wade
+    bio: >-
+      26, Wife, Mom of 3, Seint Beauty, Pomifera skincare
+    location: "United States"
+    followers: 18800
+    engagement: 1013
+    commentsToLikes: 0.050151
+    id: ckcdwfcsbfn0n0j2360724tmg
+    verified: false
+    hashtags: "#beforeandafter, #seint, #hubby, #hotmessmom"
 ---

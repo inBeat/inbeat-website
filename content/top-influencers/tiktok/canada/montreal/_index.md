@@ -1,21 +1,33 @@
 ---
-title: Top 10 TikTok Influencers In Montreal In 2022
+title: Top 10 TikTok Influencers In Montreal In 2023
 description: >-
-  Find top TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #mtl #foryou.
 platform: TikTok
-hits: 373
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 373 TikTok influencers like this in Montreal, Canada for you to connect with.
+hits: 353
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 353 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "navi_manhas_17"
+  - username: "iamstevedaniels"
     fullname: >-
-      Navi
+      Iamstevedaniel
+    bio: >-
+      Montreal 🇭🇹
+    location: "Canada"
+    followers: 6047
+    engagement: 842
+    commentsToLikes: 0.056506
+    id: ck7zo5c14hxx10j78dpaxoczr
+    verified: false
+    hashtags: "#foodie, #fyp, #quarantine, #iphone"
+  - username: "_rajput____17"
+    fullname: >-
+      ⚔️RAJPUT_17⚔️
     bio: >-
       🅽🅰🆅🅸 🆁🅰🅹🅿🆄🆃 🅲🅳🅸 🅲🅾🅻🅻🅴🅶🅴 Montreal
     location: "Canada"
-    followers: 5826
-    engagement: 581
-    commentsToLikes: 0.015956
+    followers: 5834
+    engagement: 518
+    commentsToLikes: 0.009244
     id: ck7zo5f7vhyq00j78b0mr2gkm
     verified: false
     hashtags: ""
@@ -25,60 +37,48 @@ profiles:
     bio: >-
       Montreal
     location: "Canada"
-    followers: 29200
-    engagement: 540
-    commentsToLikes: 0.014012
+    followers: 29900
+    engagement: 555
+    commentsToLikes: 0.018285
     id: ckc34zb1qu8p60j23v3dtet3i
     verified: false
-    hashtags: "#canada, #montrealcanada, #montreal, #fyp"
-  - username: "louisa.qau"
+    hashtags: "#catsoftiktok, #cats, #fyp, #greenscreen"
+  - username: "sarahdouak"
+    fullname: >-
+      Sarah Douak
+    bio: >-
+      Montreal 🇨🇦
+    location: "Canada"
+    followers: 3230
+    engagement: 1031
+    commentsToLikes: 0.013785
+    id: ckb0w1mxpl9q10j23d822vbyj
+    verified: false
+    hashtags: "#house, #jungle, #yorkie, #montreal"
+  - username: "louisaqau"
     fullname: >-
       Louisa Qauritaiyuk
     bio: >-
       Inuk Montreal 🇨🇦
     location: "Canada"
-    followers: 117500
-    engagement: 2029
-    commentsToLikes: 0.039106
+    followers: 157600
+    engagement: 1334
+    commentsToLikes: 0.035284
     id: ckdcjxuq9lycc0j23i1dgktvl
     verified: false
-    hashtags: "#duet, #nativetiktok, #standwithmikmaq, #bestfriend"
-  - username: "mtl.shay"
+    hashtags: "#inuitfood, #duet, #greenscreen, #stitch"
+  - username: "ranyaaelm"
     fullname: >-
-      Shay🦋
+      𝖗𝖆𝖓𝖞𝖆 🦋
     bio: >-
-      Montreal #ENDSARS🇳🇬 Kakashi Hatake’s Wife😌
+      ♡´・ᴗ・`♡ montreal
     location: "Canada"
-    followers: 41900
-    engagement: 2174
-    commentsToLikes: 0.047411
-    id: cka62m57g0hck0i787tpzrp3x
+    followers: 25300
+    engagement: 1460
+    commentsToLikes: 0.064935
+    id: ck7zo575hhwmh0j7884iwi0ry
     verified: false
-    hashtags: "#pain, #jokes, #jahkingguillory, #morningboost"
-  - username: "itscarlchiasson"
-    fullname: >-
-      Carl Chiasson 💧ENGLISH
-    bio: >-
-      •Montréal 🇨🇦 •carlchiassonbusiness@outlook.com💌
-    location: "Canada"
-    followers: 2200000
-    engagement: 2195
-    commentsToLikes: 0.013269
-    id: ckcelx17vvyc60j23n60a9uwv
-    verified: true
-    hashtags: "#pov, #whatieatinaday"
-  - username: "fleuroutlines"
-    fullname: >-
-      fleuroutlinesoninsta
-    bio: >-
-      19| montréal, canada 📍| 🇭🇹🇯🇲🇨🇦 CEO of adobe draw
-    location: "Canada"
-    followers: 18200
-    engagement: 2009
-    commentsToLikes: 0.067726
-    id: ck8tprzjpqnjr0j78mnkej2yw
-    verified: false
-    hashtags: "#notforyou, #foryoupage, #promlook, #promdiy"
+    hashtags: "#fyp, #montreal, #comedy, #mtl"
   - username: "montreal_meme"
     fullname: >-
       Meme en français
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.047560
     id: ckb165ukctmhm0j236qk369n5
     verified: false
-    hashtags: "#ryp, #happyathome, #confinement, #forupage"
-  - username: "phillychaz23"
-    fullname: >-
-      Philly
-    bio: >-
-      Montreal 🇨🇦 guy Home is where the heart is! & with my Annie is where it's at
-    location: "Canada"
-    followers: 2096
-    engagement: 1390
-    commentsToLikes: 0.250787
-    id: ckcuxlqi3m3p80j23ckim2g1r
-    verified: false
-    hashtags: "#goodmorning, #tiktokfamily, #duet, #iga"
+    hashtags: "#happyathome, #pourtoi, #forupage, #4u"
   - username: "zabelleeee"
     fullname: >-
       Isabelle
     bio: >-
-      22 📍singapore/montreal
+      Isabelle 💛 22 📍singapore/montreal
     location: "Canada"
-    followers: 27600
-    engagement: 2099
-    commentsToLikes: 0.024475
+    followers: 26900
+    engagement: 1970
+    commentsToLikes: 0.029027
     id: ckbl63sho3s8w0j23887with5
     verified: false
-    hashtags: "#fyp, #halloween, #foryou, #fathersday"
-  - username: "livlaughlove514"
+    hashtags: "#fyp, #duet, #halloween, #montreal"
+  - username: "andalinaa"
     fullname: >-
-      Liv
+      anda ✌︎('ω')✌︎
     bio: >-
-      Montreal, Canada 🇨🇦
+      🐇Anda🐇 she/her | bi | 20 | montreal 💗instagram: @andalina._
     location: "Canada"
-    followers: 4849
-    engagement: 1001
-    commentsToLikes: 0.144265
-    id: ck8z6r3ion6x10j78b2vi1h4g
+    followers: 43900
+    engagement: 2438
+    commentsToLikes: 0.024306
+    id: ck9euze0bfwru0j78oxncl1z1
     verified: false
-    hashtags: "#foryoupage, #rainforestfacts, #wholenewgame, #fyp"
+    hashtags: "#pastel, #shirololita, #yamikawaii, #himelolita"
+  - username: "_afoali"
+    fullname: >-
+      _afoali
+    bio: >-
+      Video Producer Montreal 🇨🇦 Instagram: @_afoali
+    location: "Canada"
+    followers: 32300
+    engagement: 1357
+    commentsToLikes: 0.082331
+    id: ckd5mybsqwgcs0j23zmlsrr7n
+    verified: false
+    hashtags: "#514, #videoproduction, #videocreator, #videoeditor"
 ---

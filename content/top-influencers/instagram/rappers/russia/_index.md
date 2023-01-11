@@ -1,21 +1,21 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Russia In 2022
+title: Top 10 Rappers Instagram Influencers In Russia In 2023
 description: >-
-  Find top rappers Instagram influencers in Russia in 2022. Most popular hashtags: #rap #music #instagroove.
+  Find top rappers Instagram influencers in Russia in 2023. Most popular hashtags: #rap #music #new.
 platform: Instagram
-hits: 17
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 17 Instagram influencers like this in Russia for you to collaborate.
+hits: 16
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in Russia for you to work with.
 profiles:
   - username: "lina_markova_"
     fullname: >-
       Мона Лина
     bio: >-
-      Model | Rapper 📩 markovabooking@gmail.com MA: @claudiamodelmgt 🇮🇹 ✖️MUSIC LINK✖️
+      Model | Rapper 📩 markovabooking@gmail.com MA: @goshmodels 🇷🇺 ✖️MUSIC LINK✖️
     location: "Russia"
-    followers: 41624
-    engagement: 224
-    commentsToLikes: 0.068380
+    followers: 41486
+    engagement: 192
+    commentsToLikes: 0.056211
     id: ck6tipem215zc0j71i6glmkee
     verified: false
     hashtags: ""
@@ -25,45 +25,69 @@ profiles:
     bio: >-
       Rapper,Artist,club-MC Организация Выступлений: Павел +7926-722-22-23 ST-Один На Один(Mosя remix) 👇🏼👇🏼👇🏼
     location: "Russia"
-    followers: 4837
-    engagement: 844
-    commentsToLikes: 0.123652
+    followers: 4819
+    engagement: 816
+    commentsToLikes: 0.139357
     id: ck5pylqvnwmro0i11z2nw010s
     verified: false
-    hashtags: "#taxi, #stayhome, #fliptheswitch, #fliptheswitchchallenge"
-  - username: "angelpeachu"
+    hashtags: "#2021"
+  - username: "xciaz_fanp"
     fullname: >-
-      KPOP | KOREAN | BEAUTY
+      Azamat Zenkayev | A.Z | Russia
     bio: >-
-      @mashirotsuki Hi, I'm NiNi Cover dancer and rapper Москва 💗
+      @xciii.ix.xxviii fanstagram Rapper • Songwriter • Hitmaker You can call me SN 1885A 💙
     location: "Russia"
-    followers: 10667
-    engagement: 535
-    commentsToLikes: 0.035152
-    id: ck8tah7tfrqlz0j78dwtwnm9l
+    followers: 12775
+    engagement: 530
+    commentsToLikes: 0.029418
+    id: ck15rwosja2ls0i19ad5rlhdl
     verified: false
-    hashtags: ""
-  - username: "black_snow_official"
+    hashtags: "#az, #azamatzenkayev, #azamatzenkaev, #guesswhosback"
+  - username: "andrew_boom"
     fullname: >-
-      NOIRMALEMENT ♣️🤘🏿♣️
+      Andrew Boom
     bio: >-
-      Black Stories Hype man Rapper Crypto-engr 📚 Entrepreneur Mr Black 🇨🇲🇷🇺 @afrikaplus soon 15.08 my birthday
+      🎙 Rapper, singer, songwriter 👨🏻‍🏫 English teacher and translator ✏️ Cooperation: @andrewboom_pr 🚀 ПРЕМЬЕРА! #ОРБИТА 🚀👇🏼
     location: "Russia"
-    followers: 13283
-    engagement: 277
-    commentsToLikes: 0.092146
-    id: ck8sxphc9i6t70j78210glrg0
+    followers: 23985
+    engagement: 1355
+    commentsToLikes: 0.037198
+    id: ck6udjvluliiw0j719iyvu2v5
     verified: false
-    hashtags: "#noirmalement, #yessir, #shazam, #googlemusic"
-  - username: "shil__off"
+    hashtags: "#singer, #music, #cover, #rapper"
+  - username: "og_yushin"
+    fullname: >-
+      FREDDY RED
+    bio: >-
+      Rapper_Songwriter. Сотрудничество theosokin@gmail.com. ВСЕ РЕЛИЗЫ👇🏽🎧.
+    location: "Russia"
+    followers: 9629
+    engagement: 1446
+    commentsToLikes: 0.020722
+    id: ckap7a8xvj7eq0i787gpdhzt9
+    verified: false
+    hashtags: "#hiphop, #freddy, #tawland, #new"
+  - username: "soprano_man"
+    fullname: >-
+      Sopranoman
+    bio: >-
+      Rapper / Producer / Songwriter . 🔊Sopranoman - Тибет (уже в сети🔥)
+    location: "Russia"
+    followers: 74958
+    engagement: 167
+    commentsToLikes: 0.029586
+    id: ck5hr1dpbu3fv0i11kmwvhy64
+    verified: false
+    hashtags: "#sopranoman, #hugo, #2021, #new"
+  - username: "sheloveeeeeee"
     fullname: >-
       𝓓𝓶𝓲𝓽𝓻𝓲𝔂 𝓢𝓱𝓲𝓵𝓸𝓿
     bio: >-
-      СМОТРИ СТОРИСЫ🤪 I`m not rapper 🦄 TT 800к+ 📩shiloff@ea-teamagency.com
+      Check my stories🤪 I`m not rapper 🦄 TIkTok : shelovee 1m🍋,imnotshelovee 1/2m🍋 PR:+7-988-333-77-67 Эрик
     location: "Russia"
-    followers: 269593
-    engagement: 221
-    commentsToLikes: 0.120130
+    followers: 259237
+    engagement: 192
+    commentsToLikes: 0.110405
     id: ck5zw7tt75n4i0i14xn7h2dwq
     verified: false
     hashtags: ""
@@ -73,58 +97,34 @@ profiles:
     bio: >-
       🖤 Father 🎤 Rapper 🔞 Party Maker ♠️ Player
     location: "Russia"
-    followers: 97153
-    engagement: 95
-    commentsToLikes: 0.026248
+    followers: 99466
+    engagement: 123
+    commentsToLikes: 0.025305
     id: ck5q49p0qoank0i11qo0rcfus
     verified: false
-    hashtags: "#covid19, #5g, #covid"
+    hashtags: "#moscow, #highroller"
   - username: "rappersyava"
     fullname: >-
       СЯВА
     bio: >-
       По всем вопросам: WhatsApp +79250 399 355 Сергей
     location: "Russia"
-    followers: 638581
-    engagement: 319
-    commentsToLikes: 0.019077
+    followers: 921060
+    engagement: 139
+    commentsToLikes: 0.017188
     id: ck6tpd7mij7370j7129nomp7e
     verified: true
-    hashtags: "#live, #show"
-  - username: "dima_dek_official"
+    hashtags: ""
+  - username: "dope_rap_clips"
     fullname: >-
-      Dima Dek
+      Dope Rap Clips
     bio: >-
-      Музыкант🎤🎼🎼🎼#RASTAMAFIA Пишу песни маленькому дредлоку @vlad_pashkov007 🔥🔥🔥 Новый EP «На Фитах» доступен на ITunes 🔥. Ссылка снизу 👇
+      🔌 Promoting New Artists 📲 Contact Us Through DM 🚨 You Bring The 🔥 We Help You Spread It 👇 Check Out @bmyoungin 👇
     location: "Russia"
-    followers: 11207
-    engagement: 928
-    commentsToLikes: 0.008614
-    id: ck15tqec4jdt30i19ge42nesb
+    followers: 42566
+    engagement: 20
+    commentsToLikes: 0.727281
+    id: ck1359ejk0d1x0i19ooqbnnbd
     verified: false
-    hashtags: "#beatmaker, #music, #atlanta, #hiphopproducer"
-  - username: "sashka_stone"
-    fullname: >-
-      Aleksandr Zarubin
-    bio: >-
-      MMA FIGHTER🥊 Blogger🎥 4-x Russia Champion🥇 4-x World Champion🏆 Реклама +7 906 019-20-91
-    location: "Russia"
-    followers: 2125818
-    engagement: 499
-    commentsToLikes: 0.037584
-    id: ck5c1b5tiutjz0i115h345mb5
-    verified: false
-    hashtags: "#marvel, #video, #rap, #vine"
-  - username: "an.drums"
-    fullname: >-
-      Anastasia Sereda 🥁
-    bio: >-
-      Hebi🐍 ▪️Drummer ▪️Artist @paistecymbals @blastbeat_drum_shop Ex.drummer of «O.Torvald» band
-    location: "Russia"
-    followers: 42854
-    engagement: 1350
-    commentsToLikes: 0.022441
-    id: ck5hly068l2890i11rqcy69n4
-    verified: false
-    hashtags: "#drumgirl, #paiste, #girlpower, #musician"
+    hashtags: ""
 ---

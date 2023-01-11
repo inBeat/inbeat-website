@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Brazil In 2022
+title: Top 10 Lifestyle Instagram Influencers In Brazil In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #praia #lookdodia.
+  Find top lifestyle Instagram influencers in Brazil in 2023. Most popular hashtags: #moda #lookdodia #explorar #look.
 platform: Instagram
-hits: 4086
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform has 4086 Instagram influencers like this in Brazil for you to connect with.
+hits: 3937
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 3937 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "lelemageste"
+  - username: "raluizaa"
     fullname: >-
-      Letícia Mageste | Maquiagem
+      Rayssa | Fitness
     bio: >-
-      💥 Vida real nos stories • Belo Horizonte | 19 Dicas • maquiagem • cabelo • lifestyle • Nada é maior que o amor 💓
+      🌱 Hey! Grow with me ✨ Fitness | Motivation | lifestyle Tiktok: @raluizaa
     location: "Brazil"
-    followers: 14542
-    engagement: 3548
-    commentsToLikes: 0.257544
-    id: ck14ih234fd090i19h46xpdbv
+    followers: 75533
+    engagement: 485
+    commentsToLikes: 0.014541
+    id: ckf5ociij1qbq0j237ax3x0wt
     verified: false
-    hashtags: "#memesbrasil, #tbt, #reelsinstagram, #lookinspira"
-  - username: "grazig_"
+    hashtags: "#gym, #treino, #academia, #fit"
+  - username: "dani.silvaneves"
     fullname: >-
-      GRAZIELI GONÇALVES
+      DANIELA NEVES
     bio: >-
-      lifestyle 🤍 @desapegosdagra_
+      Salvador-BA || Biomédica & Estetacosmetóloga Pós graduada em Saúde Estética ❤️‍🔥🏃🏽‍♀️🍳💦🥗 TREINO • ALIMENTAÇÃO • LIFESTYLE
     location: "Brazil"
-    followers: 3957
-    engagement: 2260
-    commentsToLikes: 2.931482
-    id: ck9hb00kyesm00j78h00ujxgg
+    followers: 26090
+    engagement: 592
+    commentsToLikes: 0.009573
+    id: ck8t4dcyy6dbe0j784h2yim6t
     verified: false
-    hashtags: "#brabachallenge, #tbt"
-  - username: "_fabiosilveira"
+    hashtags: "#cosmetologia, #bemestar, #labiosperfeitos, #estetica"
+  - username: "petit_sophia"
     fullname: >-
-      Fábio Silveira
+      sophia d’avila 💋
     bio: >-
-      Enquanto Deus for meu chão, não há quem me derrube.☝🏼 Lifestyle 🤳🏼 Papai do Apólo 💙 Assessoria: (71) 996180276 📩: Contato.fabiosilveira@outlook.com
+      🇧🇷| RS fashion content • beauty • lifestyle• trips • assista os stories ✨| focused on me
     location: "Brazil"
-    followers: 769540
-    engagement: 1695
-    commentsToLikes: 0.433951
-    id: ck9wfe39uogjq0j7837xc62g8
+    followers: 54430
+    engagement: 252
+    commentsToLikes: 0.145205
+    id: ck15qxf2i546v0i19rlo9iv32
     verified: false
-    hashtags: "#passaprolado, #posteipqgostei, #feriadodepazatodos, #sanj"
-  - username: "samuelcarvalho_0"
+    hashtags: "#maquiagem, #lookinspira, #outfitoftheday, #look"
+  - username: "livia.apereira"
     fullname: >-
-      Samuel Carvalho
+      LIVIA PEREIRA ☀️
     bio: >-
-      BA ✈️ SP📍 Barber: @barbersmc 💈 Cacheado | LifeStyle | Hairstylist
+      🤡 Vida real com HUMOR 📍SP 🔥 Viagens | Lifestyle | Fashion | Gastronomia ✈️ A menina do brigadeiro na sala VIP! 💌 contato@viajandocomlivia.com.br
     location: "Brazil"
-    followers: 29717
-    engagement: 1527
-    commentsToLikes: 0.146260
-    id: ck15ra0qg6w9j0i19893dwxy7
+    followers: 102302
+    engagement: 235
+    commentsToLikes: 0.154026
+    id: ck5zuv0gs33br0i14vitdf03w
     verified: false
-    hashtags: "#123sentandochallenge"
-  - username: "anajuliach"
+    hashtags: "#humorbr, #viagem, #memesbr, #humor"
+  - username: "bia.liraa"
     fullname: >-
-      🧿 Ana Júlia M. Chiamolera
+      BEATRIZ LIRA☀️
     bio: >-
-      Lifestyle | Healthy 👩🏻‍💻Gerente Wave Centro @academiawave| @maju_healthyfood ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀ Balneário Camboriú - SC
+      • moda • viagens • lifestyle • Modelo Comercial | Criadora de Conteúdo assessoria: contatobialira@gmail.com 📩
     location: "Brazil"
-    followers: 8483
-    engagement: 1448
-    commentsToLikes: 0.083971
-    id: ckaos38wppyp40i78spyfavhi
+    followers: 145090
+    engagement: 168
+    commentsToLikes: 0.011709
+    id: ckaox4vs2bsla0i78pg95zf6s
     verified: false
-    hashtags: "#bomdia, #sc, #sunnyday, #onlygoodvibes"
-  - username: "wladyapinheiro_"
+    hashtags: "#explorar, #moda, #style, #looks"
+  - username: "anegabrielly_mg"
     fullname: >-
-      W L A D Y A  P I N H E I R O
+      𝕬𝖓𝖊 𝕲𝖆𝖇𝖗𝖎𝖊𝖑𝖑𝖞
     bio: >-
-      Lifestyle|Fashion|Fitness|Empresária BOSS: @mirlaconceito 👗 @pinheiro.acai 🍧 Modelo fotográfica📸 @leoninasfec 🦁 @ayrton_pinheiroo 😍❤️
+      ✨Fashion I Lifestyle I Dance I Disclosure 💖Simples, divertida e alegre💖 Dona do @recanto_das_utilidades
     location: "Brazil"
-    followers: 23682
-    engagement: 1409
-    commentsToLikes: 0.539445
-    id: ck9wdwvc5hmpd0j788ol4m86j
+    followers: 15589
+    engagement: 158
+    commentsToLikes: 0.049726
+    id: ckap2w8mn0l8d0i789tcmfqpw
     verified: false
-    hashtags: "#inspiration, #instablog, #fotododia, #digitalinfluencer"
-  - username: "vifernann"
+    hashtags: "#amor, #photo, #brazil, #boanoite"
+  - username: "larissatomasia"
     fullname: >-
-      Viviane Fernandes 🏳️‍🌈
+      Larissa Tomásia
     bio: >-
-      • Moda • Beleza • Lifestyle • • criadora de conteúdo • taboão da serra - sp • tá tudo bem, tá tudo ótimo •
+      BBB22 🍋 | Model | Beauty | Lifestyle 📫 Cx postal 37 CEP: 55700-000 Assessoria: 📧 larissatomasia@vox.plus 📲 (11) 96615-4180
     location: "Brazil"
-    followers: 9103
-    engagement: 1364
-    commentsToLikes: 0.134803
-    id: ck8t5eu3q9wwr0j78m6gpvk58
+    followers: 1058112
+    engagement: 110
+    commentsToLikes: 0.011703
+    id: ckap7r7kml7hk0i7833sy38oq
     verified: false
-    hashtags: "#1peca3looks"
-  - username: "nandamieiro"
+    hashtags: "#modera, #jeans, #mood, #publi"
+  - username: "_feamorim"
     fullname: >-
-      Fernanda Mieiro
+      Fernanda Amorim
     bio: >-
-      • Fiz dessa rotina meu ponto de paz 🏋🏼‍♀️/🍎 Fitness lifestyle 📍| Rio das Ostras - RJ
+      26, Beauty and fashion 👗💄 •Moda, Beleza, Makes, Lifestyle• Batalha de looks 👚👙👠 Contato: Fernanda.amorim96@yahoo.com.br 📩📬
     location: "Brazil"
-    followers: 7848
-    engagement: 1345
-    commentsToLikes: 0.114169
-    id: ck14ip99qgji60i19d46dnd76
+    followers: 61073
+    engagement: 106
+    commentsToLikes: 0.201346
+    id: ck9ha92efbmg50j78iuttzoo5
     verified: false
-    hashtags: ""
-  - username: "euosol"
+    hashtags: "#ootd, #littleblackdress, #saopaulo, #lookjantar"
+  - username: "jujunorremose"
     fullname: >-
-      ⠀⠀⠀S O L ☀️
+      Julia Norremose Ferreira
     bio: >-
-      SSA 🌴 FASHION • BEAUTY • LIFESTYLE • EDITION  PACOTE 5 FILTROS 👇🏾
+      Healthy and Positive LifeStyle🌴💕😜 💌contato@jujunorremose.com.br 🍫 @amohaoma
     location: "Brazil"
-    followers: 22411
-    engagement: 1190
-    commentsToLikes: 0.193451
-    id: ck8t5ckqu9ngl0j7824nwj8lj
-    verified: false
-    hashtags: "#aloecachos, #duetto, #tbt, #blackisking"
-  - username: "kertes_"
+    followers: 1322956
+    engagement: 51
+    commentsToLikes: 0.038108
+    id: ck55oyjih9eoj0i11sfrutcg7
+    verified: true
+    hashtags: "#biquini, #trip, #laserfast4anos, #unboxing"
+  - username: "olaju_"
     fullname: >-
-      Bruna Kertes
+      julia gimenez
     bio: >-
-      lifestyle | geek | games | food | decor 💌oikertes@gmail.com
+      🔗 22 | SP alternative style content, beauty and lifestyle ✉ julia99gimenez@gmail.com or dm #olajulook
     location: "Brazil"
-    followers: 16014
-    engagement: 1092
-    commentsToLikes: 0.231020
-    id: ck8t1xukqxh7w0j785qxr2ypi
+    followers: 32111
+    engagement: 438
+    commentsToLikes: 0.077611
+    id: ck9hcj61flnwb0j7834ibf8bg
     verified: false
-    hashtags: "#ape41a, #silverhair, #platinado, #scandihome"
+    hashtags: "#sheingals, #alternativegirl, #shein, #alternativefashion"
 ---

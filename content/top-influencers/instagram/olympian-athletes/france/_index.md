@@ -1,11 +1,11 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In France In 2022
+title: Top 10 Olympian Athletes Instagram Influencers In France In 2023
 description: >-
-  Find top olympian athletes Instagram influencers in France in 2022. Most popular hashtags: #athlete #motivation #athletics #sport.
+  Find top olympian athletes Instagram influencers in France in 2023. Most popular hashtags: #olympics #tokyo2020 #ad #teamcanada.
 platform: Instagram
-hits: 11
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 11 Instagram influencers like this in France for you to collaborate.
+hits: 17
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 17 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "benjaminmace_"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       2 x Olympian Athlete Lifestyle / sport / travel @underarmourfr athlète 🏃‍♂️ATTEINS TON OBJECTIF ICI👇
     location: "France"
-    followers: 39542
-    engagement: 559
-    commentsToLikes: 0.026020
+    followers: 38968
+    engagement: 410
+    commentsToLikes: 0.028661
     id: ck5hd2hgcl5vj0i11dnalwqoq
     verified: false
-    hashtags: "#lifestyle, #avignon, #fitnessmotivation, #toujoursfaireface"
-  - username: "lauraliechap_ifbbpro"
-    fullname: >-
-      Lauralie Chapados 🐎
-    bio: >-
-      French 🇨🇦 in 🇺🇸 5x 🥇 IFBB Bikini Pro | Olympian @bombshellsportswear athlete @teamatlasmtl
-    location: "France"
-    followers: 199545
-    engagement: 499
-    commentsToLikes: 0.015337
-    id: ck0tsrz4s0cen0i19gptpm7p0
-    verified: false
-    hashtags: "#workoutoftheday, #roadtotheolympia, #bombshellsportswear, #glutesworkout"
+    hashtags: "#dubailife, #fitnessmodel, #lifestyle, #homeworkout"
   - username: "sachavalleau"
     fullname: >-
       Sacha Valleau ||
     bio: >-
       Professional Rugby player @francerugby •@adidasparis Athlete •Olympian Rio2016 🇧🇷 • 📍Paris , France 🇫🇷
     location: "France"
-    followers: 10022
-    engagement: 1260
-    commentsToLikes: 0.012852
+    followers: 10032
+    engagement: 1320
+    commentsToLikes: 0.012487
     id: ck6tz95fg8c8b0j71bsoq4aw0
     verified: true
-    hashtags: "#insach, #dubai, #crvhybrid, #2022"
+    hashtags: "#insach, #dubai, #crvhybrid, #2021"
+  - username: "nursey16"
+    fullname: >-
+      Sarah Nurse
+    bio: >-
+      Olympian 🇨🇦🥈 @adidasca & @CCMHockey Athlete @pwhpa • Wisconsin Badger Alum 👐🏽
+    location: "France"
+    followers: 30277
+    engagement: 619
+    commentsToLikes: 0.028135
+    id: ck5zijek7ftla0i141b68j1xd
+    verified: true
+    hashtags: "#createdwithadidas, #ad, #matrixambassador, #beautyproducts"
   - username: "nellymoenneloccoz"
     fullname: >-
       Moenne-loccoz Nelly
     bio: >-
       Athlete of French snowboard team 🇨🇵 Olympian x3times @alpinawatches @snowleader74
     location: "France"
-    followers: 9005
-    engagement: 901
-    commentsToLikes: 0.029180
+    followers: 8805
+    engagement: 920
+    commentsToLikes: 0.029585
     id: ck5pw11k7kks20i116gto9ycz
     verified: false
-    hashtags: "#sardinia, #ffstv, #lescopainsdabord, #teamcera"
-  - username: "davhauss"
+    hashtags: "#lescopainsdabord, #sardinia, #ffstv, #teamcera"
+  - username: "roselinefilion"
     fullname: >-
-      🇫🇷 David Hauss 🇷🇪
+      Roseline Filion
     bio: >-
-      🏊🚴🏃 Olympian triathlete & European Champion - Trail & Swim Runner 🌊🏊 🌅 🌍🌄 ☀ @compressport @on_running @peugeot #oakley #sponser Lively Up Yourself💚💛♥💙
+      [3x Olympian 🇨🇦 ] Co fondatrice @immersia_jeuxdevasion 📻 chroniqueuse sports à @toutunmatin sur @icircpremiere
     location: "France"
-    followers: 18563
-    engagement: 432
-    commentsToLikes: 0.010610
-    id: ck5hj0e6nfsaw0i11ta5ranxg
-    verified: false
-    hashtags: "#nature, #trail, #panorama, #inspiration"
-  - username: "maximus_ward"
+    followers: 19989
+    engagement: 364
+    commentsToLikes: 0.046172
+    id: ck6udqew9mk720j71wujefgn7
+    verified: true
+    hashtags: "#sports, #hiver, #olympian, #teamcanada"
+  - username: "jennabel91"
     fullname: >-
-      Max Ward
+      Jennifer Abel || Olympic diver
     bio: >-
-      Parkour Athlete 😱 Award-Winning Filmmaker 🎬 👇France's New Parkour Capital?!🇫🇷📺😱 Photographer @maxshutter_ Traveller 🌎: Now in 🇬🇧 #purpleshorts
+      4x Olympian 2x Olympic medalist 🥈🥉 10X world medalist Commonwealth & Panams games🥇 FB: Jennifer Abel Twitter: Jennabel91 @rw_co ambassadrice
     location: "France"
-    followers: 10594
-    engagement: 671
-    commentsToLikes: 0.057619
-    id: ck5q62pv6voki0i11djz30hz5
-    verified: false
-    hashtags: "#gymnastics, #cheekyjumps, #flowlikewater, #slomo"
-  - username: "arnold_vosloo_official"
+    followers: 64563
+    engagement: 572
+    commentsToLikes: 0.020452
+    id: ck5zuuzeu339a0i14o3ukftdb
+    verified: true
+    hashtags: "#diving, #canada, #tokyo2020, #jennabel"
+  - username: "evan_bates"
     fullname: >-
-      Arnold Vosloo 🇿🇦
+      Evan Bates
     bio: >-
-      🥇Classic Physique Olympia 2019 🇪🇸 ▪️NPL Athlete ▪️@ryderwear Athlete|ARNOLD ▪️@bodyactiongymsa gym 🔈YouTube - Arnold Vosloo
+      US ice dancer 🇺🇸 @chockolate02’s partner 3x Olympian • US Champion • World medalist @uofmichigan grad 〽️• poodle dad 🐶 Inquiries: yuki.saegusa@img.com
     location: "France"
-    followers: 328460
-    engagement: 138
-    commentsToLikes: 0.014432
-    id: ckaozg9vglr5z0i78a3d5p7g5
+    followers: 42029
+    engagement: 529
+    commentsToLikes: 0.009984
+    id: ck5hpa8j6r0mt0i11d9c3wdoo
+    verified: true
+    hashtags: "#patinageartistique, #figureskating, #patinaje, #figureskaters"
+  - username: "audrey.merle95"
+    fullname: >-
+      Audrey Merle
+    bio: >-
+      Issy triathlon • Olympian 🇧🇷• U23 et Mixed Relay 🌎 Champion 👩🏻‍🎓 Master EBNS @sportsdefense @crccycles @lesbornees @ta.energy @corosfrance
+    location: "France"
+    followers: 7950
+    engagement: 887
+    commentsToLikes: 0.017383
+    id: ck5zjk9k5hqpa0i14uizyaad4
     verified: false
-    hashtags: "#nutrition, #protein, #npl, #ryderwear"
+    hashtags: "#crccycles, #corosapex, #issylesmoulineaux, #lesbornees"
+  - username: "paulineado"
+    fullname: >-
+      Pauline Ado
+    bio: >-
+      Pro Surfer, Anglet 🇫🇷 #Tokyo2020🇯🇵 Olympian Ocean Addict I Sport Fan I World Traveller I Fitness & Health l Surfrider & HandiSurf Ambassador
+    location: "France"
+    followers: 87280
+    engagement: 423
+    commentsToLikes: 0.019621
+    id: ck0ttpq803rm50i197m00ntmb
+    verified: true
+    hashtags: "#olympics, #olympicspirit, #tokyo2020, #jeuxolympiques"
   - username: "ladjidoucoure7"
     fullname: >-
       Doucoure ladji
     bio: >-
-      Athlete 3x olympien 2x chps du monde 110mh 4x100m 2x chps d Europe 12.97. 7.42 twitter ladjidoucoure7 @evzer_agency @golden_blocks
+      Ex Athlete 3x olympien 2x chps du monde 2x Europe i twitter ladjidoucoure7 Ambassadeur @insep_officiel @evzer_agency @golden_blocks
     location: "France"
-    followers: 37768
-    engagement: 522
-    commentsToLikes: 0.027556
+    followers: 38199
+    engagement: 429
+    commentsToLikes: 0.024419
     id: ck55iywajvtek0i11be0s08gz
     verified: true
-    hashtags: "#fortboyard, #running, #sport, #run"
-  - username: "marion_lotout"
-    fullname: >-
-      Marion Lotout
-    bio: >-
-      🇫🇷 Pole Vaulter . PB :4,60m 1* Olympian London 2012 2* World Championship 2013 / 2015 2*European Championship 2014 / 2018 📚 Podologist ( EFOM School)
-    location: "France"
-    followers: 5339
-    engagement: 1037
-    commentsToLikes: 0.011695
-    id: ck5q9u22gczi90i11da98sqol
-    verified: false
-    hashtags: "#ffa, #teampacer, #polevault, #percheelitetour"
-  - username: "mohamed_the_problem_mimoune"
-    fullname: >-
-      Mohamed Mimoune Officiel
-    bio: >-
-      Superlightweight Boxer🥊 🇫🇷 |IBO WORLD CHAMPIONS/Champion EBU & UE 🇪🇺|french @footkornertoulouse @footkorner/Athléte:@myproteinfr. Code:MIMOUNE -38%
-    location: "France"
-    followers: 23105
-    engagement: 395
-    commentsToLikes: 0.043456
-    id: ck5zkpy79jxze0i14frf9xv40
-    verified: true
-    hashtags: "#world, #robbery, #vol, #fight"
+    hashtags: "#nikonfr, #elinchrom, #infinitecolorpanel, #key2"
 ---

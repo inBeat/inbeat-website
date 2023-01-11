@@ -1,130 +1,130 @@
 ---
-title: Top 10 Singers Instagram Influencers In 2022
+title: Top 10 Singers Instagram Influencers In 2023
 description: >-
-  Find top singers Instagram influencers in 2022. Most popular hashtags: #music #live #coronavirus.
+  Find top singers Instagram influencers in 2023. Most popular hashtags: #radiojavan #singer #coronavirus.
 platform: Instagram
-hits: 14465
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 14465 Instagram influencers like this for you to pitch.
+hits: 13410
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 13410 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "hlaroushdy"
-    fullname: >-
-      Hla Roushdy | هلا رشدي
-    bio: >-
-      singer
-    location: ""
-    followers: 273309
-    engagement: 754
-    commentsToLikes: 0.008760
-    id: ck135p9922jvj0i19lwa90gjs
-    verified: true
-    hashtags: "#30thbirthday"
-  - username: "klebynholeone"
-    fullname: >-
-      KLEBYNHO LEONE ㉿
-    bio: >-
-      •Singer
-    location: "Brazil"
-    followers: 52634
-    engagement: 108
-    commentsToLikes: 0.077473
-    id: ck6u7y7n4od8e0j71sfolx20x
-    verified: false
-    hashtags: "#repertorionovo, #sofrencia, #arrocha, #sucesso"
-  - username: "robertmeyerofficial"
-    fullname: >-
-      Robert Meyer
-    bio: >-
-      Singer
-    location: "Germany"
-    followers: 2965
-    engagement: 1345
-    commentsToLikes: 0.088281
-    id: ck8sxn9ubhyul0j78vr06y1kd
-    verified: false
-    hashtags: "#tanzdervampire, #sweeneytodd, #tdv, #halloween"
-  - username: "sabrinasalernofficial"
-    fullname: >-
-      SABRINA SALERNO OFFICIAL
-    bio: >-
-      Singer
-    location: "Italy"
-    followers: 672580
-    engagement: 443
-    commentsToLikes: 0.021133
-    id: ck6tqeug1r1nw0j713t025nq0
-    verified: true
-    hashtags: ""
-  - username: "madhuradharatalluri"
-    fullname: >-
-      Madhura Dhara Talluri
-    bio: >-
-      Singer
-    location: "India"
-    followers: 10350
-    engagement: 2197
-    commentsToLikes: 0.011185
-    id: ck9wghhwytfmn0j78gh05ta2z
-    verified: false
-    hashtags: "#madhuradharatalluri, #candid, #arrlive, #photobooth"
-  - username: "ferita_music"
-    fullname: >-
-      Ferita
-    bio: >-
-      Singer
-    location: "Iran"
-    followers: 8409
-    engagement: 784
-    commentsToLikes: 0.096590
-    id: ck9wi8lwn16nn0j78cezvcclo
-    verified: false
-    hashtags: "#flamenco, #instamusic, #studio, #musicrecord"
   - username: "matinmt"
     fullname: >-
       Matin Mt
     bio: >-
       Singer
     location: "Iran"
-    followers: 7855
-    engagement: 1986
-    commentsToLikes: 0.025748
+    followers: 7734
+    engagement: 2078
+    commentsToLikes: 0.055124
     id: ck9whdon4xdrt0j78kefe4rbp
     verified: false
-    hashtags: "#gemini, #luxurylifestyle, #iranmusic, #musicproducer"
-  - username: "valeriya"
+    hashtags: "#tattoo, #musica, #iranian, #gemini"
+  - username: "fovvs"
     fullname: >-
-      VALERIYA
+      AF
+    bio: >-
+      + singer
+    location: "United States"
+    followers: 177203
+    engagement: 505
+    commentsToLikes: 0.029259
+    id: ck0vzls999q9r0i19hedijqqv
+    verified: true
+    hashtags: ""
+  - username: "sabrinasalernofficial"
+    fullname: >-
+      SABRINA SALERNO OFFICIAL
+    bio: >-
+      Singer
+    location: "Italy"
+    followers: 781719
+    engagement: 453
+    commentsToLikes: 0.021257
+    id: ck6tqeug1r1nw0j713t025nq0
+    verified: true
+    hashtags: ""
+  - username: "robertmeyerofficial"
+    fullname: >-
+      Robert Meyer
+    bio: >-
+      Singer
+    location: "Germany"
+    followers: 2930
+    engagement: 1358
+    commentsToLikes: 0.072246
+    id: ck8sxn9ubhyul0j78vr06y1kd
+    verified: false
+    hashtags: "#phantomderoper, #hamburg, #urlaub, #phantomoftheopera"
+  - username: "hlaroushdy"
+    fullname: >-
+      Hla Roushdy | هلا رشدي
+    bio: >-
+      singer
+    location: ""
+    followers: 287425
+    engagement: 315
+    commentsToLikes: 0.013688
+    id: ck135p9922jvj0i19lwa90gjs
+    verified: true
+    hashtags: ""
+  - username: "rhysmusic"
+    fullname: >-
+      Rhys 🤙🏼
+    bio: >-
+      sinGer
+    location: "United States"
+    followers: 6991
+    engagement: 529
+    commentsToLikes: 0.059304
+    id: ck5bv9brcj7xs0i11q0nhbg3n
+    verified: true
+    hashtags: "#itshits, #spotify, #dancinggirl, #cute"
+  - username: "aliardavan1"
+    fullname: >-
+      Ali Ardavan / علی اردوان
+    bio: >-
+      Singer
+    location: "United States"
+    followers: 284287
+    engagement: 1276
+    commentsToLikes: 0.062254
+    id: ck5q8w9bj89db0i11hf4b94eb
+    verified: false
+    hashtags: "#exame, #aliardavan, #persianrap, #octave"
+  - username: "madhuradharatalluri"
+    fullname: >-
+      Madhura Dhara Talluri
+    bio: >-
+      Singer
+    location: "United States"
+    followers: 11216
+    engagement: 1882
+    commentsToLikes: 0.010794
+    id: ck9wghhwytfmn0j78gh05ta2z
+    verified: false
+    hashtags: "#candid, #blackandwhite, #arrlive, #singer"
+  - username: "parahat.purje"
+    fullname: >-
+      PARAHAT PURJE
     bio: >-
       Singer
     location: "Russia"
-    followers: 2920016
-    engagement: 117
-    commentsToLikes: 0.022981
-    id: ck5ceun38lqnb0i11ej34um6p
-    verified: true
-    hashtags: "#75, #65"
-  - username: "singer"
-    fullname: >-
-      @SINGER
-    bio: >-
-      singers, dancing and drama 💋
-    location: ""
-    followers: 183434
-    engagement: 5733
-    commentsToLikes: 0.008077
-    id: ck6u61u39d22e0j713004c78b
+    followers: 42297
+    engagement: 253
+    commentsToLikes: 0.014442
+    id: ck5hr1k86u3p20i11o3em3s3f
     verified: false
-    hashtags: ""
-  - username: "monem.music"
+    hashtags: "#konsert, #asgabad, #parahatpurje, #mahripirkuliyeva"
+  - username: "realaminnima2"
     fullname: >-
-      Mohammad Monem | محمد منعم
+      امین نیما - Aminnima
     bio: >-
-      #Singer
+      singer
     location: "Iran"
-    followers: 2414
-    engagement: 3288
-    commentsToLikes: 0.060034
-    id: ck9winydj35270j78hidi3mej
+    followers: 76949
+    engagement: 77
+    commentsToLikes: 0.121091
+    id: ck6trs72s0s740j71r401332w
     verified: false
-    hashtags: "#hesab, #monem, #tabriz, #men"
+    hashtags: "#aminnima, #musicians, #likee, #text"
 ---

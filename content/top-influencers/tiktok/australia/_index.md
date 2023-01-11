@@ -1,60 +1,12 @@
 ---
-title: Top 10 TikTok Influencers In Australia In 2022
+title: Top 10 TikTok Influencers In Australia In 2023
 description: >-
-  Find top TikTok influencers in Australia in 2022. Most popular hashtags: #duet #fyp #australia #foryou.
+  Find top TikTok influencers in Australia in 2023. Most popular hashtags: #australia #fyp #foryou #duet.
 platform: TikTok
-hits: 4186
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 4186 TikTok influencers like this in Australia for you to connect with.
+hits: 4281
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 4281 TikTok influencers like this in Australia for you to contact.
 profiles:
-  - username: "arno.maly"
-    fullname: >-
-      Arno.Maly
-    bio: >-
-      TTBF: @ROEL.R NOT LOOKING FOR FAME BFF @shabu_4_ama 🥰👸🏻,Mike,Lozzie #🍎fam
-    location: "Australia"
-    followers: 3205
-    engagement: 2985
-    commentsToLikes: 0.173781
-    id: ck8knvszqexy80j780t5gus2a
-    verified: false
-    hashtags: "#fyp, #fun, #duet, #chain"
-  - username: "recon_district"
-    fullname: >-
-      ShuichiSimp69
-    bio: >-
-      ✨22 🇦🇺AUS 🌈 She/They/He All duets welcome 🖤 18+ for ship ⬇️ LINKS BELOW ⬇️
-    location: "Australia"
-    followers: 306800
-    engagement: 2774
-    commentsToLikes: 0.032625
-    id: ck8w25bgg47e20j78yx5amucj
-    verified: false
-    hashtags: "#billcipher, #billciphercosplay, #amongusblackcosplay, #sonianevermind"
-  - username: "benblue01"
-    fullname: >-
-      Ben Blue
-    bio: >-
-      ☠️IM FOLLOWING PEOPLE BACK ON INSTA☠️ 📲Business - Insta
-    location: "Australia"
-    followers: 798600
-    engagement: 2702
-    commentsToLikes: 0.025444
-    id: ck8km8pp77gnd0j78spq3l3q4
-    verified: false
-    hashtags: "#highheels, #christmastree, #timewarpscan, #brisbane"
-  - username: "harleyagsd"
-    fullname: >-
-      Harley a gsd 
-    bio: >-
-      Harley Workingline gsd Bday 14/1/18 Insta model Lives Sydney/Australia 🇦🇺
-    location: "Australia"
-    followers: 321200
-    engagement: 2464
-    commentsToLikes: 0.115389
-    id: ck8tpd1hqpz7b0j78jmo3cha1
-    verified: false
-    hashtags: "#gsd, #petthings, #fyp, #foryou"
   - username: "jaspersflow"
     fullname: >-
       Jasper Riley
@@ -66,67 +18,115 @@ profiles:
     commentsToLikes: 0.043357
     id: ck8ae4hb29r340j78fjkdh3uq
     verified: false
-    hashtags: "#australia, #georgefloyd, #1213, #protest"
-  - username: "joelbergs"
+    hashtags: "#tiktokaustralia, #blacklivesmatter, #acab1312, #australia"
+  - username: "arno.maly"
     fullname: >-
-      JoelBergs
+      Arno.Maly
     bio: >-
-      🇦🇺 Melbourne | Australia CEO of “LOIFE” Join the LEGENDSQUAD!
+      TTBF: @ROEL.R NOT LOOKING FOR FAME BFF @shabu_4_ama 🥰👸🏻,Mike,Lozzie #🍎fam
     location: "Australia"
-    followers: 5900000
-    engagement: 2436
-    commentsToLikes: 0.019684
-    id: ck83z3rdzxg5q0j78xonym8i0
-    verified: true
-    hashtags: "#bangenergy, #duet, #australia, #fyp"
-  - username: "jordentually"
-    fullname: >-
-      Jorden Tually 
-    bio: >-
-      #1 TikTok Traveller 🇦🇺 ⠀ My YouTube is better than my TikTok ⠀ go sub ↓
-    location: "Australia"
-    followers: 1800000
-    engagement: 2379
-    commentsToLikes: 0.016247
-    id: ck80org8njipp0j7867c629qy
-    verified: true
-    hashtags: "#usa, #aus, #tiktokaustralia, #whatheck"
-  - username: "jennawiththepink"
-    fullname: >-
-      Jennahudson
-    bio: >-
-      Hi Queens SAFE SPACE 💕You’re all welcome here!💕 Also... you dropped this 👉👑
-    location: "Australia"
-    followers: 103500
-    engagement: 2243
-    commentsToLikes: 0.038100
-    id: ckb9dfnf30m620j235swhamf3
+    followers: 3276
+    engagement: 2398
+    commentsToLikes: 0.196225
+    id: ck8knvszqexy80j780t5gus2a
     verified: false
-    hashtags: "#pov, #rundlemall, #adelaide, #duet"
-  - username: "harveypetito"
-    fullname: >-
-      Harvey Petito
-    bio: >-
-      Model | Actor chadwickmodels.com
-    location: "Australia"
-    followers: 1600000
-    engagement: 2220
-    commentsToLikes: 0.021177
-    id: ck8kn2f4obb1l0j78ygrrn4v2
-    verified: true
-    hashtags: "#sponsorship, #duet, #thesims, #ad"
+    hashtags: "#duet, #devilsinfinity, #fun, #fyp"
   - username: "savannahclarkeofficial"
     fullname: >-
       Savannah.clarke
     bio: >-
-      Insta @savannah.clarke Twitter @savannahbardot
+      Australian 🇦🇺 #NowUnited15 Insta @savannah.clarke Twitter @savannahbardot
     location: "Australia"
-    followers: 1200000
-    engagement: 2178
-    commentsToLikes: 0.043628
+    followers: 1900000
+    engagement: 2216
+    commentsToLikes: 0.062486
     id: ck8hqqfip5apt0j78eywjjou5
     verified: true
-    hashtags: "#fyp, #nowunited, #songwriter, #foryou"
+    hashtags: "#tiktokaustralia, #nowunited, #australia, #aussie"
+  - username: "harleyagsd"
+    fullname: >-
+      Harley a gsd 
+    bio: >-
+      Harley Workingline gsd Bday 14/1/18 Insta model Lives Sydney/Australia 🇦🇺
+    location: "Australia"
+    followers: 314500
+    engagement: 2086
+    commentsToLikes: 0.175877
+    id: ck8tpd1hqpz7b0j78jmo3cha1
+    verified: false
+    hashtags: "#foryou, #fyp, #gsd, #1video5photos"
+  - username: "benblue01"
+    fullname: >-
+      Ben Blue
+    bio: >-
+      Let’s be friends
+    location: "Australia"
+    followers: 1400000
+    engagement: 1975
+    commentsToLikes: 0.022336
+    id: ck8km8pp77gnd0j78spq3l3q4
+    verified: false
+    hashtags: "#greenscreenvideo, #stitch, #alt, #justvibing"
+  - username: "joelbergs"
+    fullname: >-
+      JoelBergs
+    bio: >-
+      🇦🇺 The CEO of “LOIFE” Email: joelbergs@clickmgmt.com.au @Bangenergy
+    location: "Australia"
+    followers: 7700000
+    engagement: 1908
+    commentsToLikes: 0.007632
+    id: ck83z3rdzxg5q0j78xonym8i0
+    verified: true
+    hashtags: "#bangenergy, #australia, #ad, #twitch"
+  - username: "damielou"
+    fullname: >-
+      Damielou
+    bio: >-
+      Just Expressing myself 📩 info@damielou.net
+    location: "Australia"
+    followers: 59500
+    engagement: 1716
+    commentsToLikes: 0.096534
+    id: ckbbeg55k37r40j2328xvhpb4
+    verified: false
+    hashtags: "#duet, #wrongsonglyrics, #secondwave, #wherestherumgone"
+  - username: "_red_artist_"
+    fullname: >-
+      Red
+    bio: >-
+      Just your friendly Orange weeb Australia Business email:redartist2511@gmail.com
+    location: "Australia"
+    followers: 244700
+    engagement: 1623
+    commentsToLikes: 0.071015
+    id: ck8ae8ta8aulx0j78cyc09vmz
+    verified: false
+    hashtags: "#australia, #foryou, #fyp, #tiktokartist"
+  - username: "harveypetito"
+    fullname: >-
+      Harvey Petito
+    bio: >-
+      Model | Actor 📧: harveypetitomodel@gmail.com
+    location: "Australia"
+    followers: 1700000
+    engagement: 1433
+    commentsToLikes: 0.014899
+    id: ck8kn2f4obb1l0j78ygrrn4v2
+    verified: true
+    hashtags: "#ad, #siblinggoals, #englandvsitaly, #italia"
+  - username: "hannahxrose0"
+    fullname: >-
+      Restarting my videos 💕
+    bio: >-
+      I put a lot of my videos on private because people from my school found my acc🤠
+    location: "Australia"
+    followers: 33600
+    engagement: 4096
+    commentsToLikes: 0.091589
+    id: ckae4oosc3fas0i782nmbbdwh
+    verified: false
+    hashtags: "#trend, #foryou, #fyp, #foryoupage"
 cities:
   - name: Sydney
     link: /tiktok/australia/sydney

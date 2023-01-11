@@ -1,130 +1,130 @@
 ---
-title: Top 10 Djs Instagram Influencers In Australia In 2022
+title: Top 10 Djs Instagram Influencers In Australia In 2023
 description: >-
-  Find top djs Instagram influencers in Australia in 2022. Most popular hashtags: #dj #music #letsgo.
+  Find top djs Instagram influencers in Australia in 2023. Most popular hashtags: #dj #music #livemusic #melbourne.
 platform: Instagram
-hits: 39
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 39 Instagram influencers like this in Australia for you to work with.
+hits: 25
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat has 25 Instagram influencers like this in Australia for you to contact.
 profiles:
   - username: "thefadersdjs"
     fullname: >-
       
     bio: >-
-      DJs, Universal Music Agent, IMG Global Comms, Oakley jo@jwtp.com.au kailei@luckyent.com #thefadersdjs
+      DJs, Universal Music Agent, IMG Global Comms, Oakley jo@jwtp.com.au kg@samebutdifferent.agency #thefadersdjs
     location: "Australia"
-    followers: 27061
-    engagement: 173
-    commentsToLikes: 0.057479
+    followers: 26990
+    engagement: 154
+    commentsToLikes: 0.052597
     id: ck0w2etixo00w0i19sfpn8gts
     verified: false
-    hashtags: ""
+    hashtags: "#monetandfriends"
   - username: "djsyrahofficial"
     fullname: >-
       Dj Syrah
     bio: >-
       #djsyrah DJ/Producer From Indore 🎧🎹🎶 For Bookings Email ➡️ djsyrahofficial@gmail.com www.facebook.com/djsyrahofficial
     location: "Australia"
-    followers: 50931
-    engagement: 338
-    commentsToLikes: 0.020630
+    followers: 52773
+    engagement: 317
+    commentsToLikes: 0.019850
     id: ck0vz2cxb6xu30i19730s8zzo
     verified: false
-    hashtags: "#bollywoodforever11, #album, #djsyrah, #dj"
-  - username: "djskaps"
+    hashtags: "#album, #gig, #femaledj, #dj"
+  - username: "_blackloops_"
     fullname: >-
-      Skappy Loso
+      Black Loops
     bio: >-
-      🎧 - DJ/Producer 🎼 - HipHop & RnB Expert 🙏🏾 - RIP CADET❤️❤️❤️
+      Bookings: booking@ninkasi.co
     location: "Australia"
-    followers: 2698
-    engagement: 1749
-    commentsToLikes: 0.117278
-    id: ck15ux1nhowun0i192az1qztr
+    followers: 16733
+    engagement: 511
+    commentsToLikes: 0.045529
+    id: ck136hojb6jz00i19ath9vwhb
     verified: false
-    hashtags: "#saturdayshellingswithskappy, #saturdayswithskappy, #youknowthevibes, #ynl"
-  - username: "chloemarin__"
+    hashtags: "#newep, #shallnotfade, #blackloops, #vineyards"
+  - username: "mavournee"
     fullname: >-
-      Chloe Marin
+      MAVOURNEE
     bio: >-
-      Singer. Performer. Songwriter. 🎤 “This Is Who We Are” Listen Here ⬇️
+      🌶 WICKED SWEET 🌶 Melbourne, Australia represented by Sue Barnett
     location: "Australia"
-    followers: 17947
-    engagement: 290
-    commentsToLikes: 0.099553
-    id: ck6tixt431mxn0j71d7rdxpst
-    verified: false
-    hashtags: "#instadaily, #throwbackthursday, #missit, #chloemarin"
-  - username: "mha_iri_official"
-    fullname: >-
-      Mha Iri
-    bio: >-
-      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Producer based in Melbourne 1605, Analytictrail, Respekt Recordings
-    location: "Australia"
-    followers: 23460
-    engagement: 471
-    commentsToLikes: 0.141663
-    id: ck14h2tr189ku0i19g43cn6ij
-    verified: false
-    hashtags: "#news, #technopeople, #happy, #releasenews"
-  - username: "3viemathers"
-    fullname: >-
-      ♥️ 𝓔𝓿𝓮
-    bio: >-
-      ♉️🌈 | 💌: 𝘦𝘷𝘦_2498@𝘩𝘰𝘵𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 . .
-    location: "Australia"
-    followers: 4915
-    engagement: 1317
-    commentsToLikes: 0.243431
-    id: ckf5mvsnbvmgs0j23anmvqzuu
-    verified: false
-    hashtags: "#melbournefoodie, #melbournefoodblogger, #melbourneeats, #melbfoodbaby"
-  - username: "jheuston"
-    fullname: >-
-      Josh Heuston
-    bio: >-
-      IMG x Tess.Stillwell@img.com Acting- we.are@thexdivision.com.au Jheustoncontact@gmail.com
-    location: "Australia"
-    followers: 606502
-    engagement: 398
-    commentsToLikes: 0.018213
-    id: ck5ceyuc6lzhp0i11fbptch73
+    followers: 91733
+    engagement: 166
+    commentsToLikes: 0.016191
+    id: ck5q1m82ubo0a0i1185jn543y
     verified: true
-    hashtags: "#tagheuercarrera, #camillawithlove, #takemetotinseltown, #conqueryourgreatness"
-  - username: "lukericketson"
+    hashtags: "#thebeautycut, #ad, #djsbeauty"
+  - username: "dj_ninobrown"
     fullname: >-
-      Luke Ricketson
+      𝘿𝙅 𝙉𝙞𝙣𝙤 𝘽𝙧𝙤𝙬𝙣
     bio: >-
-      GSA Sport and Leisure Insurance Broker | Ex NRL Rooster, now board member.
+      👆🏼𝘼𝙐𝙎 #1 𝙃𝙞𝙥 𝙃𝙤𝙥/𝙍&𝘽 𝘿𝙅 🌏 𝘞𝘰𝘳𝘭𝘥 𝘍𝘢𝘮𝘰𝘶𝘴 𝘊𝘩𝘪𝘦𝘧𝘳𝘰𝘤𝘬𝘦𝘳𝘴 💽 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙩𝙤 𝙎𝙥𝙤𝙩𝙞𝙛𝙮 & 𝙈𝙞𝙭𝙘𝙡𝙤𝙪𝙙 📻 𝘛𝘩𝘦 𝘌𝘥𝘨𝘦 96.1 & 𝘔𝘢𝘪 𝘍𝘔 🎶 Summertime - 𝙊𝙐𝙏 𝙉𝙊𝙒! 𝘊𝘓𝘐𝘊𝘒👇🏼
     location: "Australia"
-    followers: 12002
-    engagement: 585
-    commentsToLikes: 0.048280
-    id: ck0w3sis4v1nb0i19dkdfsk34
+    followers: 23394
+    engagement: 103
+    commentsToLikes: 0.065092
+    id: ck13acd6tpols0i19lon3m8bk
     verified: false
-    hashtags: "#sophia, #djsfood"
-  - username: "adutakech"
+    hashtags: "#gorosmaryst, #goros, #chiefrockersound, #linkinbio"
+  - username: "shaynetino"
     fullname: >-
-      Adut Akech Bior
+      SHAYNE TINO
     bio: >-
-      2019 BFA - Model of The Year 2019 Industry vote - Model of The Year 2019 Time - 100 NEXT List
+      Creative Director.... @rimagind @catalyst_and @sneaky_studio MGMT: lily@lmbmanagement.com.au
     location: "Australia"
-    followers: 1138170
-    engagement: 1039
-    commentsToLikes: 0.009053
-    id: ck0tt8w181npr0i198amrc2lq
-    verified: true
-    hashtags: "#djsss20, #ripchadwickbossman, #versaceholiday, #africatotheworld"
-  - username: "charleefraser"
+    followers: 48898
+    engagement: 263
+    commentsToLikes: 0.015901
+    id: ck5cigy0hsmnr0i11h4clg3dr
+    verified: false
+    hashtags: "#artdirection, #mycottonon, #cottononmen, #galaxywatch3"
+  - username: "brendancphoto"
     fullname: >-
-      Charlee Fraser
+      Brendan | Perth Photographer
     bio: >-
-      Model | in the | Making IMG Worldwide. 🌏
+      Australian Music & Portrait Photographer Available for Gigs, Tour, Events Director @highplacesau Images are not to be reproduced without consent
     location: "Australia"
-    followers: 35359
-    engagement: 155
-    commentsToLikes: 0.041335
-    id: ck0tuzowg9djf0i19kah3xewl
+    followers: 14989
+    engagement: 432
+    commentsToLikes: 0.061376
+    id: ck5zv6xfp3p240i14bk7wj4m5
+    verified: false
+    hashtags: "#photography, #perth, #hiphop, #canon"
+  - username: "travispriceillustration"
+    fullname: >-
+      travispriceillustration
+    bio: >-
+      Australian Freelance illustrator/designer working in the advertising and apparel industry. Info@travisprice.com.au Art directors only.
+    location: "Australia"
+    followers: 57180
+    engagement: 270
+    commentsToLikes: 0.019842
+    id: ck15s8ilybrje0i19uatbs3px
+    verified: false
+    hashtags: "#tgif, #hardknox, #friday, #travisprice"
+  - username: "sharonjohal"
+    fullname: >-
+      SHARON JOHAL
+    bio: >-
+      🎬Actor @morrisseymanagement 💁🏽‍♀️IMG @imgtalent 🎙Pod @we_are_the_real_ones 🐾Pup @bosco_the_blue 👩🏽‍🎓Lawyer BComLLB •Human Rights•Art•Fashion•Culture•
+    location: "Australia"
+    followers: 61874
+    engagement: 219
+    commentsToLikes: 0.048380
+    id: ck0tvnxf4c3140i1908x3na5h
     verified: true
-    hashtags: "#sceneone, #scenetwo, #watchthisspace, #campaign"
+    hashtags: "#pride, #bekind, #livemusic, #sharonjohal"
+  - username: "jarradlees.sax"
+    fullname: >-
+      J A R R A D   L E E S  🎷
+    bio: >-
+      ✖️Live saxophone & DJ 🎷🎶 ✖️📍Melbourne, Australia 🇦🇺 ✖️Celebrations 🥂 Weddings 👰 Events 🥳 ✖️For bookings contact me 📞📧👇🏼
+    location: "Australia"
+    followers: 14311
+    engagement: 64
+    commentsToLikes: 0.070900
+    id: ck5qaz64ej0o20i11j6985f51
+    verified: false
+    hashtags: "#saxophone, #dj, #fun, #melbourne"
 ---

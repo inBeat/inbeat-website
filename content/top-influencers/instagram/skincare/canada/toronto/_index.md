@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Toronto In 2022
+title: Top 10 Skincare Instagram Influencers In Toronto In 2023
 description: >-
-  Find top skincare Instagram influencers in Toronto in 2022. Most popular hashtags: #skincare #skincareroutine #toronto #makeup.
+  Find top skincare Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #skincare #ootd #reels.
 platform: Instagram
-hits: 78
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 78 Instagram influencers like this in Toronto, Canada for you to contact.
+hits: 28
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 28 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
-  - username: "klumsyclosett"
+  - username: "blushkittenn"
     fullname: >-
-      A S H N A
+      Jenn
     bio: >-
-      🇨🇦 Toronto ✉️ klumsyclosett@hotmail.com 💪🏽 FITNESS @ashnaub 🎼 TikTok - Klumsyclosett 🎥 MY YOUTUBE CHANNEL (klumsyclosett)
+      ❤️ #makeup #skincare 🇨🇦 Toronto 💌 blushkittenn@gmail.com
     location: "Canada"
-    followers: 263073
-    engagement: 173
-    commentsToLikes: 0.012958
-    id: ck8t8fwvckbdq0j78iqrkhw2w
+    followers: 31139
+    engagement: 138
+    commentsToLikes: 0.223615
+    id: ck5zo0k0dpiiv0i1499pg0klj
     verified: false
-    hashtags: "#glowymakeup, #skincare, #toronto, #makeuptutorial"
-  - username: "the_velvetlife"
+    hashtags: "#foundation, #rarebeauty, #multichrome, #glow"
+  - username: "coralrosecarson"
     fullname: >-
-      Preet | The Velvet Life
+      CORAL CARSON
     bio: >-
-      #LuxuryBeauty from the 'eye' and 'pen' of an IT nerd. Beauty Addict since 2014 Mom of 👫 Based in 🇨🇦 My website👇👇
+      ♡ Miss Canada World Europe Continental ✎ top 25 women in weed ✧ Mgmt: @worldmgmt » @coralcarson.backup
     location: "Canada"
-    followers: 40591
-    engagement: 147
-    commentsToLikes: 0.059315
-    id: ck5q11lu78tqz0i11roeszwno
+    followers: 80303
+    engagement: 64
+    commentsToLikes: 0.108176
+    id: ckap2ehwryhld0i784v3igkxb
     verified: false
-    hashtags: "#skincaretreatment, #antiaging, #skincaremusthave, #luxurybeauty"
-  - username: "allinefeitosa"
-    fullname: >-
-      Alline Feitosa| no Canada📍🇨🇦
-    bio: >-
-      🌎 Brasileira morando fora. ✈️ Dou dicas de viagem 📚 Te ajudo a programar seu #intercâmbio ✨ Te motivo a realizar seus sonhos @estudandonocanada 🇨🇦
-    location: "Canada"
-    followers: 41094
-    engagement: 143
-    commentsToLikes: 0.080894
-    id: ckap4cqz86rdt0i780pfnt70u
-    verified: false
-    hashtags: "#canadaparabrasileiros, #brasileirosporai, #brasileirospelomundo, #interc"
-  - username: "matthew.giuffrida"
-    fullname: >-
-      Matthew Giuffrida
-    bio: >-
-      𝗣𝘂𝘁𝘁𝗶𝗻𝗴 𝘀𝗺𝗶𝗹𝗲𝘀 𝗼𝗻 𝗳𝗮𝗰𝗲𝘀 𝘀𝗶𝗻𝗰𝗲 𝟭𝟵𝟵𝟲! Tik Tok | Youtube | Facebook | Instagram •Email For Business/Collaboration Inquiries•
-    location: "Canada"
-    followers: 36514
-    engagement: 391
-    commentsToLikes: 0.082861
-    id: ck6ug7d0g1ceu0j71i3rml2sf
-    verified: false
-    hashtags: "#ottawa, #brudder, #codered, #montreal"
-  - username: "maisha667"
-    fullname: >-
-      Maisha C
-    bio: >-
-      🇨🇦🥊🖊❤️🌱 Snap👻- maisha667 📩- maisha.667@hotmail.com
-    location: "Canada"
-    followers: 107526
-    engagement: 174
-    commentsToLikes: 0.044948
-    id: ck139to9ln26j0i1983r50zxp
-    verified: false
-    hashtags: "#revolvesummer, #sports, #revolve, #sportsbetting"
+    hashtags: "#magazine, #naturalbeauty, #rhk, #fit"
   - username: "curls_n_tings"
     fullname: >-
       Abeer Mo
     bio: >-
       Natural hair. 3c Curls. Makeup. Skincare. 📍Toronto, Canada 📩 curlsntings@gmail.com #curlsntings Youtube
     location: "Canada"
-    followers: 22464
-    engagement: 210
-    commentsToLikes: 0.054753
+    followers: 21838
+    engagement: 222
+    commentsToLikes: 0.065835
     id: ck8svr2j0ce2i0j78lydbs7x6
     verified: false
-    hashtags: "#washandgo, #curlsntings, #naturalhair, #curls"
-  - username: "skinbyjess"
+    hashtags: "#curlsntings, #travelnoire, #curls, #selflove"
+  - username: "harleens3khon"
     fullname: >-
-      skinbyjess
+      Harleen Sekhon
     bio: >-
-      Skincare • Beauty • Wellness 🤍 Think of me as your bff who tries a bunch of shit so you dont have to 🤍
+      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
     location: "Canada"
-    followers: 2518
-    engagement: 1048
-    commentsToLikes: 0.204314
-    id: ck6udx76anmsi0j71dlbddbw2
+    followers: 3271
+    engagement: 966
+    commentsToLikes: 0.169015
+    id: ckf5o291c0m3d0j232y4q9oxq
     verified: false
-    hashtags: "#intothegloss, #skincarejunkie, #skincareroutine, #drunkelephant"
-  - username: "kimberlyamy_"
+    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
+  - username: "itsbenzy"
     fullname: >-
-      Kimberly ॐ
+      mercedes gaztambide
     bio: >-
-      Caribbean Girl☀🌴 St.Lucia 🇱🇨, West Indies 🐠🏄 DM for promo 📥 #CaribbeanBeauties #WavemakerPhotography #WavemakerProductions #WavemakerBooth
+      💡 food, coffee and feelings 📧 mercedesirene.g@gmail.com | host + tiktok @blogto | youtube! ⬇️ -
     location: "Canada"
-    followers: 12409
-    engagement: 1214
-    commentsToLikes: 0.026682
-    id: ck15takcmh58e0i19w4azyk6x
+    followers: 7791
+    engagement: 1575
+    commentsToLikes: 0.028756
+    id: ckap0g1uqq49g0i78jag4s23p
     verified: false
-    hashtags: "#stlucia, #wavemakerphotography, #curlybeauties, #758naturals"
-  - username: "its_jennj"
+    hashtags: "#toronto, #reels, #canada, #tiktoktoronto"
+  - username: "makeupbylirazstudio"
     fullname: >-
-      Jenn | 4C Natural Hair
+      Makeup By Liraz Studio
     bio: >-
-      Hair + Beauty + Lifestyle I’ll help you live your best life while looking your best 👏🏽💃🏽 📍Canada 🎬YouTube: 110k Jenn@itsjennj.com ✨ #4chair Videos👇🏽✨
+      Canada’s 1st influencer centric beauty studio. Influencer Atelier Main page @makeupbyliraz
     location: "Canada"
-    followers: 26121
-    engagement: 500
-    commentsToLikes: 0.049188
-    id: ck14h8hhb92fw0i19a6im80f2
+    followers: 27302
+    engagement: 316
+    commentsToLikes: 0.841553
+    id: ck6ub6q477szg0j71mrcm0vf2
     verified: false
-    hashtags: "#blackhaircare, #protectivestyles, #4chair, #kinkycoily"
-  - username: "minaabeautyy"
+    hashtags: "#makeupbylirazgiveaway, #beautygiveaway, #skingiveaway, #gifted"
+  - username: "guneetbenipal"
     fullname: >-
-      Mina ♡ | Makeup & Hair Artist
+      Gunu 🌸
     bio: >-
-      ↓ Bookings / PR ↓ workyousufzai@gmail.com Offering 1-ON-1 Makeup Classes Toronto, Ontario
+      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
     location: "Canada"
-    followers: 105203
-    engagement: 328
-    commentsToLikes: 0.106981
-    id: ck6tiby590fgg0j71al8habhx
+    followers: 4700
+    engagement: 716
+    commentsToLikes: 0.201164
+    id: ckap7d7injk6w0i78ee3qs4iu
     verified: false
-    hashtags: "#wakeupandmakeup, #benefitcosmetics, #eotd, #weddingmakeupartist"
+    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
+  - username: "ashnaubbi"
+    fullname: >-
+      ASHNA UBBI (klumsyclosett)
+    bio: >-
+      📍Toronto Fitness: @ashnaub ashnaubb@gmail.com
+    location: "Canada"
+    followers: 247199
+    engagement: 129
+    commentsToLikes: 0.013006
+    id: ck8t8fwvckbdq0j78iqrkhw2w
+    verified: false
+    hashtags: "#reelsinstagram, #makeupoftheday, #skincaretips, #makeuproutines"
+  - username: "terihart"
+    fullname: >-
+      Teri Hart
+    bio: >-
+      Entertainment reporter & producer. Content creator Public Speaking coach. Volunteer #movies🎬 #tv📺 #terihartstvandmovieclub
+    location: "Canada"
+    followers: 10866
+    engagement: 361
+    commentsToLikes: 0.122334
+    id: ck6tvknzamqqs0j71wzt813j5
+    verified: true
+    hashtags: "#cdntalent, #cdnfilm, #tbt, #moviesmatter"
+  - username: "ladyofrandomnessto"
+    fullname: >-
+      Lady Of Randomness To 💙
+    bio: >-
+      Tia 👌Vibe Approver 🍡Foodie Lover 😜Being Random One Day At A Time 🎥Content Creator 🔥Dopamine Dealer 📧 Ladyofrandomness@hotmail.com
+    location: "Canada"
+    followers: 17124
+    engagement: 175
+    commentsToLikes: 0.557627
+    id: ck134od81xeii0i19nwpjlp6o
+    verified: false
+    hashtags: "#torontofoodblogger, #streetsoftoronto, #lick, #foodie"
 ---

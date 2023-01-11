@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Italy In 2022
+title: Top 10 Yoga Instagram Influencers In Italy In 2023
 description: >-
-  Find top yoga Instagram influencers in Italy in 2022. Most popular hashtags: #autumn #yogainspiration #yogapractice #yogaitalia.
+  Find top yoga Instagram influencers in Italy in 2023. Most popular hashtags: #yogainspiration #yogagirl #yogapractice #yogaitalia.
 platform: Instagram
-hits: 257
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 257 Instagram influencers like this in Italy for you to contact.
+hits: 209
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 209 Instagram influencers like this in Italy for you to work with.
 profiles:
-  - username: "siledona"
-    fullname: >-
-      Sile
-    bio: >-
-      Beauty is everywhere🦋 Happily married dentist💉 ❤️Travel/Fashion/Yoga/🐈 #siledona #silestyle ✒️🇬🇧🇷🇺🇮🇹🇱🇹 • 📩siledona7@gmail.com •
-    location: "Italy"
-    followers: 16797
-    engagement: 1036
-    commentsToLikes: 0.549106
-    id: ck13byiddxrgy0i1987nbvc01
-    verified: false
-    hashtags: "#mood, #siledona, #happyevening, #ciaociao"
-  - username: "yogapier"
-    fullname: >-
-      Pier Giorgio • Yoga Teacher
-    bio: >-
-      🌈 #Yoga Lifetime Research Sharing 🎼 Mind&Body for Movement&Stillness ✍️ Lucid Dreams #Writer ✨ Licensed Psychotherapist 🇮🇹 Based in IT .
-    location: "Italy"
-    followers: 17200
-    engagement: 833
-    commentsToLikes: 0.098715
-    id: ckaov221z2sb00i78y8pkp3zl
-    verified: false
-    hashtags: "#yogalife, #yogapractice, #instayoga, #igyoga"
-  - username: "robertamigliarese"
-    fullname: >-
-      Roberta Migliarese
-    bio: >-
-      🔆YOGA🔆 Naturopath & Fitness Trainer Per corsi, info e appuntamenti scrivi a ⬇️ roberta.migliarese@gmail.com Milano 🇮🇹
-    location: "Italy"
-    followers: 28947
-    engagement: 500
-    commentsToLikes: 0.059549
-    id: ck5zqu73tvate0i14ddn7lqkg
-    verified: false
-    hashtags: "#yogamind, #yogawoman, #yogaismytherapy, #myyogalife"
-  - username: "lucyspada.dj"
-    fullname: >-
-      Lucia Spada
-    bio: >-
-      ♉️ loveParis💟fitness🏋️‍♂️travel✈️sea&sun🏝radiodj 🎧 ON AIR on OrangeFm&Tv 4:pm/6:pm kiz&latin💃🏼yoga🧘‍♀️Mimi🐶 📍Ambassador @ironic_sportswear
-    location: "Italy"
-    followers: 56936
-    engagement: 293
-    commentsToLikes: 0.064757
-    id: ckaovi1jo4n7m0i78m6q531bj
-    verified: false
-    hashtags: "#acidoialuronico, #benessere, #naturel, #fashion"
   - username: "thelazytrotter"
     fullname: >-
       Cristina | 🌸🌙
     bio: >-
-      🏡Made in Salento🧿 🧘🏼‍♀️Viaggi + Yoga + Vita Olistica📿 👁LonelyPlanet + VanityFair + SkyTg24 ✌🏼 🙏🏻Convivo con la #fibromialgia 🌿 🎬YouTube👇🏼
+      🏡Made in Salento🧿 🧘🏼‍♀️Viaggi + Yoga + Vita Olistica📿 👁LonelyPlanet + VanityFair + SkyTg24 ✌🏼 🙏🏻Convivo con la #fibromialgia 🌿 🕯Cliccami Tutta👇🏼
     location: "Italy"
-    followers: 25836
-    engagement: 621
-    commentsToLikes: 0.050924
+    followers: 26629
+    engagement: 582
+    commentsToLikes: 0.060895
     id: ck5qdzfj0y0050i11dbxhqik1
     verified: false
-    hashtags: "#thetravelisfemale, #wanderlust108, #findyourtruenorth, #wanderlustambassador"
-  - username: "rachele_maria_mura"
+    hashtags: "#adv, #cocou, #thetravelisfemale, #ad"
+  - username: "robertamigliarese"
     fullname: >-
-      Rachele Mura
+      Roberta Migliarese
     bio: >-
-      •LIFECOACH 🌟 •FITNESS🏋🏽‍♀️ MOTIVATOR •MINDSET💡 •HEALTHY 🥑 TRAINER •YOGA INSTRUCTOR🧘🏽‍♀️ •WORLDTRAVELLER 🌏
+      🔆YOGA🔆 Naturopath & Yoga Teacher Per corsi, info e appuntamenti scrivi a ⬇️ roberta.migliarese@gmail.com Milano 🇮🇹
     location: "Italy"
-    followers: 48279
-    engagement: 283
-    commentsToLikes: 0.081017
-    id: ck8tacxn5r9e10j78z4wznfzp
+    followers: 39182
+    engagement: 335
+    commentsToLikes: 0.084048
+    id: ck5zqu73tvate0i14ddn7lqkg
     verified: false
-    hashtags: "#stayfit, #staystrong, #fase2, #loveyourself"
-  - username: "heidi.from.the.mountains"
+    hashtags: "#yogaofsound, #yogaismytherapy, #feliciaofficialpage, #yogapositive"
+  - username: "carmen__yoga__"
     fullname: >-
-      Heidi Messner
+      Carmen — Yoga Teacher
     bio: >-
-      🌲 HAPPY RUNNING GIRL 🌲 ➵ mountain, yoga and chocolate enthusiast 🏔 ➵ incurable optimist 🌸
+      🧘‍♀️Vinyasa | Hatha | Power Yoga 👉Online class in italian and in german Have some filre☀️, be unstoppable💪, be a force of nature🌳
     location: "Italy"
-    followers: 71269
-    engagement: 1074
-    commentsToLikes: 0.009220
-    id: ck0u8yxgs8n3m0i19yk6itktw
+    followers: 3103
+    engagement: 1108
+    commentsToLikes: 0.157870
+    id: ckap9sxwttj440i78lpk4u6ct
     verified: false
-    hashtags: "#mountains, #autumn, #runninggirl, #outdoor"
-  - username: "hellopippa"
+    hashtags: "#namaste, #yogaaddict, #forestyoga, #yogavibes"
+  - username: "vanessaciliberto"
     fullname: >-
-      Angie
+      Vanessa Ciliberto
     bio: >-
-      i teach yoga, eat a lot of vegan cake and talk mainly about my dogs, nature, fair fashion & life as an introvert. 🤍 🪐 austria 💌 info@hellopippa.com
+      serendipity ☽ • pr & social media consultant • creative mind, travel- and yoga lover • italian girl, just moved from zh to zg
     location: "Italy"
-    followers: 85935
-    engagement: 459
-    commentsToLikes: 0.017133
-    id: ck134dt93vygz0i195kqxsej9
-    verified: true
-    hashtags: "#veganfood, #vanlifediaries, #vanlove, #tuscany"
+    followers: 30819
+    engagement: 192
+    commentsToLikes: 0.071857
+    id: ck13818dje0cm0i19wc2t5wyc
+    verified: false
+    hashtags: "#scho, #steviaswiss, #christmascard, #cartierwinterhouse"
+  - username: "denisedellagiacoma"
+    fullname: >-
+      Denise Dellagiacoma
+    bio: >-
+      Yoga Teacher 🇮🇹 🜁 🜂 🜃 🜄 ~yoga~pilates~meditation~lifestyle “Yoga Academy” founder Podcast “Yoga con Denise” YouTube “Denise Dellagiacoma”
+    location: "Italy"
+    followers: 109299
+    engagement: 254
+    commentsToLikes: 0.030235
+    id: ck139w7yfnfdg0i19yanmpx78
+    verified: false
+    hashtags: "#trentino, #yogagirl, #mywinter, #yogaacademy"
   - username: "marta__milani"
     fullname: >-
       Marta | a green life 🌿
     bio: >-
       [she/her] studentessa di medicina che ama le piante e le cose semplici 💫 | vegan yoga e ricette vegane 🌱
     location: "Italy"
-    followers: 41471
-    engagement: 263
-    commentsToLikes: 0.047270
+    followers: 41058
+    engagement: 238
+    commentsToLikes: 0.043776
     id: ck0u9oucsaf5q0i19o25nc1cc
     verified: false
-    hashtags: "#dolcivegani, #cremapasticcera, #veganfood, #dolci"
+    hashtags: "#formaggiovegano, #ad, #dolcivegani, #dolci"
+  - username: "elenadicioccio"
+    fullname: >-
+      E L E N A   D I  C I O C C I O
+    bio: >-
+      💛Actress🧡Singer❤️Writer💜Yoga lover💙 💚Free Female Emotional Intelligence 🖤CONTACT @tt_agencysrl @serena.quattrocchi
+    location: "Italy"
+    followers: 26122
+    engagement: 261
+    commentsToLikes: 0.042941
+    id: ck0vxaa09xxt60i19sng8jyvw
+    verified: false
+    hashtags: "#positiveme, #unica, #positiva, #uniqueness"
+  - username: "claudia__casanova"
+    fullname: >-
+      Claudia Casanova
+    bio: >-
+      ❤️ Pratica con me su @yome_digital 🤸🏽‍♂️ Creator of Nusa Mat 🧘🏽‍♀️Power Yoga teacher 🌟Biomed engineer 📍Milan #claudia4yoga #nusamat
+    location: "Italy"
+    followers: 76347
+    engagement: 188
+    commentsToLikes: 0.029616
+    id: ck5hph094rcft0i11qhz6jnrd
+    verified: false
+    hashtags: "#weekend, #praticayoga, #verticale, #yoga"
+  - username: "nandaisaia"
+    fullname: >-
+      Nanda
+    bio: >-
+      Certified Ballet & Yoga Instructor 𝘿𝙢 𝙛𝙤𝙧 𝙤𝙣𝙡𝙞𝙣𝙚 𝙮𝙤𝙜𝙖 𝙡𝙚𝙨𝙨𝙤𝙣𝙨 🤸🏼‍♀️ Select ~ London| Women ~ Milano🦋 greek Train with me online wherever you are! ⤓
+    location: "Italy"
+    followers: 5897
+    engagement: 858
+    commentsToLikes: 0.031307
+    id: ck5btt66qgk5u0i11wn279f32
+    verified: false
+    hashtags: "#emporioarmani, #pangaiaactivewear, #pangaia, #eajewellery"
   - username: "vanesssavilla"
     fullname: >-
       Vanessa | Gentle Fighter 🦋
     bio: >-
-      ✨Karate Champion / Yoga & Meditation Teacher🙏🏻 @fightgently®️ Proud Founder @nikewomen Ambassador 📩@goldensabrepr
+      ✨Karate Champion | Yoga & Meditation Teacher🙏🏻 @fightgently founder 🧝🏻‍♀️ @nikewomen ambassador 🪐 @goldensabrepr family🌋
     location: "Italy"
-    followers: 50670
-    engagement: 227
-    commentsToLikes: 0.045234
+    followers: 52404
+    engagement: 161
+    commentsToLikes: 0.038560
     id: ck5c8s707a4kq0i11uzwhutg2
     verified: true
-    hashtags: "#healingenergy, #fightgently, #meditazione, #yogaitalia"
+    hashtags: "#yogaitalia, #meditation, #meditazione, #yoga"
 ---

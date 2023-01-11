@@ -1,69 +1,69 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Australia In 2022
+title: Top 10 Guitar Instagram Influencers In Australia In 2023
 description: >-
-  Find top guitar Instagram influencers in Australia in 2022. Most popular hashtags: #guitarist #guitar #metal.
+  Find top guitar Instagram influencers in Australia in 2023. Most popular hashtags: #guitarriff #guitarshred #guitar.
 platform: Instagram
-hits: 76
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 76 Instagram influencers like this in Australia for you to contact.
+hits: 44
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 44 Instagram influencers like this in Australia for you to connect with.
 profiles:
   - username: "mitchellblack78"
     fullname: >-
       Mitchell Black | SUSPYRIA
     bio: >-
-      🇦🇺 Melb AU ◾️Lead Guitarist 🎸 @suspyria.official 🎶 ◾️Songwriter ◾️NEW @suspyria.official Album out now!! 🎶👇
+      ◾️Lead Guitarist 🎸 @suspyria.official 🎶 ◾️Melbourne 🇦🇺 ◾️Music, Merch and Show dates 👇🎶
     location: "Australia"
-    followers: 26495
-    engagement: 373
-    commentsToLikes: 0.078851
+    followers: 27321
+    engagement: 385
+    commentsToLikes: 0.115722
     id: ck6twicsjs5mt0j711gtxwsse
     verified: false
-    hashtags: "#guitarist, #metalguitar, #guyswithtattoos, #metalheads"
-  - username: "jayden_tatasciore"
+    hashtags: "#bvbarmy, #metalfashion, #guitarsolo, #metal"
+  - username: "adventuresinplasticland"
     fullname: >-
-      Jayden Tatasciore 🎸🇦🇺
+      Leah Martin-Brown
     bio: >-
-      11 years old Love guitar and all things rock n roll Gibson Generation Group Artist G3 *Account Run By Parent* YouTube link below
+      📍SWE / USA / AUS 🌏|| Musician Vocals/Songwriter/Casual Guitarist @evolwalks || MGMT @bluelemonmanagement || 🐺Wolf Tamer⚡️Hellraiser⚡️Sober🤘🏻🌱
     location: "Australia"
-    followers: 162559
-    engagement: 484
-    commentsToLikes: 0.017915
-    id: ck0w0ap2vd8yj0i19cwy50qxq
+    followers: 24578
+    engagement: 321
+    commentsToLikes: 0.173496
+    id: ck5hnm9ako0g40i11tw5y8gdn
     verified: false
-    hashtags: "#rockmusic, #bonscott, #rock, #guitarist"
-  - username: "rickschhh"
-    fullname: >-
-      Rick Schneider
-    bio: >-
-      Guitar in @polarisaus. Proudly endorsing @mayonesguitars @bareknucklepickupsofficial @evertune @jhaudio @evhgear @daddarioandco
-    location: "Australia"
-    followers: 8687
-    engagement: 1128
-    commentsToLikes: 0.021691
-    id: ck5bujaduhw3h0i11jez2e6pc
-    verified: false
-    hashtags: "#35mm"
+    hashtags: "#throwback, #tiktok"
   - username: "daveleslie64"
     fullname: >-
       Dave Leslie
     bio: >-
       💙Solo-Dad 🎸Guitar Player @babyanimalsmusic & @theblackskeletonband 🎚Recording Enthusiast 🎼Session Guy 🎹Songwriter 🇦🇺National Treasure
     location: "Australia"
-    followers: 2452
-    engagement: 1131
-    commentsToLikes: 0.097672
+    followers: 2496
+    engagement: 1087
+    commentsToLikes: 0.091672
     id: ck5zyb9y79kft0i14y5nja5h8
     verified: false
-    hashtags: "#babyanimalsmusic, #fractalax8, #grubisaguitars, #elixirstrings"
+    hashtags: "#grubisaguitars, #babyanimalsmusic, #fractalax8, #elixirstrings"
+  - username: "simeonbaker"
+    fullname: >-
+      SIMEON BAKER
+    bio: >-
+      Photographer | Guitarist Vienna Austria hello@simeonbaker.com Website ↡
+    location: "Australia"
+    followers: 66944
+    engagement: 639
+    commentsToLikes: 0.025323
+    id: ck14h9z6i9a6q0i19kx0dpiew
+    verified: false
+    hashtags: ""
   - username: "philsgrosso"
     fullname: >-
       Phil Sgrosso
     bio: >-
-      Guitar Player: @asilaydying @saosinofficial @poisonheadache Artist Management: @440mgmt @authorandpunisher
+      Guitar Player: @asilaydying @saosinofficial Artist Management: @440mgmt @authorandpunisher
     location: "Australia"
     followers: 21453
-    engagement: 988
-    commentsToLikes: 0.030689
+    engagement: 990
+    commentsToLikes: 0.030547
     id: ck5q80v9n3ydm0i11ewih7arw
     verified: true
     hashtags: "#tbt, #joshuatree"
@@ -71,50 +71,14 @@ profiles:
     fullname: >-
       𝗖𝗛𝗥𝗜𝗦 𝗕𝗥𝗢𝗢𝗞𝗦
     bio: >-
-      🖊 5 Chart-topping Books @amazon 🎸 Guitar Player @charvelusa 🎼 Educator 😼 Cat Advocate 🇦🇺 Aussie ⬇️ 𝟭𝟬𝟬 𝗔𝗥𝗣𝗘𝗚𝗚𝗜𝗢 𝗟𝗜𝗖𝗞𝗦 𝗙𝗢𝗥 𝗦𝗛𝗥𝗘𝗗 𝗚𝗨𝗜𝗧𝗔𝗥 𝗶𝘀 𝗼𝘂𝘁 𝗻𝗼𝘄!
+      🖊 5 Chart-topping Books @amazon 🎸 Guitar Player @charvelusa ❌ Sorry, I don't offer private lessons ⬇️ 𝗕𝗢𝗢𝗞𝗦, 𝗖𝗢𝗨𝗥𝗦𝗘𝗦, 𝗣𝗔𝗧𝗥𝗘𝗢𝗡 𝗛𝗘𝗥𝗘 ↙️
     location: "Australia"
-    followers: 47739
-    engagement: 169
-    commentsToLikes: 0.055431
+    followers: 49002
+    engagement: 220
+    commentsToLikes: 0.034292
     id: ck0vzihov99qa0i19xxp2gsrv
     verified: true
-    hashtags: "#100arpeggiolicks, #mrbig, #sweeppicking, #symphonyx"
-  - username: "blessedtunes"
-    fullname: >-
-      BLΞSSΞD
-    bio: >-
-      • guitar playing • genre bending • fashion favourite • ⁣ • artist from Sydney Australia • music is my medicine • connect with me fam +1 (419) 4696424
-    location: "Australia"
-    followers: 16473
-    engagement: 414
-    commentsToLikes: 0.085871
-    id: ck13530oszg310i19tyw6hbjn
-    verified: false
-    hashtags: ""
-  - username: "jontoogood"
-    fullname: >-
-      jontoogood
-    bio: >-
-      guitar & vox @shihad_the_band
-    location: "Australia"
-    followers: 6273
-    engagement: 651
-    commentsToLikes: 0.058125
-    id: ck5qaz0o1izro0i11p7hd28gi
-    verified: false
-    hashtags: "#romeoandjuliet1996, #romeoandjuliet, #blackouttuesday"
-  - username: "alangogoll"
-    fullname: >-
-      Alan Gogoll
-    bio: >-
-      🔔 Creator of @bellharmonics technique ~STRINGSCAPES~ 🎵 Heart>Head>Hands 🌅 Psalm 108:1 🎸My guitar @astrandguitars 🇦🇺 Australia 🔈 @spotify & @applemusic
-    location: "Australia"
-    followers: 191567
-    engagement: 131
-    commentsToLikes: 0.011090
-    id: ck15rusj29te50i19vaglot51
-    verified: true
-    hashtags: ""
+    hashtags: "#speedstrategies, #geartalk, #legato, #swisspicks"
   - username: "vicious_vinyl"
     fullname: >-
       
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.037342
     id: ck0tyboyhmbiu0i19pqiuhbb2
     verified: false
-    hashtags: "#emg81, #guitarsofinstagram, #vinyl, #90s"
+    hashtags: "#guitarriff, #nowblasting, #metalrecords, #vinyloftheday"
+  - username: "hand.habits"
+    fullname: >-
+      hh/md
+    bio: >-
+      they/them/guitar/song @saddlecreek and @milkrecords mgmt brandon@zone6mgmt.com
+    location: "Australia"
+    followers: 24405
+    engagement: 501
+    commentsToLikes: 0.015003
+    id: ck0udpx6kjmnq0i1982gc60m8
+    verified: true
+    hashtags: ""
+  - username: "jessica.rose.aus"
+    fullname: >-
+      Jessica Rose
+    bio: >-
+      ❤️ Mummy to Sinéad Rose - 🤍@patm120 🖤 Bikes 🎶 Guitar 🐶 Jake 🍃 Nature + the outdoors 🖊 HR Manager | Teacher 📍 Melbourne, Australia
+    location: "Australia"
+    followers: 31038
+    engagement: 143
+    commentsToLikes: 0.017269
+    id: ck0tvnrcxc2ac0i19glssnl5e
+    verified: false
+    hashtags: "#bikermum, #womenempowerment, #womensupportingwomen, #throwback"
+  - username: "alexctowler"
+    fullname: >-
+      Alex Towler
+    bio: >-
+      Winner - @channel9’s @legomastersau 2020 🧱🏆 Vox/guitar @lakejamesband RELICS: Bricks of the New World - opens Feb 18 Perth, WA
+    location: "Australia"
+    followers: 7406
+    engagement: 1165
+    commentsToLikes: 0.037205
+    id: ckap8wjtbq7av0i7833b0q8xh
+    verified: false
+    hashtags: "#moc, #jacksonandalex, #legomastersau, #lego"
 ---

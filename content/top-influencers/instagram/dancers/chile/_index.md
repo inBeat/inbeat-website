@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Chile In 2022
+title: Top 10 Dancers Instagram Influencers In Chile In 2023
 description: >-
-  Find top dancers Instagram influencers in Chile in 2022. Most popular hashtags: #dancer #picoftheday #dance.
+  Find top dancers Instagram influencers in Chile in 2023. Most popular hashtags: #dance #dancer #chile #picoftheday.
 platform: Instagram
-hits: 45
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 45 Instagram influencers like this in Chile for you to pitch.
+hits: 37
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 37 Instagram influencers like this in Chile for you to pitch.
 profiles:
+  - username: "maccc.a"
+    fullname: >-
+      𝑴𝒂𝒄𝒂𝒓𝒆𝒏𝒂 𝑭𝒊𝒈𝒖𝒆𝒓𝒐𝒂
+    bio: >-
+      “𝑨𝒍𝒈𝒖𝒏𝒂𝒔 𝒍𝒆 𝒕𝒆𝒎𝒆𝒏 𝒂𝒍 𝒇𝒖𝒆𝒈𝒐, 𝒐𝒕𝒓𝒂𝒔 𝒔𝒆 𝒄𝒐𝒏𝒗𝒊𝒆𝒓𝒕𝒆𝒏 𝒆𝒏 𝒆𝒍 ” 📍 Chile #DANCER • fullnes •
+    location: "Chile"
+    followers: 33120
+    engagement: 875
+    commentsToLikes: 0.030631
+    id: ck5bx5hytn1ou0i11x98j9u1l
+    verified: false
+    hashtags: "#chile, #dancer, #dance, #lastnight"
   - username: "itayvargass"
     fullname: >-
       𝑰𝒕𝒂𝒚 🤍
     bio: >-
-      ~🇨🇱🇮🇱 Dancer🩰/model✨ •(14M en tiktok)🙏🏻 •💌producciones@onemediachile.cl📍
+      ~🇨🇱🇮🇱 Dancer🩰/model✨in process. •(15M en tiktok)🙏🏻 •💌producciones@onemediachile.cl📍
     location: "Chile"
-    followers: 1543636
-    engagement: 1404
-    commentsToLikes: 0.027331
+    followers: 1603473
+    engagement: 1193
+    commentsToLikes: 0.009586
     id: ck8wen3wxeb1f0j781sj590wd
     verified: false
-    hashtags: "#appgallery, #riderpack, #huaweiy8p"
-  - username: "anitabritog"
-    fullname: >-
-      A N I T A  B R I T O
-    bio: >-
-      •Content Creator• 💜Makeup Artist. 💚Dancer. 🤍Model. 📍 𝘝𝘦𝘯𝘦𝘻𝘰𝘭𝘢𝘯𝘢 𝘦𝘯 𝘊𝘩𝘪𝘭𝘦. Colaboraciones /PR al Dm 💌
-    location: "Chile"
-    followers: 12562
-    engagement: 889
-    commentsToLikes: 0.100555
-    id: ck6tibwbn0fcp0j71tshs2oj3
-    verified: false
-    hashtags: "#bridemakeup, #morphebrushes, #nakedskin, #anastasiabeverlyhills"
-  - username: "ricardoo_vega"
-    fullname: >-
-      Ricardo Vega
-    bio: >-
-      Dancer/choreographer @karenyricardo @nbcworldofdance season2 Emmys awards nominees Champion @worldchoreographyawards 9 times World Salsa Champion
-    location: "Chile"
-    followers: 55058
-    engagement: 656
-    commentsToLikes: 0.013621
-    id: ckap100wesjk80i78z9sw9iux
-    verified: false
-    hashtags: "#picoftheday, #dancer, #worldchampion, #menchile"
-  - username: "frvn___"
-    fullname: >-
-      FRVN
-    bio: >-
-      (프란) Fashion Design Student English speaker Dancer at: @devourchile ✉️: Fran.ascencio.w@gmail.com 🔥 Escucha mi 1er Single "DICEN"🔥 Link en bio ⬇️
-    location: "Chile"
-    followers: 10580
-    engagement: 950
-    commentsToLikes: 0.042197
-    id: ck5q54d8crbll0i11quhk4m3s
-    verified: false
-    hashtags: "#pride, #magicmochisquad, #aquaboho, #aquababe"
-  - username: "claubailarinita"
-    fullname: >-
-      Claudia Alejandra
-    bio: >-
-      🇨🇱 Dancer💃🏻 Pilates Teacher🤸🏻‍♀️ Cosplayer🥰 Lawyer👩🏻‍🎓 Abby's mom🐶
-    location: "Chile"
-    followers: 50110
-    engagement: 1248
-    commentsToLikes: 0.025236
-    id: ck8t2gzu9zgvk0j78z1icry2k
-    verified: false
-    hashtags: "#elizabethlionescosplay, #gamergirl, #cosplayer, #cosplayphoto"
+    hashtags: "#generaci, #miskosasfavoritas"
   - username: "fabi._.hyung"
     fullname: >-
       FABI 파비안!
     bio: >-
       ❤¡DANCER.KPOPER.ARTIST!❤ ▪ Taehyung -@revenge.dc ▪ Embajador -@ylen.nx ▪ Twitter -Fabi._.Hyung🐦 ▪ TIKTOK -FabiHyung1🎶
     location: "Chile"
-    followers: 17158
-    engagement: 1922
-    commentsToLikes: 0.040298
+    followers: 17114
+    engagement: 2060
+    commentsToLikes: 0.035536
     id: ck5zo0nw6pio70i14uxmgyrlk
     verified: false
-    hashtags: "#follow, #jacket, #igers, #instacool"
+    hashtags: "#smile, #girl, #bestoftheday, #20likes"
   - username: "ateezchoisan"
     fullname: >-
       For ATEEZ Choi San (최산)
     bio: >-
-      ㅡEight makes one team @ateez_official_ Position: Vocal, Dancer, tloml Birthdate: July 10th, 1999 [ FANPAGE since predebut ] 1 admin—habby 🇨🇱
+      ㅡEight makes one team @ateez_official_ Position: Vocal, Dancer, tloml Birthdate: July 10th, 1999 ↓ ATEEZ IT'S RAINING COVER ↓ 1 admin—habby 🇨🇱
     location: "Chile"
-    followers: 79570
-    engagement: 514
-    commentsToLikes: 0.004237
+    followers: 79306
+    engagement: 563
+    commentsToLikes: 0.003817
     id: ck135abn90i130i19xs7ahnd5
     verified: false
-    hashtags: "#thanxx, #action, #kqfellaz, #wooyoung"
-  - username: "barbydmc"
+    hashtags: ""
+  - username: "gabo_pinto"
     fullname: >-
-      Barbara "Barby" Moscoso,
+      Gabriel Pinto
     bio: >-
-      💃🏼 Professional Dancer 🇨🇱 Latina por el 🌎 🛍 Owner #barbsbyb
+      🇻🇪📍🇪🇨 Dancer / Creator / Dreamer Richboyz /@_therichfam Line / @dothiscrew Architect
     location: "Chile"
-    followers: 47139
-    engagement: 134
-    commentsToLikes: 0.038656
-    id: ckaox4gp7bqtd0i78vevmdnxd
-    verified: true
-    hashtags: "#barbymoscoso, #clothingbrand, #losangeles, #palmdesert"
-  - username: "mati.falcon"
-    fullname: >-
-      Matías Falcón Anacona
-    bio: >-
-      ✨Sigue tus sueños ✨ Dancer & Chileno 🥉 lugar bailarines @rojotvn 👑Rey de Viña del Mar 2020 y de la Patria 2019 📲Huevosfalcon@gmail.com
-    location: "Chile"
-    followers: 108465
-    engagement: 282
-    commentsToLikes: 0.021740
-    id: ck13cqa151n280i19a7dkxr4g
-    verified: true
-    hashtags: "#dancer, #yoentrenoencasa, #yomequedoencasa, #yobailoencasa"
-  - username: "kittypardo"
-    fullname: >-
-      Kitty Carolina Pardo Riveros
-    bio: >-
-      Chile 📍 🌍 🇨🇱 Dancer 💃🏼 Luchadora 🙏🏻 📨Contact carolina.pardo95@gmail.com Hellokittylover
-    location: "Chile"
-    followers: 21773
-    engagement: 456
-    commentsToLikes: 0.047401
-    id: ck0tukra67lw10i193p1bcewj
+    followers: 24004
+    engagement: 439
+    commentsToLikes: 0.057265
+    id: ck14itc3ah2jg0i19eadx0euz
     verified: false
-    hashtags: "#home, #curly, #dancers, #latina"
+    hashtags: "#gabopinto, #reggaeton, #latino, #zion"
+  - username: "flaviogonzalez_p"
+    fullname: >-
+      flaviogonzalez
+    bio: >-
+      CHOREOGRAPHER | EDUCATOR | CREATIVE Directed @fusiondancecamp_chile @sobrevivientestv #flaviochoreography #fusionline #fusionkids #dancer
+    location: "Chile"
+    followers: 9549
+    engagement: 300
+    commentsToLikes: 0.111163
+    id: ck6u9fvtwxbmj0j7115eemupz
+    verified: false
+    hashtags: "#art, #video, #danza, #reggaeton"
+  - username: "bboyears"
+    fullname: >-
+      EARS👂
+    bio: >-
+      🚨CLASES PERSONALIZADAS ONLINE🚨 Dancer/Acrobat/Hand Balancer 📍🇨🇱 Speedy Angels Uni CREW🇻🇪 🙌🏻@Spdangelsuni 🏹@Aborigenesvzla 🏆@GodLevelStore ↘️VIDEO↙️
+    location: "Chile"
+    followers: 8807
+    engagement: 970
+    commentsToLikes: 0.061185
+    id: ck55kfj5tz6u80i11km7r03i2
+    verified: false
+    hashtags: "#training, #handstand, #tricking, #breakdance"
+  - username: "sandro_alvarez29"
+    fullname: >-
+      𝐂𝐨𝐩𝐩𝐨
+    bio: >-
+      HIP HOP Dancer | Choreographer Physical Education & Health Personal trainer 🔴3ra temporada @rojotvn 🇨🇱Chileno Wifey @rakeiciarte 🇻🇪
+    location: "Chile"
+    followers: 7741
+    engagement: 377
+    commentsToLikes: 0.080958
+    id: ck6u0xn0ricd40j713r3g3ghs
+    verified: false
+    hashtags: "#video, #pic, #nike, #photo"
+  - username: "rafaredvolcon"
+    fullname: >-
+      Rafa Redvolcon
+    bio: >-
+      Choreographer, Dancer & Promoter of #DancehallCulture 🇪🇸 Founder of #OLIDPF☝🏾❤️ Xpressionz F 📍 Barcelona, Spain 📨 Bookings & info: rafaredvolcon@gmail
+    location: "Chile"
+    followers: 19178
+    engagement: 563
+    commentsToLikes: 0.035735
+    id: ck0w1h6ebjbs70i19id8q4547
+    verified: false
+    hashtags: "#xpressionzfamilyfilife, #spain, #brogad, #dancehall"
+  - username: "antobulous"
+    fullname: >-
+      antoniaaa:p
+    bio: >-
+      •̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ XoXo
+    location: "Chile"
+    followers: 1455
+    engagement: 3075
+    commentsToLikes: 0.213443
+    id: ck6tlsgky6k3c0j712uxtw9zp
+    verified: false
+    hashtags: "#dancer, #feliz, #latina, #2020"
 ---

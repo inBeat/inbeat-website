@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Chile In 2022
+title: Top 10 Architecture Instagram Influencers In Chile In 2023
 description: >-
-  Find top architecture Instagram influencers in Chile in 2022. Most popular hashtags: #architecture #chile #city #drone.
+  Find top architecture Instagram influencers in Chile in 2023. Most popular hashtags: #architecture #arquitectura #chile #summer.
 platform: Instagram
-hits: 16
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 16 Instagram influencers like this in Chile for you to collaborate.
+hits: 20
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 20 Instagram influencers like this in Chile for you to work with.
 profiles:
-  - username: "t_w_o"
+  - username: "dennysmp"
     fullname: >-
-      Tomás Westenenk Orrego
+      Dennys Martin Perez
     bio: >-
-      Architect / Photographer
+      . . . . . ⭐ . . . . . Diseñador y Fotógrafo ✈ Canario en Galicia 🏡 @lacarmonahouse 🎥 @sch_lifestylephoto 📷 @sch_architecture
     location: "Chile"
-    followers: 124791
-    engagement: 125
-    commentsToLikes: 0.022930
-    id: ck6tiba060e3o0j711u3pz1nw
+    followers: 6427
+    engagement: 549
+    commentsToLikes: 0.055796
+    id: ck5zqui6hvbh90i14zx3omw3j
     verified: false
-    hashtags: "#chile, #lessismore, #traveltheworld, #composition"
+    hashtags: "#galiciacalidade, #outfit, #portugal, #igportugal"
+  - username: "javieragustinrojas"
+    fullname: >-
+      Javier Agustín Rojas
+    bio: >-
+      fotógrafo de arquitectura y entorno construido basado en buenos aires. — buenos aires based architecture and built environment photographer.
+    location: "Chile"
+    followers: 30522
+    engagement: 185
+    commentsToLikes: 0.013733
+    id: ck8sxryx2ig470j78zqyd5cw0
+    verified: false
+    hashtags: "#pedrolivni, #delarchivo, #rosario, #javieragustinrojas"
+  - username: "jenniferboldt"
+    fullname: >-
+      J E N N I F E R   B O  L D T
+    bio: >-
+      🎼 Soprano | Conductora de TV ✉️ jenniferboldt@musica.cl
+    location: "Chile"
+    followers: 51071
+    engagement: 385
+    commentsToLikes: 0.036498
+    id: ck6ui7194df2p0j71qpnlkj0o
+    verified: false
+    hashtags: "#arquitectura, #naturaleza, #dise, #ootd"
   - username: "arquetipoccp"
     fullname: >-
       Arquetipo CCP
     bio: >-
-      Fotógrafo 👉🏼 @sebaguerra . 🌋Naturaleza|🏙Arquitectura|🚀Sensaciones Ahora en:📍Concepción - Chile
+      Fotógrafo 👉🏼 @sebaguerra . 🌋Naturaleza|🏙Arquitectura|🚀Sensaciones From:📍Concepción - Chile 🇨🇱
     location: "Chile"
-    followers: 8610
-    engagement: 1572
-    commentsToLikes: 0.023372
+    followers: 10498
+    engagement: 2259
+    commentsToLikes: 0.025045
     id: ck5hs64wfw1zp0i11erd5f7lv
     verified: false
-    hashtags: "#concepcion, #gopro, #shotzfromthesky, #instaconce"
+    hashtags: "#sunset, #dronenerds, #chile, #filmphotography"
+  - username: "bilbaoforever"
+    fullname: >-
+      BILBAOFOREVER
+    bio: >-
+      Te mostramos Bilbao, los pueblos que le rodean y te contamos su historia. Una ciudad que ha sabido reinventarse, manteniendo una idiosincrasia única.
+    location: "Chile"
+    followers: 13002
+    engagement: 381
+    commentsToLikes: 0.006412
+    id: ck6u57isj80aj0j71a013rvz0
+    verified: false
+    hashtags: "#bilbaolovers, #euskaditurismo, #visiteuskadi, #architecture"
+  - username: "anchelote"
+    fullname: >-
+      Pingüino Mecánico
+    bio: >-
+      Cómo describirme... 📷 Fotógrafo 🏞 Montañero 💻 Informático 🤖 Friki 🏋 Crossfitero ¿Se puede pedir más? Colaboro con: 👉 @colectivopasoalto 👉 @zgzciudad
+    location: "Chile"
+    followers: 10426
+    engagement: 179
+    commentsToLikes: 0.012560
+    id: ck14kxvgcrvdi0i19tjk3hk2n
+    verified: false
+    hashtags: "#excursion, #historia, #zgz, #autumn"
+  - username: "felipeassadi"
+    fullname: >-
+      Felipe Assadi
+    bio: >-
+      @assadi_arquitectos @waveassadi
+    location: "Chile"
+    followers: 26371
+    engagement: 246
+    commentsToLikes: 0.018809
+    id: ck5qahtvfgh4k0i11uavxoj2g
+    verified: false
+    hashtags: "#concretearchitecture, #poolhouse, #seaside, #seascape"
+  - username: "cazu.zegers"
+    fullname: >-
+      Cazu Zegers Arquitectura
+    bio: >-
+      "El territorio es a América como los monumentos son a Europa” Profesora Invitada de @yalearchitecture
+    location: "Chile"
+    followers: 26941
+    engagement: 270
+    commentsToLikes: 0.014937
+    id: ck136mujy79rb0i195pn9vtka
+    verified: false
+    hashtags: "#arquitecturamadera, #chileanarchitecture, #femalearchitect, #arquitecturaenmadera"
   - username: "carlosjohansisco.arq"
     fullname: >-
       C  A  R  L  E  T  T  O
     bio: >-
-      A r q u i t e c t u r a & I l u s t r a c i o n INSCRIPCIONES ABIERTAS WORKSHOP 05-06 DICIEMBRE DM - Colaboraciones Entrevista @arch.vizz 👇🏻👇🏻
+      ▪️Arquitectura | Ilustración ▪️WORKSHOP 6.0 | 27-28 de Febrero ▪️Enseño sobre Softwares de Arquitectura ▪️Quieres aprender? Haz click 👇🏽👇🏽👇🏽
     location: "Chile"
-    followers: 9177
-    engagement: 626
-    commentsToLikes: 0.102424
+    followers: 12073
+    engagement: 627
+    commentsToLikes: 0.010471
     id: ck9wov5i76q5q0j78fzb6f0zp
     verified: false
-    hashtags: "#crazy, #architecturedetails, #illustration, #architecturesight"
-  - username: "sh_sh_welt"
-    fullname: >-
-      sh_sh_welt
-    bio: >-
-      Concrete Taipei and beyond <> All photos taken by me with📱/sony rx100ii <>DM for collabs
-    location: "Chile"
-    followers: 11517
-    engagement: 544
-    commentsToLikes: 0.008893
-    id: ck8t3qtlx458x0j78ad0oyizn
-    verified: false
-    hashtags: "#tv, #urbanexplorer, #archaicmag, #buildingstylesgf"
+    hashtags: "#architecture, #architecturelovers, #architectureporn, #architecturedaily"
   - username: "arqui_locura"
     fullname: >-
       Arquilocura
     bio: >-
-      FACULTAD DE ARQUILOCURA, DISUEÑO Y SONAMBULISMO 📩 Aportes al DM | #arquilocura Contacto: arquilocura.contacto@gmail.com
+      FACULTAD DE ARQUILOCURA, DISUEÑO Y SONAMBULISMO #arquilocura
     location: "Chile"
-    followers: 146302
-    engagement: 330
-    commentsToLikes: 0.010812
+    followers: 171839
+    engagement: 346
+    commentsToLikes: 0.012197
     id: ck14kp2dgqllq0i19zgfl04lg
     verified: false
-    hashtags: "#architecture, #faua, #arqui, #arquitecto"
-  - username: "fitnessok"
-    fullname: >-
-      fitnessok
-    bio: >-
-      Kinesiólogo UFT 🌎 amante del fitness y la vida sana. Stgo. Chile 🆑 🇨🇱❤️😍💪🏼✈️. Kine deportiva/ FAST Fitness/ Sportlife Chile
-    location: "Chile"
-    followers: 5431
-    engagement: 1058
-    commentsToLikes: 0.012753
-    id: ckf5rjd7bcvyq0j23cvcl4nz7
-    verified: false
-    hashtags: "#beauty, #fitnessmotivation, #cityphotography, #me"
-  - username: "babisanoja"
-    fullname: >-
-      #MírateConOtrosOjos
-    bio: >-
-      •Arquitecta Fundadora @eterea.estudio •Amor Propio & BoPo #barriguitalove ❤️ •Podcaster @conrollos.sinfiltros 🎙 •Part-time YouTuber 📸
-    location: "Chile"
-    followers: 17205
-    engagement: 638
-    commentsToLikes: 0.021430
-    id: ck9hbg1yfgo790j78iujxprlp
-    verified: false
-    hashtags: "#gasometros, #gasholders, #arquitecturaudp, #feminismo"
-  - username: "d_pinilla"
-    fullname: >-
-      Daniel Pinilla
-    bio: >-
-      Arquitecto_fotógrafo_CCP👉SCL.
-    location: "Chile"
-    followers: 7798
-    engagement: 587
-    commentsToLikes: 0.031077
-    id: ck0u6s3vs2sx10i19bxhoi6pm
-    verified: false
-    hashtags: "#santiagocityscape, #chilegram, #recorriendochile, #southamerica"
-  - username: "santiagodechile.cl"
-    fullname: >-
-      Juan Carlos Rodríguez
-    bio: >-
-      🧔🏻 Enamorado de ella 💙 Sí, de Santiago ¿Me acompañas? 🌇 Disfrútala, cuídala, valórala 📩 santiagodechile.ig@gmail.com
-    location: "Chile"
-    followers: 142246
-    engagement: 286
-    commentsToLikes: 0.028650
-    id: ck0w4xamx0v6u0i198jkcxlz0
-    verified: false
-    hashtags: "#santiagoadicto, #photography, #drone, #chile"
-  - username: "anoquet"
-    fullname: >-
-      Alexis Noquet Photography
-    bio: >-
-      Wide & Colorfull Photography French 🇫🇷 | live in Uruguay 🇺🇾 | Traveler 🌎 | morning sleeper😴 and Sunset & night shooter 📸 Todas las fotos en venta 👉DM
-    location: "Chile"
-    followers: 2252
-    engagement: 1005
-    commentsToLikes: 0.029485
-    id: ck6tyx7zj6djz0j71gclojbhy
-    verified: false
-    hashtags: "#earthpix, #rutadelfindelmundo, #descubreuruguayfotos, #wekeepmoments"
+    hashtags: "#urbanista, #planosarquitectonicos, #faua, #urbanismo"
 ---

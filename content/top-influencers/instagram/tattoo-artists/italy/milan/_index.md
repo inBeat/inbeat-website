@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Milan In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Milan In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Milan in 2022. Most popular hashtags: #tattoo #tattoos #tattooartist #milano.
+  Find top tattoo-artists Instagram influencers in Milan in 2023. Most popular hashtags: #tattoo #tattoos #tattooartist #milano.
 platform: Instagram
-hits: 50
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 50 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 41
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 41 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
+  - username: "luigimarchinitattoos"
+    fullname: >-
+      Luigi Marchini Tattoos
+    bio: >-
+      POLYNESIAN TATTOO ARTIST - MILANO • Freehand Work • Pro Team Member @kwadron • Pro Team Artists @pantheraink • Co-owner of @hivetattooartgallery
+    location: "Italy"
+    followers: 48589
+    engagement: 112
+    commentsToLikes: 0.050595
+    id: ck0w2kws2ovlg0i19l9au3lz8
+    verified: false
+    hashtags: ""
   - username: "eva90s"
     fullname: >-
       Eva Banks.©
     bio: >-
-      🇮🇹Tattoo Artist • MILANO • RESIDENT ➡️ @redcouchtattoo 🇮🇹 NEXT GUEST: 📍@sorrymombologna 📩evabanks.eb@gmail.com
+      🍒 🇮🇹Tattoo Artist • MILANO , ITALY • RESIDENT ➡️ @redcouchtattoo • BOLOGNA , ITALY • GUEST RESIDENT⬇️ @sorrymombologna 📩evabanks.eb@gmail.com
     location: "Italy"
-    followers: 24473
-    engagement: 180
-    commentsToLikes: 0.029635
+    followers: 25112
+    engagement: 151
+    commentsToLikes: 0.027869
     id: ck0w6k32s8xxx0i19gw0m7tgv
     verified: false
-    hashtags: "#quarantena, #healedathome, #radtattoos, #feelings"
-  - username: "mattiussi.chiara"
+    hashtags: "#instagood, #trip, #quarantine, #loveyou"
+  - username: "amandatoy"
     fullname: >-
-      Chiara Mattiussi
+      AMANDA T♡Y🌈
     bio: >-
-      Surrealism Rome. Italy 🇮🇹 Info & bookings: chiaramattiussitattoo@gmail.com
+      ⭐️ Born From Chaos ☄️ Milan 🇮🇹 @galleriaalessiaformaggio Miami🇺🇸 @zenithartandfashion Owner @toytattooparlour +39-02-99202744 Info@amandatoy.it
     location: "Italy"
-    followers: 19060
-    engagement: 608
-    commentsToLikes: 0.019971
-    id: ckf5v4q6cna9e0j23mfbtg58w
-    verified: false
-    hashtags: "#blackink, #animaltattoo, #tatuaggi, #butterfly"
-  - username: "giuseppeltrs"
-    fullname: >-
-      GIUSEPPELTRS
-    bio: >-
-      ▪️Based in Milano(IT)🇮🇹 ▪️ @letteringshow Founder ▪️Sponsor: @dermalizepro @rghtstuff ▪️Info&appointments—>Direct📩
-    location: "Italy"
-    followers: 27991
-    engagement: 228
-    commentsToLikes: 0.019036
-    id: ck5cggqmxot3z0i11ytignt7j
-    verified: false
-    hashtags: "#italiantattoo, #letterslove, #chicanotattoo, #tattooidea"
-  - username: "horiokami"
-    fullname: >-
-      彫狼 Lupo Horiōkami
-    bio: >-
-      TATTOOER FURNITURE DESIGNER @horiokamifurniture VICENZA,ITALY info@mushintattoo.com @tattoodo ambassador
-    location: "Italy"
-    followers: 138784
-    engagement: 149
-    commentsToLikes: 0.011523
-    id: ck15pzukv0g2n0i19mkkcncab
-    verified: false
-    hashtags: "#blxckink, #waterlawtattoobutter, #brutalismdesign, #irezumitattoo"
+    followers: 60896
+    engagement: 110
+    commentsToLikes: 0.057061
+    id: ck6u3bodmwvc60j71bjtdeb0m
+    verified: true
+    hashtags: "#originalartists, #poop, #unipop, #originalaftercare"
   - username: "mat_paglione"
     fullname: >-
       Matteo Paglione®️
     bio: >-
-      🔥AVANTGARDE TRADITIONAL TATTOO🔥 ROMA RESIDENT TATTOO ARTIST @elegantgoatgallery INFO E BOOKING IN DM📬 NEXT DATE 25-26-27 set. @luccatattooexpo
+      🔥AVANTGARDE TRADITIONAL TATTOO🔥 ROMA RESIDENT TATTOO ARTIST @elegantgoatgallery INFO E BOOKING IN DM📬 1-2 Mag @milanotatuami TATTOO CONVENTION MILANO
     location: "Italy"
-    followers: 31526
-    engagement: 159
-    commentsToLikes: 0.009163
+    followers: 33193
+    engagement: 207
+    commentsToLikes: 0.014762
     id: ck9hamzk0d5yg0j786949l4uh
     verified: false
-    hashtags: "#tattoolife, #tattoomadeinitaly, #best, #tattooer"
-  - username: "simonafloresta"
+    hashtags: "#top, #tattooart, #rosetattoo, #rose"
+  - username: "ethereatattoo"
     fullname: >-
-      𝐒𝐢𝐦𝐨𝐧𝐚 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚
+      Etherea Tattoo 🌙 Bianca Vitale
     bio: >-
-      𝗖𝗿𝗲𝗱𝗲𝗻𝗱𝗼 𝘃𝗶𝗱𝗲𝘀 ☉libra ↑libra ☾pisces 📍Milan 𝐛𝐮𝐭 𝐰𝐢𝐭𝐡 𝐦𝐢𝐧𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐦𝐨𝐨𝐧 🌙 @naba Fashion Stylist @revolve Ambassador 💌 simoflore.sf@gmail.com
+      📍Caserta,IT ✈️Regular Guest: Milano, Bologna, Padova. • @biancavitalex Tattoo Artist • Prenotazioni: Contatta in Direct 📩
     location: "Italy"
-    followers: 27290
-    engagement: 439
-    commentsToLikes: 0.099312
-    id: ck13anyzorbj00i19iew4d4pd
+    followers: 24174
+    engagement: 518
+    commentsToLikes: 0.018658
+    id: ck0w5v2qq5khc0i19grsv8hcv
     verified: false
-    hashtags: "#nudefeed, #revolveambassador, #revolvesummer, #vintageoutfit"
-  - username: "david_giersch_tattooist"
-    fullname: >-
-      David Giersch Tattooist
-    bio: >-
-      KillerInk•Cheyenne•HustleButterDeluxe•DermalizePro•Tadoo•Stencil Forte•Intenze info@davidgierschtattooist.de 🚐 travel account: @the_gierschs
-    location: "Italy"
-    followers: 45751
-    engagement: 122
-    commentsToLikes: 0.023541
-    id: ck15pa8xlwveo0i19dbv7s78f
-    verified: false
-    hashtags: "#cheyennesafetycartridges, #hustlebutterdeluxe, #dlizepro, #intenzeink"
+    hashtags: "#ethereatattoo, #padova, #firsttattoo, #battattoo"
   - username: "simone.folliero.tattoo"
     fullname: >-
       simone.folliero.tattoo
     bio: >-
       ✏️💉Simone Folliero 🎭Tattoo artist at Trafficanti D'arte 📲 02 39320132 📍Milan,Italy 📩 trafficantidarte@yahoo.it
     location: "Italy"
-    followers: 22015
-    engagement: 129
-    commentsToLikes: 0.010017
+    followers: 21815
+    engagement: 135
+    commentsToLikes: 0.010923
     id: ck5q0wpmu84w80i112b83aqaz
     verified: false
-    hashtags: "#tattooed, #blackandwhite, #blackandgrey, #worldfamousink"
-  - username: "fabio_nembo"
-    fullname: >-
-      ⚡️Nembo⚡️
-    bio: >-
-      ✖️ROMA (ostia lido) 🇮🇹 ✖️Tattoo artist, owner of @nembotattooshop ✖️ Info&booking in DM/EMAIL Nembotattoo@gmail.com ✖️Harley addict
-    location: "Italy"
-    followers: 23457
-    engagement: 432
-    commentsToLikes: 0.068965
-    id: ck55lxswc2pcr0i11j82ai4w0
-    verified: false
-    hashtags: "#picoftheday, #tatuaggio, #style, #ink"
+    hashtags: "#inked, #inkedmag, #worldfamousink, #milan"
   - username: "gabrielepellerone"
     fullname: >-
       Gabriele Pellerone
     bio: >-
-      Art’s promoter 📍now in Milan Info: gabrielepellerone@gmail.com
+      Tattoo artist
     location: "Italy"
-    followers: 161831
-    engagement: 431
-    commentsToLikes: 0.022083
+    followers: 223276
+    engagement: 244
+    commentsToLikes: 0.023961
     id: ck6u3buphwwg70j71oflij28r
     verified: false
-    hashtags: "#ink, #realistictattoo, #realisticdrawing, #inked"
+    hashtags: "#inked, #tattoolife, #tattoolovers, #tattooartist"
+  - username: "maya_tattooer"
+    fullname: >-
+      Maya_tattooer
+    bio: >-
+      🔥TATTOO ARTIST 🔥 Resident at @cattivi_maestri Info 327/1092757 o DM📲 Traditional-Old school⚓️ Figurative color tattoo🎨🌈 GUEST. Dm ✈️
+    location: "Italy"
+    followers: 19708
+    engagement: 204
+    commentsToLikes: 0.055582
+    id: ck6ude89skl7l0j71lu90rc8l
+    verified: false
+    hashtags: "#milanotattooartist, #italiantattooer, #mayatattoo, #colortattoo"
+  - username: "ameliemakeup88"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🌹•A M A L I A•🌹
+    bio: >-
+      📍Milano 💄Makeup Lover ✍🏻Apprendista tatuatrice/Apprentice tattoo artist 💌Collab:Ameliemakeup88@yahoo.it
+    location: "Italy"
+    followers: 2982
+    engagement: 1114
+    commentsToLikes: 0.278891
+    id: ck138cxltfmp50i19em8fgq27
+    verified: false
+    hashtags: "#avon, #mualinksearch, #kryolanitaly, #kryolanmakeup"
+  - username: "mariangela__delucia"
+    fullname: >-
+      Mariangela.dlc 🤍 BodyPositive🌈
+    bio: >-
+      💃Bodypositive activist 👩‍⚕️ Nurse 💉🩺 📍Milano 🧚#Thyca Survivor 🎀Bold • Brilliant • Beautiful 🌸@bodypositivecatwalk member
+    location: "Italy"
+    followers: 3416
+    engagement: 664
+    commentsToLikes: 0.064486
+    id: ck5cfgfajmwg60i11sl330vx0
+    verified: false
+    hashtags: "#selflove, #plussizefashion, #italia, #outfit"
 ---

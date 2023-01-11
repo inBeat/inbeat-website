@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Argentina In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Argentina In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Argentina in 2022. Most popular hashtags: #love #argentina #lettering.
+  Find top graphic-designers Instagram influencers in Argentina in 2023. Most popular hashtags: #art #artist #arte.
 platform: Instagram
-hits: 11
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 11 Instagram influencers like this in Argentina for you to work with.
+hits: 19
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 19 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "csbotti"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🇦🇷 • Shine ☀️• Healthy 💛 • Graphic Designer • CM • Tutoriales • Filtros • Sorteos @piensa.ama.rie 🎡 No influyo a nadie a hacer nada 🙏🏻♥️
     location: "Argentina"
-    followers: 56521
-    engagement: 399
+    followers: 57305
+    engagement: 393
     commentsToLikes: 0.107314
     id: ck8sw0s01deo40j786ow7idy1
     verified: false
-    hashtags: "#womanoftheworld, #artphoto, #model, #photoart"
+    hashtags: "#caba, #photoart, #modeloargentina, #lengery"
+  - username: "orietta.gs"
+    fullname: >-
+      OrieTTa gelArdin spinOla
+    bio: >-
+      graphic designer | ricoh GRIII ambassador | hypochondriac | pisces |@lacalleesnuestracolectivo
+    location: "Argentina"
+    followers: 17691
+    engagement: 483
+    commentsToLikes: 0.079496
+    id: ck15rle1b8hqj0i19gzgsksag
+    verified: false
+    hashtags: "#madrid, #onecanbesurethatalltheseredswillbedifferentjosefalbers, #romacitt"
   - username: "matiasarietto"
     fullname: >-
       M A T I A S   A R I E T T O
     bio: >-
       Actor | Art director | Graphic designer | Content creator | Filmmaker | DM • collabs
     location: "Argentina"
-    followers: 47093
-    engagement: 147
-    commentsToLikes: 0.060273
+    followers: 45605
+    engagement: 133
+    commentsToLikes: 0.056566
     id: ck0vvj6ytpdnb0i19wicgli6i
     verified: false
-    hashtags: "#workout, #beardstyle, #hoscos, #love"
-  - username: "cristianalcant"
+    hashtags: "#totalblack, #hoscos, #gallitociego, #mirrorselfie"
+  - username: "stephbarbudo"
     fullname: >-
-      Chris Alcantara
+      Stephania Barbudo
     bio: >-
-      🇩🇴 26👴 Mateo 19:26♜💯 Graphic Designer 🎬✒
+      Fashion & graphic designer Vup 📍 🇨🇴 𝐌𝐨𝐧 𝐩𝐞𝐭𝐢𝐭 𝐥𝐚𝐩𝐢𝐧🐰
     location: "Argentina"
-    followers: 9989
-    engagement: 1193
-    commentsToLikes: 0.091227
-    id: ck5hoyb5uqg4b0i119ei0sjf4
+    followers: 88438
+    engagement: 1949
+    commentsToLikes: 0.004307
+    id: ck5qd84houa8d0i11lzdawnrr
     verified: false
-    hashtags: "#funny, #laugh, #dominicano, #dominican"
+    hashtags: ""
+  - username: "catcybul"
+    fullname: >-
+      Venezuelan @ Chicago📍
+    bio: >-
+      👁|CATHERINE CYBULKIEWICZ 🍋|capricorn + graphic designer 🌎|traveling + eating & decorating my home 🐕 @lolagearhart + 💍@jgearhart33 #catenchicago
+    location: "Argentina"
+    followers: 29873
+    engagement: 137
+    commentsToLikes: 0.050493
+    id: ck0u052q1slwo0i19u30xkquv
+    verified: false
+    hashtags: "#chicago, #italy, #newyork, #zaraboots"
   - username: "ale.gaspari"
     fullname: >-
       Ale Gaspari
     bio: >-
       #GraphicDesigner #ContentCreator . 🆃🆁🅰🆅🅴🅻🅻🅴🆁 🗺 . @tressobretres . 📍 Santa Fe 🇦🇷
     location: "Argentina"
-    followers: 10138
-    engagement: 619
-    commentsToLikes: 0.010416
+    followers: 9739
+    engagement: 750
+    commentsToLikes: 0.015169
     id: ck5q30odoiog10i11tzxfdb6u
     verified: false
-    hashtags: "#tbt"
-  - username: "sandrakzy"
+    hashtags: "#prada, #fyp, #cuarentena, #sputnik"
+  - username: "cristianalcant"
     fullname: >-
-      Sandra
+      Chris Alcantara
     bio: >-
-      Graphic designer and final artwork producer 🎨 Valencia 🍊
+      🇩🇴 26👴 Mateo 19:26♜💯 Graphic Designer 🎬✒
     location: "Argentina"
-    followers: 6145
-    engagement: 757
-    commentsToLikes: 0.015893
-    id: ck13cztkt2yj20i19x6cnq32b
+    followers: 11018
+    engagement: 1329
+    commentsToLikes: 0.071660
+    id: ck5hoyb5uqg4b0i119ei0sjf4
     verified: false
-    hashtags: ""
-  - username: "caylakmoore"
+    hashtags: "#2020, #idk, #dominican, #teamdominican"
+  - username: "g_carceles"
     fullname: >-
-      Cayla Kaimana Forever Moore
+      Antonio
     bio: >-
-      Surfer, Artist, Graphic Designer + WSL Surf Breaks Host O’ahu | Malibu KS’15 || Pepp ‘19: BS Business Admin 4X NSSA National titles
+      Graphic designer. Madrid
     location: "Argentina"
-    followers: 22423
-    engagement: 380
-    commentsToLikes: 0.015272
-    id: ck5q5to3juj9d0i115i524nev
+    followers: 6717
+    engagement: 774
+    commentsToLikes: 0.015143
+    id: ckaozyx4go1530i78zog5a1zx
     verified: false
-    hashtags: "#lifeathome, #mooresis, #twinning"
-  - username: "javirroyo"
+    hashtags: "#mallorca, #algaida"
+  - username: "arias_tattoo"
     fullname: >-
-      javirroyo
+      • Arias tattoo
     bio: >-
-      Not an artist. Not an illustrator. Not a graphic designer. En @el_pais @xelmeteoritox @upperslife @cuartopoder_es @el.estafador @chispumchispum
+      ❌AGENDA CERRADA❌ • Estudio Cero: @estudio_cero_clinica_tatuajes •Graphic Designer •N❤ 🏄🏻‍♂️🏂
     location: "Argentina"
-    followers: 194885
-    engagement: 356
-    commentsToLikes: 0.006967
-    id: ck0tv88d6aabo0i19twpgyhth
+    followers: 7165
+    engagement: 520
+    commentsToLikes: 0.040826
+    id: ck5zqyiywvjtl0i14g48l265h
     verified: false
-    hashtags: "#covid, #love, #javirroyo, #illustration"
-  - username: "sanxtypo"
+    hashtags: "#realistictattoo, #artist, #artista, #tattooart"
+  - username: "marcpallares"
     fullname: >-
-      Santiago Colombo
+      Marc Pallarès
     bio: >-
-      Lettering Artist & Graphic Designer (FADU) based in Buenos Aires, Argentina
+      Illustration | Art Direction | Graphic designer
     location: "Argentina"
-    followers: 30799
-    engagement: 485
-    commentsToLikes: 0.023726
-    id: ck0w527ss1jo00i193ff0gx81
+    followers: 12066
+    engagement: 533
+    commentsToLikes: 0.070734
+    id: ck8sx5i3sg87m0j7864248dhz
     verified: false
-    hashtags: "#typism, #type, #typo, #distressedunrest"
-  - username: "asiestudio"
-    fullname: >-
-      ˗ ˏˋ así estudio ˎˊ˗
-    bio: >-
-      ⋮ ⚖️ graduada en derecho | #lawgraduate
-    location: "Argentina"
-    followers: 5105
-    engagement: 952
-    commentsToLikes: 0.016191
-    id: ck8tb0bclttto0j78mzra0poj
-    verified: false
-    hashtags: ""
-  - username: "rosana.ortiz_ph"
-    fullname: >-
-      Rosana Ortiz
-    bio: >-
-      🇦🇷Argentina Fotógrafa y Maquilladora Profesional F&A @fotografos_latinoamericanos Dir. Aprobaciones FB: Fotógrafos Latinoamericanos
-    location: "Argentina"
-    followers: 2254
-    engagement: 991
-    commentsToLikes: 0.111225
-    id: ckaosqj3wsn6d0i78vgo0r94s
-    verified: false
-    hashtags: "#momentos, #kidsmodelworld, #topkids, #bnw"
+    hashtags: "#disen, #dissenygrafic, #inspiration, #disseny"
 ---

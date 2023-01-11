@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Indonesia In 2022
+title: Top 10 Cinema TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top cinema TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryou #xyzbca #foryoupage.
+  Find top cinema TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #xyzbca #foryoupage #aesthetic.
 platform: TikTok
-hits: 13
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in Indonesia for you to work with.
+hits: 15
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat has 15 TikTok influencers like this in Indonesia for you to contact.
 profiles:
   - username: "cinema.21"
     fullname: >-
       Cinema XXI
     bio: >-
-      Official TikTok account for Cinema XXI
+      Official TikTok account for Cinema XXI #Semangat21
     location: "Indonesia"
-    followers: 258900
-    engagement: 537
-    commentsToLikes: 0.034272
+    followers: 397300
+    engagement: 521
+    commentsToLikes: 0.038660
     id: ckblnrmrbfpox0j23gu4gvyr2
-    verified: false
-    hashtags: "#fyp, #tiktoktainment, #foryoupage, #cinema"
+    verified: true
+    hashtags: "#standbyme, #bioskop, #jackiechan, #tenet"
   - username: "hafizhirfan11"
     fullname: >-
       hafizh irfan
@@ -30,101 +30,101 @@ profiles:
     commentsToLikes: 0.015592
     id: ckbkvyov2rln90j23qg7lck6o
     verified: false
-    hashtags: "#cinematics, #aesthetic, #fyp, #foryou"
-  - username: "netizenagih"
-    fullname: >-
-      Rezki Hermawan
-    bio: >-
-      Tarusan, West Sumatra ↓↓↓Follow My Instagram↓↓↓ @rezkihermawan
-    location: "Indonesia"
-    followers: 36200
-    engagement: 599
-    commentsToLikes: 0.030803
-    id: ckbqrqzj2cm8d0j23d47cbdg6
-    verified: false
-    hashtags: "#foryou, #padang, #trending, #shalawat"
-  - username: "ini_wikk"
-    fullname: >-
-      AN
-    bio: >-
-      fangirl tidak terdeteksi kang oleng🤲🏻 19y'o
-    location: "Indonesia"
-    followers: 2759
-    engagement: 1187
-    commentsToLikes: 0.038735
-    id: ckd0npxjch2zx0j23123dgrkx
-    verified: false
-    hashtags: "#kpopfyp, #nctedit, #raikantopeni, #xyzbca"
+    hashtags: "#slowmo, #foryou, #samasamabelajar, #xyzbca"
   - username: "pisthetic"
     fullname: >-
       Bintang Trisna
     bio: >-
       AESTHETIC🌻 Hi Girls and Gentlemen💚 Flw ya:) Instagram:bintangtrisnaa #teamstar
     location: "Indonesia"
-    followers: 82500
-    engagement: 730
-    commentsToLikes: 0.019764
+    followers: 81000
+    engagement: 724
+    commentsToLikes: 0.023518
     id: ck9n56dxf6rb20j780pmzujz2
     verified: false
-    hashtags: "#dirumahaja, #samasamadirumah, #foryou, #aesthetic"
-  - username: "rama.fr32"
+    hashtags: "#aesthetic, #tiktok, #tiktoknettv, #zyxcba"
+  - username: "abdugp_"
     fullname: >-
-      Ramafr
+      abdurrauf 🌵
     bio: >-
-      Cek youtube⬆️ Padang, indonesia
+      Follow me for Photography and Travel Tips! 📍: Yogyakarta, ID.
     location: "Indonesia"
-    followers: 46300
-    engagement: 392
-    commentsToLikes: 0.028747
-    id: ckcels203vqtb0j23nltrs6jw
+    followers: 31400
+    engagement: 526
+    commentsToLikes: 0.035705
+    id: ckav10nbu6xoe0j23mi8g7dts
     verified: false
-    hashtags: "#xyzbca, #samasamadirumah, #foryou, #sitinjaulauik"
-  - username: "kevin.koloay"
+    hashtags: "#tiktokharbolnas, #adatiketnya, #kelasfoto, #tutorial"
+  - username: "netizenagih"
     fullname: >-
-      Kevin Petterson
+      Rezki Hermawan
     bio: >-
-      💫IG @Kevinkoloay 📍Jakarta - Manado 📩 DM for Business / PP FANBOY BTS
+      Padang, West Sumatra ↓↓↓Follow My Instagram↓↓↓ @rezkihermawan
     location: "Indonesia"
-    followers: 96100
-    engagement: 1172
-    commentsToLikes: 0.041668
-    id: ckd0gi7eae58k0j23efuy8ugu
+    followers: 43700
+    engagement: 552
+    commentsToLikes: 0.024759
+    id: ckbqrqzj2cm8d0j23d47cbdg6
     verified: false
-    hashtags: "#kpopers, #bts, #kpoper, #foryoupage"
-  - username: "anggayunandareal_16"
+    hashtags: "#sumbar, #padang, #rewind2020, #fyp"
+  - username: "lucaepifany"
     fullname: >-
-      Anggayunandareal_16
+      Luca Epifani
     bio: >-
-      IG : anggayunandareal16 Big love zarangga
+      📸🎥 Instagram @lucaepifany
     location: "Indonesia"
-    followers: 109900
-    engagement: 801
-    commentsToLikes: 0.012014
-    id: ckbkvat6jquga0j23kldvc3ud
+    followers: 351000
+    engagement: 628
+    commentsToLikes: 0.017935
+    id: ck80cqsvzam750j78sd8j9k0q
     verified: false
-    hashtags: "#anggayunanda, #zaraadhisty, #miss, #stayhome"
+    hashtags: "#learnontiktok, #indonesia, #bali, #photographer"
+  - username: "alyssanp"
+    fullname: >-
+      Alyssa
+    bio: >-
+      🇮🇩 TIAP BULAN GIVEAWAY di IG @bocahsnacks CEO NGEMIL&BARANG LUCU
+    location: "Indonesia"
+    followers: 94600
+    engagement: 698
+    commentsToLikes: 0.010001
+    id: ckdhdsea5wq9n0j23x9z7smxj
+    verified: false
+    hashtags: "#snack, #coklat, #toy, #aneh"
   - username: "nunik254"
     fullname: >-
       Nunik Harianti
     bio: >-
       lhttps://m.youtube.com/channel/UCVL2xhJRM-UixK-qVeZmCgw
     location: "Indonesia"
-    followers: 2208
-    engagement: 1572
-    commentsToLikes: 0.011905
+    followers: 2194
+    engagement: 562
+    commentsToLikes: 0.000000
     id: ckcp4dtkdccc70j231is75kjl
     verified: false
-    hashtags: "#kpopedit, #amazingsaturday, #jungsister, #cenimagraph"
-  - username: "boywilliam"
+    hashtags: "#krystaljung, #jisoo, #kpopedit, #fypdongggggggg"
+  - username: "stevenwang27"
     fullname: >-
-      Boy William
+      Steven Wang
     bio: >-
-      Hi Rakyat TikTok.
+      CEO LIFEHACK TIPS on TikTok Follow My Instagram ↗️😁🙌🏻
     location: "Indonesia"
-    followers: 907500
-    engagement: 355
-    commentsToLikes: 0.008954
-    id: ckbb3cy9jtpdn0j23d0vxqfdo
+    followers: 575500
+    engagement: 930
+    commentsToLikes: 0.036741
+    id: ckcpsw78yndd70j23uonnfgbo
     verified: true
-    hashtags: "#disneyplushotstarid, #sinemaspektakuler, #ginirasanyajoyday, #ad"
+    hashtags: "#tahunggaksih, #samasamabelajar, #tiktokpintar, #fyp"
+  - username: "anggayunandareal_16"
+    fullname: >-
+      Anggayunandareal_16
+    bio: >-
+      IG : anggayunandareal16 Big love zarangga
+    location: "Indonesia"
+    followers: 179000
+    engagement: 676
+    commentsToLikes: 0.011759
+    id: ckbkvat6jquga0j23kldvc3ud
+    verified: false
+    hashtags: "#fyp, #anggayunanda, #zara, #zaraadhisty"
 ---

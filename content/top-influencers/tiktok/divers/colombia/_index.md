@@ -1,60 +1,60 @@
 ---
-title: Top 10 Divers TikTok Influencers In Colombia In 2022
+title: Top 10 Divers TikTok Influencers In Colombia In 2023
 description: >-
-  Find top divers TikTok influencers in Colombia in 2022. Most popular hashtags: #fyp #colombia #foryou #viral.
+  Find top divers TikTok influencers in Colombia in 2023. Most popular hashtags: #fyp #parati #colombia #humor.
 platform: TikTok
-hits: 39
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 39 TikTok influencers like this in Colombia for you to connect with.
+hits: 43
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 43 TikTok influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "lividd1"
+    fullname: >-
+      LIVID
+    bio: >-
+      Diversión
+    location: "Colombia"
+    followers: 5119
+    engagement: 1558
+    commentsToLikes: 0.126488
+    id: ckc1vaanmzdlm0j23wm2gk1f8
+    verified: false
+    hashtags: "#comida, #voiceeffects, #cover, #parati"
+  - username: "karito_ruiz1"
+    fullname: >-
+      Karito C Ruiz
+    bio: >-
+      😇 Por diversión 😇 🇨🇴 Colombiana 🇨🇴
+    location: "Colombia"
+    followers: 467700
+    engagement: 1082
+    commentsToLikes: 0.057305
+    id: ckck4d0ydorsl0j23xta6nh3f
+    verified: false
+    hashtags: "#crzfg, #paratiiiii, #fyp, #teamtoklatinos"
+  - username: "yeff.m"
+    fullname: >-
+      Y E F F
+    bio: >-
+      Holi 🤪Estoy aquí por diversión🤪
+    location: "Colombia"
+    followers: 40400
+    engagement: 819
+    commentsToLikes: 0.054182
+    id: ckan27uulz79j0i781g1167jr
+    verified: false
+    hashtags: "#pegar, #baile, #parati, #humor"
   - username: "anniespejoo"
     fullname: >-
       Annie Espejo
     bio: >-
       Hola 😊 Soy annie y hago tiktoks por diversión Anniespejo@dcinfluencers.com
     location: "Colombia"
-    followers: 1300000
-    engagement: 1465
-    commentsToLikes: 0.012098
+    followers: 1400000
+    engagement: 1368
+    commentsToLikes: 0.007544
     id: ckauz70hl4q3n0j23n2w18kk3
     verified: false
-    hashtags: "#tiposdemamas, #masterofcomedy, #comedia, #sabiasque"
-  - username: "gabrielaramirezestevez"
-    fullname: >-
-      Gabriela Ramirez
-    bio: >-
-      Solo por Diversion Pa pasar el rato ! Sígueme en Insta @gabrielaramirezes
-    location: "Colombia"
-    followers: 6518
-    engagement: 612
-    commentsToLikes: 0.060105
-    id: ckcosdtvg7x2t0j23roy8oa9c
-    verified: false
-    hashtags: "#quierenvermemal, #loserschallenge, #caragraciosa, #asireaccionamiex"
-  - username: "nataliaheaven"
-    fullname: >-
-      nataliaheaven
-    bio: >-
-      💗 Diversión 💗
-    location: "Colombia"
-    followers: 327000
-    engagement: 1076
-    commentsToLikes: 0.014607
-    id: ckbfhn7lad7k00j233zygbnha
-    verified: false
-    hashtags: "#vallenata, #estereotiposfemeninos, #amor, #vallenatizate"
-  - username: "lauraxfc"
-    fullname: >-
-      Laura Ximena Fernánd
-    bio: >-
-      🇨🇴 Solo por diversión
-    location: "Colombia"
-    followers: 11200
-    engagement: 833
-    commentsToLikes: 0.040264
-    id: ckdcjo9zhlmx70j23sscg1jtu
-    verified: false
-    hashtags: "#tiktokcolombia, #comedy, #parareir, #catlover"
+    hashtags: "#comedia, #sabiasque, #reflexion, #recetas"
   - username: "karitocruiz1"
     fullname: >-
       Karito C Ruiz
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.038451
     id: ckaikegvbj2q10i78rzjinyoy
     verified: false
-    hashtags: "#zyxbca, #fypc, #comediaa, #duos"
-  - username: "danieltrujiillo"
+    hashtags: "#zyxbca, #duos, #colombia, #paratiii"
+  - username: "nataliaheaven"
     fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 🥀
+      nataliaheaven
     bio: >-
-      Instagram: danieltrujiillo_ Solo por diversión 🦖
+      💗 Diversión 💗
     location: "Colombia"
-    followers: 83000
-    engagement: 1271
-    commentsToLikes: 0.022142
-    id: ck9n54f7r6ds20j787iwer79f
-    verified: true
-    hashtags: "#trend, #parati, #fyp, #foryou"
-  - username: "karito_ruiz1"
-    fullname: >-
-      Karito C Ruiz
-    bio: >-
-      😇 Por diversión 😇 🇨🇴 Colombiana 🇨🇴
-    location: "Colombia"
-    followers: 472400
-    engagement: 926
-    commentsToLikes: 0.019665
-    id: ckck4d0ydorsl0j23xta6nh3f
+    followers: 452100
+    engagement: 734
+    commentsToLikes: 0.012706
+    id: ckbfhn7lad7k00j233zygbnha
     verified: false
-    hashtags: "#humor, #foryoupageofficiall, #paratiiii, #foryoupageofficial"
+    hashtags: "#gustosdiferentes, #diviertete, #cuandoteveo, #ropacara"
+  - username: "lauraxfc"
+    fullname: >-
+      Laura Ximena Fernánd
+    bio: >-
+      🇨🇴 Solo por diversión
+    location: "Colombia"
+    followers: 43600
+    engagement: 503
+    commentsToLikes: 0.027812
+    id: ckdcjo9zhlmx70j23sscg1jtu
+    verified: false
+    hashtags: "#parareir, #catsoftiktok, #comedy, #catlover"
   - username: "davidfmoya"
     fullname: >-
       David Moya
     bio: >-
       Dios es primero! Amante de la vida y la diversión en pequeños detalles
     location: "Colombia"
-    followers: 8317
-    engagement: 923
-    commentsToLikes: 0.036172
+    followers: 8420
+    engagement: 828
+    commentsToLikes: 0.036777
     id: ckcuytdlvmik80j23utal9eh9
     verified: false
-    hashtags: "#bogotacolombia, #momentos, #amordedios, #parati"
-  - username: "valentina_v1414"
+    hashtags: "#humor, #risasparati, #diversionsoloaqui, #fyp"
+  - username: "almejameja"
     fullname: >-
-      {Valentina.varela}
+      Almeja
     bio: >-
-      Diversion 😋 Latina 🇨🇴 Insta: valentina_v14 ❤️ 8k?
+      Un poquito de mi 🇦🇷Argentina||colombiana🇨🇴 Es solo diversión Bienvenid@🥰
     location: "Colombia"
-    followers: 7227
-    engagement: 1088
-    commentsToLikes: 0.022921
-    id: ckbeokfap4rp20j23e1eyt5bq
+    followers: 36100
+    engagement: 618
+    commentsToLikes: 0.021313
+    id: ckdi7yy3oa46g0j237nufg9a3
     verified: false
-    hashtags: "#bogota, #fyp, #school, #colombia"
-  - username: "marujitaviajera"
+    hashtags: "#fyp, #tiktok, #colombia, #virall"
+  - username: "carl_ferre"
     fullname: >-
-      Vicky
+      Carl Ferre
     bio: >-
-      Sígueme en Instagram y YouTube 🥰👏
+      🔴DIVERSION ENTRETENIMIENTO🔴
     location: "Colombia"
-    followers: 143500
-    engagement: 607
-    commentsToLikes: 0.079741
-    id: ckav5zbwfcmwn0j232tbvr25y
+    followers: 206100
+    engagement: 654
+    commentsToLikes: 0.012744
+    id: ck9gnfskewk7y0j78esxysam0
     verified: false
-    hashtags: "#trabajando, #jajajaj, #amarseasimismo, #happybirthday"
+    hashtags: "#viral, #aprendeentiktok, #parati, #foryoupage"
 ---

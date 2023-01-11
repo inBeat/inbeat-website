@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In France In 2022
+title: Top 10 Gaming TikTok Influencers In France In 2023
 description: >-
-  Find top gaming TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #gaming #fortnite #foryou.
+  Find top gaming TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #gaming #fyp #fortnite.
 platform: TikTok
-hits: 120
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 120 TikTok influencers like this in France for you to collaborate.
+hits: 104
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 104 TikTok influencers like this in France for you to pitch.
 profiles:
-  - username: "chedli"
-    fullname: >-
-      Chedli
-    bio: >-
-      Entrepreneur & Geek #business #mangas #gaming 👇 Tous mes liens ici 👇
-    location: "France"
-    followers: 431700
-    engagement: 1855
-    commentsToLikes: 0.028734
-    id: ck81r041tlciz0j78qvw3wv4x
-    verified: false
-    hashtags: "#gaming, #mangas, #game, #manga"
   - username: "warroxx"
     fullname: >-
       warroxx
     bio: >-
       Je fait du Gaming 🎉 insta: emrullah.48 Soon 60k 😱 Abonne Toi 💜
     location: "France"
-    followers: 57600
-    engagement: 2058
-    commentsToLikes: 0.158287
+    followers: 56900
+    engagement: 2030
+    commentsToLikes: 0.142611
     id: ck9eodr2enyc10j78wrhvh60u
     verified: false
-    hashtags: "#xyzbca, #viral, #warroxx, #tiktokgaming"
+    hashtags: "#foryoupage, #fortnite, #viral, #fyp"
   - username: "thomashuangth"
     fullname: >-
       Yosheez
     bio: >-
-      Gaming & Tech 📕 Josué 1 : 8 Clique sur ce lien en bas =)
+      Gaming & Tech 📕 Josué 1 : 8 Suis-moi sur Insta Twitch : Yosheez
     location: "France"
-    followers: 412100
-    engagement: 1624
-    commentsToLikes: 0.018551
+    followers: 525300
+    engagement: 1735
+    commentsToLikes: 0.017262
     id: ck8qiwxc0arij0j78yh159ac7
     verified: true
-    hashtags: "#live, #streamer, #obs, #stream"
-  - username: "watchmay_"
+    hashtags: "#lissurmeslevres, #ad, #obs, #obsstudio"
+  - username: "arrrrow"
     fullname: >-
-      May ⚡️
+      Chris_Arw
     bio: >-
-      May 🤙🏻 Gaming Lover 🕹 May2377tiktok@gmail.com 💌
+      📩 arrrrow@hotmango.fr 📩 2ème compte « arrrrow_gaming » ⬇️Je suis en live ici⬇️
     location: "France"
-    followers: 306300
-    engagement: 1393
-    commentsToLikes: 0.016450
-    id: ck9c7ig1vrz9r0j784tdj5idd
+    followers: 1600000
+    engagement: 2027
+    commentsToLikes: 0.007963
+    id: ck9ads0cyyo980j786f1lsz74
     verified: true
-    hashtags: "#deadbydaylight, #bo3, #prank, #callofduty"
+    hashtags: "#humour, #prank, #pourtoi, #lolfrance"
+  - username: "tobi_md"
+    fullname: >-
+      Tobi 🎩😎
+    bio: >-
+      Gameur Fortnite Battle royal 🎩 Mail : horbant.dylan62@gmail.com (gaming) Ytb ⬇️
+    location: "France"
+    followers: 656200
+    engagement: 1306
+    commentsToLikes: 0.014094
+    id: ck9rihul4jy0g0j78zg7py7gs
+    verified: false
+    hashtags: ""
   - username: "sirdness"
     fullname: >-
       Sirdness
     bio: >-
       Petit Youtuber français. 🇫🇷 Reaction/Gaming. Creator Code : Sirdness
     location: "France"
-    followers: 5797
-    engagement: 1410
-    commentsToLikes: 0.024274
+    followers: 5743
+    engagement: 1404
+    commentsToLikes: 0.022962
     id: ckbbu8u0khps70j23b4p6nn7j
     verified: false
-    hashtags: "#memes, #fortnitegameplay, #fortnitehumour, #fortnitefrance"
+    hashtags: "#fortnitehumour, #pascallegrandfrere, #fortnitegameplay, #fortnite"
   - username: "_tilaa_"
     fullname: >-
       Tilaa
     bio: >-
       Cosplay / Gaming / Parcs Attractions / Chats 🐱 😸 / TilaaInsta sur Instagram
     location: "France"
-    followers: 20300
-    engagement: 1125
-    commentsToLikes: 0.023491
+    followers: 42700
+    engagement: 1179
+    commentsToLikes: 0.023318
     id: ck83yrf2iv1la0j78fmdpgrv8
     verified: false
-    hashtags: "#pettiktok, #cat, #yuna, #barbiecoeurdeprincesse"
-  - username: "cxrs_zenos"
+    hashtags: "#chat, #cosplay, #rounard, #pettiktok"
+  - username: "aqeelgamingyt"
     fullname: >-
-      👑 𝙴𝚗𝚣𝚘 👑
+      Aqeel Gaming YT
     bio: >-
-      。一 220ķ? 一 。 。一 Enzo 😝 一 。 。一 Go vous abo a ma chaîne 一 。
+      Subscribe my YouTube channel: AQEEL GAMING PUBG I’d: 5143105909
     location: "France"
-    followers: 216900
-    engagement: 1389
-    commentsToLikes: 0.127256
-    id: ckdn8wjrpfj9y0j23kuhiqe7p
+    followers: 75400
+    engagement: 1411
+    commentsToLikes: 0.023340
+    id: ckcehoxq2pkng0j23ammdm6or
     verified: false
-    hashtags: "#pourtoi, #youwantmore, #takethefirststep, #wellplayed2020"
-  - username: "ryltarj"
+    hashtags: "#aqeelgamingyt, #pubgchallenge, #pubglover, #fyp"
+  - username: "marintothejungle"
     fullname: >-
-      RyltarJ
+      marintothejungle
     bio: >-
-      Le Nain préféré de ton TikToker préféré !! Furry🦈 / JdR🗡️ / Star Wars🌟
+      🦖 Marine 🦖 🍔 Food & gaming 🎮 🍭 Rejoins moi sur insta : souslamarine 🍭
     location: "France"
-    followers: 16700
-    engagement: 1986
-    commentsToLikes: 0.018721
-    id: cka6jnvz1vkku0i78dv6p4wbm
+    followers: 23800
+    engagement: 1039
+    commentsToLikes: 0.019762
+    id: ckc928fgxso7w0j234gb4q8k9
     verified: false
-    hashtags: "#foryou, #fyp, #nain, #pourtoi"
-  - username: "forceshinobi459"
+    hashtags: "#pourtoi, #fyp, #zoomgrosplan, #foryoupage"
+  - username: "eniixtra"
     fullname: >-
-      Emi Laforet
+      🥰Code : EniixtraYT 🥰
     bio: >-
-      Compte secondaire: @le_francais34
+      ⭐️Bienvenue⭐️ 💥Code : EniixtraYT 💥 ⚡️Epic : Eniixtra⚡️ 👇👇RÉSEAU OFFICIEL👇👇
     location: "France"
-    followers: 4736
-    engagement: 1565
-    commentsToLikes: 0.232371
-    id: ckcvi1zjlv03w0j23o6beo927
+    followers: 210700
+    engagement: 1921
+    commentsToLikes: 0.054360
+    id: ckcvh97gktx900j23658tdaq4
     verified: false
-    hashtags: "#minecraftpe, #minato, #foryoupage, #pourtoi"
-  - username: "k1rm4ga"
+    hashtags: "#pourtoi, #tendance, #humour, #codeeniixtrayt"
+  - username: "fish.king"
     fullname: >-
-      K1RM4GA
+      Fish.king 🐟
     bio: >-
-      2500 Pirate en quete du One piece (mon One piece c'est les 10K)☠
+      🅧🅑🅞🅧 ✨ 𝙻𝚎 𝚛𝚘𝚒 𝚍𝚎𝚜 𝚙𝚘𝚒𝚜𝚌𝚊𝚒𝚕𝚕𝚎𝚜 ! ✨ 𝔼𝕡𝕚𝕔 : Bernard2303
     location: "France"
-    followers: 2504
-    engagement: 1532
-    commentsToLikes: 0.363564
-    id: ckbf6rhd2wgao0j23xywqeq0m
+    followers: 40100
+    engagement: 1608
+    commentsToLikes: 0.133938
+    id: cka0ifyncdi4t0i7890wj2zbh
     verified: false
-    hashtags: "#pourtoi, #gaming, #jotaro, #onepiece"
+    hashtags: "#ptp, #foryou, #skin, #pourtoipages"
 ---

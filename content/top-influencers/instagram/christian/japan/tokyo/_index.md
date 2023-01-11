@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Tokyo In 2022
+title: Top 10 Christian Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top christian Instagram influencers in Tokyo in 2022. Most popular hashtags: #fashion #ootd #stayhome.
+  Find top christian Instagram influencers in Tokyo in 2023. Most popular hashtags: #fashion #ootd #stayhome.
 platform: Instagram
 hits: 5
 text_top: Analyze the best Instagram influencers on inBeat.

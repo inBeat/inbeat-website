@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Nigeria In 2022
+title: Top 10 Bakers Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top bakers Instagram influencers in Nigeria in 2022. Most popular hashtags: #love #cakelover #tiktok #cakedecorating.
+  Find top bakers Instagram influencers in Nigeria in 2023. Most popular hashtags: #love #cakelover #tiktok #cakedecorating.
 platform: Instagram
 hits: 10
 text_top: See the most popular Instagram profiles on inBeat.

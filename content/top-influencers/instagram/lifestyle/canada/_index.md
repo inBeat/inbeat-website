@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Canada In 2022
+title: Top 10 Lifestyle Instagram Influencers In Canada In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Canada in 2022. Most popular hashtags: #prettylittlething #gifted #ad.
+  Find top lifestyle Instagram influencers in Canada in 2023. Most popular hashtags: #ad #christmas2022 #torontoblogger #homedecor.
 platform: Instagram
-hits: 801
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 801 Instagram influencers like this in Canada for you to connect with.
+hits: 319
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 319 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "joeliegamatero"
+  - username: "virginiepilotte"
     fullname: >-
-      Joelie Jane
+      VIRGINIE
     bio: >-
-      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
+      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
     location: "Canada"
-    followers: 7176
-    engagement: 2333
-    commentsToLikes: 0.272646
-    id: ckf5s50lfeqxv0j23s9pw9dxh
+    followers: 32541
+    engagement: 593
+    commentsToLikes: 0.059708
+    id: ck55ppopob3mx0i11k0dp0cdv
     verified: false
-    hashtags: "#mykindofsilk, #mykaseme"
-  - username: "sofsenisi"
+    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
+  - username: "mommas_gang"
     fullname: >-
-      Sof senisi👑💖✨
+      SAMMY
     bio: >-
-      📚UofGH | Business ✨Affordable Fashion + Beauty + Lifestyle 💌Collab Inquiries: sofiasenisi@gmail.com 📍Canada ￼⬇️Join FB Group #StuntinWithSof
+      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
     location: "Canada"
-    followers: 5984
-    engagement: 1955
-    commentsToLikes: 0.268103
-    id: ckap0fxu8q3qd0i781qxasrxq
+    followers: 30491
+    engagement: 1265
+    commentsToLikes: 0.020403
+    id: ck5zijlgfftz90i14vjkufxsl
     verified: false
-    hashtags: "#urbanplanet, #makeup, #glammakeup, #loungeunderwear"
-  - username: "melissalandry04"
+    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
+  - username: "twourism"
     fullname: >-
-      Mélissa Landry
+      A & M - Toronto Foodies
     bio: >-
-      📍 25 | Qc, CAN ✨ Travel, Fashion & Lifestyle 📚 Psychoeducatrice ✉️ : melissalandry04@hotmail.com
+      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
     location: "Canada"
-    followers: 5416
-    engagement: 1823
-    commentsToLikes: 0.151679
-    id: ck8talf48s8yo0j78f1l6fjr9
+    followers: 12221
+    engagement: 724
+    commentsToLikes: 0.226612
+    id: ck6ubkqqma5jw0j718b18nc2f
     verified: false
-    hashtags: "#smashboxprimer, #crueltyfree, #haloskin, #smashboxpartner"
-  - username: "annesha.adams"
+    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
+  - username: "hh.hager"
     fullname: >-
-      ANNESHA ADAMS
+      Hager Hanawy | Toronto creator
     bio: >-
-      I make lifestyle videos on youtube! ⁣⁣ 💌 hello@anneshaadams.com⁣ 📍 Canada & Jamaica⁣ 🍃Watch new video below👇🏾!
+      Fashion / Makeup & lifestyle 💌 hagerhanawy@outlook.com 💌 hager@levenagency.co Tiktok: hagerhanawy (155k+)
     location: "Canada"
-    followers: 7339
-    engagement: 1535
-    commentsToLikes: 0.101081
-    id: ck135iepe1kux0i19xoihkvj0
+    followers: 37108
+    engagement: 777
+    commentsToLikes: 0.008507
+    id: cl13ex4h0z55j0i23b9m02d4x
     verified: false
-    hashtags: "#jamaica"
-  - username: "litezon"
+    hashtags: "#fashionblogger, #explorepage, #pinterest, #torontoblogger"
+  - username: "bonjour.jasmine"
     fullname: >-
-      Grant Huntington
+      Jasmine |  East Coast Lawyer
     bio: >-
-      Creative Portraits & Lifestyle | #yyc @pattifalconeragency
+      Empowering Women • Adventure • Lifestyle 🇨🇦 ⤷Balancing motherhood + hustle, while I try to remain (sorta)sane Creator @kuppajoespressobar
     location: "Canada"
-    followers: 15799
-    engagement: 924
-    commentsToLikes: 0.073254
-    id: ck5zrag5fw7p80i14shgriha3
+    followers: 17216
+    engagement: 384
+    commentsToLikes: 0.432251
+    id: ckxhnsjiw67az0j23b4qekky9
     verified: false
-    hashtags: ""
-  - username: "rachelsavaunnah"
+    hashtags: "#womeninlaw, #princeedwardisland, #pei, #eastcoast"
+  - username: "saralevs"
     fullname: >-
-      RAE SAVAUNNAH • T.O BLOGGER
+      SARA LEVITT
     bio: >-
-      Lifestyle • Beauty • Fashion 📍🇨🇦 Let’s Collab👉🏿 💌 savaunnah.rachel@gmail.com @hautelash.xyz • ✝️🛍💄👶🏻 #beauty #fashion #lifestyle #boymom ⇣✨👇🏿👀👇🏿✨⇣
+      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
     location: "Canada"
-    followers: 6256
-    engagement: 1151
-    commentsToLikes: 0.574121
-    id: ck5zz5d5vb4450i140detajo0
+    followers: 5963
+    engagement: 295
+    commentsToLikes: 0.075173
+    id: ckaoszed3towd0i78ukl5z3y1
     verified: false
-    hashtags: "#prettylittlething, #faith, #plt, #pltstyle"
-  - username: "vanessa.anna"
+    hashtags: "#lacucina"
+  - username: "choudhurydib"
     fullname: >-
-      Vanessa Luttrell
+      Dibya | Fashion && Lifestyle
     bio: >-
-      montreal fashion + lifestyle 🌼🦋🤍🥧 💌 vanessa.luttrell@gmail.com
+      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
     location: "Canada"
-    followers: 15304
-    engagement: 808
-    commentsToLikes: 0.077300
-    id: ck0w4rrzb036i0i19s3yp8vlk
+    followers: 23419
+    engagement: 287
+    commentsToLikes: 0.415016
+    id: ck8tbjidovy1i0j78zwxaohqd
     verified: false
-    hashtags: "#rqbabe, #nastygalsdoitbetter"
-  - username: "brooke.antonsen"
+    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
+  - username: "nnekaelliott"
     fullname: >-
-      Brooke Antonsen
+      Nneka Elliott
     bio: >-
-      Calgary, AB✨ Published Model, Lifestyle, Fitness @fitarmyofficial Athlete🏆
+      Lifestyle | Motherhood |📺 Segments @themarilyndenisshow expert 🇨🇦🇻🇨 Partnerships: olivias@doubleshotagency.com Also @nnekaonscreen More 👇🏾
     location: "Canada"
-    followers: 9281
-    engagement: 3310
-    commentsToLikes: 0.052745
-    id: ck5hjlstsguoe0i11mydyh2jo
+    followers: 14998
+    engagement: 278
+    commentsToLikes: 0.089605
+    id: ckrxec5ybpgxt0j23vtjukamh
     verified: false
-    hashtags: "#empoweredescape, #godsplan, #cheese, #throwbackthursday"
-  - username: "simranahmed30"
-    fullname: >-
-      Simran Ahmed | Vancouver
-    bio: >-
-      🌈 (she/her) intersectional feminist ✌🏽 lifestyle | adventure | social justice 📍immigrant in Vancouver, Canada 💌 ahmed_simran@yahoo.com 🐱 cat mom
-    location: "Canada"
-    followers: 18708
-    engagement: 600
-    commentsToLikes: 0.519644
-    id: ck5q3gvq6koz10i11g628xc4w
-    verified: false
-    hashtags: "#streetstyleinspo, #neutraltones, #streetstyleoutfit, #bodypositivemovement"
+    hashtags: "#christmas2022, #ad, #toddlermom, #tiff22"
   - username: "meligatorr"
     fullname: >-
       Melisa | Montreal
     bio: >-
-      〰️melisa.badea@mail.com 📩 〰️Co-founder/CEO @lemonseedmedia 🍋 〰️Welcome to my virtual journal 📔 〰️Lifestyle, self care and little fragments of life🌿
+      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
     location: "Canada"
-    followers: 26086
-    engagement: 494
-    commentsToLikes: 0.508923
+    followers: 28302
+    engagement: 274
+    commentsToLikes: 0.320554
     id: ck5bz30vkqch20i11r2q74r5z
     verified: false
-    hashtags: "#ad, #gifted, #endypartner, #lastnormalphoto"
+    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
+  - username: "teachme_style"
+    fullname: >-
+      Holly Forsberg
+    bio: >-
+      Dane’s Mom 👶🏼 💙 @lee_forsberg 💍 Sunny + Witt’s Fur Mama 🐶🐶 Teacher📚 | Lifestyle Blogger💻 Inquiries 💌 holly@infagency.com
+    location: "Canada"
+    followers: 65995
+    engagement: 232
+    commentsToLikes: 0.025825
+    id: ck5c8ew099bv80i11x8ny5s63
+    verified: false
+    hashtags: "#ad, #shopteach, #christmas, #weddingdecor"
 ---

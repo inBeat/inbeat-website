@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Norway In 2022
+title: Top 10 Athletes Instagram Influencers In Norway In 2023
 description: >-
-  Find top athletes Instagram influencers in Norway in 2022. Most popular hashtags: #gym #fitness #muscle.
+  Find top athletes Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #crossfit #gym.
 platform: Instagram
-hits: 62
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 62 Instagram influencers like this in Norway for you to collaborate.
+hits: 82
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 82 Instagram influencers like this in Norway for you to work with.
 profiles:
-  - username: "back.guy"
-    fullname: >-
-      Anders Gjellan
-    bio: >-
-      21 🇧🇻 Powerlifter wannabe @vqfit Athlete @gorilla_mind "Back" for 10% off 140k+ on YouTube 💻
-    location: "Norway"
-    followers: 30646
-    engagement: 1120
-    commentsToLikes: 0.043651
-    id: ck8t7j7djh0du0j78qojlblsn
-    verified: false
-    hashtags: ""
-  - username: "jeanette.astor"
-    fullname: >-
-      Jeanette Astor 🐺 Fitness Coach
-    bio: >-
-      ▫️ Norway | Mama x3 🤍 ▫️ PT, nutritionist & coach 🔥 @ryderwear athlete - ‘ASTOR’
-    location: "Norway"
-    followers: 20734
-    engagement: 1015
-    commentsToLikes: 0.065728
-    id: ck8takllts5s90j78bjb1deuw
-    verified: false
-    hashtags: ""
   - username: "remetelionorsvedin"
     fullname: >-
       𝖱𝖤𝖬𝖤𝖳 𝖤𝖫𝖨𝖮𝖭𝖮𝖱 𝖲𝖵𝖤𝖣𝖨𝖭
     bio: >-
-      IFBB bikinifitness 🏆 𝟤𝗑 𝖭𝗈𝗋𝗐𝖾𝗀𝗂𝖺𝗇 𝗈𝗏𝖾𝗋𝖺𝗅𝗅 𝖼𝗁𝖺𝗆𝗉 𝟣𝟪, 𝟣𝟫 ▫️Jan Tana Athlete ▫️ @bootybuilder.official
+      IFBB bikinifitness 🌎 Oslo,Norway 🏆 2x Norwegian overall champ 18,19 ▫️Jan Tana Athlete 💼 @fit2gether_no
     location: "Norway"
-    followers: 25941
-    engagement: 497
-    commentsToLikes: 0.061365
+    followers: 24710
+    engagement: 346
+    commentsToLikes: 0.038284
     id: ck5hn9u2qng100i11z45l7jbp
     verified: false
-    hashtags: "#tb"
-  - username: "haakonevjen"
+    hashtags: "#fit2gether, #bombshellsportswear"
+  - username: "cscoffin13"
     fullname: >-
-      Håkon Evjen👌🏻
+      Corinna Coffin, MS, RD
     bio: >-
-      Football player 🇳🇴 AZ Alkmaar Nike Athlete
+      Registered Dietitian | Athlete CrossFit Games & OCR competitor🏋🏽‍♀️🏃🏽‍♀️ @altrarunning Athlete - USA Nutrition Coaching 👇🏼
     location: "Norway"
-    followers: 7515
-    engagement: 2777
-    commentsToLikes: 0.024441
-    id: ck6uf7a99vbzf0j71bwtojg22
-    verified: true
-    hashtags: "#opp, #playinside, #playfortheworld, #youcantstopus"
+    followers: 20252
+    engagement: 611
+    commentsToLikes: 0.042972
+    id: ck55kiv8rzeli0i11pxw4bzqs
+    verified: false
+    hashtags: "#spartanpro, #foodforthought, #teamaltra, #repost"
   - username: "kolbruntholl"
     fullname: >-
       Kolbrún Þöll Þorradóttir
     bio: >-
-      • Teamgym 🇮🇸 @womensteam_iceland • @noccoiceland athlete • Team Under Armour snap: kolbruntholl
+      • Teamgym 🇮🇸 @womensteam_iceland • @noccoiceland athlete • Team Under Armour HÍ, Næringarfræði
     location: "Norway"
-    followers: 5506
-    engagement: 1927
-    commentsToLikes: 0.016751
+    followers: 5417
+    engagement: 1948
+    commentsToLikes: 0.019204
     id: ck8sze5pvo2620j787y0sdlgv
     verified: false
     hashtags: "#teamgym2020"
-  - username: "sarahschollathlete"
+  - username: "hogberglukas"
     fullname: >-
-      Sarah Scholl ATHLETE and COACH
+      Crossfit | Athlete | PT online
     bio: >-
-      🇺🇸Strength Coach/Nutrition Coach Crossfit Games Athlete MastersDegree in Sport Psychology Track&Field All-American@Georgetown U @myathleticadvantage
+      🇸🇪 Crossfit Games competitor - 3rd fittest on earth 2018| Athlete | @nike | @redbullsweden | @kingsbox_italia | 💥👇🏻PT Online coachning👇🏻💥 GET FIT🔥
     location: "Norway"
-    followers: 99781
-    engagement: 258
-    commentsToLikes: 0.036902
-    id: ck5hcjprvifb00i11nkwb3cnn
-    verified: false
-    hashtags: "#fit, #fitness, #coach, #strong"
+    followers: 128580
+    engagement: 200
+    commentsToLikes: 0.022360
+    id: ck5cjzv5gvtyr0i11gfkd3cp1
+    verified: true
+    hashtags: "#workoutideas, #pt, #ptonline, #fitnessfood"
   - username: "andrealowing"
     fullname: >-
       Andrea Løwing 👑
     bio: >-
       IFBB bikini athlete Online coach COACHING INFO ⬇️
     location: "Norway"
-    followers: 13194
-    engagement: 663
-    commentsToLikes: 0.057358
+    followers: 13132
+    engagement: 551
+    commentsToLikes: 0.062403
     id: ck8t6pi6led900j7848rkv3h0
     verified: false
-    hashtags: "#bikinifitness, #gym, #workout, #jeans"
-  - username: "olekristianvaaga_ifbbpro"
+    hashtags: "#photooftheday, #outfitinspiration, #bodybuilding, #ootd"
+  - username: "sarahschollathlete"
     fullname: >-
-      Ole Kristian Vaaga
+      Sarah Scholl ATHLETE & COACH🇺🇸
     bio: >-
-      Norwegian made || Team Stones athlete || @gorillawearusa || @spisriktig
+      Strength Coach/ Nutrition Coach CrossFit Games Athlete MastersDegree SportPsychology Track&Field All-American/Georgetown alum @myathleticadvantage
     location: "Norway"
-    followers: 124186
-    engagement: 321
-    commentsToLikes: 0.027013
-    id: ck134qj4vxpgz0i19jrf843xy
+    followers: 104370
+    engagement: 164
+    commentsToLikes: 0.030144
+    id: ck5hcjprvifb00i11nkwb3cnn
     verified: false
-    hashtags: "#teamnoneck"
-  - username: "aktivmamma"
+    hashtags: "#workhard, #gym, #myathleticadvantage, #fitness"
+  - username: "sebconrad"
     fullname: >-
-      Cathrine 🇳🇴
+      Sebastian Conrad Håkansson
     bio: >-
-      •CF Athlete •Mom and wife @petterkmortvedt •Web coach👉🏻 @elitept.no •@dirt.norge - use Cathrine25 •@heartoflule- use cath20 for a discount
+      90kg overweighted Runner and Spartan athlete 🔹👟@salomon_norge 🔹⌚@suunto_norge 🔹42,2km: 2.28.15 (2.26.26 virtual) 🔹🥈Spartan Ultra WC elite 2019
     location: "Norway"
-    followers: 22787
-    engagement: 423
-    commentsToLikes: 0.062111
-    id: ck5q44os5nqso0i11w2n0z62s
+    followers: 8530
+    engagement: 871
+    commentsToLikes: 0.034723
+    id: ck5c2unkiy0pv0i111t3akkgy
     verified: false
-    hashtags: "#healthy, #runners, #instagram, #workoutmotivation"
-  - username: "trevornyakane"
+    hashtags: "#salomonnorge, #salomon, #runnersworld, #maximsport"
+  - username: "aaparker1"
     fullname: >-
-      Trevor Nyakane
+      Alex Parker
     bio: >-
-      Bushbuckridge born. Springbok 🇿🇦 and blue bulls prop🔵 Daughter: @babyskylar.12 Twitter: @NtandoTrevor @pumasouthafrica Athlete @landroversa Ambassador
+      2015 Crossfit Games Athlete 6x Regionals Athlete Lawyer turned Nutrition Coach Owner of @tacticnutrition Podcast - @afternoonsnackpodcast
     location: "Norway"
-    followers: 38483
-    engagement: 447
-    commentsToLikes: 0.009802
-    id: ck5capu4qdw740i11lv6aiy0p
+    followers: 43776
+    engagement: 198
+    commentsToLikes: 0.019449
+    id: ck0vweg7wtbpd0i19s7p5by66
     verified: false
-    hashtags: "#newdefender, #above, #onecupofpap, #discovery"
+    hashtags: "#tacticnutrition, #nutrition, #crossfit, #supplements"
+  - username: "megg_a_tron"
+    fullname: >-
+      Meg Reardon
+    bio: >-
+      Owner of @wagsandweights 🐶 3x Crossfit Games Athlete 💍@clewis1122 @spartan | @directhemp | @bsnsupplements
+    location: "Norway"
+    followers: 31466
+    engagement: 362
+    commentsToLikes: 0.026674
+    id: ck5q4h8k3p0ku0i11apz47mwh
+    verified: false
+    hashtags: "#wagsandweights, #enjoythejourney, #crossfit, #forgedbyzeus"
+  - username: "maddiesturt"
+    fullname: >-
+      Madeline Sturt
+    bio: >-
+      🇦🇺 Crossfit Games Athlete @reebok @trueprotein @esc_sounds @_mymacrochef @killercoffeeco
+    location: "Norway"
+    followers: 39451
+    engagement: 184
+    commentsToLikes: 0.048260
+    id: ck5zl34kwkncu0i14huw52skk
+    verified: false
+    hashtags: "#reebok, #unifydtraining, #trueprotein, #reebokclassic"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Bali In 2022
+title: Top 10 Lifestyle Instagram Influencers In Bali In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Bali in 2022. Most popular hashtags: #bali #balilife #lifestyle #baliindonesia.
+  Find top lifestyle Instagram influencers in Bali in 2023. Most popular hashtags: #bali #lifestyle #baliindonesia #balilife.
 platform: Instagram
-hits: 138
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 138 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 75
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 75 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "donnyhermatra"
+  - username: "stanleycieslik"
     fullname: >-
-      Donny Hermawan Saputra
+      Stanley Cieslik
     bio: >-
-      TV Journalist of @liputan6news @sctv Bussines Inquires : 📥 DM 📩 donnyhermawan93@gmail.com "Everyhting can happen as long as you believe and workhard"
+      🇧🇷 mix 🇦🇷 🇵🇱 + 🌍 Based 🇮🇩 <> @360move_uluwatu (Soon) <> #stanleycieslikvideos < #BusinessDeveloper #ProSurfer #Freelancemodel -> @oursbali <
     location: "Indonesia"
-    followers: 11340
-    engagement: 743
-    commentsToLikes: 0.050015
-    id: ck14j7u56izht0i1984npm1kj
+    followers: 19259
+    engagement: 227
+    commentsToLikes: 0.046145
+    id: ck6u6w3hfi1ut0j719ue3rdcc
     verified: false
-    hashtags: "#news, #job, #quotes, #likeforlikes"
-  - username: "meongculinary"
+    hashtags: "#desertpoint, #balilife, #tb, #modelagency"
+  - username: "cindythefannie"
     fullname: >-
-      Food | Lifestyle  - BALI 🇮🇩
+      Cindy Thyssen
     bio: >-
-      🚪INVITATION / ENDORSE ( DM ) 📍 BALI 💌 mculinary2018@gmail.com @dapurbuzzer OHANA, DRKS, OKIN, SOCIA #lemonsquad @lemoninfluencer.id
+      Wife, Content Creator-Beauty & Lifestyle 📍Bali @thethyssen Business 📞Jeff +62 817‑9844‑055‬ endorsement line@cindythefannie cindythefannie2@gmail.com
     location: "Indonesia"
-    followers: 30710
-    engagement: 270
-    commentsToLikes: 0.349663
-    id: ck5hcm5fciscz0i11t4jtaygh
-    verified: false
-    hashtags: "#wowlaper, #foodpics, #balichannel, #mukbang"
-  - username: "jamesbrucephoto"
+    followers: 116639
+    engagement: 307
+    commentsToLikes: 0.022653
+    id: ck13a88d5p40o0i19t6lmj43d
+    verified: true
+    hashtags: "#seodalmi, #12weekspregnant, #startup, #baliindonesia"
+  - username: "annita.liem"
     fullname: >-
-      James Bruce
+      Annita🦁
     bio: >-
-      Moto Lifestyle 🇨🇦 In Bali 🇮🇩 📸 Creds pls, Sharing is Caring! 🙏 Collabs Welcome ✉ DM for Rates & Info 🏍 Tours @intrepid_moto
+      as bad as it can get, good as it can be⚡ × @leighwoods.healthygourmet 🍽️ endorse/invitation: DM
     location: "Indonesia"
-    followers: 9875
-    engagement: 572
-    commentsToLikes: 0.031227
-    id: ck139oln0mcso0i19mqtldqhz
+    followers: 28946
+    engagement: 161
+    commentsToLikes: 0.066586
+    id: ck6u0rndchdha0j71062bxkt4
     verified: false
-    hashtags: "#letsgotogether, #canon6d, #canon6dmark2, #escapetheordinary"
-  - username: "christina_chandraa"
+    hashtags: "#travel, #travelgram, #balibeachclub, #lifestyleblogger"
+  - username: "rifabimbi"
     fullname: >-
-      𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓪 𝓬𝓱𝓪𝓷𝓭𝓻𝓪
+      BIM
     bio: >-
-      📝Lifestyle blogger,Mom influencer 📍 Jakarta,Indonesia. #ZapIcon #LemonSquad 💌 Hellochristinachandra@yahoo.com 👇🏽 My blog
+      📍 bali, INDONESIA ————————————— DM for inq
     location: "Indonesia"
-    followers: 47400
-    engagement: 265
-    commentsToLikes: 0.077872
-    id: ck8t0gbe7rytw0j78yib1ck3c
+    followers: 9023
+    engagement: 904
+    commentsToLikes: 0.012810
+    id: ck0u0vyxov0dn0i19u9jnsp4s
     verified: false
-    hashtags: "#momblogger, #lifestylephotography, #lifestyle, #lifestyleinfluencer"
-  - username: "vdohnovitelnica"
+    hashtags: "#balinese, #photoshoot, #bali, #lifestyle"
+  - username: "trsnadw__"
     fullname: >-
-      Яна Кропачева
+      𝒦𝑜𝓂𝒶𝓃𝑔 𝒯𝓇𝒾𝓈𝓃𝒶 𝒟𝑒𝓌𝒾
     bio: >-
-      👸🏼Miss Udmurtia👑 🌎 Im traveling 24/7 👒🧳 already 55 countries! Do you want to do the same? 📍Live in Bali 🇮🇩
+      Attitude is based on how u treat me🕊 Bali🕉
     location: "Indonesia"
-    followers: 2923
-    engagement: 1361
-    commentsToLikes: 0.139094
-    id: ck5zrjtpuwpqf0i14xtc6mffe
+    followers: 2711
+    engagement: 2645
+    commentsToLikes: 0.255314
+    id: ckf5l3m33o8u30j23mhsmbp2k
     verified: false
-    hashtags: "#indonesia, #lifestyle, #travelblog, #baliindonesia"
-  - username: "alex_zhilkin"
+    hashtags: "#followforfollowback, #balingehits, #hitskekinian, #lfl"
+  - username: "onihoironi"
     fullname: >-
-      Alex_zhilkin
+      Travel & Lifestyle | 📍Bali 🌴
     bio: >-
-      📸Photographer 📩fotoalexzhilkin@gmail.com 🏄‍♂️surfer 📍Bali WhatsApp +6281239326857
+      📧 For business +6285155089114 (Rian) 🚶Travel, Lifestyle & Hotel Blogger 👨🏼‍💻 Digital Nomad Lifestyle 📍 Jakarta - Bali 🌴 @onipresets
     location: "Indonesia"
-    followers: 19998
-    engagement: 176
-    commentsToLikes: 0.036086
-    id: ck15trdkfji5c0i19t6xj42ke
+    followers: 53708
+    engagement: 225
+    commentsToLikes: 0.039625
+    id: ck0vybx2l37zl0i19at00lylk
     verified: false
-    hashtags: "#balilife, #lifestyle, #topmodel, #bali2020"
-  - username: "joeluipdr"
+    hashtags: "#oni, #terbangaman, #wonderfulindonesia, #diindonesiaaja"
+  - username: "risyadsalman"
     fullname: >-
-      Jose Luis Berasaluce
+      RISYAD | BALI MODEL
     bio: >-
-      📍 Bali,Indonesia • Surf • Travel • Living • Praia do Rosa 🔄 Sopelana 🎥 Berasaluce #surf Coach 👇 @theloggerofficial
+      📍 Bali ▪️Sport, lifestyle, and fashion enthusiast ▪️Part of @studio47id ▪️ #janganlupaolahraga #risyadpergike
     location: "Indonesia"
-    followers: 2738
-    engagement: 1505
-    commentsToLikes: 0.088679
-    id: ckaowp4ts9tt50i786zjhgc7b
+    followers: 19192
+    engagement: 2319
+    commentsToLikes: 0.022912
+    id: ck13a91c1p83t0i19upvm8gbk
     verified: false
-    hashtags: "#waves, #island, #living, #padangpadang"
-  - username: "a.syplatova"
+    hashtags: "#balimodel, #canggubali, #uluwatu, #ubudbali"
+  - username: "ikasanz"
     fullname: >-
-      Anna Syplatova
+      Ikasanz Yoe ♠️
     bio: >-
-      🇺🇦 in 🇶🇦
+      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
     location: "Indonesia"
-    followers: 7424
-    engagement: 707
-    commentsToLikes: 0.045402
-    id: ck9wejhxbkjp60j78att5q4tp
+    followers: 53312
+    engagement: 224
+    commentsToLikes: 0.142564
+    id: ck9wgk1f5trp10j78o2ldtyun
     verified: false
-    hashtags: "#realestatestyle, #balistyle, #eatpraylove, #ukrainegirl"
-  - username: "2getherlikeone"
+    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
+  - username: "asmrider"
     fullname: >-
-      🅼🅸🅰 🅰🅽🅳 🅰🅽🆃🅷🅾🅽🆈
+      🇲 🇴 🇳 🇸 🇹 🇪 🇷   🇨 🇴 🇴 🇰 🇮 🇪 🇸
     bio: >-
-      𝙵𝚘𝚛 𝚛𝚊𝚝𝚎𝚜/𝚎𝚗𝚚𝚞𝚒𝚛𝚒𝚎𝚜 𝙳𝙼 #𝚖𝚒𝚊𝚚𝚒𝚗𝚊 #𝟸𝚐𝚎𝚝𝚑𝚎𝚛𝚕𝚒𝚔𝚎𝚘𝚗𝚎 𝙱𝚊𝚕𝚒 🇮🇩 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙: +𝟼𝟸𝟾𝟷𝟹𝟻𝟹𝟾𝟺𝟽𝟿𝟷𝟺
+      𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙧𝙚𝙣𝙙𝙡𝙮 𝙈𝙤𝙩𝙤𝙫𝙡𝙤𝙜𝙚𝙧 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧👨‍👩‍👧 Business Inquiries 📩 asmrider07@gmail.com
     location: "Indonesia"
-    followers: 12111
-    engagement: 403
-    commentsToLikes: 0.034590
-    id: ck55p9cuaa3c90i11i79v2pq6
+    followers: 43042
+    engagement: 1012
+    commentsToLikes: 0.027133
+    id: ck5zxvb7a8q710i14j6dl2vkc
     verified: false
-    hashtags: "#baliphotoshoot, #modeltest, #bali, #portraitmood"
-  - username: "antonio_fernandes25"
+    hashtags: "#vapezoo, #zoo, #motovlogindonesia, #hobi"
+  - username: "p__frozen"
     fullname: >-
-      MODEL 191 cm | PHOTOGRAPHER
+      P Frozen
     bio: >-
-      🙋🏽‍♂️ I’m Vogue addicted 📸 Love photography 🧨 Fashion content creator 📍Kazakhstan 📨 Collabs: mfbgmanager@gmail.com ⬇️ Photoshop course⬇️
+      cp: +62 819-0618-0619
     location: "Indonesia"
-    followers: 18010
-    engagement: 282
-    commentsToLikes: 0.057553
-    id: ck5hcmm5ziv0n0i11l0dhvuwp
+    followers: 5970
+    engagement: 1142
+    commentsToLikes: 0.060099
+    id: ck5q874xp4ran0i1128mz3bc9
     verified: false
-    hashtags: "#maleinfluencer, #malemodeltrading, #photography, #fashionista"
+    hashtags: "#art, #mystery, #streetwear, #hiphop"
 ---

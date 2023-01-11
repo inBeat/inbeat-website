@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Japan In 2022
+title: Top 10 Golfers Instagram Influencers In Japan In 2023
 description: >-
-  Find top golfers Instagram influencers in Japan in 2022. Most popular hashtags: #golf #golfswing #golfstagram #golfwear.
+  Find top golfers Instagram influencers in Japan in 2023. Most popular hashtags: #golf #golfswing #golfwear #golflife.
 platform: Instagram
-hits: 27
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 27 Instagram influencers like this in Japan for you to connect with.
+hits: 19
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 19 Instagram influencers like this in Japan for you to pitch.
 profiles:
   - username: "sakura_yokomine"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       プロゴルファー / professional golfer LPGA 1985.12.13 鹿児島出身 アメリカツアー転戦中
     location: "Japan"
-    followers: 27970
-    engagement: 1062
-    commentsToLikes: 0.026510
+    followers: 28715
+    engagement: 1278
+    commentsToLikes: 0.030705
     id: ck5zvzuzi57n00i14hs4zeqg0
     verified: false
-    hashtags: "#sc, #lpgatour, #callaway, #toto"
-  - username: "golfer_mini"
-    fullname: >-
-      Anna Minami/Minami Levonowich
-    bio: >-
-      The running pro golfer ⛳️ 🏃🏻‍♀️ - KU alumni ❤️💙 - 2019 W.Angle Xtreme Golf World Champion🏆🇯🇵 - FT Entertainment 🎬 Check out my YouTube channel ↓ ↓
-    location: "Japan"
-    followers: 3991
-    engagement: 1202
-    commentsToLikes: 0.043885
-    id: ckaotm7n9wh2v0i78lkgxxq9p
-    verified: false
-    hashtags: "#golfswing, #winwinstyle, #annaminami, #progolfer"
-  - username: "yuchiki309"
-    fullname: >-
-      yuki
-    bio: >-
-      best score 🔴86(half41) OL golfer👩‍💼 ✴︎ 🏌️‍♂️⛳️🧘‍♀️💅🍔🍥♨️✈️👙👗…❤︎ #rizap に通っていました☺️紹介希望はDMください❤︎
-    location: "Japan"
-    followers: 10998
-    engagement: 1403
-    commentsToLikes: 0.051224
-    id: ck8tdl9ih3s2g0j788mf3s9z6
-    verified: false
-    hashtags: "#golfwear, #golflife, #1w, #golf"
+    hashtags: "#golf, #toto, #lpga, #ecco"
   - username: "asuka_____official"
     fullname: >-
       Asuka Kashiwabara
     bio: >-
       #柏原明日架 official instagram Fujitsu 🔥 jlpga professional golfer. 96’
     location: "Japan"
-    followers: 63767
-    engagement: 841
-    commentsToLikes: 0.010482
+    followers: 68837
+    engagement: 847
+    commentsToLikes: 0.011055
     id: ckap18s34tji20i78js0otzam
     verified: true
-    hashtags: "#descentegolf, #jlpga, #golf, #2020"
-  - username: "1_rikako"
+    hashtags: "#dayoff, #golf, #descentegolf, #jlpga"
+  - username: "1124rika"
     fullname: >-
-      森田理香子/Rikako Morita
+      井上 莉花 Rika Inoue
     bio: >-
-      Professional golfer 2013賞金女王 お仕事のお問い合わせなどは下記メールへ。 株式会社アールアソシエイツ #prgr#smith#colmargolf#albertogolf#espoir
+      Golfer🏌️‍♀️ 所属　フリー ・プロラボホールディングス ・synnex japan ・千代田製作所 ・アルク ・サンビルド ⛳️callaway 👩‍🏫USGTF teaching 事務所にメールかDM📮
     location: "Japan"
-    followers: 29856
-    engagement: 995
-    commentsToLikes: 0.010131
-    id: ck8t7hyqogvfe0j78326t5xw4
+    followers: 54364
+    engagement: 637
+    commentsToLikes: 0.009041
+    id: ck0uax7efdcwj0i19m001fjwu
     verified: false
-    hashtags: "#golf, #prgr, #albertogolf, #colmergolf"
-  - username: "ayaka.nakayama.japan"
+    hashtags: "#golfswing, #callawayapparel, #synnexjapan, #estheprolabo"
+  - username: "sj31ahn"
     fullname: >-
-      中山 綾香　Ayaka Nakayama
+      안선주(安ちゃん)
     bio: >-
-      ⭐️: GOLFER ⛳️: ベスト64！奮闘中🤨 👩🏻‍🎓: セントラルフロリダ大学(USA)・日大日吉 🌈: Japan 🇯🇵 / Orlando, FL 🇺🇸 / Bangkok 🇹🇭 お問い合わせはDMください📩💘 よろしくお願いします💜 #golf #ゴルフ
+      golfer(アンソンジュ)ゴルファー
     location: "Japan"
-    followers: 8498
-    engagement: 1017
-    commentsToLikes: 0.019614
-    id: ckap0b7ehpkg50i78a5iv4w80
+    followers: 11457
+    engagement: 732
+    commentsToLikes: 0.025707
+    id: ckap27ukhxr500i78ppaxl1om
     verified: false
-    hashtags: "#jackbunny, #golf, #golfstagram, #golflife"
+    hashtags: "#gentilbandit"
   - username: "kawamotoyui_official"
     fullname: >-
       河本 結 / Yui Kawamoto
     bio: >-
       Professional golfer 🇯🇵 🖥 YouTube channel↓
     location: "Japan"
-    followers: 85022
-    engagement: 1098
-    commentsToLikes: 0.023349
+    followers: 94448
+    engagement: 1100
+    commentsToLikes: 0.024079
     id: ckapbaai1z5uc0i78jy1kyavr
     verified: true
-    hashtags: "#uslpga, #golf, #golfswing, #aigwomensopen"
-  - username: "sj31ahn"
+    hashtags: "#golf, #uslpga, #golfswing, #golflife"
+  - username: "ayaka.nakayama.japan"
     fullname: >-
-      안선주(安ちゃん)
+      中山 綾香　Ayaka Nakayama
     bio: >-
-      golfer(アンソンジュ)ゴルファー
+      ⭐️: GOLFER ⛳️: ベスト64！奮闘中🤨 👩🏻‍🎓: セントラルフロリダ大学(USA)・日大日吉 🌈: Japan 🇯🇵 / Orlando, FL 🇺🇸 / Bangkok 🇹🇭 お問い合わせはDMください📩💘 よろしくお願いします💜 #golf #ゴルフ
     location: "Japan"
-    followers: 11721
-    engagement: 654
-    commentsToLikes: 0.019964
-    id: ckap27ukhxr500i78ppaxl1om
+    followers: 9098
+    engagement: 824
+    commentsToLikes: 0.010141
+    id: ckap0b7ehpkg50i78a5iv4w80
     verified: false
-    hashtags: ""
+    hashtags: "#newbalance, #burger, #golfstagram, #golfgirl"
+  - username: "snow122_golf"
+    fullname: >-
+      YUKI♡GOLF
+    bio: >-
+      Golf Life🏌️‍♀️ ゴルフバイヤー🇯🇵 Golf⛳️ Baseball⚾️ Travel✈️﻿ いつかマスターズ観戦したい🇺🇸
+    location: "Japan"
+    followers: 13524
+    engagement: 814
+    commentsToLikes: 0.051857
+    id: ck9hbimwmgzuj0j78mwp9z1f3
+    verified: false
+    hashtags: "#sports, #golfswing, #me, #golfcourse"
   - username: "seeeeiiiiraaaa"
     fullname: >-
       岩崎静羅 美容/プチプラコーデ/ゴルフ/旅行
     bio: >-
-      36歳 155cm XS〜Sサイズ WEB広告に多数出演中 ◾️趣味 ⛳️ BEST:78🔴 86⚪️ Cosme Attendant 1期生 ◾️資格 宅地建物取引士、フードアナリスト、パーソナルカラーアドバイザーなど
+      **宮古島大使に就任しました** 155cm Sサイズモデル WEB広告に多数出演中 *Me+ Producer* @nugu__official 宅地建物取引士,フードアナリスト パーソナルカラーアドバイザーなど ⛳️BEST: 🔴78 ⚪️86
     location: "Japan"
-    followers: 26791
-    engagement: 382
-    commentsToLikes: 0.032341
+    followers: 27042
+    engagement: 306
+    commentsToLikes: 0.036424
     id: ckf5uukuome850j23xokhvqy8
     verified: false
-    hashtags: "#155cm, #makeup, #aimantgolf, #golf"
-  - username: "s.tocco"
+    hashtags: "#jimmychoo, #golfwear, #155cm, #grl"
+  - username: "golf_yoshimi"
     fullname: >-
-      tocco golf
+      yoshimi（よしし）
     bio: >-
-      woodland🌳kyoto ゴルフとコーデが大好き⛳ @kansai_goljyo も宜しくお願いします✨ いつか自分が着たいゴルフウェアを作るのが夢🎠 age around50😝 half best:44/best score:94 オススメゴルフウェア載せてます❤️↓↓↓
+      Golf / Fitness / Trip / Lifestyle ⛳️ 2years（❤️79 🤍82） 🌏 aichi → tokyo, japan 会社員とフリーランスモデルしております☺︎ ※お仕事依頼以外のDM/メールは対応できません🙏💦 　 ▼ TikTok♪
     location: "Japan"
-    followers: 8190
-    engagement: 1193
-    commentsToLikes: 0.019224
-    id: ckaoux87927lz0i78oqr1rrn8
+    followers: 48291
+    engagement: 411
+    commentsToLikes: 0.025055
+    id: ckf5ntckyzm8g0j23irayw85j
     verified: false
-    hashtags: "#golffashion, #golfstagram, #jackbunny, #golfwear"
+    hashtags: "#love, #golfswing, #golflife, #nature"
+  - username: "nana_ayase_"
+    fullname: >-
+      綾瀬 奈々
+    bio: >-
+      #関西 #大阪 を拠点に #モデル #ラウンドガール #RQ #イベントコンパニオン 等活動してる姉妹の姉、NANAです｡.:*♡ よく笑います😆 #美容好きと繋がりたい ❤️好きな言葉❤️ 全て上手くいく  #美容 #fashion #cosme #綺麗な写真　が好きです💄💕 ▶︎Twitter
+    location: "Japan"
+    followers: 21748
+    engagement: 324
+    commentsToLikes: 0.042735
+    id: ck9hb8f1mfsl20j78pa2bjttp
+    verified: false
+    hashtags: "#pr, #girlsgolf, #golfr, #follome"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Norway In 2022
+title: Top 10 Dancers Instagram Influencers In Norway In 2023
 description: >-
-  Find top dancers Instagram influencers in Norway in 2022. Most popular hashtags: #oslo #dancer #norge #dance.
+  Find top dancers Instagram influencers in Norway in 2023. Most popular hashtags: #dancer #dancers #dance #oslo.
 platform: Instagram
-hits: 23
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 23 Instagram influencers like this in Norway for you to contact.
+hits: 13
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Norway for you to work with.
 profiles:
-  - username: "i.am.fa"
-    fullname: >-
-      Fa ฟ้า 파
-    bio: >-
-      Content creator and dancer, 19 years old. Twitter: @ Fa_official__ Business inquiries through Instagram dm. Link to my YouTube channel:
-    location: "Norway"
-    followers: 3378
-    engagement: 2034
-    commentsToLikes: 0.046693
-    id: ckapbec1wzlve0i785ypxdp8w
-    verified: false
-    hashtags: "#rt2020, #recordplayer, #vinyl, #keyshorts"
-  - username: "santinomirenna"
-    fullname: >-
-      Santino Mirenna
-    bio: >-
-      🇮🇹 Professional Dancer @skalvidansetv2 🔥 Team Nutramino @nutraminonorge
-    location: "Norway"
-    followers: 15778
-    engagement: 887
-    commentsToLikes: 0.014760
-    id: ckaor283aleu10i78owbn6h96
-    verified: false
-    hashtags: "#dancing, #dwts, #skalvidanse, #danse"
-  - username: "melinamagulas"
-    fullname: >-
-      MELINA MEYER MAGULAS
-    bio: >-
-      🇳🇴🇬🇷PhDstudent|Exercise Physiologist|PerformanceCoach Past:Pro Dancer💃🏼Present: runner/xcskier @dahlie.sportswear ❄️ @atomicnordic 🎙 @prestasjonsprat
-    location: "Norway"
-    followers: 12317
-    engagement: 536
-    commentsToLikes: 0.057864
-    id: ck5btpoowgdih0i11oifrv0ey
-    verified: false
-    hashtags: "#reklame, #nordmarkaskogsmaraton, #voksi, #lynski"
   - username: "monaberntsen"
     fullname: >-
       Mona Berntsen
     bio: >-
-      Norwegian-Moroccan dancer based in L.A 💃🏽 Booking 🇳🇴: na@noracollective.no Booking 🇺🇸: Bloc Agency Other: contact@monaberntsen.com
+      💃🏽 Norwegian-Moroccan dancer 📍 LA / Oslo 👟 @adidas athlete 🇳🇴 Booking: petter@noracollective.no 🇺🇸 Booking: @blocla 📧 contact@monaberntsen.com
     location: "Norway"
-    followers: 90055
-    engagement: 146
-    commentsToLikes: 0.017384
+    followers: 103655
+    engagement: 132
+    commentsToLikes: 0.021461
     id: ck13brltrwu2r0i19kdyamh4j
     verified: true
-    hashtags: "#hmfallfashion, #hmconscious, #fallfashion, #recycledfashion"
+    hashtags: "#trening, #st, #opentobetter, #cocacolano"
   - username: "martinecamilla"
     fullname: >-
       Martine Camilla Brænna
     bio: >-
       Professional dancer and choreographer The Moulin Rouge, Paris✨ RHYTHM Show De Vida ProSem, BDC-NYC BA jazzdance, Oslo National Academy of the Arts 24
     location: "Norway"
-    followers: 8214
-    engagement: 634
-    commentsToLikes: 0.030524
+    followers: 8225
+    engagement: 552
+    commentsToLikes: 0.051110
     id: ckap5f6umbeei0i78f7vp0y40
     verified: false
-    hashtags: "#oslo, #dancers, #dancer, #lovemyjob"
+    hashtags: "#throwback, #christmas, #fashionista, #dancers"
+  - username: "melinamagulas"
+    fullname: >-
+      MELINA MEYER MAGULAS
+    bio: >-
+      🇳🇴🇬🇷PhDstudent|Exercise Physiologist|PerformanceCoach Past:Pro Dancer💃🏼Present: runner/xcskier @dahlie.sportswear ❄️ @atomicnordic 🎙 @prestasjonsprat
+    location: "Norway"
+    followers: 12613
+    engagement: 535
+    commentsToLikes: 0.028360
+    id: ck5btpoowgdih0i11oifrv0ey
+    verified: false
+    hashtags: "#weareskiing, #voksi, #utno, #imarka"
   - username: "kristinewinter"
     fullname: >-
-      KRISTINE WINTER🍒
+      KRISTINE WINTER
     bio: >-
       Oslo, Norway📍 Dancer Collaborations/work✉️kristinewintern@gmail.com
     location: "Norway"
-    followers: 22225
-    engagement: 232
-    commentsToLikes: 0.011588
+    followers: 21542
+    engagement: 186
+    commentsToLikes: 0.011218
     id: ck5c6m3q15q250i1108dbeekf
     verified: false
-    hashtags: "#ginamyway, #spons, #ad, #holditvibe"
-  - username: "rebin.j.r"
+    hashtags: "#advertisement, #ginamyway, #ootd, #sunny"
+  - username: "_bakerina"
     fullname: >-
-      Rebin Rashid
+      Baked by a Ballerina
     bio: >-
-      Kurdish | Oslo 🔸👣 41 countries & 30 States🌍 🔸Hunter 🔸MMA Fighter 🔸Mechanic👨‍🔧 🔸Kizomba Dancer 🔸Traveling around the World 🔸Shoot competitor with Gun
+      ~Sharing my passion for bakes and makes ~Aspiring {and failing} pinterest artist ~Norwegian ballet dancer ~@heidicbc_
     location: "Norway"
-    followers: 30646
-    engagement: 234
-    commentsToLikes: 0.146938
-    id: ck134y6jmyrj30i19h1trt59v
+    followers: 14971
+    engagement: 649
+    commentsToLikes: 0.116966
+    id: ck134m3ngx3j30i19wzytx5m4
     verified: false
-    hashtags: "#photojournalism, #travel, #waterreflection, #fjelltid"
+    hashtags: "#veganlunch, #veganoatmeal, #veganbaker, #veganbowl"
   - username: "gorilsynnove"
     fullname: >-
       Gøril Synnøve
     bio: >-
       Norwegian pole dancer and dog mama 🥰
     location: "Norway"
-    followers: 107270
-    engagement: 204
-    commentsToLikes: 0.072952
+    followers: 105360
+    engagement: 222
+    commentsToLikes: 0.044544
     id: ck55psj6gba5f0i11vzarpann
     verified: false
-    hashtags: "#poledance, #oksawear, #polefitness, #dragonflybrand"
-  - username: "_bakerina"
+    hashtags: "#poledance, #polefitness, #oksawear, #dragonflybrand"
+  - username: "santinomirenna"
     fullname: >-
-      Baked by a Ballerina
+      Santino Mirenna
     bio: >-
-      ~Sharing my passion for bakes and makes ~Aspiring {and failing} pinterest artist ~Norwegian ballet dancer ~@heidicbc_ ~@go_vegan_nordic Ambassador ✨
+      🇮🇹 Professional Dancer @skalvidansetv2 🔥 Team Nutramino @nutraminonorge
     location: "Norway"
-    followers: 12245
-    engagement: 513
-    commentsToLikes: 0.149504
-    id: ck134m3ngx3j30i19wzytx5m4
+    followers: 15833
+    engagement: 861
+    commentsToLikes: 0.011913
+    id: ckaor283aleu10i78owbn6h96
     verified: false
-    hashtags: "#veganmeal, #oats, #veganyogurt, #govegan"
-  - username: "larshenriksen1"
+    hashtags: "#dance, #dontstopdancing, #skalvidanse, #iceno"
+  - username: "ricardoc197"
     fullname: >-
-      Lars Henriksen
+      Ricardo
     bio: >-
-      🌍 Oslo, Norway 👻 larshenriksen 🏛 Oslo National Academy of the Arts 🏦 Grue Sparebank
+      Norwegian National Ballet
     location: "Norway"
-    followers: 11756
-    engagement: 684
-    commentsToLikes: 0.033675
-    id: ck0vy8pub2rsk0i19f4751bwv
+    followers: 6648
+    engagement: 1382
+    commentsToLikes: 0.023208
+    id: ck8t4gcpn6pfs0j78jnxwvyhp
     verified: false
-    hashtags: "#maleportrait, #norge, #dancer, #gay"
+    hashtags: "#male, #like, #ballet, #photo"
+  - username: "gaticadance"
+    fullname: >-
+      ＧＡＴＩＣＡ
+    bio: >-
+      Fᴇᴇʟ ɪᴛ - Bʀᴇᴀᴛʜᴇ ɪᴛ - Dᴀɴᴄᴇ ɪᴛ Teaching live and recorded online classes 👇🏼New live classes every Sunday
+    location: "Norway"
+    followers: 97759
+    engagement: 123
+    commentsToLikes: 0.052229
+    id: ck136a30l5hs80i19eybz6jwf
+    verified: false
+    hashtags: "#womenmovementbygatica, #sensuality, #reel, #bachatavibe"
+  - username: "irlinradix"
+    fullname: >-
+      🦁 IRLIN 🌿 DANCER & LIFELOVER 🎉
+    bio: >-
+      👯‍♀️ Teacher 🏗 Entrepreneur ✨Founder of @radixcrew ✨ 🌴My crazy life 👻Snap: irlin 🌋TikTok:irlinradix
+    location: "Norway"
+    followers: 14581
+    engagement: 160
+    commentsToLikes: 0.031974
+    id: ck5qa5ymzepqg0i11eaou99km
+    verified: false
+    hashtags: "#valentine, #home, #smile, #oslo"
 ---

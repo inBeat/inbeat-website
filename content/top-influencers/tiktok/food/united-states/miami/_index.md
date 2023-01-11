@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Miami In 2022
+title: Top 10 Food TikTok Influencers In Miami In 2023
 description: >-
-  Find top food TikTok influencers in Miami in 2022. Most popular hashtags: #miami #fyp #food #foryou.
+  Find top food TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #food #foryou #miami.
 platform: TikTok
-hits: 91
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 91 TikTok influencers like this in Miami, United States for you to work with.
+hits: 114
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 114 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "miamifoodstop"
+  - username: "_makayla149"
     fullname: >-
-      miamifoodstop
+      Makayla
     bio: >-
-      Follow me on insta @miamifoodstop for more delicious food!
+      Breed:Different
     location: "United States"
-    followers: 4000
-    engagement: 735
-    commentsToLikes: 0.012412
-    id: ckbf0g2iim1vb0j2380whb0yz
+    followers: 9304
+    engagement: 1323
+    commentsToLikes: 0.020097
+    id: ckbae58je6e3b0j23necfqdvv
     verified: false
-    hashtags: "#foodie, #foodies, #food, #miami"
-  - username: "peanuttandjelly"
+    hashtags: "#dayinmylife, #lululemon, #college, #foryoupage"
+  - username: "destanyivy_"
     fullname: >-
-      peanuttandjelly
+      Destany Ivy
     bio: >-
-      🙏 FOLLOW US on INSTAGRAM👆 🤩All Original Content 🚨Giveaway at 300k
+      Often Imitated Never Duplicated 🏆 LA📍| 🏳️‍🌈 ✨Apple Giveaway @ 20k✨🥳
     location: "United States"
-    followers: 253200
-    engagement: 1091
-    commentsToLikes: 0.015814
-    id: ck81s3umypsos0j78pk5e81xf
+    followers: 11600
+    engagement: 912
+    commentsToLikes: 0.005958
+    id: ckb0okhy7en8p0j23ic1swy6v
     verified: false
-    hashtags: "#tasty, #gummybear, #tiktokfood, #chocolate"
-  - username: "_the_one_above_all_"
+    hashtags: "#vibes, #watermelon, #food, #miamibeach"
+  - username: "mayitakeabite"
     fullname: >-
-      The One Above All
+      May
     bio: >-
-      Follow me for my shitty videos. Tik tok is ass. Face reveal at 1M
+      I like food Follow me on IG @mayitakeabite
     location: "United States"
-    followers: 16600
-    engagement: 1718
-    commentsToLikes: 0.048185
-    id: ckb9h2xkg6ct90j23ij19mt93
+    followers: 3869
+    engagement: 384
+    commentsToLikes: 0.022863
+    id: ckbkop7lwiwam0j23jp84apsd
     verified: false
-    hashtags: "#help, #funny, #fun, #foryou"
+    hashtags: "#xyzbca, #miamifood, #food, #miami"
+  - username: "pyrexkidd"
+    fullname: >-
+      HOODBABBY
+    bio: >-
+      Yardie🇯🇲 If u find this page the tats are fake😩 sorry
+    location: "United States"
+    followers: 131900
+    engagement: 2261
+    commentsToLikes: 0.094511
+    id: ck8j6cwfm95h80j78ht3af71t
+    verified: false
+    hashtags: "#foryou, #jamaica, #jamaican, #westindian"
+  - username: "0401swizz"
+    fullname: >-
+      0401 Swizz
+    bio: >-
+      Click my IG & Check out my videos on YouTube‼️ Music on all Platforms🔥💫🎥
+    location: "United States"
+    followers: 49400
+    engagement: 546
+    commentsToLikes: 0.063938
+    id: ck9r543a1xzz10j7812prc41c
+    verified: false
+    hashtags: "#foryoupage, #4u, #goviral, #swizz"
+  - username: "nadiasingh_31"
+    fullname: >-
+      nadiasingh_31
+    bio: >-
+      🖤
+    location: "United States"
+    followers: 13400
+    engagement: 376
+    commentsToLikes: 0.024453
+    id: cka0vl7x8z0eg0i78vqugv3gs
+    verified: false
+    hashtags: "#workout, #foryou, #gym, #neverfitin"
+  - username: "jjennynguyenn"
+    fullname: >-
+      Jenny Nguyen
+    bio: >-
+      26 | atlanta capturing the finer things in life ✒️shop art & supplies below🖋
+    location: "United States"
+    followers: 1700000
+    engagement: 1645
+    commentsToLikes: 0.005743
+    id: ck8hk4ipmc90p0j78dq7ahh34
+    verified: false
+    hashtags: "#art, #foryoupage, #pointillism, #zodiac"
+  - username: "iamgeraldhuston"
+    fullname: >-
+      Gerald Huston
+    bio: >-
+      Follow Instagram Iamgeraldhuston Facebook Gerald Huston Youtube Gerald Huston
+    location: "United States"
+    followers: 304100
+    engagement: 896
+    commentsToLikes: 0.009981
+    id: cka61zz53xn1i0i780djar4go
+    verified: false
+    hashtags: "#repost, #nba, #bachelorready, #funny"
+  - username: "itskiraxo"
+    fullname: >-
+      Kira Skolnick
+    bio: >-
+      Probably over dressed. IG itskiraxo ✨
+    location: "United States"
+    followers: 3778
+    engagement: 723
+    commentsToLikes: 0.055515
+    id: ckd0t5hshj7c50j23y6oc22k9
+    verified: false
+    hashtags: "#fashion, #fyp, #travel, #pokeitout"
   - username: "mr.eats305"
     fullname: >-
-      Mr.Eats305
+      George | Mr.Eats305
     bio: >-
-      📸 IG = 76k ⤴️🍔 📍 Miami ☀️ | Original Content 🍪🍩 📩 George@MrEats305.com
+      📸 IG = 77K 🍔 📍 Miami ☀️ | Food, Hats, Sports, Cards 📩 George@MrEats305.com
     location: "United States"
-    followers: 61000
-    engagement: 1255
-    commentsToLikes: 0.024990
+    followers: 62100
+    engagement: 892
+    commentsToLikes: 0.063560
     id: ckac9y4iwgjif0i78p9r5l1l5
     verified: false
-    hashtags: "#foodies, #miami, #cookies, #dessert"
-  - username: "holyfitgym"
-    fullname: >-
-      holyfitgym
-    bio: >-
-      Latino, so I’m crazy Pranks My wife is hot Leave a prank idea in a comment
-    location: "United States"
-    followers: 57800
-    engagement: 460
-    commentsToLikes: 0.016894
-    id: ckc8gm4zbaz4w0j23hmuhkit0
-    verified: false
-    hashtags: "#funny, #dog, #prank, #monkey"
-  - username: "don_oj"
-    fullname: >-
-      OMARJ
-    bio: >-
-      I hate when people steal my food Based in Miami
-    location: "United States"
-    followers: 2116
-    engagement: 299
-    commentsToLikes: 0.083083
-    id: ckb9l8brndoop0j23iaququ58
-    verified: false
-    hashtags: "#foryou, #miami, #love, #fyp"
-  - username: "itsmarcobitches"
-    fullname: >-
-      MARCO
-    bio: >-
-      The Indisputable Queen 🏆 IG: itsmarcobitches
-    location: "United States"
-    followers: 5130
-    engagement: 1625
-    commentsToLikes: 0.079395
-    id: ckcdydnhtgl270j23iyhsibej
-    verified: false
-    hashtags: "#fun, #trump, #tiktok, #follow"
-  - username: "noesharose"
-    fullname: >-
-      noesharose
-    bio: >-
-      RAPPER 🎶 IG: @NoeshaRose F L O R 🌴D A ⬇️ Listen to my music! ⬇️ ♥️
-    location: "United States"
-    followers: 4075
-    engagement: 424
-    commentsToLikes: 0.063359
-    id: ck9vbcb07milo0j78jrv34hhc
-    verified: false
-    hashtags: "#rap, #fyp, #foryou, #rappergirl"
-  - username: "glaysonleroy"
-    fullname: >-
-      Glayson The Curator
-    bio: >-
-      Curator of large murals. Galera Collective!!! Co producer of Wynwood Mural Fest
-    location: "United States"
-    followers: 15000
-    engagement: 941
-    commentsToLikes: 0.171847
-    id: ckbl5uroj3eaz0j23f99f3oqw
-    verified: false
-    hashtags: "#artbasel, #2020, #305, #wynwoodmuralfest"
-  - username: "_diane_0193"
-    fullname: >-
-      _diane_0193
-    bio: >-
-      Travel Addict✈️ Wanderlust 🌎 Bird Mom🐦🐥🦜 Food🍫Wine Lover🍷 Miami🌴🇨🇺🇺🇸
-    location: "United States"
-    followers: 22400
-    engagement: 511
-    commentsToLikes: 0.015840
-    id: ck90xzaxi8on10j78bc55qz7i
-    verified: false
-    hashtags: "#fyp, #summerlove, #miami, #theweekndexp"
+    hashtags: "#miamifood, #foodies, #yum, #keylimepie"
 ---

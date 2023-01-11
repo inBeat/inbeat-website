@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Cali In 2022
+title: Top 10 Fitness Instagram Influencers In Cali In 2023
 description: >-
-  Find top fitness Instagram influencers in Cali in 2022. Most popular hashtags: #colombia #cali #fitness #zumba.
+  Find top fitness Instagram influencers in Cali in 2023. Most popular hashtags: #fitness #cali #colombia #fitnessmotivation.
 platform: Instagram
-hits: 49
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 49 Instagram influencers like this in Cali, Colombia for you to collaborate.
+hits: 39
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 39 Instagram influencers like this in Cali, Colombia for you to connect with.
 profiles:
+  - username: "andresfcampo17"
+    fullname: >-
+      Andrés Felipe Campo
+    bio: >-
+      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2022 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
+    location: "Colombia"
+    followers: 12054
+    engagement: 285
+    commentsToLikes: 0.013618
+    id: ck8t2thc40nbr0j78tuw0uud0
+    verified: false
+    hashtags: "#pictureoftheday, #popay, #skating, #mentesmillonarias"
+  - username: "swkeviin"
+    fullname: >-
+      kevin Uribe
+    bio: >-
+      🇨🇴🏆 🇬🇹🏆 🇦🇪🏆
+    location: "Colombia"
+    followers: 21848
+    engagement: 382
+    commentsToLikes: 0.023589
+    id: ck602h1wdhdk00i142zma5859
+    verified: false
+    hashtags: "#fitness, #workout, #calist, #workoutmotivation"
+  - username: "josemiofficial"
+    fullname: >-
+      José Miguel Abreu
+    bio: >-
+      📍Cali, Colombia 🇨🇴 Embajador @coldentalclinicaodontologica Influencer @megaplexstars Coach @dominicanfit_calico
+    location: "Colombia"
+    followers: 59948
+    engagement: 230
+    commentsToLikes: 0.018670
+    id: ckap4tqg58u4s0i785q0shcrj
+    verified: false
+    hashtags: "#colombia, #beach, #muscle, #gymlover"
   - username: "isabellacubillos"
     fullname: >-
       ISABELLA CUBILLOS
     bio: >-
       Founder @symmetric.sportswear ⚡️ Cali, Colombia Fitness / Workouts / Lifestyle
     location: "Colombia"
-    followers: 57746
-    engagement: 184
-    commentsToLikes: 0.043571
+    followers: 96205
+    engagement: 159
+    commentsToLikes: 0.023262
     id: ck8t6makke3v20j78m7phwtob
     verified: false
-    hashtags: "#lifestyle, #selfie, #cardiohiit, #fitnessjourney"
-  - username: "brigituks"
+    hashtags: "#fitnessmotivation, #cardiohiit, #ootd, #fitness"
+  - username: "calicolfit"
     fullname: >-
-      ☆ Brigita Maldutytė ☆ ♊️
+      LUZ MARINA GARCIA A 🐼🦄
     bio: >-
-      ѕтυ∂єит / ℓιтнυαиιαимσ∂єℓ _ #supermodels.lt 👠 📍 Medellín, Colombia 🇨🇴 with @iamincover
+      FITNNES Lifestyle 🏋️‍♀️ FOOD👩‍🍳 Abogada 🧑‍⚖️ Mom👩‍👦 Ceo @level_upsport @fitnesspointcali ambassador Distribuidora @bodyrock_fitness
     location: "Colombia"
-    followers: 10814
-    engagement: 357
-    commentsToLikes: 0.039354
-    id: ck0ude8giiy7a0i19zhg7dm27
+    followers: 43808
+    engagement: 85
+    commentsToLikes: 0.048433
+    id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#sabaneta, #friday, #nature, #happy"
-  - username: "danielgarciazumba"
+    hashtags: "#home, #workout, #cale, #legs"
+  - username: "danielgarciaofficial_"
     fullname: >-
-      Daniel García
+      Daniel García
     bio: >-
-      🚨 SIGUEME EN @brothers_twinz 🚨 • Zumba® Instructor 🌎 • International Zumba® Fitness Presenter • ZIN Member™ • Cali, Colombia 🇨🇴
+      🚨 SÍGUEME EN @brothers_twinz 🚨 • Cali, Colombia🇨🇴 • Zumba® Fitness Instructor🌍 • International Zumba® Fitness Presenter🌐 ⬇️ALL OUR VIRTUAL CLASSES⬇️
     location: "Colombia"
-    followers: 4788
-    engagement: 875
-    commentsToLikes: 0.080545
+    followers: 5649
+    engagement: 736
+    commentsToLikes: 0.028325
     id: ckaoydj2uh26b0i78rq2ifuxo
     verified: false
-    hashtags: "#cali, #colombia, #zumbawear, #zumba"
-  - username: "fabioarboleda"
-    fullname: >-
-      FABIO ARBOLEDA L⚡️
-    bio: >-
-      Cuenta Oficial 🥋Jiu-Jitsu Brasilero Competidor Faixa Marrom 𝐃esafio 𝟐𝟎𝟏𝟗⚡️🧡 Abogado Esp. D Administrativo Caleño
-    location: "Colombia"
-    followers: 34275
-    engagement: 314
-    commentsToLikes: 0.035510
-    id: ck6tuwi1jithm0j71puf9ijn1
-    verified: false
-    hashtags: "#tbt, #bodyweightworkout, #workout, #brazilianjiujitsu"
-  - username: "brothers_twinz"
-    fullname: >-
-      Daniel & Nicolás García
-    bio: >-
-      • Zumba® Fitness Instructors 🌍 • International Zumba® Fitness Presenters 🌐 • ZIN Members™ • Cali, Colombia 🇨🇴 #brotherstwinz #zumbatwinz #LOSDUROS
-    location: "Colombia"
-    followers: 55672
-    engagement: 503
-    commentsToLikes: 0.033359
-    id: ck1396l5rjsdw0i19u7nha11g
-    verified: false
-    hashtags: "#rumbaysalud, #zumba, #zumbatwinz, #zumbacali"
+    hashtags: "#newyork, #nieve, #zumba, #zumbawear"
   - username: "jonamontoyazumba"
     fullname: >-
       Jonathan Montoya
     bio: >-
       “Dreams Come True”🙏🏻 •@zumba Fitness Instructor •International Zumba Fitness Presenter🌎 ✈️ •ZIN Member •Cali Colombia🇨🇴 •Professional Salsa dancer🕺🏼
     location: "Colombia"
-    followers: 13357
-    engagement: 674
-    commentsToLikes: 0.063292
+    followers: 17759
+    engagement: 519
+    commentsToLikes: 0.054934
     id: ck1396johjs550i19eksedc0q
     verified: false
-    hashtags: "#salsacale, #instagood, #colombiapresente, #zumbafitness"
-  - username: "claudiaariasoficial"
+    hashtags: "#dreamscometrue, #baila, #instalike, #motivate"
+  - username: "brothers_twinz"
     fullname: >-
-      Claudia Arias
+      Daniel & Nicolás García
     bio: >-
-      #communitymanager #productora #audiovisual #presentadora y #locutor De @siguemetv Lcda.Administración de Empresas Contrataciones
+      • Zumba® Fitness Instructors 🌍 • International Zumba® Fitness Presenters 🌐 • ZIN Members™ • Cali, Colombia 🇨🇴 #brotherstwinz #zumbatwinz #LOSDUROS
     location: "Colombia"
-    followers: 6501
-    engagement: 1050
-    commentsToLikes: 0.119800
-    id: ck9wey9bymeeq0j78xcue3ftv
+    followers: 82800
+    engagement: 768
+    commentsToLikes: 0.026447
+    id: ck1396l5rjsdw0i19u7nha11g
     verified: false
-    hashtags: "#felices, #costarica, #uruguay, #septiembre"
-  - username: "mabelkremer"
+    hashtags: "#zumbawear, #bailarparasanar, #team, #zumbatwins"
+  - username: "ombligudo"
     fullname: >-
-      Mabel Kremer
+      🐯 Mario Francisco 🌀🔥
     bio: >-
-      Periodista y TV Host @telepacifico @camaracolombia Mamá 💕Bugueña 💃🏻 Coleccionista de Historias 📖 #Storyteller Management ✉️ @maracuyaagencia
+      Cali-Colombia Sólo porque alguien tropiece o pierda el camino no significa que lo haya perdido para siempre 🔑♐️ FACEBOOK 👇🏾👇🏾
     location: "Colombia"
-    followers: 21023
-    engagement: 193
-    commentsToLikes: 0.103464
-    id: ckap3ktsj3fem0i78j0enantu
+    followers: 115805
+    engagement: 201
+    commentsToLikes: 0.145057
+    id: ck5ch4d3mq33q0i11gbddobga
     verified: false
-    hashtags: "#noticias, #amorincondicional, #mamafeliz, #amorpropio"
-  - username: "alejandrocubillan1"
+    hashtags: "#mujeres, #hazlotuyo, #cali, #ombligudo"
+  - username: "marianelamodel"
     fullname: >-
-      𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐂𝐮𝐛𝐢𝐥𝐥𝐚𝐧
+      MARIANELA | PRESENTADORA
     bio: >-
-      🔥Hola amigos Espero disfruten mis fotos y videos 😅 🐦Twitter: alejandrocubi1 👇🏻Suscribete a mi canal en youtube 🖤👇🏻
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 30572
-    engagement: 194
-    commentsToLikes: 0.036411
-    id: ckap422qo5i610i788gmyh0c1
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#boys, #gayboy, #chicos, #piscina"
-  - username: "david_artpe"
-    fullname: >-
-      David Peñalver Art
-    bio: >-
-      Studygram/ Letras Bonitas “Que todo lo que respire alabe a Dios" Usa mi hashtag #David_artp Suscríbete a mi canal de YouTube:💖
-    location: "Colombia"
-    followers: 25229
-    engagement: 1006
-    commentsToLikes: 0.375321
-    id: ck6tny43sb1al0j712gnsb9rm
-    verified: false
-    hashtags: "#apunteslindos, #studynotes, #brushlettering, #letteringnewbie"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
 ---

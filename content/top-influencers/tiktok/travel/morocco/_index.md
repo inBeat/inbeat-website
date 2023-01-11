@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Morocco In 2022
+title: Top 10 Travel TikTok Influencers In Morocco In 2023
 description: >-
-  Find top travel TikTok influencers in Morocco in 2022. Most popular hashtags: #travel #fyp #love #morocco.
+  Find top travel TikTok influencers in Morocco in 2023. Most popular hashtags: #travel #maroc #fyp #morocco.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Morocco for you to pitch.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 12 TikTok influencers like this in Morocco for you to collaborate.
 profiles:
-  - username: "ttebysb"
+  - username: "sujithbhakthan"
     fullname: >-
       Tech Travel Eat
     bio: >-
-      Travel Influencer, Wanderer and Travel Blogger 
+      Travel Influencer, Food Lover and a Passionate Driver
     location: "Morocco"
-    followers: 40651
-    engagement: 749
-    commentsToLikes: 0.005644
+    followers: 58600
+    engagement: 616
+    commentsToLikes: 0.007072
     id: ck9numbewnty80j78es3g8m8p
     verified: false
-    hashtags: "#inbtrip, #techtraveleat, #travel, #food"
-  - username: "marrakechbestof"
+    hashtags: "#techtraveleat, #travel, #withme, #kerala"
+  - username: "kapildoorkapersad"
     fullname: >-
-      Marrakech Best Of
+      Kapil Doorkapersadh
     bio: >-
-      Dream, plan and book the best of Marrakech 💛 Follow on IG : @marrakechbestof
+      🇿🇦South African married to a Moroccan & living in Maroc...this is my story🇲🇦
     location: "Morocco"
-    followers: 22700
-    engagement: 751
-    commentsToLikes: 0.013799
-    id: ckb9t80owr3h80j238s0krivb
+    followers: 12900
+    engagement: 494
+    commentsToLikes: 0.096908
+    id: ckbfal3bf25z30j23wg316r3x
     verified: false
-    hashtags: "#foryoupage, #marrakech, #pourtoi, #timetravel"
+    hashtags: "#maroc, #travel, #foryoupage, #fyp"
   - username: "kids.board.maroc"
     fullname: >-
       kids.board.maroc
     bio: >-
       Tableaux d’activités sensorielles et motricité fine 🧠👁👂🤚
     location: "Morocco"
-    followers: 100000
-    engagement: 946
-    commentsToLikes: 0.005035
+    followers: 101800
+    engagement: 981
+    commentsToLikes: 0.005189
     id: ckdssao2pp8lb0j23sn25zbd4
     verified: false
-    hashtags: "#lebanon, #challenge, #momlife, #coronavirus"
+    hashtags: "#baby, #mom, #amour, #bebe"
+  - username: "marrakechbestof"
+    fullname: >-
+      Marrakech Best Of
+    bio: >-
+      Dream, plan and book the best of Marrakech 💛 Follow on IG : @marrakechbestof
+    location: "Morocco"
+    followers: 22600
+    engagement: 728
+    commentsToLikes: 0.013441
+    id: ckb9t80owr3h80j238s0krivb
+    verified: false
+    hashtags: "#love, #luxury, #tiktoktravel, #travelchallenge"
   - username: "moroccantravelguide"
     fullname: >-
       Moroccan Travel Guide
     bio: >-
-      M O R ☀️ C C O المغرب كيفما كنبغيوه Proudly Arab / Amazigh 🤚🏻🤚🏼🤚🏽🤚🏾🤚🏿
+      M O R ☀️ C C O 🤚🏻🤚🏼🤚🏽🤚🏾🤚🏿
     location: "Morocco"
-    followers: 10500
-    engagement: 1215
-    commentsToLikes: 0.030391
+    followers: 14200
+    engagement: 1017
+    commentsToLikes: 0.016607
     id: ckai12d3ra1u90i786zcxjfft
     verified: false
-    hashtags: ""
-  - username: "abdell_ezzaitouni23"
+    hashtags: "#maroc, #marruecos, #wanderlust, #travel"
+  - username: "medsif"
     fullname: >-
-      Abdell Ezzaitouni
+      Sif
     bio: >-
-      20k ❤️😉?? 📍 morocco 🇲🇦🇩🇿 💎23y.o 😎 "We never grow,👤 we only learn 🤷‍♂️?
+      All of them stars have a reason 🇲🇦
     location: "Morocco"
-    followers: 14100
-    engagement: 1185
-    commentsToLikes: 0.063601
-    id: ck9k4ygiqukn90j78rn2s38gy
+    followers: 7537
+    engagement: 1310
+    commentsToLikes: 0.061310
+    id: ckbfaubyn2lg70j23681raipr
     verified: false
-    hashtags: "#pourtoi, #travel, #bee"
+    hashtags: "#trend, #explore, #ksa, #foryou"
   - username: "aimadmassarii"
     fullname: >-
       Aimad Massar II
     bio: >-
       moroccan model Instagram: @aimadmassar.officiel fb : aimad massar II
     location: "Morocco"
-    followers: 13200
-    engagement: 449
-    commentsToLikes: 0.044122
+    followers: 13000
+    engagement: 452
+    commentsToLikes: 0.045086
     id: ckbwc7p5l0whr0j23rnbtldkq
     verified: false
-    hashtags: "#russiachallenge, #fashion, #love, #fashionblogger"
-  - username: "ms_laven"
-    fullname: >-
-      Kristina
-    bio: >-
-      Canadian teacher, living in Morocco! 🇨🇦 —>🇲🇦 IG: ms_laven | BLM
-    location: "Morocco"
-    followers: 25000
-    engagement: 1243
-    commentsToLikes: 0.033942
-    id: ckcuog6wzifxn0j23lwhb7kzf
-    verified: false
-    hashtags: "#foryoupage, #fyp, #casablanca, #teachersoftiktok"
-  - username: "_who.r.u_"
-    fullname: >-
-      𝓢𝓸𝓯𝓲𝓪 🌿
-    bio: >-
-      𝙱𝚎 𝚙𝚊𝚝𝚒𝚎𝚗𝚝 𝚠/ 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. 𝚈𝚘𝚞’𝚛𝚎 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚝:)
-    location: "Morocco"
-    followers: 130500
-    engagement: 1334
-    commentsToLikes: 0.011264
-    id: ckacqfry20jix0i78tetzvl13
-    verified: false
-    hashtags: "#foryou, #sadquotes, #fyp, #pourtoi"
+    hashtags: "#love, #russia, #fashionblogger, #fashion"
   - username: "abdlahtalibiacro"
     fullname: >-
       A B d e a l l a H
     bio: >-
       
     location: "Morocco"
-    followers: 83600
-    engagement: 477
-    commentsToLikes: 0.008648
+    followers: 84200
+    engagement: 655
+    commentsToLikes: 0.025131
     id: ck83z9p60yyj20j78ujg3sp5u
     verified: false
-    hashtags: "#morocco, #switzerland, #austria, #acro"
-  - username: "hichammasrar"
+    hashtags: "#instagram, #switzerland, #thailand, #cambodia"
+  - username: "brahimecharqy"
     fullname: >-
-      Hicham Masrar
+      BrahimEcharqy
     bio: >-
-      
+      Switched to Reels on Instagram (cool) Contact: brahimechcharqy@gmail.com
     location: "Morocco"
-    followers: 193000
-    engagement: 532
-    commentsToLikes: 0.014797
-    id: ckb9lpq8ree7q0j23f774jv10
+    followers: 405200
+    engagement: 785
+    commentsToLikes: 0.015261
+    id: ck83z9nakyxz40j78kxfhs8q5
     verified: false
-    hashtags: "#sport, #maroco, #style, #addiction"
+    hashtags: "#maroc, #morocco, #brahimecharqy, #timelapse"
+  - username: "olaladn"
+    fullname: >-
+      Olala 🌸
+    bio: >-
+      insta : la_bruune__ Married 💍
+    location: "Morocco"
+    followers: 8312
+    engagement: 301
+    commentsToLikes: 0.006811
+    id: ck9bzabq1nmn30j785gp3pcro
+    verified: false
+    hashtags: "#love, #challenge, #challange, #fory"
 ---

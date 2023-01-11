@@ -1,72 +1,36 @@
 ---
-title: Top 10 Painters Instagram Influencers In Poland In 2022
+title: Top 10 Painters Instagram Influencers In Poland In 2023
 description: >-
-  Find top painters Instagram influencers in Poland in 2022. Most popular hashtags: #artlovers #abstractpainting #painting #painter.
+  Find top painters Instagram influencers in Poland in 2023. Most popular hashtags: #art #painter #painting #portrait.
 platform: Instagram
-hits: 192
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 192 Instagram influencers like this in Poland for you to contact.
+hits: 201
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat has 201 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "stylish_katarinka"
+  - username: "kajaakarina"
     fullname: >-
-      Katarinka
+      kajaakarina
     bio: >-
-      👸 #Lawyer & #MSc of Environmental protection👩‍🎓#Fashion 👠 #Painter👩‍🎨 #guitar🎸 #Wife💍 ❤️ #Polish & #Croatian 😊
+      Art Lover / painter @kajaartka collab 👉🏼 DM: kajaartka@gmail.com MANAGEMENT - SGH ECONOMICS - transport&logistics UG 🗣🇬🇧🇩🇪🇵🇱 🎵🖤🎤 photomodel
     location: "Poland"
-    followers: 77005
-    engagement: 146
-    commentsToLikes: 0.097154
-    id: ck9wdvwj2hi4a0j78lpqxzyns
+    followers: 14654
+    engagement: 241
+    commentsToLikes: 0.072170
+    id: ck8t33clb1ozk0j786mt54bke
     verified: false
-    hashtags: "#influencer, #thermline, #balkangirl, #animalprint"
-  - username: "agnieszka.nienartowicz"
-    fullname: >-
-      Agnieszka Nienartowicz artist
-    bio: >-
-      Artist, painter
-    location: "Poland"
-    followers: 8960
-    engagement: 775
-    commentsToLikes: 0.021076
-    id: ck5zuaz8120tn0i14qjvv3gni
-    verified: false
-    hashtags: "#realisticart, #raphaelsantiago, #immaculata, #oilpaintingoncanvas"
+    hashtags: "#warszawa, #paint, #mamaisyn, #warsaw"
   - username: "scene_of_anamack"
     fullname: >-
       Anna Maćkowiak
     bio: >-
       Polish self-taught painter 🇵🇱 🎨 Passionate traveler 🗺 I see art as the liberation of mind; wide highway for imagination through aesthetic of life.
     location: "Poland"
-    followers: 3317
-    engagement: 1607
-    commentsToLikes: 0.138749
+    followers: 4582
+    engagement: 1375
+    commentsToLikes: 0.137532
     id: ckap9xjmotybv0i78dsnfnrni
     verified: false
-    hashtags: "#expressyourself, #artlovers, #paletteknife, #artlife"
-  - username: "darkyjane_fdtw"
-    fullname: >-
-      Jeanne
-    bio: >-
-      Painter / detailer @freedom.tw
-    location: "Poland"
-    followers: 5957
-    engagement: 1380
-    commentsToLikes: 0.013505
-    id: ck6u6zo4kimmj0j71h91p9m6h
-    verified: false
-    hashtags: "#eurogang, #vr6nation, #lifeonair, #volkswagenoriginals"
-  - username: "northernmoods"
-    fullname: >-
-      Anna Lechowicz
-    bio: >-
-      Polish girl, painter, dreamer, stargazer. Crystals and nature lover 🌌✨ DM me If you like anything 💙 *** 📩 lechowicz_anna(at)gazeta.pl
-    location: "Poland"
-    followers: 29706
-    engagement: 366
-    commentsToLikes: 0.038214
-    id: ck13884ejeyce0i1950bgx7xp
-    verified: false
-    hashtags: "#wanderlust, #rekodzielonacodzien, #epoxyresin, #stilllifepainting"
+    hashtags: "#abstract, #modernabstract, #expressyourself, #abstraktekunst"
   - username: "siodtw"
     fullname: >-
       SIOoD
@@ -78,53 +42,89 @@ profiles:
     commentsToLikes: 0.008435
     id: ckf5r2tzeb84y0j23it0gp6rt
     verified: false
-    hashtags: "#ilustration, #graphicdesign, #graphic, #sketchbook"
-  - username: "kajaakarina"
+    hashtags: "#ilustracja, #graphic, #sketch, #sketchbook"
+  - username: "victor_stadnichenko"
     fullname: >-
-      kajaakarina
+      Victor Stadnichenko
     bio: >-
-      🎨ART LOVER @kajaartka 🦁LEONE’S MOMMY 🎤SINGER🖤 👩🏼‍🎓MANAGEMENT SGH STUDENT 👩🏼‍🎓ECONOMICS - transport&logistics UG 🇦🇺🇩🇪🇵🇱 💃🏼MODEL - collab 👉🏼 DM/e-mail
+      #model & #blogger 📨 contact@stadnichenko.com #menswear #travel #photography #art Master of pan @royals_meals
     location: "Poland"
-    followers: 15720
-    engagement: 409
-    commentsToLikes: 0.053571
-    id: ck8t33clb1ozk0j786mt54bke
-    verified: false
-    hashtags: "#abstract, #photooftheday, #tshirtart, #portraitphotography"
-  - username: "j.lozinski_photography"
-    fullname: >-
-      Julian Łoziński
-    bio: >-
-      Amateur Wildlife Photographer from Poland Herbivore🦕🌱🥦 📷 Canon shooter We're all wild animals 🦊 If you're a hunter just GTFO... Pretty please 😉 🦆🌲🐺🦌
-    location: "Poland"
-    followers: 6674
-    engagement: 1272
-    commentsToLikes: 0.057787
-    id: ck6ugo2gu452b0j717c2xryey
-    verified: false
-    hashtags: "#birding, #forest, #elk, #goldenhourlight"
+    followers: 67723
+    engagement: 179
+    commentsToLikes: 0.040583
+    id: ck5heeybxsjzq0i11hc875hou
+    verified: true
+    hashtags: "#polishartist, #myworld, #model, #fashionblogger"
   - username: "sleepinglucifer"
     fullname: >-
       Ewelina Kowalczyk
     bio: >-
-      Don’t let that nice face fool you, I can turn evil. 🖤 tattoo account @hellish_ink 🖤 lifestyle @devilishwaifu
+      I’m very clingy I make tattoos at @hellish_ink I’m shy at @devilishwaifu My brushes, Twitter & YouTube channel:
     location: "Poland"
-    followers: 38220
-    engagement: 1274
-    commentsToLikes: 0.011066
+    followers: 46103
+    engagement: 1039
+    commentsToLikes: 0.009645
     id: ckap4fmyw761r0i78l610tg56
     verified: false
-    hashtags: ""
-  - username: "azartgroup"
+    hashtags: "#digitaldrawing, #digitalpaint, #semirealism, #arts"
+  - username: "julciajedrzejec"
     fullname: >-
-      Mandala Artist Andrii Zinchuk
+      julcia
     bio: >-
-      🕸Mandala education channel 🕺Art coach/teacher 🕵Psychologist 🎨MandalaSchool 📮hrzinchuk@gmail.com Online courses and info👇👇👇
+      ♏️🧚🏻‍♀️🌸🧁🤍
     location: "Poland"
-    followers: 173587
-    engagement: 55
-    commentsToLikes: 0.017628
-    id: ck5hjlktmgu9a0i11ekz90xat
+    followers: 11205
+    engagement: 906
+    commentsToLikes: 0.020116
+    id: ck6tssqyy6n5u0j71l6zbyjxv
     verified: false
-    hashtags: "#stayhome, #mandalalove, #lineart, #zendoodle"
+    hashtags: "#bookstagram, #julciapresets, #studygrampolska, #polskadziewczyna"
+  - username: "radekswiatkowski"
+    fullname: >-
+      Radek Świątkowski
+    bio: >-
+      Photographer & Cosmos Enthusiast
+    location: "Poland"
+    followers: 13457
+    engagement: 782
+    commentsToLikes: 0.022430
+    id: ck0w3cbz6sok30i19nib391r2
+    verified: false
+    hashtags: "#blackandwhite, #monaco, #daylight, #itiswhatitis"
+  - username: "nefka_color_show"
+    fullname: >-
+      🌞🇴
+    bio: >-
+      💙💜❤💚💛 Gouache 💚⚡💚 Coloredpencils / comish animal portraits📒📥
+    location: "Poland"
+    followers: 10329
+    engagement: 744
+    commentsToLikes: 0.041589
+    id: ckap5cx9mb4030i78tjd16fyo
+    verified: false
+    hashtags: "#wildlifedrawing, #instadraw, #gouachepainting, #watercolorsketch"
+  - username: "painted.corpse"
+    fullname: >-
+      Dominika Lipowa
+    bio: >-
+      📍Leszno 🇵🇱 PL 💄MUA 💌 PR & collaboration: painted.corpse@gmail.com #makijaż #makeup #makeuplover
+    location: "Poland"
+    followers: 15089
+    engagement: 663
+    commentsToLikes: 0.073036
+    id: ck13909w1iw9l0i193zifh1yo
+    verified: false
+    hashtags: "#abhprsearch, #dailymakeup, #makeuplover, #jeffreestarcosmetics"
+  - username: "_gelcoco"
+    fullname: >-
+      gelcoco
+    bio: >-
+      gel polish hand painted nail art 👩🏽‍🎨 DM for info | currently all booked (No New Clients) 📍Las Piedras, PR 🇵🇷 | @dlizbeautylounge
+    location: "Poland"
+    followers: 36804
+    engagement: 496
+    commentsToLikes: 0.033832
+    id: ck15radqz6ya10i19k4cz1btz
+    verified: false
+    hashtags: "#complex, #nailsmagazine, #instanails, #nailpro"
 ---

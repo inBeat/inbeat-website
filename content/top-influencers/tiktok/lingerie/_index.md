@@ -1,24 +1,36 @@
 ---
-title: Top 10 Lingerie TikTok Influencers In 2022
+title: Top 10 Lingerie TikTok Influencers In 2023
 description: >-
-  Find top lingerie TikTok influencers in 2022. Most popular hashtags: #fyp #lingerie #foryou #foryoupage.
+  Find top lingerie TikTok influencers in 2023. Most popular hashtags: #fyp #lingerie #foryou #foryoupage.
 platform: TikTok
-hits: 55
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 55 TikTok influencers like this for you to collaborate.
+hits: 91
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 91 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "u.surve200"
+    fullname: >-
+      Elizabeth j
+    bio: >-
+      I AM SWIMSUITS & LINGERIES MODEL, SO SOMETIME I AM NOT ACTIVE ON TIKTOK!!!!!
+    location: "United Kingdom"
+    followers: 539600
+    engagement: 982
+    commentsToLikes: 0.055512
+    id: ckadc38tnpvmo0i78f6maryzh
+    verified: false
+    hashtags: "#foryoupage, #viral, #fype, #foryou"
   - username: "daitavaress"
     fullname: >-
       Daiane Tavares
     bio: >-
-      lingerie lover | @dajomodaintima
+      CEO 😇 @dajomodaintima 🌶 @sexyloungedajo motorcycle & lingerie lover
     location: "Brazil"
-    followers: 2920
-    engagement: 523
-    commentsToLikes: 0.015485
+    followers: 3083
+    engagement: 510
+    commentsToLikes: 0.013568
     id: ckd0v848pk1540j239xipxnjg
     verified: false
-    hashtags: "#fashion, #outfit, #style, #fy"
+    hashtags: "#foryoupage, #fy, #fyp, #foryou"
   - username: "cloviaofficial"
     fullname: >-
       Clovia Official 
@@ -26,105 +38,93 @@ profiles:
       Official page for Clovia, premium lingerie brand. Check out www.clovia.com
     location: "India"
     followers: 15600
-    engagement: 304
-    commentsToLikes: 0.028451
+    engagement: 387
+    commentsToLikes: 0.020107
     id: ckbaj6n2ra8lk0j236l6yegil
     verified: false
-    hashtags: "#happyismysuperpower, #yogachallenge, #foryou, #dresstobed"
-  - username: "eroticfuneral"
-    fullname: >-
-      Hollie
-    bio: >-
-      Liverpool U.K / Tattooer / Lingerie addict ADHD brought me here
-    location: "United Kingdom"
-    followers: 24600
-    engagement: 761
-    commentsToLikes: 0.016233
-    id: ckc80eflz1sw70j23mi1qgw8z
-    verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #splittongue"
+    hashtags: "#clovia, #trending, #tiktok, #funny"
   - username: "madisonxalexandra"
     fullname: >-
       madisonxalexandra
     bio: >-
-      Artist 🎤 | Lingerie/Swim Model 👙 l Harvard grad 🎓
+      Lingerie model | Harvard grad | Siren 🍒⚔️🖤
     location: "United States"
-    followers: 3096
-    engagement: 1134
-    commentsToLikes: 0.063243
+    followers: 605200
+    engagement: 1315
+    commentsToLikes: 0.011051
     id: ckcurr028ju4x0j234klivlic
     verified: false
-    hashtags: "#yougotit, #curlyhaircheck, #wearamask, #bodyconfident"
-  - username: "topnatural"
+    hashtags: "#cupsize, #braschool, #brafitting, #brasize"
+  - username: "daria.koso.photo"
     fullname: >-
-      topnatural
+      DARIA KOSO | photo
     bio: >-
-      Youtuber 💕 | Actress 👑| Model 💋 @topnaturalbeauty
+      Fashion Photographer 📷 Miami 📍 IG: @daria.koso.photo YouTube: Daria Koso
     location: "United States"
-    followers: 96000
-    engagement: 1692
-    commentsToLikes: 0.023936
-    id: ckdbrg98wc50r0j238qor19o8
+    followers: 291500
+    engagement: 640
+    commentsToLikes: 0.034667
+    id: ckbwinvlt3d860j23r32z8was
     verified: false
-    hashtags: "#makeup, #martinandgina, #rnbvibes, #thecoldestwater"
+    hashtags: "#foryoupage, #posing, #bts, #fyp"
+  - username: "lg.bri.t"
+    fullname: >-
+      lg🅑🅡🅘tq
+    bio: >-
+      19 BLM LGBTQIA+ Biromantic & Homosexual
+    location: "United States"
+    followers: 31300
+    engagement: 1879
+    commentsToLikes: 0.025081
+    id: ckfo4zzp61k3g0j23jjn87kjg
+    verified: false
+    hashtags: "#lingerie, #fyp, #gay, #lesbian"
+  - username: "maeiiza"
+    fullname: >-
+      Cristina Yang
+    bio: >-
+      if only you wanted me the way I want you
+    location: "United States"
+    followers: 263200
+    engagement: 1607
+    commentsToLikes: 0.020305
+    id: ck9m0z1xackdo0j78wqma3l4f
+    verified: false
+    hashtags: "#lgbt, #lingerie, #comedy, #fyp"
   - username: "azstripperwear"
     fullname: >-
       AZstripperwear
     bio: >-
       Shop at my Esty Page.
     location: "United States"
-    followers: 8505
-    engagement: 1844
-    commentsToLikes: 0.008406
+    followers: 17900
+    engagement: 1508
+    commentsToLikes: 0.007102
     id: ckc8afy9i76wb0j236kh1359v
     verified: false
-    hashtags: "#obsessedwithit, #ravewear, #exotic, #sewing"
-  - username: "mathildejourdan16"
+    hashtags: "#exotic, #dance, #dancewear, #az"
+  - username: "scarlettshenanigans"
     fullname: >-
-      mathildejourdan16
+      Crystal Angel
     bio: >-
-      Sport Pole Dance 💪 Nutrition Instagram: @mathilde_jdn_
-    location: "France"
-    followers: 33900
-    engagement: 1420
-    commentsToLikes: 0.008782
-    id: ckc1ucv73ykvv0j23f101yqd9
+      Living TikTok to the fullest.😉 18+ Only
+    location: "Australia"
+    followers: 5855
+    engagement: 516
+    commentsToLikes: 0.081038
+    id: ck90022d29x4y0j783o596ws3
     verified: false
-    hashtags: "#souplesse, #poledance, #lingerie, #acroyoga"
-  - username: "arsvivendigermany"
+    hashtags: "#naughtyandnice, #makeup, #1minuteworkout, #famous"
+  - username: "ms.tabbytabs"
     fullname: >-
-      www.Ars-Vivendi.de
+      Tabs 💬
     bio: >-
-      Fashion for Passion! Onlineshop Germany
-    location: "Germany"
-    followers: 3193
-    engagement: 366
-    commentsToLikes: 0.013042
-    id: ck8hpb3hkysc20j78yb6rbjij
-    verified: false
-    hashtags: "#nylonstockings, #lingerie, #stockings, #stockingslegs"
-  - username: "mynameisjaeh"
-    fullname: >-
-      Jae
-    bio: >-
-      Not kid friendly 🏳️‍🌈 Started an OF for the 18+ viewers ⬇️
-    location: "Canada"
-    followers: 73200
-    engagement: 2048
-    commentsToLikes: 0.050734
-    id: ckce499sxjgrq0j23wm535cg9
-    verified: false
-    hashtags: "#witchtok, #highschool, #toronto, #fyp"
-  - username: "abbyj130"
-    fullname: >-
-      Abby Jim
-    bio: >-
-      Hiiiiiiiiiiiiiiiiiiiiiii 🧚🏼‍♀️
+      5’10 w/ 🍑 RDH 🦷 Ringcard girl 🥊 Bottle Service Girl 🍾 🔞 link on IG
     location: "United States"
-    followers: 4897
-    engagement: 1044
-    commentsToLikes: 0.076151
-    id: ckdntwooymb8a0j23d52ot197
+    followers: 46100
+    engagement: 556
+    commentsToLikes: 0.077216
+    id: ck9gld55xnpuc0j784c991e5s
     verified: false
-    hashtags: "#dracotok, #hogwarts, #cottagecore, #fyp"
+    hashtags: "#bottlegirl, #michigancheck, #perfectmatch, #bussit"
 ---

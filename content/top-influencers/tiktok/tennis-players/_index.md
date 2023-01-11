@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tennis Players TikTok Influencers In 2022
+title: Top 10 Tennis Players TikTok Influencers In 2023
 description: >-
-  Find top tennis players TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #tennis #sport.
+  Find top tennis players TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #tennis #tabletennis.
 platform: TikTok
-hits: 33
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 33 TikTok influencers like this for you to collaborate.
+hits: 42
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 42 TikTok influencers like this for you to pitch.
 profiles:
   - username: "dayana_yastremska"
     fullname: >-
       Dayana Yastremska🐯
     bio: >-
-      Professional tennis player🎾 From 🇺🇦Премьера моего трека «Любимый трек, D.Y“
+      Professional tennis player🎾 From 🇺🇦 Мой трек «Любимый трек, D.Y“
     location: "Ukraine"
-    followers: 5266
-    engagement: 898
-    commentsToLikes: 0.053380
+    followers: 7617
+    engagement: 854
+    commentsToLikes: 0.042895
     id: ckan2sr0c1xgn0i78xni0nd3l
     verified: false
-    hashtags: "#tiktok, #friends, #foru, #dy"
+    hashtags: "#foru, #tiktok, #foryou, #dy"
   - username: "eliasymer"
     fullname: >-
       Eli
     bio: >-
-      Ayayay Welcome ☺️😃 🇪🇹🇸🇪 Just for fun Tennis player🎾 🎾
+      Ayayay Welcome ☺️😃 🇪🇹🇸🇪 Instagram @eliasymer Tennis player🎾 🎾
     location: "Sweden"
-    followers: 9745
-    engagement: 609
-    commentsToLikes: 0.045981
+    followers: 9879
+    engagement: 451
+    commentsToLikes: 0.042406
     id: ckbffn10hajzb0j23h055mf45
     verified: false
-    hashtags: "#habesha, #nike, #fyp, #tennis"
+    hashtags: "#sweden, #2021, #australia, #tennis"
   - username: "yanismoundir"
     fullname: >-
       Yanis Moundir
     bio: >-
-      Luzern🇨🇭| 18 Call me Daniil Tennis player🐐
+      Luzern🇨🇭| 18 Call me Daniil Tennis / Player😎
     location: "Switzerland"
-    followers: 11700
-    engagement: 1169
-    commentsToLikes: 0.016122
+    followers: 14900
+    engagement: 1338
+    commentsToLikes: 0.018441
     id: ckb9d6mio08mw0j23x0ew4io3
     verified: false
-    hashtags: "#foryou, #smirk, #foryoupage, #germany"
+    hashtags: "#joke, #anime, #fyp, #ps4"
   - username: "thepinggonggirl"
     fullname: >-
       Soo Yeon Lee
     bio: >-
       I’m a professional table tennis player 🏓 / Model
     location: "United States"
-    followers: 3983
-    engagement: 201
-    commentsToLikes: 0.016847
+    followers: 5309
+    engagement: 183
+    commentsToLikes: 0.022921
     id: cka0xdexv6mfy0i78pf8l7wql
     verified: false
-    hashtags: "#sport, #foryou, #playathome, #pingponggirl"
+    hashtags: "#pingponggirl, #foryou, #skill, #tabletennis"
+  - username: "melih.srshn"
+    fullname: >-
+      Melih Sarışahin
+    bio: >-
+      Table Tennis Player 🏓 👇YOUTUBE CHANNEL👇
+    location: "Turkey"
+    followers: 42600
+    engagement: 616
+    commentsToLikes: 0.009403
+    id: ckac6scekebjp0i78d6wjpqqr
+    verified: false
+    hashtags: "#ke, #beni, #foryoupage, #tabletennis"
   - username: "la7tika"
     fullname: >-
       消しゴム
     bio: >-
       Insta:_la7tika_🇧🇬 Basketball player ⛹️ Tennis player🎾 14yearsold/Mamba4life
     location: "Bulgaria"
-    followers: 8003
-    engagement: 1072
-    commentsToLikes: 0.007980
+    followers: 7964
+    engagement: 910
+    commentsToLikes: 0.006183
     id: ckbqeq9sq0ict0j23y5juisog
     verified: false
-    hashtags: "#fyp, #foryourpage, #bulgaria, #foryou"
+    hashtags: "#fyp, #viral, #bulgaria, #foryou"
   - username: "senyaaaaa13"
     fullname: >-
       SenYas
     bio: >-
       ❗️FOLLOW ME❗️ 🎾PRO TENNIS PLAYER🎾 TARGET - 10.000
     location: "Ukraine"
-    followers: 8601
-    engagement: 375
-    commentsToLikes: 0.027623
+    followers: 8388
+    engagement: 392
+    commentsToLikes: 0.025807
     id: ckan3e5yx4rur0i787sgvrq6v
     verified: false
-    hashtags: "#tennis, #fyp, #nike, #tiktok"
+    hashtags: "#nike, #tennis, #fyp, #mycar"
   - username: "teddylauno"
     fullname: >-
       Teddy Launo
     bio: >-
-      French Tennis Player insta @tedlauno
+      Tennis Player insta @tedlauno
     location: "France"
-    followers: 48600
-    engagement: 690
-    commentsToLikes: 0.017729
+    followers: 48000
+    engagement: 709
+    commentsToLikes: 0.023124
     id: ckbqtonmaebbb0j23daevmxbl
     verified: false
-    hashtags: "#fyp, #pourtoi, #foryou, #tennis"
+    hashtags: "#pourtoi, #foryou, #fyp, #tennis"
   - username: "abdelrahmanmasuod7"
     fullname: >-
       Abdelrahman Masuod
     bio: >-
       Professional table tennis player ♥️🏓
     location: "Egypt"
-    followers: 7359
-    engagement: 214
-    commentsToLikes: 0.015087
+    followers: 7271
+    engagement: 215
+    commentsToLikes: 0.014570
     id: ck977btmd3ngs0j78h987j0x0
     verified: false
-    hashtags: "#tabletennis, #supernova7i, #trainingchallenge, #tiktot"
-  - username: "spiretennis"
+    hashtags: "#tabletennis, #champion, #supernova7i, #trainingchallenge"
+  - username: "tennis_by_redrackets"
     fullname: >-
-      Tennis
+      Red Rackets - Tennis
     bio: >-
-      Hey, I'm Fabian and this is SpireTennis! Your home of Tennis Highlights. Enjoy!
-    location: "Switzerland"
-    followers: 15000
-    engagement: 425
-    commentsToLikes: 0.015327
-    id: ckc34kzsrtwv90j23trbfx76r
+      🥎VIDEOS MÁS TOP DE TENIS🥎 🏆Habilidades🏆😂Risoterapia🤣 🎾Jugadores ATP🎾
+    location: "Spain"
+    followers: 56100
+    engagement: 451
+    commentsToLikes: 0.003091
+    id: cka0xl8ol7lh90i78uccr1ptd
     verified: false
-    hashtags: "#tennis, #tennisplayer, #federer, #kyrgios"
-  - username: "trctube"
-    fullname: >-
-      TRCtube
-    bio: >-
-      Road to 15000✅✅✅ Subscribe! Daily posts active😇
-    location: "Russia"
-    followers: 14800
-    engagement: 408
-    commentsToLikes: 0.009163
-    id: ck977bseb3n4m0j78da0dexhs
-    verified: false
-    hashtags: "#ping, #slowmoking, #slowmotion, #slowzao"
+    hashtags: "#tennis, #atptour, #habilidad, #lifestyle"
 ---

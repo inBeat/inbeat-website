@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2022
+title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in United Kingdom in 2022. Most popular hashtags: #gymlife #bodybuilding #fitness #motivation.
+  Find top bodybuilding Instagram influencers in United Kingdom in 2023. Most popular hashtags: #bodybuilding #fitness #fit #workout.
 platform: Instagram
-hits: 185
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 185 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 116
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 116 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "marc__hector"
-    fullname: >-
-      Marc Hector - IFBB PRO
-    bio: >-
-      2018 Amateur ⭕️lympia Overall Bodybuilding Champion🇬🇧🗡 🔴Online coach 🌍 🔴@eazyegguk Marc10 🔴Team @abdullah_fs_alotaibi 🔴BSc(Hons)Sports Science
-    location: "United Kingdom"
-    followers: 39256
-    engagement: 757
-    commentsToLikes: 0.040512
-    id: ck5zua4hg1z1i0i14ida9l2nt
-    verified: false
-    hashtags: "#thebritishgrandprix"
-  - username: "strebornad"
-    fullname: >-
-      Daniel Roberts
-    bio: >-
-      The stories of a boy named Dan 📸💁🏻‍♂️ 🧠 Neuroscientist | 🏋🏻‍♂️ Bodybuilding 🇬🇧 London ☺️🌈 Smile | Be happy 🥳
-    location: "United Kingdom"
-    followers: 24060
-    engagement: 2477
-    commentsToLikes: 0.028531
-    id: ckap1eozru9yc0i78b5g3s8kf
-    verified: false
-    hashtags: "#gayginger, #gaystagram, #musclebear, #gaymen"
   - username: "marco_dgo"
     fullname: >-
       Marco DaSquatto
     bio: >-
-      28y.o | 193cm - 115kg | 6ft4 - 255lbs 🏋️ Bodybuilding Enthusiast 🛫 World Traveller 🏉 Rugby Fanatic 📈 Strategy Analyst 👨🏼‍🎓 MSc in Mgmt Graduate
+      29y.o | 193cm - 115kg | 6ft4 - 255lbs 🏋️ Bodybuilding Enthusiast 🛫 World Traveller 🏉 Rugby Fanatic 📈 Strategy Analyst 👨🏼‍🎓 MSc in Mgmt Graduate
     location: "United Kingdom"
-    followers: 14415
-    engagement: 324
-    commentsToLikes: 0.054365
+    followers: 14088
+    engagement: 316
+    commentsToLikes: 0.060028
     id: ck5he2verqr3i0i11babd5lzs
     verified: false
-    hashtags: "#brothers, #noneedtoflexfriday, #dollypartonmemechallenge, #wisdomwednesday"
-  - username: "keaton_fit"
+    hashtags: "#throwbackthursday, #homeworkout, #rowtillyougrow, #stayathome"
+  - username: "shellyfit_ifbbpro"
     fullname: >-
-      K E A T O N   D O N N E L L Y
+      𝐈𝐅𝐁𝐁 𝐏𝐑𝐎 𝐌𝐈𝐂𝐇𝐄𝐋𝐋𝐄 𝐌𝐄𝐍𝐒𝐀𝐇🇬🇧🇬🇭
     bio: >-
-      20 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow/Stirling 🎓 Bodybuilding
+      👉🏾Helping you get that dream body|👩🏾‍💻Online Coach ⭕️lympia|5th|’22’ 🏆Arnold Classic UK PRO Fitness Champ 🌎@coached_by_shelly_fit 💥HIT MY LINK👇🏾💥
     location: "United Kingdom"
-    followers: 6861
-    engagement: 448
-    commentsToLikes: 0.059749
-    id: ckaos1g2qpq4f0i78dbwenfsq
+    followers: 42093
+    engagement: 708
+    commentsToLikes: 0.067887
+    id: ckf5rif2hcs370j23q1m82xzb
     verified: false
-    hashtags: ""
-  - username: "itsmattlucas"
+    hashtags: "#training, #gymlegday, #arnoldbodybuilding, #healthylifestyle"
+  - username: "kd_fitnesscoach"
     fullname: >-
-      MATT LUCAS
+      KRISTIE SANDERSON | ONLINE COACH | IFBB PRO
     bio: >-
-      🇮🇪 Ireland Natural Bodybuilding & some Music Production "Falling For You (inPhase Remix)" out now:
+      💪Online Fitness Coach 👩🏼‍💼Marketing Specialist 💗Content Creator
     location: "United Kingdom"
-    followers: 28727
-    engagement: 157
-    commentsToLikes: 0.023316
-    id: ck8t1okk5wg890j78z34h9n01
+    followers: 39631
+    engagement: 222
+    commentsToLikes: 0.029064
+    id: ck0w657lb6ybw0i1924p9rkxc
     verified: false
-    hashtags: "#naturalbodybuilding, #covid19, #lockdown, #squintymcdrunkeyes"
+    hashtags: "#musclechicks, #stayhealthy, #bodybuilder, #fitnessmotivation"
   - username: "jade.marie.wadman"
     fullname: >-
       Jade Marie Wadman ✨
     bio: >-
-      • ￼Brighton • Owner of Stars Gymnastics Club 🌟 • Gym girl 🏋🏻‍♀️ Equestrian￼ 🏇🏻 ￼
+      • ￼Brighton 📍 • Owner of Stars Gymnastics Club 🌟 • Gym girl 🏋🏻‍♀️ DM for collaborations 💌 • Equestrian￼ 🏇🏻 ￼
     location: "United Kingdom"
-    followers: 10380
-    engagement: 1570
-    commentsToLikes: 0.223700
+    followers: 12221
+    engagement: 1125
+    commentsToLikes: 0.174992
     id: ck6uh4bbv6wye0j71vrdlo1zc
     verified: false
-    hashtags: "#woods, #gym, #fitfam, #outfitoftheday"
-  - username: "here.is.h"
+    hashtags: "#curvygirl, #instafitness, #curves, #healthylifestyle"
+  - username: "amranamariaa"
     fullname: >-
-      H Opris
+      
     bio: >-
-      📍 London 🇬🇧 Menswear | Fitness | Travel
+      Only good vibes and good vibes only ✖️Empowering people every day. YOU CAN! ✖️Certified personal trainer 📍 LDN
     location: "United Kingdom"
-    followers: 21440
-    engagement: 1450
-    commentsToLikes: 0.056170
-    id: ckaov49if2zdm0i78mi44mj2t
+    followers: 8328
+    engagement: 146
+    commentsToLikes: 0.082457
+    id: ck8tdi34c3ed60j78931mv32h
     verified: false
-    hashtags: "#mensfashion, #upperbody, #workoutmotivation, #menshairstyle"
-  - username: "ciarafits"
+    hashtags: "#fashionblogger, #woman, #photo, #latina"
+  - username: "bigcradds23"
     fullname: >-
-      ciara
+      LEWIS C
     bio: >-
-      🤍 fit tips + workouts | fitness instructor 🦋 @myproteinuk 37% off code: CIARA 🤍 @hexxeeofficial: CIARA20 🦋↓myprotein link below!↓
+      Kent - UK📍 Model - Fashion | Fitness | lifestyle @efectivnutri - BIGCRADDS40 DM for enquiries 📨
     location: "United Kingdom"
-    followers: 62339
-    engagement: 498
-    commentsToLikes: 0.055731
-    id: ck6tvawgal6a50j7140s0ccpu
+    followers: 39563
+    engagement: 250
+    commentsToLikes: 0.083515
+    id: ck8td0fmv1eia0j78w2fyx43n
     verified: false
-    hashtags: "#girlswholift, #legday, #makinggains, #dyescrunchclub"
-  - username: "lippers01"
+    hashtags: "#menswear, #gymjunkie, #motivated, #pumped"
+  - username: "samfitnessgram"
     fullname: >-
-      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🖤
+      Sam Potter 🇬🇧
     bio: >-
-      #mumma #girlsupport Hertfordshire 🏡 🇬🇧 Joey 👶🏼💙 DM / 📧 for collaboration (Discount codes in highlights) ‘𝓛𝓲𝓿𝓲𝓷𝓰 𝓲𝓷 𝓽𝓱𝓮 𝓶𝓸𝓶𝓮𝓷𝓽’
+      Essex. 📍 Team GB 🇬🇧 Enquires - DM📬 @sampotterfitness My Journey to @mrolympiallc
     location: "United Kingdom"
-    followers: 13784
-    engagement: 808
-    commentsToLikes: 0.511895
-    id: ck6tlsytd6l160j71fswhqfjb
+    followers: 116192
+    engagement: 176
+    commentsToLikes: 0.077042
+    id: ck5zpb1jksc1m0i14sc6vw18x
     verified: false
-    hashtags: "#gym, #cosy, #igdaily, #motivation"
-  - username: "sc_figure"
+    hashtags: "#bodybuilder, #fitness, #mensfitness, #gymmotivation"
+  - username: "nicholasc_budd"
     fullname: >-
-      Sarah Cowin
+      Nicholas
     bio: >-
-      🙋🏻‍♀️Fun, Fitness & Food ✨ 📍Sheffield 🇬🇧 🤓Physio | Online Coach | Account Mgmt
+      🇿🇦📍London, UK 26 | British Champion 🥇🏆 Qualified PT & NHS Frontline 🚨
     location: "United Kingdom"
-    followers: 6334
-    engagement: 961
-    commentsToLikes: 0.311762
-    id: ckapcimrv3yne0i78op3a32bh
+    followers: 23596
+    engagement: 1915
+    commentsToLikes: 0.016976
+    id: ckap5fkz7bgft0i78zxb417sh
     verified: false
-    hashtags: "#selfconfidence, #motivation, #musclebuilding, #balancedlife"
+    hashtags: "#abs, #eliabeach, #beach, #bodybuilding"
+  - username: "md.fitness6"
+    fullname: >-
+      MD
+    bio: >-
+      PT, Natural Bodybuilder 🇹🇷🇬🇧 '16 BRITISH NOVICE 5TH 🏆 '17 HEART OF ENGLAND LW CHAMPION🏆🥇 '18 BRITISH LW 3RD 🏆 #GOATGYMWEAR
+    location: "United Kingdom"
+    followers: 9497
+    engagement: 501
+    commentsToLikes: 0.217742
+    id: ckf5mpjs0uwha0j233ijrubrj
+    verified: false
+    hashtags: "#inspiration, #positivevibes, #positivity, #nature"
+  - username: "paigemawdsley"
+    fullname: >-
+      Paige Marie Mawdsley
+    bio: >-
+      @paige_fitt🍑 Essex/Norwich 📍 UEA 📚 Student Paediatric Nurse 👩🏼‍⚕️
+    location: "United Kingdom"
+    followers: 9894
+    engagement: 1183
+    commentsToLikes: 0.024061
+    id: ckap0z82usg3k0i7843ibr88r
+    verified: false
+    hashtags: "#fit, #train, #fitness, #workout"
 ---

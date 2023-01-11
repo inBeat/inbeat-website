@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In Canada In 2022
+title: Top 10 Illustrators TikTok Influencers In Canada In 2023
 description: >-
-  Find top illustrators TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #art #artist #illustration.
+  Find top illustrators TikTok influencers in Canada in 2023. Most popular hashtags: #artist #art #drawing #fyp.
 platform: TikTok
-hits: 12
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 12 TikTok influencers like this in Canada for you to contact.
+hits: 11
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 11 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "artbyjill"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       freelance illustrator/visual artist
     location: "Canada"
-    followers: 15600
-    engagement: 1426
-    commentsToLikes: 0.041898
+    followers: 17400
+    engagement: 1532
+    commentsToLikes: 0.053371
     id: ckb9hf6a176r60j23j7symdt9
     verified: false
-    hashtags: "#emo, #fyp, #artistsoftiktok, #art"
+    hashtags: "#foryou, #artistsoftiktok, #fyp, #tattooflash"
+  - username: "epicdoodlenerd"
+    fullname: >-
+      EpicDoodleNerd
+    bio: >-
+      Aspiring Illustrator waterlolours, touch-five markers, LYRA pencils Clip-Studio
+    location: "Canada"
+    followers: 28100
+    engagement: 2233
+    commentsToLikes: 0.019520
+    id: ckbr6cixvlus70j23zz99xfej
+    verified: false
+    hashtags: "#weeb, #animeart, #art, #fanart"
   - username: "solkius"
     fullname: >-
       solkius
     bio: >-
       Illustrator and artist from somewhere in Canada ✒️ Insta: @solkius
     location: "Canada"
-    followers: 11200
-    engagement: 1848
-    commentsToLikes: 0.030987
+    followers: 12300
+    engagement: 1851
+    commentsToLikes: 0.029011
     id: ck8f7uybx38tf0j78l7jjethm
     verified: false
-    hashtags: "#artclub, #fyp, #artchallenge, #drawingchallenge"
-  - username: "dhubbardeart"
+    hashtags: "#darkart, #artsy, #illustration, #drawingchallenge"
+  - username: "hubbzart"
     fullname: >-
       HUBBZ
     bio: >-
-      18 | Canadian illustrator Follow me on Instagram: @dhubbardeart ⬇️Online Store⬇️
+      18 | Canadian illustrator Instagram: @hubbzart
     location: "Canada"
-    followers: 73500
-    engagement: 1389
-    commentsToLikes: 0.018908
+    followers: 76700
+    engagement: 1549
+    commentsToLikes: 0.014257
     id: ckd07g3leaqjr0j235n3nqfl0
     verified: false
-    hashtags: "#creative, #rap, #pencil, #tiktokartist"
+    hashtags: "#painting, #pencil, #hiphop, #rap"
   - username: "chanteii_"
     fullname: >-
       chanteii
     bio: >-
-      🇨🇦 • Illustrator • 22yo I really like cats ฅ^•ﻌ•^ฅ
+      🇨🇦 • Illustrator • 23yo I really like cats ฅ^•ﻌ•^ฅ
     location: "Canada"
-    followers: 21300
-    engagement: 2270
-    commentsToLikes: 0.016226
+    followers: 36500
+    engagement: 2164
+    commentsToLikes: 0.016469
     id: ck9ffgpixxas30j78yxyakrs9
     verified: false
-    hashtags: "#shopsmall, #drawing, #artist, #packingorders"
-  - username: "twitch_sachyfishy"
+    hashtags: "#shopsmall, #artist, #winx, #enamelpins"
+  - username: "dopechief"
     fullname: >-
-      Twitch_sachyfishy
+      Dope Chief
     bio: >-
-      Follow me on twitch SachyFishy 😃 I stream on twitch eveyday 4-5pm time usa ❤️
+      How to Artist 🇨🇦
     location: "Canada"
-    followers: 12100
-    engagement: 1992
-    commentsToLikes: 0.089416
-    id: ckdnv1cbjo1c90j23giqslivi
+    followers: 43800
+    engagement: 1742
+    commentsToLikes: 0.049686
+    id: ck8qhxhw16vyc0j780b52kb8v
     verified: false
-    hashtags: "#arts, #instaart, #nu6es, #the100dayproject"
+    hashtags: "#dopeart, #howtoartist, #nftart, #creating"
+  - username: "stevestoncreative"
+    fullname: >-
+      Steveston Creative 
+    bio: >-
+      ⚡️ LED Neon & CNC 📍Vancouver ✏️ Email for quote 📧 info@stevestoncreative.com
+    location: "Canada"
+    followers: 84700
+    engagement: 684
+    commentsToLikes: 0.088539
+    id: ck81q4n5rfwrj0j78bqny15bs
+    verified: false
+    hashtags: "#smallbusiness, #neontwin, #led, #leds"
   - username: "pauljacksonlives"
     fullname: >-
       Paul Jackson
     bio: >-
       🤖...I am an art ist...
     location: "Canada"
-    followers: 56400
-    engagement: 602
-    commentsToLikes: 0.011890
+    followers: 59200
+    engagement: 1026
+    commentsToLikes: 0.017947
     id: ck806wkh1mlho0j78vmx6xika
     verified: false
-    hashtags: "#illustration, #fineliner, #wip, #drawing"
+    hashtags: "#ink, #wip, #artist, #detail"
   - username: "komalminhas_"
     fullname: >-
       Komal Minhas
     bio: >-
       Resilience Educator Follow on IG for more ☝🏽 Yes, that’s me & Michelle Obama 😱
     location: "Canada"
-    followers: 26900
-    engagement: 446
-    commentsToLikes: 0.018557
+    followers: 26500
+    engagement: 469
+    commentsToLikes: 0.023092
     id: ck92uyvb7oawq0j788pz2qwg5
     verified: false
-    hashtags: "#mentalhealth, #mentalhealthmatters, #kamalaharris, #foryoupage"
-  - username: "janinedesigns"
-    fullname: >-
-      Janine Heinrichs
-    bio: >-
-      Behind the scenes of designing posters. IG for all of my posters! Prints below ↓
-    location: "Canada"
-    followers: 97600
-    engagement: 850
-    commentsToLikes: 0.008661
-    id: ckcdncuv4aon80j23qnnp57oo
-    verified: false
-    hashtags: "#art, #foryoupage, #photoshop, #poster"
+    hashtags: "#selfcare, #kamalaharris, #selflove, #mentalhealth"
   - username: "gothpizzachefhat"
     fullname: >-
       Not Bridget
     bio: >-
       Anishinaabe ✌🏼 Just out here learnin’ and talkin’ bout stuff
     location: "Canada"
-    followers: 12400
-    engagement: 2177
-    commentsToLikes: 0.057838
+    followers: 22700
+    engagement: 2333
+    commentsToLikes: 0.049457
     id: ckd6wm4qlsjo00j23mjo7ar07
     verified: false
-    hashtags: "#fyp, #indigenous, #booklovers, #greenscreen"
-  - username: "birduyen_"
-    fullname: >-
-      T
-    bio: >-
-      IG 🌿 @birduyen NEXT RESTOCK: late November
-    location: "Canada"
-    followers: 22100
-    engagement: 1906
-    commentsToLikes: 0.016690
-    id: ckdtacze0uies0j23z82a0viv
-    verified: false
-    hashtags: "#shopsmall, #art, #watercolor, #illustration"
+    hashtags: "#nativetiktok, #indigenous, #fyp, #library"
 ---

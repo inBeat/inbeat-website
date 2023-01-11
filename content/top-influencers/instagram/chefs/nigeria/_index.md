@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Nigeria In 2022
+title: Top 10 Chefs Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top chefs Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #endpolicebrutality #endswat.
+  Find top chefs Instagram influencers in Nigeria in 2023. Most popular hashtags: #love #nigeria #endsars.
 platform: Instagram
-hits: 19
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 19 Instagram influencers like this in Nigeria for you to work with.
+hits: 11
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 11 Instagram influencers like this in Nigeria for you to contact.
 profiles:
   - username: "realsophy"
     fullname: >-
       SHADES OF SOPHIA ♉️
     bio: >-
-      👩‍🍳Chef @tastewithsophy ✈️Tourist 👻Real_sophy Twitter: Realsophy
+      👩‍🍳Chef @tastewithsophy Twitter: Realsophy Snapchat: Real_sophy
     location: "Nigeria"
-    followers: 72133
-    engagement: 616
-    commentsToLikes: 0.079455
+    followers: 96019
+    engagement: 738
+    commentsToLikes: 0.104403
     id: ck5hrhn71uw9s0i11uinjrqi5
     verified: false
-    hashtags: "#video, #wig, #realsophy, #africa"
-  - username: "alex_ifunaya"
+    hashtags: "#nomakeup, #brandinfluencer, #thursday, #nigeria"
+  - username: "missnduati"
     fullname: >-
-      Ifunaya Ahavah🇳🇬🇮🇱
+      Tracy Nduati
     bio: >-
-      •Medic |Chef |Real Estate •M.D @ahavahs_homes •Glo Ambassador •Shop @parispurplebeauty •Prov 31:30 •🐦-@alex_ifunaya
+      Reigning MISS KENYA PLUS WORLD Private Chef Commercial Plus Size Model God Fearing CEO@misstskitchenke Proud BBW ambassador
     location: "Nigeria"
-    followers: 7966
-    engagement: 926
-    commentsToLikes: 0.084375
-    id: ck8syqnjzlmw90j78ta6hba8z
+    followers: 8240
+    engagement: 506
+    commentsToLikes: 0.021151
+    id: ck8t8k8tdks3n0j78gzxrdnqs
     verified: false
-    hashtags: "#exploremore, #lifestyle, #makeup, #photography"
-  - username: "ogemodebelu"
-    fullname: >-
-      Oge Modebelu
-    bio: >-
-      Pastry Chef running @thecreatecompanyng
-    location: "Nigeria"
-    followers: 5462
-    engagement: 648
-    commentsToLikes: 0.068631
-    id: ck15rtm9p9n290i19be6n4km9
-    verified: false
-    hashtags: "#enterprisestories, #sarsmustend, #nigeria, #iwd2020"
-  - username: "chef_muse"
-    fullname: >-
-      Chef Muse
-    bio: >-
-      Cuisine Addict | Private Chef|Food Stylist| Consultant. Chef Instructor @Reddishchronicles #RDCAlumni | thechefmuse@gmail.com FCT Abuja, Nigeria
-    location: "Nigeria"
-    followers: 16079
-    engagement: 392
-    commentsToLikes: 0.074865
-    id: ckap6y1d3huaa0i78ytftxqy9
-    verified: false
-    hashtags: "#killerchef, #wearerdc, #abuja, #nigeriamustbegreatagain"
+    hashtags: "#love, #misst, #queen, #forevertrendybabe"
   - username: "ikemeamara"
     fullname: >-
       Amara🌹
     bio: >-
-      GREATNESS🇳🇬 EXTROVERT 🥰 HALA MADRID!⚽️ BRAND AMBASSADOR @marymic_organic_skincare_spa BRAND INFLUENCER! Chef 👩‍🍳
+      GREATNESS🇳🇬♎️ GOD IS THE GREATEST✊🏿 HALA MADRID!⚽️ EXTROVERT ☺️ BRAND AMBASSADOR @marymic_organic_skincare_spa BRAND INFLUENCER! Chef 👩‍🍳
     location: "Nigeria"
-    followers: 77397
-    engagement: 341
-    commentsToLikes: 0.049548
+    followers: 78307
+    engagement: 259
+    commentsToLikes: 0.039140
     id: ck14lr89lw3aq0i19jrobt85w
     verified: false
-    hashtags: "#endswat, #endeverything, #endsars, #endpolicebrutality"
+    hashtags: "#donutsinnaraari, #pave2021"
   - username: "nappygirl_dani"
     fullname: >-
       Daniella Napoleon
     bio: >-
       Genius. Rapper *Beautician* Chef 👩🏽‍🍳 Creative director 🎬 For bookings lumberjackent@yahoo.com www.daniellanapoleon.com Business @delphinebeautyworld
     location: "Nigeria"
-    followers: 25648
-    engagement: 681
-    commentsToLikes: 0.029321
+    followers: 33915
+    engagement: 535
+    commentsToLikes: 0.017049
     id: ck5c4qpag1w8u0i11c3xbzrlg
     verified: true
-    hashtags: "#endsars, #endpolicebrutality, #dannyskitchenshow, #naijameals"
-  - username: "modernafricankitchen"
+    hashtags: "#bbl808, #endsars, #endpolicebrutality, #reformnigeria"
+  - username: "ogemodebelu"
     fullname: >-
-      Modern African Kitchen
+      Ogechukwu Modebelu
     bio: >-
-      Chef’s page @hildahelson Proud Nigerian 🇳🇬 I love to cook and try new recipes 🍝 You can order if you are in north Cyprus🤗
+      Pastry Chef running @thecreatecompanyng
     location: "Nigeria"
-    followers: 49412
-    engagement: 152
-    commentsToLikes: 0.029750
-    id: ck13cnr4119k20i19o4atl14v
+    followers: 5505
+    engagement: 682
+    commentsToLikes: 0.066546
+    id: ck15rtm9p9n290i19be6n4km9
     verified: false
-    hashtags: "#foodvendors, #nigerianstew, #bukkastew, #jollofriceandchicken"
-  - username: "thefatgirlwithin_"
+    hashtags: "#sarsmustend, #endsars, #nigeria, #enterprisestories"
+  - username: "mottieskitchen"
     fullname: >-
-      Chef• Food Stylist & Blogger🇳🇬
+      LAGOS FOOD VENDOR
     bio: >-
-      Chef 👨‍🍳 Food Blogger/Stylist/Photographer Content creator Instructor/Restaurant Consultant Private Chef Chef Nikki of @reddishchronicles
+      👨‍🍳 catering chef 👨‍🍳Event catering 👨‍🍳Bulk food orders 👨‍🍳Lunch packs 👨‍🍳Food tray 👨‍🍳private Chef 👨‍🍳24hrs on all orders ☎️ 08067143865
     location: "Nigeria"
-    followers: 8882
-    engagement: 651
-    commentsToLikes: 0.043484
-    id: ck5hrd6i2uo950i110h65tkbn
+    followers: 7813
+    engagement: 565
+    commentsToLikes: 0.026294
+    id: ckaosz9nxtoc50i78f5unv920
     verified: false
-    hashtags: "#thefatgirlwithin, #iphonephotography, #thefatgirlwithincooks, #thefatgirlwithineats"
-  - username: "pretty_tonia1_"
+    hashtags: "#lagosfoodvendor, #simvendors, #surprisedeliveryinlagos, #afternoonsales"
+  - username: "glamprince"
     fullname: >-
-      👻 @prettytonia1 🧿
+      snap/skype/twitter @glamprince
     bio: >-
-      FOUNDER @pt_cosmetics_ CHEF 👩‍🍳👩‍🍳 @t_kitchen_ DUBAI/LAGOS 💯💁🏼‍♀️🇦🇪💵 NO FACEBOOK BUSINESSES MINDED 💯👏 Negativity = Block🙅‍♀️
+      Personal Fashion Stylist,Chef And Dance Instructor
     location: "Nigeria"
-    followers: 69751
-    engagement: 76
-    commentsToLikes: 0.015615
-    id: ck5q80m0f3x0s0i11b42qnygg
+    followers: 2211
+    engagement: 1006
+    commentsToLikes: 0.159281
+    id: ck6tvg0z5m10k0j719qlnie68
     verified: false
-    hashtags: ""
-  - username: "thegenevievefadeh_"
+    hashtags: "#happychild, #positivevibes, #happymoments, #happynewmonth"
+  - username: "ifys.kitchen"
     fullname: >-
-      Tambary👩🏻‍🍳
+      Ify's Kitchen (KITCHEN QUEEN)⭐
     bio: >-
-      ExBeautyQueen Certified Chef Fashion Model Influencer Snapchat:Jenvie_01 B/P: @u_don_chop @healthy_tigernutdrink @cycleprologistics @ogoniwraps
+      Brand Ambassador for @mamadorng 🏆Award winning food blogger 📍 Instructor #cookwithify 📩 Ads/Biz - ifyskitchen1@gmail.com 📽 Learn to cook like a pro👇
     location: "Nigeria"
-    followers: 20961
-    engagement: 155
-    commentsToLikes: 0.057794
-    id: ck5byv8xhpwz60i117acn4y7h
+    followers: 581452
+    engagement: 71
+    commentsToLikes: 0.057919
+    id: ck13ay30csr050i1982459fz6
     verified: false
-    hashtags: "#that9jafoodie, #foodphotographer, #catererinlagos, #indomienigeria"
+    hashtags: "#foodblogger, #nigerianfoodblogger, #weightloss, #youtuber"
+  - username: "val.hilda"
+    fullname: >-
+      Titi ChopLife 💸🦩
+    bio: >-
+      |Psychologist |Brand Strategist |Foodie 🤡 I make people laugh sometimes 👸🏽 @thehungrylagosian @glamhqbyhilda @the_clearout_store Visit my blog👇🏽
+    location: "Nigeria"
+    followers: 20971
+    engagement: 553
+    commentsToLikes: 0.055654
+    id: ck5byqwvopnz10i11cyrhec8y
+    verified: false
+    hashtags: "#explorepage, #ootd, #reels, #blackgirlmagic"
+  - username: "oliveemodi"
+    fullname: >-
+      Olive Emodi
+    bio: >-
+      MC | TV Host | TV Producer | Actor | Fashion, Food and Travel Influencer | Lawyer | Jesus Baby Founder @theoliveemodinetwork 📧mgt.oliveemodi@gmail.com
+    location: "Nigeria"
+    followers: 72267
+    engagement: 125
+    commentsToLikes: 0.099756
+    id: ck5bv7cygj48n0i11awagfpxh
+    verified: true
+    hashtags: "#love, #beatingcorona, #nigeria, #oliveemodi"
 ---

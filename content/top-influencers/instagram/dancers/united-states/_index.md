@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers Instagram Influencers In United States In 2022
+title: Top 10 Dancers Instagram Influencers In United States In 2023
 description: >-
-  Find top dancers Instagram influencers in United States in 2022. Most popular hashtags: #dance #miami #dancer.
+  Find top dancers Instagram influencers in United States in 2023. Most popular hashtags: #dance #reels #throwback.
 platform: Instagram
-hits: 4259
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database holds 4259 Instagram influencers like this in United States for you to connect with.
+hits: 5220
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 5220 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "gigi.dancing"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       #vegan 🌱 #dancer 🕺🏽 TikTok: @gigi.dancing They call me Gigi😅
     location: "United States"
-    followers: 4570
-    engagement: 547
-    commentsToLikes: 0.078640
+    followers: 3961
+    engagement: 514
+    commentsToLikes: 0.093167
     id: ck6ubpvkhb0240j71bb0xfton
     verified: false
-    hashtags: "#match, #hollywood, #parties, #fun"
-  - username: "nickbencivengo"
+    hashtags: "#orlando, #latin, #bachata, #dancing"
+  - username: "alessandraferriofficial_"
     fullname: >-
-      nick
+      Alessandra Ferri
     bio: >-
-      dancer/actor tiktok- 3M contact- nickybencivengo@yahoo.com
+      Dancer
     location: "United States"
-    followers: 239929
-    engagement: 1925
-    commentsToLikes: 0.058259
-    id: ck5pvg2d3hpjx0i11axuz1i0b
-    verified: false
-    hashtags: "#explorepage"
-  - username: "thatsnajma"
-    fullname: >-
-      Najma Shy- “NAJ”
-    bio: >-
-      Booking: najmashy@gmail.com Model | Actress | Dancer ~ @twerktabata Loctician @styledbynaj 23 | 5’11 | ATL | ~live a colorful life, no excuses~
-    location: "United States"
-    followers: 9494
-    engagement: 1625
-    commentsToLikes: 0.077876
-    id: ck15tqdhijdql0i19dgoqlkv4
-    verified: false
-    hashtags: "#wcw, #fitnessgear, #supportblackbusinesses, #blackownedbusiness"
-  - username: "diarrasyllalofficiel"
-    fullname: >-
-      Diarra Sylla
-    bio: >-
-      Singer • Dancer • Model • 🇫🇷 •🇸🇳 Management: @zoozgroup
-    location: "United States"
-    followers: 2969318
-    engagement: 830
-    commentsToLikes: 0.039021
-    id: ck139si1ymwg20i19rv6jw3eo
+    followers: 44645
+    engagement: 729
+    commentsToLikes: 0.023055
+    id: ck8szjs31opwd0j78kibhu0yj
     verified: true
-    hashtags: ""
-  - username: "cocoquinn3"
+    hashtags: "#rolandpetit, #savethearts, #hamburgballet, #dontrushchallenge"
+  - username: "kiransolanki141"
     fullname: >-
-      Coco Quinn
+      Kiran Solanki
     bio: >-
-      ❥Singer/dancer/actress/model ❥Acct managed by Jeannie Quinn ❥Biz: Coco@baloghmanagement.com ❥Kati on Mani-Brat ❥SAG-E ❥MyYouTube👇🏻here. Subscribe❣️
+      Dancer
     location: "United States"
-    followers: 1657222
-    engagement: 792
-    commentsToLikes: 0.040653
-    id: ck0ud82abil870i19kicc3t0v
+    followers: 5411
+    engagement: 11641
+    commentsToLikes: 0.098547
+    id: ck15qjzxy37r10i19rpayvm1w
     verified: false
-    hashtags: "#lolsurprise, #remixmusicawards, #ad, #sweetyhighbeach"
-  - username: "_samueladrian_"
+    hashtags: "#featurethis, #featureme, #fingerprint, #arthome"
+  - username: "nicolelaeno"
     fullname: >-
-      sᴀᴍᴜᴇʟ ᴛᴏʀʀᴇs
+      Nicole Laeno
     bio: >-
-      utah 🏔 dancer x creator nbc world of dance season 2 ⤵️ use code “SamuelT20” @getbacknecklaces
+      dancer | youtuber | @nicolelaenoxx business: lindalaeno@yahoo.com VLOGMAS ‘22 MERCH ⤵️🎄
     location: "United States"
-    followers: 7322
-    engagement: 1731
-    commentsToLikes: 0.091074
-    id: ck8syxk0emeiq0j78khuhes5b
-    verified: false
-    hashtags: "#explore, #18thbirthday, #thelab, #youtube"
-  - username: "gella.el"
+    followers: 1703070
+    engagement: 822
+    commentsToLikes: 0.003498
+    id: ck0ttb3gq1xrs0i19jo59fsbj
+    verified: true
+    hashtags: "#dkspartner, #hichewreducedsugar, #hichewbetterforchew, #youdotyou"
+  - username: "baffmasta"
     fullname: >-
-      Τζέλλα Ελευθερίου
+      Baff
     bio: >-
-      𝓘𝓽’𝓼 𝓽𝓲𝓶𝓮 𝓽𝓸 𝓻𝓪𝓲𝓼𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓱𝓮𝓵𝓵🔥 •Full time dancer •Psychology, @uoa.gr_ •Greek/American 🇬🇷 🇺🇸
+      Actor | Entertainer | Dancer
     location: "United States"
-    followers: 22737
-    engagement: 1208
-    commentsToLikes: 0.102007
-    id: ckap274z8xo2q0i78m9qca04q
+    followers: 168537
+    engagement: 308
+    commentsToLikes: 0.034479
+    id: ck1399866k5fj0i19x27xf8va
     verified: false
-    hashtags: "#instaphoto, #instastyle, #style, #summer"
+    hashtags: "#ghana, #baffmasta, #clarence, #comedy"
+  - username: "dimitra_zachop"
+    fullname: >-
+      Dimitra Zachopoulou
+    bio: >-
+      Dione’s mom 👧 Former professional dancer💃🏼 Founder of #barreMethod®️byDimitra🩰 Owner #StudioBarre71#mypinkworld Ballet teacher🎀 Book worm 📚Art lover💫
+    location: "United States"
+    followers: 103982
+    engagement: 245
+    commentsToLikes: 0.053401
+    id: ck8t0bfmbrhun0j7879xkasky
+    verified: false
+    hashtags: "#ballet, #bandworkout, #healthylifestyle, #barreworkout"
+  - username: "shanudrie"
+    fullname: >-
+      Shanudrie Priyasad
+    bio: >-
+      Facebook : Shanudrie Priyasad Sri Lankan Actress | Singer | Dancer | YouTuber | Media Personal Founder @priya_by_shanudrie හතේ හත♥️👇🏼🎬
+    location: "United States"
+    followers: 1048630
+    engagement: 236
+    commentsToLikes: 0.013691
+    id: ck0w10wr0h0dk0i19dj9e2ji8
+    verified: false
+    hashtags: "#2023, #instagood, #instafashion, #ootn"
+  - username: "breekoegel"
+    fullname: >-
+      Bree Branker Koegel 💫
+    bio: >-
+      broadway dancer ➡️ fitness trainer & law school mom unc law • harvard | 1908
+    location: "United States"
+    followers: 24289
+    engagement: 305
+    commentsToLikes: 0.039169
+    id: ck15ssjbcelyc0i194o8yfz67
+    verified: false
+    hashtags: "#gthc, #grateful, #family, #jumpstarter"
+  - username: "alyssamarielowe"
+    fullname: >-
+      L Y S S 🦋🌙✨🌸🐚🌈🍄
+    bio: >-
+      A.S Tarot reader • 444 Multifaceted lightworker. A wild 90s goth💀🔮⛓🌌💜🌊 Writer, dancer, model, basshead. Give it all to the universe & trust ☽˚｡⋆
+    location: "United States"
+    followers: 6439
+    engagement: 613
+    commentsToLikes: 0.482424
+    id: ck55o76aa7s4f0i11g1sntfps
+    verified: false
+    hashtags: "#alterego, #writersofinstagram, #writer, #spiritualbeing"
   - username: "amelie.anstett"
     fullname: >-
       Amelie Anstett
     bio: >-
       livehappy:) mta/dtteam sadie on @brat chicken girls justinbieber @Purposetour dancer #TIGRL @tigerfriday #drewcrew @iafmentorship ejimoo:amelieanstett
     location: "United States"
-    followers: 55256
-    engagement: 969
-    commentsToLikes: 0.081307
+    followers: 109529
+    engagement: 670
+    commentsToLikes: 0.080095
     id: ckap93itpqzxt0i78xngyi8y2
     verified: false
-    hashtags: "#swipeforasurprise, #theoscars, #birthdaygirl, #beoriginal"
-  - username: "janvssa"
-    fullname: >-
-      janessa romero
-    bio: >-
-      4:4 makeup artist/dancer/choreographer s♡ @glambyjanvssa
-    location: "United States"
-    followers: 2221
-    engagement: 2543
-    commentsToLikes: 0.108170
-    id: ck5hdm07ro5tc0i11r81pvrq7
-    verified: false
-    hashtags: "#ylaplayapacuando, #futurelawyer"
-  - username: "stephycgonz"
-    fullname: >-
-      Stephanie Gonzalez
-    bio: >-
-      MIA 🌴☀️ FIU Alumni 👩🏼‍🎓 🐾 NBA Miami Heat Dancer 🔥🏀
-    location: "United States"
-    followers: 3194
-    engagement: 2316
-    commentsToLikes: 0.108419
-    id: ckap613yne0ds0i78r8pb7x8f
-    verified: false
-    hashtags: "#team, #dance, #meechmade, #theshowmustbepaused"
+    hashtags: "#reels, #siblings, #oscarweekend, #beoriginal"
 ---

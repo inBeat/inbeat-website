@@ -1,120 +1,108 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In 2022
+title: Top 10 Dog Owners TikTok Influencers In 2023
 description: >-
-  Find top dog owners TikTok influencers in 2022. Most popular hashtags: #fyp #dogsoftiktok #dogowner #dogs.
+  Find top dog owners TikTok influencers in 2023. Most popular hashtags: #dogsoftiktok #dogowner #fyp #dogs.
 platform: TikTok
-hits: 89
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 89 TikTok influencers like this for you to work with.
+hits: 105
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 105 TikTok influencers like this for you to contact.
 profiles:
   - username: "mattgeekpride"
     fullname: >-
       Matt Geary
     bio: >-
-      Owner of Geek Pride. Massive Nerd. Bear dog owner. Boromir_Tibetanmastiff (Insta
+      Founder of Geek Pride. Massive Nerd. Bear dog owner. Boromir_Tibetanmastiff
     location: "United Kingdom"
-    followers: 17500
-    engagement: 1313
-    commentsToLikes: 0.046818
+    followers: 103900
+    engagement: 915
+    commentsToLikes: 0.032320
     id: ckav27kvs8b9h0j230i5ypinh
     verified: false
-    hashtags: "#dogs, #dog, #tibetanmastiff, #lovedogs"
-  - username: "gottatrain"
-    fullname: >-
-      Gottatrain 
-    bio: >-
-      Here to help dog owners better communicate with their dogs @gottatrain
-    location: "United States"
-    followers: 609000
-    engagement: 757
-    commentsToLikes: 0.024801
-    id: ck92t6lnign1r0j78cf7uagph
-    verified: true
-    hashtags: "#stitch, #gottatrain, #fearfuldog, #fyp"
+    hashtags: "#dog, #dogs, #pets, #tibetanmastiff"
   - username: "ukn714"
     fullname: >-
       Unknown
     bio: >-
       Huntington Beach! Mexican 🇲🇽 Barber Dog owner: Kaia & kora 🐺🐺
     location: "United States"
-    followers: 2842
-    engagement: 690
-    commentsToLikes: 0.018645
+    followers: 2839
+    engagement: 685
+    commentsToLikes: 0.017756
     id: ckbl76alb4vpf0j23zi6sa1ha
     verified: false
-    hashtags: "#crusing, #crusin, #chicanoculture, #bags"
+    hashtags: "#chicanoculture, #lowriders, #crusin, #calivibes"
   - username: "levineatlarge"
     fullname: >-
       levineatlarge
     bio: >-
       West London. Dog owner. US/UK citizen. 🏳️‍🌈🇺🇸🇬🇧🇮🇱
     location: "United Kingdom"
-    followers: 13500
-    engagement: 1111
-    commentsToLikes: 0.090076
+    followers: 14100
+    engagement: 1001
+    commentsToLikes: 0.083943
     id: ckdsly1thnicm0j23ajyd34m0
     verified: false
-    hashtags: "#foryoupage, #foryourpage, #fyp, #over40"
-  - username: "andrejkalezic"
-    fullname: >-
-      Andrej Kalezic
-    bio: >-
-      www.kalezic.me Instagram : andrejkalezic 📲 Facebook : Andrej Kalezic 📲
-    location: "Montenegro"
-    followers: 3832
-    engagement: 243
-    commentsToLikes: 0.035390
-    id: ckc7l78e7s1gk0j23mhz559cn
-    verified: false
-    hashtags: "#spider, #audi, #f355, #krimovica"
+    hashtags: "#single, #over40, #fyp, #foryourpage"
   - username: "chef_nukka"
     fullname: >-
       Chef_nukka
     bio: >-
       Just a husky and its owner having fun 🖖🏻 Follow my INSTAGRAM 👆🏻
     location: "United States"
-    followers: 36600
-    engagement: 2073
-    commentsToLikes: 0.037026
+    followers: 36100
+    engagement: 2048
+    commentsToLikes: 0.032797
     id: ckb9husdy7nv00j233nyub3hx
     verified: false
-    hashtags: "#duet, #huskyowner, #husky, #fyp"
+    hashtags: "#tiktokdogs, #dogowner, #duet, #husky"
+  - username: "maslowthetrickcorgi"
+    fullname: >-
+      MaslowTheTrickCorgi
+    bio: >-
+      Get your own Maslow trick titles from Maslow’s University using the link below!!
+    location: "United States"
+    followers: 100100
+    engagement: 1405
+    commentsToLikes: 0.032111
+    id: ckauzeeoz4xyn0j23y35w4hgz
+    verified: false
+    hashtags: "#maslowthetrickcorgi, #dogsport, #dogowner, #corgisoftiktok"
   - username: "laurenandmitz"
     fullname: >-
       Lauren & The Pups
     bio: >-
-      #FlyHighLoki 4.21.20❤️ Loki👼🏼 Thor🐾 Mitzi🐾 FOLLOW OUR INSTA :)
+      #FlyHighLoki 4.21.20❤️ Loki👼🏼 Mitzi🐾 Brindi🐾 Thor🐾 FOLLOW OUR INSTA :)
     location: "United States"
-    followers: 60400
-    engagement: 2393
-    commentsToLikes: 0.033260
+    followers: 60300
+    engagement: 2115
+    commentsToLikes: 0.031271
     id: ck9kc9emkoitz0j78z9r2w22w
     verified: false
-    hashtags: "#dogowner, #pet, #dogs, #gsdlove"
-  - username: "leticiaamar"
+    hashtags: "#rescuestory, #dogsoftiktok, #pet, #dogowner"
+  - username: "doodledog.official"
     fullname: >-
-      leticiaamar
+      Doodledog 🐶❤️
     bio: >-
-      just a happy mom love everyone. follow my 📸 IG. @Leticiaamar Venmo @Leticiaamar
+      📍 Judgment-free space for pet parents. Self care comics on Instagram. Link 👇
     location: "United States"
-    followers: 62200
-    engagement: 876
-    commentsToLikes: 0.051479
-    id: ckc7q5vlcvpcm0j23h19qsefs
+    followers: 19700
+    engagement: 676
+    commentsToLikes: 0.069173
+    id: ckacgnnjlvwco0i78t4i1tx2q
     verified: false
-    hashtags: "#expressieyourself, #sometimesirun, #diet, #duet"
+    hashtags: "#doglookslikeme, #doglove, #doglovers, #pets"
   - username: "joy.of.avey"
     fullname: >-
       Virginie & Avey
     bio: >-
       🇨🇦 | 18 | Mom of 2🐶🐶
     location: "Canada"
-    followers: 20600
-    engagement: 993
-    commentsToLikes: 0.044693
+    followers: 20300
+    engagement: 905
+    commentsToLikes: 0.041766
     id: ck8z2vt1871mg0j78ilk08z7t
     verified: false
-    hashtags: "#dogowner, #dogtrainer, #keepingitcute, #messymudi"
+    hashtags: "#dinoday, #fyp, #messymudi, #dogtraining"
   - username: "dogs.training"
     fullname: >-
       Dog Training
@@ -122,9 +110,21 @@ profiles:
       Best dog training system🐶🐶 To train your dog, click on this link 👇🏽👇🏽👇🏽
     location: "Nigeria"
     followers: 54800
-    engagement: 1587
-    commentsToLikes: 0.013074
+    engagement: 1490
+    commentsToLikes: 0.013216
     id: ckbblngos9vvd0j23mbvchw76
     verified: false
-    hashtags: "#xyzbca, #georgefloyd, #doglovers, #dogtraining"
+    hashtags: "#dogsoftiktok, #doglovers, #doglover, #blacklivesmatter"
+  - username: "dognameddax"
+    fullname: >-
+      dognameddax
+    bio: >-
+      blue merle australian shepherd livin in Indy! @dognameddax on instagram 📸🐶
+    location: "United States"
+    followers: 155100
+    engagement: 2401
+    commentsToLikes: 0.013908
+    id: ck8kmv8sbaf2q0j78fwa66smr
+    verified: false
+    hashtags: "#wildanimals, #weirdpets, #dogtiktok, #foryoupage"
 ---

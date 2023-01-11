@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Capetown In 2022
+title: Top 10 Beauty Instagram Influencers In Capetown In 2023
 description: >-
-  Find top beauty Instagram influencers in Capetown in 2022. Most popular hashtags: #capetown #beauty #southafrica #style.
+  Find top beauty Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #fashion #beauty.
 platform: Instagram
-hits: 37
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 37 Instagram influencers like this in Capetown, South Africa for you to pitch.
+hits: 22
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 22 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
   - username: "daniella_thibault"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🌹#TheBachelorSA S2 👑@donline.co.za My Business 👑My page is to inspire & entertain
     location: "South Africa"
-    followers: 27322
-    engagement: 122
-    commentsToLikes: 0.764314
+    followers: 26829
+    engagement: 111
+    commentsToLikes: 0.284741
     id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
-    hashtags: "#lockdown2020, #capetown, #unitedwomansquad, #thebachelorsa"
-  - username: "official_misssa"
+    hashtags: "#beauty, #capetown, #2021, #virgo"
+  - username: "marcbermanphotography"
     fullname: >-
-      Miss South Africa
+      Marc Berman | Photographer
     bio: >-
-      The official account of Miss South Africa, presented by Weil Entertainment in association with @suninternationalza and @mnettv @mzansimagic
+      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
     location: "South Africa"
-    followers: 185768
-    engagement: 334
-    commentsToLikes: 0.034078
-    id: ck0u04ha1sj9o0i192v1a5ttz
-    verified: true
-    hashtags: "#shudufhadzomusida, #misssa2020, #faceyourpower, #embraceyourfuture"
-  - username: "withlovebloomingrose"
-    fullname: >-
-      A M I N A H
-    bio: >-
-      Cape Town🇿🇦 Ambassador for the best! @sarahsglambar & @vitalbabysa Mom to doggos and 2 humans🤍 Garden Lover🌿 Fashion | Beauty | Mamahood | Lifestyle
-    location: "South Africa"
-    followers: 42147
-    engagement: 28
-    commentsToLikes: 0.136759
-    id: ck136p5yx7ksg0i19ai5exdqp
+    followers: 16600
+    engagement: 187
+    commentsToLikes: 0.023634
+    id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#fashionbloggers, #beautybloggers, #whatiwore, #fbloggers"
-  - username: "shawnee_reid"
+    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
+  - username: "annettaprimadonna"
     fullname: >-
-      Shawnee Reid
+      𝓐𝓷𝓷𝓮𝓽𝓽𝓮 𝓚𝓮𝓶𝓹
     bio: >-
-      Fitness|Funster|Businesswoman|God ✝️ Sub to my YT,click link⏬ Model @icemodelsjhb 🔸 @metalabofficial 📧shawnee@sreid.co.za LVW♥️
+      Afrikaans 🍻 Wife-to-Be 💍 Old-fashioned Girl 🌼 Actress @ermstars 🇿🇦⁣⁣ Model @bossmodelsa 📸⁣⁣ Writer 🦊 ✨Natural Redhead⁣ ✨Haircare, Fashion, Makeup⁣
     location: "South Africa"
-    followers: 30066
-    engagement: 422
-    commentsToLikes: 0.058248
-    id: ck15tn2y6iwd90i198x1nvvko
+    followers: 36862
+    engagement: 424
+    commentsToLikes: 0.030438
+    id: ck15qfb7i2kdy0i196rs1xs3l
     verified: false
-    hashtags: "#love, #clouds, #style, #outfit"
+    hashtags: "#leestafford, #redhair, #hairtutorial, #haircare"
   - username: "frema.mensah"
     fullname: >-
       🇬🇭Frema Mensah🇬🇭
     bio: >-
-      Stay patient and trust your journey Say no to skin bleaching @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
     location: "South Africa"
-    followers: 5572
-    engagement: 1104
-    commentsToLikes: 0.078287
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
     id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
-    hashtags: "#blackisbeautiful, #melaninmagic, #blackisking, #blackandyellow"
-  - username: "theminimalblogger"
-    fullname: >-
-      THE MINIMAL BLOGGER
-    bio: >-
-      السَّلَامُ عَلَيْكُمْ Wijdan Arendse-Hendricks a minimalist curating considered content co-founder of @leuniforme — Cape Town, South Africa
-    location: "South Africa"
-    followers: 19765
-    engagement: 385
-    commentsToLikes: 0.031834
-    id: ck0w12wnthase0i192cft2xs6
-    verified: false
-    hashtags: "#hmxme, #narcisorodriguezparfums, #puremusc, #hmconscious"
-  - username: "jessica_vanheerden"
-    fullname: >-
-      Jessica van Heerden
-    bio: >-
-      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
-    location: "South Africa"
-    followers: 41896
-    engagement: 677
-    commentsToLikes: 0.029140
-    id: ck135ukud3bat0i199i7ol35t
-    verified: false
-    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
   - username: "fabulousoverfifty_"
     fullname: >-
       Diana Bellingan🇿🇦
     bio: >-
       BREAST CANCER SURVIVOR 💗•50+ INFLUENCER • MOTIVATIONAL SPEAKER •Sharing my love of fashion&beauty with women over 50! DM for collabs 📍South Africa
     location: "South Africa"
-    followers: 37383
-    engagement: 113
-    commentsToLikes: 0.066551
+    followers: 36401
+    engagement: 101
+    commentsToLikes: 0.060128
     id: ck14jt8lsm2g50i19yzhj6fmg
     verified: false
-    hashtags: "#confidentwomen, #lookoftheday, #strongwomen, #fitover50"
-  - username: "aly_bux"
-    fullname: >-
-      A A L I Y A H - B U X
-    bio: >-
-      Redefining the beauty industry 1 eyeliner at a time. Enemies of the heir, beware 🐍 Pro Makeup Artist | Content Creator Co-Partner at @bmups_ Academy
-    location: "South Africa"
-    followers: 13976
-    engagement: 708
-    commentsToLikes: 0.109319
-    id: ck15t918jgxbk0i19avy1pp4f
-    verified: false
-    hashtags: "#creative, #womenempowerment, #durbansouthafrica, #fashion"
+    hashtags: "#positiveaging, #womenwithstyle, #agelessstyle, #50plusstyle"
   - username: "amber_brits"
     fullname: >-
       A M B E R. BRITS. OFFICIAL 💥
     bio: >-
       Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
     location: "South Africa"
-    followers: 17269
-    engagement: 335
-    commentsToLikes: 0.061279
+    followers: 18841
+    engagement: 478
+    commentsToLikes: 0.041060
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#summer, #photooftheday, #stayhome, #lockdown"
+    hashtags: "#shop, #fashioninspo, #babe, #cute"
+  - username: "aubreyngoma"
+    fullname: >-
+      Aubrey Ngoma
+    bio: >-
+      Professional Footballer Player of @capetowncityfc #10🇿🇦 Nike Ambassador “The future belongs to those who believe in the beauty of their dreams”
+    location: "South Africa"
+    followers: 34904
+    engagement: 345
+    commentsToLikes: 0.014829
+    id: ck0vyfw7i3s6h0i19nle0iqxc
+    verified: false
+    hashtags: "#southafrica, #athlete, #abn, #aubreyngoma"
+  - username: "magaramirezz"
+    fullname: >-
+      Maria Gabriela Ramirez ⚓️
+    bio: >-
+      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
+    location: "South Africa"
+    followers: 6782
+    engagement: 1415
+    commentsToLikes: 0.065761
+    id: ckap0qc7qrepz0i78yrvmaxt0
+    verified: false
+    hashtags: "#losangeles, #beach, #milan, #shooting"
+  - username: "tracymcgregor"
+    fullname: >-
+      Tracy McGregor
+    bio: >-
+      *DM for collabs* Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @bornthree
+    location: "South Africa"
+    followers: 29622
+    engagement: 301
+    commentsToLikes: 0.218129
+    id: ck6ue97chpjuk0j71p6xoc0mx
+    verified: false
+    hashtags: "#blogger, #photographer, #mom, #picoftheday"
+  - username: "chanellesoncini"
+    fullname: >-
+      ⚡️CHANELLE SONCINI⚡️
+    bio: >-
+      SA Model 📍PTA/JHB🇿🇦 ▪️JHB: @bossmodelsjhb ▫️CPT: @thecirclemodels 📚BBA & BPhil Honours
+    location: "South Africa"
+    followers: 32003
+    engagement: 433
+    commentsToLikes: 0.232299
+    id: ck6u1whp5ob1o0j71gdgns6sx
+    verified: false
+    hashtags: "#happyfriday, #model, #style, #chanellesoncini"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Norway In 2022
+title: Top 10 Instagram Influencers In Norway In 2023
 description: >-
-  Find top Instagram influencers in Norway in 2022. Most popular hashtags: #fashion #style #streetwear.
+  Find top Instagram influencers in Norway in 2023. Most popular hashtags: #norge #life #giveaway.
 platform: Instagram
-hits: 2229
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 2229 Instagram influencers like this in Norway for you to pitch.
+hits: 1552
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 1552 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "serofrero"
+  - username: "gunnargreve"
     fullname: >-
-      Sero
+      Gunnar Greve
     bio: >-
-      Aldri glemt - A.T 09.09.2017🌹 3H🙅‍♂️❤️
+      Father of four & Walker #1
     location: "Norway"
-    followers: 33036
-    engagement: 3032
-    commentsToLikes: 0.177135
-    id: ck5btot1ggc1p0i11uwyr8b6d
+    followers: 26924
+    engagement: 321
+    commentsToLikes: 0.037102
+    id: ck13ctljc23dw0i19ypwmpri0
     verified: false
-    hashtags: "#ellingsrud, #corontene, #blackouttuesday, #18"
-  - username: "diyana_letensei"
+    hashtags: "#headinghome, #createadifferentworld, #worldofwalker, #babyseals"
+  - username: "evelinekarlsen"
     fullname: >-
-      Diyana Letensei🕊
+      Eveline Karlsen
     bio: >-
-      18, Verdal @petter_barstad❤️ @herskerinnen2022
+      owner of @itsovela contact: evelinekarlsen@gmail.com
     location: "Norway"
-    followers: 2353
-    engagement: 2565
-    commentsToLikes: 0.287629
-    id: ckf5vrusgppg90j230wblx2hw
+    followers: 127629
+    engagement: 308
+    commentsToLikes: 0.008624
+    id: ck13c53ufynrz0i19n7mrbo8q
     verified: false
-    hashtags: "#ad, #idealofsweden, #annonse, #lorealparis"
-  - username: "minajacobsen"
+    hashtags: "#wearecaia, #itsovela"
+  - username: "kubajszcom"
     fullname: >-
-      ᗰᎥᑎᗩ ᒎᗩᑕᗝᗷᔕᗴᑎ🌼 19
+      Jakub Fišer
     bio: >-
-      Min nye bok er endelig ute i butikk💕 Bestill den signert her👇🏼
+      ꜰʀᴇᴇʟᴀɴᴄᴇ ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ #landscape #traveling #automotive 📷 : #𝘚𝘰𝘯𝘺𝘈𝘭𝘱𝘩𝘢 📺 𝘠𝘛: 𝘬𝘶𝘣𝘢𝘫𝘴𝘻𝘤𝘰𝘮 👫🏼: @katerinahrnova 📩: 𝘬𝘶𝘣a𝘫𝘴𝘻@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 ⬇️ eshop ⬇️
     location: "Norway"
-    followers: 57460
-    engagement: 2305
-    commentsToLikes: 0.086923
-    id: ck5he1c4zqicy0i118t5yw9g7
+    followers: 46386
+    engagement: 300
+    commentsToLikes: 0.011982
+    id: ck0w4dnhey2fv0i19m896ikvg
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "iamkaluma"
+    hashtags: "#ceskakrajina, #dreamchasernorway, #newdefender, #swedishlapland"
+  - username: "frkasplund"
     fullname: >-
-      Kaluma Vanessa
+      Alice Asplund 🇳🇴
     bio: >-
-      📩 kaluma92@gmail.com 🎥Check out my latest YouTube video 👇🏾#iamkaluma|| 📍Norway
+      🌄 Outfluencer 🎬 Fenomen TV 📸 Canon 5D/R5C 🖌 Content Writer @norrona 👆🏻 Use PROALICEA for discount 🤝🏻 @trekbikesnorge @fischer_norge @dragonnorway
     location: "Norway"
-    followers: 3030
-    engagement: 2295
-    commentsToLikes: 0.207337
-    id: ckaotr3zcx4el0i78lmkphgtw
+    followers: 38509
+    engagement: 834
+    commentsToLikes: 0.037494
+    id: ckapb0912y50z0i78pugzo8ta
     verified: false
-    hashtags: "#newlook, #darkskin, #ootdoftheday, #styleinspo"
-  - username: "tixmusic"
+    hashtags: "#maximheroes, #mittfriluftsliv, #minutmark, #skitouring"
+  - username: "kathsolberg"
     fullname: >-
-      TIX (Andreas Haukeland)
+      Kathrine Madelen | FITNESS
     bio: >-
-      📱 Snap: tixmusic ✉️ Booking: marcus@artistpartner.no
+      Norwegian girl | 26 🧡 ✉️ For questions/collabs: DM/email Glute Guide + more:
     location: "Norway"
-    followers: 205229
-    engagement: 1009
-    commentsToLikes: 0.098356
-    id: ck1385k26el150i19rg11iz2b
-    verified: true
-    hashtags: ""
-  - username: "kazzaz_"
-    fullname: >-
-      MOHAMMAD KAZZAZ
-    bio: >-
-      Hi 👋 I’m kazzaz😎 My YouTube channel👇
-    location: "Norway"
-    followers: 96208
-    engagement: 761
-    commentsToLikes: 0.066783
-    id: ck8t3b7jp2lz30j78ncwezf95
+    followers: 12817
+    engagement: 286
+    commentsToLikes: 0.053943
+    id: ck5q5p68stwjq0i11qz0dw0td
     verified: false
-    hashtags: "#dogs, #kazzaz, #hmstylefamno"
-  - username: "leifnoahjohnsen"
+    hashtags: "#nellycom, #loungeunderwear, #postpartumfitness, #fitnesslife"
+  - username: "elisabethsletten"
     fullname: >-
-      Leif Noah Johnsen 🇳🇴🇱🇧
+      ELISABETH SLETTEN | FITNESS | COACH
     bio: >-
-      📍 Nordstrand, Oslo 🤼‍♂️ Lambertseter Bryteklubb 📚 Wangung 💍 Priyanka
+      📱 Online coach & owner of Elisabeth Sletten Coaching. - Team @bodylabnorge «SLETTEN15» ⭐️ ONLINE COACHING ⬇️
     location: "Norway"
-    followers: 8812
-    engagement: 2979
-    commentsToLikes: 0.123695
-    id: ck0uc04p1fu180i19s2xgwsvv
+    followers: 169806
+    engagement: 130
+    commentsToLikes: 0.016303
+    id: ck5hlbu26jxwi0i11fvabbqji
     verified: false
-    hashtags: "#mensclothing, #menswear, #mensfashion, #herremote"
-  - username: "leon_skw"
+    hashtags: "#ryderwear, #onlinecoaching, #coaching, #norge"
+  - username: "_giadamassara_"
     fullname: >-
-      Juniiör🐅
+      Giada Massara
     bio: >-
-      Judoutöver💫 Sc: .....
+      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
     location: "Norway"
-    followers: 8136
-    engagement: 2384
-    commentsToLikes: 0.132780
-    id: ckap6iu3hg0ua0i78dflfz425
+    followers: 45472
+    engagement: 997
+    commentsToLikes: 0.071150
+    id: ck5hr9419uhac0i116ngq4l7x
     verified: false
-    hashtags: ""
-  - username: "world.with.you"
+    hashtags: "#studimediaset, #tacco12, #perledisaggezza, #mylife"
+  - username: "emziatv"
     fullname: >-
-      LARA ღ RUI • Travel|Positivity
+      Emzia // Emilie Helgesen
     bio: >-
-      ➳ #travelcouple made in📍#Azores ⋆ Lara ＆ Rui ⋆ ❥ Exploring Life ❥ 𝗡𝗼𝘄 ✈︎ 🇵🇹 @visitazores
+      🇳🇴 Norwegian, Oslo 🎮Gamer & streamer Sponsors: @hyperx @komplettno @monsterenergy @msigaming 💼: emziatv@gmail.com PR & Communications Bachelor
     location: "Norway"
-    followers: 11391
-    engagement: 1356
-    commentsToLikes: 0.089375
-    id: ck5q5xniiv1p80i11jw3oo4mz
+    followers: 26277
+    engagement: 916
+    commentsToLikes: 0.114673
+    id: ck0w5vses5ntr0i19ccupy11g
     verified: false
-    hashtags: "#couplesgoals, #relationshipgoals, #stpeterspool, #visitazores"
+    hashtags: "#ad, #hyperx, #hyperxfamily, #msipickemzia"
   - username: "marensolem"
     fullname: >-
-      MAREN SOLEM 🇳🇴 Norway
+      Maren Solem🇳🇴 Norway
     bio: >-
-      mountains, exploring, travel, gym & outdoors. Life is fun🌾 ✉️ solemmaren@gmail.com
+      mountains, exploring, travel, gym & outdoors. Life is fun🌾
     location: "Norway"
-    followers: 8127
-    engagement: 1797
-    commentsToLikes: 0.068003
+    followers: 11220
+    engagement: 1227
+    commentsToLikes: 0.155888
     id: ck14jdqjdjty60i194xbed60e
     verified: false
-    hashtags: "#hjelle, #mosekleivhornet, #sunnm, #norway"
+    hashtags: "#giveaway, #trondheim, #geirangerfjorden, #happynewyear"
+  - username: "morten.clicks"
+    fullname: >-
+      Morten | Street Photographer
+    bio: >-
+      📍Oslo, Norway 📸 Capturing the colours of the streets. 👤 Founder: @streetianity Member: @oslo.spc 🌇 Limited edition prints available:
+    location: "Norway"
+    followers: 7883
+    engagement: 1518
+    commentsToLikes: 0.140383
+    id: ck9weu64slulx0j78ahoeome3
+    verified: false
+    hashtags: "#fromstreetswithlove, #oslobilder, #urbanstreetphotogallery, #buildinglovers"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Chile In 2022
+title: Top 10 Cosmetics Instagram Influencers In Chile In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Chile in 2022. Most popular hashtags: #chile #girl #love.
+  Find top cosmetics Instagram influencers in Chile in 2023. Most popular hashtags: #makeup #chile #makeupchile #maquillaje.
 platform: Instagram
-hits: 43
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 43 Instagram influencers like this in Chile for you to collaborate.
+hits: 30
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 30 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "triniespinal"
+  - username: "franjavieraa"
     fullname: >-
-      Trinidad Espinal⚡️
+      𝑭𝒓𝒂𝒏𝒄𝒊𝒔𝒄𝒂 🦋
     bio: >-
-      Santiago, Chile🌎 Water ski💦 @tiendamalivu @raindoor_chile @la_chascona_cosmetics @presets_boho ♡
+      🦂┃ @udeconcepcion 👩🏼‍⚕️ ⋆ @la_chascona_cosmetics ⋆ @club_residencia ⋆ @gloss_centro_de_estetica ⋆
     location: "Chile"
-    followers: 2524
-    engagement: 2422
-    commentsToLikes: 0.207120
-    id: ckap5u1o3d5wn0i78ju3jys3l
-    verified: false
-    hashtags: ""
-  - username: "franjaviera._"
-    fullname: >-
-      Fran Javiera✨
-    bio: >-
-      🦋🦋🦋 @la_chascona_cosmetics @club_residencia @calzados.aline @gloss_centro_de_estetica 👩🏼‍⚕️🗣 UdeC
-    location: "Chile"
-    followers: 15306
-    engagement: 524
-    commentsToLikes: 0.018386
+    followers: 15066
+    engagement: 588
+    commentsToLikes: 0.016307
     id: ck5zucl2m23oc0i14d5qqvona
     verified: false
-    hashtags: "#challegeaccepted"
-  - username: "morenauno"
-    fullname: >-
-      MORENAUNO 🧜🏽‍♀️
-    bio: >-
-      Makeup service Clases de automaquillaje Online/ Presencial unomorena@gmail.com 💌
-    location: "Chile"
-    followers: 27363
-    engagement: 1341
-    commentsToLikes: 0.028477
-    id: ck138jzncglk00i19l1dknk4s
-    verified: false
-    hashtags: "#maquillaje, #makeuplooks, #makeuplook, #makeup"
-  - username: "justvannia"
-    fullname: >-
-      Tía Mimi 🐰
-    bio: >-
-      🔸Content creator 🔸Embajadora @tmgesports.gg @naturecosmetics.cl 🔸25% dcto en @gunnar.cl código justvannia 🔸Contacto: vannia.bn@gmail.com @redragoncl⬇️
-    location: "Chile"
-    followers: 11488
-    engagement: 1757
-    commentsToLikes: 0.110894
-    id: ckaovu3jy66ao0i7856sj7zyp
-    verified: false
-    hashtags: "#girls, #pink, #mood, #gaming"
-  - username: "abrilfguerra"
-    fullname: >-
-      𝓐𝓫𝓻𝓲𝓵 𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓪• Moda&Belleza
-    bio: >-
-      💞Fashion Blogger ✨YouTuber 🛍CEO: @piamiastore 🇻🇪 | 🇨🇱📍
-    location: "Chile"
-    followers: 18351
-    engagement: 760
-    commentsToLikes: 0.032756
-    id: ck9hcah68ki9m0j78h9seqj2t
-    verified: false
-    hashtags: "#ruivabrasil, #redhaircolor, #fashionstyle, #outfits"
+    hashtags: "#challegeaccepted, #fds"
   - username: "krissandovalk"
     fullname: >-
       🌸🌸K R I S H N A 🌸🌸
     bio: >-
-      Temuco-Santiago 📍 ▪️MissChile 👑 ▪️Modelo ~ Promotora ~ Embajadora @cases.couples @spa.vitabella @morenna.cl @araucaniacervecera @almalavanda_chile
+      Temuco-Santiago 📍 ▪️MissChile ▪️Administración Pública. ▪️Modelo ~ Embajadora @cases.couples @spa.vitabella @almalavanda_chile @flora_bellezanatural
     location: "Chile"
-    followers: 6903
-    engagement: 591
-    commentsToLikes: 0.106348
+    followers: 7512
+    engagement: 689
+    commentsToLikes: 0.151575
     id: ck9wd43msdzd80j78he8wca46
     verified: false
-    hashtags: "#naturaleza, #style, #love, #surdechile"
-  - username: "nati.viajes"
+    hashtags: "#trekkingchile, #trekking, #blogger, #vibes"
+  - username: "morenauno"
     fullname: >-
-      ❂ Natural Life 🦅 ❂
+      MORENAUNO 🧜🏽‍♀️
     bio: >-
-      ↟ Travel ↟ Adventure ↟ Tips ↟ UI Designer ↟ Lifestyle Creator ↟ ➳ ᚱᚢᚨ
+      CEO @m1__lashes Makeup service Clases de maquillaje unomorena@gmail.com
     location: "Chile"
-    followers: 10108
-    engagement: 764
-    commentsToLikes: 0.032118
-    id: ck14l19f8sd1j0i190lb7mnxr
+    followers: 27251
+    engagement: 1187
+    commentsToLikes: 0.028666
+    id: ck138jzncglk00i19l1dknk4s
     verified: false
-    hashtags: "#quarantine, #thebodyshop, #tbt, #parquesnacionales"
-  - username: "polinka_crazy_traveller"
+    hashtags: "#maquillaje, #anastasiabeverlyhills, #makeuplooks, #makeupchile"
+  - username: "nicoebner.b"
     fullname: >-
-      TRAVEL EXPERT
+      ℕ𝕚𝕔𝕠
     bio: >-
-      Полина Величко 🌴Отправила 3000туристов в их идеальные путешествия 🗺 68стран 🌎 Все о путешествиях-когда,куда,зачем,где поесть? Заказ тура ✈️ -в директ
+      ℂ𝕙𝕚𝕝𝕖📍Catlover 🐈 Nike Run Club. 🏃‍♀️🏃‍♂️Entrenamiento personalizado con coaches. inscripción gratis ⬇️
     location: "Chile"
-    followers: 46578
-    engagement: 170
-    commentsToLikes: 0.098613
-    id: ck8t5thctb6uv0j78j0niyds9
+    followers: 15692
+    engagement: 598
+    commentsToLikes: 0.172488
+    id: ck0tt3ekl0zgz0i195fuwe8ea
     verified: false
-    hashtags: "#beautyofukraine, #bloggerlifestyle, #beautyofnature, #myworld"
-  - username: "pabloespinov"
+    hashtags: "#nikerunning, #nike, #chile, #santiagodechile"
+  - username: "luxmua_"
     fullname: >-
-      PΔBLO ΣSPINO
+      𝑳𝒖𝒊𝒔𝒂 𝑽𝒂𝒍𝒆𝒏𝒄𝒊𝒂
     bio: >-
-      >SPONSOR || @dont_cry_productos >COTIZACIONES || 11:00 - 19:00 L-V
+      𝟐𝟏 🇨🇱 𝑪𝒉𝒊𝒍𝒆 || 𝑴𝒂𝒒𝒖𝒊𝒍𝒍𝒂𝒅𝒐𝒓𝒂 𝑷𝒓𝒐𝒇𝒆𝒔𝒊𝒐𝒏𝒂𝒍 ✨💄 𝑨𝒎𝒐 𝒉𝒂𝒄𝒆𝒓 𝒍𝒐𝒐𝒌𝒔 𝒄𝒐𝒍𝒐𝒓𝒊𝒅𝒐𝒔🌈🔥 𝑷𝑹/ 💌 𝑫𝒎 𝒐 𝑳𝒖𝒊𝒔𝒂𝒇𝒗𝒓9@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎 @luxvall
     location: "Chile"
-    followers: 8041
-    engagement: 340
-    commentsToLikes: 0.057894
-    id: ck5q8vf5i84pv0i11bm0zoutk
+    followers: 5634
+    engagement: 1098
+    commentsToLikes: 0.130821
+    id: ck5c1f90mv2ky0i114uit2rf8
     verified: false
-    hashtags: "#neotraditionaltattoo, #neotraditional, #illustration, #procreateillustration"
-  - username: "macag4rcia"
+    hashtags: "#makeupartist, #beautycreations, #maquillajechile, #muachile"
+  - username: "valemiaaaaau"
     fullname: >-
-      Pipi
+      Valentina Leni 💕
     bio: >-
-      lucky u 🧸
+      Cosmetologa, MUA & Beauty blogger 🇨🇱 Maquillaje/ Skincare/ Cabello/ Reseñas💘 Psicologa y mamá de Vicente👩‍👦 valentina.leni@live.com 💌 Stgo, Chile📍
     location: "Chile"
-    followers: 17762
-    engagement: 2294
-    commentsToLikes: 0.076756
-    id: ckap7uqn5lnep0i78xh5ukysh
+    followers: 23799
+    engagement: 427
+    commentsToLikes: 0.401485
+    id: ck1382qs7e85m0i19qjp0c1lo
     verified: false
-    hashtags: "#completo"
+    hashtags: "#benebabe, #bloggerchilena, #influencerchilena, #muachilena"
+  - username: "angielistica"
+    fullname: >-
+      ✧ a n g i e ✧
+    bio: >-
+      abogada • make up artist ♡ #crueltyfree • vegetariana ♡ pr: angielistica@gmail.com
+    location: "Chile"
+    followers: 20425
+    engagement: 1279
+    commentsToLikes: 0.131540
+    id: ck5zyem3c9qsw0i14p6g8wtvd
+    verified: false
+    hashtags: "#motd, #instachile, #maquillaje, #fadeintohue"
+  - username: "pascalealvo_makeup"
+    fullname: >-
+      Pascale Alvo Makeup
+    bio: >-
+      Makeup NO DM ✖️ info a pascalealvomakeup@gmail.com @bigg.fitcl 🏋️‍♀️ 🇨🇱STGO Beauty content creator #maquillaje
+    location: "Chile"
+    followers: 24636
+    engagement: 287
+    commentsToLikes: 0.185983
+    id: ck5pwoyabnvbo0i11jzwapkl0
+    verified: false
+    hashtags: "#maquilladorachilena, #inglotchile, #beautiful, #inbeautmag"
+  - username: "diegopvtricio"
+    fullname: >-
+      DIEGO PATRICIO
+    bio: >-
+      Fotógrafo / Videógrafo
+    location: "Chile"
+    followers: 19995
+    engagement: 431
+    commentsToLikes: 0.056333
+    id: ck14h4hz88hj20i19fzihvi0d
+    verified: false
+    hashtags: "#tb, #justiciaparaantonia, #pradenasviolador"
+  - username: "niloalexis"
+    fullname: >-
+      𝑫𝑨𝑵𝑰𝑳𝑶 𝑴𝑷 💫
+    bio: >-
+      ✨Me gusta bailar, maquillarme y confeccionar ropita ⚡️Embajadore de @lolita.pelucas y @m00n.sstore ❤️
+    location: "Chile"
+    followers: 2846
+    engagement: 1360
+    commentsToLikes: 0.105433
+    id: ckf5olnns2s3f0j23842xchi9
+    verified: false
+    hashtags: "#2020, #style, #l4l, #me"
 ---

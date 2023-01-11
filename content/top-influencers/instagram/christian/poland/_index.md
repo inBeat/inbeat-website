@@ -1,24 +1,12 @@
 ---
-title: Top 10 Christian Instagram Influencers In Poland In 2022
+title: Top 10 Christian Instagram Influencers In Poland In 2023
 description: >-
-  Find top christian Instagram influencers in Poland in 2022. Most popular hashtags: #poland #fashion #polskadziewczyna #autumn.
+  Find top christian Instagram influencers in Poland in 2023. Most popular hashtags: #love #poland #summer #polishgirl.
 platform: Instagram
-hits: 28
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 28 Instagram influencers like this in Poland for you to pitch.
+hits: 26
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 26 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "lady_gumi"
-    fullname: >-
-      Karolina Wojciechowska
-    bio: >-
-      • 🇳🇴 🇵🇱 • @famme 10% -> lady_gumi-10 • #misjamotywator 💪🏼 • @christiannilsen_ ❣️
-    location: "Poland"
-    followers: 24228
-    engagement: 204
-    commentsToLikes: 0.099611
-    id: ck6udr24emnsf0j718mz5093e
-    verified: false
-    hashtags: "#polska, #outfitters, #polskadziewczyna, #promocja"
   - username: "restless.arch"
     fullname: >-
       Architecture & Living
@@ -31,100 +19,112 @@ profiles:
     id: ck0tu213d5add0i19wkzrb8sd
     verified: false
     hashtags: ""
-  - username: "christianeckerlin"
+  - username: "mlewartowska"
     fullname: >-
-      Christian Eckerlin
+      
     bio: >-
-      🇩🇪 Professionell MMA Fighter
+      ✈️Somewhere in the air 💄Owner of @glamdolls_mlewartowska 👠👛Ambassador @szuszu_bagspa 💌Collaboration m.lewartowskaa@gmail.com
     location: "Poland"
-    followers: 50590
-    engagement: 778
-    commentsToLikes: 0.018864
-    id: ck55o3wdj7kzc0i11r5rxs6f8
-    verified: true
-    hashtags: "#frankfurt, #werbung, #mmaspirit, #together"
+    followers: 42220
+    engagement: 492
+    commentsToLikes: 0.120392
+    id: ck5cka1j0wg4s0i11rs67b3up
+    verified: false
+    hashtags: "#travel, #stylish, #summer, #beachlife"
   - username: "chrzescijanin"
     fullname: >-
       e-chrześcijanin
     bio: >-
       Bóg Ciebie Kocha
     location: "Poland"
-    followers: 9176
-    engagement: 1643
-    commentsToLikes: 0.018067
+    followers: 11212
+    engagement: 610
+    commentsToLikes: 0.028467
     id: ckf5wmp4kskaj0j23qrpu6i3u
     verified: false
-    hashtags: "#divinemercy, #jesusismysavior, #francescoforgione, #padrepioshrine"
-  - username: "muapolina"
+    hashtags: "#jp2, #proudcatholic, #sangiovannipaolo, #papajo"
+  - username: "paulatumala"
     fullname: >-
-      Paulina Kozioł MAKEUP×BEAUTY
+      PAULA TUMALA OFFICIAL
     bio: >-
-      Tiktok: muapolina ❤️ Collaboration: paulina@spotlightagency.pl Śląsk, okolice Katowic ❤️ 🧿👄🧿
+      🅜🅐🅜🅐❤️ 𝚔𝚘𝚜𝚖𝚎𝚝𝚘𝚕𝚘𝚐 🌟𝚒𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛🌟 📥paulatumala@gmail.com 🔑 @malgosia_latka__
     location: "Poland"
-    followers: 25457
-    engagement: 1294
-    commentsToLikes: 0.041757
-    id: ck0txx8ttkugo0i19gretv3gs
-    verified: false
-    hashtags: "#hbrowgame, #featuremuas, #polishmua, #ootdfashion"
-  - username: "mlewartowska"
+    followers: 243136
+    engagement: 219
+    commentsToLikes: 0.024337
+    id: ck55ou8k1956a0i11l2zgjyno
+    verified: true
+    hashtags: "#mojewszystko, #twins, #mama, #mi"
+  - username: "n_piotrowskapaciorek_official"
     fullname: >-
-      
+      Natalia Piotrowska-Paciorek
     bio: >-
-      ✈️Somewhere in the air 💄Owner of @glamdolls_mlewartowska 👠👛Ambassador @szuszu_odnow_obuw 💌Collaboration m.lewartowskaa@gmail.com
+      💒👩‍❤️‍👨 @paciorek_l Mama Antosia 🤱🏽🥰 Teatr ROMA (AIDA) Teatr Rampa Jasmine- ALADYN (dubb) Lady - ZAKOCHANY KUNDEL (dubb) Studio Accantus
     location: "Poland"
-    followers: 32407
-    engagement: 323
-    commentsToLikes: 0.124548
-    id: ck5cka1j0wg4s0i11rs67b3up
+    followers: 18364
+    engagement: 1426
+    commentsToLikes: 0.008016
+    id: ck6tpigyok21q0j71cw1ctm93
     verified: false
-    hashtags: "#fashion, #classy, #vienna, #longhair"
-  - username: "prozacbeauty"
+    hashtags: "#love, #actress, #motherhood, #husband"
+  - username: "bialoowas"
     fullname: >-
-      κ  ι  и  g  α
+      Michał Białowąs
     bio: >-
-      𝕎𝕒𝕣𝕤𝕫𝕒𝕨𝕒 | 𝕞𝕘𝕣 𝕜𝕠𝕤𝕞𝕖𝕥𝕠𝕝𝕠𝕘 | 𝕓𝕖𝕒𝕦𝕥𝕪𝕓𝕝𝕠𝕘𝕘𝕖𝕣 | 𝕞𝕒𝕜𝕖-𝕦𝕡 𝕛𝕦𝕟𝕜𝕚𝕖 | 𝕤𝕖𝕝𝕗𝕔𝕒𝕣𝕖 | 𝕞𝕚𝕟𝕕𝕗𝕦𝕝𝕟𝕖𝕤𝕤 | 𝕡𝕠𝕤𝕚𝕥𝕚𝕧𝕖 𝕡𝕤𝕪𝕔𝕙𝕠𝕝𝕠𝕘𝕪 | 𝕒𝕣𝕥...🍁 kinga.kwiecien@icloud.com
+      Portfolio
     location: "Poland"
-    followers: 3960
-    engagement: 2314
-    commentsToLikes: 0.054404
-    id: ckf5ozxlq4gqg0j23sc932guq
+    followers: 9025
+    engagement: 1347
+    commentsToLikes: 0.006091
+    id: ck55pp7j7b2h40i119vkso0wm
     verified: false
-    hashtags: "#makeupartist, #autumnvibes, #spooky, #autumnmood"
-  - username: "matt.szczepanski"
+    hashtags: "#studio, #art, #mm, #50mm"
+  - username: "hooltaye_w_podrozy"
     fullname: >-
-      Mateusz Szczepański
+      Irena i Marek🇵🇱
     bio: >-
-      Fashion & Lifestyle Blogger | Based in Poland 9namarszalkowskiej@gmail.com
+      🍀 pasjonaci podróży 🍀 miłośnicy fotografii 🍀 autorzy bloga 🔹 zostań na dłużej i zachwyć się Światem wspólnie z nami! 😊
     location: "Poland"
-    followers: 47263
-    engagement: 266
-    commentsToLikes: 0.049068
-    id: ck5zx2fjb77v40i14wgzfy9lz
+    followers: 5642
+    engagement: 1747
+    commentsToLikes: 0.128051
+    id: ck8tc26hsy0nb0j78myttiopi
     verified: false
-    hashtags: "#stylishman, #luxury, #watch, #tailor"
-  - username: "klaudiawisniowska"
+    hashtags: "#raw, #mountainsview, #africatravels, #hooltayewpodrozy"
+  - username: "lowczyni_okazji"
     fullname: >-
-      Klaudia Wiśniowska
+      Justyna
     bio: >-
-      @telewizja.polotv tv presenter Miss Poland Runner Up 2012 2nd Runner Up Miss Globe 2013 Miss Tourism International Poland 2015 @miss_warszawy producer
+      💎Zakupoholiczka, wielbicielka promocji, testowania, kosmetyków i storczyków ;)💎 🏠Zielona Góra 📧 zakupowymejl@gmail.com #kosmetyki #jedzenie #lifestyle
     location: "Poland"
-    followers: 14151
-    engagement: 708
-    commentsToLikes: 0.037503
-    id: ck6uen9m2rxwn0j710nn0tm0l
+    followers: 7812
+    engagement: 809
+    commentsToLikes: 0.065658
+    id: ckaos5pf5q7i10i78eb2pvdio
     verified: false
-    hashtags: "#discovertunisia, #look, #production, #restaurant"
-  - username: "ivonagulbas"
+    hashtags: "#mgie, #zaj, #summervibes, #naturalnekosmetyki"
+  - username: "roxana_kowalczyk"
     fullname: >-
-      🅘🅥🅞🅝🅐 🅖🅤🅛🅑🅐🅢
+      Roxana Kowalczyk
     bio: >-
-      📆 6.08 bday ✍️ Professional Linergist @ivonagulbas__makeup 👩‍🎓 Permanent Make Up Trainer 💄 Make Up Artist 🌏Warsaw|Poland🗺
+      ✭ Polish chica ッ ✭ Founder @wayvswim ♻️🌎
     location: "Poland"
-    followers: 20176
-    engagement: 115
-    commentsToLikes: 0.033777
-    id: ck14glkvk5thx0i19thqpe7nw
+    followers: 23053
+    engagement: 301
+    commentsToLikes: 0.029276
+    id: ck6uc5ej0dmbc0j71qdvrz7xf
     verified: false
-    hashtags: "#legstagram, #lv, #instafiltrypl, #louboutin"
+    hashtags: "#poland, #pictureoftheday, #pillowchallenge, #coronatime"
+  - username: "bagsobsessed_10"
+    fullname: >-
+      bagsobsessed_10
+    bio: >-
+      Obsessed with handbags and SLGs 👜👛 I love makeup, perfume and nail polish 💅💄I also enjoy funny memes 🤪
+    location: "Poland"
+    followers: 73510
+    engagement: 188
+    commentsToLikes: 0.061481
+    id: ck14j7q7niyyy0i19vgmio02l
+    verified: false
+    hashtags: "#bagsofinstagram, #girlythings, #louisvuitton, #gucciophidia"
 ---

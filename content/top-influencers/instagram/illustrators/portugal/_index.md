@@ -1,130 +1,118 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Portugal In 2022
+title: Top 10 Illustrators Instagram Influencers In Portugal In 2023
 description: >-
-  Find top illustrators Instagram influencers in Portugal in 2022. Most popular hashtags: #illustration #digitalart #drawing #art.
+  Find top illustrators Instagram influencers in Portugal in 2023. Most popular hashtags: #digitalart #illustration #digitalartist #artwork.
 platform: Instagram
-hits: 15
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 15 Instagram influencers like this in Portugal for you to work with.
+hits: 9
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 9 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "_francis.co"
-    fullname: >-
-      Francisco Fonseca
-    bio: >-
-      Illustrator • Porto • @gardenskateco Represented by: @goodillo.kids & @goodillo Online Shop 👇🏻
-    location: "Portugal"
-    followers: 60770
-    engagement: 709
-    commentsToLikes: 0.013428
-    id: ck14k5164nr9o0i19iisxgmk3
-    verified: false
-    hashtags: "#illustrator, #street, #sketch, #instaartist"
-  - username: "vlkrr"
-    fullname: >-
-      nicolle velcro
-    bio: >-
-      lisbon based illustrator&animator full time lesbian, part time cat mom 🌈 não reposte sem permissão 💌 contact: velcrocrocro@gmail.com portfolio/shop👇🏼
-    location: "Portugal"
-    followers: 23673
-    engagement: 431
-    commentsToLikes: 0.123395
-    id: ck55mywkd54ov0i11shjsrvvo
-    verified: false
-    hashtags: "#art, #aesthetic, #animation, #drawing"
-  - username: "madie_arts"
-    fullname: >-
-      Madalena | Digital Artist
-    bio: >-
-      #illustrator 🇵🇹🇬🇧 ✨ game artist by day & freelance illustrator by night ✨ personal acc: @madalena_lacer © All rights reserved
-    location: "Portugal"
-    followers: 296248
-    engagement: 708
-    commentsToLikes: 0.036700
-    id: ck15qpzjk435h0i19lx5507ac
-    verified: false
-    hashtags: "#inktoberlist, #digitalartists, #inktoberprompts, #witchtober"
   - username: "thiswhimsyme"
     fullname: >-
       Sara Paz
     bio: >-
       FREELANCE ILLUSTRATOR ⚡️Wonder Woman wannabe 📬Business inquiries: thiswhimsyme@gmail.com . 🚫 Don't repost without my permission!
     location: "Portugal"
-    followers: 120901
-    engagement: 516
-    commentsToLikes: 0.016569
+    followers: 123926
+    engagement: 380
+    commentsToLikes: 0.030318
     id: ck13a7gcgozw20i19r6nk60i6
     verified: false
-    hashtags: "#stickers, #illustration, #digitalart, #procreateart"
-  - username: "nastyavarlamova_com"
+    hashtags: "#whimsyart, #sarapaz, #procreateart, #brunette"
+  - username: "fatinharamos"
     fullname: >-
-      Nastya Varlamova
+      Fatinha Ramos
     bio: >-
-      NASTYAVARLAMOVA.COM🔶 Portugal,Cascais ILLUSTRATOR ARTIST My PORTFOLIO & 👇🏻Links you may need👇🏻
+      Illustrator ~ Visual Artist ~ Portuguese in Antwerp
     location: "Portugal"
-    followers: 23131
-    engagement: 232
-    commentsToLikes: 0.034810
-    id: ck8syziapmmi10j78j2aea6hg
+    followers: 29957
+    engagement: 376
+    commentsToLikes: 0.034462
+    id: ck5c0ck6dsvi90i1123tr7ju5
     verified: false
-    hashtags: "#varlamovacollages, #abstractcollages, #colourofmybrain, #ilovecascais"
-  - username: "wlk_god"
+    hashtags: "#fatinha, #artwork, #thewashingtonpost, #design"
+  - username: "madie_arts"
     fullname: >-
-      Marcelo Gonçalves
+      Madalena | Digital Artist
     bio: >-
-      Illustrator Porto, Portugal 𝘋𝘢𝘳𝘬•𝘉𝘭𝘢𝘤𝘬𝘸𝘰𝘳𝘬•𝘗𝘰𝘴𝘵𝘦𝘳𝘴 •𝘓𝘰𝘨𝘰𝘴•𝘈𝘳𝘵𝘸𝘰𝘳𝘬 𝘊𝘰𝘭𝘭𝘢𝘣𝘴 or 𝘊𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯𝘴 𝘋𝘔.
+      #illustrator 🇵🇹🇬🇧 TUTORIALS are available on my PATREON PRINTS + STICKERS + ZINE👇🏻Link below game artist by day & freelance illustrator by night
     location: "Portugal"
-    followers: 10516
-    engagement: 752
-    commentsToLikes: 0.011755
-    id: ck8tcxgvw12270j781sy5guws
+    followers: 328912
+    engagement: 852
+    commentsToLikes: 0.007774
+    id: ck15qpzjk435h0i19lx5507ac
     verified: false
-    hashtags: "#gothic, #blackillustration, #digitalart, #artoftheday"
-  - username: "gokattyplanet"
+    hashtags: "#fashiondrawing, #winx, #myart, #fashionart"
+  - username: "vlkrr"
     fullname: >-
-      Catarina Calvinho Gil ☾⋆
+      nicolle velcro
     bio: >-
-      Portuguese animator, illustrator, wannabe photographer and occasionally a writer ➳ catarinacalvinhogil@gmail.com
+      freelancer illustrator & animator from lisbon drawing the rainbow I ride on 🌈 (she/her) 💌 for work inquiries: velcrocrocro@gmail.com portfolio👇🏼
     location: "Portugal"
-    followers: 2369
-    engagement: 1292
-    commentsToLikes: 0.078111
-    id: ck8t62gbkc0620j784w47x3bj
+    followers: 21442
+    engagement: 220
+    commentsToLikes: 0.016400
+    id: ck55mywkd54ov0i11shjsrvvo
     verified: false
-    hashtags: "#womanbodyart, #feministart, #letlovebethevirus, #drawing"
-  - username: "gspaar"
-    fullname: >-
-      Pen & Ink Artist
-    bio: >-
-      ▪️ Freelance illustrator in Portugal. 🇵🇹 ▪️ DM for business inquiries. 📩 ▪️ Don´t click here!👇
-    location: "Portugal"
-    followers: 3495
-    engagement: 1608
-    commentsToLikes: 0.045301
-    id: ck0w2bfrkniml0i1970feoqo9
-    verified: false
-    hashtags: "#penandink, #skullart, #blackworkes, #blackworkdesign"
+    hashtags: "#flowers, #freelanceranimator, #animationstudio, #typography"
   - username: "dk_limp"
     fullname: >-
       Pedro Alves
     bio: >-
       Architect turned illustrator; graphic designer; urban sketcher. Torres Vedras-Portugal.
     location: "Portugal"
-    followers: 34187
-    engagement: 188
-    commentsToLikes: 0.014267
+    followers: 32832
+    engagement: 161
+    commentsToLikes: 0.012420
     id: ck6ueea0aqerg0j716x51fd2d
     verified: false
-    hashtags: "#sketching, #watercolorbook, #watercolors, #usk"
+    hashtags: "#sketchbookart, #hahnem, #digitalsketch, #usk"
+  - username: "lizzyartwork"
+    fullname: >-
+      Lizzy
+    bio: >-
+      Portuguese illustrator artist. Soul surfer. Traveler. Believer. Surfrider foundation volunteer & coordinator. Wavegliders ambassador.
+    location: "Portugal"
+    followers: 12022
+    engagement: 394
+    commentsToLikes: 0.015870
+    id: ck0tybhy7mamc0i19bjs7dyx6
+    verified: false
+    hashtags: "#baleal, #surfart, #surfillustration, #peniche"
+  - username: "o_trocatintas"
+    fullname: >-
+      Rita Navarro
+    bio: >-
+      MD, Psychiatrist Perinatal Mental Health Illustrator #momof3 #closeparenting #childrensrights CUSTOM WORKS ARE OPEN 😉 Link for the Online SHOP👇🏼
+    location: "Portugal"
+    followers: 28118
+    engagement: 287
+    commentsToLikes: 0.009754
+    id: ck0w3etxbt1n70i191s96axh0
+    verified: false
+    hashtags: "#thequarantinejoys, #ritual, #flowersformother, #allshapes"
+  - username: "gokattyplanet"
+    fullname: >-
+      Catarina Calvinho Gil ☾⋆
+    bio: >-
+      Portuguese animator, illustrator and occasionally a writer 🌾 currently working at @pracafilmes 🌻 catarinacalvinhogil@gmail.com
+    location: "Portugal"
+    followers: 2329
+    engagement: 1257
+    commentsToLikes: 0.074190
+    id: ck8t62gbkc0620j784w47x3bj
+    verified: false
+    hashtags: "#digitalart, #art, #normalizebodies, #digitalillustrations"
   - username: "virus.pt"
     fullname: >-
       Virus
     bio: >-
       Graffiti Writter/Illustrator Porto,Portugal 🇵🇹 welovirus@gmail.com
     location: "Portugal"
-    followers: 2757
-    engagement: 1163
-    commentsToLikes: 0.073804
+    followers: 2873
+    engagement: 842
+    commentsToLikes: 0.061626
     id: ck5qaxc8liqnv0i11extzt6pq
     verified: false
-    hashtags: "#molotowheadquarters, #graffitiart, #cycling, #molotow"
+    hashtags: "#cycling, #portoart, #graffunk, #cyclingpainting"
 ---

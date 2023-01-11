@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Switzerland In 2022
+title: Top 10 Stylists Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top stylists Instagram influencers in Switzerland in 2022. Most popular hashtags: #foodphotography #foodstyling #vegan #swissblogger.
+  Find top stylists Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #editorial #zurich.
 platform: Instagram
-hits: 42
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 42 Instagram influencers like this in Switzerland for you to connect with.
+hits: 21
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 21 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "koelve"
+  - username: "elenabeyens"
     fullname: >-
-      Elvira 🦋
+      Elena Beyens
     bio: >-
-      Zurich, Switzerland Fashion Stylist 👱‍♀️ Live your dream ✨✨✨
+      • Fashion stylist • Founder of Style&Fashion club • Digital content creator • Influencer 📍 Zürich 🇨🇭 📩 Business inquires
     location: "Switzerland"
-    followers: 12847
-    engagement: 2425
-    commentsToLikes: 0.189182
-    id: ck0uetn9rm8rc0i19tbe58bm9
+    followers: 3629
+    engagement: 1025
+    commentsToLikes: 0.353788
+    id: ck9wf1jj2mvgv0j788mqbtfeq
     verified: false
-    hashtags: "#sky, #mystyle, #lake, #song"
-  - username: "croissantbrunch"
+    hashtags: ""
+  - username: "daniela__correia"
     fullname: >-
-      amanda brooke
+      DANIELA CORREIA
     bio: >-
-      #mommy #sustainability #stylist #feminism #impact stylist @amandasamanthabrooke founder & editor-in-chief @asymmagazine modiste @brookepourhomme
+      Fashion Stylist Inquiries: management@danielacorreia.com Zürich | Lausanne
     location: "Switzerland"
-    followers: 8829
-    engagement: 119
-    commentsToLikes: 0.059479
-    id: ck14kaeyzok8e0i19mpn2031q
+    followers: 32041
+    engagement: 87
+    commentsToLikes: 0.087569
+    id: ckap52r649xig0i78d4rntwoi
     verified: false
-    hashtags: "#croissantbrunch, #sundaymood, #namaste, #worklifebalanced"
-  - username: "style_by_dby"
-    fullname: >-
-      debora sarai baumann
-    bio: >-
-      ⋒ mama of 5 | lou-ilay-ameo-yua-zayn ⋒ ⋒ stylist from🇨🇭⋒ ⋒ BE BRIGHT | BE YOU ⋒ ⋒ contact@dbybaumann.ch ⋒
-    location: "Switzerland"
-    followers: 3037
-    engagement: 616
-    commentsToLikes: 0.073236
-    id: ck133vf3pu9fx0i19ou7ou77w
-    verified: false
-    hashtags: "#strand, #autumn, #ferien, #triptip"
-  - username: "healthycooklife"
-    fullname: >-
-      Healthycooklife
-    bio: >-
-      🇨🇭📍🇫🇷 Guillaume 👨‍🍳 @youmiam 📲 📸 Photographe & Styliste culinaire Freelance ✏️ Créateur de contenus food 🍰 Pâtissier & Cuisinier pro ⬇️ BLOG RECETTE
-    location: "Switzerland"
-    followers: 50299
-    engagement: 223
-    commentsToLikes: 0.059851
-    id: ck5zwwa1g6vvs0i14s0fivf58
-    verified: false
-    hashtags: "#foodphotographer, #entremet, #patisserie, #momentgourmand"
+    hashtags: "#styledbydanielacorreia, #dosenbach, #ad, #puma"
   - username: "soulofsoraya"
     fullname: >-
       Soul of Soraya
     bio: >-
       Content Creator, with a passion for Travel Swiss based Fashion Stylist 📍Zurich, Switzerland ✈️ ✉️ soulofsoraya@gmail.com
     location: "Switzerland"
-    followers: 14557
-    engagement: 322
-    commentsToLikes: 0.084530
+    followers: 14312
+    engagement: 325
+    commentsToLikes: 0.083153
     id: ck9wf1h52mv4d0j78uvgwzvxv
     verified: false
-    hashtags: "#capetownlove, #capetowntravel, #sheisnotlost, #swissblogger"
+    hashtags: "#zuri, #switzerlandpictures, #capetownlove, #travelto"
   - username: "ira_zlatev"
     fullname: >-
       Irina
     bio: >-
       Zurich based 🇨🇭 Food photographer & stylist 🍔 Passionate baker & comfort food lover ❤️ Creating cozy recipes 🥨
     location: "Switzerland"
-    followers: 39417
-    engagement: 521
-    commentsToLikes: 0.036062
+    followers: 39329
+    engagement: 375
+    commentsToLikes: 0.038530
     id: ck14kj8ekprtg0i19p64v9vh0
     verified: false
-    hashtags: "#schweizerfoodblog, #foodstyling, #igersschweiz, #swissfoodblogger"
-  - username: "unpetitoiseaudanslacuisine"
-    fullname: >-
-      Healthy Food-Organic Food
-    bio: >-
-      🅔🅥🅐🍴 𝗛𝗲𝗮𝗹𝘁𝗵𝘆 & 𝗢𝗿𝗴𝗮𝗻𝗶𝗰 𝗙𝗼𝗼𝗱 🌱Healthy & Easy Recipes Blog in 🇫🇷/🇬🇧 📸 Food Content creator & culinary stylist 👩‍💻Community manager free lance 📍🇨🇭 🅱🅻🅾🅶☟
-    location: "Switzerland"
-    followers: 7540
-    engagement: 548
-    commentsToLikes: 0.028614
-    id: ck9wex88sm93v0j78f37ff0iy
-    verified: false
-    hashtags: "#foodblogger, #gateausain, #yummy, #zerowaste"
+    hashtags: "#thebakefeed, #swissblogger, #schweizerfoodblog, #onthetable"
   - username: "minluna"
     fullname: >-
-      MINLUNA
+      #MINLUNAONSET
     bio: >-
-      The filtered life of a swiss army knife Creative Director • Fashion Stylist • #KLFashionPolice www.youtube.com/minlunaonset
+      The filtered life of a swiss army knife ON & OFF set Creative Director • Fashion Stylist • Costume Designer • #KLFashionPolice 📬minlunaonset@gmail.com
     location: "Switzerland"
-    followers: 55243
-    engagement: 117
-    commentsToLikes: 0.016898
+    followers: 55204
+    engagement: 106
+    commentsToLikes: 0.023999
     id: ck6tz86mk866k0j71yle6egpb
     verified: false
-    hashtags: "#minlunaonset, #heymalnotes, #lifewear, #30daystoraya"
-  - username: "thelazyinsomniac"
-    fullname: >-
-      Nupur Singh
-    bio: >-
-      📍 Mumbai, India. Photographer. Stylist. Food. Fashion. Lifestyle. Travel. #ihavethisthingwithcafeinteriors
-    location: "Switzerland"
-    followers: 100848
-    engagement: 489
-    commentsToLikes: 0.020066
-    id: ck5zuj1je2ge30i14arwb3yye
-    verified: false
-    hashtags: "#inlovewithswitzerland, #interlaken, #throwback, #ihavethisthingwithcafeinteriors"
+    hashtags: "#uniqlomy, #kitajagakita, #schwarzkopfpromy, #mykiehls"
   - username: "danielstjerne"
     fullname: >-
       Daniel Stjerne
     bio: >-
       
     location: "Switzerland"
-    followers: 17349
-    engagement: 241
-    commentsToLikes: 0.014958
+    followers: 17222
+    engagement: 200
+    commentsToLikes: 0.013167
     id: ck136zxmg93o60i19x1wxr6v8
     verified: false
-    hashtags: "#editorial, #photographersassistant, #editor, #stylingassistant"
+    hashtags: "#10yearsofschon, #postproduction, #model, #casting"
+  - username: "mourjjan"
+    fullname: >-
+      MOURJJAN
+    bio: >-
+      🇱🇧🇬🇧 Lebanese/British Fashion Designer in 🇨🇭Zürich @mourjjan by @roland.g.rahal “Fashion with a Soul”
+    location: "Switzerland"
+    followers: 14141
+    engagement: 895
+    commentsToLikes: 0.013944
+    id: ck5bvuda5kex40i11g3tr4moo
+    verified: false
+    hashtags: "#style, #colours, #parisfashion, #switzerland"
+  - username: "nikimehra"
+    fullname: >-
+      Niki Mehra Madan
+    bio: >-
+      A fashion entrepreneur and digital creator 💌: info@nikimehra.com
+    location: "Switzerland"
+    followers: 476565
+    engagement: 186
+    commentsToLikes: 0.008124
+    id: ck0tze6b8q0od0i19vq72jl49
+    verified: true
+    hashtags: "#couple, #fashionreels, #fashionblogger, #swissalps"
+  - username: "chandoerikluna"
+    fullname: >-
+      Therealchandoerikluna
+    bio: >-
+      🇨🇭🇪🇸🇺🇸 🏈 Fitness 🥇 Award- winning 🎞 Producer 📸 Former Fashion Model Zürich / LA / Milan / Madrid
+    location: "Switzerland"
+    followers: 47185
+    engagement: 234
+    commentsToLikes: 0.260582
+    id: ck5hk1f43hmdp0i11i818lxtq
+    verified: false
+    hashtags: "#zurich, #muscle, #blond, #greyeyes"
+  - username: "nawelbouchoucha"
+    fullname: >-
+      nawelbouchoucha
+    bio: >-
+      peace and love ;) + my favorite option on instagram 🔛"BLOCK" 😉🖒 fashion🧚‍♀️🧚‍♀️- Traveler💫lifestyle🧚‍♀️🧞‍♀️ 👱‍♀️💅💝👗👜💫 Média 🎥📺📷🎬
+    location: "Switzerland"
+    followers: 112782
+    engagement: 289
+    commentsToLikes: 0.012672
+    id: ck0u7k9ip52qj0i19igo97o77
+    verified: false
+    hashtags: "#bouchouchastyle, #nawelbouchoucha, #switzerland, #dz"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Argentina In 2022
+title: Top 10 Mothers Instagram Influencers In Argentina In 2023
 description: >-
-  Find top mothers Instagram influencers in Argentina in 2022. Most popular hashtags: #shareyourlove #jj #gallery.
+  Find top mothers Instagram influencers in Argentina in 2023. Most popular hashtags: #love #snow #photography.
 platform: Instagram
-hits: 114
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 114 Instagram influencers like this in Argentina for you to work with.
+hits: 91
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 91 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "romibustelo"
+  - username: "benjamiran"
     fullname: >-
-      Romi - Fotografía infantil
+      Benjamin Miranda Cosmelli
     bio: >-
-      Mamá de 3 y pediatra/ Mother of 3 and pediatrician CANON Rp - Sigma Art Mem: @raw_community VIP GOLD @clickinmoms - Mod @joy.of.editing // CLIENTES 👇
+      Aquí pasando el tiempo 📍Chile 🌴Viña del Mar 📈Ing. Comercial UAI 📷Modelo Mother agency: @welovemodels._
     location: "Argentina"
-    followers: 5027
-    engagement: 646
-    commentsToLikes: 0.361538
-    id: ckaowp64w9tzj0i78eq7ut4o3
+    followers: 21836
+    engagement: 1689
+    commentsToLikes: 0.037809
+    id: ck0vxd6gyyb8f0i190i6j34ss
     verified: false
-    hashtags: "#magicofthewildones, #snapfromtheheart, #sc, #thesincerestoryteller"
+    hashtags: "#classicleatherlegacy, #perejil, #leche, #cereales"
+  - username: "leticia_lasose"
+    fullname: >-
+      Leticia Lasose ✨
+    bio: >-
+      🇩🇴| Dominican 🇪🇸 👑| Miss Turismo Latina 2015 👠| Hernando Herrera Models BCN 👢|CEO @letys_fashion_store 👶|Mother @babyjoshua16 My canal YouTube ⬇️
+    location: "Argentina"
+    followers: 28904
+    engagement: 407
+    commentsToLikes: 0.106730
+    id: ckf5nwbbzzxu00j23m4f7bmsn
+    verified: false
+    hashtags: "#christmas, #presents, #jolly, #outfit"
   - username: "sofifernandez2"
     fullname: >-
       sofi fernandez
     bio: >-
-      Mother Agency ~ @dhrmodels @racodeloix 🇦🇷
+      Mother Agency ~ @dhrmodels
     location: "Argentina"
-    followers: 156416
-    engagement: 2150
-    commentsToLikes: 0.007414
+    followers: 195839
+    engagement: 2378
+    commentsToLikes: 0.005563
     id: ck6030u26kdtl0i14kkcxm3ew
     verified: false
+    hashtags: "#quinotolovers, #killbill, #dollskill"
+  - username: "zetadouka"
+    fullname: >-
+      Zeta Douka
+    bio: >-
+      Actress , Founder of Anasa(NGO against eating disorders), Editor/blogger All4z.gr & daisy.gr . Mother. Uneasy brain. Greek.
+    location: "Argentina"
+    followers: 241325
+    engagement: 427
+    commentsToLikes: 0.012587
+    id: ck0tz0oe0oogy0i196i2mr63h
+    verified: false
+    hashtags: "#motheranddaughter, #love, #thalia, #eimasteoloimazi"
+  - username: "mariuriganti"
+    fullname: >-
+      ᴹ ᴬ ᴿ ᴵ ᵁ   ᴿ ᴵ ᴳ ᴬ ᴺ ᵀ ᴵ
+    bio: >-
+      _______________________ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⋆ Artist Soul 🏹 ⋆ Mother of @matizhaus ⋆ Visual Creator | Photographer | Illustrator ⋆ Based in Buenos Aires
+    location: "Argentina"
+    followers: 21396
+    engagement: 428
+    commentsToLikes: 0.189832
+    id: ck5zwxjiy6ydt0i14u3bzgsf9
+    verified: false
+    hashtags: "#nature, #deco, #doityourself, #diyprojects"
+  - username: "danicarollo"
+    fullname: >-
+      Daniela Paula Carollo
+    bio: >-
+      •from Brasil { based in Mexico } •mother agency @quetarojas • Follow my @rosabb_nailbar salon
+    location: "Argentina"
+    followers: 19019
+    engagement: 248
+    commentsToLikes: 0.047658
+    id: ck5bwg2ellmzj0i11wvfdk7t4
+    verified: false
     hashtags: ""
-  - username: "milabouquet"
+  - username: "the_steffj"
     fullname: >-
-      MILA BOUQUET ✨
+      Steff J
     bio: >-
-      this account is managed by father/mother @memebouquet @merydelcerrok 🖤
+      Animal Queen👑 Mother Nature 💚 Otra cuenta 👉🏼 @animalhijosmx
     location: "Argentina"
-    followers: 126302
-    engagement: 1619
-    commentsToLikes: 0.005770
-    id: ck5chjb67qvqe0i11r473al7c
+    followers: 48335
+    engagement: 1036
+    commentsToLikes: 0.012504
+    id: ck0w3se2mv0xh0i190vwctpgo
     verified: false
-    hashtags: "#creadoconadidas, #ladeboca, #hermanamayor"
-  - username: "soficantilo"
-    fullname: >-
-      Sofi Cantilo
-    bio: >-
-      UltraTrail Runner🏔🏃🏼‍♀️ Mother🧒🏼👧🏻🐁 Speaker/Oradora👩🏼‍🏫🎓 . Ansilta - Skechers - LaRochePosay - Injinji -Thule - Powered by Gatorade
-    location: "Argentina"
-    followers: 15563
-    engagement: 181
-    commentsToLikes: 0.066350
-    id: ck8t06o5pqzcs0j78i2evz70l
-    verified: false
-    hashtags: "#moab240"
-  - username: "vazquez.camila2"
-    fullname: >-
-      Camila Vazquez
-    bio: >-
-      Mother Agency: @koralmgmt 🇦🇷
-    location: "Argentina"
-    followers: 2383
-    engagement: 1144
-    commentsToLikes: 0.043828
-    id: ck55lmsen1xra0i116558yzoq
-    verified: false
-    hashtags: ""
+    hashtags: "#steffj, #animalhijosmx, #ayernesto, #iguanasofinstagram"
   - username: "undiagris"
     fullname: >-
       Marta Garrido
     bio: >-
       Fotografío cosas, entre ellas, mi vida. Married to @julsmort 🚀❤️ Mother of Benito🦖 BCN📍 garrido.gonzalez.marta@gmail.com📩
     location: "Argentina"
-    followers: 25454
-    engagement: 851
-    commentsToLikes: 0.013033
+    followers: 25434
+    engagement: 855
+    commentsToLikes: 0.010691
     id: ck15syfqkffyn0i19logiql4l
     verified: false
-    hashtags: "#gifted, #precumple"
+    hashtags: ""
   - username: "dallysferreira"
     fullname: >-
       Dallys Ferreira
     bio: >-
-      🎭Actress: Esc Teatro d Bs As 📺Tv Host: @lmunicanal 📰Journalist Univ. d Palermo Arg 👩‍👧Mother the @indiasporleder
+      🎭Actress: Esc Teatro d Bs As 📺Tv Host: @lmunicanal 📰Journalist Univ. d Palermo Arg 👩‍👧Mother of @indiasporleder
     location: "Argentina"
-    followers: 498336
-    engagement: 117
-    commentsToLikes: 0.160082
+    followers: 518733
+    engagement: 97
+    commentsToLikes: 0.158481
     id: ck15r9sai6v1s0i199nu4qu02
     verified: true
-    hashtags: "#fundaci, #coroneloviedo, #cancerdemama, #octubrerosa"
-  - username: "zetadouka"
+    hashtags: "#rapiditas, #bianca, #tabletasado, #salsadesoja"
+  - username: "marlene_mourreau_oficial"
     fullname: >-
-      Zeta Douka
+      Marlene Mourreau
     bio: >-
-      Actress #tokafetisxaras , Founder of Anasa(NGO against eating disorders), Editor/blogger All4z.gr & daisy.gr . Mother. Uneasy brain. Greek.
+      Artista de espectáculo .vedette .actriz .Dancer singer .presentadora TV . Ganadora Ghvip1 .superviviente .businesswoman & Mother
     location: "Argentina"
-    followers: 215869
-    engagement: 326
-    commentsToLikes: 0.010582
-    id: ck0tz0oe0oogy0i196i2mr63h
+    followers: 30301
+    engagement: 269
+    commentsToLikes: 0.063436
+    id: ck5ztyqwl1d130i145dnj2183
     verified: false
-    hashtags: "#friends, #love, #actress, #tbt"
-  - username: "cristinafaguas"
-    fullname: >-
-      Cristina Faguás
-    bio: >-
-      🎬ACTRIZ Y PRESENTADORA Mother of dragons Malabarista del tiempo
-    location: "Argentina"
-    followers: 2451
-    engagement: 2052
-    commentsToLikes: 0.079335
-    id: ck15pxvta06dg0i19bvuaoxdq
-    verified: false
-    hashtags: "#sinfiltros, #fiestasdeandalucia, #presentadora, #grabacionesmolonas"
-  - username: "sandrarriagada"
-    fullname: >-
-      Sandra Arriagada
-    bio: >-
-      Thinker/Maker/Doer/Mother of Lions💪📽✍ Cineasta en WIP. No dependo de reyes que me regalen mi destino. Mato el dragón y me hago el Reyno yo solita 💚🎬💚
-    location: "Argentina"
-    followers: 45482
-    engagement: 261
-    commentsToLikes: 0.019391
-    id: ck6tlnbb56a2g0j71zwpklhe1
-    verified: false
-    hashtags: "#comingsoon, #redhead, #apps, #horrormovies"
+    hashtags: "#makeup, #photo, #jueves18defebrero, #bonjour"
 ---

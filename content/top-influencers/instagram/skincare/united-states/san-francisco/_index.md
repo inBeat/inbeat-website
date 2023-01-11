@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In San Francisco In 2022
+title: Top 10 Skincare Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top skincare Instagram influencers in San Francisco in 2022. Most popular hashtags: #skincare #makeup #beauty #makeupartist.
+  Find top skincare Instagram influencers in San Francisco in 2023. Most popular hashtags: #skincare #sanfrancisco #makeup #gifted.
 platform: Instagram
-hits: 27
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 27 Instagram influencers like this in San Francisco, United States for you to collaborate.
+hits: 20
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "valeriefidan"
+    fullname: >-
+      Valerie Alvarez
+    bio: >-
+      My account name has changed. Follow me on @valeriealvarez [6/2020]
+    location: "United States"
+    followers: 1
+    engagement: 4612500
+    commentsToLikes: 0.101382
+    id: ck0u8kndl7jra0i19384wxxcx
+    verified: false
+    hashtags: "#digitalnomad, #ad, #stayhome, #zeroshop"
   - username: "shotsbystoney"
     fullname: >-
       Shots by Stoney
     bio: >-
-      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Texas
+      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Aspen, CO
     location: "United States"
-    followers: 2522
-    engagement: 1065
-    commentsToLikes: 0.085313
+    followers: 2820
+    engagement: 1080
+    commentsToLikes: 0.076417
     id: ck14j9ipfj8il0i192q4opkfr
     verified: false
-    hashtags: "#laphotographers, #beautyphoto, #houstonphotographer, #atxphotographer"
-  - username: "dr_kavi_derm"
+    hashtags: "#dallasphotographer, #atxphotographer, #atxmodel, #mensbeauty"
+  - username: "tinytimetraveler"
     fullname: >-
-      Dr. Kaveri Karhade • MD • FAAD
+      𝓜𝓪𝔂 🤍/ 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 / 𝑴𝒐𝒕𝒉𝒆𝒓𝒉𝒐𝒐𝒅
     bio: >-
-      •DOCTOR• 💓Bay Area’s board-certified dermatologist 💉Specializing in laser, cosmetic, and medical skincare 👇🏼Appts, product recs, terms of use
+      ↠𝘚𝘵𝘰𝘳𝘺𝘵𝘦𝘭𝘭𝘪𝘯𝘨 𝘢𝘯𝘥 𝘳𝘢𝘪𝘴𝘪𝘯𝘨 𝘵𝘩𝘳𝘦𝘦 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭 𝘰𝘶𝘵𝘥𝘰𝘰𝘳 𝘭𝘰𝘷𝘪𝘯𝘨 𝘣𝘰𝘺𝘴 ↠𝘓𝘪𝘷𝘪𝘯𝘨 𝘵𝘩𝘦 𝘭𝘪𝘵𝘵𝘭𝘦 𝘵𝘩𝘪𝘯𝘨𝘴 𝘸𝘩𝘪𝘭𝘦 𝘴𝘦𝘢𝘳𝘤𝘩𝘪𝘯𝘨 𝘧𝘰𝘳 𝘯𝘦𝘸 𝘢𝘥𝘷𝘦𝘯𝘵𝘶𝘳𝘦𝘴 ↣𝖤𝗆𝗈𝗍𝗂𝗈𝗇𝖺𝗅 𝖬𝖺𝗆𝖺 ↠𝘛𝘦𝘢 ♡𝘦𝘳
     location: "United States"
-    followers: 10980
-    engagement: 553
-    commentsToLikes: 0.106244
-    id: ck8t2q4yk0bpr0j78cgjgf3p3
+    followers: 25863
+    engagement: 381
+    commentsToLikes: 0.052274
+    id: ck8sxo342i1s40j78vqo0ou27
     verified: false
-    hashtags: "#neutrogenasuncare, #neutrogenapartner, #glowup, #skincare"
-  - username: "spacelordnova"
+    hashtags: "#motherhoodinsquares, #lovethemboys, #igmami, #mamaofboys"
+  - username: "cristinaviseu"
     fullname: >-
-      A L I E N (they/them)
+      Cristina 💕 San Francisco
     bio: >-
-      NYC 🗽 Bilingual, Bisexual, Biodegradable MGMT / Booking: pablo@thetitansmanagement.com
+      💕 Ghibli film vibes 🌸 tiktok 200k!! @cristinaviseu 😌 📍San Francisco ✨ video @fentybeauty 🌸 my art shop @maisonpeaches 💌viseu.c@gmail.com
     location: "United States"
-    followers: 7418
-    engagement: 1321
-    commentsToLikes: 0.074476
-    id: ck5pzuoif2u440i111t9kxoti
+    followers: 20442
+    engagement: 4185
+    commentsToLikes: 0.011248
+    id: ckaorswleolz40i78clw0wbry
     verified: false
-    hashtags: "#style, #pride, #nycmodel, #photooftheday"
-  - username: "eggdressesup"
-    fullname: >-
-      Em 🌱
-    bio: >-
-      🌿based in San Francisco, CA 🌱 mostly slow fashion, skincare, & lifestyle 🌱collabs: dm or email eggdressesup@gmail.com
-    location: "United States"
-    followers: 2994
-    engagement: 753
-    commentsToLikes: 0.096921
-    id: ck8tbsvg1x03a0j78wz2moq9j
-    verified: false
-    hashtags: "#togetherwearetrue, #mejuri"
-  - username: "shanberries"
-    fullname: >-
-      Shan Berries
-    bio: >-
-      Founder & CEO @shadesbyshan @mamaberriesfoundation⠀ ⠀ On Air Personality & CAL HI SPORTS TV Host 🌉San Francisco Native 💌 info@shanberries.com
-    location: "United States"
-    followers: 26435
-    engagement: 457
-    commentsToLikes: 0.065386
-    id: ck55n2ywl5d1i0i11jie0du71
-    verified: true
-    hashtags: "#preggo, #momblogger, #firstbaby, #pregnancydiary"
-  - username: "petitetammie"
-    fullname: >-
-      Tammie | petite style & beauty
-    bio: >-
-      5'1 | San Francisco PR / Collab via email 📩 DM @versed skin team / 20%off @lilahbeauty tammie20 🛍 more code in below link 🐶 @poodlekiwi420sf
-    location: "United States"
-    followers: 12947
-    engagement: 603
-    commentsToLikes: 0.254876
-    id: ck5c5ur1d46mf0i111fea4grc
-    verified: false
-    hashtags: "#skincare, #beautygiveaway, #liketkit, #skincarecommunity"
+    hashtags: "#softaesthetic, #cottagecoreaesthetic, #soft, #picnicdate"
   - username: "jazlmao"
     fullname: >-
       Jazzi 🌻 Manalo Sullivan
     bio: >-
-      I do makeup and I’m a goof she/her 📍San Francisco Filipina 🇵🇭
+      makeup + real skin!! :) friendsta: @allthatjazzi15 📍San Francisco Filipina 🇵🇭
     location: "United States"
-    followers: 17830
-    engagement: 438
-    commentsToLikes: 0.037101
+    followers: 18655
+    engagement: 360
+    commentsToLikes: 0.029684
     id: ck6tq4pgipdja0j71ch1q3vus
     verified: false
-    hashtags: "#muasfeaturing, #benefitclubpink, #benefitcosmetics, #muaunderdogs"
+    hashtags: "#nyxcosmetics, #skinpositivity, #colourpopme, #makeupdolls"
+  - username: "sepi_usa"
+    fullname: >-
+      Sepi سپیده🇺🇸مقیم آمریکا
+    bio: >-
+      📍San Francisco👩🏽‍💻طراح وبسایت سوالتون رو کامنت کنید 🇺🇸پیج آموزش زبانم @english_sepi sepi.blogger@gmail.com for collabs 👇🏻
+    location: "United States"
+    followers: 50243
+    engagement: 440
+    commentsToLikes: 0.083181
+    id: ck8t7e18zgglb0j78e3gq8g2v
+    verified: false
+    hashtags: "#california, #curlyhair, #gifted, #bayareabloggers"
+  - username: "rainbowchatman"
+    fullname: >-
+      Rainbow
+    bio: >-
+      🏳️‍🌈 non-binary ⛓ makeup artist + creator 📍San Francisco
+    location: "United States"
+    followers: 14985
+    engagement: 347
+    commentsToLikes: 0.068452
+    id: ck15pieagy1cz0i19iiytoyig
+    verified: false
+    hashtags: "#visiblyplussize, #asos, #gifted, #psfashion"
+  - username: "the_skinedit"
+    fullname: >-
+      Lindsey
+    bio: >-
+      🎞 skincare and minimal makeup 👋🏼 Lctheskinedit@gmail.com San Francisco
+    location: "United States"
+    followers: 3367
+    engagement: 916
+    commentsToLikes: 0.189815
+    id: ckf5tx0a5iyqp0j235uaslwr9
+    verified: false
+    hashtags: "#arrivebeauty, #arrivebeautyskinboost, #arrivebeautybronzer"
   - username: "alleyesonmax"
     fullname: >-
       Max Showalter • Makeup Artist
     bio: >-
       📍 San Francisco,CA🌉 💄 Makeup Artist 🌳 Tree Hugger 🌌 Universe Lover ✌🏻 Positive Energy and Good Vibes 📧 : maxshowalter@yahoo.com 🎞 YouTube👇🏻
     location: "United States"
-    followers: 6389
-    engagement: 468
-    commentsToLikes: 0.104049
+    followers: 6128
+    engagement: 506
+    commentsToLikes: 0.113078
     id: ck14iq1zrgnr10i195eyvrknp
     verified: false
-    hashtags: "#tatchaskincare, #31daysofhalloween, #specialfxmakeup, #morphebrushes"
-  - username: "bayareafashionista"
+    hashtags: "#jeffreestarcosmetics, #makeup, #plouisebase, #morpheboy"
+  - username: "briannabordette"
     fullname: >-
-      Cathy
+      𝐁
     bio: >-
-      💃🏻Fashion-Style-Beauty 👨‍👦👩‍👧‍👧Married Mom of 3 🌁San Francisco Bay Area 👜Shop my feed 👇 https://www.liketoknow.it/bayareafashionista 💻Visit the blog 👇
+      by faith through grace based in scottsdale, arizona travel & skincare enthusiast ♡
     location: "United States"
-    followers: 50850
-    engagement: 262
-    commentsToLikes: 0.011287
-    id: ck6tv9sjjkzo70j717zzii8b2
+    followers: 17352
+    engagement: 275
+    commentsToLikes: 0.059830
+    id: ck15qgg8e2q0y0i1961epbzgg
     verified: false
-    hashtags: "#ltkstyletip, #itbags, #outfits, #ltkbeauty"
-  - username: "anna.sauce"
-    fullname: >-
-      🌸 Anna Nguyen 🌸
-    bio: >-
-      Join me on my journey 🧳 Travel 🍤 Food 🧘🏻‍♀️ Self Discovery 📧 For serious inquiries: annanguyeny@gmail.com
-    location: "United States"
-    followers: 12001
-    engagement: 1398
-    commentsToLikes: 0.023549
-    id: ck14h4yi28jx30i19oye3rns2
-    verified: false
-    hashtags: "#asiangirl, #traveler, #vacation, #california"
+    hashtags: "#revolveambassador, #barcelona, #travelspain, #revolveclothing"
 ---

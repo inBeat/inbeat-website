@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Peru In 2022
+title: Top 10 Music Instagram Influencers In Peru In 2023
 description: >-
-  Find top music Instagram influencers in Peru in 2022. Most popular hashtags: #nikky #octubre #kcamexico.
+  Find top music Instagram influencers in Peru in 2023. Most popular hashtags: #musica #cuarentena #trap.
 platform: Instagram
-hits: 186
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 186 Instagram influencers like this in Peru for you to pitch.
+hits: 288
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 288 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "jotabenz92"
+  - username: "santymolinab"
     fullname: >-
-      𝐀𝐌𝐀,𝐕𝐈𝐕𝐄 𝐘 𝐃𝐄𝐉𝐀 𝐕𝐈𝐕𝐈𝐑
+      Santy Molina
     bio: >-
-      𝕲𝖊𝖓𝖚𝖎𝖓𝖔 BΣПZ 💽🎵 📧Jbenzcontact1@gmail.com Escucha Mi Música ⤵️
+      Barranquilla, Colombia Cantante de Música Urbana - Actor Ex-participante la Voz Kids 2018 Rey Vallenato #LaFormaEnQueMeBesas Disponible ahora!👇👇👇
     location: "Peru"
-    followers: 832687
-    engagement: 468
-    commentsToLikes: 0.034172
-    id: ck55opj4x8unc0i11tgu43ftl
-    verified: true
-    hashtags: "#jotabenz, #amoraprimeravista, #dance, #life"
-  - username: "ignacioserranob"
-    fullname: >-
-      Ignacio Serrano
-    bio: >-
-      Cantante y compositor 📩Social: ignacioserrano@go-talents.com 📩Music: albertocervera@cersa.es
-    location: "Peru"
-    followers: 36057
-    engagement: 764
-    commentsToLikes: 0.031035
-    id: ck8szo6b1p41h0j78v1eptusf
+    followers: 36439
+    engagement: 591
+    commentsToLikes: 0.069713
+    id: ck6u1mo66mnlf0j71nr3mvdtf
     verified: false
-    hashtags: "#thisisopel, #opelmokka"
-  - username: "mellamovicko"
+    hashtags: "#felizmartes, #workout, #gym, #8deenero"
+  - username: "marianogabrielmartinezok"
     fullname: >-
-      Victoria Puchuri🦂
+      Mariano Martinez
     bio: >-
-      Cantante ,Diseño Gráfico, hacer postres y la música! 🎤 Sígueme en tiktok @victoriapuchurib14 Mi Tienda virtual @torychi1411 pagina Oficila de FB :
+      Cantante, Músico, Compositor, Productor Artístico/ Musical/ Attaque77
     location: "Peru"
-    followers: 90941
-    engagement: 469
-    commentsToLikes: 0.038015
-    id: ckf5lj8qlprw50j235v16t06g
+    followers: 32207
+    engagement: 611
+    commentsToLikes: 0.070096
+    id: ck15psxy7zhtb0i195hipl26w
+    verified: false
+    hashtags: "#attaque77, #attaque, #rocknacional, #cuarentenacreativa"
+  - username: "shohannamusic"
+    fullname: >-
+      S H O H A N N A
+    bio: >-
+      • Cantante Argentina de Musica Urbana • TikTok (+350k)
+    location: "Peru"
+    followers: 37920
+    engagement: 493
+    commentsToLikes: 0.070993
+    id: ck5qasuy5i2ug0i11yxj3mizp
+    verified: false
+    hashtags: "#dngteam, #verano2021, #brunenger, #trap"
+  - username: "andrealunamusic"
+    fullname: >-
+      Andrea Luna
+    bio: >-
+      🎤CANTANTE🎸🇲🇽 MEXICANA F:B ANDREA LUNA MUSIC
+    location: "Peru"
+    followers: 108192
+    engagement: 729
+    commentsToLikes: 0.020049
+    id: ck0ud6kqfiejb0i19d8dml1uv
+    verified: false
+    hashtags: "#hastalamielamarga, #youtube, #vasallorarpormi, #mujeresdelregionalmexicano"
+  - username: "anaisvivas"
+    fullname: >-
+      Anais Vivas
+    bio: >-
+      Cantante venezolana 🇻🇪 • UM Frost School of Music 🙌🏼 • Diseño Floral: @aniskacreations 🌸💕
+    location: "Peru"
+    followers: 80191
+    engagement: 281
+    commentsToLikes: 0.059314
+    id: ck5ckmr0rx6yq0i11nxusl26p
     verified: true
-    hashtags: "#algodistinto, #sipodemos, #moda, #octubre"
+    hashtags: "#billofrometa, #renatocapriles, #caracas453, #caracas"
   - username: "denissemalebran"
     fullname: >-
       denisse malebran
     bio: >-
       Letras y música. Antípoda ♾ 👇🏼
     location: "Peru"
-    followers: 71307
-    engagement: 201
-    commentsToLikes: 0.052366
+    followers: 72683
+    engagement: 218
+    commentsToLikes: 0.049493
     id: ck5pvvqkyjv7u0i11mw1o79g6
     verified: true
-    hashtags: "#ant, #tarde, #antipoda, #antipodaenvivo"
-  - username: "brandogallesi"
+    hashtags: "#sincuerpo, #arbol, #hilar, #pedrito"
+  - username: "santimundo"
     fullname: >-
-      Brando Gallesi
+      Santiago Ezequiel Mundo
     bio: >-
-      Protagonista de "Billy Elliot" el Musical Perú, Lima Protagonista de la película “Django en el nombre del hijo” Cantante del dúo @lubranoficial 🎤 ⬇️⬇️
+      Cantante 🇦🇷 Músico ❤ Productor🎹🎶🎸🎤🎛 Música-Teatro 💥 Mis trabajos los podes ver en @santaprod
     location: "Peru"
-    followers: 278420
-    engagement: 776
-    commentsToLikes: 0.022005
-    id: ck6u93o5evb340j7189oq8l96
+    followers: 4709
+    engagement: 1031
+    commentsToLikes: 0.170033
+    id: ck5heo77etxzq0i11f9xxdh4k
     verified: false
-    hashtags: "#quedatencasa, #yeezy, #musica, #guitarra"
-  - username: "millaraysmb"
+    hashtags: "#underground, #musica, #casa, #encasa"
+  - username: "benelgringo"
     fullname: >-
-      AISHA 🌹
+      Benjamin Lopez Ferrigno
     bio: >-
-      millaraybooking@gmail.com # cantante. 🥀 Pronto toda mi música 📀 Aisha is in the house 🥀. 🥀. 🥀
+      📈📉📈📉📈 Bay Area📍👶🏼🇵🇪, 🧔🏻🇺🇸 Traveler 🧳 Tourist 🌎 TeamBrocoli 🥦... Business iQ: spanglishben@gmail.com Music YouTube link:
     location: "Peru"
-    followers: 201859
-    engagement: 957
-    commentsToLikes: 0.007069
-    id: ck5bx404cmyiz0i11ex7dzbv4
+    followers: 293874
+    engagement: 509
+    commentsToLikes: 0.018092
+    id: ck5ck8dliwcn00i11mr0k9b0q
     verified: true
-    hashtags: ""
-  - username: "gattinicole"
+    hashtags: "#infiel, #vaquero, #peruano, #youtube"
+  - username: "ignacioserranob"
     fullname: >-
-      Nicole Gatti
+      Ignacio Serrano
     bio: >-
-      🎙Cantante 🎹🎸Músico 💿@warnermusicmex 2.1 Millones en TIKTOK Nuevo Sencillo 🍀TRÉBOL🍀 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ SHEIN 15% code: EBF627
+      Cantante y compositor 📩Social: ignacioserrano@go-talents.com 📩Music: albertocervera@cersa.es Escucha mi nuevo single "4:20" ⭐️⭐️
     location: "Peru"
-    followers: 115448
-    engagement: 566
-    commentsToLikes: 0.015561
-    id: ck9wdhfldfn790j78g62t7daf
+    followers: 38703
+    engagement: 440
+    commentsToLikes: 0.038302
+    id: ck8szo6b1p41h0j78v1eptusf
     verified: false
-    hashtags: "#cantante, #nicolegatti, #teen, #tiktok"
-  - username: "angelaleivaok"
+    hashtags: "#noquisisteverlo, #yslbeauty, #publi, #whynot"
+  - username: "maxiespindola"
     fullname: >-
-      AngelaLeivaOk
+      Maxi Espindola
     bio: >-
-      🎤Cantante Argentina.Apasionada x la música 📲Contacto: @varelammg +54911 32408267 📩angelaleivaproduccion@gmail.com ➡️marcas @enchulamecon
+      Cantante, Compositor, Productor Integrante de @mya_musica 🇦🇷 esteban@myamusica.com - ENTRADAS 🎫
     location: "Peru"
-    followers: 781062
-    engagement: 290
-    commentsToLikes: 0.019447
-    id: ck5hd1khtl12i0i11zh0f7v7d
+    followers: 705212
+    engagement: 469
+    commentsToLikes: 0.005943
+    id: ck5bw0rwukrsy0i110qp4su7s
     verified: true
-    hashtags: "#volveremos, #cuarentena, #covid19, #angelalareina"
-  - username: "deniserosenthal"
-    fullname: >-
-      Denise Rosenthal
-    bio: >-
-      🎤👸 Cantante, música, compositora ..... Todas seremos reinas ⚜️2020
-    location: "Peru"
-    followers: 3378087
-    engagement: 495
-    commentsToLikes: 0.009858
-    id: ck134zb53yxft0i19gf3w21sm
-    verified: true
-    hashtags: "#gira, #dormirdeniserosenthal, #galaxyaparatodos, #eld"
-  - username: "andreswiese_r"
-    fullname: >-
-      Andrés Wiese
-    bio: >-
-      Orgulloso de ser 🇵🇪 Actor 🎭🎬📺 Soñador, viajero ✈️, amante del ⚽️ y la música de Cerati. #MerecesLoQueSueñas Productor y conductor “ESCápate” ▶️ IGTV
-    location: "Peru"
-    followers: 1916712
-    engagement: 459
-    commentsToLikes: 0.010164
-    id: ck5c5h5d93gtp0i116db5mu99
-    verified: true
-    hashtags: "#mentaeneldesierto, #suertemuchachos, #cuidensemuchoporfavor, #esc"
+    hashtags: "#tequieroxeso, #vueltaalmundo, #fuistemia, #nobailopatichallenge"
 ---

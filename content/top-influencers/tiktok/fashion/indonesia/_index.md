@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Indonesia In 2022
+title: Top 10 Fashion TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top fashion TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #fashion #foryou #voiceeffects.
+  Find top fashion TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryou #samasamabelajar.
 platform: TikTok
-hits: 68
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 68 TikTok influencers like this in Indonesia for you to contact.
+hits: 61
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 61 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "nabillamentary"
+  - username: "kazamahusein"
     fullname: >-
-      𝑏𝑎𝑏𝑦 𝑏
+      kazamahusein
     bio: >-
-      fashion business graduate business inquires dm insta👆🏼🦋
+      🌓 ⬇️ Lazada Fashion⬇️
     location: "Indonesia"
-    followers: 45400
-    engagement: 1026
-    commentsToLikes: 0.027429
-    id: ckb9img8191vu0j23mwgs4zjg
-    verified: false
-    hashtags: "#duet, #sampaikitatua, #tiktokcostumeparty, #loveguessid"
-  - username: "rian.adrians"
+    followers: 2400000
+    engagement: 1015
+    commentsToLikes: 0.017000
+    id: ckc37hwk1wbmj0j237xycllqy
+    verified: true
+    hashtags: "#garudapotato, #ngepopcrunchcrunch, #icrunchu, #wenak"
+  - username: "tamaradai_"
     fullname: >-
-      𝖗𝖎𝖆𝖓 𝖆𝖉𝖗𝖎𝖆𝖓𝖘♟
+      Tamara Dai
     bio: >-
-      Fashion Enthusiast
+      🇮🇩 Fashion Designer Content Creator AJ1 Enthusiast
     location: "Indonesia"
-    followers: 286800
-    engagement: 940
-    commentsToLikes: 0.019257
-    id: ck92tyfejjvtl0j78yx0nm102
-    verified: false
-    hashtags: "#style, #tiktokfashion, #fashionflip, #outfitideas"
-  - username: "mathwang.kie"
-    fullname: >-
-      Mathwang Kie
-    bio: >-
-      Fashion Model, Businessman, CEO and Founder - MATHWANG KIE SKINCARE
-    location: "Indonesia"
-    followers: 40900
-    engagement: 421
-    commentsToLikes: 0.035091
-    id: ckail07c0lyx00i78wuwl72p7
-    verified: false
-    hashtags: "#inibeneranlive, #tiktokindonesia, #tiktok, #foryoupage"
+    followers: 4300000
+    engagement: 1324
+    commentsToLikes: 0.016690
+    id: ckcusnenvk6ut0j23kg9zt8dp
+    verified: true
+    hashtags: "#fashion, #fashiontransition, #outfitinspiration, #ventelashoes"
   - username: "jejakbayuubay69"
     fullname: >-
       Jejakbayuubay 
     bio: >-
       TRAVEL / FASHION / LIFESTYLE / DAGELAN IG : jejakbayuubay
     location: "Indonesia"
-    followers: 2958
-    engagement: 405
-    commentsToLikes: 0.112692
+    followers: 3362
+    engagement: 499
+    commentsToLikes: 0.164784
     id: ckdsx4zmmqmhr0j234h9us10b
     verified: false
-    hashtags: "#travel, #jogja, #julianjacob, #samasamaditiktok"
+    hashtags: "#fypgakni, #fypdongggggggg, #fyp, #1111shopeehaul"
+  - username: "mathwang.kie"
+    fullname: >-
+      Mathwang Kie
+    bio: >-
+      Fashion Model, Businessman, CEO and Founder - MATHWANG KIE SKINCARE
+    location: "Indonesia"
+    followers: 49500
+    engagement: 492
+    commentsToLikes: 0.036244
+    id: ckail07c0lyx00i78wuwl72p7
+    verified: false
+    hashtags: "#fyp, #foryourpage, #foryoupage, #tiktokindonesia"
+  - username: "nabillamentary"
+    fullname: >-
+      𝑏𝑎𝑏𝑦 𝑏
+    bio: >-
+      fashion business graduate business inquires dm insta👆🏼🦋
+    location: "Indonesia"
+    followers: 46000
+    engagement: 877
+    commentsToLikes: 0.021637
+    id: ckb9img8191vu0j23mwgs4zjg
+    verified: false
+    hashtags: "#jinisoemangkeren, #ratjunjiniso"
+  - username: "rian.adrians"
+    fullname: >-
+      𝖗𝖎𝖆𝖓 𝖆𝖉𝖗𝖎𝖆𝖓𝖘♟
+    bio: >-
+      Fashion Enthusiast 📍Jakarta
+    location: "Indonesia"
+    followers: 332400
+    engagement: 800
+    commentsToLikes: 0.018895
+    id: ck92tyfejjvtl0j78yx0nm102
+    verified: false
+    hashtags: "#outfit, #fashion, #ootd, #fyp"
+  - username: "nathanael.moss"
+    fullname: >-
+      Nathanael Moss
+    bio: >-
+      Lets talk about fashion and photography
+    location: "Indonesia"
+    followers: 286100
+    engagement: 833
+    commentsToLikes: 0.006374
+    id: ckc8vacw2i1wo0j23k39xqbj9
+    verified: false
+    hashtags: "#kelasfoto, #samasamabelajar, #vsco, #duet"
   - username: "vicisienna"
     fullname: >-
       ViciSienna
     bio: >-
       My ig @vicisienna is all about fashion+beauty U may see some silly me here 🤪
     location: "Indonesia"
-    followers: 11000
-    engagement: 361
-    commentsToLikes: 0.071467
+    followers: 14700
+    engagement: 389
+    commentsToLikes: 0.037495
     id: ckc8x1kr8kpvl0j23xj3jmnc1
     verified: false
-    hashtags: "#jichangwook, #foryou, #fyp, #jakarta"
-  - username: "nathanael.moss"
-    fullname: >-
-      ur friendly neighbor
-    bio: >-
-      Lets talk about fashion and photography
-    location: "Indonesia"
-    followers: 156400
-    engagement: 1125
-    commentsToLikes: 0.011609
-    id: ckc8vacw2i1wo0j23k39xqbj9
-    verified: false
-    hashtags: "#gayadirumah, #fashion, #fyp, #handpoke"
-  - username: "dheafanta"
-    fullname: >-
-      Smoga kurus amin
-    bio: >-
-      Travel, fashion, kitten & random Just fo fun and fun only
-    location: "Indonesia"
-    followers: 30200
-    engagement: 349
-    commentsToLikes: 0.051603
-    id: ckbqum20ef17e0j23w7ffalh8
-    verified: false
-    hashtags: "#catlover, #samasamadirumah, #view, #petlover"
-  - username: "ivyfeb"
-    fullname: >-
-      ivyfeb ☁️
-    bio: >-
-      20 Review barang ngeracun art beauty fashion food ig : ivyfeb Tiktok2: @ivyfeb00
-    location: "Indonesia"
-    followers: 1800000
-    engagement: 1287
-    commentsToLikes: 0.005591
-    id: ckcjjtewndlp30j23rjo1yw4o
-    verified: false
-    hashtags: "#fyp, #skincare, #fashion, #baju"
+    hashtags: "#biarkece, #biasalah, #fyp, #vaksincovidindonesia"
   - username: "stephaniesrikandi"
     fullname: >-
       Stephanie FASHION ENTREPRENEUR
     bio: >-
-      Fashion Business Coach Follow @startyourfashionbusiness Sign up to my course:
+      I teach you how to start and scale your fashion brand! Join my FREE training:
     location: "Indonesia"
-    followers: 3047
-    engagement: 625
-    commentsToLikes: 0.027109
+    followers: 4116
+    engagement: 608
+    commentsToLikes: 0.039138
     id: ckbknumtbi0w40j23d5m4lugm
     verified: false
-    hashtags: "#fashionbusiness, #youtube, #entrepreneur, #businesstips"
-  - username: "tamaradai_"
+    hashtags: "#fashionbrand, #businesstips, #foryou, #fashionbusiness"
+  - username: "kathrynkatg"
     fullname: >-
-      Tamara Dai
+      Kathrynka
     bio: >-
-      | Fashion Designer | Content Creator |AJ1 Enthusiast Ig : @tamaradai
+      anak fashion suka masak Follow IG ku yuk✨ Business Inquiries: IG DM
     location: "Indonesia"
-    followers: 129800
-    engagement: 682
-    commentsToLikes: 0.012734
-    id: ckcusnenvk6ut0j23kg9zt8dp
+    followers: 49300
+    engagement: 693
+    commentsToLikes: 0.011129
+    id: ckbwdn04318rt0j23b58vu4sh
     verified: false
-    hashtags: "#hypebae, #fyp, #hypebeast, #trending"
+    hashtags: "#korean, #fyp, #chocomory, #tiktokfoodie"
 ---

@@ -1,36 +1,72 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Poland In 2022
+title: Top 10 Cosmetics Instagram Influencers In Poland In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Poland in 2022. Most popular hashtags: #makeup #polskadziewczyna #polishgirl #girl.
+  Find top cosmetics Instagram influencers in Poland in 2023. Most popular hashtags: #makeup #polishgirl #polskadziewczyna #makijaz.
 platform: Instagram
-hits: 705
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 705 Instagram influencers like this in Poland for you to pitch.
+hits: 631
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 631 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "joanna.walkow"
+  - username: "magdapieczonkamakeup"
     fullname: >-
-      Joanna 🌸
+      Magda Pieczonka
     bio: >-
-      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
+      💄Makijażystka Wszech Czasów wizaż.pl💄 Beauty Influencer Roku magazynu JOY 💄Autorka pędzli do makijażu oraz rzęs @lovenue_cosmetics_and_tools
     location: "Poland"
-    followers: 5977
-    engagement: 1547
-    commentsToLikes: 0.093577
-    id: ck9wekanbknaa0j7834my2xx2
-    verified: false
-    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
-  - username: "xneessy"
+    followers: 717845
+    engagement: 251
+    commentsToLikes: 0.007085
+    id: ck0vzxfj1bcy70i19joogf0g7
+    verified: true
+    hashtags: "#like, #makeup, #wsp, #makijazclinique"
+  - username: "oliwiachomentowska"
     fullname: >-
-      🎀Agnieszka Wiszniewska🎀
+      ⭐️Fitnessmissionbyolivia⭐️
     bio: >-
-      🌆Białystok/Augustów 🐶🐰 pet lover 💄cosmetics lover
+      Co-owner @blommaofficial @sweet_kcal @carpatree „olivia” -20% @fitwomen.pl „olivia” -15% @apis.natural.cosmetics „olivia” -10% Dieta/trening ->
     location: "Poland"
-    followers: 19304
-    engagement: 537
-    commentsToLikes: 0.079229
-    id: ck8t0xbortomi0j78gn58dw6l
+    followers: 114619
+    engagement: 542
+    commentsToLikes: 0.045602
+    id: ck5zx2a6o77i50i14xpaa9zti
     verified: false
-    hashtags: "#polishgirl, #memories, #girl, #woman"
+    hashtags: "#workout, #wypukleposladki, #zdroweodzywanie, #promocja"
+  - username: "brunettecosmetics"
+    fullname: >-
+      Asia Pierzchnica | BEAUTY
+    bio: >-
+      Zawsze szczera, pozytywnie nastawiona, kochająca kosmetyki to cała JA 🤫❤️ Współpraca: cosmetics.brunette@gmail.com
+    location: "Poland"
+    followers: 6048
+    engagement: 1018
+    commentsToLikes: 0.181049
+    id: ck8t82t70iwg70j78inrgzuxn
+    verified: false
+    hashtags: "#kwiecie, #brunetka, #makeuplover, #makeup"
+  - username: "iamdaria.makeup"
+    fullname: >-
+      𝓓𝓪𝓻𝓲𝓪 🥀 makeup • skincare
+    bio: >-
+      📌 hashtag #inspodaria 📲 ╔ makeup & skincare 🧖🏼‍♀️ ╚ cosmetics tests & reviews 🔍
+    location: "Poland"
+    followers: 3117
+    engagement: 1384
+    commentsToLikes: 0.155100
+    id: ck8t9d573nnn80j78romx1u9h
+    verified: false
+    hashtags: "#bperfectcosmetics, #darklips, #qualitymakeup, #quarantinemakeup"
+  - username: "justyna_wizaz"
+    fullname: >-
+      Lifestyle Blogger
+    bio: >-
+      📩 kontakt@justynazybert.pl 📩 ⭐#beauty #cosmetics #spa #lifestyle #food ⭐ ⭐#warszawa ⭐
+    location: "Poland"
+    followers: 27269
+    engagement: 409
+    commentsToLikes: 0.029029
+    id: ckaoxpw0headj0i78qd1250rm
+    verified: false
+    hashtags: "#blondegirl, #shopoholic, #fashionstyle, #blonde"
   - username: "champagne_vip"
     fullname: >-
       🎀  𝒟𝒶𝓇𝒾𝒶 𝒦𝒶𝓈𝒶𝓃𝒹𝓇𝒶 𝒫𝒾𝓍𝒶  🎀
@@ -42,89 +78,53 @@ profiles:
     commentsToLikes: 0.061669
     id: ck8t7lccmh8fq0j787uz7s7sl
     verified: false
-    hashtags: "#pi, #wywolajwspomnienia, #rossmannbloger, #jubiler"
-  - username: "dvrxie.makeup"
+    hashtags: "#natural, #nature, #flowers, #hudrating"
+  - username: "karolinamatraszekmakeup"
     fullname: >-
-      𝓓𝓪𝓻𝓲𝓪 🥀 makeup • skincare
+      Karolina Matraszek
     bio: >-
-      📌 hashtag #inspodaria |📲 private @dvrxie ╔ makeup & skincare 🧖🏼‍♀️ ╚ cosmetics tests & reviews 🔍
+      💄 Make Up Artist from Poland. 💄 @promakeupacademy instructor based in Warsaw. 💄 AFFECT COSMETICS official Make Up Artist & designer.
     location: "Poland"
-    followers: 3549
-    engagement: 1185
-    commentsToLikes: 0.159359
-    id: ck8t9d573nnn80j78romx1u9h
+    followers: 40671
+    engagement: 330
+    commentsToLikes: 0.052106
+    id: ck14ji7x5kha20i19z9eaqk6y
     verified: false
-    hashtags: "#makeuptutorial, #makeupfamily, #smokeyeyes, #makijazpolska"
-  - username: "justyna_wizaz"
-    fullname: >-
-      
-    bio: >-
-      📩 kontakt@justynazybert.pl 📩 ⭐#beauty #cosmetics #spa #lifestyle #food ⭐ ⭐#warszawa ⭐
-    location: "Poland"
-    followers: 27537
-    engagement: 226
-    commentsToLikes: 0.113035
-    id: ckaoxpw0headj0i78qd1250rm
-    verified: false
-    hashtags: "#pi, #pielegnacja, #autumn, #czaswolny"
+    hashtags: "#affect, #makeup, #promakeupacademy, #mua"
   - username: "kate.ing"
     fullname: >-
       Kasia Inglot
     bio: >-
       📩Collab: DM/e-mail: inglot.katarzyna@o2.pl ▫️Rzeszów ▫️25 🎓Student/Cosmetic Services Technician 🎓Security Engineer 🎓Health & Safety Specialist
     location: "Poland"
-    followers: 206536
-    engagement: 549
-    commentsToLikes: 0.014888
+    followers: 235735
+    engagement: 244
+    commentsToLikes: 0.010232
     id: ck9weuri9lxi60j788vvonfgl
     verified: false
-    hashtags: "#blonde, #katowice, #longhair, #blueeyes"
-  - username: "magdapieczonkamakeup"
+    hashtags: "#rzeszow, #katowice, #tattoo, #glasses"
+  - username: "trilln4ti"
     fullname: >-
-      Magda Pieczonka
+      Natalia Spyrła👑✨
     bio: >-
-      💄Makijażystka Wszech Czasów wizaż.pl💄 Beauty Influencer Roku magazynu JOY 💄Autorka pędzli do makijażu oraz rzęs @lovenue_cosmetics_and_tools
+      🇵🇱 Poland/Zakopane 20 yo 💌trilln4ti@gmail.com 🎵TikTok: trillnati 💄BPerfect Cosmetics - code „natalia20”💸 🎨 #inspiredbynati
     location: "Poland"
-    followers: 509380
-    engagement: 388
-    commentsToLikes: 0.016733
-    id: ck0vzxfj1bcy70i19joogf0g7
-    verified: true
-    hashtags: "#musthave, #zalando, #clinique, #109"
+    followers: 33598
+    engagement: 801
+    commentsToLikes: 0.107549
+    id: ck1390apqiwel0i192wvy2wsq
+    verified: false
+    hashtags: "#bperfectcosmetics, #ttdeye, #disney, #valentines"
   - username: "sz_marietta_"
     fullname: >-
       🖤Marietta🖤
     bio: >-
-      •Kosmetolog w @refresh_cosmetic ❤️ •Kosmetologia 💄👄 •kontakt✉️: marietta.szcz@wp.pl Poland 🇵🇱 10.08🎂🍹🥂 📚🎓student ❤️💍@voiciech92
+      •Kosmetolog w @refresh_cosmetic 🖤🤍 •Kosmetologia 💄👄 •kontakt✉️: marietta.szcz@wp.pl Poland 🇵🇱 10.08🎂🖤🤍
     location: "Poland"
-    followers: 21653
-    engagement: 395
-    commentsToLikes: 0.048209
+    followers: 21463
+    engagement: 400
+    commentsToLikes: 0.039292
     id: ck8t7q1vshm3l0j78bx9s94ra
     verified: false
-    hashtags: "#goodmorning, #ootd, #instamood, #love"
-  - username: "_kolorowykwiat_"
-    fullname: >-
-      Małgorzata Kwiatkowska(Opara)
-    bio: >-
-      I'm a woman so I'm feminine💅💆‍♀️🎨👠👗 /Fashion/Nail stylization, makeup, cosmetics-professional knowledge/Lifestyle 📩Collaboration: mkwiat.op@gmail.com
-    location: "Poland"
-    followers: 11520
-    engagement: 884
-    commentsToLikes: 0.067611
-    id: ck8t8f0p1k7p90j78p36x4mbv
-    verified: false
-    hashtags: "#szpilki, #kazar, #polskadziewczyna, #kochamszpilki"
-  - username: "maziena_beauty"
-    fullname: >-
-      ❣️MARZENA |Makeup |Beauty|Care
-    bio: >-
-      📧Contact :📩 mazienabeauty23@onet.pl or DM Ambasadorka - @bandi_cosmetics 💓 @muacosmeticspl 💃 🎂 24 | 🇵🇱 POLAND /Warsaw #beauty #swatche #makeup
-    location: "Poland"
-    followers: 9818
-    engagement: 630
-    commentsToLikes: 0.043255
-    id: ck6u1o46dmwgm0j716ngh2qzd
-    verified: false
-    hashtags: "#makeuplover, #milanicosmetics, #makija, #recenzjakosmetyczna"
+    hashtags: "#wspomnieniazwakacji, #instamood, #smile, #sea"
 ---

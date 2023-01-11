@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Belgium In 2022
+title: Top 10 Cooking Instagram Influencers In Belgium In 2023
 description: >-
-  Find top cooking Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #food #belgianfoodie #foodie.
+  Find top cooking Instagram influencers in Belgium in 2023. Most popular hashtags: #belgium #rose #minimal #ootd.
 platform: Instagram
-hits: 45
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 45 Instagram influencers like this in Belgium for you to collaborate.
+hits: 11
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "lafilleagateaux"
+  - username: "phorphor__kim"
     fullname: >-
-      Kristel - Travel Blogger
+      Phorphor__kim
     bio: >-
-      Travel, lifestyle & food blogger 🌍 Content Creator 💫 Story Teller 💫 Book writer 📍Bxl but wanderlust spirit 🗺 🔜 Italy 👇🏻
+      Taken 🔐 I ❤️ Dancing, Fashion, Cooking, Music Thank you for my new followers 🥺 Tiktok: itsphorphorkim (130k+) • Founder @shophenceeberry_ @sneaky.pai
     location: "Belgium"
-    followers: 33395
-    engagement: 137
-    commentsToLikes: 0.066121
-    id: ck13anyz9rbif0i198idr8gqq
+    followers: 9639
+    engagement: 569
+    commentsToLikes: 0.009843
+    id: ck15rhntb7zc90i19ln9lnfjr
     verified: false
-    hashtags: "#ootdfashion, #food, #vegan, #foodie"
-  - username: "michielw24"
+    hashtags: "#fashion, #outfits, #blogger, #modeling"
+  - username: "maya_poppins"
     fullname: >-
-      MICHIEL🤘🏼
+      Motherhood PlayIdeas Lyfestyle
     bio: >-
-      FOUNDER 🇧🇪 Belgian Power Team 🇧🇪 ONE LIFE, LIVE IT ————— Nutrition Workouts Lifestyle ————— | LIVE YOUR PASSION |
+      *mum of 3 (🧑🏽12,👦🏽10,👧5) *From 🇧🇪 and live in 🇬🇧 (#expatriatelife)
     location: "Belgium"
-    followers: 7063
-    engagement: 693
-    commentsToLikes: 0.023958
-    id: ckapcej6o3htm0i78zpu7p1s8
+    followers: 302
+    engagement: 12909
+    commentsToLikes: 0.460534
+    id: ckaosx617tf860i78y5t9lpd1
     verified: false
-    hashtags: "#ootd, #fitness, #business, #goals"
-  - username: "debby_the_chocoholic"
+    hashtags: "#foodporn, #royalsnappingartists, #kids, #foodstyling"
+  - username: "yasminevandenmeersch"
     fullname: >-
-      ZEN WITH DEBBY 🌺 Yoga & Food
+      YASMINE | Bookish optimist
     bio: >-
-      🧘🏻‍♀️ YouTube: 𝐙𝐞𝐧 𝗪𝐢𝐭𝐡 𝐃𝐞𝐛𝐛𝐲 🤸🏻‍♀️ Yoga & POP Pilates Teacher⁣⁣ 🥰 In love with @theofficialmrboyfriend 🐾 Cat Mom of 2 🍫 Chocolate lover
+      Madly in love with Jef ❤️‍🔥 See the good in people✨ 23 | bookworm, teacher☕️ Working in a bookstore 📖
     location: "Belgium"
-    followers: 30558
-    engagement: 446
-    commentsToLikes: 0.060045
-    id: ck0u1mk1nx9ka0i19juor7rxb
+    followers: 4179
+    engagement: 1168
+    commentsToLikes: 0.106728
+    id: ck5cdpth1jklb0i11zszmk5lx
     verified: false
-    hashtags: "#heartopener, #budgetcooking, #belgianchocolate, #belgianfoodie"
-  - username: "welowcook"
+    hashtags: "#happiness, #whatiwore, #discoverunder5k, #outfitinspiration"
+  - username: "chlovdw"
     fullname: >-
-      WelOwcook ~ Food Blogger
+      Chloë Van de Walle
     bio: >-
-      🇧🇪Belgian 🇧🇪 〰️ 🥰 #food addict 〰️ 👩‍🍳 They said «  Eat your colours » and here I am 🍴
+      FIERCE FASHION & FOOD LOVER ♡ ➵ Belgium based | 90’s kid ➵ Wifey of @debackerjerre 💍 ➵ Proud (plus)mommy of Ariane & Emma 💕
     location: "Belgium"
-    followers: 8505
-    engagement: 426
-    commentsToLikes: 0.077704
-    id: ck13d6g8p3wqd0i19oxcl6olh
+    followers: 4668
+    engagement: 296
+    commentsToLikes: 0.182215
+    id: ck0vvf3s5ouu00i19aeaq98gh
     verified: false
-    hashtags: "#rice, #cuisinesimple, #legumesdesaison, #regimeusemotiv"
-  - username: "naturellebynatalia"
+    hashtags: "#vlaamseblogger, #bunintheoven, #firstborn, #preggobelly"
+  - username: "epicurusfrombelgium"
     fullname: >-
-      Naturelle by Natalia
+      Youri the Belgian Epicurean
     bio: >-
-      ♡Recipe developer ♡freelance food stylist ♡ceramics, soaps, props ♡traveller naturellebynatalia.com Belgium
+      #wine 🍷 #BBQ 🔥 #gastronomy 🍺 #oenologist on my way to become #sommelier Posting only products tasted/cooked Follow my epicurean life & reviews 👇
     location: "Belgium"
-    followers: 10207
-    engagement: 590
-    commentsToLikes: 0.215281
-    id: ck5c0dklqsxlt0i115g2doh5u
+    followers: 3839
+    engagement: 1056
+    commentsToLikes: 0.075747
+    id: ck14li2l3us8k0i196xog8l15
     verified: false
-    hashtags: "#myquietbeauty, #gloobyfood, #veganfood, #firstweeat"
-  - username: "hoppy_franky"
+    hashtags: "#winetime, #winegram, #wineporn, #webergrill"
+  - username: "julie.p_fotografie"
     fullname: >-
-      Frank
+      Horse & Dog Photography
     bio: >-
-      Belgium | zythologist | beer minded 🍺 | hoppy attitude | Belgian beer culture 🇧🇪 | nature/hiking | Nikon D7500 | untappd: hoppy_franky
+      Belgian Photographer 🇧🇪 6 sponsored dressage riders 🖤 Brand or store looking for a collaboration? DM me 📩
     location: "Belgium"
-    followers: 7925
-    engagement: 561
-    commentsToLikes: 0.013366
-    id: ck5c02yadsc520i117shqpjd6
+    followers: 4705
+    engagement: 401
+    commentsToLikes: 0.017018
+    id: ck6u5n82falq00j71ktcnzuml
     verified: false
-    hashtags: "#belgianbeerculture, #beerme, #beerenvy, #beeroclock"
-  - username: "ww2tanksdaily"
+    hashtags: "#matching, #equinestyle, #pferdebilder, #pferdesport"
+  - username: "obumex_interiors"
     fullname: >-
-      Tanks | VP Of Historians Union
+      Obumex
     bio: >-
-      @historians_union_main < Came To Show Tanks & History 🌎 Non-political DISCLAIMER I DO NOT OWN ANY PICTURES I ONLY SHOW THEM
+      Belgian kitchen and interior that fits your personality and furniture in harmony! Always looking for longlife elegance!
     location: "Belgium"
-    followers: 18502
-    engagement: 422
-    commentsToLikes: 0.010403
-    id: ck5caoqjcdtst0i113hjs5byv
+    followers: 71636
+    engagement: 98
+    commentsToLikes: 0.009926
+    id: ck5cfpvq7nf9z0i11l4hjt3p2
     verified: false
-    hashtags: "#historical, #american, #america, #wwii"
-  - username: "alihealth_1"
+    hashtags: "#madetomeasure, #whenobjectswork, #obumexkitchens, #bespokeinteriors"
+  - username: "photo_sebastian"
     fullname: >-
-      Ali Health | Online Coach
+      Hamburg & traveling
     bio: >-
-      @xxlnutrition athlete 9 times overall champ 🥇 🇦🇫🇧🇪 Join my online coaching team 👇🏼
+      architecture - long exposure - black and white 📷 Canon 5D Mark IV mod @tv_buildings member @raw_community
     location: "Belgium"
-    followers: 112196
-    engagement: 503
-    commentsToLikes: 0.018008
-    id: ck5ca6efzcsdr0i11x61122fr
+    followers: 2575
+    engagement: 1528
+    commentsToLikes: 0.067465
+    id: ck5chsw2erej30i111zktkfnz
     verified: false
-    hashtags: "#bodybuilding, #pictureoftheday, #fitness, #fitnessmodel"
-  - username: "justinedejonckheere"
+    hashtags: "#arkiminimal, #archilovers, #minimal, #archi"
+  - username: "rumanamolla"
     fullname: >-
-      JUSTINE DE JONCKHEERE 🇧🇪
+      Rumana Molla
     bio: >-
-      • Presenter/host (TV + corporate) • Voice-over • Model • Actress • Miss Belgium -> Info/bookings:
+      Artist represented by @luckystar_international Movies - #bawrichhori #Irada #pyaarkapunchnama2 #trialofsatyamkaushik #lifesahihai #itsnotthatsimple
     location: "Belgium"
-    followers: 81555
-    engagement: 345
-    commentsToLikes: 0.057831
-    id: ck14kt96ur7e20i19fwtj02o5
-    verified: true
-    hashtags: "#staycation, #vacay, #tb, #liujo"
-  - username: "sunlight_seeker"
-    fullname: >-
-      Sunshine Travels w/ Jetske 🌈
-    bio: >-
-      NICU nurse by day 👩‍⚕️ ~ Sunlight lover at VACATION 😎 . 🌍Belgian Girl ✈ always looking for the next trip☀️ in love since 2011, K.💖
-    location: "Belgium"
-    followers: 4183
-    engagement: 1309
-    commentsToLikes: 0.204168
-    id: ckaoyoog3iell0i78aautde8p
+    followers: 57450
+    engagement: 294
+    commentsToLikes: 0.068947
+    id: ck5bwlw5wlyef0i116cggj35f
     verified: false
-    hashtags: "#girltraveling, #sunshineismydrug, #sunaddict, #domenicanrepublic"
+    hashtags: "#bawrichhori, #palghar, #devdd2, #erosnow"
+  - username: "nickbril"
+    fullname: >-
+      Nick Bril
+    bio: >-
+      Chef/DJ/restaurateur/father/. @thejaneantwerp🌟🌟 18GM+64TBC.@augustantwerp 15GM djbookings @wearekurious @drinkmaryv @symbiosebythejane .
+    location: "Belgium"
+    followers: 36799
+    engagement: 208
+    commentsToLikes: 0.034985
+    id: ck14hb49y9fn40i19gswd0o5g
+    verified: false
+    hashtags: "#thejaneantwerp, #nickbril, #dj, #takeawayfood"
 ---

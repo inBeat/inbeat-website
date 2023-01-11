@@ -1,120 +1,120 @@
 ---
-title: Top 10 Food Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Food Instagram Influencers In Rio De Janeiro In 2023
 description: >-
-  Find top food Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #food #gastronomia #riodejaneiro #love.
+  Find top food Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #food #riodejaneiro #girl #photo.
 platform: Instagram
 hits: 10
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 10 Instagram influencers like this in Rio de Janeiro, Brazil for you to collaborate.
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
 profiles:
-  - username: "vtrlaurent"
-    fullname: >-
-      Vitor Manoel ◤✠◢
-    bio: >-
-      Have Hope  -  🤙🏻🌟🤙🏻 Rio de Janeiro 📍 Assessoria @dgkimagem
-    location: "Brazil"
-    followers: 37045
-    engagement: 252
-    commentsToLikes: 0.137358
-    id: ckapafv8kvxuk0i7883yhrxoi
-    verified: false
-    hashtags: "#foodstagram, #food, #sousws, #delicious"
   - username: "gi_vannucci"
     fullname: >-
       Giovanna Vannucci
     bio: >-
       Rio de Janeiro​ 📍 Estudante de Direito ⚖️
     location: "Brazil"
-    followers: 2620
-    engagement: 1051
-    commentsToLikes: 0.232937
+    followers: 2565
+    engagement: 956
+    commentsToLikes: 0.268307
     id: ckap4cck56phe0i781yzkzbx5
     verified: false
-    hashtags: "#tbt, #lightroom, #edits, #eupraiana"
-  - username: "magnusvinicius"
+    hashtags: "#photo, #digitalinfluencer, #blogger, #likesforlike"
+  - username: "vtrlaurent"
     fullname: >-
-      Magnus Vinicius
+      Vitor Manoel ◤✠◢
     bio: >-
-      🎛 Guitarrista ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 📍 Rio de Janeiro ▶️ Gravações online 🎸 Aulas online 📧 magnusguitar@gmail.com
+      Have Hope  -  🤙🏻🌟🤙🏻 Rio de Janeiro 📍
     location: "Brazil"
-    followers: 15520
-    engagement: 772
-    commentsToLikes: 0.077134
-    id: ckaoxw9prf0xn0i78kl03rocz
+    followers: 36725
+    engagement: 170
+    commentsToLikes: 0.085327
+    id: ckapafv8kvxuk0i7883yhrxoi
     verified: false
-    hashtags: "#strymon, #drums, #guitarlife, #string"
-  - username: "juliamonnerat_"
+    hashtags: "#modinha, #fy, #viral, #trend"
+  - username: "felinacos"
     fullname: >-
-      Julia [ Cosplay ]
+      Felina Cosplay
     bio: >-
-      🍡 Cosplayer 🌸 Rio de Janeiro, 19 ✨Parcerias/ Collabs: DM or Email Videos everyday (+420K)👇
+      Parceira @miyu_smiyu cupom: MIYUFOX Streamer Oficial da @ufk.folk 🔸️Streamer 🔸️Cosplayer 🔸Cabelo & Skincare 🔸Pet Lover Rio de Janeiro/Brasil
     location: "Brazil"
-    followers: 36013
-    engagement: 1717
-    commentsToLikes: 0.010277
-    id: ck8tdmels3x1o0j781rsjlsgn
+    followers: 9377
+    engagement: 222
+    commentsToLikes: 0.121880
+    id: ck14hvvb3cdyq0i191j1wtivt
     verified: false
-    hashtags: "#narutouzumakicosplay, #narutouzumaki, #naruto, #hinatahyugacosplay"
+    hashtags: "#girl, #cosplayer, #mlbbcreatorcamp, #naruto"
+  - username: "apedamary"
+    fullname: >-
+      Maryna Egito • APEDAMARY
+    bio: >-
+      Olá, consagradxs! 💚🌵 Aqui eu compartilho o dia a dia no meu lar de 25m² no subúrbio do Rio de Janeiro. #receitasveganas ♡ #dicas ♡ #decor ♡ #plantas
+    location: "Brazil"
+    followers: 34474
+    engagement: 299
+    commentsToLikes: 0.252326
+    id: ckaotjun0w8lj0i78d4g08ejj
+    verified: false
+    hashtags: "#cozinhapequena, #comida, #parcerias, #familiaresapedamary"
   - username: "vai_bia_"
     fullname: >-
       Bia ❤
     bio: >-
-      ☝️Assistam os storis☝️ ||Rio de Janeiro ☀️ ||16 anos✨ ||Parcerias via direct 📩 ✨Blogueira em análise✨
+      ☝️Assistam os storis☝️ “Seja apenas você mesma” ||Rio de Janeiro/NI☀️ ||16 anos✨ ||Parcerias via direct 📩
     location: "Brazil"
-    followers: 5092
-    engagement: 1132
-    commentsToLikes: 0.563185
+    followers: 5381
+    engagement: 1063
+    commentsToLikes: 0.611426
     id: ckapb9s1rz42k0i78ebrovwfr
     verified: false
-    hashtags: "#moda, #make, #maquiagem, #makeupartist"
-  - username: "gab.lobo"
-    fullname: >-
-      Gabriela Lobo
-    bio: >-
-      i see poetry everywhere singer and content creator lifestyle • based in rio de janeiro ola@lumminaria.com
-    location: "Brazil"
-    followers: 35462
-    engagement: 102
-    commentsToLikes: 0.069134
-    id: ck0tyqas4nrl20i197e3zq8p8
-    verified: false
-    hashtags: "#colors, #flowers, #ootd, #rio"
+    hashtags: "#reels, #photooftheday, #makeup, #skincare"
   - username: "renatacrippa"
     fullname: >-
       𝔰𝔦𝔤𝔞𝔪-𝔪𝔢 𝔬𝔰 𝔟𝔬𝔫𝔰 🌍 🌎🌏
     bio: >-
       👩🏼‍💼Professora Universitária 📸 Fotógrafa (amadora) de viagem 📍Rio de Janeiro 🇧🇷 "Para viajar basta existir" Fernando Pessoa.
     location: "Brazil"
-    followers: 31593
-    engagement: 97
-    commentsToLikes: 0.145616
+    followers: 30612
+    engagement: 91
+    commentsToLikes: 0.159446
     id: ckf5wx1ygthne0j231acpr4v2
     verified: false
-    hashtags: "#bbctravel, #rio, #rioenquadrado, #ig"
-  - username: "sabrinatrezze"
+    hashtags: "#pousadapatacho, #sunset, #pernambuco, #revistaqualviagem"
+  - username: "leoleomorais"
     fullname: >-
-      Sabrina Trézze | Vila Vinífera
+      Léo Morais
     bio: >-
-      📝 Vinho, Cultura e Estilo de Vida 🍷 SOMMELIÈRE 🎓 Jornalista | Publicitária ✍️ CONTEÚDO AUTORAL 📍Niterói & Rio de Janeiro 🍹🥃🍺BONS DRINKS! Mídia Kit: ⬇️
+      Actor 🎭 Rio de Janeiro - Natal📍Potiguar 💙 TIKTOK - 4 MILHÕES Contato: comercial@wizzinfluencer.com.br Canal ⤵️
     location: "Brazil"
-    followers: 34338
-    engagement: 110
-    commentsToLikes: 0.237180
-    id: ck9ha9qa4bphh0j78mlpb1t1s
+    followers: 101600
+    engagement: 310
+    commentsToLikes: 0.069572
+    id: ck8wfnfqwfz0k0j78cjbx3qkr
     verified: false
-    hashtags: "#somm, #espumante, #winegeek, #vinhobrazuca"
-  - username: "godofredo_depompom"
+    hashtags: "#explore, #funny, #viral, #actor"
+  - username: "melissavaz"
     fullname: >-
-      Godofredo, o Marreco de Pompom
+      Melissa Vaz
     bio: >-
-      • ☁️ Marreco de pompom e Marreca Rouen • 🦆Marrecos pet / House ducks • 💻Digital influencers • 🐣Godô-18/11/16 •🎀Meg-13/03/19 •📍Rio de Janeiro, Brasil🇧🇷
+      Rio de Janeiro 🇧🇷 Nutrição 🌿 Chef funcional 📚🍴
     location: "Brazil"
-    followers: 10551
-    engagement: 530
-    commentsToLikes: 0.021635
-    id: ck13amrytr55q0i19hdqlmpv9
+    followers: 3840
+    engagement: 673
+    commentsToLikes: 0.072979
+    id: ck8t5cuzn9oib0j784vmp0ynk
     verified: false
-    hashtags: "#marreco, #petinfluencer, #petduck, #medvet"
+    hashtags: "#farinhadeaveia, #saude, #receitas, #geleia"
+  - username: "uliverse.exe"
+    fullname: >-
+      uli. ☁️ 𝒄𝒐𝒎𝒎𝒊𝒔𝒔𝒊𝒐𝒏𝒔 𝒂𝒓𝒆 𝒐𝒑𝒆𝒏!
+    bio: >-
+      ⊹ juliana lage · 26 · rio de janeiro, 🇧🇷 ⊹ commissions closed┊do not repost or use without permission! ⊹ 💌 moonulien@gmail.com ⊹ dm for partnerships.
+    location: "Brazil"
+    followers: 12193
+    engagement: 803
+    commentsToLikes: 0.045462
+    id: ck0w4bnahxrs90i19htg0h468
+    verified: false
+    hashtags: "#cute, #procreate, #digitalartist, #art"
   - username: "lecordonbleubrasiloficial"
     fullname: >-
       Le Cordon Bleu Brasil
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.014440
     id: ck0u0widnv2pe0i19xmp38xj8
     verified: false
-    hashtags: "#successstory, #lecordonbleu, #gastronomia, #lecordonbleuemcasa"
+    hashtags: "#alumni, #cooking, #receita, #gastronomia"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Poland In 2022
+title: Top 10 Travel Instagram Influencers In Poland In 2023
 description: >-
-  Find top travel Instagram influencers in Poland in 2022. Most popular hashtags: #polskajestpiekna #autumnvibes #podr #poland.
+  Find top travel Instagram influencers in Poland in 2023. Most popular hashtags: #travelgirl #tatry #lato2021 #tatrymountains.
 platform: Instagram
-hits: 1253
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 1253 Instagram influencers like this in Poland for you to connect with.
+hits: 1094
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1094 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "angelika_rysz"
+  - username: "modny_tata"
     fullname: >-
-      Angelika
+      dr Michał Będźmirowski
     bio: >-
-      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
+      🇵🇱 Doctor of Social Science Lifestyle, Fashion, Sport, Travel, Books Social media inquiries: info@modnytata.pl
     location: "Poland"
-    followers: 3646
-    engagement: 1525
-    commentsToLikes: 0.346529
-    id: ck5zizhb5gnvu0i14guq3n633
-    verified: false
-    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
-  - username: "oleksy_patrycja_"
+    followers: 125065
+    engagement: 55
+    commentsToLikes: 0.020379
+    id: ck15tjtdaiful0i196i8jo7lv
+    verified: true
+    hashtags: "#modnytata, #reklama, #puravida, #wsp"
+  - username: "mewa_w_locie"
     fullname: >-
-      Patrycja
+      Ewa | TRAVELGIRL 🌍 (wanna be😂)
     bio: >-
-      In love with traveling ✈️ and fashion👠 @nizio1 💍
+      🧳Podróże 🇵🇱Polska #chwalmyswoje ✏️Porady i ciekawostki 🏕Góry i dzikie przygody 🗺Ciekawe miejsca świata #podróże #travelgirl Ważne👇🏻
     location: "Poland"
-    followers: 2608
-    engagement: 2656
-    commentsToLikes: 0.328281
-    id: ckaozwm0hnqfu0i78rt8g4vi5
+    followers: 17306
+    engagement: 968
+    commentsToLikes: 0.100440
+    id: ck0vwad16st5r0i19tj5m9by6
     verified: false
-    hashtags: "#throwback, #bdaygirl, #oliviastar, #oliviastar360"
-  - username: "joanna.walkow"
+    hashtags: "#polskajestpiekna, #outdoorlifestyle, #travelblogger, #tatras"
+  - username: "p.dzn"
     fullname: >-
-      Joanna 🌸
+      • PAULINA DZIENIO •
     bio: >-
-      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
+      •🇵🇱 Traveller •Lived and traveled across Australia 🇦🇺 •Escaped to explore South East Asia •Now: Warsaw, Poland
     location: "Poland"
-    followers: 5977
-    engagement: 1547
-    commentsToLikes: 0.093577
-    id: ck9wekanbknaa0j7834my2xx2
+    followers: 2546
+    engagement: 2689
+    commentsToLikes: 0.125111
+    id: ckaormpyknx320i789lrp9h17
     verified: false
-    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
-  - username: "travelakcja"
+    hashtags: "#memories"
+  - username: "sylka_ciekawska"
     fullname: >-
-      Monika
+      Sylka Ciekawska
     bio: >-
-      Traveller/Podróżniczka ✈ Polish Rock 🎧🎶 My visual diary 📷 📍Warsaw, Poland 🇵🇱
+      Contact-Collab : igielskaa1@gmail.com 💄 INFLUENCER 🌺 LIFESTYLE BLOGGER Love travel ;) PL✈UK
     location: "Poland"
-    followers: 4967
-    engagement: 1710
-    commentsToLikes: 0.156101
-    id: ck8t5d6fr9pwn0j78phmo8ktt
+    followers: 56964
+    engagement: 378
+    commentsToLikes: 0.031483
+    id: ck5hq3ep7sfg40i114bf1a39q
     verified: false
-    hashtags: "#naturephotography, #holidays, #exploring, #goodvibes"
-  - username: "beata_walczynska"
-    fullname: >-
-      
-    bio: >-
-      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
-    location: "Poland"
-    followers: 11226
-    engagement: 1673
-    commentsToLikes: 0.066285
-    id: ck13azgmrsy100i19khq0qwde
-    verified: false
-    hashtags: "#rabowice, #summertime, #poznancity, #amateurphotography"
+    hashtags: "#sheingals, #kosmetyki, #pielegnacja, #flatlaystyle"
   - username: "olmakasia"
     fullname: >-
       Kasia Olma
     bio: >-
       🇵🇱 Polish girl➡️moved to Portugal 🇵🇹 ✈︎ Traveling from the beach to the mountains ❥
     location: "Poland"
-    followers: 22610
-    engagement: 766
-    commentsToLikes: 0.111492
+    followers: 22261
+    engagement: 761
+    commentsToLikes: 0.108458
     id: ck5cei4z0l1xe0i11ctu0lvm9
     verified: false
-    hashtags: "#portugal, #iloveportugal, #travelgirlstyle, #loves"
-  - username: "agata_zyzak"
+    hashtags: "#explorerbabes, #iloveazores, #spain, #loves"
+  - username: "joanna.walkow"
     fullname: >-
-      Agata Zyzak
+      Joanna Walków
     bio: >-
-      Kontakt: agatka991@onet.eu #mom👩‍👦 #wife👰 #fashionlover👜 #travel🌏
+      ♡ @adellanti.pl owner 🕊🌸 E-mail: joannawalkow@icloud.com #fashion | #travel | #lifestyle | #positivevibes ✨
     location: "Poland"
-    followers: 16250
-    engagement: 843
-    commentsToLikes: 0.112147
-    id: ckaozq80lmxfi0i78tvh7m9yj
+    followers: 7761
+    engagement: 1557
+    commentsToLikes: 0.073788
+    id: ck9wekanbknaa0j7834my2xx2
     verified: false
-    hashtags: "#blondynka, #instamama, #torebka, #stylizacja"
+    hashtags: "#wiosennie, #pary, #torebka, #wie"
   - username: "czasnawywczas"
     fullname: >-
       Czas na Wywczas 🗺️ Travel Blog
     bio: >-
-      Ania&Artur👱‍♀️👨‍🦱 We took 6 months of sabbatical break to travel across Asia&Oceania 🧳 Visited 33 countries 🌍 Now: Poland 🔜 Next: ...
+      Ania (Bober) &Artur (Żartex)👱‍♀️👨‍🦱 #travelcouple We took 6 months of sabbatical break to travel across Asia&Oceania 📝 New post ⬇️
     location: "Poland"
-    followers: 19937
-    engagement: 677
-    commentsToLikes: 0.078034
+    followers: 21589
+    engagement: 702
+    commentsToLikes: 0.069782
     id: ck139rm67mssy0i19mwabuflu
     verified: false
-    hashtags: "#inlovewithswitzerland, #czasnawywczas, #icelandtravel, #icelandtrip"
-  - username: "katarzynaop_9"
+    hashtags: "#hiszpania, #visitspain, #czasnawywczas, #discoverspain"
+  - username: "karoolaola"
     fullname: >-
-      Kasiaop_9
+      Karolina Wójcik
     bio: >-
-      “Traveling leaves you speechless, then turns you into a storyteller" 📧 katarzynaopiela70@gmail.com 📍based in Poland
+      Warsaw🏠 Traveler✈ Mountains Lover ⛰🧗🏻‍♀️🧡. Love dogs🐶🐕. begginer dogs groomer ✂️✂️
     location: "Poland"
-    followers: 4851
-    engagement: 2133
-    commentsToLikes: 0.088146
-    id: ck8t2tmxf0nvq0j78j5ida5tg
+    followers: 9536
+    engagement: 710
+    commentsToLikes: 0.035633
+    id: ck8t48v335we50j7855qvsrar
     verified: false
-    hashtags: "#amazingnature, #traveler, #polishmountains, #hikingadventures"
-  - username: "themimki"
+    hashtags: "#portugal, #travelgirl, #instagirl, #bluesky"
+  - username: "slodkada"
     fullname: >-
-      M I M K I  ♡  ALICJA ╳ KONRAD
+      Slodka Ada
     bio: >-
-      ❀ Polish travel couple 🇵🇱 ↞２０１９ - Przejechaliśmy 12 000 km, 8 stanów USA ↠ ２０２０ - Wyruszamy w podróż po Azji i Australii 💌 zakatkimarzen@gmail.com
+      FOOD, FASHION & TRAVEL #bridetobe 👰🏼‍♀️ 🎥YT: Słodka Ada 553k 💌slodkada@gmail.com 🛍my shop: @pink.land.shop Nowy film 👇
     location: "Poland"
-    followers: 11387
-    engagement: 1468
-    commentsToLikes: 0.052454
-    id: ckap0wrt4s5ix0i78rv3csij6
+    followers: 322046
+    engagement: 264
+    commentsToLikes: 0.015075
+    id: ck14k1b1vn8350i1950n66p3m
     verified: false
-    hashtags: "#podro, #wearetravelgirls, #wandergirl, #icelandicnature"
+    hashtags: "#weddingprep, #pannamloda, #pinklife, #lato2021"
+  - username: "skkotniczny"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀JUSTYNA SKOTNICZNY 🌴
+    bio: >-
+      /98/ MA @heroinmodels 🇵🇱 🇹🇷 @libertaagency 💌 Collab: j.skkotniczny@gmail.com 👻 snapchat: skotniczna 🌍 travel lover
+    location: "Poland"
+    followers: 11072
+    engagement: 1322
+    commentsToLikes: 0.040902
+    id: ck8t83jlaiz6d0j78zf3codir
+    verified: false
+    hashtags: "#greece, #photoshoot, #babyblue, #weekendmood"
 ---

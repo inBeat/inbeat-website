@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Izmir In 2022
+title: Top 10 Vegan Instagram Influencers In Izmir In 2023
 description: >-
-  Find top vegan Instagram influencers in Izmir in 2022. Most popular hashtags: #izmir #vegan #delicious #istanbul.
+  Find top vegan Instagram influencers in Izmir in 2023. Most popular hashtags: #vegan #izmir #yummy #reels.
 platform: Instagram
-hits: 16
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 16 Instagram influencers like this in Izmir, Turkey for you to work with.
+hits: 11
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Izmir, Turkey for you to pitch.
 profiles:
-  - username: "balasudundaralp"
-    fullname: >-
-      Angela Balasu Dundaralp ® pHD💧
-    bio: >-
-      #ozonlabs Bilim Tech Şirketleri Kurucusu💧 Cilt Yenileyicileri 💉 Mentor👩‍🔬 Ürün Geliştiricisi🧪#temizkozmetik🌱Araştırmacı 📍Istanbul-Hamburg-Los Angeles
-    location: "Turkey"
-    followers: 74355
-    engagement: 64
-    commentsToLikes: 0.438427
-    id: ckap5ztawduuf0i780vl9in85
-    verified: false
-    hashtags: "#akne, #esansiyelya, #takipet, #izle"
-  - username: "busrasanay"
-    fullname: >-
-      Büşra Sanay
-    bio: >-
-      📍İstanbul/News Presenter(@cnnturk)-Author @kardesini_dogurmak (Kardeşini Doğurmak)/ UmutÇocukta Yrd/TED Talks👇🏽/ İletişim 📩 sanaybusra@gmail.com
-    location: "Turkey"
-    followers: 52262
-    engagement: 400
-    commentsToLikes: 0.016803
-    id: ck5q03jz342l50i117uuf0dsq
-    verified: false
-    hashtags: "#yogawithmydog, #deprem, #hamsilipilav, #ek"
-  - username: "evimvebebegim"
-    fullname: >-
-      Saygı TATAR BOY
-    bio: >-
-      📩 saygi@evimvebebegim.com 👩‍👧 Lora’s & Bora’s mom @nikah_memuru_ 💞 Nikah memuru bir Anne 🎀 Siyaset Bilimi Yüksek Lisans
-    location: "Turkey"
-    followers: 229013
-    engagement: 213
-    commentsToLikes: 0.102264
-    id: ckaotf5t0vo1y0i78b25mti14
-    verified: false
-    hashtags: "#babyphotography, #itsagirl, #babayphoto, #itsaboy"
   - username: "dilgegokce"
     fullname: >-
       Dilge Gökçe
     bio: >-
       🎈Food Engineer / Gıda Mühendisi 🌈Sugarfree / Glutenfree / Vegan / Raw Alternative Food Ideas #fitfinet
     location: "Turkey"
-    followers: 33771
-    engagement: 277
-    commentsToLikes: 0.094197
+    followers: 44997
+    engagement: 466
+    commentsToLikes: 0.067042
     id: ckaorlem3nqv30i78vtfhpj1u
     verified: false
-    hashtags: "#izmir, #veganfood, #reelsinstagram, #reels"
-  - username: "bitutamhatira"
+    hashtags: "#veganfood, #diyet, #buzzfeast, #fittarifler"
+  - username: "tatli_tuzlu_eksi_lezzetler"
     fullname: >-
-      Bitutamhatira
+      Rabiyanin Dünyasi
     bio: >-
-      Fizyoterapist // Ayres Sensory Integration 🌈 Biraz fotoğraf, biraz edebiyat 😇🙆🏼 İşbirliği için DM #bitutamhatira BITUT10 10% of @michaellouisny 234
+      İzmir ❣️ Berlin Saglik🤲🏻 Yemek🍽 Doğa🍃 Evim🏡
     location: "Turkey"
-    followers: 15212
-    engagement: 517
-    commentsToLikes: 0.042471
-    id: ck5znxsrapcs00i14ohhapmh3
+    followers: 42825
+    engagement: 343
+    commentsToLikes: 0.137534
+    id: ckf5qpou0a56t0j23fj4bfpuv
     verified: false
-    hashtags: "#coffeetime, #styleblogger, #bornova, #bestoftheday"
+    hashtags: "#foodblogger, #su, #as, #enfestarifler"
+  - username: "gidamuhendisianlatiyor"
+    fullname: >-
+      Tuğba Parıltı
+    bio: >-
+      Sektörde Uzm.Gıda Müh. Sadece Bilimsel Gerçekler⛔️Yalın 6 Sigma Karakuşak📂K&G Takım Lideri 📩gidamuhendisianlatiyor@gmail.com Kuşadası-İzmir
+    location: "Turkey"
+    followers: 69774
+    engagement: 212
+    commentsToLikes: 0.032351
+    id: ck9hb8qvrftn60j78n652widv
+    verified: false
+    hashtags: "#evyap, #sa, #nas, #kurabiyetarifleri"
   - username: "tadinasilmis"
     fullname: >-
       Tadı Nasılmış?⋆
     bio: >-
       Fidan dikmek için en iyi zaman on yıl önceydi, sonraki en iyi zaman ise şimdi. #good 🌱🇹🇷
     location: "Turkey"
-    followers: 51429
-    engagement: 471
-    commentsToLikes: 0.020984
+    followers: 91573
+    engagement: 467
+    commentsToLikes: 0.149018
     id: ckaoyf3ubh9bj0i78384iytwy
     verified: false
-    hashtags: "#yeni, #neu, #bimaktuel, #tatl"
+    hashtags: "#foodies, #vegan, #chocolate, #love"
   - username: "chefaydinoglu__official"
     fullname: >-
       Aydın Aydınoğlu
     bio: >-
       Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
     location: "Turkey"
-    followers: 20326
-    engagement: 419
-    commentsToLikes: 0.032218
+    followers: 20382
+    engagement: 472
+    commentsToLikes: 0.026478
     id: ck14irx7ngww40i19ka7fo192
     verified: false
-    hashtags: "#vegan, #istanbul, #sweet, #toptags"
-  - username: "filizaydinc"
+    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
+  - username: "umaygur"
     fullname: >-
-      Filiz Aydinc
+      Umay Gür
     bio: >-
-      Lives virginia Usa🇺🇸İzmir’li🇹🇷❤️nature travel photography me
+      ⏳ stj.diyetisyen 💌 infoumaygur@gmail.com 🎥 son video👇🏼
     location: "Turkey"
-    followers: 140174
-    engagement: 121
-    commentsToLikes: 0.038736
-    id: ck8tcx2q310ih0j78uv4lrp1k
+    followers: 55791
+    engagement: 135
+    commentsToLikes: 0.049786
+    id: ck5q9yglcdn9p0i117b5qgx5h
     verified: false
-    hashtags: "#manzara, #green, #summer, #holiday"
-  - username: "gidamuhendisianlatiyor"
+    hashtags: "#kes, #healthy, #breakfast, #reels"
+  - username: "saglikli_fittt"
     fullname: >-
-      Tuğba Parıltı
+      Dilara Demir🍒🍓🥑
     bio: >-
-      Gıda Mühendisi👩‍💻Fonksiyonel Gıda Uzmanı🍥 Yalın 6 Sigma Karakuşak📂Gıda Güvenliği Sağlayıcısı⚠️ 📩gidamuhendisianlatiyor@gmail.com Kuşadası-İzmir
+      🌟Sağlıklı tarifler/Öğün önerileri 💕 🌟 Pilates❣️Glutensiz-Şekersiz Tarifler 📩Reklam, İşbirliği 👉 DM & dilarademir119@gmail.com
     location: "Turkey"
-    followers: 37005
-    engagement: 212
-    commentsToLikes: 0.075824
-    id: ck9hb8qvrftn60j78n652widv
+    followers: 90022
+    engagement: 254
+    commentsToLikes: 0.200912
+    id: ck8t09hz9raiu0j78lv4vxhe9
     verified: false
-    hashtags: "#zeytinya, #evyap, #yararl, #foodsafety"
-  - username: "terazininmakyaji35"
+    hashtags: "#diyetyemekleri, #dinner, #motivasyon, #instalike"
+  - username: "loverupmakeup"
     fullname: >-
-      Terazininmakyaji🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷
+      🅰️SLI
     bio: >-
-      İzmir 🐞SINCE 2012 👑💎 Content Pro Superstar 🦋
+      BEAUTYBLOGGER💅 💯Influencer blogger💯 🌏🌏🌏🌏
     location: "Turkey"
-    followers: 61920
-    engagement: 93
-    commentsToLikes: 0.164430
-    id: ck8t73f6mfijb0j78n6wgszbw
+    followers: 42546
+    engagement: 184
+    commentsToLikes: 0.227002
+    id: ck8t4vwei81xy0j7817jpmi9c
     verified: false
-    hashtags: "#flormart, #hayateves, #hair, #koronag"
+    hashtags: "#makeupblogger, #watsons, #loreal, #kozmetik"
+  - username: "burcusavasciofficial"
+    fullname: >-
+      Burcu Savaşçı
+    bio: >-
+      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
+    location: "Turkey"
+    followers: 69773
+    engagement: 115
+    commentsToLikes: 0.303250
+    id: ck5cezhcgm0xf0i11xysp3pw1
+    verified: false
+    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
+  - username: "yiltaygunay"
+    fullname: >-
+      Avukat Yıltay Günay
+    bio: >-
+      Avukat - Nişantaşı Üniversitesi Öğretim Görevlisi - Haçiko Derneği Yönetim Kurulu Üyesi #avukat #hayvansever #tedx
+    location: "Turkey"
+    followers: 15764
+    engagement: 325
+    commentsToLikes: 0.046386
+    id: ckap0oxx8r8ou0i78sfcrw069
+    verified: false
+    hashtags: "#news, #karde, #fitness, #sea"
 ---

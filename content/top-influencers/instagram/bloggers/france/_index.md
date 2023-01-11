@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In France In 2022
+title: Top 10 Bloggers Instagram Influencers In France In 2023
 description: >-
-  Find top bloggers Instagram influencers in France in 2022. Most popular hashtags: #ootd #frenchgirl #concours.
+  Find top bloggers Instagram influencers in France in 2023. Most popular hashtags: #concoursinstagram #outfitinspiration #ootd.
 platform: Instagram
-hits: 937
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 937 Instagram influencers like this in France for you to pitch.
+hits: 944
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 944 Instagram influencers like this in France for you to contact.
 profiles:
   - username: "saskiabzn"
     fullname: >-
       Saskia B.
     bio: >-
-      28 yo ▲ 🇫🇷 🇧🇪 🇱🇺 Blogger ▲ Catlover ▲ Photographer ▲ Model 😻 @princess_mishka 🖤 🎥 http://www.youtube.com/saskiabzn Collab : contact@bruneagency.lu
+      29 yo ▲ 🇫🇷 🇧🇪 🇱🇺 Blogger ▲ Catlover ▲ Photographer ▲ Model 😻 @ryuk_and_mishkadventures 🖤 Collab : contact@bruneagency.lu
     location: "France"
-    followers: 7630
-    engagement: 2221
-    commentsToLikes: 0.099102
+    followers: 12013
+    engagement: 936
+    commentsToLikes: 0.114538
     id: ck8t0z0n7tuyl0j78cazxo5mm
     verified: false
-    hashtags: "#altgirl, #grungelook, #harajukufashion, #egirl"
-  - username: "melissaswardrobe"
+    hashtags: "#gothgirl, #lookinspiration, #altfashion, #nugothgirl"
+  - username: "lodoesmakeup"
     fullname: >-
-      Melissa’s Wardrobe
+      Laura
     bio: >-
-      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
+      French Blogger and YouTuber 💄 📍Paris 📩 lodoesmakeup.blog@gmail.com
     location: "France"
-    followers: 183684
-    engagement: 784
-    commentsToLikes: 0.039895
-    id: ck0udxvovk7yj0i19uwfxckji
+    followers: 120129
+    engagement: 441
+    commentsToLikes: 0.020663
+    id: ck139mi69m1hp0i19vvzera4x
     verified: false
-    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
+    hashtags: "#ootd, #recette, #bananabread, #helpcetaittropdifficile"
+  - username: "samanehdaily"
+    fullname: >-
+      Plus Size World By Samaneh
+    bio: >-
+      32 🍑 TEHRAN • PLUS SIZE BLOGGER 💡 • BODY ACTIVIST 🍭 Life style 🛵 | fashion 👠 | beauty inside & out 💫
+    location: "France"
+    followers: 55085
+    engagement: 923
+    commentsToLikes: 0.061484
+    id: ck5pxx5c0taoc0i11gp6r19mt
+    verified: false
+    hashtags: "#plussize, #plussizefashion, #plussizemodel, #hands"
   - username: "iman.karovic"
     fullname: >-
       iman | إيمان
     bio: >-
       Model • Lifestyle blogger • Law 👩🏽‍⚖️ • ♎️ • Beauty queen👸🏽 | Miss Tourism BiH 2015 👑 • Collabs 💌
     location: "France"
-    followers: 40826
-    engagement: 705
-    commentsToLikes: 0.120976
+    followers: 45281
+    engagement: 491
+    commentsToLikes: 0.102901
     id: ck0tuu05q8np60i19au0pa7l4
     verified: false
-    hashtags: "#grateful, #prugice, #tb, #canoeing"
-  - username: "shewandersabroad"
+    hashtags: "#balkan, #montenegro, #reels, #bosniangirl"
+  - username: "mikhailova_maria"
     fullname: >-
-      Kriszti │ Travel Blogger
+      MASHA
     bio: >-
-      ✈ hungarian travel blogger & content creator ✧ now: budapest ➳ next: tba ⇟ travel tips & tricks on the blog:
+      lifestyle blogger & content creator owner @imhome.store 22 y.o., Saint Petersburg, Russia Cooperation : direct
     location: "France"
-    followers: 46941
-    engagement: 1051
-    commentsToLikes: 0.072933
-    id: ck13cr9xh1s110i1973zhm9dk
+    followers: 27367
+    engagement: 650
+    commentsToLikes: 0.012808
+    id: ckap91910qs6e0i78sndpro4c
     verified: false
-    hashtags: "#parismonamour, #topitalyphoto, #girlsborntotravel, #southtyrol"
-  - username: "lodoesmakeup"
+    hashtags: ""
+  - username: "petpaillettes"
     fullname: >-
-      Laura
+      Petpaillettes
     bio: >-
-      French Blogger and YouTuber 💄 (qui se prend pour Ariel à plein temps) 📍Paris 📩 lodoesmakeup.blog@gmail.com
+      💫 Lucie 💛 Lifestyle Blogger 📍Picarde : Compiègne / Amiens ✉️ petpaillettes@gmail.com
     location: "France"
-    followers: 120495
-    engagement: 597
-    commentsToLikes: 0.156882
-    id: ck139mi69m1hp0i19vvzera4x
+    followers: 31107
+    engagement: 241
+    commentsToLikes: 0.682138
+    id: ck0u26p5ayxv00i19m0jokzz1
     verified: false
-    hashtags: "#adventcalendar, #ootd, #calendrierdelavent, #chaneltimeless"
-  - username: "ellesenparlent"
+    hashtags: "#partenariat, #voyage, #travel, #concoursinsta"
+  - username: "elsarl"
     fullname: >-
-      Coralie L.
+      ELSA | Outfit | Neutral style
     bio: >-
-      LIFESTYLE & TRAVEL Blogger 💫 📍Lyon l Du rêve. Des fleurs. Des chats. Des chiens & un bébé. | 🎈 📷 @mat_flyaway 💌 contact@ellesenparlent.com
+      ❁ French blogger ❁M2 Droit de la distribution et des contrats d’affaires ⚖️ - DU PI ❁𝙽î𝚖𝚎𝚜/𝙼𝚘𝚗𝚝𝚙𝚎𝚕𝚕𝚒𝚎𝚛 ❁elsa.lafontrosselli@hotmail.com ❁𝙳♡
     location: "France"
-    followers: 217371
-    engagement: 582
-    commentsToLikes: 0.073894
-    id: ck0u74czs3p6r0i192wxrrn1s
+    followers: 12213
+    engagement: 723
+    commentsToLikes: 0.203101
+    id: ck8sxrvx0ifrj0j78pohdnusk
     verified: false
-    hashtags: "#sony, #aperohealthy, #dipweek, #leclerc"
+    hashtags: "#summeroutfit, #frenchstyle, #outfitoftheday, #parisianstyle"
   - username: "naiaroma"
     fullname: >-
       N A I A . R O M A
     bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀LIFESTYLE BLOGGER 🌴 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✨ Dancer 📍FR ⠀⠀⠀⠀⠀⠀⠀⠀⠀👩🏼‍💻 CEO: @nightcallevents ⠀⠀⠀⠀⠀⠀⠀⠀⠀👻 naiaroma
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀LIFESTYLE BLOGGER 🌴 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✨ Dancer 📍FR ⠀⠀⠀⠀⠀⠀⠀⠀⠀👩🏼‍💻 CEO: @nightcallevents
     location: "France"
-    followers: 26173
-    engagement: 598
-    commentsToLikes: 0.116956
+    followers: 25905
+    engagement: 547
+    commentsToLikes: 0.125994
     id: ck6005716cyz70i14ku7ksd41
     verified: false
-    hashtags: "#photoinspiration, #dailypost, #ootn, #getthelook"
+    hashtags: "#blondegirlsdoitbetter, #getthelook, #getthelookforless, #outfitofthenight"
+  - username: "iznowgood_"
+    fullname: >-
+      Iznowgood // Céline
+    bio: >-
+      🌹 Ethical fashion blogger 🌹 🌏 Slow World Tour (no plane) 📽 Retrouvez-moi sur YouTube ! 🌿 #fairfashion #slowtravel ⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+    location: "France"
+    followers: 41212
+    engagement: 446
+    commentsToLikes: 0.081673
+    id: ck14gfy9e510r0i19ba9o21ps
+    verified: false
+    hashtags: "#partenariat, #madeinfrance, #sustainableblogger, #sustainablefashion"
   - username: "clemence_allaire"
     fullname: >-
       Clémence
     bio: >-
-      📍Orléans 📱Lifestyle blogger 👰🏻Bride to be 2021 - Christmas Wedding 🎄
+      📍Orléans 📱Lifestyle blogger 💍 Bride to be 2021
     location: "France"
-    followers: 87815
-    engagement: 459
-    commentsToLikes: 0.108643
+    followers: 97666
+    engagement: 406
+    commentsToLikes: 0.057422
     id: ck0vuzp5omvkw0i194wh0p9lf
     verified: false
-    hashtags: "#redoutegirls, #ootd, #lockdown, #frenchgirl"
-  - username: "carnetprune"
-    fullname: >-
-      Angéline
-    bio: >-
-      Paris 🇫🇷 • Lifestyle blogger • 👉🏼 Salmon Skin Roll 💛 Potterhead 🛍 Boutique - #LaFabriqueCarnetPrune 🌿 Veggie
-    location: "France"
-    followers: 134386
-    engagement: 430
-    commentsToLikes: 0.039190
-    id: ckap8w6tvq5ot0i78jmf9xn48
-    verified: false
-    hashtags: "#carnettoujoursadisney, #disneylandparis, #carnetpruneencostume, #courbetgirl"
-  - username: "poussine"
-    fullname: >-
-      Poussine | BLOGGER | Travel
-    bio: >-
-      Blogger Lifestyle, family, travel and food Mum of 2 girls / Syana 18 ans et Jadene 5 ans poussine@swagday.fr 🇫🇷Paris
-    location: "France"
-    followers: 111131
-    engagement: 389
-    commentsToLikes: 0.097540
-    id: ck14il4kqfyb00i19maozhnsn
-    verified: false
-    hashtags: "#lisboa, #travelblogger, #blogueusevoyage, #babysitting"
+    hashtags: "#goodmorning, #frenchstyle, #love, #ootd"
 ---

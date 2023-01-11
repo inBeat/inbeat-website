@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Las Vegas In 2022
+title: Top 10 Yoga Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top yoga Instagram influencers in Las Vegas in 2022. Most popular hashtags: #yoga #lasvegas #balance #california.
+  Find top yoga Instagram influencers in Las Vegas in 2023. Most popular hashtags: #yoga #lasvegas #photography #flexibility.
 platform: Instagram
-hits: 41
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 41 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 45
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 45 Instagram influencers like this in Las Vegas, United States for you to connect with.
 profiles:
-  - username: "anna_ivaseva"
+  - username: "deilgin"
     fullname: >-
-      Anna Ivaseva
+      DEI
     bio: >-
-      Circus performer handbalancing/hand to hand. Love life and love what I do❣️ 𝔹𝕠𝕠𝕜 𝕗𝕠𝕣 𝕙𝕒𝕟𝕕𝕤𝕥𝕒𝕟𝕕 𝕔𝕝𝕒𝕤𝕤𝕖𝕤🤸‍♀️ 📍Las Vegas
+      Outdoor- and Traveladdict, foodie . . 32 countries 🇹🇷🇩🇪🇬🇷🇷🇺🇪🇸🇨🇭🇺🇦🇬🇧🇺🇸🇦🇹🇦🇿🇨🇦🇫🇮🇱🇻🇳🇴🇨🇾🇫🇷🇭🇹🇲🇰🇲🇴🇦🇱🇲🇪🇧🇦🇭🇷🇷🇸🇧🇬🇷🇴🇭🇺🇸🇰🇨🇿🇵🇱🇦🇪
     location: "United States"
-    followers: 28917
-    engagement: 588
-    commentsToLikes: 0.020067
-    id: ck8t0g926ryl50j78e5dubucd
+    followers: 8880
+    engagement: 1100
+    commentsToLikes: 0.047385
+    id: ck15t3d5vg5a10i195i0u2p5q
     verified: false
-    hashtags: "#training, #circuseveryday, #yoga, #gym"
+    hashtags: "#travel, #traveltheworld, #winter, #lonelyplanet"
   - username: "thedioneg"
     fullname: >-
       Dione | Tennis Professional
     bio: >-
       | Tennis | Yoga | 📍Las Vegas
     location: "United States"
-    followers: 13613
-    engagement: 849
-    commentsToLikes: 0.083827
+    followers: 14734
+    engagement: 833
+    commentsToLikes: 0.077869
     id: ck8t91yfgmo1p0j7875bkcuzx
     verified: false
-    hashtags: "#summer2020, #tennislife, #coachlife, #backyardlife"
-  - username: "robhallphoto"
+    hashtags: "#coachlife, #tennislife, #summer2020, #tenniscoach"
+  - username: "stop_hamnertime"
     fullname: >-
-      Robert Hall Photography
+      Jordan JoJo Hamner
     bio: >-
-      Michigan Editorial Photographer YouTuber 1/2 of @highisopodcast
+      Las Vegas | Professional Dancer
     location: "United States"
-    followers: 26197
-    engagement: 406
-    commentsToLikes: 0.027630
-    id: ck5cbx94qgbzg0i11ezpw7aov
+    followers: 7100
+    engagement: 589
+    commentsToLikes: 0.091428
+    id: ck6uh92im7qky0j71kc1hk8jc
     verified: false
-    hashtags: "#godoxad600, #lakemichigan, #softbox, #sonya7riv"
-  - username: "daddyslittlepeanut83"
+    hashtags: "#fit, #redhead, #fitness, #yoga"
+  - username: "contoulzii"
     fullname: >-
-      Pamela Adams
+      Ulziibayar Chimed-Sahagun
     bio: >-
-      You can find me outside doing outdoorsy things. 🧘🏻‍♀️🎨💪🏼🐾🎣🏃‍♀️🌵🏕🌲⛰ Lifeworker ✨ Visionary 👁 Be mindful of what makes your mind full. Be the change 🔮
+      💥 Head Coach @kstar.lv Academy 💥 Cirque Du Soleil Artist 25 years 💥 Alegria (1994-2005) Zumanity (2005 to 2020) 💥 Study Authentic Contortion ⬇️
     location: "United States"
-    followers: 2544
-    engagement: 1494
-    commentsToLikes: 0.104319
-    id: ckaos8e99qkg20i78evb8fj4e
+    followers: 6215
+    engagement: 381
+    commentsToLikes: 0.037935
+    id: ck5q1r4dtcd410i112uoo0iwa
     verified: false
-    hashtags: "#divine, #beon12, #adventure, #colorfulcolorado"
-  - username: "vanessahanson"
-    fullname: >-
-      Vanessa Hanson
-    bio: >-
-      Model & @UFC Octagon Girl based in California🌞 LA/OC- @brand_models MIA- @cgmmodels Canada- @dulcedomodels 💌bookvanessahanson@gmail.com
-    location: "United States"
-    followers: 305516
-    engagement: 202
-    commentsToLikes: 0.011990
-    id: ck5qdaaapulb10i11sae0zu8q
-    verified: true
-    hashtags: "#ufc249, #mma, #ufc, #espn"
-  - username: "circus_lines"
-    fullname: >-
-      Circus_Lines
-    bio: >-
-      copyright (©) 🏷 If you share it, please tag @circus_lines 🎨DM for personalized tattoos/logos 📩circuslinescreation@gmail.com FB: Circus Lines
-    location: "United States"
-    followers: 5745
-    engagement: 439
-    commentsToLikes: 0.006582
-    id: ck0uc5zijg5tl0i19cz3w71f8
-    verified: false
-    hashtags: "#procreate, #duo, #tattoo, #pole"
-  - username: "criminally_coco"
-    fullname: >-
-      Coco's Sassy Fangirl💋
-    bio: >-
-      All photos belong to respective owners. Just a FANPAGE. @coco @babychanelnicole @sassy_sheppard Business Inquires: criminallycoco@gmail.com
-    location: "United States"
-    followers: 38850
-    engagement: 217
-    commentsToLikes: 0.017525
-    id: ck8t6ivo8dsyp0j78tunfuhca
-    verified: false
-    hashtags: "#iceandcoco, #stayhome, #criminallycoco, #stayhealthy"
-  - username: "newjohnnysins"
-    fullname: >-
-      Johnny Sins
-    bio: >-
-      New account!
-    location: "United States"
-    followers: 144552
-    engagement: 1278
-    commentsToLikes: 0.042764
-    id: ck8wdh3nadtx10j78bng8sq4e
-    verified: false
-    hashtags: "#tiktok, #vinyasa, #tulum, #youtube"
+    hashtags: "#contortionclass, #handstand365, #stregthandconditioning, #coachulzii"
   - username: "lisamsanders"
     fullname: >-
       Lisa Marie Sanders
     bio: >-
       #IFBBPRO #REALTOR #ARMY & AF #veteran #executiveprotection Ex-LEO, 50+ yrs old BHRC Ambassador Sandersbhrch2020 ProSport Nutrition Ambassador
     location: "United States"
-    followers: 40157
-    engagement: 279
-    commentsToLikes: 0.024408
+    followers: 39479
+    engagement: 269
+    commentsToLikes: 0.028466
     id: ckap3j5ko37pl0i78h7pg4w53
     verified: false
-    hashtags: "#texas, #love, #ifbbpro, #fbf"
-  - username: "natalietenerelli"
+    hashtags: "#texas, #ifbbpro, #texans, #love"
+  - username: "jeffprovenzano"
     fullname: >-
-      Natalie Tenerelli
+      Jeff Provenzano
     bio: >-
-      ‪PEACHES.LA 🍑|| SURVIVOR 22 Finalist || Former NBA Dancer || TNG Models Las Vegas || Brand Models & Talent OC‬ 🌼
+      🐒🪂@redbull 🌎Traveler 🙏Fitness/Health
     location: "United States"
-    followers: 24419
-    engagement: 351
-    commentsToLikes: 0.047949
-    id: ck13bs313wwg30i199ffcaobc
+    followers: 77501
+    engagement: 155
+    commentsToLikes: 0.019313
+    id: ck13asumts0hb0i19uc0jaod7
+    verified: true
+    hashtags: "#skydiving, #adventure, #outdoors, #skydive"
+  - username: "thereal_jessicarabbit"
+    fullname: >-
+      
+    bio: >-
+      Las Vegas Showgirl 💄💋 Nurse💉 Platinum Tees Golf Caddy⛳️
+    location: "United States"
+    followers: 7938
+    engagement: 690
+    commentsToLikes: 0.048358
+    id: ckap3rdh8488t0i78jcosfxe2
     verified: false
-    hashtags: "#womenempowerment, #california, #peaches, #venicebeachfarmersmarket"
+    hashtags: "#winter, #season, #yogainspiration, #nude"
+  - username: "flowwithshreya"
+    fullname: >-
+      Shreya P.
+    bio: >-
+      Yoga Teacher, Mindful Mama, Sustainable Living Going with the flow and keeping it real. 👇🏼 YouTube, Blog, Links 📍 Las Vegas, NV #FlowWithShreya
+    location: "United States"
+    followers: 11904
+    engagement: 113
+    commentsToLikes: 0.078600
+    id: ck8t80mraio780j78bz4dw8no
+    verified: false
+    hashtags: "#csectionmama, #doseofwellness, #flowwithshreya, #throwbackthursday"
+  - username: "overthemoonmom"
+    fullname: >-
+      C H R I S T I A N
+    bio: >-
+      ↠mommy to hudson & hayes ↠i’m a cool boy mom ✌🏼 ↠ traveler↠teacher ↠dreamer☼ ↠desert dweller 🌵 ↠las vegas☼
+    location: "United States"
+    followers: 21878
+    engagement: 285
+    commentsToLikes: 0.112190
+    id: ck0tvcidhau3e0i19897z480f
+    verified: false
+    hashtags: "#ad, #letthembelittle, #boymom, #vegasmom"
+  - username: "duotranscend"
+    fullname: >-
+      Mary And Tyce
+    bio: >-
+      1st runner up @agt champions!🥈Cirque Du Soleil Performers. SLC/Las Vegas. BOOKING: Duotranscend@gmail.com❤️Parents to Jaxx
+    location: "United States"
+    followers: 132843
+    engagement: 418
+    commentsToLikes: 0.162240
+    id: ck5cc3vjigo3m0i11hlq1dine
+    verified: true
+    hashtags: "#aerialist, #swolemates, #momstyle, #mobility"
 ---

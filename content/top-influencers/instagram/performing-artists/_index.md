@@ -1,130 +1,130 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In 2022
+title: Top 10 Performing Artists Instagram Influencers In 2023
 description: >-
-  Find top performing artists Instagram influencers in 2022. Most popular hashtags: #quarantine #photography #love.
+  Find top performing artists Instagram influencers in 2023. Most popular hashtags: #dancersofinstagram #contemporary #season5.
 platform: Instagram
-hits: 172
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 172 Instagram influencers like this for you to contact.
+hits: 168
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 168 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "romanademeneges"
-    fullname: >-
-      Romana de Meneges 🎷
-    bio: >-
-      Available worldwide Recording and performing artist info@romanademeneges.com
-    location: "United States"
-    followers: 14737
-    engagement: 1156
-    commentsToLikes: 0.066185
-    id: ck5q1e4uoak4c0i114049sbcw
-    verified: false
-    hashtags: "#staypositive, #slavery, #surinam, #somethingnewchallenge"
-  - username: "viviannicoletesler"
-    fullname: >-
-      𝒱𝒾𝓋𝒾𝒶𝓃 𝒩𝒾𝒸𝑜𝓁𝑒 𝒯𝑒𝓈𝓁𝑒𝓇
-    bio: >-
-      Entrepreneur Performing Artist 📍LA Based 🌞 🇺🇸 Toronto Born 🇨🇦 📩 Inquiries: viviannicolemusic@gmail.com
-    location: "United States"
-    followers: 45619
-    engagement: 292
-    commentsToLikes: 0.081703
-    id: ckap3l6343gvz0i78yw9ziyg7
-    verified: false
-    hashtags: ""
   - username: "bramboender"
     fullname: >-
       Bram Boender
     bio: >-
-      Performing artist & songwriter 🎶 Info@bramboender.nl @xceptionmusic
+      Performing artist & songwriter 🎶 DM me for requests and bookings @xceptionmusic
     location: "Netherlands"
-    followers: 32042
-    engagement: 490
-    commentsToLikes: 0.049210
+    followers: 29677
+    engagement: 518
+    commentsToLikes: 0.045609
     id: ck6u5et8s980l0j713pc32jir
     verified: true
-    hashtags: "#andpartyofcourse, #createyourstory, #vocals, #customclarks"
+    hashtags: "#smoorverliefd, #customclarks, #vocals, #thewitcher"
   - username: "swat_mtoto_wa_eunice"
     fullname: >-
       MTOTO WA EUNICE
     bio: >-
-      Recording and performing artist at ethic entertainment For booking call +254 701 384919 Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
+      Recording and performing artist at ethic entertainment For booking call Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
     location: "United States"
-    followers: 119477
-    engagement: 486
-    commentsToLikes: 0.022624
+    followers: 119989
+    engagement: 449
+    commentsToLikes: 0.022043
     id: ck5cd8o11iqak0i111z67x3ti
     verified: false
-    hashtags: "#waririsi, #zoenadeen, #dondoka, #try"
-  - username: "mchina.___"
+    hashtags: "#utabaki"
+  - username: "piasutaria"
     fullname: >-
-      mchina
+      Pia Sutaria
     bio: >-
-      My only official account ▶Recording and Performing artist ▶️Marketer / Brand promoter ▶#gainwithmchina creator 👑 #soshiwamamoshi 🍁 .@azz_.iiad
+      Performing Artist @royalacademyofmusic MA: Musical Theatre Performance ‘20-21! @icmdindia Founder/ Artistic Director. @royalacademyofdance PDTD, RTS.
     location: "United States"
-    followers: 31905
-    engagement: 500
-    commentsToLikes: 0.172904
-    id: ck8sx8isygihb0j789q642yzv
+    followers: 54319
+    engagement: 633
+    commentsToLikes: 0.019153
+    id: ck14lto6gwfhs0i19vunm9ghv
     verified: false
-    hashtags: "#gainwithxtiandela, #kenya, #photography, #gainpost"
-  - username: "itsvalis"
+    hashtags: "#professionaldance, #dancersofinstagram, #danceclass, #dancestudio"
+  - username: "michaelweismanart"
     fullname: >-
-      Valis Volkova
+      𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐖𝐞𝐢𝐬𝐦𝐚𝐧
     bio: >-
-      🎭 Performing Artist 🎵 Band member for @shemustburnofficial 🦇 Owner @unhallowedboutique 🌜 Spiritual being having a human experience 🌿 Vegan
-    location: "United Kingdom"
-    followers: 53987
-    engagement: 180
-    commentsToLikes: 0.051370
-    id: ck0w5tzck5fgw0i19xsbtgo3i
+      Original watercolors and mixed-media creations celebrating iconic performing artists, incredible music and vintage glamour.
+    location: "United States"
+    followers: 10006
+    engagement: 576
+    commentsToLikes: 0.053733
+    id: ckaoxaauhch190i789topc9y1
     verified: false
-    hashtags: "#pinup, #pinupgal, #pinupgirl, #goth"
+    hashtags: "#idrawwhatilove, #hamptonsartist, #wearamask, #originalartwork"
   - username: "fiona_georgiadi"
     fullname: >-
       Fiona Georgiadi
     bio: >-
-      Actress/Performing Artist 🎭🎬 Athens • New York🤞🏿💃🏻 Facebook: @fionageorgiadiofficialpage/
+      Actress/Performing Artist 🎭🎬 Athens • New York🤞🏿💃🏻 HB Studio: Uta Hagen Drama School UCL: LLM in European Public Law
     location: "Greece"
-    followers: 55412
-    engagement: 659
-    commentsToLikes: 0.008250
+    followers: 56053
+    engagement: 697
+    commentsToLikes: 0.008798
     id: ck137owbncmop0i19z5sq9hp5
     verified: true
-    hashtags: "#elastithesimou, #blackandwhite, #season5, #summer2020"
-  - username: "chris.p.hernandez"
+    hashtags: "#season5, #goodtimes, #elastithesimou, #happythanksgivng"
+  - username: "nattygongofficial"
     fullname: >-
-      Chris Hernandez
+      NATTY GONG 🎤 a.k.a Ben'Giro 🇲🇺
     bio: >-
-      Performing artist living in NYC/Miami native ☀️
-    location: "United States"
-    followers: 4487
-    engagement: 1341
-    commentsToLikes: 0.096390
-    id: ck5q982tz9u1n0i11kcu3njxn
+      🎙 | Recording/Performing Artist 👑 | New album "ROYAL" out now 📺 | Music Videos Linked Below
+    location: ""
+    followers: 17073
+    engagement: 715
+    commentsToLikes: 0.018986
+    id: ck0u69eh51d2b0i19th7r9fsp
     verified: false
-    hashtags: "#twerk, #socialdistancing, #coronacontent, #tbt"
-  - username: "gforce_joseph"
+    hashtags: ""
+  - username: "shapra7"
     fullname: >-
-      Joseph Catingub
+      Prashant Mohan
     bio: >-
-      CEBU G-FORCE @gforce_official Dance Teacher Celebrity Choreographer Performing Artist
-    location: "United States"
-    followers: 5294
-    engagement: 405
-    commentsToLikes: 0.058003
-    id: ck5q7gh2i1g280i112d1kar54
+      Dance Instructor, Manager and Performing Artist at Shiamak Davar’s Institute for Performing Arts
+    location: ""
+    followers: 8479
+    engagement: 1092
+    commentsToLikes: 0.087308
+    id: ck9wd3hkidwly0j78l7sls6bv
     verified: false
-    hashtags: "#inspire, #latergram, #move, #keepdancing"
-  - username: "neesh20"
+    hashtags: "#quarantinepost, #dancevideo, #mumbaidancers, #dancechallenge"
+  - username: "way_of_lau"
     fullname: >-
-      Anesia•Dancer•Teacher•Model
+      LAURENZ HOORELBEKE
     bio: >-
-      💜 God is love. 💜 (Uh-Knee-Sha) Performing Artist • Please contact email for bookings @ acsandifer@gmail.com
-    location: "United States"
-    followers: 2307
-    engagement: 1357
-    commentsToLikes: 0.085981
-    id: ck6tifk4t0me50j71owyx6peu
+      📍Antwerp 🗣Performing artist & coach 💪🏼Certified PT 🔁info@laurenzhoorelbeke.be
+    location: "Portugal"
+    followers: 7464
+    engagement: 472
+    commentsToLikes: 0.051273
+    id: ck8tahgx6rrsp0j78aoxcg2v5
     verified: false
-    hashtags: "#dst, #travel, #spreadlove, #blackgirlmagic"
+    hashtags: "#fashion, #idealofsweden, #laurrior, #potd"
+  - username: "kelechiafricana"
+    fullname: >-
+      Call Me Fleek Boss
+    bio: >-
+      ⏩Producer, Song writer, Recording and performing artist ⏩Bookings ⏩Call +254708763521 or ⏩bookingkelechiafricana@gmail.com ⏩RING LINK
+    location: ""
+    followers: 59408
+    engagement: 138
+    commentsToLikes: 0.024836
+    id: ck5qchjzwqlr60i11krcne7uy
+    verified: true
+    hashtags: "#fleek, #fleekmadeit, #callmefleekboss, #iamnairobian"
+  - username: "breeder_lw"
+    fullname: >-
+      PAPA FATHELA🤴🏿🇰🇪
+    bio: >-
+      Rapper | Performing Artist | Entertainer | Entrepreneur "Bei Imepanda" Out Now👇
+    location: "United States"
+    followers: 122289
+    engagement: 333
+    commentsToLikes: 0.039107
+    id: ck6ucm04wge410j71hmagd3rz
+    verified: false
+    hashtags: "#bazengadaddii, #bazengamentality, #tk, #beiimepanda"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Ankara In 2022
+title: Top 10 Health Instagram Influencers In Ankara In 2023
 description: >-
-  Find top health Instagram influencers in Ankara in 2022. Most popular hashtags: #ankara #instagram #istanbul #health.
+  Find top health Instagram influencers in Ankara in 2023. Most popular hashtags: #turkey #ankara #istanbul #izmir.
 platform: Instagram
-hits: 16
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 16 Instagram influencers like this in Ankara, Turkey for you to collaborate.
+hits: 20
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 20 Instagram influencers like this in Ankara, Turkey for you to pitch.
 profiles:
-  - username: "drozgurkoldas"
-    fullname: >-
-      Dr. A. Özgür Koldaş
-    bio: >-
-      Allergan/Türkiye Eğitici Grubu üyesi 🎥#Tv8Sunucusu 🎬#BeyazTvSunucusu #medicalaesthetics #aestheticinjector CallCenter 0 850 215 16 16 ☎️
-    location: "Turkey"
-    followers: 36070
-    engagement: 29
-    commentsToLikes: 0.033769
-    id: ck6ug7pvl1ejk0j71ali6inom
-    verified: false
-    hashtags: "#jawline, #medicalaesthetic, #tunal, #drozgurkoldaswithfaceengineering"
   - username: "profdrhakanyardimci"
     fullname: >-
       Prof. Dr. Hakan YARDIMCI
     bio: >-
       Tek Resmi Hesabımdır Veteriner Hekim🐱🐶🐮🦉🐼 Mikrobiyoloji🔬 Ankara Üniversitesi Veteriner Fakültesi Body Building 🏋🏻‍♂️ Fitness🏃🏻‍♂️
     location: "Turkey"
-    followers: 4779
-    engagement: 1017
-    commentsToLikes: 0.160093
+    followers: 4971
+    engagement: 953
+    commentsToLikes: 0.126776
     id: ckap95wr0rag70i786fydzrut
     verified: false
-    hashtags: "#petsgram, #kedisever, #petsofinstagram, #dog"
-  - username: "erkantopuzofficial"
+    hashtags: "#gata, #catsofinstagram, #gato, #gatos"
+  - username: "ilkerinanoglu"
     fullname: >-
-      Prof.Dr.Erkan Topuz
+      Ilker Inanoglu
     bio: >-
-      🖋İç Hastalıkları ve Tıbbi Onkoloji Uzmanı 🏨Yeni Yüzyıl Unv. Gop Hastanesi ☎️Randevü: 0(530)-9616228 🖥www.drerkantopuz.com 📺Youtube Kanalım ⬇️
+      Film and TV producer Actor MIAMI /LOS ANGELES/İSTANBUL
     location: "Turkey"
-    followers: 355308
-    engagement: 369
-    commentsToLikes: 0.046262
-    id: ck8tclkm5zu6y0j789zo37af3
+    followers: 209951
+    engagement: 381
+    commentsToLikes: 0.015589
+    id: ck5q0wicp83yt0i11uf00m4s2
     verified: true
-    hashtags: "#sa, #19may, #coronavirus, #annes"
-  - username: "seymatan_collection"
+    hashtags: "#happiness, #production, #success, #miami"
+  - username: "inciozdemm"
     fullname: >-
-      Şeyma Tantalkaya Büyükkuşoğlu
+      İnci Özdemm
     bio: >-
-      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
+      🧘‍♀️ “muhibbân-ı kütüb” 📚 Kesme nevanı; içine salsalar da keder. Kırılsa gönül medd ü cezr ile hepsi geçer, hepsi geçer.
     location: "Turkey"
-    followers: 12132
-    engagement: 779
-    commentsToLikes: 0.029987
-    id: ck15qpkgw40wk0i197f0lsby3
+    followers: 9884
+    engagement: 1258
+    commentsToLikes: 0.076577
+    id: ck9wexe5xma1y0j787xmw17jf
     verified: false
-    hashtags: "#izmir, #bag, #paris, #crosstich"
-  - username: "gokhanbensiz"
+    hashtags: "#love, #kadrajimdan, #rkiye, #nature"
+  - username: "gocebey"
     fullname: >-
-      Gökhan Bensiz
+      Batın Özen
     bio: >-
-      Avrasya Consult & Survey Engineer BSc.
+      Göçebe bir yolculuk🚶🏻‍♂️ Travel 🌍 Nature 🌿 Photography 📸 Göçebe tişörtleri için 👇🏻👇🏻
     location: "Turkey"
-    followers: 70732
-    engagement: 516
-    commentsToLikes: 0.008736
-    id: ck5hsjrrhwpju0i117sbtozpi
+    followers: 15230
+    engagement: 769
+    commentsToLikes: 0.052330
+    id: ck6uaeufn35u50j71my0iy42d
     verified: false
-    hashtags: "#mensstreetstyle, #mensoutfit, #sunnyday, #mensfashionpost"
-  - username: "tintedtakes"
+    hashtags: "#backpacker, #travel, #turkey, #mountains"
+  - username: "fatih_asci"
     fullname: >-
-      Nihal
+      Fatih Aşcı
     bio: >-
-      Creative director/ Videographer/ Editor. . I make filters too!
+      Girişimci | Reklamcı | Danışman
     location: "Turkey"
-    followers: 11801
-    engagement: 662
-    commentsToLikes: 0.033018
-    id: ck6tqpby1sxw10j71sizukhs3
+    followers: 5581
+    engagement: 1843
+    commentsToLikes: 0.000946
+    id: ckapbcb3gzdpk0i78pwuqs5i1
     verified: false
-    hashtags: "#featurepalette, #travel, #portrait, #portraitstyles"
+    hashtags: "#gezi, #ultrasonic, #dan, #bas"
+  - username: "drozgurkoldas"
+    fullname: >-
+      Dr. A. Özgür Koldaş
+    bio: >-
+      Allergan/Türkiye Eğitimci Grubu üyesi #Tv8Sunucusu🎬 #çookyaşaprogramı 🎥 #medicalaesthetics #aestheticinjector CallCenter ☎️ 0 850 215 16 16
+    location: "Turkey"
+    followers: 74324
+    engagement: 23
+    commentsToLikes: 0.024440
+    id: ck6ug7pvl1ejk0j71ali6inom
+    verified: false
+    hashtags: "#skinrenewal, #tv8, #medicalaesthetic, #drozgurkoldas"
+  - username: "mia_kurtuldu"
+    fullname: >-
+      Mia KURTULDU
+    bio: >-
+      Mia Sma ile Savaşıyor 💪🏻 Kurtuldu soyadımızdır 🌟 Sma Tip 1 / Spinraza 💉/ Zolgensma Gene Therapy 🧬
+    location: "Turkey"
+    followers: 34283
+    engagement: 606
+    commentsToLikes: 0.030835
+    id: ckap5r488ct330i78hjxs2qo7
+    verified: false
+    hashtags: "#smatip1, #spinraza, #spinalmuscularatrophytype1, #poland"
   - username: "arzuyanardag"
     fullname: >-
-      Arzu Yanardağ
+      Arzu Yanardağ
     bio: >-
-      Mother❤️ Actress 💎 @tumay.ozokur
+      Actress
     location: "Turkey"
-    followers: 48171
-    engagement: 192
-    commentsToLikes: 0.026166
+    followers: 53283
+    engagement: 201
+    commentsToLikes: 0.024476
     id: ck5q7s0z82utv0i11vsrraqko
     verified: false
-    hashtags: "#likeforlikes, #do, #instagood, #instaselfie"
-  - username: "nurdanbjk"
+    hashtags: "#sa, #instagood, #konuk, #moderat"
+  - username: "devrim.erbil"
     fullname: >-
-      KARTALİÇE
+      Devrim Erbil
     bio: >-
-      İşim olmaz yalanla,Yalanla işi olanla✌🏻️ BEŞİKTAŞLI SİYAH ve BEYAZ KADAR NETTİR.BİZ DE GRİ OLMAZ...🦅🇹🇷ANKARA/TURKEY......Twitter/@06Nrdn
+      Prof.Ressam Devlet Sanatçısı/State Artist Museologist devrimerbil@yahoo.com
     location: "Turkey"
-    followers: 5831
-    engagement: 962
-    commentsToLikes: 0.019429
-    id: ck8tc7qr2yla00j789puhmwiv
-    verified: false
-    hashtags: "#in, #throwback, #world, #instagood"
-  - username: "berkulusoyyyy"
+    followers: 40180
+    engagement: 572
+    commentsToLikes: 0.020830
+    id: ck5c85sgy8tug0i113furycpo
+    verified: true
+    hashtags: "#oilpainting, #day, #devrimerbilresmi, #painting"
+  - username: "ucak_medikal"
     fullname: >-
-      Berk ULUSOY | Oyuncu
+      Uçak Medikal Giyim
     bio: >-
-      💙🐼PANDALANDINIZ🐼💙 🌈Likee:ULUSOY(196K) 🌏Ankara Yeni Sahne🎭 ( @officialays ) 🎬#oyuncu
+      #saglikkahramanlari nı giydiriyoruz📣 Hızlı Kargo 📌 Müşteri Memnuniyeti 📌 300₺ Üstü Kargo Ücretsiz 🎁
     location: "Turkey"
-    followers: 23307
-    engagement: 418
-    commentsToLikes: 0.195127
-    id: ck9hcbn08knlw0j788rwrv6fn
+    followers: 26357
+    engagement: 204
+    commentsToLikes: 0.290341
+    id: ckaowosn79s3z0i78wvn0s8fs
     verified: false
-    hashtags: "#likee, #kesfet, #likeeapp, #comedyclub"
-  - username: "gurmeakademi"
-    fullname: >-
-      Gurme Akademi
-    bio: >-
-      ✏yiyecek&içecek yazarı 🍴restoran kritik 📍ankara-türkiye 💼eğitim&danışmanlık 📰milliyet favori lezzetler yazarı
-    location: "Turkey"
-    followers: 46925
-    engagement: 110
-    commentsToLikes: 0.038027
-    id: ck13bfjw3v6ni0i19q7k9vnik
-    verified: false
-    hashtags: "#tasty, #leziz, #ramazan, #yummy"
+    hashtags: "#paramedik, #indirim, #att, #cerrah"
 ---

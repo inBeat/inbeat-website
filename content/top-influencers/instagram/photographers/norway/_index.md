@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Norway In 2022
+title: Top 10 Photographers Instagram Influencers In Norway In 2023
 description: >-
-  Find top photographers Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #ig #earth.
+  Find top photographers Instagram influencers in Norway in 2023. Most popular hashtags: #nature #ig #norway #visitnorway.
 platform: Instagram
-hits: 119
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 119 Instagram influencers like this in Norway for you to contact.
+hits: 62
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 62 Instagram influencers like this in Norway for you to connect with.
 profiles:
-  - username: "majamoan"
-    fullname: >-
-      Maja Moan
-    bio: >-
-      Photographer @screammediano Personal account @majaeriksenmoan Buy prints 🎞 creativemist.no Website 👇🏻
-    location: "Norway"
-    followers: 11539
-    engagement: 625
-    commentsToLikes: 0.142039
-    id: ck1385lcyel7x0i1977nwigj6
-    verified: false
-    hashtags: "#portrait, #portraitvision, #portraitphotography, #portraits"
-  - username: "edituotoja"
-    fullname: >-
-      Edith G | Creative photo ideas
-    bio: >-
-      Mom📸Photographer @two_shoots_photography 💡Supporting small bussines 🛍Mini&mom style 🧶Crochet lover 🇳🇴Creating life in Norway
-    location: "Norway"
-    followers: 16886
-    engagement: 299
-    commentsToLikes: 0.119210
-    id: ck8sy5imsjrxi0j78n799f3mo
-    verified: false
-    hashtags: "#barnerum, #nordicstyle, #cameramama, #sm"
-  - username: "damianpt.no"
-    fullname: >-
-      🇵🇱•Damian•🇳🇴
-    bio: >-
-      | Personal Trainer | Photographer @damianphoto.no | | Brand Building Marketing | Traveler🌏 @kevkevoslo #Love @Piccojack
-    location: "Norway"
-    followers: 199179
-    engagement: 414
-    commentsToLikes: 0.015632
-    id: ck5c3emjez64i0i11f7cce85o
-    verified: false
-    hashtags: "#roadtrip, #beautiful, #motivation, #oslove"
   - username: "perheimly"
     fullname: >-
       perheimly
     bio: >-
       Norwegian Photographer, Artist , Clown.
     location: "Norway"
-    followers: 15864
-    engagement: 706
-    commentsToLikes: 0.026429
+    followers: 17986
+    engagement: 736
+    commentsToLikes: 0.031280
     id: ck5hl6njdjnxl0i111i5ekduz
     verified: false
-    hashtags: "#picturesoftheday, #pictureoftheday, #norgesferie, #jostedalcamping"
-  - username: "john_carew"
+    hashtags: "#joik, #tvnorge, #71gradernordnorgest, #sa"
+  - username: "damianpt.no"
     fullname: >-
-      john_carew
+      🇵🇱•Damian•🇳🇴
     bio: >-
-      Actor / Producer / Photographer 🎥 🌎 London ✨
+      | Personal Trainer | Photographer @damianphoto.no | Traveler🌏 Founder of GET-UP @kevkevoslo #Love @Piccojack
     location: "Norway"
-    followers: 57185
-    engagement: 439
-    commentsToLikes: 0.020376
-    id: ck14iwoa2hiat0i19d9xea5t8
-    verified: true
-    hashtags: "#norgesferie, #tb, #norway, #roadtrip"
-  - username: "christineidephotography"
-    fullname: >-
-      Elopement Photographer Norway
-    bio: >-
-      Intimate Weddings & Elopements Worldwide Love me some playful and adventurous couples 🖤 Best Wedding Photographer Norway 2014 & 2019
-    location: "Norway"
-    followers: 6646
-    engagement: 310
-    commentsToLikes: 0.104968
-    id: ck5hgnff13qfh0i11fa93xkvb
+    followers: 197186
+    engagement: 432
+    commentsToLikes: 0.016267
+    id: ck5c3emjez64i0i11f7cce85o
     verified: false
-    hashtags: "#mountainelopement, #elopeinnorway, #adventureelopement, #adventurouscouples"
-  - username: "jadkaram"
+    hashtags: "#menstyle, #motivation, #oslo, #piccojack"
+  - username: "kflathaug"
     fullname: >-
-      Jad Karam
+      Kenneth Flathaug Photography
     bio: >-
-      - Landscape photographer from Lebanon🇱🇧.
+      Landscape and travel photographer from Norway 🇳🇴 @gnarbox Brand Ambassador
     location: "Norway"
-    followers: 10768
-    engagement: 1425
-    commentsToLikes: 0.151567
-    id: ck9wfowhxpu3a0j784zja6d86
+    followers: 13216
+    engagement: 1149
+    commentsToLikes: 0.076114
+    id: ck0u9mc1ba3mt0i19p8rq88x8
     verified: false
-    hashtags: "#bloosom, #bird, #earthvisuals, #wildlife"
+    hashtags: ""
+  - username: "torbjoernkjosvold"
+    fullname: >-
+      Torbjørn Kjosvold
+    bio: >-
+      Senior Photographer, Norwegian Armed Forces. All pictures are mine. (C)
+    location: "Norway"
+    followers: 11314
+    engagement: 815
+    commentsToLikes: 0.004549
+    id: ck6013pzves0i0i14gn6ujw0i
+    verified: false
+    hashtags: "#outdoors, #spesialsoldat, #special, #hmkg"
   - username: "hansgunnaraslaksen"
     fullname: >-
       Hans Gunnar Aslaksen
     bio: >-
       - Designer - Norway 🇳🇴 - NiSi Filters Ambassador - Vallerret Ambassador - Photographer of the year 2018 Capture Landscapes - @hansgunnaraslaksen
     location: "Norway"
-    followers: 41991
-    engagement: 729
-    commentsToLikes: 0.065781
+    followers: 48181
+    engagement: 582
+    commentsToLikes: 0.063273
     id: ck15q3rx60ye60i19y56g75ld
     verified: false
-    hashtags: "#norway2inspire, #earth, #nature, #sunset"
-  - username: "afurulund"
-    fullname: >-
-      🌺Anita 🌺
-    bio: >-
-      Hobby photographer living in Gudbrandsdalen Norway 🇧🇻Married to Inge 💝Nature, landscape, sunsets, flowers. All photos are taken by me 📸
-    location: "Norway"
-    followers: 5967
-    engagement: 1531
-    commentsToLikes: 0.132167
-    id: ck8t2xlu8135j0j78m4npr23f
-    verified: false
-    hashtags: "#tree, #luv4forourforests, #total, #viewsofnorway"
+    hashtags: "#planet, #water, #ig, #wheniniceland"
   - username: "kaxelsenfoto"
     fullname: >-
       Landscape photography | Klaus
     bio: >-
-      Landscape photographer | Oslo Scenery and details in nature. 🏆Published at 1x.com & ILPOTY 2020 Mod: @got__greatshots Check out my friend @dimicoawam
+      Landscape photographer | Oslo Scenery and details in nature. 🏆Published at ILPOTY 2020 & 1x.com Mod: @got__greatshots Check out my friend @dimicoawam
     location: "Norway"
-    followers: 10319
-    engagement: 1254
-    commentsToLikes: 0.179554
+    followers: 11182
+    engagement: 1067
+    commentsToLikes: 0.201965
     id: ck5zmpz73n0gh0i146x58g02r
     verified: false
-    hashtags: "#reflection, #wildernessculture, #wildvisuals, #jaw"
+    hashtags: "#fantastic, #dreaming, #mittnordnorge, #scenicview"
+  - username: "morten_munthe"
+    fullname: >-
+      Morten Munthe
+    bio: >-
+      Norwegian Photographer Adventure | Lifestyle | Brand ⤖ hello@mortenmunthe.com Get my Presets here:
+    location: "Norway"
+    followers: 14857
+    engagement: 985
+    commentsToLikes: 0.064416
+    id: ck14km5jxq7010i19b7rd70nb
+    verified: false
+    hashtags: "#thediscoverer, #folkmagazine, #escapeandwonder, #folkscenery"
+  - username: "anderskjetnemark"
+    fullname: >-
+      𝐀𝐍𝐃𝐄𝐑𝐒 𝐒𝐊𝐉𝐄𝐓𝐍𝐄𝐌𝐀𝐑𝐊
+    bio: >-
+      DIRECTOR/PHOTOGRAPHER i make stuff 📸🎥
+    location: "Norway"
+    followers: 17769
+    engagement: 432
+    commentsToLikes: 0.006568
+    id: ck14ltrelwfym0i197hdlkzs8
+    verified: false
+    hashtags: "#35mm"
+  - username: "arvidbredesen"
+    fullname: >-
+      Arvid Bredesen
+    bio: >-
+      Primary school teacher and passionate birder/bird photographer from Hitra in Norway.🇳🇴 Member of @raw_community
+    location: "Norway"
+    followers: 2319
+    engagement: 2595
+    commentsToLikes: 0.080535
+    id: ck9wer8u0lh2b0j78ueo1x4ok
+    verified: false
+    hashtags: "#eye, #nature, #bird, #igbirdwatchers"
+  - username: "fotovegard"
+    fullname: >-
+      Vegard Eggen
+    bio: >-
+      Batman during nighttime🐧, photographer by day in Trondheim, Norway. All photos are mine © Thanks for stopping by 😃😃
+    location: "Norway"
+    followers: 11554
+    engagement: 772
+    commentsToLikes: 0.086213
+    id: ck0w2lqjbp00q0i19p8fj23xq
+    verified: false
+    hashtags: "#norgesbeste, #way2ill, #night, #tv"
 ---

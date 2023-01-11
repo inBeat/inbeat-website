@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Vancouver In 2022
+title: Top 10 Food TikTok Influencers In Vancouver In 2023
 description: >-
-  Find top food TikTok influencers in Vancouver in 2022. Most popular hashtags: #fyp #vancouver #canada #food.
+  Find top food TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #vancouver #food #canada.
 platform: TikTok
-hits: 27
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 27 TikTok influencers like this in Vancouver, Canada for you to collaborate.
+hits: 31
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 31 TikTok influencers like this in Vancouver, Canada for you to connect with.
 profiles:
+  - username: "everydayalex"
+    fullname: >-
+      Alex Biron
+    bio: >-
+      🌎 Comedian Mean Streak Podcast
+    location: "Canada"
+    followers: 544000
+    engagement: 1828
+    commentsToLikes: 0.016379
+    id: ckb9edsfi1z1z0j23p3kap5s8
+    verified: false
+    hashtags: "#story, #joke, #fyp, #dating"
+  - username: "dynohoneycha"
+    fullname: >-
+      Trisha Wong
+    bio: >-
+      
+    location: "Canada"
+    followers: 5165
+    engagement: 1189
+    commentsToLikes: 0.026051
+    id: ck8qe4eegr2rz0j78x3x0dk5b
+    verified: false
+    hashtags: "#greenscreen, #haikyuu, #fyp, #wattpad"
   - username: "leanaromen"
     fullname: >-
       Leana
     bio: >-
-      I hate quarantine... I belong to the streets Surrey Insta/Snap: LROMEN
+      My mom says i’m funny Surrey Insta/Snap: LROMEN
     location: "Canada"
-    followers: 9005
-    engagement: 860
-    commentsToLikes: 0.018338
+    followers: 9023
+    engagement: 764
+    commentsToLikes: 0.021223
     id: ckbl6bdux40vx0j236wfzqb62
     verified: false
-    hashtags: "#fy, #surrey, #xyzbca, #fyp"
+    hashtags: "#foryoupage, #surreybc, #fy, #surrey"
+  - username: "aterrill1"
+    fullname: >-
+      Aterr
+    bio: >-
+      
+    location: "Canada"
+    followers: 6516
+    engagement: 610
+    commentsToLikes: 0.019990
+    id: ckcjrcsseh60f0j23fsxwtku9
+    verified: false
+    hashtags: "#kittenlove, #tigerking, #viral, #canada"
+  - username: "ryanvancouver"
+    fullname: >-
+      Ryan
+    bio: >-
+      📍 Everything Vancouver BC 💯 Honest Food Reviews 📩 DM To Collaborate
+    location: "Canada"
+    followers: 4770
+    engagement: 1440
+    commentsToLikes: 0.006116
+    id: cka7ugysxrv6v0i78kipzsf30
+    verified: false
+    hashtags: "#foryoupage, #foryou, #comedy, #hometour"
+  - username: "saba_esbah"
+    fullname: >-
+      Saba Esbah
+    bio: >-
+      I have big goals😩 Trying my best to make you smile🥰❤️
+    location: "Canada"
+    followers: 3040
+    engagement: 761
+    commentsToLikes: 0.039360
+    id: ck8tpri4sql2e0j7896awrxs9
+    verified: false
+    hashtags: "#funny, #iran, #persian, #america"
   - username: "monasanghaa"
     fullname: >-
       monasangha
     bio: >-
       Makeup Artist📍Vancouver, BC IG: @monasangha Email: monasangha@hotmail.com
     location: "Canada"
-    followers: 14600
-    engagement: 496
-    commentsToLikes: 0.008534
+    followers: 18300
+    engagement: 519
+    commentsToLikes: 0.014920
     id: ckacqmrg71fm50i78qklezgs9
     verified: false
-    hashtags: "#fyp, #indianmakeupartist, #makeup, #indianwedding"
-  - username: "ap_bhinder"
+    hashtags: "#punjabi, #yvrfood, #vancouverfood, #vancouverfoodie"
+  - username: "vancouverfoodie"
     fullname: >-
-      ap bhinder
+      Emma Choo
     bio: >-
-      mjhail 🚨 surrey bc 📍 follow me on instagram📸👆🏻
+      Food is my love language! Full-time foodie and traveller based in Vancouver 🇨🇦
     location: "Canada"
-    followers: 5212
-    engagement: 512
-    commentsToLikes: 0.030848
-    id: ck8qixm4mazsg0j78qaarw02b
+    followers: 35100
+    engagement: 668
+    commentsToLikes: 0.028682
+    id: ck92uz6qvod9q0j78n3f87osc
     verified: false
-    hashtags: "#fun, #student, #canada, #surrey"
-  - username: "davidfromvancouver"
+    hashtags: "#boba, #vancouver, #bobaislife, #bubbletea"
+  - username: "laurenhung"
     fullname: >-
-      David Orr
+      Lauren
     bio: >-
-      Digital Creator - Vancouver 🇨🇦 Watch this video about Cardano👇
+      Vancouver / Toronto 😙
     location: "Canada"
-    followers: 80500
-    engagement: 870
-    commentsToLikes: 0.045173
-    id: ck80ob06lgh4o0j787aboqthb
+    followers: 16900
+    engagement: 626
+    commentsToLikes: 0.124186
+    id: ckb9ryc1wou460j232m47tbuw
     verified: false
-    hashtags: "#explorebc, #canada, #foodie, #vancouver"
-  - username: "_yellowflash"
+    hashtags: "#freefreedance, #fyp, #vancouver, #toronto"
+  - username: "wssharing"
     fullname: >-
-      Sachin
+      Free as the Wind
     bio: >-
-      just joke here 💙🤘 Trivian🇮🇳 🇨🇦 #97 van
+      Live Our Dream & Share Our Passion Exploration🧐 Garden🌱 Food🥗 Culture🎊
     location: "Canada"
-    followers: 3569
-    engagement: 1187
-    commentsToLikes: 0.053978
-    id: ckbw2gurgwrt30j23955oje5w
+    followers: 9655
+    engagement: 146
+    commentsToLikes: 0.216869
+    id: ckafttkhu714m0i783b2fs7d7
     verified: false
-    hashtags: "#xyzbca, #trend, #malayali, #indianremix"
-  - username: "freshdailyca"
-    fullname: >-
-      Freshdaily
-    bio: >-
-      CEO of Canada 🇨🇦 Canada’s source for news, culture, food and travel
-    location: "Canada"
-    followers: 92100
-    engagement: 1684
-    commentsToLikes: 0.026666
-    id: ck9f9jj9z70kg0j78behujol9
-    verified: false
-    hashtags: "#sask, #foryoupage, #ontario, #canadalife"
-  - username: "kennamorton"
-    fullname: >-
-      kenna💌
-    bio: >-
-      follow the gram and i’ll love u forever vancouver!!
-    location: "Canada"
-    followers: 5091
-    engagement: 1482
-    commentsToLikes: 0.042556
-    id: ck9v8tbvub3o50j78j3jt63ix
-    verified: false
-    hashtags: "#clothes, #fashion, #fyp, #makeup"
-  - username: "the__impetus"
-    fullname: >-
-      the__impetus
-    bio: >-
-      🇨🇦Vancouver🇨🇦 Asian Persuasion 🇨🇦Entrepreneur🇨🇦 Slice of Life/ Plumber
-    location: "Canada"
-    followers: 16000
-    engagement: 169
-    commentsToLikes: 0.084094
-    id: ck9jxlqfe19f40j787mdtpm2g
-    verified: false
-    hashtags: "#plumbing, #plumber, #heating, #friedchicken"
-  - username: "alyssafontainerd"
-    fullname: >-
-      Alyssa Fontaine RD
-    bio: >-
-      Registered Dietitian RD🤙🇨🇦 Plant-Based🌱 All Recipes ✍️ on IG Food Freedom✌️
-    location: "Canada"
-    followers: 62300
-    engagement: 841
-    commentsToLikes: 0.035584
-    id: ckdi7lrxy9l840j23yas7vbmy
-    verified: false
-    hashtags: "#easyvegan, #dietitiansoftiktok, #dietitian, #easyveganrecipe"
-  - username: "danilojimenezjr"
-    fullname: >-
-      Danilo Jimenez Jr
-    bio: >-
-      Philippines/ Vancouver Canada Loving Father
-    location: "Canada"
-    followers: 3943
-    engagement: 1422
-    commentsToLikes: 0.053369
-    id: ckc7sh4z9xaf70j23lb72eciy
-    verified: false
-    hashtags: "#foryou, #racist, #duet, #canada"
+    hashtags: "#ittastesdifferent, #canada, #pm, #holidaytiktok"
 ---

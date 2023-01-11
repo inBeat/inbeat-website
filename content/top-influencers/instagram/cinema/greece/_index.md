@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Greece In 2022
+title: Top 10 Cinema Instagram Influencers In Greece In 2023
 description: >-
-  Find top cinema Instagram influencers in Greece in 2022. Most popular hashtags: #friends #actor #stayhome.
+  Find top cinema Instagram influencers in Greece in 2023. Most popular hashtags: #love #instagood #actor.
 platform: Instagram
-hits: 58
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 58 Instagram influencers like this in Greece for you to contact.
+hits: 38
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 38 Instagram influencers like this in Greece for you to contact.
 profiles:
   - username: "nikolpanagiotou"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Costume Design | Styling | Theater, Cinema and Everything In Between. Do It With Love, Or Not At All.
     location: "Greece"
-    followers: 105969
-    engagement: 295
-    commentsToLikes: 0.145406
+    followers: 110733
+    engagement: 424
+    commentsToLikes: 0.126472
     id: ck5hgor5u3xli0i11nh4nmna9
     verified: false
-    hashtags: "#mondaymood, #happy, #bolek, #mylove"
+    hashtags: "#mykonosgreece, #mood, #mykonos, #mysummer"
   - username: "giangideg"
     fullname: >-
       Gianluca
     bio: >-
       Made in Rome 🇮🇹 - I ❤️Football ⚽️ ASROMA - Music-Cinema-Travel ✈️
     location: "Greece"
-    followers: 228247
-    engagement: 217
-    commentsToLikes: 0.017287
+    followers: 226143
+    engagement: 219
+    commentsToLikes: 0.017273
     id: ckf5qz3ezavnt0j23e4g49kp8
     verified: false
-    hashtags: "#blondehairdontcare, #navajo, #zante, #beach"
-  - username: "petros_lagoutis_official"
-    fullname: >-
-      Petros
-    bio: >-
-      •Theatre🎭 •Cinema🎬 •TV📺 •Life goes on-LGO•
-    location: "Greece"
-    followers: 31684
-    engagement: 675
-    commentsToLikes: 0.007671
-    id: ck13c6283ysij0i19oopne6fw
-    verified: false
-    hashtags: "#actorslife, #supportartworkers, #interview, #summer2020"
+    hashtags: "#navajo, #zante, #beach, #blueeyes"
   - username: "aris_max_"
     fullname: >-
       Aris Christofer♈️
     bio: >-
       Athens Greece,football ,cinema,trips,theatre,gym
     location: "Greece"
-    followers: 12504
-    engagement: 482
-    commentsToLikes: 0.029671
+    followers: 12697
+    engagement: 459
+    commentsToLikes: 0.023629
     id: ckap0l9wiqszd0i78dvdxbjfx
     verified: false
-    hashtags: "#gym, #instagreece, #manicmonday, #athensvoice"
-  - username: "nataliadragoumi"
-    fullname: >-
-      Natalia Dragoumi
-    bio: >-
-      •Actress Theater/TV/Cinema🎬 • Moraitis school🎓 • Drama School of the National Theater of Greece🎭 •Atelier Andreas Voutsinas in Paris🌴
-    location: "Greece"
-    followers: 82387
-    engagement: 317
-    commentsToLikes: 0.014119
-    id: ck5pvf3yohkno0i11m18mfh8m
-    verified: false
-    hashtags: "#pumagreece, #blackandwhite, #staysafe, #lovemyfamily"
-  - username: "takisdamvakaris"
-    fullname: >-
-      Takis Damvakaris |travel
-    bio: >-
-      Seize The Day 🐸📱📷 Co-traveller @billakosssss Insta Leader @travelvibegr Travel, Music, Cinema Admin @alluring_athens @greece_perfection_
-    location: "Greece"
-    followers: 10389
-    engagement: 1887
-    commentsToLikes: 0.080377
-    id: ck6u8k2vzs1qr0j718o04aclx
-    verified: false
-    hashtags: ""
-  - username: "michalis_marinos_official"
-    fullname: >-
-      Michalis Marinos
-    bio: >-
-      Actor/Ηθοποιος TV/THEATRE/CINEMA Travel entousiast!!!😉🌍🌍🌍
-    location: "Greece"
-    followers: 72550
-    engagement: 459
-    commentsToLikes: 0.008586
-    id: ck5pvdzu1henf0i11eb2lot5s
-    verified: false
-    hashtags: "#stayhome, #athens, #heddagabler, #theatroalma"
-  - username: "anastasia_loukrezi"
-    fullname: >-
-      Anastasia Loukrezi Photography
-    bio: >-
-      Photography 📷 Cinematography 🎥 Edit 💻 Aspiring light bender 💡 🔗 My little short film ↙️
-    location: "Greece"
-    followers: 2102
-    engagement: 1419
-    commentsToLikes: 0.047041
-    id: ckaorquroochu0i7894ltdp7d
-    verified: false
-    hashtags: "#lightpainting, #miniaturephotography, #photography, #witch"
+    hashtags: "#instalifo, #athensvoice, #coffee, #instagreece"
   - username: "fofo_ntemiri"
     fullname: >-
       Fotini Ntemiri
     bio: >-
       Actress,love theater cinema TV,music,literature,ARTS!Love cooking,knitting!Love you all!!!!love dark chocolate too!!
     location: "Greece"
-    followers: 14840
-    engagement: 697
-    commentsToLikes: 0.021080
+    followers: 15072
+    engagement: 688
+    commentsToLikes: 0.031364
     id: ck5pzbt6j07d70i113kyyi72i
     verified: false
-    hashtags: "#friends, #happiness, #repost, #actress"
+    hashtags: "#happiness, #friends, #actress, #vitaminsea"
+  - username: "unboxholics"
+    fullname: >-
+      Unboxholics
+    bio: >-
+      TIME WELL WASTED. Gaming | Tech | Cinema | Entertainment #UH #Unboxholics ⬇️Ρουχισμός Unboxholics
+    location: "Greece"
+    followers: 441576
+    engagement: 866
+    commentsToLikes: 0.005534
+    id: ck8t0b5yprgrs0j7811wd4pch
+    verified: false
+    hashtags: "#kodikasz, #unboxholics, #rtx3090, #rtx3080"
   - username: "toukoutoubi"
     fullname: >-
-      Tukutubegr
+      TukuGR
     bio: >-
-      Cinema Addict Tech Enthusiast Podcaster Anti-Influencer Business inquiries: tukutube@gmail.com #tukutubegr #toukoutoubi #giataviews Latest video 👇👇
+      Cinema addict Stand up Comedian Podcast Owner of TukuGR | TukuGamesGR
     location: "Greece"
-    followers: 14282
-    engagement: 1186
-    commentsToLikes: 0.006868
+    followers: 13731
+    engagement: 1246
+    commentsToLikes: 0.006491
     id: ck5cbufzig6k60i118atht14g
     verified: false
-    hashtags: "#instadaily, #improvatines, #show, #instafollow"
+    hashtags: "#comedy, #awesome, #skg, #instadaily"
+  - username: "steliostsikas"
+    fullname: >-
+      Stelios Tsikas Weddings
+    bio: >-
+      Wedding photographer, storyteller, cinematographer, traveller, father and a great lover of life. DestinationWeddinginGreece #kythnos#kea#sifnos#hydra
+    location: "Greece"
+    followers: 11266
+    engagement: 189
+    commentsToLikes: 0.010735
+    id: ck8t0bgnyrhxt0j78gj4wwgcb
+    verified: false
+    hashtags: "#weddingphotographer, #baptismplanninng, #greekislandweddings, #couplephotography"
+  - username: "petros_lagoutis_official"
+    fullname: >-
+      Petros
+    bio: >-
+      •Theatre🎭 •Cinema🎬 •TV📺 •Life goes on-LGO•
+    location: "Greece"
+    followers: 37345
+    engagement: 819
+    commentsToLikes: 0.009160
+    id: ck13c6283ysij0i19oopne6fw
+    verified: false
+    hashtags: "#actor, #supportartworkers, #eimasteoloimazi, #summer2020"
+  - username: "ioannidispanos"
+    fullname: >-
+      Panos Ioannidis
+    bio: >-
+      Πάνος Ιωαννιδης ✉️ Email: marketing@panosioannidis.gr 🎥 Youtube 🖥 Website
+    location: "Greece"
+    followers: 355359
+    engagement: 570
+    commentsToLikes: 0.024772
+    id: ck55lkz5k1th60i11ngjeogxf
+    verified: false
+    hashtags: "#gillette, #balance, #giveaway, #cinema"
+  - username: "george_komvokis"
+    fullname: >-
+      George Komvokis | Greece
+    bio: >-
+      Travel | Nature | Outdoor CrossFit Athlete Athens | Lesvos Island Check my IGTV
+    location: "Greece"
+    followers: 16611
+    engagement: 1283
+    commentsToLikes: 0.061653
+    id: ck6tpxb1qnzo90j710y2w0och
+    verified: false
+    hashtags: "#cinematography, #photooftheday, #nikon, #me"
 ---

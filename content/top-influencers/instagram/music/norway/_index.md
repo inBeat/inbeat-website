@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Norway In 2022
+title: Top 10 Music Instagram Influencers In Norway In 2023
 description: >-
-  Find top music Instagram influencers in Norway in 2022. Most popular hashtags: #moodygrams #nature #photooftheday.
+  Find top music Instagram influencers in Norway in 2023. Most popular hashtags: #fashion #style #fashionable.
 platform: Instagram
-hits: 75
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 75 Instagram influencers like this in Norway for you to collaborate.
+hits: 45
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 45 Instagram influencers like this in Norway for you to connect with.
 profiles:
-  - username: "zigajelar"
-    fullname: >-
-      𝓩̌𝓲𝓰𝓪 𝓙𝓮𝓵𝓪𝓻
-    bio: >-
-      Ski jumper🇸🇮 Musician🎼: ▫️accordion🎶 ▫️guitar🎸 ❗NEW SONG❗👇
-    location: "Norway"
-    followers: 10357
-    engagement: 1375
-    commentsToLikes: 0.012063
-    id: ck6toq3gsfgmy0j718lhrfwzc
-    verified: false
-    hashtags: "#zigajelar, #grevanadoblake, #skijumping, #sloski"
-  - username: "ulrikkeofficial"
-    fullname: >-
-      ULRIKKE BRANDSTORP
-    bio: >-
-      🎉MELODI GRAND PRIX 2020 🎭 «Liesl» i The Sound Of Music på Folketeateret! ❄️ Hør «Nyttårsnatt» her:
-    location: "Norway"
-    followers: 31637
-    engagement: 706
-    commentsToLikes: 0.016729
-    id: ck5zrxr1bxg6v0i14tl9hgtn4
-    verified: false
-    hashtags: "#spendchristmaswithme, #nytt, #ulrikkesjul, #julrikke"
   - username: "henrylemoin"
     fullname: >-
       Henry Lemoin | Norwegian Model
     bio: >-
       📍Oslo, Norway . ⚘Ambassador @eromaperfumes Discount code: LEMOIN Please check out the music video i'm starring in for The Da Vinci Code
     location: "Norway"
-    followers: 31564
-    engagement: 696
-    commentsToLikes: 0.036211
+    followers: 35539
+    engagement: 863
+    commentsToLikes: 0.046501
     id: ck6u5xvxkce1r0j71t220u2qo
     verified: false
-    hashtags: "#darkaesthetic, #portrait, #aesthetic, #instagood"
-  - username: "maxidamarak"
-    fullname: >-
-      MaxidaMärak
-    bio: >-
-      ALBUM UTOPI - UTE NU! Artist,musicproducer, rapper Native activist Spotify Contact: Anna@t-management.se @annatenfalt
-    location: "Norway"
-    followers: 34712
-    engagement: 441
-    commentsToLikes: 0.018528
-    id: ck5cd4cf3iik80i1152kr76lg
-    verified: true
-    hashtags: "#hemma, #sexig, #bdpop, #lule"
-  - username: "depresnomusic"
-    fullname: >-
-      dePresno
-    bio: >-
-      i like grapes and music and some other stuff. Check out my playlist "Songs I Wish I Wrote"
-    location: "Norway"
-    followers: 7705
-    engagement: 752
-    commentsToLikes: 0.030187
-    id: ck14itghbh35e0i19u8p6eteg
-    verified: true
-    hashtags: ""
-  - username: "photosbyroger"
-    fullname: >-
-      Roger Kristiansen
-    bio: >-
-      🇳🇴 Skien | LANDSCAPE PHOTOGRAPHY 📷Canon Eos RP| DJI Mavic / Officially a music geek😁 Next trip: Lofoten 29. Jan, then Iceland in July 2020.
-    location: "Norway"
-    followers: 6648
-    engagement: 1582
-    commentsToLikes: 0.095353
-    id: ck0u1zw67ydlz0i19kl95ccmn
-    verified: false
-    hashtags: "#norge, #inspiredbyiceland, #theimaged, #longexposure"
+    hashtags: "#mensstyle, #suited, #heathenry, #vikingstyle"
   - username: "thrvce"
     fullname: >-
       Cristian Tarcea
     bio: >-
-      🎹 Music Producer & Songwriter 💿 Founder of @thracemusic @itsathrap @monoirmusic 🎧 Hit the link and feel my vibes
+      Producer & Songwriter @thracemusic @noskip_music @monoirmusic @itsathrap
     location: "Norway"
-    followers: 8151
-    engagement: 606
-    commentsToLikes: 0.031394
+    followers: 8294
+    engagement: 634
+    commentsToLikes: 0.030005
     id: ck14j8r4zj4au0i19ndp37i0q
     verified: false
     hashtags: "#sugarandbrownies"
-  - username: "photographybysiri"
+  - username: "papitogambino"
     fullname: >-
-      Siri📸 photographer
+      OMAR NOIR
     bio: >-
-      photography & music business shoot/work: DM or email 📍 Oslo, norway / @sirigranheim
+      🇬🇲🌐🇳🇴 Artist & Songwriter. Oslo📍||👇🏾New Music
     location: "Norway"
-    followers: 35175
-    engagement: 257
-    commentsToLikes: 0.091784
-    id: ck14iwnyohi8b0i19wt15gift
+    followers: 4995
+    engagement: 959
+    commentsToLikes: 0.059137
+    id: ck5znr2bwozwa0i14fqywgbvt
+    verified: false
+    hashtags: "#waxonwaxoff, #nobodyelse, #fullnelson, #funfact"
+  - username: "charlottedossantos_"
+    fullname: >-
+      🌬 𝕮𝖍𝖆𝖗𝖑𝖔𝖙𝖙𝖊 𝕯𝖔𝖘 𝕾𝖆𝖓𝖙𝖔𝖘 🌬
+    bio: >-
+      Sha-lo-teh 🇧🇷🇳🇴 Oslo Music Mgmt: Management@bethemusic.co.uk Oslo model mgmt: Info@heartbreakmanagement.no
+    location: "Norway"
+    followers: 17004
+    engagement: 414
+    commentsToLikes: 0.033670
+    id: ck0w2mngkp56b0i19iemj5e54
     verified: false
     hashtags: ""
   - username: "madaoslo"
     fullname: >-
       M A r i u s  D A l e
     bio: >-
-      📷 Music & Cityscapes 💥 ➡️ Ta Kontakt for kjøp av bilder, kan printe A2 Production Manager & Venue Photographer at Rockefeller Music Hall #madaphoto
+      I take pictures 📷 All shots are available for prints to buy 👍🏻 🧷 Production Manager & Venue Photographer at Rockefeller Music Hall #madaphoto
     location: "Norway"
-    followers: 14377
-    engagement: 304
-    commentsToLikes: 0.015982
+    followers: 14201
+    engagement: 270
+    commentsToLikes: 0.013174
     id: ck0ucbcx5ggbl0i19od104520
     verified: false
     hashtags: ""
-  - username: "monanordoy"
+  - username: "photographybysiri"
     fullname: >-
-      Mona Nordøy Fotograf
+      Siri 🎞
     bio: >-
-      🌟FOTOTIPS📸Følg meg gjerne😊 🌟 https://monanordoy.no/fotokurs-proffe-mobilder/ 🌟Fotokurs, mobilfotografen. 🌟Foredrag. 🌟Portraits,music,fashion&food.
+      photographer & music girl shoot&work: DM or email/ @sirigranheim
     location: "Norway"
-    followers: 5489
-    engagement: 834
-    commentsToLikes: 0.079749
-    id: ck0uajfb0cdq50i19upirqtq5
+    followers: 34204
+    engagement: 255
+    commentsToLikes: 0.089237
+    id: ck14iwnyohi8b0i19wt15gift
     verified: false
-    hashtags: "#magasin, #photooftheday, #nikonphotography, #levlandlig"
+    hashtags: ""
+  - username: "rybakofficial"
+    fullname: >-
+      🎻 ALEXANDER RYBAK 🎻
+    bio: >-
+      Eurovision winner 🎻🥇 New jazz music! 🎻 I hope you like it 🌹👇🏼
+    location: "Norway"
+    followers: 494689
+    engagement: 850
+    commentsToLikes: 0.013719
+    id: ck13a21lwo8ix0i19xolkfd36
+    verified: true
+    hashtags: "#violin, #jazz, #clarinet, #columbiacollegechicago"
+  - username: "food___passion"
+    fullname: >-
+      Jamilla🇲🇦🇳🇴
+    bio: >-
+      📷 Pictures of my food journey 📍 Based in Oslo, Norway Passion for food, coffee, flowers and music🌸
+    location: "Norway"
+    followers: 49569
+    engagement: 118
+    commentsToLikes: 0.236455
+    id: ck9hccd5fkqrt0j78e6yhqdlh
+    verified: false
+    hashtags: "#fashiondesigner, #fashionblogger, #dessertporn, #fashionshow"
+  - username: "producedbymagnus"
+    fullname: >-
+      MAGNUS
+    bio: >-
+      Norwegian music producer & musician - Published by ULTRA and managed by MADE
+    location: "Norway"
+    followers: 11767
+    engagement: 1031
+    commentsToLikes: 0.020338
+    id: ck14itg5ch33g0i19nopaddpx
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "magnus_klausen"
+    fullname: >-
+      Magnus klausen
+    bio: >-
+      Norwegian. Probably making a riff... Music I listen to 👇
+    location: "Norway"
+    followers: 58545
+    engagement: 397
+    commentsToLikes: 0.034385
+    id: ck6ud1r3wim5o0j71vdhqbj09
+    verified: false
+    hashtags: "#pickupjazz, #soundofguitars, #guitarsarebetter, #drakememes"
 ---

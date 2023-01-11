@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Venezuela In 2022
+title: Top 10 Dancers Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top dancers Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #dancer #dance #love.
+  Find top dancers Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #dance #dancer #fashion.
 platform: Instagram
-hits: 17
+hits: 10
 text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 17 Instagram influencers like this in Venezuela for you to contact.
+text_bottom: Our platform has 10 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
-  - username: "karlitablanco"
+  - username: "eduarlopezf"
     fullname: >-
-      𝕂 𝔸 ℝ 𝕃 𝕀 𝕋 𝔸   𝔹 𝕃 𝔸 ℕ ℂ 𝕆 🍀
+      E D U A R   L Ó P E Z   £.
     bio: >-
-      •Lic. Com Social UCV •Mamá de Carlitos •Tv Host 🎥🎬@tves_aldia •Modelo •Me encanta bailar💃🏼 •Pole Dancer💪🏻 •En constante aprendizaje 🤓 ♡♥ ♧♡♥
+      Asesor Comercial Bitcoin Cash💲💼💲 Professional #Dancer🔝 /#Model 🇻🇪 Bailarin: @melodiaperfect @nakarynk Ccs-Vzla 🇻🇪 MI NUEVO VIDEO: REIK #raptame
     location: "Venezuela"
-    followers: 7188
-    engagement: 775
-    commentsToLikes: 0.049123
-    id: ck5hdgvvpndck0i11b4afi9zw
+    followers: 7586
+    engagement: 623
+    commentsToLikes: 0.086161
+    id: ck5zzol4nc4q00i144orhvhie
     verified: false
-    hashtags: "#girl, #armonia, #naturaleza, #dreams"
-  - username: "miliorkis"
-    fullname: >-
-      Chinix 💫
-    bio: >-
-      Dios Twerk dancer @lasqueensoficial @crazybootyoficial TikTok : Miliorkis 💌 Publi al DM
-    location: "Venezuela"
-    followers: 17459
-    engagement: 330
-    commentsToLikes: 0.124729
-    id: ckapabinsvfn90i785pr92ma7
-    verified: false
-    hashtags: "#chinix, #peru, #urban, #love"
+    hashtags: "#avila, #beard, #caracas, #dance"
   - username: "alesdanzz"
     fullname: >-
       Alesdanz
     bio: >-
       Dancer & Editor - Visual Dancer Tiktok (300k)❗️ 📭Contact: provnzla17@gmail.com 👇🏻❗️Tutoriales y más/ Tutorials and More❗️👇🏻
     location: "Venezuela"
-    followers: 27131
-    engagement: 1534
-    commentsToLikes: 0.021821
+    followers: 25293
+    engagement: 1578
+    commentsToLikes: 0.019542
     id: ck13ars7grurz0i19b9pkqp0l
     verified: false
-    hashtags: "#tiktoktiktok, #canda, #listy, #tiktok"
-  - username: "edwinsleo"
+    hashtags: "#shuffle, #listy, #erickolim, #alesdanzz"
+  - username: "irenenunezin"
     fullname: >-
-      Edwins Acosta
+      Irene Núñez
     bio: >-
-      Professional Dancer and choreographer 🧿 @eys.entertainment
+      Vístete y Proyéctate desde tu Poder Personal🏆 👗Style & Image Coach 🎤Speaker 💃🏻 Dancer & ContentCreator 🎙INPowerPodcast 📒Ebook:Visualízate,Lográndolo⬇️
     location: "Venezuela"
-    followers: 23940
-    engagement: 191
-    commentsToLikes: 0.107253
-    id: ck134p4e0xijm0i19p8j2c23t
+    followers: 43524
+    engagement: 121
+    commentsToLikes: 0.046864
+    id: ck8sw2zd6dldr0j78lezchf7f
     verified: false
-    hashtags: "#dancers, #me, #goodvibes, #openclass"
-  - username: "eduarlopezf"
-    fullname: >-
-      E D U A R   L Ó P E Z   £.
-    bio: >-
-      Professional #Dancer🔝 /#Model 🇻🇪 El Tiempo de Dios es Perfect 🙏 Bailarin: @melodiaperfect @nakarynk Ccs-Vzla 🇻🇪 MI NUEVO VIDEO: REIK #raptame
-    location: "Venezuela"
-    followers: 7544
-    engagement: 560
-    commentsToLikes: 0.111512
-    id: ck5zzol4nc4q00i144orhvhie
-    verified: false
-    hashtags: "#instagood, #venezuela, #dance, #portrait"
+    hashtags: "#irenenunez, #alestiloin, #inpowerpodcast, #poderinterior"
   - username: "paolamarin1"
     fullname: >-
-      Pαolα Mαrı́n
+      Paola Marin (cuenta nueva)
     bio: >-
-      ಧಿ Reina de la Feria de Barquisimeto 2018 ๛ Modelo | Bailarina | Actriz ๛ TV Host @promartv ಇ pm04 †
+      ಎ TV Host⚡️ @promartv @omgpromar ⁣ ঃ Modelo | Bailarina | Actriz | Locutora⁣ ⁣ ಎ Reina de la Feria de Barquisimeto 2018⁣ pm04 †
     location: "Venezuela"
-    followers: 8800
-    engagement: 820
-    commentsToLikes: 0.100156
+    followers: 1475
+    engagement: 2820
+    commentsToLikes: 0.086882
     id: ck602x3sljsl10i14fxwluf9j
     verified: false
-    hashtags: "#fy, #savannanetworks, #journalist, #happiness"
+    hashtags: "#love, #fy, #lara, #venezuela"
   - username: "alexdanceoficial"
     fullname: >-
       ALEX DANCE 🇨🇴
     bio: >-
       
     location: "Venezuela"
-    followers: 62672
-    engagement: 777
-    commentsToLikes: 0.065965
+    followers: 65273
+    engagement: 831
+    commentsToLikes: 0.056136
     id: ck5bua5xthf4b0i11le70z30f
     verified: false
-    hashtags: "#afrodance, #champetaurbana, #coreography, #dancers"
-  - username: "luismivr"
+    hashtags: "#champeta, #colombia, #cartagena, #baile"
+  - username: "crvallenilla"
     fullname: >-
-      Luismi vr
+      Carlos Vallenilla
     bio: >-
-      V E N E Z O L A N O 🇻🇪 🌍 D A N C E R 🙌🏽 Modelo TIK TOK: @luismivrone
+      Arte y más ná.... Barquisimeto, Venezuela. Información: mensaje directo o a mi correo crvallenilla@gmail.com
     location: "Venezuela"
-    followers: 21437
-    engagement: 445
-    commentsToLikes: 0.042735
-    id: ck5zzok3bc4or0i140bzk0dyd
+    followers: 43875
+    engagement: 195
+    commentsToLikes: 0.077120
+    id: ck5hlnfn8kiqq0i11074tn239
     verified: false
-    hashtags: "#labuena, #nacho, #venezolano, #venezuela"
-  - username: "billy.doe"
+    hashtags: "#pintura, #latidos, #pandemia, #exhibit"
+  - username: "naelyjustin"
     fullname: >-
-      Miguel V. Pomenta
+      LOS NIÑOS CAROS
     bio: >-
-      - Mobility Coach of @morrocrossfit 💪 - Ed Sheeran - Perfect (cover by @briotheduo) Vídeo Completo 👇👇👇
+      🤑@Jhonnael 🤑@Justinmusico #SALSA @soymackie @yahairaplasencia
     location: "Venezuela"
-    followers: 2134
-    engagement: 1378
-    commentsToLikes: 0.056969
-    id: ck600tnz1e9110i14nzcrfuja
-    verified: false
-    hashtags: "#quedateencasa, #venezuela, #crossfit, #ballet"
-  - username: "mimiangulo_"
+    followers: 50379
+    engagement: 102
+    commentsToLikes: 0.177401
+    id: ck5zwgmfg63g30i14akb11qry
+    verified: true
+    hashtags: "#repost, #perrochallenge, #ahora, #salsa"
+  - username: "balletfitness_by_upstage"
     fullname: >-
-      MICHELLE ANGULO
+      Ballet Fitness by Upstage 🇨🇴🌎
     bio: >-
-      📍Ccs, Venezuela •Tv hostess @zona_i - @todoentendenciai •Lcda. Comunicación social •3ra finalista chica HTV 2015 •Modelo - Bailarina - Locutora
+      • ENTRENAMIENTO FÍSICO: Ballet Fitness • ESCUELA DE BAILE: @upstagedancecali • MÉTODO PARA MAYORES DE 14 AÑOS
     location: "Venezuela"
-    followers: 36515
-    engagement: 295
-    commentsToLikes: 0.085722
-    id: ck5zwzvuw72nq0i14afy1hm4h
+    followers: 28349
+    engagement: 81
+    commentsToLikes: 0.025757
+    id: ck0tukg7x7kfj0i197bqfyd00
     verified: false
-    hashtags: "#goodnight, #25thbirthday, #momentosjeeka, #chicaideal"
+    hashtags: "#dancecol, #danceandbehappy, #balletfit, #barre"
+  - username: "arletterm"
+    fullname: >-
+      Arlette Ramirez Marcos
+    bio: >-
+      🇲🇽♉️ Embajadora del Reggaeton aka Arly G Host de @trapeoyperreo ✨🖤 @vixenarmymty VXN Master Trainer Co-Founder @latina.tribe 📲 @theinnfluencers
+    location: "Venezuela"
+    followers: 17918
+    engagement: 789
+    commentsToLikes: 0.103266
+    id: ckf5s67kceu1w0j230hdh93gi
+    verified: false
+    hashtags: "#loading, #bodychallenge, #eutdm, #badbunny"
+  - username: "carlosmarcanoficial"
+    fullname: >-
+      Carlos Marcano Oficial
+    bio: >-
+      ▪️Publicist, Designer and Life Lover🖤 ◾️Creating Art for the World ✍🏻 ◼️Available for Work 🖊 ◼️Venezolano 🏴 ◻️@carloslmg https://youtu.be/2NrQaNMznUA
+    location: "Venezuela"
+    followers: 15388
+    engagement: 412
+    commentsToLikes: 0.050218
+    id: ck5cazmy6efqt0i119h1ygu88
+    verified: false
+    hashtags: "#composition, #venezuela, #missvenezuela, #queen"
 ---

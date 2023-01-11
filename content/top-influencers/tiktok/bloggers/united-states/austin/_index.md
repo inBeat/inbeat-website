@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Austin In 2022
+title: Top 10 Bloggers TikTok Influencers In Austin In 2023
 description: >-
-  Find top bloggers TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #atx #texas #dogsoftiktok.
+  Find top bloggers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #duet #weightlossjourney #planterstrickshot.
 platform: TikTok
-hits: 6
+hits: 5
 text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 6 TikTok influencers like this in Austin, United States for you to contact.
+text_bottom: inBeat holds 5 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "onegirlwandering"
+  - username: "lanaato"
     fullname: >-
-      Lindsay | Solo Travel
+      lanaato
     bio: >-
-      CEO of Solo Travel Follow me on IG too! (I’m able to answer DMs there) ATX
+      Blogger and content creator Austin, TX IG: @lanaato 100K+ svitlanaato@gmail.com
     location: "United States"
-    followers: 117500
-    engagement: 1203
-    commentsToLikes: 0.048815
-    id: ck8far6c24ju90j78yqzjidvn
+    followers: 10100
+    engagement: 459
+    commentsToLikes: 0.070951
+    id: ckcuqjsy0jbgx0j23v638oidk
     verified: false
-    hashtags: "#travelfoodie, #tiktoktravel, #shetravels, #travel"
+    hashtags: "#bloggertips, #texasblogger, #trending, #atx"
+  - username: "brianjohnsadventure"
+    fullname: >-
+      brianjohnsadventure
+    bio: >-
+      Full time travel photographer and blogger! Shouting all YouTube subscribers! 👇
+    location: "United States"
+    followers: 17600
+    engagement: 1698
+    commentsToLikes: 0.120547
+    id: ckbfiiy0beanz0j23sefdjyq9
+    verified: false
+    hashtags: "#nature, #destinationdepop, #travel, #planterstrickshot"
   - username: "tessv.flo"
     fullname: >-
       TessTok TV 📺
     bio: >-
-      I do what I want to do. ⬆️YouTube•IG ➡️Twitch.tv/starforce_stage 24 | TX
+      Filipina-American ⬆️YouTube•IG ➡️Twitch.tv/starforce_stage She/Her 24 | TX
     location: "United States"
-    followers: 28700
-    engagement: 1128
-    commentsToLikes: 0.052401
+    followers: 30400
+    engagement: 1126
+    commentsToLikes: 0.050782
     id: ck9nbu7v7bctq0j78yil3k986
     verified: false
-    hashtags: "#atx, #mentalhealth, #fyp, #circus"
-  - username: "exploringretta"
+    hashtags: "#spacequeen, #aerialarts, #asianamerican, #futuristic"
+  - username: "sealionbryan"
     fullname: >-
-      Gretta Sophia
+      Bryan Martin
     bio: >-
-      Texas travel blogger & photographer✈️📸 Follow me on IG⬆️⬆️ 📍Houston, TX 🇻🇪
+      Animal trainer / public speaker loves dancing, bad jokes and essential oils! 🕺
     location: "United States"
-    followers: 57200
-    engagement: 1028
-    commentsToLikes: 0.011688
-    id: ckb9hnw6v7jrv0j23a9x8uiaa
+    followers: 51800
+    engagement: 939
+    commentsToLikes: 0.094359
+    id: ckbfij69webm20j23edx9ksrj
     verified: false
-    hashtags: "#fyp, #xyzbca, #houstontx, #houston"
-  - username: "sanantoniomunchies"
+    hashtags: "#foryou, #gay, #blueeyes, #swv"
+  - username: "salo_tv"
     fullname: >-
-      Alex
+      SaloTV🇭🇹
     bio: >-
-      SA’s best food blogger! Insta: SanAntonioMunchies FaceBK: San Antonio Munchies
+      IG: @salo.tv YT: SaloTV salothesavbookings@gmail.com 21 | Jersey | 🇭🇹
     location: "United States"
-    followers: 4581
-    engagement: 490
-    commentsToLikes: 0.020155
-    id: cka8dxu11utso0i78mptr257f
+    followers: 9895
+    engagement: 982
+    commentsToLikes: 0.061803
+    id: ck9gl4g8vmm4w0j78ta3168d5
     verified: false
-    hashtags: "#sanantoniotexas, #homemade, #210, #sanantonio"
-  - username: "thenuevalatina"
+    hashtags: "#jersey, #haitian, #haitianhousehold, #twitter"
+  - username: "joeynjasmin"
     fullname: >-
-      thenuevalatina
+      JoeyNJasmin
     bio: >-
-      📲 Blogger & YouTuber 🇲🇽 #Chingona 💕 Travel, Music, Food, y Mas 📍 ATX
+      FOLLOW OUR INSTAGRAM 🔝❤️🤘🏽 Creators | Bloggers | Pranksters 🤪😜
     location: "United States"
-    followers: 3621
-    engagement: 483
-    commentsToLikes: 0.020918
-    id: ckdbmtuh0aez30j239hy5qgxk
+    followers: 1100000
+    engagement: 1605
+    commentsToLikes: 0.023043
+    id: ckb9j6fiwa69s0j234mts5dpi
     verified: false
-    hashtags: "#foryou, #atx, #austin, #fyp"
-  - username: "lemaraisbakery"
-    fullname: >-
-      lemaraisbakery
-    bio: >-
-      San Francisco 🥐 Delivering to doorsteps across US
-    location: "United States"
-    followers: 26200
-    engagement: 816
-    commentsToLikes: 0.004888
-    id: ckb9b3fp7wo5f0j23c46dvf1n
-    verified: false
-    hashtags: "#hungry, #breakfast, #fyp, #brunch"
-  - username: "theitmom"
-    fullname: >-
-      Daisy Teh
-    bio: >-
-      👩🏻‍💻Blogger/Amazon Seller 🇵🇭Former teen mom 🎉Family fun 👰🏻My BFF 📍Vegas
-    location: "United States"
-    followers: 550300
-    engagement: 1817
-    commentsToLikes: 0.025931
-    id: ckbqjjg5p4qnx0j234n7ohj93
-    verified: false
-    hashtags: "#babyturtle, #gimmelove, #turtlesoftiktok, #tortoise"
-  - username: "alyssatabit"
-    fullname: >-
-      alyssa
-    bio: >-
-      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
-    location: "United States"
-    followers: 26000
-    engagement: 1418
-    commentsToLikes: 0.065475
-    id: ckbkt2nxko44z0j23uxvlyfak
-    verified: false
-    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
+    hashtags: "#joeynjasmin, #bloopers, #silhouette"
   - username: "mrmoodydresser"
     fullname: >-
       Mike Jones
     bio: >-
-      40+ Fashion influencer and blogger! #mrmoodydresser
+      40+ Fashion influencer and blogger! Follow me on IG & FB @mrmoodydresser 🧐
     location: "United States"
-    followers: 7772
-    engagement: 1041
-    commentsToLikes: 0.075983
+    followers: 12300
+    engagement: 1350
+    commentsToLikes: 0.107278
     id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#weightlossjourney, #fitover40, #blackmenwithstyle, #tiktokover40"
-  - username: "carissa.stephens"
+    hashtags: "#blackmenwithstyle, #over40tiktok, #fitover40, #weightlossjourney"
+  - username: "roseybeeme"
     fullname: >-
-      Carissa Stephens
+      roseybeeme
     bio: >-
-      Lifestyle Blogger + Wine Maker Making life magical. Join me for the ride 🦄💫💕
+      ✨ I ❤️ pop culture and 🚫 diets✨ 🤩 failed actor🤩 🌺dallas style blogger🌺
     location: "United States"
-    followers: 4184
-    engagement: 1560
-    commentsToLikes: 0.058850
-    id: cka6b5e26ywxe0i78kkfffqh8
+    followers: 223200
+    engagement: 1295
+    commentsToLikes: 0.018203
+    id: ckbkt9b67o7b90j2365lztfrp
     verified: false
-    hashtags: "#fypage, #winelovers, #over30, #momsoftiktok"
+    hashtags: "#plussize, #freefreedance, #plussizeedition, #plussizestyle"
+  - username: "espressofied"
+    fullname: >-
+      espressofied
+    bio: >-
+      Caffeinated Blogger • Double Organ Transplant Warrior • Modern Exec • Ambassador
+    location: "United States"
+    followers: 10100
+    engagement: 2518
+    commentsToLikes: 0.039776
+    id: ckd0r71roig8x0j2337p9n4et
+    verified: false
+    hashtags: "#fyp, #isthisavailable, #trulyglowingselfielove, #americanlife"
+  - username: "lunarandlilacs"
+    fullname: >-
+      ‣ lauren ashley
+    bio: >-
+      lauren astrology blogger cancer ☼ gemini ☽ leo ⇧
+    location: "United States"
+    followers: 73800
+    engagement: 1279
+    commentsToLikes: 0.083025
+    id: ck8fazwti4ttu0j78p4t57k9k
+    verified: false
+    hashtags: "#astrology, #astrologytiktok, #zodiac, #earthsigns"
 ---

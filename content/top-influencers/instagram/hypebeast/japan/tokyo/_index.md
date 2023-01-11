@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Tokyo In 2022
+title: Top 10 Hypebeast Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Tokyo in 2022. Most popular hashtags: #hypebeast #japan #moodygrams #discovertokyo.
+  Find top hypebeast Instagram influencers in Tokyo in 2023. Most popular hashtags: #hypebeast #japan #voyaged #hellofrom.
 platform: Instagram
-hits: 33
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 33 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 11
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 11 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
-  - username: "djnedtek"
-    fullname: >-
-      DJ NEDTEK
-    bio: >-
-      Japan based🇯🇵 OPEN FORMAT DJ⏯ FREELANCE PHOTOGRAPHER📸 My photography @illmatek_
-    location: "Japan"
-    followers: 9395
-    engagement: 448
-    commentsToLikes: 0.183810
-    id: ck0w2h3fzocc00i190mxjyx5b
-    verified: false
-    hashtags: "#newmusic, #createexplore, #osaka, #djlive"
-  - username: "withindestructiondm"
-    fullname: >-
-      Within Destruction
-    bio: >-
-      Slovenia, Europe. 🎤- @dusknecrosis 🥁- @x_yung_luke_x 🎸- @francescofiligoi @howieplaysguitar
-    location: "Japan"
-    followers: 64266
-    engagement: 330
-    commentsToLikes: 0.020657
-    id: ck5c4ybwe2db90i11px8rqk06
-    verified: true
-    hashtags: "#hustle, #swag, #sugoi, #newsingle"
-  - username: "nickelpack"
-    fullname: >-
-      Kenta Hayashi
-    bio: >-
-      🏠≫Tokyo,Japan 📷≫OLYMPUS.OM-D E-M5Mark II 🔥≫Nightphotography 😍≫Light trails / Panning shot
-    location: "Japan"
-    followers: 11392
-    engagement: 4779
-    commentsToLikes: 0.017884
-    id: ck5zuzfzq3bcb0i14uzzoytr6
-    verified: false
-    hashtags: "#amazing, #shotsdelight, #citygrammers, #japandailies"
-  - username: "japan"
-    fullname: >-
-      @japan
-    bio: >-
-      Share your Japan experience by tagging @Japan and #lovinjapan to be featured.
-    location: "Japan"
-    followers: 129995
-    engagement: 339
-    commentsToLikes: 0.008321
-    id: ck55om9dr8n6p0i119vwb7hdp
-    verified: false
-    hashtags: "#hellofrom, #visitjapan, #wheninjapan, #tokyocameraclub"
-  - username: "k319w"
-    fullname: >-
-      Kazumi Watanabe
-    bio: >-
-      Let me take your hand to the world you haven’t seen
-    location: "Japan"
-    followers: 26520
-    engagement: 297
-    commentsToLikes: 0.011349
-    id: ck0txuny8kiah0i191837fdf7
-    verified: false
-    hashtags: "#depthobsessed, #travelphotography, #japan, #weekly"
-  - username: "blancomxm"
-    fullname: >-
-      Blanco MxM
-    bio: >-
-      DarKhO mXm アニメとマンガ Blanco : We learn from the past to understand the present and change the future #Anime_Blanco_MxM 漫画家 #JP Page Facebook :
-    location: "Japan"
-    followers: 4481
-    engagement: 1127
-    commentsToLikes: 0.172663
-    id: ck6tjy2ci3mmm0j71hxe4gic7
-    verified: false
-    hashtags: "#manga, #animesketches, #artwork, #tanaka"
   - username: "lupus_solum"
     fullname: >-
       lupus
     bio: >-
       camping Journey 🏕 Jeep Wrangler interior Scandinavian design coffee ☕︎ コメント フォローお気軽にどうぞ⛰
     location: "Japan"
-    followers: 5814
-    engagement: 1666
-    commentsToLikes: 0.011341
+    followers: 5635
+    engagement: 1724
+    commentsToLikes: 0.011350
     id: ck5q637t2vrar0i11izk9o3x8
     verified: false
-    hashtags: "#instagramjapan, #instagram, #sonyalpha, #streets"
+    hashtags: "#wp, #pt, #sunsetclimax, #pashadelic"
   - username: "ssym.ry"
     fullname: >-
       SHIMO.®
     bio: >-
       JPN🇯🇵'96🗓 Tokyo🗼 Fashion ♻️ Sneaker 🙏Please follow me🙏 @_nextreet_
     location: "Japan"
-    followers: 14459
-    engagement: 461
-    commentsToLikes: 0.023609
+    followers: 14157
+    engagement: 372
+    commentsToLikes: 0.010563
     id: ck8tdknt63pao0j78ct3jbv0m
     verified: false
-    hashtags: "#povoutfit, #newbalance993, #jjjjound, #stayhome"
-  - username: "ldn2hk"
+    hashtags: "#comoli, #neighborhood, #descendant, #uniqlou"
+  - username: "shisonydayo"
     fullname: >-
-      LDN2HK
+      しそ
     bio: >-
-      • Global #Fashion & #Streetwear Curator • London•Oslo•TX•HK•NYC•LA•#Tokyo • @Visionarism APAC Division • Inquiries. Landy@visionarism.com
+      🇯🇵Tokyo 👱‍♂️Freelance photographer 📷FUJIFILM ❤️Photo,Gym,Music,Movie,Kickboxing, #とっておきのすげーフォト ♪ Film @shisonydaze
     location: "Japan"
-    followers: 120628
-    engagement: 88
-    commentsToLikes: 0.036453
-    id: ck0vy6arf2fmn0i1921qggb7t
+    followers: 15706
+    engagement: 297
+    commentsToLikes: 0.021064
+    id: ck8szccjrnvmu0j78mwmzgxzr
     verified: false
-    hashtags: "#sacaiblazer, #brkicks, #complexkicks, #lvsupreme"
-  - username: "_kevin.douglas_"
+    hashtags: "#japantravel, #raw, #streets, #streetworkout"
+  - username: "rkrkrk"
     fullname: >-
-      KD
+      R̸K̸
     bio: >-
-      📍Tokyo, Japan 🗼🇯🇵 📷 @sonyalpha A7II 📫 therelentlesskd1112@gmail.com 📱DM for Business and Rates
+      DJ / Tokyo based / US11 I am Japanese @rk_photo_works
     location: "Japan"
-    followers: 5886
-    engagement: 1349
-    commentsToLikes: 0.071030
-    id: ck5ciona6t26y0i11vd1zm6ky
+    followers: 595278
+    engagement: 510
+    commentsToLikes: 0.006520
+    id: ck0tuyuux99u60i19r3wkkqhn
+    verified: true
+    hashtags: "#thegreatplanet, #wonderful, #architecture, #earthoffcial"
+  - username: "jhon_indon"
+    fullname: >-
+      JHONO | ジョノ
+    bio: >-
+      🌏 98 | Indonesian 🇮🇩 📍Based in shizuoka 🇯🇵 📩 DM or mail for rates, other requirements
+    location: "Japan"
+    followers: 3792
+    engagement: 1489
+    commentsToLikes: 0.113753
+    id: ck8ta7vlqqs5r0j78y3lmzi5s
     verified: false
-    hashtags: "#visualmobs, #portraitpage, #portrait, #earth"
+    hashtags: "#highsnobiety, #travel, #longexpo, #discoverearth"
+  - username: "dragon76art"
+    fullname: >-
+      Dragon76
+    bio: >-
+      🇯🇵→🗽 Artist, muralist, Painter, Based in New York
+    location: "Japan"
+    followers: 32651
+    engagement: 284
+    commentsToLikes: 0.008457
+    id: ck1367bc353b00i1923676x0u
+    verified: false
+    hashtags: "#artroom, #muralart, #ouroboros, #dragon76"
+  - username: "djnedtek"
+    fullname: >-
+      DJ NEDTEK
+    bio: >-
+      Japan based🇯🇵 OPEN FORMAT DJ⏯ FREELANCE PHOTOGRAPHER📸 My photography @illmatek_
+    location: "Japan"
+    followers: 9420
+    engagement: 296
+    commentsToLikes: 0.252109
+    id: ck0w2h3fzocc00i190mxjyx5b
+    verified: false
+    hashtags: "#seratodj, #funk, #artofvisuals, #newmusic"
+  - username: "blancomxm"
+    fullname: >-
+      Blanco MxM
+    bio: >-
+      DarKhO mXm アニメとマンガ Blanco : We learn from the past to understand the present and change the future #Anime_Blanco_MxM 漫画家 #JP Page Facebook :
+    location: "Japan"
+    followers: 4262
+    engagement: 1183
+    commentsToLikes: 0.163559
+    id: ck6tjy2ci3mmm0j71hxe4gic7
+    verified: false
+    hashtags: "#digitalart, #animedrawings, #characterdesign, #manga"
+  - username: "nyarumaa.cosplay"
+    fullname: >-
+      にゃるまー。🦊 Nyarumaa.
+    bio: >-
+      Japanese cosplayer 🇯🇵 All images here are copyrighted by Nyarumaa. ・ お仕事依頼はDMまたはメールにてお願いします💌 ・ 💓🦊💓Thank you💓🦊💓
+    location: "Japan"
+    followers: 116519
+    engagement: 367
+    commentsToLikes: 0.014528
+    id: ck8t837xqixzn0j78fzjegagn
+    verified: false
+    hashtags: "#animecosplayer, #selfie, #beautygram, #cosplaygirl"
+  - username: "nico_kids_10"
+    fullname: >-
+      Daiki Kitsukawa
+    bio: >-
+      📍Tokyo Based | Landscapes/Cityscapes/Portrait 👆Fujifilm User 🔥You're always welcome to follow🙌 📭Contact to DM or Comment
+    location: "Japan"
+    followers: 4777
+    engagement: 478
+    commentsToLikes: 0.009972
+    id: ck8taxjr4tho90j78797y9pkq
+    verified: false
+    hashtags: "#looklookjapan, #japon, #streetshootjapan, #fujifilmxh1"
 ---

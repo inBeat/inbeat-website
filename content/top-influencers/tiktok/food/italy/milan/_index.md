@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Milan In 2022
+title: Top 10 Food TikTok Influencers In Milan In 2023
 description: >-
-  Find top food TikTok influencers in Milan in 2022. Most popular hashtags: #milano #food #perte #milan.
+  Find top food TikTok influencers in Milan in 2023. Most popular hashtags: #perte #food #fyp #funny.
 platform: TikTok
-hits: 24
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 24 TikTok influencers like this in Milan, Italy for you to connect with.
+hits: 19
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 19 TikTok influencers like this in Milan, Italy for you to connect with.
 profiles:
-  - username: "marikaandgiada"
+  - username: "matthewita"
     fullname: >-
-      M & G
+      Matthew
     bio: >-
-      • Milan 🇮🇹 • Instagram: marikaandgiada • Collab: sorichettigiada@gmail.com
+      💸Consigli per fare su qualche soldo al mese gratuitamente e senza investire💸
     location: "Italy"
-    followers: 268900
-    engagement: 1541
-    commentsToLikes: 0.007552
-    id: ck8f8vjo63mkk0j78jjed68rf
+    followers: 11800
+    engagement: 690
+    commentsToLikes: 0.015874
+    id: ckbepr93y6yyq0j23mvk4qo7u
     verified: false
-    hashtags: "#euphoria, #summer, #fyp, #foryou"
-  - username: "inquarantena"
+    hashtags: "#fyp, #boys, #perte, #trend"
+  - username: "therealgianpi"
     fullname: >-
-      Fiorenzo Piracci
+      gianpietro ferrari
     bio: >-
-      Faccio casini
+      Italy 🇮🇹 insta : @therealgianpi ⚠️⚠️
     location: "Italy"
-    followers: 8308
-    engagement: 708
-    commentsToLikes: 0.040887
-    id: ckcv6mgz1ppel0j23q4irn7y2
+    followers: 3677
+    engagement: 1121
+    commentsToLikes: 0.038802
+    id: cka6010ppp5pb0i78mwt1c0yo
     verified: false
-    hashtags: "#chills, #foryou, #fyp, #neiperte"
-  - username: "alletattoo75"
-    fullname: >-
-      Alletattoo
-    bio: >-
-      Tatuatore dei vip👍 14 Guinness World Records👍 Follow TWITCH,INSTAGRAM,YOUTUBE
-    location: "Italy"
-    followers: 98800
-    engagement: 1002
-    commentsToLikes: 0.013387
-    id: ck9a7bkjc6ww10j787knwjh0d
-    verified: false
-    hashtags: "#perte, #alletattoo, #foryou, #tattooshop"
-  - username: "sorbilloofficial"
-    fullname: >-
-      Gino Sorbillo
-    bio: >-
-      Pizzerie Sorbillo ®️ Napoli, Tokyo, New York, Miami Beach, Milano, Roma, Genova
-    location: "Italy"
-    followers: 17200
-    engagement: 420
-    commentsToLikes: 0.011854
-    id: ck8to6t5ylifg0j78u5rs3yq0
-    verified: false
-    hashtags: "#napoli, #tiktok, #pizza, #sorbillo"
-  - username: "milanhouses"
-    fullname: >-
-      Milan Houses
-    bio: >-
-      milanhouses.com
-    location: "Italy"
-    followers: 2075
-    engagement: 2372
-    commentsToLikes: 0.003964
-    id: ckc1rjl9lvyy90j231o9h11vu
-    verified: false
-    hashtags: "#milan, #milano, #home, #monolocalemilano"
+    hashtags: "#scuola, #funny, #school, #serietv"
   - username: "gelatogram.italia"
     fullname: >-
       gelatogram.italia
     bio: >-
       Cerca Gusta Condividi La guida per gli amanti del gelato 🇮🇹 #gelatogram_italia
     location: "Italy"
-    followers: 15000
-    engagement: 962
-    commentsToLikes: 0.005241
+    followers: 14800
+    engagement: 699
+    commentsToLikes: 0.010864
     id: ck8vv7suel1710j78ea4s9hf3
     verified: false
-    hashtags: "#gelatoitaliano, #conogelato, #foodporn, #cioccolato"
-  - username: "gianspe"
+    hashtags: "#gelatoalcioccolato, #italia, #cioccolato, #fyp"
+  - username: "martinapezzuti0"
     fullname: >-
-      Gian
+      Martinapezzuti
     bio: >-
-      📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
+      💚 18 years old 💚 MILAN 🇮🇹 SEGUIMI @pezzutimartina
     location: "Italy"
-    followers: 7949
-    engagement: 954
-    commentsToLikes: 0.017172
-    id: ckbqionll3wdj0j2300k8cemq
+    followers: 124100
+    engagement: 990
+    commentsToLikes: 0.058098
+    id: cka0vtlzd00lf0i78lzx4vzu8
     verified: false
-    hashtags: "#shooting, #tutorial, #sunset, #sea"
-  - username: "valentina_galassi"
+    hashtags: "#fyp, #newsong, #dad, #nuovotrend"
+  - username: "milanhouses"
     fullname: >-
-      valentina_galassi
+      Milan Houses
     bio: >-
-      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
+      milanhouses.com
     location: "Italy"
-    followers: 38500
-    engagement: 1140
-    commentsToLikes: 0.009052
-    id: ckbf9cmr707cj0j23glh8972f
+    followers: 2071
+    engagement: 2065
+    commentsToLikes: 0.010263
+    id: ckc1rjl9lvyy90j231o9h11vu
     verified: false
-    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
+    hashtags: "#rentapartmentmilano, #rent, #milan, #student"
   - username: "pepenymi"
     fullname: >-
       PEPE nymi
     bio: >-
       Integrated Communication Agency Idea developers and funny people 📍Milan, Italy
     location: "Italy"
-    followers: 4548
-    engagement: 594
-    commentsToLikes: 0.023098
+    followers: 4561
+    engagement: 620
+    commentsToLikes: 0.024936
     id: ckbfdnlp8723q0j23jzklz10k
     verified: false
-    hashtags: "#bookcover, #bookclub, #books, #bookchallenge"
+    hashtags: "#booktok, #stopmotion, #stopmotionkitchen, #booklovers"
+  - username: "jonnycloud_"
+    fullname: >-
+      Jonny!!... 👁‍🗨
+    bio: >-
+      A spasso tra Tokyo e Bangkok 🗼⛩🍹 Currently in Milan IG: jonnycloud_
+    location: "Italy"
+    followers: 7308
+    engagement: 1458
+    commentsToLikes: 0.020910
+    id: ck9a7biiv6wf10j785ommc6e9
+    verified: false
+    hashtags: "#tiktokjapan, #tokyo, #shopping, #fashion"
+  - username: "marikaandgiada"
+    fullname: >-
+      M & G
+    bio: >-
+      • Milan 🇮🇹 • Instagram: marikaandgiada • Collab: sorichettigiada@gmail.com
+    location: "Italy"
+    followers: 264700
+    engagement: 1216
+    commentsToLikes: 0.007445
+    id: ck8f8vjo63mkk0j78jjed68rf
+    verified: false
+    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
   - username: "leodonofrio"
     fullname: >-
       Leonardo D’Onofrio
     bio: >-
       Milano, Italy 🇮🇹⚽️🔥 Instagram: @leodonofrio_
     location: "Italy"
-    followers: 18200
-    engagement: 878
-    commentsToLikes: 0.019986
+    followers: 18100
+    engagement: 726
+    commentsToLikes: 0.016996
     id: ckb93jpemkey80j23jhl7hd53
     verified: false
-    hashtags: "#universita, #milan, #ronaldo, #seriea"
+    hashtags: "#virale, #inter, #milano, #tiktok"
+  - username: "davide.massa"
+    fullname: >-
+      Davide Massa
+    bio: >-
+      Milano 🇮🇹 Seguitemi su Instagram 📷
+    location: "Italy"
+    followers: 1955
+    engagement: 1062
+    commentsToLikes: 0.020287
+    id: ckbf08fwzlroq0j23u5u494fx
+    verified: false
+    hashtags: "#tiktok, #fun, #italy, #sunnyday"
 ---

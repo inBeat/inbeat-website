@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In New Delhi In 2022
+title: Top 10 Health Instagram Influencers In New Delhi In 2023
 description: >-
-  Find top health Instagram influencers in New Delhi in 2022. Most popular hashtags: #delhi #love #india #fashion.
+  Find top health Instagram influencers in New Delhi in 2023. Most popular hashtags: #fitness #motivation #health #love.
 platform: Instagram
-hits: 27
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 27 Instagram influencers like this in New Delhi, India for you to work with.
+hits: 22
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 22 Instagram influencers like this in New Delhi, India for you to pitch.
 profiles:
+  - username: "nikhilsharmaa._"
+    fullname: >-
+      N I K H I L
+    bio: >-
+      📍 New Delhi , IN Snapchat : niikhiil1 DM or email for business or collaboration 📥
+    location: "India"
+    followers: 24639
+    engagement: 806
+    commentsToLikes: 0.018837
+    id: ck9wp305l7l0t0j783xjn34fr
+    verified: false
+    hashtags: "#twins, #fitness, #bhfyp, #fashion"
   - username: "himanshuchwdhary"
     fullname: >-
       Himanshu Choudhary
     bio: >-
       Director at @modelmakersofficial Director at @meoproduction Director at @meostudiodelhi NEW-DELHI/MUMBAI
     location: "India"
-    followers: 21631
-    engagement: 310
-    commentsToLikes: 0.034593
+    followers: 21656
+    engagement: 275
+    commentsToLikes: 0.032328
     id: ckapaz00ky04c0i78xsuuaxro
     verified: false
-    hashtags: "#fitness, #photography, #rannvijaysingha, #fashion"
-  - username: "raunakmathur17"
+    hashtags: "#mtvsplitsvilla, #mtvroadies, #mtv, #mtvindia"
+  - username: "devansh.narula"
     fullname: >-
-      Raunak Mathur 🌸
+      DEVANSH NARULA
     bio: >-
-      Just Those Random Raw fashion posts . Also a crazzzyy Dog lover ! Also also , believes in Live Laugh Love & May be you should too 💛 New Delhi 💜
+      🕉️ 🇮🇳 INDIA | NEW DELHI LIFE IS SHORT DREAMS ARE BIG 🙂 BORN TO BECOME SUPER STAR 🌟💪 DM 📩 FOR ONLINE TRAINING/ COLLAB / SHOOTS / BRAND PROMO (All PAID)
     location: "India"
-    followers: 2463
-    engagement: 1095
-    commentsToLikes: 0.078477
-    id: ck5zy45r597400i14g2oc0jqu
+    followers: 73076
+    engagement: 395
+    commentsToLikes: 0.084379
+    id: ck9ha3nchb0570j78spativ5s
     verified: false
-    hashtags: "#onedayatatime, #happiness, #instapost, #delhi"
-  - username: "namrata_pathania"
+    hashtags: "#life, #healthy, #instagram, #fitnessmotivation"
+  - username: "imayeshakaur"
     fullname: >-
-      Namrata Pathania
+      Anjali
     bio: >-
-      I love creating content and sharing with the world! 📧: namratapathania.np@gmail.com 📍: New Delhi, India
+      👸🏻Fashion / Blogger / influencer / YouTuber🔺 📩 Business enquiry DM or Mail 📍 New Delhi Backup AC @anji_officially ♥️ Waheguru 🙏🏻
     location: "India"
-    followers: 198571
-    engagement: 105
-    commentsToLikes: 0.062437
-    id: ck0w3ij7ytl960i19v7k7vg6k
+    followers: 186329
+    engagement: 58
+    commentsToLikes: 0.064020
+    id: ckf5qlkpb9rsx0j2315656sva
     verified: false
-    hashtags: "#reels, #indianfashion, #viral, #ethnic"
-  - username: "thedivinedrug"
+    hashtags: "#loveyourself, #keepsupporting, #imayeshakaur, #instamood"
+  - username: "spoonofflavours"
     fullname: >-
-      ✨Tanya arora🍒|FASHION & STYLE
+      Suhas Nigam/ Dr. Sakshi Nigam
     bio: >-
-      Just a girl next door Content Creator • Coder • Cares for nature ♀ • Leo • New Delhi, India📍 Business enquires : thedivinedrug@gmail.com
+      Delhi 🇮🇳 & Dubai 🇸🇩 Food/travel/lifestyle/health Two siblings on a way to explore the world 📩Dm-invites/collaboration/promotion/pr Purani Dilli wale 😊
     location: "India"
-    followers: 9554
-    engagement: 473
-    commentsToLikes: 0.158343
-    id: ck0ub2bfydlmk0i193ekbvvfh
+    followers: 46583
+    engagement: 322
+    commentsToLikes: 0.097626
+    id: ck8t9vlsapi680j78v384w8np
     verified: false
-    hashtags: "#indianphotographyinc, #coronavaction, #reeltoreel, #indiannaturephotography"
-  - username: "bineetkaurr"
+    hashtags: "#spoonofflavours, #chowmein, #thali, #omnomnom"
+  - username: "solewayfarer"
     fullname: >-
-      Bineet Kaur
+      Nidhi
     bio: >-
-      📍new delhi Let’s fly
+      Loves Travel| Curious about Cultures| Dog Lover| Caught between Carpe Diem and Procrastination| Learning to Unlearn| 📍 #india #uttarakhand
     location: "India"
-    followers: 5383
-    engagement: 750
-    commentsToLikes: 0.027752
-    id: ck6tmmgrp84470j710cbl020n
+    followers: 6800
+    engagement: 424
+    commentsToLikes: 0.129439
+    id: ck8t5jl8vabuj0j78gbsip0c7
     verified: false
-    hashtags: "#dancer, #art, #movement, #shakti"
-  - username: "filmykiida"
+    hashtags: "#noidadiaries, #dogs, #pahadi, #himalayas"
+  - username: "food_mandi"
     fullname: >-
-      Filmykiida
+      Food Mandi🥘🍜🍔
     bio: >-
-      DM for collabs & promotions 😎 | bollywood | lifestyle | health | beauty | 📧 - filmykiida@gmail.com
+      Delhi | NCR 🇮🇳 Food | Travel |Product Reviews | Daily Mouthwatering posts🤤 DM for Collab | Invites |Promation| Reviews🤝📩 Admin - @rajput_bhanu1110
     location: "India"
-    followers: 125792
-    engagement: 422
-    commentsToLikes: 0.012816
-    id: ck8tax54ktfso0j78quyzf9e0
+    followers: 4405
+    engagement: 843
+    commentsToLikes: 0.147696
+    id: ck8ta3p70qcnx0j783pemzz94
     verified: false
-    hashtags: "#newdelhi, #airportfashion, #kiaraadvani, #indianmemes"
-  - username: "theyogagirlmohini"
+    hashtags: "#delhifoodies, #delhistreetfood, #desifoodie, #foodbloger"
+  - username: "palkakhurana"
     fullname: >-
-      Mohini Bhatia
+      Palka Khurana
     bio: >-
-      Yoga Teacher DM for online classes/collaborations RYT 250 hours Featured in Times of India, Women's Health Magazine
+      Fashion l Fitness | Traveller | Lifestyle *Mom of 2 Boys* DM/Email for Collabs
     location: "India"
-    followers: 27841
-    engagement: 335
-    commentsToLikes: 0.049793
-    id: ck9haztpjersj0j78b0wjx2vd
+    followers: 26467
+    engagement: 217
+    commentsToLikes: 0.095806
+    id: ckap6vk93hixs0i787foe2jbp
     verified: false
-    hashtags: "#yogastrong, #yogini, #backbend, #instafitness"
-  - username: "imnasir_007"
+    hashtags: "#fitnessmotivation, #milohomeground, #fitnesslover, #healthinsideout"
+  - username: "the_indianbodybuilding"
     fullname: >-
-      Nasir Sheikh  (نصير شيخ)
+      Indian Bodybuilding
     bio: >-
-      ♦️Model ♦️Living the dream💛 ♦️Cricket lover🏏 ♦️Black lover ♦️Life is not perfect but your photos can be📸✌️ ♦️Wish me on 1st of June🎂 ♦️Delhi🏠
+      Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
     location: "India"
-    followers: 6148
-    engagement: 401
-    commentsToLikes: 0.162109
-    id: ck9wh6ln2wht20j78f2ztbm55
+    followers: 120649
+    engagement: 345
+    commentsToLikes: 0.004448
+    id: ck13bgjh9vbfv0i193avrhy05
     verified: false
-    hashtags: "#model, #gymmotivation, #fitnessmodel, #lookoftheday"
-  - username: "anushkamandal04"
+    hashtags: "#fitness, #repost, #bodybuilding, #teambasekofitness"
+  - username: "asees.chadha"
     fullname: >-
-      ANUSHKA MANDAL🧿
+      Asees Chadha | Choreographer
     bio: >-
-      LMG’15 | ECU’19 🇦🇺 | GNLU’20 Carpe Diem💫Wanderlust🌏 Lawyer | #type1diabetic 🩸 Less talk, more 𝓋𝒾𝒷𝑒✨ Pvt - @anushkamandal96
+      🧿Choreographer.Influencer.Traveler. ™Nachanshah Delhi Regular classes - Nachanshah Studio (add 👇) Bookings queries: www.nachanshah.com New Video
     location: "India"
-    followers: 12587
-    engagement: 512
-    commentsToLikes: 0.062182
-    id: ck8t9riusp2v40j78chkrnwpc
+    followers: 52657
+    engagement: 273
+    commentsToLikes: 0.033663
+    id: ck13c228sy8qz0i190q6ttlde
     verified: false
-    hashtags: "#aesthetics, #mumbai, #portrait, #bengali"
-  - username: "iritu_"
-    fullname: >-
-      Ritushree Sahoo 🌼
-    bio: >-
-      Creator @swayitright DM for collaboration/ paid promotion 💌 Business enquiry: ritushreesahoo20@gmail.com 🔽
-    location: "India"
-    followers: 102324
-    engagement: 384
-    commentsToLikes: 0.044134
-    id: ck15sx127f8el0i19j6fbn8d0
-    verified: false
-    hashtags: "#pune, #odisha, #newdelhi, #indianblogger"
+    hashtags: "#longhair, #indian, #punjabi, #dance"
 ---

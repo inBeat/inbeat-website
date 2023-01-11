@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Sao Paulo In 2022
+title: Top 10 Lifestyle TikTok Influencers In Sao Paulo In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #fyp #foryou #foryoupage #lifestyle.
+  Find top lifestyle TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #lifestyle #foryou #nature #fyp.
 platform: TikTok
-hits: 6
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 6 TikTok influencers like this in Sao Paulo, Brazil for you to contact.
+hits: 4
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 4 TikTok influencers like this in Sao Paulo, Brazil for you to contact.
 profiles:
   - username: "gabrieltuoto"
     fullname: >-
       GABRIEL TUOTO 🌟
     bio: >-
-      Fashion & Lifestyle Curitiba 🔁 São Paulo sigo de volta no insta @gabriel_tuoto
+      Fashion & Lifestyle Curitiba 🔁 São Paulo instagram: @gabriel_tuoto
     location: "Brazil"
-    followers: 55400
-    engagement: 1299
-    commentsToLikes: 0.031259
+    followers: 111000
+    engagement: 1112
+    commentsToLikes: 0.028124
     id: ckblhrisbb6qs0j23fadtb0bn
     verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #trend"
+    hashtags: "#routine, #lifestyle, #tiktokfashion, #fyp"
   - username: "athoscomhofc"
     fullname: >-
       Athos Souza
     bio: >-
       Insta: @athoscomhofc 💉 FTM 💥Life Style 🌈Militância e boooom humor 👌🏽
     location: "Brazil"
-    followers: 19100
-    engagement: 915
-    commentsToLikes: 0.047112
+    followers: 19400
+    engagement: 922
+    commentsToLikes: 0.038468
     id: ckdnjvajdixv90j23hjt79ahy
     verified: false
-    hashtags: "#lgbtsp, #cat, #quarentena, #foryoupage"
-  - username: "afiveleseucinto"
-    fullname: >-
-      Felipe Souza 
-    bio: >-
-      God 1st 📍São Paulo 🇧🇷 Viajante 🧳 Tropical vibes 🏝💦
-    location: "Brazil"
-    followers: 24200
-    engagement: 1343
-    commentsToLikes: 0.026440
-    id: ck81t1ob6ursi0j781t7n4mbw
-    verified: false
-    hashtags: "#viagens, #fyp, #losroques, #praia"
-  - username: "vivienandrade"
-    fullname: >-
-      Vivien Andrade
-    bio: >-
-      Follow me too on Instagram @vivienandrade Me siga tb no Instagram @vivienandrade
-    location: "Brazil"
-    followers: 56800
-    engagement: 758
-    commentsToLikes: 0.039911
-    id: ck9gnt7xjy0a70j78fz465dg8
-    verified: false
-    hashtags: "#riodejaneiro, #workout, #makemefamous, #fortnite"
-  - username: "koalas_adventure0"
-    fullname: >-
-      Koala 🐨
-    bio: >-
-      Veterinary, Photographer Love life, animals, cars Enjoy 🐨🇧🇷
-    location: "Brazil"
-    followers: 9338
-    engagement: 1639
-    commentsToLikes: 0.023510
-    id: ckaib6j9yf6me0i781kmbeedr
-    verified: false
-    hashtags: "#brasil, #followme, #enjoy, #veterinary"
+    hashtags: "#nature, #sp, #fyp, #goodvibe"
   - username: "porpetafpv"
     fullname: >-
       Henrique Moraes
     bio: >-
       I am a drone specialist focused on drone racing oriented to film action scenes.
     location: "Brazil"
-    followers: 6470
+    followers: 6442
     engagement: 359
-    commentsToLikes: 0.024102
+    commentsToLikes: 0.024063
     id: ck8s5ie9efyja0j78nsc4afsc
     verified: false
-    hashtags: "#freestyle, #goprobr, #myjob, #riodejaneiro"
+    hashtags: "#gopro, #film, #tiktok, #myjob"
+  - username: "nascidosparavoar"
+    fullname: >-
+      nascidosparavoar
+    bio: >-
+      Para praticantes e admiradores da arte de Voar. 🌎🌥️ Desde 2013
+    location: "Brazil"
+    followers: 111800
+    engagement: 469
+    commentsToLikes: 0.013562
+    id: ck9roy4wtesnw0j787a3rhcff
+    verified: false
+    hashtags: "#basejump, #aviation, #fly, #motiva"
   - username: "teacherosanna"
     fullname: >-
       ✨Rosannapop✨
     bio: >-
       TIKTOK CREATOR- LifeStyle-Gym’s Teacher SP🇧🇷 contato:rosana.paula.bb@gmail.com
     location: "Brazil"
-    followers: 68100
-    engagement: 479
-    commentsToLikes: 0.051955
+    followers: 70100
+    engagement: 1048
+    commentsToLikes: 0.191786
     id: ckbqfc9mm0zhp0j234jw0lxm9
     verified: false
-    hashtags: "#dueto, #tag, #fyi, #trend"
+    hashtags: "#teacherosanna, #cityrock, #bbb21, #botaofuzilpracantar"
+  - username: "erijackson"
+    fullname: >-
+      Erijackson
+    bio: >-
+      💖 oi, eu sou o Eri 💖 Lifestyle, Cabelo e Fanboy meta: 300k
+    location: "Brazil"
+    followers: 253600
+    engagement: 1728
+    commentsToLikes: 0.024292
+    id: ck910lvxyi8nr0j785s99refc
+    verified: false
+    hashtags: "#sabinahidalgo, #nowunitedforever, #viral, #nowunited"
+  - username: "iagoweslley"
+    fullname: >-
+      IAGO WESLLEY
+    bio: >-
+      🎶 music and lifestyle 🏆 2 MILHÕES/plays no Spotify 📸 insta: @iagoweslley
+    location: "Brazil"
+    followers: 17100
+    engagement: 889
+    commentsToLikes: 0.198739
+    id: ckahwku7ar8pa0i78tanh3l5z
+    verified: true
+    hashtags: "#comediah, #humor, #podepararchallenge, #comoachavaqueiaser"
   - username: "julianalouiise"
     fullname: >-
       Juliana Louise
     bio: >-
       beleza • moda • lifestyle 💄 @julianalouisebeauty
     location: "Brazil"
-    followers: 22000
-    engagement: 1664
-    commentsToLikes: 0.020936
+    followers: 26200
+    engagement: 1462
+    commentsToLikes: 0.018960
     id: ckai4z3p5q12l0i78vua0di1v
     verified: true
-    hashtags: "#maquiagemchallenge, #halloween2020, #foryou, #cachoschallenge"
+    hashtags: "#penteadosparacabeloscacheados, #curlyhairgirl, #foryou, #makeuphacks"
   - username: "athoscomhofc"
     fullname: >-
       Athos Souza
     bio: >-
       Insta: @athoscomhofc 💉 FTM 💥Life Style 🌈Militância e boooom humor 👌🏽
     location: "Brazil"
-    followers: 19100
-    engagement: 915
-    commentsToLikes: 0.047112
+    followers: 19400
+    engagement: 922
+    commentsToLikes: 0.038468
     id: ckdnjvajdixv90j23hjt79ahy
     verified: false
-    hashtags: "#lgbtsp, #cat, #quarentena, #foryoupage"
-  - username: "nathanabritta"
+    hashtags: "#nature, #sp, #fyp, #goodvibe"
+  - username: "felipelimamil"
     fullname: >-
-      nathanabritta
+      Felipe Lima
     bio: >-
-      fotografia/moda masculina/lifestyle 👆respondo todos vcs lá no insta 👆
+      🦿 Life style - vibe positiva - risadas🦿 🏳️‍🌈Vem 500k Deixa um desafio aí 👇?
     location: "Brazil"
-    followers: 295400
-    engagement: 944
-    commentsToLikes: 0.027372
-    id: ckav1tqjo7x330j23tmlbgiy5
-    verified: false
-    hashtags: "#fy, #foto, #foryoupage, #outfit"
+    followers: 454500
+    engagement: 629
+    commentsToLikes: 0.024716
+    id: ck930jtmyb41m0j783r33lil9
+    verified: true
+    hashtags: "#amputado, #amputee, #meme, #curiosidade"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Germany In 2022
+title: Top 10 Soccer-Players Instagram Influencers In Germany In 2023
 description: >-
-  Find top soccer-players Instagram influencers in Germany in 2022. Most popular hashtags: #football #soccer #bundesliga.
+  Find top soccer-players Instagram influencers in Germany in 2023. Most popular hashtags: #fussball #soccer #fitness #soccerlife.
 platform: Instagram
-hits: 22
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 22 Instagram influencers like this in Germany for you to work with.
+hits: 24
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 24 Instagram influencers like this in Germany for you to connect with.
 profiles:
   - username: "marvinmehlem6"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Soccer player for SV Darmstadt 98 🔵⚪️
     location: "Germany"
-    followers: 8984
-    engagement: 1276
-    commentsToLikes: 0.010970
+    followers: 9058
+    engagement: 1235
+    commentsToLikes: 0.009649
     id: ckap30e2y13ld0i7825zdlz7k
     verified: true
     hashtags: "#ngu, #ago"
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       Name: @tayganegehankaplan64 👦🏻 Profession: Youth Soccer Player DSC99 ⚽️ official account 🥅 #tek64 Tiger 🐅🧿 #düsseldorf #ratingen #uerdingen #uşak
     location: "Germany"
-    followers: 2416
-    engagement: 636
-    commentsToLikes: 0.041294
+    followers: 2783
+    engagement: 827
+    commentsToLikes: 0.105543
     id: ck9wej65nkias0j783qlt3lwc
     verified: false
-    hashtags: "#sport, #laliga, #du, #milano"
+    hashtags: "#ratingen, #akita, #akitainu, #ag"
   - username: "jan_mauersberger"
     fullname: >-
       Jan Mauersberger
     bio: >-
-      💥 marketing at @tsv1860 🎙 commentator #löwenradio & host #löwenpodcast ⚽️ former pro soccer player 📚 media & communication 🏡 based in #munich
+      💥 Head of marketing at @tsv1860 🎙 commentator #löwenradio & host #löwenpodcast ⚽️ former pro soccer player 📚 media & communication 🏡 based in #munich
     location: "Germany"
-    followers: 9134
-    engagement: 618
-    commentsToLikes: 0.012298
+    followers: 9044
+    engagement: 610
+    commentsToLikes: 0.010007
     id: ck0ty3su6li7o0i19txgvyxd0
     verified: false
-    hashtags: "#fun, #monacomauer, #radio, #webradio"
-  - username: "laurafreigang"
+    hashtags: "#elil, #friends, #weekend, #monacomauer"
+  - username: "dennisaogo"
     fullname: >-
-      Laura Freigang
+      Dennis Aogo
     bio: >-
-      pro soccer player for @1.ffcfrankfurt eat yo veggies
+      TV expert @skysportde | Vodcast Co-Host @onefootball | Former soccer player @dfb_team @s04 @hsv @vfb @scfreiburg @hannover96 |
     location: "Germany"
-    followers: 8337
-    engagement: 1340
-    commentsToLikes: 0.017259
-    id: ck5pwq7e6o1oa0i11osgonk7i
+    followers: 81387
+    engagement: 368
+    commentsToLikes: 0.016447
+    id: ck6tvsx62o3hw0j71jr7hfg9f
     verified: true
-    hashtags: "#sundays, #score, #underdog, #trainingslager"
-  - username: "felixcasa"
+    hashtags: "#familygoals, #sektionradioverbot, #prouddad, #tb"
+  - username: "thisismiri_"
     fullname: >-
-      Felix
+      Miri 🏋🏽‍♀️⚽️C♥️💍
     bio: >-
-      freekickerz member @teamfk tiktok: felixcasa 450k + soccerplayer | sportsman | content creator brand ambassador @soschmeckterfolg ——————————————
+      Personaltraining Soccerplayer ⚽️ Bootcamps in Frankfurt Sportscience 👩‍🎓 Team @noccogermany🥤 Team @fitbit_dach⌚️ @myproteinde [-45% mit Mirimyp]
     location: "Germany"
-    followers: 30331
-    engagement: 1656
-    commentsToLikes: 0.025698
-    id: ck5hnb6xtnhrw0i11q0pgjsbk
-    verified: true
-    hashtags: "#funny, #soccer, #werbung, #football"
-  - username: "thisismiri__"
-    fullname: >-
-      Miri ⚡️🏋🏽‍♀️⚽️🏃‍♀️
-    bio: >-
-      Personaltraining & Groupfitness Soccerplayer & Athletictrainer ⚽️ Bootcamps in Frankfurt 📍 Sportscience 👩‍🎓 @myproteinde [-32% mit Mirimyp] ⬇️
-    location: "Germany"
-    followers: 126238
-    engagement: 208
-    commentsToLikes: 0.030875
+    followers: 131224
+    engagement: 150
+    commentsToLikes: 0.028488
     id: ckaoycj9rgxsv0i788b0va8ev
     verified: false
-    hashtags: "#fitfamgermany, #girlswholift, #prettylittleiiinspo, #gym"
-  - username: "_fotoni"
+    hashtags: "#body, #blondesandcookies, #frankfurtblogger, #spreadpositivevibes"
+  - username: "jannikpehlivan"
     fullname: >-
-      Toni Rohmann
+      Jannik Pehlivan
     bio: >-
-      📍 Rostock - Berlin 📸 @toni_rohmann 📸 @hansarostock 🗞 Zum Artikel.⤵️
+      Offizieller Account Anfragen👇 ✉Email: jannikpehlivan@googlemail.com TikTok (+358000 Follower) S❤ Impressum: athletia.net/impressum
     location: "Germany"
-    followers: 9703
-    engagement: 1184
-    commentsToLikes: 0.005918
-    id: ck0vxb4yuy1ja0i19kf2080gm
+    followers: 57151
+    engagement: 271
+    commentsToLikes: 0.032685
+    id: ck6u0fne4fetj0j719d67u28p
     verified: false
-    hashtags: "#mv, #ostsee, #fussball, #fch"
+    hashtags: "#neymarskills, #soccerskills, #tutorial, #footballskills"
+  - username: "run_like_a_boss.e"
+    fullname: >-
+      🦁⚔️🏃🏼‍♂️ Bosse
+    bio: >-
+      #runlikeabosse
+    location: "Germany"
+    followers: 5134
+    engagement: 1515
+    commentsToLikes: 0.085826
+    id: ckap6ob15gqsv0i787vga6xub
+    verified: false
+    hashtags: "#laufenmachtgl, #wearetherunners, #mondaymotivation, #instafit"
   - username: "samirasamii_official_page"
     fullname: >-
-      Dr. Samira Samii - دكتر سميعى
+      Dr. Samira Samii
     bio: >-
-      Dr. MBA-Sportmanagement Ambassador @p_mertesacker Foundation Woman of the year 2012/2014/2017 Fashion Icon 2017,2018,2019 Charity Lady All Posts ©️
+      Dr. MBA-Sportmanagement TV-Soccer Expert Woman of the year 2012/2014/2017 Fashion Icon 2017/2018/2020 Ambassador Autism Charity Foundation Posts ©️
     location: "Germany"
-    followers: 1086791
-    engagement: 190
+    followers: 1312958
+    engagement: 166
     commentsToLikes: 0.000000
     id: ck5zymm7za57j0i14oqec5xej
     verified: true
-    hashtags: "#soccerworld, #beauty, #samirasamii, #soccerlife"
-  - username: "frey_michi"
+    hashtags: "#samirasamii, #monaco, #rund, #success"
+  - username: "smart_soccer"
     fullname: >-
-      MICHI FREY
+      SMART • SOCCER ™
     bio: >-
-      Management: @soccer.mondial Football player for @fenerbahce
+      ⚽ Train like the Pros 💯 Certified Coaching 🇩🇪 🇺🇸 Based in Germany & South Florida ⬇️ Soccer Fitness Program coming soon! 👈
     location: "Germany"
-    followers: 290075
-    engagement: 293
-    commentsToLikes: 0.022797
-    id: ck0ubx6xffgmn0i19dpsmfzm0
-    verified: true
-    hashtags: "#derclublebt, #immerweiternachvorn, #fcn"
-  - username: "moanesdabbur"
+    followers: 31002
+    engagement: 329
+    commentsToLikes: 0.008101
+    id: ckaot4wvjueg20i78uvtvgx86
+    verified: false
+    hashtags: "#futbolista, #futbolskills, #floridasoccer, #smartsoccer"
+  - username: "michwei1973"
     fullname: >-
-      Moanes Dabbur
+      Michael Weinzierl
     bio: >-
-      Professional football player of @tsghoffenheim ⚽️ Management: @soccer.mondial 💼 & @nim.group 💼 #Familyfirst ثقة في الله نجاح☝🏻
+      Michael from Munich here. Posts give insighs in my life. Interested in 👬🏍⚽️🐈🏞✈
     location: "Germany"
-    followers: 124269
-    engagement: 785
-    commentsToLikes: 0.010214
-    id: ck5hm7m1elglz0i11yuvuxc3c
-    verified: true
-    hashtags: "#blackouttuesday, #1stanniversary, #22, #20"
+    followers: 14171
+    engagement: 601
+    commentsToLikes: 0.026142
+    id: ckap3dbc42kyx0i78zg12cios
+    verified: false
+    hashtags: "#funinthesnow, #birthdaypresents, #gayl, #snowman"
 ---

@@ -1,36 +1,108 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Barcelona In 2022
+title: Top 10 Fashion Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top fashion Instagram influencers in Barcelona in 2022. Most popular hashtags: #fashion #barcelona #spain #style.
+  Find top fashion Instagram influencers in Barcelona in 2023. Most popular hashtags: #fashion #barcelona #model #love.
 platform: Instagram
-hits: 197
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 197 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 144
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 144 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "anacrank"
+  - username: "yasmineerosee"
     fullname: >-
-      ANA CRANK
+      Laiba 🙋🏻‍♀️
     bio: >-
-      *Ana Garcia* *Lulu * Martina💕 My shop @cranksitges @fashmaskofficial 👗Fashion ✈ 🍴️Lifestyle💄Beauty 👭 Kids 📍Barcelona 💌anacrank.style@gmail.com
+      💙•Lover of life and travel• 📩•DM Collab• 🌈•Food • Hotelier• ✈️•Travel•
     location: "Spain"
-    followers: 43528
-    engagement: 288
-    commentsToLikes: 0.139201
-    id: ck6u1jxpcm6ro0j71svvagtc2
+    followers: 20202
+    engagement: 402
+    commentsToLikes: 0.044857
+    id: ck15ugw82n4kc0i19n3o549u1
     verified: false
-    hashtags: "#guesskids, #outfit, #igersbarcelona, #hair"
-  - username: "gabbyrucci"
+    hashtags: "#cuarentena, #spain, #desiculture, #travelgram"
+  - username: "danirull.official"
     fullname: >-
-      GABBY RUCCI 💖✨Blogger
+      danielrull
     bio: >-
-      🌵Happy #Lifestyle 🌵 Belleza🔹Moda🔸Estilo de Vida Mi lema: ✨Unidas somos magia✨ 📍Barcelona 🇪🇨 📩info@ourglam.com #bloggerbarcelona #beauty #fashion
+      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
     location: "Spain"
-    followers: 22025
-    engagement: 340
-    commentsToLikes: 0.166844
-    id: ck5ztj8yx0ioi0i14y42m29t7
+    followers: 19043
+    engagement: 368
+    commentsToLikes: 0.095710
+    id: ck0w0ii8tedh20i19eb5soii8
     verified: false
-    hashtags: "#beautytester, #piel, #streetstyle, #streetstylespain"
+    hashtags: "#hairstyle, #instafashion, #fashionblogger, #production"
+  - username: "victorlorente"
+    fullname: >-
+      Víctor Lorente
+    bio: >-
+      #Madrid📍 (MA) @masqmodacanarias @trafficmodels 🇪🇸 @modelwerk 🇩🇪 @ilovemodelsmngt 🇮🇹 - contact: vlorente6@gmail.com
+    location: "Spain"
+    followers: 19490
+    engagement: 185
+    commentsToLikes: 0.029281
+    id: ckap354os1lr60i7883mt1rlp
+    verified: false
+    hashtags: "#fashion, #barcelona, #tb, #model"
+  - username: "madeinvideo"
+    fullname: >-
+      Destination wedding Filmmakers
+    bio: >-
+      🎥 Couple & creative team 👫 Jonas&Esther 📍From Mallorca to the 🌍 📃info@madeinvideo.es 2021: Venice/ Florence/Gibraltar/Santorini/Amalfi/Miami
+    location: "Spain"
+    followers: 11432
+    engagement: 341
+    commentsToLikes: 0.139225
+    id: ck0vw0remrlbq0i190kon7770
+    verified: false
+    hashtags: "#weddingfilm, #destinationweddingplanner, #weddingphotographer, #spainwedding"
+  - username: "marynacanalda"
+    fullname: >-
+      
+    bio: >-
+      ❤Made in Ukraine ♡Barcelona 📍España 📩Colab: marcan8585@gmail.com 🗨Castellano, ruso
+    location: "Spain"
+    followers: 10587
+    engagement: 401
+    commentsToLikes: 0.046368
+    id: ck8tdtu114qvq0j788gryynpq
+    verified: false
+    hashtags: "#paisajes, #sunset, #mar, #like"
+  - username: "ipmoreno"
+    fullname: >-
+      ɪsᴀᴀᴄ ᴍᴏʀᴇɴᴏ
+    bio: >-
+      🏝ⒺⓃⒺⓇⒾⒻⒺ👦🏼 🇮🇨 @masqmodacanarias [MA] 🇺🇸 @elitemiami •ᴍɪᴀ 🇺🇸 @statemgmt •ʟᴀ•ɴʏ 🇪🇸 @youmodelsmngt •ᴍᴀᴅ•ʙᴄɴ 🇮🇹 @dmanagementgroup •ᴍɪʟ 🇲🇽 @quetarojas •ᴍᴇx
+    location: "Spain"
+    followers: 23902
+    engagement: 1728
+    commentsToLikes: 0.049458
+    id: ck6u87urbpxto0j71rxi2wge3
+    verified: false
+    hashtags: "#fitness, #newcampaign, #modelphotography, #shoot"
+  - username: "liahbk"
+    fullname: >-
+      Lia
+    bio: >-
+      🇩🇪🇬🇧🇪🇸 La vida virtual no es la vida real❗️ Journalist | Model | Reporter🎥 Digital Communication IM CLINIC 👩🏼‍🎓Periodismo & Comunicación
+    location: "Spain"
+    followers: 21087
+    engagement: 213
+    commentsToLikes: 0.125190
+    id: ck14kgdv1pe340i195h6kxhsx
+    verified: false
+    hashtags: "#inspo, #outfitinspiration, #oton, #snow"
+  - username: "eldiosdelostres"
+    fullname: >-
+      ☆☆☆EL DIOS DE LOS TRES☆☆☆
+    bio: >-
+      Im #illustrator #artist based Madrid/Barcelona. Especialista en #murales y #diseño Para colaboraciones y propuestas: eldiosdelostres@gmail.com
+    location: "Spain"
+    followers: 19805
+    engagement: 269
+    commentsToLikes: 0.063411
+    id: ck5zpteixtb4k0i140wqc9ygd
+    verified: false
+    hashtags: "#ilustracion, #artist, #madrid, #ilustragram"
   - username: "romerodaniela_"
     fullname: >-
       Daniela Paola
@@ -42,89 +114,17 @@ profiles:
     commentsToLikes: 0.084289
     id: ck5q0pg2f742h0i11rnkixjcq
     verified: false
-    hashtags: "#modellife, #fashion, #barcelona, #quedateencasa"
-  - username: "efradera"
+    hashtags: "#modellife, #barcelona, #fashion, #love"
+  - username: "mironbococi"
     fullname: >-
-      𝙴𝚗𝚛𝚒𝚌 𝙵𝚛𝚊𝚍𝚎𝚛𝚊
+      Miron Bococi
     bio: >-
-      📸Perfection is boring 🏠Badalona, Barcelona 📩 ¿Quieres fotos? 👇🏻Mi cámara: Sony A7III
+      ❤Horses ❤@eleena_ng
     location: "Spain"
-    followers: 9736
-    engagement: 1279
-    commentsToLikes: 0.108721
-    id: ck9hb4gopfd6q0j78slrhqzg3
+    followers: 17937
+    engagement: 660
+    commentsToLikes: 0.026628
+    id: ck6u3l432yep60j71j36akepa
     verified: false
-    hashtags: "#portraitsofspain, #fashionphotographyappreciation, #magnificomagazine, #sonygallery"
-  - username: "juanbetancourtt"
-    fullname: >-
-      Juan Betancourt
-    bio: >-
-      VNY New York Sight Management Barcelona Fashion Milan MGM Paris ModelWerk Hamburg Internet inquiries: contacto@brandinsocial.com
-    location: "Spain"
-    followers: 374151
-    engagement: 355
-    commentsToLikes: 0.007014
-    id: ck14gm00h5vp30i19jj7pyy8t
-    verified: true
-    hashtags: "#goodnight, #happybirthdaytome, #lastday"
-  - username: "rakbcn28"
-    fullname: >-
-      Rakel Lopez Sanchez
-    bio: >-
-      🌟 🅡🅐🅚🅑🅒🅝 🌟 🎥Youtuber / Instagrammer📸 📍Salamanca 🚆Madrid / Barcelona ✈️ 📧 contact: hola@rakbcn.com #Salamanca #fashion #beauty #Barcelona #Madrid
-    location: "Spain"
-    followers: 95098
-    engagement: 143
-    commentsToLikes: 0.034909
-    id: ckap1u757w6250i7835sd5kp7
-    verified: false
-    hashtags: "#salamanca, #rakbcn, #enjoyyourlife, #enjoy"
-  - username: "andreabelverf"
-    fullname: >-
-      ANDREA BELVER
-    bio: >-
-      London - Barcelona Fashion Business, Communication and New Media andreabelverf@gmail.com Represented by @okikotalents
-    location: "Spain"
-    followers: 418145
-    engagement: 130
-    commentsToLikes: 0.006145
-    id: ck0w5lyvf4atp0i192mqyziwv
-    verified: true
-    hashtags: "#goodmorning, #prints, #friday, #meandmy1440"
-  - username: "ladonnainrosso_"
-    fullname: >-
-      LADONNAINROSSO
-    bio: >-
-      Gema Ruiz Utiel 📍Barcelona. Desastre, excompradora compulsiva y amante de la moda. Journalist | Social Media Manager 📩 coll: contacto@thegramer.com
-    location: "Spain"
-    followers: 73741
-    engagement: 206
-    commentsToLikes: 0.362040
-    id: ck6tw9sj5qs9h0j716srz399t
-    verified: false
-    hashtags: "#frase, #wonderfuldestinations, #color, #womentravel"
-  - username: "raquel_maes"
-    fullname: >-
-      ℜ𝔞𝔮𝔲𝔢𝔨 𝔐𝔞𝔢𝔰✨
-    bio: >-
-      * I literally do a lot of things🙃but all of them in a creative way ⚡️* || Barcelona,🇪🇸 𝐭𝐢𝐤 𝐭𝐨𝐤 || raquelmaes {+650k} 𝐦𝐲 𝐰𝐨𝐫𝐤 || @maes_photo
-    location: "Spain"
-    followers: 23813
-    engagement: 1062
-    commentsToLikes: 0.020925
-    id: ckaorsxd0om1q0i78zxypztvy
-    verified: false
-    hashtags: "#picoftheday, #paisvasco, #summer, #spain"
-  - username: "davidbulky"
-    fullname: >-
-      D A V I D  B U L K Y ®️👮🏻‍♂️
-    bio: >-
-      📍Barcelona, SPAIN 🇪🇸 Amante del Deporte y la Vida Sana Ropa de @xforce_sport_fitness Suplementación en @nutrisport_sa
-    location: "Spain"
-    followers: 13237
-    engagement: 823
-    commentsToLikes: 0.030388
-    id: ck5hix9t0fmqv0i11s4ccfci6
-    verified: false
-    hashtags: "#selfie, #naturaleza, #mar, #workout"
+    hashtags: "#horse, #equine, #nature, #horselove"
 ---

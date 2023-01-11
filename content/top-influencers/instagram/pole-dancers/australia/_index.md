@@ -1,24 +1,24 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Australia In 2022
+title: Top 10 Pole Dancers Instagram Influencers In Australia In 2023
 description: >-
-  Find top pole dancers Instagram influencers in Australia in 2022. Most popular hashtags: #poledancer #poledance #poledancing #polefitness.
+  Find top pole dancers Instagram influencers in Australia in 2023. Most popular hashtags: #poledance #poledancing #poledancer.
 platform: Instagram
-hits: 24
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 24 Instagram influencers like this in Australia for you to connect with.
+hits: 18
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "modelallyj"
+  - username: "brodiee.lawsonn"
     fullname: >-
-      Ally J Wilkinson
+      Brodie Lawson
     bio: >-
-      Model | Toowoomba | 23yro | ASM Honey Birdette | DM me for bookings | 🦎🐍🐊 | Pole Dancer @allyj_poledance
+      🌍 ✈️ 🥂 •pole dancer •bartender •barista But most importantly, a bad bi*ch
     location: "Australia"
-    followers: 29612
-    engagement: 306
-    commentsToLikes: 0.014771
-    id: ck8tcb8iiyx740j78joz6u85y
+    followers: 1805
+    engagement: 1032
+    commentsToLikes: 0.089976
+    id: ck0ud7ljeij5w0i19jbv5gd1i
     verified: false
-    hashtags: "#boobs, #censored, #splits, #throwback"
+    hashtags: ""
   - username: "uncannyannieblog"
     fullname: >-
       ⚡️UNCANNY ANNIE⚡️(Annie Nolan)
@@ -31,100 +31,100 @@ profiles:
     id: ckaozuezjnfq60i7843w8sa13
     verified: true
     hashtags: "#homeschoolfail, #thesmallthings"
+  - username: "modelallyj"
+    fullname: >-
+      Ally J Wilkinson
+    bio: >-
+      Model | Toowoomba | 23yro | Boutique Manager Honey Birdette | DM me for bookings | 🦎🐍🐊 | Pole Dancer @allyj_poledance
+    location: "Australia"
+    followers: 28605
+    engagement: 348
+    commentsToLikes: 0.011785
+    id: ck8tcb8iiyx740j78joz6u85y
+    verified: false
+    hashtags: "#drrizk, #abs, #topless, #piercing"
   - username: "daphnelux"
     fullname: >-
       DAPHNE LUX ♡
     bio: >-
-      ♡ EXOTIC POLEDANCER 🏆 ♡ Teaching worldwide 🌏 ♡ Workshops/Privates/Online classes: DM 💌 📍HONG KONG
+      ♡ EXOTIC POLEDANCER 🏆 ♡ Co-Founder @xopole 💖 ♡ Online Classes: #XOnline📱 ♡ Workshops/Privates/Collab: DM 💌 📍HONG KONG
     location: "Australia"
-    followers: 34462
-    engagement: 402
-    commentsToLikes: 0.168013
+    followers: 36344
+    engagement: 359
+    commentsToLikes: 0.034227
     id: ck5hj4jcefzjh0i11v5fpomy3
     verified: false
-    hashtags: "#bendylux, #sundaybumday, #squadgoals, #pdoctopus"
+    hashtags: "#exotictricks, #exoticcardio, #xonline, #bendylux"
   - username: "dirdybirdy"
     fullname: >-
       Dirdy Birdy
     bio: >-
       Pole dancer. Vegan. Cats 💕💕 Contact: Info@dirdybirdy.com My Cat pack👉@dirdybirdycatpack
     location: "Australia"
-    followers: 110070
-    engagement: 164
+    followers: 109390
+    engagement: 165
     commentsToLikes: 0.030750
     id: ck5q8rf157mr10i11kx1pgdox
     verified: false
-    hashtags: "#mylilmanstewie, #billybutterball, #spincombo, #staticpole"
+    hashtags: "#mylilmanstewie, #spincombo, #billybutterball, #dirdybirdy"
   - username: "maddiesparkledancer"
     fullname: >-
       Maddie Sparkle
     bio: >-
       Info@poledanceacademy.com.au #flexibility #stretch #poledancer @poledanceacademy #maddiesparkle
     location: "Australia"
-    followers: 213309
-    engagement: 83
-    commentsToLikes: 0.021552
+    followers: 223853
+    engagement: 136
+    commentsToLikes: 0.014873
     id: ck6tu55nted3r0j71bi7u2t5t
     verified: false
-    hashtags: "#pdchiropractor, #pdpavoreal, #pdshainasplit, #pdjanierosplit"
-  - username: "sandra.beeston"
+    hashtags: "#pdbrokensplit"
+  - username: "edithv2.0"
     fullname: >-
-      Sandra Beeston 🖤
+      Edith Werbel
     bio: >-
-      🎖 Pole Fitness Instructor from Germany, Nbg 📍 Gold Coast, Australia 📩 Dm for private pole lessons/bookings 🎥 YouTube: Sandra Beeston ⬇️
+      Formerly @traineredith. Web developer 🤓 pole dancer 💃🏻 crazy cat lady 😽 wino 🍷 queero 🦄 Australian/Filipino/German in Toronto.
     location: "Australia"
-    followers: 13076
-    engagement: 916
-    commentsToLikes: 0.068642
-    id: ck0w3qdvyuqev0i19nlryj2sw
+    followers: 16603
+    engagement: 240
+    commentsToLikes: 0.039362
+    id: ck6u5egi795yo0j71vq6uetx1
     verified: false
-    hashtags: "#poledance, #upsidedown, #polepassion, #poledancing"
-  - username: "princesscece.png"
+    hashtags: "#poledance, #wfh, #pole, #poledancing"
+  - username: "princesscece"
     fullname: >-
       🌸Cece🌸
     bio: >-
       💖 Cats | Melb | Pole | Ravenclaw⚡💖 🐱♡｡･23 ･*(❀´◡`❀)*･161cm･｡♡🐱 Junk @cecesjunkpile 👌🏻
     location: "Australia"
-    followers: 22183
-    engagement: 204
-    commentsToLikes: 0.045101
+    followers: 21704
+    engagement: 200
+    commentsToLikes: 0.043992
     id: ck0ttz2qx4y1l0i19aeyygtot
     verified: false
-    hashtags: "#poledance, #mirrorselfie, #kawaii, #potd"
-  - username: "agustina.poledance"
-    fullname: >-
-      Agustina Pole Dance
-    bio: >-
-      ❤️Sharing my passion and helping others to feel free, accept and love themselves . If you like my account, you will LOVE my Pole Dance Catalog! Info👇🏻
-    location: "Australia"
-    followers: 34103
-    engagement: 524
-    commentsToLikes: 0.035289
-    id: ckap66aesekyb0i785eb5fky8
-    verified: false
-    hashtags: "#poledancer, #poletraining, #poledance, #poledancing"
+    hashtags: "#pastels, #cute, #poledancing, #kawaii"
   - username: "carliehunter"
     fullname: >-
       Carlie Hunter ☀️
     bio: >-
-      👑 Miss Pole Dance Australia 2016 🏆 Official @onepiece Sunday Club Member Use onepiece.com/?ref=bb-vm85b7 USE ONEPIECEBANDIT for 20% OFF!
+      👑 Miss Pole Dance Australia 2016 🏆 Owner @thepoleboutique www.poleboutique.com.au
     location: "Australia"
-    followers: 61786
-    engagement: 88
-    commentsToLikes: 0.062881
+    followers: 60948
+    engagement: 75
+    commentsToLikes: 0.059647
     id: ck0w3qbyxuq5x0i195qsf7jhr
     verified: false
-    hashtags: "#adelaide, #poledancer, #adelaidefitness, #unitedbypole"
-  - username: "angelina.polerina"
+    hashtags: "#lululemon, #unitedbypole, #aerials, #pdstatic"
+  - username: "missgraciexoxo"
     fullname: >-
-      ANGELINA POLERINA
+      Gracie Buntine🏹
     bio: >-
-      🌞 33, mama of 3 ✨ Aerial arts and calisthenics enthusiast 🌛 Brand ambassador @superflyhoneyworld 💫 Pole dance instructor @aerial_addiction_mandurah
+      👑Miss Pole Dance Aus ‘19 🏆4xNational Pole Champ 🌟4xState Pole Champ 💎2xInternational Pole Champ 💫Institute of Stardust 📺 youtube.com/Gracie Buntine
     location: "Australia"
-    followers: 114953
-    engagement: 181
-    commentsToLikes: 0.038094
-    id: ck13afp9kq6bn0i19va6ud9x8
+    followers: 29839
+    engagement: 191
+    commentsToLikes: 0.022721
+    id: ck5chxf40rmv20i113111bbpa
     verified: false
-    hashtags: "#superflyhoney, #polefitness, #polesport, #poletrick"
+    hashtags: "#basework, #polefitness, #poletricks, #splits"
 ---

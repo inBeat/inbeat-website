@@ -1,60 +1,48 @@
 ---
-title: Top 10 Models Instagram Influencers In San Diego In 2022
+title: Top 10 Models Instagram Influencers In San Diego In 2023
 description: >-
-  Find top models Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #model #photography.
+  Find top models Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #photography #model #artist.
 platform: Instagram
-hits: 178
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 178 Instagram influencers like this in San Diego, United States for you to contact.
+hits: 144
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 144 Instagram influencers like this in San Diego, United States for you to collaborate.
 profiles:
-  - username: "liv_aloha_"
+  - username: "egilphoto"
     fullname: >-
-      Liv Hoekstra
+      ESTEBAN GIL | Photographer
     bio: >-
-      Maui, Hawaii 🌺 / San Diego📍 San Diego State University 23’ @fabfitfun code LIV10 @priverevaux @oneoneswimwear @surfwater @cleancause
+      🇨🇴 🏫 @steelandflintsociety ❤️ @magnetmod ❤️ @aftershootco ❤️ @holdfastgear ❤️ @dreambookspro Rated # 1 photographer in the world by my mother.
     location: "United States"
-    followers: 17058
-    engagement: 798
-    commentsToLikes: 0.016833
-    id: ckap3eaei2plf0i78g7yh2rct
+    followers: 11700
+    engagement: 604
+    commentsToLikes: 0.056204
+    id: ck6uhf46t8r3g0j71q1nc0q4q
     verified: false
-    hashtags: "#adventure, #mauilife, #swimsuitmodelgram, #islandlife"
-  - username: "ivansharrisphotography"
+    hashtags: "#weddingphotography, #weddingphotographer, #weddingday, #bride"
+  - username: "thebossmannmagazine"
     fullname: >-
-      Ivan S Harris Photography
+      The Boss Mann Magazine
     bio: >-
-      Visual Journalist Based in #SanDiego. Viral, Published Photographer, Brand Photographer, Marketing Consultant & @suedesocialmedia Creative Director.
+      Award-winning publication. Stories that change lives!. Main page Download our App today!! iTunes | Google Play Store Los Angeles, CA
     location: "United States"
-    followers: 15419
-    engagement: 253
-    commentsToLikes: 0.069833
-    id: ckaor1frflaz70i7829ookpja
+    followers: 11365
+    engagement: 520
+    commentsToLikes: 0.029661
+    id: ck15u9vk1m4wn0i19isio8z2s
     verified: false
-    hashtags: "#fashion, #photography, #lyrics, #california"
-  - username: "jacquelinegoehner"
-    fullname: >-
-      Jacqueline Goehner
-    bio: >-
-      Costume Designer🧚 Cosplayer🧜 Gamer🧙 Nerd👩‍🔬 Model💃 Patreon.com/JacquelineGoehner
-    location: "United States"
-    followers: 68476
-    engagement: 366
-    commentsToLikes: 0.040478
-    id: ck6tij18h0t610j719ife2ji8
-    verified: false
-    hashtags: "#redsonja, #dynamitecomics, #redsonjacosplay, #nintendo"
+    hashtags: "#bosslady, #love, #explorepage, #hollywood"
   - username: "tnt_18_"
     fullname: >-
       TNT💣 #18
     bio: >-
       •Follower of Christ •Mommy to @mykalirose •Founder of @chekrok •Harlem Globetrotter •@nikewomen model/collaborator •San Diego livin ☀️
     location: "United States"
-    followers: 50618
-    engagement: 81
-    commentsToLikes: 0.062804
+    followers: 49920
+    engagement: 91
+    commentsToLikes: 0.070361
     id: ck6uddkcukhp40j717uzv5fkh
     verified: true
-    hashtags: "#challenge, #harlemglobetrotters, #goddontmiss, #excusethemeanmuglol"
+    hashtags: "#excusethemeanmuglol, #primevideokids, #artist, #gang"
   - username: "jovannoy"
     fullname: >-
       Joann Van Noy
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.053382
     id: ck14kba3coo2j0i19vfnqfrgs
     verified: false
-    hashtags: "#mycalvins, #ad, #mejuripartner, #desertshoot"
-  - username: "schmalltalk"
+    hashtags: "#mejuripartner, #ad, #mycalvins, #desertdecor"
+  - username: "robert_bennett_art"
     fullname: >-
-      SYDNEY SCHMALL
+      Robert M. Bennett
     bio: >-
-      🌟IG Growth & Branding Strategist🌟 👇🏼DM Me To Grow Your Insta👇🏼 🌴Florida Based Influencer CEO @flossy.io @thetampabaysocialites 💅🏼
+      artofbennett@gmail.com Backup: @robert_bennett_art_bkup Burning Man: @robert_bennett_bm
     location: "United States"
-    followers: 16158
-    engagement: 956
-    commentsToLikes: 0.077027
-    id: ck6u4i1td3ucd0j71dv01zbix
+    followers: 11070
+    engagement: 586
+    commentsToLikes: 0.056470
+    id: ck55p9j2za3mp0i11bgju3juy
     verified: false
-    hashtags: "#blogger, #entrepreneurslife, #fashioninfluencer, #latinagirl"
-  - username: "c.h.kennedy"
+    hashtags: "#artmodel, #picoftheday, #forthearts, #bw"
+  - username: "xavier.talton"
     fullname: >-
-      Christine Kennedy
+      Xavier Talton
     bio: >-
-      Model • Actress • Spokesmodel 𝗔𝗤𝗨𝗔 𝗧𝗮𝗹𝗲𝗻𝘁 𝘗𝘩𝘢𝘳𝘮.𝘋 “𝗬𝗼𝘂 𝗮𝗿𝗲 𝗻𝗲𝘃𝗲𝗿 𝘁𝗼𝗼 𝗼𝗹𝗱 𝘁𝗼 𝘀𝗲𝘁 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗴𝗼𝗮𝗹 𝗼𝗿 𝘁𝗼 𝗱𝗿𝗲𝗮𝗺 𝗮 𝗻𝗲𝘄 𝗱𝗿𝗲𝗮𝗺.”
+      YHLQMDLG Pro 🏀 turned Model / Influencer / Traveler Tiktok: 120k+ Inquiries: 📩 xaviertalton@yahoo.com
     location: "United States"
-    followers: 4412
-    engagement: 719
-    commentsToLikes: 0.087042
-    id: ck8tdvntr4vjx0j78ys9kwhz5
+    followers: 19101
+    engagement: 242
+    commentsToLikes: 0.054090
+    id: ck8t43gc15djm0j78icf8iwr3
     verified: false
-    hashtags: "#happy, #photooftheday, #bnw, #actress"
+    hashtags: "#denver, #latinomodel, #workoutsbyx, #model"
+  - username: "quinncidence8"
+    fullname: >-
+      Quinn B
+    bio: >-
+      ⚡️SURGE SUPPLEMENTS : Quinn20 💧@purekana CBD: QuinnPK @staix.co code: Quinncidence8 Amazon wishlist ⬇️⬇️⬇️
+    location: "United States"
+    followers: 122349
+    engagement: 143
+    commentsToLikes: 0.041709
+    id: ck0vyhf5j40f30i19i8tkf72t
+    verified: false
+    hashtags: "#food, #lifestyle, #life, #tiktok"
+  - username: "faisalmathno"
+    fullname: >-
+      Faisal Mathno
+    bio: >-
+      I’m Offline you can reach me by phone or Email DJ 🎶🎹🎧 CALIFORNIA📍 TEXAS📍 AMMAN📍
+    location: "United States"
+    followers: 10025
+    engagement: 178
+    commentsToLikes: 0.022434
+    id: ckap7xqmim15v0i78xu0dnqbi
+    verified: false
+    hashtags: "#houstonphotographer, #houstonhairstylist, #houstonevents, #houstonweddings"
   - username: "n_kotselas"
     fullname: >-
       Nicholas Kotselas
     bio: >-
       Mister Global USA 🇺🇸 2020 San Diego Model Management Olympic Cafe 🇺🇸🇺🇸🇬🇷🇬🇷
     location: "United States"
-    followers: 13179
-    engagement: 777
-    commentsToLikes: 0.043443
+    followers: 13575
+    engagement: 834
+    commentsToLikes: 0.038456
     id: ck55li1oy1mbi0i11z1q2z20a
     verified: false
     hashtags: ""
-  - username: "amandasebastiann"
-    fullname: >-
-      A M A N D A  S E B A S T I A N
-    bio: >-
-      ✰ Freedom Models LA ✰ san diego, ca sc: amanda_s6
-    location: "United States"
-    followers: 7322
-    engagement: 2763
-    commentsToLikes: 0.074706
-    id: ck8wd3vihdd1r0j78ektzgeyi
-    verified: false
-    hashtags: "#17, #pinoypride"
   - username: "parkerheath_"
     fullname: >-
       Parker Heath
     bio: >-
-      BMX-ing and Model-ing .. 📍SanDiegoCA @gtbmxfreestyle | @demolitionparts | @kaliprotectives || @nomadmgmt | Injury video👇🏻
+      BMX-ing and Model-ing .. 📍SanDiegoCA @gtbmxfreestyle | @demolitionparts | @kaliprotectives || @nomadmgmt
     location: "United States"
-    followers: 9355
-    engagement: 633
-    commentsToLikes: 0.040302
+    followers: 9445
+    engagement: 542
+    commentsToLikes: 0.027403
     id: ck0vwf9obtev20i1939m6oeq0
     verified: false
-    hashtags: "#goodtimes, #bmx, #sandiegomodels, #nomadmgmt"
+    hashtags: "#gtbmxfreestyle, #ridedemo, #goodtimes, #bmx"
 ---

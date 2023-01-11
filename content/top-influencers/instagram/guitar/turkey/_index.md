@@ -1,108 +1,96 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Turkey In 2022
+title: Top 10 Guitar Instagram Influencers In Turkey In 2023
 description: >-
-  Find top guitar Instagram influencers in Turkey in 2022. Most popular hashtags: #music #guitar #musician #bass.
+  Find top guitar Instagram influencers in Turkey in 2023. Most popular hashtags: #bass #musician #guitar #bassguitar.
 platform: Instagram
-hits: 143
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 143 Instagram influencers like this in Turkey for you to pitch.
+hits: 132
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 132 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "sergey_ponkratyev"
-    fullname: >-
-      Сергей Понкратьев
-    bio: >-
-      LOUNA - guitars🤘composer 🎼
-    location: "Turkey"
-    followers: 10556
-    engagement: 852
-    commentsToLikes: 0.012779
-    id: ck5zlsfd7las80i143wxqjdh1
-    verified: false
-    hashtags: "#catsofinstagram, #paty, #patrick, #stop"
   - username: "koksalfndk"
     fullname: >-
       Köksal FINDIK
     bio: >-
-      @avcikoray Team / Guitar Pandemizede
+      @avcikoray Team / Guitar @neredenbaksan
     location: "Turkey"
-    followers: 19772
-    engagement: 807
-    commentsToLikes: 0.034938
+    followers: 19164
+    engagement: 796
+    commentsToLikes: 0.035340
     id: ck5cgb4boohnp0i11t5epwmhf
     verified: false
-    hashtags: "#ismet, #harbiyeacikhava, #korayavc, #meditasyon"
+    hashtags: "#mask, #smiley, #catismet, #europetour2020"
   - username: "sitkicoskun"
     fullname: >-
       Sıtkı Coşkun
     bio: >-
       Retired Banker, nature and street photographer, guitar Diecast auto, economics, Atatürk, Canon EOS 6D, travel Turkey, işbirliği ve reklam için DM
     location: "Turkey"
-    followers: 20265
-    engagement: 472
-    commentsToLikes: 0.175919
+    followers: 20170
+    engagement: 465
+    commentsToLikes: 0.182812
     id: ck8tbr535wslx0j78c0udduwu
     verified: false
-    hashtags: "#turkportal, #instaturkey, #tu, #nightphotography"
-  - username: "prdszgitarist"
-    fullname: >-
-      Cenk Erdoğan
-    bio: >-
-      Composer & guitar player. Endorsers:Marchioneguitars-Knobloch strings-Elixir Strings-Tonewood Amps-Carlos Pickups
-    location: "Turkey"
-    followers: 39008
-    engagement: 334
-    commentsToLikes: 0.018716
-    id: ck0w6st9pa4q50i190qd5amlq
-    verified: false
-    hashtags: "#fretlessstories, #fretlessguitar, #cenkerdo, #cenkerdogan"
-  - username: "serhatyilmazonline"
-    fullname: >-
-      Serhat Yilmaz
-    bio: >-
-      "HMT Guitar" "Pitbull Strings" "Alperious Pickguard" 👇👇"MY ALBUM"👇👇
-    location: "Turkey"
-    followers: 5979
-    engagement: 463
-    commentsToLikes: 0.044631
-    id: ck6tzl5uhaciv0j71i55gnuba
-    verified: false
-    hashtags: "#bassguitaralbum, #baixonatural, #bassplayermagazine, #bassplayers"
+    hashtags: "#colorful, #balat, #turkeykadraj34, #turkey"
   - username: "emreturkmen"
     fullname: >-
       Emre Turkmen
     bio: >-
-      Bass guitar / Musician Istanbul 🌍Turkey #kensmithblacktigerelite
+      Bass guitar / Musician Istanbul 🌍Turkey #kensmithblacktigerelite @kelle.pasa
     location: "Turkey"
-    followers: 11636
-    engagement: 424
-    commentsToLikes: 0.062997
+    followers: 11781
+    engagement: 426
+    commentsToLikes: 0.061377
     id: ck5q4l5tapekb0i11jj0x4u26
     verified: false
-    hashtags: "#melody, #baixonatural, #roland, #bass"
-  - username: "korcanakyildiz"
-    fullname: >-
-      Korcan Akyıldız
-    bio: >-
-      Guitar Player•Engineer•Skeptic
-    location: "Turkey"
-    followers: 3091
-    engagement: 1206
-    commentsToLikes: 0.071511
-    id: ck14hx6gwcl1k0i19yxb731xg
-    verified: false
-    hashtags: "#powermetal, #rock, #progmetal, #vintage"
+    hashtags: "#bassporn, #bassguitar, #bass, #bassguitarclub"
   - username: "ehsan_roghani"
     fullname: >-
       ERPA GUITARS (Ehsan Roghani)
     bio: >-
       My wife and I are a luthier couple (classical & flamenco guitar makers) Istanbul/Turkey
     location: "Turkey"
-    followers: 3860
-    engagement: 1407
-    commentsToLikes: 0.118878
+    followers: 4058
+    engagement: 1416
+    commentsToLikes: 0.112354
     id: ck9wici2r1pg30j78lrguq952
     verified: false
-    hashtags: "#flamnco, #ehsanroghani, #guitar, #vienna"
+    hashtags: "#gitar, #musicalinstrument, #istanbul, #flamedmaple"
+  - username: "gunyilayhan"
+    fullname: >-
+      Ayhan Günyıl
+    bio: >-
+      Guitarist,Producer,Arranger,Singer
+    location: "Turkey"
+    followers: 7633
+    engagement: 365
+    commentsToLikes: 0.060160
+    id: ck0w40ohlw7et0i19b4zjmfj5
+    verified: false
+    hashtags: "#solo, #konser, #muzik, #ayhangu"
+  - username: "korcanakyildiz"
+    fullname: >-
+      Korcan Akyildiz
+    bio: >-
+      Guitar Player•Engineer•Skeptic •Istanbul, TR
+    location: "Turkey"
+    followers: 3025
+    engagement: 873
+    commentsToLikes: 0.057343
+    id: ck14hx6gwcl1k0i19yxb731xg
+    verified: false
+    hashtags: "#basslife, #bass, #soen, #parallax"
+  - username: "serhatyilmazonline"
+    fullname: >-
+      Serhat Yilmaz
+    bio: >-
+      "HMT Guitar" "Pitbull Strings" "Alperious Pickguard" 👇👇"MY ALBUM"👇👇
+    location: "Turkey"
+    followers: 6161
+    engagement: 425
+    commentsToLikes: 0.038019
+    id: ck6tzl5uhaciv0j71i55gnuba
+    verified: false
+    hashtags: "#jazzbass, #electricbass, #instabass, #craftsmanship"
   - username: "theproduktor"
     fullname: >-
       The Produktor
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.024325
     id: ck0udqls3jpr80i19iqxocwqm
     verified: false
-    hashtags: "#musical, #theproduktor, #guitarporn, #lickwars"
-  - username: "firatoz"
+    hashtags: "#guitaristurkey, #musically, #guitarporn, #musical"
+  - username: "frkntncr1"
     fullname: >-
-      FIRAT ÖZ                  MK
+      Furkan Tuncer
     bio: >-
-      Lead guitars@ Ogün Sanlısoy, Murder King(vox), Killing ,Pert. Endorsed by @mileguitar @mooeraudio @mercuriallaudio @amtelectronics
+      @erayyesilirmak @edizcemturk @eyfikirsanatyapim Manager & Director & Dubbing & Guitarist & Songwriter E🌍
     location: "Turkey"
-    followers: 9638
-    engagement: 549
-    commentsToLikes: 0.014625
-    id: ck0w3pit5ulv90i19b15k2rx1
+    followers: 28348
+    engagement: 309
+    commentsToLikes: 0.008810
+    id: ck6u8gl9hrgql0j71ehhuwe64
     verified: false
-    hashtags: "#guitaristurkey, #mileguitars, #tbt, #murderking"
+    hashtags: "#ankarasahne, #ankarakonser, #adab, #ankara"
+  - username: "gokalpergen"
+    fullname: >-
+      Gökalp Ergen
+    bio: >-
+      Singer-Songwriter~Multi-Enstrumanist~Composer~Arranger~Producer~Instructor Gökalp Ergen Solo Project~Pentagram~The Climb Sony Music Artist
+    location: "Turkey"
+    followers: 11866
+    engagement: 442
+    commentsToLikes: 0.059981
+    id: ck0udqlsejprr0i19juyinu5h
+    verified: true
+    hashtags: "#original, #fingerstyle, #guitarlessons, #originalsong"
 ---

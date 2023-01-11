@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mma Fighters TikTok Influencers In United States In 2022
+title: Top 10 Mma Fighters TikTok Influencers In United States In 2023
 description: >-
-  Find top mma fighters TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryou #mma #foryoupage.
+  Find top mma fighters TikTok influencers in United States in 2023. Most popular hashtags: #fyp #mma #boxing #foryou.
 platform: TikTok
-hits: 13
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 13 TikTok influencers like this in United States for you to work with.
+hits: 11
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 11 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "mmamyers"
     fullname: >-
       Michael Myers
     bio: >-
-      MMA Fighter/FF age 24 Hawkage/UchYeeHaw Some 18+content road to 100k🙏🏾
+      Sabo of SRP🐺🈳 Hawkage Good Vibes Only MMA Fighter Gamer,Level 24,Illinios
     location: "United States"
-    followers: 75300
-    engagement: 2473
-    commentsToLikes: 0.137683
+    followers: 252400
+    engagement: 1806
+    commentsToLikes: 0.124499
     id: ckb9vfgxduqdf0j23r3h7266j
     verified: false
-    hashtags: "#dragonball, #lol, #mha, #haikyuu"
+    hashtags: "#boruto, #mitsuki, #naruto, #weeb"
+  - username: "keith_lee125"
+    fullname: >-
+      Keith Lee
+    bio: >-
+      Hey my name is Keith 🗣 This a family show✨ Pro mma fighter 🥊 MERCH LINK BELOW✨
+    location: "United States"
+    followers: 664100
+    engagement: 1859
+    commentsToLikes: 0.010925
+    id: ckc8wivhpjzgg0j235d08ul2m
+    verified: false
+    hashtags: "#foryou, #foodtiktok, #fyp, #stitch"
   - username: "mr.spyda"
     fullname: >-
       Mr Keys
     bio: >-
       TV Personality | Pro Boxer/MMA Fighter | Marvel Stuntman The Real Spider Man
     location: "United States"
-    followers: 3653
-    engagement: 1448
-    commentsToLikes: 0.048171
+    followers: 3656
+    engagement: 1391
+    commentsToLikes: 0.048109
     id: ck8hqbh773cd70j78zm0g5p5t
     verified: false
     hashtags: "#duet, #foryoupage, #fyp, #beanfetish"
-  - username: "bearfiorda"
+  - username: "chelseakyann"
     fullname: >-
-      Jarred Fiorda
+      ChelseaKyann
     bio: >-
-      Tkd 2nd D blk blt 🥋 MMA Fighter 🥊 Gym Owner 🏋️ All social @BearFiorda 🐻
+      Professional MMA Fighter Self Defense 👊🏻 CHELSEAKYANN10=10% Birdie Alarms
     location: "United States"
-    followers: 334700
-    engagement: 1272
-    commentsToLikes: 0.017435
-    id: ckbqns5yt8mnp0j23psaqau7h
+    followers: 284100
+    engagement: 1420
+    commentsToLikes: 0.012553
+    id: ckbwaudrd0ahu0j23pnzujres
     verified: false
-    hashtags: "#beinspired, #walking, #movember2020, #welldone"
-  - username: "alyseanderson21"
-    fullname: >-
-      Alyse Anderson
-    bio: >-
-      Pro MMA Fighter 👊🏼 Frenchie lover 🐶 Motocross #284 🤘🏼
-    location: "United States"
-    followers: 118000
-    engagement: 1031
-    commentsToLikes: 0.019774
-    id: ck92y92so1zya0j78m71n9oi7
-    verified: false
-    hashtags: "#fyp, #raccoonsoftiktok, #mma, #frenchie"
+    hashtags: "#selfdefensetoolsforwomen, #selfdefense, #fyp, #selfdefensetechniques"
   - username: "jayde.raquel"
     fullname: >-
       Jayde
     bio: >-
       MMA fighter👊🏼 Ohio📍
     location: "United States"
-    followers: 219700
-    engagement: 1021
-    commentsToLikes: 0.017318
+    followers: 217600
+    engagement: 967
+    commentsToLikes: 0.015646
     id: cka6acwumvx4i0i78g4t6i9z8
     verified: false
-    hashtags: "#athlete, #ohio, #mma, #fyp"
+    hashtags: "#jiujitsu, #wrestling, #boxing, #mma"
   - username: "kingbamm0414"
     fullname: >-
       user5714620775921
     bio: >-
       Certified Wellness Trainer Pro MMA Fighter IG - @2Cocky2CareOnGod
     location: "United States"
-    followers: 3296
-    engagement: 895
-    commentsToLikes: 0.032894
+    followers: 3270
+    engagement: 879
+    commentsToLikes: 0.032048
     id: ckac3trhuc0k10i780tcsnqjg
     verified: false
-    hashtags: "#stayhomestaystrong, #fyp, #explorepage, #fypchallenge"
+    hashtags: "#stayhomestaystrong, #fyp, #explorepage, #work"
   - username: "prophetmuscle"
     fullname: >-
       Help Prophet Muscle
     bio: >-
-      MMA Fighter/Boxer. I'll continue the legacy of my father Roger Mayweather
+      MMA Fighter/Boxer Prophet I'll continue the legacy of my Father Roger Mayweather
     location: "United States"
-    followers: 151800
-    engagement: 1089
-    commentsToLikes: 0.014756
+    followers: 146300
+    engagement: 1100
+    commentsToLikes: 0.018304
     id: cka0pa5tw7ena0i780ous8uur
     verified: false
-    hashtags: "#prank, #lebronjames, #foryou, #mma"
-  - username: "chelseakyann"
+    hashtags: "#food, #fyp, #foryou, #helpinghomeless"
+  - username: "alyseanderson21"
     fullname: >-
-      ChelseaKyann
+      Alyse Anderson
     bio: >-
-      Professional MMA Fighter Self defense tips 👊🏻 training@chelseakyann.com 📧
+      Pro MMA Fighter 👊🏼 Frenchie lover 🐶 Motocross #284 🤘🏼
     location: "United States"
-    followers: 275700
-    engagement: 1214
-    commentsToLikes: 0.010286
-    id: ckbwaudrd0ahu0j23pnzujres
+    followers: 124300
+    engagement: 887
+    commentsToLikes: 0.019863
+    id: ck92y92so1zya0j78m71n9oi7
     verified: false
-    hashtags: "#jiujitsu, #safetytips, #fyp, #selfdefensetoolsforwomen"
-  - username: "bigmitts13"
+    hashtags: "#mma, #frenchie, #fitness, #bjjgirls"
+  - username: "maritzasanchez__"
     fullname: >-
-      Brandon Mittermeier
+      Maritzasanchez__
     bio: >-
-      Arkansas 501 🐗 Personal Trainer MMA Fighter Donate Cash App/Venmo: BigMitts13
+      Professional MMA fighter twitter: maritza_kass 🦋 IG ⬆️
     location: "United States"
-    followers: 32400
-    engagement: 799
-    commentsToLikes: 0.036427
-    id: ckb99r25su3xp0j23a9czj6d0
+    followers: 7963
+    engagement: 492
+    commentsToLikes: 0.030287
+    id: ck9kev4ln0lwd0j78y71au7ou
     verified: false
-    hashtags: "#foryoupage, #muscle, #comedy, #fyp"
-  - username: "thechefchapa"
+    hashtags: "#life, #fyp, #mma, #wmma"
+  - username: "glovesandglory"
     fullname: >-
-      Dimas Chapa
+      Glovesandglory
     bio: >-
-      Professional Chef MMA Fighter Check out my Insta to see the fighting side
+      Train to become the best Striker 🥊 Using Our Techniques 🔥 Follow us on IG 🔥
     location: "United States"
-    followers: 24900
-    engagement: 901
-    commentsToLikes: 0.010663
-    id: ck81sak2xr8y80j788dp1utcc
+    followers: 27200
+    engagement: 558
+    commentsToLikes: 0.021194
+    id: ckb9aj62mvjzk0j23rel9pr9c
     verified: false
-    hashtags: "#italy, #healthy, #myfoodrecipies, #italian"
+    hashtags: "#muaythai, #summerworkout, #martialarts, #workoutplan"
 ---

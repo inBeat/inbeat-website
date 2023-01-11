@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Ukraine In 2022
+title: Top 10 Dancers TikTok Influencers In Ukraine In 2023
 description: >-
-  Find top dancers TikTok influencers in Ukraine in 2022. Most popular hashtags: #dance #fyp #duet #dancer.
+  Find top dancers TikTok influencers in Ukraine in 2023. Most popular hashtags: #dance #ukraine #duet.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Ukraine for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "tao_apa"
     fullname: >-
@@ -13,57 +13,57 @@ profiles:
     bio: >-
       K-pop cover dancer Leader Ukrainian k-pop cover dance team ❗A.P.A❗ Киев
     location: "Ukraine"
-    followers: 6331
-    engagement: 2273
-    commentsToLikes: 0.012632
+    followers: 7632
+    engagement: 2163
+    commentsToLikes: 0.012013
     id: ckb9d73890aet0j23zqp4rpui
     verified: false
-    hashtags: "#rec, #dancecoverkpop, #kpopcoverdance, #recommendations"
+    hashtags: "#bts, #ukraine, #cover, #fun"
   - username: "miss.olga.f"
     fullname: >-
       Olga Fedorenko
     bio: >-
       Twerk dancer 🍑 Лайкаю тех, кто подписался
     location: "Ukraine"
-    followers: 29700
-    engagement: 610
-    commentsToLikes: 0.046543
+    followers: 29100
+    engagement: 567
+    commentsToLikes: 0.066181
     id: ck9f2u2nneqpo0j78xriebbou
     verified: false
-    hashtags: "#levihigh, #duet, #levihighchallenge, #gym"
+    hashtags: "#levihighchallenge, #duet, #levihigh, #updownchallenge"
   - username: "jayn018"
     fullname: >-
       JaYn 
     bio: >-
       IG: @jayn018 @cbn.dancers dancer, choreographer UKRAINE 🇺🇦
     location: "Ukraine"
-    followers: 141500
-    engagement: 1568
-    commentsToLikes: 0.007336
+    followers: 144800
+    engagement: 1547
+    commentsToLikes: 0.009576
     id: ckcogmqja3dtf0j233jtn7xsk
     verified: false
-    hashtags: "#kpopdance, #blackpink, #fyp, #ukraine"
+    hashtags: "#ukraine, #duet, #imnotcool, #fyp"
   - username: "petrzelenin777"
     fullname: >-
       Пётр Зеленин
     bio: >-
-      Strip man show🐍(Kiev) Для заказа inst:petrzelenin777 ✍️ Model ,Actor, Dancer
+      Dancer 🔥 Actor🔥 Fitness model🔥 Добьём 1 🍋 ❤️ Onlyfans.com/mikeford
     location: "Ukraine"
-    followers: 144000
-    engagement: 1038
-    commentsToLikes: 0.015220
+    followers: 233800
+    engagement: 658
+    commentsToLikes: 0.021281
     id: ckbqnjyn88dyj0j231c7pnaxz
     verified: false
-    hashtags: "#chellenge2020, #fyp, #foryoupage, #mychellange"
+    hashtags: "#mike, #police, #red, #sport"
   - username: "juliya_s_tihonenko"
     fullname: >-
       Juliya Tykhonenko
     bio: >-
       Instagram:@juliya_s_tihonenko 💫💫Дизайнер бренда @colorfull_studio💫💫
     location: "Ukraine"
-    followers: 5372
-    engagement: 548
-    commentsToLikes: 0.017964
+    followers: 5468
+    engagement: 446
+    commentsToLikes: 0.027851
     id: ckcoioc2h49000j23nm2cctds
     verified: false
     hashtags: "#helloween, #makeup, #dancer, #dance"
@@ -73,34 +73,34 @@ profiles:
     bio: >-
       Event Management & Entertainment 10000+ Shows 📍UAE🇦🇪, KSA 🇸🇦 2id-events.com
     location: "Ukraine"
-    followers: 6893
-    engagement: 306
-    commentsToLikes: 0.021141
+    followers: 6807
+    engagement: 307
+    commentsToLikes: 0.022147
     id: ckc3789ypw2y20j23vq6qbavm
     verified: false
-    hashtags: "#decembermelody, #entertainment, #event, #eventplanner"
+    hashtags: "#enterteinmentpartner, #entertenment, #ksa, #2idevents"
   - username: "no__limit"
     fullname: >-
       🚫No Limit🚫
     bio: >-
       🔰Folowe me🔰
     location: "Ukraine"
-    followers: 82100
-    engagement: 974
-    commentsToLikes: 0.009191
+    followers: 81300
+    engagement: 947
+    commentsToLikes: 0.008694
     id: cka0szchvnmv50i78u3fgtmwf
     verified: false
-    hashtags: "#driftedit, #oldcar, #rip, #supra"
+    hashtags: "#rip, #tuningcar, #directedby, #oldcar"
   - username: "kintiger7"
     fullname: >-
       Kin Tiger
     bio: >-
       Dancer⚡Tomboy🌈Singer🎸Model😎 7️⃣Leader of MA.SCOT🐾 UA🇺🇦
     location: "Ukraine"
-    followers: 17700
-    engagement: 1670
-    commentsToLikes: 0.019087
+    followers: 18100
+    engagement: 1540
+    commentsToLikes: 0.037212
     id: ckcjeq99ianav0j235pt0w263
     verified: false
-    hashtags: "#top1, #recomend, #ua, #tiger"
+    hashtags: ""
 ---

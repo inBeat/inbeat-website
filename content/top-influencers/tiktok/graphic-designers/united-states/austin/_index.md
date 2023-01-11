@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Austin In 2022
+title: Top 10 Graphic-Designers TikTok Influencers In Austin In 2023
 description: >-
-  Find top graphic-designers TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #duet #graphicdesign #foryoupage.
+  Find top graphic-designers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #duet.
 platform: TikTok
-hits: 5
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database has 5 TikTok influencers like this in Austin, United States for you to collaborate.
+hits: 31
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 31 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "aniuen"
+  - username: "thechelseajohnson"
     fullname: >-
-      Annie Nguyen
+      thechelseajohnson
     bio: >-
-      📍DTX !! she/her Graphic designer & doodler
+      R E V I E W S • H U M O R • D E S I G N
     location: "United States"
-    followers: 18800
-    engagement: 2269
-    commentsToLikes: 0.018830
-    id: ck81qu97djwln0j78cul05g4b
+    followers: 10900
+    engagement: 702
+    commentsToLikes: 0.035412
+    id: ckb9ky81nd3li0j23t2z30wz8
     verified: false
-    hashtags: "#fyp, #4u, #illustration, #etsy"
-  - username: "amberbernay"
+    hashtags: "#fail, #dog, #duet, #texans"
+  - username: "austin.waldrop"
     fullname: >-
-      Amber
+      Austin Waldrop
     bio: >-
-      Artist pursuing my passion:) Venmo: @AmberBernay
+      Instagram : @Single_Turbo_Fox
     location: "United States"
-    followers: 29000
-    engagement: 2200
-    commentsToLikes: 0.071991
-    id: ckdbvw5aqdqj50j230qzctxwp
+    followers: 66700
+    engagement: 726
+    commentsToLikes: 0.022108
+    id: ckbfdfoe06ru00j2347zsws2k
     verified: false
-    hashtags: "#cartoon, #viral, #pleasetag, #artist"
+    hashtags: "#catsoftiktok, #graphicdesign, #turbo, #foxbody"
+  - username: "isaac57894"
+    fullname: >-
+      Isaac Prieto
+    bio: >-
+      Houston, TX 18!!! Get to 10k??? He/Him BLM
+    location: "United States"
+    followers: 8805
+    engagement: 1641
+    commentsToLikes: 0.042877
+    id: ckbqv9ht6fl7x0j2380mxsu9t
+    verified: false
+    hashtags: "#fyp, #airheadsditchchallenge, #stitch, #duet"
+  - username: "austinmacd73"
+    fullname: >-
+      Austin
+    bio: >-
+      🇨🇦 Canadian in the USA 🇺🇸 Yes, I like maple syrup. Go Stars
+    location: "United States"
+    followers: 13700
+    engagement: 773
+    commentsToLikes: 0.061560
+    id: ckacguo96wpmc0i78hpa49ppr
+    verified: false
+    hashtags: "#dallasstars, #hockey, #canada, #nhl"
+  - username: "splashofgenz"
+    fullname: >-
+      Emily Ann Gregson
+    bio: >-
+      venmo: @emilyanngregson
+    location: "United States"
+    followers: 7397
+    engagement: 974
+    commentsToLikes: 0.151047
+    id: ckb9sovyhq2lf0j23bpq2hglc
+    verified: false
+    hashtags: "#christmas, #xyzbca, #holiday, #why"
+  - username: "babvsam"
+    fullname: >-
+      Samantha
+    bio: >-
+      21
+    location: "United States"
+    followers: 39500
+    engagement: 1221
+    commentsToLikes: 0.030366
+    id: ckahzi1z33gvx0i78n3txgr6v
+    verified: false
+    hashtags: "#fyp, #texas, #college, #viral"
+  - username: "tinytello"
+    fullname: >-
+      Jessica Anderson
+    bio: >-
+      ⚡️ 27 • FASHION • LIFE IN OC ⚡️ ⬇️ MY SUCCESS STORY & MY LOVE STORY ⬇️
+    location: "United States"
+    followers: 149400
+    engagement: 846
+    commentsToLikes: 0.016772
+    id: ckbwjn15n3ni90j236ws38ynf
+    verified: false
+    hashtags: "#style, #dogrescue, #successstory, #storytime"
   - username: "jordanandersonracing"
     fullname: >-
       Jordan Anderson
     bio: >-
       Follow me for a look into the life of a NASCAR driver & team owner. 🏁
     location: "United States"
-    followers: 12400
-    engagement: 1303
-    commentsToLikes: 0.025395
+    followers: 12700
+    engagement: 1290
+    commentsToLikes: 0.023287
     id: ckbqih6bs3oyt0j23d1s0f3kz
     verified: false
-    hashtags: "#foryou, #chevy, #charlotte, #trucks"
-  - username: "541aquagirl27"
+    hashtags: "#trucks, #letsgo, #fyp, #garage"
+  - username: "la.bernice"
     fullname: >-
-      Kelsey 
+      Daddy skyler
     bio: >-
-      I leave comments and for some reason they blow up! 😂 so go find them 🤷🏼‍♀️
+      Snap mrfootball10man
     location: "United States"
-    followers: 21200
-    engagement: 771
-    commentsToLikes: 0.060789
-    id: ckauvmogr0n550j23qomoxp7p
+    followers: 16700
+    engagement: 822
+    commentsToLikes: 0.173032
+    id: ckb99j4wdttml0j23tamlckxm
     verified: false
-    hashtags: "#duet, #duetme, #art, #foryoupage"
-  - username: "anjroocodes"
+    hashtags: "#duet, #fyp, #viral, #fun"
+  - username: "kellieann21"
     fullname: >-
-      Andrew Stokes
+      Kellie Ann
     bio: >-
-      Going dark.
+      Cosplayer 🤡 Artist 🌸 Pole 🌻 Insta: swootybooty
     location: "United States"
-    followers: 49600
-    engagement: 561
-    commentsToLikes: 0.010822
-    id: ckc37p2g8wjz40j23dtsas64p
+    followers: 3446
+    engagement: 795
+    commentsToLikes: 0.044405
+    id: ckc922hgfseiv0j237fct8803
     verified: false
-    hashtags: "#trending, #travel, #blacklivesmattermovement, #foryou"
-  - username: "themagecat"
-    fullname: >-
-      The Mage Cat
-    bio: >-
-      Graphic designer, artist, and cat lady 🐱🔮🌿 I’m a resin witch.
-    location: "United States"
-    followers: 52300
-    engagement: 2269
-    commentsToLikes: 0.038114
-    id: ckai8v1hn5shg0i78p3tanl7v
-    verified: false
-    hashtags: "#boo, #ghostmode, #halloween, #redbulldanceyourstyle"
-  - username: "tylerissoepic"
-    fullname: >-
-      tylerissoepic
-    bio: >-
-      Graphic Designer Wallpapers On My Instagram: @tylerissoepic Comment Requests!
-    location: "United States"
-    followers: 3124
-    engagement: 1549
-    commentsToLikes: 0.076477
-    id: ckav2llyn8qqk0j23vqbjckl5
-    verified: false
-    hashtags: "#rappers, #micellarrewind, #meleaving, #tiktokfood"
-  - username: "cami.creative"
-    fullname: >-
-      ˗ˏˋ cami ˊˎ˗
-    bio: >-
-      graphic designer 〰️ order a name logo on my Etsy (limited slots available!)
-    location: "United States"
-    followers: 392000
-    engagement: 1742
-    commentsToLikes: 0.496003
-    id: ckcdncl27aodn0j233fe0wrft
-    verified: false
-    hashtags: "#namelogochallenge, #typography, #fyp, #logo"
-  - username: "lettersandlettering"
-    fullname: >-
-      lettersandlettering
-    bio: >-
-      🖊🖍✨✒️✏️ lauren elise graphic designer by day hand letterer by night
-    location: "United States"
-    followers: 382800
-    engagement: 1736
-    commentsToLikes: 0.028807
-    id: ckdc3s1vrgi3m0j23sjmn01o9
-    verified: false
-    hashtags: "#fyp, #stationery, #ecoline, #handlettering"
-  - username: "its_memageek"
-    fullname: >-
-      Mema
-    bio: >-
-      I'M NOT FUNNY 😐 Maracucha☀️ •Cosplay 💥 •BodyPaint 🎨 •Graphic Designer 👩‍💻
-    location: "United States"
-    followers: 40300
-    engagement: 1702
-    commentsToLikes: 0.055797
-    id: cka0r8lkgg2790i788r8ilvy2
-    verified: false
-    hashtags: "#toycollector, #makeup, #welldone, #cosplaygirl"
+    hashtags: "#thisisbliss, #fyp, #gimmelove, #foryou"
 ---

@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Colombia In 2022
+title: Top 10 Instagram Influencers In Colombia In 2023
 description: >-
-  Find top Instagram influencers in Colombia in 2022. Most popular hashtags: #colombia #bogota #musica.
+  Find top Instagram influencers in Colombia in 2023. Most popular hashtags: #publicidad #cali #ootd.
 platform: Instagram
-hits: 4076
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 4076 Instagram influencers like this in Colombia for you to contact.
+hits: 3846
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 3846 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
-  - username: "creexart"
+  - username: "planetajuan"
     fullname: >-
-      CreexArt ⚡️ El Crack
+      PlanetaJuan
     bio: >-
-      REGRESO EL 01/11/2020
+      Mi madre 🇨🇴 Mi Padre 🇦🇷 Mi Cuna 🇵🇦 Mi Hogar 🇨🇦 Aprende Inglés aquí: @planetaimmiland
     location: "Colombia"
-    followers: 122577
-    engagement: 2645
-    commentsToLikes: 4.681620
-    id: ck5ci7rots69i0i11bjl8bnhr
+    followers: 374803
+    engagement: 426
+    commentsToLikes: 0.024247
+    id: ckap4ltx87v2n0i78d8t8mq0a
     verified: false
     hashtags: ""
-  - username: "soydylann"
+  - username: "amara.aa"
     fullname: >-
-      dylan🦋
+      𝗔𝗺𝗮𝗿𝗮 𝗾𝘂𝗲 𝗹𝗶𝗻𝗱𝗮 🐍
     bio: >-
-      📍bogotá, col ⚡️𝐓𝐢𝐤𝐓𝐨𝐤 | soydylann (+170k)⚡️ 📩 dylandiazcontacto@gmail.com
+      𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 • 𝗯𝗲𝗮𝘂𝘁𝘆 𝟒𝟒𝟒 ✨⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ 𝟏𝟕𝐌 𝐞𝐧 𝐭𝐢𝐤 𝐭𝐨𝐤 🧸
     location: "Colombia"
-    followers: 31263
-    engagement: 1697
-    commentsToLikes: 0.113781
-    id: ck9whicx4xzqs0j78f2zsqtww
+    followers: 4753465
+    engagement: 300
+    commentsToLikes: 0.011568
+    id: ck0vz8l7n7v2d0i19wma34aud
+    verified: true
+    hashtags: "#dollskill, #grwm"
+  - username: "endocrinorosero"
+    fullname: >-
+      Endocrino Rosero
+    bio: >-
+      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
+    location: "Colombia"
+    followers: 504079
+    engagement: 268
+    commentsToLikes: 0.039558
+    id: ck8sz2e86mwzd0j788xvt7vyr
     verified: false
+    hashtags: "#dieta, #keto, #nutricion, #saludable"
+  - username: "shanynadanz"
+    fullname: >-
+      Shany Nadan
+    bio: >-
+      Actriz Ecuatoriana Color, arte y forma. 🇨🇴Manager : @mfcortesmanager 🇪🇨: @hubmgmt
+    location: "Colombia"
+    followers: 188584
+    engagement: 236
+    commentsToLikes: 0.018997
+    id: ck0vygglc3va20i19jezasnco
+    verified: false
+    hashtags: "#homenajealamaestr, #hechoenlatam, #nuestraparrillada, #lasvillamizar"
+  - username: "manuelagiraldod"
+    fullname: >-
+      Manuela Giraldo
+    bio: >-
+      𝙵𝚊𝚜𝚑𝚒𝚘𝚗 • 𝙱𝚎𝚊𝚞𝚝𝚢 • 𝚕𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 🇨🇴 @tersapparel
+    location: "Colombia"
+    followers: 212500
+    engagement: 221
+    commentsToLikes: 0.007075
+    id: ck5c0ps96tlzk0i11e4vwqmd7
+    verified: false
+    hashtags: "#outfitinspo, #publicidad, #newyearseve, #212foreveryoung"
+  - username: "drcarlosjaramillo"
+    fullname: >-
+      Dr. Carlos Jaramillo
+    bio: >-
+      Médico Funcional - IFMCP Autor Best Seller x 3/3 libros 🤓Nerd 🧬 Esposo - Padre @medfuncional @savvynutricion @anialiving YouTube, Libros, Contacto👇🏻
+    location: "Colombia"
+    followers: 1296403
+    engagement: 222
+    commentsToLikes: 0.020042
+    id: ck0u1thecxvid0i19kxra2imf
+    verified: true
     hashtags: ""
-  - username: "xoxoego"
+  - username: "cejaspobladas"
     fullname: >-
-      PAPI XOXO El anormal👽🛸
+      Ricardo Quevedo
     bio: >-
-      @otxet_lafamilia 🛸
+      Iba a ser mejor que Messi pero me lesioné. Contrataciones: contacto@ricardoquevedo.com
     location: "Colombia"
-    followers: 5549
-    engagement: 1593
-    commentsToLikes: 0.145017
-    id: ck6tl19zm5sf00j71ghsjxgi8
-    verified: false
-    hashtags: "#santiagodecali, #colombia, #medellin, #cali"
-  - username: "naylavelezp"
+    followers: 1522973
+    engagement: 175
+    commentsToLikes: 0.015086
+    id: ck6ubkm97a4uj0j710iaylgmw
+    verified: true
+    hashtags: "#tbt"
+  - username: "sebastian_vega1"
     fullname: >-
-      Nayla Piña Vélez
+      Sebastian Vega
     bio: >-
-      Colombiana. CEO @plusbynayla #PlusGirl Miss Teen Universe Colombia 19’
+      🎞🎥 Actor & Director🎥🎞.
     location: "Colombia"
-    followers: 7948
-    engagement: 1397
-    commentsToLikes: 0.337551
-    id: ck5zzydoscmo70i14bfcnihst
-    verified: false
-    hashtags: "#seeasmilesendasmile, #veaunasonrisaenvieunasonrisa, #quedateencasa, #blackouttuesday"
-  - username: "valesierra123"
+    followers: 1149235
+    engagement: 160
+    commentsToLikes: 0.007624
+    id: ck0w69rs87jk30i199ve5zf9z
+    verified: true
+    hashtags: "#mujeres, #publicidad, #hombres, #viral"
+  - username: "_kikanieto"
     fullname: >-
-      • Valeria Sierra •
+      𝑲𝒊𝒌𝒂 𝑵𝒊𝒆𝒕𝒐
     bio: >-
-      🙏🏼Con Dios todo, sin él nada 🎤Periodista y Presentadora 🔆 Hay algo en ti que el mundo necesita 💃🏻UR FESTIVAL 2020 👇🏻👇🏻👇🏻
+      Una amiga | Opiniones | Consejos | Storytimes 🧚🏻 BOG - COL 🧚🏻 Mamá de 9 🧚🏻 Mi estilo de vida, pero el de verdad 🧚🏻 Consejitos mientras me maquillo
     location: "Colombia"
-    followers: 6882
-    engagement: 1358
-    commentsToLikes: 0.077755
-    id: ckaoval3s3qzn0i78veeyje0w
-    verified: false
-    hashtags: "#zonarosa, #noticiero, #festival, #presentadora"
-  - username: "ariafalana"
+    followers: 4435053
+    engagement: 149
+    commentsToLikes: 0.005931
+    id: ck5q2xsomiaqd0i11p1lfwnts
+    verified: true
+    hashtags: "#humor, #publicidad, #parejas, #publiciidad"
+  - username: "nicollediez"
     fullname: >-
-      𝑴𝒂𝒏𝒖 𝑪𝒂𝒓𝒗𝒂𝒋𝒂𝒍 🌸
+      NICOLLE DIEZ
     bio: >-
-      👉🏼 𝐜𝐮𝐞𝐧𝐭𝐚 𝐨𝐟𝐢𝐜𝐢𝐚𝐥 19 años✌🏻 colombiana🇨🇴 📩 | Publicidad al DM 🛍 | Mis tiendas de ropa @ossaswomen @ossasmen
+      My life 📷 Mamá de Maite 🤍 #Fashion #beauty and #lifestyle inspiration @bynicollediez
     location: "Colombia"
-    followers: 12284
-    engagement: 1222
-    commentsToLikes: 0.128072
-    id: ckaouqd6p1cvf0i78onegnbfc
+    followers: 97440
+    engagement: 106
+    commentsToLikes: 0.020316
+    id: ck5c27kdbwp4s0i11kuccrvnh
     verified: false
-    hashtags: "#mede, #videostiktok, #encasa, #pereiracity"
-  - username: "stephy_oficial"
-    fullname: >-
-      Pπ
-    bio: >-
-      ESCUCHA PARÍS🗼⬇️
-    location: "Colombia"
-    followers: 51116
-    engagement: 1199
-    commentsToLikes: 0.070477
-    id: ck9wfzxoer9rl0j786drcxosm
-    verified: false
-    hashtags: ""
-  - username: "soynaash"
-    fullname: >-
-      Nash Orozco
-    bio: >-
-      | 🇨🇴🇲🇽 | | Creador de contenido 🥀| | Contacto: soynaash@gmail.com | 📍REP: @trendsetters.ok 📍 1OOth✨
-    location: "Colombia"
-    followers: 51449
-    engagement: 1183
-    commentsToLikes: 0.132017
-    id: ck9wg0jwcrcur0j78ovst4ow1
-    verified: false
-    hashtags: "#humor"
-  - username: "belenfleitasok"
-    fullname: >-
-      Belén Fleitas 🦄
-    bio: >-
-      Publicidad y Canje al 👉🏻contactobelenfleitas@gmail.com Acá no te vas a aburrir 😉 Tiktok: +180K YouTube: +115K
-    location: "Colombia"
-    followers: 66077
-    engagement: 1168
-    commentsToLikes: 0.098964
-    id: ck5hhsftf9unc0i11653f0xm7
-    verified: false
-    hashtags: "#tupelotueleccio, #octubrerosa, #prayforparaguay, #americaneagle"
-  - username: "_camilandreaa_"
-    fullname: >-
-      Camila Andrea
-    bio: >-
-      Moda - Belleza | Estilo de Vida | Sonrisas 📍Colombia Contacto: caamilabernal@hotmail.com YouTube:
-    location: "Colombia"
-    followers: 358473
-    engagement: 1166
-    commentsToLikes: 0.118620
-    id: ck55pt5nybbqk0i11dfv4w0qt
-    verified: false
-    hashtags: "#skecherscolombia"
+    hashtags: "#colombia, #ootd, #fashionstyle, #fashion"
 cities:
   - name: Bogotá
     link: /instagram/colombia/bogota

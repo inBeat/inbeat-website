@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Colombia In 2022
+title: Top 10 Athletes Instagram Influencers In Colombia In 2023
 description: >-
-  Find top athletes Instagram influencers in Colombia in 2022. Most popular hashtags: #fitnessmotivation #motivation #fitness.
+  Find top athletes Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #love #panama.
 platform: Instagram
-hits: 31
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 31 Instagram influencers like this in Colombia for you to contact.
+hits: 29
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 29 Instagram influencers like this in Colombia for you to work with.
 profiles:
-  - username: "taneth.fit"
-    fullname: >-
-      Taneth Gimenez
-    bio: >-
-      DIOS todo ✝️ 🧩Proud Autism mom of 2 👧🏻👦🏻 🗣🇪🇸🇺🇸🇧🇷 🌟@bangenergy Elite 🐲@dragonpharma_llc Athlete 💟@jednorthwomen 👗@fashionnova AD
-    location: "Colombia"
-    followers: 1739559
-    engagement: 249
-    commentsToLikes: 0.022407
-    id: ck5c1098xu7230i11ee9zbtbu
-    verified: false
-    hashtags: "#workout, #bangrevolution, #motivation, #lovemybang"
   - username: "orianavalenti89"
     fullname: >-
       Oriana Valenti | Dentist
     bio: >-
       ▫️ENDODONCISTA ▫️Medellín - Colombia ▫️Citas (318) 2900517 ▫️@illumidentsas ▫️Pole Athlete
     location: "Colombia"
-    followers: 31551
-    engagement: 268
-    commentsToLikes: 0.051947
+    followers: 31252
+    engagement: 253
+    commentsToLikes: 0.054905
     id: ckapb0xwdy7t60i78vz5s4wf7
     verified: false
-    hashtags: "#poledance, #cuarentena, #itagui, #girls"
+    hashtags: "#girls, #odontologia, #polefitness, #envigado"
   - username: "caro_toro"
     fullname: >-
       Carolina Toro Raigosa
     bio: >-
-      𝒢𝑜𝒹 𝒾𝓈 𝓁𝑜𝓋𝑒 Comunicadora Social Periodista Athlete SMART PRO My brand @dimareswimw
+      𝒢𝑜𝒹 𝒾𝓈 𝓁𝑜𝓋𝑒 Comunicadora Social Periodista Athlete SMART PRO @dimareswimw
     location: "Colombia"
-    followers: 189430
-    engagement: 376
-    commentsToLikes: 0.010687
+    followers: 193401
+    engagement: 258
+    commentsToLikes: 0.011661
     id: ck0w3tqyxv87p0i19cy9ozkrz
     verified: false
-    hashtags: "#tbt, #positano"
-  - username: "rociomunozvan"
-    fullname: >-
-      R O C í O 🦋🐥
-    bio: >-
-      🔹Atletismo, C H I L E 🇨🇱 🔹@reebokchile ATHLETE
-    location: "Colombia"
-    followers: 9876
-    engagement: 1926
-    commentsToLikes: 0.020241
-    id: ck8sxpwm3i8620j78xsexzwkc
-    verified: false
-    hashtags: "#dermclass, #antheliostecuida, #yoentrenoencasa, #entrenaconreebok"
+    hashtags: ""
   - username: "laura_manrique13"
     fullname: >-
       Laura Manrique
     bio: >-
-      Athlete Bikini Fitness👙 Personal trainer🏋🏻‍♀️ posing coach 🏆 Colombiana 🇨🇴 Panamá 🇵🇦 @abcfitnesspanama 🛍🛒
+      Athlete Bikini Fitness👙 🄲🄾🄰🄲🄷 🄸🄽🅃🄴🅁🄽🄰🄲🄸🄾🄽🄰🄻 🏋🏻‍♂️ 𝔽𝕚𝕥𝕟𝕖𝕤𝕤+𝕙𝕖𝕒𝕝𝕥𝕙𝕪+𝕟𝕦𝕥𝕣𝕚𝕥𝕚𝕠𝕟 𝕔𝕠𝕒𝕔𝕙💚 Colombiana 🇨🇴 @abcfitnesspanama 🛍🛒
     location: "Colombia"
-    followers: 39152
-    engagement: 258
-    commentsToLikes: 0.022775
+    followers: 39690
+    engagement: 186
+    commentsToLikes: 0.023365
     id: ck6tmt8738hn60j71nllvp2a8
     verified: false
-    hashtags: "#tbt, #espalda"
+    hashtags: "#powerwoman, #business, #trabajoenequipo, #sanvalentineday"
   - username: "suevygramer"
     fullname: >-
       sᴜᴇᴠʏ
     bio: >-
-      🏃🏼‍♀️Nike Athlete 🥑No meat athlete 🌱Plant mami @shelfiepot 🐱Cat mom AF @bakerandblair
+      🏃🏼‍♀️Nike Athlete ⚡️ @homeathlete_method 🥑No meat athlete 🌱Plant mami 🐱Cat mom AF @bakerandblair
     location: "Colombia"
-    followers: 58712
-    engagement: 132
-    commentsToLikes: 0.013457
+    followers: 58030
+    engagement: 103
+    commentsToLikes: 0.015653
     id: ck6u879q9pudr0j71zonz7f7s
     verified: false
-    hashtags: "#nikerunning, #anabellevisuetti, #runner, #indoorjungle"
+    hashtags: "#trailrunner, #panama, #trailrun, #nikerunning"
+  - username: "dilian_jurado"
+    fullname: >-
+      Dilian Jurado
+    bio: >-
+      🇵🇦Panamá Hija del Rey #God @bpi_sports athlete @fitnessgamepty athlete Lucas 1:37 ♥️
+    location: "Colombia"
+    followers: 47568
+    engagement: 200
+    commentsToLikes: 0.025363
+    id: ck14gkaeo5nkb0i19z2hym60m
+    verified: false
+    hashtags: "#lovewhatyoudo, #fitnesslifestyle, #focus, #panama"
+  - username: "mulatafit"
+    fullname: >-
+      Sunny Dova WBFF PRO
+    bio: >-
+      @wbffentertainment champion usa 1st colombian to be crowned diva PRO @megaplexstars athlete elite Team @sportfitness.shop.latam Entrena aquí ⤵️
+    location: "Colombia"
+    followers: 618588
+    engagement: 199
+    commentsToLikes: 0.034961
+    id: ck5q5bhkks4yj0i11prd3sjk9
+    verified: false
+    hashtags: "#megaplex, #burnerchallenge, #happy, #medellin"
   - username: "santiagoherediao"
     fullname: >-
       SANTIAGO HEREDIA 🐺
     bio: >-
-      @underarmourlatam Athlete 🔥 @jaybirdsport Athlete 🔊 @oxsportsnutrition Athlete 🍏 TRIATLETA 🏊🏻‍♂️🚴🏻‍♂️🏃🏼‍♂️ 🥇#volandojuntos
+      Runner | Triatleta | Golfista @underarmourlatam #athlete 🔥 Admin de Empresas | Smart Cities | Digital Business. Apasionado por los deportes.
     location: "Colombia"
-    followers: 17992
-    engagement: 126
-    commentsToLikes: 0.048366
+    followers: 19133
+    engagement: 160
+    commentsToLikes: 0.025791
     id: ck8t01oiaqj6n0j786t7ufmzv
     verified: false
-    hashtags: "#goodvibes, #titleist, #sunday, #runner"
-  - username: "sofia__iriarte"
+    hashtags: "#runningcommunity, #ad, #run, #swim"
+  - username: "espana927"
     fullname: >-
-      Sofía Iriarte ♛
+      𝗔𝗡𝗔 𝗖φ𝗭𝗔𝗥 𝗜𝗙𝗕𝗕
     bio: >-
-      hi stalker👀 what’s up? ♡ Crossfit athlete & coach Ψ Psychology 🇨🇴colombianísima
+      ˃ 𝖬𝖸 𝖡𝖱𝖠𝖭𝖣 ❤︎ @corset_espana ˃ @ryderwear Athlete “espana10” ˃ @nutrexresearch Athlete Shop here ⇣
     location: "Colombia"
-    followers: 2901
-    engagement: 1375
-    commentsToLikes: 0.042358
-    id: ckap6ap3bf3if0i78dxo4p4zd
-    verified: false
-    hashtags: "#fitness, #fitnessmotivation, #crossfit, #running"
+    followers: 2985340
+    engagement: 97
+    commentsToLikes: 0.030740
+    id: ck9wd7f1zeer60j782th5zn6m
+    verified: true
+    hashtags: "#supplements, #gymangelessport, #nutrexresearch, #coreworkout"
   - username: "lalajv92"
     fullname: >-
       Laura Jaillier 👑
     bio: >-
       -Crossfit athlete & coach CF L1 💪🏻 -3X crossfit games south regionals 🏋🏻‍♀️ -Mama 😍 -@soyhakuna
     location: "Colombia"
-    followers: 17717
-    engagement: 490
-    commentsToLikes: 0.250412
+    followers: 18129
+    engagement: 492
+    commentsToLikes: 0.220528
     id: ck8sxha8vhe4p0j78applpxe1
     verified: false
-    hashtags: "#crossfit, #crossfitmedellin, #crossfitcolombia, #volveremos"
-  - username: "espana927"
+    hashtags: "#crossfitcolombia, #crossfit, #crossfitmedellin, #twins"
+  - username: "lizsurley_bmx_"
     fullname: >-
-      𝗔𝗡𝗔 𝗖φ𝗭𝗔𝗥 𝗜𝗙𝗕𝗕
+      ✌🏼L I C H U⚡️
     bio: >-
-      @NutrexResearch Athlete “espana927” @Ryderwear Athlete “espana10” CEO @corset_espana TRAIN WITH ME 👇🏽💥
+      🇨🇴 📍C O L - BUGA RedBull Athlete 🏆 🗺 17 yo @redbullcol🐂Gives You Wings!
     location: "Colombia"
-    followers: 2580756
-    engagement: 89
-    commentsToLikes: 0.023699
-    id: ck9wd7f1zeer60j782th5zn6m
-    verified: true
-    hashtags: "#fitnessmotivation, #redheadlife, #gingerhair, #goodenergy"
+    followers: 12482
+    engagement: 859
+    commentsToLikes: 0.027765
+    id: ck0w0dybvdpi00i19hbxwfkfv
+    verified: false
+    hashtags: "#stylo, #allday, #bowl, #soymid"
 ---

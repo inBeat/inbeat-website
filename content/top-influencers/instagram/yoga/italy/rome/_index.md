@@ -1,60 +1,120 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Rome In 2022
+title: Top 10 Yoga Instagram Influencers In Rome In 2023
 description: >-
-  Find top yoga Instagram influencers in Rome in 2022. Most popular hashtags: #yoga #love #rome #italy.
+  Find top yoga Instagram influencers in Rome in 2023. Most popular hashtags: #yoga #italy #love #italia.
 platform: Instagram
 hits: 13
 text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 13 Instagram influencers like this in Rome, Italy for you to pitch.
+text_bottom: Our platform holds 13 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
-  - username: "robertagentilegea"
-    fullname: >-
-      Roberta Gea Gentile 🍂
-    bio: >-
-      Lioness London/Milan Singer produced by @incognito_world ♥️ From Puglia
-    location: "Italy"
-    followers: 6678
-    engagement: 881
-    commentsToLikes: 0.023828
-    id: ck600so5oe72v0i1424qwuibv
-    verified: false
-    hashtags: "#music, #voice, #love, #soul"
   - username: "tonylupinacci"
     fullname: >-
       Yoga + Meditation Teacher
     bio: >-
-      ASANA CLASS via zoom Friday 11.13 9am Pasific 12 Eastern 5pm Lisbon 6pm Rome. $10 suggested donation Meeting ID: 717 9455 3037 Passcode: 2PiRh1
+      🔘 SPRING OF POSSIBILITY w @katonahyogacenter March 4 - 20 🔘 PORTUGAL 200hr w @talia_sutra March 14 - 31 🔘 RETREAT @cocoonportugal July 24 - 31
     location: "Italy"
-    followers: 8581
-    engagement: 687
-    commentsToLikes: 0.055818
+    followers: 8647
+    engagement: 510
+    commentsToLikes: 0.062201
     id: ckap2nh6mzljz0i7854hoqo2k
     verified: false
-    hashtags: "#yogaeverydamnday, #yogapose, #meditation, #loveandalliscoming"
-  - username: "bridget_burt"
+    hashtags: "#skytingyoga, #yogadaily, #yogalife, #katonahyoga"
+  - username: "virginia_kalho"
     fullname: >-
-      Bridget Burt
+      𝓥𝓲𝓻𝓰𝓲𝓷𝓲𝓪
     bio: >-
-      The best things in life are on the other side of fear. 28+ countries 🌏 Stuntwoman - MEAA Graded Skydiver, Flyboarder & all Sports Extreme 💦🪂⛰💥
+      📍Rome 📚Art historian ✨Aesthetic and vintage lover ✉️virginiacaprino92@gmail.com [FUN]
     location: "Italy"
-    followers: 45604
-    engagement: 103
-    commentsToLikes: 0.049593
-    id: ck6ts131u27500j71ks55rlwp
+    followers: 19108
+    engagement: 126
+    commentsToLikes: 0.288932
+    id: ckap4qam38dwq0i78v3dj6ve2
     verified: false
-    hashtags: "#sidekick, #train, #training, #martialarts"
-  - username: "ja_farida"
+    hashtags: "#suppliedby, #romwe, #ootd, #jewels"
+  - username: "mariasaggese.lightpainting"
     fullname: >-
-      Farida Jafarova
+      Maria Saggese 👸🏻💫
     bio: >-
-      Self developing #globalcitizen 🕊
+      Rome based 📍 Light Painting Portraits 👩‍🎨 @lightpaintingbrushes ambassador 🔦 @airbnbexperiences Host 🇮🇹 @tusiquevales_it tv performance 📺👇🏻
     location: "Italy"
-    followers: 2987
-    engagement: 1553
-    commentsToLikes: 0.048408
-    id: ck9hbn9pjhlpw0j78fyljfkrt
+    followers: 21717
+    engagement: 195
+    commentsToLikes: 0.063531
+    id: ck0w1yb7plqhl0i19wnrl0pew
     verified: false
-    hashtags: "#azerbaijan, #bakubloggers, #myazerbaijan, #tbt"
+    hashtags: "#style, #moodboard, #mamma, #art"
+  - username: "cosmepolitan.it"
+    fullname: >-
+      Elvira Colavita
+    bio: >-
+      ELVIRALE⭐️ Beauty Cosme Coach co-founder @naima_candia_profumi Made in Rome ☀️ Molto sposata💍
+    location: "Italy"
+    followers: 142355
+    engagement: 98
+    commentsToLikes: 0.044062
+    id: ckap4sr1s8pai0i78wilr5f34
+    verified: false
+    hashtags: "#wonderwoman, #makeup, #beautycoach, #beauty"
+  - username: "irenepila_"
+    fullname: >-
+      Irene | ✈︎ Travel Creator
+    bio: >-
+      ☾ “Your life isn’t really yours if you constantly care what others think (: 𖥸 Travelling full time since 2019 ༄ Outdoor adventures r always welcome ↓
+    location: "Italy"
+    followers: 64697
+    engagement: 308
+    commentsToLikes: 0.024039
+    id: ck9hat9ide1h20j78t3vxm8lq
+    verified: false
+    hashtags: "#italia, #travelgram, #outdoors, #travelblogger"
+  - username: "tjasa_perko"
+    fullname: >-
+      T J A Š A Perko
+    bio: >-
+      🌏 | BOY’S MAMA | wanderlust| 🎬 STUNT performer🔥 film & camera lover💫|sport & adrenaline addict✨passionate soul ✨
+    location: "Italy"
+    followers: 17723
+    engagement: 395
+    commentsToLikes: 0.013125
+    id: ck6u6ob20gro60j7134ypins2
+    verified: false
+    hashtags: "#amore, #ocean, #sea, #boatlife"
+  - username: "debbieontheroad"
+    fullname: >-
+      Travel, Sport & Adventure 💎
+    bio: >-
+      Fine Savage around the World! Italiana like Spaghetti ♥️ Water Based Soul 🌊 My Brand @lightbluewear🐚 raniadebora@gmail.com 𓇼
+    location: "Italy"
+    followers: 16673
+    engagement: 386
+    commentsToLikes: 0.142514
+    id: ckap59a57aqp50i78qbn0yvmv
+    verified: false
+    hashtags: "#sealife, #tourism, #diving, #sonyphotography"
+  - username: "discoveryphotograph"
+    fullname: >-
+      Discovery Photography
+    bio: >-
+      ► Discovery & Food ◄ Man cannot discover new oceans unless he has the courage to lose sight of the shore.
+    location: "Italy"
+    followers: 14460
+    engagement: 1092
+    commentsToLikes: 0.177159
+    id: ck8tdk7g33n9g0j78er3vyljc
+    verified: false
+    hashtags: "#discovery, #explore, #miss, #netgeoyourshot"
+  - username: "ferzanozpetek"
+    fullname: >-
+      Ferzan Ozpetek
+    bio: >-
+      Ferzan Özpetek.Film and Opera Director,Writer and Producer. “To err is human;to forgive, divine”
+    location: "Italy"
+    followers: 478374
+    engagement: 279
+    commentsToLikes: 0.061921
+    id: ck0tz63r4p6890i19uyc7e00j
+    verified: true
+    hashtags: "#ferzanozpetek, #birnefesgibi, #comeunrespiro, #ferzan"
   - username: "chiararicci.off"
     fullname: >-
       Chiara Ricci
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.059606
     id: ck8tc2u5ey34b0j788lykjnou
     verified: false
-    hashtags: "#chiararicci, #actresslife, #iorestoacasa, #fuckcovid19"
-  - username: "sapienza.mariella"
-    fullname: >-
-      Mariella Sapienza
-    bio: >-
-      Rome 💒🏠🏡 Actress tv cinema videoclip model 🎬🎥📷 Wife💍 Model from @pazolini.italia For collaboration mariella-sapienza@virgilio.it
-    location: "Italy"
-    followers: 30547
-    engagement: 479
-    commentsToLikes: 0.128675
-    id: ckf5x6o8ruk8o0j23s6n11ycx
-    verified: false
-    hashtags: "#piedi, #colours, #smile, #mariellasapienza"
-  - username: "cosmepolitan.it"
-    fullname: >-
-      Elvira Colavita
-    bio: >-
-      ELVIRALE⭐️ Femininity Coach Sirena spiaggiata🧜🏼‍♀️ @castello_tor_crescenza shooting planner @ih_hotels ambassador Made in Rome ☀️ Molto sposata💍
-    location: "Italy"
-    followers: 132661
-    engagement: 92
-    commentsToLikes: 0.024537
-    id: ckap4sr1s8pai0i78wilr5f34
-    verified: false
-    hashtags: "#clarins, #beauty, #mua, #believer"
-  - username: "_giadamassara_"
-    fullname: >-
-      Giada Massara
-    bio: >-
-      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
-    location: "Italy"
-    followers: 35091
-    engagement: 1014
-    commentsToLikes: 0.084816
-    id: ck5hr9419uhac0i116ngq4l7x
-    verified: false
-    hashtags: "#muscle, #quarantena, #fitnessitalia, #ootd"
-  - username: "_alexandra_in_wonderland_"
-    fullname: >-
-      𝓐𝓵𝓮𝔁𝓪𝓷𝓭𝓻𝓪 ♡
-    bio: >-
-      When I’m exploring the world is when I feel most at home Food and Travel ♥️ 71 countries visited ❤️ Currently📍#turkey 🔜#egypt Dm/💌 for collaborations
-    location: "Italy"
-    followers: 27348
-    engagement: 666
-    commentsToLikes: 0.035450
-    id: ck8tdkf283o6k0j7874ymry5k
-    verified: false
-    hashtags: "#wonderland, #landscape, #igersitalia, #sun"
-  - username: "pablitoc16"
-    fullname: >-
-      Paolo Corradini
-    bio: >-
-      Pure Love for life , art and photography - Unfollow = Unfollow
-    location: "Italy"
-    followers: 9161
-    engagement: 1099
-    commentsToLikes: 0.049426
-    id: ck0vzuxl2b0q80i19l2cx0hgd
-    verified: false
-    hashtags: "#breathe, #lagotrasimeno, #picture, #life"
+    hashtags: "#fuckcovid19, #me, #shorthair, #together"
 ---

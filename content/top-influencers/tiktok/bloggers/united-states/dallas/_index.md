@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Dallas In 2022
+title: Top 10 Bloggers TikTok Influencers In Dallas In 2023
 description: >-
-  Find top bloggers TikTok influencers in Dallas in 2022. Most popular hashtags: #duet #fyp #greenscreen #diy.
+  Find top bloggers TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #dallas #texas #foryou.
 platform: TikTok
-hits: 7
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 7 TikTok influencers like this in Dallas, United States for you to contact.
+hits: 10
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "everydaythang_pj"
+  - username: "helenaaa238"
     fullname: >-
-      Everyday Thang PJ
+      Dallas/Ft. Worth blogger
     bio: >-
-      Subscribe to the YouTube page ASAP (Everyday Thang with PJ)
+      24 - Dallas blogger or wuteva, you know the vibezzzzz, cooler on insta
     location: "United States"
-    followers: 10400
-    engagement: 569
-    commentsToLikes: 0.049746
-    id: ckbfdvfsy7ce70j23adf97cc1
+    followers: 9267
+    engagement: 787
+    commentsToLikes: 0.071584
+    id: ckb9d6anj073s0j232ckoi2l6
     verified: false
-    hashtags: "#sooners, #subscribe, #video, #busy"
-  - username: "sincerelyonyi"
+    hashtags: "#bucketlist, #foodie, #foodies, #garlandtx"
+  - username: "roseybeeme"
     fullname: >-
-      Onyi Azih, PA-C
+      roseybeeme
     bio: >-
-      Mom | Psych Physician Assistant | Blogger CEO Of Dancing Try-Ons
+      ✨ I ❤️ pop culture and 🚫 diets✨ 🤩 failed actor🤩 🌺dallas style blogger🌺
     location: "United States"
-    followers: 54900
-    engagement: 1581
-    commentsToLikes: 0.025135
-    id: ckav7u048eya40j23eu179500
+    followers: 223200
+    engagement: 1295
+    commentsToLikes: 0.018203
+    id: ckbkt9b67o7b90j2365lztfrp
     verified: false
-    hashtags: "#lifestyleblogger, #psychiatry, #physicianassistant, #momblogger"
-  - username: "verbalgoldblog"
+    hashtags: "#plussize, #freefreedance, #plussizeedition, #plussizestyle"
+  - username: "joyfullyso"
     fullname: >-
-      AdY Meschke
+      joyfullyso
     bio: >-
-      Full time blogger, travel, life hacks, tips and how tos!
+      Fashion | Home Wellness @wellnesstalk Outfits: LIKETOKNOW.it app
     location: "United States"
-    followers: 370300
-    engagement: 1269
-    commentsToLikes: 0.032035
-    id: cka0naf70ywy40i78g3x4bae0
+    followers: 20700
+    engagement: 627
+    commentsToLikes: 0.012258
+    id: ckb9do1wq0yfw0j23bldswhs6
     verified: false
-    hashtags: "#tips, #extensions, #newhair, #beforeandafter"
+    hashtags: "#beautyhacks, #makeover, #fyp, #home"
+  - username: "littlemixico"
+    fullname: >-
+      Dani Rios
+    bio: >-
+      CDMX + Dallas My kinda boujee life IG @littlemixico Day In My Life Vlog👇🏼
+    location: "United States"
+    followers: 174900
+    engagement: 850
+    commentsToLikes: 0.014491
+    id: ckav66pvjcvsu0j23vk6tjocs
+    verified: false
+    hashtags: "#fyp, #beautyguru, #mexicana, #oaxaca"
+  - username: "tazzworld"
+    fullname: >-
+      Kristina Uchiha
+    bio: >-
+      Ig: tazzworld_1 TEXAS 📍🌈 Anime blogger Single😙✌️ Cashapp: $InfinityBeyond1
+    location: "United States"
+    followers: 18700
+    engagement: 1524
+    commentsToLikes: 0.093536
+    id: ckcipduwpwefb0j23b4bxm90d
+    verified: false
+    hashtags: "#lesbian, #geicolipsync, #fyp, #lgbt"
+  - username: "suggamonkey"
+    fullname: >-
+      Susan Curry
+    bio: >-
+      Model/Blogger/Influencer/, based in OKC, OK. We only live Once, LIVE LIFE BABY!
+    location: "United States"
+    followers: 15600
+    engagement: 859
+    commentsToLikes: 0.055345
+    id: ck9v73wxe4mcw0j78xyu4wfai
+    verified: false
+    hashtags: "#plus, #ftfbabe, #okc, #plussize"
+  - username: "kristen.nicole.robinson"
+    fullname: >-
+      Kristen Robinson
+    bio: >-
+      • realtor • McKinney, TX wife + mom blogger-ish ginger
+    location: "United States"
+    followers: 8321
+    engagement: 684
+    commentsToLikes: 0.053771
+    id: ckck3ltsonm4p0j23apk795v3
+    verified: false
+    hashtags: "#texas, #familygoals, #2021affirmations, #affirmations"
   - username: "adrienedavidson"
     fullname: >-
       AdrieneDavidson
     bio: >-
-      Sharing lifestyle tips & product must haves with 0 Blogger Bull💩
+      Sharing lifestyle tips & product must haves with 0 Blogger Bull💩 LINKS ⬇️⬇️
     location: "United States"
-    followers: 19600
-    engagement: 958
-    commentsToLikes: 0.012880
+    followers: 260400
+    engagement: 928
+    commentsToLikes: 0.008860
     id: ckd5x9lto04h60j238zrl5z2d
     verified: false
-    hashtags: "#fyp, #apartment, #apartmentdecor, #fridgetour"
-  - username: "cuter_tudor"
-    fullname: >-
-      Cuter Tudor 
-    bio: >-
-      Home Decor & DIYs. Blogger at CuterTudor.com & @cutertudor on IG!
-    location: "United States"
-    followers: 5541
-    engagement: 585
-    commentsToLikes: 0.031978
-    id: ckcj53kwx5iwj0j231on4td70
-    verified: false
-    hashtags: "#myhomeoffice, #diyhome, #diyhomedecor, #roommakeover"
+    hashtags: "#showertok, #myroutine, #cleantok, #appstore"
   - username: "thelovelyescapist"
     fullname: >-
       Angie Cox
     bio: >-
       ✈️ Travel Blogger & Cat Mom 😻 Insta: @thelovelyescapist Blog: thelovelyescapist
     location: "United States"
-    followers: 33100
-    engagement: 592
-    commentsToLikes: 0.034092
+    followers: 32800
+    engagement: 669
+    commentsToLikes: 0.034735
     id: ck81swfaktll00j78idkeleb7
     verified: false
-    hashtags: "#catsoftiktok, #fyp, #tiktoktravel, #playwithlife"
-  - username: "myexplorewithme"
+    hashtags: "#playwithlife, #tiktoktravel, #fyp, #jamaica"
+  - username: "fordsixfo"
     fullname: >-
-      MyExploreWithMe
+      FordSixFo
     bio: >-
-      San Diego videos, travel videos and nursing videos!Come to Yosemite with me!👇🏻
+      2019 F-250 Platinum 6.7 Insta/YouTube/Snapchat: Fordsixfo
     location: "United States"
-    followers: 34800
-    engagement: 630
-    commentsToLikes: 0.042397
-    id: ckbezszhdl6g10j237qflbudj
+    followers: 133300
+    engagement: 1218
+    commentsToLikes: 0.018897
+    id: ckauuv16kztj00j2380jja0kj
     verified: false
-    hashtags: "#visitsd, #sandiego, #washington, #hiking"
-  - username: "theitmom"
-    fullname: >-
-      Daisy Teh
-    bio: >-
-      👩🏻‍💻Blogger/Amazon Seller 🇵🇭Former teen mom 🎉Family fun 👰🏻My BFF 📍Vegas
-    location: "United States"
-    followers: 550300
-    engagement: 1817
-    commentsToLikes: 0.025931
-    id: ckbqjjg5p4qnx0j234n7ohj93
-    verified: false
-    hashtags: "#babyturtle, #gimmelove, #turtlesoftiktok, #tortoise"
-  - username: "alyssatabit"
-    fullname: >-
-      alyssa
-    bio: >-
-      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
-    location: "United States"
-    followers: 26000
-    engagement: 1418
-    commentsToLikes: 0.065475
-    id: ckbkt2nxko44z0j23uxvlyfak
-    verified: false
-    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
-  - username: "mrmoodydresser"
-    fullname: >-
-      Mike Jones
-    bio: >-
-      40+ Fashion influencer and blogger! #mrmoodydresser
-    location: "United States"
-    followers: 7772
-    engagement: 1041
-    commentsToLikes: 0.075983
-    id: ckb9l759odil60j23jr58e09v
-    verified: false
-    hashtags: "#weightlossjourney, #fitover40, #blackmenwithstyle, #tiktokover40"
+    hashtags: "#alumiduty, #ford, #hbsmotorsports, #diesel"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Los Angeles In 2022
+title: Top 10 Athletes Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top athletes Instagram influencers in Los Angeles in 2022. Most popular hashtags: #model #fitness #training #fitnessmotivation.
+  Find top athletes Instagram influencers in Los Angeles in 2023. Most popular hashtags: #athlete #fitnessmotivation #losangeles.
 platform: Instagram
-hits: 155
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 155 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 140
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 140 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "callahanvolleyball"
+  - username: "shanemosleyjr"
     fullname: >-
-      Traci Callahan 🍀
+      TRIBE CALLED MOSLEY
     bio: >-
-      Pro Beach Volleyball Player 🇺🇸🏝🏐 FIVB World Tour | AVP Tour “Elevate The Game. Elevate The Planet.”(™) @horsesoldierbourbon
+      🥊Pro Boxer 🥊Golden Boy 👊🏾The Contender Season 5 finalist 💍 @lyssa.renea 📍LA to LV Business inquires: shanemosleyjr.business@gmail.com
     location: "United States"
-    followers: 42233
-    engagement: 1480
-    commentsToLikes: 0.030443
-    id: ck5pzszow2m240i11wdfl79v4
-    verified: false
-    hashtags: "#focus, #strongwomen, #happy, #beastmode"
-  - username: "jessepagz"
+    followers: 22776
+    engagement: 409
+    commentsToLikes: 0.044896
+    id: ck8swmr0aek3m0j780q742ohr
+    verified: true
+    hashtags: "#snacathlete, #couplesofinstagram, #goldenboy, #boydad"
+  - username: "anniepfit"
     fullname: >-
-      Jesse Pagz
+      Annie • Fitness & Mom Life
     bio: >-
-      Mom of 2 ♥️ ONLY OTHER ACCOUNT ⬇️ Fitness @jessepagzfit 🔥 @mansports Athlete - Jesse20 ➕➕➕➕
+      •Mama of two littles 👦🏼 👧🏻 •Passions: #fitness & #health •Sharing real, raw #motherhood moments •@ProteaNutrition athlete •📍Los Angeles
     location: "United States"
-    followers: 138938
-    engagement: 197
-    commentsToLikes: 0.030750
-    id: ck138quwqhkca0i19iijsa83d
+    followers: 31842
+    engagement: 205
+    commentsToLikes: 0.073206
+    id: ck8t3g4o834ga0j782b5ezvht
     verified: false
-    hashtags: "#gym, #curvy, #model, #tattooed"
-  - username: "matttralli5"
-    fullname: >-
-      Matt Tralli
-    bio: >-
-      @DOGPOUND trainer 💪🏻🐶 Former D1 & Professional Athlete 🏈 Los Angeles, CA📍 The “Ab” Guy 💪🏻
-    location: "United States"
-    followers: 42690
-    engagement: 503
-    commentsToLikes: 0.016395
-    id: ck55ofu1w89re0i11l91u94y4
-    verified: false
-    hashtags: "#core, #coreworkout, #bootyworkout, #model"
-  - username: "nate_weston"
-    fullname: >-
-      Nate Weston
-    bio: >-
-      @TempestFreerunning Pro Athlete 📍 Los Angeles 📺 YouTube⤵️
-    location: "United States"
-    followers: 61585
-    engagement: 890
-    commentsToLikes: 0.015032
-    id: ck14go0m966ih0i19w6tjsnli
-    verified: false
-    hashtags: "#la, #parkour, #freerunning, #vans"
-  - username: "victoria_magrini"
-    fullname: >-
-      • V I C T O R I A •
-    bio: >-
-      Actor | Model | Athlete | Traveler 🌴 Los Angeles | Represented by Daniel Hoff Agency
-    location: "United States"
-    followers: 92638
-    engagement: 746
-    commentsToLikes: 0.017391
-    id: ck8t8d218jzg80j78mjvhg04k
-    verified: false
-    hashtags: "#girlswhoskate, #travel, #emmawatson, #skatepark"
+    hashtags: "#cybexsport"
   - username: "mercadelcameron2024"
     fullname: >-
       CAM The Ankle Collector
     bio: >-
       Basketball Athlete 🏀 #RoadToVarsity Los Angeles 🏙 G.P.A 4.0 Philippians 4:13 🙏🏻 Jesus Loves You👀 🏀Check out my New Youtube Video Below👍🏿
     location: "United States"
-    followers: 194734
-    engagement: 81
-    commentsToLikes: 0.064690
+    followers: 178887
+    engagement: 72
+    commentsToLikes: 0.073663
     id: ckap3s9vd4ce50i78tufr1lmh
     verified: false
-    hashtags: "#repost, #trainwithpurpose, #handzofthefuture, #icompetewithme"
-  - username: "trainwithseanharris"
-    fullname: >-
-      Sean Harris
-    bio: >-
-      los angeles athlete | nasm cpt personal page @sean.lamont 8 week full body program ↙️
-    location: "United States"
-    followers: 29179
-    engagement: 545
-    commentsToLikes: 0.033266
-    id: ckap0qa25rehe0i7838sp9oce
-    verified: false
-    hashtags: "#quarantine, #trainwithseanharris, #fitnessmotivation, #mondaymotivation"
+    hashtags: "#trainwithpurpose, #work, #reels, #love"
   - username: "pjfperformance"
     fullname: >-
       Paul J. Fabritz
     bio: >-
       NBA Performance Specialist|Building Explosive & Durable Athletes|Exercise Scientist|Los Angeles, Ca|Click Link👇 For Vert Code Online Programs + EdgeU
     location: "United States"
-    followers: 521496
-    engagement: 173
-    commentsToLikes: 0.009737
+    followers: 544151
+    engagement: 182
+    commentsToLikes: 0.010425
     id: ck0w3jlahtr0d0i19vr7z18ui
     verified: true
-    hashtags: ""
+    hashtags: "#30days30drills"
   - username: "piotrowskapaulina"
     fullname: >-
       Paulina Piotrowska
     bio: >-
-      Strength and Conditioning COACH / AWF @ryderwear Athlete- code PAULINA Los Angeles, CA 🇵🇱🇺🇸 contact 📩 Piotrowskapaulinamedia@gmail.com
+      BODY FAT REDUCTION, Strength and conditioning COACH. @ryderwear Athlete- code PAULINA Los Angeles, CA 🇵🇱🇺🇸 Contact📩 Piotrowskapaulinamedia@gmail.com
     location: "United States"
-    followers: 10111
-    engagement: 441
-    commentsToLikes: 0.060454
+    followers: 18109
+    engagement: 451
+    commentsToLikes: 0.063642
     id: ck134psdaxm3k0i19o7w2p9kw
     verified: false
-    hashtags: "#coretraining, #weighttraining, #athomeworkout, #ryderwearwomen"
-  - username: "omarzaki0"
+    hashtags: "#goldsgym, #goldsgymvenice, #fitnessmotivation, #coreworkout"
+  - username: "samfaganphoto"
     fullname: >-
-      Omar Zaki
+      Sam Fagan
     bio: >-
-      Striving to make my younger self proud 🎬 SAG Acting, Stunts, VO THE GEEK on @ultimatetagfox Agent: @cleartalentgroup ⬇️ “What If?” Action Comedy ⬇️
+      Fitness photographer, based in LA 🤙🏼 @gtechnology @dsgear @elixicure 👈🏼 support these guys
     location: "United States"
-    followers: 9268
-    engagement: 563
-    commentsToLikes: 0.057590
-    id: ckf5q3fx282600j23dom1v5yb
+    followers: 12788
+    engagement: 238
+    commentsToLikes: 0.019746
+    id: ck5hnwglkoiib0i11ihlwzesj
     verified: false
-    hashtags: "#jump, #freerunner, #athlete, #traceur"
+    hashtags: "#womensbest, #aesthetics, #cleaneating, #gym"
+  - username: "annavladiii"
+    fullname: >-
+      Anna Contortionist
+    bio: >-
+      Obsessed with travel 🧭 @annacontortion2018 work
+    location: "United States"
+    followers: 198978
+    engagement: 469
+    commentsToLikes: 0.020041
+    id: ck9wikdyq2nfw0j780m1g390a
+    verified: false
+    hashtags: "#rhythmicgymnastics, #gymnastics, #performer, #lamodels"
+  - username: "bodybyvenus"
+    fullname: >-
+      VENUS MOORE™️
+    bio: >-
+      🙏🏽 Godschild 🏋🏽‍♀️ LA Celebrity Trainer 🦋 Transformation Specialist 💼 Body By Venus, CEO 🏆Athlete @womensbest @ryderwear @respin
+    location: "United States"
+    followers: 276415
+    engagement: 109
+    commentsToLikes: 0.039838
+    id: ck6u8239pozkp0j71uxqxmz1v
+    verified: false
+    hashtags: "#blessed, #coreworkout, #40isthenew20, #fitnessinspiration"
+  - username: "explicit__sports"
+    fullname: >-
+      explicit__sports
+    bio: >-
+      🔍 Past 〰️ Present All edits are done by 📱 〰️Printing and frame work available 🗯Over 255 athlete likes/comments/messages/followers/reposts
+    location: "United States"
+    followers: 14452
+    engagement: 2910
+    commentsToLikes: 0.010298
+    id: ck9wfajdynz4j0j7826nov2om
+    verified: false
+    hashtags: "#timeschange, #tampabaybuccaneers, #sportsedits, #football"
+  - username: "matttralli5"
+    fullname: >-
+      Matt Tralli
+    bio: >-
+      @DOGPOUND trainer 💪🏻🐶 Former D1 & Professional Athlete 🏈 New York | Los Angeles 📍 NCCPT, PPSC 📚 @celsiusofficial 🔋 EL CONQUISTADOR
+    location: "United States"
+    followers: 53793
+    engagement: 470
+    commentsToLikes: 0.018057
+    id: ck55ofu1w89re0i11l91u94y4
+    verified: false
+    hashtags: "#arms, #core, #coreworkout, #backworkout"
 ---

@@ -1,96 +1,72 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2022
+title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top pole dancers Instagram influencers in Brazil in 2022. Most popular hashtags: #poledancer #poledance #flexibility.
+  Find top pole dancers Instagram influencers in Brazil in 2023. Most popular hashtags: #poledancer #poledance #photography.
 platform: Instagram
-hits: 60
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 60 Instagram influencers like this in Brazil for you to pitch.
+hits: 63
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 63 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "jvmartinsa"
-    fullname: >-
-      João Martins
-    bio: >-
-      📷| Fotógrafo das pole dancer e retratos 📍| Rio de Janeiro, RJ ✉️| Orçamento por DM ou e-mail
-    location: "Brazil"
-    followers: 6180
-    engagement: 2060
-    commentsToLikes: 0.244986
-    id: ck8sybbqikcca0j78yljcv3r1
-    verified: false
-    hashtags: "#arraialdo, #arraialdocabo, #riodejaneiro"
   - username: "littl3hell"
     fullname: >-
       Lais Galdino
     bio: >-
       Pole Dancer & Aerialist ❤️ Owner - @catspoledancestudio 😻 Graduação em Artes Visuais 🎨 Traveler ✈️🌎 (11) 96450-3608 laisperagaldino@gmail.com
     location: "Brazil"
-    followers: 8273
-    engagement: 562
-    commentsToLikes: 0.323610
+    followers: 8257
+    engagement: 449
+    commentsToLikes: 0.160782
     id: ck5zt2v5ezn1o0i1418urhq70
     verified: false
-    hashtags: "#poleart, #poleheeys, #poledancenation, #poledance"
-  - username: "limasilveline"
+    hashtags: "#poleheeys, #poleart, #polerina, #splits"
+  - username: "bibi_babydoll"
     fullname: >-
-      Girl Boss
+      𝓑ibi 𝓑abydoℓℓ   🎀
     bio: >-
-      Mãe. Empresária. Pole Dancer. Livre! 💪🏼 Empowered Woman. 🧜🏼‍♀️ Meu CURSO on-line com desconto do Black November ⬇️ ACESSE O LINK ABAIXO ⬇️
+      CWB 💉 Performer, Youtuber, Pole dancer, Prod. Musical, Corporate Punk Rock VVhore Profissional: bibibabydollcontato@gmail.com Backup: @backup_bibi
     location: "Brazil"
-    followers: 20060
-    engagement: 457
-    commentsToLikes: 0.051056
-    id: ck6tu4tf3eb5f0j711lq4fu1l
+    followers: 25833
+    engagement: 760
+    commentsToLikes: 0.019060
+    id: ck5c99ldzb1dx0i11kg7fihq0
     verified: false
-    hashtags: "#poledancer, #polemaniabr, #poledancenation, #poleart"
-  - username: "renaslicious"
-    fullname: >-
-      R E N A S
-    bio: >-
-      Venus as a boy Owner: @olympoles Brasilian Pole Dancer 🏆 Minha missão é ensinar pole dance e assim fazê-la se reconectar com parte da sua essência.
-    location: "Brazil"
-    followers: 7039
-    engagement: 308
-    commentsToLikes: 0.163050
-    id: ck6tu4ulaebbp0j71dpilbjn2
-    verified: false
-    hashtags: "#maninheels, #gay, #poleclassique, #heelsdance"
+    hashtags: "#flexibilidade, #poledancer, #bibiativistah, #pdmexicana"
   - username: "rafa_0tabu"
     fullname: >-
       Rafaela Cavalcanti
     bio: >-
       Youtuber no canal 0 Tabu Pole dancer ♎ 24 yrs Link para meus vídeos monetizados aqui ⤵️⤵️⤵️
     location: "Brazil"
-    followers: 34486
-    engagement: 395
-    commentsToLikes: 0.016421
+    followers: 35380
+    engagement: 477
+    commentsToLikes: 0.018415
     id: ckaozq6thmxbj0i78mk4tnfhv
     verified: false
-    hashtags: ""
+    hashtags: "#tbt"
+  - username: "bastevanatto"
+    fullname: >-
+      Barbara Stevanatto
+    bio: >-
+      Internacionalista 🌍 Pole dancer 🧚🏻‍♀️ Me aventurando na arte circense 🎪 Participo sendo o mistério do planeta 💫
+    location: "Brazil"
+    followers: 6984
+    engagement: 331
+    commentsToLikes: 0.068298
+    id: ckapaoryvww6z0i78m55utwja
+    verified: false
+    hashtags: "#pdshapes, #poledance, #pdpeacock, #happyvalentinesday"
   - username: "laistaboza"
     fullname: >-
       Lais Taboza
     bio: >-
-      Profissional de Educação Física. Personal | Coach 👊🏽 Lifestyle Fitness • Crossfitter • Pole Dancer
+      Profissional de Educação Física. Personal | Coach 👊🏽 Lifestyle Fitness • Pole Dancer • Crossfitter
     location: "Brazil"
-    followers: 20705
-    engagement: 265
-    commentsToLikes: 0.072592
+    followers: 20592
+    engagement: 324
+    commentsToLikes: 0.064298
     id: ck6ugw02v5hzm0j71tf7hmjdj
     verified: false
-    hashtags: "#polesport, #stayhome, #gymnastics, #poledance"
-  - username: "beatrizjusti_"
-    fullname: >-
-      Beatriz Justi
-    bio: >-
-      @freya_aerodance Pole dancer, bailarina, finjo que faço aéreos e empreendedora.
-    location: "Brazil"
-    followers: 6462
-    engagement: 660
-    commentsToLikes: 0.055007
-    id: ckaoskiplrvgz0i78067ed6x4
-    verified: false
-    hashtags: "#longhair, #ink, #tatuagem, #inked"
+    hashtags: "#poleboxstudio, #polefitness, #fitnessmotivation, #poledance"
   - username: "venusssmodel"
     fullname: >-
       Ágata Balazina
@@ -103,28 +79,52 @@ profiles:
     id: ck6u94dnevfjt0j719tdhbv7m
     verified: false
     hashtags: "#nuartistico, #mundodeoz, #aldeiaoutromundo, #espacateeverywhere"
+  - username: "gikreischer_"
+    fullname: >-
+      𝔊𝔦𝔬𝔳𝔞𝔫𝔫𝔞 𝔎𝔯𝔢𝔦𝔰𝔠𝔥𝔢𝔯 🌻
+    bio: >-
+      📍 021, Brasil • Bailarina/Dançarina ♦️ @kevinochris • Pole Dancer • Maquiadora • Farmacêutica Cosmética • Modelo
+    location: "Brazil"
+    followers: 11268
+    engagement: 574
+    commentsToLikes: 0.037828
+    id: ck6u9qvkkz3zt0j71pc0secvw
+    verified: false
+    hashtags: "#rj40graus, #worktime, #vibes, #dance"
   - username: "teleslaala"
     fullname: >-
       Lala Teles
     bio: >-
-      pole dancer // aerialist 🥇1st exotic generation br - flow 2019 são paulo contato.lalateles@gmail.com
+      pole dancer // aerialist 1st exotic generation br - flow 2019 são paulo contato.lalateles@gmail.com
     location: "Brazil"
-    followers: 6591
-    engagement: 533
-    commentsToLikes: 0.062911
+    followers: 7010
+    engagement: 731
+    commentsToLikes: 0.057819
     id: ck6tu546pecv40j71l11iu8of
     verified: false
-    hashtags: "#acropoesiacaseira"
-  - username: "robertamartinsa"
+    hashtags: "#sundaybumday, #exoticpole, #exoticpoledance"
+  - username: "luisachima"
     fullname: >-
-      Roberta Martins
+      Luisa Chimá
     bio: >-
-      24, RJ, Brasil Pole dancer feminista Sócia instrutora @pinuppolestudio 🏆 Bicampeã Overall Semipro Pole Theatre BR 2020
+      Empresaria exitosa 💵 te enseño todos mis tips para que tu también triunfes💲Esposa 💖 mamá 👶🏻 pole dancer 👯‍♀️
     location: "Brazil"
-    followers: 54064
-    engagement: 584
-    commentsToLikes: 0.024729
-    id: ck5zsr6eaz1jc0i14ni759afi
+    followers: 237684
+    engagement: 78
+    commentsToLikes: 0.047466
+    id: ck5hohc1ppkdd0i11bb1n493d
     verified: false
-    hashtags: ""
+    hashtags: "#strongisthenewsexy, #poledancecolombia, #strongisthenewpretty, #reelsvideo"
+  - username: "limasilveline"
+    fullname: >-
+      Girl Boss
+    bio: >-
+      Mãe. Empresária. Pole Dancer. Livre! 💪🏼 Empowered Woman. 🧜🏼‍♀️ Meu CURSO DE BIQUÍNI DE FITA on-line. ⬇️ ACESSE O LINK ABAIXO ⬇️
+    location: "Brazil"
+    followers: 20238
+    engagement: 431
+    commentsToLikes: 0.042451
+    id: ck6tu4tf3eb5f0j711lq4fu1l
+    verified: false
+    hashtags: "#poledancer, #verao, #sol, #empoweringwomen"
 ---

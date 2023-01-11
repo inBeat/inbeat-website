@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In 2022
+title: Top 10 Chefs TikTok Influencers In 2023
 description: >-
-  Find top chefs TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #duet #chef.
+  Find top chefs TikTok influencers in 2023. Most popular hashtags: #fyp #foryoupage #foryou #trending.
 platform: TikTok
-hits: 1071
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 1071 TikTok influencers like this for you to collaborate.
+hits: 931
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 931 TikTok influencers like this for you to pitch.
 profiles:
   - username: "chefshabba"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       CREATOR CODE: chefshabba #ad KG ON TOP
     location: "United States"
-    followers: 342800
-    engagement: 1640
-    commentsToLikes: 0.014210
+    followers: 341300
+    engagement: 1280
+    commentsToLikes: 0.026201
     id: ckan209lwy45d0i785c50lzpu
     verified: false
-    hashtags: "#fyp, #foryoupage, #foryou, #viral"
-  - username: "dillow24"
+    hashtags: "#warzone, #cod, #fyp, #foryou"
+  - username: "justagurlgenx"
     fullname: >-
-      Dree
+      justagurlgenx
+    bio: >-
+      GenX,chef,mom,🇨🇦 box1488 stpaul T0A3A0 no merch but mail not bills is cooler
+    location: "Canada"
+    followers: 6061
+    engagement: 2364
+    commentsToLikes: 0.278322
+    id: ckbb5pgu6vwkd0j2357x2tau4
+    verified: false
+    hashtags: "#genx, #lifeisgood, #bucketlist, #beentheredonethat"
+  - username: "andipandi2410"
+    fullname: >-
+      Andi
     bio: >-
       🏴󠁧󠁢󠁳󠁣󠁴󠁿 FIFER, SINGER, CHEF, MASSAGE THERAPIST PROUD MUM! 💙❤️💙
     location: "United Kingdom"
-    followers: 9104
-    engagement: 2068
-    commentsToLikes: 0.105086
+    followers: 11400
+    engagement: 1922
+    commentsToLikes: 0.129430
     id: ckacs8glt8ykj0i78ch3tavlk
     verified: false
-    hashtags: "#30s, #funny, #fyp, #scottish"
-  - username: "laufox_"
+    hashtags: "#lol, #homemade, #foodtiktok, #fyp"
+  - username: "sugarpusher"
     fullname: >-
-      Laufox 🦊
+      Ally
     bio: >-
-      💜 Chef mafia mauve 💜 ✨He/Him ✨ ⬇️ Playlists de mes OC ⬇️
-    location: "France"
-    followers: 5639
-    engagement: 2403
-    commentsToLikes: 0.075032
-    id: ck9nnoc84q41o0j78ak1xlwum
-    verified: false
-    hashtags: "#hitoshinsou, #billieeilish, #mha, #mafiableue"
-  - username: "808_tikytokhomie"
-    fullname: >-
-      808_TikyTokHomie
-    bio: >-
-      Aloha 🤙 Mom Hutsle Professional Race Car Photographer Head Chef
+      🍩Pastry Chef 🍫Chocolatier✨Content Creator 📸FOLLOW ME ON IG!
     location: "United States"
-    followers: 25000
-    engagement: 2080
-    commentsToLikes: 0.052788
-    id: ckc7jfx7mqy2e0j23pokod7pj
-    verified: false
-    hashtags: "#friends, #foryou, #momsoftiktok, #gfc"
-  - username: "sugar_pusher"
-    fullname: >-
-      Ally Burnett
-    bio: >-
-      Chocolatier.Pastry chef.Tutorials & sass. Niche but relatable She/her 🏳️‍🌈
-    location: "United States"
-    followers: 105900
-    engagement: 2011
-    commentsToLikes: 0.034867
+    followers: 188500
+    engagement: 849
+    commentsToLikes: 0.034183
     id: ck8z2hf6i5cqh0j78b3sbzzrp
     verified: false
-    hashtags: "#tiktokcooks, #foryou, #spookytreats, #asmr"
-  - username: "avafloflava"
-    fullname: >-
-      avafloflava
-    bio: >-
-      she/they 16 ♐︎ ♌︎ ♒︎ roger waters private chef
-    location: "United States"
-    followers: 21900
-    engagement: 2273
-    commentsToLikes: 0.050997
-    id: cka6pqxhxkmmw0i78w4eiu4f7
-    verified: false
-    hashtags: "#davidgilmour, #ledzeppelin, #nickmason, #pinkfloyd"
-  - username: "juanpatetrae"
-    fullname: >-
-      Juanpatetrae 🔪
-    bio: >-
-      Chef 👨‍🍳 23 años Cali 🇨🇴 Sígueme en Instagram: @juanpatetrae 🔥
-    location: "Colombia"
-    followers: 81500
-    engagement: 1958
-    commentsToLikes: 0.032923
-    id: ck9e1mykdbg5k0j78aknue4ek
-    verified: false
-    hashtags: "#xyzbca, #parati, #foryou, #fyp"
-  - username: "chefethanb"
-    fullname: >-
-      Ethan
-    bio: >-
-      not actually a chef
-    location: "United States"
-    followers: 197800
-    engagement: 1726
-    commentsToLikes: 0.034397
-    id: ck81s3d1opp000j783figu5y2
-    verified: false
-    hashtags: "#halloweencandy, #truff, #foodlover, #comidamexicana"
-  - username: "okaychef"
+    hashtags: "#lastcrumbcookies, #unboxing, #fancysprinkles, #icecream"
+  - username: "thehermitdruid"
     fullname: >-
       Nathan Jones
     bio: >-
       34🏳️‍🌈🇨🇦He/Him 20yr career chef sharing what I know Cooking & D&D Links👇🏻
     location: "Canada"
-    followers: 55300
-    engagement: 1661
-    commentsToLikes: 0.051315
+    followers: 105500
+    engagement: 915
+    commentsToLikes: 0.058103
     id: ckb0htvff9dho0j2388r3igv9
     verified: false
-    hashtags: "#tabletopgames, #stitch, #chef, #dungeonsanddragons"
+    hashtags: "#stitch, #dungeonsanddragons, #dnd5e, #cedh"
+  - username: "laufox_"
+    fullname: >-
+      Laufox 🦊
+    bio: >-
+      💜 Chef Mauve 🦌 Chef Black Fiannas ✨He / They ✨ Duet account : @akefox
+    location: "France"
+    followers: 8542
+    engagement: 2155
+    commentsToLikes: 0.071228
+    id: ck9nnoc84q41o0j78ak1xlwum
+    verified: false
+    hashtags: "#etouraptor, #pokemoncosplay, #humanpokemon, #chromacross"
   - username: "abdulahad.ck"
     fullname: >-
       Abdul Ahad Ck
     bio: >-
       7⃣3⃣❤0⃣6⃣4⃣7⃣3⃣3⃣❤2⃣8⃣ chef ❤ #mytdreams #realhunters
     location: "United States"
-    followers: 128700
-    engagement: 4120
-    commentsToLikes: 0.179233
+    followers: 128600
+    engagement: 4047
+    commentsToLikes: 0.175883
     id: ckbkpywsek7br0j23k4ez4lr5
     verified: false
-    hashtags: "#kattasupport, #love, #1m, #chef"
+    hashtags: "#1m, #cheflife, #kattasupport, #foryoupage"
+  - username: "rahul.arora.1982"
+    fullname: >-
+      Rahul Arora
+    bio: >-
+      Chef, entrepreneur from kolkata, #BitchyBawarchi #chub #bear 😍😍❤️❤️ #punjabi
+    location: "India"
+    followers: 2967
+    engagement: 2447
+    commentsToLikes: 0.320726
+    id: ckcjg5p6rbfrk0j234y1zc4hh
+    verified: false
+    hashtags: "#foryou, #viral, #duet, #dance"
+  - username: "sajeb08"
+    fullname: >-
+      MD SAJEB
+    bio: >-
+      🇧🇩 MD.SAJIB KHAN.❤️ LOVE BANGLADASH.🇸🇦 🕋🤲CHEF IN RESTAURANT.🇸🇦🥘🍜🍔🍺🍾
+    location: "Saudi Arabia"
+    followers: 1300000
+    engagement: 1354
+    commentsToLikes: 0.035124
+    id: ckavkfbpwtck00j23rp23q3h0
+    verified: false
+    hashtags: "#sajeb, #duet"
+  - username: "kattholladay"
+    fullname: >-
+      Katt Holladay
+    bio: >-
+      A Chef and Dancer! Whatz Ya Moves?! Cooked with a KISS 💋! Follow My IG
+    location: "United States"
+    followers: 21100
+    engagement: 1033
+    commentsToLikes: 0.184569
+    id: ckdtg6772w7ma0j23jf3zh7nk
+    verified: false
+    hashtags: "#danceforpeace, #trendy, #whatzyamoves, #fyp"
 ---

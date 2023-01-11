@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Bali In 2022
+title: Top 10 Yoga Instagram Influencers In Bali In 2023
 description: >-
-  Find top yoga Instagram influencers in Bali in 2022. Most popular hashtags: #bali #yoga #yogateacher #yogapractice.
+  Find top yoga Instagram influencers in Bali in 2023. Most popular hashtags: #yoga #bali #indonesia #nature.
 platform: Instagram
-hits: 84
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 84 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 41
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 41 Instagram influencers like this in Bali, Indonesia for you to pitch.
 profiles:
-  - username: "kattiyoga"
+  - username: "agrobacter"
     fullname: >-
-      KATTI 🌺YOGA & TRAVEL
+      Mert Can
     bio: >-
-      🇨🇦🇭🇰 RYT200 • RPYT60 (pre/post natal) Yoga Teacher & Student 🧘🏽‍♀️ DM me for privates 💫 📧: info@kattiyoga.com 📍Hong Kong
+      Film and Digital Photographer
     location: "Indonesia"
-    followers: 21574
-    engagement: 451
-    commentsToLikes: 0.055101
-    id: ck0u88gz96qez0i19u2sitjam
+    followers: 15117
+    engagement: 373
+    commentsToLikes: 0.034135
+    id: ck0w44ng2wsjz0i1984ldo0ku
     verified: false
-    hashtags: "#travelingyogi, #dailyyoga, #yogajournal, #yogaeverydamnday"
-  - username: "ikadewiyoga"
+    hashtags: "#coffeetime, #coffee, #tb, #coffeelover"
+  - username: "stephbaier"
     fullname: >-
-      I K A - D E W I 💫
+      Stephanie Baier | Bali Model
     bio: >-
-      🌴 𝗬𝗼𝗴𝗮 𝘅 𝗠𝗼𝘃𝗲𝗺𝗲𝗻𝘁 𝘅 𝗦𝘁𝗿𝗲𝘁𝗰𝗵𝗶𝗻𝗴 𝘅 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 🌴 DM for 1:1 private class (all level) 🌴YTT200 in Bali @jogayogatraining 🌴Practice with me 👇🏼
+      🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
     location: "Indonesia"
-    followers: 40358
-    engagement: 252
-    commentsToLikes: 0.044287
-    id: ck6tigjim0odr0j710kenvkke
+    followers: 6077
+    engagement: 641
+    commentsToLikes: 0.039596
+    id: ck8syl5qql5jw0j781h8foqv1
     verified: false
-    hashtags: "#yogafitwithfits, #dontbetooserious, #mindfulliving, #happyyogahappyme"
-  - username: "alex.trickoso"
+    hashtags: "#fam, #tropicalchristmas, #mindsetiseverything, #familytime"
+  - username: "robmananquil"
     fullname: >-
-      Alex Trickoso
+      r o b m n n q l
     bio: >-
-      Cirque du soleil “VOLTA" 🎪 Tricking / Freerun athlete. Creative 🎥 📸 YouTube 👇🏻
+      ⚡️Always grateful for our time together⚡️ 📍Bali, Indonesia . Yoga ~ Music ~ God . . Deeply honored to serve, guide and be with you🙏🏻
     location: "Indonesia"
-    followers: 12075
-    engagement: 620
-    commentsToLikes: 0.039271
-    id: ck6trp2oi09cl0j71vdzvp544
+    followers: 52543
+    engagement: 102
+    commentsToLikes: 0.010147
+    id: ck6tvdisqlmb40j718vaikhc1
     verified: false
-    hashtags: "#parkour, #baliwaterfall, #balicili, #cliffdiving"
-  - username: "karina.kalilah"
+    hashtags: "#godsgift, #nature, #covid19, #bali"
+  - username: "ibuteko"
     fullname: >-
-      Kalilah - Rebirthing Alchemist
+      Endah
     bio: >-
-      𝕀 𝕒𝕔𝕥𝕚𝕧𝕒𝕥𝕖 𝕪𝕠𝕦 𝕥𝕠 𝕝𝕚𝕧𝕖 𝕒 𝕗𝕦𝕝𝕝𝕪 𝕖𝕞𝕡𝕠𝕨𝕖𝕣𝕖𝕕 𝕝𝕚𝕗𝕖 💪 Breathwork | Sacred Sounds | Courses, Trainings & Retreats | Embodied Movement 📍 Uluwatu, Bali.
+      Yogi Certified, Climber, Handmade maker, Tea lover 🧘‍♀️🧗‍♀️✂️🍵 #namastendah It'll turn out all right in the end. ~Mrs. Potts~
     location: "Indonesia"
-    followers: 7171
-    engagement: 399
-    commentsToLikes: 0.104883
-    id: ck5c8jgsr9m8v0i11ln05vxoz
+    followers: 4171
+    engagement: 712
+    commentsToLikes: 0.043320
+    id: ck137r5s6cywl0i19slks0zek
     verified: false
-    hashtags: "#healingtrauma, #yogaeverydamnday, #consciousness, #lovethislife"
-  - username: "juliyayuu"
+    hashtags: "#namasteendah, #bali, #yogajakarta, #yoga"
+  - username: "kels.vaughne"
     fullname: >-
-      Julia Arifova
+      ❀ kels ❀
     bio: >-
-      yoga teacher Bali | Moscow yoga online | private retreats yoga course ‘BALANCE’ | free yoga LIVE YOGA⤵️
+      based in ➳ bali 🌴 i like making videos 🎥 kels@camandkels.com 📧 vlogs & things ⇩
     location: "Indonesia"
-    followers: 7079
-    engagement: 658
-    commentsToLikes: 0.025366
-    id: ck5c9vht1c77b0i117il67xxe
+    followers: 17592
+    engagement: 508
+    commentsToLikes: 0.049081
+    id: ckap84b8umrt40i78hks2z4an
     verified: false
-    hashtags: ""
-  - username: "yogacaron"
+    hashtags: "#tripofwonders, #wonderfulindonesia, #indonesia, #bintanisland"
+  - username: "dylanwerneryoga"
     fullname: >-
-      Caron Christison
+      Dylan Werner
     bio: >-
-      🧘‍♀️Lead Teacher+Marketing @highlandyoga 💕Ambassador Codes @freskincare CaronYoga, @mandukayoga, @mrproteincoffee Caron20 🤗Online Classes+Workshops
+      Yoga Teacher Living in Bali 🇮🇩 My book “The Illuminated Breath” is available on Amazon and Kindle!
     location: "Indonesia"
-    followers: 2720
-    engagement: 560
-    commentsToLikes: 0.079546
-    id: ck6txjj4vy6nq0j7162ibndn7
-    verified: false
-    hashtags: "#yogaphotography, #namaste, #yogateacher, #smile"
-  - username: "exhaleyogaretreats"
+    followers: 813817
+    engagement: 298
+    commentsToLikes: 0.016796
+    id: ck5pyvzy3y2ig0i11xgtmxjmz
+    verified: true
+    hashtags: "#handstand, #backbend, #yoga, #expo2020"
+  - username: "iampaulauchoa"
     fullname: >-
-      Exhale Yoga Retreats
+      | Paula Uchoa | Vegan Chef |
     bio: >-
-      Bringing together likehearted people, creating an empowering sense of connection & inspiring profound transformation. #yogaretreat & #teachertraining
+      ✼ reclaim your health ✊🏼 🌱 Vegan Chef ⋆ Soul Surfer ⋆ Yogini ⋆ Health Coach • wild living 🌊 @flklrsurf ♥ ✨ Bali 🌺
     location: "Indonesia"
-    followers: 39718
-    engagement: 88
-    commentsToLikes: 0.117396
-    id: ck6udar18k0x90j71ei0f2dhp
+    followers: 6517
+    engagement: 831
+    commentsToLikes: 0.096304
+    id: ck9h9mg4p92cc0j78v27dfacv
     verified: false
-    hashtags: "#meditation, #followyourheart, #tropicalvibes, #yogaretreat"
-  - username: "mestre.xuxo"
+    hashtags: "#healthcoach, #veganchef, #iinhealthcoach, #traveler"
+  - username: "zilmizola"
     fullname: >-
-      Mestre.xuxo
+      Ahmad Ilmi, SE // LOMBOK 🌴
     bio: >-
-      • EnjoyYourself founder • @movement.connection • 146 traveled countries/ países • workshops, retreats,coach #mma #ufc #artist Wechat#mestrexuxo
+      NATURE, LUXURY RESORT AND VILLA TRIP PLANNER, FREELANCE GUIDE IN LOMBOK 🌴 WA : +6287864503855 #plantslover #badmintonlover #lombok #bali #indonesia
     location: "Indonesia"
-    followers: 60011
-    engagement: 257
-    commentsToLikes: 0.032783
-    id: ck5zqe5usufw00i143bnnb053
+    followers: 63159
+    engagement: 197
+    commentsToLikes: 0.078658
+    id: ck6tzf3ub9bj70j71h99z6tdu
     verified: false
-    hashtags: "#life, #enjoyyourself, #mestrexuxo, #travel"
-  - username: "aloharielfung"
+    hashtags: "#beautifuldestinations, #lombok, #zizoonvacation, #luxurylifestyle"
+  - username: "status30detik"
     fullname: >-
-      DEAF Traveler | Ariel Fung
+      Status30Detik
     bio: >-
-      【﻿Ｔａｋｅ　ａ　ｂｒｅａｋ】
+      😆Hanya Akun hiburan semata 🎥Support terus ya👍Like dan Follow 😊Semoga yang Follow Like dan Komen Masuk Surga Amin.🙏 📲 PP Murah DM 📩
     location: "Indonesia"
-    followers: 4617
-    engagement: 1620
-    commentsToLikes: 0.123967
-    id: ck8t9hqxoo4we0j78jt8xwrz8
+    followers: 166787
+    engagement: 91
+    commentsToLikes: 0.009185
+    id: ck9hay171ejww0j78u8uhae7x
     verified: false
-    hashtags: "#traveltheworld, #igtraveller, #balinature, #explorebali"
-  - username: "meghancurrieyoga"
+    hashtags: "#sobatambyar, #sajakrindu, #motivasihidup, #indopostgram"
+  - username: "pstorejakartta"
     fullname: >-
-      Love Every Moment
+      Pstore Jakarta
     bio: >-
-      Juicy movement, honest nonsense, loving wisdom @is.a.belle.moon NEW 5 Day Online Intensive "Slow Motion Potion” OCT 26-30 Info and Register 👇🏽
+      •HP PEJABAT HARGA MERAKYAT• Melayani Produk: -HP -LAPTOP -DLL ♡DM KAMI UNTUK INFO LEBIH LANJUT♡
     location: "Indonesia"
-    followers: 155601
-    engagement: 159
-    commentsToLikes: 0.029879
-    id: ck14h1nb983h10i19rkp74bgb
+    followers: 26
+    engagement: 1117403
+    commentsToLikes: 0.007051
+    id: ck8t8qmojleq90j78793ndnf1
     verified: false
-    hashtags: "#breathisboss, #meghancurrieteachertraining, #chairyoga, #yoga"
+    hashtags: "#quotesindonesia, #bajinganberkelas, #videohits, #videokeren"
 ---

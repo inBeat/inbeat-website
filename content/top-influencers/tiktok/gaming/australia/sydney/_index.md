@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Sydney In 2022
+title: Top 10 Gaming TikTok Influencers In Sydney In 2023
 description: >-
-  Find top gaming TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #foryou #duet #sydney.
+  Find top gaming TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #australia #gaming #sydney.
 platform: TikTok
 hits: 6
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 6 TikTok influencers like this in Sydney, Australia for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in Sydney, Australia for you to collaborate.
 profiles:
+  - username: "jasmine_walia_"
+    fullname: >-
+      jass_walia
+    bio: >-
+      yamunanagar to sydney
+    location: "Australia"
+    followers: 7983
+    engagement: 1045
+    commentsToLikes: 0.000000
+    id: ckb9s6c5op4gp0j23oo7jqjk5
+    verified: false
+    hashtags: "#tiktoksydney, #sydney, #internationalstudent, #adelaide"
   - username: "stephhodges1994"
     fullname: >-
       Steph Hodges
     bio: >-
       Wife & Mum of 2 boys! 👨‍👩‍👦‍👦 2 dogs 🐶🐕 Sydney, Australia 🇦🇺
     location: "Australia"
-    followers: 12200
-    engagement: 783
-    commentsToLikes: 0.024527
+    followers: 12000
+    engagement: 1040
+    commentsToLikes: 0.017700
     id: cka0p1gbn692d0i7868891c0n
     verified: false
-    hashtags: "#butterfly, #trending, #food, #foryoupage"
-  - username: "ubereggo"
-    fullname: >-
-      Selina
-    bio: >-
-      povs, mc content, n simping Check out the twitch!!
-    location: "Australia"
-    followers: 5239
-    engagement: 2398
-    commentsToLikes: 0.061801
-    id: ckbkecqdq50sb0j23j3f6k3ok
-    verified: false
-    hashtags: "#pov, #transition, #duet, #minecraft"
+    hashtags: "#funny, #trending, #fyp, #love"
   - username: "kayywuerf"
     fullname: >-
       Kaymie Wuerfel
     bio: >-
-      American in Syd🇦🇺 Be Kind 🌸 Get Your PJs👇🏻
+      American in Syd🇦🇺 IG💖👆🏻 Collab? kaymie.info@gmail.com
     location: "Australia"
-    followers: 108800
-    engagement: 1578
-    commentsToLikes: 0.029163
+    followers: 135100
+    engagement: 1184
+    commentsToLikes: 0.022742
     id: cka0haxnz8drw0i78fudcrv75
     verified: true
-    hashtags: "#america, #aussie, #sydney, #foryou"
-  - username: "mikeyrobert_"
+    hashtags: "#ad, #foryou, #australia, #aussielife"
+  - username: "calmettelahoud"
     fullname: >-
-      mikeyrobert_
+      calmettelahoud
     bio: >-
-      • Dancer | DJ | & wannabe comedian 🤷🏾‍♂️ • MEL/SYD 🚩
+      
     location: "Australia"
-    followers: 37000
-    engagement: 693
-    commentsToLikes: 0.028986
-    id: ckavht308pt1q0j23nkldr8bt
+    followers: 63500
+    engagement: 431
+    commentsToLikes: 0.028915
+    id: ckb9hcnnc6uxv0j23lpxfgwhe
     verified: false
-    hashtags: "#sydney, #itbelikethat, #comedy, #tiktokaustralia"
-  - username: "shak.tv"
+    hashtags: "#funny, #music, #comedy, #gag"
+  - username: "alexrbsn"
     fullname: >-
-      Shak.TV
+      Alex the Lion 🦁
     bio: >-
-      here to entertain for your entertainment Follow IG & Sub to YouTube for more
+      Parkour Comedy Plant Athlete Syd, Au 👇 Business 👇 lucy@bornbredtalent.com
     location: "Australia"
-    followers: 418300
-    engagement: 1505
-    commentsToLikes: 0.006871
-    id: ck9n4wpmz624t0j784vbpn6so
-    verified: false
-    hashtags: "#eshays, #eshay, #lad, #straya"
+    followers: 804300
+    engagement: 885
+    commentsToLikes: 0.007627
+    id: ck80ods4yh48j0j789kmgo7k1
+    verified: true
+    hashtags: "#adventure, #athlete, #ad, #chase"
   - username: "wanderingjenkins"
     fullname: >-
       Wandering Jenkins
     bio: >-
       www.wanderingjenkins.home.blog Travel Blogging Parents-To-Be
     location: "Australia"
-    followers: 96500
-    engagement: 367
-    commentsToLikes: 0.010586
+    followers: 94400
+    engagement: 389
+    commentsToLikes: 0.009699
     id: ck8kd34jh40m80j788bn0elvd
     verified: false
-    hashtags: "#fyp, #india, #sunrise, #foryourpage"
+    hashtags: "#sunrise, #australia, #newborn, #india"
   - username: "nonstopclm"
     fullname: >-
       nonstopclm
     bio: >-
       Gaming Vibes Thanks for all the support 🥳 Twitch: nonstopclm Go follow my insta
     location: "Australia"
-    followers: 4970
-    engagement: 1717
-    commentsToLikes: 0.102349
+    followers: 5301
+    engagement: 1242
+    commentsToLikes: 0.052833
     id: ckbr2hllaj84a0j236oc8cugb
     verified: false
-    hashtags: "#carxdriftracingonline, #forza, #fh, #fh4"
-  - username: "crow0015"
+    hashtags: "#carxdrift, #forza, #fh, #forzahorizon"
+  - username: "lukeerwin23"
     fullname: >-
-      crow0015
+      lukeerwin23
     bio: >-
-      20 Trans girl 🖤 love gaming, cars, anime Ønlyf4ns: crow.0015
+      Subscribe to my gaming channel 😜
     location: "Australia"
-    followers: 46200
-    engagement: 1442
-    commentsToLikes: 0.066644
-    id: ckbwec9vv1kj10j23avdrjqm9
-    verified: false
-    hashtags: "#replytocomments, #comedy, #jdm, #fyp"
-  - username: "joshb42"
+    followers: 1500000
+    engagement: 753
+    commentsToLikes: 0.014825
+    id: ckbr0wkuzi4880j23huh6blkn
+    verified: true
+    hashtags: "#cars, #jdmlife"
+  - username: "_tacaz_"
     fullname: >-
-      Josh
+      TACAZ
     bio: >-
-      Age: 22 Australian 🇦🇺 Gaming/Comedy/Nerd Duets are Welcomed 👥
+      TACAZ GAMING www.facebook.com/tacazvn PUBG ID 5545342200
     location: "Australia"
-    followers: 3782
-    engagement: 1142
-    commentsToLikes: 0.041668
-    id: ck9ke96ghxu4x0j78f15a8oxz
+    followers: 23800
+    engagement: 720
+    commentsToLikes: 0.000000
+    id: ckb16jwswu2hp0j2325i023p4
     verified: false
-    hashtags: "#duet, #lol, #foryou, #funny"
-  - username: "superretroland"
+    hashtags: "#pubgfan, #tiktokkorea, #pubgpro, #tacaz"
+  - username: "williamalexandercraig"
     fullname: >-
-      Lewis
+      Will Craig
     bio: >-
-      Gaming Technology & Emulation superretrolandxxx@gmail.com 👇Products/Services👇
+      I just want to make cool stuff Anything goes (game) availiable for download ⬇️
     location: "Australia"
-    followers: 37500
-    engagement: 523
-    commentsToLikes: 0.034120
-    id: ckd6i3bu3apa60j236lcmre15
+    followers: 12500
+    engagement: 1971
+    commentsToLikes: 0.092969
+    id: ckaftshpv6rg90i78njqzf6dv
     verified: false
-    hashtags: "#retroidpocket2, #myrecommendation, #pc, #raspberrypi4"
+    hashtags: "#indiegamedev, #williamgame, #gamedevelopment, #gamedeveloper"
 ---

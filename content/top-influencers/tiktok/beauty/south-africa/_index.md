@@ -1,72 +1,96 @@
 ---
-title: Top 10 Beauty TikTok Influencers In South Africa In 2022
+title: Top 10 Beauty TikTok Influencers In South Africa In 2023
 description: >-
-  Find top beauty TikTok influencers in South Africa in 2022. Most popular hashtags: #duet #seemeontrace #viral #tiktoksouthafrica.
+  Find top beauty TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #foryoupage #makeup #foryou.
 platform: TikTok
-hits: 49
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 49 TikTok influencers like this in South Africa for you to collaborate.
+hits: 54
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 54 TikTok influencers like this in South Africa for you to work with.
 profiles:
   - username: "sandycorn_101"
     fullname: >-
       Sandy 🦄
     bio: >-
-      💄 Beauty & Lifestyle 🦄 Anime & KDrama fan 🇿🇦 Link to my YouTube Channel👇🏽
+      💄 Beauty & Lifestyle 🌸 🇿🇦 Anime & KDrama fan Link to my YouTube👇🏽
     location: "South Africa"
-    followers: 92900
-    engagement: 1149
-    commentsToLikes: 0.022299
+    followers: 108000
+    engagement: 1042
+    commentsToLikes: 0.021152
     id: cka0s3owajr3x0i78k9cwj64w
     verified: false
-    hashtags: "#mzansi, #tiktoksa, #titkoksa, #makeup"
-  - username: "itsbruzie"
+    hashtags: "#makeup, #tiktoksouthafrica, #valentinesday2021, #stitch"
+  - username: "shewolfsa"
     fullname: >-
-      Bruzie
+      Hannah Kruyer
     bio: >-
-      Humour - Beauty - Fun I’m a cool wife and mom #breeziesquad Cape Town 🇿🇦
+      Husky Mother Too old for TikTok Check out my IG for beauty things ✌🏻
     location: "South Africa"
-    followers: 39800
-    engagement: 1307
-    commentsToLikes: 0.021825
-    id: ck8p0u1ncid5p0j7822875yu0
+    followers: 3683
+    engagement: 1318
+    commentsToLikes: 0.035594
+    id: ck9glnj0wp5j10j78esl50e7q
     verified: false
-    hashtags: "#meonmyway, #seemeontrace, #bestmzansimemer, #viral"
+    hashtags: "#makeuptransition, #makeupinspo, #glitter, #foryoupage"
   - username: "siyabunny"
     fullname: >-
       Siyanda Bani
     bio: >-
-      Fashion, Beauty, Lifestyle & Travel And fun 🇿🇦
+      Fashion, Beauty, Lifestyle, Travel And fun 🇿🇦
     location: "South Africa"
-    followers: 61600
-    engagement: 580
-    commentsToLikes: 0.011028
+    followers: 103100
+    engagement: 552
+    commentsToLikes: 0.012230
     id: ck9k9olv9dzh60j78fgxhi9n3
     verified: false
-    hashtags: "#foryoupage, #fyp, #covid19, #fashion"
-  - username: "itzcands"
+    hashtags: "#fyp, #foryoupage, #fypage, #fashion"
+  - username: "kandyslife"
     fullname: >-
-      Candice ;)
+      Kandy
     bio: >-
-      idk anymore
+      DANCE 💃 FASHION 👗 BEAUTY 💄 Married 💍 Dog mom 🐶
     location: "South Africa"
-    followers: 173700
-    engagement: 2209
-    commentsToLikes: 0.030822
-    id: ck978grmd7wvg0j78yyqurpn3
-    verified: true
-    hashtags: "#tiktoksa, #greenscreen, #fy, #fyp"
-  - username: "makgantlela"
+    followers: 20900
+    engagement: 560
+    commentsToLikes: 0.028305
+    id: ck9gtpy8qnsyb0j78js37bl1k
+    verified: false
+    hashtags: "#dancechallenge, #rakeitup, #foryou, #dance"
+  - username: "addfashion"
     fullname: >-
-      Makgantlela
+      cutegirls
     bio: >-
-      Hey😁🌻 DMs are open🌈🔥 IG: makgantlela Can we get to 5k on IG?
+      🛒👇
     location: "South Africa"
-    followers: 569900
-    engagement: 1483
-    commentsToLikes: 0.026655
-    id: ckbb6hfd1wk9h0j23b8cg9xal
-    verified: true
-    hashtags: "#dreadedgurl, #dreadednation, #seemeontrace, #roseygang"
+    followers: 1900000
+    engagement: 339
+    commentsToLikes: 0.006952
+    id: ck85cin0a1u140j7828ujstlz
+    verified: false
+    hashtags: "#foryou, #fyp, #beautiful, #makeup"
+  - username: "roziekeys"
+    fullname: >-
+      Rozanne
+    bio: >-
+      #thementalcrew #DTx2fam / #Spiritwalkers #Outcastsfam #cringecoalition married
+    location: "South Africa"
+    followers: 5753
+    engagement: 2309
+    commentsToLikes: 0.262354
+    id: ckcjm9dguetu70j23oyd4k4tc
+    verified: false
+    hashtags: "#duet, #spiritwalkers, #viral, #foryoupage"
+  - username: "queensqueeze"
+    fullname: >-
+      Nicole
+    bio: >-
+      You're amazing #squeezersquadgratitude @tiktokrecce ❤️💍 Bigo ID: QueenSqueeze
+    location: "South Africa"
+    followers: 6701
+    engagement: 1649
+    commentsToLikes: 0.066719
+    id: ckbbgsa435cve0j232tmivc3b
+    verified: false
+    hashtags: "#relatable, #lipsync, #squeezersquadgratitude, #duet"
   - username: "bussylips.comm"
     fullname: >-
       Seth
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.053275
     id: ckcpr6ix4kuur0j2382uwnadw
     verified: false
-    hashtags: "#boostyourmood, #tiktok, #foryou, #xyzbca"
-  - username: "deborah__darling"
+    hashtags: "#greenscreenvideo, #boostyourmood, #xyzbca, #petsoftiktok"
+  - username: "aesthetically.anything"
     fullname: >-
-      Deborah Chambers 
+      ✨🌞❤️
     bio: >-
-      I’m 58 and much too old to be on TikTok 🤷‍♀️
+      <3 love yall sm Black lives still matter
     location: "South Africa"
-    followers: 82600
-    engagement: 1096
-    commentsToLikes: 0.041176
-    id: cka0o6tuh2jpm0i78b7qm9gtx
+    followers: 65700
+    engagement: 2015
+    commentsToLikes: 0.034574
+    id: ckbey0kqiijeu0j238nnfmc18
     verified: false
-    hashtags: "#tiktoksouthafrica, #nevertoolate, #silverhair, #embraceyourage"
-  - username: "angela.sa"
+    hashtags: "#foru, #spontaneousthings, #greenscreenvideo, #zodiacsigns"
+  - username: "daylan_fabiano"
     fullname: >-
-      Angela 💛
+      F A B I A N O
     bio: >-
-      TG🎁: @nabilmolai @...skittles..char @andrepepler kerneelsjoubert @byron_preto
+      Hit me on insta 👆🏼 Self taught MUA Model 96260
     location: "South Africa"
-    followers: 223500
-    engagement: 1439
-    commentsToLikes: 0.061822
-    id: ck8tu71dfsd9r0j78aaeblcos
-    verified: true
-    hashtags: "#angesquad, #duet, #seemeontrace, #comedy"
-  - username: "coritia_s"
-    fullname: >-
-      Coritia
-    bio: >-
-      21 🇿🇦 I can’t believe I hit 45k 🥺 DM’s open for ideas or collabs ♥️
-    location: "South Africa"
-    followers: 45300
-    engagement: 966
-    commentsToLikes: 0.045918
-    id: ckd0ud75jjolu0j234s2zu4k0
+    followers: 70900
+    engagement: 1271
+    commentsToLikes: 0.058241
+    id: ckdi0kaen5m9z0j23k6t0lhjv
     verified: false
-    hashtags: "#comedytiktok, #halloweenmakeup, #fypsa, #bodyconfidence"
-  - username: "ghostell97"
-    fullname: >-
-      ChristellDerwigArt
-    bio: >-
-      Level 23🇿🇦. Photographer📸 random weirdo👻 Biker🛵 Gamer🎮 Artist🎨
-    location: "South Africa"
-    followers: 5623
-    engagement: 1338
-    commentsToLikes: 0.056256
-    id: ckcort1g07pmn0j23ndewm7ow
-    verified: false
-    hashtags: "#couple, #design, #cute, #duet"
+    hashtags: "#foryoupage, #fyp, #lgbtq, #boysinmakeup"
 ---

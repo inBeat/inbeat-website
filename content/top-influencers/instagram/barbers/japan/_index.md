@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Japan In 2022
+title: Top 10 Barbers Instagram Influencers In Japan In 2023
 description: >-
-  Find top barbers Instagram influencers in Japan in 2022. Most popular hashtags: #barber #barbershop #tokyo #vintage.
+  Find top barbers Instagram influencers in Japan in 2023. Most popular hashtags: #barber #menshair #barbershop #mensfashion.
 platform: Instagram
-hits: 21
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Japan for you to work with.
+hits: 15
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 15 Instagram influencers like this in Japan for you to pitch.
 profiles:
-  - username: "bigman_nobu"
+  - username: "metanastis_panagiotis"
     fullname: >-
-      延陽介
+      💈♠️𝕿𝖍𝖊 𝕹𝖔𝖙𝖔𝖗𝖎𝖔𝖚𝖘 𝕾𝖈𝖚𝖒𝖇𝖆𝖌♠️💈
     bio: >-
-      ご予約はDMかこちらTEL03-3652-9944／LINE@🆔👉@sjm5812l／毎週月火定休日／予約優先／定休日に連絡を頂ける方はTEL以外で／東京都葛飾区新小岩1-12-10／#床屋／#barber／#フェード／#スキンフェード/#濡れパン／#緩パン／#新小岩／#ジェリラ／#gerilla
+      📍Owner @the_rabbit_hole_barber_shop 📍Modern barber
     location: "Japan"
-    followers: 7208
-    engagement: 576
-    commentsToLikes: 0.004265
-    id: ckf5vb9t1nyul0j23fka06e3p
+    followers: 13556
+    engagement: 691
+    commentsToLikes: 0.025897
+    id: ck9hbhmwygvd10j78k60glzpe
     verified: false
-    hashtags: "#zorn, #barber, #crop, #punch"
-  - username: "mr.brothers_cutclub"
+    hashtags: "#follow, #art, #mensfashion, #hairdressing"
+  - username: "tufavoritobarber"
     fullname: >-
-      MR.BROTHERS CUT CLUB
+      By: ABEL - Tuty 🇩🇴
     bio: >-
-      💈Classic Style Barbershop💈 Oldschool Haircuts & Hot Towel Shaves Find us here! ✂Harajuku ✂Harajuku2nd ✂Nakameguro ✂Osaka Reservations by ☎or our web
+      𝐈 𝐥𝐨𝐯𝐞 𝐣𝐞𝐬𝐮𝐬 💎"𝐍𝐮𝐞𝐬𝐭𝐫𝐚 𝐮́𝐧𝐢𝐜𝐚 𝐲 𝐯𝐞𝐫𝐝𝐚𝐝𝐞𝐫𝐚 𝐩𝐫𝐨𝐦𝐨𝐜𝐢𝐨́𝐧 𝐞𝐬 𝐞𝐥 𝐛𝐮𝐞𝐧 𝐭𝐫𝐚𝐛𝐚𝐣𝐨"💈✂️❤️"𝐄𝐥 𝐁𝐚𝐫𝐛𝐞𝐫𝐨 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨 𝐝𝐞 𝐭𝐮 𝐛𝐚𝐫𝐛𝐞𝐫𝐨 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨" 🦍🙏🏻𝟖𝟐𝟗𝟔𝟓𝟐𝟖𝟐𝟗𝟗" 🦍 @lyanjdad
     location: "Japan"
-    followers: 62823
-    engagement: 144
-    commentsToLikes: 0.001163
-    id: ck0w56m2r25ba0i1948cma66p
+    followers: 36242
+    engagement: 202
+    commentsToLikes: 0.063682
+    id: ck0w4qaiszv7x0i19hx38nfq5
     verified: false
-    hashtags: "#classic, #vintage, #japan, #mizutaniscissors"
+    hashtags: "#labebe, #barberlove, #barberrespect, #barberporn"
   - username: "mrpotatohead59"
     fullname: >-
-      Tomoya Nishimori/MR.BROTHERS
+      Tomoya Nishimori
     bio: >-
-      MR.BROTHERS/BROSH/MEN'S CUT BIBLE/ELEMENT
+      @mr.brothers_cutclub @brosh.jp
     location: "Japan"
-    followers: 19066
-    engagement: 237
-    commentsToLikes: 0.007000
+    followers: 20459
+    engagement: 295
+    commentsToLikes: 0.006761
     id: ck13cdzcczw2s0i19do8ucedp
     verified: false
-    hashtags: "#barbershop, #hold, #mrbrothers, #barberlife"
+    hashtags: "#barber, #menshair, #bloodyangleosakatong, #mizutaniscissors"
   - username: "kenshi098"
     fullname: >-
       Kenshi Shiroma
     bio: >-
-      MR.BROTHERSCUTCLUB 原宿本店 　東京都渋谷区神宮前2-31-8 ☎︎03-6721-1774
+      MR.BROTHERSCUTCLUB 原宿本店 東京都渋谷区神宮前2-31-8 ☎︎03-6721-1774 @danpachi_kenshi
     location: "Japan"
-    followers: 34946
-    engagement: 673
-    commentsToLikes: 0.001397
+    followers: 35975
+    engagement: 692
+    commentsToLikes: 0.001673
     id: ck0w56ler257d0i19xusd8f6n
     verified: false
-    hashtags: "#mrbrotherscutclub, #barberlife, #harajuku, #shooting"
-  - username: "shinri_shioura"
+    hashtags: "#mrbrothers, #barber, #tokyo, #barberlife"
+  - username: "daiasian"
     fullname: >-
-      Shinri Shioura
+      Daia
     bio: >-
-      THE FASTEST MAN IN ASIA🇯🇵🏊🏻‍♂️ 2016 OLYMPIAN 5X WORLD CHAMPS MEDALIST COFFEE LOVER @coffee__ss
+      FEELBOMB's
     location: "Japan"
-    followers: 14126
-    engagement: 1038
-    commentsToLikes: 0.009349
-    id: ck14h5umf8ong0i19nihyxnmm
+    followers: 7856
+    engagement: 515
+    commentsToLikes: 0.002836
+    id: ck0w56lyn259z0i19dv4fkjjq
     verified: false
-    hashtags: "#burleighheads, #leicam10, #sydney, #goldcoast"
-  - username: "owe_yamamura"
+    hashtags: "#menshair, #shave, #vintage, #grooming"
+  - username: "tomo.american"
     fullname: >-
-      山村武寛 / ヤマムラタケヒロ
+      トモユキ
     bio: >-
-      ▼Oriental Wrestling Entertainment #STRONGHEARTS 所属プロレスラー ▼BRIDGE KOBE RESIDENT DJ Booking→owe.stronghearts@gmail.com 過去出演とプロレス動画少しアーカイブに載せてます。
+      ⭐️YouTube 『ともちむ』 ⭐️Toar's official @toars.official ⭐️17認証DJライバー TIKTOK→ともちん🍱American
     location: "Japan"
-    followers: 5546
-    engagement: 969
-    commentsToLikes: 0.017019
-    id: ckap8sjhcpox50i78zos2qsfs
+    followers: 25779
+    engagement: 296
+    commentsToLikes: 0.007791
+    id: ckf5px7i57ivh0j23pue7l508
     verified: false
-    hashtags: "#okinawa, #bridgekobe, #tryhardjapan, #tryharddjacademy"
-  - username: "umii___10"
+    hashtags: "#17liver, #code, #luisvuitton, #gabor"
+  - username: "shimekakeshinji"
     fullname: >-
-      umi
+      七五三掛 慎二
     bio: >-
-      163cm / casual / boyish / vintage fashion ankclassic staff sub : @umii_life
+      shimekake shinji↓ネット予約↓
     location: "Japan"
-    followers: 104155
-    engagement: 321
-    commentsToLikes: 0.000912
-    id: ck5c5w9l949i70i11bqqm2p6n
+    followers: 31139
+    engagement: 312
+    commentsToLikes: 0.002579
+    id: ck0w56ksr255i0i19hqgbxqd9
     verified: false
-    hashtags: "#commedesgarcons, #used, #graphpaper, #gu"
-  - username: "owethawk"
+    hashtags: "#dopecutz, #menshair, #crossover, #neobarber"
+  - username: "l.l.wood"
     fullname: >-
-      owethawk
+      L.L.Wood
     bio: >-
-      Oriental Wrestling Entertainment 所属 1990/04/30 北海道苫小牧市出身 趣味　クロスカブ　散髪　コーヒー　 #OWE #STRONGHEARTS #prowrestler
+      I like militaryfashion,illustration,Levi's ,アメカジ、ブーツ、ワークスタイル、イラスト、リーバイスが好きです！
     location: "Japan"
-    followers: 7892
-    engagement: 1142
-    commentsToLikes: 0.009065
-    id: ckapcmqpg4dr60i78wnk5pyhh
+    followers: 55128
+    engagement: 206
+    commentsToLikes: 0.007338
+    id: ck5hiaz7lckci0i11blw6m2mp
     verified: false
-    hashtags: "#ootd, #stronghearts, #ddtpro, #poloralphlauren"
-  - username: "takec824"
+    hashtags: "#denimondenim, #militarystyle, #denimfashion, #militaryjacket"
+  - username: "bafarin0311"
     fullname: >-
-      TAKESHI
+      バファリン
     bio: >-
-      🇯🇵 Tokyo⇄Fukuoka
+      IB6side 茨城
     location: "Japan"
-    followers: 8814
-    engagement: 694
-    commentsToLikes: 0.015450
-    id: ck5q4471inore0i11zwbk75qy
+    followers: 8359
+    engagement: 874
+    commentsToLikes: 0.006941
+    id: ck6ub2ckb72c60j719cwcjmon
     verified: false
-    hashtags: "#barber, #thebarber, #airforce, #atelierb"
-  - username: "hirotakaurabe"
+    hashtags: "#barbershop, #selfish, #dazzband, #joystick"
+  - username: "yamadakihito"
     fullname: >-
-      Hirotaka Urabe 卜部弘嵩
+      山田章仁 Akihito Yamada
     bio: >-
-      #格闘家 #卜部弘嵩 #🇯🇵🇵🇭 #k1 #urabekarate #harleydavidson #surfing #golf #camp #coffee #trip 1989.5.13 My wife @takahashiyu.official My son 禅清 Zensei
+      ●RUGBY選手🏉 ●忍者TRY🥷 ●オンラインMC🎙 ●OWNER:調布SHEEP.exe 3x3🏀 ●Co-OWNER:Club House coffee☕️ ●FOUNDER:Glocal Scouts⭐️
     location: "Japan"
-    followers: 31651
-    engagement: 361
-    commentsToLikes: 0.004387
-    id: ck0tv686pa4650i19mhl0khew
-    verified: false
-    hashtags: "#hogumi, #workout, #bbq, #barbershop"
+    followers: 22848
+    engagement: 605
+    commentsToLikes: 0.004911
+    id: ck136ifvw6n1a0i1903b204js
+    verified: true
+    hashtags: "#summer, #rugbylife, #uasportsmask, #friends"
 ---

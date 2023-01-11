@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Miami In 2022
+title: Top 10 Health Instagram Influencers In Miami In 2023
 description: >-
-  Find top health Instagram influencers in Miami in 2022. Most popular hashtags: #miami #health #fitness #workout.
+  Find top health Instagram influencers in Miami in 2023. Most popular hashtags: #health #motivation #miami #wellness.
 platform: Instagram
-hits: 301
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 301 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 312
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 312 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "quinncidence8"
+  - username: "willina.rodriguez"
     fullname: >-
-      Quinn B
+      🦋𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 👑𝙈𝙤𝙙𝙚𝙡💋
     bio: >-
-      ⚡️SURGE SUPPLEMENTS : Quinn20 💧@purekana CBD: QuinnPK @staix.co code: Quinncidence8 Amazon wishlist ⬇️⬇️⬇️
+      💗𝘏𝘪, 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 🥰 📍𝙈𝙞𝙖𝙢𝙞 🤓#Editorial & #Commercial 𝘔𝘰𝘥𝘦𝘭 😊𝙈𝙤𝙙𝙚𝙡 𝘾𝙤𝙖𝙘𝙝 🌹𝘓𝘦𝘢𝘥 𝘮𝘰𝘥𝘦𝘭 𝘰𝘧 @vi3ions 🥰𝘍𝘢𝘤𝘦 𝘰𝘧 @the_biagoddess ✨♒️🕉☪️☯️🔮
     location: "United States"
-    followers: 121665
-    engagement: 165
-    commentsToLikes: 0.034147
-    id: ck0vyhf5j40f30i19i8tkf72t
+    followers: 6427
+    engagement: 629
+    commentsToLikes: 0.129579
+    id: ck5hi5jzabrc00i111iv9ajx8
     verified: false
-    hashtags: "#lifestyle, #model, #abs, #flex"
-  - username: "ohhselena"
+    hashtags: "#miamiflorida, #model, #blackleather, #phillyphotography"
+  - username: "staceyervinjr"
     fullname: >-
-      Selena Guerra
+      Stacey Ervin Jr.
     bio: >-
-      Dallas📍 Doing things @powder_heart Ambassdor @purebarredallas Co-Founder @currentlydallas Ambassdor & Development @explor.box EXPLOR 15%: SELENA15
+      | Online Coach 💪🏽 | Gymnast 🇺🇸| | 1P Elite Athlete 💯 | #iAm1stPhorm 🗣| | Bus. Inquiries: info@currentsmgmt.com 📨| | My coaching, supplements, gear ⤵️|
     location: "United States"
-    followers: 4104
-    engagement: 1832
-    commentsToLikes: 0.068573
-    id: ck6u2xkswuhy20j71bafdhst2
-    verified: false
-    hashtags: "#miami, #local, #selfcare, #boutique"
-  - username: "ro54d"
+    followers: 325794
+    engagement: 325
+    commentsToLikes: 0.013691
+    id: ck0tvjkrtbnaf0i19ww5ekdfp
+    verified: true
+    hashtags: "#challenge, #motivation, #health, #miami"
+  - username: "ohitspaoo"
     fullname: >-
-      Rodrigo Garduño
+      PAOLA LEIGH JARDINE
     bio: >-
-      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. @54d.us 🇺🇸/@54d.mx🇲🇽/@54d.col🇨🇴
+      MIA📍 4.0 FIU Alumna: PR || Communications Venezuela | España For the first time, everything was inspiring. ☽
     location: "United States"
-    followers: 1025537
-    engagement: 247
-    commentsToLikes: 0.038116
-    id: ck5cf0o7tm3c40i11cmvoo431
+    followers: 3624
+    engagement: 1667
+    commentsToLikes: 0.090781
+    id: ck5q72e2vzq4i0i11p6tv2yji
     verified: false
-    hashtags: "#rodrigogardu, #ny, #training, #miamiflorida"
-  - username: "teamfflex"
+    hashtags: "#happiness, #vegan, #beach, #livingmybestlife"
+  - username: "tyseemarie"
     fullname: >-
-      Ryan Milton
+      OOTD💗 FASHION LIFESTYLE TRAVEL
     bio: >-
-      🌎 Worldwide NPC/IFBB coach 🏆 1,200+ top placing competitors 💯 20,000+ lifestyle client success stories 👇 Try it today for FREE! Hit the link now!
+      Sagittarius baby 🦋 Tysee 75+ Countries ✈️ TikTok: Tyseemarie Free spirit x Can’t catch me🤍
     location: "United States"
-    followers: 235960
-    engagement: 67
-    commentsToLikes: 0.006305
-    id: ck0tsrzr00ch50i19j33gjd3o
+    followers: 94225
+    engagement: 33
+    commentsToLikes: 0.249489
+    id: ck14j3sefihlo0i19pl11lb8y
     verified: false
-    hashtags: "#bikinicompetition, #bikini, #bodybuilding, #ryanmilton"
-  - username: "kilanbishop"
+    hashtags: "#bodygoals, #mood, #fit, #summerdays"
+  - username: "bfitbyj"
     fullname: >-
-      Kilan C. Ashad-Bishop, Ph.D
+      Julian Arana
     bio: >-
-      Biomedical Scientist // PhD U Miami Med HBCU Grad // Morgan State Science // @umiamisehd Health // @risenation.miami Social Change // @stemnoire
+      I teach people how to be fit without sacrificing the things they love. 🔸Founder: @bfitmiamilakes 💪🏼 🔸12+ Years Of Experience✊🏼 🔸Train With Me Online👇🏼
     location: "United States"
-    followers: 3911
-    engagement: 1080
-    commentsToLikes: 0.114624
-    id: ck6tt3co88d6a0j71hshw89fh
+    followers: 25750
+    engagement: 53
+    commentsToLikes: 0.058723
+    id: ck5bzxm2ks1840i11n3ftg5z0
     verified: false
-    hashtags: "#wishingyouwell, #blkwomenshealth, #blackincancerweek, #bwhiweek"
-  - username: "michelle_vanessaa_"
+    hashtags: "#strength, #training, #hiit, #dogsofinstagram"
+  - username: "jakegoodmanmd"
     fullname: >-
-      Michelle Vanessa
+      Jake Goodman | MD, MBA
     bio: >-
-      Miami🏝TV Host🎤Foodie 🍴 Wanderlust ✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+      Resident Physician - Psychiatry I fight for mental health & inspire future docs TikTok (1.2M+) Press & Business ⬇️ *views are always my own
     location: "United States"
-    followers: 33192
-    engagement: 471
-    commentsToLikes: 0.116469
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 237650
+    engagement: 963
+    commentsToLikes: 0.040885
+    id: ck8wghutnhe9p0j78008uv6ez
     verified: false
-    hashtags: "#novababe, #food, #miami, #health"
-  - username: "glowbyroe"
+    hashtags: "#healthcare, #medschool, #doctor, #medicine"
+  - username: "danilapao"
     fullname: >-
-      ✨ GLOW BY ROE ✨
+      Danila Bp
     bio: >-
-      📍M I A M I 📆 By Appointment Only ❤️ ☎️786.669.2582 🤩Click the link to book! ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+      Planes de entrenamiento online & presencial alimentación healthy Atleta WELLNESS 📍Miami Coach:@sergio_javier_diaz Patrocinador:@jose.bethapharma
     location: "United States"
-    followers: 18773
-    engagement: 116
-    commentsToLikes: 0.080001
-    id: ck602t0ediz9c0i14tus9234e
+    followers: 13081
+    engagement: 962
+    commentsToLikes: 0.031535
+    id: ck9hcjpi9lqbx0j78vhlm2sc9
     verified: false
-    hashtags: "#skin, #ageless, #lashes, #healthyskin"
-  - username: "thatfitram"
+    hashtags: "#training, #strong, #entrenamiento, #yotenetreno"
+  - username: "salt.n.peppah"
     fullname: >-
-      R A M
+      Nikki Pepper: Health Coaching
     bio: >-
-      Something Has to be Bigger then the Threats Something inside IS BIGGER The Threat is only Big while We’re Afraid Creator👁 Traveler🛩 Lover💙 Libra♎️
+      I help boss babes tone up & build a healthy relationship w food so they can feel confident in their bodies w/o endless workouts or restrictive diets.
     location: "United States"
-    followers: 21415
-    engagement: 1125
-    commentsToLikes: 0.012055
-    id: ck6u5jbtc9yin0j7164x23kx4
+    followers: 11263
+    engagement: 156
+    commentsToLikes: 0.082129
+    id: ck5pvsynvjhdm0i11oxg8ovsn
     verified: false
-    hashtags: "#physique, #love, #lean, #fit"
-  - username: "lizacode"
+    hashtags: "#weightlosstransformation, #wellness, #miamibeachreiki, #lyfewithnikki"
+  - username: "_gifted_handzvip"
     fullname: >-
-      🔥 LIZA 🔥 Girl in tech
+      Pro Grooming
     bio: >-
-      Biologist 💣+ Programmer 🔌 🖤 Analyze DNA 🖤 Talk about health and DNA . Link to the masterclass for data scientists:
+      Business Consultant Movie Director 🎬 GSU Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 HTX📍 U.S. Air Force Veteran ⬇️ Products, Courses, Services ⬇️
     location: "United States"
-    followers: 13053
-    engagement: 309
-    commentsToLikes: 0.039543
-    id: ck8tdfe9u35gl0j78k6f7ebua
+    followers: 21622
+    engagement: 92
+    commentsToLikes: 0.022672
+    id: ck5cl4k5ky8fv0i11hhkr69wc
     verified: false
-    hashtags: "#programmer, #programming, #coding, #stem"
-  - username: "scarletbegonias_wildroses"
+    hashtags: "#houstonbarbers, #redcarpetfresh, #phillybarber, #organic"
+  - username: "heelsinmaine"
     fullname: >-
-      Scarlet 🌹
+      MARGOT ANSLEY LEGARE
     bio: >-
-      Professional Model/Creator📸 Turn post notifications on ❤️ MM# 4434307 📧Email to book! 🚫DM @finnthehuman8o8❤️ @fuse_magazine Muse FL 🏡 & travel
+      mom. fashion. lifestyle art & music. heels in maine c.2006 collaborate 💌: margotansley@gmail.com
     location: "United States"
-    followers: 310717
-    engagement: 58
-    commentsToLikes: 0.034016
-    id: ck5q224vxdwi30i11ew94nq1b
+    followers: 18429
+    engagement: 71
+    commentsToLikes: 0.132382
+    id: ckap04fqkop1e0i78sul6323y
     verified: false
-    hashtags: "#halloween, #beauty, #ad, #summer"
+    hashtags: "#fashion, #maine, #happybirthday, #portlandmaine"
 ---

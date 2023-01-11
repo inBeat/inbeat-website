@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Turkey In 2022
+title: Top 10 Yoga Instagram Influencers In Turkey In 2023
 description: >-
-  Find top yoga Instagram influencers in Turkey in 2022. Most popular hashtags: #yoga #love #nature.
+  Find top yoga Instagram influencers in Turkey in 2023. Most popular hashtags: #yoga #yogapractice #yogainspiration.
 platform: Instagram
-hits: 141
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 141 Instagram influencers like this in Turkey for you to connect with.
+hits: 131
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 131 Instagram influencers like this in Turkey for you to work with.
 profiles:
+  - username: "elvin"
+    fullname: >-
+      Elvin Levinler 🌈
+    bio: >-
+      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+    location: "Turkey"
+    followers: 1185764
+    engagement: 120
+    commentsToLikes: 0.016211
+    id: ck15uwgu4ou830i19ej5guzkx
+    verified: true
+    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
+  - username: "betulily"
+    fullname: >-
+      Lily
+    bio: >-
+      📍 NYC yoga instructor traveler, 60 countries betullily@gmail.com
+    location: "Turkey"
+    followers: 322839
+    engagement: 248
+    commentsToLikes: 0.014464
+    id: ck6u8g9verf650j71z095bjpe
+    verified: false
+    hashtags: ""
+  - username: "cetincetintas"
+    fullname: >-
+      Cetin Cetintas | Yoga
+    bio: >-
+      Yoga⚡️Author 📚 Biologist @yogakiooturkiye @yogakioodergi @kiooretreatcenter @yogakiooyayinlari •7. Kitabım aşağıdaki linkte👇🏻
+    location: "Turkey"
+    followers: 567155
+    engagement: 131
+    commentsToLikes: 0.038561
+    id: ck0u6qx1l2ncd0i19hp9sphks
+    verified: false
+    hashtags: "#yogakiooailesi, #sar, #birayd, #biraydo"
   - username: "tugceinam"
     fullname: >-
       Tuğçe İnam Zırtıloğlu
     bio: >-
       Yoga🔮 Yoga Alliance onaylı “200 saatlik Yoga Uzmanlık Programları” için 👉🏼 tuuceinam@gmail.com 🌱
     location: "Turkey"
-    followers: 16424
-    engagement: 573
-    commentsToLikes: 0.039786
+    followers: 17747
+    engagement: 537
+    commentsToLikes: 0.041840
     id: ck135h0bs1dfb0i1961jxkwc4
     verified: false
-    hashtags: "#tao, #asana, #carlgustavjung, #yoga"
-  - username: "chrischavezyoga"
+    hashtags: "#yoga, #yogapractice, #mothernature, #cgjung"
+  - username: "ecetargit"
     fullname: >-
-      Chris Chavez
+      Ece Targıt Günşiray
     bio: >-
-      Global yoga teacher, musician, co-owner of @cihangiryoga creator of The CY Method #liveyourtruth Master Practice Intensive Dec 4-6👇
+      Founder @flovstudio yoga+meditation+rituals Podcast Host “Yoldayız Geliyor Musun?” Home @savedforus
     location: "Turkey"
-    followers: 19702
-    engagement: 420
-    commentsToLikes: 0.048317
-    id: ck14hs24fbucv0i1936c7z32v
+    followers: 180335
+    engagement: 434
+    commentsToLikes: 0.011380
+    id: ck0vzh9mp93bo0i19wfqshltr
     verified: false
-    hashtags: "#homepractice, #liveyourtruth, #yoga, #love"
-  - username: "cetincetintas"
+    hashtags: "#newchapter, #ecedusunce, #istanbuls, #12saataktif"
+  - username: "ceydasaltadal"
     fullname: >-
-      Cetin Cetintas | Yoga
+      Ceyda Saltadal
     bio: >-
-      Yoga⚡️Author 📚 Biologist @yogakiooturkiye @yogakioodergi •6. kitabım “Sarı Çiçeği Koklayan Kedi” tüm kitapçılarda!
+      Nimet Atasoy Management Actress ⭐️ Voice artist ⭐️ Yoga Teacher #ShinyQueen
     location: "Turkey"
-    followers: 568473
-    engagement: 97
-    commentsToLikes: 0.031266
-    id: ck0u6qx1l2ncd0i19hp9sphks
+    followers: 14224
+    engagement: 514
+    commentsToLikes: 0.084348
+    id: ck0u871cn6jwk0i19e14opr13
     verified: false
-    hashtags: "#yogakiooailesi, #sar, #ejderhaserisi, #dragonseries"
-  - username: "kayalovesss"
+    hashtags: "#detox, #yogainspiration, #yogi, #ceydaileyoga"
+  - username: "gezginyogini"
     fullname: >-
-      Kaya 🖤
+      Burcu Tunca
     bio: >-
-      Business Coach & Yoga Teacher Trainer UAE Business Award Winner 2020🥇 Middle East Woman Leader 2019 🏆 Founder: @rainthelabel & @kaya_yoga_therapy
+      🕉️Yoga Teacher & Practitioner 🌍Inner Traveler by the Outer Journeys ➡️Özel ve Online dersler için dm (Hatha, Vinyasa, Yin Yoga) 📌Antalya /Konyaaltı
     location: "Turkey"
-    followers: 59817
-    engagement: 68
-    commentsToLikes: 0.097584
-    id: ck6tonezdf0ys0j71z43wtc9w
+    followers: 25165
+    engagement: 167
+    commentsToLikes: 0.056243
+    id: ckf5xaj3xuzge0j23eqvisz1o
     verified: false
-    hashtags: "#girlbossvibes, #moneyhacks, #dubaientrepreneurs, #lawofattraction"
-  - username: "nurayuzunbayiryoga"
-    fullname: >-
-      Nuray Uzunbayir
-    bio: >-
-      🔹🔹🔹🔹🔹İZMİR🔹🔹🔹🔹🔹 🌈 🔹🔹🔹LİFE STYLE 🔹🔹🔹🌈 🔹Dance 👯‍♀️ Yoga 🧘‍♀️ Pilates 🤸‍♀️🔹
-    location: "Turkey"
-    followers: 14210
-    engagement: 447
-    commentsToLikes: 0.063016
-    id: ckaoxx96of5c90i78jy8yut6h
-    verified: false
-    hashtags: "#love, #beautiful, #yogaposes, #ootdshare"
+    hashtags: "#balance, #yogaantalya, #mudra, #antalyayogae"
   - username: "pelindindar"
     fullname: >-
       Pelin Dindar
     bio: >-
       Yoga&Pilates Instructor Youtuber 💌dindarpelin.pr@gmail.com YENİ VİDEO👇🏻
     location: "Turkey"
-    followers: 36629
-    engagement: 409
-    commentsToLikes: 0.014004
+    followers: 38478
+    engagement: 252
+    commentsToLikes: 0.023073
     id: ck8t593ls98iy0j78ywz7kzcj
     verified: false
-    hashtags: "#yogapractice, #yogalove, #yogagirl, #sunday"
-  - username: "farzam_feyzaghaei"
+    hashtags: "#artibir, #today, #karantina, #yoga"
+  - username: "chrischavezyoga"
     fullname: >-
-      Farzam    فرزام
+      Chris Chavez
     bio: >-
-      Director at @vocemodels 🇹🇷 International Model @dni_model_agency 🇷🇸 🇩🇪 📩Contact me: director@vocemodels.com Alpha 🦁 Yoga lover 🧘🏼‍♂️ Techno 🎧
+      Global yoga teacher, musician, co-owner of @cihangiryoga creator of The CY Method #liveyourtruth LIVE STREAM CLASS TUES & WED 1830 Istanbul time👇
     location: "Turkey"
-    followers: 15636
-    engagement: 280
-    commentsToLikes: 0.037695
-    id: ck6tyqh7z59e60j71cw000n9r
+    followers: 19809
+    engagement: 399
+    commentsToLikes: 0.051423
+    id: ck14hs24fbucv0i1936c7z32v
     verified: false
-    hashtags: "#mensfashion, #mensstyle, #hazel, #malemodel"
-  - username: "sedademirdogenn"
+    hashtags: "#gratitude, #yoga, #nike, #loveyou"
+  - username: "sirinkilavuzsevinc"
     fullname: >-
-      SeD
+      Şirin Kılavuz Sevinç
     bio: >-
-      Why not 🌟 It is what it is 👌🏻 〰️ •Meditation / Yoga •Life and Freedom Coach •Dance & Movement Meditation Coach
+      Menajer : Neslihan Uzer ➕ Yaprak Atış ................................................................ Yoga eğitmeni ve öğrencisi 📚 #şirinyoga 🕉
     location: "Turkey"
-    followers: 24637
-    engagement: 273
-    commentsToLikes: 0.023254
-    id: ckaoyr2utip9r0i780xqmdklm
+    followers: 32088
+    engagement: 472
+    commentsToLikes: 0.024454
+    id: ck0w1g76jj6p90i19v57rvrq0
     verified: false
-    hashtags: "#sedademirdogen, #karma, #yasamkocu, #love"
-  - username: "gezginyogini"
-    fullname: >-
-      Burcu Tunca
-    bio: >-
-      E-RYT 200 /RYT 500 Yoga Eğitmeni Hatha /Vinyasa /Yin Yoga 🌿Özel & Online dersler için DM🌿 📌Antalya
-    location: "Turkey"
-    followers: 25631
-    engagement: 166
-    commentsToLikes: 0.034412
-    id: ckf5xaj3xuzge0j23eqvisz1o
-    verified: false
-    hashtags: "#olympos, #yogaathome, #yogini, #yogapose"
-  - username: "cansetyoga"
-    fullname: >-
-      Cemre Canset Bagan
-    bio: >-
-      🧘🏻‍♀️ Yoga Eğitmeni 🪁 Farkındalık & Yükseliş Mentoru 🔮 Spiritüel Terapist/Kolaylaştırıcı 💫 Yıldız Tohumu . 🤸‍♀️ @helloyogaapp . 🍀 @healingmoveswithin
-    location: "Turkey"
-    followers: 15969
-    engagement: 298
-    commentsToLikes: 0.031406
-    id: ck8t1kprkw4tr0j78ck8b0zld
-    verified: false
-    hashtags: "#tb"
+    hashtags: "#tb, #yaz, #zeytinligu, #arkada"
 ---

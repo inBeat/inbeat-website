@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Sao Paulo In 2022
+title: Top 10 Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #aesthetic #reels #makeupchallenge.
+  Find top Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #reelsinstagram #gothicgirls #explorepage.
 platform: Instagram
-hits: 3423
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 3423 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
+hits: 3291
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 3291 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
-  - username: "caputile"
+  - username: "deisiremus"
     fullname: >-
-      Letícia Caputi
+      Deisi ✯ VIAGENS E LIFESTYLE
     bio: >-
-      24 anos, São Paulo | SP Streamer e Influenciadora fb.gg/caputile ✉️ leticiab.caputi@hotmail.com Youtube:
+      ☆ Uma gaúcha perdida em São Paulo ☆ Editora do @wefashiontrends e @euamovinho 👇🏻ENCONTRE MEUS PRESETS AQUI👇🏻
     location: "Brazil"
-    followers: 188522
-    engagement: 1616
-    commentsToLikes: 0.094956
-    id: ckaoyh00mhhla0i78yv0bklvx
+    followers: 78861
+    engagement: 1479
+    commentsToLikes: 0.132256
+    id: ck14go39o66xh0i1974mid2tq
+    verified: false
+    hashtags: "#reelsinstagram, #visitrovaniemi, #explorepage, #finland"
+  - username: "biel_boni"
+    fullname: >-
+      𝕲𝖆𝖇𝖗𝖎𝖊𝖑 𝕭𝖔𝖓𝖎𝖋𝖆𝖈𝖎𝖔® 🔥💎
+    bio: >-
+      Um comediante com humor duvidoso 👀 Apenas tento fazer comédia! 📍 São Paulo - SP 📧 bielboniyt@gmail.com
+    location: "Brazil"
+    followers: 131537
+    engagement: 1543
+    commentsToLikes: 0.024577
+    id: ck6udhgzll4vk0j71icajzlrz
     verified: false
     hashtags: ""
-  - username: "williamsouzaoficiall"
+  - username: "luizarossi"
     fullname: >-
-      William Souza
+      LUIZA ROSSI
     bio: >-
-      👨🏼‍🍳 | Toiço ♊️ | Gêmeos 📍 | São Paulo 📊 | Parcerias via DIRECT
+      • são paulo - brasil • jobs: contato@luizarossi.com.br
     location: "Brazil"
-    followers: 168291
-    engagement: 1534
-    commentsToLikes: 0.233946
-    id: ck5qbdbwgl1780i1168o6zk44
+    followers: 148372
+    engagement: 299
+    commentsToLikes: 0.024982
+    id: ck0w1a2evib4k0i19l2sdl0ft
     verified: false
-    hashtags: "#9meses, #eternosnamorados, #grandhyatt, #lpcolletion"
+    hashtags: "#cabeloondulado, #condicionadorembarra, #efeitobob, #vizzela"
+  - username: "saopaulocity"
+    fullname: >-
+      São Paulo City
+    bio: >-
+      🇧🇷 O melhor de SP está aqui 🇬🇧 Best of São Paulo City 🛍 @ProjetoSaoPauloCity Fotos, Dicas e tudo que SP tem de melhor Por @miguelitogarcia
+    location: "Brazil"
+    followers: 309362
+    engagement: 149
+    commentsToLikes: 0.014550
+    id: ck6u08ytueaqw0j71lq7b1uww
+    verified: false
+    hashtags: "#euvivosp, #modaurbana, #saopaulocity, #paulista"
+  - username: "majutrindade"
+    fullname: >-
+      maju trindade
+    bio: >-
+      sᴘ @bymajuview & sᴛᴜᴅɪᴏ @803.studio 🐆 contatomajutrindade@outlook.com São Paulo, Brazil ↓ youtube channel & podcast ↓
+    location: "Brazil"
+    followers: 6400424
+    engagement: 29
+    commentsToLikes: 0.002985
+    id: ck0vw38ehrwhr0i198v97096v
+    verified: true
+    hashtags: "#tbt, #35mm, #contaxg2, #ektar100"
   - username: "lucnatico"
     fullname: >-
       Lucas Bataglia
     bio: >-
-      🌈 📸 | Aqui você vai achar umas graças 📍 | São Paulo/SP
+      🌈 📍 | São Paulo/SP
     location: "Brazil"
-    followers: 13609
-    engagement: 1271
-    commentsToLikes: 0.165648
+    followers: 11656
+    engagement: 1336
+    commentsToLikes: 0.156587
     id: ckf5nh8w0y97l0j23aaj4llko
     verified: false
-    hashtags: "#meme, #gaybrasil, #reels, #reelsinstagram"
-  - username: "yasminlsilva"
+    hashtags: "#reels, #reelsinstagram, #meme, #gaybrasil"
+  - username: "nosferotika"
     fullname: >-
-      YASMIN SILVA
+      Rubia - NOSFEROTIKA
     bio: >-
-      ☼ Beleza | Foto | Edição | Art Attack do dia a dia ★ 📍São Paulo ⁣ ☼ contatoyasminLsilva@gmail.com ⁣ ☾ “Tenha coragem e seja gentil”🦋
+      GothMother on Nosferotika • 𝔢𝔰𝔱. 𝟏𝟗𝟗𝟒 • 🇧🇷 - São Paulo | 𝕮𝖞𝖇𝖊𝖗𝖌𝖔𝖙𝖍 | 𝕱𝖊𝖒𝖒𝖊 𝕱𝖆𝖙𝖆𝖑𝖊 • PARCERIAS/SPONSORS - DM/E-MAIL nosferotika@outlook.com
     location: "Brazil"
-    followers: 71376
-    engagement: 1258
-    commentsToLikes: 0.132561
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 133259
+    engagement: 908
+    commentsToLikes: 0.020715
+    id: ck13cjlob0o5i0i1910ti4m2h
     verified: false
-    hashtags: "#dicadeapp, #sparka, #dicadayas, #fotosemcasa"
+    hashtags: "#gothicstyle, #gothgirls, #gothicbox, #wiccac"
+  - username: "jplucca_"
+    fullname: >-
+      João Pedro De Lucca
+    bio: >-
+      Fotografar é minha vida! @jpdelucca_ ⚡️ 📍Campos do Jordão/ São Paulo-SP Orçamentos no link abaixo
+    location: "Brazil"
+    followers: 19169
+    engagement: 1961
+    commentsToLikes: 0.067715
+    id: ck5zqnvpiuyc20i14femhr58k
+    verified: false
+    hashtags: ""
+  - username: "caputile"
+    fullname: >-
+      Letícia Caputi
+    bio: >-
+      25 anos, São Paulo | SP 💜 Influenciadora do @finalleveloficial ⚠️ Streamer em @booyahbr ✉️ leticiab.caputi@hotmail.com
+    location: "Brazil"
+    followers: 229137
+    engagement: 1294
+    commentsToLikes: 0.005304
+    id: ckaoyh00mhhla0i78yv0bklvx
+    verified: false
+    hashtags: ""
   - username: "ronaldonene"
     fullname: >-
       Ronaldo Carvalho
     bio: >-
       São Paulo/Brazil Youtube: Canal 35 Milímetros Aulas de Edição
     location: "Brazil"
-    followers: 51593
-    engagement: 1255
-    commentsToLikes: 0.082665
+    followers: 54311
+    engagement: 1296
+    commentsToLikes: 0.124795
     id: ck0ty0i4tl33c0i19ai0o8i44
     verified: false
-    hashtags: "#chupetox, #tacalefuma, #asusbrasil"
-  - username: "danny.bond"
-    fullname: >-
-      Danny Bond 👸🏾
-    bio: >-
-      Rainha do jacintinho 👸🏾 📍São Paulo Shows: 82 96640622 Digital e Publicidade: 11 989164624 Traz o B 🍁🔥
-    location: "Brazil"
-    followers: 210962
-    engagement: 1210
-    commentsToLikes: 0.141812
-    id: ck6tltxpy6msc0j71d4c7qdbx
-    verified: true
-    hashtags: "#trazobchallenge, #trazob, #23dabond"
-  - username: "jessycasanses"
-    fullname: >-
-      🌻 Jessyca Sanses 🌻
-    bio: >-
-      🌽 + 2 milhões no YouTube 📍 São Paulo | Amapá 📬 jessycasanses@hotmail.com 👇 VÍDEO NOVO👇
-    location: "Brazil"
-    followers: 798828
-    engagement: 1156
-    commentsToLikes: 0.663920
-    id: ck60166pjewqg0i14iil5nhz9
-    verified: false
-    hashtags: "#btschallenge, #evaporachallenge, #beauty, #funkchallenge"
-  - username: "mateusvitorio_"
-    fullname: >-
-      MATEUS VITÓRIO
-    bio: >-
-      📸 |📍 São Paulo 📨 | mvcanalcontato@gmail.com 🛸 | YouTube ↓
-    location: "Brazil"
-    followers: 48841
-    engagement: 1026
-    commentsToLikes: 0.116716
-    id: ck13ccoaszp7e0i19sr9mg3gr
-    verified: false
-    hashtags: "#cabelocacheadocurto, #katyperry, #cabelocacheado, #cachos"
-  - username: "liliankimi"
-    fullname: >-
-      Lilian Kimi
-    bio: >-
-      💌 job.liliankimi@gmail.com 📍Brasília/ São Paulo 👩‍❤️‍👩 @blogvanessalamark 🎥👇🏻 VÍDEO - KISS CHALLENGE COM MINHA NAMORADA
-    location: "Brazil"
-    followers: 218894
-    engagement: 693
-    commentsToLikes: 0.072874
-    id: ck6ui2ikycof20j715kj5hgc5
-    verified: false
-    hashtags: "#teamlilian"
-  - username: "loud_gs"
-    fullname: >-
-      LOUD GS
-    bio: >-
-      • Gilson Santos - São Paulo - SP • SP ✈️ CWB • Influenciador of @loudgg • Faço umas trollagens por aí
-    location: "Brazil"
-    followers: 3582158
-    engagement: 629
-    commentsToLikes: 0.026370
-    id: ck0w0yda3gnes0i19mfy73d4f
-    verified: false
-    hashtags: "#tb"
+    hashtags: "#chupetox, #asusbrasil"
 ---

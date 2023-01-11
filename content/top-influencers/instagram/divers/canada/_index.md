@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Canada In 2022
+title: Top 10 Divers Instagram Influencers In Canada In 2023
 description: >-
-  Find top divers Instagram influencers in Canada in 2022. Most popular hashtags: #canada #olympics #teamcanada #athletelife.
+  Find top divers Instagram influencers in Canada in 2023. Most popular hashtags: #photography #underwater #underwaterphotography #turkey.
 platform: Instagram
-hits: 101
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 101 Instagram influencers like this in Canada for you to work with.
+hits: 41
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 41 Instagram influencers like this in Canada for you to work with.
 profiles:
-  - username: "katerinesavard"
-    fullname: >-
-      Katerine Savard
-    bio: >-
-      Actrice dans un🎬à Cannes •Olympic medalist🥉 •World champion🥇 •Commonwealth Gold🥇 •Pan American Gold🥇 •World university Gold🥇 Teacher🍎 MSD Diver🤿🐠 📷👠
-    location: "Canada"
-    followers: 15000
-    engagement: 810
-    commentsToLikes: 0.023791
-    id: ck6til1900x4r0j71y9i3gf2g
-    verified: true
-    hashtags: ""
   - username: "taylorxcross"
     fullname: >-
       Taylor Cross
     bio: >-
       🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
     location: "Canada"
-    followers: 16548
-    engagement: 189
-    commentsToLikes: 0.111690
+    followers: 16398
+    engagement: 206
+    commentsToLikes: 0.110018
     id: ck8syvtfdm7ft0j78ugrn2b83
     verified: false
     hashtags: ""
-  - username: "caemckay"
+  - username: "hooked_on_phoenixx"
     fullname: >-
-      Caeli McKay
+      Marisa
     bio: >-
-      Team 🇨🇦 Diver Pan Am Gold 🥇 Silver 🥈 Commonwealth Silver 🥈 Inquiries: caeli@dulcedo.com 🍁canfund recipient
+      Some women are lost in the fire, some women are built from it🔥NYC. ER RN . FNP . Cosplayer . Traveler . Thrill Seeker . Diver . Archery🏹
     location: "Canada"
-    followers: 9028
-    engagement: 1062
-    commentsToLikes: 0.021215
-    id: ck6udqcr5mjyd0j71zv6cfi1o
+    followers: 17540
+    engagement: 363
+    commentsToLikes: 0.037832
+    id: ck8tai7x4rv7h0j78n3x1x20c
     verified: false
-    hashtags: "#quarentine, #montrealgirl, #sunshine, #diving"
-  - username: "vinceriendeau"
-    fullname: >-
-      Vincent Riendeau
-    bio: >-
-      🇨🇦 Olympic diver Commonwealth & Pan-American games medalist. Engineering student. Montreal, Quebec.
-    location: "Canada"
-    followers: 16846
-    engagement: 883
-    commentsToLikes: 0.010948
-    id: ck6udqdv6mk4e0j71wb856oav
-    verified: true
-    hashtags: "#portrait, #mountains, #olympian, #photooftheday"
-  - username: "meaghan_ogilvie"
-    fullname: >-
-      M E A G H A N   O G I L V I E
-    bio: >-
-      W A T E R Photographer, Diver, Artist Canada + Worldwide
-    location: "Canada"
-    followers: 7635
-    engagement: 677
-    commentsToLikes: 0.045223
-    id: ck0uao3l9clim0i19803lv089
-    verified: false
-    hashtags: "#tobermoryontario, #bnw, #seagrassbeds, #saltlife"
-  - username: "yumyumyow"
-    fullname: >-
-      Ottawa Food Blogger • Allie
-    bio: >-
-      Celebrating diversity & community through food #foodiecommunity613 📺 ft. on CTV Ottawa #eggqueen (she/her) Let’s collaborate! YumYumYOW@yahoo.com
-    location: "Canada"
-    followers: 4869
-    engagement: 990
-    commentsToLikes: 0.273146
-    id: ck6u7wenno1fo0j71flkhaq0v
-    verified: false
-    hashtags: "#613eats, #ottawafoodies, #ottawarestaurants, #ottawafood"
-  - username: "reverie_woodworks"
-    fullname: >-
-      Rêverie Woodworks
-    bio: >-
-      Patrick Jérôme ◾️Woodworker ◾️Lieutenant with MHFD ◾️Father of 2 girls ◾️Learning Yoga ◾️Ex Navy Bosn/Diver
-    location: "Canada"
-    followers: 35442
-    engagement: 110
-    commentsToLikes: 0.051814
-    id: ck5zoa2b4q3et0i14w3o9y120
-    verified: false
-    hashtags: "#madeincanada, #handcrafted, #albertamaker, #instawoodworkers"
-  - username: "megbenfeito"
-    fullname: >-
-      Meaghan Benfeito 🇵🇹
-    bio: >-
-      📍Montreal • 3x Olympic Diver for 🇨🇦 ‘08, ‘12 & ‘16. • 3x Olympic bronze medallist 🥉. • Twitter; @Megbenfeito.
-    location: "Canada"
-    followers: 26643
-    engagement: 446
-    commentsToLikes: 0.013108
-    id: ck6udqdsxmk280j71txe77tjw
-    verified: true
-    hashtags: "#canada, #olympics, #diving, #determination"
+    hashtags: "#phoenix, #darkphoenix, #cosplayphotography, #comiccon"
   - username: "jeffreygarriock"
     fullname: >-
       Jeffrey Garriock
     bio: >-
       Traveler, diver, adventurer & filmmaker. Life enthusiast. 📍: Toronto 📷: RED • 5Dmkii • A7sii ⬇: New Reel for 2020
     location: "Canada"
-    followers: 9507
-    engagement: 758
-    commentsToLikes: 0.029525
+    followers: 9045
+    engagement: 780
+    commentsToLikes: 0.030081
     id: ck5zx925r7kpa0i14ow9mtqgw
     verified: false
-    hashtags: "#yourshot, #exploretocreate, #photographerswithoutborders, #getoutstayout"
+    hashtags: "#livetravelchannel, #igshotz, #instagood, #yourshot"
   - username: "robertmarclehmann"
     fullname: >-
       Robert Marc Lehmann
     bio: >-
-      🦈 Marine biologist & Scientific diver 🎥 Photographer & Film maker 🌏 Conservationist & Adventurer 🌿 National Geographic Photographer of the year 2015
+      🦈 Marine Biologist & Scientific Diver 🎥 Photographer & Filmmaker 🔴 VOX Nature Ambassador 🌿 Conservationist & Adventurer 📸 Canon Ambassador
     location: "Canada"
-    followers: 34631
-    engagement: 1047
-    commentsToLikes: 0.020277
+    followers: 121890
+    engagement: 652
+    commentsToLikes: 0.019166
     id: ck8svyuz8d7kk0j78lvzfhmlk
     verified: true
-    hashtags: "#nationalgeographic, #conservation, #ocean, #underwaterphotography"
+    hashtags: "#canon, #abenteuerextrem, #ocean, #robertmarclehmann"
+  - username: "divers24mag"
+    fullname: >-
+      DIVERS24 Magazine
+    bio: >-
+      All about #scubadiving #Top #Polish #scuba #diving #magazine #freediving #underwaterphotography #ocean #techdiving #wildlife #wreckdiving #cavediving
+    location: "Canada"
+    followers: 27644
+    engagement: 301
+    commentsToLikes: 0.005180
+    id: ck5qb71hfk4yx0i11rgz6bvhx
+    verified: false
+    hashtags: "#scuba, #underwatherphotography, #divemexico, #scubadiver"
+  - username: "twofeetwillrun"
+    fullname: >-
+      Two Feet Will Run
+    bio: >-
+      @bostonmarathon 42.2K 10/21 21.1KM x 13 | PR: 01:52:45 ✴️ Ambassador for: 🏃🏽‍♀️ @dirtbagrunners 💦 @nuunhydration 🧦 @teamtiux Team @oasiscanada
+    location: "Canada"
+    followers: 4362
+    engagement: 1237
+    commentsToLikes: 0.036446
+    id: ck8t578k9919k0j78bld2wdmd
+    verified: false
+    hashtags: "#beautifulbc, #runnerslife, #beautifuldestinations, #strongnotskinny"
+  - username: "uoftengineering"
+    fullname: >-
+      U of T Engineering
+    bio: >-
+      The official Instagram account for the Faculty of Applied Science & Engineering at the University of Toronto.
+    location: "Canada"
+    followers: 10375
+    engagement: 186
+    commentsToLikes: 0.005834
+    id: ck6tj0fb51s310j71m7cnvlky
+    verified: false
+    hashtags: "#uoftengineering, #convocation, #staff, #faculty"
+  - username: "thefreckledbookworm"
+    fullname: >-
+      Geneviève
+    bio: >-
+      🌿 queer mama | 27 | Qc, Canada 🍁 ☠️ CW : coffee, books, and vaginas
+    location: "Canada"
+    followers: 9096
+    engagement: 403
+    commentsToLikes: 0.058504
+    id: ck15rn0jb8po80i19lm9p0k0m
+    verified: false
+    hashtags: "#avidreader, #myfictionalmusings, #readingintheweb, #asipofcozy"
+  - username: "asheakin"
+    fullname: >-
+      Ashley Eakin
+    bio: >-
+      + writer/director + advocate for disability representation in tv+film + reps - UTA / Artists First + S I N G L E - SXSW+ 20-21 fest circuit
+    location: "Canada"
+    followers: 23681
+    engagement: 125
+    commentsToLikes: 0.072188
+    id: ck6uc06rvcpuo0j71797i9plj
+    verified: false
+    hashtags: "#limbdifference, #femaledirector, #afidww2020, #accessibility"
+  - username: "saadia.ammad"
+    fullname: >-
+      Saadia ~ Lifestyle, food, travel, inspiration
+    bio: >-
+      Mom of two 👦🏻👧🏻, caffiene addict, struggling to adult and taking it one day at a time! Ottawa, Canada 🇨🇦🇵🇰 DM/Email for PR/Collabs
+    location: "Canada"
+    followers: 33519
+    engagement: 134
+    commentsToLikes: 0.222591
+    id: cksgajqe05y6t0j2354t46eqb
+    verified: false
+    hashtags: "#canadiangiveaway, #canadianpakistani, #canadiancreator, #613"
 ---

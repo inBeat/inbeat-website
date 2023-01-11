@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Cali In 2022
+title: Top 10 Yoga Instagram Influencers In Cali In 2023
 description: >-
-  Find top yoga Instagram influencers in Cali in 2022. Most popular hashtags: #yoga #colombia #fitness #salud.
+  Find top yoga Instagram influencers in Cali in 2023. Most popular hashtags: #yoga #fitness #fitnessmotivation #yogacolombia.
 platform: Instagram
-hits: 9
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 9 Instagram influencers like this in Cali, Colombia for you to connect with.
+hits: 5
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform has 5 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
-  - username: "yermahin_balance7"
+  - username: "layogini"
     fullname: >-
-      Yermahin Solorzano
+      𓋹 ALEXANDRA 𓂀 La Yogini
     bio: >-
-      🇻🇪 #CIRCUS #fitness #art You can't live a normal life if you want to be extraordinary #handstand #handbalance #goals
+      ✨ 𝐃𝐞𝐬𝐦𝐢𝐭𝐢𝐟𝐢𝐜𝐨 𝐥𝐚 𝐄𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥𝐢𝐝𝐚𝐝 🧘🏻‍♀️ Cursos Online: Yoga, Astro, Magick, Tarot, Meditación y Cristales ✨ Yoga Trainings 🧘🏻‍♂️ MINDSET MENTORSHIP👇🏼
     location: "Colombia"
-    followers: 10815
-    engagement: 543
-    commentsToLikes: 0.025440
-    id: ckf5ptix078d40j2303t8diff
+    followers: 51529
+    engagement: 131
+    commentsToLikes: 0.040040
+    id: ck600z4kkejop0i14pdbrfv7o
     verified: false
-    hashtags: "#city, #goals, #artist, #dance"
-  - username: "fabian.higuita"
+    hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
+  - username: "mostropi"
     fullname: >-
-      FABIAN HIGUITA
+      MostrOpi
     bio: >-
-      🕋Fundador @fittrainingcenter 🏋️‍♂️Atleta @smartmusclecol 🎽Atleta @inhsportswearoficial 🥇Exatleta @4elementoscol del @canalrcn
+      🎁Encuentra regalos bonitos 🇨🇴Colombia - Cali ⬇️Tienda ⬇️Patreon
     location: "Colombia"
-    followers: 61059
-    engagement: 72
-    commentsToLikes: 0.027476
-    id: ck5ci7oa3s61g0i11twdc4fz0
+    followers: 608658
+    engagement: 476
+    commentsToLikes: 0.022636
+    id: ck5hlertck38b0i11k5fo3k60
     verified: false
-    hashtags: "#evoluci, #objetivos, #love, #conexi"
-  - username: "mauri__dynamics_"
-    fullname: >-
-      MAURICIO QUINTERO
-    bio: >-
-      19Years WINNER Battleofthebars 🇨🇴 #barmesainstitutions 📷amateur photographer
-    location: "Colombia"
-    followers: 17017
-    engagement: 999
-    commentsToLikes: 0.023242
-    id: ck602gysyhddr0i14h3jdwq46
-    verified: false
-    hashtags: "#functionaltraining, #cotopaxi, #abs, #paradise"
-  - username: "inspiralatinta"
-    fullname: >-
-      Tefy Alfaro ✨
-    bio: >-
-      Todos somos #arte 💜 💛#Lettering, #Caligrafía y #personalización 💙#Distribuidor oficial @tombowcol 🇨🇴 ❤️ Recursos para ti 👇🏻
-    location: "Colombia"
-    followers: 10408
-    engagement: 442
-    commentsToLikes: 0.076007
-    id: ck9wos8sq6e4m0j78rz2935u7
-    verified: false
-    hashtags: "#dualbrushtombow, #viejasverdes, #letteringchallenge, #letteringleague"
-  - username: "dondeesta_kelly"
-    fullname: >-
-      Kelly 🐿 Just A Travel Squirrel
-    bio: >-
-      #traveller #travelgirl ✦ Visual Storyteller ☼ Travel ~ Photography 📸 ✈ Viajes | 🌈Creatividad | Buena Vibra ✌🏼 💌 Dondeestakelly@gmail.com
-    location: "Colombia"
-    followers: 18559
-    engagement: 1193
-    commentsToLikes: 0.080579
-    id: ck0w5qet44x4b0i19672e02td
-    verified: false
-    hashtags: "#minca, #travellife, #lovetotravel, #ilovetravel"
-  - username: "melissalopez302"
-    fullname: >-
-      Melylopez
-    bio: >-
-      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
-    location: "Colombia"
-    followers: 7273
-    engagement: 2360
-    commentsToLikes: 0.027460
-    id: ck5c7ld9p7qsh0i11qryq9pd1
-    verified: false
-    hashtags: "#guerrera, #yomequedoencasa, #amor, #fitness"
+    hashtags: "#mostropi, #ilustraciondigital, #kawaii, #lovequotes"
   - username: "swkeviin"
     fullname: >-
       kevin Uribe
     bio: >-
       🇨🇴🏆 🇬🇹🏆 🇦🇪🏆
     location: "Colombia"
-    followers: 22118
-    engagement: 381
-    commentsToLikes: 0.021773
+    followers: 21848
+    engagement: 382
+    commentsToLikes: 0.023589
     id: ck602h1wdhdk00i142zma5859
     verified: false
-    hashtags: ""
+    hashtags: "#fitness, #workout, #calist, #workoutmotivation"
+  - username: "endocrinorosero"
+    fullname: >-
+      Endocrino Rosero
+    bio: >-
+      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
+    location: "Colombia"
+    followers: 504079
+    engagement: 268
+    commentsToLikes: 0.039558
+    id: ck8sz2e86mwzd0j788xvt7vyr
+    verified: false
+    hashtags: "#dieta, #keto, #nutricion, #saludable"
   - username: "marianelamodel"
     fullname: >-
-      Marianela💋Ramos
+      MARIANELA | PRESENTADORA
     bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    bio: >-
-      🌎 Online Fitness Coach ⭐️ Celebrity Personal Trainer ⚡️ Embajador @fitbitlatam 📱 Planes de entrenamiento y nutrición ⬇️ 😍 eBooks Patty & Juanse ⬇️
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
-    verified: false
-    hashtags: "#perderpeso, #gym, #fitness, #humorfit"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
   - username: "ania17art"
     fullname: >-
-      ania17art
+      ania17art.yoga
     bio: >-
-      Empresaria @panamaluxurygardens Yoga y Mas Youtube 📽📺 Ania Moreno. Yoga/crecimiento personal/recetas/ jardinería.
+      @panamaluxurygardens Alma libre💚 Yoga / Recetas / naturaleza /jardinería
     location: "Colombia"
-    followers: 9250
-    engagement: 924
-    commentsToLikes: 0.079738
+    followers: 9945
+    engagement: 959
+    commentsToLikes: 0.089889
     id: ckaoyhmybhke40i78yljrwual
     verified: false
-    hashtags: "#delicious, #tropical, #panama, #ania17art"
+    hashtags: "#sol, #instagood, #instapanama, #delicious"
+  - username: "zuzana_klingrova"
+    fullname: >-
+      Zuzana Klingrova
+    bio: >-
+      Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
+    location: "Colombia"
+    followers: 33658
+    engagement: 699
+    commentsToLikes: 0.033855
+    id: ck14ilv5yg22q0i19wu5yhqi6
+    verified: false
+    hashtags: "#jogadnes, #joga, #darek, #mixtee"
+  - username: "deluzsemilla"
+    fullname: >-
+      cyan 🌙ॐ ~ yoga & bienestar
+    bio: >-
+      ✨Profesora de Kundalini Yoga✨ ~ Yoga | Plantas | Bienestar ~ mamá de Sue 🌞 mi sol ✨⬇️LINK APP DE MEDITACIÓN GUIADA⬇️🌞
+    location: "Colombia"
+    followers: 61381
+    engagement: 1715
+    commentsToLikes: 0.013835
+    id: ck6u1ajahkl4f0j7175jmootb
+    verified: false
+    hashtags: "#dreamself, #yogacolombia, #diainternacionaldelyoga, #saludmental"
+  - username: "justincaruso"
+    fullname: >-
+      Justin Caruso
+    bio: >-
+      Decade+ teaching AcroYoga, bodywork & yoga intensives, retreats & teacher trainings worldwide Founder @modernthaischool 📍Medellin 🏊🏼‍♂️🧘🏼‍♂️🙌🏼🕺🏼🗽🌄🛀🏾 🗺
+    location: "Colombia"
+    followers: 19527
+    engagement: 199
+    commentsToLikes: 0.062987
+    id: ck5hggcoe2mgy0i11ypi3zbuh
+    verified: false
+    hashtags: "#acroyoga, #yoga, #colombia, #impresionante"
+  - username: "layogini"
+    fullname: >-
+      𓋹 ALEXANDRA 𓂀 La Yogini
+    bio: >-
+      ✨ 𝐃𝐞𝐬𝐦𝐢𝐭𝐢𝐟𝐢𝐜𝐨 𝐥𝐚 𝐄𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥𝐢𝐝𝐚𝐝 🧘🏻‍♀️ Cursos Online: Yoga, Astro, Magick, Tarot, Meditación y Cristales ✨ Yoga Trainings 🧘🏻‍♂️ MINDSET MENTORSHIP👇🏼
+    location: "Colombia"
+    followers: 51529
+    engagement: 131
+    commentsToLikes: 0.040040
+    id: ck600z4kkejop0i14pdbrfv7o
+    verified: false
+    hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
 ---

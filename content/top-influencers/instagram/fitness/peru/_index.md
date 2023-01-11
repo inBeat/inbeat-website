@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Peru In 2022
+title: Top 10 Fitness Instagram Influencers In Peru In 2023
 description: >-
-  Find top fitness Instagram influencers in Peru in 2022. Most popular hashtags: #peru #fitness #love #fitnessmotivation.
+  Find top fitness Instagram influencers in Peru in 2023. Most popular hashtags: #fitness #workout #peru #love.
 platform: Instagram
-hits: 64
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 64 Instagram influencers like this in Peru for you to collaborate.
+hits: 72
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 72 Instagram influencers like this in Peru for you to contact.
 profiles:
   - username: "sebaslizar"
     fullname: >-
       Sebastian Lizarzaburu
     bio: >-
-      Deportista, Atleta, Empresario 🇵🇪 🔥 Co-owner de @inmortal.fitness . 🔹Fitness athlete 🏅 Online Coach ONLY FANS 👇👇
+      Deportista, Atleta, Empresario 🇵🇪 🔥 Co-owner de @inmortal.fitness . 🏅 Online Coach ONLY FANS 👇👇
     location: "Peru"
-    followers: 762212
-    engagement: 217
-    commentsToLikes: 0.039134
+    followers: 795949
+    engagement: 110
+    commentsToLikes: 0.021508
     id: ck5zrcj62wbzb0i14n5zwo4x6
     verified: true
-    hashtags: "#papafit, #family, #lifestyle, #vidasana"
-  - username: "ladani.fit"
-    fullname: >-
-      Niurkis Daniela🔥
-    bio: >-
-      ÚNICA CUENTA OFICIAL 📍Civil Engineer 🎓 📍Chica Fitness Anzoátegui 2017🥇 🔹1ER LUGAR CHICA FITNESS VZLA 2017🏆 📌Asesorias 💪💸 🇻🇪🔜🇵🇪
-    location: "Peru"
-    followers: 48366
-    engagement: 195
-    commentsToLikes: 0.019002
-    id: ck0u0heoztp1d0i192nbaq774
-    verified: false
-    hashtags: "#selfie, #lima, #venezuela, #fit"
+    hashtags: "#saludable, #peru, #workout, #fitlife"
   - username: "kattakastano"
     fullname: >-
       ⭐️.      KATTA KASTAÑO     .⭐️
     bio: >-
       🌸Cantante 🌸Modelo 🌸Influencer 🌸Fitness 🇨🇴 Escucha mi nuevo sencillo ⤵️ Vén Vámonos🌻🏘👃🎌
     location: "Peru"
-    followers: 108477
-    engagement: 110
-    commentsToLikes: 0.060264
+    followers: 114066
+    engagement: 181
+    commentsToLikes: 0.038008
     id: ck6tl1w255th00j715mj4utln
     verified: false
-    hashtags: "#beauty, #instagramer, #tbt, #tengoqueintentar"
+    hashtags: "#model, #singerlife, #love, #shooting"
+  - username: "adrianajch"
+    fullname: >-
+      •Adriana Jimenez Chiang•
+    bio: >-
+      🍃 Estilo de vida saludable 💪🏻 Fitness girl 💫 Modelo publicitaria 👑 Miss Teen Sudamérica Internacional 2E 👑 MTS Perú 2017 ✨ Tik tok(25k+)
+    location: "Peru"
+    followers: 6121
+    engagement: 575
+    commentsToLikes: 0.050870
+    id: ckaorjxlbnkhy0i78esgx0q6w
+    verified: false
+    hashtags: "#mindset, #marcosalbercaencasa, #tweegram, #follow4follow"
   - username: "pedroibanez_"
     fullname: >-
       PEDRO IBAÑEZ
     bio: >-
-      Bailarín •Actor • Fitness 🕺🏾🎭🏃🏽‍♂️🏳️‍🌈 ⬇️
+      Comunicador Social Bailarín •Actor • Fitness 🕺🏾🎭🏃🏽‍♂️🏳️‍🌈 CLASES DE FLEXIBILIDAD DM 📥 ⬇️
     location: "Peru"
-    followers: 36034
-    engagement: 78
-    commentsToLikes: 0.016854
+    followers: 36178
+    engagement: 130
+    commentsToLikes: 0.022572
     id: ck6u1dxxxl5x60j715j884xb2
     verified: false
-    hashtags: "#maledancer, #peru, #dancer, #reels"
+    hashtags: "#mood, #mondaymotivation, #bucketlist, #pedroiba"
+  - username: "vane.cayo"
+    fullname: >-
+      Vanessa Cayo
+    bio: >-
+      Train your brain, body and mind! Punta Hermosa, Perú Sponsored by @underarmourlatam 🏋🏼‍♀️love to work out 🔜 fitness coach
+    location: "Peru"
+    followers: 10547
+    engagement: 506
+    commentsToLikes: 0.022187
+    id: ckaoztdgsnbea0i78v9z9u985
+    verified: false
+    hashtags: "#fit, #routine, #fitness, #workout"
   - username: "lavikingaoficial"
     fullname: >-
       La Vikinga
     bio: >-
-      𝐋𝐢𝐜 𝐄𝐧 𝐀𝐥𝐭𝐨 𝐑𝐞𝐧𝐝𝐢𝐦iento Coach Fitness 🏋🏻‍♀️ @vikinga_coachfitness Founder: #desafiovikinga
+      𝐋𝐢𝐜 𝐄𝐧 𝐀𝐥𝐭𝐨 𝐑𝐞𝐧𝐝𝐢𝐦iento Coach Fitness 🏋🏻‍♀️ @desafiovikinga Founder: #desafiovikinga
     location: "Peru"
-    followers: 109220
-    engagement: 137
-    commentsToLikes: 0.228417
+    followers: 121562
+    engagement: 159
+    commentsToLikes: 0.134361
     id: ck6uc7ymie0p50j71wjq30v37
     verified: false
-    hashtags: "#teamvikinga, #vikinga, #potoenlanuca, #unavikinganoabandona"
-  - username: "matias_laprovitera"
+    hashtags: "#vikinga, #teamvikinga, #unavikinganoabandona, #viking"
+  - username: "inmabas"
     fullname: >-
-      MATI
+      Inma Bas
     bio: >-
-      Aloha ke Akua 🤟🏽 Fitness Trainer💪🏽 Athletic Prep.🏈 Strength Coach🏋🏽 Wellness Coach 🧘🏽‍♂️🧘🏼 Yt: Matias Laprovitera 👇🏽NUEVO VIDEO👇🏽
+      👩🏽‍🍳 | Recetas saludables y deliciosas 🏋🏽‍♀️ | Fitness |🎙| Desarrollo Personal 🌿 | Te animo a cuidarte por SALUD 🌻 . 👇🏼Descuentos, Youtube y MÁS
     location: "Peru"
-    followers: 18442
-    engagement: 810
-    commentsToLikes: 0.022787
-    id: ck5zjahvvh8tz0i1469vul445
+    followers: 63710
+    engagement: 271
+    commentsToLikes: 0.110013
+    id: ck14jvp8umfa00i19tex7mjza
     verified: false
-    hashtags: "#crossfit, #menstyle, #wellness, #fitspo"
+    hashtags: "#emprendimiento, #fitnesscouple, #saludable, #fitnessrecipe"
+  - username: "athleticcontrast"
+    fullname: >-
+      𝗠𝗔𝗥𝗖𝗘𝗟𝗔 𝗣𝗔𝗗𝗜𝗟𝗟𝗔 | Lima, Perú
+    bio: >-
+      🇵🇪Peruvian Athlete - Long Jumper ⚡️Certified Fitness Coach 📩@athleticcontrast.club 👩🏽‍💻Content Creator
+    location: "Peru"
+    followers: 19366
+    engagement: 130
+    commentsToLikes: 0.040844
+    id: ck6uc7vb2e04i0j71mwpxeim7
+    verified: false
+    hashtags: "#asicsfrontrunner, #runner, #runners, #tbt"
   - username: "patriciaalquintaoficial"
     fullname: >-
       patricia alquinta
     bio: >-
-      Actriz 🇺🇸🇵🇪 Tv host @chapatucombitv emperatriz Fitness coach 🏋🏻‍♀️ Novelas: 📽🎥🎬
+      Actriz 🇺🇸🇵🇪🦋 Tv host @chapatucombitv emperatriz Fitness coach 🏋🏻‍♀️ Novelas: 📽🎥🎬
     location: "Peru"
-    followers: 37784
-    engagement: 101
-    commentsToLikes: 0.071862
+    followers: 40039
+    engagement: 81
+    commentsToLikes: 0.073907
     id: ck5zq38yotur90i14ce7gtd89
     verified: false
-    hashtags: "#arms, #passion, #workout, #moments"
-  - username: "gaby_fit_beats"
+    hashtags: "#arms, #love, #fitnessmotivation, #healthylifestyle"
+  - username: "jennvelasquezfit"
     fullname: >-
-      GabyFitBeats coach
+      ᴊᴇɴɴʏ ꜰɪᴛɴᴇꜱꜱ  | ᴄᴏᴀᴄʜ 💜💪🏻
     bio: >-
-      🇪🇸 / 🇬🇹 Fitness/wellness coach 💃Salsation basic instructor 🕺Treadmilldance instructor ❤️ Calisthenics 🏠 Interior designer 👨‍👩‍👦‍👦 Mom/wife
+      Todo lo que hagas hazlo con amor 💜🥰 ᴊᴇɴɴʏ ꜰɪᴛɴᴇꜱꜱ ᴄᴏᴀᴄʜ 🏋️‍♀️/ 📸/ 🌄 ÚNETE A MI RETO DE TRANSFORMACIÓN!💪🏻🔥 Escríbeme #RETO9SEMANAS 📲 👇🏻👇🏻👇🏻
     location: "Peru"
-    followers: 10827
-    engagement: 448
-    commentsToLikes: 0.061818
-    id: ck0w0rfuefo2v0i19k6r2gxif
+    followers: 24174
+    engagement: 199
+    commentsToLikes: 0.017487
+    id: ckap4ks7w7qhh0i785ilwzrvs
     verified: false
-    hashtags: "#dancelover, #challenge, #lovewhatyoudo, #baile"
-  - username: "liz.andrade26"
-    fullname: >-
-      Liz Andrade✨🐒
-    bio: >-
-      BIENVENIDOS 🦋💫 PUBLICIDAD👉🏻liz.andrade.silvano26@gmail.com 👙@topcropptejidos 💪@jsportpro PERUANA🇵🇪 TINGO MARIA🌳
-    location: "Peru"
-    followers: 324175
-    engagement: 764
-    commentsToLikes: 0.041907
-    id: ckapbr3pq10t80i788cpx1q68
-    verified: false
-    hashtags: "#likesforlike, #girls, #pictureoftheday, #bellezanatural"
-  - username: "brisabraunl"
-    fullname: >-
-      Brisa Braun
-    bio: >-
-      <create your own happiness> 🌿 Healthy lifestyle 📍 Trujillo, Perú 💚 Feminista 💜 DM/Email for Collabs
-    location: "Peru"
-    followers: 6979
-    engagement: 1486
-    commentsToLikes: 0.046136
-    id: ck6ti4oe401570j71jif3dfqp
-    verified: false
-    hashtags: "#fitnessmotivation, #feelingblessed, #love, #nature"
+    hashtags: "#goals, #gymmotivation, #goodvibes, #youcandoit"
 ---

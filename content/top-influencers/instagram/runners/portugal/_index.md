@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Portugal In 2022
+title: Top 10 Runners Instagram Influencers In Portugal in 2023
 description: >-
-  Find top runners Instagram influencers in Portugal in 2022. Most popular hashtags: #portugal #sunset #travel #runner.
+  Find top runners Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #sunset #travel #runner.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram accounts on inBeat.

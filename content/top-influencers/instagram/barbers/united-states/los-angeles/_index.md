@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Los Angeles In 2022
+title: Top 10 Barbers Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top barbers Instagram influencers in Los Angeles in 2022. Most popular hashtags: #barbershopconnect #barber #haircut #barbers.
+  Find top barbers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #barber #losangelesbarber #barbershop #beard.
 platform: Instagram
-hits: 91
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 91 Instagram influencers like this in Los Angeles, United States for you to work with.
+hits: 71
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 71 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "deanothebarber_"
+  - username: "loscuts_"
     fullname: >-
-      Dean Lauer ✪
+      Los
     bio: >-
-      •Best Looks Improve Success • @therichbarber LA West Hollywood • #prettybarbers •IMAGE CONSULTANT •Hattori Hanzo Artist * BOOKS CLOSED *
+      Portland, Oregon Barber 💈 Tik Tok : loscuts_
     location: "United States"
-    followers: 10556
-    engagement: 1617
-    commentsToLikes: 0.024142
-    id: ckaorsv41olsr0i78hpwbjjjc
+    followers: 73024
+    engagement: 312
+    commentsToLikes: 0.018151
+    id: ck602du8uh78j0i141ia2msbu
     verified: false
-    hashtags: "#hollywoodbarber, #calibarber, #photography, #newyorkbarber"
-  - username: "omarbarberdiaz"
+    hashtags: "#eyebrows, #hairtutorial, #transformation, #barbershop"
+  - username: "cristianblends"
     fullname: >-
-      MEN’S HAIR,BEARDS & STYLES,OBD
+      
     bio: >-
-      💈MY TALENT IS FROM GOD💈📲HAIRCUT,FOR APPOINTMENT PRESS ( @booksybiz ) THE 🔘BOOK NOW 🔘BUTTON ⏩⬇️🔜FOR MY PAGE WEDSITE LINK FOLLOW THE DOWN ARROW ⬇️⬇️⬇️
+      🌐 LA/IE HAIR ARTIST 🎥YouTube : cristianblends 💈 Appointments Click BOOK NOW ⬇️⬇️ 📧 Business : Contact@tablerockmanagement.com
     location: "United States"
-    followers: 66201
-    engagement: 82
-    commentsToLikes: 0.039337
-    id: ck14h0lzu7y1h0i19x7d5rsfa
+    followers: 90738
+    engagement: 1360
+    commentsToLikes: 0.009464
+    id: ck13cd3nxzriq0i19rst1vt22
     verified: false
-    hashtags: "#viral, #barberstyle, #gentleman, #menstyle"
+    hashtags: "#explore, #hollywood, #haircut, #selfcare"
+  - username: "j.marrtt"
+    fullname: >-
+      LA & Sac Barber Julio Martinez
+    bio: >-
+      💈x 💲x 💯 Sacramento CA x Los Angeles Barber 10ToesDown LLC @TheRichBarber YouTube Channel: “J.MARRTT” ↘️Appointment Only↙️
+    location: "United States"
+    followers: 113976
+    engagement: 248
+    commentsToLikes: 0.016399
+    id: ck5hoo2rlpwt20i1179urspsf
+    verified: false
+    hashtags: ""
   - username: "_southbaychris"
     fullname: >-
-      LA Barber • Christian Maciel
+      LA Barber
     bio: >-
-      Los Angeles Barber Licensed Professional Barber Click The Link For Youtube Tutorials Press The Book Button Below For Appoinments
+      Los Angeles Barber Licensed Professional Click The Link For Youtube Tutorials Press The BOOK NOW OPTION Below For Appoinments
     location: "United States"
-    followers: 130017
-    engagement: 280
-    commentsToLikes: 0.012139
+    followers: 137188
+    engagement: 159
+    commentsToLikes: 0.011451
     id: ck0u1f5s4wmoh0i198dp3px10
     verified: false
-    hashtags: "#transformation, #haircut, #menshair, #beverlyhillsbarber"
-  - username: "menstylestutorial"
+    hashtags: ""
+  - username: "edwardklipperhands"
     fullname: >-
-      Men Style Tutorial Tips ✂️👔👞
+      Da Spot Barbershop🌴🇺🇸
     bio: >-
-      A Guide to Men's Fashion | Hair | Luxury | LifeStyle🕴 Content Curated by Professionals 🖲 #menstylestutorial Est. December 2017
+      ARTIST 🎨 CEO 💈✂️ 📍Southern California 🌴 #StayHumble 👇🏼👇🏼Go fund Me 👇🏼👇🏼
     location: "United States"
-    followers: 110393
-    engagement: 216
-    commentsToLikes: 0.054346
-    id: ckap02978oeim0i7852z9n6wi
+    followers: 63045
+    engagement: 77
+    commentsToLikes: 0.081692
+    id: ck0w318z4r4cf0i19e4putkqt
     verified: false
-    hashtags: "#masterbarber, #andis, #menstylestutorial, #fade"
+    hashtags: "#artist, #haircolor, #pomona, #barberlife"
+  - username: "therealtrippy"
+    fullname: >-
+      THEREALTRIPPY ✪
+    bio: >-
+      TR💈PP'S BARBERSHOP Owner/Barber Sponsored by BlackSolutions Barbersupply562 IrvingBarberCompany GandBPro Barber @dayzdew😘💍
+    location: "United States"
+    followers: 42714
+    engagement: 64
+    commentsToLikes: 0.066775
+    id: ck13bx9zkxl3g0i19a4z2u3y4
+    verified: false
+    hashtags: "#vegasbarber, #hair, #irvinebarber, #hairloss"
+  - username: "kindakrisp"
+    fullname: >-
+      Pedro*Kindakrisp 🎨
+    bio: >-
+      im a failure :)
+    location: "United States"
+    followers: 4742
+    engagement: 6428
+    commentsToLikes: 0.085586
+    id: ckaovtmqx643h0i78598jklye
+    verified: false
+    hashtags: "#andis, #combover, #barberlove, #barberia"
   - username: "jfadeit"
     fullname: >-
       LA Barber Joel Thompson
     bio: >-
       💈Los Angeles/Hollywood🎬Barber Book Appointments Below👇🏽
     location: "United States"
-    followers: 114561
-    engagement: 367
-    commentsToLikes: 0.032246
+    followers: 127766
+    engagement: 237
+    commentsToLikes: 0.016273
     id: ck5hoo1phpwrp0i118uo2rxck
     verified: false
     hashtags: ""
-  - username: "adereti.s"
+  - username: "bestestbarber"
     fullname: >-
-      SAMUEL ADERETI | 23 🇳🇬🇲🇱
+      Bestest | PATDON | Los Angeles
     bio: >-
-      #adereti #aderetistudio 🌃 Night haircut BARBER + 50€ 🏠 Home +100€ 📩 Infoadereti@gmail.com 🖥 YouTube: ADERETI
+      💈$300 minimum (housecalls only) 🪞🪞🪞 BESTEST MIRROR (coming soon) ⬇️ Sign up now ⬇️
     location: "United States"
-    followers: 74464
-    engagement: 406
-    commentsToLikes: 0.327180
-    id: ck6u5m1nmaeui0j71th6ejuf4
+    followers: 560450
+    engagement: 73
+    commentsToLikes: 0.011331
+    id: ck13bxix4xmc20i191ltie0yv
     verified: false
-    hashtags: "#menstyle, #supreme, #skinfade, #mostwantedsav"
-  - username: "h3dimensions"
+    hashtags: "#bestest, #afrohair, #hairtransformation, #style"
+  - username: "howtobarber"
     fullname: >-
-      ApplyingPressure™
-    bio: >-
       
-    location: "United States"
-    followers: 20954
-    engagement: 175
-    commentsToLikes: 0.081917
-    id: ck6to3dnzbvtl0j71vcdxolwk
-    verified: false
-    hashtags: "#barbersince98, #fadegame2raw, #barbershopconnect, #vh1"
-  - username: "videobydavidcruz"
-    fullname: >-
-      David Cruz
     bio: >-
-      🎥 🅕🅘🅛🅜 🅜🅐🅚🅔🅡 🎬 💈 Videographer 📸 @photobydavidcruz TikTok @VideoByDavidcruz
+      - @thecutapp Brand Ambassador - CEO @staysharpsandiego - CEO @byhowtobarber Shop Here 👇
     location: "United States"
-    followers: 54581
-    engagement: 197
-    commentsToLikes: 0.040176
-    id: ck0w31fo0r5cz0i19k2hiudc0
+    followers: 25850
+    engagement: 338
+    commentsToLikes: 0.049051
+    id: ckaoqyqcsky7p0i78rz4xc7qn
     verified: false
-    hashtags: "#kobe, #kobebeef, #lakers4life, #barber"
-  - username: "ivancutzsharp"
-    fullname: >-
-      CEO of IVANCUTZSHARP 🌐🔱
-    bio: >-
-      Lead by example ⚜️ Selfcut system review video 🔽✂️🙏🔥
-    location: "United States"
-    followers: 32335
-    engagement: 522
-    commentsToLikes: 0.014367
-    id: ck5hoo1fmpwqg0i11vfd3ggvn
-    verified: false
-    hashtags: "#calibarber, #texasbarbers, #sacbarber, #blurryfade"
-  - username: "worldclassbarbering"
-    fullname: >-
-      ♛WorldClassBarbering♛FL Barber
-    bio: >-
-      💈 Best barbers in the game 💲Tag @worldclassbarbering and use #worldclassbarbering for s/o and reposts❗️ 🔥 Hottest haircuts and styles ✂️ Features
-    location: "United States"
-    followers: 41262
-    engagement: 399
-    commentsToLikes: 0.040523
-    id: ck5c6es9e5afb0i117ca8hb6w
-    verified: false
-    hashtags: "#hairtransformation, #ukbarbers, #denverbarber, #babylisspro"
+    hashtags: "#juicebyhowtobarber, #staysharpsandiego, #thecutappbrandambassador, #nextlevel"
 ---

@@ -1,108 +1,72 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Colombia In 2022
+title: Top 10 Dancers TikTok Influencers In Colombia In 2023
 description: >-
-  Find top dancers TikTok influencers in Colombia in 2022. Most popular hashtags: #colombia #parati #foryou #fyp.
+  Find top dancers TikTok influencers in Colombia in 2023. Most popular hashtags: #dancer #dance #foryou #viral.
 platform: TikTok
-hits: 23
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 23 TikTok influencers like this in Colombia for you to connect with.
+hits: 26
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 26 TikTok influencers like this in Colombia for you to contact.
 profiles:
-  - username: "chyo_00"
-    fullname: >-
-      chyo_00
-    bio: >-
-      🇨🇴🇮🇱 💃lin Makeup artist former dancer
-    location: "Colombia"
-    followers: 3748
-    engagement: 487
-    commentsToLikes: 0.083228
-    id: ckbl4z8br2cbi0j23lnm7cd29
-    verified: false
-    hashtags: "#4youpage, #duet, #dance, #4you"
-  - username: "unapersonabailando"
-    fullname: >-
-      🔥DANCER FLOW🔥
-    bio: >-
-      NIÑA🦋 DANCER🖤 ENSEÑÓ MI CARA ALOS 1K
-    location: "Colombia"
-    followers: 29
-    engagement: 1169
-    commentsToLikes: 0.008299
-    id: ckdi7ct7b97fh0j23nrhlbt37
-    verified: false
-    hashtags: "#foryoupage, #tutoriales, #tutorial, #parati"
   - username: "andresmurart"
     fullname: >-
       andresmurart
     bio: >-
-      🇨🇴🏳️‍🌈 actor and dancer ❤️ 200K? 🦖 ig: @andresmurart
+      🇨🇴🏳️‍🌈 actor and dancer ❤️ 250k? 🧸 ig: @andresmurart
     location: "Colombia"
-    followers: 178800
-    engagement: 1619
-    commentsToLikes: 0.007814
+    followers: 220800
+    engagement: 1472
+    commentsToLikes: 0.011364
     id: ckamlpxzux8100i78iy0li00m
     verified: false
-    hashtags: "#comedia, #makeup, #parati, #halloween"
+    hashtags: "#comedia, #humorgay, #foryou, #amigas"
   - username: "jonathanz16"
     fullname: >-
       jona montoya
     bio: >-
       #zumbainstructor Colombiano🇨🇴 IG: jonamontoyazumba Professional salsa dancer
     location: "Colombia"
-    followers: 47000
-    engagement: 760
-    commentsToLikes: 0.016642
+    followers: 56400
+    engagement: 722
+    commentsToLikes: 0.017625
     id: ck9feiw5it69l0j78b5bjjbgd
     verified: false
-    hashtags: "#tiktokers, #votd, #challenge, #foryou"
-  - username: "bee3queen"
+    hashtags: "#salsa, #salsacale, #followers, #votd"
+  - username: "lospiesdelu"
     fullname: >-
-      Paola Rodriguez
+      Luisa Perico
     bio: >-
-      50k? Dancer ❤️ cheer trainer🥰 Instagram: @bee3queen
+      Soy Lu; Bueno, mis pies.
     location: "Colombia"
-    followers: 37000
-    engagement: 636
-    commentsToLikes: 0.009892
-    id: ckbfcha2x58990j234c044jr4
+    followers: 233200
+    engagement: 1544
+    commentsToLikes: 0.013337
+    id: ck97wif94r8po0j78hbnl5eib
     verified: false
-    hashtags: "#twerk, #twerkchallenge, #fyp, #couplegoals"
-  - username: "jhoancheer"
+    hashtags: "#balletshoes, #feet, #socks, #dance"
+  - username: "jonier_lora"
     fullname: >-
-      Jhoan Cheer
+      JONIER 🔥
     bio: >-
-      🕺🏽 Amo Bailar 🕺🏽 🇨🇴Colombia 🇨🇴 Sigueme en instagram @jhoan_cheer💫
+      B-QUILLA-COLOMBIA🇨🇴 SIGUEME EN INST: @jonier_lora❤️ SOY UN BEBÉ 🙈
     location: "Colombia"
-    followers: 187000
-    engagement: 1536
-    commentsToLikes: 0.011058
-    id: ckd01yoyk8j9w0j23ii3wrr11
+    followers: 121500
+    engagement: 1421
+    commentsToLikes: 0.031042
+    id: ckcjh5j19c1d00j23ofn3pl5e
     verified: false
-    hashtags: "#fyp, #urbandance, #tiktokviral, #team"
-  - username: "olgui_munozr"
+    hashtags: "#comenta, #enunminuto, #viral, #dancer"
+  - username: "giovannigatomora"
     fullname: >-
-      Olga Muñoz rodriguez
+      Giovanni Gato Mora
     bio: >-
-      Colombiana🇨🇴 Si te gusta lo que ves, Quédate❤️ Amo los animales, en especial🐶
+      🇨🇴😊 Vivo en un sueño 😊 20k gatunos!!! 🥳 Live los sábados IG @giovannigatom
     location: "Colombia"
-    followers: 3938
-    engagement: 1062
-    commentsToLikes: 0.058405
-    id: ckdsxok0gqr610j233jefo6z9
+    followers: 20100
+    engagement: 838
+    commentsToLikes: 0.030623
+    id: ckb9p6ptkk21l0j23jfesd8td
     verified: false
-    hashtags: "#viral, #dancing, #virall, #fyp"
-  - username: "alexripolldancer"
-    fullname: >-
-      Alex Ripoll
-    bio: >-
-      Bailarín👑 ✨Eres lo quieres ser✨ Sígueme en Instagram @alexripolldancer
-    location: "Colombia"
-    followers: 21900
-    engagement: 959
-    commentsToLikes: 0.040448
-    id: ckbf9c6cj059h0j238lilgzzg
-    verified: false
-    hashtags: ""
+    hashtags: "#cat, #fyp, #parat, #dancer"
   - username: "nailuce"
     fullname: >-
       Nairem Ramirez
@@ -114,17 +78,53 @@ profiles:
     commentsToLikes: 0.016736
     id: ckai6c7unvjx90i7855fpeesc
     verified: false
-    hashtags: "#dancer, #colombiana, #dance, #yayaya"
+    hashtags: "#dance, #tiktoker, #foryou, #latina"
   - username: "alejocaro2"
     fullname: >-
       Alejo Caro
     bio: >-
       🇨🇴 taekwondo👊 Tunjano sumerce Instagram : @alejocaro_
     location: "Colombia"
-    followers: 21500
-    engagement: 1507
-    commentsToLikes: 0.016122
+    followers: 37300
+    engagement: 1374
+    commentsToLikes: 0.016731
     id: ck9c17ayfomh30j78mvccj5mj
     verified: false
-    hashtags: "#yoga, #gimnastic, #stretching, #dance"
+    hashtags: "#dance, #yoga, #latinoamerica, #split"
+  - username: "alexripolldancer"
+    fullname: >-
+      Alex Ripoll
+    bio: >-
+      Barranquilla 📍🇨🇴 IG : @alexripolldancer
+    location: "Colombia"
+    followers: 24000
+    engagement: 780
+    commentsToLikes: 0.037188
+    id: ckbf9c6cj059h0j238lilgzzg
+    verified: false
+    hashtags: "#parati, #dancer, #viral, #baile"
+  - username: "carlosyalger"
+    fullname: >-
+      CARLOS&ALGER
+    bio: >-
+      🥰Síguenos en Instagram 🥰 ♥️ Instagram: alger_quintero / oficialcarlosl ♥️
+    location: "Colombia"
+    followers: 3000000
+    engagement: 979
+    commentsToLikes: 0.010070
+    id: cka83s6l2q7ts0i78jl233dep
+    verified: false
+    hashtags: "#trend, #humor, #couple, #comedy"
+  - username: "paloma_d.s"
+    fullname: >-
+      Angiie PaLomares
+    bio: >-
+      Bailarina profesional e instructora , ah y también psicóloga 😋🤪 IG: paloma_d.s
+    location: "Colombia"
+    followers: 91800
+    engagement: 432
+    commentsToLikes: 0.012678
+    id: ckbf00qxplgzv0j23ipv4rnt7
+    verified: false
+    hashtags: "#foryou, #dancer, #salsa, #cambiodelook"
 ---

@@ -1,120 +1,60 @@
 ---
-title: Top 10 Vegan TikTok Influencers In United States In 2022
+title: Top 10 Vegan TikTok Influencers In United States In 2023
 description: >-
-  Find top vegan TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #greenscreen #biden.
+  Find top vegan TikTok influencers in United States in 2023. Most popular hashtags: #fyp #vegan #duet #beauty.
 platform: TikTok
-hits: 1028
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 1028 TikTok influencers like this in United States for you to collaborate.
+hits: 1020
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 1020 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "thevintagegoree"
-    fullname: >-
-      •Black Retro Babe•
-    bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
-    location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
-    verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "alaneatsfrogs"
-    fullname: >-
-      alan raskin :)
-    bio: >-
-      "i’m a vegan except for when i eat the rich" - noor wendy WHALEyums stan accoun
-    location: "United States"
-    followers: 49500
-    engagement: 2471
-    commentsToLikes: 0.046072
-    id: ckdn8veqjfihi0j23mwyza1it
-    verified: false
-    hashtags: "#biden2020, #voting, #gay, #electionday"
-  - username: "findingjayreace"
-    fullname: >-
-      🤴🏽Mr.Positivity 🌱
-    bio: >-
-      Author/Speaker Veganism | Health | Motivation | Legacy is available now👇🏾|
-    location: "United States"
-    followers: 9112
-    engagement: 2153
-    commentsToLikes: 0.429635
-    id: ck9skqa1ua13n0j78xb4nidzv
-    verified: false
-    hashtags: "#positivitytrain, #reacenation, #stitch, #strapback"
   - username: "veganlesbianrepublicans"
     fullname: >-
       Eve & Das
     bio: >-
       “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
     location: "United States"
-    followers: 47500
-    engagement: 2110
-    commentsToLikes: 0.086643
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
     id: ckdclovylnw2r0j23tvaevkjy
     verified: false
-    hashtags: "#democrat, #kag, #conservative, #liberal"
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
+    fullname: >-
+      mae mae
+    bio: >-
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
+    location: "United States"
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
+    verified: false
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+  - username: "veganmumu"
+    fullname: >-
+      Shannon
+    bio: >-
+      your vegan mom 🐧 Florida 🍊
+    location: "United States"
+    followers: 6762
+    engagement: 1446
+    commentsToLikes: 0.401234
+    id: ckavlfj1duq540j237nx3htr9
+    verified: false
+    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
   - username: "kawaiikingb"
     fullname: >-
       MJ Cobra
     bio: >-
       (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
     location: "United States"
-    followers: 4375
-    engagement: 2868
-    commentsToLikes: 0.066832
+    followers: 4459
+    engagement: 2638
+    commentsToLikes: 0.068353
     id: ckav30jp99aym0j2355hwtnvy
     verified: false
-    hashtags: "#decorakei, #kawaii, #darkora, #altgirl"
-  - username: "antheiamae"
-    fullname: >-
-      mae mae
-    bio: >-
-      your hippie vegan big sis 🥰 insta @antheiali she/her @eco_tok
-    location: "United States"
-    followers: 4789
-    engagement: 1931
-    commentsToLikes: 0.109926
-    id: ckdi698kc7kx40j23kfpcva2q
-    verified: false
-    hashtags: "#climatechange, #plantbased, #vegan, #sustainable"
-  - username: "mikebrigandi"
-    fullname: >-
-      Mike Brigandi
-    bio: >-
-      Daily Videos. Big ideas. Atheist. Vegan Click link below 👇🏽 to get cool merch!
-    location: "United States"
-    followers: 197200
-    engagement: 1780
-    commentsToLikes: 0.066092
-    id: ckb9o6gn2idk60j23da35lxia
-    verified: false
-    hashtags: "#technology, #science, #crazy, #nature"
-  - username: "veganteacher1988"
-    fullname: >-
-      Mrs. B
-    bio: >-
-      Liberal.Teacher.Ally.Vegan.Hippie.32.Boymom. Recycler. Treeplanter.CoffeeLover.
-    location: "United States"
-    followers: 31000
-    engagement: 1775
-    commentsToLikes: 0.134687
-    id: ckcpcoa4rfp6h0j23n8irxm8x
-    verified: false
-    hashtags: "#vote, #voteblue, #voteinperson, #greenscreensticker"
-  - username: "rosschunghalfcrazy"
-    fullname: >-
-      RossChungHumble
-    bio: >-
-      Most Known Unknown Vegan 🥑🥦 41. NYC Objective Hater 👹 HUMP or JUMP😈
-    location: "United States"
-    followers: 22200
-    engagement: 1970
-    commentsToLikes: 0.044245
-    id: ckcj8psb37e3u0j237d2f9krj
-    verified: false
-    hashtags: "#defundnypd, #votehimout, #wewintogether, #votekamala"
+    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -126,5 +66,65 @@ profiles:
     commentsToLikes: 0.306454
     id: ckbevm1ivf82w0j239aiiq4na
     verified: false
-    hashtags: "#duet, #fyp, #vegan, #greenscreen"
+    hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
+  - username: "elfyeah"
+    fullname: >-
+      elfyeah
+    bio: >-
+      ✨ it's the e.l.f.ing amazing content for us ✨ 100% vegan + cruelty-free 🐰🤩
+    location: "United States"
+    followers: 295800
+    engagement: 2091
+    commentsToLikes: 0.030105
+    id: cka0ml8muvp7a0i78prjrqopz
+    verified: true
+    hashtags: "#beauty, #makeuplook, #makeupjourney, #makeupmusthaves"
+  - username: "alykara"
+    fullname: >-
+      💖Aly💖
+    bio: >-
+      🥰Hope you’re having a good day🥰 ✨19✨ 🌱I’m plant based (not vegan)🌱
+    location: "United States"
+    followers: 1200000
+    engagement: 2020
+    commentsToLikes: 0.025660
+    id: ck8faj1q44dkr0j78qd24dbjr
+    verified: false
+    hashtags: "#xyzbca, #vegan, #fyp, #family"
+  - username: "stargirlcosmetics"
+    fullname: >-
+      StarGirl Cosmetics
+    bio: >-
+      Vegan & Cruelty Free small business ✨☁️ ☁️ CODE TIKTOK for $$ off
+    location: "United States"
+    followers: 63800
+    engagement: 1962
+    commentsToLikes: 0.085748
+    id: ckdclzd48o7m30j23bo63y8k3
+    verified: false
+    hashtags: "#fyp, #smallbusiness, #palette, #glitter"
+  - username: "muva_hustlaa"
+    fullname: >-
+      Nina
+    bio: >-
+      👸🏽 Pretty good at keepin it real 😜 Good vibes, laughs, vegan 🌱💚 @beadbody
+    location: "United States"
+    followers: 4541
+    engagement: 1381
+    commentsToLikes: 0.146150
+    id: ckcv4z5cpp2f00j230yo2hytp
+    verified: false
+    hashtags: "#fyp, #draft, #tb, #naturalhair"
+  - username: "delavegan"
+    fullname: >-
+      302 Vegan
+    bio: >-
+      Video Games Comics Marvel/DC Metal/Rock music Vegan 4 The Animals Politics
+    location: "United States"
+    followers: 6874
+    engagement: 1071
+    commentsToLikes: 0.144822
+    id: ckavshd0h4zi80j2330pof3t6
+    verified: false
+    hashtags: "#voteforchange2020, #mentalhealrhawreness, #mentalhealthtiktoks, #mentalhealness"
 ---

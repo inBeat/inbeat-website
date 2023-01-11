@@ -1,48 +1,48 @@
 ---
-title: Top 10 TikTok Influencers In Manchester In 2022
+title: Top 10 TikTok Influencers In Manchester In 2023
 description: >-
-  Find top TikTok influencers in Manchester in 2022. Most popular hashtags: #duet #fyp #foryoupage #foryou.
+  Find top TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
-hits: 255
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 255 TikTok influencers like this in Manchester, United Kingdom for you to work with.
+hits: 234
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 234 TikTok influencers like this in Manchester, United Kingdom for you to collaborate.
 profiles:
-  - username: "nicole_martinez_"
+  - username: "olivia_._taylor"
     fullname: >-
-      💧🖤Nicole Boccasile
+      Liv Taylor
     bio: >-
-      Liz & Mel ♡ ~Nicole~ ~16 y/o~ ~Italian~Manchester~
+      Manchester
     location: "United Kingdom"
-    followers: 33000
-    engagement: 2777
-    commentsToLikes: 0.044730
-    id: ckad720v2257s0i78sgjrvou5
+    followers: 12500
+    engagement: 589
+    commentsToLikes: 0.017352
+    id: ckb9pe8gzk8ts0j23kndkt2we
     verified: false
-    hashtags: "#crybaby, #k12, #melaniemartinez, #arianagrande"
+    hashtags: "#fyp, #lipsync, #uk, #cbb"
+  - username: "missannemariegriffin40"
+    fullname: >-
+      Miss Anne-Marie Griffin ❤️❤️
+    bio: >-
+      MANCHESTER MUM ❤️ lF YOU HAVE NOTHING NICE TO SAY 🙄 DONT SAY ANYTHING AT ALL ❤️
+    location: "United Kingdom"
+    followers: 34800
+    engagement: 2005
+    commentsToLikes: 0.321596
+    id: ck8nkvkq1h50l0j78hyxzvt2g
+    verified: false
+    hashtags: "#happymonday, #happyfridayyall, #haveaniceevningeveryone, #happysunday"
   - username: "riocandlin"
     fullname: >-
       RC
     bio: >-
       Just somethin to do really 😴 Manchester 🇬🇧 Road too 300k !🔥 Riocandlinspam
     location: "United Kingdom"
-    followers: 209500
-    engagement: 2383
-    commentsToLikes: 0.022450
+    followers: 206700
+    engagement: 2131
+    commentsToLikes: 0.026205
     id: ck93oxn4k702n0j788milusi0
     verified: false
-    hashtags: "#foryoupage, #fup, #fyp, #foryou"
-  - username: "s.begum4"
-    fullname: >-
-      Swapna.begum4
-    bio: >-
-      sylhet 🇧🇩Manchester 🇬🇧give respect get respect don't be jealous with anyone
-    location: "United Kingdom"
-    followers: 53300
-    engagement: 4148
-    commentsToLikes: 0.064152
-    id: ck8ae1wyt92tz0j780lypd228
-    verified: false
-    hashtags: "#unfreezemyaccount, #products, #fypps, #boycott"
+    hashtags: "#fup, #foryou, #foryoupage, #fyp"
   - username: "tom.jessop"
     fullname: >-
       tomjessop
@@ -54,19 +54,7 @@ profiles:
     commentsToLikes: 0.090384
     id: ckd6c28f04v6z0j234kmihn0k
     verified: false
-    hashtags: "#foryoupage, #foryou, #fyp, #viral"
-  - username: "frostybear75"
-    fullname: >-
-      Martyn Frost
-    bio: >-
-      Manchester Gay Bear. Am I doing this right? Be kind 🔞🐻🌈🏳️‍🌈🇬🇧
-    location: "United Kingdom"
-    followers: 7817
-    engagement: 1902
-    commentsToLikes: 0.216090
-    id: ckaikzlvqlshw0i78cm56q7tb
-    verified: false
-    hashtags: "#spooktober, #duet, #gay, #lgbt"
+    hashtags: "#viral, #fyp, #foryou, #viralvideo"
   - username: "sten76"
     fullname: >-
       Sten
@@ -78,53 +66,65 @@ profiles:
     commentsToLikes: 0.086252
     id: ck8tt045nrmo20j78prgqya1g
     verified: false
-    hashtags: "#nothing, #foryoupage, #duet, #fine"
-  - username: "chrisgrave"
+    hashtags: "#fine, #igotchills, #nothing, #idid"
+  - username: "megansmoment"
     fullname: >-
-      Chris Grave
+      Megan’s Moment
     bio: >-
-      20 | Manchester | He/Him 👆🏻 Follow my Instagram! 👆🏻 Yee 🤠
+      She/Her 19, Manchester, UK 🌈 Follow my Insta: @megansmoment
     location: "United Kingdom"
-    followers: 220300
-    engagement: 2462
-    commentsToLikes: 0.015625
-    id: ckb9lx9ndelqz0j23xetjbeel
+    followers: 11800
+    engagement: 1359
+    commentsToLikes: 0.109640
+    id: ckbexbv45hh810j23eb05uv15
     verified: false
-    hashtags: "#makeupartist, #jdwonderland, #fyp, #halloween"
-  - username: "arkhamgirlcosplay"
+    hashtags: "#mua, #fyp, #foryoupage, #bi"
+  - username: "repetezsilvousplait"
     fullname: >-
-      arkhamgirlcosplay
+      Léana 🐝
     bio: >-
-      Manchester Cosplayer. Insta - Arkhamgirlcosplay (Lisa-Marie)
+      23 • she/they Strasbourg / Manchester Your 🇫🇷 big sister ✨
     location: "United Kingdom"
-    followers: 3610
-    engagement: 1820
-    commentsToLikes: 0.055914
-    id: ckae53j6l5j9t0i78z5uj45pi
+    followers: 44700
+    engagement: 1637
+    commentsToLikes: 0.029766
+    id: ck83zork31p3q0j7859rgyaox
     verified: false
-    hashtags: "#cosplayer, #classicharleyquinn, #duet, #anakinskywalker"
-  - username: "missannemariegriffin40"
+    hashtags: "#unofficialcheck, #fyp, #french, #foryou"
+  - username: "frostybear75"
     fullname: >-
-      Miss Anne-Marie Griffin ❤️❤️
+      Martyn Frost
     bio: >-
-      MANCHESTER MUM ❤️ BRODIE JOES MUM ❤️ THANKS TO U ALL FOR ALL THE LOVE 😘🙏🏻❤️
+      Manchester Gay Bear. Am I doing this right? Be kind 🔞🐻🌈🏳️‍🌈🇬🇧
     location: "United Kingdom"
-    followers: 34100
-    engagement: 1119
-    commentsToLikes: 0.158434
-    id: ck8nkvkq1h50l0j78hyxzvt2g
+    followers: 8609
+    engagement: 1838
+    commentsToLikes: 0.189811
+    id: ckaikzlvqlshw0i78cm56q7tb
     verified: false
-    hashtags: "#lockdown2020, #manchestermum, #neverjudgesomeone, #alwaysbenice"
-  - username: "morriganatherton"
+    hashtags: "#lgbt, #gaybearsoftiktok, #over40, #silhouettechallenge"
+  - username: "unitedclipz"
     fullname: >-
-      m
+      Leon James 🔴👹
     bio: >-
-      manchester uk prismacolor, luminance, polychromos✍🏼
+      Follow For Manchester United Content 🔴⚽️ Leon.mufc On Instagram 👹
     location: "United Kingdom"
-    followers: 18700
-    engagement: 2653
-    commentsToLikes: 0.043973
-    id: ck8adbqd84y6a0j78smb8qyjr
+    followers: 24700
+    engagement: 1705
+    commentsToLikes: 0.103528
+    id: ckdh17oumrre00j230hap3tt2
     verified: false
-    hashtags: "#art, #drawing, #foryou, #foryoupage"
+    hashtags: "#premierleague, #foryou, #4u, #bpl"
+  - username: "daniellelouisexox9"
+    fullname: >-
+      Danielle Louise Holt
+    bio: >-
+      Instagram-Missdaniellelouisexox MANCHESTER 🥰🥰🥰🥰 Road to 50k followers 🤪
+    location: "United Kingdom"
+    followers: 34500
+    engagement: 986
+    commentsToLikes: 0.119378
+    id: ckc8xp6rylss30j23ossj4koo
+    verified: false
+    hashtags: "#car, #foryou, #foryoupage, #duet"
 ---

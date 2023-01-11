@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bmx Instagram Influencers In United Kingdom In 2022
+title: Top 10 Bmx Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top bmx Instagram influencers in United Kingdom in 2022. Most popular hashtags: #bmx #bmx4life #bikes.
+  Find top bmx Instagram influencers in United Kingdom in 2023. Most popular hashtags: #bmx #bmxlife #love.
 platform: Instagram
-hits: 87
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 87 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 45
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 45 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "callumraffertybmx"
+  - username: "csepelcservenak"
     fullname: >-
-      Callum Rafferty
+      Csepel Cservenák
     bio: >-
-      Bmx 🇬🇧 | kee ❤️| @tallorderbmx @tlcbikes
+      ▫️ BMX RIDER and PHOTOGRAPHER 📸 ▫️ Exatlon Hungary - Kihívók 🔷
     location: "United Kingdom"
-    followers: 7665
-    engagement: 912
-    commentsToLikes: 0.018882
-    id: ck5hdixjvno1h0i11vm9prp8r
+    followers: 26384
+    engagement: 1053
+    commentsToLikes: 0.003805
+    id: ck5zoiwo5qnvn0i146dnh99nt
     verified: false
-    hashtags: "#bmx"
-  - username: "shanazereade"
-    fullname: >-
-      Shanaze Reade
-    bio: >-
-      🇬🇧 2 x Olympic Athlete 🥇 5 x BMX & Track World Champion @bikeisbesthq Ambassador ✉️ Enquiries @bespoke_m
-    location: "United Kingdom"
-    followers: 15284
-    engagement: 448
-    commentsToLikes: 0.016404
-    id: ck15rjg4m87vp0i19q00x9jzr
-    verified: false
-    hashtags: "#lesbian, #influencer, #lgbt, #summer"
+    hashtags: "#hirdetes, #bmx, #mvmt, #jointhemovement"
   - username: "johnhuntphotography"
     fullname: >-
       John Hunt Jr 🏴‍☠️
     bio: >-
-      Photographer/artist based in the Highlands of Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿originally from Stornoway⚓️BnW-nature/BMX obsessed☠️live,learn,expand your mind.🎬
+      Photographer/artist based in the Highlands of Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿”just my personal photography here⚓️BnW-nature/BMX obsessed-live,learn,expand your mind.🎬
     location: "United Kingdom"
-    followers: 9180
-    engagement: 926
-    commentsToLikes: 0.145078
+    followers: 9508
+    engagement: 1001
+    commentsToLikes: 0.149961
     id: ck6tu3xv7e5xf0j71ealsdv54
     verified: false
-    hashtags: "#deathdrop, #wild, #sunday, #rememberanceday"
-  - username: "bujorain"
+    hashtags: "#fog, #wednesday, #fridaythe13th, #love"
+  - username: "shanazereade"
     fullname: >-
-      The Rain Diaries
+      Shanaze Reade
     bio: >-
-      📓 Vol. 3 - Letters to ‘Dear Gizmo’ 🕯 Ext. Chapter ‘My Little Hygge Life’ 🇬🇧 & the life of a Race BMX Mum #bulletjournal #travelersnotebook #bujorain
+      🇬🇧 2 x Olympic Athlete 🥇 7 x BMX & Track World Champion ✉️ Enquiries: Jim@offlimitsentertainment.com 🌈
     location: "United Kingdom"
-    followers: 5303
-    engagement: 1099
-    commentsToLikes: 0.052778
-    id: ck5ceqdp3li0u0i119yafzr6s
+    followers: 17723
+    engagement: 531
+    commentsToLikes: 0.026584
+    id: ck15rjg4m87vp0i19q00x9jzr
     verified: false
-    hashtags: "#artjournal, #scrapbook, #rubberstamps, #bujodaily"
-  - username: "bethanyshriever"
-    fullname: >-
-      Bethany Shriever #911
-    bio: >-
-      •BMX racer •21 •GB •Prophecy/Crucial BMX/MadisonUK/Renthal •👫@brynleysavage_
-    location: "United Kingdom"
-    followers: 8324
-    engagement: 956
-    commentsToLikes: 0.020816
-    id: ck5heajs8rx6m0i117z0p4crx
-    verified: false
-    hashtags: "#throwbackthursday, #backintheday, #happydays, #roadrides"
-  - username: "mish2353"
-    fullname: >-
-      Mish
-    bio: >-
-      @damgoodcoffeeshop ☕ Watch my newest bmx video ⬇️ @mish2354 🖌️🎨 I guess I like bmx 🇬🇧🇵🇱 25/3/16 ❤
-    location: "United Kingdom"
-    followers: 16069
-    engagement: 463
-    commentsToLikes: 0.030786
-    id: ckaoysod1iwfq0i78vlky9d1a
-    verified: false
-    hashtags: "#bmxgirl, #bmx4life, #bmxstreet, #crucialbmx"
+    hashtags: "#sunshine, #olympian, #strongnotskinny, #worldchampion"
   - username: "declanbrooks"
     fullname: >-
       Declan Brooks
     bio: >-
-      •Great Britain BMX Freestyle rider🇬🇧 •2x World cup medalist •Sponsors - Mafia Bikes,Suzuki Motorcycles,Profile Racing
+      •Great Britain BMX Freestyle rider🇬🇧 •Sponsors 🚲 @mafiabike @profile_racing @suzukibikesuk •Olympic Games 2021 🚲 •2x World cup medalist
     location: "United Kingdom"
-    followers: 18564
-    engagement: 406
-    commentsToLikes: 0.026146
+    followers: 18859
+    engagement: 318
+    commentsToLikes: 0.031124
     id: ck5q3ker2l5vg0i11m08tgssh
     verified: false
-    hashtags: "#gc, #goldcoast, #australia, #bmx"
-  - username: "jordangoooooodwin"
-    fullname: >-
-      Jordan Godwin
-    bio: >-
-      | WETHEPEOPLE | ÉCLAT | MONSTER ENERGY | ETNIES | DOOMED | CRUCIAL BMX|
-    location: "United Kingdom"
-    followers: 52147
-    engagement: 703
-    commentsToLikes: 0.009215
-    id: ck5cexz6elxxj0i11hd8ccdyx
-    verified: false
-    hashtags: "#bmx, #doomsayer"
-  - username: "joeejarvis"
-    fullname: >-
-      Joe Jarvis
-    bio: >-
-      SUBSTANCE BMX - FEDERAL - SEVENTIES - DAMGOOD. 👇
-    location: "United Kingdom"
-    followers: 32154
-    engagement: 1093
-    commentsToLikes: 0.011890
-    id: ck0tyc9hime3x0i19smefora3
-    verified: false
-    hashtags: "#askwhocares, #bmx, #aberdream, #substancebmx"
+    hashtags: "#covid19, #thereislightattheendofthetunnel, #appreciateyou, #bmx"
   - username: "lucassheekeybmx"
     fullname: >-
       ＬＵＣＡＳ ＳＨＥＥＫＥＹ
     bio: >-
       BMX rider from Essex 🇬🇧
     location: "United Kingdom"
-    followers: 2132
-    engagement: 1886
-    commentsToLikes: 0.036826
+    followers: 2089
+    engagement: 1885
+    commentsToLikes: 0.037310
     id: ck5q3k6ccl4ms0i11v4y1rr91
     verified: false
     hashtags: ""
+  - username: "bujorain"
+    fullname: >-
+      The Rain Diaries
+    bio: >-
+      📓 Vol. 3 - Letters to ‘Dear Gizmo’ 🕯 Ext. Chapter ‘My Little Hygge Life’ 🇬🇧 & the life of a Race BMX Mum #bulletjournal #travelersnotebook #bujorain
+    location: "United Kingdom"
+    followers: 5735
+    engagement: 498
+    commentsToLikes: 0.050910
+    id: ck5ceqdp3li0u0i119yafzr6s
+    verified: false
+    hashtags: "#bujorain, #vintagevibes, #analog, #washitape"
+  - username: "beemxval"
+    fullname: >-
+      Val Ward
+    bio: >-
+      BMXer from London 👩🏼 @entitybmxshop 🚵‍♀️ @united_bmx 🚲 @localouterwear 👕
+    location: "United Kingdom"
+    followers: 7121
+    engagement: 705
+    commentsToLikes: 0.048269
+    id: ckap2jucyz5d10i78vgw4ustd
+    verified: false
+    hashtags: "#bmx4life, #bmxfun, #bmxlife, #bmx"
+  - username: "brent_verbaant"
+    fullname: >-
+      BRENT VERBAANT
+    bio: >-
+      🚲 BMX rider in 🇧🇪 | 20 years ▫️ Riding for: ▪️ @wear.clothing ▪️ @getinsaneteam
+    location: "United Kingdom"
+    followers: 6603
+    engagement: 437
+    commentsToLikes: 0.038210
+    id: ck8t02ncoqmg90j781bg6jsxk
+    verified: false
+    hashtags: "#instagood, #summer, #love, #motivation"
+  - username: "rezende500"
+    fullname: >-
+      Renato Rezende
+    bio: >-
+      - Cycling #BMX - 2x Olympian, London2012 and Rio2016 - 13x National Champion
+    location: "United Kingdom"
+    followers: 39692
+    engagement: 662
+    commentsToLikes: 0.012249
+    id: ck5pwrh2wo8cc0i11twc0jhtp
+    verified: true
+    hashtags: "#hometrack, #timenissan, #wheeliewednesday, #bolsaatleta"
+  - username: "nassfestival"
+    fullname: >-
+      NASS
+    bio: >-
+      8 - 11 July 2021. A four day festival of music, street art, skate + BMX. *SOLD OUT* 📍 Shepton Mallet, Nr. Bristol.
+    location: "United Kingdom"
+    followers: 67065
+    engagement: 337
+    commentsToLikes: 0.123921
+    id: ck0tw199mdl0z0i19j8pfuq2r
+    verified: true
+    hashtags: "#lightitinred, #nasshype, #wemakeevents, #letthemusicplay"
 ---

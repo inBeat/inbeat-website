@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In United States In 2022
+title: Top 10 Music TikTok Influencers In United States In 2023
 description: >-
-  Find top music TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #showupshowoff #doitbold.
+  Find top music TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #stitch #music.
 platform: TikTok
-hits: 13031
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 13031 TikTok influencers like this in United States for you to work with.
+hits: 9733
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 9733 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "clinttoz"
+  - username: "indistar"
     fullname: >-
-      Clinttoz
+      Indi Star 💫
     bio: >-
-      Music
+      🫂14🫂 ❤️‍🔥Musician/Actress❤️‍🔥 ⬆️Join my galaxy⬆️ 🦩😤You’re pretty rad😤🦩
     location: "United States"
-    followers: 5886
-    engagement: 1012
-    commentsToLikes: 0.077975
-    id: ckcptalx9ny0y0j23wr2l6he5
-    verified: false
-    hashtags: "#piano, #toomuchtension, #toomanyshoes, #eltonjohn"
-  - username: "taiyaofficial"
-    fullname: >-
-      Taiya
-    bio: >-
-      21 🔥 MUSIC ARTIST Instagram famous
-    location: "United States"
-    followers: 45400
-    engagement: 2088
-    commentsToLikes: 0.104888
-    id: ckc3egjy301d50j235ks4daw5
-    verified: false
-    hashtags: "#fyp, #happyhalloween, #razrfit, #skincare"
-  - username: "payton"
-    fullname: >-
-      payton x)
-    bio: >-
-      hi i’m payton. i make music
-    location: "United States"
-    followers: 13600000
-    engagement: 2083
-    commentsToLikes: 0.033852
-    id: ck8fc5lxc6nm40j78zlriaon2
+    followers: 1100000
+    engagement: 2048
+    commentsToLikes: 0.023083
+    id: ck9fq4egsaivw0j786gaawup6
     verified: true
-    hashtags: ""
+    hashtags: "#ultaskintok, #thesuicidesquadmovie, #fyp, #paris"
   - username: "lukasjamesmusic"
     fullname: >-
       lukasjamesmusic
     bio: >-
       Hi I’m Lukas.. I make music✨ Follow me on Instagram to keep up with me!
     location: "United States"
-    followers: 2212
-    engagement: 2006
-    commentsToLikes: 0.137267
+    followers: 2464
+    engagement: 2026
+    commentsToLikes: 0.139452
     id: ck9grq1yff00v0j78fuxz5oql
     verified: false
-    hashtags: "#acoustic, #singer, #fyp, #song"
+    hashtags: "#fyp, #singer, #cover, #song"
+  - username: "meredithbellpb"
+    fullname: >-
+      palaceburn.
+    bio: >-
+      lead singer of palaceburn. philly. she/her MUSIC VIDEO OUT NOW👇🏾
+    location: "United States"
+    followers: 188500
+    engagement: 2017
+    commentsToLikes: 0.084831
+    id: ckcelwh8jvx590j23u6cnc1bx
+    verified: false
+    hashtags: "#duet, #wweannouncercontest, #altblackgirl, #stitch"
+  - username: "carteracemusic"
+    fullname: >-
+      carter ace
+    bio: >-
+      I release music under “Carter Ace” Click the link belowww | 🇨🇲
+    location: "United States"
+    followers: 332600
+    engagement: 1970
+    commentsToLikes: 0.029677
+    id: ck83k202k8pkh0j78tyceo24g
+    verified: false
+    hashtags: "#duet, #cat, #songofthesummer, #cats"
+  - username: "maudelstatus"
+    fullname: >-
+      Maude latour 
+    bio: >-
+      stream my music join the club 🌈❤
+    location: "United States"
+    followers: 83300
+    engagement: 1852
+    commentsToLikes: 0.069383
+    id: ckan3ltwt5xmo0i7889uhzjg6
+    verified: true
+    hashtags: "#cleaningtiktok, #music, #clean, #chilidogyumplz"
+  - username: "apollofresh"
+    fullname: >-
+      Apollo Fresh 
+    bio: >-
+      Anime music and limitless possibilities
+    location: "United States"
+    followers: 85800
+    engagement: 1545
+    commentsToLikes: 0.055600
+    id: ck8sftpl0psxt0j78tpr5uytd
+    verified: false
+    hashtags: "#onepiece, #yugioh, #demonslayerchallenge, #naruto"
   - username: "youcancallmepamela"
     fullname: >-
       Pamela 
     bio: >-
       Wife.Momma.Mimi. imperfectly beautiful with a dash of sass love of music and sun
     location: "United States"
-    followers: 6010
-    engagement: 4804
-    commentsToLikes: 0.484458
+    followers: 6787
+    engagement: 4000
+    commentsToLikes: 0.547379
     id: ckcehh7fppa3p0j23fyxtgw9v
     verified: false
-    hashtags: "#welldone, #itswhatwedo, #goodmorning, #duet"
+    hashtags: "#blessed, #fridayfun, #grandson, #vibes"
+  - username: "tawnted"
+    fullname: >-
+      tawnted
+    bio: >-
+      ✨stop saying it in a brooklyn accent✨ click👇for my music
+    location: "United States"
+    followers: 17600
+    engagement: 3587
+    commentsToLikes: 0.066906
+    id: ckbbcp8fu1olb0j23fazbz8pg
+    verified: false
+    hashtags: "#foryou, #itwasntme, #fyp, #trulyglowingselfielove"
+  - username: "gl_mrus_beb"
+    fullname: >-
+      SajanaSaverna🦋
+    bio: >-
+      DESI DREAMGIRL❤️ TIKTOK=MEDICINE(4 Body & Soul)/B U/NEVER COPY/B HAPPY/MUSIC💙💋
+    location: "United States"
+    followers: 7321
+    engagement: 2942
+    commentsToLikes: 0.428998
+    id: ckcelzj1tw2f00j23ok1jn1sx
+    verified: false
+    hashtags: "#duet, #desiqueenofhearts, #glamrusbee, #bollywoodduetsong"
   - username: "lilsusieb"
     fullname: >-
       ⚡️Susie B.⚡️
     bio: >-
-      Music 🎵 gives flight to the imagination! #crowclanfam ✨🖤🏴‍☠️✨
+      Choose to shine always! 😃☀️✨ Music is the wine 🍷 that fills the cup of silence
     location: "United States"
-    followers: 8428
-    engagement: 3431
-    commentsToLikes: 0.432572
+    followers: 12300
+    engagement: 2700
+    commentsToLikes: 0.458602
     id: ckb9835qbravf0j23rtjhj5ky
     verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #genx"
-  - username: "minnesotabornnraised88"
-    fullname: >-
-      Asha B.
-    bio: >-
-      💍A💍E ❤L ❤S #RP #Devilzzmafia #musicmovesme3 #achosenfew
-    location: "United States"
-    followers: 4524
-    engagement: 3363
-    commentsToLikes: 0.341696
-    id: ck8fc26w663l30j78mtptfpzb
-    verified: false
-    hashtags: "#youwantmore, #rnbvibes, #thatwitch, #redpyramid"
-  - username: "heyitscaitlincook"
-    fullname: >-
-      Caitlin Cook
-    bio: >-
-      Musician / Comedian / Artist Posting a song a day More on IG & YT 👇 Merch 👇
-    location: "United States"
-    followers: 76000
-    engagement: 3363
-    commentsToLikes: 0.045325
-    id: ckbf5bqviu5vm0j23gowe8grh
-    verified: false
-    hashtags: "#biden2020, #redbulldanceyourstyle, #fyp, #musicalcomedy"
-  - username: "xochil.db"
-    fullname: >-
-      Xochil.DB
-    bio: >-
-      Esposa mamá amiga me gusta la música drama comedia y un poco lo tóxico💙
-    location: "United States"
-    followers: 3632
-    engagement: 3222
-    commentsToLikes: 0.255349
-    id: ckc7hfmoupqzr0j23uqiq3cp8
-    verified: false
-    hashtags: "#monta, #bigbear, #paraty, #foryourpage"
-  - username: "glorious.bacon"
-    fullname: >-
-      Gloria Bacon
-    bio: >-
-      🏳️‍🌈 21 🏳️‍🌈 i tell stories, make music, & question the status quo she/her
-    location: "United States"
-    followers: 15500
-    engagement: 3104
-    commentsToLikes: 0.066930
-    id: ckb9b4tj4wwdz0j23fbpi3yk3
-    verified: false
-    hashtags: "#blasian, #lesbipan, #howdy, #doitbold"
+    hashtags: "#bestseatinthehouse, #fyp, #duet, #50sclub"
 ---

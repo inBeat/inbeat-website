@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Greece In 2022
+title: Top 10 Yoga Instagram Influencers In Greece In 2023
 description: >-
-  Find top yoga Instagram influencers in Greece in 2022. Most popular hashtags: #yoga #yogapractice #love #yogainspiration.
+  Find top yoga Instagram influencers in Greece in 2023. Most popular hashtags: #yoga #yogapractice #yogalife #yogainspiration.
 platform: Instagram
-hits: 41
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 41 Instagram influencers like this in Greece for you to contact.
+hits: 22
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Greece for you to pitch.
 profiles:
   - username: "miaevgeniadi"
     fullname: >-
-      Mia more than an Asana
+      Miamorethananasana
     bio: >-
-      @Showroom.10 @Fashionwellnessgr Yoga instructor RYT 200h US @lifeloftyoga U tube channel
+      200h ryt yoga instructor Pole athlete Fashion expert
     location: "Greece"
-    followers: 27631
-    engagement: 727
-    commentsToLikes: 0.155078
+    followers: 29675
+    engagement: 675
+    commentsToLikes: 0.120127
     id: ckap6tioshczs0i78os1gj7ns
     verified: false
-    hashtags: "#sea, #yogalife, #healthylifestyle, #yogalifestyle"
-  - username: "as.danai"
-    fullname: >-
-      𝐷𝑎𝑛𝑎𝑖   |  𝑌𝑜𝑔𝑎 - 𝑀𝑖𝑛𝑑𝑓𝑢𝑙𝑛𝑒𝑠𝑠
-    bio: >-
-      🔹Yoga teacher 200hr 🔸Greece 🔹DM/email for collabs 🔸Discount codes: @vayumudra : DANAI15 @toplus_bodyfit : DANAI @yogandha_oils : DANAI10
-    location: "Greece"
-    followers: 8051
-    engagement: 382
-    commentsToLikes: 0.081644
-    id: ck9woonfe5yeq0j78ggq92tjm
-    verified: false
-    hashtags: "#affirmthroughlife"
-  - username: "laurenrudick"
-    fullname: >-
-      YOGA TRAVEL STORIES
-    bio: >-
-      I teach yoga, go on adventures, take photos & tell stories. . 📍Greece🇬🇷 . @yogaacademyinternational is my love child. .
-    location: "Greece"
-    followers: 40263
-    engagement: 210
-    commentsToLikes: 0.076575
-    id: ck0tzn15nqyw20i19wx47ik5b
-    verified: true
-    hashtags: "#greeceyoga, #onlineyoga, #kingstonon, #trackprogress"
-  - username: "samantha__elizabeth_"
-    fullname: >-
-      Samantha Elizabeth
-    bio: >-
-      y o u t u b e r . sharing a whole bunch of my life on the internet . vegan + yoga teacher
-    location: "Greece"
-    followers: 19789
-    engagement: 162
-    commentsToLikes: 0.048602
-    id: ck6u7yci7odz40j717n7m5k2n
-    verified: false
-    hashtags: "#yoga, #yogaeverydamnday, #grateful, #yogatelaviv"
-  - username: "aleksandra_yoga"
-    fullname: >-
-      Aleksandra Rizou Kalodima🌸
-    bio: >-
-      ⦁Certified Yoga Instructor(RYT 500h) ⧫Vinyasa, Ashtanga🧘🏾‍♂️ ⧫Official Yoga Teacher of AdidasRunnersAthens! ⧫Insta-live yoga sessions weekly!
-    location: "Greece"
-    followers: 30516
-    engagement: 367
-    commentsToLikes: 0.031720
-    id: ck6tuw0iriqng0j71vzdt6wny
-    verified: false
-    hashtags: "#ashtangayoga, #practiceandalliscoming, #yogapractice, #ashtanga"
+    hashtags: "#likeforlike, #instamood, #traveltheworld, #motd"
   - username: "thanasis_bou"
     fullname: >-
       thanasis_bounas
     bio: >-
       • RYT 500h Yoga Alliance • RYT 200h Yoga Works • DM for Yoga class • Ashtanga & Dharma • Manduka ambassador ~ 10% discount with the code: THANASIS_BOU
     location: "Greece"
-    followers: 3157
-    engagement: 1578
-    commentsToLikes: 0.026357
+    followers: 3357
+    engagement: 1584
+    commentsToLikes: 0.064365
     id: ck6tuw2seiqzt0j71355bm6jb
     verified: false
-    hashtags: "#yogaoutside, #sunsetyoga, #letsstartyoga, #flexibilitygoals"
-  - username: "ellie.st"
+    hashtags: "#yogaforeverybody, #yogaphotoshoot, #yogaoutside, #yogatravel"
+  - username: "aleksandra_yoga"
     fullname: >-
-      e l l i e
+      Aleksandra Rizou Kalodima🌸
     bio: >-
-      Bass & vocals @whatisrocknroll, Bass @here.comes.death, Trainer @yogaccinoo Athens, Greece
+      ⦁Certified Yoga Instructor(RYT 500h) ⧫Vinyasa, Ashtanga🧘🏾‍♂️ ⧫Official Yoga Teacher of #adidasrunnersathens ⧫Insta-live yoga sessions weekly!
     location: "Greece"
-    followers: 4685
-    engagement: 1074
-    commentsToLikes: 0.025314
-    id: ck55ovdri97db0i11u7g7hffs
+    followers: 32447
+    engagement: 371
+    commentsToLikes: 0.035879
+    id: ck6tuw0iriqng0j71vzdt6wny
     verified: false
-    hashtags: "#warning"
-  - username: "sofipasxali"
+    hashtags: "#winterwonderland, #presshandstand, #vinyasa, #ashtangayoga"
+  - username: "laurenrudick"
     fullname: >-
-      Sofi Pasxali
+      YOGA TRAVEL STORIES
     bio: >-
-      ▪️Believer and doer▪️ Yoga instructor. Writer for inspiration, motivation. Traveller. Choose happy. Be love❣️Think love❣️
+      I teach yoga, go on adventures, take photos & tell stories. Puppies & maple syrup are life. 📍Nicaragua . @yogaacademyinternational is my love child. .
     location: "Greece"
-    followers: 168876
-    engagement: 280
-    commentsToLikes: 0.014393
-    id: ck6toav45d1g80j71qvnr2ivt
+    followers: 41100
+    engagement: 243
+    commentsToLikes: 0.049390
+    id: ck0tzn15nqyw20i19wx47ik5b
     verified: true
-    hashtags: "#mindsetiseverything, #goodvibes, #summer, #life"
-  - username: "sofiayoga"
-    fullname: >-
-      Sofiaxirotyri
-    bio: >-
-      Ashtanga yoga Authorised level 2 kpjayi On Line Classes 💫Personal Classes ❣️handstand 🤸🏼‍♂️ex gymnast national team 🇬🇷 @houseofyoga.gr
-    location: "Greece"
-    followers: 38267
-    engagement: 164
-    commentsToLikes: 0.019361
-    id: ck8t0h0njs16e0j78as8sjtn7
-    verified: false
-    hashtags: "#yogapractice, #igyogafamily, #bodypositivity, #fityogi"
+    hashtags: "#discovernicaragua, #ygk, #amorgos, #aegiali"
   - username: "sabrinalutz"
     fullname: >-
-      Sabrina Lutz | Athlete
+      Sabrina Lutz 🌞
     bio: >-
-      🇩🇪 Kiteboarder 🏆12 x German Champion 1 x European Champion 🌞sun and water creature🌊 who loves KITESURFING. YOGA. NATURE. SPORTS. FOOD. VANLIFE.
+      kitesurf child | happy traveler I yogini 🌈 yoga teacher RYT 200 european champion🥇12x german champion yoga on & off the mat ✨ 🌿veggie & vegan foodie
     location: "Greece"
-    followers: 7781
-    engagement: 703
-    commentsToLikes: 0.020639
+    followers: 7944
+    engagement: 604
+    commentsToLikes: 0.019700
     id: ck5c5uukk46v40i11j5moonoa
     verified: false
-    hashtags: "#surfergirl, #sunset, #sunny, #saltyhair"
+    hashtags: "#vacation, #germany, #kite, #home"
+  - username: "sofiayoga"
+    fullname: >-
+      Sofia Chavez
+    bio: >-
+      Trust the voice within. Ashtanga / Vinyasa Chakra RYT 📿 • Antigravity Yoga • 👉🏻 @cellmedicinemx Plant Based 🌱
+    location: "Greece"
+    followers: 1473
+    engagement: 2978
+    commentsToLikes: 0.066063
+    id: ck8t0h0njs16e0j78as8sjtn7
+    verified: false
+    hashtags: "#bodypositivity, #igyogafamily, #yogaonline, #handstandlovers"
+  - username: "mariada.s.pieridi"
+    fullname: >-
+      MARIADA PIERIDI SOI
+    bio: >-
+      MUSICIAN CERTIFIED YOGA TEACHER .YAI. founder: @athloyoga SUSTAINABLE CITIZEN FOOD TRAVELER
+    location: "Greece"
+    followers: 49498
+    engagement: 236
+    commentsToLikes: 0.019785
+    id: ck13cg5ct06bk0i19ocmb7ide
+    verified: true
+    hashtags: "#staypositive, #singer, #yoga, #influencer"
+  - username: "memevictim2000x"
+    fullname: >-
+      Sauced
+    bio: >-
+      actress, singer, dancer, model, hiker, fitness pro, yoga fanatic, food lover, mom of two loving sons, sister, daugther, wife, vegan, hummus
+    location: "Greece"
+    followers: 2156
+    engagement: 1999
+    commentsToLikes: 0.040222
+    id: ck1354cwgzn6y0i19zghp7ny9
+    verified: false
+    hashtags: "#wcw"
+  - username: "samantha__elizabeth_"
+    fullname: >-
+      Samantha Elizabeth
+    bio: >-
+      one beautiful soul in a collective consciousness ♾ living life like everything I desire is already mine 🤍
+    location: "Greece"
+    followers: 19674
+    engagement: 152
+    commentsToLikes: 0.037010
+    id: ck6u7yci7odz40j717n7m5k2n
+    verified: false
+    hashtags: "#yogachallenge, #selflove, #selfcare, #yoga"
+  - username: "evi_sa"
+    fullname: >-
+      Evi Saltaferidou
+    bio: >-
+      •Fitness coach •Indoor cycling instructor🚲 •Survivor 2018🥥🌴 @newbalance Ambassador #teamNB YouTube⬇️
+    location: "Greece"
+    followers: 47645
+    engagement: 1082
+    commentsToLikes: 0.380037
+    id: ck6toav67d1hh0j710a0b2pj7
+    verified: false
+    hashtags: "#evisa, #evisaltaferidou, #coach, #loveyourbody"
 ---

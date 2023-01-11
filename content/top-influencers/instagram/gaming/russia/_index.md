@@ -1,120 +1,120 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Russia In 2022
+title: Top 10 Gaming Instagram Influencers In Russia In 2023
 description: >-
-  Find top gaming Instagram influencers in Russia in 2022. Most popular hashtags: #gaming #games #gamer #game.
+  Find top gaming Instagram influencers in Russia in 2023. Most popular hashtags: #gaming #game #games #gamer.
 platform: Instagram
-hits: 27
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 27 Instagram influencers like this in Russia for you to collaborate.
+hits: 26
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 26 Instagram influencers like this in Russia for you to connect with.
 profiles:
   - username: "i_chios"
     fullname: >-
-      Anya °iChios°
+      Anya iChios
     bio: >-
       🌍 Fulltime Cosplayer × Maker 🛠️ ▫️Mortal Kombat 11 Ambassador ▫️Nintendo RU model ▫️Zotac Gaming Cosplayer 📩 ichioscosplay@gmail.com
     location: "Russia"
-    followers: 80654
-    engagement: 490
-    commentsToLikes: 0.035907
+    followers: 82675
+    engagement: 418
+    commentsToLikes: 0.033973
     id: ck8t85rojj7jb0j783gul8asg
     verified: false
-    hashtags: "#overwatchcosplay, #nintendorussia, #nintendocosplay, #leagueoflegendscosplay"
+    hashtags: "#cosplaymakeup, #cosplay, #cosplayer, #animecosplay"
   - username: "rgtcandy"
     fullname: >-
       Galina Zhukovskaya
     bio: >-
       Косплеер и блогер💋 VK: http://vk.com/galina_candy Donation: http://www.donationalerts.ru/r/RGTcandy @rgtcandy #rgtcandy
     location: "Russia"
-    followers: 16123
-    engagement: 1264
-    commentsToLikes: 0.019115
+    followers: 16212
+    engagement: 1188
+    commentsToLikes: 0.018549
     id: ck0tvwjqud3je0i192aooftd3
     verified: false
-    hashtags: "#teamyen, #games, #cosplay, #thewitcher"
-  - username: "palad1n"
-    fullname: >-
-      Andrey palad1n
-    bio: >-
-      👨🏻‍💻PC Engineer, blogger 🕹My Setup and me @palad1n 🖥PC Build Advice and Direct Collaboration! 🗣Консультации по сборке PC и сотрудничество в Direct!!!
-    location: "Russia"
-    followers: 42233
-    engagement: 858
-    commentsToLikes: 0.054730
-    id: ck13bmzxgw7ks0i19s1hkqlfe
-    verified: false
-    hashtags: "#alienware, #gamer, #dreamsetup, #battlestation"
+    hashtags: "#cosplayer, #thewitcher3, #teamyen, #rayne"
   - username: "itzpixchii"
     fullname: >-
-      Chii | 002✨🧚‍♀️
+      Chii |✨🧚‍♀️
     bio: >-
-      •HIATUS• stop jap 🌸temporary defeats is nothing if its lead to ultimate victory🌸 ML • PUBGM Can fait,can snipe,can L0v3🌙 Ddy：@bakugoouu_ 😩❤️ 🇲🇾
+      Done break 1 year HAHAHHA 🌸temporary defeats is nothing if its lead to ultimate victory🌸 ML • PUBGM 2021 baru chii baling banyak2 montage kat sini🌙 🇲🇾
     location: "Russia"
-    followers: 4517
-    engagement: 3502
-    commentsToLikes: 0.043767
+    followers: 4325
+    engagement: 3674
+    commentsToLikes: 0.043178
     id: ck13ctq14241n0i19h4awfhd0
     verified: false
-    hashtags: "#sniper, #headshots, #girl, #esports"
-  - username: "kseniya_kanda_cosplay"
+    hashtags: "#malaysia, #pubgmobilefunny, #solo, #pubg"
+  - username: "sniperkiller_bs"
     fullname: >-
-      Kseniya Kanda cosplay
+      Bʀᴀᴡʟ Sᴛᴀʀs [99k/100k]🎯
     bio: >-
-      Cosplayer from Siberia 🇷🇺 Pin Up and cosplay photos Buy prints or support 👇🏻
+      ⚜️ Подпишись на наш профиль💛 ⚜️ Только лучшее 🔝 ⚜️ Цель: 100K 🎯 ⚜️ Сотрудничество в директ 📩
     location: "Russia"
-    followers: 4679
-    engagement: 419
-    commentsToLikes: 0.060766
-    id: ckaozilhem1o00i78s7khiimj
+    followers: 99857
+    engagement: 295
+    commentsToLikes: 0.023043
+    id: ck8t18t73uu0n0j78rss4ikix
     verified: false
-    hashtags: "#dccomicscosplay, #usagitsukinocosplay, #nightwingcosplay, #dccosplayers"
-  - username: "s1mple_fanpage"
-    fullname: >-
-      🇺🇦Na'Vi.s1mple Фан-Клуб №1
-    bio: >-
-      🥇 Лучший игрок CS:GO в 2018 🥇 🥈 Топ-2 игрок CS:GO в 2019 🥈 🏅Двухкратный финалист Major’a🏅 🖤💛Сотрудничество - Директ 🖤💛
-    location: "Russia"
-    followers: 20743
-    engagement: 1003
-    commentsToLikes: 0.010859
-    id: ck9wdo9fhghxi0j78btwpou9k
-    verified: false
-    hashtags: "#gamer, #counterstrike, #globaloffensive, #esports"
-  - username: "igromemch"
-    fullname: >-
-      💙🅣🅗🅔 💙 🅟🅞🅢🅗🅛🅨🅨 💙 🅖🅐🅜🅔🅡 💙 🅗🅔🅡🅔💙
-    bio: >-
-      🔥🄺🄰🄸🄵🅈🄴🄼🔥🅁🄾🄵🄻🄸🄼🔥🄲🄷🄸🄻🄻🄸🄼🔥 🔞🅸🅶🆁🅾🆅🅾🅸 🅳🆅🅸🅹🔞
-    location: "Russia"
-    followers: 19003
-    engagement: 671
-    commentsToLikes: 0.211835
-    id: ckaotmlnawiz70i78by2n10pc
-    verified: false
-    hashtags: "#pc, #cs, #counterstrikeglobaloffensive, #pubgmobile"
+    hashtags: ""
   - username: "natusvincere_csgo"
     fullname: >-
       Natus Vincere CS:GO
     bio: >-
       ☝️Лучшие моменты Natus Vincere CS:GO в инстаграме 😆Отличное место, чтобы поднять настроение 🔥Подписывайся на наш Telegram, ссылка ниже
     location: "Russia"
-    followers: 21209
-    engagement: 744
-    commentsToLikes: 0.020878
+    followers: 29030
+    engagement: 674
+    commentsToLikes: 0.012463
     id: ck8t19k20ux1o0j78usp85pb9
+    verified: false
+    hashtags: ""
+  - username: "igromemch"
+    fullname: >-
+      💙🅣🅗🅔 💙 🅟🅞🅢🅗🅛🅨🅨 💙 🅖🅐🅜🅔🅡 💙 🅗🅔🅡🅔💙
+    bio: >-
+      🔥🄺🄰🄸🄵🅈🄴🄼🔥🅁🄾🄵🄻🄸🄼🔥🄲🄷🄸🄻🄻🄸🄼🔥 🔞🅸🅶🆁🅾🆅🅾🅸 🅳🆅🅸🅹🔞 Прокачать свои скины тут💰👇👇👇
+    location: "Russia"
+    followers: 18670
+    engagement: 849
+    commentsToLikes: 0.014890
+    id: ckaotmlnawiz70i78by2n10pc
     verified: false
     hashtags: ""
   - username: "viper__fc"
     fullname: >-
-      Viperfc
+      SouL Viper Army
     bio: >-
-      #IamSOUL • Hit follow button to get all @soulesportsofficial updates ! 🔥 • Official account @soul_viper • Gfx | @md_2square • Click here for links👇🏻
+      #IamSOUL • Nippu X Paddu forever🖤 • Hit follow button to get all @soulesportsofficial updates ! 🔥 • Official account @soul_viper
     location: "Russia"
-    followers: 6928
-    engagement: 3696
-    commentsToLikes: 0.019405
+    followers: 11812
+    engagement: 1559
+    commentsToLikes: 0.015646
     id: ckapcke9v46ho0i78z8ky8yo5
     verified: false
-    hashtags: "#pubgcomedy, #indiangamers, #pubgpc, #viperfc"
+    hashtags: "#pubgmeme, #pubgmalaysia, #pubg, #iamsoul"
+  - username: "s1mple_fanpage"
+    fullname: >-
+      🇺🇦Na'Vi.s1mple Фан-Клуб №1
+    bio: >-
+      🥇 Лучший игрок CS:GO в 2018 🥇 🥈 Топ-2 игрок CS:GO в 2019 🥈 🏅Двухкратный финалист Major’a🏅 🖤💛Сотрудничество - Директ 🖤💛
+    location: "Russia"
+    followers: 20372
+    engagement: 574
+    commentsToLikes: 0.006348
+    id: ck9wdo9fhghxi0j78btwpou9k
+    verified: false
+    hashtags: "#natusvincere, #awp, #globaloffensive, #s1mple"
+  - username: "nice.minecraft"
+    fullname: >-
+      MINECRAFT NICE PARADISE
+    bio: >-
+      Топчик со всего мира Майнкрафт 🔥 Подписывайся! Paradise for your eyes 🤩 Follow & inspire! ⠀ МОЙ СЕРВЕР / MY SERVER:
+    location: "Russia"
+    followers: 21648
+    engagement: 2349
+    commentsToLikes: 0.004246
+    id: ck8t91hxqmm7z0j78iokfs0vv
+    verified: false
+    hashtags: "#gaming, #minecraftbuildings, #minecraftideas, #minecrafthouse"
   - username: "_brawl.stars.ukr"
     fullname: >-
       BRAWL STARS UKR [18k🌀20k]
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.040559
     id: ck8t18sruutze0j78g978okjm
     verified: false
-    hashtags: "#hayday, #bs, #brawlmemes, #clashofclans"
+    hashtags: "#clashroyale, #mobilegame, #brawlmemes, #brawlstarsandroid"
 ---

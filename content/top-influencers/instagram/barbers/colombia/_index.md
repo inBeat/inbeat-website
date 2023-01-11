@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Colombia In 2022
+title: Top 10 Barbers Instagram Influencers In Colombia In 2023
 description: >-
-  Find top barbers Instagram influencers in Colombia in 2022. Most popular hashtags: #barbershop #cali #photooftheday #photography.
+  Find top barbers Instagram influencers in Colombia in 2023. Most popular hashtags: #barber #style #barbershop #men.
 platform: Instagram
-hits: 28
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 28 Instagram influencers like this in Colombia for you to work with.
+hits: 26
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 26 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "quelocuraadolfito"
-    fullname: >-
-      ADOLFITO COMEDIA - MONKEY 🐒🤪
-    bio: >-
-      BIENVENIDOS A LA ALDEA🏕 Si llegaste hasta aquí sígueme, meta 20k🙏🏽🥳 Publicidad al dm📲 CEO: - @licores_hugel 🍻 - @barbersing__ 💈
-    location: "Colombia"
-    followers: 16056
-    engagement: 1332
-    commentsToLikes: 0.968646
-    id: ck5zvsbnm4tyz0i140ipy3xnt
-    verified: false
-    hashtags: "#videosderisas, #humorchileno, #humornegro, #barranquilla"
-  - username: "__cejas_"
-    fullname: >-
-      👑𝒶𝓃𝒹𝓇ℯ𝓈 ℊℴ𝓃𝓏𝒶𝓁ℯ𝓏👑          
-    bio: >-
-      MEDELLIN - COLOMBIA | 🇨🇴 Meta-INFINITA!!🔥🚀 ¡16 añitos!🤪🔞 Publicidad al DM!📲 Creador de @__manhattan_barber_shop
-    location: "Colombia"
-    followers: 21173
-    engagement: 1640
-    commentsToLikes: 0.107354
-    id: ckf5lmyxsq5ex0j23n1tlccuj
-    verified: false
-    hashtags: "#tiktok, #antioquia, #jajaja, #medellincolombia"
   - username: "barberjuantattoo"
     fullname: >-
       🚨ⓉⒶⓉⓉⓄⓄ ⒷⒶⓇⒷⒺⓇ🚨
     bio: >-
-      Prívate Tattoo Studio💉 VIP Barber Shop 💈 ⬇️📍Aparta tu cita Directamente📍⬇️ ‼️HAS DE CADA DÍA TU OBRA MAESTRA‼️
+      VIP TATTOO 💉BARBER💈 ⬇️📍Aparta tu cita Directamente📍⬇️ 📥Cotizaciones:📲 +57 320 540 6610 📲 ‼️HAS DE CADA DÍA TU OBRA MAESTRA‼️
     location: "Colombia"
-    followers: 68366
-    engagement: 556
-    commentsToLikes: 0.010409
+    followers: 77038
+    engagement: 484
+    commentsToLikes: 0.010453
     id: ck5pw2nqbkt3m0i11nf33totz
     verified: false
-    hashtags: "#tattoo, #eye, #illuminati, #viral"
-  - username: "maicolbarber"
+    hashtags: "#dios, #amen, #bendiciones, #losdelhpmomento"
+  - username: "ambarberia"
     fullname: >-
-      𝐌𝐀𝐈𝐊𝐈𝐋𝐋𝐄𝐑 🤴🏻
+      ANTONIO MATEO. ✪
     bio: >-
-      𝐸𝓁 𝐵𝒶𝓇𝒷𝑒𝓇𝑜 𝒹𝑒 𝓁𝑜𝓈 𝐹𝒶𝓂𝑜𝓈𝑜𝓈🎸 ✞☬ New starts ☬✞ 💱❇️🔆 𝕹𝖚𝖓𝖈𝖆 𝖋𝖚𝖊 𝖘𝖚𝖊𝖗𝖙𝖊 𝖘𝖎𝖊𝖒𝖕𝖗𝖊 𝖋𝖚𝖊 𝕯𝖎𝖔𝖘🙏🏼 Cali 🇨🇴
+      Professional Barber in BARCELONA Manager @ballesterbarbershop 🇪🇸🌍 ⬇️🚨YouTube🚨⬇️
     location: "Colombia"
-    followers: 81609
-    engagement: 613
-    commentsToLikes: 0.010880
-    id: ck6tl19tr5sdr0j715somc7n2
+    followers: 112129
+    engagement: 135
+    commentsToLikes: 0.015589
+    id: ck6u003tycvbd0j71rzejnmy8
     verified: false
-    hashtags: "#medellin, #cali, #barbershop, #fukfakemusic"
-  - username: "lauramonsalvomakeup"
+    hashtags: "#barcelona, #hairmen, #style, #fresh"
+  - username: "cheobarberpr"
     fullname: >-
-      Diva, Top !
+      Barber & Men’s Hairstyles
     bio: >-
-      Beauty blogger 🌸 Talleres de maquillaje Ocaña- Aguachica 🌈 publicidad al 3136619966 Gus & Lau 👫👩‍❤️‍💋‍👨💖
+      Owner of @craft__salon Emprendedor Barbero Profesional Artista Creativo Siempre Enfocado Dios sobre Todo! Experto en Platinados⚪️⚪️
     location: "Colombia"
-    followers: 21634
-    engagement: 1462
-    commentsToLikes: 3.380859
-    id: ckaov9slz3naa0i78gdzg4oq7
+    followers: 38204
+    engagement: 167
+    commentsToLikes: 0.081636
+    id: ck135g2nw18nk0i19qb5h5r1m
     verified: false
-    hashtags: "#diva, #color, #aesthetic, #power"
-  - username: "felipezuluaga7"
+    hashtags: "#freestylecuts, #cropfade, #nicestbarbers, #nationalfadeleague"
+  - username: "gopetergoblog"
     fullname: >-
-      Felipe Zuluaga
+      P E T E R  L E E 🧿
     bio: >-
-      Admin. De Negocios Internacionales @urosario 🎓 Master in MMGT @sydney_uni 🎓 Quiero inspirar e impactar positivamente! adidas Creator ⚽️ || @adidasco
+      Fashion & Food Stylist - Art Director | GIRL POWER! |PTY - NYC|
     location: "Colombia"
-    followers: 276629
-    engagement: 395
-    commentsToLikes: 0.021187
-    id: ck15u9nj9m3re0i19xb6fsiui
+    followers: 20282
+    engagement: 168
+    commentsToLikes: 0.100276
+    id: ck5zwg95d62o00i14ekcc64ry
     verified: false
-    hashtags: "#motivacio, #motivacion, #felipezuluaga, #tranquilidad"
+    hashtags: "#nyc, #ootd, #giveaway, #happy"
+  - username: "yolani_leiva"
+    fullname: >-
+      Yolany Leiva🇭🇳
+    bio: >-
+      Presentadora de Tv Azteca Honduras @tvazteca_hn Cuenta de respaldo: @yolany_leiva_tvhost_hn
+    location: "Colombia"
+    followers: 25434
+    engagement: 889
+    commentsToLikes: 0.022372
+    id: ckapaqia7x35q0i78if15pkiz
+    verified: false
+    hashtags: "#teenmodel, #latina, #catracha, #outfitoftheday"
   - username: "juanfelipesilva1590"
     fullname: >-
       ᴊᴜᴀɴ fᴇʟɪᴘᴇ sɪʟᴠᴀ ♛
     bio: >-
       Colombiano🇨🇴 📍España 🇪🇸
     location: "Colombia"
-    followers: 93337
-    engagement: 588
-    commentsToLikes: 0.019956
+    followers: 91583
+    engagement: 601
+    commentsToLikes: 0.019975
     id: ck8t1ek92vgrf0j78dkm5a2sh
     verified: false
-    hashtags: "#guys, #menswear, #boy, #instaphoto"
-  - username: "ramvidzapata"
-    fullname: >-
-      🆁🅰🅼🆅🅸🅳
-    bio: >-
-      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ ✳️ @scrufflatino Influencer🏳️‍🌈 🍑@WeCakdUP Ambassador💊 🇻🇪Living in Bogota🇻🇪
-    location: "Colombia"
-    followers: 65330
-    engagement: 264
-    commentsToLikes: 0.020057
-    id: ck6u070hhdyy10j71x6lygpcd
-    verified: false
-    hashtags: "#me, #lingerie, #fit, #men"
+    hashtags: "#photooftheday, #mens, #guys, #boys"
   - username: "rickymt28"
     fullname: >-
       Ricky 🎖
     bio: >-
       🇸🇻 #Gymaholic
     location: "Colombia"
-    followers: 13057
-    engagement: 1158
-    commentsToLikes: 0.004131
+    followers: 13384
+    engagement: 1121
+    commentsToLikes: 0.004387
     id: ck1385wmremus0i19uwx884pz
     verified: false
-    hashtags: "#couplegoals, #latepost, #fitnesslifestyle, #vidasaludable"
-  - username: "andresfcampo17"
+    hashtags: "#vidasaludable, #workoutmotivation, #latepost, #fitnesslifestyle"
+  - username: "__cejas_"
     fullname: >-
-      Andrés Felipe Campo
+      👑𝒶𝓃𝒹𝓇ℯ𝓈 ℊℴ𝓃𝓏𝒶𝓁ℯ𝓏👑          
     bio: >-
-      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2022 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
+      MEDELLIN - COLOMBIA | 🇨🇴 •Llegue, vi y vencí!⚡ •Publicidad al DM📲 • segunda cuenta: @priv_cejas__ •Manager @sebasjaramillo__
     location: "Colombia"
-    followers: 12631
-    engagement: 272
-    commentsToLikes: 0.013766
-    id: ck8t2thc40nbr0j78tuw0uud0
+    followers: 26135
+    engagement: 1286
+    commentsToLikes: 0.063036
+    id: ckf5lmyxsq5ex0j23n1tlccuj
     verified: false
-    hashtags: "#instagood, #photooftheday, #photography, #deporte"
+    hashtags: "#tiktok, #style, #losamo, #colombia"
+  - username: "latinbrothersbarbershop"
+    fullname: >-
+      💈LATÎN ɃɌOTHɆɌ$ ɃȺɌɃɆɌ SHOP💈
+    bio: >-
+      🆂🅾🅼🅾🆂 🆄🅽🅰 🅱🅰🆁🅱🅴🆁🅸🅰 💯%URBΔṈΔ 💈 @maicolbarber 💺🗽 Cali-🇨🇴
+    location: "Colombia"
+    followers: 12552
+    engagement: 662
+    commentsToLikes: 0.010804
+    id: ck5zknws0jtp40i14gindr8sv
+    verified: false
+    hashtags: "#otronivel, #cali, #69, #barbershop"
+  - username: "mitorincon"
+    fullname: >-
+      • M I T O ° R I N C Ó N️️️️️ •
+    bio: >-
+      Coreográfo - Bailarín Profesional 🕺🏻 Influencer y Modelo 🚶🏻‍♂️ Bogotá, Colombia Collab - IG: @mitorincon ⬇️ TikTok ⬇️
+    location: "Colombia"
+    followers: 28657
+    engagement: 320
+    commentsToLikes: 0.027110
+    id: ck8t7nexmhfbp0j78ts3efqwb
+    verified: false
+    hashtags: "#fitness, #dancers, #men, #smile"
 ---

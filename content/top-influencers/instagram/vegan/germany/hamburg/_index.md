@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Hamburg In 2022
+title: Top 10 Vegan Instagram Influencers In Hamburg In 2023
 description: >-
-  Find top vegan Instagram influencers in Hamburg in 2022. Most popular hashtags: #vegan #hamburg #happy #hamburgcity.
+  Find top vegan Instagram influencers in Hamburg in 2023. Most popular hashtags: #vegan #hamburg #veganerezepte #vegandeutschland.
 platform: Instagram
-hits: 109
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 109 Instagram influencers like this in Hamburg, Germany for you to collaborate.
+hits: 61
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 61 Instagram influencers like this in Hamburg, Germany for you to contact.
 profiles:
   - username: "anna.elisie"
     fullname: >-
-      Anna Elisie | Ethical Vegan 🌿
+      Anna Elisie | Ethical Vegan
     bio: >-
-      🌕 Hummus & Nickerchen 🌓 post@veganmom.de 🌑 Alle Rezepte↓
+      🌕 Easy vegane Rezepte 🌓 Hummus & Nickerchen 🌑 ↓ Alles ausführlich auf dem Blog
     location: "Germany"
-    followers: 49481
-    engagement: 616
-    commentsToLikes: 0.017106
+    followers: 52913
+    engagement: 363
+    commentsToLikes: 0.017367
     id: ckf5w4n7mqtzj0j23j6wa6chq
     verified: false
-    hashtags: "#veganfood, #feedfeed, #rezepte, #herbstrezepte"
+    hashtags: "#vegangermany, #veganfr, #veganvanlife, #wanderlust"
+  - username: "zweidiereisen"
+    fullname: >-
+      zweidiereisen
+    bio: >-
+      REISEN / NACHHALTIGKEIT / REZEPTE @lisanovelle & @max_bundaberg ✉️hello@zweidiereisen.de 📖Autoren „Mit Fairgnügen reisen“
+    location: "Germany"
+    followers: 89809
+    engagement: 224
+    commentsToLikes: 0.037940
+    id: ck0u15vhivzl00i19fwhxyekh
+    verified: false
+    hashtags: "#reisen, #nachhaltigreisen, #besserweiter, #weltkulturerbev"
+  - username: "sorayas_world"
+    fullname: >-
+      ⋆ S O R A Y A ⋆
+    bio: >-
+      Grateful sunshine soul & yoga teacher✨ Be You. #empowering Testing Vegan Goodies for you 🌱 Hamburg•Mindfulness•Sustainability info@sorayas-world.com
+    location: "Germany"
+    followers: 20495
+    engagement: 252
+    commentsToLikes: 0.040892
+    id: ck6tjjauw2twd0j71s4eikzgm
+    verified: false
+    hashtags: "#hamburgvoodguide, #hamburgveganfood, #yogapassion, #veganfoodhamburg"
   - username: "pflanzlich.stark"
     fullname: >-
       pflanzlich.stark 🌱💪
     bio: >-
       Dein täglicher Input rund um den veganen Lebensstil 📬
     location: "Germany"
-    followers: 126991
-    engagement: 527
-    commentsToLikes: 0.019276
+    followers: 143820
+    engagement: 622
+    commentsToLikes: 0.020731
     id: ck6u35jz8vucl0j714cafwws4
     verified: false
-    hashtags: "#nachhaltigkeit, #umweltschutz, #kochenistliebe, #veganer"
+    hashtags: "#gesunderezepte, #pflanzlicheerna, #pflanzenbasiert, #veganleben"
   - username: "vegantaeglich"
     fullname: >-
       Täglich Fakten für Veganer
     bio: >-
       🌱 Der Nr.1 vegane Ratgeber 📚 Infos, Tipps und Rezepte für den veganen Lebensstil 📬Fragen/Kooperationen?➡️DM! 💡 Folge Uns für ein veganes Leben
     location: "Germany"
-    followers: 38130
-    engagement: 634
-    commentsToLikes: 0.023267
+    followers: 53282
+    engagement: 584
+    commentsToLikes: 0.023084
     id: ckapadhv0vo430i78llehnvtg
     verified: false
-    hashtags: "#veganhamburg, #veganismus, #hamburgvegan, #pflanzlicheern"
-  - username: "flauschelle"
+    hashtags: "#veganbacken, #veganvienna, #veganer, #obst"
+  - username: "gymooni"
     fullname: >-
-      ▪️Michelle ➰ Flauschelle▪️
+      Mona |Ernährung&Mindset Coach
     bio: >-
-      ✖️#femaleintech ✖️Lifestyle| Beauty | Fashion
+      #TEAMROCKA 💚 Ich helfe Frauen dabei, sich langfristig wohlzufühlen ohne strikte Ernährungspläne.🌱 👇🏼 Mein Coaching👇🏼 ✨It all starts WITHIN you✨
     location: "Germany"
-    followers: 12901
-    engagement: 798
-    commentsToLikes: 0.294194
-    id: ck5zpkc6fst9k0i14umrkisra
+    followers: 30394
+    engagement: 164
+    commentsToLikes: 0.159948
+    id: ck6tidu6b0j1w0j71hb7ho7tl
     verified: false
-    hashtags: "#fashionactive, #germanblogger, #flauschelle, #gewinnspiel"
-  - username: "sarghonaa"
+    hashtags: "#muskelaufbau, #selbstliebelernen, #fettreduzieren, #wohlf"
+  - username: "charlykrueger"
     fullname: >-
-      Sarghona Sultany
+      𝙲 𝙷 𝙰 𝚁 𝙻 𝚈
     bio: >-
-      @glow.aesthetics_hh #hamburg mail:sarghona.sultany@web.de J❤️
+      Hamburg ♡☕️ vegan ♒︎ .
     location: "Germany"
-    followers: 30510
-    engagement: 195
-    commentsToLikes: 0.121049
-    id: ck14kfcarp8vq0i19err44qjj
+    followers: 2122
+    engagement: 2259
+    commentsToLikes: 0.044787
+    id: ckap32vta1bmu0i78smcvpfpi
     verified: false
-    hashtags: "#berlin, #family, #hh, #happy"
-  - username: "sanae.decker"
+    hashtags: "#portrait, #blackandwhite, #shooting, #germany"
+  - username: "katyyys_welt"
     fullname: >-
-      Sanae Decker - Yoga Teacher
+      ☆KaTi☆
     bio: >-
-      YOGA - SELFLOVE - FEMALE EMPOWERMENT 💞 Ich unterstütze dich bei deiner Yogapraxis🙏🏼 Personal Yoga / Business Yoga / Classes Jetzt auch online! Vegan🌱
+      му ℓιттℓє ℓιƒє 🖤 ♡ 🅰🆅🅾🅽 Teamleiterin ☆by☆Avon #𝓣𝓮𝓪𝓶𝓵𝓮𝓲𝓽𝓮𝓻𝓲𝓷 #𝓘𝓬𝓱𝓫𝓲𝓷𝓐𝓿𝓸𝓷 Founder of #Kaffeetantenmittwoch #Avon
     location: "Germany"
-    followers: 8532
-    engagement: 521
-    commentsToLikes: 0.035719
-    id: ck8swofawepvm0j78mdg3uwat
+    followers: 9476
+    engagement: 245
+    commentsToLikes: 0.257691
+    id: ck6ugqe2m4jm10j71o5phvvtd
     verified: false
-    hashtags: "#sweatingbeauties, #yoga, #wirbleibenzuhause, #yogainhamburg"
-  - username: "jennifer_prokopenkova"
+    hashtags: "#onlinebusiness, #blogger, #glaubandich, #erfolgistkeingl"
+  - username: "rikexx"
     fullname: >-
-      Jennifer Prokopenkova |Rostock
+      Rikexx
     bio: >-
-      Für Selbstverwirklichung & Freiheit Kraftsport | Reisen | Gesundheit Inspiring healthy living around the world 🌍 LIVE INTERVIEW - MY STORY 👇🏽
+      040 - Erzieherin 📸 Photography-Liebhaberin 🥑 Pfänzle eat-lov-er Mails: Maria.Friederike.Kopper@gmail.com Second account: @rikexx.photography 📷
     location: "Germany"
-    followers: 27566
-    engagement: 176
-    commentsToLikes: 0.087785
-    id: ckap38pjt20pi0i789l7zj0m6
+    followers: 27205
+    engagement: 391
+    commentsToLikes: 0.010216
+    id: ck134saf3xydb0i19cur0td6m
     verified: false
-    hashtags: "#warnem, #binzaufr, #bewusstleben, #rostockerm"
-  - username: "rebeccasorayazaman"
+    hashtags: "#inspiration, #croatia, #girlswithtattoos, #beach"
+  - username: "adriaan.vanveen"
     fullname: >-
-      🖤
+      ADRIAAN VAN VEEN
     bio: >-
-      🎬Actress 🎭Film and Theatre. 🌱Vegan 📍Hamburg & Berlin
+      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
     location: "Germany"
-    followers: 25339
-    engagement: 507
-    commentsToLikes: 0.008443
-    id: ck0tymimnn9uk0i194h029xny
+    followers: 18483
+    engagement: 93
+    commentsToLikes: 0.028050
+    id: ck8syv0u3m47i0j7850l8c3el
     verified: false
-    hashtags: "#filmdiscovered, #moodyports, #onfilm, #ifyouleave"
-  - username: "ashtray_arts"
-    fullname: >-
-      🌿Ashtray Arts🌿
-    bio: >-
-      🖤Doing Tattoos and Photoart 🖤 @ashtray_arts_tattoos 📸 @ashtray_arts_photography ✖️, Model, Vegan Activist, Youtuber 🏡 Hamburg
-    location: "Germany"
-    followers: 35322
-    engagement: 331
-    commentsToLikes: 0.023119
-    id: ck5q8kv9y6osq0i11zp4eyw9k
-    verified: false
-    hashtags: "#selfie, #fantasyphotography, #gothgirl, #gothgoth"
-  - username: "annashines_"
-    fullname: >-
-      Anna Shines �
-    bio: >-
-      � Wiesbaden � annax1303@gmail.com
-    location: "Germany"
-    followers: 75448
-    engagement: 176
-    commentsToLikes: 0.050042
-    id: ck9h9qj7o9kb10j78o3rrk0c6
-    verified: false
-    hashtags: "#burgerheaven, #weloveburgers, #delicious, #pommesfrites"
+    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In New York In 2022
+title: Top 10 Fitness TikTok Influencers In New York In 2023
 description: >-
-  Find top fitness TikTok influencers in New York in 2022. Most popular hashtags: #fitness #newyork #fyp #viral.
+  Find top fitness TikTok influencers in New York in 2023. Most popular hashtags: #fitness #newyork #fyp #newyorkcity.
 platform: TikTok
-hits: 94
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 94 TikTok influencers like this in New York, United States for you to contact.
+hits: 69
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 69 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "sunainabhagisb"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Actor Model Fitness freak New York📍Mumbai📍Delhi📍 Instagram- sunainabhagi
     location: "United States"
-    followers: 63300
-    engagement: 535
-    commentsToLikes: 0.046706
+    followers: 62900
+    engagement: 414
+    commentsToLikes: 0.022750
     id: ckbwjfosa3jji0j23kdgxx6ip
     verified: false
-    hashtags: "#inthewild, #usa, #creator, #newyork"
+    hashtags: "#christmas, #love, #bagelbopscontest, #sky"
+  - username: "giannish88"
+    fullname: >-
+      Giannis Houmis 
+    bio: >-
+      Ghoumisnyc@gmail.com
+    location: "United States"
+    followers: 6433
+    engagement: 471
+    commentsToLikes: 0.015087
+    id: ck8s7q624q92a0j787xm19jef
+    verified: false
+    hashtags: "#avengers, #latte, #espreso, #friday13"
+  - username: "maliamakaila"
+    fullname: >-
+      Malia Makaila 👼🏼
+    bio: >-
+      NEW YORK CITY GAL 🤍
+    location: "United States"
+    followers: 197500
+    engagement: 832
+    commentsToLikes: 0.040768
+    id: ck9rjt5bkppgu0j78hm0nuym0
+    verified: false
+    hashtags: "#transition, #nyc, #fyp, #fitness"
+  - username: "happyhikerr"
+    fullname: >-
+      olivia leonard
+    bio: >-
+      amateur running vlogger // God is GOOD ♡
+    location: "United States"
+    followers: 21300
+    engagement: 973
+    commentsToLikes: 0.018396
+    id: ckb9kqjm5cvah0j23z04y784p
+    verified: false
+    hashtags: "#mentalhealthmatters, #dog, #fyp, #ocd"
+  - username: "albxlena"
+    fullname: >-
+      Albulena
+    bio: >-
+      vegas | 🇦🇱🇽🇰 | gemini.
+    location: "United States"
+    followers: 10900
+    engagement: 956
+    commentsToLikes: 0.050867
+    id: ck8w4umnb92w20j78o35h2dq4
+    verified: false
+    hashtags: "#vegas, #michigan, #fitness, #montenegro"
+  - username: "danielbooter"
+    fullname: >-
+      Daniel Booter
+    bio: >-
+      📍NYC
+    location: "United States"
+    followers: 34700
+    engagement: 599
+    commentsToLikes: 0.055905
+    id: ckbkg63sb7euc0j23qourftld
+    verified: false
+    hashtags: "#views, #la, #lux, #nj"
   - username: "sebastiansolano38"
     fullname: >-
       Sebastian Solano
     bio: >-
       Follow My IG Above ! ^ NJ | 🇨🇴
     location: "United States"
-    followers: 14000
-    engagement: 494
-    commentsToLikes: 0.031067
+    followers: 13900
+    engagement: 498
+    commentsToLikes: 0.033044
     id: ck9gldroknupc0j78y4okh95t
     verified: false
-    hashtags: "#ownthecurve, #quarantine, #drone, #latinos"
-  - username: "officialevanashmore"
+    hashtags: "#quarantine, #nj, #petsoftiktok, #latinogang"
+  - username: "itsbrenna_rose"
     fullname: >-
-      Evan Ashmore
+      Brenna Hughes
     bio: >-
-      👻: Ev4n “Never be too cool to be silly” - Granny
+      NYC. Actor. Probably too old for this app but here we are ¯\_(ツ)_/¯
     location: "United States"
-    followers: 306800
-    engagement: 1288
-    commentsToLikes: 0.027825
-    id: ck9gklsohjvn00j78bi6qyxtf
+    followers: 7526
+    engagement: 1573
+    commentsToLikes: 0.027861
+    id: ckbw4wb4mxqcv0j23s5p852nc
     verified: false
-    hashtags: "#music, #duet, #imjealous, #fitness"
-  - username: "thejeremystrong"
+    hashtags: "#november3rd, #gilmoregirls, #liberal, #comedy"
+  - username: "gabydeex3"
     fullname: >-
-      Jeremy Strong
+      Gabydeex3
     bio: >-
-      Go search for all my music under “Jeremy Kenyel”
+      24 🇷🇺🇺🇦✡️ New York I’m kinda funny sometimes Venmo: @gabriella-deren
     location: "United States"
-    followers: 1000000
-    engagement: 1232
-    commentsToLikes: 0.016965
-    id: ck8knvveheylg0j78a044tml2
-    verified: true
-    hashtags: "#fyp, #trend, #affirmations, #viral"
-  - username: "brianjohnsadventure"
-    fullname: >-
-      brianjohnsadventure
-    bio: >-
-      93 k Insta. Brianjohnsadventure, hype me up
-    location: "United States"
-    followers: 4889
-    engagement: 2055
-    commentsToLikes: 0.297501
-    id: ckbfiiy0beanz0j23sefdjyq9
+    followers: 242000
+    engagement: 1031
+    commentsToLikes: 0.057344
+    id: ckbb5w9u0w0rg0j239keyu72j
     verified: false
-    hashtags: "#sketch, #adventure, #nationalparks, #fyp"
-  - username: "veronicaridge"
+    hashtags: "#gym, #workout, #gymlife, #fitlife"
+  - username: "itshuyennguyen"
     fullname: >-
-      Veronica Ridge
+      Huyen Nguyen | NYC
     bio: >-
-      Hairstylist & Patrick Ridge’s Wife 👇🏻O.F Link 👇🏻
+      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
     location: "United States"
-    followers: 197800
-    engagement: 821
-    commentsToLikes: 0.022081
-    id: ck9c0fmrqo9140j783xo1j93c
+    followers: 14700
+    engagement: 689
+    commentsToLikes: 0.045216
+    id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#grandma, #content, #fitnesstravel, #healthytravel"
-  - username: "thetexasguy"
-    fullname: >-
-      Reagan Green
-    bio: >-
-      No bullcrap Christian ✝️ Podcast - Spotify and Apple Podcast 🎙 Link in website
-    location: "United States"
-    followers: 73500
-    engagement: 1923
-    commentsToLikes: 0.066956
-    id: ckavjn74osdue0j239m3txeyw
-    verified: false
-    hashtags: "#podcast, #fyp, #jesus, #christian"
-  - username: "maliamakaila"
-    fullname: >-
-      Malia Makaila 👼🏼
-    bio: >-
-      NYC Fitness Coach Workout with me IG @malia.makaila
-    location: "United States"
-    followers: 193600
-    engagement: 1001
-    commentsToLikes: 0.032161
-    id: ck9rjt5bkppgu0j78hm0nuym0
-    verified: false
-    hashtags: "#foryou, #challenge, #photo, #fyp"
-  - username: "ron_the_barber66"
-    fullname: >-
-      Ron_the_barber66
-    bio: >-
-      Instagram- Ron_the_barber66
-    location: "United States"
-    followers: 5010
-    engagement: 400
-    commentsToLikes: 0.047494
-    id: ckb99ib20tql20j23tdgcx8xl
-    verified: false
-    hashtags: "#barbershop, #covid19, #barber, #blacklivesmatter"
-  - username: "jakekulakowski"
-    fullname: >-
-      jake
-    bio: >-
-      new york ig: @jakekulakowski get your vibz merch now
-    location: "United States"
-    followers: 1300000
-    engagement: 2151
-    commentsToLikes: 0.056148
-    id: ck8f6fq8v2la40j78cpir1pds
-    verified: false
-    hashtags: "#showupshowoff, #fyp, #basketball, #viral"
+    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
 ---

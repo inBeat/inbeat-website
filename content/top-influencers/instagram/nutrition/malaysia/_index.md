@@ -1,120 +1,96 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Malaysia In 2022
+title: Top 10 Nutrition Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top nutrition Instagram influencers in Malaysia in 2022. Most popular hashtags: #bodybuilding #fitness #fitnessjourney.
+  Find top nutrition Instagram influencers in Malaysia in 2023. Most popular hashtags: #reels #reelsinstagram #fitness #reelitfeelit.
 platform: Instagram
-hits: 10
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 10 Instagram influencers like this in Malaysia for you to pitch.
+hits: 8
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
   - username: "hannaqeela"
     fullname: >-
       Hanna Aqeela
     bio: >-
-      Nutritionist | Model / Actress Beauty ✨: @qeelcosmetics Email: hannaqeela90@gmail.com
+      Nutritionist | Model / Actress Email: hannaqeela90@gmail.com
     location: "Malaysia"
-    followers: 336407
-    engagement: 355
-    commentsToLikes: 0.004946
+    followers: 363795
+    engagement: 6
+    commentsToLikes: 0.001464
     id: ck6tj1z991uo40j71d9dsjhmq
     verified: false
-    hashtags: "#poplookootd, #danielwellington, #dwmalaysia, #dwinmy"
-  - username: "joannasohofficial"
+    hashtags: "#prismplusmy, #prismplusmonitor, #englishpearandfreesia, #myjomalonelondon"
+  - username: "levyli"
     fullname: >-
-      Joanna Soh
+      Levy Li Su Lin
     bio: >-
-      🧡 Creator @fio.app Fitness App 👧🏻 Certified Trainer & Nutrition Coach 🏋️‍♀️ Full Length Workouts on YouTube| 2mil 👇🏻 3KM Fat Burning Indoor Walk 🚶‍♀️
+      👑Miss Universe Malaysia 2008 🇲🇾🇹🇭🇰🇷🇺🇸 Masterchef of @goodcompany 🌱 🌵@sahara.bkk Nutritionist . Vegetarian 💻 levypublic@gmail.com
     location: "Malaysia"
-    followers: 109010
-    engagement: 202
-    commentsToLikes: 0.019201
-    id: ck14ipzohgnfs0i19u7hbh6gi
+    followers: 113596
+    engagement: 147
+    commentsToLikes: 0.003627
+    id: ck6ttba7y9n3g0j71nflt3vht
     verified: false
-    hashtags: "#diabetes, #teamnike, #fitnessjourney, #fitnessmotivation"
-  - username: "mr.jay.rosly"
+    hashtags: "#amazingthailand, #levytwinsjourney, #levytravels, #chinesenewyear2021"
+  - username: "vireema"
     fullname: >-
-      Kurus Dengan Makan Nasi 🇲🇾
+      Reema
     bio: >-
-      HEALTH ° FITNESS ° NUTRITION 🤳🏼Kurus Fit Online Coaching 🤿 #SDiDivers 🛵 #Biker 📲 #CoachJay KLIK LINK UNTUK JOIN CABARAN BUANG LEMAK 👇🏼⬇️👇🏼
+      Free soul #Nutritionist & #Yoga instructor Moj Id @vireema
     location: "Malaysia"
-    followers: 60671
-    engagement: 175
-    commentsToLikes: 0.012304
-    id: ckf5rcfr7c6fz0j23hs7obhow
+    followers: 476408
+    engagement: 438
+    commentsToLikes: 0.016385
+    id: ck0ua71hsbm2h0i19yohlwtn9
     verified: false
-    hashtags: "#alhamdulillah, #syukur, #malaysia, #borderbilabukakek"
-  - username: "nayeri.shahin"
+    hashtags: "#reels, #stayhappy, #goodvibes, #nofilter"
+  - username: "hossein_salimzadeh"
     fullname: >-
-      shahin nayeri
+      Hossein Salimzadeh
     bio: >-
-      Owner-founder@ BODYCREW🇮🇷🇹🇷🇬🇧🇦🇪🇲🇾🇸🇬Exclusive distributor of Olimp nutrition🇲🇾Go nutrition🇦🇪YAMAMOTO🇲🇾🇸🇬Theproteinworks🇦🇪🇲🇾OSHEE🇦🇪ironmaxx🇰🇼
+      ♛𝙆𝙐𝙍𝘿🦅 🔹️ 2nd MEN OF STEEL MALAYSIA 2019🥈 🔹️Junior(age 23)iran champion🥇 🔹Online coaching🌏 🔹️Olympia Gym 🔹️دریافت برنامه تمرینی و غذایی دایرکت👇
     location: "Malaysia"
-    followers: 5853
-    engagement: 1502
-    commentsToLikes: 0.050783
-    id: ck5hnajucngz70i11rwpu0kae
+    followers: 4685
+    engagement: 1080
+    commentsToLikes: 0.089408
+    id: ck5q33mrvj27u0i11myxyywt3
     verified: false
-    hashtags: ""
+    hashtags: "#kurd, #kurdish, #bodybuilding, #oman"
+  - username: "juliewoon"
+    fullname: >-
+      Julie Woon
+    bio: >-
+      Emcee | TV Host | Automotive enthusiast Live | Love | Laugh | 🇲🇾🇲🇾🇲🇾
+    location: "Malaysia"
+    followers: 56124
+    engagement: 268
+    commentsToLikes: 0.017509
+    id: ck14knobyqf3o0i19coljaor3
+    verified: false
+    hashtags: "#workout, #cny2021, #homeworkout, #workoutoftheday"
   - username: "ragunathan24"
     fullname: >-
       Ragunathan (Men Of Steel)
     bio: >-
-      🇲🇾 bodybuilder • Trainer/coach • Mr.Malaysia 2014 ( C.O.C )🏆 • Mr.Johor 2x ( C.O.C )🏆 • Men OF Steel 2014 🥇 • Squeaky Clean Classic 2019 (C.O.C)🏆
+      🇲🇾 bodybuilder • Trainer/coach • Mr.Malaysia 2014 ( C.O.C )🏆 • Mr.Johor 2x ( C.O.C )🏆 • Men OF Steel 2014 🥇 • IFBB Regional SCC 2019 (C.O.C)🏆
     location: "Malaysia"
-    followers: 11325
-    engagement: 878
-    commentsToLikes: 0.045041
+    followers: 16137
+    engagement: 686
+    commentsToLikes: 0.043163
     id: ck15sjqdkdcsh0i1948xpciq0
     verified: false
-    hashtags: "#motivation, #swole, #proses, #sizeon"
-  - username: "timothyc.fitness"
+    hashtags: "#igfitfam, #swole, #ootd, #instafitness"
+  - username: "aboydatingfood"
     fullname: >-
-      Timothy Chan Fitness
+      ABoyDatingFood©|Nashik Blogger
     bio: >-
-      Weight Loss | Muscle Building Coach 🏋🏻‍♂️Powerlifter | Bodybuilder 🇲🇾KUL 📥DM me for collab & PT
+      Filling Our Feed With Delicious Food🤤 Food | Travel | Photography Exploring Food From Street To Cuisine Mail/Dm For Collaboration And Review📥 Goal:10k
     location: "Malaysia"
-    followers: 5108
-    engagement: 1142
-    commentsToLikes: 0.019731
-    id: ck139vtvxndb30i19fsnzvhi9
+    followers: 9711
+    engagement: 802
+    commentsToLikes: 0.236333
+    id: ckf5ro7ncddlq0j230ic72p5y
     verified: false
-    hashtags: "#fitnessmotivation, #sunnyday, #sweat, #learn"
-  - username: "firezze"
-    fullname: >-
-      Far East H
-    bio: >-
-      Managed by @alyfegroup faizabdulhak@hotmail.com andy@alyfegroup.com Proud Malaysian🇲🇾 Living life with passion Travel | Lifestyle | Fashion | Fitness
-    location: "Malaysia"
-    followers: 91453
-    engagement: 273
-    commentsToLikes: 0.011759
-    id: ck5bwnf4em17u0i1189n4rm6z
-    verified: false
-    hashtags: "#alyfetalents, #guardianrayashine, #dudukrumah, #alyfegroup"
-  - username: "sazali.samad.shoppe"
-    fullname: >-
-      Sazali Samad Shoppe
-    bio: >-
-      Pages : Sazali Samad www.nakubahbadan.com/sazalisamad Ambassador, Online Coaching, PTrainer 📲Wasap :+6 0104568867
-    location: "Malaysia"
-    followers: 57677
-    engagement: 105
-    commentsToLikes: 0.014918
-    id: ck15sjo74dch80i19lafr9chi
-    verified: false
-    hashtags: "#sazalisamadfanclub, #sado, #nupreplelaki, #bodybuilder"
-  - username: "baby_kilian_albert"
-    fullname: >-
-      Kilian Torres
-    bio: >-
-      ❌ #HAIR For Days🦁 ▪️Brand Rep ✖️Fashion/ Influencer/ Toy Review ▪️Dm To Collab ✖️Mama Runs My IG
-    location: "Malaysia"
-    followers: 51356
-    engagement: 393
-    commentsToLikes: 0.153645
-    id: ck13d2mee3cvt0i194p4pm0bc
-    verified: false
-    hashtags: "#deltachildren, #dmtocollab, #learning, #dino"
+    hashtags: "#fries, #mumbaifoodie, #indianfood, #foodphotography"
   - username: "gookgiik_kochakorn"
     fullname: >-
       กุ๊กกิ๊ก กชกร
@@ -126,5 +102,5 @@ profiles:
     commentsToLikes: 0.004424
     id: ck15qaf5o1vxv0i198u4cpz61
     verified: true
-    hashtags: "#snapbyggx, #brunohealthysnack, #glutenfree, #vivaplusjelly"
+    hashtags: "#nutritious, #ningpanita, #brunobrowniecrisp, #brunohealthysnack"
 ---

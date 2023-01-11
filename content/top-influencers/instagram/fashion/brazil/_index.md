@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Brazil In 2022
+title: Top 10 Fashion Instagram Influencers In Brazil In 2023
 description: >-
-  Find top fashion Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #publi #challenge.
+  Find top fashion Instagram influencers in Brazil in 2023. Most popular hashtags: #ootd #moda #lookdodia #fashion.
 platform: Instagram
-hits: 3946
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 3946 Instagram influencers like this in Brazil for you to contact.
+hits: 3756
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 3756 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "thamyscoelho_"
+  - username: "eucarolsoaress"
     fullname: >-
-      Thamyres Coelho
+      Carol Soares
     bio: >-
-      •Não pare até se orgulhar!✨ @pfelipemotta❤️ fashion| beauty and makeup💄 🤝parceria via direct 🎥vídeo/ #challenge toda semana✨
+      Embaixadora @FashionNova ▫️digital influencer ▫brasil - rj ▫contato: eucarolsoaress@compoe.com.br
     location: "Brazil"
-    followers: 4305
-    engagement: 2204
-    commentsToLikes: 0.137660
-    id: ck8t8gailkd0h0j789c98fhqb
+    followers: 366106
+    engagement: 723
+    commentsToLikes: 0.021495
+    id: ck6tp3itmhmoa0j71ikrbpff1
     verified: false
-    hashtags: "#uauchallenge, #megustachallenge, #festaemipanemachallenge, #euphoriachallenge"
-  - username: "tai.antunes"
+    hashtags: "#publi, #hydraox, #larocheposaybr, #focanosedaboom"
+  - username: "frrancosta"
     fullname: >-
-      TAI | MODA PLUS & AUTOESTIMA
+      Fran Costa / Cabelo ondulado
     bio: >-
-      Ame-se sendo a mulher que você é! ✨ autoestima ・gorda fashionista・vida real ✉️ contato@taiantunes.com.br Tubarão, SC
+      you ♡ me! 🧸💖 Hair style and fashion Fashion design: @usefancy.s Produtora de moda 🧵
     location: "Brazil"
-    followers: 26596
-    engagement: 1800
-    commentsToLikes: 0.067539
-    id: ck0w2g0uro6ad0i19hjjvnkv1
+    followers: 51063
+    engagement: 456
+    commentsToLikes: 0.025911
+    id: ck8tbz693xr2c0j782m4tz0yh
     verified: false
-    hashtags: "#gordas, #modaplussize, #plussizebrasil, #gordofobia"
-  - username: "wladyapinheiro_"
+    hashtags: "#onduladosnaturais, #cabelosaudavel, #hairclips, #penteado"
+  - username: "petit_sophia"
     fullname: >-
-      W L A D Y A  P I N H E I R O
+      sophia d’avila 💋
     bio: >-
-      Lifestyle|Fashion|Fitness|Empresária BOSS: @mirlaconceito 👗 @pinheiro.acai 🍧 Modelo fotográfica📸 @leoninasfec 🦁 @ayrton_pinheiroo 😍❤️
+      🇧🇷| RS fashion content • beauty • lifestyle• trips • assista os stories ✨| focused on me
     location: "Brazil"
-    followers: 23682
-    engagement: 1409
-    commentsToLikes: 0.539445
-    id: ck9wdwvc5hmpd0j788ol4m86j
+    followers: 54430
+    engagement: 252
+    commentsToLikes: 0.145205
+    id: ck15qxf2i546v0i19rlo9iv32
     verified: false
-    hashtags: "#inspiration, #instablog, #fotododia, #digitalinfluencer"
-  - username: "andre_rodrig"
+    hashtags: "#maquiagem, #lookinspira, #outfitoftheday, #look"
+  - username: "maslele"
     fullname: >-
-      André Rodrigues 🇧🇷🇫🇷
+      MASLELE
     bio: >-
-      📍Paris Fashion Designer -AR-
+      🌈 looks coloridos são meu forte 🌟 provador fashion • dicas • real life 💕 link profissional
     location: "Brazil"
-    followers: 10542
-    engagement: 1390
-    commentsToLikes: 0.076446
-    id: ckap68zwlewcy0i78omk37hj3
+    followers: 45614
+    engagement: 236
+    commentsToLikes: 0.237437
+    id: ck8t2z69119nt0j784zs0wd9n
     verified: false
-    hashtags: "#treeoflife, #gratida, #25yearsold, #maeepaiaomesmotempo"
-  - username: "ysagrilo"
+    hashtags: "#lookdodia, #publi"
+  - username: "livia.apereira"
     fullname: >-
-      Ysadora Grilo
+      LIVIA PEREIRA ☀️
     bio: >-
-      Parte de mim é fashionista chic, outra parte tem um parafuso a menos, ou dois... ✌️🤪 📦 CX.P 19911971 n.517 📩contatoysadoragrilo@gmail.com VÍDEO NOVO👇
+      🤡 Vida real com HUMOR 📍SP 🔥 Viagens | Lifestyle | Fashion | Gastronomia ✈️ A menina do brigadeiro na sala VIP! 💌 contato@viajandocomlivia.com.br
     location: "Brazil"
-    followers: 22041
-    engagement: 1371
-    commentsToLikes: 2.009608
-    id: ck6u8noujsmty0j71coushrn0
+    followers: 102302
+    engagement: 235
+    commentsToLikes: 0.154026
+    id: ck5zuv0gs33br0i14vitdf03w
     verified: false
-    hashtags: "#tbt, #len, #tb, #girlsfashion"
-  - username: "euosol"
+    hashtags: "#humorbr, #viagem, #memesbr, #humor"
+  - username: "iankaribeiro"
     fullname: >-
-      ⠀⠀⠀S O L ☀️
+      Ianka Ribeiro || MODA
     bio: >-
-      SSA 🌴 FASHION • BEAUTY • LIFESTYLE • EDITION  PACOTE 5 FILTROS 👇🏾
+      Fashion bloguer ✨🚀 DF Muito conteúdo de moda no reels e dicas nos stories 📲Collab: iankaribeiro30@icloud.com
     location: "Brazil"
-    followers: 22411
-    engagement: 1190
-    commentsToLikes: 0.193451
-    id: ck8t5ckqu9ngl0j7824nwj8lj
+    followers: 47950
+    engagement: 233
+    commentsToLikes: 0.514856
+    id: ck6u8sq1wtg060j71rsslnus7
     verified: false
-    hashtags: "#aloecachos, #duetto, #tbt, #blackisking"
-  - username: "olaju_"
+    hashtags: "#fashionreels, #fashion, #ootd, #outfit"
+  - username: "terrible___kid"
     fullname: >-
-      julia gimenez
+      João sobral the most Tεяя¡Ъłε⚡️
     bio: >-
-      🔗21 | SP Políticas Públicas - UFABC Hair & Alternative Fashion #olajulook Assistam os stories!
+      I do a lot of things yaaa ✌🏼 Team @b0rdalo_ii 🔩⚙️🥽 Street fashion @unfazed.13 🔌 Parcerias @global__influence
     location: "Brazil"
-    followers: 26542
-    engagement: 1143
-    commentsToLikes: 0.090897
-    id: ck9hcj61flnwb0j7834ibf8bg
+    followers: 53670
+    engagement: 169
+    commentsToLikes: 0.030961
+    id: ck0ub28j1dl6b0i19jyhzbef7
     verified: false
-    hashtags: ""
-  - username: "amandhasa"
+    hashtags: "#streetwear, #klekttakeover, #kickcheck, #familia"
+  - username: "_feamorim"
     fullname: >-
-      Amanda Araújo
+      Fernanda Amorim
     bio: >-
-      @lojasexclusivaa João Pessoa | Campina Grande 📩 amandhasaa@gmail.com Fashion | Travel | Business
+      26, Beauty and fashion 👗💄 •Moda, Beleza, Makes, Lifestyle• Batalha de looks 👚👙👠 Contato: Fernanda.amorim96@yahoo.com.br 📩📬
     location: "Brazil"
-    followers: 106015
-    engagement: 948
-    commentsToLikes: 0.517423
-    id: ck14gnyo2668h0i19gbh4ddg9
+    followers: 61073
+    engagement: 106
+    commentsToLikes: 0.201346
+    id: ck9ha92efbmg50j78iuttzoo5
     verified: false
-    hashtags: "#maisumaunidade, #exclusivacampina, #morrodosaopaulo, #bahia"
-  - username: "angelimarilia"
+    hashtags: "#ootd, #littleblackdress, #saopaulo, #lookjantar"
+  - username: "jessicaalvesuk"
     fullname: >-
-      Ângeli ♡
+      Jessica Alves
     bio: >-
-      ASSISTA OS STORIES 💁🏽‍♀️ ▫️Beauty/Fashion ✨ lifestyle•cabelo•dicas•autocuidado 📩 angelimarilia@pgbagency.com 📌 Salvador - BA (Isaías 43:10-11).
+      TV Personality📺 Model 🫦 🤷‍♀️based in📍#London🇬🇧 travels the world 🌎 Play at @playjessicaalves Agents @daddytheagency A @fashionnova ambassador
     location: "Brazil"
-    followers: 45207
-    engagement: 942
-    commentsToLikes: 0.067377
-    id: ck0w3f5k0t3e60i19990iou96
-    verified: false
-    hashtags: "#reelsinstagram, #publi, #explorar, #travel"
-  - username: "paranoiaviva"
+    followers: 7096079
+    engagement: 9
+    commentsToLikes: 0.016648
+    id: ck5hclroiiqaq0i11xnk3l8h1
+    verified: true
+    hashtags: "#beauty, #milano, #metaverse, #london"
+  - username: "sofsenisi"
     fullname: >-
-      José Ferrero
+      SOF | FASHION INSPO + IG TIPS
     bio: >-
-      Tattos/fashion Model and DJ 🎧 Sp/Rj, Brazil📍 @xparanoiavivax
+      📚 UofGH | Business ✨Diary of my life: Fashion, Beauty, Eats & Coffee 💌Collab: sofiasenisi@gmail.com 📍Canada ￼Ossesso Brand Ambassador: SOFIA10
     location: "Brazil"
-    followers: 56457
-    engagement: 739
-    commentsToLikes: 0.120633
-    id: ck15t4p6fgc2g0i19t30nf0fm
+    followers: 6147
+    engagement: 1291
+    commentsToLikes: 0.199967
+    id: ckap0fxu8q3qd0i781qxasrxq
     verified: false
-    hashtags: ""
+    hashtags: "#microinfluencer, #andsave, #fashionblogger, #detailsoftheday"
 ---

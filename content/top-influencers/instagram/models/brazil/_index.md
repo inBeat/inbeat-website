@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Brazil In 2022
+title: Top 10 Models Instagram Influencers In Brazil In 2023
 description: >-
-  Find top models Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #beyonce #challenge.
+  Find top models Instagram influencers in Brazil in 2023. Most popular hashtags: #moda #model #look.
 platform: Instagram
-hits: 4656
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 4656 Instagram influencers like this in Brazil for you to contact.
+hits: 4510
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 4510 Instagram influencers like this in Brazil for you to work with.
 profiles:
+  - username: "larissatomasia"
+    fullname: >-
+      Larissa Tomásia
+    bio: >-
+      BBB22 🍋 | Model | Beauty | Lifestyle 📫 Cx postal 37 CEP: 55700-000 Assessoria: 📧 larissatomasia@vox.plus 📲 (11) 96615-4180
+    location: "Brazil"
+    followers: 1058112
+    engagement: 110
+    commentsToLikes: 0.011703
+    id: ckap7r7kml7hk0i7833sy38oq
+    verified: false
+    hashtags: "#modera, #jeans, #mood, #publi"
+  - username: "jessicaalvesuk"
+    fullname: >-
+      Jessica Alves
+    bio: >-
+      TV Personality📺 Model 🫦 🤷‍♀️based in📍#London🇬🇧 travels the world 🌎 Play at @playjessicaalves Agents @daddytheagency A @fashionnova ambassador
+    location: "Brazil"
+    followers: 7096079
+    engagement: 9
+    commentsToLikes: 0.016648
+    id: ck5hclroiiqaq0i11xnk3l8h1
+    verified: true
+    hashtags: "#beauty, #milano, #metaverse, #london"
+  - username: "orricodan"
+    fullname: >-
+      DARLAN ORRICO
+    bio: >-
+      Dancer • Coreographer • Model Tec em Dança • FUNCEB (DRT) Bahia 🇧🇷 Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta.
+    location: "Brazil"
+    followers: 19443
+    engagement: 7488
+    commentsToLikes: 0.123524
+    id: ck5c05idbshhr0i111j3xherx
+    verified: false
+    hashtags: "#beyonce, #desprezivelchallenge, #dance, #challengedaari"
   - username: "elenanjoss"
     fullname: >-
       Princesa
     bio: >-
       independent model |Digital influencer ✨ Brasil , Ssa 🇧🇷 parcerias: direct 📥 Fui hackeada e tinha 37k , Recomeçando ❤️
     location: "Brazil"
-    followers: 19997
-    engagement: 2416
-    commentsToLikes: 0.066943
+    followers: 23141
+    engagement: 2107
+    commentsToLikes: 0.071926
     id: ck5zycc279mgc0i145m5wtv0q
     verified: false
-    hashtags: "#bondedasmaravilhas, #temquerexpeitar, #tocahit, #salvador"
-  - username: "talitamoura._"
+    hashtags: "#tocahit, #reels, #pagode, #bregafunk"
+  - username: "celikosaf"
     fullname: >-
-      Talita Moura
+      Celina Kogan
     bio: >-
-      • 🎓Acadêmica em Fisioterapia 🎓 • 📸 Photographic model • 📲 Parcerias via direct
+      model 🇦🇷 owner — @lalapontoficial celikosaf@hotmail.com
     location: "Brazil"
-    followers: 14990
-    engagement: 1746
-    commentsToLikes: 0.088726
-    id: ckf5nuo2yzqze0j23on6jaakg
+    followers: 59654
+    engagement: 666
+    commentsToLikes: 0.101411
+    id: ck15rhbmg7xl30i19l76ye6p6
     verified: false
-    hashtags: "#beach, #tbt, #formandasnatalrn, #cursodepenteadosnatal"
-  - username: "orricodan"
+    hashtags: "#tiffanyfragrance, #loveyourway, #vivesinlimites, #atreveteaserespontaneo"
+  - username: "mylena.luizaa"
     fullname: >-
-      DARLAN ORRICO
+      My 🌻🌙
     bio: >-
-      Model • Dancer • Coreographer Tec em Dança/FUNCEB Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta. 🌹☕ BA
+      👆🏽veja os stories lifestyle| model| influencer| dicas| 20♋️ • parcerias/contratações via direct. 📩 • Cx postal: 643 -CEP 29168-970📦 📬 • ES📍
     location: "Brazil"
-    followers: 5430
-    engagement: 1526
-    commentsToLikes: 0.146273
-    id: ck5c05idbshhr0i111j3xherx
+    followers: 92415
+    engagement: 656
+    commentsToLikes: 0.073825
+    id: ck0ud876xilrm0i19koljk2zu
     verified: false
-    hashtags: "#beydancer, #dance, #beyonce, #tbt"
-  - username: "raqueljmendes"
+    hashtags: "#look, #cachosbrasil, #amarracaodebiquini, #looks"
+  - username: "sarahkethley_"
     fullname: >-
-      Quel
+      Sarah Kethley
     bio: >-
-      É SOBRE ISSO ✨ • Model | Cabelo | Autoajuda • @raquelmassessoria • Publicidade e propaganda • SSA 🔁 SP
+      📌 DICAS DE BELEZA • Formada em Estética e Cosmética • Maracanaú/CE ☀️ | 22 • Influencer/ Model • 📸 @sarahkethleymodel • Parcerias 📲 / Contato 👇🏻
     location: "Brazil"
-    followers: 89573
-    engagement: 1351
-    commentsToLikes: 0.057266
-    id: ck14jbyr4jkgo0i1945n8rai5
+    followers: 13842
+    engagement: 1312
+    commentsToLikes: 0.084500
+    id: ck9wdte27h6ul0j782romoxtz
     verified: false
-    hashtags: "#mudeicomcoreton"
-  - username: "raquellynef"
+    hashtags: "#maracanau, #style, #nordestepraiano, #modafeminina"
+  - username: "nanaakakra"
     fullname: >-
-      Raquellyne Francielly 🦄🧜🏻‍♀️
+      Nana Kakra - N.A.N.A.
     bio: >-
-      🇧🇷🇨🇦 Parcerias via direct 📥 Divulgação/ Provador/ Model make Leonina ♌ | 2.3 Engenharia de Produção 📚📊 VÍDEO NOVO 👇🏼
+      NANA NUVEM ☪️✡️💭 Fashion Model Location: SP/BR 🇧🇷| Born: GH 🇬🇭 N.A.N.A- Profs do Trap ft Mc Igu 👇🏿❗️
     location: "Brazil"
-    followers: 6360
-    engagement: 1345
-    commentsToLikes: 0.609651
-    id: ckf5r2ax7b68k0j23mu39quc4
+    followers: 47264
+    engagement: 902
+    commentsToLikes: 0.055934
+    id: ckap17kdhte580i78drqf7vh9
     verified: false
-    hashtags: "#challengemakeup, #challenger, #makeup, #23anos"
-  - username: "_maisabel"
-    fullname: >-
-      Isabel Santos
-    bio: >-
-      Model @elomanagement - SP📍 2° lugar no Miss Brasil 2018 🇧🇷 Miss Bahia 2018 👑 ✉️ mi203544@gmail.com Meu Canal no Youtube 🎬
-    location: "Brazil"
-    followers: 16259
-    engagement: 1242
-    commentsToLikes: 0.194353
-    id: ck5qbrfvhn1ns0i11mmypn3sp
-    verified: false
-    hashtags: "#posesparafoto, #tbt, #inlove, #beauty"
-  - username: "andressasuita"
-    fullname: >-
-      Andressa Suita
-    bio: >-
-      Brazilian Model 🇧🇷 Lifestyle | Mãe de dois 👶🏻💙👶🏻 💌 contato@andressasuita.com.br
-    location: "Brazil"
-    followers: 13988505
-    engagement: 907
-    commentsToLikes: 0.017825
-    id: ck0tx3la5hrmw0i19wgcfctxf
-    verified: true
-    hashtags: "#afmood, #so, #ad, #trusshair"
-  - username: "paranoiaviva"
-    fullname: >-
-      José Ferrero
-    bio: >-
-      Tattos/fashion Model and DJ 🎧 Sp/Rj, Brazil📍 @xparanoiavivax
-    location: "Brazil"
-    followers: 56457
-    engagement: 739
-    commentsToLikes: 0.120633
-    id: ck15t4p6fgc2g0i19t30nf0fm
-    verified: false
-    hashtags: ""
+    hashtags: "#nanana"
   - username: "thitadiogo"
     fullname: >-
-      Thita Diogo
+      THITA DIOGO
     bio: >-
-      Model| #redhead | ⚖️ MG🔁SP “To shine on the outside you better care for your inside.” João 3:30
+      ⚡️Fashion | Beauty | Lifestyle | Redhead⚡️ •Model | Adm. de Empresas | Jurist ⚖️• •Romanos 8:39
     location: "Brazil"
-    followers: 5764
-    engagement: 1557
-    commentsToLikes: 0.102667
+    followers: 7721
+    engagement: 1334
+    commentsToLikes: 0.141050
     id: ckap1kswiuymz0i78rtblvfrj
     verified: false
-    hashtags: "#ruivante, #ruivanatural, #pordosol, #redhair"
-  - username: "mariabezbatti"
+    hashtags: "#ruivanatural, #beleza, #ruivice, #ruivante"
+  - username: "izabella.aguiar_"
     fullname: >-
-      𝓜𝓪𝓻𝓲𝓪 𝓒𝓵𝓪𝓻𝓪
+      • IZA•
     bio: >-
-      Modelo brasileira e mineira 🤍 • 𝔇𝔦𝔞 𝔞 𝔡𝔦𝔞, 𝔠𝔲𝔦𝔡𝔞𝔡𝔬𝔰 𝔢 𝔠𝔞𝔯𝔯𝔢𝔦𝔯𝔞 • @elleemodelmg @alluremgt @azure.models SP/MG 📍
+      •Moda | Dicas | Lifestyle• •Rio de Janeiro• •Parcerias e jobs: via direct• •Model• •Atleta de vôleibol• • ❽ • Gท's¹• ♡
     location: "Brazil"
-    followers: 14049
-    engagement: 1463
-    commentsToLikes: 0.081010
-    id: ck6tytiow5rib0j71w4xzb5th
+    followers: 3055
+    engagement: 2220
+    commentsToLikes: 0.277141
+    id: ckapbap00z7e20i78zbw9m19a
     verified: false
-    hashtags: "#kapadokya, #capadocia, #turquia"
+    hashtags: "#estilo, #look, #moda, #model"
 ---

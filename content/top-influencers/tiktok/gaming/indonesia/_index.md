@@ -1,24 +1,36 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Indonesia In 2022
+title: Top 10 Gaming TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top gaming TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #gaming #foryoupage.
+  Find top gaming TikTok influencers in Indonesia in 2023. Most popular hashtags: #gaming #fyp #stitch.
 platform: TikTok
-hits: 21
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 21 TikTok influencers like this in Indonesia for you to collaborate.
+hits: 20
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 20 TikTok influencers like this in Indonesia for you to contact.
 profiles:
+  - username: "smartfrenworld"
+    fullname: >-
+      SMARTFREN
+    bio: >-
+      Bikin malam kamu makin DAEBAK! Gaming, Streaming semua bisa #MalamJadiExtra
+    location: "Indonesia"
+    followers: 114000
+    engagement: 421
+    commentsToLikes: 0.074595
+    id: ckc3fo97a1vra0j232giqmtr4
+    verified: true
+    hashtags: "#malamjadiextra, #kuotanonstop, #unlimitedbisasemua, #nonstopkreasiq"
   - username: "ganteng_7"
     fullname: >-
       David Official🔥
     bio: >-
       YT David Gaming🙏 Cwok Gamers🎮 FB = Apitdoe💋 Nick | ＢＩＤ•ᴹᴿメᴀᴩɪᴛ࿐
     location: "Indonesia"
-    followers: 119200
-    engagement: 839
-    commentsToLikes: 0.029224
+    followers: 118500
+    engagement: 827
+    commentsToLikes: 0.028206
     id: ckbkmp05agdsz0j23z2w1o79e
     verified: false
-    hashtags: "#yutub, #subrek, #aura, #anjaymabar"
+    hashtags: "#aura, #anjaymabar, #stay, #yutub"
   - username: "imwishydra"
     fullname: >-
       HYDRA ORI
@@ -31,100 +43,88 @@ profiles:
     id: ckblhkcszb02m0j23v9tqb5y0
     verified: false
     hashtags: "#videoleap"
-  - username: "alasan_gaming"
+  - username: "bangjamal70"
     fullname: >-
-      ＡＬＡＳＡＮᴳᵃᶬᶦᶰᵍ
+      Bang Jamal
     bio: >-
-      📌FOLLOW IG @alasan_gaming 267942476 🔴SUBSCRIBE🔔 YOUTUBE➡ALASAN GAMING ⏬⏬⏬
+      subscribe youtube pubg gaming aku👇
     location: "Indonesia"
-    followers: 450000
-    engagement: 913
-    commentsToLikes: 0.013393
-    id: ckdsp7hf6odnu0j23h3fs3ap6
+    followers: 270900
+    engagement: 636
+    commentsToLikes: 0.035161
+    id: ckcvgz8lttk3h0j23m19unyk6
     verified: false
-    hashtags: "#berbagifakta, #ffindonesia, #gameindo, #tiktokid"
-  - username: "h3yimrobby"
+    hashtags: "#viral, #scarlettwhitening, #napoleonscent, #napoleonbikinganteng"
+  - username: "ybontiktok"
     fullname: >-
-      RobbY💫
+      YB
     bio: >-
-      🇮🇩 Hey Gamers😀👋 Subscribe to my Youtube Channel! Help me get 30k Subs
+      👑
     location: "Indonesia"
-    followers: 4300000
-    engagement: 1868
-    commentsToLikes: 0.009433
-    id: ck81q5eoxg35o0j78uhnenbhx
+    followers: 2000000
+    engagement: 700
+    commentsToLikes: 0.012248
+    id: ckcek6ri2teio0j23sibk6myn
+    verified: true
+    hashtags: "#valorantclip, #gamingclips, #ybgaming, #gaming"
+  - username: "rafirasyiq"
+    fullname: >-
+      Rufi Rushsix
+    bio: >-
+      I love movies and games IG: rafirasyiq 📩: muhrafirasyiq@gmail.com
+    location: "Indonesia"
+    followers: 99400
+    engagement: 988
+    commentsToLikes: 0.016439
+    id: ckbkdksa63ix00j23gj5rhy3x
     verified: false
-    hashtags: "#build, #viral, #mc, #trending"
+    hashtags: "#fakta, #funfact, #gamers, #film"
+  - username: "cosmogvrl"
+    fullname: >-
+      kiara *:･ﾟ✧
+    bio: >-
+      💖💜💙 twenty waiting for ganyu rerun stream ‘the princess’ by kiara !!
+    location: "Indonesia"
+    followers: 46100
+    engagement: 1584
+    commentsToLikes: 0.057409
+    id: ckb9nmpeah9dl0j23q50kjlpe
+    verified: false
+    hashtags: "#lgbtq, #lgbt, #genshinimpact, #genshin"
+  - username: "babykyoong"
+    fullname: >-
+      Babykyoong
+    bio: >-
+      18🌱 For Bussiness/collaboration inquiries Babykyoong@gmail.com KYOONG CAFE👇🏻
+    location: "Indonesia"
+    followers: 310700
+    engagement: 1785
+    commentsToLikes: 0.026649
+    id: ckcdpb9cjbous0j232x8smm2o
+    verified: false
+    hashtags: "#art, #foryou, #tiktokindonesia, #indonesia"
   - username: "violaheriyanto"
     fullname: >-
       vio🎮
     bio: >-
-      MLBB : 42295321
+      Bosen :)
     location: "Indonesia"
-    followers: 45600
-    engagement: 1038
-    commentsToLikes: 0.108901
+    followers: 47300
+    engagement: 1015
+    commentsToLikes: 0.106714
     id: ckbkk8cm0d2w40j23bhs3ibrk
     verified: false
-    hashtags: "#mobilelegend, #fypdongggggggg, #mobilelegends, #gakpernahfyp"
-  - username: "richardtjie"
-    fullname: >-
-      RICHARD TJIE
-    bio: >-
-      Pedagang Mie 🍜 & Konsultan Hukum 😎 Intip keseruanku sm @flc.dy di @richandfe !
-    location: "Indonesia"
-    followers: 104000
-    engagement: 410
-    commentsToLikes: 0.056872
-    id: ckd6x8epctu970j23enho524g
-    verified: false
-    hashtags: "#samasamabelajar, #belajarbisnis, #tiktokindonesia, #umkm"
-  - username: "a_m728"
-    fullname: >-
-      Rie M
-    bio: >-
-      25y.o Love Animal's Love to play a game Sukses selalu ada jalannya Cat Rescue🥰
-    location: "Indonesia"
-    followers: 23900
-    engagement: 388
-    commentsToLikes: 0.081634
-    id: ckcut0yrwkbug0j23jv5d8v76
-    verified: false
-    hashtags: "#cat, #petlover, #duet, #foryou"
-  - username: "rian.adrians"
-    fullname: >-
-      𝖗𝖎𝖆𝖓 𝖆𝖉𝖗𝖎𝖆𝖓𝖘♟
-    bio: >-
-      Fashion Enthusiast
-    location: "Indonesia"
-    followers: 286800
-    engagement: 940
-    commentsToLikes: 0.019257
-    id: ck92tyfejjvtl0j78yx0nm102
-    verified: false
-    hashtags: "#style, #tiktokfashion, #fashionflip, #outfitideas"
+    hashtags: "#xyzbca, #fypdongggggggg, #mobilelegends, #fyp"
   - username: "luthfiazhars"
     fullname: >-
       Luthfi Azhar
     bio: >-
       Just Sharing Happiness Youtube : Luthfi Azhar ig : luthfiazhars
     location: "Indonesia"
-    followers: 311800
-    engagement: 1088
-    commentsToLikes: 0.014387
+    followers: 401100
+    engagement: 997
+    commentsToLikes: 0.013361
     id: ckbl12pkcxu0e0j23lt3a1zxb
     verified: false
     hashtags: "#gamingroom, #gakbutuhfyp, #sharingiscaring"
-  - username: "kakekfungky"
-    fullname: >-
-      ℱ𝓪𝓷𝓬𝔂
-    bio: >-
-      aku gk balas chat bkn brarti aku cuek ttapi krena aku lgi hafalan quran
-    location: "Indonesia"
-    followers: 2511
-    engagement: 751
-    commentsToLikes: 0.042353
-    id: ckcdbcpff4ldr0j23s3kndfhm
-    verified: false
-    hashtags: "#corsair, #fyp, #msi, #razer"
 ---

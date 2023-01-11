@@ -1,130 +1,106 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Belgium In 2022
+title: Top 10 Nutrition Instagram Influencers In Belgium In 2023
 description: >-
-  Find top nutrition Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #workout #motivation #nutrition.
+  Find top nutrition Instagram influencers in Belgium in 2023. Most popular hashtags: #vegan #cs #venum.
 platform: Instagram
-hits: 13
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 13 Instagram influencers like this in Belgium for you to contact.
+hits: 8
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 8 Instagram influencers like this in Belgium for you to work with.
 profiles:
-  - username: "michielw24"
+  - username: "lunalissens"
     fullname: >-
-      MICHIEL🤘🏼
+      Luna Lissens
     bio: >-
-      FOUNDER 🇧🇪 Belgian Power Team 🇧🇪 ONE LIFE, LIVE IT ————— Nutrition Workouts Lifestyle ————— | LIVE YOUR PASSION |
+      🌾 Freelance model & Content Creator ✉️ Luna.lissens@hotmail.com 🌻 Twenty one | Belgium 🍋 Food & nutrition
     location: "Belgium"
-    followers: 7063
-    engagement: 693
-    commentsToLikes: 0.023958
-    id: ckapcej6o3htm0i78zpu7p1s8
+    followers: 12189
+    engagement: 370
+    commentsToLikes: 0.142057
+    id: ck8tct1ke0kcw0j788ddfr7w0
     verified: false
-    hashtags: "#ootd, #fitness, #business, #goals"
+    hashtags: "#loavies, #girlsgoneloavies, #offlineshoppen, #waaslandshopping"
+  - username: "jottiverbruggen"
+    fullname: >-
+      ♥ JOTTI VERBRUGGEN
+    bio: >-
+      ⭐️ Professional Freelance Model 🍏 #plantbased #vegan nutritionist to be 🥒🌱 📧 MNGMT: peter@absolutep.com Info@jottiverbruggen.com @absolutepagency
+    location: "Belgium"
+    followers: 27615
+    engagement: 491
+    commentsToLikes: 0.107879
+    id: ck5py0gootqr30i1112cyzzpw
+    verified: false
+    hashtags: "#photoshoot, #modelshoot, #hair, #sony"
+  - username: "naturellebynatalia"
+    fullname: >-
+      Naturelle by Natalia
+    bio: >-
+      ♡sugar free is The New Black♡📚 nutrition♡freelance food stylist & recipe developer♡ceramics, soaps♡traveller(39 countries so far) Belgium
+    location: "Belgium"
+    followers: 11614
+    engagement: 590
+    commentsToLikes: 0.208017
+    id: ck5c0dklqsxlt0i115g2doh5u
+    verified: false
+    hashtags: "#beautyofstillmoments, #f52grams, #still, #prettylittlethings"
   - username: "arrow_the_pooch"
     fullname: >-
       Arrow 🐾
     bio: >-
-      Hi I am Arrow! 1 year old girl Belgian Malinois and GSD My best friend is a black cat I own @bowwow_nutrition_
+      Hi I am Arrow! 2 year old girl Belgian Malinois and GSD My best friend is a black cat I own @bowwow_nutrition_
     location: "Belgium"
-    followers: 21922
-    engagement: 767
-    commentsToLikes: 0.011019
+    followers: 21670
+    engagement: 733
+    commentsToLikes: 0.007712
     id: ck0vzwi69b8er0i19ue8uuuji
     verified: false
     hashtags: ""
-  - username: "rkperformance_"
-    fullname: >-
-      RK9
-    bio: >-
-      🧠 |Le MENTAL FAIT DE TOI LA PERFORMANCE | ⚽️ |PERFORMANCE| #RkPlayersTeam 🏋🏽‍♂️ |FITNESS| 🇧🇪 |BELGIUM|
-    location: "Belgium"
-    followers: 13550
-    engagement: 748
-    commentsToLikes: 0.012376
-    id: ck8szvjcipvdp0j78z6ijwz4l
-    verified: false
-    hashtags: ""
-  - username: "assya.grs"
-    fullname: >-
-      MOTIVATION|FITNESS|LIFESTYLE
-    bio: >-
-      • 𝟣𝟫 𝒶𝓃𝓈 🌹 • 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 💪 • 𝒢𝒶𝓂𝒾𝓃𝑔 🎮 • 🇧🇪 👉 @healthnutritionbelgium -30% 💥 👉 𝒞𝑜𝒹𝑒 𝓅𝓇𝑜𝓂𝑜 : 𝐀𝐒𝐒𝐘𝐀𝟑𝟎 💥 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 : 𝒮𝓊𝓅𝑒𝓇𝓅𝒶𝒸𝑜 𝟔🍿
-    location: "Belgium"
-    followers: 37126
-    engagement: 902
-    commentsToLikes: 0.054771
-    id: ck9hb93x3fv9q0j78ykmv4qoi
-    verified: false
-    hashtags: "#zyzz, #twitchgirl, #musculation, #shredded"
   - username: "jarnebaele"
     fullname: >-
       JARNE BAELE
     bio: >-
-      IF | Running | Fashion ​ 📩 jarne.baele@hotmail.com​
+      IF | Running | Fashion ​ 📩 jarne.baele@hotmail.com​​ ​🧔🏻 Ambassador @beleef_oudenaarde
     location: "Belgium"
-    followers: 91311
-    engagement: 910
-    commentsToLikes: 0.061563
+    followers: 77873
+    engagement: 850
+    commentsToLikes: 0.057824
     id: ck5zx3lqs7a090i14pem36vhr
     verified: false
-    hashtags: "#giveaway, #iphone11pro, #lockdown, #win"
-  - username: "mazzeijoyce"
+    hashtags: "#instagramgiveaway, #iskodna, #ad, #ambassadors"
+  - username: "hennyseroeyen"
     fullname: >-
-      𝐉𝐨𝐲𝐜𝐞 𝐌𝐚𝐳𝐳𝐞𝐢
+      WBFF PRO Fitness Model
     bio: >-
-      📚 Psychology ✨ 21 years old 🎤 Singing
+      “I never lose, either I WIN, or I LEARN” #CMG
     location: "Belgium"
-    followers: 8902
-    engagement: 701
-    commentsToLikes: 0.114292
-    id: ck8t4hap26tgc0j7804p0d62a
-    verified: false
-    hashtags: "#selfie, #fitfam, #motivation, #gymmotivation"
-  - username: "elkevanhoof91"
+    followers: 171013
+    engagement: 340
+    commentsToLikes: 0.008763
+    id: ck6trfi5nyorg0j7144qgzj2o
+    verified: true
+    hashtags: "#boxing, #ad, #venum, #mk11"
+  - username: "k9s_bones.raven"
     fullname: >-
-      🌍 Elke Vanhoof 🚲
+      Cad & Raven
     bio: >-
-      ♥️ @demeyvalerie 🇧🇪Belgian Defence - Belgian Team 🏆Olympic BMX Athlete | Euro Champ 🥇🥈🥉 🎓BMX Coach 👇🏻 🙋@project91bmx 🚲 @cyclingcube
+      We are @ashley.horner’s Protectors of the day Guardians of the night Dual handling Belgian Malinois Let slip the dogs of war🐺🐺 #ImNotYourDogTrainer
     location: "Belgium"
-    followers: 10168
-    engagement: 464
-    commentsToLikes: 0.029173
-    id: ck0w6m5vv98t80i19dl5dro82
+    followers: 13482
+    engagement: 505
+    commentsToLikes: 0.013475
+    id: ck5hr2e29u57s0i11ahaszgge
     verified: false
-    hashtags: "#happy, #fietsen, #racing, #bmx"
-  - username: "zongowest"
+    hashtags: "#belgianmalinois, #k9cadman, #workingk9, #myrunningbuddy"
+  - username: "manon_angonese.whiteshark"
     fullname: >-
-      Zongo West
+      Manon Angonese
     bio: >-
-      PERSONAL TRAINER🎓 🇧🇪 No one is u that's your power. #bruxelles @qntsportnutrition : Zongo20
+      CrossFit & WL 🏋️‍♀️ 2x Fittest in 🇧🇪 10th Europeans WL -71kg 🇪🇺 Mum of 2 🐶 & 1 🐈‍⬛ Coach/Owner CF @garage_gym_sharks_factory #shark🦈
     location: "Belgium"
-    followers: 29479
-    engagement: 325
-    commentsToLikes: 0.016700
-    id: ck0txd9zbituz0i1916zhhelg
+    followers: 6207
+    engagement: 501
+    commentsToLikes: 0.025299
+    id: ck5pwvjphotbz0i118geces0o
     verified: false
-    hashtags: "#bodytransformation, #coachinglife, #bruxellesmabelle, #followme"
-  - username: "sterck_tamara"
-    fullname: >-
-      💕💕💕Tamara Sterck💕💕💕
-    bio: >-
-      𝟸𝟺 ʏᴏ •ʙᴇʟɢɪᴜᴍ-ʟɪᴇ̀ɢᴇ 🇧🇪. •ᴡɪғᴇ ᴀɴᴅ ᴍᴏᴍ. •ᴛʀᴀᴠᴇʟ | ʟɪғᴇsᴛʏʟᴇ. .💍@christian_houbben . @local_beauties_benelux #travel #photo #fashion #fitness
-    location: "Belgium"
-    followers: 11907
-    engagement: 371
-    commentsToLikes: 0.029197
-    id: ckap1wvfwwf9y0i78cj7tg8hd
-    verified: false
-    hashtags: "#photo, #motivation, #picoftheday, #photography"
-  - username: "_curlsandglutes_"
-    fullname: >-
-      M.
-    bio: >-
-      𝘐𝘧𝘣𝘣 𝘸𝘦𝘭𝘭𝘯𝘦𝘴𝘴 𝘢𝘵𝘩𝘭𝘦𝘵𝘦 • 𝘗𝘰𝘴𝘪𝘯𝘨 𝘤𝘰𝘢𝘤𝘩 • 𝘔𝘰𝘵𝘪𝘷𝘢𝘵𝘰𝘳 - Coach: @team.h3nn0 - Sponsors: @gorillawearusa / @trecnutritionbe - Collabs: 📩
-    location: "Belgium"
-    followers: 4267
-    engagement: 764
-    commentsToLikes: 0.061665
-    id: ck14lc7zitxiy0i19qgvmtog4
-    verified: false
-    hashtags: "#quads, #bifbb, #photoshoot, #girlswholift"
+    hashtags: "#sharkisonboard, #crossfit, #crossfitgames, #weightlifting"
 ---

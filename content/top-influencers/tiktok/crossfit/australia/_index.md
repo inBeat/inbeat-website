@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Australia In 2022
+title: Top 10 Crossfit TikTok Influencers In Australia in 2023
 description: >-
-  Find top crossfit TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #fitness #crossfit #gym.
+  Find top crossfit TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #fitness #crossfit #gym.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok accounts on inBeat.

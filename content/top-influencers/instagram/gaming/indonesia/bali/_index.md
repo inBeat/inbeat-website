@@ -1,96 +1,84 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Bali In 2022
+title: Top 10 Gaming Instagram Influencers In Bali In 2023
 description: >-
-  Find top gaming Instagram influencers in Bali in 2022. Most popular hashtags: #bali #ngakak #lucu #jakarta.
+  Find top gaming Instagram influencers in Bali in 2023. Most popular hashtags: #dagelan #dirumahaja #ngakakkocak #garing.
 platform: Instagram
-hits: 9
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 9 Instagram influencers like this in Bali, Indonesia for you to pitch.
+hits: 8
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "sims4realestate"
     fullname: >-
-      
+      Kelly
     bio: >-
       🖥 Origin ID: kannwri90 💚 Sims 4 🏘 Builds
     location: "Indonesia"
-    followers: 13019
-    engagement: 911
-    commentsToLikes: 0.012893
+    followers: 13677
+    engagement: 929
+    commentsToLikes: 0.009523
     id: ckf5urrbjm1wd0j23jo3b0pdn
     verified: false
-    hashtags: "#simsideas, #bali, #ts4build, #gamer"
-  - username: "remaja90an"
-    fullname: >-
-      remajaindo
-    bio: >-
-      • foto 📷 • video 🎬 • yang lagi viral 📲 TEMPAT BERKUMPUL NYA netijen yg BUDIMAN🖕 @remaja90an #remaja90an
-    location: "Indonesia"
-    followers: 181801
-    engagement: 299
-    commentsToLikes: 0.025045
-    id: ck9wdgnk4fjsm0j786uczpggh
-    verified: false
-    hashtags: "#bandung, #kekinian, #tiktok, #jakarta"
-  - username: "azofarangga"
-    fullname: >-
-      Rangga Azof
-    bio: >-
-      Fanbase 👦 Saksikan "Samudra Cinta" di Sctv
-    location: "Indonesia"
-    followers: 31087
-    engagement: 475
-    commentsToLikes: 0.049765
-    id: ckap45cgd5wu80i78at4j6m51
-    verified: false
-    hashtags: "#sandrina, #sctv, #cinta, #sinetronsctv"
-  - username: "calliessss"
-    fullname: >-
-      мємєѕ αη∂ тєχтρσѕтѕ 🇮🇩🇰🇷
-    bio: >-
-      ʜᴏᴘᴇ ʏᴏᴜ ʟɪᴋᴇ ᴍʏ ᴍᴇᴍᴇs (っ◔◡◔)っ ᴀɴʏ ʀᴇǫᴜᴇsᴛs / ǫᴜᴇsᴛɪᴏɴs ? ᴅᴍ 😊 paid promote -> line ( @nkr3186v ) use “ @ “ backup acc -> @calliessss2
-    location: "Indonesia"
-    followers: 24826
-    engagement: 13136
-    commentsToLikes: 0.009982
-    id: ck6u8s008tbqb0j715nvjd3ei
-    verified: false
-    hashtags: "#prabowosandi, #memekocak, #pemutih, #giveawayindonesia"
+    hashtags: "#simsinspiration, #sims4house, #simsinterior, #speedbuild"
   - username: "jovianpangestu"
     fullname: >-
       JoPang
     bio: >-
       Cinematographer Based in Gading Serpong, Tangerang. 📍
     location: "Indonesia"
-    followers: 5245
-    engagement: 653
-    commentsToLikes: 0.032098
+    followers: 5227
+    engagement: 546
+    commentsToLikes: 0.031741
     id: ck0tzq0b0r4tc0i19oufnwup6
     verified: false
-    hashtags: "#bali, #majapahit, #dronephotography, #dji"
-  - username: "haihups"
+    hashtags: "#covid19, #sukabumi, #geoparkciletuh, #curug"
+  - username: "artisterngakak"
     fullname: >-
-      Hai Hups
+      Dagelan | Lucu | Viral
     bio: >-
-      Hiburan Untuk menonton video-video adaptasi dari meme akun Haihups, klik link di bawah 📥 jangan lupa subcribe 😊
+      Kumpulan video pelawak😂 __"Semoga Terhibur "__ ."👇👇👇Yuk follow👇👇👇" ↪↪@artisterngakak↩↩
     location: "Indonesia"
-    followers: 30687
-    engagement: 2051
-    commentsToLikes: 0.017575
-    id: ck8tbv5p9x9yh0j78l71g3d8j
+    followers: 116696
+    engagement: 420
+    commentsToLikes: 0.013795
+    id: ck8td183u1fex0j785acv7klt
     verified: false
-    hashtags: "#viral, #lambeturah, #meme, #gokil"
+    hashtags: "#lucubanget, #indovidgram, #videodagelan, #degelan"
+  - username: "fredneust"
+    fullname: >-
+      Fred Neust - Lingkungan
+    bio: >-
+      🇩🇪🇮🇩 cinta Indonesia & lingkungan sehat ↘️Nuwun utk nonton video dengan EveSuz⤵️🥲
+    location: "Indonesia"
+    followers: 42005
+    engagement: 468
+    commentsToLikes: 0.081032
+    id: ckaoy1u8hfpj60i78si2v7m7p
+    verified: true
+    hashtags: "#lingkunganhidup, #masker, #hidupsehat, #wonderfulindonesia"
+  - username: "baperfisabilillah"
+    fullname: >-
+      baperfisabilillah💞
+    bio: >-
+      Share video 🎥 #vidgram #baper #dakwah #lucu #insvirasi #nikahmuda #romantis #hijrah Admin @romli2000 BISNIS.PP/ANDORS murah HUBUNGI WA (087739678402)
+    location: "Indonesia"
+    followers: 249279
+    engagement: 201
+    commentsToLikes: 0.013533
+    id: ck15rrom59cvg0i19khzxbfow
+    verified: false
+    hashtags: "#tausyiahcinta, #jofisa, #dakwah, #hijrah"
   - username: "yaelahapaansich"
     fullname: >-
       
     bio: >-
       PAID PROMOTE DM 📩 ⏰ : 𝟐𝟒𝐇 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 📞 : 𝟎𝟖𝟏𝟐-𝟏𝟐𝟖𝟔-𝟖𝟔𝟑𝟖 📞 : 𝟎𝟖𝟏𝟑-𝟒𝟕𝟕𝟕-𝟕𝟑𝟕𝟕 ⚖️ : 𝐁𝐞𝐫𝐛𝐚𝐝𝐚𝐧 𝐇𝐮𝐤𝐮𝐦 𝐋𝐞𝐩𝐚𝐬 𝐊𝐮𝐧𝐜𝐢👍🏻𝐈𝐧𝐜𝐥𝐮𝐝𝐞 𝐃𝐫𝐢𝐯𝐞𝐫👍🏻𝐏𝐚𝐤𝐞𝐭 𝐇𝐄𝐌𝐀𝐓 𝐀𝐥𝐥 𝐈𝐧👍🏻
     location: "Indonesia"
-    followers: 112381
-    engagement: 167
-    commentsToLikes: 0.009988
+    followers: 108622
+    engagement: 173
+    commentsToLikes: 0.010012
     id: ckap2ax86y2sp0i78oydr8lum
     verified: false
-    hashtags: "#tiktokviral, #ceweindonesia, #tiktok, #selamatpuasa"
+    hashtags: "#gadistercantik, #hijaber, #selamatpuasa, #ceweindonesia"
   - username: "mychatstory"
     fullname: >-
       WARNING! AREA RAWAN BAPER!
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.014957
     id: ck0vzslcsapgg0i194yeooo4z
     verified: false
-    hashtags: "#hati, #kata2cewek, #katahati, #kutipan"
-  - username: "christo_ardyan"
+    hashtags: "#chatstory, #pathdailybaperan, #katabijak, #katahatiku"
+  - username: "mardani_maming"
     fullname: >-
-      Christ Mahendra
+      Mardani H Maming
     bio: >-
-      -Asia’s Got Talent Season 2. https://youtu.be/hSBIUdy6Utg -Bronze,Silver,Gold➡️ International Award Four Young People ( Duke Of Edinburgh) 🎼🎻🎷📸
+      Ketua Umum BPP HIPMI 2019-2022 Founder PT.Maming Enam Sembilan Group Founder PT.Batulicin Enam Sembilan Group
     location: "Indonesia"
-    followers: 6539
-    engagement: 551
-    commentsToLikes: 0.062135
-    id: ck6u7kkpym2a50j71k2gxkslv
-    verified: false
-    hashtags: "#like4like, #music, #indonesiafolksong, #piano"
-  - username: "syivangel"
+    followers: 328883
+    engagement: 70
+    commentsToLikes: 0.021603
+    id: ck5zyt4fsahd90i14lgzygxqq
+    verified: true
+    hashtags: "#umkm, #belidihipmiaja, #bidang6hipmi, #macaroniborneo"
+  - username: "matchamei"
     fullname: >-
-      𝒚𝒐𝒖𝒓 𝑨𝒏𝒈𝒆𝒍♥
+      Matcha Mei
     bio: >-
-      an independent woman✨ . TikTok ~> @syivangel @angelova.guild @angelova.gaming . Bussines inquiries please kindly send email!
+      🇮🇩 ➡️ 🇰🇷 😇 @reoncomics Official Cos 💻 @asusid TUF Gaming BA 📩 Business: matchamei.contact@gmail.com HD photos download👇🏻
     location: "Indonesia"
-    followers: 45113
-    engagement: 797
-    commentsToLikes: 0.036570
-    id: ck5zm5pexly5h0i143t75074w
+    followers: 219677
+    engagement: 292
+    commentsToLikes: 0.011962
+    id: ck0vxovatzzk80i19rxur5dbx
+    verified: true
+    hashtags: "#asusid, #tufgaming, #genshinimpact, #asusgaming"
+  - username: "ar.kaw"
+    fullname: >-
+      Arkaw
+    bio: >-
+      BA 👕 @waglerstore_panjipetualang Business WA : 083142149971 a/n uta 🎮Official Creator Facebook Gaming 🖥️Konten YT : Arkaw 🎥Everyday Livestream ⬇️
+    location: "Indonesia"
+    followers: 129925
+    engagement: 185
+    commentsToLikes: 0.016216
+    id: ck5cb1276eila0i112um9ulmy
     verified: false
-    hashtags: "#senseiten, #apaya, #razer, #livik"
+    hashtags: "#siapatakut, #alwayson, #jabarjuara, #pubgmobile"
 ---

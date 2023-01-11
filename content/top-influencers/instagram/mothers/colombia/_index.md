@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Colombia In 2022
+title: Top 10 Mothers Instagram Influencers In Colombia In 2023
 description: >-
-  Find top mothers Instagram influencers in Colombia in 2022. Most popular hashtags: #colombia #motherhood #love.
+  Find top mothers Instagram influencers in Colombia in 2023. Most popular hashtags: #cuarentena #travel #beauty.
 platform: Instagram
-hits: 72
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 72 Instagram influencers like this in Colombia for you to contact.
+hits: 38
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 38 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "maracifuentes1"
     fullname: >-
@@ -13,48 +13,36 @@ profiles:
     bio: >-
       🧜🏽‍♀️ 🦀 🇨🇴 Mother @grupo4co 📍 direccionmoda@grupo4.co NY🇺🇸 @newiconny Pablo@newiconny.com
     location: "Colombia"
-    followers: 1134269
-    engagement: 246
-    commentsToLikes: 0.004671
+    followers: 1155538
+    engagement: 241
+    commentsToLikes: 0.020808
     id: ck13cafkgze140i192w2zwsap
     verified: true
-    hashtags: ""
+    hashtags: "#ad"
   - username: "veztalone"
     fullname: >-
       Veztalone
     bio: >-
-      Freddy Malaria Lacosta De La Cruz @Pisoocho| #Rap | #Audiovisuales | @motherflowersss • Tan poco 👁 • 🔽
+      Freddy Malaria Lacosta De La Cruz @Pisoocho| @lacosta.mov | @motherflowersss • EL CIELO • 🔽
     location: "Colombia"
-    followers: 16980
-    engagement: 615
-    commentsToLikes: 0.034405
+    followers: 18939
+    engagement: 786
+    commentsToLikes: 0.028925
     id: ck5zpttoltbzr0i149l68bwtb
     verified: true
-    hashtags: "#piso8forlife, #xocolate, #semilla, #lapiscinitarascaburda"
-  - username: "la.sra.celin"
+    hashtags: "#jamming, #xocolate, #laconga, #probandoshit"
+  - username: "lamadridd"
     fullname: >-
-      CELIN GIRALDO
+      @lamadridd 🇨🇴
     bio: >-
-      𝐀𝐬𝐞𝐬𝐨𝐫𝐚 𝐝𝐞 𝐌𝐨𝐝𝐚 𝐞 𝐈𝐦𝐚𝐠𝐞𝐧 𝐲 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐡𝐨𝐩𝐩𝐞𝐫. 𝘝𝘪𝘥𝘢 𝘺 𝘗𝘢𝘴𝘪𝘰𝘯 𝘱𝘰𝘳 𝘭𝘢 𝘔𝘰𝘥𝘢 𝘔𝘢𝘮𝘢 d𝘦🧑👧👱‍♂️ 📍𝐂𝐚𝐥𝐢- 𝐂𝐨𝐥𝐨𝐦𝐛𝐢𝐚 @glampingnieblasdedapa @garajede.lasracelin .
+      Mis productos ➡️ @shoplamadrid DM colaborations and promotion
     location: "Colombia"
-    followers: 78554
-    engagement: 151
-    commentsToLikes: 0.046765
-    id: ck5c0phsqtlbp0i113o732qkp
-    verified: true
-    hashtags: "#sunday, #halloween, #streetstyle, #ootd"
-  - username: "melyfitsoul"
-    fullname: >-
-      Melissa Carvajal - WORKOUTS
-    bio: >-
-      Health • Fitness • Soul Mom of 2 👸🏻👸🏽 • Certified Personal Trainer • Transformation Specialist • Corrective Exercise Specialist 📍Miami 🇺🇸/ 🇨🇴
-    location: "Colombia"
-    followers: 37318
-    engagement: 96
-    commentsToLikes: 0.035536
-    id: ck6tv5lsokba70j71vva3rpi8
+    followers: 108177
+    engagement: 102
+    commentsToLikes: 0.042822
+    id: ckf5v58ehncd90j23rxlfjao8
     verified: false
-    hashtags: "#yoga, #momsofinstagram, #positiveenergy, #fitnessmotivation"
+    hashtags: "#2021, #covid, #quedateencasa, #baby"
   - username: "fancyfitfun"
     fullname: >-
       𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕒 ✩ 𝕤𝕒𝕞𝕡𝕖𝕣 ®
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.006670
     id: ck8t01ne6qj2w0j780tkp5wfu
     verified: false
-    hashtags: "#yomequedoencasa, #foodie, #exercisemotivation, #sushi"
-  - username: "unahistoriaencadafoto"
+    hashtags: "#vegetarian, #breakfast, #familia, #foodlover"
+  - username: "laarruga"
     fullname: >-
-      Stephanie
+      Jimena Lloreda
     bio: >-
-      🇨🇴 Colombiana 🌎 Bienvenidos a mi cuenta de viajes 🌱 149 árboles sembrados 👇🏽 Nuestra tienda online en @planeta_tienda
+      Relatos sobre el crecer. 🦕🦖 por Jimena Lloreda Droz @jimenalloreda Para compra y/o donaciones a Venmo @jimenalloreda
     location: "Colombia"
-    followers: 6464
-    engagement: 429
-    commentsToLikes: 0.029353
-    id: ck8t3j1c33f7p0j786gi4mpt8
+    followers: 3761
+    engagement: 1117
+    commentsToLikes: 0.039702
+    id: ck1385b2qejyp0i19z3a0mbx9
     verified: false
-    hashtags: "#globbetrotter, #trilhas, #aventureirosdosulpelomundo, #tripperu"
+    hashtags: "#womenartists, #jimenalloreda, #sexualidad, #dilocondibujos"
   - username: "colombiajero"
     fullname: >-
       🇨🇴 Colombiajero 🇨🇴
     bio: >-
       🇨🇴 10000% 🇨🇴 📩 Publicidad: colombiajero@gmail.com Sígame si le gusta el AJIACO 🔥 Apasionado por los paisajes de Colombia, viajes y la comida 🐽
     location: "Colombia"
-    followers: 15426
-    engagement: 509
-    commentsToLikes: 0.124304
+    followers: 15053
+    engagement: 488
+    commentsToLikes: 0.095099
     id: ck14gpq666fh90i192n9xwbd1
     verified: false
-    hashtags: "#tbt, #colombiajero, #colombiatierraquerida, #barranquilla"
-  - username: "melissalopez302"
+    hashtags: "#instatravel, #laguajira, #antioquia, #pac"
+  - username: "yessenxaa"
     fullname: >-
-      Melylopez
+      Yessenia Andrade
     bio: >-
-      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
+      ‘97 | Colombian & Cape Verdean BIG animal lover 🌱 📍: Rhode Island 📧: andradey10@yahoo.com God is good all the time. All the time God is good.
     location: "Colombia"
-    followers: 7273
-    engagement: 2360
-    commentsToLikes: 0.027460
-    id: ck5c7ld9p7qsh0i11qryq9pd1
+    followers: 63156
+    engagement: 184
+    commentsToLikes: 0.090517
+    id: ckaova9cd3pg30i785lpflyn0
     verified: false
-    hashtags: "#guerrera, #yomequedoencasa, #amor, #fitness"
-  - username: "sebascruzviolin"
+    hashtags: "#clearskin, #theme, #love, #curlsfordays"
+  - username: "valeayos"
     fullname: >-
-      SEBASTIAN CRUZ
+      Valeria Ayos
     bio: >-
-      A TU LADO - Estreno viernes 23 de octubre 🎥
+      Profesional en Relaciones Internacionales Miss Earth Water 2018
     location: "Colombia"
-    followers: 70783
-    engagement: 225
-    commentsToLikes: 0.054873
-    id: ck8wf3ephf2c90j78l0r39fmf
+    followers: 29746
+    engagement: 674
+    commentsToLikes: 0.024975
+    id: ck0udiiz0j3dj0i19sbxx4rfe
     verified: false
-    hashtags: "#perdiendolacabeza, #happymothersday, #atulado, #atl"
-  - username: "suheyncipriani"
+    hashtags: "#prop, #greenlover, #tranquilidad, #tucomovives"
+  - username: "dianabermudez"
     fullname: >-
-      S U H E Y N 𓂀 C I P R I A N I
+      Díana Bermudez (Dee•ana)
     bio: >-
-      Sígueme para ser parte de esta linda familia ✨ Mamá de Alejandro. 🐥 PADI Diver. 🧜🏻‍♀️ @soulsuitesalon 🤎 Hija de dios. 🌻
+      🔸British Actress 🔸 Indigenous Colombian Descent 🔸#ancestralhealing REPS: 🎭 Mondi Associates 🎤@damngoodvoices 🎥 Projects 👇🏽
     location: "Colombia"
-    followers: 26135
-    engagement: 502
-    commentsToLikes: 0.039266
-    id: ck8tcvrv60vgm0j780ujrhjub
+    followers: 13447
+    engagement: 830
+    commentsToLikes: 0.056353
+    id: ck6uh9fnm7swa0j71e9ukxlij
     verified: false
-    hashtags: "#missecointernacional, #missecoperu2019, #missecointernational2019, #eco"
+    hashtags: "#emberachami, #actress, #representationmatters, #indigenouswomen"
+  - username: "mariadalmazzo"
+    fullname: >-
+      mariadalmazzo
+    bio: >-
+      🙏 Aprendiz 💫Viajera 🧘🏼‍♀️Amante del bienestar ⭐️Creadora de @mimosymimosas ✨Manager @deisymarroquin
+    location: "Colombia"
+    followers: 39318
+    engagement: 171
+    commentsToLikes: 0.026932
+    id: ck14ig057f7pz0i193f3i40v8
+    verified: true
+    hashtags: "#wellness, #loquehariamaria, #bienestar, #beautyexpert"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Berlin In 2022
+title: Top 10 Cosmetics Instagram Influencers In Berlin In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Berlin in 2022. Most popular hashtags: #blogger #beauty #berlin #autumn.
+  Find top cosmetics Instagram influencers in Berlin in 2023. Most popular hashtags: #love #berlin #makeup #instagood.
 platform: Instagram
-hits: 82
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat has 82 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 65
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 65 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "cocoink"
+  - username: "reissmannevelyn"
     fullname: >-
-      Berlin 💒 | Techno 🏢
+      Evelyn Reißmann
     bio: >-
-      Maybe it is not about the happy ending. Maybe it is about the story.
+      Bestagermodel 🙋‍♀️ Miss50plusgermany 2019 Mother👩‍❤️‍👩
     location: "Germany"
-    followers: 68939
-    engagement: 132
-    commentsToLikes: 0.071767
-    id: ck6u72w79j5qs0j71l6ihsy47
+    followers: 39223
+    engagement: 887
+    commentsToLikes: 0.066961
+    id: ck8t26tg1yctg0j78wfmfyfpy
     verified: false
-    hashtags: "#legtattoo, #sheingals, #zaraboots, #friseur"
-  - username: "karina_loves_life"
-    fullname: >-
-      Karina💕
-    bio: >-
-      German Model Based in Hannover Economics student 👩‍🎓 Freespirit. Doglover. Adventurer. Enthusiast. Hedonist and slightly sassy 💁‍♀️
-    location: "Germany"
-    followers: 21895
-    engagement: 241
-    commentsToLikes: 0.029456
-    id: ck5zqoby7uz5g0i14ko0w6mwn
-    verified: false
-    hashtags: "#natural, #modelagency, #shooting, #simplicity"
+    hashtags: "#agelesswomen, #bestagermodel50plus, #valentinstag, #woman"
   - username: "_anna_geddes_"
     fullname: >-
       Anna Prohodski
     bio: >-
       #MRSDeutschland 2020/21🇩🇪🏆 #MRS.#sachsenanhalt 2019/2020⚜️💍 🇩🇪🇷🇺🇬🇧 #missdeutschland #influencer #model#travel#beauty#gourmet #business : direct 📩
     location: "Germany"
-    followers: 199205
-    engagement: 249
-    commentsToLikes: 0.108438
+    followers: 212601
+    engagement: 250
+    commentsToLikes: 0.080489
     id: ckapckcwa468w0i78ywoyzusg
     verified: false
-    hashtags: "#mrsdeutschland2020, #mydubai, #staypositive, #smile"
-  - username: "annahiltrop"
+    hashtags: "#mrsdeutschland2020, #mrsdeutschland, #missdeutschland, #fashionstyle"
+  - username: "valentinavapaux"
     fullname: >-
-      Anna Hiltrop🌹
+      val
     bio: >-
-      🦋German Model @fordmodels @oxygen.models 🌍Sustainability & Fair Fashion Mgmt: marina.rudolph@together.partners
+      🩰poet & writer ⛲️mexican german fairy @avecnousmgmt
     location: "Germany"
-    followers: 34702
-    engagement: 119
-    commentsToLikes: 0.052808
-    id: ck0vyr1iq5d9b0i19ijgb3g6y
-    verified: true
-    hashtags: "#autumnoutfit, #centrooberhausen, #shooting, #ootd"
-  - username: "ciinderella_bln"
-    fullname: >-
-      Ciinde Rella
-    bio: >-
-      ❤️💍👰✝️🎗
-    location: "Germany"
-    followers: 30581
-    engagement: 263
-    commentsToLikes: 0.060037
-    id: ck14ldf39u4680i19hfwp7x11
+    followers: 93453
+    engagement: 907
+    commentsToLikes: 0.002244
+    id: ck5btrjchgh3p0i113d8zccy4
     verified: false
-    hashtags: "#barbarabox, #degustabox, #interiordesign, #freshfoodanddrinks"
-  - username: "robinrayanian"
+    hashtags: "#turnuptheheat, #everyloveistruelove, #reels, #keyssoulcarexdouglas"
+  - username: "melissa.swz"
     fullname: >-
-      Rayanian
+      Melissa Schwarz
     bio: >-
-      Passion for Hair & Make-up & Fashion https://armeniafund.ejoinme.org/donate 📍Berlin🇩🇪 Los angeles 🇺🇸
+      ᐯOᗰ ᗷᗩᑌᗴᖇᑎTᖇᗩᗰᑭᗴᒪ 𓃟 ᘔᑌᗰ ᗰOᗪᗴᒪ 𖨆 ⚠️ Wette verloren ~ jetzt bin ich Model 😳⚠️ Begleitet mich und lasst mir gern ein Feedback da. 💭
     location: "Germany"
-    followers: 109564
-    engagement: 315
-    commentsToLikes: 0.043899
-    id: ck55lagyy153q0i117zvvzh6s
-    verified: true
-    hashtags: "#fyp, #rayanian, #fashionblogger, #instagood"
-  - username: "milenskaya"
-    fullname: >-
-      Milena Glimbovski
-    bio: >-
-      🏹founder (she/her) of zero waste shop @originalunverpackt &@einguterplan 🏹 Berlin,Germany & Sweden🏹
-    location: "Germany"
-    followers: 26984
-    engagement: 263
-    commentsToLikes: 0.031328
-    id: ck14h46878gpm0i19fcdatw0q
+    followers: 13804
+    engagement: 956
+    commentsToLikes: 0.094029
+    id: ck0u61pot0poj0i19a8gj5jt6
     verified: false
-    hashtags: "#netzstreikf, #elterninderkrise, #detoxdenim, #armedangels"
+    hashtags: "#modellife, #wakeup, #herbst, #herbstshooting"
+  - username: "mxs.cavallero"
+    fullname: >-
+      Jessyca ♥
+    bio: >-
+      •Musicvideo Model @nia_agency @amendamodels •Italiana / Berlin living 🐉 •Founder @cavallero.cosmetics (soon)
+    location: "Germany"
+    followers: 12439
+    engagement: 517
+    commentsToLikes: 0.094666
+    id: ckaorf8gcmxyr0i783x46p6gn
+    verified: false
+    hashtags: "#breakdown, #geminiseason, #acting, #actingchallenge"
   - username: "mo.ciftci"
     fullname: >-
       Mo
     bio: >-
-      23 years // beauty // fashion • Photographer 🏡Hannover | 📍currently in Hannover
+      24 years // beauty // fashion • Photographer 🏡Hannover | 📍currently in Barcelona
     location: "Germany"
-    followers: 2224
-    engagement: 1403
-    commentsToLikes: 0.064260
+    followers: 2127
+    engagement: 1650
+    commentsToLikes: 0.065260
     id: ck5c196shup3d0i1107dd0vz0
     verified: false
-    hashtags: "#queen, #happiness, #picoftheday, #naturecosmetic"
-  - username: "maximgiacomo"
-    fullname: >-
-      MAXIM GIACOMO
-    bio: >-
-      🇮🇹🇩🇪 🎥 YouTube • Maxim Giacomo #GIACOMOARMY #BoysInMakeUp Dieses Profil enthält Werbung | Impressum via YouTube 📍 Berlin Meine Palette!!
-    location: "Germany"
-    followers: 39233
-    engagement: 727
-    commentsToLikes: 0.169319
-    id: ck5c18z24uomo0i11ism1tg34
-    verified: false
-    hashtags: "#herbstliebe, #herbstdeko, #menstyle, #browsonfleek"
+    hashtags: "#blogger, #cute, #lips, #germany"
   - username: "pialorenaa"
     fullname: >-
       LORENA TRAVEL FASHION BEAUTY
     bio: >-
-      👸🏻LORENA ⚓️HH 💃🏻Latina 🔜 Berlin 👑⠀⠀⠀⠀⠀⠀⠀⠀⠀ contact 💌 lorena@insocial-media.com
+      👸🏻LORENA ⚓️HH | Berlin 💃🏻Latina ⠀⠀⠀⠀⠀⠀⠀⠀⠀ contact 💌 lorena@insocial-media.com
     location: "Germany"
-    followers: 104553
-    engagement: 387
-    commentsToLikes: 0.076582
+    followers: 102158
+    engagement: 309
+    commentsToLikes: 0.117751
     id: ck13cdguyzte80i19v54jfuzi
     verified: false
-    hashtags: "#verlosung, #sugarbearhair, #giveaway, #gewinnspiel"
+    hashtags: "#glu, #verlosung, #giveaway, #gewinnspiel"
+  - username: "haticeschmidt"
+    fullname: >-
+      Hatice Schmidt
+    bio: >-
+      📍Berlin Founder&Artdirector @haticeschmidtlabs Best-Selling Author: Dein Leben ist kein Zufall ✉️ Mail • hello@haticeschmidt.com Impressum:
+    location: "Germany"
+    followers: 269840
+    engagement: 450
+    commentsToLikes: 0.013630
+    id: ck15pjxpsy9150i19y5mot3im
+    verified: true
+    hashtags: "#haticeschmidtlabs, #mygenesis, #teamhatineverstops, #haticeschmidt"
+  - username: "krizzybeauty"
+    fullname: >-
+      🦋 Kristina 🦋
+    bio: >-
+      📍living in berlin city 🌇 do good and good will come to you 🧚🏻 S a b r 🤍 | 1 9 9 5 🖖🏻| с у д ь б а ✨ | 🧿 |
+    location: "Germany"
+    followers: 2659
+    engagement: 2871
+    commentsToLikes: 0.037107
+    id: ckaowhton8zzr0i78j21k4oij
+    verified: false
+    hashtags: "#sunday, #girl, #style, #lfl"
+  - username: "beautypalmira"
+    fullname: >-
+      ⋆ 𝕻𝖆𝖑𝖒𝖎𝖗𝖆 ⋆ 🦋
+    bio: >-
+      ⋆ Certified Creative Makeup Artist ⋆ Retoucher, Photographer ⋆ Berlin, Germany ⋆ PR, Bookings: palmira.ruben@gmail.com ⋆ Bridal Artist @palmira.makeup
+    location: "Germany"
+    followers: 33915
+    engagement: 130
+    commentsToLikes: 0.101257
+    id: ck5q3lqg8lcfr0i11ku117ia8
+    verified: false
+    hashtags: "#sephoradeutschland, #abhbrows, #wakeup2slay, #beautyphotos"
 ---

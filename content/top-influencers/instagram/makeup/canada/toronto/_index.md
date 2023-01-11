@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Toronto In 2022
+title: Top 10 Makeup Instagram Influencers In Toronto In 2023
 description: >-
-  Find top makeup Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #makeup #torontomakeupartist #torontomua.
+  Find top makeup Instagram influencers in Toronto in 2023. Most popular hashtags: #makeup #toronto #beauty #hudabeauty.
 platform: Instagram
-hits: 167
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 167 Instagram influencers like this in Toronto, Canada for you to pitch.
+hits: 70
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 70 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "das__k"
+  - username: "angeline.ondaatje"
     fullname: >-
-      DAS
+      ANGELINE
     bio: >-
-      I make virtual trash✨ 🇨🇦 Toronto, Canada 🎥106K friends on YouTube 🇰🇷 Born and raised 🐰Cruelty free ✉️das.k1028@gmail.com
+      Sri Lankan Toronto, Canada📍
     location: "Canada"
-    followers: 22866
-    engagement: 236
-    commentsToLikes: 0.023494
-    id: ckaot5a9iufxw0i787jv36x1p
+    followers: 8578
+    engagement: 1051
+    commentsToLikes: 0.085632
+    id: ck137xwrldl5h0i19c4eoe5aa
     verified: false
-    hashtags: "#crueltyfree, #yyz, #makeup, #toronto"
-  - username: "thatlookyoulove"
+    hashtags: "#colombostyle, #usa, #girl, #shoutoutlankans"
+  - username: "nilaharan"
     fullname: >-
-      Beauty Tips & Lifestyle
+      Nila Haran
     bio: >-
-      Dhriti Bhanushali | Toronto🇨🇦 Happiest when I CREATE🌈 MUA work account:@dhritibhanushali 📩 thatlookyoulove@gmail.com Subscribe👇🏼125K
+      @bridesbynila 🇨🇦 philocalist (n.) Makeup-Artist Entrepreneur Mom Wife of @divinemethodphoto #bridesbynila Shop: @shopnilaharan 🚧🏗️
     location: "Canada"
-    followers: 9622
-    engagement: 425
-    commentsToLikes: 0.062356
-    id: ck8tck20pzomw0j78uyu0ng23
+    followers: 48300
+    engagement: 248
+    commentsToLikes: 0.041110
+    id: ck5hp2bnyqmu60i11cq7pd6xf
     verified: false
-    hashtags: "#glam, #tiktok, #makeuptutorial, #torontoyoutuber"
-  - username: "shamisaax"
-    fullname: >-
-      SHAMISAAX 🌹
-    bio: >-
-      ⬇️ PR | Bookings 💌 Shamisa.p@hotmail.com 📍Toronto 🎥 Smokey Eye Tutorial👇🏼
-    location: "Canada"
-    followers: 15835
-    engagement: 498
-    commentsToLikes: 0.146920
-    id: ck55kjgl0zg730i11tdoss9cz
-    verified: false
-    hashtags: "#tutorials, #daisymarquezpallete, #pictorial, #howto"
-  - username: "vishakha_sodha"
-    fullname: >-
-      Vishakha Sodha Khakhar
-    bio: >-
-      📍Canada 5ft short, I create blogs & podcasts! Shop @vishakha_closet Founding member @thenextgenartists Partnerships: connect@vishakhasodha.com
-    location: "Canada"
-    followers: 45477
-    engagement: 173
-    commentsToLikes: 0.340166
-    id: ck5q4xd6uqlz90i11knuentpj
-    verified: false
-    hashtags: "#livingroom, #travelwithus, #canadagiveaway, #couplegoals"
-  - username: "gloluxstyle"
-    fullname: >-
-      GLOLUXSTYLE
-    bio: >-
-      Lifestyle | Fashion | Travel | Beauty Content Creator based in📍Toronto 🇨🇦 📩gloluxstyle@gmail.com
-    location: "Canada"
-    followers: 46944
-    engagement: 116
-    commentsToLikes: 0.339984
-    id: ck5pzdq2i0gsn0i11vepha730
-    verified: false
-    hashtags: "#shorthairideas, #istyle, #fadehaircut, #fitness"
-  - username: "delaram__em"
-    fullname: >-
-      Delaram Emadi
-    bio: >-
-      T.🇨🇦 T.🇮🇷 ♌️
-    location: "Canada"
-    followers: 9562
-    engagement: 462
-    commentsToLikes: 0.064197
-    id: ck14gqv806l8v0i19epyy0lmh
-    verified: false
-    hashtags: "#summermakeup, #pasteleyeshadow, #february, #2020"
-  - username: "muavee"
-    fullname: >-
-      Mélanie Viger
-    bio: >-
-      Owner @muaveemakeupstudio Creator @muaveelashes Dm to book 💕
-    location: "Canada"
-    followers: 79746
-    engagement: 151
-    commentsToLikes: 0.075433
-    id: ck5c4d26a13hh0i11zgjad3yt
-    verified: false
-    hashtags: "#muatoronto, #prettylittlething, #torontomua, #falselashes"
-  - username: "minaabeautyy"
-    fullname: >-
-      Mina ♡ | Makeup & Hair Artist
-    bio: >-
-      ↓ Bookings / PR ↓ workyousufzai@gmail.com Offering 1-ON-1 Makeup Classes Toronto, Ontario
-    location: "Canada"
-    followers: 105203
-    engagement: 328
-    commentsToLikes: 0.106981
-    id: ck6tiby590fgg0j71al8habhx
-    verified: false
-    hashtags: "#wakeupandmakeup, #benefitcosmetics, #eotd, #weddingmakeupartist"
+    hashtags: "#tamilbeauty, #bridesbynila, #tamilbride, #torontomakeupartist"
   - username: "golsis_makeup"
     fullname: >-
       Golsis makeup artist🌸
     bio: >-
-      -Welcome to my page -Wedding-special occasions💍 -Fashion and beauty makeup 📍Toronto,Ontario 📍Iran,Tehran Security: @sami.parishan
+      -Welcome to my page -Wedding-special occasions💍 -Fashion and beauty makeup 📍Toronto,Ontario 📍Iran,Tehran
     location: "Canada"
-    followers: 40183
-    engagement: 88
-    commentsToLikes: 0.017521
+    followers: 39201
+    engagement: 65
+    commentsToLikes: 0.031151
     id: ck5q1nin3bul70i11tgoclzee
     verified: false
-    hashtags: "#sephora, #macshinyprettythings, #toronto, #artistsoninstagram"
-  - username: "kaysha_mua"
+    hashtags: "#hudabeauty, #nofilter, #wakeupandmakeup, #lookexpensive"
+  - username: "ana_sorys"
     fullname: >-
-      K A Y S H A
+      ANA SORYS
     bio: >-
-      Toronto Makeup Artist 🇨🇦 No DM inquires please! Inquiries/PR: kayshamua@gmail.com 📺 YouTube Channel 👇🏽
+      Visual 📸 Diary Capturing Energy & Light Emmy Award nominated & CND Screen Award winner Hairstylist SCHITT’S CREEK Toronto Makeup Artist
     location: "Canada"
-    followers: 51115
-    engagement: 529
-    commentsToLikes: 0.096996
-    id: ck0vvr5q3qea40i19vjddi2mv
+    followers: 12164
+    engagement: 400
+    commentsToLikes: 0.047667
+    id: ck15tll8xioge0i19d9e3i5w3
     verified: false
-    hashtags: "#makeupartists, #bollywood, #bridalmakeup, #vegas"
+    hashtags: "#bts, #portrait, #magic, #wig"
+  - username: "blushkittenn"
+    fullname: >-
+      Jenn
+    bio: >-
+      ❤️ #makeup #skincare 🇨🇦 Toronto 💌 blushkittenn@gmail.com
+    location: "Canada"
+    followers: 31139
+    engagement: 138
+    commentsToLikes: 0.223615
+    id: ck5zo0k0dpiiv0i1499pg0klj
+    verified: false
+    hashtags: "#foundation, #rarebeauty, #multichrome, #glow"
+  - username: "channelforcopyrightnotice"
+    fullname: >-
+      
+    bio: >-
+      © Instagram Help Center If you have infringed copyright, you will be notified through this channel.
+    location: "Canada"
+    followers: 57583
+    engagement: 262
+    commentsToLikes: 0.051543
+    id: ck5c83emv8p080i11xfp1baui
+    verified: false
+    hashtags: "#makeuplooks, #jamescharlespalette, #tatcha, #makeuptoturial"
+  - username: "imsylvie"
+    fullname: >-
+      Toronto Makeup Artist
+    bio: >-
+      SYL Faces Editorial & Bridal | Hair & Makeup Bookings: info@sylfaces.com (no DMs) 📍Toronto
+    location: "Canada"
+    followers: 16787
+    engagement: 505
+    commentsToLikes: 0.023228
+    id: ck0vvr6i1qecm0i192wvszg22
+    verified: false
+    hashtags: "#tamilmua, #tamil, #torontowedding, #koorai"
+  - username: "goldenbeauty_xo"
+    fullname: >-
+      Toronto Makeup Artist 💫
+    bio: >-
+      G O L D E N B E A U T Y 💄 | TikTok: @goldenbeauty_xo (44.9k+) 💌 | PR/Bookings: goldsbeaut@gmail.com 📍 | Toronto, Canada
+    location: "Canada"
+    followers: 9021
+    engagement: 307
+    commentsToLikes: 0.162285
+    id: ck8t2jgyezqav0j78ulh5rweh
+    verified: false
+    hashtags: "#sephoracanada, #hudabeauty, #melanin, #nyxcosmetics"
+  - username: "guneetbenipal"
+    fullname: >-
+      Gunu 🌸
+    bio: >-
+      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
+    location: "Canada"
+    followers: 4700
+    engagement: 716
+    commentsToLikes: 0.201164
+    id: ckap7d7injk6w0i78ee3qs4iu
+    verified: false
+    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
+  - username: "curls_n_tings"
+    fullname: >-
+      Abeer Mo
+    bio: >-
+      Natural hair. 3c Curls. Makeup. Skincare. 📍Toronto, Canada 📩 curlsntings@gmail.com #curlsntings Youtube
+    location: "Canada"
+    followers: 21838
+    engagement: 222
+    commentsToLikes: 0.065835
+    id: ck8svr2j0ce2i0j78lydbs7x6
+    verified: false
+    hashtags: "#curlsntings, #travelnoire, #curls, #selflove"
 ---

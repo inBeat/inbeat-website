@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Houston In 2022
+title: Top 10 Lifestyle TikTok Influencers In Houston In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #houston #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in Houston in 2023. Most popular hashtags: #houston #fyp #lifestyle #foryou.
 platform: TikTok
-hits: 10
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this in Houston, United States for you to work with.
+hits: 15
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 15 TikTok influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "customhomes"
+  - username: "definitely_not_travis"
     fullname: >-
-      Riverwood Building
+      Not Travis
     bio: >-
-      Official Tik Tok page of Riverwood Building Company.
+      Texas TikTok Welcome Center 🙌🏻 🤠 🙌🏻
     location: "United States"
-    followers: 11900
-    engagement: 147
-    commentsToLikes: 0.023182
-    id: ck9rbs0gaqj2z0j787h9fvz3o
+    followers: 229800
+    engagement: 1862
+    commentsToLikes: 0.026276
+    id: ckdsv8xytq26y0j233elqbh9u
     verified: false
-    hashtags: "#4u, #customhomes, #build, #fyp"
+    hashtags: "#country, #driving, #cowboy, #redneck"
+  - username: "thebeandoc"
+    fullname: >-
+      Ritu Patel
+    bio: >-
+      🇮🇳🇺🇸 Dancer 💃🏽 Dog mom. 🐶 Nephrologist 🩺💊 On the road to 30k🙈🙉🙊
+    location: "United States"
+    followers: 16200
+    engagement: 612
+    commentsToLikes: 0.126939
+    id: ckai2n6i3ghe30i78fjaodo2b
+    verified: false
+    hashtags: "#medicine, #kidney, #freseniuskidneycare, #freseniusmedicalcare"
   - username: "houstontips"
     fullname: >-
       houstontips
     bio: >-
       HOUSTON BLOG food | fitness | lifestyle | events | travel | giveaways
     location: "United States"
-    followers: 5484
-    engagement: 389
-    commentsToLikes: 0.032403
+    followers: 5501
+    engagement: 405
+    commentsToLikes: 0.032570
     id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#houstonfood, #houston, #houstontx, #car"
-  - username: "sarahadamhafez"
+    hashtags: "#houston, #houstontexas, #houstonfood, #houstontx"
+  - username: "customhomes"
     fullname: >-
-      sarahadamhafez
+      Riverwood Building
     bio: >-
-      Lifestyle YouTuber born in 🇵🇰 living in 🇺🇸 Sub to my YouTube
+      Official Tik Tok page of Riverwood Building Company.
     location: "United States"
-    followers: 429600
-    engagement: 1394
-    commentsToLikes: 0.030966
-    id: ck9v17oyhftsz0j78zt9qgyyk
+    followers: 12400
+    engagement: 216
+    commentsToLikes: 0.051489
+    id: ck9rbs0gaqj2z0j787h9fvz3o
     verified: false
-    hashtags: "#couplegoals, #marriedlife, #couplecomedy, #readysetgo"
-  - username: "dessimonoff"
+    hashtags: "#foryoupage, #customhomes, #fyp, #beforeandafter"
+  - username: "jasminerdh"
     fullname: >-
-      dessimonoff
+      JasmineRDH, BSDH MHA
     bio: >-
-      Fashion, beauty, lifestyle. Business collabs: DessiMonoff@gmail.com
+      📍Houston Dental Hygienist | Educator | Mentor BEST TEETH WHITENING STRIPS👇
     location: "United States"
-    followers: 46400
-    engagement: 338
-    commentsToLikes: 0.012889
-    id: ck9v17ljmft3g0j784l2ozgix
+    followers: 668700
+    engagement: 1180
+    commentsToLikes: 0.013010
+    id: ck8s6jutfkv420j78duue5zl7
     verified: false
-    hashtags: "#blogger, #nails, #foryou, #fashionhacks"
-  - username: "estiloisabella15"
+    hashtags: "#liveingreys, #barcobrigade, #teeth, #hygienetips"
+  - username: "wafaaelwan_fofoelwan"
     fullname: >-
-      estiloisabella15
+      Wafaa Elwan
     bio: >-
-      The Best Quince dress Houston TX
+      Official account of Waafa Elwan, Palestinian/ Jordanian lifestyle 🇵🇸🇯🇴🤪
     location: "United States"
-    followers: 255200
-    engagement: 817
-    commentsToLikes: 0.004230
-    id: ckbkecluh4zx80j2310qa8s9z
+    followers: 104000
+    engagement: 480
+    commentsToLikes: 0.043887
+    id: ckfplsepq0pz40j23xk80z22c
     verified: false
-    hashtags: "#charroquincea, #rosegold, #blush, #mexicandress"
+    hashtags: "#houston, #tx, #muslim, #gazaunderattack"
+  - username: "pamelacaastaneda"
+    fullname: >-
+      Pamela Castaneda
+    bio: >-
+      Fashion • Travel • Lifestyle
+    location: "United States"
+    followers: 25200
+    engagement: 611
+    commentsToLikes: 0.025808
+    id: ckbkvb6gqqw9s0j23ug8p2egr
+    verified: false
+    hashtags: "#foryou, #parati, #travel, #peru"
   - username: "dtal"
     fullname: >-
       Dylan Talimoni🇹🇴
     bio: >-
       Photographer 📍HTX Follow me on insta 👆🏼
     location: "United States"
-    followers: 43600
-    engagement: 2077
-    commentsToLikes: 0.019397
+    followers: 42900
+    engagement: 2027
+    commentsToLikes: 0.019084
     id: ckbfbzg9s4cx50j23ocz5a78i
     verified: false
-    hashtags: "#houstonphotography, #foryoupage, #photograhy, #photomagic"
-  - username: "meganrage"
+    hashtags: "#htown, #photography, #viral, #photoshoot"
+  - username: "prisymontoya"
     fullname: >-
-      Megan Rage
+      Priscila Montoya
     bio: >-
-      Wife + Mom of 2 Trying to be funny + relatable Follow me on IG 🥳😆🤗
+      @PRISYMONTOYA 💕 ✨WORKOUT,DANCE,Funny THANGS✨ 💌pichitime14@gmail.com
     location: "United States"
-    followers: 54000
-    engagement: 778
-    commentsToLikes: 0.033253
-    id: ck9gl3xwwmhiq0j78fklhrabv
+    followers: 615700
+    engagement: 1491
+    commentsToLikes: 0.014651
+    id: cka0sywr7nizd0i78ngxnpls4
     verified: false
-    hashtags: "#ghostmode, #genz, #parenting, #trophywife"
-  - username: "kirbylong"
+    hashtags: "#comedy, #houston, #foryoupage, #parati"
+  - username: "joyfullygreen"
     fullname: >-
-      Kirby Long
+      Joy Green
     bio: >-
-      Tik tok has taken over my life TX—>NYC Insta: kirbylong_
+      32 | TX 🌸Flower Lovin’ 🐈Cat Lady Turned Mom 👧🏻 Decor & Family 💞
     location: "United States"
-    followers: 10700
-    engagement: 341
-    commentsToLikes: 0.014960
-    id: ckb9h3vsk6hh10j23882qv3hg
+    followers: 200200
+    engagement: 1139
+    commentsToLikes: 0.041589
+    id: ck97zqhmd4mqh0j786baujfql
     verified: false
-    hashtags: "#couples, #fyp, #foryou, #hubby"
-  - username: "ketoangel"
-    fullname: >-
-      Angie_KetoAngel
-    bio: >-
-      Keto-(ISH)🥑 but still ❤️Tacos 🌮+Cake🍰 Love to Travel✈️ #956 #Christian 🙏🏾
-    location: "United States"
-    followers: 113300
-    engagement: 697
-    commentsToLikes: 0.045969
-    id: ckb0h2mr18u3e0j23z4hhy3oj
-    verified: false
-    hashtags: "#mexicangirl, #drinkvsdiet, #keto, #pruvit"
-  - username: "tinomartineztp"
-    fullname: >-
-      Tino Martinez
-    bio: >-
-      Snap: tinomartinez6
-    location: "United States"
-    followers: 31300
-    engagement: 1757
-    commentsToLikes: 0.003388
-    id: ckbqpb87aa6d80j23jlwy88ac
-    verified: false
-    hashtags: "#tik, #live, #paint, #fortnite"
+    hashtags: "#cutebaby, #balloon, #easter, #roomtour"
 ---

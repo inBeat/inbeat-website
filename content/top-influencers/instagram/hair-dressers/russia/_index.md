@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Russia In 2022
+title: Top 10 Hair Dressers Instagram Influencers In Russia in 2023
 description: >-
-  Find top hair dressers Instagram influencers in Russia in 2022. Most popular hashtags: #hair #hairstyle #beauty #fashion.
+  Find top hair dressers Instagram influencers in Russia in 2023. Most popular hashtags: #hair #hairstyle #beauty #fashion.
 platform: Instagram
 hits: 8
 text_top: Identify the most popular Instagram profiles on inBeat.

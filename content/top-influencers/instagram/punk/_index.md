@@ -1,130 +1,130 @@
 ---
-title: Top 10 Punk Instagram Influencers In 2022
+title: Top 10 Punk Instagram Influencers In 2023
 description: >-
-  Find top punk Instagram influencers in 2022. Most popular hashtags: #staysafe #liebe #ootd.
+  Find top punk Instagram influencers in 2023. Most popular hashtags: #gothgoth #gothicstyle #goth #darkbeauty.
 platform: Instagram
-hits: 2552
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 2552 Instagram influencers like this for you to work with.
+hits: 2533
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 2533 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "gianmarco_rottaro"
+    fullname: >-
+      Holy🌹
+    bio: >-
+      ✝️ È pop punk 🤟🏻 🎵coming soon🎵
+    location: "Italy"
+    followers: 953808
+    engagement: 912
+    commentsToLikes: 0.029713
+    id: ck8weinxje3tv0j787v4ljm72
+    verified: false
+    hashtags: "#maxibonwaffle, #tudachewafflestai, #adv, #myfoxactitude"
   - username: "rikesworld"
     fullname: >-
       Rike
     bio: >-
-      Willkommen in wilden Chaos zwischen allein mit Kids, Selbstständigkeit, Sport und dem Punktehund.
+      Willkommen in wilden Chaos zwischen Alleinerziehend, Selbstständig, Sport und dem Punktehund.
     location: "Germany"
-    followers: 5655
-    engagement: 1934
-    commentsToLikes: 0.075153
+    followers: 5607
+    engagement: 1668
+    commentsToLikes: 0.070652
     id: ck6ud3mwriyb90j71xh5pwjb3
     verified: false
-    hashtags: "#alleinerziehend, #liebeliebeliebe, #shorthair, #liebe"
+    hashtags: "#happybirthday, #familie, #neuanfang, #alleinerziehend"
+  - username: "viivivalokainen"
+    fullname: >-
+      VIIVI VALOKAINEN
+    bio: >-
+      Äiti & ikuinen punkkari - Vertaistukea, aitoja fiiliksiä, mun+skidin tyyliä - Avointa puhetta - vaikeistakin asioista ’DM/ Viivivalokainen@gmail.com
+    location: "Finland"
+    followers: 16985
+    engagement: 1147
+    commentsToLikes: 0.232394
+    id: ck6tzivyg9ym50j71u8cq50gx
+    verified: false
+    hashtags: "#muoti, #instablogitfinland, #igersfinland, #vauva2018"
+  - username: "sorarap"
+    fullname: >-
+      🖤💜 空 SøRā RĀP空 💜🖤
+    bio: >-
+      Quería una banda de punk/pop pero como no tengo amigos me dediqué al rap. [+125.000 subs youtube]🤯 Rapero con alma punkrock ⏬💜Mi nueva locura💀⏬
+    location: "Spain"
+    followers: 11126
+    engagement: 851
+    commentsToLikes: 0.095418
+    id: ckf5q4oyy86c60j23mkmv6elp
+    verified: false
+    hashtags: "#alternativeboy, #emohair, #emoboys, #scenecore"
   - username: "siljasailor"
     fullname: >-
       Silja Sailor
     bio: >-
-      🕸 Psychobilly & Punk Rock 🕸 Vintage Vibes 🕸 Beauty Junkie 🕸 Stick To Your Guns From Finland 🇫🇮 based in London, UK 🇬🇧
+      Punk Rocker | Shapeshifter Aesthete | Leo Vintage Vibes | Beauty Junkie ☠️ 🇫🇮 🇪🇬 🇬🇧 📍 London, UK
     location: "United Kingdom"
-    followers: 9319
-    engagement: 1362
-    commentsToLikes: 0.046950
+    followers: 11228
+    engagement: 1002
+    commentsToLikes: 0.063245
     id: ck55ko7ggzqwl0i1128rp0woy
     verified: false
-    hashtags: "#bettiebangs, #motd, #septumpiercing, #myhellbunny"
-  - username: "diegonaska"
-    fullname: >-
-      Naska
-    bio: >-
-      Romantic but still Punk ⛓ 🧷 infodiegonaska@gmail.com
-    location: "Italy"
-    followers: 46851
-    engagement: 1549
-    commentsToLikes: 0.027495
-    id: ck8sysn3jluqd0j78azcxqjco
-    verified: true
-    hashtags: ""
-  - username: "mazayofficial"
-    fullname: >-
-      MAZAY
-    bio: >-
-      • Dj/Producer 🎧 • Andrea (1/2 Pink is Punk) NEW project 📩 mazayofficial@gmail.com 𝗖𝗔𝗟𝗟 𝗕𝗔𝗖𝗞 📞🔙 👇🏻👇🏻👇🏻
-    location: "Italy"
-    followers: 91029
-    engagement: 289
-    commentsToLikes: 0.062482
-    id: ck0u21n12ylm70i196fythub9
-    verified: false
-    hashtags: "#summertour, #mazay, #summertime, #dj"
+    hashtags: "#motd, #chesttattoo, #ladylucksboutique, #vintageinspired"
   - username: "saro_beatbox"
     fullname: >-
       SARO
     bio: >-
-      French Beatbox Looper From Rennes 🔴⚫️ 🏆 World Beatbox Champion 🥇 Grand Beatbox Battle Champion 🥇 french beatbox team (team punk) EP ZAG ⬇️
+      French Beatbox Looper From Rennes 🔴⚫️ 🏆 World Beatbox Champion 🥇 Grand Beatbox Battle Champion 🥇 french beatbox team (team punk) Sweat/tshirt/Mask ⬇️
     location: "France"
-    followers: 128550
-    engagement: 662
-    commentsToLikes: 0.016500
+    followers: 131586
+    engagement: 682
+    commentsToLikes: 0.016923
     id: ck5zo7jhvpxq30i1437k8elvc
     verified: true
-    hashtags: "#18september, #beatbox, #zag, #saro"
-  - username: "punk_roquette"
-    fullname: >-
-      Émilie Plamondon 🎤🎧💿👕
-    bio: >-
-      🎶PUNK ROCK spreader 😊 🎧RADIO HOST/podcaster🎤SINGER▪️VINYL reviewer▪️Bands 👕 lover 🔸RePUNKmendations 🔸Fb live sunday 6:30 pm EST⬇️
-    location: "Canada"
-    followers: 14726
-    engagement: 907
-    commentsToLikes: 0.051267
-    id: ck0tt3rp411500i19qcipw8rk
-    verified: false
-    hashtags: "#vinylofinstagram, #punkdetente, #punkgirl, #punk"
-  - username: "eiccatoppinen"
-    fullname: >-
-      Eicca Toppinen
-    bio: >-
-      The heavy metal-cellist from Hellsinki Finland & Apocalyptica. Composer, producer etc... #apocalyptica #music #cello #finland #metal #rock #punk
-    location: "Finland"
-    followers: 39153
-    engagement: 763
-    commentsToLikes: 0.019452
-    id: ck0u2gz63zz8m0i19xpxxtjta
-    verified: false
-    hashtags: "#gym, #hagl, #autumn, #metal"
-  - username: "liza.klubnika"
-    fullname: >-
-      LIZA KLUBNIKA 🍓GRUNGE PRINCESS
-    bio: >-
-      PRO СЕКС, БЬЮТИ & БОДИПОЗИТИВ🔞💄 CURVY 💦 PUNK BLOGGER @ravokadus LGBTQ+ ALLY 🏳️‍🌈 Устраиваю #RAZYOB 🔥 Здесь #красивоpizdec Сексуально ем 😈
-    location: "Russia"
-    followers: 13641
-    engagement: 620
-    commentsToLikes: 0.085000
-    id: ck9h9nk0n973x0j78korufo7b
-    verified: false
-    hashtags: "#phsugarleshnevskaya, #redlips, #fashionshoot, #fashionmakeup"
+    hashtags: "#18september, #beatbox, #saro, #zag"
   - username: "laurendonzis"
     fullname: >-
-      𝓁𝒶𝓊𝓇𝑒𝓃 𝒹𝑜𝓃𝓏𝒾𝓈 🕊💌🤍
+      lauren <3
     bio: >-
-      ~ she/her ~ molly on #nogoodnick on @netflix ~ hannah on “punky brewster” coming soon to @peacocktv ~ a3 artists agency / untitled
+      molly on #nogoodnick on @netflix hannah on “punky brewster” on @peacocktv a3 artists agency / untitled
     location: "United States"
-    followers: 426960
-    engagement: 713
-    commentsToLikes: 0.011149
+    followers: 523814
+    engagement: 1134
+    commentsToLikes: 0.009071
     id: ck14lhyfeurln0i1915igmor7
     verified: false
-    hashtags: "#nationalcancersurvivorsday, #theshowmustbepaused, #blackouttuesday, #spiritday"
+    hashtags: "#punkybrewster, #peacock"
   - username: "katja_burkard_official"
     fullname: >-
       Katja Burkard
     bio: >-
       • TV-Moderatorin, RTL, PUNKT 12 • Bestseller: WECHSELJAHRE? KEINE PANIK! • Impressum: Katja Burkard c/o @zum.impressum • Kontakt: katja@divimove.com
     location: "Germany"
-    followers: 167631
-    engagement: 220
-    commentsToLikes: 0.050862
+    followers: 178874
+    engagement: 222
+    commentsToLikes: 0.057442
     id: ck5ci2cearvsm0i111ucos5dj
     verified: true
-    hashtags: "#corona, #wechseljahrekeinepanik, #wereinatmetmussauchausatmen, #wochenende"
+    hashtags: "#rtl, #wereinatmetmussauchausatmen, #vorfreude, #kurzvorweihnachten"
+  - username: "cherrylips.cherry"
+    fullname: >-
+      Cherrylips Model
+    bio: >-
+      Moonchild Creature 🌙🔮🦇 Latex♦Alternative♦Goth Model Punkrave Ambassador Host @darkcelona_tv Barcelona/Berlin 📷For shoot bookings/collabs/merch DM 💌
+    location: ""
+    followers: 20945
+    engagement: 643
+    commentsToLikes: 0.054870
+    id: ck6u9m18qyark0j71wsrbzvfs
+    verified: false
+    hashtags: "#grungegirl, #gothbabe, #gothaccessories, #darkbeauty"
+  - username: "jagermiss"
+    fullname: >-
+      MUA 🦇 Makeup 🦇 Макияж 🦇 Goth
+    bio: >-
+      Elena Agafonova, SPB, Russia 💎 MUA Визажист-гримëр 💎 D.I.Y. Крафт, реквизит, бутафория 💎 Фотографирую себя сама 💎 Мать двоих ежей 💎 Goth ⛓ Punk
+    location: "Russia"
+    followers: 5256
+    engagement: 1500
+    commentsToLikes: 0.056511
+    id: ck5cjt8ytvgjn0i11orffqbp0
+    verified: false
+    hashtags: "#colormakeup, #gothicaesthetic, #gothstyle, #gothgirls"
 ---

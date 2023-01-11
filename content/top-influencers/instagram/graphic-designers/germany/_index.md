@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Germany In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Germany In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Germany in 2022. Most popular hashtags: #happy #art #stayandwander.
+  Find top graphic-designers Instagram influencers in Germany in 2023. Most popular hashtags: #happy #stayandwander #explore.
 platform: Instagram
-hits: 51
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 51 Instagram influencers like this in Germany for you to connect with.
+hits: 34
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 34 Instagram influencers like this in Germany for you to collaborate.
 profiles:
   - username: "bouncing_betti"
     fullname: >-
       Betti  |  Salzburg
     bio: >-
-      graphic designer with a big passion for • mountains • sports • photography • family member @salewa @atomicski 📧 bouncing_betti@gmx.at
+      graphic designer with a big passion for • mountains • sports • photography • family member @salewa @atomicski @suunto 📧 bouncing_betti@gmx.at
     location: "Germany"
-    followers: 19014
-    engagement: 656
-    commentsToLikes: 0.032320
+    followers: 21807
+    engagement: 517
+    commentsToLikes: 0.033106
     id: ck0u1iq3mx26o0i19n7pk3h7y
     verified: false
-    hashtags: "#earlybird, #wanderlust, #wandern, #salewa"
-  - username: "benny.yeboah"
+    hashtags: "#berchtesgaden, #puremountain, #adventureseeker, #outdooradventures"
+  - username: "vans.blanc"
     fullname: >-
-      Benny Yeboah
+      𝐕 𝐀 𝐍 𝐒
     bio: >-
-      97 | Model | Graphic Designer
+      graphic designer, dancer, model 🔗 Berlin | Ulm 🇪🇷🇩🇪🐪
     location: "Germany"
-    followers: 4914
-    engagement: 3159
-    commentsToLikes: 0.024876
-    id: ck8t05wv1qw9f0j78dw6iyanh
+    followers: 2860
+    engagement: 1224
+    commentsToLikes: 0.115761
+    id: ckaowvcl2am100i78970d3f9f
     verified: false
-    hashtags: "#createcommune, #art, #backtominimal, #minimalism"
-  - username: "szulcworks"
+    hashtags: "#berlin, #girlswithcurls, #curlyhair, #illustration"
+  - username: "maximeee"
     fullname: >-
-      Dorota Szulc
+      Maxime Herbord
     bio: >-
-      Good Trips Only 🌞 Photographer, Graphic Designer, Art Director Booking 📮 ds@deadpixelstd.com Management @ivy_creativemanagement Video with @arszenik
+      Graphic Designer & Flowergirl 🌷 Bachelorette 2021 Germany / Netherlands 🐠 Hello@maximeee.com Impressum: @zalent_
     location: "Germany"
-    followers: 26255
-    engagement: 371
-    commentsToLikes: 0.019613
-    id: ck0u703ku3hwx0i199uukxgt1
+    followers: 157705
+    engagement: 563
+    commentsToLikes: 0.009918
+    id: ck13cju440pf10i19tfpneo4s
+    verified: true
+    hashtags: "#ootdinspo, #prettylittleiiinspo, #ootdfashion, #bachelorette2021"
+  - username: "jessyscherl"
+    fullname: >-
+      Bikergirl 🏍 JESSY 💕
+    bio: >-
+      🇩🇪 GERMANY // Bavaria 🏍 KTM 690 SMC R & Triumph Daytona 675 🖥 Graphic designer @dirtbikecustomcollabo ♥️ @v.timo
+    location: "Germany"
+    followers: 17296
+    engagement: 1382
+    commentsToLikes: 0.012748
+    id: ck6ud1fjnikc80j715dl21tll
     verified: false
-    hashtags: "#bujka, #johnniewalker, #35mm, #mamiya645afd"
+    hashtags: "#bikergirl, #longhair, #tattoos, #happy"
   - username: "_sedaozer_"
     fullname: >-
-      Seda Özer
+      Seda Özer
     bio: >-
       🇹🇷🇹🇷🇹🇷 📸 photographer 💻 graphic designer ⚠️ gluten free ❤sedAden❤ #mynareklam @mynareklam #angelique @angeliqueizmir
     location: "Germany"
-    followers: 10619
-    engagement: 375
-    commentsToLikes: 0.037280
+    followers: 10554
+    engagement: 439
+    commentsToLikes: 0.038792
     id: ck9wfi5anox4l0j78p7tuvy2c
     verified: false
-    hashtags: "#mynareklam, #sabahlarolmas, #beklerken, #ku"
-  - username: "nasen555"
-    fullname: >-
-      NanSen那森
-    bio: >-
-      @nansen555 🎈上海🇨🇳Shanghai 🎈🇲🇳Inner Mongolia 🎈💻graphic designer 🎈🖌️painter 🎈Art🎈gym🎈fashion🎈vacation🎈artist
-    location: "Germany"
-    followers: 17192
-    engagement: 362
-    commentsToLikes: 0.014850
-    id: ck6uih3sgf1ss0j71ixq1a45b
-    verified: false
-    hashtags: "#gym, #fitness, #mens, #gymlife"
+    hashtags: "#letsgetlost, #mynareklam, #sabahlarolmas, #thereforeiam"
   - username: "doriglory3110"
     fullname: >-
       Doreen Albrecht | Photography
     bio: >-
-      Graphic designer and digital Artist from Germany Photoshop, Indesign, Illustrator | ipad + Procreate My Art available on my website 👇🏻
+      Graphic designer and digital Artist from Germany PS, ID, Ai | ipad + Procreate Macro Flower Nature - Photography My Art available on my website 👇🏻
     location: "Germany"
-    followers: 18405
-    engagement: 926
-    commentsToLikes: 0.100294
+    followers: 23117
+    engagement: 921
+    commentsToLikes: 0.076298
     id: ck5cgoarsp81a0i11wbg37gm2
     verified: false
-    hashtags: "#superb, #vizoturk, #igbest, #tv"
-  - username: "carsontuna"
+    hashtags: "#fiftyshades, #royalsnappingartists, #lensloves, #soft"
+  - username: "the_fake_face"
     fullname: >-
-      Carsten Thun
+      𝒮ℴ𝓅𝒽𝒾ℯ
     bio: >-
-      PHOTOGRAPHER 📸 + GRAPHIC DESIGNER ✏️ HAMBURG / Olhão 🇵🇹 SECOND ACCOUNT: @roundtheworld_travels
+      ~ 23 y/o ~ do/germany ~ graphic designer ~
     location: "Germany"
-    followers: 28619
-    engagement: 201
-    commentsToLikes: 0.011647
-    id: ck6u3sa18zl5k0j71imwjws3o
+    followers: 3189
+    engagement: 1168
+    commentsToLikes: 0.030479
+    id: ckaoy311gfuli0i78v73oc1ky
     verified: false
-    hashtags: "#acrobatic, #pole, #dancer, #qsystem"
+    hashtags: "#2yearanniversary"
+  - username: "that_dachshund_guy"
+    fullname: >-
+      That Dachshund Guy
+    bio: >-
+      My Dachshund, Me & Stuff - Graphic Designer - PR Manager - Amateur Photographer - Dogdad 🏡 Düsseldorf / Germany 📩 haennes87@icloud.com
+    location: "Germany"
+    followers: 11306
+    engagement: 711
+    commentsToLikes: 0.026864
+    id: ckaotpjfnwx2f0i78k0e9c4p5
+    verified: false
+    hashtags: "#mensfashion, #cute, #petfluencer, #dachshund"
   - username: "katharinawildenhof"
     fullname: >-
       Katharina Wildenhof
     bio: >-
       ✖️ based in Berchtesgaden graphic designer, photographer and mountain lover ➖ say hi - katharinawildenhof@web.de
     location: "Germany"
-    followers: 20123
-    engagement: 754
-    commentsToLikes: 0.059031
+    followers: 24791
+    engagement: 630
+    commentsToLikes: 0.035284
     id: ck0w0u5drg1p10i19nrv9leh6
     verified: false
-    hashtags: "#roamtheplanet, #weroamabroad, #moodygrams, #fantasticearth"
-  - username: "made.by.min"
+    hashtags: "#hellofrom, #visualsofeddarth, #longhair, #sjoerdweekly"
+  - username: "davidarterd"
     fullname: >-
-      Melinda Coleman
+      D A V I D  A R T E
     bio: >-
-      Sewist, Sydneysider, graphic designer, wife
+      (David de Leon) Creative Photographer and Lic. Graphic Designer Domi 🇩🇴
     location: "Germany"
-    followers: 2545
-    engagement: 1367
-    commentsToLikes: 0.052981
-    id: ckaowyun4b2kv0i78tzvl6r5f
+    followers: 34630
+    engagement: 273
+    commentsToLikes: 0.023711
+    id: ck5zz942sbb9o0i14e3bfg1ix
     verified: false
-    hashtags: "#memade, #millenialsewing, #pietrapants, #memademay2020"
-  - username: "farzad.nikpey"
-    fullname: >-
-      PIC BY NIK Pʀᴏᴅᴜᴄᴛɪᴏɴ
-    bio: >-
-      🇮🇷🇩🇪 #Director|کارگردان #Producer|تهیه کننده #Photographer|عکاس #WebDesigner|طراح سایت #GraphicDesigner|گرافیست Iɴғᴏ@ғᴀʀᴢᴀᴅɴɪᴋᴘᴇʏ.ᴄᴏᴍ ғᴀʀᴢᴀᴅɴɪᴋᴘᴇʏ.ᴄᴏᴍ
-    location: "Germany"
-    followers: 31812
-    engagement: 649
-    commentsToLikes: 0.177547
-    id: ck15udqphmo2k0i19bdt9tcuc
-    verified: false
-    hashtags: "#masih, #video, #modeling, #arash"
+    hashtags: "#happyvalentinesday, #merrychristmas, #happybirthday, #candy"
 ---

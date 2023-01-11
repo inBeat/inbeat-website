@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Turkey In 2022
+title: Top 10 Rappers Instagram Influencers In Turkey In 2023
 description: >-
-  Find top rappers Instagram influencers in Turkey in 2022. Most popular hashtags: #rap #rapper #hiphop.
+  Find top rappers Instagram influencers in Turkey in 2023. Most popular hashtags: #like4like #likeforlikes #jennie.
 platform: Instagram
-hits: 14
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 14 Instagram influencers like this in Turkey for you to pitch.
+hits: 19
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 19 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "hamedfard"
     fullname: >-
@@ -13,48 +13,72 @@ profiles:
     bio: >-
       The Official Instagram Account Of Hamed Fard Iranian Rapper
     location: "Turkey"
-    followers: 191025
-    engagement: 1072
-    commentsToLikes: 0.080664
+    followers: 193508
+    engagement: 1248
+    commentsToLikes: 0.097259
     id: ck9wi5xvq0vxl0j78chkqg10l
     verified: false
-    hashtags: "#tiktok, #rap, #hiphop, #tehran"
-  - username: "tarooq_official"
+    hashtags: "#isfahan, #rapper, #khashayiar, #spotify"
+  - username: "djakman"
     fullname: >-
-      T.M.X🦅
+      Osman Kurnaz
     bio: >-
-      سُوري🔱 #Rapper🎙 Dubai | Istanbul 📍 @shadler_production 🔻طيات الماضي 2🔻
+      Singer|Rapper|Composer
     location: "Turkey"
-    followers: 117315
-    engagement: 595
-    commentsToLikes: 0.064450
-    id: ck8szgbmxoc2p0j7815s6vury
+    followers: 71222
+    engagement: 576
+    commentsToLikes: 0.032273
+    id: ck8wfr7jgg4vv0j78e1dm49sw
     verified: false
-    hashtags: "#sketch, #love, #fuck, #summervibes"
-  - username: "lalisfactstr"
+    hashtags: "#adana, #evdekal, #seninlesondefa, #akman"
+  - username: "ayben"
     fullname: >-
-      lalisfactstr | ece
+      Ayben
     bio: >-
-      ♡ For BLACKPINK's Main Dancer, Lead Rapper, Sub Vocal aka YG's ACE&Global IT Girl Lalisa Manoban. [lisa's fan account]
+      Contact:Berfu Merve Bolulu @berfumrvbolulu Mail:bmb@bmbcreative.co Nightwriter🦉 Moonwalker🌙 Rapper👊🎤 #AybenBaşkan "OYUN PARKI" Official Video Out Now
     location: "Turkey"
-    followers: 8951
-    engagement: 2103
-    commentsToLikes: 0.734532
-    id: ckaou0b7sy8320i78qb2ozoqc
-    verified: false
-    hashtags: "#lalisamanoban, #blackpink, #howyoulikethat, #yg"
-  - username: "marijan_music69"
+    followers: 113634
+    engagement: 970
+    commentsToLikes: 0.019413
+    id: ck5hsncfgwvke0i11755k28u5
+    verified: true
+    hashtags: "#stayhome, #octoberbreastcancerawerenessmonth, #coderedrestart, #saveourstages"
+  - username: "aresraps"
     fullname: >-
-      
+      👑ARES RL ONLİNE👑
     bio: >-
-      I'm from Serbia 🇷🇸 Follow my private account: @__maki69_ Serbien rapper 🎶🎵
+      *Olmuyorsa Planını Değiştir Hedefini Asla *RAPPER 🎤🎧 *@aresrlonline12 *YOUTUBE CHANNEL 👇👇
     location: "Turkey"
-    followers: 4846
-    engagement: 4636
-    commentsToLikes: 0.009102
-    id: ckaot9krfux5b0i78nkigrove
+    followers: 20363
+    engagement: 953
+    commentsToLikes: 0.041993
+    id: ck8t6k9ehdy7d0j78ul8wvk57
     verified: false
-    hashtags: "#suraiskenderli, #turk, #azerbaycan, #sonumuvar"
+    hashtags: "#peakyblindersedit, #cilianmurphy, #freddythorne, #bbc1"
+  - username: "misha.muzik"
+    fullname: >-
+      Misha
+    bio: >-
+      Rakı Balboa Singer/Rapper/Songwriter/Producer
+    location: "Turkey"
+    followers: 12139
+    engagement: 1355
+    commentsToLikes: 0.027970
+    id: ck0tvy9xkdbbd0i19cfy99uft
+    verified: false
+    hashtags: "#rak"
+  - username: "jeondamn"
+    fullname: >-
+      Jeon Jeongguk Fan Acc 🇹🇷
+    bio: >-
+      — For Main Vocal,Sub rapper,Lead Dancer Center Member,ACE,Global İt Boy 𖤐 My Serendipity @_jiimean_ ✰
+    location: "Turkey"
+    followers: 36532
+    engagement: 896
+    commentsToLikes: 0.273015
+    id: ckaou017hy6vs0i78ij1rr41t
+    verified: false
+    hashtags: "#jungkooksinging, #jeonjeongguk, #fyp, #jungkookedit"
   - username: "lalisam.turkey"
     fullname: >-
       (Lisa Fan Account)
@@ -66,7 +90,19 @@ profiles:
     commentsToLikes: 0.068728
     id: ckapa4ifluo5q0i78okwk1y7e
     verified: false
-    hashtags: "#lalisablackpink, #nini, #blackpinklalisa, #lalisafancam"
+    hashtags: "#lili, #lalisablackpink, #lisoo, #lalisadance"
+  - username: "agusitd"
+    fullname: >-
+      BTS SUGA (슈가) TURKEY!🛋️
+    bio: >-
+      Grammy adaylığı alan BTS den seksi prodüktör rapper model Min Yoongi adına açılmış Türk Fan Sayfası𓃠 acc @sujxim jjk acc @jeonskookietr 🧚🏻
+    location: "Turkey"
+    followers: 18446
+    engagement: 407
+    commentsToLikes: 0.010138
+    id: ckaou0ck9y8ce0i78uypck5b1
+    verified: false
+    hashtags: ""
   - username: "jenniebilgi.tr"
     fullname: >-
       JENNIE KIM Fan acc 💕
@@ -79,52 +115,16 @@ profiles:
     id: ckaou0biky86t0i78j9tf61c9
     verified: false
     hashtags: ""
-  - username: "mengelez"
-    fullname: >-
-      Mengelez  🔹
-    bio: >-
-      Song Writer Rapper @musixonable "Boss" Yayında!!
-    location: "Turkey"
-    followers: 7317
-    engagement: 625
-    commentsToLikes: 0.025258
-    id: ck8tbggmnvkg30j78a7hh7i3i
-    verified: false
-    hashtags: "#istanbul, #ankara, #hiphop, #sunny"
   - username: "berkaydincc"
     fullname: >-
       Berkay DİNÇ (BD)
     bio: >-
-      Marmaris-İstanbul 📧 info@berkaydinc.com 🐦 Twitter - Berkaydincbd 🎥 YouTube 🎧
+      
     location: "Turkey"
-    followers: 125316
-    engagement: 227
-    commentsToLikes: 0.022617
+    followers: 219648
+    engagement: 160
+    commentsToLikes: 0.022665
     id: ck8t35fob1xvu0j78jo055qq3
     verified: false
-    hashtags: "#instagood, #musica, #bd, #look"
-  - username: "efecanresmi_"
-    fullname: >-
-      Efecan
-    bio: >-
-      Mürsel Nergiz 👇 #RaPBu Yayında👇
-    location: "Turkey"
-    followers: 117365
-    engagement: 865
-    commentsToLikes: 0.036123
-    id: ckap5lul9c8xd0i78muzzu2g1
-    verified: false
-    hashtags: "#rap, #diyarbakir, #rapbu, #efe"
-  - username: "geeflowofficial"
-    fullname: >-
-      GEEFLOW MUSAB
-    bio: >-
-      @vizyonorganizasyon (TR) +905442990222 . @srdrustn (DE) Obiefsa@hotmail.com
-    location: "Turkey"
-    followers: 46981
-    engagement: 256
-    commentsToLikes: 0.053535
-    id: ckapavuerxnma0i78ggczf3i1
-    verified: true
-    hashtags: "#kitap, #melankolik, #bestoftheday, #azerbaycan"
+    hashtags: "#geribass, #follow, #all, #style"
 ---

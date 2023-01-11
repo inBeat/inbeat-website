@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Portugal In 2022
+title: Top 10 Divers TikTok Influencers In Portugal In 2023
 description: >-
-  Find top divers TikTok influencers in Portugal in 2022. Most popular hashtags: #dance #comedia #foryou #portugal.
+  Find top divers TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryou #portugal #foryoupage.
 platform: TikTok
-hits: 9
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Portugal for you to work with.
+hits: 16
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Portugal for you to work with.
 profiles:
   - username: "sandrineme"
     fullname: >-
@@ -18,101 +18,113 @@ profiles:
     commentsToLikes: 0.134310
     id: ckcvizg39w9q90j232hkaovpk
     verified: false
-    hashtags: "#dueto, #gratidao, #unitedfamillytt, #reagir"
+    hashtags: "#gratidao, #cotas, #tiktok, #dueto"
   - username: "dalilacol"
     fullname: >-
       Dalila Colaço
     bio: >-
       🍀TIK TOK por diversão🍀
     location: "Portugal"
-    followers: 11000
-    engagement: 353
-    commentsToLikes: 0.054814
+    followers: 10800
+    engagement: 378
+    commentsToLikes: 0.057685
     id: ckbw64urcyb6h0j235twvi38h
     verified: false
-    hashtags: "#foryou, #comedia, #foryoupage, #paravoce"
+    hashtags: "#foryoupage, #comedia, #comics, #paravoce"
   - username: "dannyfabi"
     fullname: >-
       Danny&faby
     bio: >-
       Pura diversão, nós segue no YouTube , Facebook , instagram.
     location: "Portugal"
-    followers: 12400
-    engagement: 657
-    commentsToLikes: 0.028289
+    followers: 12600
+    engagement: 633
+    commentsToLikes: 0.024915
     id: ck9npgov0yuaa0j78rvbp7rvs
     verified: false
-    hashtags: "#dueto, #canelita, #capadoalbum, #foryou"
+    hashtags: "#diamond, #verao, #capadoalbum, #reagir"
   - username: "emilysanches_"
     fullname: >-
       Emily Sanches
     bio: >-
       🇧🇷 🇵🇹
     location: "Portugal"
-    followers: 133700
-    engagement: 1106
-    commentsToLikes: 0.010094
+    followers: 150700
+    engagement: 835
+    commentsToLikes: 0.011089
     id: cka0uj5squi6k0i78iau4zuig
     verified: false
-    hashtags: "#risos, #fun, #divers, #portugal"
-  - username: "julia.vieira.r"
+    hashtags: "#portugal, #lisboa, #fun, #divers"
+  - username: "heymateportugal"
     fullname: >-
-      Julia Vieira
+      heymateportugal
     bio: >-
-      bem vindo a um perfil nada a ver 🤪 ah e eu gosto de criar músicas
+      Só malucos nesta empresa 🤡 🇵🇹Lisboa•Cascais•Porto 🛵Entregas em Casa👇🏽
     location: "Portugal"
-    followers: 46100
-    engagement: 1104
-    commentsToLikes: 0.015888
-    id: ckdhtnews33c50j23r6ltcar5
+    followers: 281600
+    engagement: 1576
+    commentsToLikes: 0.011811
+    id: ckdcl3t6tn7q70j23er9e17um
     verified: false
-    hashtags: "#lisboa, #summer, #ex, #storytime"
+    hashtags: "#porto, #fyp, #fazerumgelado, #heymateportugal"
+  - username: "mafalda_teixeira"
+    fullname: >-
+      Mafalda Teixeira
+    bio: >-
+      Atriz, Mãe e Empresária que se vai divertir aqui ;)
+    location: "Portugal"
+    followers: 354500
+    engagement: 1726
+    commentsToLikes: 0.011334
+    id: ck9gsj7a9iolh0j78a1gkbqaw
+    verified: false
+    hashtags: "#fun, #trend, #kapinha, #dance"
   - username: "kapinhaoficial"
     fullname: >-
       Kapinha
     bio: >-
-      Actor🎭TV Host📺Singer🎤 Thank you ❤️ 460k 🙏🏼 Next 465k😘 • 🤩MY CHALLENGE👇🏼
+      Ator 🎭 Apresentador TV 📺 Cantor 🎤 ❤️ 770K 🙏🏼 Next 775K😘 💬Chat Kapinha👇🏼
     location: "Portugal"
-    followers: 460500
-    engagement: 1286
-    commentsToLikes: 0.013395
+    followers: 772400
+    engagement: 1408
+    commentsToLikes: 0.026982
     id: ck9glci1knl150j78kmvzjgzr
-    verified: false
-    hashtags: "#makeup, #couple, #comedia, #spooky"
-  - username: "filipacarregal"
+    verified: true
+    hashtags: "#prank, #comedia, #fy, #today"
+  - username: "patricia_vaz_"
     fullname: >-
-      Filipa Carregal
+      Patrícia Franco
     bio: >-
-      Meta 25K🖤🌗 19 yrs🍀 Portugal🇵🇹❤️ 🔥Instagram: wtv_filipah🔥
+      Just be nice and kind :) 17 PT📍
     location: "Portugal"
-    followers: 20300
-    engagement: 1557
-    commentsToLikes: 0.006565
-    id: ckcpspcijn36d0j23rv60dhsu
+    followers: 30900
+    engagement: 2016
+    commentsToLikes: 0.039534
+    id: ckcpse08nmmj40j23oveh3e7m
     verified: false
-    hashtags: "#brilho, #amor, #brasil, #couplegoals"
-  - username: "trainermiguel24"
+    hashtags: "#outfit, #foryou, #fy, #dueto"
+  - username: "daniel_patrocinioo"
     fullname: >-
-      Sérgio Miguel Melo
+      daniel🏳️‍🌈❤️
     bio: >-
-      
+      Perdi a minha conta do IG ajudem me a chegar de novo aos 10K 🏳️‍🌈 GO ➡️ 250K
     location: "Portugal"
-    followers: 78900
-    engagement: 327
-    commentsToLikes: 0.011355
-    id: ck9feix4tt6kr0j78wnl46uk0
+    followers: 245400
+    engagement: 2407
+    commentsToLikes: 0.014414
+    id: ckajk8t0soyws0i78z1l45usq
     verified: false
-    hashtags: "#tiktokchallenge, #business, #funny, #challenge"
-  - username: "marianaoribeiro"
+    hashtags: "#lgbt, #foryou, #fyp, #comedy"
+  - username: "diogomartinszx"
     fullname: >-
-      Mariana Ribeiro
+      Diogo Martins
     bio: >-
-      — A minha vida em Barcelona — Porto - Barcelona 🇪🇸 YouTube 👇🏽
+      fly high sis 🕊️ i will make you proud
     location: "Portugal"
-    followers: 52100
-    engagement: 1028
-    commentsToLikes: 0.011052
-    id: ckb9e5pl01p280j239ln47un2
+    followers: 15900
+    engagement: 1218
+    commentsToLikes: 0.048004
+    id: ckajkuwgus4tf0i78f26ak9hf
     verified: false
-    hashtags: "#barcelona, #dicasdemarketing, #barcelonaspain, #influenciadordigital"
+    hashtags: "#paravoce, #portugal, #brasil, #15k"
 ---

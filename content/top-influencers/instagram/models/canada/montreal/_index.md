@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Montreal In 2022
+title: Top 10 Models Instagram Influencers In Montreal In 2023
 description: >-
-  Find top models Instagram influencers in Montreal in 2022. Most popular hashtags: #model #montreal #photography.
+  Find top models Instagram influencers in Montreal in 2023. Most popular hashtags: #model #montreal #vancouver #beauty.
 platform: Instagram
-hits: 58
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 58 Instagram influencers like this in Montreal, Canada for you to collaborate.
+hits: 26
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 26 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
   - username: "chelseyboll"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🏳️‍🌈 She/they Photographer & model 🇨🇦 Montreal @plutinomodels @housmanagement 📸 For more photography follow @chelseyshoots
     location: "Canada"
-    followers: 24747
-    engagement: 560
-    commentsToLikes: 0.028229
+    followers: 24356
+    engagement: 452
+    commentsToLikes: 0.025977
     id: ck14hulfoc7xx0i196wyvjqwn
     verified: false
-    hashtags: ""
-  - username: "lisamaartinez"
+    hashtags: "#3dart, #mentalhealthmonday, #bpd, #bpdthings"
+  - username: "krygerconnor"
     fullname: >-
-      Olmands
+      Connor Kryger
     bio: >-
-      Mother Agent: Peggi Lepage B&M Management ~ Toronto Specs Models ~ Montreal Zoom Models ~ Bangkok TFM Model Management ~ Mumbai
+      Vancouver 🇨🇦 22 @alaeriaagency Walk with me!
     location: "Canada"
-    followers: 2501
-    engagement: 1652
-    commentsToLikes: 0.037457
-    id: ck5hs2garvvl70i11qt2xmi56
+    followers: 2934
+    engagement: 1776
+    commentsToLikes: 0.085506
+    id: ck5hdo97bohna0i11niqmil6y
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "davidkidd_portfolio"
+    hashtags: "#lamodels, #saintlaurent, #blackandwhite, #attempt"
+  - username: "florencemrtl"
     fullname: >-
-      🦉David Kidd | Photographer🦉
+      FLORENCE MARTEL
     bio: >-
-      🌿@davidkidd 🌿 🌹Montreal,Canada 🌹 📍 now in montreal 📍 |199X|Dm📥| pour 🍇infos Et booking🍇 ✨Audition⬇️Iconly✨
+      Montréal📍 Stay humble, be kind, work hard. ✨ 📥 DM for inquires & collabs Model | Acting 🎭 | Registered Nurse💉
     location: "Canada"
-    followers: 8079
-    engagement: 563
-    commentsToLikes: 0.075280
-    id: ck5ciu4n9tdjh0i11bg2j10aa
+    followers: 6668
+    engagement: 1250
+    commentsToLikes: 0.210518
+    id: ckapbmk5g0gfp0i7814gcjzli
     verified: false
-    hashtags: "#model, #montrealphotos, #hat, #tattoos"
-  - username: "virat_momi"
+    hashtags: "#modelmontreal, #montrealmoments, #montrealartist, #concoursmontreal"
+  - username: "inked.barbie"
     fullname: >-
-      👑👑CroWn KING👑👑
+      𝐈𝐧𝐤𝐞𝐝 𝐁𝐚𝐫𝐛𝐢𝐞
     bio: >-
-      🇮🇳 🇨🇦 Never trust girls💔 😈Since_2000 🔝 👑FASHION-INFLUENCER 🎈 2-May 🎂
+      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2021
     location: "Canada"
-    followers: 7269
-    engagement: 433
-    commentsToLikes: 0.138714
-    id: ck15sy854fesk0i198iugh4xt
+    followers: 70580
+    engagement: 254
+    commentsToLikes: 0.024005
+    id: ck601sohkg3p00i14so4muyla
     verified: false
-    hashtags: "#instastar, #cameralovers, #instalike4like, #tiktokindian"
-  - username: "curtismason"
+    hashtags: "#poisonivy, #diy, #ad, #montreal"
+  - username: "ginger_rox"
     fullname: >-
-      Curtis Mason
+      Roxanne
     bio: >-
-      26 - Montréal Boutique Manager at Christian Louboutin Montreal Model with Modeles LCP 👻: nolimitstoday
+      📌Montreal/TO🇨🇦 Model 👩🏻‍🦰📷37+countries Portraits @ginger_rox_ Toronto 24/27 Lisboa 7/10 Porto 11/13 Seville 13/15 Madrid 15/17 Barcelona 17/21 Toulo
     location: "Canada"
-    followers: 7740
-    engagement: 1684
-    commentsToLikes: 0.030357
-    id: ck6ubucspbrhx0j71xehwccu8
+    followers: 23593
+    engagement: 556
+    commentsToLikes: 0.033331
+    id: ck5hgv0ql4wus0i11jihf4yd5
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "mimisemaan"
-    fullname: >-
-      𝓜
-    bio: >-
-      💿tiktok : mimisemaan (243K) 🏹anime | makeup | art | freelance model 🦋montrēal, canada 👇🏼Discord, Twitch, Youtube & many more !
-    location: "Canada"
-    followers: 18829
-    engagement: 1448
-    commentsToLikes: 0.038825
-    id: ck9h9z1hzaj9d0j781s84oedy
-    verified: false
-    hashtags: "#oceanblue, #trinitybrown, #anime, #tomura"
-  - username: "gabriellecorns"
-    fullname: >-
-      ♡ Gabrielle Corns ♡
-    bio: >-
-      •British 🇬🇧 •MTL📍•21 🦀♋️
-    location: "Canada"
-    followers: 3976
-    engagement: 1177
-    commentsToLikes: 0.082442
-    id: ck5cgmbg5p4kr0i111tyse11x
-    verified: false
-    hashtags: "#mtlphotography, #swim, #photography, #mtl"
-  - username: "vanilla_picture"
-    fullname: >-
-      VANILLA PICTURE
-    bio: >-
-      ||V A N I L L A P I C T U R E|| Vanilla.picture@gmail.com💌 Montreal 📍
-    location: "Canada"
-    followers: 14283
-    engagement: 438
-    commentsToLikes: 0.064020
-    id: ck5hipkhdeq5v0i11mqoux891
-    verified: false
-    hashtags: "#montrealphotographer, #montrealfashionphotographer, #montrealportraitphotographer, #instagood"
-  - username: "yvensb"
-    fullname: >-
-      Ｙｖｅｎｓ Ｂ.
-    bio: >-
-      Montreal Father, Sports, Fitness & Portrait Photographer, YouTuber ⬇️⬇️ Latest updates👇👇
-    location: "Canada"
-    followers: 34355
-    engagement: 336
-    commentsToLikes: 0.024209
-    id: ck6trlm7azowz0j71wwyhsbib
-    verified: false
-    hashtags: "#studio, #paulcbuff, #torontophotographer, #dailygrind"
+    hashtags: "#gingerlife, #folktravel, #bwportrait, #gingergirl"
   - username: "billiebopbillie"
     fullname: >-
       B I L L I E ☾
     bio: >-
-      Model • MTL Paid bookings only Bookings: DM YouTube ☟︎
+      Model • MTL Paid bookings only Tiktok: billiebopbillie YouTube channel ☟︎
     location: "Canada"
-    followers: 20672
-    engagement: 392
-    commentsToLikes: 0.032149
+    followers: 20494
+    engagement: 527
+    commentsToLikes: 0.014954
     id: ck5hcjwwwigby0i11bcu7r0b9
     verified: false
-    hashtags: "#fashionmodel, #likeforlike, #montreal, #blogger"
+    hashtags: "#followme, #photograph, #girl, #like4like"
+  - username: "sofiacretaro"
+    fullname: >-
+      𝖘 🍓 𝖋 𝖎 𝖆
+    bio: >-
+      MIAMI- @cgmmodels NEW YORK- @jagmodels CANADA- @dulcedomodels 📍
+    location: "Canada"
+    followers: 20982
+    engagement: 403
+    commentsToLikes: 0.128773
+    id: ck5c4j1yb1gia0i111b8xxlay
+    verified: false
+    hashtags: "#miamiswimweek, #charlottetilbury, #maccosmetics, #montreal"
+  - username: "allisonelang"
+    fullname: >-
+      ALLISON E. LANG
+    bio: >-
+      amputee & body inclusivity advocate 🇨🇦 educator | athlete | model | traveler | jokester rep by @agencelasuite 𖤥 mtl subscribe to my YouTube⤵
+    location: "Canada"
+    followers: 9872
+    engagement: 501
+    commentsToLikes: 0.099625
+    id: ckap3rwrc4ar60i78z29q3lf1
+    verified: false
+    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
+  - username: "joaohguedes"
+    fullname: >-
+      Joao Guedes
+    bio: >-
+      Intimate Portrait Photographer Photography Educator Ottawa | Montreal | Vancouver Booking April 2021
+    location: "Canada"
+    followers: 59921
+    engagement: 323
+    commentsToLikes: 0.021439
+    id: ck5q6dcmywy5a0i11ddpbgnxw
+    verified: false
+    hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
+  - username: "angharada.model"
+    fullname: >-
+      𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
+    bio: >-
+      •Time Traveling Model• The Past Will Be My Future • Celtic/Baltic• Professional Model- available to hire in Vancouver, Canada. •OFFERING REMOTE SHOOTS
+    location: "Canada"
+    followers: 32592
+    engagement: 448
+    commentsToLikes: 0.042615
+    id: ck15tn028ivx00i19vaaw8j0q
+    verified: false
+    hashtags: "#orange, #beautiful, #fantasyart, #travelphotography"
 ---

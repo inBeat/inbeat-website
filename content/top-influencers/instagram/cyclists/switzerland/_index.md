@@ -1,96 +1,60 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Switzerland In 2022
+title: Top 10 Cyclists Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top cyclists Instagram influencers in Switzerland in 2022. Most popular hashtags: #cyclinglife #cycling #cyclingphotos.
+  Find top cyclists Instagram influencers in Switzerland in 2023. Most popular hashtags: #cycling #cyclinglife #bike.
 platform: Instagram
-hits: 14
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 14 Instagram influencers like this in Switzerland for you to work with.
+hits: 10
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 10 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "martialzi13"
-    fullname: >-
-      Martina Alzini
-    bio: >-
-      🇮🇹 @italiateam 🚴🏼‍♀️ Road and track pro cyclist for @valcar_ts 📪 alzini.martina@gmail.com ⬇️ Facebook official page
-    location: "Switzerland"
-    followers: 14820
-    engagement: 902
-    commentsToLikes: 0.011403
-    id: ck55lpj52242m0i11r80y5rmb
-    verified: false
-    hashtags: "#girlspower, #katushacycling, #tappadopotappa, #regosis"
   - username: "amby1999"
     fullname: >-
       Amber Joseph
     bio: >-
-      🇧🇧Barbados National Cyclist 20 yrs 🚲@team_pedalsure Ambassador 💪🏽@powerhousefitness_uk Ambassador 10%off BodyMax&Smart-tec(AMBER10)
+      🇧🇧Barbados National Cyclist 21 yrs 💪🏽@powerhousefitness_uk Ambassador 10%off BodyMax&Smart-tec(AMBER10)
     location: "Switzerland"
-    followers: 10905
-    engagement: 1050
-    commentsToLikes: 0.009515
+    followers: 17301
+    engagement: 1191
+    commentsToLikes: 0.013481
     id: ckf5rjnb2cxa60j23ocpr7v5c
     verified: false
-    hashtags: "#hotchocolate, #throwback, #christmas2019"
+    hashtags: "#rideformore, #fedocioficial, #ciclismord, #republicadominicana"
   - username: "silvandillier"
     fullname: >-
       Silvan Dillier
     bio: >-
-      living the life of a cyclist. swiss rider of Team AG2R La Mondiale. 2 x TTT world champion
+      living the life of a cyclist. swiss rider at @alpecinfenix. 2 x TTT world champion
     location: "Switzerland"
-    followers: 21593
-    engagement: 584
-    commentsToLikes: 0.010893
+    followers: 21615
+    engagement: 663
+    commentsToLikes: 0.019014
     id: ck5zrxq2xxg5m0i143y2bwmeo
     verified: false
-    hashtags: "#family, #noglovesneeded, #classic, #belgium"
+    hashtags: "#alpecincycling, #mosista, #cycling, #movember"
+  - username: "martialzi13"
+    fullname: >-
+      Martina Alzini
+    bio: >-
+      🚴🏼‍♀️Italian road and track cyclist for @valcar_ts & @italiateam 🎌Olympian at @tokyo2020 👩🏼‍💻 alzini.martina@gmail.com
+    location: "Switzerland"
+    followers: 17933
+    engagement: 748
+    commentsToLikes: 0.012200
+    id: ck55lpj52242m0i11r80y5rmb
+    verified: false
+    hashtags: "#worldbicicleday, #cycling, #hamstermood, #cannondalewomen"
   - username: "kristin.atzeni"
     fullname: >-
       Kristin Atzeni
     bio: >-
       • passionated cyclist living in Switzerland 🚵🏼‍♀️ ✉︎ contact: hallo@routestudio.ch
     location: "Switzerland"
-    followers: 103069
-    engagement: 262
-    commentsToLikes: 0.011175
+    followers: 109673
+    engagement: 156
+    commentsToLikes: 0.008566
     id: ck0vz3cye73640i19fb5rnuzf
     verified: false
-    hashtags: "#happycyclingwomen, #beautifulhome, #roadbikesdaily, #greatpicture"
-  - username: "jap_cycling"
-    fullname: >-
-      Patrick Jäger
-    bio: >-
-      Former Pro Cyclist Austria 🇦🇹 Ambassador for those amazing brands! 🚴‍♂️ ➡️ @biehlercycling 🚲 ➡️ @metzlerwheels 🕶️ ➡️ @proptics ⛑️ ➡️ @met_helmets
-    location: "Switzerland"
-    followers: 14473
-    engagement: 385
-    commentsToLikes: 0.009958
-    id: ck5chkogaqyi30i11cm305wu8
-    verified: false
-    hashtags: "#happyday, #vibes, #passion, #ridebiehler"
-  - username: "alban_lakata"
-    fullname: >-
-      albanator
-    bio: >-
-      🇦🇹Pro Cyclist, Team BULLS 🌈World Champion MTB Marathon (2010,2015,2017) #onelifeonegoal #carpediembaby #vonnixkommtnix
-    location: "Switzerland"
-    followers: 17299
-    engagement: 985
-    commentsToLikes: 0.014946
-    id: ck5hrybhbvosn0i11umcji30q
-    verified: false
-    hashtags: "#carpediembaby, #onelifeonegoal, #willtosucceed, #albanator"
-  - username: "lauraceldrans"
-    fullname: >-
-      LAURA CELDRAN SUBIELA
-    bio: >-
-      💃MTB Instructor💃 • Passionated Mountain Biker • YouTuber 🎥 👇🏻👇🏻 CLICA AQUÍ 👇🏻👇🏻
-    location: "Switzerland"
-    followers: 91693
-    engagement: 394
-    commentsToLikes: 0.025504
-    id: ck5btrc3nggm40i11lrwciato
-    verified: false
-    hashtags: "#ciclism, #enduromtb, #cyclingphotos, #gripisyourfriend"
+    hashtags: "#meridareacto, #cyclingswitzerland, #happycyling, #lunchbreak"
   - username: "cyclingswitzerland"
     fullname: >-
       Cycling Switzerland
@@ -102,29 +66,65 @@ profiles:
     commentsToLikes: 0.009663
     id: ck0w39zivsbvy0i19gg1naacr
     verified: false
-    hashtags: "#instacycling, #graub, #fromwhereiride, #takeovercyclingswitzerland"
+    hashtags: "#mountains, #switchbacksaturday, #visitswitzerland, #roadslikethese"
+  - username: "pedaling.meli"
+    fullname: >-
+      Meli
+    bio: >-
+      📍 Switzerland ✉️ mail@pedalingmeli.ch
+    location: "Switzerland"
+    followers: 16894
+    engagement: 1582
+    commentsToLikes: 0.080326
+    id: ck0w39xdksbms0i19ps4wkjcu
+    verified: false
+    hashtags: "#cyclinglifestyle, #sportygirl, #cyclingaddict, #sportbikelife"
+  - username: "colom_fil"
+    fullname: >-
+      Filippo Colombo
+    bio: >-
+      Absolute Absalon- BMC Athlete Vice world and European Champion U23 2019
+    location: "Switzerland"
+    followers: 9529
+    engagement: 1605
+    commentsToLikes: 0.006555
+    id: ck0u1tzxexxqd0i19ai3mr8s2
+    verified: false
+    hashtags: "#swisscyclingfamily, #ride, #absoluteabsalon, #cornercard"
+  - username: "proffix_swissbikecup"
+    fullname: >-
+      SwissBikeCup
+    bio: >-
+      Swiss Mountain Bike Series #pxsbc #swissbikecup #mtb #switzerland #proffix #proffixswissbikecup #proffix_swissbikecup
+    location: "Switzerland"
+    followers: 6832
+    engagement: 471
+    commentsToLikes: 0.005533
+    id: ck0tw2ropdrrn0i19mfwgu27j
+    verified: false
+    hashtags: "#vtt, #mountainbike, #mtbkids, #vttcrosscountry"
+  - username: "nogakorem"
+    fullname: >-
+      Noga Korem
+    bio: >-
+      Pro🚲rider Israel🇮🇱 2nd EWS overall GT factory racing #happyrider=#fastrider Follow me and join my journey on the🚲around the🌏 My MTB insights 👇👇👇
+    location: "Switzerland"
+    followers: 14444
+    engagement: 519
+    commentsToLikes: 0.046450
+    id: ck6tykne34aiu0j71eiesjsz0
+    verified: false
+    hashtags: "#michelinwildenduro, #goodtimes, #forest, #enduro"
   - username: "guilhemlacaze"
     fullname: >-
       Guilhem Lacaze
     bio: >-
       Professional #sockdoper Coffee racer at Alltricks X Mercedes Domestique de Luxe for Pro #Triathletes - Life is too short Don’t waste it reading my bio
     location: "Switzerland"
-    followers: 31023
-    engagement: 244
-    commentsToLikes: 0.021758
+    followers: 30637
+    engagement: 230
+    commentsToLikes: 0.025339
     id: ck5heicwgt1yz0i11qid14fu8
     verified: false
-    hashtags: "#whyiride, #tbt, #lebram, #prizm"
-  - username: "cycliste_tricolore"
-    fullname: >-
-      Le Cycliste Tricolore
-    bio: >-
-      | Le cyclisme est mon art de vivre | | In search of road less traveled | | One eye on the future of cycling I 📍Annecy | Ticino | Girona
-    location: "Switzerland"
-    followers: 15552
-    engagement: 716
-    commentsToLikes: 0.041969
-    id: ck5bvb0d2jb5x0i11qh22lus2
-    verified: false
-    hashtags: "#wymtm, #cyclingphotos, #cyclinglife, #cycling"
+    hashtags: "#cyclinglife, #whyiride, #thisweekoninstagram, #lifebehindbars"
 ---

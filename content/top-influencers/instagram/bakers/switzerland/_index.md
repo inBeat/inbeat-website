@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Switzerland In 2022
+title: Top 10 Bakers Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top bakers Instagram influencers in Switzerland in 2022. Most popular hashtags: #shift #bikeswithoutlimits #s1000rr.
+  Find top bakers Instagram influencers in Switzerland in 2023. Most popular hashtags: #bikersofinstagram #throttlesociety #killswitchbikes #motorcyclesofinstagram.
 platform: Instagram
-hits: 63
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 63 Instagram influencers like this in Switzerland for you to connect with.
+hits: 31
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 31 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "ira_zlatev"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Zurich based 🇨🇭 Food photographer & stylist 🍔 Passionate baker & comfort food lover ❤️ Creating cozy recipes 🥨
     location: "Switzerland"
-    followers: 39417
-    engagement: 521
-    commentsToLikes: 0.036062
+    followers: 39329
+    engagement: 375
+    commentsToLikes: 0.038530
     id: ck14kj8ekprtg0i19p64v9vh0
     verified: false
-    hashtags: "#schweizerfoodblog, #foodstyling, #igersschweiz, #swissfoodblogger"
+    hashtags: "#thebakefeed, #swissblogger, #schweizerfoodblog, #onthetable"
   - username: "pooleyemma"
     fullname: >-
       Emma Pooley
     bio: >-
-      Running, pedalling, mountains, adventures, & snacks Baker of @pocketporridge Ambassador for @sonderbikes & @salomonrunning
+      Adventures & snacks Baker @get_oatside Ambassador for @sonderbikes @komoot @salomon.dach @vertical_coffee Media requests: emma.pooley@olympian.org
     location: "Switzerland"
-    followers: 26588
-    engagement: 510
-    commentsToLikes: 0.016501
+    followers: 27033
+    engagement: 451
+    commentsToLikes: 0.014730
     id: ck8sy827xk1sn0j78t3hobsbx
     verified: false
-    hashtags: "#fromwhereiride, #iloveswitzerland, #salomonrunning, #pocketporridge"
-  - username: "heileenmartin"
+    hashtags: "#sondersignal, #ilovetakingmybikeforawalk, #outsideisthebestside, #bikepacking"
+  - username: "georgeandsebbie"
     fullname: >-
-      HEILEEN | FASHION | STYLE
+      George and Sebastian
     bio: >-
-      👩🏻Fashion Influencer & Content Creator 📍Switzerland 🇨🇭 💌heileenmartin.ch@gmail.com 👗Shop my looks👇🏻
+      Just a big guy and a little guy from the Swiss Alps who broke the mould and made a sea change 🐻🐻
     location: "Switzerland"
-    followers: 47495
-    engagement: 233
-    commentsToLikes: 0.144273
-    id: ck5znr4tgp01a0i14qjftqa14
+    followers: 7228
+    engagement: 542
+    commentsToLikes: 0.007577
+    id: ckapb36dvyeln0i78poo2ze97
     verified: false
-    hashtags: "#bakedgoods, #revolveme, #revolveambassador, #sheinofficial"
-  - username: "lemorchin"
-    fullname: >-
-      Selim
-    bio: >-
-      Bizi aynı kişi sanıyorlar çünkü sen hep gölgemdin
-    location: "Switzerland"
-    followers: 16305
-    engagement: 339
-    commentsToLikes: 0.022954
-    id: ck6u7q12umzw60j71z2rwwnte
-    verified: false
-    hashtags: "#gravida, #selfesteem, #keepstrong, #pregnantbelly"
+    hashtags: "#bernesemountaindog, #christmas, #christmasdog, #halloweencostume"
   - username: "bastianbaker"
     fullname: >-
       Bastian Baker
     bio: >-
       Swiss singer songwriter / only account
     location: "Switzerland"
-    followers: 122417
-    engagement: 254
-    commentsToLikes: 0.019592
+    followers: 121164
+    engagement: 197
+    commentsToLikes: 0.021332
     id: ck15u724glq9c0i19saf944wn
     verified: true
-    hashtags: "#hdswitzerland, #harleydavidsonmotorcycles, #parkour, #ineedswitzerland"
-  - username: "zo0ko"
-    fullname: >-
-      Zo0ko
-    bio: >-
-      🇨🇭 Zo0ko aka Zouzou 🎥 Animateur et co-producteur @bikershq 🤝 Rider for : @motosrochat @kitopublicite @ixon_official @cardosystems @vipersracing
-    location: "Switzerland"
-    followers: 14165
-    engagement: 1521
-    commentsToLikes: 0.012276
-    id: ck13ak87cqs4i0i19cv8o8wjp
-    verified: false
-    hashtags: "#ratemybike, #panigalev4, #sportbike, #instamotogallery"
-  - username: "knowabroad"
-    fullname: >-
-      Путешествия 📍Женева ШВЕЙЦАРИЯ
-    bio: >-
-      Ольга Живи в Швейцарии в моих сторис Моя кондитерская @christies_bakery 42 countries📍London 🇬🇧 ➡️ Geneva🇨🇭
-    location: "Switzerland"
-    followers: 145627
-    engagement: 128
-    commentsToLikes: 0.028671
-    id: ckf5s53d2er7s0j238r88lgz9
-    verified: false
-    hashtags: ""
+    hashtags: "#fun, #corona, #joke, #snow"
   - username: "exagon_moto"
     fullname: >-
       Exagon
     bio: >-
-      🇨🇭Swiss rider | ZX10R & 990 SMR 📷 Photographe Pro 📺 Animateur et co-producteur de BIKERS HQ
+      🇨🇭Swiss rider | ZX10R | 890R | 990 SMR 📷 Photographe Pro 📺 Animateur et co-producteur de BIKERS HQ 🤝 @cardosystems / @nltuning.ch
     location: "Switzerland"
-    followers: 39894
-    engagement: 954
-    commentsToLikes: 0.008304
+    followers: 46482
+    engagement: 998
+    commentsToLikes: 0.008331
     id: ck13ak8k8qs680i19phrnpj0g
     verified: false
-    hashtags: "#exagon, #bikestagram, #ducati, #motorcycle"
+    hashtags: "#superbike, #kawasakininja, #ducati, #panigale"
   - username: "golangurfinkel"
     fullname: >-
-      Golan
+      Golan Gurfinkel
     bio: >-
       Dallal restaurant - bakery. Shabazi 10 st. Tel aviv
     location: "Switzerland"
-    followers: 7234
-    engagement: 383
-    commentsToLikes: 0.084928
+    followers: 7363
+    engagement: 230
+    commentsToLikes: 0.088310
     id: ck6tjjr012um50j71hyv3hevz
     verified: false
-    hashtags: "#dallal, #love, #tlv, #verbier"
+    hashtags: "#nevezedek, #tlv, #freshfish, #bakery"
   - username: "eclatdebeauteugi"
     fullname: >-
       Eclat De Beaute
     bio: >-
       Bäckerstrasse 40, 8004 Zürich - Coiffeur Ugi
     location: "Switzerland"
-    followers: 33234
-    engagement: 204
-    commentsToLikes: 0.005655
+    followers: 27066
+    engagement: 152
+    commentsToLikes: 0.004295
     id: ck0w0tb0dfxfk0i1914w7mqty
     verified: false
-    hashtags: "#viral, #trucho, #blessings, #paris"
+    hashtags: "#bajecontrenza, #likeforfollow, #viral, #videosong"
+  - username: "jasmin.13i4920"
+    fullname: >-
+      -Priv acc @_jasmin.nikita_
+    bio: >-
+      
+    location: "Switzerland"
+    followers: 5603
+    engagement: 3816
+    commentsToLikes: 0.023008
+    id: ck5zihuytfqi80i149gskxq60
+    verified: false
+    hashtags: ""
+  - username: "swiss.bikergirl"
+    fullname: >-
+      Mira Bella Weingart
+    bio: >-
+      • Hey there!👋🏼 I’m a Swiss Bikergirl from Lucerne🇨🇭 with a Yamaha MT 07 • Yes, I also have a life besides my bike: @mirabellaweingart •
+    location: "Switzerland"
+    followers: 2840
+    engagement: 1516
+    commentsToLikes: 0.025534
+    id: ck138ncsxh2qv0i199m5hcdt9
+    verified: false
+    hashtags: "#femalebikeriderscommunity, #bikersofinstagram, #bikersofswitzerland, #ladybikers"
+  - username: "_mojo22"
+    fullname: >-
+      Mo
+    bio: >-
+      "I am not perfect but i am limited edition!" Bikerlady 🏍 Honda AfricaTwin/cb1000r Based in 🇨🇭Switzerland/ Bucheggberg Photos taken by myself: Huawei
+    location: "Switzerland"
+    followers: 6064
+    engagement: 1519
+    commentsToLikes: 0.162763
+    id: ck136g1k96bgj0i19rs8uglwz
+    verified: false
+    hashtags: "#bikeporn, #bikerswithoutlimits, #instamoto, #bikersfamily"
 ---

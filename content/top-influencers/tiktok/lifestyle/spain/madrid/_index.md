@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Madrid In 2022
+title: Top 10 Lifestyle TikTok Influencers In Madrid in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Madrid in 2022. Most popular hashtags: #espa #madrid #viral #challenge.
+  Find top lifestyle TikTok influencers in Madrid in 2023. Most popular hashtags: #espa #madrid #viral #challenge.
 platform: TikTok
 hits: 5
 text_top: See the best TikTok influencers on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Turkey In 2022
+title: Top 10 Runners Instagram Influencers In Turkey In 2023
 description: >-
-  Find top runners Instagram influencers in Turkey in 2022. Most popular hashtags: #runner #run #triathlon #sport.
+  Find top runners Instagram influencers in Turkey in 2023. Most popular hashtags: #runner #running #ran #sunum.
 platform: Instagram
-hits: 43
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 43 Instagram influencers like this in Turkey for you to contact.
+hits: 54
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 54 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "saule_sergazinova"
+  - username: "_ozgurtetik_"
     fullname: >-
-      Saule, Travel & Lifestyle
+      Özgür Tetik - Big Guy🎽
     bio: >-
-      😊 PR, influence marketing @prpowerkz 😍 In love with @takeoff_kz ✊🏼 100% self-made person, motivator, runner 🌏 Traveler, visited 44 countries
+      @runningacademy_official Founder&Coach @technogymturkey Master Trainer @uludagpremium @turkiyesuunto 🏁24hr/191km/First 24 Hours TR Treademill Runner
     location: "Turkey"
-    followers: 81353
-    engagement: 196
-    commentsToLikes: 0.218319
-    id: ck6tk8hl447f60j713zpfppr2
+    followers: 9067
+    engagement: 323
+    commentsToLikes: 0.034492
+    id: ck5chv0r2ris30i11w5ukgbup
     verified: false
-    hashtags: "#goturkey, #sauletravels, #saule, #bigroup"
-  - username: "viktoriya_400h"
-    fullname: >-
-      Viktoriya Tkachuk
-    bio: >-
-      Runner 400mH from Ukraine 💛💙🏃 PB - 54.93🏃 Nike Athlete✌ Olimpian Rio 2016 #nike #Athlete
-    location: "Turkey"
-    followers: 8920
-    engagement: 814
-    commentsToLikes: 0.026726
-    id: ck8tdlyef3v4v0j787bjcnb0f
-    verified: false
-    hashtags: "#trackandfield, #nike, #athletics, #sport"
-  - username: "yukselak_"
-    fullname: >-
-      Yüksel Ak Rimer
-    bio: >-
-      Mom of two💙💙wife❤️ Miss Turkey 2000👑 Miss World 2000 2nd runner-up👑
-    location: "Turkey"
-    followers: 148649
-    engagement: 317
-    commentsToLikes: 0.013592
-    id: ck5zp3dnqrwsu0i14ivpxwms0
-    verified: false
-    hashtags: "#happy, #happyanniversarymylove, #tb, #dolomites"
-  - username: "ek.zavyalova"
-    fullname: >-
-      Екатерина Гулиева
-    bio: >-
-      🇷🇺Runner of Russian track and field team ⠀⠀⭐️🥈Olympic medalist of London2012 ⠀⠀⠀⭐️Nike Athlete 🏃‍♀️ 🖤 Photographer 📷
-    location: "Turkey"
-    followers: 5950
-    engagement: 631
-    commentsToLikes: 0.006210
-    id: ck0txg6faiztc0i19awsr4zpe
-    verified: true
-    hashtags: "#pegasus37, #nikerunning, #sport, #trackandfield"
+    hashtags: "#performance, #healthy, #fitness, #runningacademy"
   - username: "runneryogi"
     fullname: >-
       Halil Kaynak
     bio: >-
-      Modern Yogi Yoga Teacher RYT 200 HRS🧘‍♂️ Advanced Vinyasa Teacher RYT 50 HRS 🤸‍♂️ Ultra Marathon Runner 🏃‍♂️ Amateur Swimmer🏊‍♂️ 🕉Be good and healthy.
+      Modern Yogi Yoga Teacher RYT 200 HRS🧘‍♂️ Advanced Vinyasa Teacher RYT 50 HRS 🤸‍♂️ Advayta Yoga 5'20🕉️ Ultra Marathon Runner 🏃‍♂️ Amateur Swimmer🏊‍♂️
     location: "Turkey"
-    followers: 2338
-    engagement: 1462
-    commentsToLikes: 0.046633
+    followers: 2551
+    engagement: 1354
+    commentsToLikes: 0.065973
     id: ck9we51m9impm0j78k5eb779l
     verified: false
-    hashtags: "#yogaposes, #yogaantalya, #myyogicjourney, #naturelove"
+    hashtags: "#runneryogi, #yogiclife, #yogapractice, #asana"
+  - username: "haticeninelinden0"
+    fullname: >-
+      Hatice Yılmaz
+    bio: >-
+      RUNNER-SUPLA-MASA ÖRTÜSÜ ✂️Sipariş için DM 📦Kargo alıcıya aittir •Kapıda ödeme yok •Havale / EFT ile ödeme 🏠İzmir içi elden teslim YouTube kanalım
+    location: "Turkey"
+    followers: 11949
+    engagement: 118
+    commentsToLikes: 0.131884
+    id: ckf5v4949n8wc0j23qn8czvnf
+    verified: false
+    hashtags: "#runnersuplatak, #masad, #sevgililerg, #ranir"
   - username: "eminebasariir"
     fullname: >-
       Emine Başarır
     bio: >-
-      🔻Under Armour Global Ambassador 🔻Herbalife Turkey Fitness Consultant 🔻Runner of @ankarunning 🔻TV Show @ssporttr İstersen Başarırsın👊🏻 🔻Mom of ✌🏻👩🏼‍🦱🧒🏼
+      @underarmour Global Ambassador @herbalifeturkiye Fitness Consultant Runner of @ankarunning TV Show @ssporttr İstersen Başarırsın👊🏻 Mom of ✌🏻👩🏼‍🦱🧒🏼
     location: "Turkey"
-    followers: 126052
-    engagement: 124
-    commentsToLikes: 0.015013
+    followers: 125115
+    engagement: 129
+    commentsToLikes: 0.017287
     id: ck9h9tkxl9wya0j78154l2s5o
     verified: false
-    hashtags: "#projectrock, #ankarunning, #pilatesinstructor, #homeexercises"
-  - username: "nergisin_renkleri"
-    fullname: >-
-      Nergis Karaman
-    bio: >-
-      İlmeklerle dolu dünyası ışıl ışıldır ⭐️ İstanbul Anadolu yakası elden teslimdir💐 #orgusupla #suplatakımı #runner #runnermodelleri
-    location: "Turkey"
-    followers: 9728
-    engagement: 368
-    commentsToLikes: 0.103803
-    id: ckapabolnvgf50i78ly73ixit
-    verified: false
-    hashtags: "#supla, #suplamodelleri, #yenigelin, #suplatakimi"
+    hashtags: "#fitmom, #underarmourwomen, #throughthistogether, #pilatesinstructor"
   - username: "asladurma"
     fullname: >-
-      Fatih Topçu
+      Fatih Topçu
     bio: >-
-      Ironman 140.6(Pb 10:45) 10xIronman 70.3(Pb 4:46) 5 Marathon(Pb 3:18) 2016 Triatlon YG Şamp. 2019 Duatlon YG Şamp. 2020 CrossDuatlon YG Şamp.
+      Mobilite ile Kanseri yenen Müge Daştan’In Mobilsen Özgürsün hikayesi için linke tıklayın
     location: "Turkey"
-    followers: 25264
-    engagement: 507
-    commentsToLikes: 0.108166
+    followers: 61240
+    engagement: 2967
+    commentsToLikes: 0.611577
     id: ck5q0wc8s83560i11puc6emor
     verified: false
-    hashtags: "#runner, #instarun, #cappadocia, #kosu"
-  - username: "nevallina"
+    hashtags: "#instarun, #skyrunning, #ironman, #trek"
+  - username: "ilkeozyuksel"
     fullname: >-
-      Neval Gördük | Spor-Beslenme
+      İlke Özyüksel
     bio: >-
-      ▪️@underarmour 🇹🇷 Athlete ▪️Master Personal Trainer ▪️Triathlon National Team Nutrition&Strength Coach 2014-2015 ▪️ @nevallinakitchen
+      ▪️Olympic Games 2020🇯🇵-2016🇧🇷-YOG 2014 🇨🇳 ▪🥇World - European Champion & 8 World Records @nike
     location: "Turkey"
-    followers: 57672
-    engagement: 253
-    commentsToLikes: 0.029302
-    id: ck138bef5ffaz0i190scw8llf
+    followers: 17237
+    engagement: 601
+    commentsToLikes: 0.024945
+    id: ck5zmd3d2mcmp0i140toctr7f
     verified: false
-    hashtags: "#underarmourathlete, #triatlon, #runnercoach, #underarmourshoes"
-  - username: "sdlasln"
+    hashtags: "#nikeathlete, #nikewomen, #roadtotokyo, #sport"
+  - username: "handeyapimi"
     fullname: >-
-      Sıdal 🦁
+      handeyapimi
     bio: >-
-      Turkish National Team Pentathlete 🇹🇷 Hacettepe University 🦌 For business & communication; @talent360pro For healthy fit recipes; @fittyummy
+      💫YASAL SAYFA %100 EL YAPIMI,HAND*E YAPIMI💚 🌿🌱El dikimi, Kişiye Özel Tasarım🌿💚Anlaşmalı Kargo 📦 KAPIDA ÖDEME YOKTUR.Kargo alıcıya aittir.
     location: "Turkey"
-    followers: 10923
-    engagement: 1062
-    commentsToLikes: 0.012510
-    id: ck8t35skq1zk20j78td5n794m
+    followers: 26566
+    engagement: 323
+    commentsToLikes: 0.056664
+    id: ck1385cvrek520i193g7ci84d
     verified: false
-    hashtags: "#nature, #track, #run, #athlete"
+    hashtags: "#makromekap, #mutfakdekorasyonu, #silindirc, #duvarsusu"
+  - username: "utkanso"
+    fullname: >-
+      U t k a n  E Y Ü B O Ğ L U💠
+    bio: >-
+      🌺🫀Zamanınızın bir kısmını ruhunuzu Mutlu edecek şeyler yaparak geçirin. 🫀🧠🫁 🧘🏻‍♂️
+    location: "Turkey"
+    followers: 3305
+    engagement: 2775
+    commentsToLikes: 0.042543
+    id: ck6ubf6s697lm0j719vzi1yfm
+    verified: false
+    hashtags: "#travel, #passiontraveldiary, #holiday, #italian"
+  - username: "hbceyiztasarim"
+    fullname: >-
+      
+    bio: >-
+      Ölçüye göre siparişle çalışıyorum, Sipariş ve bilgi için lütfen DM ‼️Kargo alıcıya aittir.kapıda ödeme yok
+    location: "Turkey"
+    followers: 15033
+    engagement: 168
+    commentsToLikes: 0.139545
+    id: ck8t7jug0h2sa0j78qljg3hxi
+    verified: false
+    hashtags: "#masao, #kis, #hediye, #salondekorasyonu"
+  - username: "kanavicem42"
+    fullname: >-
+      💫
+    bio: >-
+      El emeğinin değerini bilenler 💕 Sayfama Hoş Geldiniz 🌷 Sipariş için dm den ulasabilirsiniz.. Ptt ile anlaşmalı kargo🎁
+    location: "Turkey"
+    followers: 30639
+    engagement: 327
+    commentsToLikes: 0.049648
+    id: ck8t3edtn2ybe0j78bqx4ra8x
+    verified: false
+    hashtags: "#mutfaktak, #ceyizhaz, #crossstitching, #seccade"
 ---

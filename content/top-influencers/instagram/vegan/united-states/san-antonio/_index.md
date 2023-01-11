@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Antonio In 2022
+title: Top 10 Vegan Instagram Influencers In San Antonio In 2023
 description: >-
-  Find top vegan Instagram influencers in San Antonio in 2022. Most popular hashtags: #happy #sanantonio #travel.
+  Find top vegan Instagram influencers in San Antonio in 2023. Most popular hashtags: #vegan #dessert #familytime.
 platform: Instagram
 hits: 5
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in San Antonio, United States for you to collaborate.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 5 Instagram influencers like this in San Antonio, United States for you to connect with.
 profiles:
-  - username: "christyclips"
+  - username: "shelbizleee"
     fullname: >-
-      ChristyClips✂️
+      SHELBI ⟜Sustainability Vlogger
     bio: >-
-      💇🏽Men's Hair Consultant 📲 @booksybiz Ambassador 💈 @wahlpro Team 👇🏽Free Booksy Trial
+      ≋ Zero Waste ⋒ LGBT | Plant Based ✎ BS EnvSci “You cannot do all the good that the world needs, but the world needs all the good that you can do”©
     location: "United States"
-    followers: 70767
-    engagement: 289
-    commentsToLikes: 0.020540
-    id: ck13898lcf42v0i19axt3eyf7
+    followers: 60751
+    engagement: 1112
+    commentsToLikes: 0.049847
+    id: ck0vwvqrivtjc0i191nbf8pkf
     verified: false
-    hashtags: "#zara, #sunday, #happysunday, #menshair"
-  - username: "tarabaros"
+    hashtags: "#goingzerowaste, #ecoliving, #sustainability, #waronwaste"
+  - username: "modernveganfam"
     fullname: >-
-      Tara Goetz-Baros
+      Modern Vegan Familia
     bio: >-
-      A real down to Mars girl. San Antonio + Austin Very vegan.
+      Join our fam. Follow Adam, Madeline, Addy, & Lazer’s Plant Based Life. Founders of @credofoods . Vegan for ❤️ 🐷 🌎 . Austin, TX based
     location: "United States"
-    followers: 2115
-    engagement: 1329
-    commentsToLikes: 0.054389
-    id: ck6u7oo9fmroh0j71vzregk5q
+    followers: 25729
+    engagement: 146
+    commentsToLikes: 0.107700
+    id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#porta400"
-  - username: "abeeveryday"
+    hashtags: "#atxvegan, #wfpb, #healthyfood, #topveganplaces"
+  - username: "dacrown_lifestyle"
     fullname: >-
-      Abraham | Donut Connoisseur
+      Travel Lover 🛫
     bio: >-
-      🍩 Donuts 📍San Antonio, TX 💥 @hcfitness.texas 🎥 YouTube: Abe’s Eats
+      Grounded Traveler ✈️🚊🛳 Photographer 📸 from Switzerland 🇨🇭 All photos are mine 🙋‍♂️
     location: "United States"
-    followers: 7136
-    engagement: 644
-    commentsToLikes: 0.146045
-    id: ck5pzsgf82iyd0i11bt9qj55g
+    followers: 7489
+    engagement: 450
+    commentsToLikes: 0.021622
+    id: ckaoz1m5qjzpl0i78gzg55ibe
     verified: false
-    hashtags: "#quads, #fitfam, #progress, #fitnessmotivation"
-  - username: "venxmexe"
+    hashtags: "#dronephotography, #dacrownlifestyle, #forest, #powder"
+  - username: "freethechi"
     fullname: >-
-      Mikayla 🐾 ミケーラ
+      FREE THE CHI! Ⓥ
     bio: >-
-      Your Friendly Neighborhood Youtuber YT: captainmikayla 10.9k TikTok 279k Twitch: 1.5k 23//Cosplayer venmo: venxmexe tiktok:venxmexe
+      @FreeTheChi fights for chihuahuas in need of loving homes. Join the Chihuahua Liberation Front and help us FREE THE CHI. Until every cage is empty!💥👊💥
     location: "United States"
-    followers: 12574
-    engagement: 441
-    commentsToLikes: 0.010861
-    id: ck9wdci62f18r0j78kb5b01q5
+    followers: 28980
+    engagement: 609
+    commentsToLikes: 0.047792
+    id: ck0tvozzsc7s20i19yz0jx2kf
     verified: false
-    hashtags: "#satx, #tanjiro, #anime, #gaming"
-  - username: "antonio_eats_la"
+    hashtags: "#chihuahua, #senior, #adoption, #chihuahuasofinstagram"
+  - username: "gastroartistry"
     fullname: >-
-      Antonio Malik
+      Gastronome
     bio: >-
-      📍Los Angeles📍San Diego Food | Fitness | Travel Collab/promotions? DM/ 📧: antonioeatsla@gmail.com As seen on @abc7la @abc7community @foodnetwork
+      🔖Appreciating the art in the culinary world. 🔖sponsored post on request (mail or dm)
     location: "United States"
-    followers: 136150
-    engagement: 204
-    commentsToLikes: 0.066020
-    id: ck0u9zqpjb25v0i19j1ysui88
+    followers: 91099
+    engagement: 109
+    commentsToLikes: 0.008310
+    id: ck15suyrjexkp0i19rpmnsqfn
     verified: false
-    hashtags: "#instagood, #shrimp, #foodie, #tijuana"
+    hashtags: "#theartofplating, #instablogger, #repost, #foodblogfeed"
   - username: "danascruggs"
     fullname: >-
       Dana Scruggs
     bio: >-
       Vegan
     location: "United States"
-    followers: 40458
-    engagement: 1112
-    commentsToLikes: 0.034781
+    followers: 43961
+    engagement: 876
+    commentsToLikes: 0.033935
     id: ck0u9yn1pax240i19k3bololm
     verified: false
-    hashtags: "#pentax67, #danascruggs, #glossier, #filmisnotdead"
-  - username: "silversparklesonme"
+    hashtags: "#pentax67, #glossier, #outtake, #filmisnotdead"
+  - username: "vegicano"
     fullname: >-
-      K r i s t e l
+      Rudy Ramos
     bio: >-
-      56 and Silver But still on the journey / under construction 🛠 Mom of 🐒🐒🐕 Vegan ▪ Love Animals and Nature ▪Great Interest for Fashion and Photography
+      NYC’s Original Vegan Taquero 🌮 Taquiza (DIY Taco Kit): SOLD OUT 🌮 Order Deadline: Tuesday 5PM 🚚 Free NYC Delivery: Fridays 📋 Menu: Highlights
     location: "United States"
-    followers: 15947
-    engagement: 2301
-    commentsToLikes: 0.098526
-    id: ck9wftswjqij20j78jzzzm8m0
+    followers: 41084
+    engagement: 121
+    commentsToLikes: 0.032618
+    id: ck135fab314mb0i19g5dgg7mf
     verified: false
-    hashtags: "#peloblanco, #silverandfree, #embracethegrey, #veganbeauty"
-  - username: "stephanie.depena"
+    hashtags: "#vegan"
+  - username: "jamesaspey"
     fullname: >-
-      Fashion • Beauty • Fitness
+      JAMES ASPEY
     bio: >-
-      Bad vibes don’t go with my outfit ✨ 🌱 Vegan Since 2016 ✨ Owner of @shopdenvy 🎥 Youtube Stephanie De Pena 💫 Tiktok Stephanie.Depena
+      Here to share my vegan life, inspire & teach, spread good vibes & increase the✌🏽 TacoCat 🌮🐈 Charity Advisor Soulmate😍 @nickyaspey Vids + more👇🏽
     location: "United States"
-    followers: 17505
-    engagement: 1373
-    commentsToLikes: 0.174033
-    id: ck8wdfbwedra60j78evq4xzms
-    verified: false
-    hashtags: "#fashionista, #bellamihair, #vegans, #explorepage"
-  - username: "darbigwynn"
+    followers: 232112
+    engagement: 219
+    commentsToLikes: 0.065059
+    id: ck0w1jkmnjo0m0i19gbi5y6my
+    verified: true
+    hashtags: "#endtheanimalholocaust, #govegan, #seaspiracy, #vegan"
+  - username: "payalia"
     fullname: >-
-      Darbi Gwynn
+      Payal Shah 🧿
     bio: >-
-      Vegan Sober
+      -Founder / Fine jeweler @LDezen | @Psylish.Jewelry -Web3 ✨ -Plant-Based #VeganPieChallenge 🌱🌞🫶🏽
     location: "United States"
-    followers: 16464
-    engagement: 907
-    commentsToLikes: 0.077488
-    id: ck55lvk9i2jl90i11su2fm82r
-    verified: false
-    hashtags: ""
-  - username: "theteesharenee"
+    followers: 93676
+    engagement: 402
+    commentsToLikes: 0.030518
+    id: ck0vxkk1jzclh0i191qztnrva
+    verified: true
+    hashtags: "#metgala, #ldezennydiaries, #panik, #failforward"
+  - username: "y0ur.vibe.is.pretty"
     fullname: >-
-      Teesha Renée💓
+      Joyce Ann Wert Ⓥ
     bio: >-
-      💡Artist | 🧘🏾‍♀️ Yogi | 🌱 Vegan | 📍ATL Sharon on Tyler Perry's "The Oval" on @BET Destiny on Black Lightning on @thecw Teesharenee.com
+      24 • SOBER • NORMALIZE MENTAL HEALTH #YourExistenceIsPowerful Fentanyl OD Survivor •Idiopathic Hypersomnia 272K TikTok Vegan 🌱 @koalatyboxes
     location: "United States"
-    followers: 12475
-    engagement: 1092
-    commentsToLikes: 0.076475
-    id: ck5hmfev6luow0i11hv73wjeh
+    followers: 27285
+    engagement: 3188
+    commentsToLikes: 0.009388
+    id: ckzddmzvnbxbk0j23bshvt7i9
     verified: false
-    hashtags: "#theovalonbet, #betawards, #womenempowerment, #covidtesting"
+    hashtags: "#trauma, #relatable, #anxiety, #tired"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Singapore In 2022
+title: Top 10 Fitness Instagram Influencers In Singapore In 2023
 description: >-
-  Find top fitness Instagram influencers in Singapore in 2022. Most popular hashtags: #sgunited #stayhome #circuitbreaker.
+  Find top fitness Instagram influencers in Singapore in 2023. Most popular hashtags: #fitness #gym #japan #travel.
 platform: Instagram
-hits: 34
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 34 Instagram influencers like this in Singapore for you to pitch.
+hits: 20
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat has 20 Instagram influencers like this in Singapore for you to pitch.
 profiles:
-  - username: "aimeechengbradshaw"
+  - username: "whathebronte"
     fullname: >-
-      Aimee Cheng-Bradshaw
+      Danil Palma
     bio: >-
-      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠 👀WATCH: Behind-The-Scenes of my Her World SG Cover Shoot👇🏻
+      ✖️ Lifestyle | Travel | Fitness 📍 Singapore ✉️ contact@danilpalma.com
     location: "Singapore"
-    followers: 111865
-    engagement: 230
-    commentsToLikes: 0.016061
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#heatrdy, #adidassg, #apmmonaco, #tigercrystal"
-  - username: "craziben"
-    fullname: >-
-      Ben Siew 🇸🇬
-    bio: >-
-      Fitness | Food | Fashion | Travel 📬 Media/News: hello@craziben.com⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ 📩 Business: Sales@craziben.com ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀
-    location: "Singapore"
-    followers: 28657
-    engagement: 379
-    commentsToLikes: 0.014217
-    id: ck0w5dmvg34jj0i19bxuxh5no
+    followers: 78810
+    engagement: 326
+    commentsToLikes: 0.011725
+    id: ck5hdxfebpvl90i11tbrvfx1s
     verified: false
-    hashtags: "#gowalksmart, #savefnbsg, #lgtonefree, #neverstop"
-  - username: "rachelwongggg"
-    fullname: >-
-      Rachel Wong
-    bio: >-
-      Managed by @facestm 💜 FITNESS & SKINCARE 🎥 Bookings: jovina@facestm.com 〰️ Bilingual Actress | Host | Livestream ✉️ rachelwongg@hotmail.com
-    location: "Singapore"
-    followers: 35052
-    engagement: 297
-    commentsToLikes: 0.014453
-    id: ck5zvedfd42qt0i140vr1e7tp
-    verified: false
-    hashtags: "#hoolahcrew, #justhoolah, #hoolah, #toryburchbags"
-  - username: "awansauce"
-    fullname: >-
-      Alan Wan 溫家偉
-    bio: >-
-      Food lover | Fitness extraordinaire | Traveller | Coffee enthusiast. ￼ 📍SG / HK Represented by @flyentertains
-    location: "Singapore"
-    followers: 79254
-    engagement: 237
-    commentsToLikes: 0.023193
-    id: ck5zveeg642tb0i14awwh1v4r
-    verified: true
-    hashtags: "#thecheatersapp, #sgfood, #manglacialessence, #beabea"
+    hashtags: "#uipsingapore, #halloween, #halloweenmakeup, #airnzbungychallenge"
   - username: "jmeteo"
     fullname: >-
       Jaime Teo
     bio: >-
-      Host/Actress Fitness/Arts enthusiast Twelve Cupcakes co-founder(biz sold!) Represented by @flyentertains For enquiries pls email abigail@fly.com.sg
+      Digital Content Creator Fitness/Arts Enthusiast Entrepreneur For enquiries pls email thisisjmeteo@gmail.com
     location: "Singapore"
-    followers: 109491
-    engagement: 174
-    commentsToLikes: 0.038034
+    followers: 117482
+    engagement: 120
+    commentsToLikes: 0.023081
     id: ck8wgf87dh8on0j78z4hexpjv
     verified: true
-    hashtags: "#fun, #tiktokdance, #canvasart, #tiktokchallenge"
-  - username: "roxannegan_"
+    hashtags: "#schoolhols, #tokyo, #fun, #feelingblessed"
+  - username: "aimeechengbradshaw"
     fullname: >-
-      ROXANNE GAN
+      Aimee Cheng-Bradshaw
     bio: >-
-      🇸🇬 SG Fitness & Yoga Icon 📍@zoiyoga__ 🧘🏻‍♀️ #foxyroxyyoga 📩 hello@roxannegan.com
+      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠
     location: "Singapore"
-    followers: 126716
-    engagement: 130
-    commentsToLikes: 0.009089
-    id: ck0vxnqw9zteb0i190sr9gudl
-    verified: false
-    hashtags: "#practiceyogachangeyourworld, #yogagram, #foxyroxyyoga, #yoga"
-  - username: "walkingfridge"
+    followers: 114797
+    engagement: 311
+    commentsToLikes: 0.011660
+    id: ck55jn7nsxd3r0i11s2wl5m3n
+    verified: true
+    hashtags: "#ad, #ilovesilkygirl, #sp, #diorholidays"
+  - username: "rachelwongggg"
     fullname: >-
-      Chef Bob
+      Rachel Wong
     bio: >-
-      Family|Faith|Fitness|Food I do food related 🎥 on FB. #ChefBobMakanApaTu #LegitSedapChefBob @krush.sg | @3qul.sg Manager: norlina.norbaidin@gmail.com
+      💜 BEAUTY . FITNESS . LIFESTYLE . DOGS 🐾 〰️ Host | Livestream ✉️ rachelwongg@hotmail.com
     location: "Singapore"
-    followers: 27106
-    engagement: 289
-    commentsToLikes: 0.053696
-    id: ck0w5dki634ak0i19n7edoqxr
+    followers: 41430
+    engagement: 224
+    commentsToLikes: 0.017592
+    id: ck5zvedfd42qt0i140vr1e7tp
     verified: false
-    hashtags: "#tiktok, #stayhome, #sgunited, #umaribnshahrizal"
+    hashtags: "#sato, #johnfriedasg, #hairmeout, #folligrow"
   - username: "paulfosterrr"
     fullname: >-
       Paul Foster
     bio: >-
-      Singaporean 🇸🇬 Host🎙️ Actor 🎬 Model 📷 Fitness 💪🏻 Food 🍴 Travel 🛩️ Charity 💞 Eco Warrior 🌏
+      Singaporean 🇸🇬 He/Him ♂️ Host🎙️ Actor 🎬 Model 📷 Fitness 💪🏻 Food 🍴 Travel 🛩️ Charity 💞 Eco Conscious Citizen 🌏
     location: "Singapore"
-    followers: 32705
-    engagement: 137
-    commentsToLikes: 0.038931
+    followers: 37701
+    engagement: 124
+    commentsToLikes: 0.035327
     id: ck5bzgi1jr3hz0i11m5lwqyhc
     verified: true
-    hashtags: "#tattoo, #singapore, #guinnesstime, #thegreatgrillout"
-  - username: "leoheng_"
+    hashtags: "#fosterthelove, #supportlocal, #abandonedsingapore, #paypalgiveback"
+  - username: "thatmomoffour"
     fullname: >-
-      Leo Heng 🇸🇬 | Lifestyle
+      Dawn Sim
     bio: >-
-      @leomassagetherapy - DM for rates & slots 🙌🏻 • 🕺🏻 Dancer @gentlemens.latte 🕴🏻 Model @upfrontmodels 💆🏻‍♂️ Massage Therapist 💪🏻 Fitness 👨‍👧 Daddy
+      Ambassador: @lululemonsg @sport_singapore @skypremiumsg Co-founder @trium.fitness 📧: thatmomoffour.work@gmail.com
     location: "Singapore"
-    followers: 7358
-    engagement: 606
-    commentsToLikes: 0.032295
-    id: ck5zk68k9iw790i145uxn8lek
+    followers: 50588
+    engagement: 945
+    commentsToLikes: 0.008265
+    id: ck5qd6i52u1v70i11vuu501jc
     verified: false
-    hashtags: "#quityourshit, #betsomeofyallsangthetuneinyourhead, #covidiot, #itseverywhere"
-  - username: "victoriacheng"
+    hashtags: "#sgig, #giveawaysingapore, #giveawaysg, #sggiveaway"
+  - username: "seowie"
     fullname: >-
-      Victoria Cheng akaChubbyNinja
+      Shaun Michael Seow
     bio: >-
-      Food Journalist, Speaker, Host Boxing/fitness instructor 🇸🇬 Gluttony, Flow, Nerding 🍽️ @gastronommy 🍑 @misscorgington 😎 Twitch📣akachubbyninja
+      🇸🇬🇳🇱🏃‍♂️🏋🏼‍♂️ Hybrid Athlete: Run, Lift, Jump 📈 Finance, Trader, DeFi, eComm 📸 Commercial Model 📚 BBA @sgsmu ⬇️ Website/Email for Business
     location: "Singapore"
-    followers: 49611
-    engagement: 194
-    commentsToLikes: 0.016043
-    id: ck0ubqu5pf1l10i19oq8isvh4
+    followers: 78971
+    engagement: 61
+    commentsToLikes: 0.009876
+    id: ck8tawy18texb0j783l3vrpsc
     verified: false
-    hashtags: "#teamgalaxy, #galaxynote20ultra5g, #fullertonhotel, #ndp2020"
+    hashtags: "#health, #gym, #fitness, #diet"
+  - username: "nattylifts"
+    fullname: >-
+      Natalie | Fitness & Lifestyle
+    bio: >-
+      Creator 🇭🇰🇸🇬 💌nattylifts@gmail.com #workoutwithnatty #tagteamhustle ACE CPT/Bootcamp Travel inspo @slaycaydiaries Link for codes & more info ⬇️
+    location: "Singapore"
+    followers: 28055
+    engagement: 33
+    commentsToLikes: 0.315966
+    id: ck5zzflbdbn510i14q7s295bs
+    verified: false
+    hashtags: "#fitnessmotivation, #travel, #nattyliftsabroad, #fitness"
+  - username: "jonbyjonsam"
+    fullname: >-
+      Jonsam
+    bio: >-
+      Animals have my heart 🐾 “Of course it’s happening inside your head, but why on Earth should that mean it’s not real?”
+    location: "Singapore"
+    followers: 15865
+    engagement: 948
+    commentsToLikes: 0.022542
+    id: ck0w6auwr7ous0i19pqq0ci1c
+    verified: false
+    hashtags: "#adoptdontshop, #beachboy, #beachbody, #wkstempledogs"
+  - username: "paulgoor"
+    fullname: >-
+      Paul Gor 🇹🇼🇭🇰
+    bio: >-
+      Business: 61268850 Roy PTPro: 68263936 @rhinotec_sports_club athlete 折扣碼paulgor 2019 WNBF PRO SHOW 2nd🥈 2019 WNBF SG Overall 2019 IFBB NATURAL 3rd🏆
+    location: "Singapore"
+    followers: 69256
+    engagement: 162
+    commentsToLikes: 0.003476
+    id: ck5zroscbwzc10i145mmexlmw
+    verified: false
+    hashtags: "#wnbf, #bolawfamily, #gym, #paul"
 ---

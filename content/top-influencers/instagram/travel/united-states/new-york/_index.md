@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In New York In 2022
+title: Top 10 Travel Instagram Influencers In New York In 2023
 description: >-
-  Find top travel Instagram influencers in New York in 2022. Most popular hashtags: #travel #newyork #nyc #newyorkcity.
+  Find top travel Instagram influencers in New York in 2023. Most popular hashtags: #travel #newyork #nyc #newyorkcity.
 platform: Instagram
-hits: 1095
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 1095 Instagram influencers like this in New York, United States for you to connect with.
+hits: 1262
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 1262 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "bridgerschow_"
+  - username: "oh_anthonio"
     fullname: >-
-      Bridger | AMM 🦋
+      Anthony Urbano
     bio: >-
-      NYC 📍 Design • Gluten Free • Travel New York School of Interior Design Beauty & Social Media Mentor 🧖🏼‍♀️
+      proud 🇵🇭 • Style & Travel New York, NY 📧anthony@ohanthonio.com Check out my #hometour on @dominomag ⤵️
     location: "United States"
-    followers: 2790
-    engagement: 1293
-    commentsToLikes: 0.093309
-    id: ck6ua4hpe1fmx0j71o49871n4
+    followers: 81855
+    engagement: 180
+    commentsToLikes: 0.026602
+    id: ck14l2wheskr60i193kk6k48g
     verified: false
-    hashtags: "#homewithmapiful, #nofilter, #mapifulfamily"
-  - username: "arley_us"
+    hashtags: "#liketkit, #ltkmens, #iworkwithprimark, #pairedwithbombas"
+  - username: "setias11"
     fullname: >-
-      ⚛A R L E Y⚛ U G A L D E
+      Ronan Setias
     bio: >-
-      ⋙ T R A V E L • F A M I L Y • M U S I C ⋙ ⚐ 🇲🇽🇲🇽  F u t u r e • I n d u s t r i a l #engineer 💡 #fcbarcelona 💛💙 N e x t • p o s t 📸: #November 21
+      I ❤️ NY | lifestyle + travel New York
     location: "United States"
-    followers: 7966
-    engagement: 293
-    commentsToLikes: 0.062227
-    id: ckaoswwg8te030i78tk6ogd25
+    followers: 21382
+    engagement: 344
+    commentsToLikes: 0.020638
+    id: ck13c8k8lz47i0i19j1tmcxyj
     verified: false
-    hashtags: "#nyc, #mexico, #france, #europe"
+    hashtags: "#brooklynheights, #nyc, #friday"
+  - username: "duboviitz"
+    fullname: >-
+      Kseniia Dubovitz(Dubovitskaia)
+    bio: >-
+      for collaboration kseniiadubovitz@gmail.com creative producer actor model New York, NY • my showreel
+    location: "United States"
+    followers: 244854
+    engagement: 83
+    commentsToLikes: 0.020510
+    id: ck5hdw770pokz0i11poqn3gu6
+    verified: true
+    hashtags: "#travel, #newyork, #film, #ny"
+  - username: "newyorker"
+    fullname: >-
+      NewYorker🗽
+    bio: >-
+      From New York
+    location: "United States"
+    followers: 75721
+    engagement: 282
+    commentsToLikes: 0.022508
+    id: ck55l2hm90lhu0i115kx06ebk
+    verified: false
+    hashtags: "#city, #midtown, #brooklyn, #fitness"
+  - username: "nycitinerary"
+    fullname: >-
+      New York City
+    bio: >-
+      📍Showcasing NYC Landmarks and Businesses📍 📸 Photos with Credit 📸 📤DM for Promotions/Partnerships📥 Use #nycitinerary and TAG us to be featured!
+    location: "United States"
+    followers: 50789
+    engagement: 1178
+    commentsToLikes: 0.008073
+    id: ck0w6ipq38r3b0i19y22ydrfn
+    verified: false
+    hashtags: "#nycphoto, #nyc, #newyorkphoto, #nycitinerary"
+  - username: "et_in_nyc"
+    fullname: >-
+      Discovering New York!
+    bio: >-
+      🇺🇸 New York is a great city. Discover it through the eyes of a foreigner👽
+    location: "United States"
+    followers: 7542
+    engagement: 359
+    commentsToLikes: 0.040226
+    id: ck0vw2wipruxi0i19ebvok1vq
+    verified: false
+    hashtags: "#made, #travel, #newyorkview, #ny"
+  - username: "picture_of_newyork"
+    fullname: >-
+      new york City
+    bio: >-
+      ▶Follow 💗 @picture_of_newyork ▶Daily dose of nyc pictures ▶Daily updates, Tag for future 🥇@picture_of_newyork #picture_of_newyork
+    location: "United States"
+    followers: 43534
+    engagement: 128
+    commentsToLikes: 0.024374
+    id: ck8t4r21y7r6g0j78was1fhqj
+    verified: false
+    hashtags: "#newyorkfood, #america, #ny, #nycity"
   - username: "amandabukobza"
     fullname: >-
       𝙰𝚖𝚊𝚗𝚍𝚊 𝙱𝚞𝚔𝚘𝚋𝚣𝚊 𝚃𝚊𝚠𝚒𝚕
     bio: >-
       𝙶𝚕𝚘𝚋𝚎 𝚝𝚛𝚘𝚝𝚝𝚎𝚛 ✈️ 𝙼𝚊𝚔𝚎𝚞𝚙 𝚕𝚘𝚟𝚎𝚛💄 🔜 𝙱𝚊𝚕𝚒, 𝙽𝚎𝚠 𝚈𝚘𝚛𝚔 𝙵𝚘𝚛 𝚝𝚛𝚊𝚟𝚎𝚕 𝚙𝚊𝚛𝚝𝚗𝚎𝚛𝚜𝚑𝚒𝚙𝚜 𝙱𝚞𝚔𝚘𝚋𝚣𝚊@𝚊𝚘𝚕.𝚌𝚘𝚖
     location: "United States"
-    followers: 117429
-    engagement: 235
-    commentsToLikes: 0.056026
+    followers: 112299
+    engagement: 259
+    commentsToLikes: 0.046491
     id: ck15uvj8lophr0i19kk7l7ena
     verified: false
-    hashtags: "#flynyon, #bahamas, #exumabahamas, #santorinigreece"
-  - username: "ebonyanderberg"
+    hashtags: "#dolomites, #cappadociaballoon, #italy, #greece"
+  - username: "damaris.rizzi"
     fullname: >-
-      Ebony Anderberg
+      Dâmaris Rizzi Mação
     bio: >-
-      NYC📍 Founder of: @ebony_bootcamp ☀️ International model 📷 @majormodelsny @elitemiami @lemanagement @immmodels @uniquemodelsdenmark
+      · advogada · Vitória/ES · one thing I can tell you is you got to be free ·
     location: "United States"
-    followers: 36116
-    engagement: 216
-    commentsToLikes: 0.052184
-    id: ck15pwos100ce0i19jpiun0qx
+    followers: 5751
+    engagement: 896
+    commentsToLikes: 0.048576
+    id: ck8tb12xftwzr0j78kt25o1q2
     verified: false
-    hashtags: "#nyc, #happiness, #bikinilife, #fitnessjourney"
-  - username: "stevenlabrie"
+    hashtags: "#picoftheday, #brooklyn, #nyc, #advogada"
+  - username: "ssuppii"
     fullname: >-
-      Steven LaBrie
+      𝓢𝓾𝓹𝓱𝓪𝓷𝓲𝓭𝓪
     bio: >-
-      • opera singer 🎭 • fitness 🏋🏻‍♂️ 🇲🇽 🇺🇸
+      𝗧𝗿𝗮𝘃𝗲𝗹 • 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 • 𝗙𝗮𝘀𝗵𝗶𝗼𝗻 ❥ 26, Thailand 🇹🇭🇳🇴 ❥ NEW PAGE of my food recipes @suppis_recipes ❥ Owner @evaliahdesign ❥ Team @tights.no
     location: "United States"
-    followers: 6107
-    engagement: 540
-    commentsToLikes: 0.053841
-    id: ckaouijfa0f5c0i78tjypm35o
+    followers: 4185
+    engagement: 534
+    commentsToLikes: 0.053405
+    id: ck0uajnctcere0i19wvkakq2k
     verified: false
-    hashtags: "#mustache, #baritone, #pandemic, #friends"
-  - username: "julia_estonia"
-    fullname: >-
-      Julia
-    bio: >-
-      𝕄𝕪 𝕥𝕣𝕒𝕧𝕖𝕝 𝕒𝕟𝕕 𝕨𝕠𝕣𝕝𝕕 𝕒𝕖𝕤𝕥𝕖𝕥𝕚𝕔𝕤 💫 📍CT🇺🇸 🏡 Tallinn🇪🇪 🎓 @uni_mannheim🇩🇪 𝐿𝒾𝓋𝑒 𝓁𝒾𝒻𝑒 𝓉𝑜 𝓉𝒽𝑒 𝒻𝓊𝓁𝓁𝑒𝓈𝓉 𝒶𝓃𝒹 𝒻𝑜𝒸𝓊𝓈 𝑜𝓃 𝓅𝑜𝓈𝒾𝓉𝒾𝓋𝑒
-    location: "United States"
-    followers: 24754
-    engagement: 486
-    commentsToLikes: 0.064015
-    id: ck8ta4b3qqf680j78b1erplye
-    verified: false
-    hashtags: "#ctviews, #nycphoto, #explore, #fallviews"
-  - username: "stati.uniti.ontheroad"
-    fullname: >-
-      Stati Uniti On The Road | 🇺🇸🗽🌇
-    bio: >-
-      🇺🇸 USA On The Road 🇺🇸 seguici su Facebook! https://www.facebook.com/statiunitiamerica/
-    location: "United States"
-    followers: 13698
-    engagement: 1141
-    commentsToLikes: 0.010216
-    id: ck14l5exgsy240i198nyg5r1d
-    verified: false
-    hashtags: "#bhfyp, #florida, #autumn, #socal"
-  - username: "pirlo_fu"
-    fullname: >-
-      Pirlo Fu  伏 照 輝
-    bio: >-
-      I am a backpacker 🎒🗺⛺️💵 Photographer📷 Sneakers👟 📍SH 🇨🇳 | HK 🇭🇰 ｜SF,CA 🇺🇸 weibo: Pirlo_Fu小輝輝啊
-    location: "United States"
-    followers: 19377
-    engagement: 697
-    commentsToLikes: 0.006179
-    id: ckap17q9btevb0i78bsqwqfmu
-    verified: false
-    hashtags: "#photography, #travel, #newyork, #hondatyper"
-  - username: "mokshini"
-    fullname: >-
-      MOKSHINI
-    bio: >-
-      Professional doodler 🎨 ohhey@mokshini.com Repped by @weareillustrationx @onemanagement
-    location: "United States"
-    followers: 7740
-    engagement: 603
-    commentsToLikes: 0.058676
-    id: ck5cbnr09fthv0i11mp052kaw
-    verified: false
-    hashtags: "#friends, #newyork, #lovers, #coronadiaries"
-  - username: "residentpublications"
-    fullname: >-
-      Resident magazine
-    bio: >-
-      Embodying the aspirational lifestyle. Covering the best in Travel, Dining, Real Estate, Celebrity News, Fashion & Events from around the world.
-    location: "United States"
-    followers: 22947
-    engagement: 232
-    commentsToLikes: 0.002918
-    id: ck5znjwb8om100i14j4z0ya9f
-    verified: false
-    hashtags: "#hyattregencycoconutpoint, #crown, #vacation, #homes"
+    hashtags: "#happinessisthekey, #miamitravel, #reelsfashion, #california"
 ---

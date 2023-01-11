@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Switzerland In 2022
+title: Top 10 Makeup Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top makeup Instagram influencers in Switzerland in 2022. Most popular hashtags: #makeup #switzerland #love #makeupartist.
+  Find top makeup Instagram influencers in Switzerland in 2023. Most popular hashtags: #makeup #maccosmetics #makeupartist #love.
 platform: Instagram
-hits: 134
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 134 Instagram influencers like this in Switzerland for you to connect with.
+hits: 68
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 68 Instagram influencers like this in Switzerland for you to contact.
 profiles:
-  - username: "kellyclairemegan"
-    fullname: >-
-      Kelly
-    bio: >-
-      💄Makeup & Hair 🛥Marbella 12-05-2022 📩DM for appointments or write directly @salamonphoto for photoshoots!
-    location: "Switzerland"
-    followers: 9943
-    engagement: 861
-    commentsToLikes: 0.125963
-    id: ck0vv1cjtn3760i19g3wq5922
-    verified: false
-    hashtags: "#daylightphotography, #salamonphoto, #portrait, #chanelmakeup"
-  - username: "alisabellezza"
-    fullname: >-
-      Alisa🧚🏼‍♀️☘️
-    bio: >-
-      🇩🇪 🇮🇹 fashionlover👠👗😍 makeup artist🧚🏼‍♀️🎨confident.beautiful.connected💓
-    location: "Switzerland"
-    followers: 4573
-    engagement: 1243
-    commentsToLikes: 0.111161
-    id: ck0ubm6j2evyk0i197h8wb29p
-    verified: false
-    hashtags: "#sundayvibes, #ohbellaciao, #bellaciao, #mommysgirl"
   - username: "patricia.cori.na"
     fullname: >-
       𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
     bio: >-
       BEAUTY | CREATIVITY | FASHION Swiss Blogger - Content Creator 🇨🇭 Professional Makeup Artist Founder @daisysaccessoires Blog since 2012↓
     location: "Switzerland"
-    followers: 22029
-    engagement: 452
-    commentsToLikes: 0.034260
+    followers: 23172
+    engagement: 413
+    commentsToLikes: 0.133008
     id: ck5znr6vtp0550i14nyiskvyh
     verified: false
-    hashtags: "#swissbeautyblogger, #franziskaelea, #bloggerlife, #fleektureme"
+    hashtags: "#beautycreations, #muasofinstagram, #win, #verlosung"
   - username: "karinefahmyofficial"
     fullname: >-
       Karine Fahmy
     bio: >-
       🇪🇬 Miss Egypt 1998 📺 Tv presenter 👩‍🎨Degrees in Makeup/Permanent Makeup 🍏Involved in Fashion &Nutrition 👫A mom of 2🙏
     location: "Switzerland"
-    followers: 31527
-    engagement: 179
-    commentsToLikes: 0.047985
+    followers: 31751
+    engagement: 177
+    commentsToLikes: 0.070991
     id: ck15r4x0f660p0i19yb0oexh3
     verified: false
-    hashtags: "#love, #peace, #family, #blessings"
-  - username: "_artacha"
+    hashtags: "#mohamedramadan, #love, #happiness, #egypt"
+  - username: "alisabellezza"
     fullname: >-
-      𝖓 𝖆 𝖙 𝖆 𝖈 𝖍 𝖆 🖤
+      Alisa🧚🏼‍♀️☘️
     bio: >-
-      23 • Bern, CH • makeup artist • techno • R🧡 ••••••••••••••••••••••••••••••••••••••••••••••• ✉️ artacha.collab@gmx.ch
+      🇩🇪 🇮🇹 fashionlover👠👗😍 makeup artist🧚🏼‍♀️🎨confident.beautiful.connected💓
     location: "Switzerland"
-    followers: 11201
-    engagement: 529
-    commentsToLikes: 0.028079
-    id: ckf5wazsgrfzu0j23rbx27o44
+    followers: 4642
+    engagement: 1302
+    commentsToLikes: 0.093428
+    id: ck0ubm6j2evyk0i197h8wb29p
     verified: false
-    hashtags: "#bestfriends, #graphicliner, #betheonetogoforit, #danielwellington"
-  - username: "_marisaofficial_"
-    fullname: >-
-      Marisa Urbano🦋
-    bio: >-
-      Miss Fitness SNBF 2010 Makeup| Fashion| Fitness| Tanzen | Food| 🇧🇷 living in 🇨🇭 Collab ↘️📩marisaurbano@gmx.ch
-    location: "Switzerland"
-    followers: 16772
-    engagement: 177
-    commentsToLikes: 0.073224
-    id: ck5znr6gjp03w0i141vfumzjo
-    verified: false
-    hashtags: "#love, #smile, #makeup, #instadaily"
+    hashtags: "#mommysgirl, #tb, #cheers, #mood"
   - username: "amorrealbeauty"
     fullname: >-
       Melanie ✨
     bio: >-
       💄Makeup & Beauty Content 🌴German with peruvian roots 📍 Switzerland 💌 amorrealbeauty@hotmail.com or DM
     location: "Switzerland"
-    followers: 4659
-    engagement: 3272
-    commentsToLikes: 0.076681
+    followers: 4470
+    engagement: 797
+    commentsToLikes: 0.355898
     id: ck5hfog4lyhj10i11067kqkhc
     verified: false
-    hashtags: "#morphebabe, #morphebrushes, #blazin, #nyxcosmeticsch"
+    hashtags: "#blazin, #nudelip, #ofrahighlighter, #blueglitter"
   - username: "makeupbyesra"
     fullname: >-
       Esra Mermer
     bio: >-
-      💄Makeup Artist @maccosmetics 🌍Based in #switzerland 🇨🇭
+      💄Makeup Artist @maccosmetics 📷#MacCreator 🌍Based in #switzerland 🇨🇭 ...
     location: "Switzerland"
-    followers: 41923
-    engagement: 769
-    commentsToLikes: 0.013721
+    followers: 48115
+    engagement: 773
+    commentsToLikes: 0.012771
     id: ck0u0kpr2u4wd0i197bh3agnx
     verified: false
-    hashtags: "#switzerland, #deutschland, #schweiz, #macloveslips"
-  - username: "yana_granda"
+    hashtags: "#theartistedit, #schweiz, #maclipstick, #flawless"
+  - username: "mahabeautycare"
     fullname: >-
-      Навколосвітній візажист 🌎
+      Maha Maharajah - Pro Make up and Hair artist
     bio: >-
-      Traveler | Makeup | Brow artist | lifestyle Оргнізатор подорожей та гід в ⬇️ @its.your_trip ✈️ Курси: Makeup artist | Brow artist| For yourself Lviv
+      15+ yrs experience | Based in Switzerland🇨🇭 🔓BRIDAL DIARY OPEN FOR 2023 🚫DM - mahabeautycareswiss@gmail.com
     location: "Switzerland"
-    followers: 19973
-    engagement: 236
-    commentsToLikes: 0.034817
-    id: ckaowdiok8gfm0i78qegaci5s
+    followers: 39624
+    engagement: 732
+    commentsToLikes: 0.014930
+    id: ck5zihgcrfpi80i14a8f3gzvo
     verified: false
-    hashtags: "#yanagranda, #makeuplviv, #dixence, #switzerland"
-  - username: "rg_artmua"
+    hashtags: "#mommytobe, #tamilwedding, #baby, #pregnant"
+  - username: "crisa.filip"
     fullname: >-
-      RG Art
+      Crisa
     bio: >-
-      Attended @themasterclass in LA w/ @kimkardashian Certified by @makeupbymario Hair, Make-up & more
+      👩🏻‍⚕️ Medical student 4/6 💉 UMFCD 🎹 Pianist ☕Coffee lover
     location: "Switzerland"
-    followers: 5159
-    engagement: 304
-    commentsToLikes: 0.092455
-    id: ck5hmlc6mm6330i116t5uyluv
+    followers: 10183
+    engagement: 989
+    commentsToLikes: 0.348354
+    id: ck0vva1qro7lv0i196wolsd3n
     verified: false
-    hashtags: "#kkwbeauty, #maccosmetics, #makeup, #kkwxmario"
+    hashtags: "#medicalstudent, #sunsetlover, #springvibes, #romania"
+  - username: "slayedbyonik"
+    fullname: >-
+      Slayed by Onik
+    bio: >-
+      MAKE UP MASTER
+    location: "Switzerland"
+    followers: 32248
+    engagement: 2296
+    commentsToLikes: 0.025707
+    id: ck5hqxshutwz60i11sw68rrdm
+    verified: false
+    hashtags: "#mua, #makeupartist, #zurich, #makeup"
+  - username: "marieschoenmann"
+    fullname: >-
+      Marie Schönmann| Actress Model
+    bio: >-
+      International Model/Actress/⛸FigureSkater/🧜Swimmer📍🇨🇭 12yo ✝️ 🗣️🇫🇷🇬🇧🇩🇪 Agency @kidslondon @modamodakids @onetreeplanted ambassador Run by my parents
+    location: "Switzerland"
+    followers: 107425
+    engagement: 308
+    commentsToLikes: 0.048172
+    id: ck5bxdvbynjax0i11zxm24ise
+    verified: false
+    hashtags: "#purpledress, #bareface, #makeupfree, #blueeyedbeauty"
+  - username: "lacami.90"
+    fullname: >-
+      La Cami 🌈✨
+    bio: >-
+      📍 Switzerland based Next stop 🔜 Good mood Influencer 🎈 Ambassador @dakideas 🏔 forever young in love with @nick.caruso ♥️
+    location: "Switzerland"
+    followers: 21524
+    engagement: 276
+    commentsToLikes: 0.159627
+    id: ck137l3kbc35j0i1945y7sigo
+    verified: false
+    hashtags: "#couplegoals, #streetphotography, #traveldiary, #luganophotographer"
 ---

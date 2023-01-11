@@ -1,36 +1,48 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Tokyo In 2022
+title: Top 10 Lifestyle Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Tokyo in 2022. Most popular hashtags: #japan #tokyo #japantravel #visitjapan.
+  Find top lifestyle Instagram influencers in Tokyo in 2023. Most popular hashtags: #japanawaits #tokyo #japan #unknownjapan.
 platform: Instagram
-hits: 55
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat has 55 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 38
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 38 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
-  - username: "tokyotourguide"
+  - username: "tamura_shoko"
     fullname: >-
-      Tokyo tour guide 🇯🇵
+      田村翔子　Shoko Tamura
     bio: >-
-      I’m a private tour guide staying home, safe and positive like you! ☀️itineraries, city/nightlife tours soon 🇧🇷Português yoshidajei@gmail.com
+      株式会社ファウナ代表取締役社長 モデル puntolinea.jp所属
     location: "Japan"
-    followers: 23134
-    engagement: 272
-    commentsToLikes: 0.050326
-    id: ckap54n4qa6lj0i78oiqhz0ok
+    followers: 21942
+    engagement: 734
+    commentsToLikes: 0.039717
+    id: ckap757hiiohh0i78tsr03hx5
     verified: false
-    hashtags: "#nihongolesson, #lockdown2020, #healthylifestyle, #japaneseonlineclass"
+    hashtags: "#tokyolife, #winterfashion, #lifestyles, #tokyolifestyle"
+  - username: "ldhkitchen_official"
+    fullname: >-
+      LDH kitchen official
+    bio: >-
+      食事もエンタテインメント 日本の食文化を世界にも @ldhkitchen_official #LDHkitchen
+    location: "Japan"
+    followers: 124181
+    engagement: 179
+    commentsToLikes: 0.000874
+    id: ck0tuyfj1983o0i19ropyfsyo
+    verified: true
+    hashtags: "#ameco, #lifestyle, #tokyonakameguro, #osakasouthside"
   - username: "ippei.janine"
     fullname: >-
       Ippei & Janine Photography
     bio: >-
-      Japanese & Australian couple shooting portrait/outdoor lifestyle in Tokyo and beyond, and exploring off-the-beaten-path Japan with our 6yo girl. 日本語👌
+      🇯🇵&🇦🇺duo shooting portrait/outdoor lifestyle in Tokyo and beyond, exploring off-the-beaten-path Japan with our 6yo. 日本語👌📸 Sony Ambassador @SonyXperia
     location: "Japan"
-    followers: 5214
-    engagement: 721
-    commentsToLikes: 0.037932
+    followers: 5905
+    engagement: 530
+    commentsToLikes: 0.056857
     id: ck6ugrxn84t1d0j71t5hymu5w
     verified: false
-    hashtags: "#lookslikefilmkids, #japan, #okinawalife, #sonyzeiss50mmf14"
+    hashtags: "#djijapan, #lookslikefilmengagement, #tokyoportraitphotographer, #tokyolifestylephotographer"
   - username: "lightningjapan"
     fullname: >-
       LightningJapan
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.003854
     id: ck13cdyhzzvxs0i19y1e0ar6m
     verified: false
-    hashtags: "#lightningmagazine, #stayhome, #lightning, #stayathome"
-  - username: "tammychannn"
-    fullname: >-
-      tammy 𐡜꒢⁚
-    bio: >-
-      travel・photo・video edit・lifestyle protraveler tokyo〰️kochi 旅とカメラとライフスタイルのいろいろㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🎞 #tammy_film
-    location: "Japan"
-    followers: 63253
-    engagement: 112
-    commentsToLikes: 0.005852
-    id: ck5hihr75dk9b0i11jugit071
-    verified: false
-    hashtags: "#hokkaido, #tammy, #ana, #pr"
+    hashtags: "#lightningmagazine, #stayathome, #mook, #stayhome"
   - username: "ryohju"
     fullname: >-
-      🇯🇵Las Fotos de Tokio, Japón🇪🇸
+      🇯🇵Las Fotos de Tokio y otras
     bio: >-
       Check my photos before come to Tokyo!🗼👘🍣 にほん に くるまえに みてください🌸🍵 #tea #tokyo #japan #lifestyle
     location: "Japan"
-    followers: 2959
-    engagement: 1793
-    commentsToLikes: 0.028714
+    followers: 2976
+    engagement: 1454
+    commentsToLikes: 0.027819
     id: ckap36wyv1t7a0i78hso24ybe
     verified: false
-    hashtags: "#nightwalk, #thisisjapan, #night, #japonism"
-  - username: "tamura_shoko"
+    hashtags: "#beautifuljapan, #japonica, #culturajaponesa, #traveljapan"
+  - username: "hiroshige_narimiya"
     fullname: >-
-      田村翔子　Shoko Tamura
+      HiroshigeNarimiya
     bio: >-
-      モデル　自然療法家 puntolinea.jp所属 #ファッション#旅行#アンチエイジング
+      Webshop
     location: "Japan"
-    followers: 21067
-    engagement: 995
-    commentsToLikes: 0.046152
-    id: ckap757hiiohh0i78tsr03hx5
-    verified: false
-    hashtags: "#lifestyles, #autumnoutfit, #relaxingtime, #tokyolife"
-  - username: "tsubasa_h0215"
+    followers: 757495
+    engagement: 577
+    commentsToLikes: 0.010572
+    id: ckaotrismx6f40i78c4odxsh1
+    verified: true
+    hashtags: "#hopenecklace, #hnproduct, #thriver, #perfectdisaster"
+  - username: "moeoshikiri"
     fullname: >-
-      つーちゃん🌵🌞
+      Moe Oshikiri.   押切もえ
     bio: >-
-      🌈Japan/Tokyo travel／fashion／lifestyle デコログ❤️⤵︎
+      モデル・文筆家 お仕事のご依頼は所属事務所（株）pearl へお願いします。 Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
     location: "Japan"
-    followers: 45364
-    engagement: 108
-    commentsToLikes: 0.007394
-    id: ck8sy2k4yjicz0j78c9zq12h8
-    verified: false
-    hashtags: "#ootd, #disneyland, #fhasion, #shop"
-  - username: "katewigkeit"
+    followers: 109708
+    engagement: 174
+    commentsToLikes: 0.022739
+    id: ck0vzceq68ep60i19638qqorb
+    verified: true
+    hashtags: "#cosmetics, #flowers, #organic, #sawai"
+  - username: "kumikofunayama"
     fullname: >-
-      Katie in Tokyo💫Japan💫Travel
+      舟山久美子  くみっきー
     bio: >-
-      11+ years in Tokyo 👘🗼🌸 Travel | Lifestyle | Photography Japanologist🤓 Vladivostok, RU 🇷🇺 London, EN 🇬🇧 📍Tokyo, JP 🇯🇵日本語もok! Hawaii, US🌺🇺🇸
+      @micoameriofficial Producer fashion/make/lifestyle/work 骨格診断アナリストになりました♡ 日本化粧品検定一級 日本ダイエット検定インストラクター 強く美しくしなやかに🕊
     location: "Japan"
-    followers: 19878
-    engagement: 892
-    commentsToLikes: 0.100939
-    id: ck15rq1ij94d40i191zjn0a17
-    verified: false
-    hashtags: "#sunflowerfield, #shibuyasky, #sunflowers, #celosia"
-  - username: "mariko_jpn_531"
+    followers: 296058
+    engagement: 148
+    commentsToLikes: 0.012777
+    id: ck0w204u1lzmd0i19ibzepkrl
+    verified: true
+    hashtags: "#new, #micoameri, #spring, #girlsnight"
+  - username: "maripo_jp"
     fullname: >-
-      Mariko Nakagawa/中川 真理子🇯🇵
+      M A R I 🌐 神林真里
     bio: >-
-      💫︎Miss Supranational Japan 東東京代表💫 　∟1st runner up ☀︎ ヨガインストラクター｜📍Tokyo｜172cm 🥇MSJ関東大会grand prix 💠 Beauty Pageant Media model 2020
+      📍Based in Tokyo 🗣Japanese | English | Mandarin 🎖Ambassador: @odlo_japan @finc_app - #maripo_fitness - #maripo_beauty - #maripo_fashion
     location: "Japan"
-    followers: 10971
-    engagement: 1152
-    commentsToLikes: 0.010517
-    id: ck8t2ycl8164t0j782ru7na7h
+    followers: 29240
+    engagement: 178
+    commentsToLikes: 0.010545
+    id: ck14i2zyrddu80i19pfnkl5to
     verified: false
-    hashtags: "#love, #healthybeauty, #happy, #smile"
-  - username: "life_in_tokyo"
+    hashtags: "#skincaretips, #maripo, #168cm, #amazon"
+  - username: "golf_yoshimi"
     fullname: >-
-      Japan & SG ✨ Япония и Сингапур
+      yoshimi（よしし）
     bio: >-
-      🌈 Creating travel & Lifestyle magic 📍 Застряла в Сингапуре 🎌 Влюбила Инстаграм в Японию #lit_navi 👇🏼 И написала книгу, ставшую бестселлером
+      Golf / Fitness / Trip / Lifestyle ⛳️ 2years（❤️79 🤍82） 🌏 aichi → tokyo, japan 会社員とフリーランスモデルしております☺︎ ※お仕事依頼以外のDM/メールは対応できません🙏💦 　 ▼ TikTok♪
     location: "Japan"
-    followers: 419658
-    engagement: 303
-    commentsToLikes: 0.047753
-    id: ck0ty0zg2l5du0i19lkxdkhgs
+    followers: 48291
+    engagement: 411
+    commentsToLikes: 0.025055
+    id: ckf5ntckyzm8g0j23irayw85j
     verified: false
-    hashtags: ""
+    hashtags: "#love, #golfswing, #golflife, #nature"
 ---

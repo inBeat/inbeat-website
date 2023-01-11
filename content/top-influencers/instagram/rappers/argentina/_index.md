@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Argentina In 2022
+title: Top 10 Rappers Instagram Influencers In Argentina In 2023
 description: >-
-  Find top rappers Instagram influencers in Argentina in 2022. Most popular hashtags: #rapper #rap #freestyle #love.
+  Find top rappers Instagram influencers in Argentina in 2023. Most popular hashtags: #rap #rapper #trap #freestyle.
 platform: Instagram
-hits: 15
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 15 Instagram influencers like this in Argentina for you to work with.
+hits: 18
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 18 Instagram influencers like this in Argentina for you to work with.
 profiles:
+  - username: "emanero"
+    fullname: >-
+      Emanero
+    bio: >-
+      Rapper acá. Productor en @bigmonorec
+    location: "Argentina"
+    followers: 72305
+    engagement: 800
+    commentsToLikes: 0.034508
+    id: ck5cdes7aj1tp0i11d9emhtcu
+    verified: true
+    hashtags: "#acoustic, #pianocover, #piano, #acustico"
+  - username: "chocolateremix"
+    fullname: >-
+      Chocolate Remix
+    bio: >-
+      ⚡REGGAETON / RAP / PERREO / FUSION ⚡ Singer/Rapper & Songwriter 🏳️‍🌈 Producer, Beatmaker & DJ #DjChocomix Multifaceted Artist at #EstudioPluton
+    location: "Argentina"
+    followers: 26228
+    engagement: 365
+    commentsToLikes: 0.037210
+    id: ck5hjol91gzo00i11uojc3ozv
+    verified: false
+    hashtags: "#musicafeminista, #feminista, #tomboy, #turreo"
+  - username: "thesaaree"
+    fullname: >-
+      Sare 📸
+    bio: >-
+      Mi retina es una lente HD Canon • People • Onstage • Backstage Integrante de la #URDESIGNARMY 📷 Personal: @aka.sare Canal de YouTube👇🏻
+    location: "Argentina"
+    followers: 4161
+    engagement: 646
+    commentsToLikes: 0.058313
+    id: ck5cc8ch7gw9y0i11c4lpm88h
+    verified: false
+    hashtags: "#ballantinesmusic, #ballantinestrueconexion, #urbanroosters, #fmsespan"
   - username: "beedgvng"
     fullname: >-
       BEED G
     bio: >-
-      📍 BA, Argentina. Disponible en todas las plataformas digitales. @lealtadmusicinc
+      📍 BA, Argentina. Disponible en todas las plataformas digitales. FLIPEBOMB #1 OUT NOW 👇
     location: "Argentina"
-    followers: 18087
-    engagement: 267
-    commentsToLikes: 0.038061
+    followers: 17392
+    engagement: 210
+    commentsToLikes: 0.038510
     id: ckaoy8ai1gf6i0i78i5nwnjhx
     verified: false
-    hashtags: "#twitchtv, #mood, #art, #photographer"
+    hashtags: "#now, #latina, #rip, #beedg"
   - username: "frases__barderos"
     fullname: >-
       Bardero$ Frases
     bio: >-
-      💊💊Esto no es música, es droga 💊💊
+      💻💻" @alejo_parravichini " 💊💊Esto no es música, es droga 💊💊
     location: "Argentina"
-    followers: 7978
-    engagement: 1828
-    commentsToLikes: 0.001944
+    followers: 7545
+    engagement: 1760
+    commentsToLikes: 0.002632
     id: ckf5v383qn5ir0j23jcpayh8r
     verified: false
-    hashtags: "#mdbcrew, #cro, #chulumdb, #homerelmeromero"
+    hashtags: "#barderos, #rapper, #trapmusic, #escrito"
   - username: "frescolatemc"
     fullname: >-
       Frescolate
     bio: >-
-      #Rapero / #Compositor/ #Bboy 🏆Campeón mundial de @redbullbatalla 👉 Contrataciones @hernan_grey / @folouers.inc El Rap Vive en Mi Video
+      #Rapero / #Compositor/ #Bboy 🏆Primer Campeón mundial de @redbullbatalla Conductor de @sofreshok 👉 Contrataciones @hernan_grey / @folouers.inc
     location: "Argentina"
-    followers: 45330
-    engagement: 453
-    commentsToLikes: 0.059875
+    followers: 46004
+    engagement: 531
+    commentsToLikes: 0.038593
     id: ck5zrt41mx7ki0i142f11iwxl
     verified: false
-    hashtags: "#love, #bboy, #instavideo, #freestyle"
-  - username: "batallas321tiempo"
+    hashtags: "#freestyle, #rapper, #redbull, #flow"
+  - username: "clipper.jta"
     fullname: >-
-      Batallas321tiempo
+      CLIPPER •Josefina Tomás A
     bio: >-
-      Somos 👉Batallas321tiempo ⬇️ Donaciones Por PAYPAL ⬇️
+      Actríz, rapera. Host, conductora en @redbullbatalla 🇺🇾 Mgmt: clipper@cpmu.com.uy 🌱 🔥 Nos vemos en twitch? 🔥- ⬇️⬇️⬇️
     location: "Argentina"
-    followers: 186798
-    engagement: 268
-    commentsToLikes: 0.016335
-    id: ck8ta816pqsqz0j78e7fjtj99
+    followers: 30702
+    engagement: 378
+    commentsToLikes: 0.025291
+    id: ck5hg2skg0mow0i11d5emcxjw
     verified: false
-    hashtags: "#flow, #beats, #freestyle, #rap"
-  - username: "sidmsc"
-    fullname: >-
-      ᏚᏆᎠ ᏟᎪᏚᎢᎬᏞᏞᎪNᎾᏚ ᎪᏟᎬᏆ
-    bio: >-
-      𝔐𝔢𝔫𝔱𝔢 𝔖𝔲𝔠𝔦𝔞 ℭ𝔏𝔞𝔫🔥🎤 •Guadalajara, México🇲🇽 •Canal de YouTube ⤵️
-    location: "Argentina"
-    followers: 68480
-    engagement: 404
-    commentsToLikes: 0.008079
-    id: ckaov6guz39l60i78dgxwr8g6
-    verified: false
-    hashtags: "#artist, #rapstyle, #somososos, #clothesshopping"
-  - username: "sergiovisor_ph"
-    fullname: >-
-      Sergio Carabajal 📸
-    bio: >-
-      Fotógrafo en @damnhiphop Fotografía de Rap y Batallas de Freestyle. Parkour & Traceur. Skateboarding. Pero sobre todo... 📸 Nikonista 📸
-    location: "Argentina"
-    followers: 5410
-    engagement: 292
-    commentsToLikes: 0.042835
-    id: ck602xbd8jtu70i14qz3bcmjp
-    verified: false
-    hashtags: "#ig, #instaplane, #pilot, #winter"
+    hashtags: "#soundcloud, #rapera, #teamgalaxy, #rapuruguayo"
   - username: "londramystarr__"
     fullname: >-
-      ᴘᴀᴜʟᴏ ʟᴏɴᴅʀᴀ
+      
     bio: >-
-      [𝖺𝗉𝗈𝗒𝖺𝗋𝗍𝖾 𝗁𝗈𝗒 𝗒 𝗌𝗂𝖾𝗆𝗉𝗋𝖾 ] — 021119🏹 4♥️+1👀📲+💬x4 rtas. ━━━━━━━━━━ 𝑯𝑶𝑴𝑬𝑹𝑼𝑵 link ↴
+      📍|| 🇦🇷 |”𝐬𝐢𝐠𝐚𝐧 𝐬𝐮𝐬 𝐬𝐮𝐞𝐧̃𝐨𝐬 𝐥𝐨𝐬 𝐥𝐢𝐦𝐢𝐭𝐞𝐬 𝐬𝐞 𝐥𝐨𝐬 𝐩𝐨𝐧𝐞 𝐜𝐚𝐝𝐚 𝐮𝐧𝐨.”|
     location: "Argentina"
-    followers: 2443
-    engagement: 15361
-    commentsToLikes: 0.015405
+    followers: 3902
+    engagement: 12884
+    commentsToLikes: 0.010259
     id: ckaoyddorh1i00i78p07ipj9m
     verified: false
-    hashtags: "#rapper, #homeruntour, #liberenalleon, #londristas"
-  - username: "ninaventre"
+    hashtags: "#basketball, #homerun, #trueno, #free"
+  - username: "paulitoelking"
     fullname: >-
-      Nina
+      Cuenta  inactiva
     bio: >-
-      ULTIMO TEMA DISPONIBLE 👇🏻
+      Pueden encontrarme en @zaynmystar_ 15/01/19- 20/09/20 ✨ 18int.🥰 {8❤️+1✏️+1𝓭𝓶📥+5👀 }💗 •me subió a su historia•
     location: "Argentina"
-    followers: 13190
-    engagement: 1272
-    commentsToLikes: 0.082502
-    id: ckaovczjd424x0i78gn6n79v0
+    followers: 14281
+    engagement: 611
+    commentsToLikes: 0.019724
+    id: ck8tch38wzgb40j789ew8bozz
     verified: false
-    hashtags: "#hiphopartist, #indiehiphop, #recordingartist, #music"
-  - username: "ileanadigiorgio"
+    hashtags: "#homerun, #leonesconflow, #temoide, #paulolondra"
+  - username: "fuck.damo"
     fullname: >-
-      Ileana Di Giorgio
+      
     bio: >-
-      Instructora de Pole Dance.🤸🏻‍♀️ Directora de @_aerosport Argentina 🇦🇷🗺💙 - Wenn schon, denn schon -💕 🏋️‍♀️🍏fitness style🍏🏋️‍♀️ Todo llega. ⌛
+      
     location: "Argentina"
-    followers: 8363
-    engagement: 804
-    commentsToLikes: 0.154629
-    id: ck14k4jhcnoo10i194vxflwi0
+    followers: 6980
+    engagement: 698
+    commentsToLikes: 0.016558
+    id: ck8ta6l9hqmv90j78x37utb01
     verified: false
-    hashtags: "#crossfit, #fitgirl, #poletrick, #poledance"
-  - username: "nashy_nashai"
-    fullname: >-
-      Nashy-Nashai (Nahiara Muchico)
-    bio: >-
-      𝕭𝖑𝖆𝖓𝖈𝖆 𝕹𝖎𝖊𝖛𝖊𝖘 Cantante / Actriz • @elarrebato_ok 📍Cuenta secundaria @nashai_bro PENSANDOTE ⬇️⬇️⬇️
-    location: "Argentina"
-    followers: 5845
-    engagement: 1295
-    commentsToLikes: 0.099154
-    id: ck6u1vygbo7nk0j719dhbeiyq
-    verified: false
-    hashtags: "#flow, #urbano, #estilo, #modelo"
+    hashtags: "#traditionaltattoo, #tattoo, #knife, #blackworktattoo"
 ---

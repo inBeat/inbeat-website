@@ -1,24 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Norway In 2022
+title: Top 10 Yoga Instagram Influencers In Norway In 2023
 description: >-
-  Find top yoga Instagram influencers in Norway in 2022. Most popular hashtags: #yoga #balance #yogainspiration #yogaeverywhere.
+  Find top yoga Instagram influencers in Norway in 2023. Most popular hashtags: #yoga #love #norge #yoganorge.
 platform: Instagram
-hits: 34
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 34 Instagram influencers like this in Norway for you to collaborate.
+hits: 16
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 16 Instagram influencers like this in Norway for you to work with.
 profiles:
   - username: "yogakristine"
     fullname: >-
       Kristine Mikkelsen
     bio: >-
-      •Mom of 3 •Physical Therapist •Yoga Teacher & student Oslo, Norway
+      •Mother of 3 •Physical Therapist •Yoga Teacher (RYT 200, MediYoga, prenatal) Oslo, Norway
     location: "Norway"
-    followers: 8767
-    engagement: 925
-    commentsToLikes: 0.250161
+    followers: 8738
+    engagement: 714
+    commentsToLikes: 0.253550
     id: ck5zp2b4zruom0i14szyc61c3
     verified: false
-    hashtags: "#movingmeditation, #yogainspiration, #backbend, #yogatime"
+    hashtags: "#myyogapractice, #yogainspiration, #yogaselfpractice, #letsdoyoga"
+  - username: "yoga_kaja"
+    fullname: >-
+      ☾ YOGA KAJA ☼
+    bio: >-
+      Vegan Yoga Teacher & Artist अहिंसा Oslo, Norway
+    location: "Norway"
+    followers: 44098
+    engagement: 754
+    commentsToLikes: 0.053478
+    id: ck15uxx31p0xe0i196cdo7pn6
+    verified: false
+    hashtags: "#wheelpose, #urdhvadhanurasana, #yoganorge, #ichoosefriendly"
   - username: "typical.doctor"
     fullname: >-
       Patrycja J.
@@ -26,105 +38,93 @@ profiles:
       Medical Doctor in Norway 🩺 🇳🇴 Research🔬 Books 📚 Traveling 🛫 Yoga🙏🏻 Healthy lifestyle 🥦 Skiing ⛷ Hiking ⛰
     location: "Norway"
     followers: 6684
-    engagement: 964
-    commentsToLikes: 0.022930
+    engagement: 859
+    commentsToLikes: 0.021979
     id: ck8t1d2f5vavk0j78vrj3625b
     verified: false
-    hashtags: "#hike, #northnorway, #fall, #travelphotography"
-  - username: "yoga_kaja"
-    fullname: >-
-      ☾ YOGA KAJA ☼
-    bio: >-
-      Vegan Yoga Teacher & Artist अहिंसा Oslo, Norway
-    location: "Norway"
-    followers: 40459
-    engagement: 691
-    commentsToLikes: 0.056790
-    id: ck15uxx31p0xe0i196cdo7pn6
-    verified: false
-    hashtags: "#sugarbearhair, #justalittletip, #feetup, #extendedsideangle"
-  - username: "isabelstal.life"
-    fullname: >-
-      Isabel stål
-    bio: >-
-      Next Yoga retreat 15-17 Jan 2021 - Norway (see link👇) Yoga - Meditation teacher🧘‍♀️ Soul coaching sessions
-    location: "Norway"
-    followers: 10844
-    engagement: 379
-    commentsToLikes: 0.037335
-    id: ckaovdhs944qu0i78p3upq037
-    verified: false
-    hashtags: "#goinside, #trust, #beondillution, #spritualgrowth"
-  - username: "karins_medisin"
-    fullname: >-
-      Helse | Ernæring | Coaching
-    bio: >-
-      𝗔𝗻𝘁𝗶𝗶𝗻𝗳𝗹𝗮𝗺𝗺𝗮𝘁𝗼𝗿𝗶𝘀𝗸 𝗹𝗶𝘃𝘀𝘀𝘁𝗶𝗹 | 𝗩𝗲𝗶𝗹𝗲𝗱𝗲𝗿 𝗶 𝗳𝗿ø𝗯𝗮𝘀𝗲𝗿𝘁 𝗲𝗿𝗻æ𝗿𝗶𝗻𝗴 👩🏼‍⚕️ Sykepleier 🤓 Kostholdsveil. TunMed 🧘🏼‍♀️Emosjonell yoga, EFT, hypnoterapi og gestalt
-    location: "Norway"
-    followers: 6124
-    engagement: 943
-    commentsToLikes: 0.174857
-    id: ckap3w1644qhk0i78hniy844w
-    verified: false
-    hashtags: "#blomster, #suntoggodt, #sunnmat, #kosthold"
-  - username: "jeanettechristiansen"
-    fullname: >-
-      JEANETTE
-    bio: >-
-      💙Tobarnsmamma 🌿natur • yoga • balanse • mote 🌾Ambassadør for ✨@merkmini_navnelapper ✨@idealofsweden ✨@babyframes_ ✨@famme
-    location: "Norway"
-    followers: 5512
-    engagement: 1562
-    commentsToLikes: 0.516967
-    id: ck8t5epin9wcn0j783o6vvb3v
-    verified: false
-    hashtags: "#merkmini, #summer, #yogapose, #visitsandefjord"
+    hashtags: "#mountains, #hike, #julepynt, #weekend"
   - username: "francesca.golfetto"
     fullname: >-
       Francesca Golfetto
     bio: >-
-      YOGA TEACHER - Vinyasa Ashtanga 3rd series @lululemonnordics 🍋 Ambassador @vitaminwellnorge team @satsnorge @hiyoga_no
+      YOGA TEACHER - Vinyasa Ashtanga 3rd @lululemonnordics 🍋 Ambassador @vitaminwellnorge team @hiyoga_no @naardic Italiana 🇮🇹 in📍Oslo
     location: "Norway"
-    followers: 15246
-    engagement: 390
-    commentsToLikes: 0.055242
+    followers: 16973
+    engagement: 354
+    commentsToLikes: 0.062800
     id: ck5q5p6gmtwn10i11p93ag10i
     verified: false
-    hashtags: "#yoganorway, #flexibilitytraining, #yogapose, #portrait"
-  - username: "lindamor78"
-    fullname: >-
-      Linda B.Johansen | Norway 🇳🇴
-    bio: >-
-      🧘🏼‍♀️Y O G I 🌱N A T U R E L O V E R ❤️Mom of 4 💍Married ✉️lin.berg78@gmail.com
-    location: "Norway"
-    followers: 3484
-    engagement: 1136
-    commentsToLikes: 0.204133
-    id: ckf5mohxjurm80j232gqkz3l5
-    verified: false
-    hashtags: "#yogapose, #goodvibesonly, #yogapractice, #momdaughter"
-  - username: "aktivmamma"
-    fullname: >-
-      Cathrine 🇳🇴
-    bio: >-
-      •CF Athlete •Mom and wife @petterkmortvedt •Web coach👉🏻 @elitept.no •@dirt.norge - use Cathrine25 •@heartoflule- use cath20 for a discount
-    location: "Norway"
-    followers: 22787
-    engagement: 423
-    commentsToLikes: 0.062111
-    id: ck5q44os5nqso0i11w2n0z62s
-    verified: false
-    hashtags: "#healthy, #runners, #instagram, #workoutmotivation"
+    hashtags: "#movement, #yogaeverydamnday, #inversion, #hiyoga"
   - username: "teamstronger"
     fullname: >-
       Kristine & Simen | Acroyoga
     bio: >-
       💙 Idrettspedagoger med mål om å spre treningsglede 📍 Oslo, Norge 🧘🏽‍♀️ @kristinekjenne 🌱 Acroyoga, Styrke, Friluftsliv ✨ @abilica @maximnorge
     location: "Norway"
-    followers: 13815
-    engagement: 252
-    commentsToLikes: 0.051414
+    followers: 13716
+    engagement: 238
+    commentsToLikes: 0.050021
     id: ck0tzxg1iruzp0i19okfvo4oc
     verified: false
-    hashtags: "#yoga, #liveterbestute, #aktivhverdag, #hjemmetrening"
+    hashtags: "#partneryoga, #snowga, #acroyoga, #reklame"
+  - username: "sondre_berg"
+    fullname: >-
+      Sondre J.K  Berg
+    bio: >-
+      🌐 #MovementMade community 👋 Norwegian mover ⬇️ courses, classes and offers⬇️
+    location: "Norway"
+    followers: 109701
+    engagement: 600
+    commentsToLikes: 0.020471
+    id: ck0w25zl2mrv40i19q0cudmf3
+    verified: false
+    hashtags: "#gymnastics, #trening, #hspu, #circus"
+  - username: "odinmkalvo"
+    fullname: >-
+      Odin Kalvø
+    bio: >-
+      Norwegian gymnast 🇳🇴 🥇Nordic champion 2018 ⚡️ @barebells.nor & @vitaminwellnorge «HELT OK» on YouTube 🤟🏼
+    location: "Norway"
+    followers: 93918
+    engagement: 4199
+    commentsToLikes: 0.011604
+    id: ck55q98pbcdqw0i1160x4w9gl
+    verified: false
+    hashtags: "#calisthenics, #yoga, #hustle, #core"
+  - username: "_giadamassara_"
+    fullname: >-
+      Giada Massara
+    bio: >-
+      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
+    location: "Norway"
+    followers: 45472
+    engagement: 997
+    commentsToLikes: 0.071150
+    id: ck5hr9419uhac0i116ngq4l7x
+    verified: false
+    hashtags: "#studimediaset, #tacco12, #perledisaggezza, #mylife"
+  - username: "jeababe"
+    fullname: >-
+      Jeanett H Johnsen
+    bio: >-
+      🤍 @fredrikharaldseen 🇳🇴 👻 Jeanetthjohnsen
+    location: "Norway"
+    followers: 28249
+    engagement: 272
+    commentsToLikes: 0.035306
+    id: ckaozwi45npud0i78ucb0dedn
+    verified: false
+    hashtags: "#icaniwill, #instagood, #smile, #norwegiangirl"
+  - username: "anneinparadise"
+    fullname: >-
+      Anne in paradise🌴
+    bio: >-
+      ♡ A Norwegian sharing her favorite spots ☾ Plant based, nature & animal lover ☼Bruk «anneinparadise-20» for -20% på alle produkter fra Famme:
+    location: "Norway"
+    followers: 3265
+    engagement: 820
+    commentsToLikes: 0.049638
+    id: ck9h9ngdu96qn0j78vultgvm1
+    verified: false
+    hashtags: "#norsknatur, #beachbum, #sponsored, #paradise"
 ---

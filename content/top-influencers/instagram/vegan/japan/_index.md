@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Japan In 2022
+title: Top 10 Vegan Instagram Influencers In Japan In 2023
 description: >-
-  Find top vegan Instagram influencers in Japan in 2022. Most popular hashtags: #vegan #stayhome #pr #plantbased.
+  Find top vegan Instagram influencers in Japan in 2023. Most popular hashtags: #vegan #sdgs #plantbased #veganathlete.
 platform: Instagram
-hits: 68
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 68 Instagram influencers like this in Japan for you to connect with.
+hits: 64
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 64 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "whyte_shiori"
     fullname: >-
       中島潮里 Shiori Nakajima
     bio: >-
-      Vegan beauty salon & vegan cafe「whyte」 Hair stylist✂︎ サスティナブルアンバサダー🌍 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案します🌿 YouTube🔍潮里 #オーガニックコスメだけでメイク 考案者
+      Vegan beauty salon & vegancafe「whyte」 Hair stylist✂︎ サスティナブルアンバサダー🌍 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案します🌿 @whyte_mare.amo
     location: "Japan"
-    followers: 62819
-    engagement: 128
-    commentsToLikes: 0.001452
+    followers: 64324
+    engagement: 129
+    commentsToLikes: 0.000692
     id: ck15paft8wwc60i19jyal9jpm
     verified: false
-    hashtags: "#organic, #protectoceans, #vegansalon, #bob"
-  - username: "yo_onityan"
-    fullname: >-
-      Shredder27
-    bio: >-
-      All SNS Yo onityan @ernieball @swiss_picks Vegan for food DM for lesson,session,work,
-    location: "Japan"
-    followers: 39184
-    engagement: 306
-    commentsToLikes: 0.022750
-    id: ck55ky11r0cg10i11v5djmnbf
-    verified: false
-    hashtags: "#ernieball, #metalguy, #7string, #techdeath"
-  - username: "akicocoakicoco2"
-    fullname: >-
-      𝕒𝕜𝕚𝕔𝕠𝕔𝕠【笑顔になるごはん】
-    bio: >-
-      身体は食べるもので作られます #ベジモザイク弁当 考案 mod: @wp_deli_recipe @veganrecipes_vcook 認定シェフ amb: FoodieTable、FINC、LOCARI、moguna、オリひと、ヨムーノ、寺岡有機農場、かりん本舗… ☟クックパッド他
-    location: "Japan"
-    followers: 36789
-    engagement: 306
-    commentsToLikes: 0.002082
-    id: ck6ugkvw43mim0j71tojklfxa
-    verified: false
-    hashtags: "#wp, #vegan, #locari, #pr"
-  - username: "vegan.kurumi.shirakawa"
-    fullname: >-
-      くるみ
-    bio: >-
-      #ヴィーガン #くるみんのベジグルメ #vegan 🍨ヴィーガンアイスクリームブランド準備中 🌸小学生からベジタリアン→現在ヴィーガン 子供と動物と環境に優しい選択を。 🐷🐮🐔🐟🍯動物は食べません、着ません 👧🏻Girl's mom 🌏人生を変えた映画↓
-    location: "Japan"
-    followers: 93888
-    engagement: 108
-    commentsToLikes: 0.008565
-    id: ckaouww8p25yx0i78ky0w4jt1
-    verified: false
-    hashtags: "#vegan, #kyoto, #ecfalf, #becausethereisnoplanetb"
+    hashtags: "#vegan, #cosmekitchen, #veganbeauty, #bob"
   - username: "missatoooo"
     fullname: >-
       misato komatsubara
     bio: >-
-      ⛸ Japanese Icedancer 小松原美里 🇯🇵 2 times National Champion 🔮 Sports. Fashion. Art. Vegan 📍MTL. 岡山 🗣 🇯🇵🇺🇸🇮🇹 🎪Sponsor #筑波記念病院
+      ⛸ Japanese Icedancer 小松原美里 🇯🇵 3 times National Champion 🌱 Vegan Sponsored by #筑波記念病院 Official Ambassador of @dollynoire_japan
     location: "Japan"
-    followers: 9584
-    engagement: 673
-    commentsToLikes: 0.017376
+    followers: 11410
+    engagement: 1193
+    commentsToLikes: 0.020984
     id: ck6udkka8lmir0j71o0x7grvq
     verified: false
-    hashtags: "#icedance, #dance, #lumixgf10, #repost"
-  - username: "lina3336"
+    hashtags: "#icedance, #dreamgirls, #dollynoire, #teamkoko"
+  - username: "yo_onityan"
     fullname: >-
-      未来リナ（Lina Mirai）
+      Shredder27
     bio: >-
-      🇪🇸🇯🇵Spanish×Japanese 20's 📚My Book ☞ ＋LOVE 📝アメブロ ☞linahappy3 🎥YouTube☞未来リナ／Lina Mirai 🛒iHerb 10%OFFコード☞AEC5878 📩お仕事の依頼は下記ボタン“メール”まで 📚Vegan レシピBOOK↓
+      All SNS Yo onityan SNSは全部Yo onityan @ernieball @swiss_picks ダイレクトメッセージでレッスン仕事依頼、 DM for lesson,session,work vegan
     location: "Japan"
-    followers: 57180
-    engagement: 350
-    commentsToLikes: 0.008605
-    id: ck5hiffqyd8m40i11xotyhrqx
+    followers: 39333
+    engagement: 245
+    commentsToLikes: 0.021219
+    id: ck55ky11r0cg10i11v5djmnbf
     verified: false
-    hashtags: "#covid, #sendinglove, #secondhand, #outfit"
-  - username: "hp_haus"
+    hashtags: "#ibanez, #metal, #metalhead, #shredding"
+  - username: "akicocoakicoco2"
     fullname: >-
-      HP HAUS
+      𝒜𝓀𝒾𝒸𝑜𝒸𝑜【笑顔になるごはん】
     bio: >-
-      miniaturist based in Tokyo 2016年〜ミニチュアフード 2019年〜パンデッサン 2020年〜Happy Vegan🍋 プラントベースのモチーフをテーマにミニチュア制作 ↓ホームページから販売先やレッスンに行けます🥰
+       𝓌𝒾𝓉𝒽 𝒾𝒫𝒽𝑜𝓃𝑒  𝓂𝑜𝒹: @wp_deli_recipe @wp_deli_story @veganrecipes_vcook 認定シェフ 𝒶𝓂𝒷: FoodieTable、FINC、1883syrup、日本蒸留酒酒造組合西日本支部、タイガー魔法瓶、寺岡有機農場・醸造…𝑒𝓉𝒸
     location: "Japan"
-    followers: 33415
-    engagement: 361
-    commentsToLikes: 0.008896
-    id: ck8t21d31xv3q0j783753f0m3
+    followers: 39781
+    engagement: 222
+    commentsToLikes: 0.003162
+    id: ck6ugkvw43mim0j71tojklfxa
     verified: false
-    hashtags: "#pr, #miniaturefood, #clay, #minne"
+    hashtags: "#lunchbox, #pr, #brandcollaboration, #paidpartnership"
+  - username: "vegan.kurumi.shirakawa"
+    fullname: >-
+      白川くるみ
+    bio: >-
+      🍨PLANTALL inc. co_Founder @vegan.shojin.plantall 『世の中のアイスクリームのスタンダードをヴィーガンにする』 出身はKyotoの🦊⛩があるところです
+    location: "Japan"
+    followers: 93196
+    engagement: 82
+    commentsToLikes: 0.004523
+    id: ckaouww8p25yx0i78ky0w4jt1
+    verified: false
+    hashtags: "#kyoto, #veganicecream, #japan, #plantall"
+  - username: "marinoarco"
+    fullname: >-
+      イラストレーター/たむらあこ
+    bio: >-
+      🌿専売特許で犬猫お誕生日皿製作してます🎂 🌿保護猫支援してます／現在40回目🐈 🌿作品の無断転載・自身での複製は固くお断りします 🌿保護猫5犬2麗とマリア🌈のママ✨ 🌿現在オーダー受付ストップ中 🌏環境・動物愛護・健康を考えvegan修行中🔰 🐈ねこのきもちWEB MAGAZINEの記事📚
+    location: "Japan"
+    followers: 8106
+    engagement: 1020
+    commentsToLikes: 0.020581
+    id: ck137ovg8cmm70i193van61pe
+    verified: false
+    hashtags: "#lobor, #repost, #marna, #illustratorsoninstagram"
   - username: "satisforest"
     fullname: >-
-      Stefan Gerbl 🌿 Health Coach
+      Stefan Gerbl 🌿 Vegan Coach
     bio: >-
-      I help vegans to shred fat, build lean muscle and maximize their health & performance in a HOLISTIC way🔱 🌱💪🏻🧠⚡️👁💚 - 👇🏻APPLY FOR ONLINE-COACHING👇🏻
+      I help Vegans lose weight, build lean muscle & reclaim their Health/Performance (BODY&MINDSET) 🌱💪🏻🧠⚡️📈 . ↘️BECOME A FIT VEGAN↙️
     location: "Japan"
-    followers: 27197
-    engagement: 352
-    commentsToLikes: 0.032751
+    followers: 41636
+    engagement: 276
+    commentsToLikes: 0.032615
     id: ck136is8n6oua0i19uhbinil3
     verified: false
-    hashtags: "#spirit, #altruism, #workout, #veganfitness"
-  - username: "balancedlife.n.y"
+    hashtags: "#vegansofig, #vegantips, #veganpump, #plantbased"
+  - username: "meyou.mae"
     fullname: >-
-      Nats Y
+      Miyu 🦋Tokyo Vegan Girl みゆ
     bio: >-
-      Tokyo | Balanced & healthy eating, wine, cooking, running, pilates, travel... | Ambassador for asajikan.jp 朝美人アンバサダー 2020 | ぺっこにあ (pecco)
+      🪴 サステナブルライフクリエイター🕊 🌏 地球＆人＆動物、そして自分にも優しく。 🎥 YouTubeで社会問題解説&エコな生き方を発信中💡 👗 モデル／PRは、未来に残って欲しい物だけお受けしてます。 📝 気候変動 / SDGs / エシカルファッション / ヴィーガンコスメ…etc
     location: "Japan"
-    followers: 2765
-    engagement: 1450
-    commentsToLikes: 0.213028
-    id: ck5higew6ddla0i11lxs1l3pb
+    followers: 16238
+    engagement: 847
+    commentsToLikes: 0.018491
+    id: ck0txuox7kifh0i19d2ja2pxe
     verified: false
-    hashtags: "#eatclean, #glutenfree, #eatyourfruits, #plantbaseddiet"
-  - username: "kellymisawa"
+    hashtags: "#moodyport, #bravogreatphoto, #theworldofportraits, #tokyophotography"
+  - username: "latelier_del"
     fullname: >-
-      Kelly Misawa | Wellness
+      EL  エル
     bio: >-
-      🇯🇵 x 🇧🇷 ✧ Healthy Recipe Developer 📝 ✧Raw Food & Raw Dessert Chef / Raw Chocolatier👩🏻‍🍳🌱 ✧ 2019•2020 Ambassador @sanai_resort 👙 楽天ルーム⤵️
+      TRAVEL EAT FIT Founder CEO | Innsync Co. (株)インシンク 📷 photographer | stylist | art director 🌱 vegetarian athlete 👙 bikini competitor と、bikini屋さん
     location: "Japan"
-    followers: 64066
-    engagement: 265
-    commentsToLikes: 0.035191
-    id: ck55n669b5kgr0i112ceoz4ln
+    followers: 15080
+    engagement: 250
+    commentsToLikes: 0.044596
+    id: ckap8x5b4q9u50i78y8qj3eli
     verified: false
-    hashtags: "#upf50, #tokyo2020, #kellymisawa, #stayhealthy"
+    hashtags: "#foodstylist, #foodphotography, #forkfeed, #farmersmarket"
+  - username: "_springram_"
+    fullname: >-
+      𝐡𝐚𝐥𝐮⚜️
+    bio: >-
+      ミーハーで色んなもののぽたくしてます👨🏻‍🦲 ㅤㅤㅤㅤ DM中々返せませんごめんなさい(;_;)
+    location: "Japan"
+    followers: 13803
+    engagement: 111
+    commentsToLikes: 0.035218
+    id: ck15sbsd7c7o80i19xn4si7xm
+    verified: false
+    hashtags: "#vegancosmetics, #qoo10, #halu, #fff"
 ---

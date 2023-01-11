@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Japan In 2022
+title: Top 10 Health Instagram Influencers In Japan In 2023
 description: >-
-  Find top health Instagram influencers in Japan in 2022. Most popular hashtags: #fashion #ootd #pr.
+  Find top health Instagram influencers in Japan in 2023. Most popular hashtags: #fashion #instadaily #healthylifestyle.
 platform: Instagram
-hits: 205
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 205 Instagram influencers like this in Japan for you to connect with.
+hits: 173
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 173 Instagram influencers like this in Japan for you to collaborate.
 profiles:
+  - username: "gabrielasage"
+    fullname: >-
+      Gabby Sage Masuda
+    bio: >-
+      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
+    location: "Japan"
+    followers: 25194
+    engagement: 344
+    commentsToLikes: 0.029850
+    id: ck14jntl0lafx0i19ix71idmh
+    verified: false
+    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
   - username: "xobearhugs"
     fullname: >-
       🐻🌱🌸💕
     bio: >-
-      🌴 Currently in SoCal 🌴 ~ Made in Hawaii ~ ~ Healthy Living ~ ~ Japanese Hawaiian German ~
+      🌴 Currently in SoCal 🌴 ~ Made in Hawaii ~ ~ Healthy Living ~ ~ Japanese Chinese Hawaiian German ~
     location: "Japan"
-    followers: 124226
-    engagement: 1003
-    commentsToLikes: 0.023055
+    followers: 130293
+    engagement: 597
+    commentsToLikes: 0.034146
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
     hashtags: ""
+  - username: "taylor_lovee"
+    fullname: >-
+      TAYLOR LOVE |Love Inside & Out
+    bio: >-
+      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
+    location: "Japan"
+    followers: 117005
+    engagement: 204
+    commentsToLikes: 0.040832
+    id: ck0w2og84peih0i19iayfjkxx
+    verified: false
+    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
   - username: "kuuu.kumiko"
     fullname: >-
       Kumiko Suzuki  鈴木久美子
     bio: >-
-      #fashion#beauty#health #lifestyle#foods #naturalbeauty #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ☆Freelance model☆ 経歴…第8回美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
+      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
     location: "Japan"
-    followers: 39244
-    engagement: 321
-    commentsToLikes: 0.044874
+    followers: 41897
+    engagement: 316
+    commentsToLikes: 0.032118
     id: ckap4ky277r6y0i78yzmchql7
     verified: false
-    hashtags: "#fashion, #happybirthday, #yummy, #recommend"
-  - username: "xlindabaex"
-    fullname: >-
-      你的星際寶貝🌙雷達達
-    bio: >-
-      French & Japanese/ born in Taiwan. Healthy energy geek🥦🥕🤓 - 日法混血but台灣出生 在集體意識旅遊中🌙 物質世界阻礙雖大 卻不會改變我們是”一”的真相 🌍🧚‍♀️ - 只來地球玩一下下 倡導集體意識覺醒🧘🏾‍♀️ 你知道我愛你吧？ -
-    location: "Japan"
-    followers: 78157
-    engagement: 757
-    commentsToLikes: 0.007717
-    id: ckap3gdnl2wee0i785wpl4fj0
-    verified: true
-    hashtags: "#cb300r, #homeinktw, #suzukisaluto125, #garminrun"
-  - username: "winson.champa"
-    fullname: >-
-      Win Champ
-    bio: >-
-      Healthy living is my lifestyle 🏋🏻‍♂️
-    location: "Japan"
-    followers: 19095
-    engagement: 477
-    commentsToLikes: 0.015960
-    id: ckf5ocz591ron0j23zoxjikb3
-    verified: false
-    hashtags: "#loveyou, #lala, #thinking, #dalat"
-  - username: "moeoshikiri"
-    fullname: >-
-      Moe Oshikiri.   押切もえ
-    bio: >-
-      モデル 文筆家／pearl 所属　 Love…Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
-    location: "Japan"
-    followers: 110659
-    engagement: 163
-    commentsToLikes: 0.019560
-    id: ck0vzceq68ep60i19638qqorb
-    verified: true
-    hashtags: "#organic, #sustainablefashion, #cosmetics, #organiccotton"
+    hashtags: "#lifestyle, #fashion, #beautiful, #health"
   - username: "daianaanghel"
     fullname: >-
       DAIANA Anghel
     bio: >-
       • Communication & Brand Strategy • Skincare Advisor • Elle New Media Awards 2020 winner 🏆- Beauty & Health
     location: "Japan"
-    followers: 191958
-    engagement: 378
-    commentsToLikes: 0.005117
+    followers: 199705
+    engagement: 515
+    commentsToLikes: 0.006491
     id: ck5bzyq7ss3jf0i110q4wly88
     verified: false
-    hashtags: "#daianaxmissgrey, #ad, #daianaxmoogu, #goldjewelry"
+    hashtags: "#toplineromania, #ad, #makelifebetterathome, #skincarefirst"
+  - username: "moeoshikiri"
+    fullname: >-
+      Moe Oshikiri.   押切もえ
+    bio: >-
+      モデル・文筆家 お仕事のご依頼は所属事務所（株）pearl へお願いします。 Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
+    location: "Japan"
+    followers: 109708
+    engagement: 174
+    commentsToLikes: 0.022739
+    id: ck0vzceq68ep60i19638qqorb
+    verified: true
+    hashtags: "#cosmetics, #flowers, #organic, #sawai"
   - username: "at_hif_"
     fullname: >-
       athif
     bio: >-
       👉 Udupien 🌍 👉 favourite since 1 May 1999 🎂 👉 kabbadi 💪 👉 HSE - health safety environment 📚 👉 R15 lover 🏍 👉 I love my friends👬
     location: "Japan"
-    followers: 8022
-    engagement: 1576
-    commentsToLikes: 0.027683
+    followers: 7728
+    engagement: 1751
+    commentsToLikes: 0.022253
     id: ck9wgmuonu1zy0j78mw2xv9nz
     verified: false
-    hashtags: "#bikercommunity, #bikergram, #indianbikers, #motorranch"
-  - username: "yukonano"
-    fullname: >-
-      yuko  /®︎unたまにDJと🏔
-    bio: >-
-      🖤フル、ハーフ、10k etc 🖤引退後は美活中心にハシル🏃‍♀️ 🖤たまにDJたまにお山 🖤beauty &health &trip &photography #素敵な歳の重ね方 ambassador @kyotofinancier @39grammer @sloli_jp @aumo.jp
-    location: "Japan"
-    followers: 12886
-    engagement: 683
-    commentsToLikes: 0.000000
-    id: ck6tzekzf98r10j713bxzq7zd
-    verified: false
-    hashtags: "#aumo, #yukostyle, #okinawa, #trail"
+    hashtags: "#bikersofinstagram, #bikes, #bikesofinstagram, #karnatakabiker"
   - username: "risako_yamamoto"
     fullname: >-
       Risako Yamamoto
     bio: >-
       ♡my SLOHASHOLIC life♡ HEALTH ｜FASHION ｜ TRAVEL ｜ 👗rosy Monster 🌿Junior SUPERFOOD Meister my wellness life #SLOHASHOLIC
     location: "Japan"
-    followers: 40637
-    engagement: 181
-    commentsToLikes: 0.004314
+    followers: 41764
+    engagement: 194
+    commentsToLikes: 0.008978
     id: ck5zih3effott0i14z1x5m2x4
     verified: false
-    hashtags: "#rosymonster, #fashion, #beach, #coordinate"
+    hashtags: "#prada, #slohasholic, #rosymonster, #healthylifestyle"
   - username: "sweetpea_miki"
     fullname: >-
       フォトグラファー Miki❤大阪北摂Sweetpea
     bio: >-
-      【写真以上に、感動が溢れ出す】 あなたの魅力はそのままに、自然な表情を引き出します。 . . Photo／Travel／Yoga(RYT) Beauty＆Healthy Mental health care . . 💎インフルエンサー&企業アンバサダー Jetstar/FiNCなど10社 . .
+      【写真と発信で夢をサポートするフォトグラファー】 ・SNSで夢を叶える✨ ・好きを仕事に💕 . ＊インフルエンサー ＊アンバサダー（Jetstar/FiNCなど10社） . . Photo／Travel／Yoga(RYT) Beauty＆Healthy Mental health care . .
     location: "Japan"
-    followers: 54301
-    engagement: 149
-    commentsToLikes: 0.041905
+    followers: 63336
+    engagement: 154
+    commentsToLikes: 0.055446
     id: ck6tn4c7k93wn0j71adit9dij
     verified: false
-    hashtags: "#mesoceutical, #hyperguard, #onearts, #tokutamu"
+    hashtags: "#dw, #tokutamu, #exuviance, #2020"
+  - username: "mgmax_asameshimae"
+    fullname: >-
+      おめぐ🌟
+    bio: >-
+      ▶︎OL👩‍💼トレーニー/170cm training🌿yoga iHerb 割引コード【AAF5234】 朝トレ派🌞#training #ヨガ #朝活女子 HEALTH coach|お食事改善| @mrm_customize_personal
+    location: "Japan"
+    followers: 3482
+    engagement: 923
+    commentsToLikes: 0.021371
+    id: ck6ufcnrjw94r0j71ae55av1i
+    verified: false
+    hashtags: "#fitness, #iorimpia, #fwj, #amb1102meg"
 ---

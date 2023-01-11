@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Boston In 2022
+title: Top 10 Fashion Instagram Influencers In Boston In 2023
 description: >-
-  Find top fashion Instagram influencers in Boston in 2022. Most popular hashtags: #boston #fashion #style #love.
+  Find top fashion Instagram influencers in Boston in 2023. Most popular hashtags: #boston #fashion #beautiful #artist.
 platform: Instagram
-hits: 173
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 173 Instagram influencers like this in Boston, United States for you to collaborate.
+hits: 204
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 204 Instagram influencers like this in Boston, United States for you to connect with.
 profiles:
-  - username: "ameeralmaliki"
+  - username: "taydolashes"
     fullname: >-
-      Ameer Almaliki | امير المالكي
+      Taydolashes
     bio: >-
-      #Fashion | #Lifestyle | #Travel | #cars Boston, MA 📍 Let’s collaborate 👇 ameer.almalikii@gmali.com
+      Houston ✈️ Boston Full service stylist @yourwayistay Lash Tech and 1:1 Lash trainer I make custom machine wigs Worldwide shipping🌎
     location: "United States"
-    followers: 28279
-    engagement: 98
-    commentsToLikes: 0.108242
-    id: ck6ui46sscyn10j71hf4tjgfi
+    followers: 709
+    engagement: 3646
+    commentsToLikes: 0.032737
+    id: ck5ztawbk02dw0i145ou0gx4m
     verified: false
-    hashtags: "#mensfashion, #expresstogether, #sponsored, #boston"
-  - username: "catapap"
+    hashtags: "#silkpressqueen, #bostonsilkpress, #houstonsilkpress, #katywigs"
+  - username: "washyxxc"
     fullname: >-
-      Catalina Pérez de Armiñan
+      WASHY ⚡️
     bio: >-
-      Positivity, workouts, fashion, motivation, journalism & more! ✨ Motivation Mondays@ 10PMEST❤️ Daily Workouts@ 7PMEST💪🏼
+      Pharmaceutical Sales Consultant 🌆 Music Recording Artist 🌃 MA - @radiopushers 📍 Boston, MA 🇦🇲 🇪🇸♒️
     location: "United States"
-    followers: 17066
-    engagement: 122
-    commentsToLikes: 0.094639
-    id: ck9habckebw2u0j78plnsr86m
+    followers: 16851
+    engagement: 222
+    commentsToLikes: 0.208995
+    id: ck15qg8wg2oyn0i197e0qdtlj
     verified: false
-    hashtags: "#beauty, #fashion, #boston, #influencer"
+    hashtags: "#independentartist, #hotnewhiphop, #motivation, #buffalohiphop"
   - username: "shruti_babar9"
     fullname: >-
       Shruti Nayana Babar
     bio: >-
-      Fashion• Lifestyle•Makeup•travel ❤️ 📍Boston, MA Believeyourself 💌shrutibabar9@gmail.com
+      Fashion• Lifestyle•Makeup•travel ❤️ 📍Boston, MA 🇺🇸 Believeyourself 💌shrutibabar9@gmail.com ❤️ India 🇮🇳
     location: "United States"
-    followers: 53175
-    engagement: 336
-    commentsToLikes: 0.014170
+    followers: 62999
+    engagement: 171
+    commentsToLikes: 0.014150
     id: ck0w2l0o0ow490i194frz770a
     verified: false
-    hashtags: "#beautiful, #tbt, #naturephotography, #travelgram"
-  - username: "cherry.kayy"
+    hashtags: "#love, #sketch, #potraitmood, #instagood"
+  - username: "blindfoxart"
     fullname: >-
-      ☆KAY KAY☆
+      Ҍӏíղժ Ƒօ×
     bio: >-
-      Aspiring Actress/Model Email For Business Inquires Only ☆𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐌𝐚𝐬𝐬𝐚𝐜𝐡𝐮𝐬𝐞𝐭𝐭𝐬￼ 𝐁𝐨𝐬𝐭𝐨𝐧☆
+      ⱭɾԵÍՏԵ • 𝔐𝔲𝔰𝔢 • Nefelibata ✖️ 𝙰𝚕𝚕 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐𝚜 𝚊𝚗𝚍 𝚙𝚛𝚒𝚗𝚝𝚜✖️ BOSTON based, NYC and LA rooted ✖️ ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴀʀᴛɪsᴛ ✖️Sales@BlindFoxArt.com
     location: "United States"
-    followers: 6015
-    engagement: 903
-    commentsToLikes: 0.039428
-    id: ck8t283hoyhli0j787t4koxvf
+    followers: 18194
+    engagement: 524
+    commentsToLikes: 0.023564
+    id: ck5ztx91z1adr0i14rm2ji6dq
     verified: false
-    hashtags: "#explorepage, #addisonrae, #fashion, #boston"
-  - username: "milaphila"
+    hashtags: "#mural, #design, #bostonigers, #art"
+  - username: "ajaiwithaneye"
     fullname: >-
-      мιℓα | ᴛʜᴇ ʙᴏsᴛᴏɴ
+      Boston Photographer
     bio: >-
-      I’m the tootie beauty 📍 Ƥhιℓαdɛℓρhια 👗 7•31•2019 🕳 @miiggzz
+      A J A I Commercial•Portrait•Beauty•Fashion 📍 Boston | NY, DC, CHI, SF
     location: "United States"
-    followers: 5121
-    engagement: 997
-    commentsToLikes: 0.051364
-    id: ckaotme0mwhx90i78op2c5wgs
+    followers: 2782
+    engagement: 1902
+    commentsToLikes: 0.136362
+    id: ck6toq8oqfhjc0j71rcnghw09
     verified: false
-    hashtags: "#puppylove, #cutedog, #philly, #cutepuppy"
-  - username: "odieseyes"
-    fullname: >-
-      Odie
-    bio: >-
-      Angel Rescued, no-eyed Shih-Tzu therapy dog. Seeing the world in my own unique way. Love is blind.
-    location: "United States"
-    followers: 39367
-    engagement: 142
-    commentsToLikes: 0.043539
-    id: ck8sxxsddj22b0j7807qr8lkv
-    verified: false
-    hashtags: "#tripawd, #wagthevote2020, #alfie, #monday"
-  - username: "amanda_pflugrad"
-    fullname: >-
-      Amanda  Pflugrad
-    bio: >-
-      Host and Team Reporter for @celtics 🏀 Donate: https://www.gofundme.com/f/holiday-farm-fire-victims Rep: UTA / Oregon alum and former @oregoncheer
-    location: "United States"
-    followers: 26660
-    engagement: 372
-    commentsToLikes: 0.046485
-    id: ck0w73212bi9a0i19imuoaxw8
-    verified: true
-    hashtags: "#rivkafriedmanjewelry, #fergalicious, #femaleempowerment, #spooky"
-  - username: "billydeanthomas"
-    fullname: >-
-      Billy Dean Thomas
-    bio: >-
-      "The Queer B.I.G." I’m a Black wizard Grammy Nominated & Educated They Them Thank You Harlem Born Boston Bound
-    location: "United States"
-    followers: 2827
-    engagement: 1071
-    commentsToLikes: 0.153556
-    id: ck135up6e3bxb0i199gllqdyz
-    verified: false
-    hashtags: "#style, #queerartist, #hiphop, #bars"
+    hashtags: "#corona, #blackouttuesday, #vote, #neon"
   - username: "styledbyjeanne"
     fullname: >-
       Jeanne Curry Mooney
     bio: >-
       Boston Fashion Stylist with private client base. High end retail to shopping on a shoestring. Business Inquiries: styledbyjeanne@gmail.com
     location: "United States"
-    followers: 15692
-    engagement: 343
-    commentsToLikes: 0.441065
+    followers: 15595
+    engagement: 324
+    commentsToLikes: 0.424401
     id: ck5btac2iflxd0i11rfovlvjf
     verified: false
-    hashtags: "#ontrend, #styledbyjeanne, #casualchic, #makeastatement"
+    hashtags: "#easychic, #family, #ontrend, #leopard"
   - username: "alyssakstevens"
     fullname: >-
       Alyssa Stevens
     bio: >-
       Boston•Fashion•Food•Travel•Beauty ::PR + Social Media Director ::Blogger at The A-Lyst, a Boston-based lifestyle blog 💌alyssa@the-alyst.com
     location: "United States"
-    followers: 7068
-    engagement: 730
-    commentsToLikes: 0.077137
+    followers: 7762
+    engagement: 635
+    commentsToLikes: 0.108222
     id: ck0vy42r3253f0i198ybfafo9
     verified: false
-    hashtags: "#springstyle, #bostonhome, #bostonblogger, #bloom"
+    hashtags: "#floridalife, #palmbeachflorida, #floridastyle, #worthavenue"
+  - username: "thedcdarlings"
+    fullname: >-
+      katie + molly
+    bio: >-
+      best friend bloggers washington, dc // boston fashion • travel • lifestyle
+    location: "United States"
+    followers: 42703
+    engagement: 155
+    commentsToLikes: 0.064980
+    id: ck602d567h5wz0i14zi15cpg3
+    verified: false
+    hashtags: "#sundayscaries, #dunkinpartner, #thedcdarlings, #foxtrotmarket"
+  - username: "planejanedrag"
+    fullname: >-
+      Plane Jane
+    bio: >-
+      It’s Plane like airplanes ✈️ Профессиональная клоунесса👑 Home base: Boston Venmo: @ peanutbuttr
+    location: "United States"
+    followers: 3389
+    engagement: 1382
+    commentsToLikes: 0.075933
+    id: ck5cd31bkig800i11tjt1pxoh
+    verified: false
+    hashtags: "#meninmakeup, #rupaulsdragrace, #makeup, #welovequeens"
+  - username: "adrivasini"
+    fullname: >-
+      Adriana Vasini
+    bio: >-
+      •Former Beauty Queen👑🇻🇪🌎 •MD🩺 •Model• Represented by ExpectingModels for Maternity & Beyond | For bookings please contact: liza@expectingmodels.com
+    location: "United States"
+    followers: 35914
+    engagement: 739
+    commentsToLikes: 0.049290
+    id: ckaov4tk331zs0i78ljhqocd3
+    verified: false
+    hashtags: "#mypivopod, #tbt, #bostonblogger, #bostonlife"
 ---

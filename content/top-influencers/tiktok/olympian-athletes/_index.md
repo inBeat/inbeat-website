@@ -1,130 +1,130 @@
 ---
-title: Top 10 Olympian Athletes TikTok Influencers In 2022
+title: Top 10 Olympian Athletes TikTok Influencers In 2023
 description: >-
-  Find top olympian athletes TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #foryoupage #fitness.
+  Find top olympian athletes TikTok influencers in 2023. Most popular hashtags: #athlete #fitness #fyp #olympics.
 platform: TikTok
-hits: 10
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this for you to pitch.
+hits: 13
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "fastuniversity"
+  - username: "seventh_savage"
     fullname: >-
-      Fast University
+      SeventhSavage 
     bio: >-
-      🔬Learn the Science of FAST.
+      Christian John 14:6 Special Olympic Olympian 🏀🏃🏻🥎🏈🏐 Gamer 🎮
     location: "United States"
-    followers: 69700
-    engagement: 1203
-    commentsToLikes: 0.008873
-    id: ckbl45h8l1m7h0j23fpw7xvhd
+    followers: 16300
+    engagement: 849
+    commentsToLikes: 0.061353
+    id: ck8oxzj4w4vva0j78026izhpw
     verified: false
-    hashtags: "#trackandfield, #training, #trackgirls, #track"
-  - username: "streamlineathletes"
-    fullname: >-
-      streamlineathletes
-    bio: >-
-      We help t&f athletes get recruited to university 💥 Streamlineathletes.com💥
-    location: "Canada"
-    followers: 14300
-    engagement: 403
-    commentsToLikes: 0.029300
-    id: ckamnpino5qn40i78ofzvkdyg
-    verified: false
-    hashtags: "#hype, #usatf, #trackandfield, #fyp"
+    hashtags: "#christian, #gaming, #lightsaber, #single"
   - username: "sawanserasinghe"
     fullname: >-
       Sawan Serasinghe
     bio: >-
       🏅Olympian & Pro Badminton Player 🏸 I like to make Badminton Tutorials
     location: "Australia"
-    followers: 2906
-    engagement: 783
-    commentsToLikes: 0.014406
+    followers: 2899
+    engagement: 759
+    commentsToLikes: 0.014080
     id: ck976tsmg12fe0j78djw3x089
     verified: false
-    hashtags: "#athlete, #foryoupage, #sportchallenge, #badminton"
-  - username: "lekemba"
+    hashtags: "#sportchallenge, #badmintonskills, #athlete, #fyp"
+  - username: "melissaortiz5"
     fullname: >-
-      Parker
+      melissaortiz5
     bio: >-
-      Jesus changes everything! DM me to find out how :) 1 Corinthians 10:31 ✝️🏀🏈
+      FOLLOW my INSTAGRAM! ⬆️ Olympian 🇨🇴 ⚽️ former pro Co-Founder of ⬇️
     location: "United States"
-    followers: 413000
-    engagement: 851
-    commentsToLikes: 0.044559
-    id: ckc7mow6wt1bo0j2311fc8mi8
-    verified: false
-    hashtags: "#driverslicense, #states, #hoopers, #basketball"
-  - username: "stephenverba"
+    followers: 58700
+    engagement: 1451
+    commentsToLikes: 0.016656
+    id: ckbvyod5pvcee0j23rkn6513n
+    verified: true
+    hashtags: "#soccerlover, #soccertraining, #soccergirls, #soccerskills"
+  - username: "steele_johnson"
     fullname: >-
-      Stephen Verba
+      Steele Johnson
     bio: >-
-      Following back for 24 hours! Unfollowing people who aren’t active Free 💰 Below
-    location: ""
-    followers: 23800
-    engagement: 1946
-    commentsToLikes: 0.116652
-    id: ckb9gef0w5fg20j23vhke3ohl
-    verified: false
-    hashtags: "#meme, #realityshow, #youtube, #series"
-  - username: "rock_sfeir_official"
-    fullname: >-
-      rock_sfeir_official
-    bio: >-
-      🅣🅗🅔 🅡⭕️🅒🅚 🇱🇧LEBANON🇱🇧 PROFESSIONAL BODYBUILDING TRAINER
-    location: "Lebanon"
-    followers: 8349
-    engagement: 240
-    commentsToLikes: 0.000000
-    id: ck9rdbm7lx8pl0j78dv1evmvm
-    verified: false
-    hashtags: "#foryou, #muscle, #challenge, #follow"
-  - username: "swolephanie"
-    fullname: >-
-      Swolephanie
-    bio: >-
-      Instagram @Swolephanie USPA Junior 56kg Raw Ranked 14th in the world.
+      Olympic Silver Medalist
     location: "United States"
-    followers: 25700
-    engagement: 772
-    commentsToLikes: 0.017651
-    id: ckdt8a9q3twzd0j23sfvyscm5
+    followers: 238400
+    engagement: 1731
+    commentsToLikes: 0.017928
+    id: ck976uo221a1v0j78l70xg34c
+    verified: true
+    hashtags: "#olympian, #up, #diving, #satisfying"
+  - username: "quentin_pradelle"
+    fullname: >-
+      Quentin Pradelle
+    bio: >-
+      I live life, build companies, look for adventures, run & play 🏓 with ppl I <3
+    location: "Singapore"
+    followers: 15500
+    engagement: 968
+    commentsToLikes: 0.024948
+    id: ck977bqx83mmv0j78867c6u8k
     verified: false
-    hashtags: "#latina, #gym, #weightlifting, #fitness"
+    hashtags: "#pingpong, #france, #tenisdemesa, #paris"
+  - username: "olympics"
+    fullname: >-
+      Olympics
+    bio: >-
+      The Olympics, like never before
+    location: "Spain"
+    followers: 1200000
+    engagement: 1116
+    commentsToLikes: 0.010910
+    id: ck8s4x9nzdek20j78eeg5ji03
+    verified: true
+    hashtags: "#tokyo2020, #beijing2022, #strongertogether, #olympicscountdown"
+  - username: "teamdeutschland"
+    fullname: >-
+      Team Deutschland
+    bio: >-
+      🇩🇪 Lass dich von den #TeamD Athlet*innen verzaubern und inspirieren! ❤️
+    location: "Germany"
+    followers: 35200
+    engagement: 1153
+    commentsToLikes: 0.017174
+    id: ckdsryut7p6080j232a12iut6
+    verified: true
+    hashtags: "#wintersports, #olympics, #olympicscountdown, #biathlon"
+  - username: "rodriguechesnier"
+    fullname: >-
+      Rodriguechesnier
+    bio: >-
+      IFBBPRO MEN’S PHYSIQUE 🇫🇷 Top 10 MR.OLYMPIA 2020 ⭕️ IG : Rodriguechesnier
+    location: "United States"
+    followers: 55300
+    engagement: 514
+    commentsToLikes: 0.006010
+    id: ck8w1bc9i1ai50j78wgl2znjz
+    verified: false
+    hashtags: "#fitness, #workhard, #lifestyle, #mensphysique"
   - username: "justliftbro"
     fullname: >-
       Team DYEL Fitness
     bio: >-
       Kinesiology Master’s👨🏽‍🎓 Lifestyle & show prep coach 🏆 Coaching & Ebooks👇🏽
     location: "United States"
-    followers: 110800
-    engagement: 1138
-    commentsToLikes: 0.054399
+    followers: 136700
+    engagement: 1334
+    commentsToLikes: 0.040179
     id: ckb9myr7sghec0j23ohe68mq1
     verified: false
-    hashtags: "#bodybuilding, #weightloss, #fitnesstips, #gymlover"
+    hashtags: "#gymshark, #gymcheck, #fitnessfreak, #gymhumor"
   - username: "sandicheekspv"
     fullname: >-
       Sandicheeks
     bio: >-
-      Nike ✔️ Pole Vaulter Insta @sandicheekspv ‘16 Olympic Silver, ‘18 World Champ
+      Insta @sandicheekspv ‘16 Olympic Silver, ‘18 World Champ Eternally driven.
     location: "United States"
-    followers: 6624
-    engagement: 941
-    commentsToLikes: 0.017541
+    followers: 30500
+    engagement: 1197
+    commentsToLikes: 0.015432
     id: ckba9nwgl2hrx0j235tois0wl
     verified: false
-    hashtags: "#track, #fyp, #trackandfield, #strong"
-  - username: "indianhulkbadal"
-    fullname: >-
-      Indian hulk badal
-    bio: >-
-      Celebrity you tuber, Amateur Olympia, World champion, Mr. India
-    location: "India"
-    followers: 25700
-    engagement: 839
-    commentsToLikes: 0.027602
-    id: ckavr9d0634bi0j23gfkew44c
-    verified: false
-    hashtags: "#physco, #uttrakhand, #lockdown, #training"
+    hashtags: "#athletics, #trackandfield, #strongwomen, #fyp"
 ---

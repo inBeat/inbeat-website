@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In France In 2022
+title: Top 10 Bakers Instagram Influencers In France In 2023
 description: >-
-  Find top bakers Instagram influencers in France in 2022. Most popular hashtags: #baking #chocolate #cake #pastry.
+  Find top bakers Instagram influencers in France in 2023. Most popular hashtags: #foodphotography #cake #dessert #bakersofinstagram.
 platform: Instagram
-hits: 341
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 341 Instagram influencers like this in France for you to collaborate.
+hits: 370
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 370 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "jennycookies"
-    fullname: >-
-      Jenny Keller
-    bio: >-
-      Baker 👩🏼‍🍳 Author 🍪 Party Girl 🎂 SEEN ON: @todayshow @kellyclarksonshow BOOKS: Cookie Class & Eat More Dessert STOREFRONT: @jennycookiesbakeshop
-    location: "France"
-    followers: 127522
-    engagement: 205
-    commentsToLikes: 0.054865
-    id: ck0w3rn3eux7m0i194jrgfi2y
-    verified: true
-    hashtags: "#cookiesquad, #jennycookiesmetro, #ad, #cookiecamp"
   - username: "recueilgourmand"
     fullname: >-
       Mahmoud - Recueil Gourmand
     bio: >-
       🍰 Baker in soul 🍮 🍩Gourmand-love eating pastry 🎂 📑Moroccan Food Blogger✒ 📍Rabat ✉ recueilgourmand@gmail.com My blog:
     location: "France"
-    followers: 23882
-    engagement: 239
-    commentsToLikes: 0.046999
+    followers: 26938
+    engagement: 143
+    commentsToLikes: 0.030061
     id: ck8t5c6sd9lrz0j78a75vfzj2
     verified: false
-    hashtags: "#chocolatecake, #foodphotography, #stayathome, #patisseriefrancaise"
+    hashtags: "#dessertlover, #bakingfromscratch, #cakestagram, #icecreamlover"
+  - username: "cindykarmoko"
+    fullname: >-
+      CINDY KARMOKO
+    bio: >-
+      Big wardrobe 🧳🤣 👠, Beauty, Travel & Fragrance enthusiast ✈️ Home Baker👩🏻‍🍳 @swellrecipes ❤️ #oma🍑 #idressedtothrill #lidahcece
+    location: "France"
+    followers: 108165
+    engagement: 37
+    commentsToLikes: 0.061865
+    id: ck137q4rfct710i19fx80v9rf
+    verified: true
+    hashtags: "#makandireels, #viralfood, #idressedtothrill, #coachny"
+  - username: "mariapage"
+    fullname: >-
+      Maria Page (Panagiotidi)
+    bio: >-
+      UX researcher, street photographer, amateur baker... DM me if you want to buy prints. Mod: @streetphotographybrazil
+    location: "France"
+    followers: 20553
+    engagement: 526
+    commentsToLikes: 0.042145
+    id: ck0vyexu73n6l0i19botj55ew
+    verified: false
+    hashtags: "#thepictoriallist, #myfeatureshoot, #zonestreet, #bcncollective"
+  - username: "jennycookies"
+    fullname: >-
+      Jenny Keller
+    bio: >-
+      Baker. Author. Party Girl. SEEN ON: @todayshow @kellyclarksonshow BOOKS: Cookie Class & Eat More Dessert STOREFRONT: @jennycookiesbakeshop
+    location: "France"
+    followers: 133070
+    engagement: 165
+    commentsToLikes: 0.150042
+    id: ck0w3rn3eux7m0i194jrgfi2y
+    verified: true
+    hashtags: "#jennycookiesfavthings, #eatcookiesbemine, #cookiesquad, #eatcookiesbemerry"
   - username: "ataa__love_bb"
     fullname: >-
       Áťa Klápšťová
     bio: >-
       Biewers & Baking🐶🐾👩🏻‍🍳🧁 Cars, Cakes, Desserts & Books 🚘💕🍰🧁📖 Finalist baker @pececelazeme 🍰👩‍🍳🎂 brunette 🌸 24 y.o.
     location: "France"
-    followers: 9681
-    engagement: 973
-    commentsToLikes: 0.017704
+    followers: 10211
+    engagement: 856
+    commentsToLikes: 0.019464
     id: ckaott1ljxdzi0i78jlyhb0hq
     verified: false
-    hashtags: "#thanks, #czechrepublic, #brno, #gold"
-  - username: "scientifically.sweet"
+    hashtags: "#sweets, #instafood, #prague, #instadaily"
+  - username: "sforcakes"
     fullname: >-
-      Christina Marsigliese
+      S for Cakes
     bio: >-
-      👩‍🔬 Food Scientist MSc. • Baker • 3x Cookbook Author 🍫 *Chocoholic* 📚 NEW COOKBOOK OUT NOVEMBER 2020🎉 🍪 RECIPES⬇️ https://www.scientificallysweet.com
+      🙎🏻‍♀️Subha * 👨‍👩‍👧‍👦 Mom * Baker * 📷Content Creator *🎂Cake decorator #funwithfondant #cakedecorator #homebaker
     location: "France"
-    followers: 90157
-    engagement: 240
-    commentsToLikes: 0.017395
-    id: ck14imkb8g4wy0i19h03j21ha
+    followers: 3556
+    engagement: 569
+    commentsToLikes: 0.227848
+    id: ckap8xr1bqcfn0i78cpscquhv
     verified: false
-    hashtags: "#scientificallysweetchocolate, #foodblogfeed, #foodandwine, #thefeedfeed"
-  - username: "sophie__bakes"
+    hashtags: "#cakedecorating, #cakecakecake, #bayareabaker, #cakeporn"
+  - username: "baker.vp"
     fullname: >-
-      Sophie 👩‍🍳🇫🇷🇱🇧🇬🇧
+      Ryan Baker
     bio: >-
-      Baker | 29 yo | Mum×2 🍰Pâtisseries sur commande: #bakerysolb 📌 PARIS 19e 📽 Recettes en vidéo sur YouTube 👇
+      Somewhere in Dallas📍
     location: "France"
-    followers: 128162
-    engagement: 255
-    commentsToLikes: 0.029193
-    id: ck0tz2mpaoxgv0i19vsijpyro
+    followers: 4064
+    engagement: 744
+    commentsToLikes: 0.074156
+    id: ck135lhva1zzo0i19rqp1vcem
     verified: false
-    hashtags: "#patisserie, #sugarsolb, #foodvideo, #pastryvideo"
-  - username: "gontrancherrier"
+    hashtags: ""
+  - username: "lecoindupatissier"
     fullname: >-
-      Gontran Cherrier
+      Dorian Tudeau
     bio: >-
-      French Artisan Baker 🥐🚲🌍 Paris | Saint Germain | Buenos Aires | Yanji | Suzhou | Melbourne | Hong Kong| Taipei | Bangkok | Riyadh | Seoul
+      Partage de mon savoir faire ✨ 🎁Box de patisserie 100% Française🇫🇷 Qualité professionnelle ! 👨🏻‍🍳 ⬇️ Disponible juste ici ! ⬇️
     location: "France"
-    followers: 16691
-    engagement: 223
-    commentsToLikes: 0.024867
-    id: ck5zv7fzf3q0b0i14a7f974fb
+    followers: 106185
+    engagement: 251
+    commentsToLikes: 0.059165
+    id: ck5hse74swg5o0i11rq2tjkyk
     verified: false
-    hashtags: "#chocolat, #stayhome, #boulangerie, #beurre"
-  - username: "mikemassy"
+    hashtags: "#recette, #faitmain, #entremets, #patissier"
+  - username: "alicepages"
     fullname: >-
-      MIKE MASSY
+      Alice Pagès
     bio: >-
-      ◾Singer | Songwriter | FilmScore Composer ◾Actor | Theatre/Film Baker ◾Music/Record Producer ◾Vocal&Speech Coach @voicemattersworkshop ◾New Single 👇🏽
+      Plant based 🌿 Photographer, food stylist & food consultant. Lightroom Presets on sale
     location: "France"
-    followers: 29079
-    engagement: 139
-    commentsToLikes: 0.038020
-    id: ck14lefnqu9p30i19endk0eh0
-    verified: true
-    hashtags: "#naturephotography, #mannequin, #chansonfran, #usatour"
-  - username: "emily._baker"
-    fullname: >-
-      emily.
-    bio: >-
-      ✝︎ ☀︎ ☔︎ ♊︎ ☽ to see the good in each face & place. click the link below for #blm resources.
-    location: "France"
-    followers: 2473
-    engagement: 2195
-    commentsToLikes: 0.051862
-    id: ckf5nht5lybpd0j23u1qw4454
+    followers: 36309
+    engagement: 417
+    commentsToLikes: 0.043651
+    id: ck0ub1bn3dh720i1942zlxan5
     verified: false
-    hashtags: "#swipeforawink, #killbill, #halloweenie"
-  - username: "halicopteraway"
-    fullname: >-
-      Hali | Recipes & Travel
-    bio: >-
-      Hali’s home cafe ☕️💗 Bringing flavors from around the world 🌎 into your kitchen 🍴 See the world... eat the cake 🍰 ________ 🌁: #sanfrancisco ↓: blog
-    location: "France"
-    followers: 3056
-    engagement: 1620
-    commentsToLikes: 0.331500
-    id: ckaouoof317bf0i78cekdapwl
-    verified: false
-    hashtags: "#passionforbaking, #nytimescooking, #bakingaddiction, #bayareafoodie"
+    hashtags: "#brunchathome, #poweredbyplants, #vegancookies, #foodphotography"
   - username: "liliebakery"
     fullname: >-
       Aurélie Bresset | LilieBakery
     bio: >-
-      Photographer • Stylist • Recipe developer In love with fresh seasonal products 🍃 Bretagne (France) | Blog recettes :
+      📸 Food photographer & stylist (freelance) 📍Bretagne, France 🍃 Retrouvez + de 250 recettes sur mon blog :
     location: "France"
-    followers: 32975
-    engagement: 605
-    commentsToLikes: 0.038826
+    followers: 34822
+    engagement: 677
+    commentsToLikes: 0.039625
     id: ck5bz1i6aq9jm0i11lx4kiosq
     verified: false
-    hashtags: "#thefeedfeed, #dansmacuisine, #miam, #foodphotographer"
+    hashtags: "#instabake, #patisserie, #foodblogfeed, #hautecuisines"
 ---

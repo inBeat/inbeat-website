@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In India In 2022
+title: Top 10 Cinema Instagram Influencers In India In 2023
 description: >-
-  Find top cinema Instagram influencers in India in 2022. Most popular hashtags: #photography #instagood #india #picoftheday.
+  Find top cinema Instagram influencers in India in 2023. Most popular hashtags: #love #india #photography.
 platform: Instagram
-hits: 909
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 909 Instagram influencers like this in India for you to connect with.
+hits: 704
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 704 Instagram influencers like this in India for you to pitch.
 profiles:
   - username: "lynncinema"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.015809
     id: ck13440czulad0i19xnj7a4yv
     verified: false
-    hashtags: "#setlife, #spiritedaway, #redweapon, #animeart"
-  - username: "chalta_firtaa"
+    hashtags: "#redweapon, #arri, #arrialexamini, #steadicam"
+  - username: "imshrihan"
     fullname: >-
-      Chetan S Uike | NAGPUR📍
+      Shrihan
     bio: >-
-      🛩️ Aerial Photographer | Cinematographer 🌎 Your world, My Perspective 📸 DM For Collabs & Paid shoots 📩 Chetanuk6@gmail.com 🎥 @uikefilms7
+      Na gamyam cinema Respect Women #BB6👁PEOPLE’s Winner shrihanactor@gmail.com Fan of NTR & SURIYA😍 Oct-19🍼
     location: "India"
-    followers: 8051
-    engagement: 2076
-    commentsToLikes: 0.112352
-    id: ck55lg1m01hdb0i11s28r5jew
+    followers: 382629
+    engagement: 2593
+    commentsToLikes: 0.004247
+    id: ck5cch9u8hcwq0i11y585smzz
     verified: false
-    hashtags: "#moodygrams, #shwetamalhotra03, #shotongopro, #kaminekalakar"
+    hashtags: "#voteforshrihan, #bbflashback, #wearewithyoushrihan, #supportshrihan"
+  - username: "shaikhtahir_"
+    fullname: >-
+      ST 🇮🇳
+    bio: >-
+      • Fashion & lifestyle • Photographer . • Cinematic work / Editor • DM/ Mail for collaboration & promotion • shaikhtahir1818@gmail.com📩 • Mumbai 📍
+    location: "India"
+    followers: 137062
+    engagement: 1583
+    commentsToLikes: 0.040571
+    id: ck9wp69oj7zka0j78jossaq5m
+    verified: false
+    hashtags: "#moneyheist, #pushpa, #junkyard, #professor"
   - username: "ashkan.hoorsun"
     fullname: >-
       اشكان هورسان🌀ASHKAN HOORSUN
     bio: >-
       #اشكان_هورسان Actor In Cinema,Tv&Teather Production Manager&Casting In Short Film جنگ،جنگ تا پيروزي؛حتي اگر سنگ هم از آسمان ببارد💪💪
     location: "India"
-    followers: 11649
-    engagement: 1329
-    commentsToLikes: 0.049786
+    followers: 12130
+    engagement: 1476
+    commentsToLikes: 0.060208
     id: ck60246cfgpcd0i145yia2tp7
     verified: false
-    hashtags: "#trophy, #cultfilm"
-  - username: "sabaizadpanah"
+    hashtags: ""
+  - username: "pearlvpuri"
     fullname: >-
-      Saba Izadpanah | صبآ ایزدپناه
+      Pearl V Puri
     bio: >-
-      Tehran University of Art #Artist #actress #theatre #Researcher #cinema
+      http://bit.ly/TeriAankhonMein Actor • Singer • Lyricist • Composer • Photographer • Cinematographer
     location: "India"
-    followers: 15307
-    engagement: 799
-    commentsToLikes: 0.062487
-    id: ck9wixl4j4dbq0j78oqe1d438
-    verified: false
-    hashtags: "#art, #artist, #theatre, #cinema"
-  - username: "wonder_kid__"
+    followers: 2576320
+    engagement: 637
+    commentsToLikes: 0.013668
+    id: ck1369yrd5h5q0i19vea9lqde
+    verified: true
+    hashtags: "#live, #sunshine, #life, #love"
+  - username: "argyris_pandazaras"
     fullname: >-
-      ani mathew _ant of idukki
+      Argyris Pandazaras
     bio: >-
-      ഞാൻ ഇങ്ങനാണ് ഭായി!! Jesus said chill and I follow that 🤘 @de_roadrunners Idukkikkaran Kochi Uyir cinema 🎥 Biker Dreamer Party psy Fitnessfreak
+      Actor / Director / Coach / National Theatre Drama School Theatre | Cinema | Television @momentum_theatre
     location: "India"
-    followers: 4909
-    engagement: 2007
-    commentsToLikes: 0.058044
-    id: ckaoxiqdsdg120i78hmmxok3t
+    followers: 51887
+    engagement: 1674
+    commentsToLikes: 0.065907
+    id: ckf5ng0q2y3tn0j23ui2dx16b
     verified: false
-    hashtags: "#photography, #malayali, #sportsbike, #duke200"
-  - username: "miss_su_tales"
-    fullname: >-
-      Suvarna Benny
-    bio: >-
-      @key_a97 ✍️ Media Student📺🎥 Cinema💕 Music💕 Dance💕 Literature💕 Journalism💕 Nov 16🎂🥂
-    location: "India"
-    followers: 5885
-    engagement: 1064
-    commentsToLikes: 0.080377
-    id: ckap71zadialm0i78k96guz1r
-    verified: false
-    hashtags: "#art, #zodiacsigns, #photography, #relaxing"
-  - username: "baka_pml"
-    fullname: >-
-      Bakhshish Singh | BAKA
-    bio: >-
-      🔻@prismmedialab 🎥 Cinematographer/Editor 👔 Entrepreneur 📽 Check Our Work ⬇
-    location: "India"
-    followers: 5283
-    engagement: 988
-    commentsToLikes: 0.078248
-    id: ck6tte67ba4di0j713lrfszbb
-    verified: false
-    hashtags: "#cinematographer, #streetstyle, #toronto, #pmltravels"
+    hashtags: "#setdisign, #nnathens, #actor, #interview"
   - username: "vink.photography"
     fullname: >-
       Vinay Kumar
     bio: >-
-      A Seller of Vintage Moods. And Cinematic Reels. #Wevinked . Creative Visionary and Founder @KodeBlackCreative . Youtube channel at the link below ⬇️
+      A Seller of Vintage Moods. And Cinematic Reels. #Wevinked . Creative Visionary and Founder @KodeBlackCreative . Check out my latest Youtube Video ⬇️
     location: "India"
-    followers: 23257
-    engagement: 568
-    commentsToLikes: 0.033205
+    followers: 27371
+    engagement: 531
+    commentsToLikes: 0.022028
     id: ck14ih0j7fcpm0i197d3o1v3g
     verified: false
-    hashtags: "#quarantineshoot, #blackandwhiteart, #cinematiclook, #keepkillingit"
-  - username: "lavin_7513"
+    hashtags: "#aestheticphotography, #fujix100f, #fujiframez, #bnwdrama"
+  - username: "biryanimasala"
     fullname: >-
-      Lavin
+      Kunal
     bio: >-
-      📢 Actor | Public Figure | Traveller , Cinema , Moviegeek !!!
+      Photographer, Cinematographer & Creative Director 📍Based in Mumbai, India Contact: kunal@biryanimasala.in or DM www.behance.com/biryanimasala
     location: "India"
-    followers: 41536
-    engagement: 413
-    commentsToLikes: 0.032762
-    id: ck0udvhwijwp90i19k5315n69
+    followers: 11242
+    engagement: 636
+    commentsToLikes: 0.070164
+    id: ck0ucof1phbt70i19kdcaj7gg
     verified: false
-    hashtags: "#actor, #actorslife, #quarantineandchill, #picoftheday"
-  - username: "samirahasanpur"
+    hashtags: "#fujifilmxs10, #phonephotography, #thisweekoninstagram, #india"
+  - username: "wonder_kid__"
     fullname: >-
-      Samira Hasanpour
+      ani mathew_ വന്യമായിരിക്കുക!
     bio: >-
-      Actor in cinema, television and theater
+      ഞാൻ ഇങ്ങനാണ് ഭായി!! Jesus said chill and I follow that Philippians4:13 @de_roadrunners Idukkikkaran Kochi love ➡ cinema Biker Partypsy Fitnessfreak
     location: "India"
-    followers: 266961
-    engagement: 328
-    commentsToLikes: 0.020791
-    id: ck0w7aaencjix0i19mlyhpqg9
+    followers: 4458
+    engagement: 1864
+    commentsToLikes: 0.054319
+    id: ckaoxiqdsdg120i78hmmxok3t
     verified: false
-    hashtags: "#actress, #hbd, #saman, #samirahasanpour"
+    hashtags: "#keralagallery, #motolife, #trip, #bikelife"
+  - username: "__ananyamishra__"
+    fullname: >-
+      𝑨𝒏𝒂𝒏𝒚𝒂 𝑴𝒊𝒔𝒉𝒓𝒂
+    bio: >-
+      Cinema Is The Most Beautiful Fraud 🎭 @ananyamishraproductions
+    location: "India"
+    followers: 32476
+    engagement: 1206
+    commentsToLikes: 0.021754
+    id: ck6u410sg121y0j7134n1a4kh
+    verified: false
+    hashtags: "#odishadiaries, #odishagirl, #photography, #manalidiaries"
 ---

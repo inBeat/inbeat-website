@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Miami In 2022
+title: Top 10 Gaming Instagram Influencers In Miami In 2023
 description: >-
-  Find top gaming Instagram influencers in Miami in 2022. Most popular hashtags: #miami #travel #gaming.
+  Find top gaming Instagram influencers in Miami in 2023. Most popular hashtags: #miami #gaming #videogames.
 platform: Instagram
-hits: 22
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 22 Instagram influencers like this in Miami, United States for you to connect with.
+hits: 24
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "branden.vasquez"
+  - username: "sgogaming"
     fullname: >-
-      Branden Vasquez Fit
+      
     bio: >-
-      Fort Worth, Tx @staunch.nation Athlete🐨 @pumpchasers Athlete @bvfit_apparel Owner Code BvFit For all sponsors Online Coach
+      Use #sgoontherise to get noticed members/affiliated followed gaming /organization #miami
     location: "United States"
-    followers: 75351
-    engagement: 394
-    commentsToLikes: 0.017904
-    id: ck135b33q0lvy0i19xf5m4zxv
+    followers: 71
+    engagement: 279149
+    commentsToLikes: 0.064416
+    id: ck15po7xgyub70i198c767nk7
     verified: false
-    hashtags: "#bvfit, #gym, #physique, #sunday"
-  - username: "timemachinegaming"
+    hashtags: "#sgoontherise"
+  - username: "jsgcosplay"
     fullname: >-
-      Time Machine Gaming
+      
     bio: >-
-      💾 #RetroGaming 🕹 Reliving the past through gaming! 👾 Affiliate on @twitch 📍 Miami, FL 🌴
+      Cosplay - Fitness - Streamer - Funko POPS - Highly Caffeinated 🐦 Twitter - @jsgcosplay 🎧 Twitch - Jsgcosplay
     location: "United States"
-    followers: 19761
-    engagement: 652
-    commentsToLikes: 0.030654
-    id: ck13cd8f6zs780i19sv4mxk7n
+    followers: 47384
+    engagement: 150
+    commentsToLikes: 0.024597
+    id: ck5zpx3bwtipr0i14hx6u0w3v
     verified: false
-    hashtags: "#tomorrowisinyourhands, #n64dd, #kakarot, #mar10"
-  - username: "misss.official"
+    hashtags: "#305, #razergaming, #razer, #twitchstreamer"
+  - username: "hypedstreets"
     fullname: >-
-      ɥɐʎıɐsssıW 主世救
+      HYPEDSTREETS ®
     bio: >-
-      “I Like You” in stores now! Link below. Singer|Dancer|Beats|Art|Gaming|Photo|Video Finite Incantatem... ∞✨ Miami 🌴 🇹🇹🇦🇬🇬🇧🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪🇻🇪🇲🇱🇨🇮...+
+      Best and latest Clothes, Sneakers and Lifestyle posts. Personal : @thehypedkid DM for Business 📩
     location: "United States"
-    followers: 85771
-    engagement: 191
-    commentsToLikes: 0.014487
-    id: ck8tabg6xr3o30j78volznr7b
+    followers: 341648
+    engagement: 72
+    commentsToLikes: 0.004719
+    id: ckaor326jlilk0i78ocvrnrun
     verified: false
-    hashtags: "#newmusic, #comingsoon, #dontbreakyourheart, #newtrack"
+    hashtags: "#nike, #travisscott, #hypedstreets, #womenswear"
   - username: "joblessgarrett"
     fullname: >-
       Garrett
     bio: >-
-      You just gotta learn to live and love on. Business: JoblessGamers@gmail.com 🔥Miami🔥 Your Favorite Youtuber & Streamer. All my Links and Socials:
+      Your Favorite Youtuber & Streamer. 🔥 Miami🔥 Business: JoblessGamers@gmail.com All my Links and Socials:
     location: "United States"
-    followers: 292628
-    engagement: 172
-    commentsToLikes: 0.019299
+    followers: 290601
+    engagement: 162
+    commentsToLikes: 0.015719
     id: ck9hcuetrn0q00j789qeori81
     verified: false
-    hashtags: "#youtube, #gamingwithgarry, #hawaii, #gaming"
-  - username: "nikki_murci"
+    hashtags: "#family, #gaming, #happy, #goals"
+  - username: "trevor312"
     fullname: >-
-      Nikki (she/her)
+      Trevor Silver
     bio: >-
-      Hi, all my stories are my dog. Miami ➡️ Houston Select Models Global @celsiusofficial
+      🏝 Miami, Florida 📊 Digital Analytics Investor 🚂 Purdue CS Alum 🌐 CEO at Exusia 👨‍👧‍👧 Huddy/Parkie’s Dad. 👸🏼DRE 🏆 CT Post 40. Crains50. Inc5000
     location: "United States"
-    followers: 161306
-    engagement: 267
-    commentsToLikes: 0.011465
-    id: ck0uakktycj9w0i19uow12ax8
+    followers: 174075
+    engagement: 263
+    commentsToLikes: 0.000343
+    id: ck13bfhb0v6b20i19owck675w
     verified: false
-    hashtags: "#celsiusbrandpartner, #ad, #celsiuslivefit, #splendies"
-  - username: "lifeofwisteria"
+    hashtags: "#daddyslittlegirl, #pune, #analytics, #kalyaninagar"
+  - username: "pouuuya"
     fullname: >-
-      WisteriaLife ☁️
+      Tour Sensei, Aka Bus Dad
     bio: >-
-      I make vlogs & lifestyle videos on YouTube. Business: contact@wisteriaworld.com Merch: wisteriaworld.com Gaming Videos: @wisteria_moon
+      Miami, FL. 🇨🇺+🇮🇷 Allbutsix 🔐 Tour manager for @pouya @yunggravy Gaming IG @allbutsix_gaming
     location: "United States"
-    followers: 10038
-    engagement: 849
-    commentsToLikes: 0.074659
-    id: ck135s52c2yeb0i19gfc1xz6a
+    followers: 34922
+    engagement: 510
+    commentsToLikes: 0.027945
+    id: ck5c9z232ce9e0i11i3cmbxnc
     verified: false
     hashtags: ""
-  - username: "scootermagruder"
+  - username: "timemachinegaming"
     fullname: >-
-      Scooter Magruder | Sports Guy
+      Time Machine Gaming
     bio: >-
-      I love Jesus • I’m a @GrownMan | Content Creator 🎮 Gaming IG: @ScooterGaming Podcast: @dywttai Business only: info@scootermagruder.com
+      📍 Miami, FL 🌴 💾 Keeping #RetroGaming Alive 🕹 Collecting, Gaming, & Sharing 👾 Reliving The Past Through Gaming
     location: "United States"
-    followers: 238207
-    engagement: 608
-    commentsToLikes: 0.026902
-    id: ck1374e7m9pz80i19vcyvqg6l
-    verified: true
-    hashtags: "#lakers, #lebron, #lakeshow, #dallascowboys"
+    followers: 20207
+    engagement: 464
+    commentsToLikes: 0.029465
+    id: ck13cd8f6zs780i19sv4mxk7n
+    verified: false
+    hashtags: "#kakarot, #mar10"
+  - username: "80s_renegade"
+    fullname: >-
+      🌴📼 80s_RΞNΞGΛDΞ ™ 📼🌴
+    bio: >-
+      レネゲード The VΞRY BΞST of: ‘80s Art • Music • Tech • Cars • Gaming • Fashion [Art commission please DM me or visit my online portfolio] #80s_RENEGADE
+    location: "United States"
+    followers: 76090
+    engagement: 258
+    commentsToLikes: 0.007310
+    id: ck0vyzye06m1n0i19f6o4bx71
+    verified: false
+    hashtags: "#vintageart, #retrocar, #eighties, #vintagecar"
   - username: "retrogeist"
     fullname: >-
       80s & 90s Vibes
     bio: >-
       Follow my other page, @commanderlarry , for some old school gaming!
     location: "United States"
-    followers: 115617
-    engagement: 244
-    commentsToLikes: 0.011943
+    followers: 119504
+    engagement: 293
+    commentsToLikes: 0.011868
     id: ck15s70rpbjl20i19nytobqpi
     verified: false
-    hashtags: "#90s, #retrogeist, #80s, #1990s"
-  - username: "avoriliz"
+    hashtags: "#retrogeist, #1990s, #vintagetech, #80s"
+  - username: "mariatech_"
     fullname: >-
-      FaZe Avori
+      Maria Tech
     bio: >-
-      Professional Video Gamer Streamer👾 | Signed @fordModels👱🏼‍♀️ | Twitter: @avoriliz | Dog Insta: @sugarandsly | Clothing line: @stylesbyavori
+      👩🏻‍💻 Data Scientist. Mathematician 🧬 Coding life | Sharing tips about #programming 🌍 Second account @mariatech2 📨 contact.mariatech@gmail.com
     location: "United States"
-    followers: 75803
-    engagement: 351
-    commentsToLikes: 0.027234
-    id: ck5zxhu2581do0i14mswh5a9h
+    followers: 23687
+    engagement: 1301
+    commentsToLikes: 0.103305
+    id: ck0vzakf2854w0i193qu3qpjw
     verified: false
-    hashtags: "#avori, #panama, #streamer, #modeling"
-  - username: "trevor312"
-    fullname: >-
-      Trevor Silver
-    bio: >-
-      📊 Digital Analytics Expert & Investor. 🚂 Purdue CS Alum. 🌐 CEO at Exusia 🇮🇳🇺🇸🇿🇦🇬🇧 👨‍👧‍👧 Huddy/Parkie’s Dad. 👸🏼DRE 🏆 CT Post 40. Crains50. Inc5000
-    location: "United States"
-    followers: 174022
-    engagement: 274
-    commentsToLikes: 0.000235
-    id: ck13bfhb0v6b20i19owck675w
-    verified: false
-    hashtags: "#data, #miami, #analytics, #pune"
+    hashtags: "#webdeveloper, #computerscience, #windows, #womenintech"
 ---

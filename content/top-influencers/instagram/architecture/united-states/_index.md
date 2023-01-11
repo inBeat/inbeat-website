@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In United States In 2022
+title: Top 10 Architecture Instagram Influencers In United States In 2023
 description: >-
-  Find top architecture Instagram influencers in United States in 2022. Most popular hashtags: #architecture #visitmaine #pencildrawing.
+  Find top architecture Instagram influencers in United States in 2023. Most popular hashtags: #mexico #travelgram #summervibes.
 platform: Instagram
-hits: 1994
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 1994 Instagram influencers like this in United States for you to pitch.
+hits: 3576
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 3576 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "ludwiggodefroy"
+  - username: "ooaa_arquitectura"
     fullname: >-
-      Ludwig Godefroy
+      OOAA - Iker Ochotorena
     bio: >-
       Architecture
     location: "United States"
-    followers: 26632
-    engagement: 542
-    commentsToLikes: 0.015326
-    id: ck13596nc0btj0i19p95klvpa
+    followers: 108534
+    engagement: 275
+    commentsToLikes: 0.005794
+    id: ck0vwmpnbuk900i19m2x7vggk
     verified: false
-    hashtags: "#architecture, #concrete, #mexico, #jmcravioto"
-  - username: "omershafique22"
+    hashtags: "#ooaa"
+  - username: "architectanddesign"
     fullname: >-
-      O    m    e    r
+      Architecture & Design
     bio: >-
-      Be Respectful | Bee 🐝 Student | MSc. Architecture - NTNU - Trondheim
+      🌍 The best Architecture & Design platform. 📩 Contact: info@architectanddesign.net
     location: "United States"
-    followers: 22708
-    engagement: 1184
-    commentsToLikes: 0.057059
-    id: ck8t9pxb5owvv0j78sekdvwi1
+    followers: 3804521
+    engagement: 142
+    commentsToLikes: 0.005211
+    id: ck0w3iuwvtmzr0i19zpfq46dp
+    verified: true
+    hashtags: "#newyork, #promenadedesanglais, #polignanoamare, #greece"
+  - username: "asha"
+    fullname: >-
+      ASHA
+    bio: >-
+      Bold | Fresh | Classic. Jewelry, accessories & dresses designed by Ashley McCormick. Inspired by art, architecture and world travels.
+    location: "United States"
+    followers: 50340
+    engagement: 92
+    commentsToLikes: 0.026200
+    id: ckqvvszgh2mcj0j23u21pm4n9
     verified: false
-    hashtags: "#steadler, #hyperrealism, #tegning, #artistic"
+    hashtags: "#whatsnew, #ashleymccormickfine, #athome, #happilyeverasha"
+  - username: "mariasamano"
+    fullname: >-
+      MARIA SAMANO
+    bio: >-
+      Architecture @gatiathelabel I design things 🧚🏼‍♀️
+    location: "United States"
+    followers: 3246
+    engagement: 2495
+    commentsToLikes: 0.122103
+    id: ck8wghhy5hdiu0j785udxrddi
+    verified: false
+    hashtags: "#stemwomen"
+  - username: "beata_walczynska"
+    fullname: >-
+      
+    bio: >-
+      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
+    location: "United States"
+    followers: 10788
+    engagement: 1752
+    commentsToLikes: 0.065752
+    id: ck13azgmrsy100i19khq0qwde
+    verified: false
+    hashtags: "#springvibes, #cats, #poland, #rabowice"
+  - username: "kellykimberlyy"
+    fullname: >-
+      Kelly
+    bio: >-
+      Content creator/traveler Owner @kellykimberlyworld Life is how you paint it 🎨 Travel, culture, architecture, art, nature, history& 💖
+    location: "United States"
+    followers: 6324
+    engagement: 809
+    commentsToLikes: 0.110035
+    id: ck5c31jmiyf4a0i113292e1c8
+    verified: false
+    hashtags: "#lifewelltravelled, #visitmexico, #wanderlust, #tulummexico"
+  - username: "noellegoulding"
+    fullname: >-
+      Noelle Goulding
+    bio: >-
+      Toronto | LA USC Architecture
+    location: "United States"
+    followers: 7158
+    engagement: 2100
+    commentsToLikes: 0.063742
+    id: ck6tizpuo1qn50j717jrlqhdi
+    verified: false
+    hashtags: ""
+  - username: "amir_azimi_pub"
+    fullname: >-
+      Amirreza
+    bio: >-
+      Architecture Engineer Photomodel Fitness and physic trainer men's wear
+    location: "United States"
+    followers: 8632
+    engagement: 1633
+    commentsToLikes: 0.095914
+    id: ckaou48iiyq2p0i78xk03ig5z
+    verified: false
+    hashtags: "#face, #2020, #streetwear, #11"
+  - username: "crisswaddle"
+    fullname: >-
+      Criss Waddle
+    bio: >-
+      [Artist of R2BEES]-[CEO Of AMG BUSINESS] [CEO of 167 Construction Company] Real Estate (Modern Architecture)A serial entrepreneur 🇬🇭
+    location: "United States"
+    followers: 439131
+    engagement: 678
+    commentsToLikes: 0.018444
+    id: ck6u5rw4ubde90j71d3y71d7h
+    verified: true
+    hashtags: "#amgbeyondkontrol, #amgceo, #lahustle"
   - username: "choo_yy"
     fullname: >-
       🎀Yeeying • Travel Blogger🎀
     bio: >-
       ♥︎ Follow me to see all 50 US states⁣⁣⁣ ✩ 中国人based in Cincinnati, Ohio⁣⁣⁣ ◈ Architecture student & cat mom⁣⁣⁣ ✎ DM for collabs ↡ Tap for more
     location: "United States"
-    followers: 8817
-    engagement: 1113
-    commentsToLikes: 0.078137
+    followers: 8520
+    engagement: 1183
+    commentsToLikes: 0.072693
     id: ck6tt1shv83sd0j71oigq0wjr
     verified: false
-    hashtags: "#travelfemme, #traveldames, #visitmaine, #visitchicago"
-  - username: "mariasamano"
-    fullname: >-
-      MARIA SAMANO
-    bio: >-
-      Architecture @gatiathelabel D🦋
-    location: "United States"
-    followers: 3327
-    engagement: 2439
-    commentsToLikes: 0.100355
-    id: ck8wghhy5hdiu0j785udxrddi
-    verified: false
-    hashtags: "#barbtings"
-  - username: "noellegoulding"
-    fullname: >-
-      Noelle Goulding
-    bio: >-
-      LA✨ USC Architecture
-    location: "United States"
-    followers: 6414
-    engagement: 2720
-    commentsToLikes: 0.041634
-    id: ck6tizpuo1qn50j717jrlqhdi
-    verified: false
-    hashtags: ""
-  - username: "sally_altaji"
-    fullname: >-
-      سالي التاجي
-    bio: >-
-      Iraqi 📍Lebanon LAU - Architecture Snap : sally.altaji 📩 sally.altaji@gmail.com
-    location: "United States"
-    followers: 9919
-    engagement: 677
-    commentsToLikes: 0.099958
-    id: ck14h8xw794oe0i1950x7561z
-    verified: false
-    hashtags: "#style, #architecture, #design, #quarantine"
-  - username: "kylebrks"
-    fullname: >-
-      Kyle Brooks
-    bio: >-
-      clt | architecture + urban design #blm resource links ↓
-    location: "United States"
-    followers: 5429
-    engagement: 2151
-    commentsToLikes: 0.028578
-    id: ckapc84hu2sah0i787hk27ziy
-    verified: false
-    hashtags: "#blackouttuesday, #byedon"
-  - username: "maxxmoreau"
-    fullname: >-
-      Max  sc: Max_7789
-    bio: >-
-      RWU Architecture
-    location: "United States"
-    followers: 5914
-    engagement: 2188
-    commentsToLikes: 0.019829
-    id: ck8wg5xgrgsgi0j78awpgf1ta
-    verified: false
-    hashtags: "#blackouttuesday, #todayshype"
-  - username: "tkspivey"
-    fullname: >-
-      Taylor Spivey
-    bio: >-
-      Architecture grad USA triathlete World Rank 4th . . @descente_global . @scienceinsport . @jolynclothing . @ride100percent . @garmin . @poissytri .
-    location: "United States"
-    followers: 38374
-    engagement: 927
-    commentsToLikes: 0.008500
-    id: ck55m0hw62w9x0i116yvdfzp6
-    verified: true
-    hashtags: "#wtsyokohama, #bronzage, #edge1030plus, #iloveoutside"
-  - username: "mikeforte"
-    fullname: >-
-      Mike Forte
-    bio: >-
-      Real Estate Agent 🏡 Rhode Island ⚓️ Fashion || Lifestyle || Architecture & Design 🏠👕🏘👟
-    location: "United States"
-    followers: 9885
-    engagement: 454
-    commentsToLikes: 0.090278
-    id: ck6tnqv3lae0r0j71d11moq5k
-    verified: false
-    hashtags: "#alrightalrightalright, #bluesteel, #ronafree"
+    hashtags: "#christmasideas, #travelpassion, #hikingwithcats, #catexplorercommunity"
 ---

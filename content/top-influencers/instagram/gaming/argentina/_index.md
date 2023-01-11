@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Argentina In 2022
+title: Top 10 Gaming Instagram Influencers In Argentina In 2023
 description: >-
-  Find top gaming Instagram influencers in Argentina in 2022. Most popular hashtags: #gaming #gamer #cuarentena #pcgamer.
+  Find top gaming Instagram influencers in Argentina in 2023. Most popular hashtags: #gamer #gaming #gamergirl #streaming.
 platform: Instagram
-hits: 31
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 31 Instagram influencers like this in Argentina for you to collaborate.
+hits: 40
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 40 Instagram influencers like this in Argentina for you to work with.
 profiles:
-  - username: "santisneux"
+  - username: "sessenwanger"
     fullname: >-
-      Sneux
+      SESSEN  🐍
     bio: >-
-      🥇Mejor streamer Fortnite 2019 #CAA @g2a_com partner @malvinas_gaming streamer en @booyahlatam twitch.tv/sneux twitter.com/santisneux youtube.com/sneux
+      Streamer en @twitch Streamer del gaming crew: @espngamingstudio TikTok: sessen.wanger
     location: "Argentina"
-    followers: 95495
-    engagement: 1145
-    commentsToLikes: 0.024003
-    id: ck8t2vi2e0upo0j78yb8yj82f
-    verified: false
-    hashtags: "#caawards"
+    followers: 95029
+    engagement: 412
+    commentsToLikes: 0.017557
+    id: ck14gdu174pw20i19zcyospqk
+    verified: true
+    hashtags: "#nofilter"
   - username: "papisosa0"
     fullname: >-
       PapiSosa
     bio: >-
       🔵Facebook Gaming Partner ⚫️Challenger en LoLsito ⚪️papisosacontacto@gmail.com 🔴Youtube: PapiSosa 🔘Streams diarios en:
     location: "Argentina"
-    followers: 20943
-    engagement: 564
-    commentsToLikes: 0.082411
+    followers: 24874
+    engagement: 578
+    commentsToLikes: 0.083060
     id: ck5c5rl3p40rq0i11rrvycey4
     verified: false
-    hashtags: "#leagueoflegends, #lpp, #leaguepartner, #gamer"
+    hashtags: "#lpp, #leagueoflegends, #leaguepartner, #lpplatam"
+  - username: "dexhight"
+    fullname: >-
+      Jorlu
+    bio: >-
+      Jugador competitivo 🇵🇪 Jugador de 2 dedos + Giroscopio Hago directos en Facebook gaming 🔴 👇
+    location: "Argentina"
+    followers: 2879
+    engagement: 1615
+    commentsToLikes: 0.062133
+    id: ck13artbpruyq0i19gr0ijp3a
+    verified: false
+    hashtags: "#girlswhoshuffle, #shuffledance, #guerrerojah, #selected"
   - username: "maximus_gaming_hardware"
     fullname: >-
       Maximus Argentina [OFICIAL]
     bio: >-
       🇦🇷 Los Mejores Precios 😃 La Mejor Atención 👾 Kits de Actualización 📦 Envíos / despacho de pedido entre 72 y 96 horas hábiles. 🕹Seguinos en FB y YT
     location: "Argentina"
-    followers: 169294
-    engagement: 313
-    commentsToLikes: 0.104955
+    followers: 164477
+    engagement: 358
+    commentsToLikes: 0.125717
     id: ck5pwnjqznodp0i11q5zae4pj
     verified: false
-    hashtags: "#pcarmada, #armados, #hardware, #armadodepc"
+    hashtags: "#computadoras, #gaming, #novedades, #enviosatodoelpais"
+  - username: "arandana"
+    fullname: >-
+      Arándana
+    bio: >-
+      👾Streams: Martes, Jueves y Domingo en YT 🎮PlayStation, Xbox, Nintendo y PC 📩Contacto: ararandana@gmail.com ⬇️Último video de YouTube
+    location: "Argentina"
+    followers: 28761
+    engagement: 1382
+    commentsToLikes: 0.047672
+    id: ckapa4sikuphb0i78s0zlbi43
+    verified: false
+    hashtags: "#nintendofan, #setupgamer, #monster, #pc"
   - username: "sheissoheavy"
     fullname: >-
       мєℓιѕѕα exx 🖤🔪
     bio: >-
-      Guitarra y voz en @magicclicks 🔥 #music #videogames #whisky Marketing y comunicación👩🏼‍💻 Alien exist 👽
+      Guitarra y voz en @magicclicks 🔥 #music #videogames
     location: "Argentina"
-    followers: 20015
-    engagement: 532
-    commentsToLikes: 0.146710
+    followers: 19530
+    engagement: 490
+    commentsToLikes: 0.119124
     id: ck5q7qxm72q4n0i110ij541gr
     verified: false
-    hashtags: "#sweetmusic, #gamergirl, #ps4, #guitarcover"
-  - username: "lailabarbaraok"
+    hashtags: "#gaming, #ps4, #gamergirl, #musiclife"
+  - username: "saandracabeza"
     fullname: >-
-      𝕷𝖆𝖎 🌙👩‍💻
+      Sandra · Leviathan
     bio: >-
-      👽No hay Game Over, solo Press Continue. ☝That's f* life 🧗‍♀️ 🧡 @compragamer_oficial 🎮 Powered by @bequietlatam
+      @twitch partner | #GiantsCrew @giantsgaming 🔺 10% prozis: 𝗟𝗘𝗩𝗜𝗔𝗧𝗛𝗔𝗡 • Business | leviathan@youhub.es • Contact | sandraleviathan@gmail.com
     location: "Argentina"
-    followers: 26995
-    engagement: 1084
-    commentsToLikes: 0.018266
-    id: ck5pwnl6onokn0i11ukxzzx4v
+    followers: 67239
+    engagement: 1723
+    commentsToLikes: 0.009744
+    id: ck9hcgj5hla5n0j782e0u372v
     verified: false
-    hashtags: "#gaming, #viewsonic, #pcgamer, #avicii"
-  - username: "skuplux"
+    hashtags: "#tbt, #streamer, #instagood, #summer"
+  - username: "javi.geek"
     fullname: >-
-      TATTOOS by Sku Plux
+      Jαʋι Gєєk 👾
     bio: >-
-      🇦🇷 T A T T O O artist Bookings: 📧 skuplux@gmail.com Based in Buenos Aires (AR) . . Resident at @24.tattoo Guest at @linnea.estudio
+      Geek & Egresada de Derecho • 🎙TVHost: #TVWild @wildesportsla • Sponsored by @marvellatam • 10% Dcto en @ascendent_chile Código: JAVIGEEK
     location: "Argentina"
-    followers: 25502
-    engagement: 369
-    commentsToLikes: 0.032356
-    id: ck14kfdkbp92r0i19qo0brwgt
+    followers: 9184
+    engagement: 617
+    commentsToLikes: 0.071372
+    id: ckapaen0jvsnr0i78n134fh05
     verified: false
-    hashtags: "#skuplux, #fineartprint, #tatuajesbuenosaires, #design"
-  - username: "viciosinok"
-    fullname: >-
-      Viciosin
-    bio: >-
-      👑 EMPERADOR MÍSTICO 👑 🎮 GAMER 🎮 🔴 Ya somos más de 400.000 místicos 🔴 Mail de contacto: viciosinCM@gmail.com 👇🏻 PASÁ POR MI CANAL 👇🏻
-    location: "Argentina"
-    followers: 63578
-    engagement: 1421
-    commentsToLikes: 0.044499
-    id: ck5bu8n7hhce80i11epspa4wk
-    verified: false
-    hashtags: "#gaming, #pokemon, #sorteo, #oldschool"
-  - username: "martinpepaok"
-    fullname: >-
-      Martin Pepa
-    bio: >-
-      👨🏼‍🎓Lic. en comunicación 💡Prod audiovisual 📺Conductor radio, TV e Internet 📀DJ senior 💻📲pibe multimedia
-    location: "Argentina"
-    followers: 63654
-    engagement: 125
-    commentsToLikes: 0.061081
-    id: ckap8zl01ql2g0i78hi9atx8o
-    verified: true
-    hashtags: "#photooftheday, #tbt, #gaming, #pic"
+    hashtags: "#lolchile, #marvel, #gamingsetup, #geekroom"
   - username: "neverplayertwo"
     fullname: >-
       neverplayertwO 🎮
     bio: >-
       🕹| Nintendo Maniac 🇪🇸🇬🇧 ⠀⠀⠀ 🕹| DM for collabs 📩⠀⠀⠀ 🕹| Argentina 🇦🇷⠀⠀ 🎮 | @fatalgrips AMBASSADOR 10% code: NEVERPLAYERTWO10 #nintendo
     location: "Argentina"
-    followers: 6179
-    engagement: 1672
-    commentsToLikes: 0.047557
+    followers: 5787
+    engagement: 1800
+    commentsToLikes: 0.047100
     id: ckf5lvh4sr6u40j23qgmczjls
     verified: false
-    hashtags: "#retrocollectiveus, #instagamer, #nin10do, #gamingfolk"
-  - username: "lolprotips"
+    hashtags: "#ninstagram, #retrocollectiveus, #nintendolife, #retrocollective"
+  - username: "rippyrizza"
     fullname: >-
-      LOLPROTIPS
+      Rippy Rizza
     bio: >-
-      📈 Quieres subir tu elo? Follow me! 🥇 Cuenta #1 de contenido didactico de LoL en español!
+      Productor y Host en @malditosnerds para @vorterixok y en @manijomio para @flowcontenidos. Me leen en malditosnerds.com. MalditosNerdsVX en @youtube.
     location: "Argentina"
-    followers: 27321
-    engagement: 836
-    commentsToLikes: 0.070248
-    id: ck13d1exu36e70i198wzaisat
+    followers: 12541
+    engagement: 628
+    commentsToLikes: 0.129529
+    id: ck0w416twwa5o0i193ie5xpud
     verified: false
-    hashtags: "#sett, #leagueoflegend, #lolprotips, #moba"
+    hashtags: "#concurso, #argentina, #gaming, #fifa"
 ---

@@ -1,84 +1,72 @@
 ---
-title: Top 10 Djs Instagram Influencers In Italy In 2022
+title: Top 10 Djs Instagram Influencers In Italy In 2023
 description: >-
-  Find top djs Instagram influencers in Italy in 2022. Most popular hashtags: #dj #italy #music.
+  Find top djs Instagram influencers in Italy in 2023. Most popular hashtags: #dj #edm #music #remix.
 platform: Instagram
-hits: 123
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 123 Instagram influencers like this in Italy for you to connect with.
+hits: 98
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 98 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "tommyd4li"
-    fullname: >-
-      TOMMY DALI
-    bio: >-
-      “Pimper’s Paradise” con @djshablo fuori ora
-    location: "Italy"
-    followers: 6497
-    engagement: 2796
-    commentsToLikes: 0.025911
-    id: ck6trtov0117c0j71tjcj5qa2
-    verified: true
-    hashtags: "#longrun, #dovegliocchinonarrivanotour"
   - username: "nicolapigini"
     fullname: >-
       NICOLA PIGINI
     bio: >-
-      🇮🇹 DJ / Producer / Speaker 🚴🏻‍♂️Cycling-addicted since the 90s 🏅Record djset: 24h no-stop
+      🇮🇹 DJ / Producer / Speaker 🚴🏻‍♂️Dj for @giroditalia (@rairadio2), @motogp (@enelxglobal) and @scuderiaferrari (SFMeets) 🏅Record djset: 24h no-stop
     location: "Italy"
-    followers: 18343
-    engagement: 268
-    commentsToLikes: 0.054149
+    followers: 17978
+    engagement: 260
+    commentsToLikes: 0.053248
     id: ck5c0socktryj0i112dv3n31h
     verified: false
-    hashtags: ""
+    hashtags: "#sanfrancisco"
   - username: "strulle_industry"
     fullname: >-
       STRULLE🇮🇹🏳️‍🌈
     bio: >-
       Djs and best friends 🔛 @jennifer_rrose @latstrulle @milladelasoul
     location: "Italy"
-    followers: 8322
-    engagement: 538
-    commentsToLikes: 0.012150
+    followers: 8265
+    engagement: 549
+    commentsToLikes: 0.011957
     id: ck8swy6dzfmco0j78mjay2su4
     verified: false
-    hashtags: "#artgram, #amazingart, #artwork, #transgender"
+    hashtags: "#italia, #drawing, #strulle, #gay"
   - username: "miamirockets"
     fullname: >-
       Miami Rockets
     bio: >-
-      🎧Djs & Producers🎵🇮🇹🇺🇸 20 Million Streams Spotify 🔊 Out on labels➡️Armada Music Ultra Records Disco:wax(Sony) Route75 Undertown Rocketworld Radio Show👇
+      🎧Djs & Producers🎵🇮🇹🇺🇸 20 Million Streams Spotify 🔊 Signed On 💿 Armada Music, Ultra Records Disco:wax(Sony), Route75, Undertown Rocketworld Radio Show👇
     location: "Italy"
-    followers: 15640
-    engagement: 145
-    commentsToLikes: 0.139107
+    followers: 15377
+    engagement: 138
+    commentsToLikes: 0.136888
     id: ck5pw0toakjni0i11hoxmfgne
     verified: false
-    hashtags: "#house, #music, #friends, #miamirockets"
+    hashtags: "#friends, #djlife, #djstyle, #house"
   - username: "therealrocbeats"
     fullname: >-
       Roc Beats aka Dj Shocca
     bio: >-
       #unlimitedstruggle #djshocca #rocbeats
     location: "Italy"
-    followers: 15745
-    engagement: 628
-    commentsToLikes: 0.037720
+    followers: 16866
+    engagement: 654
+    commentsToLikes: 0.036044
     id: ck13boci1wdkc0i19970clmxh
     verified: false
-    hashtags: "#beats, #music, #producer, #italy"
-  - username: "isdropmusic"
+    hashtags: "#hiphop, #underdogfunk, #unlimitedstruggle, #djshocca"
+  - username: "mimmo.modem"
     fullname: >-
-      𝐃𝐑𝐕𝐏
+      Mimmo Modem ®
     bio: >-
-      🇮🇹 Djs & Producers/Mc ✍️ Booking Agency: @n2_event 📀 3x Sony 1x Kontor 3x KnightVision 🎧 Resident of @reloadmusicfestivaltorino 👇FRESH NEW MUSIC 💦
+      Staff: @michele.di.croce , @kapa.it , @tyfon_75 , @lucagra92, @ciro_gargiulo87, @djsaul.it, @h_e_l_l_c_a_t Lo shop di Mimmo:
     location: "Italy"
-    followers: 30056
-    engagement: 147
-    commentsToLikes: 0.094978
-    id: ck5ztk0s70kbt0i141iqib2v5
+    followers: 324971
+    engagement: 432
+    commentsToLikes: 0.013649
+    id: ck6ueueujt5rp0j711ylpudhz
     verified: false
-    hashtags: "#jolene, #iorestoacasa, #edmmusic, #raving"
+    hashtags: "#mimmomodem, #viral, #trash, #nonsense"
   - username: "dabrozz"
     fullname: >-
       Da Brozz™
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.035333
     id: ck5hkcmt1i6td0i11oycb4cl4
     verified: true
-    hashtags: "#edmnation, #jonasblue, #edm, #deejay"
+    hashtags: "#musicalfreedom, #edmnation, #dj, #djmatrix"
   - username: "iceone_official"
     fullname: >-
       IceOne
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.030101
     id: ck0tznv4yr2uk0i19otem622m
     verified: false
-    hashtags: "#iceonehiphoplegend, #iceoneyourfavouritedj, #iceoneplatinumproducer, #calakacoolartlimited"
+    hashtags: "#buttamolaincaciara, #therealcal, #iceonehiphoplegend, #dystopiastore"
   - username: "djstephanieofficial"
     fullname: >-
       Dj Stephanie
     bio: >-
       #HARDSTYLEDJ Info & Bookings ✉️deejaystephanie@gmail.com For Spain : Sandra@mainanmusicagency.com
     location: "Italy"
-    followers: 56699
-    engagement: 271
-    commentsToLikes: 0.026096
+    followers: 56579
+    engagement: 237
+    commentsToLikes: 0.030687
     id: ck6ubggy49fh70j71hzxr4b1q
     verified: false
-    hashtags: "#soundofsilence"
+    hashtags: "#5monthspregnant, #babyshower, #babyinprogress, #terzotrimestre"
   - username: "djschenetti"
     fullname: >-
       Nicola Schenetti
     bio: >-
       📍Uomo di Mondo 🌍 . 📍DJ at @papeetebeach➕@villapapeete 🎧 . 📍DJ at @salietabacchi . 📍DJ at @laviadellespezie 📍Travels Lover ✈️ MY SOUNDCLOUD HERE👇🏻⬇️
     location: "Italy"
-    followers: 15674
-    engagement: 407
-    commentsToLikes: 0.051660
+    followers: 15379
+    engagement: 411
+    commentsToLikes: 0.061505
     id: ck5c7sjml841h0i11jqaz1tta
     verified: false
-    hashtags: "#modena, #dj, #djing, #italia"
+    hashtags: "#nicolaschenetti, #speakers, #usa, #mexico"
+  - username: "djshablo"
+    fullname: >-
+      SHABLO
+    bio: >-
+      👇🏼Produced by
+    location: "Italy"
+    followers: 230188
+    engagement: 529
+    commentsToLikes: 0.006693
+    id: ck0vvq924q9wp0i19ats2hr3h
+    verified: true
+    hashtags: "#awlabisme, #adv"
 ---

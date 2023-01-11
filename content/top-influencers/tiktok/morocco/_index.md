@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Morocco In 2022
+title: Top 10 TikTok Influencers In Morocco In 2023
 description: >-
-  Find top TikTok influencers in Morocco in 2022. Most popular hashtags: #fyp #foryou #bts #blink.
+  Find top TikTok influencers in Morocco in 2023. Most popular hashtags: #fyp #bts #follow.
 platform: TikTok
-hits: 428
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 428 TikTok influencers like this in Morocco for you to work with.
+hits: 448
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 448 TikTok influencers like this in Morocco for you to work with.
 profiles:
-  - username: "azizaarmy7"
+  - username: "x_yuna_"
     fullname: >-
-      💔🥀
+      X_YUNA_❤🌼
     bio: >-
-      معتزله للابد :( 💔
+      instagram✨ : Real__bassima_ رابط الفيديو
     location: "Morocco"
-    followers: 49000
-    engagement: 2743
-    commentsToLikes: 0.109804
-    id: ckdnv20y0o2of0j232f1z541k
+    followers: 213000
+    engagement: 1453
+    commentsToLikes: 0.032857
+    id: ckbaqyvkxhl0g0j237b3uulqx
+    verified: false
+    hashtags: "#pourtoi, #morocco, #fyp, #maroc"
+  - username: "charrabi_aziza"
+    fullname: >-
+      aziza chrabi
+    bio: >-
+      مساهمة في نشر القران و كسب الحسنات حملة الاستغفار اللهم صلي وسلم على سيدنا محمد
+    location: "Morocco"
+    followers: 55000
+    engagement: 4259
+    commentsToLikes: 0.151791
+    id: cka6qkgqzny4m0i78lf3tl6nv
     verified: false
     hashtags: ""
   - username: "7llix_tata"
     fullname: >-
-      i can't stop me ✨
+      no matter you say i'm gonna💖U
     bio: >-
-      احب الونس و الارمي 💜✨✨ i can't stop me 💕
+      رح اخلي الفيديوهات القديمة تحلى حسابي 🙆💖 الانستا حقي الي حابب يصير صديقي 👇🙆
     location: "Morocco"
-    followers: 69300
-    engagement: 2459
-    commentsToLikes: 0.071493
+    followers: 66100
+    engagement: 2350
+    commentsToLikes: 0.051412
     id: ck9n56a8w6qim0j784uvix5zs
     verified: false
-    hashtags: "#dynamite, #nerx, #bts, #we"
-  - username: "kim_sara96"
+    hashtags: "#bts, #dynamite, #nerx, #jk"
+  - username: "rachid_oudrhiri"
     fullname: >-
-      kim_sarah🇰🇷
+      Rachid
     bio: >-
-      Baisi Taehyung ❤army bts💜🇰🇷🇰🇷 KIM SARA😘 나는 당신이 내 개인 계정을 좋아 바랍니다🥺❤❤
+      5k abonnée 2k j'adore 🔒
     location: "Morocco"
-    followers: 57300
-    engagement: 2131
-    commentsToLikes: 0.075315
+    followers: 3886
+    engagement: 2312
+    commentsToLikes: 0.195238
+    id: ckbb9rhtsytmu0j23dhz71o7f
+    verified: false
+    hashtags: ""
+  - username: "teasara_96"
+    fullname: >-
+      تاي ستان🐯❤
+    bio: >-
+      ♛ | تاي ➝🇲🇦🇰🇷 ⠀⠀⠀♛ لايكات وراء بعض بلوك🙃+Tea+sara_loves❤اكسبلور محظورة😭
+    location: "Morocco"
+    followers: 66900
+    engagement: 2073
+    commentsToLikes: 0.058960
     id: ckb9lpr8veebn0j23uejw5sm5
     verified: false
     hashtags: ""
-  - username: "hiikkarii"
-    fullname: >-
-      ＨＩＫＡＲＩ♪
-    bio: >-
-      ╰YES WE CAN 14k🏅✊╯ ID:509992795 FOLLOW➕LIKE❤ 11K🥉12k🥈14k🏅 support me🙏friend
-    location: "Morocco"
-    followers: 12600
-    engagement: 1956
-    commentsToLikes: 0.170772
-    id: ckb94auq7loan0j23xpw4ahs0
-    verified: false
-    hashtags: "#freefire, #fyp, #13k, #garenafreefirearabic"
-  - username: "amirel3"
-    fullname: >-
-      ملك التيك توك👑
-    bio: >-
-      ✨Mar7ba lkhout 3ndi:@amirel3 ✨d5alti:dir abbone ♥️ 18 ans💪 ✨6k inchallah 🙏🥳
-    location: "Morocco"
-    followers: 5670
-    engagement: 2113
-    commentsToLikes: 0.071846
-    id: ckbkstiesnntq0j23ugbuy1gc
-    verified: false
-    hashtags: "#fyp, #pourtoi, #foryou, #esxplore"
-  - username: "kooky358"
+  - username: "jihane_jk1"
     fullname: >-
       정국전
     bio: >-
       
     location: "Morocco"
-    followers: 5463
-    engagement: 1870
-    commentsToLikes: 0.091988
+    followers: 5533
+    engagement: 2033
+    commentsToLikes: 0.083942
     id: ckbffucjhar4l0j23wrnxlb2r
     verified: false
-    hashtags: "#btsxarmy, #mamamoo, #bangtanboys, #armyblink"
-  - username: "chaker.50"
+    hashtags: "#jiminstan, #fyp, #blinkforever, #be"
+  - username: "yssmiiine"
     fullname: >-
-      S H I N W i Y🐊🖤
+      🖤
     bio: >-
-      O U J D A-N A D O R 🐊 I N S T A- chaker.50🐊 O B J E C T I F/100K🐊 🇲🇦💚🇩🇿
+      🎶𝗬𝗮𝘀𝘀𝗺𝗶𝗻𝗲🎶 ⚽️𝗙𝗼𝗼𝘁𝗯𝗮𝗹𝗹⚽️ 𝗙𝗰𝗯☆𝗣𝘀𝗴 50k?
     location: "Morocco"
-    followers: 71500
-    engagement: 1863
-    commentsToLikes: 0.054786
-    id: ckb9lptpxeeqd0j238wd2kzwe
+    followers: 46700
+    engagement: 1284
+    commentsToLikes: 0.009159
+    id: ckdnv20y0o2of0j232f1z541k
+    verified: false
+    hashtags: "#foryoupage, #xyzbca, #twitterquotes, #soccer"
+  - username: "hamza_boudib12"
+    fullname: >-
+      hamza boudib
+    bio: >-
+      لا تنسو متابعتي على الانستغرام وقناتي☝️☝️ يوتيوب ❤
+    location: "Morocco"
+    followers: 77700
+    engagement: 2933
+    commentsToLikes: 0.047031
+    id: ckbb5i07bvntk0j2388doy7q6
     verified: false
     hashtags: ""
-  - username: "x_yuna_"
+  - username: "tata.9nine"
     fullname: >-
-      X_YUNA_❤🌼
+      KiM TaTa
     bio: >-
-      ❄أنستغرامي _Real__yuna_ تابعوني على قناتي ❄في اليوتيوب x_bassima 11/5/2020🔒❤
+      luv urself 🧸
     location: "Morocco"
-    followers: 154900
-    engagement: 1902
-    commentsToLikes: 0.047281
-    id: ckbaqyvkxhl0g0j237b3uulqx
+    followers: 98500
+    engagement: 1840
+    commentsToLikes: 0.080413
+    id: ckbaygh8eovug0j23j1qo2mzz
     verified: false
-    hashtags: "#bts, #fyp, #blink, #dance"
-  - username: "1haewon1"
+    hashtags: "#tata9, #duet, #stitch, #olilondon"
+  - username: "imane.pp"
     fullname: >-
-      1Hae_Won1🔪🌚
+      ᶰᵐ·✿IMANE✿
     bio: >-
-      ↦I'ᗰ KᑭOᑭEᖇ GIᖇᒪ↤ • 🖇️ • 💿 • ✨ • {👑Ｂａｎｇｔａｎ👑} 🖇️”˜ 자신을 사랑 ”˜🖇️ »ماشاء الله«
+      1k🔓3k🔓6🔓7k🔐😿
     location: "Morocco"
-    followers: 41100
-    engagement: 2026
-    commentsToLikes: 0.042414
-    id: ckbepq4ch6s230j23vquchtsx
+    followers: 6072
+    engagement: 1718
+    commentsToLikes: 0.223377
+    id: ckck49evrolwl0j231bomoq9q
     verified: false
-    hashtags: "#jenniesolo, #jungkookedit, #parkjimin, #army"
-  - username: "park_johwa"
-    fullname: >-
-      💜wiame💜
-    bio: >-
-      اسم فاندومي ♥️🌚 : نجوم🤤💖✨ 💜300k💜? 💫أحبكم💫 💜ضيفوني عالانستاغرام?
-    location: "Morocco"
-    followers: 293100
-    engagement: 1865
-    commentsToLikes: 0.029235
-    id: ckbaschxfiyfo0j23l72p5pjl
-    verified: false
-    hashtags: "#arab, #duo, #blackpink, #foryou"
+    hashtags: "#freefire, #6k, #garenafreefire, #garena"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In France In 2022
+title: Top 10 Runners Instagram Influencers In France In 2023
 description: >-
-  Find top runners Instagram influencers in France in 2022. Most popular hashtags: #love #nature #shooting #ootd.
+  Find top runners Instagram influencers in France in 2023. Most popular hashtags: #trailrunning #running #trail.
 platform: Instagram
-hits: 144
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 144 Instagram influencers like this in France for you to pitch.
+hits: 170
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 170 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "sophiediryoff"
+  - username: "sarahonthegoo"
     fullname: >-
-      Sophie Diry
+      Sarah G. Francis
     bio: >-
-      📍Paris Communication @tf1 3rd runner up Miss France 2020 🇫🇷 ✉️ : sophie.diry@hotmail.com
+      ⚙️ Electromechanical Engineer 🏍 Biker 🚎 VW Community 🧗‍♀️ Climber 🏊🏼‍♀️ Swimmer 🏃🏼‍♀️ Runner 🏕 Dite Ourson Complaisant☩ 🇱🇧 Dream it. Plan it. Do it.
     location: "France"
-    followers: 27628
-    engagement: 1239
-    commentsToLikes: 0.015696
-    id: ck5zsx2iezcgo0i14y17hdu4l
+    followers: 2599
+    engagement: 2883
+    commentsToLikes: 0.151377
+    id: ckf5vgt9dojx60j2308y28xod
     verified: false
-    hashtags: "#girl, #missbourgogne, #shooting, #missfrance2020"
+    hashtags: "#campfire, #lakeview, #mountainviews, #sunsetrays"
+  - username: "icekream"
+    fullname: >-
+      icekream
+    bio: >-
+      WATCH MY NEW VIDEO ‘RUNNERS PACE’ OUT NOW 🏃🏿‍♂️🏃🏻🏃🏽‍♀️🏃🏼‍♀️🏃🏾🏃🏾‍♀️🥶
+    location: "France"
+    followers: 6469
+    engagement: 810
+    commentsToLikes: 0.156776
+    id: ck6ty7xic264j0j71n6yhmm26
+    verified: false
+    hashtags: "#georgefloyd, #blm, #icekream, #mosella"
+  - username: "frangibar"
+    fullname: >-
+      Fran / Ultra Runner
+    bio: >-
+      Ultra Runner 🏃‍♀️Traveller Mom x 5- Sitges🇪🇸 ❤️💍@ian.morgan 🔸17 Ultras +50 🔸30 Countries ✈️ @mujeresalcerro @ultraxco @sequentworld
+    location: "France"
+    followers: 50714
+    engagement: 419
+    commentsToLikes: 0.086313
+    id: ck0vxa36mxwuk0i19humtavmp
+    verified: false
+    hashtags: "#amocorrer, #compressport, #runninggirl, #sitgesanytime"
   - username: "math_uwg"
     fullname: >-
-      ᴍᴀᴛʜ
+      ᴍᴀᴛʜ 🦂
     bio: >-
-      29 | Trail Runner 🏔 📍#Marseille ☀️ 🔶 Strava : Math Upperwestguys Contact : leglise.mathieu@gmail.com Founder of @upperwestguys 💯
+      30 | Trail Runner 🏔 📍#Marseille ☀️ 🔶 Strava : Math Upperwestguys Contact : leglise.mathieu@gmail.com Founder of @upperwestguys 💯
     location: "France"
-    followers: 26505
-    engagement: 1001
-    commentsToLikes: 0.015748
+    followers: 25296
+    engagement: 878
+    commentsToLikes: 0.004838
     id: ck8t61e7zbw8l0j78wod41y9o
     verified: false
-    hashtags: "#marseille, #men, #outfit, #weekend"
+    hashtags: "#men, #marseille, #outfit, #running"
   - username: "morganesoucramanienoff"
     fullname: >-
       M O ☀️ (pour les intimes)
     bio: >-
       🇷🇪 Miss Reunion 2018 🇫🇷 Runner up @missfranceoff 2019 🌋 Proud islander 📩 soucramanien.morgane@gmail.com Lifestyle, travel, food, fashion and more.. ✨
     location: "France"
-    followers: 41414
-    engagement: 649
-    commentsToLikes: 0.019553
+    followers: 43355
+    engagement: 507
+    commentsToLikes: 0.031700
     id: ck0vuzi0emuqe0i1927wf9035
     verified: true
-    hashtags: "#islander, #picoftheday, #goodvibes, #sun"
-  - username: "ophelymezinooff"
+    hashtags: "#fashion, #goodvibes, #mode, #reunionisland"
+  - username: "monicaplaza"
     fullname: >-
-      Ophély Mézino
+      🇧🇷🇦🇺Monica | Sporty Lifestyle
     bio: >-
-      • 1st Runner-Up Miss World - Miss World Europe 2019 • 🇫🇷 Mannequin - MA : @metropolitanmodelsgroup Content Creator - ophely.mezinooff@gmail.com #LSF🤟🏽
+      🏃🏻‍♀️Health-Conscious Runner ☀️ Beach | Trips | Girly 🌻Just smile! 💪Ambassador @virginactiveaustralia 📍Sydney, Australia 📩hello@monicaplaza.info
     location: "France"
-    followers: 90552
-    engagement: 438
-    commentsToLikes: 0.015360
-    id: ck0w4tjil0cex0i19a89vcw02
-    verified: true
-    hashtags: "#fauchonparis, #curlyhair, #fashionstyle, #shein"
-  - username: "racazana_"
-    fullname: >-
-      Naïs RACASAN✨
-    bio: >-
-      🌈🍓🎶🍧♏️🌴🌺🧘🏽‍♀️stay zen and cool💆🏽 • 18 - 800m runner from 🇫🇷 / @eag.38 💙 / @asicseurope athlete • 2’04"20🔂 🌠💫🌍
-    location: "France"
-    followers: 10116
-    engagement: 1993
-    commentsToLikes: 0.006791
-    id: ck6tyyasc6k3l0j716pkemed1
+    followers: 43244
+    engagement: 136
+    commentsToLikes: 0.076492
+    id: ck8t8p0whl7m70j781swxjr6z
     verified: false
-    hashtags: "#asics, #asicsworldekiden, #ekiden, #materenvers"
-  - username: "lecoindelodie"
+    hashtags: "#discipline, #nonalcoholic, #coachmonica, #wee"
+  - username: "mohamadsadafi"
     fullname: >-
-      lecoindelodie
+      Mohamad (Mehr) Sadafi
     bio: >-
-      / youtube !!! / design lover / mini runner
+      مربی عالی بدنساز از آکادمی ملی المپیک Ultra trail runner - I❤️100km- Endurance run coach snowboard instrctr
     location: "France"
-    followers: 125945
-    engagement: 386
-    commentsToLikes: 0.004997
-    id: ck14k5p2anurl0i19pzcir043
+    followers: 4989
+    engagement: 2257
+    commentsToLikes: 0.057508
+    id: ck14louq7vqrz0i19x09w6p26
     verified: false
-    hashtags: "#lacollectiontendance, #proudpartner, #liveinlevis, #zalandostyle"
-  - username: "herevaihoata"
+    hashtags: "#run, #ultratrail, #ultrairan, #iranianultratrailrunners"
+  - username: "cami.garcete"
     fullname: >-
-      Herevai Hoata
+      Miss Ultranational Paraguay🇵🇾
     bio: >-
-      Miss Hitia’a o te ra 2019 💛 Miss Heiva 2019 🌺 3rd runner up Miss Pacific Island 🌴
+      •MISS ULTRANATIONAL 2ND RUNNER UP👑 •PRINCESA ADOLESCENTE PARAGUAY 2019👑 •BELLEZA ADOLESCENTE SAN LORENZO 2019👑 •MISS TEEN INTERNATIONAL PARAGUAY 2018👑
     location: "France"
-    followers: 5105
-    engagement: 945
-    commentsToLikes: 0.020603
-    id: ckap5u3ttd66n0i784jb49yyn
+    followers: 10251
+    engagement: 997
+    commentsToLikes: 0.026590
+    id: ck0uaqnsvcxrl0i19yfdx9r9t
     verified: false
-    hashtags: "#lovetahiti, #misstahiti, #missheiva, #octobrerose"
-  - username: "davhauss"
+    hashtags: ""
+  - username: "lilyonthemove"
     fullname: >-
-      🇫🇷 David Hauss 🇷🇪
+      Lily | ADVENTURE FITNESS
     bio: >-
-      🏊🚴🏃 Olympian triathlete & European Champion - Trail & Swim Runner 🌊🏊 🌅 🌍🌄 ☀ @compressport @on_running @peugeot #oakley #sponser Lively Up Yourself💚💛♥💙
+      Runner | Adventurer | Creator | Photographer PT, M.Sc.- Ortho & Sports Med Creating from in front & behind 📷 EN|FR
     location: "France"
-    followers: 18563
-    engagement: 432
-    commentsToLikes: 0.010610
-    id: ck5hj0e6nfsaw0i11ta5ranxg
+    followers: 2876
+    engagement: 2025
+    commentsToLikes: 0.053379
+    id: ck5hmf4r7lu4p0i11pahq0cw1
     verified: false
-    hashtags: "#nature, #trail, #panorama, #inspiration"
-  - username: "colorsofsprings"
+    hashtags: "#paysageqc, #idhikethat, #qu, #runningcommunity"
+  - username: "simply.xola"
     fullname: >-
-      Coloring
+      Vanessa Xola Donkor
     bio: >-
-      🇫🇷 Paris 📍 Arnaud 🌎 🌍📸 Relax Photograph 📷🌎 🏍 🇯🇵 Free rider of Japanese Roadster 🇯🇵 🏍 🌏🏃🏼‍♂️ Relax Runner 🏃🏼‍♂️🌍 💐🌷🌇 Paris & 🌎 in Colors 🌅🌹💐
+      @queenveebeauty_ @shopqvb @queenshavengh @styledbyxola Miss Malaika GH 2017- 1st Runner Up 👑 Link to my YouTube channel ⤵️
     location: "France"
-    followers: 7223
-    engagement: 1663
-    commentsToLikes: 0.064953
-    id: ck5car7cldz3z0i11o46a8gsl
+    followers: 17202
+    engagement: 372
+    commentsToLikes: 0.039851
+    id: ck55ng9fw65eh0i11ic3wuxai
     verified: false
-    hashtags: "#jardindestuileries, #eiffelofficielle, #seulementparis, #pari"
-  - username: "benoitgirondel"
-    fullname: >-
-      Benoit Girondel
-    bio: >-
-      - 🇫🇷 Drôme 🇫🇷 - Mountain runner ⛰🏕 - @grandraidreunion 2017 - 2018 🥇 - Endurance trail Templiers 2014 - 2016 🥇 - @asicseurope #trailrunning
-    location: "France"
-    followers: 13492
-    engagement: 594
-    commentsToLikes: 0.008551
-    id: ck14ky3nrrwk00i19yqcviimt
-    verified: false
-    hashtags: "#drome, #montagne, #nature, #pyrenees"
+    hashtags: "#linkinbio, #youtuberinghana, #contentcreator, #youtuber"
 ---

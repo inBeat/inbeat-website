@@ -1,60 +1,84 @@
 ---
-title: Top 10 Health TikTok Influencers In Atlanta In 2022
+title: Top 10 Health TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top health TikTok influencers in Atlanta in 2022. Most popular hashtags: #fyp #duet #health #foryoupage.
+  Find top health TikTok influencers in Atlanta in 2023. Most popular hashtags: #health #atlanta #fyp #duet.
 platform: TikTok
-hits: 14
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 14 TikTok influencers like this in Atlanta, United States for you to work with.
+hits: 20
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 20 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
-  - username: "wfpbjosh"
-    fullname: >-
-      Josh Wayne
-    bio: >-
-      Vegan, Whole Food Plant Based, Forager, Empathy
-    location: "United States"
-    followers: 3089
-    engagement: 871
-    commentsToLikes: 0.043022
-    id: ckakny1z394yh0i78q1bxh4cp
-    verified: false
-    hashtags: "#edible, #forage, #yum, #fyp"
   - username: "dyetta"
     fullname: >-
       Donyetta Edwards
     bio: >-
       An Atlanta based lifestyle, health and beauty blog curated by Donyetta Edwards.
     location: "United States"
-    followers: 14200
-    engagement: 1027
-    commentsToLikes: 0.070911
+    followers: 15000
+    engagement: 1093
+    commentsToLikes: 0.085058
     id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#popquiz, #zoom, #workfromhome, #duet"
+    hashtags: "#fyp, #workfromhome, #zoom, #funny"
+  - username: "chessi"
+    fullname: >-
+      Chelsea Parsell 🦋
+    bio: >-
+      Earth love, vintage, and renovating a 1958 mid century home 🌴
+    location: "United States"
+    followers: 123000
+    engagement: 1452
+    commentsToLikes: 0.018017
+    id: ck9rlrzgrze2a0j78l9fsouan
+    verified: false
+    hashtags: "#homerenovation, #style, #giveaway, #homedecor"
+  - username: "jessalynwalker4"
+    fullname: >-
+      Jessalyn🌻
+    bio: >-
+      if you’re seeing this ily🥰 22 atl
+    location: "United States"
+    followers: 27300
+    engagement: 1668
+    commentsToLikes: 0.015839
+    id: ck8nb79zb8lkz0j780zsayrny
+    verified: false
+    hashtags: "#fyp, #relationship, #girl, #funny"
+  - username: "lindsayhammer"
+    fullname: >-
+      Lindsay Hammer
+    bio: >-
+      @linds_hammm @barefootcolumbia BarefootCampusOutfitter.com Venmo: @lindsayhammer
+    location: "United States"
+    followers: 57800
+    engagement: 698
+    commentsToLikes: 0.011930
+    id: ck9ff360pvml60j782jt5o6mh
+    verified: false
+    hashtags: "#bleachtees, #diy, #southcarolina, #gameday"
   - username: "jareddefife"
     fullname: >-
       Dr. Jared DeFife
     bio: >-
       🧠Adult ADHD Therapist (Atlanta) 🗣Psychologist 🎤 Mental health speaker
     location: "United States"
-    followers: 16000
-    engagement: 750
-    commentsToLikes: 0.040751
+    followers: 16200
+    engagement: 744
+    commentsToLikes: 0.039026
     id: ckc90nr0rq8ha0j236wne85e0
     verified: false
-    hashtags: "#mentalhealthawareness, #adhdcheck, #therapy, #adhdlife"
-  - username: "mr.tracyb"
+    hashtags: "#therapistlife, #adhdcheck, #adhdlife, #adhdawareness"
+  - username: "wfpbjosh"
     fullname: >-
-      Tracy J. Brown
+      Josh Wayne
     bio: >-
-      Health&Wellness, Wisdom, Motivation, Justice & positive. linktr.ee/Mr.Tracy
+      Vegan, Whole Food Plant Based, Forager, Empathy
     location: "United States"
-    followers: 27100
-    engagement: 1561
-    commentsToLikes: 0.104611
-    id: ckblka19dd4cc0j23zc2m2cwu
+    followers: 3160
+    engagement: 908
+    commentsToLikes: 0.066418
+    id: ckakny1z394yh0i78q1bxh4cp
     verified: false
-    hashtags: "#vote2020, #thefold, #duet, #fyp"
+    hashtags: "#edible, #plantbased, #atl, #foraging"
   - username: "vinyasavegan"
     fullname: >-
       Michael
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.061744
     id: ckb9c074oyknf0j23xnm03x6c
     verified: false
-    hashtags: "#vegancookies, #veganbreakfast, #vegandessert, #veganrecipes"
-  - username: "mattmastro"
+    hashtags: "#health, #dessert, #veganbreakfast, #veganrecipes"
+  - username: "mr.tracyb"
     fullname: >-
-      mattmastro
+      Tracy J. Brown
     bio: >-
-      The Muscle Blueprint Fitness Trainer Songwriter 1/2 Way Funny ⬇️Join My Team ⬇️
+      Health&Wellness, Wisdom, Motivation, Justice & positive. $GBCookies #LHBK
     location: "United States"
-    followers: 46100
-    engagement: 1163
-    commentsToLikes: 0.070363
-    id: ckcomoi8i60t10j237kgwfv5m
+    followers: 50100
+    engagement: 2131
+    commentsToLikes: 0.201627
+    id: ckblka19dd4cc0j23zc2m2cwu
     verified: false
-    hashtags: "#lol, #morganwallen, #funny, #countryboy"
-  - username: "darksonofkrypton"
+    hashtags: "#listenandlearn, #educatethefold, #lhbk, #themoreweknow"
+  - username: "lorenschaffer"
     fullname: >-
-      DarkSonofKrypton 
+      Loren Schaffer
     bio: >-
-      Peace Officer,Fitness trainer Follow me on IG: darksuperman_fp 1.M followers?
+      I sing about abt stuff 🎙🎶 1/2 of Schaf Apparel ⬇️
     location: "United States"
-    followers: 146600
-    engagement: 1014
-    commentsToLikes: 0.032317
-    id: ck9glmo5vozkm0j78z4yaqcmn
+    followers: 620100
+    engagement: 1555
+    commentsToLikes: 0.017476
+    id: ckaig21zzzj200i787b6160g9
     verified: false
-    hashtags: "#duet, #foryoupage, #copsoftiktok, #fitness"
-  - username: "americans2020"
+    hashtags: "#singer, #schaftok, #lgbtq, #fashion"
+  - username: "donthedisciple"
     fullname: >-
-      Americans2020
+      Don
     bio: >-
-      All About Americans 2020 Let’s be all Friends 💖🇺🇸
+      Jesus saves🙏🏽 insta. donthedisciple New Music ⬇️
     location: "United States"
-    followers: 9316
-    engagement: 728
-    commentsToLikes: 0.147897
-    id: ckb18qycwwnzm0j23byxb3fmu
+    followers: 10200
+    engagement: 2471
+    commentsToLikes: 0.033106
+    id: ckb8ya4cudgw60j23fu2a5z2d
     verified: false
-    hashtags: "#media, #coronavirus, #4u, #loot"
-  - username: "pretty_southernqueen"
-    fullname: >-
-      Ja’Vaughn Sanders
-    bio: >-
-      PayPal/Vemo: southernqueen9 CashApp: $Southernbelle1992 Welcome To The Kingdom
-    location: "United States"
-    followers: 30000
-    engagement: 1331
-    commentsToLikes: 0.024983
-    id: ckb9a2afjutqv0j23zu9gms98
-    verified: false
-    hashtags: "#fyp, #pov, #duet, #blm"
-  - username: "1thrillo"
-    fullname: >-
-      1Thrillo
-    bio: >-
-      Actor/ Graphic Designer/ IG: @1Thrillo / #SilentMovies
-    location: "United States"
-    followers: 9229
-    engagement: 1056
-    commentsToLikes: 0.023048
-    id: ck8kfee21drw50j78kzlmfezd
-    verified: false
-    hashtags: "#lol, #wildlife, #trending, #popular"
+    hashtags: "#worththewait, #jesus, #zithappens, #justaddbriskzero"
 ---

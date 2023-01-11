@@ -1,120 +1,60 @@
 ---
-title: Top 10 Travel Instagram Influencers In Tokyo In 2022
+title: Top 10 Travel Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top travel Instagram influencers in Tokyo in 2022. Most popular hashtags: #japan #tokyo #traveltokyo #japantrip.
+  Find top travel Instagram influencers in Tokyo in 2023. Most popular hashtags: #japan #tokyo #pr #travel.
 platform: Instagram
-hits: 194
+hits: 110
 text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 194 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+text_bottom: Our database holds 110 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
-  - username: "natsukioro"
+  - username: "wadateni"
     fullname: >-
-      Natsuki 🌙 Carry-on Travel
+      和田 テニィ | 𝗧𝗲𝗻𝗶 𝗪𝗮𝗱𝗮
     bio: >-
-      Carryon traveller💛機内持ち込みバッグで旅行 Travel packing ethics @aoudin.co パリ生活後2019FrenchMBA🇫🇷 Tokyo東京🇯🇵 📍#東京　🔜 #京都　#奈良　#河口湖
+      𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 & 𝗕𝗿𝗮𝗻𝗱 𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗮𝗻𝘁 SNS運用代行・コンサル・PR 𝗝-𝗕𝗲𝗮𝘂𝘁𝘆 | 𝗞-𝗕𝗲𝗮𝘂𝘁𝘆 | 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 | 𝗠𝗼𝘁𝗵𝗲𝗿𝗵𝗼𝗼𝗱 📍 𝚃𝚈𝙾 🎌 ウーミーインフルエンサー
     location: "Japan"
-    followers: 11047
-    engagement: 626
-    commentsToLikes: 0.048778
-    id: ckaozmw3gmk3k0i787my4s53s
+    followers: 45906
+    engagement: 265
+    commentsToLikes: 0.036643
+    id: ck5hope1fpzbm0i11d832b0f0
     verified: false
-    hashtags: "#japantrip, #ibaraki, #femaletravel, #traveloutfit"
-  - username: "martha_wernio"
+    hashtags: "#japan, #kidsgram, #tokyomama, #thewagamamadiaries"
+  - username: "arisa28lucia"
     fullname: >-
-      𝐓𝐨𝐤𝐲𝐨𝐠𝐫𝐚𝐟𝐢𝐞® 𝐛𝐲 マルタ
+      Arisa Ⅰアリサ🇯🇵🇮🇹
     bio: >-
-      𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐩𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐢𝐬 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐬 🛑Reposting my Photos ask for permission🛑 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⍜ 𝙲𝚊𝚗𝚘𝚗𝟼𝙳|𝚒𝙿𝚑𝚘𝚗𝚎𝟽+ ✎ 𝙼𝚢𝙰𝚛𝚝 @marthawer
+      》Model,YogaRYT200,PADIrescueDiver 》YouTube"arisarah channel "🌹 📲DM or EMail for collabo
     location: "Japan"
-    followers: 3323
-    engagement: 1648
-    commentsToLikes: 0.027062
-    id: ckaoxya8ff9nc0i78zlmtfzcq
+    followers: 14020
+    engagement: 643
+    commentsToLikes: 0.045579
+    id: ckaow4b797dc10i787gcj4ovu
     verified: false
-    hashtags: "#japan, #japanese, #retrogames, #tokyogram"
-  - username: "japan_inside"
+    hashtags: "#pr, #training, #travelphotography, #workout"
+  - username: "princezakk"
     fullname: >-
-      Japan Inside
+      瀬田ザック
     bio: >-
-      A place to discover and see the beauty of Japan. Tag: @japan_inside @Photography_in_japan Use: #japan_inside #photography_in_japan to be featured.
+      Who are you? You are not me. ・アメリカ人で〜す🇺🇸🍔✨ ・YOUTUBERになりました ・Model とりあえず、 ♛YOLO&ENJOYLIFE♛
     location: "Japan"
-    followers: 73428
-    engagement: 202
-    commentsToLikes: 0.023972
-    id: ck0u7h80p4o640i19u4o3q0zh
+    followers: 7032
+    engagement: 2063
+    commentsToLikes: 0.011882
+    id: ck9hcg14bl7pj0j78geayxuhc
     verified: false
-    hashtags: "#kumamoto, #japantravel, #lightroomweek, #japantrip"
-  - username: "inesarjoun"
-    fullname: >-
-      Ines | イネス
-    bio: >-
-      ✨Helping people to generate an income from their phone 🏝Travel Addict 🦿Networker 📈Fx Trader 📲ウーミーインフルエンサー 📍TKY WORK AND TRAVEL THE WORLD W/ ME 📩
-    location: "Japan"
-    followers: 6380
-    engagement: 901
-    commentsToLikes: 0.066843
-    id: ck9wdlg6gg7eh0j78ene41ypu
-    verified: false
-    hashtags: "#japantravel, #japantravelphotos, #entrepreneurtips, #successteam"
-  - username: "masashikuramochi"
-    fullname: >-
-      東京の夜景が好きな人 ᴳⁱᶠᵗ ᶠʳᵒᵐ ᴶᵃᵖᵃⁿ
-    bio: >-
-      𝐓𝐨𝐤𝐲𝐨 🇯🇵 フォローめちゃ嬉しいです♪ ぶらり東京の風景を切り抜いてます😄 Strolling The night view of Tokyo 👋 #東京の夜景 #東京散策 #tokyonightview 𝐒𝐎𝐍𝐘 α𝟕𝐑𝐢𝐢𝐢 / α𝟔𝟓𝟎𝟎
-    location: "Japan"
-    followers: 14349
-    engagement: 1272
-    commentsToLikes: 0.025129
-    id: ck5pvjst6i8bg0i115jrscoc1
-    verified: false
-    hashtags: "#hubsplanet, #city, #team, #ptk"
-  - username: "tokyoluv"
-    fullname: >-
-      TOKYOLUV
-    bio: >-
-      Visual artist and street photographer. Please check out my shop 👏
-    location: "Japan"
-    followers: 26463
-    engagement: 658
-    commentsToLikes: 0.009417
-    id: ck0u1whccy9b40i195b90ej05
-    verified: false
-    hashtags: ""
-  - username: "shes.wanderthirsty"
-    fullname: >-
-      Zeena ❅ Alter Ego -📍Toronto
-    bio: >-
-      🌎 Personal Travel/Photography Diary
-    location: "Japan"
-    followers: 12713
-    engagement: 458
-    commentsToLikes: 0.279744
-    id: ck6ucqpu2h1xm0j710cm8vwsc
-    verified: false
-    hashtags: "#fujisan, #traveltokyo, #tokyo, #ig"
+    hashtags: "#yolo, #tiktok, #youtube, #princezakk"
   - username: "englishguideinjapan"
     fullname: >-
       HIRO⛩Anime&Culture Guide/Tokyo
     bio: >-
       🍶Qualified #japanesesake Navigator ⛩Private Guide #anime tourism×Traditional Culture tour ✈️Bar Hopping, Akihabara Walking tour, Tasting Japanese Sake
     location: "Japan"
-    followers: 8454
-    engagement: 2458
-    commentsToLikes: 0.005457
+    followers: 8317
+    engagement: 2394
+    commentsToLikes: 0.004982
     id: ckaoybkk4gteq0i78ok0lvnt9
     verified: false
-    hashtags: "#tokyo, #guideintokyo, #japaneseculture, #manga"
-  - username: "chihiro_in_japan"
-    fullname: >-
-      Chihiro | Tokyo-based🇯🇵
-    bio: >-
-      CAPTURE JAPAN 📷 Life | Street | Travel 📧 chihiroplaza@gmail.com @chihiro_cuisine | @chihiro_citron
-    location: "Japan"
-    followers: 27504
-    engagement: 899
-    commentsToLikes: 0.013509
-    id: ck0w40updw8dc0i19p9jlmg9n
-    verified: false
-    hashtags: "#japan, #visitjapan, #tokyotravel, #tokyostreets"
+    hashtags: "#jepang, #anime, #jap, #japon"
   - username: "japanko_official"
     fullname: >-
       Japanko Official
@@ -126,5 +66,65 @@ profiles:
     commentsToLikes: 0.008917
     id: ck14h9vll99ob0i1980o3xwov
     verified: false
-    hashtags: "#cherryblossoms, #tokyostreet, #mtfuji, #tokyojapan"
+    hashtags: "#japannaturelovers, #japanlife, #lovetokyo, #visitjapan"
+  - username: "sakiiiya"
+    fullname: >-
+      SAKIE
+    bio: >-
+      📍Tokyo Travel / Photograph / CEO ▶︎ #HowtoVacationlikesakiiiya ▶︎ #HowtoStaycationlikesakiiiya
+    location: "Japan"
+    followers: 41430
+    engagement: 141
+    commentsToLikes: 0.007285
+    id: ck5hgnb963pst0i11x12ewcv8
+    verified: false
+    hashtags: "#howtovacationlikesakiiiya, #breitling, #pr, #squadonamission"
+  - username: "aya_dream04"
+    fullname: >-
+      Dream Aya
+    bio: >-
+      🄵🅁🄴🄴🄻🄰🄽🄲🄴 𝙘𝙖𝙢𝙚𝙧𝙖/𝙙𝙞𝙧𝙚𝙘𝙩𝙞𝙤𝙣/𝙞𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣 お仕事の依頼はこちらにお願いします ✉️ info@photobyaya.com
+    location: "Japan"
+    followers: 522861
+    engagement: 338
+    commentsToLikes: 0.002729
+    id: ck134fv22w8d90i19rgq5y50m
+    verified: true
+    hashtags: "#dream, #photoby, #repost, #ami"
+  - username: "misakinaganoma"
+    fullname: >-
+      MISAKI Singer
+    bio: >-
+      永野間美咲 シンガー/ソングライター/ 𝚂𝙷𝙴𝚃𝙷𝚁𝙴𝙴 モデルオーディショングランプリ/ 𝚂𝚑𝚒𝚋𝚞𝚢𝚊𝙲𝚛𝚘𝚜𝚜-𝙵𝙼 エンタメジャック 𝙸𝙽 𝚂𝙷𝙸𝙱𝚄𝚈𝙰 / パーソナルトレーナー資格 🇯🇵 Business: misakirelations@gmail.com ファンクラブ⬇️
+    location: "Japan"
+    followers: 51869
+    engagement: 100
+    commentsToLikes: 0.035858
+    id: ck5cbgrgkfecv0i119l8stm4g
+    verified: false
+    hashtags: "#theparisianchique, #valmuer, #shibuyacrossfm, #louvremuseum"
+  - username: "tokioaoyama"
+    fullname: >-
+      Tokio Aoyama
+    bio: >-
+      Painter. Murals, cover art, live painting, portraits, illustrations ... #mural #coverart #illustration #壁画　#イラスト　#アルバムカバー　#ライブペイント　#livepainting
+    location: "Japan"
+    followers: 8343
+    engagement: 304
+    commentsToLikes: 0.016584
+    id: ck5q5ppjwtzej0i11dsrt3brs
+    verified: false
+    hashtags: "#itsukanarita, #tokioaoyama, #akita, #kazuno"
+  - username: "_icyphoto_"
+    fullname: >-
+      Photographer in Tokyo ジュリア
+    bio: >-
+      Julia • 🇷🇺🇪🇸🇧🇷🇬🇧 Moscow ➡️ Rio de Janeiro ➡️ Barcelona ➡️ 📍Tokyo • #sonya7riii • Travel photos @_icyphotos_ Youtube channel ⬇️
+    location: "Japan"
+    followers: 21998
+    engagement: 981
+    commentsToLikes: 0.023427
+    id: ck5c1kyiive4i0i11svbdfe22
+    verified: false
+    hashtags: "#sonyalphasclub, #portraitinspiration, #portraitgames, #portrait"
 ---

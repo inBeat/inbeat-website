@@ -1,118 +1,130 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Singapore In 2022
+title: Top 10 Mothers TikTok Influencers In Singapore In 2023
 description: >-
-  Find top mothers TikTok influencers in Singapore in 2022. Most popular hashtags: #fyp #tiktoksg #singapore #duet.
+  Find top mothers TikTok influencers in Singapore in 2023. Most popular hashtags: #tiktoksg #fyp #singapore #duet.
 platform: TikTok
-hits: 9
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 9 TikTok influencers like this in Singapore for you to connect with.
+hits: 10
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 10 TikTok influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "nottynoah"
+  - username: "sgranjini_andrea"
     fullname: >-
-      Noah
+      சிங்கை ரஞ்சினி
     bio: >-
-      Don’t take me seriously CEO of random
+      சிங்கைபெண்🇸🇬🎂30.4🌟சித்திரை உன்னை எதிர்த்து நிற்கும் போது உன் வீரத்தை காட்டு
     location: "Singapore"
-    followers: 21200
-    engagement: 326
-    commentsToLikes: 0.043371
-    id: ckbb6w20gwyys0j23lx3s7cl5
+    followers: 23000
+    engagement: 1661
+    commentsToLikes: 0.091983
+    id: ckcdeevs463xw0j23g6uqc1bt
     verified: false
-    hashtags: "#happymothersday, #boomerang, #humour, #comedy"
-  - username: "neilanwts"
+    hashtags: "#bestoftheday, #singaporetiktok, #instagrammers, #vasantham"
+  - username: "suzytiktokersg"
     fullname: >-
-      Neilan Wong Tun Shane
+      S U Z Y ♥️🦋
     bio: >-
-      🇸🇬🇨🇳
+      A Mom 🇸🇬 #SuzyfromSingapore #LoveBombWarrior♥️💣#SuzyShoutOut NO SPAM LIKES!
     location: "Singapore"
-    followers: 36200
-    engagement: 725
-    commentsToLikes: 0.016795
-    id: ckamukhb4zk5g0i78nabipfai
+    followers: 9209
+    engagement: 6623
+    commentsToLikes: 1.215825
+    id: ckd19ttzerngy0j23trm455s5
     verified: false
-    hashtags: "#foryou, #fyp, #singapore, #mothersday"
-  - username: "annetteandafish"
+    hashtags: "#tiktoksg, #suzyfromsingapore, #sgtiktokers, #duet"
+  - username: "douglasokj"
     fullname: >-
-      Annette Lee
+      Douglas Ong
     bio: >-
-      singaporean 🇸🇬 musician. actor. filmmaker. 🎵🎬 ⬇️new music out now⬇️
+      🇸🇬 food / trends follow my gram: douglasses
     location: "Singapore"
-    followers: 53200
-    engagement: 487
-    commentsToLikes: 0.029929
-    id: ckbkt2ry4o4o80j23zjoftoh7
-    verified: true
-    hashtags: "#comedy, #viral, #foryoupage, #foryou"
+    followers: 65300
+    engagement: 690
+    commentsToLikes: 0.094451
+    id: ckck2dlaklrt50j231l9bs6a7
+    verified: false
+    hashtags: "#uniquirk, #tiktoksingapore, #douglasong, #fyp"
+  - username: "engelkoh"
+    fullname: >-
+      Engel Koh
+    bio: >-
+      For more recipes follow me 👼 💖美女厨房💖 FB: Engelkitchen Insta: Engelkoh
+    location: "Singapore"
+    followers: 85300
+    engagement: 404
+    commentsToLikes: 0.056249
+    id: ckb9qqkjumv0c0j23v5oq55wg
+    verified: false
+    hashtags: "#tiktokfood, #japanesefood, #engelkitchen, #instantnoodle"
+  - username: "janusdiscoverylifecoach"
+    fullname: >-
+      Janus Chan
+    bio: >-
+      Life Coach helping women to succeed in personal & professional life
+    location: "Singapore"
+    followers: 3905
+    engagement: 191
+    commentsToLikes: 0.046576
+    id: ckdnhib5xi6320j23pyiyb9vu
+    verified: false
+    hashtags: "#comedy, #learningisfun, #funny, #womenover40"
   - username: "zatayayummy"
     fullname: >-
       zatayayummy
     bio: >-
       Food | Recipe | Youtube | Singapore The boy that does baking videos. 😉🍰
     location: "Singapore"
-    followers: 3858
-    engagement: 380
-    commentsToLikes: 0.007504
+    followers: 4407
+    engagement: 361
+    commentsToLikes: 0.008069
     id: ck9jvmlzisw6e0j78d9w56js8
     verified: false
-    hashtags: "#sgfoodie, #recipe, #sgunited, #sgtiktok"
+    hashtags: "#cake, #sgfoodie, #sgunited, #bakingrecipe"
+  - username: "officialkarenfoo"
+    fullname: >-
+      Karen Foo
+    bio: >-
+      📚Investor,Trader & Speaker 🏆Ranked #1 in 🇸🇬 Trading Contest 👇My Broker⬇️
+    location: "Singapore"
+    followers: 101400
+    engagement: 270
+    commentsToLikes: 0.000269
+    id: ck9ejbixa22yt0j78r8aovdds
+    verified: false
+    hashtags: "#stocks, #study, #investor, #stockmarket"
   - username: "mothershipsg"
     fullname: >-
       Mothership.sg
     bio: >-
       The even younger people run this account. 
     location: "Singapore"
-    followers: 64300
-    engagement: 632
-    commentsToLikes: 0.030544
+    followers: 75200
+    engagement: 420
+    commentsToLikes: 0.033305
     id: ckbqs759rd46u0j23h61yfc6t
     verified: true
-    hashtags: "#meme, #singapore, #foodie, #foryoupage"
+    hashtags: "#foryoupage, #fyp, #singapore, #tiktoksg"
   - username: "livelaughenjoy"
     fullname: >-
       lakshmi
     bio: >-
       freelance Mua 🇸🇬 here to distress and enjoy... be kind do not hurt others!!!
     location: "Singapore"
-    followers: 37400
-    engagement: 1278
-    commentsToLikes: 0.078647
+    followers: 48100
+    engagement: 2561
+    commentsToLikes: 0.246853
     id: ckb9i45hv84v30j23mmj0ic4j
     verified: false
-    hashtags: "#glowup, #tiktoksg, #askgang, #tiktokindia"
-  - username: "iemmapotato"
+    hashtags: "#athi28, #trending, #tamilponnu, #team"
+  - username: "zhlowart_official"
     fullname: >-
-      emma 🐻‍❄️
-    bio: >-
-      ig: @iemmapig for business enquiries other links ⬇️
-    location: "Singapore"
-    followers: 191300
-    engagement: 1126
-    commentsToLikes: 0.016199
-    id: ckb9qqxhqmwtb0j23rybd12wc
-    verified: false
-    hashtags: "#xyzbca, #singapore, #duet, #dance"
-  - username: "quentin_pradelle"
-    fullname: >-
-      Quentin Pradelle
-    bio: >-
-      Pro Ping Pong Player & a couple of other stuff lol 📍 France🇫🇷/SG🇸🇬
-    location: "Singapore"
-    followers: 15700
-    engagement: 951
-    commentsToLikes: 0.023427
-    id: ck977bqx83mmv0j78867c6u8k
-    verified: false
-    hashtags: "#spin, #jump, #tabletennis, #sport"
-  - username: "zihaolol98"
-    fullname: >-
-      zihaolol98
+      Zhlowart_official
     bio: >-
       🇸🇬 Zi Hao Low. 22. NTU, ADM. I post other works on Instagram🤷🏻‍♂️
     location: "Singapore"
-    followers: 399800
-    engagement: 1054
-    commentsToLikes: 0.014214
+    followers: 438500
+    engagement: 1068
+    commentsToLikes: 0.014540
     id: ck920yiudg8c80j78ktm13z3c
     verified: true
-    hashtags: "#art, #fyp, #viral, #thinkb4youdo"
+    hashtags: "#fyp, #art, #viral, #hi2021"
 ---

@@ -1,48 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Seoul In 2022
+title: Top 10 Beauty Instagram Influencers In Seoul In 2023
 description: >-
-  Find top beauty Instagram influencers in Seoul in 2022. Most popular hashtags: #fashion #korea #beauty.
+  Find top beauty Instagram influencers in Seoul in 2023. Most popular hashtags: #makeup #ootd #beauty.
 platform: Instagram
-hits: 20
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 20 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 24
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 24 Instagram influencers like this in Seoul, South Korea for you to work with.
 profiles:
-  - username: "jjjj_yuri"
+  - username: "glam_dana"
     fullname: >-
-      ෆ 유리 ෆ
+      운동하는간호사ㅣ다나(Dana)
     bio: >-
-      record one's precious memory 🐾
+      🇰🇷 Seoul/health&Beauty lifestyle💕 👑 @nabbawffkorea ambassador 💪🏿 @f45_training_sinnonhyeon ambassador 🏅 20 NABBA Bikini athlete tall top6
     location: "South Korea"
-    followers: 3820
-    engagement: 1297
-    commentsToLikes: 0.094299
-    id: ckaoz5j97kgqe0i781birsyac
+    followers: 93409
+    engagement: 208
+    commentsToLikes: 0.030592
+    id: ck6uiejgjemip0j71e2w2sfil
     verified: false
-    hashtags: "#selfie, #beauty, #dailylook, #cafetour"
-  - username: "_gabsmoreira99"
+    hashtags: "#fitness, #gym, #bodycheck, #dailylook"
+  - username: "hannacoreana"
     fullname: >-
-      Gabriel (가비) | 한태은
+      Hanna Coreana 한나
     bio: >-
-      𝕗𝕚𝕝𝕞 🎬 | 𝕡𝕙𝕠𝕥𝕠 🏔 | 𝕔𝕠𝕗𝕗𝕖𝕖 ☕️ 𝕥𝕣𝕪𝕚𝕟𝕘 𝕥𝕠 𝕗𝕚𝕟𝕕 𝕨𝕙𝕖𝕣𝕖 𝕚 𝕓𝕖𝕝𝕠𝕟𝕘 ✨ 𝕡𝕥 | 𝕖𝕟 | 𝕕𝕖 | 𝕜𝕣 📍𝕤𝕖𝕠𝕦𝕝
+      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
     location: "South Korea"
-    followers: 13610
-    engagement: 1061
-    commentsToLikes: 0.023661
-    id: ck14gtk7y6ygp0i191uadi7v1
+    followers: 73663
+    engagement: 1430
+    commentsToLikes: 0.017638
+    id: ck139lh76lwpc0i19g78af5pm
     verified: false
-    hashtags: "#portrait, #unesco, #modeling, #baekje"
-  - username: "oxana_lebedew"
+    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
+  - username: "hanna.co.kr"
     fullname: >-
-      Oxana Lebedew
+      Hanna Kim 김한나
     bio: >-
-      Professional Dancer World Champion Showdance
+      아나운서 / 성우 / 행사MC / 릴리맘 TV Presenter Radio DJ 📻 @thescoop1013 Voice Actress 2018 Pyeongchang Olympics MC 2018 Winter Paralympics MC 🌸🌼🌺
     location: "South Korea"
-    followers: 33342
-    engagement: 486
-    commentsToLikes: 0.027372
-    id: ck0w76pkgc17u0i19enej0t1d
+    followers: 38082
+    engagement: 186
+    commentsToLikes: 0.007883
+    id: ck5zm77ftm18b0i145hym7m16
     verified: false
-    hashtags: "#samba, #act, #latinamerican, #life"
+    hashtags: "#ootd, #nikegolf, #golf, #golflife"
   - username: "yangkko"
     fullname: >-
       Yang A Reum
@@ -55,76 +55,76 @@ profiles:
     id: ck5hltbtbktm10i11zy9ispxq
     verified: false
     hashtags: ""
+  - username: "nangjapl_wedding"
+    fullname: >-
+      베리굿웨딩 정숙영부장
+    bio: >-
+      ᴡᴇᴅᴅɪɴɢ ᴘʟᴀɴɴᴇʀ, #웨딩플래너정숙영 🌸 ʏᴏᴜʀ ʙᴇsᴛ ᴅᴀʏs ᴀʀᴇ ᴡɪᴛʜ ᴍᴇ 🌿 📱ᴋᴀᴋᴀᴏ ᴛᴀʟᴋ ɪᴅ : nangja0802 𖤐 신랑신부님 성함 & 연락처 / 결혼예정일 / 상담 방문 일정 보내주세요. 𖤐 견적문의 받지 않습니다.
+    location: "South Korea"
+    followers: 36944
+    engagement: 187
+    commentsToLikes: 0.010012
+    id: ck8t1pqivwkjd0j78h8xwnoo6
+    verified: false
+    hashtags: "#kw, #12122020, #love"
   - username: "ridwanibrahim_"
     fullname: >-
       R I D W A N 🌏
     bio: >-
-      신화사 @shsmodel 🇰🇷 🇸🇴🇺🇸 UW‘18 🎓#Seattle 📍Seoul
+      신화사model @shsenter 🇰🇷 🇸🇴🇺🇸 UW‘18 🎓#Seattle 📍Seoul
     location: "South Korea"
-    followers: 9983
-    engagement: 1174
-    commentsToLikes: 0.021084
+    followers: 10562
+    engagement: 1170
+    commentsToLikes: 0.015151
     id: ck1373afb9jy90i19likt68ss
     verified: false
-    hashtags: "#tb"
-  - username: "morganalisonstewart"
+    hashtags: "#tb, #japan"
+  - username: "seungsse2"
     fullname: >-
-      Morgan
+      🇰🇷 승스이 | 리우[Liu Makeup]
     bio: >-
-      Korean + American ✨ 550,000+ on The Beauty Breakdown Channel ✨Official Instagram ✨ moegeebear on Twitch ✨👇🎥 #thebeautybreakdown
+      (❣️ 연애 중) 📩 DM & E-mail (ryou3339@naver.com) 👑 Makeup Artist · Beauty Creator · 브랜딩 · 모델 • ———————————————————————— • 🔻 Youtube · TikTok · Portfolio 🔻
     location: "South Korea"
-    followers: 78072
-    engagement: 228
-    commentsToLikes: 0.014175
-    id: ck55j9taqwl0x0i11n9d4lden
+    followers: 99336
+    engagement: 245
+    commentsToLikes: 0.023286
+    id: ck0w794mqcdt30i19zgt8hieh
     verified: false
-    hashtags: "#kbeauty, #koreanskincare, #skincare, #koreanbeauty"
-  - username: "won_tattooer"
+    hashtags: "#makeupartist, #mensstyle, #menshair, #makeupkorea"
+  - username: "anna.vivchar"
     fullname: >-
-      ᵂᴼᴺ
+      Anna🦋🍦
     bio: >-
-      Mangwon, Seoul ↓ 바로 예약가능한 도안 @won_drawing @damda_beauty No DM Booking open ↓ 10, 11월 예약문의
+      Seoul📍@a.sset_official 🇰🇷 MA @egomodels_ukraine🇺🇦 @fashionmodel.it 🇮🇹 @premium_models 🇫🇷 @bravomodelstokyo🇯🇵 @blowmodels🇪🇸 @marilynagencyny 🇺🇸
     location: "South Korea"
-    followers: 44719
-    engagement: 205
-    commentsToLikes: 0.008706
-    id: ck8tatjdkszub0j78ubtfka3v
+    followers: 15752
+    engagement: 370
+    commentsToLikes: 0.021946
+    id: ck0u8a7fy6yas0i19dfn4iwf6
     verified: false
-    hashtags: "#wontattoo"
-  - username: "2219a"
+    hashtags: "#seasonal, #beauty"
+  - username: "naina_thapa"
     fullname: >-
-      김정훈 (Kim Jung Hoon)
+      Naina ★네나★🧿
     bio: >-
-      Seoul, hairdresser✨ WEST END BARBERS✂️ 헤어모델 지원문의 DM📩 Fashion beauty influencer📷 2219a@naver.com📧 contact : DM✉️
+      INDIA 🇮🇳 | SEOUL 🇰🇷 Founder of @flawinabeauty
     location: "South Korea"
-    followers: 344861
-    engagement: 128
-    commentsToLikes: 0.013972
-    id: ckaou654lyywc0i78f2js8vud
+    followers: 7162
+    engagement: 908
+    commentsToLikes: 0.051511
+    id: ck6uevqevtcty0j718rd4gh5w
     verified: false
-    hashtags: "#westendbarbers, #westend, #manshair, #2219a"
-  - username: "big_miss_han"
+    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
+  - username: "amy.apeach"
     fullname: >-
-      Han Yoo Ra
+      Amy • 에이미
     bio: >-
-      🌏 ʟɪᴛᴛʟᴇ & ʙɪɢ 🌎 ɪsᴀɪᴀʜ 60:22 📍Seoul, Korea 📮littleandbig25@gmail.com 📚 @beasiswamasadepandunia 🔮 YouTube Channel : Little & BiG 🌏
+      📍Seoul | 서울⠀ ▪️프리랜서 모델 - 촬영문의 DM⠀ 한국에서 사는 영국여인🇬🇧
     location: "South Korea"
-    followers: 377221
-    engagement: 234
-    commentsToLikes: 0.003939
-    id: ck0u9tehjamir0i197vtzrsj9
-    verified: true
-    hashtags: "#wineandtalk, #wineandtalk2020, #arirangtv, #sunkissedskin"
-  - username: "iseoulyu"
-    fullname: >-
-      korea threads🇰🇷
-    bio: >-
-      shares all about korea✨ 💟 study korean language 💟 korean travel tips 💟 korean beauty tips 💟 k-pop updates 💟 k-drama updates
-    location: "South Korea"
-    followers: 30336
-    engagement: 2989
-    commentsToLikes: 0.008651
-    id: ckapblesb0bmq0i78mzw41gqr
+    followers: 2582
+    engagement: 1022
+    commentsToLikes: 0.047150
+    id: ck9wdcg62f1020j787vvonbun
     verified: false
-    hashtags: "#korea, #exo, #koreanvocab, #belajarkorea"
+    hashtags: "#miallpinkslimmingpill"
 ---

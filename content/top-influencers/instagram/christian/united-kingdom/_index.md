@@ -1,33 +1,21 @@
 ---
-title: Top 10 Christian Instagram Influencers In United Kingdom In 2022
+title: Top 10 Christian Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top christian Instagram influencers in United Kingdom in 2022. Most popular hashtags: #covid19 #lockdown #pedalshots.
+  Find top christian Instagram influencers in United Kingdom in 2023. Most popular hashtags: #smile #salvation #instadaily.
 platform: Instagram
-hits: 317
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 317 Instagram influencers like this in United Kingdom for you to work with.
+hits: 217
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 217 Instagram influencers like this in United Kingdom for you to connect with.
 profiles:
-  - username: "emnzeribe"
-    fullname: >-
-      Okegbue Nzeribe Emmanuel
-    bio: >-
-      Advocate of True Christian Lifestyle, Zest Leadership & Positive Innovation Culture. • ACiArb | Law Student • President; BUSA, '20/21 - @busa.connect.
-    location: "United Kingdom"
-    followers: 3332
-    engagement: 2403
-    commentsToLikes: 0.128663
-    id: ck6tvgo4gm4mk0j71wrlw6c7f
-    verified: false
-    hashtags: "#theoneteam, #staypositive, #eko4show, #transitionchallenge"
   - username: "femiondrums"
     fullname: >-
       Femi Koleoso
     bio: >-
-      Christian, Nigerian, North London Drummer: Ezra Collective, Jorja Smith DJ: Reprezent Radio - Saturday 6-8pm GMT
+      Christian, Nigerian, North London Drummer: Ezra Collective, Jorja Smith, Gorillaz DJ: Reprezent Radio - Saturday 6-8pm GMT
     location: "United Kingdom"
-    followers: 17909
-    engagement: 1009
-    commentsToLikes: 0.039675
+    followers: 19175
+    engagement: 1011
+    commentsToLikes: 0.041887
     id: ck5hpyrhms73u0i11txrnshnn
     verified: true
     hashtags: "#livingroomcup, #playinside"
@@ -35,96 +23,108 @@ profiles:
     fullname: >-
       d r i p   k i n g 🇬🇧/🇿🇼
     bio: >-
-      This account aint your speed🐍🔥🇿🇼 Am a beast👌👕👖 Slime mentality🔥 Im a Christian😍
+      This account aint your speed🐍🔥🇿🇼 Am a beast👌👕👖 Introvert🤎 Slime mentality🔥 Im a Christian😍 s.martins my dwag🙏🏽
     location: "United Kingdom"
-    followers: 67247
-    engagement: 407
-    commentsToLikes: 0.078755
+    followers: 68692
+    engagement: 448
+    commentsToLikes: 0.068008
     id: ck8tdgu7a38zn0j78xce66sad
     verified: false
-    hashtags: "#updates, #maskoff, #streetwearcathedral, #2020"
-  - username: "karlobaker"
+    hashtags: "#streetwearcathedral, #streetweaecentral, #streetwear, #updates"
+  - username: "badnewsbaya"
     fullname: >-
-      Karlo Baker
+      MOKONZI BAYA
     bio: >-
-      📕 Men's Lifestyle, Fashion & Travel Blog 💻 Entrepreneur|PublicSpeaker|Writer 🗣 Face of #Nero in #devilmaycry5 ❤️ Health & Fitness ✝️ Christian 📍 LDN
+      Baya’s World 🌍 @bodyandfit_nl athlete 👆🏾DISCOUNT: CHRISTIAN10 Contact: @getfit.withchris for personal trainingsessions.
     location: "United Kingdom"
-    followers: 45694
-    engagement: 331
-    commentsToLikes: 0.051905
-    id: ck6tpfsiyjmb60j71epp6drpu
+    followers: 12167
+    engagement: 452
+    commentsToLikes: 0.039422
+    id: ck55jjsrvx6de0i11a2mzg04i
     verified: false
-    hashtags: "#goldenhour, #leadershipgoals, #wordsarecheap, #getyourprioritiesright"
-  - username: "aaron.borrill"
+    hashtags: "#bayakickboxing, #getfitwithchris, #abslikebaya, #bayathaiboxing"
+  - username: "_diana_yy"
     fullname: >-
-      Aaron Borrill
+      Diana✨
     bio: >-
-      ✝️ Christian 🖊 Tech Editor at @cyclingnews_feed & @bikeperfectweb 🏆 Award-Winning Writer 🚲 eRacer for @cryo_rdt 📍South African 🇿🇦 in 🇬🇧 📸 GoPro 8
+      •from 🇺🇦, now in 🇩🇪 •christian •traveler «I can do all things through Him who strengthens me.» Philippians 4:13 for all requests: dia-j@outlook.com
     location: "United Kingdom"
-    followers: 19889
-    engagement: 243
-    commentsToLikes: 0.030687
-    id: ck5hryftwvp1e0i11ym85rap4
+    followers: 5561
+    engagement: 454
+    commentsToLikes: 0.094164
+    id: ck1380w52dyht0i19iw546amz
     verified: false
-    hashtags: "#thetasteofsport, #zwift, #factorbikes, #gopro"
-  - username: "discover_still"
+    hashtags: "#blogger, #photooftheday, #amazing, #smile"
+  - username: "officialnoreenkhan"
     fullname: >-
-      Paul Sanders
+      Noreen Khan
     bio: >-
-      Christian, father, mindful photographer, battling mental health issues, fibromyalgia warrior & former Picture Editor of The Times
+      Radio DJ on BBC ASIAN NETWORK, host and stand-up comedian. Spend a lot of my time doing yoga! email: Christian@bluebookam.com
     location: "United Kingdom"
-    followers: 6364
-    engagement: 791
-    commentsToLikes: 0.059507
-    id: ck5bz04t0q6v60i11b4ffuh5l
-    verified: false
-    hashtags: "#innercritic, #mindfulness, #mindfulphotography, #contemplativephotography"
-  - username: "th3saga"
-    fullname: >-
-      Sensei Saga (415-843-7242)
-    bio: >-
-      #SenseiSzn 🙏🏽🐉🇵🇷 Christian Recording Artist ⛪️ @urltv — Christian Battle Rapper MERCH: @Th3Outsiders Business 📧: th3outsiders@gmail.com NEW CONTENT⬇️
-    location: "United Kingdom"
-    followers: 38034
-    engagement: 115
-    commentsToLikes: 0.068753
-    id: ck13b0u2mt4wg0i19h5ub4nd6
+    followers: 87539
+    engagement: 193
+    commentsToLikes: 0.033450
+    id: ck0w0r9xwfn6f0i19tnf6ysgk
     verified: true
-    hashtags: "#th3cover, #senseiszn, #nbastreetvol2, #thelastride"
-  - username: "salv96_"
-    fullname: >-
-      SK
-    bio: >-
-      God First ✝️ Christian The Official account of SK •📸 Model - @Fusionmng •🧥 Ambassador - @Official_foren •📺 @Officialdons
-    location: "United Kingdom"
-    followers: 20956
-    engagement: 557
-    commentsToLikes: 0.019037
-    id: ck5cl22rfy3as0i11a02f5k5u
-    verified: false
-    hashtags: "#anything4paula"
+    hashtags: "#sideplankvariation, #fitness, #yogapractice, #motivation"
   - username: "dailytestament"
     fullname: >-
       Daily Testament // Bible
     bio: >-
-      #1 Christian page on Instagram Follow for more daily Bible verses 😇 Direct message for business enquiries
+      #1 Christian page on Instagram Follow for more Bible verses 😇 DM/Email for business enquiries
     location: "United Kingdom"
-    followers: 146217
-    engagement: 293
-    commentsToLikes: 0.032406
+    followers: 175390
+    engagement: 350
+    commentsToLikes: 0.029293
     id: ck0w74aj2bomh0i1911t2jjcm
     verified: false
-    hashtags: "#christ, #christian, #love, #biblequote"
+    hashtags: ""
   - username: "gymnast_emily10"
     fullname: >-
       @gymnast_emily10™
     bio: >-
       A work in progress Emily 16 N.Ireland Christian Run by mum
     location: "United Kingdom"
-    followers: 138961
-    engagement: 182
-    commentsToLikes: 0.016907
+    followers: 135327
+    engagement: 186
+    commentsToLikes: 0.017308
     id: ck14go4fe672h0i19otm70tzb
     verified: false
-    hashtags: "#tbt, #forcefieldactivated, #airtrackfactory, #throwback"
+    hashtags: "#fall, #oops, #forcefieldactivated, #airtrackfactory"
+  - username: "blessedcamp"
+    fullname: >-
+      Blessed Camp
+    bio: >-
+      #1 Christian Lifestyle Retail Chain The ONLY real Christian Brand, Follow our Brand Reps 🙌🏽🙏 International Shipping DM for Customer Service
+    location: "United Kingdom"
+    followers: 48152
+    engagement: 76
+    commentsToLikes: 0.112182
+    id: ck8t0wahstki90j78wn73iwk0
+    verified: false
+    hashtags: "#blessed, #salvation, #christian, #biblia"
+  - username: "lesswastelaura"
+    fullname: >-
+      Laura Young🌿
+    bio: >-
+      ✦ tips for living sustainably @tedx_official speaker @bbcthesocial creator ✞ Christian Glasgow she/her ✎ MSc Environmental Protection and Management
+    location: "United Kingdom"
+    followers: 40652
+    engagement: 171
+    commentsToLikes: 0.039518
+    id: ck13c4fo9ykgg0i1920inltvy
+    verified: false
+    hashtags: "#zerowasteliving, #choosetorefuse, #oootd, #plasticfree"
+  - username: "lajuiren"
+    fullname: >-
+      The Lord’s Storyteller
+    bio: >-
+      #DatingIntelligently 🏆BestsellingAuthor 📔No. 1 BookWritingCoach 🎬Film Maker @lajuirenfilms Fdr @christianstorytellerprize Iyawo @pst_iren 👇🏾
+    location: "United Kingdom"
+    followers: 42197
+    engagement: 318
+    commentsToLikes: 0.015717
+    id: ck5c9qtfzbxsw0i11q1xkjqzq
+    verified: false
+    hashtags: "#hunger, #lagoslockdown, #thecourtshipcode, #loveisastar"
 ---

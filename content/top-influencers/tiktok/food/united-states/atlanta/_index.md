@@ -1,48 +1,72 @@
 ---
-title: Top 10 Food TikTok Influencers In Atlanta In 2022
+title: Top 10 Food TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top food TikTok influencers in Atlanta in 2022. Most popular hashtags: #fyp #atlanta #foryou #food.
+  Find top food TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
 hits: 41
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 41 TikTok influencers like this in Atlanta, United States for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 41 TikTok influencers like this in Atlanta, United States for you to contact.
 profiles:
-  - username: "justlex.x"
+  - username: "kristinacichanowsky"
     fullname: >-
-      Lex
+      Kristina Cichanowsky
     bio: >-
-      26 Accepting Orders NOW🔥 NC & ATL🍑 MY WEBSITE & YOUTUBE below↙️
+      Kristina
     location: "United States"
-    followers: 66000
-    engagement: 1268
-    commentsToLikes: 0.174093
-    id: ckb9mpz4hg3hv0j237jztqd2a
+    followers: 5057
+    engagement: 364
+    commentsToLikes: 0.029813
+    id: ck9fx8oa05at10j784au4o2zb
     verified: false
-    hashtags: "#foodie, #atlanta, #food, #foodtok"
-  - username: "macyraydearing"
+    hashtags: "#blonde, #worship, #christian, #hair"
+  - username: "roon_tang"
     fullname: >-
-      Macy Ray
+      Brian Rooney
     bio: >-
-      Welcome to my crazy life IG@macyraydearing Ima be famous 1 day Cashapp $macydear
+      Comedian/Lunatic/House Cracka from ATL
     location: "United States"
-    followers: 187800
-    engagement: 1809
-    commentsToLikes: 0.011257
-    id: ckc85ejre4zj30j23hp0q7j66
+    followers: 50700
+    engagement: 1418
+    commentsToLikes: 0.091553
+    id: ckcekqmuyu8lr0j23yyoejm5g
     verified: false
-    hashtags: "#atlanta, #pickuplines, #joke, #foryoupage"
-  - username: "ajslambino"
+    hashtags: "#lilnasx, #lilnasxshoes, #findyourcore, #comedy"
+  - username: "slingshotazzy"
     fullname: >-
-      AJ
+      Austin R
     bio: >-
-      Food loving single dad 922 Hwy 81 East-Box 173 Mcdonough, GA 30252 #ajslambino
+      ⚠️Operator @ Orlando SlingShot‼️😎😱Check Instagram for more⬆️ 📍Orlando FL🌴
     location: "United States"
-    followers: 52100
-    engagement: 2091
-    commentsToLikes: 0.379584
-    id: ck8j9dnz1mywg0j78oyxhfhn8
+    followers: 178100
+    engagement: 1284
+    commentsToLikes: 0.012513
+    id: ck8qjkme7dwza0j78vqnf76yi
     verified: false
-    hashtags: "#love, #ajslambino, #cheekyalliance, #positivity"
+    hashtags: "#orlando, #floridacheck, #florida, #mycollection"
+  - username: "frankieracs5"
+    fullname: >-
+      Frankie Racano 🌀🌀
+    bio: >-
+      a boy wit a dream https://www.twitch.tv/frankiehoops7 🍼 🏀💜 rip mamba
+    location: "United States"
+    followers: 3678
+    engagement: 1344
+    commentsToLikes: 0.318740
+    id: ckbf47kdlsmok0j23hikjjdob
+    verified: false
+    hashtags: "#nbafans, #greenscreen, #fyp, #basketball"
+  - username: "bodittle"
+    fullname: >-
+      bo
+    bio: >-
+      Was banned again follow @basedbo SAVE ATLANTA. SIGN HERE 👇
+    location: "United States"
+    followers: 783700
+    engagement: 1440
+    commentsToLikes: 0.081470
+    id: cka666lcmfydd0i78q7jccg1h
+    verified: false
+    hashtags: "#2024, #quickerpickerrapper, #fyp, #fishing"
   - username: "islandflavors"
     fullname: >-
       A taste of PR
@@ -50,81 +74,57 @@ profiles:
       📍ATL Catering/mobile food service. Follow our instagram for more content🇵🇷🍛
     location: "United States"
     followers: 27500
-    engagement: 1022
-    commentsToLikes: 0.016287
+    engagement: 990
+    commentsToLikes: 0.017073
     id: ckai92cr76maq0i78mwt83qg6
     verified: false
-    hashtags: "#foryourpage, #islandflavorsatl, #foryou, #sofrito"
-  - username: "darkskindrizzy"
+    hashtags: "#latinfood, #sofrito, #food, #islandflavorsatl"
+  - username: "vincentvannn"
     fullname: >-
-      JAMÀLY
+      Vincent Doyle
     bio: >-
-      ARTIST/COMEDIAN 😂 LATINO ✊🏿✊🏾✊🏽✊🏼✊🏻 IG @JAMALYBELLO 🇵🇦🇨🇷 PANAMEÑO
+      Atlanta 🌇 Creator/Photographer Prints for purchase + Social links below!
     location: "United States"
-    followers: 25200
-    engagement: 1665
-    commentsToLikes: 0.122673
-    id: ckahun5s9j53l0i78wdcs4en8
+    followers: 3711
+    engagement: 759
+    commentsToLikes: 0.054459
+    id: ckbf1kskwnrav0j23gs3xu7hl
     verified: false
-    hashtags: "#puertorican, #black, #dominican, #afrolatino"
-  - username: "triplejayspizzaatl"
-    fullname: >-
-      Triple Jays Pizza🍕
-    bio: >-
-      III J’s 🍕the Biggest, Most Blessed, Family owned Foodtruck/ Pizzeria in America
-    location: "United States"
-    followers: 21100
-    engagement: 379
-    commentsToLikes: 0.064997
-    id: ck9jvlxzmsr2w0j78yiw0herd
-    verified: false
-    hashtags: "#blackownedbusiness, #philly, #atlpizzaboss, #fyp"
+    hashtags: "#viral, #fyp, #dallas, #foryoupage"
   - username: "jjennynguyenn"
     fullname: >-
       Jenny Nguyen
     bio: >-
       26 | atlanta capturing the finer things in life ✒️shop art & supplies below🖋
     location: "United States"
-    followers: 1600000
-    engagement: 1626
-    commentsToLikes: 0.005807
+    followers: 1700000
+    engagement: 1645
+    commentsToLikes: 0.005743
     id: ck8hk4ipmc90p0j78dq7ahh34
     verified: false
-    hashtags: "#art, #asmr, #zodiac, #harrypotter"
+    hashtags: "#art, #foryoupage, #pointillism, #zodiac"
   - username: "wfpbjosh"
     fullname: >-
       Josh Wayne
     bio: >-
       Vegan, Whole Food Plant Based, Forager, Empathy
     location: "United States"
-    followers: 3089
-    engagement: 871
-    commentsToLikes: 0.043022
+    followers: 3160
+    engagement: 908
+    commentsToLikes: 0.066418
     id: ckakny1z394yh0i78q1bxh4cp
     verified: false
-    hashtags: "#edible, #forage, #yum, #fyp"
-  - username: "tessmaurine"
+    hashtags: "#edible, #plantbased, #atl, #foraging"
+  - username: "ajslambino"
     fullname: >-
-      tessmaurine
+      AJ
     bio: >-
-      📍Atlanta I told myself I wouldn’t download the app but here we are
+      Single dad/Foodie/Kinda funny BrizCliz.com 🇮🇹
     location: "United States"
-    followers: 5551
-    engagement: 701
-    commentsToLikes: 0.032293
-    id: ckcj35i6i4n6n0j23k5vylos3
+    followers: 62600
+    engagement: 2518
+    commentsToLikes: 0.406215
+    id: ck8j9dnz1mywg0j78oyxhfhn8
     verified: false
-    hashtags: "#4u, #miamiheat, #youhaveto, #outfits"
-  - username: "gainsbypat"
-    fullname: >-
-      Patrick Wilson
-    bio: >-
-      Fun Foods For Life 😛🍦🍕🍷 💪🏽 Coaching/YouTube/FREE Fitness Course ⤵️
-    location: "United States"
-    followers: 157000
-    engagement: 1000
-    commentsToLikes: 0.020002
-    id: ck8f77whm2vjn0j78n4n8g7ve
-    verified: false
-    hashtags: "#fatloss, #workout, #gains, #lifting"
+    hashtags: "#foodie, #chipsgottalent, #funny, #fyp"
 ---

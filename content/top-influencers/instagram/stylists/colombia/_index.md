@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Colombia In 2022
+title: Top 10 Stylists Instagram Influencers In Colombia In 2023
 description: >-
-  Find top stylists Instagram influencers in Colombia in 2022. Most popular hashtags: #ootd #fashion #publicidad.
+  Find top stylists Instagram influencers in Colombia in 2023. Most popular hashtags: #miami #stylist #nyc.
 platform: Instagram
-hits: 24
+hits: 20
 text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 24 Instagram influencers like this in Colombia for you to work with.
+text_bottom: Our search engine has 20 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "nannamartinezp"
+  - username: "laupantoja"
     fullname: >-
-      Nanna Martínez
+      LAURA PANTOJA
     bio: >-
-      Freelance Fashion designer-Stylist Fashion tips, skincare @atypigal @thesecondchanceco 🌎👾🌻🐝🍒🌸🌈💚 “Progreso, no perfección” contacto@nannamartinezp.com
+      PRO MAKEUP ARTIST / HAIR STYLIST NYC 7 SEP / 2 OCT • @bridesbylaupantoja • @_serendipityweddings
     location: "Colombia"
-    followers: 32866
-    engagement: 208
-    commentsToLikes: 0.081909
-    id: ck602cvayh5bm0i14s0r0qinq
+    followers: 47199
+    engagement: 184
+    commentsToLikes: 0.030919
+    id: ck13c5vlcyrim0i190ndyqzfl
     verified: false
-    hashtags: "#instablogger, #fashionblog, #fashionpost, #theparisguru"
-  - username: "vale_gallego"
+    hashtags: "#makeupartist, #redcarpetmakeup, #makeupcolombia, #makeupartistcolombia"
+  - username: "pialdf"
     fullname: >-
-      V A L E R I A
+      PIA | Fashion • Motherhood
     bio: >-
-      Fashion Stylist #VGSTYLE Sneakers Addict @letkicks Creative Director at @vag_collection_ CEO @directmanager_ 📍COL
+      ︴MOM IN STYLE ︴ Image Consultant | Stylist Fashion Designer | Producer
     location: "Colombia"
-    followers: 19400
-    engagement: 153
-    commentsToLikes: 0.072506
-    id: ck5ch3emgq1d40i11ant1b80n
+    followers: 11162
+    engagement: 412
+    commentsToLikes: 0.049627
+    id: ck5zycll49mwd0i14hzue059b
     verified: false
-    hashtags: "#yoelijo, #publicidad, #sneakersaddict, #sneakerhead"
-  - username: "isabellavelez7"
-    fullname: >-
-      Isabella
-    bio: >-
-      fashion design student Co-Founder @isabellavelezatelier Personal stylist 🪐
-    location: "Colombia"
-    followers: 27086
-    engagement: 486
-    commentsToLikes: 0.021447
-    id: ckap1cfdptzl70i78zzakbvpo
-    verified: false
-    hashtags: "#tb"
+    hashtags: "#sempreinsieme, #fivemonthspostpartum"
   - username: "ossy_lion"
     fullname: >-
       O S S
     bio: >-
-      Feminist 💚 Body positive Stylist @michelleforbadgirls ✨ Foodie wannabe 🍝
+      Fashion designer. Fashion stylist.
     location: "Colombia"
-    followers: 6319
-    engagement: 720
-    commentsToLikes: 0.046023
+    followers: 6658
+    engagement: 967
+    commentsToLikes: 0.031387
     id: ck5qd8roludd50i11r69qsa2n
     verified: false
-    hashtags: "#beauty, #makeup, #ojalaalgundia, #feminist"
-  - username: "laupantoja"
-    fullname: >-
-      LAURA PANTOJA / MAKEUP & HAIR
-    bio: >-
-      ▫️ Makeup Artist ▫️ Hair Stylist ▫️ Beauty insider ✉️ Novias: Info por email o por @bridesbylaupantoja Únicamente ✨ ▫️ Owner @serendipityphotolove
-    location: "Colombia"
-    followers: 39414
-    engagement: 209
-    commentsToLikes: 0.036848
-    id: ck13c5vlcyrim0i190ndyqzfl
-    verified: false
-    hashtags: "#hydroboost, #makeupbogota, #makeupeditorial, #makeupartistcolombia"
-  - username: "vane_palacio19"
-    fullname: >-
-      V A N E S S A ♡
-    bio: >-
-      Fashion Stylist♡ Administradora de negocios Owner of @utboutique @utboutiquelux
-    location: "Colombia"
-    followers: 82289
-    engagement: 119
-    commentsToLikes: 0.040749
-    id: ck5hm2bmql9760i11yz33polh
-    verified: false
-    hashtags: "#colombia, #ootd, #utbstyle, #tones"
+    hashtags: "#mfbg, #crazybitch, #pride, #currentmood"
   - username: "nataliaolayan"
     fullname: >-
       Natalia Olaya 🧿
     bio: >-
       Brand Ambassador l Model l Fashion stylist “All you need is L♥ve is all you need” Agency @boobootalents Colombian ∞ Miami
     location: "Colombia"
-    followers: 3373
-    engagement: 752
-    commentsToLikes: 0.178045
+    followers: 3788
+    engagement: 630
+    commentsToLikes: 0.179773
     id: ck9hc2knvjh290j785cq3jiol
     verified: false
-    hashtags: "#blacklivesmatter, #lunesdemotivacion, #weareone, #throwbackthursday"
-  - username: "vaalenntiinoo"
-    fullname: >-
-      Valentino 🥊
-    bio: >-
-      Photographer . Fashion Producer . Stylist fut Model & natural Sciences ⚛️ 🔫 CEO @vaalenntino_studios
-    location: "Colombia"
-    followers: 5967
-    engagement: 973
-    commentsToLikes: 0.031541
-    id: ck5qbroeln2z70i111ufrb1oh
-    verified: false
-    hashtags: "#lasolar, #kingkong"
+    hashtags: "#lunesdemotivacion, #friday, #felizlunes, #weekend"
   - username: "catalinaramirezm"
     fullname: >-
       catalina ramírez m. 🦉
     bio: >-
       ⇢ Fashion Producer & Stylist ⇢ Colombia
     location: "Colombia"
-    followers: 30990
-    engagement: 108
-    commentsToLikes: 0.030791
+    followers: 31029
+    engagement: 107
+    commentsToLikes: 0.027976
     id: ck13c5vunyrmd0i19ndylniml
     verified: false
-    hashtags: "#fashionstyle, #backstage, #stylingbyme, #outfits"
+    hashtags: "#backstage, #styling, #work, #outfit"
+  - username: "vaalenntiinoo"
+    fullname: >-
+      Valentino 🥊
+    bio: >-
+      Photographer . Fashion Producer . Stylist fut Model & natural Sciences ⚛️ 🔫 CEO @vaalenntino_studios
+    location: "Colombia"
+    followers: 6074
+    engagement: 957
+    commentsToLikes: 0.027376
+    id: ck5qbroeln2z70i111ufrb1oh
+    verified: false
+    hashtags: ""
   - username: "andresyepesd"
     fullname: >-
       A N D I E 🥀
     bio: >-
       🧜🏼‍♂️ Stylist - Creative Director - Visual storyteller @burnmag ★ BOG, Col.
     location: "Colombia"
-    followers: 26641
-    engagement: 493
-    commentsToLikes: 0.024801
+    followers: 26620
+    engagement: 458
+    commentsToLikes: 0.017710
     id: ck0udx9ezk51k0i19097hm65l
     verified: false
-    hashtags: "#ootd, #love, #holareels, #outfits"
+    hashtags: "#reels, #travel, #gay, #editionbyhe"
+  - username: "gopetergoblog"
+    fullname: >-
+      P E T E R  L E E 🧿
+    bio: >-
+      Fashion & Food Stylist - Art Director | GIRL POWER! |PTY - NYC|
+    location: "Colombia"
+    followers: 20282
+    engagement: 168
+    commentsToLikes: 0.100276
+    id: ck5zwg95d62o00i14ekcc64ry
+    verified: false
+    hashtags: "#nyc, #ootd, #giveaway, #happy"
+  - username: "stephaniayepes"
+    fullname: >-
+      Stephania Yepes
+    bio: >-
+      Colombian bird Stylist - Creative director
+    location: "Colombia"
+    followers: 15281
+    engagement: 416
+    commentsToLikes: 0.027621
+    id: ck5q6znqszfhy0i11lyxql1et
+    verified: false
+    hashtags: ""
+  - username: "mafprada"
+    fullname: >-
+      SOY DE MAF PRADA
+    bio: >-
+      @stylebymaf | Fashion Designer @macarela_ Fashion Stylist - TEAM @sunshinemediacol T r e n d y l o v e r ✨
+    location: "Colombia"
+    followers: 5325
+    engagement: 940
+    commentsToLikes: 0.051288
+    id: ck9wg0kv9rd0h0j78oei6whs1
+    verified: false
+    hashtags: "#sola"
 ---

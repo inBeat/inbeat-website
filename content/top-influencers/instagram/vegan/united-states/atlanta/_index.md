@@ -1,84 +1,60 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Atlanta In 2022
+title: Top 10 Vegan Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top vegan Instagram influencers in Atlanta in 2022. Most popular hashtags: #vegan #atlanta #vegansofig #love.
+  Find top vegan Instagram influencers in Atlanta in 2023. Most popular hashtags: #vegan #veganfoodshare #govegan.
 platform: Instagram
-hits: 63
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 63 Instagram influencers like this in Atlanta, United States for you to connect with.
+hits: 65
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 65 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "tiffhuangry"
-    fullname: >-
-      Tiff Huang-ry | atlanta foodie
-    bio: >-
-      📍ATL | 🇹🇼🇺🇸 8yr Yelp Gold Elite ‘20 @bestfoodatlanta community leader influencer @butter.atl/@zipkick/@slice $7 off @slice w/code TIFFHUANGRY
-    location: "United States"
-    followers: 6991
-    engagement: 527
-    commentsToLikes: 0.121089
-    id: ck6txkok9yd190j71tejri547
-    verified: false
-    hashtags: "#foodiegram, #bestfoodatlanta, #zipkick, #atlantacoffee"
   - username: "thefinevegan"
     fullname: >-
-      Nya 😸
+      Nya 😸🧿
     bio: >-
-      Atlanta📍 👇🏽Grab the plant based bundle ! Only $50 for over 80 ebooks and courses ‼️
+      Atlanta📍 Foodie 🍽 #tiktokpartner Creative 🎨 Grab a copy of my ebook 👇🏽
     location: "United States"
-    followers: 21020
-    engagement: 198
-    commentsToLikes: 0.048257
+    followers: 22306
+    engagement: 196
+    commentsToLikes: 0.089724
     id: ck8t0lmcrshdk0j78zeazdd5z
     verified: false
-    hashtags: "#veganeats, #noodles, #blackvegan, #colorfulfood"
-  - username: "authentically__ewe"
+    hashtags: "#purplecabbage, #vegansofinstagram, #govegan, #blackgirlmagic"
+  - username: "mikerashid"
     fullname: >-
-      Rae Jordan 🦋
+      Mike Rashid King
     bio: >-
-      𝙄 𝙛𝙤𝙪𝙣𝙙 𝙂𝙤𝙙 𝙞𝙣 𝙢𝙮𝙨𝙚𝙡𝙛; 𝙖𝙣𝙙 𝙄 𝙡𝙤𝙫𝙚𝙙 𝙝𝙚𝙧, 𝙛𝙞𝙚𝙧𝙘𝙚𝙡𝙮. 🌺 @naturally__ewe 💡 Social Media Management 📧 rae@raejordan.biz 📍 Atlanta 🎓 NYU
+      Father Professional Heavyweight Boxer Entrepreneur @the_ambrosia_collective @trifecta @officialsnackhouse @fightcamp 👇🏾Train with me
     location: "United States"
-    followers: 36478
-    engagement: 58
-    commentsToLikes: 0.045734
-    id: ck15s0oqranaq0i198hy045xt
-    verified: false
-    hashtags: "#blackinfluencers, #wellnessjourney, #atlantavegans, #wellness"
-  - username: "msgreekgoddess"
+    followers: 1018251
+    engagement: 83
+    commentsToLikes: 0.020340
+    id: ck6u5t64xbl9f0j71pm5lttim
+    verified: true
+    hashtags: "#cordyceps, #valleyofthebeast, #squats, #legday"
+  - username: "cakesbytimbo"
     fullname: >-
-      Chrxztxnh
+      Timbo Sullivan
     bio: >-
-      Christina* Model/ Actress Recording Artist.✨ 🌱Vegan⚡️Goddess @chibellavonludwig♥️🤱🏽
+      Cake, Cookie and Sugar Artist & Instructor. Columbus, OH 4X Food Network Winner! For Class Information and Inquiries, email: CakesByTimbo@Gmail.com
     location: "United States"
-    followers: 17329
-    engagement: 299
-    commentsToLikes: 0.084106
-    id: ck5zk4oteisyw0i14ebgibbmr
+    followers: 44995
+    engagement: 182
+    commentsToLikes: 0.050621
+    id: ck0vv9bq3o4d90i19pqu240co
     verified: false
-    hashtags: "#curlyhair, #muse, #actress, #love"
-  - username: "yenismonterrey"
+    hashtags: "#cookies, #veganislife, #veganstastebetter, #sluttified"
+  - username: "vegspirationfeed"
     fullname: >-
-      Yenis Monterrey
+      Vegan Feed | Vegan Recipes
     bio: >-
-      LA|Austin|NY📍AUSTIN-TX 🇺🇸| Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Fitness | Lifestyle | 📲⚠️yenisask@gmail.com⚠️👇🏼
+      🍃Healthy & Delicious Vegan Recipes 🍀Tag us to be featured. ❤️Click the link below for all the essentials to living a HEALTHY VEGAN LIFE!❤️
     location: "United States"
-    followers: 28043
-    engagement: 286
-    commentsToLikes: 0.237386
-    id: ckaoxs08fehfh0i78xy0bpjb5
+    followers: 565203
+    engagement: 37
+    commentsToLikes: 0.010906
+    id: ck1384zrfeidw0i19csmevypx
     verified: false
-    hashtags: "#fitness, #septemberbeautylovers, #acne, #fioralvibescom"
-  - username: "theallvegan"
-    fullname: >-
-      🌿 The All Vegan
-    bio: >-
-      Vegan Memes, questions, and activism. 🐐🐮🐣🐶🌎 Remember to follow👇👇👇
-    location: "United States"
-    followers: 35435
-    engagement: 225
-    commentsToLikes: 0.027008
-    id: ck136ir976oqj0i19dpmu6crx
-    verified: false
-    hashtags: "#meatmonday, #vegangifts, #vegansofmanila, #meatards"
+    hashtags: "#yummy, #food, #foodblogger, #potato"
   - username: "healthyvegancommunity"
     fullname: >-
       HEALTHY VEGAN COMMUNITY
@@ -90,7 +66,7 @@ profiles:
     commentsToLikes: 0.015962
     id: ck5q7rf2e2s9b0i1140of1uox
     verified: false
-    hashtags: "#feedfeed, #foodgram, #bestveganrecipes, #veganlunch"
+    hashtags: "#bestofvegan, #vegandessert, #makesmewhole, #veganfood"
   - username: "chefnikkiinthemix"
     fullname: >-
       Nikki
@@ -102,29 +78,53 @@ profiles:
     commentsToLikes: 0.085040
     id: ck5cbyv1pgevq0i11bz1bp1ow
     verified: false
-    hashtags: "#vegetarian, #plantbaseddrippin, #veganeats, #foodie"
-  - username: "kennythepoet"
+    hashtags: "#family, #tbt, #veganfoodshare, #blackmama"
+  - username: "elaine4animals"
     fullname: >-
-      kendrick (ACTOR)
+      ELAINE HENDRIX
     bio: >-
-      #1000thingskenny #IplayTITUSHUGHES on #AMBITIONS #Atl #LA #Sc but made in #Louisville #crossfit #actor #vegan #rawfood #fruit #poet #WOKE
+      Meredith Blake • Alexis Carrington • Lisa Luder • Evian • Alex Wesker • Agent 66 • Marylin Munster • G2 • Ava X • ANIMAL WARRIOR 🌱 Activism in Stories
     location: "United States"
-    followers: 37037
-    engagement: 150
-    commentsToLikes: 0.133383
-    id: ck0u1c255wi8i0i19sbqku2fj
-    verified: false
-    hashtags: "#trailgod, #nature, #melanin, #iamlove"
-  - username: "e_young_13"
+    followers: 265718
+    engagement: 429
+    commentsToLikes: 0.010473
+    id: ck5he4zbar3140i11ya53o8bw
+    verified: true
+    hashtags: "#kamalaharris, #martinlutherkingjr, #ehxcbd, #mlk"
+  - username: "nolaskinsentials"
     fullname: >-
-      Erika Lancaster Young
+      atlanta vegan skincare 🌱
     bio: >-
-      💍@sancho5150 💞 💀 #SullenAngels 😇 #H2OceanModels 🌴@SanchosTacos🌴#SanchosTacos 📸 Let’s Colab ⚡️Inquiries 📥
+      wellness products that empower your face, body and intimate areas 🍒 where skincare is essential 💅🏽 Say ✌🏽 to ingrown hairs with ➡️ Bikini Kit
     location: "United States"
-    followers: 42124
-    engagement: 217
-    commentsToLikes: 0.032456
-    id: ck5zqmj2wuvue0i14aa7wjfoz
+    followers: 129606
+    engagement: 69
+    commentsToLikes: 0.038382
+    id: ck15r2wn45vf60i19obw6zmhh
     verified: false
-    hashtags: "#choloha, #togetherwerise, #sullenclothing, #topthreads"
+    hashtags: "#nolatoldyou"
+  - username: "iamlatocha"
+    fullname: >-
+      LaTocha
+    bio: >-
+      My New Single “Full Time Love” is AVAILABLE NOW at the link below! My cookbook “LaTocha’s Planted Lifestyle” is available at www.latochalifestyle.com
+    location: "United States"
+    followers: 345184
+    engagement: 133
+    commentsToLikes: 0.047916
+    id: ck14gsbcq6s1a0i19lzgriz0n
+    verified: true
+    hashtags: "#selflove, #wendywilliams, #basketball, #beit"
+  - username: "mwintersviolin"
+    fullname: >-
+      Michelle Winters
+    bio: >-
+      🎻 #Violin Girl 💍 Happily Married 📍Atlanta, GA 💖Vegan 🦜 Favorite animal 🎤 @michellesings135 🎵iTunes, SoundCloud, Spotify, YouTube
+    location: "United States"
+    followers: 6786
+    engagement: 613
+    commentsToLikes: 0.097870
+    id: ck15t9nvoh0is0i19o01noqsi
+    verified: false
+    hashtags: "#violincover, #themusicmovement, #youtube, #electricviolinist"
 ---

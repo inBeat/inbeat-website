@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In South Africa In 2022
+title: Top 10 Rappers Instagram Influencers In South Africa in 2023
 description: >-
-  Find top rappers Instagram influencers in South Africa in 2022. Most popular hashtags: #rapper #southafrica #stayhome.
+  Find top rappers Instagram influencers in South Africa in 2023. Most popular hashtags: #rapper #southafrica #stayhome.
 platform: Instagram
 hits: 14
 text_top: Identify the best Instagram profiles on inBeat.

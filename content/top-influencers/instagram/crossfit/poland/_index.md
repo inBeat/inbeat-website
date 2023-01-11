@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Poland In 2022
+title: Top 10 Crossfit Instagram Influencers In Poland In 2023
 description: >-
-  Find top crossfit Instagram influencers in Poland in 2022. Most popular hashtags: #crossfit #fitness #trening #polishgirl.
+  Find top crossfit Instagram influencers in Poland in 2023. Most popular hashtags: #crossfit #trening #workout #fitness.
 platform: Instagram
-hits: 42
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 42 Instagram influencers like this in Poland for you to connect with.
+hits: 26
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 26 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "badass_girlpl"
-    fullname: >-
-      Anna Kaszuba
-    bio: >-
-      Fitness and healthy lifestyle 🏋️‍♀️ - Personal Trainer - CrossFit Athlete Ambassador @carpatree 🎀
-    location: "Poland"
-    followers: 35078
-    engagement: 835
-    commentsToLikes: 0.015463
-    id: ck0txpw9ck2rv0i19qkmupqxf
-    verified: false
-    hashtags: "#cyckidoprzodu, #tcmax"
   - username: "n.wolniewicz"
     fullname: >-
       Natalia Wolniewicz
     bio: >-
       Łódź/Warszawa🏡 Dziennikarka Radio Eska🎤 Radio/TV 📺 Crossfit girl🤸🏼‍♀️ Kontakt DM📥 🐰
     location: "Poland"
-    followers: 39648
-    engagement: 328
-    commentsToLikes: 0.033953
+    followers: 40238
+    engagement: 297
+    commentsToLikes: 0.038466
     id: ck9hba4hwfzwj0j78ashgbxmh
     verified: false
-    hashtags: "#sprawdzasiewsporcie, #pasjadosportu, #rewolucjajestkobiet, #kurkuma"
+    hashtags: ""
   - username: "marta.zakrzewskaa"
     fullname: >-
       Trenerka, zawodniczka Crossfit
     bio: >-
-      🔸-30%„marta30”@gipara_fitness ▪️Personal, Athletics Trainer 🔺TOP TEAM Polska 5* 🔸Kettlebell, Crossfit Instruktor ▪️CrossFit Athlete 🔺TREC TEAM ATHLETE
+      Personal, Athletics Trainer TOP TEAM Polska 5* Kettlebell, Crossfit Instruktor CrossFit Athlete ☘️
     location: "Poland"
-    followers: 36555
-    engagement: 181
-    commentsToLikes: 0.032417
+    followers: 36344
+    engagement: 155
+    commentsToLikes: 0.026934
     id: ck8tc7582yj3a0j78n79luftx
     verified: false
-    hashtags: "#motywacja, #fitshape, #polishwoman, #crossfit"
-  - username: "jackevening"
-    fullname: >-
-      Jacek Wieczorek
-    bio: >-
-      🏋🏽‍♂️ Training Crossfit 🍓 Eating berries 📚 Reading books ☀️ Catching sun Living healthy with the smile😁💖
-    location: "Poland"
-    followers: 8561
-    engagement: 2287
-    commentsToLikes: 0.029478
-    id: ckf5r3wiabbza0j233job6wab
-    verified: false
-    hashtags: "#czarnobia, #malemodel, #motywacja, #sesjazdjeciowa"
-  - username: "amonleon"
-    fullname: >-
-      Armand Monleón / rally Dakar
-    bio: >-
-      Rally Raid CO-driver for MONSTER ENERGY CANAM RALLY DAKAR // Atleta JOYRIDE - CORKTEX - PiD foundation - 24MX - Gessamí - Crossfit Igualada - Ixcor
-    location: "Poland"
-    followers: 10404
-    engagement: 738
-    commentsToLikes: 0.039416
-    id: ck5zj2smagubq0i14i9q75eos
-    verified: false
-    hashtags: "#24mx, #corktex, #dalealplay, #dakarrally"
+    hashtags: "#gymgirl, #fitness, #trojmiasto, #girlmotivation"
   - username: "bronislawolenkowicz"
     fullname: >-
       Bronisław Olenkowicz
     bio: >-
-      🇵🇱|Crossfit Games 19|Owner @strongforlife.pl |Powered by @jackedgymnastics @reebokeurope @thornfit @afterworkoutcream @acus_med ⬇️ONLINE COACHING
+      🇵🇱|Crossfit Games 19|Owner @strongforlife.pl |Powered by @jackedgymnastics @reebokeurope @thornfit ⬇️ONLINE COACHING⬇️
     location: "Poland"
-    followers: 35149
-    engagement: 359
-    commentsToLikes: 0.014297
+    followers: 43153
+    engagement: 336
+    commentsToLikes: 0.015412
     id: ck15sicydd5kw0i199fxohluh
     verified: false
-    hashtags: "#snatch, #teamstrong, #kettlebells, #weightlifting"
+    hashtags: "#christmasstime, #kettlebells, #tb, #4fun"
   - username: "pobiegana"
     fullname: >-
       Karolina Lato-Książek
     bio: >-
-      Running, cykling, crossfit, cooking, traveling, mountains, real estate, fantasy, garden ❤
+      Running, cykling, crossfit, cooking, traveling, mountains, real estate, fantasy, garden ❤ 😼🐎🚀
     location: "Poland"
-    followers: 5287
-    engagement: 773
-    commentsToLikes: 0.016370
+    followers: 5189
+    engagement: 608
+    commentsToLikes: 0.016350
     id: ck9wcz21cdan80j78osodmjii
     verified: false
-    hashtags: "#myplace, #rowerowelove, #cyklingphotos, #weekend"
-  - username: "xlittlestronggirl"
-    fullname: >-
-      𝙼𝚘𝚗𝚒𝚊 🌸
-    bio: >-
-      𝙲𝚛𝚘𝚜𝚜𝚏𝚒𝚝 𝙻𝚎𝚟𝚎𝚕 𝟷 𝚃𝚛𝚊𝚒𝚗𝚎𝚛 💪🏼 𝚃𝚛𝚎𝚗𝚒𝚗𝚐𝚒 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕𝚗𝚎- 𝙺𝚊𝚝𝚘𝚠𝚒𝚌𝚎 @gymhero_official 𝚃𝙴𝙰𝙼 💕 -𝟷𝟸%𝙺𝙾𝙳: 𝚜𝚝𝚛𝚘𝚗𝚐𝚐𝚒𝚛𝚕 @sklep.sfd -𝟷𝟶% 𝚔𝚘𝚍: 𝚂𝚃𝚁𝙾𝙽𝙶𝙶𝙸𝚁𝙻
-    location: "Poland"
-    followers: 10712
-    engagement: 655
-    commentsToLikes: 0.119639
-    id: ck8t1d079vanb0j785k9sjipz
-    verified: false
-    hashtags: "#polishgirl, #me, #girl, #personaltrainer"
+    hashtags: "#biegambolubi, #kolarstwo, #loverunning, #cyklinggirl"
   - username: "magda_biala"
     fullname: >-
       MAGDALENA BIAŁACHOWSKA🏋️‍♀️
     bio: >-
-      💪 PT Szczecin 👙 @strongpoint.pl magdabiala 🤓 @a4academy.pl magda_biala 💊 @labone_official magda_biala ♦️ @b.birdfitness MAGDA 📪 mbialachowska@o2.pl📪
+      💪 Trener Personalny w Szczecinie ❤️ @rough_radical "Magda15" 🥰 @sklep.sfd "MAGDABIALA10" 🏋️‍♀️ @studio_treningu 🏋️‍♀️ 📪mbialachowska@o2.pl📪
     location: "Poland"
-    followers: 9654
-    engagement: 614
-    commentsToLikes: 0.090631
+    followers: 9861
+    engagement: 312
+    commentsToLikes: 0.096806
     id: ck8t60bm1bt1y0j78ybqk23ci
     verified: false
-    hashtags: "#fitgirl, #dieta, #dinner, #inkedgirl"
-  - username: "ankadziedzicfit"
+    hashtags: "#las, #crossfit, #shape, #inked"
+  - username: "edyta_litwiniuk"
     fullname: >-
-      Anka Dziedzic
+      Fit Mama Edyta Litwiniuk
     bio: >-
-      🔹trener personalny 🔹Platforma Treningowa FitAnka.pl 🔹Ambasadorka #suunto3⌚️ #nieksiężniczkuj
+      ᴛʀᴇɴɪɴɢ ɪ ᴅɪᴇᴛᴀ ᴋᴏʙɪᴇᴛ ᴡ ᴄɪᴀ̨ᴢ̇ʏ ɪ ᴘᴏ ᴘᴏʀᴏᴅᴢɪᴇ 🧘🏻‍♀️𝘁𝗿𝗲𝗻𝗶𝗻𝗴𝗶 𝗼𝗻𝗹𝗶𝗻𝗲 👉🏻@trainingpoint.pl 👉🏻@sklep.edytalitwiniuk.pl 👧👧👧 #trimama 🏊🏼‍♀️🚴🏻‍♀️🏃🏻‍♀️
     location: "Poland"
-    followers: 92387
-    engagement: 78
-    commentsToLikes: 0.058701
-    id: ck9wd8nxaeku60j788e8wl7tb
+    followers: 87383
+    engagement: 110
+    commentsToLikes: 0.038755
+    id: ckaoyfz4ehd2h0i78ens1ff0k
+    verified: true
+    hashtags: "#fitbodychallenge, #triathlete, #mamawformie, #dieta"
+  - username: "asiawrzos"
+    fullname: >-
+      TRENERKA PERSONALNA WARSZAWA
+    bio: >-
+      ▫️Pomogę Ci pokochać aktywność fizyczną, zadbać o sylwetkę i zdrowie ❤️ ▫️ Treningi personalne online 💪 ▫️ Plany treningowe 📒
+    location: "Poland"
+    followers: 6777
+    engagement: 531
+    commentsToLikes: 0.040050
+    id: ckaozhwjilyjp0i783251kbk9
     verified: false
-    hashtags: "#fitankapl, #metamorfoza, #treningwdomu, #regeneracja"
+    hashtags: "#fitgirl, #fitness, #crossfit, #study"
+  - username: "dembskiphoto"
+    fullname: >-
+      Filip Dembski
+    bio: >-
+      Zapraszam na sesje zdjęciowe w Warszawie 📸!
+    location: "Poland"
+    followers: 5524
+    engagement: 679
+    commentsToLikes: 0.082550
+    id: ck6uhil429bsp0j71m6kp7cak
+    verified: false
+    hashtags: "#photooftheday, #exercise, #picoftheday, #sensuality"
+  - username: "marcin_cwirzen"
+    fullname: >-
+      Marcin Ćwirzeń
+    bio: >-
+      Spartan Global Ambasador Półfinalista @ninjawarriorpolska 🥈 CEU Spartan Race 🇺🇸 8 place WCSR USA 🥈ULTRA Spartan Race 🥇 Rumunia Sparta Race
+    location: "Poland"
+    followers: 6530
+    engagement: 606
+    commentsToLikes: 0.076224
+    id: ck6ugsqi94y4t0j7119zmj0z2
+    verified: false
+    hashtags: "#spartanrace, #me, #ninjawarriorpolska, #polisboy"
+  - username: "wojciech_sobierajski"
+    fullname: >-
+      Wojciech Sobierajski
+    bio: >-
+      👑Trzykrotny Wicemistrz Świata w biegach z przeszkodami 🏆Rekordzista Guinnessa | kajak 24H - 262 KM 🇵🇱2x Rekordzista Polski 🎬YT: Wojciech Sobierajski
+    location: "Poland"
+    followers: 10374
+    engagement: 570
+    commentsToLikes: 0.012124
+    id: ck5btb7plfnnt0i11io5zampa
+    verified: false
+    hashtags: "#ninjawarriorpolska, #kajak, #polski, #ninja"
 ---

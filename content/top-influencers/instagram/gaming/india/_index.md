@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In India In 2022
+title: Top 10 Gaming Instagram Influencers In India In 2023
 description: >-
-  Find top gaming Instagram influencers in India in 2022. Most popular hashtags: #gamer #fashion #tiktok.
+  Find top gaming Instagram influencers in India in 2023. Most popular hashtags: #maharashtra #reels #mumbai #india.
 platform: Instagram
-hits: 223
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 223 Instagram influencers like this in India for you to pitch.
+hits: 147
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 147 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "sanskruti_dabhade"
+    fullname: >-
+      Sanskruti💖
+    bio: >-
+      |20|🙈 Pune❤ Little Extraordinary🙊 Definition of innocence😇 Check out @_._toxic_gaming 😸 👻 :- sanku.25
+    location: "India"
+    followers: 5626
+    engagement: 2235
+    commentsToLikes: 0.043298
+    id: ck9hby6euiy9q0j78tk872ap8
+    verified: false
+    hashtags: "#marathimeme, #india, #beingmarathi, #marathiinspirations"
+  - username: "mysterious_yt_"
+    fullname: >-
+      Shazia Ayub(Mysterious YT)
+    bio: >-
+      Gamer, Influencer, Interior Designer, Full Time Streamer, FB Gaming Partner 💌DM for Paid Promotion Youtube - Mysterious YT Channel Link -
+    location: "India"
+    followers: 27600
+    engagement: 461
+    commentsToLikes: 0.022149
+    id: ck0twf648f3o00i193gpla8ft
+    verified: false
+    hashtags: "#camping, #gamergirl, #girlgamer, #streamer"
   - username: "xyaalive"
     fullname: >-
       Xyaa
     bio: >-
-      a.k.a Shagufta Iqbal Gaming, streaming, and a whole lot of procrastinating! Powered by @intelindia @logitechg @getloconow
+      a.k.a Shagufta Iqbal Gaming, streaming, and a whole lot of procrastinating! Powered by @intelindia @logitechg @getloconow Live @ 8pm🔻
     location: "India"
-    followers: 107599
-    engagement: 2154
-    commentsToLikes: 0.009423
+    followers: 111042
+    engagement: 1869
+    commentsToLikes: 0.006973
     id: ck134vg6jydqc0i19qm50awld
     verified: false
-    hashtags: "#msiindia, #xyaa, #gamer, #live"
-  - username: "aju_bhai_94"
+    hashtags: "#ad, #logitechg, #gaming, #welcomelanding"
+  - username: "anzartistix"
     fullname: >-
-      ajju_bhai_94
+      Anzar Mohammed Shereef | 🎨
     bio: >-
-      TOTAL GAMING DM FOR PAID PROMOTION FOLLOW ME AND GET CHANCE TO PLAY WITH ME IN FREE FIRE #ajjubhai94
+      🇮🇳 | 🇦🇪 Negative t̶h̶o̶u̶g̶h̶t̶s̶ Art. @anzareyousirius_ @thelucid_writer @porotta_gaming 🔴Commissions closed🔴
     location: "India"
-    followers: 15890
-    engagement: 1040
-    commentsToLikes: 0.029601
-    id: ckap5dl50b7350i78kaj4pxaf
+    followers: 18439
+    engagement: 2026
+    commentsToLikes: 0.067093
+    id: ckaotb83sv59x0i78epbwg28r
     verified: false
-    hashtags: "#gamingmemes, #freebeats, #freefireboys, #freefire"
-  - username: "vivekkannan_"
+    hashtags: "#seemedoodle, #artistsoninstagram, #tollywood, #aventador"
+  - username: "airshfakhan138"
     fullname: >-
-      VIVEK KANNAN 🌀
+      Arishfa Khan AK 🥀🖤
     bio: >-
-      Tvm 🔥 Designer , btech Own @crayonzdesignz ❤ Gaming Ac @ig_soulman
+      My Queen Without Crown 🥺 My Bundle Of Happiness 🥰 Co-Admin @TuruLove_Gaming Biggest Fan & Fanpage Since 2018 🙈 She is Actor From The Past 10 Years 💖
     location: "India"
-    followers: 6415
-    engagement: 736
-    commentsToLikes: 0.202537
-    id: ck9why875003c0j78si3yvhwb
-    verified: false
-    hashtags: "#fashion, #nature, #pink, #nails"
-  - username: "bilawal_haider_"
-    fullname: >-
-      Micro Influencer| بلاول حید.
-    bio: >-
-      #pukhtoon Gamer | #influencer 7?teen Gaming acc : @ig._mafia_ Member of @tbtinternational Peshawar 📍
-    location: "India"
-    followers: 4840
-    engagement: 986
-    commentsToLikes: 0.126460
-    id: ckap3yztb544e0i78x7un6qo2
-    verified: false
-    hashtags: "#explorepage, #delhi, #dubai, #bloggers"
-  - username: "eagle.gamingop"
-    fullname: >-
-      Dilin Dinesan
-    bio: >-
-      PUBGM Competitive Player For @intense_esports_ Leader @intense_esports_ Mallu Gaming Youtuber Official Editor - @thegfxboi
-    location: "India"
-    followers: 62874
-    engagement: 1418
-    commentsToLikes: 0.050069
-    id: ck9wggthatcqb0j78a19ln41b
-    verified: false
-    hashtags: "#pubgmobile, #pubgmontage"
-  - username: "true_gaming_studio"
-    fullname: >-
-      Pranav Hawkz
-    bio: >-
-      True Gaming Studio 40k Fam
-    location: "India"
-    followers: 11903
-    engagement: 1294
-    commentsToLikes: 0.075768
-    id: ck9wggo6rtc530j783iuho21i
-    verified: false
-    hashtags: "#valorantnews, #valorantclips, #csgo, #streamer"
-  - username: "daku2op"
-    fullname: >-
-      Abhinav Singh Claire
-    bio: >-
-      Gaming Content Creator ID- Daku2opYT Dm/Email For Buisness Inquiry @ig_daku2op
-    location: "India"
-    followers: 119724
-    engagement: 795
-    commentsToLikes: 0.014720
-    id: ck8t37tm628ch0j78j1ztl9mc
-    verified: false
-    hashtags: "#pubgtv, #pubgkocak, #pubghighlights, #daku2op"
-  - username: "muhammed_ismail_m"
-    fullname: >-
-      Muhammed Ismail M
-    bio: >-
-      MaashaAllah ☺️ -------------------------- Passion On Wheels & Edits🎨😍 -------------------------- Kawasaki - H2 ------------------------- @gaming_ef18
-    location: "India"
-    followers: 25199
-    engagement: 2531
-    commentsToLikes: 0.010213
-    id: ck15u019ykr2m0i19am3ow9dy
-    verified: false
-    hashtags: "#h2, #kawasaki, #bikerlife, #bmw"
-  - username: "maneesh_vishnu"
-    fullname: >-
-      ᴍᴀɴᴇᴇꜱʜ ᴠɪꜱʜɴᴜ |  𝐌𝐕 ❄️
-    bio: >-
-      Married to💍🌸@sensree001 🌸💗😍😘 ᴅᴍ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ PUBG ID - 6906552850 MY GAMING YouTube channel 👇
-    location: "India"
-    followers: 42457
-    engagement: 1911
-    commentsToLikes: 0.005458
-    id: ckaozy2wcnx8o0i78yv1ucldo
+    followers: 381880
+    engagement: 90
+    commentsToLikes: 0.011781
+    id: ck8taqfguso7h0j78odw3secw
     verified: false
     hashtags: ""
-  - username: "officialmaxtern"
+  - username: "quickshifter390"
     fullname: >-
-      Maxtern
+      AMAL  // KTM&RE BIKER🏍
     bio: >-
-      Sagar Thakur New Delhi, 🇮🇳 I like gaming, casting, travelling and spending time alone.😄
+      Owns:Duke390 & Classic350 ❤️ Powered by⬇️ @ktm_india @thh_nikko_helmets_official Gaming🎮:@quickshifter390_gaming Youtube⬇️
     location: "India"
-    followers: 448194
-    engagement: 1202
-    commentsToLikes: 0.012181
-    id: ck9wp8a6a87wq0j787o5rxh17
+    followers: 14335
+    engagement: 2874
+    commentsToLikes: 0.010635
+    id: ckap0l1fuqrts0i78dtdoab72
     verified: false
-    hashtags: "#pubgmobilelite, #azar, #pubgmobile, #pubgmobilemicrosoft"
+    hashtags: "#mallugram, #duke250, #dominor, #ktm"
+  - username: "krantigaming"
+    fullname: >-
+      KRANTI Gaming
+    bio: >-
+      Seasone 15 conquerer YT - KRANTI Gaming Promotion Available This is KRANTI gaming instagram page 👍 Go to this link and SUBSCRIBE You Tube
+    location: "India"
+    followers: 5196
+    engagement: 876
+    commentsToLikes: 0.005163
+    id: ck8t81ea2ir7a0j78n7rb2btl
+    verified: false
+    hashtags: ""
+  - username: "gamer_batcha_"
+    fullname: >-
+      GAMER BATCHA
+    bio: >-
+      GAMING 🎮, LIVE STREAMING, GAMER BATCHA
+    location: "India"
+    followers: 37661
+    engagement: 69
+    commentsToLikes: 0.038876
+    id: ck8t2w6mf0x8c0j787ylqgg0x
+    verified: false
+    hashtags: ""
+  - username: "sarangrai"
+    fullname: >-
+      Sarang Rai
+    bio: >-
+      Dancer • Actor • Gamer DID 6 • Roadies Real Heroes DM or ✉️ sarang22rai@gmail.com YouTube - “Ricki&Sarang” YouTube Gaming - “Sarang YT”
+    location: "India"
+    followers: 21821
+    engagement: 135
+    commentsToLikes: 0.076800
+    id: ck0udvlnpjx7z0i19px28mhvs
+    verified: false
+    hashtags: "#fashionblogger, #explore, #reelsinstagram, #reelskarofeelkaro"
+  - username: "midfail.yt"
+    fullname: >-
+      Prabhakaran P
+    bio: >-
+      🎮Gamer. 📼Caster 🎙️Shout Caster. 🎤Pro Commentator, 🕹️Gaming Entertainer. #Thakidathakida #midfailyt
+    location: "India"
+    followers: 20048
+    engagement: 726
+    commentsToLikes: 0.010350
+    id: ck9whvmbtzona0j78gv8rxw66
+    verified: false
+    hashtags: "#lg, #ultragearsquad, #midfailyt, #lgultragear"
 ---

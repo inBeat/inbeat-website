@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Chile In 2022
+title: Top 10 Runners Instagram Influencers In Chile In 2023
 description: >-
-  Find top runners Instagram influencers in Chile in 2022. Most popular hashtags: #chile #runner #instagood.
+  Find top runners Instagram influencers in Chile in 2023. Most popular hashtags: #running #chile #runner #run.
 platform: Instagram
-hits: 10
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Chile for you to contact.
+hits: 12
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 12 Instagram influencers like this in Chile for you to connect with.
 profiles:
   - username: "yadrankatomick"
     fullname: >-
       Yadranka Tomič Kralj
     bio: >-
-      . Chilena Croata 🇨🇱🇭🇷 O ❦ @solesdepelarco ♞ Miss Chile, 2nd Runner Up International 2017 ♛ . Tiktok @yadrankatomick ❦
+      . O ❦ @solesdepelarco ♞ / 🇨🇱🇭🇷 Miss Chile, 2nd Runner Up International 2017 ♛
     location: "Chile"
-    followers: 222754
-    engagement: 619
-    commentsToLikes: 0.013382
+    followers: 231165
+    engagement: 503
+    commentsToLikes: 0.012357
     id: ck5c07tppsltc0i11em4gle4g
     verified: true
-    hashtags: ""
+    hashtags: "#cuarentena"
+  - username: "totoberisso"
+    fullname: >-
+      Toto Berisso
+    bio: >-
+      Periodista de @revistanoticias, fotógrafo y runner 10K🔓 15K🔓 21k🔓 42k🔓 ¿110? DualPowerTeam x @dualpowerok Pacer x @iloverunn Sin miedo al ridículo
+    location: "Chile"
+    followers: 15584
+    engagement: 112
+    commentsToLikes: 0.389166
+    id: ck6tsqxqe6bw60j719kmfkhnd
+    verified: true
+    hashtags: "#110k, #correr, #quenadatedetenga, #trail"
+  - username: "navarretedaniela1"
+    fullname: >-
+      Daniela Navarrete
+    bio: >-
+      Ultra Trail Runner Atleta @thenorthfacechile @petzlchile @buffchile @garmin_chile @cerveza_austral @revistahdsports @feltchile P. E Teacher @TR_SUMMIT
+    location: "Chile"
+    followers: 4809
+    engagement: 698
+    commentsToLikes: 0.079057
+    id: ck14i9m1jeb5q0i19j65re2p7
+    verified: false
+    hashtags: "#livemorenow, #nature, #photooftheday, #accesstheinaccessible"
   - username: "sebastian_runner"
     fullname: >-
       Sebastián Runner
     bio: >-
-      VALPARAÍSO ▪ CHILE ▪ #POSTALES_HUMANAS_ Fotógrafo documentalista / Talleres / Proyectos visuales & Culturales Pronto www.sebastianrunner.cl
+      VALPARAÍSO ▪ CHILE ▪ #POSTALES_HUMANAS_ Fotógrafo documentalista / Talleres / Proyectos visuales & Culturales
     location: "Chile"
-    followers: 41541
-    engagement: 333
-    commentsToLikes: 0.031907
+    followers: 41720
+    engagement: 295
+    commentsToLikes: 0.051330
     id: ck5hnn5pjo2230i11h023yh4r
     verified: false
-    hashtags: "#apruebo, #convencionconstitucional, #postales, #taller"
-  - username: "franciscorree"
-    fullname: >-
-      Franciscoo Alexanderr
-    bio: >-
-      Atleta: @thenorthfacechile @PetzlChile @BuffChile @wild.mate @suunto_chile
-    location: "Chile"
-    followers: 6207
-    engagement: 565
-    commentsToLikes: 0.018847
-    id: ck14i9k2qeauh0i19wlj6ka94
-    verified: false
-    hashtags: "#motivacion, #running, #nature, #naturephotography"
-  - username: "fenamackenna"
-    fullname: >-
-      Fernanda Mackenna
-    bio: >-
-      ⚡️Chilena 🇨🇱 - Atleta 400mts ⚡️Medallista Sudamericana ⚡️Atleta @underarmourlatam ⚡️Embajadora @imgacademy ⬇️
-    location: "Chile"
-    followers: 24515
-    engagement: 263
-    commentsToLikes: 0.040387
-    id: ckaowvnjhanng0i78pd95hg1s
-    verified: false
-    hashtags: "#tbt, #athlete, #track, #chile"
+    hashtags: "#apruebo, #convencionconstitucional, #postales"
   - username: "cata_alegria_"
     fullname: >-
       Cata Alegría
     bio: >-
-      Explorando Chile. A veces 🌎 Team @mountainrunningco ⛰ Panel @fulloutdoor 🌿 Salidas gratis c/@cin_meneses🌸 Cofounder @7even.cl 💫
-    location: "Chile"
-    followers: 7851
-    engagement: 495
-    commentsToLikes: 0.053565
-    id: ck8tdmmse3y690j7827qnbifp
-    verified: false
-    hashtags: "#outdoorpeople, #landscapephotography, #travel, #funrun"
-  - username: "niamalimits"
-    fullname: >-
-      Juan Pablo Savonitti
-    bio: >-
-      🏃‍♂️de Ushuaia a Alaska promoviendo la lengua de señas en el 🌎🏃‍♂️from Ushuaia to Alaska promoting Sign Language in the 🌎 🇦🇷🇨🇱🇵🇪🇪🇨🇨🇴🇵🇦🇨🇷🇳🇮🇭🇳🇸🇻🇬🇹🇲🇽🇺🇸🇨🇦
-    location: "Chile"
-    followers: 9829
-    engagement: 167
-    commentsToLikes: 0.067100
-    id: ck5c6w2zy6bj20i112c7btibc
-    verified: false
-    hashtags: "#cuarentena, #ushuaiaalaska, #ultrarunner, #ultrarunning"
-  - username: "genoveva_tenaillon"
-    fullname: >-
-      Sin Culpas
-    bio: >-
-      💚 Recetas fáciles y saludables ❤️Tips para una vida saludable física y mentalmente ⚖️ 📖Autora del libro #sinculpas
-    location: "Chile"
-    followers: 151990
-    engagement: 101
-    commentsToLikes: 0.040906
-    id: ckaorwno2p36d0i78strivuru
-    verified: true
-    hashtags: "#sinazucar, #saschafitness, #chilefit, #singluten"
-  - username: "mimotuga"
-    fullname: >-
-      Mimo Tuga ✴️
-    bio: >-
       
     location: "Chile"
-    followers: 34226
-    engagement: 410
-    commentsToLikes: 0.032792
-    id: ck5qdherfvlnc0i11qhjkbyk7
+    followers: 7869
+    engagement: 513
+    commentsToLikes: 0.037978
+    id: ck8tdmmse3y690j7827qnbifp
     verified: false
-    hashtags: "#18deoctubre, #renunciapi, #aprueboconvencio, #nuncamas"
-  - username: "giova.streetart"
+    hashtags: "#outdoorlove, #hiking, #outdoors, #viajeros"
+  - username: "amalia.eats"
     fullname: >-
-      GIOVA
+      A M A L I A   E A T S
     bio: >-
-      🇨🇱 Muralista (Arte Urbano) Valparaíso, Chile Cuenta personal @giovannizamora55 Cuenta Retratos: @retratos.valparaiso #APRUEBO
+      Welcome to my world🚀recetas saludables | tips | deporte💥Embajadora @newbalance 👟Media maratón x7:PR 1:44:58🔥Maratón x2:PR 3:47:08
     location: "Chile"
-    followers: 27352
-    engagement: 925
-    commentsToLikes: 0.014054
-    id: ck6tovwuugece0j71uk0usp1k
+    followers: 56410
+    engagement: 243
+    commentsToLikes: 0.022755
+    id: ck6u0sfxihhp40j71r84vbspg
     verified: false
-    hashtags: "#chilemovilizado, #quedateencasa, #beautiful, #dibujo"
-  - username: "senshi.a.dc"
+    hashtags: "#corre, #correr, #yummy, #recetasaludable"
+  - username: "franciscorree"
     fullname: >-
-      SENSHI-A DANCE COVER
+      Franciscoo Alexanderr
     bio: >-
-      #SHINee 🇨🇱 #KpopChile Team: @ichimike + @chang_min_tama + @kevlehmann + @yoyi.uk + @ttaem0ch1 Contacto: 📩 senshi.a.dc@gmail.com Edit: @bastn_ires
+      Montañista Atleta 🗻🏃🏽‍♂️ @thenorthfacechile @PetzlChile @BuffChile @outdoorlab.cl @goprocl . Ahora en el proyecto @chile.volcanico 🌋
     location: "Chile"
-    followers: 10318
-    engagement: 909
-    commentsToLikes: 0.016218
-    id: ck6tlseba6jyp0j714ksyj5xb
+    followers: 7230
+    engagement: 664
+    commentsToLikes: 0.023307
+    id: ck14i9k2qeauh0i19wlj6ka94
     verified: false
-    hashtags: "#revenshia, #luciferchallenge, #stayhome, #rddchallenge"
+    hashtags: "#trailrunner, #naturephotography, #mountains, #naturaleza"
+  - username: "christell_oficial"
+    fullname: >-
+      𝓒𝓱𝓻𝓲𝓼𝓽𝓮𝓵𝓵
+    bio: >-
+      𝑪𝒂𝒏𝒕𝒂𝒏𝒕𝒆 🇨🇱 𝑽𝒐𝒄𝒂𝒍 𝑪𝒐𝒂𝒄𝒉🗣 𝑴𝒂𝒌𝒆𝒖𝒑 𝑨𝒓𝒕𝒊𝒔𝒕 💋 𝑭𝒖𝒕𝒖𝒓𝒂 𝑭𝒐𝒏𝒐𝒂𝒖𝒅𝒊𝒐𝒍𝒐𝒈𝒂 Emprendedora 🛍@beyou.makeupstore @beyoustudio.cl ⬇️ESCUCHA✨Mi Sentir✨⬇️
+    location: "Chile"
+    followers: 355329
+    engagement: 194
+    commentsToLikes: 0.024943
+    id: ck5q5qpnlu4qw0i1184zg16q7
+    verified: true
+    hashtags: "#maquillaje, #makeup, #musica, #videoclip"
+  - username: "mariaignaciamontt"
+    fullname: >-
+      María Ignacia Montt
+    bio: >-
+      🏃🏼‍♀️Atleta @asicschile 100-200 mts 📚Ing. Comercial UC Demostrando que con Diabetes si se puede 💉✨ @kifitcl @novonordisk @medtronicdiabeteslatam
+    location: "Chile"
+    followers: 8773
+    engagement: 765
+    commentsToLikes: 0.047179
+    id: ckap5jyh0c0u60i78p3d99rmk
+    verified: false
+    hashtags: "#trackandfield, #atletismo, #chile, #tracknation"
+  - username: "fenamackenna"
+    fullname: >-
+      Fernanda Mackenna
+    bio: >-
+      ⚡️Chilena 🇨🇱 - Atleta 400mts ⚡️Medallista Sudamericana ⚡️Atleta @underarmourlatam - @unt alumni T&F ⚡️Embajadora @imgacademy ⬇️
+    location: "Chile"
+    followers: 24544
+    engagement: 222
+    commentsToLikes: 0.034605
+    id: ckaowvnjhanng0i78pd95hg1s
+    verified: false
+    hashtags: "#sports, #run, #motivation, #athlete"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In India In 2022
+title: Top 10 Hair Dressers Instagram Influencers In India In 2023
 description: >-
-  Find top hair dressers Instagram influencers in India in 2022. Most popular hashtags: #india #love #instagram #photography.
+  Find top hair dressers Instagram influencers in India in 2023. Most popular hashtags: #photography #hair #love #instagram.
 platform: Instagram
-hits: 52
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 52 Instagram influencers like this in India for you to work with.
+hits: 31
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 31 Instagram influencers like this in India for you to work with.
 profiles:
   - username: "vipulchudasamaofficial"
     fullname: >-
       VIPUL CHUDASAMA ®️
     bio: >-
-      Hair Influencer L’Oreal Professionnel Ambassador India 5 Countries, 10 + Awards, 30+ Cities, 5k+ Salons, 30k+ Hairdressers Trained & Inspired
+      Hair Influencer | I work for #vipulchudasama Salon-@vipulchudasamasalon | 9769900010 Academy-@vipulchudasamaacademy | 9769100070 Contact for Collab.
     location: "India"
-    followers: 19787
-    engagement: 571
-    commentsToLikes: 0.015400
+    followers: 37464
+    engagement: 453
+    commentsToLikes: 0.011983
     id: ck15u0lkjku240i19w4bgmzdl
     verified: false
-    hashtags: "#bandrasalon, #dontmissout, #mumbai, #aalimhakim"
-  - username: "hair.castle.salon"
+    hashtags: "#safesalon, #ombrehair, #bandrasalon, #mumbaisalon"
+  - username: "mr.line_"
     fullname: >-
-      Hardik Malde’s Hair Castle
+      stylist™️mohamad, mohalati🇮🇷
     bio: >-
-      Smoothening, Keratin & Color Specialist 💯 🏆 Award Winning Hair Salon 📞 9821288836 / 9022288846 📍 Ghatkopar, Mumbai 📨 DM us for price
+      A new wave in hairdressing🔝 product USA of the JRL ,brand🇺🇸: @jrlusa
     location: "India"
-    followers: 56554
-    engagement: 178
-    commentsToLikes: 0.016299
-    id: ckap1gbrnuh4o0i78ap20riro
+    followers: 29164
+    engagement: 821
+    commentsToLikes: 0.043608
+    id: ckaoy92wmgifd0i78c6ju0b0r
     verified: false
-    hashtags: "#salondiaries, #hairdresser, #salonlife, #hairdressersofinstagram"
-  - username: "vaishakhi_haria"
+    hashtags: "#hairformen, #dropfade, #fadedhaircut, #4hairpleasure"
+  - username: "lilvampo"
     fullname: >-
-      Vaishakhi Haria
+      LEIGH PALMER
     bio: >-
-      Lifestyle + Hair Art✂️ + Travel | Director at @splashthesalon | Co-founder at @mantasticbarbers | Educator & Identity Artist at @lorealpro |📍Mumbai
+      fashion art direction @ MSoA @lilvampart • actor & model @vauhausagency • @someplacewarmband THEY/THEM
     location: "India"
-    followers: 19486
-    engagement: 392
-    commentsToLikes: 0.019565
-    id: ck5zza5brbd820i14qqg6gohb
+    followers: 7124
+    engagement: 536
+    commentsToLikes: 0.013900
+    id: ck8sw1u82di290j78osoc7lab
     verified: false
-    hashtags: "#hairdresser, #vaishakhiharia, #india, #crazycolor"
-  - username: "poonamsaini8"
+    hashtags: "#androgynous, #halloween"
+  - username: "young_boy.31"
     fullname: >-
-      poonam 17nov.
+      ♠️ Legend Never Really Dies ♠️
     bio: >-
-      Scorpion 🦂Gym freak since 2012🏋🏻love travelling ✈️♀️Optimistic:💁🏻♀️human being.Dm for collab. & paid promotions.👇🏻Tiktok id link
+      LIFESTYLE 👔 Fashion | Blogger | INFLUENCER 📸 Photographer | Photoshop Artist 📩 Dm&E-mail For COLLABORATION 💖 @danish_zehen Dream 100k #vijayvlogger
     location: "India"
-    followers: 72882
-    engagement: 445
-    commentsToLikes: 0.031115
-    id: ck0w5jgey3xlq0i19tro9fz6u
+    followers: 10204
+    engagement: 245
+    commentsToLikes: 0.295494
+    id: ck9wiqezd3hej0j78sfld1n0e
     verified: false
-    hashtags: "#travel, #life, #summer, #sea"
-  - username: "patnagrabs"
+    hashtags: "#swagger, #polo, #swagg, #boys"
+  - username: "ana_j27"
     fullname: >-
-      patnagrabs
+      Anada Joshi ✨
     bio: >-
-      Models page Dm me ur pic for uploading Share your photos with us using #patnagrabs Don’t know what to do? You can start by hitting that follow button
+      Just a gal who loves to ride sports bike 🏍 #bike_lover software engineer sagittarius ♐️ Pune/Mumbai Private @iamanajoshi
     location: "India"
-    followers: 7943
-    engagement: 462
-    commentsToLikes: 0.023347
-    id: ckapbjruc053b0i78pgn8dd2e
+    followers: 7651
+    engagement: 1068
+    commentsToLikes: 0.042460
+    id: ckap7fgzpjuad0i787l4zcfzs
     verified: false
-    hashtags: "#style, #selfportraitaday, #cute, #selfportraitskirt"
-  - username: "raunakmathur17"
-    fullname: >-
-      Raunak Mathur 🌸
-    bio: >-
-      Just Those Random Raw fashion posts . Also a crazzzyy Dog lover ! Also also , believes in Live Laugh Love & May be you should too 💛 New Delhi 💜
-    location: "India"
-    followers: 2463
-    engagement: 1095
-    commentsToLikes: 0.078477
-    id: ck5zy45r597400i14g2oc0jqu
-    verified: false
-    hashtags: "#onedayatatime, #happiness, #instapost, #delhi"
-  - username: "harshhala16"
-    fullname: >-
-      Harshhala Barade👑
-    bio: >-
-      Actor | Model Mumbai Dm for paid collaboration.
-    location: "India"
-    followers: 28363
-    engagement: 629
-    commentsToLikes: 0.042578
-    id: ck5zp0v51rrt90i14ysucbiyd
-    verified: false
-    hashtags: "#red, #igersofindia, #india, #naturephotography"
-  - username: "trendzz_of_kerala__"
-    fullname: >-
-      🌻 TRENDS OF KERALA🌻
-    bio: >-
-      🌻shoutout for girls&boys 🌻tag ur pic get featured 🌻viral posts 🌻 if you have any copyrights please dm for Credit/delete
-    location: "India"
-    followers: 58536
-    engagement: 193
-    commentsToLikes: 0.021655
-    id: ck9wht67mzdd10j78ylmbbc6o
-    verified: false
-    hashtags: "#palakkad, #godsowencountry, #wayanad, #malabar"
+    hashtags: "#instadaily, #lockdown2020, #blackgirlmagic, #girl"
   - username: "thansi_zebah"
     fullname: >-
       Thansi_zebah
     bio: >-
       ☠️ZOLLIGOz ☠️ 👉 🌼Thrishur🌼 🎭March 19🎭 👉🔥KL 48🔥 👉Call me THANSI👈❤️ 🔥👉Hair lover👈 👉Leo messi 👈 👇ʷᵗˢᵖ ᵐᵉ
     location: "India"
-    followers: 3286
-    engagement: 3035
-    commentsToLikes: 0.148745
+    followers: 3150
+    engagement: 3136
+    commentsToLikes: 0.141467
     id: ck9we2w1vich70j78iij70kr3
     verified: false
-    hashtags: "#godsowncountry, #dubai, #instagram, #kochi"
-  - username: "prnv.hx_"
+    hashtags: "#gainwithcarlz, #fashionblogger, #gainwithspikes, #chuvadelikes"
+  - username: "luckyram__"
     fullname: >-
-      P *ranav
+      𝐋𝐮𝐜𝐤𝐲 𝐑𝐚𝐦 ~ 𝐟𝐚𝐥𝐠𝐮𝐛𝐨𝐢 💫
     bio: >-
-      STAY ORGINAL AND LET THE WORLD COPY YOU 🕊
+      My Life MoM & DaD Music lvr 🎧 MoM first kiss 💋On Feb14👦
     location: "India"
-    followers: 10430
-    engagement: 1308
-    commentsToLikes: 0.146953
-    id: ck9wfd2pjobsv0j78fc1a5o4b
+    followers: 19588
+    engagement: 1639
+    commentsToLikes: 0.041098
+    id: ckap5obylcji40i78k3yag22i
     verified: false
-    hashtags: "#thrissur, #delhi, #chennai, #naturephotography"
+    hashtags: "#hair, #instagram, #instadaily, #wayanad"
+  - username: "preetika_pree"
+    fullname: >-
+      PREETIKA RAO
+    bio: >-
+      - Model Actor Influencer 🇮🇳🇹🇷🇹🇿🇮🇩🇵🇰🇦🇪🇦🇿 - Former Film-Columnist Mirror TOI - OFFICE preetikamumbai@gmail Turned Vegetarian 🌱🧘 Actor who Sings 👇🎤
+    location: "India"
+    followers: 1123475
+    engagement: 179
+    commentsToLikes: 0.048884
+    id: ck9wfu11cqjtf0j78wchqpmmk
+    verified: true
+    hashtags: "#designerwear, #makeupreels, #cocktaildress, #redcarpetdress"
+  - username: "narushadsouza"
+    fullname: >-
+      Narusha Leonath D'souza
+    bio: >-
+      Rubaru Miss India Elite 2020 Finalist Miss Goa 2019 👑 Miss Freedom Princess 2019 👑 ~Your Personality Is What Matters To Me🧜🏼‍♀️.Goa🌞
+    location: "India"
+    followers: 8345
+    engagement: 1979
+    commentsToLikes: 0.015330
+    id: ckap4n4nq807g0i782gq8hvxi
+    verified: false
+    hashtags: "#love, #dresses, #passion, #explore"
+  - username: "officialgarima.keswani__"
+    fullname: >-
+      ਗਰਿਮਾ ਕੇਸਵਾਨੀ🎊❤️
+    bio: >-
+      Bubblish👩 Fashion | Lifestyle | Influencer 💬Dm For Collaborations & Promotions 📍Bhilai Chhattisgarh . SMARTNESS IS A PERFECT BEAUTY.❤️
+    location: "India"
+    followers: 2018
+    engagement: 946
+    commentsToLikes: 0.059260
+    id: ckf5xdc9ov8t80j23vvf6dpse
+    verified: false
+    hashtags: "#punjabifestival, #photo, #chhattishgarh, #bridalmakeup"
 ---

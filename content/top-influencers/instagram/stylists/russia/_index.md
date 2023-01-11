@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Russia In 2022
+title: Top 10 Stylists Instagram Influencers In Russia In 2023
 description: >-
-  Find top stylists Instagram influencers in Russia in 2022. Most popular hashtags: #istanbul #katerock #lifewear.
+  Find top stylists Instagram influencers in Russia in 2023. Most popular hashtags: #bibotta #stylist #fashion.
 platform: Instagram
-hits: 531
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 531 Instagram influencers like this in Russia for you to pitch.
+hits: 556
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 556 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "anna_berg_"
+  - username: "liliya_ismagilova"
     fullname: >-
-      Стилист Анна Ротенберг
+      СТИЛИСТ LILIYA ISMAGILOVA
     bio: >-
-      ▪️Выпускница Istituto Marangoni ▪️Разбор гардероба, шопинг ▪️Стилизация лукбуков, фото/видео съёмок ➡️ @annarotenberg_stylist 🏡 Москва, Рига
+      ▫️FASHION INFLUENCER / STYLIST Казань Москва Дубай Стамбул ▫️По поводу СОТРУДНИЧЕСТВА в ДИРЕКТ ▫️FOUNDER @by_liliya_ismagilova
     location: "Russia"
-    followers: 21893
-    engagement: 635
-    commentsToLikes: 0.068557
-    id: ck0tz3iiip1kj0i199iy9spb3
+    followers: 68105
+    engagement: 93
+    commentsToLikes: 0.014670
+    id: ck6ts5pax2wv40j71dkiy9wlz
     verified: false
-    hashtags: "#lancome, #idolebylancome, #weareidoles"
-  - username: "katrinsycheva"
-    fullname: >-
-      ЕКАТЕРИНА СЫЧЁВА
-    bio: >-
-      СИБИРСКИЙ СУРОВЫЙ ЛАЙФСТАЙЛ 🍾 ✪ Photographer ✪ Stylist ✪ Fashionista Welcome to my Instalife! Сотрудничество: 8-913-215-9496
-    location: "Russia"
-    followers: 41844
-    engagement: 332
-    commentsToLikes: 0.325568
-    id: ck5zipjv3g55v0i140pr8e4e1
-    verified: false
-    hashtags: "#photobykatrinsycheva"
+    hashtags: "#stylist, #fashion, #fashionblogger, #styleblogger"
   - username: "ruslinka"
     fullname: >-
       Ruslana Karakhoeva
     bio: >-
       •Fashion stylist @fashionholism •Fashion journalist •Fashion blogger based in Belarus, Minsk
     location: "Russia"
-    followers: 48975
-    engagement: 302
-    commentsToLikes: 0.067454
+    followers: 55242
+    engagement: 337
+    commentsToLikes: 0.060652
     id: ck5ccnv8thp580i11vrywbqbk
     verified: false
     hashtags: "#moetmoment"
-  - username: "lelliksolnce"
+  - username: "kate_rock666"
     fullname: >-
-      lelliksolnce
+      Катя Рок, стилист
     bio: >-
-      Make-up 💄& hair stylist 👰 (тел)89260696865
+      Stylist! YouTube channel - Kate Rock. Я - твой персональный стилист! Чайный сомелье, фанат Скандинавии, адепт уходовой косметики. О работе - сайт👇🏻
     location: "Russia"
-    followers: 3049
-    engagement: 1953
-    commentsToLikes: 0.115981
-    id: ckaoz26p6k1vw0i78013zuwsc
+    followers: 34357
+    engagement: 587
+    commentsToLikes: 0.055423
+    id: ck0ucoxu9he520i1932zrg19t
+    verified: false
+    hashtags: "#uggineurope, #inweekday"
+  - username: "bibottq"
+    fullname: >-
+      BIBOTTA
+    bio: >-
+      Founder of @bibotta_ Stylist @ninetyone #makefashionnotwar
+    location: "Russia"
+    followers: 17433
+    engagement: 909
+    commentsToLikes: 0.026190
+    id: ck1365fzv4u2d0i1910o4ns4p
+    verified: false
+    hashtags: "#bibotta, #juzentertainment, #samsung, #ninetyone"
+  - username: "bayagorbusha"
+    fullname: >-
+      Baya Gorbunova
+    bio: >-
+      •Vintage lover 💔 1/2 @mytrendygrandma •Stylist 👠 @by2stylists •Moscow,Russia
+    location: "Russia"
+    followers: 61307
+    engagement: 728
+    commentsToLikes: 0.016728
+    id: ck15rsg3p9gwo0i19mf273mxr
+    verified: false
+    hashtags: "#uniqlo, #uniqloplusj, #bayarecommends"
+  - username: "vladimir_official_moscow"
+    fullname: >-
+      ℙℝ𝕆ℕℂℍ𝔼𝕍 𝕍𝕃𝔸𝔻𝕀𝕄𝕀ℝ 😎 Hair color
+    bio: >-
+      ▣ 𝑴𝒐𝒔𝒄𝒐𝒘, 𝑹𝒖𝒔𝒔𝒊𝒂 🇷🇺 ▣ международный Hairdresser stylist-image maker ♛ ▣ консультация платная! 📝Контакты 👇 прайс все в ссылке депозитная система
+    location: "Russia"
+    followers: 13065
+    engagement: 881
+    commentsToLikes: 0.045477
+    id: ck14kgt2qpg8i0i195w8p7y2b
+    verified: false
+    hashtags: ""
+  - username: "alinakovaleva"
+    fullname: >-
+      Alina Kovaleva
+    bio: >-
+      Stylist Эксперт моды на TV Проекты для Vogue,Playboy,МТС,KIA,Kerastase, Валерия,Ханна,О.Бузова,Меладзе, А.Хилькевич,Blackstar
+    location: "Russia"
+    followers: 29604
+    engagement: 237
+    commentsToLikes: 0.117813
+    id: ck0vzmd589t8b0i19jm9pis58
+    verified: false
+    hashtags: "#inspirarion"
+  - username: "miss_bylucy"
+    fullname: >-
+      СТИЛИСТ & ЭСТЕТИЧЕСКИЙ МАНЬЯК
+    bio: >-
+      Люси Царан . STYLIST ❗️Мои сторис круче дорогих курсов ❗️Вожу по магазинам ❗️Раздаю стиль и настроение ❗️Стилизую фото и видео съёмки
+    location: "Russia"
+    followers: 20570
+    engagement: 328
+    commentsToLikes: 0.180030
+    id: ck14joe12ldht0i19spyn1mih
+    verified: false
+    hashtags: "#stories, #goodmorning, #instagram"
+  - username: "svetlana_khovrova"
+    fullname: >-
+      Svetlana Khovrova | Stylist
+    bio: >-
+      FASHION STYLIST ▪️Сотрудничество в direct ▪️Фото/видео без разрешения не использовать ⬇️Запись на КУРС по стилю⬇️
+    location: "Russia"
+    followers: 14134
+    engagement: 735
+    commentsToLikes: 0.051319
+    id: ck0w1bcnyihq90i195071m1gh
     verified: false
     hashtags: ""
   - username: "andreevigor"
     fullname: >-
       Игорь Андреев
     bio: >-
-      Stylist Creative director @_vereja_ Co-founder @online.inside
+      Stylist Designer @_vereja_ Co-founder @online.inside
     location: "Russia"
-    followers: 22525
-    engagement: 393
-    commentsToLikes: 0.063106
+    followers: 23017
+    engagement: 496
+    commentsToLikes: 0.048146
     id: ck5hhjkmk8kb90i11dwxowre3
     verified: false
-    hashtags: "#hm, #hmman, #vereja"
-  - username: "myrluka"
-    fullname: >-
-      Катя Янок
-    bio: >-
-      Fashion & Travel influencer Stylist Создатель самого лучшего крема для лица с Organiс Shop Скидка iHerb AGW2578 📧katyyanok@gmail.com
-    location: "Russia"
-    followers: 182072
-    engagement: 178
-    commentsToLikes: 0.041795
-    id: ck0w3hepztf8i0i19sf9wbf86
-    verified: false
-    hashtags: "#uniqlo, #uniqlojwanderson, #lifewear, #uniqlosustainability"
-  - username: "kate_rock666"
-    fullname: >-
-      Катя Рок, стилист
-    bio: >-
-      Stylist! YouTube - Kate Rock, Saint. P📍 Я - твой персональный стилист✌🏻Разбор гардероба, шопинг, обучение стайлингу офлайн/онлайн - пиши в Директ!
-    location: "Russia"
-    followers: 33997
-    engagement: 608
-    commentsToLikes: 0.032741
-    id: ck0ucoxu9he520i1932zrg19t
-    verified: false
-    hashtags: "#katerock, #personalstylist, #istanbul, #adalar"
-  - username: "miss_bylucy"
-    fullname: >-
-      СТИЛИСТ ИМИДЖМЕЙКЕР БЛОГЕР
-    bio: >-
-      Люси Царан . STYLIST ❗️Мои сторис круче дорогих курсов ❗️Вожу по магазинам ❗️Раздаю стиль и настроение ❗️Стилизую фото и видео съёмки
-    location: "Russia"
-    followers: 11746
-    engagement: 551
-    commentsToLikes: 0.110243
-    id: ck14joe12ldht0i19spyn1mih
-    verified: false
-    hashtags: "#stylist, #24, #goodnight, #stories"
-  - username: "absolutlia"
-    fullname: >-
-      Lia Mstislavskaya
-    bio: >-
-      Sophisticated Touch of Elegance Songwriter | Photographer | Stylist | Hedonist | Aesthete | Vampire | Opium Sorbet New Single 🔻
-    location: "Russia"
-    followers: 59493
-    engagement: 442
-    commentsToLikes: 0.032368
-    id: ck5c2ahlzwv5u0i111um9xplf
-    verified: false
-    hashtags: ""
-  - username: "victoria_solovyeva"
-    fullname: >-
-      Because I'm happy❤️👨‍👩‍👦❤️
-    bio: >-
-      📝 IMAGEMAKER. 📝PERSONAL STYLIST. ✍🏼 Мой обучающий проект @vshoppingtime_2 Консультации, всё о стиле и моде и даже больше. 📩 Direct
-    location: "Russia"
-    followers: 216133
-    engagement: 354
-    commentsToLikes: 0.024415
-    id: ck5c42xoq0jfb0i112rzo9wh0
-    verified: false
-    hashtags: "#uniqlodailylook, #lifewear"
+    hashtags: "#vereja, #km20"
 ---

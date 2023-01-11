@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Montreal In 2022
+title: Top 10 Home Decor Instagram Influencers In Montreal In 2023
 description: >-
-  Find top home decor Instagram influencers in Montreal in 2022. Most popular hashtags: #homedecor #montreal #homesweethome #mtl.
+  Find top home decor Instagram influencers in Montreal in 2023. Most popular hashtags: #homedecor #parisianvibes #canadianblogger #gifted.
 platform: Instagram
-hits: 22
+hits: 7
 text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 22 Instagram influencers like this in Montreal, Canada for you to work with.
+text_bottom: Our database holds 7 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "iamhely"
+  - username: "yasmeen.ghanavi"
     fullname: >-
-      𝕳é𝖑è𝖓𝖊 𝕭𝖔𝖚𝖉𝖗𝖊𝖆𝖚
+      Yass 🌞
     bio: >-
-      Creativity is the answer Bachelor in Fine Arts👩🏻‍🎨👩🏻‍🎓 Tattoo account @helly.ink Snapchat👻heleneboudreau Twitter🐦iamhelytattoo Mtl🇨🇦canada
+      Montreal ⚑ Photographer, & lover of adventure ✈ Ambassadrice @tourismequebec ✨ 📩 yass@possible-media.com Portfolio @possible.media Bookings 👇🏽 📷
     location: "Canada"
-    followers: 43721
-    engagement: 499
-    commentsToLikes: 0.031762
-    id: ck5cfbfpammrg0i11iu39pc7l
+    followers: 31340
+    engagement: 150
+    commentsToLikes: 0.053604
+    id: ck14iqmkbgqmh0i19m9u1rqch
     verified: false
-    hashtags: "#montreal, #canada, #ginger, #montrealgirl"
-  - username: "vanora.lo"
-    fullname: >-
-      VANORA LO | Vancouver
-    bio: >-
-      • Fashion • Beauty • Lifestyle • Living life on my own terms✨ TIKTOK: @vanoralo TA @aritzia
-    location: "Canada"
-    followers: 2584
-    engagement: 895
-    commentsToLikes: 0.127539
-    id: ck6u7woqbo3bo0j71tq5w83f0
-    verified: false
-    hashtags: "#blogsociety, #veryvancouver, #bestoftheday, #neutralstyle"
+    hashtags: "#quebeccite, #justeparfaite, #mybeigelife, #bonjourquebec"
   - username: "working_chix"
     fullname: >-
       Anna Przezak
     bio: >-
-      Fashion, Beauty & Lifestyle Blogger CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
+      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
     location: "Canada"
-    followers: 35197
-    engagement: 172
-    commentsToLikes: 0.057500
+    followers: 33270
+    engagement: 127
+    commentsToLikes: 0.041714
     id: ck9wh6amgwge60j782z3gl8jx
     verified: false
-    hashtags: "#parisianchic, #toronto, #frenchvibes, #frenchgirlstyle"
-  - username: "blancmarineliving"
+    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
+  - username: "miss.misty"
     fullname: >-
-      Blanc Marine Intérieurs
+      Isabelle
     bio: >-
-      *Firme de design d'intérieurs *Featured in House and Home magazine *Montréal, Québec, Canada All designed by us 👇🏻💫
+      "It was a hobbit-hole, and that means comfort."🍂 • Montreal, CND 🍁 • 📩 isahenripin@hotmail.com
     location: "Canada"
-    followers: 5858
-    engagement: 772
-    commentsToLikes: 0.031769
-    id: ck8t7ly33hah00j78wjy2z4rc
+    followers: 7331
+    engagement: 262
+    commentsToLikes: 0.044101
+    id: ck5zxc86w7qm40i14iltzfbd4
     verified: false
-    hashtags: "#bathroominspo, #livingroom, #designwork, #blackandgold"
-  - username: "passportofmemories"
+    hashtags: "#darkaesthetic, #handmade, #cottagecore, #instapottery"
+  - username: "meligatorr"
     fullname: >-
-      Tiana | Vancouver, BC
+      Melisa | Montreal
     bio: >-
-      ✩ Content creator + photographer ❥ Positive vibes, adventure seeker & sustainable living ✎ passportofmemories@gmail.com ↓ Blog Posts
+      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
     location: "Canada"
-    followers: 5680
-    engagement: 1625
-    commentsToLikes: 0.219172
-    id: ck15syttafi3e0i19xq93g0o8
+    followers: 28302
+    engagement: 274
+    commentsToLikes: 0.320554
+    id: ck5bz30vkqch20i11r2q74r5z
     verified: false
-    hashtags: "#travelgirlsgo, #youmustsee, #adventuretime, #discoverearth"
-  - username: "aliciawaid"
+    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
+  - username: "sidafz"
     fullname: >-
-      Alicia Waid
+      Sidrah | Toronto Blogger
     bio: >-
-      ✰ ᴜɴʟᴇᴀsʜ ʏᴏᴜʀ ɪɴɴᴇʀ ʙᴏss ʙᴀʙᴇ ✰ president of @nvizionmedia 📱 ↠ Montréal ✉️ alicia.waid8@gmail.com Click below to check out @siellamtl⬇
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
     location: "Canada"
-    followers: 20320
-    engagement: 668
-    commentsToLikes: 0.054452
-    id: ck6ucsdfrh9qx0j71lrgn6qdg
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
     verified: false
-    hashtags: "#parisianstyle, #beigepalette, #aestheticstyle, #pursuepretty"
-  - username: "emmalindsayyy"
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "chanlmarshl"
     fullname: >-
-      Emma Lindsay
+      ENERGY 👑
     bio: >-
-      Artist & plant lover 🌿 #NaturalRedhead 25 📍 Montreal @emmalindsayart @gingerweddings @emma.vintagestudio www.emmalindsayartist.com
+      🍭She/Her 👑ENERGY QUEEN 📍 Toronto, Ontario #partygirlseries #monabodmon ⬇️⬇️💋SEXY TIME EXTRA 💋⬇️⬇️
     location: "Canada"
-    followers: 12284
-    engagement: 748
-    commentsToLikes: 0.015262
-    id: ck9wdoqwtgke20j78r8nc642b
+    followers: 2311
+    engagement: 1086
+    commentsToLikes: 0.075024
+    id: ck5hctc5ujv770i114dz7n18l
     verified: false
-    hashtags: "#redhairgirl, #summerbod, #plants, #redhead"
-  - username: "la.mouette"
+    hashtags: "#music, #partygirlseries, #dj, #tattoosfornow"
+  - username: "wildrosecountryhome"
     fullname: >-
-      Florence
+      Home decor blogger
     bio: >-
-      👒 Graphiste/Illustratrice freelance - @ateliermouette Blogueuse Lifestyle 🇫🇷 📍 Montréal 🇨🇦 Autiste 🍃 💌 hello@la-mouette.com 📸 @lamouette.instants
+      Hi, I’m Jenn! Sarcasm is my coping mechanism. DIY projects by me and my funny hubs Ken🇨🇦 If we can screw it up, I mean- can do it, so can you! Click👇🏻
     location: "Canada"
-    followers: 22778
-    engagement: 564
-    commentsToLikes: 0.041513
-    id: ck55ptio1bcg80i11u9gk175z
+    followers: 10980
+    engagement: 165
+    commentsToLikes: 0.443506
+    id: ck8t9tvaupc4b0j78yibdfq07
     verified: false
-    hashtags: "#embracingtheseasons, #homedecor, #wanderfolk, #ournaturedays"
-  - username: "hello_panducci"
+    hashtags: "#bohohome, #blaccents, #ig, #pokoloko"
+  - username: "chasing.the.ts"
     fullname: >-
-      Adeline 👋🏼
+      J O A N 🌿 chasing the Ts
     bio: >-
-      ✦ française à montréal 🇨🇦 ❝ explorons le #Québec et ailleurs ♡ baby boy on the way 🧸💫 Ⓖ family business @goodlocpermis_ca
+      Teo (hubs) + Tim + Tia Jeremiah 29:11 • #motherhood | #lifestyle | #homedecor #plantmom @chasingthets.plants 📍#Vancouver 🇨🇦
     location: "Canada"
-    followers: 8867
-    engagement: 943
-    commentsToLikes: 0.028623
-    id: ckaoynxnuiav80i78mpqjtbt4
+    followers: 23885
+    engagement: 275
+    commentsToLikes: 0.102937
+    id: ckap8um5npyoq0i78n9c3yz8z
     verified: false
-    hashtags: "#frenchexpat, #pvtcanada, #montrealer, #enjoycanada"
-  - username: "amelie.briaucourt"
+    hashtags: "#askanapron, #homedepotcanadapartner, #homedepotcanada, #diyhomeproject"
+  - username: "meligatorr"
     fullname: >-
-      Amélie
+      Melisa | Montreal
     bio: >-
-      Lifestyle, recettes & #zerodechet 🌾 Fiancée & bientôt maman ♡ Expatriés à Montréal depuis 2016 🌏 __________
+      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
     location: "Canada"
-    followers: 16612
-    engagement: 195
-    commentsToLikes: 0.065827
-    id: ck5hnlllanzab0i11s6fvl8d3
+    followers: 28302
+    engagement: 274
+    commentsToLikes: 0.320554
+    id: ck5bz30vkqch20i11r2q74r5z
     verified: false
-    hashtags: "#pregnant, #montreal, #ideerecette, #grossesse"
+    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
+  - username: "abhishekdekate"
+    fullname: >-
+      Abhishek Dekate
+    bio: >-
+      ⋒ home + design, food + drinks and everything in between ► toronto 🇨🇦 / from: 🇮🇳 ⍜ contributor @foodnetworkca ⧉ abhishek.dekate@gmail.com ◑ A / D ↓
+    location: "Canada"
+    followers: 29303
+    engagement: 110
+    commentsToLikes: 0.036707
+    id: ck5bzba4pqt490i11yb7j2ktm
+    verified: false
+    hashtags: "#apartmentdecor, #hometour, #currentdesignsituation, #kinfolkhome"
 ---

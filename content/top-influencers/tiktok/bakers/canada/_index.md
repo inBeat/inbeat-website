@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Canada In 2022
+title: Top 10 Bakers TikTok Influencers In Canada In 2023
 description: >-
-  Find top bakers TikTok influencers in Canada in 2022. Most popular hashtags: #cake #baker #fyp #foryou.
+  Find top bakers TikTok influencers in Canada in 2023. Most popular hashtags: #cake #baker #baking #cakedecorating.
 platform: TikTok
-hits: 91
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 91 TikTok influencers like this in Canada for you to work with.
+hits: 80
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database holds 80 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "letterpressbakery"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Baker - Designer - Creator Insta @letterpressbakery
     location: "Canada"
-    followers: 102400
-    engagement: 2261
-    commentsToLikes: 0.004725
+    followers: 99600
+    engagement: 2245
+    commentsToLikes: 0.004254
     id: ckactzn5ogk3g0i78e5aj34k9
     verified: false
-    hashtags: "#modelling, #cakevideo, #tiktokbakeoff, #artclub"
+    hashtags: "#holidaybaking, #cakedecorating, #fanart, #modelling"
+  - username: "sweetafternoon"
+    fullname: >-
+      Karen Nguyen
+    bio: >-
+      Baker 🍰🍪 🇨🇦 CEO of making you hungry Check out my IG for more goodies!
+    location: "Canada"
+    followers: 97900
+    engagement: 784
+    commentsToLikes: 0.039293
+    id: ck8uflh9l26ux0j788bak4nn2
+    verified: false
+    hashtags: "#desserttiktok, #tiktokggt, #chocolatelover, #myfuturethanksme"
+  - username: "how.to.cake.it"
+    fullname: >-
+      How To Cake It
+    bio: >-
+      🍰 How To Cake It 🍰 🌟We inspire, teach and transform you into a better baker🌟
+    location: "Canada"
+    followers: 183200
+    engagement: 1593
+    commentsToLikes: 0.007310
+    id: ck8qe4k2or4bk0j78c4q1v4yl
+    verified: false
+    hashtags: "#cakelife, #friendlyfuture, #cookiedecorating, #chocolate"
   - username: "thelovelybaker43"
     fullname: >-
       thelovelybaker43
     bio: >-
        Cake YouTuber and professional cat holder. Free tutorials @ The Lovely Baker 
     location: "Canada"
-    followers: 19700
-    engagement: 1378
-    commentsToLikes: 0.016717
+    followers: 19600
+    engagement: 1357
+    commentsToLikes: 0.015800
     id: ck83zpstg1xq60j78l4mbityw
     verified: false
-    hashtags: "#food, #artober, #buttercream, #ilovemyjob"
-  - username: "wildflourfields"
+    hashtags: "#ilovemyjob, #spooky, #buttercream, #cakedecorating"
+  - username: "cakes.bynav_abbotsford"
+    fullname: >-
+      Cakesbynav 
+    bio: >-
+      Cakesbynav instagram for inquiries 😊 Abbotsford Canada
+    location: "Canada"
+    followers: 11900
+    engagement: 345
+    commentsToLikes: 0.074054
+    id: ck9pn1rzbcerj0j78hldb2smc
+    verified: false
+    hashtags: "#trending, #punjabi, #food, #amritmaan"
+  - username: "bakingmamahappy"
     fullname: >-
       Courtney 🌸
     bio: >-
-      Cookies, cakes and mental health tips! Therapist by day, baker at night.
+      Baking myself (and other moms) happy!
     location: "Canada"
-    followers: 41800
-    engagement: 512
-    commentsToLikes: 0.010924
+    followers: 42300
+    engagement: 493
+    commentsToLikes: 0.010774
     id: ckb9b5n24x0a80j23upk0qv1s
     verified: false
-    hashtags: "#learnfromme, #cakedecorating, #bakingrecipe, #bakersoftiktok"
-  - username: "sweetafternoon"
+    hashtags: "#bakingrecipe, #bakersoftiktok, #cakedecorating, #baker"
+  - username: "dishedit"
     fullname: >-
-      Karen Nguyen
+      Dished
     bio: >-
-      I bake sweet treats & cakes 🍰 IG: @sweetafternoon
+      Amazing Food Videos Show us ❤️ by Subscribing to our YouTube Channel 👇👇👇
     location: "Canada"
-    followers: 74800
-    engagement: 869
-    commentsToLikes: 0.014082
-    id: ck8uflh9l26ux0j788bak4nn2
+    followers: 738300
+    engagement: 906
+    commentsToLikes: 0.010954
+    id: ckc2z31edq2aa0j234qw5pr85
     verified: false
-    hashtags: "#brownies, #baking, #sweetandsalty, #chips"
+    hashtags: "#dessert, #chocolate, #7seconds, #baker"
   - username: "cocoaberry_"
     fullname: >-
       Cocoa Berry
     bio: >-
-      Toronto Bake Shop 🍪🎂🧁 7181 Yonge Street WWW.COCOABERRY.CA Info@cocoaberry.ca
+      Toronto/ Mississauga / Oshawa BakeShop 🍪🎂🧁 Serving you from 2 locations
     location: "Canada"
-    followers: 18000
-    engagement: 740
-    commentsToLikes: 0.007385
+    followers: 17600
+    engagement: 731
+    commentsToLikes: 0.007276
     id: ckbf1d8m0nhu10j23u6fl7gsk
     verified: false
-    hashtags: "#toronto, #torontotiktok, #happybirthday, #viral"
+    hashtags: "#torontocupcakes, #cocoaberry, #mississauga, #fyp"
   - username: "cakebythepound_"
     fullname: >-
       CakebythePound
     bio: >-
       Custom cakes!! Follow me on Instagram&check out my website www.cakebythepound.ca
     location: "Canada"
-    followers: 11400
-    engagement: 672
-    commentsToLikes: 0.007963
+    followers: 11100
+    engagement: 932
+    commentsToLikes: 0.010873
     id: ckcej1ximrnrd0j23h76zy1gv
     verified: false
-    hashtags: "#baker, #foryou, #foryoupage, #quarantine"
-  - username: "jenniferv82"
+    hashtags: "#quarantinebaking, #baker, #halloween, #foryoupage"
+  - username: "theicingartist"
     fullname: >-
-      Jennifer🌻
+      The Icing Artist
     bio: >-
-      FB & IG Diaper cakes, gift baskets, and more. Virtual Assistant. 🇨🇦🇵🇹
+      Hungry for more?? check out my YouTube channel! 🧁🍩🍬
     location: "Canada"
-    followers: 4200
-    engagement: 1335
-    commentsToLikes: 0.066257
-    id: ckcpqycnqkkiv0j23zodhm0kn
-    verified: false
-    hashtags: "#comedy, #myrecommendation, #holidaytiktok, #momsoftiktok"
-  - username: "mackenzie_tomlin"
-    fullname: >-
-      Mackenzie
-    bio: >-
-      She/her ns 🇨🇦 Yoohoo big summer blowout! The vibes are immaculate 🙌🥳
-    location: "Canada"
-    followers: 27300
-    engagement: 2333
-    commentsToLikes: 0.007776
-    id: ck8uflk4i27dy0j786avpwivs
-    verified: false
-    hashtags: "#positivevibes, #foryoupage, #voiceover, #fyp"
-  - username: "cakes.bynav_abbotsford"
-    fullname: >-
-      Cakesbynav 
-    bio: >-
-      Cakesbynav instagram Abbotsford Canada
-    location: "Canada"
-    followers: 5313
-    engagement: 322
-    commentsToLikes: 0.088187
-    id: ck9pn1rzbcerj0j78hldb2smc
-    verified: false
-    hashtags: "#tiktok, #canada, #karanaujla, #cakesbynav"
-  - username: "aimeedmc12"
-    fullname: >-
-      Aims
-    bio: >-
-      just for fun 📍Nova Scotia 🇨🇦
-    location: "Canada"
-    followers: 5565
-    engagement: 612
-    commentsToLikes: 0.021676
-    id: ckb9fnnm544wh0j23b0j0961o
-    verified: false
-    hashtags: "#dance, #girls, #fyp, #covid19"
+    followers: 1300000
+    engagement: 2276
+    commentsToLikes: 0.005593
+    id: ckb0ro7xjh5fh0j23km30hu96
+    verified: true
+    hashtags: "#baking, #wedding, #learnontiktok, #tiktokpartner"
 ---

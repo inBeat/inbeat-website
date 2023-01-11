@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In 2022
+title: Top 10 Cosmetics Instagram Influencers In 2023
 description: >-
-  Find top cosmetics Instagram influencers in 2022. Most popular hashtags: #suvabeautyhydraliner #halloween #ofrabeauties.
+  Find top cosmetics Instagram influencers in 2023. Most popular hashtags: #skincare #beforeandafter #trinidad.
 platform: Instagram
-hits: 7862
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 7862 Instagram influencers like this for you to collaborate.
+hits: 7477
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 7477 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "muberry_"
+  - username: "selam_romantesfaye"
     fullname: >-
-      Alex
+      𝐬𝐞𝐥𝐚𝐦 𝐭𝐞𝐬𝐟𝐚𝐲𝐞
     bio: >-
-      Hi, I'm Alex 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇵🇱 23 but feeling like 80 💌 for buisness/ PR enquiries alext66@hotmail.co.uk code "Muberry" for 10% off Unicorn Cosmetics
-    location: "United Kingdom"
-    followers: 4765
-    engagement: 2721
-    commentsToLikes: 0.479030
-    id: ck6u2tu78tvc20j71ph5035xx
+      🦋 @st__cosmeticss loading… Ethiopian 🇪🇹
+    location: "United States"
+    followers: 879120
+    engagement: 256
+    commentsToLikes: 0.011436
+    id: ck5zqcj7uucu80i14zmaxwnmr
     verified: false
-    hashtags: "#unleashyourinnerartist, #abhjunkies, #cutcreasemakeup, #colourpopcosmetics"
-  - username: "joanna.walkow"
+    hashtags: "#earlybirthdaydress"
+  - username: "magdapieczonkamakeup"
     fullname: >-
-      Joanna 🌸
+      Magda Pieczonka
     bio: >-
-      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
+      💄Makijażystka Wszech Czasów wizaż.pl💄 Beauty Influencer Roku magazynu JOY 💄Autorka pędzli do makijażu oraz rzęs @lovenue_cosmetics_and_tools
     location: "Poland"
-    followers: 5977
-    engagement: 1547
-    commentsToLikes: 0.093577
-    id: ck9wekanbknaa0j7834my2xx2
-    verified: false
-    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
-  - username: "bassixs"
-    fullname: >-
-      Sol Bassi 🌴⛸
-    bio: >-
-      Mi nombre es Sol 🤍 Founder @murdastudio @murda.cosmetics @murda.store Content Creator Fashion Stylist Lash & brow artist
-    location: "Argentina"
-    followers: 18464
-    engagement: 930
-    commentsToLikes: 0.106879
-    id: ck0w60o6a6cjo0i19f37yev4s
-    verified: false
-    hashtags: "#airbarrage, #jordangirl, #sneakerhead, #jordan1"
-  - username: "wirda_mansur"
-    fullname: >-
-      𝐖 𝐢 𝐫 𝐝 𝐚 𝐌 𝐚 𝐧 𝐬 𝐮 𝐫
-    bio: >-
-      President of @millennialantibokek a Girlboss behind @wirdamaeofficial @wakeupmakeup.cosmetics @wisatahatitravel ✨
-    location: "Indonesia"
-    followers: 2631549
-    engagement: 660
-    commentsToLikes: 0.023690
-    id: ck0twciutevv20i19polyszmw
+    followers: 717845
+    engagement: 251
+    commentsToLikes: 0.007085
+    id: ck0vzxfj1bcy70i19joogf0g7
     verified: true
-    hashtags: "#dirumahaja, #fightcovid19"
-  - username: "ines.curly"
+    hashtags: "#like, #makeup, #wsp, #makijazclinique"
+  - username: "mom_in_dubai"
     fullname: >-
-      Ines Curly 🇲🇦🇩🇿♓️
+      VirdahJavedKhan
     bio: >-
-      Founder of @inescurly.cosmetic 👻 ines.chpl & inescosmetic 👻 📽 youtubeuse Site ines curly cosmetic⬇️
-    location: "France"
-    followers: 212453
-    engagement: 1135
-    commentsToLikes: 0.033590
-    id: ck5cb2f73eljr0i11tkfy7fk5
+      Powerful&Fierce #unapologeticallyme Motivational talks on lives #selflove#protectyourenergy Mom_in_dubai@outlook.com Lover @catrice_cosmetics.arabia
+    location: "United Kingdom"
+    followers: 176959
+    engagement: 128
+    commentsToLikes: 0.056119
+    id: ck55mwccb4yuv0i11p9qdmz0h
     verified: false
-    hashtags: "#sneakers, #dior, #sheincurve, #sponsoris"
-  - username: "nouhaila_ytb"
+    hashtags: "#mydsf, #believeyoureyes, #costatoscana, #celebratedubai"
+  - username: "emilyskyefit"
     fullname: >-
-      Nouhaïla 💕
+      Emily Skye
     bio: >-
-      Founder & ceo @noha_cosmetics ✨ Content creator & beauty expert 🌸 My Youtube Channel (400k of beauties) 📽
-    location: "Canada"
-    followers: 327958
-    engagement: 993
-    commentsToLikes: 0.030531
-    id: ck6uc606cdq5f0j712nt83wz7
-    verified: false
-    hashtags: ""
-  - username: "lauraaluve"
-    fullname: >-
-      Lauraa Luve Officiel
-    bio: >-
-      FOUNDER & CEO @lauraaluve.cosmetics @lauraaluve.institut
-    location: "France"
-    followers: 143677
-    engagement: 484
-    commentsToLikes: 0.049417
-    id: ck5c4g7r01adf0i112vb8s3q9
-    verified: false
-    hashtags: "#outfitoftheday, #outfitinspiration, #twins, #nude"
-  - username: "mehdish.10"
-    fullname: >-
-      Mehdi Sharifi
-    bio: >-
-      Official Brand ambassador of @hanadi.cosmetics
-    location: "Iran"
-    followers: 490447
-    engagement: 1215
-    commentsToLikes: 0.024879
-    id: ck6021cdtgjzy0i14pu5vhlez
+      Fitness ♡ Wellness ♡ Beauty @james_cosmetics Owner @womensbest partner 50% off my FIT APP 12m plan - tap here ⬇️
+    location: "Australia"
+    followers: 2723386
+    engagement: 87
+    commentsToLikes: 0.024309
+    id: ck136fczj67xj0i19enbq3wrk
     verified: true
-    hashtags: "#shampoo, #mehdisharifi, #hero, #hanadi"
-  - username: "mxs.cavallero"
+    hashtags: "#soblessed, #bodyappreciation, #parentlife, #langhamgala"
+  - username: "drrachaeleckel"
     fullname: >-
-      JESSYCA CAVALLERO ♥
+      Dr. Rachael Eckel
     bio: >-
-      𝐁𝐞𝐚𝐮𝐭𝐲|𝐅𝐚𝐬𝐡𝐢𝐨𝐧|𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 🇮🇹 MUA & Founder @cavallero.cosmetics | 𝐌𝐎𝐃𝐄𝐋 @bittemitsahne.agency @amendamodels | TikTok: Kittydolltv_ | Sc: jessyca-sally
-    location: "Germany"
-    followers: 6099
-    engagement: 1107
-    commentsToLikes: 0.135477
-    id: ckaorf8gcmxyr0i783x46p6gn
+      🏥 Cosmetic Doctor @theskinhealthinstitute 💉 Injectables • Peels • Lasers 🩺 Medical Advisor @zoskinhealth @coolsculpting ☎️ +1 (868) 622-SKIN
+    location: "United States"
+    followers: 39977
+    engagement: 122
+    commentsToLikes: 0.068968
+    id: ck0u05szdsp8c0i191gce7r3d
     verified: false
-    hashtags: "#sheingals"
+    hashtags: "#laserhairremoval, #botox, #trinidad, #aestheticdermatology"
+  - username: "nedamehrmd"
+    fullname: >-
+      Leading Dermatologist
+    bio: >-
+      The “Skin Whisperer” 🌱Creator:Clean Medical Skincare @derm.bx 💁🏻‍♀️Founder:Pure Dermatology Cosmetic & Hair Center ✨Expert:SkinCare Wellness & Hair
+    location: "United States"
+    followers: 54790
+    engagement: 108
+    commentsToLikes: 0.034083
+    id: cl00uqpdp5u4z0i23id1x3zfe
+    verified: false
+    hashtags: "#boymomlife, #topdermatologist, #chargers, #boltup"
+  - username: "justinagafaro"
+    fullname: >-
+      Justina Gafaro
+    bio: >-
+      Founder of @gafaro.beautyhouse and boutique in Vilnius Beauty e-shop www.gafaro.lt GAFARO cosmetics line @bygafaro Shop premium products:
+    location: "France"
+    followers: 57586
+    engagement: 55
+    commentsToLikes: 0.041438
+    id: ck5zkmuzhjrmh0i14f7ynu3cl
+    verified: false
+    hashtags: "#bride, #nottestedonanimals, #nuotaka, #nuotakosmakiazas"
+  - username: "slamedical"
+    fullname: >-
+      SLA Medical Aesthetics
+    bio: >-
+      ✨Refresh your own beauty 💁🏼‍♀️ Founded by @sarahlouise.sla 💉Cosmetic Injectables & Skin Treatments 🇬🇧Manchester & Harley St
+    location: "United Kingdom"
+    followers: 23870
+    engagement: 16
+    commentsToLikes: 0.033559
+    id: ckprgrxbt8xye0j23gg4jw70b
+    verified: false
+    hashtags: "#skincare, #slamedical, #filler, #reels"
   - username: "marlenelufen"
     fullname: >-
       Marlene Lufen
     bio: >-
       journalist • tv host • author • mother • feminist • people lover @fruehstuecksfernsehen @promibb @und_gretel_cosmetics
-    location: "Germany"
-    followers: 227860
-    engagement: 392
-    commentsToLikes: 0.037330
+    location: "United States"
+    followers: 387064
+    engagement: 379
+    commentsToLikes: 0.026532
     id: ck15ptp3qzknw0i19f6tie3cc
     verified: true
-    hashtags: "#fr, #sp, #streetstyle, #undgretel"
+    hashtags: "#werbung, #promibb, #euro2020, #unbezahlt"
+  - username: "celinaspookyboo"
+    fullname: >-
+      Celina
+    bio: >-
+      TIKTOK 20 MILLION - TEXT ME 17014012011 @beautyxboo.cosmetics @thehauntedestate BOOKS - COSMETICS - LINKS BELOW
+    location: "United States"
+    followers: 1628163
+    engagement: 297
+    commentsToLikes: 0.011744
+    id: ck9h9ypg5ahrs0j78ry9a3h38
+    verified: false
+    hashtags: "#justsomelovin"
 ---

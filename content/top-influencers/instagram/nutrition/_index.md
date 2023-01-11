@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In 2022
+title: Top 10 Nutrition Instagram Influencers In 2023
 description: >-
-  Find top nutrition Instagram influencers in 2022. Most popular hashtags: #fitnessmotivation #nevergiveup #girlswholift.
+  Find top nutrition Instagram influencers in 2023. Most popular hashtags: #motivation #healthyrecipes #easyrecipes.
 platform: Instagram
-hits: 5779
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 5779 Instagram influencers like this for you to collaborate.
+hits: 5593
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 5593 Instagram influencers like this for you to contact.
 profiles:
-  - username: "daniellebredenhof"
+  - username: "amanda_strachan"
     fullname: >-
-      Danielle Bredenhof | Fitness
+      AMANDA STRACHAN
     bio: >-
-      🦋 20 | Fitness & Nutrition 🤍 @foodspring athlete Founder @fit.andfeminine Train with me! 👇🏼 Booty building program
+      Everything is more than what we see 👁 Clean Beauty | Rituals | Mindfulness 🧘🏼‍♀️ Ayurvedic Wisdom & Nutrition 🌱
+    location: "United Kingdom"
+    followers: 146707
+    engagement: 401
+    commentsToLikes: 0.014126
+    id: ck0vv2h8dn8kb0i199rg3n3qx
+    verified: false
+    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
+  - username: "rohitkhatrifitness"
+    fullname: >-
+      Rohit Khatri
+    bio: >-
+      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
+    location: "India"
+    followers: 614738
+    engagement: 467
+    commentsToLikes: 0.004563
+    id: ck8wd6rbxdgf00j78gz3so4nb
+    verified: false
+    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
+  - username: "nicolas_aesthetics"
+    fullname: >-
+      Nicolas Enache | Fitness, Cooking & Health
+    bio: >-
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
+    location: "Germany"
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
+    verified: false
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
+  - username: "saschafitness"
+    fullname: >-
+      Sascha Barboza
+    bio: >-
+      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá Youtube: Sascha Fitness 📧info@saschafitness.com @saschafitnessmarket 🛒⬇️Shop
     location: "United States"
-    followers: 22458
-    engagement: 1148
-    commentsToLikes: 0.077520
-    id: ck8t2wmkk0yww0j78l7t8y7i6
+    followers: 5312363
+    engagement: 450
+    commentsToLikes: 0.010945
+    id: ck13c63ygyssj0i19zjq0l5d2
+    verified: true
+    hashtags: "#11, #blackwidow"
+  - username: "becca_denae"
+    fullname: >-
+      Rebecca | CPT
+    bio: >-
+      I help individuals become their most confident selves through strength and performance training, and nutrition coaching 💪🏽 @rpstrength: BECCADENAE
+    location: "United States"
+    followers: 9845
+    engagement: 2817
+    commentsToLikes: 0.044594
+    id: clcbv5majoymz0j08d1s754s0
+    verified: false
+    hashtags: "#strongwomen, #tboathletes, #personaltrainer, #tbotraining"
+  - username: "alphaburnfit"
+    fullname: >-
+      Alphaburn | Duke Ihenacho
+    bio: >-
+      Helping men and women make total health and lifestyle transformations through exercise and nutrition 🔥
+    location: "United States"
+    followers: 50336
+    engagement: 566
+    commentsToLikes: 0.024146
+    id: clcbv5mrmoyxg0j0898qixrs4
+    verified: false
+    hashtags: "#becometheheat, #alphaburn"
+  - username: "jeet_selal"
+    fullname: >-
+      Jeet Selal (Himalayan Stallion)
+    bio: >-
+      S & C, NUTRITION Coach🇦🇺 SPORT Management🇬🇧 FOUNDER Himalayan Stallion @hsf_expo @hsajeetselal ▪️KNOWLEDGE AMB @myproteinin
+    location: "Australia"
+    followers: 903396
+    engagement: 2262
+    commentsToLikes: 0.006091
+    id: ckapasgboxai50i78atufxlox
+    verified: false
+    hashtags: "#warrior, #reelsinstagram, #hsfexpo2023, #mahadev"
+  - username: "nikibrah"
+    fullname: >-
+      Nikita Udovichenko
+    bio: >-
+      The God of Hormones. 🏅 Nutrition, Hormones, Training Expert 🔬 Engineering MSc 💉 Biochemistry MSc 🌎 Professional 1:1 Fitness Coaching by me ⤵
+    location: "Greece"
+    followers: 104646
+    engagement: 572
+    commentsToLikes: 0.111176
+    id: ck6uds6okmu4e0j716i3573lp
     verified: false
     hashtags: ""
-  - username: "eddafalak"
+  - username: "jacobcollier"
     fullname: >-
-      EDDA FALAK
+      Jacob Collier
     bio: >-
-      Icelandic 🇮🇸 Nutrition coach & Crossfit athlete MSc Finance-CBS @nikeisland | @hledsla | @collabiceland | @jst_compete 📧 contact@strongerwithedda.com
-    location: "Denmark"
-    followers: 22058
-    engagement: 859
-    commentsToLikes: 0.107861
-    id: ck6txohg7yy6r0j71ehxo98zi
-    verified: false
-    hashtags: "#60kgbw"
-  - username: "m_onika_k"
+      Quester of delicion and nutrition ☃️
+    location: "United Kingdom"
+    followers: 1971478
+    engagement: 783
+    commentsToLikes: 0.006086
+    id: ck0vy477k25qn0i19tjgji8cx
+    verified: true
+    hashtags: "#15, #19, #23"
+  - username: "purely_healthy_living"
     fullname: >-
-      MONIKA ⚜️ KUREK
+      María | Easy Healthy Recipes
     bio: >-
-      🕊cooperation🕊: mkurek1308@web.de 🔹-20% @real_pharm_nutrition kod rabatowy: monika20
-    location: "Germany"
-    followers: 87145
-    engagement: 769
-    commentsToLikes: 0.063052
-    id: ck14icxfjesif0i196uoxpnd3
-    verified: false
-    hashtags: "#preciosa, #polishgirl, #sexylegs, #womanfashion"
-  - username: "milad_abasabadi"
-    fullname: >-
-      milad powerlifting
-    bio: >-
-      @iss_sports_nutrition قهرمان پاورلیفتینگ جهان2017awpc قهرمان قهرمانان جهان فینالسیت مسابقات قویترین مردا جهان(wsf)2019 قهرمان قویترین مردان ایران ❤S❤
-    location: "Iran"
-    followers: 7450
-    engagement: 2247
-    commentsToLikes: 0.239505
-    id: ck9whb2nbx3ut0j78aieljemi
-    verified: false
-    hashtags: "#iss"
-  - username: "fit.full.life"
-    fullname: >-
-      Julie
-    bio: >-
-      Registered Dietitian • B.S. Nutrition and Exercise Physiology • Barre Certified • Mom of 4 • Food, Fitness and Wellness
+      • Fun, Creative & Easy Healthy Recipes👩🏼‍🍳🌿 • Nutritionist🥑 • Bilingüal 🇺🇸 // 🇲🇽
     location: "United States"
-    followers: 8757
-    engagement: 1973
-    commentsToLikes: 0.386816
-    id: ck6tukukugwtw0j718rwi641a
+    followers: 34482
+    engagement: 343
+    commentsToLikes: 0.411498
+    id: ck0u9yj1jawhj0i19xe005yl5
     verified: false
-    hashtags: "#bodypositive, #dietitiansofinstagram, #strongcore, #healthyliving"
-  - username: "farshad_nahas"
-    fullname: >-
-      Farshad Nahas
-    bio: >-
-      C.E.O of "Qimia Supplement Co"exclusive distributor of Scitec Nutrition ,BiotechUsa,Trec Nutrition,QNT,IronMaxx and Pharma First
-    location: "Iran"
-    followers: 19473
-    engagement: 1813
-    commentsToLikes: 0.075129
-    id: ck0vwme04uikq0i19sciqxabd
-    verified: false
-    hashtags: ""
-  - username: "tammy_bellabae_fitness"
-    fullname: >-
-      Tammy 🎀🌴👙💪
-    bio: >-
-      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
-    location: "United States"
-    followers: 11354
-    engagement: 1451
-    commentsToLikes: 0.087957
-    id: ckf5pez4b5ukz0j2385upfgyk
-    verified: false
-    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
-  - username: "fabianoguigas"
-    fullname: >-
-      Fabiano Dantas Guigas
-    bio: >-
-      😷Dentista & Empreendedor CEO @centraldosuplemento @cdsdistribuidoraba @1pure_nutrition @coachsupplementbr @muscleprobr @elementox.energy Youtube
-    location: "Brazil"
-    followers: 57941
-    engagement: 1324
-    commentsToLikes: 8.516038
-    id: ck9wdedpof9j70j781dmzpt5e
-    verified: false
-    hashtags: "#tbt, #tiktok, #training, #lifestyle"
-  - username: "emiromeragic"
-    fullname: >-
-      EMIR OMERAGIC
-    bio: >-
-      Sponsored by @np_nutrition @powerstage.germany @smilodox @climaqx_ -10% Code: Emir10 YouTube: Emir Omeragic
-    location: "Germany"
-    followers: 21437
-    engagement: 1136
-    commentsToLikes: 0.063709
-    id: ck6u6txvkhpie0j71bgk0n8sy
-    verified: false
-    hashtags: "#teamtuor, #talkischeap, #talksischeap, #fatandhappy"
-  - username: "virgogarl"
-    fullname: >-
-      Victoria Petrova
-    bio: >-
-      Founder @the.place.for.your.wardobe DM me for business and collaborations 🙏 Bulgaria 🇧🇬 •freelance model and actress📸 •fitness & nutrition programs🍏
-    location: ""
-    followers: 28602
-    engagement: 993
-    commentsToLikes: 0.130756
-    id: ck6u99ed0w8hv0j71pu8f8nsy
-    verified: false
-    hashtags: "#bulgariangirl, #fitmodel, #gymmotivation, #bulgarian"
+    hashtags: "#prozis, #vegan, #lowcarb, #glutenfree"
 ---

@@ -1,36 +1,36 @@
 ---
-title: Top 10 Travel Instagram Influencers In Seoul In 2022
+title: Top 10 Travel Instagram Influencers In Seoul In 2023
 description: >-
-  Find top travel Instagram influencers in Seoul in 2022. Most popular hashtags: #seoul #korea #travel #koreatravel.
+  Find top travel Instagram influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #travel #koreatravel.
 platform: Instagram
-hits: 44
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 44 Instagram influencers like this in Seoul, South Korea for you to collaborate.
+hits: 37
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 37 Instagram influencers like this in Seoul, South Korea for you to connect with.
 profiles:
-  - username: "korean_adventure"
+  - username: "ellgimogi"
     fullname: >-
-      Korean Adventure
+      ellgimogi ❤️ 국제커플
     bio: >-
-      🇰🇷 Sharing photos of Korea ✈ Top travel locations 📷 Credit for photos
+      •Korean/Ukrainian-Greek couple 🇰🇷👫🇺🇦🇬🇷 📩 촬영문의 DM •Youtube ⤵️ • 국제커플🌸 📍Seoul, South Korea 🎥국제커플 일상♡ 🇰🇷 17/08/2020✈️🔒 #internationalcouple #국제커플
     location: "South Korea"
-    followers: 61351
-    engagement: 726
-    commentsToLikes: 0.010018
-    id: ck134lg90x0870i19602g6lkk
+    followers: 4469
+    engagement: 1850
+    commentsToLikes: 0.044971
+    id: ckap5j8k1bxey0i78ubr7zbhe
     verified: false
-    hashtags: "#koreanstuff, #koreabyme, #nature, #iloveseoul"
-  - username: "jeaaniya"
+    hashtags: "#amwf, #korea, #jogyesa, #explorekorea"
+  - username: "ingrid.zen.moments"
     fullname: >-
-      KOREA | LIFESTYLE | OOTD
+      Ingrid |Travel Blogger
     bio: >-
-      🇫🇷 Frenchy with a Korean soul ✈️ Travel & lifestyle enthusiast 💕 In #longdistancerelationship 🏷 DM for collabs
+      Traveler, 👗 ☕️ 🍷 lover I share great🏝🏜while I find them Co-owner @_asianskincare 🇷🇴 In 🇰🇷 DM for collab
     location: "South Korea"
-    followers: 4302
-    engagement: 1869
-    commentsToLikes: 0.089874
-    id: ck8t3kggy3jth0j78noxrifsn
+    followers: 19013
+    engagement: 95
+    commentsToLikes: 0.053355
+    id: ck55pi8v5am420i11wq5mrb2e
     verified: false
-    hashtags: "#frenchblogger, #pinktrotters, #travelgirlsgo, #voyageuse"
+    hashtags: "#beautifulitaly, #italiantravel, #southkorea, #romaniapitoreasca"
   - username: "koreanet_official"
     fullname: >-
       Korea.net
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.014282
     id: ck5hd0m1qkvwd0i112l2hee5j
     verified: false
-    hashtags: "#fundaykoreanetworks, #koreatrip, #unesco, #gongju"
+    hashtags: "#koreabyme, #unesco, #gyeonggido, #koreaphotography"
   - username: "dipperdaniel"
     fullname: >-
       Dan🐮
     bio: >-
       🔹UCLA '19 🌶Koreos ‘18-‘19 ⭐️KBM Dance ‘17-‘18 Collabs if mutuals
     location: "South Korea"
-    followers: 6103
-    engagement: 1395
-    commentsToLikes: 0.108228
+    followers: 5734
+    engagement: 1431
+    commentsToLikes: 0.108437
     id: ck6tt5m6n8qj60j71wwvo26zv
     verified: false
-    hashtags: "#kpopl4l, #kpopdancecovers, #dancechoreography, #bts"
+    hashtags: "#koreanaesthetic, #dancetraining, #kpopdance, #dancechoreography"
   - username: "sophie.h.k"
     fullname: >-
-      Sophie Kim 하은
+      Sophie Kim 소피킴
     bio: >-
-      ✈ Travel Youtuber ✰ 여행 유투버 ▷ Dm / Email for Business Collabs ≫ 770k+ Youtube ˢᴼᴾᴴᴵᴱᵀᴵᴹᴱ ↙✨
+      ✰ I share my life in YT. Nice to meet you here!
     location: "South Korea"
-    followers: 232171
-    engagement: 695
-    commentsToLikes: 0.018711
+    followers: 231655
+    engagement: 721
+    commentsToLikes: 0.018597
     id: ck8t5bo179jog0j78nxyfbbnj
     verified: false
-    hashtags: "#korea, #seoul, #travel, #travelyoutuber"
+    hashtags: "#travelyoutuber, #seoul, #travel, #vlog"
+  - username: "kassieyeung"
+    fullname: >-
+      KASSIE YEUNG 楊嘉恩
+    bio: >-
+      Currently in 서울 Seoul, South Korea Dancer on @grvdnc Business Inquires: kassiemontero@gmail.com TikTok: @kassieyeung (300k+)
+    location: "South Korea"
+    followers: 46391
+    engagement: 2189
+    commentsToLikes: 0.027142
+    id: ckap1by77txck0i78m1mk8cme
+    verified: false
+    hashtags: "#seoul, #seoulkorea, #travel, #datingapps"
   - username: "ji_kat"
     fullname: >-
-      Kat(이루나)
+      Kat(이루나)
     bio: >-
-      Daily photos 🐙 ⠀ 제주 lover⛱🏝 Christ follower 🕊 Living in Seoul 🌃 프리랜서 모델~ 모델 문의,DM for contact Happy girl Kat🐱 Photo @film_seoul #ji_kat🐱navigation
+      Daily photos 🐙 ⠀ 제주 lover⛱🏝 Christ follower 🕊 Living in Seoul 🌃 프리랜서 모델~ 모델 문의 Portfolio @le_model_kat Happy girl Kat🐱
     location: "South Korea"
-    followers: 5760
-    engagement: 967
-    commentsToLikes: 0.020156
+    followers: 6384
+    engagement: 1281
+    commentsToLikes: 0.023574
     id: ck9hbs5d9i7ed0j78a0badowv
     verified: false
-    hashtags: "#model, #korea, #ji, #vlog"
-  - username: "o_h.kwon"
+    hashtags: "#model, #travel, #ji, #korea"
+  - username: "youyou_travel"
     fullname: >-
-      OHyeon Kwon 권오현
+      YouYou
     bio: >-
-      Team crown 👑
+      Yᴏ̆̈ᴜ̆̈Yᴏ̆̈ᴜ̆̈ 유유♡̆̈ 🇨🇳👧🏻➕🇰🇷🧑🏽 📍🏠🇺🇸
     location: "South Korea"
-    followers: 34348
-    engagement: 225
-    commentsToLikes: 0.009439
-    id: ck0w0s11vfr4p0i19oulai3dv
+    followers: 16142
+    engagement: 186
+    commentsToLikes: 0.010062
+    id: ck6tqe5djqxht0j7160ncnwyw
     verified: false
-    hashtags: "#youthlab, #oofos, #artifacts, #noirer"
-  - username: "mary_land__"
+    hashtags: "#muine, #canon, #california, #losangeles"
+  - username: "lostraveleros"
     fullname: >-
-      매리🍒Mary
+      LOS TRAVELEROS | Travel couple
     bio: >-
-      ※ 협찬 문의, Inquiries->📧Email ※ About life in Korea ※ Developer 👩‍💻 ◇Computer Science Engineer ◇개발자,통역사🇰🇷🇮🇷 ◇서울대 컴공 16 🍒Youtube🍒
+      👫🏻 Blanca + Albert 📍 Barcelona 🏠 🌍 #TravelBloggers
     location: "South Korea"
-    followers: 29009
-    engagement: 1165
-    commentsToLikes: 0.023643
-    id: ck8tc0gr8xu720j78hotz5s1o
+    followers: 77302
+    engagement: 338
+    commentsToLikes: 0.044601
+    id: ck136d4hd5weu0i19h51b7jvg
     verified: false
-    hashtags: "#korea, #globalseoulmate, #jejuisland, #seoul"
-  - username: "welcometothepanoptico"
+    hashtags: "#backpackersintheworld, #travelustcouple, #instatravel, #trazymemories"
+  - username: "kim___lady"
     fullname: >-
-      세바 ~ (SHIPPO-YO) 📽️
+      Lady Kim
     bio: >-
-      [국] ing . . [×] S to the N #TRASH [위치] 서울
+      Hi,my name is #marina 🌊 #Russia 🔜 #seoul🇰🇷 About South Korea,travel,international love💕 📝DM for cooperation 🎬 Have YouTube click 🔽🔽🔽
     location: "South Korea"
-    followers: 56436
-    engagement: 1357
-    commentsToLikes: 0.011777
-    id: ck5pw4bzyl1bn0i11a94fpj2o
+    followers: 4954
+    engagement: 1842
+    commentsToLikes: 0.037750
+    id: ckap5qb9hcpjx0i784lxbrbha
     verified: false
-    hashtags: "#vsco, #life, #snow, #summer"
-  - username: "nazbiike_m"
-    fullname: >-
-      Nazbiike 비케의 일기📝
-    bio: >-
-      ▪️Ломаю стереотипы о хиджабе✨ ▪️4 года в Корее🖇 ▪️Проверенная косметика @avoyoung.kg 🇰🇷 💜문의/협찬 DM📩 Навигация по блогу #biike_навигация
-    location: "South Korea"
-    followers: 32030
-    engagement: 407
-    commentsToLikes: 0.030788
-    id: ckf5uroegm1ir0j23coxmdsiq
-    verified: false
-    hashtags: "#korea, #biike, #ootd, #seoul"
+    hashtags: "#kimpabcouple, #mixbaby, #koreatravel, #studykorean"
 ---

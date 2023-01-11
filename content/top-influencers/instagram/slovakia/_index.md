@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Slovakia In 2022
+title: Top 10 Instagram Influencers In Slovakia In 2023
 description: >-
-  Find top Instagram influencers in Slovakia in 2022. Most popular hashtags: #nature #slovakia #autumnvibes #autumn.
+  Find top Instagram influencers in Slovakia in 2023. Most popular hashtags: #slovakia #insta #slovakgirl #nature.
 platform: Instagram
-hits: 30
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 30 Instagram influencers like this in Slovakia for you to collaborate.
+hits: 22
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 22 Instagram influencers like this in Slovakia for you to contact.
 profiles:
-  - username: "adriazia"
+  - username: "kyruska_"
     fullname: >-
-      ↟ Adriana Žiačková ↟
+      Kristína Labajová
     bio: >-
-      𝙸'𝚖 𝚒𝚗 𝚕𝚘𝚟𝚎 𝚠𝚒𝚝𝚑 #𝓁𝒾𝒻𝑒 🦅↞ ➳𝚂𝙻𝙾𝚅𝙰𝙺𝙸𝙰♡🇸🇰 @dekorazia.sk 🧶 𝚖𝚊𝚔𝚎𝚛🙌🏽 𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚎𝚍 𝚋𝚢 @horsefeathers.eu🏂🏄🏾‍♀️ @frooshslovakia🍹 @eyerim.eyewear🕶 @thule🏔
+      😊 Follow me 😊😉 single 😊♥️ 20 yo ❤️Living in Slovak republic 🇸🇰😊Zvolen Ohľadom spolupráce píšte správu 😊fb- Kristína Labajová TikTok-@kyruska00
     location: "Slovakia"
-    followers: 26925
-    engagement: 603
-    commentsToLikes: 0.064380
-    id: ck14guswo74vx0i19oi0wato8
+    followers: 22629
+    engagement: 1721
+    commentsToLikes: 0.024820
+    id: ck0u00i8gs9ze0i195vejzijx
     verified: false
-    hashtags: "#autumnvibes, #girlsquadrocks, #beautiful, #mountaingirls"
+    hashtags: "#instafashion, #naturephotography, #insta, #girls"
   - username: "janah_blog"
     fullname: >-
       jankahairstylist
     bio: >-
       FASHIONBLOGGER 👗 hairstylist 💇🏼💇🏼‍♀️ 👉🏻Beauty & Style Nitra My blog 👇🏻💁🏼‍♀️
     location: "Slovakia"
-    followers: 6658
-    engagement: 647
-    commentsToLikes: 0.081196
+    followers: 6565
+    engagement: 516
+    commentsToLikes: 0.066972
     id: ck14guaau728p0i19zmjn142c
     verified: false
-    hashtags: "#hairstylist, #slovakblogger, #fashiontrends, #mystyle"
-  - username: "mickovaema"
+    hashtags: "#jankahairstylist, #fashioninspiration, #outfitoftheday, #inspiration"
+  - username: "adriazia"
     fullname: >-
-      Ema Mičková
+      ↟ Adriana Žiačková ↟
     bio: >-
-      Bratislava 🇸🇰 Finalist of Miss universe 2019
+      𝙸'𝚖 𝚒𝚗 𝚕𝚘𝚟𝚎 𝚠𝚒𝚝𝚑 #𝓁𝒾𝒻𝑒 🦅↞ ➳𝚂𝙻𝙾𝚅𝙰𝙺𝙸𝙰♡🇸🇰 @dekorazia.sk 🧶 𝚖𝚊𝚔𝚎𝚛🙌🏽 𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚎𝚍 𝚋𝚢 @horsefeathers.eu 🏂 @mile_kidsclothing 🦖 @eyerim.eyewear 👓🕶 @thule 🏔🚴🏽‍♀️
     location: "Slovakia"
-    followers: 11476
-    engagement: 2480
-    commentsToLikes: 0.005667
-    id: ck0vvp36zq4dy0i193ms9z1pn
+    followers: 30706
+    engagement: 316
+    commentsToLikes: 0.014947
+    id: ck14guswo74vx0i19oi0wato8
     verified: false
-    hashtags: ""
-  - username: "kyruska_"
-    fullname: >-
-      Kristína Labajová
-    bio: >-
-      fb- Kristína Labajová TikTok-@kyruska00 #kristínalabajová Ohľadom spolupráce píšte správu 😊 Follow me 😊😉 *19.08.2000❤️I live in 🇸🇰 Zvolen 😊😊
-    location: "Slovakia"
-    followers: 16283
-    engagement: 1475
-    commentsToLikes: 0.025749
-    id: ck0u00i8gs9ze0i195vejzijx
-    verified: false
-    hashtags: "#instagood, #fitnessgirl, #kosice, #instafashion"
-  - username: "petrrissa"
-    fullname: >-
-      Petra_huntress
-    bio: >-
-      👉Zľavový kód "iPK" 👉www.ibo.sk. Slovakgirl 🇸🇰 Huntress 🐗 🦌 Forester 🌲🌳Vizsla dog 🐕🐾Travel lover ✈️ FB ➡️https://www.facebook.com/Petrrissahuntress/
-    location: "Slovakia"
-    followers: 43972
-    engagement: 504
-    commentsToLikes: 0.012608
-    id: ck0tvd664axbn0i198lvp4fkx
-    verified: false
-    hashtags: "#blondie, #huntress, #wildlife, #spoluzapolovnictvo"
+    hashtags: "#fashion, #thisisslovakia, #slovensko, #love"
   - username: "veronikamiklovicova"
     fullname: >-
       Veronika Miklovičová
     bio: >-
       👩🏻‍🦰 natural redhead 📩business.miklovicova@gmail.com• 🇸🇰Slovakia•nature and animals lover• 🎓political science•
     location: "Slovakia"
-    followers: 24127
-    engagement: 1036
-    commentsToLikes: 0.016026
+    followers: 24066
+    engagement: 968
+    commentsToLikes: 0.015520
     id: ck0vx0daywhy20i19b65jj0zt
     verified: false
-    hashtags: "#naturalbeauty, #redheadsrock, #gingerhead, #redheadbeauty"
-  - username: "yasmine_taty"
-    fullname: >-
-      YASMINE 🐝🐝🐝
-    bio: >-
-      #Dancer | #Model | #Singer | #Traveler 🏝 II. VICEMISS 👑 MISS Press, MISS Pierot > 2018 🇸🇰 #Momoftwins 👶🏽👶🏽
-    location: "Slovakia"
-    followers: 23187
-    engagement: 762
-    commentsToLikes: 0.009251
-    id: ck0w1vfoblbpi0i197p7lr0vt
-    verified: false
-    hashtags: "#reservedforme, #foryou, #ad, #nohate"
+    hashtags: "#redheaded, #redheadsrock, #portraitstream, #portraits"
   - username: "silvia.liska"
     fullname: >-
       Silvia Liska
     bio: >-
-      Slovakia based yogi🇸🇰 200 RYT 🧘‍♀️☕️🧁 @vayumudra - silvia15⤵️15% ✉ silvialiska.business@gmail.com
+      Slovakia based yogi🇸🇰 Mom to be 🤗🤰 200 RYT 🧘‍♀️☕️🧁 @peelo.wraps - SILVI15⤵️15% ✉ silvialiska.business@gmail.com
     location: "Slovakia"
-    followers: 6631
-    engagement: 831
-    commentsToLikes: 0.020458
+    followers: 6360
+    engagement: 488
+    commentsToLikes: 0.029450
     id: ck14ilwaog29z0i19dcksk7kg
     verified: false
-    hashtags: "#dnessportujem, #slovensko, #bratislava, #portraitinspiration"
-  - username: "atila.jonas"
+    hashtags: "#bratislava, #instayogi, #yogapractice, #momtobe2021"
+  - username: "gabeez_photo"
     fullname: >-
-      Atila Jonas
+      gabeez
     bio: >-
-      💄Self-taught Makeupboy 🇸🇰 Based in Slovakia 💌 PR/Business - DM or atila.jonas@gmail.com
+      Photographer Bratislava, Slovakia
     location: "Slovakia"
-    followers: 2804
-    engagement: 3369
-    commentsToLikes: 0.061990
-    id: ck0w4gt91yhua0i19anqs11xm
+    followers: 15484
+    engagement: 474
+    commentsToLikes: 0.006888
+    id: ck0tyo4fxnhei0i19a5q6dwrp
     verified: false
-    hashtags: "#brows, #beauty, #malemuas, #theartistedit"
-  - username: "domi_pilot"
+    hashtags: ""
+  - username: "matka_bardossyova"
     fullname: >-
-      
+      Maťka Bárdossyová
     bio: >-
-      Boeing 737-800 First Officer • Commercial Pilot Licence👩‍✈️Slovak pilot 🇸🇰🇨🇭 ✈️
+      📍Slovakia 🇸🇰/ Lučenec🏡 👩‍🏫 Teacher in primary school ❣️ Animallover 🐕/ foodlover 🥞 🌸 Dream as if you'll live forever, live as if you'll die today 🌸
     location: "Slovakia"
-    followers: 21926
-    engagement: 804
-    commentsToLikes: 0.032997
-    id: ck0w3rrqsuxyh0i192h7v5xas
+    followers: 2118
+    engagement: 1146
+    commentsToLikes: 0.029367
+    id: ck0vy9re32xam0i19jjpxcbmh
     verified: false
-    hashtags: "#aviationlover, #flight, #mountainlovers, #aviation"
+    hashtags: "#slovakgirl, #lovethisplace, #christmas, #happyme"
+  - username: "ninkaper"
+    fullname: >-
+      NINA PERÁČKOVÁ 🇸🇰
+    bio: >-
+      Healthy & Lifestyle EDITOR @elleczech 🥗 FOUNDER of @thenolimitsgym ❤️ Chces vediet spagat, placku, mostik? ZACVIC SI SOMNOU TU 💪🏻😍
+    location: "Slovakia"
+    followers: 19208
+    engagement: 421
+    commentsToLikes: 0.145403
+    id: ck0ubgiitel0y0i19w54kacnd
+    verified: false
+    hashtags: "#nolimitsonlinegym, #noflexilimits, #benolimits, #flexiblegirl"
+  - username: "janka_rm"
+    fullname: >-
+      Jana Marsikova 🎨⛰🧘🏼‍♀️🌻
+    bio: >-
+      • Oil painter ->DM 🎨👩🏼‍🎨 • Fujifilm 📸 • Nature lover 🌸 • Research scientist🧬🦠 • Czechia / Slovakia “Fear kills more dreams than failure ever will.”
+    location: "Slovakia"
+    followers: 10640
+    engagement: 2651
+    commentsToLikes: 0.040499
+    id: ck1387qr7ewia0i19nidzlopg
+    verified: false
+    hashtags: "#tatry, #the, #czechroamers, #fotocatchers"
+  - username: "majklmnphotography"
+    fullname: >-
+      Photo by Michal
+    bio: >-
+      🔝 Landscape, Nature, Mountains, Hiking, Bike ❤️ 👉 Cooperation DM or mail 📩 📸 Travel & Hiking & Nature from the Slovakia 🇸🇰 📸📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📸
+    location: "Slovakia"
+    followers: 3914
+    engagement: 1832
+    commentsToLikes: 0.049906
+    id: ck0vwmi5juj8j0i19u2cse6qi
+    verified: false
+    hashtags: "#tatryslovakia, #hightatras, #thisisslovakia, #slovakianature"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In 2022
+title: Top 10 Models TikTok Influencers In 2023
 description: >-
-  Find top models TikTok influencers in 2022. Most popular hashtags: #foryou #fyp #model #fashion.
+  Find top models TikTok influencers in 2023. Most popular hashtags: #foryou #fyp #model #foryoupage.
 platform: TikTok
-hits: 5659
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 5659 TikTok influencers like this for you to connect with.
+hits: 5585
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 5585 TikTok influencers like this for you to contact.
 profiles:
   - username: "mod3ls"
     fullname: >-
@@ -13,24 +13,12 @@ profiles:
     bio: >-
       models videos & music belong to respected copyright owners
     location: "United States"
-    followers: 103200
-    engagement: 2067
-    commentsToLikes: 0.009789
+    followers: 121600
+    engagement: 1935
+    commentsToLikes: 0.009190
     id: ckcuwqrt2lsj60j23jlnxbvb0
     verified: false
-    hashtags: "#fashion, #foryou, #bellahadid, #runway"
-  - username: "realmazdakkhan"
-    fullname: >-
-      ツMAZDAK彡KHAN꧁
-    bio: >-
-      model
-    location: "Pakistan"
-    followers: 1100000
-    engagement: 644
-    commentsToLikes: 0.018714
-    id: ckdcmai5bokcg0j233n1qjan2
-    verified: false
-    hashtags: "#realmazdakkhan, #pubg, #emraanhashmi, #mazdakjan"
+    hashtags: "#fyp, #malemodel, #foryou, #fashion"
   - username: "tik_tok_models_2020"
     fullname: >-
       Tiktok__india
@@ -38,93 +26,105 @@ profiles:
       😎Tik Tok Models😎 👉2020👈 🙏Follow insta id🙏
     location: "India"
     followers: 97100
-    engagement: 1076
+    engagement: 1072
     commentsToLikes: 0.017291
     id: ckbr22z0qivpg0j23yuip3ioe
     verified: false
     hashtags: "#model"
-  - username: "iamjina_kim"
+  - username: "marcela.thome"
     fullname: >-
-      Jina kim 김지나
+      Marcela Thomé
     bio: >-
-      MODEL
-    location: "South Korea"
-    followers: 420900
-    engagement: 647
-    commentsToLikes: 0.024393
-    id: ck8nbet0l9jop0j78u56elr2q
-    verified: true
-    hashtags: "#asian, #korea, #fyp, #korean"
+      Model
+    location: "Brazil"
+    followers: 15700
+    engagement: 1380
+    commentsToLikes: 0.025838
+    id: ckb9oxncejo7v0j23qrzsz8yl
+    verified: false
+    hashtags: "#tiktokbrasil, #modellife, #foryou, #trend"
   - username: "nehchalb"
     fullname: >-
       nehchal
     bio: >-
       model
     location: "Canada"
-    followers: 30100
-    engagement: 875
-    commentsToLikes: 0.022786
+    followers: 30400
+    engagement: 934
+    commentsToLikes: 0.022342
     id: ck8kg0kgfge5v0j78pxquufxj
     verified: false
-    hashtags: "#pubjabi, #foryou, #model, #baddie"
+    hashtags: "#foryou, #tiktok, #punjabi, #pourtoi"
   - username: "modelsforyou"
     fullname: >-
       Models
     bio: >-
       TikToks #1 Model Page! 🍑🍒 Dm for Business and Promotional Deals! 👍📈
     location: "Canada"
-    followers: 197500
-    engagement: 478
-    commentsToLikes: 0.007527
+    followers: 201300
+    engagement: 468
+    commentsToLikes: 0.006502
     id: ck9flmlmhopzz0j78yjgykhx9
     verified: false
-    hashtags: "#models, #modeling, #beauty, #fashion"
+    hashtags: "#model, #bikinimodel, #modelgirl, #fyp"
   - username: "angelbhagat"
     fullname: >-
       angelbhagat
     bio: >-
       Model
     location: "United States"
-    followers: 88800
-    engagement: 689
-    commentsToLikes: 0.016096
+    followers: 88100
+    engagement: 688
+    commentsToLikes: 0.016101
     id: ckc8znaabopaf0j23vk9o3mcw
     verified: false
-    hashtags: "#foryoupage, #tiktokindia, #teamromeo09, #foryou"
-  - username: "babezlovee"
+    hashtags: "#foryoupage, #foryou, #teamromeo09, #tiktokindia"
+  - username: "venkatesh197"
     fullname: >-
-      Babes
+      venkatesh@1998
     bio: >-
-      Models
-    location: "Sweden"
-    followers: 96000
-    engagement: 701
-    commentsToLikes: 0.008592
-    id: ckd5ytq8p0li50j23acvnsnqn
+       model 
+    location: "India"
+    followers: 4199
+    engagement: 713
+    commentsToLikes: 0.001378
+    id: ckbklsqwrf5gh0j23wq1ybobh
     verified: false
-    hashtags: "#models, #swimwea, #bikini, #bikinimodel"
+    hashtags: "#foryoupage, #sharethecare, #gym, #bodychallenge"
   - username: "user5485403411"
     fullname: >-
       deepajain
     bio: >-
       model
     location: "India"
-    followers: 14200
+    followers: 14100
     engagement: 316
-    commentsToLikes: 0.005442
+    commentsToLikes: 0.005439
     id: ckc34i4b0tv9p0j23vb5lqw5k
     verified: false
-    hashtags: "#foryourpage, #monkey, #funnyvideos, #funchallenge"
-  - username: "stepoggio_"
+    hashtags: "#stuntchallenge, #funchallenge, #monkey, #tik"
+  - username: "stepoggio"
     fullname: >-
       stepoggio
     bio: >-
       Model
     location: "Italy"
-    followers: 7672
-    engagement: 1983
-    commentsToLikes: 0.002563
+    followers: 7130
+    engagement: 1978
+    commentsToLikes: 0.002291
     id: ck8w2kqop5n1b0j78rvvbsfaa
     verified: false
-    hashtags: "#perte, #fyp, #viral, #italianboy"
+    hashtags: "#viral, #perte, #fyp, #italy"
+  - username: "carlaruthdennis"
+    fullname: >-
+      Carla Ruth Dennis
+    bio: >-
+      Model
+    location: "India"
+    followers: 8467
+    engagement: 588
+    commentsToLikes: 0.055737
+    id: ck9elxvcccrry0j78m3ag2of4
+    verified: true
+    hashtags: "#quarantinelife, #fashionhacks, #fashionweek, #stylish"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Toronto In 2022
+title: Top 10 Models Instagram Influencers In Toronto In 2023
 description: >-
-  Find top models Instagram influencers in Toronto in 2022. Most popular hashtags: #model #toronto #fashion #style.
+  Find top models Instagram influencers in Toronto in 2023. Most popular hashtags: #model #photography #portrait #fashion.
 platform: Instagram
-hits: 185
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 185 Instagram influencers like this in Toronto, Canada for you to pitch.
+hits: 75
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 75 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "morgankriz"
-    fullname: >-
-      Morgyy
-    bio: >-
-      Toronto & Florida Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Japan
-    location: "Canada"
-    followers: 48858
-    engagement: 415
-    commentsToLikes: 0.013659
-    id: ck5cal4wfdm7k0i11krjrtt5w
-    verified: false
-    hashtags: "#myloungelife, #loungegirl, #lingerie, #breastcancerawareness"
-  - username: "sasha_sheims"
-    fullname: >-
-      Sasha Holland
-    bio: >-
-      Anita Norris Models • Toronto 📍 Canada 🇨🇦
-    location: "Canada"
-    followers: 2592
-    engagement: 1154
-    commentsToLikes: 0.073606
-    id: ck0vytb5d5olu0i199eez773x
-    verified: false
-    hashtags: ""
   - username: "arsh.bhullar"
     fullname: >-
       Arsh Bhullar ✅
     bio: >-
-      Actor\Model | Toronto 🇨🇦 | Fitness 💪🏼 | H.K.B |🍿| ⛵️ @beeba.boyz Fitness tips and meal plans . https://danielphilipwatch.com/?ref=tmjue8lc4asx
+      Actor/ model | Toronto 🇨🇦 | Fitness 💪🏼 |Certified nutritionist expert | H.K.B 🔐 |currently-🇮🇳 India Contact- arshcasting@gmail.com
     location: "Canada"
-    followers: 18210
-    engagement: 466
-    commentsToLikes: 0.023146
+    followers: 17557
+    engagement: 611
+    commentsToLikes: 0.015002
     id: ck5q1x07xd6vd0i11n25zwx99
     verified: false
-    hashtags: "#styleinspo, #malemodel, #instadaily, #mensfashion"
-  - username: "chichifrias"
+    hashtags: "#kisaanmajdoorektazindabad, #malemodel, #trending, #musicvideo"
+  - username: "merupictures"
     fullname: >-
-      A N G I E   F R I A S ♛
+      Meru (Mehrzad Vahdat)
     bio: >-
-      🇩🇴|🇨🇦 📍CLT -> YYZ Email for inquiries 📧⬇️
+      | Portrait | Fashion | Beauty | Lifestyle | Corporate | | Music Video | Teaser | Promo | Interview | – Email/DM for rates! 🇨🇦 🏔 🌱
     location: "Canada"
-    followers: 7210
-    engagement: 1534
-    commentsToLikes: 0.053642
-    id: ckap3f8l12txa0i78zin44a08
+    followers: 6245
+    engagement: 606
+    commentsToLikes: 0.110223
+    id: ck138wuiriesv0i19md7syjl8
     verified: false
-    hashtags: "#curls, #toronto, #ootd, #selfie"
-  - username: "dorrie.mack"
+    hashtags: "#reels, #videographers, #photographer, #midtowntoronto"
+  - username: "gabrielabellydancer"
     fullname: >-
-      Dorrie Mack
+      Gabriela Carnovale
     bio: >-
-      📍#Toronto ⚡️ *reference photos & life drawing modelling on my patreon /dorriemack* 🎨: @dorriemackart 🎵: thefuckinastronauts.bandcamp.com
+      💜 Belly dancer 💃🏼 Director @abundancebellydance 🌎 Blessed 📨For bookings: DM or e-mail
     location: "Canada"
-    followers: 15857
-    engagement: 345
-    commentsToLikes: 0.043834
-    id: ck5zv1nvq3fgi0i14v7rtnpxy
+    followers: 26848
+    engagement: 77
+    commentsToLikes: 0.134148
+    id: ck8tax2ogtfl20j78wsc5xugc
     verified: false
-    hashtags: "#photooftheday, #photography, #model, #toronto"
-  - username: "shaheenbakshi"
+    hashtags: "#monday, #model, #torontomodel, #creative"
+  - username: "minaj.mp"
     fullname: >-
-      Shaheen Bakshi
+      ♏️inajmp💮
     bio: >-
-      ꜰʀᴇᴇʟᴀɴᴄᴇʀ ᴍᴏᴅᴇʟ/ᴀᴄᴛᴏʀ ᴛᴏʀᴏɴᴛᴏ 🇨🇦-ᴄʜᴀɴᴅɪɢᴀʀʜ 🇮🇳 ᴅᴍ ᴏɴʟʏ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ ꜱᴄ👻ꜱʜᴀʜᴇᴇɴʙᴀᴋꜱʜɪ
+      Fashion Stylist~Model~Beauty pro~ Miss face of humanity 2021👑 I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨🇨🇦 @unik.models
     location: "Canada"
-    followers: 9603
-    engagement: 502
-    commentsToLikes: 0.106721
-    id: ck9wd1dm7dmh80j78ja1lmt4u
+    followers: 81514
+    engagement: 267
+    commentsToLikes: 0.055639
+    id: ckaotndqcwn0x0i78myma80eh
     verified: false
-    hashtags: "#punjabisongs, #modeling, #video, #punjabimodel"
-  - username: "amritasamra1"
+    hashtags: "#fashionshow, #beautiful, #artoftheday, #outfitinspiration"
+  - username: "karinacabiling"
     fullname: >-
-      Malika-Ae-Noor
+      Karina Cabiling
     bio: >-
-      Suits and jewellery inquires DM or Contact +1 647-917-1001 Makeup @amritasamraa Partnership @theanumgill
+      Motherhood, self-care & laughs Boy mom x2 Model(Sutherland Toronto|FolioMontreal) Founder @islarosaswim 📧 karina.cabiling@gmail.com
     location: "Canada"
-    followers: 11174
-    engagement: 68
-    commentsToLikes: 0.018082
-    id: ck0w3458urimn0i19zvoygcxk
+    followers: 74242
+    engagement: 672
+    commentsToLikes: 0.026977
+    id: ckf5lt8e2qxhe0j23vwo9jcn5
     verified: false
-    hashtags: ""
-  - username: "nicolejamesofficial"
+    hashtags: "#funnyreels, #momsofig, #relatablepost, #momlife"
+  - username: "constance.angel"
     fullname: >-
-      Nicole James
+      A N G E L   C O N S T A N C E
     bio: >-
-      🎬 Young Erin Voss on Locke & Key - Netflix 🎬 Gabby on Boombats - Youtube ⭐️ACTRA ⭐️Premier Artists' Management 👇Visit my IMDb page 👇
+      💼 | Freelance Model 📍 | Toronto 🐰 | Playboy Muse of the Year - 2019
     location: "Canada"
-    followers: 5855
-    engagement: 1605
-    commentsToLikes: 0.047055
-    id: ck9wf323jn2ay0j78k0safssh
+    followers: 56434
+    engagement: 479
+    commentsToLikes: 0.026289
+    id: ck13c8xfiz64d0i19t6udft1x
     verified: false
-    hashtags: "#workingactors, #torontofilmindustry, #actra, #tvactor"
-  - username: "iamsinaamirii"
+    hashtags: "#happynewyear2021, #2021"
+  - username: "pompomchewy"
     fullname: >-
-      sina amiri
+      𝗣𝗼𝗺 𝗣𝗼𝗺 𝗖𝗵𝗲𝘄𝘆
     bio: >-
-      𝑊ℎ𝑒𝑟𝑒 𝑓𝑜𝑐𝑢𝑠 𝑔𝑜𝑒𝑠 𝐸𝑛𝑒𝑟𝑔𝑦 𝑓𝑙𝑜𝑤𝑠. 📍toronto 𝑊𝑒 𝑎𝑟𝑒 𝑤𝑖𝑛𝑛𝑒𝑟𝑠.
+      👔 The Littlest Trendsetter 🎬 Working Actor and Model 🍁 Toronto
     location: "Canada"
-    followers: 27215
-    engagement: 671
-    commentsToLikes: 0.045928
-    id: ck602gm06hcn60i14kurkmaub
+    followers: 63089
+    engagement: 111
+    commentsToLikes: 0.032053
+    id: ck137hbfpbji70i19wuid16nw
     verified: false
-    hashtags: "#sinaamiri, #streetstyle, #barber, #fashion"
-  - username: "nobahardadui"
+    hashtags: "#pomeranianpage, #instapom, #pomstagram, #pomeraniansofinstagram"
+  - username: "yourdappergoals"
     fullname: >-
-      NobaharDadui
+      Midhvan Gulati
     bio: >-
-      | Pro Figure Skater | Skating Choreographer | Cirque du Soleil Artist at ‘Crystal’ | Actor / Dancer | World Traveller | 🇮🇷🇨🇦
+      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
     location: "Canada"
-    followers: 5151
-    engagement: 1184
-    commentsToLikes: 0.046660
-    id: ck5hsogaxwxm00i11y3qitp94
+    followers: 47354
+    engagement: 266
+    commentsToLikes: 0.031125
+    id: ck5hqblkfsu3o0i11qym0xxbb
     verified: false
-    hashtags: "#2020, #coldembrace, #love, #flow"
+    hashtags: "#reelsindia, #happy, #beautiful, #black"
+  - username: "beautifullifestudios"
+    fullname: >-
+      Beautiful Life Studios Inc
+    bio: >-
+      VANCOUVER - @beautifullifebc Toronto | Vancouver | Miami 📧 team@beautifullifestudios.com Joyful, tasteful & elegant storytelling
+    location: "Canada"
+    followers: 28570
+    engagement: 73
+    commentsToLikes: 0.058440
+    id: ck5zk53p8itul0i14arslfser
+    verified: false
+    hashtags: "#okanaganwedding, #destinationwedding, #website, #vancouverwedding"
+  - username: "samialauryn"
+    fullname: >-
+      Samia McClain
+    bio: >-
+      B A H A M A S | F R A N C E 📍 ESSEC BS Elegance, Excellence, Everything... @bysamialauryn
+    location: "Canada"
+    followers: 2376
+    engagement: 913
+    commentsToLikes: 0.044955
+    id: ckaoyom10ie8z0i78gn4qplvz
+    verified: false
+    hashtags: "#resort, #nassau, #winelover, #italy"
 ---

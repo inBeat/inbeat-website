@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Dallas In 2022
+title: Top 10 Gardening Instagram Influencers In Dallas In 2023
 description: >-
-  Find top gardening Instagram influencers in Dallas in 2022. Most popular hashtags: #gardening #flowers #kids #dallas.
+  Find top gardening Instagram influencers in Dallas in 2023. Most popular hashtags: #gardening #dallas #summer #dallasmoms.
 platform: Instagram
-hits: 9
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 9 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 7
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 7 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "thepeppywings"
+  - username: "micheletripple"
     fullname: >-
-      ᴀᴀɴᴄʜᴀʟ ᴊᴀɪɴ
+      Michele l Family Life Educator
     bio: >-
-      Fashion,Travel,Lifestyle @liketoknow.it THEPEPPYWINGS Fashion Designer @pastelsbyaj Cake Designer @dallascakery @clarinsusa👇🏼
+      Helping turn imperfect moments into treasured memories! Easy recipes, Printables, affordable fashion, family & fun! #dallasmom #momof5 💌 Dm to collab!
     location: "United States"
-    followers: 15106
-    engagement: 453
-    commentsToLikes: 0.203230
-    id: ck6tpgn2xjrib0j71tzrdx3ec
+    followers: 20707
+    engagement: 426
+    commentsToLikes: 0.041501
+    id: ck13cqatd1n4u0i19dsjb7s9z
     verified: false
-    hashtags: "#reelsvideo, #kids, #browngirlbloggers, #sheingals"
-  - username: "livingwithheart"
+    hashtags: "#dallasmoms, #kidsinthekitchen, #ad, #dallas"
+  - username: "theburmesemom"
     fullname: >-
-      Susan Webster (Heart)
+      M A Y
     bio: >-
-      🌿Home & Garden 🌿 All things beautiful! Mom to 2 & Heart to 4 Dallas, Texas For inquiries DM me @livingwithheart Antique Candle Company Partner
+      📸: 𝐍𝐎 𝐑𝐄𝐏𝐎𝐒𝐓 without permission 📩 : theburmesemom@gmail.com 🥼Clinical🩸Laboratory 👩🏻‍🔬 Scientist 🇲🇲 Made in BURMA 🇲🇲
     location: "United States"
-    followers: 26018
-    engagement: 298
-    commentsToLikes: 0.235671
-    id: ck6u41kjv15lq0j712quuq4ct
+    followers: 28211
+    engagement: 353
+    commentsToLikes: 0.101187
+    id: ck55le11j1ces0i112jqhas9o
     verified: false
-    hashtags: "#blogger, #candle, #teasippin, #love"
-  - username: "just_looks_jadore"
-    fullname: >-
-      Jordan Botzong | Dallas Style
-    bio: >-
-      ʙʏ ɢʀᴀᴄᴇ ᴛʜʀᴏᴜɢʜ ғᴀɪᴛʜ⁣ ⁣𝗼𝘂𝘁𝗳𝗶𝘁 𝗶𝗻𝘀𝗽𝗼 // 𝗱𝗮𝗶𝗹𝘆 𝗹𝗼𝗼𝗸𝘀⁣ ⁣Sharing my fav fashion finds & a little bit of Tim🐾
-    location: "United States"
-    followers: 3075
-    engagement: 901
-    commentsToLikes: 0.107365
-    id: ck6tsz78h7nv20j71018rbreu
-    verified: false
-    hashtags: "#fashionlover, #frenchiesofinstagram, #justlooks, #jadore"
-  - username: "nicknash_music"
-    fullname: >-
-      N I C K  N A S H
-    bio: >-
-      UT - TN - TX
-    location: "United States"
-    followers: 9117
-    engagement: 105
-    commentsToLikes: 0.056416
-    id: ck6tvuzs7ofcj0j71j4e47r9t
-    verified: false
-    hashtags: "#spotify, #saltlakecity, #songs, #covid19"
-  - username: "prestigetree"
-    fullname: >-
-      Ty
-    bio: >-
-      Photography taken during work research and traveling tyclimbstrees
-    location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
-    verified: false
-    hashtags: "#inspirephotography, #birds, #travel, #instagood"
+    hashtags: "#traveloregon, #homemadefood, #wearetravelgirls, #pnwonderland"
   - username: "thekiwihome"
     fullname: >-
       Mi & Ales
     bio: >-
       home & garden enthusiasts | global nomads | learning to live slowly pictures of our own home & garden projects or from our travels.
     location: "United States"
-    followers: 5811
-    engagement: 1103
-    commentsToLikes: 0.058049
+    followers: 6614
+    engagement: 1365
+    commentsToLikes: 0.040634
     id: ck9wdg745fhoe0j78mexq467l
     verified: false
-    hashtags: "#flowersofinstagram, #kalesalad, #gardeninglife, #thekiwihome"
-  - username: "christiandawdesign"
+    hashtags: "#kale, #growfromseeds, #urbanfarmer, #happygardeninglife"
+  - username: "marcosal85"
     fullname: >-
-      Christian Daw
+      Marco
     bio: >-
-      Former attorney with a passion for beautiful homes... and a little design firm. 💁🏻‍♂️ Follow along! #christiandawdesign 👇🏻Connect for services.
+      •ARCHITECT •MODEL •TRAVELER •CONTENT CREATOR •DALLAS, TX. 📍 For bookings/brand deals: ✉️officialmarcosal85@gmail.com
     location: "United States"
-    followers: 311742
-    engagement: 530
-    commentsToLikes: 0.023131
-    id: ck0w79duucey70i19750um17m
+    followers: 129488
+    engagement: 408
+    commentsToLikes: 0.024418
+    id: ckaoujcuc0iy50i78ms1a6005
     verified: false
-    hashtags: "#newconstruction, #beachhouse, #renovationproject, #housetour"
-  - username: "parrygripp"
+    hashtags: "#travel, #newmexico, #hairy, #scruff"
+  - username: "livingwithheart"
     fullname: >-
-      Parry Gripp
+      Susan Webster (Heart)
     bio: >-
-      I’m Parry Gripp!
+      🌿Home & Garden 🌿 All things beautiful! Mom to 2 & Heart to 4 Dallas, Texas For inquiries DM me @livingwithheart Antique Candle Company Partner
     location: "United States"
-    followers: 6836
-    engagement: 421
-    commentsToLikes: 0.053378
-    id: ck15q3kv30xeo0i191ss0cu7f
+    followers: 34642
+    engagement: 314
+    commentsToLikes: 0.200726
+    id: ck6u41kjv15lq0j712quuq4ct
     verified: false
-    hashtags: "#shredding, #hummingbirdsofinstagram, #spaceunicorn, #catsofinstagram"
-  - username: "gilleanmcleod"
+    hashtags: "#livingroom, #rusticelegance, #livingwithheart, #fall"
+  - username: "redcarpetroxy"
     fullname: >-
-      Gillean McLeod
+      Roxy Manning | Red Carpet Roxy
     bio: >-
-      Model | Stylist
+      @womenontopofficial Podcast | On-Air Correspondent | EIC RedCarpetRoxy.com | Style Expert | Proud Mama | Traveler | Animal Lover | Life Enthusiast l
     location: "United States"
-    followers: 8617
-    engagement: 534
-    commentsToLikes: 0.108391
-    id: ck5hkyul1j9ti0i11ounm6bun
+    followers: 121007
+    engagement: 91
+    commentsToLikes: 0.118953
+    id: ckf5xkkt8vz660j23lyueslo2
     verified: false
-    hashtags: "#modellife, #socalgardens, #mtwashington, #mygarden"
+    hashtags: "#podcastforwomen, #family, #liketkit, #womenontop"
+  - username: "1718lakehouse"
+    fullname: >-
+      Jade Burke | Interior design
+    bio: >-
+      DIY l Home decor enthusiast l Avid gardener l Turning this lake house into our home, follow along. | Home🏡 | Garden lover 🍇| Lakelife🚣‍♀️⚓⛵ |
+    location: "United States"
+    followers: 10127
+    engagement: 634
+    commentsToLikes: 0.183208
+    id: ckf5vfqvuofrw0j23xs84p5f0
+    verified: false
+    hashtags: "#romanticliving, #beautifuldecorstyles, #interior123, #gardenloversofinstagram"
+  - username: "northwoodsfolk"
+    fullname: >-
+      Sunny // Folk Living                                       🌲MN🌲
+    bio: >-
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+    location: "United States"
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
+    verified: false
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "laurenselfblogs"
+    fullname: >-
+      Lauren
+    bio: >-
+      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+    location: "United States"
+    followers: 18656
+    engagement: 1858
+    commentsToLikes: 0.022000
+    id: ck8t1vbnlx6dp0j782ei1ya9s
+    verified: false
+    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
   - username: "seldabelda"
     fullname: >-
       anna aromin | ↟ pnw ↟
     bio: >-
       artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
     location: "United States"
-    followers: 34042
-    engagement: 337
-    commentsToLikes: 0.098448
+    followers: 33490
+    engagement: 341
+    commentsToLikes: 0.090660
     id: ck14kkiiwpyiz0i19q3we0t10
     verified: false
-    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
+    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
 ---

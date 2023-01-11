@@ -1,84 +1,36 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In 2022
+title: Top 10 Nail Artists TikTok Influencers In 2023
 description: >-
-  Find top nail artists TikTok influencers in 2022. Most popular hashtags: #nails #nailtech #fyp #nailart.
+  Find top nail artists TikTok influencers in 2023. Most popular hashtags: #nails #nailart #fyp #pressonnails.
 platform: TikTok
-hits: 262
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 262 TikTok influencers like this for you to collaborate.
+hits: 243
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 243 TikTok influencers like this for you to collaborate.
 profiles:
-  - username: "chenailnail.og"
-    fullname: >-
-      Rachelle
-    bio: >-
-      💕Amateur nail artist💕 🥓 I love to cook🥑 #Nattynation #prodsquad
-    location: "United States"
-    followers: 47900
-    engagement: 1419
-    commentsToLikes: 0.015422
-    id: ckb9c9dmvyzok0j23wzg8etss
-    verified: false
-    hashtags: "#pumpkinseeds, #remotelearninglunches, #chenailnailcooks, #schoolfood"
-  - username: "michelleduron21"
-    fullname: >-
-      MichiDuron
-    bio: >-
-      Nail Artist Mom of 3 preemie boys 🌼Handmade Luxury Press on Nails🌼
-    location: "United States"
-    followers: 6152
-    engagement: 742
-    commentsToLikes: 0.193952
-    id: ckb9joztib1t30j23p1nbjl7v
-    verified: false
-    hashtags: "#parati, #xy, #presson, #pressonnails"
-  - username: "thenailaddict"
-    fullname: >-
-      Devin Strebler
-    bio: >-
-      💅🏼NAIL ARTIST / OWNER OF NAIL ADDICTS💅🏼 🌴LARGO, FL🌴 🦋 @NAILZ_BY_DEV 🦋
-    location: "United States"
-    followers: 383000
-    engagement: 1522
-    commentsToLikes: 0.014189
-    id: ckacg26y4tftm0i782gcohyvm
-    verified: false
-    hashtags: "#halloween, #mycostume, #freebritney, #halloweennails"
   - username: "nailthoughts"
     fullname: >-
       nailthoughts
     bio: >-
       a nail artist & business owning beech named Katie Masters
     location: "United States"
-    followers: 379700
-    engagement: 1639
-    commentsToLikes: 0.002981
+    followers: 368600
+    engagement: 1566
+    commentsToLikes: 0.003549
     id: ck7zo0zb0gs8e0j78rq2f2q8t
     verified: false
-    hashtags: "#entrepreneur, #pressons, #nails, #nailthoughts"
-  - username: "miriananailartist"
+    hashtags: "#nailart, #nailtech, #entrepreneur, #pressonnails"
+  - username: "thenaildesigner.cl"
     fullname: >-
-      Miriana Tria
+      Fran Canessa ✨
     bio: >-
-      Estetista-Onicotecnica Instagram—> miriana_nail_artist 📩mirianat2711@icloud.com
-    location: "Italy"
-    followers: 59200
-    engagement: 757
-    commentsToLikes: 0.019533
-    id: ck8vshz1ddnla0j78p1xr9czv
+      Diseñadora y Nail Artist 💕 Sígueme en Instagram para encargar tus press on! ✨
+    location: "Chile"
+    followers: 184400
+    engagement: 1521
+    commentsToLikes: 0.015188
+    id: ckcek3v7htadu0j23g4r7a15c
     verified: false
-    hashtags: "#estetista, #nailscheck, #unghie, #nailtutorial"
-  - username: "amariangelique"
-    fullname: >-
-      Amari Angelique
-    bio: >-
-      💘 Hi Babies 🦋 Nail Artist & I like to make things 🎨
-    location: "United States"
-    followers: 30900
-    engagement: 1126
-    commentsToLikes: 0.012352
-    id: ckd66mu2738f20j236k3qbczt
-    verified: false
-    hashtags: "#cricut, #cricutmaker, #nailtech, #smallbusinesscheck"
+    hashtags: "#animenails, #weeb, #aot, #pressonnails"
   - username: "p_inknails"
     fullname: >-
       Alex Rose
@@ -90,41 +42,89 @@ profiles:
     commentsToLikes: 0.009935
     id: ckcuhckiefkn30j23ipmj72tv
     verified: false
-    hashtags: "#nail, #fakehand, #nailart, #rediguana"
-  - username: "thenaildesigner.cl"
+    hashtags: "#rediguana, #fakehand, #nail, #nailtech"
+  - username: "nailedbycristy"
     fullname: >-
-      Fran Canessa ✨
+      Cristy
     bio: >-
-      Diseñadora y Nail Artist 💕 Sígueme en Instagram! @thenaildesigner.cl
-    location: "Chile"
-    followers: 137000
-    engagement: 1311
-    commentsToLikes: 0.005349
-    id: ckcek3v7htadu0j23g4r7a15c
+      Celebrity Nail Artist Luxury Press On Nails 💅🏻✨ ✨Use code: TIKTOK for 15% off✨
+    location: "United States"
+    followers: 100400
+    engagement: 1066
+    commentsToLikes: 0.022599
+    id: ckai6iu1wwae80i7894nrvqop
     verified: false
-    hashtags: "#chile, #covid19, #parati, #pressonnails"
+    hashtags: "#adventcalendar, #pressonnails, #nails, #foryoupage"
   - username: "spoiled_nailz"
     fullname: >-
       Zuri Christian
     bio: >-
       •Nail artist💅🏻•Medium-Long Nails • San Diego area!
     location: "United States"
-    followers: 4300
-    engagement: 1036
-    commentsToLikes: 0.011345
+    followers: 8242
+    engagement: 834
+    commentsToLikes: 0.018458
     id: ckdnfizkhhi8p0j2343c6dtab
     verified: false
-    hashtags: "#fmp, #sandiegonails, #bestnails, #spoiledgirl"
-  - username: "nailedbycristy"
+    hashtags: "#nails, #instagramnails, #badbitch, #nailart"
+  - username: "miriananailartist"
     fullname: >-
-      Cristy
+      Miriana Tria
     bio: >-
-      Celebrity Nail Artist Luxury Press On Nails 💅🏻✨ Custom Designs, Decals & more.
-    location: "United States"
-    followers: 49800
-    engagement: 970
-    commentsToLikes: 0.016247
-    id: ckai6iu1wwae80i7894nrvqop
+      Estetista-Onicotecnica Instagram—> miriana_nail_artist 📩mirianat2711@icloud.com
+    location: "Italy"
+    followers: 78400
+    engagement: 320
+    commentsToLikes: 0.013248
+    id: ck8vshz1ddnla0j78p1xr9czv
     verified: false
-    hashtags: "#business, #nailvideos, #pressonnails, #nailart"
+    hashtags: "#nailscheck, #nailart, #miriananailartist, #nailchallenge"
+  - username: "zolotova96"
+    fullname: >-
+      Anastasiia Zolotova
+    bio: >-
+      🇷🇺Russia ✈️ Burkina Faso🇧🇫 💅🏼nails artist & hairdresser💇🏼‍♀️
+    location: "Burkina Faso"
+    followers: 2638
+    engagement: 406
+    commentsToLikes: 0.064056
+    id: ckb0fci487jkv0j23lcuix6u9
+    verified: false
+    hashtags: "#ouagadougou, #color, #africa, #folow"
+  - username: ".camilapaz"
+    fullname: >-
+      Camila Paz
+    bio: >-
+      🏋️‍♀️🌎✈️ Lash artist 🇨🇱 Nail artist @ame__belle
+    location: "Chile"
+    followers: 26500
+    engagement: 646
+    commentsToLikes: 0.029714
+    id: ckcjk35oydpsg0j231t8tqata
+    verified: false
+    hashtags: "#chiste, #viral, #fitgirl, #enunminuto"
+  - username: "khaystudio"
+    fullname: >-
+      Khay💅🏽
+    bio: >-
+      Nail Artist👩‍🎨 Educator Follow IG for more videos and pics of my work!
+    location: "United States"
+    followers: 29000
+    engagement: 655
+    commentsToLikes: 0.004435
+    id: ck83k15di8ibp0j78trje4j2u
+    verified: false
+    hashtags: "#nails, #tiktokreviews, #boredathome, #cuticleoil"
+  - username: "charm.nails"
+    fullname: >-
+      charm.nails
+    bio: >-
+      uk 🇬🇧london based nail artist speak English only Instagram @charm.nails
+    location: "United Kingdom"
+    followers: 8528
+    engagement: 974
+    commentsToLikes: 0.002856
+    id: ck83k16c38iip0j78i7vzde5i
+    verified: false
+    hashtags: "#nailsoftheday, #viral, #nailsvideo, #nailsforyou"
 ---

@@ -1,60 +1,48 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Russia In 2022
+title: Top 10 Cooking TikTok Influencers In Russia In 2023
 description: >-
-  Find top cooking TikTok influencers in Russia in 2022. Most popular hashtags: #cooking #food #foryou #recommendations.
+  Find top cooking TikTok influencers in Russia in 2023. Most popular hashtags: #cooking #fyp #food #recipe.
 platform: TikTok
-hits: 21
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 21 TikTok influencers like this in Russia for you to pitch.
+hits: 18
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 18 TikTok influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "rakotorgovets"
+  - username: "fun_can"
     fullname: >-
-      rakotorgovets
+      Fetish_food
     bio: >-
-      Креативный предприниматель Безумный рыбак Неадекватный выдумщик rakotorgovets
+      I know , you love food❤️ Подпишись прямо сейчас✅ 💸Bussines - fun_can@mail.ru 💸
     location: "Russia"
-    followers: 60900
-    engagement: 665
-    commentsToLikes: 0.054688
-    id: ckbl31x6r0d7g0j23nb08ihl3
+    followers: 227600
+    engagement: 558
+    commentsToLikes: 0.001947
+    id: ckb9c87bcytmm0j23jc66p545
     verified: false
-    hashtags: "#cooking, #big, #seafood, #rakotorgovets"
+    hashtags: "#powerawesome, #sandwich, #chocolate, #cookie"
   - username: "spicerack.ru"
     fullname: >-
       SPICERACK
     bio: >-
       Специи для профессионалов
     location: "Russia"
-    followers: 6093
-    engagement: 369
-    commentsToLikes: 0.046429
+    followers: 6041
+    engagement: 367
+    commentsToLikes: 0.044007
     id: ckbqqw18abrh10j23xf7x0wcq
     verified: false
-    hashtags: "#salad, #cooking, #cucumbers, #recipe"
+    hashtags: "#cooking, #salad, #cucumbers, #recipe"
   - username: "christina_sarkisian"
     fullname: >-
       user6525276019549
     bio: >-
       Photographer, traveler, baker. 🇦🇲 Based in London🇬🇧
     location: "Russia"
-    followers: 2013
-    engagement: 3313
-    commentsToLikes: 0.061809
+    followers: 1988
+    engagement: 3237
+    commentsToLikes: 0.061106
     id: ckb9cqmsezobd0j23gjcuhzfs
     verified: false
-    hashtags: "#foodie, #food, #recipe, #boredinthehouse"
-  - username: "timmy_team"
-    fullname: >-
-      Timmy Team
-    bio: >-
-      SwEXky
-    location: "Russia"
-    followers: 373000
-    engagement: 2032
-    commentsToLikes: 0.014420
-    id: ck8qfbmssw6xs0j789powpcpz
-    verified: false
-    hashtags: "#petroutine, #natureathome, #cat, #dog"
+    hashtags: "#boredinthehouse, #food, #recipe, #tiktokfoodie"
   - username: "kto_to_bakugou"
     fullname: >-
       Katsuki
@@ -62,69 +50,81 @@ profiles:
       Instagram : kto_to_cosplay
     location: "Russia"
     followers: 29300
-    engagement: 2080
-    commentsToLikes: 0.009809
+    engagement: 2049
+    commentsToLikes: 0.009744
     id: ckcein01or0e40j23gg657c6u
     verified: false
-    hashtags: "#kirishima, #eijirokirishima, #katsukibakugou, #bnhacosplay"
-  - username: "fun_can"
-    fullname: >-
-      Fetish_food
-    bio: >-
-      I know , you love food❤️ Подпишись прямо сейчас✅ 💸Bussines - fun_can@mail.ru 💸
-    location: "Russia"
-    followers: 161500
-    engagement: 2117
-    commentsToLikes: 0.005455
-    id: ckb9c87bcytmm0j23jc66p545
-    verified: false
-    hashtags: "#recept, #foruyou, #lifehack, #foryou"
+    hashtags: "#bnha, #bnh, #kirishima, #eijirou"
   - username: "momoroutinezz"
     fullname: >-
       ☁️ 🦋 👼🏻💫
     bio: >-
       💫👼🏻🦋☁️14k followers☁️🦋👼🏻💫
     location: "Russia"
-    followers: 14200
-    engagement: 1834
-    commentsToLikes: 0.015930
+    followers: 13800
+    engagement: 1826
+    commentsToLikes: 0.015654
     id: cka0hzb4bbdw40i7894ir63ut
     verified: false
-    hashtags: "#foryourpage, #routine, #idewcare, #foruyoupage"
-  - username: "_solvay"
+    hashtags: "#aestetic, #foryou, #foryoupage, #routine"
+  - username: "maaxfersh"
     fullname: >-
-      𝓵𝓪𝓭𝔂 𝓢𝓸𝓵𝓿𝓪𝔂
+      Max FRESH
     bio: >-
-      ♡ insomnia ⌲ blink, army, midzy   }  ⌲ k-pop.   }  ▔▔▔▔▔▔▔▔▔▔
+      Max, 1️⃣7️⃣ Стараюсь быть продуктивным✨ Подпишись и заряжайся позитивом😳🥺
     location: "Russia"
-    followers: 32200
-    engagement: 1932
-    commentsToLikes: 0.004929
-    id: ckb9j7cp0aak90j23xtyzxcyj
+    followers: 3954
+    engagement: 1398
+    commentsToLikes: 0.054868
+    id: ckce4ur7cjr1s0j238vr3tpxg
     verified: false
-    hashtags: "#jennie, #kimjisoo, #jennierubyjane, #kpopfyp"
+    hashtags: "#hilarious, #egeenglish, #shaka, #lol"
+  - username: "neicey369"
+    fullname: >-
+      Neicy
+    bio: >-
+      
+    location: "Russia"
+    followers: 363400
+    engagement: 1631
+    commentsToLikes: 0.007697
+    id: ck8qfbmssw6xs0j789powpcpz
+    verified: false
+    hashtags: "#dog, #tiktokgraduation, #cartooncharacter, #yearbook2020"
   - username: "izumrabbit"
     fullname: >-
       Izum
     bio: >-
       Inst: izumrabbit 🐰 заходите к нему в гости на страничку! Будем общаться)
     location: "Russia"
-    followers: 17500
-    engagement: 1342
-    commentsToLikes: 0.015883
+    followers: 17200
+    engagement: 1305
+    commentsToLikes: 0.016720
     id: cka0ifzwmdieg0i78l6p3dlkt
     verified: false
-    hashtags: "#bunny, #izumrabbit, #rabbit, #shrimp"
-  - username: "lifecookz"
+    hashtags: "#rabbit, #izumrabbit, #bunny, #lovelyfood"
+  - username: "romanoffjane"
     fullname: >-
-      Lifecookz
+      Jane
     bio: >-
-      Subscribe to my Instagrams☝🏼 Русский аккаунт мировой кухни🌍❤️🔥
+      ♊️ Simping for Margiela and McQueen
     location: "Russia"
-    followers: 804599
-    engagement: 722
-    commentsToLikes: 0.007226
-    id: ck81q39jsfktl0j78d4lw2qc6
+    followers: 28700
+    engagement: 1394
+    commentsToLikes: 0.009890
+    id: ckbkxhsgmte940j23jws74mkd
     verified: false
-    hashtags: "#wow, #waw, #recommendations, #eat"
+    hashtags: "#outfitideas, #outfitinspiration, #dreamlifestyle, #nana"
+  - username: "natalee.007"
+    fullname: >-
+      Natasha
+    bio: >-
+      Dj/Model Natalee.007 Instagram (5,5M)
+    location: "Russia"
+    followers: 180100
+    engagement: 563
+    commentsToLikes: 0.013116
+    id: cka0u3t8tsny00i782f7m6dn5
+    verified: false
+    hashtags: "#recommendations, #recomendation, #summer, #rec"
 ---

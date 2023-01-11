@@ -1,130 +1,118 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Turkey In 2022
+title: Top 10 Lingerie Instagram Influencers In Turkey In 2023
 description: >-
-  Find top lingerie Instagram influencers in Turkey in 2022. Most popular hashtags: #lingerie #model #beauty #fashion.
+  Find top lingerie Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #lingerie #instagood.
 platform: Instagram
-hits: 12
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 12 Instagram influencers like this in Turkey for you to collaborate.
+hits: 9
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "etoile.creamm"
+  - username: "tiktok.online_tr"
     fullname: >-
-      Göğüs ve Kalça Büyütücü
+      TİKTOK Eğlence
     bio: >-
-      Göğüs Kremi / Kalça & Selülit 🌡 Özel Formül 🌿 Bilgileriniz Gizli Tutulur! 👩‍🔬 Temsilci Özge 🌸Bayan Özel Sayfasıdır. Yedek hesap @etoile.Cream
+      TİKTOK'ta Beğendiği Videoları sizlerle paylaşan sizden biri ❤️
     location: "Turkey"
-    followers: 61018
-    engagement: 140
-    commentsToLikes: 0.022151
-    id: ck5pz25ocyw2m0i11pk2hp0ks
+    followers: 71619
+    engagement: 328
+    commentsToLikes: 0.015166
+    id: ck0vy2ush1yvt0i19xqofigid
     verified: false
-    hashtags: "#gogu, #prague, #lingerie, #etoilekrem"
+    hashtags: "#whitlace, #lingerie, #harness, #tattoos"
   - username: "ermakovden"
     fullname: >-
       Ermakov
     bio: >-
       ⚒ All photos taken by me 🔞 Adult content
     location: "Turkey"
-    followers: 37096
-    engagement: 437
-    commentsToLikes: 0.009197
+    followers: 37909
+    engagement: 446
+    commentsToLikes: 0.011416
     id: ck6uhjt9m9j470j71ym12j4b7
     verified: false
-    hashtags: "#tattooedgirls, #lingerie, #belarus, #suicidegirls"
+    hashtags: "#suicidegirls, #lingerie, #belarus, #tattooedgirls"
   - username: "oksanakuznetsovaofficial"
     fullname: >-
       Oksana Kuznetsova
     bio: >-
-      ♉️ 19 May 🎂 Oks’Model Agency @oksmodelagency OKMC MODEL ACADEMY @oksmodelcamp 📩oksmodel.booker@gmail.com @oksmodelsface
+      ♉️ 19 May 🎂 OKS'MODEL @oksmodelagency @oksmodelacademy 📩oksmodel.booker@gmail.com
     location: "Turkey"
-    followers: 24708
-    engagement: 254
-    commentsToLikes: 0.255518
+    followers: 24324
+    engagement: 209
+    commentsToLikes: 0.263397
     id: ck14jmcypl2oi0i19sc5l35q7
     verified: false
-    hashtags: "#modelando, #tagify, #modelstatus, #modelagency"
-  - username: "marryen.a"
+    hashtags: "#ilovemyself, #sexytattoos, #isl, #choreographers"
+  - username: "vlknbrt"
     fullname: >-
-      M a r r y e n
+      ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
     bio: >-
-      STYLE AND FASHION IS MY PASSION ✨ Travel is a lifestyle ✈️🌎 Pisces baby ♓️ Sharing my outfit with you and doing what I love 💫
+      ɪᴢᴍɪʀ & ʟᴏs ᴀɴɢᴇʟᴇs📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 •𝚙𝚘𝚛𝚝𝚛𝚊𝚒𝚝 •𝚏𝚊𝚜𝚑𝚒𝚘𝚗 •𝚜𝚎𝚗𝚜𝚞𝚊𝚕 •𝚜𝚙𝚘𝚛𝚝 @flyforart 🚁
     location: "Turkey"
-    followers: 25771
-    engagement: 553
-    commentsToLikes: 0.018969
-    id: ck6u9v7b7zuvk0j712loqu8xx
+    followers: 6719
+    engagement: 371
+    commentsToLikes: 0.051416
+    id: ckapb6kejyr5h0i78v3qx8bvh
     verified: false
-    hashtags: "#ootd, #view, #inkedgirl, #neon"
-  - username: "laurafranziskaofficial"
-    fullname: >-
-      Laura Franziska
-    bio: >-
-      🌎 🇩🇪Model, Blogger & Traveller 📍Istanbul
-    location: "Turkey"
-    followers: 57009
-    engagement: 131
-    commentsToLikes: 0.047255
-    id: ck0w09c9wd1l90i19adtp8p1i
-    verified: true
-    hashtags: "#nyc, #makeup, #photography, #newyork"
-  - username: "lalinderosa"
-    fullname: >-
-      Model Istanbul
-    bio: >-
-      Fate loves the fearless
-    location: "Turkey"
-    followers: 26160
-    engagement: 326
-    commentsToLikes: 0.080144
-    id: ck0tz3k35p1qs0i19cswxpk9v
-    verified: false
-    hashtags: "#portrait, #londonmodel, #boho, #vegangirl"
-  - username: "mosmanue"
-    fullname: >-
-      Мухамед Осман
-    bio: >-
-      Bad filmmaker
-    location: "Turkey"
-    followers: 14360
-    engagement: 274
-    commentsToLikes: 0.038480
-    id: ck6tqbftmqhbz0j7181pk7r1t
-    verified: false
-    hashtags: "#bw, #portrait, #beauty, #baku"
+    hashtags: "#bikini, #yoga, #losangelesphotographer, #portrait"
   - username: "tahsineryilmaz"
     fullname: >-
       Tahsin Eryılmaz
     bio: >-
-      Profesyonel Makyaj & Makyaj Eğitimi #MakeUpArtist #MakeUp #MakeUpArtistry
+      #ProfesyonelMakyaj & #MakyajEğitimi #MakeUpArtist #gelinmakyaji #celebritymakeup #bridalmakeup #gecemakyajı
     location: "Turkey"
-    followers: 16521
-    engagement: 615
-    commentsToLikes: 0.008304
+    followers: 19395
+    engagement: 574
+    commentsToLikes: 0.008441
     id: ck6u8g1hardrn0j71y7gxtvn2
     verified: false
-    hashtags: "#makeup, #tahsinery, #styling, #repost"
-  - username: "dmitri"
+    hashtags: "#repost, #tahsinery, #styling, #makyaj"
+  - username: "beniremsahin"
     fullname: >-
-      Jan Dmitri - Fotograf
+      İrem Şahin
     bio: >-
-      Freelance Photographer 📍Current location: Antalya 🇹🇷 ‎ Don't come close, I'll turn you into poetry ✨ ‎‎ #photophabryka founder
+      👩‍❤️‍👨💍💖 📍İstanbul🇹🇷 ‼️Bu hesap dışında kullandığım hiçbir sosyal medya hesabı yoktur🙏🏻
     location: "Turkey"
-    followers: 79772
-    engagement: 711
-    commentsToLikes: 0.006722
-    id: ck5c0pjwftlfr0i11nio876qt
+    followers: 186612
+    engagement: 359
+    commentsToLikes: 0.023108
+    id: ckaowuoztaj4w0i78oebliuhk
     verified: false
-    hashtags: "#tb"
-  - username: "kamilaaks"
+    hashtags: "#istanbul, #nera, #partnerincrime, #noneedcomment"
+  - username: "anit_fit"
     fullname: >-
-      🎀 🇰 🇦 🇲 🇮 🇱 🇦 🎀
+      𝑨𝒏𝒂 𝑳𝒐𝒑𝒆𝒛
     bio: >-
-      Manager: +7 702 982 0878 📞 @qamalladin.media 📍Astana🇰🇿 Istanbul 🇹🇷 #makeupaks #уходзалицомaks #ухдзателомaks
+      𝘾𝙤𝙣𝙩𝙧𝙖𝙩𝙖𝙘𝙞𝙤𝙣𝙚𝙨 📩 𝐀𝐓𝐋𝐄𝐓𝐀 @gorillawear ➡️ 𝟑𝟖% @myproteines "anitfit" ➡️ 𝟏𝟎% @firmabs_brand "anit" 🎓𝐹𝑎𝑟𝑚𝑎𝑐𝑖𝑎 𝑦 𝐴𝑑𝑚𝑖𝑛𝑖𝑠𝑡𝑟𝑎𝑐𝑖𝑜𝑛🎓
     location: "Turkey"
-    followers: 140137
-    engagement: 401
-    commentsToLikes: 0.014609
-    id: ckap6zgjti0is0i789eq8umz9
+    followers: 44132
+    engagement: 241
+    commentsToLikes: 0.006796
+    id: ck6uhkg3a9mzb0j71rp85hw7x
     verified: false
-    hashtags: "#morning, #istanbul, #epicwear, #nyxcosmeticskz"
+    hashtags: ""
+  - username: "elifkorkmaz"
+    fullname: >-
+      Elif Korkmaz
+    bio: >-
+      📍İstanbul John Cranko /Stuttgart - Hacettepe Ünv. Ankara Devlet Konservatuarı /Bale
+    location: "Turkey"
+    followers: 30449
+    engagement: 231
+    commentsToLikes: 0.030398
+    id: ck6u8g7t7rett0j717f2uuo6g
+    verified: false
+    hashtags: "#underwaterphotography, #underwater, #underwaterworld, #fly"
+  - username: "seldasariyaprak"
+    fullname: >-
+      SeldaSarıyaprak
+    bio: >-
+      Architect➖Lifestyle➖Travel➖ Fashion➖Food➖Design➖Art ♾İletişim için DM♾
+    location: "Turkey"
+    followers: 55523
+    engagement: 121
+    commentsToLikes: 0.021723
+    id: ckap5tnpod48v0i78zwwb1ngp
+    verified: false
+    hashtags: "#kes, #life, #lifestyle, #lifestyleblogger"
 ---

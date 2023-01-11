@@ -1,108 +1,12 @@
 ---
-title: Top 10 Rappers Instagram Influencers In New York In 2022
+title: Top 10 Rappers Instagram Influencers In New York In 2023
 description: >-
-  Find top rappers Instagram influencers in New York in 2022. Most popular hashtags: #newyork #rap #music #rapper.
+  Find top rappers Instagram influencers in New York in 2023. Most popular hashtags: #rapper #newyork #model #love.
 platform: Instagram
-hits: 105
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 105 Instagram influencers like this in New York, United States for you to work with.
+hits: 96
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 96 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "cassimonae"
-    fullname: >-
-      𝓒𝓪𝓼𝓼𝓲 𝓜𝓸𝓷𝓪𝓮
-    bio: >-
-      @onenonlycassi ✨ Dallas, TX 📍 📷 Published Model 👻Snapchat: cassiimonae 👻 💌 Email for booking +rates (collabs) cassi.monae@yahoo.com or DM
-    location: "United States"
-    followers: 6434
-    engagement: 1129
-    commentsToLikes: 0.035543
-    id: ck5hocasspbc40i115patezsl
-    verified: false
-    hashtags: "#ambassador, #likesforlikesback, #influencer, #latinas"
-  - username: "shoboatmv"
-    fullname: >-
-      Sho Boat⛵ MV
-    bio: >-
-      Muzik Maniacs ENT.📀 Wave Gang Clothing™🌊 ONLYFANS ⬇️⬇️
-    location: "United States"
-    followers: 4994
-    engagement: 294
-    commentsToLikes: 0.080065
-    id: ck6uchft6fmp00j71hgrie27p
-    verified: false
-    hashtags: "#muzikmaniacsent, #newyork, #rapper, #themurda"
-  - username: "thegodfather"
-    fullname: >-
-      Charles Wright
-    bio: >-
-      Hall of fame Wwe Wrestler / Cannabis Connaisseur/ B.S.K. member/ Smoketrain Conductor. 21years+🔞
-    location: "United States"
-    followers: 61018
-    engagement: 234
-    commentsToLikes: 0.039655
-    id: ck5q2qz9bhdgw0i117u0sk5z6
-    verified: true
-    hashtags: "#thewwegodfather, #memphiswrestling, #smoketrain, #weedporn"
-  - username: "evan.eiglarsh"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀EVAN EIGLARSH
-    bio: >-
-      Comedian, Speaker, Reiki Master, Harmonica Player Tiktok @evan.tok (320k+) UCF ‘24 Business Inquiries: evanpartners@gmail.com
-    location: "United States"
-    followers: 3901
-    engagement: 2744
-    commentsToLikes: 0.088097
-    id: ck8wfwxs9gdxr0j783bxn6z2k
-    verified: false
-    hashtags: "#ucfknights, #askme, #imintoyou, #goal"
-  - username: "jonswaii"
-    fullname: >-
-      Jon Swaii
-    bio: >-
-      Artist | Producer | Bronx NYC | Burning Buddha
-    location: "United States"
-    followers: 15694
-    engagement: 367
-    commentsToLikes: 0.116339
-    id: ck14iycbwhq9f0i193radzj6f
-    verified: false
-    hashtags: "#music, #nyc, #manhattan, #washingtonsquarepark"
-  - username: "joe5tarr"
-    fullname: >-
-      Joe$tarr
-    bio: >-
-      Queens, NY 🗽🌃. Neither compares nor competes💫🌟 💡=🎤=💰=🚀 click link for my music🔥
-    location: "United States"
-    followers: 18808
-    engagement: 275
-    commentsToLikes: 0.263114
-    id: ckap529399v1x0i78j1fxrw4n
-    verified: false
-    hashtags: "#studio, #worldstarhiphop, #upcomingartist, #music"
-  - username: "nxpromo"
-    fullname: >-
-      ɴᴇxᴛ ʟᴇᴠᴇʟ ᴘʀᴏᴍᴏᴛɪᴏɴ ɢʀᴏᴜᴘ
-    bio: >-
-      We promote upcoming talent 🥇🚀 🤟🏻ɢo vιrαl 🚀 #upnext 💥DM 📩 to get featured 🔥 💥Marketing campaign Available 📊 💥All digital platforms🚀
-    location: "United States"
-    followers: 45231
-    engagement: 275
-    commentsToLikes: 0.077907
-    id: ckap264hqxja40i78jfjlfruz
-    verified: false
-    hashtags: "#instagram, #videography, #komal, #gujjugram"
-  - username: "nfe.nrmn"
-    fullname: >-
-      N.R.M.N
-    bio: >-
-      📍SAUGA Music on all platforms !! University Of Toronto Graduate 🎓 For all inquiries : corey.williams@mail.utoronto.ca
-    location: "United States"
-    followers: 2164
-    engagement: 1465
-    commentsToLikes: 0.108972
-    id: ckf5wzdwltrnj0j238d9rsrj8
-    verified: false
-    hashtags: "#rap, #artist, #explore, #musician"
   - username: "jamelshabazz"
     fullname: >-
       Jamel Shabazz
@@ -114,17 +18,113 @@ profiles:
     commentsToLikes: 0.015195
     id: ck0ub1e36dhit0i19mog7hq5w
     verified: true
-    hashtags: "#brooklyn, #portrait, #photooftheday, #photography"
-  - username: "eazy.legacy"
+    hashtags: "#photography, #posing, #jamelshabazzarchive, #backintheday"
+  - username: "lilcrawfishh"
     fullname: >-
-      𝐎𝐥𝐝 𝐒𝐜𝐡𝐨𝐨𝐥 𝐄𝐝𝐢𝐭𝐬
+      Lil Craw
     bio: >-
-      • #90s #rap 𝐚𝐧𝐝 #hiphop 𝐩𝐚𝐠𝐞 • 𝐄𝐚𝐬𝐭 𝐂𝐨𝐚𝐬𝐭 & 𝐖𝐞𝐬𝐭 𝐂𝐨𝐚𝐬𝐭 • 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐄𝐝𝐢𝐭𝐬 $𝟓 • 𝐃𝐌 𝐟𝐨𝐫 𝐏𝐫𝐨𝐦𝐨𝐬 & 𝐒𝐡𝐨𝐮𝐭𝐨𝐮𝐭𝐬
+      Mgmt @durtyweed NLMB😤 Over 200k streams across all streaming platforms and still counting 📊 look up @lilcrawfishh on Spotify,YouTube, & Apple Music
     location: "United States"
-    followers: 29149
-    engagement: 2040
-    commentsToLikes: 0.008080
-    id: ck8t8ino6kmdw0j789h9c1xd1
+    followers: 14606
+    engagement: 673
+    commentsToLikes: 0.010855
+    id: ck8t2ejizz6me0j78mtyx6j7i
     verified: false
-    hashtags: "#tupac, #90srap, #westcoast, #fridaymovie"
+    hashtags: "#musicengineer, #fashionblogger, #sb53, #probowl"
+  - username: "officialandrewconn"
+    fullname: >-
+      AndrewConn
+    bio: >-
+      Go sub to my youtube channel for full vidoes!!
+    location: "United States"
+    followers: 121715
+    engagement: 131
+    commentsToLikes: 0.040833
+    id: ck15qws7d50qq0i19i2jy6j18
+    verified: false
+    hashtags: "#catfishcooley, #funny, #andrewconn, #lmao"
+  - username: "power_ghost_"
+    fullname: >-
+      james st Patrick
+    bio: >-
+      GHOST/POWER THIS IS A FAN ACCOUNT #50cent #ghostlivesforever #powerbook2ghost #powerstarz #raisingkana#powerbook2 DM FOR PROMO / COLABS.
+    location: "United States"
+    followers: 59803
+    engagement: 343
+    commentsToLikes: 0.043171
+    id: ckaownl6k9mky0i786j935oko
+    verified: false
+    hashtags: "#omarihardwick, #ghost, #teamghost, #lelaloren"
+  - username: "tonyglausi"
+    fullname: >-
+      Tony Glausi
+    bio: >-
+      trumpeter keyboardist singer songwriter producer lover EVERYTHING AT ONCE pre-order now!!! ↙️
+    location: "United States"
+    followers: 34312
+    engagement: 204
+    commentsToLikes: 0.028950
+    id: ck5hrll70v2hm0i11wu8lsqha
+    verified: true
+    hashtags: "#everythingatonce, #songwriter, #rnb, #artist"
+  - username: "toniiboii_jigg"
+    fullname: >-
+      Tonii Boii
+    bio: >-
+      🛑DEAD & GONE FT @spotemgottem ❌ @kuttemreese_ 🛑GETUPBOOSIE‼️ 🛑BOOK toniiboiibooking@gmail.com @448musicgroup @empire 🚧 PAGE UNDER CONSTRUCTION
+    location: "United States"
+    followers: 58760
+    engagement: 138
+    commentsToLikes: 0.098406
+    id: ck5hczi1hkpsf0i111udrrj8d
+    verified: true
+    hashtags: "#448, #empire, #getupboosie, #saycheese"
+  - username: "noelashman"
+    fullname: >-
+      noel ashman
+    bio: >-
+      Multi-Award winning Film Producer..Gotti ..Never Again.. Reprisal..The Row..etc../Club Owner..Veruka..NA..Studio 54..The Plumm..Leonora etc
+    location: "United States"
+    followers: 258361
+    engagement: 174
+    commentsToLikes: 0.018135
+    id: ck5pwr0dyo5yt0i11y8f1npkf
+    verified: true
+    hashtags: "#noelashmanentertainment, #nycpics, #noelashmanprojects, #noelpics"
+  - username: "ttvisuals"
+    fullname: >-
+      “Trust The Visuals”🎬
+    bio: >-
+      •HTX📍 •Industry Standard Quality🎥 •Music Videos, Commercials & more! •DM To Book📲 •Deposit Required🔒
+    location: "United States"
+    followers: 76520
+    engagement: 81
+    commentsToLikes: 0.069651
+    id: ck6ui09rucav50j71k4kvddrr
+    verified: false
+    hashtags: "#musicvideo, #wshh, #houston, #videographer"
+  - username: "iam_mansha1"
+    fullname: >-
+      Μαƞσհα Ʃυλταƞ🔥🖤
+    bio: >-
+      ➡ The unexamined life is not worth living ➡ TIKTOK: iam_mansha1 ➡ RAP SONG - HOOR - Link is Below👇
+    location: "United States"
+    followers: 4863
+    engagement: 652
+    commentsToLikes: 0.110986
+    id: ck8wf1svxezfa0j78npu1ljph
+    verified: false
+    hashtags: "#featureme, #laraibfam, #mjfam, #ttfamalia"
+  - username: "iamprettylyon"
+    fullname: >-
+      Lyon the Don
+    bio: >-
+      King’s MuVa 💙 Recording Artist 👑🦁 Certified Body Sculptor💰Bookprettylyon@gmail.com💜💪🏽 Owner of @milfyme_ & @sowaistedllc 🔥🔥
+    location: "United States"
+    followers: 33144
+    engagement: 128
+    commentsToLikes: 0.164973
+    id: ck5c6ohwq5v7j0i114h9dvcze
+    verified: false
+    hashtags: "#milleniumtour, #applemusic, #music, #atlantarappers"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Montreal In 2022
+title: Top 10 Lifestyle TikTok Influencers In Montreal In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #canada #foryou #montreal.
+  Find top lifestyle TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #toronto #mtl.
 platform: TikTok
 hits: 5
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 5 TikTok influencers like this in Montreal, Canada for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 5 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "kennylamoureux"
-    fullname: >-
-      Kenny Lamoureux
-    bio: >-
-      abonne-toi et je vais m'abonner et like follow me and ill follow you and like
-    location: "Canada"
-    followers: 3552
-    engagement: 3159
-    commentsToLikes: 0.022207
-    id: cka686gwinmej0i783dd1fds9
-    verified: false
-    hashtags: "#fyp, #quarantine, #canada, #follow"
   - username: "youyouz.z"
     fullname: >-
-      Youva
+      Downtown Montreal Supercar
     bio: >-
-      🇨🇦MTL Want to support me? https://www.paypal.me/hoodienation CAN WE GET 110K!?
+      🇨🇦MTL GUMBALL 3000 be ready I’m coming😈🏎💨downtownmontrealsupercar@gmail.com
     location: "Canada"
-    followers: 103900
-    engagement: 1568
-    commentsToLikes: 0.011570
+    followers: 132900
+    engagement: 1364
+    commentsToLikes: 0.018178
     id: ckd5s8ep9ygiq0j23zygym9be
     verified: false
-    hashtags: "#mtl, #hypercars, #car, #downtownmontrealsupercars"
-  - username: "sonia.lifestyle"
+    hashtags: "#mtlcarscene, #ferrari, #hypercar, #acceleration"
+  - username: "gongshowgear"
     fullname: >-
-      Sonia
+      GONGSHOW HOCKEY
     bio: >-
-      Instagram: sonia.lifestyle
+      The Original Lifestyle Hockey Apparel Brand Tag #GONGSHOW 🛒 GONGSHOW.COM👇
     location: "Canada"
-    followers: 101500
-    engagement: 366
-    commentsToLikes: 0.026630
-    id: ck9ep96ltrlh40j78spw2875n
+    followers: 12400
+    engagement: 1264
+    commentsToLikes: 0.021906
+    id: ck9tu9q2lkgs40j78b6xwzag1
     verified: false
-    hashtags: "#maroc, #duo, #montreal, #nuxekosmetics"
-  - username: "stephfoodie"
+    hashtags: "#hockeyplayer, #gongshow, #hockeytiktoks, #hockeyplayers"
+  - username: "macaretto_"
     fullname: >-
-      Stéph 🥭
+      Macaretto
     bio: >-
-      Recettes santé & lifestyle 🥰🥑 Péninsule acadienne, NB 🇨🇦 IG Stephfoodie.1
+      MTL 📍 CEO of not giving out my macaron recipe 💞 💌 macaretto17@gmail.com
     location: "Canada"
-    followers: 33800
-    engagement: 1307
-    commentsToLikes: 0.007033
-    id: ckc808wjq1pbt0j23v7prqli3
+    followers: 173000
+    engagement: 799
+    commentsToLikes: 0.006896
+    id: ck9v8tojvb6it0j78nuovryfb
     verified: false
-    hashtags: "#nouveaubrunswick, #newbrunswick, #easyrecipes, #minivlog"
-  - username: "devodlive"
+    hashtags: "#mtl, #tombrady, #smallbusiness, #montreal"
+  - username: "keelanpinnau"
     fullname: >-
-      devodlive
+      Keelan Pinnau
     bio: >-
-      Toronto 🇨🇦 Digital Creator Follow ur boi!
+      💟Wife + Mama/Stepmama 💟Entrepreneur + Bizz Owner 💕spreading love and joy💕
     location: "Canada"
-    followers: 15300
-    engagement: 1324
-    commentsToLikes: 0.086255
-    id: ckb9uy8mhtxky0j23fdq2bfnh
+    followers: 2794
+    engagement: 858
+    commentsToLikes: 0.046196
+    id: ckbknm6a8hnz90j23vslju4mi
     verified: false
-    hashtags: "#6ix, #lifestyle, #foryou, #entertainment"
-  - username: "walkinthebeach"
+    hashtags: "#momsoftiktokclub, #momsontiktok, #boymomma, #duet"
+  - username: "katiecung"
     fullname: >-
-      sam:) 🍂
+      katiecung
     bio: >-
-      CA ⋒ vlogs + lifestyle 🌟 girl in red <3 blm
-    location: "Canada"
-    followers: 18800
-    engagement: 2961
-    commentsToLikes: 0.107329
-    id: ckb904xfwfwcn0j23dk59i56k
-    verified: false
-    hashtags: "#aesthetic, #foryoupage, #vlog, #foryou"
-  - username: "maymanator"
-    fullname: >-
-      Mitch Mayman
-    bio: >-
-      CEO of BEAUTIFUL You MATTER Recovery is my choice Positivity is my lifestyle
-    location: "Canada"
-    followers: 133000
-    engagement: 1450
-    commentsToLikes: 0.109798
-    id: ckbr3g43jjuwb0j23xytjuwvf
-    verified: false
-    hashtags: "#nevergiveup, #tiktokcrush, #youwantmore, #recovery"
-  - username: "cloudyxstyle"
-    fullname: >-
-      somewhat aesthetic
-    bio: >-
-      basically a lifestyle account 🍡 grateful for 34k <3 cloudyxstyle@gmail.com 🌿
+      🇨🇦🇻🇳 just trying to keep up with the trends 🤷🏻‍♀️
     location: "Canada"
     followers: 34600
-    engagement: 2291
-    commentsToLikes: 0.044112
-    id: ckfplxiwd13ah0j23fjvrc7zg
+    engagement: 692
+    commentsToLikes: 0.045092
+    id: ck9v8tefjb49r0j78t713sdez
     verified: false
-    hashtags: "#asmr, #fyp, #foryoupage, #makeup"
-  - username: "jasminmccarthyy"
-    fullname: >-
-      Jasmin McCarthy
-    bio: >-
-      IG: @jasminmccarthyy ♡ Inquiries → jasmin.mccarthy3@gmail.com Travel/Lifestyle
-    location: "Canada"
-    followers: 57400
-    engagement: 1056
-    commentsToLikes: 0.051674
-    id: ck9k8ip7098kx0j78ne1rqwrk
-    verified: false
-    hashtags: "#banff, #canadian, #alberta, #canadiangirl"
+    hashtags: "#styletips, #howto, #fyp, #bts"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
     bio: >-
       Lifestyle • Vlogs • Comedy • Fashion • Travel 📧 Naomi.leanage@gmail.com
     location: "Canada"
-    followers: 405900
-    engagement: 2668
-    commentsToLikes: 0.009405
+    followers: 454800
+    engagement: 1799
+    commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#toronto, #thriftshop, #thrifting, #tiktokcanada"
+    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+  - username: "samsvsco"
+    fullname: >-
+      sam 🖤
+    bio: >-
+      she/her | pan :) motivation + lifestyle 🦋 ✨ 🪐 🌫 🌊 🥂 🕊
+    location: "Canada"
+    followers: 20200
+    engagement: 2651
+    commentsToLikes: 0.171563
+    id: ckb904xfwfwcn0j23dk59i56k
+    verified: false
+    hashtags: "#beachy, #fyp, #vlog, #haul"
+  - username: "lifestylebrooke"
+    fullname: >-
+      <3
+    bio: >-
+      dms dont work 66k+ beautiful people<33 pinterest- lifestylebrooke
+    location: "Canada"
+    followers: 66900
+    engagement: 2381
+    commentsToLikes: 0.042474
+    id: ckfplbp0f00dl0j23no78znrx
+    verified: false
+    hashtags: "#valentinesdiy, #grwm, #fyp, #superbowllv"
+  - username: "hellenkellar8"
+    fullname: >-
+      Matthew Kellar
+    bio: >-
+      Full send isn’t just a word....it’s a lifestyle I’m not gonna be fucking dancing
+    location: "Canada"
+    followers: 18300
+    engagement: 2279
+    commentsToLikes: 0.015450
+    id: ckb95xiedo5xw0j23ahz0puy2
+    verified: false
+    hashtags: "#chugbud, #fullsend, #nelkboys, #friendlyfuture"
+  - username: "feliciamaariemakeup"
+    fullname: >-
+      felicia marie
+    bio: >-
+      90s bby | 🇨🇦 Beauty & Lifestyle 🌙🧿 feliciamgatti@gmail.com
+    location: "Canada"
+    followers: 129300
+    engagement: 1070
+    commentsToLikes: 0.042160
+    id: ckal6dbh0adao0i786uux26q0
+    verified: false
+    hashtags: "#makeup101, #makeuptips, #makeupforbeginners, #makeuphacks"
 ---

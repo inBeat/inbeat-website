@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In South Africa In 2022
+title: Top 10 Stylists Instagram Influencers In South Africa In 2023
 description: >-
-  Find top stylists Instagram influencers in South Africa in 2022. Most popular hashtags: #style #fashion #art.
+  Find top stylists Instagram influencers in South Africa in 2023. Most popular hashtags: #happysunday #photography #model.
 platform: Instagram
-hits: 32
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 32 Instagram influencers like this in South Africa for you to connect with.
+hits: 22
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 22 Instagram influencers like this in South Africa for you to pitch.
 profiles:
-  - username: "zeenatkh_"
+  - username: "napari_isha"
     fullname: >-
-      Zeenat Khan
+      N A P A R I 👑 🇬🇭
     bio: >-
-      • Email : info@curativeconcepts.com • Stylist @rogue_styling •@damodelmanagement •Fashion|Fitness|Food •UCT Bcom graduate
+      I AM ♾ Being Following the guidance of my soul ♒️ Aspiring stylist open for assisting @_ishotit_ MA @moodmodelmgmt @mgm.models 🇩🇪 @pwrmodels 🇮🇹
     location: "South Africa"
-    followers: 9452
-    engagement: 1046
-    commentsToLikes: 0.202621
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 22009
+    engagement: 245
+    commentsToLikes: 0.053371
+    id: ck0vz34vc71za0i19pltpmhil
     verified: false
-    hashtags: "#rocolove, #rocofamous, #strangerthings, #iconixza"
-  - username: "_nwaba"
-    fullname: >-
-      Yonwaba Mshuqwana
-    bio: >-
-      Stylist | Brand strategist I have a gift to give to the world. 🇿🇦
-    location: "South Africa"
-    followers: 24596
-    engagement: 1141
-    commentsToLikes: 0.022569
-    id: ck6u4oe8w4vss0j7131kmk3fv
-    verified: false
-    hashtags: "#tasteitfirst, #breezerwildfruit, #livelifeincolour"
-  - username: "macc_gee"
-    fullname: >-
-      Macc Gee
-    bio: >-
-      22 Founder : @macc_gee_jeans_ | @dripsundays_ Event coordinator : @theultimatemusiclounge Fashion | Content curator Stylist Designer Model ‘
-    location: "South Africa"
-    followers: 202861
-    engagement: 510
-    commentsToLikes: 0.009925
-    id: ck0u04it3sjgd0i19b3uhplr1
-    verified: false
-    hashtags: "#stimorolretro, #stimorolretrochallenge"
-  - username: "nana.kwasi.wiafe"
-    fullname: >-
-      NANA•KWASI•WIAFE🇬🇭
-    bio: >-
-      creative entrepreneur projects: Apple , Beyoncé + founder x creative dir : @veryghanaian fashion stylist : @thouartkwasi muse : @myfriendned 📍🇬🇭🇿🇦🌍
-    location: "South Africa"
-    followers: 13814
-    engagement: 501
-    commentsToLikes: 0.046834
-    id: ck55mkb0g45jm0i11430bi9dn
-    verified: false
-    hashtags: "#thisweekoninstagram, #design, #maxhosa, #accra"
+    hashtags: "#happysunday, #napari, #tb, #mercedesbenz"
   - username: "phuphogumedek"
     fullname: >-
       Phupho Gumede Kardashian
     bio: >-
       Fashion Stylist to the Stars Style & Creative Director: covers & editorials World record: 21 Magazine Covers before Age 21 #Fleekzus #styledbyFLEEKZUS
     location: "South Africa"
-    followers: 38032
-    engagement: 166
-    commentsToLikes: 0.021845
+    followers: 41887
+    engagement: 285
+    commentsToLikes: 0.022156
     id: ck13a9250p87k0i191uchm5oi
     verified: false
-    hashtags: "#styledbyfleekzus, #cellcinandaafricacup, #cellcinanda"
+    hashtags: "#sastyleswards2020, #siblingsbychance, #friendsbychoice, #styledbyfleekzus"
+  - username: "casper_willemse_clw"
+    fullname: >-
+      ✖️Casper Willemse✖️
+    bio: >-
+      •Founder: @clwlifestyle •Model: @syncmodels_ •Ambassador: @atterbury_value_mart •LLB: UP •Fashion Enthusiast & Stylist •Influencer: @team_saint_
+    location: "South Africa"
+    followers: 4215
+    engagement: 779
+    commentsToLikes: 0.065583
+    id: ck6u867ylpo300j71spjc69e2
+    verified: false
+    hashtags: "#wlyg, #style, #ad, #explore"
+  - username: "zigliv"
+    fullname: >-
+      OLIVIA G. MEYER-MASSEY
+    bio: >-
+      A Reflection Of You | Model, Stylist, Designer & Activist | African-American, Native-American, European-American #MiamiModel #FashionDesigner #Stylist
+    location: "South Africa"
+    followers: 5546
+    engagement: 505
+    commentsToLikes: 0.042957
+    id: ck8t0tdrft8n30j785jg962qj
+    verified: false
+    hashtags: "#fashioninfluencer, #fashionstyle, #fashionphotography, #fitness"
   - username: "fiskanistyle"
     fullname: >-
       Fiskani
     bio: >-
       Owner @theivyshowroom World Traveler - Creative- Published Stylist- Documented Costumer- Influencer-iStyle-African
     location: "South Africa"
-    followers: 6321
-    engagement: 792
-    commentsToLikes: 0.161147
+    followers: 7327
+    engagement: 864
+    commentsToLikes: 0.166291
     id: ck5hmfi43luuq0i11ckcfza1a
     verified: false
-    hashtags: "#youtubemusic, #african, #tanzania, #goldzanzibar"
-  - username: "drizzleanddip"
+    hashtags: "#african, #blackouttuesday, #masai, #goldzanzibar"
+  - username: "sweetbabywhyt"
     fullname: >-
-      Sam Linsell
+      Sweetbaby Whyte👑
     bio: >-
-      Epicurean | cookbook author | food photographer & stylist | hunter of the delicious| Cape Town, South Africa Winner Best Food Blog in Africa
+      ●Professional model ●Video vixen ●Stylist ●Actress A delegate of @pose4africa realty tv show Pls vote for me via the link below👇🏻 Thanks🙏🏻
     location: "South Africa"
-    followers: 40341
-    engagement: 174
-    commentsToLikes: 0.044673
-    id: ck5zryynlxii60i14ronnukt6
+    followers: 11271
+    engagement: 422
+    commentsToLikes: 0.065047
+    id: ck13bgms0vbua0i19e8wo2q5p
     verified: false
-    hashtags: "#foodstyling, #foodblogfeed, #buzzfeast, #makemoments"
-  - username: "kevoabbrastyle"
+    hashtags: "#poses, #editorialpose, #fashionisters, #stylistssupportingstylists"
+  - username: "milaguy"
     fullname: >-
-      KEVO ABBRA™ 🇰🇪
+      mila guy
     bio: >-
-      Artist. African Fashion Stylist | Costume Designer | Prop master CREATIVE WHO TELLS STORIES THROUGH STYLE & DESIGN Email: kevo@kevoabbra.design
+      Tiny dancer...and actress...and model...entertainer for ants basically
     location: "South Africa"
-    followers: 9587
-    engagement: 478
-    commentsToLikes: 0.052740
-    id: ck0u6z4w23di80i19yhtzlxgo
+    followers: 37494
+    engagement: 573
+    commentsToLikes: 0.008089
+    id: ck5q8fh9v5xb20i11qvufu2s4
     verified: false
-    hashtags: "#talesfromafrica, #sautisol, #aakkoset, #fashionstyling"
-  - username: "kellarr_"
+    hashtags: "#series, #friends, #bestfriends, #soap"
+  - username: "thatninahastie"
     fullname: >-
-      KLR
+      Nina Hastie
     bio: >-
-      Stylist | Interior Architect & Designer @kellarrstudio | @kfportfolio ❤ OCRG | 🇬🇧 🇿🇦
+      South African Comedian / Actor / Writer 🇿🇦 Boookings: geraldine@owens.co.za +27721179230
     location: "South Africa"
-    followers: 5736
-    engagement: 1348
-    commentsToLikes: 0.026999
-    id: ck8sxnrjyi0jr0j78brpenh8f
-    verified: false
-    hashtags: "#instatravelling, #postcardsfromtheworld, #picoftheday, #writetotravel"
-  - username: "alettewinckler"
+    followers: 90785
+    engagement: 145
+    commentsToLikes: 0.028275
+    id: ck6tpaphtiroi0j71ud52zdsr
+    verified: true
+    hashtags: "#satma15, #southafrica, #cyril, #speech"
+  - username: "kaylischoltz"
     fullname: >-
-      🅐🅛🅔🅣🅣🅔 ⓌⒾⓃⒸⓀⓁⒺⓇ
+      Kayli Scholtz
     bio: >-
-      Jesus Girl|Wife|Mom2.4|Author|Speaker| Boss Lady|Image Consultant|Personal Shopper|Wardrobe Stylist| TV Host|Style Blogger|B.A Journalism|AICI CIC|
+      but as for me, I trust in You † 🇿🇦Proudly South African 🦋Fashion Designer @kayli_exclusive
     location: "South Africa"
-    followers: 38833
-    engagement: 242
-    commentsToLikes: 0.020252
-    id: ck9hbbagjg4g70j783r1smr49
+    followers: 15485
+    engagement: 797
+    commentsToLikes: 0.008720
+    id: ck55k2ccmyakk0i11zeccofsn
     verified: false
-    hashtags: "#keepupthehope, #keepthefaith, #gediggiesvirvrolikegesiggies, #interview"
+    hashtags: "#ootd, #happysunday, #summer, #fashionshow"
+  - username: "antoneosoul"
+    fullname: >-
+      Anto Neosoul
+    bio: >-
+      Kenya's finest vocalist 🦓🍉🍌🥑🍍 #SINGER TV. RADIO. EMCEE. MARKETER PER EXCELLENCE. Bookings: bookings@antoneosoul.live #SHANGARARAISHA VIDEO ⤵
+    location: "South Africa"
+    followers: 113519
+    engagement: 74
+    commentsToLikes: 0.021443
+    id: ck5qchl6vqlxs0i117eimuuso
+    verified: true
+    hashtags: "#shangararaisha, #tbt, #ntvshootyourshot, #antonaobinna"
 ---

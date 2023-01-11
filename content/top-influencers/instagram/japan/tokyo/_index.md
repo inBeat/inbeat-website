@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Tokyo In 2022
+title: Top 10 Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top Instagram influencers in Tokyo in 2022. Most popular hashtags: #maisonmargiela #explorejapan #sunflowerfield.
+  Find top Instagram influencers in Tokyo in 2023. Most popular hashtags: #visitjapan #japan #japaneseculture.
 platform: Instagram
-hits: 2557
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 2557 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 2122
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 2122 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
-  - username: "koseiyutaka"
+  - username: "satomi_0819"
     fullname: >-
-      KOSEI YUTAKA
+      Satomi🍓
     bio: >-
-      TOKYO
+      🇯🇵 Tokyo
     location: "Japan"
-    followers: 27504
-    engagement: 354
-    commentsToLikes: 0.017732
-    id: ck0w4d5zjxzxg0i19q9imgu06
+    followers: 150755
+    engagement: 378
+    commentsToLikes: 0.000235
+    id: ck5zsdm90yawg0i14a2af63lf
     verified: false
-    hashtags: "#johnlawrencesullivan, #nike, #jilsander, #maisonmargiela"
-  - username: "reinasmmt"
-    fullname: >-
-      Reina Shimamoto
-    bio: >-
-      Tokyo ｜🇯🇵 × 🇮🇷 × 🇷🇺
-    location: "Japan"
-    followers: 33131
-    engagement: 265
-    commentsToLikes: 0.004168
-    id: ck5c5i3ok3ig60i11dn5qz9k7
-    verified: false
-    hashtags: "#bloc, #myroom, #reina, #stayhome"
-  - username: "tokyo"
-    fullname: >-
-      Tokyo - 東京
-    bio: >-
-      We are passionate about promoting and celebrating Tokyo the world over - Account managed by The Tokyo Publishing Co.
-    location: "Japan"
-    followers: 118793
-    engagement: 526
-    commentsToLikes: 0.005559
-    id: ck0w3vhj9vhnd0i19g8zemw86
-    verified: false
-    hashtags: ""
+    hashtags: "#sisley, #mylittlebox, #mizu, #mymizulifejp"
   - username: "djqs"
     fullname: >-
       DJ Quietstorm
     bio: >-
       Tokyo
     location: "Japan"
-    followers: 5737
-    engagement: 461
-    commentsToLikes: 0.013035
+    followers: 6328
+    engagement: 504
+    commentsToLikes: 0.006880
     id: ck5zxkkkh86u70i148xhw8u5c
     verified: false
-    hashtags: "#djquietstorm, #djkensei, #repost, #chicagohouse"
-  - username: "katewigkeit"
+    hashtags: "#djquietstorm, #djyas, #tight, #djkrush"
+  - username: "tokyo"
     fullname: >-
-      Katie in Tokyo💫Japan💫Travel
+      Tokyo - 東京
     bio: >-
-      11+ years in Tokyo 👘🗼🌸 Travel | Lifestyle | Photography Japanologist🤓 Vladivostok, RU 🇷🇺 London, EN 🇬🇧 📍Tokyo, JP 🇯🇵日本語もok! Hawaii, US🌺🇺🇸
+      We are passionate about promoting and celebrating Tokyo the world over - Account managed by The Tokyo Publishing Co.
     location: "Japan"
-    followers: 19878
-    engagement: 892
-    commentsToLikes: 0.100939
-    id: ck15rq1ij94d40i191zjn0a17
+    followers: 129980
+    engagement: 543
+    commentsToLikes: 0.006985
+    id: ck0w3vhj9vhnd0i19g8zemw86
     verified: false
-    hashtags: "#sunflowerfield, #shibuyasky, #sunflowers, #celosia"
+    hashtags: ""
+  - username: "sylvia.wakana"
+    fullname: >-
+      Sylvia わかな - Japanese Food + Life
+    bio: >-
+      Cooking & Eating in LA + Tokyo [ハーフ] 🇺🇸🇯🇵 🎥 Tiktok: sylvia.wakana (210k+) ▶️ Youtube.com/sylviawakana ⬇️ Simple Japanese Recipes
+    location: "Japan"
+    followers: 73101
+    engagement: 307
+    commentsToLikes: 0.033552
+    id: ck5caemc7d9td0i11bwymyy0c
+    verified: false
+    hashtags: "#japanlife, #oshogatsu, #japanesefoodlover, #japanesefoods"
+  - username: "emilijaagate"
+    fullname: >-
+      Emīlija Agate Palina
+    bio: >-
+      ✝️💖tiktok 50k cuties 🇯🇵Osaka;Tokyo🇨🇳Beijing 🇹🇼Taipei 🇱🇻MA @nataliemodels.riga
+    location: "Japan"
+    followers: 8350
+    engagement: 1305
+    commentsToLikes: 0.093358
+    id: ck0w011a8buv00i19pr2m8fy3
+    verified: false
+    hashtags: "#nakdlounge, #rekl, #zaful, #sadarb"
   - username: "bassettabroad"
     fullname: >-
-      エマ 🇬🇧 Life In Japan 🇯🇵
+      Japan Life & Travel 🇯🇵
     bio: >-
-      🗼 Sharing my love for exploring Japan! 🗾 🗣 English & 日本語 📍 Tokyo & Saitama
+      ⛩ Sharing Japan adventures on the feed, daily life on stories! 🍱 📍 Tokyo & Saitama 🗣 English & 日本語
     location: "Japan"
-    followers: 3676
-    engagement: 2567
-    commentsToLikes: 0.337533
+    followers: 4837
+    engagement: 1828
+    commentsToLikes: 0.295696
     id: ckap8fxs1o51f0i788s2bjsv6
     verified: false
-    hashtags: "#japanlover, #japantrip, #instagramjapan, #visitjapan"
+    hashtags: "#ilovejapan, #japan, #explorejapan, #visitjapan"
+  - username: "stefatty_"
+    fullname: >-
+      Stephanie
+    bio: >-
+      📍Tokyo, Japan 🍔 A burger a day keeps the doctor away ⬇️ New YT Video: Kobe & Kyoto Food Adventure
+    location: "Japan"
+    followers: 39011
+    engagement: 955
+    commentsToLikes: 0.042617
+    id: ckap1n6hav9o80i783vql3rm8
+    verified: false
+    hashtags: "#novababe, #mycalvins, #pr"
   - username: "kobara.vlas"
     fullname: >-
       小原ブラス
     bio: >-
-      TWIN PLANET所属タレント / コラムニスト 🇷🇺🇯🇵🏳️‍🌈 「5時に夢中!」(TOKYO MX) 黒船特派員 「アウト×デラックス」(フジTV) アウト軍団 「とくダネ!」(フジTV) コメンテーター Twitter → kobaravlas YouTube → ピロシキーズ
+      (株)AlmostJapanese所属タレント / コラムニスト 🇷🇺🇯🇵🏳️‍🌈 (フジTV) 「アウト×デラックス」アウト軍団 「めざまし8」コメンテーター (TOKYO MX) 「5時に夢中!」水曜黒船特派員 Twitter → kobaravlas YouTube → ピロシキーズ
     location: "Japan"
-    followers: 18995
-    engagement: 983
-    commentsToLikes: 0.057147
+    followers: 20117
+    engagement: 907
+    commentsToLikes: 0.047997
     id: ck5hn0v72mzv00i110qxxk8di
     verified: false
-    hashtags: "#youtube, #7daysbanana, #23, #11"
-  - username: "ninjacatgirl"
+    hashtags: "#gojimu, #23, #2021, #casetify"
+  - username: "hidehisa0717"
     fullname: >-
-      LILI  リリ
+      Hidehisa🔹Ohtsubo
     bio: >-
-      ・Tokyo, Japan 🇯🇵 ⁣ ・スウェーデン出身⁣ ・フリーモデル & インフルエンサー⁣ お仕事の依頼はDMへ📩⁣ Please DM for inquiries
+      Japan🔘Tokyo⏪️⏩️Fukuoka 🔵に🇮🇹 Fashion Suits or Casual #followme #like4like
     location: "Japan"
-    followers: 104752
-    engagement: 797
-    commentsToLikes: 0.035391
-    id: ck0u1whdby9bv0i193vusj6lv
-    verified: false
-    hashtags: "#swedishgirl, #selfie, #auna, #motd"
-  - username: "takuro.ohno"
-    fullname: >-
-      大野拓朗
-    bio: >-
-      TOKYO/NY Actor/Fashion 公式後援会▷▷takutomonokai@gmail.com Twitter▷▷@Takuro_Ohno OFFICIAL WEB SITE▷▷https://ohnotakuro.com/ ▽New Year's Dreamチケット購入▽
-    location: "Japan"
-    followers: 68474
-    engagement: 554
-    commentsToLikes: 0.047637
-    id: ck15s3xeob3ie0i19iokesmup
-    verified: true
-    hashtags: "#irotoiro, #dancyu, #honda, #fit"
-  - username: "risaokamoto_"
-    fullname: >-
-      RISA
-    bio: >-
-      Fashion Addict🖤 Tokyo,Japan Umiami 🙌
-    location: "Japan"
-    followers: 16902
-    engagement: 678
-    commentsToLikes: 0.232212
-    id: ck55nsw916wn40i11jv6gomvf
+    followers: 7741
+    engagement: 1516
+    commentsToLikes: 0.199987
+    id: ck13abcdjpk290i19a8dw37a4
     verified: false
     hashtags: ""
+  - username: "cc_junpei_"
+    fullname: >-
+      JUNPEI (羽柴 純平)【COLOR CREATION】
+    bio: >-
+      COLOR CREATION(カラークリエイション) ・JPN🇯🇵Osaka.Tokyo ・Singer ・06.09 ビデオ通話を通して僕と会話できるオンラインミーティングが開催中です👏 下のページからご予約出来るので俺と話したいなーって思ってくれたみんなは是非参加してみて下さい😎
+    location: "Japan"
+    followers: 6864
+    engagement: 1360
+    commentsToLikes: 0.114717
+    id: ck9wgn9vyu42o0j78qx97xqa1
+    verified: true
+    hashtags: "#tiktok, #shes, #chelmico, #novelbright"
 ---

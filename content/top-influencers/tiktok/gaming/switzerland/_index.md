@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Switzerland In 2022
+title: Top 10 Gaming TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top gaming TikTok influencers in Switzerland in 2022. Most popular hashtags: #gaming #foryou #fyp #fortnite.
+  Find top gaming TikTok influencers in Switzerland in 2023. Most popular hashtags: #gaming #fyp #foryou #fortnite.
 platform: TikTok
 hits: 25
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform has 25 TikTok influencers like this in Switzerland for you to contact.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 25 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "chiefavalon"
     fullname: >-
       ChiefAvalon
     bio: >-
-      ⭐️ Youtuber, eSports Kommentator, Gaming, Brawl Stars, Story Spotlight ❤️
+      ⭐️ Youtuber, eSports Kommentator, Gaming, Brawl Stars, Story Spotlight ❤️ NEU⬇️
     location: "Switzerland"
-    followers: 197300
-    engagement: 1838
-    commentsToLikes: 0.025379
+    followers: 233700
+    engagement: 1826
+    commentsToLikes: 0.024025
     id: ckbf85ixoyeq40j23y4xep6cg
     verified: false
-    hashtags: "#gamer, #fortnite, #showdown, #brawlstars"
+    hashtags: "#brawlball, #brawlstars, #chiefavalon, #achtunglustig"
   - username: "edjojoo"
     fullname: >-
       The Edjojo
     bio: >-
-      Schtöley boy 🇨🇭 Gaming/Anime et du Wtf ٩(๑❛ᴗ❛๑)
+      Hiiiha Gaming/Anime et du Wtf ٩(๑❛ᴗ❛๑)
     location: "Switzerland"
-    followers: 3494
-    engagement: 1014
-    commentsToLikes: 0.066310
+    followers: 3460
+    engagement: 933
+    commentsToLikes: 0.055081
     id: ckc1zeydm37740j23rbaqihdl
     verified: false
-    hashtags: "#gaming, #foryou, #fyp, #fragbox"
+    hashtags: "#pourtoi, #stitch, #anime, #fyp"
   - username: "the_fortnite_lama"
     fullname: >-
       The Fortnite Lama
     bio: >-
-      🎮 GAMING CHANNEL 🎮 🔽 BUSINESS 🔽 fortnitelamatiktok@gmail.com
+      🎮 GAMING CHANNEL 🎮 ⬇⬇⬇ LITTLE YOU 3D ⬇⬇⬇
     location: "Switzerland"
-    followers: 237800
-    engagement: 818
-    commentsToLikes: 0.010921
+    followers: 267400
+    engagement: 689
+    commentsToLikes: 0.021403
     id: ckb9rzggsoztv0j2395vbomgs
     verified: false
-    hashtags: "#pourtoi, #wow, #map, #news"
-  - username: "maria.garciaa33"
-    fullname: >-
-      Maria 🇨🇴
-    bio: >-
-      🇨🇭 57.156 amazing people 🥺❤️ check my insta :) @ma.riaaaa._
-    location: "Switzerland"
-    followers: 57800
-    engagement: 1984
-    commentsToLikes: 0.050324
-    id: ckc8e2hcb9hd90j23sqozzhcu
-    verified: false
-    hashtags: "#pumpkinseason, #foryou, #dance, #viral"
+    hashtags: "#funny, #cool, #cod, #fun"
   - username: "der_porg_gaming"
     fullname: >-
       Der Porg
     bio: >-
-      SJHVPY Creator Code Gueaezi ⚔️ Profilbild von @5lingaming Yanis 1
+      SJHVPY Creator Code Gueaezi ⚔️ Profilbild von @5lingaming
     location: "Switzerland"
     followers: 13900
-    engagement: 1098
-    commentsToLikes: 0.071576
+    engagement: 1080
+    commentsToLikes: 0.047597
     id: ckamm4f96yxow0i785z74zyca
     verified: false
-    hashtags: "#ichzocke, #alien, #video, #gta5"
-  - username: "commandgeek"
+    hashtags: "#video, #starwars, #foryou, #gaming"
+  - username: "5lingaming"
     fullname: >-
-      commandgeek
+      .
     bio: >-
-      Youtuber with 150K+ subs ⬆️ I make original Minecraft datapack creations.
+      LS Fire Department 👨‍🚒🔥 Thanks for 3087 followers and 13.5k Likes 🎉
     location: "Switzerland"
-    followers: 203600
-    engagement: 1803
-    commentsToLikes: 0.019403
-    id: ckbqhuynb36df0j23tv0qna9r
+    followers: 3063
+    engagement: 906
+    commentsToLikes: 0.064552
+    id: ckan5zydxhldj0i78hryc1o92
     verified: false
-    hashtags: "#insane, #minecraftpe, #fy, #youtuber"
+    hashtags: "#varoxcraft, #ichzocke, #fun, #gaming"
   - username: "brominga"
     fullname: >-
       brominga
     bio: >-
       Subscribe to our YT because you are awesome ❤️ Livestream every SUN.+WED. 5:20pm
     location: "Switzerland"
-    followers: 99600
-    engagement: 968
-    commentsToLikes: 0.251108
+    followers: 98600
+    engagement: 959
+    commentsToLikes: 0.240964
     id: ck8ncvfteg5ks0j78pe71kgjl
     verified: false
-    hashtags: "#fyp, #foryoupage, #funnyvideos, #summer"
+    hashtags: "#summer, #fyp, #trend, #relatable"
+  - username: "commandgeek"
+    fullname: >-
+      commandgeek
+    bio: >-
+      Youtuber with 200k+ subs ⬆️ I make original Minecraft datapack creations.
+    location: "Switzerland"
+    followers: 213300
+    engagement: 1740
+    commentsToLikes: 0.018351
+    id: ckbqhuynb36df0j23tv0qna9r
+    verified: false
+    hashtags: "#foryou, #viral, #minecraftcursed, #youtube"
   - username: "mrpipistro"
     fullname: >-
       Dave
     bio: >-
-      From southern 🇨🇭 ⬇️ Triple screen setup tour video ⬇️
+      A summ ticines, va ben?! 🇨🇭 ⬇️ Triple screen setup tour video ⬇️
     location: "Switzerland"
-    followers: 99000
-    engagement: 548
-    commentsToLikes: 0.026697
+    followers: 105000
+    engagement: 586
+    commentsToLikes: 0.039891
     id: ck9jw0jwpug9q0j78h8d0rasn
     verified: false
-    hashtags: "#gaming, #playstation5, #ultrawide, #ps5"
-  - username: "mr.philgood"
+    hashtags: "#pc, #fyp, #rgb, #gaming"
+  - username: "feschlify"
     fullname: >-
-      Phil Küng
+      Twitch Feschlify
+    bio: >-
+      Do you believe in God? Itachi is the best caracter in Naruto
+    location: "Switzerland"
+    followers: 7288
+    engagement: 553
+    commentsToLikes: 0.090689
+    id: ckahta9amdon40i78u7umga4n
+    verified: false
+    hashtags: "#gaming, #apexlegends, #headset, #opening"
+  - username: "abdplo11"
+    fullname: >-
+      andplo11
     bio: >-
       
     location: "Switzerland"
-    followers: 2107
-    engagement: 271
-    commentsToLikes: 0.016015
-    id: ckbw5x6agy6cy0j230smx8j0g
+    followers: 14200
+    engagement: 1341
+    commentsToLikes: 0.026643
+    id: ckcj06jow37zz0j237vfn07ao
     verified: false
-    hashtags: "#vr, #game, #stickfigure, #gaming"
-  - username: "psychohypnotic"
-    fullname: >-
-      PsychoHypnotic
-    bio: >-
-      Silly Speedrunner & Horror Enthusiast 👇 FOLLOW ME ON TWITCH 👇
-    location: "Switzerland"
-    followers: 13700
-    engagement: 763
-    commentsToLikes: 0.016264
-    id: ck9m0z648clgn0j78r60v5ibx
-    verified: false
-    hashtags: "#game, #xenomorph, #gaming, #twitchstreamer"
+    hashtags: "#foryou, #foryoupage, #4up, #viral"
 ---

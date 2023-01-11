@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2022
+title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top gymnasts Instagram influencers in Switzerland in 2022. Most popular hashtags: #gymnastics #handstand #balance #switzerland.
+  Find top gymnasts Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #calisthenics #gymnastics #workout.
 platform: Instagram
-hits: 20
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 20 Instagram influencers like this in Switzerland for you to connect with.
+hits: 10
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "alina.victoria06"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       💥Model, Dancer, gymnast💥 🥇Swiss champion RG2019🥇 Ambassador @balletclub_ Agency @hip4kidz I speak 🇫🇷 🇬🇧 🇷🇺 🇩🇪 (little) Member @teamsportgala
     location: "Switzerland"
-    followers: 40776
-    engagement: 782
-    commentsToLikes: 0.066275
+    followers: 40560
+    engagement: 794
+    commentsToLikes: 0.065101
     id: ck8tb3u7vu5pa0j785agbvrb4
     verified: false
-    hashtags: "#internationalteenmodels, #tsga, #wlyg, #mytravelalina"
+    hashtags: "#mytravelalina, #internationalteenmodels, #wlyg, #tsga"
   - username: "oliver.hegi"
     fullname: >-
       Oliver Hegi
     bio: >-
       Swiss Gymnast🤸🏻‍♂️ European Championships🥇🥈🥉 Student📚
     location: "Switzerland"
-    followers: 8485
-    engagement: 2107
-    commentsToLikes: 0.004276
+    followers: 8283
+    engagement: 2196
+    commentsToLikes: 0.004356
     id: ck5pxfuumrk7k0i1156khbebx
     verified: false
-    hashtags: "#switzerland, #worldchampionships, #stuttgart2019, #gymnastics"
-  - username: "claire._obscure"
-    fullname: >-
-      Claire ⚡ Handstand Flexibility
-    bio: >-
-      Constantly upside down 🤸🙃 Mainly about gymnastics / circus 💪🏼
-    location: "Switzerland"
-    followers: 3309
-    engagement: 1427
-    commentsToLikes: 0.052570
-    id: ck9we41mlihhp0j78iarrq7e0
-    verified: false
-    hashtags: "#hollowback, #yogamotivation, #yogainspiration, #moodygrams"
+    hashtags: "#switzerland, #gymnastics, #worldchampionships, #olympics"
   - username: "stefy.kiryakova"
     fullname: >-
-      Stephanie Kiryakova
+      Stefani Kiryakova
     bio: >-
-      🇧🇬 Bulgaria National team of rhythmic gymnastics 🤸🏽‍♀️ 💎 Jesus is King👑✝️ Road to Tokyo 2022* Olympic Games🇯🇵 European and World Champion🥇🥇
+      Olympic Champion Tokyo 2020🥇🇯🇵 BULGARIA🇧🇬 National team of rhythmic gymnastics💎 2x European Champion🥇🥇 World Champion🥇 Jesus is King 👑
     location: "Switzerland"
-    followers: 7951
-    engagement: 1305
-    commentsToLikes: 0.006298
+    followers: 13242
+    engagement: 2042
+    commentsToLikes: 0.010804
     id: ck5c15fqyui2v0i11bq5zfwae
     verified: false
-    hashtags: "#fitspo, #stayhome, #believeyoucan, #eatclean"
-  - username: "tobias.bolliger"
+    hashtags: "#sofiaworldcup, #mycoach, #togetherforever"
+  - username: "julian_pagel_gsw"
     fullname: >-
-      Tobias Bolliger
+      Julian Pagel
     bio: >-
-      🇨🇭Breakdance, tricking, acrobatics, calisthenics, gymnastics, movement - I like to move it!😊
+      📍Switzerland • @GORNATION Pro Athlete • Team @genesis_streetworkout • Swiss National Calisthenics Champion
     location: "Switzerland"
-    followers: 13705
-    engagement: 834
-    commentsToLikes: 0.031227
-    id: ckaosn6kts7130i78r498tyos
+    followers: 9040
+    engagement: 1020
+    commentsToLikes: 0.036364
+    id: ck5zq94lbu62w0i144159kd5h
     verified: false
-    hashtags: "#balance, #dancing, #frontsplit, #acroinmotion"
-  - username: "fredvaudroz"
+    hashtags: "#frontlever, #mundocaliste, #barzsoul, #barzquad"
+  - username: "yannarnophoto"
     fullname: >-
-      Fred Vaudroz
+      Yann Arnaud
     bio: >-
-      professional photographer personal account @iamfredvaudroz
+      🎪Cirque du soleil 🔻Volta🔺 🎭Duo straps,Solo spin,Swiss rings,Acrolamp. 🤸🏻‍♂️Cirfit athlete, Promo code YANNCIRFIT 📸Photographer🇫🇷
     location: "Switzerland"
-    followers: 13594
-    engagement: 745
-    commentsToLikes: 0.017352
-    id: ck0vuvc5mmbzi0i19bppich89
+    followers: 15663
+    engagement: 1075
+    commentsToLikes: 0.059313
+    id: ck5zrahy5w7ru0i1464qqgqaa
     verified: false
-    hashtags: "#yoga, #fitgirl, #yogaphotography, #yogaoutside"
-  - username: "leo.moves"
+    hashtags: "#florida, #cirfitapparel, #stage, #circusarts"
+  - username: "marie__sw"
     fullname: >-
-      Leandro Fornito
+      Marie Pons🌚
     bio: >-
-      🐒Nobody moves like #leomoves 🥇#1 Swiss @hiitthebeat Powerhead 🏆Coach @balboamove ✉️ Contact me for personal trainings
+      21🌚Frenchgirl🇫🇷 🇨🇭LSN Street Workout🔥Calisthenics ☕️Coffee☕️ @gornation ATHLETE ❤️ MARIE10 🛍 Check this out ⤵️
     location: "Switzerland"
-    followers: 53491
-    engagement: 286
-    commentsToLikes: 0.033028
-    id: ck6tyyjzr6lla0j71pset3l6w
+    followers: 4983
+    engagement: 1518
+    commentsToLikes: 0.036176
+    id: ck55lgh8q1ic70i11kzf61k4z
     verified: false
-    hashtags: "#homeworkout, #workoutinspiration, #training, #move"
-  - username: "lisa_eble"
+    hashtags: "#pullups, #sw, #skate, #stayhome"
+  - username: "johannes_sam"
     fullname: >-
-      Lisa Eble
+      nuclear calisthenics ☢️🦍🎼
     bio: >-
-      Games 2019 Fittest in Germany 2020 Regionals 2018 German WL 🥇'17 🥉'18 🥈'19 . @cerascreen.de LISSEB10 @compex.germany LE30 . #teameble 🇩🇪
+      Science & Calisthenics with a bouzouki Newtonian Mechanics Nuclear Physics Quantum Fields 🇬🇷 -🇨🇭 MSc. Nuclear Engineer ETH Dipl. Physicist AUTh
     location: "Switzerland"
-    followers: 7429
-    engagement: 524
-    commentsToLikes: 0.025915
-    id: ck6ttcuu39whk0j71d8szqvmk
+    followers: 3002
+    engagement: 1387
+    commentsToLikes: 0.060849
+    id: ckaoxj8x5dide0i781yrhuh8j
     verified: false
-    hashtags: "#teameble, #crossfitlife, #gymnastics, #crossfit"
-  - username: "arturdykiel"
+    hashtags: "#poetry, #passion, #fitnessmotivation, #coreworkout"
+  - username: "jeroenkampschreur"
     fullname: >-
-      𝐀𝐑𝐓𝐔𝐑 𝐃𝐘𝐊𝐈𝐄𝐋
+      Jeroen Kampschreur
     bio: >-
-      🇵🇱 𝙿𝙾𝙻𝙸𝚂𝙷 𝙰𝙲𝚁𝙾𝙱𝙰𝚃 | 𝙱𝙱𝙾𝚈 🎪 𝙰𝚁𝚃𝙸𝚂𝚃 | 𝙿𝙴𝚁𝙵𝙾𝚁𝙼𝙴𝚁 👨🏻‍🎓 𝙿𝙷𝚈𝚂𝙸𝙲𝙰𝙻 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 𝚃𝙴𝙰𝙲𝙷𝙴𝚁 | 𝙲𝙾𝙰𝙲𝙷 💪🏻 📩 𝒂𝒓𝒕𝒖𝒓𝒅𝒚𝒌𝒊𝒆𝒍@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎 📨
+      Para Alpine Skier❄ Paralympic Gold medallist🔥 Current 5x World Champion🏅 Olympic Centre Papendal 🏋🏽 Dutchie 🦁
     location: "Switzerland"
-    followers: 17715
-    engagement: 294
-    commentsToLikes: 0.008592
-    id: ck5hq3yb1sgca0i11ihznpr6z
+    followers: 2771
+    engagement: 1690
+    commentsToLikes: 0.055296
+    id: ck5zq1dobtqx70i14wtzb1kdx
     verified: false
-    hashtags: "#switzerland, #man, #poland, #krakow"
-  - username: "christelleheitz"
+    hashtags: "#paralympic, #crash, #fit, #extreme"
+  - username: "catholicnewsagency"
     fullname: >-
-      Christelle Heitz
+      Catholic News Agency
     bio: >-
-      ✨ 🌏 🌳
+      The Catholic news you need to know #Catholic #Pope
     location: "Switzerland"
-    followers: 24734
-    engagement: 831
-    commentsToLikes: 0.013839
-    id: ck0ueqw42lw9k0i19hm3gnl4m
+    followers: 384910
+    engagement: 187
+    commentsToLikes: 0.018928
+    id: ck6tmhi7l7uwk0j71seqdpv6o
+    verified: true
+    hashtags: "#vatican, #hope, #vaticancity, #jpii"
+  - username: "aluarts"
+    fullname: >-
+      Raphael Alù
+    bio: >-
+      Basel, Switzerland. 🇨🇭 Member of @baselswizz Ambassador of @baselswitzerland
+    location: "Switzerland"
+    followers: 5643
+    engagement: 2011
+    commentsToLikes: 0.032240
+    id: ck0ty3e9ylgdf0i19o0x9hk4d
     verified: false
-    hashtags: "#lac, #love, #life, #nature"
+    hashtags: "#besteurope, #amazingswitzerland, #basel, #snowy"
 ---

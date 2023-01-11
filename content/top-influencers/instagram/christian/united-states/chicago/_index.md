@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Chicago In 2022
+title: Top 10 Christian Instagram Influencers In Chicago In 2023
 description: >-
-  Find top christian Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #losangeles #christian.
+  Find top christian Instagram influencers in Chicago in 2023. Most popular hashtags: #christian #miami #chicago #fitness.
 platform: Instagram
-hits: 28
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 28 Instagram influencers like this in Chicago, United States for you to contact.
+hits: 20
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "oluchizelda"
+  - username: "thevalecal_ec"
     fullname: >-
-      ZELDA Short Hair + Hair Color
+      Valerie G.S. Calderón
     bio: >-
-      NOT ACCEPTING NEW CLIENTS 🧘🏾‍♀️Salon Owner @PranaForHair 🇳🇬Nigerian 🎨Colorist ✂️Short Hair Over EVERYTHING 👩‍👧‍👦MamaBear to M&M
+      Jesus☝🏻🔯Apostolic #Chicago 🇺🇸📍#SantoDomingo 🇪🇨 👩🏻‍💼🎤 📺🎥 LUC 20’ ASU 21’ 📚FormerTelemundo Intern🕵🏻‍♀️ Poli Sci//Int Business⚡️
     location: "United States"
-    followers: 55849
-    engagement: 152
-    commentsToLikes: 0.047865
-    id: ck0w07p36cso30i197oh79mp4
+    followers: 7026
+    engagement: 270
+    commentsToLikes: 0.032295
+    id: ck8ta3943qaq20j78zc1luo67
     verified: false
-    hashtags: "#oluchizelda, #pranaforhair, #justcoloritalready, #chicagostylist"
-  - username: "fashionablyfifty"
+    hashtags: "#makeup, #fall, #santodomingo, #natural"
+  - username: "angelicagallegosmusica"
     fullname: >-
-      Susan ~ Content Creator
+      Angelica Gallegos
     bio: >-
-      Expert Stylist rescuing clothing & accessories from landfills one glorious piece at a time! Collaborations welcome!
+      Cantautora 🤘🏼Austin/ Calvillo, Aguascalientes / Chicago Más reciente musica ⬇️⬇️⬇️
     location: "United States"
-    followers: 22352
-    engagement: 179
-    commentsToLikes: 0.506757
-    id: ck5pyxbx5y9ny0i11n7b4ahlf
+    followers: 31595
+    engagement: 438
+    commentsToLikes: 0.025928
+    id: ck5qcnt0srh8a0i11c980niwz
     verified: false
-    hashtags: "#chicago, #thriftstylish, #mycloset, #bohochic"
-  - username: "jizzymack"
-    fullname: >-
-      Ray  Sadeghi
-    bio: >-
-      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. Contact by DM or Email for any business inquiries.
-    location: "United States"
-    followers: 212389
-    engagement: 139
-    commentsToLikes: 0.015024
-    id: ck0vx1u47wpyl0i19oypik8rj
-    verified: false
-    hashtags: "#ufc, #fitness, #bible, #chicago"
-  - username: "christian.swett"
-    fullname: >-
-      christian 👨🏾‍🚀
-    bio: >-
-      AMAX Nashville OPT1 Chicago Inquiries:christianswett1@gmail.com BLACK LIVES MATTER ✊🏿🖤
-    location: "United States"
-    followers: 5362
-    engagement: 1892
-    commentsToLikes: 0.058376
-    id: ck6u6f48of8jo0j718vyi2z3j
-    verified: false
-    hashtags: ""
-  - username: "cohv_ink"
-    fullname: >-
-      Christian 🌈 🇲🇽
-    bio: >-
-      Just honey bunches of gay. 💖Chicago, IL #facemaskhomemade 📖 BOOKS CLOSED 📖 🌸💌 cohvink@gmail.com 🧁LINK TREE BELOW!🍄
-    location: "United States"
-    followers: 6689
-    engagement: 268
-    commentsToLikes: 0.036569
-    id: ck5hpcvror5bg0i11s78nn6uf
-    verified: false
-    hashtags: "#reuseablefacemask, #chicagotattooartist, #facemask, #queermaskbusiness"
-  - username: "rwsharpejr"
-    fullname: >-
-      Reginald Wayne Sharpe Jr.
-    bio: >-
-      Morehouse College,B.A. Vanderbilt Univ. Divinity School,M.T.S. Candler School of Theology at Emory,Th.M. Christian Theological Seminary,Ph.D. Student
-    location: "United States"
-    followers: 48843
-    engagement: 273
-    commentsToLikes: 0.035396
-    id: ck55pz2tabphc0i119wxat1fb
-    verified: false
-    hashtags: "#fellowshipchicago, #thevirtualship, #faithandwisdom, #areyouonboard"
+    hashtags: "#sedicefacil, #lamedoavuelta, #enelultimotrago, #facebook"
   - username: "wheatoncollegeil"
     fullname: >-
       Wheaton College IL
     bio: >-
       Wheaton College is a Christian liberal arts college located just west of Chicago, IL. Since 1860, "For Christ and His Kingdom" #MyWheaton
     location: "United States"
-    followers: 12041
-    engagement: 656
-    commentsToLikes: 0.015354
+    followers: 13801
+    engagement: 505
+    commentsToLikes: 0.014711
     id: ck0udp8w3jjl80i19nia2zc7x
     verified: false
-    hashtags: "#wheatonon, #wheatongives, #mywheaton, #earthday"
+    hashtags: "#mywheaton, #memorialday"
   - username: "peanuttillman"
     fullname: >-
       Charles Tillman
     bio: >-
       Christian, Husband, Father of 4
     location: "United States"
-    followers: 132436
-    engagement: 395
-    commentsToLikes: 0.019536
+    followers: 137716
+    engagement: 478
+    commentsToLikes: 0.022074
     id: ck15utxltoim90i19bzw654bh
     verified: true
-    hashtags: "#peanutpunch, #keeppounding, #repost, #girldad"
-  - username: "askthemartins"
+    hashtags: "#peanutpunch, #keeppounding, #tbt, #greatpeople"
+  - username: "jizzymack"
     fullname: >-
-      Kenyon & Taccara Martin
+      Ray  Sadeghi
     bio: >-
-      Christian Counselors with Programs Designed to Rescue, Recover, + Rehabilitate you from Toxic Relationships + teach you habits of Healthy Love...
+      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. CEO @smp.ink DM or Email for any business inquiries.
     location: "United States"
-    followers: 43306
-    engagement: 167
-    commentsToLikes: 0.039680
-    id: ck13ajewmqnym0i19240pvnpq
+    followers: 300164
+    engagement: 106
+    commentsToLikes: 0.035454
+    id: ck0vx1u47wpyl0i19oypik8rj
     verified: false
-    hashtags: "#marriageadvice, #mcm, #marriagebootcamp, #relationshiptips"
-  - username: "scottirvingl"
+    hashtags: "#newyork, #tmt, #ufc, #beauty"
+  - username: "papalninja"
     fullname: >-
-      Scott Irving
+      Sean Bryan
     bio: >-
-      📍 Las Vegas 📸 Bookings | DM for more info
+      Cal Physics Gymnast ➡️ Apostle Ninja Theologian. New YouTube Channel:
     location: "United States"
-    followers: 6128
-    engagement: 678
-    commentsToLikes: 0.070760
-    id: ckaoqvncfkm6v0i78ebdfkx3d
+    followers: 30210
+    engagement: 391
+    commentsToLikes: 0.029542
+    id: ck13ak2x8qrcw0i19ehqaf9vb
     verified: false
-    hashtags: "#lamodel, #malemodel, #laphotographer, #staypositive"
+    hashtags: "#beautiful, #prayer, #mustseetv, #fitness"
+  - username: "christianstolte"
+    fullname: >-
+      Christian Stolte
+    bio: >-
+      Ten grams of glam in grandma's ham.
+    location: "United States"
+    followers: 161023
+    engagement: 491
+    commentsToLikes: 0.017780
+    id: ck5qb8aimkbds0i11wutvl7od
+    verified: true
+    hashtags: "#chicagofire, #onechicago, #blacklivesmatter, #blackouttuesday"
+  - username: "tattoosbynickp"
+    fullname: >-
+      Nick Peirce
+    bio: >-
+      🙏🏻Christ Follower👉🏻Diamond State Tattoo👉🏻Sherwood-Arkansas👉🏻NO DM’S👉🏻TEXT ONLY-Mon-Fri 501-831-8401👉🏻NO DM’s👈🏻Next booking Is May 31st for July/August
+    location: "United States"
+    followers: 32130
+    engagement: 146
+    commentsToLikes: 0.015778
+    id: ck5q48erqo5im0i11il5gcd0v
+    verified: false
+    hashtags: "#arkansastattoos, #afterinked, #eternalink, #tattoosbynickp"
+  - username: "erbanegalore"
+    fullname: >-
+      Erbane
+    bio: >-
+      𝗗𝗿𝗲𝗮𝗺. 𝗪𝗿𝗶𝘁𝗲. 𝗦𝗵𝗼𝗼𝘁. 𝗘𝗱𝗶𝘁. 𝗦𝗲𝗻𝗱. Cinematographerrr | Editor | Colorist | Content Creator 🚨BobbyV - Reply ⬇️⬇️⬇️
+    location: "United States"
+    followers: 44857
+    engagement: 428
+    commentsToLikes: 0.008573
+    id: ck5q388rqjoxp0i11hebfyzwa
+    verified: false
+    hashtags: "#bmpcc4k, #blackfemalefilmmakers, #djimavicair2, #videoproduction"
+  - username: "djkaoru"
+    fullname: >-
+      KAORU
+    bio: >-
+      🇧🇷/𝗠𝗶𝗮𝗺𝗶/🇯🇵 ᴛᴏᴋʏᴏ 東京 @billboardar👁 📀🅴🅳🅼𝗣𝗥𝗢𝗗𝗨𝗖𝗘𝗥 @onerpmbr💰💰💰 🅾🆄🆃 🅽🅾🆆 𝘏𝘖𝘓𝘋 𝘜𝘗
+    location: "United States"
+    followers: 36303
+    engagement: 1069
+    commentsToLikes: 0.085472
+    id: ck6u324l3v93l0j715u9lkggc
+    verified: false
+    hashtags: "#motivation, #superbowl, #spain, #music"
 ---

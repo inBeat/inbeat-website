@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In New Delhi In 2022
+title: Top 10 Food Instagram Influencers In New Delhi In 2023
 description: >-
-  Find top food Instagram influencers in New Delhi in 2022. Most popular hashtags: #delhi #food #homemade #delhidiaries.
+  Find top food Instagram influencers in New Delhi in 2023. Most popular hashtags: #delhi #delhifoodie #delhistreetfood #delhifoodblogger.
 platform: Instagram
-hits: 111
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 111 Instagram influencers like this in New Delhi, India for you to connect with.
+hits: 63
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 63 Instagram influencers like this in New Delhi, India for you to pitch.
 profiles:
-  - username: "thesoleposer"
+  - username: "tusharikasethi"
     fullname: >-
-      Chahat Anand
+      Tusharika Sethi
     bio: >-
-      Food . Lifestyle New Delhi thesoleposer@gmail.com Chocolate icecream recipe 👇
+      Travel | Food | Lifestyle 📍New Delhi Conquering the world ✈️ 💌 hellotusharika@gmail.com
     location: "India"
-    followers: 38745
-    engagement: 88
-    commentsToLikes: 0.078827
-    id: ck9wdcycjf3dh0j783si5aild
+    followers: 5776
+    engagement: 664
+    commentsToLikes: 0.082820
+    id: ckap02xjhohdn0i78bqctyjt1
     verified: false
-    hashtags: "#popcorn, #smile, #recipes, #foodie"
+    hashtags: "#poser, #sea, #traveldiaries, #hiking"
   - username: "bhukkad_ghummkkad"
     fullname: >-
       Tom & Jerry Searching food
     bio: >-
       📍New Delhi Food 👩‍🍳 || Travel 🌍|| Lifestyle 💃🏼 DM/Email for Collab,Invites,Events & Promotion Use #bhukkad_ghummkkad to get featured ❣️
     location: "India"
-    followers: 6879
-    engagement: 828
-    commentsToLikes: 0.205713
+    followers: 6765
+    engagement: 651
+    commentsToLikes: 0.121992
     id: ckap1ygsrwlzu0i78xz08fo33
     verified: false
-    hashtags: "#homemade, #foodcoma, #delhifoodblogger, #tasty"
-  - username: "foodiesince96"
-    fullname: >-
-      MEHAK DHAWAN 💕
-    bio: >-
-      24 Delhi, India 🇮🇳 RAB RAKHA🙏 KARMA🧿 “Whoever is trying to bring U down is below U” Food, Recipes & Travel 🍕✈️ #foodiesince96 💌 - rsmehak@ymail.com
-    location: "India"
-    followers: 253682
-    engagement: 189
-    commentsToLikes: 0.026974
-    id: ck13b1b3gt79v0i193jiy79e4
-    verified: false
-    hashtags: "#foodstagram, #foodphoto, #delhi, #foodphotography"
-  - username: "kohlihimansh"
-    fullname: >-
-      Himansh Kohli
-    bio: >-
-      Actor | Dreamer | Chaser 🎭 🤴🏻 🥇 It is so simple to be happy but it is so difficult to be simple Mail 📩 enquiry.himansh@gmail.com
-    location: "India"
-    followers: 1030341
-    engagement: 455
-    commentsToLikes: 0.013724
-    id: ck8sy3e5rjlgm0j784afwa6cm
-    verified: true
-    hashtags: "#friyay, #friday, #himanshkohli, #weekends"
-  - username: "eat_therapyy"
-    fullname: >-
-      Eat Therapy by Astha Gaur
-    bio: >-
-      Sharing my 'Stories of Food' Content Creator✍️ 📍New Delhi, India DM/Email for collaborations! ➡️Use #eattherapyy ✨ GOOGLE 7️⃣ ZOMATO 8️⃣ YouTube⬇️
-    location: "India"
-    followers: 17310
-    engagement: 353
-    commentsToLikes: 0.151518
-    id: ckap5bm5bay2r0i78d3zys1o3
-    verified: false
-    hashtags: "#delhistreet, #cookwidcare, #streetfoodindia, #bhukkadbros"
+    hashtags: "#eveningsnacks, #dilli, #chai, #delhigram"
   - username: "whaaatislife"
     fullname: >-
       Gurleen Bedi- Delhi FOOD BLOG
     bio: >-
-      📍New Delhi 🍕 Food Blogger, Content Creator, Lifestyle 📧whaaatislife.food@gmail.com 🤩New Recipe Video EVERY SATURDAY!
+      📍New Delhi 🍕 Food Blogger, Content Creator, Lifestyle 📧whaaatislife.food@gmail.com ⭐️ Showcasing the best food! 🤩New Recipe Video EVERY SATURDAY!
     location: "India"
-    followers: 82115
-    engagement: 386
-    commentsToLikes: 0.014031
+    followers: 92428
+    engagement: 262
+    commentsToLikes: 0.011671
     id: ck5c79z7l74hg0i112oza5xap
     verified: false
-    hashtags: "#delhidiaries, #shotoniphone, #cheesy, #foodbossindia"
-  - username: "_adatewithlife_"
+    hashtags: "#delhistreetfood, #foodiesofinstagram, #tasteofindia, #foodvideo"
+  - username: "eat_therapyy"
     fullname: >-
-      Bhawna Mehta
+      Eat Therapy
     bio: >-
-      “One of the greatest joys of life is its wondrous unpredictability” Lifestyle and Food content creator🌸 . 📩: adatewithlife22@gmail.com
+      Sharing my 'Stories of Food' Content Creator✍️ 📍New Delhi, India DM/Email for collaborations! ➡️Use #eattherapyy ✨ GOOGLE 7️⃣ ZOMATO 9️⃣ YouTube⬇️
     location: "India"
-    followers: 91157
-    engagement: 150
-    commentsToLikes: 0.015155
-    id: ck1382awde5w20i19r6qm7oww
+    followers: 18507
+    engagement: 273
+    commentsToLikes: 0.062534
+    id: ckap5bm5bay2r0i78d3zys1o3
     verified: false
-    hashtags: "#homemade, #instamood, #reels, #indianfood"
-  - username: "rishabh_singhal_official"
+    hashtags: "#reelitfeelit, #reelindia, #indianfoodblogger, #delhifood"
+  - username: "thefizzlinggourmets"
     fullname: >-
-      R I S H A B H  S I N G H A L🔥
+      RIDDHI | SHIVA ❤
     bio: >-
-      24 || traveller || fashionblogger🔥|| Influencer📷🎥 📩Email:- rishabh@phono.mobi **DM FOR FITNESS TRANSFORMATION ✌️✌️🔥
+      Content Creators ✨ Food 🍕| Travel 👝 Currently: New Delhi 📍 📧: Fizzlingfoodies28@gmail.com 👉 Dm for collabs/events📬 🚫NO REPOST ALLOWED🚫
     location: "India"
-    followers: 23191
-    engagement: 420
-    commentsToLikes: 0.051279
-    id: ckap25z5kxiko0i786bxoyqz5
+    followers: 47363
+    engagement: 299
+    commentsToLikes: 0.019765
+    id: ck5cbopdifvis0i112hkelgs7
     verified: false
-    hashtags: "#thailife, #instadaily, #increadibleindia, #looks"
+    hashtags: "#rajkachori, #f52grams, #veg, #streets"
+  - username: "thefood.vlogger"
+    fullname: >-
+      Vansh Taneja
+    bio: >-
+      ☕️ Caffeinated Aspiring Food Blogger Video Creator DM / Email for business enquiries and collabs👇🏻👇🏻
+    location: "India"
+    followers: 126343
+    engagement: 172
+    commentsToLikes: 0.011158
+    id: ck0w6jux78wuo0i19uer6e1sx
+    verified: false
+    hashtags: "#indianfoodrecipes, #momos, #indianfoodblogger, #feedfeed"
   - username: "delhikikhansahiba_"
     fullname: >-
       Delhi Ki Khan Sahiba
     bio: >-
-      Travel •Architecture •Fashion •Lifestyle •Food DM for promotion/collaboration #Delhikikhansahiba 📍New Delhi, India 💌delhikikhansahiba@gmail.com
+      Travel / Architecture / Lifestyle / Food DM for promotion/collaboration #Delhikikhansahiba 📍New Delhi, India 💌delhikikhansahiba@gmail.com
     location: "India"
-    followers: 2687
-    engagement: 1430
-    commentsToLikes: 0.113150
+    followers: 2825
+    engagement: 1139
+    commentsToLikes: 0.102871
     id: ckaos2pa7pw740i784xphng2p
     verified: false
-    hashtags: "#europe, #architecturephoto, #indiadiaries, #jaanekyadikhjaaye"
-  - username: "stylefashionetc"
+    hashtags: "#indialove, #delhikikhansahiba, #girlphotographer, #indiaphotos"
+  - username: "braidsandbrowniesindia"
     fullname: >-
-      Srishti S Bhatia (Srish)
+      Maanvi Arora
     bio: >-
-      Style Fashion Etc™[Est. 2010] Fashion • Beauty • Lifestyle • Food @SFEkitchen ✉ srish@stylefashionetc.com📍New Delhi
+      Die hard foodie 😋 Law student👩🏽‍⚖️ Zomato connoisseur 🍴 Delhi-NCR Use #braidsandbrownies Repost not allowed❌
     location: "India"
-    followers: 200060
-    engagement: 54
-    commentsToLikes: 0.041148
-    id: ck5bx6qd0n3xh0i11e0tsk3ji
+    followers: 32533
+    engagement: 119
+    commentsToLikes: 0.018608
+    id: ck8t145zpuelh0j7810tckdji
     verified: false
-    hashtags: "#cooking, #healthy, #healthyrecipes, #easyrecipe"
+    hashtags: "#foodstagram, #foodie, #paneer, #foodislove"
+  - username: "styleawhileofficial"
+    fullname: >-
+      Shreya Jain
+    bio: >-
+      #shreyajain 👠 Fashion and Lifestyle Blogger 👗 Costume Stylist 🧘🏼‍♀️ Fitness Influencer 🐶 Dog Lover 📍 New Delhi / Punjab 🇮🇳
+    location: "India"
+    followers: 163065
+    engagement: 244
+    commentsToLikes: 0.058658
+    id: ck9wgrkyfuokp0j78wjzd69ae
+    verified: true
+    hashtags: "#fashioninfluencer, #turnup, #turnitup, #carlaunch"
+  - username: "sumis_cookbook_18"
+    fullname: >-
+      Sumeet Kaur
+    bio: >-
+      Versatility is the key #foodstylist #foodphotographer #recipe developer Writer @alfazon_ki_minare DM for enquiries and collabs New Delhi, India 🇮🇳
+    location: "India"
+    followers: 8955
+    engagement: 783
+    commentsToLikes: 0.278904
+    id: ckf5x0rwtty0f0j23k8xx44gt
+    verified: false
+    hashtags: "#moodygrams, #naturallightphotographer, #mycanonstory, #foodphotographer"
 ---

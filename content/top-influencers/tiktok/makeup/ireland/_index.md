@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Ireland In 2022
+title: Top 10 Makeup TikTok Influencers In Ireland In 2023
 description: >-
-  Find top makeup TikTok influencers in Ireland in 2022. Most popular hashtags: #makeup #fyp #foryou #halloween.
+  Find top makeup TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #makeup #mua #foryou.
 platform: TikTok
-hits: 50
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 50 TikTok influencers like this in Ireland for you to pitch.
+hits: 48
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 48 TikTok influencers like this in Ireland for you to connect with.
 profiles:
-  - username: "sequanamakeup"
+  - username: "itsdylanjordan_"
     fullname: >-
-      Sequana Obrien
+      Dylan Jordan
     bio: >-
-      Im that weirdo with a makeup account Irish 14 yrs old
+      Dublin Drag Queen Contact my Instagram for makeup zoom lessons
     location: "Ireland"
-    followers: 4107
-    engagement: 2666
-    commentsToLikes: 0.040303
-    id: ckdnnwg7qk4r30j23o56a7qc2
+    followers: 37400
+    engagement: 1617
+    commentsToLikes: 0.036644
+    id: ckb9g5p7v51zs0j23chqmpouw
     verified: false
-    hashtags: "#october, #mu, #irish, #tutorial"
+    hashtags: "#transformation, #stitch, #fyp, #dublinma"
+  - username: "iconicaidann"
+    fullname: >-
+      IconicAidan 🏳️‍🌈
+    bio: >-
+      I am a small makeup artist my Instagram link is above !!🥰💕🏳️‍🌈🌈
+    location: "Ireland"
+    followers: 5702
+    engagement: 3136
+    commentsToLikes: 0.118138
+    id: cka6mhife79610i78qr43tzbb
+    verified: false
+    hashtags: "#mua, #dejavu, #foryoupage, #fyp"
   - username: "keilidhmua"
     fullname: >-
       KeilidhMua
     bio: >-
       Oh hello there Follow my insta for more makeup stuff ✌🏼☘️
     location: "Ireland"
-    followers: 2300000
-    engagement: 2115
-    commentsToLikes: 0.005809
+    followers: 2800000
+    engagement: 1899
+    commentsToLikes: 0.005798
     id: ck8aebrekbmvr0j78gxh6a0ew
     verified: true
-    hashtags: "#dracotok, #artober, #halloween, #halloweenlook"
-  - username: "cassiegillespie"
+    hashtags: "#beautyroutine, #makeup, #stitch, #transformation"
+  - username: "sosubysj"
     fullname: >-
-      Cassie Gillespie
+      SOSUbySuzanneJackson
     bio: >-
-      Body paint/Makeup, check out my insta 👆🏻
+      Affordable Luxury✨ Award winning Makeup Brand created by Suzanne Jackson💛
     location: "Ireland"
-    followers: 29900
-    engagement: 1479
-    commentsToLikes: 0.036995
-    id: ckavk1iriswvn0j23c39l21xz
+    followers: 4715
+    engagement: 1108
+    commentsToLikes: 0.041920
+    id: ck9tv02sjobv10j780e73ldm2
     verified: false
-    hashtags: "#slappythedummy, #fyp, #pumpkin, #xyzbca"
+    hashtags: "#fyp, #sosubysj, #foryoupage, #mua"
   - username: "emmacostelloex"
     fullname: >-
       Emma Costelloe
     bio: >-
-      Emma costelloe 💕 20 🎉 Irish 🍀🇮🇪 Blogger and makeup artist
+      Emma costelloe 💕 21 🎉 Irish 🍀🇮🇪 Blogger and makeup artist
     location: "Ireland"
-    followers: 7246
-    engagement: 1197
-    commentsToLikes: 0.006909
+    followers: 8363
+    engagement: 1148
+    commentsToLikes: 0.010111
     id: ckb9i3pz4837r0j23d0o2xgfw
     verified: false
-    hashtags: "#makeup, #makeupartist, #irish, #limerick"
-  - username: "iconicaidann"
-    fullname: >-
-      IconicAidan 🏳️‍🌈
-    bio: >-
-      I’m 17 and I am a small makeup artist my Instagram link is above !!🥰💕🏳️‍🌈🌈
-    location: "Ireland"
-    followers: 4183
-    engagement: 1191
-    commentsToLikes: 0.029522
-    id: cka6mhife79610i78qr43tzbb
-    verified: false
-    hashtags: "#katyazamolodchikova, #makeuptutorial, #boymua, #trixiemattel"
+    hashtags: "#makeupartist, #irish, #irishmua, #kashgold"
   - username: "biabellebeauty"
     fullname: >-
       BiaBelleBeauty
     bio: >-
       #BiaBelleSisters 🤪 Makeup & Fake Tan Brand Insta @biabellebeauty
     location: "Ireland"
-    followers: 5261
-    engagement: 257
-    commentsToLikes: 0.015031
+    followers: 5317
+    engagement: 287
+    commentsToLikes: 0.015696
     id: ckcvgx5rstgj80j2385qbe7y9
     verified: false
-    hashtags: "#fy, #biabellebabes, #foryourpage, #fyp"
-  - username: "sosubysj"
-    fullname: >-
-      SOSUbySuzanneJackson
-    bio: >-
-      Award winning Makeup/Tan Brand created by Suzanne Jackson. www.sosubysj.com 💋
-    location: "Ireland"
-    followers: 3535
-    engagement: 971
-    commentsToLikes: 0.014871
-    id: ck9tv02sjobv10j780e73ldm2
-    verified: false
-    hashtags: "#sosubysj, #foryou, #makeup, #foryoupage"
+    hashtags: "#biabellebabes, #biabellesisters, #biabellebeauty, #biabelletan"
   - username: "meganoconnnor"
     fullname: >-
       Megan O’ Connor 🌸
     bio: >-
-      I just draw on my face Inquires @meganoconnormakeup002@gmail.com
+      Simon says follow me Inquiries: meganoconnormakeup002@gmail.com
     location: "Ireland"
-    followers: 106300
-    engagement: 2326
-    commentsToLikes: 0.048763
+    followers: 146900
+    engagement: 2340
+    commentsToLikes: 0.052805
     id: ck9tubo3xl0od0j78ccgnegn8
     verified: false
-    hashtags: "#irishmua, #makeup, #justlikeandfollowme, #halloweenlook"
-  - username: "dysphoriablues"
-    fullname: >-
-      DysphoriaBlues
-    bio: >-
-      Emma, 17, 🇮🇪 She/Her Twitter: @dysphoriablues1 Insta: emmakeyes2003
-    location: "Ireland"
-    followers: 53200
-    engagement: 2247
-    commentsToLikes: 0.026388
-    id: ckacd9mbrintn0i781ni1vgkl
-    verified: false
-    hashtags: "#lgbt, #makeup, #law, #insomniac"
+    hashtags: "#irishmua, #pictureday, #makeup, #fyp"
   - username: "amy.crxnin"
     fullname: >-
       Amz
     bio: >-
-      Thank you so much for the support 🥰 👇🏻 Use code “Amy Cronin” for 💰 off 👇🏻
+      17 🤍 270K reasons to smile 😚 👇🏻Use code “Amy Cronin” for € off👇🏻
     location: "Ireland"
-    followers: 270500
-    engagement: 1963
-    commentsToLikes: 0.017550
+    followers: 269900
+    engagement: 2095
+    commentsToLikes: 0.026345
     id: ckdt3mknjsjr10j23y4mgm9fs
     verified: false
-    hashtags: "#fyp, #duet, #makeuptransformation, #mua"
+    hashtags: "#makeupchallenge, #makeuptransformation, #xzybca, #foryou"
+  - username: "nicolebmakeup"
+    fullname: >-
+      Nicole Balfe🔅
+    bio: >-
+      22 🇮🇪 Insta: @_nicolebmakeup_
+    location: "Ireland"
+    followers: 10300
+    engagement: 2191
+    commentsToLikes: 0.112313
+    id: ckavmnb9bwli00j23qofbrwy6
+    verified: false
+    hashtags: "#makeupartist, #underratedmua, #grwm, #emojimakeup"
+  - username: "sequanaobrienn"
+    fullname: >-
+      Sequana Obrien
+    bio: >-
+      just a wanna be mua+influencer🤍 Bi 14 years old Help me get 10k on my recent ig
+    location: "Ireland"
+    followers: 4392
+    engagement: 2729
+    commentsToLikes: 0.048552
+    id: ckdnnwg7qk4r30j23o56a7qc2
+    verified: false
+    hashtags: "#grwm, #viral, #irish, #driverslicense"
 ---

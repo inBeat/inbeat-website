@@ -1,130 +1,130 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In India In 2022
+title: Top 10 Pole Dancers Instagram Influencers In India In 2023
 description: >-
-  Find top pole dancers Instagram influencers in India in 2022. Most popular hashtags: #dance #dancer #poledance #choreography.
+  Find top pole dancers Instagram influencers in India in 2023. Most popular hashtags: #poledance #poledancer #poledancing #dancer.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 10 Instagram influencers like this in India for you to connect with.
+hits: 18
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in India for you to pitch.
 profiles:
+  - username: "zakwanabagban"
+    fullname: >-
+      Zakwana Bagban
+    bio: >-
+      Indian || Aerialist || Pole Dancer || Strength & Flexibility Coach || Performer 🌷 Click below for class details 👇🏻
+    location: "India"
+    followers: 22841
+    engagement: 564
+    commentsToLikes: 0.032759
+    id: ckaorosxlo5r80i78ldii5xyz
+    verified: false
+    hashtags: "#poledancersofig, #poledance, #poledancemumbai, #aerialsilks"
+  - username: "latenighttalesphotography"
+    fullname: >-
+      LATE NIGHT TALES Photography
+    bio: >-
+      📸 International Pole/Dance/Aerial Photographer 📚 Author of POLEDANCE PASSION The Book 🖤 Be who you are! 🌱Vegan 🖊️ DM for bookings and collaborations!
+    location: "India"
+    followers: 7733
+    engagement: 704
+    commentsToLikes: 0.031744
+    id: ck6tjs2033b7y0j71ibzmez1x
+    verified: false
+    hashtags: "#gothicart, #burlesque, #canonlove, #flexibility"
   - username: "sonia.poledance"
     fullname: >-
-      𝕊𝕠𝕟𝕚𝕒
+      𝘚σꪀⅈꪖ
     bio: >-
-      ▶️ Tutoriales de Pole Dance 💛 Apasionada por el Pole Dance y el Yoga 🧘🏽‍♀️🕉 📍Granada, España
+      ▶️ Tutoriales de Pole Dance 📍 Granada, España @mtlpolewear 15% SONIA15 @dartfrogwear 20% sonia.poledance @fuerzabrutaes SONIAPOLE
     location: "India"
-    followers: 26008
-    engagement: 365
-    commentsToLikes: 0.044539
+    followers: 28356
+    engagement: 290
+    commentsToLikes: 0.037564
     id: ck8t06vdyr0850j78ywww6ha9
     verified: false
-    hashtags: "#poledancetutorials, #poleaddict, #poledancetutorial, #alcalalareal"
-  - username: "evavandewijdeven"
+    hashtags: "#poletrick, #poledancetraining, #poleaddict, #fitnesswoman"
+  - username: "aletheaaustineyes"
     fullname: >-
-      EVA van de Wijdeven
+      𝓐𝓵𝓮𝓽𝓱𝓮𝓪 𝓐𝓾𝓼𝓽𝓲𝓷
     bio: >-
-      ° Actress 🎬 °#evadivavideo#Dennyninjananny ° Goal ••Female action hero Film••😎 ° 80'90's Hiphop&RnB 🎧 ° Lot's of edits📱 °👶💙 ° Tiktok // YOUTUBE 👇
+      Dancer. Pole Dance Icon. Owner @thechromebar @thechromebarboro. Dance Double @pvalleystarz 🐝 Queen Bee. Mentor. ✌️
     location: "India"
-    followers: 82496
-    engagement: 481
-    commentsToLikes: 0.038922
-    id: ck0ue9fkaku9u0i19cn47pnps
-    verified: true
-    hashtags: "#huidverzorging, #ikdoemee, #setlife, #corona"
-  - username: "marcus__hybridcrew_moveon"
-    fullname: >-
-      Marcus Lin （林剛一）
-    bio: >-
-      From Taiwan 🇹🇼 Dancer/choreography/HipHop 街舞創作/舞蹈編排/舞蹈訓練 歡迎工作邀約🤟🤟請私訊 🟧HRC Dance Studio 🟪MoveOnDanceFusion 🟥HRC Hybrid Crew 🟨SUBWAY Dance Crew
-    location: "India"
-    followers: 7777
-    engagement: 955
-    commentsToLikes: 0.013216
-    id: ck6ughc33316c0j71r2jcs1m2
+    followers: 28691
+    engagement: 197
+    commentsToLikes: 0.055098
+    id: ck6udj89nlf1i0j71sg62s3g8
     verified: false
-    hashtags: "#chore, #dancer, #hiphopdance, #hrcdancestudio"
-  - username: "danceworld0204"
+    hashtags: "#poledancing, #aletheaaustin, #dance, #comehome"
+  - username: "andressanirvana"
     fullname: >-
-      Dance_World
+      Andressa Nirvana
     bio: >-
-      Official ©️™️ ⏺️Dancing page ⏺️Promoting all sort of talent! 🎤💃🏻 🎥 send your video 📞 or 📩 for paid promotions 💶 📲 DM to get featured 🔜Next target 75k
+      BSB 🇧🇷 🤸🏻‍♀️dance, acro & flexibility 🖤 owner @lanasalinha 🧘🏻‍♀️ yoga instructor underformation @yogaemmovimento
     location: "India"
-    followers: 72273
-    engagement: 450
-    commentsToLikes: 0.004983
-    id: ckf5ljo3tptpf0j23xmey1kti
+    followers: 7673
+    engagement: 336
+    commentsToLikes: 0.075170
+    id: ck6tu51hqeceu0j71c993uk4t
     verified: false
-    hashtags: "#raghavjuyal, #dharmeshsir, #danceplus5, #dance"
-  - username: "daisypolesquirrel"
+    hashtags: "#flexyfriday, #lanasalinha, #poleflow, #poledancerbr"
+  - username: "camille_bobbis"
     fullname: >-
-      Daisy
+      Camille
     bio: >-
-      🐀🐀🐿 Pole, Dance, Fashion, Contortion BA @fableticseu @pushandpole @dragonflybrand @hence_stacks Discounts in my highlights DM me for collabs
+      ☆Would rather be on stage☆ Instructor @bobbispolestudioperth 4x Miss Pole Dance WA WA Pole Champion 2017& 2019 Felix Cane Pole Champion 2016
     location: "India"
-    followers: 49298
-    engagement: 84
-    commentsToLikes: 0.027662
-    id: ck55psuoebayi0i11vqhwmvza
+    followers: 3107
+    engagement: 825
+    commentsToLikes: 0.057558
+    id: ck138jgssgis40i19zpjsiui5
     verified: false
-    hashtags: "#brunette, #athleticgirls, #ballet, #calisthenics"
-  - username: "nandini3maharaj"
+    hashtags: "#bobbisboudoir, #pdspincombination, #homeworkouts, #bobbispolestudioperth"
+  - username: "evaninja"
     fullname: >-
-      Nandini Maharaj
+      EvanNinja
     bio: >-
-      Ye sarkari account nahi hai Teacher, dancer Civil servant in training GS + History Optional strategy available at Unacademy
+      🌟Calisthenics/Obstacle Training/Acroyoga 🌟Freediving/Skiing 🌟Overall fitness enthusiast & traveller 🌏Sydney, Australia Youtube⏬⏬
     location: "India"
-    followers: 46239
-    engagement: 1811
-    commentsToLikes: 0.010677
-    id: ck15sojmue1ee0i1923u1i66l
+    followers: 31619
+    engagement: 147
+    commentsToLikes: 0.352511
+    id: ckf5tq9xaig930j23pba9hcwu
     verified: false
-    hashtags: "#covid, #throwback, #upsc, #delhi"
-  - username: "star_dance_club88"
+    hashtags: "#plyometricsexercise, #legdayworkout, #mensfitness, #bodyweightexercises"
+  - username: "dancefloorgeneva"
     fullname: >-
-      STAR DANCE CLUB
+      Dancefloor
     bio: >-
-      Admin -@mr_expert_123 DM📩 promo My dream 100k cross 💃 💃 dance lover I love 💃dance
+      Official Insta of the million followers page - Dancefloor - Sharing place for inspirational dance https://lc.cx/Pxz6 To be featured: #DancefloorGva
     location: "India"
-    followers: 90997
-    engagement: 569
-    commentsToLikes: 0.007346
-    id: ck5znmhbhoqsz0i14aiag5up9
+    followers: 203461
+    engagement: 201
+    commentsToLikes: 0.013089
+    id: ck14gnwim65vz0i196lqeceqs
     verified: false
-    hashtags: "#ballerinanailshape, #ballerina, #flexible, #ballet"
-  - username: "baddraa"
+    hashtags: "#bestdance, #porte, #hiphopdance, #jazzdance"
+  - username: "kiangupta"
     fullname: >-
-      Baddraa
+      Kian
     bio: >-
-      Circus Performer Specialized in Fire & Flow Art , Object Manipulation , Hulahoop Based in Goa
+      Dancer | Choreographer | Performer | DM for Collaborations/Bookings! 📍Mumbai
     location: "India"
-    followers: 16905
-    engagement: 451
-    commentsToLikes: 0.024025
-    id: ck8tcbtnlyz2u0j78q7d9j6pu
+    followers: 7338
+    engagement: 642
+    commentsToLikes: 0.061900
+    id: ck602oruric4y0i141dic2j3t
     verified: false
-    hashtags: "#doublehoops, #flowartist, #fire, #hulahoop"
-  - username: "muskan_upadhyay_._"
+    hashtags: "#model, #tb, #fit, #lfl"
+  - username: "dancers_production_"
     fullname: >-
-      CHOCOLATE MOMOS 🐼
+      Dance Promotion
     bio: >-
-      ख़ुद की तलाश🕉️ उम्र 20+साल🚺 DM me for paid collaboration 📬
+      Use #dancers_production DM TO PROMOTE YOUR VIDEOS🎉 2ND ACCOUNT @dancers_production01 🌈 TURN ON POST NOTIFICATION🔔 FOR DONATION CLICK THE LINK BELOW👇🏻
     location: "India"
-    followers: 3861
-    engagement: 1687
-    commentsToLikes: 0.241177
-    id: ck6uewm0cthr50j7152d44fwt
+    followers: 263485
+    engagement: 286
+    commentsToLikes: 0.006376
+    id: ck15s91mrbu9i0i19rog8hspx
     verified: false
-    hashtags: "#latepost, #model, #instafood, #instagram"
-  - username: "queensbolly"
-    fullname: >-
-      👸🏻 𝓠𝓾𝓮𝓮𝓷𝓼 𝓞𝓯 𝓑𝓸𝓵𝓵𝔂𝔀𝓸𝓸𝓭 👸🏻
-    bio: >-
-      𝐏𝐞𝐫𝐬𝐢𝐚𝐧 𝐅𝐚𝐧 🙋🏻‍♀️💜ᵀʰⁱˢ ᵃᶜᶜᵒᵘⁿᵗ ⁱˢ ⁿᵒⁿ⁻ᵖʳᵒᶠⁱᵗ, ᴬˡˡ ᵖᵒˢᵗˢ ᵃʳᵉ ᶜᵒᵖʸʳⁱᵍʰᵗ ᵗᵒ ᵗʰᵉⁱʳ ʳᵉˢᵖᵉᶜᵗⁱᵛᵉ ᵒʷⁿᵉʳˢ. ᴵᶠ ʸᵒᵘ ʷᵒᵘˡᵈ ˡⁱᵏᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ʳᵉᵐᵒᵛᵉᵈ ᵖˡᵉᵃˢᵉ ᴰᴹ ᵐᵉ.
-    location: "India"
-    followers: 141122
-    engagement: 352
-    commentsToLikes: 0.006739
-    id: ck0vxmqpnzocb0i19yxock6rc
-    verified: false
-    hashtags: "#kajol, #preityzinta, #nickjonas, #amitabhbachchan"
+    hashtags: "#fypage, #reelsinstagram, #dancersofinstagram, #dance"
 ---

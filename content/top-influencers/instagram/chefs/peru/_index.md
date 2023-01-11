@@ -1,57 +1,57 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Peru In 2022
+title: Top 10 Chefs Instagram Influencers In Peru In 2023
 description: >-
-  Find top chefs Instagram influencers in Peru in 2022. Most popular hashtags: #peru #comidaperuana #cuarentena.
+  Find top chefs Instagram influencers in Peru in 2023. Most popular hashtags: #peru #lima #cuarentena.
 platform: Instagram
-hits: 17
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 17 Instagram influencers like this in Peru for you to contact.
+hits: 14
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 14 Instagram influencers like this in Peru for you to collaborate.
 profiles:
-  - username: "placeresculpososblog"
+  - username: "carlosfonsecaof"
     fullname: >-
-      Magda Pérez G.
+      Carlos Fonseca
     bio: >-
-      🍔Food Blogger a punto de volverse chef 📍Lima 📍Trujillo 📩 placeresculpososblog@gmail.com
+      Actor Conductor Cantante Chef Gerente Comercial @hnmpl_mx @lanaranjateatro y @perroamamemx Manager: @xumalin @mafaeam info@mafae.net
     location: "Peru"
-    followers: 15275
-    engagement: 582
-    commentsToLikes: 0.043245
-    id: ck9haxy7nejmw0j788nvfr17v
-    verified: false
-    hashtags: "#trujillo, #guiltypleasure, #instafood, #igersperu"
+    followers: 16008
+    engagement: 328
+    commentsToLikes: 0.037185
+    id: ckap5l41bc5vd0i78q11cjw9c
+    verified: true
+    hashtags: "#menstyle, #mensstyle, #actor, #photooftheday"
   - username: "diegomunozchef"
     fullname: >-
       Diego Munoz
     bio: >-
-      Peruvian Freerider Chef @atman.pe @lavikingaburger @cantinaperuana_lisboa @bravabodrum @morenabodrum @restaurant_pmy https://youtu.be/o15MOTYI_x0
+      Peruvian Chef 👉@3gatos.pe @thebodrumedition @publichotels @lavikingaburger @tiyapuy_foods @cantina.peruana @refettoriolima
     location: "Peru"
-    followers: 29426
-    engagement: 176
-    commentsToLikes: 0.031029
+    followers: 31374
+    engagement: 157
+    commentsToLikes: 0.031388
     id: ck0udwdf5k1050i193xrt2z71
     verified: false
-    hashtags: "#volverproject, #volverencuarentena, #cuarentena, #lacasadetodos"
-  - username: "healthy_pleasure"
+    hashtags: "#cuarentena, #tbt, #food, #healthyfood"
+  - username: "nassir_abad"
     fullname: >-
-      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
+      Nassir Abad
     bio: >-
-      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
+      cocinero 🔪 | peruano 🇵🇪 sobre mí, y sobre lo que cocino 🧨 trabajo en MAIDO Restaurante 🍥 chef en @punk_npez 🦈 Lima, Perú📍
     location: "Peru"
-    followers: 55493
-    engagement: 195
-    commentsToLikes: 0.100407
-    id: ck5zlrnnbl9gc0i14k1khb4zx
-    verified: true
-    hashtags: "#plantbasedrecipe, #nutricion, #plantbased, #healthypleasure"
+    followers: 3576
+    engagement: 804
+    commentsToLikes: 0.062975
+    id: ck9wde3ksf89r0j782o3cckzu
+    verified: false
+    hashtags: "#2021, #saborperuano, #cocinaencasa, #medioambiente"
   - username: "thedaarick28"
     fullname: >-
       Daarick💢
     bio: >-
       YOUTUBER, STREAMER, EMPRESARIO, ESCRITOR, CANTANTE, ACTOR, CHEF, MÚSICO, DIRECTOR, GUIONISTA, PRODUCTOR, EDITOR Y POR LAS TARDES SOY BATMAN :V
     location: "Peru"
-    followers: 87369
-    engagement: 2225
-    commentsToLikes: 0.028038
+    followers: 88705
+    engagement: 2251
+    commentsToLikes: 0.027874
     id: ck5zpxsr0tk1p0i14vfge9e7r
     verified: false
     hashtags: ""
@@ -59,72 +59,72 @@ profiles:
     fullname: >-
       Chime 🥑
     bio: >-
-      🇵🇪 Escribo sobre colores, una pelirroja, chefs, un cantante, libros dentro de libros y una abeja. Y cuando no, soy @chimewho_. Mi tienda @hanaqstore ✨
+      🇵🇪 Escribo sobre colores, una pelirroja, chefs, un cantante, libros dentro de libros y una abeja. Y cuando no, soy @chimewho_. @countervillebooks
     location: "Peru"
-    followers: 18273
-    engagement: 705
-    commentsToLikes: 0.020400
+    followers: 22774
+    engagement: 639
+    commentsToLikes: 0.033563
     id: ck0w4233qwf6r0i194ttr1luq
     verified: false
-    hashtags: "#novacasaeditorial, #leyendoanova, #proyectolma, #vierneslma"
+    hashtags: ""
+  - username: "healthy_pleasure"
+    fullname: >-
+      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
+    bio: >-
+      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
+    location: "Peru"
+    followers: 58358
+    engagement: 137
+    commentsToLikes: 0.113241
+    id: ck5zlrnnbl9gc0i14k1khb4zx
+    verified: true
+    hashtags: "#dieta, #foodfight, #healthy, #peru"
   - username: "chef.timour"
     fullname: >-
       Timour Ghoneim
     bio: >-
-      De 🇫🇷 a📍Lima 🇵🇪 para comer : #ComidaPeruana Graduado culinario @ferrandiparis ⬇️🌍Mis vídeos de recetas🌎⬇️
+      De 🇫🇷 a📍Lima 🇵🇪 Graduado culinario @ferrandiparis ⬇️🌍Para pedir mis platos fusion🇵🇪⬇️ WhatsApp: 922 616 873 y website:
     location: "Peru"
-    followers: 46780
-    engagement: 465
-    commentsToLikes: 0.072986
+    followers: 48263
+    engagement: 335
+    commentsToLikes: 0.054533
     id: ck5hrn34lv57h0i113nxlkzp5
     verified: false
-    hashtags: "#tlayuda, #comidaperuana, #cevicheperuano, #polloalaparmesana"
+    hashtags: "#cheftimour, #darkkitchencheftimour, #darkkitchentimour, #cheftimourcomidafusion"
   - username: "peruvianknife"
     fullname: >-
       Guillermo Velásquez
     bio: >-
-      @lecordonbleuparis Alumni 👨🏽‍🍳 Asesor de Restaurantes🍴 Envíame un DM 📨 © 2020 📸
+      Asesorías, Food Styling @lecordonbleuparis Alumni 👨🏽‍🍳 © 2021 📸
     location: "Peru"
-    followers: 26284
-    engagement: 215
-    commentsToLikes: 0.088128
+    followers: 28450
+    engagement: 258
+    commentsToLikes: 0.084589
     id: ck6u1dtj2l53v0j71xjqfg5hc
     verified: false
-    hashtags: "#buzzfeedfood, #reel, #foodporn, #peruviancuisine"
+    hashtags: "#peru, #igersperu, #lima, #comidaperuana"
   - username: "raes_official"
     fullname: >-
       Raes
     bio: >-
       
     location: "Peru"
-    followers: 37946
-    engagement: 207
-    commentsToLikes: 0.039159
+    followers: 36954
+    engagement: 224
+    commentsToLikes: 0.038108
     id: ck1386rileraf0i19qa2k48xn
     verified: false
-    hashtags: "#musica, #peru, #pronto, #cuarentena"
-  - username: "ignaciobaladan"
+    hashtags: "#raes, #musica, #curaentera, #cuarentena"
+  - username: "nuria_fergo"
     fullname: >-
-      Iɢɴᴀᴄɪᴏ Bᴀʟᴀᴅᴀɴ
+      NURIA FERGÓ
     bio: >-
-      🍰🅟🅐🅢🅣🅡🅨 🅒🅗🅔🅕 🇺🇾🇵🇪 🎂@pasteleriaignaciobaladan 🍫Nueva marca @munani.ib 📩baladanignacio@gmail.com 🤪TikTok ignaciobaladan11 Mi canal You tube⬇️
+      🎤Cantante 🎭 Actriz Gira 2020-21. Piano y Voz. www.nuriafergo.es infonuriafergo@gmail.com
     location: "Peru"
-    followers: 2274705
-    engagement: 86
-    commentsToLikes: 0.021167
-    id: ck0tzewsaq4440i19s57cqocb
+    followers: 225104
+    engagement: 170
+    commentsToLikes: 0.026295
+    id: ck5c5zfau4fey0i110o1bhfd7
     verified: true
-    hashtags: "#publicidad, #energydrink, #bangenergy, #mejoratum"
-  - username: "copenhagen_foodie"
-    fullname: >-
-      Peter Atzen
-    bio: >-
-      Foodlover who will travel the World for excepcional food and does so as often as possible. 📌 Lima (Peru)
-    location: "Peru"
-    followers: 47228
-    engagement: 267
-    commentsToLikes: 0.019036
-    id: ck15sv0ezextg0i19rqo0144a
-    verified: false
-    hashtags: "#simplisticfood, #restaurantfood, #gourmetfoods, #gastronomylover"
+    hashtags: "#nuriaferg, #concierto, #dxstreaming, #concierto2021"
 ---

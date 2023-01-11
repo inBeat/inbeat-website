@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Austin In 2022
+title: Top 10 Fitness TikTok Influencers In Austin In 2023
 description: >-
-  Find top fitness TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #fitness #foryou #duet.
+  Find top fitness TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #fitness #workout #foryou.
 platform: TikTok
-hits: 62
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 62 TikTok influencers like this in Austin, United States for you to work with.
+hits: 79
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 79 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "officialaustindunham"
+  - username: "austinpratt_fitness"
     fullname: >-
-      Austin Dunham
+      Austin Pratt
     bio: >-
-      Follow the gram 👆🏾 (No fitness content here) 🙃 Biz: austin@dulcedo.com
+      👆Follow my Instagram 👆 ⚡️Personal Trainer⚡️ 💪Keep fit with me💪
     location: "United States"
-    followers: 284900
-    engagement: 1338
-    commentsToLikes: 0.019895
-    id: ck8qe3xbgqxhg0j78ukzma218
-    verified: true
-    hashtags: "#halloween2020, #brysontiller, #routine, #abs"
+    followers: 102500
+    engagement: 809
+    commentsToLikes: 0.012712
+    id: ckbbun5dzi49k0j23jhsz31l2
+    verified: false
+    hashtags: ""
   - username: "lobos_austintx_realtor"
     fullname: >-
       Neil
     bio: >-
       Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
     location: "United States"
-    followers: 5672
-    engagement: 1732
-    commentsToLikes: 0.284642
+    followers: 8366
+    engagement: 1508
+    commentsToLikes: 0.131951
     id: ckbatpudxkb4z0j23681zq86x
     verified: false
-    hashtags: "#whatsyourpower, #randomthings, #thisisbliss, #friends"
-  - username: "austineguia"
+    hashtags: "#marines, #welcome2021, #bucee, #smile"
+  - username: "officialaustindunham"
     fullname: >-
-      Austin Eguia
+      Austin Dunham
     bio: >-
-      IG @austineguia 90s Kid
+      Follow the gram 👆🏾 (No fitness content here) 🙃 📍 FL Biz: austin@dulcedo.com
     location: "United States"
-    followers: 45700
-    engagement: 631
-    commentsToLikes: 0.033758
-    id: ck9shj2pytnj50j781mrzc20m
-    verified: false
-    hashtags: "#weightloss, #duet, #fyp, #bodybuilder"
-  - username: "austink90"
+    followers: 383600
+    engagement: 1130
+    commentsToLikes: 0.015539
+    id: ck8qe3xbgqxhg0j78ukzma218
+    verified: true
+    hashtags: "#miami, #teamdunham, #nobeardfilter, #itsourhome"
+  - username: "gingersnapsburlesque"
     fullname: >-
-      Austin
+      Ginger Snaps
     bio: >-
-      29 || NC Insta || austinkight
+      Burlesque, Aerials, Shenanigans! Voted Austin's Best Burlesque 2016, 17, 18, 19!
     location: "United States"
-    followers: 7117
-    engagement: 620
-    commentsToLikes: 0.041579
-    id: ckdng3kv6hqb30j23alyzfqcd
+    followers: 29500
+    engagement: 2066
+    commentsToLikes: 0.062451
+    id: cka0hc8568o5r0i780n85oio6
     verified: false
-    hashtags: "#foryourpage, #couplecomedy, #foryou, #america"
+    hashtags: "#aerialist, #plussizedancer, #curvy, #fitness"
   - username: "jesse_moat"
     fullname: >-
       Jesse James
     bio: >-
       Miami 🏄🏻‍♂️ Travel content • Fitness • Action sports
     location: "United States"
-    followers: 173500
-    engagement: 1547
-    commentsToLikes: 0.005272
+    followers: 169200
+    engagement: 1292
+    commentsToLikes: 0.022153
     id: ck80ofdlvhida0j78l66i5sov
     verified: false
-    hashtags: "#fyp, #swim, #vacation, #exuma"
-  - username: "missjeannine"
+    hashtags: "#fyp, #bahamas, #fy, #skateboarding"
+  - username: "bigfukit"
     fullname: >-
-      Nene
+      Austin
     bio: >-
-      22 | Austin, Tx📍 Owner of Nine Collections✨
+      Traveling welder Most important people call me daddy 🥺😍 Snap- austin_mayhem23
     location: "United States"
-    followers: 18600
-    engagement: 1362
-    commentsToLikes: 0.021559
-    id: ckbkx2gdesyfq0j23x5ypx5ig
+    followers: 10400
+    engagement: 1388
+    commentsToLikes: 0.033873
+    id: ckbasqexajc5f0j23z6og6mcn
     verified: false
-    hashtags: "#zodiac, #showupshowoff, #couple, #greenscreenvideo"
-  - username: "happyfitkatie"
+    hashtags: "#isthisavailable, #mystyle, #dayinmylife, #homemade"
+  - username: "austineguia"
     fullname: >-
-      Katie Johnson
+      Austin Eguia
     bio: >-
-      21 • OH happiness, fitness & self love 🌼🏋🏻‍♀️✨
+      NPC Competitor IG @austineguia 90s Kid
     location: "United States"
-    followers: 111400
-    engagement: 1334
-    commentsToLikes: 0.009347
-    id: ckavmng8mwmgh0j238lx2zo36
+    followers: 46100
+    engagement: 546
+    commentsToLikes: 0.052917
+    id: ck9shj2pytnj50j781mrzc20m
     verified: false
-    hashtags: "#bodypositivity, #loveurbody, #selflove, #loveyourbody"
-  - username: "leahgruberfit"
+    hashtags: "#foryou, #duet, #tiktokggt, #gymtok"
+  - username: "quentin_lifestyle"
     fullname: >-
-      Leah Gruber
+      user6302021312954
     bio: >-
-      IG @leahgruber Fitness 💪 Golf ⛳️ Aerial 🎪 Leahgruberfit@gmail.com
+      🧬Aesthetics | Athletics | Health 💪Fitness Coach 1 on 1 coaching⬇️
     location: "United States"
-    followers: 1200000
-    engagement: 599
-    commentsToLikes: 0.012193
-    id: ck83z3n2ixf150j78y4lnqvse
-    verified: true
-    hashtags: "#golf, #hellofall, #golftiktok, #dayinmylife"
+    followers: 77200
+    engagement: 814
+    commentsToLikes: 0.014625
+    id: ck8nazjdi7law0j78fq8nxq9j
+    verified: false
+    hashtags: "#health, #aesthetics, #lifting, #fyp"
+  - username: "_fefa__"
+    fullname: >-
+      Fefa
+    bio: >-
+      I’m your Big Sis 🥰🇵🇷 Fitness Guides available ❤️
+    location: "United States"
+    followers: 323000
+    engagement: 1097
+    commentsToLikes: 0.019164
+    id: ckcozpzreakyg0j23uhmjyncn
+    verified: false
+    hashtags: "#fittips, #greenscreen, #greenscreensticker, #stitch"
   - username: "juliandaigre"
     fullname: >-
       Julian Daigre
     bio: >-
       Fitness | Flips | Fun IG: @juliandaigre
     location: "United States"
-    followers: 151000
-    engagement: 809
-    commentsToLikes: 0.007291
+    followers: 203700
+    engagement: 602
+    commentsToLikes: 0.007118
     id: ckdnjfmiviroo0j236l0r4kn6
     verified: true
-    hashtags: "#strong, #love, #flips, #workout"
-  - username: "kingpinsla"
-    fullname: >-
-      Kingpinsla
-    bio: >-
-      EYE CANDY 🍭 IN BIO
-    location: "United States"
-    followers: 590600
-    engagement: 730
-    commentsToLikes: 0.032523
-    id: ckan3zs5c7prc0i7844t0d6u0
-    verified: false
-    hashtags: "#beard, #foryourpage, #sunga, #sweat"
+    hashtags: "#foryou, #viral, #workout, #handstand"
 ---

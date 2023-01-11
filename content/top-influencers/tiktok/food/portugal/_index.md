@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Portugal In 2022
+title: Top 10 Food TikTok Influencers In Portugal In 2023
 description: >-
-  Find top food TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #foryou #portugal #viral.
+  Find top food TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #portugal #foryou #fy.
 platform: TikTok
-hits: 11
+hits: 13
 text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 11 TikTok influencers like this in Portugal for you to collaborate.
+text_bottom: Our search engine aggregates 13 TikTok influencers like this in Portugal for you to work with.
 profiles:
   - username: "crank_lauren"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Pole. Food. Travel. Life. 🌎 Follow us on insta @polewithaview☝️🙌☺️
     location: "Portugal"
-    followers: 8142
-    engagement: 1217
-    commentsToLikes: 0.014654
+    followers: 8025
+    engagement: 1192
+    commentsToLikes: 0.013366
     id: ckb9ofa5zisjr0j239xi50zs3
     verified: false
-    hashtags: "#portugal, #fyp, #foryoupage, #polefitnessgirl"
+    hashtags: "#fyp, #polefitnessgirl, #poledancing, #passion"
   - username: "rissoisecroquetes"
     fullname: >-
       Rissois e Croquetes
     bio: >-
       hi! Rissois and Croquetes to everyone!
     location: "Portugal"
-    followers: 3882
-    engagement: 1229
-    commentsToLikes: 0.006727
+    followers: 3826
+    engagement: 1185
+    commentsToLikes: 0.006601
     id: cka0fwep31lgf0i78yejo6x8n
     verified: false
-    hashtags: "#foodsurgery, #coronavirus, #childhood, #fy"
+    hashtags: "#fyp, #childhood, #90s, #secretdrawer"
   - username: "diana13martins"
     fullname: >-
       Diana Martins
     bio: >-
       Instagram: @diana13martins
     location: "Portugal"
-    followers: 46200
-    engagement: 324
-    commentsToLikes: 0.012695
+    followers: 64700
+    engagement: 378
+    commentsToLikes: 0.010255
     id: ckdhdlft2wo490j23l8wvr9qr
     verified: false
-    hashtags: "#fyp, #beauty, #bread, #asmr"
-  - username: "nathalea15"
-    fullname: >-
-      Nathália
-    bio: >-
-      🍋 insta 🍋 💫pessoal= @amaronathi 🎨 minha lojinha de arte= @amaroartt
-    location: "Portugal"
-    followers: 112000
-    engagement: 1638
-    commentsToLikes: 0.070742
-    id: ckb0pwyxrfqfk0j2386o2q9f5
-    verified: false
-    hashtags: "#desenho, #desenhosnostalgicos, #disneyart, #ipaddrawing"
-  - username: "sestay"
-    fullname: >-
-      Maria Inês
-    bio: >-
-      SIGAM-ME NO INSTAGRAM come and fly with me 🦋 //PORTUGAL//
-    location: "Portugal"
-    followers: 49000
-    engagement: 1956
-    commentsToLikes: 0.018456
-    id: ckcj5oqwb5u5u0j23zb7g25ai
-    verified: false
-    hashtags: "#viral, #vlogsestay, #minivlog, #foryou"
+    hashtags: "#satisfat, #foryoupage, #cute, #fy"
   - username: "_andrezzanascimento_"
     fullname: >-
       Andrezza Nascimento
     bio: >-
       🇧🇷Eu brinco, mas também falo sério🇵🇹
     location: "Portugal"
-    followers: 12900
-    engagement: 869
-    commentsToLikes: 0.048861
+    followers: 12700
+    engagement: 867
+    commentsToLikes: 0.047666
     id: ckbfca0ut51440j23p8jgaifi
     verified: false
-    hashtags: "#comedia, #desabafo, #foryou, #coronavirus"
+    hashtags: "#fyp, #comedia, #tiktokbrasil, #brasil"
+  - username: "marianaabastos"
+    fullname: >-
+      🌸 ß∆ƧƬΘS 🌸
+    bio: >-
+      Mandem mensagem no instagram para conversarmos ! 👆🏻
+    location: "Portugal"
+    followers: 88700
+    engagement: 2472
+    commentsToLikes: 0.012554
+    id: ckcvjjvdsx04d0j23d7nkytfg
+    verified: false
+    hashtags: "#pub, #portugal, #fyp, #foryou"
+  - username: "eden_hamill"
+    fullname: >-
+      Eden Hamill
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 𝐅𝐨𝐥𝐥𝐨𝐰 𝐦𝐲 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ✨𝑩𝑬 𝑫𝑰𝑭𝑭𝑬𝑹𝑬𝑵𝑻 ✨
+    location: "Portugal"
+    followers: 8216
+    engagement: 1122
+    commentsToLikes: 0.051433
+    id: ckb9sgk4spq7e0j23fj2ynqnb
+    verified: false
+    hashtags: "#lipsync, #friends, #fyp, #duet"
+  - username: "andreabiancak"
+    fullname: >-
+      Andrea Krișan
+    bio: >-
+      Andrea Krisan 🎀🌹 25 🌹 balanță ♎ Instagram-> andreakrisan
+    location: "Portugal"
+    followers: 13300
+    engagement: 561
+    commentsToLikes: 0.104379
+    id: ckbeyf4xfiy8l0j23a7xoy84f
+    verified: false
+    hashtags: "#funny, #pentrutinepage, #cat, #fyp"
   - username: "monicaspassport"
     fullname: >-
       Mónica Moreira
     bio: >-
       The best thing you can do is travel ❤ Find more on instagram @monicaspassport
     location: "Portugal"
-    followers: 23400
-    engagement: 338
-    commentsToLikes: 0.032249
+    followers: 23100
+    engagement: 346
+    commentsToLikes: 0.033028
     id: ckcphb1prhftr0j231wf32yt6
     verified: false
-    hashtags: "#travel, #tiktoktravel, #vietnam, #hanoi"
-  - username: "brunorangelnaves"
+    hashtags: "#hanoitrainstreet, #portugal, #tiktoktravel, #vietnam"
+  - username: "mafalda_teixeira"
     fullname: >-
-      BRUNO RANGEL
+      Mafalda Teixeira
     bio: >-
-      Rumo aos 4K 🔥🔥🔥 siga-me no Instagram @brunoo_rangel
+      Atriz, Mãe e Empresária que se vai divertir aqui ;)
     location: "Portugal"
-    followers: 4024
-    engagement: 509
-    commentsToLikes: 0.041709
-    id: ckdnnj47jk0450j23uefc6i6n
+    followers: 354500
+    engagement: 1726
+    commentsToLikes: 0.011334
+    id: ck9gsj7a9iolh0j78a1gkbqaw
     verified: false
-    hashtags: "#trend, #smile, #bloper, #foryou"
-  - username: "inesvalbento"
+    hashtags: "#fun, #trend, #kapinha, #dance"
+  - username: "yolanda.tati"
     fullname: >-
-      Inês Val Bento
+      Yolanda Tati
     bio: >-
-      Follow me on IG 📸👆🏻 IG: inesvalbento Model
+      Radio & TV Host 🌟🌈🤠 Content creator w/ an Engineering Degree 🇵🇹🇦🇴🇮🇹🇧🇷
     location: "Portugal"
-    followers: 164400
-    engagement: 663
-    commentsToLikes: 0.008410
-    id: ckbl4sedb29l30j23zao71zoz
-    verified: false
-    hashtags: "#boat, #couple, #fashion, #holidays"
-  - username: "trainermiguel24"
-    fullname: >-
-      Sérgio Miguel Melo
-    bio: >-
-      
-    location: "Portugal"
-    followers: 78900
-    engagement: 327
-    commentsToLikes: 0.011355
-    id: ck9feix4tt6kr0j78wnl46uk0
-    verified: false
-    hashtags: "#tiktokchallenge, #business, #funny, #challenge"
+    followers: 108000
+    engagement: 1302
+    commentsToLikes: 0.011312
+    id: ckbqjiqm24mre0j23fpxmyclc
+    verified: true
+    hashtags: "#fy, #viral, #angola, #stayhome"
 ---

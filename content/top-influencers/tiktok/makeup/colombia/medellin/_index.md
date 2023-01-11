@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Medellín In 2022
+title: Top 10 Makeup TikTok Influencers In Medellín In 2023
 description: >-
-  Find top makeup TikTok influencers in Medellín in 2022. Most popular hashtags: #makeup #parati #colombia #trend.
+  Find top makeup TikTok influencers in Medellín in 2023. Most popular hashtags: #makeup #parati #challenge #dance.
 platform: TikTok
-hits: 6
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 6 TikTok influencers like this in Medellín, Colombia for you to work with.
+hits: 5
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 5 TikTok influencers like this in Medellín, Colombia for you to pitch.
 profiles:
-  - username: "yeissonsblog"
-    fullname: >-
-      YeissonSblog
-    bio: >-
-      📍Colombia 🇨🇴 Reinas 👸🏻 Reinados 👑 Humor 🤣 sígueme en instagram ⏬⬇️
-    location: "Colombia"
-    followers: 13700
-    engagement: 722
-    commentsToLikes: 0.055540
-    id: ckb9lg9pmdy9k0j23v6ha3gjo
-    verified: false
-    hashtags: "#missuniversecolombia, #missuniverse, #colombia, #misscolombia"
-  - username: "andrealondu"
-    fullname: >-
-      andrealondu
-    bio: >-
-      📍Medellín /Colombia Piensa,sueña,cree y atrévete💫
-    location: "Colombia"
-    followers: 136500
-    engagement: 1586
-    commentsToLikes: 0.023975
-    id: ckbf3878mqqq80j23dxjx3ya6
-    verified: false
-    hashtags: "#trending, #colombia, #fly, #foryou"
-  - username: "andreaquinterousu"
-    fullname: >-
-      🍒  Andrea Q 🖤
-    bio: >-
-      Colombia/Medellín 🇨🇴🍒 Acá encontrarás de todo un poco 🎶🐶🐱😜🖤
-    location: "Colombia"
-    followers: 27400
-    engagement: 462
-    commentsToLikes: 0.054136
-    id: ckb9lp6swebqz0j23jyy9misx
-    verified: false
-    hashtags: "#viral, #peliroja, #greenscreen, #fyp"
-  - username: "missbarbieken"
-    fullname: >-
-      LaBarbieKenEsa
-    bio: >-
-      Bisexual, bicultural con voz de pito 🏳️‍🌈🇪🇦🇨🇴 Mi meta es hacerte sonreír ❤
-    location: "Colombia"
-    followers: 293400
-    engagement: 2431
-    commentsToLikes: 0.012426
-    id: ckd6wjkteseja0j23xe9zejkg
-    verified: false
-    hashtags: "#makeup, #reaccion, #bisexual, #bi"
-  - username: "soykatte"
-    fullname: >-
-      ❤️🧡💛 KATTE 💛🧡❤️
-    bio: >-
-      Quiero llegar a 10k en Instagram para poder decir: “desliza hacia arriba” 💗💗
-    location: "Colombia"
-    followers: 177500
-    engagement: 570
-    commentsToLikes: 0.012822
-    id: ckb98brjrrmsc0j230ecgt3c9
-    verified: false
-    hashtags: "#blusas, #outfits, #storytime, #makeup"
-  - username: "luuisrocha"
-    fullname: >-
-      🧿Luuis Rocha 🧿
-    bio: >-
-      Modelo🚶🏾‍♂️ ❤️ Bienvenidos a mi caja de juguetes 🧸
-    location: "Colombia"
-    followers: 55200
-    engagement: 1125
-    commentsToLikes: 0.010119
-    id: ckav6ec7id5wk0j23r7za5iu5
-    verified: false
-    hashtags: "#modelo, #modeling, #model, #colombia"
-  - username: "alejomooon"
-    fullname: >-
-      Alejo Moon 🌙
-    bio: >-
-      Makeup Artist ✨ ¿400k? 👉🏻👈🏻 Sígueme en Instagram @Alejomooon 🥺
-    location: "Colombia"
-    followers: 367300
-    engagement: 2445
-    commentsToLikes: 0.008720
-    id: ckcvh9bbxtxhe0j23bf6ryuse
-    verified: true
-    hashtags: "#destacame, #parati, #makeup, #foryou"
   - username: "chyo_00"
     fullname: >-
       chyo_00
     bio: >-
-      🇨🇴🇮🇱 💃lin Makeup artist former dancer
+      🇨🇴🇮🇱lin Dance Diseño a la medida Swimwear /trajes de noche makeup @l_diva_
     location: "Colombia"
-    followers: 3748
-    engagement: 487
-    commentsToLikes: 0.083228
+    followers: 3729
+    engagement: 418
+    commentsToLikes: 0.113865
     id: ckbl4z8br2cbi0j23lnm7cd29
     verified: false
-    hashtags: "#4youpage, #duet, #dance, #4you"
-  - username: "alejandrasaboogal"
+    hashtags: "#historiastiktok, #duet, #ejerciciosasiaticos, #makeupcolombiano"
+  - username: "_lulu99"
     fullname: >-
-      Aleja Sabogal
+      Lulu99
     bio: >-
-      𝒴𝒶 𝓆𝓊𝑒 𝓁𝓁𝑒𝑔𝒶𝓈𝓉𝑒 𝓉𝑒 𝓆𝓊𝑒𝒹𝒶𝓈!! 🤍 makeup & Tips 💕
+      18 años ❤️ Medellín - Colombia 🇨🇴 📩 business: contacto@lulu99.com
     location: "Colombia"
-    followers: 15800
-    engagement: 822
-    commentsToLikes: 0.049641
-    id: ckbr394j4jqsr0j23js51tmhx
+    followers: 7400000
+    engagement: 1818
+    commentsToLikes: 0.020029
+    id: ckb1bygb20nbh0j23v28nh6od
+    verified: true
+    hashtags: "#lulu99, #challenge, #viral, #comedia"
+  - username: "nickimakeup1"
+    fullname: >-
+      Niickii31 
+    bio: >-
+      📍Colombia 📍 Instagram @Nickimakeup1 Sígueme y te sigo 👆🏼 ¿50K🎨💕
+    location: "Colombia"
+    followers: 46000
+    engagement: 1710
+    commentsToLikes: 0.051402
+    id: ckbboz7kgcwqr0j23877fq3l9
     verified: false
-    hashtags: "#parati, #fyp, #makeup, #trend"
+    hashtags: "#makeup, #fyp, #yosoycreador, #maquillaje"
+  - username: "soykatte"
+    fullname: >-
+      ❤️🧡💛 KATTE 💛🧡❤️
+    bio: >-
+      💫🌟🌟💫
+    location: "Colombia"
+    followers: 213900
+    engagement: 524
+    commentsToLikes: 0.010779
+    id: ckb98brjrrmsc0j230ecgt3c9
+    verified: false
+    hashtags: "#challenge, #blusas, #outfits, #storytime"
+  - username: "leidyardila9"
+    fullname: >-
+      Leidy Ardila
+    bio: >-
+      colombiana 🇨🇴 Instagram: leidyardila9 YouTube: Leidy Ardila fanpage 👇
+    location: "Colombia"
+    followers: 91800
+    engagement: 521
+    commentsToLikes: 0.034577
+    id: ckciv89zm0pvm0j23omwkbt6k
+    verified: false
+    hashtags: "#ni, #parati, #tiktok, #libertad"
+  - username: "makeupwandre"
+    fullname: >-
+      Andrea Arbeláez
+    bio: >-
+      19✨ 🇨🇴 ig:@makeupwandre she/her 📩business: makeupwandre@gmail.com
+    location: "Colombia"
+    followers: 91900
+    engagement: 2565
+    commentsToLikes: 0.027736
+    id: ckbardpqgi0yw0j23gs026r0d
+    verified: false
+    hashtags: "#breakingbad, #fyp, #makeup, #fy"
+  - username: "alejomooon"
+    fullname: >-
+      Alejo Moon 🌙
+    bio: >-
+      Makeup Artist 🇨🇴 He/Him ¿1M? 😱 Sígueme en Instagram @Alejomooon 🥺
+    location: "Colombia"
+    followers: 953100
+    engagement: 1844
+    commentsToLikes: 0.012152
+    id: ckcvh9bbxtxhe0j23bf6ryuse
+    verified: true
+    hashtags: "#crueltyfree, #drag, #parati, #challenge"
+  - username: "chyo_00"
+    fullname: >-
+      chyo_00
+    bio: >-
+      🇨🇴🇮🇱lin Dance Diseño a la medida Swimwear /trajes de noche makeup @l_diva_
+    location: "Colombia"
+    followers: 3729
+    engagement: 418
+    commentsToLikes: 0.113865
+    id: ckbl4z8br2cbi0j23lnm7cd29
+    verified: false
+    hashtags: "#historiastiktok, #duet, #ejerciciosasiaticos, #makeupcolombiano"
   - username: "circymoreno"
     fullname: >-
       Circy Moreno
     bio: >-
-      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ Nonolive @circy
+      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ @dejavuteamdance
     location: "Colombia"
-    followers: 15600
-    engagement: 1614
-    commentsToLikes: 0.031401
+    followers: 15700
+    engagement: 1659
+    commentsToLikes: 0.024371
     id: cka0q66t1bftm0i78cykwip6q
     verified: false
-    hashtags: "#viral, #backdoor, #straykids, #parati"
+    hashtags: "#kpop, #twice, #jhope, #kpopdance"
+  - username: "pautips"
+    fullname: >-
+      Paula Galindo 
+    bio: >-
+      Paula Galindo Amo el makeup 💕 INSTAGRAM: Pautips YOUTUBE:Pautips #PaulaMakeup
+    location: "Colombia"
+    followers: 1800000
+    engagement: 1505
+    commentsToLikes: 0.004570
+    id: cka6jg0y6ukp30i78is0htb05
+    verified: true
+    hashtags: "#fyp, #makeup, #sugardaddypautips, #pautips"
 ---

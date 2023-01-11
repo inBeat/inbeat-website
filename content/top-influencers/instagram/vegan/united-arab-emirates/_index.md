@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Vegan Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top vegan Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #vegan #plantbased #veganrecipes #healthyfood.
+  Find top vegan Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #mydubai #vegan #dubai #love.
 platform: Instagram
-hits: 33
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 33 Instagram influencers like this in United Arab Emirates for you to pitch.
+hits: 21
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 21 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "joyfulhomecooking"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       👩🏻‍🍳Happy, healthy cooking in my Dubai kitchen 😋Beautiful food that puts a smile on your face 💗Gluten, dairy & sugar free |Vegan |Paleo 🍴Food stylist
     location: "United Arab Emirates"
-    followers: 56330
-    engagement: 411
-    commentsToLikes: 0.298926
+    followers: 71920
+    engagement: 308
+    commentsToLikes: 0.077204
     id: ck138wefhicbv0i19f898cdo1
     verified: false
-    hashtags: "#instasweets, #bakersofinstagram, #justdesserts, #veganinspo"
-  - username: "hala_shares"
+    hashtags: "#veganinspo, #thenewhealthy, #plantbased, #foodporn"
+  - username: "peacelovenegin"
     fullname: >-
-      Hala Jay | Vegan Food Blogger
+      Negin
     bio: >-
-      🌱 Sharing #Vegan meal ideas 🍜 Easy and healthy recipes ⛭ Tag @hala_shares to get featured!! 👇 Click to join @abillionveg app
+      Negin,A Girl Who Travels & Plays techno Producer |Sound Artist Brand Director of @pioneerdjtr 📩 peacelovenegin@gmail.com 5 languages Vegan 🌱🥗 🔜🇦🇪🇹🇷🇵🇱
     location: "United Arab Emirates"
-    followers: 16292
-    engagement: 1553
-    commentsToLikes: 0.105645
-    id: ckaow98km7wul0i784ulz7xl5
+    followers: 129741
+    engagement: 185
+    commentsToLikes: 0.150806
+    id: ck6uarfnp57gv0j7153gqs3c0
     verified: false
-    hashtags: "#govegan, #veganbowl, #veganfood, #glutenfree"
+    hashtags: "#balilife, #beatsteppro, #technomusic, #travelling"
   - username: "rinkipamnani3"
     fullname: >-
       R I N K Y   P A M N A N I
     bio: >-
       -. --- .-- 📍Dubai | #Vegan 🌱 ☕️Tea Lover 🆕 YOUTUBE 👇🏻 💌 Pamnanirinky@gmail.com
     location: "United Arab Emirates"
-    followers: 58080
-    engagement: 239
-    commentsToLikes: 0.070548
+    followers: 118702
+    engagement: 118
+    commentsToLikes: 0.079389
     id: ck5zoa9uxq3vu0i14jaioszy6
     verified: false
-    hashtags: "#ootd, #fashion, #lifestyle, #love"
-  - username: "clairesharrynroberto"
+    hashtags: "#beauty, #mydubai, #love, #hotairballoon"
+  - username: "myprdiaries"
     fullname: >-
-      PLANT-BASED ⋆ Vegan Chef
+      Bijal Soni
     bio: >-
-      recipe + food design + consultant⠀ top 100 vegan influencer 2020 🏆⠀ certified nutrition coach⠀ ayurveda⠀ #cookingwithclaire 👇⠀ dubai-cape town-paris
+      Head, Social & Community @shopsivvi Ex @namshi Partner @feyrejewelry @hala_social Happiness. Travel. Wellness. Vegan soul 🌱 Dubai 🇦🇪
     location: "United Arab Emirates"
-    followers: 20852
-    engagement: 252
-    commentsToLikes: 0.058285
-    id: ck6tuzgzdjb7u0j718zu46nk3
+    followers: 32024
+    engagement: 52
+    commentsToLikes: 0.057880
+    id: ck5zkobbvjuka0i14irrhdgkl
     verified: false
-    hashtags: "#plantbasedlifestyle, #plantbasedchefdubai, #plantbasednutrition, #refinedsugarfree"
-  - username: "dominicnowellbarnes"
+    hashtags: "#dubaiblogger, #mindset, #quoteoftheday, #travelblogger"
+  - username: "bilalmehsen"
     fullname: >-
-      Dominic Nowell-Barnes
+      BILAL  MEHSEN
     bio: >-
-      ✨ Positive Energy Sharer 🙇🏻‍♂️ Deep Thinker 📚 Personal Developer ☪️ Convert 🌱Vegan 🇦🇪 Dubai Purpose: ❤️🌟⚡️ @thegivingmovement
+      📍DUBAI PASSIONATE ABOUT LUXURY BRANDS , STYLE , TRAVEL & FITNESS LIFE.
     location: "United Arab Emirates"
-    followers: 438805
-    engagement: 105
-    commentsToLikes: 0.022035
-    id: ck6u9iybbxtz10j710k0w71z5
+    followers: 27725
+    engagement: 449
+    commentsToLikes: 0.120846
+    id: ckap8o2cpp7650i78j964gf3u
     verified: false
-    hashtags: ""
-  - username: "chefsilvena"
+    hashtags: "#birkenstocknaturalskincare, #styled, #dubai, #fit"
+  - username: "odia_uae_foodie"
     fullname: >-
-      Chef Silvena Rowe  🇦🇪روح دبي1
+      Subhasree - Dubai Blogger
     bio: >-
-      silvena.rowe@yahoo.com GLOBAL MASTERCHEF JUDGE &BIOHACKING VEGAN @nassau.ae 🇦🇪 AL BOTANICA 🇦🇪OMNIA 🇦🇪 MIDDLE EAST POWER TOP 1️⃣0️⃣CHEFS
+      Telecom Engg - day ☀️.. Dubai 🇦🇪 Blogger- night 🌃 FoodPhotography: Nikon📸 DM👉#collab #invites Zomato :CONNOISSEUR ❤️
     location: "United Arab Emirates"
-    followers: 128012
-    engagement: 249
-    commentsToLikes: 0.010140
-    id: ck15pjdkay6c70i19788fp4in
+    followers: 7086
+    engagement: 1151
+    commentsToLikes: 0.126242
+    id: ckapbuv291d250i78cedndv6a
     verified: false
-    hashtags: "#uaefitnessmovement, #vegans, #foodporn, #chefsofinstagram"
-  - username: "lama_gharaibeh"
-    fullname: >-
-      Lama F Gharaibeh
-    bio: >-
-      I find joy in cooking and baking, turning every meal with family and friends into a celebration 🎊! Mumzworld discount code (LamaG10)❤️
-    location: "United Arab Emirates"
-    followers: 17168
-    engagement: 382
-    commentsToLikes: 0.250161
-    id: ck5hrufivvhzo0i11rl3ujv6r
-    verified: false
-    hashtags: "#beautifulcuisines, #dubaifood, #goodfood, #uaefoodbloggers"
+    hashtags: "#dubaifoodblogger, #fa, #food, #dubai"
   - username: "oatsandthyme"
     fullname: >-
       ＭＡＨＡ M K
     bio: >-
       Stories from my home 🌴 ⠀⠀⠀⠀ 🌿 90% PLANT-BASED 🧘🏻‍ WELLBEING 〰 MINIMALIST LOVER 🍵 TEAHOLIC 👸🏻 Founder @pinkygoatlashes 📍 DUBAI, UAE
     location: "United Arab Emirates"
-    followers: 108413
-    engagement: 123
-    commentsToLikes: 0.083969
+    followers: 111735
+    engagement: 130
+    commentsToLikes: 0.108186
     id: ckaouu1p71tl90i78bhyqkgb1
     verified: false
-    hashtags: "#cookwithme, #healthyrecipe, #prettyfood, #oatsandthyme"
-  - username: "ritupamnani"
+    hashtags: "#dubaifood, #teawithmaha, #oatsandthyme, #avocado"
+  - username: "cookingwithralph"
     fullname: >-
-      RITU ♐︎
+      UAE Blogger - Ralph
     bio: >-
-      Welcome to my perfectly Imperfect life 🌸 #fashion #beauty #lifestyle I make youtube videos 🤓 🖊ritupamnani.rp@gmail.com
+      Food Blogger PN1 Certified Restaurants & Product Review Invites/Collabs: admin@cookingwithralph.com Zomato @cookingwithralph Dubai, U.A.E.
     location: "United Arab Emirates"
-    followers: 50956
-    engagement: 415
-    commentsToLikes: 0.077717
-    id: ck0w1oxxgkex90i19i7ufsj63
+    followers: 22033
+    engagement: 250
+    commentsToLikes: 0.003959
+    id: ckf5nufsszq450j23yrgr1jov
     verified: false
-    hashtags: "#luxurystyle, #dubaistyle, #styleinspo, #visitdubai"
-  - username: "nidasbeautybag"
+    hashtags: "#foodstagram, #foodlover, #foodgram, #photooftheday"
+  - username: "satisfieddubai"
     fullname: >-
-      Nida Arshad
+      Satisfied Dubai
     bio: >-
-      📍Dubai #dubai🇦🇪 💋Creative Makeup 📩 nidaarshad@live.com for collaborations Use code ‘NIDA’ to save $ @ttd_eye lenses Other Account @livewithnida
+      I’m not an influencer! I’m just a greedy foodie who loves taking & sharing lots of 📸’s 😂 CONTENT CREATOR | FOODIE 🍲 🌎 🍴 Facebook, Snapchat & Tiktok
     location: "United Arab Emirates"
-    followers: 42071
-    engagement: 393
-    commentsToLikes: 0.195084
-    id: ck5bxldlvny3o0i113hngxmmk
+    followers: 85686
+    engagement: 88
+    commentsToLikes: 0.044555
+    id: ck0w6dtjx83wz0i194pxlzyjs
     verified: false
-    hashtags: "#hudabeauty, #ttdeye, #facepaintcom, #muaholics"
+    hashtags: "#dubairestaurants, #dubaimall, #trendingreels, #satisfieddubai"
+  - username: "themandarinegirl"
+    fullname: >-
+      Daisy🍷 Travel & Lifestyle
+    bio: >-
+      Mykonos🔜Mallorca, Cannes
+    location: "United Arab Emirates"
+    followers: 98145
+    engagement: 267
+    commentsToLikes: 0.112523
+    id: ck8taf4vmri8n0j78xrm9fxeo
+    verified: false
+    hashtags: "#bohostyle, #bohofashion, #munich, #ootd"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Argentina In 2022
+title: Top 10 Home Decor Instagram Influencers In Argentina In 2023
 description: >-
-  Find top home decor Instagram influencers in Argentina in 2022. Most popular hashtags: #homedecor #deco #home #decoracion.
+  Find top home decor Instagram influencers in Argentina in 2023. Most popular hashtags: #homedecor #decoracion #deco #home.
 platform: Instagram
-hits: 39
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 39 Instagram influencers like this in Argentina for you to pitch.
+hits: 46
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 46 Instagram influencers like this in Argentina for you to work with.
 profiles:
-  - username: "karolinesmode"
+  - username: "mamiandchic"
     fullname: >-
-      Carolina Berro Madero
+      Patricia
     bio: >-
-      Fashion Stylist 🏹 Karolinesmode@gmail.com
+      D e c o & l i f e s t y l e | Mom | Traveling by motorhome | 🚍🗺️ patricia.gr@live.com | ✍🏼 Madrid |
     location: "Argentina"
-    followers: 92177
-    engagement: 402
-    commentsToLikes: 0.233231
-    id: ck6ti9kmg0aqj0j710ytmk41b
+    followers: 38561
+    engagement: 277
+    commentsToLikes: 0.101610
+    id: ck13d04n730810i19u6xbye0l
     verified: false
-    hashtags: "#look, #ootd, #homedecor, #interiordesign"
-  - username: "hachezhome"
-    fullname: >-
-      Clara Houssay - Hachez
-    bio: >-
-      ✨Comparto tips deco, ideas, mi casa ✨Decoradora, asesoramiento online ✨Realizo tapices ✨Estilismo marcas ✨Mama de balta, moda. #lifestyle #deco
-    location: "Argentina"
-    followers: 56153
-    engagement: 602
-    commentsToLikes: 0.478968
-    id: ck8sz3iryn19x0j783zb82cmu
-    verified: false
-    hashtags: "#dise, #interior, #inspiration, #fyp"
+    hashtags: "#reforma, #cabincrew, #snow, #homedecoration"
   - username: "magnolias.decoblog"
     fullname: >-
       𝐌𝐀𝐆𝐍𝐎𝐋𝐈𝐀𝐒 | Deco Blog
     bio: >-
       Soy Luz 👋🏼 .̴.̴.̴.̴.̴.̴.̴.̴.̴.̴.̴.̴.̴ •Ideas para tu Hogar 🏡 •LifeStyle •Recetas 🥨 📍Bs. As
     location: "Argentina"
-    followers: 41265
-    engagement: 300
-    commentsToLikes: 0.143923
+    followers: 40845
+    engagement: 273
+    commentsToLikes: 0.141897
     id: ck14k3u0onlpe0i19u7e8gsin
     verified: false
-    hashtags: "#deco, #tendenciasdecoracion, #home, #tendencias"
-  - username: "soyamodecasa"
-    fullname: >-
-      Amo de casa®
-    bio: >-
-      Mi vida como amo de casa 🏡 hola@soyamodecasa.com.ar ✉
-    location: "Argentina"
-    followers: 276831
-    engagement: 196
-    commentsToLikes: 0.205660
-    id: ck5qatd3zi59n0i114l3drpuq
-    verified: true
-    hashtags: "#foodie, #amodecasa, #limpiar, #comida"
+    hashtags: "#deco, #rustico, #decora, #vintage"
   - username: "lorenapedace"
     fullname: >-
       Lorena Pedace ✨ Lifestyle Deco
     bio: >-
       ▫️En Obra, compartiendo mucha info! ▫️Decoración ▫️Recetas #lorenapedaceobra #lorenapedacerecetas
     location: "Argentina"
-    followers: 59540
-    engagement: 234
-    commentsToLikes: 0.099892
+    followers: 70518
+    engagement: 222
+    commentsToLikes: 0.072239
     id: ck6tv897kkqj90j71nbypnwef
     verified: false
-    hashtags: "#construccion, #baking, #kitchenlove, #homedecor"
-  - username: "mamiandchic"
+    hashtags: "#kitchendesign, #sunnyislesbeach, #playa, #viajes"
+  - username: "home_py_deco"
     fullname: >-
-      P a t r i c i a
+      ~ PY ~ Deco & Home
     bio: >-
-      D e c o & l i f e s t y l e | 🛋️ Mom | Conociendo mundo en autocaravana|🌍🚍 Madrid | patricia.gr@live.com | 📩
+      ✨Decolover y Plantlover 🌱 ❕Trucos y Tips 🛠️ Antes y después 💸 Buscachollos 👇🏼Descuentos y más en destacados 👇🏼
     location: "Argentina"
-    followers: 36132
-    engagement: 222
-    commentsToLikes: 0.097577
-    id: ck13d04n730810i19u6xbye0l
+    followers: 24312
+    engagement: 319
+    commentsToLikes: 0.132926
+    id: ck9wef9qbjzsl0j78amb8zt7w
     verified: false
-    hashtags: "#compartemistilowesting, #lagom, #nordicroom, #recibidor"
-  - username: "trinidadre"
+    hashtags: "#ba, #decorideas, #decoration, #hogarydecoracion"
+  - username: "juntashacemos"
     fullname: >-
-      TRINIDAD REINA
+      Agus Garcia Darwich
     bio: >-
-      ⚡️SI YO PUEDO, VOS PODES⚡️ TV Host 🎬 DISCOVERY H&H ⚡️Arquitecta⚡️Diseñadora arquitecta@trinidadreina.com para trabajar juntos.
+      Bienvenidas, acá vas a encontrar: .Tutoriales que te pueden servir o no .Buena onda y compañía Contacto: juntashacemos@gmail.com Mar del Plata, Arg
     location: "Argentina"
-    followers: 75603
-    engagement: 155
-    commentsToLikes: 0.223004
-    id: ckap9bfikryur0i78rb2gx1ul
+    followers: 97360
+    engagement: 192
+    commentsToLikes: 0.342582
+    id: ck5q4vlmbqe370i118dnyxecr
     verified: false
-    hashtags: "#diydecor, #homedesign, #kitchendesign, #diy"
-  - username: "_myfuntime"
+    hashtags: "#decoracioninteriores, #madera, #weber, #decohome"
+  - username: "elmundodecam"
     fullname: >-
-      My Fun Time
+      El Mundo De Cam
     bio: >-
-      Vicky Mi mundo handmade. Restauración de muebles. Venta de objetos en hierro, papel y macramé. #elclubdelastijeras #happinessishandmade Córdoba ARG.
+      Entre Trapos & Purpurina! 💖 Descubriendo la vida adulta en una casita rosada. 💖 Tips para hacerte la vida en casa más fácil! 📍Asu - Py
     location: "Argentina"
-    followers: 53364
-    engagement: 161
-    commentsToLikes: 0.069216
-    id: ck5chis8dqut50i11rypw1usc
+    followers: 34684
+    engagement: 190
+    commentsToLikes: 0.142991
+    id: ck5chkdyvqxzw0i110gojz47u
     verified: false
-    hashtags: "#happinessishandmade, #onmytable, #macramelove, #craftlover"
-  - username: "asiestudio"
+    hashtags: "#homedecor, #decohogar, #vday, #orden"
+  - username: "helsyflores"
     fullname: >-
-      ˗ ˏˋ así estudio ˎˊ˗
+      Helsy Flores 🌙
     bio: >-
-      ⋮ ⚖️ graduada en derecho | #lawgraduate
+      From another time, or another world. 🍰 Recetas en @creativaalsarten ✨ Magia en @whimsicalwitch_ 🗺 Viajes en @helsyflorestravel 🛸 Conspiraciones en:
     location: "Argentina"
-    followers: 5105
-    engagement: 952
-    commentsToLikes: 0.016191
-    id: ck8tb0bclttto0j78mzra0poj
+    followers: 25710
+    engagement: 358
+    commentsToLikes: 0.060962
+    id: ck6uhcd8u8av30j716rgyzlmk
     verified: false
-    hashtags: ""
-  - username: "guillerminamacetasdecoradas"
+    hashtags: "#ootd, #homedecor, #snow, #outfit"
+  - username: "atelier.botanico"
     fullname: >-
-      Guillermina macetas decoradas
+      ATELIER BOTÁNICO®
     bio: >-
-      🌎 Viedma, RN Argentina 🇦🇷 👩‍🎨Pinto macetas , muebles y objetos de madera 🚚Envíos a todo el país ♻️ "Todo me sirve, nada se pierde, yo lo transformo"
+      🌻Soy Flor ~siempre con las #manosenlatierra VIVERO BOUTIQUE | DECO | WORKSHOPS 🌱 tips&cuidados #ateliertips 📍De martes a domingos de 14 a 20hs
     location: "Argentina"
-    followers: 3254
-    engagement: 693
-    commentsToLikes: 0.143795
-    id: ck15tq3egjc7u0i19dlyxxfbm
+    followers: 55290
+    engagement: 110
+    commentsToLikes: 0.054877
+    id: ck6tmszyi8h6p0j71c7hvvigx
     verified: false
-    hashtags: "#macetas, #matespintados, #decohome, #pinos"
+    hashtags: "#terrarios, #home, #verdevida, #green"
+  - username: "hachezhome"
+    fullname: >-
+      Clara Houssay - Decoradora
+    bio: >-
+      INTERIORISMO & LIFESTYLE •ideas deco para tu casa •mi dia a día y el de balta •de todo un poco: moda - deco Hachezhome@gmail.com
+    location: "Argentina"
+    followers: 96844
+    engagement: 149
+    commentsToLikes: 0.288278
+    id: ck8sz3iryn19x0j783zb82cmu
+    verified: false
+    hashtags: "#livingroom, #inspohome, #myhome, #reelitfeelit"
+  - username: "rielamericano"
+    fullname: >-
+      RIELAMERICANO (página oficial)
+    bio: >-
+      Somos la compañía 🇦🇷 líder en #cortinas a medida. Nos impulsa la Pasión por la Calidad, desde 1967 y por mucho más. Sponsor de #casafoa y #estilopilar
+    location: "Argentina"
+    followers: 28121
+    engagement: 705
+    commentsToLikes: 0.484275
+    id: ck13a8hvpp5dj0i19a6nnmiaz
+    verified: false
+    hashtags: "#cortinas, #quedateencasa, #homedecor, #design"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In India In 2022
+title: Top 10 Yoga Instagram Influencers In India In 2023
 description: >-
-  Find top yoga Instagram influencers in India in 2022. Most popular hashtags: #yoga #ad #yogaeveryday #instayoga.
+  Find top yoga Instagram influencers in India in 2023. Most popular hashtags: #reelitfeelit #reelsinstagram #reels #reelsindia.
 platform: Instagram
-hits: 603
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 603 Instagram influencers like this in India for you to collaborate.
+hits: 555
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 555 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "marijose.sole"
+  - username: "debasreee"
     fullname: >-
-      🧚‍♀️Maria Jose Solé
+      Debasree Banerjee
     bio: >-
-      ☀️Busco amaneceres 🕉🧘🏻‍♀️Miss de Yoga @sole.yoga_ #YTT200 ✨💖✨ Amar servir y recordar 👁✨👁 DESPIERTA 🦋👄🦋 Me puedes decir Majiko ✨✨✨♉️♒️ 📍🇲🇽300k TikTok
+      Loves yoga and graphic liners Shop @debasreeebeauty here 👇🏻
     location: "India"
-    followers: 29601
-    engagement: 487
-    commentsToLikes: 0.064557
-    id: ck9ha0tmmaqna0j7877ob42io
+    followers: 306757
+    engagement: 58
+    commentsToLikes: 0.018447
+    id: ck0twcyjeey0t0i190kk2ans1
+    verified: true
+    hashtags: "#myntrainsider, #matrixcolormelt, #healthyskin, #myntraeors"
+  - username: "yogasini"
+    fullname: >-
+      Radhika Bose | Fitness
+    bio: >-
+      Not Just Yoga Fitness |Travel | Lifestyle Blogger TEDx Speaker 💌: yogasini.01@gmail.com
+    location: "India"
+    followers: 600698
+    engagement: 58
+    commentsToLikes: 0.024457
+    id: ckap995vsromn0i78szvfz9yr
+    verified: true
+    hashtags: "#indiantravelblogger, #igdaily, #fitnessmotivation, #reelkarofeelkaro"
+  - username: "offeriko"
+    fullname: >-
+      𝙊𝙛𝙛𝙚𝙧𝙞𝙠𝙤 𝙂𝙚𝙙𝙖𝙣𝙠𝙚𝙣 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧
+    bio: >-
+      Sport, Dance, Yoga & Acro Photographer Mod: @gramoftheday Teach: @ig_galitz
+    location: "India"
+    followers: 6051
+    engagement: 1167
+    commentsToLikes: 0.181361
+    id: ck5hiw73sfknb0i11gmks4141
     verified: false
-    hashtags: "#holareels, #aprendeyoga, #diadelosmuertos, #flores"
+    hashtags: "#all, #acro, #streetworkout, #acroyoga"
+  - username: "nishaflora_"
+    fullname: >-
+      Jaspreet Kaur
+    bio: >-
+      Mann neeva, maat uchi ੴ Fashion | Beauty | Lifestyle 💃🏻💄👛 Coder 👩‍💻 Yoga teacher 🧘‍♀️ Indian rapunzel 🎀 For collabs, please DM or email
+    location: "India"
+    followers: 25353
+    engagement: 497
+    commentsToLikes: 0.100202
+    id: ck13bmp96w62t0i19rycvump0
+    verified: false
+    hashtags: "#delhiblogger, #whiteheels, #reelitfeelit, #delhifashion"
+  - username: "angeliqueteo"
+    fullname: >-
+      Angelique Nicolette Teo
+    bio: >-
+      Radio Presenter on @onefm913 Earth Hour Ambassador @earthhourofficial Plant-based 🌱 Since 2019 Daily 🧘 Yoga-Practicer
+    location: "India"
+    followers: 18596
+    engagement: 474
+    commentsToLikes: 0.114962
+    id: ck5hnkcnnnxiw0i11iok283vh
+    verified: false
+    hashtags: "#veganlifestyle, #sp, #plantbasedlife, #fridayvibes"
+  - username: "myredsabbatical"
+    fullname: >-
+      Marcela | Travel, Yoga, Nature
+    bio: >-
+      🛩 Traveller, adventurer, solopreneur 🌱 Founder @nayavita_yoga and @mynayavita
+    location: "India"
+    followers: 7213
+    engagement: 1168
+    commentsToLikes: 0.485032
+    id: ck6tv7bb8kkwj0j71yjlgj1xf
+    verified: false
+    hashtags: "#motheranddaughtergoals, #hotmom, #travelmoments, #bepresent"
+  - username: "oliya_2104"
+    fullname: >-
+      Anusha Karmakar | Yoga Artist
+    bio: >-
+      Yoga | Contortion Managed by @the.social.median Email for collaborations Online classes ⬇️
+    location: "India"
+    followers: 88504
+    engagement: 706
+    commentsToLikes: 0.019191
+    id: ck5hqf41ct0cr0i11my7i7qs3
+    verified: false
+    hashtags: "#flexibilitytraining, #flexibilitychallenge, #urbanicsquad, #dressup"
+  - username: "campatafio"
+    fullname: >-
+      maternidad - yoga - veganismo
+    bio: >-
+      soy mamá de eloísa 🌿 #veganfamily esp. en ortodoncia @cerettiodontologia practico ashtanga vinyasa yoga embajadora @luleamindful
+    location: "India"
+    followers: 8529
+    engagement: 521
+    commentsToLikes: 0.143282
+    id: ck5zqimoyuo080i14va12f2vn
+    verified: false
+    hashtags: "#laserranita, #yogaeverydamnday, #seventhseries, #cordoba"
   - username: "missclassynova"
     fullname: >-
       Megha | India 🇮🇳
     bio: >-
-      #fashion #lifestyle #yoga
+      ~Lifestyle ~Beauty ~Fashion ~Yoga ~Travel #fashion #lifestyle #yoga #jaipur
     location: "India"
-    followers: 17702
+    followers: 18120
     engagement: 456
-    commentsToLikes: 0.111091
+    commentsToLikes: 0.079323
     id: ck8t2dx57z4920j78uqi4t8oc
     verified: false
-    hashtags: "#jaipur, #styleinfluencer, #lifestyle, #moodygrams"
-  - username: "nicolehuber90"
+    hashtags: "#poseoftheday, #poser, #whowhatwear, #ad"
+  - username: "komalchhikara1"
     fullname: >-
-      Nicole Huber
+      Komal Chhikara Rathi
     bio: >-
-      ☆Health & Nutrition Coach IIN® ⍙ Yoga Teacher RYT500 ♡Facilitadora del Sistema Isha® ≛Centro de Bienestar @c.u.m.a.n.a ♡Eco Life Encontrando libertad☆
+      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
     location: "India"
-    followers: 111964
-    engagement: 242
-    commentsToLikes: 0.096602
-    id: ck0u9t977altr0i191ky8lq95
-    verified: true
-    hashtags: "#novaseo, #temerecestodo, #ohyeah, #volveraloesencial"
-  - username: "naki.earth"
-    fullname: >-
-      Annachiara 🌿
-    bio: >-
-      🌿Happy soul~Yoga~Mother Nature~I talk with plants~LGBT~Content creator~Pharmacy Degree~World Traveller~In love with Life in all forms🌿
-    location: "India"
-    followers: 30789
-    engagement: 985
-    commentsToLikes: 0.019098
-    id: ck5pxylmmthrg0i11scerm36n
+    followers: 83159
+    engagement: 344
+    commentsToLikes: 0.013813
+    id: ck9hb43p6fbsm0j78er6ip0aq
     verified: false
-    hashtags: "#selflove, #italianplantcommunity, #amore, #earthling"
-  - username: "lukegraeber"
-    fullname: >-
-      LukeGraeber Yoga & Photography
-    bio: >-
-      🇭🇰HongKong 💸Was Accountant 🕉Now YogaTeacher 🌱Vegetarian ❤️️AcroYoga•Backbend•Handstand 🎶 Kirtan 📸Photographer 🧘‍♂️DM PrivateYoga or shoot
-    location: "India"
-    followers: 21769
-    engagement: 315
-    commentsToLikes: 0.112820
-    id: ck0u9m50pa2p20i19pi4th3f1
-    verified: false
-    hashtags: ""
-  - username: "devikamadhavananbu"
-    fullname: >-
-      Devika Madhavan Anbu 🧿
-    bio: >-
-      Actor | Dancer | Designer | Yoga Instructor | Explorer
-    location: "India"
-    followers: 58497
-    engagement: 449
-    commentsToLikes: 0.033125
-    id: ck14hn46ab5k50i192dt8kqia
-    verified: false
-    hashtags: "#sareelove, #sareeoftheday, #sareefashion, #devikamadhavananbu"
-  - username: "choudhary_hema"
-    fullname: >-
-      Hema Choudhary
-    bio: >-
-      Stories from my travel 🛣️⛽ Working @royalenfield #stephanian #yoga #basketball #climbing
-    location: "India"
-    followers: 13330
-    engagement: 1387
-    commentsToLikes: 0.017266
-    id: ck6ufd50swc4l0j71mk1znmk9
-    verified: false
-    hashtags: "#offroad, #indianarmy, #himalayan, #bikerchick"
-  - username: "shaghayoga"
-    fullname: >-
-      🌈Shaghayegh🌺
-    bio: >-
-      Yoga and Meditation instructor🧘‍♀️🤸‍♀️ Love nature🌱animals 🐾 dance 💃🏼 travel🧳 جهت کسب اطلاعات از كلاسهاى حضورى و آنلاين دايركت پيام دهيد 💌
-    location: "India"
-    followers: 4987
-    engagement: 1224
-    commentsToLikes: 0.062546
-    id: ck6uepafssadx0j71mfklexzv
-    verified: false
-    hashtags: "#yogagirl, #yogaeverymorning, #yogapose, #yogaeverywhere"
-  - username: "sonia.poledance"
-    fullname: >-
-      𝕊𝕠𝕟𝕚𝕒
-    bio: >-
-      ▶️ Tutoriales de Pole Dance 💛 Apasionada por el Pole Dance y el Yoga 🧘🏽‍♀️🕉 📍Granada, España
-    location: "India"
-    followers: 26008
-    engagement: 365
-    commentsToLikes: 0.044539
-    id: ck8t06vdyr0850j78ywww6ha9
-    verified: false
-    hashtags: "#poledancetutorials, #poleaddict, #poledancetutorial, #alcalalareal"
-  - username: "estefgodoy"
-    fullname: >-
-      Estefania Godoy
-    bio: >-
-      Asesora de alimentación holistica -Énfasis en Salud del INTESTINO Alimentos que me nutren: cocinar, familia, el campo, yoga, la maternidad
-    location: "India"
-    followers: 346971
-    engagement: 295
-    commentsToLikes: 0.018337
-    id: ck5pvbcnjh1vq0i111vg8vpvw
-    verified: false
-    hashtags: "#confinados, #retorecetasconverduras, #familiareal, #alimentoreal"
+    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
 ---

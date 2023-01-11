@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Australia In 2022
+title: Top 10 Music Instagram Influencers In Australia In 2023
 description: >-
-  Find top music Instagram influencers in Australia in 2022. Most popular hashtags: #kozhikode #canonphotography #kerala.
+  Find top music Instagram influencers in Australia in 2023. Most popular hashtags: #ootd #musician #musicvideo.
 platform: Instagram
-hits: 520
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 520 Instagram influencers like this in Australia for you to contact.
+hits: 293
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 293 Instagram influencers like this in Australia for you to contact.
 profiles:
-  - username: "katemillerheidke"
+  - username: "savannah.clarke"
     fullname: >-
-      Kate Miller-Heidke
+      S A V A N N A H ➕ C L A R K E
     bio: >-
-      Music.
+      🇦🇺@nowunited KCA 💥 Aussie/ Kiwi Legend of the Year 2021 🙏🏼 - Uniters we landed this 1️⃣ together 😜 💥 Global Music Star nominated ⬇️CLICK BELOW⬇️
     location: "Australia"
-    followers: 58720
-    engagement: 313
-    commentsToLikes: 0.027215
-    id: ck0vztsd7av5n0i19df3gr8k9
-    verified: true
-    hashtags: "#liveandintimate, #fortitudemusichall, #childinreverse, #brisbane"
-  - username: "jordankmunns"
-    fullname: >-
-      Jordan Munns
-    bio: >-
-      📸 Freelance Creative 🖥 Editor / Creative Director @bestbefore.co 🎧 Music Man ✉️ Link with me ⇢ info@jordanmunns.com
-    location: "Australia"
-    followers: 8582
-    engagement: 1025
-    commentsToLikes: 0.088813
-    id: ck0tuas4z6d540i19vcp120l5
+    followers: 3942740
+    engagement: 292
+    commentsToLikes: 0.140672
+    id: ck14gj04u5gt20i19qqsabu3z
     verified: false
-    hashtags: "#lizzo, #fomo2020"
-  - username: "eliseecklund"
+    hashtags: "#teengirl, #fireengine, #livingthedream, #shoeshopping"
+  - username: "curlyhendo"
     fullname: >-
-      Elise Ecklund
+      C U R L Y
     bio: >-
-      I make music sometimes ✦ 2nd account: @eltrashcan
+      ✖️Musician ✖️Bass player 🎸🎹 ✖️Session/Touring Musician 🌎 ✖️Endorsed by: @alperiouspickguard @grbass_amps Any enquires please email me
     location: "Australia"
-    followers: 212640
-    engagement: 1135
-    commentsToLikes: 0.024227
-    id: ck1385l6jel6o0i19jf1uukt6
-    verified: true
-    hashtags: "#microsoftstorepartner"
+    followers: 11532
+    engagement: 1305
+    commentsToLikes: 0.042752
+    id: ck6tj6jy623uf0j71eak8m90p
+    verified: false
+    hashtags: "#sadowskybass, #69mustang, #curlyhendo"
+  - username: "mitchellblack78"
+    fullname: >-
+      Mitchell Black | SUSPYRIA
+    bio: >-
+      ◾️Lead Guitarist 🎸 @suspyria.official 🎶 ◾️Melbourne 🇦🇺 ◾️Music, Merch and Show dates 👇🎶
+    location: "Australia"
+    followers: 27321
+    engagement: 385
+    commentsToLikes: 0.115722
+    id: ck6twicsjs5mt0j711gtxwsse
+    verified: false
+    hashtags: "#bvbarmy, #metalfashion, #guitarsolo, #metal"
+  - username: "evolahsilassim"
+    fullname: >-
+      The Quantum Goddess 👑
+    bio: >-
+      ❤️🧡💛🏳️‍🌈💚💙💜 Music is the rhythm Art is the passion Life is our subject Personal: @missalishalove Back up: @evolahsilassim_backup ⬇️😇 EXTRAS 😈⬇️
+    location: "Australia"
+    followers: 60525
+    engagement: 305
+    commentsToLikes: 0.051706
+    id: ck5zwlhz66c2n0i14c0auu5to
+    verified: false
+    hashtags: "#sagittariusseason"
   - username: "iamsoundcheck"
     fullname: >-
       SOUNDCHECK
     bio: >-
-      🎧 #1 EDM DJ in 🇦🇺 ✈️ Touring Artist 🎶 Music Producer 📝 Songwriter ⬇️ Never Gonna Give You Up - OUT NOW ⬇️
+      🎧 #1 EDM DJ in 🇦🇺 ✈️ Touring Artist 🎶 Music Producer 📝 Songwriter ⬇️ Get On Up - OUT NOW ⬇️
     location: "Australia"
-    followers: 110429
-    engagement: 250
-    commentsToLikes: 0.089006
+    followers: 107928
+    engagement: 214
+    commentsToLikes: 0.119547
     id: ck6u6jdyjfxhx0j71qu74xe32
     verified: false
     hashtags: ""
-  - username: "shirinaholmatova"
+  - username: "jamie_tkalcevic"
     fullname: >-
-      Shirina🥀
+      Jamie Tkalcevic
     bio: >-
-      music chick
+      🌴 Travel - Film - Music 🌴 • Music: @torakai_music 🎶 Youtube: Jamie TK 📷 • Watch my new video here:
     location: "Australia"
-    followers: 32192
-    engagement: 480
-    commentsToLikes: 0.048381
-    id: ck5c0uq9ftvox0i11cnkzylg3
+    followers: 9822
+    engagement: 911
+    commentsToLikes: 0.054201
+    id: ck139bbmwkgd20i19w97zz19p
     verified: false
-    hashtags: "#resistir, #resistire"
-  - username: "captainkobler"
+    hashtags: ""
+  - username: "danielshawmusic"
     fullname: >-
-      Simon Kobler
+      DANIEL SHAW
     bio: >-
-      🥁 Drummer for Hillsong United @hillsongunited Musician cases @thelifeofbasal Drum samples @bottega.bottega
+      I sing and play piano 🎹 Follow for new music👇
     location: "Australia"
-    followers: 43350
-    engagement: 814
-    commentsToLikes: 0.016929
-    id: ck13ccakaznag0i1973w0j54y
+    followers: 71846
+    engagement: 188
+    commentsToLikes: 0.050928
+    id: ck5hqyd6cty100i11990du7bj
     verified: true
-    hashtags: "#blacklivesmatter, #churchonline, #hillsongunited, #georgefloyd"
-  - username: "iiiconicofficial"
+    hashtags: "#musicforlife, #melbourne, #musicianslife, #danielshaw"
+  - username: "jacintagee"
     fullname: >-
-      𝐢𝐢𝐢𝐂𝐎𝐍𝐈𝐂
+      Jacinta Gulisano (SINTA)
     bio: >-
-      🇬🇭🇦🇺 PROBLEMS (Music Video) OUT NOW MGMT: @cartel.management BOOKINGS: @luckyurbn
+      “Singfluencer” • ✌🏼The Voice 2018 #TeamDelta Live Finalist • 🎤LIVE MUSIC BOOKINGS 👉🏽@saintsoundentertainment • TikTok: sintasings STAX PSF CAMPAIGN👇🏼
     location: "Australia"
-    followers: 17458
-    engagement: 787
-    commentsToLikes: 0.066187
-    id: ck5zy9w2e9hoc0i14yxxf95h5
-    verified: false
-    hashtags: "#showtimechallenge, #4kmadness, #ends"
-  - username: "chaka_sean"
+    followers: 49012
+    engagement: 132
+    commentsToLikes: 0.062616
+    id: ck5c4mver1ocz0i11twv9d10c
+    verified: true
+    hashtags: "#sydneylivemusic, #livemusic, #ootd, #beforeandafter"
+  - username: "tawnykofficial"
     fullname: >-
-      ss powell
+      Tawny K 💋
     bio: >-
-      Art / Music / Life @therealsurfbort
+      Australian Singer/Songwriter New Music Coming in 2021 🎉
     location: "Australia"
-    followers: 11247
-    engagement: 964
-    commentsToLikes: 0.052852
-    id: ck5zqowfsv07c0i14xgcyptn1
+    followers: 34569
+    engagement: 139
+    commentsToLikes: 0.144295
+    id: ckap4tcug8sbq0i788w2t57ud
     verified: false
-    hashtags: "#cargoshorts, #haircut, #fashionblogger, #thankyou"
-  - username: "febin_rojesh_zion"
+    hashtags: "#reconnectthischristmas, #holidaymusic, #foryou, #fyp"
+  - username: "torilevett"
     fullname: >-
-      Febin Rojesh zion
+      Tori Levett
     bio: >-
-      💚 Ninja Kid..🏍️ Travelholic..🚗🚲 Explore..👣 Single..🚶 High Range Boy..👦 Music Lvr...🎶🎵🎧 Wish Me On March 5..🎂👑 📞8281097704
+      Making music n shit 🖤🇦🇺🎶 Torilevett@hotmail.com Tori@zooz.com.au
     location: "Australia"
-    followers: 5365
-    engagement: 1759
-    commentsToLikes: 0.068721
-    id: ck9wgmz3uu2ic0j78sqqo0l52
-    verified: false
-    hashtags: "#keralavibes, #keralam, #kerala360, #alappuzha"
-  - username: "jmillaofficial"
-    fullname: >-
-      BORN FOR THIS
-    bio: >-
-      🇦🇺Aboriginal [-o-] Australian 🇦🇺 🎙Rapper/songwriter📝 Music - Fashion - Culture Management: aum@aum.net.au Email: contact@jmilla.com.au
-    location: "Australia"
-    followers: 18560
-    engagement: 708
-    commentsToLikes: 0.036233
-    id: ck5zsqfztz03j0i14se5a061n
-    verified: false
-    hashtags: "#thebigsound50, #60k, #didgeridoo, #alwayswasalwayswillbe"
+    followers: 133490
+    engagement: 108
+    commentsToLikes: 0.046881
+    id: ck5c0znmyu5qg0i11suugfw4v
+    verified: true
+    hashtags: "#ad, #smirnoffseltzerpatyyard, #drinkresponsibly, #findyourquays"
 ---

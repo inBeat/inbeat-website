@@ -1,72 +1,108 @@
 ---
-title: Top 10 Cinema TikTok Influencers In United States In 2022
+title: Top 10 Cinema TikTok Influencers In United States In 2023
 description: >-
-  Find top cinema TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #foryoupage #funny.
+  Find top cinema TikTok influencers in United States in 2023. Most popular hashtags: #fyp #stitch #foryou #duet.
 platform: TikTok
-hits: 631
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 631 TikTok influencers like this in United States for you to contact.
+hits: 586
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 586 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "im.kxlxn"
-    fullname: >-
-      kylen
-    bio: >-
-      nineteen cinematics & memes ⬇️check this out⬇️
-    location: "United States"
-    followers: 35300
-    engagement: 2299
-    commentsToLikes: 0.065550
-    id: ck8s6qywiluvg0j782vmn2b25
-    verified: false
-    hashtags: "#collegegotmelike, #fyp, #emilyinparis, #razrfit"
   - username: "jerodyoung52"
     fullname: >-
       jerodyoung52
     bio: >-
       CEO of making things cinematic 👑 Joined Tik Tok: 5/4/20. Pueblo, Colorado 📍
     location: "United States"
-    followers: 7668
-    engagement: 2094
-    commentsToLikes: 0.077506
+    followers: 7741
+    engagement: 2173
+    commentsToLikes: 0.085825
     id: ckb9feawr3oef0j23arenp0vz
     verified: false
-    hashtags: "#mrtcc, #filmmaking, #fyp, #music"
+    hashtags: "#pueblocolorado, #filmmaking, #transitions, #music"
+  - username: "matte.boy"
+    fullname: >-
+      Matt
+    bio: >-
+      Presented in CinemaScope
+    location: "United States"
+    followers: 15500
+    engagement: 2042
+    commentsToLikes: 0.052670
+    id: ckafurqbibqv20i78mi94ihf8
+    verified: false
+    hashtags: "#duet, #lalaland, #stitch, #frankocean"
   - username: "thybamboozler"
     fullname: >-
       Dante 
     bio: >-
-      Bamboozler Athenaeum Cinematic videos Snap: Dante-188 Coolest Follower: You
+      Bamboozler Athenaeum Cinematic videos Snap: Dante-188
     location: "United States"
-    followers: 11900
-    engagement: 1605
-    commentsToLikes: 0.149735
+    followers: 12000
+    engagement: 1542
+    commentsToLikes: 0.160518
     id: ckbkk0i3pctor0j238ycxgy8i
     verified: false
-    hashtags: "#savetiktok, #hungergames, #bts, #film"
+    hashtags: "#film, #fyp, #anime, #filmtiktok"
   - username: "sheeshyams"
     fullname: >-
       Ashish Yamdagni
     bio: >-
       Follow 4 Cinematic brown content! Tiktok lives: Tues/Thurs 6:30pm EST
     location: "United States"
-    followers: 21900
-    engagement: 1418
-    commentsToLikes: 0.051397
+    followers: 30800
+    engagement: 1381
+    commentsToLikes: 0.055906
     id: ckblqhfwchx390j23blszu7yy
     verified: false
-    hashtags: "#indian, #bollywood, #srk, #chaibar"
+    hashtags: "#bollywood, #desi, #brown, #indian"
+  - username: "rymanwooten"
+    fullname: >-
+      Ryman Wooten
+    bio: >-
+      Cinematic Music Group Nashville TN sc: rymanwooten follow my ig-rymanwooten
+    location: "United States"
+    followers: 12100
+    engagement: 1352
+    commentsToLikes: 0.074990
+    id: ckck2svg5mdmx0j238qjb4cy0
+    verified: false
+    hashtags: "#foryou, #fyp, #songwriting, #singersongwriter"
   - username: "t_austin"
     fullname: >-
       Tyler Austin
     bio: >-
-      #TEAMTELLY 📸 Portrait Photographer/Cinematographer 🎥
+      📸 Portrait Photographer/Cinematographer 🎥 B.I.O.N.I.C. TEAM Single Dad Life
     location: "United States"
-    followers: 155600
-    engagement: 1206
-    commentsToLikes: 0.044115
+    followers: 351500
+    engagement: 1131
+    commentsToLikes: 0.047492
     id: ckb9ff2yd3ru30j23rl78p7wl
     verified: false
-    hashtags: "#momsoftiktok, #dadlife, #comedy, #dadsoftiktok"
+    hashtags: "#comedy, #kids, #parenting, #justforfun"
+  - username: "thequailandthedove"
+    fullname: >-
+      The Quail & The Dove
+    bio: >-
+      Cinematic & Unique Wedding Films Palm Springs, California and Beyond ✈️
+    location: "United States"
+    followers: 5504
+    engagement: 1111
+    commentsToLikes: 0.039827
+    id: ckavtagy761c90j23rd7p5g2z
+    verified: false
+    hashtags: "#weddingvideographer, #elope, #bride, #couplegoals"
+  - username: "beagledrones"
+    fullname: >-
+      Beagle Drones
+    bio: >-
+      Cinematic FPV Drones Built to Explore and Create🎥 🔻Check out our drones 🔻
+    location: "United States"
+    followers: 220200
+    engagement: 930
+    commentsToLikes: 0.028417
+    id: ck8hnehdcqhh70j78z2q61x7d
+    verified: false
+    hashtags: "#dronetok, #drone, #fpv, #fyp"
   - username: "ewalt_fpv"
     fullname: >-
       Ewalt_FPV
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.055171
     id: ck8hqy3gd6ckd0j781wm5vid0
     verified: false
-    hashtags: "#drone, #fly, #bangers, #christmas"
-  - username: "zyrken"
+    hashtags: "#christmas, #fpv, #fyp, #bangers"
+  - username: "shewolffilms"
     fullname: >-
-      zyrken
+      Emily Skye
     bio: >-
-      Pro parkour athlete and cinematographer. IG for photo & video content @zyrken
+      Writer| Director| Cinematographer @shewolffilms thanks for being here ♥️ is ♥️
     location: "United States"
-    followers: 39300
-    engagement: 615
-    commentsToLikes: 0.019136
-    id: ck7zoheqck2lb0j78bb9c4alp
-    verified: true
-    hashtags: "#crazy, #fyp, #parkour, #tiktok"
-  - username: "fulltimefilmmaker"
-    fullname: >-
-      Full Time Filmmaker
-    bio: >-
-      The Ultimate Online Film Course 🎥 10 Tips to Creating Cinematic Videos 👇🏼
-    location: "United States"
-    followers: 93200
-    engagement: 732
-    commentsToLikes: 0.008377
-    id: ck80cqtz0amgq0j78p89kqn60
+    followers: 164500
+    engagement: 644
+    commentsToLikes: 0.075697
+    id: ckbf3obs8rh5d0j23whlo1los
     verified: false
-    hashtags: "#filmmakers, #filmmaking, #foryoupage, #fyp"
-  - username: "eclipseevents"
-    fullname: >-
-      Eclipse Events
-    bio: >-
-      DJ, photo, cinema & production company based in NJ 🎤📸🎥 eclipseevents.com
-    location: "United States"
-    followers: 37600
-    engagement: 1055
-    commentsToLikes: 0.004599
-    id: ckbffuzscauf10j2358bydkc2
-    verified: false
-    hashtags: "#foryou, #weddingceremony, #love, #dj"
-  - username: "angelicabourland"
-    fullname: >-
-      angelicabourland
-    bio: >-
-      brazilian cinematographer🇧🇷🎥 Miami/LA🌴
-    location: "United States"
-    followers: 5735
-    engagement: 310
-    commentsToLikes: 0.025418
-    id: ck95z1z59cikl0j78dac894es
-    verified: false
-    hashtags: "#spiritual, #fyp, #meditate, #la"
+    hashtags: "#stitch, #trulyglowingselfielove, #dothescottsslide, #getreadywitholdspice"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Austin In 2022
+title: Top 10 Gardening Instagram Influencers In Austin In 2023
 description: >-
-  Find top gardening Instagram influencers in Austin in 2022. Most popular hashtags: #gardening #love #outdoors #garden.
+  Find top gardening Instagram influencers in Austin in 2023. Most popular hashtags: #gardening #garden #flowersmakemehappy #gardeninspiration.
 platform: Instagram
-hits: 7
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 7 Instagram influencers like this in Austin, United States for you to pitch.
+hits: 13
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 13 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "atxdadjay"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.049405
     id: ck9wehw9hkcgm0j78uhothk6n
     verified: false
-    hashtags: "#spring, #outdoors, #gayusa, #scruffy"
-  - username: "melisaclementdesigns"
+    hashtags: "#thebeardedway, #scruffy, #gayguy, #gaycute"
+  - username: "myplantcollection_"
     fullname: >-
-      Melisa Clement Designs
+      MY PLANT C O L L E C T I O N
     bio: >-
-      Austin high-end house flipping Featured on Bigger Pockets Best Deal Ever 23 SHOP OUR LOOK AT: www.amazon.com/shop/melisaclementdesigns WEBSITE/ BLOG:
+      C e c i l i a 🚲 Austin, TX Founder of @mylitttleplantshop
     location: "United States"
-    followers: 72239
-    engagement: 393
-    commentsToLikes: 0.030552
-    id: ck0ubt8mdfckp0i19rhp6n1cp
+    followers: 39563
+    engagement: 359
+    commentsToLikes: 0.031875
+    id: ck0w3g5ndt8cr0i19kepkrloi
     verified: false
-    hashtags: "#ggathome, #finditliveit, #inspotoyourhome, #idcoathome"
-  - username: "austinscott93"
+    hashtags: "#spilledink, #plantphotography, #plantporn, #tropicalplants"
+  - username: "millpoolbythesea"
     fullname: >-
-      Austin Scott
+      Millpool Home & Garden 🏡🌸
     bio: >-
-      I like deep talks and long walks 🌿🌳 🥊 Joe Scott in OBC of @northcountrybroadway Hamilton in Hamilton ⭐️ Adrian on @poseonfx 👇🏾 Recent interview👇🏾
+      Sharon🌸Florist @darlingbudsanglesey 🌿Gardener🌿Where the mountains meet the sea, our cottage we will be🌸Anglesey⛰🌊
     location: "United States"
-    followers: 26218
-    engagement: 650
-    commentsToLikes: 0.015083
-    id: ck5chj3aiqvg80i11ksvecjy6
+    followers: 14644
+    engagement: 770
+    commentsToLikes: 0.067623
+    id: ck138sw70hurs0i19fy6qo5bc
+    verified: false
+    hashtags: "#springgarden, #summergarden, #hydrangeas, #gardenersofinstagram"
+  - username: "lexymonty"
+    fullname: >-
+      Lexy Monty
+    bio: >-
+      Orlando FL 🌴 Beauty | Fashion | Lifestyle 💐 Don't be sad, because sad backwards is das, and das not good. 😁 🥘 Food Page: @foodielexyy
+    location: "United States"
+    followers: 73632
+    engagement: 53
+    commentsToLikes: 0.219454
+    id: ckqgndniap1d00j23nro4wha1
+    verified: false
+    hashtags: "#orlandoevents, #reelsinstagram, #funnyreels, #orlandofashionblogger"
+  - username: "ourlittlechurchcottage"
+    fullname: >-
+      Clare - Church Cottage
+    bio: >-
+      🏡 A look inside our English country cottage, with Dexter and Harry the Dalmatians! 📍 Worcestershire, UK 💌 ourlittlechurchcottage@gmail.com
+    location: "United States"
+    followers: 46514
+    engagement: 400
+    commentsToLikes: 0.152082
+    id: ck0w2gdjdo8a30i19bo9uyafl
+    verified: false
+    hashtags: "#adorable, #dogoftheday, #cornerofmyhome, #persuepretty"
+  - username: "paulapryke"
+    fullname: >-
+      P A U L A   P R Y K E  OBE
+    bio: >-
+      International FLORAL ARTIST bringing joy through nature. Flower Guru, best selling Author 📚 Passionate teacher sharing flowers, gardens & inspiration
+    location: "United States"
+    followers: 45157
+    engagement: 842
+    commentsToLikes: 0.004550
+    id: ck8t6vkjqeu6f0j78hzizy1o6
+    verified: false
+    hashtags: "#floralarrangements, #love, #gardeninspiration, #floral"
+  - username: "theatomicranch"
+    fullname: >-
+      Atomic Ranch
+    bio: >-
+      Your trusted resource for Mid Century Modern design. Looking for retro decor, architecture, preservation or renovation inspiration? Welcome home!  🏡✨
+    location: "United States"
+    followers: 154821
+    engagement: 95
+    commentsToLikes: 0.008298
+    id: ck137c0dxasdr0i1977z432yb
+    verified: false
+    hashtags: "#design, #midcenturymodern, #homedecor, #building"
+  - username: "shelbizleee"
+    fullname: >-
+      SHELBI ⟜Sustainability Vlogger
+    bio: >-
+      ≋ Zero Waste ⋒ LGBT | Plant Based ✎ BS EnvSci “You cannot do all the good that the world needs, but the world needs all the good that you can do”©
+    location: "United States"
+    followers: 60751
+    engagement: 1112
+    commentsToLikes: 0.049847
+    id: ck0vwvqrivtjc0i191nbf8pkf
+    verified: false
+    hashtags: "#goingzerowaste, #ecoliving, #sustainability, #waronwaste"
+  - username: "storybookstyle"
+    fullname: >-
+      Jen
+    bio: >-
+      believer † | reader of classics | vintage book collector & occasional seller | country farmhouse living | whimsical tea parties
+    location: "United States"
+    followers: 39983
+    engagement: 487
+    commentsToLikes: 0.052568
+    id: ck135ww583nd00i19jft5nadz
+    verified: false
+    hashtags: "#cottagecoreaesthetic, #vintageinspired, #mycountryliving, #afternoontea"
+  - username: "justinejenkins"
+    fullname: >-
+      Justine Jenkins
+    bio: >-
+      Pro Ethical Make Up Artist Certified CBD expert #CrueltyFree#Vegan #SustainableBeauty Humane Society Ambassador #cbd
+    location: "United States"
+    followers: 30422
+    engagement: 200
+    commentsToLikes: 0.116585
+    id: ck0txqjvck5vd0i19tt5qt3gc
     verified: true
-    hashtags: "#bobdylan, #ascottham, #broadway, #girlfromthenorthcountry"
-  - username: "cactusnopal"
-    fullname: >-
-      𝗖𝗮𝗰𝘁𝘂𝘀 🌵 [plants nature earth]
-    bio: >-
-      🌍We love 𝐩𝐥𝐚𝐧𝐭𝐬!🌿🌵 Use #cactusnopal 📸 Sharing DIYs & cool videos!📲 FOLLOW US for more!👇
-    location: "United States"
-    followers: 54781
-    engagement: 94
-    commentsToLikes: 0.021519
-    id: ck13b6t2atymz0i19zltlt3ag
-    verified: false
-    hashtags: "#myplantaesthetic, #cactusnopal, #inspirationalquotes, #keytosuccess"
-  - username: "wilker_dos"
-    fullname: >-
-      April Wilkerson
-    bio: >-
-      I'm a Maker. I'm moving through life building what I need instead of buying it. I also make videos showing you how I do it.
-    location: "United States"
-    followers: 236121
-    engagement: 121
-    commentsToLikes: 0.024520
-    id: ck0w2gm1co9jq0i19uaaja4g3
-    verified: false
-    hashtags: "#urbanlogging, #heritageoak, #woodworking, #slab"
-  - username: "justintinucci"
-    fullname: >-
-      Justin Tinucci
-    bio: >-
-      🎬Actor | 🎼🎹🎛 Composer - Producer Business inquiries: justin@justintinucci.com Verified Twitter acct: @justintinucci
-    location: "United States"
-    followers: 55519
-    engagement: 115
-    commentsToLikes: 0.052192
-    id: ckf5r7f9gbofy0j23nt3zur81
-    verified: true
-    hashtags: "#la, #westcoast, #justintinucci, #composer"
-  - username: "drninaradcliff"
-    fullname: >-
-      Nina Radcliff
-    bio: >-
-      Donald J. Trump for President, Medical Advisory Board. In the trenches of war against COVID, Frontline Physician, Nationally Syndicated Columnist
-    location: "United States"
-    followers: 19975
-    engagement: 242
-    commentsToLikes: 0.067615
-    id: ckap7ysoem68o0i78m6bf14lj
-    verified: false
-    hashtags: "#donaldtrump, #fishing, #doctor, #family"
-  - username: "seldabelda"
-    fullname: >-
-      anna aromin | ↟ pnw ↟
-    bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
-    location: "United States"
-    followers: 34042
-    engagement: 337
-    commentsToLikes: 0.098448
-    id: ck14kkiiwpyiz0i19q3we0t10
-    verified: false
-    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
-  - username: "theladywholunches"
-    fullname: >-
-      Jenna Ingalls
-    bio: >-
-      knitting, sewing, sometimes gardening Oakland, California she/her
-    location: "United States"
-    followers: 5323
-    engagement: 1285
-    commentsToLikes: 0.075316
-    id: ck5zobjeqq6wu0i146qvnwtx8
-    verified: false
-    hashtags: "#handknitsweater, #maternitycapsulewardrobe, #fatsewingclub, #maternitysewing"
-  - username: "aara.lee"
-    fullname: >-
-      Aara Lee
-    bio: >-
-      I’m Aara! 🌱 ❝ i may be small, but i can fly ❞ 143 cm, mixed Thai, bi/nb forest imp cosplay 🎭 writing 📖 dnd ⚔️ gardening 🌼
-    location: "United States"
-    followers: 19159
-    engagement: 853
-    commentsToLikes: 0.028131
-    id: ck138fffifza10i199jsto5os
-    verified: false
-    hashtags: "#felixcosplay, #felixhugofraldarius, #myheroacademia, #dungeonsanddragons"
+    hashtags: "#glowingskin, #cbdeducation, #vegan, #veganbeauty"
 ---

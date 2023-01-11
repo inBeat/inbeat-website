@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Spain In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Spain In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Spain in 2022. Most popular hashtags: #tattoo #barcelona #inked #makeup.
+  Find top tattoo-artists Instagram influencers in Spain in 2023. Most popular hashtags: #tattoo #ink #tatuaje #tattoos.
 platform: Instagram
-hits: 192
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 192 Instagram influencers like this in Spain for you to connect with.
+hits: 133
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 133 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "blackmermaiid_"
-    fullname: >-
-      𝕭𝖑𝖆𝖈𝕶 • 𝕸𝖊𝖗𝖒𝖆𝖎𝖉
-    bio: >-
-      Barcelona 🧜🏻‍♀️🔮 Cats😻Fashion👗Tattoos😷💉 Makeup💄 Travels✈️ Food 🍣 Team @pullandbear 👗 Tattoo Artist @sevenseas_tattoo 😷 Owner @sabbathcultclo 🔮
-    location: "Spain"
-    followers: 31497
-    engagement: 1131
-    commentsToLikes: 0.020346
-    id: ck8tb53cfub9n0j78ejzsqrkh
-    verified: false
-    hashtags: "#blonde, #havefun, #tattoed, #goodvibes"
   - username: "ireneuncalart"
     fullname: >-
       Irene Uncal
     bio: >-
-      🎬FX Makeup @Inception_Fx Tattoo artist @ultravioleta_infrarrojo_tattoo 🧚🏼‍♀️ⒻⓊⓃⓈⒾⓏⒺⒹ 👨🏻‍🦰 Redophile @ultravioleta_infrarrojo ⬇️Youtube channel⬇️
+      🎬FX Makeup @Inception_Fx Tattoo artist @ultravioleta_infrarrojo_tattoo 🧚🏼‍♀️ⒻⓊⓃⓈⒾⓏⒺⒹ 👨🏻‍🦰 Redophile @ultravioleta_infrarrojo ⬇️Cursos Online⬇️
     location: "Spain"
-    followers: 3336
-    engagement: 791
-    commentsToLikes: 0.164172
+    followers: 3199
+    engagement: 781
+    commentsToLikes: 0.160202
     id: ckapaags1vdu40i78gmowsy1t
     verified: false
-    hashtags: "#hijasdelmakeup, #fx, #mymakeupsite, #mua"
-  - username: "evo_erk"
+    hashtags: "#clasicosterror, #escaperoom, #gore, #maquillalia"
+  - username: "albaprietotattooart"
     fullname: >-
-      ERK TATTOOS
+      Alba Prieto
     bio: >-
-      TATTOO ARTIST 🇪🇸🇨🇭 ‼️AGENDA CERRADA‼️ APERTURA DICIEMBRE @balm_tattoo @tsunami_tattoo_needles @nuclearwhiteink @traciatattoostudio 📲691368112
+      Tattoo artist @bhorn.tattoo @inkjecta ▪️Barcelona▪️Para citas: albaprietotattooart@outlook.es▪️
     location: "Spain"
-    followers: 24967
-    engagement: 247
-    commentsToLikes: 0.065555
-    id: ck0tzl33lqpwq0i19y98vnmef
+    followers: 21934
+    engagement: 297
+    commentsToLikes: 0.030509
+    id: ck55pki3tar1b0i11xr12j3a6
     verified: false
-    hashtags: "#forearmtattoo, #art, #tattooideas, #tattooartist"
+    hashtags: "#tattoos, #skinart, #art, #artistasdeltatuaje"
+  - username: "daniluz21"
+    fullname: >-
+      Daniel luzardo 👽
+    bio: >-
+      TATTOO ARTIST 🔜 📍LA-CA🇺🇸 WS: +34653667275 @inkdustrybcn @gangatattoostudio_la @tattoodo Ambassador @tattooproton @fkirons @radiantcolorsink
+    location: "Spain"
+    followers: 139519
+    engagement: 333
+    commentsToLikes: 0.024687
+    id: ck0tyio2zmzls0i190sz5elqw
+    verified: false
+    hashtags: "#realistictattoo, #tattoodoambassador, #tattoo, #inprogress"
   - username: "claudiagilabert"
     fullname: >-
       Claudia Gilabert Dolz ♀
     bio: >-
       Tattoo artist @bonitolojusto.ink Owner of @bonitolojusto.estudio claudiagilabertcontacto@gmail.com 📍BCN
     location: "Spain"
-    followers: 32625
-    engagement: 449
-    commentsToLikes: 0.005601
+    followers: 31852
+    engagement: 447
+    commentsToLikes: 0.005841
     id: ck5ckry6sxhrt0i115filv75v
     verified: false
-    hashtags: "#chandalismo, #hawkersx21buttons, #gecco, #geccoapp"
+    hashtags: "#vamosquenosvamos, #gogecco, #rollitgirlgang, #innovaxsprinter"
   - username: "amayratattoo"
     fullname: >-
       𝓐𝓶𝓪𝔂𝓻𝓪
     bio: >-
       Tattoo artist from Tenerife🇮🇨 👇🏾Shop👇🏾
     location: "Spain"
-    followers: 65750
-    engagement: 576
-    commentsToLikes: 0.028078
+    followers: 69884
+    engagement: 596
+    commentsToLikes: 0.027092
     id: ck6tobotld5yd0j717hnxact0
     verified: false
-    hashtags: "#neotraditionaleurope, #irezunicollective, #skinartmag, #tattoodo"
-  - username: "damage_sg"
+    hashtags: "#tbsta, #neotraditional, #neotradeu, #neotraditionaltattoo"
+  - username: "_brahox"
     fullname: >-
-      AlienDoll
+      Braho
     bio: >-
-      📍 BARCELLONA 📌 Tattoo Artist @martydamage 📌 Visual Artist 📌 @suicidegirls
+      illustrator/Tattooartist 🌑 📍Melipilla 🚫 no pacos 🚫No DM #brahimjadur Agenda en Abril 🇨🇱📩 Brahimjadur.art@gmail.com o link👇🏻
     location: "Spain"
-    followers: 34709
-    engagement: 299
-    commentsToLikes: 0.022490
-    id: ck0ubfaklefe10i19fn3ub9d3
+    followers: 6786
+    engagement: 827
+    commentsToLikes: 0.076482
+    id: ckap9owtot1s60i78ybmededv
     verified: false
-    hashtags: "#geometric, #black, #tattoos, #tattoo"
-  - username: "zrako.animal"
+    hashtags: "#procreate, #painting, #illustration, #skulltattoo"
+  - username: "vtattoo.miguelbohigues"
     fullname: >-
-      Xavi | Animal Tattoos
+      MIGUEL BOHIGUES
     bio: >-
-      🌱Vegan Animalist Tattoo Artist 📍Currently in Barcelona 💸Most of tattoo benefits goes to save wildlife🦏 💚Your tattoo can help nature #savinknature
+      Tattoo Artist VTattoo | Shop Online: @vtattooshop | Sponsors: @fistflame 🔥🔥 🔥 @cheyenne_tattooequipment
     location: "Spain"
-    followers: 7343
-    engagement: 533
-    commentsToLikes: 0.155503
-    id: ckaoypj8aii6m0i7814725xkf
-    verified: false
-    hashtags: "#veganartist, #veganart, #fanartdrawing, #thebestspaintattooartists"
-  - username: "daniluz21"
+    followers: 605317
+    engagement: 69
+    commentsToLikes: 0.067825
+    id: ck0ubywdofofl0i19uo0hgp9m
+    verified: true
+    hashtags: "#tattooart, #tattoolife, #inkaddict, #ink"
+  - username: "maruhrz"
     fullname: >-
-      Daniel luzardo 👽
+      𝙈𝙖𝙧𝙪 𝙍𝙯 ✨
     bio: >-
-      TATTOO ARTIST 📍Barcelona-España 🇻🇪🇪🇸 WHATSAPP: APPOINTMENTS +34653667275
+      ✏️ Tattoo Artist & Illustrator 📍 Barcelona 💌 @seny_tattoos 📪 maruhrz@gmail.com ✨@maryarzz
     location: "Spain"
-    followers: 120061
-    engagement: 312
-    commentsToLikes: 0.022286
-    id: ck0tyio2zmzls0i190sz5elqw
+    followers: 7584
+    engagement: 338
+    commentsToLikes: 0.026221
+    id: ck6ucwkmrhukl0j71zqu7ypxv
     verified: false
-    hashtags: "#barcelona, #ink, #realistictattoo, #inked"
-  - username: "trinukagonzalez"
+    hashtags: "#rosetattoo, #prints, #streetstyle, #illustrateddoris"
+  - username: "samuelopeztattoo"
     fullname: >-
-      ✢TRINIDAD✢
+      🔹SAMUEL LOPEZ🔹
     bio: >-
-      ❂HANDMADE TATTOO ARTIST❂ ❂DJ EN @AMBIKATRINUKA ※ WE ARE ALL ф й є MUSIC ❂ COTIZACIONES DE TATTOOS SOLAMENTE A Trinukagonzalez@gmail.com
+      🍂........🍁Cao🍁.........🍂 ▪️ Tattoo artist ▪️ ▪️ @caotattoostudio ▪️ ▪️ Málaga, Spain ▪️
     location: "Spain"
-    followers: 22107
-    engagement: 209
-    commentsToLikes: 0.023690
-    id: ck5zkfikhjdxk0i145jxillzt
+    followers: 19080
+    engagement: 297
+    commentsToLikes: 0.043988
+    id: ck5zqyndfvk300i14s2ex8iy9
     verified: false
-    hashtags: "#intuition, #oceano, #madera, #oneworld"
-  - username: "javierobregon.art"
+    hashtags: "#tiger, #africa, #caban, #realistictattoo"
+  - username: "sinsentido10"
     fullname: >-
-      Javier Obregon
+      SINSENTIDO10
     bio: >-
-      •Tattoo Artist• BARCELONA FAMILY ART TATTOO • BioArt - Biomech - Black & Grey - Dark • 📩TATTOO@JAVIEROBREGON.COM📩
+      Tattoo artist/painter/lover.on the air.WHAT YOU GIVE YOU GET IT sagittarius power CIRCUSTATTOOMADRID sinsotana@yahoo.es @sinsentido.art for PAINTINGS
     location: "Spain"
-    followers: 33982
-    engagement: 166
-    commentsToLikes: 0.041145
-    id: ck5c05w5ssi8c0i11u40bg72b
+    followers: 24890
+    engagement: 210
+    commentsToLikes: 0.039596
+    id: ck6udfpyhktyp0j71o2id56wz
     verified: false
-    hashtags: "#espa, #procreate, #biomechanicaltattoos, #espan"
+    hashtags: "#reinasofiamuseum, #mixedmedia, #sins, #power"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Chicago In 2022
+title: Top 10 Makeup TikTok Influencers In Chicago In 2023
 description: >-
-  Find top makeup TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #makeup #chicago #foryou.
+  Find top makeup TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #makeup #chicago #foryou.
 platform: TikTok
-hits: 101
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 101 TikTok influencers like this in Chicago, United States for you to pitch.
+hits: 80
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 80 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "jeanenesplitt"
+  - username: "yulissa_9"
     fullname: >-
-      Jeanene
+      Yulissa👑
     bio: >-
-      fancy seeing you here 20 🌼 follow my insta (:
+      Chicago🏙 Jalisco🇲🇽 20🍯God💖 👻@yulissa_gonza
     location: "United States"
-    followers: 12800
-    engagement: 1037
-    commentsToLikes: 0.045627
-    id: ckc90i04opxr10j239wu5ijzw
+    followers: 29200
+    engagement: 2162
+    commentsToLikes: 0.015275
+    id: cka0ke7y6m45i0i78h1tbttsv
     verified: false
-    hashtags: "#colorcustomizer, #fyp, #greenscreen, #10secondsvs"
+    hashtags: "#foryoupage, #actingchallenge, #makeup, #chicago"
   - username: "pecaspecadas"
     fullname: >-
       B
     bio: >-
       25 Chicago Aquarius Latina Anxious
     location: "United States"
-    followers: 111400
+    followers: 107000
     engagement: 1194
-    commentsToLikes: 0.006512
+    commentsToLikes: 0.006313
     id: ckcdy555gggzd0j23oun215wo
     verified: false
-    hashtags: "#fy, #makeup, #foryou, #chicago"
-  - username: "maca_pospi"
+    hashtags: "#foryou, #roommakeover, #fyp, #makeup"
+  - username: "profe.teacher"
     fullname: >-
-      Maca Marcel
+      Jackie
     bio: >-
-      Hit me up on instagram and check out my links ⬇️🤪😈
+      Chicago 🌎 Spanish Teacher👩🏼‍🏫 Wishlist ⬇️
     location: "United States"
-    followers: 156100
-    engagement: 599
-    commentsToLikes: 0.043593
-    id: ckacs0m3m7v0s0i78stqtrb9r
+    followers: 5195
+    engagement: 1086
+    commentsToLikes: 0.058711
+    id: ckcv2cf5io2tg0j23y1exj1a3
     verified: false
-    hashtags: "#dating, #instagram, #trending, #relationship"
+    hashtags: "#snowglobe, #teacher, #greenscreen, #teachersontiktok"
+  - username: "alexyssnkeirsten"
+    fullname: >-
+      Sisters
+    bio: >-
+      💕instas: alexyssgrace & keirsten_lanae💕 Hi
+    location: "United States"
+    followers: 156200
+    engagement: 943
+    commentsToLikes: 0.018395
+    id: ck8f7n2tx33860j78cbkn0tf5
+    verified: false
+    hashtags: "#fyp, #siblings, #sisters, #christmas"
   - username: "paula.silva.artistry"
     fullname: >-
       Paula Silva Artistry
     bio: >-
       #PaulaSilvaArtistryCo 🎨👩🏻‍🎨💄 Makeup. Styling. Entertainment 📍Chicago
     location: "United States"
-    followers: 3820
-    engagement: 625
-    commentsToLikes: 0.044927
+    followers: 3784
+    engagement: 599
+    commentsToLikes: 0.044021
     id: ckb10r710pbl00j23xwkworqt
     verified: false
-    hashtags: "#feelinggood, #artober, #traveltiktok, #holiday"
-  - username: "901nm"
+    hashtags: "#brazil, #traveltheworld, #boostyourmood, #mycloset"
+  - username: "erinmcleodx"
     fullname: >-
-      Nadine🌻💕
+      Erin McLeod
     bio: >-
-      BLM 🇵🇸🇵🇸🇵🇸🇵🇸 19
+      
     location: "United States"
-    followers: 13600
-    engagement: 594
-    commentsToLikes: 0.071384
-    id: ckcdrdqoncqj60j23dbwenvgv
+    followers: 77800
+    engagement: 729
+    commentsToLikes: 0.031278
+    id: ckc8hzbmmbriw0j23xwle44re
     verified: false
-    hashtags: "#palestinian, #funny, #foryou, #xyzbca"
-  - username: "dr.broke"
+    hashtags: "#makeup, #foryou, #fyp, #hairstyle"
+  - username: "lauraldrin"
     fullname: >-
-      Simply Broke Co.
+      lauraldrin
     bio: >-
-      📸 See You On YouTube 📸 CREATOR FUND KILLED MY TIKTOK 👻 Sc: low_pf 👻
+      9748 Hey 🥰 Spanish model living in 📍Chicago Follow my ig: @lauraldrin
     location: "United States"
-    followers: 244700
-    engagement: 1215
-    commentsToLikes: 0.014239
-    id: ckbl44tny1jod0j23gxmau5p3
+    followers: 18000
+    engagement: 613
+    commentsToLikes: 0.050195
+    id: ck9nhf644fz3g0j78osemjvf2
     verified: false
-    hashtags: "#texas, #chicago, #downtown, #illinois"
-  - username: "orianasiphanoum"
+    hashtags: "#blushmarksquad, #chicago, #tiktokdance, #foxyeyes"
+  - username: "malortluvr"
     fullname: >-
-      ORIANA
+      malortluvr
     bio: >-
-      euphoria, dancing, nyu, blm link for nyc collabs! orianasiphanoum@gmail.com
+      🤙🏻✌🏻 She/her Wingnut
     location: "United States"
-    followers: 74800
-    engagement: 1870
-    commentsToLikes: 0.024911
-    id: ckbf3xa2hrydh0j236g9z8q6c
+    followers: 12000
+    engagement: 1131
+    commentsToLikes: 0.069347
+    id: ckav3lk8z9x5l0j23lv1chgnq
     verified: false
-    hashtags: "#nyc, #xyzbca, #modeling, #modelingtips"
-  - username: "natalie.banilbo"
+    hashtags: "#greenscreen, #dumb, #chicago, #artist"
+  - username: "lexlie23"
     fullname: >-
-      nataliebanilbo
+      LEXLIE23
     bio: >-
-      Insta : @𝙉𝙖𝙩𝙖𝙡𝙞𝙚𝙗𝙖𝙣𝙞𝙡𝙗𝙤 :) 𝟏𝟖 🤍🇵🇭
+      🐓🧍🏻‍♀️
     location: "United States"
-    followers: 8532
-    engagement: 1220
-    commentsToLikes: 0.021080
-    id: cka9kyn0r15vs0i78s0jh68ev
+    followers: 2085
+    engagement: 1399
+    commentsToLikes: 0.055150
+    id: ckc7tcn9axsib0j23mmbyr39l
     verified: false
-    hashtags: "#photography, #fyp, #florida, #poseathome"
-  - username: "jinathegorgeous"
+    hashtags: "#pet, #chicks, #hen, #foryoupage"
+  - username: "creamypurin"
     fullname: >-
-      jina the gorgeous
+      Laura 🍓
     bio: >-
-      Tiktok LIVE M-F 11am or 9pm PST 💕Follow me on Instagram 💕 HUGE giveaway coming
+      🍓 25 | indy | she/her 🍓 Slowly turning into a crazy plant lady 🌱
     location: "United States"
-    followers: 122500
-    engagement: 1500
-    commentsToLikes: 0.014605
-    id: ck9r6fsgs3oc90j783eqwvv98
+    followers: 23700
+    engagement: 713
+    commentsToLikes: 0.019755
+    id: ck9a91yd5efxi0j786whlpeyp
     verified: false
-    hashtags: "#weirdnotsoweird, #korean, #korea, #boba"
-  - username: "honeybmua"
-    fullname: >-
-      Mua.Fatshionista
-    bio: >-
-      Chicago ❤️ She/Her 🏳️‍🌈 Queer. Married 35yo Anti-Racist Anti-terf
-    location: "United States"
-    followers: 8123
-    engagement: 2191
-    commentsToLikes: 0.094565
-    id: ckbqivjoh406z0j234lsd7dxx
-    verified: false
-    hashtags: "#blacklivesmatter, #duet, #beauty, #biden2020"
+    hashtags: "#fyp, #foryou, #japan, #foodie"
 ---

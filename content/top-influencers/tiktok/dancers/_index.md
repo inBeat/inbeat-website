@@ -1,120 +1,96 @@
 ---
-title: Top 10 Dancers TikTok Influencers In 2022
+title: Top 10 Dancers TikTok Influencers In 2023
 description: >-
-  Find top dancers TikTok influencers in 2022. Most popular hashtags: #dance #foryou #fyp #tiktok.
+  Find top dancers TikTok influencers in 2023. Most popular hashtags: #foryou #foryoupage #fyp #dance.
 platform: TikTok
-hits: 4280
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 4280 TikTok influencers like this for you to contact.
+hits: 4465
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 4465 TikTok influencers like this for you to contact.
 profiles:
-  - username: "giorgikvantchiani"
+  - username: "_mad__madz_"
     fullname: >-
-      Giorgi Kvantchiani
+      Madz🪐
     bio: >-
-      🇬🇪 DANCER
-    location: "Georgia"
-    followers: 15000
-    engagement: 518
-    commentsToLikes: 0.025378
-    id: ckbfdvxn17fhr0j23e3dws1r2
+      Dancer
+    location: "United States"
+    followers: 31900
+    engagement: 1394
+    commentsToLikes: 0.046530
+    id: ckcpszgu0nhje0j230hukrqsq
     verified: false
-    hashtags: "#riyadh, #dancer, #dance, #pubglove"
+    hashtags: "#disney, #dancer, #dancing, #disneyworld"
   - username: "parthi_baby00"
     fullname: >-
       parthibaby
     bio: >-
       Dancer 
     location: "India"
-    followers: 6055
-    engagement: 929
-    commentsToLikes: 0.019193
+    followers: 6064
+    engagement: 925
+    commentsToLikes: 0.019186
     id: ckachg8sgz8nw0i7881d4mhrn
     verified: false
-    hashtags: "#sharethecare, #new, #tamilnadu, #song"
+    hashtags: "#love, #movie, #my, #tiktokindia"
+  - username: "macedonandaa"
+    fullname: >-
+      Nanda Macedo
+    bio: >-
+      • dancer
+    location: "Brazil"
+    followers: 188000
+    engagement: 917
+    commentsToLikes: 0.005506
+    id: ck9kdgvjdu7wg0j78ske5w511
+    verified: false
+    hashtags: "#viral, #dance, #fyp, #fy"
   - username: "karokozak"
     fullname: >-
       Karo Kozak
     bio: >-
-      Hiiii Actress • Dancer • Singer 📍LA PL | DK IG: @karokozak
+      Actress and Dancer
     location: "Denmark"
-    followers: 21700
-    engagement: 796
-    commentsToLikes: 0.044505
+    followers: 22200
+    engagement: 636
+    commentsToLikes: 0.054051
     id: ckc7v2a4yyqi30j23ukdgkfu0
     verified: true
-    hashtags: "#family, #xyzbca, #foryoupage, #school"
+    hashtags: "#school, #relatable, #dancer, #fyp"
   - username: "iamjordiofficial"
     fullname: >-
       iAmJordi
     bio: >-
       Singer/Dancer/Songwriter 💘 IG: iamjordiofficial YT: iAmJordi SC: iamjordi1
     location: "United States"
-    followers: 6800000
-    engagement: 3055
-    commentsToLikes: 0.033578
+    followers: 7600000
+    engagement: 2510
+    commentsToLikes: 0.014721
     id: ck8kdaihg4wob0j780t4ls400
     verified: true
-    hashtags: ""
-  - username: "haileytje.b"
+    hashtags: "#romweback2school, #dancingqueenchallenge, #onebreathchallenge"
+  - username: "hendrysaputra82"
     fullname: >-
-      Hailey Bonduwe
+      Hendry Saputra
     bio: >-
-      💙Dancer💙 🇧🇪 Belgium 🇧🇪 💌 HaileytjeB@yahoo.com💌 💎 Insta: @haileytje.b 💎
-    location: "Belgium"
-    followers: 117400
-    engagement: 2991
-    commentsToLikes: 0.036629
-    id: ckc3ecli2zvxy0j232vu00p3v
+      Suka joged tp bukan dancer, suka nyanyi tp bukan penyanyi, smg terhibur 😁
+    location: "Indonesia"
+    followers: 38400
+    engagement: 1239
+    commentsToLikes: 0.149588
+    id: ckai6q5qqx63i0i7894h7f9co
     verified: false
-    hashtags: "#supportlunadupont, #besweet, #fyp, #havefaith"
+    hashtags: "#sapasuruhlewatmulu, #salamsehatsalamsukses, #duet"
   - username: "dmnavarro_03"
     fullname: >-
       Dymie Navarro
     bio: >-
       Let's enjoy Your Talent😇🙏 Im a Dancer 🕺.
     location: "Philippines"
-    followers: 3224
-    engagement: 4804
-    commentsToLikes: 0.138644
+    followers: 3215
+    engagement: 3620
+    commentsToLikes: 0.118748
     id: ckb8z6z8oeia00j23m8q921w9
     verified: false
-    hashtags: "#onevibeph, #foryou, #tiktoktrending, #vibewithdymie"
-  - username: "leonorfilipaa"
-    fullname: >-
-      Leonor Filipa😝💗
-    bio: >-
-      Follow me on instagram👆🏻😝 Portuguese dancer🇵🇹💃🏻 PR & Brands: @thisisluvin
-    location: "Portugal"
-    followers: 697100
-    engagement: 2914
-    commentsToLikes: 0.038792
-    id: ck83zbp6yzgu70j78gy6fv7cd
-    verified: true
-    hashtags: "#dance, #tiktokportugal, #trend, #orgulhosamentesumol"
-  - username: "sahfy_"
-    fullname: >-
-      SAHFY
-    bio: >-
-      Hi I am sahfy -Rapper/singer/dancer 🥰🤗
-    location: "United Kingdom"
-    followers: 4524
-    engagement: 2883
-    commentsToLikes: 0.664271
-    id: ckbb5wo6cw3690j23y1712u5r
-    verified: false
-    hashtags: "#sahfy, #halloween, #halloweenvibes, #duet"
-  - username: "zuziaa.akro"
-    fullname: >-
-      zuzka❤
-    bio: >-
-      Hi🇵🇱 | 16 🌿Gymnast and dancer🌿 Ig: zuziajuraszek
-    location: "Poland"
-    followers: 45000
-    engagement: 2862
-    commentsToLikes: 0.055153
-    id: ckck5ns2hqogn0j235ocxh316
-    verified: false
-    hashtags: "#dc, #flexibility, #gymnastics, #trend"
+    hashtags: "#fyp, #tiktokph, #onevibeph, #vibewithdymie"
   - username: "userpoonamlove"
     fullname: >-
       POONAM 
@@ -122,9 +98,33 @@ profiles:
       Dancer😊🙏🏼💞
     location: "India"
     followers: 16800
-    engagement: 2842
-    commentsToLikes: 0.105504
+    engagement: 2811
+    commentsToLikes: 0.124218
     id: ck8qld6pbl7bj0j78o0s34sgr
     verified: false
-    hashtags: "#foryoupage, #tiktok, #poonamketaare, #tidelagaodaaghatao"
+    hashtags: "#sharethecare, #foryoupage, #tiktok, #poonamketaare"
+  - username: "leonorfilipaa"
+    fullname: >-
+      Leonor Filipa😝💗
+    bio: >-
+      Follow me on instagram👆🏻😝 Portuguese dancer🇵🇹💃🏻 PR & Brands: @thisisluvin
+    location: "Portugal"
+    followers: 708900
+    engagement: 2650
+    commentsToLikes: 0.029819
+    id: ck83zbp6yzgu70j78gy6fv7cd
+    verified: true
+    hashtags: "#dance, #trend, #tiktokportugal, #sumol"
+  - username: "_mr.originality_"
+    fullname: >-
+      mrcr3at1vaty
+    bio: >-
+      💯I follow back💯 🕺Dancer/Entertainer ❤️follow my insta❤️ _mr.originality_
+    location: "United States"
+    followers: 55600
+    engagement: 2649
+    commentsToLikes: 0.055932
+    id: ckbb5bcrnvjj70j23sp00tyg4
+    verified: false
+    hashtags: "#lovemusiclife"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Montreal In 2022
+title: Top 10 Travel TikTok Influencers In Montreal In 2023
 description: >-
-  Find top travel TikTok influencers in Montreal in 2022. Most popular hashtags: #montreal #fyp #travel #quebec.
+  Find top travel TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #travel #canada.
 platform: TikTok
-hits: 23
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 23 TikTok influencers like this in Montreal, Canada for you to connect with.
+hits: 19
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 19 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "nicsa16"
+  - username: "benjyfilms"
     fullname: >-
-      ON HIATUS
+      benjy
     bio: >-
-      moved to @junkyardstrash
+      Follow me on Instagram 🖤🦋 @benjyfilms
     location: "Canada"
-    followers: 10600
-    engagement: 1868
-    commentsToLikes: 0.021392
-    id: ckbqnrnzi8klj0j233z30cdkj
+    followers: 11400
+    engagement: 981
+    commentsToLikes: 0.026334
+    id: ckcozizwiaibj0j2315vg30ls
     verified: false
-    hashtags: "#kakeguruiyumekocosplay, #unbrellaacademy, #lischloe, #dokidokiliteratureclubcosplay"
-  - username: "theasimsayed"
-    fullname: >-
-      Asim Sayed
-    bio: >-
-      🇨🇦 student who loves to ✈️🌍 Follow my IG above for more of my travel shots!
-    location: "Canada"
-    followers: 2896
-    engagement: 621
-    commentsToLikes: 0.038862
-    id: ckbkutye4q4ns0j23xu40fk9i
-    verified: false
-    hashtags: "#travel, #bc, #foryou, #canadianabroad"
+    hashtags: "#filmmaker, #photographer, #fyp, #travel"
   - username: "_pifou"
     fullname: >-
       Alexis Pifou
     bio: >-
       French Photographer & Filmmaker 🇫🇷 📍Montréal, Canada 🇨🇦 INSTA: @_pifou
     location: "Canada"
-    followers: 96700
-    engagement: 678
-    commentsToLikes: 0.012081
+    followers: 95200
+    engagement: 779
+    commentsToLikes: 0.018220
     id: ck83z40iyxiok0j787a6cc0w8
     verified: false
-    hashtags: "#fyp, #vietnam, #drone, #explore"
-  - username: "krystelmary"
+    hashtags: "#vietnam, #quebec, #tiktokfrance, #canada"
+  - username: "trvlsea"
     fullname: >-
-      Krystel ✨
+      Camille Deguire
     bio: >-
-      Professional dancer, singer, performer 💃🏽 MTL 🇨🇦 IG: krystelassaf
+      24 🇨🇦 LGBTQ+ LETS HANG OUT! Camille, Mélanie & Angie Gwinie Family inc. 🌈🌈🌈
     location: "Canada"
-    followers: 56400
-    engagement: 785
-    commentsToLikes: 0.039825
-    id: ckdcamt16itti0j23547trxcy
+    followers: 23200
+    engagement: 834
+    commentsToLikes: 0.018099
+    id: ck9nd0flncggq0j78gvxmn9qs
     verified: false
-    hashtags: "#fyp, #duet, #foryou, #dancer"
-  - username: "cruisingstar"
+    hashtags: "#gay, #gaygirl, #fy, #challenge"
+  - username: "theasimsayed"
     fullname: >-
-      Jackie Ⓜ️🧃MasterCreator
+      Asim Sayed
     bio: >-
-      ChadchangeⓂ️/ TTcrew🧃/🏳️‍🌈ally 🇨🇦🇵🇭/❤️to travel /ER Nurse Snap: orchidccl
+      🇨🇦 student who loves to ✈️🌍 Follow my IG above for more of my travel shots!
     location: "Canada"
-    followers: 6134
-    engagement: 2269
-    commentsToLikes: 0.326447
-    id: ckdi6fzlp7usd0j23f9q24954
+    followers: 2860
+    engagement: 582
+    commentsToLikes: 0.037310
+    id: ckbkutye4q4ns0j23xu40fk9i
     verified: false
-    hashtags: "#duet, #happyhalloween, #chadchange, #cruisingstar"
-  - username: "freshdailyca"
+    hashtags: "#fyp, #vancouver, #travel, #bc"
+  - username: "theroadnottakentravel"
     fullname: >-
-      Freshdaily
+      Matt
     bio: >-
-      CEO of Canada 🇨🇦 Canada’s source for news, culture, food and travel
+      📍YUL-YOW ✝️🇮🇹🇨🇦 CEO of Hidden Gems
     location: "Canada"
-    followers: 92100
-    engagement: 1684
-    commentsToLikes: 0.026666
-    id: ck9f9jj9z70kg0j78behujol9
+    followers: 33800
+    engagement: 669
+    commentsToLikes: 0.025010
+    id: ckcdmk9eaa8h80j2318885l4u
     verified: false
-    hashtags: "#sask, #foryoupage, #ontario, #canadalife"
+    hashtags: "#gta, #troisrivieres, #longueil, #dreamy"
   - username: "kayla.mardas"
     fullname: >-
       kayla.mardas
     bio: >-
       Montreal🇨🇦🇬🇷 17
     location: "Canada"
-    followers: 8189
-    engagement: 684
-    commentsToLikes: 0.062686
+    followers: 8021
+    engagement: 688
+    commentsToLikes: 0.060967
     id: ckbqn5ilj84bn0j23alopxb3i
     verified: false
-    hashtags: "#foruyou, #foryourpage, #foryou, #foryoupage"
-  - username: "matt16_c"
+    hashtags: "#foruyou, #foryou, #fyp, #foryoupage"
+  - username: "jayciedy"
     fullname: >-
-      Matteo
+      Jessiedit
     bio: >-
-      📍YUL-YOW ✝️🇮🇹🇨🇦 Just another travel page CEO of Hidden Gems
+      Montréal📍🏳️‍🌈 Ig: Jayciedy Rien de ben ben sérieux
     location: "Canada"
-    followers: 7524
-    engagement: 733
-    commentsToLikes: 0.032497
-    id: ckcdmk9eaa8h80j2318885l4u
+    followers: 6912
+    engagement: 693
+    commentsToLikes: 0.039725
+    id: ckcpgvzosh9wm0j23v8nfuiyg
     verified: false
-    hashtags: "#viral, #thunderbay, #hamilton, #ottawa"
-  - username: "farukhjamal.ca"
+    hashtags: "#xyzbca, #trend, #lesbiantiktok, #foryoupage"
+  - username: "biancaslatt"
     fullname: >-
-      Farukh Jamal
+      Bianca
     bio: >-
-      🇵🇰 Software Engineer 🇨🇦
+      MTL Bitch what
     location: "Canada"
-    followers: 10900
-    engagement: 272
-    commentsToLikes: 0.137451
-    id: ck9a8o8tbctpx0j78k0exqtfc
+    followers: 2789
+    engagement: 1106
+    commentsToLikes: 0.084719
+    id: ckajk9utgp95u0i78ghps2mpn
     verified: false
-    hashtags: "#homebackyard, #belleville, #mygarden, #pizzalover"
-  - username: "ibrownzzrule"
+    hashtags: "#fyp, #mtl, #foryoupage, #duet"
+  - username: "leentaher"
     fullname: >-
-      iBrownZz Rule
+      Leen Taher
     bio: >-
-      Skits/Educational Videos 📖🔥 IG : ibrownzz 👥 ibrownzzrule@gmail.com 📩
+      🤸‍♀️
     location: "Canada"
-    followers: 51800
-    engagement: 803
-    commentsToLikes: 0.115358
-    id: ckb0uvwtzka340j23hjcy7mmr
+    followers: 7263
+    engagement: 785
+    commentsToLikes: 0.039820
+    id: ck8fa2o9j3ym60j78n73ro5bh
     verified: false
-    hashtags: "#mtlblog, #metrostations, #countries, #world"
+    hashtags: "#fyp, #tiktoktravel, #foryou, #travel"
+  - username: "frankvallee"
+    fullname: >-
+      Frank Vallée
+    bio: >-
+      Quebec city, Canada 📍🇨🇦 My insta and youtube 👆🏽 Mon insta et youtube 👆🏽
+    location: "Canada"
+    followers: 5554
+    engagement: 596
+    commentsToLikes: 0.047102
+    id: ckbas5enoiqau0j23597zx4mk
+    verified: false
+    hashtags: "#fyp, #coronavirus, #lol, #montreal"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Chicago In 2022
+title: Top 10 Athletes TikTok Influencers In Chicago In 2023
 description: >-
-  Find top athletes TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #athlete #sports #foryou.
+  Find top athletes TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #funny #athlete.
 platform: TikTok
-hits: 15
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 15 TikTok influencers like this in Chicago, United States for you to connect with.
+hits: 9
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "trevorfahnstrom"
     fullname: >-
       Trevor Fahnstrom
     bio: >-
-      Actor | Athlete Chicago, IL NEW VIDEOS DAILY🔥 📩: trevorafahnstrom@gmail.com
+      Actor | Athlete 20 | Chicago 🔥KING OF SPORTSTOK🔥 ⬇️ MY OTHER PLATFORMS! ⬇️
     location: "United States"
-    followers: 58900
-    engagement: 2097
-    commentsToLikes: 0.037837
+    followers: 236700
+    engagement: 1743
+    commentsToLikes: 0.011017
     id: ck9skxl9xb2ui0j783zmm4l6v
     verified: false
-    hashtags: "#sports, #funny, #mlb, #election"
-  - username: "thatschoolcounselor"
+    hashtags: "#athlete, #mlb, #comedy, #baseball"
+  - username: "officialexavier"
     fullname: >-
-      Thatschoolcounselor
+      Official Exavier
     bio: >-
-      💛 High School Counselor💛 Follow my IG for more info @thatschoolcounselor
+      Chicago. 🌃 YouTube: Official Exavier Instagram: officialexavier
     location: "United States"
-    followers: 84200
-    engagement: 1040
-    commentsToLikes: 0.028450
-    id: ck9rgy6iwd0t80j78xr0yiehr
+    followers: 10900
+    engagement: 1461
+    commentsToLikes: 0.109424
+    id: cka7otdh24bcq0i7816da1kd3
     verified: false
-    hashtags: "#money, #thatschoolcounselor, #fyp, #fafsa"
-  - username: "fidelpittss"
-    fullname: >-
-      Fidelpittss
-    bio: >-
-      FOLLOW/INSTAGRAM ⬆️ Blessed by 300,000‼️🖤 CALI🌴17🧞‍♂️🪐BARBER💈 👻@sniper.del
-    location: "United States"
-    followers: 314400
-    engagement: 1795
-    commentsToLikes: 0.015204
-    id: ckac3lagfbml40i780iuj0xaa
-    verified: false
-    hashtags: "#viral, #duet, #fyp, #comment"
-  - username: "h_krup44"
-    fullname: >-
-      Hayden K
-    bio: >-
-      goodbye tiktok follow my insta @h.krup44 follow please!
-    location: "United States"
-    followers: 2409
-    engagement: 957
-    commentsToLikes: 0.098704
-    id: ck98r83va9gtb0j78av0tgcgp
-    verified: false
-    hashtags: "#duet, #4upg, #xyzcba, #sports"
-  - username: "seny_acro_"
-    fullname: >-
-      seny_acro_
-    bio: >-
-      https://beasttribe.com/workout-programs/ Follow my IG 👉 @senyacro🤸🏾‍♂️
-    location: "United States"
-    followers: 19600
-    engagement: 1413
-    commentsToLikes: 0.028823
-    id: ckceibj3lqhh70j230vxhf6dn
-    verified: false
-    hashtags: "#circus, #healthyliving, #motivation, #fashionessentials"
-  - username: "ran_stoppable"
-    fullname: >-
-      Rania 🇩🇿
-    bio: >-
-      🇩🇿🇩🇿 in chicagooooo
-    location: "United States"
-    followers: 5165
-    engagement: 665
-    commentsToLikes: 0.061639
-    id: ckd5wp59hzx0j0j23gxofl3py
-    verified: false
-    hashtags: "#friends, #algeria, #foryou, #northafrican"
+    hashtags: "#fyp, #foryou, #biggerisbetter, #greenscreen"
   - username: "luisauceee"
     fullname: >-
       Luisauceee
     bio: >-
-      Like it up ⬇️⬇️⬇️ Road to 30k 🤩 Chicago 🌃
+      Like it up ⬇️⬇️⬇️ Road to 40k 🤩 Chicago 🌃
     location: "United States"
-    followers: 28900
-    engagement: 1496
-    commentsToLikes: 0.018418
+    followers: 33800
+    engagement: 1433
+    commentsToLikes: 0.021847
     id: ckcdkeod399nh0j23zzrxjwdj
     verified: false
-    hashtags: "#sad, #funny, #girlfriend, #fyp"
-  - username: "theylovejue"
+    hashtags: "#crazy, #sad, #fyp, #viral"
+  - username: "plussomeinches"
     fullname: >-
-      Jadennn
+      Denise & Lindsey
     bio: >-
-      16 | Chicago📍 Im 5 hunnet degrees🙂
+      Two Bffs Denise 5’3” (size 14/16) Lindsey 6’0” (size 10/l2) 📍Chicago
     location: "United States"
-    followers: 8131
-    engagement: 1235
-    commentsToLikes: 0.027033
-    id: ckbqcf7payq590j23xxy5gfv4
+    followers: 116800
+    engagement: 545
+    commentsToLikes: 0.020645
+    id: ckdcebvcgk2g90j23lzs1gdt8
     verified: false
-    hashtags: "#foruyou, #comment, #foryourpage, #xyzbca"
-  - username: "allsportsbest"
+    hashtags: "#fyp, #matchingoutfits, #tallgirl, #xyzbca"
+  - username: "coldhearted04"
     fullname: >-
-      All Sports Best
+      Ryan Robinson
     bio: >-
-      Thanks for joining us on this wild journey!
+      Chi📍 College Student Athlete🏀 AMOSC: rloading23🤟🏾 30k
     location: "United States"
-    followers: 10700
-    engagement: 1093
-    commentsToLikes: 0.016667
-    id: ckbl45g6z1m2j0j23b3u5ubhg
+    followers: 29600
+    engagement: 1587
+    commentsToLikes: 0.028339
+    id: ckave731bmav00j2346frw7ls
     verified: false
-    hashtags: "#athlete, #baseball, #sports, #putting"
-  - username: "nyclouthousee"
+    hashtags: "#xyzbca, #greenscreen, #funny, #foryoupage"
+  - username: "seny_acro_"
     fullname: >-
-      New York Gang wya
+      seny_acro_
     bio: >-
-      Business Email: benandnickweldon@gmail.com Use promo code “benn” to get 10% off
+      IG👉🏽 @senyacro🤸🏾‍♂️🎪💪🏾 Workout training programs 👉🏽 Beasttribe.com
     location: "United States"
-    followers: 26000
-    engagement: 1620
-    commentsToLikes: 0.070280
-    id: cka9kz60b17ur0i782wbhmp7m
+    followers: 38800
+    engagement: 777
+    commentsToLikes: 0.018727
+    id: ckceibj3lqhh70j230vxhf6dn
     verified: false
-    hashtags: "#foryou, #xyzbca, #518, #607"
+    hashtags: "#flipsmile, #provewhatspossible, #bodybuilder, #stayfit"
+  - username: "abbyontheblock"
+    fullname: >-
+      abbyontheblock
+    bio: >-
+      o no not crying just allergies haha y sup w u venmo: abby-samuelson-0
+    location: "United States"
+    followers: 37900
+    engagement: 824
+    commentsToLikes: 0.048840
+    id: ckb9syr32qmnv0j23t5xkxpb8
+    verified: false
+    hashtags: "#millennial, #no, #lol, #funny"
+  - username: "mshaa.rules"
+    fullname: >-
+      🌟🌟🌟🌟🌟
+    bio: >-
+      Missouri high school football 🏈 Only account the rest are FAKE!!
+    location: "United States"
+    followers: 4876
+    engagement: 597
+    commentsToLikes: 0.178589
+    id: ckahvedfpm8hp0i78j10wgsd3
+    verified: false
+    hashtags: "#fypage, #learnontiktok, #axefingersdown, #fun"
+  - username: "stiizy_bubu24"
+    fullname: >-
+      Apple User653595
+    bio: >-
+      17yrs
+    location: "United States"
+    followers: 12100
+    engagement: 1328
+    commentsToLikes: 0.036655
+    id: ckc37vcfmwpjl0j23os11g900
+    verified: false
+    hashtags: "#california, #football, #fitness, #fyp"
+  - username: "sadik_hadzovic"
+    fullname: >-
+      Sadik Hadzovic
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 63300
+    engagement: 742
+    commentsToLikes: 0.018188
+    id: ck9kegkrwysvx0j78zzeuzoaf
+    verified: false
+    hashtags: "#exercise, #fitness, #bodybuilding, #workout"
 ---

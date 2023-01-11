@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Belgium In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Belgium in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Belgium in 2022. Most popular hashtags: #portrait #belgium #photography #tattoo.
+  Find top tattoo-artists Instagram influencers in Belgium in 2023. Most popular hashtags: #portrait #belgium #photography #tattoo.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Indonesia In 2022
+title: Top 10 Fitness Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top fitness Instagram influencers in Indonesia in 2022. Most popular hashtags: #ubud #workout #influencer.
+  Find top fitness Instagram influencers in Indonesia in 2023. Most popular hashtags: #style #fashionstyle #fashion.
 platform: Instagram
-hits: 277
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 277 Instagram influencers like this in Indonesia for you to connect with.
+hits: 223
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 223 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
-  - username: "yuliabaltschun"
+  - username: "brendapantja"
     fullname: >-
-      Yulia Baltschun
+      Brenda
     bio: >-
-      🍍BUSSINES CONTACT WA : 081 299 899 102 . 📍Bali Mom Of 2 Happy Boys FITNESS, HEALTH & DIET TOP 3 Masterchef-Indo 4 . YOUTUBE :
+      Fashion, fitness, lifestyle, and everything in between 🇹🇷 Turkey 24/01 ⠀⠀ team @go_fitlife ⠀ #weshootatmono @monoshoot.id @monospace_gs
     location: "Indonesia"
-    followers: 597618
-    engagement: 374
-    commentsToLikes: 0.029269
-    id: ck135lvz9222w0i19ujfq8zkp
-    verified: true
-    hashtags: "#ihatediet, #areyoureadytowander, #ubud, #samsarasenses"
+    followers: 32020
+    engagement: 116
+    commentsToLikes: 0.053240
+    id: ck6u8z1gluj0h0j71qhgi7v52
+    verified: false
+    hashtags: "#brensbalidiary, #localbrand, #fitwithbrenzi, #weshootatmono"
+  - username: "ikasanz"
+    fullname: >-
+      Ikasanz Yoe ♠️
+    bio: >-
+      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+    location: "Indonesia"
+    followers: 53312
+    engagement: 224
+    commentsToLikes: 0.142564
+    id: ck9wgk1f5trp10j78o2ldtyun
+    verified: false
+    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
   - username: "mirzaali.official"
     fullname: >-
       Mirza Ali 👑
     bio: >-
-      • FASHION • LIFESTYLE • FITNESS COACH Twitter ID - @realmirzaali DM for Collaboration & Business 📩
+      • FASHION • LIFESTYLE • FITNESS COACH • YOUTUBE - Vlogs By Mirza • ₿ #CryptoBoy 💰 DM for Promotion & Business 📩
     location: "Indonesia"
-    followers: 21092
-    engagement: 579
-    commentsToLikes: 0.072262
+    followers: 22169
+    engagement: 564
+    commentsToLikes: 0.075455
     id: ckap05aaqot3g0i78bx28fftu
     verified: false
-    hashtags: "#trending, #photooftheday, #wildboy, #staysafe"
+    hashtags: "#fashionblogger, #fashionphotography, #staysafe, #mirzaali"
+  - username: "aemillin"
+    fullname: >-
+      Amalia
+    bio: >-
+      Health&fitness coach with medical education MS of synchronised swimming Take care of u with me @am.healthyclub Life @krohotnaya 📸 @am.pmood No TFP
+    location: "Indonesia"
+    followers: 281772
+    engagement: 707
+    commentsToLikes: 0.008193
+    id: ck5zpi25rsply0i14fklhuoee
+    verified: false
+    hashtags: ""
   - username: "maria_vaniaa"
     fullname: >-
       Maria Vania
     bio: >-
-      🇮🇩Presenter | MC | Content Creator Health & Fitness 📩mvaniabusiness@gmail.com ⬇️ MINUM INI TURUN BERAT 5KG DALAM 2MINGGU⬇️
+      🇮🇩Presenter | MC | Fitness Lover @totaltools.indonesia @musclefirstofficial
     location: "Indonesia"
-    followers: 2802976
-    engagement: 363
-    commentsToLikes: 0.010249
+    followers: 3539684
+    engagement: 366
+    commentsToLikes: 0.010758
     id: ck14h0snc7yzc0i19mksznpm0
     verified: true
-    hashtags: "#danielwellington, #dw1111, #dwinid, #dwindonesia"
-  - username: "amnamalia"
+    hashtags: "#goyangtingtingalague, #snackvideo, #snackvideoindonesia, #snackvideoapp"
+  - username: "yuliabaltschun"
     fullname: >-
-      Amalia Annenkova
+      Yulia Baltschun
     bio: >-
-      Health and fitness coach with medical education Master of sports in synchronised swimming Make ur life better with me
+      🍍BUSSINES CONTACT WA : 081 299 899 102 . 📍Bali Mom Of 2 Happy Boys Certified FITNESS & DIET Specialist TOP 3 Masterchef-Indo 4 . YOUTUBE :
     location: "Indonesia"
-    followers: 201664
-    engagement: 540
-    commentsToLikes: 0.009048
-    id: ck5zpi25rsply0i14fklhuoee
-    verified: false
-    hashtags: ""
-  - username: "noviawijayantiii"
-    fullname: >-
-      novia wijayanti 🇮🇩
-    bio: >-
-      #icnbikiniPRO 🥇 Mr.hybrid Women fitness 🥇ICN Bikini model world champ 🏋️‍♀️ @ansperformanceindonesia 👩‍👦‍👦 MOM of TWO 👩‍💻 Nutrition student
-    location: "Indonesia"
-    followers: 94727
-    engagement: 378
-    commentsToLikes: 0.015792
-    id: ck5c7loxn7ric0i11nbq7tu1a
-    verified: false
-    hashtags: "#glutegains, #teamansperformance, #ea, #receh"
+    followers: 629375
+    engagement: 264
+    commentsToLikes: 0.014239
+    id: ck135lvz9222w0i19ujfq8zkp
+    verified: true
+    hashtags: "#dietyulia, #tipsdiet, #ihatediet, #motivasihidup"
   - username: "dino.azizie"
     fullname: >-
       EAGLE 93’s
     bio: >-
       👑 Young King W Big Dreams 👑 @sis.aestheticcentre ambassador FITNESS TRAINER/MODEL COWAY HQ (CS TEAM)
     location: "Indonesia"
-    followers: 30129
-    engagement: 302
-    commentsToLikes: 0.030410
+    followers: 29986
+    engagement: 320
+    commentsToLikes: 0.030129
     id: ck9wou9bp6mde0j78rw3lpyle
     verified: false
-    hashtags: "#supportmalaysia, #sporty, #kitaanakmalaysia, #malaysiaboleh"
-  - username: "luciemin"
-    fullname: >-
-      Lucie Minářová
-    bio: >-
-      I run on lifting weights, coffee & vitamin sea🌴 ⚡@jedunavykon founder 💦crossfit | CFL1 Trainer 🥑nutrition 🎙podcast @thehealthytapes 🖤fitness youtuber
-    location: "Indonesia"
-    followers: 59050
-    engagement: 530
-    commentsToLikes: 0.010435
-    id: ck5zqac68u8h80i14nyhusogd
-    verified: false
-    hashtags: "#jedunav, #spolupr, #workout, #kardio"
-  - username: "daffacho"
+    hashtags: "#syaza4iman, #akuyangpanic, #hunterestd2019, #brand"
+  - username: "wachclaude"
     fullname: >-
       
     bio: >-
-      💍 @gita_vbpr husband 👶🏻 son @asta.af 🔥 @daffacho.fitness 👕 @choota.basic - @homswit.id 📩 Cp Andy +6281358282517
+      TEAM 🅂🄲🄸🅃🄴🄲 ɴᴜᴛʀɪᴛɪᴏɴ F͟I͟T͟N͟E͟S͟S͟G͟I͟R͟L͟, C͟O͟M͟M͟U͟N͟I͟T͟Y͟ M͟A͟N͟A͟G͟E͟R͟, B͟L͟O͟G͟G͟E͟U͟S͟E͟
     location: "Indonesia"
-    followers: 427889
-    engagement: 565
-    commentsToLikes: 0.005731
-    id: ck6uf2r20uj520j715jh27ilb
+    followers: 27195
+    engagement: 220
+    commentsToLikes: 0.041622
+    id: ck5zyadrm9ioa0i14sj2vp53m
     verified: false
-    hashtags: "#gym, #fitness, #workout, #muscle"
-  - username: "fenfitlicious"
+    hashtags: "#fit, #motivation, #wachclaude, #tattoo"
+  - username: "pavel_tl"
     fullname: >-
-      🇲🇨 FEN FEN LIU 🇮🇩
+      👑 PAVEL 👑
     bio: >-
-      FIT + STRONG = SEXY Founder : @fitbymeal @ayofitindonesia Female Transformation Advisor Healthy LifeStyle & Fitness Influencer
+      PAVEL TLUSTOŠ 📍#CZECH / #PRAGUE ▪️#Fitness 💪🏻 / #Travel 🌍/ #Fashion 📸 ▪️ DM 📩 paveltl@centrum.cz
     location: "Indonesia"
-    followers: 56250
-    engagement: 515
-    commentsToLikes: 0.009949
-    id: ck5zytas4ahr00i143qk465my
+    followers: 63401
+    engagement: 414
+    commentsToLikes: 0.014890
+    id: ck0u9stviajqr0i19editvkyy
     verified: false
-    hashtags: "#healthylifestyle, #bodybuilding, #femalefitness, #fitmom"
-  - username: "sammiesunga"
+    hashtags: "#trip, #malemodel, #gay, #greece"
+  - username: "bodybuilder.id"
     fullname: >-
-      SAMMIE
+      Bodybuilder.id
     bio: >-
-      📍MNL🇵🇭 (& sometimes LA🇺🇸) 🚲 @cyclehousemnl 👩🏻‍💻 @totalsports.ph ♡ travel | fitness | beauty
+      Indonesian bodybuilder 🇮🇩 capturing the best moment Fitness Photography Photoshoot and Endorsement/Paid Promote..DM📞 ⏬watch & subscribe our channel
     location: "Indonesia"
-    followers: 69385
-    engagement: 190
-    commentsToLikes: 0.023670
-    id: ck6ty3c8t1fsl0j71bj9de8nr
+    followers: 30273
+    engagement: 174
+    commentsToLikes: 0.016412
+    id: ck5pvuhiajp310i11wdji6qsm
     verified: false
-    hashtags: "#betheonetogoforit, #kissnewyorklady, #danielwellington, #dwphilippines"
+    hashtags: "#bodygoal, #menshealth, #fitnessmania, #gymmotivation"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Belgium In 2022
+title: Top 10 Music Instagram Influencers In Belgium In 2023
 description: >-
-  Find top music Instagram influencers in Belgium in 2022. Most popular hashtags: #music #friends #artist.
+  Find top music Instagram influencers in Belgium in 2023. Most popular hashtags: #music #summer #friends.
 platform: Instagram
-hits: 75
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 75 Instagram influencers like this in Belgium for you to work with.
+hits: 41
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 41 Instagram influencers like this in Belgium for you to pitch.
 profiles:
-  - username: "alina.havrisciuc"
+  - username: "djlicious_official"
     fullname: >-
-      A L I N A
+      Dj Licious
     bio: >-
-      I sᴇʀᴠᴇ ᴛʜʀᴏᴜɢʜ MUSIC ☟︎NEW VIDEO
+      📥 mgmt@djlicious.be 📀 My label @shomirecords 📍Belgium 🎶 New music & latest updates ⬇️
     location: "Belgium"
-    followers: 20521
-    engagement: 738
-    commentsToLikes: 0.134839
-    id: ck14icgnkeq6i0i19b8tb1rrz
-    verified: false
-    hashtags: "#babysocks, #friday, #backtoschool, #blessed"
-  - username: "nicolinehummelofficial"
-    fullname: >-
-      Nicoline Hummel official
-    bio: >-
-      Actress Singer Musical theatre Writer
-    location: "Belgium"
-    followers: 35922
-    engagement: 645
-    commentsToLikes: 0.026380
-    id: ck5hmzuc4mxz00i114yf5j0aw
+    followers: 25746
+    engagement: 168
+    commentsToLikes: 0.096200
+    id: ck5hpuj3wrzsa0i11mpfkd6a7
     verified: true
-    hashtags: "#selfcare, #happiness, #pipa, #singer"
-  - username: "realkateryan"
-    fullname: >-
-      Kate Ryan
-    bio: >-
-      World music award winner ⭐️ Singer/ songwriter/ artist /creator. Ontdek mij "Natur'elle" 👇🏻
-    location: "Belgium"
-    followers: 32758
-    engagement: 320
-    commentsToLikes: 0.043993
-    id: ck5ck9s4rwfjr0i1147kzflka
-    verified: true
-    hashtags: "#lovelyday, #monaco, #artist, #libertine"
+    hashtags: "#smile, #stubru, #love, #armenpaul"
   - username: "romeoblanco"
     fullname: >-
       Romeo Blanco
     bio: >-
-      Music Producer / Songwriter / Artist 🇧🇪 Belgian born | touring the world. 📀 Golden record for ‘In The Mood’ ‘FOR YOUR LOVE’ out now! Get it here:
+      Music Producer / Songwriter / Artist 🇧🇪 Belgian born | touring the world. 📀 Golden record for ‘In The Mood’ ‘FOR YOUR LOVE’ out now! WOTN TV here:
     location: "Belgium"
-    followers: 50399
-    engagement: 85
-    commentsToLikes: 0.082212
+    followers: 50691
+    engagement: 96
+    commentsToLikes: 0.088014
     id: ckapayeglxxpu0i787dc562hk
     verified: true
-    hashtags: "#artist, #tomorrowland, #dj, #music"
-  - username: "matthewjohnmichel"
-    fullname: >-
-      ᴍᴀᴛᴛʜᴇᴡ ᴍɪᴄʜᴇʟ
-    bio: >-
-      ▪️Uitvoerend en creatief artiest ▫️La Cage Aux Folles, Ketnet Musical, Campus12 ▫️Antwerpen ▫️matthewjmichel1988@gmail.com
-    location: "Belgium"
-    followers: 24466
-    engagement: 550
-    commentsToLikes: 0.018294
-    id: ckap8lcz8oub40i78zur96x3p
-    verified: false
-    hashtags: "#voorveiligverkeer, #verrassendintens, #incroyablementintense, #philadelphiaintense"
+    hashtags: "#artist, #antwerp, #music, #romeoblanco"
   - username: "jaspersteverlinck"
     fullname: >-
       Jasper Steverlinck
     bio: >-
       Singer, songwriter, musician, producer
     location: "Belgium"
-    followers: 10818
-    engagement: 626
-    commentsToLikes: 0.044406
+    followers: 11039
+    engagement: 579
+    commentsToLikes: 0.042816
     id: ck5qclmsvr6hb0i11aqfwsv47
     verified: true
-    hashtags: "#music, #friends, #songwriting, #gibson"
-  - username: "zoe.wanderer"
-    fullname: >-
-      Zoë
-    bio: >-
-      Wild one⚡️🦋 La vie en rose🌹 🎶 Do everything with love Inspired @onlyhumanmoods Freelance model: Dm for Collabs & bookings 💙🎤music & art
-    location: "Belgium"
-    followers: 9577
-    engagement: 393
-    commentsToLikes: 0.043446
-    id: ck6uejbj1r9c90j716dcpk8t7
-    verified: false
-    hashtags: "#noretouching, #justme, #humanity, #singing"
-  - username: "jadehassoune"
-    fullname: >-
-      Jade Hassouné
-    bio: >-
-      ‪I’m in Montreal, I make pop music as #J4DE ™💕Also I’m #Meliorn in #Shadowhunters 🍃🎉My debut EP is out now! Listen to ittttt👇🏽🌈
-    location: "Belgium"
-    followers: 351502
-    engagement: 354
-    commentsToLikes: 0.013639
-    id: ck6u606lscs3e0j71v420hmwe
-    verified: true
-    hashtags: "#meliorn, #lltaf, #shadowhunters, #lovelettertoafandom"
+    hashtags: "#songwriting, #music, #friends, #masks"
   - username: "rodnaima"
     fullname: >-
       Naïma Rodric
     bio: >-
-      Belgian Actress 🎬 Agent Agitateur - Cyril Cannizzo Cinéma / Soon • Music Hole 🎥
+      Belgian Actress 🪐 🎬 Agent Agitateur - Cyril Cannizzo Cinéma / Soon • Music Hole 🎥
     location: "Belgium"
-    followers: 11628
-    engagement: 722
-    commentsToLikes: 0.027230
+    followers: 12405
+    engagement: 712
+    commentsToLikes: 0.043191
     id: ckap3ot603wmv0i78yoz8ogru
     verified: false
-    hashtags: "#belgium, #gobletsreutilisables, #waterfalls"
-  - username: "dbstf"
+    hashtags: "#egotrip"
+  - username: "phorphor__kim"
     fullname: >-
-      DBSTF • D-Block & S-te-Fan ☆☆
+      Phorphor__kim
     bio: >-
-      ☆☆ @ghoststorieslive ☆☆ Music Made Addictz podcast ☆☆ TROUBLE OUT NOW;
+      Taken 🔐 I ❤️ Dancing, Fashion, Cooking, Music Thank you for my new followers 🥺 Tiktok: itsphorphorkim (130k+) • Founder @shophenceeberry_ @sneaky.pai
     location: "Belgium"
-    followers: 197065
-    engagement: 404
-    commentsToLikes: 0.049312
-    id: ck1344ny3uopd0i19t2779uj9
+    followers: 9639
+    engagement: 569
+    commentsToLikes: 0.009843
+    id: ck15rhntb7zc90i19ln9lnfjr
+    verified: false
+    hashtags: "#fashion, #outfits, #blogger, #modeling"
+  - username: "milowofficial"
+    fullname: >-
+      Milow
+    bio: >-
+      Singer-songwriter 🇧🇪. Working on new music. Text me: Whatsapp +32493098809
+    location: "Belgium"
+    followers: 75163
+    engagement: 239
+    commentsToLikes: 0.037883
+    id: ck0u0jciwty870i19l7ioutv2
     verified: true
+    hashtags: "#zdf, #bauhausuni, #uniweimar, #3sat"
+  - username: "yellowstraps"
+    fullname: >-
+      YellowBoy making love music
+    bio: >-
+      I do make music It's only Love Next Live Show, Brussels, Sept 8th, Tix available 👇🏾
+    location: "Belgium"
+    followers: 21339
+    engagement: 523
+    commentsToLikes: 0.026898
+    id: ck0vvnv70pyfv0i19233ctpag
+    verified: true
+    hashtags: ""
+  - username: "quintino"
+    fullname: >-
+      QUINTINO
+    bio: >-
+      NEW MUSIC!!! ‘MAKE IT LOUDER’ IS OUT NOW!! 📢 👇
+    location: "Belgium"
+    followers: 862325
+    engagement: 85
+    commentsToLikes: 0.016258
+    id: ck0uet2pmm60l0i19n8uwcdbk
+    verified: true
+    hashtags: ""
+  - username: "zoevangastel_"
+    fullname: >-
+      Zoe van Gastel
+    bio: >-
+      I only dance when the music is really good Creative dir. & partner @nativenationeu 📍always very close to @domienloubry
+    location: "Belgium"
+    followers: 54739
+    engagement: 132
+    commentsToLikes: 0.026506
+    id: ckap35hwm1n4n0i78xnfveoao
+    verified: false
+    hashtags: "#puglove, #mallorca2020, #mopshond, #instapug"
+  - username: "davidscorzofficial"
+    fullname: >-
+      David Scorz
+    bio: >-
+      🎧 MUSIC PRODUCER/SOUND DESIGNER 📚 DAILY PRODUCER TIPS/TRICKS 👉🏼 Artist alias @outdonemusic Support me by becoming a patreon!👇🏻
+    location: "Belgium"
+    followers: 37090
+    engagement: 395
+    commentsToLikes: 0.019705
+    id: ck8tclf7rztk80j78z5gngo5i
+    verified: false
     hashtags: ""
 ---

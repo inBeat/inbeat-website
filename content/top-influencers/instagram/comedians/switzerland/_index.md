@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Switzerland In 2022
+title: Top 10 Comedians Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top comedians Instagram influencers in Switzerland in 2022. Most popular hashtags: #comedy #swiss #switzerland #schweiz.
+  Find top comedians Instagram influencers in Switzerland in 2023. Most popular hashtags: #comedy #swiss #switzerland #schweiz.
 platform: Instagram
 hits: 8
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In New York In 2022
+title: Top 10 Beauty Instagram Influencers In New York In 2023
 description: >-
-  Find top beauty Instagram influencers in New York in 2022. Most popular hashtags: #beauty #newyork #fashion #nature.
+  Find top beauty Instagram influencers in New York in 2023. Most popular hashtags: #beauty #newyork #fashion.
 platform: Instagram
-hits: 804
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 804 Instagram influencers like this in New York, United States for you to work with.
+hits: 818
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 818 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "victordelfueyo"
+  - username: "mrobinnaobioma"
     fullname: >-
-      Victor del Fueyo de la Torre
+      Obinna Obioma 🇳🇬
     bio: >-
-      New York City ➕@bangbangnyc ➕@nycdelfueyo 🌌appts@bangbangforever.com🌌
+      Visual Artist | Photographer | Art Director @mr.o.o_ 1/2 of @xnvstudio New York. Abuja . A.P at @Bighstudios . Inquiries:Email
     location: "United States"
-    followers: 33485
-    engagement: 201
-    commentsToLikes: 0.012186
-    id: ck8t55bzy8tuj0j78qnabec9c
+    followers: 26344
+    engagement: 405
+    commentsToLikes: 0.061712
+    id: ck602ixqshhes0i14nbrn9ke9
     verified: false
-    hashtags: "#blackandgrey, #blackandgreytattoo, #newyorkcity, #cosmos"
-  - username: "mckennajoy_"
+    hashtags: "#teal, #newyork, #fashion, #fineartphotography"
+  - username: "thejenniferdoll"
     fullname: >-
-      McKenna
+      Jennifer Doll 🍒
     bio: >-
-      ✈️ IST 📍NY 🇺🇸@emg_models x @therockagency x @therocktalentagency x @uniquemodelsgr 🇨🇦@iconmodelmanagement 🇹🇷 @hilltopmodelofficial
+      Just a girl that doesn't know what to do with her hands in pictures travel•lifestyle 🍎NYC 📸 @gofginc @gofgincstaff 💌 jenniferkarenhing@gmail.com
     location: "United States"
-    followers: 14185
-    engagement: 647
-    commentsToLikes: 0.911805
-    id: ck8t2bbp1yttm0j78nai30wfa
+    followers: 59504
+    engagement: 297
+    commentsToLikes: 0.006761
+    id: ckap20n9ywvel0i78094xj0hn
     verified: false
-    hashtags: "#editorial, #field, #photo, #fashion"
-  - username: "emmy_milan"
+    hashtags: "#nyceats, #summerofnyc, #revolveme, #notmilk"
+  - username: "jenniferr0d"
     fullname: >-
-      𝓔𝓶𝓶𝔂 𝓜𝓲𝓵𝓪𝓷✨
+      Jen
     bio: >-
-      God is within her, she will NOT fail! Travel:Lifestyle:Visionary God’s Child🦋 NY🗽🇳🇬
-    location: "United States"
-    followers: 14952
-    engagement: 648
-    commentsToLikes: 0.052065
-    id: ck14lev6bub340i199hl0lh9a
-    verified: false
-    hashtags: "#growthmindset, #queen, #manifestation, #vibes"
-  - username: "misssafadi"
-    fullname: >-
-      Tamaraa
-    bio: >-
-      An architect that loves make up, fashion and lifting heavy things. Chicago 💍 🇯🇴
-    location: "United States"
-    followers: 41349
-    engagement: 931
-    commentsToLikes: 0.018572
-    id: ck8t9dvz0nqcg0j78nkzvbygk
-    verified: false
-    hashtags: "#chicagogram, #fitspo, #prettylittlething, #fashionstyle"
-  - username: "naomisoms"
-    fullname: >-
-      NAYONCÈ💋
-    bio: >-
-      ꜰᴏʀɢᴇᴛ ᴍᴀᴘꜱ, ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ɪɴꜱᴛɪɴᴄᴛꜱ 💫 🇨🇺🇲🇽🇪🇸 / NYC baby📍 Bookings @ipmmodels ɴᴏᴛ ᴀ ᴡɪɢ, ɪ ɢʀᴏᴡ ᴛʜɪꜱ ➿ PUBLISHED📰
-    location: "United States"
-    followers: 44356
-    engagement: 179
-    commentsToLikes: 0.102425
-    id: ck5zmzk14nhx10i148ea0eqbb
-    verified: false
-    hashtags: "#ocean, #fitness, #hair, #wanderlust"
-  - username: "olliepersell"
-    fullname: >-
-      Ollie James Persell
-    bio: >-
-      📌LDN Creative Photographer ❘ Creative Director ❘ Travel Life ツ 📸: Canon EOS R Enquiries ⫸ ojpersell@gmail.com
-    location: "United States"
-    followers: 2516
-    engagement: 2773
-    commentsToLikes: 0.030424
-    id: ck5hjv5w1harb0i11dvrw1gjs
-    verified: false
-    hashtags: "#like, #beautiful, #nycprimeshot, #travel"
-  - username: "secondsapart"
-    fullname: >-
       
-    bio: >-
-      at heart, we are only seconds apart 💌 dm for promos or business inquiries 💌
     location: "United States"
-    followers: 157415
-    engagement: 931
-    commentsToLikes: 0.004261
-    id: ck0udvuwzjyfq0i197cdr2zs9
+    followers: 31
+    engagement: 200833
+    commentsToLikes: 0.024445
+    id: ck5ck3rl5w2oo0i11oqad8gn4
     verified: false
-    hashtags: "#broken, #selfcare, #feelingsad, #fashion"
-  - username: "kirit143"
+    hashtags: "#model, #photoshoot, #beach, #style"
+  - username: "ascarlett_"
     fullname: >-
-      𝐊𝐢𝐫𝐢𝐭  𝐏𝐫𝐚𝐣𝐚𝐩𝐚𝐭𝐢
+      NYC Blogger 💖 Andrea Scarlett
     bio: >-
-      📍New York 📸📸 For prints,workshops,tour check website or 📧
+      YOUTUBER Beauty and Fashion Content Creator Costa Rican 🇨🇷 📍New York City 💌:info@andreascarlett.com 🎥 :YouTube channel : Andrea Scarlett
     location: "United States"
-    followers: 26349
-    engagement: 293
-    commentsToLikes: 0.058074
-    id: ck0tzzheas4un0i191382wedi
+    followers: 2761
+    engagement: 729
+    commentsToLikes: 0.192231
+    id: ckf5wznxwtspw0j232mooy8px
     verified: false
-    hashtags: "#exklusive, #heatercentral, #nyc, #usaprimeshot"
-  - username: "mallorywalbruch"
+    hashtags: "#nanoinfluencer, #youtubeinfluencer, #fashionblogger, #travelbloggervibes"
+  - username: "ninajhair"
     fullname: >-
-      M A L L O R Y💛
+      Nina J
     bio: >-
-      👩🏼Model 🎬Acting 🎤Singing 👗Fashion 💟#luvlife *N I Y A* models 💛acct managed by mom
+      For Business Inquiries: ✉️ ninajhair@gmail.com Management: Six K Management @sixkla
     location: "United States"
-    followers: 20807
-    engagement: 462
-    commentsToLikes: 0.189723
-    id: ck0w6zqznb1j20i19xnw8utam
+    followers: 9590
+    engagement: 241
+    commentsToLikes: 0.053448
+    id: ck5qaff71g4hl0i11jfpi8r09
     verified: false
-    hashtags: "#october, #luvlife, #girlmodel, #blueeyes"
-  - username: "afra.lu"
+    hashtags: "#mua, #hair, #style, #blackgirlmagic"
+  - username: "dzebokoeva"
     fullname: >-
-      Afra Lu
+      ᴅᴢᴇʀᴀssᴀ ʙᴏᴋᴏᴇᴠᴀ
     bio: >-
-      Live to create💡 📍NYC Portfolio ⬇️
+      ᴼˢˢᴱᵀᴵᴬ✈ᴺᴱᵂ ᵞᴼᴿᴷ ²² ᵞᴼ☼ᴸᴵᶠᴱ'ˢ ᴼᴺᴸᵞ ᴳᴱᵀᵀᴵᴺᴳ ᴳᴿᴱᴬᵀᴱᴿ PM @dze_permanent TATTOO @dze_tattoo
     location: "United States"
-    followers: 14963
-    engagement: 266
-    commentsToLikes: 0.054964
-    id: ck6to2k6qbqzy0j7188ip6jz6
+    followers: 13317
+    engagement: 421
+    commentsToLikes: 0.011708
+    id: ck6u634jid8r20j71h2vczdfn
     verified: false
-    hashtags: "#creative, #profoto, #canon, #profotob1x"
+    hashtags: ""
+  - username: "avtalova"
+    fullname: >-
+      Nil
+    bio: >-
+      lifestyle. fashion & beauty. 📍New York. Miami
+    location: "United States"
+    followers: 54454
+    engagement: 123
+    commentsToLikes: 0.159225
+    id: ckaosoojusee40i780402od5g
+    verified: false
+    hashtags: "#reels, #igreels, #nycreel, #30dayoutfitchallenge"
+  - username: "laselmastyle"
+    fullname: >-
+      Selma Ali
+    bio: >-
+      • Social Worker in psychiatry 🏥 • Content Creator FASHION || TRAVEL || BEAUTY • 📍NÉW YORK • 🇦🇱🇽🇰🇧🇦 • Laselmastyle@gmail.com 📩
+    location: "United States"
+    followers: 23298
+    engagement: 176
+    commentsToLikes: 0.120387
+    id: ck5ck4x7yw59g0i11f7xa9nyt
+    verified: false
+    hashtags: "#justfabshoes, #cataloniaroyalbavaro, #selfdisclosure, #grandcanyon"
+  - username: "cyberkay"
+    fullname: >-
+      Kiara🎨
+    bio: >-
+      Beauty & Fashion New York 🗽 💌kiarawade30@gmail.com
+    location: "United States"
+    followers: 18248
+    engagement: 557
+    commentsToLikes: 0.067612
+    id: ck6tk5amb419x0j712onrcbne
+    verified: false
+    hashtags: "#underratedmuas, #makeupforblackwomen, #cyberkay, #giftedbymaybelline"
+  - username: "nyclivesnyc"
+    fullname: >-
+      New York City 📸 🌃❤️
+    bio: >-
+      Featuring beauties of New York from most creative eyes&minds...
+    location: "United States"
+    followers: 37192
+    engagement: 716
+    commentsToLikes: 0.007397
+    id: ck15r9pg06unm0i19evjtobo9
+    verified: false
+    hashtags: "#missliberty, #cityoflights, #staystrongnewyork, #manhattan"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Canada In 2022
+title: Top 10 Travel TikTok Influencers In Canada In 2023
 description: >-
-  Find top travel TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #travel #canada #toronto.
+  Find top travel TikTok influencers in Canada in 2023. Most popular hashtags: #travel #toronto #canadian #fyp.
 platform: TikTok
-hits: 679
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 679 TikTok influencers like this in Canada for you to work with.
+hits: 581
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database holds 581 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "bookfully"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🌍 Group Travel Made Easy
     location: "Canada"
-    followers: 57900
-    engagement: 736
-    commentsToLikes: 0.019511
+    followers: 58100
+    engagement: 722
+    commentsToLikes: 0.019269
     id: ck8fa2mmb3yew0j78bc5lx09t
     verified: false
-    hashtags: "#tiktokmaldives, #travel, #borabora, #switzerland"
-  - username: "cruisingstar"
-    fullname: >-
-      Jackie Ⓜ️🧃MasterCreator
-    bio: >-
-      ChadchangeⓂ️/ TTcrew🧃/🏳️‍🌈ally 🇨🇦🇵🇭/❤️to travel /ER Nurse Snap: orchidccl
-    location: "Canada"
-    followers: 6134
-    engagement: 2269
-    commentsToLikes: 0.326447
-    id: ckdi6fzlp7usd0j23f9q24954
-    verified: false
-    hashtags: "#duet, #happyhalloween, #chadchange, #cruisingstar"
-  - username: "jarjarbinx2117"
-    fullname: >-
-      jarrettbautista
-    bio: >-
-      supporter of #Erasethe8 💞 🏳️‍🌈Bisexual🏳️‍🌈 Love to travel and take photos
-    location: "Canada"
-    followers: 4877
-    engagement: 2680
-    commentsToLikes: 0.316110
-    id: ckdtkyzltyxch0j23x682yetg
-    verified: false
-    hashtags: "#duet, #helpingthemgrow, #fyp, #fall"
-  - username: "brycenicholsonart"
-    fullname: >-
-      brycenicholsonart
-    bio: >-
-      I’m Bryce and I draw stuff😬 Art ✏️ Love 🖤 Travel 🌎 Www.BryceNicholsonArt.com
-    location: "Canada"
-    followers: 2502
-    engagement: 1324
-    commentsToLikes: 0.104963
-    id: ckcpahjmmesxc0j23usqz1urs
-    verified: false
-    hashtags: "#artsy, #artistcheck, #draw, #tiktokartist"
-  - username: "stephenkortzman"
-    fullname: >-
-      Stephen Kortzman
-    bio: >-
-      🗺 have camera; will travel 🌲 adventure & nature 🇨🇦 Winnipeg, Canada
-    location: "Canada"
-    followers: 3399
-    engagement: 1794
-    commentsToLikes: 0.234024
-    id: ck8f7uve738e50j78xuxikxb5
-    verified: false
-    hashtags: "#madeincanada, #photography101, #cinematics, #gottacatchemall"
-  - username: "jasminmccarthyy"
-    fullname: >-
-      Jasmin McCarthy
-    bio: >-
-      IG: @jasminmccarthyy ♡ Inquiries → jasmin.mccarthy3@gmail.com Travel/Lifestyle
-    location: "Canada"
-    followers: 57400
-    engagement: 1056
-    commentsToLikes: 0.051674
-    id: ck9k8ip7098kx0j78ne1rqwrk
-    verified: false
-    hashtags: "#banff, #canadian, #alberta, #canadiangirl"
+    hashtags: "#beachvibes, #borabora, #switzerland, #travel"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
     bio: >-
       Lifestyle • Vlogs • Comedy • Fashion • Travel 📧 Naomi.leanage@gmail.com
     location: "Canada"
-    followers: 405900
-    engagement: 2668
-    commentsToLikes: 0.009405
+    followers: 454800
+    engagement: 1799
+    commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#toronto, #thriftshop, #thrifting, #tiktokcanada"
-  - username: "freshdailyca"
+    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+  - username: "brycenicholsonart"
     fullname: >-
-      Freshdaily
+      brycenicholsonart
     bio: >-
-      CEO of Canada 🇨🇦 Canada’s source for news, culture, food and travel
+      I’m Bryce and I draw stuff😬 Art ✏️ Love 🖤 Travel 🌎 Www.BryceNicholsonArt.com
     location: "Canada"
-    followers: 92100
-    engagement: 1684
-    commentsToLikes: 0.026666
-    id: ck9f9jj9z70kg0j78behujol9
+    followers: 2466
+    engagement: 1336
+    commentsToLikes: 0.099724
+    id: ckcpahjmmesxc0j23usqz1urs
     verified: false
-    hashtags: "#sask, #foryoupage, #ontario, #canadalife"
+    hashtags: "#artistsoftiktok, #artiktok, #pencilart, #lion"
+  - username: "ben.glassco"
+    fullname: >-
+      Ben Glassco Photo
+    bio: >-
+      Follow my insta☝️ Quit the 9-5, now a full-time travel photog 📍Vancouver 🇨🇦
+    location: "Canada"
+    followers: 30100
+    engagement: 1340
+    commentsToLikes: 0.108754
+    id: ckammxh502g7q0i78cua0ypgg
+    verified: false
+    hashtags: "#springtimefun, #mountainman, #canadian, #vancouver"
+  - username: "stephenkortzman"
+    fullname: >-
+      Stephen Kortzman
+    bio: >-
+      📷 have camera; will travel 🌲 adventure, nature, & wildlife 🇨🇦 Winnipeg
+    location: "Canada"
+    followers: 3546
+    engagement: 1734
+    commentsToLikes: 0.447789
+    id: ck8f7uve738e50j78xuxikxb5
+    verified: false
+    hashtags: "#naturephotography, #filmmaker, #tiktokwildlife, #nature"
+  - username: "hibaottawa"
+    fullname: >-
+      Hiba
+    bio: >-
+      Lebanese Canadian 🇱🇧 🇨🇦 Food, pet owner, artist, stylist, traveler✈
+    location: "Canada"
+    followers: 103000
+    engagement: 1333
+    commentsToLikes: 0.175895
+    id: ck9nd0592ceos0j78mgvnxupt
+    verified: false
+    hashtags: "#comedy, #duet"
+  - username: "emscourtney"
+    fullname: >-
+      Emma
+    bio: >-
+      Lover of interior design, baking, travel, fitness & cats 📍Toronto
+    location: "Canada"
+    followers: 3263
+    engagement: 771
+    commentsToLikes: 0.088157
+    id: ckace9kecltqt0i78fzu4m3f9
+    verified: false
+    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+  - username: "jaysoune"
+    fullname: >-
+      Jason Gagnon
+    bio: >-
+      Your friendly curly-haired French Canadian traveller stuck in Toronto 💫
+    location: "Canada"
+    followers: 53000
+    engagement: 1325
+    commentsToLikes: 0.034175
+    id: ck8farx6o4n480j78vun4dtfc
+    verified: false
+    hashtags: "#wiperightcharmin, #china, #greenscreen, #greenout22"
   - username: "_istiana"
     fullname: >-
       Istiana
     bio: >-
       aesthetic, travel guides, that kind of stuff
     location: "Canada"
-    followers: 4131
-    engagement: 634
-    commentsToLikes: 0.096238
+    followers: 4925
+    engagement: 964
+    commentsToLikes: 0.072749
     id: ckcv70kd8pudd0j23vv7y9por
     verified: false
-    hashtags: "#myaesthetic, #travelguide, #travelbucketlist, #vlog"
-  - username: "kathryn_316"
+    hashtags: "#travelbucketlist, #myaesthetic, #toronto, #traveltheworld"
+  - username: "juliiathompson"
     fullname: >-
-      Pretty Purry Cattery
+      Julia Thompson
     bio: >-
-      Kitties, Dogs, Art and travel blogs. Pretty Purry Cattery
+      travel + adventure vancouver, canada 220k on IG, come say hi!👇🏻
     location: "Canada"
-    followers: 60100
-    engagement: 2063
-    commentsToLikes: 0.023605
-    id: ck8kgp4drjeyb0j7833e28bxn
+    followers: 284500
+    engagement: 1637
+    commentsToLikes: 0.018498
+    id: ck9rgyw85d6270j78h2jpfi2p
     verified: false
-    hashtags: "#dayinmylife, #mypet, #tomybestfriend, #fluffyguy"
+    hashtags: "#spainstitch, #travelespagne, #ad"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In South Africa In 2022
+title: Top 10 Makeup Instagram Influencers In South Africa In 2023
 description: >-
-  Find top makeup Instagram influencers in South Africa in 2022. Most popular hashtags: #makeup #fashion #makeuptutorial.
+  Find top makeup Instagram influencers in South Africa in 2023. Most popular hashtags: #makeup #beauty #makeuptutorial.
 platform: Instagram
-hits: 145
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 145 Instagram influencers like this in South Africa for you to work with.
+hits: 99
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 99 Instagram influencers like this in South Africa for you to connect with.
 profiles:
-  - username: "sinothandojack"
+  - username: "preciousxabamakeup"
     fullname: >-
-      A REAL LIFE BARBIE 🌹
+      PreciousXABA
     bio: >-
-      ❄️ : Snowy Jack 📖 : GOD FIRST 📍 : Cape Town 💄 : Makeup Artist 💎 : Princess treatment or leave me alone
+      Makeup artist, Health & Skin care therapist & Make-up Educator Makeup bookings email-xaba.precious@yahoo.com Campaign bookings email -Percy@uvba.co.za
     location: "South Africa"
-    followers: 11373
-    engagement: 1150
-    commentsToLikes: 0.036061
-    id: ckaozril9n3650i78h7fqz78n
+    followers: 42238
+    engagement: 278
+    commentsToLikes: 0.123191
+    id: ck5hkod83isj10i11i7nk6c8f
     verified: false
-    hashtags: ""
+    hashtags: "#editorialmakeup, #bridalmakeup, #makeup, #editorialphotography"
   - username: "sayladean"
     fullname: >-
       S A Y L A 🇿🇦
     bio: >-
-      Pro Makeup Artist, Beauty Content Creator & Youtuber sayladean77@gmail.com @blaze_thompson98 ❤️ NEW WEEKLY VLOG⤵️
+      Pro Makeup Artist, Beauty Content Creator & Youtuber sayladean77@gmail.com @blaze_thompson98 💍
     location: "South Africa"
-    followers: 38996
-    engagement: 569
-    commentsToLikes: 0.050090
+    followers: 47453
+    engagement: 400
+    commentsToLikes: 0.036568
     id: ck0u21mp5ylih0i19wt4gk04m
     verified: false
-    hashtags: "#prosanahair, #realgirlsofbody, #mycottonon, #loccitaneimmortelle"
-  - username: "aly_bux"
-    fullname: >-
-      A A L I Y A H - B U X
-    bio: >-
-      Redefining the beauty industry 1 eyeliner at a time. Enemies of the heir, beware 🐍 Pro Makeup Artist | Content Creator Co-Partner at @bmups_ Academy
-    location: "South Africa"
-    followers: 13976
-    engagement: 708
-    commentsToLikes: 0.109319
-    id: ck15t918jgxbk0i19avy1pp4f
-    verified: false
-    hashtags: "#creative, #womenempowerment, #durbansouthafrica, #fashion"
+    hashtags: "#superlustrousglassshine, #ghdunplugged, #kissmyglass, #toni"
   - username: "shelly_annj"
     fullname: >-
       Shelly-Ann Johnson
     bio: >-
-      Romans 5:17 👑 A teacher 👩🏻‍🏫 Makeup 💄@mu_shellyann 📍🇿🇦 Cape Town For any collabs/business, please email👇🏼 🚨 new video
+      Psalm 91 ♥️🙏🏼 Foundation phase teacher 👩🏻‍🏫 Makeup 💄@mu_shellyann 📍🇿🇦 Cape Town For any collabs/business, please email👇🏼
     location: "South Africa"
-    followers: 30773
-    engagement: 511
-    commentsToLikes: 0.007698
+    followers: 32923
+    engagement: 552
+    commentsToLikes: 0.009325
     id: ck5zt823rzwsu0i14nvkbfng2
     verified: false
-    hashtags: "#proudteacher, #unmeritedfavour, #unitedagainstcovid19, #makeup"
-  - username: "kayyyy_macedo"
-    fullname: >-
-      K A Y L A   M A C E D O
-    bio: >-
-      INFLUENCER | FREELANCE MODEL 📍South Africa Dm me for any collaborations/enquiries @kaylamacedo.makeup
-    location: "South Africa"
-    followers: 14837
-    engagement: 529
-    commentsToLikes: 0.050491
-    id: ck5zqqgedv3aw0i14jm8nqorr
-    verified: false
-    hashtags: "#gifted, #mycottonon, #model, #southafrica"
+    hashtags: "#deluxelaser, #fomoappsa, #mua, #bedhair"
   - username: "cantarafarouk"
     fullname: >-
       Cantara Farouk
     bio: >-
       Pro Makeup Artist & Digital Content Creator Entrepreneur: @bycantara Johannesburg, South Africa 🇿🇦 LATEST YOUTUBE VIDEO!!
     location: "South Africa"
-    followers: 34366
-    engagement: 637
-    commentsToLikes: 0.201814
+    followers: 37352
+    engagement: 378
+    commentsToLikes: 0.048941
     id: ck5q5h8hjsv750i11jq8h95t5
     verified: false
-    hashtags: "#letyoureyesdothetalking, #4years, #22, #popartzombie"
-  - username: "mrsroxyamas_"
-    fullname: >-
-      Roxy Wbff Pro
-    bio: >-
-      🇿🇦 MUA💋 @makeup_by_roxy_ @__raidmycloset Athlete @rishapeangels @magicbikinis @ryderwear Roxy10 WBFF Bikini Pro 6th 🌎
-    location: "South Africa"
-    followers: 39174
-    engagement: 231
-    commentsToLikes: 0.013658
-    id: ck0w49eacxfyk0i195a1n2l0w
-    verified: false
-    hashtags: "#raidmycloset, #magicbikinis, #makeupbyroxy, #contentcreation"
-  - username: "annettaprimadonna"
-    fullname: >-
-      𝓐𝓷𝓷𝓮𝓽𝓽𝓮 𝓚𝓮𝓶𝓹
-    bio: >-
-      Afrikaans 🍻 Old-fashioned Girl 🌼 Actress @ermstars 🇿🇦⁣⁣ Model @bossmodelsa 📸⁣⁣ Writer 🦊 ✨Natural Redhead⁣ ✨Haircare & Makeup⁣
-    location: "South Africa"
-    followers: 37677
-    engagement: 477
-    commentsToLikes: 0.028376
-    id: ck15qfb7i2kdy0i196rs1xs3l
-    verified: false
-    hashtags: "#redhair, #hairtutorial, #esteelauder, #shorthair"
-  - username: "jonathaninstyle"
-    fullname: >-
-      Jonathaninstyle
-    bio: >-
-      NON BINARY 💫⭐️ AFRICAN ROYALTY 👑 🤎🖤🇬🇭 MAKEUP Enthusiast FASHION degree on de MF side Built and still building MYSELF God got us all 💪🏽💪🏽
-    location: "South Africa"
-    followers: 44857
-    engagement: 52
-    commentsToLikes: 0.070765
-    id: ck5c8y7phafcl0i11xwcovx5g
-    verified: false
-    hashtags: "#morphe, #makeuptutorial, #jonathaninstyle, #makeupartistsworldwide"
+    hashtags: "#powerpuffgirlsxcolourpop, #powerpuffgirls, #kissmyglass, #colourpopcosmetics"
   - username: "shewolfsa"
     fullname: >-
       H A N N A H
     bio: >-
       🧿 hi there lovelies! 🐺 content creator • pro makeup artist 📍 cape town, South Africa 📹 subscribe to my channel
     location: "South Africa"
-    followers: 10482
-    engagement: 514
-    commentsToLikes: 0.075262
+    followers: 11166
+    engagement: 530
+    commentsToLikes: 0.118174
     id: ck5horeghq36l0i11ooo2s5z1
     verified: false
-    hashtags: "#makeuptutorial, #nanaween2020, #makeuphowto, #halloween"
+    hashtags: "#halloweenmakeup, #nanaween2020, #ad, #makeuptutorial"
+  - username: "annettaprimadonna"
+    fullname: >-
+      𝓐𝓷𝓷𝓮𝓽𝓽𝓮 𝓚𝓮𝓶𝓹
+    bio: >-
+      Afrikaans 🍻 Wife-to-Be 💍 Old-fashioned Girl 🌼 Actress @ermstars 🇿🇦⁣⁣ Model @bossmodelsa 📸⁣⁣ Writer 🦊 ✨Natural Redhead⁣ ✨Haircare, Fashion, Makeup⁣
+    location: "South Africa"
+    followers: 36862
+    engagement: 424
+    commentsToLikes: 0.030438
+    id: ck15qfb7i2kdy0i196rs1xs3l
+    verified: false
+    hashtags: "#leestafford, #redhair, #hairtutorial, #haircare"
+  - username: "joannereyneke"
+    fullname: >-
+      Jo-Anne Reyneke
+    bio: >-
+      Purpose: Mother Profession: Actor| MC | Voice over Artist | self taught Makeup Artist SAFTA Award Winner For Bookings: joreynekebookings@gmail.com
+    location: "South Africa"
+    followers: 527821
+    engagement: 97
+    commentsToLikes: 0.010309
+    id: ckap61bipe1aa0i7899rczppu
+    verified: false
+    hashtags: "#thedome, #everyonesstory, #theestateon3, #thandi"
+  - username: "judiekama"
+    fullname: >-
+      Judie Sbahle Kama
+    bio: >-
+      •cooking page @plate_with_judiekama •Co-owner and founder of @botched_hair •Makeup artist @makeup_by_judiekama •Dj God Favourite 😇
+    location: "South Africa"
+    followers: 99404
+    engagement: 259
+    commentsToLikes: 0.013507
+    id: ck13cgiel084e0i19d3dxjumm
+    verified: false
+    hashtags: "#babysoft, #ad, #ithembawalkathon, #toiletschangelives"
+  - username: "izzyraad.mua"
+    fullname: >-
+      Isabella
+    bio: >-
+      Pro Makeup Artist || Content Creator Represented by @lmda_ateliers 🐝 3rd year Brand Strategy student 👩🏻‍🎓 YouTube channel 👇🏼
+    location: "South Africa"
+    followers: 7236
+    engagement: 835
+    commentsToLikes: 0.261313
+    id: ck6ue9lnkpmdm0j710zdgheli
+    verified: false
+    hashtags: "#sp, #ad, #pinkpowerchallenge, #sponsored"
+  - username: "jonathaninstyle"
+    fullname: >-
+      Jonathaninstyle
+    bio: >-
+      NON BINARY 💫⭐️ AFRICAN ROYALTY 👑 🤎🖤🇬🇭 MAKEUP Enthusiast You mess with @beyonce, you mess With my life FASHION degree on de MF side God got us
+    location: "South Africa"
+    followers: 45753
+    engagement: 108
+    commentsToLikes: 0.063903
+    id: ck5c8y7phafcl0i11xwcovx5g
+    verified: false
+    hashtags: "#makeupmafia, #instagram, #lifestyle, #jonathaninstyle"
 ---

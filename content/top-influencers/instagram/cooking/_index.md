@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking Instagram Influencers In 2022
+title: Top 10 Cooking Instagram Influencers In 2023
 description: >-
-  Find top cooking Instagram influencers in 2022. Most popular hashtags: #ootd #hunting #food.
+  Find top cooking Instagram influencers in 2023. Most popular hashtags: #reels #foodblogger #christmas.
 platform: Instagram
-hits: 7182
+hits: 6002
 text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 7182 Instagram influencers like this for you to contact.
+text_bottom: Our platform aggregates 6002 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "cooking"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck6uag9wu3eb10j713fiwb90p
     verified: false
     hashtags: ""
-  - username: "helia_saffar"
+  - username: "nicolas_aesthetics"
     fullname: >-
-      هلیا صفار🍝
+      Nicolas Enache | Fitness, Cooking & Health
     bio: >-
-      🍃💛 Cooking Is My Therapy💜🍃 👩🏻‍🍳👩🏻‍🍳Graduated in culinary👩🏻‍🍳👩🏻‍🍳 💙فارغ التحصیل رشته آشپزی 💙
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
+    location: "Germany"
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
+    verified: false
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
+  - username: "alexboisset"
+    fullname: >-
+      ALEX BOISSET
+    bio: >-
+      🌍🌱 cooking at @b3tterfoods 👨🏻‍🍳 hey@alexboisset.com
+    location: "Spain"
+    followers: 171070
+    engagement: 1612
+    commentsToLikes: 0.004443
+    id: ck0vvj7sqpdr20i19f7y48s7h
+    verified: false
+    hashtags: "#conduceelcambio, #cargadodeemociones, #visitsaudi, #acquadigio"
+  - username: "keepyourdaydream"
+    fullname: >-
+      Marc & Tricia
+    bio: >-
+      Start small Start now! Travel 🚎 Family 💙 Cooking 📽 Feel good stories every Sunday! keepyourdaydream
     location: "United States"
-    followers: 75823
-    engagement: 1076
-    commentsToLikes: 0.059387
-    id: ck0w6s02ja0k60i19p5r9sb6h
+    followers: 108038
+    engagement: 398
+    commentsToLikes: 0.026737
+    id: ck5c6lbpk5odp0i11c916hvr8
     verified: false
-    hashtags: ""
-  - username: "stereolady"
+    hashtags: "#airstream, #nationalpark, #rvlife, #bicycletouring"
+  - username: "addisonbounds12"
     fullname: >-
-      StereoLady 🎧❤️
+      Addison Bounds
     bio: >-
-      Rome 🇮🇹 music 🎵 drums & piano 🥁 cooking 🍽️ walking 🚶 programming 💾 languages 🈴 sharing thoughts & emotions 💭 being awake at night 🌙 astronomy 💫
-    location: "Italy"
-    followers: 30960
-    engagement: 880
-    commentsToLikes: 0.079902
-    id: ck8tahj87rs2p0j78rh1p3ygr
-    verified: false
-    hashtags: "#almenotunelluniverso"
-  - username: "t_a_p_u_h_i"
-    fullname: >-
-      Dudi Tapuhi 🍏
-    bio: >-
-      Modi'in, Israel🇮🇱 My Family👨‍👩‍👧‍👧 People👩🏼‍🦰👨🏽‍🦲 Cooking👨🏻‍🍳 & More Stuff Nikon D850📷 /Fuji X-E3📷 /GoPro Hero 7📷/iPhone 8+📱 החיים ברזולוציה גבוהה
-    location: ""
-    followers: 3398
-    engagement: 2165
-    commentsToLikes: 0.454826
-    id: ckf5p4zqv4zxu0j2300voqw7u
-    verified: false
-    hashtags: ""
-  - username: "sarah_hsiao"
-    fullname: >-
-      Sarah Hsiao
-    bio: >-
-      Craving for a traveling life✨ ⬇️More about my blog 🆕【JIFS Cooking Salon】台中最美古董私宅餐廳(讀者優惠)
-    location: ""
-    followers: 36095
-    engagement: 534
-    commentsToLikes: 0.065990
-    id: ck5c1jynlvbvz0i11py9jevto
-    verified: false
-    hashtags: "#hualientravel, #mountains, #traveltheworld, #halloweenmakeup"
-  - username: "trout_in_the_valley"
-    fullname: >-
-      Hook Em' And Cook Em'
-    bio: >-
-      Lehigh Valley,Pa📌Fishing,Hunting,Cooking,and Everything Outdoors. 🎣🏹🦌🦃🌄Page Owner:@g__achi.
+      Professional IG Husband @bicahbody & @bicahbychloe Tik Tok: cooking4wifey • links to my things and stuff 👇🏻•
     location: "United States"
-    followers: 8966
-    engagement: 1165
-    commentsToLikes: 0.093059
-    id: ck6tzs7i7bjt80j71u8rqddde
+    followers: 14876
+    engagement: 1080
+    commentsToLikes: 0.011412
+    id: clbetzmcb0r3t0j08mxqhpnnc
     verified: false
-    hashtags: "#hunting, #fishing, #fisherman, #outdoors"
-  - username: "luke_spongo"
+    hashtags: "#thrivemarketpartner, #primalkitchen, #mealprep"
+  - username: "livingoutlaod"
     fullname: >-
-      Luke Spong
+      Living Out LAOD
     bio: >-
-      Venatic | Decent Angler | Cooking | Cant sing | Can’t dance @livinwithmb🤞
+      LAODLY🇱🇦sharing authentic life moments on Lao cuisine, culture, language, family, cooking, eating, hosting, entertaining, home, garden, travel, tips.
     location: "United States"
-    followers: 24258
-    engagement: 989
-    commentsToLikes: 0.051960
-    id: ckap8vrwuq4130i78uyucz87f
+    followers: 43353
+    engagement: 311
+    commentsToLikes: 0.045932
+    id: ck1345956urom0i19nbiqdfpx
     verified: false
-    hashtags: "#turkeyhunting, #cantstoptheflop, #fueledbynature, #appareldesign"
-  - username: "emily.fauver"
+    hashtags: "#laofood, #laocuisine, #somtum, #reels"
+  - username: "sylvia.wakana"
     fullname: >-
-      ✖️ E M I L Y   F A U V E R ✖️
+      Sylvia わかな - Japanese Food + Life
     bio: >-
-      #POSTPARTUM Fitness 👶🏼 Mama to A Miracle ✈️ Mil Spouse 👩‍🍳 Big Bow Cooking Show Producer ✉️ emilyfauver3@gmail.com CHANGE YOUR LIFE HERE👇🏼
+      Cooking & Eating in LA + Tokyo [ハーフ] 🇺🇸🇯🇵 🎥 Tiktok: sylvia.wakana (210k+) ▶️ Youtube.com/sylviawakana ⬇️ Simple Japanese Recipes
+    location: "Japan"
+    followers: 73101
+    engagement: 307
+    commentsToLikes: 0.033552
+    id: ck5caemc7d9td0i11bwymyy0c
+    verified: false
+    hashtags: "#japanlife, #oshogatsu, #japanesefoodlover, #japanesefoods"
+  - username: "theshellfishcook"
+    fullname: >-
+      The Shellfish Cook 🦞
+    bio: >-
+      Sup. I’m Theye (like who are THEY). People call me the seafood 👸🏻. @cookingwithpitties 🐾
     location: "United States"
-    followers: 114928
-    engagement: 830
-    commentsToLikes: 0.031575
-    id: ck5pykyf3wiqr0i11ovkjll74
+    followers: 166297
+    engagement: 238
+    commentsToLikes: 0.017706
+    id: cl0c03ld7ezf10i23toba6hl8
     verified: false
-    hashtags: "#bigbowcookingshow, #thisismycircle, #thebigbowcookingshow, #humblebrag"
-  - username: "payydayyy"
+    hashtags: "#dog, #crab, #meat, #reelsvideo"
+  - username: "doroteamercuri"
     fullname: >-
-      Payton Stumbaugh Chadwick
+      Dorotea Mercuri
     bio: >-
-      @asics Athlete @captathletics || Arkansas Alumni || USA 🥈|| 💍 || Cooking❤️ @traegergrills || Fayetteville, AR || @macrostax discount code: PAYTON10
+      Remember, everyone needs help. 🐈 #cookingwithdoro
     location: "United States"
-    followers: 8415
-    engagement: 1360
-    commentsToLikes: 0.051963
-    id: ck6ttzvwrdif40j71zt7z25ev
+    followers: 98206
+    engagement: 215
+    commentsToLikes: 0.013738
+    id: ck13d202w39gh0i19kkdhb42j
     verified: false
-    hashtags: "#track, #foodie, #athletics, #training"
-  - username: "tamarawebb_"
+    hashtags: "#focacciapomodorini, #petekreiner, #sagapopolli, #globalwarming"
+  - username: "middleclassmamma"
     fullname: >-
-      TAMARA WEBB 💫
+      Home Build • Lifestyle • Parenting • Decor
     bio: >-
-      Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
-    location: "India"
-    followers: 53255
-    engagement: 805
-    commentsToLikes: 0.078111
-    id: ck8tavj66t8pm0j7872g8sxdw
+      All things motherhood• travel•cooking Dm for PR inquiries 📸
+    location: "United States"
+    followers: 101253
+    engagement: 205
+    commentsToLikes: 1.223058
+    id: ckt8qsfd668o50j23l0a2c3fz
     verified: false
-    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
+    hashtags: "#homebuild, #dreamhomebuild, #nordicnaturals, #custombuild"
 ---

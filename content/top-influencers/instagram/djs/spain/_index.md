@@ -1,130 +1,130 @@
 ---
-title: Top 10 Djs Instagram Influencers In Spain In 2022
+title: Top 10 Djs Instagram Influencers In Spain In 2023
 description: >-
-  Find top djs Instagram influencers in Spain in 2022. Most popular hashtags: #housemusic #djlife #dj.
+  Find top djs Instagram influencers in Spain in 2023. Most popular hashtags: #dj #party #djlife #housemusic.
 platform: Instagram
-hits: 83
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 83 Instagram influencers like this in Spain for you to collaborate.
+hits: 57
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 57 Instagram influencers like this in Spain for you to pitch.
 profiles:
+  - username: "adrianfyrla"
+    fullname: >-
+      FYRLA
+    bio: >-
+      Music Producer 🇪🇸🇦🇺 VOTE NOW! DJ MAG TOP 100 DJs👇🏼♥️
+    location: "Spain"
+    followers: 311435
+    engagement: 201
+    commentsToLikes: 0.079649
+    id: ck5hq4q8qshsy0i11yrya6x67
+    verified: true
+    hashtags: "#yomequedoencasa, #homestudio, #teamfyrla, #music"
   - username: "djmireiadg"
     fullname: >-
       MIREIA DG 🦁
     bio: >-
-      🏅#9 DJ Femenina Spain 2018 @djanetop 🎧 DJ & Showwoman 🎤 📍Barcelona 📡 Ingeniería de Telecomunicaciones (ETSETB) ♦️♦️♦️Tutorial DJS ⬇️⬇️⬇️
+      🏅#9 DJ Femenina Spain 2018 @djanetop 🎧 DJ , Músic, Friki 📍Barcelona 📡 Enginyera de Telecomunicacions ♦️♦️♦️Tutorial DJS ⬇️⬇️⬇️
     location: "Spain"
-    followers: 4025
-    engagement: 1576
-    commentsToLikes: 0.048591
+    followers: 3999
+    engagement: 1462
+    commentsToLikes: 0.045138
     id: ck6tyef3l390q0j71v732qrcf
     verified: false
-    hashtags: "#djwoman, #barcelona, #underground, #girldj"
+    hashtags: "#reggaeton, #greeneyes, #redhead, #femaledj"
   - username: "eduuelizondo"
     fullname: >-
       ⚡️ EDU ELIZONDO ⚡️
     bio: >-
-      🍸Founder & DJ @lafarra_llinars 📀Resident Dj @discotropics 🎵Duo Djs @banana_mambo
+      🎉Director @lafarra_llinars 📀Resident Dj @discotropics 🎵Duo Djs @banana_mambo
     location: "Spain"
-    followers: 9407
-    engagement: 624
-    commentsToLikes: 0.026353
+    followers: 9522
+    engagement: 669
+    commentsToLikes: 0.027068
     id: ck6tp1r16hcml0j71utr29p61
     verified: false
-    hashtags: "#soundcloud, #techno, #enduro, #nightlife"
+    hashtags: "#techno, #enduro, #nightlife"
+  - username: "whoisaraujo"
+    fullname: >-
+      Sara de Araújo
+    bio: >-
+      ▪️HOLA DJ! @hola_djs ▪️TEN IBIZA AGENCY @ten_ibiza ▪️📧 bookings@tenibiza.com ▪️From 🇵🇹 📍Ibiza
+    location: "Spain"
+    followers: 24490
+    engagement: 461
+    commentsToLikes: 0.039404
+    id: ck15slryqdnl10i197or5m7u1
+    verified: false
+    hashtags: "#musiclovers, #ibiza, #ibiza2020, #2021"
   - username: "rosananundj"
     fullname: >-
       Rosana Nun 🎧
     bio: >-
       DJ | Producer | Radio Host @yokai_recordings Palma de Mallorca, Spain / Bookings👇👇elisasantamarta.management@gmail.con 👇🎧 New djset YouTube Channel
     location: "Spain"
-    followers: 9725
-    engagement: 587
-    commentsToLikes: 0.065975
+    followers: 10850
+    engagement: 422
+    commentsToLikes: 0.065783
     id: ck15rolo38xq00i19jwdqmhm5
     verified: false
-    hashtags: "#dj, #sunset, #electronicmusic, #technoconnectingpeople"
+    hashtags: "#femaledj, #techno, #radiostation, #djane"
   - username: "faulandwad"
     fullname: >-
       Faul & Wad
     bio: >-
-      💿 | 🇨🇵 DJs & Producers @ultramusicofficial 🏆 | 500.000.000 + online streams ⏬ | Download for free 'My Feelings For U'
+      💿 | 🇨🇵 DJs & Producers @ultramusicofficial 🏆 | 500.000.000 + online streams ⏬ | Follow us on @spotify
     location: "Spain"
-    followers: 32512
-    engagement: 677
-    commentsToLikes: 0.037521
+    followers: 33178
+    engagement: 711
+    commentsToLikes: 0.037705
     id: ck5hh4lmc6cu90i11tbdvpt17
     verified: false
-    hashtags: "#newmusic, #housemusic, #newmusicalert, #dancemusic"
+    hashtags: "#newmusicalert, #dancemusic, #housemusic, #newmusic"
   - username: "mambobrothers"
     fullname: >-
       MamboBrothers 🌵
     bio: >-
       Owners @mamboibiza Group & DJs Concept Creators @latorreibiza 🌅✨ @casamacaibiza 🌱🌙 @lacavaibz 🍴🥂 @calagracioneta 🥘 🏖 @palapaibiza 🌮🌶 #realibiza
     location: "Spain"
-    followers: 83813
-    engagement: 153
-    commentsToLikes: 0.043911
+    followers: 82852
+    engagement: 155
+    commentsToLikes: 0.043839
     id: ck0vye7u23j8e0i197dha03dv
     verified: true
-    hashtags: "#ibiza, #realibiza, #ibiza2020, #suunto7"
-  - username: "djlefrak"
-    fullname: >-
-      LEFRAK (Lula y Flor Fracchia)
-    bio: >-
-      🎧Djs 🎹Producers 💿Material • Basica • HappyTechno • Distance • Klaphouse 💻Booking: djlefrak@gmail.com
-    location: "Spain"
-    followers: 39599
-    engagement: 239
-    commentsToLikes: 0.155560
-    id: ck0u6u8ha32tp0i19fa1k1pek
-    verified: false
-    hashtags: "#dj, #nightlife, #housemusic, #ibiza"
+    hashtags: "#ibiza2020, #ibiza, #realibiza, #radioshow"
   - username: "djsammyto"
     fullname: >-
       SAMMYTO
     bio: >-
-      DJ 🎧 //CANARIAS 🇮🇨// Patrocinadores: @kingapparel @vagaryclothes @maecloth BOOKING: djsammyto@gmail.com
+      📍CANARIAS 🇮🇨 Para Colab : Dm 📤 Booking 📩 : djsammyto@gmail.com Patrocinadores: @kingapparel @vagaryclothes @enlanubeshop
     location: "Spain"
-    followers: 11838
-    engagement: 722
-    commentsToLikes: 0.063016
+    followers: 14978
+    engagement: 483
+    commentsToLikes: 0.130094
     id: ck13c9mh4z9ue0i19emiwj599
     verified: false
-    hashtags: "#madrid, #brytiago, #reggaeton, #lamentira"
+    hashtags: "#covidtimes, #madrid, #opiumbarcelona, #barcelona"
   - username: "sergialesdj"
     fullname: >-
       𝙎𝙀𝙍𝙂𝙄 𝘼𝙇𝙀𝙎
     bio: >-
-      - Booking: djsergiales@hotmail.com 📲 - Mallorca / Sevilla📍 👇🏼 MIS ENLACES 👇🏼
+      • Open Format Dj • Mallorca (Spain)📍 • Booking: djsergiales@hotmail.com 📲 • Twitch ⤵️
     location: "Spain"
-    followers: 8179
-    engagement: 857
-    commentsToLikes: 0.224807
+    followers: 11904
+    engagement: 710
+    commentsToLikes: 0.154561
     id: ck6ufsfe9yvbu0j71fmx5z03y
     verified: false
-    hashtags: "#hiphop, #playwithmusic, #phasedj, #trap"
-  - username: "dj.sustancia"
+    hashtags: "#streaming, #seratodj, #scratch, #playwithmusic"
+  - username: "djsurimusic"
     fullname: >-
-      DJ $ustancia
+      DJ Suri 🏳️‍🌈
     bio: >-
-      K-HOE en $TRIPCLAB 💉🖌💿🎤 Flaviaparavisi@gmail.com
+      Billboard #1 Remixer, Dj & Producer 🎧 🎶💿 Official remixer of @ladygaga ,@pink, @beyonce ,@parishilton ,@monicanaranjo.... Listen my music Soundcloud⤵️
     location: "Spain"
-    followers: 25676
-    engagement: 459
-    commentsToLikes: 0.024954
-    id: ck0uconijhcti0i19oi1f8lan
-    verified: false
-    hashtags: ""
-  - username: "djsimonet"
-    fullname: >-
-      SIMONET 🎧
-    bio: >-
-      🚨OCIO es CULTURA🚨 📍Mallorca,ESPAÑA😍 ⬇️ DAKITI (INTRO EMERGENCIA)
-    location: "Spain"
-    followers: 9608
-    engagement: 769
-    commentsToLikes: 0.035403
-    id: ck0w2a5o6nc7p0i19llsam4xl
-    verified: false
-    hashtags: "#aqu, #bbsitaremixchallenge, #en, #worlddj"
+    followers: 38910
+    engagement: 152
+    commentsToLikes: 0.026707
+    id: ck5q3lz5pldl60i11ur3ia3e9
+    verified: true
+    hashtags: "#tbt, #valencia, #djsuri, #survivor"
 ---

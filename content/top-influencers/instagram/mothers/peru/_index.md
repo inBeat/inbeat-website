@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Peru In 2022
+title: Top 10 Mothers Instagram Influencers In Peru In 2023
 description: >-
-  Find top mothers Instagram influencers in Peru in 2022. Most popular hashtags: #peru #nature #love #life.
+  Find top mothers Instagram influencers in Peru in 2023. Most popular hashtags: #happy #love #peru #family.
 platform: Instagram
-hits: 29
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 29 Instagram influencers like this in Peru for you to pitch.
+hits: 20
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 20 Instagram influencers like this in Peru for you to contact.
 profiles:
-  - username: "derechoalamoda"
+  - username: "pamelasilva"
     fullname: >-
-      Carmen Pao Moretti
+      Pamela Silva
     bio: >-
-      -Abogada, madre & amante de la moda. -Looks e inspiración diaria. 🌻🌻🌻Bienvenida Amigucci Shop: @moretti.brand @closetdecarmen
+      Immigrant • Mommy to @fordliam__•Journalist / Inmigrante • Mamá • Presentadora de @primerimpacto. 🎧@motherish 🇵🇪
     location: "Peru"
-    followers: 26024
-    engagement: 175
-    commentsToLikes: 0.054869
-    id: ck55m1oht2zb70i11qi1loqa6
-    verified: false
-    hashtags: "#motherhood, #maternidad, #halloween, #merinolargate"
-  - username: "papisporprimeravez"
+    followers: 788038
+    engagement: 262
+    commentsToLikes: 0.019572
+    id: ck0tupf8g84jt0i19lea5y0fe
+    verified: true
+    hashtags: "#podcast, #extragrateful, #per, #wfh"
+  - username: "benelgringo"
     fullname: >-
-      Family Travel | Mamá Bloguera
+      Benjamin Lopez Ferrigno
     bio: >-
-      ❤ @yazminalvaradob @papa_gallina @mellizoslopez @pochocho.parrot ✈️TravelVloggers 🖍Actividades 👦🏻👧🏻 👨‍👩‍👦‍👦Crianza 👩🏻‍💻CEO @mrsurprise.pe ⬇️Vídeo⬇️
+      📈📉📈📉📈 Bay Area📍👶🏼🇵🇪, 🧔🏻🇺🇸 Traveler 🧳 Tourist 🌎 TeamBrocoli 🥦... Business iQ: spanglishben@gmail.com Music YouTube link:
     location: "Peru"
-    followers: 39179
-    engagement: 116
-    commentsToLikes: 0.188174
-    id: ck136ua0v8ane0i19lcnqr1yl
+    followers: 293874
+    engagement: 509
+    commentsToLikes: 0.018092
+    id: ck5ck8dliwcn00i11mr0k9b0q
+    verified: true
+    hashtags: "#infiel, #vaquero, #peruano, #youtube"
+  - username: "pieromg"
+    fullname: >-
+      Piero Martínez
+    bio: >-
+      ⬇️Listen to my last set! Link in bio. ⬇️ 📊 Engineer, banker & digital marketer 🎵 DJ in my spare time 🧔🏾29 y.o. 💖 👬 @cege_silfer 📍Lima, Perú 🇵🇪
+    location: "Peru"
+    followers: 30866
+    engagement: 1123
+    commentsToLikes: 0.018249
+    id: ck6u06vwmdy7e0j7130yavccj
     verified: false
-    hashtags: "#maternidadreal, #playathome, #motherhood, #childhood"
+    hashtags: "#gaylife, #hairygay, #beard, #beardgang"
+  - username: "pierre_c_m"
+    fullname: >-
+      Pierre Cateriano
+    bio: >-
+      Amo mi planeta 🌎
+    location: "Peru"
+    followers: 56382
+    engagement: 314
+    commentsToLikes: 0.044104
+    id: ckap4j6057luw0i78gbbhrwu0
+    verified: true
+    hashtags: "#rockclimbing, #rip, #motherafrica, #ellasonrieenlas78fotos"
   - username: "yasmin_kahatt"
     fullname: >-
       𝙵𝚘𝚝𝚘𝚐𝚛𝚊𝚏𝚒𝚊 𝚏𝚊𝚖𝚒𝚕𝚒𝚊𝚛 👁‍🗨
     bio: >-
-      
+      Documentando desde el 💛 Fotógrafa/Diseñadora Grafica Mamáxtres Organizadora del Congreso @lifecongreso
     location: "Peru"
-    followers: 34113
-    engagement: 125
-    commentsToLikes: 0.111554
+    followers: 36589
+    engagement: 103
+    commentsToLikes: 0.148208
     id: ck0vx5bj1x7pq0i19rx6a7tyy
     verified: false
-    hashtags: "#purelyauthenticchildhood, #talesofthemoment, #loveourbigkids, #whimsical"
+    hashtags: "#thesincerestoryteller, #thehonestcapture, #transfer, #rose"
   - username: "aleventuro"
     fullname: >-
       Alexandra Venturo
     bio: >-
       Mami de Aria 👼🏽💓 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle💚 ♏️ Scorpio 👁
     location: "Peru"
-    followers: 45909
-    engagement: 458
-    commentsToLikes: 0.012655
+    followers: 47453
+    engagement: 290
+    commentsToLikes: 0.010655
     id: ck6tisb7j1bsv0j718bgp7ozy
     verified: false
-    hashtags: "#mybaby, #momlife, #babya, #babygirl"
-  - username: "talia.escamilo"
+    hashtags: "#blessed, #mybaby, #beach, #babygirl"
+  - username: "soyunamadrenormal"
     fullname: >-
-      Talia EC | Adventure ✈
+      Irene
     bio: >-
-      Storyteller | Photographer | Explorer 🌍 Go where you feel most alive! 📷 Sharing moments 📍 Lima, Perú 🇵🇪 💌 talia.escamilo@gmail.com
+      Mamá de 10 más un ejército celestial👼🏻 Especialista en nada,experta en muchas cosas👌🏼 Contacto: marisa@hamelin-agency.com soyunamadrenormal@gmail.com
     location: "Peru"
-    followers: 12985
-    engagement: 1231
-    commentsToLikes: 0.219656
-    id: ck5hfe87nx23v0i112dopztf2
+    followers: 60442
+    engagement: 723
+    commentsToLikes: 0.032784
+    id: ck6uaob9a4p4h0j716qz55fg4
     verified: false
-    hashtags: "#paisajesperu, #droneoftheday, #letsenjoyperu, #peru"
-  - username: "martinrodrigo.dh"
+    hashtags: "#family, #instagood, #love, #babybosco"
+  - username: "elmartinrodrigo"
     fullname: >-
       Martincho Díaz Haro
     bio: >-
-      🇵🇪 De Tarapoto - Perú 🧔Admin: @igerstarapoto 👨‍⚕️ Cirujano General y Laparoscópico ↪ Consulta: @dr.martindiaz 📍 Oxapampa / Lima 💙 SC
+      🌴 De Tarapoto - Perú 🇵🇪 👨‍⚕️ Cirujano General y Laparoscópico ↪ Sígueme en: @dr.martindiaz 🧔Admin: @igerstarapoto 💙 SC 📍 Lima / Oxapampa
     location: "Peru"
-    followers: 2350
-    engagement: 2225
-    commentsToLikes: 0.281829
+    followers: 3082
+    engagement: 1522
+    commentsToLikes: 0.234772
     id: ckap67vdbern20i78h0lhp3ga
     verified: false
-    hashtags: "#photoshoot, #quedateencasa, #travel, #travelblogger"
-  - username: "cartasparaluna"
+    hashtags: "#mountainrange, #photography, #iloveperu, #cordilleradelosandes"
+  - username: "chollykid"
     fullname: >-
-      Jeniffer & Luna
+      José M.  Arispe
     bio: >-
-      ♡Luna ~ BabyInfluencer ♡Estilo e inspiración ♡Escribo cartas para sanar ♡Lifestyle: "Las niñas son fuertes como las raíces"🌿 ♡Lo mejor en "Stories"
+      🏆 🥇 Tu cara me Suena 2017 Animador. Casi cantante. TV Host @jeloutvn ☕️
     location: "Peru"
-    followers: 3556
-    engagement: 791
-    commentsToLikes: 0.124456
-    id: ckaoxeoibcxtm0i787ps31mra
+    followers: 107208
+    engagement: 149
+    commentsToLikes: 0.052098
+    id: ck5zqyvlbvkmc0i144j3k8ebb
     verified: false
-    hashtags: "#nin, #modaperuana, #mom, #trujillomoda"
-  - username: "kibo.sw"
+    hashtags: "#navidadconelcholly, #summer2021, #verano2021, #panama"
+  - username: "crissgeithner"
     fullname: >-
-      Kibo ❤️
+      Aura Cristina Geithner
     bio: >-
-      🐾 | Compartiendo lugares PetFriendly 💌 | hola@kibosw.com 🎤 | Historia de Mascotas ⬇️ | Gerente General @kikupet
+      ACTRIZ,MODELO,CANTANTE. #auracristinageithner #lapotradelabanda @crissgeithner👉Twitter @auracristinageithner👉Facebook LINK:
     location: "Peru"
-    followers: 19519
-    engagement: 442
-    commentsToLikes: 0.070588
-    id: ck0vz07fq6n4i0i19shz5vd1j
-    verified: false
-    hashtags: "#poodleoftheday, #lovelydog, #caniche, #qhuellas"
-  - username: "victor_latinlover"
-    fullname: >-
-      Latin Lover
-    bio: >-
-      “Todo o Nada”. Conductor,Luchador,Actor y Empresario Twitter: @victorlatin77 Suplementos @latin.nutrition Contacto : kikirikiiic@gmail.com
-    location: "Peru"
-    followers: 126321
-    engagement: 219
-    commentsToLikes: 0.045549
-    id: ck6u8944xq5vw0j71njbpay8o
+    followers: 890064
+    engagement: 274
+    commentsToLikes: 0.016509
+    id: ck0uabjx7bs1c0i19j1qfk3sm
     verified: true
-    hashtags: "#family, #dance, #life, #gad"
-  - username: "bylauracuadros"
-    fullname: >-
-      LauraCuadros
-    bio: >-
-      Peruvian artist | Oil painting | Watercolors | Markers
-    location: "Peru"
-    followers: 26772
-    engagement: 261
-    commentsToLikes: 0.069691
-    id: ck5ckntflx9ap0i11beigduzu
-    verified: false
-    hashtags: "#instaart, #apoyaartistaslocales, #amazing, #talent"
+    hashtags: "#likes4follo, #instacool, #usa, #funny"
 ---

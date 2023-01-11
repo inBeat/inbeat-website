@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Italy In 2022
+title: Top 10 Athletes Instagram Influencers In Italy In 2023
 description: >-
-  Find top athletes Instagram influencers in Italy in 2022. Most popular hashtags: #fitness #motivation #fitnessmotivation.
+  Find top athletes Instagram influencers in Italy in 2023. Most popular hashtags: #fitnessmotivation #fitness #bodybuilding.
 platform: Instagram
-hits: 276
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 276 Instagram influencers like this in Italy for you to connect with.
+hits: 221
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 221 Instagram influencers like this in Italy for you to collaborate.
 profiles:
   - username: "manuel_caruso_calisthenics"
     fullname: >-
       Manuel Caruso
     bio: >-
-      🤸‍♂️Trainer & performer ✒️Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
+      🤸‍♂️Trainer & performer 📩Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
     location: "Italy"
-    followers: 64648
-    engagement: 1596
-    commentsToLikes: 0.128524
+    followers: 90907
+    engagement: 4096
+    commentsToLikes: 0.009509
     id: ck14jwjg0mjq00i19kj845qvh
     verified: false
-    hashtags: "#power, #alimentazionesanana, #pullups, #muscle"
+    hashtags: "#milano, #spagna, #funny, #viralreels"
+  - username: "mnedelcu64"
+    fullname: >-
+      𝓜𝓪𝓻𝓲𝓪𝓷𝓮𝓭𝓮𝓵𝓬𝓾
+    bio: >-
+      DYnutrition athlete - Discount code MARIADY10 🏋🏽‍♀️ 🥇National Jr. 2020 🥇2x Balkan Jr. 2020 🥇European Jr. 2021 🥉European Sr. 2021 🥉World Jr.
+    location: "Italy"
+    followers: 74686
+    engagement: 746
+    commentsToLikes: 0.013632
+    id: ck8t2c4m4yx7r0j78mexntbe0
+    verified: false
+    hashtags: "#yoins, #yoinscollection, #yoinsstyle, #yoinseveryday"
   - username: "ironlady_bb"
     fullname: >-
       Lucia Aucelli | BODYBUILDER💫
     bio: >-
-      I’m 98, NAPOLI🇮🇹P.T ISSA EUROPE 📖 •ATHLETE @gorillawearusa •@oceansapart.it 35%:IRON35IG • @myproteinit 38%:LUCIAMYP
+      Class 1998, NAPOLI🇮🇹P.T ISSA EUROPE 📖 • @gorillawear ATHLETE🦍 • @myproteinit ambassador codice:LUCIAMYP📌 COACHING ONLINE⬇️📲
     location: "Italy"
-    followers: 29813
-    engagement: 582
-    commentsToLikes: 0.101282
+    followers: 33512
+    engagement: 661
+    commentsToLikes: 0.102175
     id: ckapbon2j0pu40i78gxfglyhf
     verified: false
-    hashtags: "#fitness, #teamgorillawear, #gorillawearathlete, #goodmorning"
-  - username: "zachhartman1"
+    hashtags: "#italy, #me, #instagram, #summer"
+  - username: "valentinagiacinti"
     fullname: >-
-      ZACH HARTMAN
+      Valentina Giacinti
     bio: >-
-      𝗠𝗼𝗱𝗲𝗹/𝗕𝗼𝘅𝗲𝗿/𝗠𝘂𝘀𝗶𝗰𝗶𝗮𝗻 MA-@unsignedgrp 🇬🇧Nevs Models🇬🇧 @10xathleticusa athlete: Zach10X NEW VIDEO👇🏼▶️
+      Milano📍 Football player @acmilan 🔴⚫️ National team @azzurrefigc 🇮🇹 Atlhete @adidas 👟👕 Athlete @4plusnutrition 🏋🏼‍♂️🔋 Athlete @lierac_italia ☀️
     location: "Italy"
-    followers: 33550
-    engagement: 849
-    commentsToLikes: 0.025961
-    id: ck8sys9jslt700j78d9xp1v8w
-    verified: false
-    hashtags: "#ourcityyournature, #natureneedsheroes, #ad, #carmexnaturally"
-  - username: "alessiapavese"
-    fullname: >-
-      Alessia Pavese 🏃🏻‍♀️ Athlete
-    bio: >-
-      15/07🎂 Track&Field Sprinter🇮🇹 200m 📍 Bergamo, Italy 👟 @Adidas athlete 🏋🏻‍♀️ @bulkpowders Ambassador ⬇️ Bulkpowders Shop ⬇️
-    location: "Italy"
-    followers: 36273
-    engagement: 889
-    commentsToLikes: 0.023852
-    id: ckapaa8ixvcva0i786waio62h
-    verified: false
-    hashtags: "#bulkpowders, #teambulk, #sea, #adv"
-  - username: "ottaviacestonaro"
-    fullname: >-
-      Ottavia Cestonaro
-    bio: >-
-      🇮🇹Pro triplejumper PB 14.18m 🥇U20 European Champion 💪@adidasita athlete 👮@cscarabinieri 🎓Scienze motorie 🎓Scienze forestali 🏃🏼‍♀️Istruttrice FIDAL
-    location: "Italy"
-    followers: 23633
-    engagement: 853
-    commentsToLikes: 0.024735
-    id: ckap9biqkrz6k0i78ah39f7ka
-    verified: false
-    hashtags: "#fit, #blonde, #athlete, #train"
-  - username: "andry_russo"
-    fullname: >-
-      Andrea Russo 🌸
-    bio: >-
-      Andrea,25, 🇮🇹 #CALISTHENICS ATHLETE💪🏼🤸🏻‍♀️ • 🥇National x2 • 🥈INTERNATIONAL • 🥈Coppa Italia PROZIS 10% : ANDRYR #MODEL 📸 Osteopath: @emilianoracitid.o
-    location: "Italy"
-    followers: 15567
-    engagement: 1607
-    commentsToLikes: 0.024928
-    id: ck14jwk7fmjv00i19umj4kbc9
-    verified: false
-    hashtags: "#strenght, #stretching, #calisthenicseverywhere, #fitnessmodel"
-  - username: "immafiume"
-    fullname: >-
-      FITNESS | TATTOO | LIFESTYLE
-    bio: >-
-      𝗕𝗢𝗢𝗧𝗬 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗜𝗦𝗧 🍑 • @gorillawearusa Athlete🦍 • @_bombafit_ IMMA10 • @goldnutrition_italia IMMA10 • @nebbia_point_palermo IMMA5
-    location: "Italy"
-    followers: 130357
-    engagement: 421
-    commentsToLikes: 0.034383
-    id: ck55la5l414bt0i11bm60kn00
-    verified: false
-    hashtags: "#bootyworkout, #gymmotivation, #girlstyle, #healthyfood"
+    followers: 191435
+    engagement: 1040
+    commentsToLikes: 0.020188
+    id: ck55jxhu8xzwh0i11ilzxgqqx
+    verified: true
+    hashtags: "#acmilan, #predator, #vivoazzurro, #danimarcaitalia"
   - username: "rickymorasca"
     fullname: >-
       Riccardo Moraschini
     bio: >-
       ➡️Basketball player @olimpiamilano1936 ➡️Nike athlete @nikebasketball ➡️Twitter: morasca9
     location: "Italy"
-    followers: 19352
-    engagement: 1049
-    commentsToLikes: 0.023399
+    followers: 20065
+    engagement: 1120
+    commentsToLikes: 0.035677
     id: ck5civ29wtfjr0i11h4alv022
     verified: true
-    hashtags: "#insieme, #ajxxxv, #thelastdance, #legends"
+    hashtags: "#mambamentality, #ajxxxv, #loveforthegame, #gameday"
+  - username: "immafiume"
+    fullname: >-
+      FITNESS | TATTOO | LIFESTYLE
+    bio: >-
+      𝗕𝗢𝗢𝗧𝗬 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗜𝗦𝗧 🍑 • @gorillawear ATHLETE • @_bombafit_ IMMA10 • @bodystorewear IMMA5 More content👇🏼🔥
+    location: "Italy"
+    followers: 146145
+    engagement: 511
+    commentsToLikes: 0.022502
+    id: ck55la5l414bt0i11bm60kn00
+    verified: false
+    hashtags: "#girlpower, #fitness, #bodygoals, #bodypositive"
   - username: "paulopez_13"
     fullname: >-
       Pau López
     bio: >-
       Portiere @officialasroma Adidas Athlete 🧤 From Girona to Roma📍
     location: "Italy"
-    followers: 126009
-    engagement: 1027
-    commentsToLikes: 0.014482
+    followers: 130261
+    engagement: 974
+    commentsToLikes: 0.017030
     id: ck6tw7zx8qhtn0j71sb1wpbry
     verified: true
-    hashtags: "#dajeroma, #hometeam, #uel"
-  - username: "stefanoellea"
+    hashtags: "#dajeroma, #uel, #yocorroporti"
+  - username: "ottaviacestonaro"
     fullname: >-
-      Stefano LA
+      Ottavia Cestonaro
     bio: >-
-      Adventure Cyclist 🌍 Mountain Lover 🏔 Athlete: @albaoptics @lookcycle @prologo.official CO-FOUNDER @assaultofreedom
+      🇮🇹Pro triplejumper PB 14.18m 🥇U20 European Champion 💪@adidasita athlete 👮@cscarabinieri 🎓Scienze motorie 🎓Scienze forestali 🏃🏼‍♀️Istruttrice FIDAL
     location: "Italy"
-    followers: 22303
-    engagement: 726
-    commentsToLikes: 0.044025
-    id: ck0vx12hnwlrl0i19zqu8qjap
+    followers: 23964
+    engagement: 842
+    commentsToLikes: 0.024641
+    id: ckap9biqkrz6k0i78ah39f7ka
     verified: false
-    hashtags: ""
+    hashtags: "#hometeam, #smile, #adv, #iorestoacasa"
+  - username: "zachhartman1"
+    fullname: >-
+      ZACH HARTMAN
+    bio: >-
+      𝗠𝗼𝗱𝗲𝗹/𝗕𝗼𝘅𝗲𝗿/𝗠𝘂𝘀𝗶𝗰𝗶𝗮𝗻 MA-@unsignedgrp 🇬🇧Nevs Models🇬🇧 @10xathleticusa athlete: Zach10X
+    location: "Italy"
+    followers: 46112
+    engagement: 595
+    commentsToLikes: 0.023011
+    id: ck8sys9jslt700j78d9xp1v8w
+    verified: false
+    hashtags: "#dazn, #ad, #sportsdirect, #everlast"
+  - username: "annaincertimarathon"
+    fullname: >-
+      anna incerti
+    bio: >-
+      Italian athlete 5000m: 15'15" halfmarathon:68'18" marathon: 2h25'32"
+    location: "Italy"
+    followers: 11114
+    engagement: 860
+    commentsToLikes: 0.067824
+    id: ck5qbdsu6l3y00i11d5dfih94
+    verified: false
+    hashtags: "#dolcedomenica, #fvg, #campionatoitaliano, #redcarpet"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hair Dressers TikTok Influencers In United States In 2022
+title: Top 10 Hair Dressers TikTok Influencers In United States In 2023
 description: >-
-  Find top hair dressers TikTok influencers in United States in 2022. Most popular hashtags: #hair #fyp #foryou #foryoupage.
+  Find top hair dressers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #fashion #hair #dresses.
 platform: TikTok
-hits: 16
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 16 TikTok influencers like this in United States for you to collaborate.
+hits: 21
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 21 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "darklingmoon"
+  - username: "sillyrealtor"
     fullname: >-
-      Serena Diane
+      AmyMichelleMelendez
     bio: >-
-      Find me on FB @ Chimera Vibes. 18+ only
+      🌴Your Palm Beach County REALTOR® 🌴 Instagram: @AmyLangleben_Realtor
     location: "United States"
-    followers: 34800
-    engagement: 2135
-    commentsToLikes: 0.076439
-    id: ckbf76sj8wxgv0j230usdhy9n
+    followers: 37400
+    engagement: 500
+    commentsToLikes: 0.137277
+    id: ckbf2blgep7sq0j23paau43x1
     verified: false
-    hashtags: "#skulls, #iloveyou, #loveyourself, #etsy"
-  - username: "angelagentile99"
+    hashtags: "#realtor, #crazymarket, #multipleoffers, #sillyrealtor"
+  - username: "horderly"
     fullname: >-
-      Angela Gentile
+      horderly
     bio: >-
-      YouTube channel: Life Of AG Instagram: Angela_gentile Venmo: Angieg9
+      Professional Home Organization Company
     location: "United States"
-    followers: 97900
-    engagement: 327
-    commentsToLikes: 0.033912
-    id: ckc7w69m1zfol0j23kohh73sz
+    followers: 5584
+    engagement: 448
+    commentsToLikes: 0.015132
+    id: ckbfennf78vgx0j23wv8mlnsr
     verified: false
-    hashtags: "#fun, #trends, #trend, #dance"
-  - username: "madisontrahannn"
+    hashtags: "#horderly, #closet, #organize, #beforeandafter"
+  - username: "itsforkingjaaaade"
     fullname: >-
-      Madison Trahan
+      Jade I
     bio: >-
-      21 & married to best friend ❤️
+      I'm 26. Don’t be a forker, man.
     location: "United States"
-    followers: 9896
-    engagement: 1017
-    commentsToLikes: 0.022636
-    id: ckb9n6n57gpyg0j2352uhd6f8
+    followers: 8363
+    engagement: 972
+    commentsToLikes: 0.077838
+    id: ckanls7hra6f70i788bhbdsgm
     verified: false
-    hashtags: "#fyp, #cheap, #kitchentransformation, #painting"
-  - username: "mensmodernwear"
+    hashtags: "#stitch, #duet, #highonpositivity, #tiktok"
+  - username: "allthingskeki"
     fullname: >-
-      MensModernWear
+      allthingsconsideredb
     bio: >-
-      United States of America 🇺🇸 Luxury Clothing Brand Est. 2017 Subscribe to YT🔥
+      IG . Facebook . LIKEtoKNOW.it 🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍 Shop My Looks 👇🏻
     location: "United States"
-    followers: 61900
-    engagement: 340
-    commentsToLikes: 0.004640
-    id: ckbf8eq50yub30j23jlpi48ba
+    followers: 174400
+    engagement: 417
+    commentsToLikes: 0.064049
+    id: ck932akynima20j786br7uu8t
     verified: false
-    hashtags: "#mensstyle, #vibewithus, #men, #fashionable"
+    hashtags: "#summerlove, #springfashion, #mothers, #photography"
+  - username: "glowupu"
+    fullname: >-
+      Glow Up University 💋🦋🍒✏️🛍
+    bio: >-
+      cat@glowupu.com Follow me on IG: @glowupu 🥰 Pinterest: /glowupu
+    location: "United States"
+    followers: 120100
+    engagement: 802
+    commentsToLikes: 0.011815
+    id: ckdhilzipymdw0j23fdn90vqe
+    verified: false
+    hashtags: "#trends, #style, #fashion, #outfitinspo"
   - username: "sarahscouture"
     fullname: >-
       SARAH'S COUTURE
     bio: >-
       Quinceañera, Damas Dresses, tuxedo rental, accesories, crowns, bouquets
     location: "United States"
-    followers: 31500
-    engagement: 859
-    commentsToLikes: 0.012290
+    followers: 32200
+    engagement: 881
+    commentsToLikes: 0.011098
     id: ckbkgunxg8edd0j23w4vejraz
     verified: false
-    hashtags: "#bouquets, #hair, #sarahscouture, #quincedress"
-  - username: "madzdhanani"
+    hashtags: "#sarahscouture, #dresses, #quincedresses, #accesories"
+  - username: "mariahdarling2020"
     fullname: >-
-      Madiha Dhanani
+      Mariah Darling
     bio: >-
-      Started on IG, now we’re here 🤷🏻‍♀️ Email for inquires: madiha@happilymadz.com
+      transgender woman living in LosAngeles #allblm cashapp $darlia1434
     location: "United States"
-    followers: 209000
-    engagement: 533
-    commentsToLikes: 0.025510
-    id: ckacv71glmgzt0i781w53yzrh
+    followers: 6183
+    engagement: 673
+    commentsToLikes: 0.100418
+    id: ckacgnflvvutw0i78xchx913g
     verified: false
-    hashtags: "#style, #ootd, #desi, #fashion"
-  - username: "hotmess_mom518"
+    hashtags: "#fyp, #antm, #runway, #blackgirlmagic"
+  - username: "kenna.kemper"
     fullname: >-
-      Amanda
+      ✿𝓴𝓮𝓷𝓷𝓪✿
     bio: >-
-      wife mom host of a podcast my hair is never a natural color venmo @Amanda-Amidan
+      I love Jesus, sweet tea, and I sing 18 CEO of Jesus Freak 💖✨🌈🌼🍯🦋
     location: "United States"
-    followers: 5024
-    engagement: 1373
-    commentsToLikes: 0.105985
-    id: ckbf2jm8epl530j230ukbgp4b
+    followers: 130200
+    engagement: 1897
+    commentsToLikes: 0.034450
+    id: ckbf07pvqlnnt0j23blmlad7n
     verified: false
-    hashtags: "#vote, #trump2020, #coffee, #podcastersoftiktok"
-  - username: "neharika0601"
+    hashtags: "#trend, #foryoupage, #comedy, #god"
+  - username: "haley.snider"
     fullname: >-
-      Neharika
+      Haley Snider
     bio: >-
-      🦋🦋🦋 sc: @neharikahl
+      Women Supporting Women💪 Living life beyond a 9-5🦋 Austin, Tx💕 3234
     location: "United States"
-    followers: 4809
-    engagement: 1795
-    commentsToLikes: 0.072415
-    id: ckdmsq22haa1c0j23x6zzm7ct
+    followers: 62800
+    engagement: 1470
+    commentsToLikes: 0.059096
+    id: ckcdd3zjs5clu0j230cpcya8x
     verified: false
-    hashtags: "#draft, #zaynmalik, #zayn, #fyp"
-  - username: "delanzy"
+    hashtags: "#tarotreading, #aesthetic, #tarot, #wicca"
+  - username: "emmalayne.13"
     fullname: >-
-      Delaney Burke
+      Emma
     bio: >-
-      17 | San Diego | Wave vb
+      🦖 seventeen insta\ emmalayne.13 snap\ emmalyane 💫love all of y’all ✨
     location: "United States"
-    followers: 5584
-    engagement: 1530
-    commentsToLikes: 0.086314
-    id: ck8kgpfs8jhrv0j785vdh5myk
+    followers: 104100
+    engagement: 2332
+    commentsToLikes: 0.017766
+    id: ck8s6cqwejyvj0j7827uw3u81
     verified: false
-    hashtags: "#fyp, #greenscreen, #foryoupage, #costume"
-  - username: "catherinezickert"
-    fullname: >-
-      Catherine Zick
-    bio: >-
-      You made it this far might as well hmu on insta ig: catherinezickert
-    location: "United States"
-    followers: 17600
-    engagement: 1423
-    commentsToLikes: 0.044094
-    id: ckcdw8375fj8e0j23l777kmdc
-    verified: false
-    hashtags: "#fyp, #foryou, #diy, #funny"
+    hashtags: "#shopping, #foryou, #thisorthatsblv, #tryon"
 ---

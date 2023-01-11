@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Las Vegas In 2022
+title: Top 10 Gardening Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top gardening Instagram influencers in Las Vegas in 2022. Most popular hashtags: #gardening #lasvegas #nature #travel.
+  Find top gardening Instagram influencers in Las Vegas in 2023. Most popular hashtags: #gardening #lasvegas #nature.
 platform: Instagram
-hits: 7
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 7 Instagram influencers like this in Las Vegas, United States for you to pitch.
+hits: 6
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 6 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
+  - username: "leisurefanclub"
+    fullname: >-
+      Kirby Mekler | Food Photo
+    bio: >-
+      Adventure obsessed recipe creator + food photographer + blogger. @foodcapturecollective team member
+    location: "United States"
+    followers: 5423
+    engagement: 506
+    commentsToLikes: 0.321932
+    id: ck5hpvbmvs11u0i11b6z1gzhd
+    verified: false
+    hashtags: "#feedfeed, #todayfood, #foodtographyschool, #veganrecipes"
   - username: "anaandreaxoxo"
     fullname: >-
       Ana Andrea Xoxo 🇹🇩 🇺🇸
     bio: >-
-      Hi I'm Ana! 📽YT Las Vegas ❤️ Home, Lifestyle, Plant Love 🌿 Gardening 🌱Can you dig it? Biz inquiries 📩AnaAndreaXoxo@gmail.com
+      💞Making YouTube videos for you💞 AnaAndreaXoxo@Gmail.com 😘A FUN Family, Gardening & Lifestyle Channel⬇️
     location: "United States"
-    followers: 11664
-    engagement: 373
-    commentsToLikes: 0.104517
+    followers: 11139
+    engagement: 342
+    commentsToLikes: 0.118482
     id: ck5c2jhssxdaz0i11nmqu1uvw
     verified: false
-    hashtags: "#greenwithenvy, #currenthomeview, #plantsofinstagram, #bekind"
+    hashtags: "#gardening, #planty, #momof4, #plants"
   - username: "cocojenkinsbass"
     fullname: >-
       *CoCojenkins
     bio: >-
       #cocojenkins Love 💖 & Hip-Hop  🇵🇭 ✊🏾
     location: "United States"
-    followers: 2583
-    engagement: 1351
-    commentsToLikes: 0.060747
+    followers: 2651
+    engagement: 1368
+    commentsToLikes: 0.060004
     id: ckaorv3ldovq70i78xyth6d2n
     verified: false
-    hashtags: "#mountcharleston, #cocojenkins, #friends, #filipina"
-  - username: "prestigetree"
-    fullname: >-
-      Ty
-    bio: >-
-      Photography taken during work research and traveling tyclimbstrees
-    location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
-    verified: false
-    hashtags: "#inspirephotography, #birds, #travel, #instagood"
-  - username: "mama.cip"
-    fullname: >-
-      Mama Cip
-    bio: >-
-      The more you weigh, the harder you are to kidnap.. stay safe. Eat cake. **************************************EMAIL FOR COLLAB!
-    location: "United States"
-    followers: 20182
-    engagement: 326
-    commentsToLikes: 0.035301
-    id: ckaotly5cwfyu0i78ye3wwa21
-    verified: false
-    hashtags: "#summervibes, #instafashion, #fashionista, #vacation"
+    hashtags: "#grateful, #coronacation, #femalemusician, #lace"
   - username: "swenyly"
     fullname: >-
       Tomas
     bio: >-
-      Trying to live my best🌱 -patisseur 🍰
+      •Yoga •Cooking & Baking •Nature •Music Trying to live my best🌱
     location: "United States"
-    followers: 8988
-    engagement: 591
-    commentsToLikes: 0.033405
+    followers: 8862
+    engagement: 599
+    commentsToLikes: 0.030937
     id: ckap5zblcdsux0i78m02emwkl
     verified: false
-    hashtags: "#selfie, #smile, #gaytravel, #instaman"
-  - username: "jimmiller_155"
+    hashtags: "#gaytravel, #smile, #gaymale, #memories"
+  - username: "tiffany_tunes"
     fullname: >-
-      Jim Miller
+      Tiffany
     bio: >-
-      Father, Husband, @millerbrosmma, @UFC record holder, Lyme sucks.
+      Singer. Songwriter. Actress. Foodie. Join cooking club @letsfoodwithtiffany. Shop @radikalredz & @radikalredzbeauty. Join @patreon/tiffanytunes.
     location: "United States"
-    followers: 49891
-    engagement: 120
-    commentsToLikes: 0.058850
-    id: ck6u79apkk7j90j719e1rbk5a
+    followers: 75964
+    engagement: 161
+    commentsToLikes: 0.030465
+    id: ck13d1w2h38yc0i19w8ty0gnx
     verified: true
-    hashtags: "#survivorslog, #oldhouse, #bowhunting, #nockonnation"
-  - username: "griffiths_kirsty"
+    hashtags: "#linkinstory, #livemusic, #alaska, #letsfoodwithtiffany"
+  - username: "kley_tarcitano"
     fullname: >-
-      Kirsty Griffiths
+      Kley Tarcitano
     bio: >-
-      🖤Mother, wife & pugs owner 🖤Interiors lover 🖤Ex horticultural retail buyer 🖤Property developer/Project 5 🖤Shares the best quality online deals
+      Production Designer/ Creative Producer for Live Television, Tours, Concerts, Vegas Shows, TV Shows Represented by MSA Agency @msaagency LA-MiA
     location: "United States"
-    followers: 54647
-    engagement: 156
-    commentsToLikes: 0.030098
-    id: ck8t34l441u570j78ff592rvx
+    followers: 10925
+    engagement: 244
+    commentsToLikes: 0.093386
+    id: ck6txzagt0qbw0j71505ynq7k
     verified: false
-    hashtags: "#blackpug, #modernkitchen, #reno, #mykitchen"
+    hashtags: "#bennymedina, #productiondesign, #setdesigner, #tvvit"
+  - username: "northwoodsfolk"
+    fullname: >-
+      Sunny // Folk Living                                       🌲MN🌲
+    bio: >-
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+    location: "United States"
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
+    verified: false
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "laurenselfblogs"
+    fullname: >-
+      Lauren
+    bio: >-
+      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+    location: "United States"
+    followers: 18656
+    engagement: 1858
+    commentsToLikes: 0.022000
+    id: ck8t1vbnlx6dp0j782ei1ya9s
+    verified: false
+    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
   - username: "seldabelda"
     fullname: >-
       anna aromin | ↟ pnw ↟
     bio: >-
       artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
     location: "United States"
-    followers: 34042
-    engagement: 337
-    commentsToLikes: 0.098448
+    followers: 33490
+    engagement: 341
+    commentsToLikes: 0.090660
     id: ck14kkiiwpyiz0i19q3we0t10
     verified: false
-    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
-  - username: "theladywholunches"
+    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
+  - username: "life_of_glow"
     fullname: >-
-      Jenna Ingalls
+      Robyn | Home & Garden Joy
     bio: >-
-      knitting, sewing, sometimes gardening Oakland, California she/her
+      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
     location: "United States"
-    followers: 5323
-    engagement: 1285
-    commentsToLikes: 0.075316
-    id: ck5zobjeqq6wu0i146qvnwtx8
+    followers: 40685
+    engagement: 309
+    commentsToLikes: 0.087218
+    id: ck0u7az5246wj0i19r71e0x0v
     verified: false
-    hashtags: "#handknitsweater, #maternitycapsulewardrobe, #fatsewingclub, #maternitysewing"
-  - username: "aara.lee"
-    fullname: >-
-      Aara Lee
-    bio: >-
-      I’m Aara! 🌱 ❝ i may be small, but i can fly ❞ 143 cm, mixed Thai, bi/nb forest imp cosplay 🎭 writing 📖 dnd ⚔️ gardening 🌼
-    location: "United States"
-    followers: 19159
-    engagement: 853
-    commentsToLikes: 0.028131
-    id: ck138fffifza10i199jsto5os
-    verified: false
-    hashtags: "#felixcosplay, #felixhugofraldarius, #myheroacademia, #dungeonsanddragons"
+    hashtags: "#rugsusa"
 ---

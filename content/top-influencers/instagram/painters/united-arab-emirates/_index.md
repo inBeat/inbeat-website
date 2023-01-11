@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Painters Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top painters Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #instagood #instagram #stayhome.
+  Find top painters Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fashionstyle #fashion #dubailife #dubai.
 platform: Instagram
 hits: 10
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 10 Instagram influencers like this in United Arab Emirates for you to work with.
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 10 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
-  - username: "alberto_makeup"
-    fullname: >-
-      ▫️A L B E R T O▫️
-    bio: >-
-      ⚪️ Make Up For Ever Make-up Artist 💋 ⚪️ painter ⚪️ illustrator ⚪️ Lifestyle/ Food Addict ⚪️ Travel Addict 🇦🇪 DUBAI 🇦🇪
-    location: "United Arab Emirates"
-    followers: 50903
-    engagement: 190
-    commentsToLikes: 0.099447
-    id: ck6u4dcr3338e0j71jyuqag7e
-    verified: false
-    hashtags: "#404, #120, #402, #168"
-  - username: "shifsartea"
-    fullname: >-
-      S H I F ‘ S    A R T E A
-    bio: >-
-      𝔓𝔞𝔦𝔫𝔱𝔢𝔯,𝔡𝔯𝔢𝔞𝔪𝔢𝔯 & 𝔱𝔢𝔞 𝔩𝔬𝔳𝔢𝔯 🌙 Self-taught Oil & Gouache Painter Love to paint dreamy sunsets! ✨ 📍Dubai 🇦🇪
-    location: "United Arab Emirates"
-    followers: 68589
-    engagement: 1394
-    commentsToLikes: 0.021410
-    id: ckaosomtdse710i78lhg8vdl0
-    verified: false
-    hashtags: "#artjournal, #moonpainting, #gouachepaints, #aestheticart"
   - username: "4x_was"
     fullname: >-
       وسيم شيبان
     bio: >-
       #painter 👨🏻‍🎨 لا إله إلا الله 💟 🔜 cape town🇿🇦 Dubai 🇦🇪, kuwait🇰🇼 📍 jazan
     location: "United Arab Emirates"
-    followers: 31184
-    engagement: 95
-    commentsToLikes: 0.002713
+    followers: 38279
+    engagement: 142
+    commentsToLikes: 0.001729
     id: ckf5tt1l5ioqm0j23phbpk3x9
     verified: false
-    hashtags: "#jeddah, #makkah, #yanbu, #jazan"
-  - username: "_danish_11_dz"
+    hashtags: "#beach, #jeddah, #mood, #ksa"
+  - username: "sylvia.voyages"
     fullname: >-
-      Danuu
+      Travel & Baby • Inspiration
     bio: >-
-      🌎_danish_zehen🌎 “• .🕋_lifeline_mom_🕋 . FAMBHRU “• .💪_11_dz_tm_💪 “• 🛵_Dio_Dx_🛵 🏙_Dream_one day inshallha all Dubai
+      ✩ Mom who Travels ︎♡ Liv 24-11-18 ☼ Now: Europe Trip ⤌ Last: Lithuania ✉︎ kontakt@sylviavoyages.com ↡ BLOG POST ↡
     location: "United Arab Emirates"
-    followers: 6103
-    engagement: 1111
-    commentsToLikes: 0.332967
-    id: ckap00wejo7t70i78dk6w178c
+    followers: 21959
+    engagement: 355
+    commentsToLikes: 0.091689
+    id: ck9hcg0phl7lo0j780loc4uau
     verified: false
-    hashtags: "#keralam, #kannur, #mallugram, #gainwithmchina"
-  - username: "a1izey"
+    hashtags: "#covidtravel, #instamama, #podrozezdzieckiem, #miejscawpolsce"
+  - username: "betty_b24"
     fullname: >-
-      Alizey
+      Betty_b24
     bio: >-
-      Biolite UAE 🕊 London | Dubai PR | Journalist | Interior Designer in the making Featured in Vogue, Harpers Bazaar, Grazia
+      ▪️Poland🇵🇱▪️Dubai🇦🇪 ▪️Fashion🛍▪️Me👩🏻 ▪️Be yourself nobody can be you.
     location: "United Arab Emirates"
-    followers: 135733
-    engagement: 390
-    commentsToLikes: 0.028503
-    id: ck0tymv2mnbf20i19p97crjk7
+    followers: 64517
+    engagement: 240
+    commentsToLikes: 0.114195
+    id: ck8t60mzsbtzb0j78oydz7jk3
     verified: false
-    hashtags: "#pinterest"
-  - username: "dina_mariam"
+    hashtags: "#polishgirl, #top, #rajstopy, #legs"
+  - username: "raha_shahhatami"
     fullname: >-
-      Dina Mariam
+      RAHA | رهــا
     bio: >-
-      23📍Dubai Lightroom presets coming soon 🎨📸
+      Lifestyle | Beauty | Fashion • Welcome to My World 🌎 📍Dubai
     location: "United Arab Emirates"
-    followers: 27496
-    engagement: 239
-    commentsToLikes: 0.134443
-    id: ck6tpublmn15v0j71l4aaxopx
+    followers: 69000
+    engagement: 455
+    commentsToLikes: 0.053782
+    id: ck5zlkz5pkyou0i14i1ejxryo
     verified: false
-    hashtags: "#fashion, #flowers, #love, #instadaily"
-  - username: "pilotlife75"
+    hashtags: "#valentine, #lifestyleblogger, #beautymakeup, #redroses"
+  - username: "kimberlyellie"
     fullname: >-
-      🅿🅸🅻🅾🆃🅻🅸🅵🅴𝟽𝟻
+      Kimberly Ellie ❥
     bio: >-
-      🇦🇷🅰🆁🅶/ 🇮🇹 🅸🆃🅰 ʟɪᴠɪɴɢ ɪɴ: 🅳🆄🅱🅰🅸 👨🏻‍✈️🛫🛬
+      sun baby ☼ Owner of @ibicencaswim // Based in Ibiza ⠀⠀⠀⠀ 🤍hello.kimberlyellie@gmail.com
     location: "United Arab Emirates"
-    followers: 6002
-    engagement: 1017
-    commentsToLikes: 0.039528
-    id: ck9weve3xm0hw0j78lm5ovhty
+    followers: 46112
+    engagement: 79
+    commentsToLikes: 0.065897
+    id: ckap81opmmftl0i783bsaj1bq
     verified: false
-    hashtags: "#avion, #pilotlifestyle, #flight, #pilots"
-  - username: "vitoriamosch"
+    hashtags: "#balibody, #dreamdestinations, #swimwearfashion, #duba"
+  - username: "nicol999"
     fullname: >-
-      𝔳𝔦𝔱𝔬𝔯𝔦𝔞 𝔪𝔬𝔰𝔠𝔥
+      Niki Dunckova
     bio: >-
-      ‎دبي
+      From🇸🇰 📍Dubai Surf🏄🏼‍♀️ & Skate 🛹 Certified Diver & Freediver 🤿 Oceanlover 🌊 Sport Freak Sharing Travel Pics & Experiences ✈️🌏
     location: "United Arab Emirates"
-    followers: 12299
-    engagement: 301
-    commentsToLikes: 0.034680
-    id: ck55luzwl2i7p0i11ww5vz881
+    followers: 4235
+    engagement: 1192
+    commentsToLikes: 0.032464
+    id: ckap5vchydboc0i78exqeicsf
     verified: false
-    hashtags: "#dxb, #mood, #moodedits, #mydubai"
-  - username: "karim.bourgi"
+    hashtags: "#maldivesresorts, #hightatras, #maldivesbeach, #vysoke"
+  - username: "al_ahin"
     fullname: >-
-      Karim Bourgi
+      YaSiR EdAvaNNappARa
     bio: >-
-      👨‍🍳Chef Pâtissier ®️Créateur des Gourmandises 🚫No Coloring 🍃Natural 🍫Masterclass| Consultant 🥚Ambassador @elleetvire, @valrhonafrance 📍Dubai, UAE
+      Traveling tm @yathra_premi UAE 🇦🇪 ASPIRE 2 INSPIRE B4 U EXPIRE,
     location: "United Arab Emirates"
-    followers: 504968
-    engagement: 210
-    commentsToLikes: 0.022290
-    id: ck0w72rhzbgml0i193luusszn
+    followers: 15676
+    engagement: 865
+    commentsToLikes: 0.229021
+    id: ck15r47yk62d80i192twk4gxn
     verified: false
-    hashtags: "#instagood, #letsbakeathome, #guanaja, #yummy"
-  - username: "milica.gagic"
+    hashtags: "#red, #keraladiaries, #followforfollowback, #love"
+  - username: "tahera.fatimaa"
     fullname: >-
-      Milica Gagic
+      Tahera Fatima | Blogger
     bio: >-
-      24/7 ᴡᴏʀʟᴅ ᴛʀᴀᴠᴇʟ, ғᴀsʜɪᴏɴ ᴀɴᴅ ʟɪғᴇsᴛʏʟᴇ ᴀᴅᴠᴇɴᴛᴜʀᴇ. ғᴀsʜɪᴏɴ ʙʀᴀɴᴅɪɴɢ ᴀɴᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴘʀᴏғᴇssɪᴏɴᴀʟ. ᴅᴍ ғᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ 📍#dubai.#serbian 🧿 #stayhome
+      Self Love & Kindess🌻• Fashion•Beauty•Lifestyle•Food BBA Grad👩🏻‍🎓•Twin @abida.fatimaa 👯‍♂️ 📍Hyderabad,India🇮🇳• 📩Fatimatahera14@gmail.com •DM
     location: "United Arab Emirates"
-    followers: 29998
-    engagement: 71
-    commentsToLikes: 0.100044
-    id: ck0ub10mbdfr20i199bi365dx
+    followers: 10283
+    engagement: 651
+    commentsToLikes: 0.134834
+    id: ck15uurweolxt0i19qb3qjxmj
     verified: false
-    hashtags: "#luxurytraveler, #serbian, #classywomen, #dubaigirls"
+    hashtags: "#girls, #indianwedding, #instagood, #instagram"
+  - username: "yaaqoub_y_alhosani"
+    fullname: >-
+      (Official)يعقوب الحوسني
+    bio: >-
+      #UAE#🇦🇪 #classiccar#collector ,#buycar & #salecars . #اماراتي#🇦🇪 محترف من #هواة #اقتناء #تجديد#السيارات_الكلاسيكية ،#بيع_سيارات و#شراء_سيارات .
+    location: "United Arab Emirates"
+    followers: 24842
+    engagement: 197
+    commentsToLikes: 0.014328
+    id: ckf5puama7bbv0j23i1m2itze
+    verified: false
+    hashtags: "#nissan, #v8, #australia, #carburetor"
+  - username: "alberto_makeup"
+    fullname: >-
+      ▫️A L B E R T O▫️
+    bio: >-
+      ▪️Pro Makeup Artist @makeupforevermea ▪️painter ▪️illustrator ▪️Lifestyle/ Food Addict ▪️Travel Addict 🇦🇪 DUBAI 🇦🇪❤️
+    location: "United Arab Emirates"
+    followers: 53642
+    engagement: 197
+    commentsToLikes: 0.162384
+    id: ck6u4dcr3338e0j71jyuqag7e
+    verified: false
+    hashtags: "#valentines, #makeup, #christmas, #diafa"
 ---

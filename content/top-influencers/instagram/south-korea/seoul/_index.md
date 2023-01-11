@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Seoul In 2022
+title: Top 10 Instagram Influencers In Seoul In 2023
 description: >-
-  Find top Instagram influencers in Seoul in 2022. Most popular hashtags: #seoul #korea #youtuber.
+  Find top Instagram influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #model.
 platform: Instagram
-hits: 566
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 566 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 528
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 528 Instagram influencers like this in Seoul, South Korea for you to work with.
 profiles:
   - username: "seungjin_yang_"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Seoul
     location: "South Korea"
-    followers: 28775
-    engagement: 659
-    commentsToLikes: 0.010977
+    followers: 35539
+    engagement: 682
+    commentsToLikes: 0.010335
     id: ck6tydwmf36330j71i3dco0a4
     verified: false
-    hashtags: "#balloons, #designmiami, #seungjinyang, #epoxyresin"
+    hashtags: "#stool, #seungjinyang, #furniture, #balloons"
   - username: "_kwangho_lee"
     fullname: >-
       Kwangho Lee
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.005854
     id: ck0u20uzzyi6k0i19k2wmsgf6
     verified: false
-    hashtags: "#studio, #copper, #woven, #kwangholee"
+    hashtags: "#studio, #leeahngallery, #composition, #blue"
   - username: "seoul.back"
     fullname: >-
       Seoul
@@ -47,84 +47,84 @@ profiles:
     fullname: >-
       Dina 디나 Mujanović
     bio: >-
-      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜@dina11mujanovic <-- 촬영 🐙 dancer, yogi, voice actress, actress 🦖 Youtuber
     location: "South Korea"
-    followers: 7855
-    engagement: 1165
-    commentsToLikes: 0.068807
+    followers: 6790
+    engagement: 1103
+    commentsToLikes: 0.079772
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
-    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
+    hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
+  - username: "hannacoreana"
+    fullname: >-
+      Hanna Coreana 한나
+    bio: >-
+      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
+    location: "South Korea"
+    followers: 73663
+    engagement: 1430
+    commentsToLikes: 0.017638
+    id: ck139lh76lwpc0i19g78af5pm
+    verified: false
+    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
   - username: "sandra_ssong"
     fullname: >-
       Sasha Song (모델 사샤)
     bio: >-
-      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 YouTuber 1.6 Million / 유튜버 165만명 TikTok 2 Million / 틱톡 200만명
+      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 광고,촬영문의 / Business- DM 📩
     location: "South Korea"
-    followers: 159437
-    engagement: 1392
-    commentsToLikes: 0.016032
+    followers: 692345
+    engagement: 3617
+    commentsToLikes: 0.011403
     id: ck8t8gcnikdal0j7833hnrq5k
     verified: false
+    hashtags: "#korea, #lifeinkorea, #russianmodel, #internationalcouple"
+  - username: "camoz"
+    fullname: >-
+      camoz
+    bio: >-
+      _________________________ 📩⭕️ camoworld00@gmail.com Seoul, KOR 👇⭕️ @dermalizepro @stencilforte _________________________
+    location: "South Korea"
+    followers: 49800
+    engagement: 831
+    commentsToLikes: 0.018177
+    id: ck5hjscruh64e0i11of9ayj8s
+    verified: false
+    hashtags: "#blackandgrey, #davinci, #radtattoos, #tattoos"
+  - username: "monetbabazadeh"
+    fullname: >-
+      Monet Babazadeh
+    bio: >-
+      I am a fierce and passionate woman. AOJ/ATOS Jiu-Jitsu purple belt. 🇮🇷 SC 👻monetnb 📍 Seoul, Korea 🎥 My NEW VIDEO IS UP!!!👇
+    location: "South Korea"
+    followers: 38919
+    engagement: 259
+    commentsToLikes: 0.055884
+    id: ckap8dxbonwmx0i787fym253r
+    verified: false
+    hashtags: "#sailormoonvibes, #otakugirl, #sweettoothformickey, #happybirthdaytome"
+  - username: "xxmelodi"
+    fullname: >-
+      멜로디
+    bio: >-
+      _(┐「ε:)_ 📍 seoul ⚗️ korean german swedish british • • proud of this video ⬇️🥰
+    location: "South Korea"
+    followers: 130377
+    engagement: 773
+    commentsToLikes: 0.014142
+    id: ck0w3caygsog00i19pxi3i6ia
+    verified: false
     hashtags: ""
-  - username: "_minju_ji"
+  - username: "travelwormwithabook"
     fullname: >-
-      Minju Ji 지민주
+      Doodoshi | 두도시
     bio: >-
-      Free Seoul, Korea Contact -> dm . . .
+      ✈︎ Who travels the world with a book ⚐ Currently based in Seoul & Tehran ♢ Tale of two cities + travelling ♢ 두 도시 이야기 + 세계여행 이야기
     location: "South Korea"
-    followers: 8153
-    engagement: 1629
-    commentsToLikes: 0.023777
-    id: ck5hlvbi9kxi00i110nyhhtfe
+    followers: 2637
+    engagement: 2347
+    commentsToLikes: 0.055547
+    id: ck5ztewq709yp0i14mc71o9l0
     verified: false
-    hashtags: "#crocs, #magazine, #mcmlive"
-  - username: "tyan.dae"
-    fullname: >-
-      DIANA | 예나 💙
-    bio: >-
-      YouTube 130K+ 📍 Seoul, South Korea 🇷🇺🇰🇷 // 991130 🌻 다이아나/Diana/Диана/ダイアナ/黛安娜 👉🏽 💌DM [rus/eng/kor]👌🏽
-    location: "South Korea"
-    followers: 9029
-    engagement: 1691
-    commentsToLikes: 0.019258
-    id: ckap4eq5j71ig0i780no18pla
-    verified: false
-    hashtags: "#2020, #agusha, #korean, #korea"
-  - username: "elina_4_22"
-    fullname: >-
-      ✨Karimova Elina_엘리나✨
-    bio: >-
-      비즈니스(business) Email & DM💌 elina0422@gmail.com 크리에이터 | 모델 | 음악 Live in 🇰🇷 서울에 살고 있습니다(Seoul)
-    location: "South Korea"
-    followers: 1295830
-    engagement: 620
-    commentsToLikes: 0.007515
-    id: ck15pctlux8py0i19yi0ji7fg
-    verified: true
-    hashtags: "#mlb, #mlbcrew, #ygkplus, #mlbkorea"
-  - username: "izziisman"
-    fullname: >-
-      Izzi Isman
-    bio: >-
-      seoul • jakarta • seattle business inquiries — @izziisman (LINE OA)
-    location: "South Korea"
-    followers: 98439
-    engagement: 2769
-    commentsToLikes: 0.009830
-    id: ckap2yftr0uku0i782xggf8wm
-    verified: false
-    hashtags: "#200, #22, #skin1004, #flex"
-  - username: "estherkook_"
-    fullname: >-
-      Esther Kook
-    bio: >-
-      † seoul, korea
-    location: "South Korea"
-    followers: 19364
-    engagement: 1232
-    commentsToLikes: 0.013911
-    id: ck5znyrxbpeyf0i14fcwzv4xs
-    verified: false
-    hashtags: "#100, #thechangingroom, #maisonkitsunexnativeunion, #ad"
+    hashtags: "#travelworm, #biei, #turkeytrip, #japantrip"
 ---

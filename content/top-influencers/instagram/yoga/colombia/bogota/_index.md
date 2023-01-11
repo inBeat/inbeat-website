@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Bogotá In 2022
+title: Top 10 Yoga Instagram Influencers In Bogotá In 2023
 description: >-
-  Find top yoga Instagram influencers in Bogotá in 2022. Most popular hashtags: #yoga #colombia #fitness #salud.
+  Find top yoga Instagram influencers in Bogotá in 2023. Most popular hashtags: #yoga #love #bienestar #nature.
 platform: Instagram
-hits: 8
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
+hits: 4
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 4 Instagram influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
+  - username: "layogini"
+    fullname: >-
+      𓋹 ALEXANDRA 𓂀 La Yogini
+    bio: >-
+      ✨ 𝐃𝐞𝐬𝐦𝐢𝐭𝐢𝐟𝐢𝐜𝐨 𝐥𝐚 𝐄𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥𝐢𝐝𝐚𝐝 🧘🏻‍♀️ Cursos Online: Yoga, Astro, Magick, Tarot, Meditación y Cristales ✨ Yoga Trainings 🧘🏻‍♂️ MINDSET MENTORSHIP👇🏼
+    location: "Colombia"
+    followers: 51529
+    engagement: 131
+    commentsToLikes: 0.040040
+    id: ck600z4kkejop0i14pdbrfv7o
+    verified: false
+    hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
+  - username: "eyhbl_coach"
+    fullname: >-
+      🙋‍♀️ Eyleen Latin Coach 💜
+    bio: >-
+      ✈️ Me Encanta Viajar 🌍🏖️🏕️🏜️🏝️🌏 💜 SOÑAR CREER QUERER Y HACER 💁 💕 Emprendedora 💯 🍏🍉 Asesorías Online 💪🏻👙 🙋‍♀️ +584140879960 📲
+    location: "Colombia"
+    followers: 19537
+    engagement: 206
+    commentsToLikes: 0.047002
+    id: ck9wey5mxmdvr0j7829fh78a9
+    verified: false
+    hashtags: "#happiness, #venezolanas, #gratitud, #lifestyle"
   - username: "marianelamodel"
     fullname: >-
-      Marianela💋Ramos
+      MARIANELA | PRESENTADORA
     bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "natygaravitoa"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
+  - username: "leococinero"
     fullname: >-
-      Natalia Garavito Angel
+      Leonardo Moran
     bio: >-
-      Ángeles 👼🏻 Terapia espiritual: @escueladelalma 💗 Te invito a fluir con la vida 🍃🧘‍♀️ Meditación y luz ✨🌸 📍Bogotá
+      Chef y presentador 🍽👨🏻‍🍳🔪🥢 Ganador de Master Chef Colombia 2016 Embajador Adidas🥇@adidasco Contacto: lina.coralrestrepo@gmail.com
     location: "Colombia"
-    followers: 9177
-    engagement: 579
-    commentsToLikes: 0.076739
-    id: ckaoznu8fmlt30i781vylujhi
-    verified: false
-    hashtags: "#hoponoponolover, #pensamientopositivo, #inspiracion, #motivacion"
-  - username: "jacobofranco"
-    fullname: >-
-      Jacobo Franco | Lifestyle
-    bio: >-
-      📍Medellin 🔥 Pasión por las películas, series, música y yoga @codiscos | Caza talentos 🌈 #loveislove
-    location: "Colombia"
-    followers: 18069
-    engagement: 238
-    commentsToLikes: 0.169579
-    id: ck55klcw4zkxq0i11389cxfwv
-    verified: false
-    hashtags: "#musica, #fotografia, #salsa, #covid"
-  - username: "dondeesta_kelly"
-    fullname: >-
-      Kelly 🐿 Just A Travel Squirrel
-    bio: >-
-      #traveller #travelgirl ✦ Visual Storyteller ☼ Travel ~ Photography 📸 ✈ Viajes | 🌈Creatividad | Buena Vibra ✌🏼 💌 Dondeestakelly@gmail.com
-    location: "Colombia"
-    followers: 18559
-    engagement: 1193
-    commentsToLikes: 0.080579
-    id: ck0w5qet44x4b0i19672e02td
-    verified: false
-    hashtags: "#minca, #travellife, #lovetotravel, #ilovetravel"
-  - username: "melissalopez302"
-    fullname: >-
-      Melylopez
-    bio: >-
-      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
-    location: "Colombia"
-    followers: 7273
-    engagement: 2360
-    commentsToLikes: 0.027460
-    id: ck5c7ld9p7qsh0i11qryq9pd1
-    verified: false
-    hashtags: "#guerrera, #yomequedoencasa, #amor, #fitness"
-  - username: "_macs1_"
-    fullname: >-
-      Alejandra
-    bio: >-
-      🇨🇴🇨🇴🇲🇽🇲🇽 Deportista Colombiana🇨🇴💪 @lunashotsybirras Race Walk🏁 💪🏃🏆 UAEMex🏁🕦💻👊 Derecho Internacional👊💪💀🙌💻📃 Colombia👪💛 México💪🏃🏁💻🏆😍
-    location: "Colombia"
-    followers: 9391
-    engagement: 750
-    commentsToLikes: 0.016045
-    id: ck8t5pouqat8a0j78rwayqnxd
-    verified: false
-    hashtags: "#running, #colombia, #fit, #futbol"
-  - username: "valerialaytonfit"
-    fullname: >-
-      𝑽𝒂𝒍𝒆𝒓𝒊𝒂 𝑳𝒂𝒚𝒕𝒐𝒏 𝑭
-    bio: >-
-      📍𝑩𝒐𝒈𝒐𝒕𝒂 / 𝑪𝒐𝒍 🇨🇴 𝑶𝒘𝒏𝒆𝒓 @valfitsportswear ⚡️ 𝑬𝒎𝒃𝒂𝒋𝒂𝒅𝒐𝒓𝒂 @jhnutricion_ 🔥 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒐 𝒑𝒐𝒓 𝑫𝑴 📲
-    location: "Colombia"
-    followers: 16259
-    engagement: 1203
-    commentsToLikes: 0.012838
-    id: ck9wdvfnlhfwc0j785byp478z
-    verified: false
-    hashtags: "#face, #happyday, #happy, #girlboss"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    bio: >-
-      🌎 Online Fitness Coach ⭐️ Celebrity Personal Trainer ⚡️ Embajador @fitbitlatam 📱 Planes de entrenamiento y nutrición ⬇️ 😍 eBooks Patty & Juanse ⬇️
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
-    verified: false
-    hashtags: "#perderpeso, #gym, #fitness, #humorfit"
+    followers: 211033
+    engagement: 71
+    commentsToLikes: 0.036990
+    id: ck136xdv48qa10i19fm2liv12
+    verified: true
+    hashtags: "#bienestar, #chefinstagram, #chefplateform, #alimentacionsaludable"
   - username: "ania17art"
     fullname: >-
-      ania17art
+      ania17art.yoga
     bio: >-
-      Empresaria @panamaluxurygardens Yoga y Mas Youtube 📽📺 Ania Moreno. Yoga/crecimiento personal/recetas/ jardinería.
+      @panamaluxurygardens Alma libre💚 Yoga / Recetas / naturaleza /jardinería
     location: "Colombia"
-    followers: 9250
-    engagement: 924
-    commentsToLikes: 0.079738
+    followers: 9945
+    engagement: 959
+    commentsToLikes: 0.089889
     id: ckaoyhmybhke40i78yljrwual
     verified: false
-    hashtags: "#delicious, #tropical, #panama, #ania17art"
+    hashtags: "#sol, #instagood, #instapanama, #delicious"
   - username: "zuzana_klingrova"
     fullname: >-
       Zuzana Klingrova
     bio: >-
       Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
     location: "Colombia"
-    followers: 31398
-    engagement: 1027
-    commentsToLikes: 0.015151
+    followers: 33658
+    engagement: 699
+    commentsToLikes: 0.033855
     id: ck14ilv5yg22q0i19wu5yhqi6
     verified: false
-    hashtags: "#jogadnes, #joganapohodu, #spoluprace, #yoga"
+    hashtags: "#jogadnes, #joga, #darek, #mixtee"
+  - username: "deluzsemilla"
+    fullname: >-
+      cyan 🌙ॐ ~ yoga & bienestar
+    bio: >-
+      ✨Profesora de Kundalini Yoga✨ ~ Yoga | Plantas | Bienestar ~ mamá de Sue 🌞 mi sol ✨⬇️LINK APP DE MEDITACIÓN GUIADA⬇️🌞
+    location: "Colombia"
+    followers: 61381
+    engagement: 1715
+    commentsToLikes: 0.013835
+    id: ck6u1ajahkl4f0j7175jmootb
+    verified: false
+    hashtags: "#dreamself, #yogacolombia, #diainternacionaldelyoga, #saludmental"
+  - username: "justincaruso"
+    fullname: >-
+      Justin Caruso
+    bio: >-
+      Decade+ teaching AcroYoga, bodywork & yoga intensives, retreats & teacher trainings worldwide Founder @modernthaischool 📍Medellin 🏊🏼‍♂️🧘🏼‍♂️🙌🏼🕺🏼🗽🌄🛀🏾 🗺
+    location: "Colombia"
+    followers: 19527
+    engagement: 199
+    commentsToLikes: 0.062987
+    id: ck5hggcoe2mgy0i11ypi3zbuh
+    verified: false
+    hashtags: "#acroyoga, #yoga, #colombia, #impresionante"
+  - username: "layogini"
+    fullname: >-
+      𓋹 ALEXANDRA 𓂀 La Yogini
+    bio: >-
+      ✨ 𝐃𝐞𝐬𝐦𝐢𝐭𝐢𝐟𝐢𝐜𝐨 𝐥𝐚 𝐄𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥𝐢𝐝𝐚𝐝 🧘🏻‍♀️ Cursos Online: Yoga, Astro, Magick, Tarot, Meditación y Cristales ✨ Yoga Trainings 🧘🏻‍♂️ MINDSET MENTORSHIP👇🏼
+    location: "Colombia"
+    followers: 51529
+    engagement: 131
+    commentsToLikes: 0.040040
+    id: ck600z4kkejop0i14pdbrfv7o
+    verified: false
+    hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
+  - username: "changeyourlifewmel"
+    fullname: >-
+      Melissa 🌶
+    bio: >-
+      Fitness | Lifestyle ✨🧿👩🏻‍🎓 🇨🇴 - NY 📌
+    location: "Colombia"
+    followers: 5065
+    engagement: 1069
+    commentsToLikes: 0.054493
+    id: ck8t1veuhx6sp0j7825w41la7
+    verified: false
+    hashtags: "#shredded, #colombianwomen, #fitnessmotivation, #physique"
 ---

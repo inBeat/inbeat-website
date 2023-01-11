@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In South Korea In 2022
+title: Top 10 Divers Instagram Influencers In South Korea In 2023
 description: >-
-  Find top divers Instagram influencers in South Korea in 2022. Most popular hashtags: #kpop #selfie #diversity #diving.
+  Find top divers Instagram influencers in South Korea in 2023. Most popular hashtags: #kpop #selfie #youtube.
 platform: Instagram
 hits: 18
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 18 Instagram influencers like this in South Korea for you to collaborate.
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 18 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
+  - username: "sofjin_"
+    fullname: >-
+      Sofia Jin
+    bio: >-
+      British Korean entertainer @unitedagents, adventure athlete @ospreyeurope @thenorthfaceuk, exploring🌍 + creating diverse content. Embrace all you are!
+    location: "South Korea"
+    followers: 103324
+    engagement: 295
+    commentsToLikes: 0.011850
+    id: ck13cfi9r030u0i19x95av55i
+    verified: false
+    hashtags: ""
   - username: "leehyongchol"
     fullname: >-
       이형철
     bio: >-
       🇰🇷 korean actor.
     location: "South Korea"
-    followers: 6330
-    engagement: 677
-    commentsToLikes: 0.023532
+    followers: 6321
+    engagement: 647
+    commentsToLikes: 0.023865
     id: ck139sw8rmyd60i193iamuujg
     verified: false
-    hashtags: "#roadbike, #weekend, #snsi, #snsikorea"
-  - username: "paladin_vann"
+    hashtags: "#diving, #ocean, #sky, #weekend"
+  - username: "samzee_codes"
     fullname: >-
-      Vann Marcus
+      Sam | Data Science | AI
     bio: >-
-      No.1 Paladin #nerdlife Newly Atlanta Resident Cosplayer, Gamer, Anime and Korean Music fan Twitch: PaladinVann
+      🇲🇼 Machine Learning Lead by day 🇳🇱 > Educational content creator by night > Pop culture + Data Science > YouTuber, speaker Subscribe
     location: "South Korea"
-    followers: 3338
-    engagement: 659
-    commentsToLikes: 0.041787
-    id: ck0w25dyqmp3u0i19bjp99thw
+    followers: 9054
+    engagement: 389
+    commentsToLikes: 0.089237
+    id: ckap8tr3zpugl0i78dysd034p
     verified: false
-    hashtags: "#cosplayer, #repost, #wecosplay, #wakanda"
+    hashtags: "#deeplearning, #artificalintelligence, #datascientist, #blackintech"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
     bio: >-
-      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜@dina11mujanovic <-- 촬영 🐙 dancer, yogi, voice actress, actress 🦖 Youtuber
     location: "South Korea"
-    followers: 7855
-    engagement: 1165
-    commentsToLikes: 0.068807
+    followers: 6790
+    engagement: 1103
+    commentsToLikes: 0.079772
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
-    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
-  - username: "simmon__03"
+    hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
+  - username: "jaesung17"
     fullname: >-
-      Simmon 김수현
+      이재성 / JAESUNG LEE 🇰🇷
     bio: >-
-      🇰🇷 0⃞3⃞.⃞0⃞7⃞.⃞2⃞6⃞ #ʟᴏᴄᴋɪɴɢ 📷 @simmon_0.0_ 🏫 서울공연예술고등학교 실용무용과 11τн 💌 sɪᴍᴍᴏɴ030726@ɢᴍᴀɪʟ.ᴄᴏᴍ / ᴅᴍ📲 ⬇️ ʏᴏᴜᴛᴜʙᴇ
+      Holsteinkiel 🇩🇪 @nikefootball 이재성의 축구일기 👇
     location: "South Korea"
-    followers: 22834
-    engagement: 1265
-    commentsToLikes: 0.015625
-    id: ck5ch0b58pvbr0i11tigfrwlz
+    followers: 49227
+    engagement: 891
+    commentsToLikes: 0.018649
+    id: ck6009dl7d6di0i14y7r4o3t9
+    verified: true
+    hashtags: "#stopracism, #world, #solidarity, #justice"
+  - username: "paladin_vann"
+    fullname: >-
+      Vann Marcus
+    bio: >-
+      No.1 Paladin #nerdlife Gamer, Anime and Korean Music fan Twitch: PaladinVann
+    location: "South Korea"
+    followers: 3547
+    engagement: 808
+    commentsToLikes: 0.060820
+    id: ck0w25dyqmp3u0i19bjp99thw
     verified: false
-    hashtags: "#locking, #dance, #markgonzales, #kodak"
-  - username: "gamer_lafan"
+    hashtags: "#gamer, #cosplayer, #cosplayingwhileblack, #follow"
+  - username: "soodam_studio"
     fullname: >-
-      라판 | LAFAN
+      수담스튜디오/수중촬영,웨딩,만삭,한복촬영,일반인촬영
     bio: >-
-      게임을 수집하고 즐기는 게이머입니다. Korean Game Collector 🇰🇷 Nintendo | Playstation | Sega | Neogeo | Dosgame
+      ☝️수담 대전본점 ✌수담 서울2호점 (성수동) 수담 대표작가 @chandelier.j 수담 대표작가 @scherzando_artwork Underwater rental studio KOREA T. 0424875804
     location: "South Korea"
-    followers: 38177
-    engagement: 554
-    commentsToLikes: 0.036402
-    id: ck0vz9gni7zfh0i19u1q511xj
+    followers: 41021
+    engagement: 321
+    commentsToLikes: 0.023849
+    id: ck5hpacv8r0uj0i11nikbthke
     verified: false
-    hashtags: "#snes, #ninstagram, #retrogaming, #videogames"
-  - username: "younggun_llama"
+    hashtags: "#youtube, #mermaid, #underwater, #underwaterphotography"
+  - username: "savedbyblink"
     fullname: >-
-      프리다이빙 강사 이영건
+      𝐒𝐇𝐔𝐔𝐏𝐈𝐆𝐍𝐎𝐍
     bio: >-
-      #freediving_team_mute 📍사진찍는 프리다이빙 강사 이영건 📍서울, 경기 지역 프리다이빙 교육 📍아스달 연대기 송중기 수중대역 평일, 주말 #프리다이빙교육 #프리다이빙 교육문의👇 010.3159.7573 or DM 일정은 팀뮤트 카페에 있어요:)
+      ⠀⠀⠀ a human who shares his passion #𝐁𝐋𝐈𝐍𝐊 ilysm ː ৯ 🧣🏰 JE VOUS SERAI TOUJOURS RECONNAISSANT ❕ #BAZARKPOP
     location: "South Korea"
-    followers: 5902
-    engagement: 632
-    commentsToLikes: 0.024711
-    id: ck9wd0dpmdhhd0j783cns9pqe
-    verified: false
-    hashtags: "#mute, #freediving, #swim, #photooftheday"
-  - username: "jaesang.orz"
-    fullname: >-
-      
-    bio: >-
-      🇰🇷 JAE-SANG 1988 @studiomeet_official @overaiz_official Overaiz & Hook *Party I With House lovers *Battle I House dance future
-    location: "South Korea"
-    followers: 5877
-    engagement: 922
-    commentsToLikes: 0.034342
-    id: ck5ch0sd6pw4d0i112u52oxu7
-    verified: false
-    hashtags: "#housemusic, #housedance, #paxhfinder, #cl"
-  - username: "bazarkpop"
-    fullname: >-
-      𝐂𝐀𝐋𝐋 𝐌𝐄 𝐒𝐇𝐔𝐔
-    bio: >-
-      ⠀⠀⠀ a human who shares his passion #𝖡𝖫𝖨𝖭𝖪 𝐚𝐫𝐢&𝐲𝐮𝐫𝐢 | ilysm ː ৯
-    location: "South Korea"
-    followers: 11901
-    engagement: 1514
-    commentsToLikes: 0.028847
+    followers: 10908
+    engagement: 1409
+    commentsToLikes: 0.039865
     id: ck9haorfgdern0j786trs4anv
     verified: false
-    hashtags: "#videos, #bazarkpopacc, #post, #ulzzang"
+    hashtags: "#aesthetic, #groups, #kpop, #asie"
   - username: "daebakshow"
     fullname: >-
-      K-Pop Daebak w/ Eric Nam
+      Daebak Show w/ Eric Nam
     bio: >-
-      🇰🇷| Spotlighting K-pop’s best music with @ericnam presented by @thedivestudios. ⚡️| New Episode Every Monday ‼️| ⬇️ Become a Patron! ⬇️
+      🎙| Podcast hosted by @ericnam presented by @thedivestudios ⚡️| New Episode Every Monday ‼️| ⬇️ Become a Patron! ⬇️
     location: "South Korea"
-    followers: 62049
-    engagement: 641
-    commentsToLikes: 0.009943
+    followers: 100029
+    engagement: 989
+    commentsToLikes: 0.024185
     id: ck0w25y3emrop0i19u4c1xqjc
     verified: true
-    hashtags: "#53, #kevinwoo, #itzy, #update"
-  - username: "hj____xx"
+    hashtags: "#leehwimin, #junseo, #wei, #cix"
+  - username: "cho____c"
     fullname: >-
-      효니😘
+      Cho_c
     bio: >-
-      My Favorite Things💕
+      @overthe__limit @callawaygolf_korea Youtube Channel
     location: "South Korea"
-    followers: 13592
-    engagement: 467
-    commentsToLikes: 0.028289
-    id: ckaor133tl9gc0i7854wrbpsg
+    followers: 115118
+    engagement: 161
+    commentsToLikes: 0.016385
+    id: ck6uid7vueee60j71xyuq9jir
     verified: false
-    hashtags: "#golf, #benjefe, #benjefegolf, #measphera"
+    hashtags: "#driverswing, #sideview, #practice, #slowmotion"
 ---

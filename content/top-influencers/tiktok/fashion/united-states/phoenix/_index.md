@@ -1,60 +1,84 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Phoenix In 2022
+title: Top 10 Fashion TikTok Influencers In Phoenix In 2023
 description: >-
-  Find top fashion TikTok influencers in Phoenix in 2022. Most popular hashtags: #fyp #fashion #duet #foryou.
+  Find top fashion TikTok influencers in Phoenix in 2023. Most popular hashtags: #fashion #fyp #phoenix #photoshoot.
 platform: TikTok
-hits: 7
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 7 TikTok influencers like this in Phoenix, United States for you to connect with.
+hits: 9
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Phoenix, United States for you to connect with.
 profiles:
-  - username: "euphoria.bjc"
+  - username: "_chikis"
     fullname: >-
-      Euphoria
+      Ezequias Fuentes
     bio: >-
-      💫 Follow me on Insta@Euphoria.bjc ✨❤️ Cosplayer, Costume and Fashion designer❤️
+      It’s all about the vibes Snap: eze_fuentes 🤓
     location: "United States"
-    followers: 55800
-    engagement: 2201
-    commentsToLikes: 0.039083
-    id: ck8kl85q32s940j78ur79svth
+    followers: 83500
+    engagement: 1792
+    commentsToLikes: 0.066794
+    id: ckbbko75b8z7h0j23l0zpoxus
     verified: false
-    hashtags: "#legendofzelda, #fyp, #wip, #starwars"
+    hashtags: "#photoshoot, #photo, #azphotography, #fyp"
+  - username: "yosoylouish"
+    fullname: >-
+      LouisH
+    bio: >-
+      Te enseño cómo hacer dinero 💵🤩🏘📈 https://youtube.com/c/LouisHernandez
+    location: "United States"
+    followers: 19700
+    engagement: 362
+    commentsToLikes: 0.071982
+    id: ckbfbpz0v3uqe0j23ovwh7zpz
+    verified: false
+    hashtags: "#mexicanosenusa, #homemade, #tesla, #isthisavailable"
+  - username: "lauren_reneeee_1"
+    fullname: >-
+      Lauren Renee’
+    bio: >-
+      fashion, singing, hair care 🤎
+    location: "United States"
+    followers: 21400
+    engagement: 2231
+    commentsToLikes: 0.052245
+    id: ckck2p6dtm80v0j23a4ispsu8
+    verified: false
+    hashtags: "#albumcoverchallenge, #fyp, #blackgirl, #21"
   - username: "aieshabeasley"
     fullname: >-
       Aiesha 
     bio: >-
-      Fashion, KPOP, Gypsy Soul ❤️ Arizona Girl 🌵 Follow me on IG: @thestylegypsy 💫
+      Fashion, KPOP, Lifestyle ❤️ Arizona Girl 🌵 Follow me on IG: @aieshabeasley💫
     location: "United States"
-    followers: 34100
-    engagement: 1627
-    commentsToLikes: 0.030775
+    followers: 90300
+    engagement: 1202
+    commentsToLikes: 0.024758
     id: ckamwbx9o7rej0i78thso8hoq
     verified: false
-    hashtags: "#boba, #arizona, #tiktokkorea, #tucson"
+    hashtags: "#arizonahype, #arizona, #brunch, #gilbert"
   - username: "bachatawithbain"
     fullname: >-
       bachatawithbain
     bio: >-
-      “How-to” videos on YouTube! Bain Craddock IG: bachatawithbain
+      IG: bachatawithbain Reach out via Insta 🙌 Tempe, AZ, USA 🇺🇸
     location: "United States"
-    followers: 54000
-    engagement: 483
-    commentsToLikes: 0.009173
+    followers: 57900
+    engagement: 487
+    commentsToLikes: 0.008637
     id: ckavilwanquur0j23ez31mmjc
     verified: false
-    hashtags: "#baile, #dancer, #dans, #tempe"
+    hashtags: "#baile, #latindance, #dan, #ples"
   - username: "crescentshay"
     fullname: >-
       Shay
     bio: >-
       21 - she/her im here to sew & be a fool (more progress on insta - @crescentshay)
     location: "United States"
-    followers: 2500000
-    engagement: 1404
-    commentsToLikes: 0.004260
+    followers: 4000000
+    engagement: 1705
+    commentsToLikes: 0.006203
     id: ck7zo1d7zgvov0j78ceurfv7y
     verified: true
-    hashtags: "#anime, #barbie, #fashion, #manga"
+    hashtags: "#bnha, #fashion, #barbie, #hungergames"
   - username: "lm.meets"
     fullname: >-
       lm.meets
@@ -62,69 +86,45 @@ profiles:
       Photography and modeling meets/meetups IG: @LadyMehanPhoto
     location: "United States"
     followers: 18400
-    engagement: 210
-    commentsToLikes: 0.013664
+    engagement: 364
+    commentsToLikes: 0.021689
     id: ck8trb4gqqwyi0j78q14euf2r
     verified: false
-    hashtags: "#tiktok, #joblife, #california, #bts"
-  - username: "strwbryluvr"
+    hashtags: "#fashion, #california, #momsoftiktok, #model"
+  - username: "dome_moon_art"
     fullname: >-
-      GIOVANNA
+      Domė Moon Artist
     bio: >-
-      this was a joke idk what happened
+      ✨HIGH VIBE ART✨ Venmo @Dome-Moon 🌸Shop & newsletter 🌸👇
     location: "United States"
-    followers: 8798
-    engagement: 1557
-    commentsToLikes: 0.074247
-    id: ckcdjglwy8v480j23e70cknx7
+    followers: 123800
+    engagement: 1385
+    commentsToLikes: 0.089183
+    id: ck806uuybm6v30j782zatbke9
     verified: false
-    hashtags: "#voteblue, #vote, #fyp, #foryou"
-  - username: "lauramrock"
+    hashtags: "#spiritualtok, #arttok, #smallbusiness, #visionaryart"
+  - username: "thestylishstylist"
     fullname: >-
-      ❤️Mama Rock❤️
+      TheStylishStylist 
     bio: >-
-      Never bored never boring💕mom, traveler✈️vegan🥑rule breaker😁always grateful🎉
+      Shoot Me A Dm On IG For Free Clothes @lifeofpeck
     location: "United States"
-    followers: 4875
-    engagement: 926
-    commentsToLikes: 0.298083
-    id: ckbfbakyz37gl0j23rziwkk4l
+    followers: 74300
+    engagement: 1175
+    commentsToLikes: 0.051743
+    id: ckae0xavjm0ss0i78neci5sdu
     verified: false
-    hashtags: "#beautiful, #justdoit, #trend, #fitness"
-  - username: "vivalapinkposh"
-    fullname: >-
-      vivalapinkposh
-    bio: >-
-      INFLUENCER MAKEUP•FASHION•BUSINESS• LETS GET TO 700k🔓
-    location: "United States"
-    followers: 694700
-    engagement: 2287
-    commentsToLikes: 0.075881
-    id: ckai0ai6q6v8z0i782maw6om4
-    verified: false
-    hashtags: "#duet, #christmas, #dollar, #fyp"
-  - username: "benhornn"
-    fullname: >-
-      ben
-    bio: >-
-      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
-    location: "United States"
-    followers: 219800
-    engagement: 2273
-    commentsToLikes: 0.144883
-    id: ckacgukn4woy10i78163lz6e5
-    verified: false
-    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
+    hashtags: "#smallbiz, #screenprinting, #whatilearned, #clothingline"
   - username: "andrewkwon_official"
     fullname: >-
       Andrew Kwon 엔드류 권
     bio: >-
-      Fashion Designer of ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
+      Fashion Designer ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
     location: "United States"
-    followers: 6447
-    engagement: 1963
-    commentsToLikes: 0.120485
+    followers: 9403
+    engagement: 1620
+    commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#foryou, #foru, #fyp, #korean"
+    hashtags: "#france, #kpop, #nyc, #andrewkwon"
 ---

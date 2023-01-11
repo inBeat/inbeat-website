@@ -1,84 +1,84 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Dallas In 2022
+title: Top 10 Cosmetics Instagram Influencers In Dallas In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Dallas in 2022. Most popular hashtags: #skincare #beauty #makeup #cosmetics.
+  Find top cosmetics Instagram influencers in Dallas in 2023. Most popular hashtags: #cosmetics #fashion #makeup #skincare.
 platform: Instagram
-hits: 20
+hits: 28
 text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 20 Instagram influencers like this in Dallas, United States for you to contact.
+text_bottom: Our platform has 28 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "facialsurgeons"
+  - username: "chinalatinadfw"
     fullname: >-
-      FACIAL SURGEONS
+      CHINA LATINA DFW
     bio: >-
-      We only feature VERIFIED Board-Certified Facial Plastic Surgeons. Is your Facial Surgeon featured below? If not, Contact Us Today!
+      Multicultural Lifestyle 🏆 Award Winning Influencer 💎 Jewelry Designer @minerdeng Get 20% OFF with code CHINALATINA20 💻 Creative @yourmarketingmedia
     location: "United States"
-    followers: 56663
-    engagement: 264
-    commentsToLikes: 0.030186
-    id: ck15pawxfwyui0i198z069jia
+    followers: 21108
+    engagement: 150
+    commentsToLikes: 0.062612
+    id: ckaoqn1ypjg6q0i78ljajvlib
     verified: false
-    hashtags: "#surgeon, #facialsurgery, #lookyounger, #facialrejuvenation"
-  - username: "roccothegoddess"
+    hashtags: "#dallasevents, #ootdfashion, #dallaslifestyleblogger, #styleinspo"
+  - username: "michaelvincentacademy"
     fullname: >-
-      𝘾𝙧𝙚𝙖𝙩𝙚 𝙒𝙚𝙖𝙡𝙩𝙝 & 𝘼𝙘𝙝𝙞𝙚𝙫𝙚 𝙈𝙤𝙧𝙚
+      MVA- Adv Makeup, Hair
     bio: >-
-      Taken by @IcyunvDAGOD 👑 Disciplined Heathen 🖤 Powered by Plants🌱 Fitnessy🏋🏿‍♀️💅🏾 Serial Investor 📈 Funding The Mental📚 Toronto ✈️ Miami
+      MVA.LA - OPEN ENROLLMENT #september ONLINE + ELITE program build your portfolio #1 Beauty, Hair, SFX ,Airbrush ,Affliate, Onset
     location: "United States"
-    followers: 8788
-    engagement: 1879
-    commentsToLikes: 0.012214
-    id: ckf5qzls8awt60j23z8t6ovat
+    followers: 188719
+    engagement: 114
+    commentsToLikes: 0.005452
+    id: ck5bxawrand8n0i11qyy9i0mv
     verified: false
-    hashtags: "#selfielove, #blackownedbusiness, #dallas, #curls"
-  - username: "najahartistry"
+    hashtags: "#photography, #microblading, #kyliecosmetics, #maccosmetics"
+  - username: "thesoberstyle"
     fullname: >-
-      NAJAH AHMED
+      Abigail Doty
     bio: >-
-      📍 Dallas, Texas 🇵🇰 Pakistani | 20 🎬 TikTok - najahartistry 📧 Business - najahartistry@hotmail.com 🎥 YOUTUBE ⤵️
+      •sober 06.09.2015 | alcoholic named abigail •everyday style & home decor •dog mama to t+t🐶 | wifey to the other t💍 •📍dallas, tx
     location: "United States"
-    followers: 23661
-    engagement: 134
-    commentsToLikes: 0.065981
-    id: ck14luhx6wjvd0i19uvnhazpr
+    followers: 15961
+    engagement: 171
+    commentsToLikes: 0.070699
+    id: ck9har4kfdr5x0j78tsc512ga
     verified: false
-    hashtags: "#lipgloss, #dazedbeauty, #fakeupfix, #rivierapalette"
-  - username: "glamby.juliee"
+    hashtags: "#mocktail, #frewines, #styleoftheday, #soberaf"
+  - username: "jessyjphoto"
     fullname: >-
-      ♡J u l i e e♡
+      Jessy J Photo 📷
     bio: >-
-      📍Dallas,TX. 🌹Dm for appointment 🌹PR:DM/💌julieguillen92@yahoo.com 🌹“If you have a Dream Don’t let anybody take it away”♡SQ.
+      Model turned Photographer turned Mama. Dallas ✈️ LA For bookings DM or 📧 email info@jessyjphoto.com Website and limited edition prints below 👇🏽
     location: "United States"
-    followers: 4151
-    engagement: 812
-    commentsToLikes: 0.065412
-    id: ck8szos6ap68l0j78a3qfnjp3
+    followers: 113649
+    engagement: 245
+    commentsToLikes: 0.050534
+    id: ck0w4gvtpyiaw0i19jh6pfwqy
     verified: false
-    hashtags: "#maquillajeprofesional, #muasdem, #makeupdollz, #makeupblender"
-  - username: "fashionveggie"
+    hashtags: "#melaninbeauty, #miami, #dallasphotographer, #laphotographer"
+  - username: "miriammelonn"
     fullname: >-
-      by Molly T.
+      
     bio: >-
-      🌱 Vegan fashion, beauty & lifestyle blogger 💍Smitten wifey 🤰🏼Boy mom to @the_baby_veggies 📍Dallas
+      M I R I A M✨ 25 ♋️| Dallas Tx📍 ✨Beauty Influencer✨ 💌 miriammelonn@gmail.com ✨TikTok- @miriammelonnn
     location: "United States"
-    followers: 96431
-    engagement: 130
-    commentsToLikes: 0.077394
-    id: ck55k07lhy5vx0i11gjdtzrgu
+    followers: 84224
+    engagement: 205
+    commentsToLikes: 0.013227
+    id: ck0vy5fys2blr0i19z6oh14bb
     verified: false
-    hashtags: "#100percentpure, #ikea, #cleanskincare, #ad"
-  - username: "euniquefaces"
+    hashtags: "#dallasmakeupartist, #trendymakeup, #bhcosmetics, #benefitcosmetics"
+  - username: "fatimathemua"
     fullname: >-
-      Gernisha
+      Voted DFW Best MUA 2020
     bio: >-
-      Pro Makeup Artist Based in Houston Texas📍 Eu’Nique Cosmetics NOW AVAILABLE💄 For all booking inquiries,please click BOOK.
+      ⚡️Viral Makeup Artist 📌Dallas, TX 👩🏽‍🎤Influencer (Tiktok Partner 22k) 📚Beauty Educator Classes, Availability & Booking online 💖
     location: "United States"
-    followers: 5897
-    engagement: 303
-    commentsToLikes: 0.061939
-    id: ck0tv9f9wafpi0i197fqcuc33
+    followers: 43312
+    engagement: 195
+    commentsToLikes: 0.040685
+    id: ck6u7tab1njfo0j713y4h6dh0
     verified: false
-    hashtags: "#houstonhair, #lashtraining, #atlantaeyelashextensions, #norushchallenge"
+    hashtags: "#contour, #protectivestyles, #atlmua, #makeuppage"
   - username: "dr.rose.ilift"
     fullname: >-
       Dr. Rose, DDS
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.084052
     id: ck8t7k1aqh3i30j782aukmq0q
     verified: false
-    hashtags: "#veneers, #dentalhygienists, #invisalign, #bigsmile"
+    hashtags: "#smilemakeover, #bigsmile, #beautifulsmile, #quotes"
   - username: "madaleinemurphy"
     fullname: >-
-      madaleine murphy
+      madaleine murphy☁️
     bio: >-
-      snap: madaleinemurphy https://blacklivesmatters.carrd.co/ 📩madaleinemurphy16@gmail.com
+      https://blacklivesmatters.carrd.co/ 📩madaleinemurphy16@gmail.com
     location: "United States"
-    followers: 10552
-    engagement: 1407
-    commentsToLikes: 0.062586
+    followers: 10292
+    engagement: 1499
+    commentsToLikes: 0.061965
     id: ck0vvcwauokul0i19rto5ksi1
     verified: false
-    hashtags: "#pacsun, #skincareroutine, #ultabeauty, #skincareproducts"
-  - username: "tierrajenaae"
+    hashtags: "#ad, #gobareoutside, #ultabeauty, #sunscreen"
+  - username: "jannaortiz1"
     fullname: >-
-      Tierra Jenae Giles
+      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
     bio: >-
-      Model• Actress• Posing/Runway Coach A physical collection of my influences
+      Filipina 🇵🇭 Austin TX Twitter: Jannaortiz1
     location: "United States"
-    followers: 13802
-    engagement: 995
-    commentsToLikes: 0.096684
-    id: ck5c4ucm324hw0i11n4geck2p
+    followers: 3504
+    engagement: 1522
+    commentsToLikes: 0.074640
+    id: ck5q6e1jrx0dy0i11ssc44sp5
     verified: false
-    hashtags: "#la, #summer, #photooftheday, #vintage"
-  - username: "makeupstylist_pita"
+    hashtags: "#fashion, #fashionista, #officialfuegobabe, #mua"
+  - username: "roccothegoddess"
     fullname: >-
-      Lupita
+      𝘾𝙧𝙚𝙖𝙩𝙚 𝙒𝙚𝙖𝙡𝙩𝙝 & 𝘼𝙘𝙝𝙞𝙚𝙫𝙚 𝙈𝙤𝙧𝙚
     bio: >-
-      
+      Taken by @DerdyDadeDre 👑 Disciplined Heathen 🖤 Powered by Plants🌱 Fitnessy🏋🏿‍♀️💅🏾 Serial Investor 📈 Funding The Mental📚 Toronto ✈️ Miami
     location: "United States"
-    followers: 7250
-    engagement: 417
-    commentsToLikes: 0.035225
-    id: ck55olgzw8ldn0i11uu8nlzet
+    followers: 8758
+    engagement: 1938
+    commentsToLikes: 0.011708
+    id: ckf5qzls8awt60j23z8t6ovat
     verified: false
-    hashtags: "#juviasplace, #abhbrows, #anastasiabrows, #nyx"
+    hashtags: "#fitchicks, #healthyhair, #kinky, #happyanniversary"
 ---

@@ -1,57 +1,117 @@
 ---
-title: Top 10 Stylists Instagram Influencers In 2022
+title: Top 10 Stylists Instagram Influencers In 2023
 description: >-
-  Find top stylists Instagram influencers in 2022. Most popular hashtags: #ad #hoping #netaporter.
+  Find top stylists Instagram influencers in 2023. Most popular hashtags: #kbhxgab #sustainablefashion #styledxgabrielalangone.
 platform: Instagram
-hits: 10290
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 10290 Instagram influencers like this for you to collaborate.
+hits: 10039
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 10039 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "sylviemus_"
+  - username: "ericakentosh"
     fullname: >-
-      Sylvie Mus
+      Erica Kentosh
     bio: >-
       stylist
     location: "United States"
-    followers: 66331
-    engagement: 401
-    commentsToLikes: 0.026617
-    id: ck0w5t0da5aq30i197h5j535e
+    followers: 7873
+    engagement: 448
+    commentsToLikes: 0.142494
+    id: ck8szvgpspv460j782qzyjotc
     verified: false
-    hashtags: "#netaporter, #mangogirls, #ad, #thenetset"
+    hashtags: "#momlife, #90sbaby, #newbornlife, #6weeksold"
+  - username: "tamalaclarice"
+    fullname: >-
+      ™️©️
+    bio: >-
+      Stylist
+    location: "United States"
+    followers: 10159
+    engagement: 558
+    commentsToLikes: 0.095822
+    id: ck13am7bwr25b0i19f60etab1
+    verified: false
+    hashtags: "#styledbyclarice, #styledbytamalaclarice"
   - username: "mollyddickson"
     fullname: >-
       molly dickson
     bio: >-
       Stylist.
     location: "United States"
-    followers: 46956
-    engagement: 566
-    commentsToLikes: 0.022147
+    followers: 48435
+    engagement: 371
+    commentsToLikes: 0.015554
     id: ck0u0pdqxugji0i19tqls8nij
     verified: true
-    hashtags: "#acmawards, #kelseaballerini, #scarlettjohansson, #cma"
-  - username: "___rrxii"
+    hashtags: "#sadiesink, #strangerthings"
+  - username: "btmarie"
     fullname: >-
-      Kira the alchemist
+      BT MARIE
+    bio: >-
+      STYLIST
+    location: "United States"
+    followers: 4522
+    engagement: 1237
+    commentsToLikes: 0.094443
+    id: ck5c1e64cv00g0i117mkn3a0g
+    verified: false
+    hashtags: "#btmarie, #lvrodeomens"
+  - username: "alexusshefts"
+    fullname: >-
+      Alexus Shefts
     bio: >-
       Stylist
-    location: "France"
-    followers: 71531
-    engagement: 154
-    commentsToLikes: 0.025763
-    id: ck5bv4h4piz990i113kim25q2
+    location: "United States"
+    followers: 20130
+    engagement: 369
+    commentsToLikes: 0.036966
+    id: ck5qdh2bfvjq20i11vihewjna
     verified: false
-    hashtags: "#freekodak, #nofakefriends"
+    hashtags: "#stylebyalexusshefts, #tubing, #texas"
+  - username: "dannistylist"
+    fullname: >-
+      StyledByDanni
+    bio: >-
+      STYLIST
+    location: "United States"
+    followers: 16475
+    engagement: 192
+    commentsToLikes: 0.066659
+    id: ck135tzeh38aq0i199g303s02
+    verified: false
+    hashtags: "#bottegaveneta, #londonfashionweek, #streetstyle, #cricketfashion"
+  - username: "ramamustav"
+    fullname: >-
+      Ramil
+    bio: >-
+      Stylist
+    location: "United States"
+    followers: 15555
+    engagement: 627
+    commentsToLikes: 0.051826
+    id: ck14h8wsg94i50i19s840o6ia
+    verified: false
+    hashtags: ""
+  - username: "xgabriela"
+    fullname: >-
+      gabriela langone
+    bio: >-
+      STYLIST
+    location: "United States"
+    followers: 26733
+    engagement: 77
+    commentsToLikes: 0.086318
+    id: ck0vvqhr8qb370i19t1ogbyei
+    verified: false
+    hashtags: "#kbhxgab, #sustainablefashion, #verishoplivestream, #sustainable"
   - username: "klychkovanastya"
     fullname: >-
       Nastya Klychkova
     bio: >-
       Stylist
     location: "United States"
-    followers: 11860
-    engagement: 477
-    commentsToLikes: 0.031270
+    followers: 11725
+    engagement: 508
+    commentsToLikes: 0.031619
     id: ck5bu0qhbgyiq0i11ppkkamsi
     verified: false
     hashtags: ""
@@ -60,71 +120,11 @@ profiles:
       Alicia Padrón
     bio: >-
       Stylist
-    location: "Spain"
-    followers: 10824
-    engagement: 400
-    commentsToLikes: 0.044629
+    location: "United States"
+    followers: 11149
+    engagement: 298
+    commentsToLikes: 0.042315
     id: ck0tuiivf7bb40i19p4rf804v
     verified: false
-    hashtags: "#bimbaylolized, #tank, #trucklife, #bts"
-  - username: "dzgaines"
-    fullname: >-
-      Daniel Gaines
-    bio: >-
-      Stylist
-    location: "United States"
-    followers: 19567
-    engagement: 109
-    commentsToLikes: 0.012652
-    id: ckaoqv8p0kk7v0i78216y08dh
-    verified: false
-    hashtags: "#saturdee, #ballotcounters, #wrapitupalready, #blue"
-  - username: "ericjmcneal"
-    fullname: >-
-      Eric Mcneal
-    bio: >-
-      Stylist.
-    location: "United States"
-    followers: 9731
-    engagement: 564
-    commentsToLikes: 0.066086
-    id: ck5q7u75933rx0i11ibewszsg
-    verified: false
-    hashtags: "#americansinparis, #joansmalls, #uniqlou, #uniqlopartner"
-  - username: "shinosuganuma"
-    fullname: >-
-      Shino Suganuma 管沼詩乃
-    bio: >-
-      Stylist
-    location: "Japan"
-    followers: 6406
-    engagement: 315
-    commentsToLikes: 0.013322
-    id: ck5bztpj5rtn10i118sjwt356
-    verified: false
-    hashtags: "#ellejapon, #repost, #girlofthemonth, #voguegirl"
-  - username: "ramonatabita"
-    fullname: >-
-      Ramona Tabita
-    bio: >-
-      Stylist
-    location: "France"
-    followers: 37679
-    engagement: 267
-    commentsToLikes: 0.023138
-    id: ck0vvqiasqb5p0i19ek09becl
-    verified: false
-    hashtags: "#saintlaurentrivedroite, #defuera, #fw20, #fearofgodzegna"
-  - username: "dannistylist"
-    fullname: >-
-      StyledByDanni
-    bio: >-
-      STYLIST
-    location: "France"
-    followers: 16435
-    engagement: 174
-    commentsToLikes: 0.068677
-    id: ck135tzeh38aq0i199g303s02
-    verified: false
-    hashtags: "#streetstyle, #londonfashionweek, #bottegaveneta, #styledbydanni"
+    hashtags: "#mood, #bts, #tank, #guccijackie1961"
 ---

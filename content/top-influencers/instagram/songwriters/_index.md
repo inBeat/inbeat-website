@@ -1,48 +1,36 @@
 ---
-title: Top 10 Songwriters Instagram Influencers In 2022
+title: Top 10 Songwriters Instagram Influencers In 2023
 description: >-
-  Find top songwriters Instagram influencers in 2022. Most popular hashtags: #garmin #ealiaaj #ambassadricevirginmobile.
+  Find top songwriters Instagram influencers in 2023. Most popular hashtags: #bhushankumar #anactionhero #krishankumar.
 platform: Instagram
-hits: 4091
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 4091 Instagram influencers like this for you to contact.
+hits: 4170
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 4170 Instagram influencers like this for you to contact.
 profiles:
-  - username: "jackieapostel"
-    fullname: >-
-      apostel
-    bio: >-
-      🇧🇷 • 🇩🇪 songwriter
-    location: "Brazil"
-    followers: 114073
-    engagement: 928
-    commentsToLikes: 0.001329
-    id: ck5bxnkn8o1zj0i1103oaq0qr
-    verified: false
-    hashtags: "#libraproblems"
-  - username: "noahgundersen"
-    fullname: >-
-      Noah Gundersen
-    bio: >-
-      Songwriter
-    location: "United States"
-    followers: 43963
-    engagement: 643
-    commentsToLikes: 0.020132
-    id: ck15ptp1xzkm70i19gtlheb4c
-    verified: true
-    hashtags: "#ngla1, #ngchicago2, #ngla2, #ngtoronto1"
   - username: "prateekkuhad"
     fullname: >-
       prateekkuhad
     bio: >-
       songwriter
     location: "United States"
-    followers: 491317
-    engagement: 794
-    commentsToLikes: 0.005722
+    followers: 536484
+    engagement: 755
+    commentsToLikes: 0.004506
     id: ck0ttriq0408w0i19eysvqmny
     verified: true
-    hashtags: "#ytff2020, #flipkartbigbilliondays, #nokiasmarttvs, #bigbilliondayspecials"
+    hashtags: "#todayatappleindia, #wynkstage, #mysingaporeconnect, #mismatched"
+  - username: "noahgundersen"
+    fullname: >-
+      Noah Gundersen
+    bio: >-
+      Songwriter
+    location: "United States"
+    followers: 45075
+    engagement: 716
+    commentsToLikes: 0.025870
+    id: ck15ptp1xzkm70i19gtlheb4c
+    verified: true
+    hashtags: ""
   - username: "robertearlkeen1"
     fullname: >-
       Robert Earl Keen
@@ -51,80 +39,92 @@ profiles:
     location: "United States"
     followers: 53537
     engagement: 342
-    commentsToLikes: 0.020227
+    commentsToLikes: 0.020217
     id: ck5c3y7290a0q0i11fk4e359n
     verified: true
-    hashtags: "#primecuts, #luckreunion, #saveourstages"
+    hashtags: "#saveourstages, #primecuts, #luckreunion"
+  - username: "johnebaumann"
+    fullname: >-
+      John Baumann
+    bio: >-
+      Songwriter
+    location: "United States"
+    followers: 10973
+    engagement: 314
+    commentsToLikes: 0.019212
+    id: ck5zio9ypg2yx0i14vf91rqok
+    verified: false
+    hashtags: "#whattheworldneedsnow, #single2"
   - username: "griffenpalmer"
     fullname: >-
       griffen palmer
     bio: >-
       Songwriter.
     location: "United States"
-    followers: 6272
-    engagement: 1671
-    commentsToLikes: 0.075897
+    followers: 6671
+    engagement: 1803
+    commentsToLikes: 0.084888
     id: ckap8tjdlpthl0i788zku8uup
     verified: false
     hashtags: "#songland, #partyshirt"
-  - username: "khashayar_jozi"
+  - username: "aliciamoffet"
     fullname: >-
-      Khashayar jozi
+      Moff
     bio: >-
-      Guitarist Songwriter Singer
-    location: "Iran"
-    followers: 18565
-    engagement: 2075
-    commentsToLikes: 0.087831
-    id: ck0w6ipfe8r0s0i19kg3b3nn2
-    verified: false
-    hashtags: "#gibson, #lespaul, #telecaster, #fender"
-  - username: "ralph_castelli"
-    fullname: >-
-      Ralph
-    bio: >-
-      CUT OUT (Artist, producer, songwriter) Mgmt: @ourbadhabit
-    location: "United States"
-    followers: 9055
-    engagement: 1482
-    commentsToLikes: 0.089006
-    id: ck15snol4dwuy0i19i1behzph
-    verified: false
-    hashtags: "#itsfinallyhere, #tooexcitedtowait, #cutout"
-  - username: "rafaelleroy"
-    fullname: >-
-      Ⓥ Rafaëlle Roy ॐ
-    bio: >-
-      Singer-songwriter, vegan 🌻 #BlackLivesMatter 💌 collabs: rafaelle@kovalmarketing.com
+      mama-singer-songwriter @amcollectionz
     location: "Canada"
-    followers: 110647
-    engagement: 1231
-    commentsToLikes: 0.080461
-    id: ck13d7sok44140i19sx4wgpai
+    followers: 433082
+    engagement: 675
+    commentsToLikes: 0.006691
+    id: ck5pyqt32xcd50i11u56zd8tr
     verified: true
-    hashtags: "#pub, #ambassadricevirginmobile, #partenaire, #vynebotanicals"
-  - username: "dara.ekimova"
+    hashtags: "#evive, #cinnamoncookie, #silkcanada"
+  - username: "laceyvjames"
     fullname: >-
-      Dara Ekimova
+      LACEY JAMES
     bio: >-
-      Singer Songwriter BOOKING (за участия): +359888703060 COLLABORATION: dara.ekimova@influentica.bg
-    location: ""
-    followers: 15215
-    engagement: 1129
-    commentsToLikes: 0.069572
-    id: ck5ca6qouct410i11n0vx9cjy
+      22 ♫ singer/songwriter @evolve.models
+    location: "United States"
+    followers: 80978
+    engagement: 1844
+    commentsToLikes: 0.007071
+    id: ck5cjhjjauqi30i11c3hkwrzp
     verified: false
-    hashtags: "#garminbulgaria, #hmbulgaria, #garmin, #greathairdays"
-  - username: "ealiaaj"
+    hashtags: "#comfortmadesexy, #toofacedpartner, #toofaced, #splathaircolor"
+  - username: "yohanimusic"
     fullname: >-
-      EALIA AJ
+      Yohani
     bio: >-
-      Producer,composer,songwriter,singer Channel telegram👇🏻
-    location: "Iran"
-    followers: 111215
-    engagement: 1113
-    commentsToLikes: 0.523042
-    id: ck6uh6wgd7d4e0j71rztoo5xu
+      🇱🇰 Singer / Songwriter/ Rapper / Producer 📍Mumbai 🇮🇳. #TuSaamneAaye Song Out Now 👇👇👇
+    location: "India"
+    followers: 1045729
+    engagement: 393
+    commentsToLikes: 0.007020
+    id: ck5hq87x4soe50i11p0e4r04q
     verified: false
-    hashtags: "#ealiaaj, #versha, #newtrack, #songer"
+    hashtags: "#krishankumar, #jehdanasha, #bhushankumar, #anactionhero"
+  - username: "agatha_chelsea"
+    fullname: >-
+      Agatha Chelsea
+    bio: >-
+      unimelb BSc, singer-songwriter, entrepreneur @terryandco.id | @herbyagathachelsea |@lovinglivinglearning BA of @knaturalwhite & @greeindonesia
+    location: "Indonesia"
+    followers: 1680959
+    engagement: 237
+    commentsToLikes: 0.003242
+    id: ck15rtag39lei0i19ym7n3jir
+    verified: true
+    hashtags: "#breathethelove, #stopoverthinkingstartcreating, #duetjinglebube, #21"
+  - username: "autumnknight_"
+    fullname: >-
+      AUTUMN KNIGHT
+    bio: >-
+      singer | songwriter | actor nashville, tn 🤍 los angeles, ca shop my merch store 🌸 stream ✨ christmas without you
+    location: "United States"
+    followers: 50412
+    engagement: 224
+    commentsToLikes: 0.031580
+    id: ck14kmlhwq9dq0i19kwot314q
+    verified: false
+    hashtags: "#radio, #london, #radiostation, #livefromlondon"
 ---

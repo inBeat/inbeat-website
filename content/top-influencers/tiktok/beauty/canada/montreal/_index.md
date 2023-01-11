@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Montreal In 2022
+title: Top 10 Beauty TikTok Influencers In Montreal In 2023
 description: >-
-  Find top beauty TikTok influencers in Montreal in 2022. Most popular hashtags: #montreal #canada #beauty #funny.
+  Find top beauty TikTok influencers in Montreal in 2023. Most popular hashtags: #montreal #fyp #beauty #foryou.
 platform: TikTok
 hits: 11
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 11 TikTok influencers like this in Montreal, Canada for you to collaborate.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 11 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "donnasaker"
+  - username: "sarina.srj"
     fullname: >-
-      Donna Saker
+      Sarina Sroujian
     bio: >-
-      #1 Radio show in Montreal Canada, Dog Mom, martini lover all round good girl😊
+      MTL🦋 BLM PRAY FOR ARMENIA❤️🇦🇲 Business inquiries: hausofsar.influencer@gmail
     location: "Canada"
-    followers: 5075
-    engagement: 844
-    commentsToLikes: 0.064549
-    id: ckbfba7cc35fl0j23vbw0prk0
+    followers: 25800
+    engagement: 1217
+    commentsToLikes: 0.036417
+    id: ck9dx9akjsciz0j7814mrflao
     verified: false
-    hashtags: "#fyp, #over50, #datingapp, #dating"
-  - username: "reshadziraki"
+    hashtags: "#mua, #foryou, #montreal, #beauty"
+  - username: "meddexx"
     fullname: >-
-      Reshad Ziraki
+      Meddexx 
     bio: >-
-      Life is dumb and I want to sleep. 😴😩 Montréal est la terre de l'amour.🇨🇦
+      Montreal barber 👇🏿ENGLISH TUTORIAL👇🏿
     location: "Canada"
-    followers: 8638
-    engagement: 928
-    commentsToLikes: 0.034891
-    id: cka0jr227j84m0i78bfofvm10
+    followers: 196700
+    engagement: 706
+    commentsToLikes: 0.019147
+    id: ck7zo5h8ihz8a0j786t4ugxj0
     verified: false
-    hashtags: "#afghangirl, #aryanasayeed, #toronto, #salimshahin"
-  - username: "ibrownzzrule"
+    hashtags: "#barber, #barbers, #duet, #fyp"
+  - username: "shaunaeyoung"
     fullname: >-
-      iBrownZz Rule
+      Shauna E(rin) Young
     bio: >-
-      Skits/Educational Videos 📖🔥 IG : ibrownzz 👥 ibrownzzrule@gmail.com 📩
+      🦋🖤✨ Fashion • Makeup Beauty Biz Owner —- MTL 🇨🇦
     location: "Canada"
-    followers: 51800
-    engagement: 803
-    commentsToLikes: 0.115358
-    id: ckb0uvwtzka340j23hjcy7mmr
+    followers: 4716
+    engagement: 557
+    commentsToLikes: 0.033233
+    id: ckbw54d8axwmr0j23nxfyl7vn
     verified: false
-    hashtags: "#mtlblog, #metrostations, #countries, #world"
-  - username: "myriam_7201"
+    hashtags: "#makeuptransformation, #irishdance, #makeuplook, #makeuptutorial"
+  - username: "melodyangejacob"
     fullname: >-
-      Mimi mad
+      Melody Jacob
     bio: >-
-      🇨🇦/🇭🇹
+      •🇨🇦Montréal• •27yo🌸• Ça fait 2 fois qu’on me hack et qu’on supprime toutes..
     location: "Canada"
-    followers: 4171
-    engagement: 713
-    commentsToLikes: 0.043985
-    id: ckbkxybzzu1j80j23ns61p0x0
+    followers: 4432
+    engagement: 441
+    commentsToLikes: 0.021277
+    id: ckbkqn95al4c70j239xnc7uhi
     verified: false
-    hashtags: "#handmade, #montreal, #duo, #joueraveclavie"
+    hashtags: "#friends, #foryou, #fun, #music"
+  - username: "naesha.joanna"
+    fullname: >-
+      Naësha Joanna💕
+    bio: >-
+      God always 🤍 Caribbean Gyal🌴🇭🇹 MTL, CAN 🇨🇦 Instagram - naeshajoanna
+    location: "Canada"
+    followers: 164000
+    engagement: 1644
+    commentsToLikes: 0.027109
+    id: ckammbjfqzsfz0i783go3eqjg
+    verified: false
+    hashtags: "#foryou, #montreal, #haitian, #tiktokhaiti"
   - username: "annekrystelgoyerofficial"
     fullname: >-
       Anne Krystel
     bio: >-
       Créatrice de parfums haut de gamme, modèle et actrice.
     location: "Canada"
-    followers: 14700
-    engagement: 224
-    commentsToLikes: 0.047086
+    followers: 14600
+    engagement: 239
+    commentsToLikes: 0.033204
     id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#montreal, #sexy, #perfume, #makeup"
-  - username: "sonia.lifestyle"
+    hashtags: "#fragrance, #sexy, #perfume, #parfum"
+  - username: "sonia_ben_dekhil"
     fullname: >-
       Sonia
     bio: >-
-      Instagram: sonia.lifestyle
+      Instagram: sonia_ben_dekhil
     location: "Canada"
-    followers: 101500
-    engagement: 366
-    commentsToLikes: 0.026630
+    followers: 100700
+    engagement: 359
+    commentsToLikes: 0.019882
     id: ck9ep96ltrlh40j78spw2875n
     verified: false
-    hashtags: "#maroc, #duo, #montreal, #nuxekosmetics"
-  - username: "urboidrflips"
-    fullname: >-
-      Dragos
-    bio: >-
-      😂 🇨🇦 Mtl
-    location: "Canada"
-    followers: 4688
-    engagement: 1304
-    commentsToLikes: 0.033587
-    id: ck8072ib3o5hw0j78nu2dydmb
-    verified: false
-    hashtags: "#viral, #funny, #trending, #foryoupage"
-  - username: "juliagrandoni"
-    fullname: >-
-      Julia Grandoni
-    bio: >-
-      150k and I’ll create the COVID-19 vacine
-    location: "Canada"
-    followers: 108900
-    engagement: 755
-    commentsToLikes: 0.027869
-    id: ckdntubpim6820j23xxo61405
-    verified: false
-    hashtags: "#foryoupage, #foryourpage, #duet, #xyz"
+    hashtags: "#duo, #tunisie, #maroc, #montreal"
   - username: "helenmoonpeng"
     fullname: >-
       Helen Moon Peng
     bio: >-
       im a sensation
     location: "Canada"
-    followers: 19200
-    engagement: 1132
-    commentsToLikes: 0.034573
+    followers: 19400
+    engagement: 1213
+    commentsToLikes: 0.031114
     id: ck8fa3xoq44mp0j78ngda4ped
     verified: false
-    hashtags: "#lushious, #renaissance, #shoes, #youth"
+    hashtags: "#funny, #love, #dog, #shoes"
+  - username: "mimzyel"
+    fullname: >-
+      Mimzy
+    bio: >-
+      
+    location: "Canada"
+    followers: 2868
+    engagement: 718
+    commentsToLikes: 0.011678
+    id: ckcjhwx5rcihq0j23isevb8z5
+    verified: false
+    hashtags: "#guessinggame, #diy, #paint, #foryou"
   - username: "doc.ling"
     fullname: >-
       Dr Ling
     bio: >-
       👩🏻‍⚕️ family physician having fun on Tiktok I’m not being serious 🤷🏻‍♀️ 🇨🇦
     location: "Canada"
-    followers: 136800
-    engagement: 559
-    commentsToLikes: 0.008584
+    followers: 133700
+    engagement: 568
+    commentsToLikes: 0.007743
     id: ck9bypav5na750j78r3fba8nk
     verified: false
-    hashtags: "#doctor, #nurse, #blacklivesmatter, #outfit"
+    hashtags: "#outfit, #blacklivesmatter, #doctor, #nurse"
 ---

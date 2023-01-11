@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Sydney In 2022
+title: Top 10 Skincare TikTok Influencers In Sydney in 2023
 description: >-
-  Find top skincare TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #skincare #sydney #foryou.
+  Find top skincare TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #skincare #sydney #foryou.
 platform: TikTok
 hits: 7
 text_top: See the best TikTok influencers on inBeat.

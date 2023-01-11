@@ -1,10 +1,10 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Germany In 2022
+title: Top 10 Outdoors TikTok Influencers In Germany In 2023
 description: >-
-  Find top outdoors TikTok influencers in Germany in 2022. Most popular hashtags: #outdoors #foryou #comedy #viral.
+  Find top outdoors TikTok influencers in Germany in 2023. Most popular hashtags: #outdoors #foryou #fy #viral.
 platform: TikTok
 hits: 37
-text_top: Identify the top-rated TikTok influencers on inBeat.
+text_top: See the top-rated TikTok accounts on inBeat.
 text_bottom: inBeat holds 37 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "uwebpt"
@@ -13,36 +13,48 @@ profiles:
     bio: >-
       Technik die begeistert
     location: "Germany"
-    followers: 7780
-    engagement: 599
-    commentsToLikes: 0.046888
+    followers: 7691
+    engagement: 574
+    commentsToLikes: 0.046958
     id: ckbl0fqsdx79i0j23e7lj5dcp
     verified: false
-    hashtags: "#verr, #outdoors, #test, #roadto10k"
+    hashtags: "#verr, #xyzcba, #mavicpro, #dancing"
   - username: "bearpaw_products"
     fullname: >-
       BEARPAW PRODUCTS
     bio: >-
       We are the world's leading producer & distributor for #traditionalarchery 🏹
     location: "Germany"
-    followers: 13100
-    engagement: 563
-    commentsToLikes: 0.013704
+    followers: 23900
+    engagement: 755
+    commentsToLikes: 0.013065
     id: ckb98lwxqs6sp0j23vtcmonxh
     verified: false
-    hashtags: "#bearpawproducts, #bodnikbows, #trickshot, #archery"
+    hashtags: "#bearpawproducts, #dog, #archeress, #archer"
   - username: "naturvival"
     fullname: >-
       naturvival
     bio: >-
       🏕️ Carry Modern. Practice Primitive. ➡️ Follow us @naturvival on Instagram
     location: "Germany"
-    followers: 37700
-    engagement: 697
-    commentsToLikes: 0.009215
+    followers: 37500
+    engagement: 764
+    commentsToLikes: 0.010769
     id: ckb9ryzh5oxh50j23db1tws9q
     verified: false
-    hashtags: ""
+    hashtags: "#bushcraftlife, #outdoor, #bushcraftgear, #edc"
+  - username: "aurumbavaria"
+    fullname: >-
+      Aurum Bavaria
+    bio: >-
+      Goldmining in Bavaria/Germany Follow me on youtube @Aurum Bavaria
+    location: "Germany"
+    followers: 310200
+    engagement: 386
+    commentsToLikes: 0.007343
+    id: ckdbnfv5panph0j2341yd92pk
+    verified: false
+    hashtags: "#bavaria, #goldmining, #goldsluicing, #goldsluice"
   - username: "metalgearsolid5fan"
     fullname: >-
       Folgtfür mehr Videos
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.181377
     id: ckb9i52a789kj0j23cxaan4jo
     verified: false
-    hashtags: "#foryou, #likeforlike, #tiktokapp, #musicallyapp"
-  - username: "zoemiroux"
+    hashtags: "#turnitup, #followhim, #likeforlike, #tiktok"
+  - username: "laurin_official"
     fullname: >-
-      Zoë Miroux
+      Laurin
     bio: >-
-      ◽️be happy◽️
+      ➡️Only POV Content ⬅️ 24 years old 👉🏻👈🏻
     location: "Germany"
-    followers: 12900
-    engagement: 518
-    commentsToLikes: 0.058843
-    id: ck9k21vdiioc20j78gav1b41s
-    verified: false
-    hashtags: "#fail, #happy, #blueeyes, #fd"
-  - username: "_stxphn_"
-    fullname: >-
-      stxphn
-    bio: >-
-      Follow me on IG (18k) 26|🇩🇪| Photogaphy&Travel
-    location: "Germany"
-    followers: 3281
-    engagement: 758
-    commentsToLikes: 0.040123
-    id: ckbfbjajz3poc0j2337ozmbtu
-    verified: false
-    hashtags: "#editing101, #reflaction, #fy, #instahacks"
-  - username: "macitali"
-    fullname: >-
-      Macit Ali
-    bio: >-
-      》muc📍 》khan💪 》..25 🇹🇷🇹🇷🇵🇰🇵🇰🇩🇪🇩🇪
-    location: "Germany"
-    followers: 25800
-    engagement: 553
-    commentsToLikes: 0.041339
-    id: ck81t17xeunst0j78gftxbnsv
-    verified: false
-    hashtags: "#dirili, #karachi, #bayern, #folow"
-  - username: "enitzz"
-    fullname: >-
-      Enitz
-    bio: >-
-      Everyday a new View 📺 Just for fun!
-    location: "Germany"
-    followers: 4871
-    engagement: 244
-    commentsToLikes: 0.022709
-    id: ckbf15mian6t40j233vm43pfg
-    verified: false
-    hashtags: "#corona, #foryou, #showtv, #lifehack"
-  - username: "freshboxxtv"
-    fullname: >-
-      freshboxxtv
-    bio: >-
-      Nick & Leon - 150k Youtuber! Folg uns bei Instagram und youtube: @freshboxxtv
-    location: "Germany"
-    followers: 32400
-    engagement: 747
-    commentsToLikes: 0.024911
-    id: ckbktwrhwowml0j23yfg76u7u
-    verified: false
-    hashtags: "#foryou, #fypage, #comedy, #youtuber"
-  - username: "sebastian_schieren"
-    fullname: >-
-      Sebastian Schieren
-    bio: >-
-      👇 Check my YouTube 👇
-    location: "Germany"
-    followers: 1700000
-    engagement: 744
-    commentsToLikes: 0.003774
-    id: ck8fajjbg4f3o0j78fiar041q
+    followers: 183000
+    engagement: 1579
+    commentsToLikes: 0.041924
+    id: ckcehkdnzpe2k0j23i62kjqtj
     verified: true
-    hashtags: "#coffee, #magic, #vanlife, #drone"
+    hashtags: "#pov, #trip, #viral, #travel"
+  - username: "papa_basti_und_familie"
+    fullname: >-
+      Papa Basti
+    bio: >-
+      📚Lehrer und stolzer Vater 👧🏼👧🏼👧🏼👩🏻🧔🏼🐶 📫basti-tiktok@gmx.de 📫
+    location: "Germany"
+    followers: 629400
+    engagement: 1119
+    commentsToLikes: 0.013486
+    id: ck8qoc003yb8w0j786ezgccvj
+    verified: false
+    hashtags: "#auto, #nintendode, #gartenideen, #ichzocke"
+  - username: "elvislamo"
+    fullname: >-
+      Elvis 🏳️‍🌈
+    bio: >-
+      Elvis, 🇮🇹🇩🇪 Food | Lifestyle | Fitness 📩 contact@elvislamo.de
+    location: "Germany"
+    followers: 311900
+    engagement: 1283
+    commentsToLikes: 0.032287
+    id: ck92z0o2556sa0j782f2yf6t7
+    verified: false
+    hashtags: "#teiledeinwissen, #kochen, #lowcarb, #abnehmentipps"
+  - username: "konstantin"
+    fullname: >-
+      Konstantin
+    bio: >-
+      Hi 😊 I love the be positive, to dress me and to be happy 💙 IG @konstantin
+    location: "Germany"
+    followers: 96600
+    engagement: 1106
+    commentsToLikes: 0.039401
+    id: ckdc1hnxlfq2o0j23udycs6l1
+    verified: false
+    hashtags: "#fy, #foryou, #german, #boy"
+  - username: "redbullgermany"
+    fullname: >-
+      Red Bull Deutschland
+    bio: >-
+      #verleihtflügel 👐 ⬇️ Red Bull Rap Duell mit Dyma & Firat 🔥⬇️
+    location: "Germany"
+    followers: 1400000
+    engagement: 1316
+    commentsToLikes: 0.009201
+    id: ckbl4z8v32cf80j231308q4j7
+    verified: true
+    hashtags: "#redbull, #wingsforlifeworldrun, #redbullsoundclash, #summeredition"
 ---

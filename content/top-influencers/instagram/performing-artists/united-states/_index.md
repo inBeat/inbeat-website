@@ -1,130 +1,130 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In United States In 2022
+title: Top 10 Performing Artists Instagram Influencers In United States In 2023
 description: >-
-  Find top performing artists Instagram influencers in United States in 2022. Most popular hashtags: #quarantine #move #model.
+  Find top performing artists Instagram influencers in United States in 2023. Most popular hashtags: #dance #move #dancer.
 platform: Instagram
-hits: 73
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat has 73 Instagram influencers like this in United States for you to collaborate.
+hits: 102
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 102 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "romanademeneges"
-    fullname: >-
-      Romana de Meneges 🎷
-    bio: >-
-      Available worldwide Recording and performing artist info@romanademeneges.com
-    location: "United States"
-    followers: 14737
-    engagement: 1156
-    commentsToLikes: 0.066185
-    id: ck5q1e4uoak4c0i114049sbcw
-    verified: false
-    hashtags: "#staypositive, #slavery, #surinam, #somethingnewchallenge"
-  - username: "viviannicoletesler"
-    fullname: >-
-      𝒱𝒾𝓋𝒾𝒶𝓃 𝒩𝒾𝒸𝑜𝓁𝑒 𝒯𝑒𝓈𝓁𝑒𝓇
-    bio: >-
-      Entrepreneur Performing Artist 📍LA Based 🌞 🇺🇸 Toronto Born 🇨🇦 📩 Inquiries: viviannicolemusic@gmail.com
-    location: "United States"
-    followers: 45619
-    engagement: 292
-    commentsToLikes: 0.081703
-    id: ckap3l6343gvz0i78yw9ziyg7
-    verified: false
-    hashtags: ""
   - username: "swat_mtoto_wa_eunice"
     fullname: >-
       MTOTO WA EUNICE
     bio: >-
-      Recording and performing artist at ethic entertainment For booking call +254 701 384919 Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
+      Recording and performing artist at ethic entertainment For booking call Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
     location: "United States"
-    followers: 119477
-    engagement: 486
-    commentsToLikes: 0.022624
+    followers: 119989
+    engagement: 449
+    commentsToLikes: 0.022043
     id: ck5cd8o11iqak0i111z67x3ti
     verified: false
-    hashtags: "#waririsi, #zoenadeen, #dondoka, #try"
-  - username: "mchina.___"
+    hashtags: "#utabaki"
+  - username: "piasutaria"
     fullname: >-
-      mchina
+      Pia Sutaria
     bio: >-
-      My only official account ▶Recording and Performing artist ▶️Marketer / Brand promoter ▶#gainwithmchina creator 👑 #soshiwamamoshi 🍁 .@azz_.iiad
+      Performing Artist @royalacademyofmusic MA: Musical Theatre Performance ‘20-21! @icmdindia Founder/ Artistic Director. @royalacademyofdance PDTD, RTS.
     location: "United States"
-    followers: 31905
-    engagement: 500
-    commentsToLikes: 0.172904
-    id: ck8sx8isygihb0j789q642yzv
+    followers: 54319
+    engagement: 633
+    commentsToLikes: 0.019153
+    id: ck14lto6gwfhs0i19vunm9ghv
     verified: false
-    hashtags: "#gainwithxtiandela, #kenya, #photography, #gainpost"
-  - username: "chris.p.hernandez"
-    fullname: >-
-      Chris Hernandez
-    bio: >-
-      Performing artist living in NYC/Miami native ☀️
-    location: "United States"
-    followers: 4487
-    engagement: 1341
-    commentsToLikes: 0.096390
-    id: ck5q982tz9u1n0i11kcu3njxn
-    verified: false
-    hashtags: "#twerk, #socialdistancing, #coronacontent, #tbt"
-  - username: "gforce_joseph"
-    fullname: >-
-      Joseph Catingub
-    bio: >-
-      CEBU G-FORCE @gforce_official Dance Teacher Celebrity Choreographer Performing Artist
-    location: "United States"
-    followers: 5294
-    engagement: 405
-    commentsToLikes: 0.058003
-    id: ck5q7gh2i1g280i112d1kar54
-    verified: false
-    hashtags: "#inspire, #latergram, #move, #keepdancing"
-  - username: "neesh20"
-    fullname: >-
-      Anesia•Dancer•Teacher•Model
-    bio: >-
-      💜 God is love. 💜 (Uh-Knee-Sha) Performing Artist • Please contact email for bookings @ acsandifer@gmail.com
-    location: "United States"
-    followers: 2307
-    engagement: 1357
-    commentsToLikes: 0.085981
-    id: ck6tifk4t0me50j71owyx6peu
-    verified: false
-    hashtags: "#dst, #travel, #spreadlove, #blackgirlmagic"
-  - username: "sofiofficial"
-    fullname: >-
-      𝕊𝕠𝕗𝕚𝕒 𝕋𝕠𝕦𝕗𝕒👽S O F I
-    bio: >-
-      ärˈtēst/ A prof. entertainer, esp. a singer or dancer. synonyms: performer, performing artist, entertainer,singer,dancer, actor,musician;@whoisecxoe
-    location: "United States"
-    followers: 27088
-    engagement: 223
-    commentsToLikes: 0.068979
-    id: ckaoz6zzmkngy0i78jzdm92ct
-    verified: true
-    hashtags: "#beforesocialdistancing, #iglive, #theshowmustbepaused, #blackouttuesday"
-  - username: "rastinmusic"
-    fullname: >-
-      RASTIN
-    bio: >-
-      "The Official Page of RASTIN" Vocalist & Performing Artist 🎙
-    location: "United States"
-    followers: 26093
-    engagement: 392
-    commentsToLikes: 0.064610
-    id: ck5cjur4hvjla0i11p3do0qop
-    verified: false
-    hashtags: "#persianpopmusic, #musicvideo, #iranianmusic, #rastin"
+    hashtags: "#professionaldance, #dancersofinstagram, #danceclass, #dancestudio"
   - username: "michaelweismanart"
     fullname: >-
       𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐖𝐞𝐢𝐬𝐦𝐚𝐧
     bio: >-
       Original watercolors and mixed-media creations celebrating iconic performing artists, incredible music and vintage glamour.
     location: "United States"
-    followers: 10109
-    engagement: 510
-    commentsToLikes: 0.036605
+    followers: 10006
+    engagement: 576
+    commentsToLikes: 0.053733
     id: ckaoxaauhch190i789topc9y1
     verified: false
-    hashtags: "#gogopower, #caroleking, #ihadatalkwithmyman, #belindacarlisle"
+    hashtags: "#idrawwhatilove, #hamptonsartist, #wearamask, #originalartwork"
+  - username: "breeder_lw"
+    fullname: >-
+      PAPA FATHELA🤴🏿🇰🇪
+    bio: >-
+      Rapper | Performing Artist | Entertainer | Entrepreneur "Bei Imepanda" Out Now👇
+    location: "United States"
+    followers: 122289
+    engagement: 333
+    commentsToLikes: 0.039107
+    id: ck6ucm04wge410j71hmagd3rz
+    verified: false
+    hashtags: "#bazengadaddii, #bazengamentality, #tk, #beiimepanda"
+  - username: "amber_van_wijk"
+    fullname: >-
+      AMBER VAN WIJK
+    bio: >-
+      Performing artist from Antwerp, Belgium. Cirque du soleil. Varekai - paramour NYC - Crystal. Founder of @by.avw
+    location: "United States"
+    followers: 7401
+    engagement: 520
+    commentsToLikes: 0.013860
+    id: ck0uc60cyg5w30i19wqr7jrdq
+    verified: false
+    hashtags: "#photography, #circus, #cirquedusoleil, #backontrack"
+  - username: "joyisabellabrown"
+    fullname: >-
+      Joy Isabella Brown
+    bio: >-
+      She/Her • Tricker. Movement Art. • Creative Partners with @miketyus • Performing Artist with @jacobjonasthecompany
+    location: "United States"
+    followers: 47219
+    engagement: 1040
+    commentsToLikes: 0.022290
+    id: ck5zx5uom7egg0i148ztwdf88
+    verified: false
+    hashtags: "#camerasanddancers"
+  - username: "mathildegilhet"
+    fullname: >-
+      Mathilde Gilhet
+    bio: >-
+      📍 🇫🇷 based in🇨🇭 ○ Performing artist @luzernertheater ○ Associate Artistic Director @on_boardhers ○ Judge @yagp 🚨WE-CLASS IS THIS SUNDAY ↓
+    location: "United States"
+    followers: 51438
+    engagement: 1043
+    commentsToLikes: 0.019761
+    id: ckf5kzunbntmv0j23cmymn2l4
+    verified: false
+    hashtags: "#danse, #contemporaryart, #yoga, #dancer"
+  - username: "rastinmusic"
+    fullname: >-
+      RASTIN
+    bio: >-
+      "The Official Page of RASTIN" Vocalist & Performing Artist 🎙
+    location: "United States"
+    followers: 40037
+    engagement: 242
+    commentsToLikes: 0.065111
+    id: ck5cjur4hvjla0i11p3do0qop
+    verified: false
+    hashtags: "#persiansinger, #rastin, #music, #itunes"
+  - username: "georgiacurtis"
+    fullname: >-
+      Georgia Amodu Curtis
+    bio: >-
+      Actor and Performing Artist. Creative director. Free spirit 🔮 🇳🇬 🇪🇸 🇬🇧
+    location: "United States"
+    followers: 24552
+    engagement: 730
+    commentsToLikes: 0.033045
+    id: ck5zup6ta2sdd0i14ve81z4f4
+    verified: false
+    hashtags: "#bostafftraining, #fitness, #endsars, #popsmokechallenge"
+  - username: "neesh20"
+    fullname: >-
+      Anesia•Dancer•Teacher•Model
+    bio: >-
+      💜God is love.💜 Performing Artist Natural Hair Enthusiast | Lover of All Things Dance | Sweets are my love language. Delta Sigma Theta Sorority, Inc. 🐥
+    location: "United States"
+    followers: 2587
+    engagement: 1143
+    commentsToLikes: 0.190573
+    id: ck6tifk4t0me50j71owyx6peu
+    verified: false
+    hashtags: "#instagram, #deltasigmatheta, #red, #blacklivesmatter"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Finland In 2022
+title: Top 10 Photographers Instagram Influencers In Finland In 2023
 description: >-
-  Find top photographers Instagram influencers in Finland in 2022. Most popular hashtags: #photographer #cinematicphotography #liveforthestory.
+  Find top photographers Instagram influencers in Finland in 2023. Most popular hashtags: #finland #nature #landscape.
 platform: Instagram
-hits: 106
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 106 Instagram influencers like this in Finland for you to collaborate.
+hits: 80
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 80 Instagram influencers like this in Finland for you to work with.
 profiles:
-  - username: "matiasjalmari"
+  - username: "obelixy"
     fullname: >-
-      𝐌𝐀𝐓𝐈𝐀𝐒 𝐉𝐀𝐋𝐌𝐀𝐑𝐈
+      Nikolaos Haaponiemi
     bio: >-
-      Photographer / Men’s Agent @brandmgmt Romans 8
+      Helsinki, Based Photographer I shoot film @filmbyobelixy Infobelixy@gmail.com
     location: "Finland"
-    followers: 8381
-    engagement: 1610
-    commentsToLikes: 0.037014
-    id: ck5hfjjs7xs050i11ixwqueek
+    followers: 33063
+    engagement: 505
+    commentsToLikes: 0.068954
+    id: ck0tznjgdr1920i194dgdi34o
     verified: false
-    hashtags: "#35mm, #smurf, #halloween"
-  - username: "eevaroots"
-    fullname: >-
-      Eeva Roots
-    bio: >-
-      "Mindset is useless without heartset.” 💭Forward thinking & courage 📍Content creator & Photographer 📩contact.eevaroots@gmail.com 🤘🏼TikTok: eevaroots
-    location: "Finland"
-    followers: 40786
-    engagement: 237
-    commentsToLikes: 0.054429
-    id: ck14hwhocchdi0i19vtk9aemd
-    verified: false
-    hashtags: "#lis, #volasound, #babesofmissguided, #cosmopolitan"
+    hashtags: "#thisweekoninstagram, #discoverer, #visithelsinki, #visualgrams"
   - username: "jerianie"
     fullname: >-
-      jerianie
+      jerianie // on hiatus
     bio: >-
-      🍂 Photographer and artist loving nature and quiet living. 🌾 Don’t use my photos without permission. 🍁 Art account: @jerianieart ✨ Youtube:
+      🍂 Photographer and artist loving nature and quiet living. 🌾 Don’t use my photos without permission.
     location: "Finland"
-    followers: 305650
-    engagement: 670
-    commentsToLikes: 0.007788
+    followers: 272062
+    engagement: 760
+    commentsToLikes: 0.008061
     id: ck0txmro6jo1g0i19k4rof9xj
     verified: false
-    hashtags: "#cottagecore, #finland, #autumncolours, #visualofearth"
+    hashtags: "#linenclothing, #vintageinspired, #witchyvibes, #adventurevisuals"
   - username: "pasisalminen"
     fullname: >-
       Pasi Salminen
     bio: >-
       @canonnordic photographer // 24h photoservice. Studio, Events, portraits, action, you name it and I'll shoot. @viiskaks @eventphoto.fi @retkelleblog
     location: "Finland"
-    followers: 6206
-    engagement: 549
-    commentsToLikes: 0.049661
+    followers: 6200
+    engagement: 555
+    commentsToLikes: 0.047206
     id: ck55labw014s20i11j29ltdab
     verified: false
-    hashtags: "#behindtheshutters, #liveforthestory, #canonnordic, #vanlife"
+    hashtags: "#behindtheshutters, #liveforthestory, #snowboarding, #canonnordic"
+  - username: "lennu37"
+    fullname: >-
+      Lennu Petrell
+    bio: >-
+      Pro hockey player 🏒 Amateur photographer 📸 My photos: @lenn.artistic TikTok & Twitter: lennu37
+    location: "Finland"
+    followers: 9786
+    engagement: 1066
+    commentsToLikes: 0.033877
+    id: ckaovrn8x5uye0i78dds2jfb7
+    verified: false
+    hashtags: "#linnut, #landscape, #suomenluonto, #naturelovers"
   - username: "taussi_"
     fullname: >-
       T A U S S I
     bio: >-
       Photographer & Visual artist
     location: "Finland"
-    followers: 25179
-    engagement: 419
-    commentsToLikes: 0.035537
+    followers: 24990
+    engagement: 447
+    commentsToLikes: 0.039477
     id: ck5zvmkoz4iqh0i14qi9ws908
     verified: false
-    hashtags: "#facetimephotoshoot, #lemonade, #gemini, #libra"
+    hashtags: "#muah, #capricorn, #someveteraani, #scorpioseason"
   - username: "paperplanesj"
     fullname: >-
       J U U L I   R Ö N K Ä
     bio: >-
       PHOTOGRAPHER & Digital creator Located Helsinki, Finland • contact • via email or DM
     location: "Finland"
-    followers: 16434
-    engagement: 510
-    commentsToLikes: 0.011251
+    followers: 16696
+    engagement: 484
+    commentsToLikes: 0.015603
     id: ck139zvk3nxdp0i1948i1qxbj
     verified: false
-    hashtags: "#saturday, #tytto, #equality"
+    hashtags: "#ellosfeatured, #elloshome, #iamlibre, #paris"
   - username: "kristinasuzi"
     fullname: >-
       𝘒𝘳𝘪𝘴𝘵𝘪𝘯𝘢 𝘚𝘶𝘻𝘪
     bio: >-
-      ▫ International photographer | based in Finland ▫ Among TOP-35 photographers by 35AWARDS (2019) ▫ Seen in Ellements, Imirage and more
+      ▫International photographer | based in Finland ▫Among TOP-35 photographers by 35AWARDS (2019) ▫️PRESETS, PRICES ⤵️
     location: "Finland"
-    followers: 9210
-    engagement: 392
-    commentsToLikes: 0.035896
+    followers: 10205
+    engagement: 308
+    commentsToLikes: 0.039050
     id: ck5pxwv5zt9dn0i11c8u4fsoa
     verified: false
-    hashtags: ""
+    hashtags: "#photoedit, #photoideas, #posing, #studiophotoshoot"
   - username: "helaviator"
     fullname: >-
       © Otto
     bio: >-
       17-year-old photographer from Helsinki, Finland with a big passion for aviation. - All content is my own. #teamnikon
     location: "Finland"
-    followers: 2527
-    engagement: 2175
-    commentsToLikes: 0.199564
+    followers: 2478
+    engagement: 2218
+    commentsToLikes: 0.196638
     id: ck5q3tliimckh0i11vgf5pdr9
     verified: false
-    hashtags: "#boeinglover, #aviationphotography, #b787, #airbuslovers"
-  - username: "rikunorakari"
-    fullname: >-
-      Riku Norakari
-    bio: >-
-      🇫🇮 Turku, Finland 📷 Wildlife & outdoor photographer 📧 Contact | norakaririku@gmail.com | DM 🖥 Website:
-    location: "Finland"
-    followers: 7909
-    engagement: 1396
-    commentsToLikes: 0.057568
-    id: ck5znrsltp1bz0i14ypjiry9u
-    verified: false
-    hashtags: ""
+    hashtags: "#airplanes, #planespotter, #efhkspotting, #a350"
   - username: "natalipopova.photography"
     fullname: >-
       P  O  P  O  V  A
     bio: >-
       photographer / graf. designer / illustrator📍Helsinki @natalipopova.design @natalipopova.stories
     location: "Finland"
-    followers: 42271
-    engagement: 119
-    commentsToLikes: 0.020595
+    followers: 41952
+    engagement: 99
+    commentsToLikes: 0.025041
     id: ck0uc69sog74k0i19ypdv0exk
     verified: false
-    hashtags: "#natalipopova, #fineartphotography, #taistella, #artofvisuals"
+    hashtags: "#fineartportrait, #composting, #summer, #magicalphotos"
+  - username: "joonaspoytaniemi"
+    fullname: >-
+      Joonas Pöytäniemi
+    bio: >-
+      🇫🇮Photographer from Helsinki area 📷Helsinki Design School 2019-2020 📸Canon 📩Contact: joonas.poytaniemi@gmail.com
+    location: "Finland"
+    followers: 6173
+    engagement: 551
+    commentsToLikes: 0.025611
+    id: ck0uak0necgig0i19lgizrii0
+    verified: false
+    hashtags: "#portraitsofficial, #discoverfinland, #portraitsoffinland, #studiokuvaus"
 ---

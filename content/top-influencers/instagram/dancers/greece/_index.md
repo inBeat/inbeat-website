@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Greece In 2022
+title: Top 10 Dancers Instagram Influencers In Greece In 2023
 description: >-
-  Find top dancers Instagram influencers in Greece in 2022. Most popular hashtags: #greece #dance #stayhome #nature.
+  Find top dancers Instagram influencers in Greece in 2023. Most popular hashtags: #summer #dancer #vacation #greece.
 platform: Instagram
-hits: 56
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 56 Instagram influencers like this in Greece for you to collaborate.
+hits: 27
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 27 Instagram influencers like this in Greece for you to connect with.
 profiles:
+  - username: "katerinakratira"
+    fullname: >-
+      Katerina Kratira 💃🏻
+    bio: >-
+      📩katerinakratira17@gmail.com 💃🏻Dancer & Teacher ♥️Owner @lovetodance_dancesportacademy 🏆 8 Times Greek Champion
+    location: "Greece"
+    followers: 14176
+    engagement: 1048
+    commentsToLikes: 0.127053
+    id: ck8t5phtkaswb0j78o7l64xrr
+    verified: false
+    hashtags: "#travelphotography, #sheingals, #summervibes, #parosisland"
   - username: "ellen_pierre"
     fullname: >-
-      Έλενα Πιερίδου
+      Elena Pieridou
     bio: >-
       •Actress •Dancer •Choreographer ᴍᴏᴏɴ ☾ʜɪʟᴅ
     location: "Greece"
-    followers: 80741
-    engagement: 823
-    commentsToLikes: 0.041113
+    followers: 78612
+    engagement: 693
+    commentsToLikes: 0.094110
     id: ck15qvpoe4ve80i190to1kcwv
     verified: false
-    hashtags: "#mood, #love, #click, #photography"
+    hashtags: "#click, #portrait, #beauty, #photography"
   - username: "mel.k.arts"
     fullname: >-
       Meliti K.♡ | Artist
     bio: >-
       🦋Meliti K.🦋 ▪️21 y.o / Athens, Greece 🇬🇷 ▪️Self taught artist / Dancer ▪️DM for Commissions/Orders ♡
     location: "Greece"
-    followers: 18583
-    engagement: 729
-    commentsToLikes: 0.064156
+    followers: 19156
+    engagement: 845
+    commentsToLikes: 0.063347
     id: ck6u2vwjju83x0j7127fatp7i
     verified: false
-    hashtags: "#art, #traditionalart, #artwork, #colouredpencils"
-  - username: "kerysnash.x"
+    hashtags: "#realisitcartwork, #pencilart, #realism, #originalartwork"
+  - username: "konikou_"
     fullname: >-
-      Kerys💃🏽
+      Konstantina Koutra
     bio: >-
-      19🥀 Dancer• Estate agent ✨ @crystalgiftagency
+      THE VOICE OF GREECE ‘20-21 •Singer •Dancer •Management Science and Technology at AUEB COME TOGETHER COVER⬇️
     location: "Greece"
-    followers: 9733
-    engagement: 1074
-    commentsToLikes: 0.151703
-    id: ck6tik9pn0vkh0j71p4ddamq3
+    followers: 10102
+    engagement: 1390
+    commentsToLikes: 0.060808
+    id: ck5pvipiai2g00i11btrxi33l
     verified: false
-    hashtags: "#loungewear, #loungeunderwear, #gifted, #normalisenormalbodies"
-  - username: "ifi_pier"
-    fullname: >-
-      Ifigenia Pieridou
-    bio: >-
-      🌬Just another moonchild with a soft heart and a strong mind. 🌬 Performer · Actress/Dancer represented by @themodernsociety_gr
-    location: "Greece"
-    followers: 61214
-    engagement: 786
-    commentsToLikes: 0.005623
-    id: ck15tw2iak70g0i19yjxbf5h9
-    verified: false
-    hashtags: "#myfrezyderm, #beyourownpro, #beyourownbarista, #teleiosfreddostospiti"
-  - username: "constantine.stergiou"
-    fullname: >-
-      Konstantinos Stergiou
-    bio: >-
-      Model | Performer Dancer 🇬🇷@VnModels 🇬🇧@FirstLondon Creative - Art Director
-    location: "Greece"
-    followers: 17807
-    engagement: 140
-    commentsToLikes: 0.076041
-    id: ck15qvwjt4wdc0i19aenxbrd3
-    verified: false
-    hashtags: "#gucci, #portraitphotography, #shotonred, #sickymagazine"
-  - username: "myriella_kourenti_official"
-    fullname: >-
-      Μυριέλλα Κουρεντή
-    bio: >-
-      👩🏻‍💻 Represented by @panik_entertainment_group contact: c.christofidou@panikrecords.gr 🎭#actress 🎤#singersongwriter 💃🏻#dancer #checkthisout ⬇️
-    location: "Greece"
-    followers: 67783
-    engagement: 671
-    commentsToLikes: 0.014866
-    id: ck6tiozdn15430j71joj5g3qr
-    verified: true
-    hashtags: "#greece, #myriellakourenti, #alphatv, #elastithesimou"
-  - username: "lna.music"
-    fullname: >-
-      LNA (Elena)👑
-    bio: >-
-      • Cantautora & Productora (Singer/Songwriter & Music Producer)🎼 • Bailarina (Dancer)💃🏽 • Berklee College of Music 🎵 💎DIAMANTE💎👇🏼👇🏼
-    location: "Greece"
-    followers: 16849
-    engagement: 567
-    commentsToLikes: 0.023510
-    id: ckap4kz8e7rd70i780l2gjduq
-    verified: false
-    hashtags: "#tumentiste, #lna, #diamante, #powerstyle"
-  - username: "jul_nk"
-    fullname: >-
-      𝐉𝐮𝐥𝐢𝐚 𝐍𝐢𝐤𝗼𝐥𝐚𝐤𝗼𝐩𝗼𝐮𝐥𝗼𝐮
-    bio: >-
-      𝙈𝙞𝙣𝙙 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙗𝙞𝙤 •Dancer •Agricultural Uni of Athens🦋 •ATH||Nafpaktos
-    location: "Greece"
-    followers: 3075
-    engagement: 1395
-    commentsToLikes: 0.054046
-    id: ck8t2c32dyx090j782x5asyv3
-    verified: false
-    hashtags: "#dance, #class, #dancedaily, #lifedancecenter"
-  - username: "katerinakratira"
-    fullname: >-
-      Katerina Kratira 💃🏻
-    bio: >-
-      •Dancer & Teacher •Semi finalist in World Championship🏆 •8 Times Greek & 2 Times Bulgarian Champion🏆 •Owner of @lovetodance_dancesportacademy 👇🏻🎥
-    location: "Greece"
-    followers: 11006
-    engagement: 1305
-    commentsToLikes: 0.016672
-    id: ck8t5phtkaswb0j78o7l64xrr
-    verified: false
-    hashtags: "#corfu, #vacation, #wearedancesport, #greece"
+    hashtags: "#cover, #moments, #zante, #beach"
   - username: "tzenistef"
     fullname: >-
       Jenny Stefanidou🧿
     bio: >-
       •Dancer •Rhythmic gymnastics trainer •Thessaloniki-Athens, Greece🇬🇷
     location: "Greece"
-    followers: 7687
-    engagement: 850
-    commentsToLikes: 0.014588
+    followers: 7981
+    engagement: 905
+    commentsToLikes: 0.018505
     id: ckapbru9z13qu0i78euzr57zl
     verified: false
-    hashtags: "#rythmicgymnastics, #dancers, #dancing, #love"
+    hashtags: "#love, #madawards2021, #legs, #dancing"
+  - username: "nikosgkentsef"
+    fullname: >-
+      NIKOS GKENTSEF
+    bio: >-
+      • everyday life ~ @nikoss_gk •23 Greek • Dancer with Estonian National Ballet 🇪🇪 •Vaganova Academy Graduate 🇷🇺 📍Tallinn, Estonia
+    location: "Greece"
+    followers: 5798
+    engagement: 1188
+    commentsToLikes: 0.012597
+    id: ck1360gdv458b0i19u4at1oxv
+    verified: false
+    hashtags: "#ass, #arabesque, #greece, #gay"
+  - username: "mariiasharafet"
+    fullname: >-
+      Mariia Sharafetdinova🌪
+    bio: >-
+      Russia.Moscow🇷🇺/Greece.Athens🇬🇷 mane4ka-sharafet@mail.ru DANCER MODEL EUROVISION 2021 🇨🇾⬇️
+    location: "Greece"
+    followers: 12312
+    engagement: 830
+    commentsToLikes: 0.025204
+    id: ck14gu9u672670i191u90joqy
+    verified: false
+    hashtags: "#mariiasharafet, #island, #pelion, #shooting"
+  - username: "yanin2015"
+    fullname: >-
+      Goncharov
+    bio: >-
+      🇺🇦Kyiv 📍✈️borabora soon.🐟☀️ Traveler🌊 Twice World Champion,Choreographer,Professional Dancer, coach, judge,show production #yanin2015 @yanin2015
+    location: "Greece"
+    followers: 30415
+    engagement: 626
+    commentsToLikes: 0.006956
+    id: ckf5r53mjbgs20j2347bvd427
+    verified: false
+    hashtags: "#2018"
+  - username: "gavaskantira"
+    fullname: >-
+      Georgia Avaskantira
+    bio: >-
+      >Professional Dancer | Choreographer | Graphic designer | illustrator @parisianou.gr | > mother of a prince 👶🏼 •I wish my eyes could take photos•
+    location: "Greece"
+    followers: 17859
+    engagement: 1294
+    commentsToLikes: 0.086980
+    id: ck6tiomp314du0j71hv1hp960
+    verified: false
+    hashtags: "#teliskikeriseshop, #teliskikerishairbeauty, #sunlover, #6monthsold"
+  - username: "memevictim2000x"
+    fullname: >-
+      Sauced
+    bio: >-
+      actress, singer, dancer, model, hiker, fitness pro, yoga fanatic, food lover, mom of two loving sons, sister, daugther, wife, vegan, hummus
+    location: "Greece"
+    followers: 2156
+    engagement: 1999
+    commentsToLikes: 0.040222
+    id: ck1354cwgzn6y0i19zghp7ny9
+    verified: false
+    hashtags: "#wcw"
 ---

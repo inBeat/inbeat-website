@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Las Vegas In 2022
+title: Top 10 Vegan TikTok Influencers In Las Vegas In 2023
 description: >-
-  Find top vegan TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #vegan #foryou #lasvegas.
+  Find top vegan TikTok influencers in Las Vegas in 2023. Most popular hashtags: #vegan #lasvegas #fyp #duet.
 platform: TikTok
-hits: 14
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 14 TikTok influencers like this in Las Vegas, United States for you to pitch.
+hits: 6
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 6 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "saveileen"
+  - username: "jessicagolich"
     fullname: >-
-      SAVEILEEN
+      JessicaGolich 🏳️‍🌈
     bio: >-
-      ⬇️⬇️⬇️
+      Welcome to Jessica’s 🌍🏳️‍🌈✌️ Love, Good Vibes, Vegan Life, Travel & Health
     location: "United States"
-    followers: 12500
-    engagement: 876
-    commentsToLikes: 0.013084
-    id: ck9pmhk9k9fvs0j78e0vs6qdy
-    verified: false
-    hashtags: "#eventplanner, #foryou, #fyp, #lasvegas"
-  - username: "jordyntrobiani"
+    followers: 118800
+    engagement: 553
+    commentsToLikes: 0.062348
+    id: ck8hk5rm6cjeo0j78s2q7szjd
+    verified: true
+    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+  - username: "motdcosmetics"
     fullname: >-
-      Jordyn Trobiani
+      Chantal • CEO MOTD Cosmetics
     bio: >-
-      21 | Las Vegas ✨Radiology Student ✨ Follow my IG 🤪
+      Owner of @MOTD_Cosmetics Cruelty Free Vegan Beauty Brand Shop Here👇🏼
     location: "United States"
-    followers: 74400
-    engagement: 1585
-    commentsToLikes: 0.018013
-    id: ck95z2dvjcm9y0j78td97bwyz
+    followers: 27100
+    engagement: 918
+    commentsToLikes: 0.036716
+    id: ckahzp8lq49oh0i7838z1e0fr
     verified: false
-    hashtags: "#xray, #fyp, #girls, #dog"
-  - username: "plantbasedvision"
+    hashtags: "#veganmakeup, #packingorders, #makeupbrushes, #vegan"
+  - username: "cherrielynn"
     fullname: >-
-      PlantBasedVision
+      Cherrie Lynn Almonte
     bio: >-
-      follow on IG!⇧ i eat plants 🌱 kombucha reviews ⇩
+      Travel, Home and trying things I saw on TikTok Welcome to @casa.almonte
     location: "United States"
-    followers: 11300
-    engagement: 1125
-    commentsToLikes: 0.019358
-    id: ckbqvxa7ng6fo0j23m5q8lsi1
+    followers: 87400
+    engagement: 677
+    commentsToLikes: 0.087654
+    id: ck8kditls616f0j78xtjct7yh
     verified: false
-    hashtags: "#arizona, #whatieatinaday, #fyp, #veganfoodie"
-  - username: "adrian_senior"
+    hashtags: "#hotels, #vegas, #easyrecipes, #learnontiktok"
+  - username: "allie.eats"
     fullname: >-
-      Adrian_Senior
+      Allie Eats
     bio: >-
-      CEO of Takin it Easy🎣🏹⛺️ Retired Paratrooper, Youtuber, Cameraman America 🇺🇸
+      food | life | recipes san francisco say hi on insta @allie.eats
     location: "United States"
-    followers: 94900
-    engagement: 731
-    commentsToLikes: 0.018949
-    id: ck9rdbletx8ir0j78rchss3vl
+    followers: 58400
+    engagement: 629
+    commentsToLikes: 0.031815
+    id: ckd6evi5r6jvm0j230rrgy6m3
     verified: false
-    hashtags: "#mountainmanstyle, #wow, #foryou, #hunting"
-  - username: "chubbycucumber"
+    hashtags: "#sanfrancisco, #quickrecipe, #noodles, #foodinfluencer"
+  - username: "thelasvegasfoodie"
     fullname: >-
-      chubby cucumber
+      Lindsay Stewart
     bio: >-
-      🍔Plantbased Junkfood🍔 Followers = Caulifollowers 👇ALL SOCIAL MEDIA LINKS👇
+      Mama, foodie & lover of our city! Showing you what ✨Vegas✨ is all about!!👆Insta
     location: "United States"
-    followers: 24400
-    engagement: 1616
-    commentsToLikes: 0.100224
-    id: ckc2zk06cqgki0j238u4qvkcm
+    followers: 371600
+    engagement: 1012
+    commentsToLikes: 0.013874
+    id: ck95xw1lo7kyv0j78h86f4262
     verified: false
-    hashtags: "#plantbased, #vegan, #tiktokfood, #cooking"
-  - username: "veganbarajas"
+    hashtags: "#drinks, #vegastiktok, #lasvegasfoodie, #foodies"
+  - username: "xzodiac85x"
     fullname: >-
-      Vegan Eats
+      Krackzsan
     bio: >-
-      
+      I`m a Youtuber and Twitch streamer "xzodiac85x" same name on both. Us/We
     location: "United States"
-    followers: 7276
-    engagement: 857
-    commentsToLikes: 0.024229
-    id: ckdc5eha5h1au0j23dask0mdw
+    followers: 35000
+    engagement: 1160
+    commentsToLikes: 0.179808
+    id: ckdhc0ohuw42x0j23i3au44ra
     verified: false
-    hashtags: "#readysetgo, #vegan, #veganeats, #fyp"
-  - username: "problematiccabbage"
+    hashtags: "#duet, #thatbonemarrowbaby, #bonemarrowbaby, #trendy"
+  - username: "veganlesbianrepublicans"
     fullname: >-
-      Jessica A
+      Eve & Das
     bio: >-
-      painfully relatable Venmo: Jessisph14
+      “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
     location: "United States"
-    followers: 80800
-    engagement: 1510
-    commentsToLikes: 0.044434
-    id: ck83z71huya3d0j78uhlxxmpz
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
+    id: ckdclovylnw2r0j23tvaevkjy
     verified: false
-    hashtags: "#harris2020, #funny, #fyp, #debate"
-  - username: "jkinglaxo"
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
     fullname: >-
-      Jeffery King
+      mae mae
     bio: >-
-      Follow me on IG to get $20 in free🌳
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
     location: "United States"
-    followers: 23800
-    engagement: 1615
-    commentsToLikes: 0.016948
-    id: ckbqmidxn7h6o0j23ad7a4e2n
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#rollerblading, #depop, #foryou, #poshmark"
-  - username: "gahbea"
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+  - username: "veganmumu"
     fullname: >-
-      Gabriela Amador
+      Shannon
     bio: >-
-      LA girl trying to live her Dreams Follow me on IG! Venmo: GAHBEA
+      your vegan mom 🐧 Florida 🍊
     location: "United States"
-    followers: 32600
-    engagement: 354
-    commentsToLikes: 0.030052
-    id: ckc7sj3t7xbj30j23emidyp00
+    followers: 6762
+    engagement: 1446
+    commentsToLikes: 0.401234
+    id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#dog, #pets, #foryourpage, #fall"
-  - username: "abbysullz"
+    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
+  - username: "kawaiikingb"
     fullname: >-
-      Abby🤠
+      MJ Cobra
     bio: >-
-      23|MA|🏳️‍🌈she/her winona ryder fan page
+      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
     location: "United States"
-    followers: 6896
-    engagement: 2242
-    commentsToLikes: 0.071128
-    id: ckd073ye2al3a0j23wgtauzt8
+    followers: 4459
+    engagement: 2638
+    commentsToLikes: 0.068353
+    id: ckav30jp99aym0j2355hwtnvy
     verified: false
-    hashtags: "#trump, #election, #lgbtq, #covid"
+    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
 ---

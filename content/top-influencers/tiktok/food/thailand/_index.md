@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Thailand In 2022
+title: Top 10 Food TikTok Influencers In Thailand In 2023
 description: >-
-  Find top food TikTok influencers in Thailand in 2022. Most popular hashtags: #food #fyp #foryou #cooking.
+  Find top food TikTok influencers in Thailand in 2023. Most popular hashtags: #food #fyp #foryou #cooking.
 platform: TikTok
-hits: 62
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 62 TikTok influencers like this in Thailand for you to collaborate.
+hits: 46
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 46 TikTok influencers like this in Thailand for you to contact.
 profiles:
   - username: "creativepicks"
     fullname: >-
@@ -13,96 +13,96 @@ profiles:
     bio: >-
       🍔Food 🧁Desserts ⭐️DIY Link to the App👇
     location: "Thailand"
-    followers: 735600
+    followers: 721900
     engagement: 1144
-    commentsToLikes: 0.009904
+    commentsToLikes: 0.009328
     id: ckfplmckn0eij0j23bkvefsjv
     verified: false
-    hashtags: "#desserts, #icecream, #dessert, #cake"
+    hashtags: "#cake, #icecream, #chocolate, #dessert"
   - username: "tswar"
     fullname: >-
       Tswar
     bio: >-
-      Food Creator Team Sawangarom ติดต่องาน ID Line : tswar คลิปใหม่ลงยูทูป🔻
+      Food Creator Team Sawangarom ติดต่องาน ID Line : tswar คลิปใหม่ยูทูป🔻
     location: "Thailand"
-    followers: 1100000
-    engagement: 1593
-    commentsToLikes: 0.002470
+    followers: 1700000
+    engagement: 1459
+    commentsToLikes: 0.002881
     id: ckbkvaxjvquzu0j23noglf8gb
     verified: false
-    hashtags: "#whatishappeninthailand, #energyball, #foodstyling, #tswar"
+    hashtags: "#tiktok, #artymilk, #tswar, #tiktokuni"
   - username: "bangkokstory"
     fullname: >-
       MyBangkokStory
     bio: >-
       Hostel owner Lazada seller Digital nomad Food lover thanks for your following
     location: "Thailand"
-    followers: 73000
-    engagement: 458
-    commentsToLikes: 0.003655
+    followers: 182800
+    engagement: 434
+    commentsToLikes: 0.002994
     id: ckc7pxmfwvk8z0j234znawap9
     verified: false
-    hashtags: "#magiccoolingmagicnow, #foryou, #fried, #cookingwithem"
+    hashtags: "#mashroom, #fyp, #egg, #mamaokchallenge"
+  - username: "anne....liza"
+    fullname: >-
+      Ana Liza 🧜‍♀️
+    bio: >-
+      TRAVEL ✈LIFESTYLE 📷 FOOD 🌰 🏡 : 🇵🇭🇹🇭 📍UK 🇬🇧
+    location: "Thailand"
+    followers: 3809
+    engagement: 346
+    commentsToLikes: 0.022670
+    id: ckb9q6xvelrz80j23rq43rdcy
+    verified: false
+    hashtags: "#uk, #nature, #tiktokkitchen, #foryou"
   - username: "mookodtap"
     fullname: >-
       kodtap moo
     bio: >-
       หมูโคตรเทพ ข้าวหมูทอดโคตรเด็ด สั่งเลย foodpanda &grabfood
     location: "Thailand"
-    followers: 6919
-    engagement: 1417
-    commentsToLikes: 0.003506
+    followers: 6830
+    engagement: 1411
+    commentsToLikes: 0.003492
     id: ckb9bz4hsyfqe0j23ojav2c4y
     verified: false
     hashtags: "#foodpanda, #chiangmai"
-  - username: "siriporn.na.ka"
+  - username: "karen2655"
     fullname: >-
-      Siriporn.na.ka
+      Surapon
     bio: >-
-      ฝากติดตามด้วยค่ะ ขอบคุณค่ะ
+      ไม่ใช่คนเก่งนะเป็นคนธรรมดา🏳️‍🌈
     location: "Thailand"
-    followers: 5252
-    engagement: 2564
-    commentsToLikes: 0.131765
-    id: ckbkiyfgkbn5w0j23t1lhhn2j
+    followers: 42100
+    engagement: 628
+    commentsToLikes: 0.076617
+    id: ckd5p52oex9yp0j230qcvqjjm
     verified: false
-    hashtags: "#foodchangeyourmood, #v20, #44, #letsdancewithlays"
+    hashtags: "#english, #pattaya, #thailand, #cafe"
   - username: "moderndesi"
     fullname: >-
       Modern Desi Rapper
     bio: >-
       A hip-hop Artist 🎙️& A entrepreneur💰 only here to make some Good memories 💕
     location: "Thailand"
-    followers: 8561
-    engagement: 697
-    commentsToLikes: 0.094266
+    followers: 8548
+    engagement: 583
+    commentsToLikes: 0.082353
     id: ck8nbezcr9ldm0j78mgze05cg
     verified: false
-    hashtags: "#moderndesi, #tiktokindia, #thailand, #thaifood"
-  - username: "simondoh"
-    fullname: >-
-      Jimmy🕕⚽️🏈🇨🇲2🇹🇭
-    bio: >-
-      Have fun creating fun. We just do what we do!!! IG: Jimmy_method_man
-    location: "Thailand"
-    followers: 65900
-    engagement: 387
-    commentsToLikes: 0.044816
-    id: ckdnmgj85jo6p0j231za98ppy
-    verified: false
-    hashtags: "#fyp, #life, #voice, #love"
+    hashtags: "#thailand, #moderndesi, #viral, #thaifood"
   - username: "note.asmr"
     fullname: >-
       NOTE-ASMR
     bio: >-
       โน๊ตครับ ขอบคุณที่ติดตามครับ ❤ YouTube : @noteasmr ติดต่องาน Line : notecmin
     location: "Thailand"
-    followers: 25000
-    engagement: 339
-    commentsToLikes: 0.036293
+    followers: 24800
+    engagement: 329
+    commentsToLikes: 0.034732
     id: ck9fxxr848i2i0j78wu3rjjlo
     verified: false
-    hashtags: "#asmr, #food, #rovthailand, #mobilegame"
+    hashtags: "#food, #mobilegame, #rovthailand, #asmr"
   - username: "minihomelive"
     fullname: >-
       Mini home
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.009295
     id: ckauyt7t94c7t0j238p8pyk9x
     verified: false
-    hashtags: "#fyp, #cocacola, #cooking, #chinesefood"
-  - username: "teppenbkk"
+    hashtags: "#egg, #cooking, #eatemup, #stayathome"
+  - username: "gun_asmr"
     fullname: >-
-      Teppenbangkok 🇹🇭
+      GUN ASMR
     bio: >-
-      てっぺん Bangkok 🇹🇭🇯🇵
+      YOUTUBE : GUN ASMR FACEBOOK : GUN ASMR
     location: "Thailand"
-    followers: 6538
-    engagement: 898
-    commentsToLikes: 0.008624
-    id: ckbqrjeracfk30j23uuon50h1
+    followers: 60900
+    engagement: 571
+    commentsToLikes: 0.017700
+    id: ck9fyknkpba9o0j78rijj99uj
     verified: false
-    hashtags: "#food, #bangkok, #teppenbangkok, #sushi"
+    hashtags: "#gunasmr, #eatingshow, #asmreating, #spicyfood"
 ---

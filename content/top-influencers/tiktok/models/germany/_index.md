@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Germany In 2022
+title: Top 10 Models TikTok Influencers In Germany In 2023
 description: >-
-  Find top models TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #funny #foryou #fun.
+  Find top models TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #foryoupage #stitch.
 platform: TikTok
-hits: 135
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 135 TikTok influencers like this in Germany for you to collaborate.
+hits: 141
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 141 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "lee_yuna_98"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🔥ONCE🔥 💗STAY💗 💜ARMY💜 Role model=🔥Sana🔥(Twice)
     location: "Germany"
-    followers: 2232
-    engagement: 3014
-    commentsToLikes: 0.064838
+    followers: 2166
+    engagement: 2965
+    commentsToLikes: 0.063386
     id: ckbq4wd5ur4io0j23y1zoaork
     verified: false
-    hashtags: "#namjoon, #bangchan, #jin, #hoseok"
+    hashtags: "#bangchan, #jin, #in, #jeongin"
+  - username: "quayraza"
+    fullname: >-
+      QɄ₳ɎⱤ₳Ⱬ₳
+    bio: >-
+      🦇 published goth model ☣️ cybergoth 🎀 cosplayer 🏳️‍🌈⛸️🎮 don't like spam 🖤
+    location: "Germany"
+    followers: 24100
+    engagement: 1939
+    commentsToLikes: 0.042978
+    id: cka0oef5e3h9e0i78s6dnjs8p
+    verified: false
+    hashtags: "#gothgirl, #altgirl, #gothtiktok, #cybergoth"
   - username: "dominikfels"
     fullname: >-
       dominikfels
     bio: >-
-      💪Motivator & Model im Rollstuhl ❤️Folgst du mir auch auf insta? ♿️#Wheeltalk
+      💪Motivator & Model im Rollstuhl 🤷🏼..irgendwie alles behhindert! #WHEELTALK♿️
     location: "Germany"
-    followers: 138900
-    engagement: 1503
-    commentsToLikes: 0.042773
+    followers: 271300
+    engagement: 1477
+    commentsToLikes: 0.037794
     id: ckbadcye75oyh0j23p0myggxl
     verified: false
-    hashtags: "#comedy, #behinderung, #rollstuhl, #motivation"
-  - username: "quayraza"
-    fullname: >-
-      Quayraza
-    bio: >-
-      🖤 published goth model ☣️ cyber / tradgoth 🦇 🎀 cosplayer 🌈 pan / agender
-    location: "Germany"
-    followers: 20800
-    engagement: 1451
-    commentsToLikes: 0.038303
-    id: cka0oef5e3h9e0i78s6dnjs8p
-    verified: false
-    hashtags: "#gothgirlsoftiktok, #alt, #gothgirl, #fy"
-  - username: "michele.winchester"
-    fullname: >-
-      Michele Winchester
-    bio: >-
-      Model ✨ EastWestModels/ JayJayModels Instagram: michele.winchester_
-    location: "Germany"
-    followers: 86400
-    engagement: 1431
-    commentsToLikes: 0.017069
-    id: cka637di4346k0i78co47yh13
-    verified: false
-    hashtags: "#whataproof, #seatsounds, #poetry, #eswirdbunt"
-  - username: "rose.friederike"
-    fullname: >-
-      ROSE
-    bio: >-
-      Hi, I‘m Rose🌹 Model/Actress Giving you Tipps 💫 rose.friederike@btstrm.com 💌
-    location: "Germany"
-    followers: 562800
-    engagement: 1889
-    commentsToLikes: 0.014640
-    id: ck8vubiylijd00j784ntgsjco
-    verified: false
-    hashtags: "#funny, #fy, #lernenmittiktok, #ios14"
+    hashtags: "#gaming, #duett, #gaiming, #wheeltalk"
   - username: "marielouise.lit"
     fullname: >-
       Marie 
     bio: >-
       Acting · POVs · Model 📩 @treylius💚
     location: "Germany"
-    followers: 38500
-    engagement: 1645
-    commentsToLikes: 0.032248
+    followers: 39100
+    engagement: 1418
+    commentsToLikes: 0.056594
     id: ckd66ixx5375r0j231dgaov3w
     verified: false
-    hashtags: "#fyp, #smile, #foryou, #brokenheart"
+    hashtags: "#dance, #foryou, #fyp, #smile"
+  - username: "rose.friederike"
+    fullname: >-
+      ROSE
+    bio: >-
+      Hi 🙋🏻‍♀️ Model/Creator Welcome to my world of Beauty✨ 💌 rose@labs.management
+    location: "Germany"
+    followers: 686400
+    engagement: 1876
+    commentsToLikes: 0.019209
+    id: ck8vubiylijd00j784ntgsjco
+    verified: true
+    hashtags: "#waxingvideos, #viral, #tiktokfashion, #fashionhack"
+  - username: "aasma.satti"
+    fullname: >-
+      Asma Satti 🤍
+    bio: >-
+      Bollywood addicted 🌚✅ Pakistani🇵🇰❤️🇩🇪 Model🤍 💍🔐❤️
+    location: "Germany"
+    followers: 558400
+    engagement: 1299
+    commentsToLikes: 0.045560
+    id: ckbwa8tsh03gr0j23lay8wxaa
+    verified: false
+    hashtags: "#liftmymood, #foryoupage, #lovesong, #bahrain"
+  - username: "lilithwhitic"
+    fullname: >-
+      ❄ Lilith Whitic ❄
+    bio: >-
+      🇩🇪 She/her 🎮 Streamer 🎥 Youtube 📸 Model
+    location: "Germany"
+    followers: 17700
+    engagement: 1009
+    commentsToLikes: 0.041682
+    id: ckcjtpel6ieyi0j23ou2tfx4e
+    verified: false
+    hashtags: "#stitch, #gaming, #tattoos, #chihuahua"
+  - username: "surimendes"
+    fullname: >-
+      SURI MENDES
+    bio: >-
+      Du suchst ein Model?⬇️
+    location: "Germany"
+    followers: 14500
+    engagement: 1084
+    commentsToLikes: 0.058665
+    id: ck8nl9s35iz6v0j78zku012pc
+    verified: false
+    hashtags: "#prinzrobert, #surimendes, #capitalbra, #fyp"
+  - username: "ari_themermaid"
+    fullname: >-
+      Ariella
+    bio: >-
+      IG @ari_themermaid ✨ German model having fun ✨ Travel with me.
+    location: "Germany"
+    followers: 27700
+    engagement: 421
+    commentsToLikes: 0.080499
+    id: ck81swfnatlnw0j78vd0ypp2v
+    verified: false
+    hashtags: "#viral, #foryou, #dating, #fyp"
   - username: "juliannatownsend"
     fullname: >-
       Julianna Townsend
     bio: >-
       Insta: @julianna Welcome to my page SINGER&MODEL
     location: "Germany"
-    followers: 13400
-    engagement: 1413
-    commentsToLikes: 0.015477
+    followers: 15300
+    engagement: 1021
+    commentsToLikes: 0.063819
     id: ck8hphpjvzj1v0j783yhs0n1l
-    verified: false
-    hashtags: "#fun, #dance, #tiktok, #quarantine"
-  - username: "jan.bi_official"
-    fullname: >-
-      jan.bi
-    bio: >-
-      Acrobat,Model,Woman,Wife,Mother,friend,enemy,cute,bitch,angel,devil
-    location: "Germany"
-    followers: 4858
-    engagement: 546
-    commentsToLikes: 0.048715
-    id: ckbfj0jthf4gm0j234wn19l0x
-    verified: false
-    hashtags: "#acrobat, #svenandjan, #beyou, #skating"
-  - username: "laura_theresa_g"
-    fullname: >-
-      laura_theresa_g
-    bio: >-
-      23 y/o Model from Germany 🇩🇪 follow me on instagram: laura_theresa_g 💞
-    location: "Germany"
-    followers: 3327
-    engagement: 679
-    commentsToLikes: 0.028079
-    id: ckbf9cse408dk0j23mtv1h0s3
-    verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #modellife"
-  - username: "ebruary"
-    fullname: >-
-      Jacki
-    bio: >-
-      Hi I’m Jacki :) | 21 German Model Currently in Germany / Hannover
-    location: "Germany"
-    followers: 172300
-    engagement: 303
-    commentsToLikes: 0.017469
-    id: ckbqlvsad6ygn0j23p3c4tkk2
-    verified: false
-    hashtags: "#malta, #modeling, #model, #travel"
+    verified: true
+    hashtags: "#couple, #foryoupage, #fyp, #crybaby"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Chicago In 2022
+title: Top 10 Vegan Instagram Influencers In Chicago In 2023
 description: >-
-  Find top vegan Instagram influencers in Chicago in 2022. Most popular hashtags: #vegan #chicago #food.
+  Find top vegan Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #vegan #chicagofood.
 platform: Instagram
-hits: 62
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 62 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 67
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 67 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "josie_fox"
+  - username: "courtneytheexplorer"
     fullname: >-
-      Josie Fox
+      Courtney | LGBTQ+ Travel
     bio: >-
-      I'm a Fitness Model & Photographer @josiefoxphoto Vegan | Chicago | World Traveler CBD OIL @yj_cbd Code Fox15 Pasties @mylollipetals code JosieFox10
+      ✈️ explore the world + live fully 🏳️‍🌈 🎒7 years a nomad 🌱 vegan-ish 📍Egypt 🇪🇬 💌 hello@courtneytheexplorer.com ↓ Travel Blog + YouTube channel ↓
     location: "United States"
-    followers: 109730
-    engagement: 95
-    commentsToLikes: 0.046370
-    id: ck137zyo9du910i19419p2bhq
+    followers: 5111
+    engagement: 630
+    commentsToLikes: 0.111844
+    id: ck8t1anriv1fk0j782gwqp1sc
     verified: false
-    hashtags: "#gobiheat, #josiefox, #bootaybabe, #bootybag"
-  - username: "ant.artefakt"
+    hashtags: "#lesbiantravel, #chicagoexplore, #egypttravel, #cairoegypt"
+  - username: "lena_and_zena_world"
     fullname: >-
-      ANT  | still SUGGS
+      Lena & Zena  🇺🇸🇮🇶
     bio: >-
-      [Founder: Artefakt • @artefaktlife] @creationglobal • RhythmMetrics • DFF 🙏| RIP AB, ALLEN, MARK D 🎥| @shotbyant_ 🌃| PGH 🌱| Vegan #ChicagoFootwork 🥔
+      Fashion Designer & Content Creator 🌟 Founder of @wearanez
     location: "United States"
-    followers: 8200
-    engagement: 525
-    commentsToLikes: 0.157026
-    id: ck0vyq4vn58rd0i19a80dn5ta
+    followers: 62431
+    engagement: 110
+    commentsToLikes: 0.155421
+    id: ck600vdb1ecdg0i1437z8xyry
     verified: false
-    hashtags: "#plantbased, #legendaryshxt, #vegansofinstagram, #nike"
-  - username: "lasrecetasdelaura"
+    hashtags: "#octolyfamily, #onegiamfamcom, #lipstick, #beautypage"
+  - username: "mariannevuk"
     fullname: >-
-      Las Recetas de Laura 🍒
+      maybe: marianne
     bio: >-
-      Busy Mom working from 🏡 Chicago📍 🥑 Healthy Homemade Food 👨‍👩‍👦‍👦 Family Fun ideas 🇺🇲🇪🇦 👩‍🌾Veggie Garden Enthusiast 💃 Body Positivity
+      chicago | vegan | doing what I want since 93’
     location: "United States"
-    followers: 68477
-    engagement: 67
-    commentsToLikes: 0.041497
-    id: ck5zrwxnixemo0i140u5x8tlr
+    followers: 2860
+    engagement: 846
+    commentsToLikes: 0.173199
+    id: ckap7wcmulup10i78la0ds9ux
     verified: false
-    hashtags: "#receta, #food, #halloween, #halloweenrecipes"
+    hashtags: "#halloweenmakeup, #ahs, #hi, #tvd"
   - username: "mr.sir_wes"
     fullname: >-
       Wes Patterson
     bio: >-
-      Lost Over 100Lbs CHICAGO Vegan 🌱 Online Coaching CEO @precise_personnel_solutions CEO @quick_fitness_llc Bookings/Collab Email👈🏾
+      Lost Over 100Lbs CHICAGO Vegan 🌱 Online Coaching👈🏾 CEO @quick_fitness_llc Bookings/Collab Email👈🏾 @flowsportstech Athlete: Wes25👈🏾
     location: "United States"
-    followers: 52098
-    engagement: 180
-    commentsToLikes: 0.090320
+    followers: 67582
+    engagement: 154
+    commentsToLikes: 0.082426
     id: ckap8vwfyq4kk0i78i0dhtydx
     verified: false
     hashtags: ""
-  - username: "foodnetwerq"
+  - username: "film_krue"
     fullname: >-
-      Food Netwerq
+      Krue Monroe
     bio: >-
-      Will Ngo 😇🍽 #foodie | #chicago | #vegetarian Where there's a Will, there's a way to #eat. 👦🏻: @heyimwill 📸: All original photos!
+      Published!!! Follow my vlog @krue_monroe
     location: "United States"
-    followers: 5222
-    engagement: 1025
-    commentsToLikes: 0.133580
-    id: ckaorvp8zoyfk0i78ykpnlvnb
+    followers: 1147
+    engagement: 2034
+    commentsToLikes: 0.086046
+    id: ck5zr3kb3vtvy0i14p7gqqgmq
     verified: false
-    hashtags: "#rainbow, #cream, #spicy, #delicious"
-  - username: "mrwilliamcruse"
+    hashtags: "#chicagofilmmaker, #guyswithtattoos, #chicagofilm, #chicagovlogger"
+  - username: "kimlycurry"
     fullname: >-
-      Sir Cruse
+      Lil Miss Foodie
     bio: >-
-      MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
+      We love you #scotchtrooper 🖤 Mpls, MN. I'm food-obsessed and I love to eat and travel. @zagat Top 100 Food IGers in the U.S. #lilmissfoodie
     location: "United States"
-    followers: 38602
-    engagement: 768
-    commentsToLikes: 0.015702
-    id: ck5c6ekj559zm0i11030vuue0
+    followers: 51106
+    engagement: 203
+    commentsToLikes: 0.176718
+    id: ck0w09amrd1c40i19hfr90zon
     verified: false
-    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
-  - username: "demiarango_"
-    fullname: >-
-      Demi Arango
-    bio: >-
-      Entrepreneur | Traveler | Mentor 𝑯𝒆𝒍𝒑𝒊𝒏𝒈 𝒐𝒕𝒉𝒆𝒓𝒔 𝒃𝒖𝒊𝒍𝒅 𝒕𝒉𝒆𝒊𝒓 𝒅𝒓𝒆𝒂𝒎 𝒍𝒊𝒇𝒆 ♡ ⇣ Let me upgrade you
-    location: "United States"
-    followers: 17557
-    engagement: 186
-    commentsToLikes: 0.209524
-    id: ckap7p8x3kytm0i7899vfi3th
-    verified: false
-    hashtags: "#reel, #blogger, #healthyliving, #bossbabe"
+    hashtags: "#stpaul, #comfortfood, #tastingtable, #nevada"
   - username: "kyliedennison"
     fullname: >-
       K Y L I E •🦄✨
     bio: >-
       🎥 YouTube/Beauty Vlogger 💄 MUA from Chicago 🌱 Vegan 📩 Inquiries: kikichanelyoutube@yahoo.com 👻 Snapchat: kyliedennison
     location: "United States"
-    followers: 35174
-    engagement: 1029
-    commentsToLikes: 0.086282
+    followers: 37270
+    engagement: 1834
+    commentsToLikes: 0.086730
     id: ck5pwdjtzmbjy0i11nizuw21w
     verified: false
     hashtags: "#intercontinentallife, #experienceihg"
-  - username: "mrkoolaidofficial"
+  - username: "ponylawson"
     fullname: >-
-      stephen hauptfuhr
+      ✶ 𝐏𝐎𝐍𝐘 𝐋𝐀𝐖𝐒𝐎𝐍 ✶
     bio: >-
-      Burnin’ - Rick Ross Mr Koolaid vs NkRiot remix . Link 👇🏾
+      Respect & Humility Chicago - NYC - LA Vegan for the animals @tattoostencilapp FOR BOOKING:
     location: "United States"
-    followers: 92336
-    engagement: 94
-    commentsToLikes: 0.021089
-    id: ck5hm24gll8wy0i111bsqng11
+    followers: 127790
+    engagement: 371
+    commentsToLikes: 0.014402
+    id: ck0w1fz95j5jg0i19l132teb6
     verified: false
-    hashtags: "#plantbased, #lakeatitlan, #eatlovelyatnight, #bonappetit"
-  - username: "sabrina.kelly8"
+    hashtags: ""
+  - username: "gabbiechicago"
     fullname: >-
-      SABRINA KELLY
+      Gabriella Lenzi Littleton
     bio: >-
-      8teen nashville dancer | choreographer team USA @tribetalent don’t trade your authenticity for approval <3
+      4th Gen Chicago Restaurateur #thesteaklife @ejsplaceskokie Mama to 👦🏼+👧🏻+🐶 Recipes⬇️
     location: "United States"
-    followers: 3969
-    engagement: 1504
-    commentsToLikes: 0.087459
-    id: ck5hf77mqw4ih0i11gsw9iuie
+    followers: 19765
+    engagement: 811
+    commentsToLikes: 0.026993
+    id: ck5zs3a8fxqn70i14z47i3om5
     verified: false
-    hashtags: "#getmeablanket, #chicagonypd, #honk, #vegan"
+    hashtags: "#whole30, #eaterchicago, #culinarybeyonce, #thistooshallpasta"
+  - username: "fabfoodforfun"
+    fullname: >-
+      natalia
+    bio: >-
+      my fit& food gram ☻ 23,📍chi | healthy livin’ dental student gotta nourish to flourish!! @talibear31
+    location: "United States"
+    followers: 2952
+    engagement: 738
+    commentsToLikes: 0.120448
+    id: ckaorozboo6nc0i78t5fq8usw
+    verified: false
+    hashtags: "#healthydesserts, #proteincookie, #healtydinner, #foodphotography"
 ---

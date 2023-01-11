@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Toronto In 2022
+title: Top 10 Lifestyle TikTok Influencers In Toronto In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #canada #foryou.
+  Find top lifestyle TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #foryou #fashion.
 platform: TikTok
-hits: 17
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 17 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 18
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 18 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "angelvs12279"
+  - username: "emmanuel.uddenberg"
     fullname: >-
-      Angel
+      Emmanuel Uddenberg
     bio: >-
-      No bio yet
+      Fashion & Lifestyle | Toronto📍 📧: Emmanuel.uddenberg@gmail.com Follow my IG ⚡️
     location: "Canada"
-    followers: 8733
-    engagement: 627
-    commentsToLikes: 0.025057
-    id: ckcuryfhajxcr0j236qaquwrz
+    followers: 364800
+    engagement: 885
+    commentsToLikes: 0.017346
+    id: ckdsxclusqosi0j23otma4esx
     verified: false
-    hashtags: "#yorkville, #runway, #wap, #baby"
-  - username: "devodlive"
+    hashtags: "#outfits, #outfit, #fashion, #summeroutfits"
+  - username: "nandosirianni"
     fullname: >-
-      devodlive
+      Nando Sirianni
     bio: >-
-      Toronto 🇨🇦 Digital Creator Follow ur boi!
+      🇨🇦 Menswear | Fitness | Lifestyle 📍Toronto | Instagram (89K+) 🎥 YOUTUBE ⬇️
     location: "Canada"
-    followers: 15300
-    engagement: 1324
-    commentsToLikes: 0.086255
-    id: ckb9uy8mhtxky0j23fdq2bfnh
+    followers: 303900
+    engagement: 599
+    commentsToLikes: 0.024020
+    id: ck9nd0981cff30j78im8kkhbj
     verified: false
-    hashtags: "#6ix, #lifestyle, #foryou, #entertainment"
-  - username: "dancebydey"
+    hashtags: "#mystyle, #ootd, #tiktokfashion, #outfit"
+  - username: "shawnaskitchen"
     fullname: >-
-      Sonya Dey
+      Shawna’s Kitchen
     bio: >-
-      Dance | Travel | Lifestyle Insta: @dancebydey Wedding Choreographer 📍Toronto
+      Mother Event Stylist Home-Cook- Caterer Aries ♈️ 👩🏾‍🎓💃🏽👩🏾‍🍳🇨🇦🇯🇲
     location: "Canada"
-    followers: 3258
-    engagement: 279
-    commentsToLikes: 0.040673
-    id: ckbfgpwqabv970j23esrx5elp
+    followers: 14600
+    engagement: 1049
+    commentsToLikes: 0.114549
+    id: ckc2zvca7qonu0j23fry05orz
     verified: false
-    hashtags: "#paris2019, #discoveron, #fyp, #shaadi"
+    hashtags: "#food, #desserttiktok, #foryoupage, #dinnerisserved"
   - username: "stephencovic"
     fullname: >-
       Stephen Covic
     bio: >-
       lifestyle | real estate | interior design 📍vancouver + toronto
     location: "Canada"
-    followers: 2991
-    engagement: 476
-    commentsToLikes: 0.061123
+    followers: 3314
+    engagement: 510
+    commentsToLikes: 0.055197
     id: ckcdtxztie73a0j23sl51vnfo
     verified: false
-    hashtags: "#luxury, #canada, #northvan, #money"
+    hashtags: "#ocean, #realtor, #penthouse, #canada"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
     bio: >-
       Lifestyle • Vlogs • Comedy • Fashion • Travel 📧 Naomi.leanage@gmail.com
     location: "Canada"
-    followers: 405900
-    engagement: 2668
-    commentsToLikes: 0.009405
+    followers: 454800
+    engagement: 1799
+    commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#toronto, #thriftshop, #thrifting, #tiktokcanada"
-  - username: "hellenkellar8"
+    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+  - username: "carolynabauer"
     fullname: >-
-      Matthew Kellar
+      Carolyna Bauer
     bio: >-
-      Full send isn’t just a word....it’s a lifestyle I’m not gonna be fucking dancing
+      Outfits + style tips + fun Toronto🇨🇦 IG: @carolynabauer Outfit details 👇🏼
     location: "Canada"
-    followers: 8704
-    engagement: 2789
-    commentsToLikes: 0.003192
-    id: ckb95xiedo5xw0j23ahz0puy2
+    followers: 4973
+    engagement: 505
+    commentsToLikes: 0.089077
+    id: ck9fll8uooexc0j78mbb9nuw5
     verified: false
-    hashtags: "#cod, #fy, #clips, #golf"
-  - username: "second_wife"
-    fullname: >-
-      Second wife
-    bio: >-
-      Your second wife. Toronto IG: @enigma__7
-    location: "Canada"
-    followers: 36400
-    engagement: 1188
-    commentsToLikes: 0.113426
-    id: ckbqthro4e8m30j23uc9k3fa0
-    verified: false
-    hashtags: "#foryou, #fyp, #siblingcheck, #fuckit"
+    hashtags: "#tiktokfashion, #fashion, #tiktokfashionmonth, #hellofall"
   - username: "gongshowgear"
     fullname: >-
       GONGSHOW HOCKEY
     bio: >-
       The Original Lifestyle Hockey Apparel Brand Tag #GONGSHOW 🛒 GONGSHOW.COM👇
     location: "Canada"
-    followers: 12500
-    engagement: 1177
-    commentsToLikes: 0.022356
+    followers: 12400
+    engagement: 1264
+    commentsToLikes: 0.021906
     id: ck9tu9q2lkgs40j78b6xwzag1
     verified: false
-    hashtags: "#hockeyplayers, #hockeyboys, #fyp, #hockeyplayer"
+    hashtags: "#hockeyplayer, #gongshow, #hockeytiktoks, #hockeyplayers"
+  - username: "nickyb_fitness"
+    fullname: >-
+      NickyBFitness
+    bio: >-
+      Just my two cents 💰 Toronto Bitclout: @NickyB6
+    location: "Canada"
+    followers: 34600
+    engagement: 348
+    commentsToLikes: 0.199593
+    id: ckbqthro4e8m30j23uc9k3fa0
+    verified: false
+    hashtags: "#fyp, #homeworkout, #mensfitness, #workouttips"
+  - username: "michael.rizzi"
+    fullname: >-
+      Michael Rizzi
+    bio: >-
+      ✨ everything’s going to be alright ✨ 📌 Toronto, Canada 🇨🇦 🏳️‍🌈
+    location: "Canada"
+    followers: 57300
+    engagement: 975
+    commentsToLikes: 0.015215
+    id: ck9go10ytz5ch0j78rc75apvn
+    verified: false
+    hashtags: "#snackpack, #kidssnacks, #lgbt, #groceryhaul"
   - username: "menon_akhil"
     fullname: >-
       Akhil Menon
     bio: >-
       Travel and Lifestyle Professional🌍🇮🇳🇨🇦 Canadian Mallu 🥳
     location: "Canada"
-    followers: 5707
-    engagement: 1151
-    commentsToLikes: 0.035886
+    followers: 5660
+    engagement: 1113
+    commentsToLikes: 0.034212
     id: ckajb438jly890i78q1p3pgef
     verified: false
-    hashtags: "#trending, #keralatiktok, #viral, #foryoupage"
-  - username: "thaisquintino2"
-    fullname: >-
-      Thais Quintino
-    bio: >-
-      insta; @thaisquintiino Health• Lifestyle • Fashion 😆
-    location: "Canada"
-    followers: 31600
-    engagement: 646
-    commentsToLikes: 0.021787
-    id: ck9flmiibopac0j78zyc7qfw9
-    verified: false
-    hashtags: "#fyp, #foryoupage, #makeitviral, #viral"
+    hashtags: "#mallu, #canadianmallu, #trending, #nzmallu"
 ---

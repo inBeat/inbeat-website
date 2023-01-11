@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Russia In 2022
+title: Top 10 Beauty TikTok Influencers In Russia In 2023
 description: >-
-  Find top beauty TikTok influencers in Russia in 2022. Most popular hashtags: #beauty #makeup #look.
+  Find top beauty TikTok influencers in Russia in 2023. Most popular hashtags: #beauty #makeup #love.
 platform: TikTok
-hits: 63
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 63 TikTok influencers like this in Russia for you to work with.
+hits: 58
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 58 TikTok influencers like this in Russia for you to collaborate.
 profiles:
   - username: "av.coleman"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Speak 🇷🇺🇬🇧 Beautyblogger/Бьютиблогер 23 y.o.
     location: "Russia"
-    followers: 3318
-    engagement: 1226
-    commentsToLikes: 0.040922
+    followers: 3279
+    engagement: 1075
+    commentsToLikes: 0.044157
     id: ck8j96nvom35j0j784teynr92
     verified: false
-    hashtags: "#pov, #makeup, #stayhome, #beauty"
+    hashtags: "#halloweenmakeup, #harleyquinn, #makeuptutorial, #beautybombrussia"
   - username: "five2ten"
     fullname: >-
       Anastasia
     bio: >-
-      Снято на Netflix 🔥INST: Five2ten.beauty 45k+
+      Снято на Netflix 🔥INST: Five2ten.beauty 48k+
     location: "Russia"
-    followers: 67200
-    engagement: 1081
-    commentsToLikes: 0.013936
+    followers: 70900
+    engagement: 1124
+    commentsToLikes: 0.022125
     id: cka0s3s2bjs5h0i78u1gjkkxo
     verified: false
-    hashtags: "#halloween, #wednesdayaddams, #halloweencountown, #helloween"
-  - username: "dr.beautysense"
+    hashtags: "#caudalie, #bybeautybay, #avonrussia, #thefoundationchallenge"
+  - username: "elonazhali"
     fullname: >-
-      ТВОЙ КОСМЕТОЛОГ
+      ELONA
     bio: >-
-      Твой личный врач-косметолог 🌟 Стань лучшей версией СЕБЯ! Инст: dr.beautysense
+      DANCE (TUTORIAL) ✊🏼 BEAUTY 💄 MOSCOW
     location: "Russia"
-    followers: 88200
-    engagement: 594
-    commentsToLikes: 0.018884
-    id: ckd175qd0obj40j23f98iecov
+    followers: 121900
+    engagement: 549
+    commentsToLikes: 0.037826
+    id: ck8zasre52uxq0j781z7ibekl
     verified: false
-    hashtags: ""
-  - username: "moon.waterrr"
-    fullname: >-
-      moon.waterrr
-    bio: >-
-      🍂Aesthetic 🍂 🍪Beauty blogger🍪 ✨Angel✨ ☕️📔🍂🧦
-    location: "Russia"
-    followers: 132100
-    engagement: 1942
-    commentsToLikes: 0.007216
-    id: ckd0lfvbvgbwa0j23pth5m1rg
-    verified: false
-    hashtags: "#foryoupage, #look, #vsco, #viral"
-  - username: "christina_gubanova"
-    fullname: >-
-      christina_gubanova
-    bio: >-
-      🔥TOP BEAUTYMAKER🔥 Лайфхаки и прикольчики😍 подпишись😘
-    location: "Russia"
-    followers: 95900
-    engagement: 334
-    commentsToLikes: 0.018317
-    id: ckbepqmak6v6j0j23gd7b7xrr
-    verified: false
-    hashtags: "#makeuptutorials, #makeupartist, #makeup, #hairstyle"
+    hashtags: "#russiangirl, #umathurman, #starbucksrussia, #michaeljackson"
   - username: "bogdanovich.elena"
     fullname: >-
       Bogdanovich Elena
     bio: >-
-      Beauty & Make-Up ♥️ Instagram 152k YouTube 202k
+      Beauty & Make-Up ♥️ Instagram 154k YouTube 210k
     location: "Russia"
-    followers: 64600
-    engagement: 474
-    commentsToLikes: 0.014559
+    followers: 88700
+    engagement: 457
+    commentsToLikes: 0.012489
     id: ckc90fd2vpt400j23kyuphvey
     verified: false
-    hashtags: ""
+    hashtags: "#makeup"
   - username: "simply.and.beauty"
     fullname: >-
       Simply & Beauty
     bio: >-
-      Ногти для $учек / МОСКВА INSTAGRAM : SIMPLY.AND.BEAUTY
+      Ногти для $учек / МОСКВА INSTAGRAM : SIMPLY.AND.BEAUTY 🔥 Ждём 100К 🔥
     location: "Russia"
-    followers: 65700
-    engagement: 674
-    commentsToLikes: 0.007138
+    followers: 103500
+    engagement: 391
+    commentsToLikes: 0.008850
     id: ckblhkd99b05n0j23qni2qws0
     verified: false
-    hashtags: "#fyp, #top, #lilpeep"
-  - username: "mixit_ru"
-    fullname: >-
-      MIXIT
-    bio: >-
-      
-    location: "Russia"
-    followers: 9607
-    engagement: 1195
-    commentsToLikes: 0.067058
-    id: ckacvkphko55o0i78lhbmaomp
-    verified: false
-    hashtags: "#beaty, #stayhome, #mixit, #challenge"
+    hashtags: ""
   - username: "sufarigo"
     fullname: >-
       SUFARIGO
     bio: >-
       💎 INST: sufarigo 💎 🌸Не воспринимайте все в серьез🌸
     location: "Russia"
-    followers: 3638
-    engagement: 1288
-    commentsToLikes: 0.040069
+    followers: 3554
+    engagement: 1272
+    commentsToLikes: 0.039488
     id: cka0w1d1n0x9x0i78hbye8jjk
     verified: false
-    hashtags: "#me, #colour, #friends, #beauty"
-  - username: "annakalash47"
+    hashtags: "#friend, #me, #colour, #friends"
+  - username: "jagermiss"
     fullname: >-
-      Анна Калашникова
+      user1654667513542
     bio: >-
-      Певица 🎤 Телеведущая 📺 Актриса 🎬 Бьюти-блогер 💞 Insta - 1.5 🍋 @annakalash
+      Instagram @jagermiss Russia, spb 💎 MUA 💎 Goth Aesthetics 💎 DIY
     location: "Russia"
-    followers: 41000
-    engagement: 493
-    commentsToLikes: 0.112675
-    id: ckbfew4o7985w0j23cployyhn
-    verified: true
-    hashtags: "#beauty, #fashion, #spiderman, #irobot"
+    followers: 4316
+    engagement: 1681
+    commentsToLikes: 0.029334
+    id: ck9euik41dpmk0j78aihweodt
+    verified: false
+    hashtags: "#sonic, #punkhair, #beautyblog, #pet"
+  - username: "doramaps"
+    fullname: >-
+      doramaps
+    bio: >-
+      🦐
+    location: "Russia"
+    followers: 15500
+    engagement: 1766
+    commentsToLikes: 0.014216
+    id: cka0y06rn98e60i78jvmqn0rf
+    verified: false
+    hashtags: "#doram, #truebeautywebtoon, #truebeautyedit, #truebeautykdrama"
+  - username: "wow.irene"
+    fullname: >-
+      wow.irene
+    bio: >-
+      Stylist and director MA Sigma 👯‍♀️ Ig: @wow.irene & @sigma_yaroslavl
+    location: "Russia"
+    followers: 5404
+    engagement: 677
+    commentsToLikes: 0.015235
+    id: ckd6d0p2757dy0j23uf81xlev
+    verified: false
+    hashtags: "#sigma, #beauty, #wedding, #modelkostroma"
+  - username: "fashion.world"
+    fullname: >-
+      Fashion
+    bio: >-
+      
+    location: "Russia"
+    followers: 65900
+    engagement: 797
+    commentsToLikes: 0.005263
+    id: ck81t1eahup4e0j781b67x2yq
+    verified: false
+    hashtags: "#love, #like, #fashion, #modeling"
 ---

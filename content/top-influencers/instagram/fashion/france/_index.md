@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In France In 2022
+title: Top 10 Fashion Instagram Influencers In France In 2023
 description: >-
-  Find top fashion Instagram influencers in France in 2022. Most popular hashtags: #fashion #concours #giveaway.
+  Find top fashion Instagram influencers in France in 2023. Most popular hashtags: #fashion #ootd #outfits.
 platform: Instagram
-hits: 3074
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 3074 Instagram influencers like this in France for you to connect with.
+hits: 3375
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 3375 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "fashions.school"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       FASHION PAGE
     location: "France"
-    followers: 74121
-    engagement: 105
-    commentsToLikes: 0.002215
+    followers: 74324
+    engagement: 207
+    commentsToLikes: 0.003029
     id: ck15qdonc2cy30i19riskzt3j
     verified: false
     hashtags: ""
-  - username: "streetwearteacher"
+  - username: "ellieekellyy"
     fullname: >-
-      Sneakers & Streetwear 🐐
+      ELLIEKELLY
     bio: >-
-      Follow my personal: @itsumarc7 👈 🔥 | Flyest fashion content. 👟 | Sneakers, outfits, street style 💰 | DM For Business 🙌🏻 | Follow for daily inspiration
+      fashion • makeup • lifestyle @iconmanagement.ie co-host of hold my drink podcast🎙✨ Shop EK Eyewear below⬇️
     location: "France"
-    followers: 126608
-    engagement: 352
-    commentsToLikes: 0.068470
-    id: ck8ta1iv8q3zj0j78ibnhlsh9
+    followers: 293521
+    engagement: 431
+    commentsToLikes: 0.030517
+    id: ck0w2y0dpqoho0i19uyvmvrcc
     verified: false
-    hashtags: "#sneakers, #sneakerhead, #hypebeast, #luxury"
-  - username: "m.i.s.t.e.r.ali"
+    hashtags: "#ad, #ba, #makeupartist, #elliekelly"
+  - username: "sosazerafa"
     fullname: >-
-      Aljosa Maksimovic
+      Sarah Zerafa - Fashion Inspo
     bio: >-
-      #misterali 😎 born with #style 👔 #fashion & #cigar lover
+      #fashion - #malta - #lifestyle ✨ *Award Winning Fashion Influencer 🇲🇹 🏆SMA Best Overall Content Creator 2021 💌sarahzerafa23@gmail.com
     location: "France"
-    followers: 7160
-    engagement: 1882
-    commentsToLikes: 0.114175
-    id: ck9hccn3uks2e0j7895p1wrmj
+    followers: 272565
+    engagement: 473
+    commentsToLikes: 0.039730
+    id: ck0tyvc8co7qb0i19cv0cph9x
     verified: false
-    hashtags: "#womensday, #cohiba, #accessories, #illy"
-  - username: "chlooe_grn"
+    hashtags: "#outfitinspo, #editorial, #styleinspo, #explore"
+  - username: "capucinerqllrt"
     fullname: >-
-      Chloé | 🕊
+      Capucine 🌞
     bio: >-
-      🎞 fashion & beauty ✉️ chlooegrn@gmail.com ma collection de chaussures ⤵️
+      Lille-Paris Passionate about fashion and travel ☁️ capucinerqllrtpro@gmail.com
     location: "France"
-    followers: 13027
-    engagement: 1827
-    commentsToLikes: 0.394311
-    id: ck5honc2ypvcc0i11dxq0i235
+    followers: 128371
+    engagement: 497
+    commentsToLikes: 0.046909
+    id: ckwzuvdikyf7h0j235yuyayod
     verified: false
-    hashtags: "#gift, #instagramgiveaway, #giveawaycontest, #concours"
-  - username: "sarahbkl_"
+    hashtags: "#browniegirls, #feelscollection, #primark, #workwithprimark"
+  - username: "itsbenbelkacem"
     fullname: >-
-      𝓢𝓪𝓻𝓪𝓱
+      روفيدة & اسراء
     bio: >-
-      lifestyle, fashion, beauty collab: saarahh76210@gmail.com ✉️ 📍Le havre
+      Sister blogging ✨ Fashion • lifestyle •baking • & More ~ . 📧 itsbenbelkacem@gmail.com
     location: "France"
-    followers: 7081
-    engagement: 1502
-    commentsToLikes: 0.113658
-    id: ck8tcp6ws05il0j78u4yqmosc
+    followers: 114078
+    engagement: 551
+    commentsToLikes: 0.023929
+    id: ck6ufvr6tzexz0j71e78h9cir
     verified: false
-    hashtags: "#lehavre, #discoverunder5k, #picoftheday, #discoverunder20k"
-  - username: "sisiangelove"
+    hashtags: "#outfits, #algeria, #hijab, #ootd"
+  - username: "peterpapapetrou1"
     fullname: >-
-      S I S I 🎀 | BLOGGER&DREAMER
+      Peter Papapetrou
     bio: >-
-      Travel • Fashion • Lifestyle 🌍Creator of #the12project2019 ✈️Exploring beautiful places around the world 📍Sofia, Bulgaria
+      Fashion Stylist,Style Expert 🧿 🇨🇦& 🇳🇱 Inquires: Roseanna@plutinogroup.com
     location: "France"
-    followers: 9746
-    engagement: 1490
-    commentsToLikes: 0.199851
-    id: ck9hbpabohvg00j782prd70tu
+    followers: 21950
+    engagement: 365
+    commentsToLikes: 0.126038
+    id: ck0vv40mnnfx80i194j6o0pew
     verified: false
-    hashtags: "#giveaway, #glutenfreebg, #bezglutenbulgaria, #balviten"
-  - username: "lo_beauuty"
+    hashtags: "#family, #stylist, #runway, #fashion"
+  - username: "romy"
     fullname: >-
-      L O R I N E
+      Romane, pour les intimes*
     bio: >-
-      Beauty Fashion & Dailylife Créatrice de contenu 📍Lorraine, FR ✉️ Lo.beauuty@gmail.com
+      + fashion, animals, skincare and icetea lover + Founder @glace.studio <3 + Tiktok 1,1M + Collab: romy@foll-ow.com
     location: "France"
-    followers: 7889
-    engagement: 1419
-    commentsToLikes: 0.538688
-    id: ck9wdw9wbhjt20j78jm4enyvg
-    verified: false
-    hashtags: "#autumnlook, #concoursinstagram, #beautybloggers, #giveaway"
-  - username: "realjoyceappia"
+    followers: 1579517
+    engagement: 298
+    commentsToLikes: 0.039484
+    id: ck137hymebn330i19kosyybke
+    verified: true
+    hashtags: "#clubglace, #gifting, #fashion, #giftmagic"
+  - username: "clea_lacy"
     fullname: >-
-      Fashion| Joyceappia 🇬🇭🇨🇮
+      𝒞𝓁𝑒𝒶-𝐿𝒶𝒸𝓎
     bio: >-
-      Making Social Media Real Again😉 Happiness Advocate 💖 @joyceappiatv Music| Fitness| Beauty| Fashion From 🇩🇪| 🔜📍USA PR: mgt.joceappia@gmail.com 📍UK/ US
+      Lifestyle ☼ Beauty ☼ Fashion ☼ Happiness Podcast: „It‘s a Matchday“ 🎤 ✉️ management@clealacy.de
     location: "France"
-    followers: 34792
-    engagement: 799
-    commentsToLikes: 0.059775
-    id: ck5zr3cyxvtgu0i14ve0jvyjt
-    verified: false
-    hashtags: ""
-  - username: "jodielapetitefrenchie"
+    followers: 408733
+    engagement: 180
+    commentsToLikes: 0.030109
+    id: ck0vx3rptwzsu0i19a14tnm1f
+    verified: true
+    hashtags: "#travel, #december, #nyc, #fashion"
+  - username: "angirechberger"
     fullname: >-
-      𝑱𝒐𝒅𝒊𝒆 𝒍𝒂 𝒑𝒆𝒕𝒊𝒕𝒆 𝒇𝒓𝒆𝒏𝒄𝒉𝒊𝒆
+      Angelina • Graz, Austria
     bio: >-
-      « A fashion lover à la française ♥ »  fashion, beauty, lifestyle ✉️ jodielapetitefrenchie.agent@gmail.com
+      Fashion • daily lifestyle • business Founder @thecasual.studio Photographer @angigraphy In love with M🤍
     location: "France"
-    followers: 460708
-    engagement: 789
-    commentsToLikes: 0.106693
-    id: ck0tt93px1ok80i1985juiutd
+    followers: 21219
+    engagement: 171
+    commentsToLikes: 0.004917
+    id: ckap03g36ojxp0i781qjie13h
     verified: false
-    hashtags: "#walkwithminelli, #minelli, #kaptenandson, #bekapten"
-  - username: "melissaswardrobe"
+    hashtags: "#happy, #photoshoot, #desenio, #love"
+  - username: "cynthiamadridx"
     fullname: >-
-      Melissa’s Wardrobe
+      Cynthia Madrid
     bio: >-
-      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
+      @FashionNova ambassador PR/ collabs 💌 Cynthiamadridx@gmail.com Wifey 💍 David M. Madrid
     location: "France"
-    followers: 183684
-    engagement: 784
-    commentsToLikes: 0.039895
-    id: ck0udxvovk7yj0i19uwfxckji
+    followers: 50219
+    engagement: 147
+    commentsToLikes: 0.129734
+    id: ck14lv0i9wmm80i19w1l7vnvz
     verified: false
-    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
+    hashtags: "#hermosa, #summeraesthetic, #fashionstyle, #bhfyp"
 ---

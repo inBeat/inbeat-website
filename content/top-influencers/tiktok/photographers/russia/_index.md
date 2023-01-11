@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Russia In 2022
+title: Top 10 Photographers TikTok Influencers In Russia In 2023
 description: >-
-  Find top photographers TikTok influencers in Russia in 2022. Most popular hashtags: #backstage #photographer #halloween.
+  Find top photographers TikTok influencers in Russia in 2023. Most popular hashtags: #backstage #photographer #christmas.
 platform: TikTok
 hits: 9
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in Russia for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 9 TikTok influencers like this in Russia for you to pitch.
 profiles:
   - username: "daennii"
     fullname: >-
@@ -13,69 +13,69 @@ profiles:
     bio: >-
       photographer inst: daennii 📹
     location: "Russia"
-    followers: 7111
-    engagement: 1604
-    commentsToLikes: 0.039230
+    followers: 8997
+    engagement: 1583
+    commentsToLikes: 0.054868
     id: ckb9lq3rdefv80j23nhkn0zff
     verified: false
-    hashtags: "#pov, #fyp, #netflix, #cinema"
+    hashtags: "#pov, #netflix"
   - username: "sofiakrigan"
     fullname: >-
       sofiakrigan
     bio: >-
       Photographer (Moscow, Saint-Petersburg), контент-фотограф
     location: "Russia"
-    followers: 14800
-    engagement: 465
-    commentsToLikes: 0.098173
+    followers: 15200
+    engagement: 808
+    commentsToLikes: 0.054012
     id: ckbfbjf323qts0j23osqez633
     verified: false
-    hashtags: "#backstage, #sweets, #dog, #animal"
-  - username: "olga_bazhutova"
-    fullname: >-
-      Ольга Бажутова
-    bio: >-
-      Конный фотограф. Москва. Equine photographer, Moscow. Email 8316035@gmail.com
-    location: "Russia"
-    followers: 156500
-    engagement: 1832
-    commentsToLikes: 0.005008
-    id: ckcui308lfww30j230astici1
-    verified: false
-    hashtags: "#fashion, #pferd, #photographer, #horsevideo"
+    hashtags: "#moscow, #christmas, #lego, #magic"
   - username: "uglygree"
     fullname: >-
       greed13
     bio: >-
       Photographer/cosplay/Travel Masha from Russia больше фото в Instagram
     location: "Russia"
-    followers: 23300
-    engagement: 1759
-    commentsToLikes: 0.008427
+    followers: 25800
+    engagement: 1297
+    commentsToLikes: 0.018334
     id: ckdnupds6nkoa0j235acgp938
     verified: false
-    hashtags: "#backstage, #kdacosplay, #cosplay, #kda"
+    hashtags: "#cosplayphoto, #backstage, #atackontitancosplay, #harleyivycosplay"
+  - username: "olga_bazhutova"
+    fullname: >-
+      Ольга Бажутова
+    bio: >-
+      Equine photographer. my Instagram @olga_bazhutova Email 8316035@gmail.com
+    location: "Russia"
+    followers: 690000
+    engagement: 1366
+    commentsToLikes: 0.004996
+    id: ckcui308lfww30j230astici1
+    verified: false
+    hashtags: "#backstage, #friesian, #horse, #horsevideo"
   - username: "ah_nadin_"
     fullname: >-
       ah_nadin
     bio: >-
       Professional food photographer and food lover ❤️ Rostov-on-Don,Russia.
     location: "Russia"
-    followers: 19500
-    engagement: 1474
-    commentsToLikes: 0.012471
+    followers: 21500
+    engagement: 1362
+    commentsToLikes: 0.016798
     id: ck900ylokb1m60j786q9pwgrj
     verified: false
-    hashtags: "#parisienne, #breakfastideas, #parisiennestyle, #inspo"
+    hashtags: "#lavieparisienne, #leparisien, #neutrals, #postitfortheaesthetics"
   - username: "anna_fury"
     fullname: >-
       Anna Fury
     bio: >-
-      Bootyful Photographer ✌🏼
+      Bootyful Photographer ✌🏼 @Anna_Fury
     location: "Russia"
-    followers: 67500
-    engagement: 455
-    commentsToLikes: 0.013142
+    followers: 94100
+    engagement: 623
+    commentsToLikes: 0.015064
     id: ckbal4lj8c3ib0j23dxilkmca
     verified: false
     hashtags: ""
@@ -85,34 +85,34 @@ profiles:
     bio: >-
       Photographer, traveler, baker. 🇦🇲 Based in London🇬🇧
     location: "Russia"
-    followers: 2013
-    engagement: 3313
-    commentsToLikes: 0.061809
+    followers: 1988
+    engagement: 3237
+    commentsToLikes: 0.061106
     id: ckb9cqmsezobd0j23gjcuhzfs
     verified: false
-    hashtags: "#foodie, #food, #recipe, #boredinthehouse"
+    hashtags: "#boredinthehouse, #food, #recipe, #tiktokfoodie"
   - username: "mikeimmortal"
     fullname: >-
       миша 😼
     bio: >-
-      inst: @mikeimmortal ☄️
+      inst: @mikeimmortal ☄️ twitch.com/mishamortal
     location: "Russia"
-    followers: 31400
-    engagement: 1836
-    commentsToLikes: 0.042272
+    followers: 33500
+    engagement: 1544
+    commentsToLikes: 0.042344
     id: cka6ak2jqwnzv0i780850ocin
     verified: false
-    hashtags: "#atla, #lok, #halloween, #victoriapedretti"
-  - username: "webdesigner.yulia"
+    hashtags: "#sophie, #lgbtq, #aesthetic, #hyperpop"
+  - username: "design.yum"
     fullname: >-
       Yulia 💫
     bio: >-
-      Веб-дизайн 👩🏽‍💻 Instа : webdesigner.yulia 💫
+      Веб-дизайн 👩🏽‍💻 Instа : design.yum 💫
     location: "Russia"
-    followers: 6740
-    engagement: 1081
-    commentsToLikes: 0.021775
+    followers: 18400
+    engagement: 861
+    commentsToLikes: 0.022564
     id: ckdi0qikk5o2b0j233hs06ban
     verified: false
-    hashtags: "#landing, #webdesigner, #illustration, #webdesign"
+    hashtags: "#webdesign, #webdesigner, #landing, #design"
 ---

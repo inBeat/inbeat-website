@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In South Korea In 2022
+title: Top 10 Makeup TikTok Influencers In South Korea In 2023
 description: >-
-  Find top makeup TikTok influencers in South Korea in 2022. Most popular hashtags: #makeup #fyp #halloween #pov.
+  Find top makeup TikTok influencers in South Korea in 2023. Most popular hashtags: #makeup #fyp #foryou #kbeauty.
 platform: TikTok
-hits: 46
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database has 46 TikTok influencers like this in South Korea for you to pitch.
+hits: 50
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 50 TikTok influencers like this in South Korea for you to contact.
 profiles:
+  - username: "johnstankazue"
+    fullname: >-
+      kazueeee
+    bio: >-
+      🇸🇬 Kpop/ Cosplay Cat dad 🐱 Makeup 💄 📩 : kazueeee@hotmail.com
+    location: "South Korea"
+    followers: 307300
+    engagement: 1842
+    commentsToLikes: 0.083187
+    id: ckbqhmuz82z4f0j23bxtmwmta
+    verified: true
+    hashtags: "#foryou, #fyp, #vlive, #kpopmakeup"
   - username: "aiden_parkk"
     fullname: >-
       Aiden_parkk
     bio: >-
       🇰🇷 Makeup Artist ❗️Instagram: aiden_parkk ⭐️Youtube: 에이든팍 AIDEN PARK
     location: "South Korea"
-    followers: 99400
-    engagement: 1075
-    commentsToLikes: 0.037834
+    followers: 207100
+    engagement: 922
+    commentsToLikes: 0.024429
     id: ck8qeitrssrx40j7812m66o60
     verified: false
-    hashtags: "#kbeauty, #makeupartist, #koreanskin, #makeup"
-  - username: "johnstankazue"
-    fullname: >-
-      kazueeee
-    bio: >-
-      Dark side of Kpop Pov Cat dad 🐱 Makeup 💄 📩 : kazueeee@hotmail.com
-    location: "South Korea"
-    followers: 310400
-    engagement: 1014
-    commentsToLikes: 0.070543
-    id: ckbqhmuz82z4f0j23bxtmwmta
-    verified: true
-    hashtags: "#foryou, #halloweenmakeup, #halloweenishere, #fyp"
+    hashtags: "#makeup, #kbeauty, #espoir, #toneupcushion"
   - username: "dkpark_makeup"
     fullname: >-
       박도경(David Park)
     bio: >-
       Makeup artist🇰🇷 📸instargram @dkpark_makeup
     location: "South Korea"
-    followers: 4637
-    engagement: 600
-    commentsToLikes: 0.059076
+    followers: 4583
+    engagement: 572
+    commentsToLikes: 0.058299
     id: ckb9elyzl29230j23m2ij3kqp
     verified: false
-    hashtags: "#eyedrawing, #eyemakeup, #makeup, #espoir"
+    hashtags: "#makeup, #koreanbeauty, #eyepalette, #eyedrawing"
   - username: "linefriendsofficial"
     fullname: >-
       I AM SALLY!!!!!
     bio: >-
       👇 [YouTube] Makeup Cover Full version
     location: "South Korea"
-    followers: 654200
-    engagement: 993
-    commentsToLikes: 0.011129
+    followers: 648500
+    engagement: 910
+    commentsToLikes: 0.008090
     id: ckb9bztulyiom0j23g6fbv4us
     verified: true
-    hashtags: "#duetwithsally, #sallyfriends, #louie, #cony"
-  - username: "yunji_kr"
+    hashtags: "#sally, #linefriends, #cony, #ari"
+  - username: "daye1014"
     fullname: >-
-      윤지
+      석다예 Daye
     bio: >-
-      🎨Blanchecrew(블랑쉬크루) 🎨Instagram : yunji_kr 🎨페이스북 : 장윤지 👇🏻동호&윤지 유튜브 계정!!👇🏻
+      01년생 대구 팬닉 : 💎 INSTAGRAM : daye1014
     location: "South Korea"
-    followers: 976500
-    engagement: 1299
-    commentsToLikes: 0.028848
-    id: ck9nq8y452lbd0j78p0cuham5
+    followers: 1200000
+    engagement: 1112
+    commentsToLikes: 0.028978
+    id: ckbvzmz6rvinz0j231xnh2ovl
     verified: true
-    hashtags: "#foryou, #fyp, #makeup, #doityourselfchallenge"
+    hashtags: "#foryou, #makeup, #fyp, #fashion"
+  - username: "angela_ju"
+    fullname: >-
+      영주
+    bio: >-
+      🇰🇷2004.12.19 18살 문의는 DM!!🤩
+    location: "South Korea"
+    followers: 61100
+    engagement: 870
+    commentsToLikes: 0.073751
+    id: ckbr4f6mgkl2j0j23h449fsja
+    verified: false
+    hashtags: "#03, #foryoupage, #makeup, #04"
+  - username: "simplystephanie_r"
+    fullname: >-
+      Stephanie Rivera
+    bio: >-
+      𝑊𝑖𝑓𝑒•𝑀𝑜𝑚•𝑀𝑎𝑘𝑒𝑢𝑝 𝐿𝑜𝑣𝑒𝑟 𝑈𝑆𝐴𝐹•𝐴𝑐𝑓𝑡 𝑀𝑎𝑖𝑛𝑡𝑎𝑖𝑛𝑒𝑟
+    location: "South Korea"
+    followers: 21900
+    engagement: 1181
+    commentsToLikes: 0.160415
+    id: ckculyjsdhgl50j237phd7bwa
+    verified: false
+    hashtags: "#beauty, #beforeandafter, #makeup, #fyp"
   - username: "matiland_mati"
     fullname: >-
       마티랜드🐰마티🐰
     bio: >-
-      🇰🇷Korean🇰🇷 🐰마티랜드에 오신 손님들 반가워요🐰 🐰팬애칭 손님🐰 💖🖤👇다이어트 QnA👇💖🖤
+      🇰🇷Korean🇰🇷 🐰마티랜드에 오신 손님들 반가워요🐰 🐰팬애칭 손님🐰 💖🖤👇마티 굿즈 구경가기👇💖🖤
     location: "South Korea"
-    followers: 2000000
-    engagement: 1169
-    commentsToLikes: 0.019248
+    followers: 2200000
+    engagement: 1126
+    commentsToLikes: 0.016635
     id: ckbf2rsj5py0g0j23qndzvvta
     verified: true
-    hashtags: "#pov, #fyp, #halloween, #makeup"
-  - username: "alslalsl4231"
+    hashtags: "#pov, #trend, #fyp, #mati"
+  - username: "nofunkim"
     fullname: >-
-      🖤MINI싸부🖤
+      NOFUNKIM
     bio: >-
-      🌟liber 크루🌟 언니,누나 답글❌(반모자제외) 🥋태권도 사범님 사랑스런 제자들🥋 크록하.태권도 이외 다양한 컨텐츠 당신말투 제 말투
+      Founder of EYE’M LASHES Collab or Business : rla6032@gmail.com
     location: "South Korea"
-    followers: 61200
-    engagement: 969
-    commentsToLikes: 0.108946
-    id: ck8kn2tevbdqq0j789xrhlil2
+    followers: 46600
+    engagement: 620
+    commentsToLikes: 0.032613
+    id: ckbqi9fb23hv40j23e4gse7ff
     verified: false
-    hashtags: "#liber, #makeup, #pov, #step"
-  - username: "ji_won96"
+    hashtags: "#kpop, #koreanmakeup, #korean, #makeuptutorials"
+  - username: "cho.jiiii"
     fullname: >-
-      🤎됴니🐿_ jiwon
+      LUV, CHOJI 조지
     bio: >-
-      ᴅᴇʟɪɢʜᴛ ᴄʀᴇᴡ✨ Korean🇰🇷 팬애칭: 됴토리 🐿 Everyone watching this video is my Tory🐿
+      youtube luv, choji / contact 💌 instagram DM 🔻my new video
     location: "South Korea"
-    followers: 189600
-    engagement: 827
-    commentsToLikes: 0.070494
-    id: ckbqnyriq8oxw0j23ylo8kxhd
+    followers: 370800
+    engagement: 1006
+    commentsToLikes: 0.011712
+    id: ck9jyyttz6kxh0j78pkwan12e
     verified: false
-    hashtags: "#fyp, #makeup, #hairstyle, #style"
-  - username: "zon_kis"
-    fullname: >-
-      죵키 Jongkey🇰🇷
-    bio: >-
-      XXXXX Project 💄Beauty Creator 뷰티크리에이터 IG：zon_kis novsent@naver.com
-    location: "South Korea"
-    followers: 3000000
-    engagement: 1361
-    commentsToLikes: 0.014261
-    id: ck83ysu5zvew50j78ydohgxlq
-    verified: true
-    hashtags: "#videoapp, #korean, #makeup, #hallowwenmakeup"
-  - username: "ringring_417"
-    fullname: >-
-      린
-    bio: >-
-      instargram @kimtaerini weibo TAERIN0417
-    location: "South Korea"
-    followers: 343400
-    engagement: 751
-    commentsToLikes: 0.026240
-    id: ck9f22akcb5uu0j78hek058qi
-    verified: false
-    hashtags: "#facezooming, #ootd, #fyp, #cosmetics"
+    hashtags: "#makeup, #dailymakeup, #asianbeauty, #abg"
 ---

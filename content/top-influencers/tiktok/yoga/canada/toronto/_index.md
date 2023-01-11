@@ -1,84 +1,96 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Toronto In 2022
+title: Top 10 Yoga TikTok Influencers In Toronto In 2023
 description: >-
-  Find top yoga TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #yoga #funny #foryou.
+  Find top yoga TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #yoga #foryou #foryoupage.
 platform: TikTok
 hits: 8
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Toronto, Canada for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 8 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "blogto"
+  - username: "lindsaynorriss"
     fullname: >-
-      blogTO
+      lindsay norris
     bio: >-
-      Toronto’s source for local news and culture, restaurant reviews and events.
+      Canadian traveler 🗺 Toronto, ON ➡️ Squamish, BC Instagram: Lindsaynorris
     location: "Canada"
-    followers: 229200
-    engagement: 1002
-    commentsToLikes: 0.019921
-    id: ck8f7ugfk36y30j78le9qyu9f
-    verified: true
-    hashtags: "#funny, #fy, #canada, #ontario"
+    followers: 6001
+    engagement: 1758
+    commentsToLikes: 0.008054
+    id: ck9k8irx799350j78zj7eeazp
+    verified: false
+    hashtags: "#shareyourplaylist, #lonelychair, #britishcolombia, #britishcolumbia"
   - username: "moregaycontent"
     fullname: >-
       SG and Jules
     bio: >-
       Toronto 🇨🇦🤙🏼🌈
     location: "Canada"
-    followers: 66400
-    engagement: 1116
-    commentsToLikes: 0.004715
+    followers: 67500
+    engagement: 1113
+    commentsToLikes: 0.004514
     id: ckb9jp89qb2q30j23rbolpa4d
     verified: false
-    hashtags: "#mypride, #gay, #lesbian, #foryoupage"
-  - username: "hadjmamadou"
+    hashtags: "#lesbiancouple, #lgbtq, #funny, #gay"
+  - username: "livefitwithjess"
     fullname: >-
-      HaadjMamadou
+      Livefitwithjess
     bio: >-
-      live in Canada🇨🇦 from guinea🇬🇳 +1(514)561-5756
+      🇨🇿+ 🇯🇵 = me 👼🏻 21 • 5’5” everyone asks lol ⬇️ NEW FITNESS PLAN ⬇️
     location: "Canada"
-    followers: 6153
-    engagement: 1821
-    commentsToLikes: 0.025858
-    id: ckbf4eh8mssfm0j23ip9nlewe
+    followers: 297600
+    engagement: 860
+    commentsToLikes: 0.026898
+    id: ckb9sq22cq8f30j238fn23tgj
     verified: false
-    hashtags: "#pageforyou, #fyp, #toronto, #yes"
+    hashtags: "#friendlyfuture, #fyp, #ad, #tiktokggt"
+  - username: "nicolemanteiga"
+    fullname: >-
+      nicooo
+    bio: >-
+      vibin - ⚡️ meaning in the mundane. creativity in the circumstance ✨🌞 🌝 🦋
+    location: "Canada"
+    followers: 12400
+    engagement: 924
+    commentsToLikes: 0.142645
+    id: ck9k6bsqz04b60j78a6qqzeap
+    verified: false
+    hashtags: "#comedy, #fyp, #couple, #spiritual"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
     bio: >-
       43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3139
-    engagement: 653
-    commentsToLikes: 0.084134
+    followers: 3120
+    engagement: 620
+    commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#yoga, #foryou, #travel, #foryoupage"
-  - username: "dajahraiii"
+    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+  - username: "thefitfatale"
     fullname: >-
-      IG @dajahraiii ✨
+      Samantha Cutler
     bio: >-
-      She/Her ✨I hate libras’ and men✨ 19 🇨🇦🇯🇲🇬🇾
+      What I eat, wear & do to chill TFO😏 Founder, Pro-Creator & Meditation Guide
     location: "Canada"
-    followers: 20000
-    engagement: 1980
-    commentsToLikes: 0.026849
-    id: ckc7qzvq8wcfj0j233tgopa88
+    followers: 19100
+    engagement: 463
+    commentsToLikes: 0.035877
+    id: ckbeym7goj4a40j238zex4lon
     verified: false
-    hashtags: "#canadianuniversities, #twoprettybessfrens, #uoft, #foryou"
-  - username: "mayobros"
+    hashtags: "#ootd, #selflove, #mindset, #canada"
+  - username: "jel.bel"
     fullname: >-
-      John and Brad
+      Anjelika Reznik
     bio: >-
-      We’ll teach you to be fit and flexible! Link below with a video with more info!
+      ✨ olympic gymnast ✨ follow my instagram: TwinyRez 👇🏼
     location: "Canada"
-    followers: 618700
-    engagement: 1718
-    commentsToLikes: 0.009820
-    id: ck806y32qmz7i0j78c1ni1arg
+    followers: 103400
+    engagement: 1039
+    commentsToLikes: 0.045790
+    id: ck8z9duwhxoop0j7840g9p41s
     verified: false
-    hashtags: "#fail, #workout, #tiktokcanada, #cold"
+    hashtags: "#thankstoher, #acro, #ballet, #splits"
   - username: "domvallie"
     fullname: >-
       DOM VALLIE
@@ -90,19 +102,7 @@ profiles:
     commentsToLikes: 0.019897
     id: cka8fno7o32fn0i78grk6si02
     verified: false
-    hashtags: "#foryou, #rapper, #duet, #splashfreestylechallenge"
-  - username: "lindsaynorris8"
-    fullname: >-
-      lindsay norris
-    bio: >-
-      Canadian traveler 🌍 Instagram: Lindsaynorriss
-    location: "Canada"
-    followers: 6075
-    engagement: 1054
-    commentsToLikes: 0.022524
-    id: ck9k8irx799350j78zj7eeazp
-    verified: false
-    hashtags: "#tiktoktravel, #funny, #britishcolumbia, #bestfandom"
+    hashtags: "#splashfreestylechallenge, #splashchallenge, #freestyle, #fyp"
   - username: "lynnettemermaid"
     fullname: >-
       Lynnette Mermaid
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.078295
     id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
+    hashtags: "#poem, #flexible, #swimsuit, #swimsuitmodel"
   - username: "jeanne.athleticyogi"
     fullname: >-
       jeanne dube
     bio: >-
       Fitness instructor 🔥 Yoga teacher 🙏 Instagram: jeanne.athleticyogi
     location: "Canada"
-    followers: 32100
-    engagement: 668
-    commentsToLikes: 0.007166
+    followers: 33000
+    engagement: 622
+    commentsToLikes: 0.007332
     id: ckcjk7zsqds6n0j23goq3o0h4
     verified: false
-    hashtags: "#trainer, #homegym, #summerworkout, #workout"
+    hashtags: "#workout, #foryourpage, #homegym, #fitness"
 ---

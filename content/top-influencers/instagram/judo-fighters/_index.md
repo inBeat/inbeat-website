@@ -1,21 +1,21 @@
 ---
-title: Top 10 Judo Fighters Instagram Influencers In 2022
+title: Top 10 Judo Fighters Instagram Influencers In 2023
 description: >-
-  Find top judo fighters Instagram influencers in 2022. Most popular hashtags: #judo #judobelarusteam #ippongear #kukoljteam.
+  Find top judo fighters Instagram influencers in 2023. Most popular hashtags: #judo #aleksandarkukolj #teamby.
 platform: Instagram
 hits: 3
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 3 Instagram influencers like this for you to connect with.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 3 Instagram influencers like this for you to contact.
 profiles:
   - username: "ismailbelgaid"
     fullname: >-
       Ismail 'SOSA' Belgaid
     bio: >-
-      Africain Champion U21 World Arabe Champion U21 Judo fighter 90kg Moroccan National Team Next Models - NYC/LONDON/PARIS Agent: Gaspard@nextmodels.com
+      Judo fighter 90kg Moroccan National Team Agent: Gaspard@nextmodels.com #CestLhommeQuiaPeurSinonYaR
     location: "France"
-    followers: 15934
-    engagement: 1021
-    commentsToLikes: 0.024921
+    followers: 15724
+    engagement: 1030
+    commentsToLikes: 0.021379
     id: ck5zrnjxuwx050i14zyc93qzf
     verified: false
     hashtags: "#sale, #brentchua"
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       🥋 Belarusian Judo Fighter -100kg 🇪🇺 Vice European Champion U23🥈🥈 🌏 World&Europe U21🥉🥉🥉 🏆 Grand Prix🥈🥉 🌐 European Open🥇🥉🥉 💎 Sponsor @ippongear_official
     location: "Russia"
-    followers: 10360
-    engagement: 878
-    commentsToLikes: 0.021468
+    followers: 10690
+    engagement: 971
+    commentsToLikes: 0.019858
     id: ckap6ypvohx4m0i78s3kdj27r
     verified: false
-    hashtags: "#judoka, #teamby, #ippongear, #judoinside"
+    hashtags: "#judobelarusteam, #olympicbelarus, #judoinside, #judoka"
   - username: "aleksandar.kukolj"
     fullname: >-
       Aleksandar Kukolj ®
@@ -42,5 +42,5 @@ profiles:
     commentsToLikes: 0.007974
     id: ckap9fwu2sifn0i784aevaycc
     verified: true
-    hashtags: "#aleksandarkukolj, #judo, #kukoljteam, #with"
+    hashtags: "#kukoljteam, #judo, #aleksandarkukolj, #anniversary"
 ---

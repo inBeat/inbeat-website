@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Switzerland In 2022
+title: Top 10 Cosmetics Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #cosmetics #fashion #blogger.
+  Find top cosmetics Instagram influencers in Switzerland in 2023. Most popular hashtags: #nyxcosmetics #giveaway #lifestyle #swissinfluencer.
 platform: Instagram
-hits: 20
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 20 Instagram influencers like this in Switzerland for you to connect with.
+hits: 8
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "travelwithaga"
     fullname: >-
@@ -13,118 +13,94 @@ profiles:
     bio: >-
       Team lead for the Swiss Market @douglas_cosmetics 💝 Travel Lover & Content creator ~ Shop my presets
     location: "Switzerland"
-    followers: 77418
-    engagement: 130
-    commentsToLikes: 0.176528
+    followers: 74042
+    engagement: 145
+    commentsToLikes: 0.157378
     id: ck8t110rwu2l70j78n1wijygy
     verified: false
-    hashtags: "#nycphotography, #beautifuldestinations, #ig, #explorerbabes"
-  - username: "mirjana__mija"
-    fullname: >-
-      Mira-Mija
-    bio: >-
-      ⚜️Glücklich verheiratet 👨‍👩‍👧‍👦💍 ⚜️Beauty&Fashion ⚜️My life 📍Zürich 📨Mirjanamilosavljevic06@hotmail.com
-    location: "Switzerland"
-    followers: 8145
-    engagement: 914
-    commentsToLikes: 0.117596
-    id: ck8td6up624t90j78jxw1bdqq
-    verified: false
-    hashtags: "#selfietime, #carmushka, #hanover, #pictureoftheday"
-  - username: "lovicphoto"
-    fullname: >-
-      Beauty Photography
-    bio: >-
-      𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 📸 #𝗺𝘂𝗮𝗴𝗿𝗮𝗽𝗵𝗲𝗿 🇧🇦🇨🇭🇺🇸 📍 Zurich & Belgrade ♥ 𝗕𝗲𝗮𝘂𝘁𝘆 𝗶𝘀 𝗺𝘆 𝗽𝗮𝘀𝘀𝗶𝗼𝗻✨ 𝗕𝗼𝗼𝗸 𝘆𝗼𝘂𝗿 𝗣𝗮𝗰𝗸𝗮𝗴𝗲 𝗛𝗘𝗥𝗘⤵️
-    location: "Switzerland"
-    followers: 3933
-    engagement: 324
-    commentsToLikes: 0.030199
-    id: ck0w3m5uvu41a0i198jue7c2q
-    verified: false
-    hashtags: "#biccizfam, #makeupaddict, #macpro, #lovicphoto"
+    hashtags: "#jetsetter, #travelnow, #beautifuldestinations, #neverstopexploring"
   - username: "officialbiljana"
     fullname: >-
       | B I L J A N A |
     bio: >-
-      🇷🇸 🇨🇭 🔧 @dks.performance 🧽 @car_care_king #teamkimon Shootings or Collaboration DM 📥
+      🇷🇸 🇨🇭 🔧 @dks.performance @xtuning.ch 🧽 @car_care_king @ewocar_schweiz 👚 @bixair.clothing 🚘 Monsungrey A3 #teamkimon Shootings or Collaboration DM 📥
     location: "Switzerland"
-    followers: 20375
-    engagement: 1086
-    commentsToLikes: 0.013574
+    followers: 28382
+    engagement: 1461
+    commentsToLikes: 0.010511
     id: ck5q03cpe41jp0i110o7kf052
     verified: false
-    hashtags: "#borbetwheels, #bmwm2competition, #behappy, #bmwcarporn"
-  - username: "andreiajessica"
+    hashtags: "#makeupgoals, #swissdesign, #borbetby, #audirs3"
+  - username: "juliehornelips"
     fullname: >-
-      jessica 🍁
+      JULIE HORNE ACADEMY
     bio: >-
-      ❥ 24 years old👩🏻‍🎓 ❥ geneva, switzerland🇨🇭 ❥ andreia.j.mode@gmail.com 💌 ❥ “une vie de chien”🖋
+      LIP EXPERT 💉💋 INTERNATIONAL TRAINER & SPEAKER ▪️Founder of JULIE HORNE ACADEMY & Co-founder of SWISS AESTHETIC INSTITUTE
     location: "Switzerland"
-    followers: 30453
-    engagement: 430
-    commentsToLikes: 0.340160
-    id: ck5bzfwd9r2710i11kw9xfqsv
+    followers: 140125
+    engagement: 207
+    commentsToLikes: 0.080883
+    id: ck14jzksbmyvm0i19vvhmsans
     verified: false
-    hashtags: "#styleinfluencer, #swissgirl, #90svintage, #fashionaddict"
-  - username: "kerstincook"
+    hashtags: "#lipaugmentation, #naturallips, #lips, #aesthetics"
+  - username: "patricia.cori.na"
     fullname: >-
-      🖤𝓀𝑒𝓇𝓈𝓉𝒾𝓃 𝒸𝑜𝑜𝓀🖤
+      𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
     bio: >-
-      english 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and swiss 🇨🇭 Model/ Ambassador/ Host Schweizer Tierschutz STS Helper 🐶🌳🌿🌸👨‍👩‍👧‍👦 📧 booking@kerstincook.ch
+      BEAUTY | CREATIVITY | FASHION Swiss Blogger - Content Creator 🇨🇭 Professional Makeup Artist Founder @daisysaccessoires Blog since 2012↓
     location: "Switzerland"
-    followers: 42502
-    engagement: 160
-    commentsToLikes: 0.037569
-    id: ckap5tkbnd3u20i78z2b0edjz
-    verified: true
-    hashtags: "#werbung, #curves, #honeyblonde, #walkingshoes"
-  - username: "shazna_ilham"
-    fullname: >-
-      🇨🇭Shazna
-    bio: >-
-      Digital Content Creator Basel - Switzerland roots 🇱🇰 Founder of @la.oud mom of Liyanah & Zoha 💍 to @pyaarkitchen info@shaznailham.com
-    location: "Switzerland"
-    followers: 30014
-    engagement: 759
-    commentsToLikes: 0.135515
-    id: ck6tio193135z0j71bdk1mi3n
+    followers: 23172
+    engagement: 413
+    commentsToLikes: 0.133008
+    id: ck5znr6vtp0550i14nyiskvyh
     verified: false
-    hashtags: "#baselblogger, #livinginswitzerland, #hudabeauty, #ootd"
-  - username: "rachel_momblogger_reallife"
+    hashtags: "#beautycreations, #muasofinstagram, #win, #verlosung"
+  - username: "slayedbyonik"
     fullname: >-
-      ✷  🇨🇭 𝑅𝒶𝒸𝒽𝑒𝓁  🇨🇭 ✷
+      Slayed by Onik
     bio: >-
-      🤍 𝑅𝑒𝓏𝑒𝓅𝓉𝑒, 𝐿𝑜𝓌 𝒞𝒶𝓇𝒷, 𝐵𝒶𝓈𝒾𝓈𝒸𝒽 🤍 𝐵𝑒𝒶𝓊𝓉𝓎, 𝒯𝓇𝒶𝓋𝑒𝓁, 𝓓𝓮𝓴𝓸 🤍 𝒯𝓇𝒶𝓊𝓂𝒽♡𝒸𝒽𝓏𝑒𝒾𝓉 𝒶𝓂: 16.08.21 𝒾𝓃 𝒦𝑜𝓈 / 𝒢𝓇𝒾𝑒𝒸𝒽𝑒𝓃𝓁𝒶𝓃𝒹
+      MAKE UP MASTER
     location: "Switzerland"
-    followers: 15007
-    engagement: 325
-    commentsToLikes: 0.099190
-    id: ckap44win5utr0i78btip7xpt
+    followers: 32248
+    engagement: 2296
+    commentsToLikes: 0.025707
+    id: ck5hqxshutwz60i11sw68rrdm
     verified: false
-    hashtags: "#shooting, #me, #familytime, #homedecor"
-  - username: "jonny__fischer"
+    hashtags: "#mua, #makeupartist, #zurich, #makeup"
+  - username: "carina.raquel_"
     fullname: >-
-      Jonny Fischer
+      Carina Raquel
     bio: >-
-      Comedian @cabaretdivertimento 🎭 CEO @zenmove_official 💪🏽
+      🤎Fashion-beauty & travel lover 👼🏽Girl mama ✌🏽Be positive! Be cool! Be yourself! 📍Based in Switzerland
     location: "Switzerland"
-    followers: 73613
-    engagement: 752
-    commentsToLikes: 0.018006
-    id: ck6trmkkkzutq0j712z7rbuoq
-    verified: true
-    hashtags: "#relax, #gaycouple, #capetown, #stayathome"
-  - username: "quentindecaillet"
-    fullname: >-
-      Quentin Decaillet Photographer
-    bio: >-
-      #PHOTOGRAPHER 🔥 #Beauty & #StillLife 📍🇨🇭🏔 💌 Rates & bookings: info@quentindecaillet.com ✨@CaptureOnePro & @Elinchrom_ltd ambassador
-    location: "Switzerland"
-    followers: 23449
-    engagement: 313
-    commentsToLikes: 0.024799
-    id: ck5pydesfvh5p0i119ygd47nm
+    followers: 8569
+    engagement: 639
+    commentsToLikes: 0.226045
+    id: ckf5vrwhzppp20j23k0eaxt69
     verified: false
-    hashtags: "#stilllife, #portrait, #photography, #nikon"
+    hashtags: "#swissfashionblog, #concourssuisse, #igerssuisse, #noel2020"
+  - username: "amorrealbeauty"
+    fullname: >-
+      Melanie ✨
+    bio: >-
+      💄Makeup & Beauty Content 🌴German with peruvian roots 📍 Switzerland 💌 amorrealbeauty@hotmail.com or DM
+    location: "Switzerland"
+    followers: 4470
+    engagement: 797
+    commentsToLikes: 0.355898
+    id: ck5hfog4lyhj10i11067kqkhc
+    verified: false
+    hashtags: "#blazin, #nudelip, #ofrahighlighter, #blueglitter"
+  - username: "_nadezzhdaa"
+    fullname: >-
+      ʟᴜɢᴀɴᴏ 🌸 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 & 𝑭𝒂𝒔𝒉𝒊𝒐𝒏
+    bio: >-
+      🇧🇬 𝑩𝒖𝒍𝒈𝒂𝒓𝒂 📍 𝑳𝒖𝒈𝒂𝒏𝒐🇨🇭🇮🇹 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐨𝐫/𝐌𝐚𝐧𝐚𝐠𝐞𝐫 @luxurydentbg @luxurydent_italian 🌸 𝒟𝓇𝑒𝒶𝓂 𝒫𝓇𝒶𝓎 𝐼𝓂𝓅𝓇𝑜𝓋𝑒 🌸
+    location: "Switzerland"
+    followers: 2613
+    engagement: 716
+    commentsToLikes: 0.112089
+    id: ck9wos4if6do70j78vu66vack
+    verified: false
+    hashtags: "#lifestyle, #mykonosgreece, #tramontosulmare, #mykonosisland"
 ---

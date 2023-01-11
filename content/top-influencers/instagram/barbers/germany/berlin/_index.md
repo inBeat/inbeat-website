@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Berlin In 2022
+title: Top 10 Barbers Instagram Influencers In Berlin In 2023
 description: >-
-  Find top barbers Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #barber #hamburg #frankfurt.
+  Find top barbers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #barber #beard #instagood.
 platform: Instagram
 hits: 12
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Berlin, Germany for you to pitch.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "nurii_b"
-    fullname: >-
-      𝖓𝖚𝖗𝖎•𝕭
-    bio: >-
-      ๏ 80s HAIR STYLIST / 📍🇩🇪 📩Termine auf Anfrage 👨🏾‍🎨Seminare/ Anfragen Per Dm 📩
-    location: "Germany"
-    followers: 45865
-    engagement: 460
-    commentsToLikes: 0.013582
-    id: ck5bw5ebgl14i0i11fzmp539z
-    verified: false
-    hashtags: "#moers, #duisburg, #hairstylist, #newyorkcity"
-  - username: "feliecio"
-    fullname: >-
-      feliecio 🇩🇪🇪🇸
-    bio: >-
-      Affiliate Link FASHION 📍 BLN
-    location: "Germany"
-    followers: 176662
-    engagement: 110
-    commentsToLikes: 0.074312
-    id: ck5ciiayxsozu0i11y113mg73
-    verified: false
-    hashtags: "#highfashionmen, #bochum, #leipzig, #balenciagatriples"
   - username: "k.d.bln"
     fullname: >-
       KAI
     bio: >-
-      📍 | Berlin, Germany | 34 y.o. 🎓 | MBA European Management (Finance) 💪🏻 | MyProtein & FitBit athlete 💼 | Entrepreneur & Economist 🗣 | 🇩🇪🇬🇧🇳🇱
+      📍 | Berlin, Germany | 35 y.o. 🎓 | MBA European Management (Finance) 💪🏻 | MyProtein & FitBit athlete 💼 | Entrepreneur & Economist 🗣 | 🇩🇪🇬🇧🇳🇱
     location: "Germany"
-    followers: 47743
-    engagement: 474
-    commentsToLikes: 0.011809
+    followers: 50946
+    engagement: 498
+    commentsToLikes: 0.010579
     id: ck8td75il26640j78syq3wfp0
     verified: false
-    hashtags: "#picoftheday, #beardedmen, #sun, #hairychest"
-  - username: "simoneklimmeck"
+    hashtags: "#picoftheday, #instagood, #muscle, #gymshark"
+  - username: "marvinknoll5"
     fullname: >-
-      S I M O N E  K L I M M E C K
+      Marvin Knoll
     bio: >-
-      Berlin - @chrom__6 books closed / no dm booking@simoneklimmeck.com @barberdts_de pro team
+      ~Welcome to My Official Instagram Page ~Player for @fcstpauli ⚽️ 📍Hamburg / Berlin 🇩🇪
     location: "Germany"
-    followers: 76059
-    engagement: 501
-    commentsToLikes: 0.006119
-    id: ck5bz7ejoql3x0i11gvyfeh4b
-    verified: false
-    hashtags: ""
-  - username: "ricke_boss"
-    fullname: >-
-      🦊إدوار_ كروغر 🦊
-    bio: >-
-      🐾DEUTSCHLAND (LEIPZIG) 🇩🇪 🐾MODEL (PHOTO)🤳🏼🕶 🐾26 Y. O. 🔞 🐾BLOGGER 🎬 🐾HAIRDRESSER-BARBER💈 🐾PHOTOGRAPHY 📷 🐾🏳️‍🌈 🇪🇸 🇺🇸 🇩🇪 🇷🇺
-    location: "Germany"
-    followers: 24863
-    engagement: 339
-    commentsToLikes: 0.041073
-    id: ckap0mphtqz5d0i785bpwngy3
-    verified: false
-    hashtags: "#gay, #iphone, #mask, #likesforlike"
-  - username: "freshprince.thebarber"
-    fullname: >-
-      👑 𝐅𝐑𝐄𝐒𝐇 𝐏𝐑𝐈𝐍𝐂𝐄 𝐓𝐇𝐄 𝐁𝐀𝐑𝐁𝐄𝐑💈
-    bio: >-
-      𝒟𝑜𝓃‘𝓉 𝒻𝑜𝓁𝓁𝑜𝓌 𝓂𝑒, 𝒻𝑜𝓁𝓁𝑜𝓌 𝒥𝑒𝓈𝓊𝓈. International Master Barber 🇬🇭 🇩🇪 Educator & Trainer @wahlprogermany @wahlpro
-    location: "Germany"
-    followers: 22365
-    engagement: 495
-    commentsToLikes: 0.014392
-    id: ck0vzbb0l88wg0i19ciz96qal
-    verified: false
-    hashtags: "#curlstwists, #bundesliga, #blessed, #cornrow"
+    followers: 16976
+    engagement: 1609
+    commentsToLikes: 0.028767
+    id: ck0u9hwzb9x3j0i19mkrqq2zl
+    verified: true
+    hashtags: "#heimsieg, #fussball, #me, #fashion"
   - username: "muhammedyue"
     fullname: >-
       Muhammed | Kiel | GoodLifeCrew
     bio: >-
       Snapchat : muhammedyue 👻 YouTuber : GoodLifeCrew 🎥
     location: "Germany"
-    followers: 18098
-    engagement: 1225
-    commentsToLikes: 0.029465
+    followers: 17065
+    engagement: 1359
+    commentsToLikes: 0.029772
     id: ck14hcljb9n7u0i1952k4qqo5
     verified: false
-    hashtags: "#berlin, #deutschememes, #ootd, #sketch"
-  - username: "lealiaa"
+    hashtags: "#comedy, #lustig, #ootd, #hamburg"
+  - username: "marcel_ehmke"
     fullname: >-
-      Lea 🦋
+      Marcel Ehmke
     bio: >-
-      🦁🐯 FASHION | HAIR | FOOD 💕Hamburg|Düsseldorf ✉️ lealiaacollab@gmx.de
+      • FASHION • MODEL • PROJEKT- & EVENTMANAGER
     location: "Germany"
-    followers: 15359
-    engagement: 1010
-    commentsToLikes: 0.070448
-    id: ck134xpkaypd10i193u4x17so
+    followers: 10290
+    engagement: 472
+    commentsToLikes: 0.024507
+    id: ck0w4sdw706g30i19fmr8o6dg
     verified: false
-    hashtags: "#modernsalon, #blonde, #curls, #ourportraitdays"
-  - username: "lil_monster_cat_"
+    hashtags: "#gayboy, #gaypride, #eaudeparfum, #gayscruff"
+  - username: "nurii_b"
     fullname: >-
-      Vali
+      𝖓𝖚𝖗𝖎•𝕭
     bio: >-
-      I want to inspire women to be themselves and feel good about it🇮🇹 ☆ tattooartist @salty_inkcat Dm me for collaboration 💯
+      ๏ 80s HAIR STYLIST / 📍🇩🇪 📩Termine auf Anfrage 👨🏾‍🎨Seminare/ Anfragen Per Dm 📩
     location: "Germany"
-    followers: 16607
-    engagement: 435
-    commentsToLikes: 0.057738
-    id: ck6tjfs662mte0j71y9rfn8h2
+    followers: 46133
+    engagement: 441
+    commentsToLikes: 0.016751
+    id: ck5bw5ebgl14i0i11fzmp539z
     verified: false
-    hashtags: "#crazytattoos, #wildekatze, #inkedgirl, #smilinggirl"
-  - username: "eric_skupien"
+    hashtags: "#du, #berlin, #essencity, #istanbul"
+  - username: "yunus.8.8"
     fullname: >-
-      𝙀𝙧𝙞𝙘 𝙎𝙠𝙪𝙥𝙞𝙚𝙣 ⭐️
+      Soldat/ Sportler
     bio: >-
-      📍Stralsund, Germany 🏋🏻‍♂️ Natural Bodybuilding ➡️ supported by @vitalbodyplus
+      ❌Privat Account❌ 🇩🇪#bundeswehr 🇩🇪#soldier #motivation Spare 15% beim @oatking Link RABATTCODE : ⬇️ oder nutze Yunus15
     location: "Germany"
-    followers: 20475
-    engagement: 433
-    commentsToLikes: 0.048741
-    id: ck9hamyybd5vy0j78zic2qawl
+    followers: 3402
+    engagement: 683
+    commentsToLikes: 0.115549
+    id: ck8t3j1783f6g0j78f3bioa8b
     verified: false
-    hashtags: "#fitness, #traveltheworld, #menshealth, #smileeveryday"
+    hashtags: "#menstyle, #fitfm, #beautiful, #instalike"
+  - username: "beatseb"
+    fullname: >-
+      Sebastian
+    bio: >-
+      Be the best version of yourself Travel & Fitness addicted guy Creating life with @corihueb 📍 Köln, Germany
+    location: "Germany"
+    followers: 131637
+    engagement: 540
+    commentsToLikes: 0.016096
+    id: ck13avw1ssg9c0i19j1gac348
+    verified: false
+    hashtags: "#beardstyle, #fitness, #bart, #frankfurt"
+  - username: "chynacut"
+    fullname: >-
+      Chyna Cut Salon
+    bio: >-
+      ▫️Cut ▫️Color ▫️Balayage ▫️Extensions 📞0611 / 36092002 📧info@chynacut.de @chynabeaute @chynawhytebar @chynacut.solingen
+    location: "Germany"
+    followers: 5254
+    engagement: 232
+    commentsToLikes: 0.017161
+    id: ck5c635nk4mdt0i118bzxqlu9
+    verified: false
+    hashtags: "#newshahaircare, #balayage, #hairgoals, #longhair"
+  - username: "jps_artist"
+    fullname: >-
+      JPS
+    bio: >-
+      U.K Street Artist JPS, now based in Germany. For all business enquiries, please contact @kultur_spaeti
+    location: "Germany"
+    followers: 69712
+    engagement: 222
+    commentsToLikes: 0.016353
+    id: ckaotqjikx1r50i782okgmw5m
+    verified: false
+    hashtags: "#jps, #globalstreetart, #streetartnews, #nicestreetart"
+  - username: "kevin_kuske"
+    fullname: >-
+      KEᐯIᑎ KᑌᔕKE
+    bio: >-
+      TᖇᗩIᑎEᖇ 🏋🏽 ᗩTᕼᒪETIᑕ ᑕOᗩᑕᕼ ᗷOᗷᔕᑭOᖇT 🏃🏽🇩🇪 🥇4 x ᏫᒪᎩᗰᑭiᑕ ᑕᕼᗩᗰᑭισᑎ 🥈2 x ᏫᒪᎩᗰᑭiᑕ ᗰᏋᎴᎯᒪ 🏆7 x ᗯOᖇᒪᗪ ᑕᕼᗩᗰᑭIOᑎ 🔥ᐯ OᒪYᗰᑭIᑕ GᗩᗰEᔕ🌿 💊 ᖇEᗩᒪ ᔕᑌᑭᑭᔕ ᗯIᑎᑎEᖇᔕᖴOOᗪ 🔒👨‍👩‍👦
+    location: "Germany"
+    followers: 14215
+    engagement: 407
+    commentsToLikes: 0.000638
+    id: ck5hclmdmipgx0i111kio4m57
+    verified: true
+    hashtags: "#oly, #bobsport, #olympictrainingcenter, #bobsled"
 ---

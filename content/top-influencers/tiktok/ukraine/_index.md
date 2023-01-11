@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Ukraine In 2022
+title: Top 10 TikTok Influencers In Ukraine In 2023
 description: >-
-  Find top TikTok influencers in Ukraine in 2022. Most popular hashtags: #pcz #fyp #aestheticvideo.
+  Find top TikTok influencers in Ukraine in 2023. Most popular hashtags: #fyp #ukraine #meme.
 platform: TikTok
-hits: 756
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 756 TikTok influencers like this in Ukraine for you to work with.
+hits: 779
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 779 TikTok influencers like this in Ukraine for you to collaborate.
 profiles:
   - username: "lisjart"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Художник illustrator 🎨 Odessa Email: allalisovaa@gmail.com
     location: "Ukraine"
-    followers: 223800
-    engagement: 2022
-    commentsToLikes: 0.029861
+    followers: 201900
+    engagement: 1810
+    commentsToLikes: 0.035681
     id: ckb9dg7ex0oo80j23sxh3500f
     verified: false
-    hashtags: "#procreate, #art, #wipeitdownchallenge, #ipadart"
-  - username: "_dreki_malfoy_"
+    hashtags: "#crete, #cretegreece, #greece, #procreate"
+  - username: "sergey_9999"
     fullname: >-
-      LOX
+      Sergey
     bio: >-
-      No bio yet
+      ВСЕМ ПРИВЕТ! ДОБРО ПОЖАЛОВАТЬ В МИР ЯРКИХ КРАСОК И ВЕСЕЛЬЯ! ПЕРЕХОДИТЕ ПО ССЫЛКЕ
     location: "Ukraine"
-    followers: 12300
-    engagement: 3522
-    commentsToLikes: 0.078690
-    id: ckc90hbr0pw390j238mllovrs
+    followers: 52500
+    engagement: 4364
+    commentsToLikes: 0.090667
+    id: ckcdmgaj8a64s0j2317j61n6w
     verified: false
-    hashtags: "#loveyou, #sharethecare, #sadboy"
-  - username: "pisti_edits"
-    fullname: >-
-      Марк Лишин
-    bio: >-
-      вы все ебланы. inst: nejk1t
-    location: "Ukraine"
-    followers: 4565
-    engagement: 3219
-    commentsToLikes: 0.566667
-    id: ckaijm9qafko70i78p5er8axm
-    verified: false
-    hashtags: "#aftereffects, #editchallenge, #fortntie, #aftermovie"
+    hashtags: "#tuning, #interesting, #super, #funny"
   - username: "raavanantea_jaanaki"
     fullname: >-
       cute-magic
     bio: >-
       Kottayamkari💪 Medico 💜IndianArmy🖤 It is an emotion 4 the 1.3B ppl🔥 JaiHind💪
     location: "Ukraine"
-    followers: 17400
-    engagement: 3050
-    commentsToLikes: 0.088294
+    followers: 17300
+    engagement: 3048
+    commentsToLikes: 0.086160
     id: ckbbn7ry5bahc0j23k0ubzrrh
     verified: false
-    hashtags: "#mallugirl, #mallu, #blackarmy, #medico"
-  - username: "olezhka_pretty_boy"
+    hashtags: "#duet, #mallu, #ukraine, #kottayamkari"
+  - username: "olezhka_official_boy"
     fullname: >-
-      🅾🅻🅴🅶🇺🇦_★☠ 🇺𝐎Ł𝐄ｇ☑️🇺🇦
+      🅾🅻🅴🅶🇺🇦_★☠ 🇺𝐎Ł𝐄ｇ✅🇺🇦
     bio: >-
-      Простой парень Из УКРАИНЫ Цель 1000✅5000💫10000⁉️
+      Простой парень Из УКРАИНЫ Цель 1000✅5000💫10000✔️15000⁉️ 🤜 НИКОГДА НЕ ЗДАВАЙСЯ
     location: "Ukraine"
-    followers: 7721
-    engagement: 2686
-    commentsToLikes: 0.161759
+    followers: 11900
+    engagement: 2659
+    commentsToLikes: 0.194588
     id: ckc7cyg5bmie70j23w6lblvbb
     verified: false
-    hashtags: "#100"
-  - username: "selfcare_kitty"
-    fullname: >-
-      ✨Aesthetic for you🍼
-    bio: >-
-      Стараюсь для вас🤍✨ Цель - 6k🤍🐄 Подпишешся?🥥
-    location: "Ukraine"
-    followers: 5028
-    engagement: 2424
-    commentsToLikes: 0.077976
-    id: ckb8zpeehff460j23mcpapi94
-    verified: false
-    hashtags: "#fyp, #insta, #aesthetic, #selfcare"
-  - username: "_ari.su_"
-    fullname: >-
-      👺𝔸 𝕣 𝕚 𝕤 𝕦👺
-    bio: >-
-      👽🔪Ник в роблокс [ AGNI_A ] 🔪👽 🖤Роблокс🖤 💸Инст: __ari.su__💸
-    location: "Ukraine"
-    followers: 10900
-    engagement: 2269
-    commentsToLikes: 0.094945
-    id: ckc9118lzqtlv0j23vvbu5w0m
-    verified: false
     hashtags: ""
-  - username: "danker304"
+  - username: "bunbunnybanana"
     fullname: >-
-      автор 100k
+      banana bun
     bio: >-
-      Современная музыка тут переходи👉@froejd
+      🐸у нас есть жабы 🍄 Булка - Август Они/их (18. Пшли Пт ПвО) Магазинчик:
     location: "Ukraine"
-    followers: 59000
-    engagement: 2177
-    commentsToLikes: 0.138903
-    id: ckczza15p7kqw0j239r95i2cl
+    followers: 23300
+    engagement: 2404
+    commentsToLikes: 0.064921
+    id: ckbf9uis3108u0j23wopnwrof
     verified: false
-    hashtags: "#brawlstars, #100"
+    hashtags: "#nonbinary, #queer, #lgbt, #frog"
+  - username: ".kovalskiy.a"
+    fullname: >-
+      Ковальський 🥴
+    bio: >-
+      Тупо lifestyle ❤️ я чекаю тебе в 👇 inst_kovalskiy_andri Ternopil🔹
+    location: "Ukraine"
+    followers: 110000
+    engagement: 2260
+    commentsToLikes: 0.042328
+    id: ckb8zy2kffruo0j238ujc8gu5
+    verified: false
+    hashtags: "#fyp, #ukraine, #14, #school"
+  - username: "_ky.st_"
+    fullname: >-
+      🕯АЛЕКС 🕯
+    bio: >-
+      🪴можно от тебя подписку ¿🪴 {❤️11,9❤️} 🌊нет друзей 🌊
+    location: "Ukraine"
+    followers: 11800
+    engagement: 2259
+    commentsToLikes: 0.091480
+    id: ckc90hbr0pw390j238mllovrs
+    verified: false
+    hashtags: "#loveyou, #sadboy"
+  - username: "chidoripower"
+    fullname: >-
+      🐺
+    bio: >-
+      Снимаю бред, и че.
+    location: "Ukraine"
+    followers: 5913
+    engagement: 2197
+    commentsToLikes: 0.109881
+    id: cka8dwxy7umjj0i78eysdzx5v
+    verified: false
+    hashtags: "#tartaglia, #zhonglicomehome, #danganronpa, #zhonglisupremacy"
   - username: "k1sses_ss"
     fullname: >-
       KISSES
     bio: >-
       Нік: NeMo K1SSES Цель : 1000👍 Цель : 2000👍 Цель : 3000👌 Цель : 4000👌
     location: "Ukraine"
-    followers: 3947
-    engagement: 2079
-    commentsToLikes: 0.196502
+    followers: 3869
+    engagement: 2050
+    commentsToLikes: 0.194885
     id: ckacwdwkus3cc0i78kntkipob
     verified: false
-    hashtags: "#folow, #fortnite, #draw, #csbisht"
-  - username: "userypqaj7f49s"
+    hashtags: "#folow, #fortnite, #draw, #fadi"
+  - username: "tikbloger"
     fullname: >-
-      Персик
+      🌍tikbloger💫
     bio: >-
-      цель:1000🔓 спасиба мне больше не нада😊
+      👇❤️✅Хочешь стать популярным?✅❤️👇 ❤️❤️❤️Трансляция❤️❤️❤️
     location: "Ukraine"
-    followers: 7060
-    engagement: 2077
-    commentsToLikes: 0.171767
-    id: ckc90cjo9ppq40j23lacd8ig9
+    followers: 69200
+    engagement: 2038
+    commentsToLikes: 0.055998
+    id: ckbr3ggh3jwug0j23vqd4lyyg
     verified: false
     hashtags: ""
 ---

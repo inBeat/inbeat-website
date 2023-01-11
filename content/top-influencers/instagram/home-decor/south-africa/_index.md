@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In South Africa In 2022
+title: Top 10 Home Decor Instagram Influencers In South Africa in 2023
 description: >-
-  Find top home decor Instagram influencers in South Africa in 2022. Most popular hashtags: #homedecor #travel #home #interiordesign.
+  Find top home decor Instagram influencers in South Africa in 2023. Most popular hashtags: #homedecor #travel #home #interiordesign.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram profiles on inBeat.

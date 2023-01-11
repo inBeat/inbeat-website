@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Sydney In 2022
+title: Top 10 Athletes Instagram Influencers In Sydney In 2023
 description: >-
-  Find top athletes Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #parkour #movement.
+  Find top athletes Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #training #australia.
 platform: Instagram
-hits: 29
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 29 Instagram influencers like this in Sydney, Australia for you to connect with.
+hits: 12
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in Sydney, Australia for you to contact.
 profiles:
-  - username: "helenhousby1"
+  - username: "alissasmith"
     fullname: >-
-      Helen Housby
+      ALISSA SMITH
     bio: >-
-      Netballer • @englandnetball • @nswswifts 🤍 @redbulluk athlete 📍 Sydney
+      ✖️FOX SPORTS & SKY NEWS TV PRESENTER ✖️EVENT MC 😎 ENTREPRENEUR: @schoolsunniesaustralia ✖️AMBASSADOR: @pafc 🔴 FUELLED by @mymusclechef code: ALISSA20
     location: "Australia"
-    followers: 83661
-    engagement: 771
-    commentsToLikes: 0.006270
-    id: ck136ux7r8dxv0i193ij9nzzb
-    verified: true
-    hashtags: ""
-  - username: "veronikalarisova"
-    fullname: >-
-      VERONIKA Larisova
-    bio: >-
-      💪🏽EXERCISE PHYSIOLOGIST 🍴NUTRITIONIST @revivebondi CO-FOUNDER @chief_bar @beautyfood.com.au 🧬 FitGenes practitioner 🥘 @fastleanenergy 🏃🏽‍♀️Runner
-    location: "Australia"
-    followers: 28323
-    engagement: 248
-    commentsToLikes: 0.037931
-    id: ckaoulvee0tz50i78mdiyyo1y
+    followers: 8542
+    engagement: 434
+    commentsToLikes: 0.118419
+    id: ck13aziu3sycc0i19oaznj21t
     verified: false
-    hashtags: "#sydney, #stoic, #athlete, #run"
+    hashtags: "#sweatsession, #presenter, #reporter, #hotelquarantine"
+  - username: "fitfastfoods"
+    fullname: >-
+      CAROLENA KOSTAS
+    bio: >-
+      Runner 🏃‍♀️| Fit & Fast Recipes 👩‍🍳 | Sydney 🇦🇺 | 💌 fitfastfoods@yahoo.com.au @viciswim Athlete “FITFAST10” 🏊‍♀️ @workoutmeals “CAROLENA10” 💪
+    location: "Australia"
+    followers: 28876
+    engagement: 691
+    commentsToLikes: 0.061729
+    id: ck5hn62z0n9y20i11te9pamgm
+    verified: false
+    hashtags: "#partner"
+  - username: "jessejankulovski"
+    fullname: >-
+      Jesse
+    bio: >-
+      freerunning athlete 🤍 @jayjankulovski ↗️ check out my other content ↙️
+    location: "Australia"
+    followers: 30146
+    engagement: 848
+    commentsToLikes: 0.031849
+    id: ck14go33v66w80i19exid0s6y
+    verified: false
+    hashtags: "#sydney, #flips, #flippingfeed, #beach"
   - username: "ilanacollins"
     fullname: >-
       Actress
     bio: >-
-      STUNTWOMAN/ACTRESS @actressilanacollins @stuntwomanilana Gold Coast massage therapist @ecovillage_massage_spa PLANT BASED 🍃
+      ACTRESS/STUNTWOMAN MEAA graded @actressilanacollins @stuntwomanilana Gold Coast massage therapist @kahuna_bliss VEGAN 🍃 @pranaon athlete
     location: "Australia"
-    followers: 61502
-    engagement: 120
-    commentsToLikes: 0.116781
+    followers: 61318
+    engagement: 123
+    commentsToLikes: 0.095479
     id: ck0tvyzlsdek70i190d16io3f
     verified: true
-    hashtags: "#stunts, #mma, #acting, #vegan"
-  - username: "theosauce"
+    hashtags: "#bikinis, #mma, #makethechange, #adventures"
+  - username: "trainertrowell"
     fullname: >-
-      Theo Mouawad🇱🇧🐅
+      • LACHLAN TROWELL •
     bio: >-
-      † USA-Sydney📍 Natural Athlete @sculptedathletics Code: THEO
+      🔬 B of Sport & Exercise⁣ Science 🦾 In-Person & Online Coach @fitnessfirstau ⁣ 💉 Type-1 Diabetic 🥤@myproteinau Athlete - ‘TROWELLMYP’
     location: "Australia"
-    followers: 30664
-    engagement: 224
-    commentsToLikes: 0.041028
-    id: ck6u5xvascdym0j715m11lr54
+    followers: 4353
+    engagement: 787
+    commentsToLikes: 0.071300
+    id: ck6trblj1y1oi0j71p5kynhho
     verified: false
-    hashtags: "#instafit, #gainz, #fitlife, #fitnessmodel"
+    hashtags: "#gym, #onlinecoach, #glutes, #biomechanics"
   - username: "khedoori"
     fullname: >-
-      Michael Khedoori | Parkour
+      Michael Khedoori | THE KID
     bio: >-
-      📍Sydney, Australia 🇦🇺 💪 @Aapes Athlete 💪 ⚡Proud Member of @NovelWays ⚡️ ⭐️ new vids everyday ⭐️ 📥 Business Inquiries 👉🏼 email 📧 👇2019 compilation👇
+      🦘Syd,Aus 🇦🇺 🎮 THE KID from @ultimatetagau ⚡️ 🦍 @aapes athlete 🤟 📈 Business/promo 📩
     location: "Australia"
-    followers: 63831
-    engagement: 752
-    commentsToLikes: 0.009653
+    followers: 78820
+    engagement: 604
+    commentsToLikes: 0.010483
     id: ck0vv6jalnrht0i19d7o235im
     verified: false
-    hashtags: "#movement, #aussieboy, #parkour, #letsdothis"
-  - username: "_matt_noel_"
+    hashtags: "#parkour, #movement, #art, #yeww"
+  - username: "aerial_ascension"
     fullname: >-
-      Matt Noël
+      Calisthenics Cosmonaut
     bio: >-
-      📍 Sydney ✖️ 🌍 Calisthenics Athlete ✖️ 👓 Ninja since 1992 ✖️ ❥ E.
+      Gravity checks under its bed each night to make sure I’m not there 👽👊🏽 @revival.au Athlete
     location: "Australia"
-    followers: 2018
-    engagement: 1066
-    commentsToLikes: 0.079840
-    id: ck6ue3vqaoopz0j7109nkkk85
+    followers: 4010
+    engagement: 1334
+    commentsToLikes: 0.146928
+    id: ck6u9dwjewzml0j71ew1szcn3
     verified: false
-    hashtags: ""
-  - username: "tristan_hodder"
+    hashtags: "#calisthenia, #pulluporshutup, #calisthenicsworkout, #onearmpullup"
+  - username: "bysimondunn"
     fullname: >-
-      T
+      Simon Dunn
     bio: >-
-      📍Sydney 🏃‍♂️Professional Parkour & Tricking Athlete 💌 Email for Business inquiries
+      🇦🇺Aus Team Bobsleigh Athlete🇦🇺 🖋 Write 🏉 Rugby 🏋🏻‍♂️ Train ❣️Ambassador @bobbygoldsmithfoundation & @giveout_au ✉️: brendon@rubyrosemanagement.com
     location: "Australia"
-    followers: 11076
-    engagement: 826
-    commentsToLikes: 0.046260
-    id: ck6txphjqz4by0j71ihew104q
-    verified: false
-    hashtags: "#flippingfeed, #tricking, #freerun, #gym"
-  - username: "miguel_la_cruz"
+    followers: 144263
+    engagement: 353
+    commentsToLikes: 0.030509
+    id: ck6tre4ujyglb0j71jtiidr0b
+    verified: true
+    hashtags: "#rugbyworldcup, #gameon, #australia2027, #tbt"
+  - username: "harrietroberts"
     fullname: >-
-      Miguel La Cruz
+      Harriet Roberts
     bio: >-
-      Ambassador @virginactiveaustralia DM for Collaborations
+      Athlete 🏋🏽‍♀️🤸🏽‍♀️ | Coach 📍 Sydney⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🏠 New Zealand 🇳🇿 ⠀⠀⠀⠀⠀⠀⠀ @revival.au 🌱 🥤 ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ Collabs 👉🏽 dallas@temanagement.com.au
     location: "Australia"
-    followers: 88985
-    engagement: 197
-    commentsToLikes: 0.127073
-    id: ck5ccqf3phtl30i11joz1t5qe
+    followers: 19914
+    engagement: 476
+    commentsToLikes: 0.022413
+    id: ck6ui2sjjcq680j716jbxwgjw
     verified: false
-    hashtags: "#ad, #boseambassador, #letsgetit, #boseframes"
-  - username: "naedicicco"
+    hashtags: "#photowouldhavebeen10xmorebadasswithoutthewall, #yepneededthatyesterday, #iatetoomuchnutella, #balance"
+  - username: "luccas.football"
     fullname: >-
-      Shanae DiCicco IFBB BIKINI PRO
+      Luccas Pereira 🇧🇷🇦🇺
     bio: >-
-      📍Sydney, AUS 💪🏽 @hd.muscle Athlete ‘NAE’ 👟 @Ryderwear Athlete ‘NAE10’ 🍏 @food4fitnessmeals ‘NAE10’ 🥚 @teamatlasmtl 👙 @fit_angel_bikini
+      Football & Performance Coach Strength & Conditioning Public Speaker ᴀᴍʙᴀꜱꜱᴀᴅᴏʀ: @googlepixel @mizunosportsaus Book Your Session - IN PERSON/ONLINE 👉🏼
     location: "Australia"
-    followers: 12122
-    engagement: 623
-    commentsToLikes: 0.055456
-    id: ck6tn9n0v9enm0j71ufgjt687
+    followers: 35990
+    engagement: 195
+    commentsToLikes: 0.031960
+    id: ck6ts92th3fdt0j71dspr0oxt
     verified: false
-    hashtags: "#integrityiseverything, #teamryderwear, #eagleviewescape"
-  - username: "sofiamareewhittaker"
-    fullname: >-
-      Sofia Whittaker | Mrs Reaper
-    bio: >-
-      ❤️ Mum, Wife, Athlete lifestyle ❤️ @robwhittakermma #reapernation Team @reapergearrw 🇦🇺🇮🇹 Sydney Aus @graciejiujitsusmeatongrange @gracieartarmon
-    location: "Australia"
-    followers: 13663
-    engagement: 508
-    commentsToLikes: 0.024662
-    id: ck0vw8i8asks60i191ftog4wk
-    verified: false
-    hashtags: "#letsdothis, #reapernation, #stronglikedaddy, #teamwhittaker"
+    hashtags: "#couplegoals, #giftfromgoogle, #footballlife, #sydney"
 ---

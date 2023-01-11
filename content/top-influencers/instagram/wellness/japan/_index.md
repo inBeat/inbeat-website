@@ -1,96 +1,96 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Japan In 2022
+title: Top 10 Wellness Instagram Influencers In Japan In 2023
 description: >-
-  Find top wellness Instagram influencers in Japan in 2022. Most popular hashtags: #fashion #wellness #nature #yoga.
+  Find top wellness Instagram influencers in Japan in 2023. Most popular hashtags: #tokyo #japan #wellness #healthy.
 platform: Instagram
-hits: 19
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 19 Instagram influencers like this in Japan for you to contact.
+hits: 16
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 16 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "taylor_lovee"
+    fullname: >-
+      TAYLOR LOVE |Love Inside & Out
+    bio: >-
+      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
+    location: "Japan"
+    followers: 117005
+    engagement: 204
+    commentsToLikes: 0.040832
+    id: ck0w2og84peih0i19iayfjkxx
+    verified: false
+    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
   - username: "risako_yamamoto"
     fullname: >-
       Risako Yamamoto
     bio: >-
       ♡my SLOHASHOLIC life♡ HEALTH ｜FASHION ｜ TRAVEL ｜ 👗rosy Monster 🌿Junior SUPERFOOD Meister my wellness life #SLOHASHOLIC
     location: "Japan"
-    followers: 40637
-    engagement: 181
-    commentsToLikes: 0.004314
+    followers: 41764
+    engagement: 194
+    commentsToLikes: 0.008978
     id: ck5zih3effott0i14z1x5m2x4
     verified: false
-    hashtags: "#rosymonster, #fashion, #beach, #coordinate"
-  - username: "mariko_jpn_531"
+    hashtags: "#prada, #slohasholic, #rosymonster, #healthylifestyle"
+  - username: "mr.yuk1"
     fullname: >-
-      Mariko Nakagawa/中川 真理子🇯🇵
+      Yuki：Sustainability🌎
     bio: >-
-      💫︎Miss Supranational Japan 東東京代表💫 　∟1st runner up ☀︎ ヨガインストラクター｜📍Tokyo｜172cm 🥇MSJ関東大会grand prix 💠 Beauty Pageant Media model 2020
+      '92🇯🇵×🇺🇸 Athlete (~'12)｜CEO (~'19)｜Creator & Producer ('20~) Tennis🎾 Fitness🏋🏼 Wellness🤟🏼 SDGs🌏 Wellness & Fitness #FLY
     location: "Japan"
-    followers: 10971
-    engagement: 1152
-    commentsToLikes: 0.010517
-    id: ck8t2ycl8164t0j782ru7na7h
+    followers: 14799
+    engagement: 129
+    commentsToLikes: 0.020596
+    id: ck6ugjp043fd10j713dg2wyzc
     verified: false
-    hashtags: "#love, #healthybeauty, #happy, #smile"
-  - username: "alexisjetsets"
+    hashtags: "#fiat, #ritzcarltonokinawa, #ritzcarlton, #pr"
+  - username: "tamura_shoko"
     fullname: >-
-      Travel Blogger • Alexis •
+      田村翔子　Shoko Tamura
     bio: >-
-      Content Creator || Photographer || Author of "Eat, Muse, Love" GoPro Family Solo female traveller with the occasional appearance of my fiancé
+      株式会社ファウナ代表取締役社長 モデル puntolinea.jp所属
     location: "Japan"
-    followers: 84524
-    engagement: 427
-    commentsToLikes: 0.061640
-    id: ck5qd6btou0y70i11cjffmaru
+    followers: 21942
+    engagement: 734
+    commentsToLikes: 0.039717
+    id: ckap757hiiohh0i78tsr03hx5
     verified: false
-    hashtags: "#chuu, #ootd, #instagramsg, #koreanfashion"
-  - username: "world_beauty_t"
+    hashtags: "#tokyolife, #winterfashion, #lifestyles, #tokyolifestyle"
+  - username: "yuminchu1029"
     fullname: >-
-      美容/ハーブとアロマのある暮らし♡toshiko
+      𝘠𝘶𝘮𝘪𝘯𝘤𝘩𝘶🌞✌🏽
     bio: >-
-      ▶︎低身長のアラサー美容♡ ▶︎ハーブと野菜を育てて発信🌿 ＊アンバサダー @fancl_official @wakasaseikatsu_official @woomy.me 　　 ✈︎旅アカウント @sonoko_tabi PR・お仕事依頼はDMまで💌 　 その他メディア💁‍♀️
+      🌴𝚖𝚎𝚛𝚖𝚊𝚒𝚍🧡🌈 🎙 𝚖𝚘𝚍𝚎𝚕/𝚌𝚛𝚎𝚊𝚝𝚘𝚛 /𝚝𝚛𝚊𝚟𝚎𝚕𝚎𝚛 /𝚜𝚒𝚗𝚐𝚎𝚛 𝖾𝗑.𝐽𝑢𝑙𝑖𝑒𝑡 🇦🇺𝖠𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋 @mahiya_leather @irie_beach @mysticbysea 𝘦𝘵𝘤 🎟𝖳𝗂𝗄𝖳𝗈𝗄 𝖿𝗈𝗅𝗅𝗈𝗐𝖾𝗋𝗌 𝟨7𝗄🎧 お仕事のご依頼はDMまで📨
     location: "Japan"
-    followers: 9653
-    engagement: 1274
-    commentsToLikes: 0.005160
-    id: ckf5x5yl9uhpc0j23r3ifow07
+    followers: 58157
+    engagement: 219
+    commentsToLikes: 0.006197
+    id: ck5qc609jp0ks0i117w2k7p5j
     verified: false
-    hashtags: "#monipla, #lohaco, #pr, #wafoodmade"
-  - username: "grace.oura"
+    hashtags: "#boho, #ootd, #beach, #fashion"
+  - username: "kinaahsing"
     fullname: >-
-      G r a c e  ☺︎ *･ﾟ
+      Kina Ah Sing
     bio: >-
-      𝙿𝚒𝚕𝚊𝚝𝚎𝚜 & 𝚙𝚘𝚙 𝚙𝚒𝚕𝚊𝚝𝚎𝚜 ♡ 𝙵𝚒𝚝𝚗𝚎𝚜𝚜 𝚝𝚛𝚊𝚒𝚗𝚎𝚛 @energyfit_official @niketokyo 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 @munchiez.japan ❀ 𝚆𝚊𝚜𝚎𝚍𝚊 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸𝟶𝟷𝟿.
+      ᗩᒪ🌞ᕼᗩ!こんにちは!🏝ᕼI↔️ᒍᑭ🗾 ≋ 𝚒𝚜𝚕𝚊𝚗𝚍 𝚋𝚎𝚊𝚞𝚝𝚢 𝚛𝚎𝚒𝚖𝚊𝚐𝚒𝚗𝚎𝚍 ≋ @moeahawaii ✨ 🎥our production company⏩ @okinakalani🕺🏻
     location: "Japan"
-    followers: 6278
-    engagement: 542
-    commentsToLikes: 0.033384
-    id: ck5ck0enlvv830i113h52vefc
+    followers: 6440
+    engagement: 1193
+    commentsToLikes: 0.044365
+    id: ckap171patbug0i782fo5907q
     verified: false
-    hashtags: "#fitnesstrainer, #goodvibes, #energyfit, #easyworkouts"
-  - username: "annaortiz34"
+    hashtags: "#hawaiiantime, #kinaandkalani, #tokyo, #reelsinstagram"
+  - username: "yui_innami"
     fullname: >-
-      Anna
+      𝗬𝗨𝗜
     bio: >-
-      Proud mom of four little Angels. RAVAPAS💫🙏🏼💝 Fashion Design @mikakus & Interiorism Barcelona-Kobe🇯🇵
+      𝗧𝗼𝗸𝘆𝗼🇯🇵 𝗗𝗮𝗻𝗰𝗲𝗿 / 𝗖𝗵𝗼𝗿𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿 𝗬𝗼𝗴𝗮 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗼𝗿 (𝗥𝗬𝗧𝟮𝟬𝟬・𝗥𝗣𝗬𝗧𝟴𝟱) 𝗕𝗼𝗱𝘆𝗷𝗮𝗺 / 𝗣𝗮𝗶𝗻𝘁𝗲𝗿 / 𝗠𝗼𝗺 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @onearts_jpn @sloli_jp #yuiinnami #yuiyoga21 🌹
     location: "Japan"
-    followers: 415696
-    engagement: 436
-    commentsToLikes: 0.008762
-    id: ck5qb2yiqjjy40i11o8jp7ny3
-    verified: true
-    hashtags: "#lifeinjapan, #ravapas, #summer, #afortunadoslosqmadrugamos"
-  - username: "mana.amanda"
-    fullname: >-
-      MANA_official
-    bio: >-
-      ▫️CEO & Bikini coach | 🇺🇸🇯🇵 ▫️gym owner💪 ▫️Team Pro Tan® @vqfit athlete 👚 ▫️muscle contest judge 👙 ▫️NPC Bikini LA CAMP🎖🇺🇸 @mjdiva_apparel Co.
-    location: "Japan"
-    followers: 52544
-    engagement: 304
-    commentsToLikes: 0.009627
-    id: ck5hopyiwq0gw0i1112z6185o
+    followers: 5893
+    engagement: 410
+    commentsToLikes: 0.012667
+    id: ck15qzol85eoh0i19iscqplh1
     verified: false
-    hashtags: "#bootyworkout, #booty, #fitnessmotivation, #fitness"
+    hashtags: "#yuiyoga21, #vans, #minne, #freehand"
   - username: "nanappee416"
     fullname: >-
       ナナちゃん
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.015408
     id: ckf5lrdi6qox20j23g4fq2svm
     verified: false
-    hashtags: "#japanesefood, #japan, #cooking, #japanesegirl"
+    hashtags: "#japanesegirl, #japanesefood, #japan, #cooking"
   - username: "wakanozawa"
     fullname: >-
       WAKA_NOZAWA
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015327
     id: ck0tv67jqa42e0i192zotzc0w
     verified: false
-    hashtags: "#wellnesstogo, #happyjournal"
+    hashtags: "#happyjournal, #wellnesstogo"
   - username: "shiho_style"
     fullname: >-
       SHIHO
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.004272
     id: ck5pyo983wzir0i1187ybcjdk
     verified: true
-    hashtags: "#yoga, #healthy, #7days, #thankyou"
+    hashtags: "#stayhealthy, #challenge, #event, #happymothersday"
 ---

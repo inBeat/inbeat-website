@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Poland In 2022
+title: Top 10 Food Instagram Influencers In Poland In 2023
 description: >-
-  Find top food Instagram influencers in Poland in 2022. Most popular hashtags: #piek #strajkkobiet #autumnoutfit #autumn.
+  Find top food Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #photography #fashionstyle #smile.
 platform: Instagram
-hits: 792
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 792 Instagram influencers like this in Poland for you to pitch.
+hits: 681
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 681 Instagram influencers like this in Poland for you to work with.
 profiles:
-  - username: "joanna.walkow"
+  - username: "majastrojek"
     fullname: >-
-      Joanna 🌸
+      Maja Strojek Model Actress
     bio: >-
-      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
+      📍 Warsaw TikTok: majastrojek_ 📸 photoshoot 🎥 video 🎬 movies, series ❤️ Food Love music, dance, video games, memes and more 📩 majastrojek@gmail.com
     location: "Poland"
-    followers: 5977
-    engagement: 1547
-    commentsToLikes: 0.093577
-    id: ck9wekanbknaa0j7834my2xx2
+    followers: 576756
+    engagement: 192
+    commentsToLikes: 12.465804
+    id: ck5bxb0kwndin0i119qbbxato
     verified: false
-    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
-  - username: "anna_karcz"
+    hashtags: "#photoshoot, #photooftheday, #women, #naturallight"
+  - username: "annalewandowska"
     fullname: >-
-      Anna Karcz
+      𝗔𝗻𝗻𝗮 𝗟𝗲𝘄𝗮𝗻𝗱𝗼𝘄𝘀𝗸𝗮
     bio: >-
-      owner of @laylacloth food account @teamkarcz my cookbook ⬇️
+      Mom👧👶 tomasz.zawislak@levann.world @phlov_by_anna_lewandowska @diet_training_by_ann @foods_by_ann @supermenu_by_anna_lewandowska @levannsupplements
     location: "Poland"
-    followers: 177968
-    engagement: 911
-    commentsToLikes: 0.035311
-    id: ck14kcn37ov330i19a5bz0peh
-    verified: false
-    hashtags: "#gluteusmaximus, #bootybuilding, #checkform, #autumn"
+    followers: 4881872
+    engagement: 155
+    commentsToLikes: 0.005706
+    id: ck0u703k13hw80i19tvvhfkev
+    verified: true
+    hashtags: "#getstrongerchallenge, #challenge, #campbyann, #annalewandowska"
   - username: "crueltyfreeann"
     fullname: >-
-      Anna Koczwara WEGEŚWIR
+      Anna Koczwara (Halina) 🌱
     bio: >-
-      Oswajamy niepełnosprawność i weganizm 🌈 tworzę ebooki • zdrowo żyjemy• foty robimy • zero tabu kup moje foodbooki poniżej ⬇️ anna.koczwara@op.pl
+      ♿️ oswajam niepełnosprawność 🌍 #weganizm & #podróże ♥️ bez tabu, z dystansem 🌱 wegańskie foodbooki poniżej 📤 crueltyfreeann.kontakt@gmail.com
     location: "Poland"
-    followers: 19408
-    engagement: 899
-    commentsToLikes: 0.052060
+    followers: 58331
+    engagement: 959
+    commentsToLikes: 0.025071
     id: ck6udr3w6mo220j71x6m7ma9w
     verified: false
-    hashtags: "#cia, #dziecin, #piek, #matkapolka"
-  - username: "mrs.luks"
+    hashtags: "#weganizm, #podr, #dziewczynka, #rodzicielstwobliskosci"
+  - username: "tati_tastes"
     fullname: >-
-      s y l w i a   l u k s
+      Tati
     bio: >-
-      • Founder of @looks_by_luks 👳‍♀️ • Mom to Teo 🧒🏼, Mia 👧🏼 & Zoe 👶🏼 • Healthy food, less-waste & natural healing 🌱 • Life w. #hashimotos
+      Life & Food Stories Good things take time @healthlabs_pl „TATI10” -10% tatiyesayan@gmail.com
     location: "Poland"
-    followers: 19102
-    engagement: 525
-    commentsToLikes: 0.076634
-    id: ck0w6brot7tq20i19kd8a68zt
+    followers: 19741
+    engagement: 1175
+    commentsToLikes: 0.046339
+    id: ck5q6g5tkx9p40i11j90fuzzb
     verified: false
-    hashtags: "#instamatki, #7miesiecy, #coreczkatatusia, #newmom"
+    hashtags: "#dzi, #zdrowystylzycia, #odpolskiegodostawcy, #kochammojelumene"
+  - username: "slodkada"
+    fullname: >-
+      Slodka Ada
+    bio: >-
+      FOOD, FASHION & TRAVEL #bridetobe 👰🏼‍♀️ 🎥YT: Słodka Ada 553k 💌slodkada@gmail.com 🛍my shop: @pink.land.shop Nowy film 👇
+    location: "Poland"
+    followers: 322046
+    engagement: 264
+    commentsToLikes: 0.015075
+    id: ck14k1b1vn8350i1950n66p3m
+    verified: false
+    hashtags: "#weddingprep, #pannamloda, #pinklife, #lato2021"
   - username: "bozenaskarbek"
     fullname: >-
       Bożena Skarbek
     bio: >-
-      Nie zadawalaj innych kosztem siebie! Nigdy nie mów o sobie źle! Fashion,beauty,healthy food,positive energy lover🥰 Cancer survivor💪🏻 Współpraca PRIV📩
+      Nie zadawalaj innych kosztem siebie! Nigdy nie mów o sobie źle! Fashion,beauty,healthy food,positive energy lover🥰 Cancer survivor💪🏻 📩bena3@o2.pl priv
     location: "Poland"
-    followers: 13514
-    engagement: 738
-    commentsToLikes: 0.138863
+    followers: 16660
+    engagement: 469
+    commentsToLikes: 0.130150
     id: ckap1f2d2ubon0i78jlzqejtd
     verified: false
-    hashtags: "#glasses, #outfitinspiration, #photooftheday, #fashion"
-  - username: "qmamkasze"
+    hashtags: "#jewerly, #stylizacjadnia, #zainspirujsie, #neon"
+  - username: "o.kwiatecka"
     fullname: >-
-      Maia Sobczak
+      𝒪 𝓁 𝒾 𝓌 𝒾 𝒶 👼🏻
     bio: >-
-      • Author of three culinary books 📚✨ • plant based cook • passionate photographer • foodstylist • holistic consultant • yoga teacher Add #qmamkasze
+      🏡| Poland/Warsaw 📫| contact - dm or e-mail 🌱| Vegetarian 👤| Makeup, outfits, food and more
     location: "Poland"
-    followers: 32332
-    engagement: 349
-    commentsToLikes: 0.088971
-    id: ck5zz2ewday7k0i14wwbrmv8e
+    followers: 5525
+    engagement: 1846
+    commentsToLikes: 0.040005
+    id: ck8t79n4zg1nw0j78g77t7nxc
     verified: false
-    hashtags: "#embracingslowerlife, #qmamkaszewyzywa, #feelblessed, #ofwhimsicalmoments"
-  - username: "tati_yesayan"
+    hashtags: "#warsaw, #photooftheday, #photography, #nike"
+  - username: "sugar.ladyyy"
     fullname: >-
-      Tatevik Yesayan Gąsińska
+      🍰Agata Stankiewicz🍰
     bio: >-
-      🌴travelholic 👩🏽‍🍳foodlover 🧚🏽HealthLabs -10% KOD:TATI10 👯‍♀️#leniwefitbaby Facebook 👩🏻‍🎓psycholog biznesu
+      📩agata.stankiewicz91@gmail.com 📩 🍪YouTube- Sugarlady 200k🍪 🍣Foodlover & Foodtraveler🍕 📙Cookbook author📙 🩸Cosmetogist🩸
     location: "Poland"
-    followers: 10808
-    engagement: 1067
-    commentsToLikes: 0.061020
-    id: ck5q6g5tkx9p40i11j90fuzzb
+    followers: 51569
+    engagement: 811
+    commentsToLikes: 0.019400
+    id: ck15uhy8ena5t0i19ueehswon
     verified: false
-    hashtags: "#piek, #savicki, #savickibizuteria, #bizuteria"
-  - username: "mrs__harmony"
+    hashtags: "#bake, #smile, #strajkkobiet, #youtube"
+  - username: "justyna_wizaz"
     fullname: >-
-      Kasia Harmony
+      Lifestyle Blogger
     bio: >-
-      • healthy food • natural medicine • vegan lifestyle 🌱 • woman workshop #doterra wellness advocate, join me 👉 9448371 📮Kasia@harmonylife.style
+      📩 kontakt@justynazybert.pl 📩 ⭐#beauty #cosmetics #spa #lifestyle #food ⭐ ⭐#warszawa ⭐
     location: "Poland"
-    followers: 41877
-    engagement: 470
-    commentsToLikes: 0.047615
-    id: ck5zx2fe577tv0i1434us37ir
+    followers: 27269
+    engagement: 409
+    commentsToLikes: 0.029029
+    id: ckaoxpw0headj0i78qd1250rm
     verified: false
-    hashtags: "#piek, #to, #strajkkobiet, #taniec"
-  - username: "gabikuczynskaa"
+    hashtags: "#blondegirl, #shopoholic, #fashionstyle, #blonde"
+  - username: "karolinamarja"
     fullname: >-
-      Gabriela Kuczyńska
+      Karolina Maria
     bio: >-
-      🎮YouTube: Gabi, Mano i Gabi 👫 🎶TikTok: gabikuczynska ❤️ Fitness freak💪 Food lover 🍜 @manoyek 👫❤️
+      moje🍴@foodkarolinymarji 💌Karolina.wolska03@wp.pl 25☀️#kochamwzycie 📖#MEDIAWORKING #FASHIONstylist YOUTUBE 🎬👇👇👇
     location: "Poland"
-    followers: 36320
-    engagement: 1322
-    commentsToLikes: 0.016867
-    id: ck8t6lx9qe2hm0j78g3e45z8t
+    followers: 7101
+    engagement: 942
+    commentsToLikes: 0.028145
+    id: ckap79sr9j5rf0i78cq1kbm7q
     verified: false
-    hashtags: "#gymgirl, #instamodel, #rimel, #inglot"
-  - username: "vhadever"
-    fullname: >-
-      NATALIA 🌸
-    bio: >-
-      Poland | Travel | Food Lovers | Beauty | 👻 vhaadever 📩 or vhadever@gmail.pl
-    location: "Poland"
-    followers: 21057
-    engagement: 602
-    commentsToLikes: 0.042344
-    id: ckap2rc9szzde0i78i6z2yc18
-    verified: false
-    hashtags: "#piel, #flatlay, #luxury, #polishgirl"
+    hashtags: "#slowlife, #inspiration, #joga, #italy"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Medellín In 2022
+title: Top 10 Food Instagram Influencers In Medellín In 2023
 description: >-
-  Find top food Instagram influencers in Medellín in 2022. Most popular hashtags: #colombia #medellin #food #photooftheday.
+  Find top food Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #food #nature.
 platform: Instagram
-hits: 11
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+hits: 12
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 12 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
-  - username: "melissajnaizzir"
+  - username: "tatii_agb"
     fullname: >-
-      𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗝𝗶𝗺𝗲𝗻𝗲𝘇 𝗡𝗮𝗶𝘇𝘇𝗶𝗿
+      Tatiana Agudelo B.
     bio: >-
-      Recipes|Travel|Livestyle “Nacimos para ser reales no perfectos” 🧿🍽✈️ 📍Colombia
+      🚫 No tengo más cuentas en IG Mamá de dos, Administradora, Esposa ❤️, Líder equipo de trabajo @fajitex 🇨🇴 #colombia #medellin 👇🏻5% de mi vida 📸
     location: "Colombia"
-    followers: 2223
-    engagement: 1701
-    commentsToLikes: 0.114409
-    id: ckaossnyoswxp0i78vdogv00t
+    followers: 60239
+    engagement: 259
+    commentsToLikes: 0.042090
+    id: ckap3lyqp3k1b0i78v6bkisr9
     verified: false
-    hashtags: "#healthyfood, #recetassaludables, #helado, #heladodecoco"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    bio: >-
-      🌎 Online Fitness Coach ⭐️ Celebrity Personal Trainer ⚡️ Embajador @fitbitlatam 📱 Planes de entrenamiento y nutrición ⬇️ 😍 eBooks Patty & Juanse ⬇️
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
-    verified: false
-    hashtags: "#perderpeso, #gym, #fitness, #humorfit"
-  - username: "polibamba"
-    fullname: >-
-      Polibamba Humor 👨🏾‍✈️
-    bio: >-
-      🎤|Lider Social 👨🏾‍✈️| @dinamitatenorio 🧨| @saopaulofccali 𝐏𝐮𝐛𝐥𝐢𝐜𝐢𝐝𝐚𝐝 whatsapp 3175736459 #Noseprecipite Clic⬇️LINK ”ELLA ES DIFERENTE”🧨TV👇👇👇
-    location: "Colombia"
-    followers: 276110
-    engagement: 208
-    commentsToLikes: 0.035363
-    id: ck0txid8uj9e30i19a6me380l
-    verified: false
-    hashtags: "#policianacional, #fe, #losbelicos, #polibamba"
+    hashtags: "#look, #sensuality, #love, #instamoment"
   - username: "pedazodejuano"
     fullname: >-
       PedazodeJuano©
     bio: >-
       🇨🇴Colombian Photographer 📸Learning how to use my camera 🥗Food shots in @food.by.light ©️all rights reserved 📍based in Medellín Colombia papá 👇Wapp
     location: "Colombia"
-    followers: 2660
-    engagement: 967
-    commentsToLikes: 0.079675
+    followers: 2783
+    engagement: 825
+    commentsToLikes: 0.049903
     id: ckap98menrm790i78rtgjymxj
     verified: false
-    hashtags: "#idpaisa, #travelgrafia, #nikonistas, #galeriaco"
-  - username: "zacmorriss_"
+    hashtags: "#bird, #birdsofcolombia, #ave, #fotografiadeaves"
+  - username: "misakii_neko_99"
     fullname: >-
-      Zac Morris
+      Deisy Castaño
     bio: >-
-      🇺🇸➡️🇨🇴➡️🌎 Let’s go to Colombia ➡️ @adventure_better Pra português➡️ @zacfala Learn more⬇️
+      Me: @deisylover97 💮 🀄@anim3.maido 🀄 🎬sᴜʙᴏ ᴅᴇ ᴛᴏᴅᴏ ᴜɴ ᴘᴏᴄᴏ 😝 📭 Email: deisycastano1997@gmail.com 📧 💜+57 3165825982 💬 🧸Medellin Col 🇨🇴
     location: "Colombia"
-    followers: 582288
-    engagement: 717
-    commentsToLikes: 0.028423
-    id: ck8syjqubl0x90j784elg1sdt
-    verified: true
-    hashtags: "#english, #espa, #risa, #comida"
-  - username: "brianaceros"
-    fullname: >-
-      Brian Aceros
-    bio: >-
-      🔷️DESAFÍO SUPER REGIONES 2019 🔷️Modelo Fitness, Línea de ropa @acerosworkout 🥗🥦🍅Instructor DIETA 2 SEMANAS🍅🥦🥗 ⬇️⬇️DESCARGA TU DIETA⬇️⬇️
-    location: "Colombia"
-    followers: 17575
-    engagement: 189
-    commentsToLikes: 0.014863
-    id: ckf5uc22akc360j23mvemqqlo
+    followers: 15816
+    engagement: 38
+    commentsToLikes: 0.001099
+    id: ck14kqbleqs1u0i197i23bz9a
     verified: false
-    hashtags: "#motivation, #getfit, #fitnessgirl, #gymlife"
-  - username: "alejosses"
+    hashtags: "#instagood, #videosgraciosos, #capturas, #humor"
+  - username: "juandaimond"
     fullname: >-
-      Alejandro Osses
+      JUANDAIMOND
     bio: >-
-      Realizador Audiovisual Cultura Gastronómica, siempre en pro de ayudar a nuestros productores y territorio olvidado, soñando y construyendo país.
+      Youtuber: 🕺🏿🕺🏿🕺🏿🕺🏿🍪🍮🥙🍟⬇️⬇️
     location: "Colombia"
-    followers: 6445
-    engagement: 464
-    commentsToLikes: 0.054299
-    id: ckaortrvpopqp0i787n3dcqch
+    followers: 53650
+    engagement: 179
+    commentsToLikes: 0.032440
+    id: ck6u91mx3uyoz0j71kuvli029
     verified: false
-    hashtags: "#foto, #comida, #pacifico, #film"
-  - username: "fumaratto"
+    hashtags: "#lovetodance, #dancefloor, #bailar, #dancer"
+  - username: "juanpatetrae"
     fullname: >-
-      ᖴᑌᗰᗩᖇᗩTTOᖴEᖇᖇOᔕO🐰ELCONEJO
+      Juanpatetrae 🔪
     bio: >-
-      🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪
+      ⬆️ Mira mis historias diarias ⬆️ ⚠️ #fooddaily ⚠️ Quédate y antójate todos los días🤤 Creador y buscador gastronómico 🔥 ✨ #foodlover ✨
     location: "Colombia"
-    followers: 498237
-    engagement: 110
-    commentsToLikes: 0.015256
-    id: ck5c7jvi37nsq0i115sgj8m53
-    verified: true
-    hashtags: "#aleteo, #look, #life, #producer"
-  - username: "marianelamodel"
-    fullname: >-
-      Marianela💋Ramos
-    bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
-    location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 7934
+    engagement: 277
+    commentsToLikes: 0.118383
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "vanhardeyo"
+    hashtags: "#reels, #streetfood, #burgerlover, #cali"
+  - username: "marialejamirandap"
     fullname: >-
-      ⚡️(VÂŃ) (HÃRDÈŸ) (ŸØ✞)
+      -M A R I A  A L E J A N D R A-
     bio: >-
-      “𝒟𝑅𝐸𝒜𝑀𝒮 & 𝒮𝒞𝐻𝐸𝑀𝐸𝒮” 🌊 ¢єσ ✨ @swaggflowslikewater тσ σя∂єя ☕️ @donhenrycafe #ᴍᴏɴᴀᴛ ᴘʀᴏᴅᴜᴄᴛs (ᴄʟɪᴄᴋ ʟɪɴᴋ ɪɴ ʙɪᴏ ᴛᴏ sʜᴏᴘ) #𝕸𝖚𝖑𝖙𝖎𝖕𝖔𝖙𝖊𝖓𝖙𝖎𝖆𝖑𝖎𝖙𝖞 ⛈👽🦄 ¹¹:¹¹
+      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
     location: "Colombia"
-    followers: 32505
-    engagement: 107
-    commentsToLikes: 0.071375
-    id: ck5cb96fxez880i111ldfwqqw
+    followers: 8470
+    engagement: 510
+    commentsToLikes: 0.041288
+    id: ckaouqrjw1esd0i78decx4wuk
     verified: false
-    hashtags: "#bossbabe, #monatskincare, #monatofficial, #monatglobal"
+    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
+  - username: "colombiaentusojos"
+    fullname: >-
+      Colombia En Tus Ojos 🇨🇴
+    bio: >-
+      Mostramos las maravillas de COLOMBIA 🇨🇴🇨🇴 Sigue mis viajes: @padondespues ⚡ ¿Negocios? Envíanos un mensaje directo 📩 Vídeo Concepción👇🏼👇🏼
+    location: "Colombia"
+    followers: 49989
+    engagement: 300
+    commentsToLikes: 0.188898
+    id: ckap8ds6mnvxg0i78wnupluqx
+    verified: false
+    hashtags: "#colombiatravel, #visitcolombia, #viaje, #travel"
+  - username: "lucerovilchezcocina"
+    fullname: >-
+      Lucero Vilchez
+    bio: >-
+      Cocinera, Emprendedora, Comunicadora, mamá y esposa feliz. 👩🏻‍🍳 #Clasesdecocina Inscripciones abiertas 👇 ☎ 4488387 📲Whatsapp 3193674119
+    location: "Colombia"
+    followers: 68584
+    engagement: 91
+    commentsToLikes: 0.287251
+    id: ck5q9f5usat9h0i11iui2hp3s
+    verified: false
+    hashtags: "#lucerococinaconuniversal, #recetasf, #lucerovilchezcocina, #recetas"
+  - username: "juanmejia28"
+    fullname: >-
+      Juan Mejía
+    bio: >-
+      TikTok +140k🍃 🇨🇴 ❤️ Colombia👑 ☀️ Eliminando prejuicios.💚🍃DM 💌📩📦 Mis viajes son MUNICIPALES🥰
+    location: "Colombia"
+    followers: 60664
+    engagement: 484
+    commentsToLikes: 0.046135
+    id: ckaowayl184dp0i780p2exrj9
+    verified: false
+    hashtags: "#popular, #viral, #viralvideos, #dailygram"
+  - username: "guillodeviaje"
+    fullname: >-
+      Guillo Enciso | Travel & Food
+    bio: >-
+      🔹Viajes, experiencias, comida, ☕ y 🍻 🔹Misión: conocer toda 🇨🇴 y explorar el 🗺️ 🔹🇨🇴: 25/32 (78%) 🔹🌍: 31/194 (16%) 🇸🇻🇧🇿🇬🇹🇨🇷 #Travel
+    location: "Colombia"
+    followers: 20526
+    engagement: 163
+    commentsToLikes: 0.074699
+    id: ck5hrs59jvdwb0i11i0ys8ta4
+    verified: false
+    hashtags: "#visitcolombia, #colombiahd, #micolombiaoficial, #visitencolombia"
 ---

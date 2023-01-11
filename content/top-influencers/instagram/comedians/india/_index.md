@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In India In 2022
+title: Top 10 Comedians Instagram Influencers In India In 2023
 description: >-
-  Find top comedians Instagram influencers in India in 2022. Most popular hashtags: #comedy #love #tiktok.
+  Find top comedians Instagram influencers in India in 2023. Most popular hashtags: #funnyvideos #comedy #funnymemes.
 platform: Instagram
-hits: 97
+hits: 89
 text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 97 Instagram influencers like this in India for you to pitch.
+text_bottom: Our search engine aggregates 89 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "ritik_bboyrocket"
+  - username: "inaginasethi"
     fullname: >-
-      𝐑𝐢𝐭𝐢𝐤 𝐃𝐢𝐰𝐚𝐤𝐚𝐫 (𝐁 𝐁𝐨𝐲 𝐑𝐨𝐜𝐤𝐞𝐭)🇮🇳
+      Nagina Sethi
     bio: >-
-      कलाकार [ iamhiphopkids ] Official Account Runner Up Of Super Dancer 2 SET Global award🏆 @gcpawards Comedian🎭 For Event's @diegoeventofficial YouTube 👇
+      Comedian 📧 Mail For Sponsors/Collabs Private account- @varunsethi7 New Video 👇🏻
     location: "India"
-    followers: 81192
-    engagement: 192
-    commentsToLikes: 0.034775
-    id: ck8wf7k05f9jl0j780adlb0n0
+    followers: 306121
+    engagement: 1397
+    commentsToLikes: 0.017457
+    id: ck8weqbcjeg8i0j78jitfvqp2
     verified: false
-    hashtags: "#ritikdiwakar, #ritik, #ritikbboyrocket, #ruelhiphopchoreography"
+    hashtags: "#tikiindia, #copied"
+  - username: "mayadanzig"
+    fullname: >-
+      Maya Danzig
+    bio: >-
+      nyc & chicago actor/comedian TV/Film Rep: UCAA & @desantitalents
+    location: "India"
+    followers: 4332
+    engagement: 1435
+    commentsToLikes: 0.033372
+    id: ckap1jyz1uusu0i78zva4no4x
+    verified: false
+    hashtags: "#teamjaney, #crownher"
   - username: "adarshanand111"
     fullname: >-
       Your Adarsh Anand
     bio: >-
-      📩 teamAdarshanand@gmail.com • MXTakatak : https://usr.mxtakatak.com/vQZT/5d210f6a • Comedian • Voice over Artist • Dancer • Anchor कुछ भी करवा लो 😀
+      📩 Adarsh@brandzup.media • Creative Boy • Comedian (FunnyBoy) • Impressionist 🤘 • Anchor • Multi Workaholic कुछ भी करवा लो 😀
     location: "India"
-    followers: 48836
-    engagement: 866
-    commentsToLikes: 0.023415
+    followers: 744707
+    engagement: 560
+    commentsToLikes: 0.013952
     id: ck8wf1z8bezpa0j78ps6u7fw9
     verified: false
-    hashtags: "#funnyboy, #instagramreels, #funnygirljiya, #instagram"
-  - username: "adarsh_adj"
-    fullname: >-
-      ADARSH ADJ
-    bio: >-
-      🎬Actor | 🎤Beatboxer | 🎛️DJ | 🎭Comedian ♦U see thousand of faces make sure I'm one of them ♦ For Booking 📲 : 8943192489
-    location: "India"
-    followers: 6709
-    engagement: 1256
-    commentsToLikes: 0.041015
-    id: ck6ugybeg5w3t0j71ft8ccqp5
-    verified: false
-    hashtags: "#liproll, #music, #malayalam, #beat"
+    hashtags: "#reelkarofeelkaro, #adarshacting, #adarsh, #adarshno1"
   - username: "majidshahriarii"
     fullname: >-
       MAJID SHAHRIARI NIA
     bio: >-
       Official Instagram account of Majid Shahriari Iranian Actor TV/Theater/Cinema Comedian Actor #مجید_شهریاری
     location: "India"
-    followers: 14176
-    engagement: 813
-    commentsToLikes: 0.047376
+    followers: 15479
+    engagement: 921
+    commentsToLikes: 0.047124
     id: ck6ug1gdx0e230j71b5yq4n1q
     verified: false
     hashtags: ""
-  - username: "prashastisingh"
+  - username: "dread_shoodly_"
     fullname: >-
-      Prashasti Singh
+      Dread Shoodly
     bio: >-
-      Comedian For Bookings contact: rupika@oml.in
+      Musicians,blogger,actor,comedian SUBSCRIBE to the YouTube!
     location: "India"
-    followers: 91532
-    engagement: 724
-    commentsToLikes: 0.010616
-    id: ck0tuscsq8iep0i19qq5vdjdz
+    followers: 100850
+    engagement: 166
+    commentsToLikes: 0.081342
+    id: ck6ub3ec978d30j71dsco3ojz
     verified: false
-    hashtags: "#comedy, #ickystickymonologues, #ladiesup, #ad"
-  - username: "therealscruncho"
+    hashtags: ""
+  - username: "izabellamiko"
     fullname: >-
-      Anthony B “SCRUNCHO” McKinely
+      Izabella Miko|Fun+Inspiration
     bio: >-
-      Actor / Comedian “All I Needed Was A Hug” Heavy Head in @igotthehookuptwo Appeared in “How High” @hbo’s “1st Amendment Standup” @bet’s Comic View
+      HAPPINESS IS AN INSIDE JOB Coyote Ugly/Hunters/Deadwood Actress💋Comedian👯‍♀️Professional Optimist #mindfulness #funnymemes #dance#thehappynow
     location: "India"
-    followers: 36799
-    engagement: 149
-    commentsToLikes: 0.102137
-    id: ck5q37s1mjmj80i11d7fs7nan
-    verified: false
-    hashtags: "#nellie, #moms, #rip, #porsche"
-  - username: "its_jamielever"
-    fullname: >-
-      Jamie Lever
-    bio: >-
-      Comedian/Actor ~Phil 4:13~ Business enquires Email: radhika@tulsea.com
-    location: "India"
-    followers: 202629
-    engagement: 1032
-    commentsToLikes: 0.016104
-    id: ck6twgkgyrv860j71nf4as7cj
+    followers: 125699
+    engagement: 608
+    commentsToLikes: 0.022687
+    id: ck0vuwg9amh5i0i19eziqvyjf
     verified: true
-    hashtags: "#jamielever, #throwback, #leverfam, #andhrastyle"
-  - username: "shivneel_dotcom"
+    hashtags: "#selfawareness, #realtalk, #instafunny, #funnyvids"
+  - username: "ayye_pap"
     fullname: >-
-      Shivneel
+      Cool Slim
     bio: >-
-      Cougar Boys 📹 Fijian/Indian 🇫🇯 Crossfit 🏋🏽‍♂️ Foodie 🍔🍟🥤 Comedian 🤔🤔🤔
+      Laugh now, laugh later | Standup Comedian🎤 Actor🎥 Writer📝 Director🎬 Management: @netourworth #AniyahMovie streaming on @amazonprimevideo 📽 MD to LA 📍
     location: "India"
-    followers: 28392
-    engagement: 635
-    commentsToLikes: 0.019978
-    id: ck5cfr6minhdd0i112psbz2w0
+    followers: 116841
+    engagement: 347
+    commentsToLikes: 0.063204
+    id: ck8sxkfdchpzc0j78syiu5vgi
     verified: false
-    hashtags: "#fireemoji, #pinnaclesnationalpark, #livetotheultimate, #onlyonmybreaksthough"
-  - username: "mamadebi"
+    hashtags: "#comedy, #jokes, #funnyvideos, #paptingafool"
+  - username: "boom2funny"
     fullname: >-
-      ﮼محمدإبی
+      Boom2funny
     bio: >-
-      🕋 ﷽ 🕋 🇮🇷﮼پسر﮼شرق ﮼طهرون🇮🇷 ⚜️﮼يك ﮼آذر🌛 ﮼خوش ﮼قلب⚜️ 🎭Teatr 🤹🏻‍♂️actor 🎬comedian امنیت پیج رضاروث🖥 ⚖️رفاقت هم مثل سیبیل به بعضیانمیاد+آرهوالا⚖️
+      Actor~Comedian~Director~Producer. Turn On Notifications😂 ME AND MY TEAM HERE TO SHOCK THE WORLD - Boom2funny LAUGH GANG
     location: "India"
-    followers: 77081
-    engagement: 105
-    commentsToLikes: 0.168353
-    id: ckaoslxzps1bv0i784nh88slm
+    followers: 29889
+    engagement: 399
+    commentsToLikes: 0.040552
+    id: ck5zvycsq55630i14c34a1wku
     verified: false
-    hashtags: "#video, #tiktok, #likeeapp, #likee"
-  - username: "skater_rahul"
+    hashtags: "#unk, #zombiedrill, #tupac, #california"
+  - username: "officialsarahlouise"
     fullname: >-
-      Skater Rahul🇮🇳
+      Sarah Louise (she/her)
     bio: >-
-      ♥️सबका प्यारा, उभरता सितारा♥️ Skater⛸️ /Writer✍️ /Comedian👻 Dm/Mail For Collaborations & Promotions (paid) New Video👇
+      87% leg | 10% rage | 3% lipstick 💋 Dancer | actor | comedian | model #lucyziegfield 🎩🐰✨ Sponsored @hottopic 33.2k on TikTok 😳 She/Her
     location: "India"
-    followers: 138882
-    engagement: 818
-    commentsToLikes: 0.015841
-    id: ck9wg5sozs0wm0j786ups0mpy
+    followers: 6200
+    engagement: 418
+    commentsToLikes: 0.027187
+    id: ck6ufib4qx81i0j71mp262k6o
     verified: false
-    hashtags: "#shayari, #takataktrending, #haryanvipoem, #haryanvivideos"
+    hashtags: "#oldfashionnotoldfashioned, #officialsarahlouise, #theoohtahdah, #boudoirphotography"
+  - username: "bobby_henline"
+    fullname: >-
+      Bobby Henline
+    bio: >-
+      Motivational Speaker Comedian - Actor, CoFounder Bravo748- Bobby Henline Foundation “Forging Forward” #whatsstrongwithyou #gotburns #welldonecomedian
+    location: "India"
+    followers: 66420
+    engagement: 169
+    commentsToLikes: 0.031281
+    id: ck0w1ljpmjy3k0i19d82042vi
+    verified: true
+    hashtags: "#gotburns, #welldonecomedian, #humor, #whatsstrongwithyou"
 ---

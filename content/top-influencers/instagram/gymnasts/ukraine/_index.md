@@ -1,130 +1,118 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2022
+title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top gymnasts Instagram influencers in Ukraine in 2022. Most popular hashtags: #rhythmicgymnastics #flexible #newbalance.
+  Find top gymnasts Instagram influencers in Ukraine in 2023. Most popular hashtags: #rhythmicgymnastics #gymnastics #teamukraine.
 platform: Instagram
-hits: 48
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 48 Instagram influencers like this in Ukraine for you to connect with.
+hits: 9
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "kate_sinika"
-    fullname: >-
-      •𝓢 𝓘 𝓝 𝓘 𝓒 𝓗 𝓚 𝓐• 🕊
-    bio: >-
-      • ONMedU / ONU I.I.Mechnikova • Master of Sport in Rhythmic Gymnastics
-    location: "Ukraine"
-    followers: 2631
-    engagement: 2497
-    commentsToLikes: 0.086489
-    id: ckap20j59wus30i7863wml1ly
-    verified: false
-    hashtags: ""
-  - username: "ariana.voronkina"
-    fullname: >-
-      ★Ariaɳa★
-    bio: >-
-      Rhythmic Gymnastics ⭐️ Deriugina school 👯‍♀️ 2️⃣ adult sport rank🔥 Account run by mom @yoga_catrin
-    location: "Ukraine"
-    followers: 29457
-    engagement: 337
-    commentsToLikes: 0.044584
-    id: ck8tcegt0z72d0j78i8ruwprx
-    verified: false
-    hashtags: "#chihua"
-  - username: "odessa_gimnastika"
-    fullname: >-
-      Odessa_gimnastika
-    bio: >-
-      Coach @sashanovember @stanislava_odessa 💖SC Advance💖 Rhythmic gymnastics Ukraine Odessa 80k dream
-    location: "Ukraine"
-    followers: 70501
-    engagement: 167
-    commentsToLikes: 0.014965
-    id: ck0vz4nbd7a8o0i19vqt17k2g
-    verified: false
-    hashtags: "#rhythmic, #flexibility, #flexibilityposts, #rhythmicgymnastic"
   - username: "anastasiia_yeliseieva"
     fullname: >-
       N Y
     bio: >-
       Master of sports in aerobic gymnastics Champion of 🇺🇦/ Trainer Finalist @missukraine_universe 2019 Top-50 photo models UKR Vice-studmiss 2018
     location: "Ukraine"
-    followers: 40780
-    engagement: 149
-    commentsToLikes: 0.020232
+    followers: 42875
+    engagement: 209
+    commentsToLikes: 0.016334
     id: ck5q9x04zdfss0i11p1wc539b
     verified: false
-    hashtags: ""
-  - username: "stasya_makeeva_"
-    fullname: >-
-      #девочкашпагатsm🍑
-    bio: >-
-      ➖Тренер по стретчингу и художественной гимнастике ➖15лет профессионального спорта ➖Опыт работы 4года Рабочая страничка @gymnastics_makeeva_stasya_kh
-    location: "Ukraine"
-    followers: 6544
-    engagement: 606
-    commentsToLikes: 0.016330
-    id: ck5zxhd9780ig0i14lmgt4tgy
-    verified: false
-    hashtags: "#toptrending, #split"
-  - username: "vikaonoprienko"
-    fullname: >-
-      Vika Onoprienko
-    bio: >-
-      🇺🇦 National Team Ukraine Rhythmic Gymnastics 🥈Silver medallist at the Europa Championships 🥇🥇🥇🥈Winner and medallist Gymnasiade @deriuginaschool.ua
-    location: "Ukraine"
-    followers: 16024
-    engagement: 1415
-    commentsToLikes: 0.008012
-    id: ck6u6gjmefh0g0j71111od2hd
-    verified: false
-    hashtags: "#rg, #la, #newbalance, #deriuginaschool"
-  - username: "nikolchenko_vlada"
-    fullname: >-
-      Nikolchenko Vladа
-    bio: >-
-      🇺🇦National Team Ukraine 🤸🏻‍♂️Rhythmic Gymnastics 🥉🥉European Games 🥉European Championship 🥉World 📍Kyiv, Ukraine
-    location: "Ukraine"
-    followers: 32852
-    engagement: 1175
-    commentsToLikes: 0.007257
-    id: ck5c2eq8nx44k0i112zdxpmaz
-    verified: false
-    hashtags: "#relax, #vacation, #roadtotokyo, #vladanikolchenko"
-  - username: "yevgeniya_gomon"
-    fullname: >-
-      Yevgeniya Gomon
-    bio: >-
-      •Coach of Rhythmic Gymnastics•🇺🇦 finalist of the Olympic Games in London & Rio World Championship🥉 World Universiade🥇🥈🥉 European Games🥈🥉
-    location: "Ukraine"
-    followers: 11734
-    engagement: 608
-    commentsToLikes: 0.022646
-    id: ck6u6gkuhfh7q0j71suu2ijf9
-    verified: false
-    hashtags: "#happyvalentinesday, #olympicheroesua, #stayhomestaysafe, #washyourhands"
+    hashtags: "#cocacola"
   - username: "alenadmytrash"
     fullname: >-
       Alena Dmytrash
     bio: >-
       Coach • Rhythmic gymnastics 🇺🇦UKR National team 🏆Three-time finalist of the Olympic Games-2008,2012,2016 🥉World Championship 🥈🥉European Games
     location: "Ukraine"
-    followers: 10919
-    engagement: 546
-    commentsToLikes: 0.015195
+    followers: 10788
+    engagement: 562
+    commentsToLikes: 0.020296
     id: ck6u6gk3gfh430j71mm1ahhv9
     verified: false
-    hashtags: "#kiev, #autumn, #summer, #nature"
-  - username: "uvarovaa.p"
+    hashtags: "#kiev, #summer, #nature, #team"
+  - username: "olga__golub"
     fullname: >-
-      Уварова Полина
+      Olga Golub
     bio: >-
-      I play with air🕊 Aerial gymnast World Champion 2018🏆 Two-time European Champion 2018,9🏆 Candidate for master of sport in rg Coach ЖИВИ СМЕЛО.ЖИВИ ЯРКО
+      Master of Sports in Rhythmic Gymnastics Ukrainian next top-model 3 Model, dancer 🔍MA: @vomodel Currently in Hong Kong 📥Сотрудничество в Direct
     location: "Ukraine"
-    followers: 6827
-    engagement: 1340
-    commentsToLikes: 0.024349
-    id: ck0twbf8ier050i191no9cu00
+    followers: 28915
+    engagement: 142
+    commentsToLikes: 0.017858
+    id: ckap03w5gom790i78enx0zizj
     verified: false
-    hashtags: "#circuseverydamnday, #aerialsilk, #weheartaerial, #quarantineandchill"
+    hashtags: "#grain, #collaborationwork, #cityhowwhy, #bookc"
+  - username: "k_pohranychna"
+    fullname: >-
+      khrystyna pohranychna
+    bio: >-
+      Rhythmic gymnastics Ukraine 🇺🇦 🥈🥈🥈🥉medalist of European Championships 2018 🥈silver medalist at the Youth Olympic Games
+    location: "Ukraine"
+    followers: 12497
+    engagement: 1609
+    commentsToLikes: 0.008034
+    id: ck6udz69mnyv30j712qgz5r55
+    verified: false
+    hashtags: "#rhythmicgymnastics, #teamukrainerg, #teamukraine, #tramukraine"
+  - username: "yevameleshchuk"
+    fullname: >-
+      Yeva Meleshchuk
+    bio: >-
+      Ukraine National team Rhythmic Gymnastics 🇺🇦 30th World Summer Universiade 🥇🥉🥉 World Cup 2019 🥈🥈 Champion of Ukraine 🥇🥈🥉
+    location: "Ukraine"
+    followers: 8759
+    engagement: 1254
+    commentsToLikes: 0.016868
+    id: ckapcl6q549ul0i78br2jtr20
+    verified: false
+    hashtags: "#rhythmicgymnastics, #europeanchampionship, #justlive, #yevameleshchuk"
+  - username: "orobets_ivan"
+    fullname: >-
+      IVAN OROBETS
+    bio: >-
+      
+    location: "Ukraine"
+    followers: 28978
+    engagement: 946
+    commentsToLikes: 0.014693
+    id: ck5c3ohruzqs70i111yc4udvy
+    verified: false
+    hashtags: "#calisthenics, #bodybuilding, #planche, #frontlever"
+  - username: "anna_rizatdinova"
+    fullname: >-
+      Anna Rizatdinova
+    bio: >-
+      🤸🏼‍♂️Founder @rizatdinova.academy 🥉Olympic bronze medalist 🥈Dancing with the stars 👟Under Armour ambassador ☎️ +380967664417 Елена 📚 Книга 👇🏼
+    location: "Ukraine"
+    followers: 160452
+    engagement: 309
+    commentsToLikes: 0.009916
+    id: ck5c9e7ivb9pa0i116iv84j9t
+    verified: false
+    hashtags: "#fashion, #underarmourukraine, #styleoftheday, #style"
+  - username: "george_mur"
+    fullname: >-
+      Юрий Муравьёв | Фотограф
+    bio: >-
+      ▫️ Работа со звёздами 🔝 ▫️ Фотограф театра «Русская песня» Н.Г. Бабкина ➕ ▫️ Рекламная съёмка 💲 Фотоальбом @george_mur_photo
+    location: "Ukraine"
+    followers: 29175
+    engagement: 460
+    commentsToLikes: 0.035655
+    id: ck6txsc1kzkiw0j71ipznqr4y
+    verified: false
+    hashtags: "#hot, #dear, #photooftheday, #followhim"
+  - username: "daria__skvortsova"
+    fullname: >-
+      Дарья Скворцова
+    bio: >-
+      💪🏻Делаю танцоров и фитоняшек из биоматериала от 4 до ∞ ⠀ 🔝Тренирую в @lets_fly_pole_dance_dnepr
+    location: "Ukraine"
+    followers: 9184
+    engagement: 472
+    commentsToLikes: 0.023111
+    id: ck6uhksg79opg0j71j5h7b1mr
+    verified: false
+    hashtags: "#poletrick, #pole, #flexible, #stretching"
 ---

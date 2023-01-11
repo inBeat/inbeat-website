@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Miami In 2022
+title: Top 10 Architecture Instagram Influencers In Miami In 2023
 description: >-
-  Find top architecture Instagram influencers in Miami in 2022. Most popular hashtags: #miami #architecture #miamibeach #realestate.
+  Find top architecture Instagram influencers in Miami in 2023. Most popular hashtags: #architecture #miami #interiordesign #design.
 platform: Instagram
-hits: 85
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 85 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 111
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 111 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "sebastianacostahomes"
+  - username: "t_w_o"
     fullname: >-
-      Sebastian Acosta
+      Tomás Westenenk Orrego
     bio: >-
-      Helping you find your dream home🏠❣ Luxury Properties Engel & Volkers Miami Realtor / Book Author /
+      Architect / Photographer From Chile Colorblind @t_w_o
     location: "United States"
-    followers: 114086
-    engagement: 100
-    commentsToLikes: 0.022227
-    id: ck14j1me2i6dh0i19cgsta1i0
+    followers: 127977
+    engagement: 102
+    commentsToLikes: 0.016057
+    id: ck6tiba060e3o0j711u3pz1nw
     verified: false
-    hashtags: "#futurearchitect, #home, #designboom, #instaarchitecture"
-  - username: "visuals.by.luis"
+    hashtags: "#minimalista, #travel, #fromwhereidrone, #dronephotography"
+  - username: "eolodesign"
     fullname: >-
-      MIAMI Visuals
+      EOLO DESIGN MIAMI
     bio: >-
-      🌎 #MIAMI 📷 #SonyA7III | #iPhoneXR 🎥 #DJIMavicPro2 #Cityscapes | #Architecture | #Travel
+      God of the Winds! Nature inspires our holistic & Multi- Award winning Architecture*Interiors
     location: "United States"
-    followers: 15523
-    engagement: 795
-    commentsToLikes: 0.033360
-    id: ck0tznomar1zb0i19158b80wk
+    followers: 27791
+    engagement: 328
+    commentsToLikes: 0.004409
+    id: ck0w3wl65vnkp0i1978qn2y7z
     verified: false
-    hashtags: "#foundinmiami, #miamilove, #downtownmiami, #miamifun"
-  - username: "miami_style_magazine"
+    hashtags: "#inspo, #iida, #passion, #award"
+  - username: "america_states"
     fullname: >-
-      Miami Style Magazine
+      United States
     bio: >-
-      English ▪ Español Luxury Lifestyle ▪ Restaurants ▪ Nightlife ▪ Hotels ▪ Fashion ▪ Music ▪ Art Gallery Real Estate ▪ Interior Design IN GOD WE TRUST
+      Instagram page about United States Of America The community organized in 2016 Admin - @Andrew_Salvatore_ Email: andreyevandrei@gmail.com
     location: "United States"
-    followers: 35822
-    engagement: 351
-    commentsToLikes: 0.029166
-    id: ck0tznosyr21t0i19uu0io7el
+    followers: 65058
+    engagement: 314
+    commentsToLikes: 0.010133
+    id: ck5q2yc8hid6s0i11h7kpz0x5
     verified: false
-    hashtags: "#doralrestaurant, #miamiclubs, #brickell, #doral"
-  - username: "onethousandmuseum"
+    hashtags: "#nbcbayarea, #californialove, #nycityworld, #ca"
+  - username: "edward__granger"
     fullname: >-
-      One Thousand Museum
+      Edward Granger
     bio: >-
-      Miami’s most prestigious new residential address—now complete. By @zahahadidarchitects
+      NY, NY back to nature 🌱 💚 art of optimism 🌈 edward@egranger.com
     location: "United States"
-    followers: 27349
-    engagement: 135
-    commentsToLikes: 0.022546
-    id: ck14kwxrkrqe10i1979aicfrw
-    verified: false
-    hashtags: "#onethousandmuseum, #repost, #zahahadid, #zahahadidarchitects"
-  - username: "exotic.buildings"
-    fullname: >-
-      Exotic Buildings 🏙🌇🔑
-    bio: >-
-      ❖ Developments ❖ Designs ❖ Listings ❖ ❖ Discover The World’s Best Real Estate ❖ ❖ @Houses Media partner 🔑
-    location: "United States"
-    followers: 263660
-    engagement: 100
-    commentsToLikes: 0.011445
-    id: ck14k3o4znksz0i19ew5536tp
-    verified: false
-    hashtags: "#mansion, #houses, #realestate, #luxury"
+    followers: 79165
+    engagement: 222
+    commentsToLikes: 0.017665
+    id: ck5bxb68jndy80i11h09vi551
+    verified: true
+    hashtags: "#rockwellgroup, #scorpio, #metallics, #edwardgranger"
   - username: "oppenheimarchitecture"
     fullname: >-
       Oppenheim Architecture
     bio: >-
-      Design Follows Life. Form Follows Feeling. Architecture | Interiors | Planning MIAMI . NEW YORK . BASEL
+      Design Follows Life. Form Follows Feeling. Architecture | Interiors | Planning MIAMI . BASEL
     location: "United States"
-    followers: 25276
-    engagement: 170
-    commentsToLikes: 0.012310
+    followers: 28747
+    engagement: 178
+    commentsToLikes: 0.012804
     id: ck6u21cbnp4r80j716b3hl6n5
     verified: false
-    hashtags: "#nurturenature, #gardenview, #pools, #photography"
-  - username: "lifestyle_production_group"
+    hashtags: "#texturaldetails, #sustainablearchitecture, #architectureanddesign, #arcfly"
+  - username: "colby_bastien"
     fullname: >-
-      Lifestyle Production Group
+      Colby Bastien 🇭🇹
     bio: >-
-      Video Production & Photography for the top 1% of Real Estate & Brands.⁣⁣ LPG is the exclusive owner of all content posted. DM for booking inquiries.
+      📍Brooklyn, New York Cultural Ambassador •Visual storyteller Travel / Art / Culture / Lifestyle Featured:@essence Hope you enjoy this visual diary🎨📸
     location: "United States"
-    followers: 70926
-    engagement: 88
-    commentsToLikes: 0.021069
-    id: ck14j0si1i1zv0i1933gaguog
+    followers: 34252
+    engagement: 258
+    commentsToLikes: 0.042511
+    id: ck6tt8rvd998l0j71gkinoo6r
     verified: false
-    hashtags: "#architecture, #milliondollarlisting, #nyc, #miamirealestate"
-  - username: "gregorychoplinofficial"
+    hashtags: "#thetravelist, #lifestyleblogger, #stthomas, #wanderlust"
+  - username: "theisaacrosenberg"
     fullname: >-
-      Gregory Choplin
+      Isaac Rosenberg
     bio: >-
-      *Muay thai 🌎🌍 world champion *Muaythai & MMA Striking coach *@isopurecompany athlete
+      NYC - MIA Real Estate Advisor Sales | Investment | Rentals | Extended Stays
     location: "United States"
-    followers: 32850
-    engagement: 262
-    commentsToLikes: 0.029256
-    id: ck136ue8z8b9f0i194a1bqu8c
+    followers: 19558
+    engagement: 237
+    commentsToLikes: 0.032233
+    id: ck8svv19mcstd0j78l4c7miof
     verified: false
-    hashtags: "#keepcalm, #sinkorswim, #swimorsink, #travel"
-  - username: "conexao.america"
+    hashtags: "#views, #luxuryhomes, #home, #loftstyle"
+  - username: "realestate"
     fullname: >-
-      conexaoamerica
+      @RealEstate
     bio: >-
-      Dicas da América🇺🇸,🇧🇷fotos,lugares,compras, curiosidades,restaurantes,viagens,etc 👉Facebook @conexaoamericaoficial 👉Twitter @americaconexao
+      A Global Real Estate Community 🌎 Buy | Sell | Rent | Promote 🤍 Tag @RealEstate 🏦 @houses partner🔑 Want to Be Featured? 📸 Visit us below!
     location: "United States"
-    followers: 9394
-    engagement: 400
-    commentsToLikes: 0.012769
-    id: ck5q2yd9didcp0i11kxkjc1wh
+    followers: 210004
+    engagement: 69
+    commentsToLikes: 0.041221
+    id: ck13b75i4u0ju0i19q6edh4b0
     verified: false
-    hashtags: "#iloveusa, #thisisnewyorkcity, #miami, #coronavirus"
-  - username: "iamjulianalimac"
+    hashtags: "#listed, #modernhome, #design, #mansion"
+  - username: "kerrieandspence"
     fullname: >-
-      Juliana Lima Cianfaglione 🧿
+      Kerrie and Spence
     bio: >-
-      👩🏻‍💻Architect Designer Entrepreneur 🧠 #PRO @designprostudioofficial creating @casalimaofficial Looking for great design ? Check out our website !
+      •The Block 2018 📧kerrieandspence@gmail.com •@4shedsproject •Ambassadors @sunbury_ford •Ambassadors @greenhipworkwear •Ambassadors @rug_addiction
     location: "United States"
-    followers: 58704
-    engagement: 76
-    commentsToLikes: 0.255114
-    id: ck0uerm6olzk60i19n9ibtw9f
+    followers: 26293
+    engagement: 162
+    commentsToLikes: 0.089995
+    id: ck8sxd2mogy7x0j78fhdw4fmv
+    verified: true
+    hashtags: "#architecturelovers, #architect, #house, #countryliving"
+  - username: "ag0nzphoto"
+    fullname: >-
+      A L B E R T O•G O N Z Á L E Z
+    bio: >-
+      Beauty • Fashion • Editorial • Contributor • Ecomm • Model Development • AfroLatinx 🇵🇷 in Miami📍 www.agonzphoto.com
+    location: "United States"
+    followers: 26262
+    engagement: 197
+    commentsToLikes: 0.104192
+    id: ck5cg1y6fo0xi0i11vy49gikn
     verified: false
-    hashtags: "#interiordesign, #design, #construction, #interiordesigninspo"
+    hashtags: "#glamour, #bazaarkidseditorial, #editorial, #chanel"
 ---

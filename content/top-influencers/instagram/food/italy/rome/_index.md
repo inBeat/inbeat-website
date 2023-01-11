@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Rome In 2022
+title: Top 10 Food Instagram Influencers In Rome In 2023
 description: >-
-  Find top food Instagram influencers in Rome in 2022. Most popular hashtags: #food #rome #roma #italy.
+  Find top food Instagram influencers in Rome in 2023. Most popular hashtags: #rome #roma #food #italy.
 platform: Instagram
-hits: 131
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 131 Instagram influencers like this in Rome, Italy for you to connect with.
+hits: 102
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 102 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
   - username: "magnaromadvisor"
     fullname: >-
       Magnaromadvisor
     bio: >-
-      🕵🏻‍♀️🕵🏻Guida ai migliori ristoranti di Roma 📍Seguici per sapere sempre dove mangiare ⚠️Tagga @magnaromadvisor nelle tue storie Mappa Magnaromadvisor👇🏻
+      🕵🏻‍♀️🕵🏻Guida ai migliori ristoranti di Roma 🍝Seguici per sapere sempre dove mangiare 📍Tagga @magnaromadvisor nelle tue storie Mappa Magnaromadvisor👇🏻
     location: "Italy"
-    followers: 18576
-    engagement: 678
-    commentsToLikes: 0.487221
+    followers: 19464
+    engagement: 488
+    commentsToLikes: 0.292290
     id: ck8tautttt5k30j785zm9zp03
     verified: false
-    hashtags: "#aperitiviroma, #mangiare, #parioli, #sushiaddicted"
+    hashtags: "#meat, #rome, #cucina, #burger"
   - username: "merendaroma"
     fullname: >-
       Merenda a Roma
     bio: >-
-      Suggerimenti e consigli su dove fare la merenda a Roma. #merendaroma • @danilo_cappa @dopocenaaroma @pranzoceneroma @aperitiviroma @colazioneroma
+      Suggerimenti e consigli sulla merenda a Roma #merendaroma • @danilo_cappa @dopocenaaroma @pranzoceneroma @aperitiviroma @colazioneroma @sushiroma__
     location: "Italy"
-    followers: 35635
-    engagement: 89
-    commentsToLikes: 0.006705
+    followers: 41370
+    engagement: 94
+    commentsToLikes: 0.006891
     id: ck5q6b6w9wotb0i11ycshqzjq
     verified: false
     hashtags: ""
-  - username: "rachelaliceroddy"
-    fullname: >-
-      rachel
-    bio: >-
-      Writing, usually about food, in Rome. 5 Quarters / 2 Kitchens. @guardianfeast @internazionale
-    location: "Italy"
-    followers: 47034
-    engagement: 184
-    commentsToLikes: 0.028899
-    id: ck13butfmx8t30i19z30z7inb
-    verified: false
-    hashtags: "#fandmawards2020, #2metrimask, #markettotablerome"
-  - username: "hopefully_80"
-    fullname: >-
-      [ H o p e F u l l y ]
-    bio: >-
-      | Food, Travel, Déco & Lifestyle | |📍Amiens |
-    location: "Italy"
-    followers: 6519
-    engagement: 842
-    commentsToLikes: 0.019154
-    id: ck8t3ut254kqd0j78eoydujy5
-    verified: false
-    hashtags: "#italie, #italy, #foodie, #interior"
-  - username: "marialuigiabalsamo"
-    fullname: >-
-      Maria Luigia Balsamo ⚘
-    bio: >-
-      📍Italia - Basilicata Travel | lifestyle ✉️ marialuigiabalsamo@gmail.com
-    location: "Italy"
-    followers: 11954
-    engagement: 609
-    commentsToLikes: 0.032559
-    id: ck6tm50ur76yq0j71dyr0bds8
-    verified: false
-    hashtags: "#roma, #volgobasilicata, #sud, #puglialovers"
-  - username: "food_travel_etc"
-    fullname: >-
-      Anchit Jain
-    bio: >-
-      A blog focusing on food, travel, music, movies, books, etc. For any kind of collaborations/ promotions, DM or email at anchit.foodtraveletc@gmail.com.
-    location: "Italy"
-    followers: 42132
-    engagement: 128
-    commentsToLikes: 0.002303
-    id: ckap17oblten20i78ewwonubc
-    verified: false
-    hashtags: "#foody, #likeforfollow, #photooftheday, #instagood"
   - username: "salt_and_sugar_lab"
     fullname: >-
       Inna LAButova, Food + Photo
     bio: >-
       🍎 Good, healthy & easy food 📷 FOOD PHOTOGRAPHER 📷 🇮🇹 Rome, Italy (lang: Russian, Italian, English) Wedding Photo account - @InnaLabu
     location: "Italy"
-    followers: 2851
-    engagement: 3106
-    commentsToLikes: 0.122207
+    followers: 4289
+    engagement: 1309
+    commentsToLikes: 0.236498
     id: ckaowhgwu8ylv0i786wzcd9pf
     verified: false
-    hashtags: "#monthlytechniquecollab"
-  - username: "colazioneroma"
+    hashtags: "#christmascountdowncollab, #tastethecomposition, #onlyonechocolate, #texthursdays"
+  - username: "marcomartinichef"
     fullname: >-
-      Colazione a Roma
+      Marco Martini
     bio: >-
-      Suggerimenti e consigli sulla colazione a Roma #colazioneroma • @danilo_cappa @pranzoceneroma @dopocenaaroma @merendaroma @aperitiviroma @sushiroma__
+      Chef-Owner @marcomartini.restaurant Viale Aventino 121 Rome Michelin Star💮 chefmarcomartini@gmail.com #marcomartini
     location: "Italy"
-    followers: 42457
-    engagement: 97
-    commentsToLikes: 0.009781
-    id: ck5zoe1q3qcp30i14s6ru7wk6
+    followers: 13014
+    engagement: 274
+    commentsToLikes: 0.012175
+    id: ck5hpclenr4tu0i11uuc7qgpv
     verified: false
-    hashtags: "#breakfast, #colazioneroma, #colazionearoma, #colazionesana"
-  - username: "krsikapamarija"
+    hashtags: "#italy, #finedining, #restaurant, #marcomartini"
+  - username: "roma.dinner"
     fullname: >-
-      Marija Krsikapa
+      Roma Dinner 🍷🧊
     bio: >-
-      🇮🇹Based in MILAN, ITALY 👠FASHION | TRAVEL | LIFESTYLE 💌Let’s get in touch: marijakrsikapa@yahoo.co.uk 🎥Check out my new YouTube Channel
+      Solo ristoranti romani 👊🌴 Ideatore @vincenzo.dinner 📷🍝🏚️ Consigliamo dove trovare del buon cibo🌵🌴 📩🍀 Seguici 'DON'T BE SHY'
     location: "Italy"
-    followers: 238730
-    engagement: 466
-    commentsToLikes: 0.014846
-    id: ck5zlqc3rl6tf0i14xj06as9s
+    followers: 23466
+    engagement: 149
+    commentsToLikes: 0.026972
+    id: ck8tav8kut7ek0j78o4qmulcm
     verified: false
-    hashtags: "#ootd, #fun, #italy, #sunset"
-  - username: "mara_soul_kitchen"
+    hashtags: "#foodroma, #foodgourmet, #pomodoro, #trastevere"
+  - username: "elena_sofia5"
     fullname: >-
-      Mara
+      Elena Sofia Marini ∞🌹
     bio: >-
-      👓 Economista 🍪 Food blogger 👜 Appassionata di moda 💌 scaramuzzomara@gmail.com 👇 Blog
+      ❝AℳA,ama follemente,ama più che puoi e se ti dicono che è peccato,ama il tuo peccato e sarai innocente.❞ W.Shakespeare🔐ℝ❤️✈️
     location: "Italy"
-    followers: 13345
-    engagement: 614
-    commentsToLikes: 0.087070
-    id: ckf5lnmudq7gr0j23jq2wi0h5
+    followers: 18736
+    engagement: 338
+    commentsToLikes: 0.443586
+    id: ckaouef6kzx0z0i78b4cwhifj
     verified: false
-    hashtags: "#mangiaresano, #senzaburro, #dolcilight, #dolcisenzaburro"
+    hashtags: "#tropicallife, #adv, #tropicalvibes, #islandlife"
+  - username: "robertanbianca"
+    fullname: >-
+      Roberta Bianca
+    bio: >-
+      🍕 Italian girl, Rome 👗 Fashion Film & Food 📷 I take outfit photos in my mirror 📩 collab: roberta.bianca@icloud.com 🧁 Cenerentola col pallone👇🏼
+    location: "Italy"
+    followers: 25441
+    engagement: 112
+    commentsToLikes: 0.095764
+    id: ck5c6w4yg6bnt0i11ptmbffk0
+    verified: false
+    hashtags: "#booksaddict, #lookinspo, #goodmorning, #ootdpost"
+  - username: "its.jpap96"
+    fullname: >-
+      Sj Plumari
+    bio: >-
+      Rome📍 | ᴅᴇsɪɢɴᴇʀ Dancer | food lover | and u ?
+    location: "Italy"
+    followers: 9367
+    engagement: 599
+    commentsToLikes: 0.013502
+    id: ckap5i60qbshr0i78sfz9siru
+    verified: false
+    hashtags: "#morning, #italy, #boy, #roma"
+  - username: "sicilianicreativi"
+    fullname: >-
+      Ada Parisi
+    bio: >-
+      #madeinSICILY , #author of #SICILIANICREATIVI blog |📍ROME | storyteller of #madeinitaly, food writer, travel content creator | all photos are mine
+    location: "Italy"
+    followers: 61540
+    engagement: 165
+    commentsToLikes: 0.054224
+    id: ck0vxodp4zwt20i198a14k0c7
+    verified: false
+    hashtags: "#lievitomadre, #primipiatti, #tradizionisiciliane, #ricettevegetariane"
+  - username: "leonardomariottii"
+    fullname: >-
+      Leonardo Mariotti
+    bio: >-
+      🍽| Founder of @oggisgraviamo 🧑🏻‍💻| @rome_rooftops 📚| @uniecampus 📱| Digital Marketing 🍔| Food Lover 🌎| Travels 📍| Rome
+    location: "Italy"
+    followers: 5147
+    engagement: 1196
+    commentsToLikes: 0.046069
+    id: ckaosjs3ersj90i78tlbl8rpf
+    verified: false
+    hashtags: "#igerslazio, #igersrome, #vivovaticano, #cometorome"
 ---

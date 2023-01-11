@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Canada In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Canada In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Canada in 2022. Most popular hashtags: #inked #tattoo #art.
+  Find top tattoo-artists Instagram influencers in Canada in 2023. Most popular hashtags: #tattooartist #illustration #tattoo.
 platform: Instagram
-hits: 112
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 112 Instagram influencers like this in Canada for you to connect with.
+hits: 53
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 53 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "cindy_chronicink"
+  - username: "naomikingofficial"
     fullname: >-
-      Cindy Liu
+      Naomi King
     bio: >-
-      chronic ink_tattoo artist 🎋👩🏻‍🎨 🇨🇦Toronto Booking is open 🙈No DM ☎️ (416) 544-0311 (12-8pm) info@chronicinktattoo.com
+      Musician, actor, author, digital & tattoo artist, nonbinary, asexual, animal-loving vegan. 💖 Vancouver, Canada 🍁 🇵🇭🇨🇦🇳🇱🇯🇵🇦🇺🇮🇳🇸🇬 @naomikingtattoos
     location: "Canada"
-    followers: 16432
-    engagement: 736
-    commentsToLikes: 0.012465
-    id: ck8t7l3uhh7mw0j783p8g7tkp
+    followers: 12495
+    engagement: 526
+    commentsToLikes: 0.031121
+    id: ck5heggxyss1y0i115qyylh0v
     verified: false
     hashtags: ""
-  - username: "shaughnessy"
-    fullname: >-
-      SHAUGHNESSY OTSUJI
-    bio: >-
-      ⊍⊍ restorative tattoo artist ☻ owner at @studiosashiko ❋ owner at @pinkavocafe ★ collabs: info@helloshaughnessy.com
-    location: "Canada"
-    followers: 102456
-    engagement: 139
-    commentsToLikes: 0.030587
-    id: ck0twgwxefbsd0i19lfbrm1l6
-    verified: false
-    hashtags: "#breastcancerawareness, #mumgrymoment, #otsujihome, #inyourfacealopecia"
-  - username: "luxelipstudio"
-    fullname: >-
-      Luxe Lip Studio | Lip Blush ˙💋
-    bio: >-
-      👄 Lip Tattoo Artist 📆 Now booking 2021 🌈 Vancouver, BC
-    location: "Canada"
-    followers: 8167
-    engagement: 983
-    commentsToLikes: 0.259194
-    id: ckapam6ukwnv90i7895iwpifp
-    verified: false
-    hashtags: "#tinadavieslipblush, #iloveinklips, #relationshipgoals, #tattoo"
   - username: "lukalajoie"
     fullname: >-
       Luka lajoie
     bio: >-
       🕺🏼 Tattoo artist 🇨🇦 Montreal For bookings, my Youtube channel and everything else click the link below👇
     location: "Canada"
-    followers: 281371
-    engagement: 128
-    commentsToLikes: 0.018102
+    followers: 284931
+    engagement: 114
+    commentsToLikes: 0.011542
     id: ck5buaythhgrf0i11wozlkgzk
     verified: false
-    hashtags: ""
-  - username: "sam.daveena"
+    hashtags: "#ifyouknowyouknow"
+  - username: "shaemotztattoos"
     fullname: >-
-      Eighth House 88
+      S H A E   M O T Z
     bio: >-
-      Intuitive Tattoo Artist Tarot Consultations & Intentional Designs [Toronto] @trutattooshop Now Booking Learn More⤵️
+      Tattoo Artist shaemotztattoos@gmail.com | Email only please Calgary, AB
     location: "Canada"
-    followers: 3815
-    engagement: 791
-    commentsToLikes: 0.045498
-    id: ck8t8vilalzuk0j787tdy8mpq
+    followers: 52366
+    engagement: 704
+    commentsToLikes: 0.011379
+    id: ck8t4a06m607z0j784i5o5166
     verified: false
-    hashtags: "#lineworktattoo, #torontotattoo, #femaletattooartist, #intentionaltattoo"
-  - username: "queenie_tattoo_ist"
-    fullname: >-
-      Queenie Yang
-    bio: >-
-      🌓Tattoo Artist 🌓Golden Iron Tattoo Studio 🌓Dotwork Linework Blackwork 🌓DM or Email to book
-    location: "Canada"
-    followers: 6180
-    engagement: 261
-    commentsToLikes: 0.014404
-    id: ck0vz476277uz0i19th0sk4yg
-    verified: false
-    hashtags: "#tattooist, #toronto, #ocean, #design"
+    hashtags: "#yyc, #flowertattoo, #yyctattoos, #calgaryarts"
   - username: "ajmartinart"
     fullname: >-
       Amanda Martin
     bio: >-
       Character designer & Tattoo Artist Tattoo Insta- @ajmartin.tattoos 🌟 Toronto 🇨🇦 Please credit if you post my work :)
     location: "Canada"
-    followers: 25950
-    engagement: 514
-    commentsToLikes: 0.042640
+    followers: 25221
+    engagement: 476
+    commentsToLikes: 0.023275
     id: ck8t0bxvwrjqh0j782ij2nrwm
     verified: false
-    hashtags: "#6fanarts, #digitalart, #photoshop, #sylvanaswindrunner"
-  - username: "paultougas"
+    hashtags: "#photoshop, #digitalart, #6fanarts, #flowers"
+  - username: "draworking"
     fullname: >-
-      PAUL TOUGAS
+      ꕔ𝔫𝔡𝔯𝔢𝔦 𝕯ʀᴀᴡ φʀ Ҟɪɴɢ Tattoo
     bio: >-
-      TATTOO | ARTIST 📍Quebec City,Canada ✈️ ( Toronto ) October 15th to 29th ⚒ @almanzard_gallery 📩 ⤵️
+      Tattoo Artist Vancouver based Owner @lovemoretattoo Pro-team @fusion_ink ❣️& Assistant @tiaberrys 📬 bookings : Draworking@gmail.com
     location: "Canada"
-    followers: 35079
-    engagement: 167
-    commentsToLikes: 0.016320
-    id: ck5bub0kbhgu30i11610caqnr
+    followers: 21973
+    engagement: 470
+    commentsToLikes: 0.023262
+    id: ck5ho6mswp18d0i11fu87jub0
     verified: false
-    hashtags: "#bngink, #bngtattoos, #bngtattoosociety, #skinartmag"
-  - username: "inkstinctcolors"
+    hashtags: "#draworking, #vancouverartist, #vaporwave, #yvr"
+  - username: "katy.wiedemann"
     fullname: >-
-      Inkstinct Colors
+      Katy Wiedemann
     bio: >-
-      Inkstinct is the Home for the most creative Tattoo Artists. Collection curated by @inkstinct.co Submit: #inkstinctsubmission or DM us. Download:
+      Scientific Illustrator & Tattoo Artist @hereditarytattoo Wilmington, DE, USA She/Her Please no DMs BOOKS CLOSED ON HIATUS Merch available 👇🏻
     location: "Canada"
-    followers: 444001
-    engagement: 49
-    commentsToLikes: 0.004584
-    id: ck5q7w3qz3bcc0i11ypt4yteg
+    followers: 58404
+    engagement: 908
+    commentsToLikes: 0.011842
+    id: ck0ubyo2pfndq0i19iwbilops
     verified: false
-    hashtags: ""
-  - username: "focustattoos"
+    hashtags: "#boneart, #btattooing, #bugtattoo, #leggings"
+  - username: "luxelipstudio"
     fullname: >-
-      Sir Focus
+      Luxe Lip Studio | Lip Blush ˙💋
     bio: >-
-      **Turn post notifications on** Tattoo artist and owner of Street City Tattoos Contact @streetcitytattoos for booking inquiry and studio location.
+      👄 Lip Tattoo Artist & Educator 📆 Books Open - OCT 🎓 Training Available 🌈 Vancouver, BC
     location: "Canada"
-    followers: 69325
-    engagement: 195
-    commentsToLikes: 0.017038
-    id: ck5chtmx6rg1x0i115upebxxs
+    followers: 10388
+    engagement: 546
+    commentsToLikes: 0.317409
+    id: ckapam6ukwnv90i7895iwpifp
     verified: false
-    hashtags: "#tattoocollector, #tattoos, #brampton, #instagram"
+    hashtags: "#fantomrotary, #iloveinkprecision"
+  - username: "curtmontgomerytattoos"
+    fullname: >-
+      Curt Montgomery
+    bio: >-
+      Tattoo Artist = Honey Badger Hero He who dares wins yo Inside Out Toronto curtmontgomerytattoos@gmail.com
+    location: "Canada"
+    followers: 430661
+    engagement: 252
+    commentsToLikes: 0.003392
+    id: ck136mgxd77s10i19q23xulh4
+    verified: true
+    hashtags: "#tattoos, #tattooartist, #safestsex, #toronto"
+  - username: "robinlabreche"
+    fullname: >-
+      Robin Labreche
+    bio: >-
+      Co-Owner/ Head Tattoo Artist @dahliatattoos Montreal, Canada Truth Seeker @it_doesnt.add.up Award Winning Black & Grey @fytsupplies @shadink_ink
+    location: "Canada"
+    followers: 26106
+    engagement: 130
+    commentsToLikes: 0.137080
+    id: ck5qecpkhzubh0i11x55p4ne3
+    verified: false
+    hashtags: "#inkmaster, #guyswithtattoos, #blackandgreytattoo, #tattoo"
+  - username: "kevin_poveda"
+    fullname: >-
+      Kevin Poveda
+    bio: >-
+      Sober Rebel Tattoo Artist Visual Communicator Illustrator and Graphic Designer To book an appointment please fill the form on my website
+    location: "Canada"
+    followers: 38889
+    engagement: 106
+    commentsToLikes: 0.030476
+    id: ck6udcqrskctv0j71r38wy8ka
+    verified: false
+    hashtags: "#render, #prada, #blackworktattoo, #traditionaltattoo"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Muay Thai Fighters Instagram Influencers In 2022
+title: Top 10 Muay Thai Fighters Instagram Influencers In 2023
 description: >-
-  Find top muay thai fighters Instagram influencers in 2022. Most popular hashtags: #muaythai #training #kickboxing.
+  Find top muay thai fighters Instagram influencers in 2023. Most popular hashtags: #muaythai #fighter #kickboxing.
 platform: Instagram
-hits: 394
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 394 Instagram influencers like this for you to work with.
+hits: 380
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 380 Instagram influencers like this for you to connect with.
 profiles:
   - username: "almajuniku"
     fullname: >-
-      ALMA JUNIKU | 🇦🇱🇽🇰 | ♏︎
+      ALMA JUNIKU
     bio: >-
-      BNE✈️SYD | @aarnusch ♡ Professional Muay Thai Fighter @ONEchampionship Athlete WMC Australian Champion 2x World Champion WBC & IPCC
+      🇦🇱🇽🇰 | Syd, Aus | ♏︎ Pro Muay Thai fighter @ONEchampionship athlete
     location: "Australia"
-    followers: 60852
-    engagement: 743
-    commentsToLikes: 0.015501
+    followers: 111640
+    engagement: 779
+    commentsToLikes: 0.018636
     id: ckap9d671s6he0i78rgq2cddd
     verified: true
-    hashtags: "#muaythaifighter, #ragdoll, #hairextensions, #thailand"
-  - username: "stellahemetsberger"
-    fullname: >-
-      #alwayshungry
-    bio: >-
-      K1 & Muay Thai fighter 👊🏼 Wako World Championships 2019 🥉 @rs_gym_salzburg @phantom.athletics @ready2music @ascarathletesapparels
-    location: "Austria"
-    followers: 26343
-    engagement: 1616
-    commentsToLikes: 0.024215
-    id: ck55jxb48xzg80i116ce14j49
-    verified: false
-    hashtags: "#girl, #summer, #fighter, #train"
+    hashtags: "#muaythai, #fairtexthailand, #onechampionship, #fighter"
   - username: "damien_alamos"
     fullname: >-
       Damien Alamos
     bio: >-
       @arena_fight_championship Muay Thai Fighter 5x World Champion🏆WMC, WPMF. 3x Lumpinee Champion🥇 Head coach @singdayt_muaythai 📍London
     location: "United Kingdom"
-    followers: 17075
-    engagement: 694
-    commentsToLikes: 0.022135
+    followers: 19101
+    engagement: 818
+    commentsToLikes: 0.028337
     id: ck5zmxrasneco0i14s94zgg5i
     verified: false
-    hashtags: "#damienalamos, #muaythai, #seminar, #muaythaitraining"
+    hashtags: "#arenafightchampionship, #muaythai, #lumpinee, #damienalamos"
   - username: "liliandikmans"
     fullname: >-
       Lilian Dikmans
     bio: >-
-      Australian model & Muay Thai fighter.
+      Australian model, actor, Muay Thai fighter.
     location: "Australia"
-    followers: 56174
+    followers: 53755
     engagement: 141
-    commentsToLikes: 0.038565
+    commentsToLikes: 0.038411
     id: ck0w3psopun9k0i19i8ai76uk
     verified: false
-    hashtags: "#muaythai, #chinup"
-  - username: "paves.official"
-    fullname: >-
-      Patrick“Gladiatore“Vespaziani
-    bio: >-
-      Muay Thai Fighter🥊 Fighter at @mixfightchampionship GER Nationalteam Heavyweight Rank#2 in the Muay Thai Federation Germany Coached by @polehu86
-    location: "Germany"
-    followers: 11278
-    engagement: 493
-    commentsToLikes: 0.072946
-    id: ckapb2qmcycwu0i78ql3y42qb
-    verified: false
-    hashtags: "#kickboxen, #mma, #k1, #fitness"
+    hashtags: "#partner, #muaythai, #chinup, #sportiscalling"
   - username: "superlek789"
     fullname: >-
       🇹🇭🥊👊SUPERLEK KIATMOO 9🥊👊🇹🇭
     bio: >-
       🏆115&118LBS LUMPINEE 🏆105&112&126LBS THAILAND 🏆130LBS WBC 🏆133LBS MUAYTHAI NAIKHANOMTOM 🏆SPORTS AUTHORITY OF THAILAND MUAY THAI FIGHTER OF THE YEAR.
     location: ""
-    followers: 52609
-    engagement: 183
-    commentsToLikes: 0.005150
+    followers: 55965
+    engagement: 362
+    commentsToLikes: 0.006387
     id: ck5c6flvg5c4q0i11u4isucko
     verified: false
     hashtags: ""
-  - username: "scolesdang"
+  - username: "suaynakmuay"
     fullname: >-
-      Ron Scolesdang
+      Shannon Diablo
     bio: >-
-      Pro MMA Fighter Pro Muay Thai Fighter @lacenloop
-    location: "United States"
-    followers: 49510
-    engagement: 71
-    commentsToLikes: 0.062410
-    id: ck5hj0gnafser0i11is15rbpi
+      MUAY THAI FIGHTER/ COACH 📍 North London/ Hertfordshire 🥷 @fightsupplies KELLY10 for discount! 🥊 @boonsportofficial 🔐 @safebusters 🛠 @lsjscaffolding_
+    location: "United Kingdom"
+    followers: 4413
+    engagement: 1063
+    commentsToLikes: 0.039348
+    id: ck5bzz61ks4g00i11s4qeg1lp
     verified: false
-    hashtags: "#mmashouts, #selfdefense, #mmafighting, #mmatraining"
+    hashtags: "#levelup, #flattybatty"
+  - username: "diego.guilloud"
+    fullname: >-
+      Diego Guilloud
+    bio: >-
+      🇨🇭 From Geneva, Switzerland 🏆 - Pro Rider - 🏆 🥊 Muay Thai Fighter 👊 🤩 Adrenaline lover
+    location: "Switzerland"
+    followers: 9316
+    engagement: 1044
+    commentsToLikes: 0.048049
+    id: ck5zy2gkr93td0i14m8tzawy1
+    verified: false
+    hashtags: "#usdskates, #besttrick, #scarbodyclothing, #bladergang"
   - username: "officialhtoy"
     fullname: >-
       Hasan Toy
     bio: >-
       🇹🇷 Professional kickboxing and muay thai fighter World Fighting League Champion European Champion ✨LOA✨ Dm for collabs💼
     location: "Netherlands"
-    followers: 10485
-    engagement: 551
-    commentsToLikes: 0.060123
+    followers: 10283
+    engagement: 562
+    commentsToLikes: 0.054505
     id: ckf5m8898spsn0j23qcdjzdp6
     verified: false
-    hashtags: "#fitness, #gym, #training, #love"
-  - username: "diego.guilloud"
+    hashtags: "#gym, #training, #fitness, #love"
+  - username: "stellahemetsberger"
     fullname: >-
-      Diego Guilloud
+      #alwayshungry
     bio: >-
-      🇨🇭 From Geneva, Switzerland 🏆 - Pro Rider - 🏆 🥊 Muay Thai Fighter 👊 E-FISE VIDEO CONTEST, see you in final 🤩
-    location: "Switzerland"
-    followers: 8737
-    engagement: 864
-    commentsToLikes: 0.050371
-    id: ck5zy2gkr93td0i14m8tzawy1
+      K1 & Muay Thai fighter 👊🏼 Wako World Championships 2019 🥉 @rs_gym_salzburg @phantom.athletics @suzuki_at
+    location: "Austria"
+    followers: 29850
+    engagement: 1129
+    commentsToLikes: 0.016679
+    id: ck55jxb48xzg80i116ce14j49
     verified: false
-    hashtags: "#scarbody, #efisebyhonor, #bladelife, #patinsstreet"
+    hashtags: "#k1, #fightlife, #goals, #sport"
+  - username: "camilladanielsan"
+    fullname: >-
+      Camilla
+    bio: >-
+      🇹🇭🥊 Muay thai fighter @odenplanfightgym 🇸🇪🏆4 x Swedish champion 🎲 @the_dice_team @tdt.generation 💪 @resultat_naprapat @fightfabriken.se
+    location: "Sweden"
+    followers: 18223
+    engagement: 280
+    commentsToLikes: 0.030751
+    id: ck8tban1kuxn90j782pjea45l
+    verified: false
+    hashtags: "#clinch, #hiit, #muaythai, #fighter"
   - username: "malaika_hodapp"
     fullname: >-
       Malaika Hodapp - มาลัย
     bio: >-
-      Pro Muay Thai fighter living in thailand phuket 🇹🇭🇩🇪 black belt taekwondo 🥋 🥊 custom mongkons
+      Pro Muay Thai fighter living in thailand khao lak 🇹🇭🇩🇪 black belt taekwondo 🥋 🥊 custom mongkons DM me for informations or visit my facebook page ⬇️⬇️
     location: ""
-    followers: 5704
-    engagement: 893
-    commentsToLikes: 0.016851
+    followers: 5312
+    engagement: 797
+    commentsToLikes: 0.018665
     id: ckapbsu2317sd0i78p37o7xb1
     verified: false
-    hashtags: "#thailand, #fighter, #fighting, #mongkon"
+    hashtags: "#nakmuay, #phuket, #mongkon, #nakmuayying"
 ---

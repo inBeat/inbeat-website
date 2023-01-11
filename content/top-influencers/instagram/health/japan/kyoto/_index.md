@@ -1,36 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Kyoto In 2022
+title: Top 10 Health Instagram Influencers In Kyoto In 2023
 description: >-
-  Find top health Instagram influencers in Kyoto in 2022. Most popular hashtags: #foodstagram #japanesefood #fashion #japan.
+  Find top health Instagram influencers in Kyoto in 2023. Most popular hashtags: #japanesefood #pr #tokyo #kyoto.
 platform: Instagram
-hits: 8
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 8 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+hits: 9
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in Kyoto, Japan for you to contact.
 profiles:
-  - username: "risako_yamamoto"
+  - username: "yoshimayu_"
     fullname: >-
-      Risako Yamamoto
+      mayuko
     bio: >-
-      ♡my SLOHASHOLIC life♡ HEALTH ｜FASHION ｜ TRAVEL ｜ 👗rosy Monster 🌿Junior SUPERFOOD Meister my wellness life #SLOHASHOLIC
+      おうちごはんをもっと簡単に楽しく 身体と心にしみ込むお料理を🍴 +食育アドバイザー +スポーツ栄養アドバイザー +野菜ソムリエ Kyoto / Japan ♪ いいね❤︎フォローありがとうございます❤︎ . 🌈 レシピ専用サイトはこちら⤵︎
     location: "Japan"
-    followers: 40637
-    engagement: 181
-    commentsToLikes: 0.004314
-    id: ck5zih3effott0i14z1x5m2x4
+    followers: 17622
+    engagement: 1331
+    commentsToLikes: 0.005166
+    id: ck6uglm7l3qwk0j71ew0dtw33
     verified: false
-    hashtags: "#rosymonster, #fashion, #beach, #coordinate"
-  - username: "yukonano"
+    hashtags: "#comona, #wp, #sandwich, #onigiriaction"
+  - username: "iku3i8i8i"
     fullname: >-
-      yuko  /®︎unたまにDJと🏔
+      𓆝𓆟いく iku𓆜  𓆝   𓆞
     bio: >-
-      🖤フル、ハーフ、10k etc 🖤引退後は美活中心にハシル🏃‍♀️ 🖤たまにDJたまにお山 🖤beauty &health &trip &photography #素敵な歳の重ね方 ambassador @kyotofinancier @39grammer @sloli_jp @aumo.jp
+      Kyoto/Japan Ambassador ☽best pot3期生 ☽コバト缶第1期 ☽BAKE 箱菓子倶楽部第1期 ☽第1期おもいのフライパン ☽サラダクラブ ☽おとりよせネット ☽UMELAB ☽ベジターレ ☽kurasso @nokaze_ikustyle -うつわと物語の家-
     location: "Japan"
-    followers: 12886
-    engagement: 683
-    commentsToLikes: 0.000000
-    id: ck6tzekzf98r10j713bxzq7zd
+    followers: 21641
+    engagement: 432
+    commentsToLikes: 0.020557
+    id: ck5cjozdvv6v90i11oxen6en4
     verified: false
-    hashtags: "#aumo, #yukostyle, #okinawa, #trail"
+    hashtags: "#ouchigohanlover, #iku, #ikucafe, #wp"
   - username: "kiki__cafe"
     fullname: >-
       キキ。
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.004005
     id: ck0ud8pa5io280i19m4vb3ato
     verified: false
-    hashtags: "#foodstagram, #cafestagram, #instafood, #healthyfood"
-  - username: "cynthiaahayek"
+    hashtags: "#foodstagram, #instafood, #healthy, #tokyo"
+  - username: "shin_kuroobisan"
     fullname: >-
-      Cynthia Hayek
+      黒帯さん^ ^
     bio: >-
-      👩🏻‍ #Osteopath #paris @anatomik.paris 🧘🏻‍♀️ #Yoga teacher #vinyasa 🚴🏻‍♀️ Coach @dynamocycling ⚖️ Certified in #Thaimassage & #Nutrition
+      空手・グルメ・美容の黒帯が目標!料理研究家・横浜ベイシェラトンスーパーフード料理監修・食べログGooglemapRetty人気インフルエンサーとしてTV出演・マンション経営・model・influencer コーデウーミー⇒@woomy.me 0145
     location: "Japan"
-    followers: 2893
-    engagement: 888
-    commentsToLikes: 0.096378
-    id: ck5hrd38kuo3e0i11hywqztu5
+    followers: 61441
+    engagement: 242
+    commentsToLikes: 0.018178
+    id: ck14gn8qo62a00i19x842erjn
     verified: false
-    hashtags: "#yoga, #paris, #yogateacher, #movement"
-  - username: "yukico_twingram"
+    hashtags: "#fujimi, #afternoontea, #tokyo, #beyondsosho"
+  - username: "ryosayu"
+    fullname: >-
+      さゆりん sayurin
+    bio: >-
+      くらし♪うつわ♪FUKUOKA 毎日楽しくお料理😊
+    location: "Japan"
+    followers: 135344
+    engagement: 343
+    commentsToLikes: 0.011040
+    id: ck5zse7l7ybx90i14zgu1usog
+    verified: false
+    hashtags: "#ouchigohanlover, #amazon, #pr, #wp"
+  - username: "nhkworldjapan"
+    fullname: >-
+      NHK WORLD-JAPAN
+    bio: >-
+      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. #nhkworldjapan Terms: www3.nhk.or.jp/nhkworld/en/terms
+    location: "Japan"
+    followers: 145074
+    engagement: 155
+    commentsToLikes: 0.020476
+    id: ck5qatz4ii8mr0i11wtwk7vgx
+    verified: true
+    hashtags: "#socialdistancing, #discoverjapan, #oishii, #soapandwater"
+  - username: "momojuicypeach"
+    fullname: >-
+      MIDORI❤︎
+    bio: >-
+      𝑰'𝒎 𝒂 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝑮𝒓𝒂𝒏𝒎𝒂 𝑨𝒈𝒆46👘 𝑰 𝒉𝒂𝒗𝒆 𝒕𝒘𝒐 𝒄𝒉𝒊𝒍𝒅𝒓𝒆𝒏 𝒂𝒏𝒅 𝒕𝒉𝒓𝒆𝒆 𝒈𝒓𝒂𝒏𝒅𝒄𝒉𝒊𝒍𝒅𝒓𝒆𝒏 @worldeatinglove 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 #𝒕𝒓𝒊𝒑✈️𝑰 𝒍𝒐𝒗𝒆 𝒎𝒚 @_im_coco__
+    location: "Japan"
+    followers: 15968
+    engagement: 296
+    commentsToLikes: 0.061879
+    id: ck5hia0jfcf8e0i113u84sjzl
+    verified: false
+    hashtags: "#watch, #beauty, #ootd, #fujimi"
+  - username: "yukicolifecom"
     fullname: >-
       𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
     bio: >-
-      💌 グルメ取材・商品撮影依頼はDMへ 📷 𝑙𝑒𝑠𝑠𝑜𝑛 フォトレッスン @zeniya_juku 💋 𝑏𝑒𝑎𝑢𝑡𝑦 コスメ美容はストーリーにて 🌐 𝑡𝑟𝑎𝑣𝑒𝑙 旅記事 @tabimuse 🍽 𝑓𝑜𝑜𝑑 𝑤𝑟𝑖𝑡𝑒𝑟 @dessanew 🥄公式 @kyoto_parfait
+      撮影｜月1フォトレッスン📩｜Googleローカルガイド スイーツ｜グルメ｜おうちごはん｜ファッション｜旅 💋 コスメ美容はストーリー 🧥 ファッションは楽天ROOM
     location: "Japan"
-    followers: 40880
-    engagement: 156
-    commentsToLikes: 0.007244
+    followers: 45433
+    engagement: 162
+    commentsToLikes: 0.006353
     id: ck0w6lg5c950l0i19ivtszcm3
     verified: false
-    hashtags: "#instacafe, #flower, #phonto, #winter"
-  - username: "anzu_akiba"
+    hashtags: "#livethelittlethings, #flowerpower, #still, #love"
+  - username: "yukirichi119"
     fullname: >-
-      🌹Anzu Akiba🌹
+      ゆきりち。YUKIRICHI✩*॰¨̮
     bio: >-
-      👸🏻 Miss Japan 🇯🇵 💃 Miss Asia 3rd 👯‍♀️ Best Body Japan Tokyo&Chiba GP 🧜🏻‍♀️ Model｜Editor｜Secretly｜Food analyst ❤️ travel｜food｜art｜fashion
+      📕著書👉糖質オフの満足弁当で夫婦ともに3か月で10キロヤセました 📕２冊目👉メリハリ糖質オフ 週明け｢満足サラダ｣と週後半の｢しっかりお肉｣ ＊ 𓃟アメブロ公式トップブロガー𓃟 レシピやプライベートはブログへ ＊ ・糖質OFFアドバイザー資格 ・発酵食品ソムリエ資格 ＊ ⬇すべてのリンクはコチラ✨
     location: "Japan"
-    followers: 9552
-    engagement: 813
-    commentsToLikes: 0.031950
-    id: ckap7wrqblwkw0i781qzx2ckb
+    followers: 62449
+    engagement: 147
+    commentsToLikes: 0.002954
+    id: ck13bqyjqwr1r0i19umbm7h8q
     verified: false
-    hashtags: "#fashiongram, #bikini, #hairstyle, #model"
-  - username: "pakio999"
+    hashtags: "#pr, #lunchbox, #lunch, #bento"
+  - username: "gabrielasage"
     fullname: >-
-      アリー（パキ男）
+      Gabby Sage Masuda
     bio: >-
-      japan🇯🇵×pakistan🇵🇰 adidas fashion🍁 BITTER読者モデル🍫 team win♪win🐒
+      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
     location: "Japan"
-    followers: 12456
-    engagement: 358
-    commentsToLikes: 0.043725
-    id: ckap63hnhe8cz0i78hmj171rg
+    followers: 25194
+    engagement: 344
+    commentsToLikes: 0.029850
+    id: ck14jntl0lafx0i19ix71idmh
     verified: false
-    hashtags: "#beauty, #adidas, #me, #macaron"
-  - username: "emix0120"
-    fullname: >-
-      えみ
-    bio: >-
-      本業は大工さん𖠿 #週一おにぎり🍙の日 #惣菜パンのっけ盛り ＂ambassador＂ 公式サンキュグラマー cotta likesweetsbox bestpot2期 ☟cookpad☟
-    location: "Japan"
-    followers: 87282
-    engagement: 257
-    commentsToLikes: 0.014095
-    id: ck5cjowkcv6ol0i118eilgsle
-    verified: false
-    hashtags: "#bruno, #snapdish, #sweets, #comte"
-  - username: "xobearhugs"
-    fullname: >-
-      🐻🌱🌸💕
-    bio: >-
-      🌴 Currently in SoCal 🌴 ~ Made in Hawaii ~ ~ Healthy Living ~ ~ Japanese Hawaiian German ~
-    location: "Japan"
-    followers: 124226
-    engagement: 1003
-    commentsToLikes: 0.023055
-    id: ck5q69hddwix00i11rfuqbahr
-    verified: false
-    hashtags: ""
-  - username: "kuuu.kumiko"
-    fullname: >-
-      Kumiko Suzuki  鈴木久美子
-    bio: >-
-      #fashion#beauty#health #lifestyle#foods #naturalbeauty #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ☆Freelance model☆ 経歴…第8回美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
-    location: "Japan"
-    followers: 39244
-    engagement: 321
-    commentsToLikes: 0.044874
-    id: ckap4ky277r6y0i78yzmchql7
-    verified: false
-    hashtags: "#fashion, #happybirthday, #yummy, #recommend"
+    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
 ---

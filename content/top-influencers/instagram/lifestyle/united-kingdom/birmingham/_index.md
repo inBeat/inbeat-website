@@ -1,60 +1,48 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2022
+title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Birmingham in 2022. Most popular hashtags: #lifestyle #fashionblogger #fashion #style.
+  Find top lifestyle Instagram influencers in Birmingham in 2023. Most popular hashtags: #fashion #fashionblogger #ad #happy.
 platform: Instagram
-hits: 23
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 23 Instagram influencers like this in Birmingham, United Kingdom for you to pitch.
+hits: 16
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 16 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
-  - username: "nadine.travelling"
+  - username: "vegangirlboss"
     fullname: >-
-      nadine hanne ♡
+      Adina / vegan influencer
     bio: >-
-      travel • lifestyle 🌿 birmingham ✈ travel plans on hold • adventure seeker▫️nature addict▫️ sunchaser▫️storyteller▫️poetic soul
+      ambitious vegan gal looking to change the world one meal at a time ✌🏼 made in Kazakhstan! >> vegan food and lifestyle 📍 Birmingham, UK
     location: "United Kingdom"
-    followers: 5155
-    engagement: 520
-    commentsToLikes: 0.023269
-    id: ck8tdr38p4gsx0j78i1m0gw11
+    followers: 18572
+    engagement: 428
+    commentsToLikes: 0.331851
+    id: ck55jt4dyxorw0i11bzuauype
     verified: false
-    hashtags: "#quarantinelife, #foodcoma, #ootd, #quarantinestyle"
-  - username: "negi.at.home"
+    hashtags: "#veganrecipe, #mallowworld, #veganfood, #veganuk"
+  - username: "sarahlaublogs"
     fullname: >-
-      N E G I ♡ Interiors
+      Sarah Lauren ✨
     bio: >-
-      ❥ Swede, Doctor👩🏽‍⚕️🇸🇪🇬🇧 Birmingham📍 ❥ Interiors | Lifestyle ❥ Monochrome with a pop of pink💓
+      📍Birmingham 💻 midsize fashion & lifestyle blogger 👩🏻‍🏫 digital marketer in training 💌 sarahlaublog@gmail.com ✨ #seethegram
     location: "United Kingdom"
-    followers: 22261
-    engagement: 606
-    commentsToLikes: 0.209263
-    id: ck5chozgur6z80i11mkr0cu3r
+    followers: 6504
+    engagement: 527
+    commentsToLikes: 0.152379
+    id: ck9h9vynea6650j78sqzumdxn
     verified: false
-    hashtags: "#sassyhomestyle, #bohointeriors, #homedecor, #myinteriorvibe"
-  - username: "sw_meganbl"
+    hashtags: "#effortlesschic, #stylelookbook, #colourfulstyle, #mentalhealthcheckin"
+  - username: "gerrijphillips"
     fullname: >-
-      𝐌𝐄𝐆𝐀𝐍 🕊
+      Gerri J. Phillips
     bio: >-
-      📍Birmingham 🍑 Food, Fashion and Lifestyle ⚡️ Sausage dog mama @mabelthedachshund_ 💌 meganlowe2@googlemail.com 🎥 Youtube: Megan Lowe
+      Birmingham Based Content Creator • Lifestyle | Beauty | Millennial Motherhood • Collabs: hello@gerrijphillips.com
     location: "United Kingdom"
-    followers: 29434
-    engagement: 296
-    commentsToLikes: 0.040312
-    id: ck13c6znnywyh0i19hsly6i75
+    followers: 33043
+    engagement: 437
+    commentsToLikes: 0.049104
+    id: ck5zsrtaxz2ju0i14h3wm0jv2
     verified: false
-    hashtags: "#youtuber, #foodie, #dinnertime, #vlogger"
-  - username: "poonamwalid"
-    fullname: >-
-      Poonam walid
-    bio: >-
-      📍 Birmingham, UK ❥ Skincare | Makeup | Fashion | Lifestyle ❥ Collaborations: contact@heeldiaries.com ❥ Wifey 👉🏽 @abzolutefoodie 🧿 ❥ My Amazon shop 👇🏽
-    location: "United Kingdom"
-    followers: 47761
-    engagement: 300
-    commentsToLikes: 0.060688
-    id: ck9wean2wjfak0j78qsind28a
-    verified: false
-    hashtags: "#style, #beauty, #narspartner, #fashion"
+    hashtags: "#cookingwithcomfort, #datenight, #onebypoise, #ad"
   - username: "juannafitness.2"
     fullname: >-
       Juju 🤍
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.125138
     id: ckap0okftr6tw0i78m4w9nmto
     verified: false
-    hashtags: "#fit, #fitspo, #workoutroutine, #lifting"
-  - username: "fred_goudie"
+    hashtags: "#womenwholift, #gymshark, #lift, #gym"
+  - username: "nadoosh.xo"
     fullname: >-
-      Fred Goudie
+      NADOOSH
     bio: >-
-      London//University of Birmingham • 21yrs//6ft3//History Student • Business: fredgoudie18@gmail.com - ONLINE COACHING/FREE DIET PLANS in link below -
+      Beauty•Motherhood•Lifestyle•Real Talk 🌱Founder @malikaatofficial 🌱Makeup bookings @makeupbynadoosh 🌱Email: makeupbynadoosh@gmail.com Birmingham UK 🇬🇧
     location: "United Kingdom"
-    followers: 28942
-    engagement: 796
-    commentsToLikes: 0.031476
-    id: ck9we44fjihuz0j7877sfy89m
+    followers: 88300
+    engagement: 196
+    commentsToLikes: 0.034789
+    id: ck6u5v58cbxrl0j71ckk2hnak
     verified: false
-    hashtags: "#lifestyle, #gains, #explorepage, #backsession"
-  - username: "thestyletune"
-    fullname: >-
-      Chichi-Digital Creator
-    bio: >-
-      📷 London | Lifestyle | Fashion | Travel 🇮🇳🇬🇧 | First Time Mummy 👧🏻 | Mindful 📩 thestyletune@gmail.com
-    location: "United Kingdom"
-    followers: 51040
-    engagement: 282
-    commentsToLikes: 0.068414
-    id: ck135ee3m10hi0i19mmbob4z3
-    verified: false
-    hashtags: "#suitcasetravels, #postpartumweightloss, #lbloggersuk, #motherhoodthroughinstagram"
+    hashtags: "#rimmellondon, #tescofood, #eidinspo, #realtalks"
   - username: "youraverageguystyle"
     fullname: >-
       Adam York
     bio: >-
-      • Fashion Blogger UK 🇬🇧 • Birmingham / London / Southwest ⬆️ Check out my stories!
+      • Fashion Blogger UK 🇬🇧 • Birmingham / London / Scotland ⬆️ Check out my stories!
     location: "United Kingdom"
-    followers: 69120
-    engagement: 123
-    commentsToLikes: 0.145810
+    followers: 62702
+    engagement: 84
+    commentsToLikes: 0.087495
     id: ck15sohpoe15c0i19fu5td510
     verified: false
-    hashtags: "#suited, #gentstyle, #businessman, #styleinspo"
-  - username: "sarahlaublogs"
+    hashtags: "#fashionmens, #coupleslove, #details, #mensstyles"
+  - username: "sian.victoria"
     fullname: >-
-      Sarah Lauren ✨
+      Blogger | Birmingham, UK |  ©
     bio: >-
-      💻 midsize fashion & lifestyle blogger 💌 sarahlaublog@gmail.com ✨ #seethegram 📍Birmingham 🎙Podcast: @reel.hectic
+      🌿 Lifestyle 》Travel @sian.victoria.travels ⭐ 10 Years Self-Employed Blogging Full-Time 🎓 MA in PR & BA Marketing & Advertising
     location: "United Kingdom"
-    followers: 3654
-    engagement: 999
-    commentsToLikes: 0.130446
-    id: ck9h9vynea6650j78sqzumdxn
+    followers: 14083
+    engagement: 491
+    commentsToLikes: 0.028936
+    id: ck0w5zaqn65jh0i19e5drq2us
     verified: false
-    hashtags: "#thecaptionclub, #ourbloggingtribe, #slowstylediary, #flatlayinspiration"
+    hashtags: "#betarealdogs, #rossanoferretti"
   - username: "liveuptohername"
     fullname: >-
       Lexi 🎀
     bio: >-
-      💃🏽 Latina 📍 Birmingham 🇬🇧 @springbreakportugal 💚 team 👩🏼‍✈️ 💁🏽‍♀️ - lexi10 - my_vitopia 👓 - LIVEUP10 - officialreveur 👗 - LexFlo20 - TigerLuxx
+      💃🏽 Latina 📍 Birmingham 🇬🇧 👸🏼- Founder of @lfhairofficial
     location: "United Kingdom"
-    followers: 19482
-    engagement: 634
-    commentsToLikes: 0.006125
+    followers: 31707
+    engagement: 689
+    commentsToLikes: 0.006258
     id: ck5cik16gsslf0i11w5ovnhua
     verified: false
-    hashtags: "#photooftheday, #lifestyle, #architecture, #canon"
+    hashtags: "#happy, #instadaily, #style, #beauty"
+  - username: "evaella_beauty"
+    fullname: >-
+      hijab
+    bio: >-
+      Mom of two girls👩‍👧‍👧 Lifestyle, fashion, beauty, cosmetics 📍Halifax West Yorkshire 🇬🇧
+    location: "United Kingdom"
+    followers: 123467
+    engagement: 114
+    commentsToLikes: 0.047060
+    id: ckaou7w9bz70l0i780y123mjt
+    verified: false
+    hashtags: "#morocco, #instagram, #momoftwo, #hijab"
+  - username: "imancipated1"
+    fullname: >-
+      Iman
+    bio: >-
+      sudania servin’ u lifestyle + fashion quontentt Aspiring Cosmetic Chemist 👩🏽‍🔬 NYC ✈️ Birmingham 🇬🇧 📬DM/email for any inquiries
+    location: "United Kingdom"
+    followers: 13940
+    engagement: 864
+    commentsToLikes: 0.026143
+    id: ck5zzk839bw0e0i14m9dxju9r
+    verified: false
+    hashtags: "#londoninfluencer, #diptyquecandle, #sudanesefamily, #sudaneseblogger"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Thailand In 2022
+title: Top 10 Yoga Instagram Influencers In Thailand In 2023
 description: >-
-  Find top yoga Instagram influencers in Thailand in 2022. Most popular hashtags: #yoga #thailand #love #phuket.
+  Find top yoga Instagram influencers in Thailand in 2023. Most popular hashtags: #yoga #love #fitness.
 platform: Instagram
-hits: 12
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 12 Instagram influencers like this in Thailand for you to work with.
+hits: 11
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 11 Instagram influencers like this in Thailand for you to contact.
 profiles:
-  - username: "cookpavadee"
-    fullname: >-
-      Pavadee Komchokpaisan
-    bio: >-
-      Contact: 092-540-2221 (K.Johm) Co-founder @minimetalprop 🎞 🐱 MyBaby's IG : @kailiangmaew
-    location: "Thailand"
-    followers: 377986
-    engagement: 392
-    commentsToLikes: 0.004923
-    id: ck13b8cvqu7510i19y4e2rie1
-    verified: true
-    hashtags: "#namaste, #yogagirl, #asana, #mindfulness"
-  - username: "fah_jilamika"
-    fullname: >-
-      Fah  : 💖
-    bio: >-
-      Show me love 💋not lies 😛
-    location: "Thailand"
-    followers: 123804
-    engagement: 138
-    commentsToLikes: 0.012925
-    id: ckap7egt5jq3e0i7885smdc0g
-    verified: false
-    hashtags: "#bangkokaerialspace, #fahyoga, #tiktok, #yoga"
   - username: "danschaubdesigns"
     fullname: >-
       ⚫Dan Schaub⚫
     bio: >-
       𝕀 𝕦𝕤𝕖 ɭครєгร 𝕥𝕠 𝕔𝕣𝕒𝕗𝕥 𝕽𝖊𝖑𝖎𝖈𝖘 ℕ𝕐 𝔸𝕣𝕥𝕚𝕤𝕥
     location: "Thailand"
-    followers: 29680
-    engagement: 352
-    commentsToLikes: 0.022506
+    followers: 34773
+    engagement: 291
+    commentsToLikes: 0.016725
     id: ck13ci2l70gf80i19y9b9pais
     verified: false
-    hashtags: "#instafashion, #trippy, #psychedelicart, #surrealism"
+    hashtags: "#festivalart, #wearableart, #sacred, #hypnosis"
   - username: "antoninagatsuli"
     fullname: >-
       Fb: Antonina Gatsuli
     bio: >-
       Designer of own fashion clothing line Exclusive bikini👙 unique dresses👗 Hand made in Slovakia. @antoninagatsuli_official customers Direct message 📩
     location: "Thailand"
-    followers: 33074
-    engagement: 266
-    commentsToLikes: 0.064616
+    followers: 33488
+    engagement: 368
+    commentsToLikes: 0.061095
     id: ck5cee1spkuf50i11ku7bmwu5
     verified: false
-    hashtags: "#kohsamui, #dress, #babygirl, #beach"
-  - username: "syoko_bangkok"
+    hashtags: "#pregnant, #thailand, #belly, #kohsamui"
+  - username: "cookpavadee"
     fullname: >-
-      𝖲𝗒𝗈𝗄𝗈♡2019- バンコク在住
+      Pavadee Komchokpaisan
     bio: >-
-      𝗦𝘆𝗼𝗸𝗼/植田祥子/โชโกะ 📍 𝚃𝚑𝚊𝚒 - 𝙱𝚊𝚗𝚐𝚔𝚘𝚔🇹🇭 𝙸'𝚖 𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚖𝚘𝚍𝚎𝚕 𝚏𝚛𝚘𝚖 𝚃𝚘𝚔𝚢𝚘[𝙹𝙿𝙽] 所有資格🖤美容師/化粧品/船舶/乗馬/ダイビング เรียนภาษาไทยที่จุฬานะคะ 🎥タイ向け𝚈𝚘𝚞𝚃𝚞𝚋𝚎始めました↓
+      Freelance actor Contact: 091-184-6886 (K.Mim) Line : kchamiim Co-founder @minimetalprop 🎞 🐱 MyBaby's IG : @kailiangmeow
     location: "Thailand"
-    followers: 8707
-    engagement: 343
-    commentsToLikes: 0.049232
-    id: ckap93rb8r0vu0i78cl1t5l6r
+    followers: 374067
+    engagement: 403
+    commentsToLikes: 0.004749
+    id: ck13b8cvqu7510i19y4e2rie1
+    verified: true
+    hashtags: "#hmcentralworld, #hmthailand, #hmxme, #yogapose"
+  - username: "fah_jilamika"
+    fullname: >-
+      Fah  : 💖
+    bio: >-
+      Show me love 💋not lies 😛 Fb : fah jilamiga
+    location: "Thailand"
+    followers: 136203
+    engagement: 207
+    commentsToLikes: 0.010885
+    id: ckap7egt5jq3e0i7885smdc0g
     verified: false
-    hashtags: "#bangkok, #hotelhopping, #pr, #asianmodel"
+    hashtags: "#fahtravel, #fahaerial, #fahyoga, #covid19yoga"
   - username: "chipupu"
     fullname: >-
       Chi Pu
     bio: >-
       Singer/Actress 🇻🇳 Founder of @gom.entertainment 📸 @filmbychipu Dreams Don't Work Unless You Do.
     location: "Thailand"
-    followers: 5205120
-    engagement: 192
-    commentsToLikes: 0.004055
+    followers: 5293819
+    engagement: 155
+    commentsToLikes: 0.004317
     id: ck0u82zrp6eds0i1994lagwsh
     verified: true
-    hashtags: "#chanel, #bonsaintz, #gucci, #chipuwears"
+    hashtags: "#yoga, #yogapose, #dancepractice, #mynewswag"
   - username: "newwy_official"
     fullname: >-
       Be Humble🌸💓
     bio: >-
       🇹🇭THAI |FHM Model |Tan |Gym Addicted 📍Based in Bangkok, Thailand📍 เจ้าของแบรนด์ @mytan.th ☀️🥥🌴 #น้ำมันอาบแดด #น้ำมันผิวแทน #organic -WORK PLEASE DM-
     location: "Thailand"
-    followers: 56839
-    engagement: 143
-    commentsToLikes: 0.025051
+    followers: 56499
+    engagement: 145
+    commentsToLikes: 0.025004
     id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#travel, #photooftheday, #pics, #photography"
-  - username: "bombthanan"
+    hashtags: "#travel, #goals, #beautiful, #happy"
+  - username: "lubpuizzz"
     fullname: >-
-      Thanan Toranavikrai
+      Pimrata Chimtawan ^^
     bio: >-
-      ⭐️ ดูคลิป BoomTharis ได้ที่ลิ้งค์นี้เลยครับ
+      📽 Thai Actress 💇🏻‍♀️ @hairpiecebylubpui 📱 Work Contact Line : Lubpuizzzz 🖥 Youtube Channel : LubpuizzZ
     location: "Thailand"
-    followers: 25712
-    engagement: 554
-    commentsToLikes: 0.005056
-    id: ckapcpf5d4o5m0i78ylqlrkm4
+    followers: 261012
+    engagement: 75
+    commentsToLikes: 0.008433
+    id: ck5bz5jcpqhmb0i11fvj8leph
     verified: false
-    hashtags: "#trisara, #matchappen, #transitnumber8, #travelwithboom"
-  - username: "house_of_bulldogs"
-    fullname: >-
-      Fat Goof Dan Gan Pork Pic
-    bio: >-
-      🐷 Fatty 🐼 Goofy 🐻 DannyBoy 🐰 Logan 🐶 Porkchop 🐨 Piccadilly (08/11/16-11/04/20) Living in Bangkok, Thailand. 🇹🇭
-    location: "Thailand"
-    followers: 259409
-    engagement: 148
-    commentsToLikes: 0.012804
-    id: ck139aqyfkdi70i19fbd73241
-    verified: false
-    hashtags: "#tb, #dannyboythebulldog, #fattythebulldog, #loganthebulldog"
+    hashtags: "#31, #halloween, #halloweencostume, #halloweenkids"
   - username: "dolce.thebeagle"
     fullname: >-
       Dolce 👑
     bio: >-
       I’m here to make your day better 🦄 🐶 I’m Dolce! 📍 Bangkok, Thailand🇹🇭🇮🇳 🐽 10/10 will sniff your butt 🎂 11.10.18 🎾 Beagle boy #grumpybeaglesunited
     location: "Thailand"
-    followers: 7485
-    engagement: 701
-    commentsToLikes: 0.009257
+    followers: 7321
+    engagement: 358
+    commentsToLikes: 0.015326
     id: ck15pumohzpkx0i19ujtxhgch
     verified: false
-    hashtags: "#quarantinelife, #puppyeyes, #dogcrate, #dogpark"
+    hashtags: "#carride, #noears, #ilovemymom, #newyears2021"
+  - username: "nattietrainhard"
+    fullname: >-
+      Nattie Suraphayanon
+    bio: >-
+      Certified Personal Trainer (ACE) โค้ชนัทตี้ ข.ขยับ Thai PBS adidas TH workout/eat/travel work line id : nattie.trainhard #รู้ไว้ก็ดีแค่1นาทีกับนัทตี้
+    location: "Thailand"
+    followers: 165412
+    engagement: 265
+    commentsToLikes: 0.011426
+    id: ck6tjlfi52xyt0j71iybmf8fr
+    verified: false
+    hashtags: ""
+  - username: "victorchou8"
+    fullname: >-
+      Victor Chou Hsieh 周子軒
+    bio: >-
+      A happy soul made by a Taiwanese couple, born in Madrid, living in Bangkok 🤟🏻 Actor / Model 🎬📸 ⚽️🏌🏻⛹🏻‍♂️🧘🏻🎾 vchou8@gmail.com
+    location: "Thailand"
+    followers: 33804
+    engagement: 396
+    commentsToLikes: 0.008413
+    id: ckaozbk77l52k0i780yl4vxgg
+    verified: false
+    hashtags: "#rookiemistakes, #namaste, #behindthescenes, #golfislife"
 ---

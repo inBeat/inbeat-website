@@ -1,72 +1,84 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Brazil In 2022
+title: Top 10 Cyclists Instagram Influencers In Brazil In 2023
 description: >-
-  Find top cyclists Instagram influencers in Brazil in 2022. Most popular hashtags: #ciclismo #cycling #cyclist #roadbike.
+  Find top cyclists Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #cycling #cyclinglife #mtblife.
 platform: Instagram
-hits: 36
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 36 Instagram influencers like this in Brazil for you to contact.
+hits: 44
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 44 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "brunolemesmtb"
-    fullname: >-
-      Bruno  Lemes
-    bio: >-
-      23 Years-Professional Cyclist MTB @trekbicyclebrasil Brazilian Champion Xco U23 Panamericano Champion Xcm 2018 2x Brazilian Vice Champion Xcm
-    location: "Brazil"
-    followers: 26788
-    engagement: 815
-    commentsToLikes: 0.036023
-    id: ck5qddopcv1zw0i113s4kz90x
-    verified: false
-    hashtags: "#gobybike, #tbt"
   - username: "sueabreu"
     fullname: >-
       Sue Abreu 〰️
     bio: >-
-      Cyclist Lifestyle Motivation #sóvai 200 km 🚴🏼‍♀️ Embaixadora Epic Mountain 🚵🏼‍♀️ Strava Sue Abreu Vitória ES 🇧🇷 Explore aqui 👇🏻😉
+      Cyclist Lifestyle Motivation Movimente-se! 200 km 🚴🏼‍♀️ Embaixadora Epic Mountain 🚵🏼‍♀️ Strava Sue Abreu Vitória ES 🇧🇷 Explore aqui 👇🏻😉
     location: "Brazil"
-    followers: 149432
-    engagement: 129
-    commentsToLikes: 0.056290
+    followers: 149647
+    engagement: 130
+    commentsToLikes: 0.031216
     id: ck5q2qu3ihcqh0i1142q6jjeu
     verified: false
-    hashtags: "#4cykel, #bomdia, #lifestyle, #fotobike"
-  - username: "rodrigues.88"
+    hashtags: "#lifestyle, #roadbike, #tbt, #4cykel"
+  - username: "msalgueiroo99"
     fullname: >-
-      João Rodrigues
+      Miguel Salgueiro
     bio: >-
-      🔸️Pro Cyclist Team @w52fcporto 🏆Volta a Portugal 19 🇵🇹 🏆Volta ao Alentejo 19 🇵🇹 🚲 @swiftcarbon Email: rodrigues.88@hotmail.com
+      🇵🇹 Portuguese U23 | 21y 🚴‍♂️ Pro Cyclist with @la.sport.cycle 🥇 3x Cyclocross National Champion 🇪🇺 9th Road EuroChamps 2020
     location: "Brazil"
-    followers: 10207
-    engagement: 1255
-    commentsToLikes: 0.011671
-    id: ck5cf5w3mmcbf0i11rr7lpze4
+    followers: 3649
+    engagement: 2194
+    commentsToLikes: 0.020655
+    id: ck5zva4w93ug70i14bb1i3cum
     verified: false
-    hashtags: "#w52fcporto, #w52, #somosw52fcporto, #volta2020"
-  - username: "edusepulvedaarg"
+    hashtags: "#equipaportugal, #cycling, #euroroad20, #teamworkmakesthedreamwork"
+  - username: "lucasniccioli"
     fullname: >-
-      Eduardo Sepulveda
+      Lucas Niccioli
     bio: >-
-      🇦🇷🚴 Pro cyclist for @movistar_team Twitter: @EduSepulvedaARG Facebook: Eduardo Sepulveda Ciclista
+      Free runner & cyclist • Brazilian Model 📍🇧🇷 @alluremgt 🇨🇱 @welovemodels._ 🌎 @flymodelsmgt ♻️ @jornadaporeles ⛰ @dlrc__
     location: "Brazil"
-    followers: 14369
-    engagement: 677
-    commentsToLikes: 0.024702
-    id: ck6tix87f1lqt0j71b0xexuxr
+    followers: 16895
+    engagement: 477
+    commentsToLikes: 0.025119
+    id: ck0vuvjuwmcuw0i1985qddj9l
     verified: false
-    hashtags: "#colombia, #movistarteam, #ride100percent, #canyonbikes"
+    hashtags: "#enjoytheride, #underwearcampaign, #vamosviver, #worldwide"
+  - username: "gustavo_xavier___"
+    fullname: >-
+      Gustavo Xavier
+    bio: >-
+      Professional cyclist 19Y 🥇🥇🥇🥇🥇🥈🥉Brazilian Champion 🥉Panamericano Team:@specializedbr
+    location: "Brazil"
+    followers: 23505
+    engagement: 824
+    commentsToLikes: 0.006467
+    id: ck6u6mwxhgjjk0j710bgspuyb
+    verified: false
+    hashtags: "#repost, #bolsaatleta, #iamspecialized, #autopostocesar"
   - username: "mariocoutomtb"
     fullname: >-
       Mário Couto
     bio: >-
-      22y - Cyclist 🇧🇷 2x Campeão Brasileiro/2x Campeão da CIMTB/2x Campeão Mineiro/ Campeão Portugal Cup “Tudo vale a pena quando a alma não é pequena.”
+      23y - Cyclist 🇧🇷 2x Campeão Brasileiro/2xCampeão da CIMTB/3x Campeão Mineiro/ Campeão Portugal Cup “Tudo vale a pena quando a alma não é pequena.”
     location: "Brazil"
-    followers: 31666
-    engagement: 591
-    commentsToLikes: 0.009009
+    followers: 32791
+    engagement: 543
+    commentsToLikes: 0.009372
     id: ck6tq5cxnphhh0j7165pcvz5e
     verified: false
-    hashtags: "#michelin, #michelinbrasil, #sensebike, #shimanobrasil"
+    hashtags: "#exceed, #hbteam, #fizik, #sensefactoryracing"
+  - username: "aalinewalter"
+    fullname: >-
+      Aline
+    bio: >-
+      Hello Hello🌪️ ✨ | Lifestyle | Skincare | Cyclist MTB 📍 | Florianópolis 🦋 | Desde 1998 mantendo a classe 📲 | Parcerias via Direct
+    location: "Brazil"
+    followers: 24458
+    engagement: 148
+    commentsToLikes: 0.023169
+    id: ckap7ypaum5tn0i78qgcwbkf2
+    verified: false
+    hashtags: "#skincare, #girlpower, #girls, #reels"
   - username: "viniciusmobi"
     fullname: >-
       Vinicius Martins
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.028797
     id: ck15t5l9ugghk0i199sw4lkki
     verified: false
-    hashtags: "#corratecbrasil, #bikingman, #chaobatido, #gravelbike"
+    hashtags: "#ultracyclingrace, #gravelbikes, #chaobatido, #bikepacking"
   - username: "analaura_cyclist"
     fullname: >-
       Ana Laura
     bio: >-
-      TIME RAIZA GOULÃO CAMPEÃ BR JEJ 2017/18 CAMPEÃ BR PISTA 2019 VICE CAMPEÃ BR XCO2018 VICE CAMPEÃ CIMTB2018/19 JUVENIL 16ys
+      CAMPEÃ BR JEJ2017/18 CAMPEÃ BR PISTA2019 CAMPEÃ MINEIRA XCO2020 VICE CAMPEÃ BR XCO2018/20 VICE CAMPEÃ CIMTB2018/19 JÚNIOR 16 ANOS
     location: "Brazil"
-    followers: 15937
-    engagement: 646
-    commentsToLikes: 0.015418
+    followers: 16314
+    engagement: 600
+    commentsToLikes: 0.015583
     id: ckap1bsl8twoj0i781o7ybthx
     verified: false
-    hashtags: "#tbt, #repost"
+    hashtags: "#tbt, #tebete"
+  - username: "pipiamtb"
+    fullname: >-
+      Pipia Mtb
+    bio: >-
+      “Adorem o Senhor com temor. Tremam e se ajoelhem diante dele;” ‭‭Salmos‬ ‭2:11‬ Ninguém é triste pedalando 🚲 Embaixadora @ert.uniformes Kwai 👇🏼
+    location: "Brazil"
+    followers: 150292
+    engagement: 684
+    commentsToLikes: 0.206497
+    id: ck0ubfykpeigp0i19t631b1xp
+    verified: false
+    hashtags: "#bikegirl, #bikenafoto, #ert, #bikelifestyle"
   - username: "tamiresradatz"
     fullname: >-
       Tamires Radatz
     bio: >-
-      Atual Campeã Brasileira Contrarrelógio 🇧🇷 🥇🥇🥇 🚴 Team @avaiciclismo 💙 Desenvolvedora dos produtos @sportxtremebrasil Formada 🎓📏
+      3x Campeã Brasileira Elite P&D @sportxtremebrasil Team @avaiciclismo 🎓 Design de moda Contato e- mail
     location: "Brazil"
-    followers: 19555
-    engagement: 763
-    commentsToLikes: 0.023373
+    followers: 20108
+    engagement: 812
+    commentsToLikes: 0.020360
     id: ck5q883z54w9s0i11skcsal2d
     verified: false
-    hashtags: "#nqsf, #shimano, #cyclist, #pedal"
-  - username: "pipiamtb"
-    fullname: >-
-      pipia Mtb
-    bio: >-
-      “Adorem o Senhor com temor. Tremam e se ajoelhem diante dele;” ‭‭Salmos‬ ‭2:11‬ EMBAIXADORA @ert.uniformes
-    location: "Brazil"
-    followers: 55304
-    engagement: 932
-    commentsToLikes: 0.016948
-    id: ck0ubfykpeigp0i19t631b1xp
-    verified: false
-    hashtags: "#peba, #mtbgram, #cyclingphotos, #cyclinglife"
-  - username: "andrebucater"
-    fullname: >-
-      André Bucater
-    bio: >-
-      Treinador @wego.sports • Corrida de Rua I Trail Running • Ciclismo I Mountain Bike • Eventos Outdoor
-    location: "Brazil"
-    followers: 7077
-    engagement: 867
-    commentsToLikes: 0.053718
-    id: ckaovi22x4n8z0i78djag4isf
-    verified: false
-    hashtags: "#ultratrail, #amocorrer, #runnerslife, #skyrunner"
+    hashtags: "#mtblife, #borapedalar, #cyclinglife, #tbt"
 ---

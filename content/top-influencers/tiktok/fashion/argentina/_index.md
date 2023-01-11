@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Argentina In 2022
+title: Top 10 Fashion TikTok Influencers In Argentina In 2023
 description: >-
-  Find top fashion TikTok influencers in Argentina in 2022. Most popular hashtags: #fashion #parati #fyp #foryou.
+  Find top fashion TikTok influencers in Argentina in 2023. Most popular hashtags: #fashion #moda #greenscreen #fyp.
 platform: TikTok
-hits: 48
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 48 TikTok influencers like this in Argentina for you to collaborate.
+hits: 50
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 50 TikTok influencers like this in Argentina for you to work with.
 profiles:
   - username: "santiagoartemis"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Fashion designer, artist, author & entertainer.
     location: "Argentina"
-    followers: 46100
-    engagement: 658
-    commentsToLikes: 0.017954
+    followers: 46300
+    engagement: 656
+    commentsToLikes: 0.017409
     id: cka6mh8rb76e20i78vzn7ltxp
     verified: false
-    hashtags: "#neneleakes, #moria, #santiagoartemis, #corteyconfeccion"
+    hashtags: "#reginageorge, #coronavirus, #whitneyhouston, #neneleakes"
   - username: "houseoffashionok"
     fullname: >-
       House Of Fashion
     bio: >-
       Fashion Designer🇦🇷 Ig donde encontrar mis patrones: @houseoffashionok
     location: "Argentina"
-    followers: 37600
-    engagement: 634
-    commentsToLikes: 0.014024
+    followers: 37400
+    engagement: 618
+    commentsToLikes: 0.014833
     id: ckb11irxspx6l0j23q3agkc30
     verified: false
-    hashtags: "#tutorial, #sewingdiy, #diy, #sewingmachine"
-  - username: "tiziferri.ok"
+    hashtags: "#tiktokfashion, #diyhow, #fashion, #sewingproject"
+  - username: "tiziiferrii"
     fullname: >-
       tizi ferri
     bio: >-
       Fashion Design IG: tiziferri.ok 👇🏻(Vendo lo que hago en instagram)😊👇🏻
     location: "Argentina"
-    followers: 53300
-    engagement: 1213
-    commentsToLikes: 0.007672
+    followers: 52700
+    engagement: 1230
+    commentsToLikes: 0.007416
     id: ckamwyivdar240i78ji2eq7n5
     verified: false
-    hashtags: "#fashion, #thrifting, #fashiondesigner, #vintageclothes"
+    hashtags: "#greenscreen, #vintageclothes, #fashion, #fashiondesigner"
   - username: "ivasgarcia"
     fullname: >-
       Iva
     bio: >-
       ❥ FASHION ACADEMY ❥ Fashion & Trends FOLLOW IG: @ivasgarcia & @random.experience
     location: "Argentina"
-    followers: 31400
-    engagement: 804
-    commentsToLikes: 0.008971
+    followers: 47600
+    engagement: 902
+    commentsToLikes: 0.007008
     id: ckacgnf3rvurf0i78hei5opwr
     verified: false
-    hashtags: "#nyc, #nyfw, #fyp, #moda"
+    hashtags: "#fashionweek, #foryou, #nyc, #modelcheck"
   - username: "julita.okey"
     fullname: >-
       July
     bio: >-
       Argentina 🇦🇷 IG @julita.okey Fashion 👠 Tips, look, fun #fashionlover
     location: "Argentina"
-    followers: 19800
-    engagement: 278
-    commentsToLikes: 0.014148
+    followers: 21800
+    engagement: 461
+    commentsToLikes: 0.011739
     id: ckd64yrb52n3r0j23v7lwqlbq
     verified: false
-    hashtags: "#paratii, #detalles, #foryoupage, #tip"
-  - username: "danielamilagrosok"
-    fullname: >-
-      Daniela Milagros 🧛🏻‍♀️
-    bio: >-
-      16🇦🇷 ig @danielamilagrosok snap danimiilagros 🎤/🎹/🎬/🧛🏻‍♀️
-    location: "Argentina"
-    followers: 876700
-    engagement: 2142
-    commentsToLikes: 0.012583
-    id: ck8sd3cpvdzim0j78ty3sei4h
-    verified: true
-    hashtags: "#chicaidealyatra, #fashionnovapartner, #chicaideal, #lagrosera"
+    hashtags: "#moda, #looketes, #foryoupage, #fyp"
   - username: "valenventecol"
     fullname: >-
       queen v🪐
     bio: >-
-      mi contenido es tan random como yo. insta: valen.ventecol 🇦🇷. 19.
+      NO ME HAGAS SPAM PORFI💗 insta: valen.ventecol 🇦🇷. 19.
     location: "Argentina"
-    followers: 266600
-    engagement: 2823
-    commentsToLikes: 0.015490
+    followers: 277000
+    engagement: 1587
+    commentsToLikes: 0.010336
     id: ck99anriwidfi0j78tz6ztznk
     verified: false
-    hashtags: "#terror, #juegos, #argentina, #fashion"
-  - username: "agosnisiok"
+    hashtags: "#argentina, #terror, #casosreales, #southkorea"
+  - username: "franmauro0"
     fullname: >-
-      agosnisi
+      Fran Mauro
     bio: >-
-      Artista Argentina 🇦🇷 me caes piola✨✨ “Que tanto” Single👇🏼💓
+      Random shi Instagram: @franmauro_
     location: "Argentina"
-    followers: 1600000
-    engagement: 1771
-    commentsToLikes: 0.009552
-    id: ck8s83xj1rwe00j78fzcg0vat
-    verified: true
-    hashtags: "#fashion, #fyp, #song, #love"
-  - username: "melercoli"
-    fullname: >-
-      Mel 
-    bio: >-
-      📸Photographer based in Buenos Aires,Argentina🇦🇷 Consultas por instagram
-    location: "Argentina"
-    followers: 48100
-    engagement: 1829
-    commentsToLikes: 0.018172
-    id: cka6p5b7ei9jm0i781wfw7oq5
+    followers: 5292
+    engagement: 1165
+    commentsToLikes: 0.032397
+    id: ckb9ugo6pt56l0j231ei228nv
     verified: false
-    hashtags: "#fotografocheck, #fotografia, #photography101, #argentina"
+    hashtags: "#spiritualtiktok, #astrologia, #astrology, #fashiontiktok"
   - username: "lautarobaezz"
     fullname: >-
       lautaro baez
     bio: >-
       podes ser puto pero no seas trolo man dale seguime ig: @baezlautaro_
     location: "Argentina"
-    followers: 20000
-    engagement: 1689
-    commentsToLikes: 0.012662
+    followers: 21400
+    engagement: 1725
+    commentsToLikes: 0.012566
     id: ckb9lqmaqeifp0j23h8usotou
     verified: false
-    hashtags: "#greenscreen, #metgala, #gay, #fashion"
+    hashtags: "#friends, #fy, #fashion, #musica"
+  - username: "muneki77a"
+    fullname: >-
+      MUÑEKI77A
+    bio: >-
+      soy Naomi Preizler Toda mi música en Spotify y YouTube ig @muneki77a_
+    location: "Argentina"
+    followers: 293300
+    engagement: 1063
+    commentsToLikes: 0.012801
+    id: ckce62aj0kcqd0j23ckd1934p
+    verified: true
+    hashtags: "#tokyo, #modellife, #vintage, #style"
+  - username: "camiglasserman"
+    fullname: >-
+      🦋m i l a.🦋
+    bio: >-
+      actriz, bailarina, cantante y modelo a veces ✨looks/moda✨
+    location: "Argentina"
+    followers: 198800
+    engagement: 1232
+    commentsToLikes: 0.013046
+    id: ckdnobrn2kaq30j23dzazxyzn
+    verified: false
+    hashtags: "#tiktokdance, #beach, #comocombinar, #tiktokfashion"
 ---

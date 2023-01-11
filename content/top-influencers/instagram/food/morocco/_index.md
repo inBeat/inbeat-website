@@ -1,70 +1,34 @@
 ---
-title: Top 10 Food Instagram Influencers In Morocco In 2022
+title: Top 10 Food Instagram Influencers In Morocco In 2023
 description: >-
-  Find top food Instagram influencers in Morocco in 2022. Most popular hashtags: #food #maroc #photooftheday.
+  Find top food Instagram influencers in Morocco in 2023. Most popular hashtags: #food #love #maroc.
 platform: Instagram
-hits: 52
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 52 Instagram influencers like this in Morocco for you to collaborate.
+hits: 33
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 33 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "lesfitkho"
+  - username: "mimibitton"
     fullname: >-
-      FitKho
+      Myriam Bitton
     bio: >-
-      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
+      Director/Producer 🇺🇸 @mb.prods Moroccan Soul 🇲🇦 Flame Team 🔥🇯🇲 Dance 💃🏼, Music 🎶, Fitness 🏋🏼‍♀️, Travel ✈️, Nature 🌅, Food 🥘 L.O.V.E.R
     location: "Morocco"
-    followers: 20900
-    engagement: 541
-    commentsToLikes: 0.135702
-    id: ck5hp9bxsqywa0i11d9217mwu
+    followers: 20579
+    engagement: 349
+    commentsToLikes: 0.065155
+    id: ck5qa39l2ebpn0i11h813ztkj
     verified: false
-    hashtags: "#beautiful, #picoftheday, #workout, #girl"
+    hashtags: "#happiness, #dancehall, #dance, #passion"
   - username: "bns_444"
     fullname: >-
       Bandar Nawafالشريف بندربن نواف
     bio: >-
-      Saudi Events management and planner Food/Fashion/Business 📍Riyadh 👻Snapchat: bns_444 ✉️ Email: bns_444@outlook.com
+      Saudi model Bachelor of Business Administration Food/Fashion/Business 📍Riyadh 👻Snapchat: bns_444 ✉️ Email: bns_444@outlook.com
     location: "Morocco"
-    followers: 48538
-    engagement: 226
-    commentsToLikes: 0.096090
+    followers: 52421
+    engagement: 238
+    commentsToLikes: 0.051721
     id: ckf5nuiw6zqjr0j23lqrxs70n
-    verified: false
-    hashtags: "#maldivesislands, #maldives"
-  - username: "asmrarabi"
-    fullname: >-
-      Fatima Zahra
-    bio: >-
-      Food lover 🍫🍝🍤🍣🍗🌭 Marocaine 🇲🇦🇲🇦 Content creator inquiries : asmrarabi@gmail.com Tik Tok Asmrarabi
-    location: "Morocco"
-    followers: 287628
-    engagement: 309
-    commentsToLikes: 0.046296
-    id: ck8t9em62nt1t0j782ui7kr3y
-    verified: false
-    hashtags: "#sweets, #mozzarella, #wap, #eatingsounds"
-  - username: "ameer_abuz"
-    fullname: >-
-      Ameer - أمير أبوزنادة
-    bio: >-
-      Don’t take me serious Weird sense of humor 🏋🏻‍♂️ Gym enthusiast 🍩 Foodie 📩 ameer.abuzinadah@gmail.com 📺 Youtube:Lift and Cheat ⬇️
-    location: "Morocco"
-    followers: 229186
-    engagement: 288
-    commentsToLikes: 0.027834
-    id: ck6ufxw2qzs0w0j718vfmu50h
-    verified: false
-    hashtags: "#foodie, #mrolympia, #venice, #goldsgym"
-  - username: "discoverwithouidad"
-    fullname: >-
-      Discover Food with Ouidad 🍴
-    bio: >-
-      ▪️ Home Café ▪️ Recipes and Food Recommendation ▪️ London 🇬🇧- Tangier 🇲🇦. ▪️ All 📸’s are mine.
-    location: "Morocco"
-    followers: 3183
-    engagement: 1024
-    commentsToLikes: 0.222608
-    id: ck0tx2ndmhnhn0i19y6s9hts5
     verified: false
     hashtags: ""
   - username: "raneenaziz"
@@ -73,58 +37,94 @@ profiles:
     bio: >-
       📍: JEDDAH . LIFESTYLE | FOOD | BEAUTY . 📧: RANIN.BA22@GMAIL.COM
     location: "Morocco"
-    followers: 254126
-    engagement: 102
-    commentsToLikes: 0.176759
+    followers: 251016
+    engagement: 106
+    commentsToLikes: 0.307173
     id: ckaougv7w07rt0i78apthphic
     verified: false
-    hashtags: "#chipsyaaninice, #kitcoarabia"
-  - username: "eddahri_wafaa"
+    hashtags: "#redtaghomeware, #alwaysarabia, #alwaysdreamzzzpad, #wethedreamers"
+  - username: "asmaefood"
     fullname: >-
-      Wafaa Eddahri
+      اسماء فوود | asmae food
     bio: >-
-      Lifestyle Influencer #fashion #food BBA👩‍🎓Former Makeup Artist, Model MANAGER +33658447132 Wifey💍 Mommy of 5👩🏻👩🏻👩🏼👧🏻👦🏻 Born & raised in Sweden 🇸🇪 🇲🇦
+      وصفات شهيوات مغربية من تقديم أسماء المقادير وطريقة التحضير بالتفصيل مصحوبة بالصور والفيديو 📨 asmaefood@foodie.ma 🎬 asmae food
     location: "Morocco"
-    followers: 434801
-    engagement: 268
-    commentsToLikes: 0.039347
-    id: ck9wezv4gmn290j78kf3zujtb
+    followers: 202092
+    engagement: 103
+    commentsToLikes: 0.045429
+    id: ckaow8unw7v230i78zkhedbya
     verified: false
-    hashtags: "#food, #caftan, #takchita, #caftandumaroc"
+    hashtags: "#ghribabahla, #moroccanfood, #moroccan, #cuisine"
+  - username: "ameer_abuz"
+    fullname: >-
+      Ameer - أمير أبوزنادة
+    bio: >-
+      Don’t take me serious Weird sense of humor 🏋🏻‍♂️ Gym Rat 🍩 Foodie 📩 ameer.abuzinadah@gmail.com 📺 Youtube:Lift and Cheat ⬇️
+    location: "Morocco"
+    followers: 234345
+    engagement: 274
+    commentsToLikes: 0.018276
+    id: ck6ufxw2qzs0w0j718vfmu50h
+    verified: false
+    hashtags: "#kfcarabia, #food, #foodgram, #liftandcheat"
   - username: "bashacook.ar"
     fullname: >-
       Ali Basha علي باشا
     bio: >-
       -Food Vlogger -Jeddah, Saudi Arabia -Bashacook.ar@gmail.com حساب الافكار والحلول @bashacraft_ar
     location: "Morocco"
-    followers: 1156403
-    engagement: 89
-    commentsToLikes: 0.039357
+    followers: 1169852
+    engagement: 77
+    commentsToLikes: 0.035814
     id: ck8sw2ucwdkvx0j78g4coujyf
     verified: false
-    hashtags: "#foodporn, #style, #food, #love"
-  - username: "asmaefood"
+    hashtags: "#style, #yummy, #food, #love"
+  - username: "mimi_sweetvideo"
     fullname: >-
-      🍴شهيوات أسماء asmae food 🇲🇦🍴
+      Mimisweetvideo| blog personnel
     bio: >-
-      💎 متزوجة 💤 35 سنة عندي قناة مختصة في الطبخ 🍜 شكرا لكل من يتابعني ويدعمني asmae food 💻 ☚ إسم القناة
+      🎂مجلة متنوعة تقدم ابداعات اشهر الشيفات وصور لاحلى❤ 🍰#كيك 😘#instafood 🍫🍝🍣🍩🧁 👸#mimi_foodvideos 🥰 collaboration DM📧📩للاعلاناتكم Fashionmimi83@gmail.com
     location: "Morocco"
-    followers: 167716
-    engagement: 86
-    commentsToLikes: 0.042426
-    id: ckaow8unw7v230i78zkhedbya
+    followers: 8100
+    engagement: 785
+    commentsToLikes: 0.009328
+    id: ck8t2qja50cxt0j7854jx5ywh
     verified: false
-    hashtags: "#maroc, #cuisinemarocaine, #marakesh, #moroccanfood"
-  - username: "alharbialaa"
+    hashtags: "#mimi, #chocolatetarts, #gateau"
+  - username: "oujador"
     fullname: >-
-      علاء الحربي | ALHARBIALAA
+      𝗔𝗬𝗢𝗨𝗕 𝗢𝗨𝗝𝗔𝗗𝗢𝗥 🎬
     bio: >-
-      Portrait | Food |Coffee | Video | Travel Makkah, مصور من مكة
+      Legend I'm muslim Ayoub Oujador , 23 PHOTOGRAPHIE 📷 Video maker 🎬🎥 / DIRECTOR 📽 Be Different 🤙 Meilleur Clip 2018 (NTM)🥇 📍From Tangier , Morocco 🇲🇦
     location: "Morocco"
-    followers: 2475
-    engagement: 1073
-    commentsToLikes: 0.060355
-    id: ck8t4ko4u73kw0j78bh5ac2j5
+    followers: 16820
+    engagement: 1111
+    commentsToLikes: 0.044676
+    id: ck0w2dw6onv2c0i19defb95ql
     verified: false
-    hashtags: "#mecca, #makkah, #canon, #taif"
+    hashtags: "#canonphotography, #photographyislife, #naturephotography, #bookphotography"
+  - username: "ayhamawwad"
+    fullname: >-
+      Ayham Awwad 🇯🇴 🇺🇸🇹🇷🇶🇦🇶🇦
+    bio: >-
+      | “Model , Graphic Designer , pianist 🎹 “ | ❤️💫 📍Qatar / Doha 🇶🇦 l One Dream ... One Goal❤️ 🌎Believe In YourSelf “ 13/ Dec 🎉#snapchat link👇
+    location: "Morocco"
+    followers: 36856
+    engagement: 181
+    commentsToLikes: 0.238164
+    id: ckap8d7acnt7y0i7824mnmkiv
+    verified: false
+    hashtags: "#instapic, #dohaqatar, #swag, #qatar"
+  - username: "safae.lokid"
+    fullname: >-
+      Safae Lokid | صفاء لقيد
+    bio: >-
+      => La rifaine ⵣ 🇲🇦 => 26/06/2000 => TKD 💪🏻🥋 => Youtuber 🎬 • My youtube channel👇🏻👇🏻
+    location: "Morocco"
+    followers: 8844
+    engagement: 390
+    commentsToLikes: 0.039592
+    id: ck9hccfitkr320j788zfwe5ku
+    verified: false
+    hashtags: "#istanbul, #flexibility, #lifestyle, #sport"
 ---

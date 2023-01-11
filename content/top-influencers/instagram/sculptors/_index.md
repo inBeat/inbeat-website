@@ -1,130 +1,130 @@
 ---
-title: Top 10 Sculptors Instagram Influencers In 2022
+title: Top 10 Sculptors Instagram Influencers In 2023
 description: >-
-  Find top sculptors Instagram influencers in 2022. Most popular hashtags: #sculpture #art #instagram #artist.
+  Find top sculptors Instagram influencers in 2023. Most popular hashtags: #sculpture #art #portrait.
 platform: Instagram
-hits: 2805
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 2805 Instagram influencers like this for you to pitch.
+hits: 2838
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 2838 Instagram influencers like this for you to pitch.
 profiles:
+  - username: "tomasbarcelocastela"
+    fullname: >-
+      Tomàs Barceló Castelà
+    bio: >-
+      Sculptor.
+    location: ""
+    followers: 79372
+    engagement: 633
+    commentsToLikes: 0.010188
+    id: ckap004mso6zr0i78illgguoe
+    verified: false
+    hashtags: "#steampunk, #art, #tomasbarcelo, #sculpture"
   - username: "rogangregory"
     fullname: >-
       
     bio: >-
       sculptor
     location: "United States"
-    followers: 18349
-    engagement: 326
-    commentsToLikes: 0.023499
+    followers: 20198
+    engagement: 316
+    commentsToLikes: 0.023602
     id: ck6trndhxzzpv0j717o3og6vb
     verified: false
-    hashtags: "#shiva, #family"
-  - username: "atelier_van_lieshout"
+    hashtags: "#shiva, #wip, #studiostilllife"
+  - username: "_dylanmartinez"
     fullname: >-
-      Atelier Van Lieshout
+      Dylan Martinez
     bio: >-
       Sculptor
-    location: "Netherlands"
-    followers: 21228
-    engagement: 212
-    commentsToLikes: 0.027442
-    id: ck5hg6tz117x80i11i0zjdjsw
+    location: "United States"
+    followers: 28150
+    engagement: 275
+    commentsToLikes: 0.024074
+    id: ck55nedke615t0i111f7m3106
     verified: false
-    hashtags: "#sculpting, #instaart, #galeriaomr, #artiststudio"
+    hashtags: "#repost, #thetaxcollection, #dylanmartinez, #guyhepner"
   - username: "brodberick"
     fullname: >-
       Caroline Brodberick
     bio: >-
-      📍 sculptor / illustrator / photo & video maker 📩 cooperation: nyancaroline@gmail.com
-    location: "Ukraine"
-    followers: 255148
-    engagement: 973
-    commentsToLikes: 0.026581
+      📍 sculptor / illustrator / photo & video maker 📩 cooperation: hello@brodberick.com
+    location: "Russia"
+    followers: 236072
+    engagement: 991
+    commentsToLikes: 0.022028
     id: ckaoy2k0sfsiy0i78vpcfxv1z
     verified: false
-    hashtags: "#diveintounhiddenimagination, #90svintage, #sculpture, #sunaesthetic"
-  - username: "paris_asmr"
+    hashtags: "#sculpture, #90svintage, #diveintounhiddenimagination, #morticiaaddams"
+  - username: "art.remisa"
     fullname: >-
-      Paris ASMR 🗣✨
+      🦋رِميصا🦋remisa🦋
     bio: >-
-      🙋🏻‍♂️FLO 🇫🇷 🎤 Member of the pop duo CASSANDRE 🎬 ASMR artist on Youtube (239k) 🤓 Sophrologue Praticien 👂🏻 Sound sculptor 📩 parisasmr@yahoo.fr
-    location: "France"
-    followers: 26348
-    engagement: 874
-    commentsToLikes: 0.027469
-    id: ckap1yygiwo1l0i78qqcspal9
+      Civil Engineer Travel Blogger Director of the School of Visual Arts Charity Manager Tourism leader CEO Painter and sculptor Environmental sponsor
+    location: "United States"
+    followers: 18195
+    engagement: 520
+    commentsToLikes: 0.140300
+    id: ck8t33l8x1pwi0j785ovrcbd8
     verified: false
-    hashtags: "#sophrologie, #musique, #bleu, #asmr"
+    hashtags: "#2021, #2021tayfa, #2021bride"
+  - username: "traineverhard2.0"
+    fullname: >-
+      IFBB Pro Lorenzo Everhard
+    bio: >-
+      NASM Fitness Professional Weight Loss Specialist Physique Sculptor ⚒ Atlanta, Ga 🌎 Photographer @everhardphotos IFBB Men's Physique Pro
+    location: "United States"
+    followers: 39184
+    engagement: 202
+    commentsToLikes: 0.032854
+    id: ck55l7gu20x9q0i114q55m9i1
+    verified: false
+    hashtags: "#mykonos, #greece, #traineverhard, #barcelonaspain"
+  - username: "anastasiaarteyeva"
+    fullname: >-
+      Anastasia Arteyeva
+    bio: >-
+      Photographer▫️Aspiring sculptor/ceramicist ▫️Organizer of photoadventures around the world 🌎Currently in Odessa🇺🇦 my photography @anastasiakole
+    location: "United States"
+    followers: 61126
+    engagement: 374
+    commentsToLikes: 0.028087
+    id: ck6uav6ce5uo50j712dwqwx94
+    verified: false
+    hashtags: "#inspiration, #isolationcreation"
+  - username: "relmartist"
+    fullname: >-
+      Relm
+    bio: >-
+      NYC Raised oil painter/Sculptor🇨🇦 Shop⬇️ Commissions closed until 2021.
+    location: "United States"
+    followers: 375750
+    engagement: 587
+    commentsToLikes: 0.005832
+    id: ck5zpyt57tlse0i14axzj39ty
+    verified: false
+    hashtags: "#oilpainting, #drawing, #artdaily, #art"
   - username: "ezgisadeghi"
     fullname: >-
       Ezgi Turna Sadeghi
     bio: >-
-      💝National Brow Artist @benefitturkiye 👩🏻‍🎨Makeup-SFX Artist 👩🏻‍🎓Fine Arts-Sculptor 🐕Resque dogs mother @gecegunduz_thebrothers 🌱Vegeterian
+      💝National Brow Artist @benefitturkiye 👩🏻‍🎨Makeup-SFX Artist 👩🏻‍🎓Fine Arts-Sculptor 🐕Resque dogs mother @sadeghis_madhouse 🌱Plant based
     location: "Turkey"
-    followers: 12435
-    engagement: 636
-    commentsToLikes: 0.194663
+    followers: 12482
+    engagement: 375
+    commentsToLikes: 0.101751
     id: ck0u7i9nj4t2g0i19vh4d33vt
     verified: false
-    hashtags: "#benefitbrows, #makeupartist, #makeupaddict, #24hourbrowsetter"
-  - username: "oldboy_ctts"
+    hashtags: "#browsonpoint, #makeupaddict, #makeuponfleek, #makeupobsessed"
+  - username: "souclaudio_"
     fullname: >-
-      Souppasilp Chanphatthana
+      Claudio G. Fontes
     bio: >-
-      Sculptor / Painter / Artist. WIPs / BTS / New works here.
-    location: ""
-    followers: 9947
-    engagement: 801
-    commentsToLikes: 0.039620
-    id: ck6tprtedm8ag0j71jry6jmui
-    verified: false
-    hashtags: "#customsculpt, #customfigures, #customactionfigures, #customheadsculpt"
-  - username: "reyan_nice"
-    fullname: >-
-      Rayan Mahmood ریان محمود
-    bio: >-
-      Artist | Sculptor | Portrait | Editor | Graduate | Institute of fine arts University of Duhok Founder Of @reyanproduction 📧info : reyannice@gmail.com
-    location: ""
-    followers: 19510
-    engagement: 139
-    commentsToLikes: 0.156973
-    id: ckf5sypjzggul0j235yl3mrfw
-    verified: false
-    hashtags: "#duhok, #amedi, #kurdish, #rayanmahmood"
-  - username: "mayshelf"
-    fullname: >-
-      May Thamtarana
-    bio: >-
-      Professional sculptor in Burbank, CA. Action figures/statues posted here are things I've sculpted and you might have.
+      25 y.o Sculptor at @prime1studio Painter and tradicional sculptor #zbrush #collectibles #sculptor #painter
     location: "United States"
-    followers: 6761
-    engagement: 1833
-    commentsToLikes: 0.031617
-    id: ck5buhpquht6d0i11krpijgn3
+    followers: 17524
+    engagement: 1020
+    commentsToLikes: 0.027307
+    id: ck13d1b9g35vj0i19kf5rfu9r
     verified: false
-    hashtags: "#mayshelf, #marvellegends, #actionfigures, #toys"
-  - username: "stuardoalvaro"
-    fullname: >-
-      Alvaro Stuardo Bravo
-    bio: >-
-      freelance Sculptor Painter and kit builder alvarocks10@gmail.com
-    location: "United States"
-    followers: 22938
-    engagement: 416
-    commentsToLikes: 0.022893
-    id: ckf5v0d8bmw820j23hr9rw12z
-    verified: false
-    hashtags: "#handmade, #godofwar4, #santamonicastudios, #marvel"
-  - username: "odessavlad"
-    fullname: >-
-      Vladimir Pelikh
-    bio: >-
-      📍Kyiv, Ukraine Made in Ukraine🇺🇦 International male MODEL MA @qmodels 🇺🇸 Traveller Sculptor Follow my ART page @odessavlad_art I speak 🇺🇦🇬🇧🇪🇸🇧🇷🇷🇺
-    location: "Ukraine"
-    followers: 53223
-    engagement: 502
-    commentsToLikes: 0.028773
-    id: ck5c4a3h40x3n0i119rtl72pi
-    verified: false
-    hashtags: "#menwithstyle, #menslifestyle, #modelguys, #fitguysofinsta"
+    hashtags: "#hbo, #pixologic, #study, #art"
 ---

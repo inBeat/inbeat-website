@@ -1,36 +1,48 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Brazil In 2022
+title: Top 10 Dancers TikTok Influencers In Brazil In 2023
 description: >-
-  Find top dancers TikTok influencers in Brazil in 2022. Most popular hashtags: #dance #fy #dueto #foryou.
+  Find top dancers TikTok influencers in Brazil in 2023. Most popular hashtags: #dance #fy #dancer #foryou.
 platform: TikTok
-hits: 112
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 112 TikTok influencers like this in Brazil for you to connect with.
+hits: 141
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 141 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "julianamunizl"
+  - username: "macedonandaa"
     fullname: >-
-      🔥Ju Muniz 🔥
+      Nanda Macedo
     bio: >-
-      Singer 🎙 Dancer 💃🏻 INSTAGRAM: jumunizl 📸 🇧🇷🤍🇮🇳
+      • dancer
     location: "Brazil"
-    followers: 826400
-    engagement: 1652
-    commentsToLikes: 0.056912
-    id: ck9gntalry13h0j78w1e3vbl8
-    verified: true
-    hashtags: "#uniter, #karaokedajumuniz, #nowunited, #trend"
-  - username: "lucianaedanilo10"
-    fullname: >-
-      Luciana Aleluia
-    bio: >-
-      Dancer💃😍💃 IG: @lucianna.05 De Salvador Bahia
-    location: "Brazil"
-    followers: 10100
-    engagement: 2076
-    commentsToLikes: 0.204987
-    id: ckdnvgr54on6l0j23ud7v94wk
+    followers: 188000
+    engagement: 917
+    commentsToLikes: 0.005506
+    id: ck9kdgvjdu7wg0j78ske5w511
     verified: false
-    hashtags: "#fyp, #fy, #dueto, #dance"
+    hashtags: "#viral, #dance, #fyp, #fy"
+  - username: "maxwellcruz_"
+    fullname: >-
+      Maxwell Cruz
+    bio: >-
+      19| Ceará 🌊 ig: maxwellcruz_ dancer
+    location: "Brazil"
+    followers: 36300
+    engagement: 2177
+    commentsToLikes: 0.096760
+    id: ckba7wdez0x300j230tuxht7g
+    verified: false
+    hashtags: "#fy, #dancinha, #dance, #foryou"
+  - username: "carlos.marconi"
+    fullname: >-
+      Carlos Marconi
+    bio: >-
+      19 years🎶cânceriano DANCER !!! INSTA: carlos.marconii
+    location: "Brazil"
+    followers: 18800
+    engagement: 2446
+    commentsToLikes: 0.064863
+    id: ckan3sipm6r900i78c7gl170n
+    verified: false
+    hashtags: "#cringe, #boyfriend, #boy, #dance"
   - username: "ruansulopes"
     fullname: >-
       ruansuburbano
@@ -38,93 +50,81 @@ profiles:
       Dancer from Brazil 👟(031)🇧🇷
     location: "Brazil"
     followers: 64300
-    engagement: 1409
-    commentsToLikes: 0.068072
+    engagement: 1420
+    commentsToLikes: 0.056797
     id: ckavo9gz3yyhp0j23t0wvvk8k
     verified: false
-    hashtags: "#fy, #bts, #dance, #masego"
-  - username: "carlos.marconi"
-    fullname: >-
-      Carlos Marconi
-    bio: >-
-      19 years🎶cânceriano DANCER !!! INSTA: carlos.marconii
-    location: "Brazil"
-    followers: 16500
-    engagement: 2660
-    commentsToLikes: 0.047977
-    id: ckan3sipm6r900i78c7gl170n
-    verified: false
-    hashtags: "#boyfriend, #cuteboy, #kpop, #boycute"
+    hashtags: "#mds, #fy, #hiphop, #monster"
   - username: "celia_ding"
     fullname: >-
       Célia Ding
     bio: >-
       {Dancer}•{Makeup Artist} Kpop💜 Intagram: @celia_ding 🇧🇷🇨🇳
     location: "Brazil"
-    followers: 10300
-    engagement: 1675
-    commentsToLikes: 0.034841
+    followers: 11600
+    engagement: 1827
+    commentsToLikes: 0.047765
     id: ckan56k14dh8u0i788miohvt4
     verified: false
-    hashtags: "#blackpink, #icecream, #dance, #lovesickgirls"
+    hashtags: "#dancechallenge, #kpop, #dance, #fyp"
+  - username: "toxiccherrybun"
+    fullname: >-
+      xxX laurawr xD ✞𖤐
+    bio: >-
+      19y • bh-mg-br ༺any pronouns༻ dancer • cosplayer sometimes goth sometimes scene
+    location: "Brazil"
+    followers: 164900
+    engagement: 2404
+    commentsToLikes: 0.036554
+    id: ck8w1j6sw22mq0j788fwsd4qb
+    verified: false
+    hashtags: "#fyp, #dancer, #fy, #stitch"
+  - username: "jhowdancer"
+    fullname: >-
+      jhowdancer
+    bio: >-
+      Dancer | Singer | creator 🕺🏻 🎤 📲
+    location: "Brazil"
+    followers: 1200000
+    engagement: 1433
+    commentsToLikes: 0.013639
+    id: ck9gqq4r4ajqq0j7842uliidx
+    verified: false
+    hashtags: "#viral, #humor, #tiktok, #dueto"
+  - username: "_luua_"
+    fullname: >-
+      Luana Bernardo
+    bio: >-
+      INSTAGRAM 📸☝🏻 Brazilian 🇧🇷 Dancer💃🏻 Vegetarian 🌱 Yogi 🧘🏻‍♀️
+    location: "Brazil"
+    followers: 39500
+    engagement: 1948
+    commentsToLikes: 0.046729
+    id: ck9emjzmefjg40j78tse88wbr
+    verified: true
+    hashtags: "#balance, #stretching, #backstretch, #foryou"
   - username: "ramanaborba"
     fullname: >-
       Ramana Borba
     bio: >-
-      Cheguei só para conhecer e agora sei todas dancinhas🤦🏾‍♀️. Dancer, 19 anos🇧🇷
+      Brasileira favorita da Cardi B. Dancer, 19 anos 🇧🇷
     location: "Brazil"
-    followers: 2100000
-    engagement: 1634
-    commentsToLikes: 0.018296
+    followers: 2900000
+    engagement: 1435
+    commentsToLikes: 0.018039
     id: ck9nutx3lovrz0j78sw526jdg
     verified: true
-    hashtags: "#ad, #funk, #dueto, #paravoce"
-  - username: "raurahelena"
+    hashtags: "#dance, #publi, #foryou, #paravoce"
+  - username: "julianamunizl"
     fullname: >-
-      Laura Helena 👑
+      🔥Ju Muniz 🔥
     bio: >-
-      Cosplayer, Pole/Belly/Ballet Dancer que tenta ser tiktoker nas horas vagas 😎
+      Singer 🎙 Dancer 💃🏻 RJ INSTAGRAM: jumunizl 📸 🇧🇷 🇵🇹 🤍🇮🇳
     location: "Brazil"
-    followers: 2567
-    engagement: 1099
-    commentsToLikes: 0.082966
-    id: ckbr56yybl1hf0j23v0ozfp5u
-    verified: false
-    hashtags: "#dancinha, #pravoce, #fyp, #friends"
-  - username: "gabrielmorenoofc"
-    fullname: >-
-      Gabriel Moreno
-    bio: >-
-      Instagram: @gabrielmorenoofc Nutricionista 3/8 📚 Modelo / Dancer 😎 25 anos
-    location: "Brazil"
-    followers: 277800
-    engagement: 1288
-    commentsToLikes: 0.028434
-    id: ck9kegjq2ysjq0j78fq441bov
-    verified: false
-    hashtags: "#pravoce, #foryou, #teletransporte, #funk"
-  - username: "nathy_olivveira_"
-    fullname: >-
-      Nathy_Olivveira
-    bio: >-
-      Dancer💕 Arianator💕 Belieber💕 O pessoal me chama de Mini Addison🥺💕 🇧🇷🇺🇸
-    location: "Brazil"
-    followers: 24300
-    engagement: 2213
-    commentsToLikes: 0.024419
-    id: ckaijmk3ffogx0i781hkcdx0p
-    verified: false
-    hashtags: "#arianagrande, #newtrend, #foryou, #fyp"
-  - username: "gabsdalcin"
-    fullname: >-
-      Gabs Dalcin
-    bio: >-
-      Dancer & Singer | QOR | 🇧🇷 @gabsdalcin / @queensofrevolution 18y
-    location: "Brazil"
-    followers: 25700
-    engagement: 1891
-    commentsToLikes: 0.038236
-    id: ckamowziraxkg0i78r6ty5qyk
-    verified: false
-    hashtags: "#towerofgod, #kpop, #cabelo, #coreia"
+    followers: 1200000
+    engagement: 1008
+    commentsToLikes: 0.041628
+    id: ck9gntalry13h0j78w1e3vbl8
+    verified: true
+    hashtags: "#anittagirlfromrio, #karaokedajumuniz, #tipogin, #girlfromrio"
 ---

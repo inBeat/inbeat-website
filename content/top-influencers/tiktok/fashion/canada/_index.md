@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Canada In 2022
+title: Top 10 Fashion TikTok Influencers In Canada In 2023
 description: >-
-  Find top fashion TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #duet #fashion #fallfashion.
+  Find top fashion TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #fashion #greenscreen #tiktokcanada.
 platform: TikTok
-hits: 999
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 999 TikTok influencers like this in Canada for you to connect with.
+hits: 720
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 720 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "mariama.sahoneh"
+  - username: "pe.r.la_"
     fullname: >-
-      Mariama Sahoneh
+      perla😊
     bio: >-
-      55K? MAKEUP | FASHION | BEAUTY Let’s link👇🏾 😀
+      🤎Fashion and Instagram content 🤎Follow my insta: @pe.r.la_
     location: "Canada"
-    followers: 47400
-    engagement: 1953
-    commentsToLikes: 0.043296
+    followers: 101400
+    engagement: 1604
+    commentsToLikes: 0.017010
+    id: ckac5sq3ddk3k0i78fjhsb5e6
+    verified: false
+    hashtags: "#greenscreenvideo, #fy, #greenscreen, #letmeknowimincontrol"
+  - username: "modestfashionandbeauty"
+    fullname: >-
+      Modest Fashion and Beauty
+    bio: >-
+      MODEST FASHION & BEAUTY Your Go To Place For Modest Fashion & Beauty Hacks
+    location: "Canada"
+    followers: 68300
+    engagement: 1066
+    commentsToLikes: 0.022179
     id: ck961yrgmoiex0j78ejlg96ha
     verified: false
-    hashtags: "#muslimahhumour, #blackmuslimfemale, #muslimcomedy, #hijabitiktoks"
-  - username: "fabulashqueen"
-    fullname: >-
-      🇨🇦Queen👸Clarice🇵🇭
-    bio: >-
-      CEO & Founder @BeAFabulashQueen👑 Beauty&FashionContent Nehemiah 8:10 🇨🇦🇵🇭
-    location: "Canada"
-    followers: 5833
-    engagement: 1409
-    commentsToLikes: 0.211513
-    id: ckc3eylbx0u2u0j23ftzagj18
-    verified: false
-    hashtags: "#faith, #beablessing, #fabulashqueen, #canadalife"
-  - username: "frus_"
-    fullname: >-
-      woods🧿
-    bio: >-
-      stay groovy licensed reiki practitioner (dm) fashion design student
-    location: "Canada"
-    followers: 14300
-    engagement: 1438
-    commentsToLikes: 0.058635
-    id: ckbf46kzmshvq0j23wzvqkmwm
-    verified: false
-    hashtags: "#meditation, #manifestation, #mantras, #trycloudy"
+    hashtags: "#muslimahfashionblogger, #hijabifashionblogger, #hijabiblogger, #pressonnails"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
     bio: >-
       Lifestyle • Vlogs • Comedy • Fashion • Travel 📧 Naomi.leanage@gmail.com
     location: "Canada"
-    followers: 405900
-    engagement: 2668
-    commentsToLikes: 0.009405
+    followers: 454800
+    engagement: 1799
+    commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#toronto, #thriftshop, #thrifting, #tiktokcanada"
-  - username: "jhonnymorcillo"
-    fullname: >-
-      Jhonny Morcillo
-    bio: >-
-      Fashion Designer/Photographer 23 Follow IG @Jhonnymorcillo
-    location: "Canada"
-    followers: 110500
-    engagement: 1949
-    commentsToLikes: 0.017529
-    id: ck94hgodrjmkq0j7815x323ti
-    verified: false
-    hashtags: "#husky, #fyp, #timewarpscan, #jungl"
+    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
   - username: "hannah.dabash"
     fullname: >-
       Hannah
     bio: >-
-      Follow me on insta for cute clothes ⭐️ --_-- 💧 Anime | Fashion | Kpop
+      Follow me on insta 🌸 Anime | Fashion | Kpop 🌸 Check out my Amazon wishlist
     location: "Canada"
-    followers: 140300
-    engagement: 1797
-    commentsToLikes: 0.019598
+    followers: 151000
+    engagement: 1949
+    commentsToLikes: 0.023220
     id: ckcp4mjsmcgdv0j23bpd48f6v
     verified: false
-    hashtags: "#bts, #fyp, #foryou, #anime"
-  - username: "deathvibes"
+    hashtags: "#fyp, #kpop, #anime, #siblings"
+  - username: "fabulashqueen3"
     fullname: >-
-      Certified Rotting Corpse
+      🇨🇦Fabulash👸Queen🇵🇭
     bio: >-
-      Finn👋 🏳️‍🌈cosplay, fashion, art🏳️‍🌈 ✨19✨ Welcome to my quarter-life crisis
+      CA 🍁 beauty & fashion blogger + fabulashqueenstyles owner Isaiah 54:17 $Off
     location: "Canada"
-    followers: 58900
-    engagement: 2912
-    commentsToLikes: 0.010693
-    id: ckc7h276vphjk0j236s7vyymu
+    followers: 8963
+    engagement: 765
+    commentsToLikes: 0.111219
+    id: ckc3eylbx0u2u0j23ftzagj18
     verified: false
-    hashtags: "#drawing, #art, #ddlccosplay, #halloween"
-  - username: "emadamsxo"
+    hashtags: "#smallbusinesstips, #smallbizowner, #fabulashqueencosmetics, #bossbabe"
+  - username: "definitelytai"
     fullname: >-
-      Emily Adams
+      tai
     bio: >-
-      Hi!! You’re beautiful 💕☀️ Fashion Fashion Fashion 👱🏼‍♀️ 👡👛 Calgary 🇨🇦
+      i make edits + fashion videos follow my ig 📧: taiwo.aladejebi@gmail.com
     location: "Canada"
-    followers: 3099
-    engagement: 581
-    commentsToLikes: 0.091363
-    id: ck806x4limqdl0j7827dg673l
+    followers: 363200
+    engagement: 1774
+    commentsToLikes: 0.016260
+    id: ck83zvjm83hcm0j78i2tdu4zu
     verified: false
-    hashtags: "#loungewear, #howtostyle, #outfitinspo, #fashion"
+    hashtags: "#fyp, #loop, #fashion, #foryou"
   - username: "vintagemal"
     fullname: >-
       mal 🧚🏽
     bio: >-
-      montréal thrift | fashion | business owner of @HeatCollectors 🤎
+      vintage | fashion | business owner of @HeatCollectors 🤎 use ‘TIKTOK’ for $$ off
     location: "Canada"
-    followers: 5721
-    engagement: 1171
-    commentsToLikes: 0.040273
+    followers: 5651
+    engagement: 1334
+    commentsToLikes: 0.036097
     id: ck9v8tdlzb3zy0j78k7tuu853
     verified: false
-    hashtags: "#mtl, #thriftwithme, #fyp, #thrifthaul"
-  - username: "sarahxspooner"
+    hashtags: "#mtl, #thrift, #thriftwithme, #smallbusiness"
+  - username: "j.n.guyen"
     fullname: >-
-      Sarah Spooner
+      Jennifer Nguyen
     bio: >-
-      🇵🇭 + 🇨🇦 questionable fashion and more questionable jokes ✊🏼✊🏽✊🏾✊🏿
+      just another fashion gal procrastinating creative director @blankmagazine
     location: "Canada"
-    followers: 23900
-    engagement: 1051
-    commentsToLikes: 0.027480
-    id: ckbl1ax4jy4jv0j23v8buipiq
+    followers: 8391
+    engagement: 906
+    commentsToLikes: 0.045333
+    id: ckbfd7sks6hc70j23yeqwt3sy
     verified: false
-    hashtags: "#thatshot, #millennialsoftiktok, #fallaesthetic, #getthelook"
+    hashtags: "#photoshootideas, #style, #fashion, #tiktokfashion"
+  - username: "letitiakiu"
+    fullname: >-
+      Letitia Kiu
+    bio: >-
+      ☆ Thrift, Fashion & DIY ☆ YT & IG: @letitiakiu Toronto
+    location: "Canada"
+    followers: 9928
+    engagement: 1055
+    commentsToLikes: 0.044757
+    id: ck9818tumau510j78l0v2d07y
+    verified: false
+    hashtags: "#holidaydecor, #diyhomedecor, #diy, #tiktokdiy"
+  - username: "mikaylakuehn"
+    fullname: >-
+      Mikayla Kuehn
+    bio: >-
+      my name is mik & I like the colour pink✌🏻 💖fashion, beauty & lifestyle in 🇨🇦
+    location: "Canada"
+    followers: 4639
+    engagement: 1007
+    commentsToLikes: 0.040751
+    id: ckb12ofipqw8d0j233p4mj8wh
+    verified: false
+    hashtags: "#thepinklife, #aristocats, #pinkaesthetic, #fashiontok"
 ---

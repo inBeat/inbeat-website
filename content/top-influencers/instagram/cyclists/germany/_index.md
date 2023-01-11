@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Germany In 2022
+title: Top 10 Cyclists Instagram Influencers In Germany In 2023
 description: >-
-  Find top cyclists Instagram influencers in Germany in 2022. Most popular hashtags: #cycling #cyclinglife #bike #bikelife.
+  Find top cyclists Instagram influencers in Germany in 2023. Most popular hashtags: #roadbike #rennrad #cycling #cyclinglife.
 platform: Instagram
-hits: 55
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 55 Instagram influencers like this in Germany for you to contact.
+hits: 48
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 48 Instagram influencers like this in Germany for you to contact.
 profiles:
+  - username: "_sicht_weise"
+    fullname: >-
+      Kathrin | 📍 Augsburg
+    bio: >-
+      Meine (nicht immer so weise) Sicht der Dinge 🏊‍♀️ #bleiente 🚴🏼‍♀️ #cyclist 🏃‍♀️ #runner 42k ♥️ empathische Wortakrobatin 🍑 schenkt & sucht #motivation
+    location: "Germany"
+    followers: 13987
+    engagement: 1344
+    commentsToLikes: 0.046314
+    id: ck0tvvcizcy860i193wvocbnr
+    verified: false
+    hashtags: "#correr, #rennradm, #runningmom, #instafriends"
+  - username: "vogt_life"
+    fullname: >-
+      hi there - i‘m daniel.
+    bio: >-
+      cyclist with a big camera on his back. sport.marketing.photography - based in germany 🚲 supported by awesome brands !
+    location: "Germany"
+    followers: 8654
+    engagement: 745
+    commentsToLikes: 0.015763
+    id: ck9h9o6pi9a0e0j782kxzl0fx
+    verified: false
+    hashtags: "#cyclingshots, #cyclinglife, #thisiscycling, #gravelbike"
   - username: "clippedinandfree"
     fullname: >-
       Alina Jäger
     bio: >-
-      Cyclist. Sensitive & savage Creator @einmenschwiejeder Founder @agentur.authentisch 📍Germany ❤@mikula.thome
+      Cyclist & Photographer. Sensitive & savage. Broken collarbone💩. Work @thatsmacreative Inspiring riders to ride. Made to create. ❤@mikula.thome
     location: "Germany"
-    followers: 97432
-    engagement: 731
-    commentsToLikes: 0.018557
+    followers: 143180
+    engagement: 489
+    commentsToLikes: 0.018242
     id: ck5zs18lrxmqn0i148cz2x1v8
     verified: false
-    hashtags: "#rideyourbike, #clippedinandfree, #cycling, #vscocycling"
+    hashtags: "#trentinowow, #cyclinggirl, #gravelride, #letsride"
+  - username: "lulu.on.tour"
+    fullname: >-
+      Lulu
+    bio: >-
+      Ambassador @specializedde Fearless Female Cyclist @veloine.cc Wahooligan @wahoofitnessofficial
+    location: "Germany"
+    followers: 8115
+    engagement: 1684
+    commentsToLikes: 0.016134
+    id: ckf5vzw9mqfbs0j23pgghtdmh
+    verified: false
+    hashtags: "#womenswinterchallenge, #bettertogether, #cyclingphotos, #cycling"
+  - username: "aliciafranck"
+    fullname: >-
+      Alicia Franck
+    bio: >-
+      Belgian pro cyclist | @proximusalphamotorhomesct P/b @challengetires @superior_bikesbenelux @magistralecyclingcoffee Bachelor Mechanical Design
+    location: "Germany"
+    followers: 11275
+    engagement: 1097
+    commentsToLikes: 0.030242
+    id: ck13aaurbphhb0i19hogohl11
+    verified: false
+    hashtags: "#louisverwimp, #alwaysimproving, #ridleyhelium, #bike7"
   - username: "miriamwelte"
     fullname: >-
       Miriam Welte
     bio: >-
       Olympic Champion London 🥇 🇬🇧 Olympic Bronze Medalist Rio 🥉🇧🇷, 6x World Champion 🌈 , German Track Cyclist 🚴🏻‍♀️🇩🇪 Police Officer RLP 👮🏻‍♀️
     location: "Germany"
-    followers: 14192
-    engagement: 662
-    commentsToLikes: 0.021326
+    followers: 14075
+    engagement: 627
+    commentsToLikes: 0.020888
     id: ck6twmxudsxg30j71re9np1zy
     verified: true
-    hashtags: "#pfalzliebe, #sporthilfe, #switzerland, #pf"
-  - username: "liane_lippert"
-    fullname: >-
-      ᴸᴵᴬᴺᴱ ᴸᴵᴾᴾᴱᴿᵀ
-    bio: >-
-      🇩🇪 Pro Cyclist @teamsunweb 𝒩💞
-    location: "Germany"
-    followers: 12604
-    engagement: 1302
-    commentsToLikes: 0.007925
-    id: ck14kg8nspdbi0i19co518oud
-    verified: false
-    hashtags: "#girorosa, #wirsindteamsunweb, #keepchallenging, #creatingmemories"
-  - username: "emma_hinzee"
-    fullname: >-
-      Emma Hinze
-    bio: >-
-      German track cyclist | Olympian | Track Team Brandenburg | 🌈 3x Elite World Champion | 🌈 4x Junior World Champion | 🕒@tissot_official | 🚲@ride_bmc
-    location: "Germany"
-    followers: 11013
-    engagement: 961
-    commentsToLikes: 0.013716
-    id: ck5bv0xk2ishq0i115a1eepah
-    verified: true
-    hashtags: "#reifeleistung, #wirundjetztfu, #teamdeutschland, #wirfuerd"
+    hashtags: "#pfalzliebe, #switzerland, #radsport, #pf"
   - username: "permuenstermann"
     fullname: >-
       Per Christian Münstermann
     bio: >-
       Cyclist for Team SKS Germany 🇩🇪
     location: "Germany"
-    followers: 22971
-    engagement: 371
-    commentsToLikes: 0.006699
+    followers: 22729
+    engagement: 398
+    commentsToLikes: 0.006897
     id: ckf5p21zt4ono0j23mk88erl2
     verified: false
-    hashtags: "#madeingermany, #sks, #rideon, #skswash"
-  - username: "i608m"
+    hashtags: "#madeingermany, #rideon, #sks, #sksbikeliquids"
+  - username: "rickzabel"
     fullname: >-
-      Christopher Haas
+      Rick Zabel
     bio: >-
-      Cyclist 🚴🏼. ⠀⠀⠀⠀ 📍@bayern 🇩🇪. "Get a bicycle. You will not regret it. If you live." Mark Twain
+      Pro Cyclist Podcast - Plan Z 📍Cologne
     location: "Germany"
-    followers: 10031
-    engagement: 658
-    commentsToLikes: 0.004312
-    id: ck15q62ce1a5e0i19mdk5shlk
-    verified: false
-    hashtags: "#openbikes, #oneobsession, #bike, #openbike"
-  - username: "maschamulder"
-    fullname: >-
-      Mascha Mulder
-    bio: >-
-      🇳🇱 Dutch cyclist 📍Founder @amarrowwheels 🚴🏼‍♀️ Cx team @hensmaescxteam ⚡️@duursportnl 💥@gripgrab
-    location: "Germany"
-    followers: 9708
-    engagement: 400
-    commentsToLikes: 0.016834
-    id: ckaoyomvjiedc0i782i1vrfyp
-    verified: false
-    hashtags: "#cyclist, #cyc, #cyclocross, #cyclinglife"
+    followers: 70149
+    engagement: 657
+    commentsToLikes: 0.022307
+    id: ck1398ppxk2th0i195o41ax05
+    verified: true
+    hashtags: "#waterisahumanright, #colsdecologne"
   - username: "kathrinschafbauer"
     fullname: >-
       Kathrin Schafbauer
     bio: >-
-      Passionate photographer, cyclist, life lover, traveller. 🚴🏽‍♀️ @bikeonscott // @maap.cc 💛📸 @nikondach Based in Bavaria, Germany
+      Passionate photographer, cyclist, life lover, traveller. 🚴🏽‍♀️ @bikeonscott // @maap.cc // @oakleybike 💛📸 @nikondach Based in Bavaria, Germany
     location: "Germany"
-    followers: 25756
-    engagement: 809
-    commentsToLikes: 0.017197
+    followers: 25949
+    engagement: 890
+    commentsToLikes: 0.021844
     id: ck5zivfyngg400i14pka19he9
     verified: false
-    hashtags: "#scottaddictrc, #outdoor, #velo, #scottaddict"
-  - username: "nimrakhalid15"
+    hashtags: "#dolomiti, #alpecin, #mallorca, #officeforthenextweeks"
+  - username: "jap_cycling"
     fullname: >-
-      Nimragram
+      Patrick Jäger
     bio: >-
-      Hijab Fashionist23’ 🇶🇦🇵🇰 Lifestyle Influencer 🍁 Dm for PR/Paid promo/Collab/food tasting. Cyclist, dreamer and DPT✨ Wanna goto Bavaria by Scoty🛵
+      Former Pro Cyclist Austria 🇦🇹 Ambassador for those amazing brands! 🚴‍♂️ ➡️ @biehlercycling 🚲 ➡️ @metzlerwheels 🕶️ ➡️ @proptics ⛑️ ➡️ @met_helmets
     location: "Germany"
-    followers: 135426
-    engagement: 397
-    commentsToLikes: 0.052670
-    id: ck14gsq416u4e0i19jpr1ek9c
+    followers: 14211
+    engagement: 334
+    commentsToLikes: 0.009194
+    id: ck5chkogaqyi30i11cm305wu8
     verified: false
-    hashtags: "#ootd, #modestfashion, #instagram, #modest"
-  - username: "mango.mamaa"
-    fullname: >-
-      Nadja Tröger⚡️
-    bio: >-
-      📍 SW, Germany 🌱 Plant-based cyclist 🧡 Strava: Nadja Tröger @biehlercycling | @tribikecoachkagie
-    location: "Germany"
-    followers: 18175
-    engagement: 503
-    commentsToLikes: 0.040000
-    id: ck0u609o90j6y0i1926ba9fd2
-    verified: false
-    hashtags: "#redaxs, #roadslikethese, #mtb, #zipp302"
+    hashtags: "#weekend, #instapic, #girlsonbike, #sunday"
 ---

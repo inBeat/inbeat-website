@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers TikTok Influencers In United States In 2022
+title: Top 10 Rappers TikTok Influencers In United States In 2023
 description: >-
-  Find top rappers TikTok influencers in United States in 2022. Most popular hashtags: #duet #greenscreen #jesus.
+  Find top rappers TikTok influencers in United States in 2023. Most popular hashtags: #duet #rap #fyp.
 platform: TikTok
-hits: 569
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 569 TikTok influencers like this in United States for you to contact.
+hits: 593
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 593 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "youngmercfire"
     fullname: >-
       Young Merc
     bio: >-
-      -Young Merc Dope rapper and CEO of "ALL THE SMOKE!!💨" ☝🏾💥📲 #FlameOn🔥🔛
+      -Young Merc Dope rapper and CEO of "ALL THE SMOKE!!💨" ☝🏾💢📲 #FlameOn🔥🔛
     location: "United States"
-    followers: 81700
-    engagement: 2426
-    commentsToLikes: 0.068886
+    followers: 121500
+    engagement: 2455
+    commentsToLikes: 0.087492
     id: ckck2za28mmus0j23bntbbczd
     verified: false
-    hashtags: "#iwantallthesmoke, #goofyoftheday, #proudboys, #ceoofallthesmoke"
-  - username: "realkennethking"
+    hashtags: "#stitch"
+  - username: "imkingkenny"
     fullname: >-
-      Kenneth King (kenetic)
+      Kenny King
     bio: >-
-      Yeshua follower/Minister Rapper & Producer Drummer Stream Music & Buy Merch ⬇️
+      #Michigan Rapper Producer Drummer Gamer Music & Merch ⬇️
     location: "United States"
-    followers: 29200
-    engagement: 2160
-    commentsToLikes: 0.066753
+    followers: 28800
+    engagement: 1871
+    commentsToLikes: 0.092450
     id: ck9nt8kwhh7kx0j78o8327pv0
     verified: false
-    hashtags: "#kennethking, #christiantiktok, #chrisriantiktok, #worshiprapremix"
-  - username: "tylerwatermelon"
+    hashtags: "#kennethking, #worship, #drummer, #spidermanmilesmoralesps4"
+  - username: "sarahmaddack"
     fullname: >-
-      Shadowbanned cuh
+      SarahMaddack
     bio: >-
-      Comethazine best rapper 📍Illinois 15yr
+      the silliest rapper you know biz/bday raps⬇️ sarah@sarahmaddack.com Nashville TN
     location: "United States"
-    followers: 44500
-    engagement: 2043
-    commentsToLikes: 0.060153
-    id: ckck42v41obba0j23advylmh9
+    followers: 1100000
+    engagement: 1483
+    commentsToLikes: 0.032166
+    id: ck9kb9w0okaxm0j78rigij2f1
+    verified: true
+    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
+  - username: "kiwifro0ot"
+    fullname: >-
+      keke
+    bio: >-
+      BLM RAPPER any prns cashapp: $kiwifro0ot
+    location: "United States"
+    followers: 52100
+    engagement: 2308
+    commentsToLikes: 0.038926
+    id: ckav9n5cth2bq0j23l6utavce
     verified: false
-    hashtags: "#greenscreen, #lilhuddyfan, #duet"
+    hashtags: "#multistan, #rap, #greenscreen, #upcomingartist"
   - username: "_kyngvirgo_"
     fullname: >-
       Kyng Virgo
     bio: >-
       18 Rapper 5k? CashApp: 209Virgo ♍️SoundCloud: “Kyng Virgo”♍️
     location: "United States"
-    followers: 4055
-    engagement: 2121
-    commentsToLikes: 0.069716
+    followers: 4035
+    engagement: 2094
+    commentsToLikes: 0.062564
     id: ckbqwclk4gktm0j234ya0ybx1
     verified: false
-    hashtags: "#duet, #xxxtentacion, #stitch, #greenscreenvideo"
-  - username: "jlaw"
+    hashtags: "#xxxtentacion, #greenscreenvideo, #duet, #stitch"
+  - username: "madlines"
     fullname: >-
-      JLaw Austin ✪
+      Maddy Clifford
     bio: >-
-      This page is home to many personalities Christian Rapper ✝️ Power Ranger Fan
+      Writer, Rapper, Educator! Wellness writing ✍🏽 for revolutionaries!
     location: "United States"
-    followers: 417600
-    engagement: 2599
-    commentsToLikes: 0.078306
-    id: ck8qmxss9s4qd0j78x4xb2e2k
+    followers: 17400
+    engagement: 1962
+    commentsToLikes: 0.048194
+    id: ckb1bd3eszy1v0j23oagyxqrs
     verified: false
-    hashtags: "#christianrap, #jesus, #christian, #fyp"
-  - username: "trpkaylotto"
+    hashtags: "#wellness, #writing, #blackhistorymonth, #duet"
+  - username: "officialjrjones"
     fullname: >-
-      Trp Kaylotto
+      JR Jones
     bio: >-
-      Rapper🎤 CEO OF LG4L 💛 Trust None But The Man Above🙏🏽 WELCOME🥰 100k ?
+      Just a rapper that’s not just another rapper.
     location: "United States"
-    followers: 52500
-    engagement: 1976
-    commentsToLikes: 0.088847
-    id: ckdckyc15n1e50j23h1vmhyea
+    followers: 3552
+    engagement: 1507
+    commentsToLikes: 0.371455
+    id: ckbady27h67cz0j2338sxat0o
     verified: false
-    hashtags: "#fyp, #greenscreensticker, #makemeviral, #greenscreen"
-  - username: "mcbreeezy84"
+    hashtags: "#fyp, #makeblackhistory, #duet, #coversong"
+  - username: "skykatz"
     fullname: >-
-      4pf Mar 💵
+      skykatz
     bio: >-
-      Comedian, dancer, rapper, trapper Sc: mcbreeezy84 That/ pretty mf man
+      actress/rapper look at you looking at me ;) be kind 🤍
     location: "United States"
-    followers: 23000
-    engagement: 1903
-    commentsToLikes: 0.123458
-    id: ckd17b2deoi9w0j23f9754p3k
-    verified: false
-    hashtags: "#neonshadow, #fanedit, #iaintneverseentwoprettybestfriends, #unwrapthedeals"
-  - username: "beyondhymn"
+    followers: 7300000
+    engagement: 2080
+    commentsToLikes: 0.009100
+    id: ck83x2a0onnm80j78i4u28gu4
+    verified: true
+    hashtags: "#casetify, #ad"
+  - username: "beyondhymn_"
     fullname: >-
       Beyond Hymn
     bio: >-
       Christian Rapper Peep the new single “Amen”🔥✝️👇
     location: "United States"
-    followers: 106000
-    engagement: 1583
-    commentsToLikes: 0.081589
+    followers: 104300
+    engagement: 1524
+    commentsToLikes: 0.075522
     id: ck9jy0ewv30rc0j78fr4ycghq
     verified: false
-    hashtags: "#beyondhymn, #duet, #jesus, #christianrap"
-  - username: "comikbook_cam"
+    hashtags: "#beyondhymn, #amen, #christianrap, #godbless"
+  - username: "kalikoop"
     fullname: >-
-      comikbook_cam
+      SlyKooper
     bio: >-
-      Rapper/Trumpet/Artist 🍄 Psychedelic Vibes 🍄
+      Love Yourself, then Me❤️ Rapper/Skater/Entrepreneur🏆 46K in the KooperGang🖤
     location: "United States"
-    followers: 2943
-    engagement: 1357
-    commentsToLikes: 0.086689
-    id: ckb10jr43p3c70j239i5y591q
+    followers: 46200
+    engagement: 2204
+    commentsToLikes: 0.142190
+    id: ckcvjpvesx7ha0j23x5jehapl
     verified: false
-    hashtags: "#vegetarian, #happyhalloween, #halloween, #greenscreen"
-  - username: "skykatz"
-    fullname: >-
-      skykatz
-    bio: >-
-      rapper & tess on disney’s ravens home ッ🖤🦋 “back at it” out now!!
-    location: "United States"
-    followers: 6800000
-    engagement: 2064
-    commentsToLikes: 0.008396
-    id: ck83x2a0onnm80j78i4u28gu4
-    verified: true
-    hashtags: "#blooper"
+    hashtags: "#foryou, #fyp, #skateboarding, #duet"
 ---

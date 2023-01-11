@@ -1,33 +1,33 @@
 ---
-title: Top 10 TikTok Influencers In 2022
+title: Top 10 TikTok Influencers In 2023
 description: >-
-  Find top TikTok influencers in 2022. Most popular hashtags: #fyp #foryoupage #dance #foryou.
+  Find top TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
-hits: 245275
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 245275 TikTok influencers like this for you to contact.
+hits: 238691
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 238691 TikTok influencers like this for you to work with.
 profiles:
   - username: "jakechamseddine"
     fullname: >-
       Jake Chamseddine 
     bio: >-
-      Usually at a concert, always with a camera What’s up nerds
+      Photographer/twitch partner 35k? ⬇️Come say hey nerds⬇️
     location: "United States"
-    followers: 30900
-    engagement: 2417
-    commentsToLikes: 0.031167
+    followers: 30200
+    engagement: 1859
+    commentsToLikes: 0.051004
     id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: "#travel, #photo, #xyzbca, #photography"
+    hashtags: "#patd, #photo, #photography, #fyp"
   - username: "davidbras03"
     fullname: >-
       👑 David Brás 👑
     bio: >-
       hi stalker 👋🏻 ig: davidjbras Work: info.davidbras@gmail.com
     location: "Portugal"
-    followers: 249000
-    engagement: 1651
-    commentsToLikes: 0.016604
+    followers: 306500
+    engagement: 1654
+    commentsToLikes: 0.008444
     id: ck8sfm1njoqjp0j78vdrj4qlp
     verified: false
     hashtags: "#foryoupage, #fyp, #davidbras, #trend"
@@ -35,98 +35,98 @@ profiles:
     fullname: >-
       Rob Rast
     bio: >-
-      Wild and Free in San Diego Insta & YT here 👆
+      Posting a new joke every day for 30 days Insta & YT here 👆
     location: "United States"
-    followers: 20200
-    engagement: 681
-    commentsToLikes: 0.027534
+    followers: 20700
+    engagement: 708
+    commentsToLikes: 0.040127
     id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
+    hashtags: "#joke, #skate, #jokes, #standup"
   - username: "loulou.starou"
     fullname: >-
       loulou starou
     bio: >-
-      Miss International NA 2020👑 📩Collab: mariionnpro@gmail.com Insta: louloustarou
+      Road to Miss International France 2021 👑 Insta: louloustarou
     location: "France"
-    followers: 80800
-    engagement: 1865
-    commentsToLikes: 0.010103
+    followers: 78400
+    engagement: 1191
+    commentsToLikes: 0.013633
     id: ckb9lyk9qes890j23ohpyd2x5
     verified: false
-    hashtags: "#foryou, #fyp, #tombola, #trend"
-  - username: "serenastravel"
-    fullname: >-
-      @serenastravel
-    bio: >-
-      Come say hi 🤍
-    location: "Switzerland"
-    followers: 7310
-    engagement: 897
-    commentsToLikes: 0.021558
-    id: ckb9t8b3hr5530j23vjlbwy23
-    verified: false
-    hashtags: "#apulia, #summerlove, #postcovidtravel, #puglia"
+    hashtags: "#storytime, #louloustarou, #foryou, #voyage"
   - username: "annasulc"
     fullname: >-
       Anna Šulcová
     bio: >-
-      Still just a tiktok. Nothing serious. TOHLE JE MŮJ JEDINÝ ÚČET
+      Still just a tiktok. Nothing serious.
     location: "Czechia"
-    followers: 552800
-    engagement: 1606
-    commentsToLikes: 0.007344
+    followers: 667500
+    engagement: 1672
+    commentsToLikes: 0.011405
     id: ckbfci1qq5c860j2345gsp2up
     verified: true
-    hashtags: "#fyp, #fy, #duet, #closefriends"
+    hashtags: "#croatia, #tiktoktravel, #chorvatsko, #traveltiktok"
   - username: "megumihasebeperdomo"
     fullname: >-
       Megumi Hasebe
     bio: >-
-      🧡Lili en Noobees-Nickelodeon🧡 Actriz🎬Cantante🎤Bailarina💃
+      🧡Lili en Noobees-Nickelodeon🧡 Actriz🎬Cantante🎤Bailarina💃 1M👆🏻✨?
     location: "Colombia"
-    followers: 583300
-    engagement: 1582
-    commentsToLikes: 0.007094
+    followers: 914900
+    engagement: 1525
+    commentsToLikes: 0.008527
     id: ckbkqtv5bl7780j234op0whpy
     verified: false
-    hashtags: "#cartagena, #trend, #comedy, #fyp"
+    hashtags: "#colombia, #couplegoals, #funny, #humor"
   - username: "amberscloset33"
     fullname: >-
       AmbersCloset33
     bio: >-
       Just a weirdo from YouTube & IG @AmbersCloset
     location: "United States"
-    followers: 8505
-    engagement: 1246
-    commentsToLikes: 0.030018
+    followers: 256400
+    engagement: 1182
+    commentsToLikes: 0.013664
     id: ckbfens788w850j23trusgv3z
     verified: false
-    hashtags: "#moodflip, #lesbiantiktok, #vote, #inspirational"
+    hashtags: "#lesbian, #masclesbians, #pride2021, #foryoupage"
   - username: "argiisitolozt"
     fullname: >-
       Argiisito LOzt
     bio: >-
-      Simplemente un loco más en la vida, el cual es muy feliz con lo que tiene✨.
+      Nos seguimos en Instagram ✌🏻 ARGII LOZT ✌🏻, la vida se vive día con día🌞.
     location: "Mexico"
-    followers: 5772
-    engagement: 1128
-    commentsToLikes: 0.053646
+    followers: 7145
+    engagement: 1613
+    commentsToLikes: 0.015894
     id: ckbkzpvu1w6th0j23w4a3pjqb
     verified: false
-    hashtags: "#octubre2020, #dios, #villahermosa, #apoyo"
+    hashtags: "#seriegay, #hello, #ty, #lavenenoserie"
   - username: "karokozak"
     fullname: >-
       Karo Kozak
     bio: >-
-      Hiiii Actress • Dancer • Singer 📍LA PL | DK IG: @karokozak
+      Actress and Dancer
     location: "Denmark"
-    followers: 21700
-    engagement: 796
-    commentsToLikes: 0.044505
+    followers: 22200
+    engagement: 636
+    commentsToLikes: 0.054051
     id: ckc7v2a4yyqi30j23ukdgkfu0
     verified: true
-    hashtags: "#family, #xyzbca, #foryoupage, #school"
+    hashtags: "#school, #relatable, #dancer, #fyp"
+  - username: "marcosmonteirr"
+    fullname: >-
+      Marcos
+    bio: >-
+      neste perfil eu me auto saboto
+    location: "Brazil"
+    followers: 11100
+    engagement: 1383
+    commentsToLikes: 0.072968
+    id: ckd0pt9ddhvdh0j23u57symuk
+    verified: false
+    hashtags: "#viral, #foryou, #foryoupage, #humor"
 countries:
   - name: Algeria
     link: /tiktok/algeria

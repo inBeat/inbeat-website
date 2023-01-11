@@ -1,130 +1,118 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Ukraine In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Ukraine in 2022. Most popular hashtags: #tattoo #tattooartist #tattooart.
+  Find top tattoo-artists Instagram influencers in Ukraine in 2023. Most popular hashtags: #tattooartist #tattoo #tattoos #tattoodesign.
 platform: Instagram
-hits: 33
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 33 Instagram influencers like this in Ukraine for you to connect with.
+hits: 9
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 9 Instagram influencers like this in Ukraine for you to work with.
 profiles:
   - username: "dmitriy.tkach"
     fullname: >-
       Dmitriy Tkach
     bio: >-
-      Tattoo Artist Ukraine, Kyiv BOOKINGS OPEN October-November
+      Tattoo Artist Ukraine, Kyiv BOOKINGS CLOSED
     location: "Ukraine"
-    followers: 173471
-    engagement: 535
-    commentsToLikes: 0.008099
+    followers: 181781
+    engagement: 524
+    commentsToLikes: 0.006700
     id: ck6tk4wps40h20j71b80wbwe6
     verified: false
-    hashtags: "#blacktattoo, #linework, #tattooart, #ink"
+    hashtags: "#blackink, #darkartists, #tattooideas, #blacktattoo"
   - username: "lilinetkor"
     fullname: >-
       Roman Kor       Tattoo Lviv
     bio: >-
       🎨 тату майстер/tattoo artist Працюю в студії @hard_art_tattoo Telegram/Viber +380637486327 Особиста сторінка @life_lilinetkor Хобі @dirty_artboss
     location: "Ukraine"
-    followers: 21181
-    engagement: 357
-    commentsToLikes: 0.018745
+    followers: 20800
+    engagement: 438
+    commentsToLikes: 0.018827
     id: ck14lq2jevx4t0i19pm98ff60
     verified: false
-    hashtags: "#hardarttattoo, #tattooshop, #tattooart, #tats"
-  - username: "lenakshishtan"
-    fullname: >-
-      kshishtovskaya.
-    bio: >-
-      Ink ninja, tattoo-artist, cat lover. @kshishtan
-    location: "Ukraine"
-    followers: 9200
-    engagement: 618
-    commentsToLikes: 0.012912
-    id: ckap6duv7fh930i78a98k05cd
-    verified: false
     hashtags: ""
-  - username: "kharlamov_d"
+  - username: "lebedeva_netli23"
     fullname: >-
-      Kharlamov Dima
+      😈Natalia Lebedeva😈
     bio: >-
-      •Founder - @under.local.bar •Tattoo artist ТРАНГРЕСИВНЫЙ ТВОРЧЕСКИЙ ВСПЛЕСК ТРЕВОГИ И АБСУРДА. •Связь - Direct📩 YOUTUBE🎬CHANNEL 🎥⬇️ Kharkiv
+      🦢Enterprise Director👩🏻‍💻Boxer Muay Thai🤛🏻🤜🏻Masons 🧠 Dancing 💃🏻 Purple💜in any form😈 Drift 🏎
     location: "Ukraine"
-    followers: 77399
-    engagement: 275
-    commentsToLikes: 0.011784
-    id: ck6ubpvsmb03d0j71h9269l3w
+    followers: 25453
+    engagement: 143
+    commentsToLikes: 0.019823
+    id: ck6ubpnteaysx0j71vlzfzq97
     verified: false
-    hashtags: "#jagermeisterua, #tattoo, #tattoosketch, #tatooculture"
-  - username: "maria_shevchenkko"
+    hashtags: "#kievblog, #tattooartist, #tattoomodel, #purple"
+  - username: "trn_tattoo"
     fullname: >-
-      Maria Shevchenko
+      Andrew Ternoviy
     bio: >-
-      @linea12models @power_modelsmanagement @karinmodels_official •Tattoo Artist •Model Cooperation - direct ❗💌 Мы создаём своё, мы создаём себя!✌🌈
+      ᛟ Authentic designs for modern Vikings ᛉ Freehand knotwork ᛋ Inspired by pagan art and northern tradition Based in Eastern Europe, Kyiv🇺🇦
     location: "Ukraine"
-    followers: 30195
-    engagement: 289
-    commentsToLikes: 0.006857
-    id: ck5zr8lv2w3zh0i14zyejmp5u
+    followers: 9508
+    engagement: 457
+    commentsToLikes: 0.011959
+    id: ck5zqxr14vi6h0i146w66r1c4
     verified: false
-    hashtags: "#35mm"
-  - username: "vladiliu"
+    hashtags: "#knotwork, #tattooworkers, #norsetattoo, #tattooist"
+  - username: "designxaz"
     fullname: >-
-      Vlada Liubchenko
+      Дима Хазипов Tattoo
     bio: >-
-      Tattoo artist 🇺🇦 Tattooing, PMU Cherkassy, Kyiv
+      Сказки песни о котах @blackxcatxtattoo
     location: "Ukraine"
-    followers: 54020
-    engagement: 192
-    commentsToLikes: 0.006669
-    id: ck6u412pq12fy0j71vzqsb5kl
+    followers: 6893
+    engagement: 884
+    commentsToLikes: 0.008871
+    id: ck6uhb2er82y50j71yhvwodh7
     verified: false
-    hashtags: "#rest, #fineline, #onelinetattoo, #kyivtattoo"
-  - username: "anton.kresan"
+    hashtags: "#tattooartist, #traditionaltattoo, #traditionalartist, #ghosttattoo"
+  - username: "brokenbbaby"
     fullname: >-
-      𝕬𝖓𝖙𝖔𝖓 𝕶𝖗𝖊𝖘𝖆𝖓 𝕿𝖆𝖙𝖙𝖔𝖔𝖎𝖓𝖌
+      ♡  𝙽 𝚊 𝚝 𝚊 𝚕 𝚒 ♡
     bio: >-
-      Tattoo artist Kyiv, Ukraine @euthanasia_sport @tsaptsarap.official
+      ▫️𝚋𝚛𝚘𝚔𝚎𝚗 𝚋𝚊𝚋𝚢 ｡*♡✧*。 ▫️𝚊𝚛𝚝𝚒𝚜𝚝, 𝚝𝚊𝚝𝚝𝚘𝚘𝚎𝚛 ▫️𝚟𝚎𝚐𝚎𝚝𝚊𝚛𝚒𝚊𝚗 ▫️𝚊𝚕𝚕 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚝𝚊𝚛𝚜 𝚑𝚊𝚟𝚎 𝚊 𝚛𝚎𝚊𝚜𝚘𝚗 ▫️𝚔𝚢𝚒𝚟 ▫️𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚜𝚘𝚖𝚎 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌 ▫️𝚌𝚘𝚕𝚕𝚊𝚋 @brokenbbaby.pr
     location: "Ukraine"
-    followers: 9041
-    engagement: 408
-    commentsToLikes: 0.029391
-    id: ck55mbzib3mkd0i11davw7crj
+    followers: 7765
+    engagement: 861
+    commentsToLikes: 0.020464
+    id: ck134tzrsy6410i19p9m69jdk
     verified: false
-    hashtags: "#euthanasiacrew, #blackworktattoo, #blackwork, #iblackwork"
-  - username: "tetimalik.tattoo"
+    hashtags: "#drmartens, #tattoedgirl, #grungegirl, #aesthetic"
+  - username: "art_mcalister"
     fullname: >-
-      Teti Malik
+      Artem Shiyan
     bio: >-
-      Tattoo artist 🐰 #abstracteti 🖤 @blackpencil.art✍️
+      Ｓａｌｅ ｏｒｄｅｒ ＤＭ 🌐 Global shipping: DHL, FedEx 💸 Prepayment via Western Union ▫️Ukrainian artist, ᴏᴅᴇꜱꜱᴀ🇺🇦 ▫️ʀᴇᴀʟɪꜱᴛɪᴄ ᴘᴏʀᴛʀᴀɪᴛꜱ ɢʀᴀᴘʜɪᴛᴇ ᴀɴᴅ ᴄʜᴀʀᴄᴏᴀʟ
     location: "Ukraine"
-    followers: 20910
-    engagement: 290
-    commentsToLikes: 0.030464
-    id: ckaoucgz8zowd0i789lxto15y
+    followers: 16237
+    engagement: 1343
+    commentsToLikes: 0.034215
+    id: ck0tv2r6v9oqj0i199v5xo9st
     verified: false
-    hashtags: "#tattooart, #tattooprint, #avantgardetattoo, #tattooartistmag"
-  - username: "tema_arty"
+    hashtags: "#arts, #drawings, #drawingselfie, #drawingisfun"
+  - username: "sharon.zarfati"
     fullname: >-
-      Artem Tsytsylin
+      S H A R O N Z A R F A T I
     bio: >-
-      Tattoo artist from Kharkov | Ukraine 🇺🇦 @dr.gritz_tattoo Pro team 👀YouTube
+      Life in a perfect filter. Enjoy the ride. Head of @DIOR Retail and Press IL Tel-Aviv ☀️🧿 with my boy @davidavigad
     location: "Ukraine"
-    followers: 45674
-    engagement: 236
-    commentsToLikes: 0.035112
-    id: ckap1up24w89u0i781oc8g3hc
+    followers: 27746
+    engagement: 478
+    commentsToLikes: 0.013747
+    id: ck5btsi0cgiri0i116q7104a5
     verified: false
-    hashtags: "#kharkivtattoofest, #tattoo, #tattoorealistic, #oiloncanvas"
-  - username: "suvorov_alexandr_tattoo"
+    hashtags: "#luxurylife, #gymlife, #guy, #beard"
+  - username: "beyon.wren.moor"
     fullname: >-
-      Alexander Suvorov
+      Ｆｉｎｅ Ａｒｔ ＋ Ｈａｎｄｐｏｋｅｄ Ｔａｔｔｏｏ
     bio: >-
-      Tattoo Artist✍🏻 Working Worldwide🌍 Booking Time 📲 Direct Now, Based in 🇺🇦Kiev
+      ᓂᑭᑯᓇᑯᐢ Nehiyaw/Ukrainian ❥ Iskwêhkân ❥ ⚧she⚧ ~tattooing hiatus~ beyonwrenmoor@gmail.com for inquiries
     location: "Ukraine"
-    followers: 165541
-    engagement: 140
-    commentsToLikes: 0.009869
-    id: ck0tvsb1rcnpe0i195pqbrjsn
+    followers: 25293
+    engagement: 565
+    commentsToLikes: 0.014820
+    id: ck6u9zdpg0khp0j71b8e16eev
     verified: false
-    hashtags: "#thebesttattooartists, #art, #ink, #suvorov"
+    hashtags: "#printmaking, #shutdowncanada, #landback, #ignorantland"
 ---

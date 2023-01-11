@@ -1,130 +1,130 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Ukraine In 2022
+title: Top 10 Illustrators Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top illustrators Instagram influencers in Ukraine in 2022. Most popular hashtags: #illustration #illustrator #characterdesign #drawing.
+  Find top illustrators Instagram influencers in Ukraine in 2023. Most popular hashtags: #illustration #art #illustrator #characterdesign.
 platform: Instagram
-hits: 23
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 23 Instagram influencers like this in Ukraine for you to work with.
+hits: 14
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 14 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
-  - username: "brodberick"
+  - username: "anni_tett"
     fullname: >-
-      Caroline Brodberick
+      Tania Yakunova
     bio: >-
-      📍 sculptor / illustrator / photo & video maker 📩 cooperation: nyancaroline@gmail.com
+      🇺🇦 illustrator, artist and ceramic enthusiast 🏆 WIA 2022 and Red Dot Winner ❤️ Domestika course👇 🤓 E-mail for collaboration 📮 yakunova.t@gmail.com
     location: "Ukraine"
-    followers: 255148
-    engagement: 973
-    commentsToLikes: 0.026581
-    id: ckaoy2k0sfsiy0i78vpcfxv1z
+    followers: 49101
+    engagement: 529
+    commentsToLikes: 0.013505
+    id: ckaotc3ysv9i40i78j4dt2lav
     verified: false
-    hashtags: "#diveintounhiddenimagination, #90svintage, #sculpture, #sunaesthetic"
+    hashtags: "#webillustration, #springillustration, #greetingcarddesign, #summerillustration"
+  - username: "kat_branch"
+    fullname: >-
+      Katerina Branchukova
+    bio: >-
+      ILLUSTRATOR, seal and Selkie art 🦭✨ ᑌKᖇᗩIᑎE 🇺🇦 💌katyabranch@gmail.com
+    location: "Ukraine"
+    followers: 40547
+    engagement: 324
+    commentsToLikes: 0.031895
+    id: ck0w2u2pyq6o30i19mp2ns61s
+    verified: false
+    hashtags: "#gift, #characterdesign, #cartoon, #autumn"
   - username: "grandpastasey"
     fullname: >-
       𝚊𝚗𝚊𝚜𝚝𝚊𝚜𝚒𝚊
     bio: >-
       Fashion artist | illustrator ✉️anaperetiatko29@gmail.com 📨Commissions:open 📱Tik Tok- Grandpastasey 📍Ukraine 🇺🇦
     location: "Ukraine"
-    followers: 10209
-    engagement: 1234
-    commentsToLikes: 0.022777
+    followers: 12344
+    engagement: 844
+    commentsToLikes: 0.020592
     id: ck9wf8r37nptf0j788c3qnxae
     verified: false
     hashtags: ""
-  - username: "kat_branch"
-    fullname: >-
-      Katerina Branchukova
-    bio: >-
-      ILLUSTRATOR ᑌKᖇᗩIᑎE 🇺🇦 💌katyabranch@gmail.com
-    location: "Ukraine"
-    followers: 42298
-    engagement: 509
-    commentsToLikes: 0.028275
-    id: ck0w2u2pyq6o30i19mp2ns61s
-    verified: false
-    hashtags: "#cartoon, #illustrator, #best, #gift"
-  - username: "lilys_wonders"
-    fullname: >-
-      Lily
-    bio: >-
-      🍁Illustrator & character designer ✨freelancer Commissions: closed 📮lily.konyukh@gmail.com
-    location: "Ukraine"
-    followers: 84510
-    engagement: 607
-    commentsToLikes: 0.017680
-    id: ck0w2iox8ok800i19ijdtpxwp
-    verified: false
-    hashtags: "#illustrationart, #illustrationnow, #illustrationgram, #illustrationoftheday"
-  - username: "dukhovnoe_litso"
-    fullname: >-
-      Maria Oz
-    bio: >-
-      Visual artist, animation director, illustrator, content creator 🎬 ✉️ Contact me ✉️ dukhovnoe.litso@gmail.com
-    location: "Ukraine"
-    followers: 135909
-    engagement: 270
-    commentsToLikes: 0.011290
-    id: ck5zxhkuu80tt0i14cufsav5i
-    verified: true
-    hashtags: "#honorview30pro"
   - username: "lanaillustrations"
     fullname: >-
-      SVITLANA ❣️ ILLUSTRATOR
+      LANA 💜 ILLUSTRATOR
     bio: >-
-      • Freelance illustrator • for inquiries: lanasillustrations@gmail.com
+      • Freelance illustrator • represented by @nerdproductionslondon • for inquiries hit the email button 💌
     location: "Ukraine"
-    followers: 8256
-    engagement: 1034
-    commentsToLikes: 0.028627
+    followers: 9588
+    engagement: 882
+    commentsToLikes: 0.030982
     id: ck134d4wnvv6v0i19kqmbxnb6
     verified: false
-    hashtags: "#design, #dawn, #digitalart, #weloveillustration"
+    hashtags: "#art, #design, #graphicdesignblg, #designer"
+  - username: "sadova_art"
+    fullname: >-
+      IRYNA SADOVA®
+    bio: >-
+      ☾ Children’s book ILLUSTRATOR ☾ DIGITAL artist and OIL painter ☾ Writer You can contact me DIRECT or by email: sadova.art@gmail.com 📍Kyiv, Ukraine
+    location: "Ukraine"
+    followers: 11747
+    engagement: 191
+    commentsToLikes: 0.034619
+    id: ck0vuvwpzmej40i192rivv97v
+    verified: false
+    hashtags: "#sadovaart, #bookillustrator, #childrenbookillustration, #digitalartist"
+  - username: "marthaoborska"
+    fullname: >-
+      Martha Oborska Rybalo
+    bio: >-
+      ♾❤️ Ukrainian illustrator 🤍aesthetic blogger Work @illustratedbymartha Life @oceangirlintown Open to business integrations📩_marthaoborska@gmail.com
+    location: "Ukraine"
+    followers: 20315
+    engagement: 262
+    commentsToLikes: 0.045569
+    id: ck0w14uevhkgf0i19946zbnxk
+    verified: false
+    hashtags: "#beautyillustration, #fentybeauty, #glossbombcream, #jewelry"
   - username: "nataly_owl"
     fullname: >-
       Natalia Shaloshvili
     bio: >-
-      Artist of cute animals Children's books illustrator and author Represented by @goodillo.kids Contact me: natalia.shaloshvili@gmail.com
+      Artist, illustrator, author of children’s picture books Animals.cafe 🐱🐻🦊 Shop / original art / prints
     location: "Ukraine"
-    followers: 37230
-    engagement: 1088
-    commentsToLikes: 0.016489
+    followers: 76904
+    engagement: 641
+    commentsToLikes: 0.011637
     id: ck8t5hlt1a6g30j78w17u23is
     verified: false
-    hashtags: "#artcollection, #acryliconcanvas, #childrensbook, #picturebookmaker"
-  - username: "sadova_art"
+    hashtags: "#picturebookauthor, #artcollector, #catillustration, #catartist"
+  - username: "nastya_zakko"
     fullname: >-
-      IRYNA SADOVA® ☾ ILLUSTRATOR
+      Nastya Pilipenko 💫
     bio: >-
-      ☾ BOOK illustrator and storyteller ☾ DIGITAL and OIL artist ☾ For work and collaboration ⇨ direct or by email: sadova.art@gmail.com 📍Kiev, Ukraine
+      This user loves the night sky 🌃 🌌🔭 Watercolor & Acrylic Artist 🎨🖌 Wall painting 🖼 Ukraine 🇺🇦
     location: "Ukraine"
-    followers: 12886
-    engagement: 374
-    commentsToLikes: 0.025258
-    id: ck0vuvwpzmej40i192rivv97v
+    followers: 5284
+    engagement: 755
+    commentsToLikes: 0.064495
+    id: ckapbv03i1dlk0i7866m2uyj6
     verified: false
-    hashtags: "#picturebook, #kidlit, #kidlitart, #children"
-  - username: "ooh_lily"
+    hashtags: "#watercolorart, #art, #illustrationartist, #gallery"
+  - username: "kirp2016"
     fullname: >-
-      𝙻𝚒𝚕𝚢 ♡
+      Infographic Paradise Design
     bio: >-
-      ◦ Illustrator: #by_oohlily ◦ content creator: @ooh.content ♡ створю найкращі акварельні дизайни для вас ♡ надихну на творчість та затишок
+      Check out my channel on YouTube:
     location: "Ukraine"
-    followers: 25540
-    engagement: 623
-    commentsToLikes: 0.012316
-    id: ck6tqd2bjqr6s0j71mu7lh1hx
+    followers: 21035
+    engagement: 239
+    commentsToLikes: 0.018842
+    id: ck6u53q717f5i0j71xqvma7rj
     verified: false
-    hashtags: "#by, #oohlily"
-  - username: "anta_rf"
+    hashtags: "#2d3d, #artwork, #digitalart, #graphicdesigner"
+  - username: "art_mcalister"
     fullname: >-
-      Artist illustrator
+      Artem Shiyan
     bio: >-
-      💛💙Ukrainian artist illustrator @anta.frirean I just like coming here to sketch people in crisis Weimar🇩🇪 Bauhaus|Visual Design id pic by @pervotsve.t
+      Ｓａｌｅ ｏｒｄｅｒ ＤＭ 🌐 Global shipping: DHL, FedEx 💸 Prepayment via Western Union ▫️Ukrainian artist, ᴏᴅᴇꜱꜱᴀ🇺🇦 ▫️ʀᴇᴀʟɪꜱᴛɪᴄ ᴘᴏʀᴛʀᴀɪᴛꜱ ɢʀᴀᴘʜɪᴛᴇ ᴀɴᴅ ᴄʜᴀʀᴄᴏᴀʟ
     location: "Ukraine"
-    followers: 31342
-    engagement: 677
-    commentsToLikes: 0.006085
-    id: ck5zj0r4ogqb30i14fdqd1b3w
+    followers: 16237
+    engagement: 1343
+    commentsToLikes: 0.034215
+    id: ck0tv2r6v9oqj0i199v5xo9st
     verified: false
-    hashtags: "#sketchbook, #drawing, #art, #portrait"
+    hashtags: "#arts, #drawings, #drawingselfie, #drawingisfun"
 ---

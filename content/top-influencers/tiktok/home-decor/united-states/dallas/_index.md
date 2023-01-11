@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Dallas In 2022
+title: Top 10 Home Decor TikTok Influencers In Dallas In 2023
 description: >-
-  Find top home decor TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #homedecor #foryou #dallas.
+  Find top home decor TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #homedecor #hometour #dallas.
 platform: TikTok
-hits: 14
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database holds 14 TikTok influencers like this in Dallas, United States for you to connect with.
+hits: 17
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 17 TikTok influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "katelynwine"
+  - username: "lisaguzmangroup"
     fullname: >-
-      Katelyn
+      Lisa Marie Guzman
     bio: >-
-      Amateur DIY-er Follow me on Instagram @katelynwine
+      Add me on IG ⬆️ TX Real Estate Sell | Buy | Invest | eXp Realty 🏠📲
     location: "United States"
-    followers: 5905
-    engagement: 627
-    commentsToLikes: 0.018676
-    id: ckb9brtflyasb0j23fmbsvuva
+    followers: 25400
+    engagement: 898
+    commentsToLikes: 0.029894
+    id: ckbfdo61w74rh0j237hdl905g
     verified: false
-    hashtags: "#diy, #homeimprovement, #foryou, #doityourself"
-  - username: "antxxivet"
+    hashtags: "#texas, #sanantonio, #realtor, #newhome"
+  - username: "aloprofile"
     fullname: >-
-      I’ve
+      aloprofile
     bio: >-
-      
+      Am I doing this right?! Life + style enthusiast in Dallas, TX
     location: "United States"
-    followers: 3578
-    engagement: 503
-    commentsToLikes: 0.031945
-    id: ckahthmxxef6p0i78ktq7r7d4
+    followers: 193700
+    engagement: 947
+    commentsToLikes: 0.041831
+    id: ckbkt2ma7o3sv0j23z5y7w93l
     verified: false
-    hashtags: "#firulais, #foryoupage, #fyp, #engaged"
-  - username: "tannertheplanter13"
-    fullname: >-
-      TannerThePlanter
-    bio: >-
-      www.tannertheplanter.com
-    location: "United States"
-    followers: 4343
-    engagement: 662
-    commentsToLikes: 0.050396
-    id: ckd6f9enk71ra0j23o6m6etmh
-    verified: false
-    hashtags: "#plantillas, #plantstuff, #houseplantclub, #dallas"
-  - username: "ba0iee"
-    fullname: >-
-      bao
-    bio: >-
-      #BlackLivesMatter 🦋 sf - dallas 🦋
-    location: "United States"
-    followers: 3920
-    engagement: 823
-    commentsToLikes: 0.040559
-    id: ckbl4dclr1ux20j23gqf3k24b
-    verified: false
-    hashtags: "#vietnamese, #plantmama, #sf, #tiktoktravel"
+    hashtags: "#dogsoftiktok, #springdress, #hometour, #miami"
   - username: "almightyydionn"
     fullname: >-
       AlmightyyDionn🦅🖤
     bio: >-
       Dallas Tx 📍 👻Snap : @dionboi
     location: "United States"
-    followers: 152100
-    engagement: 2317
-    commentsToLikes: 0.007407
+    followers: 149700
+    engagement: 2315
+    commentsToLikes: 0.007238
     id: cka9rade28ysg0i78w21b8z66
     verified: false
-    hashtags: "#viral, #share, #greenscreen, #gotthisforyou"
-  - username: "kristen.nicole.robinson"
+    hashtags: "#viral, #share, #gotthisforyou, #greenscreen"
+  - username: "connierealtor"
     fullname: >-
-      Kristen Robinson
+      user4786406961866
     bio: >-
-      IG: kristen.nicole.robinson north dallas realtor married up girl mom x2 redhead
+      Dallas Realtor Buy, Sell, Invest Over $60M sold conniecanturealtor@gmail.com
     location: "United States"
-    followers: 7843
-    engagement: 505
-    commentsToLikes: 0.025118
-    id: ckck3ltsonm4p0j23apk795v3
+    followers: 37800
+    engagement: 675
+    commentsToLikes: 0.022152
+    id: ckdsv93sxq2gl0j23y5zu8jw1
     verified: false
-    hashtags: "#minivlog, #marriagegoals, #homedecor, #couplesgoals"
+    hashtags: "#fyp, #realtor, #realestate, #dfwrealtor"
   - username: "pj_perry"
     fullname: >-
       Perry
     bio: >-
       Just for fun✌🏾 21 // Dallas, Tx 👻pj.perry2016 Insta: pj_perry_
     location: "United States"
-    followers: 5450
-    engagement: 674
-    commentsToLikes: 0.024864
+    followers: 5356
+    engagement: 666
+    commentsToLikes: 0.026102
     id: ckac3loakbp9f0i78853uxn51
     verified: false
-    hashtags: "#foryou, #trend, #music, #xyzcba"
-  - username: "maziezost"
+    hashtags: "#music, #fyp, #duet, #trend"
+  - username: "storyofstyle"
     fullname: >-
-      maz:)
+      Hina Cheema
     bio: >-
-      ☆ ☆ ☆ zost like host snap: mayle_may 17:)
+      OBGYN | Mom of 2🇵🇰🇺🇸 Lifestyle | Home Decor IG @storyofstyle 250k+ Dallas,TX
     location: "United States"
-    followers: 180100
-    engagement: 1694
-    commentsToLikes: 0.008477
-    id: ck8nl9bjtiul30j78jmhhx6gh
+    followers: 167500
+    engagement: 624
+    commentsToLikes: 0.011442
+    id: ck8j9dg9amwt80j78srdb637o
     verified: false
-    hashtags: "#boys, #fyp, #texas, #dance"
-  - username: "freshprintsofbelaire"
+    hashtags: "#homedecor, #diy, #fallaesthetic, #foryou"
+  - username: "lifestyle_by_candi.k"
     fullname: >-
-      Whitney Belaire
+      Candi K.
     bio: >-
-      Handlettering artists sharing process vids with you! Follow our IG to see more!
+      Authenticity is Key Decor| DIY| Recipes| Self Care| Family Here for a good time
     location: "United States"
-    followers: 15300
-    engagement: 702
-    commentsToLikes: 0.017702
-    id: ckb9brwcsyb050j232sqvggud
+    followers: 16900
+    engagement: 549
+    commentsToLikes: 0.034274
+    id: ck9byhzu7n49n0j78mfkg0r8o
     verified: false
-    hashtags: "#farmhouse, #handlettering, #handpainted, #weddingsigns"
-  - username: "mariana.zarag"
+    hashtags: "#homedecor, #style, #decorinspo, #decorideas"
+  - username: "texasluxuryliving"
     fullname: >-
-      Mariana Zaragoza
+      DianaRealtor
     bio: >-
-      Fashion. Beauty. Home. Oh, and baby! 👶🏻 Venmo @marianazarag
+      Let me find your next home 🏡 at the best rate! Fill out link for more info 📲
     location: "United States"
-    followers: 4151
-    engagement: 406
-    commentsToLikes: 0.014714
-    id: cka6czpu362630i78a6or5cw4
+    followers: 106000
+    engagement: 1116
+    commentsToLikes: 0.017731
+    id: ckcjcs62d9p6n0j23vqqxom0i
     verified: false
-    hashtags: "#recipes, #lunch, #foodie, #makeup"
+    hashtags: "#ny, #houston, #moneytok, #chicago"
+  - username: "jasmineadisbeth"
+    fullname: >-
+      Jasmine Adisbeth
+    bio: >-
+      I post videos of myself in the car
+    location: "United States"
+    followers: 5179
+    engagement: 512
+    commentsToLikes: 0.035747
+    id: ckcdj6npl8mwf0j23zb4011hf
+    verified: false
+    hashtags: "#youhaveto, #momsoftiktok, #parati, #momlife"
+  - username: "macas_diary"
+    fullname: >-
+      Macas_diary
+    bio: >-
+      🍋Content CREATOR🍋 USA Based macasdiary@hotmail.com YouTube 200k Instgram 106k
+    location: "United States"
+    followers: 219500
+    engagement: 549
+    commentsToLikes: 0.009455
+    id: ckbkrj0dxm98b0j23e93r7wz0
+    verified: false
+    hashtags: "#parati, #tutoriales, #plantas, #diyproject"
 ---

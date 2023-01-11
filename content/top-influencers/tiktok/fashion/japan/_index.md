@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Japan In 2022
+title: Top 10 Fashion TikTok Influencers In Japan In 2023
 description: >-
-  Find top fashion TikTok influencers in Japan in 2022. Most popular hashtags: #fashion #fyp #dance #halloween.
+  Find top fashion TikTok influencers in Japan in 2023. Most popular hashtags: #fashion #foryou #dance.
 platform: TikTok
-hits: 22
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 22 TikTok influencers like this in Japan for you to work with.
+hits: 27
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 27 TikTok influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "noedresses"
-    fullname: >-
-      Noemie
-    bio: >-
-      She/her Fashion Designer Submit your designs!
-    location: "Japan"
-    followers: 57300
-    engagement: 1670
-    commentsToLikes: 0.011540
-    id: ck92uxj6anzqz0j78yg1zm98t
-    verified: false
-    hashtags: "#backtothemusic, #halloweencostume, #fashion, #architecture"
   - username: "kesera_qung"
     fullname: >-
       🍑🧡케세라🗽けせら🧡🍑
@@ -31,100 +19,112 @@ profiles:
     id: ckdblb4bh9v0e0j23dqm473vp
     verified: false
     hashtags: "#96, #ulikestudio"
+  - username: "aikzousu_"
+    fullname: >-
+      𝓒𝓾𝓽𝓲𝓮𝓐 👑
+    bio: >-
+      Fashion Designer Support my brand 💖 Ig: @aiii.official_ Fb: A-III
+    location: "Japan"
+    followers: 4544
+    engagement: 257
+    commentsToLikes: 0.082285
+    id: ckdhlk1tazwmy0j23j7rd06ke
+    verified: false
+    hashtags: "#fyp, #valentinesgift, #smallbusiness, #fashion"
+  - username: "noedresses"
+    fullname: >-
+      Noemie
+    bio: >-
+      She/her Fashion Designer Submit your designs!
+    location: "Japan"
+    followers: 60000
+    engagement: 1281
+    commentsToLikes: 0.014166
+    id: ck92uxj6anzqz0j78yg1zm98t
+    verified: false
+    hashtags: "#voguecouchcouture, #fashion, #fashiondesigner, #vogue"
   - username: "shiryupondan"
     fullname: >-
       SHIRYU しりゅう 志龍
     bio: >-
-      🇯🇵Dance/Fashion/Z'Ron/12月13日 蛇遣い座/The Music Day.24時間テレビ.Mステ.PV.CM.ドラマ.MV等出演
+      🇯🇵 Dance/Design/Fashion Mステ.24時間テレビ.TheMusicDay等出演 Instagram来てくださいplease come.
     location: "Japan"
-    followers: 4883
-    engagement: 323
-    commentsToLikes: 0.025313
+    followers: 8650
+    engagement: 334
+    commentsToLikes: 0.021021
     id: ckc7aijh5kat90j23tv7i74l2
     verified: false
-    hashtags: "#paint, #dance, #fashion, #oneofakind"
-  - username: "mumzez"
+    hashtags: "#fashion, #dance, #paint, #makeawish"
+  - username: "hinach_0421"
     fullname: >-
-      mumuzez
+      加藤ひなた🐥Hinata Kato
     bio: >-
-      IG: mumzez best wishes for u, Thank you
+      workout🤸🏼‍♀️bodymake🥗 fashion🤍cosme🖤 YouTubeとInstaも遊びにきてね🥰
     location: "Japan"
-    followers: 156600
-    engagement: 690
-    commentsToLikes: 0.010672
-    id: ck7zogpgtjw2n0j78l7tq4ko9
-    verified: false
-    hashtags: "#like, #us, #tiktok, #food"
+    followers: 363200
+    engagement: 608
+    commentsToLikes: 0.004301
+    id: ck9n4upc45onl0j78zfhi0id7
+    verified: true
+    hashtags: "#diet, #workout, #tiktok, #foryoupage"
   - username: "pearls010"
     fullname: >-
       Pearly
     bio: >-
-      Surprise pearl
+      👇click below link for shopping 👇
     location: "Japan"
-    followers: 17300
-    engagement: 192
-    commentsToLikes: 0.019231
+    followers: 18700
+    engagement: 299
+    commentsToLikes: 0.038017
     id: ckfplzxtf17iq0j23mbz8c0dx
     verified: false
-    hashtags: "#jewellery, #mussels, #wip, #destory"
-  - username: "mariaaaa728"
-    fullname: >-
-      谷まりあ
-    bio: >-
-      
-    location: "Japan"
-    followers: 169300
-    engagement: 659
-    commentsToLikes: 0.008978
-    id: ck9e3tz6ml4rh0j787q7j65b0
-    verified: true
-    hashtags: "#fashion, #arianagrande, #halloween, #celine"
+    hashtags: "#fashion, #jewelrybusiness, #seafood, #mussel"
   - username: "m.ami.325"
     fullname: >-
       ami＿mimura
     bio: >-
       人生たーのしっ#19
     location: "Japan"
-    followers: 42800
-    engagement: 194
-    commentsToLikes: 0.013856
+    followers: 41700
+    engagement: 211
+    commentsToLikes: 0.013814
     id: ckbvuouc2tb4b0j23reyj1sqn
     verified: false
     hashtags: "#newhair, #amyer, #amyerofficial, #fashion"
-  - username: "aikzousu_"
+  - username: "mumzez"
     fullname: >-
-      𝓒𝓾𝓽𝓲𝓮𝓐 👑
+      mumuzez
     bio: >-
-      Support my brand 💖 Follow me: ig: aikzousu_ Twitter: aikzousu_
+      IG: mumzez best wishes for u, Thank you
     location: "Japan"
-    followers: 4053
-    engagement: 278
-    commentsToLikes: 0.036299
-    id: ckdhlk1tazwmy0j23j7rd06ke
+    followers: 154600
+    engagement: 636
+    commentsToLikes: 0.013336
+    id: ck7zogpgtjw2n0j78l7tq4ko9
     verified: false
-    hashtags: "#fyp, #smallbusiness, #foryou, #fashion"
-  - username: "aikobrondo"
+    hashtags: "#boys, #food, #foryou, #girl"
+  - username: "rana_mohsin999"
     fullname: >-
-      Aiko Brondo
+      🦁 Rana Mohsin 🦁
     bio: >-
-      Mexicana 🇲🇽 Living in Japan 🇯🇵 10/04/03 Instagram- aiko_brondo
+      Entrepreneur & Private Supercar Collector🐃 Thanks to Allah for all blessings MA
     location: "Japan"
-    followers: 63700
-    engagement: 2832
-    commentsToLikes: 0.012803
-    id: ck9eyrlwex4n00j78klf28xxh
+    followers: 202900
+    engagement: 253
+    commentsToLikes: 0.000000
+    id: ck8s7ctjmoppv0j78fxb7ivjb
     verified: false
-    hashtags: "#fyp, #comedia, #dance, #acting"
-  - username: "fantastics_official"
+    hashtags: "#swag, #luxury, #sports, #supercar"
+  - username: "yanpechi92"
     fullname: >-
-      FANTASTICS
+      😈やんぺ😈92
     bio: >-
-      【FANTASTICS公式アカウント】 初主演ドラマ『マネキンナイトフィーバー』 毎週木曜24:59〜放送中📺 新曲『High Fever』11月11日発売
+      ✨✨✨🥳❤おめでとうございます❤🥳✨✨✨ 🙋‍♂️このプロフィール開いた君は変態です🙋‍♂️ TikTokのギリギリセーフゾーンのエロさで投稿
     location: "Japan"
-    followers: 365300
-    engagement: 1878
-    commentsToLikes: 0.012015
-    id: ckbqncsn389330j230cu2j8bk
-    verified: true
-    hashtags: "#highfever, #exiletribe, #fantastics, #fyp"
+    followers: 22000
+    engagement: 903
+    commentsToLikes: 0.074489
+    id: ckad7g87i41kn0i78xgvgso2u
+    verified: false
+    hashtags: "#fitnessboys, #hiphop, #jap, #vhs"
 ---

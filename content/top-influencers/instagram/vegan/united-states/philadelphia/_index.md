@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Philadelphia In 2022
+title: Top 10 Vegan Instagram Influencers In Philadelphia In 2023
 description: >-
-  Find top vegan Instagram influencers in Philadelphia in 2022. Most popular hashtags: #vegan #philadelphia #halloween.
+  Find top vegan Instagram influencers in Philadelphia in 2023. Most popular hashtags: #vegan #love #reels.
 platform: Instagram
-hits: 16
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 16 Instagram influencers like this in Philadelphia, United States for you to pitch.
+hits: 25
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 25 Instagram influencers like this in Philadelphia, United States for you to work with.
 profiles:
-  - username: "lvnadahlia"
+  - username: "hannahforcier"
     fullname: >-
-      Luna Dahlia
+      Hannah Forcier
     bio: >-
-      Dark Muse • Queer Vamp • Ethical Slvt Kinky • Modified • Vegan • Weird • Philadelphia, PA • They/She
+      (For-see-ayeee) 📍 Philadelphia, PA Vegan🌱Earth Lover🌎Youtuber-517k💖 ⬇️Help my best friend get top surgery
     location: "United States"
-    followers: 13748
-    engagement: 618
-    commentsToLikes: 0.034049
-    id: ck5qe5hsxytnv0i119n1bn6pn
-    verified: false
-    hashtags: "#femmicure, #worldmentalhealthday, #nationalcomingoutday"
+    followers: 44265
+    engagement: 76
+    commentsToLikes: 0.029870
+    id: ck6tryl0u1ti30j71qgn0a9vu
+    verified: true
+    hashtags: "#wiglife, #goodhairday, #humanhairwig, #hairgoals"
   - username: "phillyvegans"
     fullname: >-
       Philly Vegans
     bio: >-
       Philadelphia (Based) Vegans ✈️ @poopjoke & @eeerriinn 👫 Powered by Plants 🏃🏻‍♀️🥑🦄 💌: phillyvegans@gmail.com
     location: "United States"
-    followers: 16827
-    engagement: 273
-    commentsToLikes: 0.024322
+    followers: 16792
+    engagement: 251
+    commentsToLikes: 0.030048
     id: ck6u2r1j7tfhd0j71uyg3bcrx
     verified: false
-    hashtags: "#vegan, #veganoptions"
-  - username: "rodneylavoiejr"
+    hashtags: "#chefskiss, #honeygrow, #ad, #sponsored"
+  - username: "doctorbowl"
     fullname: >-
-      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
+      Divya Sharma | Healthy Recipes
     bio: >-
-      🗺 Philanthropist |🎙Speaker | Artist 🎶 💚 Mental Health | Coach 👥 | Fitness 💪🏼💪🏾 🌱Plant-Based | Activist | Truth Seeker👁 🏫 501(c)@thewarriorsofpurpose
+      👩🏽‍🍳Simple, easy, quick and delicious recipes 📸 Content Creator, Recipe developer 👩‍⚕️Doctor - GP 👫Wife to @theradiologistpage 👶🏽Mum to Baby Bowl
     location: "United States"
-    followers: 411593
-    engagement: 634
-    commentsToLikes: 0.039362
-    id: ck6u2a8u3qmzb0j71yukdua4n
-    verified: true
-    hashtags: "#rodneylavoiejr, #fitnessmotivation, #selfcare, #hiphop"
-  - username: "theblondetravelsx0"
-    fullname: >-
-      JAMIE RIVERO  | Philly Blogger
-    bio: >-
-      Corporate Vice President & Citizen of the World 🌍✨ Balancing a corporate job while still living the life I always dreamed of 📍Philly
-    location: "United States"
-    followers: 32170
-    engagement: 172
-    commentsToLikes: 0.171134
-    id: ck6tvd4a1ljt30j71pwjlidnd
+    followers: 72245
+    engagement: 112
+    commentsToLikes: 0.136459
+    id: ck5zua3ix1yzk0i14w4tgqmqj
     verified: false
-    hashtags: "#manifestyourdreams, #delaware, #fallinspo, #sheisnotlost"
-  - username: "missmaryleigh"
+    hashtags: "#veggielover, #vegantreats, #quickdinner, #foodforkids"
+  - username: "yash_kothiya_007"
     fullname: >-
-      Mary-Leigh Maxwell
+      ♛_ʏֆɦ_♛
     bio: >-
-      🦇🖤🦇 🕸model&covergirl since '08 💀philadelphia ✨cosmetic tattooer @pmubymaryleigh 🌱VEGAN 🐕lulu 💌missmaryleighmodel@gmail.com
+      . 💕 ĴΛY MΛ ҠĤØDĪYΛŔ 💕 . 🖤ᴅᴏɴᴛ ᴡᴀɪᴛ ᴛʜᴇ ᴘᴇʀғᴇᴄᴛ ᴍᴏᴍᴇɴᴛ 👨‍🦯ᴛᴀᴋᴇ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ᴘᴇʀғᴇᴄᴛ🦸
     location: "United States"
-    followers: 124439
-    engagement: 130
-    commentsToLikes: 0.056881
-    id: ck8t0fw6krxpg0j78bpl8nywd
+    followers: 2578
+    engagement: 965
+    commentsToLikes: 0.280792
+    id: ckaouk3yw0m4r0i78f9k8o733
     verified: false
-    hashtags: "#speciesism, #vegan, #babesforblacklives, #blacklivesmatter"
-  - username: "joahtopping"
+    hashtags: "#gainwithspikes, #homedecor, #mallu, #malayalam"
+  - username: "zenisfood"
     fullname: >-
-      Smoothies by Sandra
+      Byron J 🏙 NYC Foodie
     bio: >-
-      ☀️Fruity smoothie recipes and sweet toppings 🌈Colorful and healthy food ✨Save 15% with JOAHTOPPING15 @rawnice ✨ ✨Save 10% with „Sandra“ @zenwithtai
+      Part-Time photographer/musician @zenifmusic Full-Time creator 🇺🇸🇹🇼 | 📍: Taiwan 📨 Email/DM for collab! 📸 #lumix s1R G9 🥩 @crowdcow ambassador
     location: "United States"
-    followers: 6764
-    engagement: 603
-    commentsToLikes: 0.323594
-    id: ck9wd45lidzk20j78c744053t
+    followers: 11169
+    engagement: 644
+    commentsToLikes: 0.042263
+    id: ck6tpkxalkg3a0j71w3ngeo1m
     verified: false
-    hashtags: "#knuspur, #dubackstdas, #fruits, #smoothie"
+    hashtags: "#nycfoodie, #noodleworship, #homecooking, #spikedlatte"
   - username: "d_r_hildebrand"
     fullname: >-
       David Raphael Hildebrand
     bio: >-
       Old soul in a reclaimed body. 📍New York Writer • Model • Entrepreneur 👬 @joshgaddy 🏊 Swimmer by chance. 🌱 Vegan by design. Choose kindness.
     location: "United States"
-    followers: 19489
-    engagement: 402
-    commentsToLikes: 0.086524
+    followers: 19133
+    engagement: 414
+    commentsToLikes: 0.091711
     id: ck15reiru7jc50i195emotajc
     verified: false
-    hashtags: "#swimming, #lgbtfamily, #fireisland, #gayman"
+    hashtags: "#gayvegan, #fireislandpines, #swimming, #summer"
+  - username: "maddiecantcook"
+    fullname: >-
+      maddie/ food + fit :)
+    bio: >-
+      cos health is wealth baby 😌🦄 🐩 Healthy cooking / vegan baking 💅 fitness log 👸 just for fun :)
+    location: "United States"
+    followers: 7294
+    engagement: 921
+    commentsToLikes: 0.209403
+    id: ckaox0crgb7780i78740w454r
+    verified: false
+    hashtags: "#wonton, #veganuary, #maddiecancookpancakes"
+  - username: "ebgiii"
+    fullname: >-
+      Edward B. Gieda III
+    bio: >-
+      Lost my wife 06/18/19; running since as a means of healing. Vegan since ‘92 + streak runner + ॐ. #diadorarunning
+    location: "United States"
+    followers: 6275
+    engagement: 1030
+    commentsToLikes: 0.030962
+    id: ck5zqwb9kvf5n0i14boitpp94
+    verified: false
+    hashtags: "#runningstreak, #plantbasedathlete, #soulrunning, #distancerunning"
   - username: "shaylynnedwards"
     fullname: >-
-      Shay
+      Shay Edwards
     bio: >-
-      philadelphia | v queer | the v either stands for vegan or very, but also both
+      philadelphia | v queer | the v either stands for vegan or very, but also both Van Bound: April 2020 | 1984 Dodge CamperVan 🚐 ↡ WEEKLY VAN BUILD VLOG ↡
     location: "United States"
-    followers: 8597
-    engagement: 452
-    commentsToLikes: 0.017392
+    followers: 8649
+    engagement: 505
+    commentsToLikes: 0.016208
     id: ck8wdgvlhdtl90j7825rwuyaq
     verified: false
-    hashtags: "#aexme"
-  - username: "phillyinsider"
+    hashtags: "#aexme, #stayhomestaysafe, #wearamask"
+  - username: "therubygore"
     fullname: >-
-      Michael Klein
+      Ruby Gore Vegan Tattoo Artist
     bio: >-
-      I write about the Philadelphia-area #food & #restaurant scene at @phillyinquirer. Not a critic. Love my kids, espresso, dad jokes, & the Oxford comma.
+      @HoundstoothTattoo Philadelphia, PA 🔔 Trauma Informed Artist ♥️ 100% Vegan Supplies 🌱 Booking Info👇 Questions? Email Us 💌
     location: "United States"
-    followers: 17422
-    engagement: 191
-    commentsToLikes: 0.027001
-    id: ck8swn6hgelk70j788vy49p2o
+    followers: 40630
+    engagement: 99
+    commentsToLikes: 0.033622
+    id: ck55klzwezmq90i112lqh2ibz
     verified: false
-    hashtags: "#pizza, #askchefsanything, #restaurant, #food"
-  - username: "studiokolowski"
-    fullname: >-
-      Jason Kolowski
-    bio: >-
-      Production Designer. Art Director. Vegan for the animals. 🍃
-    location: "United States"
-    followers: 20667
-    engagement: 1062
-    commentsToLikes: 0.025814
-    id: ck15tzb19knam0i19cgyc3vam
-    verified: false
-    hashtags: "#wendalandluther, #kittybungalow, #thetinychefshow, #buddydays"
+    hashtags: "#londontattoo, #njtattoo, #newyorktattoo, #botanicaltattoo"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United Kingdom In 2022
+title: Top 10 Yoga Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top yoga Instagram influencers in United Kingdom in 2022. Most popular hashtags: #yoga #yogapractice #yogainspiration #yogaathome.
+  Find top yoga Instagram influencers in United Kingdom in 2023. Most popular hashtags: #fitness #health #fitnessmotivation.
 platform: Instagram
-hits: 326
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 326 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 217
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 217 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "jodi.yogini"
+  - username: "graceru_x"
     fullname: >-
-      Just Another Yoga Mama
+      G R A C E 🌸
     bio: >-
-      🌙 Ambassador @moonchildyogawear discount code MOONCHILDJODI 👩‍👧‍👦 Follow my mama adventures @yoga_mama_and_the_littles
+      Sunsets & selfies 🦋✨ Gym & yoga 🧘‍♀️💫 Northerner living down south 🇬🇧✌🏻
     location: "United Kingdom"
-    followers: 28012
-    engagement: 441
-    commentsToLikes: 0.118578
+    followers: 99214
+    engagement: 270
+    commentsToLikes: 0.056818
+    id: ckaovj44k4rvm0i78zczj4qi8
+    verified: false
+    hashtags: "#ootd, #instagram, #instadaily, #happy"
+  - username: "yoga_girl"
+    fullname: >-
+      Rachel Brathen
+    bio: >-
+      we mostly talk about plants here. we drink a lot of tea. and sometimes we do yoga. come on in! ❤️🌾 @yogagirlpodcast / @yogagirlofficial / @island.yoga
+    location: "United Kingdom"
+    followers: 2020010
+    engagement: 148
+    commentsToLikes: 0.047782
+    id: ck55p81u59zsx0i1151stgv6c
+    verified: true
+    hashtags: "#pregnancy, #nature, #motherhood, #family"
+  - username: "elly_yoga_"
+    fullname: >-
+      Elly
+    bio: >-
+      Yoga, meditation, practice . Cornwall, UK
+    location: "United Kingdom"
+    followers: 16857
+    engagement: 610
+    commentsToLikes: 0.158953
+    id: ckaozyofko00o0i78jlm2qbok
+    verified: false
+    hashtags: "#yogiscomingforcoffee, #yst2021, #yogastopstraffick, #kurmasana"
+  - username: "jodi_yogini"
+    fullname: >-
+      Jodi | Yoga
+    bio: >-
+      🦋 My Yoga Journey 🌊 Cornwall UK ➡️ Dm for collabs 👇 Discount codes
+    location: "United Kingdom"
+    followers: 41087
+    engagement: 257
+    commentsToLikes: 0.107264
     id: ck5zwlss46ckd0i14y6gyh99v
     verified: false
-    hashtags: "#splits, #yogaposeoftheday, #mondayyoga, #halloween"
+    hashtags: "#heartopener, #igyoga, #yogastrong, #yogaposes"
+  - username: "as.danai"
+    fullname: >-
+      𝐷𝑎𝑛𝑎𝑖   |  𝑌𝑜𝑔𝑎 - 𝑀𝑖𝑛𝑑𝑓𝑢𝑙𝑛𝑒𝑠𝑠
+    bio: >-
+      🙏Yoga Teacher 200hr 💙 based in Greece • connected with the World 🌎 🌱 Vegan 💌 DM/email for collabs
+    location: "United Kingdom"
+    followers: 11481
+    engagement: 360
+    commentsToLikes: 0.128849
+    id: ck9woonfe5yeq0j78ggq92tjm
+    verified: false
+    hashtags: ""
   - username: "allaboutnori"
     fullname: >-
       Nori Olivia
     bio: >-
-      🥨 German Girl In London 🤸🏻 Yoga Teacher 🦋 Enquiries For Private Yoga Sessions & Collabs: noraoliviacontact@gmail.com
+      Made in Germany, home in London 🤸🏻 yoga teacher 📷 @modelmanagement collabs: noraoliviacontact@gmail.com
     location: "United Kingdom"
-    followers: 51235
-    engagement: 572
-    commentsToLikes: 0.043817
+    followers: 51770
+    engagement: 585
+    commentsToLikes: 0.043659
     id: ck0vyis9h47cs0i19o83o8ggm
     verified: false
-    hashtags: "#restaurantandbar, #winespa, #nivealiebe, #iciw"
-  - username: "georgewolfmeyer"
+    hashtags: "#advert, #cocooning, #myloungelife, #nivealiebe"
+  - username: "b.plus.other.stories"
     fullname: >-
-      George Wolf Meyer
+      B 🌿
     bio: >-
-      🇬🇧 director at @nowtrainingltd 🤸‍♂️ yoga enthusiast ☕ lover of coffee 🦁 + 🌿
+      Capturing some moments 💫 Finding some peace 🌙 Doing some yoga 🧘🏼‍♀️ I make jewellery ✨ @abirdnamedcharlie
     location: "United Kingdom"
-    followers: 22364
-    engagement: 835
-    commentsToLikes: 0.043912
-    id: ckf5vxrb2q81k0j23kqsi1f2j
+    followers: 10875
+    engagement: 446
+    commentsToLikes: 0.233926
+    id: ck55lyd852qzp0i11gbhmcal4
     verified: false
-    hashtags: "#yogabalance, #yogafamily, #yogi, #yogaeverydamnday"
-  - username: "abbiestoneknight"
+    hashtags: "#takemeaway, #callingmrblueskies, #fyfelilacandzephyr, #posiepops"
+  - username: "agfalzon"
     fullname: >-
-      Abbie Knight
+      Alain Falzon
     bio: >-
-      🇬🇧@w_modelmgmt 🎭@findleyravenheart 📸@sandrareynoldsagency Creative chamelon. Yoga & powerlifter 🦎
+      👶🏻 Born in Paris 🏡 Raised in Barcelona 📍Based in London 🗣 🇪🇸🇫🇷🇬🇧🇧🇷🇮🇹 🏋🏻‍♂️ GYM/ HIIT/ YOGA/ SWIM/ TRAVEL/ LIVING!
     location: "United Kingdom"
-    followers: 5564
-    engagement: 1947
-    commentsToLikes: 0.028123
-    id: ck5c22sz4wftg0i11s0famyoa
+    followers: 7133
+    engagement: 1006
+    commentsToLikes: 0.057138
+    id: ckap8mef9oz7p0i78yxa0v7bj
     verified: false
-    hashtags: "#blackoutuesday, #justice"
-  - username: "abhinavmahajanlife"
-    fullname: >-
-      ABHINAV MAHAJAN
-    bio: >-
-      VEGAN I YOGA I AWARE Contact: awareman@yahoo.com
-    location: "United Kingdom"
-    followers: 170349
-    engagement: 1065
-    commentsToLikes: 0.009793
-    id: ckap75a77iotl0i78bhc9oskq
-    verified: false
-    hashtags: "#selfmade, #justthoughts, #manofnoego, #abhinavmahajanlife"
-  - username: "miki_ferris"
-    fullname: >-
-      Miki Fit
-    bio: >-
-      💫 Person Trainer Strength, Nutrition, Yoga & Transformation coach 🤍 Body, mind, soul club (DM to join) ⚡️@equinox ⚡️ @miki_coaching
-    location: "United Kingdom"
-    followers: 45256
-    engagement: 189
-    commentsToLikes: 0.067972
-    id: ck8t9mbx1olw90j78o48p0dq4
-    verified: false
-    hashtags: "#dontholdback, #bookclub, #awak, #haagendazs"
-  - username: "tomwilsonleonard"
-    fullname: >-
-      Tom Wilson-Leonard
-    bio: >-
-      Yoga Teacher | Personal Trainer | Photographer @twl.photography Represented by @w_modelmgmt
-    location: "United Kingdom"
-    followers: 39172
-    engagement: 192
-    commentsToLikes: 0.061934
-    id: ck5hk7kwshxh30i110wlle82w
-    verified: false
-    hashtags: "#learn, #movement, #mindfulliving, #advancedselfie"
-  - username: "mageesy"
-    fullname: >-
-      Chris Magee
-    bio: >-
-      YOGA TEACHER | FRCms 𝕀𝕟𝕤𝕡𝕚𝕣𝕒𝕥𝕚𝕠𝕟 & 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 Head of Yoga @psyclelondon Founder and Lead teacher @empoweredyogaschool Practice with me 👇🏼
-    location: "United Kingdom"
-    followers: 32649
-    engagement: 180
-    commentsToLikes: 0.104667
-    id: ck5hk7jj8hxel0i11213rylns
-    verified: false
-    hashtags: "#yogalondon, #yogaathome, #handstand, #handstandpractice"
+    hashtags: "#london, #fit, #formentera, #fitnessmotivation"
   - username: "travelwithtereza"
     fullname: >-
       TEREZA | Travel blogger
     bio: >-
       ☾ London based ♡ Seeking sun, self-growth, yoga & coffee ☼ 47 countries 🔜 Mauritius ✐ travelwithtereza@gmail.com
     location: "United Kingdom"
-    followers: 28804
-    engagement: 168
-    commentsToLikes: 0.259832
+    followers: 25663
+    engagement: 191
+    commentsToLikes: 0.255014
     id: ck0w6dubb840d0i19y671l1dm
     verified: false
-    hashtags: "#femmetravel, #sheisnotlost, #travelcommunity, #best"
-  - username: "sarah_drai"
+    hashtags: "#thetraveltribe, #best, #stayandwander, #darlingplaces"
+  - username: "bodybyvicky"
     fullname: >-
-      Sarah Drai
+      Vicky Hadley
     bio: >-
-      Meditation & Yoga teacher 🧘🏻‍♀️ Featured in TATLER & Yoga Magazine Founder of @Yogi2Me Ambassador @lululemonuk & @beder_uk To practice with me👇🏼
+      Owner: @sculptandsweatstudio PT | YOGA | Barre | Pre & Anti Natal 💍 JB 💕 🐶 @prepperfectuk athlete & @myproteinuk code: VICKY
     location: "United Kingdom"
-    followers: 6571
-    engagement: 499
-    commentsToLikes: 0.102066
-    id: ckaora0awmcyy0i78jvsvyc6k
+    followers: 30874
+    engagement: 152
+    commentsToLikes: 0.088943
+    id: ck15ubg11mctv0i19tscb2cs9
     verified: false
-    hashtags: "#learntomeditate, #thefrenchyyogini, #yogapractice, #onlineyogaclasses"
+    hashtags: "#fitness, #nutrition, #gymlife, #exercise"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Colombia In 2022
+title: Top 10 Dancers Instagram Influencers In Colombia In 2023
 description: >-
-  Find top dancers Instagram influencers in Colombia in 2022. Most popular hashtags: #happiness #beachvibes #lifestyle.
+  Find top dancers Instagram influencers in Colombia in 2023. Most popular hashtags: #salsa #dancer #mexico.
 platform: Instagram
-hits: 98
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 98 Instagram influencers like this in Colombia for you to connect with.
+hits: 114
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 114 Instagram influencers like this in Colombia for you to pitch.
 profiles:
   - username: "maylin.h"
     fullname: >-
-      Maylin Hernández🌸
+      Maylin Hernández🕊
     bio: >-
       📍From Cuba 🇨🇺 💃🏼Profesional Dancer 🎶Tiktok @maylinht95 🧘🏼‍♀️Yogi 🌅Sunset Buster 🍀Pido deseos a las 11:11 👙Summer Lover ♎️ Libra 🌜ALMA LUNAR
     location: "Colombia"
-    followers: 67991
-    engagement: 768
-    commentsToLikes: 0.098595
+    followers: 106246
+    engagement: 591
+    commentsToLikes: 0.030649
     id: ckap4low27uf80i78no06943x
     verified: false
-    hashtags: "#fyp, #tbt, #tiktok, #instagood"
-  - username: "nathaliaduquef"
+    hashtags: "#tbt"
+  - username: "yamirootz__"
     fullname: >-
-      Nathalia Duque 🇨🇴
+      Rootz
     bio: >-
-      B.F.A in Musical Theater Actress - Singer - Dancer Agency represented model (USA) Modelo independiente (Colombia) @waltdisneyworld Entertainment
+      Dios es amor🤍 Jesus saves!🤍 SquadDeFrancoEscamilla✌🏻Dancer Contacto directo📩: contacto@agenciaplaybook.com
     location: "Colombia"
-    followers: 9071
-    engagement: 920
-    commentsToLikes: 0.102503
-    id: ck6uc8y7xe6wl0j71iteglv8l
+    followers: 160846
+    engagement: 799
+    commentsToLikes: 0.011681
+    id: ck5zz0vhravgb0i14sry8ktu1
     verified: false
-    hashtags: "#modelingshoot, #colombia, #brunette, #hairgoals"
+    hashtags: ""
+  - username: "ricardoo_vega"
+    fullname: >-
+      Ricardo Vega
+    bio: >-
+      Dancer/choreographer @karenyricardo Chileno🇨🇱 @nbcworldofdance season2 Emmys awards nominees Champion @worldchoreographyawards 9 times WorldChampion
+    location: "Colombia"
+    followers: 72688
+    engagement: 695
+    commentsToLikes: 0.016785
+    id: ckap100wesjk80i78z9sw9iux
+    verified: false
+    hashtags: "#dancerlife, #sunset, #dancer, #menstyle"
   - username: "jennyrz_"
     fullname: >-
       Jenny Ruiz
     bio: >-
       Dancer | Choreographer | 24 ✨ Coreógrafa TeamMX 🇲🇽 3x Silver World champ 🥈 Pan-American champ🥇 New Video 👇🏼
     location: "Colombia"
-    followers: 14091
-    engagement: 688
-    commentsToLikes: 0.034879
+    followers: 13650
+    engagement: 673
+    commentsToLikes: 0.042486
     id: ck5zti2yk0gbi0i14ri98e3ss
     verified: false
-    hashtags: "#vallarta, #playa, #beach, #perreo"
-  - username: "miredyrivera"
+    hashtags: "#playa, #beach, #vallarta, #dance"
+  - username: "andreinacarmona_"
     fullname: >-
-      
+      Andreina Carmona Kofinke
     bio: >-
-      Dancer | Actress | Model @guerreroswapa “Sirena Collection” 🌊 👇🏽
+      model | dancer | actress • Business: contactoandreinac@gmail.com • Manager 📍🇻🇪: @itermoreno15
     location: "Colombia"
-    followers: 95916
-    engagement: 1288
-    commentsToLikes: 0.012796
-    id: ck5hphpnfrdpy0i11jvmo5j7j
+    followers: 60768
+    engagement: 384
+    commentsToLikes: 0.023877
+    id: ck0ubyn7ffn9z0i19bsskybkp
     verified: false
-    hashtags: "#beachvibes, #colombiavspuertorico, #teamsirena, #bogota"
-  - username: "julianaor8"
+    hashtags: ""
+  - username: "maribel_del_pino"
     fullname: >-
-      Juliana Ortiz
+      Maribel Del Pino Perez
     bio: >-
-      "Ese otro que también me habita" Dancer Ciencia. 📍MEDELLÍN
+      Choreographer - Dancer - Actress y lo que me echen . Director 🏛@tribuurbanacenter 👠@letribute 👑@feelqueentalent
     location: "Colombia"
-    followers: 15814
-    engagement: 655
-    commentsToLikes: 0.018507
-    id: ckaoyvmzyjaeq0i7877go9ivh
+    followers: 33906
+    engagement: 532
+    commentsToLikes: 0.022799
+    id: ck5hoqzjkq2f30i11tid8sgx2
     verified: false
-    hashtags: "#kizombalove, #santander, #can, #bungeejumping"
+    hashtags: "#heelsdance, #girls, #sexystyledance, #letribute"
+  - username: "cristinaflorez_"
+    fullname: >-
+      🎨CRISTINA🎨
+    bio: >-
+      🇨🇴Colombiana🇵🇷Boricua 💃🏽Dancer🎥Actress✍🏽Poet/Writer 🎹 I❤️to sing 💥Women’s Empowerment 🥒Nutrition/Psych/Biochem Grad📚
+    location: "Colombia"
+    followers: 2399
+    engagement: 829
+    commentsToLikes: 0.155789
+    id: ck13avifbsebo0i190xkzz888
+    verified: false
+    hashtags: "#poet, #losangeles, #love, #choreography"
+  - username: "cassaragon"
+    fullname: >-
+      Cass Aragón•🇲🇽Mexi-leira🇧🇷
+    bio: >-
+      Viajar es la mejor escuela ✈️Travel blogger pata salada 💃Zumba instructor & Latin dancer 🌎Medio ambiente y mar 🌊 💼Manager:@alexandraglez 🎥YouTube👇🏼
+    location: "Colombia"
+    followers: 28350
+    engagement: 565
+    commentsToLikes: 0.035466
+    id: ck0w2himboe3k0i19or90fx8f
+    verified: false
+    hashtags: ""
   - username: "kaylamelisssa"
     fullname: >-
       ƘƛƳԼƛ MЄԼƖƧƧƛ. ♣️
     bio: >-
       "Unstopabble dreamer" ✈️ 🎲Model/Dancer/fashion designer💄 ♣️Fashion addict.👠 ♠️"your actions say more than your words" Modern languages student 🌍
     location: "Colombia"
-    followers: 6122
-    engagement: 386
-    commentsToLikes: 0.070194
+    followers: 6273
+    engagement: 333
+    commentsToLikes: 0.083450
     id: ckapc3js42bqa0i78gqzsp2b1
     verified: false
-    hashtags: ""
-  - username: "alejaslmella"
+    hashtags: "#paisabarbie, #2021"
+  - username: "lialawrencef"
     fullname: >-
-      Alejandra
+      Lia Lawrence✨
     bio: >-
-      Profesional ballet Dancer 👯‍♀️Ballet Fitness 🇨🇴 ᴄᴜᴇɴᴛᴀs ᴀᴜᴛᴏʀɪᴢᴀᴅᴀs ɪɴsᴛᴀɢʀᴀᴍ ʏ ғᴀᴄᴇʙᴏᴏᴋ Contacto: andres.borrero@musicdepot.com.co @upstagedancecali
+      Ex TV host- PN @telemetro Ex Actress- familia internet @nexpanama Ex Dancer- Teen @complotpanama Actual campaign model- @newfacesdf @dfmodelos 🇵🇦🇺🇸
     location: "Colombia"
-    followers: 162819
-    engagement: 312
-    commentsToLikes: 0.016900
-    id: ck0w3n4ruu9990i19q1ht76um
+    followers: 4403
+    engagement: 1830
+    commentsToLikes: 0.060957
+    id: ck6u5wegyc53n0j71xprq338m
     verified: false
-    hashtags: "#kitegirl, #ballerina, #balletfitnessbyupstage, #ballet"
-  - username: "kristielhenao"
-    fullname: >-
-      Kristiel Henao🌹
-    bio: >-
-      Ven-Col🤍 Top Model Colombia 2019 Dancer💗 MUA: @krissmua_ Model of: @imagenmodelosemv
-    location: "Colombia"
-    followers: 9762
-    engagement: 534
-    commentsToLikes: 0.025025
-    id: ck6uchyzefpmj0j71jtwzx7b7
-    verified: false
-    hashtags: "#woman, #lifestyle, #instagram, #beauty"
-  - username: "fredd.linares"
-    fullname: >-
-      FREDD LINARES
-    bio: >-
-      | 🇨🇴 | 🇦🇷 | 🇨🇱 | 🇺🇾 | 🇧🇷 | |📍Bogotá, Colombia. | | Dancer | Fitness | Teacher | Traveller |
-    location: "Colombia"
-    followers: 11519
-    engagement: 597
-    commentsToLikes: 0.014739
-    id: ck13a5q5foqse0i192dpfi21f
-    verified: false
-    hashtags: ""
-  - username: "kellybarragan3"
-    fullname: >-
-      Kelly Barragan
-    bio: >-
-      Professional dancer 💃👯Marketing & International business. Cali-Colombia 🇨🇴 💜💜💜💜💜💜💜💜🌚
-    location: "Colombia"
-    followers: 17039
-    engagement: 375
-    commentsToLikes: 0.014964
-    id: ck6u5xhpucbjp0j71hif5jnah
-    verified: false
-    hashtags: "#gratitud, #selflove, #love, #dontworrybehappy"
+    hashtags: "#quarantinesenior"
 ---

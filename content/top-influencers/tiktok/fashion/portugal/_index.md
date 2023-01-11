@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Portugal In 2022
+title: Top 10 Fashion TikTok Influencers In Portugal In 2023
 description: >-
-  Find top fashion TikTok influencers in Portugal in 2022. Most popular hashtags: #fashion #fyp #foryou #foryoupage.
+  Find top fashion TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #fashion #foryou #portugal.
 platform: TikTok
 hits: 18
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 18 TikTok influencers like this in Portugal for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 18 TikTok influencers like this in Portugal for you to connect with.
 profiles:
-  - username: "realgonolivier"
+  - username: "itsgonolivier"
     fullname: >-
       Gonolivier
     bio: >-
       Content • Fashion • Lifestyle Follow me on IG ✌🏼
     location: "Portugal"
-    followers: 98300
-    engagement: 944
-    commentsToLikes: 0.010911
+    followers: 143300
+    engagement: 864
+    commentsToLikes: 0.009351
     id: ckai478vjmtot0i780mqf37iz
     verified: false
-    hashtags: "#style, #fashioninspo, #outfits, #sneakers"
-  - username: "emilysanches_"
+    hashtags: "#portugal, #louisvuitton, #styletips, #ootd"
+  - username: "addisonraeoutfits"
     fullname: >-
-      Emily Sanches
+      Addison Rae Clothes ✨
     bio: >-
-      🇧🇷 🇵🇹
+      My PINTEREST ❤
     location: "Portugal"
-    followers: 133700
-    engagement: 1106
-    commentsToLikes: 0.010094
-    id: cka0uj5squi6k0i78iau4zuig
+    followers: 163700
+    engagement: 1810
+    commentsToLikes: 0.011735
+    id: ckb997v7ktbxr0j235373zceg
     verified: false
-    hashtags: "#risos, #fun, #divers, #portugal"
+    hashtags: "#dixison, #addisonrae, #you, #foru"
   - username: "mingalondon"
     fullname: >-
       mingalondon
     bio: >-
       Stay away from boring clothes. 🔥Shipping Worldwide 🔥 www.mingalondon.com
     location: "Portugal"
-    followers: 15700
-    engagement: 1600
-    commentsToLikes: 0.035336
+    followers: 21600
+    engagement: 1079
+    commentsToLikes: 0.031471
     id: cka6nib7tbj7u0i78vifxhcic
     verified: false
-    hashtags: "#foryourpage, #fyp, #4u, #ukfashion"
-  - username: "terrible______kid"
+    hashtags: "#aesthetic, #foryou, #outfitinspo, #fashioninspo"
+  - username: "terrible___kid"
     fullname: >-
-      Terrible______kid
+      Terrible___kid
     bio: >-
       Não sei o que estou a fazer aqui 🤷🏻‍♂️
     location: "Portugal"
-    followers: 2383
-    engagement: 315
-    commentsToLikes: 0.011145
+    followers: 2367
+    engagement: 351
+    commentsToLikes: 0.012406
     id: ckd0qxdunibo10j23p3c2pk1d
     verified: false
-    hashtags: "#fyp, #tiktok, #foryou, #fypchallenge"
+    hashtags: "#fy, #stayathome, #fashion, #foryou"
   - username: "irisloveunicorns"
     fullname: >-
       Ines Silva
     bio: >-
       Email: ines@musetheagency.com ♥️
     location: "Portugal"
-    followers: 238600
-    engagement: 1121
-    commentsToLikes: 0.005592
+    followers: 559800
+    engagement: 1479
+    commentsToLikes: 0.005514
     id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#anime, #outfits, #hisoka, #narcisamalfoy"
-  - username: "awkwardteen__"
-    fullname: >-
-      awkward teen
-    bio: >-
-      Just a girl awkwardly dancing and lip syncing Instagram: @teresaclerigo
-    location: "Portugal"
-    followers: 9845
-    engagement: 688
-    commentsToLikes: 0.012540
-    id: ckcpbbqx5f5lg0j23978owulx
-    verified: false
-    hashtags: "#foryou, #outfit, #foryoupage, #pvc"
-  - username: "inesvalbento"
-    fullname: >-
-      Inês Val Bento
-    bio: >-
-      Follow me on IG 📸👆🏻 IG: inesvalbento Model
-    location: "Portugal"
-    followers: 164400
-    engagement: 663
-    commentsToLikes: 0.008410
-    id: ckbl4sedb29l30j23zao71zoz
-    verified: false
-    hashtags: "#boat, #couple, #fashion, #holidays"
+    hashtags: "#fyp, #viral, #makeup, #anime"
   - username: "lucasviegaswk"
     fullname: >-
       Lucas Viegas
     bio: >-
       🔮
     location: "Portugal"
-    followers: 22300
-    engagement: 1400
-    commentsToLikes: 0.013737
+    followers: 24600
+    engagement: 1211
+    commentsToLikes: 0.010903
     id: ckb9rpksgof600j23415ndvc1
     verified: false
-    hashtags: "#fyp, #xyzbca, #fashion, #streetwear"
+    hashtags: "#fashion, #outfitideas, #fyp, #xyzbca"
+  - username: "bibaaaaaaas"
+    fullname: >-
+      Beatriz Costa
+    bio: >-
+      from 🇵🇹 📥 hi@saywe.pt instagram: 46k 👇🏽
+    location: "Portugal"
+    followers: 45100
+    engagement: 1460
+    commentsToLikes: 0.015219
+    id: ckcoy6jwsa2oi0j234vv7lue1
+    verified: false
+    hashtags: "#foryou, #trending, #funny, #fyp"
   - username: "_andrezzanascimento_"
     fullname: >-
       Andrezza Nascimento
     bio: >-
       🇧🇷Eu brinco, mas também falo sério🇵🇹
     location: "Portugal"
-    followers: 12900
-    engagement: 869
-    commentsToLikes: 0.048861
+    followers: 12700
+    engagement: 867
+    commentsToLikes: 0.047666
     id: ckbfca0ut51440j23p8jgaifi
     verified: false
-    hashtags: "#comedia, #desabafo, #foryou, #coronavirus"
-  - username: "mafi.o.t"
+    hashtags: "#fyp, #comedia, #tiktokbrasil, #brasil"
+  - username: "andreabiancak"
     fullname: >-
-      Mafiot✨
+      Andrea Krișan
     bio: >-
-      Ig: mafi.o.t Don’t forget to smile🌙
+      Andrea Krisan 🎀🌹 25 🌹 balanță ♎ Instagram-> andreakrisan
     location: "Portugal"
-    followers: 3285
-    engagement: 1783
-    commentsToLikes: 0.026625
-    id: ckacaqocoh5780i78151002tw
+    followers: 13300
+    engagement: 561
+    commentsToLikes: 0.104379
+    id: ckbeyf4xfiy8l0j23a7xoy84f
     verified: false
-    hashtags: "#ft, #pv, #viral, #foryoupage"
+    hashtags: "#funny, #pentrutinepage, #cat, #fyp"
+  - username: "emilysanches_"
+    fullname: >-
+      Emily Sanches
+    bio: >-
+      🇧🇷 🇵🇹
+    location: "Portugal"
+    followers: 150700
+    engagement: 835
+    commentsToLikes: 0.011089
+    id: cka0uj5squi6k0i78iau4zuig
+    verified: false
+    hashtags: "#portugal, #lisboa, #fun, #divers"
 ---

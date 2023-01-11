@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In United States In 2022
+title: Top 10 Cyclists Instagram Influencers In United States In 2023
 description: >-
-  Find top cyclists Instagram influencers in United States in 2022. Most popular hashtags: #cycling #tuesday #photography.
+  Find top cyclists Instagram influencers in United States in 2023. Most popular hashtags: #cycling #cyclinglife #cyclingphotos.
 platform: Instagram
-hits: 179
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 179 Instagram influencers like this in United States for you to pitch.
+hits: 374
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 374 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "woutvanaert"
+  - username: "gloriavanmechelen"
     fullname: >-
-      Wout van Aert
+      Gloria Van Mechelen
     bio: >-
-      💍 Sarah 🚴‍♂️ Cyclist @jumbovisma_road 🚀 @RedBullBE athlete #GivesYouWings ✌🏼 Godfather of @towalkagain 🗣 'Stilstaan is achteruitgaan' #All4Goolie
+      🇱🇹🇧🇪 Cyclist for @cannibalteam tiktok: fruitybae
     location: "United States"
-    followers: 375307
-    engagement: 1308
-    commentsToLikes: 0.014181
-    id: ck0tw2nspdr8w0i192v7k3gis
-    verified: true
-    hashtags: "#samenwinnen, #comeback, #corona, #socialdistancing"
-  - username: "dr.gunnarsdottir"
-    fullname: >-
-      Cyclist & Psychologist
-    bio: >-
-      Cyclist 🚴🏻‍♀️ | Researcher | Psychologist 🤓| @hincapiesports @maurten_official @tifosioptics @irwincycling 📩 dr.gunnarsdottir@gmail.com
-    location: "United States"
-    followers: 41822
-    engagement: 289
-    commentsToLikes: 0.040546
-    id: ckaou127pybqy0i78lm16az2e
+    followers: 2406
+    engagement: 2045
+    commentsToLikes: 0.170805
+    id: ckapckyky48w60i786b5rzcvn
     verified: false
-    hashtags: "#active, #fitlife, #cyclinglife, #icelandisopen"
-  - username: "lukerowe1990"
-    fullname: >-
-      Luke Rowe
-    bio: >-
-      Cyclist Team Ineos ! Mega 👌🏻
-    location: "United States"
-    followers: 77075
-    engagement: 821
-    commentsToLikes: 0.008056
-    id: ck55p0bzi9jc20i119tnk9ell
-    verified: true
-    hashtags: "#gutter, #waffles"
-  - username: "zack_knudsen"
-    fullname: >-
-      z a c k | k n u d s e n
-    bio: >-
-      photog. husband. friend. son. brother. cat dad. husker vol. cyclist. • 📸 Sony A7iii • Canon AE-1 • 📍Nashville - quarantined
-    location: "United States"
-    followers: 5390
-    engagement: 729
-    commentsToLikes: 0.088892
-    id: ck5hpivm1rg1k0i11f4t23vhq
-    verified: false
-    hashtags: "#natgeoyourshot, #shows, #nashville, #usa"
-  - username: "lawsoncraddock"
-    fullname: >-
-      Lawson Craddock
-    bio: >-
-      Professional Cyclist for EF Education First Texas Forever
-    location: "United States"
-    followers: 33506
-    engagement: 653
-    commentsToLikes: 0.013765
-    id: ck0w5x8ry5vs40i19icr7dy6i
-    verified: false
-    hashtags: "#channel71, #choosecycling, #duckpower"
+    hashtags: "#nationalgeographic, #nature, #unreap, #fuckerfits"
   - username: "king_iz"
     fullname: >-
       Isabel King
     bio: >-
-      D1 soccer-> trading floor-> business school-> pro triathlete-> cyclist? Sure. Why not?? Ride bikes hard. Smile as much as possible. Wear orange. 🧡🚲⚡️
+      D1 soccer-> trading floor-> MBA-> pro triathlete-> cyclist? Sure. Why not try? Wear orange. Be fast and friendly. 🧡⚡️🚲 for @canyon_na
     location: "United States"
-    followers: 6637
-    engagement: 1297
-    commentsToLikes: 0.051325
+    followers: 11906
+    engagement: 1378
+    commentsToLikes: 0.042581
     id: ckaownu5i9nre0i78jt33ckl0
     verified: false
-    hashtags: "#climbmountains, #gofastdontdie, #staysilly, #thankful"
-  - username: "tejayvangarderen"
+    hashtags: "#climbmountains, #yikes, #selfinducedshortnessofbreath, #whosideawasthis"
+  - username: "woutvanaert"
     fullname: >-
-      Tejay van Garderen
+      Wout van Aert
     bio: >-
-      Cyclist for EF Education First. Sports fan (Love my Denver Broncos and Nuggets). Father of 2 amazing girls.
+      🤍 Georges 👶🏼 & Sarah 💍 🚴‍♂️ Cyclist @jumbovisma_road & @RedBullBE athlete ✌🏼 Godfather @towalkagain 🗣 'Stilstaan is achteruitgaan' #all4goolie
     location: "United States"
-    followers: 18179
-    engagement: 663
-    commentsToLikes: 0.015312
-    id: ck14giz1e5go20i19lp9mow6p
-    verified: false
-    hashtags: "#wellness, #zoom, #socialdistancing, #vittoria"
-  - username: "ayesuppose"
+    followers: 423441
+    engagement: 1470
+    commentsToLikes: 0.014928
+    id: ck0tw2nspdr8w0i192v7k3gis
+    verified: true
+    hashtags: "#covid, #newkitday, #staysafetogether, #nationals"
+  - username: "sarah_allthingsoutdoors"
     fullname: >-
-      Ayesha Rosena Anna McGowan 🦊
+      SARAH️️ | Cycling Adventures
     bio: >-
-      Pro Road Cyclist for Liv Racing | Advocate for better representation for POC in the bike industry. #AQuickBrownFox #RepresentationMatters #LivRacing
+      plant-based cyclist & outdoors lover exploring the world on two wheels 🚲 @iamspecialized | 🗺 @garmincycling 📩 sarah@outdoorsaffair.com 📍Los Angeles
     location: "United States"
-    followers: 31226
-    engagement: 516
-    commentsToLikes: 0.013876
-    id: ck5q09xud4z170i11xtmpdi8a
+    followers: 98046
+    engagement: 227
+    commentsToLikes: 0.043344
+    id: ck0vvwfj1r2lr0i19i5dtm7ug
     verified: false
-    hashtags: "#aquickbrownfox, #sponsored, #representationmatters, #theblackfoxes"
-  - username: "ryanatkinsdiet"
+    hashtags: "#specializedbikes, #maapapparel, #garmincycling, #maapinthefield"
+  - username: "clarahonsinger"
     fullname: >-
-      Ryan Atkins
+      Clara Honsinger
     bio: >-
-      Canadian 🇨🇦 Runner, climber, cyclist, OCR athlete, World Champion. Passionate about being outside and pushing myself.
+      Cyclist of Various Types
     location: "United States"
-    followers: 46362
-    engagement: 319
-    commentsToLikes: 0.015911
-    id: ck5hghoqo2tn20i11zzk46jmi
+    followers: 7421
+    engagement: 1548
+    commentsToLikes: 0.031901
+    id: ck5c4x1pc2ane0i11akfszhtg
     verified: false
-    hashtags: "#goldentrailchampionship, #battleofthefittest, #spartan, #spartanpro"
-  - username: "datpielife"
+    hashtags: "#cyclocross, #ucicyclocrossworldcup, #cannondalewomen, #etap"
+  - username: "thesparkledlife"
     fullname: >-
-      DPKxPIE
+      Eliz
     bio: >-
-      PADRE HUSBAND LA BASED PHOTOGRAPHER SOMETIME CYCLIST WANNABE CAR ENTHUSIAST BOOKING DM OR EMAIL ME. DPKXPIE@GMAIL.COM
+      product queen 👸🏻 adaptive cyclist ♿️🚲 living limitlessly while limited❤️ you are not alone🙌🏼
     location: "United States"
-    followers: 5876
-    engagement: 787
-    commentsToLikes: 0.026028
-    id: ck55n1g1i59ws0i11yo2s56eq
+    followers: 17901
+    engagement: 360
+    commentsToLikes: 0.133547
+    id: ck5q8cic65hrl0i11noutppct
     verified: false
-    hashtags: "#kookt"
+    hashtags: "#disabled, #recumbentbike, #chronicpain, #gsmd"
+  - username: "stefanoellea"
+    fullname: >-
+      Stefano LA
+    bio: >-
+      Adventure Cyclist 🌏 Athlete: @albaoptics @lookcycle @naliniciclo @prologo.official @_slopline_ @dmtcycling FOUNDER @assaultofreedom
+    location: "United States"
+    followers: 23328
+    engagement: 703
+    commentsToLikes: 0.039045
+    id: ck0vx12hnwlrl0i19zqu8qjap
+    verified: false
+    hashtags: "#mountainlovers, #road, #la, #outsideisfree"
+  - username: "ourthomasdekker"
+    fullname: >-
+      Thomas Dekker
+    bio: >-
+      Ex-Pro Cyclist 🚴🏼‍♂️ Bestselling Author 📚 Keynote Speaker 🎤 Always following the sun 🌞
+    location: "United States"
+    followers: 29487
+    engagement: 476
+    commentsToLikes: 0.043144
+    id: ck8sw03kvdca40j78n3u1m7nn
+    verified: true
+    hashtags: "#sworks"
+  - username: "mariannevosofficial"
+    fullname: >-
+      Marianne Vos
+    bio: >-
+      Fulltime-hobby-cyclist
+    location: "United States"
+    followers: 100953
+    engagement: 725
+    commentsToLikes: 0.012826
+    id: ck0u142j8vrb60i1977u5t6ee
+    verified: true
+    hashtags: "#ourblackandyellow, #livcommitted, #girorosa, #livcommited"
+  - username: "ceylinalvarado"
+    fullname: >-
+      C E Y L I N  C A R M E N 🇩🇴🇳🇱
+    bio: >-
+      Professional cyclist @alpecinfenix #huntinggoals #foodlover ♡ R.
+    location: "United States"
+    followers: 88715
+    engagement: 1258
+    commentsToLikes: 0.008931
+    id: ck55l7klr0xnl0i11nqtne1ka
+    verified: false
+    hashtags: "#canyoninflite, #mycanyon, #modderhappen, #gozwift"
 ---

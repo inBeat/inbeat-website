@@ -1,48 +1,48 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Los Angeles In 2022
+title: Top 10 Makeup Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top makeup Instagram influencers in Los Angeles in 2022. Most popular hashtags: #makeup #losangeles #beauty #fashion.
+  Find top makeup Instagram influencers in Los Angeles in 2023. Most popular hashtags: #makeup #losangeles #beauty #makeupartist.
 platform: Instagram
-hits: 618
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 618 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 589
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 589 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "celebbeforeafter"
+  - username: "andremarie_"
     fullname: >-
-      BeforeAfter
+      Andre • Marie
     bio: >-
-      Before/After celebrity pictures Celeb Transformations
+      LA ✨ Makeup 🦋 Inspire others <3 Other Account: @makeupwdre 🤍
     location: "United States"
-    followers: 229024
-    engagement: 634
-    commentsToLikes: 0.032606
-    id: ck5zsn96sytqm0i14sp7a7vem
+    followers: 2489
+    engagement: 1301
+    commentsToLikes: 0.044133
+    id: ckaorvdzmowzv0i78c502inao
     verified: false
-    hashtags: "#face, #instamood, #picoftheday, #instadaily"
-  - username: "bridgetzglam"
+    hashtags: "#la, #reels, #makeup, #losangeles"
+  - username: "glammedbyiggy"
     fullname: >-
-      BRIDGET MARTINEZ🦋
+      𝐆𝐋𝐀𝐌𝐌𝐄𝐃 𝐁𝐘 𝐈𝐆𝐆𝐘
     bio: >-
-      MUA|HAIR💄👸 LA🌴|🍊C ▪️Mobile 🚘✈🚢 📩bridgetmartinezmakeup@gmail.com
+      📍LA | Mobile Glam Services Enquiries: Text (831) 261-2855. TV & Film / Editorial / Red Carpet / Print / Makeup Lessons / Bodypaint #MUA #Makeupartist
     location: "United States"
-    followers: 50508
-    engagement: 62
-    commentsToLikes: 0.085975
-    id: ck5heik6st33p0i11wr7zftrm
+    followers: 8354
+    engagement: 408
+    commentsToLikes: 0.016421
+    id: ck14hsobebxmd0i19m4nxgcpc
     verified: false
-    hashtags: "#benifitcosmetics, #beauty, #makeup, #losangeles"
-  - username: "starring"
+    hashtags: "#glow, #makeuplooks, #mua, #makeupbyme"
+  - username: "tedgibson"
     fullname: >-
-      STARRING By Ted Gibson
+      Ted Gibson
     bio: >-
-      Starring By @tedgibson #salon #products #experience 323.413.2244 starring.tedgibson.com
+      @STARRING By @tedgibson #starringsalonconcept #salon #products agent kelly@tmg-la.com #LOSANGELES
     location: "United States"
-    followers: 33607
-    engagement: 183
-    commentsToLikes: 0.156577
-    id: ck5hdv9kmpjpn0i11mmg06tfn
-    verified: false
-    hashtags: "#tedgibsonhair, #shootingstar, #texturemeringue, #instahair"
+    followers: 264809
+    engagement: 113
+    commentsToLikes: 0.279681
+    id: ck5hdv92ipjnw0i11b1f19hdi
+    verified: true
+    hashtags: "#shootingstar, #curlingiron, #life, #haircrush"
   - username: "elviraisqueen"
     fullname: >-
       Elvira Photos, Updates & More
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.019484
     id: ck6tn5kmv96f80j71wuipcgms
     verified: false
-    hashtags: "#elvirameme, #covid19, #elvirus, #queen"
-  - username: "charlotte_prevel"
+    hashtags: "#ageless, #elvirafans, #stayhome, #cassandrapeterson"
+  - username: "maximignite"
     fullname: >-
-      Charlotte Prevel
+      M a x i m   S l o b o d i a n
     bio: >-
-      Make-up artist Represented by The Visionaries Agency @thevisionariesagency Booking: yan@thevisionariesagency.com
+      👽 On a mission to share the Sky with 1,000,000 souls and ignite your life forever. We all can touch the sky ✋🏽⛅️✨
     location: "United States"
-    followers: 6061
-    engagement: 96
-    commentsToLikes: 0.048366
-    id: ck601bijgf6n20i144j8u1acz
+    followers: 153255
+    engagement: 481
+    commentsToLikes: 0.015970
+    id: ck601on30fvyr0i14a4vcetvh
     verified: false
-    hashtags: "#makeup, #losangeles, #vogueme, #beautystory"
-  - username: "kinyaclaiborne"
-    fullname: >-
-      STYLE & SOCIETY Magazine
-    bio: >-
-      Style Influencer & Content Creator Fashion•Foodie•Travel•Lifestyle•Editor-in-Chief 🙋🏾‍♀️Founder @STYLEANDSOCIETY 💌 bookings@styleandsociety.com
-    location: "United States"
-    followers: 97411
-    engagement: 244
-    commentsToLikes: 0.102767
-    id: ck0ubm5pjevw20i19mtdav4nr
-    verified: false
-    hashtags: "#luxuryhotel, #restaurant, #culinary, #fallfeels"
-  - username: "glam.sophie"
-    fullname: >-
-      🇱🇧صوفي ال زين🇺🇸
-    bio: >-
-      Tiktok- glam.sophiee Personal Insta @elzein95_ 💌 glam.fammm@yahoo.com
-    location: "United States"
-    followers: 56196
-    engagement: 169
-    commentsToLikes: 0.071283
-    id: ck8wcy8bsd5tg0j78w7bswfu8
-    verified: false
-    hashtags: "#glowing, #california, #cold, #darkhair"
-  - username: "simplyhollywooddriven"
-    fullname: >-
-      JENNIFER
-    bio: >-
-      
-    location: "United States"
-    followers: 27042
-    engagement: 141
-    commentsToLikes: 0.035957
-    id: ck14izqnchxdw0i19kdaxx3ol
-    verified: false
-    hashtags: "#scoutme, #curvywoman, #instagram, #nativeamerican"
-  - username: "pixiequinncosplay"
-    fullname: >-
-      Amanda
-    bio: >-
-      ✨Cosplayer & Time Traveler ✨All Opinions Expressed Are My Own ✨Inquiries: Pixiedust0623@gmail.com ✨Add me on TikTok: Pixiequinncosplay
-    location: "United States"
-    followers: 45568
-    engagement: 190
-    commentsToLikes: 0.039989
-    id: ck134z4oxywi80i19ci1v0zj7
-    verified: false
-    hashtags: "#vampire, #cosplaygirl, #fbf, #wcw"
+    hashtags: "#instagood, #insta, #sunrise, #gopro"
   - username: "patricialemakeup"
     fullname: >-
       ᴘᴀᴛʀɪᴄɪᴀ ʟᴇ
     bio: >-
-      ʙᴇᴀᴜᴛʏ ɪɴғʟᴜᴇɴᴄᴇʀ ʟᴏs ᴀɴɢᴇʟᴇs📍 ɴoтιғιcαтιoɴѕ 🆕 ᴘʀᴏ ᴀʀᴛɪsᴛ @KevynAucoin ᴇᴅᴜᴄᴀᴛɪᴏɴ & ᴛʀᴀɪɴᴇʀ @BeautyFashionSales ᴍᴀᴋᴇ ᴜᴘ & ʜᴀɪʀ ⬇️ᴘʀ-sᴘᴏɴsᴇʀ-ʀᴀᴛᴇ⬇️
+      ᴄᴏsᴍᴇᴛɪᴄ ᴄᴏɴsᴜʟᴛᴀɴᴛ ʟᴏs ᴀɴɢᴇʟᴇs📍 ɴoтιғιcαтιoɴѕ 🆕 ᴍᴀᴋᴇ ᴜᴘ & ʜᴀɪʀ ⬇️ᴘʀ-sᴘᴏɴsᴇʀ-ʀᴀᴛᴇ⬇️
     location: "United States"
-    followers: 99500
-    engagement: 262
-    commentsToLikes: 0.018694
+    followers: 92685
+    engagement: 302
+    commentsToLikes: 0.027158
     id: ckf5xk1bfvxes0j23pwfuw88k
     verified: false
-    hashtags: "#cosmetic, #saytheirnames, #makeupobsessed, #makeupaddict"
+    hashtags: "#beauty, #makeupaddiction, #fbf, #makeuptutorial"
+  - username: "eexla"
+    fullname: >-
+      Alexander
+    bio: >-
+      Makeup Artist | Los Angeles Book: contacteexla@gmail.com Nail Page @eexlanails
+    location: "United States"
+    followers: 47069
+    engagement: 341
+    commentsToLikes: 0.039170
+    id: ck0ub1tfddjdb0i19x44nntay
+    verified: false
+    hashtags: ""
+  - username: "livmadorma"
+    fullname: >-
+      olivia
+    bio: >-
+      makeup artist los angeles, ca 📍 dog mommy to @pestopaul
+    location: "United States"
+    followers: 26154
+    engagement: 525
+    commentsToLikes: 0.053073
+    id: ck5hjf11igifw0i114525vvve
+    verified: false
+    hashtags: "#ipsypartner, #coverfxpartner"
+  - username: "indigorusnak"
+    fullname: >-
+      indigo
+    bio: >-
+      ✿ makeup designory los angeles graduate ✿ personal ig/tiktok: @psilocindigo ✿ business email: brusnakmakeup@gmail.com
+    location: "United States"
+    followers: 32195
+    engagement: 338
+    commentsToLikes: 0.016140
+    id: ck0w2hsg9ofl30i19mmsu3wb1
+    verified: false
+    hashtags: "#neon, #editorial, #graphiceyeliner, #tiktok"
+  - username: "ariannachayleneblean"
+    fullname: >-
+      Arianna Chaylene Blean
+    bio: >-
+      Hairstylist ✨ Makeup Artist | Los Angeles Management: v@rare.global | @rare.creatives 💌ariannablean@yahoo.com
+    location: "United States"
+    followers: 32920
+    engagement: 66
+    commentsToLikes: 0.122529
+    id: ck6u4w7zo652o0j71qew3v65p
+    verified: false
+    hashtags: "#photoshoot, #benefitcosmetics, #mermaid, #hudabeauty"
 ---

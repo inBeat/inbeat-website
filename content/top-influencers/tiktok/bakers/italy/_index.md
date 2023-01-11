@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Italy In 2022
+title: Top 10 Bakers TikTok Influencers In Italy In 2023
 description: >-
-  Find top bakers TikTok influencers in Italy in 2022. Most popular hashtags: #perte #neiperte #foryou #bikers.
+  Find top bakers TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #fyp #neiperte.
 platform: TikTok
-hits: 16
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 16 TikTok influencers like this in Italy for you to work with.
+hits: 11
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 11 TikTok influencers like this in Italy for you to contact.
 profiles:
-  - username: "dolcegabbana"
-    fullname: >-
-      Dolce & Gabbana
-    bio: >-
-      Are you #DGEnough ? #DGTikTok
-    location: "Italy"
-    followers: 169900
-    engagement: 1023
-    commentsToLikes: 0.006664
-    id: ck8w5i3via1s20j78tlc1c3do
-    verified: true
-    hashtags: ""
   - username: "emiliobove"
     fullname: >-
       Emilio Bove ✨
     bio: >-
       🇮🇹16🇫🇷 🦋account di cucina: emilio.bakery🦋 👇🏻My IG👇🏻
     location: "Italy"
-    followers: 83200
-    engagement: 1423
-    commentsToLikes: 0.034585
+    followers: 82000
+    engagement: 1380
+    commentsToLikes: 0.030502
     id: ck9np2ctewvqa0j78tm2lyrwt
     verified: false
-    hashtags: "#duet, #foryou, #covid19, #fantasy"
-  - username: "robiscianna.13.motard"
-    fullname: >-
-      Roberta  Scianna 
-    bio: >-
-      📍Palermo💙 ⚠️🏍Drz 400 Sm 🏍⚠️ ❤️20 Years Old☀️ 🔜🔒 10 K 🔒🔙
-    location: "Italy"
-    followers: 8851
-    engagement: 1813
-    commentsToLikes: 0.016356
-    id: ckae1m1gmpetf0i78044e02qr
-    verified: false
-    hashtags: "#motorbike, #me, #motovideo, #robivlog"
-  - username: "bluhelmet"
-    fullname: >-
-      BLU HELMET
-    bio: >-
-      💙 𝑩𝑳𝑼 𝑯𝑬𝑳𝑴𝑬𝑻 💙 [𝐏𝐑𝐔𝐃𝐄𝐍𝐙𝐀 𝐒𝐔𝐋𝐋𝐄 𝐃𝐔𝐄 𝐑𝐔𝐎𝐓𝐄]
-    location: "Italy"
-    followers: 7194
-    engagement: 891
-    commentsToLikes: 0.042881
-    id: ckcufaxrpelgr0j23jd09lmzb
-    verified: false
-    hashtags: "#motorlife, #viral, #walkyourwonderful, #instaxinspo"
+    hashtags: "#foryou, #covid19, #duet, #top"
   - username: "biker86"
     fullname: >-
       biker86
     bio: >-
       appassionato di moto, biker for life!!!
     location: "Italy"
-    followers: 3238
-    engagement: 442
-    commentsToLikes: 0.009716
+    followers: 3252
+    engagement: 472
+    commentsToLikes: 0.011904
     id: cka0ivvx0fh5m0i78ibqi18dz
     verified: false
-    hashtags: "#love, #r1, #foryou, #biker"
-  - username: "yamaha.yzf.r3"
+    hashtags: "#love, #bikers, #friends, #perte"
+  - username: "pasticceriareina"
+    fullname: >-
+      boss del panettone
+    bio: >-
+      Il boss del panettone Pasticceria Reina
+    location: "Italy"
+    followers: 7646
+    engagement: 1162
+    commentsToLikes: 0.042631
+    id: ckcul11drh2k50j23z0rihw8w
+    verified: false
+    hashtags: "#pasticceria, #foodie, #perte, #cake"
+  - username: "dalila.dimmito"
+    fullname: >-
+      🕷ᴅᴀʟɪʟᴀ.ᴅɪᴍᴍɪᴛᴏ🕷
+    bio: >-
+      𝟸𝟷📍𝚃𝚘𝚛𝚒𝚗𝚘 👩‍🍳𝓹𝓪𝓼𝓽𝓲𝓬𝓬𝓮𝓻𝓪👩‍🍳 🤸‍♀️𝓰𝔂𝓶🤸‍♀️ 🎮𝓰𝓪𝓶𝓮𝓻
+    location: "Italy"
+    followers: 35500
+    engagement: 924
+    commentsToLikes: 0.023004
+    id: ck8toz1l5okhr0j78kvdoh9wo
+    verified: false
+    hashtags: "#fyp, #trend, #foryou, #greenscreen"
+  - username: "sirgib17"
     fullname: >-
       Alessandro
     bio: >-
-      Yamaha YZF-R3
+      
     location: "Italy"
-    followers: 6256
-    engagement: 1079
-    commentsToLikes: 0.019683
+    followers: 6236
+    engagement: 1043
+    commentsToLikes: 0.018855
     id: ckcd8yysu3gdy0j23n4xyp7dm
     verified: false
-    hashtags: "#kawasakininja, #yzfr3, #yzf, #xt"
-  - username: "_duke__boy_"
+    hashtags: "#xt660, #yzfr3, #summer, #yamaha"
+  - username: "_call.me.lord_"
     fullname: >-
-      Duke Boy
+      DANI€L€
     bio: >-
-      Italy 🇮🇹 Verona
+      𝗕𝗲 𝗙𝗶𝘁 🏋🏼 𝗕𝗲 𝗦𝘁𝗿𝗼𝗻𝗴 💪🏻 𝗕𝗲 𝗛𝗮𝗽𝗽𝘆 😁
     location: "Italy"
-    followers: 6039
-    engagement: 1176
-    commentsToLikes: 0.013183
-    id: ckae1uhb4qk9j0i789b9keal1
+    followers: 7146
+    engagement: 983
+    commentsToLikes: 0.053267
+    id: ckcufaxrpelgr0j23jd09lmzb
     verified: false
-    hashtags: "#ktm, #querly, #wheelie, #grenzgaenger"
-  - username: "benz_etti"
-    fullname: >-
-      Benz
-    bio: >-
-      🇮🇹Perugia,Italy 🇮🇹 🎂18/06/1999🎂 🖤Moto e Macchine🖤
-    location: "Italy"
-    followers: 4296
-    engagement: 643
-    commentsToLikes: 0.022302
-    id: ckad64cr8y2zt0i78hhk3r6jv
-    verified: false
-    hashtags: "#tuttifratelli, #motorbike, #top, #italia"
-  - username: "food_lover.it"
-    fullname: >-
-      Nutella & Food
-    bio: >-
-      Account ufficiale di Nutella & Food Per pubblicità: sdpsocialmedia1@gmail.com
-    location: "Italy"
-    followers: 10421
-    engagement: 1296
-    commentsToLikes: 0.024137
-    id: ck8vx6henqbnw0j78ctalf8mx
-    verified: false
-    hashtags: "#tiktok, #pertee, #nutella, #tiktokfood"
+    hashtags: "#vibes, #biker, #bluhelmet, #duetto"
   - username: "pepenymi"
     fullname: >-
       PEPE nymi
     bio: >-
       Integrated Communication Agency Idea developers and funny people 📍Milan, Italy
     location: "Italy"
-    followers: 4548
-    engagement: 594
-    commentsToLikes: 0.023098
+    followers: 4561
+    engagement: 620
+    commentsToLikes: 0.024936
     id: ckbfdnlp8723q0j23jzklz10k
     verified: false
-    hashtags: "#bookcover, #bookclub, #books, #bookchallenge"
+    hashtags: "#booktok, #stopmotion, #stopmotionkitchen, #booklovers"
+  - username: "onlyjohnold"
+    fullname: >-
+      Only John
+    bio: >-
+      ❌⚠️CANALE INATTIVO⚠️❌
+    location: "Italy"
+    followers: 23400
+    engagement: 1243
+    commentsToLikes: 0.014170
+    id: ckbkquhp4la7p0j23pondcwkz
+    verified: false
+    hashtags: "#motovlog, #wtfmoment, #biker, #riding"
+  - username: "videobikers46"
+    fullname: >-
+      Bikers
+    bio: >-
+      instagram: videobikers46
+    location: "Italy"
+    followers: 19300
+    engagement: 1429
+    commentsToLikes: 0.029508
+    id: ckcvjfg57wuap0j23ffia1cun
+    verified: false
+    hashtags: "#respectbikers, #neiperte, #respect, #tuttifrattelli"
+  - username: "mellbabee"
+    fullname: >-
+      mellbabee
+    bio: >-
+      ❄️MELL.❄️ ✍🏻✂️
+    location: "Italy"
+    followers: 41300
+    engagement: 1178
+    commentsToLikes: 0.031407
+    id: ck9a7bjzk6ws50j78axbqxiyk
+    verified: false
+    hashtags: "#diy, #perte, #disegno, #bratzchallenge"
 ---

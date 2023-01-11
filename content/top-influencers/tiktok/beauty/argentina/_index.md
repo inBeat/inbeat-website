@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Argentina In 2022
+title: Top 10 Beauty TikTok Influencers In Argentina In 2023
 description: >-
-  Find top beauty TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #argentina #foryou.
+  Find top beauty TikTok influencers in Argentina in 2023. Most popular hashtags: #argentina #makeup #beautytips #fyp.
 platform: TikTok
-hits: 36
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 36 TikTok influencers like this in Argentina for you to work with.
+hits: 32
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 32 TikTok influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "barbimontanari"
-    fullname: >-
-      Barbi
-    bio: >-
-      💋Make Up & Recomendations💋 Ig: @beautybybarbim ✨19✨ 🇦🇷
-    location: "Argentina"
-    followers: 9494
-    engagement: 814
-    commentsToLikes: 0.017973
-    id: ckbf1ctafnfar0j23vwdv7e1c
-    verified: false
-    hashtags: "#tutorial, #makeup, #maquillaje, #tips"
-  - username: "martiscaglione09"
-    fullname: >-
-      Martina Scaglione
-    bio: >-
-      Madrastra 👨‍👩‍👧‍👦 Agente de viajes 🌍 IG: @aMARtuviaje Consultora Just 🇨🇭
-    location: "Argentina"
-    followers: 9273
-    engagement: 407
-    commentsToLikes: 0.012998
-    id: ckbl80grc5o7w0j233eye4xsj
-    verified: false
-    hashtags: "#nuskin, #tipscocina, #lumispa, #cuarentena"
   - username: "byandreamakeup"
     fullname: >-
       Maquilladora
     bio: >-
-      CLASES DE MAQUILLEJE GRATIS 👇
+      CLASES DE MAQUILLEJE 👇
     location: "Argentina"
-    followers: 35100
-    engagement: 1528
-    commentsToLikes: 0.048661
+    followers: 36800
+    engagement: 1179
+    commentsToLikes: 0.049829
     id: ckb99s7wfua390j23drdb01zm
     verified: false
-    hashtags: "#makeuphallowen, #maquillajehalloween, #makeupartist, #maquillajefacil"
-  - username: "madmeok"
+    hashtags: "#soycreador, #makeuptutorial, #makeup, #beautytips"
+  - username: "cande.copello"
     fullname: >-
-      AGUS MANCINI
+      Cande💓
     bio: >-
-      Argentina 🇦🇷 Cantante/bailarina/maquilladora HAGO HUMOR CON EL MAKEUP 🤡
+      Argentina 🇦🇷 Contacto: copellocandelaria0@gmail.com Mi tienda Online..👀👇🏻
     location: "Argentina"
-    followers: 708600
-    engagement: 2286
-    commentsToLikes: 0.015817
-    id: ckdsqr0y7ot2y0j23h8f4u4vt
-    verified: false
-    hashtags: "#fx, #lipstick, #halloween, #reaccion"
-  - username: "gretlusky"
+    followers: 5600000
+    engagement: 1993
+    commentsToLikes: 0.010487
+    id: ck8qgjngw153t0j78ahil9agp
+    verified: true
+    hashtags: "#beautytips, #makeup, #maquillaje, #dtleyeofficial"
+  - username: "carmelacastroruiz"
     fullname: >-
-      Gretel Lusky
+      🦋 CARMU 💥
     bio: >-
-      I’m Gret. Artist & mermaid enthusiast. Find me on Insta/Twitter! Links below ✨
+      te comparto mi universo y todos mis tips 👠🔥 +contenido IG @carmelacastroruiz
     location: "Argentina"
-    followers: 223700
-    engagement: 2260
-    commentsToLikes: 0.006828
-    id: ckd6jstdvd2lv0j234a1usgoj
+    followers: 346400
+    engagement: 1372
+    commentsToLikes: 0.013899
+    id: ckdhq13gv1lgz0j231ubt98sn
     verified: false
-    hashtags: "#illustration, #drawingprogress, #traditionalart, #ohuhu"
+    hashtags: "#modeloprofesional, #trip, #fashionweek, #pasarela"
+  - username: "meriorueok"
+    fullname: >-
+      Meri Orue
+    bio: >-
+      Sígueme en Kwai estoy subiendo contenido exclusivo 🙃🥰 ⬇️⬇️⬇️
+    location: "Argentina"
+    followers: 629600
+    engagement: 1109
+    commentsToLikes: 0.054892
+    id: ckaib6pd3f8e80i783kw2nu9z
+    verified: false
+    hashtags: "#haulavellaneda, #viral, #avellaneda, #avavellaneda"
   - username: "melercoli"
     fullname: >-
       Mel 
     bio: >-
       📸Photographer based in Buenos Aires,Argentina🇦🇷 Consultas por instagram
     location: "Argentina"
-    followers: 48100
-    engagement: 1829
-    commentsToLikes: 0.018172
+    followers: 47000
+    engagement: 1832
+    commentsToLikes: 0.014028
     id: cka6p5b7ei9jm0i781wfw7oq5
     verified: false
-    hashtags: "#fotografocheck, #fotografia, #photography101, #argentina"
-  - username: "tsukichan34"
+    hashtags: "#photography101, #fyp, #photography, #qanda"
+  - username: "muneki77a"
     fullname: >-
-      MaNa0s uVA uwu
+      MUÑEKI77A
     bio: >-
-      zoy una MaNaOs UvA uwuwu sigueme en mi insta :D palta con cebolla ._.
+      soy Naomi Preizler Toda mi música en Spotify y YouTube ig @muneki77a_
     location: "Argentina"
-    followers: 6648
-    engagement: 2522
-    commentsToLikes: 0.036109
-    id: ck9eq94cmw56h0j78qbzrexbs
-    verified: false
-    hashtags: "#likes, #ocdetsuki, #art, #fyp"
-  - username: "bigairfactory"
-    fullname: >-
-      BigAir Factory
-    bio: >-
-      CREATIVE AGENCY 🌎🎥 Based in Europe from Patagonia Instagram 📷 @bigair_factory
-    location: "Argentina"
-    followers: 8311
+    followers: 293300
     engagement: 1063
-    commentsToLikes: 0.043818
-    id: ckcdvc3a6eyw20j23t2kh3s5s
+    commentsToLikes: 0.012801
+    id: ckce62aj0kcqd0j23ckd1934p
+    verified: true
+    hashtags: "#tokyo, #modellife, #vintage, #style"
+  - username: "coherenciaporfavor"
+    fullname: >-
+      Coherencia por favor
+    bio: >-
+      Criticar, combatir y luchar contra el aburrimiento y contra los pacatos.
+    location: "Argentina"
+    followers: 71600
+    engagement: 1212
+    commentsToLikes: 0.017216
+    id: ckdtkhxnqy9570j23o45axfil
     verified: false
-    hashtags: "#winter, #explore, #travel, #skiing"
+    hashtags: "#ironia, #covid19, #covid, #gracioso"
   - username: "vivi.sung"
     fullname: >-
       Vivi Sung
     bio: >-
       
     location: "Argentina"
-    followers: 5490
-    engagement: 1142
-    commentsToLikes: 0.016190
+    followers: 5409
+    engagement: 1137
+    commentsToLikes: 0.015716
     id: cka0xdo1n6ott0i78x9wbbyms
     verified: false
-    hashtags: "#cuarentena, #taiwan, #coronavirus, #argentina"
-  - username: "agusboccaloni"
+    hashtags: "#korea, #cuarentena, #argentina, #taiwan"
+  - username: "bigairfactory"
     fullname: >-
-      agus
+      BigAir Factory
     bio: >-
-      18. 🇦🇷 seguime en instagram @agus_boccaloni ;)
+      CREATIVE AGENCY 🌎🎥 Based in Europe from Patagonia Instagram 📷 @bigair_factory
     location: "Argentina"
-    followers: 36900
-    engagement: 1510
-    commentsToLikes: 0.018609
-    id: ckb9idyy28ooj0j23lx1539o3
+    followers: 8420
+    engagement: 1054
+    commentsToLikes: 0.044082
+    id: ckcdvc3a6eyw20j23t2kh3s5s
     verified: false
-    hashtags: "#foryou, #fyp, #chile, #duet"
+    hashtags: "#paraiso, #nature, #volar, #gopro"
+  - username: "kalanitbeauty"
+    fullname: >-
+      Kalanit Beauty
+    bio: >-
+      Make Up, Skin Care & Uñas 💅 #Hipoalergénicos Envios a todo el pais 🇦🇷
+    location: "Argentina"
+    followers: 32100
+    engagement: 1540
+    commentsToLikes: 0.019288
+    id: ckcps98lqmeif0j234uvv9gfu
+    verified: false
+    hashtags: "#skincare, #manicuria, #kalanitbeauty, #kalanit"
 ---

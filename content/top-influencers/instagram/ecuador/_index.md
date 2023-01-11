@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Ecuador In 2022
+title: Top 10 Instagram Influencers In Ecuador In 2023
 description: >-
-  Find top Instagram influencers in Ecuador in 2022. Most popular hashtags: #instagood #photography #estilo.
+  Find top Instagram influencers in Ecuador in 2023. Most popular hashtags: #ecuador #photooftheday #instagood.
 platform: Instagram
-hits: 25
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 25 Instagram influencers like this in Ecuador for you to work with.
+hits: 20
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 20 Instagram influencers like this in Ecuador for you to collaborate.
 profiles:
-  - username: "gioandradecruz"
+  - username: "6susanagonzalez"
     fullname: >-
-      Gio Andrade 🧜🏻‍♀️
+      Susana González
     bio: >-
-      La loca mas cool 🥴 Quito- Ecuador 🇪🇨 Sesiones y colab al DM
+      • Prefecta del Guayas 🇪🇨 • Pensamiento 💭 corazón ♥️ acción 💪 • #liderarconsentidocomún
     location: "Ecuador"
-    followers: 18615
-    engagement: 1163
-    commentsToLikes: 0.089906
-    id: ck0w4spu5084o0i19r8wbtbyd
-    verified: false
-    hashtags: ""
-  - username: "anngiecueva211_"
+    followers: 331604
+    engagement: 104
+    commentsToLikes: 0.034077
+    id: ck0w6tv77aa030i19i3kye985
+    verified: true
+    hashtags: "#2023, #eldragadovaporqueva, #rayatoditititola6, #guayasrenacecontigo"
+  - username: "solange_azuero"
     fullname: >-
-      𝓐𝓷𝓷𝓰𝓲𝓮 𝓑𝓮𝓵𝓮𝓷 𝓒𝓾𝓮𝓿𝓪. ✎
+      Solange Azuero🌻🥑
     bio: >-
-      Cuenca-Ecuador 𝑆𝑐: 𝑏𝑒𝑙𝑒𝑛_𝑐𝑢𝑒𝑣𝑎 👻 Mi página 🥧 @sugarbloom_ec 𝑱𝒖𝒓𝒊𝒔𝒑𝒓𝒖𝒅𝒆𝒏𝒄𝒊𝒂 ⚖️ 𝔼𝕔𝕦𝕒𝕕𝕠𝕣 🇪🇨 ㊉20 ყᥱᥲrs oᥣd🥳💡
+      •Comunicación •Lifestyle •Modelo #fail • I don't believe in Humans👽 •EC •23 También hago postres❣️⬇️
     location: "Ecuador"
-    followers: 13328
-    engagement: 1293
-    commentsToLikes: 0.110404
-    id: ck0w4sjhi075k0i19poad220t
+    followers: 13126
+    engagement: 953
+    commentsToLikes: 0.041327
+    id: ck0w4spiv081n0i19487feo7i
     verified: false
-    hashtags: ""
+    hashtags: "#photooftheday, #instamoment, #quito, #ecuador"
   - username: "valentin_carvajal"
     fullname: >-
       Valentin Carvajal
     bio: >-
       Valentime🎵 Contactos : valentinpiedra27@gmail.com YouTube:
     location: "Ecuador"
-    followers: 92608
-    engagement: 1319
-    commentsToLikes: 0.019788
+    followers: 89722
+    engagement: 1309
+    commentsToLikes: 0.019158
     id: ck13aiyqzqlqi0i19ifmppa4y
     verified: false
-    hashtags: "#historiasdemicasa, #educacio, #alferiadoconcuidado, #consumelonuestroec"
-  - username: "solange_azuero"
+    hashtags: "#aecuadorlosacamostodos, #juntosecuador, #porunecuadormejor, #mallvirtual"
+  - username: "gioandradecruz"
     fullname: >-
-      Solange Azuero🌻🥑
+      Gio Andrade 🧜🏻‍♀️
     bio: >-
-      •Comunicación •Lifestyle •Intento de modelo y actriz😂 #fail I don't believe in Humans👽 •EC🇪🇨| 🎂🎃|22 (Por DM cualquier cosa) También hago postres❣️⬇️
+      La loca mas cool 🥴 Quito- Ecuador 🇪🇨 Sesiones y colab al DM
     location: "Ecuador"
-    followers: 13296
-    engagement: 885
-    commentsToLikes: 0.067053
-    id: ck0w4spiv081n0i19487feo7i
+    followers: 25179
+    engagement: 1332
+    commentsToLikes: 0.019028
+    id: ck0w4spu5084o0i19r8wbtbyd
     verified: false
-    hashtags: "#cuarentenacreativa, #quito, #cuarentenatime, #photooftheday"
-  - username: "kikejav"
-    fullname: >-
-      KikeJav
-    bio: >-
-      Made in Ecuador 🇪🇨 Actor en @los_morales.ec Contacto: kikejavcontacto@gmail.com Que más yerno Querías👇
-    location: "Ecuador"
-    followers: 473702
-    engagement: 1526
-    commentsToLikes: 0.022679
-    id: ck14gh2s356yc0i19e2kupxk7
-    verified: false
-    hashtags: "#elegancia, #terno, #cafe, #mamas"
-  - username: "mat_carvajal"
-    fullname: >-
-      Mateo Carvajal
-    bio: >-
-      Vive a tu manera🍁 Se feliz 💫 Creador de Contenido 💥 Contratos: mateo.poedra@gmail.com Mi ultimo video de YouTube:
-    location: "Ecuador"
-    followers: 40812
-    engagement: 1579
-    commentsToLikes: 0.013277
-    id: ck13aizu6qlu90i19ggeme3wz
-    verified: false
-    hashtags: "#photography, #lifestyle, #instagood, #estilo"
-  - username: "gisley_stefany_oficial"
-    fullname: >-
-      Gisley stefany
-    bio: >-
-      ●Cantante 🎤 ● 🇪🇨♥️ ● Siganme en mi fanpage "Gisley" siempre subo videos ❤ ● 📲: 0979397542 ● Publicidad/ DM ● Correo: Gisley.1999@hotmail.com
-    location: "Ecuador"
-    followers: 41958
-    engagement: 333
-    commentsToLikes: 0.013497
-    id: ck0w1glyvj8ux0i19uolrccli
-    verified: false
-    hashtags: "#que, #losamo, #losaamo, #cantando"
+    hashtags: "#monta"
   - username: "gianpieromusic"
     fullname: >-
       G I A N P I E R O
     bio: >-
-      ▪️Cantautor 🇪🇨 ▪️@borkisec ▪️El que canta “Serena” ▪️Contrataciones: jlopez@borkis.com ▪️(593)997-176267
+      ▪️Cantautor 🇪🇨 ▪️El que canta “Serena” ▪️Contrataciones: jlopez@borkis.com ▪️(593)997-176267
     location: "Ecuador"
-    followers: 32264
-    engagement: 112
-    commentsToLikes: 0.048171
+    followers: 32905
+    engagement: 238
+    commentsToLikes: 0.043352
     id: ck13adeuapu7d0i19fkfhf4et
     verified: false
-    hashtags: "#scooterlife, #guayaquildemiscanciones, #guayaquil, #juanpueblo"
-  - username: "gracecastroruiz"
+    hashtags: "#grand, #efrainruales, #alfredito, #rosasrojas"
+  - username: "amelinaespinosa"
     fullname: >-
-      GRACE CASTRO🌻👑
+      Amelina Espinosa
     bio: >-
-      •PRESENTADORA 🎤 •INFLUYENTE🌈 •MODELO (ROSTRO ECUADOR 2015) •LA GACELA •BLN💙❤️ 8va 9na TEMP •COMBATE 7ma y 8va TEMP🧡 •CLAVADOS🇪🇨 •COMUNICACIÓN SOCIAL📚
+      🎥 Tv Host 📺 Reportera 🎤 Presentadora de eventos 🌎Traveler 🇪🇨 Ambateña 📍#Quito-#Ecuador
     location: "Ecuador"
-    followers: 447987
-    engagement: 648
-    commentsToLikes: 0.004539
-    id: ck14itelqh2vy0i19dz6iu8uc
+    followers: 31433
+    engagement: 622
+    commentsToLikes: 0.037532
+    id: ck136mf5477ja0i19inu39xwp
     verified: false
-    hashtags: "#37weekspregnant"
+    hashtags: "#picoftheday, #tbt, #quito, #news"
   - username: "marecevallos"
     fullname: >-
       Mare Cevallos
     bio: >-
-      Actriz que canta y locuta #endthestigma 🇪🇨
+      Actriz de música y magia #endthestigma 🇪🇨
     location: "Ecuador"
-    followers: 678156
-    engagement: 140
-    commentsToLikes: 0.010726
+    followers: 683334
+    engagement: 122
+    commentsToLikes: 0.008244
     id: ck0w6u15uaaln0i19vlfbfekl
     verified: false
-    hashtags: "#nomasestigma, #ellapuede, #conosinperiodo, #fielatucabello"
+    hashtags: "#elteatrocci, #vivalabonita, #meduelesecuador"
+  - username: "ricardovelastegui"
+    fullname: >-
+      Ricardo Velástegui
+    bio: >-
+      Actor - Director 📸 Viviendo el Sueño #ricardovelastegui Ecuador 🇪🇨
+    location: "Ecuador"
+    followers: 77312
+    engagement: 302
+    commentsToLikes: 0.011452
+    id: ck136om1t7huz0i19se5rm1rd
+    verified: false
+    hashtags: "#minutofinalpelicula, #finalminutemovie, #gounlocked, #moviejukie"
+  - username: "gracecastroruiz"
+    fullname: >-
+      GRACE CASTRO🌻👑
+    bio: >-
+      •PRESENTADORA & REPORTERA🎤 •LA GACELA •COMBATE🧡 •BLN💙❤️ •INFLUYENTE🌈 •MODELO PROFESIONAL👑 • 👇🏻 INGRESA!! Y GANA DINERO💰
+    location: "Ecuador"
+    followers: 539175
+    engagement: 385
+    commentsToLikes: 0.010606
+    id: ck14itelqh2vy0i19dz6iu8uc
+    verified: false
+    hashtags: ""
+  - username: "art_cncoec"
+    fullname: >-
+      Eliana
+    bio: >-
+      Artist 20 ❤ Ecuador 🇪🇨
+    location: "Ecuador"
+    followers: 9949
+    engagement: 215
+    commentsToLikes: 0.018163
+    id: ck14i55vfdow10i199xsqiv9z
+    verified: false
+    hashtags: "#art, #artist, #artec, #drawing"
 ---

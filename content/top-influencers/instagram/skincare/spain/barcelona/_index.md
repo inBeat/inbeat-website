@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Barcelona In 2022
+title: Top 10 Skincare Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top skincare Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #skincare #family #beauty.
+  Find top skincare Instagram influencers in Barcelona in 2023. Most popular hashtags: #skincare #barcelona #beauty #moda.
 platform: Instagram
-hits: 32
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 32 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 23
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 23 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
+  - username: "andrea_m_m"
+    fullname: >-
+      A
+    bio: >-
+      📍 Barcelona 🌱 slow life | veganism | consciousness ▫️ collab - DM / mail
+    location: "Spain"
+    followers: 24435
+    engagement: 197
+    commentsToLikes: 0.171773
+    id: ck0vyy56q6cz10i197g6k1m7k
+    verified: false
+    hashtags: "#slowliving, #sustainablefashion, #vegan, #slowlife"
+  - username: "skinbeautik"
+    fullname: >-
+      RAFAELE PEREZ
+    bio: >-
+      Galicia - Spain 📍 ⁣ beauty | fashion • content creator 📩 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒐𝒓𝒂𝒇𝒂𝒆𝒍𝒆@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎⁣ 💍 𝚂𝚎𝚗𝚎𝚗 𝙿𝚎𝚛𝚎𝚣
+    location: "Spain"
+    followers: 32024
+    engagement: 280
+    commentsToLikes: 0.563053
+    id: ckaozkbapm94x0i78mgbbd94m
+    verified: false
+    hashtags: "#autocuidado, #espa, #bloguerasespa, #cuidadopersonal"
+  - username: "miss_style.88"
+    fullname: >-
+      🌸 MONICA🌸
+    bio: >-
+      LIFESTYLE / FASHION 〰️#wolfiesstyle 📍Granollers-Barcelona “No te pongas límites, ponte guapa”
+    location: "Spain"
+    followers: 5289
+    engagement: 1682
+    commentsToLikes: 0.679633
+    id: ck5zt5abpzrfw0i14rrllevew
+    verified: false
+    hashtags: "#loveeenero, #january, #magicofebrero, #igercatalunya"
+  - username: "thegoldlipstick"
+    fullname: >-
+      Mireia | Fashion & Lifestyle
+    bio: >-
+      ▪️The Gold Lipstick blog 📍Bath / Barcelona ✉️thegoldlipstick@gmail.com ✨founder @epoch.jewellery ▫️www.thegoldlipstick.com
+    location: "Spain"
+    followers: 4091
+    engagement: 519
+    commentsToLikes: 0.249043
+    id: ck0tyj2kvn1ds0i19upv4nd49
+    verified: false
+    hashtags: "#instagramreels, #minimalchic, #neutraltones, #frenchfashion"
+  - username: "alegnaslife"
+    fullname: >-
+      Angiie
+    bio: >-
+      Born in Valencia🔥 Living in #barcelona 📍 🛸👽🎮 Teal’c🐇 Bobby🐕 ♥️25/09/09♥️ Collab~DM or Email📲
+    location: "Spain"
+    followers: 18318
+    engagement: 796
+    commentsToLikes: 0.040653
+    id: ck5hp3szwqpj90i110u60i0k0
+    verified: false
+    hashtags: "#laresistenciadelfollow, #mirrorselfie, #sorteo, #spain"
+  - username: "mariiiasanchz"
+    fullname: >-
+      María Sánchez
+    bio: >-
+      ~ you are brave and powerful ✨ 📍 Mataró, Barcelona 📚 Marketing & Publicidad 💌 mariiiasanchz1988@gmail.com
+    location: "Spain"
+    followers: 8717
+    engagement: 84
+    commentsToLikes: 0.103675
+    id: ck5zmi7lcmm990i14ri28oa7y
+    verified: false
+    hashtags: "#kissmylook, #lookoftheday, #inspofashion, #lorealparisespa"
+  - username: "nataliagtimofeeva"
+    fullname: >-
+      Natalia Garcia Timofeeva
+    bio: >-
+      Spanish National Team of Rhytmic Gymnastics🇪🇸💖 nataliagtimofeeva@gmail.com💌 📍Barcelona
+    location: "Spain"
+    followers: 101107
+    engagement: 517
+    commentsToLikes: 0.016658
+    id: ck5py5wd2ugsk0i11wlm1jny7
+    verified: false
+    hashtags: "#therabody, #ibiza, #encuentratufitness, #ringana"
+  - username: "danirull.official"
+    fullname: >-
+      danielrull
+    bio: >-
+      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
+    location: "Spain"
+    followers: 19043
+    engagement: 368
+    commentsToLikes: 0.095710
+    id: ck0w0ii8tedh20i19eb5soii8
+    verified: false
+    hashtags: "#hairstyle, #instafashion, #fashionblogger, #production"
+  - username: "agustinadeveras"
+    fullname: >-
+      Agus De Veras | Make Up Artist
+    bio: >-
+      Maquillaje profesional especializada en novias. Libre de crueldad animal 🐰 España (base en Barcelona centro)
+    location: "Spain"
+    followers: 14815
+    engagement: 604
+    commentsToLikes: 0.060199
+    id: ckap0gpovq7d10i783omj2dah
+    verified: false
+    hashtags: "#makeuplover, #makeupaddict, #highlighter, #beautyblogger"
   - username: "dr.alejandro.segarra"
     fullname: >-
       Dr. Alejandro Segarra
     bio: >-
-      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN ) 📱655460790 (BCN) 📱675955548 (Madrid)
+      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN)
     location: "Spain"
-    followers: 42561
-    engagement: 287
-    commentsToLikes: 0.051741
+    followers: 53832
+    engagement: 229
+    commentsToLikes: 0.037778
     id: ck55kbo51yxte0i11zato21js
     verified: false
     hashtags: ""
-  - username: "goodgoodgorgeous"
-    fullname: >-
-      Haya Tetruashvili ✨ חיה 🇮🇱/🇬🇪
-    bio: >-
-      Mama to Shirel & Liel 📍DC/BARCELONA, Social Media Consultant/Content Creator Haya@goodgoodgorgeous.com
-    location: "Spain"
-    followers: 29052
-    engagement: 155
-    commentsToLikes: 0.072344
-    id: ck8syiblwkwh50j784m48o88v
-    verified: false
-    hashtags: "#love, #itsagggthing, #costabrava, #motherdaughter"
-  - username: "petrellii"
-    fullname: >-
-      Ａ Ｎ Ｄ Ｒ Ｅ Ａ
-    bio: >-
-      𝚙𝚘𝚛 𝚊𝚑𝚘𝚛𝚊 𝚟𝚘𝚢 𝚊 𝚕𝚎𝚟𝚊𝚗𝚝𝚊𝚛𝚖𝚎 𝚢 𝚛𝚎𝚜𝚙𝚒𝚛𝚊𝚛 // 𝚝𝚛𝚊𝚝𝚘 𝚍𝚎 𝚑𝚊𝚌𝚎𝚛 𝚏𝚘𝚝𝚘𝚜 𝚋𝚘𝚗𝚒𝚝𝚊𝚜
-    location: "Spain"
-    followers: 9851
-    engagement: 408
-    commentsToLikes: 0.097906
-    id: ck14hnm6rb88z0i19xx4gqm0n
-    verified: false
-    hashtags: "#barcelonabeach, #styleoftheday, #discoverunder10k, #ootdgoals"
-  - username: "nomad.fran"
-    fullname: >-
-      Fran Opazo • LaVidaNómade ✈❤🌎
-    bio: >-
-      ↠ Periodista ↠ Viajes ↠ Trabajo 100% remoto ↠ Marketing Digital ↠ Recomendaciones ↠ Crece en el mundo digital @franopazoperiodista 🤳 Fundé @achiletb
-    location: "Spain"
-    followers: 29977
-    engagement: 219
-    commentsToLikes: 0.132262
-    id: ck55kfywzz7ps0i11npccajhh
-    verified: false
-    hashtags: "#comuviajera, #canada, #chilenosporelmundo, #iamtb"
-  - username: "skinbeautik"
-    fullname: >-
-      𝐑𝐀𝐅𝐀𝐄𝐋𝐄 𝐏𝐄𝐑𝐄𝐙
-    bio: >-
-      En busca de una piel equilibrada, libre de acné y rojeces. 𝑺𝒌𝒊𝒏𝒄𝒂𝒓𝒆, 𝒃𝒆𝒍𝒍𝒆𝒛𝒂 𝒚 𝒖𝒏𝒂𝒔 𝒄𝒐𝒔𝒊𝒕𝒂𝒔 𝒎á𝒔 Galicia - España 📍💍 𝚂𝚎𝚗𝚎𝚗 𝙿𝚎𝚛𝚎𝚣 embajadora @evaaldao
-    location: "Spain"
-    followers: 24273
-    engagement: 356
-    commentsToLikes: 0.497415
-    id: ckaozkbapm94x0i78mgbbd94m
-    verified: false
-    hashtags: "#pielperfecta, #autoestima, #instafrases, #cuidadopersonal"
-  - username: "mami_de_marc"
-    fullname: >-
-      ★ Pค 𝕋𝕋Y★👩‍👦🐥
-    bio: >-
-      👶🏼Marc 👰🏻🐶 𝑻𝒚𝒔𝒐𝒏 📍Barcelona, Spain Descuento @sheinofficial MAMI15 Descuento @patpat_spain MARC15 Embajadora @sawyerbike 🌲🌎
-    location: "Spain"
-    followers: 19316
-    engagement: 537
-    commentsToLikes: 0.107707
-    id: ckaoxpqr6e9ux0i78bbkhdvaf
-    verified: false
-    hashtags: "#maternidad, #oton, #patpatkidsclothes, #casta"
-  - username: "alwaysbellabcn"
-    fullname: >-
-      Vanessa Forns
-    bio: >-
-      Journalist at FC Barcelona ✒️. Fashion LOVER 👗. In love with my doggies Bully & Bella, Mia & Gala 🐶🐶🐶🐶 📩booking.vanessaforns@gmail.com
-    location: "Spain"
-    followers: 80054
-    engagement: 350
-    commentsToLikes: 0.068321
-    id: ck0vvktf8pk5n0i19zgbbmgnu
-    verified: false
-    hashtags: "#waitingforyou, #newbornbaby, #parentstobe, #stokke"
-  - username: "melaniekroll"
-    fullname: >-
-      Melanie Kroll
-    bio: >-
-      🏡 Berlin, 22 🇩🇪 📍 Barcelona 🇪🇸 📷 Model Social Media Inquiries to: john@innovedia.co IMPRESSUM: Melanie Kroll c/o LEMANAGEMENT GMBH DE ⬇️
-    location: "Spain"
-    followers: 208559
-    engagement: 1100
-    commentsToLikes: 0.018401
-    id: ck5zrr8nox42g0i14evvbj81l
-    verified: false
-    hashtags: "#instadaily, #skin, #lovemyjob, #autumn"
-  - username: "mariiiasanchz"
-    fullname: >-
-      M A R Í A ✨
-    bio: >-
-      ~ From Barcelona, since 1988. 📚 Marketing & Publicidad 💌 mariiiasanchz1988@gmail.com 💖 Moda, belleza & lifestyle. ✨ Canal YT #ASMR 👇
-    location: "Spain"
-    followers: 8558
-    engagement: 537
-    commentsToLikes: 0.047030
-    id: ck5zmi7lcmm990i14ri28oa7y
-    verified: false
-    hashtags: "#perfectskin, #skincareroutine, #barcelonablogger, #blogger"
-  - username: "beattrizreyes"
-    fullname: >-
-      Bea 🐚
-    bio: >-
-      • Relato diumenges al sol • Enamorada en catalán y bañada en salitre. 🖤🐛🐈 🐈+🍴🌊📷 📍Gaditana en Barcelona
-    location: "Spain"
-    followers: 5619
-    engagement: 1585
-    commentsToLikes: 0.095726
-    id: ckf5qmr879wcx0j23lt4ps64x
-    verified: false
-    hashtags: "#morning, #cat, #love, #flowers"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Brazil In 2022
+title: Top 10 Nutrition Instagram Influencers In Brazil In 2023
 description: >-
-  Find top nutrition Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #love #lifestyle #gym.
+  Find top nutrition Instagram influencers in Brazil in 2023. Most popular hashtags: #lifestyle #love #gym #summer.
 platform: Instagram
-hits: 406
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 406 Instagram influencers like this in Brazil for you to contact.
+hits: 405
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 405 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "fabianoguigas"
     fullname: >-
       Fabiano Dantas Guigas
     bio: >-
-      😷Dentista & Empreendedor CEO @centraldosuplemento @cdsdistribuidoraba @1pure_nutrition @coachsupplementbr @muscleprobr @elementox.energy Youtube
+      📈Founder & CEO @centraldosuplemento @cdsdistribuidoraba @1pure_nutrition @coachsupplementbr @muscleprobr @elementox.energy 👇ESCOLA MAROMBA👇
     location: "Brazil"
-    followers: 57941
-    engagement: 1324
-    commentsToLikes: 8.516038
+    followers: 54578
+    engagement: 1417
+    commentsToLikes: 8.581092
     id: ck9wdedpof9j70j781dmzpt5e
     verified: false
-    hashtags: "#tbt, #tiktok, #training, #lifestyle"
-  - username: "helenkamura"
-    fullname: >-
-      Helen Kamura
-    bio: >-
-      📍Alagoana 🛩 RJ 🎓Nutrição 🦁Leonina 👑Mãe da princesa Sophie 💍 Bruno Inglez 🏋🏻‍♀️@teamcarolvaz 💊@dcx.nutrition 💪🏼@mundomarombabr Cupom 10%: Helen01
-    location: "Brazil"
-    followers: 23503
-    engagement: 536
-    commentsToLikes: 0.067710
-    id: ckaov5rru36f60i78ddw9j1pm
-    verified: false
-    hashtags: "#exercise, #shape, #fitnessgirl, #fitstagram"
+    hashtags: "#1purenutrition, #teamcentral, #youtube, #bodyfit"
   - username: "taticoelhotati"
     fullname: >-
       Tati Coelho
     bio: >-
-      RJ • SEIS PITS • VIDA SAUDÁVEL ⠀ 🌞✨ 🌊🧘🏻‍♀️🧿 ♌️ 🌻🐾 ⠀ 𝒆𝒎 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒆 𝒆𝒗𝒐𝒍𝒖𝒄̧𝒂̃𝒐 ➜ @dcx.nutrition 🚀 ➜ @mundomarombabr 💥
+      RJ • 6 PITBULLS • VIDA SAUDÁVEL ⠀ 🌞✨ 🌊🧘🏻‍♀️🧿 ♌️ 🌻🐾 ⠀ 𝒆𝒎 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒆 𝒆𝒗𝒐𝒍𝒖𝒄̧𝒂̃𝒐 ❋ @mundomarombabr (cupom:TATI)💥 ❋ @dcx.nutrition 🚀
     location: "Brazil"
-    followers: 29488
-    engagement: 1548
-    commentsToLikes: 0.030101
+    followers: 41002
+    engagement: 1449
+    commentsToLikes: 0.035688
     id: ckaov5qtk36as0i78peoq4gp0
     verified: false
-    hashtags: "#sejaobem, #ootd, #yogapractice, #inspire"
+    hashtags: "#sun, #amar, #sea, #luzepaz"
   - username: "alessandradelduque"
     fullname: >-
       Alessandra Delduque
     bio: >-
-      • Fitness | Healthy Life • @teamcarolvaz @mundomarombabr @dcx.nutrition #teamdrdouglastigre #teamarthurpereira 📬 Parceria/Contato: Aledelmaia@gmail
+      • Fitness | Healthy Life • @teamcarolvaz @mundomarombabr @dcx.nutrition
     location: "Brazil"
-    followers: 26922
-    engagement: 337
-    commentsToLikes: 0.104377
+    followers: 27465
+    engagement: 358
+    commentsToLikes: 0.041807
     id: ck6u6wsczi63l0j71mq2m35ud
     verified: false
-    hashtags: "#coisasboasacontecem, #confienoprocesso, #tbt, #sabadouu"
-  - username: "maripsaad"
+    hashtags: "#coisasboasacontecem, #lifestyle, #botox, #belezafeminina"
+  - username: "helenkamura"
     fullname: >-
-      🌻 MARIANA SAAD
+      Helen Kamura
     bio: >-
-      🎓ғɪsɪᴏ ᴘᴏʀ ғᴏʀᴍᴀçãᴏ •💲ᴀᴅᴍ ᴘᴏʀ ᴠᴏᴄᴀçãᴏ 🚘 ᴇᴍᴘʀᴇsáʀɪᴀ ɴᴏ setor ᴀᴜᴛᴏᴍᴏᴛɪᴠᴏ 🏄🏼‍♀️ ᴋɪᴛᴇsᴜʀғᴇʀ ɴᴀs ʜᴏʀᴀs ᴠᴀɢᴀs 🏋🏼‍♀️ @teamcarolvaz 🍼 @dcx.nutrition
+      📍Alagoana 🛩 RJ 🎓Nutrição 🦁Leonina 👑Mãe da princesa Sophie 🏋🏻‍♀️@teamcarolvaz 💊@dcx.nutrition 💪🏼@mundomarombabr Cupom 10% Helen01
     location: "Brazil"
-    followers: 16263
-    engagement: 277
-    commentsToLikes: 0.208615
-    id: ckaov5sbo36ie0i784hkzihmm
+    followers: 24271
+    engagement: 586
+    commentsToLikes: 0.053633
+    id: ckaov5rru36f60i78ddw9j1pm
     verified: false
-    hashtags: "#tbt, #fisioporamor, #repost, #pilates"
-  - username: "luanabhering"
-    fullname: >-
-      Luana Bhering
-    bio: >-
-      Rio de Janeiro ☀️ + Vários destinos ✈️ 👙 @corgoiaba 🏋🏻‍♀️ @teamcarolvaz 💪🏼 @mundomarombabr |cód: LUANA10 (10% off) 💊 @dcx.nutrition
-    location: "Brazil"
-    followers: 17538
-    engagement: 264
-    commentsToLikes: 0.152656
-    id: ckaov5r7736c50i781ut0en3h
-    verified: false
-    hashtags: "#dietaetreino, #antesedepois, #fitnesslove, #nutric"
-  - username: "thaicaval_oficial"
-    fullname: >-
-      Empreendedora
-    bio: >-
-      🎯| CRISTO 💎| #maravilhasdaterra 🌐| Empreendedora Digital 🍎| Nutritio’n student 6/8 🔥 Assista meus destaques e instories🔥 Contato para trabalho👇🏻📲
-    location: "Brazil"
-    followers: 7192
-    engagement: 495
-    commentsToLikes: 0.648377
-    id: ckf5om98e2uhl0j2327vq05wy
-    verified: false
-    hashtags: "#mmnbrasil, #networkmarketing, #marketingdigital, #empreendedorismo"
-  - username: "priscilacavilha"
-    fullname: >-
-      PCCavilha
-    bio: >-
-      Physical Therapy / Coach 🇺🇸 IFBB PRO LEAGUE @kn_nutrition @bellagymfitness @kittys_bikinis
-    location: "Brazil"
-    followers: 94873
-    engagement: 219
-    commentsToLikes: 0.039983
-    id: ck602dcqnh6c70i14qn2398bq
-    verified: false
-    hashtags: "#ifbbpro, #teambray, #ifbbproleague, #br"
-  - username: "thainadiiaas"
-    fullname: >-
-      Thainá Dias
-    bio: >-
-      A sua beleza deve estar no coração. ♡ 📚 nutrition's student @goodlifefitnessoficial
-    location: "Brazil"
-    followers: 93582
-    engagement: 424
-    commentsToLikes: 0.018194
-    id: ck601808nf0c80i145kyy3liq
-    verified: false
-    hashtags: "#frozen2"
+    hashtags: "#dieta, #foto, #wellness, #fitness"
   - username: "catarinamadureira_"
     fullname: >-
       Catarina Madureira
     bio: >-
       • Porto 🇵🇹 • 22 • Nutrition Student 🎓🍉 • @shopmycloset_cm
     location: "Brazil"
-    followers: 29795
-    engagement: 1754
-    commentsToLikes: 0.005548
+    followers: 29879
+    engagement: 1730
+    commentsToLikes: 0.016717
     id: ck6tzettr9a9n0j71thwvgr3k
     verified: false
-    hashtags: "#love, #family, #portugal, #sunset"
+    hashtags: "#portugal, #algarve, #family, #summer"
+  - username: "priscilacavilha"
+    fullname: >-
+      PCCavilha
+    bio: >-
+      Physical Therapy / Coach 🇺🇸 IFBB PRO LEAGUE @kn_nutrition @bellagymfitness @kittys_bikinis
+    location: "Brazil"
+    followers: 93821
+    engagement: 222
+    commentsToLikes: 0.039673
+    id: ck602dcqnh6c70i14qn2398bq
+    verified: false
+    hashtags: "#love, #ifbbpro, #ifbbproleague, #wpd"
+  - username: "maripsaad"
+    fullname: >-
+      🌻 MARIANA SAAD
+    bio: >-
+      🎓 ғɪsɪᴏᴛᴇʀᴀᴘɪᴀ •💲ᴀᴅᴍ 🚘 ᴇᴍᴘʀᴇsáʀɪᴀ ɴᴏ setor ᴀᴜᴛᴏᴍᴏᴛɪᴠᴏ 🏋🏼‍♀️ @teamcarolvaz 👨🏻‍⚕️ @drdouglastigre 🥗 @arilima 🍼 @dcx.nutrition - cód ᴍᴀʀɪ10
+    location: "Brazil"
+    followers: 18546
+    engagement: 245
+    commentsToLikes: 0.172063
+    id: ckaov5sbo36ie0i784hkzihmm
+    verified: false
+    hashtags: "#repost, #pilates, #tbt, #fluidez"
+  - username: "luanabhering"
+    fullname: >-
+      Luana Bhering
+    bio: >-
+      Rio de Janeiro ☀️ + Vários destinos ✈️ 👙 @corgoiaba 🏋🏻‍♀️ @teamcarolvaz 💪🏼 @mundomarombabr |cód: LUANA10 (10% off) 💊 @dcx.nutrition
+    location: "Brazil"
+    followers: 18164
+    engagement: 246
+    commentsToLikes: 0.097857
+    id: ckaov5r7736c50i781ut0en3h
+    verified: false
+    hashtags: "#fitnessmotivation, #biquinisrj, #modapraialuxo, #beachwear"
+  - username: "thaicaval_oficial"
+    fullname: >-
+      Thaiane Cavalcante
+    bio: >-
+      🎯| CRISTO 🌐| #marketingdigital 🍎| Nutritio’n student 6/8 🔥 Assista meus destaques e instories🔥 Comece por aqui 👇🏻📲
+    location: "Brazil"
+    followers: 7091
+    engagement: 493
+    commentsToLikes: 0.587937
+    id: ckf5om98e2uhl0j2327vq05wy
+    verified: false
+    hashtags: "#empreendedorismo, #mmnbrasil, #sa, #marketingdigital"
+  - username: "jotta.mike"
+    fullname: >-
+      Jônatas Guimarães
+    bio: >-
+      Jesus muda tudo!🙏🏼 PMERJ 👮🏻‍♂️ Cristão ✝️ Viajante🌎 🇧🇷🇧🇴🇵🇾 @mundomarombabr @dcx.nutrition 💪🏼 Membro da Realeza 🤴🏻
+    location: "Brazil"
+    followers: 121099
+    engagement: 454
+    commentsToLikes: 0.016813
+    id: ckap7pai3kz2h0i78g6sgo95d
+    verified: false
+    hashtags: ""
 ---

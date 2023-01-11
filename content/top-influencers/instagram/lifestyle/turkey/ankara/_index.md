@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Ankara In 2022
+title: Top 10 Lifestyle Instagram Influencers In Ankara In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Ankara in 2022. Most popular hashtags: #lifestyle #influencer #blogger #evdekal.
+  Find top lifestyle Instagram influencers in Ankara in 2023. Most popular hashtags: #lifestyle #blogger #ankara #instagram.
 platform: Instagram
-hits: 62
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 62 Instagram influencers like this in Ankara, Turkey for you to contact.
+hits: 64
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 64 Instagram influencers like this in Ankara, Turkey for you to connect with.
 profiles:
-  - username: "ozcelikgiz"
+  - username: "selensegmenblog"
     fullname: >-
-      Gizem Özçelik
+      Selen Seğmen
     bio: >-
-      #Influencer Fashion | Beauty •Life Style ✉️ ozcelikgiz@gmail.com
+      Makeup | Lifestyle Ankara 📍 PR&İşbirliği icin DM 💌 YENI VIDEO: KADIN&ERKEK PARFUMLERIM❤
     location: "Turkey"
-    followers: 61587
-    engagement: 354
-    commentsToLikes: 0.253578
-    id: ck5cbkutwfmu30i110te98pj8
+    followers: 21034
+    engagement: 327
+    commentsToLikes: 0.298225
+    id: ck600rq3ae54m0i14elrwjdmx
     verified: false
-    hashtags: "#fashion, #style, #blogger, #infl"
-  - username: "gezengec_anne"
+    hashtags: "#makyajblogger, #blogger, #bloggerturkiye, #cekilisvar"
+  - username: "burcusavasciofficial"
     fullname: >-
-      Pınar Kökçü 💎
+      Burcu Savaşçı
     bio: >-
-      ☀️ ‘Full time mother Part time traveller’🌸 📥 Pr & İletişim : Dm & Mail 📍 Antalya Ankaralı 📌 #antalya #antalyablogger #travel #blogger
+      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
     location: "Turkey"
-    followers: 29894
-    engagement: 431
-    commentsToLikes: 0.516336
-    id: ckap2tf8p08rh0i78zn9e1hk3
+    followers: 69773
+    engagement: 115
+    commentsToLikes: 0.303250
+    id: ck5cezhcgm0xf0i11xysp3pw1
     verified: false
-    hashtags: "#antalya, #travel, #denizli, #antalyablogger"
-  - username: "makeuppselin"
-    fullname: >-
-      Selin
-    bio: >-
-      #makeup | #blogger |#lifestyle @makeuppselin Ankara📍
-    location: "Turkey"
-    followers: 12871
-    engagement: 319
-    commentsToLikes: 0.035882
-    id: ck15t9977gyfo0i19dkx9e6yg
-    verified: false
-    hashtags: "#loreal, #sa, #fond, #makyaj"
+    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
   - username: "poncikeliz"
     fullname: >-
-      Cansu EROL /INFLUENCER
+      Cansu EROL
     bio: >-
-      🏠 homedecoration 💡DIY project 🌿 lifestyle 🍀Azeri 🇹🇷🇦🇿Ankara
+      ｍｏｍｙｐｈｏｔｏｂｌｏｇ Influencer l Lifestyle 📍Ankara -Igdır
     location: "Turkey"
-    followers: 25799
-    engagement: 425
-    commentsToLikes: 0.061656
+    followers: 43161
+    engagement: 434
+    commentsToLikes: 0.015333
     id: ckap26p3gxlzk0i78ycxsx65a
     verified: false
-    hashtags: "#annebebek, #omaybgn34, #baby, #justbaby"
+    hashtags: "#babygirl, #iyigeceler, #hm, #zarakids"
   - username: "esracablogculuk"
     fullname: >-
       Esra Öcal
     bio: >-
-      Influencer Lifestyle | Decoration 📍Ankara @ottohomedesign 🌿 Reklam ve İşbirliği için DM📮
+      Influencer & Co-founder: @ottohomedesign 📍Ankara Lifestyle | Decoration
     location: "Turkey"
-    followers: 72703
-    engagement: 174
-    commentsToLikes: 0.038337
+    followers: 133190
+    engagement: 144
+    commentsToLikes: 0.058947
     id: ck8swxt9oflft0j78fdjnfudq
     verified: false
-    hashtags: "#anl, #mutfakd, #balkonginspiration, #ku"
-  - username: "sevdeyes"
+    hashtags: "#krommobilya, #hintpenceresi, #kitapl, #reelsinstagram"
+  - username: "volkannarslan"
     fullname: >-
-      Sevda
+      Volkan Arslan
     bio: >-
-      lifestyle & skincare 🐰 Ankara, Hacettepe sevdeyesblog@gmail.com
+      TRT İstanbul Radyosu Sanatçısı İTÜ Konservatuar Singer, Academician Menajer: @fatihtozlu Radyo - Basın PR; @oykumsezen 👇Yeni single👇
     location: "Turkey"
-    followers: 12971
-    engagement: 723
-    commentsToLikes: 0.015882
-    id: ck14gozks6bme0i19bt8kwcrm
-    verified: false
-    hashtags: "#sunshine, #skinfluencer, #skincarejunkie, #hijabfashion"
-  - username: "sevdeunaal"
+    followers: 43321
+    engagement: 608
+    commentsToLikes: 0.055702
+    id: ck6u8ffarra0n0j71i8tfk7kg
+    verified: true
+    hashtags: "#go, #likelike, #liketime, #karadeniz"
+  - username: "siilacablog"
     fullname: >-
-      Sevde Ünal
+      🌈 Visual Diary🌈
     bio: >-
-      🧿Lifestyle ✌🏻️İnfluencer Laboratory 🔬🧫🧪👩🏻‍🔬 PR & İletişim 📩 sevdeunal121@gmail.com
+      •Visual Diary •Lifestyle •Decoration recipes • ANKARA
     location: "Turkey"
-    followers: 43600
-    engagement: 210
-    commentsToLikes: 0.398398
-    id: ck6tybwpw2u0o0j718ryudrl6
+    followers: 9516
+    engagement: 237
+    commentsToLikes: 0.026331
+    id: ck8tc5rifydoh0j78ezpr7rkp
     verified: false
-    hashtags: "#istanbulbloggers, #photooftheday, #world, #instafashion"
-  - username: "ozanerdogan7"
+    hashtags: "#decoration, #details, #kahvezamani, #interior"
+  - username: "makeuppselin"
     fullname: >-
-      Ozan Erdogan
+      Selin
     bio: >-
-      Lifestyle | Menswear | Content Creator 📍 Ankara 📩 Ozan.erdogn@hotmail.com
+      İletişim mail & DM 📧 hnd.sln.ttk@hotmail.com 📍Ankara #makeup #lifestyle #blog
     location: "Turkey"
-    followers: 60062
-    engagement: 245
-    commentsToLikes: 0.028882
-    id: ck0vv0a4smyav0i19drw4yi9f
+    followers: 20525
+    engagement: 309
+    commentsToLikes: 0.029195
+    id: ck15t9977gyfo0i19dkx9e6yg
     verified: false
-    hashtags: "#ozanerdogan, #mensfashion, #styleinspo, #sartorial"
-  - username: "sidikabal_"
+    hashtags: "#loreal, #sa, #nyxcosmetics, #concealer"
+  - username: "haticerkaya"
     fullname: >-
-      Sıdıka Bal
+      Hatice
     bio: >-
-      🔺Influencer 🔺 Fashion Editor& Stylist 🔺 sidikabal@yahoo.com 👉🏽📩👈🏽 🔺 youtube video yayında 👇🏽👇🏽👇🏽 🔺 @sidikabaldanismanlik 🔺 @sidikabaldesigner
+      🍀Her an her yerden, 🌺Her paylaşıma bir söz. ✈️#haticerkaya bakmadan geçme. 🧿Çizim için DM.
     location: "Turkey"
-    followers: 70523
-    engagement: 158
-    commentsToLikes: 0.019322
-    id: ck5btvk2wgoql0i119vy9ac34
+    followers: 78903
+    engagement: 108
+    commentsToLikes: 0.082003
+    id: ckf5lbhb5p0810j23aoosfqdc
     verified: false
-    hashtags: "#stayhome, #arabicgirls, #mood, #influencer"
-  - username: "tugcedemirlsblog"
+    hashtags: "#art, #instaphoto, #ke, #bursa"
+  - username: "gulsahsenalpsevinc"
     fullname: >-
-      Tugce DEMİRAL Blog
+      𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
     bio: >-
-      Çı𝔫𝔞𝔯’𝔰 𝔪𝔬𝔪 ❥ Lifestyle │ Beauty │ Makeup | Fashion Ankara 📍 ✉️Iletisim & PR & DM : tuqce21@hotmail.com
+      🌏Travel / 🍽🥤Food&Drink /YouTube JoyfulCampers/ PR:gulsahsenalp@gmail.com
     location: "Turkey"
-    followers: 31693
-    engagement: 304
-    commentsToLikes: 0.026123
-    id: ck8tbm7r0w7iy0j783rvzy3g2
+    followers: 15021
+    engagement: 649
+    commentsToLikes: 0.051012
+    id: ckaoyf7emh9pn0i78g75bpriq
     verified: false
-    hashtags: "#instagram, #likeforfollow, #skincare, #following"
+    hashtags: "#youtube, #gezginler, #karavanturkiye, #hu"
+  - username: "radmehrbrothers"
+    fullname: >-
+      Mobin_mohamad
+    bio: >-
+      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
+    location: "Turkey"
+    followers: 37072
+    engagement: 580
+    commentsToLikes: 0.141342
+    id: ck1399rmkk8at0i19eybkxyr1
+    verified: false
+    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
 ---

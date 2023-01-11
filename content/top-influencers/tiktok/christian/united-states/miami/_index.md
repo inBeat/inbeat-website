@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian TikTok Influencers In Miami In 2022
+title: Top 10 Christian TikTok Influencers In Miami In 2023
 description: >-
-  Find top christian TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #christian #greenscreen #miami.
+  Find top christian TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #christian #miami #foryou.
 platform: TikTok
-hits: 18
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 18 TikTok influencers like this in Miami, United States for you to collaborate.
+hits: 22
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 22 TikTok influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "melspdx"
+  - username: "chetflix1k"
     fullname: >-
-      Melspdx
+      .
     bio: >-
-      📍PNW Eat well, travel better, adventure often! ✈️ IG @melspdx Jesus 🙏🏼
+      •18|🇵🇷| 🔐 •Instagram: chetflixpr •Snapchat: S90skills
     location: "United States"
-    followers: 2774
-    engagement: 641
-    commentsToLikes: 0.142869
-    id: ckc38aaqzx24y0j23yr24pa1i
+    followers: 28500
+    engagement: 1758
+    commentsToLikes: 0.016752
+    id: ckb9kzbyld97r0j23a6ps0bec
     verified: false
-    hashtags: "#upperleftusa, #portlandoregon, #foryou, #washingtoncheck"
-  - username: "coloredh0mo"
-    fullname: >-
-      goodforum
-    bio: >-
-      this planet gets more ghetto everyday 👙OF subscription ⬇️
-    location: "United States"
-    followers: 66800
-    engagement: 2679
-    commentsToLikes: 0.022954
-    id: ckcjiw42gd0p60j23nr7l5zt0
-    verified: false
-    hashtags: "#native, #fyp, #justice, #foryou"
-  - username: "alisonkay"
-    fullname: >-
-      Alison Kay Bowles
-    bio: >-
-      Follow my store @lacycoe Jesus Follower,Traveler&Model Get my preset FREE👇🏼
-    location: "United States"
-    followers: 56000
-    engagement: 373
-    commentsToLikes: 0.051063
-    id: ckai03mg661qr0i78oz1w9kcn
-    verified: false
-    hashtags: "#mlbplayer, #engagementring, #mlbwife, #proposal"
-  - username: "gawviofficial"
-    fullname: >-
-      GAWVI
-    bio: >-
-      Official GAWVI page. HEATHEN 🌐 now available on all platforms! Broward 🇸🇻🇩🇴
-    location: "United States"
-    followers: 6093
-    engagement: 1518
-    commentsToLikes: 0.025846
-    id: ck963gbasuov70j78zkyouhg0
-    verified: false
-    hashtags: "#dominican, #dominicano, #foryourpage, #latino"
-  - username: "dena_habboush"
-    fullname: >-
-      Dena
-    bio: >-
-      🇮🇶 Trying to hit 35K 🥰 Follow me on insta: @dena_habboush & YouTube
-    location: "United States"
-    followers: 32300
-    engagement: 457
-    commentsToLikes: 0.030377
-    id: ckbf8vw5wzkj00j23end8cpr4
-    verified: false
-    hashtags: "#smallbite, #arab, #lebanon, #egyptian"
+    hashtags: "#love, #foryou, #tiktok, #fyp"
   - username: "kristen.alexa"
     fullname: >-
       kristen
     bio: >-
       18 miami, florida aYo PeT cHeCk
     location: "United States"
-    followers: 62300
-    engagement: 1926
-    commentsToLikes: 0.039873
+    followers: 61800
+    engagement: 1784
+    commentsToLikes: 0.059681
     id: ckbwb39of0lab0j23t1or3ftz
     verified: false
-    hashtags: "#greenscreenvideo, #fyp, #greenscreen, #duet"
-  - username: "ashleystudioco"
+    hashtags: "#greenscreen, #greenscreenvideo, #fyp, #christian"
+  - username: "christianacosta"
     fullname: >-
-      SWAG MATS
+      christian acosta
     bio: >-
-      Miami 🌴 I just enjoy making stuff 🤓 Click this link to shop my doormats ↙️
+      Los amooo IG : @christianacosta Miami ☀️🌴🌊 ⚡️ 130K?⚡️
     location: "United States"
-    followers: 74800
-    engagement: 828
-    commentsToLikes: 0.019587
-    id: ck9r92o7qetec0j78b6n8x9ks
-    verified: false
-    hashtags: "#fyp, #smallbusiness, #doormat, #foryoupage"
-  - username: "thejacobhaynes03"
-    fullname: >-
-      Jacob
-    bio: >-
-      17 Christian Best basketball tiktoker CEO of epic dunks
-    location: "United States"
-    followers: 137000
-    engagement: 1493
-    commentsToLikes: 0.045370
-    id: ckb165iihtkjy0j23erhqeqdq
-    verified: false
-    hashtags: "#greenscreen, #duet, #repost, #fyp"
+    followers: 125900
+    engagement: 1323
+    commentsToLikes: 0.022051
+    id: ck90ty7bdufsy0j78iviqu6jw
+    verified: true
+    hashtags: "#xyzbca, #stitch, #fyp, #disney"
   - username: "thegayrepublican"
     fullname: >-
       The Gay Republican
     bio: >-
-      Click the link below to donate to Trump's legal fund!
+      Get merch below! 10% profits going to Ron DeSantis reelection campaign!
     location: "United States"
-    followers: 172800
-    engagement: 2324
-    commentsToLikes: 0.080619
+    followers: 201800
+    engagement: 2273
+    commentsToLikes: 0.051130
     id: ck8qpxo9r5id70j789l5nbgbt
     verified: false
-    hashtags: "#rondesantis2024, #gaysfortrump, #duet, #fl"
-  - username: "thelindseycarter12"
+    hashtags: "#desantis2024, #trumptrain, #politics, #mask"
+  - username: "williamjackman2"
     fullname: >-
-      Lindsey Carter✨
+      W I L L I A M
     bio: >-
-      •SWFL• •living for the one true king🦋•
+      hi. I luv you don’t look at my IG 6’4
     location: "United States"
-    followers: 285400
-    engagement: 1484
-    commentsToLikes: 0.019634
-    id: ckb9bpphsy17b0j235qs4f5t1
+    followers: 118900
+    engagement: 2555
+    commentsToLikes: 0.019877
+    id: ckbl6yttn4plv0j23a8ti38he
     verified: false
-    hashtags: "#greenscreen, #relationship, #oikosonetrip, #christian"
+    hashtags: "#christianhumor, #single, #jesuslovesyou, #love"
+  - username: "gizele_.tavares"
+    fullname: >-
+      Gizele Tavares
+    bio: >-
+      Author with 9 published books , actress and model follow my Ig @gizele_.tavares
+    location: "United States"
+    followers: 41000
+    engagement: 750
+    commentsToLikes: 0.053477
+    id: ck8hnfg0lqpmu0j78gurl6zxv
+    verified: false
+    hashtags: "#love, #fy, #jet, #model"
+  - username: "joannafuka"
+    fullname: >-
+      Joannnnaaaaa🖤
+    bio: >-
+      Ready or not😜 Jesus is LORD
+    location: "United States"
+    followers: 121400
+    engagement: 520
+    commentsToLikes: 0.063543
+    id: ckal55pzp5g4k0i78vr15n0ka
+    verified: false
+    hashtags: "#christian, #duet, #fyp, #trump"
+  - username: "gawviofficial"
+    fullname: >-
+      GAWVI
+    bio: >-
+      Official GAWVI page. HEATHEN 🌐 now available on all platforms! Broward 🇸🇻🇩🇴
+    location: "United States"
+    followers: 6463
+    engagement: 1488
+    commentsToLikes: 0.025266
+    id: ck963gbasuov70j78zkyouhg0
+    verified: false
+    hashtags: "#christian, #fyp, #dominican, #gawvi"
+  - username: "iamkemit"
+    fullname: >-
+      Kemit Price
+    bio: >-
+      🇯🇲Reggae Artist 😅CEO "TRUE 💩 OR NAH?" ✊️🏿VP "STAY WOKE" ✍️DM for Shout-outs
+    location: "United States"
+    followers: 111500
+    engagement: 794
+    commentsToLikes: 0.353294
+    id: ckc7b8g14kutc0j23aoqm88co
+    verified: false
+    hashtags: "#skiptherinse, #dance, #thewailers, #fyp"
+  - username: "melspdx"
+    fullname: >-
+      Melspdx
+    bio: >-
+      📍PNW Eat well, travel better, adventure often! ✈️ IG @melspdx Jesus 🙏🏼
+    location: "United States"
+    followers: 2713
+    engagement: 616
+    commentsToLikes: 0.141276
+    id: ckc38aaqzx24y0j23yr24pa1i
+    verified: false
+    hashtags: "#washingtoncheck, #distancedance, #portlandoregon, #washingtonstate"
 ---

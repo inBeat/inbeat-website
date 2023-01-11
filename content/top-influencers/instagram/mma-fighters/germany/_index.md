@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Germany In 2022
+title: Top 10 Mma Fighters Instagram Influencers In Germany in 2023
 description: >-
-  Find top mma fighters Instagram influencers in Germany in 2022. Most popular hashtags: #mma #training #boxing #mmafighter.
+  Find top mma fighters Instagram influencers in Germany in 2023. Most popular hashtags: #mma #training #boxing #mmafighter.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram influencers on inBeat.

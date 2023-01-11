@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Boston In 2022
+title: Top 10 Models Instagram Influencers In Boston In 2023
 description: >-
-  Find top models Instagram influencers in Boston in 2022. Most popular hashtags: #model #photoshoot #fashion.
+  Find top models Instagram influencers in Boston in 2023. Most popular hashtags: #boston #model #instagood #photooftheday.
 platform: Instagram
-hits: 119
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 119 Instagram influencers like this in Boston, United States for you to contact.
+hits: 99
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 99 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
-  - username: "joanna.pinks"
-    fullname: >-
-      Joanna Pinks
-    bio: >-
-      the limit does not exist ✨ beauty & a beast 🏋🏽‍♀️🇵🇷 actress|model Boston LA
-    location: "United States"
-    followers: 11016
-    engagement: 2705
-    commentsToLikes: 0.037837
-    id: ckap10ri6smiu0i784b8s5foz
-    verified: false
-    hashtags: "#quarantine, #watermelonsugar, #harrystyles, #dreameranddoer"
   - username: "nikeliphotography"
     fullname: >-
       Eliezer Asamoah
     bio: >-
       🇺🇸🇬🇭 Portraits, boudoir, weddings, etc. Follow @nikeli_Photos. We travel ✈️ Sc: eliezer_kkt Contact: +15083532737 December 23
     location: "United States"
-    followers: 39163
-    engagement: 126
-    commentsToLikes: 0.007300
+    followers: 39512
+    engagement: 156
+    commentsToLikes: 0.009884
     id: ck5zo8gzhpzux0i14xqwqc8o4
     verified: false
-    hashtags: "#nikeliphotography, #portrait, #massachusetts, #boudoir"
-  - username: "deviy8s.studios"
-    fullname: >-
-      deviy8s Studios
-    bio: >-
-      deviy8s = DEVIATES Paid Bookings Only. Husband-Wife Squad. Glamour, swimwear & beauty content creators DM for shoots 📸 with the #blueeyedmagician
-    location: "United States"
-    followers: 26725
-    engagement: 199
-    commentsToLikes: 0.040807
-    id: ck6u1ndiemrvm0j71gegmn4ra
-    verified: false
-    hashtags: ""
+    hashtags: "#blackmagic, #nude, #nikeliphotography, #nikon"
   - username: "maggiejskinner"
     fullname: >-
       Maggie J. Skinner 🌶
     bio: >-
       Up to something bigger than myself Fenton Model Management NYC Maggie Models Inc. Boston MA: John Casablancas CT
     location: "United States"
-    followers: 13267
-    engagement: 1774
-    commentsToLikes: 0.033745
+    followers: 13172
+    engagement: 1654
+    commentsToLikes: 0.033418
     id: ck6u4n2o74nst0j71cnjhylhs
     verified: false
     hashtags: "#blackouttuesday"
-  - username: "iamfranchescanival"
+  - username: "williams.r00"
     fullname: >-
-      Franchesca Nival
+      Williams
     bio: >-
-      🇺🇸 @apexworldnews Correspondent CEO/founder @ftacademy_ @womanxs_ Model/Actress-Boston @maggieagency BOOK 1 of #TGLSET OUT 10/08/20 LINK BELOW!🥳
+      📍 Boston 📚 Pre Med 🩺
     location: "United States"
-    followers: 52209
-    engagement: 190
-    commentsToLikes: 0.026266
-    id: ck6tj0ua71sw00j71sszbtqqn
+    followers: 3229
+    engagement: 2041
+    commentsToLikes: 0.037947
+    id: ck0ubnacwf0ub0i19o1cppqm7
     verified: false
-    hashtags: "#gracenation, #ifgodbeformewhocanbeagainstme, #tglset, #repost"
-  - username: "paulhenrystudios"
+    hashtags: "#sexy, #fashion, #love, #model"
+  - username: "iamgenesisgp"
     fullname: >-
-      Paul Henry Collins
+      Génesis N. González P.
     bio: >-
-      - photojournalism & b&w major from Boston - stylist / fashion editorial photographer / model scout - Boston Bruins 🏒 BoSox ⚾️ - plant based
+      𝗩 𝗘 𝗡 𝗘 𝗭 𝗨 𝗘 𝗟 𝗔 𝗡 𝘛𝘩𝘦 𝘞𝘰𝘳𝘭𝘥 𝘪𝘴 𝘮𝘺 𝘙𝘶𝘯𝘸𝘢𝘺. • 𝕍𝕚𝕤𝕦𝕒𝕝 𝔻𝕖𝕤𝕚𝕘𝕟 | @genesis.dsgn •
     location: "United States"
-    followers: 6216
-    engagement: 172
-    commentsToLikes: 0.092569
-    id: ck0w0rjr8foms0i19rade3y11
+    followers: 2924
+    engagement: 1144
+    commentsToLikes: 0.069388
+    id: ck0w2qcoypnso0i19d475uazf
     verified: false
-    hashtags: "#model, #miamibeach, #photographerinmiami, #weugenesmith"
-  - username: "cintraaa_"
+    hashtags: "#newyork, #fashion, #nyc, #model"
+  - username: "stizzy_leftlane"
     fullname: >-
-      Chitra Jagannathan
+      “P🩸IN 2 R🎙P” ALBUM OUT NOW‼️
     bio: >-
-      • the nucleus • 🥀• bu • bay area • she/her • 💌 : cjagan@bu.edu tiktok : @cintraaa_ click my linktree for BLM/🌈 resources!
+      ROXBURY || MA 📍 New Album Out Now “Pain 2 Rap” By @stizzy_leftlane
     location: "United States"
-    followers: 5687
-    engagement: 4507
-    commentsToLikes: 0.045065
-    id: ck55mrgn84l880i11ozue4mmg
+    followers: 11969
+    engagement: 179
+    commentsToLikes: 0.154780
+    id: ck6u0y1k5iesr0j713hh33a0q
     verified: false
-    hashtags: "#joshua, #dancer, #brownskingirls, #joshuatree"
+    hashtags: "#roxbury, #rap, #linkinmybio, #viral"
+  - username: "depressingfridgepoems"
+    fullname: >-
+      Depressing Fridge Poems
+    bio: >-
+      ▪️ poems by rusty (he/him) ▪️ new poems on tuesdays & thursdays ▪️ store & patreon ⤵️
+    location: "United States"
+    followers: 239425
+    engagement: 268
+    commentsToLikes: 0.003605
+    id: ck0tt4n1c150i0i191j91gxp4
+    verified: false
+    hashtags: "#comicillustration, #comicdrawing, #photooftheday, #poe"
   - username: "fitmomof2whojeeps"
     fullname: >-
       Kristen
     bio: >-
       Aerial🎪Cooking🍲Comedy🤣Crossfit🏋️‍♀️Dobermans🐶FAMILY💗FRIENDS👭Jeeps🏔Mustangs🏎 Raptors🦖Surfing🏄🏽‍♀️ Snowboarding🏂 Use code: FITMOM20 @detailgarageraleigh
     location: "United States"
-    followers: 19548
-    engagement: 993
-    commentsToLikes: 0.035774
+    followers: 19033
+    engagement: 1035
+    commentsToLikes: 0.035239
     id: ck0w59gty2k460i19g26xhiro
     verified: false
-    hashtags: "#islandlife, #37s, #jeepwrangler, #tiffanyandco"
-  - username: "izzyb_model"
-    fullname: >-
-      Izzy B
-    bio: >-
-      13 yo model NYC: @ohlssonmgmt Boston: @modelclubinc acct run by @jennyb_mom #teamohlsson #modelclubinc #teenmodel
-    location: "United States"
-    followers: 22256
-    engagement: 362
-    commentsToLikes: 0.167003
-    id: ck5c926bfamw00i11x7wn3l1g
-    verified: false
-    hashtags: "#redheadmodel, #ohlssoneast, #youngbeauty, #bostonmodel"
+    hashtags: "#bikini, #jeepin, #girlswhodetail, #annamariaislandflorida"
   - username: "cosmicphenomenon"
     fullname: >-
       Maya / Sebastian Noir
     bio: >-
       ×Bigender : She/Her or He/Him 📍Boston : Queer Model & Advocate 💍Married : @beckycupcakes ×DM for support
     location: "United States"
-    followers: 33549
-    engagement: 356
-    commentsToLikes: 0.023115
+    followers: 34421
+    engagement: 284
+    commentsToLikes: 0.024148
     id: ck6tv5rz1kcb20j71kgu219ig
     verified: false
-    hashtags: "#gaygirlsofinstagram, #lesbianswithink, #amipretty, #gaygirls"
+    hashtags: "#couplegoals, #genderfluid, #nonbinarytopsurgery, #femmelesbian"
+  - username: "izzyb_model"
+    fullname: >-
+      Izzy B
+    bio: >-
+      13 yo model NYC: @kidsxohlsson Boston: @modelclubinc acct run by @jennyb_mom #teamohlsson #modelclubinc #teenmodel
+    location: "United States"
+    followers: 21837
+    engagement: 338
+    commentsToLikes: 0.184427
+    id: ck5c926bfamw00i11x7wn3l1g
+    verified: false
+    hashtags: "#photooftheday, #hoodie, #instagood, #lorysun"
+  - username: "ashley15c"
+    fullname: >-
+      Ashley Cunningham
+    bio: >-
+      📍Boston MA ☆ Model ☆ Founder @growwiththefloworg ☆ @nbcf Community Ambassador
+    location: "United States"
+    followers: 23814
+    engagement: 392
+    commentsToLikes: 0.058974
+    id: ck5zo02w4phkj0i14ngq5281w
+    verified: false
+    hashtags: "#massachusetts, #model, #ashleycunningham, #missuniverse"
 ---

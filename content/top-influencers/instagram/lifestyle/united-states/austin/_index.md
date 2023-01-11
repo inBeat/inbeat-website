@@ -1,93 +1,57 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Austin In 2022
+title: Top 10 Lifestyle Instagram Influencers In Austin In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Austin in 2022. Most popular hashtags: #texas #personaltrainer #travel.
+  Find top lifestyle Instagram influencers in Austin in 2023. Most popular hashtags: #photography #love #austin.
 platform: Instagram
-hits: 200
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 200 Instagram influencers like this in Austin, United States for you to work with.
+hits: 233
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 233 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "ccfriday408"
+  - username: "sierratresslerxo"
     fullname: >-
-      Jeff
+      Sierra Tressler 🖤
     bio: >-
-      Volkzgear © @clean_culture © @slammedenuff 📸 San Jose CA 🏠 San Antonio TX 📍
+      LV📍ATX Caddy @platinumtees ⛳️💗 Venmo @ Sierra-Tressler Coach @jourdanne__ Team @fitbodyfusion This is my ONLY account.
     location: "United States"
-    followers: 2374
-    engagement: 746
-    commentsToLikes: 0.084278
-    id: ck6ub5w5b7nk20j71dq1zwx6k
+    followers: 19868
+    engagement: 630
+    commentsToLikes: 0.032935
+    id: ck5qe3u8xykza0i117x8k5mob
     verified: false
-    hashtags: "#1320video, #fitmentindustries, #zr1, #turbo"
-  - username: "spinsyddy"
+    hashtags: "#balihaigolfclub, #love, #golfer, #golfgram"
+  - username: "negahpercussah"
     fullname: >-
-      SYDNEY TORABI | HOME WORKOUTS
+      Nêgah Santos 🇧🇷•🇺🇸
     bio: >-
-      #HomeWorkouts + no equipment needed ⚡️Nutritionist who loves to eat ⚡️Athlete @underarmourwomen ⚡️Cannabiz @restartcbd [SUBSCRIBE ON YT]
+      🏆 @peabodyawards 🥁 @colbertlateshow 🥁 @jonbatiste 🥁 @coryjwong 🥁 @contemporaneateam 🥁 @lpmusicofficial
     location: "United States"
-    followers: 21818
-    engagement: 187
-    commentsToLikes: 0.041108
-    id: ck5zol62tqsnv0i14z9zbvmzh
+    followers: 14295
+    engagement: 844
+    commentsToLikes: 0.051798
+    id: ck5zwpgt16jfj0i146imae49s
     verified: false
-    hashtags: "#underarmour, #igfit, #movementmedicine, #sweatitout"
-  - username: "billiexnewland"
-    fullname: >-
-      Billie Newland
-    bio: >-
-      Fashion • Beauty • Lifestyle 📍 Austin, TX 🤠 💌 : billienewland4@gmail.com ⚡️TikTok @billiexnewland 🎬 YouTube : Billie Newland
-    location: "United States"
-    followers: 29714
-    engagement: 260
-    commentsToLikes: 0.132334
-    id: ck15qgct42pjg0i192iaeoxi2
-    verified: false
-    hashtags: "#zara, #charcoalclothing, #adika, #adikastyle"
-  - username: "thefashionadmin"
-    fullname: >-
-      Steve
-    bio: >-
-      Fashion / Lifestyle / Purpose 📸 Photography — @_envisionphotography 🤝 Networking events — @phillygents 📍Philly Black Lives Matter
-    location: "United States"
-    followers: 25496
-    engagement: 308
-    commentsToLikes: 0.378264
-    id: ck5hhtn91a0kk0i11k1ly2u0x
-    verified: false
-    hashtags: "#fashionblog, #phillyfashion, #mensstyle, #mensfashion"
-  - username: "corneliselander"
-    fullname: >-
-      Cornelis Elander
-    bio: >-
-      Fitness Expert and TV host 📺 Norwegian 🇳🇴 in Hollywood @myworkout_com 💪
-    location: "United States"
-    followers: 62551
-    engagement: 258
-    commentsToLikes: 0.038126
-    id: ckf5la6grow9w0j23jdw2divc
-    verified: true
-    hashtags: "#styrketrening, #arms, #hjemmetrening, #komiform"
+    hashtags: "#photography, #art, #pandeiro, #blackispower"
   - username: "maxlee_50"
     fullname: >-
       Max Lee
     bio: >-
-      Marketing Special Projects Coordinator and I race dirt bikes.
+      Moto Athlete Support and I race dirt bikes.
     location: "United States"
-    followers: 10182
-    engagement: 734
-    commentsToLikes: 0.018850
+    followers: 10549
+    engagement: 849
+    commentsToLikes: 0.018456
     id: ck6ti6ndt04zk0j7163zp5s37
     verified: false
-    hashtags: "#tldmyline, #quarantivities, #lookgoodfeelgood, #getonthegas"
+    hashtags: "#peacenwheelies, #ktm, #glenhelen, #lookgoodfeelgood"
   - username: "jessicarockowitz"
     fullname: >-
       Austin Lifestyle Photographer
     bio: >-
-      Austin, TX lifestyle photog + educator Mama of 3 ✨ Emotion, love, color, + light 🌈☀️ Fully stocked client closet for mama + babes
+      ATX🌵+ travel Prob wearing leggings Curating a styled, FUN, + memorable portrait experience☀️ Mama to a teen 👱🏻‍♀️+ 2 boy besties Let’s connect 👇🏻
     location: "United States"
-    followers: 33085
-    engagement: 232
-    commentsToLikes: 0.055506
+    followers: 33533
+    engagement: 178
+    commentsToLikes: 0.056001
     id: ck5hip3ehenks0i11vphxvgyk
     verified: false
     hashtags: "#happyhumpdayeditingloop"
@@ -97,34 +61,70 @@ profiles:
     bio: >-
       👷🏼‍♂️ In construction 👨‍👩‍👧 Father & Husband ☕️ Coffee Lover 📱 Lifestyle influencer 📍 Austin, TX
     location: "United States"
-    followers: 433831
-    engagement: 389
-    commentsToLikes: 0.021220
+    followers: 404736
+    engagement: 251
+    commentsToLikes: 0.011659
     id: ck6tlt6qu6lga0j71d9eu6h0j
     verified: true
-    hashtags: "#pickupthepower, #lowespartner, #kobalttools, #sponsored"
+    hashtags: "#tools, #kobalttools, #sponsored, #powertools"
+  - username: "seethestarsablaze"
+    fullname: >-
+      christopher rhodes
+    bio: >-
+      🏳️‍⚧️trans 📍austin 📸 lifestyle, fashion, travel, fitness, & advocacy 📩 → chris@seethestarsablaze.com @flavnt_streetwear | @queerforit | @ablaze_poetry
+    location: "United States"
+    followers: 76534
+    engagement: 298
+    commentsToLikes: 0.019455
+    id: ck0tu40o45j980i19wfxlqv3e
+    verified: false
+    hashtags: "#kohlsfinds, #transjoy, #beyourownchampion, #ad"
+  - username: "naturally__cassie"
+    fullname: >-
+      Cassie🦋
+    bio: >-
+      ✨Aspire to inspire ✨ Beauty, Fashion & lifestyle Influencer 📍 Austin, Tx 📧 Partnerships: naturally.cassieb@gmail.com
+    location: "United States"
+    followers: 2745
+    engagement: 925
+    commentsToLikes: 0.148876
+    id: ck8tdncii41860j7863lfh13i
+    verified: false
+    hashtags: "#blackgirlmagic, #protectivestyles, #viral, #dallasmodels"
   - username: "suril_"
     fullname: >-
       suril | austin, texas
     bio: >-
-      shine your light ▲ | austin, tx | lifestyle & portrait photographer | email or dm for business inquiries | suril@surilpatel.com
+      shine your light ▲ | austin, tx | lifestyle & portrait photographer | email or dm for business inquiries | suril@surilpatel.com | @higherselfpodcast
     location: "United States"
-    followers: 27398
-    engagement: 102
-    commentsToLikes: 0.035220
+    followers: 20741
+    engagement: 82
+    commentsToLikes: 0.045491
     id: ck134v60zycc80i19rrd785vl
     verified: false
-    hashtags: "#portraitsinthedesert, #35mmfilm, #elan7e, #treatyoak"
-  - username: "minithunderbird"
+    hashtags: "#internationalwomensday, #waterfallwednesday"
+  - username: "thatssopam"
     fullname: >-
-      Christine
+      Pamela Roman
     bio: >-
-      ☽ Fitness • Health • Lifestyle ☽ Nutrition @austinadamsdc ☽ Training @teamcarolvaz ☽ @cls_sportswear use code thunder
+      
     location: "United States"
-    followers: 31741
-    engagement: 242
-    commentsToLikes: 0.031286
-    id: ckf5o7td919390j23xakzz243
+    followers: 2944
+    engagement: 1804
+    commentsToLikes: 0.061591
+    id: ckaouu3lp1tvd0i78hbolns6h
     verified: false
-    hashtags: "#cutegymclothes, #austinadamsdc, #teamcarolvaz, #clsbabe"
+    hashtags: "#travel, #winter, #outfit, #travelgram"
+  - username: "subie.tay"
+    fullname: >-
+      Tay
+    bio: >-
+      Not fast, just furious. Twitch.tv/Subietay
+    location: "United States"
+    followers: 6056
+    engagement: 492
+    commentsToLikes: 0.054598
+    id: ckap4fmgx75z50i78o4zoka1s
+    verified: false
+    hashtags: "#twitch, #egirl, #codmobile, #onlyfanz"
 ---

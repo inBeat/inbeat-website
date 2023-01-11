@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Turkey In 2022
+title: Top 10 Home Decor Instagram Influencers In Turkey In 2023
 description: >-
-  Find top home decor Instagram influencers in Turkey in 2022. Most popular hashtags: #homedecor #handmade #plants #interiordesign.
+  Find top home decor Instagram influencers in Turkey in 2023. Most popular hashtags: #homedecor #home #interior #homesweethome.
 platform: Instagram
-hits: 235
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 235 Instagram influencers like this in Turkey for you to work with.
+hits: 266
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 266 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "poncikeliz"
+  - username: "filiz_home"
     fullname: >-
-      Cansu EROL /INFLUENCER
+      filiz_home
     bio: >-
-      🏠 homedecoration 💡DIY project 🌿 lifestyle 🍀Azeri 🇹🇷🇦🇿Ankara
+      M.K.A.💖 Masa sunumları ve ev dekorasyonu #homedecor #dekorasyonfikirleri FARMASİ ÜRüNLERİ İÇİN LİNK'E TIKLAYIP ÜYE OLUP SATIN ALABİLİRSİNİZ
     location: "Turkey"
-    followers: 25799
-    engagement: 425
-    commentsToLikes: 0.061656
-    id: ckap26p3gxlzk0i78ycxsx65a
+    followers: 175948
+    engagement: 114
+    commentsToLikes: 0.063192
+    id: ck8sylp3dl7ef0j78t5ha5aiw
     verified: false
-    hashtags: "#annebebek, #omaybgn34, #baby, #justbaby"
+    hashtags: "#tabledesign, #passionista, #masasunumu, #dekorasyonfikirleri"
   - username: "girlafikir"
     fullname: >-
       gırla fikir
     bio: >-
       🏠 homedecoration 💡DIY project 🌿 lifestyle 📧girlafikirgirlafikir@gmail.com
     location: "Turkey"
-    followers: 19659
-    engagement: 326
-    commentsToLikes: 0.059044
+    followers: 19218
+    engagement: 309
+    commentsToLikes: 0.063906
     id: ck139k8nylpyw0i19znaiosrh
     verified: false
-    hashtags: "#springflowers, #hellomay, #karadeniz"
+    hashtags: "#09022017, #can"
   - username: "kaktusistan"
     fullname: >-
       K A K T U S İ S T A N 🌸
     bio: >-
-      Cansu🧚🏼‍♀️ MEB♨️öğretmen👩🏻‍🏫 İş birliği için📩✨ #PatikKızım 🐈 #plant 🌿 #homedecor 🏡
+      Cansu🧚🏼‍♀️ MEB♨️Öğretmen👫🏻 İş birliği için📩✨ #PatikKızım 🐈 #plant 🌿 #homedecor 🏡
     location: "Turkey"
-    followers: 10284
-    engagement: 584
-    commentsToLikes: 0.027431
+    followers: 9320
+    engagement: 560
+    commentsToLikes: 0.036205
     id: ck8tdcum42uge0j78fl581750
     verified: false
-    hashtags: "#garden, #plantsmakepeoplehappy, #cactilover, #succulents"
-  - username: "alwayshappymoments"
+    hashtags: "#kaktu, #kaktus, #monstera, #cactalicious"
+  - username: "tgbyucel"
     fullname: >-
-      Burcu.
+      Tuğba YÜCEL YILMAZ
     bio: >-
-      ♡CₑₘBᵤᵣcᵤₐdₐ♡ 👨‍👩‍👧🧿 Kitap, etkinlik önerileri ve deneyimlerim🌸 Evinizi güzelleştiren fikirler için ➡️ @decorationprojects
+      🇹🇷 💛♥️ Lifestyle 💁🏻‍♀️ homedecoration 🏠 İletişim 📩tyucelgs@gmail.com
     location: "Turkey"
-    followers: 19913
-    engagement: 262
-    commentsToLikes: 0.068000
-    id: ckf5t9p36h9c20j23r5z71tjk
+    followers: 24149
+    engagement: 157
+    commentsToLikes: 0.014411
+    id: ck9hberybgih00j785boyvqin
     verified: false
-    hashtags: "#diyfun, #diyfood, #homedecor, #diyfuture"
-  - username: "asliiarigun"
+    hashtags: "#coffeeculture, #tu, #koronag, #fotografia"
+  - username: "macrahome"
     fullname: >-
-      Aslı Arıgün 🕊☘️
+      macrahome
     bio: >-
-      Su Mila 💚 👜 Founder of @shumilabags 👷🏻‍♀️Construction Planning Chief👷🏻‍♀️ | mom| lifestyle | influencer | İletişim 💌 asliarigunn@gmail.com
+      Modern Macrame ©•Home Living ©•Cotton Rope © #letsmakesomethingnatural #homedecor Shop Online:
     location: "Turkey"
-    followers: 82126
-    engagement: 120
-    commentsToLikes: 0.114438
-    id: ck9wopx0b63xi0j78jc6rr2gs
+    followers: 31097
+    engagement: 95
+    commentsToLikes: 0.032451
+    id: ckaor679zlw5w0i78g4wmfcb3
     verified: false
-    hashtags: "#mutfakdekorasyonu, #decor, #kitchen, #ceyiz"
-  - username: "xphalitxp"
+    hashtags: "#home, #bohemyatako, #makrome, #macramedecor"
+  - username: "ozge.urkmezz"
     fullname: >-
-      Temizkan_halidd
+      Özge Ürkmez
     bio: >-
-      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥İŞ BİRLİĞİ İÇİN DM ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
+      🐆Lifestyle ✉️ ozge.urkmz@gmail.com 🤎@ersnurkmz
     location: "Turkey"
-    followers: 10140
-    engagement: 406
-    commentsToLikes: 0.098382
-    id: ckapb2imgybv80i789vnokj18
+    followers: 8151
+    engagement: 748
+    commentsToLikes: 0.102381
+    id: ck8td8tqn2dcv0j78qw55god0
     verified: false
-    hashtags: "#dog, #kids, #instalike, #bestoftheday"
-  - username: "lepiskadolls"
+    hashtags: "#me, #home, #girlsgirlsgirls, #filtre"
+  - username: "blogzeynosu"
     fullname: >-
-      S e r a p  A k ı n
+      Zeynep 🍂
     bio: >-
-      GÜLE GÜLE SEVİN! M y d o l l s 👸 P l a n t s 🌱 H o m e 🏠 D i y 👉@serabihayat 🔬Yük. Gıda Müh. ✉ İş birliği için DM 🏠Tekirdağ 💓www.LepiskaDolls.etsy.com
+      𝓲𝓬𝓲𝓶´𝓭𝓮𝓷 𝓰𝓮𝓵𝓭𝓲 ♡︎
     location: "Turkey"
-    followers: 39505
-    engagement: 84
-    commentsToLikes: 0.034928
-    id: ck9wecoezjphn0j78y3xjhrai
+    followers: 7931
+    engagement: 588
+    commentsToLikes: 0.031076
+    id: ckf5mfn57tla00j2355ycknu8
     verified: false
-    hashtags: "#tilda, #home, #dolls, #fashion"
-  - username: "insukuland"
+    hashtags: "#homesweethome, #sweet, #food, #interiordesign"
+  - username: "thehomesocial"
     fullname: >-
-      👩🏻‍🌾 ʙᴜᴋᴇᴛ & ɢüʟᴀʏ 👩🏼‍🌾
+      Ceren Kaya
     bio: >-
-      🌵 Kaktüs Sukulent Rehberi Daha fazlası için takipte kalın🍃 ʙɪʀ ᴀɴɴᴇ ɪʟᴇ ᴋıᴢıɴ ᴍɪɴɪᴋ ʙᴀʜçᴇsɪ 🌵 𝕀𝕫𝕞𝕚𝕣,𝕋𝕦𝕣𝕜𝕖𝕪 #cacti #cactus #succulent #kaktüs
+      Sharing my daily vibes🍃 ▪Interior | Lifestyle | Product photography📸 @thehomesocialphotography @b4soc ✉ cerenkaya@b4social.com
     location: "Turkey"
-    followers: 20397
-    engagement: 688
-    commentsToLikes: 0.117811
-    id: ck14idw87exrv0i19qxcmd6uk
+    followers: 17163
+    engagement: 304
+    commentsToLikes: 0.040991
+    id: ck6ue7uzlpbvg0j71qqmphpna
     verified: false
-    hashtags: "#cactosesuculentas, #cactusmania, #plantcollection, #succulentlove"
-  - username: "mehmetioksuz"
+    hashtags: "#scandinavianinterior, #scandinavianstyle, #myhmhome, #scandi"
+  - username: "ayseorberk"
     fullname: >-
-      Mehmet Öksüz
+      ayse orberk
     bio: >-
-      Mekan, yemek, müzik yaparım. Daha niceleri hikayelerde. Gibi Bodrum. 🕊🌱 @gibibodrum Yeni Ev Turu yayında.👇🏻🍃
+      Antique store , interior decoration, antique , vintage , art, collectible items Turnacıbasi sok no:51 Cukurcuma Beyoğlu Istanbul
     location: "Turkey"
-    followers: 30880
-    engagement: 819
-    commentsToLikes: 0.028640
-    id: ck8t6n24ae6ma0j78siq8lvk9
+    followers: 5452
+    engagement: 1400
+    commentsToLikes: 0.125932
+    id: ck5q0xerb88bi0i11xjsmraxq
     verified: false
-    hashtags: "#kitchen, #oturmaodas, #bohostyle, #homedecoration"
-  - username: "meleginfincanaski"
+    hashtags: "#antiqueshop, #uptown, #homedecoration, #livingroomdecor"
+  - username: "aiser0se"
     fullname: >-
-      ask-i fincan
+      aiserose
     bio: >-
-      sunumcu değil fincan KOLEKSİYONERİ💕💕satış sayfası değildir✋✋fotoğrafların ve fincanların tamamı bana aittir 👍👍 iki meleğin annesi 👶👶
+      A i ş e g ü l Lifestyle&Mommblogger 🎀 I’m a D U A come true. Dua Asena & Azer Alparslan❤️ Collabs 📩 aiserosed@outlook.com
     location: "Turkey"
-    followers: 5152
-    engagement: 1316
-    commentsToLikes: 0.088275
-    id: ck9hatxaqe4dy0j78rtvnq964
+    followers: 134129
+    engagement: 395
+    commentsToLikes: 0.111836
+    id: ck6tzhuxt9shu0j71tn7cya9l
     verified: false
-    hashtags: "#coffeeholic, #antikapazar, #qatar, #coffeeshop"
+    hashtags: "#family, #design, #motherhood, #instagood"
 ---

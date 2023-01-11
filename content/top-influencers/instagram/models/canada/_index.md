@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Canada In 2022
+title: Top 10 Models Instagram Influencers In Canada In 2023
 description: >-
-  Find top models Instagram influencers in Canada in 2022. Most popular hashtags: #selfie #shein #fall.
+  Find top models Instagram influencers in Canada in 2023. Most popular hashtags: #instagood #love #picoftheday.
 platform: Instagram
-hits: 660
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 660 Instagram influencers like this in Canada for you to collaborate.
+hits: 320
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 320 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "mandilicous"
+  - username: "lexiiwiinters"
     fullname: >-
-      Mandy | Food | Lifestyle
+      LEXI WINTERS
     bio: >-
-      🇨🇦🇭🇰Published Model Lv 8 @googlelocalguides top1% Toronto @yelp elite @tiktok missmandilicous DM for collabs & invites 歡迎合作💕 Eng粵國 繁简
+      Hi Sexi!! 22. Calgary. Published Model. Tik Tok 412k. The link you want 🔗
     location: "Canada"
-    followers: 10231
-    engagement: 2126
-    commentsToLikes: 0.162206
-    id: ck15pdxixxeob0i199dnoaf03
+    followers: 29811
+    engagement: 396
+    commentsToLikes: 0.060485
+    id: ck8wfuj8mga5t0j78ab5rdqrk
     verified: false
-    hashtags: "#tastetoronto, #tastethesix, #bubbletea, #torontofoodies"
+    hashtags: "#love, #fashion, #trending, #explorepage"
+  - username: "sarahdkxo"
+    fullname: >-
+      Sarah DeMelo✨ creator + mama
+    bio: >-
+      motherhood • midsize fashion • lifestyle 🎗️oncology mom, model + co-founder 💌 sarah.ademelo@gmail.com 🇨🇦 Toronto/Oakville #BennietheBrave
+    location: "Canada"
+    followers: 37441
+    engagement: 69
+    commentsToLikes: 0.098919
+    id: ckq66kj8jh7mf0j23blcd3gi6
+    verified: false
+    hashtags: "#fuckcancer, #ad, #fightlikeakid, #fucancer"
+  - username: "aslu.ox__"
+    fullname: >-
+      R ⭕ W D Y
+    bio: >-
+      . ALHAMDULLILAAH 💯 . FASHION MODEL . KEEP SMILING 🥀 . ."All my haters , Assemble here "🚀 🍃.. . . CIVILIAN 👷
+    location: "Canada"
+    followers: 4934
+    engagement: 2678
+    commentsToLikes: 0.178072
+    id: ck9wi95sx19bv0j78s3u61tjk
+    verified: false
+    hashtags: "#instagood, #thrissur, #malayalamcinema, #kerala"
   - username: "annaliafraser"
     fullname: >-
       Annalia Fraser
     bio: >-
-      Tennis Player, Actress, Model Snapchat: annaliafraser
+      Tennis Player, Actress, Model Snapchat: annaliafraser 🎾
     location: "Canada"
-    followers: 22909
-    engagement: 1439
-    commentsToLikes: 0.082232
+    followers: 24536
+    engagement: 1427
+    commentsToLikes: 0.087217
     id: ck5hsohlvwxoi0i110y2vgapz
     verified: false
-    hashtags: "#happyhalloween"
-  - username: "justina.sadecki"
+    hashtags: "#happyhalloween, #birthdaygirl, #2021"
+  - username: "cherieleexo"
     fullname: >-
-      Justina
+      Chérie | Sure-E
     bio: >-
-      God First.📍Ontario Psych B.A | Mental Health Advocate Body Positive | Model | Artist @justinapaints | 🇵🇱 shoot with me! 💌 justina.sadecki@gmail.com
+      📍 NYC 🍩 Part time model, full time donut lover 💌 Cherieleexo@gmail.com
     location: "Canada"
-    followers: 13740
-    engagement: 1313
-    commentsToLikes: 0.055647
-    id: ck8t11pe3u54n0j78019t2bey
+    followers: 25678
+    engagement: 464
+    commentsToLikes: 0.108676
+    id: ck14gyvqv7pbf0i19rih1bdkc
     verified: false
-    hashtags: "#virgoseason, #mybhlook"
-  - username: "brooke.antonsen"
-    fullname: >-
-      Brooke Antonsen
-    bio: >-
-      Calgary, AB✨ Published Model, Lifestyle, Fitness @fitarmyofficial Athlete🏆
-    location: "Canada"
-    followers: 9281
-    engagement: 3310
-    commentsToLikes: 0.052745
-    id: ck5hjlstsguoe0i11mydyh2jo
-    verified: false
-    hashtags: "#empoweredescape, #godsplan, #cheese, #throwbackthursday"
+    hashtags: "#lifehacks"
   - username: "sabr_22"
     fullname: >-
       Sabrina Ianniciello
     bio: >-
-      Model/ Travel / Fitness 👙 ✈️ 🤸🏽‍♀️ @believesupplements - SAB20 20% DM/Email for collaboration
+      Model/ Travel / Fitness 🤍 @believesupplements - SAB20 20% DM/Email for collaboration
     location: "Canada"
-    followers: 163583
-    engagement: 465
-    commentsToLikes: 0.039630
+    followers: 168235
+    engagement: 374
+    commentsToLikes: 0.039933
     id: ck5c6boxy540s0i114b27ovck
     verified: false
-    hashtags: "#mercedesbenz, #fashionnovababe, #missygirl, #missyempire"
-  - username: "khamicabingham"
+    hashtags: "#missygirl, #missyempire, #missygirls, #cybermonday"
+  - username: "florencemrtl"
     fullname: >-
-      BINGS
+      FLORENCE MARTEL
     bio: >-
-      🇨🇦Olympian • Model • Trainer ✝️ | #150women | Full clip of: “Not Fitting the Look” ⬇️
+      Montréal📍 Stay humble, be kind, work hard. ✨ 📥 DM for inquires & collabs Model | Acting 🎭 | Registered Nurse💉
     location: "Canada"
-    followers: 30204
-    engagement: 1101
-    commentsToLikes: 0.036441
-    id: ck6tu1auxdqgp0j71gc2w1z3w
-    verified: true
-    hashtags: "#teamcanada, #igers, #canada, #track"
-  - username: "_emmytinglin"
-    fullname: >-
-      Emmerly Tinglin ✨
-    bio: >-
-      ♡ 100k + views on YouTube ♡ Actress | Dancer | Model | @miraclemgmt ♡ NBA Dancer | Toronto Raptors Subscribe⇣🦋
-    location: "Canada"
-    followers: 28424
-    engagement: 1224
-    commentsToLikes: 0.041834
-    id: ck5hozkirqibd0i11cue65wqx
+    followers: 6668
+    engagement: 1250
+    commentsToLikes: 0.210518
+    id: ckapbmk5g0gfp0i7814gcjzli
     verified: false
-    hashtags: "#ad, #shein, #sheingals, #forgirlsbygirls"
-  - username: "natlejour"
+    hashtags: "#modelmontreal, #montrealmoments, #montrealartist, #concoursmontreal"
+  - username: "karinacabiling"
     fullname: >-
-      Nathalie
+      Karina Cabiling
     bio: >-
-      ✨Blog Perso ✨Lifestyle 👩🏼‍🦳 ✨Montreal Vibes 💫🇨🇦 ✨Health Food Travels ✨Nature Fashion ✨Silver Model 🖤📸- 58 years ✨DM for collab ✨Happy Wife ❤️
+      Motherhood, self-care & laughs Boy mom x2 Model(Sutherland Toronto|FolioMontreal) Founder @islarosaswim 📧 karina.cabiling@gmail.com
     location: "Canada"
-    followers: 8740
-    engagement: 930
-    commentsToLikes: 0.304150
-    id: ckap9zo2ku4w70i78ps2q8d9k
+    followers: 74242
+    engagement: 672
+    commentsToLikes: 0.026977
+    id: ckf5lt8e2qxhe0j23vwo9jcn5
     verified: false
-    hashtags: "#greyhair, #selfie, #montreallife, #agelessstyle"
-  - username: "elizabethdelimaa"
+    hashtags: "#funnyreels, #momsofig, #relatablepost, #momlife"
+  - username: "jinni0911"
     fullname: >-
-      Elizabeth De Lima
+      金妮Jinni (Ginny)
     bio: >-
-      Elite models
+      加拿大中文電台主持人FM96.1 節目：GIN彩大FUN送 ㄧ到五4PM 主持人🎤素人歌手🎤Model🎤Influencer🎤Youtuber ᴛᴀɪᴡᴀɴᴇsᴇ🇹🇼ᴄᴀɴᴀᴅɪᴀɴ🇨🇦 FB粉專🔍jinni0911 @dakasicanada 加拿大大卡司闆娘 YT溫村生活：新一集👇一日模特-諧星
     location: "Canada"
-    followers: 4952
-    engagement: 2317
-    commentsToLikes: 0.060933
-    id: ck5zijflwftns0i14pprkky4z
+    followers: 50265
+    engagement: 245
+    commentsToLikes: 0.066032
+    id: ck6u6tconhlxp0j714m4z7y6f
     verified: false
-    hashtags: ""
-  - username: "briglalonde"
+    hashtags: "#2021, #bjbmw, #bmwm2, #bmwm2cs"
+  - username: "daniella_wackerhagen"
     fullname: >-
-      Brigitte Lalonde
+      Daniella
     bio: >-
-      Model / Creator of @popjackets & @petartbybrig 📍🇨🇦
+      📍AB Canada Canadian/German 💖Published Model 💖Runway Model
     location: "Canada"
-    followers: 33178
-    engagement: 346
-    commentsToLikes: 0.090265
-    id: ck5zq5mkbtzcq0i14q9dcdmy3
+    followers: 9660
+    engagement: 627
+    commentsToLikes: 0.160085
+    id: ck0u2m56q0bek0i19u0u34mb3
     verified: false
-    hashtags: ""
+    hashtags: "#newmodel, #futuremodel, #editorialphotoshoot, #highfashion"
 ---

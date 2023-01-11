@@ -1,130 +1,118 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Germany In 2022
+title: Top 10 Home Decor TikTok Influencers In Germany In 2023
 description: >-
-  Find top home decor TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #homedecor #foryou #fy.
+  Find top home decor TikTok influencers in Germany in 2023. Most popular hashtags: #diy #homedecor #fyp #fy.
 platform: TikTok
-hits: 13
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 13 TikTok influencers like this in Germany for you to pitch.
+hits: 9
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 9 TikTok influencers like this in Germany for you to pitch.
 profiles:
+  - username: "diy_byhulyaa"
+    fullname: >-
+      H U L Y Λ
+    bio: >-
+      •DIY •INTERIOR •INSPO 📍GERMANY
+    location: "Germany"
+    followers: 204800
+    engagement: 518
+    commentsToLikes: 0.031104
+    id: ckc1ygv4x2b2m0j23td7b0iaa
+    verified: false
+    hashtags: "#diy, #fyp, #fy, #hulisbeautyblog"
+  - username: "easyinterieur"
+    fullname: >-
+      Melike
+    bio: >-
+      Melike ❤️ DIY, Interior, Hacks ⬇️Handmade DIY-Deko (Affiliate Link)
+    location: "Germany"
+    followers: 2000000
+    engagement: 549
+    commentsToLikes: 0.003719
+    id: ck8adbqxl4ybu0j78v52b2ybw
+    verified: true
+    hashtags: "#homedecor, #hack, #lowbudget, #diy"
   - username: "fridlaa"
     fullname: >-
       Fridlaa
     bio: >-
       I love interior and DIYs ❤️ more living & interior on Instagram Fridlaa❤️
     location: "Germany"
-    followers: 130800
-    engagement: 625
-    commentsToLikes: 0.010553
+    followers: 159300
+    engagement: 714
+    commentsToLikes: 0.008652
     id: ck81s9b7jqzap0j787pmjj06j
     verified: false
-    hashtags: "#homedeco, #bedroom, #instaxinspo, #homedecor"
-  - username: "whyvanessa"
+    hashtags: "#homedecoration, #bedroom, #decoration, #fy"
+  - username: "whatever_remains"
     fullname: >-
-      VANESSA 🦋✰
+      ⚖️
     bio: >-
-      💌 vanessxisabelle@gmail.com 21, germany ig: caeffein
+      I do things, with stuff
     location: "Germany"
-    followers: 163800
-    engagement: 1885
-    commentsToLikes: 0.022761
-    id: cka0harwr8c9s0i788k3g6l35
+    followers: 29400
+    engagement: 1308
+    commentsToLikes: 0.015232
+    id: ck8f829nc3c6v0j782z9fx4os
     verified: false
-    hashtags: "#grwm, #foryou, #routine, #travel"
-  - username: "luv.u.to.the.moon"
-    fullname: >-
-      audrey moon
-    bio: >-
-      i may be an idiot, but im not stupid tpwk(; 18 || 🇰🇷🇺🇸
-    location: "Germany"
-    followers: 275200
-    engagement: 2493
-    commentsToLikes: 0.009783
-    id: ck9c08s4ro5nd0j78vot6kdpa
-    verified: false
-    hashtags: "#fyp, #mylevismyvibe, #foryoupage, #matthewgubler"
-  - username: "beautysavestheworld"
-    fullname: >-
-      Katha Rina
-    bio: >-
-      Artist from Germany 31 years old CEO of Colors 🌈🌈🌈 Fluidart Obsessed
-    location: "Germany"
-    followers: 9004
-    engagement: 1152
-    commentsToLikes: 0.024706
-    id: ckb97tmrequsw0j236rqvlvzy
-    verified: false
-    hashtags: "#artistcheck, #decorart, #coasterart, #resinartwork"
+    hashtags: "#trashcore, #resinart, #diy, #resin"
   - username: "sariileiin"
     fullname: >-
       ♡ Sariileiin ♡
     bio: >-
       ✨ Follow me on instagram ✨
     location: "Germany"
-    followers: 212700
-    engagement: 1074
-    commentsToLikes: 0.013030
+    followers: 210900
+    engagement: 1151
+    commentsToLikes: 0.010284
     id: ckbl455gr1kz20j23lu2f30ph
     verified: false
-    hashtags: "#newyork, #foryou, #christmas, #homedecor"
-  - username: "patrycjanieradka"
+    hashtags: "#christmas, #newyork, #foryou, #homedecor"
+  - username: "monas_ideas"
     fullname: >-
-      Pati 🦋🧿
+      monas_ideas
     bio: >-
-      9 k ? ✨ 🧿🧿 Insta: patinieradka
+      ❣️HeY❣️see my page👆🏼
     location: "Germany"
-    followers: 8885
-    engagement: 1409
-    commentsToLikes: 0.029097
-    id: cka6e76cjann30i78kdmtmpv1
+    followers: 196400
+    engagement: 499
+    commentsToLikes: 0.013842
+    id: ck8or5lgkan590j78i2lr7o4h
     verified: false
-    hashtags: "#2020, #louisvuitton, #featureme, #sainttropez"
-  - username: "nidhiarun1_jodino.1"
-    fullname: >-
-      Nidhi❤️Arun
-    bio: >-
-      Follow me on Instagram@gul_arun If you like ME n M LIFESTYLE❤️
-    location: "Germany"
-    followers: 5951
-    engagement: 468
-    commentsToLikes: 0.090499
-    id: cka0ly88et17o0i78ca6ijze3
-    verified: false
-    hashtags: "#lifeisbeautiful, #beachvibes, #husbandandwife, #slowmo"
-  - username: "inclutter"
-    fullname: >-
-      ⚖️
-    bio: >-
-      I do things, with stuff.
-    location: "Germany"
-    followers: 29000
-    engagement: 1217
-    commentsToLikes: 0.009747
-    id: ck8f829nc3c6v0j782z9fx4os
-    verified: false
-    hashtags: "#trashed, #papermarbling, #makeover, #trashcore"
+    hashtags: "#tutorial, #hairstyle, #photographytricks, #photographyhack"
   - username: "lenkas_travels"
     fullname: >-
       Lenka
     bio: >-
       Explore the world with me from behind my camera 🌎🌍🌏 Insta: @lenkas_travels
     location: "Germany"
-    followers: 70400
-    engagement: 567
-    commentsToLikes: 0.038455
+    followers: 68700
+    engagement: 605
+    commentsToLikes: 0.048271
     id: ck9gkopg2kmed0j78mcqyj5yq
     verified: false
-    hashtags: "#tiktoktravel, #indonesia, #islandlife, #ireland"
-  - username: "charlotteschueler"
+    hashtags: "#travelvideo, #fyp, #handmade, #macrame"
+  - username: "genialetricks"
     fullname: >-
-      Plastikfrei Leben
+      Geniale Tricks
     bio: >-
-      Meine📖„Einfach Plastikfrei Leben“&„DIY-Einfach Plastikfrei Leben“🙎🏼‍♀️💕⬇️⬇️
+      Tricks, Tipps & Lifehacks, die das Leben leichter machen.
     location: "Germany"
-    followers: 118500
-    engagement: 1649
-    commentsToLikes: 0.006799
-    id: ckb9vnwocv2bd0j23dnv1ctyn
+    followers: 174400
+    engagement: 803
+    commentsToLikes: 0.006740
+    id: ck81qyn7rkzu30j78sajxnyjp
     verified: true
-    hashtags: "#fy, #lernenmittiktok, #plastikfrei, #zerowaste"
+    hashtags: "#lernenmittiktok, #weihnachtsdekoration, #concrete, #weihnachtsdeko"
+  - username: "nastjastasia"
+    fullname: >-
+      nastjastasia
+    bio: >-
+      Einmal um die Welt 🌏 Insta: nastjastasia From Germany 🇩🇪
+    location: "Germany"
+    followers: 65900
+    engagement: 454
+    commentsToLikes: 0.015883
+    id: ckb9t8cy9r5lw0j23mkhiuzlu
+    verified: false
+    hashtags: "#viral, #tiktokdeutschland, #reiseblogger, #fyp"
 ---

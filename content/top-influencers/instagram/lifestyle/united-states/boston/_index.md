@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Boston In 2022
+title: Top 10 Lifestyle Instagram Influencers In Boston In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Boston in 2022. Most popular hashtags: #boston #bostonblogger #fashion #reels.
+  Find top lifestyle Instagram influencers in Boston in 2023. Most popular hashtags: #boston #lifestyle #mood.
 platform: Instagram
-hits: 115
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 115 Instagram influencers like this in Boston, United States for you to contact.
+hits: 141
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 141 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
-  - username: "_fetty_af"
+  - username: "chelseynicolemodel"
     fullname: >-
-      Alex Fetbroth
+      Chelsey Nicole
     bio: >-
-      BOS>LA>🌎 I create things. @go2talent | @productionzaf
+      @chelseycatmeow 🐈♐ Maine ⚓️🌲 Florida🌞🌴 Model 🌟👠 Artist 🎼💄@chelseynicoleexclusives 📸🌄 @theessential_collection 👑💍 @cutthegluten 🍞🔞
     location: "United States"
-    followers: 26204
-    engagement: 132
-    commentsToLikes: 0.053894
-    id: ck8sy8dg7k30s0j782yc7l4a4
+    followers: 49559
+    engagement: 201
+    commentsToLikes: 0.036729
+    id: ckap6d0dafdkn0i78ezbgkwjh
     verified: false
-    hashtags: "#freestyle, #losangeles, #fettyaf, #harleydavidson"
+    hashtags: "#glamour, #artistsoninstagram, #photoshoot, #merrychristmas"
+  - username: "mumoo_sissi"
+    fullname: >-
+      旧金山摄影师Sissi
+    bio: >-
+      📍 #sanfrancisco #bayarea 💌 微信：MUMOO_1（约片请备注） 📕 小红书&微博：Sissi_柳茜 🥰 IG小号：@sissi_liuxi_
+    location: "United States"
+    followers: 17743
+    engagement: 182
+    commentsToLikes: 0.027287
+    id: ck14im489g2kw0i19wqo0oafc
+    verified: false
+    hashtags: "#travel, #outfit, #lifestyle, #bostonphotographer"
+  - username: "chic.girlie"
+    fullname: >-
+      Ritu || Chicgirlie
+    bio: >-
+      Cooking Fashion with a splash of Makeup and dash of Lifestyle 📍Boston Use #chicgirlie to reveal your glam 💯 South Asian
+    location: "United States"
+    followers: 31441
+    engagement: 241
+    commentsToLikes: 0.180128
+    id: ck0w237grmem00i1985jtl4ck
+    verified: false
+    hashtags: "#whatshewore, #whatiworetoday, #bostonblogger, #summeroutfits"
+  - username: "lindatenchitran"
+    fullname: >-
+      Linda | Fashion
+    bio: >-
+      Teach girls to be somebodies instead of somebody's. ➵ fashion, beauty & lifestyle ☞ Boston ✎ linda@lindatenchitran.com
+    location: "United States"
+    followers: 8318
+    engagement: 616
+    commentsToLikes: 0.096028
+    id: ckaouwqye25d80i78ghj8dxwj
+    verified: false
+    hashtags: "#hbtsponsored, #zaful, #zafulgirl, #zafulfashion"
+  - username: "mallorycassady"
+    fullname: >-
+      Mallory Dill Cassady
+    bio: >-
+      Fashion+Lifestyle 📍Boston+NYC 💌Let’s collab: mallorycassady@gmail.com
+    location: "United States"
+    followers: 33553
+    engagement: 157
+    commentsToLikes: 0.057143
+    id: ck0tz7p8bpdnp0i193sx4srk1
+    verified: false
+    hashtags: "#ltkhome, #styledbypetalandpup, #diffeyewear, #nutrafolpartner"
   - username: "polyanablog"
     fullname: >-
       Polyana
     bio: >-
       ⚡️Beauty ⚡️Fashion ⚡️ Lifestyle 📍#Boston #bostonblogger
     location: "United States"
-    followers: 16744
-    engagement: 381
-    commentsToLikes: 0.028354
+    followers: 15727
+    engagement: 407
+    commentsToLikes: 0.028507
     id: ckap28wvtxw6p0i78udto1pwm
     verified: false
-    hashtags: "#skincare, #experiencecalm, #hbtpress, #shoedazzlepartner"
-  - username: "chic.girlie"
+    hashtags: "#skincare, #hbtpress, #octolyfamily, #shoesaddict"
+  - username: "vera.laro"
     fullname: >-
-      Ritu || Chicgirlie
+      Vera | BSc Chem Eng JD
     bio: >-
-      Cooking Fashion with a splash of Makeup & dash of Lifestyle 📍Boston✈️N O L A 📩:chicgirlie@gmail.com Use #chicgirlie to reveal glam #bostonblogger 🇺🇸🇮🇳
+      💪 Workouts for Everyone & Healthy Lifestyle ✨ Boston, MA 🇺🇸 🇷🇺 🇮🇱 (Previously: Fashioneatstravel)
     location: "United States"
-    followers: 30929
-    engagement: 348
-    commentsToLikes: 0.172022
-    id: ck0w237grmem00i1985jtl4ck
+    followers: 177849
+    engagement: 143
+    commentsToLikes: 0.057557
+    id: ckf5meq4pth7p0j23iy2cs6k4
     verified: false
-    hashtags: "#whatiwore, #chicgirlie, #rewardstylebloggers, #reelsinsta"
+    hashtags: ""
   - username: "eastcoastfeastcoast"
     fullname: >-
       Lena|Boston’s Garden of Eatin’
     bio: >-
-      👩🏽Kim KARBdashian (or Lena) ⚡️food | recipes | luxury travel | lifestyle 📍#boston 💌 eastcoastfeastcoast@gmail.com
+      ⚡️food | recipes | luxury travel | lifestyle 📍#boston 💌 eastcoastfeastcoast@gmail.com
     location: "United States"
-    followers: 166026
-    engagement: 84
-    commentsToLikes: 0.054457
+    followers: 161885
+    engagement: 55
+    commentsToLikes: 0.070052
     id: ck8sxkl19hqkv0j784mbjri7m
     verified: false
-    hashtags: "#eastcoastfeastcoast, #herdez, #delicious, #boston"
+    hashtags: "#sanfranciscoeats, #sanfranciscofood, #llbeanpartner, #beanoutsiderinthecity"
   - username: "autumninmotherhood"
     fullname: >-
       Autumn
     bio: >-
       Motherhood • Lifestyle • Design Boston 🌿
     location: "United States"
-    followers: 13270
-    engagement: 236
-    commentsToLikes: 0.107666
+    followers: 15851
+    engagement: 118
+    commentsToLikes: 0.101333
     id: ckf5o6c6012zp0j235ag1sopg
     verified: false
-    hashtags: "#guavafamily, #generationgood, #ilovetarget, #fallvibes"
+    hashtags: "#gooutside, #childhoodunplugged, #newhomeadventures, #thisis9"
   - username: "niaraijezie"
     fullname: >-
-      NiARA IJEZIE
+      NiARA IJEZIE ✨
     bio: >-
-      Welcome to my world 😌💅🏾✨ Boss Beauty | Spiritual | Traveler | Real Estate Agent ~ Lifestyle page @bostonloftyliving Click the link to see more 👇🏾
+      𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓌𝑜𝓇𝓁𝒹 All things beauty & business 💅🏾🏢 Lifestyle Realtor®️ @bostonloftyliving Other socials👇🏾
     location: "United States"
-    followers: 3514
-    engagement: 706
-    commentsToLikes: 0.161989
+    followers: 5735
+    engagement: 784
+    commentsToLikes: 0.067523
     id: ck6tifle60mhs0j711ru3rnsr
     verified: false
-    hashtags: "#blackbloggers, #selflove, #love, #thebloggerpoint"
-  - username: "adrivasini"
-    fullname: >-
-      Adriana Vasini
-    bio: >-
-      👑Miss Venezuela Mundo 2009 👑ReinaHispanoamericana 2009 👑2nd RunnerUp Miss World2010. Model l Medical Doctor 📍Boston
-    location: "United States"
-    followers: 32823
-    engagement: 489
-    commentsToLikes: 0.054847
-    id: ckaov4tk331zs0i78ljhqocd3
-    verified: false
-    hashtags: "#mypivopod, #bostonblogger, #bostondays, #summerdays"
-  - username: "ameeralmaliki"
-    fullname: >-
-      Ameer Almaliki | امير المالكي
-    bio: >-
-      #Fashion | #Lifestyle | #Travel | #cars Boston, MA 📍 Let’s collaborate 👇 ameer.almalikii@gmali.com
-    location: "United States"
-    followers: 28279
-    engagement: 98
-    commentsToLikes: 0.108242
-    id: ck6ui46sscyn10j71hf4tjgfi
-    verified: false
-    hashtags: "#mensfashion, #expresstogether, #sponsored, #boston"
-  - username: "tonsablush"
-    fullname: >-
-      Sarah Anne
-    bio: >-
-      💗 fashion / lifestyle blogger 📍 Boston & Toronto based 🎥 YouTube: “tonsablush” 🍑 body positive activist 🌿 plant mom
-    location: "United States"
-    followers: 134395
-    engagement: 108
-    commentsToLikes: 0.016908
-    id: ck0w0a4obd5xw0i19y1hc1fdf
-    verified: false
-    hashtags: "#bidenharris2020, #brooklinen, #70sstyle, #whatiwore"
-  - username: "alyssakstevens"
-    fullname: >-
-      Alyssa Stevens
-    bio: >-
-      Boston•Fashion•Food•Travel•Beauty ::PR + Social Media Director ::Blogger at The A-Lyst, a Boston-based lifestyle blog 💌alyssa@the-alyst.com
-    location: "United States"
-    followers: 7068
-    engagement: 730
-    commentsToLikes: 0.077137
-    id: ck0vy42r3253f0i198ybfafo9
-    verified: false
-    hashtags: "#springstyle, #bostonhome, #bostonblogger, #bloom"
+    hashtags: "#browngirlbloggers, #chillvibes, #melaninstylediary, #travelandchill"
 ---

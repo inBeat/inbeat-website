@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Brazil In 2022
+title: Top 10 Skincare Instagram Influencers In Brazil In 2023
 description: >-
-  Find top skincare Instagram influencers in Brazil in 2022. Most popular hashtags: #blogger #skincare #cacheadas.
+  Find top skincare Instagram influencers in Brazil in 2023. Most popular hashtags: #cabelocacheado #cachos #maquiagem.
 platform: Instagram
-hits: 806
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 806 Instagram influencers like this in Brazil for you to work with.
+hits: 738
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 738 Instagram influencers like this in Brazil for you to work with.
 profiles:
+  - username: "belezacomari"
+    fullname: >-
+      Beleza com Mari
+    bio: >-
+      💖 mari, 25 🧖🏽‍♀️ muitas dicas de skincare, make e beleza 👀 assista os stories! 💌 belezacomari@pgbagency.com ✨ recife - pe
+    location: "Brazil"
+    followers: 937158
+    engagement: 192
+    commentsToLikes: 1.731208
+    id: ck0w199lqi6pz0i1985pm7uho
+    verified: false
+    hashtags: "#belezafeminina, #cuidadoscomapele, #rotinadebeleza, #pelelinda"
+  - username: "oficialdudafernandes"
+    fullname: >-
+      Duda Fernandes | MUA
+    bio: >-
+      A maquiagem MUDOU minha vida e te mostro como pode mudar a sua também! @belledudacosmetics 💥 Maquiadora | Skincare | CACHOS 👩🏻‍🦱 | Psicologia 🎓
+    location: "Brazil"
+    followers: 1213969
+    engagement: 43
+    commentsToLikes: 0.047013
+    id: ck0w4ssgw08jc0i19r95j0yfk
+    verified: true
+    hashtags: "#skincare, #cabelocacheado, #dicasdemaquiagem, #natal2022"
+  - username: "cacheadaspoderosass_"
+    fullname: >-
+      MILENA SANTOS | DICAS DE BELEZA
+    bio: >-
+      Dicas|Cabelo|Skincare|Maquiagem 💫Parcerias:via direct ou email 💌Publi:cacheadaspoderosasss@gmail.com CUPONS DE DESCONTOS👇🏻
+    location: "Brazil"
+    followers: 100614
+    engagement: 110
+    commentsToLikes: 0.018128
+    id: ck8t2239cxxso0j78f8hyciik
+    verified: false
+    hashtags: "#belezafeminina, #makeup, #dicasdebeleza, #oleosvegetais"
+  - username: "nathaliahaubert"
+    fullname: >-
+      Nathalia Haubert
+    bio: >-
+      Moda • skincare • beleza Quer um filtro pro seu Instagram? Solicite um orçamento no insta @nathaliahaubert.ar 💕 Parcerias por e-mail
+    location: "Brazil"
+    followers: 9957
+    engagement: 1487
+    commentsToLikes: 0.041767
+    id: ck6u1xfdlogtz0j71pbphfgb0
+    verified: false
+    hashtags: ""
+  - username: "lucasreisx"
+    fullname: >-
+      LUCAS S. REIS
+    bio: >-
+      cabelo | moda | make | skincare | lifestyle — ttk: lucsdreis (+100k) • youtuber. ◽️• salvador - bahia. ◽️• contatocomlucasreis@gmail.com
+    location: "Brazil"
+    followers: 102602
+    engagement: 726
+    commentsToLikes: 0.024489
+    id: ckf5ob0yw1lui0j23c0mysznl
+    verified: false
+    hashtags: "#sejamosleoezinhos, #tran, #hidratac, #culturelle"
   - username: "larissascanavini"
     fullname: >-
       𝑳𝑨𝑹𝑰𝑺𝑺𝑨 𝑺𝑪𝑨𝑵𝑨𝑽𝑰𝑵𝑰
     bio: >-
       🦁WavyHair | Skincare | Lifestyle 📍Piracicaba, São Paulo 💌 cachosdalari@outlook.com 🎥 Vídeos toda semana
     location: "Brazil"
-    followers: 40601
-    engagement: 723
-    commentsToLikes: 0.037779
+    followers: 53431
+    engagement: 745
+    commentsToLikes: 0.022634
     id: ck8t7uz1ji2140j78ss6yig05
     verified: false
-    hashtags: "#origemeuescolhocachos, #publicidade, #celebresuabeleza, #origem"
+    hashtags: "#onduladas2abc, #publicidade, #onduladas, #publi"
   - username: "wanderlannascimento"
     fullname: >-
       WANDERLAN NASCIMENTO
     bio: >-
       CABELO • SKINCARE • LIFESTYLE 🎥| YouTuber +300K | 📍RJ 📸| criador do #ProjetoArvore 📥| wanderlanytb@gmail.com
     location: "Brazil"
-    followers: 105996
-    engagement: 905
-    commentsToLikes: 0.019758
+    followers: 111215
+    engagement: 1432
+    commentsToLikes: 0.016488
     id: ck0tu8wwk64710i19xncxqy9w
     verified: false
-    hashtags: "#tran, #penteados, #curlynaturalhair, #afro"
-  - username: "adriaferreiramk"
+    hashtags: "#blackmenfashion, #pretinho, #afrohair, #curlyhair"
+  - username: "carolinemonratier"
     fullname: >-
-      Elô✨
+      Caroline Monratier
     bio: >-
-      ✨Empreendedora da beleza✨ 🤩 Makeup&Skincare vc encontra aqui 📍Paraense em Porto Alegre
+      Skincare | Makeup | Fashion 🇧🇷 Goiânia | 23 years 🍕Desastrada, estabanada e esfomeada ✉ carolinemonratier@gmail.com
     location: "Brazil"
-    followers: 14324
-    engagement: 585
-    commentsToLikes: 0.339245
-    id: ck8tagtxhrozw0j788xudhqfl
+    followers: 42826
+    engagement: 293
+    commentsToLikes: 0.079446
+    id: ckap2w29a0kf20i785bdh6obi
     verified: false
-    hashtags: "#consultoramarykay, #200milnew, #euescolhimarykay, #marykay"
-  - username: "naelisilva_"
+    hashtags: "#herbalchegou, #meumomentoherbal, #fuzoshoes, #chinainbox"
+  - username: "giovanadiasoficial"
     fullname: >-
-      💫NAELI DA SILVA💫
+      GIOVANA DIAS ✨
     bio: >-
-      • cabelo | skincare | dicas | • assista os reels 💃🏽 | parcerias via direct | modelo fotográfica 📸 não repare a bagunça aqui | 💍
+      📌 Publicitária/Marketeira 📌 Criadora de conteúdo 📌 Cacheada 💡 Assista aos Stories Contato: giovanadc@live.com #skincare #cachos #cabelo Hortolândia/Sp
     location: "Brazil"
-    followers: 9264
-    engagement: 875
-    commentsToLikes: 0.527752
-    id: ck8t1ytt5xldn0j784rqv3any
+    followers: 34037
+    engagement: 289
+    commentsToLikes: 0.081991
+    id: ck0tttg9648860i19mj2l2xmp
     verified: false
-    hashtags: "#cacheadas, #morenailuminada, #morena, #cacheada"
-  - username: "furtadobianca"
+    hashtags: "#transicao, #cachoslindos, #hortolandia, #cacheado"
+  - username: "audreysilveira"
     fullname: >-
-      Lara Bianca ✨
+      🔥  AUDREY  🔥
     bio: >-
-      🧚‍♀️Falo sobre skincare, dicas de apps e causos de my life 🎙•𝘑𝘰𝘳𝘯𝘢𝘭𝘪𝘴𝘮𝘰 👩🏼‍💻•𝘚𝘰𝘤𝘪𝘢𝘭 𝘔𝘦𝘥𝘪𝘢 💌biancamarinho@icloud.com O 𝖻𝗅𝗈𝗀 voltou!
+      ✨ Skincare| Fitness | alimentação saudável | maternidade | motivação Assista os Stories! ❤️
     location: "Brazil"
-    followers: 6495
-    engagement: 466
-    commentsToLikes: 0.090615
-    id: ck13cgjod08ba0i198zjo8rbl
+    followers: 112950
+    engagement: 199
+    commentsToLikes: 0.084654
+    id: ck6016ekdex4n0i14vcxjk1pp
     verified: false
-    hashtags: "#ruivasbrasil, #ruivas, #quarentena, #look"
-  - username: "yasminmeron"
-    fullname: >-
-      Yasmin Meron
-    bio: >-
-      ✨Que eu possa sempre espalhar luz e MOTIVAR as pessoas a ALCANÇAR a sua melhor versão 🧿🙌🏻 #motivacional,#skincare e #beleza Sócia no @luciamatelie ✂️
-    location: "Brazil"
-    followers: 16680
-    engagement: 232
-    commentsToLikes: 0.094037
-    id: ckaote9luvjz90i78srdqs2sp
-    verified: false
-    hashtags: "#cadaluzumacor, #variostons, #cronogramacapilar, #antesedepois"
-  - username: "fernandarosa10"
-    fullname: >-
-      Fernanda Rosa
-    bio: >-
-      Dicas : Moda | Skincare| Fitness | Owner: @belaespumaa YouTube: Dicas da Nanda Contato: fernandaduarte008@gmail.com
-    location: "Brazil"
-    followers: 20631
-    engagement: 187
-    commentsToLikes: 0.159451
-    id: ckap4wo0h97u50i78rqua995s
-    verified: false
-    hashtags: "#blogueiradebeleza, #blogueirasbrasil, #blogueiras, #skincare"
-  - username: "clarabordieri"
-    fullname: >-
-      CLARA BORDIERI
-    bio: >-
-      ▪️ psicologia / modelo 📩contato: clarabordieri@hotmail.com maquiagem, skincare, cultura e cuidado ❣️
-    location: "Brazil"
-    followers: 66236
-    engagement: 297
-    commentsToLikes: 0.020378
-    id: ck0vwdagzt6gb0i19sswg6x4a
-    verified: false
-    hashtags: "#b4s, #influenciadoresdabeleza, #beauty4share, #rubyrosenab4s"
-  - username: "jbossle"
-    fullname: >-
-      João Bossle
-    bio: >-
-      SkinCare e Moda Masculina. Co-Founder of @bossa_studio Model at @joymodelpoa 🌱 #nomeat
-    location: "Brazil"
-    followers: 74617
-    engagement: 382
-    commentsToLikes: 0.015472
-    id: ck6tmc08n7k9p0j71atcnmn0a
-    verified: false
-    hashtags: "#mood, #sc, #jeanpaulgautier, #menstyle"
-  - username: "japaakasaki"
-    fullname: >-
-      𝑳𝒖𝒊́𝒔𝒂 𝑨𝒌𝒂𝒔𝒂𝒌𝒊 △
-    bio: >-
-      🦋 Meus stories, meu dia a dia 🦋. Vida real | Sem padrões | Lifestyle | Fitness | Skincare. ✨ Fisioterapeuta | instrutora de pilates. ✨
-    location: "Brazil"
-    followers: 7661
-    engagement: 587
-    commentsToLikes: 0.127565
-    id: ckf5prdzt71vj0j2363f21oxj
-    verified: false
-    hashtags: "#rj, #sol, #goodvibes, #companheiro"
+    hashtags: "#manausamazonas, #girl, #manauscity, #manaus"
 ---

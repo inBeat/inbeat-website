@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Instagram Influencers In Rio De Janeiro In 2023
 description: >-
-  Find top Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #riodejaneiro #topofbrazil #vibepositivamundo.
+  Find top Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #vibepositivamundo #topofbrazil #selfiepelomundo.
 platform: Instagram
-hits: 2765
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 2765 Instagram influencers like this in Rio de Janeiro, Brazil for you to work with.
+hits: 2895
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 2895 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
 profiles:
-  - username: "audhreysf"
-    fullname: >-
-      Audhrey Freire ®
-    bio: >-
-      Rio de Janeiro, 🇧🇷 • Bailarina e dançarina profissional • Atriz • Professora • Educação Física UCB 📌 Parcerias via Direct
-    location: "Brazil"
-    followers: 5580
-    engagement: 2154
-    commentsToLikes: 0.089381
-    id: ck5bv583wj0mz0i11ooe9qnjt
-    verified: false
-    hashtags: "#youtube, #dance, #choreography, #bigbank"
   - username: "alexh.carvalho"
     fullname: >-
       🇧🇷Alex Henrique
     bio: >-
       🌎Digital Influencer 🎩Embaixador @reserva 🇧🇷Rio de Janeiro 📸Gopro Hero 6
     location: "Brazil"
-    followers: 17504
-    engagement: 1473
-    commentsToLikes: 0.084722
+    followers: 17351
+    engagement: 1605
+    commentsToLikes: 0.078988
     id: ckaovghg34j590i78ny3fku01
     verified: false
-    hashtags: "#goprolife, #goprorj, #hero6, #goprobrasil"
-  - username: "leoninhax"
+    hashtags: "#aroundtheworldpix, #goprorj, #goprobrsl, #bonitomsbrasil"
+  - username: "camilaglatthardt"
     fullname: >-
-      BOPE LEONAx
+      Camila Glatthardt
     bio: >-
-      🦋Streamer no: @facebookgaming @bope_oficialff 📍Rio de janeiro, Rj
+      rio de janeiro, brasil ✨ corpo livre | maquiagem | vida real contato • camila.glatthardt@gmail.com
     location: "Brazil"
-    followers: 29694
-    engagement: 1420
-    commentsToLikes: 0.073412
-    id: ck8tbuqzix8be0j78w40tch63
+    followers: 19335
+    engagement: 1109
+    commentsToLikes: 0.080604
+    id: ckap82ot9mkbp0i78cgkm7lil
     verified: false
-    hashtags: "#instagood, #ff, #garenafreefire, #photography"
-  - username: "juliana_costan_"
+    hashtags: "#effyourbeautystandards, #muasupport, #honormycurves, #modaplussize"
+  - username: "onirablac"
     fullname: >-
-      Juliana Costa
+      ONIRA 🔥
     bio: >-
-      ❤ Cabelo | Beleza | Dicas | Dia a dia 📍 Rio de Janeiro, RJ | 18 anos 📩 Jucostajjla@gmail.com
+      cdzinha 🎀 ♎️ / Rio de Janeiro 🙇🏾💤
     location: "Brazil"
-    followers: 16681
-    engagement: 1344
-    commentsToLikes: 2.681087
-    id: ck9woq2zw64m50j78ezu0r3bm
+    followers: 7567
+    engagement: 1387
+    commentsToLikes: 0.091583
+    id: ck6tx1jz3vbu50j717th3lf6w
     verified: false
-    hashtags: "#hidrata, #cacheadasdoinstagram, #hidratacaocapilar, #cacheadas"
-  - username: "samendossantos"
+    hashtags: "#bailedaisabelly"
+  - username: "audhreysf"
     fullname: >-
-      SAMEN DOS SANTOS
+      Audhrey Freire ®
     bio: >-
-      📍Rio de Janeiro RS⇿RJ Aqui tu vai encontrar! ° Um pouco sobre o meu trabalho.👌🏿 ° Um pouquinho de mim!🖤⠀ ° E tudo aquilo que eu achar interessante.✌🏿
+      Rio de Janeiro, 🇧🇷 • Bailarina e dançarina profissional • Atriz • Professora @cadm_oficial • Educação Física UCB 📌 Parcerias via Direct
     location: "Brazil"
-    followers: 16502
-    engagement: 969
-    commentsToLikes: 0.212623
-    id: ck6u4pb56519a0j71x2wb3du5
+    followers: 8811
+    engagement: 1793
+    commentsToLikes: 0.080207
+    id: ck5bv583wj0mz0i11ooe9qnjt
     verified: false
-    hashtags: "#cabelonatural, #cachospoderosos, #cabelosaudavel, #cachos"
+    hashtags: "#heelsdance, #choreography, #poesia10challenge, #dancevideo"
+  - username: "jvmartinsa"
+    fullname: >-
+      João Martins
+    bio: >-
+      fotógrafo e videomaker dança | marcas | retratos rio de janeiro 📍brasil ⬇️ mais infos & orçamento
+    location: "Brazil"
+    followers: 6785
+    engagement: 1934
+    commentsToLikes: 0.255031
+    id: ck8sybbqikcca0j78yljcv3r1
+    verified: false
+    hashtags: "#dance, #sp, #brasil, #fotografia"
   - username: "coisamaislinda"
     fullname: >-
       Coisa Mais Linda
     bio: >-
       Coisa Mais Linda é voltar para o Rio de Janeiro dos anos 1960 com vocês. ❤️ Segunda temporada já disponível!
     location: "Brazil"
-    followers: 175221
-    engagement: 2272
-    commentsToLikes: 0.037610
+    followers: 167548
+    engagement: 2385
+    commentsToLikes: 0.037488
     id: ck6u605sacrz80j71jj87biq7
     verified: true
     hashtags: ""
-  - username: "jvmartinsa"
+  - username: "izabella.aguiar_"
     fullname: >-
-      João Martins
+      • IZA•
     bio: >-
-      📷| Fotógrafo das pole dancer e retratos 📍| Rio de Janeiro, RJ ✉️| Orçamento por DM ou e-mail
+      •Moda | Dicas | Lifestyle• •Rio de Janeiro• •Parcerias e jobs: via direct• •Model• •Atleta de vôleibol• • ❽ • Gท's¹• ♡
     location: "Brazil"
-    followers: 6180
-    engagement: 2060
-    commentsToLikes: 0.244986
-    id: ck8sybbqikcca0j78yljcv3r1
+    followers: 3055
+    engagement: 2220
+    commentsToLikes: 0.277141
+    id: ckapbap00z7e20i78zbw9m19a
     verified: false
-    hashtags: "#arraialdo, #arraialdocabo, #riodejaneiro"
-  - username: "n.nunes_art"
+    hashtags: "#estilo, #look, #moda, #model"
+  - username: "natashapugliesi"
     fullname: >-
-      ❀ NICOLLY NUNES ❀
+      Natasha Pugliesi
     bio: >-
-      👸🏻| 18 anos 🇧🇷| BR- Rio de Janeiro ✍🏻| Autodidata 🎶| Somos mais de 120K no TikTok♡ (@ nicollynunesart) ❌| Não faço encomendas
+      Zueira sempre, e às vezes um papo sério 23 anos. Rio de Janeiro Pugliesinatasha@gmail.com
     location: "Brazil"
-    followers: 7035
-    engagement: 1785
-    commentsToLikes: 0.119857
-    id: ck15rfo9z7p7p0i19azmq7wju
+    followers: 88710
+    engagement: 1367
+    commentsToLikes: 0.041386
+    id: ck601in11fk5s0i14ed8yhieb
     verified: false
-    hashtags: "#art, #netflix, #feature, #horrormovie"
-  - username: "jennifercoutods"
-    fullname: >-
-      Jenni 🌈
-    bio: >-
-      📍Rio de Janeiro ⚖️ Direito
-    location: "Brazil"
-    followers: 35663
-    engagement: 1263
-    commentsToLikes: 0.063641
-    id: ck6027fnugv2f0i1488frrwns
-    verified: false
-    hashtags: "#tattoo, #auladesurf, #beach, #sunset"
+    hashtags: "#ad, #blackpetnovember, #100arranho, #publi"
   - username: "alinecalheirosb"
     fullname: >-
-      Aline Calheiros
+      ALINE CALHEIROS
     bio: >-
-      𝑬𝒎 𝒕𝒊, 𝑺𝒆𝒏𝒉𝒐𝒓, 𝒎𝒆 𝒓𝒆𝒇𝒖𝒈𝒊𝒐 ♡︎ 𝔽𝕒𝕚𝕥𝕙 ✨🙏 Graduation ⚖️ Rio de Janeiro, Brasil 🇧🇷
+      𝑬𝒎 𝒕𝒊, 𝑺𝒆𝒏𝒉𝒐𝒓, 𝒎𝒆 𝒓𝒆𝒇𝒖𝒈𝒊𝒐 ♡︎ 𝔽𝕒𝕚𝕥𝕙 ✨🙏 𝖣𝗂𝗋𝖾𝗂𝗍𝗈 ⚖️ Rio de Janeiro, Brasil 🇧🇷
     location: "Brazil"
-    followers: 19360
-    engagement: 893
-    commentsToLikes: 0.197514
+    followers: 19311
+    engagement: 839
+    commentsToLikes: 0.236488
     id: ck601bq5qf72e0i14af48bnfo
     verified: false
-    hashtags: "#gentequetrilha, #flutuanterio, #destinoerrejota, #trilhasrjj"
+    hashtags: "#pelomato, #essemundoenosso, #euvounajanela, #vibepositivamundo"
+  - username: "willyrodriguess"
+    fullname: >-
+      willy
+    bio: >-
+      .23y •Rio de janeiro .pisciano
+    location: "Brazil"
+    followers: 19137
+    engagement: 1491
+    commentsToLikes: 0.065828
+    id: ck9ha5phcb9e40j78t3zxoahv
+    verified: false
+    hashtags: "#boys, #instatumblr, #travel, #boy"
 ---

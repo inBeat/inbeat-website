@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Durban In 2022
+title: Top 10 Lifestyle Instagram Influencers In Durban In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Durban in 2022. Most popular hashtags: #lifestyle #durban #photography #southafrica.
+  Find top lifestyle Instagram influencers in Durban in 2023. Most popular hashtags: #southafrica #food #travel.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Durban, South Africa for you to contact.
+hits: 4
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 4 Instagram influencers like this in Durban, South Africa for you to connect with.
 profiles:
-  - username: "elanaschilz"
+  - username: "missshozi"
     fullname: >-
-      Elana Schilz Photography
+      Zè
     bio: >-
-      ***For bookings please email hello@elanaschilz.com*** 📷 Freelance Photographer 🌍 Durban, South Africa 💍@elanaschilzweddings ☎️0769716736 #elanaschilz
+      Interior Design & Decor. Lifestyle.
     location: "South Africa"
-    followers: 17469
-    engagement: 214
-    commentsToLikes: 0.023570
-    id: ck5zwwnim6wnc0i14x7l2buen
+    followers: 127386
+    engagement: 869
+    commentsToLikes: 0.006797
+    id: ck0w49ezhxg2r0i196jtjyuwy
     verified: false
-    hashtags: "#photoshoot, #durbanbased, #productphotography, #photography"
-  - username: "kunene_ayanda"
+    hashtags: "#kuyesonederland, #kaytg"
+  - username: "fehmz"
     fullname: >-
-      Ayanda Kunene
+      Fehmz
     bio: >-
-      South African 🇿🇦 Twin: @amanda_Kunene Snapchat: kunene_ayanda 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
+      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
     location: "South Africa"
-    followers: 3500
-    engagement: 616
-    commentsToLikes: 0.080905
-    id: ck138fd3bfyxf0i199d208qt8
+    followers: 125944
+    engagement: 313
+    commentsToLikes: 0.015450
+    id: ck0w6espr882r0i19xmu3iovq
     verified: false
-    hashtags: "#l4l, #milkmodelsearch, #vegan, #healthylifestyle"
-  - username: "londy_mazwide_eventdesigner"
+    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
+  - username: "vergetherappersa"
     fullname: >-
-      Londiwe Ndwandwe Ngcobo
+      ☆VERGE THE RAPPER☆
     bio: >-
-      Founder & Creative Director @andimahlebuildingevents Events , Fashion , Style , Travel Lifestyle ❤️ 📧 :info@andimahle.co.za
+      📧:𝐯𝐞𝐫𝐠𝐞𝐭𝐡𝐞𝐫𝐚𝐩𝐩𝐞𝐫𝐬𝐚@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 SEE YOU AT THE TOP MIXTAPE OUT NOW ↴
     location: "South Africa"
-    followers: 148673
-    engagement: 108
-    commentsToLikes: 0.035773
-    id: ck0vw8gnysknh0i19lidhl65f
+    followers: 3513
+    engagement: 823
+    commentsToLikes: 0.233658
+    id: ckap1ye6ywlqv0i782kg54cz7
     verified: false
-    hashtags: "#weddings, #weddingplanner, #events, #eventplanner"
-  - username: "aly_bux"
-    fullname: >-
-      A A L I Y A H - B U X
-    bio: >-
-      Redefining the beauty industry 1 eyeliner at a time. Enemies of the heir, beware 🐍 Pro Makeup Artist | Content Creator Co-Partner at @bmups_ Academy
-    location: "South Africa"
-    followers: 13976
-    engagement: 708
-    commentsToLikes: 0.109319
-    id: ck15t918jgxbk0i19avy1pp4f
-    verified: false
-    hashtags: "#creative, #womenempowerment, #durbansouthafrica, #fashion"
-  - username: "davidmillersa12"
-    fullname: >-
-      Dave Miller
-    bio: >-
-      Cricketer- @davemiller_photography is my hobby.
-    location: "South Africa"
-    followers: 943742
-    engagement: 329
-    commentsToLikes: 0.004012
-    id: ck5q35o49jc1n0i118sa9coua
-    verified: true
-    hashtags: "#cricket, #instadaily, #dubai, #wildlife"
-  - username: "thatdamnvandal"
-    fullname: >-
-      DAMN VANDAL
-    bio: >-
-      Graffiti Artist/illustrator. South Africa 🇿🇦 ............ Sponsored By Posca Reebok Classics Ambassador 🇬🇧 Dromex
-    location: "South Africa"
-    followers: 10108
-    engagement: 396
-    commentsToLikes: 0.039424
-    id: ck8svw1i4cwto0j785pmqao89
-    verified: false
-    hashtags: "#damnvandal, #durbanartist, #streetart, #digital"
-  - username: "ciara_tay_kruger"
-    fullname: >-
-      Ciara Taylor Kruger💋
-    bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
-    location: "South Africa"
-    followers: 5379
-    engagement: 1460
-    commentsToLikes: 0.142204
-    id: ckapbizlf021z0i78vsf48vsh
-    verified: false
-    hashtags: "#outfitoftheday, #fashionphotoshoot, #mothercity, #girlsswimwear"
+    hashtags: "#newmusic, #soviet, #travel, #thelegacyyard"
   - username: "lost_at_me"
     fullname: >-
       Neels Mc Donald
     bio: >-
-      Anywhere is possible// Lifestyle & Travel// Port Elizabeth// Follow the link for a minute in Venice
+      Anywhere is possible// Lifestyle & Travel// South Africa// DM for collabs & bookings//
     location: "South Africa"
-    followers: 3587
-    engagement: 2136
-    commentsToLikes: 0.014685
+    followers: 4147
+    engagement: 1562
+    commentsToLikes: 0.013762
     id: ckaorvt5soyxm0i78z35y2fgo
     verified: false
-    hashtags: "#travelstoke, #instapassport, #travelpics, #thecreative"
-  - username: "fayros"
+    hashtags: "#thisissouthafrica, #liveforthestory, #theprettycities, #southafricaza"
+  - username: "kay.yarms"
     fullname: >-
-      F A Y R O S  J A F F E R فیروز
+      Kay Yarms
     bio: >-
-      Life in Pictures Photographer, Visual Artist, Creative Director & Content Creator @fayrosjaffer_portfolio 📧 Info@lifeinpictures.co.za
+      God • Beauty • Lifestyle @saxxbeauty 💎 YouTube : Kay Yarms
     location: "South Africa"
-    followers: 7054
-    engagement: 621
-    commentsToLikes: 0.178011
-    id: ck0vw1zz2rque0i19ygyfjeo7
+    followers: 433820
+    engagement: 632
+    commentsToLikes: 0.007879
+    id: ck5hmtw11mm800i11j8u3psf6
     verified: false
-    hashtags: "#photographer, #photography, #lifestyle, #mensfashion"
+    hashtags: "#keepwalkingsa, #hiltonbig5, #youbelong, #ad"
+  - username: "fehmz"
+    fullname: >-
+      Fehmz
+    bio: >-
+      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
+    location: "South Africa"
+    followers: 125944
+    engagement: 313
+    commentsToLikes: 0.015450
+    id: ck0w6espr882r0i19xmu3iovq
+    verified: false
+    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
   - username: "ismaeelbagus"
     fullname: >-
       Ismaeel Bagus
     bio: >-
-      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📸 @flashmeishi 📨 ismaeelbagus@gmail.com ...🧵 Be part of the change ⤵️
+      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📨 ismaeelbagus@gmail.com 👫🏽 @pastthebag Shop the look & more ⤵️
     location: "South Africa"
-    followers: 3847
-    engagement: 2504
-    commentsToLikes: 0.114857
+    followers: 4451
+    engagement: 1441
+    commentsToLikes: 0.098271
     id: ck136233x4dks0i19e0kr7qsm
     verified: false
-    hashtags: "#celebratemzansi, #bts, #supportlocalbusiness, #iykyk"
+    hashtags: "#hmxme, #hm, #letspush, #mrpmystyle"
+  - username: "majestic_mey"
+    fullname: >-
+      Razaan Meyer-Khan 🖤
+    bio: >-
+      Fashion, Beauty & Lifestyle Content Creator Promos & PR: info@majesticza.co.za | NO DMs ↘️ shop @majesticza_
+    location: "South Africa"
+    followers: 232492
+    engagement: 893
+    commentsToLikes: 0.149581
+    id: ck6u4o8l84uvj0j71pe28pxwj
+    verified: false
+    hashtags: "#beautyathomewithu, #forgirlsbygirls, #youdosummer"
+  - username: "frema.mensah"
+    fullname: >-
+      🇬🇭Frema Mensah🇬🇭
+    bio: >-
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+    location: "South Africa"
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
+    id: ck55mwkjc4zg40i11b4gc4y7d
+    verified: false
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
+  - username: "nicole.gibbons"
+    fullname: >-
+      NICOLE | Beauty & Lifestyle
+    bio: >-
+      Lifestyle & Beauty creator 🦋 Pr/Collabs : Nicolegibbonsbusiness@gmail.com⠀ LLB LAW 👩‍🎓 @tiaan10_stander 🤍⠀ ⠀ ⠀
+    location: "South Africa"
+    followers: 12949
+    engagement: 865
+    commentsToLikes: 0.358580
+    id: ck9wfav3fo0v00j782q0ik9xq
+    verified: false
+    hashtags: "#instadaily, #beauty, #quotes, #lookbook"
 ---

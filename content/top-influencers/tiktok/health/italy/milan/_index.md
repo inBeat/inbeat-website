@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Milan In 2022
+title: Top 10 Health TikTok Influencers In Milan In 2023
 description: >-
-  Find top health TikTok influencers in Milan in 2022. Most popular hashtags: #food #healthy #perte #italy.
+  Find top health TikTok influencers in Milan in 2023. Most popular hashtags: #healthy #italy #food #fyp.
 platform: TikTok
-hits: 6
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 6 TikTok influencers like this in Milan, Italy for you to work with.
+hits: 5
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 5 TikTok influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "valentina_galassi"
-    fullname: >-
-      valentina_galassi
-    bio: >-
-      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
-    location: "Italy"
-    followers: 38500
-    engagement: 1140
-    commentsToLikes: 0.009052
-    id: ckbf9cmr707cj0j23glh8972f
-    verified: false
-    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
   - username: "cataldihealth"
     fullname: >-
       Cataldi Health 
     bio: >-
       Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
     location: "Italy"
-    followers: 56000
-    engagement: 1861
-    commentsToLikes: 0.012609
+    followers: 55100
+    engagement: 1385
+    commentsToLikes: 0.013724
     id: ck8s5jvwzg8i50j785nktn2vv
     verified: false
-    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
-  - username: "marikaandgiada"
-    fullname: >-
-      M & G
-    bio: >-
-      • Milan 🇮🇹 • Instagram: marikaandgiada • Collab: sorichettigiada@gmail.com
-    location: "Italy"
-    followers: 268900
-    engagement: 1541
-    commentsToLikes: 0.007552
-    id: ck8f8vjo63mkk0j78jjed68rf
-    verified: false
-    hashtags: "#euphoria, #summer, #fyp, #foryou"
-  - username: "eddy_kood"
-    fullname: >-
-      eddy 
-    bio: >-
-      📍🇮🇹 🇦🇱 ( Instagram eddykood)
-    location: "Italy"
-    followers: 2908
-    engagement: 464
-    commentsToLikes: 0.013690
-    id: ckbqudcy2eshv0j23pfj5chxr
-    verified: false
-    hashtags: "#tiktokitaly, #video, #beach, #milan"
-  - username: "veronica_ferraro"
-    fullname: >-
-      Veronica Ferraro
-    bio: >-
-      Italy🇮🇹 Instagram: @veronicaferraro
-    location: "Italy"
-    followers: 74600
-    engagement: 641
-    commentsToLikes: 0.004442
-    id: cka6p5gspib6z0i78kr3c3rkd
-    verified: false
-    hashtags: "#healthy, #ad, #neiperte, #food"
-  - username: "ileana.adamo"
-    fullname: >-
-      Ileana
-    bio: >-
-      18 🇮🇹✖️🇺🇸 Bergamo/AK, Anchorage Collab: ileanaadamo@virgilio.it
-    location: "Italy"
-    followers: 14700
-    engagement: 1572
-    commentsToLikes: 0.014310
-    id: ck9no9vwwt0dq0j78ayiosuew
-    verified: false
-    hashtags: "#greenscreen, #comico, #funny, #mamma"
-  - username: "sissifacose"
-    fullname: >-
-      Sissi Fa Cose
-    bio: >-
-      YOLO❤️ Humor and a healthy life 😊 Sport:#sissifasport Food:#sissifacibo
-    location: "Italy"
-    followers: 3290
-    engagement: 335
-    commentsToLikes: 0.069037
-    id: ckdbqzqr1bzb40j23igguxv4i
-    verified: false
-    hashtags: "#corsica, #sardegna, #equilibrio, #sissifasport"
+    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
   - username: "valentina_galassi"
     fullname: >-
       valentina_galassi
     bio: >-
       •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
     location: "Italy"
-    followers: 38500
-    engagement: 1140
-    commentsToLikes: 0.009052
+    followers: 45600
+    engagement: 1278
+    commentsToLikes: 0.010491
     id: ckbf9cmr707cj0j23glh8972f
     verified: false
-    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
-  - username: "petracola"
+    hashtags: "#photo, #model, #shooting, #modellife"
+  - username: "marikaandgiada"
     fullname: >-
-      Petra Cola
+      M & G
     bio: >-
-      mountain, nature, sport & health🌿 🤸🏼‍♀️
+      • Milan 🇮🇹 • Instagram: marikaandgiada • Collab: sorichettigiada@gmail.com
     location: "Italy"
-    followers: 19600
-    engagement: 443
-    commentsToLikes: 0.013441
-    id: ck9f41o5xkd930j789cghr4pm
+    followers: 264700
+    engagement: 1216
+    commentsToLikes: 0.007445
+    id: ck8f8vjo63mkk0j78jjed68rf
     verified: false
-    hashtags: "#sardegna"
+    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
+  - username: "eddy_kood"
+    fullname: >-
+      eddy 
+    bio: >-
+      📍 Milan 🇦🇱
+    location: "Italy"
+    followers: 2870
+    engagement: 528
+    commentsToLikes: 0.013272
+    id: ckbqudcy2eshv0j23pfj5chxr
+    verified: false
+    hashtags: "#song, #italy, #milan, #viral"
+  - username: "profundamente"
+    fullname: >-
+      Call me Olga ✨
+    bio: >-
+      D E E P | Aesthetic | Q U O T E S ✨ building a community ✨
+    location: "Italy"
+    followers: 31500
+    engagement: 884
+    commentsToLikes: 0.009273
+    id: ckb9texx9r9180j23793fyj9o
+    verified: false
+    hashtags: "#summer, #quotesforyou, #chill, #ily"
+  - username: "valentina_galassi"
+    fullname: >-
+      valentina_galassi
+    bio: >-
+      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
+    location: "Italy"
+    followers: 45600
+    engagement: 1278
+    commentsToLikes: 0.010491
+    id: ckbf9cmr707cj0j23glh8972f
+    verified: false
+    hashtags: "#photo, #model, #shooting, #modellife"
+  - username: "sissifacose"
+    fullname: >-
+      Sissi Fa Cose
+    bio: >-
+      Ma ciao! 😊 Yolo✌🏼Humor and a healthy life #SissiFaSport #SissiFaCibo
+    location: "Italy"
+    followers: 13100
+    engagement: 418
+    commentsToLikes: 0.037047
+    id: ckdbqzqr1bzb40j23igguxv4i
+    verified: false
+    hashtags: "#parmigiano, #videoricetta, #sissifasport, #informacontiktok"
   - username: "giada_todesco"
     fullname: >-
       Giada Todesco 🍒
     bio: >-
       Welcome to my HEALTHY and FUNNY world 🌱😂 MY COOKBOOK 📚👇🏼
     location: "Italy"
-    followers: 38100
-    engagement: 536
-    commentsToLikes: 0.009978
+    followers: 41400
+    engagement: 547
+    commentsToLikes: 0.010427
     id: ckbb5w65jw07c0j23fslzfnre
     verified: false
-    hashtags: "#viral, #windyorbeauty, #duet, #foryou"
+    hashtags: "#victoriassecret, #crispychallenge, #stratosfericaaaah, #scherzo"
+  - username: "patty_shady99"
+    fullname: >-
+      Patrizia Vanessa
+    bio: >-
+      22 y.o ⚕️📚 🏥🇵🇱🇮🇹🏡Lucana Oggi è il mio 🎂 31-01-2021
+    location: "Italy"
+    followers: 24100
+    engagement: 577
+    commentsToLikes: 0.070347
+    id: ckcpakto8eu2o0j23x16ijmd1
+    verified: false
+    hashtags: "#healthy, #viral, #healthylifestyle, #fy"
+  - username: "cataldihealth"
+    fullname: >-
+      Cataldi Health 
+    bio: >-
+      Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
+    location: "Italy"
+    followers: 55100
+    engagement: 1385
+    commentsToLikes: 0.013724
+    id: ck8s5jvwzg8i50j785nktn2vv
+    verified: false
+    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
 ---

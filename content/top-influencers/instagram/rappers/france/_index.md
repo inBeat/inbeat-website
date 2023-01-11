@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In France In 2022
+title: Top 10 Rappers Instagram Influencers In France In 2023
 description: >-
-  Find top rappers Instagram influencers in France in 2022. Most popular hashtags: #blink #lisa #blackpink.
+  Find top rappers Instagram influencers in France in 2023. Most popular hashtags: #hajdetebaba #vaksina #rattyadhiththan.
 platform: Instagram
-hits: 79
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 79 Instagram influencers like this in France for you to work with.
+hits: 98
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 98 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "redbossvibes"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Member of internet kids 🌐 I make any sound a Hit🔥🎵 /artistic director /Songwriter / rapper /urban pop SINGER /TOPLINER 🎵🎧🎤 youtube.com/NTERNETKIDS
     location: "France"
-    followers: 45703
-    engagement: 710
-    commentsToLikes: 0.009755
+    followers: 45443
+    engagement: 769
+    commentsToLikes: 0.010345
     id: ck5zr5dovvxpf0i14cy3db9ov
     verified: false
-    hashtags: "#internetkids, #harragas, #2freres, #2lions"
-  - username: "macmanulioness"
-    fullname: >-
-      Manu Mac
-    bio: >-
-      ⭐Big Factory Records ⭐ Distrib /Addictive Music 'Rappeuse Animatrice radio Fpp 106.3 FM 🎵 #paris Songwriter , Rapper ,Radio host 🎧🎬💶 macmanulioness🦁
-    location: "France"
-    followers: 17063
-    engagement: 256
-    commentsToLikes: 0.047409
-    id: ck5c4h7zr1cls0i11n9woh7zb
-    verified: false
-    hashtags: "#eyestoeyes, #returnofthemac, #alabordage, #salsa"
+    hashtags: "#harragas, #loupdelatess, #2freres, #2lions"
   - username: "ghettogeasy"
     fullname: >-
       GETOAR SELIMI
     bio: >-
       aka MMV CEO of BABASTARS Albanian rapper, songwriter, record producer, fashion designer, and entrepreneur.
     location: "France"
-    followers: 762643
-    engagement: 405
-    commentsToLikes: 0.004453
+    followers: 755416
+    engagement: 306
+    commentsToLikes: 0.005576
     id: ck14l2qnusjyf0i19ivb5y5u6
     verified: true
-    hashtags: "#mmv, #repost, #locos, #tb"
-  - username: "lalalalisam"
+    hashtags: "#vaksina, #geasymajk, #hajdetebaba, #repost"
+  - username: "tracy.desa"
     fullname: >-
-      BLΛƆKPIИK LISA 리사 🌼
+      Tracy De Sa
     bio: >-
-      Daily updates + Lisa content Main dancer, Lead rapper 💛 — 🎀'Lovesick Girls' M/V🤍
+      Rapper & Songwriter Immigrant & Feminist 🇮🇳 🇪🇸 🇵🇹 🇫🇷 "MINIFALDA" OUT NOW ! ⬇️
     location: "France"
-    followers: 550715
-    engagement: 380
-    commentsToLikes: 0.003052
-    id: ck0u0qqkgumpt0i1964fto3n5
-    verified: false
-    hashtags: "#yg, #blink, #lisa, #lalisa"
-  - username: "jesseitzler"
-    fullname: >-
-      Jesse Itzler
-    bio: >-
-      BUILDING MY LIFE RESUME 👍Entrepreneur 👍Bestselling author 👍Ran 100 miles 2X 👍Managed RUN DMC 👍Lived w/Monks 👍Rapper 👍Won an Emmy 👍Plant based 👍Etc...
-    location: "France"
-    followers: 269031
-    engagement: 232
-    commentsToLikes: 0.063073
-    id: ck0vwap05sune0i195twqoz0w
+    followers: 11932
+    engagement: 495
+    commentsToLikes: 0.040915
+    id: ck0uauawlczn40i194noo4xyn
     verified: true
-    hashtags: "#30daysofexcellence, #buildyourliferesume, #endurance, #business"
-  - username: "mismo_music"
+    hashtags: "#minifaldachallenge, #minifalda, #tracydesa"
+  - username: "heartbreaka"
     fullname: >-
-      MISMO 🧤
+      😈SE/SD 😈BADLIFE🇱🇦
     bio: >-
-      🎙 | R-pop Rapper 🍫 | L'amitié, mon chocolat 📩 | mismo.booking@gmail.com 🎵 | Mes clips dispo ici 👇🏾
+      Rapper/Singer/Songwriter.🎶 New Album 77 Heartbreakz 💔 Out now!!!!🥀 40 millions views +😈 150,000 + youtube subscribers🙏
     location: "France"
-    followers: 21019
-    engagement: 831
-    commentsToLikes: 0.138546
-    id: ckap55uxcabni0i78pp76n8r4
-    verified: false
-    hashtags: "#rpop, #mismo, #avantlegrandbouleversement, #phonogram"
-  - username: "tigarah"
-    fullname: >-
-      TIGARAH_OFFICIAL
-    bio: >-
-      Singer/Rapper/DJ/Queen Tiger💋🐯 Cosmopolitan Japan model/writer E! News Japan TV Host Paris🇫🇷⇄Tokyo🇯🇵 🇯🇵 tigarah@amuselantis-euro.com 🇫🇷@bbr.image
-    location: "France"
-    followers: 36393
-    engagement: 429
-    commentsToLikes: 0.016433
-    id: ck0vw8ni1slgl0i19ioqq07vj
+    followers: 40917
+    engagement: 477
+    commentsToLikes: 0.035649
+    id: ck8svxtyyd3ki0j78masb50ox
     verified: true
-    hashtags: "#ckeveryone, #nouvomode, #alpes, #selflove"
+    hashtags: "#badlife, #brothers, #1904boyz, #braxton"
+  - username: "macmanulioness"
+    fullname: >-
+      Manu Mac
+    bio: >-
+      ⭐Big Factory Records ⭐ Distrib /Addictive Music Animatrice radio Fpp 106.3 FM TERREMOTO 🎵 #paris Songwriter , Rapper ,Radio host 🎧🎬💶 macmanulioness🦁
+    location: "France"
+    followers: 18294
+    engagement: 269
+    commentsToLikes: 0.032201
+    id: ck5c4h7zr1cls0i11n9woh7zb
+    verified: false
+    hashtags: "#musicaurbana, #drill, #rap, #trap"
+  - username: "illajyanceyboy"
+    fullname: >-
+      Yancey aka Illa J
+    bio: >-
+      singer • producer • songwriter • rapper •👽 Inquiries : frantz@overstand.fr
+    location: "France"
+    followers: 30665
+    engagement: 512
+    commentsToLikes: 0.036272
+    id: ck5hluvf5kwk50i11x25nexzl
+    verified: false
+    hashtags: "#nikerunclub, #yanceyboys, #sprints, #vocalbooth"
   - username: "ratty_adhiththan"
     fullname: >-
       Ratty Adhiththan
     bio: >-
       Official Instagram| Rapper/Lyricist @orunation For inquires Contact via Email #OruKural Out Now👇
     location: "France"
-    followers: 36809
-    engagement: 1170
-    commentsToLikes: 0.019514
+    followers: 36918
+    engagement: 1060
+    commentsToLikes: 0.016469
     id: ck602ltezhwrl0i14tgrcrz6d
     verified: false
-    hashtags: "#orunation, #rattyadhiththan, #kicku, #layers"
-  - username: "lejuiice"
+    hashtags: "#rattyadhiththan, #sahisiva, #orunation, #neethanehairstyle"
+  - username: "byjungkook"
     fullname: >-
-      Trap Mama 🏳️‍🌈
+      Jeon Jungkook (전정국) BTS
     bio: >-
-      [🎙] Producer, French Rapper, Songwritter [🏚] C.E.O of @trapmamahouse [🍾] Ambassador @officialbelaire_fr @msmanagementparis 🍀 « SOIR »🌑 on YT ⬇️
+      1997' main vocal, sub rapper, lead dancer, maknae.
     location: "France"
-    followers: 33871
-    engagement: 734
-    commentsToLikes: 0.020918
-    id: ck0twkj9zfsln0i197gnrttkd
+    followers: 475093
+    engagement: 254
+    commentsToLikes: 0.003951
+    id: ck0typv4nnpjt0i19b9qgh34b
     verified: false
-    hashtags: "#engagee, #onprendpartie, #streamez, #225"
-  - username: "lalalisacofficial"
+    hashtags: ""
+  - username: "leem1thou"
     fullname: >-
-      LISA BLACKPINK | 리사
+      🥇K
     bio: >-
-      - fanstagram for @lalalalisa_m 🌼 리사 블랙핑크's | 970327 🌟 | Lead rapper / main dancer 💘 | @roseblckpnks @jennie.rainbow @jenduouk ~ @lisa.blackpinlk 💜 -
+      ✨Actor/Comedian/Rapper/Dj Coatesville Pa! 🔥WatchOut4🐍’s KeepIt1k
     location: "France"
-    followers: 5410
-    engagement: 788
-    commentsToLikes: 0.053766
-    id: ckaowsna2a9ug0i78gneazext
+    followers: 41941
+    engagement: 367
+    commentsToLikes: 0.039884
+    id: ck14ljm1dv0nb0i19xo5f8l6v
     verified: false
-    hashtags: "#lalisablackpink, #korea, #airport, #love"
+    hashtags: "#ontheblock, #classic"
+  - username: "jennieolog"
+    fullname: >-
+      ♡|| 𝐉𝐄𝐍𝐍𝐈𝐄 𝐊𝐈𝐌⁹⁶
+    bio: >-
+      —BLΛƆKPIИK’s Main Rapper,Sold Out Queen, Lead Vocalist,Center Queen,Fashion lcon. —ACE&GLOBAL it girl JENNIE KIM 👑 #jenniedeservesbetter #DolFa
+    location: "France"
+    followers: 11594
+    engagement: 1175
+    commentsToLikes: 0.139762
+    id: ckapa4h2xuo1r0i787coq6f1x
+    verified: false
+    hashtags: "#blackpinkjennie, #jenniekim, #jenniedance, #jennieblackpink"
 ---

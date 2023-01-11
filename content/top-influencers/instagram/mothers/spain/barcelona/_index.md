@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Barcelona In 2022
+title: Top 10 Mothers Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top mothers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #mother #portrait #love.
+  Find top mothers Instagram influencers in Barcelona in 2023. Most popular hashtags: #art #makeup #barcelona.
 platform: Instagram
-hits: 16
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 16 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 6
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 6 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "norafonolla"
+  - username: "juandresvera_dmt"
     fullname: >-
-      NORA VARA
+      Juandres Vera DMT
     bio: >-
-      Mother Agency📍View Barcelona 🇪🇸 - Why Not Milan 🇮🇹 - Women Paris 🇫🇷 - Tess London 🇬🇧 - Silent NY 🇺🇸 Bdn 🏡 📩 norafonolla39@gmail.com
+      International 3D street artist | Barcelona | contact info@juandresvera.com
     location: "Spain"
-    followers: 10214
-    engagement: 683
-    commentsToLikes: 0.026588
-    id: ck5hsoqb1wy2p0i11j76zd9qi
+    followers: 24569
+    engagement: 439
+    commentsToLikes: 0.075992
+    id: ck15sj3imd9iv0i19m3wq0p1t
     verified: false
-    hashtags: "#airmax2090, #womensupportingwomen"
-  - username: "barbora_dlaskova"
-    fullname: >-
-      Barbora Dlasková
-    bio: >-
-      Mother agency - Focus Model Management In Barcelona with @trendmodelsmgmt Marilyn Paris, Syndical, Established- London, Metro- Switzerland
-    location: "Spain"
-    followers: 6132
-    engagement: 570
-    commentsToLikes: 0.029583
-    id: ck6tn7ajy99zw0j71h3x28otu
-    verified: false
-    hashtags: "#portrait, #body, #tbt, #home"
-  - username: "goodgoodgorgeous"
-    fullname: >-
-      Haya Tetruashvili ✨ חיה 🇮🇱/🇬🇪
-    bio: >-
-      Mama to Shirel & Liel 📍DC/BARCELONA, Social Media Consultant/Content Creator Haya@goodgoodgorgeous.com
-    location: "Spain"
-    followers: 29052
-    engagement: 155
-    commentsToLikes: 0.072344
-    id: ck8syiblwkwh50j784m48o88v
-    verified: false
-    hashtags: "#love, #itsagggthing, #costabrava, #motherdaughter"
-  - username: "latxina"
-    fullname: >-
-      Monika Frias
-    bio: >-
-      Photographer, Videographer & Lover. Living in Barcelona and telling stories around the globe. Now Booking 2022 One half of @dos__santas
-    location: "Spain"
-    followers: 19799
-    engagement: 399
-    commentsToLikes: 0.065227
-    id: ck5cehw30l1l60i11yciis1a7
-    verified: false
-    hashtags: "#weddingdressinspiration, #dossantas, #destinationweddingphotographer, #fashionphotography"
-  - username: "claramas"
-    fullname: >-
-      Clara Mas
-    bio: >-
-      Model, mother and passionate about sport, 🤸‍♀️ nature and environment ♻️ 📍 Barcelona 👗 @sightmanagement 🇬🇧@lindenstaub 📲@tendenciastv
-    location: "Spain"
-    followers: 32639
-    engagement: 188
-    commentsToLikes: 0.048232
-    id: ckf5rwck9e2cb0j23n4clco1h
-    verified: true
-    hashtags: "#oysho, #beactive, #nature, #style"
-  - username: "topfoodbcn"
-    fullname: >-
-      Top food BCN ⭐️ Foodie
-    bio: >-
-      🙋🏻‍♂️ Soy Cristian | Periodista & foodie 📍Barcelona y alrd. 📩colaboraciones.topfoodbcn@gmail.com 👇🏻Tentando tu paladar con mis visitas gastronómicas
-    location: "Spain"
-    followers: 23473
-    engagement: 386
-    commentsToLikes: 0.643175
-    id: ck6u9bwxqwniy0j7192wjxcry
-    verified: false
-    hashtags: "#foodphotography, #cheese, #chocolate, #giveaway"
-  - username: "cluengoart"
-    fullname: >-
-      Cristina Luengo
-    bio: >-
-      🎨 Art & tutorials 📍Barcelona 📥 cristinaluengo@bushidotalent.com Shop ☺️⬇️
-    location: "Spain"
-    followers: 130513
-    engagement: 848
-    commentsToLikes: 0.011956
-    id: ck15rjttg89uc0i19wx0wlpta
-    verified: false
-    hashtags: "#draw, #ink, #drawing, #illustration"
-  - username: "eyesofthemoon"
-    fullname: >-
-      ANGIE ☾ family | motherhood
-    bio: >-
-      ⋆ Raising Ava & Olivia ⤿ Love | Lifestyle | Laughs ⋒ Fotos bonitas, maternidad real ⌲ Barcelona ✉︎ info.eyesofthemoon@gmail.com ➘ Freebies & more
-    location: "Spain"
-    followers: 49136
-    engagement: 152
-    commentsToLikes: 0.065772
-    id: ck5qdvhu2xi8m0i115ledmqqr
-    verified: false
-    hashtags: "#theheartcaptured, #mixedkids, #momtogs, #mamasgirl"
+    hashtags: "#mural, #3dart, #painting, #streetart"
   - username: "kiwibravo"
     fullname: >-
       🥝 Kiwi Bravo 🥝
     bio: >-
       We thrill people through objects, images and experiences. Barcelona, Madrid, anywhere.
     location: "Spain"
-    followers: 18183
-    engagement: 196
-    commentsToLikes: 0.035408
+    followers: 18379
+    engagement: 172
+    commentsToLikes: 0.032110
     id: ck15q4hmf121q0i19bji7er5q
     verified: false
-    hashtags: "#apocalypse, #stilllife, #photography, #red"
-  - username: "cristinabrondo"
+    hashtags: "#artdirection, #graphicdesign, #princess, #premislaus2020"
+  - username: "donmashelen"
     fullname: >-
-      Cristina Brondo
+      Don+Helen Photographers
     bio: >-
-      #Actriz 💖 Intento disfrutar de todos los momentos y mis #sueños son el motor de mi #vida 💖 DEJO LINK DE MI WEB DE PRODUCTOS DE BELLEZA ECOLÓGICOS! 💚
+      • Don is half 🦄 half 🇵🇭 Helen is half 🌈 half 🇲🇽 • 🇮🇨🇪🇸 is our 🏡 but the 🌍 ✨is our workspace
     location: "Spain"
-    followers: 21187
-    engagement: 272
-    commentsToLikes: 0.039315
-    id: ck55mkid046070i11txwkbwb5
+    followers: 22076
+    engagement: 89
+    commentsToLikes: 0.045413
+    id: ck5cj6e0ou2n90i1125cqhptb
     verified: false
-    hashtags: "#confinamiento, #teatro, #home, #confinada"
+    hashtags: "#beachwedding, #stylemepretty, #theknot, #engagementphotos"
+  - username: "marmonart_"
+    fullname: >-
+      María Rueda ✨
+    bio: >-
+      Artista Colombiana Embajadora @modcolombia Photoshop | Procreate| murales| Mucho arteee💕 Nuevo producto LIBRETAS ⬇️
+    location: "Spain"
+    followers: 11279
+    engagement: 445
+    commentsToLikes: 0.043786
+    id: ck6u5wygmc8en0j71p7twgk9t
+    verified: false
+    hashtags: "#art, #painting, #fyp, #makeupartist"
+  - username: "sr_zeta"
+    fullname: >-
+      Carlos Marín - Señor Zeta️️
+    bio: >-
+      Half human, half photographer. Look, feel, shoot 👽 📍· Barcelona / Marte 🤷🏻‍♂️· Other profile: @zetita_raw 📷· Último vídeo de YOUTUBE 👇🏻
+    location: "Spain"
+    followers: 526943
+    engagement: 431
+    commentsToLikes: 0.017789
+    id: ck0u9bku59hok0i199t8l7s1r
+    verified: false
+    hashtags: "#analogphotography, #35mmfilm, #analog, #brindoporello"
+  - username: "sofiazbv"
+    fullname: >-
+      Sofia Zuluaga
+    bio: >-
+      🖤✨Dark princess with unicorn blood.✨🖤. 🌈Woman. Latina. Painter living in Barcelona. 💌info@sofiazuluaga.com Link to my 🌐 & all the other things ✨👇🏻✨
+    location: "Spain"
+    followers: 20914
+    engagement: 186
+    commentsToLikes: 0.024597
+    id: ck8t0c71xrki70j78tkrkuc6g
+    verified: false
+    hashtags: "#latinamericanart, #artelatinoamericano, #sofiazbv, #2020artpiece"
+  - username: "lacasitademara"
+    fullname: >-
+      
+    bio: >-
+      Mother❣️ África 👧🏻 & Emily 👧🏻 ☕️ Slow breakfast ✨ 🌿DIY ✉️ info lacasitademara@gmail.com 🎶Playlist Spotify 👉🏻 Lacasitademara
+    location: "Spain"
+    followers: 66005
+    engagement: 222
+    commentsToLikes: 0.051372
+    id: ck13d06sv30ja0i194vwvcfoa
+    verified: false
+    hashtags: "#instadesign, #bohemianinterior, #interior4you, #sharemystyle"
+  - username: "misschloe.and.i"
+    fullname: >-
+      s i m o n a 🌻
+    bio: >-
+      wife • mother living in Madrid, Spain contact | misschloe.business@yahoo.com
+    location: "Spain"
+    followers: 17394
+    engagement: 168
+    commentsToLikes: 0.067435
+    id: ck0u6969e1bwf0i19ugkf5oma
+    verified: false
+    hashtags: "#4monthsold, #madeinspain, #shoes, #camposdelavanda"
+  - username: "faith__johnson"
+    fullname: >-
+      Faith Johnson
+    bio: >-
+      Mother Agency: @bossmodelsjhb 🇿🇦 Capetown: @bossmodelsa @studio_paris_mgmt 🇫🇷 @placemodels @generation.models 🇪🇸
+    location: "Spain"
+    followers: 3897
+    engagement: 1335
+    commentsToLikes: 0.061105
+    id: ckf5ln8xzq61g0j23sf4cz6gj
+    verified: false
+    hashtags: "#endpolicebrutality, #endsarsbrutality, #repost, #reformnigeria"
+  - username: "marianoont"
+    fullname: >-
+      Mariano Ontañon
+    bio: >-
+      Argentinian model Ultra trail runner ⛰🏃🏻‍♂️ Técnico deportivo en montaña ⛰ Mother agency @nextmodels 📍🇪🇸 Madrid @unomodels
+    location: "Spain"
+    followers: 69415
+    engagement: 465
+    commentsToLikes: 0.007923
+    id: ck13axqz0spde0i198ogdt3bt
+    verified: true
+    hashtags: "#onlyoldpeoplesaythis, #cappadocia, #mountainguide, #adventuretravel"
 ---

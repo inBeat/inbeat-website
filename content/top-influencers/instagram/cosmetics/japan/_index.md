@@ -1,108 +1,108 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Japan In 2022
+title: Top 10 Cosmetics Instagram Influencers In Japan In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Japan in 2022. Most popular hashtags: #pr #makeup #cosmetics #lipmakeup.
+  Find top cosmetics Instagram influencers in Japan in 2023. Most popular hashtags: #pr #fashion #mac.
 platform: Instagram
-hits: 151
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 151 Instagram influencers like this in Japan for you to contact.
+hits: 148
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 148 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "mai_inoue"
+    fullname: >-
+      井上麻衣
+    bio: >-
+      osaka⇔tokyo 2児のママしてます✨ clubhouse📻⇒ @mai_inoue #fashion / #cosmetic / #gourmet / #travel #mama / #onsen / #traning 👧🏻(7)👶🏻(1) 案件☞ DMお願いします❤️
+    location: "Japan"
+    followers: 64266
+    engagement: 194
+    commentsToLikes: 0.016418
+    id: ckaoxsqlvekuu0i78mefbdd20
+    verified: false
+    hashtags: "#shooting, #fashion, #onsen, #ashigara"
   - username: "yushin0725"
     fullname: >-
       ゆしん/YUSHIN🌈
     bio: >-
-      ・TALENT/MC/Cosmetic producer💄 •お仕事等へのお問い合わせは info@pablo.tokyo.jp までお願いします📱 #joteki #ジョテキ @joteki_official ・日本化粧品検定 ・「裸〜nude〜」カバーリリース ・「Miryoq」香水🔻
+      ・TALENT/MC/Cosmetic producer💄 •お仕事等へのお問い合わせは info@pablo.tokyo.jp までお願いします📱 #joteki #ジョテキ @joteki_official ・日本化粧品検定 ・「裸〜nude〜」カバーリリース ・「Miryoq」香水 サプリ👇
     location: "Japan"
-    followers: 18361
-    engagement: 209
-    commentsToLikes: 0.025550
+    followers: 18114
+    engagement: 186
+    commentsToLikes: 0.028826
     id: ck14h82cf907a0i19pba9c0m9
     verified: true
-    hashtags: "#makeupforeverreboot, #mattevelvetskin, #brownchoux, #richnight"
-  - username: "monemilk"
-    fullname: >-
-      monemilk
-    bio: >-
-      ✴︎DJ (DJ MONE) ✴︎Art director ✴︎Designer ✴︎Consultant of cosmetics I love milk so much... ▷@monemilk_art ▶︎︎monemonemilk@gmail.com
-    location: "Japan"
-    followers: 73977
-    engagement: 221
-    commentsToLikes: 0.017574
-    id: ck9hc8c32k7t80j78koqaxzds
-    verified: true
-    hashtags: "#djmone, #femaledj, #djmonemilk, #monemilk"
-  - username: "seika_boo"
-    fullname: >-
-      seika
-    bio: >-
-      Tokyo📍﻿ RANDEBOO/Chérize CD/Founder﻿ @randeboo_official ﻿ @cherize_cosmetics﻿ ▼ My YouTube ch
-    location: "Japan"
-    followers: 77754
-    engagement: 257
-    commentsToLikes: 0.002195
-    id: ck6u2rqjitjp60j716udl00iu
-    verified: true
-    hashtags: ""
+    hashtags: "#lightvelvetair, #so, #brown, #newhair"
   - username: "chemiiiii"
     fullname: >-
       大口智恵美
     bio: >-
       CHIEMI☺︎Japanese🇯🇵 @centence_official Producer 講談社VOCEST・model・trip・cosmetics・fashion お仕事のご依頼は📧にお願いします♡
     location: "Japan"
-    followers: 168597
-    engagement: 145
-    commentsToLikes: 0.006930
+    followers: 172092
+    engagement: 140
+    commentsToLikes: 0.009643
     id: ck6ttt5wrcghn0j71orqw1dto
     verified: true
-    hashtags: "#summer, #love, #outfit, #mo"
-  - username: "mai_inoue"
-    fullname: >-
-      井上麻衣
-    bio: >-
-      MODSCITY libertàブランドディレクター #fashion / #cosmetic / #gourmet / #travel #mama 👧🏻(7)👶🏻(1) 案件☞ DMお願いします❤️ ママプロデューススキンケア🌹 K-0001を入力でプチgift✨
-    location: "Japan"
-    followers: 63823
-    engagement: 214
-    commentsToLikes: 0.016000
-    id: ckaoxsqlvekuu0i78mefbdd20
-    verified: false
-    hashtags: "#mama, #nakagawaonsen, #miyakojima, #onsen"
+    hashtags: "#centence, #instagood, #fashion, #pr"
   - username: "who3_"
     fullname: >-
       Who
     bio: >-
       💘🐼makeup🐾cosmetics🐼💘 💁‍♀️自まつ毛・奥二重・色白 マスカラ、まつ毛、写真の撮り方などについてはハイライトを見てね🙏
     location: "Japan"
-    followers: 40865
-    engagement: 81
-    commentsToLikes: 0.005739
+    followers: 39062
+    engagement: 79
+    commentsToLikes: 0.010168
     id: ck13775hra4lp0i19ybf01rzd
     verified: false
-    hashtags: "#who, #eotd, #cosmetics, #pr"
-  - username: "ishidakazuho"
+    hashtags: "#versoskincare, #hudabeauty, #who, #pr"
+  - username: "fujiko0207"
     fullname: >-
-      石田一帆
+      藤井明子
     bio: >-
-      cosmetics / fashion / travel﻿ @lpdgem.official director﻿ ﻿ #ik_make #ik_travel﻿ outdoor @ik_outdoor ﻿ mydog @codo0926﻿ 日本化粧品検定1級﻿ ﻿ リンクまとめてます☟
+      略して藤子、ar girl 40歳←。﻿﻿ director/ @fatuite_cosmetics オススメのスキンケアやコスメ、﻿ 天使のような夫と絶対君主のムスコ(猫)との生活をぬるく載せてます。﻿ ※DMの個別返信は対応できません。 mailはお仕事専用です。﻿
     location: "Japan"
-    followers: 148437
-    engagement: 114
-    commentsToLikes: 0.009483
-    id: ck5zziw7wbt770i14q7vaqmqx
+    followers: 109767
+    engagement: 249
+    commentsToLikes: 0.007583
+    id: ck13a9kh9paqt0i1931yo48ol
     verified: false
-    hashtags: "#beauty, #cosme, #geminilipstick, #ik"
-  - username: "hohoemineto"
+    hashtags: "#sponsored, #mm6maisonmargiela, #naildesign, #12"
+  - username: "chika72714"
     fullname: >-
-      Nkw'♡
+      ♡CHIKA♡
     bio: >-
-      ABAC Diet food @micnetozone Shop @ssperfume.cosmetic
+      株式会社LAURA 代表取締役 株式会社LAURA cosmetics 代表取締役 @laura.cosmetics.tokyo ◆美肌＆本格HIFUリフトアップ専門店◆ ローラビューティーサロン @laura_tokyo 東京都中央区佃1-2-4「月島駅」徒歩5分 ♡公式HPにてweb予約受付中♡
     location: "Japan"
-    followers: 6868
-    engagement: 269
-    commentsToLikes: 0.009051
-    id: ck5btqkn6gf4o0i11c61dthfl
+    followers: 29026
+    engagement: 106
+    commentsToLikes: 0.011744
+    id: ckap0wj19s4gm0i7879hon3ns
     verified: false
-    hashtags: "#cafeteller, #cafehopping, #adayinjapan, #kyotocoffee"
+    hashtags: "#hermes, #instabag, #happybirthday, #instagourmet"
+  - username: "rino416"
+    fullname: >-
+      R i n o 🍐
+    bio: >-
+      #rino_makeup ＿＿ メイクのまとめ @_cafelover_ ＿＿ カフェ記録 2005年〜2020年 M·A·C cosmetics ▼メイクレッスンのご予約はこちら🪞
+    location: "Japan"
+    followers: 28943
+    engagement: 203
+    commentsToLikes: 0.018054
+    id: ck0tzf6ofq5fm0i191vr9z4vg
+    verified: false
+    hashtags: "#suqqu, #rino, #addiction, #toone"
+  - username: "super_kana_"
+    fullname: >-
+      Japanese World Traveller✈︎
+    bio: >-
+      🌸Japan/FUK🇯🇵→AUS🇦🇺→QR🇶🇦→DXB🇦🇪⇆🇮🇸🌍 🌸外資系客室乗務員✈︎ 51countries 🌸留学やCA、英語や海外情報ブログはこちら🧳⬇︎ 🌸Makeup 美容垢| cosmetics lover💄 🌸Workout🏋️‍♀️ 🌸象使い| elephant license🐘
+    location: "Japan"
+    followers: 9536
+    engagement: 313
+    commentsToLikes: 0.032163
+    id: ck9wdq8k7grho0j78r9jie15v
+    verified: false
+    hashtags: "#iceland, #northernlights, #icelandtravel, #bubblehotel"
   - username: "kazukovalentine"
     fullname: >-
       Kazuko Hayasaka
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.010303
     id: ck5hrnkenv5zf0i11z1cm0wpg
     verified: false
-    hashtags: "#nerolilabotanica, #makeup, #liaf, #lifeisaflower"
+    hashtags: "#dan, #nerolilabotanica, #liaf, #lifeisaflower"
   - username: "maccosmeticsjapan"
     fullname: >-
       M･A･C Cosmetics Japan
     bio: >-
-      M･A･C Cosmetics JAPAN official Instagram🇯🇵💄💕 AII Ages, AII Races, AII Genders 👇🏼M･A･C公式オンラインショップを今すぐチェック
+      M･A･C Cosmetics JAPAN official Instagram🇯🇵💄💕 AII Ages, AII Races, AII Genders
     location: "Japan"
-    followers: 364932
-    engagement: 89
-    commentsToLikes: 0.000921
+    followers: 376614
+    engagement: 72
+    commentsToLikes: 0.007556
     id: ck55nehey61es0i11m6zqeb32
     verified: true
-    hashtags: "#macartist, #allagesallracesallgenders, #macglowplayblush, #foundation"
+    hashtags: "#mac, #maccosmeticsjapan, #maccosmetics, #macglowplayblush"
 ---

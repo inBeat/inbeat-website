@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Dallas In 2022
+title: Top 10 Comedians Instagram Influencers In Dallas In 2023
 description: >-
-  Find top comedians Instagram influencers in Dallas in 2022. Most popular hashtags: #standupcomedy #comedy #comedian #dallas.
+  Find top comedians Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #comedy #standupcomedy.
 platform: Instagram
-hits: 14
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 12
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 12 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "marvelousjarvis"
+  - username: "nemakatt"
     fullname: >-
-      Jarvis shepard
+      Comedian Nema Katt
     bio: >-
-      Scorpio ♏️ 270k YouTube subscribers, comedian/professional boxer 7-0 📍Dallas TX movie writer sag-aftra actor
+      Stand Up Comedian Dallas ✈️ ATL #AuthenticComplexity #TexasMade
     location: "United States"
-    followers: 56758
-    engagement: 61
-    commentsToLikes: 0.075404
-    id: ck14gr51j6lxa0i19c2yeawc1
+    followers: 43471
+    engagement: 231
+    commentsToLikes: 0.101777
+    id: ck6ub3x4t7bes0j717pnirn7t
     verified: false
-    hashtags: "#twerkforme"
-  - username: "davicrimmins"
+    hashtags: "#comedienne, #comedyshow, #standupcomedy, #nemakatt"
+  - username: "gerrybrooksprin"
     fullname: >-
-      Davi Crimmins
+      Gerry Brooks
     bio: >-
-      Comedian | Writer | Creator | Cohost🎙 @thebertshow & @thebroadlyspeakingshow LISTEN HERE ▶️
+      Principal, husband, dad, educator
     location: "United States"
-    followers: 41412
-    engagement: 463
-    commentsToLikes: 0.048687
-    id: ck15sjufmddch0i19ecmm8pxu
-    verified: false
-    hashtags: "#adoptdontshop, #mcm, #dogsofinstagram, #homesweethome"
+    followers: 528122
+    engagement: 293
+    commentsToLikes: 0.060629
+    id: ck6twssfbtvue0j71tnxi3vea
+    verified: true
+    hashtags: "#teachersofinstagram, #2ndgrade, #highschoolteacher, #schoollife"
   - username: "mack_a_fool"
     fullname: >-
       Mack
     bio: >-
-      👑 🐐"Fuck boundaries"🐐👑 Comedian/Actor/Rapper/Writer
+      👑 🐐"Fuck boundaries"🐐 Comedian/Actor/Rapper/Writer 📍Dallas,TX 📖DM for Booking ⬇️MERCH BELOW⬇️
     location: "United States"
-    followers: 62721
-    engagement: 136
-    commentsToLikes: 0.156364
+    followers: 78520
+    engagement: 228
+    commentsToLikes: 0.090102
     id: ck8t2j8i9zpgr0j78gjpsiy24
     verified: false
-    hashtags: "#exploremore, #rap, #mackafool, #funny"
-  - username: "marcusbowerstv"
+    hashtags: "#wshh, #hoodcomedy, #bigrimracing, #quartermile"
+  - username: "funnyhelenhong"
     fullname: >-
-      MARCUS BOWERS | Globalpreneur
+      Helen Hong
     bio: >-
-      Somewhere Doing Something Great | Navy SpecWar Veteran | Globalpreneur| Comedian 🐦 Twitter: 🔵 Facebook: etc @MarcusBowersTV 🏆 Award Winning Speaker 🗣
+      Comedian/Actor. NPR Wait Wait Don't Tell Me, Never Have I Ever, Silicon Valley, The Unicorn, Old Korean Dad Stories on YouTube -Innovative Artists
     location: "United States"
-    followers: 24767
-    engagement: 243
-    commentsToLikes: 0.025651
-    id: ck6u44ljn1nj30j711urdr9fe
-    verified: false
-    hashtags: "#happy, #morethananathlete, #coronavirus, #nba"
+    followers: 39191
+    engagement: 133
+    commentsToLikes: 0.027641
+    id: ck6tsjhx653zk0j7124nd20qh
+    verified: true
+    hashtags: "#dodgerhong, #babyhong, #2sisters1baby, #neverhaveiever"
   - username: "officially_shelby"
     fullname: >-
       Shelby - Cat Personality
     bio: >-
       Relatable Cat Comedian🎙😹 || Featured on Netflix❗️a TV show in the U.K. & USA Today + Voyage Dallas! ￼🌎 Owner: @erinseilhan || Dallas, TX || DM me! 📧
     location: "United States"
-    followers: 42442
-    engagement: 334
-    commentsToLikes: 0.028592
+    followers: 41781
+    engagement: 303
+    commentsToLikes: 0.030094
     id: ck13cnph119bb0i19czucs41q
     verified: false
-    hashtags: "#mondaymood, #tgif, #vote, #shelbyforpresident"
+    hashtags: "#lifehack, #mondaymood, #stepsisters, #themoreyouknow"
+  - username: "brucemomentum"
+    fullname: >-
+      BRUCE MOMENTUM
+    bio: >-
+      •SIBERIAN •COMEDIAN •FILMMAKER •LANGUAGES: 🇷🇺 🇵🇹 🇺🇸 🇪🇸 #vkladvsklad @themomentumcrew @gorillaenergy GUYVER DOCUMENTARY-
+    location: "United States"
+    followers: 36992
+    engagement: 277
+    commentsToLikes: 0.026039
+    id: ck6tohtrae62y0j71y4ljhsxv
+    verified: false
+    hashtags: "#sandiego, #simplelogic, #wetinside, #dallas"
   - username: "charmazing_1"
     fullname: >-
       Charmaine Christie-Primo
     bio: >-
       🤱🏾 Mother 🤣 Comedian 🎤 Cohost @ndeipi_mudiaspora 👩🏿‍💻 Engineer 👩‍👧‍👦Guyana 🇬🇾 🏠 Montreal, Canada🇨🇦 📍 Dallas 🇺🇸 ♈TeamAries
     location: "United States"
-    followers: 2453
-    engagement: 917
-    commentsToLikes: 0.093741
+    followers: 2525
+    engagement: 870
+    commentsToLikes: 0.111828
     id: ck8sw2ns1dkc00j789ypwkidh
     verified: false
-    hashtags: "#femalecomic, #lol, #storytelling, #darkskingirls"
-  - username: "tc_illkillya"
+    hashtags: "#charmaine, #afrobabies, #charmazing, #babyboy"
+  - username: "vonterashaad"
     fullname: >-
-      I Like Being Underrated 😂
+      Prince Of The South 👑, B.S.
     bio: >-
-      #author,📚 #artist 🎵🎙 #comedian 😂 #fitness #trainer 🏋️‍♀️ #DJ 🎧🎙 Download my single 👇 📍#houston #tcillkillya@gmail.com New single “trick” 📲 get it
+      📍#HTX #SUAlumnus #GradStudent #TSU #Stylist #Model #ContentCreator #CreativeDirector #PR #AllThingsMedia
     location: "United States"
-    followers: 788974
-    engagement: 226
-    commentsToLikes: 0.111288
-    id: ck5q1dp4oahw40i11z46veypw
+    followers: 21148
+    engagement: 263
+    commentsToLikes: 0.106019
+    id: ck15sguqtcxli0i19340wvuew
     verified: false
-    hashtags: "#omg, #tcillkillya, #draft, #fights"
-  - username: "nemakatt"
-    fullname: >-
-      Comedian Nema Katt
-    bio: >-
-      Stand Up Comedian:Doctor:Health Coach #AuthenticComplexity #GirlNextDoor #TexasMade
-    location: "United States"
-    followers: 33639
-    engagement: 356
-    commentsToLikes: 0.120980
-    id: ck6ub3x4t7bes0j717pnirn7t
-    verified: false
-    hashtags: "#nemakatt, #standupcomedy, #funnyvideos, #funnybusiness"
-  - username: "heathervstheworld"
-    fullname: >-
-      Heather McKinney
-    bio: >-
-      I’m fun at parties but I’ll probably spill something 🍷 💀 1/2 of @sinisterhoodpod 👩‍⚖️ elder justice #lawyer 🎤 #comedian // 📖 #writer Opinions my own
-    location: "United States"
-    followers: 9805
-    engagement: 520
-    commentsToLikes: 0.057341
-    id: ckaozsy0dn9dr0i78cb42d455
-    verified: false
-    hashtags: "#truecrime, #truecrimeaddict, #murderino, #crimecon"
+    hashtags: "#fashion, #funny, #love, #status"
   - username: "paulyshore"
     fullname: >-
       Pauly Shore
     bio: >-
-      yo brozzzzzzz Check out my stand-up dates 🤙 Subscribe on YouTube 👈 #RandomRants podcast (Thurs) #Fourplex4 concert series (Sun)
+      Yo brozzzzzzz Check out my stand-up dates 🤙 Subscribe on YouTube 👈 #RandomRants podcast (every Thurs)
     location: "United States"
-    followers: 211837
-    engagement: 88
-    commentsToLikes: 0.062706
+    followers: 237237
+    engagement: 111
+    commentsToLikes: 0.051628
     id: ck0tt5e7m18es0i190w0nhhwh
     verified: true
-    hashtags: "#comedypodcast, #hawaiicomedy, #podcastersofinstagram, #quarantineandchill"
+    hashtags: "#maui, #flashback, #quarantineandchill, #randomrants"
+  - username: "z_ro"
+    fullname: >-
+      Z-Ro
+    bio: >-
+      @godjhefna @dareallilcalvin @infernoredd we are @one_deep_entertainment Press “EMAIL” for all serious booking inquiries.
+    location: "United States"
+    followers: 540802
+    engagement: 262
+    commentsToLikes: 0.042446
+    id: ck5q1dlp9ahe80i11ugx9zbmd
+    verified: true
+    hashtags: "#pisspies, #onedeepentertainment, #ghettogospel, #rohammadali"
 ---

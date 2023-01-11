@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Diego In 2022
+title: Top 10 Vegan Instagram Influencers In San Diego In 2023
 description: >-
-  Find top vegan Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #vegan #foodie #foodporn.
+  Find top vegan Instagram influencers in San Diego in 2023. Most popular hashtags: #vegan #sandiego #plantbased #breakfast.
 platform: Instagram
-hits: 44
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 44 Instagram influencers like this in San Diego, United States for you to connect with.
+hits: 46
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 46 Instagram influencers like this in San Diego, United States for you to contact.
 profiles:
-  - username: "turnipvegan"
+  - username: "fensterjeff"
     fullname: >-
-      Turnip Vegan
+      Jeff Fenster
     bio: >-
-      🎥 #Videographer | 🌱 | San Diego Founder of @chickpeasxturnips Co-Founder of @spoiledvegans cafe
+      🥥 Founder Everbowl 30+ locations🚀 👨‍👩‍👧‍👧 Husband & Father 🥰 🤹 Serial Entrepreneur🎢 🎤 Speaker 🗣 🧩 Founded 14 Companies 🎯 💎 Top 40 under 40🏆
     location: "United States"
-    followers: 29967
-    engagement: 304
-    commentsToLikes: 0.052484
-    id: ck6txp1plz1ml0j71cngqzhxn
-    verified: false
-    hashtags: "#delicious, #cookies, #vegancommunity, #veganism"
-  - username: "ashleysprankles"
+    followers: 48467
+    engagement: 185
+    commentsToLikes: 0.069333
+    id: ck6u79hsfk8nt0j7132q9192i
+    verified: true
+    hashtags: "#serialentrepreneur, #entrepreneurmindset, #everbowl, #entrepreneurlife"
+  - username: "influencersandiego"
     fullname: >-
-      Ashley Sprankles
+      Mariana Costa | San Diego
     bio: >-
-      Portraits • Food • Landscape 📸 𝕍𝕖𝕘𝕒𝕟 𝕘𝕚𝕣𝕝 🐷 ☀️🌈 [she/her] Dog Mom T💓Z • Donut Connoisseur 🍩
+      🚁 | Lifestyle and Travel Influencer 🌎 | Last trips: Cartagena, Tulum, Sedona 🌴 | Living in San Diego, CA 🙏 | Trust God 📲 | Email for collabs
     location: "United States"
-    followers: 86203
-    engagement: 120
-    commentsToLikes: 0.050632
-    id: ck13d2c203ba70i19cv94n42v
+    followers: 12987
+    engagement: 367
+    commentsToLikes: 0.125654
+    id: ck6u34lvmvofj0j71zrsf18cg
     verified: false
-    hashtags: "#sandiegovegan, #food, #ourplanetdaily, #portrait"
+    hashtags: "#bikinibabes, #calilove, #sandiegolife, #sandiego"
   - username: "stephenland89"
     fullname: >-
       Stephen Land
     bio: >-
-      📒Author🙆🏻‍♂️Public Speaker🙋🏻‍♂️Activist🎙Singer🕺🏼Gay Nightlife Personality🇺🇸San Diego🍌Vegan🐒Volunteer @mostly.monkeys
+      📒Author🙆🏻‍♂️Public Speaker🙋🏻‍♂️Activist🎙Singer 🎵YouTube - LandMusic 🕺🏼Gay Nightlife Personality🇺🇸San Diego🍌Vegan🐒Volunteer @mostlymonkeyssd
     location: "United States"
-    followers: 62522
-    engagement: 54
-    commentsToLikes: 0.035080
+    followers: 61844
+    engagement: 73
+    commentsToLikes: 0.027841
     id: ckap8xgcbqb200i78l5cwqi7y
     verified: false
-    hashtags: "#thinkpink, #mom, #love, #lovemusic"
-  - username: "eatwithnorma"
+    hashtags: "#sing, #nice, #santababy, #naughty"
+  - username: "beezy.bee"
     fullname: >-
-      Norma
+      Beezy Bee
     bio: >-
-      OC/ LA and Beyond Camera ALWAYS eats before I do! Food Photographer📸 Content Creator 🎥 Social Media Management 👩‍💻 Influencer 🙋🏻‍♀️ ⬇ Visit my blog!
+      My Two Moods: Sunshine. Or Black Parade.🌞🌚 San Diego📍 Tattooed | Vegan | Pitbull Momma Be Sweeter than 🍯& Sting like a 🐝
     location: "United States"
-    followers: 21647
-    engagement: 171
-    commentsToLikes: 0.105593
-    id: ck0ucb2s9gey30i196ighqhbc
+    followers: 238553
+    engagement: 314
+    commentsToLikes: 0.041812
+    id: ck5zr3i3hvts30i145x4t22ie
     verified: false
-    hashtags: "#ocfoodie, #dtla, #santaana, #stanton"
-  - username: "araalnaiem"
+    hashtags: "#tattoosarecool, #inkedandglasses, #freckles, #changes"
+  - username: "ashleynelltipton"
     fullname: >-
-      Ara Alnaiem 🧿♡
+      Ashley Nell Tipton
     bio: >-
-      San Diego #BenefitClubPink TikTok: @araalnaiem PR : aalnaiem1994@gmail.com
+      Winner of Project Runway Season 14 ▼@ashleynelltiptondesigns to shop!▼ ▼ FACE MASKS 😷 ▼
     location: "United States"
-    followers: 22479
-    engagement: 378
-    commentsToLikes: 0.085241
-    id: ck15rdosa7ezo0i190muzg17k
-    verified: false
-    hashtags: "#halloween, #anastasiabeverlyhills, #precislymybrowpencil, #benefitcosmetics"
-  - username: "melissajane_fit"
+    followers: 207333
+    engagement: 78
+    commentsToLikes: 0.021500
+    id: ck0w0fyxqdzwn0i19m891he1f
+    verified: true
+    hashtags: "#sdinfluencer, #plussizefashion, #plussizeinfluencer, #plussizemodel"
+  - username: "fernandakellyyy"
     fullname: >-
-      Melissa Jane | Fitness Coach
+      𝔽𝕖𝕣𝕟𝕒𝕟𝕕𝕒
     bio: >-
-      💪🏽 i help women look & feel their best, find balance, & live with confidence ✨ CEO: @alignmentathletics 🌊 san diego 🎥 YT: Melissa Jane ⬇️ shop!
+      Latina Buddhist Actress | Host | Philanthropist| Emmy Winner Founder of @shopnytaq and @themedicalgownproject
     location: "United States"
-    followers: 42435
-    engagement: 189
-    commentsToLikes: 0.080720
-    id: ck8t1j7xsvzcx0j783o7qke9n
-    verified: false
-    hashtags: "#iam1stphorm, #newtofitness, #workoutideas, #athleisure"
-  - username: "danielleskyeee"
+    followers: 74750
+    engagement: 151
+    commentsToLikes: 0.038921
+    id: ck8t0mzspsm6p0j78nh3jx8k5
+    verified: true
+    hashtags: "#morelatinosinhollywood, #nytaqstateofmind, #conovarios, #latinamade"
+  - username: "ashleysprankles"
     fullname: >-
-      Danielle Skye
+      Ashley Sprankles
     bio: >-
-      San Diego🦋 Books closed Danielle_tattoo@yahoo.com
+      Photography 📸 𝕀’𝕞 𝕡𝕣𝕠𝕓𝕒𝕓𝕝𝕪 𝕠𝕟 𝕋𝕚𝕜𝕋𝕠𝕜! [She/They]🌈•Dog Mom T💓Z ♥ 𝕯𝖔𝖓𝖚𝖙 𝖈𝖔𝖓𝖓𝖔𝖎𝖘𝖘𝖊𝖚𝖗 🍩
     location: "United States"
-    followers: 80808
-    engagement: 419
-    commentsToLikes: 0.043102
-    id: ck1398rvqk33c0i19j7y7tw7t
+    followers: 93043
+    engagement: 111
+    commentsToLikes: 0.042942
+    id: ck13d2c203ba70i19cv94n42v
     verified: false
-    hashtags: "#tattooideas, #tattooartist, #customtattoo, #peony"
-  - username: "antonio_eats_la"
+    hashtags: "#sdphotographer, #mukbang, #portrait, #sandiego"
+  - username: "hannah.guthman"
     fullname: >-
-      Antonio Malik
+      Hannah Guthman
     bio: >-
-      📍Los Angeles📍San Diego Food | Fitness | Travel Collab/promotions? DM/ 📧: antonioeatsla@gmail.com As seen on @abc7la @abc7community @foodnetwork
+      real food, made by HANd. ✨🤚✨ easy healthy recipes & tips proud plant mom 🌱 San Diego, CA hanmadebyhg@gmail.com
     location: "United States"
-    followers: 136150
-    engagement: 204
-    commentsToLikes: 0.066020
-    id: ck0u9zqpjb25v0i19j1ysui88
+    followers: 45482
+    engagement: 467
+    commentsToLikes: 0.206546
+    id: ck15srdbpefva0i19kb9mjkl7
     verified: false
-    hashtags: "#instagood, #shrimp, #foodie, #tijuana"
-  - username: "mrsdeependa"
+    hashtags: "#easyrecipes, #potatoes, #snacks, #toast"
+  - username: "naturallyzuzu"
     fullname: >-
-      Food Agenda w/ Mrs. Dee Penda
+      Zuliya Khawaja | NaturallyZuzu
     bio: >-
-      👉Content Creator~YouTuber👈 🙌900k on Tiktok🎶 23k on YouTube📺 📍San Diego,Ca☀️ DM for Collab😀 🇵🇭Self-taught Home cook🥘 💁‍♀️Easy Recipes🍳#doggymom🐶
+      Welcome to Zuzuland! [She/Her] Plant-based chef Food Art & Recipes Certified in #plantbased #nutrition Clubhouse: @naturallyzuzu 📍San Diego, CA
     location: "United States"
-    followers: 42393
-    engagement: 608
-    commentsToLikes: 0.023958
-    id: ck5hkpuljiunl0i11iei0hcmq
+    followers: 133484
+    engagement: 284
+    commentsToLikes: 0.045703
+    id: ck0tzt2n9rioi0i1990c2tdzr
     verified: false
-    hashtags: "#milso, #recipeoftheday, #navywife, #kusina"
-  - username: "alexafuelednaturally"
+    hashtags: "#imsomartha, #naturallyzuzu, #giveawayalert, #vegandessert"
+  - username: "briewilly"
     fullname: >-
-      Alexa Soto
+      Brie Willy aka Chad Montano
     bio: >-
-      Plant Recipes 🌱 Latina 🇲🇽 Rescue Dog Mama 🐾 Mental health advocate San Diego ☀️ Recipes & videos linked below ✨
+      Food | Lifestyle | Cocktails | Restaurant 📸 @westcottlighting Top Pro @traegergrills @snakeriverfarms 📍San Diego, CA
     location: "United States"
-    followers: 218467
-    engagement: 261
-    commentsToLikes: 0.035072
-    id: ck0ty1taul8xc0i19d944lh7p
+    followers: 37077
+    engagement: 147
+    commentsToLikes: 0.254035
+    id: ck0tterzk2ehy0i1955ditnnn
     verified: false
-    hashtags: "#vegetarian, #veganfoodporn, #comfortfood, #whatveganseat"
+    hashtags: "#steak, #freshfood, #ad, #eeeeeats"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Chicago In 2022
+title: Top 10 Rappers Instagram Influencers In Chicago In 2023
 description: >-
-  Find top rappers Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #rapper #music #love.
+  Find top rappers Instagram influencers in Chicago in 2023. Most popular hashtags: #rapper #chicago #music #explore.
 platform: Instagram
-hits: 46
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 46 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 43
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 43 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "itslildurk2x"
-    fullname: >-
-      Lil Durk Fan Page
-    bio: >-
-      Post snippets, pictures, and videos of my favorite artist🥵
-    location: "United States"
-    followers: 22120
-    engagement: 249
-    commentsToLikes: 0.019638
-    id: ck0u0r43uuof80i197bkc6rxu
-    verified: false
-    hashtags: "#explore, #otf, #rapper, #chicago"
-  - username: "cbmusic"
-    fullname: >-
-      Chad Bernstein
-    bio: >-
-      Father to FOUR amazing kids; Husband to @the_bernstein_brood (warrior woman of my dreams); Musician/entrepreneur; CEO/founder of @guitarsoverguns
-    location: "United States"
-    followers: 2864
-    engagement: 413
-    commentsToLikes: 0.068454
-    id: ck5zx3aw979if0i14kbt6w9z1
-    verified: false
-    hashtags: "#trombonist, #miami, #love, #musicforchange"
   - username: "mattmuse12"
     fullname: >-
       Matt Muse
     bio: >-
-      rapper, souf side chicago, hair steady growin SHOTGUN remix music video out now! 🚗
+      #TeamNeverStop rapper, souf side chicago, hair getting longer 👇🏾Stream ROCKIN & BRIDGES on all platforms
     location: "United States"
-    followers: 7908
-    engagement: 765
-    commentsToLikes: 0.061253
+    followers: 8105
+    engagement: 875
+    commentsToLikes: 0.083845
     id: ck55q12ixbv080i110b99lmzx
     verified: false
-    hashtags: "#ilookedintothesunwhiledoingthis, #fallfashion, #fall, #inmyjs"
-  - username: "younomii"
-    fullname: >-
-      CHICAGO’S GIRLFRIEND 💃🏽🌃 ✨
-    bio: >-
-      🎤🎼 CHICAGO ARTIST!! BOOKING: 7735383922
-    location: "United States"
-    followers: 153151
-    engagement: 188
-    commentsToLikes: 0.039697
-    id: ck5cb5yp8esqr0i11oo8rzm8a
-    verified: false
-    hashtags: ""
-  - username: "xclusive___chris"
-    fullname: >-
-      @chrisgonecrazy_‼️MAIN PAGE‼️
-    bio: >-
-      📍Chicago Dancer🔥 Rapper🎤 Actor🎬 Follow my main page { @chrisgonecrazy_ } Chris & Debo 🤘🏽
-    location: "United States"
-    followers: 77062
-    engagement: 174
-    commentsToLikes: 0.044104
-    id: ckap2yjez0v1b0i786ouib81h
-    verified: false
-    hashtags: "#chrisgonecrazy, #chrisanddebo"
+    hashtags: "#lollarun, #mlb, #baseball, #thisisrapcenter"
   - username: "mrwilliamcruse"
     fullname: >-
       Sir Cruse
     bio: >-
       MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
     location: "United States"
-    followers: 38602
-    engagement: 768
-    commentsToLikes: 0.015702
+    followers: 43635
+    engagement: 627
+    commentsToLikes: 0.017167
     id: ck5c6ekj559zm0i11030vuue0
     verified: false
-    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
-  - username: "gt.vii73"
+    hashtags: "#barber, #muscles, #tiktok, #chicagosalon"
+  - username: "iamprettylyon"
     fullname: >-
-      Gabriel Townsell // VII
+      Lyon the Don
     bio: >-
-      Raps & Wrestling. 1/2 of Showtime Squad. Stanford ‘20. America to Me on @starz. @bwassociation_. Westside.
+      King’s MuVa 💙 Recording Artist 👑🦁 Certified Body Sculptor💰Bookprettylyon@gmail.com💜💪🏽 Owner of @milfyme_ & @sowaistedllc 🔥🔥
     location: "United States"
-    followers: 8984
-    engagement: 610
-    commentsToLikes: 0.051189
-    id: ck5c3eu68z6ng0i11p4txrelc
+    followers: 33144
+    engagement: 128
+    commentsToLikes: 0.164973
+    id: ck5c6ohwq5v7j0i114h9dvcze
     verified: false
-    hashtags: "#worldstarhiphop, #art, #chicago, #773"
+    hashtags: "#milleniumtour, #applemusic, #music, #atlantarappers"
+  - username: "flee_kay"
+    fullname: >-
+      OG KK
+    bio: >-
+      Rapper | Sneaker Enthusiast | Song Writer Sneaker Page @fleekickzcustoms 🚯 Business Inquiries: sluglifeent@gmail.com #17 OUT NOW 🥳
+    location: "United States"
+    followers: 7642
+    engagement: 430
+    commentsToLikes: 0.266109
+    id: ckap7wjq2lvl60i78hnzu7aro
+    verified: false
+    hashtags: "#nike, #exploremore, #sneakers, #instadaily"
   - username: "aintyoudevo"
     fullname: >-
       J.Devo
     bio: >-
-      Certified Mediator Northwestern Pritzker Law Alumna 👩🏽‍⚖️ ΔΣΘ | PYR🔺MID | UIUC Alumna | ChicaGOAT📍
+      Lyrical Lawyer Certified Mediator Northwestern Pritzker Law Alumna 👩🏽‍⚖️ ΔΣΘ | PYR🔺MID | UIUC Alumna | ChicaGOAT📍
     location: "United States"
-    followers: 7465
-    engagement: 790
-    commentsToLikes: 0.100832
+    followers: 7608
+    engagement: 854
+    commentsToLikes: 0.117625
     id: ckap55nivab1l0i788909innc
     verified: false
-    hashtags: "#chicago, #lawyerbaes, #jd, #music"
-  - username: "bjbeatz_"
+    hashtags: "#blacklawyersmatter, #chicago, #rap, #music"
+  - username: "itslildurk2x"
     fullname: >-
-      “Goddamn BJ Wit Another One” 😈
+      Lil Durk Fan Page
     bio: >-
-      Platinum/Billboard #1 Producer 💿 📊Over 2 Million Views On YouTube 💰DM To Purchase 📍Chicago ▶️Youtube : BJ Beatz BeatStore ⬇️⬇️⬇️
+      Post snippets, pictures, and videos of my favorite artist🥵
     location: "United States"
-    followers: 6915
-    engagement: 1287
-    commentsToLikes: 0.127514
-    id: ckaorrkf0ofiy0i78fp2mg6gd
+    followers: 30939
+    engagement: 227
+    commentsToLikes: 0.011486
+    id: ck0u0r43uuof80i197bkc6rxu
     verified: false
-    hashtags: "#nbayoungboy, #goddamnbjwitanotha1, #top, #chicago"
+    hashtags: "#durkioworld, #rapper, #explore, #explorerpage"
+  - username: "katarina.arriaga.music"
+    fullname: >-
+      Katarina Arriaga
+    bio: >-
+      Dedicated to my craft & spreading love to my community•VivaMexico•Check out my blog and merchandise! 👇 “The Letter” OUT NOW
+    location: "United States"
+    followers: 15168
+    engagement: 1144
+    commentsToLikes: 0.074796
+    id: ck6u433xo1err0j7199makhlw
+    verified: false
+    hashtags: "#dallashiphop, #miamihiphop, #femalerapper, #independentwoman"
+  - username: "walkertkl"
+    fullname: >-
+      WalkerTKL
+    bio: >-
+      Animator and illustrator from Chicago Email me at walkertkl@gmail.com
+    location: "United States"
+    followers: 38184
+    engagement: 682
+    commentsToLikes: 0.021287
+    id: ckaoucpmczpus0i7882l8d0g1
+    verified: false
+    hashtags: "#nbahighlights, #mvp, #digitalillustration, #football"
   - username: "superwillie"
     fullname: >-
       Willie Holmes
     bio: >-
       Master coach @SÍCLO 🚴🏿 Been some places, learned some things, changed some lives 🏋🏿‍♂️ @campfuga @opt1models Chicago Get sum Willpowered-ness 📍🇲🇽
     location: "United States"
-    followers: 19681
-    engagement: 335
-    commentsToLikes: 0.046974
+    followers: 19513
+    engagement: 347
+    commentsToLikes: 0.045716
     id: ck5q7rdyg2s4w0i11kv9z8umn
     verified: false
-    hashtags: "#tulummexico, #tulumbeach, #superwillie, #tulum"
+    hashtags: "#superwillie, #tulumbeach, #tulummexico, #campfuga"
+  - username: "the_ari_gato"
+    fullname: >-
+      Ariana L. Gato ~ Ari Gato ✨
+    bio: >-
+      Chicago-based Drag Queen 👑 Actor🎭 Dancer 🕺🏽 Recording Artist 🎤 Bookings: thearigato@gmail.com 💃🏽 Cashapp: $thearigato 💸
+    location: "United States"
+    followers: 8151
+    engagement: 1310
+    commentsToLikes: 0.090162
+    id: ck5q3t6o2mbb30i1117j71x06
+    verified: false
+    hashtags: "#catsofinstagram, #localdrag, #chicagoqueens, #mug"
 ---

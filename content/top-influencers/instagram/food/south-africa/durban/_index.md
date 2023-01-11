@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Durban In 2022
+title: Top 10 Food Instagram Influencers In Durban In 2023
 description: >-
-  Find top food Instagram influencers in Durban in 2022. Most popular hashtags: #durban #food #southafrica.
+  Find top food Instagram influencers in Durban in 2023. Most popular hashtags: #food #foodie #southafrica.
 platform: Instagram
-hits: 6
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 6 Instagram influencers like this in Durban, South Africa for you to connect with.
+hits: 4
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 4 Instagram influencers like this in Durban, South Africa for you to work with.
 profiles:
-  - username: "interiors_of_south_africa"
+  - username: "the_foodpassionista"
     fullname: >-
-      Interiors of South Africa 🇿🇦
+      нαѕєєηα
     bio: >-
-      #interiorsofsa shares local content from designers, suppliers, and architects to inspire our followers.#proudlysa DM or tag us for a mention (T&C)
+      A glimpse of what is served on MY TABLE.. Simple, Easy & Everyday Meals Welcome to MY KITCHEN.. Durban, South Africa 🇿🇦
     location: "South Africa"
-    followers: 58811
-    engagement: 152
-    commentsToLikes: 0.041258
-    id: ck6u42ggz1atn0j716w5c71cr
+    followers: 33194
+    engagement: 175
+    commentsToLikes: 0.029729
+    id: ck0w5b5782sf20i19qci0jlqt
     verified: false
-    hashtags: "#interiordesign, #decobellatiles, #decor, #interior123"
-  - username: "thatdamnvandal"
+    hashtags: "#buzzfeast, #instaeats, #foodblogfeed, #photography"
+  - username: "fehmz"
     fullname: >-
-      DAMN VANDAL
+      Fehmz
     bio: >-
-      Graffiti Artist/illustrator. South Africa 🇿🇦 ............ Sponsored By Posca Reebok Classics Ambassador 🇬🇧 Dromex
+      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
     location: "South Africa"
-    followers: 10108
-    engagement: 396
-    commentsToLikes: 0.039424
-    id: ck8svw1i4cwto0j785pmqao89
+    followers: 125944
+    engagement: 313
+    commentsToLikes: 0.015450
+    id: ck0w6espr882r0i19xmu3iovq
     verified: false
-    hashtags: "#damnvandal, #durbanartist, #streetart, #digital"
-  - username: "kunene_ayanda"
-    fullname: >-
-      Ayanda Kunene
-    bio: >-
-      South African 🇿🇦 Twin: @amanda_Kunene Snapchat: kunene_ayanda 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
-    location: "South Africa"
-    followers: 3500
-    engagement: 616
-    commentsToLikes: 0.080905
-    id: ck138fd3bfyxf0i199d208qt8
-    verified: false
-    hashtags: "#l4l, #milkmodelsearch, #vegan, #healthylifestyle"
-  - username: "kajalmaharaj"
-    fullname: >-
-      Kajal Maharaj
-    bio: >-
-      SA actress, Shria on the daily soapie Imbewu the Seed eTV MC, empowerment speaker TikTok@kajalmaharajshria Bookings precious.nakhira@talent-etc.co.za
-    location: "South Africa"
-    followers: 22883
-    engagement: 383
-    commentsToLikes: 0.060047
-    id: ck5zu2v351kti0i145fys4vbe
-    verified: false
-    hashtags: "#southafrica, #imbewutheseed, #hudabeauty, #fashion"
+    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
   - username: "kaminipather"
     fullname: >-
       Kamini Like Harmony
     bio: >-
-      Host of #GirlEatWorldTV @Netflix SAFTA winner #GLAMWOTY #sastyleawards17 @MasterChef_SA winner S2. Runner.
+      Host of #GirlEatWorldTV @Netflix SAFTA winner @MasterChef_SA winner S2. Runner.
     location: "South Africa"
-    followers: 34254
-    engagement: 89
-    commentsToLikes: 0.034466
+    followers: 36569
+    engagement: 148
+    commentsToLikes: 0.144325
     id: ckaost6k2szaw0i78ocytqyhn
     verified: true
-    hashtags: "#lockdown, #recipe, #eatlocal, #crepes"
-  - username: "joe_human"
+    hashtags: "#food, #supportlocal, #win, #competition"
+  - username: "vergetherappersa"
     fullname: >-
-      Joe Human
+      ☆VERGE THE RAPPER☆
     bio: >-
-      Creative Consultant • Entrepreneur • @forbesafrica 30 Under 30. Co-founder @cmindspace x @subtlemeetup • 🇨🇩
+      📧:𝐯𝐞𝐫𝐠𝐞𝐭𝐡𝐞𝐫𝐚𝐩𝐩𝐞𝐫𝐬𝐚@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 SEE YOU AT THE TOP MIXTAPE OUT NOW ↴
     location: "South Africa"
-    followers: 24022
-    engagement: 279
-    commentsToLikes: 0.065980
-    id: ck6u4o6cv4ukc0j71xqd3ovlo
+    followers: 3513
+    engagement: 823
+    commentsToLikes: 0.233658
+    id: ckap1ye6ywlqv0i782kg54cz7
     verified: false
-    hashtags: "#menwith, #subtledining, #joehuman, #menwithstyle"
-  - username: "zeenatkh_"
+    hashtags: "#newmusic, #soviet, #travel, #thelegacyyard"
+  - username: "fehmz"
     fullname: >-
-      Zeenat Khan
+      Fehmz
     bio: >-
-      • Email : info@curativeconcepts.com • Stylist @rogue_styling •@damodelmanagement •Fashion|Fitness|Food •UCT Bcom graduate
+      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
     location: "South Africa"
-    followers: 9452
-    engagement: 1046
-    commentsToLikes: 0.202621
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 125944
+    engagement: 313
+    commentsToLikes: 0.015450
+    id: ck0w6espr882r0i19xmu3iovq
     verified: false
-    hashtags: "#rocolove, #rocofamous, #strangerthings, #iconixza"
+    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
+  - username: "diariesofanislandergirl"
+    fullname: >-
+      ZAINAH | LIFESTYLE BLOGGER
+    bio: >-
+      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
+    location: "South Africa"
+    followers: 10575
+    engagement: 612
+    commentsToLikes: 0.018917
+    id: ck5hqose9tghk0i11u4gxah0n
+    verified: false
+    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
+  - username: "michelle_vanessaa_"
+    fullname: >-
+      Michelle Vanessa
+    bio: >-
+      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+    location: "South Africa"
+    followers: 30778
+    engagement: 465
+    commentsToLikes: 0.120945
+    id: ck6tqe91vqy2q0j71tv5jm53n
+    verified: false
+    hashtags: "#miami, #heels, #travel, #wanderlust"
+  - username: "nicola_duplessis"
+    fullname: >-
+      Nicola Tila Du Plessis
+    bio: >-
+      Owner&Director: @acemodels_atlanticseaboard MODEL | Face of @sandybclub @thebayhotel | Foodpage: @nicolascreation BRAND AMBASSADOR: @amazinghairsa
+    location: "South Africa"
+    followers: 27191
+    engagement: 373
+    commentsToLikes: 0.176095
+    id: ck14gy3zw7l6g0i19peitarc2
+    verified: false
+    hashtags: "#casting, #amen, #tomanymoretogether, #108kloofstreet"
   - username: "marisepollard"
     fullname: >-
       Marise Pollard
     bio: >-
       ♥️HP I like to play dress up, unfamiliar places & a l l food. I get really excited when the sky is in pretty colors. Always be kind & say thank you.
     location: "South Africa"
-    followers: 53811
-    engagement: 1268
-    commentsToLikes: 0.023231
+    followers: 55220
+    engagement: 1170
+    commentsToLikes: 0.002316
     id: ck6u866l7pnuv0j71hspnufg4
     verified: false
-    hashtags: "#skoonbeautysmoothie"
-  - username: "nicola_duplessis"
+    hashtags: ""
+  - username: "carishmabasday"
     fullname: >-
-      Nicola Tila Du Plessis
+      Carishma Basday ~ Actress
     bio: >-
-      Director: @acemodels_atlanticseaboard SA| MODEL | Face of @sandybclub @thebayhotel | Foodpage: @nicolascreation BRAND AMBASSADOR: @amazinghairsa
+      Adventure seeking✈️, food loving🍝,yoga doing🧘🏽‍♀️,puppy cuddling🐶, good vibe cultivator💖,magic maker✨,actress/presenter🎬& mama to Ayla Océane 👼🏽
     location: "South Africa"
-    followers: 26236
-    engagement: 313
-    commentsToLikes: 0.059777
-    id: ck14gy3zw7l6g0i19peitarc2
+    followers: 20881
+    engagement: 312
+    commentsToLikes: 0.044449
+    id: ck5c05axash890i11gyh86zop
     verified: false
-    hashtags: "#must, #luxury, #giveaway, #acemodelsatlanticseaboard"
-  - username: "katlego_masupa"
-    fullname: >-
-      Katlego Masupa
-    bio: >-
-      Lifestyle muse ✨ Drinks, good food and everything in between.
-    location: "South Africa"
-    followers: 71303
-    engagement: 215
-    commentsToLikes: 0.073886
-    id: ck5btyb4agtpq0i113f18sbs4
-    verified: false
-    hashtags: "#selfcaresunday, #befreelactosefree, #cycling, #olachoosejoy"
+    hashtags: "#skincare, #antioxidantserum, #vitamincserum, #faceserum"
 ---

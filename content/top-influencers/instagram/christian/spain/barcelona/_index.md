@@ -1,108 +1,84 @@
 ---
-title: Top 10 Christian Instagram Influencers In Barcelona In 2022
+title: Top 10 Christian Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top christian Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #instagood #ig #love.
+  Find top christian Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #foodporn #tenerife.
 platform: Instagram
-hits: 12
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 12 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 10
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 10 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
+  - username: "brianbarber_"
+    fullname: >-
+      βrιαη Pεrεz Qυιrσs ✪
+    bio: >-
+      📍TERRASSA->BARCELONA 🏆1oFreestyle @goldenchairintl 2020 🏆1oCorte barba @goldenchairintl 2020 🏆1oPromesas @goldenchairintl 2018 🏆1oPromesas Madrid 2018
+    location: "Spain"
+    followers: 24932
+    engagement: 225
+    commentsToLikes: 0.030834
+    id: ck6ubn6jqakew0j71x4ffqen3
+    verified: false
+    hashtags: "#fadespain, #spain, #showcasebarbers, #barberworld"
   - username: "chsantamaria"
     fullname: >-
       Christian Santamaria
     bio: >-
       From Barcelona. Represented by Viewmanagement New Madison - Select - Spin - D'Man - NYModels
     location: "Spain"
-    followers: 12267
-    engagement: 457
-    commentsToLikes: 0.076098
+    followers: 12317
+    engagement: 504
+    commentsToLikes: 0.069659
     id: ck8sws4vjf1rm0j7804u1npdg
     verified: false
-    hashtags: "#elleman, #blackandwhite, #underwear, #lifeguard"
-  - username: "brianbarber_"
-    fullname: >-
-      βrιαη Pεrεz Qυιrσs ✪
-    bio: >-
-      •Barber in @christian_maez •from BCN/MADRID 🇪🇸 •1p-battle @goldenchairintl 2020🏆 •1p-battle @goldenchairintl 2020🏆 •1p-battle @goldenchairintl 2018🏆
-    location: "Spain"
-    followers: 21460
-    engagement: 296
-    commentsToLikes: 0.023191
-    id: ck6ubn6jqakew0j71x4ffqen3
-    verified: false
-    hashtags: "#freestyle, #wahlspain, #showcasebarbers, #ink"
-  - username: "oscarmarquezxl1"
-    fullname: >-
-      Oscar marquez
-    bio: >-
-      👔Andrew Christian brand ambassador
-    location: "Spain"
-    followers: 18884
-    engagement: 497
-    commentsToLikes: 0.034669
-    id: ck5q9ki88bkcy0i116azz97c9
-    verified: false
-    hashtags: "#gayasian, #pridemonth, #gaybulge, #gayspain"
+    hashtags: "#underwear, #elleman, #blackandwhite, #sportclassic"
   - username: "topfoodbcn"
     fullname: >-
       Top food BCN ⭐️ Foodie
     bio: >-
       🙋🏻‍♂️ Soy Cristian | Periodista & foodie 📍Barcelona y alrd. 📩colaboraciones.topfoodbcn@gmail.com 👇🏻Tentando tu paladar con mis visitas gastronómicas
     location: "Spain"
-    followers: 23473
-    engagement: 386
-    commentsToLikes: 0.643175
+    followers: 27721
+    engagement: 362
+    commentsToLikes: 0.751521
     id: ck6u9bwxqwniy0j7192wjxcry
     verified: false
-    hashtags: "#foodphotography, #cheese, #chocolate, #giveaway"
-  - username: "cristianvilax"
-    fullname: >-
-      CRISTIAN VILA
-    bio: >-
-      Barcelona 🌐. @getcrazywear founder.
-    location: "Spain"
-    followers: 3790
-    engagement: 1410
-    commentsToLikes: 0.098777
-    id: ck6traosaxw8z0j7137imlpk8
-    verified: false
-    hashtags: "#unitedraw, #ig, #catalunyahype, #canon"
+    hashtags: "#dilluns, #sorteig, #gourmet, #cheese"
   - username: "_cristianvalen"
     fullname: >-
       Cristian Valencia
     bio: >-
       Actor | Productor La Gran ofensa Blue Rai El cadáver de Anna Fritz Barcelona Nit d'hivern Barcelona Nit d'estiu
     location: "Spain"
-    followers: 3704
-    engagement: 630
-    commentsToLikes: 0.062422
+    followers: 3756
+    engagement: 641
+    commentsToLikes: 0.067721
     id: ck135rnw02vvg0i19go9hoq01
     verified: false
     hashtags: "#superinlove, #alexmurrull, #lagranofensa, #unk"
+  - username: "cristianfigueroa.bc"
+    fullname: >-
+      Cristian Figueroa 🇩🇴
+    bio: >-
+      CEO @thebachatacrew ⭐❤️ @cristianykaterina 📍 Barcelona
+    location: "Spain"
+    followers: 6028
+    engagement: 341
+    commentsToLikes: 0.100626
+    id: ck6ubmrinaht40j717vsnc14n
+    verified: false
+    hashtags: "#tbt, #dominicanosenitalia, #dominicanbachata, #dominicanosennewyork"
   - username: "cristian.valls"
     fullname: >-
       Cristian Valls
     bio: >-
-      Viajero naturalista y desarrollador web especializado en ayudar a empresas relacionadas con la naturaleza 🌱 📍 Barcelona
+      Viajero naturalista y desarrollador web especializado en proyectos y empresas relacionadas con la naturaleza 🌱 📍 Barcelona
     location: "Spain"
-    followers: 9440
-    engagement: 629
-    commentsToLikes: 0.030192
+    followers: 9281
+    engagement: 681
+    commentsToLikes: 0.028736
     id: ckapcpuon4pzs0i78yaq6270m
     verified: false
-    hashtags: "#animales, #macro, #fotografianaturaleza, #turismecatalunya"
-  - username: "khryys"
-    fullname: >-
-      Cristian Giraldo
-    bio: >-
-      🕺Choreographer | Dancer | teacher 📍 Barcelona | Madrid 📩 csn_8@hotmail.com
-    location: "Spain"
-    followers: 3892
-    engagement: 1489
-    commentsToLikes: 0.105568
-    id: ck5znagzco31k0i14oiu9q48n
-    verified: false
-    hashtags: "#bestdancevideo, #tvemosartista, #majordancers, #reggaetondance"
+    hashtags: "#imatgescat, #total, #wildphotography, #animal"
   - username: "cerverixx"
     fullname: >-
       CRISTIAN CERVERA
@@ -114,17 +90,41 @@ profiles:
     commentsToLikes: 0.071998
     id: ck5hdj5sjnpbw0i11lyiyiqqi
     verified: false
-    hashtags: "#scootering, #fillencrew, #scootscootbangbang, #ride4fun"
-  - username: "akka.flacco"
+    hashtags: "#fillencrew, #scootscootbangbang, #scootering, #ride4fun"
+  - username: "kasasink"
     fullname: >-
-      Cristian Delgado
+      CRISTIAN CASAS
     bio: >-
-      @homeboy.official @zooyork_europe @etniesskateboarding @diy.dist 💫🌿
+      ▪️Gotamar Tenerife 🇪🇸 ▪️Xskullz Wettingen 🇨🇭 @cheyenne_tattooequipment @Staycoldapparel @aftercareh2ocean @StencilStuff @Tattoodo Ambassador
     location: "Spain"
-    followers: 8570
-    engagement: 764
-    commentsToLikes: 0.047549
-    id: ck5hsoadfwx9i0i119ete5hy8
+    followers: 209532
+    engagement: 539
+    commentsToLikes: 0.022809
+    id: ck0u7ovbp5aw20i19qu4c7tz6
     verified: false
-    hashtags: "#skateboardingisfun, #homeboy, #skatelife, #skateboarding"
+    hashtags: "#tattooenergy, #tattoo, #neotrad, #tattooideas"
+  - username: "lapastanoengorda"
+    fullname: >-
+      👓 Cristian Alonso
+    bio: >-
+      🦕 Tu vegano de confianza 🙃 Dicen que hago gracia 👏🏻 Recetas para torpes y vagas 🕶 Tips para ecomamarrachas 📩Colabs: holi@lapastanoengorda.es
+    location: "Spain"
+    followers: 37363
+    engagement: 362
+    commentsToLikes: 0.054491
+    id: ck13a84n2p3gg0i19akpz9sur
+    verified: false
+    hashtags: "#foodporn, #vegantattoo, #veganprotein, #bolo"
+  - username: "xnazax"
+    fullname: >-
+      xnazax
+    bio: >-
+      ✖️BARCELONA✖️ Tattooing since 1994 Info@xnazax.com
+    location: "Spain"
+    followers: 148749
+    engagement: 126
+    commentsToLikes: 0.011595
+    id: ck5cggdm6osgd0i11nvwuj3ay
+    verified: false
+    hashtags: ""
 ---

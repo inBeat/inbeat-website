@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Vancouver In 2022
+title: Top 10 Vegan Instagram Influencers In Vancouver In 2023
 description: >-
-  Find top vegan Instagram influencers in Vancouver in 2022. Most popular hashtags: #vancouver #vegan #plantbased.
+  Find top vegan Instagram influencers in Vancouver in 2023. Most popular hashtags: #vegan #vancouver #vancouverfoodie #yvreats.
 platform: Instagram
-hits: 28
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 28 Instagram influencers like this in Vancouver, Canada for you to work with.
+hits: 22
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 22 Instagram influencers like this in Vancouver, Canada for you to pitch.
 profiles:
-  - username: "cheaplazyvegan"
+  - username: "vancity.hungrycouple"
     fullname: >-
-      Cheap Lazy Vegan
+      Alex & Jen | Foodie Couple
     bio: >-
-      🎥 YouTube: cheaplazyvegan 🍴 Cafe @savegyyc 🎤 Podcast @thesavegpodcast 😊 Just me @therosatron 🔻 MY EBOOKS! 🔻
+      Vancity’s Foodie Couple 👫 Just your typical hungry couple eating our way through life #nomswithAJ 📍 YVR 🇨🇦, ✈️ CDG 🇫🇷 📬 DM/email for collaborations
     location: "Canada"
-    followers: 161479
-    engagement: 151
-    commentsToLikes: 0.011974
-    id: ck136n1357aob0i199kseyulp
+    followers: 9436
+    engagement: 292
+    commentsToLikes: 0.176243
+    id: ckap9ooirt0q80i78ptyym0fz
     verified: false
-    hashtags: "#foodie, #healthy, #bestofvegan, #feedfeed"
-  - username: "chase.teron"
+    hashtags: "#yvrfoodie, #dessert, #yvreats, #explorevancouver"
+  - username: "dari_eats"
     fullname: >-
-      Chase Teron
+      Darius • Vancouver Foodie
     bio: >-
-      @articaphototours + @ultimatephotocourse Photographer & Instructor Vancouver Island Vegan 🌱 • ↓ Brand New Online Wildlife PHOTO COURSE 🙌🏼
+      ୧⍤⃝🍣 Eating for content across YVR ୧⍤⃝🍜 DM/email: dari.eats@gmail.com
     location: "Canada"
-    followers: 10321
-    engagement: 614
-    commentsToLikes: 0.041139
-    id: ck6uf379culxh0j71pbvaltll
+    followers: 9055
+    engagement: 387
+    commentsToLikes: 0.291190
+    id: ck6tm0thd6zkb0j71lhlg1p3f
     verified: false
-    hashtags: "#natgeowild, #wildlifephotography, #earthcapture, #wildlife"
-  - username: "eatingwithkirby"
+    hashtags: "#vancouverkoreanfood, #foodintheair, #yvrfoodie, #604eats"
+  - username: "purelycristina"
     fullname: >-
-      K I R B Y | Food & Travel
+      Cristina🦋Purely Plant Powered
     bio: >-
-      🍉 there's going to be food? ok I'll come 🙋‍♀️ 🖊️ eatingwithkirby@gmail.com 🌿 looking for vegan inspo 📍#vancouver #vancouverfoodie #blogger #travel
+      wellness, health, lifestyle 22 | Vancouver 💌 cristina.delmaestro@gmail.com 🧬BSc Molecular Biology & Biochemistry Student
     location: "Canada"
-    followers: 27704
-    engagement: 383
-    commentsToLikes: 0.577240
-    id: ck5qcebafq4x80i11mg3l30nd
+    followers: 7242
+    engagement: 1751
+    commentsToLikes: 0.165954
+    id: ck6trzfcy1yrf0j71r5m0osjh
     verified: false
-    hashtags: "#standwithowners, #supportlocalbusiness, #supportlocal, #knorrchickenpowder"
+    hashtags: "#proteinsmoothie, #healthysmoothies, #wellnessaesthetic, #greensmoothierecipe"
+  - username: "naomikingofficial"
+    fullname: >-
+      Naomi King
+    bio: >-
+      Musician, actor, author, digital & tattoo artist, nonbinary, asexual, animal-loving vegan. 💖 Vancouver, Canada 🍁 🇵🇭🇨🇦🇳🇱🇯🇵🇦🇺🇮🇳🇸🇬 @naomikingtattoos
+    location: "Canada"
+    followers: 12495
+    engagement: 526
+    commentsToLikes: 0.031121
+    id: ck5heggxyss1y0i115qyylh0v
+    verified: false
+    hashtags: ""
   - username: "samanthashakiraclarke"
     fullname: >-
       Samantha Clarke
     bio: >-
-      🎭Actress @officialcue 🌱Vegan for the🐥and🌍 🧘🏼‍♀️/ 🥊Teacher 🌈She/her 👊🏿Ally. 💝Here to help 💌Bookings below:
+      🎭Actress @officialcue 🌱Vegan for the🐥and🌍 🧘🏼‍♀️/ 🥊Teacher 🌈She/her 👊🏿Ally. 💝Here to serve.
     location: "Canada"
-    followers: 76843
-    engagement: 215
-    commentsToLikes: 0.032829
+    followers: 77943
+    engagement: 163
+    commentsToLikes: 0.053771
     id: ck15rr0s299i70i19ochgo0fz
     verified: false
-    hashtags: "#audition, #unity, #govegan, #mobility"
-  - username: "willow_faith"
+    hashtags: "#plantbased, #govegan, #foodforthought, #vancouveractress"
+  - username: "chase.teron"
     fullname: >-
-      Willow Faith
+      Chase Teron
     bio: >-
-      Nova Scotia➡️Vancouver 🏳️‍🌈 #lgbtq Email For Business Inquiries Only📷 willowfaithmacdonald@gmail.com Win a Care Crate from Dove!⬇️
+      @articaphototours + @ultimatephotocourse Photographer & Instructor Vancouver Island Vegan Sign Up 10 Day Print Selling Challenge March 3-13↓
     location: "Canada"
-    followers: 25251
-    engagement: 591
-    commentsToLikes: 0.047907
-    id: ck14j1b8ri4qm0i19esnfl3b3
+    followers: 10645
+    engagement: 522
+    commentsToLikes: 0.029521
+    id: ck6uf379culxh0j71pbvaltll
     verified: false
-    hashtags: "#ad, #sponsored, #lgbtq, #catmom"
-  - username: "jenninaturally"
+    hashtags: "#natgeotravel, #visitsvalbard, #groenland, #greenland"
+  - username: "cococakeland"
     fullname: >-
-      Jenni
+      Lyndsay
     bio: >-
-      wildlife photographer and conservationist 🌿vancouver island 🐷vegan for the animals and our planet
+      🎂Baker, 👵blogger + author of #cococakelandbook! 🌈💕✨ 📍Vancouver, Canada
     location: "Canada"
-    followers: 19529
-    engagement: 249
-    commentsToLikes: 0.035739
-    id: ck5pxy5ujtfiu0i11dr3f9fwe
+    followers: 98222
+    engagement: 151
+    commentsToLikes: 0.038231
+    id: ck5zvxmin53p10i146b3gyu1h
     verified: false
-    hashtags: ""
+    hashtags: "#vegancake, #plantbasedcake, #cococakelandbook, #plantbased"
   - username: "hc.drew"
     fullname: >-
       Heather Drew
     bio: >-
-      Unity Tattoo | Vancouver, BC 🥑Vegan Tattoos🥑 Cute cats + creepy ladies
+      Unity Tattoo | Vancouver, BC 🥑Vegan Tattoos🥑 No DMs Please Books Closed
     location: "Canada"
-    followers: 6283
-    engagement: 631
-    commentsToLikes: 0.018442
+    followers: 7356
+    engagement: 242
+    commentsToLikes: 0.019913
     id: ck9haue4fe6gt0j78oojfee0b
     verified: false
-    hashtags: "#neotraditional, #animalportrait, #realismtattoo, #portraittattoo"
+    hashtags: "#vancouver, #vancouvertattooartist, #cattoo, #blackandgreytattoo"
   - username: "anna.pelzer"
     fullname: >-
       Anna Pelzer
     bio: >-
       Vegan food photographer in North Vancouver, BC. Selected as #One2Watch by @CanonCanada. Foodie stop motion videos and lots of avocado!
     location: "Canada"
-    followers: 47458
-    engagement: 546
-    commentsToLikes: 0.110543
+    followers: 44331
+    engagement: 251
+    commentsToLikes: 0.133768
     id: ck0vyfh7h3pxd0i19f9anakj4
     verified: false
-    hashtags: "#tahini, #avocado, #veganprotein, #veganbowls"
-  - username: "camillejannine"
+    hashtags: "#eattherainbow, #eatyourcolors, #whatveganseat, #vegansofcanada"
+  - username: "squeezemytofu"
     fullname: >-
-      Camille Jannine
+      Squeezemytofu
     bio: >-
-      Tiktok - camillejannine ✊🏽🏳️‍🌈 Ⓥ🌱 YouTube👇🏼📺
+      🥗Vegan cooking & dining 📍Amsterdam, Netherlands 🇰🇷Seoul 🇨🇦Vancouver 🇺🇸NYC 📚Economist 📩squeezemytofu@gmail.com
     location: "Canada"
-    followers: 10541
-    engagement: 654
-    commentsToLikes: 0.115271
-    id: ck139m3dklz8q0i19qop7kdh9
+    followers: 20523
+    engagement: 373
+    commentsToLikes: 0.033080
+    id: ck55m4g6a37640i11wyppy3hq
     verified: false
-    hashtags: "#whatveganslooklike, #strongnotskinny, #mixedgirl, #raybans"
-  - username: "jakeoffgrid"
-    fullname: >-
-      Jake Mace
-    bio: >-
-      Off Grid in Wilderness YouTube Search: 1. Jake Mace 2. Jake & Nicole 3. Jake Kung Fu 4. Jake Tai Chi 5. Jake Mace Garden 🥋☯️🏕🌱 ⬇️CLICK HERE ⬇️
-    location: "Canada"
-    followers: 83245
-    engagement: 178
-    commentsToLikes: 0.023943
-    id: ckaozmrj5mjkl0i78sg3y7kle
-    verified: false
-    hashtags: "#offgrid, #offthegrid, #jakenicole, #quarantine"
+    hashtags: "#instafood, #veganfoodshared, #veganfoodshare, #plantbased"
 ---

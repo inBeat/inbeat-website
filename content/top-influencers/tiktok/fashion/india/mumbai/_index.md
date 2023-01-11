@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Mumbai In 2022
+title: Top 10 Fashion TikTok Influencers In Mumbai In 2023
 description: >-
-  Find top fashion TikTok influencers in Mumbai in 2022. Most popular hashtags: #foryou #tiktok #tiktokindia #fashion.
+  Find top fashion TikTok influencers in Mumbai in 2023. Most popular hashtags: #foryou #tiktok #fyp #tiktokindia.
 platform: TikTok
-hits: 18
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 18 TikTok influencers like this in Mumbai, India for you to collaborate.
+hits: 17
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 17 TikTok influencers like this in Mumbai, India for you to connect with.
 profiles:
   - username: "mdmahboobalam0786"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       1st Look & Arrow Fashion (Mumbai)
     location: "India"
-    followers: 7471
-    engagement: 1262
-    commentsToLikes: 0.018087
+    followers: 7467
+    engagement: 1246
+    commentsToLikes: 0.019293
     id: ckc924fnesi8x0j232n3orre1
     verified: false
-    hashtags: "#swagstepchallenge, #trending, #gharbaithoindia, #doubleexposure"
+    hashtags: "#navratnacoolchampi, #trending, #go, #foryourpage"
+  - username: "rev.ria"
+    fullname: >-
+      Riya Gupta
+    bio: >-
+      To know more about me follow me on Ig: _rev.ria_ 😌 Cause I’m freezed here ⚠️
+    location: "India"
+    followers: 1300000
+    engagement: 906
+    commentsToLikes: 0.009529
+    id: ck8owr634z4nf0j78p9059yv9
+    verified: false
+    hashtags: "#tiktokindia, #fyp, #revfam, #foryou"
   - username: "duemoda_"
     fullname: >-
       Anushka Dubey✨
@@ -26,35 +38,23 @@ profiles:
       Mumbai 🇮🇳 HR || Fashion || Fitness
     location: "India"
     followers: 15000
-    engagement: 794
-    commentsToLikes: 0.057740
+    engagement: 812
+    commentsToLikes: 0.055896
     id: ck8sffejlny4q0j78cpuk88es
     verified: false
-    hashtags: "#honeybee, #bollywoodmix, #followme, #follow"
+    hashtags: "#followme, #mothersday, #foryou, #honeybee"
   - username: "filmy_kudi_shankita"
     fullname: >-
       ANKITA RICHHARIYA
     bio: >-
       TiktokDancer🇮🇳 Fashion lover👠 Mumbai😍 INSTAGRAM : messy__missy__
     location: "India"
-    followers: 43800
-    engagement: 680
-    commentsToLikes: 0.019657
+    followers: 43700
+    engagement: 670
+    commentsToLikes: 0.018702
     id: ckbkgfsv77y8f0j23rl169knw
     verified: false
-    hashtags: "#pandabae, #lekewonderlandjaunga, #shankita, #lethaljatti"
-  - username: "gulshangrover"
-    fullname: >-
-      Gulshan Grover
-    bio: >-
-      
-    location: "India"
-    followers: 483300
-    engagement: 895
-    commentsToLikes: 0.007875
-    id: ckae7izb4hcy40i784psknsit
-    verified: true
-    hashtags: "#stargazing, #bollywood, #hindidialogue, #gharbaithoindia"
+    hashtags: "#shankita, #gendaphool, #lethaljatti, #pandabae"
   - username: "aavinashpayal"
     fullname: >-
       Aavinash Payal
@@ -62,69 +62,69 @@ profiles:
       Dance & Fashion Choreographer DM - Instagram/Facebook/Youtube Bollywood, Mumbai
     location: "India"
     followers: 154700
-    engagement: 329
-    commentsToLikes: 0.015268
+    engagement: 349
+    commentsToLikes: 0.017962
     id: ck9dsscg99d6e0j78wsyr0bwh
     verified: false
-    hashtags: "#art, #model, #dance, #lovemyjob"
-  - username: "rev.ria"
-    fullname: >-
-      Riya Gupta
-    bio: >-
-      To know more about me follow me on Ig: _rev.ria_ 😌 Cause I’m freezed here ⚠️
-    location: "India"
-    followers: 1400000
-    engagement: 915
-    commentsToLikes: 0.009668
-    id: ck8owr634z4nf0j78p9059yv9
-    verified: false
-    hashtags: "#revfam, #foryou, #tiktokindia, #foryoupage"
+    hashtags: "#art, #show, #choreographer, #dancer"
   - username: "simrankaursuri"
     fullname: >-
       simrankaursuri
     bio: >-
       Actor Mumbai, India
     location: "India"
-    followers: 36500
-    engagement: 1107
-    commentsToLikes: 0.143729
+    followers: 36600
+    engagement: 1102
+    commentsToLikes: 0.140608
     id: ckbb9ywfrz2kh0j23wk5ll0zh
     verified: false
-    hashtags: "#monsoonvibes, #tidelagaodaaghatao, #fyp, #lines"
+    hashtags: "#tiktok, #love, #perfectsmile, #flashback"
   - username: "samchurchil_musicbaba"
     fullname: >-
       Sam Churchil
     bio: >-
       Fashion Director Model Trainer Singer Melody king ❤ Modeling agency
     location: "India"
-    followers: 2100
-    engagement: 1393
+    followers: 2099
+    engagement: 1389
     commentsToLikes: 0.044977
     id: ckbw8syukzcbi0j23yettp3ec
     verified: false
-    hashtags: "#tiktokindia, #musicbaba, #show, #edutok"
+    hashtags: "#rampwalk, #tiktokindia, #friends, #foryou"
   - username: "soni_fashion_rajkot"
     fullname: >-
       SONI FASHION RAJKOT 
     bio: >-
       “SONI FASHION “ ANAND BUNGALOW CHOWK, MAVDI MAIN ROAD, RAJKOT - 360004 GUJARAT
     location: "India"
-    followers: 29600
-    engagement: 681
-    commentsToLikes: 0.030158
+    followers: 29500
+    engagement: 679
+    commentsToLikes: 0.030064
     id: ckcel658iuvvh0j23r6mrappz
     verified: false
-    hashtags: "#picsart, #rajkot, #fyp, #gemstone"
+    hashtags: "#trending, #sonifashion, #soni, #picsart"
   - username: "alpeshdevani0"
     fullname: >-
       Alpesh Devani
     bio: >-
       👉🏻 Fashion Influencer 🥼👟 👉🏻 Actor/Model/ Fashion Designers 👩‍🎨 💰🇮🇳🐕
     location: "India"
-    followers: 66300
-    engagement: 662
-    commentsToLikes: 0.012555
+    followers: 66400
+    engagement: 653
+    commentsToLikes: 0.012079
     id: cka0hbfzv8i4c0i78aiwumakl
     verified: false
-    hashtags: "#sanjaydatt, #foryou, #don, #garba"
+    hashtags: "#haintaiyaarhum, #garbalover, #mumbai, #acting"
+  - username: "machao_ali_20"
+    fullname: >-
+      Machao_Ali_20
+    bio: >-
+      Hey Fam🤩 How are you all?😉❤️ Mumbaikar❤️ Model🤩 /50k?
+    location: "India"
+    followers: 6772
+    engagement: 593
+    commentsToLikes: 0.036726
+    id: ckavi79x5qajm0j234eosk358
+    verified: false
+    hashtags: "#machao, #slowmo, #fyp, #haintaiyaarhum"
 ---

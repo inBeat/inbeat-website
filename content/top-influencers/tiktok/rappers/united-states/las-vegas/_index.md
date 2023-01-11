@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Las Vegas In 2022
+title: Top 10 Rappers TikTok Influencers In Las Vegas In 2023
 description: >-
-  Find top rappers TikTok influencers in Las Vegas in 2022. Most popular hashtags: #foryou #fyp #foryoupage #viral.
+  Find top rappers TikTok influencers in Las Vegas in 2023. Most popular hashtags: #foryou #lasvegas #fyp #duet.
 platform: TikTok
-hits: 5
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 5 TikTok influencers like this in Las Vegas, United States for you to collaborate.
+hits: 6
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 6 TikTok influencers like this in Las Vegas, United States for you to connect with.
 profiles:
-  - username: "raiderlifecg2"
+  - username: "biglewwis"
     fullname: >-
-      Cole
+      BIG LEWIS
     bio: >-
-      I like basketball🏀 Go Lakers🏀🏀 Insta- raiderlifecg2 Snap- Coleglenn824
+      Big LEWIS is a Famous Rapper in Chicago with a star on the Magnificent Mile
     location: "United States"
-    followers: 2470
-    engagement: 1093
-    commentsToLikes: 0.102948
-    id: ckcja967y89xe0j23lk8f8bhm
+    followers: 5149
+    engagement: 754
+    commentsToLikes: 0.130834
+    id: ckbetaa3ic7750j234j6e8qmm
     verified: false
-    hashtags: "#fyp, #lakers, #nba, #foryou"
+    hashtags: "#biglewwis, #blm, #gdaman, #tamirrice"
+  - username: "kashbagztv"
+    fullname: >-
+      Kash Bagz
+    bio: >-
+      Owner of Full Feather Fly Clothing/Rapper/ Brand Ambassador
+    location: "United States"
+    followers: 1989
+    engagement: 641
+    commentsToLikes: 0.111922
+    id: ck9nbnj2qb77t0j78evmjdzuq
+    verified: false
+    hashtags: "#livelifted, #forus, #forme, #businesscheck"
   - username: "yeaweg"
     fullname: >-
       Weg
     bio: >-
       I’m gonna become a famous rapper soon ✨🔥🌍
     location: "United States"
-    followers: 4764
-    engagement: 628
-    commentsToLikes: 0.040353
+    followers: 4711
+    engagement: 566
+    commentsToLikes: 0.036340
     id: ck9rm707s1jye0j782ppg7dli
     verified: false
-    hashtags: "#quarantine, #foryoupage, #fyp, #foryou"
-  - username: "quelcardenas"
+    hashtags: "#boxing, #music, #family, #foryou"
+  - username: "officialks11"
     fullname: >-
-      💙
+      Therapist〽️
     bio: >-
-      Chicana Raider Nation No One Is Illegal On Stolen Land Black Lives Matter 19
+      
     location: "United States"
-    followers: 9296
-    engagement: 1950
-    commentsToLikes: 0.129001
-    id: ckbfiazvke0vz0j23wqle3kby
+    followers: 266600
+    engagement: 1575
+    commentsToLikes: 0.149923
+    id: ckb9v5ju6u4w10j23g77t0vim
     verified: false
-    hashtags: "#raidernation, #nfl, #oldies, #oldiesbutgoodies"
+    hashtags: "#6ix9ine, #rapperstoknow, #chicago, #texas"
   - username: "nikahola"
     fullname: >-
       Niklas Ahola
     bio: >-
       Real Estate 🏡 Naples, FL 🌴 @hellonaples
     location: "United States"
-    followers: 2782
-    engagement: 647
-    commentsToLikes: 0.079172
+    followers: 2844
+    engagement: 806
+    commentsToLikes: 0.045843
     id: ck8tst70vrjgq0j78rrd9f67g
     verified: false
-    hashtags: "#fyp, #modernwarfare, #ultramusic, #florida"
+    hashtags: "#miami, #rave, #ultramusic, #edm"
   - username: "doingcomedy"
     fullname: >-
       Al Shuman
     bio: >-
       an Indie Comedy Content Powerhouse deep in the Underground
     location: "United States"
-    followers: 11500
-    engagement: 484
-    commentsToLikes: 0.010513
+    followers: 11400
+    engagement: 472
+    commentsToLikes: 0.009885
     id: ckb9r8340nmrz0j234uuoxdhr
     verified: false
-    hashtags: "#roastme, #roastbattle, #funny, #standupcomedy"
+    hashtags: "#standupcomedy, #lmao, #roastme, #funny"
   - username: "youngmercfire"
     fullname: >-
       Young Merc
     bio: >-
-      -Young Merc Dope rapper and CEO of "ALL THE SMOKE!!💨" ☝🏾💥📲 #FlameOn🔥🔛
+      -Young Merc Dope rapper and CEO of "ALL THE SMOKE!!💨" ☝🏾💢📲 #FlameOn🔥🔛
     location: "United States"
-    followers: 81700
-    engagement: 2426
-    commentsToLikes: 0.068886
+    followers: 121500
+    engagement: 2455
+    commentsToLikes: 0.087492
     id: ckck2za28mmus0j23bntbbczd
     verified: false
-    hashtags: "#iwantallthesmoke, #goofyoftheday, #proudboys, #ceoofallthesmoke"
-  - username: "realkennethking"
+    hashtags: "#stitch"
+  - username: "imkingkenny"
     fullname: >-
-      Kenneth King (kenetic)
+      Kenny King
     bio: >-
-      Yeshua follower/Minister Rapper & Producer Drummer Stream Music & Buy Merch ⬇️
+      #Michigan Rapper Producer Drummer Gamer Music & Merch ⬇️
     location: "United States"
-    followers: 29200
-    engagement: 2160
-    commentsToLikes: 0.066753
+    followers: 28800
+    engagement: 1871
+    commentsToLikes: 0.092450
     id: ck9nt8kwhh7kx0j78o8327pv0
     verified: false
-    hashtags: "#kennethking, #christiantiktok, #chrisriantiktok, #worshiprapremix"
-  - username: "tylerwatermelon"
+    hashtags: "#kennethking, #worship, #drummer, #spidermanmilesmoralesps4"
+  - username: "sarahmaddack"
     fullname: >-
-      Shadowbanned cuh
+      SarahMaddack
     bio: >-
-      Comethazine best rapper 📍Illinois 15yr
+      the silliest rapper you know biz/bday raps⬇️ sarah@sarahmaddack.com Nashville TN
     location: "United States"
-    followers: 44500
-    engagement: 2043
-    commentsToLikes: 0.060153
-    id: ckck42v41obba0j23advylmh9
-    verified: false
-    hashtags: "#greenscreen, #lilhuddyfan, #duet"
-  - username: "_kyngvirgo_"
+    followers: 1100000
+    engagement: 1483
+    commentsToLikes: 0.032166
+    id: ck9kb9w0okaxm0j78rigij2f1
+    verified: true
+    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
+  - username: "kiwifro0ot"
     fullname: >-
-      Kyng Virgo
+      keke
     bio: >-
-      18 Rapper 5k? CashApp: 209Virgo ♍️SoundCloud: “Kyng Virgo”♍️
+      BLM RAPPER any prns cashapp: $kiwifro0ot
     location: "United States"
-    followers: 4055
-    engagement: 2121
-    commentsToLikes: 0.069716
-    id: ckbqwclk4gktm0j234ya0ybx1
+    followers: 52100
+    engagement: 2308
+    commentsToLikes: 0.038926
+    id: ckav9n5cth2bq0j23l6utavce
     verified: false
-    hashtags: "#duet, #xxxtentacion, #stitch, #greenscreenvideo"
-  - username: "jlaw"
-    fullname: >-
-      JLaw Austin ✪
-    bio: >-
-      This page is home to many personalities Christian Rapper ✝️ Power Ranger Fan
-    location: "United States"
-    followers: 417600
-    engagement: 2599
-    commentsToLikes: 0.078306
-    id: ck8qmxss9s4qd0j78x4xb2e2k
-    verified: false
-    hashtags: "#christianrap, #jesus, #christian, #fyp"
+    hashtags: "#multistan, #rap, #greenscreen, #upcomingartist"
 ---

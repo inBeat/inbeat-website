@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Rome In 2022
+title: Top 10 Nutrition Instagram Influencers In Rome In 2023
 description: >-
-  Find top nutrition Instagram influencers in Rome in 2022. Most popular hashtags: #italy #italia #nutrition #love.
+  Find top nutrition Instagram influencers in Rome in 2023. Most popular hashtags: #fitness #bikini #model #nature.
 platform: Instagram
-hits: 9
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 7
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 7 Instagram influencers like this in Rome, Italy for you to contact.
 profiles:
-  - username: "giadagreggi"
-    fullname: >-
-      Giada Greggi
-    bio: >-
-      Football player of 🟥🟧🟨 @officialasroma 🇮🇹 @azzurrefigc 📍 Rome, Italy
-    location: "Italy"
-    followers: 11943
-    engagement: 1128
-    commentsToLikes: 0.042548
-    id: ck13bylsjxryk0i19li4tsxsq
-    verified: false
-    hashtags: "#asr, #prozis, #gg20, #dajeroma"
-  - username: "lailary__"
-    fullname: >-
-      𝐼𝑙𝑎𝑟𝑦 𝑆𝑎𝑛𝑡𝑒𝑙𝑙𝑖
-    bio: >-
-      Iᥣᥲrιᥲ10 @_bombafit_ Iᥣᥲ20 @fc.nutrition Iᥣᥲ10 @lo_gnocco ~ @hkit.it Modᥱᥣ @ifbb_pro_league & @missitalialazio Tᥱᥲm @giusepperomano83 ⬇️LιᥒkIᥒBιo⬇️
-    location: "Italy"
-    followers: 7938
-    engagement: 753
-    commentsToLikes: 0.092311
-    id: ck5c0s71dtr490i11ku0zhjsc
-    verified: false
-    hashtags: "#love, #happiness, #bikini, #italy"
-  - username: "ingfrancescocirillo"
-    fullname: >-
-      Ing.Francesco Cirillo
-    bio: >-
-      ▪️Ingegnere ▪️Fondatore e proprietario @fc.nutrition ▪️Proprietario di @tritoburgerecucina
-    location: "Italy"
-    followers: 17392
-    engagement: 431
-    commentsToLikes: 0.059092
-    id: ck137c0ymashi0i199o1gl2j2
-    verified: false
-    hashtags: "#instafit, #boys, #food, #travel"
   - username: "cami_delai"
     fullname: >-
       Camilla Delai 🌹
     bio: >-
-      Made in Trento -living in Rome 🇮🇹 Current job : MYWAY autostrade per l’Italia
+      Made in Trento -living in Rome 🇮🇹 Current job at : MYWAY autostrade per l’Italia
     location: "Italy"
-    followers: 26688
-    engagement: 191
-    commentsToLikes: 0.029836
+    followers: 27240
+    engagement: 200
+    commentsToLikes: 0.027202
     id: ck600sf29e6ir0i14avcrvrji
     verified: false
-    hashtags: "#couture, #flower, #couturedress, #fashiondesigner"
-  - username: "xristinabourdi"
+    hashtags: "#madeinitaly, #flower, #model, #fitness"
+  - username: "cr_christianromeo"
     fullname: >-
-      𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒏𝒂 ♡ 𝑻𝒓𝒂𝒗𝒆𝒍 & 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆
+      Christian Romeo
     bio: >-
-      • 📍 Based in Greece • • 🎓 Bsc in Food Technology and Nutrition • • 🔬 Quality Control Analyst • • 📸 Photography lover • • ✎ xrist_bou@hotmail.com •
+      💪🏼Personal Trainer @powergym_castelfranco 🏅Men Physique IFBB (5°🇮🇹) 💊 Integrazione @alex_nutrition 🕺🏻 @dancingsombrero 📧 Info collaborazioni ⬇️
     location: "Italy"
-    followers: 6759
-    engagement: 990
-    commentsToLikes: 0.011457
-    id: ckap1j4zouquv0i78l0frx28w
+    followers: 39860
+    engagement: 512
+    commentsToLikes: 0.019651
+    id: ck8tbfv0jvhwy0j78mtp4le2h
     verified: false
-    hashtags: "#girlsthatwander, #budapesthungary, #greece, #greektravelblogger"
-  - username: "unastellaincucina"
+    hashtags: "#home, #saturday, #gym, #sunday"
+  - username: "emyfit7_ifbbpro"
     fullname: >-
-      Una Stella In Cucina
+      emy_fit
     bio: >-
-      🍝Stella 🇮🇹 Italian food blogger 👩‍🍳#unastellaincucina 👫Cucino per passione, ma soprattutto per amore di Federico che (fortunatamente) ha sempre fame❤️
+      🏋🏻‍♀️ IFBB PRO BIKINI 📌Personal Trainer & Online Coach 👗 @fgm04cosmetica Code: EMYFIT 💊 @Bpr_nutrition Code: “EMY10” 🌍 Sito internet :
     location: "Italy"
-    followers: 54909
-    engagement: 657
-    commentsToLikes: 0.067733
-    id: ck5cdsdafjosb0i1176cf8xnv
+    followers: 28616
+    engagement: 420
+    commentsToLikes: 0.030220
+    id: ck0u0gr3utm1v0i19zc7cbzzv
     verified: false
-    hashtags: "#ricetteitaliane, #pranzosano, #primipiatti, #fish"
-  - username: "martinalasaluteincucina"
+    hashtags: "#fitnessmotivation, #bikinifitness, #keepgoing, #dream"
+  - username: "l_a_design_photographer"
     fullname: >-
-      Nutrizionista Martina Donegani
+      ♛Luca Alfieri Photographer♛©📸
     bio: >-
-      👩🏻‍⚕️Biologa Nutrizionista 🍏Consulente di aziende e giornali 🗞 📍Studio Donegani - Sesto S. Giovanni (MI) 👇🏻Info•Ricette•Articoli👇🏻
+      🔱@l.a.design_factory owner 🔱@yamamotonutrition Art Director 🔱IMAGE CONTRACT 2021 con: GUARDA STORIE IN EVIDENZA👇🏻👇🏻👇🏻
     location: "Italy"
-    followers: 54638
-    engagement: 361
-    commentsToLikes: 0.036293
-    id: ck8t25s5ky8z40j782j78p2tp
+    followers: 21204
+    engagement: 132
+    commentsToLikes: 0.026872
+    id: ck137c1gmasir0i19l01qyrq1
     verified: false
-    hashtags: "#ad, #cibosano, #dimagriremangiando, #fitnessfoods"
-  - username: "luigi_de_blasio"
+    hashtags: "#exercise, #olympia, #supplement, #lastyle"
+  - username: "themagicmarine"
     fullname: >-
-      MensFashion | Luigi De Blasio
+      James STEEL Stott
     bio: >-
-      📸 #mensfashion #lifestyle 📹 📍26- Sicily 🇮🇹 📩 Collab: luigideblasio94@gmail.com ⬇️ scopri l’APP @tresarti ⬇️
+      ♠️BGT - 2020 🗡ROYAL MARINES COMMANDO 💪🏼 ⸰ ♤ D V E N T U R E M ♤ G I C I R O N M ♤ N @motorvikings
     location: "Italy"
-    followers: 41505
-    engagement: 362
-    commentsToLikes: 0.050862
-    id: ck6tyc3q92v7p0j71vqho4tiy
+    followers: 14043
+    engagement: 464
+    commentsToLikes: 0.060033
+    id: ck5c3u6k702ex0i118lkaqp39
     verified: false
-    hashtags: "#instafashion, #tailored, #tresarti, #fashionformen"
-  - username: "simo_veggie_fit"
+    hashtags: "#britishforces, #greenberet, #closeupmagic, #motorvikings"
+  - username: "eleonora__pieroni"
     fullname: >-
-      𝓢𝓲𝓶𝓸𝓷𝓮 𝓣𝓪𝓿𝓪𝓻𝓪𝓷𝓲
+      Eleonora Pieroni
     bio: >-
-      𝘝𝘦𝘨𝘦𝘵𝘢𝘳𝘪𝘢𝘯 𝘭𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 𝘛𝘦𝘴𝘵𝘪𝘮𝘰𝘯𝘪𝘢𝘭 @vitamincompany 𝘤𝘰𝘥. ”𝘚𝘐𝘔𝘖𝘕𝘌10” 𝘗𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘛𝘳𝘢𝘪𝘯𝘦𝘳 & 𝘰𝘯𝘭𝘪𝘯𝘦 𝘤𝘰𝘢𝘤𝘩 𝘍𝘰𝘶𝘯𝘥𝘦𝘳 @fit_square_
+      Model |Actress|Presenter🧿 Italian personality & Brands Ambassador in United States🇺🇸 🇮🇹 🌏EleonoraPieroni LIVE NEW YORK!
     location: "Italy"
-    followers: 7648
-    engagement: 403
-    commentsToLikes: 0.029141
-    id: ck13a0nhuo1940i190960azr4
+    followers: 46803
+    engagement: 61
+    commentsToLikes: 0.173577
+    id: ck5qcoehwrkli0i11cn5x2t2v
+    verified: true
+    hashtags: "#foligno, #instyle, #makeup, #vivereanewyork"
+  - username: "rowen024"
+    fullname: >-
+      Rowen Muscat
+    bio: >-
+      Footballer
+    location: "Italy"
+    followers: 16337
+    engagement: 302
+    commentsToLikes: 0.006087
+    id: ck5zpdgv6sh7s0i147thgepsm
     verified: false
-    hashtags: "#cucina, #plantbased, #sweet, #healthylifestyle"
+    hashtags: "#energy, #league, #hudson, #valletta"
   - username: "ema.bruni"
     fullname: >-
-      Emanuele Bruni
+      Emanuele Bruni THE KING
     bio: >-
-      Bachelor's degree in Biology, Master's degree in Biology, PhD in Biology Master in Human Nutrition 🚴‍♂️Cycling lover Strava: Emanuele Bruni 👫
+      Bachelor's degree in Biology, Master's degree in Biology, PhD in Biology Master in Human Nutrition 🚴‍♂️Cycling lover 👫
     location: "Italy"
-    followers: 14070
-    engagement: 634
-    commentsToLikes: 0.194281
+    followers: 14669
+    engagement: 637
+    commentsToLikes: 0.188640
     id: ck6tzfjmm9e8q0j71b99ftwpp
     verified: false
-    hashtags: "#oxyburn, #giantbikeita, #apeman, #actioncam"
+    hashtags: "#giantbikes, #instaselfie, #ridewithaview, #cyclingwear"
+  - username: "p.annab"
+    fullname: >-
+      Annabella Prisco 💎
+    bio: >-
+      💪🏼 Director @clubefitness.carladerogatis 🎵 Creator @tiktok : unliketwins 163K 🍔 Student in Nutrition 🔬 Doctor in Biology 🇮🇹 Avellino, 26yo
+    location: "Italy"
+    followers: 80062
+    engagement: 245
+    commentsToLikes: 0.052391
+    id: ckap24rwqxdaj0i78p747ju5v
+    verified: false
+    hashtags: "#moodquarantine, #25novembre, #noallaviolenzasulledonne"
+  - username: "karina.fetica"
+    fullname: >-
+      Karina Fetica
+    bio: >-
+      Final 10 in Survivor Romania Crazy, fit Lady, kickin ass. Literally 🥊 ❗marketing@globalrecords.com Genius Nutrition discount:KF12
+    location: "Italy"
+    followers: 85780
+    engagement: 574
+    commentsToLikes: 0.018805
+    id: ckap89su5ng6y0i78x4cs7xqa
+    verified: false
+    hashtags: "#summer, #colors, #bekind, #travel"
 ---

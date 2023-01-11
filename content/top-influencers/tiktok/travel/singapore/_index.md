@@ -1,84 +1,72 @@
 ---
-title: Top 10 Travel TikTok Influencers In Singapore In 2022
+title: Top 10 Travel TikTok Influencers In Singapore In 2023
 description: >-
-  Find top travel TikTok influencers in Singapore in 2022. Most popular hashtags: #travel #foryoupage #fyp #foryou.
+  Find top travel TikTok influencers in Singapore in 2023. Most popular hashtags: #travel #fyp #foryoupage #tiktoksg.
 platform: TikTok
-hits: 14
+hits: 12
 text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 14 TikTok influencers like this in Singapore for you to pitch.
+text_bottom: inBeat aggregates 12 TikTok influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "douglasokj"
-    fullname: >-
-      Douglas Ong
-    bio: >-
-      singaporean 🇸🇬 food / travel / comedy follow me on IG for a cookie ⬆️
-    location: "Singapore"
-    followers: 46500
-    engagement: 690
-    commentsToLikes: 0.088738
-    id: ckck2dlaklrt50j231l9bs6a7
-    verified: false
-    hashtags: "#uniquirk, #fyp, #tiktoksg, #duet"
   - username: "venusgwc"
     fullname: >-
       Venus Gwc
     bio: >-
       Penangnite. A globetrotter, travel with me through my vlog. 🇲🇾
     location: "Singapore"
-    followers: 63000
-    engagement: 504
-    commentsToLikes: 0.019711
+    followers: 62200
+    engagement: 463
+    commentsToLikes: 0.035207
     id: ck80odtp1h4pk0j78u00n1ueq
     verified: false
-    hashtags: "#flower, #yogini, #behappy, #color"
-  - username: "vakies_films"
+    hashtags: "#painting, #familyathome, #covid, #stayhome"
+  - username: "vakiesfilm"
     fullname: >-
-      Street Food 街边小吃
+      vakies
     bio: >-
       Eat.Drink.Play.Travel. 吃喝玩乐。 https://www.facebook.com/vakies
     location: "Singapore"
-    followers: 4967
+    followers: 4922
     engagement: 368
-    commentsToLikes: 0.008547
+    commentsToLikes: 0.008092
     id: ckbqept2x0g8r0j23o4ft2wwa
     verified: false
-    hashtags: "#fyp, #streetfood, #tiktoksg, #foryoupage"
+    hashtags: "#eat, #foryou, #foryourpage, #tiktoksg"
   - username: "dearalyne"
     fullname: >-
       Dear Alyne
     bio: >-
-      Follow me on IG for a free unicorn 🦄 Sign up for our digital retreat👇🏼
+      HELLOW. My main vids are on YT/FB/IG
     location: "Singapore"
-    followers: 54800
-    engagement: 1634
-    commentsToLikes: 0.027953
+    followers: 53500
+    engagement: 1656
+    commentsToLikes: 0.035168
     id: ckb12op70qxxx0j23kq7gu0wl
     verified: false
-    hashtags: "#travel, #muslim, #climatechange, #food"
+    hashtags: "#climatechange, #bhutan, #fyp, #mexico"
   - username: "smshohag01"
     fullname: >-
-      smshohag551
+      🔥🆂🅷🅾︎🅷🅰︎🅶🔥
     bio: >-
       “Welcome to my tiktok account. (Actor/singer/dancer) #tiktok_Singapore
     location: "Singapore"
-    followers: 6245
-    engagement: 3880
-    commentsToLikes: 0.038016
+    followers: 6614
+    engagement: 3789
+    commentsToLikes: 0.038654
     id: ckcvh33srtpen0j2393dvm8qd
     verified: false
-    hashtags: "#tiktoker, #tiktoksingapore, #travel, #trending"
+    hashtags: "#tiktoker, #capcut, #onceuponatime, #viral"
   - username: "ytsherine1010"
     fullname: >-
       🇸🇬🇲🇾虎牙妹子💄【230k】
     bio: >-
       📍🇸🇬YT🇲🇾IG↗️ 实力宠粉♥️有空会更新🌈 👘玩妆旅程开始💄喜欢百变🎭 #文家军#Redtyphoon联盟#Uniquirk
     location: "Singapore"
-    followers: 230500
-    engagement: 1112
-    commentsToLikes: 0.058642
+    followers: 227700
+    engagement: 777
+    commentsToLikes: 0.055836
     id: ck9r3ndu8qwhb0j783f7nmg3h
     verified: false
-    hashtags: "#spidermakeuplook, #exploresingapore, #ravenclawmakeup, #spidermakeup"
+    hashtags: "#exploresingapore, #singaporetourism, #fujifilmxt3, #travelsingapore"
   - username: "davidgodu"
     fullname: >-
       Godwin David
@@ -86,45 +74,57 @@ profiles:
       💫
     location: "Singapore"
     followers: 4617
-    engagement: 729
-    commentsToLikes: 0.018483
+    engagement: 718
+    commentsToLikes: 0.017417
     id: ckbw29bixwlrp0j23b02k0okt
     verified: false
-    hashtags: "#kvm, #gg99, #nellikka, #malayalam"
+    hashtags: "#malayalam, #mallu, #featureme, #parippuvada"
   - username: "nasdaily"
     fullname: >-
       Nas Daily
     bio: >-
-      I make 1-minute videos. Every single day. I think you will like them.
+      I make 1-minute videos. Every day. I hope you like them. They mean a lot to me.
     location: "Singapore"
-    followers: 47124
-    engagement: 692
-    commentsToLikes: 0.011663
+    followers: 825500
+    engagement: 796
+    commentsToLikes: 0.024608
     id: ckav0lku36co60j23vxy4mztk
     verified: true
-    hashtags: "#nasmeanspeople, #viral, #travel, #knowledge"
-  - username: "lalawhitefox"
+    hashtags: "#1minute, #nasdaily, #travel, #culture"
+  - username: "poptartianacooks"
     fullname: >-
-      Lala🤍🦊
+      Poptartiana
     bio: >-
-      MEME PAGE (on insta)👀 소통은 인스타로해용🌟 🇳🇿Kiwi Korean🇰🇷 It’s wholesome here✌️✝️
+      Food adventures, and more ✨💃🏻 IG: Poptartianacooks 👧🏻
     location: "Singapore"
-    followers: 130600
-    engagement: 1985
-    commentsToLikes: 0.044139
-    id: ck81q09qqewzm0j78cef49el0
+    followers: 9226
+    engagement: 483
+    commentsToLikes: 0.039892
+    id: ckbkthuxtojkq0j23xs7je1oa
     verified: false
-    hashtags: "#foryoupage, #korean, #lol, #nz"
-  - username: "cassandrastephanie"
+    hashtags: "#sgfoodie, #udon, #nomnom, #foreo"
+  - username: "mooniechu"
     fullname: >-
-      Cassandra🙈
+      Moonie
     bio: >-
-      Sharing my life🌷 DM for collabs❤️
+      Professional fencer 🤺 Sports & Beauty ig: @moonieckm
     location: "Singapore"
-    followers: 3950
-    engagement: 337
-    commentsToLikes: 0.093185
-    id: ckdnu5bscmoa00j236w7wp3j3
+    followers: 23300
+    engagement: 431
+    commentsToLikes: 0.034256
+    id: ckcozbkm4ag390j23sbge85xo
     verified: false
-    hashtags: "#foryou, #fyp, #tiktoksg, #singapore"
+    hashtags: "#tiktokathlete, #athlete, #hktiktok, #explorehk"
+  - username: "wowunboxing"
+    fullname: >-
+      wowunboxing
+    bio: >-
+      
+    location: "Singapore"
+    followers: 113800
+    engagement: 1051
+    commentsToLikes: 0.004684
+    id: ckavro1c43rc40j23xrwlo4fy
+    verified: false
+    hashtags: "#foryourpage, #wow, #fyp, #innovative"
 ---

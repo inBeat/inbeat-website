@@ -1,48 +1,36 @@
 ---
-title: Top 10 Divers Instagram Influencers In Turkey In 2022
+title: Top 10 Divers Instagram Influencers In Turkey In 2023
 description: >-
-  Find top divers Instagram influencers in Turkey in 2022. Most popular hashtags: #photography #nature #istanbul.
+  Find top divers Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #fashion #love #scubadiving.
 platform: Instagram
-hits: 23
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform has 23 Instagram influencers like this in Turkey for you to connect with.
+hits: 20
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "matthew_dixon19"
-    fullname: >-
-      Matthew Dixon
-    bio: >-
-      ◾️ ◽️GBR Diver ◾️x2 Commonwealth Medalist 🥈🥈 ◽️Looking for management! ◾️Plymouth
-    location: "Turkey"
-    followers: 27752
-    engagement: 943
-    commentsToLikes: 0.009042
-    id: ck6u0es3ff9oz0j71tzcy61gg
-    verified: true
-    hashtags: "#quarantine, #blackouttuesday, #tbt"
   - username: "dr_denizdemirhan"
     fullname: >-
       Deniz Demirhan
     bio: >-
       havadoktoru 😉 İTÜ meteoroloji.müh. böl. öğretim üyesi PADI Advanced Open Water Diver
     location: "Turkey"
-    followers: 25934
-    engagement: 119
-    commentsToLikes: 0.066580
+    followers: 26298
+    engagement: 135
+    commentsToLikes: 0.054865
     id: ckaoyjfv8hq1u0i78etj1wqtu
     verified: false
-    hashtags: "#istanbul, #havadoktoru, #iklim, #denizdemirhan"
+    hashtags: "#yama, #iklim, #outdoor, #denizdemirhan"
   - username: "ridvanmekik"
     fullname: >-
       Rıdvan Mekik
     bio: >-
-      🪂 Yamaç Paraşüt Pilot / Paragliding Pilot ⭐️ Dalgıç / Diver 👇🏻 Bilgi ve Rezervasyon / Information and Reservation
+      🪂 Yamaç Paraşütü Pilotu / Paragliding Pilot ⭐️⭐️ CMAS Dalgıç / Diver 👇🏻 Bilgi ve Rezervasyon / Information and Reservation www.oludeniz.vip
     location: "Turkey"
-    followers: 72471
-    engagement: 37
-    commentsToLikes: 0.039016
+    followers: 71745
+    engagement: 49
+    commentsToLikes: 0.040895
     id: ck5q4jxa7pa6r0i11ip2qhr46
     verified: false
-    hashtags: "#anadolufotograf, #objektifimden, #kadraj, #gencgezginler"
+    hashtags: "#objektifimden, #turkobjektif, #fotogulumse, #anadolugram"
   - username: "boyverenadam"
     fullname: >-
       Boyverenadam
@@ -54,77 +42,89 @@ profiles:
     commentsToLikes: 0.018088
     id: ckapbn8xi0jsc0i78lxp20hk4
     verified: false
-    hashtags: "#underwaterworld, #scuba, #underwater, #underwaterphoto"
-  - username: "dogukan_benli"
+    hashtags: "#scubadiver, #diver, #divetrip, #scubapro"
+  - username: "selinyagcioglu"
     fullname: >-
-      Doğukan Benli
+      Selin Yağcıoğlu
     bio: >-
-      #Photography and #outdoor enthusiastic The #adventure is just beginning #explorer and #rider 📩dogukanbenli@pm.me
+      ✉️ simaykirazlipr@gmail.com 📍İstanbul
     location: "Turkey"
-    followers: 20461
-    engagement: 538
-    commentsToLikes: 0.022504
-    id: ckap4w1ko95300i78ww5gb194
-    verified: false
-    hashtags: "#paisagem, #ver, #dbpturkey, #instatravel"
-  - username: "makkahmedinaah"
-    fullname: >-
-      harameyn
-    bio: >-
-      "Resûlullahı kim severse ziyaret icab eder. Hak; Habibini seven kuluna, Zatını ahbab eder."
-    location: "Turkey"
-    followers: 304602
-    engagement: 172
-    commentsToLikes: 0.007545
-    id: ck8t4ozls7kpy0j78zu3lq8tz
-    verified: false
-    hashtags: "#kabe, #mekke, #hijab, #dua"
-  - username: "deryacanofficial"
-    fullname: >-
-      Derya Can
-    bio: >-
-      Serbest Dalış Dünya Rekortmeni Milli Sporcu&Antrenör Tek nefesle -112m @poyrazhelen annesi💙❤️ Eğitimler için👇🏻 @deryacandiveacademy deryacan.com.tr
-    location: "Turkey"
-    followers: 62372
-    engagement: 604
-    commentsToLikes: 0.025617
-    id: ck9we3l4cifjm0j7873d55woa
+    followers: 639757
+    engagement: 390
+    commentsToLikes: 0.008764
+    id: ck8t09965r9j50j78tggl6z51
     verified: true
-    hashtags: "#atamizindeyiz, #deryacan, #survivor2020, #saldag"
-  - username: "seyyahinseyirdefteri"
+    hashtags: "#dysonhealthyhome, #home, #idos, #ak"
+  - username: "tanemsivar"
     fullname: >-
-      Ayşe Nur
+      tanemsivar
     bio: >-
-      Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could R.FROST
+      lalaland
     location: "Turkey"
-    followers: 10226
-    engagement: 902
-    commentsToLikes: 0.047769
-    id: ck139kxlyltq50i19g3ju44rr
+    followers: 174128
+    engagement: 261
+    commentsToLikes: 0.012705
+    id: ck0u0ccqktadl0i19ygxazz23
     verified: false
-    hashtags: "#wanderer, #wanderlust, #travelaround, #gezgin"
+    hashtags: "#is, #sag, #nofilter, #ak"
+  - username: "compass.couple"
+    fullname: >-
+      WES & ENES | Travel Couple
+    bio: >-
+      ✈️ Sold everything we owned to travel the world. 📍 #Istanbul, #Turkey ✉ Partnerships@compasscouple.com 👇 Travel Blog | Media Coverage 🌍
+    location: "Turkey"
+    followers: 9403
+    engagement: 1197
+    commentsToLikes: 0.147632
+    id: ck8t4a91761440j78glp5s3jl
+    verified: false
+    hashtags: "#prettytravelcouples, #penang, #lonelyplanetindia, #exploreasia"
+  - username: "segunmajo"
+    fullname: >-
+      MAJO PAIZ
+    bio: >-
+      ¡𝗛𝗼𝗹𝗮! 𝗦𝗼𝘆 𝙈𝘼𝙍𝙄𝘼 𝙅𝙊𝙎𝙀 𝙋𝘼𝙄𝙕 𝘼𝙍𝙄𝘼𝙎 𝗽𝗲𝗿𝗼 𝗽𝗮𝗿𝗮 𝘁𝗼𝗱𝗼𝘀 𝘀𝗼𝘆 𝙈𝘼𝙅𝙊 𝘆 𝗲𝘀𝘁𝗮 𝗲𝘀 𝗺𝗶 𝘃𝗶𝗱𝗮, 𝗺𝗶 𝗺𝘂𝗻𝗱𝗼. #segunmajo
+    location: "Turkey"
+    followers: 34645
+    engagement: 240
+    commentsToLikes: 0.032486
+    id: ckap9xndztyrj0i781vgg0t9c
+    verified: false
+    hashtags: "#downsyndromelove, #mar, #instagood, #nosotros"
+  - username: "dr.sinemtaslan"
+    fullname: >-
+      Sinem Taslan Ceylanoğlu
+    bio: >-
+      Ortodonti Uzmanı. DDS, PhD 🌟Invisalign Platinum Provider. 🦷Ataşehir 02165764040. 🦷Nişantaşı 02122333903. #ortodonti #dişleryolunda www.allianoi.com
+    location: "Turkey"
+    followers: 33429
+    engagement: 309
+    commentsToLikes: 0.018284
+    id: ckap7c925jg2c0i788ghxswn6
+    verified: false
+    hashtags: "#photooftheday, #smiledesign, #invisaligndoctor, #nature"
+  - username: "yagmuraydgn"
+    fullname: >-
+      Yağmur Aydoğan
+    bio: >-
+      🇹🇷 2012 Balkan Championship 2nd 🏆 Turkey Champion 🎓EU Faculty of Sports Science 🏊🏼‍♀️Personal Swimming Coach @backpack.tr
+    location: "Turkey"
+    followers: 40615
+    engagement: 244
+    commentsToLikes: 0.021379
+    id: ckap1e2idu6zk0i78yxmy8ve9
+    verified: false
+    hashtags: "#adidaswomen, #training, #healthy, #yagmuraydgn"
   - username: "godgal"
     fullname: >-
-      Güneş Gürbüz
+      Güneş
     bio: >-
-      Sen ne dilersen gerçek olur 🛸Istanbul,Turkey 💌 fgunesgurbuz@gmail.com 👩🏻‍🎓 Physiotherapist IMZALA ⬇️
+      𝟑𝟑 Sen ne dilersen gerçek olur 🛸Istanbul 👩🏻‍🎓 Fizyoterapist
     location: "Turkey"
-    followers: 2261
-    engagement: 3008
-    commentsToLikes: 0.155914
+    followers: 2140
+    engagement: 1475
+    commentsToLikes: 0.268917
     id: ckap4kyui7rap0i78ttgrv5t0
     verified: false
-    hashtags: "#halloweenmakeup, #avantgardemakeup, #makyaj, #pastelmakeup"
-  - username: "saeid.esmailzadeh"
-    fullname: >-
-      ﮼سعید‌ | saeid esmailzadeh 🌐
-    bio: >-
-      Truck driver's 🇮🇷 ‌ Pv Page🔒👇 @saeid.esmailzadeh.pv Youtube Channel 🎥👇
-    location: "Turkey"
-    followers: 43966
-    engagement: 1502
-    commentsToLikes: 0.011557
-    id: ckap4t2xv8qxp0i78tjs2d6ir
-    verified: false
-    hashtags: ""
+    hashtags: "#modelmalay, #ke, #makeupideas, #glowymakeup"
 ---

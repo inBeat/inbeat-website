@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Nigeria In 2022
+title: Top 10 Cooking Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top cooking Instagram influencers in Nigeria in 2022. Most popular hashtags: #naijafood #nigerianfood #foodporn #nigerianfoodblogger.
+  Find top cooking Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #explorepage #exploremore.
 platform: Instagram
-hits: 123
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 123 Instagram influencers like this in Nigeria for you to pitch.
+hits: 82
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 82 Instagram influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "aromaarena"
+  - username: "call_me_fola"
     fullname: >-
-      AromaArena | Cooking Solutions
+      FOLAPONDIS 💥
     bio: >-
-      🌹FoodContentCreator | YouTuber | CulinaryGenius 📌Founder @meatballs.ng 📌Order Meals @aromaarenanaija 📌Cooking Instructor 📌👇PRE ORDER EBOOK
+      YourFavLoverBoi 📌🍑 *BNE 💥 For Bookings: +2348103674747 *Download MY LADY 👇
     location: "Nigeria"
-    followers: 82168
-    engagement: 125
-    commentsToLikes: 0.052375
-    id: ck6ug8mpm1k580j712dwgagam
+    followers: 20516
+    engagement: 1403
+    commentsToLikes: 0.099351
+    id: ck5hoaiecp8890i11n0zzgpuw
     verified: false
-    hashtags: "#nigerianfoodblogger, #westafricancuisine, #africanfoodie, #foodinabuja"
-  - username: "zeeliciousfoods"
+    hashtags: "#tbt, #deletingsoon, #yourfavloverboi, #endsars"
+  - username: "maliyaofficial"
     fullname: >-
-      Zeelicious Foods by Winifred
+      Maliya Michael
     bio: >-
-      🎬 Food Content Creator 👩🏽‍🍳 Queen of Fun & Fast Cooking 📺 TV Food Show Host 👩🏽‍🌾 Food Entrepreneur 📧zeeliciousfoods@gmail.com
+      Model | Influencer Bookings: Maliyamgt@gmail.com
     location: "Nigeria"
-    followers: 217215
-    engagement: 171
-    commentsToLikes: 0.022970
-    id: ck13ay1qosqtw0i199mso4xwb
+    followers: 340279
+    engagement: 565
+    commentsToLikes: 0.024631
+    id: ck135nhdj2aeb0i19u8z1kr7u
     verified: false
-    hashtags: "#vegan, #coconut, #saturday, #food"
-  - username: "naija_foodie"
+    hashtags: "#funnyfails, #airbnblagos, #dubaitour, #lagosbabes"
+  - username: "hameedah_xx"
     fullname: >-
-      💥No.1 Nigerian Food  𝐇𝐔𝐁!
+      Hammed Hamidat Oyindamola
     bio: >-
-      Obsessed with Beautiful Food pictures😍. I love eating food almost as much as I enjoy cooking. FB: Naijafoodie @props_plaza Product props
+      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
     location: "Nigeria"
-    followers: 187952
-    engagement: 107
-    commentsToLikes: 0.025026
-    id: ck8tct2040kex0j78vv5haasn
+    followers: 11437
+    engagement: 1361
+    commentsToLikes: 0.050829
+    id: ck5q769s9057p0i116byq3ebi
     verified: false
-    hashtags: "#foodgasm, #breakfastinspiration, #tbt, #dinnerinspiration"
-  - username: "diaryofakitchenlover"
+    hashtags: "#selflove, #happyvalentinesday"
+  - username: "thefrenchman__"
     fullname: >-
-      Tolani | Can | Cook
+      DAVOU PWAJOK
     bio: >-
-      WINNER, STERLING BANK’S JOLLOF MASTER 2020🏆 👩‍🍳 Unique Food Blogger and Influencer 👩‍🍳 Food Photograher/Videographer 💇‍♀️Alter Ego @slaybytolani
+      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08143894285
     location: "Nigeria"
-    followers: 175756
-    engagement: 244
-    commentsToLikes: 0.061745
-    id: ck6u7zfb1ojwn0j71n5dcn904
+    followers: 11468
+    engagement: 1438
+    commentsToLikes: 0.114227
+    id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
-    hashtags: "#lagosfood, #recipecreator, #foodstylist, #foodblogging"
-  - username: "thebillionairechef"
-    fullname: >-
-      Chef Eros #TheBillionaireChef
-    bio: >-
-      Self taught, self motivated, self made. #GodsChild @thebillionairechef #ChefEros
-    location: "Nigeria"
-    followers: 38557
-    engagement: 241
-    commentsToLikes: 0.067416
-    id: ck5zwevyr60bw0i147q6al71j
-    verified: false
-    hashtags: "#chefsalert, #foodporn, #foodinstalove, #cheftable"
-  - username: "juno_theartist"
-    fullname: >-
-      J U N O
-    bio: >-
-      Help is Not on the way 👇🏾
-    location: "Nigeria"
-    followers: 179985
-    engagement: 37
-    commentsToLikes: 0.037081
-    id: ck6tymge04lph0j71js2gl95w
-    verified: false
-    hashtags: "#junotheartist, #blackgirlmagic, #junosguitarbootcamp, #helpisnotontheway"
-  - username: "foodblogafrica"
-    fullname: >-
-      FOOD BLOG AFRICA
-    bio: >-
-      FOOD BLOGGER👩‍💻 BRAND INFLUENCER @maggi_nigeria ADVERTS/PARTNERSHIP TAG#foodblogafricang foodblogafricang@gmail.com DM FOR ADVERTS CLICK👇TO CHAT
-    location: "Nigeria"
-    followers: 132234
-    engagement: 31
-    commentsToLikes: 0.023023
-    id: ck13cnqwg19hk0i19kcz09o1k
-    verified: false
-    hashtags: "#foodblogafricang, #foodgasm, #foodporn, #honeybeans"
-  - username: "potofflavours"
-    fullname: >-
-      Pot of  Flavours
-    bio: >-
-      PR Pro turn Pro Chef Private Chef | Chef instructor Food Photographer | Food Consultant Food Content Creator
-    location: "Nigeria"
-    followers: 11881
-    engagement: 386
-    commentsToLikes: 0.037538
-    id: ck13aedflpz9j0i19rt8zm189
-    verified: false
-    hashtags: "#abujachef, #fishsauce, #nigerianfood, #nigeriancuisine"
+    hashtags: "#thefrenchman, #model, #fashion, #fitnessmodel"
   - username: "nimah_21"
     fullname: >-
       𝓝𝓲𝓶𝓪𝓱
     bio: >-
-      ▫️Face of Zaron 2020 𝚢𝚘𝚞 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞 𝚕𝚘𝚟𝚎 𝚖𝚎♥︎ ▪️For bookings 📩
+      ▫️Face of Zaron ▪️For bookings↷📩 𝙴𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐, 𝚠𝚒𝚝𝚑 𝙻𝚘𝚟𝚎♥︎
     location: "Nigeria"
-    followers: 7099
-    engagement: 2013
-    commentsToLikes: 0.095189
+    followers: 7611
+    engagement: 1916
+    commentsToLikes: 0.117135
     id: ck15sjkstdc0z0i193iwi08hx
     verified: false
-    hashtags: "#noisno, #explorepage, #zaroncosmetics, #influencer"
+    hashtags: "#faceofzaron2020, #zaroncosmetics, #explorepage, #explore"
   - username: "sosho._"
     fullname: >-
       daniel oladele
     bio: >-
       I_am_sosho 💪💪💪 Ambassador for @nigerianteensblog Bookings for brands and promotions Finsta: @masterkamisosho
     location: "Nigeria"
-    followers: 6517
-    engagement: 1698
-    commentsToLikes: 0.100081
+    followers: 6198
+    engagement: 1648
+    commentsToLikes: 0.096128
     id: ck6trj8x0zawo0j71p9l6px12
     verified: false
-    hashtags: "#explorepage, #thirstyworldwide, #explore, #exploremore"
+    hashtags: "#exploremore, #explorepage, #explore, #blacklivesmatter"
+  - username: "rebeccafabunmi_"
+    fullname: >-
+      Dark Horse
+    bio: >-
+      Few Models 🇳🇬 @fewmodels Bookings - Info@fewmodels.com
+    location: "Nigeria"
+    followers: 13821
+    engagement: 1421
+    commentsToLikes: 0.031724
+    id: ck5bv9e2sj82h0i110ndg95f1
+    verified: false
+    hashtags: ""
+  - username: "kiera_coulibaly"
+    fullname: >-
+      kiyara
+    bio: >-
+      🇳🇪 🇺🇦 🇱🇧 🇸🇱 I paint🎨 @kiera_arts ℐ𝓉 𝓀𝑒𝑒𝓅𝓈 𝑔𝑒𝓉𝓉𝒾𝓃𝑔 𝒷𝑒𝓉𝓉𝑒𝓇.. DM for bookings
+    location: "Nigeria"
+    followers: 5127
+    engagement: 1919
+    commentsToLikes: 0.078199
+    id: ckap2we2g0ly60i78p7lpcrve
+    verified: false
+    hashtags: "#explorepage, #explore, #goselect, #exploremore"
+  - username: "iamdesibanks"
+    fullname: >-
+      Desi Banks
+    bio: >-
+      🙏🏾 God1st Find #PURpose Actor | Comedian | Entertainer | Host Booking/Press: desibanksbooking@gmail.com
+    location: "Nigeria"
+    followers: 6753988
+    engagement: 540
+    commentsToLikes: 0.037395
+    id: ck0tw4q3ke0hw0i19vebqszzw
+    verified: true
+    hashtags: "#justcomedy, #reallife, #comeseemelive, #tagyourfriends"
+  - username: "preciousokoye"
+    fullname: >-
+      MODEL • INFLUENCER
+    bio: >-
+      GOD FIRST ✨ MISS POLO AFRICA MISS POLO NIGERIA 📍Lagos• 🇳🇬 •FOR BOOKINGS 👇🏾 📧okoyeprecious19@gmail.com
+    location: "Nigeria"
+    followers: 19052
+    engagement: 427
+    commentsToLikes: 0.069468
+    id: ck15q0t2i0jvp0i19i0hj91yd
+    verified: false
+    hashtags: "#misspolonigeria, #sosbeauty, #makeupremover, #makeupremoverpads"
 ---

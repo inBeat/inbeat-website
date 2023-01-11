@@ -1,106 +1,106 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Morocco In 2022
+title: Top 10 Guitar Instagram Influencers In Morocco In 2023
 description: >-
-  Find top guitar Instagram influencers in Morocco in 2022. Most popular hashtags: #music #guitar #morocco #love.
+  Find top guitar Instagram influencers in Morocco in 2023. Most popular hashtags: #guitar #morocco #music #tanger.
 platform: Instagram
 hits: 8
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 8 Instagram influencers like this in Morocco for you to contact.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in Morocco for you to work with.
 profiles:
   - username: "yassine.benfeddoul"
     fullname: >-
       Yassine Ben Feddoul
     bio: >-
-      Moroccan Guitarist 🎸🇲🇦 My lastest 5 works: Wak Wak-Belmirs Ana Welhob-Salma Rachid Denia bedala-Cravata Suzana-7-toun Mallina-Ihab amir ft7-toun
+      Moroccan Guitarist 🎸🇲🇦 Some of my works: Wak Wak-Belmirs Mallina-Ihab Amir ft7-toun Lghorbal-OmarBelmir Ana Welhob-SalmaRachid Enta Eli-SalmaRachid
     location: "Morocco"
-    followers: 26265
-    engagement: 261
-    commentsToLikes: 0.045502
+    followers: 27703
+    engagement: 200
+    commentsToLikes: 0.031817
     id: ckap9rpk1tduy0i78fv13sejs
     verified: false
-    hashtags: "#improvisation, #quarantine, #peace, #love"
-  - username: "zouhir_bahaoui_team"
+    hashtags: "#piano, #pianolover, #as, #tvshow"
+  - username: "mohamed_chliyeh"
     fullname: >-
-      Youssef Bahaoui
+      Mohamed Chliyeh
     bio: >-
-      🛡 | صفحة خاصة بالمعجبين و ليست صفحة رسمية لزهير البهاوي ⚠️ | لإعلاناتكم الشخصية و التجارية التواصل عبر الخاص 📥 | official account >>@zouhairbahaoui
+      Moroccan🇲🇦in Sweden 🇸🇪 Surfer 🏄🏽‍️and Doctor in plants pathology🌴 who loves to play guitar 🎸martial arts🥊🥋 family👨‍👩‍👧‍👦 God gave me everything
     location: "Morocco"
-    followers: 217179
-    engagement: 176
-    commentsToLikes: 0.021761
-    id: ck8taxdqitgvi0j78mpl8su2z
+    followers: 5822
+    engagement: 580
+    commentsToLikes: 0.087746
+    id: ck6ucd0rievo50j71z85s4w6u
     verified: false
-    hashtags: "#saadlamjarred, #salam, #algerie, #piano"
-  - username: "yassine_tamtam"
-    fullname: >-
-      Yassine Tamtam
-    bio: >-
-      Percussionist🥁: PAPAGAYO / ZANZIBAR 📍Agadir , Morocco 🇲🇦 🇩🇪
-    location: "Morocco"
-    followers: 17578
-    engagement: 689
-    commentsToLikes: 0.047635
-    id: ck14k7i2mo4i70i19067cb003
-    verified: false
-    hashtags: "#photography, #art, #instagood, #nightclub"
-  - username: "ktoneofficial"
-    fullname: >-
-      K-TONE (Othmane عثمان)
-    bio: >-
-      Official Instagram HIYA LIA Is now released on YOUTUBE GOD FIRST 🇲🇦 YouTube Channel:𝕪𝕠𝕦𝕥𝕦𝕓𝕖.𝕔𝕠𝕞/𝕜𝕥𝕠𝕟𝕖
-    location: "Morocco"
-    followers: 53163
-    engagement: 221
-    commentsToLikes: 0.042023
-    id: ck5hefaxzslw10i11ilsxuoof
-    verified: true
-    hashtags: "#happy, #barcelona, #pop, #follow"
-  - username: "ahmed_attas"
-    fullname: >-
-      أحمد العطاس
-    bio: >-
-      #احمد_العطاس #هاوي_فن . 🎹 ' - AL-KHOBAR📍 . - الأمَاني واجدة ، والله كريم ✨ .
-    location: "Morocco"
-    followers: 30881
-    engagement: 147
-    commentsToLikes: 0.112895
-    id: ck6tkdk774hne0j71oja4ilmc
-    verified: false
-    hashtags: "#piano, #keyboard, #guitar, #oud"
+    hashtags: "#waves, #ocean, #son, #sweden"
   - username: "lifeofsamite"
     fullname: >-
       Sami  Essamite
     bio: >-
-      Video editor, Filmmaker 📍 Casablanca, Morocco 🛫🏔⛺️🏝🌵📷 New Video 👇
+      Video editor, Filmmaker 📍 Tangier, Morocco 🛫🏔⛺️🏝🌵📷 New Video 👇
     location: "Morocco"
-    followers: 11540
-    engagement: 544
-    commentsToLikes: 0.022076
+    followers: 11307
+    engagement: 520
+    commentsToLikes: 0.027877
     id: ck14kgvgnpgjr0i190zz8r99a
     verified: false
-    hashtags: "#casablanca, #marrakech, #morocco, #sky"
-  - username: "amine_aharmim"
+    hashtags: "#desert, #tangier, #travelmorocco, #morocco"
+  - username: "zouhir_bahaoui_team"
     fullname: >-
-      Amine Aharmim - أمين أحرميم
+      Youssef Bahaoui
     bio: >-
-      Founder/CEO @artoujours.ma ▪️Producer ▪️Artistic Director ▪️Event Planner/Artist Booking ▪️Marketing Executive ⚽ Madridista ⚽ ♡Tetouan/Paris♡
+      🛡 | Big Fan of@zouhairbahaoui ⚠️ | لإعلاناتكم الشخصية و التجارية التواصل عبر الخاص 📥 | official account>>@zouhairbahaoui lien de nouveau Clip
     location: "Morocco"
-    followers: 18402
-    engagement: 293
-    commentsToLikes: 0.019496
-    id: ckaoxnt8ye1n80i78l7j4l75h
+    followers: 236772
+    engagement: 128
+    commentsToLikes: 0.025582
+    id: ck8taxdqitgvi0j78mpl8su2z
     verified: false
-    hashtags: "#photography, #weekend, #postcorona, #summer"
+    hashtags: ""
+  - username: "alhunaini2p"
+    fullname: >-
+      احـــمــــد الحنيني|| 아흐맫
+    bio: >-
+      🔹>snapchat: bboy.2p 🔹>social-media 🎭 Graduated from Majan college 🎓(HR) . 😍||#نزرع_البسمه_في_وجوه_الاخرين||😍 🔹||للاعلانات التواصل على ||🔹 📥
+    location: "Morocco"
+    followers: 42580
+    engagement: 30
+    commentsToLikes: 0.063679
+    id: ck5pzz5sg3gpm0i1136g6m1ww
+    verified: false
+    hashtags: "#modeling, #exploremore, #explorer, #lifestyle"
+  - username: "ahmed_attas"
+    fullname: >-
+      أحمد العطاس
+    bio: >-
+      #احمد_العطاس #هاوي_فن . 🎹 ' جديدي مع الحب هتان #يجينا_عيد 👇🏼
+    location: "Morocco"
+    followers: 31843
+    engagement: 156
+    commentsToLikes: 0.110800
+    id: ck6tkdk774hne0j71oja4ilmc
+    verified: false
+    hashtags: "#oud, #music, #musicislife, #piano"
+  - username: "yassine_tamtam"
+    fullname: >-
+      Yassine Tamtam
+    bio: >-
+      الفائز بلقب أجمل بوجلود لثلاثة سنوات على التوالي🥇 PERCUSSIONISTE 🥁 @papagayo.agadir | @zanzibar.agadir 📍 𝗔𝗴𝗮𝗱𝗶𝗿 , 𝗺𝗼𝗿𝗼𝗰𝗰𝗼 🇲🇦
+    location: "Morocco"
+    followers: 19524
+    engagement: 519
+    commentsToLikes: 0.032385
+    id: ck14k7i2mo4i70i19067cb003
+    verified: false
+    hashtags: "#love, #marrakech, #bhfyp, #fes"
   - username: "samirbs"
     fullname: >-
       El Bousaadi Samir
     bio: >-
-      SINNER is OUT
+      
     location: "Morocco"
-    followers: 3721
-    engagement: 833
-    commentsToLikes: 0.055085
+    followers: 3709
+    engagement: 659
+    commentsToLikes: 0.064029
     id: ck0w3fa2pt3zm0i198g6l67oc
     verified: false
-    hashtags: "#producers, #producer, #music, #sing"
+    hashtags: "#music, #moroccanartists, #morocco, #africa"
 ---

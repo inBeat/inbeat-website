@@ -1,130 +1,130 @@
 ---
-title: Top 10 Djs Instagram Influencers In Nigeria In 2022
+title: Top 10 Djs Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top djs Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #endpolicebrutality #endbadgovernanceinnigeria.
+  Find top djs Instagram influencers in Nigeria in 2023. Most popular hashtags: #nigeria #lagos #endsars.
 platform: Instagram
-hits: 18
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 18 Instagram influencers like this in Nigeria for you to contact.
+hits: 14
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 14 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
+  - username: "thefifographer"
+    fullname: >-
+      Lifestyle Photographer
+    bio: >-
+      invested in photographing people who love to look good, laugh & be happy || taking personal & corporate bookings || growth at @radrafrica
+    location: "Nigeria"
+    followers: 23735
+    engagement: 311
+    commentsToLikes: 0.057607
+    id: ck8t08afqr5xk0j780r6d0rg9
+    verified: false
+    hashtags: "#xlt, #officialfifographer, #fifoshotit, #xltphotography"
   - username: "mcefilms"
     fullname: >-
-      Wilfred A. Samson 🇳🇬
+      Wilfred A. Samson
     bio: >-
-      • Media Concept ® • #CINEMATOGRAPHER™ • #Wedding • #Event • #Videographer • WhatsApp: +234 813 192 6017
+      Media Concept ® #MCEFILMS ™ Creative Films For Romantics ❤ Get To Know Us 👇 ☎️ +234 813 192 6017
     location: "Nigeria"
-    followers: 2298
-    engagement: 624
-    commentsToLikes: 0.143361
+    followers: 2701
+    engagement: 724
+    commentsToLikes: 0.148361
     id: ckf5m9vkzsw470j236pfictu9
     verified: false
-    hashtags: "#weddingfilm, #naijaweddingvideo, #afterparty, #naijawedding"
-  - username: "sidwell_n"
+    hashtags: "#weddingvideo, #weddingshooter, #nigerianwedding, #weddingdigestnaija"
+  - username: "officialobesere"
     fullname: >-
-      SIDWELL
+      #EGUNGUNBECAREFUL
     bio: >-
-      Proud music and television producer! Retired actor/tv presenter. 🇿🇦🇳🇬🎭🎬🎤🎹
+      Agbaakin Abobagunwa of Yorubaland Musician | Entertainer | Ambassador 📞08066221254 | 08142597086 | 08083675380
     location: "Nigeria"
-    followers: 81944
-    engagement: 528
-    commentsToLikes: 0.015481
-    id: ck0txqaa2k4md0i197brl3z2n
+    followers: 179335
+    engagement: 79
+    commentsToLikes: 0.043065
+    id: ck6tjqbp237s70j7175ve0b8o
     verified: false
-    hashtags: "#shuuuu, #dreambig, #somewhereinthecape, #happyheritageday"
-  - username: "westafricanbaby"
+    hashtags: "#goodvibe, #standout, #newsingle, #monwase"
+  - username: "tope_horpload"
     fullname: >-
-      miss w
+      'topeAdenola 📷 🇳🇬
     bio: >-
-      🇳🇬 🇬🇭, CHICAGO,IL blackfeminist | electricalengineer 4c Hair Queen. Curls_AuNaturel Email:westafricanbaby@yahoo.com NEW YOUTUBE VIDEO⬇️
+      
     location: "Nigeria"
-    followers: 55160
-    engagement: 300
-    commentsToLikes: 0.030018
-    id: ck13857taejjh0i19srwgwbp8
+    followers: 53754
+    engagement: 252
+    commentsToLikes: 0.035279
+    id: ck15ucj1amhin0i19hqjlaba8
     verified: false
-    hashtags: "#bombacurls, #wetnwildatwalmart, #wetnwildbeauty, #linkinbio"
+    hashtags: "#horpload, #ta, #outdoor, #weddingphotography"
+  - username: "shivolski"
+    fullname: >-
+      Noluthando
+    bio: >-
+      HALLS OMFCC| 2X NMU 👩‍🎓 FOR BOOKINGS: sikhakhane8@gmail.com MC 🎤 |DANCER 💃| CHOREOGRAPHER | DM FOR PROMO video out now!!
+    location: "Nigeria"
+    followers: 6550
+    engagement: 1382
+    commentsToLikes: 0.037725
+    id: ck5cgd18folcp0i11ueey4u4z
+    verified: false
+    hashtags: "#dripdrip, #naturalhaircommunity, #dancersofinstagram, #bantuknots"
+  - username: "mr_malao"
+    fullname: >-
+      Neo Malao (1st Champion)
+    bio: >-
+      #God 1st☝️ #TRAINER💪🏋 #Actor 📺🎬 #Model📸 #Herbalife. 🌿🍀☘️ Neomalao@gmail.com
+    location: "Nigeria"
+    followers: 30318
+    engagement: 126
+    commentsToLikes: 0.051039
+    id: ck5hm9095liry0i118wgzdvur
+    verified: false
+    hashtags: "#vialliboys, #vialli"
   - username: "shantel_la_dopie"
     fullname: >-
       Lucas Praise Lorine
     bio: >-
       Creative Director @shantel_footwears Da Cute shoemaker Dance lover🥰 Crazy model An affectionate soul💯 #Irepjune19 #geminiqueen👑
     location: "Nigeria"
-    followers: 3059
-    engagement: 1357
-    commentsToLikes: 0.034985
+    followers: 5154
+    engagement: 832
+    commentsToLikes: 0.029911
     id: ckap8gndbo87u0i78bnk94qdl
     verified: false
-    hashtags: "#staysafe, #grace, #shantel, #daughterofgrace"
-  - username: "shivolski"
+    hashtags: "#happybirthdaytome, #june19baby, #kinqofqueens, #queenshantel"
+  - username: "obi_cubana"
     fullname: >-
-      Noluthando
+      OBI IYIEGBU
     bio: >-
-      HALLS OMFCC| 2X NMU 👩‍🎓| AN ENTIRE MOOD 💃💃 FOR BOOKINGS: sikhakhane8@gmail.com DANCER | CHOREOGRAPHER | DM FOR PROMO video out now!!
+      Chairman - Cubana Group God's Favourite Son Positive vibes ONLY! NO TWITTER❌
     location: "Nigeria"
-    followers: 6486
-    engagement: 1376
-    commentsToLikes: 0.035090
-    id: ck5cgd18folcp0i11ueey4u4z
+    followers: 626350
+    engagement: 324
+    commentsToLikes: 0.024111
+    id: ck5hhgq0d84vc0i1173t7xj63
     verified: false
-    hashtags: "#bantuknots, #dripdrip, #naturalhaircommunity, #dancersofinstagram"
-  - username: "preshstagram"
+    hashtags: "#abettertimewithdavido, #kings, #abujanightlifestyle, #ijeleafrica"
+  - username: "sidwell_n"
     fullname: >-
-      PRECIOUS EMMANUEL
+      SIDWELL
     bio: >-
-      ⚪Singer/Songwriter ⚪The Voice Nigeria 2 ⚪Wedding Singer ⚪️Theatre Musicals ⚪God Lover ⚪Bookings:emmanuelpreciouso@gmail.com ⚪VIDEOS
+      Proud music and television producer! Retired actor/tv presenter. 🇿🇦🇳🇬🎭🎬🎤🎹
     location: "Nigeria"
-    followers: 45583
-    engagement: 239
-    commentsToLikes: 0.062151
-    id: ck134gqmdwc3w0i19r8jwgi5i
+    followers: 88444
+    engagement: 703
+    commentsToLikes: 0.013589
+    id: ck0txqaa2k4md0i197brl3z2n
     verified: false
-    hashtags: "#bbnaija, #endpolicebrutality, #endsars, #dontgiveup"
-  - username: "official_singah"
+    hashtags: "#nottobedeleted, #havefaith, #happyheritageday, #saynotpxenophobia"
+  - username: "kingebuka"
     fullname: >-
-      sin-gah
+      Ebuka Nwobu
     bio: >-
-      SINGAH ARTIST P-classic music group For booking contact....... okikefabian@gmail.com
+      GOD LOVER. award-winning film producer discovering, supporting and employing nigeria’s most promising filmmakers at @llandb @mainland_co
     location: "Nigeria"
-    followers: 55496
-    engagement: 289
-    commentsToLikes: 0.033569
-    id: ck5zjeox1hge60i140ouenpl0
+    followers: 4692
+    engagement: 943
+    commentsToLikes: 0.076634
+    id: ck0u0qeq8ul9b0i19wsqhjo57
     verified: false
-    hashtags: "#endsars, #endpolicebrutality, #endbadgovernanceinnigeria, #endbadgovernment"
-  - username: "dresticks09"
-    fullname: >-
-      Dre-sticks
-    bio: >-
-      Dre-sticks aka Faluya Of Africa 🌍 • Premium recording Artiste • Pro. Record producer • Content creator +234 8034198899 ⛔️ business only
-    location: "Nigeria"
-    followers: 94580
-    engagement: 168
-    commentsToLikes: 0.041388
-    id: ck5znjil7ola70i147z4mq2v2
-    verified: false
-    hashtags: "#faluyaofafrica, #repost, #dre, #foa"
-  - username: "cynthiaerivo"
-    fullname: >-
-      Cynthia Erivo
-    bio: >-
-      Black. Actress. Singer. Producer. Creator. Happy. 🇳🇬 🇬🇧
-    location: "Nigeria"
-    followers: 524952
-    engagement: 199
-    commentsToLikes: 0.018127
-    id: ck0ua6nt2bkft0i19yje1bemr
-    verified: true
-    hashtags: "#endsars, #endpolicebrutality, #sarsmustend, #endswat"
-  - username: "davidoofficial"
-    fullname: >-
-      Davido Adeleke
-    bio: >-
-      #ENDSARS For inquiries 📧: davido@bfaandcolegal.com
-    location: "Nigeria"
-    followers: 18096334
-    engagement: 160
-    commentsToLikes: 0.049524
-    id: ck0tt4o9l15340i1971zqgdq3
-    verified: true
-    hashtags: "#agt, #endsars, #endbadgovernanceinnigeria, #prayforosun"
+    hashtags: "#endsarsinreallife, #sarsmustend, #endsarsnow"
 ---

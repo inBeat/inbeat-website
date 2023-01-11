@@ -1,60 +1,48 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Malaysia In 2022
+title: Top 10 Mothers Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top mothers Instagram influencers in Malaysia in 2022. Most popular hashtags: #covid19 #stayhome #mothersday.
+  Find top mothers Instagram influencers in Malaysia in 2023. Most popular hashtags: #love #staysafe #kitajagakita #blessed.
 platform: Instagram
-hits: 60
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 60 Instagram influencers like this in Malaysia for you to contact.
+hits: 35
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 35 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
-  - username: "duduannann"
+  - username: "brittanyjohnson_xoxo"
     fullname: >-
-      Dudu Ann 📍🇲🇾
+      B R I T T A N Y J O H N S O N
     bio: >-
-      Mother of @jayhin.jae FB Page ： Dudu Ann 52k followers Job & Cooperation 📧
+      Sharing my life: raw motherhood + lifestyle 🌸 Owner: 🖤 @thehandeboutique TIKTOK/YT: 175K BESTIES ✨ Balance + WW GREEN 💚 -35lbs IN 🦋 BUT GOD 🙌🏼
     location: "Malaysia"
-    followers: 104636
-    engagement: 115
-    commentsToLikes: 0.022336
-    id: ck8sy0ugzjcb70j78ufpgpj4t
+    followers: 18820
+    engagement: 260
+    commentsToLikes: 0.049212
+    id: ck9we4084ihev0j78i49eomg7
     verified: false
-    hashtags: "#lazadabiggestonedaysale, #lazada1111, #genglazada, #lazadamy"
+    hashtags: "#boutiquefashion, #mondaymotivation, #weightlosstransformation, #sahm"
   - username: "rodziah_hanim"
     fullname: >-
       Rodziah Hanim
     bio: >-
       A devoted wife A working mother of 4 "Life is beautiful if everything is for Allah" ▶Terus dari kuali dapur ku...😊◀
     location: "Malaysia"
-    followers: 20711
-    engagement: 445
-    commentsToLikes: 0.160692
+    followers: 20865
+    engagement: 456
+    commentsToLikes: 0.193034
     id: ckf5x8e8iusi70j23bqqs9ytp
     verified: false
-    hashtags: "#masakapahariini, #malaysianfood, #sayamasak, #sekadarberkongsimasakan"
-  - username: "aidarazman"
-    fullname: >-
-      𝐀 𝐈 𝐃 𝐀 ☁️
-    bio: >-
-      Welcome to my digital diary 🇲🇾 Syafrique Daniel ♡ Mother to @ayeeda.kl
-    location: "Malaysia"
-    followers: 135158
-    engagement: 753
-    commentsToLikes: 0.005924
-    id: ck0tw8ayaecf00i19vuy1gp1k
-    verified: false
-    hashtags: "#ayeedababes, #aidashares, #youshouldtoo, #stayconsistentok"
+    hashtags: "#syukurselalu, #sekadarberkongsimasakan, #malaysianfood, #lunchtadi"
   - username: "motheranddaughter_diary"
     fullname: >-
       Mother and Daughter Diary
     bio: >-
       "Queens Raising Queens" Dm/Email for Adverts/Collaborations/Review #motheranddaughter_diary
     location: "Malaysia"
-    followers: 123547
-    engagement: 101
-    commentsToLikes: 0.021481
+    followers: 156275
+    engagement: 103
+    commentsToLikes: 0.013617
     id: ck15q65ud1ape0i19uwiuclha
     verified: false
-    hashtags: "#gianniandgiselle, #twingirls, #twins, #sisters"
+    hashtags: "#motheranddaughtergoals, #raisingqueens, #momsofinstagram, #lagosmums"
   - username: "carinesalameh"
     fullname: >-
       Carine Salameh Shalhoob🇱🇧
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.042507
     id: ck5q9b4xaa89d0i11y89pjq71
     verified: false
-    hashtags: "#carinesalamehworld, #carinesalameh, #instalive, #ramadan2020"
+    hashtags: "#instalive, #ramadan2020, #lebanon, #hope"
   - username: "daenerysnation"
     fullname: >-
       
     bio: >-
       🌐 Original content. 🍿 I review movies on @gulyreviews
     location: "Malaysia"
-    followers: 41217
-    engagement: 1056
-    commentsToLikes: 0.112566
+    followers: 40319
+    engagement: 1077
+    commentsToLikes: 0.112382
     id: ckf5mlaajucn90j23spf4io9g
     verified: false
-    hashtags: "#kitharrington, #missandei, #hbo, #jonerys"
+    hashtags: "#emiliaclarke, #cerseilannister, #theironthrone, #stark"
   - username: "spring_cottage"
     fullname: >-
       Spring Cottage
     bio: >-
-      Team of aspiring wedding stylist ,floral designers ,decorators in the Ritz-Carlton & Westin hotelKL, Malaysia.Email us contact@springcottage.com.my
+      Team of aspiring wedding stylist ,floral designers ,decorators in the Ritz-Carlton Malaysia.Email us contact@springcottage.com.my
     location: "Malaysia"
-    followers: 28040
-    engagement: 100
-    commentsToLikes: 0.006860
+    followers: 28674
+    engagement: 90
+    commentsToLikes: 0.004433
     id: ck13bg9q2va1v0i19jbtvh5d7
     verified: false
-    hashtags: "#weddingdecor, #mothersday, #flowersbouquet, #wedding"
-  - username: "petronastwintowers"
+    hashtags: "#flowerstagram, #blessed, #flowers, #staysafe"
+  - username: "owenyapkh"
     fullname: >-
-      Off. IG PETRONAS Twin Towers
+      Owen Yap 叶剑锋
     bio: >-
-      PETRONAS Twin Towers, World's Highest Twin Structures
+      你好，我是叶剑锋，不是叶剑峰。 Hello, my name is Owen, not Oven.
     location: "Malaysia"
-    followers: 27723
-    engagement: 74
-    commentsToLikes: 0.014684
-    id: ck5cjaos0uc640i11fcplmeqp
+    followers: 60430
+    engagement: 389
+    commentsToLikes: 0.040910
+    id: ck5q7qewn2o770i110tsdy9fz
     verified: false
-    hashtags: "#kitamestimenang, #hariibu, #petronastwintowers, #celebratinglife"
+    hashtags: "#positiveenergy, #love, #stayathome, #cny"
   - username: "feniasworld"
     fullname: >-
-      Travel blogger • Fenia ✈🤘
+      Fenia
     bio: >-
-      🌎 follow me around the world 📸 My pics: 44 countries 📩 feniasworld@gmail.com 📌Malaysia 👭Love my sis @sazzito
+      Model | Traveller | Influencer | Artist 📸 My pics: 44 countries Manager : @photravel_iphone 📩 feniasworld@gmail.com 📌Malaysia @sazzito
     location: "Malaysia"
-    followers: 53287
-    engagement: 374
-    commentsToLikes: 0.046290
+    followers: 53301
+    engagement: 349
+    commentsToLikes: 0.044948
     id: ck60029k1ctu60i14dgo1jhth
     verified: false
-    hashtags: "#sailing, #sunnyday, #beach, #langkawiyachtclubhotel"
-  - username: "pixiegoh"
+    hashtags: "#girl, #beach, #valentineday, #smile"
+  - username: "ongchingyee"
     fullname: >-
-      PixXie Goh 🧚🏽‍♀️
+      Ong Ching Yee 王菁忆
     bio: >-
-      📧 pixxieg@gmail.com 👑 Miss Scuba Malaysia 2016 🌊 PADI Rescue Scuba Diver 🌱nature lover #life #live #dive
+      TV News Anchor (8tv)/Brand Ambassador/Host 🏆The Best News Presenter - Golden Awards 2017 🏆 Voted Top 5 Most Popular Female Artiste
     location: "Malaysia"
-    followers: 27854
-    engagement: 303
-    commentsToLikes: 0.054922
-    id: ck0vzrrafale30i19hgb2gxk2
+    followers: 24404
+    engagement: 400
+    commentsToLikes: 0.055114
+    id: ck15pg7ogxpvq0i19oh5jqzis
     verified: false
-    hashtags: "#tanskin, #kualalumpur, #scubadive, #mco"
+    hashtags: "#kitajagakita, #kitateguhkitamenang, #stayhome, #ongchingyee"
+  - username: "zulaikha.dsi"
+    fullname: >-
+      🐝• Z U L A I K H A  D S I •🐝
+    bio: >-
+      Wifey | Businesswomen | 2WNT4 Queencontrol @mohammadshafiqsha My little princess @dhiya.izarafellora New baby @eevokcosmeticshq
+    location: "Malaysia"
+    followers: 89668
+    engagement: 471
+    commentsToLikes: 0.005618
+    id: ck9wekqeekpbd0j78s8auz6a8
+    verified: false
+    hashtags: "#eevokcosmetics, #zulaikhadsiootd, #maskhave, #ikasha"
 ---

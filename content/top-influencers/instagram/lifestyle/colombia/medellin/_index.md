@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Medellín In 2022
+title: Top 10 Lifestyle Instagram Influencers In Medellín In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Medellín in 2022. Most popular hashtags: #colombia #medellin #lifestyle #bogota.
+  Find top lifestyle Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #lifestyle #colombia #love.
 platform: Instagram
-hits: 59
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 59 Instagram influencers like this in Medellín, Colombia for you to connect with.
+hits: 44
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 44 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
-  - username: "teolb.oficial"
+  - username: "jh_vahos"
     fullname: >-
-      TEO LB
+      ⓙⓗⓞⓝ  ⓥⓐⓗⓞⓢ 🔥
     bio: >-
-      Cantautor y Propietario @micheheladas.lb @barberialb @latienda.lb Si Quieres mi #music en YouTube entra a este link ⬇️⬇️⬇️⬇️
+      -📍 🄼🄳🄻🄻🄽 - 🄲🄾🄻 🇨🇴 -𝒂𝒎𝒐𝒓 𝒑𝒐𝒓 𝒍𝒐𝒔 𝒂𝒏𝒊𝒎𝒂𝒍𝒆𝒔 🐾👨🏻‍⚕️
     location: "Colombia"
-    followers: 141111
-    engagement: 316
-    commentsToLikes: 0.377067
-    id: ck8sxu17wintd0j78znqh8wi1
+    followers: 46527
+    engagement: 253
+    commentsToLikes: 0.012653
+    id: ck8t8sxu2lop50j78nutkgfcx
     verified: false
-    hashtags: "#life, #urban, #style, #challenges"
-  - username: "lucius.ph"
-    fullname: >-
-      ・ＬＵＣＩＵＳ • ＰＨ・
-    bio: >-
-      📸 Photographer portrait 📟 Audiovisual producer CALI・COL 📥Para sesiones info aquí 📥
-    location: "Colombia"
-    followers: 3817
-    engagement: 588
-    commentsToLikes: 0.036092
-    id: ck5zknppsjtci0i149c4cckq6
-    verified: false
-    hashtags: "#cali, #shotzports, #specialfilm, #burnmagazine"
-  - username: "sstyledco"
-    fullname: >-
-      Santiago Ospina
-    bio: >-
-      Colombiano 🇨🇴
-    location: "Colombia"
-    followers: 10106
-    engagement: 328
-    commentsToLikes: 0.082994
-    id: ck0w2mmesp4zh0i19bxee8skm
-    verified: false
-    hashtags: "#men, #ootd, #colombia, #danceclass"
-  - username: "technomedellin"
-    fullname: >-
-      TechnoMedellín
-    bio: >-
-      We 🖤 Techno #TechnoMedellin Medellín, Colombia 🇨🇴📍 Dale play a TechnoMedellin Podcast 002 ▶️👇🏻
-    location: "Colombia"
-    followers: 60075
-    engagement: 244
-    commentsToLikes: 0.025959
-    id: ckaor9cn1m9x40i786hridnkf
-    verified: false
-    hashtags: "#minimal, #happyweek, #lifestyle, #covid"
-  - username: "adrianatorresv"
-    fullname: >-
-      ADRIANA TORRES 🤍✨
-    bio: >-
-      🤍 Viniste a vivir con todo el Corazón🤍 ⭐️Confía más en tus sueños💫🙌🏻 💌 adrianatorresvargas@gmail.com Info Publicidad
-    location: "Colombia"
-    followers: 106790
-    engagement: 364
-    commentsToLikes: 0.021101
-    id: ck5hitifefau80i11u9dflva6
-    verified: false
-    hashtags: "#cartagena, #goodnight, #goodmorning, #weekend"
+    hashtags: "#coments, #goodvibes, #like, #gay"
   - username: "andresagudelo"
     fullname: >-
       Andres Agudelo
     bio: >-
       📍MED | COL Inline Speed Skater🏁 World Champion 🥇 ➡️AAA⬅️
     location: "Colombia"
-    followers: 5462
-    engagement: 778
-    commentsToLikes: 0.006711
+    followers: 5366
+    engagement: 753
+    commentsToLikes: 0.005585
     id: ck6u3pc0pz3kq0j71njrcq23m
     verified: false
-    hashtags: "#tourthefrance, #cyclinglifestyle, #stravaphoto, #bikeporn"
-  - username: "jorge_guerrero_ifbbpro_oficial"
+    hashtags: "#ride, #stravacycling, #tourthefrance, #ciclismoderuta"
+  - username: "grego_fit"
     fullname: >-
-      Jorge Guerrero IFBBPRO Oficial
+      Gregory Sanchez
     bio: >-
-      Campeon Mr. Mexico 2014 en 100kgs 6 títulos ABSOLUTOS NACIONALES IFBB PRO CLÁSIC @mrolympiasa Online coach send message
+      🏋🏻‍♂️Entrenador personal certificado 📜 🥇 🎥creador de contenido 🎥 Embajador de @purofitness_col @gregofit_priv cuenta personal Publicidad al DM
     location: "Colombia"
-    followers: 33381
-    engagement: 74
-    commentsToLikes: 0.022297
-    id: ck6udp4aumd8o0j71lap00zdm
+    followers: 23786
+    engagement: 355
+    commentsToLikes: 0.087552
+    id: ck15s338yaz3f0i19uarhjcpz
     verified: false
-    hashtags: "#mdnsports, #jlguerreroteam, #fitnessgym, #vanguardiadeportiva"
-  - username: "angelicaalmanzara"
+    hashtags: "#sierranevadadesantamarta, #cartagena, #humor, #travel"
+  - username: "leidysolis76kg"
     fullname: >-
-      Angélica Almánzar A
+      𝐋𝐞𝐢𝐝𝐲 𝐒𝐨𝐥𝐢𝐬
     bio: >-
-      Medellín - Colombia Music & Lifestyle 🧡❤️
+      LEVANTAMIENTO DE PESAS DEPORTISTA DE ALTO RENDIMIENTO TRIPLE CAMPEONA DEL MUNDO DOBLE CAMPEONA DEL MUNDO JUVENIL SUB CAMPEONA OLÍMPICA
     location: "Colombia"
-    followers: 47581
-    engagement: 412
-    commentsToLikes: 0.030357
-    id: ckap4srbu8pcd0i78wb4ipbmq
+    followers: 50244
+    engagement: 633
+    commentsToLikes: 0.022984
+    id: ck8sxy4enj3200j78wvhe5jjh
     verified: false
-    hashtags: "#locurachallenge, #quedateentuputacasa, #hazteuncambiodelook, #sinmiedo"
-  - username: "angela_bonilla_"
+    hashtags: "#worldchampion, #likelike, #crowd, #photooftheday"
+  - username: "technomedellin"
     fullname: >-
-      Angela Bonilla 💫
+      TechnoMedellín
     bio: >-
-      Bogotá, Colombia 🕹 @artderue_tattoo CEO : @estiloinefable 🔸 Good vibes✨
+      We 🖤 Techno #TechnoMedellin Medellín, Colombia 🇨🇴📍 Dale play a TechnoMedellin Podcast 002 ▶️👇🏻
     location: "Colombia"
-    followers: 17708
-    engagement: 1016
-    commentsToLikes: 0.025800
-    id: ck5pvbheuh2lh0i11cxmrdv0u
+    followers: 58408
+    engagement: 186
+    commentsToLikes: 0.021580
+    id: ckaor9cn1m9x40i786hridnkf
     verified: false
-    hashtags: "#medellin, #portrait, #bogota, #lifestyle"
-  - username: "amarilloocre1"
+    hashtags: "#night, #covid, #techno, #techhouse"
+  - username: "vane_eslava"
     fullname: >-
-      amarillo ocre
+      Vane Eslava
     bio: >-
-      Productos Originales CC el Diamante local 0112 Etapa 2 Cuenta aliada @aguamarina.tienda 🚫NO VENTAS AL MAYOR WhatsApp 3164437098 Link👇 directo
+      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
     location: "Colombia"
-    followers: 19674
-    engagement: 910
-    commentsToLikes: 0.022690
-    id: ck9haqx4ndpzh0j783nuk4lyv
+    followers: 43834
+    engagement: 236
+    commentsToLikes: 0.026712
+    id: ckf5su7thg7ru0j23e5gwo5dq
     verified: false
-    hashtags: ""
+    hashtags: "#model, #portrait, #love, #instagram"
+  - username: "lucius.ph"
+    fullname: >-
+      ・ＬＵＣＩＵＳ •
+    bio: >-
+      📸 Photographer portrait 📟 Audiovisual producer CALI・COL 📥Para sesiones info aquí 📥
+    location: "Colombia"
+    followers: 3732
+    engagement: 475
+    commentsToLikes: 0.028426
+    id: ck5zknppsjtci0i149c4cckq6
+    verified: false
+    hashtags: "#swag, #lifestyle, #bogota, #the35mmdiary"
+  - username: "danielrestrepogarcia"
+    fullname: >-
+      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
+    bio: >-
+      Nos vemos en Francia 🇫🇷 @paris2024 acompáñame a vivir un ciclo olímpico Campeón Panamericano Lima 2019 Campeón olímpico de la juventud 2018
+    location: "Colombia"
+    followers: 19827
+    engagement: 1020
+    commentsToLikes: 0.025376
+    id: ck8sxy4w6j33z0j78bo5e1iqo
+    verified: false
+    hashtags: "#me, #fit, #covid, #workout"
+  - username: "alejalopezmusic"
+    fullname: >-
+      ALEJA
+    bio: >-
+      CANTANTE 🎤 Electric Violinist 🎻 Manager @juanmedinaind - @laindustriainc Escucha aquí mi nueva canción #ModoBandi ❤️‍🔥👇🏼
+    location: "Colombia"
+    followers: 326469
+    engagement: 73
+    commentsToLikes: 0.017628
+    id: ck5ztq3p30x210i146rehofxe
+    verified: false
+    hashtags: "#mood, #modobandichallenge, #latina, #urbanmusic"
+  - username: "brianaceros"
+    fullname: >-
+      Brian Aceros
+    bio: >-
+      🔷️DESAFÍO SUPER REGIONES 2019 🔷️Modelo Fitness, Línea de ropa @acerosworkout 🥗🥦🍅Instructor DIETA 2 SEMANAS🍅🥦🥗 ⬇️⬇️DESCARGA TU DIETA⬇️⬇️
+    location: "Colombia"
+    followers: 18082
+    engagement: 174
+    commentsToLikes: 0.018988
+    id: ckf5uc22akc360j23mvemqqlo
+    verified: false
+    hashtags: "#workout, #bucaramanga, #model, #crossfit"
 ---

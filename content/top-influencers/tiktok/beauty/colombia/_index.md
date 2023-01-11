@@ -1,36 +1,36 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Colombia In 2022
+title: Top 10 Beauty TikTok Influencers In Colombia In 2023
 description: >-
-  Find top beauty TikTok influencers in Colombia in 2022. Most popular hashtags: #beauty #fyp #foryou #viral.
+  Find top beauty TikTok influencers in Colombia in 2023. Most popular hashtags: #beauty #fyp #trend #viral.
 platform: TikTok
-hits: 23
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 23 TikTok influencers like this in Colombia for you to connect with.
+hits: 21
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 21 TikTok influencers like this in Colombia for you to pitch.
 profiles:
   - username: "vivitorresv"
     fullname: >-
       Vivi Torres
     bio: >-
-      Beauty, Fashion, Mom, LifeStyle ⠀ Instagram: @ViviTorresv ⠀ YouTube ViviTorres
+      Muchos Tips Beauty✨Home🏡Fashion👠Mom👸🏼LifeStyle🌟 ⠀ Instagram @ViviTorresv
     location: "Colombia"
-    followers: 21000
-    engagement: 463
-    commentsToLikes: 0.012208
+    followers: 44800
+    engagement: 631
+    commentsToLikes: 0.012807
     id: ckb9brhpiy9ak0j23yep8v6im
     verified: false
-    hashtags: "#tiktokfamily, #kitchen, #family, #parati"
-  - username: "fersfantasy"
+    hashtags: "#pyt, #aprendeentiktok, #foryou, #tips"
+  - username: "kimberlyreyeshh"
     fullname: >-
-      fersfantasy 
+      Kimberly Reyes
     bio: >-
-      Sigueme en Instagram para que tu crush te ponga atención IG: Fersfantasy 💕
+      🎥 Actress and Beauty Blogger ! Welcome to my world 🌎🌸it’s full of unicorns🦄
     location: "Colombia"
-    followers: 617400
-    engagement: 1502
-    commentsToLikes: 0.012841
-    id: ckbb8skp3xxun0j2322cz6qbz
+    followers: 3000000
+    engagement: 1023
+    commentsToLikes: 0.003762
+    id: ck9rkldwetk4n0j78z8zqzbbs
     verified: true
-    hashtags: "#halloween, #halloweenmakeup, #beauty, #tiktokfashion"
+    hashtags: "#parati, #fyp, #foryourpage, #trend"
   - username: "alvarocardenas76"
     fullname: >-
       Alvaro Cardenas
@@ -42,31 +42,19 @@ profiles:
     commentsToLikes: 0.032025
     id: cka6m9v1s6ck90i78qp6i5q37
     verified: false
-    hashtags: "#boy, #menstyle, #latinboy, #body"
-  - username: "susana_tunes"
-    fullname: >-
-      susana_tunes
-    bio: >-
-      💋💄MakeUp Artist 📫 For inquires: susanatunes@gmail.com
-    location: "Colombia"
-    followers: 496000
-    engagement: 1222
-    commentsToLikes: 0.017053
-    id: ck8hkd3qbdfc00j78mm9umzkb
-    verified: false
-    hashtags: "#elproblema, #tiktokdice, #spookytreats, #emociones"
+    hashtags: "#love, #body, #creativity, #boy"
   - username: "marremusicoficial"
     fullname: >-
       Marremusic
     bio: >-
       Singer • Blogger • Pr
     location: "Colombia"
-    followers: 18800
-    engagement: 1286
-    commentsToLikes: 0.101613
+    followers: 31200
+    engagement: 1084
+    commentsToLikes: 0.043841
     id: ckbfflvvbadwu0j23snqwup8w
-    verified: false
-    hashtags: "#viral, #foryou, #dollskill, #latina"
+    verified: true
+    hashtags: "#foryou, #skincare, #fyp, #beauty"
   - username: "sophiegiraldo.of"
     fullname: >-
       Sophie Giraldo 
@@ -74,57 +62,69 @@ profiles:
       ❣️ Instagram: @sophiegiraldo Contacto: soalgime@gmail.com
     location: "Colombia"
     followers: 1400000
-    engagement: 1975
-    commentsToLikes: 0.006400
+    engagement: 1834
+    commentsToLikes: 0.007288
     id: cka7qgcgdap5d0i78ddrpazwv
     verified: true
-    hashtags: "#howto, #outfitchange, #aceptaelretofortikids, #bts"
-  - username: "ana_cozar"
+    hashtags: "#skincare, #outfits, #ootd, #outfit"
+  - username: "julimoralesl"
     fullname: >-
-      Espana927
+      julieth morales
     bio: >-
-      IFBB Nutrex Athlete Ryderwear Athlete WORKOUT ADVICE 💯
+      sígueme en Instagram 👆 💄quédate para que aprendamos juntas😍. ♏. 🇨🇴
     location: "Colombia"
-    followers: 364800
-    engagement: 736
-    commentsToLikes: 0.012016
-    id: ck9f1op5o90zy0j78ei5uin7k
-    verified: true
-    hashtags: "#core, #hardwork, #legsworkout, #sweat"
-  - username: "valuhenaoo1"
-    fullname: >-
-      Valu ⚡️
-    bio: >-
-      Instagram: Valuhenao1🤍 Los amoo!! 🤍
-    location: "Colombia"
-    followers: 532800
-    engagement: 1413
-    commentsToLikes: 0.003199
-    id: ckcejryswss9y0j23gvo9ecba
+    followers: 116400
+    engagement: 1083
+    commentsToLikes: 0.044645
+    id: ckberkykr9v4d0j23vldopc2j
     verified: false
-    hashtags: "#pt, #parati, #tiktok, #duet"
+    hashtags: "#humor, #lentejas, #makeup, #cambiodelook"
+  - username: "susana_tunes"
+    fullname: >-
+      susana_tunes
+    bio: >-
+      💋💄MakeUp Artist 📫 For inquires: susanatunes@gmail.com
+    location: "Colombia"
+    followers: 666900
+    engagement: 1461
+    commentsToLikes: 0.010258
+    id: ck8hkd3qbdfc00j78mm9umzkb
+    verified: false
+    hashtags: "#relacionperfecta, #sanvalentin, #mua, #beautytips"
+  - username: "yeissonsblog"
+    fullname: >-
+      YeissonSblog
+    bio: >-
+      📍Colombia 🇨🇴 Reinas 👸🏻 Reinados 👑 Humor 🤣 sígueme en instagram ⏬⬇️
+    location: "Colombia"
+    followers: 20900
+    engagement: 778
+    commentsToLikes: 0.017766
+    id: ckb9lg9pmdy9k0j23v6ha3gjo
+    verified: false
+    hashtags: "#barranquilla, #colombiana, #missuniverso, #preguntas"
   - username: "clauenciso_"
     fullname: >-
       Claudia Enciso
     bio: >-
       🇻🇪 Diseñadora gráfica | Esteticista | Modelo INSTAGRAM: clauenciso_ Bogotá📍
     location: "Colombia"
-    followers: 82200
-    engagement: 588
-    commentsToLikes: 0.032516
+    followers: 81700
+    engagement: 587
+    commentsToLikes: 0.031338
     id: ckbfhetl7cu3m0j23d8t4kiau
     verified: false
-    hashtags: "#bogota, #autocuidado, #fyp, #skincare"
-  - username: "mariacarolinapolo"
+    hashtags: "#fyp, #colombia, #tiendasd1, #bogota"
+  - username: "julian.cal"
     fullname: >-
-      Maria Carolina Polo
+      JULIÁN
     bio: >-
-      las estrellas dicen que los fugaces somos nosotros 🪐
+      FROM 🇨🇴 TO THE 🌎 “El Niño pijo”
     location: "Colombia"
-    followers: 2124
-    engagement: 490
-    commentsToLikes: 0.041272
-    id: ckac6zfcjeg5o0i78378v214f
+    followers: 1200000
+    engagement: 1987
+    commentsToLikes: 0.016839
+    id: ckceip84lr3g70j23n1vu5jhs
     verified: false
-    hashtags: "#parati, #cuarentena, #foryoupage, #fyp"
+    hashtags: "#dance, #boy, #juliancal, #colombia"
 ---

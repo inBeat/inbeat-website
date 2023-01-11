@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Seoul In 2022
+title: Top 10 Models TikTok Influencers In Seoul In 2023
 description: >-
-  Find top models TikTok influencers in Seoul in 2022. Most popular hashtags: #model #fyp #korea #foryou.
+  Find top models TikTok influencers in Seoul in 2023. Most popular hashtags: #model #korea #fyp #foryou.
 platform: TikTok
-hits: 5
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 5 TikTok influencers like this in Seoul, South Korea for you to collaborate.
+hits: 4
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 4 TikTok influencers like this in Seoul, South Korea for you to contact.
 profiles:
   - username: "ooohrena"
     fullname: >-
@@ -13,48 +13,36 @@ profiles:
     bio: >-
       Model Seoul, Korea. From 🇧🇷 Brazil
     location: "South Korea"
-    followers: 119600
-    engagement: 1002
-    commentsToLikes: 0.013603
+    followers: 117200
+    engagement: 769
+    commentsToLikes: 0.015921
     id: ckbf9cjvx06xs0j234b4nc614
     verified: false
-    hashtags: "#model, #brazilian, #korea, #dueto"
-  - username: "itsleonardlim"
-    fullname: >-
-      Leonard Lim
-    bio: >-
-      Currently in: Seoul Model, Former Athlete, and Entrepreneur
-    location: "South Korea"
-    followers: 4486
-    engagement: 674
-    commentsToLikes: 0.022460
-    id: ck9fq4cjqaiev0j78g02wzvah
-    verified: false
-    hashtags: "#foryou, #justforyou, #fyp, #foryoupage"
+    hashtags: "#korea, #model, #brazilian, #duet"
   - username: "nastya.jung"
     fullname: >-
       Nana
     bio: >-
-      한국에 사는 나나에요 🌸 Russian model living in Korea Instagram:Nastya.jung
+      아나스타샤 Instagram:Nastya.jung
     location: "South Korea"
-    followers: 127100
-    engagement: 617
-    commentsToLikes: 0.020821
+    followers: 126600
+    engagement: 570
+    commentsToLikes: 0.022193
     id: ckb8ybc5edn270j233j1ywvbq
     verified: false
-    hashtags: "#korea, #onemillionauditionkr, #foryou, #recomendation"
+    hashtags: "#model, #recommendation, #korea, #foryou"
   - username: "jiejie_seoul"
     fullname: >-
       서울언니
     bio: >-
       ✨✨✨
     location: "South Korea"
-    followers: 65100
-    engagement: 461
-    commentsToLikes: 0.025538
+    followers: 64700
+    engagement: 448
+    commentsToLikes: 0.026511
     id: ck920job4ehg80j7839rxyklr
     verified: false
-    hashtags: "#model, #fyp, #fup, #tlog"
+    hashtags: "#10, #femalemodel, #tlog, #fup"
   - username: "minton_harin"
     fullname: >-
       김하린
@@ -62,69 +50,81 @@ profiles:
       𝕂𝕀𝕄 ℍ𝔸ℝ𝕀ℕ 金荷潾 𝕄𝕪 𝕙𝕠𝕓𝕓𝕪 𝕚𝕤 𝕓𝕒𝕕𝕞𝕚𝕟𝕥𝕠𝕟. 민턴하린
     location: "South Korea"
     followers: 17000
-    engagement: 273
-    commentsToLikes: 0.006179
+    engagement: 277
+    commentsToLikes: 0.005739
     id: ckbqdf7nrzcur0j23f145kr7o
     verified: false
-    hashtags: "#tiktok, #flex, #tiktokkorea, #yonex"
-  - username: "iamjina_kim"
+    hashtags: "#badmintonlovers, #model, #sports, #badminton"
+  - username: "evan185_"
     fullname: >-
-      Jina kim 김지나
+      거니거니☘️
     bio: >-
-      MODEL
+      Korean🇰🇷 model.
     location: "South Korea"
-    followers: 420900
-    engagement: 647
-    commentsToLikes: 0.024393
-    id: ck8nbet0l9jop0j78u56elr2q
-    verified: true
-    hashtags: "#asian, #korea, #fyp, #korean"
-  - username: "jun.haem"
-    fullname: >-
-      정현 HYUN
-    bio: >-
-      2019 Mister international korea🇰🇷 fitness model DJ
-    location: "South Korea"
-    followers: 789400
-    engagement: 1199
-    commentsToLikes: 0.035546
-    id: ckbqloqlr6u6u0j23dirxgmzr
-    verified: true
-    hashtags: "#exercise, #fittok, #abs, #bts"
+    followers: 135700
+    engagement: 1312
+    commentsToLikes: 0.056904
+    id: ckcofxaxn2z700j23dj5t0obl
+    verified: false
+    hashtags: "#transformation, #tanness, #dancemachine, #shooting"
   - username: "hayoungbeen"
     fullname: >-
       Hayoung Been
     bio: >-
       Hi I'm Hayoung. I'm a pianist, composer, singer and a model. Nice to enter here♡
     location: "South Korea"
-    followers: 8658
-    engagement: 907
-    commentsToLikes: 0.130212
+    followers: 8975
+    engagement: 823
+    commentsToLikes: 0.143160
     id: ck9jzci2g84xk0j78b6giyzxt
     verified: false
-    hashtags: "#singer, #girl, #dance, #youtuber"
-  - username: "evan185_"
+    hashtags: "#model, #foryou, #dance, #singer"
+  - username: "iamalexischang"
     fullname: >-
-      EVAN🧡
+      Alexis 🧚‍♀️
     bio: >-
-      Korean model.🙌🏻🧡
+      chicago Korean American Model Clubhouse/ 클럽하우스: @iamalexischang 악플= 악플 답변
     location: "South Korea"
-    followers: 134900
-    engagement: 1290
-    commentsToLikes: 0.032765
-    id: ckcofxaxn2z700j23dj5t0obl
+    followers: 34200
+    engagement: 959
+    commentsToLikes: 0.041537
+    id: ckc82n7mh3c850j232nz87srs
     verified: false
-    hashtags: "#model, #koreaman, #korea, #g9"
-  - username: "jack00426"
+    hashtags: "#trend, #xyzbca, #alexis, #fyp"
+  - username: "iamjina_kim"
     fullname: >-
-      jackson
+      Jina kim 김지나
     bio: >-
-      황성현/ Jackson 🇰🇷/21 🇺🇸/19 model / hotelier 👫International couple💞
+      MODEL 💌 tiktok@uzurocks.com
     location: "South Korea"
-    followers: 34800
-    engagement: 1473
-    commentsToLikes: 0.032809
-    id: ckb18ycq1wxl30j23jrzlix6d
+    followers: 506800
+    engagement: 812
+    commentsToLikes: 0.048025
+    id: ck8nbet0l9jop0j78u56elr2q
+    verified: true
+    hashtags: "#korean, #koreangirl, #fyp, #korea"
+  - username: "b4dape"
+    fullname: >-
+      역시는역시
+    bio: >-
+      KOREAN 🇰🇷 MODEL / DJ CONTACT DM 📩
+    location: "South Korea"
+    followers: 380500
+    engagement: 1377
+    commentsToLikes: 0.017082
+    id: ckbqnyoob8ojd0j23tx6qjyqy
     verified: false
-    hashtags: "#fyp, #bts, #dynamite, #duet"
+    hashtags: ""
+  - username: "ooohrena"
+    fullname: >-
+      Renata Uchôa
+    bio: >-
+      Model Seoul, Korea. From 🇧🇷 Brazil
+    location: "South Korea"
+    followers: 117200
+    engagement: 769
+    commentsToLikes: 0.015921
+    id: ckbf9cjvx06xs0j234b4nc614
+    verified: false
+    hashtags: "#korea, #model, #brazilian, #duet"
 ---

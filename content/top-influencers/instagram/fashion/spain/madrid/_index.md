@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Madrid In 2022
+title: Top 10 Fashion Instagram Influencers In Madrid In 2023
 description: >-
-  Find top fashion Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #fashion #moda #style.
+  Find top fashion Instagram influencers in Madrid in 2023. Most popular hashtags: #fashion #madrid #model #love.
 platform: Instagram
-hits: 336
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 336 Instagram influencers like this in Madrid, Spain for you to connect with.
+hits: 239
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 239 Instagram influencers like this in Madrid, Spain for you to contact.
 profiles:
-  - username: "sweetmadness_sv"
+  - username: "pasoapasoblog"
     fullname: >-
-      𝚂𝚊𝚛𝚊𝚒 𝚅𝚎𝚐𝚊
+      • NATALIA MAQUIEIRA •
     bio: >-
-      📲👩🏼‍💻|Gestión RRSS 🏥💉|Work HSM 👠🥻|Imᥲgᥱ ᥴoᥒsᥙᥣtᥲᥒt . Descuento 📬 @thecolvinco SARAI52291 ~🏢 Cofunder @vera_community2019 📲
+      📸 Fashion | deco | travels | lifestyle 🏙 Pontevedra, España ✉️ pasoapaso@twic.es ⚡️ CEO @pasoapaso_agency
     location: "Spain"
-    followers: 6986
-    engagement: 724
-    commentsToLikes: 0.257498
-    id: ck5zminjpmn5u0i14bnqxou7g
+    followers: 149948
+    engagement: 150
+    commentsToLikes: 0.033033
+    id: ck15tz8k3kmxz0i19okrfynqk
     verified: false
-    hashtags: "#style, #basic, #monday, #moda"
-  - username: "monicasors"
+    hashtags: "#deco, #newlight, #decor, #decoracion"
+  - username: "aisder"
     fullname: >-
-      MONICA
+      Aisder🎀 LM. Esther
     bio: >-
-      🇪🇸 ᴮᶜᴺ / ᴹᴬᴰᴿᴵᴰ / ᴸᴬ 📩 Collabs: monicasors@palomajuanesdigital.com Founder @monicasorsthebrand & @ohh_friday TikTok: Monicasors
+      Aficionada a la Fotografia 📷, la pintura 🎨y la lectura 📚 Viajes ✈️ Moda 👗. 60. Superabuela 👧🏻👦🏻👧🏻👦🏻
     location: "Spain"
-    followers: 476468
-    engagement: 186
-    commentsToLikes: 0.449503
-    id: ck6u11qgij1im0j71bvqdd01t
-    verified: true
-    hashtags: "#fashion, #madrid, #ootd, #autumnlook"
-  - username: "beatriz_tajuelo"
-    fullname: >-
-      𝙱 𝚎 𝚊 𝚝 𝚛 𝚒 𝚣    𝚃 𝚊 𝚓 𝚞 𝚎 𝚕 𝚘
-    bio: >-
-      ✨ Persiguiendo sueños 📬 beatriztajuelo@nosolounaidea.com 👇🏼 Mis recomendaciones 💖
-    location: "Spain"
-    followers: 11042
-    engagement: 388
-    commentsToLikes: 0.182508
-    id: ck6u7298hj2060j71t13oshys
+    followers: 10689
+    engagement: 494
+    commentsToLikes: 0.466834
+    id: ck5zt4qdazqht0i14ivm0no6c
     verified: false
-    hashtags: "#lasletrasstreet, #fashion, #madrid, #moda"
-  - username: "josereyactor"
+    hashtags: "#fashionstyle, #summertime, #fashion, #madrid"
+  - username: "josereyact"
     fullname: >-
       Jose Rey
     bio: >-
-      ➡️Actor 🎭 ➡️Modelo 🇪🇸 ➡️Presentador 🎙️ 📩 info@rimmeo.com
+      ✨Bienvenid@ a mi juego. Mi proceso. Actúo✨ 📩 info@rimmeo.com
     location: "Spain"
-    followers: 18516
-    engagement: 742
-    commentsToLikes: 0.038624
+    followers: 18341
+    engagement: 670
+    commentsToLikes: 0.042400
     id: ck6uap1h14ter0j71k4cf7ye9
     verified: false
-    hashtags: "#love, #modelfitness, #modelespa, #photography"
-  - username: "madfit_lifestyle"
+    hashtags: "#love, #glamoure, #travelislife, #modelespa"
+  - username: "madeinvideo"
     fullname: >-
-      María De La Cámara
+      Destination wedding Filmmakers
     bio: >-
-      •FitMom Lifestyle •OCR & Triathlon •Crossfit & Climbing •🔜 Maraton •@spartanracees Ambassador 🇪🇸 •@noccospain Athlete •@wodndone •@enervitsportspain
+      🎥 Couple & creative team 👫 Jonas&Esther 📍From Mallorca to the 🌍 📃info@madeinvideo.es 2021: Venice/ Florence/Gibraltar/Santorini/Amalfi/Miami
     location: "Spain"
-    followers: 69635
-    engagement: 197
-    commentsToLikes: 0.034043
-    id: ck5cjzhmnvt6a0i115ka23dhz
+    followers: 11432
+    engagement: 341
+    commentsToLikes: 0.139225
+    id: ck0vw0remrlbq0i190kon7770
     verified: false
-    hashtags: "#bouldering, #spartan, #spartanrace, #saturday"
-  - username: "alejandrodemigueloficial"
+    hashtags: "#weddingfilm, #destinationweddingplanner, #weddingphotographer, #spainwedding"
+  - username: "mariobeniteez"
     fullname: >-
-      Alejandro de Miguel
+      MARIO BENÍTEZ ⚡
     bio: >-
-      Diseñador de moda español 📍Atelier Madrid, Ayala, 15 📍Atelier Miguel Esteban (Toledo) 📍Toledo, Colombia, 23 📍Ciudad Real, Postas, 4
+      • | Perspectiva. • | Sevilla 🇪🇸
     location: "Spain"
-    followers: 33843
-    engagement: 129
-    commentsToLikes: 0.044143
-    id: ck5c04wqlsgew0i11kt3e39yf
+    followers: 24048
+    engagement: 203
+    commentsToLikes: 0.045013
+    id: ck5qbvqfbnm780i11klzqkg75
     verified: false
-    hashtags: "#coleccion2022, #weddingdress, #modaespa, #amedida"
+    hashtags: "#half, #faro, #vans, #vemiputoreels"
+  - username: "danisanzfoto"
+    fullname: >-
+      Dani Sanz
+    bio: >-
+      Workshops - Nightmountain "In love with portrait & nature" 🎤Artist🎸🏞️Landscape-nightphoto🌌💇Fashion💄 📷Based in Madrid📷 #fashionphotography #nightphoto
+    location: "Spain"
+    followers: 6028
+    engagement: 988
+    commentsToLikes: 0.093584
+    id: ck6ty2clz1a3r0j71n88n3i7j
+    verified: false
+    hashtags: "#livelovespain, #longexpoadventure, #posing, #hairstyle"
+  - username: "imbluethepoodle"
+    fullname: >-
+      Viaja con Blue 🐕 y Paula 👩🏻‍🦰
+    bio: >-
+      🏔Síguenos y descubre todas nuestras aventuras y planes #dogfriendly 🏔 📍Madrid 👇🏻¡No te lo pierdas!👇🏻
+    location: "Spain"
+    followers: 12382
+    engagement: 288
+    commentsToLikes: 0.267270
+    id: ckaot2c2gu2az0i78nt9dbsi0
+    verified: false
+    hashtags: "#dogaccessories, #cute, #dogsofinstagram, #dogphotography"
   - username: "kattydacosta"
     fullname: >-
-      Katherin Da Costa
+      Katherin Da costa
     bio: >-
-      Madrid Fashion & LifeStyle Blogger. 📩 Dacostak.98@gmail.com Venezuela 🇻🇪 . Madrid📍. ⬇️Sigueme en ⬇️
+      Madrid Fashion & LifeStyle Blogger. 23. 📩 Dacostak.98@gmail.com Madrid📍. ⬇️Sigueme en ⬇️
     location: "Spain"
-    followers: 8597
-    engagement: 729
-    commentsToLikes: 0.043281
+    followers: 8336
+    engagement: 483
+    commentsToLikes: 0.016286
     id: ck5hizi4jfqmc0i11kgy7ksub
     verified: false
-    hashtags: "#food, #photooftheday, #madrid, #outfits"
-  - username: "steffysille"
-    fullname: >-
-      Steffy Sille
-    bio: >-
-      “En mi vida, solo quiero personas que caminen con el corazón descalzo” ❤️ 🌍 Travel 🍔 Food 👠 Fashion 📍Madrid 🇪🇸 🤱nacida-Ceuta ❤️Sevillana de ❤️
-    location: "Spain"
-    followers: 16957
-    engagement: 312
-    commentsToLikes: 0.029269
-    id: ck8t7lbsgh8d40j78na9g4qld
-    verified: false
-    hashtags: "#viajar, #fashionbloggerstyle, #instapic, #viajaresvivir"
+    hashtags: "#instafashion, #fun, #currentlywearing, #lookoftheday"
   - username: "pezones.revueltos"
     fullname: >-
       Maria Bueno
     bio: >-
       FASHION ARTIST. Madrid.
     location: "Spain"
-    followers: 151256
-    engagement: 240
-    commentsToLikes: 0.009010
+    followers: 146274
+    engagement: 183
+    commentsToLikes: 0.007870
     id: ckap98zvwrntg0i78pdv38760
     verified: true
     hashtags: ""
-  - username: "aratrendystyle"
+  - username: "sergiohm8"
     fullname: >-
-      Ara ✨ 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖢𝗋𝖾𝖺𝗍𝗈𝗋
+      Sergio Hernández Morales
     bio: >-
-      ⭐️Soñadora e Inspiradora💫📍#madrid #Fashion • #Beauty • #Lifestyle 📧Contact: byarastyle@gmail.com ⬇️Nos vemos en⬇️
+      
     location: "Spain"
-    followers: 4218
-    engagement: 1230
-    commentsToLikes: 0.079699
-    id: ckap09bo8pbhx0i78jhkkadje
+    followers: 9037
+    engagement: 1252
+    commentsToLikes: 0.075302
+    id: ckap4ii177j430i788fyatpgp
     verified: false
-    hashtags: "#looks, #stradivarius, #streetstyle, #viernes"
+    hashtags: "#tenerife, #igerstenerife, #blancoynegro, #lanzarote"
 ---

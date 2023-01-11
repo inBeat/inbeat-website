@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers TikTok Influencers In United Kingdom In 2022
+title: Top 10 Divers TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top divers TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top divers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #diving #foryoupage.
 platform: TikTok
-hits: 49
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database has 49 TikTok influencers like this in United Kingdom for you to work with.
+hits: 248
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 248 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "diversityofficial"
-    fullname: >-
-      “We are Diversity.”
-    bio: >-
-      https:/www.ticketmaster.co.uk/diversity-connected www.20dv.co.uk BLM👇🏽
-    location: "United Kingdom"
-    followers: 67000
-    engagement: 972
-    commentsToLikes: 0.019994
-    id: cka0lit71r91i0i78kve30p45
-    verified: false
-    hashtags: "#diversityjuniors, #dvfam, #dv, #dvj"
-  - username: "diversityfan"
-    fullname: >-
-      Diversity ❤️
-    bio: >-
-      A fan for diversity :)
-    location: "United Kingdom"
-    followers: 19500
-    engagement: 1038
-    commentsToLikes: 0.020489
-    id: ckbkrqqvlmgzp0j23dxwb3aqs
-    verified: false
-    hashtags: "#20dv, #bgt, #perrikiely, #samcraske"
   - username: "yonakw"
     fullname: >-
       Yona Knight-Wisdom
     bio: >-
       🇯🇲 Diver CEO of dipping the board Here for the good, the bad and the ugly
     location: "United Kingdom"
-    followers: 112100
-    engagement: 895
-    commentsToLikes: 0.013318
+    followers: 138300
+    engagement: 809
+    commentsToLikes: 0.020024
     id: cka0livkvr9p70i781b9p8vcn
     verified: false
-    hashtags: ""
+    hashtags: "#fyp, #foryou, #madrid, #diving"
+  - username: "diversityofficial"
+    fullname: >-
+      “We are Diversity.”
+    bio: >-
+      2022 https:/www.ticketmaster.co.uk/diversity-connected www.20dv.co.uk BLM👇🏽
+    location: "United Kingdom"
+    followers: 72500
+    engagement: 893
+    commentsToLikes: 0.022932
+    id: cka0lit71r91i0i78kve30p45
+    verified: false
+    hashtags: "#diversity, #foryoupage, #dv, #fy"
+  - username: "diversityfan"
+    fullname: >-
+      Diversity ❤️
+    bio: >-
+      A fan for diversity :)
+    location: "United Kingdom"
+    followers: 19800
+    engagement: 1021
+    commentsToLikes: 0.018498
+    id: ckbkrqqvlmgzp0j23dxwb3aqs
+    verified: false
+    hashtags: "#foryoupage, #jordanbanjo, #foryou, #fyp"
   - username: "rosshaslam"
     fullname: >-
       Ross Haslam
     bio: >-
-      22•🇬🇧•Diver Insta: @rosshaslam 🙏
+      Diver 🇬🇧 Insta: @rosshaslam 🙏
     location: "United Kingdom"
-    followers: 27000
-    engagement: 1461
-    commentsToLikes: 0.011342
+    followers: 32000
+    engagement: 1407
+    commentsToLikes: 0.014977
     id: ck8z6rcfnn9010j787uqk4koy
     verified: false
-    hashtags: "#viral, #slowmotion, #wipeout, #foru"
-  - username: "sambuca54"
-    fullname: >-
-      Sam Buca
-    bio: >-
-      CEO of not adding anything to the video Diverse Content from Comedy😂 to Horror?
-    location: "United Kingdom"
-    followers: 8175
-    engagement: 1005
-    commentsToLikes: 0.012135
-    id: ckb9bqjxdy57o0j23u6pffm22
-    verified: false
-    hashtags: "#foryou, #kidsoftiktok, #tiktoktraditions, #comedy"
+    hashtags: "#slowmotion, #sport, #divein, #sportlife"
   - username: "jordbanjo"
     fullname: >-
       Jordan Banjo
     bio: >-
       Dad, dancer, presenter. Diversity. Novice tiktoker.
     location: "United Kingdom"
-    followers: 244600
-    engagement: 981
-    commentsToLikes: 0.006960
+    followers: 294600
+    engagement: 1159
+    commentsToLikes: 0.007010
     id: ck8ae3iwa9hvn0j78g8v874of
     verified: true
-    hashtags: "#foryou, #fyp, #foryourpage, #kids"
+    hashtags: "#cocomelon, #cocomelonchallenge, #ebay, #valentines"
   - username: "jackdlaugher"
     fullname: >-
       JackDLaugher
     bio: >-
       🥇OLYMPIC GOLD MEDALIST🥇 🇬🇧BRITISH DIVER🇬🇧
     location: "United Kingdom"
-    followers: 71100
-    engagement: 642
-    commentsToLikes: 0.012669
+    followers: 72800
+    engagement: 661
+    commentsToLikes: 0.013734
     id: ckbw73iw7you50j231941tvhj
     verified: true
-    hashtags: "#foryou, #xyzbca, #fyp, #motivation"
+    hashtags: "#progress, #fyp, #viral, #sports"
+  - username: "tomdaley"
+    fullname: >-
+      Tom Daley
+    bio: >-
+      I Dive.
+    location: "United Kingdom"
+    followers: 324900
+    engagement: 811
+    commentsToLikes: 0.006927
+    id: ck81s8lkmqu3u0j78yonjeh3u
+    verified: true
+    hashtags: "#houseoftiktok, #tomdaley, #fyp, #diving"
+  - username: "sahfy_"
+    fullname: >-
+      SAHFY
+    bio: >-
+      Music Artist and Dancer 🌴 Spread peace not war🎤❤️ Soca/dancehall lover 🇬🇧
+    location: "United Kingdom"
+    followers: 4987
+    engagement: 2229
+    commentsToLikes: 0.584508
+    id: ckbb5wo6cw3690j23y1712u5r
+    verified: false
+    hashtags: "#duet, #bellydance, #sahfy, #waistline"
+  - username: "stewartheaton"
+    fullname: >-
+      Stewart Heaton
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿🌈🐺⛓ Scottish If you're here, drop a follow 👆 Here for 🤣
+    location: "United Kingdom"
+    followers: 12900
+    engagement: 1917
+    commentsToLikes: 0.424334
+    id: ckck4vam7phyg0j23y33u01i7
+    verified: false
+    hashtags: "#laugh, #stus, #blindreact, #fyp"
   - username: "thebookmarvel"
     fullname: >-
       Ethan
     bio: >-
       He/him 21 TikToks about books because that’s the content we need📚🏳️‍🌈📖
     location: "United Kingdom"
-    followers: 14800
-    engagement: 1852
-    commentsToLikes: 0.066568
+    followers: 16500
+    engagement: 1830
+    commentsToLikes: 0.068203
     id: ckd096wwibgi30j23sr4ifb2c
     verified: false
-    hashtags: "#diversebooks, #books, #bookunboxing, #bookhumor"
-  - username: "princecosplay"
-    fullname: >-
-      Princecosplay
-    bio: >-
-      Unapologetically black Safe space for women, LGBTQ and POC 102k IG : eyes1898
-    location: "United Kingdom"
-    followers: 23100
-    engagement: 2045
-    commentsToLikes: 0.083512
-    id: ckd6wfycts7g50j2326azu3pd
-    verified: false
-    hashtags: "#snowbunny, #duet, #karen, #darkskin"
-  - username: "torie_snelvis"
-    fullname: >-
-      Victoria Snell
-    bio: >-
-      Also on Instagram as torie_snelvis
-    location: "United Kingdom"
-    followers: 2560
-    engagement: 758
-    commentsToLikes: 0.065972
-    id: ckdbs11z4ccx90j23qggeemrl
-    verified: false
-    hashtags: "#amputeelife, #voiceeffects, #disabledtiktok, #greysanatomy"
+    hashtags: "#duet, #yabooks, #fyp, #books"
 ---

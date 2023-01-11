@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Mumbai In 2022
+title: Top 10 Yoga Instagram Influencers In Mumbai In 2023
 description: >-
-  Find top yoga Instagram influencers in Mumbai in 2022. Most popular hashtags: #yoga #mumbai #india #mumbaiyoga.
+  Find top yoga Instagram influencers in Mumbai in 2023. Most popular hashtags: #yoga #mumbai #fashion #love.
 platform: Instagram
-hits: 110
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database has 110 Instagram influencers like this in Mumbai, India for you to work with.
+hits: 80
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 80 Instagram influencers like this in Mumbai, India for you to work with.
 profiles:
-  - username: "sunaina_rekhi"
+  - username: "nishankguptaaa"
     fullname: >-
-      Sunaina Rekhi| Yoga & Wellness
+      👑 Nishank Gupta 👑
     bio: >-
-      ⁣⁣🔸Yoga Therapist| Psychotherapist 🔹 Wellness Influencer 🔸 Represented India at the 𝐔𝐍🇺🇳⁣⁣⁣ in 2019 and 2020 for Yoga 🔹Watch me @disneyplushotstar
+      NEVER GIVE UP ✌ DM for paid promotion and collaboration 👇👇 📩Manged By : @zindagi.ki.sacchaai
     location: "India"
-    followers: 61112
-    engagement: 86
-    commentsToLikes: 0.033910
-    id: ck6trxaw01lsw0j711k9z3e1b
+    followers: 8092
+    engagement: 578
+    commentsToLikes: 0.170968
+    id: ckap20rarwvui0i782f91fncj
     verified: false
-    hashtags: "#life, #yogapractice, #laughteristhebestmedicine, #yogaforbackpain"
-  - username: "anshukayoga"
+    hashtags: "#potraitphotography, #trending, #photography, #beautiful"
+  - username: "rakul.preet143"
     fullname: >-
-      Anshuka Parwani
+      Rakul Preet 💙
     bio: >-
-      Celebrity Trainer / Wellness Expert / Tedx Speaker / National Swimming Champion/ Pilot 👩‍✈️ 🧘‍♀️🧘‍♂️🤸‍♀️🤸🏾 — Wellness Retreats • Workshops • Events
+      This is the Fan Club of Tollywood Star Rakul Preet Singh On insta.Follow us for Exclusive News,pic & Videos About Rakulpreet YouTube 👇
     location: "India"
-    followers: 108542
-    engagement: 133
-    commentsToLikes: 0.019971
-    id: ck14jnb8xl7q30i191u4iu3v1
+    followers: 847338
+    engagement: 108
+    commentsToLikes: 0.002647
+    id: ck5bwoe88m3d40i11ytygrn7s
+    verified: false
+    hashtags: "#hyderabad, #saipallavi, #samanthaakkineni, #repost"
+  - username: "nishayogini"
+    fullname: >-
+      Nisha Dhaundiyal
+    bio: >-
+      25nov🎂 @mtvroadies Roadies Revolution 👑 Fuelled 💪 by @muscleblaze MissChd.🥇Fitnessmodel💪 Yoga Expert🤸PET🧑‍🏫 PaidCollaboration 📧
+    location: "India"
+    followers: 219164
+    engagement: 506
+    commentsToLikes: 0.011972
+    id: ck8tbtcfpx2720j78h3e7a1av
+    verified: false
+    hashtags: "#reels, #trendingpic, #positivevibes, #lifestyleblogger"
+  - username: "moryamajha"
+    fullname: >-
+      Morya Majha | INDIA
+    bio: >-
+      ● Official INSTAGRAM Page ● Mumbai, Maharashtra & India's Favourite #Ganpati Page . ◆ Use Hashtag - #Moryamajha ◆ Dm for Promotions / Collaborations
+    location: "India"
+    followers: 27796
+    engagement: 350
+    commentsToLikes: 0.013170
+    id: ck14j2t2gicdu0i198h80mtxh
+    verified: false
+    hashtags: "#ganesha, #ganeshutsav2020, #mumbaibizarre, #panjim"
+  - username: "barkhasingh0308"
+    fullname: >-
+      Barkha Singh
+    bio: >-
+      Actor | Content creator | Traveller Carpe Diem ✨ 🗺️ Travel. Lifestyle. Fashion. Animal lover ❤ Environmentalist 🌿 Karma 🙏 My session - Graphy select 👇
+    location: "India"
+    followers: 2593183
+    engagement: 766
+    commentsToLikes: 0.002536
+    id: ck5ztqryn0yaq0i149lsvd6bp
     verified: true
-    hashtags: "#dogyoga, #yogatutorial, #inversions, #yogatips"
-  - username: "sheriffjahnavi"
+    hashtags: "#staystylish, #tuesday, #partnered, #rooftop"
+  - username: "nehaiyerofficial"
     fullname: >-
-      Jahnavi Sheriff Saisuresh
+      Neha Sharma Iyer 💫🧿
     bio: >-
-      Student for Life. Yoga. Dance. Smash Dem Crew #indiangyalwine #theyogasheriff
+      On the journey to myself I've been so many people 🕊🌈 Actor | Model | Radio Jockey | Anchor | Single Mum💕 Grief Survivor 💟 Personal Blog 📸✍
     location: "India"
-    followers: 35845
-    engagement: 277
-    commentsToLikes: 0.021847
-    id: ck6tof8mldqre0j71vn7zz143
-    verified: false
-    hashtags: "#yogapractise, #theyogasheriff, #mssheriff, #danceindia"
-  - username: "nishthabijlani"
+    followers: 107984
+    engagement: 316
+    commentsToLikes: 0.020324
+    id: ck14iypdohs7x0i19hnrk4ckn
+    verified: true
+    hashtags: "#saree, #reels, #reelitfeelit, #reelkarofeelkaro"
+  - username: "parthivgohil9"
     fullname: >-
-      Nishtha Bijlani | Yoga 🧘‍♀️
+      Parthiv Gohil
     bio: >-
-      Yoga | Ayurveda | Mindful Living 500 RYT • Bombay 🇮🇳 • Online Classes & Live Collabs✨ YouTube Videos⬇️
+      Singer Explorer Entrepreneur. I believe in making my opportunities not waiting for them. Passionate about the world music & Holistic life. Evolving...
     location: "India"
-    followers: 27246
-    engagement: 532
-    commentsToLikes: 0.048768
-    id: ck14lrnhdw5i50i19ekvm6bhh
-    verified: false
-    hashtags: "#selfcare, #release, #igyogacommunity, #yogatutorial"
-  - username: "yeh_pitega"
-    fullname: >-
-      Dheeraj soni
-    bio: >-
-      Mainly Silhouette🤟 #yeh_pitega . Mail/dm for collaboration Dheerajsoni509@gmail.com . From:- chirawa
-    location: "India"
-    followers: 11012
-    engagement: 1509
-    commentsToLikes: 0.092501
-    id: ck6tim2ls0z570j7115iwah9d
-    verified: false
-    hashtags: "#storiesofindia, #big, #capturedoncanon, #mobile"
-  - username: "aartsgallery"
-    fullname: >-
-      ART FEATURING PAGE
-    bio: >-
-      FEATURE WORLDWIDE ARTWORKS 👉 DM FOR PORTRAIT OR ANYART ✈️ SHIPPING ALL OVER THE WORLD 💰 DM FOR PAID COLLAB/PROMOTION 👍 DM YOUR ART FOR FEATURE
-    location: "India"
-    followers: 86251
-    engagement: 97
-    commentsToLikes: 0.008629
-    id: ck8t5apvw9fnz0j789gcs31ch
-    verified: false
-    hashtags: "#graphite, #artist, #pencilcase, #drawings"
-  - username: "deepakoberoi"
-    fullname: >-
-      Deepak Oberoi
-    bio: >-
-      Co-founder of @mumbairunners @bombayrunning @bombaygoachase @gettingraceready @downtowntrackclub Garmin Master Coach @garminindia
-    location: "India"
-    followers: 5616
-    engagement: 623
-    commentsToLikes: 0.037372
-    id: ck5qbiefhlrkd0i112yt51eve
-    verified: false
-    hashtags: "#garmin, #indoorrelay, #mumbairunners, #yoga"
-  - username: "ramkebhakt"
-    fullname: >-
-      राम के भक्त
-    bio: >-
-      राम के गुण गुणचिरंतन, राम गुण सुमिरन रतन धन। मनुजता को कर विभूषित, मनुज को धनवान करिये, #ramkebhakt
-    location: "India"
-    followers: 72227
-    engagement: 591
-    commentsToLikes: 0.008974
-    id: ck9hcff96l4mp0j78bynkhesu
-    verified: false
-    hashtags: "#kurukshetra, #delhi, #harharmahadev, #ramkebhakt"
-  - username: "bappamajha_official"
-    fullname: >-
-      Bappa Majha | India
-    bio: >-
-      Goa, Maharashtra & India’s Favourite Ganpati Photography Page. Use #BappaMajha For Feature. Dm us for collab/ Promotion.
-    location: "India"
-    followers: 97974
-    engagement: 477
-    commentsToLikes: 0.007050
-    id: ck0ttur774e8x0i19bqdabeh6
-    verified: false
-    hashtags: "#yoga, #lordganesha, #panjim, #mumbaibizarre"
+    followers: 118832
+    engagement: 271
+    commentsToLikes: 0.012433
+    id: ck0w0107cbus30i19r2n2fyyv
+    verified: true
+    hashtags: "#gujarat, #mumbai, #bhfyp, #ahmedabad"
   - username: "smritiqueen18"
     fullname: >-
       smriti mandhana
     bio: >-
-      Indian women's #cricket team🇮🇳 This is fanpage Professional Cricketer🏏🏏 10k🔒 Follow the page for new updates
+      Indian women's #cricket team🇮🇳 This is fanpage Professional Cricketer🏏🏏 10k🔓 Follow the page for new updates
     location: "India"
-    followers: 8321
-    engagement: 1758
-    commentsToLikes: 0.009618
+    followers: 10006
+    engagement: 2452
+    commentsToLikes: 0.004571
     id: ckf5r8f6nbr950j23aks3lbh2
     verified: false
-    hashtags: "#follow, #smritiqueen18, #viratian, #msdian"
+    hashtags: "#indiancricket, #kingkohli, #yoga, #klrahul"
+  - username: "scorpio.puja"
+    fullname: >-
+      PUJA NEGI || CONTENT CREATOR
+    bio: >-
+      Fashion. Beauty. Lifestyle & Travel Mail for paid collaboration
+    location: "India"
+    followers: 22734
+    engagement: 288
+    commentsToLikes: 0.312250
+    id: ck15uxsfqp09j0i19wjowrqma
+    verified: false
+    hashtags: "#instafashion, #reels, #fashionblogger, #explorepage"
+  - username: "pro_sagar.makwana"
+    fullname: >-
+      SAGAR MAKWANA
+    bio: >-
+      Athlete @fitsy.in 🏋🏽‍♂️ @massivelements💼 🏆OLYMPIAINDIA 4th 🏆GOA JERAI 1st2017 🏆JERAI WBFF 2nd 2017 🏆ALIBAGH 1st2017 🏆NAVODIT MUM 4th
+    location: "India"
+    followers: 49277
+    engagement: 171
+    commentsToLikes: 0.017606
+    id: ck9wglejmtxgv0j78pchir30b
+    verified: false
+    hashtags: "#reelsinstagram, #model, #gym, #procard"
 ---

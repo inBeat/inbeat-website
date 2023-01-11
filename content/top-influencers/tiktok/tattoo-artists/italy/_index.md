@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Italy In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Italy In 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Italy in 2022. Most popular hashtags: #perte #foryou #neiperte #tattoo.
+  Find top tattoo-artists TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #tattoo #neiperte.
 platform: TikTok
 hits: 10
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 10 TikTok influencers like this in Italy for you to contact.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Italy for you to collaborate.
 profiles:
   - username: "yuribuccarello"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ROMA 📍 🌍 TATTOO ARTIST SOLO TATTOOO HOBBY CANTANTE & CANTAUTORE
     location: "Italy"
-    followers: 2648
-    engagement: 251
-    commentsToLikes: 0.046182
+    followers: 2611
+    engagement: 254
+    commentsToLikes: 0.040339
     id: ckb9fol8d49pw0j23j9ak06q5
     verified: false
-    hashtags: "#imitazioni, #neiperte, #tiktok, #risate"
+    hashtags: "#butinar, #comicit, #foryou, #foryoupage"
   - username: "trueyuricammisa"
     fullname: >-
       Trueyuricammisa
     bio: >-
-      👆🏻Instagram 👆🏻 🇮🇹 🖌Tattoo artist 🤸🏻‍♂️Dancer 🖊Scrivo nel tempo liber
+      👆🏻Instagram 50k👆🏻 🐱 Tru 🖌Tattoo artist 🤸🏻‍♂️Dancer 🖊Scrivo
     location: "Italy"
-    followers: 19900
-    engagement: 1219
-    commentsToLikes: 0.007956
+    followers: 23000
+    engagement: 739
+    commentsToLikes: 0.020459
     id: ckaifgngvwubq0i787rwi32vr
     verified: false
-    hashtags: "#perte, #neiperte, #fyp, #dance"
+    hashtags: "#cat, #fyp, #perte, #callofdutywarzone"
   - username: "gabriele_anakin"
     fullname: >-
       ANAKIN
     bio: >-
       SEGUIMI ANCHE SU IG: @gabriele_anakin 🦄Tattooer 📍Rome
     location: "Italy"
-    followers: 164400
-    engagement: 1361
-    commentsToLikes: 0.002243
+    followers: 176300
+    engagement: 1523
+    commentsToLikes: 0.002556
     id: ck9fwr7t62k100j78za17oseo
     verified: false
-    hashtags: "#tattoocomedy, #tattoolover, #tatuatore, #tattoo"
+    hashtags: "#tatuaggio, #tattooer, #tattooartist, #tatuatore"
+  - username: "im.domitilla"
+    fullname: >-
+      Domitilla
+    bio: >-
+      milan, italy ♡ ig: im.domitilla ♡ she/her
+    location: "Italy"
+    followers: 114400
+    engagement: 1738
+    commentsToLikes: 0.030983
+    id: ck8s5i8exfxau0j78dyuxgjag
+    verified: false
+    hashtags: "#challenge, #tiktokartist, #fyp, #greenscreen"
   - username: "manu.art"
     fullname: >-
       Manu Art
     bio: >-
       🏛Restoration 🎨I make art with my twin @chicca_art ❤️Follow me on Instagram
     location: "Italy"
-    followers: 69500
-    engagement: 1570
-    commentsToLikes: 0.016473
+    followers: 70000
+    engagement: 1558
+    commentsToLikes: 0.016341
     id: cka0jabash32y0i784ym50mpo
     verified: false
-    hashtags: "#arte, #restauro, #artrestoration, #restoration"
-  - username: "lostvincent.tattooartist"
+    hashtags: "#art, #restoration, #paint, #drawing"
+  - username: "elvisesposito"
     fullname: >-
-      𝐊𝐀𝐓𝐑𝐈𝐍 🕷
+      Elvis Esposito
     bio: >-
-      ●tattoo artist at Black Spark Tattoo studio● she/her Genova, Italy 🇮🇹
+      Tatuatore e piercer 🇮🇹l’arte di decorare il proprio corpo attraverso il Tattoo
     location: "Italy"
-    followers: 48600
-    engagement: 2143
-    commentsToLikes: 0.009823
-    id: ck9dtxm28e0bq0j78i1ipfd1p
+    followers: 3219
+    engagement: 320
+    commentsToLikes: 0.023178
+    id: ck933wbbxq1k40j78r36jpxsv
     verified: false
-    hashtags: "#fyp, #tomboy, #lgbtitalia, #lgbt"
-  - username: "asialauri"
+    hashtags: "#tattoergirl, #tattoolettering, #tattoolovers, #tattootiktok"
+  - username: "nancywaves_official"
     fullname: >-
-      𝓐𝓼𝓲𝓪 𝓛𝓪𝓾𝓻𝓲♡
+      Nancy Waves
     bio: >-
-      #MIKU_ART 💗 Italian girl 🇮🇹 Artist 🌼 Ig Asia_lauri_10 📷 B-day 10/09/98🌻.
+      EMO QUEEN 🖤 BROKE ARTIST 🖤 follow me on instagram 🖤 APP: autodesk sketchbook
     location: "Italy"
-    followers: 130700
-    engagement: 1738
-    commentsToLikes: 0.025763
-    id: ckbvxmd47uqdv0j237w9o6w5k
+    followers: 5831
+    engagement: 1636
+    commentsToLikes: 0.028273
+    id: ck81qqt1pj2b90j781qmocwhw
     verified: false
-    hashtags: "#drawing, #julieandthephantoms, #galaxycolorchallenge, #art"
-  - username: "gloriecoeur"
-    fullname: >-
-      Gloria Cœur
-    bio: >-
-      artist | 21 | ⭐️ | ig: gloriecoeur etsy shop: gloriecoeur
-    location: "Italy"
-    followers: 67800
-    engagement: 2271
-    commentsToLikes: 0.009680
-    id: ck8qh56bx3lm60j78yuvcyr9f
-    verified: false
-    hashtags: "#viral, #foryou, #watercolor, #neiperte"
-  - username: "enmanuelfiguera"
-    fullname: >-
-      Enmanuel Rafael Figuera Ruzza
-    bio: >-
-      22/06 Venezolano🇻🇪 Milan,Italy 🇮🇹 Road 5K FollowME👍🏽 Dancer/Artist/ 😎
-    location: "Italy"
-    followers: 4066
-    engagement: 352
-    commentsToLikes: 0.048775
-    id: ck85cqguw30vq0j78mlfdqkcu
-    verified: false
-    hashtags: "#perunmondomigliore, #latino, #bachata, #ridere"
+    hashtags: "#nancywaves, #hand, #art, #drawing"
   - username: "tiger_fade"
     fullname: >-
       Daniele Anatolio
     bio: >-
       Artista Founder TIGER FADE METHOD Owner STILE BARBER SHOP (four locations)
     location: "Italy"
-    followers: 5151
-    engagement: 304
-    commentsToLikes: 0.025163
+    followers: 5165
+    engagement: 277
+    commentsToLikes: 0.022139
     id: ckbfakqww24710j230p06xz0u
     verified: false
-    hashtags: "#pinkhair, #doubleyourimpact, #fadehaircut, #foryou"
-  - username: "alicelovesdrawing"
+    hashtags: "#neiperte, #lovedisoloqua, #fadehaircut, #foryou"
+  - username: "alessandrosallusti"
     fullname: >-
-      Alice
+      Alessandro Sallusti
     bio: >-
-      Alice loves drawing 🖤
+      27.04.2001 Swimmer🏊🏽‍♂️ Italy🇮🇹 Obiettivo 20k😍
     location: "Italy"
-    followers: 59900
-    engagement: 1327
-    commentsToLikes: 0.007228
-    id: ck8vv7dnmkz330j78ps4leg3w
+    followers: 11700
+    engagement: 760
+    commentsToLikes: 0.013097
+    id: ckb9tqhmxs1zb0j23kd2gxsne
     verified: false
-    hashtags: "#gouache, #floral, #watercolor, #flowers"
+    hashtags: "#foryou, #perte, #foryoupage, #viral"
+  - username: "9ovaprince"
+    fullname: >-
+      9ova
+    bio: >-
+      Artista 💙👑 SEGUIMI SU INSTA :9ovaprince MALASORTE FUORI OVUNQUE LINK QUI SOTTO
+    location: "Italy"
+    followers: 28300
+    engagement: 1447
+    commentsToLikes: 0.021965
+    id: ck9vdmtezvj150j78abe9v995
+    verified: false
+    hashtags: "#trend, #fyp, #perte, #foryou"
 ---

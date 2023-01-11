@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Brazil In 2022
+title: Top 10 Hair Dressers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top hair dressers Instagram influencers in Brazil in 2022. Most popular hashtags: #hair #dress #makeup #summer.
+  Find top hair dressers Instagram influencers in Brazil in 2023. Most popular hashtags: #dress #hair #love #dresses.
 platform: Instagram
 hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 11 Instagram influencers like this in Brazil for you to connect with.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 11 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "glenhew"
+  - username: "brunacuello"
     fullname: >-
-      Glen Educator • Hair • Color
+      Bruna Cuello Vidotto
     bio: >-
-      ✨Education Director/SP @nekderx.official🇲🇾 ✨Asia Hairdesigners Association VP of Asia🌏 ✨Global Educator @kglossofficial🇺🇸 ✨Follow #nekderxacademy 🇲🇾
+      Dicas💡Viagens✈️ Beleza💄Moda👗VidaReal💁🏻‍♀️ Casada💍 Mãe do @smirnoff.vidotto 🐶 Cristã🙏🏻 Parcerias via direct 📦📬 Modelo OFICIAl @belezanaweb
     location: "Brazil"
-    followers: 26410
-    engagement: 197
-    commentsToLikes: 0.029243
-    id: ckaovlu4454e10i785xy5jgs8
+    followers: 11072
+    engagement: 363
+    commentsToLikes: 0.095466
+    id: ck5hixzmgfo0e0i11obpwc6sd
     verified: false
-    hashtags: "#ashhair, #moneypiecehighlights, #asiahairdesignerassociation, #highlightshair"
-  - username: "br.rezende"
+    hashtags: "#saopaulo, #haha, #foryou, #modelo"
+  - username: "hullygiovanini"
     fullname: >-
-      Bruna Rezende
+      Hully Caroline Giovanini
     bio: >-
-      ✨Criadora de conteúdo, apaixonada por moda, descobrindo lugares incríveis ⚜️Owner @bybrunarezende 🇧🇷 Miss Brasil Inter. 2020 @missbrazilinternational
+      Model makeup, lifestyle & fashion. 🤘🏼✈️✨🌍 📍Recife | Pernambuco Contato para trabalhos 👇🏼
     location: "Brazil"
-    followers: 70058
-    engagement: 48
-    commentsToLikes: 0.107187
-    id: ck6tv9kwokyea0j71f2ybqa0c
+    followers: 11727
+    engagement: 954
+    commentsToLikes: 0.047945
+    id: ck8t2q2du0bis0j78jn6rtoyr
     verified: false
-    hashtags: "#morenarosaoficial, #aplicativosparacelular, #cidadehistorica, #edicaodefotos"
-  - username: "novaisgeyza"
-    fullname: >-
-      Geyza Novais 🌻
-    bio: >-
-      ♍️ 22y ✨makeup | fashion | beauty ✉️ geizanovais@icloud.com 🌻.💛.✨.🌙 @ryyandavi 👶🏼
-    location: "Brazil"
-    followers: 23303
-    engagement: 720
-    commentsToLikes: 0.086725
-    id: ck8t6hz6idphq0j787xfaoyr2
-    verified: false
-    hashtags: "#night, #baladas, #hair, #instagram"
-  - username: "thaisguisso"
-    fullname: >-
-      ❥ THAÍS GUISSO
-    bio: >-
-      📚Nutrição - Acadêmica🍎💚 ⚖️Advogada ✦ ES✦ 📩Contato ≫ direct 📩 thaisguisso23@gmail.com
-    location: "Brazil"
-    followers: 292123
-    engagement: 190
-    commentsToLikes: 0.017871
-    id: ck0u6xdw535fo0i198jusifoq
-    verified: false
-    hashtags: "#bom, #photoshoot, #editorial, #model"
+    hashtags: "#gold, #hair, #couple, #makeup"
   - username: "aninhachiang"
     fullname: >-
       Ana Carolina Pio Chiang
     bio: >-
       Modelo mirim, 7 anos - Monitorado pela Mãe (Jocelaine) e-mail para contato cycjo@uol.com.br Tik tok: @ana.chiang
     location: "Brazil"
-    followers: 18200
-    engagement: 1429
-    commentsToLikes: 0.056315
+    followers: 23222
+    engagement: 1251
+    commentsToLikes: 0.062787
     id: ck5cgsqsqph8h0i114zp7c1jl
     verified: false
-    hashtags: "#viral, #we, #love, #homesweethome"
-  - username: "dudacheffer"
+    hashtags: "#explore, #happymoments, #eyes, #sun"
+  - username: "thaisguisso"
     fullname: >-
-      𝘿𝙐𝘿𝘼 𝘾𝙃𝙀𝙁𝙁𝙀𝙍
+      ❥ THAÍS GUISSO
     bio: >-
-      ✨🖤🌸🤘🏼🦋🌞👁✌🏼☘️ 📍 Frederico Westphalen RS 🌻 Parcerias via direct 💌 eduarda.ch@hotmail.com
+      📚Nutrição - Acadêmica🍎💚 ⚖️Advogada ✦ ES✦ 📩Contato ≫ direct 📩 thaisguisso23@gmail.com
     location: "Brazil"
-    followers: 13377
-    engagement: 1051
-    commentsToLikes: 0.208950
-    id: ck5c6d9j9576v0i1145amj4sh
+    followers: 288817
+    engagement: 160
+    commentsToLikes: 0.010349
+    id: ck0u6xdw535fo0i198jusifoq
     verified: false
-    hashtags: "#hairstyle, #photooftheday, #pictureoftheday, #blondehair"
-  - username: "larisspelitero_"
+    hashtags: "#photo, #magiadomar, #tbt, #looks"
+  - username: "essajheny"
     fullname: >-
-      LARISSA PELITERO
+      JHENYFFER MARTINS
     bio: >-
-      ♡ • Parcerias via direct 📲 • Santa Cruz das Palmeiras || SP • Estética e Cosmetologia || FHO - Uniararas • 21
+      📱Influenciando por amor 💄Maquiadora @jhenyffermartins.makeup 📸 | Registros de uma vida louca, intensa e cheia de cor 💍 @mauriciomaneiro Jaci/Cba -MT
     location: "Brazil"
-    followers: 8577
-    engagement: 2646
-    commentsToLikes: 0.244062
-    id: ck8t8a78ljntj0j78bewtgxhv
+    followers: 14674
+    engagement: 455
+    commentsToLikes: 0.147536
+    id: ckf5ot68n3qd20j23ormlugx6
     verified: false
-    hashtags: "#blogueira, #followers, #happy, #modafeminina"
-  - username: "lunabandeira"
-    fullname: >-
-      Luna Bandeira
-    bio: >-
-      🎤singer/songwriter •parcerias/collabs via direct/ e-mail contato para shows: 📧 contato@lunabandeira.com.br 👇🏻ÚLTIMO VÍDEO NO CANAL
-    location: "Brazil"
-    followers: 119710
-    engagement: 249
-    commentsToLikes: 0.043186
-    id: ckap19buwtlsm0i78n12so3mc
-    verified: false
-    hashtags: "#biquini, #love, #music, #quarantine"
+    hashtags: "#influencer, #25dajheny, #make, #biquini"
   - username: "glamouratfifty"
     fullname: >-
       ♥´¨`•°..CARLA..°•´¨`♥
     bio: >-
       ☆ G⃟O⃟D⃟ ❤️ F⃟A⃟M⃟I⃟L⃟Y⃟ ❤️ F⃟R⃟I⃟E⃟N⃟D⃟S⃟ God ❤️ Above ❤️ All ☆ ✝️ | 🇧🇷 Deus é amor 💖
     location: "Brazil"
-    followers: 17029
-    engagement: 318
+    followers: 16706
+    engagement: 324
     commentsToLikes: 0.101910
     id: ck13ch5j90bli0i197tvu94qc
     verified: false
-    hashtags: "#over50club, #coffee, #coffeetime, #maquiagem"
+    hashtags: "#betterwithage, #caffeinated, #effortlessstyle, #fiftyandfabulous"
+  - username: "monikefreitas"
+    fullname: >-
+      Monike Freitas
+    bio: >-
+      🌻 Isaías 40:31 📺 Tv Ponta Verde-SBT | @tvpontaverdeoficial 🎤 Apresentadora do Tudo de Bom 📍PE | AL 👇🏻Saiba mais:
+    location: "Brazil"
+    followers: 16501
+    engagement: 946
+    commentsToLikes: 0.072536
+    id: ckaow9vxj7zqv0i78zp4ddr91
+    verified: false
+    hashtags: "#igdayly, #popularpic, #likelike, #friends"
   - username: "luanna_charamba"
     fullname: >-
       Luanna_charamba
     bio: >-
-      📍 Maringá PR ♑️ 2.5 ✨ Perfil pessoal 💼 Perfil profissional 👇🏻 @luannacharamba
+      📍 Maringá PR ♑️ 2.6 ✨ Perfil pessoal 💼 Perfil profissional 👇🏻 @luannacharamba
     location: "Brazil"
-    followers: 19047
-    engagement: 711
-    commentsToLikes: 0.022882
+    followers: 20039
+    engagement: 728
+    commentsToLikes: 0.024665
     id: ck5hrj85yuyev0i1181gyt8d6
     verified: false
-    hashtags: "#instagood, #instagram, #live, #vibes"
+    hashtags: "#instagram, #vibes, #body, #makeup"
+  - username: "julianny.ferreira"
+    fullname: >-
+      Julianny Ferreira
+    bio: >-
+      •BR 📌MG 📢 PT//EN Modelo 👠♒ contato: julianny.ferreira@outlook.com.br
+    location: "Brazil"
+    followers: 4512
+    engagement: 1040
+    commentsToLikes: 0.099895
+    id: ckaoxn1r4dyku0i78kaskatdj
+    verified: false
+    hashtags: "#smileeveryday, #smile, #smiles, #photooftheday"
+  - username: "inesfdc"
+    fullname: >-
+      Inês de Castro
+    bio: >-
+      ♐️ •Porto, Portugal🇵🇹 •Tourism Management ✈️ • @nacozinhadeumauniversitaria ✨👩🏻‍🍳 • inesfcastro74@gmail.com
+    location: "Brazil"
+    followers: 4343
+    engagement: 1629
+    commentsToLikes: 0.034841
+    id: ck8sxqvaoibx10j78te4uevke
+    verified: false
+    hashtags: "#outfit, #mindfulness, #today, #beautifuldestinations"
 ---

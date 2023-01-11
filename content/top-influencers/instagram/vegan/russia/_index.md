@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Russia In 2022
+title: Top 10 Vegan Instagram Influencers In Russia In 2023
 description: >-
-  Find top vegan Instagram influencers in Russia in 2022. Most popular hashtags: #yacht #sochifornia #dreadlocks.
+  Find top vegan Instagram influencers in Russia in 2023. Most popular hashtags: #travel #vegan #covid.
 platform: Instagram
-hits: 95
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 95 Instagram influencers like this in Russia for you to pitch.
+hits: 108
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 108 Instagram influencers like this in Russia for you to work with.
 profiles:
   - username: "lanna_sun_shine"
     fullname: >-
-      TLV🌐Sochi   S☀️lar life
+      Ос🪐знанная Life🧘‍♀️ SUN☀️Mood
     bio: >-
-      Знаю короткую дорогу к счастью💫 @top_photographers_sochi 📸 @prime_peoples_group 🇮🇱🇷🇺 ☀️Женские флюиды 🌱vegan 🧘‍♀️йога/гвозди
+      Автор курса 💫Магия женственности💫 2й поток в МАРТЕ 🌺 🕊Энергопрактика ☀️Женские флюиды 🌱Vegan 🧘‍♀️ Йога/гвозди 🌐 Ретриты
     location: "Russia"
-    followers: 14854
-    engagement: 1060
-    commentsToLikes: 0.069147
+    followers: 14678
+    engagement: 1296
+    commentsToLikes: 0.062070
     id: ck0w4hp7symfg0i19h3850379
     verified: false
-    hashtags: "#sochifornia, #yacht, #crimea, #sochi"
+    hashtags: "#sochi, #2021, #sochifornia, #sunset"
   - username: "linda_nigmatulina"
     fullname: >-
       Линда Нигматулина
     bio: >-
       NiLiTA "RaznaЯ" Actress. Singer. Vegan 🌱🌈 Негатив/реклама в БАНю. Напишите мне трек в стиле trap 🎧
     location: "Russia"
-    followers: 29840
-    engagement: 204
-    commentsToLikes: 0.159777
+    followers: 29684
+    engagement: 288
+    commentsToLikes: 0.123701
     id: ck6tjt7qr3dhv0j7141pcz6p5
     verified: false
-    hashtags: "#blithecosmetic, #blithe, #notabitch, #lindan"
-  - username: "sergey_mavrin"
+    hashtags: "#veganlife, #veglifekz, #tiktokmemes, #vegan"
+  - username: "darya.ponomaryova"
     fullname: >-
-      Сергей Маврин
+      ❄️𝐏𝐨𝐰𝐝𝐞𝐫 𝐍𝐨𝐦𝐚𝐝❄️
     bio: >-
-      Сергей Маврин с 1963 по настоящее время😉 🌏 Change your future 🌿 Go vegan 🌍 🍷 I am port vegan 🍷
+      😎Supported by @we_are_sungod 🎿Freeride @powdernomads.kz 👙Sunbathing in @kinikitanthrough 🎨Tie-dye @tiedye.kz 🧘‍♀️Yoga🍏Vegan lifestyle 𝖠𝗅𝗆𝖺𝗍𝗒, 𝖪𝖹🇰🇿
     location: "Russia"
-    followers: 11416
-    engagement: 1140
-    commentsToLikes: 0.016762
-    id: ck5pz5r9szcsu0i11pvbcdbxc
+    followers: 6307
+    engagement: 698
+    commentsToLikes: 0.059754
+    id: ckf5utnsgma6g0j232wkonjv1
     verified: false
-    hashtags: "#fullmoon, #xx, #live, #fender"
-  - username: "nastyasmerteva"
+    hashtags: "#powdernomadskz, #adventureproof, #lifelooksbetter, #altai"
+  - username: "xkinsk"
     fullname: >-
-      Nastya Smerteva🇺🇸
+      vintage muse Nastya Kinski
     bio: >-
-      Russian girl in LA🌴 • Vegan | Dreads | Tattoo | Sneakers • Cooperation DM | email nastyasmertevaa@gmail.com • Обои для вашего телефона здесь⤵️
+      model, photographer #picsbykinsk мой секонд @xkinskgrandma 👜 vegan since 2016🌱 moviemaker #moviekinsk telegram @xkinskmuse YouTube🤍👇🏼
     location: "Russia"
-    followers: 15085
-    engagement: 716
-    commentsToLikes: 0.020768
-    id: ck15qlgkn3ewb0i19vocv76av
+    followers: 24076
+    engagement: 1125
+    commentsToLikes: 0.021408
+    id: ck6tiqpmq18oc0j71rkitxarb
     verified: false
-    hashtags: "#dreads, #dreadlock, #dreadslife, #dreadshare"
-  - username: "dara.avramenko"
+    hashtags: "#picsbykinsk, #velvetdynasty, #cityports, #forevermagazine"
+  - username: "kateryna.schanker"
     fullname: >-
-      🔝Model ✈️Traveler💡SMM
+      Kateryna Schanker
     bio: >-
-      ⭐️Здесь красиво без украшений 💃🏻Жизнь, как она есть 😎 🤩 На волне позитива always 💓 🥑Vegan/Healthy lifestyle 👇🏻My YouTube
+      Vegan 🌱 Vice-Miss Ukraine @missuniverse
     location: "Russia"
-    followers: 29289
-    engagement: 221
-    commentsToLikes: 0.029153
-    id: ckapcg1xn3nte0i78zhj7akkl
+    followers: 72488
+    engagement: 239
+    commentsToLikes: 0.025242
+    id: ck6tp1ryrhcrw0j71wq5mcexn
     verified: false
-    hashtags: "#sport, #video, #blogger, #model"
-  - username: "ourcozyuniverse"
+    hashtags: "#yoga, #travel, #beautifuldestinations, #kitesurfing"
+  - username: "andreishark_"
     fullname: >-
-      You & Me
+      Andrei Shark_
     bio: >-
-      Vasya 🖇Tanya husband + wife = ♡ just us and our little two marriage | family | vegan 🌿 based in the city where 360 ​​days a year is overcast
+      💥Vegan athlete & coach 💪🏼PAF Armwrestling Overall Champion 🏋️‍♀️Bench Press champion 🏆Top 3 Arnold Classic, World and Europa Classic bodybuilding 👇🏻
     location: "Russia"
-    followers: 55532
-    engagement: 221
-    commentsToLikes: 0.017413
-    id: ck55jyasoy1se0i116htjo8ub
-    verified: false
-    hashtags: ""
-  - username: "ju_pakhomova"
-    fullname: >-
-      Блондинка с мозгами 💫
-    bio: >-
-      🥑Vegan 👉🏼 #ju_vegan 🥦Без алкоголя и мяса по жизни 🐄Против жестокости и насилия над животными 🐈Уживаюсь с двумя кошками и 🐇 👇🏾Партнёр @vioneofficial💧
-    location: "Russia"
-    followers: 39728
-    engagement: 172
-    commentsToLikes: 0.027390
-    id: ck5q9v4qod5hm0i11ig6ogf69
-    verified: false
-    hashtags: "#ju"
-  - username: "sofimarkina"
-    fullname: >-
-      ♡ София Маркина ☽
-    bio: >-
-      Actress•Model🌿Vegan🌿Ambassador @blizhe Показываю путь к обретению своего Я и гармонии в жизни! Помогаю людям услышать себя ॐ 📮 Sofimarkina33@mail.ru
-    location: "Russia"
-    followers: 19666
-    engagement: 138
-    commentsToLikes: 0.020805
-    id: ck5cdcwfxiybe0i11rt3jenz8
+    followers: 31723
+    engagement: 170
+    commentsToLikes: 0.047264
+    id: ck14kywqqs0v80i19vl23qsi8
     verified: false
     hashtags: ""
-  - username: "othersideaz"
+  - username: "vegan.dj"
     fullname: >-
-      othersideaz🦋 Daria León
+      𝐓𝐄𝐂𝐇𝐍𝐎-𝐃𝐉. 𝐌𝐎𝐃𝐄𝐋. 𝐕𝐄𝐆𝐀𝐍
     bio: >-
-      Moscow📍 запись на декабрь открыта commercial & analog film || creator ⠀ human = vegan 🏳️‍🌈-friendly
+      📍𝐌𝐎𝐒𝐂𝐎𝐖 🦍 Зовут Веган! 🚲 Cyclist @vegan.racer 🎧 @vegan.techno 💪 ПП и спорт 👕 Fashion 🍔 Вег-дегустатор ✊ Не боюсь говорить правду ⛔️ Не для глупых!
     location: "Russia"
-    followers: 5938
-    engagement: 471
-    commentsToLikes: 0.022364
-    id: ck0vx2o58wufx0i19pzc2g1lf
+    followers: 45596
+    engagement: 221
+    commentsToLikes: 0.029619
+    id: ck6tjtf6a3dy40j71775lpsog
     verified: false
-    hashtags: "#35mm"
-  - username: "weel_music"
+    hashtags: "#veganuary2021"
+  - username: "valerica_uk"
     fullname: >-
-      𝗪𝗲𝗲𝗟
+      ✈️Rus-UK📍Liverpool🇬🇧English
     bio: >-
-      Vegan 🌱 Composer✍🏼 ⠀ «ПЕСНЯ ГОДА 18»🏅 ⠀ Сотрудничество и реклама в direct ⠀ Booking +7(917)-254-19-09 (Владимир) ⠀ #weelmusic Трек “КОБРА» 🐍
+      🍿Подсажу на свои видео про английский ⠀ 🇬🇧Живу в Ливерпуле, работаю с LFC ⠀ 🎞Развлеку викторинами в сторис ⠀ 🌱Vegan/eco-friendly ⠀ 📩@valerica_uk.pr
     location: "Russia"
-    followers: 43587
-    engagement: 337
-    commentsToLikes: 0.071912
-    id: ck15s77wkbkoc0i1922a3w7k4
-    verified: true
-    hashtags: "#2020, #cover, #weel, #birthday"
+    followers: 11123
+    engagement: 373
+    commentsToLikes: 0.073492
+    id: ck9wd62k1e7yc0j78yw8y6c93
+    verified: false
+    hashtags: "#ticktock, #aviasales, #english, #travelling"
+  - username: "luciapetrelli"
+    fullname: >-
+      Lucía Petrelli Nakamura
+    bio: >-
+      Vegan white russian. Disciple of Sappho. Colabs y trabajos: luciamola@gmail.com Recetas y cosas en @veganaloser 🔥
+    location: "Russia"
+    followers: 3365
+    engagement: 1179
+    commentsToLikes: 0.063248
+    id: ck5zyj1ow9z780i14jyyz2qe0
+    verified: false
+    hashtags: "#covid, #fire, #fashionrevolution, #pandemia"
+  - username: "maladaeva"
+    fullname: >-
+      Victoria Maladaeva
+    bio: >-
+      буряты в Калифорнии🇺🇸 sustainable living🌱 vegan🌿
+    location: "Russia"
+    followers: 8263
+    engagement: 466
+    commentsToLikes: 0.051329
+    id: ck6u75xumjoey0j71fcrmd3ua
+    verified: false
+    hashtags: "#macramewallhanging, #endpolicebrutality, #happyhalloween, #keepbaikalblue"
 ---

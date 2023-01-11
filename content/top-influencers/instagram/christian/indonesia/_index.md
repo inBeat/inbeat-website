@@ -1,96 +1,72 @@
 ---
-title: Top 10 Christian Instagram Influencers In Indonesia In 2022
+title: Top 10 Christian Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top christian Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #tiktok #africageographic.
+  Find top christian Instagram influencers in Indonesia in 2023. Most popular hashtags: #indomusikgram #dirumahaja #vokalplus #collabjauh.
 platform: Instagram
-hits: 154
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 154 Instagram influencers like this in Indonesia for you to connect with.
+hits: 144
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 144 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "eatwithkoko"
+  - username: "tiffofili"
     fullname: >-
-      Christian
+      Tiffany Porter
     bio: >-
-      🍵@djamoe.co 🍜@nyswanlaksa.co 📸@christianian . 🎶TikTok : eatwithkoko . Whatsapp👇🏻
+      Christian. Wife. Mother. 2 x Olympian. Pharmacist. AKA 💗💚 #Blessed Snapchat 👻: tiffporter
     location: "Indonesia"
-    followers: 41243
-    engagement: 41
-    commentsToLikes: 0.147245
-    id: ck14iiu0jfmel0i197cu9vlzk
+    followers: 26424
+    engagement: 189
+    commentsToLikes: 0.100032
+    id: ck5qeiv2b0ph90i115lq1vpx7
+    verified: true
+    hashtags: "#mommyandme, #teamporter, #60meterhurdles, #chichimama"
+  - username: "chindymariad"
+    fullname: >-
+      𝘾𝙝𝙞𝙣𝙙𝙮𝙢𝙖𝙧𝙞𝙖𝙙💙
+    bio: >-
+      Psalm 145:17 BA🦋 Job/Endorse, Christian ‪+62 896‑9066‑7399‬ @aritmatika.ordinate @auctionbrave @slimbeautycare
+    location: "Indonesia"
+    followers: 438122
+    engagement: 255
+    commentsToLikes: 0.006976
+    id: ckaoxuh03et2d0i78q004aumk
     verified: false
-    hashtags: "#mbventura, #kulogroup, #eatwithkoko, #grabfood"
+    hashtags: "#helwa, #creamhelwa, #helwabeautycare, #creamarab"
   - username: "hi.selinahalim"
     fullname: >-
       Baby Selina Halim 💖
     bio: >-
       First Daughter of Christian Halim & @Stella_Virgo 🌟 #SelinaHalim 🏡 JKT 👯 Lets be friends @ohanamanagement
     location: "Indonesia"
-    followers: 64359
-    engagement: 364
-    commentsToLikes: 0.037029
+    followers: 81041
+    engagement: 330
+    commentsToLikes: 0.027522
     id: ck9we48hoiih50j78moqixxft
     verified: false
-    hashtags: "#selinahalim, #dirumahaja, #trackeasy, #psbb"
-  - username: "tiffofili"
-    fullname: >-
-      Tiffany Porter
-    bio: >-
-      Christian. Wife. Mother. 2 x Olympian (#TeamAdidas ///). Pharmacist. AKA 💗💚 #Blessed Snapchat 👻: tiffporter
-    location: "Indonesia"
-    followers: 26256
-    engagement: 148
-    commentsToLikes: 0.084052
-    id: ck5qeiv2b0ph90i115lq1vpx7
-    verified: true
-    hashtags: "#mommyandme, #tokyo2022, #teamadidas, #chichimama"
-  - username: "chindymariad"
-    fullname: >-
-      𝘾𝙝𝙞𝙣𝙙𝙮𝙢𝙖𝙧𝙞𝙖𝙙💙
-    bio: >-
-      Psalm 145:17 BA🦋 @aritmatika.ordinate @slimbeautycare @etham_skincare @drunken.auction +62 896 9066 7399 (Christian)
-    location: "Indonesia"
-    followers: 348439
-    engagement: 404
-    commentsToLikes: 0.010209
-    id: ckaoxuh03et2d0i78q004aumk
-    verified: false
-    hashtags: "#seminggujadisultan"
-  - username: "fenny_fennyyy"
-    fullname: >-
-      Fenny
-    bio: >-
-      2001 | Christian✝️ 💙ENDORSEMENT/PP inq? 💙Catalouge Shoot/Photoshoot inq? •DM📩
-    location: "Indonesia"
-    followers: 57770
-    engagement: 565
-    commentsToLikes: 0.020129
-    id: ck0vv9xgzo72s0i194zgmp5yj
-    verified: false
-    hashtags: "#tiktok, #dirumahaja, #prochizgoldslices, #stayslimnfit"
+    hashtags: "#selinahalim, #trackeasy, #dirumahaja, #friso"
   - username: "indomusikteam"
     fullname: >-
       INDOMUSIK TEAM
     bio: >-
-      Musisi nya @indomusikgram Dibentuk dan diarahkan oleh @christianbong Dijagain sama @indomusikgroup
+      Musisi nya @indomusikgram Dibentuk dan diarahkan oleh @christianbong Dijagain sama @indomusikgroup ✉️: business@indomusikgram.net Kenalan yuk! ⬇️⬇️
     location: "Indonesia"
-    followers: 30355
-    engagement: 538
-    commentsToLikes: 0.019517
+    followers: 47814
+    engagement: 384
+    commentsToLikes: 0.012163
     id: ck9haglv2cggc0j78z17lpmbi
     verified: false
-    hashtags: "#vokalplus, #kolabodrex, #rossa, #indomusikteam"
+    hashtags: "#imgxlangitmusik, #indomusikgram, #collabjauh, #indomusikteam"
   - username: "gme_id"
     fullname: >-
       GOOD MORNING EVERYONE
     bio: >-
       Contact Person: 082173342354 Tian Email: christian.sipassy@sonymusic.com @diorsani / @danielbelzaa / @yuliperkasa / @erwinhadinata.gme / @kunyixkriboo
     location: "Indonesia"
-    followers: 15690
-    engagement: 396
-    commentsToLikes: 0.020056
+    followers: 20416
+    engagement: 527
+    commentsToLikes: 0.010733
     id: ck0vxu12x0q9o0i19y253zdza
     verified: false
-    hashtags: "#bbc, #bukanbegitucaramu, #goodmorningeveryone, #darikitauntukkita"
+    hashtags: "#gmeteamup, #selamatpagi, #goodmorningeveryone, #virtualconcert"
   - username: "katakataiman"
     fullname: >-
       KATA KATA IMAN KRISTEN
@@ -102,7 +78,7 @@ profiles:
     commentsToLikes: 0.013892
     id: ckap1msifv8260i787eqcytbt
     verified: false
-    hashtags: "#renunganhariankristen, #inspirasikristen, #khotbahkristen, #kasihyesus"
+    hashtags: "#anakmudakristen, #quoteskristen, #anaktuhanyesus, #berjalanbersamayesus"
   - username: "evoleneofficial"
     fullname: >-
       Evolene - PROVEN FITNESS SUPPS
@@ -115,16 +91,40 @@ profiles:
     id: ck0vvg15eoz4k0i19c6rpxboj
     verified: false
     hashtags: "#dirumahaja, #teamsurpluskalori, #timsurpluskalori"
-  - username: "christianals"
+  - username: "christiany_eugenia_paruntu"
     fullname: >-
-      Christian Als🇩🇰
+      Christiany E. Tetty Paruntu
     bio: >-
-      Travel | Adventure | Landscape Photographer, filmmaker and YouTube ⬇️ Lightroom Presets & Prints ⬇️ Adventure Photography Workshops ⬇️ My channel!
+      Politician - 1) Ketua DPD 1 Partai Golkar Provinsi Sulut. 2). Bupati Minahasa Selatan, Sulawesi Utara. Indonesia 2 Periode: 2010-2015 & 2016-2021.
     location: "Indonesia"
-    followers: 32569
-    engagement: 497
-    commentsToLikes: 0.029801
-    id: ck0u0dh95tfzl0i19a4m4s8n7
+    followers: 220810
+    engagement: 149
+    commentsToLikes: 0.024346
+    id: ck6tsby4m3w7w0j717uya6f4m
+    verified: true
+    hashtags: "#missyouhf, #pilkadasulut2020, #lovecep, #cepgubernursulut"
+  - username: "monica_christiana"
+    fullname: >-
+      𝐌𝐨𝐧𝐢𝐜𝐚
+    bio: >-
+      🌙 @youngveins.id The Voice Kids S1 CP / Endorse : +6285100065550 (Selvi) “Drivers License” cover👇🏻
+    location: "Indonesia"
+    followers: 11610
+    engagement: 533
+    commentsToLikes: 0.022627
+    id: ck5zsmq4vysse0i14act4ghdk
     verified: false
-    hashtags: "#mynorthadventure, #natgeotravelpic, #takemoreadventures, #voyaged"
+    hashtags: "#indomusikgram, #cover, #frescollaboration, #acoustic"
+  - username: "jeffry_bucex_christian"
+    fullname: >-
+      𝚃𝚑𝚎 𝚊𝚚𝚞𝚊𝚝𝚒𝚌 𝚏𝚛𝚎𝚊𝚔
+    bio: >-
+      More info : WA/Call 082217013338
+    location: "Indonesia"
+    followers: 49988
+    engagement: 274
+    commentsToLikes: 0.016550
+    id: ck15tlpenip450i19yj3o06mi
+    verified: false
+    hashtags: "#aquascape, #paludarium, #aquariums, #4viewpludarium"
 ---

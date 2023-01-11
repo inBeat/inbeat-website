@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Milan In 2022
+title: Top 10 Makeup Instagram Influencers In Milan In 2023
 description: >-
-  Find top makeup Instagram influencers in Milan in 2022. Most popular hashtags: #makeup #model #photography #milano.
+  Find top makeup Instagram influencers in Milan in 2023. Most popular hashtags: #makeup #milano #beauty #love.
 platform: Instagram
-hits: 362
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 362 Instagram influencers like this in Milan, Italy for you to connect with.
+hits: 298
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 298 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "emmaa_0911"
+  - username: "iamantoniogallo"
     fullname: >-
-      Aiyana
+      Antonio Gallo
     bio: >-
-      • dijon • cosplay • video games • series/animes • makeup • travel • 🏳️‍🌈 Snp/Twi: emmaa_0911 2nd account : @aslinnphotographer
+      #Antoniogallo #projectmanager
     location: "Italy"
-    followers: 5706
-    engagement: 1998
-    commentsToLikes: 0.028324
-    id: ck9hawbj4eezy0j78p48nlile
+    followers: 69468
+    engagement: 116
+    commentsToLikes: 0.101006
+    id: ck8tbar9euy0c0j78rid1pm7e
     verified: false
-    hashtags: "#kawaii, #model, #italy, #photo"
-  - username: "riccardo_la_valle"
+    hashtags: "#fashion, #food, #makeup, #milan"
+  - username: "caterina.marchesi"
     fullname: >-
-      
+      Caterina Marchesi
     bio: >-
-      Photographer & Director of Photography based in Milan (Italy)
+      •20♥️•Voghera/Milano📍•I try to spread#positivevibes 💫 • @unimib SFP📚 •#Fitness lover🏋🏻‍♀️ •Learn to #loveyourself 🌍 •11/08/2020❣️
     location: "Italy"
-    followers: 26843
-    engagement: 264
-    commentsToLikes: 0.012180
-    id: ck5cg9syyoexv0i11nif9l96v
+    followers: 11036
+    engagement: 639
+    commentsToLikes: 0.018182
+    id: ckapbm8f20f0w0i78zpize94f
     verified: false
-    hashtags: ""
-  - username: "anna_korn"
+    hashtags: "#sweet, #placetovisit, #light, #colors"
+  - username: "anastasia_pellegrino"
     fullname: >-
-      Anna Korn Makeup Milan
+      𝑨𝒏𝒂𝒔𝒕𝒂𝒔𝒊𝒂 𝑷𝒆𝒍𝒍𝒆𝒈𝒓𝒊𝒏𝒐🌹
     bio: >-
-      Co-Founder @makeupbites_ Специалист команды @lenayasenkova_team Работы @beautybykorn @bridalmakeupmilan Уроки макияжа/Курсы онлайн
+      📍Sicily 📸 Model for @tobemodelmanagement 👑 Prefinalista Nazionale @missitalia 2019 🇮🇹 🌍 Finalista Nazionale @missmondoitalia 2017
     location: "Italy"
-    followers: 7673
-    engagement: 521
-    commentsToLikes: 0.053357
-    id: ckaoqzn4tl2pz0i784vp0rsxb
+    followers: 3215
+    engagement: 1259
+    commentsToLikes: 0.030232
+    id: ckf5szt8kgk2k0j23mrxf180a
     verified: false
-    hashtags: "#puglia, #annakorn, #makeupmilan, #musthave"
-  - username: "nicolebuttafoco"
-    fullname: >-
-      ⭐Nicole Buttafoco⭐
-    bio: >-
-      #Hairstylist #Fashion Fashion-editor @nonsololook #nicole⭐ Per info e collaborazioni 👉🏻Direct/Email 📧 @instagram
-    location: "Italy"
-    followers: 29157
-    engagement: 943
-    commentsToLikes: 0.080924
-    id: ck6uekji2rgvg0j71lc35gyi8
-    verified: false
-    hashtags: "#look, #editorial, #makeup, #milano"
-  - username: "sabrina_barca"
-    fullname: >-
-      Sabrina Barca
-    bio: >-
-      Made in Italy 🇮🇹 Professional model 📷🎬 Milan 📍 29/08/97 Graduated in Communication Sciences 🎓 Studying Communication Design at @naba ⏳
-    location: "Italy"
-    followers: 49887
-    engagement: 822
-    commentsToLikes: 0.033759
-    id: ck5bve5wejh9j0i11vzc3tml9
-    verified: false
-    hashtags: "#model, #beauty, #beautiful, #modella"
+    hashtags: "#styleinspiration, #fashion, #vogueitalia, #stilist"
   - username: "mamrezabbasi"
     fullname: >-
       Mamrez Abbasi
     bio: >-
-      Photographer,Make up artist,Hair stylist نمايندگى فروش محصولات سريتا و ژنو در اروپا Based : milan_Italy 🇮🇹 Persian Page Secured by @behrooz.kamalian
+      
     location: "Italy"
-    followers: 37084
-    engagement: 332
-    commentsToLikes: 0.150695
+    followers: 36915
+    engagement: 349
+    commentsToLikes: 0.144922
     id: ck5q8vcwo84lg0i11bbc8ia9h
     verified: false
-    hashtags: "#persian, #blogger, #venice, #numerorussiadigitalcover"
-  - username: "greta_ag"
+    hashtags: "#persian, #venice, #peace, #makeup"
+  - username: "mariangela__delucia"
     fullname: >-
-      Greta Agazzi
+      Mariangela.dlc 🤍 BodyPositive🌈
     bio: >-
-      Freelance makeup artist, MILAN. #makeup✨ #hair on request greta.agazzi@gmail.com
+      💃Bodypositive activist 👩‍⚕️ Nurse 💉🩺 📍Milano 🧚#Thyca Survivor 🎀Bold • Brilliant • Beautiful 🌸@bodypositivecatwalk member
     location: "Italy"
-    followers: 140649
-    engagement: 187
-    commentsToLikes: 0.011967
-    id: ck0udk4jbjaug0i19s60eogg4
+    followers: 3416
+    engagement: 664
+    commentsToLikes: 0.064486
+    id: ck5cfgfajmwg60i11sl330vx0
     verified: false
-    hashtags: "#work, #editorial, #eyeliner, #kubrick"
-  - username: "ileanafuoco"
+    hashtags: "#selflove, #plussizefashion, #italia, #outfit"
+  - username: "nicolemazzocato"
     fullname: >-
-      Ileana
+      Nicole
     bio: >-
-      🇮🇹 #Italian 📍 Based in #Milan contact.ileanafuoco@gmail.com
+      
     location: "Italy"
-    followers: 33446
-    engagement: 283
-    commentsToLikes: 0.030327
-    id: ckap74b8pikr40i78bn6tdsjn
-    verified: false
-    hashtags: "#italian, #fashionista, #girl, #beauty"
-  - username: "ema1693_"
+    followers: 1422945
+    engagement: 203
+    commentsToLikes: 0.007744
+    id: ck5bzbx68quf00i11tnofrb5a
+    verified: true
+    hashtags: "#suppliedby, #blackandwhite, #ootd, #blondie"
+  - username: "carmen__corona"
     fullname: >-
-      .𝓔𝓶𝓪𝓷𝓾𝓮𝓵𝓪.💋
+      Carmen
     bio: >-
-      🐶 🐾 ❤ • ✈🌍❣ // 📸💕 • 💌💌 • 𝑰𝒕𝒂𝒍𝒚🇮🇹 // 𝑷𝒂𝒗𝒊𝒂🗝
+      Italy_Sardinia Beauty&Fashion Singer
     location: "Italy"
-    followers: 14245
-    engagement: 902
-    commentsToLikes: 0.049730
-    id: ckaoy3s9cfxp20i78fim1aixk
+    followers: 32463
+    engagement: 345
+    commentsToLikes: 0.030185
+    id: ckaox4a00bpys0i789hergnso
     verified: false
-    hashtags: "#pavia, #instagood, #instapic, #milano"
-  - username: "franciseme"
+    hashtags: "#pink, #2021, #red, #ginger"
+  - username: "unicornoveronika"
     fullname: >-
-      Francesca Semenza
+      Veronika||Вероніка🦄
     bio: >-
-      👶🏻Mamma Atipica 🦁 🎥Attrice 👗Modella 🌱Cucino green 👩‍🍳 🧘🏻‍♀️Respiro molto 🏃🏻‍♀️ Cinema @ Fiorella Giannelli
+      1999. 🇺🇦/🇮🇹 @peppe_07_ 💜 @uniorientale 🎓 Per collaborazioni in direct. ✉
     location: "Italy"
-    followers: 36082
-    engagement: 247
-    commentsToLikes: 0.161015
-    id: ck5hrjswsuzhu0i118xxe94y4
+    followers: 11572
+    engagement: 731
+    commentsToLikes: 0.024628
+    id: ckap2bpk6y5xq0i78mdc3vkjs
     verified: false
-    hashtags: "#girls, #relax, #summer, #summer2020"
+    hashtags: "#fitnessmotivation, #beautifulplaces, #night, #photographylovers"
+  - username: "biancapanzironi"
+    fullname: >-
+      Bianca Panzironi
+    bio: >-
+      PRO Make-up Artist in Milan • mi esprimo attraverso i 𝘎𝘦𝘵 𝘙𝘦𝘢𝘥𝘺 𝘞𝘪𝘵𝘩 𝘔𝘦 • 𝗚𝗹𝗮𝗺 | 𝗖𝗼𝗹𝗼𝗿𝗳𝘂𝗹 • e-mail for business enquires
+    location: "Italy"
+    followers: 30441
+    engagement: 767
+    commentsToLikes: 0.040373
+    id: ck5ztzutv1f640i14i9uuxzs6
+    verified: false
+    hashtags: "#halloweenmakeup, #allmodernmakeup, #redlips, #halloweenglamour"
+  - username: "mrdanielmakeup"
+    fullname: >-
+      M R D A N I E L
+    bio: >-
+      Celebrity Makeup Artist 📍Milan Art Director of @nablacosmetics. ✉️info@danielelorusso.com NEW YT VIDEO:
+    location: "Italy"
+    followers: 646528
+    engagement: 458
+    commentsToLikes: 0.003653
+    id: ck0vw23r3rrd50i19tglhziwm
+    verified: true
+    hashtags: "#ghdmax, #birthdayboy, #mrdanielmakeup"
 ---

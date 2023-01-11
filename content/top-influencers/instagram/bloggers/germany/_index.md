@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Germany In 2022
+title: Top 10 Bloggers Instagram Influencers In Germany In 2023
 description: >-
-  Find top bloggers Instagram influencers in Germany in 2022. Most popular hashtags: #fashionblogger #ootd #germanblogger #idealofsweden.
+  Find top bloggers Instagram influencers in Germany in 2023. Most popular hashtags: #instafashion #fashionblogger #urlaub #fashioninspo.
 platform: Instagram
-hits: 2298
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 2298 Instagram influencers like this in Germany for you to work with.
+hits: 1895
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1895 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "marinamxll"
+  - username: "thedollzter"
     fullname: >-
-      Marina | Regensburg
+      دُلي ديب | Dolly Dib
     bio: >-
-      💌 marinamxll@gmx.de or DM ✨use #marinamxll #fashion #lifestyle #blogger_de
+      ✈️Jordan-Based Travel Blogger 🤷‍♀️I love traveling and food, but who doesn't 💥TikTok: thedollzter أفضل جدول سياحي ليوم في فيينا👇
     location: "Germany"
-    followers: 12782
-    engagement: 1307
-    commentsToLikes: 0.137327
-    id: ckap4wh7j96yc0i78cq7ah4m4
+    followers: 283566
+    engagement: 630
+    commentsToLikes: 0.011718
+    id: ck5camk5kdozz0i11o587u5hv
     verified: false
-    hashtags: "#styleinspo, #potd, #americanstyle, #fashion"
+    hashtags: "#womentravel, #jordanien, #beamman, #ammanstylez"
+  - username: "howimetmyoutfit"
+    fullname: >-
+      Dana Lohmüller
+    bio: >-
+      How I met my outfit | Cologne 🇩🇪 🖤 lifestyle blogger since 2014 💌 info@howimetmyoutfit.de Fashion | Drinks | Food
+    location: "Germany"
+    followers: 115673
+    engagement: 55
+    commentsToLikes: 0.163879
+    id: ck14lk7siv3vk0i19gj4qqo96
+    verified: false
+    hashtags: "#adventskalendergewinnspiel, #genussmoment, #gewinnspiel, #adventsverlosung2022"
+  - username: "alexandralapp"
+    fullname: >-
+      Alexandra Lapp
+    bio: >-
+      Entrepreneur, columnist, blogger & influencer - love sharing my passion for fashion, interior, beauty, travel & lifestyle. 📩 contact@alexandralapp.com
+    location: "Germany"
+    followers: 415924
+    engagement: 57
+    commentsToLikes: 0.157463
+    id: ck0u05hbzsnuc0i19bj1p7ibh
+    verified: true
+    hashtags: "#ootd, #bestof2022, #trending, #reels"
+  - username: "marlenesleben"
+    fullname: >-
+      Marlene
+    bio: >-
+      ⛺Munich/Germany 😊nature, photography & adventure 💰Blogger @homeoftravel.de 🎓Media & Communication Management 📧info@marlenesleben.de
+    location: "Germany"
+    followers: 57807
+    engagement: 650
+    commentsToLikes: 0.031080
+    id: ck0vzbqcu8b420i19abusygje
+    verified: false
+    hashtags: "#visitaustria, #lovetirol, #wanderung, #stayandwander"
   - username: "susamamma"
     fullname: >-
-      s u s a n n a   p a u l
+      susa paul | creator bonn
     bio: >-
-      girl mom | twin boys mom | wifey | blogger | photo artist © susamamma.de #susamammaselfie - no photographer, no problem ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      mädchen mama | jungs zwillingsmama | wifey | blogger | photo artist © susamamma.de #susamammaselfie - no photographer, no problem ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     location: "Germany"
-    followers: 22464
-    engagement: 915
-    commentsToLikes: 0.125010
+    followers: 21694
+    engagement: 558
+    commentsToLikes: 0.102829
     id: ck14h7b9l8wc30i1984zdvot8
     verified: false
-    hashtags: "#zwillingeimbauch, #twinsontheway, #susamammapregnant, #susamammajuist"
-  - username: "inesdailylove"
-    fullname: >-
-      FASHION | INSPO | BEAUTY
-    bio: >-
-      💕 Ines | 25 | ⚓️ Hamburg-Blogger 👛 Fashion Lover & 🐶 Dog mummy 🏡 Hausumbau 2020 | Haus von 1962 💌 E-Mail: inesanna2804@gmx.de #️⃣ use #inesdailylove
-    location: "Germany"
-    followers: 16453
-    engagement: 925
-    commentsToLikes: 0.185025
-    id: ck14k5tfsnvf30i19k3iqr72x
-    verified: false
-    hashtags: "#streetstylelook, #carmushkahamburg, #inspiration, #inspoforallgirls"
+    hashtags: "#zwillinge, #susamammanrw, #zwillingsmama, #bonn"
   - username: "grimm_patricia"
     fullname: >-
       Patricia G.
     bio: >-
-      Agency-Model 📷📹, Blogger, 📍Stuttgart, Fashion👗, Beauty🧖‍♀️, Lifestyle 👜 , travelling 🌎, 🔜 Hamburg
+      📷📹 Bestager-Model 🇩🇪 Germany 🎬 Commercial 👗Mode-Blogger 📍Hamburg - Stuttgart ❤️ Fashion - Beauty - Lifestyle - Travel
     location: "Germany"
-    followers: 15467
-    engagement: 797
-    commentsToLikes: 0.341017
+    followers: 20793
+    engagement: 532
+    commentsToLikes: 0.301864
     id: ck15r3zah612z0i19gy00ter9
     verified: false
-    hashtags: "#smile, #damenmode, #wintermode, #beautiful"
-  - username: "trendshock"
-    fullname: >-
-      Laura
-    bio: >-
-      TRUE WORDS | FAMILY | FASHION Blogger seit 2015 #dreifachmama #hausumbau2021
-    location: "Germany"
-    followers: 96514
-    engagement: 417
-    commentsToLikes: 0.140542
-    id: ck5zysfibafzu0i14r8olz88v
-    verified: false
-    hashtags: "#reima, #reimakids, #herbstm, #babym"
-  - username: "phanniepa"
-    fullname: >-
-      Phannie | Content Creator 👩🏻‍💻
-    bio: >-
-      📸Sharing the prettiest travel spots... ✨& Sprinkling color wherever I go! 📍My life in Germany||🇲🇽 Blogger 📢@sheinofficial -15% EBF585 📌Mycontent🔻
-    location: "Germany"
-    followers: 14418
-    engagement: 1576
-    commentsToLikes: 0.248868
-    id: ck0w42nvswi6g0i193hewktn5
-    verified: false
-    hashtags: "#denmark, #idealofsweden, #sheingals, #shein"
+    hashtags: "#thankful, #agelessstyle, #photooftheday, #mango"
   - username: "anja_fee"
     fullname: >-
       Anja Fee OFFICIAL
     bio: >-
       equestrian blogger based in Germany 💜 Haflinger Sam 💫 TikTok & YouTube ANJA_FEE Business inquires via E-mail 📧
     location: "Germany"
-    followers: 121885
-    engagement: 1200
-    commentsToLikes: 0.065099
+    followers: 140239
+    engagement: 923
+    commentsToLikes: 0.038780
     id: ck13a98ysp96s0i191iarcodi
     verified: false
-    hashtags: "#cheval, #dressur, #dior, #pferdem"
-  - username: "khllifestyle"
+    hashtags: "#dressurpferd, #pferdeliebe, #reitsport, #horsefriends"
+  - username: "marina_jkm"
     fullname: >-
-      Karl-Heinz Limberg
+      HAVING A LOVELY TIME
     bio: >-
-      German lifestyle and travel blogger. Best ager. Keen on fitness. Espresso aficionado :-) #travelbloggers #lifestylebloggers #luxurytraveller. ⬇️⬇️⬇️
+      Möchtegern #fashion und #fitness Blogger ab und zu auch #food 🤍 21 yo 📍 germany, hamburg 👻 snap: marina_yes
     location: "Germany"
-    followers: 15935
-    engagement: 1145
-    commentsToLikes: 0.095164
-    id: ck6tw5ydnq6it0j71bd2f3sek
+    followers: 9470
+    engagement: 855
+    commentsToLikes: 0.078179
+    id: ckap83avamn2u0i780jx0ns5v
     verified: false
-    hashtags: "#khllifestyle, #corralejo, #lifestyleportraits, #maennermitstil"
+    hashtags: "#lieferdienst, #glitter, #burgerdelivery, #burgerme"
   - username: "lourenegoll"
     fullname: >-
       FASHION | TRAVEL | LIFESTYLE
     bio: >-
-      💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 🇩🇪 Fashion Blogger / Actress ✉️ Business Email: info@lourenegoll.de 🏡 Located: ERK/CGN 📍 Next: ?
+      💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 🇩🇪 Fashion Blogger / Actress ✉️ Business Email: lourene@moonvibe.com 🏡 Located: ERK/CGN 📍 Next: 🇫🇷
     location: "Germany"
-    followers: 136458
-    engagement: 326
-    commentsToLikes: 0.077828
+    followers: 164275
+    engagement: 437
+    commentsToLikes: 0.038288
     id: ck15r05pt5hac0i19n06t6mha
     verified: false
-    hashtags: "#streetstyle, #krassschule, #guccirhyton, #dionsyus"
-  - username: "masamy13"
+    hashtags: "#blogger, #fashioninspo, #outfitinspo, #ootdfashion"
+  - username: "maja_marich"
     fullname: >-
-      MAS AMY
+      #misusovo 🍭
     bio: >-
-      I'M NOT A BLOGGER • Semoga bisa bermanfaat 👌
+      ✖️Mother • Cynic • Blogger 🍸 ✖️Croatian in Germany 📍 ✖️Blog 🖋 misusovo.com ✖️Youtube 🎥 Maja & Morana
     location: "Germany"
-    followers: 10588
-    engagement: 1118
-    commentsToLikes: 0.065230
-    id: ckapbt4e218y90i78cakrz9wi
+    followers: 12761
+    engagement: 1167
+    commentsToLikes: 0.037350
+    id: ckap5t0m2d1jg0i78vamipczc
     verified: false
-    hashtags: "#youvitforlife, #fff, #berlin, #lfl"
+    hashtags: "#monschau, #majaimorana, #tibor, #lockdown2021"
 ---

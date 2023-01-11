@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In London In 2022
+title: Top 10 Fitness TikTok Influencers In London In 2023
 description: >-
-  Find top fitness TikTok influencers in London in 2022. Most popular hashtags: #fitness #fyp #london #workout.
+  Find top fitness TikTok influencers in London in 2023. Most popular hashtags: #fitness #london #workout #gym.
 platform: TikTok
-hits: 57
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 57 TikTok influencers like this in London, United Kingdom for you to connect with.
+hits: 42
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 42 TikTok influencers like this in London, United Kingdom for you to work with.
 profiles:
-  - username: "charliejohnsonfitness"
-    fullname: >-
-      Charliejohnson
-    bio: >-
-      FOLLOW ON INSTAGRAM☝️ & SUBSCRIBE ON YOUTUBE
-    location: "United Kingdom"
-    followers: 31200
-    engagement: 502
-    commentsToLikes: 0.028282
-    id: ck8nfzk6cu7ji0j788j3fcjt9
-    verified: false
-    hashtags: "#fitness, #fitnesstips, #backday, #fatloss"
-  - username: "mimilouj"
-    fullname: >-
-      mimilouj
-    bio: >-
-      📍LDN 🏋🏼‍♀️ Fitness blogger & level 3 PT ♥️ Insta @mimilouj (18.5k) ✨
-    location: "United Kingdom"
-    followers: 2894
-    engagement: 671
-    commentsToLikes: 0.192579
-    id: ckcuqp74pjdbb0j23lj2wt0b8
-    verified: false
-    hashtags: "#spinalinjury, #fitnessmyth, #activewear, #fitgirl"
-  - username: "jalalsamfit"
-    fullname: >-
-      Jalal
-    bio: >-
-      London🇬🇧 fitness | gains | tips instagram - jalalsamfit positive vibes 💫
-    location: "United Kingdom"
-    followers: 226900
-    engagement: 558
-    commentsToLikes: 0.016176
-    id: ck9r6257720zb0j78fn86x6rr
-    verified: false
-    hashtags: "#dessert, #health, #getfit, #easymeal"
   - username: "tomhanfy"
     fullname: >-
       Hanfy
     bio: >-
       Fitness | UK | London thanfy96@gmail.com
     location: "United Kingdom"
-    followers: 18100
-    engagement: 841
-    commentsToLikes: 0.033005
+    followers: 18400
+    engagement: 855
+    commentsToLikes: 0.024163
     id: ck8add4xd5a3s0j789y7no97d
     verified: false
-    hashtags: "#ukworkout, #surrey, #workoutfromhome, #handstand"
+    hashtags: "#gymuk, #boredvibes, #gym, #london"
   - username: "londonfitnessguy"
     fullname: >-
       London Fitness Guy
     bio: >-
       Welcome to my world of fitness ✌🏻 #LFG [250k instagram: @london_fitness_guy]
     location: "United Kingdom"
-    followers: 9711
-    engagement: 586
-    commentsToLikes: 0.022659
+    followers: 9783
+    engagement: 558
+    commentsToLikes: 0.014510
     id: ck9nq1znx1oqd0j78yuitxsg1
     verified: false
-    hashtags: "#athomefitness, #lockdown, #hiit, #homefit"
+    hashtags: "#coronavirus, #hiitworkout, #homefitness, #fyp"
   - username: "hijabi_strong"
     fullname: >-
-      Coach Selima
+      Selima (Body Fitness Coach)
     bio: >-
-      Personal Trainer @Puregym London 🇬🇧 Thai Boxing 📧hijabi_strong@hotmail.com
+      Personal Trainer London 🇬🇧 Thai Boxing Tone/Sculpt hijabi_strong@hotmail.com
     location: "United Kingdom"
-    followers: 18100
-    engagement: 650
-    commentsToLikes: 0.119090
+    followers: 21600
+    engagement: 979
+    commentsToLikes: 0.184987
     id: ckb9ooaprj7jh0j23l5nestub
     verified: false
-    hashtags: "#compoundlift, #weightloss, #gymlife, #coach"
+    hashtags: "#strongwoman, #fitgirl, #deadlift, #strong"
+  - username: "smallspartanjay"
+    fullname: >-
+      Small Spartan 
+    bio: >-
+      Jay@ixbtalent.com INSTAGRAM - @Smallspartanjay YOUTUBE - SMALLSPARTANTV
+    location: "United Kingdom"
+    followers: 386600
+    engagement: 755
+    commentsToLikes: 0.016068
+    id: ck83wyzr0n5k10j78grbaw3ur
+    verified: false
+    hashtags: "#memes, #gym, #planche, #uk"
+  - username: "demi.bars"
+    fullname: >-
+      Demetri Alvanis
+    bio: >-
+      🇮🇹🇬🇷 Calisthenics Insta: @demi.bars demialvanis@gmail.com Road to 500k!
+    location: "United Kingdom"
+    followers: 251700
+    engagement: 898
+    commentsToLikes: 0.023041
+    id: ck81s0wxgp7nu0j78oaox24gh
+    verified: false
+    hashtags: "#viral, #strong, #workout, #fitness"
+  - username: "kelly_convey"
+    fullname: >-
+      Kelly Convey
+    bio: >-
+      Standup comedian BC (Before Corona) ... now my life is TikTok & Alcohol
+    location: "United Kingdom"
+    followers: 14100
+    engagement: 747
+    commentsToLikes: 0.057129
+    id: ckcj71qn16gdk0j23joxryw1c
+    verified: false
+    hashtags: "#dogs, #viral, #pets, #funnywomenoftiktok"
+  - username: "chloekourga"
+    fullname: >-
+      chloekourga
+    bio: >-
+      Fitness thingz 🤘🏻 & Doing things that scare me 👊🏻 Funnier on IG ⬆️
+    location: "United Kingdom"
+    followers: 21200
+    engagement: 1105
+    commentsToLikes: 0.021921
+    id: ck9n8ddna8h4a0j78dc7r70rs
+    verified: false
+    hashtags: "#london, #stretching, #gymtok, #yoga"
   - username: "ahmad__1001"
     fullname: >-
       __Ahmad_
     bio: >-
       tum apny nazriyaae pas rakho hum apna nazriya rakhty hain ❤ ❤fitness freak ✊
     location: "United Kingdom"
-    followers: 34000
-    engagement: 873
-    commentsToLikes: 0.046526
+    followers: 33700
+    engagement: 870
+    commentsToLikes: 0.054595
     id: ck900p2ckaku00j785e0aa89a
     verified: false
-    hashtags: "#punjabi, #mirza, #goviral, #pakistan"
-  - username: "lukepartridge2020"
+    hashtags: "#faisalabad, #pakistan, #urdupoetry, #punjabi"
+  - username: "sam_mostowfi"
     fullname: >-
-      Luke._.partridge
+      Sam_mostowfi
     bio: >-
-      Insta : Luke._.partridge Follow my insta before tik tok gets banned
+      Team GB🇬🇧 Only quality content! Follow my Instagram: sam_mostowfi Daily videos
     location: "United Kingdom"
-    followers: 138600
-    engagement: 2521
-    commentsToLikes: 0.035244
-    id: ckcpe3emcg6j30j23uju9e97p
+    followers: 58300
+    engagement: 1415
+    commentsToLikes: 0.023113
+    id: ckb9qxvavn1p00j23phoq0kyt
     verified: false
-    hashtags: "#skate, #foryoupage, #chillin, #fyp"
-  - username: "temp_tation"
+    hashtags: "#gymnastics, #2020wrapped, #teamgb, #4you"
+  - username: "misstray32"
     fullname: >-
-      David Templer
+      TRAY
     bio: >-
-      “Shirtless Chef Boiii” Full recipes on Instagram CEO of loops #TheShirtlessChef
+      
     location: "United Kingdom"
-    followers: 372500
-    engagement: 845
-    commentsToLikes: 0.020432
-    id: ck81s3qx4prv40j78hsbaomp6
-    verified: true
-    hashtags: "#ukfood, #recipe, #theshirtlesschef, #tempstips"
-  - username: "the_vibey_vegan"
-    fullname: >-
-      the_vibey_vegan
-    bio: >-
-      RORO | 22 | TRAVEL FOLLOW MY VIBALICIOUS INSTA FOR MORE FUN! @the_vibey_vegan
-    location: "United Kingdom"
-    followers: 8597
-    engagement: 974
-    commentsToLikes: 0.039378
-    id: ck80oevdmhecx0j78kvzci6a8
+    followers: 2317
+    engagement: 224
+    commentsToLikes: 0.020046
+    id: ckcj3znyh518y0j23zc64zzxe
     verified: false
-    hashtags: "#bali, #vegan, #adventure, #travel"
+    hashtags: "#foryoupage, #fyp, #ticktock, #ticktok"
 ---

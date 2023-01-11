@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Greece In 2022
+title: Top 10 Crossfit Instagram Influencers In Greece In 2023
 description: >-
-  Find top crossfit Instagram influencers in Greece in 2022. Most popular hashtags: #greece #fitness #igers #training.
+  Find top crossfit Instagram influencers in Greece in 2023. Most popular hashtags: #instagood #training #fitness #fitnessmotivation.
 platform: Instagram
-hits: 16
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 16 Instagram influencers like this in Greece for you to collaborate.
+hits: 10
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Greece for you to pitch.
 profiles:
   - username: "marius.ad.libitum"
     fullname: >-
-      mαrios · greece
+      Marios Mazaris
     bio: >-
-      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • member of travelvibe
+      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • the one behind @schoolmarius
     location: "Greece"
-    followers: 16415
-    engagement: 1122
-    commentsToLikes: 0.058088
+    followers: 16163
+    engagement: 1141
+    commentsToLikes: 0.053950
     id: ck6u8k7vss2kn0j71olij1n19
     verified: false
-    hashtags: "#expression, #discover, #thesoulofgreece, #streets"
-  - username: "ismini_fab"
-    fullname: >-
-      Ismini Fabiatou🍩🍫
-    bio: >-
-      💪 Fitness 🏋️‍♀️ Crossfit 🎓 Agricultural University of Athens 📍 Athens, Greece 🐶 @charlie__fab 📩 Email: ismfab@yahoo.gr
-    location: "Greece"
-    followers: 50746
-    engagement: 492
-    commentsToLikes: 0.091455
-    id: ck8t0anlnrezk0j78v31dg0oe
-    verified: false
-    hashtags: "#giveaway, #nokia, #gobiggobeyond, #nokiaphotography"
-  - username: "george_komvokis"
-    fullname: >-
-      George Komvokis
-    bio: >-
-      Travel | Nature | Outdoor Helicopter Mechanic | CrossFit Athlete | Athens | Lesvos | Check my latest video:
-    location: "Greece"
-    followers: 16021
-    engagement: 1026
-    commentsToLikes: 0.047399
-    id: ck6tpxb1qnzo90j710y2w0och
-    verified: false
-    hashtags: "#hdr, #perfectgreece, #ig, #xanthi"
+    hashtags: "#instahomo, #beardedchallenge, #pecs, #across"
   - username: "stella.christoforou"
     fullname: >-
       Sᴛᴇʟʟᴀ Cʜʀɪsᴛᴏғᴏʀᴏᴜ
     bio: >-
-      God first ✝️ Made in Greece 🇬🇷
+      God first ✝️ Made in Greece 🇬🇷 ATH🏛 •Crossfit / Fitness Trainer •Online Individual Coaching •Tactical shooter
     location: "Greece"
-    followers: 93160
-    engagement: 623
-    commentsToLikes: 0.023072
+    followers: 100641
+    engagement: 562
+    commentsToLikes: 0.027488
     id: ck6ubtihpbm480j7100ccqbbw
     verified: false
-    hashtags: "#fitnessgirl, #fitnessgirls, #bodybuilding, #fitnesslife"
+    hashtags: "#crossfitgirls, #fitgirls, #fitnesswomen, #healthylifestyle"
+  - username: "george_komvokis"
+    fullname: >-
+      George Komvokis | Greece
+    bio: >-
+      Travel | Nature | Outdoor CrossFit Athlete Athens | Lesvos Island Check my IGTV
+    location: "Greece"
+    followers: 16611
+    engagement: 1283
+    commentsToLikes: 0.061653
+    id: ck6tpxb1qnzo90j710y2w0och
+    verified: false
+    hashtags: "#cinematography, #photooftheday, #nikon, #me"
   - username: "evdoxia_dm"
     fullname: >-
       Evdoxia Dima Xalatsi
     bio: >-
-      🧸A mum of 2 who enjoys instablogging a lot! #fitnessaddict 🏋🏻‍♀️ @evdoxia_mua_beautyartist
+      🧸A mum of 2 who enjoys instablogging a lot! #fitnessaddict 🏋🏻‍♀️
     location: "Greece"
-    followers: 46234
-    engagement: 469
-    commentsToLikes: 0.737872
+    followers: 44487
+    engagement: 393
+    commentsToLikes: 0.739972
     id: ck8swmw6pekjz0j78m3ljmq79
     verified: false
-    hashtags: "#instafit, #fitnessmom, #fitnessmotivation, #inspo"
-  - username: "pavlos_terzopoulos"
+    hashtags: "#instafit, #fitnesslifestyle, #fitness, #fashion"
+  - username: "gonzalolasteche"
     fullname: >-
-      Pavlos Terzopoulos
+      Gonzalo Martín
     bio: >-
-      ▪️Fitness Presenter 🇬🇷 🇵🇱 🇮🇹 ▪️Fitness Trainer 🏋️‍♂️🏃‍♂️ ▪️Model @new_model_agency ▪️Acun media @skaitv.gr 📺
+      - αrgєntínα📍 - єntrєnαmíєntσ pєrsσnαlízαdσ🏋️‍♂️ - rutínαs ч díєtαs α dístαncíα📲 - pf cluв αtlétícσ lαnús🇱🇻 - lícєncíαdσ єn єducαcíón físícα📚 - rαcíng❤
     location: "Greece"
-    followers: 67116
-    engagement: 172
-    commentsToLikes: 0.027108
-    id: ck5zkgdvzjfmw0i14dir6zotg
+    followers: 10418
+    engagement: 654
+    commentsToLikes: 0.008759
+    id: ck6ufnr4jy3mu0j71r5snnibe
     verified: false
-    hashtags: "#video, #stylish, #photoshooting, #l4l"
-  - username: "_maralu_"
+    hashtags: "#lifestyle, #picoftheday, #funcional, #photooftheday"
+  - username: "lia.agapitou"
     fullname: >-
-      ოa͏r1a͏nтonιou
+      Lia Agapitou (λια Αγαπητου)💎💎💎
     bio: >-
-      եհҽ bҽsե եհíղց ɑbօմե ʍҽʍօɾíҽs ís ʍɑƙíղց եհҽʍ ▪︎Dreamer 💫 ▪︎Kindergarten teacher-Special educatior ▪︎Volunteering,theater,travel ▪︎Sifnos-Kaloskopi♡
+      inactive 💎 unemployed secular 🦋 celebrity ⭐️ influencer 💥♥️
     location: "Greece"
-    followers: 6064
-    engagement: 1520
-    commentsToLikes: 0.132907
-    id: ckap38heg1zqz0i78rmoz4eca
+    followers: 46467
+    engagement: 703
+    commentsToLikes: 0.039522
+    id: ckapa1q2ducyw0i784g4bwvf8
     verified: false
-    hashtags: "#greecestagram, #sifnosisland, #portrait, #summer2020"
-  - username: "sevastiana_k"
-    fullname: >-
-      Sevi_sk
-    bio: >-
-      •content creator •Mc blog award 18’ •Dm for collabs: Sevastiana1990@gmail.com 📍Patras, Greece
-    location: "Greece"
-    followers: 31453
-    engagement: 480
-    commentsToLikes: 0.043082
-    id: ck8swmvhvekim0j78an15cwgh
-    verified: false
-    hashtags: "#travelgirl, #travelgreece, #greekislands, #tinosisland"
+    hashtags: "#likeforlikes, #love, #instagood, #happyvalentinesday"
   - username: "vicky_panetsidou"
     fullname: >-
       Vicky Panetsidou
     bio: >-
       🇬🇷Karate 3🥇,2🥉European Champion 4🥇,2🥈,8🥉 Wold Pr.League 🥈MedGames 🌎#7 alltime world ranking 🔶@stoiximan.gr @Baya.fit @arawaza_intl @scitecnutrition
     location: "Greece"
-    followers: 33128
-    engagement: 465
-    commentsToLikes: 0.017053
+    followers: 32882
+    engagement: 408
+    commentsToLikes: 0.012075
     id: ck5pzbw2p07ro0i118125noqb
     verified: false
-    hashtags: "#iroesgr, #greekteam, #onegoal, #greatinjapan"
-  - username: "samantha.n.morrison"
+    hashtags: "#fitnessmotivation, #greatinjapan, #karateathlete, #martialarts"
+  - username: "megha_karpe"
     fullname: >-
-      Samantha Morrison
+      𝐌𝐄𝐆𝐇𝐀 𝐊𝐀𝐑𝐏𝐄
     bio: >-
-      🔹Brand ambassador 🔹 @tabatastores Discount code for 20%: samantha @fitness.on_life Discount code: Samantha20
+      -🆃🅸🅶🅴🆁🅱🅰🅱🆈 -𝐖𝐢𝐬𝐡 𝐦𝐞 𝟏𝟏 𝐀𝐩𝐫 -[ɢᴇᴍɪɴɪ ɢɪʀʟ] -𝐐𝐮𝐞𝐞𝐧 𝐎𝐟 𝐌𝐲 𝐎𝐰𝐧 𝐊𝐢𝐧𝐠𝐝𝐨𝐦 💫 -𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧, 𝐊𝐢𝐧𝐝𝐥𝐲 ᴅᴍ | 𝗺𝗲𝗴𝗵𝗮𝗸𝗮𝗿𝗽𝗲𝟲𝟭𝟵@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 #meghajiten
     location: "Greece"
-    followers: 9475
-    engagement: 827
-    commentsToLikes: 0.046459
-    id: ck0vyxij769mr0i1985t3tvto
+    followers: 349132
+    engagement: 306
+    commentsToLikes: 0.012188
+    id: ck8tb1u47tzyl0j783hsyuh61
     verified: false
-    hashtags: "#portraitphotography, #anonima, #greekjewelry, #portrait"
+    hashtags: "#bhfyp, #follow, #training, #fitfam"
+  - username: "christos.gatsis"
+    fullname: >-
+      Χρήστος Γάτσης ®
+    bio: >-
+      @vizantinos_target_sport_club @target_sport_world @target_security FIFA &FIBA Agent EBU Boxing Agent Athens Sport University MA:HR&PHD:Management
+    location: "Greece"
+    followers: 16667
+    engagement: 286
+    commentsToLikes: 0.006911
+    id: ck5hq8ndesp420i11ujzbs2s7
+    verified: false
+    hashtags: "#boxing, #vizantinostargetsportclub, #building, #navarinochallenge"
+  - username: "jeremyjauncey"
+    fullname: >-
+      Jeremy Jauncey
+    bio: >-
+      Founder & CEO @beautifuldestinations @beautifulhotels WWF, Gold Standard, Panerai Ambassador @wwf @goldstandard4globalgoals @panerai 🐼🌎😎🤙 #bdteam
+    location: "Greece"
+    followers: 1168709
+    engagement: 636
+    commentsToLikes: 0.007401
+    id: ck0tymyj3nbu20i1920f6wcw4
+    verified: true
+    hashtags: "#beautifuldestinations, #bdteam, #inabudhabi"
 ---

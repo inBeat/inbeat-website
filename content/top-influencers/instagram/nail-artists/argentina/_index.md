@@ -1,48 +1,60 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Argentina In 2022
+title: Top 10 Nail Artists Instagram Influencers In Argentina In 2023
 description: >-
-  Find top nail artists Instagram influencers in Argentina in 2022. Most popular hashtags: #nails #makeup #halloween #love.
+  Find top nail artists Instagram influencers in Argentina in 2023. Most popular hashtags: #makeup #nails #nailsofinstagram #nailsart.
 platform: Instagram
 hits: 11
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 11 Instagram influencers like this in Argentina for you to work with.
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 11 Instagram influencers like this in Argentina for you to contact.
 profiles:
+  - username: "allymade"
+    fullname: >-
+      Alιηα✨
+    bio: >-
+      Nail artist | Dancer Tucumán-Argentina ᴡʜɪᴛᴇ ᴀɴᴅ ᴘᴜʀᴇ ʟɪᴋᴇ ᴄᴏᴄᴀɪɴᴇ.🖕🏻
+    location: "Argentina"
+    followers: 18712
+    engagement: 766
+    commentsToLikes: 0.015702
+    id: ckap4ugdq8xcg0i78oyso0q6e
+    verified: false
+    hashtags: "#upd"
   - username: "smaltefy"
     fullname: >-
       💖 𝑻𝒆𝒇𝒚 𝑨𝒚𝒂𝒍𝒂 - 𝑵𝒂𝒊𝒍 𝒂𝒓𝒕𝒊𝒔𝒕 💅
     bio: >-
-      Manicurista certificada - Nail educator Stamping & Freehand ✨ Peruana 🇵🇪 ↓↓↓ Visita mi canal en Youtube ↓↓↓
+      Manicurista certificada - Nail educator Stamping & Freehand ✨ Peruana 🇵🇪 #UnaHelloKittyAlMes ↓↓↓ Visita mi canal en Youtube ↓↓↓
     location: "Argentina"
-    followers: 8950
-    engagement: 323
-    commentsToLikes: 0.129725
+    followers: 9057
+    engagement: 314
+    commentsToLikes: 0.159942
     id: ck6uglyku3t3e0j719hw5vxoc
     verified: false
-    hashtags: "#nailartdiary, #nailsvideos, #nailarttutorial, #nailsartvids"
-  - username: "estefpais"
+    hashtags: "#stilettonails, #manicureperu, #nailartist, #nailartfan"
+  - username: "saritam.nailsstudy"
     fullname: >-
-      Estefpais
+      ⭐️ Nails Study ⭐️
     bio: >-
-      Soñadora Bailando ‘16 Chica Showmatch 2017*2018*2019​ @corteyconfeccion2020 @cantando2020 @fatima.es.magica TikTok| estefaniapais TW| pais_estefania
+      🦋Especialista en uñas y formadora online 🦋 📍 Terrassa 🌸 Sigue mi cuenta de tattoos💉 @saritamtattoo Visita mi academia online y mi canal de Youtube ⬇️
     location: "Argentina"
-    followers: 37406
-    engagement: 186
-    commentsToLikes: 0.047161
-    id: ckap5pc91clfh0i78w40uek0x
+    followers: 14403
+    engagement: 156
+    commentsToLikes: 0.022160
+    id: ckaot3yhdua410i78xwfg92ki
     verified: false
-    hashtags: "#lookoftheday, #love, #shootingtime, #look"
-  - username: "penny_nail"
+    hashtags: "#nailsofinstagram, #valentinesnails, #christmasnails, #nailporn"
+  - username: "tabathapacer"
     fullname: >-
-      Penny Nail
+      Tabatha Pacer 🐈✨
     bio: >-
-      #NailArt Diseño en Uñas 📱Reservá turno por WA 15-5813-5282 💅Consultas: penny.nail.art@gmail.com 🖥 Info sobre talleres y tienda online en ⬇️
+      🔥 #GoRBT 💻 @daplei 💕 🎤 #CaidoDelKatre 🎮 Geek 👾 🏳️‍🌈 LGBT ✨ Ilustración @jessblue.art 🌈 🐱💖🐱+🐶🐶🐱✨ @combina3 💖 Canal Twitch 👇🏻💕
     location: "Argentina"
-    followers: 67929
-    engagement: 151
-    commentsToLikes: 0.191467
-    id: ck6u9zmws0m7t0j710ca1qwok
+    followers: 171437
+    engagement: 670
+    commentsToLikes: 0.011165
+    id: ck13aly84r0w70i19ad4v1m1f
     verified: false
-    hashtags: "#instanails, #nailsmagazine, #pennyartist, #nailartbuenosaires"
+    hashtags: "#pirinolamayor, #nomakeup, #pok, #tbt"
   - username: "fannynailart"
     fullname: >-
       Fanny Nail Artist
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.026626
     id: ck5q4cqkaoln90i11xc05qewt
     verified: false
-    hashtags: "#bestnailsalon, #beautifulnailmiami, #nailstraining, #longnails"
+    hashtags: "#nailmiami, #nailsdoral, #nailsorlando, #nailgasm"
   - username: "val_moon_sw"
     fullname: >-
       Val Moon Loayza Alv
     bio: >-
-      GEMINIS♊ NAIL💅ARTIST👩🏼‍🎨🎨 COSPLAY AMATEUR 🧵👩🏼‍🔧 SAILOR WONDER (KPOP💃🏼) HEMBRA ALFA 🐺 MOONIE🌙🐰 CINEPHILE🎬 MUSICALS💃🏼🎭🎶 Pá🇺🇾👫🇧🇴Má = Val🤹🏼‍♀️🇦🇷(?
+      GEMINIS♊ Asc♊ NAIL💅ARTIST👩🏼‍🎨🎨 COSPLAY AMATEUR 🧵👩🏼‍🔧 SAILOR WONDER (KPOP💃🏼) HEMBRA ALFA(? 🐺 MOONIE🌙🐰 CINEPHILE🎬 MUSICALS💃🏼🎭🎶 Pá🇺🇾👫🇧🇴Má = Val🤹🏼‍♀️🇦🇷(?
     location: "Argentina"
-    followers: 4083
-    engagement: 1166
-    commentsToLikes: 0.108615
+    followers: 4113
+    engagement: 1206
+    commentsToLikes: 0.108949
     id: ck6tigtqz0ovl0j71cd1k896q
     verified: false
-    hashtags: "#cosplayargentina, #scoobydoocosplay, #chuckiefinstercosplay, #childhood"
-  - username: "mishelegonzalezmakeup"
+    hashtags: "#scoobydoowhereareyou, #geeklife, #geekoutfit, #geekchic"
+  - username: "giggsymakeup"
     fullname: >-
-      BEAUTY • FASHION • LIFESTYLE
+      Majo Rios Gaitán
     bio: >-
-      Bienvenida a mi mundo rosa 🌸 Mommy & Wife 🌸 Professional Makeup Artist International Certified 🇩🇴🇲🇽🇧🇷 GUATEMALA📍 #beautybloggers
+      ✨ #LunesDeSkincare #SabadosDeMakeup 💄 Makeup Artist @gmakeupstudio 🎬 YouTube +100K ⤵️
     location: "Argentina"
-    followers: 9686
-    engagement: 644
-    commentsToLikes: 0.066845
-    id: ck6u21513p3h20j71tiur5ral
+    followers: 46422
+    engagement: 207
+    commentsToLikes: 0.049765
+    id: ck15scihgcbfq0i19wdz4faay
     verified: false
-    hashtags: "#eyelook, #makeuplooks, #photoshoot, #abiaguatemala"
-  - username: "gabrielahernandez.mua"
+    hashtags: "#mua, #skincare, #makeup, #skin"
+  - username: "byantofazio"
     fullname: >-
-      Gabriela Hernández
+      Antonella Fazio
     bio: >-
-      ＭＡＫＥＵＰ ＡＲＴＩＳＴ ✨ ESPECIALISTA EN NOVIAS MAKEUP BLOGGER MICROBLADING EXPERT CEO @gabyhernandezestudio GUADALAJARA 🇲🇽
+      Content creator - Makeup Artist Me llamo Anto pero me dicen Byan Makeup - Skincare - Lifestyle
     location: "Argentina"
-    followers: 24052
-    engagement: 282
-    commentsToLikes: 0.030588
-    id: ck9h9uah69zkd0j787wpi4x8q
+    followers: 30853
+    engagement: 476
+    commentsToLikes: 0.659088
+    id: ckapcgeid3pg70i78dc8prm2g
     verified: false
-    hashtags: "#makeupartist, #inspo, #momlife, #love"
-  - username: "lucas_gentili"
+    hashtags: "#skincare, #skincareproducts, #plusblogger, #cuidadodelapiel"
+  - username: "marlene_mourreau_oficial"
     fullname: >-
-      Lucas Gentili
+      Marlene Mourreau
     bio: >-
-      • Artista y humano en evolución •
+      Artista de espectáculo .vedette .actriz .Dancer singer .presentadora TV . Ganadora Ghvip1 .superviviente .businesswoman & Mother
     location: "Argentina"
-    followers: 2673
-    engagement: 765
-    commentsToLikes: 0.113119
-    id: ck6uditstlcra0j71gtun4f0s
+    followers: 30301
+    engagement: 269
+    commentsToLikes: 0.063436
+    id: ck5ztyqwl1d130i145dnj2183
     verified: false
-    hashtags: "#covid, #cantante, #lucasgentili, #musical"
-  - username: "melmunizmusica"
-    fullname: >-
-      Mel Muñiz
-    bio: >-
-      ⚔️𝒜𝒢𝒰𝐸𝑅𝑅𝐼𝒟𝒜 ⚔️ Mi nuevo disco solista . Además soy 🌶🔥 #ArtistaRadar de OCT ⚔️ en #𝚂𝚙𝚘𝚝𝚒𝚏𝚢 . ESCÚCHALO COMPLETO ACÁ :
-    location: "Argentina"
-    followers: 40012
-    engagement: 296
-    commentsToLikes: 0.033583
-    id: ck6tl25hv5tzz0j71ylvgks6j
-    verified: false
-    hashtags: "#simple, #melmunizmusica, #vals, #discosolista"
+    hashtags: "#makeup, #photo, #jueves18defebrero, #bonjour"
   - username: "ninaventre"
     fullname: >-
-      Nina
+      Nina Ventre
     bio: >-
-      ULTIMO TEMA DISPONIBLE 👇🏻
+      Tu barbie de Argentina since 2002 🫦🎀 💓💓💓💓💓💓💓💓💓💓💓💓💓💓 MIRA MI NUEVO VIDEOCLIP “NO CONTROL” 🏝️💖
     location: "Argentina"
-    followers: 13190
-    engagement: 1272
-    commentsToLikes: 0.082502
+    followers: 27954
+    engagement: 307
+    commentsToLikes: 0.053867
     id: ckaovczjd424x0i78gn6n79v0
     verified: false
-    hashtags: "#hiphopartist, #indiehiphop, #recordingartist, #music"
+    hashtags: "#ninaventre, #singer, #singing, #music"
 ---

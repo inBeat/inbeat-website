@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Philadelphia In 2022
+title: Top 10 Food TikTok Influencers In Philadelphia In 2023
 description: >-
-  Find top food TikTok influencers in Philadelphia in 2022. Most popular hashtags: #fyp #foryou #food #philly.
+  Find top food TikTok influencers in Philadelphia in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
-hits: 9
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 9 TikTok influencers like this in Philadelphia, United States for you to collaborate.
+hits: 10
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 10 TikTok influencers like this in Philadelphia, United States for you to connect with.
 profiles:
-  - username: "laurenzray"
+  - username: "ogvdp"
     fullname: >-
-      Lauren Z Ray
+      aregvdp
     bio: >-
-      My Mini Travel 🌎 Vlogs + vegan food
+      PENNSYLVANIA TIK TOK IF YOU MADE IT THIS FAR JUST FOLLOW 🇺🇸 USMC VETERAN 🇺🇸
     location: "United States"
-    followers: 91000
-    engagement: 1037
-    commentsToLikes: 0.084531
-    id: ckbqdfsjgzfws0j23m92pvvxq
+    followers: 21800
+    engagement: 1024
+    commentsToLikes: 0.152958
+    id: cka5ytg5pjqrw0i78wkncgd1q
     verified: false
-    hashtags: "#newyorkcity, #fall, #newyork, #tiktoktravel"
-  - username: "k3v.cappo"
+    hashtags: "#fyp, #snow, #friends, #foru"
+  - username: "mckayla112"
     fullname: >-
-      K3
+      Mckayla
     bio: >-
-      CEO of vibes💚 Follow me on insta Norf Philadelphia 💨 Mood boi🌟
+      21
     location: "United States"
-    followers: 44300
-    engagement: 1531
-    commentsToLikes: 0.026337
-    id: ckcdfqd586rdp0j23ut0j529n
+    followers: 15600
+    engagement: 784
+    commentsToLikes: 0.048785
+    id: ckbbt2i40gkhj0j23a551u5qq
     verified: false
-    hashtags: "#funny, #spotlight, #like, #2k20"
+    hashtags: "#cat, #foryoupage, #randonaut, #neverfitin"
+  - username: "chrisfralinger"
+    fullname: >-
+      chrisfralinger
+    bio: >-
+      🎉Thank you for 15k! 🎉 26 || 📍Philadelphia || 🐶 Carson
+    location: "United States"
+    followers: 15400
+    engagement: 512
+    commentsToLikes: 0.019901
+    id: ckc8v4mmahs1u0j23brjv4ydg
+    verified: false
+    hashtags: "#viral, #foryoupage, #fyp, #foryou"
+  - username: "the_reeses_guy"
+    fullname: >-
+      The Reese's Guy
+    bio: >-
+      CEO of Reese's Cups, Puffs, and Pieces Tag me or use #ReesesGuy 📍Philly
+    location: "United States"
+    followers: 55800
+    engagement: 1692
+    commentsToLikes: 0.080780
+    id: ck81q1iemf6ct0j785ivh2ptn
+    verified: false
+    hashtags: "#candy, #reesesguy, #reeses, #philadelphia"
+  - username: "chefsam_n"
+    fullname: >-
+      Sam Nahhas
+    bio: >-
+      Sam Nahhas Professional pastry chef @ Normandy Farm Hotel شيف حلويات
+    location: "United States"
+    followers: 204200
+    engagement: 420
+    commentsToLikes: 0.024636
+    id: ck8toyuu5oiqx0j78c4ol0v84
+    verified: false
+    hashtags: "#dessert, #usa, #food, #chocolate"
+  - username: "godfatherofmeat"
+    fullname: >-
+      Godfather of meat
+    bio: >-
+      CEO of Sandwiches Godfatherofmeat@gmail.com
+    location: "United States"
+    followers: 199200
+    engagement: 779
+    commentsToLikes: 0.030522
+    id: ckbqsf1q9dbse0j238bud3zny
+    verified: false
+    hashtags: "#sandwich, #southcarolina, #foodie, #eatwithme"
   - username: "dandris123"
     fullname: >-
       Dan Andris 
     bio: >-
       Stay a while Snap: Dandris3 PA👋🏼
     location: "United States"
-    followers: 3109
-    engagement: 1027
-    commentsToLikes: 0.057834
+    followers: 3086
+    engagement: 959
+    commentsToLikes: 0.071682
     id: ck9grq01zezgh0j78qdfyshw3
     verified: false
-    hashtags: "#football, #nfl, #fyp, #laceemup"
-  - username: "hotdogwater337"
+    hashtags: "#nfl, #football, #warzone, #callofdutymodernwarfare"
+  - username: "acintron22"
     fullname: >-
-      Hotgirlbummer
+      Acintron22
     bio: >-
-      Black lives matter She/her Philly 🏳️‍🌈 IG : cmon_over_valerie
+      Hey I’m ANTHONY 👋🏻👋🏻👋🏻👋🏻👋🏻 31 yrs old Nj 🖤TAKEN
     location: "United States"
-    followers: 7647
-    engagement: 1725
-    commentsToLikes: 0.077059
-    id: ck81s9hfhr0o70j78zv3tjaes
+    followers: 14800
+    engagement: 1373
+    commentsToLikes: 0.070784
+    id: ck9fqb1q2baa80j78bufknzsm
     verified: false
-    hashtags: "#rhymepov, #4u, #gayfyp, #gay"
-  - username: "doseofvitaminmc"
+    hashtags: "#oops, #off, #philly, #draft"
+  - username: "mixitupabit0"
     fullname: >-
-      Marycruz🦋🖤
+      Mixitup A Bit
     bio: >-
-      your daily dose of vitamin MC 🥴 21 | LA
+      
     location: "United States"
-    followers: 60500
-    engagement: 1718
-    commentsToLikes: 0.017440
-    id: ckbqpizstad0k0j231hsqhh7a
+    followers: 24000
+    engagement: 354
+    commentsToLikes: 0.363646
+    id: ckav7fckjeg9q0j23t8i4xo30
     verified: false
-    hashtags: "#travel, #recipe, #cooking, #california"
-  - username: "aznmandingo"
+    hashtags: "#nccheck, #northcarolina, #nc, #food"
+  - username: "bradfordawilson"
     fullname: >-
-      JohnnyBoi
+      bradfordawilson
     bio: >-
-      Following me will encourage me to bring you more crazy clips if tiktok let me
+      He/Him/step-dad Black Lives Matter
     location: "United States"
-    followers: 43300
-    engagement: 1531
-    commentsToLikes: 0.022824
-    id: ckbl1av0dy4cp0j2338yy3ti8
+    followers: 19500
+    engagement: 903
+    commentsToLikes: 0.039313
+    id: ck9addozwww640j78ticew6pi
     verified: false
-    hashtags: "#funny, #viral, #cute, #dog"
-  - username: "thecabelguy64"
-    fullname: >-
-      Cabel McCandless
-    bio: >-
-      I’m Cabel, I’m 22 and I’m once again seeking serotonin
-    location: "United States"
-    followers: 5574
-    engagement: 1034
-    commentsToLikes: 0.040338
-    id: ck8qkrt1zimru0j78kpwhiani
-    verified: false
-    hashtags: "#showerthoughts, #newyork, #notonething, #safeguardsplash"
-  - username: "sunn912"
-    fullname: >-
-      Sunna Ahmad
-    bio: >-
-      No reposts please 💕
-    location: "United States"
-    followers: 49900
-    engagement: 588
-    commentsToLikes: 0.022618
-    id: ckcv67gsrpjp90j23a505g6hl
-    verified: false
-    hashtags: "#foryou, #tiktokafghan, #afghantiktok, #foryoupage"
-  - username: "teddyeight"
-    fullname: >-
-      Teddy 8
-    bio: >-
-      2 fat guys in a truck on YouTube cheack us out we use to be on mtv and tru tv.
-    location: "United States"
-    followers: 4701
-    engagement: 1328
-    commentsToLikes: 0.071019
-    id: ckae0p78zky550i78nyenyhs9
-    verified: false
-    hashtags: "#duet, #dance, #bigbellyboy, #bugs"
-  - username: "foods"
-    fullname: >-
-      Foods
-    bio: >-
-      Foodies Child Click Below To Add My Snapchat⬇️ adding back first 100 (87/100)
-    location: "United States"
-    followers: 383200
-    engagement: 2125
-    commentsToLikes: 0.020492
-    id: ckavk8b2bt4nh0j23fe2720hw
-    verified: true
-    hashtags: "#learnontiktok, #cheese, #ramen, #recipe"
+    hashtags: "#blacklivesmatter, #greenscreen, #fyp, #losangeles"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Chicago In 2022
+title: Top 10 Food TikTok Influencers In Chicago In 2023
 description: >-
-  Find top food TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #foryou #food.
+  Find top food TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #chicago #foryoupage.
 platform: TikTok
-hits: 111
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 111 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 92
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 92 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "cbssports"
-    fullname: >-
-      CBS Sports
-    bio: >-
-      The official TikTok account of CBS Sports
-    location: "United States"
-    followers: 1200000
-    engagement: 1851
-    commentsToLikes: 0.006443
-    id: ck8qgjfog13m90j78eceugqjt
-    verified: true
-    hashtags: "#nflvideos, #nfl, #fyp, #collegefootball"
   - username: "312food"
     fullname: >-
-      Erin Byrne | 312food
+      312food • Chicago Food Blogger
     bio: >-
-      hi, I’m Erin! 🍔🍕🍟🌮🥓🥞🍒 Chicago food lover 112k on IG
+      hi, I’m Erin!! 🍕🍔🍟🌮 Chicago food & fun 120k on IG
     location: "United States"
-    followers: 47900
-    engagement: 832
-    commentsToLikes: 0.018913
+    followers: 69200
+    engagement: 638
+    commentsToLikes: 0.034561
     id: cka0ke8zem4dn0i78w54doz9r
     verified: false
-    hashtags: "#chicagofood, #wearamask, #tiktokfoodie, #yum"
-  - username: "lowcountrychi"
+    hashtags: "#chicago, #chicagofood, #chicagotok, #cheese"
+  - username: "visualsbyjack"
     fullname: >-
-      lowcountrychi
+      Jack Gillespie
     bio: >-
-      Serving mouthwatering seafood boils in Chicago & Milwaukee. 🦞🦀🦐
+      follow my instagram for more! ⤴️ insta: @visuals.by.jack uiuc ‘24 19 | chicago
     location: "United States"
-    followers: 98000
-    engagement: 1381
-    commentsToLikes: 0.009975
-    id: ck8hk4uw2cbtv0j78rw3yfemu
+    followers: 211000
+    engagement: 875
+    commentsToLikes: 0.042328
+    id: ckb9bzqneyich0j23ady5c9l6
     verified: false
-    hashtags: "#lobster, #lobstertail, #foodlover, #cajunfood"
-  - username: "viralvailie"
+    hashtags: "#foru, #trippy, #city, #explore"
+  - username: "itzaktivated"
     fullname: >-
-      Viral Vailie
+      Aktivated Ent. ©️
     bio: >-
-      YouTube Viral Vailie | SC: Big_vailie | FB: Viral Vailie https://youtu.be/o15it
+      Talent will always Come to light 🗣
     location: "United States"
-    followers: 7617
-    engagement: 548
-    commentsToLikes: 0.068029
-    id: ckcpqtdj4kdd90j23ei9e0yzw
+    followers: 712700
+    engagement: 1054
+    commentsToLikes: 0.050452
+    id: ckdi7qxmd9siu0j23qcvyd2cg
     verified: false
-    hashtags: "#follow, #dayum, #funny, #comedy"
-  - username: "jinathegorgeous"
+    hashtags: "#foryourpage, #upnext, #comedy, #viral"
+  - username: "asiamiamor"
     fullname: >-
-      jina the gorgeous
+      Asiamiamor
     bio: >-
-      Tiktok LIVE M-F 11am or 9pm PST 💕Follow me on Instagram 💕 HUGE giveaway coming
+      💕IG @asiamiamor
     location: "United States"
-    followers: 122500
-    engagement: 1500
-    commentsToLikes: 0.014605
-    id: ck9r6fsgs3oc90j783eqwvv98
+    followers: 13400
+    engagement: 601
+    commentsToLikes: 0.049009
+    id: ckbqglg2q23mj0j23thb0ds2i
     verified: false
-    hashtags: "#weirdnotsoweird, #korean, #korea, #boba"
-  - username: "masoncmahoneyfit"
+    hashtags: "#mua, #moneytok, #foru, #foryou"
+  - username: "i.am.blackinese"
     fullname: >-
-      Mason Mahoney
+      i.am.blackinese
     bio: >-
-      Elon Musk’s Fitness Account🔥 👇🏻FREEBIES, PODCAST, TUNES👇🏻
+      50% black 50% chinese --> 100% authentic 💯 混血
     location: "United States"
-    followers: 148200
-    engagement: 553
-    commentsToLikes: 0.014671
-    id: ck92t5ylcgh3x0j78d2qe5tc0
+    followers: 133000
+    engagement: 559
+    commentsToLikes: 0.010453
+    id: ckact0ptyclgm0i7860vcowmw
     verified: false
-    hashtags: "#health, #mensphysique, #nutrition, #fitnesstips"
-  - username: "thatpillowguy"
+    hashtags: "#animation, #grandmasoftiktok, #cartoon, #funny"
+  - username: "connerchanttt"
     fullname: >-
-      thatpillowguy
+      Chant_photography
     bio: >-
-      Making Pillows Great Again Www.ThatPillowGuy.com
+      Albuquerque, NM Just makin random vids📹 Email: chant.conner@gmail.com
     location: "United States"
-    followers: 33500
-    engagement: 1106
-    commentsToLikes: 0.044818
-    id: ckbkxympnu34a0j23l7gdtdnh
+    followers: 40700
+    engagement: 3564
+    commentsToLikes: 0.717003
+    id: ckd61gv7s1hbn0j2345deu3fl
     verified: false
-    hashtags: "#fypchallenge, #pillowtalk, #fyp, #instagram"
-  - username: "a.e.barkii"
+    hashtags: "#coffee, #starbucks, #xyzbca, #fyp"
+  - username: "eattravelrock"
     fullname: >-
-      Ashley Elizabeth
+      Kelly Rizzo
     bio: >-
-      I kinda do some duets 🖤 Mom. Wife. Mental Health Advocate. ▪️Links in BIO▪️
+      Award-Winning Eat Travel Rock TV Food/Travel/Fun🎥 LA/Chicago Gal 🇺🇸🇮🇹
     location: "United States"
-    followers: 274000
-    engagement: 1687
-    commentsToLikes: 0.022186
-    id: ckc8wf2bbjtfj0j23m7720r04
-    verified: false
-    hashtags: "#foryou, #duet, #xyzbca, #fallfashion"
-  - username: "officialschoolnurse"
+    followers: 290500
+    engagement: 839
+    commentsToLikes: 0.027154
+    id: ck80oq80jj7lk0j78wd2t1otg
+    verified: true
+    hashtags: "#choosechicago, #cedarplank, #visitjamaica, #girlscoutcookies"
+  - username: "demondogsenna"
     fullname: >-
-      Joe
+      Senna ❌
     bio: >-
-      School Nurse working in the UK 🙋‍♂️
+      Senna helps dogs find homes ✨⬇️LINK FOR shop CLICK here⬇️✨
     location: "United States"
-    followers: 5
-    engagement: 1966
-    commentsToLikes: 0.012032
-    id: ck7zosldwlr1d0j78ce2etpb2
+    followers: 1100000
+    engagement: 1329
+    commentsToLikes: 0.012860
+    id: ckcekhuemtwc90j23p2ufxfwx
     verified: false
-    hashtags: "#edutok, #tiktoknurse, #schoolnurse, #nurse"
-  - username: "plussomeinches"
+    hashtags: "#demondogsenna, #fyp, #foryou, #foryoupage"
+  - username: "themotherrabbit"
     fullname: >-
-      Denise & Lindsey
+      Tiffanie Marie
     bio: >-
-      Two Bffs Denise 5’3” (size 14/16) Lindsey 6’0” (size 10/l2) 📍Chicago
+      I’m a chef in Tulsa Oklahoma that makes elevated products. I’m also funny AF.
     location: "United States"
-    followers: 115300
-    engagement: 638
-    commentsToLikes: 0.022166
-    id: ckdcebvcgk2g90j23lzs1gdt8
+    followers: 69200
+    engagement: 1462
+    commentsToLikes: 0.056070
+    id: ckcuk1jbmgphf0j234b7gf3on
     verified: false
-    hashtags: "#ootdchallenge, #tallgirlfashion, #matchingoutfits, #styletips"
+    hashtags: "#baker, #smallbusiness, #whiterabbitmedicinals, #colorado"
+  - username: "icejony"
+    fullname: >-
+      Jony
+    bio: >-
+      😈👻👽 🌍cars 💊Travel 🇺🇸 Drop a Like and some FOLLOW
+    location: "United States"
+    followers: 64200
+    engagement: 768
+    commentsToLikes: 0.027589
+    id: ck80oo617ip9v0j78k854n1d8
+    verified: false
+    hashtags: "#fup, #foryoupage, #viral, #foryou"
 ---

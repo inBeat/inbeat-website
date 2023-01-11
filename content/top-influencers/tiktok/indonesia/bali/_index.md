@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Bali In 2022
+title: Top 10 TikTok Influencers In Bali In 2023
 description: >-
-  Find top TikTok influencers in Bali in 2022. Most popular hashtags: #fyp #duet #foryoupage #bali.
+  Find top TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #stitch #viral.
 platform: TikTok
-hits: 112
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 112 TikTok influencers like this in Bali, Indonesia for you to work with.
+hits: 100
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 100 TikTok influencers like this in Bali, Indonesia for you to contact.
 profiles:
-  - username: "shantyjuliyani07"
+  - username: "qnoy26official_"
     fullname: >-
-      TTCS/THC.founder shanty
+      Q' 𝓝Ｏ𝕪⚡
     bio: >-
-      like aku pasti aku like balik
+      Hidup Itu Proses Bukan Protes✌️ Balikpapan(oil city) IG ; theredblcknoy26_
     location: "Indonesia"
-    followers: 7270
-    engagement: 4757
-    commentsToLikes: 0.200257
-    id: ckcpukc4fpqjf0j2377hnvw6z
+    followers: 41600
+    engagement: 1756
+    commentsToLikes: 0.153391
+    id: ck9vf7xvn22ne0j78tbbtny40
     verified: false
-    hashtags: ""
-  - username: "akuocha"
+    hashtags: "#foryoupage, #balikpapan, #netizen, #ceramah"
+  - username: "olumidegbenro"
     fullname: >-
-      ocha
+      Olumide Gbenro
     bio: >-
-      19 balinese business inq @ochamg (on line) 📩 ochamega03@gmail.com
+      🇳🇬 & 🇺🇸 📍 🇮🇩Bali 📲Speak 7 Languages 100K Jake Paul NFT 🖼 👇🏾
     location: "Indonesia"
-    followers: 2900000
-    engagement: 1988
-    commentsToLikes: 0.013997
-    id: ckc1u5vjzydwb0j23n9nf4pcw
-    verified: true
-    hashtags: "#transition, #ichiocha, #transitioner, #effort"
+    followers: 134900
+    engagement: 1049
+    commentsToLikes: 0.084258
+    id: ckbkn6hu4h5xa0j230hjalzs7
+    verified: false
+    hashtags: "#indonesiafyp, #luxuryhotelsandresorts, #fypindo2021, #jakartatiktok"
   - username: "tyoragil1904"
     fullname: >-
       Tyo Ragil🇮🇩
     bio: >-
-      📍Badung, BALI🌴 FOR MORE 👉DM Grub Wa 👇
+      📍Badung, BALI🌴 FOR MORE 👉DM 📸Random Content Grub Wa 👇
     location: "Indonesia"
-    followers: 24800
-    engagement: 1784
-    commentsToLikes: 0.072456
+    followers: 25300
+    engagement: 1697
+    commentsToLikes: 0.082653
     id: ckavp1wmkzzdf0j23zm3r2qbo
     verified: false
-    hashtags: "#winwithasmile, #jadiawsem, #awesomeisus, #foryoupage"
+    hashtags: "#stitch, #yearontiktok, #kibassampailusa, #fyp"
   - username: "ngakanbonchell"
     fullname: >-
-      AJIK KABE🏝
+      KaguraTiktok
     bio: >-
-      🏠Gianyar, Bali Help 1K instagram Bantu 100k ges😭 ↘️Donasi seikhlasnya Bund↙️
+      🏠Gianyar, Bali ID 202022572(9048) ⬇️MABAR JOIN GRUP⬇️
     location: "Indonesia"
-    followers: 85200
-    engagement: 911
-    commentsToLikes: 0.053486
+    followers: 103000
+    engagement: 862
+    commentsToLikes: 0.059027
     id: ckcopxcil72iq0j23fwmlyjzd
     verified: false
-    hashtags: "#mobilelegends, #mobilelegendindonesia, #ngakanbonchell, #kaguratiktok"
+    hashtags: "#mobilelegends, #samasamamain, #indopride, #mlbbcreator"
+  - username: "widyahalmaherani19"
+    fullname: >-
+      Widyaaa🦋
+    bio: >-
+      📍Bali Bantu 15k instagram aku🥰💜 Ig: widyahalmaheraniii_
+    location: "Indonesia"
+    followers: 309100
+    engagement: 1330
+    commentsToLikes: 0.049036
+    id: ckd5xyyjd0baj0j23wfr8sirr
+    verified: false
+    hashtags: "#fyp, #viral, #gabutbangetanjir, #bubu"
   - username: "typmeup"
     fullname: >-
       Typo Queeen🎀
     bio: >-
-      bALi h03/crackhead no in between For fun only<3
+      bALi h03/crackhead no in between Dont click the link👍
     location: "Indonesia"
-    followers: 39200
-    engagement: 1623
-    commentsToLikes: 0.022425
+    followers: 40600
+    engagement: 1429
+    commentsToLikes: 0.025226
     id: ckbqdfnm2zf5q0j23afdlpsho
     verified: false
-    hashtags: "#duet, #gabutdoang"
-  - username: "ayusheilani"
-    fullname: >-
-      Ayu Sheilani
-    bio: >-
-      📍Bali
-    location: "Indonesia"
-    followers: 12300
-    engagement: 505
-    commentsToLikes: 0.083850
-    id: ckceiw74ardvs0j23zgf3fhvj
-    verified: false
-    hashtags: "#duet, #fyp, #boyfriendday"
+    hashtags: "#voiceeffects, #questionoftheday, #gemshinimpact, #xiao"
   - username: "erilegas"
     fullname: >-
       Chill-Kid
     bio: >-
-      Bali kid🏝 Just to busy having fun
+      Bali kid🏝 Just busy having fun and trying to be kind
     location: "Indonesia"
-    followers: 38100
-    engagement: 421
-    commentsToLikes: 0.070399
+    followers: 40700
+    engagement: 457
+    commentsToLikes: 0.074977
     id: ckc8iwpqfcfqf0j232nib7qvg
     verified: false
-    hashtags: "#sign, #aries, #foryou, #omnibuslaw"
-  - username: "sptrakori_"
+    hashtags: "#fyp, #clubhouse, #foryou, #stitch"
+  - username: "akuocha"
     fullname: >-
-      sptrakori_
+      ocha
     bio: >-
-      Bali🇮🇩 NANYAK LAGI LU! QNA NGAKAKK!!😭🤣 ⬇️Buruan cek sekarang⬇️
+      19 balinese business inq @ochamg (on line use @) 📩 ochamega03@gmail.com
     location: "Indonesia"
-    followers: 1600000
-    engagement: 1889
-    commentsToLikes: 0.012450
-    id: ckc8vz2mzj5nd0j230vzcn62m
-    verified: false
-    hashtags: "#canrelate, #fyp, #foryou, #foryoupage"
-  - username: "dikaagans__"
+    followers: 3300000
+    engagement: 1936
+    commentsToLikes: 0.006859
+    id: ckc1u5vjzydwb0j23n9nf4pcw
+    verified: true
+    hashtags: "#trending, #kojiesanindonesia, #skincareindonesia, #racunskincare"
+  - username: "diinaariistya"
     fullname: >-
-      Dikaaaa
+      Ga Pernah FYP!
     bio: >-
-      Gianyar-Bali 🇮🇩 ig :: @Dika_958
+      buleleng,bali help 5k fllwers igku❤ @diinaariistya ⬇
     location: "Indonesia"
-    followers: 18800
-    engagement: 1342
-    commentsToLikes: 0.054982
-    id: ckbkpyramk6vh0j23wna6izbq
+    followers: 65400
+    engagement: 1243
+    commentsToLikes: 0.045740
+    id: ckdsgc9mllx290j236v2cle5t
     verified: false
-    hashtags: "#fypbali, #zoommyface, #dc, #dct"
-  - username: "dr.mariojohan"
+    hashtags: "#foryoupageindonesia, #fyp, #monthsary"
+  - username: "yoga_pangestu301200"
     fullname: >-
-      dr.Joee
+      OgiK🍑✨
     bio: >-
-      🇮🇩 Bali Health & Relationship Business Inquiry DM IG @joeandzie
+      Bali - Sulawesi♥️ 30 Desember 2000🔥 20 Years Old📌 IG:yogie_perdana99
     location: "Indonesia"
-    followers: 145800
-    engagement: 840
-    commentsToLikes: 0.028421
-    id: ckc3dxkofz6bv0j231wxmgj9k
+    followers: 55300
+    engagement: 1179
+    commentsToLikes: 0.048925
+    id: ckava8htehqr40j238ywy5y6s
     verified: false
-    hashtags: "#samasamabelajar, #duet, #tiktokpintar, #kisahmistis"
+    hashtags: "#duetin, #viral, #fyp, #fypage"
 ---

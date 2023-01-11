@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Crossfit Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top crossfit Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #fitness #crossfit #dubai #workout.
+  Find top crossfit Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fitness #crossfit #dubai #lifestyle.
 platform: Instagram
 hits: 11
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in United Arab Emirates for you to contact.
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "shalan.mahmood"
     fullname: >-
-      محمود شعلان Mahmood Shalan
+      محمود شعلان
     bio: >-
-      • Fittest in UAE 🇦🇪 • Crossfit Games athlete • PT, online coaching or programs ⬇️ @followmylead.training
+      • 2x Fittest in UAE 🇦🇪 • Crossfit Games athlete • PT, online coaching or programs ⬇️ @followmylead.training
     location: "United Arab Emirates"
-    followers: 4502
-    engagement: 876
-    commentsToLikes: 0.053896
+    followers: 4882
+    engagement: 780
+    commentsToLikes: 0.050032
     id: ck6tvb8p7l8d50j71vezwhdx9
     verified: false
-    hashtags: "#mydubai, #fitness, #online, #dubai"
-  - username: "abrahamlao"
+    hashtags: "#dubai, #sports, #programs, #mydubai"
+  - username: "rashadsempire"
     fullname: >-
-      Abraham La O 🧊
+      Rashad | رشاد 👑
     bio: >-
-      🏋️‍♂️ CrossFit 📚 Sport Sciences • 🇪🇸 🇦🇪 • @risingfuj • Personal Trainer ⚙️ • Functional Group Classes 👥
+      🐾| SIU Alumni ☠️| Dominate Humbly 🏋🏻‍♂️| CrossFit L1 Trainer 🎓| M.S. Mech. Engineering
     location: "United Arab Emirates"
-    followers: 7496
-    engagement: 657
-    commentsToLikes: 0.017559
-    id: ck5zkxokvkctk0i14v9aft4ye
+    followers: 5762
+    engagement: 422
+    commentsToLikes: 0.275533
+    id: ck136qfdl7r4v0i19xmziten6
     verified: false
-    hashtags: "#man, #fujairah, #hair, #haircut"
-  - username: "shahad0900"
-    fullname: >-
-      Shahad Budebs 🇦🇪
-    bio: >-
-      قِف على ناصيةِ الحُلم وقاتلْ Fittest Emirati women 2019,2020 Crossfit Games athlete 2019 @xdubai Athlete Ambassador: @barebells.uae
-    location: "United Arab Emirates"
-    followers: 15155
-    engagement: 1034
-    commentsToLikes: 0.024613
-    id: ck6tvbb3pl8ru0j71fladepdh
-    verified: false
-    hashtags: "#dubai, #nike, #nikerunning, #uae"
+    hashtags: "#dxb, #myinvite, #fitrepublik, #motivationalspeaker"
   - username: "siggadb"
     fullname: >-
       Dora The Explorer
     bio: >-
       📍Dubai 🇮🇸 From Iceland @voguefitness.jlt - Crossfit Coach
     location: "United Arab Emirates"
-    followers: 2876
-    engagement: 1153
-    commentsToLikes: 0.038891
+    followers: 2980
+    engagement: 958
+    commentsToLikes: 0.039005
     id: ck0tt1z5q0t2k0i19qlaf7z0s
     verified: false
-    hashtags: "#fitness, #covid19, #voguefitness, #crossfityas"
-  - username: "gaby.daye"
+    hashtags: "#crossfit, #covid19, #crossfityas, #voguefitness"
+  - username: "gabrielsuski"
     fullname: >-
-      Gaby | Dubai Personal Trainer
+      Gabriel Suski
     bio: >-
-      🏋🏼‍♀️Certified Personal Trainer 🤾🏼Physical Preparation For Sports Performance 📍Dubai 🇦🇪 | +971 Contact info: DM or 👇🏽👇🏽
+      💢Ex-Ginasta 🏡From Blumenau, Santa Catarina, Brazil🇧🇷 🎭Currently in La Perle by Franco Dragone 🎪 📍Dubai, UAE 🇦🇪
     location: "United Arab Emirates"
-    followers: 8112
-    engagement: 1852
-    commentsToLikes: 0.048945
-    id: ck55o5m1p7oao0i115gy319i1
+    followers: 9956
+    engagement: 678
+    commentsToLikes: 0.022227
+    id: ck139ozolmex10i195oa641aa
     verified: false
-    hashtags: "#dubaipersonaltrainer, #whatiwore, #fashionable, #bodybuilding"
-  - username: "rashadsempire"
+    hashtags: "#calisthenics, #happy, #vacation, #paje"
+  - username: "charlietaylor"
     fullname: >-
-      Rashad | رشاد 👑
+      Charlie Taylor
     bio: >-
-      🐾| SIU Alumni ☠️| Dominate Humbly 🎓| M.S. Mech. Engineering 📍| Chicago, USA ⤵️ Dubai, UAE 🏋🏻‍♂️| Athlete Ambassador @rgfit_gym
+      🇦🇺 Ex Pro Rugby | 💪🏻 Personal Trainer | 🎥 Actor 📍Dubai🇦🇪 💪🏼: @charlietaylorfit 👨🏼‍💼: @cabucollection 🏋🏼: @proteinworld Code: Charlie NEW VIDEO ⬇️
     location: "United Arab Emirates"
-    followers: 5448
-    engagement: 363
-    commentsToLikes: 0.312578
-    id: ck136qfdl7r4v0i19xmziten6
-    verified: false
-    hashtags: "#uae, #workout, #myinvite, #weight"
-  - username: "justinshape"
+    followers: 467843
+    engagement: 404
+    commentsToLikes: 0.013807
+    id: ck5pzmkxc1pvb0i1148ww6s74
+    verified: true
+    hashtags: "#inshape, #strong, #resistancebands, #selfy"
+  - username: "mo7mmedsalem"
     fullname: >-
-      Justin Garcia
+      Mohammed Salem Bin Ghadayer
     bio: >-
-      📍Dubai Personal Trainer 🇦🇪 ⭐️WCO Elite Coach 🏆WCO USA Featherweight Champ 👇ALL-LEVEL PLANCHE TEXTBOOK ($25)
+      🇦🇪 United Arab emirates #Firefighters 🔥dubai
     location: "United Arab Emirates"
-    followers: 33268
-    engagement: 113
-    commentsToLikes: 0.045211
-    id: ck5pzkq7y1gbf0i11jeuq9r1q
+    followers: 11842
+    engagement: 520
+    commentsToLikes: 0.063171
+    id: ck8sxiyxshklj0j78hc07wi2v
     verified: false
-    hashtags: "#crossfit, #life, #trainer, #handbalancing"
-  - username: "hosseinkarimi.iran"
+    hashtags: "#trekmadone, #firefighter, #dcd997, #crossfit"
+  - username: "arturdainese"
     fullname: >-
-      حسین کریمی | hossein karimi
+      ARTÙR DAINESE
     bio: >-
-      🥇IFBB World Champion PHYSIQUE2019 COACH&THERAPIST #تیم_ملی 🥇قهرمان فیزیک جهان SPONSOR qimia uaefitacademy scitecnutrition matador_sports 📍DUBAI
+      🌍Live to travel, travel to live 🦂 📍Dubai 🇦🇪 ⚜️Brand founder ⬇️ 🐍@arturdainese_python 👘@arturdainese_kimono 📩DM for collab 🗣🇮🇹🇷🇺🇺🇸🇪🇸
     location: "United Arab Emirates"
-    followers: 23565
-    engagement: 558
-    commentsToLikes: 0.074963
-    id: ck6u5w0idc2oj0j71hlpllt25
+    followers: 44991
+    engagement: 114
+    commentsToLikes: 0.055049
+    id: ck6u8or55st5w0j71j727iufv
     verified: false
-    hashtags: "#physique, #bodybuilding, #sport, #today"
-  - username: "abdadwan"
+    hashtags: "#dubaimarina, #sharjah, #instagram, #like"
+  - username: "daly_fit"
     fullname: >-
-      Abdellatif Al Adwan 🇯🇴
+      • ᎠᎪᏞᎥᏞᎪ ᎾᏒᏆᎬᎶᎪ💎 🇮🇨 ⒾⒻⒷⒷ
     bio: >-
-      Fitness Enthusiast 💪🏾 Early Riser ☀️ Novelty Seeker 🧠 Adventurous 🧳 @adidas @muscletech_arabia @therabody @vitaminwelluae @gritandtonic @thekcallife
+      ғɪᴛɴᴇss ᴄᴏᴀᴄʜ Exsoldier 🧑🏻‍✈️ 🇪🇸🇺🇸📍MIAMI / Now DUBAI 🇦🇪 💪🏼 @gymkillerofficial 🐉 @dragonpharma_llc 💃🏻 @zumba ZIN 🏃🏻‍♀️ @wearestrongnation SYNC
     location: "United Arab Emirates"
-    followers: 68176
-    engagement: 304
-    commentsToLikes: 0.016264
-    id: ckap9e4odsaiv0i78rb58i0f8
+    followers: 126892
+    engagement: 467
+    commentsToLikes: 0.007190
+    id: ck5q0rg697e720i11nf77u1ua
     verified: false
-    hashtags: "#coffee, #run, #dubai, #mydubai"
-  - username: "dr_marcfit"
+    hashtags: "#beauty, #sunset, #fitnesslife, #muscle"
+  - username: "abrahamlao"
     fullname: >-
-      Asem Marc Bacha. DDS
+      Abraham La O 🧊
     bio: >-
-      Dentist | Oral Implantology Professor at UIC @gornation Athlete 🏆🥇WCO Battle of the Bars Dubai 2019 🏆🥇Feswc Arnold Classic Europe 2019
+      
     location: "United Arab Emirates"
-    followers: 9741
-    engagement: 752
-    commentsToLikes: 0.040541
-    id: ck5zvl4zd4fw00i14r0yv8e36
+    followers: 7313
+    engagement: 545
+    commentsToLikes: 0.012236
+    id: ck5zkxokvkctk0i14v9aft4ye
     verified: false
-    hashtags: "#handstand, #vertical, #oralsurgeon, #dentistry"
+    hashtags: "#photo, #man, #instagram, #amazing"
+  - username: "abdullah_sab3"
+    fullname: >-
+      Abdulla abu Eisheh🦁 7️⃣7️⃣7️⃣🏁
+    bio: >-
+      @ktm.amman @darwazeh.motors official racer🏁 National 🏆champion of 🇯🇴 Middle East champion 🥉 Dubai endurocross champion-Mx2🏆
+    location: "United Arab Emirates"
+    followers: 17893
+    engagement: 541
+    commentsToLikes: 0.052118
+    id: ck6uhg2a78x150j71n18oy9cs
+    verified: false
+    hashtags: "#ktm, #redbulljor, #givesyouwings, #desert"
 ---

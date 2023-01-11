@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters TikTok Influencers In Canada In 2022
+title: Top 10 Painters TikTok Influencers In Canada In 2023
 description: >-
-  Find top painters TikTok influencers in Canada in 2022. Most popular hashtags: #painter #artist #art #fyp.
+  Find top painters TikTok influencers in Canada in 2023. Most popular hashtags: #art #painter #painting #artist.
 platform: TikTok
-hits: 98
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 98 TikTok influencers like this in Canada for you to work with.
+hits: 130
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 130 TikTok influencers like this in Canada for you to work with.
 profiles:
+  - username: "nicolas.abtan"
+    fullname: >-
+      Nicolas Abtan
+    bio: >-
+      19 year old acrylic painter from Toronto 🇨🇦 Trying to inspire through art
+    location: "Canada"
+    followers: 18300
+    engagement: 1480
+    commentsToLikes: 0.049917
+    id: ckdc0mvdmfejp0j233r86djcf
+    verified: false
+    hashtags: "#art, #satisfying, #bye2020, #christmas2020"
+  - username: "leehoward.art"
+    fullname: >-
+      leehoward.art
+    bio: >-
+      Artist, Painter, Sometimes Writer & FilmMaker. Creator of the Quiet Room Bears.
+    location: "Canada"
+    followers: 563000
+    engagement: 1470
+    commentsToLikes: 0.022405
+    id: ck8079px0p4xg0j78w4r8lvbx
+    verified: false
+    hashtags: "#horrortok, #art, #drawing, #halloween"
   - username: "alexandriawebber"
     fullname: >-
       Alexandria Webber
     bio: >-
       ❤20 year old self-taught artist❤
     location: "Canada"
-    followers: 2433
-    engagement: 1924
-    commentsToLikes: 0.045278
+    followers: 2393
+    engagement: 1908
+    commentsToLikes: 0.049713
     id: ck8vy4t8ltaxy0j78qzwkz17u
     verified: false
-    hashtags: "#art, #painting, #drawing, #sketch"
-  - username: "mistryart"
+    hashtags: "#watercolour, #mural, #painter, #painting"
+  - username: "nolanboyd176"
     fullname: >-
-      Bhavini Mistry
+      Nolan Boyd
     bio: >-
-      Artist & Designer 🇨🇦 I like to say hello! link to my Etsy + ways to help BLM ⬇
+      20 My back pain has back pain Art Insta: NOBO_art ^^ DM for inquires ^^
     location: "Canada"
-    followers: 14300
-    engagement: 1869
-    commentsToLikes: 0.071048
-    id: ckdc0mme6fe730j232uy44qpo
+    followers: 51800
+    engagement: 1707
+    commentsToLikes: 0.034822
+    id: ckbknugokhzwi0j235gargiva
     verified: false
-    hashtags: "#art, #fyp, #dracomalfoy, #browngirl"
+    hashtags: "#artist, #painting, #drawing, #art"
   - username: "queenlillix"
     fullname: >-
       Lillix
     bio: >-
-      Just your friendly neighbourhood spooky artist 🖤💀🇨🇦
+      I paint spooky! 🖤💀🇨🇦 👇🏻Paintings/prints/tshirts👇🏻
     location: "Canada"
-    followers: 9320
-    engagement: 2286
-    commentsToLikes: 0.044395
+    followers: 12900
+    engagement: 2597
+    commentsToLikes: 0.101996
     id: cka0jr4zvj8ww0i78kaeo2tkw
     verified: false
-    hashtags: "#spooktok, #draw, #artskills, #spookyart"
+    hashtags: "#thickpaint, #smallbusinesscheck, #artist, #lotr"
   - username: "black_kat.art"
     fullname: >-
       Black_Kat.Art
     bio: >-
       Artist 👩‍🎨 Coffee lover Level 100 procrastinator
     location: "Canada"
-    followers: 2286
-    engagement: 2315
-    commentsToLikes: 0.041211
+    followers: 2344
+    engagement: 2243
+    commentsToLikes: 0.043493
     id: ckcur9bkejm6w0j23kdvxj08t
     verified: false
-    hashtags: "#digitalartist, #painter, #viral, #artist"
+    hashtags: "#art, #fanart, #portrait, #fyp"
   - username: "djkellyart"
     fullname: >-
       David Kelly 
     bio: >-
       Toronto based artist!
     location: "Canada"
-    followers: 3615
-    engagement: 528
-    commentsToLikes: 0.220084
+    followers: 6676
+    engagement: 541
+    commentsToLikes: 0.144807
     id: cka7vvf49xyy50i78pbyml7tl
     verified: false
-    hashtags: "#abstractart, #foryoupage, #art, #artist"
-  - username: "carlieartist"
-    fullname: >-
-      Carlie Pearce
-    bio: >-
-      The lesbian artist side of TikTok 🇨🇦 🏳️‍🌈 Instagram: @carlieartist
-    location: "Canada"
-    followers: 34800
-    engagement: 1098
-    commentsToLikes: 0.025364
-    id: ck806uypmm7xw0j783qdsdyic
-    verified: false
-    hashtags: "#lgbt, #fyp, #art, #artist"
-  - username: "sashanicolerose"
-    fullname: >-
-      SashaNicoleRose
-    bio: >-
-      It’s ok, I was weird before this IG: sashanicolerose Live at 10k Made in 🇨🇦
-    location: "Canada"
-    followers: 6120
-    engagement: 764
-    commentsToLikes: 0.083751
-    id: cka69jz7ysry40i78fuik2de9
-    verified: false
-    hashtags: "#art, #canadianartist, #over30, #lipsync"
+    hashtags: "#doodleart, #covid, #covid19, #art"
   - username: "lynethmorgan"
     fullname: >-
       Lyneth Morgan
     bio: >-
       Artist 🇨🇦🎨 prints and custom paintings available ⬇️check my site for info⬇️
     location: "Canada"
-    followers: 22500
-    engagement: 1092
-    commentsToLikes: 0.037636
+    followers: 48400
+    engagement: 1133
+    commentsToLikes: 0.033578
     id: ckdc0n8s9ff1a0j234g6m1kml
     verified: false
-    hashtags: "#create, #foryou, #foryoupage, #portrait"
-  - username: "dopechief"
-    fullname: >-
-      Dope Chief
-    bio: >-
-      How to Artist 🇨🇦
-    location: "Canada"
-    followers: 38500
-    engagement: 1604
-    commentsToLikes: 0.016728
-    id: ck8qhxhw16vyc0j780b52kb8v
-    verified: false
-    hashtags: "#animate, #trippy, #paint, #corona"
+    hashtags: "#myart, #explore, #painting, #art"
   - username: "streetartspraydrzky"
     fullname: >-
       Graffiti and Murals!
     bio: >-
       Professional muralist! Painting for 5 years Turned a hobby into a career
     location: "Canada"
-    followers: 94200
-    engagement: 1565
-    commentsToLikes: 0.010267
+    followers: 92700
+    engagement: 1719
+    commentsToLikes: 0.012030
     id: ck8vtj5yogfzp0j78nr2kxdgz
     verified: false
-    hashtags: "#mural, #painter, #oddlysatisfying, #art"
+    hashtags: "#craft, #painter, #asmr, #xyzbca"
+  - username: "saidowalia123"
+    fullname: >-
+      Saidowalia123🇨🇦
+    bio: >-
+      🔻Subscribe my YouTube channel🔻
+    location: "Canada"
+    followers: 766500
+    engagement: 264
+    commentsToLikes: 0.009126
+    id: cka0omr3e4lv70i78sej0lno6
+    verified: false
+    hashtags: "#saidowalia, #painter, #coquitlam, #amanapainting"
 ---

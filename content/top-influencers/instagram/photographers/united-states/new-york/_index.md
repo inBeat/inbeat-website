@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In New York In 2022
+title: Top 10 Photographers Instagram Influencers In New York In 2023
 description: >-
-  Find top photographers Instagram influencers in New York in 2022. Most popular hashtags: #naturalhair #littlebootiesmatter #melanin.
+  Find top photographers Instagram influencers in New York in 2023. Most popular hashtags: #blacklivesmatter #apricotmagazine #dreamermagazine.
 platform: Instagram
-hits: 735
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 735 Instagram influencers like this in New York, United States for you to pitch.
+hits: 785
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 785 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "zaymaverick"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck55lptus24n20i11fbbylx4p
     verified: false
     hashtags: "#blacklivesmatter"
-  - username: "briangilbreath"
-    fullname: >-
-      Brian Gilbreath
-    bio: >-
-      ＳＴＲＥＥＴ ＰＨＯＴＯＧＲＡＰＨＥＲ ＮＥＷ ＹＯＲＫ ＣＩＴＹ
-    location: "United States"
-    followers: 6406
-    engagement: 681
-    commentsToLikes: 0.030513
-    id: ckap76u58iv9y0i7841n076q7
-    verified: false
-    hashtags: "#archive, #newyork, #streetphotography, #archivedive"
-  - username: "shesjac"
-    fullname: >-
-      Jaclyn
-    bio: >-
-      Photographer | New York
-    location: "United States"
-    followers: 29193
-    engagement: 201
-    commentsToLikes: 0.026949
-    id: ckf5soe0tfy6k0j233soq0nrk
-    verified: false
-    hashtags: "#tattedgirls, #ink, #challangeaccepted, #womansupportingwoman"
-  - username: "brandonwoelfel"
-    fullname: >-
-      Brandon Woelfel
-    bio: >-
-      Photographer, New York 🎬 Personal Account- @bran.wolf 💫 Twitter/Snapchat/Youtube- Brandonwoelfel 🎨 My Photo Book Ultraviolet⇣
-    location: "United States"
-    followers: 2948865
-    engagement: 305
-    commentsToLikes: 0.005057
-    id: ck0txiq5jjb300i19727ky25i
-    verified: true
-    hashtags: "#adobemax, #adobepartner"
-  - username: "patrickklinc"
-    fullname: >-
-      Patrick Klinc
-    bio: >-
-      Photographer New York
-    location: "United States"
-    followers: 6705
-    engagement: 2342
-    commentsToLikes: 0.010615
-    id: ck5c62ik44l0p0i111e38su1i
-    verified: false
-    hashtags: "#29palmsselfie, #thegreatestofalltime, #engaged"
-  - username: "amardaved"
-    fullname: >-
-      A M A R
-    bio: >-
-      🇬🇧 Photographer New York - London - Los Angeles
-    location: "United States"
-    followers: 10447
-    engagement: 456
-    commentsToLikes: 0.025904
-    id: ck0tyvkero8o20i193td9jd8v
-    verified: false
-    hashtags: ""
   - username: "underground_nyc"
     fullname: >-
       Aaron ✊🏾
     bio: >-
       Photographer • New York To book your next photo shoot! ↙️
     location: "United States"
-    followers: 276429
-    engagement: 162
-    commentsToLikes: 0.019146
+    followers: 275787
+    engagement: 156
+    commentsToLikes: 0.019132
     id: ck0u0i7rgtsqv0i19romysrp5
     verified: true
-    hashtags: "#manualfocusboyz"
+    hashtags: "#manualfocusboyz, #noretouch"
+  - username: "briangilbreath"
+    fullname: >-
+      Brian Gilbreath
+    bio: >-
+      ＳＴＲＥＥＴ ＰＨＯＴＯＧＲＡＰＨＥＲ ＮＥＷ ＹＯＲＫ ＣＩＴＹ
+    location: "United States"
+    followers: 6252
+    engagement: 667
+    commentsToLikes: 0.032887
+    id: ckap76u58iv9y0i7841n076q7
+    verified: false
+    hashtags: "#greenpoint, #archive, #streetphotography, #blacklivesmatter"
+  - username: "shesjac"
+    fullname: >-
+      Jaclyn
+    bio: >-
+      Photographer | New York
+    location: "United States"
+    followers: 28319
+    engagement: 187
+    commentsToLikes: 0.026328
+    id: ckf5soe0tfy6k0j233soq0nrk
+    verified: false
+    hashtags: "#tysm, #winterwonderland, #letitsnow, #santababy"
+  - username: "patrickklinc"
+    fullname: >-
+      Patrick Klinc
+    bio: >-
+      Photographer New York
+    location: "United States"
+    followers: 6682
+    engagement: 2409
+    commentsToLikes: 0.009328
+    id: ck5c62ik44l0p0i111e38su1i
+    verified: false
+    hashtags: "#thegreatestofalltime, #engaged"
+  - username: "yavezanthonio"
+    fullname: >-
+      Yavez Anthonio
+    bio: >-
+      Director & Photographer New York / Amsterdam
+    location: "United States"
+    followers: 9479
+    engagement: 595
+    commentsToLikes: 0.033626
+    id: ck0vvnoxjpxlf0i19nz39ud0h
+    verified: false
+    hashtags: "#sososick"
   - username: "joethommas"
     fullname: >-
       Joe Thomas
     bio: >-
-      Travel + Architecture Photographer 𖤥 New York ✉︎ joethomasphoto@gmail.com ↡ Prints
+      Travel + Architecture Photographer 𖤥 New York Interior work: @joethomasphoto ✉︎ joethomasphoto@gmail.com
     location: "United States"
-    followers: 125480
-    engagement: 757
-    commentsToLikes: 0.021791
+    followers: 143293
+    engagement: 624
+    commentsToLikes: 0.015959
     id: ck0tul0u17n2f0i193mgf2u2u
     verified: false
-    hashtags: "#presets, #esbvip, #lightroompresets"
+    hashtags: "#thecapstonepi, #ad, #happyworldphotographyday"
+  - username: "mike.depetris"
+    fullname: >-
+      Michael DePetris
+    bio: >-
+      PHOTOGRAPHER • NEW YORK CITY (and beyond) ⚡️📡✨ also me ↠ @mikegotlost
+    location: "United States"
+    followers: 41282
+    engagement: 621
+    commentsToLikes: 0.014147
+    id: ck0tzzu4ps6me0i1961etx8sk
+    verified: false
+    hashtags: "#newtopographics, #minimalzine, #exploreobserveshare, #littlerivermag"
+  - username: "julespicturepalace"
+    fullname: >-
+      Julian Lennon
+    bio: >-
+      Singer-songwriter, producer, documentary film maker, philanthropist, fine-art photographer & New York Times Best Selling Author...
+    location: "United States"
+    followers: 261609
+    engagement: 201
+    commentsToLikes: 0.051439
+    id: ck9h9noam97pn0j78q4y83rii
+    verified: true
+    hashtags: "#themerrygoround, #art, #poetry, #noisyspirits"
   - username: "dinokuznik"
     fullname: >-
       Dino Kužnik
     bio: >-
-      Photographer. New York, California & Beyond. 〰️ work -> hello@dinokuznik.com scrapbook -> @allthe0thershit 〰️
+      Photographer. New York, California & Beyond. 〰️ New Publication ⦁⦁ 05 Dino Kuznik OUT NOW in collaboration w/ @setantabooks @odtakeovers 〰️
     location: "United States"
-    followers: 69372
-    engagement: 975
-    commentsToLikes: 0.013722
+    followers: 72917
+    engagement: 725
+    commentsToLikes: 0.009428
     id: ck0ttv7bh4gd30i19ne0epa3a
     verified: false
     hashtags: ""
-  - username: "hughmorrisphotography"
-    fullname: >-
-      ¿Hugh Shot You? 📸
-    bio: >-
-      Photographer | New York City | Brooklyn Lifestyle | Beauty | Lingerie Click link below to Book your “Dear Mom” portrait session:
-    location: "United States"
-    followers: 10887
-    engagement: 682
-    commentsToLikes: 0.120743
-    id: ck5cjdq5nuilw0i116svdtbda
-    verified: false
-    hashtags: "#naturalbodies, #melanin, #mocha, #naturalhair"
 ---

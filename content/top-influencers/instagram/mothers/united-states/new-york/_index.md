@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In New York In 2022
+title: Top 10 Mothers Instagram Influencers In New York In 2023
 description: >-
-  Find top mothers Instagram influencers in New York in 2022. Most popular hashtags: #family #model #fashion.
+  Find top mothers Instagram influencers in New York in 2023. Most popular hashtags: #mother #repost #throwback.
 platform: Instagram
-hits: 208
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 208 Instagram influencers like this in New York, United States for you to connect with.
+hits: 118
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 118 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
   - username: "rachelbayjones"
     fullname: >-
@@ -13,33 +13,33 @@ profiles:
     bio: >-
       Actor. Mother. New Yorker. One day I will be a farmer. Or a dolphin.
     location: "United States"
-    followers: 59248
-    engagement: 420
-    commentsToLikes: 0.010628
+    followers: 57652
+    engagement: 451
+    commentsToLikes: 0.010897
     id: ck6ubbrws8nyr0j71wrzhaldv
     verified: true
-    hashtags: "#teamkatz, #n2nkencen, #nexttonormal, #broadway"
-  - username: "philipsayce"
+    hashtags: "#dearevanhansen, #broadway, #nexttonormal, #n2nkencen"
+  - username: "chris_algieri"
     fullname: >-
-      Philip Sayce
+      Chris Algieri
     bio: >-
-      “Spirit Rising” Available Now 🎶⚡️
+      Former WBO World Boxing Champion and ISKA+WKA World Kickboxing Champion Author of The Fighter’s Kitchen #ChampionLifestyle Purchase my Book👇🏼
     location: "United States"
-    followers: 48203
-    engagement: 491
-    commentsToLikes: 0.048376
-    id: ck8swlh34eho70j78869y584a
+    followers: 76386
+    engagement: 165
+    commentsToLikes: 0.018890
+    id: ck14k5z8znwa50i190iks7rzd
     verified: true
-    hashtags: "#newmusic, #peace, #kindness, #tones"
+    hashtags: "#fightnight, #throwback, #fitness, #boxing"
   - username: "mrmlawrence"
     fullname: >-
       Michael Lawrence
     bio: >-
-      Restart.
+      Father of 3 | Director, Photographer 🇬🇧 Academy 🇫🇷 Wanda 🇩🇪 Anorak 🇳🇱 Halal 🇸🇪 Diktator 🇮🇹 Cattleya 🇨🇿🇨🇳🇯🇵 Stink 🇲🇽🇦🇷🇧🇷 Rebolucion 🇦🇺 Filmgraphics
     location: "United States"
-    followers: 2957
-    engagement: 1068
-    commentsToLikes: 0.054305
+    followers: 2995
+    engagement: 704
+    commentsToLikes: 0.042124
     id: ck5q2m0hdgog70i11433jpine
     verified: false
     hashtags: ""
@@ -49,82 +49,82 @@ profiles:
     bio: >-
       Welcome to my world!🤗💋❤ Saint International Jamaica Ltd (mother agency) 🇯🇲 New York Models 🇺🇸 Storm Models 🇬🇧 MP Paris 🇫🇷 Why Not Models 🇮
     location: "United States"
-    followers: 2558
-    engagement: 1047
-    commentsToLikes: 0.069015
+    followers: 2661
+    engagement: 757
+    commentsToLikes: 0.094949
     id: ck14k245pncge0i193h8unusm
     verified: false
-    hashtags: "#barbraleegrant, #stayhome, #2020, #italy"
+    hashtags: "#barbraleegrant, #stayhome, #forevergreatful, #watchthisface"
   - username: "lorindabreeze"
     fullname: >-
       Lorinda
     bio: >-
       Artist * Mother * Home Cook New York City * Hamptons * * I love colorful healthy food
     location: "United States"
-    followers: 20629
-    engagement: 346
-    commentsToLikes: 0.062482
+    followers: 19949
+    engagement: 230
+    commentsToLikes: 0.066080
     id: ck14l2ejasi7x0i192qk03brw
     verified: false
-    hashtags: "#feedfeed, #cookinglight, #eattherainbow, #healthy"
-  - username: "avonmalaysia_"
+    hashtags: "#farmfresh, #vegetarianfoodshare, #inseason, #saladbowl"
+  - username: "mikabrzezinski"
     fullname: >-
-      |Pronounced Aye-Von|
+      Mika (Brzezinski) Scarborough
     bio: >-
-      NewYorkCity Mother of @trayvonari 👻 AvonMalaysia YOUTUBE 👇🏽
+      Founder of the @_KNOWYOURVALUE movement, co-host of @morningjoe, and best-selling author of Know Your Value, Earn it!, and Comeback Careers. KYV24/7!!
     location: "United States"
-    followers: 5873
-    engagement: 993
-    commentsToLikes: 0.088971
-    id: ck15si38rd47l0i19w2h05tka
-    verified: false
-    hashtags: ""
-  - username: "ivankatrump_fan_page"
+    followers: 149951
+    engagement: 507
+    commentsToLikes: 0.034521
+    id: ck15rky4s8fhv0i19pgohdm0q
+    verified: true
+    hashtags: "#mom, #love, #savingfreedom, #bambatime"
+  - username: "theminianden"
     fullname: >-
-      Ivanka Kushner
+      Mini Anden
     bio: >-
-      💝Fanpage For Ivanka Trump 👩🏼 Ivanka Followed 5/16/17 😍 Ivanka Liked 51x 😍 All Hate Will Be Deleted 💥 #TeamIvanka #FirstDaughter #WomenWhoWork 💝
+      Acting, modelling, jewelry designing MOM with a passion for dog rescue
     location: "United States"
-    followers: 23606
-    engagement: 295
-    commentsToLikes: 0.036761
-    id: ckap3m26e3kj10i78pqkd6qhh
-    verified: false
-    hashtags: "#president, #roberttrump, #covid19, #theodorejames"
+    followers: 35854
+    engagement: 140
+    commentsToLikes: 0.029165
+    id: ck5c2l08exgjs0i11fkw9en9l
+    verified: true
+    hashtags: "#seenequalssaved, #repost, #adoptdontshop, #cantwait"
   - username: "nina0621"
     fullname: >-
       Nina
     bio: >-
       New York 🗽🇵🇷 Mother to a prince 🤴🏻 I’m goal getter 💅🏼
     location: "United States"
-    followers: 173929
-    engagement: 226
-    commentsToLikes: 0.024362
+    followers: 165951
+    engagement: 224
+    commentsToLikes: 0.024048
     id: ckap6yhauhw470i7807agv38h
     verified: false
     hashtags: "#2020bmw, #3series"
-  - username: "patrickcox"
+  - username: "alialexandermakki"
     fullname: >-
-      Cox Photography
+      Ali Alexander Makki
     bio: >-
-      Cox Photography llc. 640 South Main St. Greenville, SC info@coxphotography.net
+      Serial Entrepreneur, Creator, Mentor
     location: "United States"
-    followers: 52940
-    engagement: 293
-    commentsToLikes: 0.051618
-    id: ck5cjdbieuhq40i11ft1w1bbj
+    followers: 28010
+    engagement: 420
+    commentsToLikes: 0.026993
+    id: ck6tlfvpt5ztc0j71c9izcvas
     verified: false
-    hashtags: "#bw, #fashion, #leicamonochrom, #modelingagency"
-  - username: "creativesposts"
+    hashtags: "#lives, #positivevibes, #arrogance, #happy"
+  - username: "biok_travel"
     fullname: >-
-      Creatives Posts ⚡️
+      Iosune&Haritz + little M👶🏼
     bio: >-
-      DM For Promotion/Shoutout 💼 Everyday Fashion Inspiration 🤩
+      ↣ Padres primerizos 👶🏻🍼 ↣ Travel family 👇🏼DESCUENTO SEGURO VIAJE👇🏼
     location: "United States"
-    followers: 205496
-    engagement: 134
-    commentsToLikes: 0.050416
-    id: ck8td5dp21y8o0j78l6w0uybi
+    followers: 3180
+    engagement: 1210
+    commentsToLikes: 0.269543
+    id: ck14kgtvqpgc90i19bv94q3v4
     verified: false
-    hashtags: "#jewelry, #goals, #fashiongram, #inspiration"
+    hashtags: "#waitingyoulittlem, #vietnam, #espa, #pregnantphotography"
 ---

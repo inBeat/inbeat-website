@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In France In 2022
+title: Top 10 Pole Dancers TikTok Influencers In France in 2023
 description: >-
-  Find top pole dancers TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #dance #fyp #foryou.
+  Find top pole dancers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #dance #fyp #foryou.
 platform: TikTok
 hits: 10
 text_top: Identify the best TikTok accounts on inBeat.

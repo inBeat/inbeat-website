@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Switzerland In 2022
+title: Top 10 Comedians TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top comedians TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #foryou #viral #fy.
+  Find top comedians TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #comedy #fy #viral.
 platform: TikTok
-hits: 10
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 10 TikTok influencers like this in Switzerland for you to work with.
+hits: 11
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "alanwaglii"
     fullname: >-
@@ -18,19 +18,31 @@ profiles:
     commentsToLikes: 0.026666
     id: ck8rpklgpm4940j78oiaeln3d
     verified: false
-    hashtags: "#trend, #sister, #pineapplealansquad, #follow"
+    hashtags: "#roadto50k, #foryoupage, #funny, #follow"
+  - username: "t_ronimo"
+    fullname: >-
+      T_ronimo
+    bio: >-
+      🇨🇭Entertainment,Comedy🇨🇭 Dä Boy isch ume! IG: nur wend cool bisch bitte!
+    location: "Switzerland"
+    followers: 75300
+    engagement: 734
+    commentsToLikes: 0.030014
+    id: cka5zf8ramf480i78277khuq4
+    verified: false
+    hashtags: "#winterthur, #albanian, #fadil, #swissmeme"
   - username: "ericwdrae"
     fullname: >-
       ericwdrae
     bio: >-
       Swiss Shady 🇨🇭🇺🇸 Instagram: ericwdrae
     location: "Switzerland"
-    followers: 18800
-    engagement: 1189
-    commentsToLikes: 0.014406
+    followers: 20600
+    engagement: 979
+    commentsToLikes: 0.015129
     id: cka6lvrga4sf10i78j9pwblah
     verified: false
-    hashtags: "#4up, #xyzbca, #fy, #foryoupage"
+    hashtags: "#comedian, #schweiz, #szene, #4upage"
   - username: "mrkvicaajvaric"
     fullname: >-
       MrkvicaAjvaric
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.049526
     id: ckcv4z11tp25h0j23br5fvrew
     verified: false
-    hashtags: "#integration, #hvala, #jugo, #standupcomedy"
+    hashtags: "#danke, #schweiz, #jugo, #integration"
   - username: "don_stupido"
     fullname: >-
       Crazy comedian
     bio: >-
       😆🤪Fun and crazyness.🤔🙄🤦‍♀️Keep smiling. 🙈😹👌👨‍👩‍👧
     location: "Switzerland"
-    followers: 7781
-    engagement: 432
-    commentsToLikes: 0.147836
+    followers: 7616
+    engagement: 428
+    commentsToLikes: 0.090923
     id: ckck6lownrxpb0j23c0c58xv4
     verified: false
-    hashtags: "#monday, #wive, #cat, #trump"
-  - username: "jackelinsuarez1"
-    fullname: >-
-      Jackelin Suarez
-    bio: >-
-      Peruana 💍💕 Suizo | Mi Insta: jackysuarez7 | Esposo: pipoweiss_photography
-    location: "Switzerland"
-    followers: 216300
-    engagement: 705
-    commentsToLikes: 0.016639
-    id: ckb9jh8bnasp50j23gx93qt2u
-    verified: false
-    hashtags: "#capcut, #parejainternacional, #suizo, #couplegoals"
+    hashtags: "#sohn, #lover, #son, #zwei"
   - username: "xanolas"
     fullname: >-
       xanolas
     bio: >-
       𝒹𝑒𝓊𝓈 𝓃𝓊𝓃𝒸𝒶 𝒻𝒶𝓁𝒽𝒶 †
     location: "Switzerland"
-    followers: 27400
-    engagement: 658
-    commentsToLikes: 0.021829
+    followers: 27800
+    engagement: 680
+    commentsToLikes: 0.024275
     id: cka0uiwpnug6u0i78jph874ox
     verified: false
-    hashtags: "#fyp, #piada, #fy, #teixeira"
-  - username: "iam.mister"
+    hashtags: "#imback, #portugal, #comedia, #fy"
+  - username: "fatihtasoglu"
     fullname: >-
-      Ivan Miguel
+      fatih tasoglu
     bio: >-
-      follow me for more😉 IG: iam.mister90 YouTube: Mister90 Snapchat: ivan_mi07
+      İNSTAGRAM💙 @fatihtasoglu27 🇨🇭🇹🇷İSVİCRE-SWİTZERLAND-PAZARCIK-GAZIANTEP🇨🇭
     location: "Switzerland"
-    followers: 2135
-    engagement: 316
-    commentsToLikes: 0.028646
-    id: ckamst30jrpdi0i78bw7cr2lj
+    followers: 108300
+    engagement: 545
+    commentsToLikes: 0.076102
+    id: ck9803uth62v70j78465uz2bx
     verified: false
-    hashtags: "#challenge, #game, #brasil, #tv"
-  - username: "gioeyes"
+    hashtags: "#avrupa, #gurbet, #isvi, #isvicre"
+  - username: "jackelinsuarez1"
     fullname: >-
-      Giorgia Bevilacqua
+      Jackelin Suarez
     bio: >-
-      18 y/o Inseguendo i miei sogni🎬✨
+      Peruana 💍💕 Suizo | Mi Insta: jackysuarez7 | Esposo: pipoweiss_photography
     location: "Switzerland"
-    followers: 9601
-    engagement: 938
-    commentsToLikes: 0.013056
-    id: ckd0n0tg2gu8p0j23zs66n2rn
+    followers: 246600
+    engagement: 756
+    commentsToLikes: 0.023219
+    id: ckb9jh8bnasp50j23gx93qt2u
     verified: false
-    hashtags: "#foryoupage, #foryou, #foryourpage, #tiktokitaly"
-  - username: "nctiktok"
-    fullname: >-
-      NF_1219
-    bio: >-
-      👻 NF_219 👻
-    location: "Switzerland"
-    followers: 6357
-    engagement: 136
-    commentsToLikes: 0.000000
-    id: ck9shzskmw73r0j78url3xxmf
-    verified: false
-    hashtags: "#viralvideo, #tiktok, #foryoupage, #followme"
+    hashtags: "#parati, #peruana, #fyp, #latina"
   - username: "schmiddominic3"
     fullname: >-
       Schmid Dominic
     bio: >-
-      Stay tuned for more 🔥 Follow me on Instagram 😜
+      Check out my twitch content: SenaX33 🔥 Follow me on Instagram 😜
     location: "Switzerland"
-    followers: 3300
-    engagement: 432
-    commentsToLikes: 0.013815
+    followers: 3196
+    engagement: 420
+    commentsToLikes: 0.025993
     id: ck8vwkycnoquw0j782v5ovfxm
     verified: false
-    hashtags: "#switzerland, #fyp, #goviral, #funny"
+    hashtags: "#funny, #foryoupage, #switzerland, #tiktok"
+  - username: "ivan.mister"
+    fullname: >-
+      Ivan Miguel
+    bio: >-
+      IG: ivan.mister7 YouTube: ivan.mister Snapchat: ivan_mi07
+    location: "Switzerland"
+    followers: 3001
+    engagement: 364
+    commentsToLikes: 0.020995
+    id: ckamst30jrpdi0i78bw7cr2lj
+    verified: false
+    hashtags: "#fyp, #fun, #funny, #chanllenge"
 ---

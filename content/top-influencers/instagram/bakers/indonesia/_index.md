@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Indonesia In 2022
+title: Top 10 Bakers Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top bakers Instagram influencers in Indonesia in 2022. Most popular hashtags: #indonesia #travel #dirumahaja.
+  Find top bakers Instagram influencers in Indonesia in 2023. Most popular hashtags: #indonesia #travel #fashioninspiration.
 platform: Instagram
-hits: 610
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 610 Instagram influencers like this in Indonesia for you to connect with.
+hits: 575
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 575 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "amieardhini"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Firecracker Former TV Journalist Twist-bend-upsidedown enthusiast, Coffee drinker, Moody baker.
     location: "Indonesia"
-    followers: 6829
-    engagement: 615
+    followers: 6744
+    engagement: 622
     commentsToLikes: 0.056589
     id: ckaoxpwa9eaes0i78anekvuz0
     verified: false
-    hashtags: "#workislyfe, #ootd, #pals, #hambakontenlyfe"
-  - username: "ameliachuatan"
-    fullname: >-
-      Christina Amelia Chuatan 🐢
-    bio: >-
-      👩🏻‍🍳 TOP 8 MASTERCHEF INDONESIA S6 📮 business inquiries : 0819 0506 3489 — Adelia 🧁 self-taught baker of @hello.kanaka 🗄 part of @digitarasa_id
-    location: "Indonesia"
-    followers: 23057
-    engagement: 440
-    commentsToLikes: 0.020408
-    id: ck8swibg8e6oo0j78ghuoa9bo
-    verified: false
-    hashtags: "#nastarjakarta, #kuekeringjakarta, #flowertealatte, #teaaddict"
-  - username: "beagleoneism"
-    fullname: >-
-      Duke Of Hijinx
-    bio: >-
-      @bakerskateboards @shakejunt @dummywheels @happyhourshades @adidasskateboarding @dickiesskate ✨📼🍿@hijinxnet NEW 420 SMOKE MIX 2020 🎶🔥💨👇
-    location: "Indonesia"
-    followers: 235221
-    engagement: 233
-    commentsToLikes: 0.023671
-    id: ck0tyv0v0o68k0i196q54p045
-    verified: false
-    hashtags: "#beagletapes, #fbf, #lowlifetour, #switchcrookaholic"
-  - username: "ashleemane"
-    fullname: >-
-      Ashlee Mane IFBB Pro
-    bio: >-
-      IFBB Pro & Health Coach TribeFit20 Live Classes Train with me in real time from home! @clubskingym.bakersfield @max_nutrition_661 : ASH15 👩🏽‍🤝‍👨🏻🤍
-    location: "Indonesia"
-    followers: 59321
-    engagement: 215
-    commentsToLikes: 0.027521
-    id: ck5q5gq9fst4o0i118tuvstw5
-    verified: false
-    hashtags: "#happycincodemayo, #protectivehairstyles, #dickenson, #saam"
+    hashtags: "#ootd, #hambakontenlyfe, #fyi, #beforeonair"
   - username: "claraalverin"
     fullname: >-
       Clara Alverina Law
     bio: >-
-      Reporter, Host, Travel Journalist @metrotv @journey_metrotv Part time baker @c__baked Sunset chaser, happy diver Youtube 🔻
+      Host & Journalist @metrotv @journey_metrotv Part time baker @c__baked Sunset chaser, happy diver
     location: "Indonesia"
-    followers: 20293
-    engagement: 293
-    commentsToLikes: 0.020888
+    followers: 20503
+    engagement: 317
+    commentsToLikes: 0.023133
     id: ck8sz9etynkna0j78zbduqwyp
     verified: false
-    hashtags: "#indonesia, #dirumahaja, #travel, #wonderfulindonesia"
-  - username: "silviahendiana"
+    hashtags: "#travel, #indonesia, #dirumahaja, #wonderfulindonesia"
+  - username: "janakikrishnan21"
     fullname: >-
-      Silvia Hendiana ✨
+      Janaki Krishnan
     bio: >-
-      ✈️ @cipitalks 🛍 @luxaluxe.id 👩‍🎓 FEUI'10 📍Jakarta, Indonesia 🖥 Website: cipitalks.com
+      It all started with anna (black) - actor, lawyer, dancer, baker, youtubber, cosmoholic, foodie, dog person. Business id: thehazeleyedhippie@gmail.com
     location: "Indonesia"
-    followers: 87445
-    engagement: 188
-    commentsToLikes: 0.009069
-    id: ck8t5incza8o40j787037v2b7
+    followers: 12618
+    engagement: 584
+    commentsToLikes: 0.019807
+    id: ck14hatjc9eru0i19dwgnhr2n
     verified: false
-    hashtags: "#travelblogger, #throwback, #travelgram, #indonesia"
-  - username: "foodie_muscle_man"
+    hashtags: "#odishameetskerela, #lovefmmovie, #haldiceremony, #abhijanweddingthrowback"
+  - username: "theboliviantraveler"
     fullname: >-
-      foodie_muscle_man
+      Andres MacLean
     bio: >-
-      Food blogger 🍖🍗🥩🍤🍔🌮🌯 Id of my professional page is @ajimohamedameer. Dm for collaboration
+      Photo | Video 🌎 Travel | Cultural | Aerial 📍Bolivia 🇧🇴 Photo Prints now shipping worldwide Pueden pedir sus poleras en el siguiente link: 📸 ⬇️🌎
     location: "Indonesia"
-    followers: 41923
-    engagement: 1637
-    commentsToLikes: 0.012930
-    id: ckaove4hn47of0i7829pnef32
+    followers: 50725
+    engagement: 350
+    commentsToLikes: 0.033064
+    id: ck0tz851qpfs30i190z4dk8qm
     verified: false
-    hashtags: "#instafollow, #foodtales, #eventplanning, #teatime"
-  - username: "siscacendana"
-    fullname: >-
-      siscacendana
-    bio: >-
-      95's | UPH Hotelier '14 📚 Business/endorse : 💌 sisca.cencenn@gmail.com @hxlaw
-    location: "Indonesia"
-    followers: 173112
-    engagement: 1841
-    commentsToLikes: 0.012410
-    id: ck5zlxfxkljgg0i14yvoc9h1d
-    verified: false
-    hashtags: "#theultimatewinner, #rogphone3id, #realsultan, #beatitsingit"
+    hashtags: "#bolivia, #colombia, #mexico, #amaruxtheboliviantraveler"
   - username: "hyriinadeyy"
     fullname: >-
       Rinadewi Yunita
     bio: >-
-      🏡Ngk-ID Author @kattakku_ Outfit @rhinz.id Flowristy di @rinflowry
+      🏡Ngk-ID Outfit @rhinz.id Flowristy @rinflowry
     location: "Indonesia"
-    followers: 3944
-    engagement: 1239
-    commentsToLikes: 0.136930
+    followers: 3963
+    engagement: 1216
+    commentsToLikes: 0.129687
     id: ckap1f594uc0y0i7820ok1yfj
     verified: false
-    hashtags: "#inspirasiku, #ootdshare, #ootdhijabtravellers, #hijabfashion"
-  - username: "shindyursula"
+    hashtags: "#masasma, #womenfashion, #nature, #womennesia"
+  - username: "anacathie"
     fullname: >-
-      Shindy Ursula ☼
+      Anastasia Catharina
     bio: >-
-      🇲🇨 Shindycinde@gmail.com
+      Studio Moonchild | ZNC 🇮🇩 ID - 🇸🇬 SG ✉️ anacathie@studiomoonchild.com Illustration • Concept Art • Comic Cover • Mural -Commission Closed-
     location: "Indonesia"
-    followers: 22262
-    engagement: 244
-    commentsToLikes: 0.235965
-    id: ck15uvc7aoolu0i19kh74kx1c
+    followers: 21303
+    engagement: 413
+    commentsToLikes: 0.013665
+    id: ck8td787b26jv0j783nu0lj08
     verified: false
-    hashtags: "#shuuemuraid, #aestheticfashion, #pomelogirls, #streetwearfashion"
+    hashtags: "#skecherssg, #skechersxjeremyville"
+  - username: "aiyaadams"
+    fullname: >-
+      🇮🇩 Aiya Adams 🇩🇪
+    bio: >-
+      I Create ordinary fashion "BOLD & EXTRAORDINARY" 📍 | #mannheim and #jakarta 👩‍💻 | @bygaris | @pinksugar.id | @mischler_webdesign
+    location: "Indonesia"
+    followers: 42201
+    engagement: 114
+    commentsToLikes: 0.078271
+    id: ckaot0653ts9h0i78f26lugzq
+    verified: false
+    hashtags: "#bloggermannheim, #fallfashion2020, #reelfashion, #mannheimfashion"
+  - username: "tonygoat_taveras"
+    fullname: >-
+      IFBB Classic Physique Pro 🌐
+    bio: >-
+      The Goat 🐐 Universe CP Overall ⭐️🏆⭐️ @oldschoollabs {TONYGOAT} @chulastylz_ {GOAT10} @iconmeals {GOAT10} Managing Partner Linear Roofing 👷🏽‍♂️
+    location: "Indonesia"
+    followers: 108389
+    engagement: 279
+    commentsToLikes: 0.019923
+    id: ck5bu8r6rhcms0i111dr31xi9
+    verified: false
+    hashtags: "#thegoat, #classicphysiquepro, #ifbbproleague, #bodybuilding"
+  - username: "plasa.cake"
+    fullname: >-
+      Imelda Herlinda
+    bio: >-
+      Whatsapp : 08956.24929.000 📸 Huawei P 30 Pro 📍SITUBONDO Oct '18
+    location: "Indonesia"
+    followers: 41632
+    engagement: 62
+    commentsToLikes: 0.077058
+    id: ckaowm5ji9gmu0i78s30juemp
+    verified: false
+    hashtags: "#tarocake, #delicious, #foodporn, #bakedwithlove"
+  - username: "annawawiberjan_putri"
+    fullname: >-
+      𝔓𝔬𝔫𝔓𝔢𝔰 𝔄𝔫-𝔑𝔞𝔴𝔞𝔴𝔦 𝔓𝔲𝔱𝔯𝔦
+    bio: >-
+      𝑷𝒐𝒏𝒅𝒐𝒌 𝑷𝒆𝒔𝒂𝒏𝒕𝒓𝒆𝒏 𝑷𝒖𝒕𝒓𝒊 𝑨𝒏-𝑵𝒂𝒘𝒂𝒘𝒊 𝑩𝒆𝒓𝒋𝒂𝒏, 𝒈𝒆𝒃𝒂𝒏𝒈, 𝑷𝒖𝒓𝒘𝒐𝒓𝒆𝒋𝒐. 54191
+    location: "Indonesia"
+    followers: 8178
+    engagement: 732
+    commentsToLikes: 0.009687
+    id: ck6u1t7hynqiv0j71kyblr2mj
+    verified: false
+    hashtags: "#annawawiberjan, #potretpurworejo, #pesantrenstory, #indonesia"
 ---

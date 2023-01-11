@@ -1,36 +1,36 @@
 ---
-title: Top 10 Christian TikTok Influencers In Chicago In 2022
+title: Top 10 Christian TikTok Influencers In Chicago In 2023
 description: >-
-  Find top christian TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #duet #christian #foryou.
+  Find top christian TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #christian #foryoupage.
 platform: TikTok
-hits: 32
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 32 TikTok influencers like this in Chicago, United States for you to pitch.
+hits: 30
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 30 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "abmambara"
+  - username: "papercranecinemaco"
     fullname: >-
-      Jamiel Abed
+      papercranecinema
     bio: >-
-      19 | 🇵🇸 instagram: @jamielabed InshaAllah
+      Real Love Stories. Discover more at www.papercranecinema.com
     location: "United States"
-    followers: 3513
-    engagement: 1501
-    commentsToLikes: 0.249707
-    id: ck9k83n3g7eg80j78jssilapf
+    followers: 64500
+    engagement: 1335
+    commentsToLikes: 0.005164
+    id: ckbw8snjazaww0j23nwmzzbpk
     verified: false
-    hashtags: "#voiceeffects, #foryou, #college, #muslim"
-  - username: "laughlikeit"
+    hashtags: "#foryoupage, #cryinggroom, #couplegoals, #foryou"
+  - username: "slocheofficial"
     fullname: >-
-      HiddenJewel_7
+      SLOCHE
     bio: >-
-      📍Chicago 🌱 Vegan 💃🏽TikTok Dancer Wannabe 🤪Silly 💕 Help Me Get To 5k. 💕
+      Sports and stuff YouTube ⬇️
     location: "United States"
-    followers: 3751
-    engagement: 1157
-    commentsToLikes: 0.144154
-    id: ck9e3tvkcl3lb0j784jlpdm9v
+    followers: 100500
+    engagement: 1099
+    commentsToLikes: 0.006910
+    id: ckbl3oo4n11k70j23dhltih26
     verified: false
-    hashtags: "#phlebotomist, #trending, #foryoupage, #plantbased"
+    hashtags: "#foryou, #godisgood, #illinois, #fyp"
   - username: "stathsinns"
     fullname: >-
       Stath Sinns
@@ -42,79 +42,67 @@ profiles:
     commentsToLikes: 0.164936
     id: ckb964iu6oblm0j23e0e0cbw4
     verified: false
-    hashtags: "#conservativehypehouse, #618, #duet, #biden2020"
-  - username: "kenny.elrod"
+    hashtags: "#prolife, #xyzbca, #illinois, #greenscreen"
+  - username: "ashleyxroy"
     fullname: >-
-      Kenny E.
+      ashley
     bio: >-
-      BLM ✊🏾 Chicago IL 🏙
+      chicago—> bama follow my insta :)
     location: "United States"
-    followers: 193200
-    engagement: 3790
-    commentsToLikes: 0.042950
-    id: ckacq17m2ykxx0i78diptcgkh
+    followers: 143000
+    engagement: 1861
+    commentsToLikes: 0.023160
+    id: ck8rpkt5hm69s0j78wwdvan44
     verified: false
-    hashtags: "#song, #fyp, #greenscreen, #duet"
+    hashtags: "#boyfriend, #fyp, #dogsoftiktok, #foryoupage"
   - username: "rainbow19890"
     fullname: >-
       Rainbow19890
     bio: >-
-      Chicago girl. Quiet walks. silly videos. boymom. Wife.Webstore builder❤️s Jesus.
+      Chicago girl. Quiet walks. Swiftie.. boymom. Wife.Webstore builder❤️s Jesus.
     location: "United States"
-    followers: 3481
-    engagement: 1006
-    commentsToLikes: 0.212417
+    followers: 4248
+    engagement: 1040
+    commentsToLikes: 0.213248
     id: ckd6xfvemu96f0j23gj6u4ewn
     verified: false
-    hashtags: "#unwrapthedeals, #parentsoftiktok, #christian, #christiangirl"
+    hashtags: "#reesespuffs, #foryou, #funny, #foryoupage"
+  - username: "tatted_berto"
+    fullname: >-
+      👑 Berto 🙏🏼
+    bio: >-
+      Jesus 🙏🏼 Chicago ❤️ You matter -duet me Cash app: $TattedBerto #talkswithberto
+    location: "United States"
+    followers: 52800
+    engagement: 2186
+    commentsToLikes: 0.183844
+    id: ckbwc70g30uaj0j23z3irm80v
+    verified: false
+    hashtags: "#tattedberto, #single, #love, #stitch"
   - username: "paliboybilly"
     fullname: >-
       Bilal Hannoun
     bio: >-
-      🇵🇸18🇵🇸 📍Chicago📍 I hate all 16309 of you😒
+      Spread love and positivity iA🤲🏻 📍Chicago📍
     location: "United States"
-    followers: 16400
-    engagement: 1674
-    commentsToLikes: 0.064093
+    followers: 16300
+    engagement: 1688
+    commentsToLikes: 0.064066
     id: ckcutd90lkg2c0j238vdplse1
     verified: false
-    hashtags: "#foryou, #arabic, #palestine, #muslim"
-  - username: "maxbeecher"
+    hashtags: "#fyp, #arab, #muslim, #islam"
+  - username: "laughlikeit"
     fullname: >-
-      Max Beecher
+      Tee
     bio: >-
-      Follower of Christ Chicago Burbs Lambo | Raptor Full Video ⬇️⬇️⬇️⬇️⬇️
+      📍Chicago 💕Collaboration: itsok2byou7@gmail.com💕
     location: "United States"
-    followers: 8434
-    engagement: 906
-    commentsToLikes: 0.195724
-    id: ckb9iwldh9mo10j23f6m8cz1h
+    followers: 3850
+    engagement: 1075
+    commentsToLikes: 0.113267
+    id: ck9e3tvkcl3lb0j784jlpdm9v
     verified: false
-    hashtags: "#inked, #ink, #hairylegs, #jeepsrt"
-  - username: "aldunah"
-    fullname: >-
-      Albert Dunah
-    bio: >-
-      Chicago free indeed ✝️
-    location: "United States"
-    followers: 111800
-    engagement: 1248
-    commentsToLikes: 0.026156
-    id: ckbbshlylg08d0j2306xx7zdo
-    verified: false
-    hashtags: "#fyp, #gettoknowme, #foryou, #favoriterecipe"
-  - username: "oliviahart5"
-    fullname: >-
-      Olivia Hart
-    bio: >-
-      Chicago & Boulder
-    location: "United States"
-    followers: 8612
-    engagement: 579
-    commentsToLikes: 0.031988
-    id: cka601me8pbce0i78mmbmoadb
-    verified: false
-    hashtags: "#fyp, #cuboulder, #glowup, #boulder"
+    hashtags: "#veganfoodie, #trending, #phlebotomist, #duet"
   - username: "chicagocreature"
     fullname: >-
       Chicago Creature
@@ -122,9 +110,21 @@ profiles:
       👹 DM ON INSTA TO GET FEATURED 👹 CHICAGO SHIT ONLY
     location: "United States"
     followers: 10500
-    engagement: 554
-    commentsToLikes: 0.030818
+    engagement: 547
+    commentsToLikes: 0.029036
     id: ckb0odpclehym0j23rfu6qu0q
     verified: false
-    hashtags: "#chicago, #chicagocpd, #protest, #fyp"
+    hashtags: "#chicagocpd, #fyp, #chicagoprotest, #chi"
+  - username: "whitelion4christ"
+    fullname: >-
+      Kevin Unk
+    bio: >-
+      End Time Revivalist Inspire, Educate, Motivate Souls, Disciples, Nations WPB Fla
+    location: "United States"
+    followers: 224200
+    engagement: 2448
+    commentsToLikes: 0.089748
+    id: ck8p11goyjc500j78vodrez36
+    verified: false
+    hashtags: "#growth, #igniteamerica, #evangelist, #motivation"
 ---

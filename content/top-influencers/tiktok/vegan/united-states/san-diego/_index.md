@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Diego In 2022
+title: Top 10 Vegan TikTok Influencers In San Diego In 2023
 description: >-
-  Find top vegan TikTok influencers in San Diego in 2022. Most popular hashtags: #foryou #vegan #fyp #sandiego.
+  Find top vegan TikTok influencers in San Diego in 2023. Most popular hashtags: #vegan #sandiego #losangeles #california.
 platform: TikTok
-hits: 8
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 8 TikTok influencers like this in San Diego, United States for you to connect with.
+hits: 11
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 11 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "carolinabarr"
+  - username: "itshuyennguyen"
     fullname: >-
-      Carolinabarr
+      Huyen Nguyen | NYC
     bio: >-
-      Vegan straight edge But I’m here to post videos of my dad
+      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
     location: "United States"
-    followers: 267800
-    engagement: 879
-    commentsToLikes: 0.012259
-    id: ck8z39jjn8pil0j7844yjbpnj
+    followers: 14700
+    engagement: 689
+    commentsToLikes: 0.045216
+    id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#lol, #irishdad, #family, #irish"
+    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
+  - username: "caricatureparty"
+    fullname: >-
+      caricatureparty
+    bio: >-
+      Caricature Party! Come get one done! OB San Diego! 4967 Newport Avenue
+    location: "United States"
+    followers: 191600
+    engagement: 1553
+    commentsToLikes: 0.008741
+    id: ck9dworj4pyg10j78ndd2znxk
+    verified: false
+    hashtags: "#caricature, #liveart, #caricatures, #oceanbeachsandiego"
   - username: "brittneybaldwinlarsen"
     fullname: >-
       Brittney Baldwin
     bio: >-
       San Diego 🌊 I’m cuter on the gram: @brittneybaldwin Venmo: @brittneylarsen
     location: "United States"
-    followers: 2222
-    engagement: 512
-    commentsToLikes: 0.006179
+    followers: 2257
+    engagement: 484
+    commentsToLikes: 0.006235
     id: ckcdn063oaicy0j23cknmeils
     verified: false
-    hashtags: "#healthyrecipe, #easyrecipe, #cocktail, #health"
-  - username: "antheiamae"
-    fullname: >-
-      mae mae
-    bio: >-
-      your hippie vegan big sis 🥰 insta @antheiali she/her @eco_tok
-    location: "United States"
-    followers: 4789
-    engagement: 1931
-    commentsToLikes: 0.109926
-    id: ckdi698kc7kx40j23kfpcva2q
-    verified: false
-    hashtags: "#climatechange, #plantbased, #vegan, #sustainable"
-  - username: "turnipvegan"
-    fullname: >-
-      Turnip Vegan
-    bio: >-
-      Videographer- Vegan Recipes - Dropping 💎 - Co-Owner Spoiled Vegans Cafe
-    location: "United States"
-    followers: 37400
-    engagement: 1748
-    commentsToLikes: 0.042600
-    id: ckdnvhddgooem0j23h859hpjx
-    verified: false
-    hashtags: "#cheese, #veganfood, #veganbreakfast, #halloweenvibes"
-  - username: "meetmenmontauk"
+    hashtags: "#glutenfree, #cleaneating, #cocktail, #vegan"
+  - username: "inklinedbynature"
     fullname: >-
       Marianne Barrientez
     bio: >-
       Will travel for vegan food 🍩
     location: "United States"
-    followers: 8617
-    engagement: 1091
-    commentsToLikes: 0.032798
+    followers: 8509
+    engagement: 1110
+    commentsToLikes: 0.044802
     id: ckce0j5o6hs1p0j238gpd1vok
     verified: false
-    hashtags: "#protectsacredland, #kumeyaay, #foryou, #fyp"
-  - username: "renaemalone"
+    hashtags: "#kumeyaay, #tattoo, #funny, #fyp"
+  - username: "jessicagolich"
     fullname: >-
-      renaemalone
+      JessicaGolich 🏳️‍🌈
     bio: >-
-      travel, vegan, yogi🌺 follow me on insta! @renaemalone
+      Welcome to Jessica’s 🌍🏳️‍🌈✌️ Love, Good Vibes, Vegan Life, Travel & Health
     location: "United States"
-    followers: 212300
-    engagement: 1113
-    commentsToLikes: 0.010395
-    id: ck8j8562yhcdk0j78tbal3sfg
-    verified: false
-    hashtags: "#foryou, #couplegoals, #beach, #fyp"
-  - username: "gracefulmess"
+    followers: 118800
+    engagement: 553
+    commentsToLikes: 0.062348
+    id: ck8hk5rm6cjeo0j78s2q7szjd
+    verified: true
+    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+  - username: "plantbasedvision"
     fullname: >-
-      hi.
+      PlantBasedVision
     bio: >-
-      politics & more ✰dms don’t work sorry!! ✰she/her ✰libsoc(ish) 17
+      i eat plants 🌱
     location: "United States"
-    followers: 5617
-    engagement: 1927
-    commentsToLikes: 0.069932
-    id: ck8kna65xca1t0j78lkqemtcs
+    followers: 14500
+    engagement: 1034
+    commentsToLikes: 0.033580
+    id: ckbqvxa7ng6fo0j23m5q8lsi1
     verified: false
-    hashtags: "#leftist, #featureme, #september1, #abolishthepolice"
+    hashtags: "#fyp, #local, #smallbusinesscheck, #steep"
   - username: "jasonostewart"
     fullname: >-
       Jason Stewart
     bio: >-
       Adventurist, Entrepreneur, Real Estate, Epic Fighting, Father, Author.
     location: "United States"
-    followers: 20800
-    engagement: 775
-    commentsToLikes: 0.026995
+    followers: 21300
+    engagement: 389
+    commentsToLikes: 0.041110
     id: ckahyjbzzzl5a0i784zaopujn
     verified: false
-    hashtags: "#loscabos, #theepiclife, #handstand, #skatelife"
-  - username: "thevintagegoree"
+    hashtags: "#fatherson, #handstands, #skiptherinse, #lovememode"
+  - username: "chelseyexplores"
     fullname: >-
-      •Black Retro Babe•
+      ChelseyExplores
     bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+      🌴GO TO SOCAL GAL🌴 🏔Inspiring you to get outdoors🏔 Adventure Content 👇🏻
     location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
+    followers: 54100
+    engagement: 859
+    commentsToLikes: 0.040089
+    id: ckbezszhdl6g10j237qflbudj
     verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "alaneatsfrogs"
+    hashtags: "#hiking, #losangeles, #sandiego, #california"
+  - username: "onobowls"
     fullname: >-
-      alan raskin :)
+      Ono Bowls
     bio: >-
-      "i’m a vegan except for when i eat the rich" - noor wendy WHALEyums stan accoun
+      One Big Ohana
     location: "United States"
-    followers: 49500
-    engagement: 2471
-    commentsToLikes: 0.046072
-    id: ckdn8veqjfihi0j23mwyza1it
+    followers: 2717
+    engagement: 996
+    commentsToLikes: 0.014644
+    id: ck9gklqrtjv7v0j78h46yo1qe
     verified: false
-    hashtags: "#biden2020, #voting, #gay, #electionday"
+    hashtags: "#workworkwork, #collegehacks, #trending, #onthejob"
+  - username: "ttaylorfoulk"
+    fullname: >-
+      Tyra Taylor-Foulk
+    bio: >-
+      LA based. love video games, Bowie and travel. Romesh Ranganathan is also ace.
+    location: "United States"
+    followers: 22200
+    engagement: 934
+    commentsToLikes: 0.144044
+    id: ck83z4le6xnga0j78ks8aakqp
+    verified: false
+    hashtags: "#vaxxedandrelaxed, #ken, #70s, #envisiongreatness"
 ---

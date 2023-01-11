@@ -1,84 +1,60 @@
 ---
-title: Top 10 Travel TikTok Influencers In Peru In 2022
+title: Top 10 Travel TikTok Influencers In Peru In 2023
 description: >-
-  Find top travel TikTok influencers in Peru in 2022. Most popular hashtags: #parati #travel #peru #fyp.
+  Find top travel TikTok influencers in Peru in 2023. Most popular hashtags: #travel #parati #peru #foryou.
 platform: TikTok
-hits: 40
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 40 TikTok influencers like this in Peru for you to work with.
+hits: 33
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform has 33 TikTok influencers like this in Peru for you to work with.
 profiles:
-  - username: "hablavasconalex"
-    fullname: >-
-      hablavasconalex
-    bio: >-
-      TRAVEL YOUTUBER +30K VIAJO✈️ COMO🍴GRABO🎥 Perú 24📍 Sígueme en Instagram 🤘🏻
-    location: "Peru"
-    followers: 7381
-    engagement: 837
-    commentsToLikes: 0.094815
-    id: ckacldow2f50u0i78pdm4owzq
-    verified: false
-    hashtags: "#foryoupage, #foryourpage, #fyp, #foryou"
   - username: "kiomarapiana"
     fullname: >-
       Kiomara Piana
     bio: >-
       Ig: @kiomarapiana ✈️ Travel Blogger ✨ Te ayudo a viajar 💻 Mira mi trabajo
     location: "Peru"
-    followers: 4106
-    engagement: 735
-    commentsToLikes: 0.439484
+    followers: 4180
+    engagement: 726
+    commentsToLikes: 0.379924
     id: ckb997ukxtbtn0j238ejifpes
     verified: false
-    hashtags: "#travelblogger, #comidaperuana, #curiosidades, #tips"
-  - username: "roydyzuc"
-    fullname: >-
-      Roy Zuñiga Collao
-    bio: >-
-      Random & Tips de viajes🌎 Travel blogger✈️ Instagram Roydyzuc❤️ Meta 40k ?🙌🏻
-    location: "Peru"
-    followers: 34000
-    engagement: 510
-    commentsToLikes: 0.057537
-    id: ckcjl6tpfebbh0j23geb1bmkw
-    verified: false
-    hashtags: "#fyp, #destacame, #love, #baile"
+    hashtags: "#peru, #socialmedia, #tiktokperu, #peruanos"
   - username: "taniaarceespilco"
     fullname: >-
       Tania Arce Espilco
     bio: >-
       🇵🇪 Travelaholic ✈️
     location: "Peru"
-    followers: 33400
-    engagement: 664
-    commentsToLikes: 0.022937
+    followers: 32900
+    engagement: 665
+    commentsToLikes: 0.020574
     id: ck97x3p0utr2h0j787eq7smvs
     verified: false
-    hashtags: "#greenscreen, #xyzbca, #egipto, #foryou"
+    hashtags: "#cairo, #parati, #foryou, #foryourpage"
+  - username: "roydyzuc"
+    fullname: >-
+      Roy Zuñiga Collao
+    bio: >-
+      Random & Tips de viajes🌎 Travel blogger✈️ Instagram Roydyzuc❤️ Meta 70k ?🙌🏻
+    location: "Peru"
+    followers: 68700
+    engagement: 400
+    commentsToLikes: 0.039979
+    id: ckcjl6tpfebbh0j23geb1bmkw
+    verified: false
+    hashtags: "#relationship, #viajeros, #mochileros, #viral"
   - username: "nagybtm"
     fullname: >-
       Nagyb Torres Mardini
     bio: >-
       25 - Miembro Oficial de lablanquirroja Traveler ✈ 38 países IG: nagybtm
     location: "Peru"
-    followers: 12200
-    engagement: 442
-    commentsToLikes: 0.030355
+    followers: 12600
+    engagement: 495
+    commentsToLikes: 0.026437
     id: ckb9ly9vzeqnw0j23ce9njbl9
     verified: false
-    hashtags: "#travelbucketlist, #viajero, #peru, #tiktoktravel"
-  - username: "brujula_viajera"
-    fullname: >-
-      Brújula Viajera
-    bio: >-
-      Casi siempre viajo sola🙋🏻‍♀️ Busco inspirarte con mis historias y fotos📷
-    location: "Peru"
-    followers: 11000
-    engagement: 759
-    commentsToLikes: 0.071603
-    id: ckcj5zv2c5zyc0j23mu5w1vr3
-    verified: false
-    hashtags: "#travel, #tiktoktravel, #callao, #viajes"
+    hashtags: "#travellife, #tiktokperu, #foryou, #traveling"
   - username: "karimaguinaga"
     fullname: >-
       Alejandra B
@@ -90,41 +66,65 @@ profiles:
     commentsToLikes: 0.032808
     id: ckbfbrfvk42nx0j2305b78l59
     verified: false
-    hashtags: "#usa, #maquillaje, #makeup, #peru"
+    hashtags: "#travel, #fyp, #usa, #viaje"
   - username: "bonfresh"
     fullname: >-
       user3785818397701
     bio: >-
       
     location: "Peru"
-    followers: 2136
-    engagement: 843
-    commentsToLikes: 0.095363
+    followers: 2115
+    engagement: 858
+    commentsToLikes: 0.095202
     id: ckauw8ig81f6w0j23psqkp0gq
     verified: false
-    hashtags: "#travel, #foryourpage, #suiza, #selva"
-  - username: "wanderlust21e"
+    hashtags: "#selva, #foryourpage, #quarantine, #bonfresh"
+  - username: "brujula_viajera"
     fullname: >-
-      NADIA 😜🇵🇪
+      Brújula Viajera
     bio: >-
-      🇵🇪🌳🐝✈️PERUVIAN GIRL📸📝🐈🇵🇪 Sólo por diversión 😜 ✌Más amor, menos odio✌
+      Te enseño a viajar a través de mis ojos 👀 Escucha mi canal de Spotify 👂
     location: "Peru"
-    followers: 94600
-    engagement: 783
-    commentsToLikes: 0.305478
-    id: ckdi7rizo9tet0j23fz437pm0
+    followers: 34600
+    engagement: 610
+    commentsToLikes: 0.052042
+    id: ckcj5zv2c5zyc0j23mu5w1vr3
     verified: false
-    hashtags: "#humor, #protagonista, #wanderlust21e, #xyzcba"
-  - username: "beltrips"
+    hashtags: "#viajestiktok, #tiktoktravel, #hoteles, #viajes"
+  - username: "josepthovalle"
     fullname: >-
-      Beltrips
+      Josepth Ovalle
     bio: >-
-      Info para viajes POST PANDEMIA Nutricionista 🍓 Viaja por el mundo🌎 👇🏼👇🏼
+      Contacto: jdods15042001@gmail.com
     location: "Peru"
-    followers: 379500
-    engagement: 861
-    commentsToLikes: 0.014451
-    id: cka6f12a2duvx0i78lqejgh3b
+    followers: 318100
+    engagement: 1376
+    commentsToLikes: 0.021907
+    id: cka0hrjfhaf2q0i78zkjp4u63
     verified: false
-    hashtags: "#beltrips, #wanderlust, #travel, #saludybienestar"
+    hashtags: "#dance, #fyp, #peruvian, #playa"
+  - username: "saqra_warmicha"
+    fullname: >-
+      Yeni Llamocca
+    bio: >-
+      Viajo por todo Cusco - Perú 🇵🇪 enseñándote mis aventuras 👒SAQRA WARMICHA🎒
+    location: "Peru"
+    followers: 141100
+    engagement: 649
+    commentsToLikes: 0.024541
+    id: ckcehzp3zpz760j23ce13asxl
+    verified: false
+    hashtags: "#viajera, #cusco, #viajestiktok, #travelgirl"
+  - username: "jangmi.rosa"
+    fullname: >-
+      장미 로싸
+    bio: >-
+      Corea del Sur desde mi experiencia🇰🇷🥰 YouTube | INSTAGRAM @jangmi.rosa
+    location: "Peru"
+    followers: 11500
+    engagement: 974
+    commentsToLikes: 0.016041
+    id: ckb9rgxr1o30c0j23b3e2xb16
+    verified: false
+    hashtags: "#travel, #jangmirosa, #hanbok, #korea"
 ---

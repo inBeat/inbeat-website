@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Greece In 2022
+title: Top 10 Bloggers Instagram Influencers In Greece In 2023
 description: >-
-  Find top bloggers Instagram influencers in Greece in 2022. Most popular hashtags: #fashion #summer #photooftheday #giveaway.
+  Find top bloggers Instagram influencers in Greece in 2023. Most popular hashtags: #giveaway #christmas #greece.
 platform: Instagram
-hits: 109
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 109 Instagram influencers like this in Greece for you to collaborate.
+hits: 86
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 86 Instagram influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "thisissivylla"
+    fullname: >-
+      Sivylla
+    bio: >-
+      Blogger, entrepreneur & mama of 3👧🏼🧒🏼👶🏼 Raising Ariadne, George & Kimonas Founder: @smallsbabyshop Mama behind: @givemama.gr
+    location: "Greece"
+    followers: 97448
+    engagement: 286
+    commentsToLikes: 0.261638
+    id: ck0w2zrg6qx2i0i19f2m2qke1
+    verified: false
+    hashtags: "#mama, #giveawaygreece, #dirt, #myboy"
+  - username: "mariakortzia"
+    fullname: >-
+      Maria Kortzia Soteriou
+    bio: >-
+      Mom of 👶🏻 • Journalist🎓 •Blogger📝 @mylife.cy •Radio Producer🎧 @kissfmcy
+    location: "Greece"
+    followers: 50777
+    engagement: 714
+    commentsToLikes: 0.104720
+    id: ck5hjtd1ch7ty0i11qe9z2iry
+    verified: false
+    hashtags: "#9monthspregnant, #thosedays, #andreottigiveaway, #giveaway"
   - username: "tvagios"
     fullname: >-
       Thanos Vagios
     bio: >-
       📺 Journalist at @alphatv, @kalyteradeginetai 🍸 Life Style Blogger ⬇️⬇️⬇️⬇️
     location: "Greece"
-    followers: 17048
-    engagement: 1084
-    commentsToLikes: 0.212347
+    followers: 17001
+    engagement: 880
+    commentsToLikes: 0.069717
     id: ck8t0b5mirgpa0j780izubn00
     verified: false
-    hashtags: "#men, #mensfashion, #photooftheday, #blue"
-  - username: "mariakortzia"
+    hashtags: "#bestwishes, #moments, #photooftheday, #throwback"
+  - username: "vivian_finou"
     fullname: >-
-      Maria Kortzia Soteriou
+      Vivian Finou
     bio: >-
-      🎓Journalist •📝Blogger @mylife.cy •🎧 Radio Producer @kissfmcy
+      ▪️Sociologist ▪️Lifestyle/travel/fashion blogger @timeforcoffee.gr ▪️Digital marketing manager @giveit.gr vifinou@gmail.com for collaboration
     location: "Greece"
-    followers: 48671
-    engagement: 626
-    commentsToLikes: 0.061486
-    id: ck5hjtd1ch7ty0i11qe9z2iry
+    followers: 27622
+    engagement: 603
+    commentsToLikes: 0.429457
+    id: ck6u2r2r4tfnz0j716j73qfq2
     verified: false
-    hashtags: "#ammathinkpink, #partnerineverything, #breastcancerawareness, #pinkribbon"
-  - username: "medicinallyblonde"
-    fullname: >-
-      Melina Baltogianni
-    bio: >-
-      I am 𝓜𝓮𝓭𝓲𝓬𝓲𝓷𝓪𝓵𝓵𝔂 𝓑𝓵𝓸𝓷𝓭𝓮 I am a Model 💁🏼‍♀️ I am a Blogger 👑 I am a Med student 💉 I am a feminist 🏳️‍🌈 Ath-Skg 🇬🇷 & Rome 🇮🇹 @nolimitsmodelsagency
-    location: "Greece"
-    followers: 5923
-    engagement: 2209
-    commentsToLikes: 0.106042
-    id: ck5zkfyzfjerb0i14efdmms4w
-    verified: false
-    hashtags: "#sun, #hot, #photoshoot, #capri"
-  - username: "marina_peristera_"
-    fullname: >-
-      𝑀𝑎𝑟𝑖𝑛𝑎 𝑝𝑎𝑝𝑎𝑛𝑖𝑘𝑜𝑙𝑎𝑜𝑢 👡👜💋💄
-    bio: >-
-      Γίνε αφεντικό της ζωής σου Blogger INFLUENCER °𝑝𝑟𝑒𝑠𝑐ℎ𝑜𝑜𝑙 𝑡𝑒𝑎𝑐ℎ𝑒𝑟 °𝐿ᴀᴿɪ𝑠ᴀ/𝐹ʟᴏᴿɪɴᴀ 𝑌𝑜𝑢𝑇𝑢𝑏𝑒 𝐶ℎ𝑎𝑛𝑒𝑙
-    location: "Greece"
-    followers: 7859
-    engagement: 1458
-    commentsToLikes: 0.954222
-    id: ck13a5yxros2n0i19scdkphq0
-    verified: false
-    hashtags: "#lifequotes, #autumnvibes, #summer2020, #contest"
-  - username: "maria_louiza_real"
-    fullname: >-
-      Maria Louiza Vourou
-    bio: >-
-      📺 Tv Presenter 🤸‍♀️ Pilates instructor 🥑🍑🍌 Fitness blogger 🇬🇷 @Queen.gr➡️MLvlog /model 👶🏻 happy mama of Jason
-    location: "Greece"
-    followers: 69643
-    engagement: 297
-    commentsToLikes: 0.197497
-    id: ck55n9iwk5quk0i11bdztjjlt
-    verified: false
-    hashtags: "#quarantine, #staysafe, #mood, #staypositive"
-  - username: "toniaskou"
-    fullname: >-
-      🌴Tonia Skourtanioti 🌴
-    bio: >-
-      Digital Influencer , Travel Blogger ! Email : toniaskourtanioti@gmail.com
-    location: "Greece"
-    followers: 131625
-    engagement: 220
-    commentsToLikes: 0.201198
-    id: ck55p8snwa1zr0i11yxd2aq1p
-    verified: false
-    hashtags: "#goodluck, #araxova, #lingerie, #arahova"
-  - username: "alexiazaradouka"
-    fullname: >-
-      Alexia Zaradouka
-    bio: >-
-      ▪️Editor/Founder www.bodyandsoul.gr ▪️Video Creator & Podcaster ▪️Beauty, Wellness & Holistic Editor/Blogger
-    location: "Greece"
-    followers: 36289
-    engagement: 562
-    commentsToLikes: 0.573258
-    id: ck0twck3jew3t0i19hp4vee2e
-    verified: false
-    hashtags: "#style, #beautiful, #model, #fashion"
-  - username: "mariliafraggi"
-    fullname: >-
-      Marilia Fraggi 👑
-    bio: >-
-      📍Greece •Fashion blogger •Fashion designer •Marie Claire blog awards 2018
-    location: "Greece"
-    followers: 95755
-    engagement: 177
-    commentsToLikes: 0.047965
-    id: ck5zncx1no7r50i14j2rrf4cu
-    verified: false
-    hashtags: "#quarantine, #asos, #asseenonme, #stayhome"
+    hashtags: "#lovesea, #igersparis, #travel, #grgiveaway"
   - username: "beautymylife_gr"
     fullname: >-
       Popi Stefani
     bio: >-
       Beauty Blogger
     location: "Greece"
-    followers: 20062
-    engagement: 606
-    commentsToLikes: 0.689135
+    followers: 20836
+    engagement: 719
+    commentsToLikes: 0.312208
     id: ck55ougup95pv0i11jfly00rf
     verified: false
-    hashtags: "#giveawaygr, #beauty, #blogger, #beautybloggers"
-  - username: "jenny_loves_beauty"
+    hashtags: "#instagood, #children, #new, #newproduct"
+  - username: "despinakampouri"
     fullname: >-
-      Jenny Loves Beauty
+      Despina Kampouri
     bio: >-
-      MUA Athens ❤️Σπουδές δημοσιογραφίας ❤️Beauty blogger 💄for collaboration & PR 📩 CODE eugeniapoul43997 30% @frmadcos
+      journalist•storyteller•monsterkiller traveljunkie•vegetarian•truthspeaker Blogger @queengr Admin @despinasdiary 📍Athens, Greece
     location: "Greece"
-    followers: 18005
-    engagement: 1415
-    commentsToLikes: 0.737502
-    id: ckap4zqbo9jeh0i7822dxl3eb
+    followers: 241880
+    engagement: 395
+    commentsToLikes: 0.010744
+    id: ck5hcdr9thj9x0i116uw5bu1o
+    verified: true
+    hashtags: "#antistress, #antioxidant, #boost, #10"
+  - username: "toniaskou"
+    fullname: >-
+      🌴Tonia Skourtanioti 🌴
+    bio: >-
+      Digital Influencer , Travel Blogger ! Email : toniaskourtanioti@gmail.com
+    location: "Greece"
+    followers: 146403
+    engagement: 192
+    commentsToLikes: 0.048997
+    id: ck55p8snwa1zr0i11yxd2aq1p
     verified: false
-    hashtags: "#makeupartist, #skincareproducts, #beautytips, #instaphoto"
+    hashtags: "#ioniansea, #goldbikini, #golden, #goldenhour"
+  - username: "anthivoulgari"
+    fullname: >-
+      Anthi Voulgari
+    bio: >-
+      Journalist Tv presenter Radio producer 🎙 Health, fitness & lifestyle blogger 💻 Travel lover ❤️
+    location: "Greece"
+    followers: 42627
+    engagement: 830
+    commentsToLikes: 0.023608
+    id: ck5zkeso4jcmz0i14u294cwhq
+    verified: false
+    hashtags: "#koinoniaoramega, #tomegatokalo, #larathefrenchieb, #sundays"
+  - username: "katherinevangelinou"
+    fullname: >-
+      katerina_evangelinou
+    bio: >-
+      #presenter BlueSkyTv #blogger at @queengr #influencer #MissHellas ‘07/ #MissWorld Gr
+    location: "Greece"
+    followers: 63595
+    engagement: 213
+    commentsToLikes: 0.214265
+    id: ck9weh1w6k8fb0j78ndu8i7ns
+    verified: false
+    hashtags: "#staffjeans, #celiakritharioti, #maisonfranciskurkdjian, #imwearingzini"
+  - username: "alexiazaradouka"
+    fullname: >-
+      Alexia Zaradouka🐰
+    bio: >-
+      ▪️Editor/Founder www.bodyandsoul.gr ▪️TV Beauty Expert ▪️Video Creator & Podcaster ▪️Beauty, Wellness & Holistic Editor/Blogger
+    location: "Greece"
+    followers: 36990
+    engagement: 508
+    commentsToLikes: 0.810889
+    id: ck0twck3jew3t0i19hp4vee2e
+    verified: false
+    hashtags: "#beauty, #lidlplusapp, #roomiesmega, #tv"
 ---

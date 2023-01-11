@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Canada In 2022
+title: Top 10 Travel Instagram Influencers In Canada In 2023
 description: >-
-  Find top travel Instagram influencers in Canada in 2022. Most popular hashtags: #coupletravel #travelgirlsgo #loveandwildhearts.
+  Find top travel Instagram influencers in Canada in 2023. Most popular hashtags: #banff #earthpix #sonyalpha #beautifuldestinations.
 platform: Instagram
-hits: 1603
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 1603 Instagram influencers like this in Canada for you to pitch.
+hits: 782
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 782 Instagram influencers like this in Canada for you to work with.
 profiles:
-  - username: "madetwotravel"
+  - username: "lifewithelliott"
     fullname: >-
-      Marie & Gal | Love | Adventure
+      Elliott | Adventure + Travel Photographer †
     bio: >-
-      ✨Working towards our dreams 📍Currently in Toronto 🌙 Photography @mariannephotography.ca FREE EBOOK - Travel Blog - Digital Nomad ↓
+      Come travel the world with me 📸🗺 Let’s work together → hello@lifewithelliott.com 👇🏻 My eBooks, courses, presets, vlogs, & more! Next ✈️: Vancouver 🇨🇦
     location: "Canada"
-    followers: 53452
-    engagement: 5080
-    commentsToLikes: 0.091865
-    id: ck0u9yekvavxj0i19cvaqy8ow
+    followers: 112572
+    engagement: 740
+    commentsToLikes: 0.020163
+    id: ck0w2tbypq2x10i19jh48i0fy
     verified: false
-    hashtags: "#canadatravel, #torontophotographer, #explorequebec, #torontolife"
-  - username: "joeliegamatero"
+    hashtags: "#beautifuldestinations, #depthsofearth, #santorini, #hikingadventures"
+  - username: "twourism"
     fullname: >-
-      Joelie Jane
+      A & M - Toronto Foodies
     bio: >-
-      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
+      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
     location: "Canada"
-    followers: 7176
-    engagement: 2333
-    commentsToLikes: 0.272646
-    id: ckf5s50lfeqxv0j23s9pw9dxh
+    followers: 12221
+    engagement: 724
+    commentsToLikes: 0.226612
+    id: ck6ubkqqma5jw0j718b18nc2f
     verified: false
-    hashtags: "#mykindofsilk, #mykaseme"
-  - username: "melissalandry04"
+    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
+  - username: "kristascompass"
     fullname: >-
-      Mélissa Landry
+      Krista 🌻 adventure travel + photography
     bio: >-
-      📍 25 | Qc, CAN ✨ Travel, Fashion & Lifestyle 📚 Psychoeducatrice ✉️ : melissalandry04@hotmail.com
+      🌎 Canadian girl traveling the world 📍home: Quebec ⛰travel tips, photography + adventures 💌 krista@kristascompass.com ⇣Travel Guides + Presets + more⇣
     location: "Canada"
-    followers: 5416
-    engagement: 1823
-    commentsToLikes: 0.151679
-    id: ck8talf48s8yo0j78f1l6fjr9
+    followers: 47208
+    engagement: 708
+    commentsToLikes: 0.046493
+    id: cl7k00zhzuwba0i2330x8mayc
     verified: false
-    hashtags: "#smashboxprimer, #crueltyfree, #haloskin, #smashboxpartner"
-  - username: "normelnomads"
+    hashtags: "#thegreatplanet, #andshesdopetoo, #bevisuallyinspired, #bestvacations"
+  - username: "love.from.steph"
     fullname: >-
-      Norm&Mel | Travel Couple
+      Steph | Travel & Photography
     bio: >-
-      ❥ #travelcouple hopping around the world ↬ Based in Montreal, Canada 🇨🇦 ☾ Positivity | Gratefulness | Happiness
+      ↠ Travel Blogger in Vancouver, BC ⩕ Sharing travel inspo and tips for Canada & US 💌 info@lovefromsteph.com ↡ Travel, Road Trips & Hiking Guides
     location: "Canada"
-    followers: 3377
-    engagement: 2367
-    commentsToLikes: 0.141469
-    id: ckaozrx8zn4xx0i780nawyun9
+    followers: 10264
+    engagement: 415
+    commentsToLikes: 0.180454
+    id: cky7uz2b5kbee0j23q93nqs2e
     verified: false
-    hashtags: "#starttheadventure, #travelworld, #muchlove, #coupletravel"
-  - username: "theadventurousgal"
+    hashtags: "#vancouvercanada, #vancouverviews, #thingstodoinvancouver, #beautifulbritishcolumbia"
+  - username: "siberian_reinhardt"
     fullname: >-
-      Stephanie Parish
+      𝐑𝐞𝐢𝐧𝐡𝐚𝐫𝐝𝐭 🧶
     bio: >-
-      ✈️ Travel Enthusiast 🌎 Next Stop: Exploring Florida ☀️ ✨ Disney Adventures 📸 Central Florida Photographer @sparishphotography
+      ‣ Full-time travel cat ‣ Ft. @perseus_purrs & @alifeonpaws 📍Vancouver, BC 🇨🇦
     location: "Canada"
-    followers: 7701
-    engagement: 1366
-    commentsToLikes: 0.118144
-    id: ckaot2aqmu22q0i78a0m9qk4t
+    followers: 383383
+    engagement: 841
+    commentsToLikes: 0.006631
+    id: ck0w6xg7maq0g0i19rzpeh0oc
     verified: false
-    hashtags: "#floridashistoriccoast, #exploreflorida, #floridagirl, #localadventures"
-  - username: "sashannr"
+    hashtags: "#canada, #cutepets, #travelblog, #travelcat"
+  - username: "yakeandmarie"
     fullname: >-
-      S A S H A ⋆ 🌿 ✈️ Travel
+      JAKE & MARIE 🇨🇦
     bio: >-
-      Holistic obsessed Torontonian 🇨🇦 with a penchant for travelling. 🌍Globetrotting since 2012 Travel ∣ Wellness ∣ Activism ↓ BOOK WITH US ↓
+      Photographers & travel bloggers from Vancouver, BC ↓ hiking, camping, & road-tripping tips 🏔 ↓ check out the blog & new reels yakeandmarie@gmail.com
     location: "Canada"
-    followers: 7113
-    engagement: 1253
-    commentsToLikes: 0.349170
-    id: ckap3ha6z2zxu0i78bws33m0g
+    followers: 50132
+    engagement: 383
+    commentsToLikes: 0.080729
+    id: ckpn0txlc3n1z0j231bpbkko6
     verified: false
-    hashtags: "#alllivesmatter, #kidding, #imsooldlol, #amplifymelanatedvoices"
-  - username: "papersuitcasephoto"
+    hashtags: "#hikingtheglobe, #luxurytravel, #tourcanada, #optoutside"
+  - username: "mel77wa"
     fullname: >-
-      Paper Suitcase Photography
+      Melanie Roy
     bio: >-
-      Danielle Berkel Love Lover // LGBTQ+ friendly Based in Ontario // Happy to travel Email for Inquiries - BOOKING INTO DECEMBER
+      Part-time wanderer | full-time mommy<3 Mel77wa@gmail.com • Made in *•🇨🇦•* • Family Travel | clean beauty | ethical + sustainable living | slow fashion
     location: "Canada"
-    followers: 10416
-    engagement: 1136
-    commentsToLikes: 0.174271
-    id: ck5zzgvknbps90i14siorzjlb
+    followers: 20412
+    engagement: 284
+    commentsToLikes: 0.235919
+    id: cksa05djdjbis0j23qso5olea
     verified: false
-    hashtags: ""
-  - username: "michelle.vachon"
+    hashtags: "#jackandjillkids, #loveverybaby, #receiptjar, #trainingpants"
+  - username: "theoretically.teddy"
     fullname: >-
-      Michelle Vachon
+      Teddy
     bio: >-
-      No direct message⛔️Married❤️ Family❤️Travel✈️🌎 "Travel is the only thing you buy that makes you richer"💕
+      🌎🐾😾 The Grumpy Cat Explorer Cat friendly travel and adventures 📍Vancouver, BC 🇨🇦
     location: "Canada"
-    followers: 17804
-    engagement: 862
-    commentsToLikes: 0.464108
-    id: ckap6d41sfe1v0i782gfxds9a
+    followers: 65021
+    engagement: 264
+    commentsToLikes: 0.047200
+    id: ck1365v164w8e0i19d4uhfc8k
     verified: false
-    hashtags: ""
-  - username: "kierrairvine"
+    hashtags: "#theoreticallyteddy, #cutecats, #adventurecats, #explore"
+  - username: "lifewithfarihaa"
     fullname: >-
-      Kierra Irvine
+      Fariha⚡️| content creator & recipe developer
     bio: >-
-      Paramedic's Wife | Mom [Heart][Trach]+[22q]Awareness 596 nights in 🏩 Traveled to the USA for 5th+6th 🖤 surgery navigating a terminal prognosis
+      ✨ follow me for recipes, food/home styling + travel 👩🏽‍💻 public policy advisor | freelance recipe developer 📩 lifewithfarihaa@gmail.com 📍Toronto
     location: "Canada"
-    followers: 34958
-    engagement: 1431
-    commentsToLikes: 0.049192
-    id: ck9hcib52lj8z0j78uvz20ey2
+    followers: 8704
+    engagement: 217
+    commentsToLikes: 0.203509
+    id: ckyu5qpgkxlf30j237rxofi63
     verified: false
-    hashtags: "#childloss, #mrthomasglenn, #evannasspecialheart, #mamagrief"
-  - username: "where.is.naomi"
+    hashtags: "#vealathome, #ontarioveal, #bakeadifference2022, #partner"
+  - username: "caleyvanular"
     fullname: >-
-      Naomi Montgomery
+      Caley Vanular
     bio: >-
-      Snaps of my Loves & Life✨ Floral Designer + Fashion + Interior Design + Lover of Travel. Figuring out my next steps as I go along🌸
+      snowboard | photo | surf | travel | culture 📩 contact@caleyvanular.com ☀️ @fforahh 🎞 @cahhhley 🌀 @billabongwomens @k2.snowboarding
     location: "Canada"
-    followers: 6366
-    engagement: 1034
-    commentsToLikes: 0.231905
-    id: ck8t29jggyne00j781fsun3hq
+    followers: 70137
+    engagement: 171
+    commentsToLikes: 0.050948
+    id: ck0ubyzxkfoyb0i19efj88wa4
     verified: false
-    hashtags: ""
+    hashtags: "#contaxt2, #fj62, #bcday, #desolationsound"
 ---

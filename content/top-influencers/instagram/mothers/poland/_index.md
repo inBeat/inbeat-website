@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Poland In 2022
+title: Top 10 Mothers Instagram Influencers In Poland In 2023
 description: >-
-  Find top mothers Instagram influencers in Poland in 2022. Most popular hashtags: #jestemmama #mama #autumnoutfit #rodzina.
+  Find top mothers Instagram influencers in Poland in 2023. Most popular hashtags: #dzieci #polishgirl #sweaterweather.
 platform: Instagram
-hits: 463
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 463 Instagram influencers like this in Poland for you to work with.
+hits: 358
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 358 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "angelika_rysz"
+  - username: "n_a_t_a_l_i_31"
     fullname: >-
-      Angelika
+      Natalia
     bio: >-
-      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
+      Wife/Mother 02.11.1986🎂 Polen🇵🇱/Deutschland🇩🇪
     location: "Poland"
-    followers: 3646
-    engagement: 1525
-    commentsToLikes: 0.346529
-    id: ck5zizhb5gnvu0i14guq3n633
+    followers: 6674
+    engagement: 1374
+    commentsToLikes: 0.052066
+    id: ck15pr1woz8bh0i19visvxinq
     verified: false
-    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
-  - username: "justyna__kowalewska"
-    fullname: >-
-      Justyna Kowalewska
-    bio: >-
-      🖤 M o m to J o s e p h 🖤 W i f e to J a c o b _____________ P o l a n d #motherhood #fashion & #lifestyle _____________ just.kowalewska@wp.pl
-    location: "Poland"
-    followers: 5048
-    engagement: 1499
-    commentsToLikes: 0.187638
-    id: ck139k8r7lq0q0i19ouxmrtuc
-    verified: false
-    hashtags: "#thetravellingnomads, #seasonspoetry, #girlaroundworld, #travellikegirl"
+    hashtags: "#zjawiskowe, #ma, #germanwomen, #legs"
   - username: "stylwestrzakowa"
     fullname: >-
-      Zuzanna Sylwestrzak
+      Zuzanna
     bio: >-
-      Wkrótce #mamaczwórki #momof4 💫Lena 02/2015 💫Franek 04/2016 💫Róża 06/2018 💫 .. #rodzew2020 #matchymatchy #familyof6 #motherhood
+      #mamaczwórki #momof4 💫Lena 02/2015 💫Franek 04/2016 💫Róża 06/2018 💫Łucja 01/2021 #matchymatchy #familyof6 #motherhood
     location: "Poland"
-    followers: 30841
-    engagement: 860
-    commentsToLikes: 0.022674
+    followers: 34128
+    engagement: 658
+    commentsToLikes: 0.015215
     id: ck5q9vz31da720i11706wvlly
     verified: false
-    hashtags: "#instamatki, #likemotherlikedaughter, #wielodzietni, #polskamama"
+    hashtags: "#pepco, #rodzina, #instamama, #polishgirl"
   - username: "edyta_zajac"
     fullname: >-
       Edyta Zając
     bio: >-
-      International model mother agency: @mc2telaviv 🇵🇱 @uncovermodelswarsaw 📍 contact: agnieszka@uncovermodels.com PRManager @filipmecner
+      International model PR manager @filipmecner mother agency: @mc2telaviv 🇵🇱 @uncovermodelswarsaw 📍 contact: agnieszka@uncovermodels.com
     location: "Poland"
-    followers: 130970
-    engagement: 474
-    commentsToLikes: 0.030200
+    followers: 129519
+    engagement: 487
+    commentsToLikes: 0.029410
     id: ck0w5uuwf5jiq0i19u9j8dxsg
     verified: true
-    hashtags: "#strajkkobiet, #backstage, #comingsoon, #mybodymychoice"
-  - username: "mi_marthese"
+    hashtags: "#backstage, #tb, #nomakeup"
+  - username: "jessicamartin1992"
     fullname: >-
-      MOM🤍 FASHION 🤍 LIFESTYLE
+      Jessica Martin
     bio: >-
-      🙋🏻‍♀️ Marta 🤍 Mama Mikołaja i Marceliny 👧🏻🧒🏻 •. Macierzynstwo • Moda • Wnętrza 🏔 Karpacz #baby #motherhood #fashionlover ✉️ marta.wachowska@vp.pl
+      🇵🇱🇺🇸 Motherhood, love, lifestyle 😉 Austin, TX Polka w USA
     location: "Poland"
-    followers: 21761
-    engagement: 299
-    commentsToLikes: 0.170367
-    id: ck0vyp7ia544x0i19gy1431xl
+    followers: 6631
+    engagement: 1608
+    commentsToLikes: 0.022270
+    id: ck9wftsorqigk0j78f9vi6ued
     verified: false
-    hashtags: "#magicofmotherhood, #kidsroominspo, #polskadziewczyna, #coreczkamamusi"
-  - username: "dkszalkow"
+    hashtags: "#christmastime, #2020baby, #mama2020, #tataic"
+  - username: "pkrupinska"
     fullname: >-
-      Dagmara Kaczmarek-Szałkow
+      Paulina Krupińska-Karpiel
     bio: >-
-      Tv presenter, journalist TVN24, Wife, Mother Prowadząca i autorka programów #faktywpoludnie i #faktypopoludniu w #tvn24 oraz serwisów w #dziendobrytvn
+      Business 📩 biuro.paulina.krupinska@gmail.com Mother • TV Host Dzień Dobry TVN • Model • Miss Polonia
     location: "Poland"
-    followers: 17825
-    engagement: 806
-    commentsToLikes: 0.034574
-    id: ckapasqphxbq60i78176uiq5p
+    followers: 342234
+    engagement: 272
+    commentsToLikes: 0.018495
+    id: ck0u1isaqx2hx0i19u7jn0bj6
     verified: false
-    hashtags: "#koronawirus, #rodzew2020, #love, #milosc"
-  - username: "aniakarwan"
+    hashtags: "#k2, #beautyteam, #mikolajki2020, #fryzjer"
+  - username: "yanistalkworldwide"
     fullname: >-
-      Ania Karwan
+      Yanis Zaoui
     bio: >-
-      Singer,mother,woman Współpraca 👉🏼 anna.karwan@gmail.com lub DM 🤛🏼
+      🇫🇷 PARIS Mother agency - @theclawmodels
     location: "Poland"
-    followers: 104763
-    engagement: 512
-    commentsToLikes: 0.021485
-    id: ck0ueam4ukzxl0i19qsxzknlr
-    verified: true
-    hashtags: "#janekkliment, #tanieczgwiazdami, #aniakarwan, #polsat"
+    followers: 122917
+    engagement: 692
+    commentsToLikes: 0.006518
+    id: ckaowotop9s9m0i78xee99p8p
+    verified: false
+    hashtags: ""
   - username: "mrsjustynasidor"
     fullname: >-
       Just Tyna
     bio: >-
       Mother of 👶 #babymatylda & #naszababyemma, 🎬 Mommy Youtuber, 🌎 traveler. 🇨🇦 Canadian in Poland 🇵🇱 Wspópraca: justynaisawesome@gmail.com #justtyna
     location: "Poland"
-    followers: 17744
-    engagement: 801
-    commentsToLikes: 0.027523
+    followers: 19835
+    engagement: 559
+    commentsToLikes: 0.022645
     id: ck8t73lwdfj7a0j78z7dpbtn6
     verified: false
-    hashtags: "#bejbi, #koloryjesieni, #rodzinnasobota, #malen"
-  - username: "patrycja_czekaj"
-    fullname: >-
-      Patrycja Czekaj
-    bio: >-
-      Natan ♥ Julian •minimodel •motherhood •lifestylephotography Kraków
-    location: "Poland"
-    followers: 6485
-    engagement: 734
-    commentsToLikes: 0.070042
-    id: ck6tvvyagoktc0j71ndhg6cu8
-    verified: false
-    hashtags: "#pixel, #babyboystyle, #lovecroatia, #creative"
+    hashtags: "#naszaksiezniczka, #matkazcorka, #wakacje2021, #naszababyemma"
   - username: "mirabelove"
     fullname: >-
       Mirabelka
     bio: >-
       🌏Poland, Warsaw 🐶Mother of chihuahuas 📬mirabelove88@gmail.com
     location: "Poland"
-    followers: 138601
-    engagement: 209
-    commentsToLikes: 0.026130
+    followers: 136847
+    engagement: 228
+    commentsToLikes: 0.024341
     id: ck55k7zl4yp780i11m2tx59dq
     verified: false
-    hashtags: "#sweaterweather, #lookoftheday, #autumnoutfit, #zarawoman"
+    hashtags: "#sweaterweather, #autumnstyle, #klif, #lookoftheday"
+  - username: "patrycja_czekaj"
+    fullname: >-
+      Patrycja Czekaj
+    bio: >-
+      Natan ♡︎ Julian •minimodel •motherhood •lifestylephotography 📩 d.c.patrycja@gmail.com Kraków
+    location: "Poland"
+    followers: 6524
+    engagement: 615
+    commentsToLikes: 0.071348
+    id: ck6tvvyagoktc0j71ndhg6cu8
+    verified: false
+    hashtags: "#babieswithstyle, #travelwithkids, #letitsnow, #podrozezdzieckiem"
+  - username: "gorskamama"
+    fullname: >-
+      GÓRSKA MAMA | #DrGosia
+    bio: >-
+      Dr n. med. Małgorzata Jachacz-Łopata Mountains•Outdoor•Women's Health•Motherhood Nature is my medicine🌱 Fizjoterapia @femmemedica Zabieram @mamywgory!
+    location: "Poland"
+    followers: 6848
+    engagement: 632
+    commentsToLikes: 0.048157
+    id: ck8t6wfbaewrp0j78x0n6lext
+    verified: false
+    hashtags: "#tatry, #gorskamama, #zoja, #naturalnieszczesliwe"
 ---

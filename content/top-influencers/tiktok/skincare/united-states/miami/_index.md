@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Miami In 2022
+title: Top 10 Skincare TikTok Influencers In Miami In 2023
 description: >-
-  Find top skincare TikTok influencers in Miami in 2022. Most popular hashtags: #duet #fyp #skincare #miami.
+  Find top skincare TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #skincare #foryou.
 platform: TikTok
-hits: 43
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 43 TikTok influencers like this in Miami, United States for you to connect with.
+hits: 50
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 50 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "kary_galo"
+  - username: "natalie.banilbo"
     fullname: >-
-      Kary  Galo
+      nataliebanilbo
     bio: >-
-      Instagram! 💖kary.galo 🇭🇳🥰💄
+      Insta : @𝙉𝙖𝙩𝙖𝙡𝙞𝙚𝙗𝙖𝙣𝙞𝙡𝙗𝙤 :) 𝟏𝟖 🤍🇵🇭
     location: "United States"
-    followers: 53000
-    engagement: 720
-    commentsToLikes: 0.035106
-    id: ckc7voe92z3t40j234i0pidsv
+    followers: 10100
+    engagement: 1310
+    commentsToLikes: 0.025170
+    id: cka9kyn0r15vs0i78s0jh68ev
     verified: false
-    hashtags: "#cumplea, #dollartree, #mujeres, #crhistmas"
-  - username: "ericgoldie"
+    hashtags: "#photoshoot, #foryou, #fyp, #2021affirmations"
+  - username: "thenutritiousblonde"
     fullname: >-
-      ericgoldie
+      nutritious blonde.
     bio: >-
-      I’m better at Instagram Check me out @ericgoldie
+      Miami. your unapologetic guide to all things 🦋
     location: "United States"
-    followers: 12100
-    engagement: 763
-    commentsToLikes: 0.042040
-    id: ckcultyf0hebh0j235cdvrc4k
+    followers: 23400
+    engagement: 552
+    commentsToLikes: 0.044601
+    id: ck81s43tfpukc0j78kgbwmd9s
     verified: false
-    hashtags: "#lgbt, #lol, #lgbtq, #over30"
-  - username: "adrianthesimp"
+    hashtags: "#sibo, #greenbeauty, #weightloss, #healthy"
+  - username: "jadawesley"
     fullname: >-
-      🤠💖🐊🕺🏽🚫🧢
+      jada wesley 🌞
     bio: >-
-      miami 17 columbus is my thing
+      spread love, be kind 💞🌎 💌: jada@gleamfutures.com
     location: "United States"
-    followers: 7630
-    engagement: 1390
-    commentsToLikes: 0.128334
-    id: ckberdnsi9met0j237zqm1olv
+    followers: 1300000
+    engagement: 1790
+    commentsToLikes: 0.009541
+    id: ck8ae865aaoqd0j780s36txqq
     verified: false
-    hashtags: "#foryoupage, #xyzbca, #viral, #soflo"
-  - username: "animaliarianna"
+    hashtags: "#ad, #no7usa, #skincare, #retinol"
+  - username: "jonintriago"
     fullname: >-
-      Animaliarianna
+      jonintriago
     bio: >-
-      90K? Thank you! 🖤 Trainer @friendsofafeather Donate to help care for the birds:
+      📍NYC IG / Venmo: @Jonintriago Collab: Jonathan@famepick.com OF 😋👇🏼
     location: "United States"
-    followers: 95600
-    engagement: 811
-    commentsToLikes: 0.025629
-    id: ckbwjmtl33moh0j23ovq9tsxb
+    followers: 356800
+    engagement: 1124
+    commentsToLikes: 0.012732
+    id: ckbw8agbvz5zn0j234irzfhzs
     verified: false
-    hashtags: "#bird, #fyp, #storytime, #cute"
-  - username: "esdayrabby"
+    hashtags: "#dance, #gay, #foryou, #bisexual"
+  - username: "sophierosejm"
     fullname: >-
-      DAYRA
+      sophie ✨
     bio: >-
-      FASHUN IG - @es.dayra IG brand - @dayra.studio
+      hi i love you 🌴🌈🫐✨🌺🌵🌊🥑🍉 📧sophierosejm04@gmail.com
     location: "United States"
-    followers: 2620
-    engagement: 377
-    commentsToLikes: 0.019556
-    id: ckcpa5bkden4o0j23f7u3nsgs
+    followers: 513000
+    engagement: 2147
+    commentsToLikes: 0.009533
+    id: ck8z4m3feebuv0j78finxtkj5
     verified: false
-    hashtags: "#mexico, #fyp, #xyzbca, #foryou"
-  - username: "jack.novotny"
+    hashtags: "#morningroutine, #socal, #fyp, #preppy"
+  - username: "andrearuedalive"
     fullname: >-
-      jack novotny
+      Andrea Rueda
     bio: >-
-      businessjpn2@gmail.com insta: jacknovotny__ dc/nyc
+      🇨🇴 CFO of the CEO 📧Justandrearueda@gmail.com
     location: "United States"
-    followers: 488700
-    engagement: 1781
-    commentsToLikes: 0.010776
-    id: ckbkz9awzvjd10j230b1c7xzy
+    followers: 189300
+    engagement: 1192
+    commentsToLikes: 0.072463
+    id: ck9fhx2zu81np0j78hrgpdpo6
     verified: false
-    hashtags: "#youtube, #thedrop, #theworst, #fyp"
-  - username: "jazlynnq"
+    hashtags: "#parati, #fyp, #beautytips, #latinotok"
+  - username: "caitlynisabella"
     fullname: >-
-      Jazlynn Q
+      caitlyn isabella
     bio: >-
-      Just vibe😁 3k?🙃 MIAMI 🌲 😘 Follow my insta get me to 32k🤍 Singer/dancer
+      ily, say it back🤍 insta- @caitlynt0dd YT- caitlyn isabella venmo- @caitlynt0dd
     location: "United States"
-    followers: 2724
-    engagement: 1973
-    commentsToLikes: 0.085760
-    id: ck81qv3d8k41w0j78prlljtdl
+    followers: 719600
+    engagement: 1896
+    commentsToLikes: 0.005691
+    id: ck8kfm964eskp0j78p5vbrzaa
     verified: false
-    hashtags: "#greenscreen, #tweets, #fyp, #sad"
-  - username: "alyandjulia"
+    hashtags: "#itwasntme, #turbotaxlivepick6, #dothescottsslide, #morningroutine"
+  - username: "bbygirllali"
     fullname: >-
-      aly & julia
+      lali💕💕💕
     bio: >-
-      your fav besties miami spread positivity!⚡️🌸🧚‍♀️
+      hi honies💕 follow my insta⬆️ south fl🌴 good vibes only🥰
     location: "United States"
-    followers: 21800
-    engagement: 1338
-    commentsToLikes: 0.061649
-    id: ckbkn6jlmh68j0j238v1lb9pu
+    followers: 301500
+    engagement: 2259
+    commentsToLikes: 0.011018
+    id: ckc7ujbxeyd4z0j23zrlnxoo2
     verified: false
-    hashtags: "#fyp, #iamlost, #skatelife, #letsfaceit"
-  - username: "gabypuig1"
+    hashtags: "#fyp, #girls, #foryou, #transformation"
+  - username: "sarahgrant95"
     fullname: >-
-      Gaby Puig
+      Sarah Grant
     bio: >-
-      Miami| DC 💄| @gabypuig
+      Author of Soul Beauty 💕 Love your yourself and body in 30 days program
     location: "United States"
-    followers: 2199
-    engagement: 606
-    commentsToLikes: 0.088497
-    id: ckc7sesgux8c00j239kf6xdjg
+    followers: 114200
+    engagement: 605
+    commentsToLikes: 0.028376
+    id: ckbku4pe1p6sk0j234janw8o8
     verified: false
-    hashtags: "#drugstoremakeup, #camilacabello, #shawnmendes, #makeuphacks"
-  - username: "corinthsuarez"
+    hashtags: "#yummy, #weightloss, #plantbased, #beauty"
+  - username: "linorbennaim"
     fullname: >-
-      corinth
+      linorbennaim
     bio: >-
-      blogger tips • clean beauty • mom 💌hello@corinthsuarez.com 📍Miami 🇵🇭🇺🇸
+      99.9% vampire diaries ✨✨Stay Beautiful ✨✨ 🇮🇱🇮🇱🇮🇱
     location: "United States"
-    followers: 18800
-    engagement: 938
-    commentsToLikes: 0.079253
-    id: ck8savnk83uov0j787i9leco0
+    followers: 9219
+    engagement: 1322
+    commentsToLikes: 0.107414
+    id: ckcutdfjskgad0j23y6y1dv6x
     verified: false
-    hashtags: "#tiktokph, #transition, #filipino, #adelinesky"
+    hashtags: "#tvd, #tvdedits, #fy, #readysetgo"
 ---

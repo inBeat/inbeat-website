@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In New Delhi In 2022
+title: Top 10 Models TikTok Influencers In New Delhi in 2023
 description: >-
-  Find top models TikTok influencers in New Delhi in 2022. Most popular hashtags: #foryoupage #tiktok #duet #foryou.
+  Find top models TikTok influencers in New Delhi in 2023. Most popular hashtags: #foryoupage #tiktok #duet #foryou.
 platform: TikTok
 hits: 4
 text_top: Identify the best TikTok profiles on inBeat.

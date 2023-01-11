@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Portugal In 2022
+title: Top 10 Models Instagram Influencers In Portugal In 2023
 description: >-
-  Find top models Instagram influencers in Portugal in 2022. Most popular hashtags: #ootd #happy #smile.
+  Find top models Instagram influencers in Portugal in 2023. Most popular hashtags: #fashion #lisboa #ootd.
 platform: Instagram
-hits: 99
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 99 Instagram influencers like this in Portugal for you to collaborate.
+hits: 56
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 56 Instagram influencers like this in Portugal for you to connect with.
 profiles:
-  - username: "prazeresm"
+  - username: "tiago.mmteixeira"
     fullname: >-
-      Mariana Prazeres
+      Tiago Teixeira
     bio: >-
-      Content creator - Lisbon Full time photographer Part time model @prazeresmph
+      Model ,, Drummer ,, Athlete PR , Digital & Brands : gustavo@centralmodels.pt 🇵🇹: @centralmodels 🌍: @sugar__kids
     location: "Portugal"
-    followers: 22119
-    engagement: 864
-    commentsToLikes: 0.032311
-    id: ck139c5u2kkr80i19l840390m
+    followers: 20341
+    engagement: 815
+    commentsToLikes: 0.208951
+    id: ck6uco3lzgp0c0j71bqxh1rn9
     verified: false
-    hashtags: "#lisbonrestaurants, #snaptasteapp"
-  - username: "saralopeeees"
+    hashtags: "#dejavu, #dejavucover, #drums, #peaches"
+  - username: "phoenix.vida"
     fullname: >-
-      SARA | moda & lifestyle
+      Art♥Beauty♥Lifestyle♥Fashion
     bio: >-
-      Content creator • Fashion • Lifestyle 📍Model in Lisbon ✉️ geral.saralopes@gmail.com 10% - SARALOPES @bzr.streetstyle
+      Educator｜Artist｜#HKKOL Portuguese mixed🇵🇹 #influencer #Model 👉🏻𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦, 𝘚𝘶𝘯𝘥𝘢𝘺𝘒𝘪𝘴𝘴, 𝘏𝘢𝘱𝘱𝘺𝘱𝘢𝘮𝘢 𝘦𝘵𝘤 📩Please DM for JoB／Collab
     location: "Portugal"
-    followers: 12116
-    engagement: 622
-    commentsToLikes: 0.257562
-    id: ck8szqih6pccn0j78hojrkqe7
+    followers: 20301
+    engagement: 422
+    commentsToLikes: 0.087758
+    id: ckf5vfj3loeqa0j23pi7yo2fw
     verified: false
-    hashtags: "#girlsgoneloavies, #inspiration, #loavies, #fashionlover"
-  - username: "nuno.gemeos.moreira"
-    fullname: >-
-      Nuno Moreira
-    bio: >-
-      Owner & Dance teacher-Escola de dança Gémeos Moreira Choreographer at @dancatvi /dancing w/🌟 Model Empresário/Real Estate Collab send DM 📥
-    location: "Portugal"
-    followers: 107597
-    engagement: 417
-    commentsToLikes: 0.030907
-    id: ckaozbg76l4od0i782zr49zhr
-    verified: false
-    hashtags: "#love, #body, #smile, #tbt"
-  - username: "iamfabioteles"
-    fullname: >-
-      F A B I O • T E L E S
-    bio: >-
-      - @centralmodels 🇵🇹 - @fashionnovamen Ambassador For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
-    location: "Portugal"
-    followers: 157818
-    engagement: 730
-    commentsToLikes: 0.011503
-    id: ck5qdynmfxw7z0i118o9xwukj
-    verified: false
-    hashtags: "#weekend, #domingo, #workout, #caparica"
+    hashtags: "#vidadephoenix, #beautyshare, #hkfoodie, #naturalbeauty"
   - username: "yogawith.iva"
     fullname: >-
       ivazanotte
     bio: >-
-      💪instructor streaching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️ @yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 girls 🇵🇹Portugal
+      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
     location: "Portugal"
-    followers: 14378
-    engagement: 468
-    commentsToLikes: 0.239723
+    followers: 16826
+    engagement: 331
+    commentsToLikes: 0.304315
     id: ckapauezvxic70i78ot2ctr0a
     verified: false
-    hashtags: "#flexibility, #faro, #yogastrong, #yogatime"
+    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
+  - username: "_raquelsampaio_"
+    fullname: >-
+      𝐑𝐚𝐪𝐮𝐞𝐥 𝐒𝐚𝐦𝐩𝐚𝐢𝐨
+    bio: >-
+      Asian | African | European • Model @lagence_lisboa • TV Host @famashowoficial • Engineer to be 📩 sarasaavedra@lagence.pt
+    location: "Portugal"
+    followers: 82721
+    engagement: 715
+    commentsToLikes: 0.004114
+    id: ck5zoglckqiti0i14hnigyifg
+    verified: true
+    hashtags: "#sensibio, #1down100togo, #lorealparispub, #pub"
   - username: "kevinsampaiotwin"
     fullname: >-
       Kevin Sampaio
     bio: >-
       •Portuguese model 🇵🇹 •Twin brother with @jonathansampaio •Currently living in NYC 🇺🇸
     location: "Portugal"
-    followers: 109950
-    engagement: 408
-    commentsToLikes: 0.024881
+    followers: 104598
+    engagement: 297
+    commentsToLikes: 0.026761
     id: ck5btkddmg4fv0i11z5m30slo
     verified: true
-    hashtags: "#nofilter, #nyc"
-  - username: "jonathansampaio"
+    hashtags: "#nyc, #design, #fashion, #art"
+  - username: "iamfabioteles"
     fullname: >-
-      Jonathan Sampaio
+      F A B I O • T E L E S
     bio: >-
-      •Portuguese 🇵🇹 represented by @weare_models •Twin with @kevinsampaiotwin • living in Nyc🇺🇸 represented by @nextmodels
+      - @centralmodels 🇵🇹 @nevsmodels 🇬🇧 For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
     location: "Portugal"
-    followers: 97835
-    engagement: 388
-    commentsToLikes: 0.024871
-    id: ck5btkc5pg4d30i11y71l0q03
-    verified: true
-    hashtags: "#polaroid"
-  - username: "catiaaires13"
-    fullname: >-
-      Cátia Aires
-    bio: >-
-      @modelsfactory Aveiro Solicitadora ⚖ Catiaaires@live.com
-    location: "Portugal"
-    followers: 9098
-    engagement: 1121
-    commentsToLikes: 0.031329
-    id: ck9hcajsfkind0j78ljzimtjf
+    followers: 219684
+    engagement: 369
+    commentsToLikes: 0.011520
+    id: ck5qdynmfxw7z0i118o9xwukj
     verified: false
-    hashtags: "#happy, #happyness, #travel, #aveiro"
+    hashtags: "#porto, #lisboa, #algarve, #outfit"
+  - username: "magui_corceiro"
+    fullname: >-
+      Margarida Corceiro
+    bio: >-
+      🇵🇹 Actress / Model Acting Agent: leonorbaboactores@gmail.com PR, Digital & Brands: beatrizalves@centralmodels.pt
+    location: "Portugal"
+    followers: 1173479
+    engagement: 1238
+    commentsToLikes: 0.002090
+    id: ck6tq17rrou050j71ypufu2i3
+    verified: true
+    hashtags: "#uniplaces, #casasemlisboa, #pub, #whmagui"
   - username: "diogoalmeidacunha"
     fullname: >-
       Diogo Cunha
     bio: >-
       • Portugal 🇵🇹 • Digital Creator / Model • diogocunhateam@gmail.com
     location: "Portugal"
-    followers: 125508
-    engagement: 113
-    commentsToLikes: 0.065512
+    followers: 125138
+    engagement: 101
+    commentsToLikes: 0.137617
     id: ck5zm3t05lufs0i14g3ls3b2q
     verified: false
-    hashtags: "#insta, #fashion, #pic, #look"
-  - username: "alanatavares_"
+    hashtags: "#look, #pic, #ootd, #style"
+  - username: "henriquesadio"
     fullname: >-
-      ALANA TAVARES
+      H E N R I Q U E   S A D I O
     bio: >-
-      @blast_models @blast_actors @chic_brisbane @armyagency_casting
+      ✖️ Photographer & Model ✖️ Based in #Lisbon ✖️ Email: sandrosadio@gmail.com
     location: "Portugal"
-    followers: 15034
-    engagement: 220
-    commentsToLikes: 0.073797
-    id: ck13ctymv25aw0i19zqk6s5hd
+    followers: 19174
+    engagement: 349
+    commentsToLikes: 0.077940
+    id: ck6tzni0paqyv0j711dovhaoc
     verified: false
-    hashtags: "#notyouraveragemodel"
+    hashtags: "#bandanas, #bandanastyle, #modafashion, #lisboa"
+  - username: "_helderafonso_"
+    fullname: >-
+      Helder Afonso
+    bio: >-
+      "Put everything you are into the smallest thing you do."RR Portuguese Model | Central🇵🇹| Berta🇪🇸| Next🇬🇧| Crew🇮🇹| TwoLA🇺🇸|Q NY🇺🇸
+    location: "Portugal"
+    followers: 32178
+    engagement: 628
+    commentsToLikes: 0.015891
+    id: ck5pz1af7ys2z0i11khhbq95z
+    verified: false
+    hashtags: "#intimissimiuomo, #summer, #ad, #nightwear"
 ---

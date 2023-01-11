@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In India In 2022
+title: Top 10 Nail Artists Instagram Influencers In India In 2023
 description: >-
-  Find top nail artists Instagram influencers in India in 2022. Most popular hashtags: #nailsofinstagram #nailart #nails #love.
+  Find top nail artists Instagram influencers in India in 2023. Most popular hashtags: #nailartist #nailsofinstagram #reelsinstagram #nailart.
 platform: Instagram
-hits: 49
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 49 Instagram influencers like this in India for you to connect with.
+hits: 44
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 44 Instagram influencers like this in India for you to work with.
 profiles:
   - username: "tanya_buffandshiny"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.172553
     id: ckf5qs86raeop0j23tsg41bnw
     verified: false
-    hashtags: "#newbox, #notd, #stickonnails, #nailsofinstagram"
-  - username: "best_nailsclips"
+    hashtags: "#lucknowfreelancer, #lucknowites, #stickonnails, #pressonnailsindia"
+  - username: "planetofnailart"
     fullname: >-
-      Best Nails Clips
+      Nail Art Planet
     bio: >-
-      Promotiong page 📩 DM For Promotion 😇 Follow my second account @_glitter_nail Tiktok account @best_nailsclips Product link ↓
+      Follow @planetofnailart For More ❤️ DM For Promotions Shop Our Nail Kits Available Now -10% With Code: INSTA10
     location: "India"
-    followers: 385060
-    engagement: 55
-    commentsToLikes: 0.003997
-    id: ck8tbgzvvvmv30j786eeik1y5
+    followers: 292541
+    engagement: 113
+    commentsToLikes: 0.007254
+    id: ck5q592q5rutf0i1108r3n1c7
     verified: false
-    hashtags: "#uvgelnails, #shortnail, #teamvalentino, #nailstagram"
-  - username: "_dramatickle.error_"
+    hashtags: "#nycnails, #acrylicnails, #nailsonfleek, #polygel"
+  - username: "scoobyscheacty"
     fullname: >-
-      Ritika Sinha ✨🌌
+      T A M A N N A H 🧿
     bio: >-
-      "Ek Kam Zindegani, Usse bhi Kam Hai Jawani" Use DEYGA005% (Link 👇) 💌 Email/DM for collabs/PR ♥ Swatcher/Reviewer with a nice Phone Camera!
+      Delhi
     location: "India"
-    followers: 2627
-    engagement: 938
-    commentsToLikes: 0.252276
-    id: ckf5rltpsd4tm0j23phe3b0gb
+    followers: 7387
+    engagement: 412
+    commentsToLikes: 0.057078
+    id: ck15q4t7r13lp0i19ateyfwg5
     verified: false
-    hashtags: "#indianfashionblogger, #feelitreelit, #nailartists, #dramatickleerror"
-  - username: "artofmhendi"
+    hashtags: "#tbt, #selfportrait, #selfportraitphotography, #fashiontherapywithkomal"
+  - username: "_nupur_sarmah_"
     fullname: >-
-      𝐙𝐎𝐘𝐀 𝐊𝐇𝐀𝐍
+      Nupur Sarmah
     bio: >-
-      🔹ADMIN👉@marktraders_ 🔹DM For paid💰Promtns//Collabs💰 🔹DM For Removal // Credits..💬💬 🔹Follow 'PROMOTIONS' at your own risk⚠️
+      Assam MA in English Literature , AU👩‍🎓 B.Ed trainee Ambivert 18 Dec🎂 DM/Mail for collaboration / promotion 💌 Follow my 2nd account: @_ns_kitchen_1
     location: "India"
-    followers: 34930
-    engagement: 766
-    commentsToLikes: 0.001077
-    id: ckaosz4iwtnp70i7810w0wice
+    followers: 17546
+    engagement: 372
+    commentsToLikes: 0.085689
+    id: ckap1y8wswl7u0i78v2vqne23
     verified: false
-    hashtags: "#mehndi, #feelkaroreelkaro, #mehndistain, #mandala"
-  - username: "djfarmeen"
+    hashtags: "#sivsagar, #dailymotivation, #instadaiy, #explorepage"
+  - username: "foodstagram1711"
     fullname: >-
-      DJ Farmeen 🎧
+      Foodoraveler 💫| 📍Jammu
     bio: >-
-      Cabin Crew 🇶🇦✈️👸 86+ Countries 🌎 🧚‍♀️💫⭐️🌸🌹🦋🦄🍀 “NASHA REMIX “ 👇🏻
+      Food | Travel | Lifestyle Zomato level -9, Amazon verified 💯 DM for promotion / collaboration/ invite Do Check out the reel section 🥰
     location: "India"
-    followers: 35384
-    engagement: 72
-    commentsToLikes: 0.030019
-    id: ck6u40adm0xh80j712xw0q8yu
+    followers: 16220
+    engagement: 2952
+    commentsToLikes: 0.054332
+    id: ck9woojpd5xy90j78xpccw5rl
     verified: false
-    hashtags: "#pioneerdj, #electronicmusic, #beauty, #follow"
-  - username: "normacastelino"
+    hashtags: "#cheese, #foodprnshare, #chocolate, #funnyvideos"
+  - username: "rahiljindran"
     fullname: >-
-      Norma castelino
+      Rahil Jindran
     bio: >-
-      Y si te vi, no lo creo, diría hola dm para colaboraciones pagadas🎥 castelinonorma@gmail.com
+      Indian artist and 🔴 YouTuber. Subscribe to my YouTube channel to see amazing 3D drawings
     location: "India"
-    followers: 100335
-    engagement: 167
-    commentsToLikes: 0.121547
-    id: ck15u4a55lcvp0i1942mcgnst
+    followers: 9964
+    engagement: 639
+    commentsToLikes: 0.027835
+    id: ck9hbosl3hsrm0j78mz0rc0lp
     verified: false
-    hashtags: "#sun, #relax, #travel, #fashion"
-  - username: "jaspreetkaur_kalsi"
+    hashtags: "#artists, #artist, #rahiljindran, #arts"
+  - username: "swagata_dev"
     fullname: >-
-      Jaspreet | Fashion & Beauty
+      Swagata Dev
     bio: >-
-      Content Creator Email/ DM for Collaborations 📩 jaspreetkaurkalsiicollab@gmail.com Owner- @jewellerylove_by_jaspreetkalsi 20 y/o DU Student
+      Makeup , Outfits & having Fun it is!! 🎨 To learning something everyday 🥂 📍North East 🇮🇳 NEW VLOG 👇
     location: "India"
-    followers: 35396
-    engagement: 1851
-    commentsToLikes: 0.033335
-    id: ckf5nt8jvzlt60j23ju45qxym
+    followers: 154433
+    engagement: 217
+    commentsToLikes: 0.022101
+    id: ck0u1h4j6wuzy0i190e12ucak
     verified: false
-    hashtags: "#skincareproducts, #skincaretips, #indian, #glowup"
-  - username: "peachy_vibe"
+    hashtags: "#brothersisterlove, #karnataka, #bangalore, #bengaluru"
+  - username: "half.plate"
     fullname: >-
-      PV BY JESIKA • TWINKLE  JAIN
+      Shubhi |Some Spice & a Girl
     bio: >-
-      Decoding Fashion 👗 • Travel ✈️ • Lifestyle CELEBRITY STYLIST| Mumbai, Maharashtra🏘️ Email- peachyvibe@yahoo.com Manager- khushiparmar011@gmail.com
+      •An appetite for Flavours •Real life Educator •Recipe Developer •Zomato Level : 11 ⬆️ Dm for collabs/ promotions N⭕️ REP⭕️STING ❌ ( Ask once)
     location: "India"
-    followers: 107090
-    engagement: 61
-    commentsToLikes: 0.065787
-    id: ck55kg15hz7xz0i11etosvls6
+    followers: 12001
+    engagement: 229
+    commentsToLikes: 0.145247
+    id: ck14kmki7q98q0i19a08kh5qg
     verified: false
-    hashtags: "#workfromhomeoutfit, #outfitoftheday, #loungewear, #streetphotography"
-  - username: "armani_sharma"
+    hashtags: "#paratha, #reelkarofeelkaro, #reeling, #travelgram"
+  - username: "affectionate_punjaban"
     fullname: >-
-      @Armani Sharma
+      Sandhya_rissh Vedh
     bio: >-
-      Mödel M@kêup Ärtist, N@il Ärtist , Assistant director (AD) Fitñess Fre@k , Wish on 10aug .
+      Khud ki Tarif karni hume nhi Aati😅❌ Founder: @sanrissh_makeup_accesories 🤙Paid/ collaboration 💯Tiki
     location: "India"
-    followers: 11422
-    engagement: 437
-    commentsToLikes: 0.052148
-    id: ck9wg939zsdaq0j78vkv6ptll
+    followers: 318972
+    engagement: 702
+    commentsToLikes: 0.004504
+    id: ck8wf8kd1fbbz0j78kw14d3q2
     verified: false
-    hashtags: "#like, #memes, #armanisharma, #faishion"
-  - username: "himaliheer"
+    hashtags: "#insta, #instagram, #photo, #reels"
+  - username: "the_neha_joshi"
     fullname: >-
-      Himali
+      Neha Ila Joshi
     bio: >-
-      मसकली ✈ Model| content creator| aerospace engineer 📧 Himaliheer@gmail.com 🎥Youtube: Life happens DM for collaborations 📩 📍 Gurugram, Haryana
+      
     location: "India"
-    followers: 10662
-    engagement: 455
-    commentsToLikes: 0.027390
-    id: ck1362vpt4hri0i191zhpnfh4
+    followers: 11681
+    engagement: 979
+    commentsToLikes: 0.073716
+    id: ck5bxlxz7nz2x0i11d55ttj2b
     verified: false
-    hashtags: "#gurgaoninfluencers, #delhi, #gurugram, #influencer"
+    hashtags: "#photographers, #mumbai, #modelinmumbai, #portrait"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Toronto In 2022
+title: Top 10 Food TikTok Influencers In Toronto In 2023
 description: >-
-  Find top food TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #food #foryou.
+  Find top food TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #food #foryoupage.
 platform: TikTok
-hits: 70
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 70 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 68
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 68 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "_sarahmeii"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Toronto 📍 heart been broke so many times when you stalk me but don’t follow
     location: "Canada"
-    followers: 4128
-    engagement: 885
-    commentsToLikes: 0.053976
+    followers: 4040
+    engagement: 742
+    commentsToLikes: 0.055082
     id: ck9k21shwinl20j78pb633rku
     verified: false
-    hashtags: "#positivevibes, #bayarea, #levelup, #leavingmybody"
-  - username: "raysteckley"
+    hashtags: "#asiangirl, #greenscreen, #positivevibes, #leavingmybody"
+  - username: "erinwithmatt"
     fullname: >-
-      Rayray 
+      Erin & Matt
     bio: >-
-      FOLLOW ME ON INSTAGEAM TOO! @raysteckley
+      Follow us for Toronto food & drinks 🧋🧋🧋 👇Shop the collection👇
     location: "Canada"
-    followers: 3121
-    engagement: 952
-    commentsToLikes: 0.059176
-    id: ck8tu75dxsdza0j7843cyorql
+    followers: 129800
+    engagement: 904
+    commentsToLikes: 0.011624
+    id: ck8qe49wfr1dn0j78d7ralh5i
     verified: false
-    hashtags: "#wtf, #gym, #comedy, #charli"
-  - username: "ruth_arul"
+    hashtags: "#toronto, #bts, #learnwithme, #torontofood"
+  - username: "abeckawitdahoodie"
     fullname: >-
-      ruth_arul
+      Becka Carolyn
     bio: >-
-      My alter ego to my insta 🤪 Insta: @ruth_arul
+      Parental discretion is advised Toronto or whatever
     location: "Canada"
-    followers: 35500
-    engagement: 951
-    commentsToLikes: 0.012337
-    id: ckafucyaw9v1b0i782jvwrhzy
+    followers: 16500
+    engagement: 973
+    commentsToLikes: 0.062745
+    id: ck8fa2kjf3y0g0j78tikv2mll
     verified: false
-    hashtags: "#tamil, #southasian, #fyp, #browngirl"
-  - username: "imelevated__"
+    hashtags: "#canadaday, #toronto, #food, #wearamask"
+  - username: "thushanii"
     fullname: >-
-      imelevated
+      thush
     bio: >-
-      40k? follow for the funniest videos on tiktok 👇🖖
+      What happens when I’m bored 😅🧿
     location: "Canada"
-    followers: 31900
-    engagement: 1247
-    commentsToLikes: 0.016184
-    id: ck92uxyz3o3o00j78lok6wo66
+    followers: 73100
+    engagement: 542
+    commentsToLikes: 0.080712
+    id: ckafttezg6zq70i78f21qwlnt
     verified: false
-    hashtags: "#spookytreats, #viral, #jokes, #prank"
+    hashtags: "#torontoeats, #food, #tamil, #toronto"
+  - username: "ontariofinds"
+    fullname: >-
+      BEST OF ONTARIO
+    bio: >-
+      Newest and coolest Ontario adventures! Follow for the best places 📍daily vids
+    location: "Canada"
+    followers: 9692
+    engagement: 649
+    commentsToLikes: 0.018283
+    id: ckcokvjum59d00j23490ltc2f
+    verified: false
+    hashtags: "#markham, #ontario, #ajax, #torontodateideas"
+  - username: "trecce1792"
+    fullname: >-
+      trecce1792
+    bio: >-
+      Follow us on IG↗️ 📍Toronto The Daily food that we make👩🏻‍🍳👨🏼‍🍳
+    location: "Canada"
+    followers: 21400
+    engagement: 700
+    commentsToLikes: 0.119692
+    id: ck9rgx8yvcsnv0j78iwmxfwjc
+    verified: false
+    hashtags: "#foryou, #foodtiktok, #valentinesday, #pizza"
+  - username: "brownboyhamz"
+    fullname: >-
+      Hamza 👑
+    bio: >-
+      Follow Insta For a FB🙃👆🏼 🇵🇰x🇨🇦 Following back everyone Who follows my IG
+    location: "Canada"
+    followers: 30100
+    engagement: 1032
+    commentsToLikes: 0.148194
+    id: ckan3luwk5y0l0i78zq1l7vr4
+    verified: false
+    hashtags: "#xyzabc, #foryou, #viral, #f4f"
+  - username: "sellumejey"
+    fullname: >-
+      SellumeJey
+    bio: >-
+      ॐ| Tamil | 🇨🇦
+    location: "Canada"
+    followers: 5052
+    engagement: 672
+    commentsToLikes: 0.031532
+    id: ckcuxdiiam0st0j23wdqo7fhd
+    verified: false
+    hashtags: "#love, #stayhomeon, #foryoupage, #montreal"
   - username: "shoshanarose"
     fullname: >-
       Shoshana Rose
     bio: >-
       This is my excuse to dance on the Internet shoshana@metabeautymgmt.com Toronto
     location: "Canada"
-    followers: 16100
-    engagement: 529
-    commentsToLikes: 0.011162
+    followers: 18300
+    engagement: 704
+    commentsToLikes: 0.015748
     id: ck90r2hutkva30j78ousc53so
     verified: false
-    hashtags: "#coronaviruschallenge, #beautyhacks, #fyp, #icedcoffee"
-  - username: "abeckawitdahoodie"
+    hashtags: "#foryourpage, #toronto, #fyp, #torontofood"
+  - username: "pressuretodiamonds"
     fullname: >-
-      Becka Carolyn
+      PressureToDiamonds
     bio: >-
-      Parental discretion is advised
+      Semi TikTok famous
     location: "Canada"
-    followers: 16900
-    engagement: 911
-    commentsToLikes: 0.046438
-    id: ck8fa2kjf3y0g0j78tikv2mll
+    followers: 5036
+    engagement: 515
+    commentsToLikes: 0.015563
+    id: ck92uypgpo9mg0j78ek51ngl7
     verified: false
-    hashtags: "#canadaday, #food, #familythings, #burrito"
-  - username: "lamannabakery"
-    fullname: >-
-      lamannabakery
-    bio: >-
-      🇮🇹 Italian Bakery & Pizzeria 🏠 of TO’s BIG SLICE since 04 6758 Kingston rd TO
-    location: "Canada"
-    followers: 4436
-    engagement: 616
-    commentsToLikes: 0.022848
-    id: ckafu1xrp88n30i78kngt7jx1
-    verified: false
-    hashtags: "#foryou, #bigslice, #lamannabigslice, #eat"
-  - username: "ntmtube"
-    fullname: >-
-      ntmtube
-    bio: >-
-      ⚜️NTM officiel page⚜️ Ig:NTM_TUBE 👻:nicktamere1 🇨🇦🇮🇷
-    location: "Canada"
-    followers: 3542
-    engagement: 328
-    commentsToLikes: 0.152899
-    id: ckc7iyegbqnkw0j23v45c1fje
-    verified: false
-    hashtags: "#fy, #foryou, #viral, #fyp"
-  - username: "gunnarolla"
-    fullname: >-
-      GUNNAROLLA
-    bio: >-
-      World traveller, food lover, music maker. 📍 Toronto // YT/IG @gunnarolla
-    location: "Canada"
-    followers: 14700
-    engagement: 1551
-    commentsToLikes: 0.046756
-    id: ck9e0fqrv5vdn0j78o5zfe9a3
-    verified: true
-    hashtags: "#relatable, #quarantinelife, #quarantine, #fyp"
-  - username: "everything_delish"
-    fullname: >-
-      Jamie Milne
-    bio: >-
-      recipes & more👇 FOLLOW MY IG: @everything_delish (245k+) RECIPES ON IG & BLOG⚡️
-    location: "Canada"
-    followers: 668100
-    engagement: 787
-    commentsToLikes: 0.009110
-    id: ck8z2w7zq75ur0j78efp72ao1
-    verified: true
-    hashtags: "#healthy, #eggs, #halloweenishere, #tiktokfood"
+    hashtags: "#laugh, #fishing, #viral, #funny"
 ---

@@ -1,33 +1,33 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Russia In 2022
+title: Top 10 Gymnasts Instagram Influencers In Russia In 2023
 description: >-
-  Find top gymnasts Instagram influencers in Russia in 2022. Most popular hashtags: #sport #bravogreatphoto #longblondehair.
+  Find top gymnasts Instagram influencers in Russia in 2023. Most popular hashtags: #rhythmicgymnastics #artisticswimming #roadtotokyo.
 platform: Instagram
-hits: 144
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 144 Instagram influencers like this in Russia for you to contact.
+hits: 141
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 141 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "soldy21"
+  - username: "kate_sinika"
     fullname: >-
-      Alexsandra Soldatova.
+      •𝓢 𝓘 𝓝 𝓘 𝓒 𝓗 𝓚 𝓐• 🕊
     bio: >-
-      Russian National Team of Rhythmic Gymnastics. World and European champion.
+      • ONMedU / ONU I.I.Mechnikova • Master of Sport in Rhythmic Gymnastics
     location: "Russia"
-    followers: 442956
-    engagement: 626
-    commentsToLikes: 0.021052
-    id: ck0vwg35mtiqw0i19hmsmeln1
-    verified: true
-    hashtags: "#teamsoldy"
+    followers: 2615
+    engagement: 2484
+    commentsToLikes: 0.082614
+    id: ckap20j59wus30i7863wml1ly
+    verified: false
+    hashtags: ""
   - username: "bli28zia"
     fullname: >-
       Anastasia Bliznyuk
     bio: >-
       🇷🇺 Russian National Team of Rhythmic Gymnastics 🏆 Two-time Olympic Champion 🥇🇬🇧 London 2012 🥇🇧🇷 Rio 2016
     location: "Russia"
-    followers: 9665
-    engagement: 1847
-    commentsToLikes: 0.033890
+    followers: 9748
+    engagement: 1882
+    commentsToLikes: 0.033309
     id: ckap5qx3gcsa40i78l8nuushb
     verified: false
     hashtags: "#teamrussia"
@@ -35,11 +35,11 @@ profiles:
     fullname: >-
       Polina Orlova💋
     bio: >-
-      💥Russian National Team of Rhythmic Gymnastics🇷🇺 💥Master of sports of International class 🤸‍♀️ 💥17 y.o По вопросам сотрудничества в Директ📩
+      💥National Team of Rhythmic Gymnastic 💥Master of sports of International class 🤸‍♀️ 💥18 y.o По вопросам сотрудничества в Директ📩
     location: "Russia"
-    followers: 20596
-    engagement: 1206
-    commentsToLikes: 0.018594
+    followers: 21496
+    engagement: 1024
+    commentsToLikes: 0.012542
     id: ck5c2faw7x59b0i110oqamq1x
     verified: false
     hashtags: ""
@@ -47,84 +47,84 @@ profiles:
     fullname: >-
       Милена Милачич
     bio: >-
-      Rhythmic Gymnastics Serbian Champion @topstretching coach
+      Rhythmic Gymnastics Serbian Champion @topstretching coach ⠀ 89057523851 Stanislava PR
     location: "Russia"
-    followers: 139520
-    engagement: 704
-    commentsToLikes: 0.011098
+    followers: 141157
+    engagement: 631
+    commentsToLikes: 0.010002
     id: ck0vx2nu6wuct0i192yh6u13k
     verified: false
-    hashtags: "#ozon4sport"
-  - username: "annenkovaira_99"
+    hashtags: "#showmustgoon, #pauligcitycafe"
+  - username: "guzya_02"
     fullname: >-
-      IRINA ANNENKOVA
+      🤍𝓐𝓷𝓪𝓼𝓽𝓪𝓼𝓲𝓪  𝓖𝓾𝔃𝓮𝓷𝓴𝓸𝓿𝓪🖤
     bio: >-
-      Russian national rhythmic gymnastics team🇷🇺 • Winner of the Youth Olympic Games • Three-time European champion • Three-time winner of the Russian Cup
+      Russian National Team of Rhythmic Gymnastics🇷🇺
     location: "Russia"
-    followers: 25862
-    engagement: 621
-    commentsToLikes: 0.029536
-    id: ck0vwfxa9thxo0i19rdat6ttt
+    followers: 17552
+    engagement: 1397
+    commentsToLikes: 0.015826
+    id: ck0vwfzeati6c0i190i3hytl3
     verified: false
-    hashtags: "#yog2014nanjing, #feelsomething"
+    hashtags: ""
   - username: "_inna_dyachenko_"
     fullname: >-
       Inna Dyachenko 🐬
     bio: >-
       Young model, gymnast, dancer @todes_dmitrovofficial Account run by mom @love_shumik
     location: "Russia"
-    followers: 6879
-    engagement: 1612
-    commentsToLikes: 0.020043
+    followers: 6622
+    engagement: 1337
+    commentsToLikes: 0.021441
     id: ck0vwg4j6tix50i1995dzo7jt
     verified: false
-    hashtags: "#uaecup, #dubai, #contestsoldy"
-  - username: "miss.milasha"
-    fullname: >-
-      MILASHA & ULIANA (Mom)
-    bio: >-
-      Gymnast|Model|Actress🇷🇺 ✈️Little traveler - 32 countries🌍 Account run by mom @lyanka.s MA @bambimanagement agent @tokarevmoda 🦄Cutie is my name
-    location: "Russia"
-    followers: 4805
-    engagement: 1332
-    commentsToLikes: 0.093878
-    id: ckaot0qidtuy10i78jqz2z38n
-    verified: false
-    hashtags: "#saunabayhouse"
+    hashtags: "#contestsoldy"
   - username: "polinochkap"
     fullname: >-
       🌿 Polina Panova 🌿
     bio: >-
       ✨Master of sports in Rhythmic Gymnastics ✨Model ✨ I.M. Sechenov First Moscow State Medical University
     location: "Russia"
-    followers: 13601
-    engagement: 926
-    commentsToLikes: 0.034824
+    followers: 13773
+    engagement: 737
+    commentsToLikes: 0.042884
     id: ck0vwgj7ktlrf0i19y7q7bszd
     verified: false
-    hashtags: "#portrait, #russianmodel, #longhair, #blondehair"
+    hashtags: "#portraiture, #longhair, #portraitphotography, #russianmodel"
+  - username: "gargosha87"
+    fullname: >-
+      Parents of Eva Arakcheeva
+    bio: >-
+      🇷🇺Eva 🇷🇺 🌺rhythmic gymnastic🌺 🌺Амбассадор🌺 @zebrakidsshoes @diamatti_store Account run by mom @medyza_gargosha
+    location: "Russia"
+    followers: 79192
+    engagement: 311
+    commentsToLikes: 0.031834
+    id: ck15ryzeiaena0i19ubudvzbo
+    verified: false
+    hashtags: ""
   - username: "sanyashmidt"
     fullname: >-
       Alexandra Shmidt
     bio: >-
       𝗦𝗬𝗡𝗖𝗛𝗥𝗢𝗡𝗜𝗭𝗘𝗗 𝗦𝗪𝗜𝗠𝗠𝗜𝗡𝗚 ✨ Team of Saint-Petersburg, Russia 🇷🇺 ✨ 12 y.o. ✨ КМС ✨ EX Rhythmic gymnastics
     location: "Russia"
-    followers: 42973
-    engagement: 791
-    commentsToLikes: 0.010150
+    followers: 42018
+    engagement: 818
+    commentsToLikes: 0.009944
     id: ckaoyt7iyiyy40i78siblauin
     verified: false
-    hashtags: "#synchronizedswimming, #flexibility, #hardwork, #vacation"
-  - username: "adelinagaloyan"
+    hashtags: "#flexibility, #alexandrashmidt, #training, #sport"
+  - username: "nikolchenko_vlada"
     fullname: >-
-      ⚜️Adelina Galoyan⚜️
+      Nikolchenko Vladа
     bio: >-
-      Russia, Moscow 🎓 Russian Presidential Academy IGSU🎬 ▪️Absolute Champion of Russia in RG ▪️Master of Sports in Rhythmic Gymnastics
+      🇺🇦National Team Ukraine 🤸🏻‍♂️Rhythmic Gymnastics 🥉🥉European Games 🥉European Championship 🥉World 📍Kyiv, Ukraine
     location: "Russia"
-    followers: 3948
-    engagement: 2367
-    commentsToLikes: 0.033582
-    id: ck13cs8jm1waz0i19ybc358jl
+    followers: 34277
+    engagement: 1186
+    commentsToLikes: 0.009445
+    id: ck5c2eq8nx44k0i112zdxpmaz
     verified: false
-    hashtags: ""
+    hashtags: "#rhythmicgymnastics, #kyiv, #teamukrainerg, #vladanikolchenko"
 ---

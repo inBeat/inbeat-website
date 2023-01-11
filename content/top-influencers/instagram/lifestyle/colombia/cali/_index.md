@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Cali In 2022
+title: Top 10 Lifestyle Instagram Influencers In Cali In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Cali in 2022. Most popular hashtags: #lifestyle #colombia #cali #calicolombia.
+  Find top lifestyle Instagram influencers in Cali in 2023. Most popular hashtags: #colombia #lifestyle #cali #fitness.
 platform: Instagram
-hits: 47
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 47 Instagram influencers like this in Cali, Colombia for you to work with.
+hits: 32
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 32 Instagram influencers like this in Cali, Colombia for you to contact.
 profiles:
-  - username: "jonamontoyazumba"
+  - username: "nathaliaduquef"
     fullname: >-
-      Jonathan Montoya
+      Nathalia Duque 🇨🇴 | Actress
     bio: >-
-      “Dreams Come True”🙏🏻 •@zumba Fitness Instructor •International Zumba Fitness Presenter🌎 ✈️ •ZIN Member •Cali Colombia🇨🇴 •Professional Salsa dancer🕺🏼
+      📍Hong Kong @hkdisneyland B.F.A. in Musical Theatre Actress- Singer -Dancer Agency Represented and published Model/content creator 🔙 @waltdisneyworld
     location: "Colombia"
-    followers: 13357
-    engagement: 674
-    commentsToLikes: 0.063292
-    id: ck1396johjs550i19eksedc0q
+    followers: 9233
+    engagement: 665
+    commentsToLikes: 0.069425
+    id: ck6uc8y7xe6wl0j71iteglv8l
     verified: false
-    hashtags: "#salsacale, #instagood, #colombiapresente, #zumbafitness"
-  - username: "giannimichielin"
+    hashtags: "#foodie, #dreams, #centralflorida, #calicolombia"
+  - username: "juanpatetrae"
     fullname: >-
-      Giannina Michielin Roa
+      Juanpatetrae 🔪
     bio: >-
-      Fashion Blogger Personal Shopper 💌giannimichielin@hotmail.com 💡Co-Founder #brunchofideas 💌 brunchofideas@gmail.com Cali, Colombia 🇨🇴 || Italy 🇮🇹
+      ⬆️ Mira mis historias diarias ⬆️ ⚠️ #fooddaily ⚠️ Quédate y antójate todos los días🤤 Creador y buscador gastronómico 🔥 ✨ #foodlover ✨
     location: "Colombia"
-    followers: 38496
-    engagement: 137
-    commentsToLikes: 0.099863
-    id: ck0w3n7rnu9n80i19d99jvcmt
+    followers: 7934
+    engagement: 277
+    commentsToLikes: 0.118383
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#influencermarketing, #micalibella, #publicidad, #gracias"
-  - username: "molialvarez"
+    hashtags: "#reels, #streetfood, #burgerlover, #cali"
+  - username: "caroferrerb"
     fullname: >-
-      Moli Álvarez
+      CARO FERRER ★Cycling★Lifestyle
     bio: >-
-      #bailalealavida Instructora certificada @zumba Fitness🇨🇴 Sí eres una mamita y quieres relajarte, sígueme en @mamasinafanes
+      🇨🇴Colombiana 📍Vivo la vida en Bici 👩🏼‍⚕️Fisioterapeuta ★ 🛒@ilvento.life_ 🚲@bicicletas.strongman Gobik•Look•Koo•Kask•ESPN ⇩ ⇩ ⇩ ⇩
     location: "Colombia"
-    followers: 19051
-    engagement: 319
-    commentsToLikes: 0.056481
-    id: ck0w7590lbtkp0i19cjvtu760
+    followers: 237300
+    engagement: 312
+    commentsToLikes: 0.014056
+    id: ck15u9qa3m4550i19gusw1mho
     verified: false
-    hashtags: "#colombia, #cali, #love, #usa"
+    hashtags: "#ilvento, #yolo, #cycling, #gobikwear"
   - username: "mcamilarodriguezf"
     fullname: >-
-      Camila Rodríguez
+      María Camila Rodríguez
     bio: >-
-      Mzl, Colombia📍🇨🇴 Odontología💉🦷UAM⚕️ Crossfit 🏋🏽‍♀️💪🏽
+      Manizales, Col📍🇨🇴 Odontología🦷 UAM⚕️ Crossfit 🏋🏽‍♀️
     location: "Colombia"
-    followers: 10943
-    engagement: 828
-    commentsToLikes: 0.009943
+    followers: 11388
+    engagement: 843
+    commentsToLikes: 0.031715
     id: ck600tv4he9dz0i14ajb0997s
     verified: false
-    hashtags: "#sunsetphotography, #colombia, #photography, #beauty"
+    hashtags: "#girl, #colombia, #beauty, #lifestyle"
   - username: "annyriveraduque"
     fullname: >-
       Anny Rivera
     bio: >-
       Ciclismo| Running| Training Lifestyle⁣ ➟ Bienestar ⁣ De Cali, 📍 Bogotá ⁣⁣ Strava: Anny Rivera Duque⁣⁣ ⁣⁣
     location: "Colombia"
-    followers: 54892
-    engagement: 218
-    commentsToLikes: 0.018477
+    followers: 56563
+    engagement: 178
+    commentsToLikes: 0.019695
     id: ck5q2qrfnhcc50i11qd0qax73
     verified: false
-    hashtags: "#bike, #mtb, #road, #gorigogo"
-  - username: "danielrestrepogarcia"
+    hashtags: "#healthspo, #bici, #mtb, #patrocinado"
+  - username: "leidysolis76kg"
     fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
+      𝐋𝐞𝐢𝐝𝐲 𝐒𝐨𝐥𝐢𝐬
     bio: >-
-      Quiero transmitir mi filosofía olímpica 🇨🇴. Porque no solo se trata de ganar medallas, sino amistad, comprensión, y esfuerzo 🔜@tokyo2020 🎌
+      LEVANTAMIENTO DE PESAS DEPORTISTA DE ALTO RENDIMIENTO TRIPLE CAMPEONA DEL MUNDO DOBLE CAMPEONA DEL MUNDO JUVENIL SUB CAMPEONA OLÍMPICA
     location: "Colombia"
-    followers: 10512
-    engagement: 1195
-    commentsToLikes: 0.012534
-    id: ck8sxy4w6j33z0j78bo5e1iqo
+    followers: 50244
+    engagement: 633
+    commentsToLikes: 0.022984
+    id: ck8sxy4enj3200j78wvhe5jjh
     verified: false
-    hashtags: "#me, #champion, #workout, #motivation"
+    hashtags: "#worldchampion, #likelike, #crowd, #photooftheday"
+  - username: "calicolfit"
+    fullname: >-
+      LUZ MARINA GARCIA A 🐼🦄
+    bio: >-
+      FITNNES Lifestyle 🏋️‍♀️ FOOD👩‍🍳 Abogada 🧑‍⚖️ Mom👩‍👦 Ceo @level_upsport @fitnesspointcali ambassador Distribuidora @bodyrock_fitness
+    location: "Colombia"
+    followers: 43808
+    engagement: 85
+    commentsToLikes: 0.048433
+    id: ck5zufszw2a0r0i14z8wpyi8c
+    verified: false
+    hashtags: "#home, #workout, #cale, #legs"
+  - username: "andresfcampo17"
+    fullname: >-
+      Andrés Felipe Campo
+    bio: >-
+      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2022 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
+    location: "Colombia"
+    followers: 12054
+    engagement: 285
+    commentsToLikes: 0.013618
+    id: ck8t2thc40nbr0j78tuw0uud0
+    verified: false
+    hashtags: "#pictureoftheday, #popay, #skating, #mentesmillonarias"
+  - username: "eli_rojas_422"
+    fullname: >-
+      Eli Rojas
+    bio: >-
+      Colombian Girl with Jamaican Soul* Resident @bluemarlinibiza @thezooproject Worldwide Bookings booking@elirojas.com Management groundlevelibiza.com
+    location: "Colombia"
+    followers: 32372
+    engagement: 163
+    commentsToLikes: 0.054832
+    id: ck1355k1iztis0i19modiycp1
+    verified: false
+    hashtags: "#repost, #liveset, #spain, #livestreaming"
   - username: "isabellacubillos"
     fullname: >-
       ISABELLA CUBILLOS
     bio: >-
       Founder @symmetric.sportswear ⚡️ Cali, Colombia Fitness / Workouts / Lifestyle
     location: "Colombia"
-    followers: 57746
-    engagement: 184
-    commentsToLikes: 0.043571
+    followers: 96205
+    engagement: 159
+    commentsToLikes: 0.023262
     id: ck8t6makke3v20j78m7phwtob
     verified: false
-    hashtags: "#lifestyle, #selfie, #cardiohiit, #fitnessjourney"
-  - username: "juanpatetrae"
-    fullname: >-
-      Juanpatetrae 🔪
-    bio: >-
-      My history time = My daily life 😏🔥 Chef /Creador y buscador gastronómico 👨🏻‍🍳👀 Tiktok (+80K): Juanpatetrae Foodlover 🤤 I Love animals 🐾❤️ Cali 🇨🇴📍
-    location: "Colombia"
-    followers: 7568
-    engagement: 439
-    commentsToLikes: 0.082879
-    id: ck9wd786vedof0j78c7w5bgia
-    verified: false
-    hashtags: "#hombre, #tattoo, #colombia, #foodporn"
-  - username: "lauritafitness"
-    fullname: >-
-      Lau Tamayo 🎀
-    bio: >-
-      Colombian 🇨🇴 Cat lover 😻 Fitness 🏋️‍♀️ Travel ✈️ Trading 📈 #BornToBeRealNotPerfect
-    location: "Colombia"
-    followers: 4189
-    engagement: 1063
-    commentsToLikes: 0.115666
-    id: ck8szo35bp3ov0j789prcl2ok
-    verified: false
-    hashtags: "#positiva, #verano, #model, #classy"
-  - username: "danielaguaguaa"
-    fullname: >-
-      DANIELA GUAGUA
-    bio: >-
-      ♡ Hago maquillajes para la vida real ♡ Comunicadora Social ♡ Cali, Colombia 🇨🇴 VÍDEOS EN YOUTUBE⬇
-    location: "Colombia"
-    followers: 9277
-    engagement: 495
-    commentsToLikes: 0.074169
-    id: ck8t9afrone6w0j784kqhd4ia
-    verified: false
-    hashtags: "#makeuptutorials, #makeuptime, #makeuplovers, #trendmood1"
+    hashtags: "#fitnessmotivation, #cardiohiit, #ootd, #fitness"
 ---

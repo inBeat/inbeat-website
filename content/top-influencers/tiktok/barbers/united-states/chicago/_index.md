@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Chicago In 2022
+title: Top 10 Barbers TikTok Influencers In Chicago In 2023
 description: >-
-  Find top barbers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #barber #foryou #foryoupage.
+  Find top barbers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #barber #chicago #foryoupage.
 platform: TikTok
-hits: 16
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 16 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 10
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 10 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "littlemoefades"
-    fullname: >-
-      LittleMoeFades
-    bio: >-
-      Insta; @littlemoefades 🎈 20y barber from Chicago 🌃 Enjoy the ride🌌
-    location: "United States"
-    followers: 41600
-    engagement: 1196
-    commentsToLikes: 0.043710
-    id: ck9gkmg9nk1to0j78pgb5kidg
-    verified: false
-    hashtags: "#foryou, #xyzbca, #hair, #timewarpscan"
-  - username: "ogbarber"
-    fullname: >-
-      OriginalBarber
-    bio: >-
-      Professional Barber From Chicago
-    location: "United States"
-    followers: 3361
-    engagement: 301
-    commentsToLikes: 0.019780
-    id: ckaux11ci2fai0j23plbyik8m
-    verified: false
-    hashtags: "#selfcut, #chicagobarbers, #consistency, #tiktok"
   - username: "jesse.elite87"
     fullname: >-
       Jesseelite
     bio: >-
       Want to learn more visit my YouTube channel, same name.Also eliteproductline.com
     location: "United States"
-    followers: 98200
-    engagement: 320
-    commentsToLikes: 0.004036
+    followers: 133800
+    engagement: 456
+    commentsToLikes: 0.005763
     id: ckaux13ex2fpc0j23z2fxq1rl
     verified: false
-    hashtags: "#jesseelitehairdye, #jesseelite, #hairstyle, #cosmotology"
-  - username: "fidelpittss"
+    hashtags: "#foryourpage, #barbershop, #chicagobarbers, #chicagobarber"
+  - username: "popl"
     fullname: >-
-      Fidelpittss
+      popl
     bio: >-
-      FOLLOW/INSTAGRAM ⬆️ Blessed by 300,000‼️🖤 CALI🌴17🧞‍♂️🪐BARBER💈 👻@sniper.del
+      Follow us on Instagram and dm “tiktok” for a discount 💸
     location: "United States"
-    followers: 314400
-    engagement: 1795
-    commentsToLikes: 0.015204
-    id: ckac3lagfbml40i780iuj0xaa
-    verified: false
-    hashtags: "#viral, #duet, #fyp, #comment"
-  - username: "ttg13kant"
+    followers: 2300000
+    engagement: 760
+    commentsToLikes: 0.007198
+    id: ck8vypt1kunqa0j78u60n1gf0
+    verified: true
+    hashtags: "#technology, #fy, #drama, #foryo"
+  - username: "littlemoefades"
     fullname: >-
-      Anthony Laster
+      LittleMoeFades
     bio: >-
-      100k Followers By The End Of My Deployment!? +Snap 👻 okg_anthony 📍Chicago📍
+      21y barber from Chicago 🌃 Official 👁👁 meme Inquires:Thatoneguymoe23@gmail.com
     location: "United States"
-    followers: 51500
-    engagement: 1126
-    commentsToLikes: 0.028244
-    id: ckaiieu8ua48o0i78tmeju6oh
+    followers: 1500000
+    engagement: 1730
+    commentsToLikes: 0.016536
+    id: ck9gkmg9nk1to0j78pgb5kidg
     verified: false
-    hashtags: "#life, #xyz, #smile, #usmilitary"
-  - username: "tinogoku"
+    hashtags: "#duet, #fyp, #moestoes, #ramadan"
+  - username: "ogbarber"
     fullname: >-
-      TinoGoKu
+      OriginalBarber
     bio: >-
-      TINOGOKU ON ALL SOCIAL MEDIA PLATFORMS Chicago📍 | 18
+      Professional Barber From Chicago
     location: "United States"
-    followers: 37400
-    engagement: 1051
-    commentsToLikes: 0.012878
-    id: ckb10j9omp1ja0j23ubvescma
+    followers: 3358
+    engagement: 377
+    commentsToLikes: 0.035152
+    id: ckaux11ci2fai0j23plbyik8m
     verified: false
-    hashtags: "#tinogoku, #crazy, #speaker, #lilkeev"
-  - username: "slutzareus"
-    fullname: >-
-      Nadeem
-    bio: >-
-      Chicago Catching all these snakes in the grass
-    location: "United States"
-    followers: 176300
-    engagement: 1021
-    commentsToLikes: 0.006816
-    id: ckb9dxg081dp40j232b1zb9z4
-    verified: false
-    hashtags: "#police, #cops, #chicago, #fy"
+    hashtags: "#clean, #fresh, #originalbarber, #chicagobarber"
   - username: "moeqaisi202"
     fullname: >-
       Mohammed Qaisi
     bio: >-
-      Chicago 🌃 Follow the insta ❤️ 🇵🇸/ 🇯🇴 $MoeQaisi
+      Chicago 🌃 Follow the insta ❤️ 🇵🇸/ 🇯🇴
     location: "United States"
-    followers: 59900
-    engagement: 1172
-    commentsToLikes: 0.014831
+    followers: 57800
+    engagement: 1414
+    commentsToLikes: 0.018501
     id: ckb9gmpjl5r0v0j2323mrob77
     verified: false
-    hashtags: "#foryoupage, #notforyou, #foryou, #xyzbca"
-  - username: "youssefbarber"
+    hashtags: "#notforyou, #foryou, #getmefamous, #getthisviral"
+  - username: "ishtaher"
     fullname: >-
-      Youssef Barber
+      Ish
     bio: >-
-      Dread Butcher CEO of Diamond Cuts & Curl Sponge www.curlsponge.com Follow on IG
+      P0 Box 821 Tinley Park, IL 60487 👻ishtaher94 ishtaher@gmail.com
     location: "United States"
-    followers: 284100
-    engagement: 1585
-    commentsToLikes: 0.005819
-    id: ck8kd2u8o3y6k0j785rdosy38
+    followers: 1100000
+    engagement: 1586
+    commentsToLikes: 0.011013
+    id: ckbf7y5e5y6kp0j231av0r59l
     verified: false
-    hashtags: "#haircut, #dreadbutcher, #hair, #barber"
-  - username: "realsircruse"
+    hashtags: "#latina, #love, #relationship, #fyp"
+  - username: "getgulley"
     fullname: >-
-      Sir Cruse
+      Tabrin Gulley
     bio: >-
-      $30 Page Post. Cashapp $Sircruse27 Email: Kingcrusejr@icloud.com
+      I LIKE MAKIN STUFF... Oh yea! And shoes! 13K? 😂 Check the IG
     location: "United States"
-    followers: 336000
-    engagement: 953
-    commentsToLikes: 0.011493
-    id: ckb9i53bi89sk0j23xheq9ck8
+    followers: 11200
+    engagement: 1216
+    commentsToLikes: 0.056955
+    id: ck9ohnc42c1g00j78xnym8uvw
     verified: false
-    hashtags: "#sircruse, #fyp, #haircut, #360waves"
+    hashtags: "#sneakers, #foryoupage, #sneakerhead, #foryou"
+  - username: "ukn714"
+    fullname: >-
+      Unknown
+    bio: >-
+      Huntington Beach! Mexican 🇲🇽 Barber Dog owner: Kaia & kora 🐺🐺
+    location: "United States"
+    followers: 2839
+    engagement: 685
+    commentsToLikes: 0.017756
+    id: ckbl76alb4vpf0j23zi6sa1ha
+    verified: false
+    hashtags: "#chicanoculture, #lowriders, #crusin, #calivibes"
+  - username: "alisac_thebarber"
+    fullname: >-
+      Alisac Nieves
+    bio: >-
+      
+    location: "United States"
+    followers: 15300
+    engagement: 240
+    commentsToLikes: 0.007122
+    id: ck81s0pqap69o0j788tf2rsyw
+    verified: false
+    hashtags: "#viral, #summerwins, #foryoupage, #fyp"
+  - username: "shelly.makaveli"
+    fullname: >-
+      shelly.makaveli
+    bio: >-
+      Barber💈 Braider➿ IG: @shelly.makaveli
+    location: "United States"
+    followers: 2718
+    engagement: 1116
+    commentsToLikes: 0.016287
+    id: cka6f8ho4eo9v0i787y793xnw
+    verified: false
+    hashtags: "#fyp, #barber, #lowrider, #foryourpage"
 ---

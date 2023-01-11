@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Chile In 2022
+title: Top 10 Guitar Instagram Influencers In Chile In 2023
 description: >-
-  Find top guitar Instagram influencers in Chile in 2022. Most popular hashtags: #guitarplayer #chile #repost.
+  Find top guitar Instagram influencers in Chile in 2023. Most popular hashtags: #photography #musicachilena #swillstraps.
 platform: Instagram
-hits: 31
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 31 Instagram influencers like this in Chile for you to work with.
+hits: 29
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 29 Instagram influencers like this in Chile for you to collaborate.
 profiles:
   - username: "blackenedbbx"
     fullname: >-
-      ✺Blackened✺
+      Agustín Cutipa
     bio: >-
-      Beatboxer canto/guitarra ▻blackenedbeatbox@gmail.com ⇩Canal de YouTube⇩
+      Beatboxer canto/guitarra
     location: "Chile"
-    followers: 9817
-    engagement: 1384
-    commentsToLikes: 0.045540
+    followers: 8794
+    engagement: 1502
+    commentsToLikes: 0.044277
     id: ck8t0cdomrl440j785sdpchdv
     verified: false
-    hashtags: "#beatbox, #swissbeatbox, #riddim, #inwardbass"
+    hashtags: "#beatbox, #inwardbass, #swissbeatbox, #riddim"
   - username: "chealvizuris"
     fullname: >-
       Che Alvizuris
     bio: >-
       Married to Raquel ❤️ - Jesús - @lead.musica 🎸 - @wonder____studio - Guitarrista - Fotógrafo - FilmMaker - Guate 🇬🇹
     location: "Chile"
-    followers: 7213
-    engagement: 633
-    commentsToLikes: 0.023633
+    followers: 7250
+    engagement: 632
+    commentsToLikes: 0.023563
     id: ck0vy99xx2uti0i19cbo9npg8
     verified: false
-    hashtags: "#losangeles, #magnificomagazine, #thefilmgang, #heyfsc"
+    hashtags: "#lensonstreets, #france, #filmisnotdead, #ableton"
   - username: "nintendojc"
     fullname: >-
       Juan Cancino
     bio: >-
       •Ingeniero en Marketing •Nintendo Influencer •Guitarrista •¡NO SOY TIENDA! •Santiago - Chile
     location: "Chile"
-    followers: 45812
-    engagement: 467
-    commentsToLikes: 0.046199
+    followers: 50826
+    engagement: 565
+    commentsToLikes: 0.029990
     id: ck5zkfmqzje6f0i14f53q1sq8
     verified: false
-    hashtags: "#zelda, #history, #historia, #nintendo"
-  - username: "_uwucovers_"
+    hashtags: "#supermario, #fanart, #art, #mario"
+  - username: "abeja_"
     fullname: >-
-      UwU Covers
+      Alejandro Abeijón
     bio: >-
-      Covers instrumentales uwu 🎼🎸 - UwU Duo - - Guitarrista en @animixtape - Próximo especial: 75.000 seguidores🎉♥️ . 🔻🔻Canal de YouTube 🔻🔻
+      Guitarrista/ Guitar player of @Rawayana 📍🇲🇽
     location: "Chile"
-    followers: 58593
-    engagement: 1041
-    commentsToLikes: 0.038639
-    id: ckaowvtz3aoem0i78lx1p8qgx
+    followers: 24973
+    engagement: 725
+    commentsToLikes: 0.031012
+    id: ck5hpxliks58m0i118cieua7i
+    verified: true
+    hashtags: "#tbt, #siemprefreshday, #blackouttuesday"
+  - username: "andresgorlo"
+    fullname: >-
+      Andrés Gorlo
+    bio: >-
+      Hago fotos y toco guitarra 📍Montevideo, Uruguay🇺🇾 Mi trabajo comercial en el sitio Web
+    location: "Chile"
+    followers: 3478
+    engagement: 746
+    commentsToLikes: 0.068275
+    id: ck0tvg09cb6t60i19r474o3ic
     verified: false
-    hashtags: "#shitpostchile, #humorchile, #memeschile, #dylanteromeme"
+    hashtags: "#uruguay, #paisajes, #instatravel, #sunset"
   - username: "kokebenavides"
     fullname: >-
       Koke Benavides
     bio: >-
-      -Guitarist/Composer -Sponsors: @strandbergguitars @overdrive.cl @neuraldsp @ikmultimedia @swillstraps Clases de guitarra-Santiago/Skype🇨🇱
+      -Guitarist/Composer -Artist/Endorser: @strandbergguitars @overdrive.cl @neuraldsp @ikmultimedia @swillstraps DM para clases de guitarra online.
     location: "Chile"
-    followers: 8185
-    engagement: 594
-    commentsToLikes: 0.047035
+    followers: 11963
+    engagement: 367
+    commentsToLikes: 0.025309
     id: ckaorz6otpfeh0i78xn2pq6wn
     verified: false
-    hashtags: "#strandberg, #guitarlife, #guitarsolo, #goheadless"
-  - username: "abeja_"
-    fullname: >-
-      Alejandro Abeijón
-    bio: >-
-      Guitarrista/ Guitar player of @Rawayana
-    location: "Chile"
-    followers: 23056
-    engagement: 597
-    commentsToLikes: 0.029187
-    id: ck5hpxliks58m0i118cieua7i
-    verified: true
-    hashtags: "#tbt"
-  - username: "willycolon"
-    fullname: >-
-      Willy Colón
-    bio: >-
-      TEN IN TWELVE @tenintwelveofficial co-founder•Creatives•Producer•Guitar| Orlando, FL 🍊|
-    location: "Chile"
-    followers: 5907
-    engagement: 372
-    commentsToLikes: 0.089003
-    id: ck15ql3m73cya0i19izhsw5a7
-    verified: false
-    hashtags: "#dedicatedtoeveryone, #goodvibesonly, #piscoband, #everystepmatters"
+    hashtags: "#strandbergguitars, #lickwars, #thump, #fusionmusic"
   - username: "cfunk"
     fullname: >-
       C-Funk
     bio: >-
-      Guitarrista #musicproducer @lostetas @chanchoenpiedraoficial #abletoncertifiedtrainer APRUEBO
+      Guitarrista #musicproducer @lostetas @chanchoenpiedraoficial #abletoncertifiedtrainer 🚨Nuevo Video de POPPIN🚨⬇️
     location: "Chile"
-    followers: 48928
-    engagement: 222
-    commentsToLikes: 0.032102
+    followers: 49530
+    engagement: 246
+    commentsToLikes: 0.029247
     id: ck8swsonbf3nv0j785951lv7z
     verified: true
-    hashtags: "#cuarentena, #musica, #poppin, #nuestram"
-  - username: "alfalonxo"
+    hashtags: "#poppin, #talkbox, #musicproducer, #prince"
+  - username: "sanbyemusic"
     fullname: >-
-      Alfredo Alonso
+      Sanbye
     bio: >-
-      @alesteoficial @bizarrolivecl #lunaticos #tvcondoro #drspot #promoter #producer #manager #guitarrista #garagemusic #publicista #happydad #lovemyfamily
+      Escucha mi canción “Amiga“ 👇🏻👇🏻
     location: "Chile"
-    followers: 30266
-    engagement: 173
-    commentsToLikes: 0.104706
-    id: ck5hise8cf4v90i11gh7gxd4m
+    followers: 14046
+    engagement: 313
+    commentsToLikes: 0.040314
+    id: ck6u6xn84ibav0j71jdbd53yn
     verified: false
-    hashtags: "#guitarhero, #gracias, #rodespinoza, #aleste"
-  - username: "luisd07"
+    hashtags: "#music, #chile, #guitarra, #amor"
+  - username: "angelinebernini"
     fullname: >-
-      Luis De⚡️
+      A N G E L I N E  B E R N I N I
     bio: >-
-      ❌
+      🎸 Gtr & Vocals @hidalgoband 🎥 Mixing & Video Producer 🎓 Clases Particulares - @overdrive.cl @swillstraps @chapmanguitars @ikmultimediaes @sitstrings
     location: "Chile"
-    followers: 27435
-    engagement: 929
-    commentsToLikes: 0.184081
-    id: ck5hsfrdhwizt0i11pg9gsx7v
+    followers: 5211
+    engagement: 950
+    commentsToLikes: 0.084806
+    id: ck6tj6kbd23vo0j71ku2dfx3g
     verified: false
-    hashtags: "#acustico, #guitarra, #music, #cover"
+    hashtags: "#musical, #singer, #songs, #veganartist"
+  - username: "flamencodepuracepa"
+    fullname: >-
+      flamencodepuracepa
+    bio: >-
+      ¡Aquí se vive el Flamenco! 👏🏼 Fotos y vídeos todos los días 📸📹 TikTok: @flamencodepuracepa 🎥 Canal Telegram: flamencodepuracepa 📍 Andalucía
+    location: "Chile"
+    followers: 10141
+    engagement: 361
+    commentsToLikes: 0.016409
+    id: ckapai61cw7jb0i78cv25hlbw
+    verified: false
+    hashtags: "#cantaor, #flamenco, #flamencoguitar, #solea"
 ---

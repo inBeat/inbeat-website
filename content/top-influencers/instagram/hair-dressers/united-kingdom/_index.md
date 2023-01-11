@@ -1,72 +1,72 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In United Kingdom In 2022
+title: Top 10 Hair Dressers Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top hair dressers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #hair #hairdressers #hairdresser #love.
+  Find top hair dressers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #hair #behindthechair #hairdressersjournal #haircolor.
 platform: Instagram
-hits: 41
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 41 Instagram influencers like this in United Kingdom for you to connect with.
+hits: 24
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 24 Instagram influencers like this in United Kingdom for you to connect with.
 profiles:
-  - username: "linocarbosiero"
+  - username: "chanellesmamalife"
     fullname: >-
-      Lino Carbosiero MBE
+      Chanelle
     bio: >-
-      Awarded MBE by her Majesty the Queen for services to Hairdressing in 2014. TikTok @linocarbosiero Lino and the Snipettes dance troop🕺🏻💃😂
+      Hair dresser ➡️ stay at home mum Raising ✌🏼awesome little humans Just here loving life🥰
     location: "United Kingdom"
-    followers: 17007
-    engagement: 264
-    commentsToLikes: 0.098020
-    id: ck5q149qs97be0i11ksuwxgox
-    verified: true
-    hashtags: "#masks, #visors, #danielgalvin, #dance"
-  - username: "_.patricia.t._"
-    fullname: >-
-      Patricia Tavares
-    bio: >-
-      La vie d’une coiffeuse à Londres 🇵🇹🇫🇷 Portugaise & Française • Hair | lifestyle • 📍London, UK My looks ⬇️
-    location: "United Kingdom"
-    followers: 2945
-    engagement: 528
-    commentsToLikes: 0.060086
-    id: ck9wdn1o4gfa70j78zqvnvtnb
+    followers: 4981
+    engagement: 415
+    commentsToLikes: 0.183541
+    id: ckaorlr7onsh50i78174pyt33
     verified: false
-    hashtags: "#francaise, #blondbalayage, #portuguesegirl, #confinementcreatif"
+    hashtags: "#kiwimum, #nzmumblogger, #nzkids, #nzsummer"
+  - username: "nualamoreysalon"
+    fullname: >-
+      Nuala Morey
+    bio: >-
+      🌺Curly Hair & Colour Ambassador for Aveda 🌱Educator For Aveda 🌳Creator of 'The Nuala Morey System' for curly hair 🐰Cruelty Free & Vegan
+    location: "United Kingdom"
+    followers: 79014
+    engagement: 324
+    commentsToLikes: 0.028913
+    id: ck8t2yh7i16ox0j78ivmkqa7o
+    verified: false
+    hashtags: "#aveda, #curlyhairdontcare, #hairdressersjournal, #curlycommunity"
   - username: "glam.by.heather"
     fullname: >-
       HΔIR ШITCH Heather Mackenzie
     bio: >-
-      🏆 Wella TVA colour artist of the year UK GOLD WINNER 🥇 🖤Educator. 💀OLAPLEX Advocate 📍 Sheffield and Rotherham
+      🏆 Wella TVA colour artist of the year UK GOLD WINNER 🥇 🖤Educator. 💀OLAPLEX Advocate 📍 Sheffield and Rotherham ONLINE EDUCATION ⬇️
     location: "United Kingdom"
-    followers: 35340
-    engagement: 349
-    commentsToLikes: 0.045311
+    followers: 38045
+    engagement: 414
+    commentsToLikes: 0.057394
     id: ck0w1l3qmjvx30i197ftn36ds
     verified: false
-    hashtags: "#creativecolouruk, #sheffieldcolourist, #rainbowhair, #pinkhair"
+    hashtags: "#glossyhair, #hairart, #pink, #halloweenhair"
+  - username: "daniele_deangelishair"
+    fullname: >-
+      Daniele De Angelis
+    bio: >-
+      LONDON HAIRDRESSER OF THE YEAR 2020❌International Art Director TONI&GUY/Labelm❌ Academy Manager Toni&Guy London
+    location: "United Kingdom"
+    followers: 18129
+    engagement: 280
+    commentsToLikes: 0.036543
+    id: ck5byszbcps9t0i114sztfuon
+    verified: false
+    hashtags: "#toniandguyworld, #awards, #londonhairdresser, #hj"
   - username: "jackhowardcolor"
     fullname: >-
-      Balayage by Jack Howard™️
+      Balayage by Jack Howard
     bio: >-
-      • Global BLONDME Ambassador @schwarzkopfpro • @colourworlduk Colour Communicator Genius 2020 • BHBA Social Stylist 2019 Book onto my London course
+      Global Commericial Colorist/Podcaster. @colourworlduk Color Communicator Genius 2020 | BHBA Social Stylist 2020-21
     location: "United Kingdom"
-    followers: 120440
-    engagement: 138
-    commentsToLikes: 0.044504
+    followers: 173296
+    engagement: 122
+    commentsToLikes: 0.056514
     id: ck0u28a9vz5o10i19bd2peh5o
     verified: false
-    hashtags: "#blondetutorial, #blond, #balayagetutorial, #hairdresser"
-  - username: "anthonymascolo57"
-    fullname: >-
-      Anthony Mascolo
-    bio: >-
-      #Hairdresser , Creative Director and Co-founder of @tigiprofessionals #tigifuse Founder and editor in chief @infringemagazine
-    location: "United Kingdom"
-    followers: 62434
-    engagement: 137
-    commentsToLikes: 0.042259
-    id: ck13a96ulp8vj0i19dwnhj11h
-    verified: true
-    hashtags: "#alternativehairshow, #avantegarde, #alternative, #hair"
+    hashtags: ""
   - username: "palmerandcompanyinternational"
     fullname: >-
       PalmerandCompany International
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.017285
     id: ck6ty2e9i1ae20j71py06vnvw
     verified: false
-    hashtags: "#hairclublive, #estetica, #hairdressersjournal, #simushka"
-  - username: "austinventour"
+    hashtags: "#hairdressersjournal, #hairclublive, #estetica, #precisioncuttingchampionship"
+  - username: "eatswithamy_x"
     fullname: >-
-      Austin Ventour
+      Amy 🍭Food 🇬🇧 Newcastle/Mcr
     bio: >-
-      🍴C4’s @firstdates 👑Supervisor at @platform_exp 🗣CS:GO Caster - #WFHLeague 🎧 DJ
+      💕23 ~ Student 💕 ✨Just your average girl eating a lot✨ 📍North East ~ Currently Darlo based📍 📥 DM/email for enquiries/collabs ~ eatswithamy1@gmail.com📥
     location: "United Kingdom"
-    followers: 32003
-    engagement: 130
-    commentsToLikes: 0.065772
-    id: ck8t6k857dy3m0j78yd1j1gjb
-    verified: true
-    hashtags: "#love, #tv, #firstdates, #dean"
-  - username: "izzypratt_"
-    fullname: >-
-      I Z Z Y  P Я Λ Ƭ Ƭ
-    bio: >-
-      𝑯𝒂𝒊𝒓 & 𝑴𝒂𝒌𝒆𝒖𝒑 𝑨𝒓𝒕𝒊𝒔𝒕 𝑪𝒆𝒍𝒆𝒃𝒓𝒊𝒕𝒚 • 𝑩𝒆𝒂𝒖𝒕𝒚 • 𝑩𝒓𝒊𝒅𝒂𝒍 • 𝑭𝒂𝒔𝒉𝒊𝒐𝒏 @izzyhairandmakeup @izzcreative @halohairextensions code ‘IZZY’ for 15% off ❤️
-    location: "United Kingdom"
-    followers: 9144
-    engagement: 495
-    commentsToLikes: 0.327146
-    id: ckap9g5ttsjig0i789j4fzttt
+    followers: 10871
+    engagement: 253
+    commentsToLikes: 0.070776
+    id: ck6uaj1pp3u9t0j71yi28j8pn
     verified: false
-    hashtags: "#makeupaddict, #makeupjunkie, #love, #wakeupandmakeup"
-  - username: "lukebensonhair"
+    hashtags: "#porridgebowl, #ukblogger, #oats, #breakfasttime"
+  - username: "kingaroo_x"
     fullname: >-
-      Luke Benson
+      KINGA
     bio: >-
-      • Celebrity Hairdresser and Groomer • • Agency @afrankagency • • London Hairdresser of The Year 2016 •
+      📍London 🤤 mad about food Capturing moments & sharing them with you
     location: "United Kingdom"
-    followers: 18188
-    engagement: 167
-    commentsToLikes: 0.049675
-    id: ck5hr565vua560i119b3obsok
+    followers: 8993
+    engagement: 832
+    commentsToLikes: 0.024853
+    id: ck5c6jghy5kca0i11gwbqoqhq
     verified: false
-    hashtags: "#margotriverbenson, #lukebensonhair, #liampayne, #braungrooming"
-  - username: "lesleyjennison"
+    hashtags: "#mountbrandon, #cookingathome, #supportirishbusiness, #londonlockdown"
+  - username: "cossakkas"
     fullname: >-
-      Lesley Jennison
+      CosSakkas
     bio: >-
-      global colour ambassador schwarzkopf professional #lesleyjennison a passion for hair colour
+      TONI&GUY International Artistic Director Love Hair & Education 3 x British Hairdresser of the Year Nominee 3 x London Hairdresser of the Year
     location: "United Kingdom"
-    followers: 34717
-    engagement: 139
-    commentsToLikes: 0.116153
-    id: ck0ua7olzboxn0i19rf8jat1c
+    followers: 18366
+    engagement: 174
+    commentsToLikes: 0.073729
+    id: ck5bzitx1r8ay0i111sbn7f13
     verified: false
-    hashtags: "#essentiallooks, #btconeshot2020, #morevibrance, #salonhair"
+    hashtags: "#photography, #me, #editorial, #davidkoma"
+  - username: "m13ky"
+    fullname: >-
+      Mick Graham
+    bio: >-
+      Founder Of “LOCATION” X Studio British Master Barber Of The Year 2016 Specifically Tailored Private 1-1 Or Group Education Days Available via D.M
+    location: "United Kingdom"
+    followers: 40211
+    engagement: 367
+    commentsToLikes: 0.014069
+    id: ck5zt8v4kzyik0i146y0441mr
+    verified: false
+    hashtags: "#style, #gentshair, #supreme, #locationx"
 ---

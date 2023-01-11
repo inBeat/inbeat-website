@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In France In 2022
+title: Top 10 Music TikTok Influencers In France In 2023
 description: >-
-  Find top music TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #fyp #humour #foryou.
+  Find top music TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #humour #foryou #fyp.
 platform: TikTok
-hits: 324
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 324 TikTok influencers like this in France for you to collaborate.
+hits: 305
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 305 TikTok influencers like this in France for you to work with.
 profiles:
-  - username: "liahail"
-    fullname: >-
-      Liahailmusic
-    bio: >-
-      ✨Music et Acting✨ Contact: lia@hotmango.fr Music:liahailmusic@yahoo.com
-    location: "France"
-    followers: 246000
-    engagement: 2387
-    commentsToLikes: 0.056138
-    id: ckc8h319cb8fs0j23lk8imbpa
-    verified: false
-    hashtags: "#foryoupage, #pourtoipage, #pourtoi, #enigme"
-  - username: "k_yyy7"
-    fullname: >-
-      Klervie🍃
-    bio: >-
-      18✨♍️ she/her Paris ✌🏻🇫🇷 Bring back Musical.ly Nothing to add🙂
-    location: "France"
-    followers: 12500
-    engagement: 2068
-    commentsToLikes: 0.042744
-    id: ck9v90hesbxt40j783dplwqlg
-    verified: false
-    hashtags: "#ddlg, #trend, #transition, #kinktok"
-  - username: "iceyesee"
-    fullname: >-
-      IC - Musique / Beatmaker
-    bio: >-
-      Je réponds sur INSTA👆🏽 Music-Creator 💫 ÉCOUTE mon mini ALBUM sur SPOTIFY👇🏽
-    location: "France"
-    followers: 160100
-    engagement: 2377
-    commentsToLikes: 0.064613
-    id: ck961dwipm5dk0j78hro99y76
-    verified: false
-    hashtags: "#musiquetiktok, #tiktokmusique, #duels, #remix"
-  - username: "youngdragun"
-    fullname: >-
-      YoungDragun
-    bio: >-
-      17 yo Young Yellow Asian I love rice and music My Instagram: @youngdragun (13k)
-    location: "France"
-    followers: 55100
-    engagement: 2700
-    commentsToLikes: 0.060611
-    id: ckacusdi6kfvq0i78hgnj1uzu
-    verified: false
-    hashtags: "#humour, #pourtoi, #asian, #fyp"
   - username: "mrdeadpo_sz1"
     fullname: >-
       mrdeadpo_sz
     bio: >-
-      en couple 🇲🇫 conv: aucune music: synth et autre
+      lvl26 🇲🇫 conv: aucune music: synth et autre
     location: "France"
-    followers: 5920
-    engagement: 1192
-    commentsToLikes: 0.123363
+    followers: 8253
+    engagement: 1118
+    commentsToLikes: 0.133664
     id: ckb9pepenkblq0j230m3hzyds
     verified: false
-    hashtags: "#cosplay, #anime, #manga, #humour"
+    hashtags: "#japan, #anime, #manga, #otaku"
   - username: "chakeup"
     fullname: >-
       Charlène 🐾
     bio: >-
-      ça a changé musical.ly une revenante de retour pour te donner le sourire ☀️
+      ça a changé musical.ly
     location: "France"
-    followers: 136300
-    engagement: 2146
-    commentsToLikes: 0.010738
+    followers: 142200
+    engagement: 2072
+    commentsToLikes: 0.007534
     id: ck8p0fmj2gkrh0j78mw3mwv0l
     verified: true
-    hashtags: "#dontrushchallenge, #freezeframe, #ootd, #look"
-  - username: "dylan_le_blanc"
-    fullname: >-
-      Dylan Le Blanc
-    bio: >-
-      Je vous répond sur insta 👆🏻 YOUTUBE: Dylan Le Blanc CHAÎNE MUSIC: DLB MUSIC
-    location: "France"
-    followers: 218200
-    engagement: 2105
-    commentsToLikes: 0.006490
-    id: cka7p1jg75cwm0i78rlqznnl5
-    verified: false
-    hashtags: "#foryou, #humour, #pourtoi, #rap"
+    hashtags: "#routine, #coffee, #ootd, #falloutfit"
   - username: "im.amelle"
     fullname: >-
       Im.amelle
     bio: >-
-      Riding in music ! Insta: fakir_jarrouie im.amelle Snapchat :amelle.banane
+      Riding in music ! Insta: fakir_jarrouie im.amelle
     location: "France"
-    followers: 36900
-    engagement: 2927
-    commentsToLikes: 0.007612
+    followers: 38500
+    engagement: 3081
+    commentsToLikes: 0.009497
     id: ck90tqtabto3k0j781z83w1gl
     verified: false
-    hashtags: "#love, #fyp, #cheval, #foryou"
-  - username: "leilaliloo"
+    hashtags: "#fail, #horse, #horsejumping, #equestrianlife"
+  - username: "dylan_le_blanc"
     fullname: >-
-      LeïLa Liloo
+      Dylan Le Blanc
     bio: >-
-      Qui est comme moi ? 🤣 Certifiée grâce à la 👑 de Musicaly ⬇️ Mon insta ⬇️
+      YOUTUBE: Dylan Le Blanc / DLB MUSIC 👻bboyloco93 📩Dylanleblancmusique@gmail.com
     location: "France"
-    followers: 39300
-    engagement: 1664
-    commentsToLikes: 0.040450
-    id: ckcugq223f9uh0j23k7jy1llf
-    verified: true
-    hashtags: "#maroc, #foryou, #monstre, #jnoun"
-  - username: "arthurblzo"
-    fullname: >-
-      Arthur Bolzonella
-    bio: >-
-      Arthur 16 ans Instagram : ↗️ Merci pour les 20K 🙏🏼❤️ Chanteur/musicien
-    location: "France"
-    followers: 21500
-    engagement: 1625
-    commentsToLikes: 0.020532
-    id: ckacr8aaj49qk0i78wxhmk65o
+    followers: 230400
+    engagement: 2401
+    commentsToLikes: 0.006078
+    id: cka7p1jg75cwm0i78rlqznnl5
     verified: false
-    hashtags: "#fyp, #foryou, #pourtoi, #dimidimitar"
+    hashtags: "#drole, #foryou, #pourtoi, #humour"
+  - username: "lea_cosplay14"
+    fullname: >-
+      🌈Léa❤️
+    bio: >-
+      🌸14🌸 🌱Music🌱 La 3emeA le sang🩸⛓🖤🖇💊🔥(2nd degrés mdr)
+    location: "France"
+    followers: 5626
+    engagement: 2438
+    commentsToLikes: 0.006757
+    id: ckb19ysqhy8p50j23314ul0p7
+    verified: false
+    hashtags: "#forupage, #foryou, #sing, #pourtoii"
+  - username: "elfamosoflafla"
+    fullname: >-
+      Flavie
+    bio: >-
+      sois le changement que tu veux voir dans le monde musicienne🕊
+    location: "France"
+    followers: 5242
+    engagement: 1202
+    commentsToLikes: 0.036553
+    id: ckb9ed97z1wp40j23kcfbm7qw
+    verified: false
+    hashtags: "#pourtoi, #sadquotes, #blackhair, #lgbt"
+  - username: "giannivicari"
+    fullname: >-
+      Gianni Vicari
+    bio: >-
+      De retour avec 30k MERCI 🙏🤩🤩 insta : giannivic31 Yt : Ganache Music 🎵
+    location: "France"
+    followers: 29900
+    engagement: 1935
+    commentsToLikes: 0.016278
+    id: ckc36vecqvrsg0j2308mkxvu2
+    verified: false
+    hashtags: "#prof, #enrush, #pourtoi, #ganache"
+  - username: "_labouclette"
+    fullname: >-
+      _labouclette
+    bio: >-
+      l’élite musical.ly en personne
+    location: "France"
+    followers: 40100
+    engagement: 1303
+    commentsToLikes: 0.047341
+    id: ck9aekh0t2g2q0j78e5cqex9u
+    verified: false
+    hashtags: "#humour, #fyp, #trend, #transition"
+  - username: "keke_lpb1"
+    fullname: >-
+      ⚡️ keke_lpb sur snap⚡️
+    bio: >-
+      Snap👉🏼 keke_lpb des story de fou 😂💪🏼 Active la cloche pour ne rien rater 👉🏼La magicienne de musica.ly ⚠️ Contacte pro 👉🏼 keke.lpb@hotmail.com
+    location: "France"
+    followers: 603100
+    engagement: 933
+    commentsToLikes: 0.009787
+    id: ck900p678alb40j78m2yf9rb7
+    verified: true
+    hashtags: "#humour, #amour, #pourtoi, #best"
+  - username: "pratima._.gurung"
+    fullname: >-
+      Paris preety grg 🖤
+    bio: >-
+      🇫🇷Paris preety grg 🇳🇵 🙏 music lover 🎶 songwriter ✍️
+    location: "France"
+    followers: 4777
+    engagement: 1605
+    commentsToLikes: 0.036192
+    id: ckc2yri77ptbj0j23cprvpsdr
+    verified: false
+    hashtags: "#pourtoi, #tiktoknepal, #foryoupage, #feelingcold"
 ---

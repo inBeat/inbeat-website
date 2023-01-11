@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Los Angeles In 2022
+title: Top 10 Beauty Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top beauty Instagram influencers in Los Angeles in 2022. Most popular hashtags: #beauty #fashion #love #losangeles.
+  Find top beauty Instagram influencers in Los Angeles in 2023. Most popular hashtags: #beauty #losangeles #model #film.
 platform: Instagram
-hits: 789
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 789 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 773
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 773 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "haleygable"
+  - username: "riccardo.constant"
     fullname: >-
-      Haley Gable
+      Riccardo Constant
     bio: >-
-      Director of Salon Pro Influencer Marketing and #thebtcteam @behindthechair_com Professional Beauty Los Angeles
+      📸 Los Angeles Boudoir/Fine Art Photographer 👸 Help Women define their own version of Beauty ↡For Rates inquiries, please visit website↡
     location: "United States"
-    followers: 8507
-    engagement: 703
-    commentsToLikes: 0.161463
-    id: ck13agq92qazw0i190wwc6lb1
+    followers: 8352
+    engagement: 349
+    commentsToLikes: 0.047613
+    id: ck6tq91psq2rz0j71obxvzdwq
     verified: false
-    hashtags: "#btconeshot, #thebtcteam, #haireducation, #thebtcshow"
-  - username: "zsuttonphoto"
+    hashtags: "#boudoir, #sensual, #model, #fineartphotography"
+  - username: "thehannamae"
     fullname: >-
-      Zach Sutton
+      Hanna
     bio: >-
-      Los Angeles Commercial Beauty Photographer. Profoto Legend Of Light. Capture One and Tether Tools Ambassador.
+      🗽Model | Jazz Vocalist | Singer-Songwriter🎙 📍ⓃⓎⒸ —-> LA 🌴 Embrace your differences😜
     location: "United States"
-    followers: 16155
-    engagement: 258
-    commentsToLikes: 0.048019
-    id: ck5bz8qosqnup0i11gdoks5ih
+    followers: 34346
+    engagement: 416
+    commentsToLikes: 0.097235
+    id: ckap2t5bb07hv0i78h9mfjmd3
     verified: false
-    hashtags: "#lipgloss, #perfectskin, #summermakeup, #cosmeticsphotographer"
-  - username: "doseoflaos"
+    hashtags: "#model, #loveislove, #beauty, #losangeles"
+  - username: "snapsstudio"
     fullname: >-
-      M🌹
+      Snaps Studio
     bio: >-
-      LA | SD 🖤
+      LA area Photography/retouching 📷 Bookings Amanda@snaps.pro
     location: "United States"
-    followers: 3301
-    engagement: 1244
-    commentsToLikes: 0.055263
-    id: ckapbatvfz7w80i786ahp1xsj
+    followers: 40357
+    engagement: 66
+    commentsToLikes: 0.043888
+    id: ck0w2nxt4pbp00i19z2bg9ogy
     verified: false
-    hashtags: "#fn, #la, #beautycare, #beverlyhills"
-  - username: "michellesend"
+    hashtags: "#naturallight, #makeup, #retouching, #retoucher"
+  - username: "wladiva"
     fullname: >-
-      M i c h e l l e
+      Alana Diva Wright
     bio: >-
-      Beauty | Travel ——————— • Digital Creator, Curator & Content Producer. Writer. Lover of the light. Flow. ~ Nomad. —————————
+      West LA baby.West LA raised me. Corporate Thuggn/Model/Lover/Fighter/Go-Getta Work hard,play harder Live~Laugh~Love Y.O.L.O alanadivawright@gmail.com
     location: "United States"
-    followers: 12220
-    engagement: 950
-    commentsToLikes: 0.050961
-    id: ck14klgf6q3dl0i193tvr45lf
+    followers: 3588
+    engagement: 546
+    commentsToLikes: 0.061506
+    id: ck6u7ywklogqo0j71mn0a3nek
     verified: false
-    hashtags: "#abercrombiepartner, #canon, #reflection, #travelgram"
-  - username: "maryamamusic_official"
+    hashtags: "#cancun, #junebaby, #quintanaroo, #safetravels"
+  - username: "karinasfilms"
     fullname: >-
-      Maryam Mirbagheri 🧜‍♀️ مریم
+      Karina B
     bio: >-
-      Just a mermaid making music. Co-founder of @adrenalinerecords Composer/Multi-Instrumentalist/ Music Producer 🧜‍♀️ at @universalmusicgroup
+      Mommy. Wife. Business woman. Cum Laude Graduate of NYC John Jay College of Criminal Justice 🎓Making movies 🎥LA✈️NYC
     location: "United States"
-    followers: 15631
-    engagement: 509
-    commentsToLikes: 0.071903
-    id: ck9wj3quc570f0j787bfbyr4a
+    followers: 12796
+    engagement: 1088
+    commentsToLikes: 0.051147
+    id: ck15rc5jv76s80i1909dvpad2
     verified: false
-    hashtags: "#mermaidmusic, #music, #musicindustry, #maryamamusic"
-  - username: "powerfulmedia247"
+    hashtags: "#instagram, #women, #actor, #instagood"
+  - username: "patrick_xiong"
     fullname: >-
-      📸 Photo | 📽 Video | 💎 Luxury
+      Patrick Xiong
     bio: >-
-      Media Production: Director, Videographer, Photographer, Aerial, Media Editing, File Management, & Stacks of Cash 📥🤑👌. Founder / CEO : @maxpower03
+      Photographer
     location: "United States"
-    followers: 40430
-    engagement: 575
-    commentsToLikes: 0.024138
-    id: ckap5w5exdf5h0i78qb5zdruc
+    followers: 30923
+    engagement: 207
+    commentsToLikes: 0.015595
+    id: ck5bxhtcbnr5k0i11qhzwupgs
     verified: false
-    hashtags: "#bank, #love, #currency, #photooftheday"
-  - username: "wolfcien"
+    hashtags: "#thewowmag, #diversity, #film, #nyc"
+  - username: "everythingbrowsbyc"
     fullname: >-
-      W O L F
+      BROWSBYCASS
     bio: >-
-      Content creator | Youtube personality ∙ Fashion | Beauty | Lifestyle ∙ Los Angeles ∙ wintercien@gmail.com _________________________⠀ New video below!
+      📍W 3rd st. L.A •CELEBRITY BROW STYLIST •EVERYTHING EYEBROWS+more •SHOP https://browsbycass.myshopify.com •PRIVATE TRAININGS BOOK WITH ME, click below
     location: "United States"
-    followers: 11450
-    engagement: 722
-    commentsToLikes: 0.104659
-    id: ck6trpowr0d2l0j719xrz0lwr
+    followers: 78394
+    engagement: 56
+    commentsToLikes: 0.019038
+    id: ck8t3e5w82xew0j78a4n1f5ft
     verified: false
-    hashtags: "#ttdeye, #halloween2020, #ootd, #ttdeyeofficial"
-  - username: "hodaya_c"
+    hashtags: "#beauty, #losangeles, #makeup, #mua"
+  - username: "makeupbytreenz"
     fullname: >-
-      H O D A Y A  C O H E N
+      KATRINA 🥀
     bio: >-
-      Creative Director | Fashion | Beauty 📍Los Angeles | California Contact 📩 hodayac@yahoo.com
+      beauty + lifestyle los angeles 📍 @hallowtreenz @funkotreenz 🧡 💌: katrinamarrufo@yahoo.com new youtube video! ↓
     location: "United States"
-    followers: 105807
-    engagement: 287
-    commentsToLikes: 0.019694
-    id: ck5pzaunv02uz0i117t0usff7
+    followers: 45570
+    engagement: 313
+    commentsToLikes: 0.036926
+    id: ck0tzkznqqpf80i19l2bmn6f6
     verified: false
-    hashtags: "#tb, #bebebebe, #beyou, #halloween2020"
-  - username: "tommy_flanagan"
+    hashtags: "#hudabeauty, #colourpop, #colourpopfeatheredeffect, #colourpopme"
+  - username: "talagolzar"
     fullname: >-
-      HOUSTON PHOTOGRAPHER
+      Dr. Tala Golzar
     bio: >-
-      FASHION | BEAUTY | COMMERCIAL Los Angeles / 📍Houston Book your next session: tflanaganphoto@gmail.com
+      •Doctor of Pharmacy •Fashion / Beauty / Lifestyle •Los Angeles🌴 🇮🇷🇺🇸 Email:talagolzar.la@gmail.com @BangEnergy Elite Ambassador
     location: "United States"
-    followers: 31247
-    engagement: 222
-    commentsToLikes: 0.056587
-    id: ck0w56bbz23qj0i192rni55op
-    verified: false
-    hashtags: "#blacklivesmatter"
-  - username: "nadiadelv13"
+    followers: 2208429
+    engagement: 261
+    commentsToLikes: 0.023450
+    id: ck14kvsjwrk7f0i19zxja45sm
+    verified: true
+    hashtags: "#sugarbearhair, #bangenergy, #energydrink, #ad"
+  - username: "coucoujolieblog"
     fullname: >-
-      𝒩𝒶𝒹𝒾𝒶 𝒟𝑒𝓁𝓋𝑒𝒸𝒸𝒽𝒾𝑜
+      Loreen Hwang
     bio: >-
-      Ｆｉｔｎｅｓｓ／Ｂｅａｕｔｙ 📍Los Angeles
+      Travel•Beauty•Wellness Los Angeles 💌Hello@coucoujolie.com Sustainability Advocate | Chinese-American🇹🇼
     location: "United States"
-    followers: 17486
-    engagement: 237
-    commentsToLikes: 0.014274
-    id: ckap50le79ncv0i78wy5lxok9
+    followers: 186470
+    engagement: 131
+    commentsToLikes: 0.037132
+    id: ck5c1fmt6v3ea0i11e2ha4egq
     verified: false
-    hashtags: "#life, #exercise, #fitnessaddict, #healthy"
+    hashtags: "#fullmoon, #blackbusinessmonth, #lexusnx, #lexus"
 ---

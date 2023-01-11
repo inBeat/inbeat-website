@@ -1,84 +1,60 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Los Angeles In 2022
+title: Top 10 Makeup TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top makeup TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #makeup #losangeles #foryoupage.
+  Find top makeup TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #makeup #california.
 platform: TikTok
-hits: 113
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 113 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 86
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 86 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "michellegimagestudio"
+  - username: "maeiiza"
     fullname: >-
-      MichelleG
+      Cristina Yang
     bio: >-
-      License esthetician & Cosmetologist certifies makeup artist
+      if only you wanted me the way I want you
     location: "United States"
-    followers: 779900
-    engagement: 699
-    commentsToLikes: 0.005580
-    id: ck7znzbu4gbn40j78pytevezy
+    followers: 263200
+    engagement: 1607
+    commentsToLikes: 0.020305
+    id: ck9m0z1xackdo0j78wqma3l4f
     verified: false
-    hashtags: "#hair, #salon, #satisfying, #spa"
-  - username: "axcelerationdesigns"
+    hashtags: "#lgbt, #lingerie, #comedy, #fyp"
+  - username: "aylin_uyanik"
     fullname: >-
-      Ax
+      Aylin
     bio: >-
-      Costumer by day. Cosplayer by night She/her | 29 | 18+ duets BLM ❤️🧡💛💚💙💜
+      LA
     location: "United States"
-    followers: 30100
-    engagement: 2340
-    commentsToLikes: 0.037409
-    id: ckailei2gnt870i780yshlyrd
+    followers: 34200
+    engagement: 915
+    commentsToLikes: 0.056292
+    id: ckb12a3nqqjed0j236ocv9ku0
     verified: false
-    hashtags: "#halloween, #halloweenlook, #fyp, #bodypaint"
-  - username: "lianakramirez"
+    hashtags: "#westasian, #middleeastern, #viral, #fyp"
+  - username: "mariaaluisabb"
     fullname: >-
-      LIANA RAMIREZ
+      MariaLuisa
     bio: >-
-      ACTRESS | Roxy on Power Rangers🖤 AUTHOR | The Secrets Within Me✨ J29:11
+      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
     location: "United States"
-    followers: 592100
-    engagement: 2385
-    commentsToLikes: 0.015459
-    id: ck976tgyi0zlu0j788szs6mi3
-    verified: true
-    hashtags: "#thesecretswithinme, #writer, #author, #actress"
-  - username: "brendaarias105"
-    fullname: >-
-      Brenda Arias
-    bio: >-
-      🎥 𝚈𝚘𝚞𝚃𝚞𝚋𝚎: 𝙱𝚛𝚎𝚗𝚍𝚊 𝙰𝚛𝚒𝚊𝚜 💛Instagram: brenda_scarlett_arias
-    location: "United States"
-    followers: 4563
-    engagement: 2298
-    commentsToLikes: 0.050512
-    id: ckc7junyer7it0j23qfqgqg3c
+    followers: 16300
+    engagement: 460
+    commentsToLikes: 0.040134
+    id: ckb9q730xlspj0j23xo0p4snq
     verified: false
-    hashtags: "#fyp, #kreepy, #greenscreen, #baby"
-  - username: "cierapaigestruble"
+    hashtags: "#california, #lifestyle, #beauty, #style"
+  - username: "b._.uggies4"
     fullname: >-
-      Wannabe Spice Girl
+      b._.uggies
     bio: >-
-      Please don’t judge me by what I post I’m an idiot 20 IG - cierapaigestruble
+      Professional Deaf Makeup Artist Venmo- Brady-Allio IG- @b._.uggies
     location: "United States"
-    followers: 12900
-    engagement: 851
-    commentsToLikes: 0.068759
-    id: ck9eje9op2nhz0j78ii3l6mn5
+    followers: 183700
+    engagement: 1324
+    commentsToLikes: 0.002955
+    id: ck81sb9onres00j78szm0i66r
     verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #painting"
-  - username: "bossabby25"
-    fullname: >-
-      Angelica Canche
-    bio: >-
-      🇭🇳 🇲🇽 Arizona Scorpio Mom life 💙💜
-    location: "United States"
-    followers: 46600
-    engagement: 1820
-    commentsToLikes: 0.003874
-    id: ck7zor9drlemz0j78sxqm9i2z
-    verified: false
-    hashtags: "#fyp, #foryoupage, #funny, #latinomoms"
+    hashtags: "#spfxmakeup, #fyp, #baldcap, #foryoupage"
   - username: "jaredlouis"
     fullname: >-
       Jared Louis
@@ -90,41 +66,65 @@ profiles:
     commentsToLikes: 0.017340
     id: ck9vbiwn5n7iz0j78dqkx7se1
     verified: false
-    hashtags: "#queer, #fyp, #drag, #dragqueen"
-  - username: "missalinaloveee"
+    hashtags: "#lgbt, #queer, #drag, #gay"
+  - username: "misstiffanyma"
     fullname: >-
-      Alina
+      Tiffany Ma
     bio: >-
-      Alina 💕 New on Tiktok✨ Just a girl obsessed with cars🚗 IG: @missalinalove
+      Just another YouTuber 🎈follow me on IG & YT @misstiffanyma
     location: "United States"
-    followers: 22485
-    engagement: 465
-    commentsToLikes: 0.013566
-    id: ckacaxlv0h90m0i78fj4ox6n1
-    verified: false
-    hashtags: "#teslacheck, #tesla, #ferrariworld, #carsoftiktok"
-  - username: "aeraeubanks"
+    followers: 117400
+    engagement: 1247
+    commentsToLikes: 0.012530
+    id: ck80og53whpck0j788ncrdmy8
+    verified: true
+    hashtags: "#fyp, #photoshoot, #makeup, #food"
+  - username: "thegiovannaparamo"
     fullname: >-
-      AERA
+      Gio
     bio: >-
-      Following back if you follow my insta!!👆 📍Los Angeles Makeup•Music•Dance🤍
+      Girl advice • Mexicana • Comparto lo aprendido📍Los Angeles. •TV makeup artist
     location: "United States"
-    followers: 83800
-    engagement: 2437
-    commentsToLikes: 0.046740
-    id: ckbb268iisje30j23c19147g6
+    followers: 61000
+    engagement: 864
+    commentsToLikes: 0.034723
+    id: ckdi6gs347wag0j23yfi17ye7
     verified: false
-    hashtags: "#cloudydiffuser, #hoodbaby, #fyp, #foryou"
-  - username: "yena214"
+    hashtags: "#hombrestoxicos, #relacionesdepareja, #breakup, #consejos"
+  - username: "geo_leon"
     fullname: >-
-      Yena Song
+      Photo 
     bio: >-
-      my 5 personalities unite here 🤡
+      Photographer 📍Los Angeles, CA
     location: "United States"
-    followers: 7207
-    engagement: 1057
-    commentsToLikes: 0.070773
-    id: cka5y89yuh4j10i78f9cbij0f
+    followers: 972400
+    engagement: 1448
+    commentsToLikes: 0.005310
+    id: ck81qxv3fksrd0j78fgn4av2x
+    verified: true
+    hashtags: "#water, #photoshoot, #photographer, #trend"
+  - username: "fittybritty"
+    fullname: >-
+      Britney Vest
+    bio: >-
+      🦋 BODY POSITIVITY 🦋 ✨ RECIPES + WORKOUTS + VLOGS ✨ 🦋 FASHION FOR CURVES 🦋
+    location: "United States"
+    followers: 110500
+    engagement: 642
+    commentsToLikes: 0.013584
+    id: ck8saxaem4awt0j78l1b68tpi
+    verified: true
+    hashtags: "#fyp, #aesthetic, #tiktokfashion, #recipe"
+  - username: "drpepperbabi"
+    fullname: >-
+      eva🐞
+    bio: >-
+      they/them 💟🕷🧿 goth feminist commie
+    location: "United States"
+    followers: 10700
+    engagement: 2324
+    commentsToLikes: 0.052579
+    id: ckdnvh7wnoo8q0j23s77gopqy
     verified: false
-    hashtags: "#duet, #arizona, #abg, #ledlights"
+    hashtags: "#perfectdrink, #thisorthatsblv, #pepsihalftimechallenge, #homeproject"
 ---

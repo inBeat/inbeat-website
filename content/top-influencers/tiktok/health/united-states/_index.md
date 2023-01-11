@@ -1,84 +1,48 @@
 ---
-title: Top 10 Health TikTok Influencers In United States In 2022
+title: Top 10 Health TikTok Influencers In United States In 2023
 description: >-
-  Find top health TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #myhobby #biden2020.
+  Find top health TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #greenscreen #welcomeback.
 platform: TikTok
-hits: 7411
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 7411 TikTok influencers like this in United States for you to connect with.
+hits: 7505
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 7505 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "young_rari"
+  - username: "nataliejuliet"
     fullname: >-
-      Young_rari
+      <3
     bio: >-
-      Main insta: Madelineferreri COLLABS: Madeline@tiktal.co 90+ happy/healthy pets!
+      u r loved <3 | 18 snap - natalieejuliet mental health advocate they/them
     location: "United States"
-    followers: 638300
-    engagement: 2828
-    commentsToLikes: 0.029328
-    id: ck83wwz4tmngj0j78eo9izp7u
+    followers: 1200000
+    engagement: 1947
+    commentsToLikes: 0.041199
+    id: ck8savqlr3vd90j78r9uznp9c
+    verified: true
+    hashtags: "#wlw, #fyp, #xyzbca, #lgbt"
+  - username: "lexinimmo"
+    fullname: >-
+      Lexinimmo
+    bio: >-
+      🎬Actress w/ Mccray Agency ➕Fat Fashion/Body Liberation 🧠Mental Health/ADHD
+    location: "United States"
+    followers: 82600
+    engagement: 1234
+    commentsToLikes: 0.301311
+    id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#foryoupage, #fyp, #stemlife, #neonshadow"
+    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
   - username: "sunshineceee"
     fullname: >-
       Cee :)
     bio: >-
-      she/her Hearing positivity, mental health awareness, gay vibes & ASL things 💛
+      she/her mental health awareness & positivity I'm so happy you exist 🌻💛🌈
     location: "United States"
-    followers: 11300
-    engagement: 4002
-    commentsToLikes: 0.107861
+    followers: 42000
+    engagement: 3771
+    commentsToLikes: 0.147559
     id: ckfo4ydvm1g7j0j23bef5ojul
     verified: false
-    hashtags: "#poetry, #positivity, #mentalhealthrecovery, #fyp"
-  - username: "urgir1friend"
-    fullname: >-
-      selener —👄👁
-    bio: >-
-      !currently on a mental health break! 14 | bay area 🌞 | swtr wthr ✨ | she/they
-    location: "United States"
-    followers: 25700
-    engagement: 3394
-    commentsToLikes: 0.077186
-    id: ckbqiw2zo42vv0j230azx5o6d
-    verified: false
-    hashtags: "#gay, #yogaflow, #timefortenet, #alt"
-  - username: "lifeofleiva"
-    fullname: >-
-      Leiva
-    bio: >-
-      🗣 Speaking Truth 🇳🇮🇺🇲 #BIPOC Experience | Health | Education Venmo: @LeivaK
-    location: "United States"
-    followers: 29700
-    engagement: 2824
-    commentsToLikes: 0.094512
-    id: ckcejh207s9zp0j23sw90lsqs
-    verified: false
-    hashtags: "#elections, #black, #election, #expressieyourself"
-  - username: "shamrockbeauty"
-    fullname: >-
-      Shamrock Beauty
-    bio: >-
-      Beka Shamrock Normalizing Mental Health w/ Makeup and big Headpieces
-    location: "United States"
-    followers: 336000
-    engagement: 2349
-    commentsToLikes: 0.030561
-    id: ckbweq3lh1o330j23q61okmrk
-    verified: false
-    hashtags: "#voteblue, #biden2020, #31daysofhalloween, #halloweenmakeup"
-  - username: "themadivlog"
-    fullname: >-
-      Madilynn Cameron
-    bio: >-
-      ❤️youtuber Sub N LINK Mental health advocate Patreon in link Psych staff #88💙🧡
-    location: "United States"
-    followers: 501000
-    engagement: 2333
-    commentsToLikes: 0.088099
-    id: ckacs7zq98u8s0i78pq1fa6zg
-    verified: false
-    hashtags: "#stitch, #duet"
+    hashtags: "#keepgoing, #fyp, #mentalhealthawareness, #mentalhealthawarenessmonth"
   - username: "redwaverising"
     fullname: >-
       RED WAVE RISING
@@ -90,41 +54,77 @@ profiles:
     commentsToLikes: 0.142209
     id: ckd1ae08usdts0j23ungq5uy7
     verified: false
-    hashtags: "#portland, #riots, #iamlost, #us"
-  - username: "andiesjourney"
+    hashtags: "#seattle, #police, #copsoftiktok, #iamlost"
+  - username: "mr.tracyb"
     fullname: >-
-      andie
+      Tracy J. Brown
     bio: >-
-      Andie(she)dancing through serious health problems #nevergiveup IG: andiesjourney
+      Health&Wellness, Wisdom, Motivation, Justice & positive. $GBCookies #LHBK
     location: "United States"
-    followers: 1900000
-    engagement: 2177
-    commentsToLikes: 0.033864
-    id: ck8p1fv06l7hm0j785rtai0tl
-    verified: true
-    hashtags: "#andiestrong, #fyp, #duet, #andiesweek"
-  - username: "findingjayreace"
-    fullname: >-
-      🤴🏽Mr.Positivity 🌱
-    bio: >-
-      Author/Speaker Veganism | Health | Motivation | Legacy is available now👇🏾|
-    location: "United States"
-    followers: 9112
-    engagement: 2153
-    commentsToLikes: 0.429635
-    id: ck9skqa1ua13n0j78xb4nidzv
+    followers: 50100
+    engagement: 2131
+    commentsToLikes: 0.201627
+    id: ckblka19dd4cc0j23zc2m2cwu
     verified: false
-    hashtags: "#positivitytrain, #reacenation, #stitch, #strapback"
-  - username: "shannonsmith3239"
+    hashtags: "#listenandlearn, #educatethefold, #lhbk, #themoreweknow"
+  - username: "browneyedgal32"
     fullname: >-
-      Shannon Smith
+      Desiree Rogers
     bio: >-
-      Healthcare/Parenting/Politics/Life VENMO: @Shannon-Smith-319 #SnarkyTikTok
+      33 ❤️🔐 Boy mom Mental health advocate Wonder Woman with a mouth of a sailor
     location: "United States"
-    followers: 96600
-    engagement: 2016
-    commentsToLikes: 0.091988
-    id: ck9fmtlodv8000j78c0oo9wml
+    followers: 53000
+    engagement: 1956
+    commentsToLikes: 0.041866
+    id: ckcprqp24lp050j2360tkophy
     verified: false
-    hashtags: "#democracy, #presidentbiden, #myhobby, #familyimpression"
+    hashtags: "#relationshipgoals, #iloveyou, #adult, #taken"
+  - username: "relatable_shlt"
+    fullname: >-
+      ?
+    bio: >-
+      honestly just to document my mental health✨
+    location: "United States"
+    followers: 2281
+    engagement: 1919
+    commentsToLikes: 0.041281
+    id: ckcds9yfid9xz0j23j0qym2ng
+    verified: false
+    hashtags: "#lgbtqi, #lesbian, #love, #duet"
+  - username: "twigsplays"
+    fullname: >-
+      TwigsPlays
+    bio: >-
+      OR🔜NE🌽 Mental Health Matters💛 2x JUCO Champ🥇2x All-American🏅 Sprints Coach
+    location: "United States"
+    followers: 88100
+    engagement: 1854
+    commentsToLikes: 0.052576
+    id: ckb9b6p34x5hu0j23mt73wk0y
+    verified: false
+    hashtags: "#cod, #gaming, #ngegrindd, #tnarc"
+  - username: "doityourselfmom_xoxo"
+    fullname: >-
+      Haile Sage
+    bio: >-
+      MENTAL HEALTH FUCKING MATTERS🌻 P.O. Box 2362 Lake Havasu City, AZ 86405📦💌📫
+    location: "United States"
+    followers: 260700
+    engagement: 1642
+    commentsToLikes: 0.024356
+    id: ckaihn9md6oo90i78w2hznhb2
+    verified: false
+    hashtags: "#28xtremes, #momsoftiktok, #bodypossitivity, #dadmoves"
+  - username: "hype_vibez_tribe"
+    fullname: >-
+      💥 Veronica Beatty 💥
+    bio: >-
+      Mental Health Awareness Personal growth, Positivity & Fun!! 💯 #utterlymental
+    location: "United States"
+    followers: 13700
+    engagement: 1537
+    commentsToLikes: 0.095489
+    id: ckavsvrs35idz0j2392oh6l8v
+    verified: false
+    hashtags: "#peak, #youtube, #duet, #friends2family"
 ---

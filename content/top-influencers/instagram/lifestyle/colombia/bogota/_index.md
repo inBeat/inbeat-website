@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Bogotá In 2022
+title: Top 10 Lifestyle Instagram Influencers In Bogotá In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Bogotá in 2022. Most popular hashtags: #colombia #lifestyle #bogota #medellin.
+  Find top lifestyle Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #bogota #lifestyle #photooftheday.
 platform: Instagram
-hits: 71
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 71 Instagram influencers like this in Bogotá, Colombia for you to connect with.
+hits: 57
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 57 Instagram influencers like this in Bogotá, Colombia for you to contact.
 profiles:
-  - username: "adrianatorresv"
+  - username: "marialejamirandap"
     fullname: >-
-      ADRIANA TORRES 🤍✨
+      -M A R I A  A L E J A N D R A-
     bio: >-
-      🤍 Viniste a vivir con todo el Corazón🤍 ⭐️Confía más en tus sueños💫🙌🏻 💌 adrianatorresvargas@gmail.com Info Publicidad
+      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
     location: "Colombia"
-    followers: 106790
-    engagement: 364
-    commentsToLikes: 0.021101
-    id: ck5hitifefau80i11u9dflva6
+    followers: 8470
+    engagement: 510
+    commentsToLikes: 0.041288
+    id: ckaouqrjw1esd0i78decx4wuk
     verified: false
-    hashtags: "#cartagena, #goodnight, #goodmorning, #weekend"
-  - username: "angela_bonilla_"
+    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
+  - username: "lucius.ph"
     fullname: >-
-      Angela Bonilla 💫
+      ・ＬＵＣＩＵＳ •
     bio: >-
-      Bogotá, Colombia 🕹 @artderue_tattoo CEO : @estiloinefable 🔸 Good vibes✨
+      📸 Photographer portrait 📟 Audiovisual producer CALI・COL 📥Para sesiones info aquí 📥
     location: "Colombia"
-    followers: 17708
-    engagement: 1016
-    commentsToLikes: 0.025800
-    id: ck5pvbheuh2lh0i11cxmrdv0u
+    followers: 3732
+    engagement: 475
+    commentsToLikes: 0.028426
+    id: ck5zknppsjtci0i149c4cckq6
     verified: false
-    hashtags: "#medellin, #portrait, #bogota, #lifestyle"
-  - username: "valerialruiz"
+    hashtags: "#swag, #lifestyle, #bogota, #the35mmdiary"
+  - username: "marrana.eats"
     fullname: >-
-      Valeria Lizarralde Ruiz
+      MARRANA EATS Miami
     bio: >-
-      📷 @inactph Artes Escénicas - Comunicación Social. | Lifestyle & Music | 📩: valerializarralde@hotmail.
+      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
     location: "Colombia"
-    followers: 10667
-    engagement: 920
-    commentsToLikes: 0.028846
-    id: ckap2ifi0yz3c0i78ysqnkp4q
+    followers: 27175
+    engagement: 454
+    commentsToLikes: 0.405245
+    id: ck5ch6qvwq7de0i11f0c2mnfo
     verified: false
-    hashtags: "#photo, #art, #model, #vscocam"
+    hashtags: "#fries, #foodblog, #diy, #hungry"
+  - username: "maestrosommelier"
+    fullname: >-
+      ℂ𝕙𝕣𝕚𝕤𝕥𝕚𝕒𝕟 🔹𝔹𝕠𝕘𝕠𝕥𝕒 ℂ𝕚𝕘𝕒𝕣𝕤 ℂ𝕝𝕦𝕓🔹
+    bio: >-
+      ℂ𝕀𝔾𝔸ℝ 𝔸𝔽𝕀ℂ𝕀𝕆ℕ𝔸𝔻𝕆 • 𝕍𝔼ℕ𝕋𝔸𝕊 ➡️ • @bogotacigarsclub • • recomendaciónes y asesorías de maridajes con #puros • #tabacos 🔞
+    location: "Colombia"
+    followers: 14250
+    engagement: 301
+    commentsToLikes: 0.057955
+    id: ck8t8bgdzjszz0j78qs8alzbf
+    verified: false
+    hashtags: "#fumadoresdepurosenbogota, #bogotacigarsclub, #coffee, #villigercigars"
+  - username: "danielrestrepogarcia"
+    fullname: >-
+      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
+    bio: >-
+      Nos vemos en Francia 🇫🇷 @paris2024 acompáñame a vivir un ciclo olímpico Campeón Panamericano Lima 2019 Campeón olímpico de la juventud 2018
+    location: "Colombia"
+    followers: 19827
+    engagement: 1020
+    commentsToLikes: 0.025376
+    id: ck8sxy4w6j33z0j78bo5e1iqo
+    verified: false
+    hashtags: "#me, #fit, #covid, #workout"
+  - username: "21pics__"
+    fullname: >-
+      Alejo Lezcano / Fotografo
+    bio: >-
+      📷AGENDA TU SESION AL DM 📸📩 🔥Pronto retomaremos youtube ⤵️⤵️ 😉 Otras cuentas @alejo_lezcanoo @21.raww
+    location: "Colombia"
+    followers: 8237
+    engagement: 644
+    commentsToLikes: 0.051926
+    id: ck9wd0h92di2m0j78aqszh02r
+    verified: false
+    hashtags: "#streetportrait, #portraits, #damefotisimo, #makeup"
   - username: "anamariaesguerra"
     fullname: >-
       Anamaría Esguerra G
     bio: >-
       Colombian 🇨🇴 Traveler ✈ & Lifestyle . 📍AMS/Bogotá 📩 Contact: anamariaesguerrag@gmail.com
     location: "Colombia"
-    followers: 41621
-    engagement: 277
-    commentsToLikes: 0.111453
+    followers: 41189
+    engagement: 182
+    commentsToLikes: 0.138611
     id: ck9wfzooir8l00j780njrajve
     verified: false
-    hashtags: "#travelblogger, #lifestyleblogger, #hotel, #amsterdamblogger"
-  - username: "andeezeta"
+    hashtags: "#lifestyleblogger, #glampingcolombia, #travelblogger, #traveling"
+  - username: "_omnia.x"
     fullname: >-
-      Andee Zeta
+      O M N I A
     bio: >-
-      Artist ⚡️ Producer ⚡️Song Writer 2 x Grammy winner Welcome to my life 🎶😛🐶😸🍺🎵 Escucha: LO BONITO ES SIMPLE👇💣🔥
+      Contacto y publicidad DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴
     location: "Colombia"
-    followers: 42906
-    engagement: 158
-    commentsToLikes: 0.097245
-    id: ck5he8j3yrlyk0i11jqo3ndsu
-    verified: true
-    hashtags: "#selfie, #tattoos, #sunday, #newmusic"
-  - username: "amarilloocre1"
-    fullname: >-
-      amarillo ocre
-    bio: >-
-      Productos Originales CC el Diamante local 0112 Etapa 2 Cuenta aliada @aguamarina.tienda 🚫NO VENTAS AL MAYOR WhatsApp 3164437098 Link👇 directo
-    location: "Colombia"
-    followers: 19674
-    engagement: 910
-    commentsToLikes: 0.022690
-    id: ck9haqx4ndpzh0j783nuk4lyv
+    followers: 102604
+    engagement: 459
+    commentsToLikes: 0.120064
+    id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: ""
-  - username: "jefry.moreno06"
+    hashtags: "#vibetones, #sonyalphacolombia, #insomniamag, #777luckyfish"
+  - username: "danielirizarryoficial"
     fullname: >-
-       𝓙𝓮𝓯𝓻𝔂 𝓶𝓸𝓻𝓮𝓷𝓸 
+      Daniel Irizarry
     bio: >-
-      🔮 𝓠𝓾𝓲𝓮𝓷 𝓽𝓲𝓮𝓷𝓮 𝓶𝓪𝓰𝓲𝓪 𝓷𝓸 𝓷𝓮𝓬𝓮𝓼𝓲𝓽𝓪 𝓽𝓻𝓾𝓬𝓸𝓼... 🧞‍♂️ 🤴🏽estilista integral y maquillador 📍#cali - #valle 👇WHATSAPP👇
+      🎭🎬 🇵🇷Born in Puerto Rico 🇨🇴 Disfrutando de Colombia 🏋️‍♂️🧘🏼‍♂️Embajador @clubbodytech @informamodels
     location: "Colombia"
-    followers: 52217
-    engagement: 109
-    commentsToLikes: 0.007010
-    id: ck8sx0gkuft0p0j785iwq7ulx
+    followers: 13134
+    engagement: 346
+    commentsToLikes: 0.024392
+    id: ck5pw1ngbko0k0i1198fm671g
     verified: false
-    hashtags: "#cabello, #woman, #glam, #color"
-  - username: "juanda_aldana"
-    fullname: >-
-      RECUERDO DE JUAN DAVID ALDANA
-    bio: >-
-      🎬 Actor & Modelo 🏋🏻‍♂️ Deportista y Entrenador 📌 Bogota/Colombia
-    location: "Colombia"
-    followers: 369779
-    engagement: 803
-    commentsToLikes: 0.017825
-    id: ck5ci7d94s5ie0i11plstqfw8
-    verified: false
-    hashtags: "#fitness, #leon, #bangenergy, #energydrink"
-  - username: "loboartt"
-    fullname: >-
-      Stiven Contreras
-    bio: >-
-      Residente 🇨🇴 estudio privado 🇪🇸@8milimetrostattoo 📕Asesorias por whatsapp ⬇️⬇️⬇️ 📲+34603329013 📲+573213790956 Mi mejor amiga @bullterrierevee
-    location: "Colombia"
-    followers: 35493
-    engagement: 157
-    commentsToLikes: 0.028700
-    id: ck5caah71d18g0i11lbq1tlx3
-    verified: false
-    hashtags: "#realistictattoo, #liontattoo, #art, #animal"
+    hashtags: "#puertorico, #picoftheday, #justme, #miami"
   - username: "leidygomez063"
     fullname: >-
       ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
     bio: >-
       Colombiana 📍Bogota Model| fitgirl| influencer| lifestyle| wordtraveler FHloverCEO and owner @leidysfashion_online @leidyssecrets💥@bangenergy
     location: "Colombia"
-    followers: 291802
-    engagement: 259
-    commentsToLikes: 0.021230
+    followers: 311167
+    engagement: 297
+    commentsToLikes: 0.014603
     id: ck8t0qyfwsytv0j7846clzuqm
     verified: false
-    hashtags: "#sonreir, #producer, #fbf, #tbt"
+    hashtags: "#colombiana, #modelosfitness, #manizalesdelalma, #manizalen"
 ---

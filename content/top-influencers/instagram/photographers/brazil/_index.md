@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Brazil In 2022
+title: Top 10 Photographers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top photographers Instagram influencers in Brazil in 2022. Most popular hashtags: #portraitvision #portrait #alternativegirl.
+  Find top photographers Instagram influencers in Brazil in 2023. Most popular hashtags: #portrait #moodyports #globe.
 platform: Instagram
-hits: 979
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 979 Instagram influencers like this in Brazil for you to work with.
+hits: 916
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 916 Instagram influencers like this in Brazil for you to pitch.
 profiles:
   - username: "gustavozylbersztajn"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       photographer
     location: "Brazil"
-    followers: 36488
-    engagement: 144
-    commentsToLikes: 0.060204
+    followers: 39048
+    engagement: 101
+    commentsToLikes: 0.067207
     id: ck5hgwa5553dl0i11pq1g1uk5
     verified: false
-    hashtags: "#sentirse, #analogphotography, #fineart, #personalproject"
+    hashtags: "#personalproject, #printingtechniques, #nature, #patagonia"
+  - username: "landau"
+    fullname: >-
+      Lucas Landau
+    bio: >-
+      Photographer
+    location: "Brazil"
+    followers: 36390
+    engagement: 321
+    commentsToLikes: 0.021739
+    id: ckapbx7b11mrx0i7874koia9s
+    verified: true
+    hashtags: "#prostitui, #coronavirus, #incendiosflorestais, #carnavalcancelado"
   - username: "bladmeneghel"
     fullname: >-
       Blad Meneghel
     bio: >-
       Blad Meneghel / Bladinho (34 yr / 📍Rio 🇧🇷)⠀ Photographer: 📷Xuxa (2002-) ⠀⠀ 📷Record TV (2015-) 📷Publicidade (2002-)⠀⠀ 📷TV Globo (2002-2014)
     location: "Brazil"
-    followers: 40825
-    engagement: 853
-    commentsToLikes: 0.065071
+    followers: 42210
+    engagement: 863
+    commentsToLikes: 0.063593
     id: ck0w3oje1ugnk0i19qq7y88i8
     verified: true
-    hashtags: "#blackandwhite, #xuxa, #nikon, #recordtv"
+    hashtags: "#xuxa, #recordtv, #tbt, #nikon"
   - username: "carolsculture"
     fullname: >-
       𝐂𝐚𝐫𝐨𝐥 | antiga @grungessoul
     bio: >-
-      𝑛𝑒𝑟𝑑𝑖𝑐𝑒𝑠 • 𝑓𝑜𝑡𝑜𝑠 • 𝑣𝑖𝑑𝑎 𝑝𝑒𝑠𝑠𝑜𝑎𝑙 ☾| photographer: @anacarolfotografias ☾| personal acc: @ac.mouralima ☾| vintage dark aesthetic
+      𝑛𝑒𝑟𝑑𝑖𝑐𝑒𝑠 • 𝑓𝑜𝑡𝑜𝑠 • 𝑣𝑖𝑑𝑎 𝑝𝑒𝑠𝑠𝑜𝑎𝑙 • 𝑚𝑢𝑠𝑖𝑐𝑎 ☾| photographer: @anacarolfotografias ☾| personal acc: @ac.mouralima ☾| vintage dark aesthetic
     location: "Brazil"
-    followers: 3546
-    engagement: 1967
-    commentsToLikes: 0.200142
+    followers: 3286
+    engagement: 2062
+    commentsToLikes: 0.218171
     id: ck8t67rp8ckgo0j784flysm5w
     verified: false
-    hashtags: "#braziliangirl, #grunge, #summervibes, #grungey"
-  - username: "fuscadadrika"
-    fullname: >-
-      Drika
-    bio: >-
-      old is cool🤘🏻 vw beetle 1968 is Zé! 23 | PR | Photographer and Filmmaker 🇧🇷 @drika.photofilm ♡ @joaovitoraalves 𝘄𝘄𝘄.𝗳𝘂𝘀𝗰𝗮𝗱𝗮𝗱𝗿𝗶𝗸𝗮.𝗰𝗼𝗺.𝗯𝗿
-    location: "Brazil"
-    followers: 23183
-    engagement: 706
-    commentsToLikes: 0.179876
-    id: ck15rd3837brc0i19j2ep1uzo
-    verified: false
-    hashtags: "#gummylovers, #teamcupnoodles, #halloween"
-  - username: "guiirossi"
-    fullname: >-
-      Guilherme Rossi
-    bio: >-
-      Photographer from SP 🇧🇷 Canal no Youtube 📸 Curso @_portraitacademy 👇🏻Cursos, Presets e Mais
-    location: "Brazil"
-    followers: 134979
-    engagement: 411
-    commentsToLikes: 0.040174
-    id: ck0twq2vmgdkq0i190gk7anc8
-    verified: false
-    hashtags: "#moodyports, #reels, #igshotz, #foryoupage"
-  - username: "nathalynnes"
-    fullname: >-
-      Nathaly
-    bio: >-
-      𝓣𝓱𝓮 𝓛𝓸𝓿𝓮 𝔀𝓲𝓽𝓬𝓱 🥀 🖤 @notyourdeadvampire Fashion Designer | Photographer | Artist Art > @lalieneartt • contact via mail or dm • 📍 Recife
-    location: "Brazil"
-    followers: 3594
-    engagement: 1811
-    commentsToLikes: 0.168059
-    id: ck8t1st9qwvw40j78zen5jjam
-    verified: false
-    hashtags: "#gothgirl, #goths, #gothicgirl, #altgirl"
-  - username: "brunogomesph"
-    fullname: >-
-      BRUNO GOMES
-    bio: >-
-      ✍🏿Creative Director 👁Fashion Photographer 🌎São Paulo, Brazil 📬brunogomesft@outlook.com
-    location: "Brazil"
-    followers: 37058
-    engagement: 429
-    commentsToLikes: 0.067395
-    id: ck15s6gt5bglk0i199wyqhct5
-    verified: false
-    hashtags: "#vogue, #olhaelle, #elleview, #stilllife"
+    hashtags: "#grungestyle, #retroaesthetic, #vscocam, #yellowaesthetic"
   - username: "ioskar7"
     fullname: >-
       Oskar
     bio: >-
       Contact via direct Music video creator 🎥 Director | videographer | photographer
     location: "Brazil"
-    followers: 18266
-    engagement: 1057
-    commentsToLikes: 0.035284
+    followers: 18523
+    engagement: 1039
+    commentsToLikes: 0.041468
     id: ck0u6h9q922dk0i19xjinqri8
     verified: false
-    hashtags: "#kdphotostudio, #portraitmood, #majestic, #discoverportrait"
-  - username: "parsaa.jahed"
+    hashtags: "#discoverportrait, #igworldclub, #bravoportraits, #aovportraits"
+  - username: "brunogomesph"
     fullname: >-
-      💯kartel pic💯
+      BRUNO GOMES
     bio: >-
-      photographer📸 ♨️wedding-Industrial photo -fashion-music cover♨️ personal page: @parsa.jahed
+      💭Creative Director 👁Fashion Photographer 🔎São Paulo, Brazil 💻brunogomesft@outlook.com
     location: "Brazil"
-    followers: 11834
-    engagement: 773
-    commentsToLikes: 0.165389
-    id: ck6028j8ngx4r0i144b6sz3d1
+    followers: 37167
+    engagement: 419
+    commentsToLikes: 0.052740
+    id: ck15s6gt5bglk0i199wyqhct5
     verified: false
-    hashtags: "#topcaptures, #portlandoregon, #photographylovers, #photogram"
-  - username: "velozoma"
+    hashtags: "#reels, #fashionfilmdirector, #creativedirectors"
+  - username: "aleflopes_photo"
     fullname: >-
-      Marcela Velozo
+      Alef Lopes
     bio: >-
-      90% iPhone 10% camera A photographer living in Tulum 🌴 by @marcelaveloozo my presets @likeappro
+      Portrait and Lifestyle Photographer 📷⚡️ 📍Curitiba - Brazil 👇Orçamentos + infos link abaixo!
     location: "Brazil"
-    followers: 59761
-    engagement: 1250
-    commentsToLikes: 0.021928
-    id: ck0w6og4p9jis0i19wifu3nv7
+    followers: 7171
+    engagement: 927
+    commentsToLikes: 0.139517
+    id: ck8t39u9k2gzc0j78g5kc5fg0
     verified: false
-    hashtags: "#shotoniphone"
+    hashtags: "#photography, #curitiba, #moo, #reelsinstagram"
+  - username: "felp011"
+    fullname: >-
+      Felpinho
+    bio: >-
+      Model-photographer and more. 🇧🇷 @flamme.br @captive.club @captive_br
+    location: "Brazil"
+    followers: 6003
+    engagement: 1613
+    commentsToLikes: 0.054060
+    id: ck5c4zneo2ft10i11h3zsokc0
+    verified: false
+    hashtags: "#35mm, #sport"
+  - username: "guiirossi"
+    fullname: >-
+      Guilherme Rossi
+    bio: >-
+      Photographer from SP 🇧🇷 Curso Online @_portraitacademy 👇🏻 Presets, ensaios e mais
+    location: "Brazil"
+    followers: 146190
+    engagement: 328
+    commentsToLikes: 0.214875
+    id: ck0twq2vmgdkq0i190gk7anc8
+    verified: false
+    hashtags: "#navesmagazine, #moodyports, #portraitpage, #magiclens"
+  - username: "lineker"
+    fullname: >-
+      Lineker Pires
+    bio: >-
+      📍São Paulo / Goiânia FASHION PHOTOGRAPHER
+    location: "Brazil"
+    followers: 68990
+    engagement: 345
+    commentsToLikes: 0.109979
+    id: ck5q3pjkqlulb0i11loep8v0z
+    verified: false
+    hashtags: "#emiradosarabes, #insta, #goodvibes, #sky"
 ---

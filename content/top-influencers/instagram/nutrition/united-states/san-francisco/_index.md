@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In San Francisco In 2022
+title: Top 10 Nutrition Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top nutrition Instagram influencers in San Francisco in 2022. Most popular hashtags: #love #nutrition #smile #happy.
+  Find top nutrition Instagram influencers in San Francisco in 2023. Most popular hashtags: #california #sanfrancisco #fitness #healthylifestyle.
 platform: Instagram
-hits: 10
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in San Francisco, United States for you to connect with.
+hits: 11
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 11 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "thepunjabilion"
+    fullname: >-
+      ROBO The Punjabi Lion
+    bio: >-
+      Pro Wrestler⭐️ State Bodybuilding Champ 2011🏆 India level competitor🏅 Chandigarh,Punjab🇮🇳 Boston🇺🇸
+    location: "United States"
+    followers: 18776
+    engagement: 630
+    commentsToLikes: 0.030687
+    id: ck0u0d52rte9o0i199aero61o
+    verified: false
+    hashtags: "#robokdm, #styleblogger, #positivevibes, #viralvideos"
+  - username: "shahidforchange"
+    fullname: >-
+      Shahid Buttar for Congress
+    bio: >-
+      Post-colonial constitutional lawyer ⚖️ DJ/MC/Poet 🎤 immigrant ✊🏾 Won >80,000 votes in 2020 to replace Nancy Pelosi as San Francisco’s Rep in the House
+    location: "United States"
+    followers: 42301
+    engagement: 383
+    commentsToLikes: 0.022025
+    id: ck6u8nrtcsnc50j71spk76za7
+    verified: false
+    hashtags: "#vs, #rights, #humanrights, #crisis"
   - username: "thekatelync"
     fullname: >-
       Katelyn Ribero
     bio: >-
-      San Francisco Bay Area Women’s Strength, Physique & Nutrition Coach Self Love & Body Confidence Advocate @johnskillerprotein Athlete Code:KatelynC
+      San Francisco Bay Area Follower of Jesus Strength, Physique & Nutrition coach Mother @johnskillerprotein Athlete Code:KatelynC
     location: "United States"
-    followers: 34861
-    engagement: 100
-    commentsToLikes: 0.077136
+    followers: 33125
+    engagement: 51
+    commentsToLikes: 0.113766
     id: ck0u1t467xtqm0i198zgyih5g
     verified: false
-    hashtags: "#sffitness, #trainertips, #selflove, #familyphotoshoot"
-  - username: "channelfoods"
+    hashtags: "#strongwomen, #personaltrainer, #mondaymotivation, #christianquotes"
+  - username: "ericastenz"
     fullname: >-
-      Channel Foods
+      ERICA STENZ
     bio: >-
-      😋 Central Hub to the tastiest food 📧 ChannelFoodsig@gmail.com 📍 San Francisco, USA 🇺🇸
+      Northern California @barrys ❌ Instructor NASM Certified Fitness Nutrition Specialist Author & Speaker Brand Ambassador & Model Discount: ERICASTENZ
     location: "United States"
-    followers: 1114127
-    engagement: 92
-    commentsToLikes: 0.007335
-    id: ck0tuao3h6cnm0i191qg6fu63
+    followers: 57205
+    engagement: 225
+    commentsToLikes: 0.023244
+    id: ck8t07gktr2r00j78byjqfi8p
     verified: false
-    hashtags: "#vegansofig, #macros, #chicken, #avocado"
-  - username: "alexinstalife"
+    hashtags: "#barrys, #ericastenz, #support, #dreamscometrue"
+  - username: "myworkout.ig"
     fullname: >-
-      Alessandro
+      My Workout
     bio: >-
-      Traveling is the best way to enjoy your life..#travelforlife ✈️🌎 #napoli #sanfrancisco
+      Fitness | Health | Nutrition Face of the week- @nikolairadanovichofficial ❤️ For promotion Part of @therock.iv
     location: "United States"
-    followers: 92602
-    engagement: 1368
-    commentsToLikes: 0.016853
-    id: ck8t3sk2w4bvm0j78dy6vj1uq
+    followers: 98325
+    engagement: 61
+    commentsToLikes: 0.013739
+    id: ck9wdqqcogtx90j789vvwimbp
     verified: false
-    hashtags: "#workout, #sea, #my, #moment"
-  - username: "melu103"
+    hashtags: "#gym, #gymmotivation, #gymlife, #celebritystyle"
+  - username: "richelleaurora"
     fullname: >-
-      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+      Richelle
     bio: >-
-      📍❘ 𝙻𝚘𝚜 𝙰𝚗𝚐𝚎𝚕𝚎𝚜⁣ 🌎❘ 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊 🇦🇷⁣ 📧❘ @foreverfitnessla DM for rates ⁣ 💻❘ Social Media Content Creator
+      God First Certified Nutritionist 5x NQ Bikini SF Championships Overall Bikini Winner
     location: "United States"
-    followers: 9772
-    engagement: 546
-    commentsToLikes: 0.164962
-    id: ck6ua4ehe1f2h0j719d0ie3wx
+    followers: 3618
+    engagement: 794
+    commentsToLikes: 0.090231
+    id: ckf5uex1vknim0j23wtyemo3v
     verified: false
-    hashtags: "#beauty, #skincare, #fashionnova, #instafashion"
-  - username: "thegeelife"
+    hashtags: "#macrocounting, #iifym, #santacruz, #sf"
+  - username: "tripsbygelly"
     fullname: >-
-      𝗚𝗲𝗲
+      Gelly
     bio: >-
-      🌿 Wifey 💍 Boy Mom👩‍👦 💙 Food, Fashion, Fam, Fitness, Beauty, Home 🌴 California Blogger 💌 Thegeelife1@gmail.com #lifestylebloggers #indianblogger
+      From Sao Paulo, living in San Diego 👉🏼 @tipsbygelly 💌: trips@blogdagelly.com
     location: "United States"
-    followers: 62041
-    engagement: 184
-    commentsToLikes: 0.108735
-    id: ckaouxq2n29ve0i78sncwne34
+    followers: 11877
+    engagement: 317
+    commentsToLikes: 0.033855
+    id: ckaoqxpcjkvvy0i78gz7rt8ec
     verified: false
-    hashtags: "#whatiworetoday, #travelkids, #homegoodsfinds, #stylegram"
-  - username: "turnipvegan"
+    hashtags: "#socal, #instapassport, #exploringtheglobe, #visitcalifornia"
+  - username: "belleofthedesert"
     fullname: >-
-      Turnip Vegan
+      Maribel 🌵
     bio: >-
-      🎥 #Videographer | 🌱 | San Diego Founder of @chickpeasxturnips Co-Founder of @spoiledvegans cafe
+      Getting closer to God, my #1 Building mental and physical resiliency Running towards my fears Conquering my mind Worry less, Warrior more
     location: "United States"
-    followers: 29967
-    engagement: 304
-    commentsToLikes: 0.052484
-    id: ck6txp1plz1ml0j71cngqzhxn
+    followers: 10193
+    engagement: 1099
+    commentsToLikes: 0.021414
+    id: ckap2mwrjzjgj0i78zeux0efg
     verified: false
-    hashtags: "#delicious, #cookies, #vegancommunity, #veganism"
-  - username: "mo_horvat"
-    fullname: >-
-      𝕄𝕠𝕟𝕚𝕜𝕒 𝕄𝕠 ℍ𝕠𝕣𝕧𝕒𝕥 👑
-    bio: >-
-      𝓓𝓮𝓷𝓽𝓲𝓼𝓽 🦷 𝕝𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 | 𝕥𝕣𝕒𝕧𝕖𝕝✈️ | 𝕗𝕒𝕤𝕙𝕚𝕠𝕟👗 ℭ𝔯𝔬🇭🇷| Ger 🇩🇪📍𝔇𝔲𝔟𝔞𝔦🇦🇪✖️USA🇺🇸 👉 @zadruga 4 🎥
-    location: "United States"
-    followers: 20580
-    engagement: 328
-    commentsToLikes: 0.044961
-    id: ck5zm9h8mm5f60i143zu4mrep
-    verified: false
-    hashtags: "#instagood, #bestoftheday, #blogger, #photooftheday"
+    hashtags: "#roadtrippin, #halloweeneveryday, #desert, #trails"
   - username: "kittiefactory"
     fullname: >-
       The Kittie Factory
     bio: >-
       Free Heart and Paw Necklace 👇
     location: "United States"
-    followers: 54304
-    engagement: 169
-    commentsToLikes: 0.015251
+    followers: 52900
+    engagement: 173
+    commentsToLikes: 0.015425
     id: ck0u80y0t64ts0i199utiddr4
     verified: false
-    hashtags: "#cat, #catstagram, #paws, #catsoftheworld"
-  - username: "dominicandominator"
+    hashtags: "#adorable, #igdaily, #catoftheday, #catstagram"
+  - username: "myhomemantra"
     fullname: >-
-      Victor Martinez
+      Radhika ☘️  BayArea MomBlog
     bio: >-
-      🏆 2007/2011 Arnold Classic Champ 🏅12 Time Mr. Olympia Competitor @mhpstrongusa Athlete @victormartinezifbbpro Español
+      👩🏻‍💻 Working Mom raising a happy 👧🏻 ✨ Obsessed with Simple Healthy Lifestyle ☘️ Homemade food Yoga Ayurveda are my jam! 💜 ⇩ Blog & YouTube Videos ⇩
     location: "United States"
-    followers: 634136
-    engagement: 131
-    commentsToLikes: 0.013495
-    id: ck5q1loh1bl9o0i11z4d8madp
+    followers: 12088
+    engagement: 287
+    commentsToLikes: 0.102499
+    id: ck8t73t77fjxr0j78f5s2272q
     verified: false
-    hashtags: "#love, #mhpstrong, #birthday, #happybirthday"
-  - username: "vrodrigueziii"
-    fullname: >-
-      Vincent Rodriguez III
-    bio: >-
-      Josh Chan on four-time Emmy award winning Crazy Ex-Girlfriend & Detective Rudy Cruz in Season 2 of Insatiable, both available on Netflix. 🎭🎶🕺🏻🥋🤸🏻‍♂️🎙
-    location: "United States"
-    followers: 82721
-    engagement: 357
-    commentsToLikes: 0.017200
-    id: ck5qacomcfplq0i11lsa39unz
-    verified: true
-    hashtags: "#newnormal, #actsofservice, #dance, #exercise"
+    hashtags: "#homeschoolmom, #momlife, #workingmomlife, #mommyandme"
 ---

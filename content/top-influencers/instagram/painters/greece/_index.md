@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Greece In 2022
+title: Top 10 Painters Instagram Influencers In Greece In 2023
 description: >-
-  Find top painters Instagram influencers in Greece in 2022. Most popular hashtags: #painting #contemporaryart #drawing #greece.
+  Find top painters Instagram influencers in Greece in 2023. Most popular hashtags: #painting #contemporaryart #love #greece.
 platform: Instagram
-hits: 23
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 23 Instagram influencers like this in Greece for you to work with.
+hits: 17
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 17 Instagram influencers like this in Greece for you to collaborate.
 profiles:
   - username: "avgoustidisermis"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Ermis Anargyros Avgoustidis - painter, musician, photographer, poet and film maker.
     location: "Greece"
-    followers: 37257
-    engagement: 658
-    commentsToLikes: 0.019316
+    followers: 38672
+    engagement: 688
+    commentsToLikes: 0.019744
     id: ck0u0jjortz8g0i19tukmrjf1
     verified: false
-    hashtags: "#argyris, #landscapes, #photo, #amazing"
+    hashtags: "#love, #chios, #anargyros, #landscape"
   - username: "anastasiou.dimitris"
     fullname: >-
       Dimitris Anastasiou
     bio: >-
-      Painter, Greece, 1979. Lives and works in Athens.
+      Painter and creator of a graphic novel entitled “A=-A”, based in Athens, Greece.
     location: "Greece"
-    followers: 13367
-    engagement: 780
-    commentsToLikes: 0.025080
+    followers: 14729
+    engagement: 781
+    commentsToLikes: 0.032443
     id: ckaotu276xisw0i788lmhzai3
     verified: false
-    hashtags: "#selfportrait, #polyptych, #kaleidoscopepublications, #contemporarypainting"
-  - username: "vassia_kostara"
+    hashtags: "#comicbookart, #comics, #jonathancape, #contemporarydrawing"
+  - username: "wd_wilddrawing"
     fullname: >-
-      Vassia Kostara
+      WD (Wild Drawing)
     bio: >-
-      * Founder of Vassia Kostara Limited Collections * Designer & painter * Style advisor on @elenimenegaki TV Show * Always Inspired 📸
+      Painter/Muralist from Bali🇮🇩 based in Athens🇬🇷 ©Wild Drawing
     location: "Greece"
-    followers: 165262
-    engagement: 518
-    commentsToLikes: 0.007753
-    id: ck14kql0kqtfu0i1917cplvzf
+    followers: 100353
+    engagement: 392
+    commentsToLikes: 0.016750
+    id: ck15sj2itd9dv0i1983u30ci7
     verified: false
-    hashtags: "#ootd, #vassiakostaralimitedcollections, #alwaysinspired, #ss20"
-  - username: "nikolas_tower"
-    fullname: >-
-      Nikolaos Kafasis 🦋
-    bio: >-
-      Watercolorist by day - oil painter by night 🎨 lvl 22 🌟 Commissions are Open: DM me! 👥 Second/store acc @nikolastower 🖌️ Art supply enthusiast 🏷️Shop:
-    location: "Greece"
-    followers: 200599
-    engagement: 390
-    commentsToLikes: 0.006610
-    id: ck0tu3bld5g0d0i19hy5g68lp
-    verified: false
-    hashtags: "#fantasyart, #inktoberday4, #illustration, #workinprogressart"
+    hashtags: "#wd, #balistreetart, #bali, #anamorphic"
   - username: "michalisgoumas"
     fullname: >-
       Michalis Goumas
     bio: >-
-      • Visual Arts • Painter - Creative Photographer - Art Director #michalisgoumas - #michalisgoumasphotography
+      Greek Painter / Photographer • based in Athens
     location: "Greece"
-    followers: 11118
-    engagement: 515
-    commentsToLikes: 0.015955
+    followers: 12369
+    engagement: 528
+    commentsToLikes: 0.016578
     id: ck8sxsv8rijgd0j78tezyzv4j
     verified: false
-    hashtags: "#breeding, #artforsale, #oilpainting, #painting"
+    hashtags: "#michalisgoumas, #art, #oiloncanvaspainting, #artistsoninstagram"
   - username: "elysios_c"
     fullname: >-
       Elysios
     bio: >-
       📍Athens,🇬🇷 💌DM or email me for commissions
     location: "Greece"
-    followers: 14264
-    engagement: 1473
-    commentsToLikes: 0.016177
+    followers: 14227
+    engagement: 1307
+    commentsToLikes: 0.014259
     id: ck0ue8p1okqsu0i19f0xmkfgt
     verified: false
-    hashtags: "#artcommissions, #painting, #sketchdaily, #sketchbook"
+    hashtags: "#sketchaday, #portraitart, #drawingstudy, #contemporarypainting"
+  - username: "leni_d.a"
+    fullname: >-
+      leni_d.a
+    bio: >-
+      👩‍🎨🎨💙🌻💙🌫️
+    location: "Greece"
+    followers: 5890
+    engagement: 2263
+    commentsToLikes: 0.116003
+    id: ckap3bce82c9k0i78q1nz121z
+    verified: false
+    hashtags: "#amazingshots, #fineartoil, #lumbin, #beauxarts"
   - username: "ioannis_lassithiotakis"
     fullname: >-
       Ioannis Lassithiotakis
     bio: >-
       Based in Athens, F/B : Ioannis Lassithiotakis. Professor at the Uniwa. Represented:Alfa gallery Miami, 104 gallery N.Y, Dlgallery, ArtStar NY
     location: "Greece"
-    followers: 12953
-    engagement: 602
-    commentsToLikes: 0.027445
+    followers: 13598
+    engagement: 674
+    commentsToLikes: 0.024115
     id: ck0tx9naiidp90i19qgr1hyvx
     verified: false
     hashtags: ""
-  - username: "pigi_devetzi"
+  - username: "katia_dede"
     fullname: >-
-      Πηγή Δεβετζή Official
+      KATIA DEDE
     bio: >-
-      Olympic champion 🏆medalist in Triple Jump Athens 2004 Beijing 2008 P.B 15.32 🥇🥈🥉sports psychology,professional athlete,physiotherapist KOLITES 🤪🤪🤪
+      • Player @farma.greece @ant1tv • Blogger Katia’s Clicks & Tricks @queengr • Photographer @katia_dede_photography • Dede.katia@gmail.com
     location: "Greece"
-    followers: 43642
-    engagement: 331
-    commentsToLikes: 0.209217
-    id: ck5znqqvhozbb0i146jkg7fe7
-    verified: true
-    hashtags: "#greekbrand, #happy, #amazing, #fantastic"
-  - username: "theodoroszagorakis"
-    fullname: >-
-      Zagor07
-    bio: >-
-      Captain of European Championship 2004 Greek National Football Team 🔵⚪ Member of the European Parliament
-    location: "Greece"
-    followers: 13046
-    engagement: 1302
-    commentsToLikes: 0.015281
-    id: ck5c6dawc579p0i1151tpw781
-    verified: true
-    hashtags: "#europeanparliament, #covid, #gr, #birthdaygirl"
-  - username: "zalligraphy__"
-    fullname: >-
-      ℓαнzα ѕυƒα∂ 🌻
-    bio: >-
-      ℓιƒє ιѕ вєαυтιιƒυℓℓℓℓℓ 😇❤️ | 🇴🇲 × 🇮🇳 | | ᥇ꪗꫀ ƚꪖӄe ᥴꪖrꫀ. | 💜
-    location: "Greece"
-    followers: 2612
-    engagement: 1545
-    commentsToLikes: 0.129564
-    id: ck9wg69f5s37x0j78oz1w17kj
+    followers: 27284
+    engagement: 550
+    commentsToLikes: 0.026696
+    id: ck137owd4cmpy0i19h1dp3ejt
     verified: false
-    hashtags: "#editing, #thistooshallpass, #hijabiblogger, #photographerlife"
+    hashtags: "#white, #tuscany, #boat, #nature"
+  - username: "archaeologist.gr"
+    fullname: >-
+      Digital excavation
+    bio: >-
+      Ψηφιακή σκαπάνη
+    location: "Greece"
+    followers: 37266
+    engagement: 430
+    commentsToLikes: 0.004646
+    id: ck6tsp89261ks0j71xerqtc3n
+    verified: false
+    hashtags: "#greece, #historical, #discovergreece, #architecture"
+  - username: "celiakipap"
+    fullname: >-
+      Συλια Παπανικολαου
+    bio: >-
+      💣 Chemist (MSc) 🌸 Fashion lover🎾Tennis Hawkers 20% discount 👉🏻HCW20KIPAP👈🏻
+    location: "Greece"
+    followers: 15713
+    engagement: 674
+    commentsToLikes: 0.047696
+    id: ckap070nxp0ly0i78y3ukidy8
+    verified: false
+    hashtags: "#inspo, #positivevibes, #girl, #instagood"
 ---

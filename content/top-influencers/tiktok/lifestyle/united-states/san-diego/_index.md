@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In San Diego In 2022
+title: Top 10 Lifestyle TikTok Influencers In San Diego In 2023
 description: >-
-  Find top lifestyle TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #sandiego #aesthetic #xyzbca.
+  Find top lifestyle TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #sandiego #foryou #sd.
 platform: TikTok
-hits: 11
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 11 TikTok influencers like this in San Diego, United States for you to connect with.
+hits: 15
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 15 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
-  - username: "madisonfournier_"
+  - username: "benhornn"
     fullname: >-
-      Madison
+      ben
     bio: >-
-      Marketing | Entrepreneurship | Lifestyle 🤍 San Diego, CA
+      fashion, travel, lifestyle San Diego, CA ✉️benhorn1126@gmail.com follow my IG💕
     location: "United States"
-    followers: 7919
-    engagement: 883
-    commentsToLikes: 0.046664
-    id: ck83jy7ai7weh0j78ys843oya
+    followers: 385500
+    engagement: 1170
+    commentsToLikes: 0.012189
+    id: ckacgukn4woy10i78163lz6e5
     verified: false
-    hashtags: "#fyp, #myrecommendation, #socialmediamarketing, #girlboss"
-  - username: "allymcdub"
+    hashtags: "#greenscreen, #fashion"
+  - username: "dhisvietboy_dc4"
     fullname: >-
-      allymcdub
+      Kevin Nguyen
     bio: >-
-      Mexican American 💃🏽🇲🇽 ig + venmo: allymcdub
+      💥Ig Dhisvietboy_dc4 💥Wetstanced.com 👆 Shop👆 SD
     location: "United States"
-    followers: 31000
-    engagement: 1044
-    commentsToLikes: 0.039131
-    id: ck9c5rjf1qq490j78zyis828d
+    followers: 117300
+    engagement: 1568
+    commentsToLikes: 0.026438
+    id: ckbwattbq084q0j23mvulzghk
     verified: false
-    hashtags: "#diy, #home, #apartment, #foryou"
+    hashtags: "#cars, #carsoftiktok, #bagged, #builtnotbought"
+  - username: "eliteluxurynyc"
+    fullname: >-
+      Francisco
+    bio: >-
+      NYC Real Estate Showing off amazing apartments 👆🏾 Contact me on Instagram 👆🏾
+    location: "United States"
+    followers: 12900
+    engagement: 273
+    commentsToLikes: 0.021279
+    id: ck8s7q9eiqa1k0j78xo8pdbw5
+    verified: false
+    hashtags: "#newyorkapartments, #myguy, #newyorker, #fyp"
   - username: "luxrosaporvida"
     fullname: >-
       LuxRosaPorVida
     bio: >-
       Westcoast lifestyle brand. Circa ‘11
     location: "United States"
-    followers: 39600
-    engagement: 1598
-    commentsToLikes: 0.039532
+    followers: 74600
+    engagement: 1319
+    commentsToLikes: 0.017041
     id: ckae0wh29ltwi0i786vgld6qj
     verified: false
-    hashtags: "#fyp, #sd, #2000s, #starshots"
-  - username: "teagan.maddux"
-    fullname: >-
-      Teagan
-    bio: >-
-      Outdoor adventure, landscape, and lifestyle photographer.
-    location: "United States"
-    followers: 4479
-    engagement: 1126
-    commentsToLikes: 0.045339
-    id: ck8f6dxoe2e7m0j78ms7mo3b7
-    verified: false
-    hashtags: "#vanlife, #california, #inspirational, #roadtrip"
+    hashtags: "#aeriereal, #streetwear, #starshots, #glamourshots"
   - username: "vaneberlin1"
     fullname: >-
       Vanessa Berlin✨
     bio: >-
-      Beauty Tips | Lifestyle Belleza en español👉🏻 @vanessa.berlin
+      Beauty Tips | Lifestyle Main account 👉🏻 @vaneberlin
     location: "United States"
-    followers: 8661
-    engagement: 1332
-    commentsToLikes: 0.032511
+    followers: 8548
+    engagement: 1095
+    commentsToLikes: 0.029634
     id: cka0urg71vkij0i78111pt1ij
     verified: false
-    hashtags: "#fyp, #beautytip, #beautytips, #skincare"
+    hashtags: "#beautytip, #fy, #fyp, #skincare"
+  - username: "teagan.maddux"
+    fullname: >-
+      Teagan
+    bio: >-
+      Outdoor adventure, landscape, and lifestyle photographer. Converting a van.
+    location: "United States"
+    followers: 36300
+    engagement: 982
+    commentsToLikes: 0.021830
+    id: ck8f6dxoe2e7m0j78ms7mo3b7
+    verified: false
+    hashtags: "#travel, #sunset, #puravida, #costaricapuravida"
+  - username: "explore_sd"
+    fullname: >-
+      user7751984492931
+    bio: >-
+      Sharing my passion for Food 🍱 Beauty💄Fashion 👗 Lifestyle, single mom 👩‍👦‍👦
+    location: "United States"
+    followers: 21300
+    engagement: 560
+    commentsToLikes: 0.077486
+    id: ckcpd8p1mfwz40j233wdcyqu9
+    verified: false
+    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
   - username: "tailoredbytaylor.xo"
     fullname: >-
       tailoredbytaylor.xo
     bio: >-
-      All things lifestyle + faith + fashion + beauty Venmo: taylor-keightley
+      All things lifestyle + faith + fashion + beauty CCLS by day, TikToker by night!
     location: "United States"
-    followers: 4563
-    engagement: 459
-    commentsToLikes: 0.088898
+    followers: 9598
+    engagement: 994
+    commentsToLikes: 0.223719
     id: ckbf87ofxyoza0j23ffh9anh8
     verified: false
-    hashtags: "#realtalk, #sandiego, #realtalktho, #fyp"
-  - username: "julie_lifestyle"
+    hashtags: "#childlifetiktok, #springootdideas, #tiktokunder30, #realtalktiktok"
+  - username: "brigittepatton"
     fullname: >-
-      Jules_Cali
+      Brigitte Patton
     bio: >-
-      LA Luxury Lifestyle Blogger | Entrepreneur 👧🏻 Insta @jules_cali 🇺🇸 🇵🇭 😄
+      aloha. Hawaii.SanDiego.Korea ÎĞ: @brigittepatton 🇺🇸 Living in Korea 🇰🇷
     location: "United States"
-    followers: 9359
-    engagement: 406
-    commentsToLikes: 0.107134
-    id: ck7zpa3fio9o40j78h13e4nol
+    followers: 128500
+    engagement: 1494
+    commentsToLikes: 0.012769
+    id: ckb9jqix5b7w90j23mxgb9fhy
     verified: false
-    hashtags: "#luxurytiktok, #fashionover40, #momboss, #tiktokover40"
-  - username: "fashionlush"
+    hashtags: "#traveltips, #starbucks, #thisiskorea, #visitkorea"
+  - username: "zoekfit"
     fullname: >-
-      ˚✧♡ Erica ♡✧˚
+      Zoekfit 
     bio: >-
-      👼🏼 fashion & lifestyle 📟 IG @fashionlush
+      Fitness • Lifestyle IG: @ZoeKFit 📩Info@zoekfit.com 👇🏼MY WORKOUT GUIDES😍👇🏼
     location: "United States"
-    followers: 156800
-    engagement: 1559
-    commentsToLikes: 0.014989
-    id: ck8j96a85lzd70j78ef3uiqws
-    verified: false
-    hashtags: "#dairyfree, #foammirror, #doityourself, #wholesomevideo"
-  - username: "sabinewest"
-    fullname: >-
-      Sabinewest
-    bio: >-
-      Lifestyle : @sabine_west Photography: @sabinewestphotography Venmo: Sabine-West
-    location: "United States"
-    followers: 110300
-    engagement: 1200
-    commentsToLikes: 0.008530
-    id: ckbkrxll2mkq90j2325itzsey
-    verified: false
-    hashtags: "#photographer, #instagram, #photography, #influencer"
-  - username: "_up_dog_"
-    fullname: >-
-      Up_dog
-    bio: >-
-      My pet turtle thinks I’m funny Ig: gage.mettler
-    location: "United States"
-    followers: 94300
-    engagement: 1173
-    commentsToLikes: 0.020673
-    id: ckav88f76ffk30j233w7cugzi
-    verified: false
-    hashtags: "#greenscreen, #vibe, #greenscreenvideo, #challenge"
+    followers: 84100
+    engagement: 781
+    commentsToLikes: 0.037096
+    id: ckcdj6vvt8nch0j23ufs6fezx
+    verified: true
+    hashtags: "#golfswing, #golfgirls, #golfgirl, #fyp"
 ---

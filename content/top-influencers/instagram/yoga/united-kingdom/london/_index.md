@@ -1,24 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In London In 2022
+title: Top 10 Yoga Instagram Influencers In London In 2023
 description: >-
-  Find top yoga Instagram influencers in London in 2022. Most popular hashtags: #yogalondon #yoga #yogapractice #yogalife.
+  Find top yoga Instagram influencers in London in 2023. Most popular hashtags: #yogalondon #yogapractice #yogainspiration #yoga.
 platform: Instagram
-hits: 108
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 108 Instagram influencers like this in London, United Kingdom for you to collaborate.
+hits: 65
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 65 Instagram influencers like this in London, United Kingdom for you to contact.
 profiles:
-  - username: "manueladiago"
+  - username: "katarinarayburnyoga"
     fullname: >-
-      Manuela Diago 🧿
+      Katarina Rayburn
     bio: >-
-      Bliss Through Yoga 💫 Certified Yoga Instructor 🔻 DM for Private Sessions • ENG • ESP • FR • - @freskincare Ambassador Business Developer🔸 📍LDN
+      🌏yoga classes, trainings & retreats worldwide 🌿founder @kindredyogalife studio London & online 🍋@lululemonuk ambassador 🧿@creativementornetwork mentor
     location: "United Kingdom"
-    followers: 5145
-    engagement: 1493
-    commentsToLikes: 0.074674
-    id: ckap4u2ze8vxu0i78x776vxzw
+    followers: 16704
+    engagement: 234
+    commentsToLikes: 0.041016
+    id: ckf5wwoi7tgc60j23smvpyb6d
     verified: false
-    hashtags: "#yogainspiration, #yogagirl, #yoga, #yogapractice"
+    hashtags: "#lululemonambassador, #yoga, #mandalavinyasa, #livestreamyoga"
   - username: "_alexnino_"
     fullname: >-
       Alex Nino
@@ -30,101 +30,101 @@ profiles:
     commentsToLikes: 0.042705
     id: ck5qcj8sdqulb0i11l59vu2ik
     verified: false
-    hashtags: "#londonyoga, #handstandlove, #backbend, #awareness"
+    hashtags: "#inversion, #inversions, #freeclass, #backbend"
+  - username: "manueladiago"
+    fullname: >-
+      Yoga & Wellness | Manu Diago 🧿
+    bio: >-
+      ━ Find your bliss with me Certified Yoga Instructor 📍LDN Book Your Session⬇️ @vitalperformance |@vitalproteins Advocate 🌍 @freskincare Ambassador
+    location: "United Kingdom"
+    followers: 7419
+    engagement: 801
+    commentsToLikes: 0.083629
+    id: ckap4u2ze8vxu0i78x776vxzw
+    verified: false
+    hashtags: "#yogamadrid, #yogaeveryday, #yogainspiration, #yogaeverywhere"
+  - username: "yogiinthecity_"
+    fullname: >-
+      Yogi In The City
+    bio: >-
+      🙏🏼 200YTT India 🧘🏻‍♀️ Sharing my journey ✨ Aspire to inspire 📍 UK 🇱🇹 Email for collaboration Discounts👇🏼
+    location: "United Kingdom"
+    followers: 8277
+    engagement: 595
+    commentsToLikes: 0.145703
+    id: ck5zl4bzbkpf30i14qcvqrvh6
+    verified: false
+    hashtags: "#alotoslowdown, #yoga4growth, #yogachallenge, #practiceyogachangeyourworld"
+  - username: "manu_d93_"
+    fullname: >-
+      Manuele D’Aquino
+    bio: >-
+      ♦️HANDBALANCE ♦️Bodyweight 🇬🇧London “MANUD5” 5%off @thehealthylivingstore For zoom classes and private handstand lessons: DM me📥 or 📱 +39 3933237558
+    location: "United Kingdom"
+    followers: 4024
+    engagement: 1177
+    commentsToLikes: 0.064179
+    id: ck5c2pzehxqrp0i11ukjpe7vz
+    verified: false
+    hashtags: "#yogaeverydamnday, #gym, #circus, #inversionjunkie"
+  - username: "dj_miss_g"
+    fullname: >-
+      Georgie Mac
+    bio: >-
+      • My Life & Travels in 📸 • DJ + founder of @trop_i_cool 🎧 • Head of Sales + PR @caviar.tv 📽 • Muma of @bella_my_frenchie 💞 📍London 🇬🇧
+    location: "United Kingdom"
+    followers: 16698
+    engagement: 313
+    commentsToLikes: 0.020998
+    id: ck0u7016s3hjq0i19gvg9tts6
+    verified: false
+    hashtags: "#neighbourhood, #igers, #freshair, #streetstyle"
   - username: "mageesy"
     fullname: >-
       Chris Magee
     bio: >-
       YOGA TEACHER | FRCms 𝕀𝕟𝕤𝕡𝕚𝕣𝕒𝕥𝕚𝕠𝕟 & 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 Head of Yoga @psyclelondon Founder and Lead teacher @empoweredyogaschool Practice with me 👇🏼
     location: "United Kingdom"
-    followers: 32649
-    engagement: 180
-    commentsToLikes: 0.104667
+    followers: 32700
+    engagement: 129
+    commentsToLikes: 0.101635
     id: ck5hk7jj8hxel0i11213rylns
     verified: false
-    hashtags: "#yogalondon, #yogaathome, #handstand, #handstandpractice"
-  - username: "yogiinthecity_"
-    fullname: >-
-      Yogi In The City
-    bio: >-
-      🙏🏼 200YTT India 🧘🏻‍♀️ Sharing my journey ✨ Aspire to inspire 📍 UK @vayumudra @sageandkokoa 15% yogi15 @freskincare 👇🏼
-    location: "United Kingdom"
-    followers: 8045
-    engagement: 693
-    commentsToLikes: 0.166099
-    id: ck5zl4bzbkpf30i14qcvqrvh6
-    verified: false
-    hashtags: "#yogaasana, #yoga4growth, #yogajourney, #yogalondon"
-  - username: "katarinarayburnyoga"
-    fullname: >-
-      Katarina Rayburn
-    bio: >-
-      E-RYT®500 OWNER @kindredyogalife @lululemonuk Ambassador Classes:Live Stream & On Demand RETREAT:KENYA-FEB PAROS-JUL 🎦 @movementformodernlife
-    location: "United Kingdom"
-    followers: 15946
-    engagement: 312
-    commentsToLikes: 0.040388
-    id: ckf5wwoi7tgc60j23smvpyb6d
-    verified: false
-    hashtags: "#livestreamyoga, #londonyoga, #yogaretreats, #kindredyogalife"
-  - username: "sarah_drai"
-    fullname: >-
-      Sarah Drai
-    bio: >-
-      Meditation & Yoga teacher 🧘🏻‍♀️ Featured in TATLER & Yoga Magazine Founder of @Yogi2Me Ambassador @lululemonuk & @beder_uk To practice with me👇🏼
-    location: "United Kingdom"
-    followers: 6571
-    engagement: 499
-    commentsToLikes: 0.102066
-    id: ckaora0awmcyy0i78jvsvyc6k
-    verified: false
-    hashtags: "#learntomeditate, #thefrenchyyogini, #yogapractice, #onlineyogaclasses"
-  - username: "sigismondiphotography"
-    fullname: >-
-      Alessandro Sigismondi
-    bio: >-
-      Photography | Video Productions | Learn with me My #yogaphotography Course on @omstarsofficial code: SIGIS1MONTH 👇🏼
-    location: "United Kingdom"
-    followers: 40918
-    engagement: 124
-    commentsToLikes: 0.069767
-    id: ck0w3pvnlunrh0i198iupk0md
-    verified: false
-    hashtags: "#photographycourse, #yogaphotoremix, #yogalife, #yogaeverywhere"
-  - username: "emilymouufit"
+    hashtags: "#onlineyoga, #handstand, #handstandpractice, #tseambassador"
+  - username: "emilymouu"
     fullname: >-
       EMILY/ Yoga for Athletes & PT
     bio: >-
-      @studioyogalondon 🙏🏽 Yoga Instructor 💪🏽 Personal trainer 🌎 Content creator 📩emssocial@hotmail.com
+      🙏🏽 Yoga for Athletes 💪🏽 Personal trainer 🧘🏽‍♀️ 1-1s / Classes @studioyogalondon 📩 emssocial@hotmail.com
     location: "United Kingdom"
-    followers: 32321
-    engagement: 123
-    commentsToLikes: 0.105522
+    followers: 35558
+    engagement: 261
+    commentsToLikes: 0.042541
     id: ck0w5ihy73sm50i19w1efkb6x
     verified: false
-    hashtags: "#pairyoga, #partneryoga, #fableticsukambassador, #mp"
-  - username: "acroyogaballerina"
+    hashtags: "#ad, #yogatutorials, #yogatherapy, #teamusn"
+  - username: "esthermarieyoga"
     fullname: >-
-      P I P  E L Y S I U M
+      Esther Marie
     bio: >-
-      🏛 @schoolofacroyoga ⬇️⬇️ Eco Fashion & Yoga Playlists ⬇️⬇️
+      ≈ yoga ⥁ self care ⥁ mental wellbeing ⥁ teacher + speaker ⋒ tools + teachings to help YOU grow ⇢ @yoga.beyond.asana ⌄ practice with me ⌄
     location: "United Kingdom"
-    followers: 21928
-    engagement: 402
-    commentsToLikes: 0.057351
-    id: ck0tzgs96qd8g0i19ul6s5wf2
+    followers: 110547
+    engagement: 150
+    commentsToLikes: 0.032484
+    id: ck55nqtfg6s6u0i11ma6g9tdx
     verified: false
-    hashtags: "#schoolofacroyoga, #handstand, #kittenflow, #acroyogaballerina"
-  - username: "yoga_charlie"
+    hashtags: "#yogafun, #yogaforbeginners, #yogaforall, #frombodytomind"
+  - username: "adamhusler"
     fullname: >-
-      Charlie Yoga
+      Adam Husler
     bio: >-
-      
+      🌍 Yoga in London, Online & Global Trainings 🎧 Honestly Unbalanced Podcast 👰🏼@iamhollyhusler & @thehuslers Online Platform 🏠Renovating Surrey Cottage
     location: "United Kingdom"
-    followers: 3009
-    engagement: 660
-    commentsToLikes: 0.050710
-    id: ck9wf1zz7mxnq0j7821c6pbo9
+    followers: 57544
+    engagement: 248
+    commentsToLikes: 0.028075
+    id: ck0vwvcxovs3g0i19r3rx5qvo
     verified: false
-    hashtags: "#brightonyoga, #yogaposes, #yogalove, #yogajourney"
+    hashtags: "#yogateacher, #yogainspiration, #yogamen, #mystressstory"
 ---

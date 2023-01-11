@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Serbia In 2022
+title: Top 10 TikTok Influencers In Serbia In 2023
 description: >-
-  Find top TikTok influencers in Serbia in 2022. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top TikTok influencers in Serbia in 2023. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
-hits: 292
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 292 TikTok influencers like this in Serbia for you to collaborate.
+hits: 303
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 303 TikTok influencers like this in Serbia for you to contact.
 profiles:
-  - username: "jahsehonfroyfp"
+  - username: "elena.stojcevski"
     fullname: >-
-      JAHSEH'S FP! LLJ RIP
+      Elena
     bio: >-
-      LLJ💚🖤
+      📧stojcevski.elenaa@gmail.com📧 instagram: elenastojcevski
     location: "Serbia"
-    followers: 6982
-    engagement: 2710
-    commentsToLikes: 0.118902
-    id: ckcvgvm0qtf390j23ku2gqrzw
+    followers: 565800
+    engagement: 1561
+    commentsToLikes: 0.020322
+    id: ckdi6n56j86ll0j23odndv1g6
     verified: false
-    hashtags: "#draketrash, #xxxtentacion, #badvibesforever, #capcut"
-  - username: "jazznikola"
+    hashtags: "#foryou, #foryoupage, #fyp, #viral"
+  - username: "lalicmilos"
     fullname: >-
-      Nikola Mirosavić
+      Lalić Miloš
     bio: >-
-      Nisi u toku ako te nema na Tik Toku.
+      Ceo of ✨Isprobavam stvari od kineza✨ 👈
     location: "Serbia"
-    followers: 6560
-    engagement: 2207
-    commentsToLikes: 0.162460
-    id: ckbqdw6twzu1w0j238nf4uzto
+    followers: 338400
+    engagement: 1328
+    commentsToLikes: 0.034515
+    id: ckdckabrymayn0j23cxkhd8fu
     verified: false
-    hashtags: "#serbia, #music, #foryou, #srbija"
-  - username: "totemiaa"
+    hashtags: "#stitch, #lalicmilos, #gaming"
+  - username: "ukiqukiq"
     fullname: >-
-      Totemia
+      Una
     bio: >-
-      Youtuber 🎥 | Animation student 💻 | Human of Akane and Katsu 🐕
+      Mnooogo sam gora nego sto vam pričaju... SHOP👇🏼
     location: "Serbia"
-    followers: 215800
-    engagement: 1937
-    commentsToLikes: 0.035951
-    id: ckc8ixa6bcg7z0j23xiyg8haa
+    followers: 1200000
+    engagement: 992
+    commentsToLikes: 0.043665
+    id: ck9c93k4zthoz0j78f0idhpva
     verified: false
-    hashtags: "#foryoupage, #foryou, #totemia, #fyp"
+    hashtags: "#stitch"
+  - username: "whutmelios"
+    fullname: >-
+      ˗ˋ 𝑚𝑖𝑎 ˊ˗
+    bio: >-
+      𝘀𝗵𝗲/𝗵𝗲𝗿 𝗶 𝘄𝗮𝘀 𝗸𝗻𝗼𝘄𝗰𝗵𝗿!🐻‍❄️ α𝗹𝗹 𝘀𝗺𝗶𝗹𝗲𝘀 𝗵𝗲𝗿𝗲 ☻
+    location: "Serbia"
+    followers: 3981
+    engagement: 1758
+    commentsToLikes: 0.142857
+    id: ckb9p5os7jx4g0j23kt7vbcuz
+    verified: false
+    hashtags: "#atvriding, #adventure, #cforce550, #quad"
+  - username: "vicostein"
+    fullname: >-
+      Vuk Vico
+    bio: >-
+      Vicoštajn ✅ CONTACT - vicosteinbusiness@gmail.com📩 ⬇️Youtube video⬇️
+    location: "Serbia"
+    followers: 604800
+    engagement: 1675
+    commentsToLikes: 0.036625
+    id: ckbbtgcwvgx8k0j23yldlwyuy
+    verified: false
+    hashtags: "#stitch, #duet"
+  - username: "skrimerx_"
+    fullname: >-
+      Zeljana Jevtic 
+    bio: >-
+      E-Mail📩 @zeljanajevtic12@gmail.com 🐝🐝🐝🐝🐝🐝🐝 🇷🇸🇷🇸🇷🇸🇷🇸🇷🇸🇷🇸🇷🇸
+    location: "Serbia"
+    followers: 428400
+    engagement: 1585
+    commentsToLikes: 0.015847
+    id: ckbabsxy84bl20j230vtzz1f4
+    verified: false
+    hashtags: "#foreyou, #love, #loveyou, #frendship"
   - username: "factslobby"
     fullname: >-
       facts only for you ❤
     bio: >-
-      FACE REVEAL↗️ Follow If You This Read Wrong factslobby@delkatalents.com
+      your daily dose of the best facts! factslobby@manycreators.com
     location: "Serbia"
-    followers: 2200000
-    engagement: 2228
-    commentsToLikes: 0.014000
+    followers: 2400000
+    engagement: 1395
+    commentsToLikes: 0.011628
     id: ck83zoo5r1o2x0j78tpl8x230
     verified: false
-    hashtags: "#fact, #tickle, #tickling, #boys"
+    hashtags: "#fact, #girls, #relationship, #psychology"
   - username: "neckezz1"
     fullname: >-
       Neckezz
     bio: >-
       Profil od Neckezz sa YouTube-a imate link u opisu profila
     location: "Serbia"
-    followers: 2328
-    engagement: 1594
-    commentsToLikes: 0.128882
+    followers: 2266
+    engagement: 1721
+    commentsToLikes: 0.143843
     id: ckbkhs1dm9tc40j23gt07a10o
     verified: false
     hashtags: "#fyppage, #workoutwithteamgb, #idegas, #idepas"
-  - username: "lalicmilos"
+  - username: "_anndrea_7"
     fullname: >-
-      Miloš
+      flw for flw
     bio: >-
-      ▪️instagram: lalicmilos_official
+      Andrea 😜🐶🏀 Osnovan acc 31.10.18 Snimam sve i svasta🎬💡 1k=17.3.20🥰 ⚫⚪
     location: "Serbia"
-    followers: 196500
-    engagement: 2144
-    commentsToLikes: 0.021785
-    id: ckdckabrymayn0j23cxkhd8fu
+    followers: 3031
+    engagement: 1601
+    commentsToLikes: 0.131715
+    id: ckbbm1njma9wq0j2368uel66z
     verified: false
-    hashtags: "#tutorial, #dexycokids, #lalicmilos, #galerija"
-  - username: "arsaovde"
+    hashtags: "#fyp, #fffffyyyyyyppppp, #foryou, #fypplizz"
+  - username: "jahsehonfroyfp"
     fullname: >-
-      Arsa
+      llj
     bio: >-
-      19 ⬇️⬇️⬇️ INSTAGRAM: @arsaovde CEO of 100 bodova 📥 arsenijevicmarko01@gmail.com
+      LLJ 30k?😳❤
     location: "Serbia"
-    followers: 225600
-    engagement: 2091
-    commentsToLikes: 0.036124
-    id: ckdhvqqlr3vlc0j23pissyqqj
+    followers: 30900
+    engagement: 1616
+    commentsToLikes: 0.067774
+    id: ckcvgvm0qtf390j23ku2gqrzw
     verified: false
-    hashtags: "#viral, #balkan, #foryou, #tiktok"
-  - username: "bts.offcial.7"
-    fullname: >-
-      BTS🥺🥰
-    bio: >-
-      5304 armys💜 ✨ you are beautiful ✨
-    location: "Serbia"
-    followers: 5322
-    engagement: 3427
-    commentsToLikes: 0.105276
-    id: ckb8zo7v6f7zs0j23sqqaxvc6
-    verified: false
-    hashtags: "#foryou, #jungkook, #fyp, #foryoupage"
-  - username: "sale.vadras"
-    fullname: >-
-      sale.69
-    bio: >-
-      
-    location: "Serbia"
-    followers: 22200
-    engagement: 2418
-    commentsToLikes: 0.155154
-    id: ckbqnkc2z8fkz0j23xgniw5nc
-    verified: false
-    hashtags: "#ilovemydog, #puppies, #petstiktok, #chickendance"
-  - username: "lana.kovacevicc"
-    fullname: >-
-      Lana Kovačević
-    bio: >-
-      🐊 Rihanna stan face reveal has left the chat... R.I.P. grade in geography 🌾🎨
-    location: "Serbia"
-    followers: 11900
-    engagement: 2261
-    commentsToLikes: 0.098697
-    id: ckae4oen83ci60i78rzzl2qpc
-    verified: false
-    hashtags: "#actives, #xzbyca, #tiktokpoll, #ineedactives"
+    hashtags: "#fuxkxkillers, #xxxfamilia, #imdontai, #xxxtentacion"
 ---

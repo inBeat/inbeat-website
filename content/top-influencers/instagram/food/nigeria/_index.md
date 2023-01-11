@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Nigeria In 2022
+title: Top 10 Food Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top food Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #endpolicebrutality #style #explore.
+  Find top food Instagram influencers in Nigeria in 2023. Most popular hashtags: #food #explore #ootd.
 platform: Instagram
-hits: 65
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 65 Instagram influencers like this in Nigeria for you to work with.
+hits: 24
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 24 Instagram influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "thetosintoge"
-    fullname: >-
-      Tosin Toge||Fashion||Blogger
-    bio: >-
-      Fashion|Travel|Lifestyle|Food Content Strategist||Pharmacist ||Social Media Manager 📩: info.thetosintoge@gmail.com
-    location: "Nigeria"
-    followers: 6640
-    engagement: 839
-    commentsToLikes: 0.176589
-    id: ckf5t3jp2gula0j23ej9i7x5i
-    verified: false
-    hashtags: "#ad, #blackbloggersclub, #explore, #nigerianfashionbloggers"
-  - username: "glow_riiee"
-    fullname: >-
-      ⓖⓛⓞⓡⓨ 🇳🇬
-    bio: >-
-      BEST SMILE ON THE GRAM✨ Face of : @styledby_cents Foodie: @foodie_by_glow Tw: Caramel_figure • Student of Law • Content Creator • Style Enthusiast
-    location: "Nigeria"
-    followers: 58350
-    engagement: 567
-    commentsToLikes: 0.027834
-    id: ck6tvfx94m0fv0j71uiqgj1sa
-    verified: false
-    hashtags: "#explorepage, #glow, #endsarsbrutality, #smile"
   - username: "omollara"
     fullname: >-
       ⓄⓂⓄⓁⒶⓇⒶ Obafemi || Entrepren”
     bio: >-
       GOD💖 ▫️YOUTUBER || FASHION DESIGNER || MAKEUP ARTIST || FOODIE ▫️PSYCHOLOGIST🎓 ▫️BUSINESS ACC @marbsplace ▫️TWITTER- @omollara_ 📍Visit my YT channel👇🏽
     location: "Nigeria"
-    followers: 2779
-    engagement: 840
-    commentsToLikes: 0.126749
+    followers: 2770
+    engagement: 794
+    commentsToLikes: 0.122348
     id: ck5q9p0quc8ze0i11eifkgehh
     verified: false
-    hashtags: "#endswat, #endpolicebrutality, #stayhome, #endsars"
-  - username: "bigbellytay"
+    hashtags: "#indomie, #stayhome, #staysafe, #endsars"
+  - username: "horlaroflagos"
     fullname: >-
-      B.H
+      Bolarinwa Y.O
     bio: >-
-      music | culture x strategy | food Cookstar @bigbellyktchn #TheBellybration ___ #reBELLYus
+      OLOUNJE EKO 🤟🏾 Local Guide 🥇 Photographer 🥈 Lifestyle|Fashion|Food Enthusiast 🥉 Media Strategist • Photography + Lifestyle = 💯😍❤️
     location: "Nigeria"
-    followers: 2602
-    engagement: 1433
-    commentsToLikes: 0.079473
-    id: ck0w0uligg40w0i19qiy182ee
+    followers: 27542
+    engagement: 588
+    commentsToLikes: 0.036266
+    id: ck5c9qdqzbwuz0i111eypf4jw
     verified: false
-    hashtags: "#bigbellylamba, #retropalooza, #thebellybration, #toolatetorun2020"
-  - username: "ruqayyah_dp"
+    hashtags: "#fakelife, #badcommentsthemovie, #calltobar"
+  - username: "official_marylove"
     fullname: >-
-      #ENDSARS
+      Mary Love
     bio: >-
-      Fashion Enthusiast Food || Lifestyle Founder @dreamwearsonline Stylist @stylebyruqayyah
+      Content Creator Comedian Actor Humanitarian Ambassador “Picky Foodie”🍲 Liberian God’s Chosen For business inquires, email bookmarylove@gmail.com
     location: "Nigeria"
-    followers: 43809
-    engagement: 185
-    commentsToLikes: 0.029836
-    id: ck8t08bw7r64k0j78k8w1ater
+    followers: 25170
+    engagement: 858
+    commentsToLikes: 0.089238
+    id: ck6uhw7tfblk30j7151a0yzgd
     verified: false
-    hashtags: "#styleinfluencer, #modeststyleinfluencer, #styleinspiration, #modestbrandinflencer"
-  - username: "hadizaalawal"
+    hashtags: "#commentlikeshare, #foryou, #explore, #pressplay"
+  - username: "maureenkunga"
     fullname: >-
-      Wovenblends
+      Maureen Kunga
     bio: >-
-      Founder: Wovenblends I’m your girl for food and looks. 📩 Let’s work 👇 Wovenblends@gmail.com
+      Singer, Songwriter, YouTuber, Advocate of the High Court of Kenya. 1 of @elanimuziki. Music, Love, Light, Food and Hair and Health! (That sums it up!)
     location: "Nigeria"
-    followers: 24639
-    engagement: 183
-    commentsToLikes: 0.052960
-    id: ck8t4u9wc7yai0j78mldvs768
+    followers: 279405
+    engagement: 127
+    commentsToLikes: 0.053949
+    id: ck5zqdvs1ufaj0i14cbzgbjta
+    verified: true
+    hashtags: "#cashmoney, #mkgiveaway, #35000, #supportkebusinesses"
+  - username: "ifys.kitchen"
+    fullname: >-
+      Ify's Kitchen (KITCHEN QUEEN)⭐
+    bio: >-
+      Brand Ambassador for @mamadorng 🏆Award winning food blogger 📍 Instructor #cookwithify 📩 Ads/Biz - ifyskitchen1@gmail.com 📽 Learn to cook like a pro👇
+    location: "Nigeria"
+    followers: 581452
+    engagement: 71
+    commentsToLikes: 0.057919
+    id: ck13ay30csr050i1982459fz6
     verified: false
-    hashtags: "#quarantinebirthday, #ad, #taurusgang, #lostinacity"
-  - username: "diaryofakitchenlover"
+    hashtags: "#foodblogger, #nigerianfoodblogger, #weightloss, #youtuber"
+  - username: "val.hilda"
     fullname: >-
-      Tolani | Can | Cook
+      Titi ChopLife 💸🦩
     bio: >-
-      WINNER, STERLING BANK’S JOLLOF MASTER 2020🏆 👩‍🍳 Unique Food Blogger and Influencer 👩‍🍳 Food Photograher/Videographer 💇‍♀️Alter Ego @slaybytolani
+      |Psychologist |Brand Strategist |Foodie 🤡 I make people laugh sometimes 👸🏽 @thehungrylagosian @glamhqbyhilda @the_clearout_store Visit my blog👇🏽
     location: "Nigeria"
-    followers: 175756
-    engagement: 244
-    commentsToLikes: 0.061745
-    id: ck6u7zfb1ojwn0j71n5dcn904
+    followers: 20971
+    engagement: 553
+    commentsToLikes: 0.055654
+    id: ck5byqwvopnz10i11cyrhec8y
     verified: false
-    hashtags: "#lagosfood, #recipecreator, #foodstylist, #foodblogging"
-  - username: "chef_muse"
+    hashtags: "#explorepage, #ootd, #reels, #blackgirlmagic"
+  - username: "modernafricankitchen"
     fullname: >-
-      Chef Muse
+      Modern African Kitchen
     bio: >-
-      Cuisine Addict | Private Chef|Food Stylist| Consultant. Chef Instructor @Reddishchronicles #RDCAlumni | thechefmuse@gmail.com FCT Abuja, Nigeria
+      ➡️ Content creator ➡️ Food vendor ➡️ Young Nigerian ➡️ Masters student ➡️ Dm to order delicious meals ➡️ Only for those in North Cyprus
     location: "Nigeria"
-    followers: 16079
-    engagement: 392
-    commentsToLikes: 0.074865
-    id: ckap6y1d3huaa0i78ytftxqy9
+    followers: 56405
+    engagement: 93
+    commentsToLikes: 0.040444
+    id: ck13cnr4119k20i19o4atl14v
     verified: false
-    hashtags: "#killerchef, #wearerdc, #abuja, #nigeriamustbegreatagain"
-  - username: "tijesu.o"
+    hashtags: "#foodlover, #explore, #northcyprusfoodvendor, #naijafoodies"
+  - username: "oliveemodi"
     fullname: >-
-      Olupekan Tijesunimi
+      Olive Emodi
     bio: >-
-      Fashion/Food lover + Digital creator 📩 olupekantijesunimi@gmail.com
+      MC | TV Host | TV Producer | Actor | Fashion, Food and Travel Influencer | Lawyer | Jesus Baby Founder @theoliveemodinetwork 📧mgt.oliveemodi@gmail.com
     location: "Nigeria"
-    followers: 10584
-    engagement: 827
-    commentsToLikes: 0.117632
-    id: ck0tvv3bfcx2x0i19qum3r0op
-    verified: false
-    hashtags: "#ootdfashion, #blackfashionblogger, #fashionaddict, #fashionblogger"
-  - username: "aromaarena"
-    fullname: >-
-      AromaArena | Cooking Solutions
-    bio: >-
-      🌹FoodContentCreator | YouTuber | CulinaryGenius 📌Founder @meatballs.ng 📌Order Meals @aromaarenanaija 📌Cooking Instructor 📌👇PRE ORDER EBOOK
-    location: "Nigeria"
-    followers: 82168
+    followers: 72267
     engagement: 125
-    commentsToLikes: 0.052375
-    id: ck6ug8mpm1k580j712dwgagam
+    commentsToLikes: 0.099756
+    id: ck5bv7cygj48n0i11awagfpxh
+    verified: true
+    hashtags: "#love, #beatingcorona, #nigeria, #oliveemodi"
+  - username: "mottieskitchen"
+    fullname: >-
+      LAGOS FOOD VENDOR
+    bio: >-
+      👨‍🍳 catering chef 👨‍🍳Event catering 👨‍🍳Bulk food orders 👨‍🍳Lunch packs 👨‍🍳Food tray 👨‍🍳private Chef 👨‍🍳24hrs on all orders ☎️ 08067143865
+    location: "Nigeria"
+    followers: 7813
+    engagement: 565
+    commentsToLikes: 0.026294
+    id: ckaosz9nxtoc50i78f5unv920
     verified: false
-    hashtags: "#nigerianfoodblogger, #westafricancuisine, #africanfoodie, #foodinabuja"
+    hashtags: "#lagosfoodvendor, #simvendors, #surprisedeliveryinlagos, #afternoonsales"
+  - username: "giancardinale"
+    fullname: >-
+      Gianni Cardinale
+    bio: >-
+      |God first 🙏🏼🙏🏼|Disciple| . Hair is my passion , Stylist/Educator @menspiresalon https://menspire.co.uk/education/ukcourses/1to1/
+    location: "Nigeria"
+    followers: 34399
+    engagement: 208
+    commentsToLikes: 0.012706
+    id: ck55kcmh7yznc0i11m7lsl52a
+    verified: false
+    hashtags: ""
 ---

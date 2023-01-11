@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Ukraine In 2022
+title: Top 10 Beauty TikTok Influencers In Ukraine In 2023
 description: >-
-  Find top beauty TikTok influencers in Ukraine in 2022. Most popular hashtags: #beauty #foru #foryou #girl.
+  Find top beauty TikTok influencers in Ukraine in 2023. Most popular hashtags: #beauty #love #shooting #travel.
 platform: TikTok
-hits: 22
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 22 TikTok influencers like this in Ukraine for you to contact.
+hits: 18
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 18 TikTok influencers like this in Ukraine for you to collaborate.
 profiles:
+  - username: "makeuptime.ig"
+    fullname: >-
+      Makeuptime
+    bio: >-
+      Best beauty content in one place 💋 Follow Me On Instagram 👆❤️
+    location: "Ukraine"
+    followers: 33600
+    engagement: 477
+    commentsToLikes: 0.003810
+    id: ck9ev8iqoh78n0j787bxxk1ef
+    verified: false
+    hashtags: "#hairstylest, #hairstyle, #makeuptutoria, #makeupgoal"
   - username: "kotova75"
     fullname: >-
       Аннета
     bio: >-
       Живу ярко и красиво!🔞🔥😎 Делюсь эмоциями тут 💃сотрудничество в инст: kotova75
     location: "Ukraine"
-    followers: 114900
-    engagement: 571
-    commentsToLikes: 0.009958
+    followers: 112900
+    engagement: 498
+    commentsToLikes: 0.011088
     id: ck9rbs1ciqjbb0j789e9e7lr4
     verified: false
-    hashtags: "#beautygirl, #badgirl, #luxury, #saxygirl"
-  - username: "makeuptime.ig"
-    fullname: >-
-      Makeuptime
-    bio: >-
-      Follow Me On Instagram 👆❤️
-    location: "Ukraine"
-    followers: 34500
-    engagement: 591
-    commentsToLikes: 0.005906
-    id: ck9ev8iqoh78n0j787bxxk1ef
-    verified: false
-    hashtags: ""
+    hashtags: "#modelukraine, #girls, #beautygirl, #luxurygirls"
   - username: "alexsinaa"
     fullname: >-
       Alexis 🍒
     bio: >-
       
     location: "Ukraine"
-    followers: 1880
-    engagement: 272
-    commentsToLikes: 0.006869
+    followers: 1871
+    engagement: 271
+    commentsToLikes: 0.006852
     id: ck95wdija1jym0j7859xu3nlr
     verified: false
-    hashtags: "#skywatcher, #photography, #prilaga, #love"
-  - username: "pchelaman"
+    hashtags: "#skywatcher, #cloud, #photography, #instagood"
+  - username: "troom_troom.select"
     fullname: >-
-      Пчела 🐝
+      Troom Troom SELECT
     bio: >-
-      Подпишись на меня в инсте🥰 @pchela54 Отвечаю всем😘
+      Magic tricks, DIYs, Lifehacks & Pranks! ;-)
     location: "Ukraine"
-    followers: 656000
-    engagement: 1261
-    commentsToLikes: 0.020827
-    id: ckbwbypiy0tfj0j23l985c864
-    verified: false
-    hashtags: "#amongus, #tutorial, #pchelaman, #frisbee"
-  - username: "volkova.arts"
-    fullname: >-
-      Lissie Volkova
-    bio: >-
-      Celebrities + Disney FOLLOW INSTAGRAM FOR MORE
-    location: "Ukraine"
-    followers: 92800
-    engagement: 1325
-    commentsToLikes: 0.012771
-    id: ckb98mnxdsa1z0j23dd6fpy8x
-    verified: false
-    hashtags: "#glowup, #dailyart, #frozen, #procreate"
-  - username: "prynker_1"
-    fullname: >-
-      👊🍬  ｓн𝕐𝓻𝕀к  ☜🐣
-    bio: >-
-      РАБОТАЮ КУРЬЕРОМ 🚛 🎯 100.000 🤞до НГ СМОТРИ МОИ СТОРИЗ⤴️
-    location: "Ukraine"
-    followers: 18400
-    engagement: 1193
-    commentsToLikes: 0.018258
-    id: cka0yncwrby1w0i78fxtm54g2
-    verified: false
-    hashtags: "#pov, #foru, #prynker, #foryou"
+    followers: 945500
+    engagement: 1593
+    commentsToLikes: 0.008579
+    id: ckcdkmphl9cm90j231f9up80g
+    verified: true
+    hashtags: "#situations, #for24hours, #dad, #troomtroomselect"
   - username: "holubmaksym"
     fullname: >-
       Holub Maksym
     bio: >-
       В рідному Києві стаються прості зрозумілі, а іноді загадкові і дивні речі.
     location: "Ukraine"
-    followers: 29000
-    engagement: 571
-    commentsToLikes: 0.030931
+    followers: 28500
+    engagement: 566
+    commentsToLikes: 0.029456
     id: cka0w1n200zpu0i78qhd2n4ok
     verified: false
-    hashtags: "#kyiv, #shooting, #serial, #movie"
-  - username: "lalilu"
+    hashtags: "#shooting, #kyiv, #movie, #serial"
+  - username: "azir_jan"
     fullname: >-
-      LaLiLu
+      😳 AZIR.JAN 😂
     bio: >-
-      Easy DIY "how to make" video tutorials for parents and creative people.
+      МИР ЛАЙФДЖАНОВ 🎉 ПАДПИСДЖАНЫ МОИ❤️🐒 Жду вас⬆️👉 Инстаграм Azir_jan_
     location: "Ukraine"
-    followers: 498700
-    engagement: 1478
-    commentsToLikes: 0.003815
-    id: ck81s6he0qc7p0j7801ce016a
-    verified: true
-    hashtags: "#ideas, #pregnant, #doll, #dolls"
-  - username: "user7893930200181"
-    fullname: >-
-      kino_go
-    bio: >-
-      🎬Лучшие моменты кино🍿
-    location: "Ukraine"
-    followers: 9198
-    engagement: 1130
-    commentsToLikes: 0.035034
-    id: ck83x3ftmnyck0j78vyay4jfv
+    followers: 281800
+    engagement: 1084
+    commentsToLikes: 0.006615
+    id: ck8fc24kv638p0j78e4vyblg4
     verified: false
-    hashtags: "#kino, #smile, #toptags, #girl"
-  - username: "4ak1"
+    hashtags: "#lifehacks, #kavkaz, #lifehack, #almaty"
+  - username: "yuriy.rybak"
     fullname: >-
-      ImmaHoodBaby
+      Yuriy_Rybak
     bio: >-
-      ⛓Not lucky I’m blessed // I hang out & I get paid IG: immahoodbaby CHUCKY
+      📈Investor 🎬Blogger 🚀Entrepreneur 🌍Traveling The World 🎥34K On YouTube
     location: "Ukraine"
-    followers: 162000
-    engagement: 1360
-    commentsToLikes: 0.005221
-    id: ck8fc0j2p5tnt0j78clfpdh6w
+    followers: 7014
+    engagement: 614
+    commentsToLikes: 0.023005
+    id: ckceli3iivcw80j23t1fq05nd
     verified: false
-    hashtags: "#fyp, #toptopchallenge, #foru, #ycc"
+    hashtags: "#relationship, #travel, #business, #alberta"
+  - username: "vitali_lel"
+    fullname: >-
+      Vitali
+    bio: >-
+      2D animator
+    location: "Ukraine"
+    followers: 15800
+    engagement: 632
+    commentsToLikes: 0.006696
+    id: ck9si74dwx5re0j78twtqx68g
+    verified: false
+    hashtags: "#animade, #spine, #anime, #animator"
+  - username: "ann_tenn"
+    fullname: >-
+      Ann ten
+    bio: >-
+      🏝😄🏝😄🏝😄🏝😄
+    location: "Ukraine"
+    followers: 14800
+    engagement: 282
+    commentsToLikes: 0.000000
+    id: ckc7gt3bip9dj0j23ta6cf10h
+    verified: false
+    hashtags: "#turbo, #exust, #jz, #subaru"
+  - username: "lilovivang"
+    fullname: >-
+      Lilo 😍
+    bio: >-
+      
+    location: "Ukraine"
+    followers: 6722
+    engagement: 279
+    commentsToLikes: 0.004364
+    id: cka0mmzwww2wy0i78xm08l40r
+    verified: false
+    hashtags: "#girls, #paris, #spain, #picoftheday"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Barcelona In 2022
+title: Top 10 Models Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top models Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #model #fashion #photooftheday.
+  Find top models Instagram influencers in Barcelona in 2023. Most popular hashtags: #model #barcelona #happy #fashion.
 platform: Instagram
-hits: 201
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform has 201 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 148
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 148 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "adriiprrp"
+  - username: "jordirodriguezmoreno"
     fullname: >-
-      A D R I I P R R P ⚖️
+      Jordi Rodriguez Moreno
     bio: >-
-      • 🎥 Fotógrafo & Filmmaker • 📩 Precios por direct
+      📍 Barcelona 🏳️‍🌈 ✍🏻/ mi verdad más oculta ( mi libro) disponible en Amazon. Tik tok: 1,4M @jordirodriguezmorenoo jordi.rodriguez@lolitamanager.es
     location: "Spain"
-    followers: 76384
-    engagement: 276
-    commentsToLikes: 0.028262
-    id: ck6tm1fod70mj0j71qjg8726t
+    followers: 214771
+    engagement: 294
+    commentsToLikes: 0.008401
+    id: ck6tml3se81gb0j71iyxqckql
     verified: false
-    hashtags: "#shooting, #750, #picoftheday, #nikonportrait"
-  - username: "mariajose_rogo"
+    hashtags: "#top, #model, #barcelona, #tiktok"
+  - username: "judywhitee"
     fullname: >-
-      MJ
+      ✨𝕁𝕦𝕕𝕪 𝕎𝕙𝕚𝕥𝕖✨
     bio: >-
-      📍| 🇪🇸 💃🏽| Bailarina 👗| Fashion 🏋🏼‍♀️| Deportista 🐶| Animal lover
+      𝚂𝚝𝚛𝚎𝚊𝚖𝚎𝚛 🎮 𝙼𝚘𝚍𝚎𝚕𝚘 𝚙𝚎𝚝𝚒𝚝𝚎 📸 𝙵𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚜 𝙳𝙼 📥 𝚂𝚙𝚊𝚒𝚗📍 👩‍❤️‍💋‍👨🌹𝟚𝟚-𝟘𝟛-𝟚𝟙 🐼❤
     location: "Spain"
-    followers: 44630
-    engagement: 482
-    commentsToLikes: 0.039776
-    id: ck6tlxrz46tw20j710r1ay8mb
+    followers: 9818
+    engagement: 497
+    commentsToLikes: 0.031737
+    id: ck15uii0unc7l0i19ofrr3tn0
     verified: false
-    hashtags: "#summer, #travel, #cool, #sesionfotografica"
-  - username: "helen_felis"
+    hashtags: "#model, #beauty, #faldabrillante, #christmasphotoshoot"
+  - username: "romypazart"
     fullname: >-
-      modelo en españa
+      Romy Paz
     bio: >-
-      Modelo 📸 entrenador/ фитнес Тренер 🏋🏻 Дважды мама Уехала жить в Испанию 🇪🇸 Cooperación: @helena_cooperation Магазин @style_shop_uk_
+      -𝘔𝘰𝘥𝘦𝘭𝘰 y Actriz - Presentadora de Tv en Hola País PAT -𝘙𝘦𝘪𝘯𝘢 𝘥𝘦𝘭 𝘊𝘢𝘳𝘯𝘢𝘷𝘢𝘭 𝘊𝘳𝘶𝘤𝘦ñ𝘰 2020 -Premio Joven Modelo SCZ 2018 -Chica Calendario El Deber 2018
     location: "Spain"
-    followers: 450957
-    engagement: 89
-    commentsToLikes: 0.021477
-    id: ck5pxa29rqszx0i11wjd6ynmd
+    followers: 65671
+    engagement: 203
+    commentsToLikes: 0.015276
+    id: ck5zxh7g0807p0i1403potfyx
     verified: false
-    hashtags: "#modelosvalencia, #photo, #models, #modelsspain"
-  - username: "rsuarezphoto"
+    hashtags: "#bolivia, #niteimagin, #sanvalent, #travel"
+  - username: "alopez_esp"
     fullname: >-
-      Ruben Suarez
+      𝑨𝑮𝑼𝑺 𝑳𝑶𝑷𝑬𝒁👻
     bio: >-
-      Fashion Photographer and Filmmaker based in Barcelona. Sponsored by @czsbackdrops
+      🍋Embajador: @le.mon.tours 🎤| Cuenta de TikTok :+530k 📥| Colaboraciones: (DM) 📲 | (jaranaagency@gmail.com)
     location: "Spain"
-    followers: 25179
-    engagement: 482
-    commentsToLikes: 0.034134
-    id: ck6ue0v2ko8ra0j718v6exejf
+    followers: 39646
+    engagement: 1762
+    commentsToLikes: 0.024443
+    id: ck5qbx209nsnm0i112r4hm7p1
     verified: false
-    hashtags: "#fashion, #me, #backdrop, #portrait"
-  - username: "barbaraders"
+    hashtags: "#parejas, #friends, #tumblr, #foryou"
+  - username: "itslaiafidalgo"
     fullname: >-
-      Barbaraders - Content Creator
+      LAIA FIDALGO
     bio: >-
-      ➳ BCN📍| COSTA BRAVA 🌊 | TARIFA ⚓️ ➳ barbaraderobles@hotmail.com ➳ Brand Ambassador ➳ Social Media Strategist ➳ Lifestyle | Fashion | Travel | Beauty
+      📍 Dancer,Choreographer & model of Barcelona 👸🏽 TikTok; itslaiafidalgo (+970k) 📥 Contact: laia@bushidotalent.com
     location: "Spain"
-    followers: 36435
-    engagement: 175
-    commentsToLikes: 0.361002
-    id: ck0ubmkylexqb0i19fwg46n1w
+    followers: 151998
+    engagement: 771
+    commentsToLikes: 0.036418
+    id: ck5cdgjzrj56o0i118eon8b58
     verified: false
-    hashtags: "#photography, #fashionista, #streetstyle, #style"
-  - username: "efradera"
-    fullname: >-
-      𝙴𝚗𝚛𝚒𝚌 𝙵𝚛𝚊𝚍𝚎𝚛𝚊
-    bio: >-
-      📸Perfection is boring 🏠Badalona, Barcelona 📩 ¿Quieres fotos? 👇🏻Mi cámara: Sony A7III
-    location: "Spain"
-    followers: 9736
-    engagement: 1279
-    commentsToLikes: 0.108721
-    id: ck9hb4gopfd6q0j78slrhqzg3
-    verified: false
-    hashtags: "#portraitsofspain, #fashionphotographyappreciation, #magnificomagazine, #sonygallery"
+    hashtags: "#mariabecerra, #jbalvin, #dancevideo, #dance"
   - username: "nayrareig"
     fullname: >-
       Nayra Reig
     bio: >-
       Run by my mum 💗Kid model & actress. Barcelona.Spain. 11 years old. Thank you for follow me!! Agency: @salvadoragency🇪🇸 @kidslondon🇬🇧
     location: "Spain"
-    followers: 6790
-    engagement: 791
-    commentsToLikes: 0.066379
+    followers: 6730
+    engagement: 745
+    commentsToLikes: 0.064967
     id: ckaoyejewh6m30i78szc4s0lj
     verified: false
-    hashtags: "#remember, #moments, #style, #barcelona"
-  - username: "itslaiafidalgo"
-    fullname: >-
-      LAIA FIDALGO
-    bio: >-
-      📍 Dancer,Choreographer & model of Barcelona 👸🏽 TikTok; itslaiafidalgo (+800k) 📥 Contact: laia@bushidotalent.com
-    location: "Spain"
-    followers: 122460
-    engagement: 1391
-    commentsToLikes: 0.032973
-    id: ck5cdgjzrj56o0i118eon8b58
-    verified: false
-    hashtags: "#spain, #explorepage, #dancevideo, #challenge"
+    hashtags: "#phoskiters, #teenmodel, #style, #fashion"
   - username: "abrilraluy"
     fullname: >-
       Abril Raluy de Jong
     bio: >-
       Check my email below... 🦋✨ spanishdutch in Barcelona, model nd psychologist rep by @wildmgmt // supporting: @savethechildren_es
     location: "Spain"
-    followers: 99699
-    engagement: 233
-    commentsToLikes: 0.014928
+    followers: 100881
+    engagement: 169
+    commentsToLikes: 0.023320
     id: ck5bvxo7uklpl0i11dqlp1fkn
     verified: false
-    hashtags: "#freeyourmind"
+    hashtags: "#pilatesstretch, #ad"
   - username: "laiayeti"
     fullname: >-
       Laia González♡
     bio: >-
       Dancer | Actress | Model 📍Barcelona | Girona 📩 DM para Colaboraciones
     location: "Spain"
-    followers: 5257
-    engagement: 1270
-    commentsToLikes: 0.031230
+    followers: 7900
+    engagement: 395
+    commentsToLikes: 0.029696
     id: ckaoqowfwjoqh0i78igk7y7v8
     verified: false
-    hashtags: "#modelos, #publicidad, #hiphop, #fotografos"
+    hashtags: "#modelosespa, #live, #fotos, #laiayeti"
+  - username: "niedziela.raluy"
+    fullname: >-
+      N R
+    bio: >-
+      Mi casa es @circoraluy Legacy✨ Circus girl🎪 #poledancer #skater Finalist: ⛸Got Talent 👁GH16 Coach en Eso lo hago! Sometimes YouTuber⬇️
+    location: "Spain"
+    followers: 134078
+    engagement: 247
+    commentsToLikes: 0.036819
+    id: ck5q0peqd73uq0i11j4pk82hc
+    verified: true
+    hashtags: "#polecombo, #split, #poledancers, #poletricks"
+  - username: "martinapuiggalii"
+    fullname: >-
+      MARTINA PUIGGALÍ ;)
+    bio: >-
+      -WELCOME ;))) -Barcelona📍| CostaBrava (pals) -📩📲 martinapdosta@gmail.com -Collaborations DM📂
+    location: "Spain"
+    followers: 22951
+    engagement: 1612
+    commentsToLikes: 0.026157
+    id: ck8t9cnfdnlxv0j78m1a1lj1u
+    verified: false
+    hashtags: "#shein, #photo, #fashion, #beautiful"
 ---

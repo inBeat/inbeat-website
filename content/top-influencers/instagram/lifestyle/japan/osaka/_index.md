@@ -1,72 +1,48 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Osaka In 2022
+title: Top 10 Lifestyle Instagram Influencers In Osaka In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Osaka in 2022. Most popular hashtags: #lifestyle #japan #japanese #osaka.
+  Find top lifestyle Instagram influencers in Osaka in 2023. Most popular hashtags: #lifestyle #ootd #photography #birthday.
 platform: Instagram
-hits: 10
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 10 Instagram influencers like this in Osaka, Japan for you to contact.
+hits: 6
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 6 Instagram influencers like this in Osaka, Japan for you to pitch.
 profiles:
-  - username: "hywod_kj"
+  - username: "ldhkitchen_official"
     fullname: >-
-      Keiji Okamoto
+      LDH kitchen official
     bio: >-
-      SNOWBOARDER WE RIDE FOREVER. JUST KEEP GOING. 進むことを諦めるな。 牛乳石鹸/FLUX/DEELUXE/SHRED/KRYPTON/大阪KINGS/THEPARKS/yukiyama/RENTALHOUSEcedars
+      食事もエンタテインメント 日本の食文化を世界にも @ldhkitchen_official #LDHkitchen
     location: "Japan"
-    followers: 11869
-    engagement: 599
-    commentsToLikes: 0.007368
-    id: ck0u8ga6z7csj0i19d6z8tdxs
+    followers: 124181
+    engagement: 179
+    commentsToLikes: 0.000874
+    id: ck0tuyfj1983o0i19ropyfsyo
+    verified: true
+    hashtags: "#ameco, #lifestyle, #tokyonakameguro, #osakasouthside"
+  - username: "nyanchutagram9"
+    fullname: >-
+      Mizuki‪(*˙˘˙*)❥❥
+    bio: >-
+      ＼毎日が過去最高／ ✬ 🏠𝚝𝚘𝚔𝚢𝚘 🎂𝟙𝟙/𝟛 ただのOLです🐻 時系列バラバラなので悪しからず😈 ✬ 🏫𝚛𝚒𝚝𝚜 𝚞𝚗𝚒𝚟. 🎾silkycotton/S.A.S 💙 𝙵𝙱⓺⓹ 🐶🎻🍵✈️🃏🎈👯
+    location: "Japan"
+    followers: 6324
+    engagement: 479
+    commentsToLikes: 0.011808
+    id: ck9hbj2r6h1z70j78bl77lnk7
     verified: false
-    hashtags: "#hywod, #hakuba, #werideforever, #theparks"
+    hashtags: "#instapic, #nightout, #nightphotography, #cartier"
   - username: "machicoco"
     fullname: >-
       machicoco
     bio: >-
       from Osaka Japan🇯🇵 currently working in Taiwan Mail for work💌 工作邀約請email management@misslinlab.com 小盒子無法回覆工作訊息唷
     location: "Japan"
-    followers: 80610
-    engagement: 253
-    commentsToLikes: 0.012914
+    followers: 82466
+    engagement: 219
+    commentsToLikes: 0.013045
     id: ckapagz0vw2980i787r5d843h
     verified: false
-    hashtags: "#snowbeauty, #nikoand, #nikobakery, #minibutmighty"
-  - username: "mameshiba_mugi"
-    fullname: >-
-      🌾豆柴 Mugiちゃん🌾
-    bio: >-
-      お喋りする豆柴さん🦊 ムギ、麦じゃなくてMugiです •Jul 8, 2017🎂♂ •Osaka|JAPAN🇯🇵 •#宇宙と交信　#ツチノコMugi #お喋りむーちゃん #豆柴Mugiちゃん #mugiビーム - 𖧷 LINE stamp 全3種発売中 𖧷
-    location: "Japan"
-    followers: 84253
-    engagement: 455
-    commentsToLikes: 0.007939
-    id: ck138i1hzgc910i19xur6k1wo
-    verified: false
-    hashtags: "#mameshiba, #shibastagram, #shiba, #totoandpal"
-  - username: "japantravelphoto"
-    fullname: >-
-      Japan Travel Photo
-    bio: >-
-      Scenery🗻 Architecture🏯 Festival🌸 Portrait👨‍👩‍👧‍👦 and Lifestyle🚵 photos from travelers🚞🗾. To share Photo/Video, please #japantravelphoto 🙇💐.
-    location: "Japan"
-    followers: 63372
-    engagement: 566
-    commentsToLikes: 0.003556
-    id: ck8t4zg7b8c950j78c9woocz7
-    verified: false
-    hashtags: "#castle, #canal, #classic, #architecture"
-  - username: "lifestylekohey"
-    fullname: >-
-      kohey
-    bio: >-
-      LIFESTYLE presents 🙏BLESS WE feat. RAM HEAD & RAFUU リリックビデオ公開🎥 ⬇️⬇️⬇️⬇️⬇️
-    location: "Japan"
-    followers: 5313
-    engagement: 492
-    commentsToLikes: 0.004731
-    id: ck8svpiuac8wx0j789iwd5of1
-    verified: false
-    hashtags: "#bless, #only, #real, #lifestyle"
+    hashtags: "#nikoand, #longines, #dolcevita, #coachholiday"
   - username: "suica___616"
     fullname: >-
       Haruna suica Ishihara
@@ -78,53 +54,77 @@ profiles:
     commentsToLikes: 0.016105
     id: ck0u21i0kykzm0i19480kckcs
     verified: false
-    hashtags: "#dayze, #likeforlikes, #girl, #editing"
-  - username: "maki_s0205"
+    hashtags: "#fyve, #photo, #fixbinding, #snowman"
+  - username: "reiko_katsuyama"
     fullname: >-
-      Maki
+      REIKO_KATSUYAMA
     bio: >-
-      1969🎂 25.22歳の男の子ママ ファション、美容、旅行、筋トレ好き❤️ 各種アンバサダー お仕事依頼はDMでお願いします @onearts_jp @sloli_jp 【Retreful】セレクトショップサイト
+      Dancer/Choreographer/Event Organizer/OUTSET/CANDY NEON/ROF/kyoto.Japan🇯🇵
     location: "Japan"
-    followers: 79766
-    engagement: 124
-    commentsToLikes: 0.015273
-    id: ck5zzwktdcjkm0i1491x90c8q
+    followers: 9383
+    engagement: 739
+    commentsToLikes: 0.008404
+    id: ck6u8jr1krzpe0j71lpuc52fo
     verified: false
-    hashtags: "#lavillavita, #skinnytea, #bramink, #ootd"
-  - username: "omi_kim"
+    hashtags: "#jazz, #choreographer, #dance, #jazzdance"
+  - username: "terupop"
     fullname: >-
-      omi
+      TERU🤴🏽TERUPOP👨🏼‍🎓PLAY B♂Y👯‍♂️
     bio: >-
-      【Leather Creator & Photographer】 My Brand @crambox_creating ▼Portfolio
+      ダンス踊ったり、口だけやったり、筋トレしてまふ
     location: "Japan"
-    followers: 36369
-    engagement: 849
-    commentsToLikes: 0.033013
-    id: ck138phg1hd0t0i19qy80wf0q
+    followers: 5896
+    engagement: 934
+    commentsToLikes: 0.009726
+    id: ck5zm7leqm1yc0i14ulzh8lv3
     verified: false
-    hashtags: "#enter, #designyourworkspace, #workstation, #streetgrammers"
-  - username: "yumer1respect"
+    hashtags: "#videographer, #teru, #jazz, #repost"
+  - username: "lara_vns"
     fullname: >-
-      YUMERI👑
+      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
     bio: >-
-      Dancer,Choreographer / 🇯🇵/Team >Respect / 💌yumer1chikada.official@gmail.com 2011 24時間テレビ高校生ダンス甲子園 優勝 2019 WOD Chanpionships 3nd Place YOUTUBE 👇
+      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
     location: "Japan"
-    followers: 36131
-    engagement: 309
-    commentsToLikes: 0.012546
-    id: ck0vwb4ejswmr0i19vivdowmq
+    followers: 12770
+    engagement: 786
+    commentsToLikes: 0.136789
+    id: ckap8nya3p6kk0i78tp4nb40s
     verified: false
-    hashtags: "#youtube, #yumerichoreography, #dance, #yumeri"
-  - username: "jambo_lacquer"
+    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
+  - username: "hollykstyles"
     fullname: >-
-      J.Lacquer｜BomJa Break
+      Holly
     bio: >-
-      ジャンボラッカー | ボンジャブレイク﻿ ﻿ Rapsong / Beatmaker / Popping﻿ WARAJI / MIIDA2﻿ 🇯🇵﻿ ﻿ New 2020/4﻿ Jambo Lacquer & Olive Oil﻿ Album「OIL LACQUER」﻿📀 ﻿
+      • dallas tx • future mrs 💍 • home | fashion | lifestyle • @shopjustusthree • realtor @hollywrealestate link below to shop my posts
     location: "Japan"
-    followers: 7770
-    engagement: 587
-    commentsToLikes: 0.005219
-    id: ck14it8y6h2240i19j6w1lxhd
+    followers: 2479
+    engagement: 799
+    commentsToLikes: 0.208682
+    id: ckaowm7if9gug0i78mtyycrlx
     verified: false
-    hashtags: "#akai, #jambolacquer, #japanesebeat, #football"
+    hashtags: "#2020, #ootd, #tistheseason, #colorado"
+  - username: "maidmaymay"
+    fullname: >-
+      Maymay
+    bio: >-
+      20'9 '2000 ♀ Thai cosplayer based in the Netherlands non cosplay ig : @maybecrazey travel & lifestyle 😈 Twitch : maidMAYMAY 💜
+    location: "Japan"
+    followers: 60612
+    engagement: 391
+    commentsToLikes: 0.008534
+    id: ckaovc85p3ye20i78o7i9y0uo
+    verified: false
+    hashtags: "#alternative, #killingstalking, #killingstalkingcosplay, #cosplay"
+  - username: "kuuu.kumiko"
+    fullname: >-
+      Kumiko Suzuki  鈴木久美子
+    bio: >-
+      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
+    location: "Japan"
+    followers: 41897
+    engagement: 316
+    commentsToLikes: 0.032118
+    id: ckap4ky277r6y0i78yzmchql7
+    verified: false
+    hashtags: "#lifestyle, #fashion, #beautiful, #health"
 ---

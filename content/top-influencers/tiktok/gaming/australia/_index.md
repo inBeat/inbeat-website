@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Australia In 2022
+title: Top 10 Gaming TikTok Influencers In Australia In 2023
 description: >-
-  Find top gaming TikTok influencers in Australia in 2022. Most popular hashtags: #gaming #fyp #foryou #foryoupage.
+  Find top gaming TikTok influencers in Australia in 2023. Most popular hashtags: #gaming #fyp #foryou #twitch.
 platform: TikTok
-hits: 212
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database has 212 TikTok influencers like this in Australia for you to collaborate.
+hits: 195
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 195 TikTok influencers like this in Australia for you to collaborate.
 profiles:
   - username: "nonstopclm"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Gaming Vibes Thanks for all the support 🥳 Twitch: nonstopclm Go follow my insta
     location: "Australia"
-    followers: 4970
-    engagement: 1717
-    commentsToLikes: 0.102349
+    followers: 5301
+    engagement: 1242
+    commentsToLikes: 0.052833
     id: ckbr2hllaj84a0j236oc8cugb
     verified: false
-    hashtags: "#carxdriftracingonline, #forza, #fh, #fh4"
-  - username: "crow0015"
+    hashtags: "#carxdrift, #forza, #fh, #forzahorizon"
+  - username: "lukeerwin23"
     fullname: >-
-      crow0015
+      lukeerwin23
     bio: >-
-      20 Trans girl 🖤 love gaming, cars, anime Ønlyf4ns: crow.0015
+      Subscribe to my gaming channel 😜
     location: "Australia"
-    followers: 46200
-    engagement: 1442
-    commentsToLikes: 0.066644
-    id: ckbwec9vv1kj10j23avdrjqm9
-    verified: false
-    hashtags: "#replytocomments, #comedy, #jdm, #fyp"
-  - username: "joshb42"
-    fullname: >-
-      Josh
-    bio: >-
-      Age: 22 Australian 🇦🇺 Gaming/Comedy/Nerd Duets are Welcomed 👥
-    location: "Australia"
-    followers: 3782
-    engagement: 1142
-    commentsToLikes: 0.041668
-    id: ck9ke96ghxu4x0j78f15a8oxz
-    verified: false
-    hashtags: "#duet, #lol, #foryou, #funny"
-  - username: "superretroland"
-    fullname: >-
-      Lewis
-    bio: >-
-      Gaming Technology & Emulation superretrolandxxx@gmail.com 👇Products/Services👇
-    location: "Australia"
-    followers: 37500
-    engagement: 523
-    commentsToLikes: 0.034120
-    id: ckd6i3bu3apa60j236lcmre15
-    verified: false
-    hashtags: "#retroidpocket2, #myrecommendation, #pc, #raspberrypi4"
-  - username: "danallengaming"
-    fullname: >-
-      Dan Allen Gaming
-    bio: >-
-      Gaming Clips, Easter Eggs, Secrets, & More. Subscribe to my YouTube below! 👇
-    location: "Australia"
-    followers: 13703
-    engagement: 628
-    commentsToLikes: 0.015281
-    id: ckan3si4x6r250i781aa7fb5o
-    verified: false
-    hashtags: "#callofdutymodernwarfare, #spiderman, #gaming, #minitutorials"
+    followers: 1500000
+    engagement: 753
+    commentsToLikes: 0.014825
+    id: ckbr0wkuzi4880j23huh6blkn
+    verified: true
+    hashtags: "#cars, #jdmlife"
   - username: "_tacaz_"
     fullname: >-
       TACAZ
     bio: >-
       TACAZ GAMING www.facebook.com/tacazvn PUBG ID 5545342200
     location: "Australia"
-    followers: 24000
-    engagement: 716
+    followers: 23800
+    engagement: 720
     commentsToLikes: 0.000000
     id: ckb16jwswu2hp0j2325i023p4
     verified: false
-    hashtags: "#pubg, #pubglovers, #pubggame, #pubgfan"
+    hashtags: "#pubgfan, #tiktokkorea, #pubgpro, #tacaz"
   - username: "williamalexandercraig"
     fullname: >-
       Will Craig
     bio: >-
       I just want to make cool stuff Anything goes (game) availiable for download ⬇️
     location: "Australia"
-    followers: 12700
-    engagement: 2077
-    commentsToLikes: 0.096719
+    followers: 12500
+    engagement: 1971
+    commentsToLikes: 0.092969
     id: ckaftshpv6rg90i78njqzf6dv
     verified: false
-    hashtags: "#indiegame, #xyzbca, #game, #gamedeveloper"
+    hashtags: "#indiegamedev, #williamgame, #gamedevelopment, #gamedeveloper"
+  - username: "xoukofficial"
+    fullname: >-
+      xouk
+    bio: >-
+      Muslim | Otaku | Gamer Watch me play games on YouTube! Link Below! 👇
+    location: "Australia"
+    followers: 189000
+    engagement: 2115
+    commentsToLikes: 0.023386
+    id: ckb98uj5esiyh0j238mi3nzy8
+    verified: false
+    hashtags: "#gaming, #otaku, #weebtok, #mha"
+  - username: "channel5213"
+    fullname: >-
+      ✨Channel- 27k🖤✨
+    bio: >-
+      pls do not spam like Follow on twitch with link She/Her Have a wonderful day!
+    location: "Australia"
+    followers: 27300
+    engagement: 1360
+    commentsToLikes: 0.140711
+    id: ckbllg7dye0il0j230xhyjqk1
+    verified: false
+    hashtags: "#classiccatch, #gamer, #streamer, #twitch"
   - username: "ebgamesaus"
     fullname: >-
       EB Games Aus
     bio: >-
       Welcome to the official EB Games Australia TikTok account!
     location: "Australia"
-    followers: 84500
-    engagement: 2073
-    commentsToLikes: 0.026719
+    followers: 83400
+    engagement: 2009
+    commentsToLikes: 0.025405
     id: ckdi62mr27ao00j23q440ugp3
     verified: false
-    hashtags: "#australia, #aus, #ebgamesaus, #gaming"
-  - username: "y_so_bubzzz"
-    fullname: >-
-      ✮𝕭𝖚𝖇𝐙✮
-    bio: >-
-      🖤Big Kev🖤 ❤️Bayleigh❤️ 🧡Baloo🧡 💛Dunny💛💚Dizzy💚
-    location: "Australia"
-    followers: 4345
-    engagement: 1373
-    commentsToLikes: 0.078949
-    id: ckajbi6qsnt7w0i789n8853pq
-    verified: false
-    hashtags: "#aussierules, #gaminglife, #mcspicymoves, #duet"
+    hashtags: "#gaming, #fyp, #ebgamesaustralia, #aus"
   - username: "saxcy"
     fullname: >-
       sauce
     bio: >-
-      I’m 20 Email: kobi@kobibrown.com 👇👇Sub to YouTube👇👇
+      (Un)official CEO of esports Email: kobi@kobibrown.com Goal: 300K
     location: "Australia"
-    followers: 246800
-    engagement: 1547
-    commentsToLikes: 0.031080
+    followers: 288600
+    engagement: 1113
+    commentsToLikes: 0.027026
     id: ckaftt02e6vrs0i78bdyoms70
     verified: false
-    hashtags: "#pcsetup, #gaming, #valorant, #fortnite"
+    hashtags: "#esports, #gaming, #csgo, #twitch"
+  - username: "the_silly_salmon"
+    fullname: >-
+      Silly_Salmon
+    bio: >-
+      19 not 30, also the king of kangaroos join the discord if your a chad -
+    location: "Australia"
+    followers: 138600
+    engagement: 2229
+    commentsToLikes: 0.016381
+    id: ck8qny2jzwlat0j78i7skai2n
+    verified: false
+    hashtags: "#anime, #meme, #funny, #ironic"
+  - username: "chilli.rblx"
+    fullname: >-
+      🌶💗𝘊𝘩𝘪𝘭𝘭𝘪 𝘙𝘣𝘭𝘹❤️🧁
+    bio: >-
+      ☆Chilli Squad☆ OMG 1.3 MILLION Users Awhxchilli & Sxnnymonkey Join our discord👇
+    location: "Australia"
+    followers: 1300000
+    engagement: 1911
+    commentsToLikes: 0.049229
+    id: ckdhqtvmf1vkz0j23o63vz9x7
+    verified: false
+    hashtags: "#fyp, #chillirblx, #roblox, #adoptme"
 ---

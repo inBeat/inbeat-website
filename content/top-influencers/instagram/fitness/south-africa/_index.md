@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In South Africa In 2022
+title: Top 10 Fitness Instagram Influencers In South Africa In 2023
 description: >-
-  Find top fitness Instagram influencers in South Africa in 2022. Most popular hashtags: #love #style #photooftheday.
+  Find top fitness Instagram influencers in South Africa in 2023. Most popular hashtags: #fitness #summer #fitfam.
 platform: Instagram
-hits: 118
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 118 Instagram influencers like this in South Africa for you to contact.
+hits: 63
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 63 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "zeenatkh_"
+  - username: "yassahlake14"
     fullname: >-
-      Zeenat Khan
+      Yassah Lake Pierce
     bio: >-
-      • Email : info@curativeconcepts.com • Stylist @rogue_styling •@damodelmanagement •Fashion|Fitness|Food •UCT Bcom graduate
+      25💕 @anthemsales Fitness model💪🏾 West African🇱🇷 Hubby @bradpierce32 💍
     location: "South Africa"
-    followers: 9452
-    engagement: 1046
-    commentsToLikes: 0.202621
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 19476
+    engagement: 675
+    commentsToLikes: 0.118077
+    id: ck6u32vmfvdu90j71ixp591ck
     verified: false
-    hashtags: "#rocolove, #rocofamous, #strangerthings, #iconixza"
+    hashtags: "#selflove, #confidence, #atlanta, #fitfam"
+  - username: "jamei_ludwick"
+    fullname: >-
+      j a m e i  l u d w i c k 👼🏼
+    bio: >-
+      SA 🇿🇦 Potch👩🏼‍🎓 @zestyswimwear-code “JAMEI15” for 15% off 👙 @zoet_thebrand-20% off coupon code: jamei20 🌷 Trained by @the_fitnessbook_za 🏋🏻‍♀️👇🏻
+    location: "South Africa"
+    followers: 22190
+    engagement: 864
+    commentsToLikes: 0.024764
+    id: ck5ckzwg7xyfp0i116trim6si
+    verified: false
+    hashtags: ""
   - username: "ashley_rothman"
     fullname: >-
       Ashley Rothman
     bio: >-
       ✈️ travel addict 🌱 adventure lover 🍉 health + fitness enthusiast I want to make memories all over the world 🌍
     location: "South Africa"
-    followers: 24156
-    engagement: 453
-    commentsToLikes: 0.063608
+    followers: 23618
+    engagement: 484
+    commentsToLikes: 0.037399
     id: ckaowktx19d380i78yhvj56zi
     verified: false
-    hashtags: "#blowwave, #happysunday, #quarantinelife, #takemeback"
+    hashtags: "#peaches, #happysunday, #hellosummer, #summer2020"
+  - username: "saskiatopp"
+    fullname: >-
+      Saskia Jordyn Topp
+    bio: >-
+      I smile for a living.🌸 Model ~ Health & Fitness ~ Travel South African📍Chicago 🇺🇸 Select 🇿🇦Boss 🇩🇪PARS 🇬🇧MOT
+    location: "South Africa"
+    followers: 30712
+    engagement: 204
+    commentsToLikes: 0.054259
+    id: ck6u2s7s2tmls0j71eprx8zjp
+    verified: false
+    hashtags: "#capetown, #valentinesday, #chicago, #sunday"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
     bio: >-
-      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
+      *DM for collabs* Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @bornthree
     location: "South Africa"
-    followers: 27278
-    engagement: 355
-    commentsToLikes: 0.162121
+    followers: 29622
+    engagement: 301
+    commentsToLikes: 0.218129
     id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
-    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
-  - username: "mrkyleclark"
-    fullname: >-
-      K Y L E   C L A R K
-    bio: >-
-      •CEO: @_clarkmedia •Managing Partner: @international_fitness_academy •TV/Radio Presenter •Bookings: angela@clarkmedia.co.za 📍: 🇿🇦
-    location: "South Africa"
-    followers: 29000
-    engagement: 199
-    commentsToLikes: 0.220575
-    id: ck5caa6tad0ni0i1194226uxl
-    verified: false
-    hashtags: "#mensfashion, #fashionblogger, #makleledesigns, #mensstyle"
-  - username: "caley.jack"
-    fullname: >-
-      Caley Jäck
-    bio: >-
-      @lesmills ✖️ @Reebok - Global Brand Ambassador s o u t h • a f r i c a n | fitness . travel . Wife . Mumma🤰🏼to Ella + 🐶🐶| ✝️ FREE 🏠WORKOUTS👇🏼
-    location: "South Africa"
-    followers: 58673
-    engagement: 944
-    commentsToLikes: 0.021700
-    id: ck14khpvkpjs00i19y064z4ey
-    verified: false
-    hashtags: "#newborn, #exercisemotivation, #babygirl, #grateful"
-  - username: "shawnee_reid"
-    fullname: >-
-      Shawnee Reid
-    bio: >-
-      Fitness|Funster|Businesswoman|God ✝️ Sub to my YT,click link⏬ Model @icemodelsjhb 🔸 @metalabofficial 📧shawnee@sreid.co.za LVW♥️
-    location: "South Africa"
-    followers: 30066
-    engagement: 422
-    commentsToLikes: 0.058248
-    id: ck15tn2y6iwd90i198x1nvvko
-    verified: false
-    hashtags: "#love, #clouds, #style, #outfit"
+    hashtags: "#blogger, #photographer, #mom, #picoftheday"
   - username: "alex_robinho"
     fullname: >-
       Alex_⭐️Robinho🌟
     bio: >-
       🇿🇦Born And Raised X 🇨🇩 Heritage Fitness Model 💪🏽 Dm For Online training 👨🏽‍💻 Fitpreneur🍃 Based In Hangzhou China 🇨🇳 Checkout my Article feature! ⬇️
     location: "South Africa"
-    followers: 12392
-    engagement: 884
-    commentsToLikes: 0.015287
+    followers: 12579
+    engagement: 950
+    commentsToLikes: 0.018923
     id: ckap7i8bfk6pr0i78d4iprweu
     verified: false
-    hashtags: "#training, #healthylifestyle, #tightfit, #fitfam"
-  - username: "themodelanextdoor"
+    hashtags: "#tightfit, #classicphysique, #bodybuilding, #healthy"
+  - username: "deen_woodman"
     fullname: >-
-      Lehlohonolo Kwape
+      𝔻𝔼𝔼ℕ 𝕎𝕆𝕆𝔻𝕄𝔸ℕ
     bio: >-
-      • @bossmodelsjhb • Model • Influencer • Fitness • content creator
+      Public Figure Marketing Entrepreneur | Speaker | Fitness Enthusiast 📧 bookings@deenwoodman.com
     location: "South Africa"
-    followers: 15088
-    engagement: 621
-    commentsToLikes: 0.053666
-    id: ckap2mplxzigg0i786vcv9xff
+    followers: 6745
+    engagement: 1004
+    commentsToLikes: 0.025905
+    id: ck5q1kbambelu0i11prh2t8g3
     verified: false
-    hashtags: "#blackmodels, #themodelnextdoor, #reels, #black"
-  - username: "_kayleighjane_"
+    hashtags: "#thisisnotourdream"
+  - username: "ryan_botha"
     fullname: >-
-      Kayleigh | Personal Trainer
+      RYAN BOTHA
     bio: >-
-      🔹Helping Females & Pregnant Mom's Love Their Bods! Pre/Post-Natal Certified @blisslife.fitness 🔹Cape Town🔹Happiest In Nature
+      ◾️Ex Pro Footballer◾️Owner & fitness coach @rydafitnessct ◾️ @bossmodelsa ◾️Scottish UEFA C Coach (busy with B) ◾️ www.movementempire.com
     location: "South Africa"
-    followers: 7290
-    engagement: 464
-    commentsToLikes: 0.063358
-    id: ck6u0k8s6g6k40j711i5tlifz
+    followers: 22831
+    engagement: 199
+    commentsToLikes: 0.057685
+    id: ckaou91qxzcog0i78elrnpz2r
     verified: false
-    hashtags: "#sos, #sendcoffee, #helpmeimtired"
-  - username: "anniqueborman"
+    hashtags: "#picoftheday, #smile, #training, #life"
+  - username: "meganjoy.m"
     fullname: >-
-      Annique Borman
+      Megan Joy McDermott
     bio: >-
-      South African 🇿🇦| Inspired by my environment🌿| food and fitness🍓 | Student at UFS 🎓| Currently residing in Bloemfontein, FS🌺| Est. 99’✨
+      🇿🇦🇦🇪🌱 South African based in UAE CF L2 | Fitness Coach World Calisthenics Organization L2 Yoga Teacher 200hr
     location: "South Africa"
-    followers: 8325
-    engagement: 1165
-    commentsToLikes: 0.010803
-    id: ckaovaxd13s590i78nwqtw5hi
+    followers: 129305
+    engagement: 218
+    commentsToLikes: 0.011260
+    id: ck13chslh0ev00i19wqscaucp
     verified: false
-    hashtags: "#angelsgear, #ownyouwings, #angelsboutique"
+    hashtags: "#teamsimmonds, #seeyousoon, #homeworkout, #workoutvideos"
+  - username: "leandrevz_wffpro"
+    fullname: >-
+      LEANDRE’ VAN ZYL 🇿🇦
+    bio: >-
+      ➕GOD FIRST Fill4:13 ♦️BE HUMBLE ♦️LAWYER ♦️USN ATHLETE ♦️PRO FITNESS ATHLETE ♦️MUSCLE MODEL WORLD CHAMPION🥇 ⚡️Live a little
+    location: "South Africa"
+    followers: 15804
+    engagement: 442
+    commentsToLikes: 0.007151
+    id: ck134xae6yn790i192t2jgq60
+    verified: false
+    hashtags: "#blessed, #teamusn, #fitness, #view"
 ---

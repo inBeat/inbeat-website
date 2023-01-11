@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian TikTok Influencers In Los Angeles In 2022
+title: Top 10 Christian TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top christian TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #duet #foryou #christian.
+  Find top christian TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #foryou #duet.
 platform: TikTok
-hits: 18
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 18 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 14
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 14 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "nicksaremi"
+  - username: "therealrasberry"
     fullname: >-
-      Nick Saremi
+      Jonmarc Rasberry
     bio: >-
-      Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
+      Artist, Teacher, Christian Welcome, love you all 3000 ❤️ ⬇️My other socials⬇️
     location: "United States"
-    followers: 81700
-    engagement: 795
-    commentsToLikes: 0.028410
-    id: ck9k9al5tcfbq0j784mvcqybp
+    followers: 25400
+    engagement: 915
+    commentsToLikes: 0.114078
+    id: ckcur2kwvji9f0j236hr9i4qo
     verified: false
-    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
-  - username: "adampreachez"
+    hashtags: "#marvel, #nfl, #fyp, #geicolipsync"
+  - username: "manny.oakley"
     fullname: >-
-      Adam Zepeda
+      Manny Oakley
     bio: >-
-      Follow me on IG and let’s study the Bible together! 🙏🏽
+      He (in drag) | She/They (out) | 26 | LA Drag King | ACAB Queen
     location: "United States"
-    followers: 25500
-    engagement: 1429
-    commentsToLikes: 0.045997
-    id: ckbfbr93n41rs0j23romb6mw5
+    followers: 23200
+    engagement: 2521
+    commentsToLikes: 0.040575
+    id: ckd0hydeaeq7l0j23bvjlqrt7
     verified: false
-    hashtags: "#foryou, #contentforchrist, #faith, #bible"
-  - username: "dee_liamsworld"
-    fullname: >-
-      Derrick Lansing
-    bio: >-
-      36, Single parent 👨‍👦, love my son,love to dance, love people. VLOGGER
-    location: "United States"
-    followers: 3292
-    engagement: 811
-    commentsToLikes: 0.056329
-    id: ck9nidysngter0j787bgaohmd
-    verified: false
-    hashtags: "#christian, #uglyswearter, #struggleisreal, #nativetiktoks"
+    hashtags: "#fyp, #chef, #anthonybourdain, #destinationdepop"
   - username: "jaevdevelopment"
     fullname: >-
       jaevdevelopment
     bio: >-
       Duet videos. 21&up
     location: "United States"
-    followers: 8691
-    engagement: 1315
-    commentsToLikes: 0.236243
+    followers: 8580
+    engagement: 1285
+    commentsToLikes: 0.235761
     id: ckdnub2cvmwvj0j23gzsbckr3
     verified: false
-    hashtags: "#duet, #greenscreen, #cpoppers, #jaevdevelopment"
-  - username: "christianstockwell"
+    hashtags: "#cpoppers, #greenscreen, #jaevdevelopment, #duet"
+  - username: "prunomarz"
     fullname: >-
-      Christian Stockwell
+      Josiah David
     bio: >-
-      The Empath Coach💙 FREE 1-on-1 Coaching Session with me!🤯(Temporary)👇
+      Windex for the Soul 👻/🐦: @PrunoMarz My Mental Health Discord Link 🦋↙️
     location: "United States"
-    followers: 198900
-    engagement: 1511
-    commentsToLikes: 0.029408
-    id: ckc7wn294zpo30j23fqex7o8e
+    followers: 142400
+    engagement: 1402
+    commentsToLikes: 0.038973
+    id: ckd6ctmn154lk0j230n5m7h8o
     verified: false
-    hashtags: "#affirmation, #meditate, #5d, #loa"
-  - username: "lorensharice"
-    fullname: >-
-      LorenSharice
-    bio: >-
-      Broadway/TV/ actress, Register to vote! 🔽
-    location: "United States"
-    followers: 524700
-    engagement: 1737
-    commentsToLikes: 0.013325
-    id: ck8nbtduebbzg0j78u2cf7xm8
-    verified: true
-    hashtags: "#biden2020, #election, #bidenharris2020, #darkskins"
+    hashtags: "#fyp, #prunomarz, #duet, #astrology"
   - username: "tiktoktabora"
     fullname: >-
       Mrs. T
     bio: >-
       Follow me on IG & YouTube! Choir teacher 🎶
     location: "United States"
-    followers: 20500
-    engagement: 1367
-    commentsToLikes: 0.040205
+    followers: 20100
+    engagement: 1326
+    commentsToLikes: 0.037693
     id: ckbq5mop1s13b0j2301fp2y3c
     verified: false
-    hashtags: "#foryou, #fyp, #foryoupage, #duet"
-  - username: "krazaytay"
+    hashtags: "#foryou, #foryoupage, #fyp, #duet"
+  - username: "buffbeefitness"
     fullname: >-
-      Taylor Jordynn💞
+      Buffbeefitness
     bio: >-
-      NEED A FRIEND DM ME ON INSTA POSITIVITY✨ VENMO: taylorjordynn MGMT:Clickstalent
+      Only boring people are bored at Parties 🎈🎎
     location: "United States"
-    followers: 478800
-    engagement: 1897
-    commentsToLikes: 0.018739
-    id: ck81s48aapvll0j78usrhcr13
+    followers: 18200
+    engagement: 1320
+    commentsToLikes: 0.050049
+    id: ckbf7ovatxqea0j23ir31wfqh
     verified: false
-    hashtags: "#foryou, #viral, #fyp, #actofkindness"
-  - username: "ronthesneakergoat"
+    hashtags: "#bible, #greenscreen, #fit, #gym"
+  - username: "sarahromanowsky"
     fullname: >-
-      SneakerGoat
+      Sarah Romanowsky
     bio: >-
-      Sneaker head.21.Love God. ☝🏽SUBSCRIBE TO YOUTUBE☝🏽 👇🏽MERCH LINK👇🏽
+      Teaching virtual lessons in Silks/Hammock/Hoop — email SarahRomanowsky@gmail.com
     location: "United States"
-    followers: 142100
-    engagement: 1594
-    commentsToLikes: 0.029711
-    id: ck9nfapdqe7bw0j78e6sw4np7
+    followers: 23700
+    engagement: 1814
+    commentsToLikes: 0.007882
+    id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#nba, #fup, #espn, #anime"
-  - username: "blackglovex"
+    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
+  - username: "anirudhmvsk"
     fullname: >-
-      blackglovex
+      Anirudh Mvsk
     bio: >-
-      You R now joinin the BLK GLV❌ COMMUNITY - Videos we can share and talkabout
+      For more dance videos follow me on insta! @anirudhmvsk
     location: "United States"
-    followers: 128100
-    engagement: 1027
-    commentsToLikes: 0.034576
-    id: cka0sjlizlqxb0i78glo7l0ni
+    followers: 28800
+    engagement: 303
+    commentsToLikes: 0.028175
+    id: ckbl2tzic01140j23a9fr11xv
     verified: false
-    hashtags: "#xyzbca, #airheadsditchchallenge, #animalfriends, #go"
+    hashtags: "#indian, #telugudance, #independenceday, #fyi"
+  - username: "beatsbysport"
+    fullname: >-
+      J.Wong
+    bio: >-
+      Curator: @jwongnyy (IG/TW) Psalm 62:6 MLB WALK-UP Spotify Playlist 👇
+    location: "United States"
+    followers: 12300
+    engagement: 570
+    commentsToLikes: 0.024772
+    id: cka0n9797ymoi0i7874jfay5g
+    verified: false
+    hashtags: "#yankees, #baseballlife, #baseball, #walkupsong"
+  - username: "brandynmusic"
+    fullname: >-
+      Brandyn Burnette
+    bio: >-
+      I sing, rap & play instruments tryna make the world a better place IG @brandyn
+    location: "United States"
+    followers: 6002
+    engagement: 262
+    commentsToLikes: 0.038475
+    id: ckbamvsmedu3q0j23hajd09h4
+    verified: false
+    hashtags: "#viral, #haha, #trend, #hilarious"
 ---

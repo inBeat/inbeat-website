@@ -1,130 +1,118 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In France In 2022
+title: Top 10 Mma Fighters Instagram Influencers In France In 2023
 description: >-
-  Find top mma fighters Instagram influencers in France in 2022. Most popular hashtags: #mma #mmafighter #fight #fighter.
+  Find top mma fighters Instagram influencers in France in 2023. Most popular hashtags: #mma #mmafighter #ufc #fight.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in France for you to collaborate.
+hits: 9
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "edwige_ahonto"
-    fullname: >-
-      Edwige
-    bio: >-
-      ➿ @nike Trainer ➿ Coach @lecercleboxing Athletic model @sportmodelsparis || MMA Fighter in progress || 🇹🇬 🇧🇪
-    location: "France"
-    followers: 3389
-    engagement: 1952
-    commentsToLikes: 0.119223
-    id: ck6udhog7l68f0j71fgmgb0n4
-    verified: false
-    hashtags: "#boxing, #athletics, #positiveattitude, #sportive"
   - username: "taylor_d.i_lapilus"
     fullname: >-
       Taylor Double Impact
     bio: >-
       🇫🇷 Pro MMA fighter 16-3 @ufc Vet 3-1 @gmc_mma 135/145lbs🏆 @tkommaofficial_ 135lbs 🏆 @rmc_sport Analyst @mma_factory_paris @luckylucianopizza Co Owner
     location: "France"
-    followers: 19624
-    engagement: 313
-    commentsToLikes: 0.040646
+    followers: 19641
+    engagement: 334
+    commentsToLikes: 0.043300
     id: ck5pxgsgxro9e0i110u50y1kc
     verified: true
-    hashtags: "#senegal, #ares, #training, #mma"
+    hashtags: "#fight, #rmcsport, #dakar, #mmafighter"
+  - username: "corinnelaframboise"
+    fullname: >-
+      Corinne Laframboise
+    bio: >-
+      MMA FIGHTER @uae_warriors 👊🇨🇦👸 🎥@ufcfightpass 🙋‍♀️😈 BJJ WORLDCHAMP 🏆🏆 🧨@xpnworld 🤼‍♀️ @fujisportsus
+    location: "France"
+    followers: 6353
+    engagement: 440
+    commentsToLikes: 0.063844
+    id: ck6tszr917r670j718v1nbq8n
+    verified: false
+    hashtags: "#mma, #legacy420, #headrush, #xpnworld"
+  - username: "wilsonvarela.off"
+    fullname: >-
+      Wilson Varela
+    bio: >-
+      Kick-boxer / MMA fighter and content creator - Partenaire @sport2000plandecampagne -10% - @elgatoFRA - MANAGEMENT @managementfactory
+    location: "France"
+    followers: 112141
+    engagement: 459
+    commentsToLikes: 0.009725
+    id: ck9wgba8csnpe0j786x214dw5
+    verified: false
+    hashtags: "#vamos, #nubai, #vamoscomtudo, #gladiator"
   - username: "jtrues"
     fullname: >-
       Josh Truesdell
     bio: >-
       MMA Fighter 💥👊 Team Renzo Gracie🟫🦁 International Model 🇮🇹 🇦🇺 🇯🇵 🇪🇸 🇬🇧 🇩🇪 Soul Artist Management 🇺🇸 SAG Actor 🎭 Innovative Artists 🗽
     location: "France"
-    followers: 23167
-    engagement: 304
-    commentsToLikes: 0.025600
+    followers: 22926
+    engagement: 317
+    commentsToLikes: 0.026106
     id: ckap8tvqmpv6u0i78eaoek3kz
     verified: false
     hashtags: "#808, #surf, #rickday, #island"
-  - username: "drmbrothers"
-    fullname: >-
-      David Roberts
-    bio: >-
-      D. Rawberts #53 🏁 Pro Racecar Driver IMSA x Pirelli WC x SCCA / Pro MMA Fighter - HayastanMMA @neverlift53 Automotive Restoration @greatdanesco
-    location: "France"
-    followers: 16476
-    engagement: 436
-    commentsToLikes: 0.065432
-    id: ck8sy17fajdks0j784pojfk17
-    verified: false
-    hashtags: "#hussleandmotivate, #tigerking, #davidexotic, #jasonvoorhees"
-  - username: "mansourbarnaoui"
-    fullname: >-
-      Mansour Barnaoui
-    bio: >-
-      Afro-Samuraï MMA Fighter Pro 🇹🇳🇨🇵 Champion : @roadfc🇰🇷 @m1global🇷🇺 @bammauk🇬🇧 Founder of @shibu_officiel 👕 Tuto MMA 🎥⬇️
-    location: "France"
-    followers: 38475
-    engagement: 234
-    commentsToLikes: 0.025359
-    id: ck5bzdry2qy2s0i1156rt1361
-    verified: true
-    hashtags: "#mmafighter, #fighter, #mmatraining, #afrosamurai"
-  - username: "karimghajji"
-    fullname: >-
-      🇫🇷BOSS2FIN🇲🇦
-    bio: >-
-      MMA FIGHTER 2-1 | STAND UP | STUNTMAN 15 TIMES KICK BOXING WORLD CHAMPION @agenceconsulting 📥Partenariats: contact@agenceconsulting.com
-    location: "France"
-    followers: 21467
-    engagement: 571
-    commentsToLikes: 0.037730
-    id: ck8svz1qqd89s0j78agu7jzam
-    verified: true
-    hashtags: "#mma, #boss2fin, #groundandpound, #fight"
   - username: "bouafia.sofian"
     fullname: >-
       Sofian Bouafia
     bio: >-
-      Algerian/French 🇩🇿 Middleweight MMA fighter 🥊🤼‍♂️ 5-2-0 ⚖️ La difficulté construit les forts et détruit les faibles 📍🇫🇷
+      Algerian/French 🇩🇿🇫🇷 Middleweight MMA fighter 🥊🤼‍♂️ 5-2-0 ⚖️ La difficulté construit les forts et détruit les faibles 📍🇫🇷
     location: "France"
-    followers: 6505
-    engagement: 652
-    commentsToLikes: 0.020221
+    followers: 6380
+    engagement: 604
+    commentsToLikes: 0.017572
     id: ck5cad62ud7fn0i11j2r0fwtj
     verified: false
-    hashtags: "#hemtopteam, #ebd8, #roadtothebelt"
+    hashtags: ""
+  - username: "benoitst_denis"
+    fullname: >-
+      Benoît"God of War"Saint Denis
+    bio: >-
+      - Pro MMA fighter🇫🇷 📍Paris @venumtrainingcamp - Bulgarian Top Team 🥊 - Ex French SAS ⚔️ - Athlete @nutrimuscle With @lalou_croft 💍
+    location: "France"
+    followers: 6369
+    engagement: 1315
+    commentsToLikes: 0.036030
+    id: ck5cgxbsjpptc0i11lz407yvc
+    verified: false
+    hashtags: "#venumtrainingcampparis, #venum, #grappling, #armeedeterre"
   - username: "thewill.mma"
     fullname: >-
       William « JAGUAR 🐆 » Gomis
     bio: >-
-      🥊#MMA #fighter 🏋️‍♂️coach sportif 👻 willyboxing ▶️ #youtubeur (+85K) 🎖#european #champ #sanda 📍 Paris
+      🥊#MMA #fighter #wushu 🏋️‍♂️coach sportif 👻 willyboxing ▶️ YouTube (+85K) 🎖#european #champ #sanda 📍 Paris
     location: "France"
-    followers: 5685
-    engagement: 1087
-    commentsToLikes: 0.051398
+    followers: 7602
+    engagement: 918
+    commentsToLikes: 0.048212
     id: ck5hj7c52g51c0i11tb853eo3
     verified: false
-    hashtags: "#preparationphysique, #muythai, #youtubeur, #bigfight"
-  - username: "c.rivarola"
+    hashtags: "#mmalife, #croyezenvous, #combattant, #bellatormma"
+  - username: "yoannkongolo"
     fullname: >-
-      Camila Rivarola
+      Yoann Kongolo
     bio: >-
-      👊🏼MMA Fighter 👟 @underarmour 📸 @sportmodelsparis 🎥 @agence_nouvelle_ere 📍🇫🇷
+      ▫️Boxer | Kickboxer 🥊 ▫️🇨🇭🇨🇩 ▫️Lausanne, Suisse📍 ▫️Personal Trainer 📥 ▫Head Coach @fightdistrict ▫kongoloyoann@gmail.com 📧
     location: "France"
-    followers: 9725
-    engagement: 724
-    commentsToLikes: 0.033655
-    id: ckf5s3zn9eoj90j23hok47ygc
+    followers: 12757
+    engagement: 611
+    commentsToLikes: 0.038775
+    id: ck6tx47bzvq8k0j71bt8wauaf
     verified: false
-    hashtags: "#athlete, #fighter, #mma, #girlpower"
-  - username: "mehdi_baghdad"
+    hashtags: "#day, #mma, #fighter, #yk"
+  - username: "papou_lele"
     fullname: >-
-      Mehdi Baghdad The Sultan
+      Papou Lele
     bio: >-
-      @arena_fight_championship #FIGHTER 🥇#NTA #Model #RFA #Champion #UFC vet WKBC & #K1 Champion #Sportmanagement partner of @nadir_bosch
+      Snaketeam fighter @bellatormma @bellatorfrance 🇨🇵 4 fois champion de France 🇪🇺 2 ceintures européennes de MMA 🏆 2 ceintures internationales de MMA
     location: "France"
-    followers: 62102
-    engagement: 200
-    commentsToLikes: 0.031140
-    id: ckaotqrnkx2tu0i78rs1mgg6h
-    verified: true
-    hashtags: "#khabib, #algerienne, #dza, #alge"
+    followers: 6206
+    engagement: 808
+    commentsToLikes: 0.033920
+    id: ck5hgpb3d40pl0i11j9v212fp
+    verified: false
+    hashtags: "#w4l, #mixedmartialarts, #train, #muaythai"
 ---

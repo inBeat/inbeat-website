@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Bangkok In 2022
+title: Top 10 Food Instagram Influencers In Bangkok In 2023
 description: >-
-  Find top food Instagram influencers in Bangkok in 2022. Most popular hashtags: #food #foodstagram #thailand #foodporn.
+  Find top food Instagram influencers in Bangkok in 2023. Most popular hashtags: #bangkok #food #thailand #yummy.
 platform: Instagram
 hits: 18
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 18 Instagram influencers like this in Bangkok, Thailand for you to work with.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 18 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
   - username: "eatlike852"
     fullname: >-
@@ -13,96 +13,96 @@ profiles:
     bio: >-
       Pal’s Food Diary Bangkok-born | HK-based ตะลุยกินในฮ่องกง ตามรอยพี่แป๋ว (คนไทยในฮ่องกง) Guidebook: Eat Like 852 HK eatlike852@gmail.com
     location: "Thailand"
-    followers: 26312
-    engagement: 116
-    commentsToLikes: 0.052024
+    followers: 26479
+    engagement: 113
+    commentsToLikes: 0.048487
     id: ck0uescvcm2vr0i19jvf2le9l
     verified: false
-    hashtags: "#michelin, #bibgourmand, #goldendragondinner, #byinvitation"
+    hashtags: "#852hoion, #iykyk, #trustmeimthai, #michelin"
+  - username: "sawyeremmy"
+    fullname: >-
+      Emmy Kym Sawyer
+    bio: >-
+      Miss Universe Thailand 2020 Top 10 The Face Thailand Season 5 For work inquiries 0918936266 (Manager) Check out my YouTube Channel below!
+    location: "Thailand"
+    followers: 55509
+    engagement: 599
+    commentsToLikes: 0.023817
+    id: ckap01rlwocc80i78ufbjb0ss
+    verified: false
+    hashtags: "#teamemmy, #absolutelyemmy, #intercontinentalhuahin, #sossiamsoi6"
   - username: "snapbeforeeat"
     fullname: >-
       SNAP BEFORE EAT
     bio: >-
-      food blogger based in Bangkok | #snapbeforeeat 📸🍴by @pranggnaphun ✉️ for collaboration please dm or email ❤️ #quarantineandchill
+      just a food lover, based in Bangkok ✈️ 26-27 dec - wonderfruit/ 15-17 jan - huahin 📸 @pranggnaphun 📲 for work please dm or email #snapbeforeeat
     location: "Thailand"
-    followers: 187566
-    engagement: 74
-    commentsToLikes: 0.005819
+    followers: 192925
+    engagement: 107
+    commentsToLikes: 0.005015
     id: ck6u78e8nk2fd0j71l3sh5sn4
     verified: false
-    hashtags: "#fujifilm, #snapbeforeeat, #iphone11, #snapbeforeeatvideo"
+    hashtags: "#snapbeforeeatxhome, #snapbeforeeatxomakase, #fujifilm, #snapbeforeeatxbeef"
   - username: "bkmagazine"
     fullname: >-
       BK Magazine
     bio: >-
-      What’s good in Bangkok? Use #bkmagazine for a chance to be featured. Stay in touch 👉🏼 editorial@asia-city.co.th
+      What’s good in Bangkok? Use #bkmagazine for a chance to be featured. Stay in touch 👉🏼 editorial@bkmagazine.com
     location: "Thailand"
-    followers: 41363
-    engagement: 102
-    commentsToLikes: 0.009387
+    followers: 41528
+    engagement: 77
+    commentsToLikes: 0.011567
     id: ckf5tst05intm0j23506tw0l7
     verified: false
-    hashtags: "#bkmagazine, #bangkok, #bkrw2020, #bkrestaurantweek"
+    hashtags: "#bkrestaurantweek, #bangkok, #bkrw2020, #bkmagazine"
   - username: "shem_arciel"
     fullname: >-
       Shem MD [🇮🇩]
     bio: >-
       Medical Doctor, Digital Entrepreneur, Prestidigitator, Travel & Food Blogger, Musician, Cinephile, LFC Kopites! 📍: Bangkok ⬇️Latest YouTube Video⬇️
     location: "Thailand"
-    followers: 79064
-    engagement: 114
-    commentsToLikes: 0.059473
+    followers: 75443
+    engagement: 119
+    commentsToLikes: 0.065054
     id: ck0w1lob8jynv0i19n8hwzo56
     verified: false
-    hashtags: "#bangkokeats, #bkkmenu, #sashimilovers, #bangkokfood"
+    hashtags: "#aroii, #aroiibkk, #aroisnap, #seaurchin"
+  - username: "khemupsorn_meaii"
+    fullname: >-
+      ⓜⓔⓐⓘ.™🐰 เหมยเหมย
+    bio: >-
+      ::🐶🐱:: owner: @kin.plaa 💖 food&travel blog “ไปฉันไปด้วยคน” For work line:@tcg_group or DM ₂₇.₇.₁₉₈₉ --Never let go of your dream. ♬♪ --
+    location: "Thailand"
+    followers: 20776
+    engagement: 171
+    commentsToLikes: 0.016597
+    id: ck14iizv1fnb30i19ghnv6gq4
+    verified: false
+    hashtags: "#bangkok, #bkk, #cafehoppingbkk, #bikini"
   - username: "dreamxxarisara"
     fullname: >-
       Dreammy love eating
     bio: >-
       🇻🇳half🇹🇭Vietnamese-Thai 😊Dream/90's kid : ENVI TU 22 🍰Cant live without food 📥DM: for work 📲Line : dreamxxarisara (for work) #dreamhavetotry
     location: "Thailand"
-    followers: 52337
-    engagement: 56
-    commentsToLikes: 0.117750
+    followers: 57297
+    engagement: 92
+    commentsToLikes: 0.057920
     id: ck5pv3jv7fy9m0i11kkur80jc
     verified: false
-    hashtags: ""
-  - username: "happynancyfranky"
-    fullname: >-
-      Nancy
-    bio: >-
-      Thailand🤙🏾 Owner of @gluckhappyswimwear @pakarang.oil นักท่องเที่ยวเชิงนักอนุรักษ์🏝DIVEMASTER, SURFER, RockClimber, Food, Coffee. ☀️🦜
-    location: "Thailand"
-    followers: 61298
-    engagement: 289
-    commentsToLikes: 0.008388
-    id: ck14h490c8h2w0i19ze498dl2
-    verified: false
-    hashtags: "#beachvibes, #happynancy, #forpus, #thailand"
+    hashtags: "#bangkok, #getfit, #goodfood, #life"
   - username: "nua__thailand"
     fullname: >-
       Nua_Thailand
     bio: >-
       🍽 : นัว 💌 : Contact for work please Direct message 👩🏻‍🍳 : ติดต่องาน DM ค่า 📍 : Bangkok , Thailand 🇹🇭 การทำอาหารไม่มีผิดถูก เพราะอาหารคืองานศิลป์ 🍃
     location: "Thailand"
-    followers: 28195
-    engagement: 413
-    commentsToLikes: 0.005664
+    followers: 35120
+    engagement: 191
+    commentsToLikes: 0.006806
     id: ckapcp1bp4mmn0i78zt6om6kh
     verified: false
-    hashtags: ""
-  - username: "jack_l2y"
-    fullname: >-
-      Jack Kitti Suwanchoti
-    bio: >-
-      Photographer | Filmmaker | Editor For work : Direct Message Bangkok,Thailand 🇹🇭
-    location: "Thailand"
-    followers: 88140
-    engagement: 190
-    commentsToLikes: 0.011943
-    id: ck136ktme6zwe0i19aai35f0g
-    verified: false
-    hashtags: "#foodlover, #canoneos, #shotoniphone, #foodblogger"
+    hashtags: "#foodgasm, #thailand, #food, #foodshare"
   - username: "ampere.healthy"
     fullname: >-
       🐷กินยังไงไม่ให้อ้วน🐷
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.010588
     id: ckap94mcwr4o60i78odjwi3dg
     verified: false
-    hashtags: "#healthyfood, #dietfood, #amperehealthy, #thaifood"
-  - username: "sean_poem"
+    hashtags: "#thaifood, #foodstagram, #healthyfood, #dietfood"
+  - username: "chefakiraback"
     fullname: >-
-      KillerDressMaker
+      Akira Back (백승욱)
     bio: >-
-      "In order to be happy oneself it is necessary to make at least one other person happy." Creative Director of POEM Bangkok FujiFilmGFX50R/SamsungNote10
+      Vegas, Seoul, Toronto, Dubai, Singapore, San Diego, Paris, Saudi, Bangkok, Doha, San Francisco, Dallas, Hanoi, Orlando, Delray......
     location: "Thailand"
-    followers: 126725
-    engagement: 61
-    commentsToLikes: 0.008385
-    id: ck6u0b3pbenzi0j71a2uebib6
-    verified: false
-    hashtags: "#sevensapphires, #nightcrawler, #selenophile, #stayhome"
+    followers: 42331
+    engagement: 1487
+    commentsToLikes: 0.005765
+    id: ck139ht1yldh50i19eap9rqqr
+    verified: true
+    hashtags: "#singapore, #quarantine, #blessed, #best"
 ---

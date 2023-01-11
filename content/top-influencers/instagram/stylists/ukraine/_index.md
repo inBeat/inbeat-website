@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Ukraine In 2022
+title: Top 10 Stylists Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top stylists Instagram influencers in Ukraine in 2022. Most popular hashtags: #quarantine #fashion #makeup.
+  Find top stylists Instagram influencers in Ukraine in 2023. Most popular hashtags: #lookoftheday #lviv #nudemakeup.
 platform: Instagram
-hits: 69
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat has 69 Instagram influencers like this in Ukraine for you to connect with.
+hits: 34
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 34 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "anishchenko_leyla"
-    fullname: >-
-      Лейла
-    bio: >-
-      @anishchenko_store @_levline_ Designer Stylist Married Clever boy’s mom Sport girl
-    location: "Ukraine"
-    followers: 37469
-    engagement: 383
-    commentsToLikes: 0.035600
-    id: ckf5n1ed0wbwt0j23rjzd4lku
-    verified: false
-    hashtags: "#100, #instagram, #backstage, #ftv"
   - username: "linakhrystoforova"
     fullname: >-
       Лина Христофорова
     bio: >-
-      • Speaker & Founder @f_lab_official • Founder @bagpack_official • Stylist @shopping_with_lina Contact me 📩: l.khrystoforova@gmail.com YOUTUBE канал⬇️
+      • Speaker & Founder @f_lab_official • Founder @bagpack_official • Stylist @shopping_with_lina Contact me 📩: l.khrystoforova@gmail.com Online⬇️
     location: "Ukraine"
-    followers: 33658
-    engagement: 371
-    commentsToLikes: 0.027993
+    followers: 33025
+    engagement: 345
+    commentsToLikes: 0.028875
     id: ck15rmpdf8o3c0i1973r9x1rc
     verified: false
-    hashtags: "#umka, #paris, #missyou, #12"
-  - username: "sulbieosmanova_makeup"
+    hashtags: "#12, #lookoftheday, #talks, #tulum"
+  - username: "nikahuk"
     fullname: >-
-      СУЛЬБИЕ ОСМАНОВА
+      Nika Huk • Stylist
     bio: >-
-      MAKEUP STYLIST Founder @so_beauty_lab💅🏻@so_wedding_dress👗 @sulbieosmanova_school Запись по номеру: +7(978)022-25-25
+      Ніка Гук Stylist, consultant, Lviv Ukraine. Founder @selfish.school Co-founder: @hukh.official Мій курс офлайн:
     location: "Ukraine"
-    followers: 31084
-    engagement: 520
-    commentsToLikes: 0.009591
-    id: ck0u70jhm3jwh0i195vfuqdxs
+    followers: 97981
+    engagement: 237
+    commentsToLikes: 0.018447
+    id: ck55j3v77w79u0i111omnag61
     verified: false
-    hashtags: "#weddingmakeup, #makeup, #makeupartist, #makeupsimferopol"
-  - username: "fffetisova"
-    fullname: >-
-      🔪 FETISA
-    bio: >-
-      MODEL ACTOR STYLIST @fffetishop @fffetishclo ORG @kyiv.reborn.production @oblava.party DJ
-    location: "Ukraine"
-    followers: 30253
-    engagement: 802
-    commentsToLikes: 0.009132
-    id: ck5c2wgk3y4kk0i11ghdbgh1s
-    verified: false
-    hashtags: ""
-  - username: "vikatemnova"
-    fullname: >-
-      
-    bio: >-
-      digital/film photographer stylist 📍now in Kyiv For ordering photoshooting - contact me via DM Feel free to contact with me
-    location: "Ukraine"
-    followers: 19709
-    engagement: 563
-    commentsToLikes: 0.009566
-    id: ck13c7d6eyytl0i19kgrowb2b
-    verified: false
-    hashtags: "#film, #35mm, #minolta"
-  - username: "sashavdovinaa"
-    fullname: >-
-      Aleksandra Vdovina
-    bio: >-
-      Visual artist / stylista humonista / psychological view Art director @brua_jewellery 📩 sashavdovina98@gmail.com / direct / WhatsApp +38 093 741 95 82
-    location: "Ukraine"
-    followers: 8059
-    engagement: 579
-    commentsToLikes: 0.021360
-    id: ck0w5ygbz61dc0i19uhwride0
-    verified: false
-    hashtags: "#quarantine"
+    hashtags: "#lookoftheday, #fashionagony, #fashionagonyegypt, #431"
   - username: "ivannamamchuk"
     fullname: >-
       Ivanna Mamchuk
     bio: >-
       Makeup artist Hair stylist Art
     location: "Ukraine"
-    followers: 5780
-    engagement: 534
-    commentsToLikes: 0.033437
+    followers: 5853
+    engagement: 592
+    commentsToLikes: 0.027644
     id: ck6tv2omyjtw40j7114q01vwn
     verified: false
-    hashtags: "#lvivgirls, #lvivgram, #lvivmakeup, #ivannamamchuk"
-  - username: "tattybohdan"
+    hashtags: "#ivannamamchuk, #mamchukhair, #lvivgirls, #mamchukmakeup"
+  - username: "_aprilblog_"
     fullname: >-
-      Tatyana Bohdan
+      Anna Mitnitskaja
     bio: >-
-      Model, stylist, TV host 👠. Fashion, beauty, travel, lifestyle...
+      ➤ Stylist & fashion consultant ➤ Founder @tothetop.ua ➤ Aesthetic life of a woman
     location: "Ukraine"
-    followers: 24881
-    engagement: 250
-    commentsToLikes: 0.031697
-    id: ck6tyt5z95pb60j71gvm7gu4t
+    followers: 5818
+    engagement: 310
+    commentsToLikes: 0.029666
+    id: ck0w1q7qsklgc0i19xej9xrck
     verified: false
-    hashtags: "#quarantine, #photo, #quarantinelife, #motherofdragons"
-  - username: "krist__elle"
+    hashtags: "#ootdstyle, #ruslanbaginskiy, #home, #totalblack"
+  - username: "vikatemnova"
     fullname: >-
-      Krist Elle ( Kristina Doli )
+      
     bio: >-
-      📍Odessa. 19.07. 1995 -👗👠 Fashion blogger & stylist - Inquiries 📩 kristina@futurmgmt.com
+      digital/film photographer stylist 📍now in Kyiv For ordering photoshooting - contact me via DM Feel free to contact me
     location: "Ukraine"
-    followers: 280333
-    engagement: 141
-    commentsToLikes: 0.005926
-    id: ck0w4xub90xws0i19j42ecy13
+    followers: 20045
+    engagement: 474
+    commentsToLikes: 0.011720
+    id: ck13c7d6eyytl0i19kgrowb2b
     verified: false
-    hashtags: "#prada"
-  - username: "suda4ka"
+    hashtags: "#film"
+  - username: "nadia_saveleva"
     fullname: >-
-      Аннушка
+      ICON. STYLE
     bio: >-
-      Стиль - это способ сказать, кто ты есть, без слова #suda4ka 🖤 •Founder @anybyanny 💓 •Stylist •Fashion blogger •Insta influencer
+      Stylist, эксперт в мире моды и красоты
     location: "Ukraine"
-    followers: 135867
-    engagement: 243
-    commentsToLikes: 0.006497
-    id: ck0w14qfvhjvf0i19amlrukkc
+    followers: 55944
+    engagement: 45
+    commentsToLikes: 0.010535
+    id: ck6ugmhny3weo0j710fw5z3xp
+    verified: false
+    hashtags: ""
+  - username: "panda_volkova"
+    fullname: >-
+      Гола з України
+    bio: >-
+      Model of human 🌱 ❗️NO TFP❗️ Stylist/Art maker/Performer LGBT and HIV activist @chastoty_ ,”COVEN”, @35mm_by_panda
+    location: "Ukraine"
+    followers: 22925
+    engagement: 485
+    commentsToLikes: 0.020374
+    id: ckap27uwcxr7i0i78brn2xlu5
+    verified: false
+    hashtags: "#dollskill, #sugarthrillz, #clubexx, #420"
+  - username: "uliana_foxy"
+    fullname: >-
+      Uliana Foxy
+    bio: >-
+      🤍 MAKE-UP ARTIST 🤍 HAIR STYLIST 🤍 BROW MASTER Тут живе шпіц Баффі🐶 Робоча сторінка ⬇️
+    location: "Ukraine"
+    followers: 5467
+    engagement: 882
+    commentsToLikes: 0.023153
+    id: ckaouv0no1xn20i78wt2vife3
+    verified: false
+    hashtags: "#lviv, #odessa, #zaralook, #pomeranian"
+  - username: "victoriapolovko"
+    fullname: >-
+      Виктория Половко
+    bio: >-
+      HAIR stylist ▪️ +38(063)234 97 98 Рабочий профиль 👇🏻
+    location: "Ukraine"
+    followers: 26591
+    engagement: 63
+    commentsToLikes: 0.015895
+    id: ck5q7evj017qv0i11c4huz4ra
+    verified: false
+    hashtags: "#estro"
+  - username: "allahontar_makeup"
+    fullname: >-
+      Алла Гонтар💄
+    bio: >-
+      Makeup and hair stylist🤍 Brow Master🤍 📲+380989591966 Ukraine/ Vinnytsya
+    location: "Ukraine"
+    followers: 3096
+    engagement: 647
+    commentsToLikes: 0.020465
+    id: ck9wf7sdankyr0j78letioqi2
     verified: false
     hashtags: ""
 ---

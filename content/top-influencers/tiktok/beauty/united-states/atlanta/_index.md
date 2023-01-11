@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Atlanta In 2022
+title: Top 10 Beauty TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top beauty TikTok influencers in Atlanta in 2022. Most popular hashtags: #atlanta #fyp #beauty #duet.
+  Find top beauty TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #beauty #foryoupage.
 platform: TikTok
 hits: 16
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 16 TikTok influencers like this in Atlanta, United States for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Atlanta, United States for you to work with.
 profiles:
-  - username: "ashleighvoisin"
+  - username: "catoura"
     fullname: >-
-      Ashleigh Voisin
+      Catoura
     bio: >-
-      Let’s laugh together. IG @ashnvoisin Venmo: AshleighVoisin
+      Lifestyle | Beauty | Atlanta dog mom 💃🏻🐕 Catcatoura@gmail.com Product link:
     location: "United States"
-    followers: 25000
-    engagement: 1157
-    commentsToLikes: 0.080033
-    id: ckck5ll2sql110j239con0tgn
+    followers: 13600
+    engagement: 505
+    commentsToLikes: 0.031828
+    id: ck9fmlkpyu1l50j78kh09jpkd
     verified: false
-    hashtags: "#women, #sometimesirun, #onewheel, #funny"
-  - username: "kristinacichanowsky"
-    fullname: >-
-      Kristina Cichanowsky
-    bio: >-
-      Kristina
-    location: "United States"
-    followers: 5169
-    engagement: 590
-    commentsToLikes: 0.031422
-    id: ck9fx8oa05at10j784au4o2zb
-    verified: false
-    hashtags: "#hair, #passion, #fyp, #worship"
+    hashtags: "#thingstodoinatlanta, #travelblogger, #greenscreen, #atlantablogger"
   - username: "dyetta"
     fullname: >-
       Donyetta Edwards
     bio: >-
       An Atlanta based lifestyle, health and beauty blog curated by Donyetta Edwards.
     location: "United States"
-    followers: 14200
-    engagement: 1027
-    commentsToLikes: 0.070911
+    followers: 15000
+    engagement: 1093
+    commentsToLikes: 0.085058
     id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#popquiz, #zoom, #workfromhome, #duet"
-  - username: "bkshedevil"
+    hashtags: "#fyp, #workfromhome, #zoom, #funny"
+  - username: "beautyofaboymom"
     fullname: >-
-      @BKSheDevil
+      BeautyofBoyMom
     bio: >-
-      🗣YUUURRR MAJESTY🗣 🇵🇷💄🖕🏼😈🤳🏽😜👟🗽 Beauty & The Feet’s BKLYN, NYC 🤍
+      Lover of affordable style, fitness and beauty. Follow me on IG. Shop links 👇🏼
     location: "United States"
-    followers: 295400
-    engagement: 2348
-    commentsToLikes: 0.012636
-    id: ckb9askj3vzzv0j235p0o81hw
+    followers: 59200
+    engagement: 359
+    commentsToLikes: 0.049192
+    id: ck982kodkgdgg0j78053yide1
     verified: false
-    hashtags: "#zaida, #miabuela, #mygrandma, #lashes"
-  - username: "catoura"
-    fullname: >-
-      Catoura
-    bio: >-
-      Beauty, Style & Yummy Eats Mama to a sweet chi chi Follow me on Insta!
-    location: "United States"
-    followers: 10500
-    engagement: 827
-    commentsToLikes: 0.030348
-    id: ck9fmlkpyu1l50j78kh09jpkd
-    verified: false
-    hashtags: "#fyp, #pup, #xyzbca, #dogsoftiktok"
+    hashtags: "#targetstyling, #charlottenc, #over40, #over40mom"
   - username: "littleechickpea"
     fullname: >-
       Bex
     bio: >-
       Politically engaged 👊 Atlanta ♻🏳️‍🌈🇵🇷 Cashapp: $goodviibes
     location: "United States"
-    followers: 13000
-    engagement: 1377
-    commentsToLikes: 0.121463
+    followers: 12800
+    engagement: 1241
+    commentsToLikes: 0.104280
     id: ckae5hpwl7gdp0i78qrnxjazm
     verified: false
-    hashtags: "#blm, #dumptrump, #ahmaudarbery, #blacklivesdomatter"
-  - username: "macyraydearing"
+    hashtags: "#foryourpage, #blm, #blacklivesmatter, #fyp"
+  - username: "_toshiad"
     fullname: >-
-      Macy Ray
+      TOSHIA D
     bio: >-
-      Welcome to my crazy life IG@macyraydearing Ima be famous 1 day Cashapp $macydear
+      Creative Photographer & Digital Artist Indy✈️ATL 🇬🇭🇺🇸🌻
     location: "United States"
-    followers: 187800
-    engagement: 1809
-    commentsToLikes: 0.011257
-    id: ckc85ejre4zj30j23hp0q7j66
+    followers: 13800
+    engagement: 1860
+    commentsToLikes: 0.073422
+    id: ckai28ufgetyv0i78ajo0mcl4
     verified: false
-    hashtags: "#atlanta, #pickuplines, #joke, #foryoupage"
-  - username: "monaswain"
+    hashtags: "#photography, #viral, #tiktokggt, #atlanta"
+  - username: "wfpbjosh"
     fullname: >-
-      Mona
+      Josh Wayne
     bio: >-
-      Coming to a stage or screen near you! Georgia 📍 19 she / her
+      Vegan, Whole Food Plant Based, Forager, Empathy
     location: "United States"
-    followers: 997800
-    engagement: 2785
-    commentsToLikes: 0.010563
-    id: ckd1924p2qo1d0j23nnv92jvy
+    followers: 3160
+    engagement: 908
+    commentsToLikes: 0.066418
+    id: ckakny1z394yh0i78q1bxh4cp
     verified: false
-    hashtags: "#wewintogether, #electionday, #joebiden2020, #vote"
-  - username: "tiffanyjj1"
+    hashtags: "#edible, #plantbased, #atl, #foraging"
+  - username: "lathelyfe"
     fullname: >-
-      Tiffany JJ
+      LA TheLyfe
     bio: >-
-      ATL ♊️🌈🎬 🐕🐈
+      Business inquires lathelife@gmail.com
     location: "United States"
-    followers: 37600
-    engagement: 1741
-    commentsToLikes: 0.090152
-    id: ckcdai72i44r80j2336f6rwen
+    followers: 61900
+    engagement: 881
+    commentsToLikes: 0.107296
+    id: ckbkxywicu4030j23oei92k8n
     verified: false
-    hashtags: "#atl, #benefits, #petsoftiktok, #edd"
-  - username: "annamoraan"
+    hashtags: "#lovememode, #viral, #fashion, #fy"
+  - username: "gorgeous_amazon"
     fullname: >-
-      Anna
+      Gorgeous_Amazon
     bio: >-
-      ANNAzon hiiii lets be friends :)) 📧: jessica@telloconsult.com AMAZON SHOP⬇️
+      A happy girl 💜
     location: "United States"
-    followers: 1200000
-    engagement: 2642
-    commentsToLikes: 0.005232
-    id: ck9reo5n534q30j78haedbg7g
+    followers: 4342
+    engagement: 1915
+    commentsToLikes: 0.156174
+    id: ckcoztviwan540j23n49w8qn1
     verified: false
-    hashtags: "#amazonfinds, #amazonfashion, #dayinthelife, #selfcare"
+    hashtags: "#weightlosstips, #weightlosstransformation, #fouryou, #makeup"
+  - username: "lifewithlanaa"
+    fullname: >-
+      lifewithlanaa
+    bio: >-
+      God is my LIFE 🤧🙏🏽 all about good vibess
+    location: "United States"
+    followers: 11200
+    engagement: 1688
+    commentsToLikes: 0.048466
+    id: ckcj3aama4pqz0j234k9qrbob
+    verified: false
+    hashtags: "#tallgirl, #foryou, #fyp, #holidate"
+  - username: "yuhgirl.ag"
+    fullname: >-
+      Alexa 🧚🏼‍♀️
+    bio: >-
+      Insta: yuhgirl.ag💙 Dancing videos 💃
+    location: "United States"
+    followers: 50800
+    engagement: 1778
+    commentsToLikes: 0.007064
+    id: cka5z86ymliwt0i78eriwp2p2
+    verified: false
+    hashtags: "#desmadre, #fyp, #spins, #bailes"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Ukraine In 2022
+title: Top 10 Lingerie Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top lingerie Instagram influencers in Ukraine in 2022. Most popular hashtags: #lingerie #fashion #girl.
+  Find top lingerie Instagram influencers in Ukraine in 2023. Most popular hashtags: #photo #model #fashion.
 platform: Instagram
-hits: 64
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 64 Instagram influencers like this in Ukraine for you to contact.
+hits: 19
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 19 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "onlynastie"
+  - username: "ali_sha_li"
     fullname: >-
-      Anastasia
+      Агеева Алина | Ageeva Alina
     bio: >-
-      Model • Artist • Photographer #model #girl #lingerie #fitnessgirl #onlyNastie
+      •Психологиня-феминистка профессионально копающаяся в мозгах ⠀ •Дотанцевалась до Чемпионки Мира Самое красивое белье тут➡️ @shali_lingerie
     location: "Ukraine"
-    followers: 3125
-    engagement: 4545
-    commentsToLikes: 0.040578
-    id: ckap6xa0thqnv0i787lv3h83f
+    followers: 27019
+    engagement: 897
+    commentsToLikes: 0.050607
+    id: ck137ewffb7c40i1940inyakj
     verified: false
-    hashtags: "#lingerie, #photography, #brunette, #girlswithtattoos"
-  - username: "voronina_model"
+    hashtags: "#chzhenageeva"
+  - username: "janna_evstafeva"
     fullname: >-
-      Модель 🇺🇦
+      ЖАННА ЕВСТАФЬЕВА
     bio: >-
-      𝘼𝙢𝙗𝙖𝙨𝙨𝙖𝙙𝙤𝙧 @fox_lingerie ❤️ ⠀ Agent @fk.mgmt Пишу свои мысли 💭 Реклама 👉🏻 𝘿𝙞𝙧𝙚𝙘𝙩 Exclusive content ⤵️🔞🍒
+      📸 Shooting ? DM ! 📍Ukraine
     location: "Ukraine"
-    followers: 142440
-    engagement: 340
-    commentsToLikes: 0.017218
-    id: ck0tww8y9h0kh0i19rmwic721
+    followers: 27653
+    engagement: 352
+    commentsToLikes: 0.054860
+    id: ck5q215zfdrl40i11fb4b1tck
     verified: false
-    hashtags: ""
-  - username: "anastasiya_morgul"
-    fullname: >-
-      Anastasiya
-    bio: >-
-      Создаю божественные купальники и белье @elegance_lingerie_ 👙 Умело держу маленькую камеру в руках и снимаю красоток📸 ⠀ Делаю только то, что люблю🙌🏻
-    location: "Ukraine"
-    followers: 2641
-    engagement: 773
-    commentsToLikes: 0.036362
-    id: ck5q3moeilgw00i114thur882
-    verified: false
-    hashtags: ""
-  - username: "zhilyova"
-    fullname: >-
-      Zhilyova Lera
-    bio: >-
-      Better check @zhilyova_lingerie
-    location: "Ukraine"
-    followers: 46291
-    engagement: 163
-    commentsToLikes: 0.023916
-    id: ck0tv2tgz9p0t0i19uzse1322
-    verified: false
-    hashtags: "#sustainablefashion"
-  - username: "lil.elia"
-    fullname: >-
-      LIL ELIA | ELEONORA ZAKHAROVA
-    bio: >-
-      Certified Makeup Artist @lileliabeauty 18|Ukraine, Krivoy Rog Cooperation direct ♡
-    location: "Ukraine"
-    followers: 19770
-    engagement: 267
-    commentsToLikes: 0.076148
-    id: ck9hckb8olsmn0j78ltg1lhln
-    verified: false
-    hashtags: "#dogoargentinolove, #dogofinstagram, #lingerie, #slipknotforever"
+    hashtags: "#germany, #white, #video, #portraitphotography"
   - username: "snizhana_lebid"
     fullname: >-
       Snizhana 💎
     bio: >-
       MA - MZM models (Ukraine UA)🇺🇦 Elite - Beijing, CalCarries - Guangzhou, Alpha Mode - Tokyo Lutsk ,Ukraine
     location: "Ukraine"
-    followers: 2695
-    engagement: 1861
-    commentsToLikes: 0.044448
+    followers: 2789
+    engagement: 1910
+    commentsToLikes: 0.042465
     id: ck5ce72a2kggq0i11472tlqtp
     verified: false
-    hashtags: "#photo, #fashion, #beauty, #like4like"
-  - username: "sfk911"
+    hashtags: "#elegant, #like4like, #instagram, #fashion"
+  - username: "vicky_mare"
     fullname: >-
-      Антон Софийченко -фотограф
+      Victoria Mare
     bio: >-
-      ‼️Ukraine/Cyprus 🇨🇾🌏 👇👇
+      ▫️Фіналістка «Супермодель по-українськи» 2 сезон ▫️Співпраця: Інеса 0981258621
     location: "Ukraine"
-    followers: 37430
-    engagement: 354
-    commentsToLikes: 0.021487
-    id: ck14hwwcucjnk0i19plzxdnhj
+    followers: 498852
+    engagement: 469
+    commentsToLikes: 0.053167
+    id: ck13719yb9aei0i19sprne69m
     verified: false
-    hashtags: "#latex, #legs, #heels, #fetish"
-  - username: "photomorphine"
+    hashtags: "#mentos, #yestofresh"
+  - username: "tania_dudu"
     fullname: >-
-      🅼🅾🆁🅿🅷🅸🅽🅴
+      Personal&Fashion stylist
     bio: >-
-      🔺Фотосъёмка любой сложности 🔺Опыт работы более 10 лет 🔺Снимал для мировых брендов 🔺Обучаю ретуши и фотосъёмке 🔺Снимаю ролики на Youtube ⏱Доступен 24/7
+      ✍🏻АДЕКВАТНИЙ БЛОГЕР ПРАКТИКУЮЧИЙ СТИЛІСТ ⠀ РОЗБИРАЮ старий гардероб НАДИХАЮ на нове ЖИТТЯ✨ ⠀ СПІВПРАЦЯ:
     location: "Ukraine"
-    followers: 11660
-    engagement: 358
-    commentsToLikes: 0.040658
-    id: ck6ttix4eav300j71ezo8c9cg
+    followers: 71748
+    engagement: 657
+    commentsToLikes: 0.010478
+    id: ck5px31rzpusm0i11q1dyc8bn
     verified: false
-    hashtags: "#fashionportrait, #photoshop, #bw, #style"
-  - username: "sonyakayofficial"
+    hashtags: "#bounty, #dudu, #howtobestylist, #winteroutfits"
+  - username: "unrealcobain"
     fullname: >-
-      Sonya Kay
+      UnrealCobain
     bio: >-
-      - Booking Viber/WhatsApp: 📲+380937722827 Вадім 🧰- Реклама/Pr/Співпраця: @aisha_milevskaya +380737722827
+      watch me on my Onlyfans account👇🏻
     location: "Ukraine"
-    followers: 27743
-    engagement: 543
-    commentsToLikes: 0.036461
-    id: ck0tvcjb6au5w0i19eekihj1a
+    followers: 125627
+    engagement: 1024
+    commentsToLikes: 0.006404
+    id: ck6tq1m3cowi10j71gzwuyx6d
     verified: false
-    hashtags: "#fashion, #beautiful, #premiere, #autumn"
-  - username: "_moincosplay_"
+    hashtags: ""
+  - username: "vintoniakange"
     fullname: >-
-      Moin cosplay
+      Анжелика Равинская 🇺🇦
     bio: >-
-      ✨Seal girl 🐚|♒|23 🐚Born in 🇺🇦, living in🇩🇪 🐚 💍 Engaged 💍 🌸Next Cos - Taihou 🌸
+      ♡ Astrology ♥ @by_ravange ♡ Travels ♥ Ukrainian rally 2020 champion’s wife 🇵🇱🇧🇾🇫🇮🇭🇺🇷🇺🇹🇷🇪🇸🇬🇷🇮🇹🇲🇨🇭🇷🇦🇹🇱🇻🇫🇷🇬🇪🇪🇬🇳🇱🇬🇹🇪🇪🇬🇧🇷🇴🇨🇿🇩🇴🇨🇭
     location: "Ukraine"
-    followers: 15135
-    engagement: 333
-    commentsToLikes: 0.024420
-    id: ck6twixxls98x0j71gx2advet
+    followers: 41706
+    engagement: 293
+    commentsToLikes: 0.034073
+    id: ckap1gfhduhmq0i78tn3vnjuo
     verified: false
-    hashtags: "#catradoracosplay, #makeup, #sexycosplay, #stockings"
+    hashtags: "#halloween, #ravange"
+  - username: "yosypivnna"
+    fullname: >-
+      Kydinna Diana
+    bio: >-
+      Ukraine/Kyiv 🇺🇦 ⬇️Лучшая спортивная одежда ⛹🏼‍♀️🤾🏼‍♀️🏊🏻‍♀️
+    location: "Ukraine"
+    followers: 15881
+    engagement: 582
+    commentsToLikes: 0.029977
+    id: ckf5qn8ed9xv80j2368i866oc
+    verified: false
+    hashtags: ""
+  - username: "sashabarss"
+    fullname: >-
+      
+    bio: >-
+      📍Milan, Italy 🇮🇹 @nextmodelsmilan 🇱🇹 @rutamodelmanagement 🇪🇸 @twomanagementbarcelona ma @anger_models
+    location: "Ukraine"
+    followers: 14228
+    engagement: 593
+    commentsToLikes: 0.024407
+    id: ck5hm9zywlkp90i11jkup2hq2
+    verified: false
+    hashtags: ""
+  - username: "di.blondie"
+    fullname: >-
+      D I A N A 🇺🇦S Η A B A S
+    bio: >-
+      Miss Earth Ukraine👑2019 Miss Bikini 👙🥇2019 / Miss Smile Model in: 🇸🇬🇪🇸🇲🇽🇮🇹🇫🇷🇳🇪🇨🇳🇹🇷🇷🇸... СПІВПРАЦЯ ➡️ @pr_diana.shabas Ambassador of @marieclaire_ua
+    location: "Ukraine"
+    followers: 25983
+    engagement: 464
+    commentsToLikes: 0.015079
+    id: ck6tlr6f46hob0j714aj7f2ug
+    verified: false
+    hashtags: "#aestetic"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 TikTok Influencers In Kuwait In 2022
+title: Top 10 TikTok Influencers In Kuwait In 2023
 description: >-
-  Find top TikTok influencers in Kuwait in 2022. Most popular hashtags: #foryoupage #foryou #fyp.
+  Find top TikTok influencers in Kuwait in 2023. Most popular hashtags: #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 222
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 222 TikTok influencers like this in Kuwait for you to work with.
+hits: 227
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 227 TikTok influencers like this in Kuwait for you to work with.
 profiles:
-  - username: "5u_f"
+  - username: "jennetstamaria"
     fullname: >-
-      دعم_زيادة_المتابعين🔥💯
+      Jennet Carpio Stamaria
     bio: >-
-      الشروط ١- تابعني✅ ٢- تابع الي انا متابعتهم ٣- لايكات على فيديوهاتي ♥️
+      Be your self.loyal humble.
     location: "Kuwait"
-    followers: 140100
-    engagement: 7416
-    commentsToLikes: 0.184026
-    id: ckdnu8145msr40j23sfld0hay
+    followers: 6193
+    engagement: 5942
+    commentsToLikes: 0.234298
+    id: ckbljbbbgcdvz0j23bqcmwhi3
     verified: false
-    hashtags: ""
+    hashtags: "#duet"
   - username: "miloo2._"
     fullname: >-
       ﮼العجميه🤍..
@@ -30,79 +30,55 @@ profiles:
     commentsToLikes: 0.825142
     id: ckbewm7ovg8mq0j23x4tns96t
     verified: false
-    hashtags: "#foryou, #79, #explore, #fud"
-  - username: "jennetstamaria"
-    fullname: >-
-      Jennet Carpio Stamaria
-    bio: >-
-      
-    location: "Kuwait"
-    followers: 6045
-    engagement: 5415
-    commentsToLikes: 0.095805
-    id: ckbljbbbgcdvz0j23bqcmwhi3
-    verified: false
-    hashtags: "#sanmiguelbulacan, #kuwaitph, #sanmiguel, #kuwaitpp"
+    hashtags: "#explore, #kuwait, #fud, #fyp"
   - username: "shantitamangshant"
     fullname: >-
       sanam tamang
     bio: >-
       
     location: "Kuwait"
-    followers: 3591
-    engagement: 4680
-    commentsToLikes: 0.102696
+    followers: 3747
+    engagement: 4700
+    commentsToLikes: 0.099207
     id: ckdtklx7lyfuj0j2318vg5yzv
     verified: false
-    hashtags: ""
-  - username: "rafiqulislam283"
-    fullname: >-
-      Rafiqul Islam
-    bio: >-
-      হে আল্লাহ তুমি সবাইকে সঠিক পথ দেখাও এবং আমাকে ক্ষমা করে দাও তুমি সবার সহায় হও
-    location: "Kuwait"
-    followers: 4766
-    engagement: 4567
-    commentsToLikes: 0.100867
-    id: ckdnvg9dnom3l0j23sof7lfdy
-    verified: false
-    hashtags: ""
+    hashtags: "#duet"
   - username: "marikathapa0"
     fullname: >-
       Marika(Xuchhi)
     bio: >-
-      Chitwan Narayangadh, Nepal
+      मेरो भगवान भनेको नै बाबा मम्मी हो🙏 चितवन मा घर छ मलाइ के को डर छ 😘🇳🇵❤
     location: "Kuwait"
-    followers: 6554
-    engagement: 3919
-    commentsToLikes: 0.210587
+    followers: 6993
+    engagement: 4476
+    commentsToLikes: 0.282493
     id: ckavq22w71ev10j236ig5a6j6
     verified: false
-    hashtags: "#marikathapa0, #duet"
-  - username: "soft.girl48"
-    fullname: >-
-      ارد الاضافة ، انايــلا 😘💅🏻
-    bio: >-
-      اخذتي شي { @ } ما اسمحلك تاخذين لقبي 🤝. بلاكتان ❌ ملوك البوب ✅ ارد الاضافة
-    location: "Kuwait"
-    followers: 6338
-    engagement: 3796
-    commentsToLikes: 0.169013
-    id: ckbaa8ml62xhl0j239eh998mn
-    verified: false
-    hashtags: "#bts, #foryourpage, #fyp, #jungkook"
+    hashtags: "#marikathapa0, #tiktokgallery"
   - username: "user803737308657434"
     fullname: >-
       💘🌻🥀pandu🥀🌻💘
     bio: >-
       
     location: "Kuwait"
-    followers: 3315
-    engagement: 3775
-    commentsToLikes: 0.121343
+    followers: 3271
+    engagement: 3822
+    commentsToLikes: 0.114527
     id: ckamhixh8gadq0i787hqgpxoj
     verified: false
     hashtags: ""
+  - username: "soft.girl48"
+    fullname: >-
+      ارد الاضافة ، انايــلا 😘💅🏻
+    bio: >-
+      اخذتي شي { @ } ما اسمحلك تاخذين لقبي 🤝. ارد الاضافة اختبار الذكاء 👇🏻
+    location: "Kuwait"
+    followers: 6158
+    engagement: 3523
+    commentsToLikes: 0.166391
+    id: ckbaa8ml62xhl0j239eh998mn
+    verified: false
+    hashtags: "#fyp, #fypage, #jungkookstan, #foryoupage"
   - username: "f.3xs"
     fullname: >-
       FARIDA ♥️:(
@@ -114,17 +90,41 @@ profiles:
     commentsToLikes: 0.131111
     id: ckdnuxc05nv960j2318jjpz3d
     verified: false
-    hashtags: "#jungkook, #funny, #fyp, #foryoupage"
+    hashtags: "#fyp, #foryoupage, #foraver, #jungkook"
+  - username: "jayesh52529"
+    fullname: >-
+      JAYESH PERUMBAVOOR  🔷♦️
+    bio: >-
+      കുവൈറ്റ്
+    location: "Kuwait"
+    followers: 25400
+    engagement: 3266
+    commentsToLikes: 0.155376
+    id: ckbkdkzis3k910j23f6nd6vlf
+    verified: false
+    hashtags: "#duet, #drama"
   - username: "___kanchana___2"
     fullname: >-
       නෙතූ
     bio: >-
       
     location: "Kuwait"
-    followers: 8737
-    engagement: 3476
-    commentsToLikes: 0.088569
+    followers: 8934
+    engagement: 3122
+    commentsToLikes: 0.078895
     id: ckdtl5a6rz38x0j23x798wgjv
     verified: false
-    hashtags: "#duet"
+    hashtags: "#sachiya"
+  - username: "rmt_aira7"
+    fullname: >-
+      @ it's me_aira7
+    bio: >-
+      💞Simple 🛐 💕Tiktok was for entertaining and sharing positive vibes 💕
+    location: "Kuwait"
+    followers: 5094
+    engagement: 3052
+    commentsToLikes: 0.044367
+    id: ckae0flycjfe40i78n20oatpw
+    verified: false
+    hashtags: ""
 ---

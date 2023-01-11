@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chicago In 2022
+title: Top 10 Athletes Instagram Influencers In Chicago In 2023
 description: >-
-  Find top athletes Instagram influencers in Chicago in 2022. Most popular hashtags: #dance #chicago #danceclass.
+  Find top athletes Instagram influencers in Chicago in 2023. Most popular hashtags: #athlete #chicago #model.
 platform: Instagram
-hits: 85
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 85 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 73
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 73 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "heldilox"
     fullname: >-
       Ryan Held
     bio: >-
-      Olympic Gold Medalist @arenausa athlete @newyorkac athlete @championsmojo athlete @chicagobulls NCSU alum Bama Environmentalist Eagle scout 217
+      Olympic Gold Medalist @arenausa athlete @newyorkac athlete @championsmojo athlete @chicagobulls NCSU alum Environmentalist Eagle scout 217
     location: "United States"
-    followers: 19028
-    engagement: 900
-    commentsToLikes: 0.006205
+    followers: 18870
+    engagement: 899
+    commentsToLikes: 0.006096
     id: ck138ifmtgdbt0i19m1wz6k87
     verified: true
-    hashtags: "#austintexas, #more, #tyrproseries, #wearenc"
-  - username: "carlodarang"
+    hashtags: "#austintexas, #tyrproseries, #wearenc"
+  - username: "nbastateofmind"
     fullname: >-
-      Carlo Darang
+      
     bio: >-
-      #Dancer | #Choreographer | Co-Director of @ChoreoCookies | Building Block Instructor | Co-Director of @GWOWNUPS | Contact: CarloDarang@gmail.com
+      🏀 NBA STATE OF MIND 🏀
     location: "United States"
-    followers: 26104
-    engagement: 475
-    commentsToLikes: 0.017798
-    id: ck15su99zetuq0i19bqkrp33e
+    followers: 42035
+    engagement: 572
+    commentsToLikes: 0.013404
+    id: ck8t2eowzz77z0j78aadtxhmg
     verified: false
-    hashtags: "#kinjaz, #changesthemovement, #choreography, #danceclass"
-  - username: "xpinson"
+    hashtags: "#bullsnation, #basketball, #detroitpistons, #athlete"
+  - username: "priscillamoy"
     fullname: >-
-      ✘
+      ✨𝒫𝑅𝐼𝒮𝒞𝐼𝐿𝐿𝒜 𝑀𝒪𝒴 ✨
     bio: >-
-      Official Instagram of @mizzouhoops & @mizzou’s Student-Athlete, Xavier Pinson. #Chicago #MIZ #ZOU #ToTheFinishLine 🏁
+      🇨🇳🇺🇸♌️ © Chicago ⇢📍Las Vegas Model•Actress•Dancer Athlete•Painter•YouTuber Illinois Wesleyan '15 @focus_mediagroup @bestagencylv @envymodels
     location: "United States"
-    followers: 20168
-    engagement: 1238
-    commentsToLikes: 0.016873
-    id: ck0w3lbmrtzig0i19ipermwxm
+    followers: 45108
+    engagement: 170
+    commentsToLikes: 0.109554
+    id: ck0vuw6wxmfun0i198b0j1dan
     verified: false
-    hashtags: "#999, #38baby2, #ttfl, #moretoprove"
+    hashtags: "#ootd, #tonedgirls, #lasvegasmodels, #explorevegas"
+  - username: "joshdixon"
+    fullname: >-
+      Josh Dixon
+    bio: >-
+      📍SoCal •athlete, entrepreneur, owner @chicagoredstars ⚽️ •alumni: @TeamUSA 🇺🇸 🤸🏽‍♂️ | @stanford 🌲🤓
+    location: "United States"
+    followers: 238675
+    engagement: 173
+    commentsToLikes: 0.025664
+    id: ck0tzs1csre3b0i19vcydn7vo
+    verified: true
+    hashtags: "#la, #team, #athlete, #tech"
   - username: "courtneygano"
     fullname: >-
       Courtney Gano Gaddy
     bio: >-
       CONNECTED TO THE SOURCE Mama & Wife 🤍 Pro Softballer @chicagobandits Wilson Athlete @wilsonballglove Louisville Slugger Athlete @sluggerfp
     location: "United States"
-    followers: 26097
-    engagement: 655
-    commentsToLikes: 0.021213
+    followers: 30154
+    engagement: 579
+    commentsToLikes: 0.019692
     id: ck6u5w7fhc3vo0j71cos3u642
     verified: true
-    hashtags: "#xeno, #blackboyjoy, #lxt, #babyboy"
-  - username: "lilgalvin"
+    hashtags: "#2020, #blackboyjoy, #rxt, #ad"
+  - username: "alecmapa"
     fullname: >-
-      Brittany Galvin
+      Alec Mapa
     bio: >-
-      Creator| DJ |Model ✖️ Bookings @wilhelminamodels ✖️ Athlete @ghostlifestyle “code: Brittany” Chicago Based🌱🌎
+      Series Regular. Podcast - ALEC MAPA: HOT MESS with @mjdempseypsych !
     location: "United States"
-    followers: 20585
-    engagement: 727
-    commentsToLikes: 0.028099
-    id: ck5zw83rf5ns90i140i42bps4
+    followers: 30280
+    engagement: 235
+    commentsToLikes: 0.059040
+    id: ck6uhy9n4by6v0j71v1j8dze2
+    verified: true
+    hashtags: "#gaydads, #blacklivesmatter, #trans, #dadsofinstagram"
+  - username: "mlbmemegod"
+    fullname: >-
+      MLB Memes ⚾️
+    bio: >-
+      Follow me for: 😂 Baseball Memes ⚾️ MLB News 🎥 Videos ❓Polls and much more DMs open for Promo/Business, Meme Ideas Blocked by Jose Altuve 😂 FOLLOW👇👇👇👇👇
+    location: "United States"
+    followers: 18733
+    engagement: 1131
+    commentsToLikes: 0.015694
+    id: ck15u0qm8kutq0i19mu0xbgdp
     verified: false
-    hashtags: "#sweatwetgotitgoinglikeaturbojet"
+    hashtags: "#mlbtrades, #javierbaez, #mlbmemes, #mlbtrade"
   - username: "kenkenbeastmode"
     fullname: >-
       Kennedy Moore
     bio: >-
       9-years-old *Chicago *Model *Actress *Athlete Represented by @lilystalent
     location: "United States"
-    followers: 28585
-    engagement: 58
-    commentsToLikes: 0.019948
+    followers: 36711
+    engagement: 41
+    commentsToLikes: 0.024378
     id: ck14jsrlolzv50i192uvhbjpc
     verified: false
-    hashtags: "#lilystalent, #mixedhair, #love, #chicago"
-  - username: "drjcofthedc"
+    hashtags: "#model, #2020, #fun, #chicagomodel"
+  - username: "tayansagestans"
     fullname: >-
-      Jason “TikTok Doc” Campbell
+      Tayan Stansfield
     bio: >-
-      Doctor Jason Campbell Anesthesia Resident @ohsunews @junkbrands Athlete Guest Writer @seattletimes @chicagotribune @wearfigs: FIGSxTikTokDoc
+      Tayyy mlchs | Chi @therockagency | Nash @amaxagency | Booking: ntennicott@therockagency.com Miss Teen Shelby Co | fitness addict | adventurer | KY |
     location: "United States"
-    followers: 128556
-    engagement: 567
-    commentsToLikes: 0.026242
-    id: ck8t7kykxh75y0j78hggrgrzs
+    followers: 8782
+    engagement: 1217
+    commentsToLikes: 0.216303
+    id: ckap4d3zc6t580i781orsx7ny
     verified: false
-    hashtags: "#smile, #tiktokdoc, #strongertogether, #tiktok"
-  - username: "jackie_nowicki"
-    fullname: >-
-      Jackie Nowicki
-    bio: >-
-      -Artistic Director of NOW Dance Project •Dancer •Teacher •Choreographer -For booking information please email JNowicki030@gmail.com
-    location: "United States"
-    followers: 5444
-    engagement: 621
-    commentsToLikes: 0.056493
-    id: ck6tqrs7utmd30j718lo3ew44
-    verified: false
-    hashtags: "#friendsmakingart, #contemporarydance, #photography, #art"
+    hashtags: "#tayansage, #urbanoutfitters, #fitnessobsessed, #therockagency"
   - username: "tierna_davidson"
     fullname: >-
       Tierna Davidson
     bio: >-
       USWNT | Chicago Red Stars @nike Athlete @wasserman
     location: "United States"
-    followers: 65759
-    engagement: 1564
-    commentsToLikes: 0.003061
+    followers: 66558
+    engagement: 1403
+    commentsToLikes: 0.002985
     id: ck0vxgrezytf60i19gls82kqc
     verified: true
     hashtags: "#blackouttuesday, #youcantstopus, #betrue, #untilweallwin"
-  - username: "agilli16"
-    fullname: >-
-      Arin Wright {gilliland}
-    bio: >-
-      Chicago Red Stars @adidas Athlete @nwsl KY ➡️ CHI
-    location: "United States"
-    followers: 11366
-    engagement: 810
-    commentsToLikes: 0.024533
-    id: ck0tt5vs31an10i19jkybhr8g
-    verified: false
-    hashtags: "#genderrevealcomingsoon, #likemommalikeson, #therealheros, #firstmothersday"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Austria In 2022
+title: Top 10 Lifestyle TikTok Influencers In Austria In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Austria in 2022. Most popular hashtags: #austria #foryou #vienna #viral.
+  Find top lifestyle TikTok influencers in Austria in 2023. Most popular hashtags: #viral #foryou #fy #austria.
 platform: TikTok
-hits: 12
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in Austria for you to work with.
+hits: 10
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "yogajunkies"
     fullname: >-
       Yoga Lifestyle Boxes
     bio: >-
-      Delivering the yoga lifestyle, one box at a time. Yoga Box + Mats 👇🏻
+      We create monthly surprise boxes to help you embrace the yoga lifestyle.
     location: "Austria"
-    followers: 4277
-    engagement: 566
-    commentsToLikes: 0.042142
+    followers: 4259
+    engagement: 538
+    commentsToLikes: 0.033748
     id: ckb9boxboxy690j2331nx3k7k
     verified: false
-    hashtags: "#yogajunkies, #vienna, #boxpacking, #yogalifestyle"
-  - username: "ewatsiakmakis"
-    fullname: >-
-      ewa
-    bio: >-
-      fashion, beauty, lifestyle & fooood🤍 follow my IG: ewatsiakmakis vienna
-    location: "Austria"
-    followers: 26400
-    engagement: 712
-    commentsToLikes: 0.017989
-    id: ckai38ndaj02e0i783silu66w
-    verified: false
-    hashtags: "#vienna, #vlog, #asiashophaul, #shopping"
+    hashtags: "#boxpacking, #vienna, #yogajunkies, #viennacity"
   - username: "dogan_c63z"
     fullname: >-
       dogan_c63z
     bio: >-
       Follow me on instagram dogan_c63z Snap: dgn_c63
     location: "Austria"
-    followers: 265400
-    engagement: 862
-    commentsToLikes: 0.007409
+    followers: 267800
+    engagement: 795
+    commentsToLikes: 0.006535
     id: ck7zoh9gzk11a0j78h84b3bgp
     verified: false
-    hashtags: "#modifiye, #istanbul, #cars, #amgc63s"
+    hashtags: "#mercedesbenz, #amgc63s, #nature, #c63s"
+  - username: "cityboyvladan"
+    fullname: >-
+      ᵛᴸᴬᴰᴬᴺ †
+    bio: >-
+      ᴍᴇɪɴᴇ ᴋʟᴇɪɴᴇ ᴡᴇʟᴛ ᴀᴜꜰ ᴛɪᴋᴛᴏᴋ 😜🤟🏼 ɪɴꜱᴛᴀɢʀᴀᴍ: ᴄɪᴛʏʙᴏʏᴠʟᴀᴅᴀɴ 🇦🇹/🇷🇸
+    location: "Austria"
+    followers: 48000
+    engagement: 1042
+    commentsToLikes: 0.064468
+    id: ckbkvz1f5rnm00j23cu5gx8ey
+    verified: false
+    hashtags: "#comedy, #viral, #fyp, #duett"
   - username: "checheiam"
     fullname: >-
       Checheiam 
     bio: >-
-      Dominican🇩🇴/🇦🇹 @checheiam 🙏🏽❤️
+      Dominican🇩🇴 @checheiam 🙏🏽❤️
     location: "Austria"
-    followers: 9489
-    engagement: 601
-    commentsToLikes: 0.060462
+    followers: 9376
+    engagement: 517
+    commentsToLikes: 0.072199
     id: ckb9fn6lv42ox0j23cber69c9
     verified: false
-    hashtags: "#innsbruck, #tiktok, #beats, #austria"
-  - username: "niveau_lifestyle"
+    hashtags: "#shooting, #innsbruck, #cheche, #beats"
+  - username: "qubix_official"
     fullname: >-
-      Niveau_lifestyle
+      ⚡️qubix_official⚡️
     bio: >-
-      ❤️Täglich neue TikTok‘s für euch❤️ ▪️(7:00/16:00) a4f5
+      📍 Vienna, Austria ⚡️ Insta: @qubix_official 🇷🇸 I’m from Balkan b*tch
     location: "Austria"
-    followers: 29600
-    engagement: 1168
-    commentsToLikes: 0.040474
-    id: ckadavyu1k8p20i78t73em93e
+    followers: 7640
+    engagement: 1422
+    commentsToLikes: 0.021957
+    id: ckae1ugknqk4g0i78o8fq43av
     verified: false
-    hashtags: "#fyp, #duett, #halloweenathome, #viral"
-  - username: "janedelm"
+    hashtags: "#stunt, #viral, #love, #beast"
+  - username: "anaspalace"
     fullname: >-
-      Jan Edelmüller🔥
+      Anastasija
     bio: >-
-      🇦🇹 More on Insta: @janedelmueller
+      18yrs 📍Austria, Serbia Insta/ Snap: anaspalace
     location: "Austria"
-    followers: 26600
-    engagement: 521
-    commentsToLikes: 0.072099
-    id: ck81s7m58qlry0j78xv2r2uin
+    followers: 159200
+    engagement: 705
+    commentsToLikes: 0.023032
+    id: ckdgzuhkjr5u10j23m6c65abu
     verified: false
-    hashtags: "#sportwagen, #viralvideo, #cars, #auto"
-  - username: "bentherapietv2020"
-    fullname: >-
-      Ben 
-    bio: >-
-      SpontanAktionen😂 Austria/Kosovo Snapchat: bentherapietv
-    location: "Austria"
-    followers: 3003
-    engagement: 406
-    commentsToLikes: 0.089569
-    id: ckdhv9v2b3oyw0j23jcev8rvl
-    verified: false
-    hashtags: "#therapietv2020, #fy, #funnyvideos, #tiere"
-  - username: "the.alchemist1999"
-    fullname: >-
-      Julian (JT)
-    bio: >-
-      NYC born, Jersey raised 🇺🇸 Vienna, comedy and truth Just For Fun
-    location: "Austria"
-    followers: 6181
-    engagement: 737
-    commentsToLikes: 0.024182
-    id: ckcjnhll7ff160j23updw6i0h
-    verified: false
-    hashtags: "#viennacity, #comedy, #austrian, #austrianboy"
+    hashtags: "#family, #dance, #austriatiktok, #fy"
   - username: "jakob_7z"
     fullname: >-
       Jakob
     bio: >-
       Trump is a bitch.
     location: "Austria"
-    followers: 5086
-    engagement: 1589
+    followers: 5019
+    engagement: 1590
     commentsToLikes: 0.000000
     id: ckb9jxx43bfzq0j232wf87hwf
     verified: false
-    hashtags: "#foryoupage, #quarantine, #viral, #foryou"
+    hashtags: "#viral, #quarantine, #foryou, #enjoy"
+  - username: "niveau_lifestyle"
+    fullname: >-
+      Niveau_lifestyle
+    bio: >-
+      Ich mag Montage...... Ja ich bin seltsam 😌
+    location: "Austria"
+    followers: 42900
+    engagement: 1254
+    commentsToLikes: 0.050164
+    id: ckadavyu1k8p20i78t73em93e
+    verified: false
+    hashtags: "#confused, #niveau, #selbstexperiment, #hochtauschen"
+  - username: "laurafalquez"
+    fullname: >-
+      Laura Falquez
+    bio: >-
+      ✨Inside a girl’s weird life ✨ This place is something else🔻
+    location: "Austria"
+    followers: 34200
+    engagement: 963
+    commentsToLikes: 0.058847
+    id: ckadb353el7oq0i78fc5gcfqw
+    verified: false
+    hashtags: "#wasserperlen, #viral, #orbeez, #foodtiktok"
   - username: "jummymum"
     fullname: >-
       Katharina Daniela
     bio: >-
-      💃🏼 CEO von @Jummyhandmade 👩‍👧 single mum ⬇️ Link zum Shop
+      💐Mehr von mir auf Instagram ⬇️ CEO of Jummycosmetics.com &
     location: "Austria"
-    followers: 116700
-    engagement: 739
-    commentsToLikes: 0.021410
+    followers: 131600
+    engagement: 618
+    commentsToLikes: 0.014745
     id: ckbrb8iixpefo0j23wymm5qty
     verified: false
-    hashtags: "#chrismas, #love, #mentalillness, #stitch"
+    hashtags: "#jummies, #duett, #selfcare"
 ---

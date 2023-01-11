@@ -1,36 +1,72 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Finland In 2022
+title: Top 10 Fashion TikTok Influencers In Finland In 2023
 description: >-
-  Find top fashion TikTok influencers in Finland in 2022. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
+  Find top fashion TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #fashion #foryoupage #foryou.
 platform: TikTok
-hits: 9
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 9 TikTok influencers like this in Finland for you to connect with.
+hits: 10
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Finland for you to pitch.
 profiles:
+  - username: "ywzzv"
+    fullname: >-
+      Yenna
+    bio: >-
+      Anzela® IG @ywzzv & @vnzelv
+    location: "Finland"
+    followers: 8010
+    engagement: 1229
+    commentsToLikes: 0.049110
+    id: ckan3ziuz7n7t0i78arpz656w
+    verified: false
+    hashtags: "#fyp, #foryoupage, #muslim, #model"
+  - username: "nami.hani"
+    fullname: >-
+      Namikolinx
+    bio: >-
+      |ʏᴏᴜᴛᴜʙᴇʀ| -99🇫🇮🇬🇧 💕 ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴏᴛʜᴇʀ ᴛᴛ ᴀᴄᴄᴏᴜɴᴛs
+    location: "Finland"
+    followers: 106500
+    engagement: 1490
+    commentsToLikes: 0.017312
+    id: ckbangkjfebfa0j23u4kq6iyx
+    verified: true
+    hashtags: "#gamergirl, #fyp, #uwu, #egirl"
+  - username: "anettemanko"
+    fullname: >-
+      Anette Mankolanaho
+    bio: >-
+      Acting 🎬 From Finland 🇫🇮 IG: anettemanko
+    location: "Finland"
+    followers: 9558
+    engagement: 435
+    commentsToLikes: 0.039143
+    id: ckb9v78pduedj0j23juswuei3
+    verified: false
+    hashtags: "#juhannus, #fyp, #fishing, #lake"
   - username: "whoisjani"
     fullname: >-
       Jani
     bio: >-
-      Whaat
+      
     location: "Finland"
-    followers: 3339
-    engagement: 541
-    commentsToLikes: 0.024301
+    followers: 3287
+    engagement: 641
+    commentsToLikes: 0.019180
     id: ckbf4v4otthjc0j236tp22g4q
     verified: false
-    hashtags: "#foryou, #style, #fyp, #tiktoksuomi"
-  - username: "mustarttu"
+    hashtags: "#xyzbca, #aesthetic, #xyzcba, #foryoupage"
+  - username: "erineveliina"
     fullname: >-
-      Mustarttu
+      Erin
     bio: >-
-      Super important influencer 💅🏻🥂 IG: @mustarttu
+      Hii
     location: "Finland"
-    followers: 8224
-    engagement: 574
-    commentsToLikes: 0.009627
-    id: ckbqjypk155id0j236p9z2lv4
+    followers: 27000
+    engagement: 1105
+    commentsToLikes: 0.079989
+    id: ck8ja6y9mqxhy0j78pgtb6ine
     verified: false
-    hashtags: "#suomi, #parodia, #helsinki, #sisustus"
+    hashtags: "#foryou, #outfit, #fyp, #aesthetic"
   - username: "michael_anders"
     fullname: >-
       MIKEY ✪
@@ -42,77 +78,53 @@ profiles:
     commentsToLikes: 0.022024
     id: cka0fnd3g0anz0i78kz5zwv9z
     verified: false
-    hashtags: "#foryoupage, #fyp, #tiktoksuomi, #finland"
+    hashtags: "#tiktoksuomi, #foryoupage, #fyp, #finland"
   - username: "jejkobbb"
     fullname: >-
       Jejkobbb
     bio: >-
       creator @memes
     location: "Finland"
-    followers: 31200
-    engagement: 1498
-    commentsToLikes: 0.013024
+    followers: 31300
+    engagement: 1478
+    commentsToLikes: 0.013305
     id: ck8aeahjpbb0g0j78auedkm4q
     verified: false
-    hashtags: "#memes, #shrek, #shrekmemes, #csgo"
-  - username: "flowical"
+    hashtags: "#memes, #shrek, #shrekmemes, #catplayspiano"
+  - username: "klaraweiz"
     fullname: >-
-      marshall 🌴🛹
+      this is my new hobby
     bio: >-
-      (ง'̀-'́)ง 2000
+      Literally a professional dancer nowdays😌 and artist too😉 im just pranking!🦫
     location: "Finland"
-    followers: 2976
-    engagement: 970
-    commentsToLikes: 0.045925
-    id: ckbf3oonirjes0j23r02ujlb5
+    followers: 3127
+    engagement: 515
+    commentsToLikes: 0.027924
+    id: ck8qpq1kn4hs60j784x2mxxyf
     verified: false
-    hashtags: "#finland, #suomi, #xyzbca, #xyzcba"
-  - username: "erineveliina"
-    fullname: >-
-      Erin
-    bio: >-
-      Hii
-    location: "Finland"
-    followers: 27400
-    engagement: 1002
-    commentsToLikes: 0.015738
-    id: ck8ja6y9mqxhy0j78pgtb6ine
-    verified: false
-    hashtags: "#fy, #foryoupage, #fup, #fyp"
-  - username: "al3x97g"
-    fullname: >-
-      Alexis Grigoriou
-    bio: >-
-      🇨🇾 🇫🇮 📱 iPhone XR 🎥 GoPro Max @al3x97g
-    location: "Finland"
-    followers: 3996
-    engagement: 555
-    commentsToLikes: 0.036916
-    id: ck9eo4r2fmfd40j78r1w820l4
-    verified: false
-    hashtags: "#cyprus, #bartender, #helsinki, #flair"
+    hashtags: "#fyp, #foryoupage, #dancer, #foryou"
   - username: "aish3ley"
     fullname: >-
       Aishe
     bio: >-
       
     location: "Finland"
-    followers: 32200
-    engagement: 496
-    commentsToLikes: 0.011780
+    followers: 31300
+    engagement: 494
+    commentsToLikes: 0.011546
     id: ck9r9uocbi8re0j78c8abl9t8
     verified: false
-    hashtags: "#turkey, #tiktok, #musically, #ankara"
-  - username: "juliajokivalli"
+    hashtags: "#ankara, #turkishgirl, #finland, #tiktokt"
+  - username: "alexis_grigoriou"
     fullname: >-
-      Julia
+      Alexis Grigoriou
     bio: >-
-      18 Jotai yritän välil laulaa ja kans vähä jotai jerryy heittää 🦋
+      🇨🇾 🇫🇮 Anyone down for a shoot? 📸 @al3xgrigoriou
     location: "Finland"
-    followers: 18400
-    engagement: 934
-    commentsToLikes: 0.013967
-    id: ckbr40z0ik9cq0j23rciys7h9
+    followers: 3951
+    engagement: 596
+    commentsToLikes: 0.031182
+    id: ck9eo4r2fmfd40j78r1w820l4
     verified: false
-    hashtags: "#singing, #lol, #foryoupage, #foryou"
+    hashtags: "#quarantinelife, #flair, #helsinki, #cyprus"
 ---

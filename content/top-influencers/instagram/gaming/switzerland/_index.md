@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Switzerland In 2022
+title: Top 10 Gaming Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top gaming Instagram influencers in Switzerland in 2022. Most popular hashtags: #gaming #photooftheday #anime #love.
+  Find top gaming Instagram influencers in Switzerland in 2023. Most popular hashtags: #gaming #photooftheday #anime #love.
 platform: Instagram
 hits: 16
 text_top: Identify the most popular Instagram accounts on inBeat.

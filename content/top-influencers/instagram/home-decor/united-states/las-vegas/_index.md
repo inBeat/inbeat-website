@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Las Vegas In 2022
+title: Top 10 Home Decor Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top home decor Instagram influencers in Las Vegas in 2022. Most popular hashtags: #homedecor #lasvegas #halloween #modernfarmhouse.
+  Find top home decor Instagram influencers in Las Vegas in 2023. Most popular hashtags: #homedecor #lasvegas #beforeandafter #home.
 platform: Instagram
-hits: 30
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 30 Instagram influencers like this in Las Vegas, United States for you to pitch.
+hits: 31
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 31 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "lovedbylinz"
+  - username: "ourvegasfam"
     fullname: >-
-      Linzie || Lifestyle + Fashion
+      Jenna ☼ Las Vegas Content Creator
     bio: >-
-      》Wife 💍👑 》Grateful Mom of Piper + Royal 👸🤴🏻 》 Permanent Makeup Artist @beyondskindeepbeauty 📩 Collab: DM or LovedByLinzBlog@gmail.com
+      girl mom • family travel • lifestyle • fitness love God, love others ✎dm for rates
     location: "United States"
-    followers: 6082
-    engagement: 719
-    commentsToLikes: 0.084649
-    id: ck6trzgul1z0v0j713gy2k763
+    followers: 46248
+    engagement: 46
+    commentsToLikes: 0.091263
+    id: ck6ucffdwfa6a0j71owfentil
     verified: false
-    hashtags: "#momlife, #homedecor, #lasvegas, #momfriends"
-  - username: "hashtagfablife"
+    hashtags: "#icegirls, #farmhousechristmas, #ad, #vgk"
+  - username: "lexbuff"
     fullname: >-
-      Natalie Camila // LA Blogger
+      ALEXA BUFFINGTON
     bio: >-
-      Beauty & Fashion 💕 Wife 💍 Colombian 🇨🇴 🌴 Los Angeles, CA 💌 hashtagfablife@gmail.com 🎥 YouTube: Natalie Camila 💻 hashtagfablife.com Latest Video:
+      Motherhood & Lifestyle Grace upon grace💛 Product Photography//Content Creation 📍Las Vegas, NV 📧 Lexbuffington@gmail.com
     location: "United States"
-    followers: 47278
-    engagement: 66
-    commentsToLikes: 0.047555
-    id: ck0tua9yc6as40i19eilehfcs
+    followers: 16866
+    engagement: 327
+    commentsToLikes: 0.083248
+    id: ck8syyeuimi3g0j78ivh0cygf
     verified: false
-    hashtags: "#amazonfinds, #zara, #amazonfashion, #liketkit"
-  - username: "darling4foxes"
-    fullname: >-
-      Megan Fox
-    bio: >-
-      Wife|Mom of 2 🦊🦊 NV 🌵 NY Making my House a HOME
-    location: "United States"
-    followers: 2135
-    engagement: 920
-    commentsToLikes: 0.439120
-    id: ck55je1xfwucw0i11hhlf9pyl
-    verified: false
-    hashtags: "#livingroomdecor, #homemade, #pinkdecor, #diydecor"
-  - username: "interscopephotography"
-    fullname: >-
-      
-    bio: >-
-      📷𝐢𝐍𝐭𝐞𝐫𝐒𝐜𝐨𝐩𝐞 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐂𝐄𝐎 𝐃𝐞𝐰𝐚𝐲𝐧𝐞 𝐉𝐨𝐧𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫📍𝐀𝐭𝐥𝐚𝐧𝐭𝐚, 𝐆𝐞𝐨𝐫𝐠𝐢𝐚 𝐁𝐚𝐬𝐞𝐝 𝐇𝐎𝐌𝐄 𝐎𝐅 𝐕𝐄𝐑𝐒𝐀𝐓𝐈𝐋𝐈𝐓𝐘 𝐖𝐞𝐝𝐝𝐢𝐧𝐠 𝐏𝐚𝐠𝐞: @iNterScopeWeddings
-    location: "United States"
-    followers: 124960
-    engagement: 93
-    commentsToLikes: 0.041328
-    id: ck5c6tp0066aa0i11rq0zmz7f
-    verified: false
-    hashtags: "#womansecret, #atlantaphotographer, #womanportrait, #colorphotography"
-  - username: "bria.snyder"
-    fullname: >-
-      Vegas|Travel|Leow|DIY Craft
-    bio: >-
-      @magically.bria 📍#LasVegas ✈️ 🤫 TBA Disney AP|SoCal Traveler|Hiker brialsnyder@Gmail.com to collab
-    location: "United States"
-    followers: 51810
-    engagement: 226
-    commentsToLikes: 0.086601
-    id: ck55mp7jb4gbj0i11cjh3nsmr
-    verified: false
-    hashtags: "#nightmarebeforechristmas, #thinblueline, #thinbluelinefamily, #leow"
-  - username: "laurenjparry"
-    fullname: >-
-      Lauren Parry Outfits & Outings
-    bio: >-
-      Practical everyday outfits | mom life | home remodel | things I cant live without 👨🏻‍🚒💁🏻‍♀️👦🏼👧🏼📍Las Vegas Blogger 💌hello@outfitsandoutings.com
-    location: "United States"
-    followers: 75871
-    engagement: 175
-    commentsToLikes: 0.040706
-    id: ck0vxbp04y41j0i194ay16t64
-    verified: false
-    hashtags: "#mommaonamission, #fallshopping, #lasvegasblogger, #aloyoga"
+    hashtags: "#motherhoodjourney, #breastfeedingjourney, #puppylove, #puppyrescue"
   - username: "elodygm"
     fullname: >-
       Elody
     bio: >-
-      /Ukraine 50%🇺🇦❤️🇵🇪50% Peru/ /Las Vegas🏡/ 💍 @nickapex7 🏍💨 / model - designer - DIY 🍫😻🧘🏻‍♀️🤸🏻💃🏻🔫✈️⛰📷 🔨📐🖊 Do more of what makes you happy!
+      /Ukraine 50%🇺🇦❤️🇵🇪50% Peru/ /Las Vegas🏡/ 💍 @nickapex7 🏍💨 / model -designer -DIY -nature lover 🍫😻🧘🏻‍♀️🤸🏻💃🏻🔫✈️⛰📷 🔨📐🖊 Do more of what makes you happy!
     location: "United States"
-    followers: 33973
-    engagement: 105
-    commentsToLikes: 0.046873
+    followers: 33499
+    engagement: 73
+    commentsToLikes: 0.060243
     id: ck5c1j2klva140i1105jxolep
     verified: false
-    hashtags: "#interiordesign, #homedecor, #bikinimodel, #designersdiary"
+    hashtags: "#scandinaviandesign, #homerenovation, #beforeandafter, #homedecor"
   - username: "homeonamelialane"
     fullname: >-
-      Britt🖤HomeDecor.DIY.Coffee
+      Britt🧡HomeDecor.DIY.ShopWithMe
     bio: >-
       Proud wife & momma to 3! Slowly renovating our new home to bring the warm and cozy vibes of New England to Las Vegas! Come shop with me in stories!
     location: "United States"
-    followers: 26356
-    engagement: 224
-    commentsToLikes: 0.141249
+    followers: 25055
+    engagement: 139
+    commentsToLikes: 0.208185
     id: ck13blg49vzkd0i19a1fsujjw
     verified: false
-    hashtags: "#farmhousekitchen, #boardandbatten, #diningroomdecor, #falldecor"
-  - username: "sulheejessica"
+    hashtags: "#howyouhome, #modernfarmhouse, #traditionalstyle, #starsandstripes"
+  - username: "126interiors"
     fullname: >-
-      Jessica Woo
+      𝟭𝟮𝟲 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥𝗦 by 𝙍𝙖𝙚 𝘾𝙝𝙖𝙙𝙤𝙣
     bio: >-
-      Bento Box Kween ❤️ Refined and unruly. P.O. Box 370784 Las Vegas, NV 89137 @packmylunchmom for lunch ideas
+      Las Vegas⁣⁣ ┇ Interior Decorator 𝘜𝘳𝘣𝘢𝘯•𝘔𝘰𝘥𝘦𝘳𝘯•𝘓𝘶𝘹𝘶𝘳𝘺 ⁣⁣ #126interiors ⁣ Featured in Las Vegas Entrepreneurs⁣ ↳ 𝗛𝗢𝗠𝗘|𝗕𝗢𝗗𝗬 collection available now!
     location: "United States"
-    followers: 171415
-    engagement: 607
-    commentsToLikes: 0.020496
-    id: ck8wgf582h8ie0j78rmr9w5mt
+    followers: 27434
+    engagement: 184
+    commentsToLikes: 0.052093
+    id: ck9wdi4s0fqd30j786nj3tuck
     verified: false
-    hashtags: "#fyp, #bentoboxlunchmom, #sulheejessica, #ad"
-  - username: "anaandreaxoxo"
+    hashtags: "#moderndecor, #lasvegasinteriordesigner, #modernhome, #kitchenisland"
+  - username: "theestatedirector"
     fullname: >-
-      Ana Andrea Xoxo 🇹🇩 🇺🇸
+      Scott Gorelick
     bio: >-
-      Hi I'm Ana! 📽YT Las Vegas ❤️ Home, Lifestyle, Plant Love 🌿 Gardening 🌱Can you dig it? Biz inquiries 📩AnaAndreaXoxo@gmail.com
+      • DRE # 01876674 • COMPASS • Ranked 2021 LA Magazine Real Estate All-Stars • Real Estate • Developer • Broker • Mentor • Entrepreneur • Foodie
     location: "United States"
-    followers: 11664
-    engagement: 373
-    commentsToLikes: 0.104517
-    id: ck5c2jhssxdaz0i11nmqu1uvw
+    followers: 10690
+    engagement: 1583
+    commentsToLikes: 0.006622
+    id: ck136brxl5piw0i19qnecvdlg
     verified: false
-    hashtags: "#greenwithenvy, #currenthomeview, #plantsofinstagram, #bekind"
+    hashtags: "#realestatelife, #luxury, #architecture, #westhollywood"
+  - username: "stylishlystella"
+    fullname: >-
+      Stella Leo #LifeSTYLEblogger
+    bio: >-
+      #LA #Manhattan mom and her major #minifashionista celebrating the everyday in a stylish way through fashion, artsy adventures, travel, decor & more! 😀
+    location: "United States"
+    followers: 47092
+    engagement: 107
+    commentsToLikes: 0.103270
+    id: ck0w15rb5hp7a0i19pdcb8sbn
+    verified: false
+    hashtags: "#blackandwhite, #fomofeed, #wonderlanddreams, #alexameade"
+  - username: "nicoleneissany"
+    fullname: >-
+      nicole | neutral outfits & home
+    bio: >-
+      www.neutrallynicole.com » fashion & home: neutral / minimalist / boho chic ⚲ vegas // ✈ travel: @wear.she.wanders ⤺ shop my posts + more
+    location: "United States"
+    followers: 19823
+    engagement: 79
+    commentsToLikes: 0.121812
+    id: ck134abe3vgtr0i19zeycgvjt
+    verified: false
+    hashtags: "#outfitreel, #lasvegaslocal, #pinteresthome, #pinterestoutfits"
+  - username: "stilettosandsincity"
+    fullname: >-
+      PATTY BARBA•CONTENT CREATOR
+    bio: >-
+      Special needs mama, vintage reseller and kinda like a Mexican Martha Stewart, cause I know a bunch of random stuff. Let's Collab 👈
+    location: "United States"
+    followers: 36968
+    engagement: 229
+    commentsToLikes: 0.118429
+    id: ck0tvu7z7ct4o0i19yh8lraxl
+    verified: false
+    hashtags: "#sosatisfying, #homerenovation, #homeproject, #burkesoutlet"
+  - username: "momsarehiptoo"
+    fullname: >-
+      A P E L I L A
+    bio: >-
+      motherhood lifestyle | celebrate ALL body types
+    location: "United States"
+    followers: 24334
+    engagement: 224
+    commentsToLikes: 0.383942
+    id: ck0w3x2ofvq4l0i19480ojv59
+    verified: false
+    hashtags: "#lasvegas, #lasvegasblogger, #quarantinelife, #momlife"
 ---

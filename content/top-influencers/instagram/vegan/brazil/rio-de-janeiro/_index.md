@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Vegan Instagram Influencers In Rio De Janeiro In 2023
 description: >-
-  Find top vegan Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #vegan #brazil #riodejaneiro.
+  Find top vegan Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #vegan #rj #tbt.
 platform: Instagram
-hits: 5
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 5 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
+hits: 6
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 6 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
 profiles:
   - username: "bernardovillasboas"
     fullname: >-
@@ -13,48 +13,60 @@ profiles:
     bio: >-
       🌱 Plant-based / Vegan 🇧🇷 Rio de Janeiro
     location: "Brazil"
-    followers: 104822
-    engagement: 867
-    commentsToLikes: 0.026241
+    followers: 106845
+    engagement: 955
+    commentsToLikes: 0.018902
     id: ckf5ucxtokg0i0j23yvbyuouc
     verified: false
-    hashtags: "#worldveganday, #govegan, #vegan, #cachorro"
-  - username: "eufredduarte"
-    fullname: >-
-      Fred Duarte
-    bio: >-
-      📜 Communications 🏀 Former basketball player 📍 Rio de Janeiro - 🇧🇷
-    location: "Brazil"
-    followers: 2659
-    engagement: 997
-    commentsToLikes: 0.152407
-    id: ckap96ir5rd000i78p03j64f0
-    verified: false
-    hashtags: "#petropolis, #cabeloafro, #cuarentena, #workout"
-  - username: "veganismoporamor"
-    fullname: >-
-      Monique Zuma
-    bio: >-
-      Mostro que o veganismo pode ser simples, acessível e conectado a outras lutas 📍Rio de Janeiro - RJ 👇🏼Desconto no curso “filosofia em cinema”
-    location: "Brazil"
-    followers: 47886
-    engagement: 330
-    commentsToLikes: 0.033881
-    id: ck15ssdcsel750i19crcyujue
-    verified: false
-    hashtags: "#vegetariano, #bolovegano, #semovo, #vegan"
+    hashtags: "#govegan, #tbt, #worldveganday"
   - username: "baconman.pk"
     fullname: >-
       🇧🇷Vance Poubel 🦁
     bio: >-
       🎖 Professional Parkour 道 Athlete \ Instructor Aulas em Copacabana ⤵️ @rampacriacao Actor🎭🎥 🇧🇷 Live in Rio de Janeiro ⬇Último vídeo de parkour⬇️
     location: "Brazil"
-    followers: 20704
-    engagement: 469
-    commentsToLikes: 0.028390
+    followers: 22540
+    engagement: 516
+    commentsToLikes: 0.027102
     id: ck6u9dhncwxbu0j71pm0v3sz6
     verified: false
-    hashtags: "#gosteifotografei, #ig, #image, #goodinrio"
+    hashtags: "#postmoreportraits, #makeportraitsnotwar, #trilhandoeseaventurando, #bemnaturalmontanhismo"
+  - username: "eufredduarte"
+    fullname: >-
+      Fred Duarte
+    bio: >-
+      🌱 Ovo-lacto vegetarian 📜 Communications 🏀 Former basketball player 📍 Rio de Janeiro - 🇧🇷
+    location: "Brazil"
+    followers: 2774
+    engagement: 1130
+    commentsToLikes: 0.183062
+    id: ckap96ir5rd000i78p03j64f0
+    verified: false
+    hashtags: "#tbt, #throwback, #rj, #tran"
+  - username: "apedamary"
+    fullname: >-
+      Maryna Egito • APEDAMARY
+    bio: >-
+      Olá, consagradxs! 💚🌵 Aqui eu compartilho o dia a dia no meu lar de 25m² no subúrbio do Rio de Janeiro. #receitasveganas ♡ #dicas ♡ #decor ♡ #plantas
+    location: "Brazil"
+    followers: 34474
+    engagement: 299
+    commentsToLikes: 0.252326
+    id: ckaotjun0w8lj0i78d4g08ejj
+    verified: false
+    hashtags: "#cozinhapequena, #comida, #parcerias, #familiaresapedamary"
+  - username: "veganismoporamor"
+    fullname: >-
+      Monique Zuma
+    bio: >-
+      Veganismo simples, acessível e conectado a outras lutas 📍Rio de Janeiro - RJ 👩🏼‍🍳Consultoria vegana 👇🏼20 receitas para o café da manhã
+    location: "Brazil"
+    followers: 54507
+    engagement: 594
+    commentsToLikes: 0.026243
+    id: ck15ssdcsel750i19crcyujue
+    verified: false
+    hashtags: "#veganismoporamor, #receita, #veganismo, #semleite"
   - username: "mcveganti"
     fullname: >-
       Vegan Ti
@@ -66,65 +78,53 @@ profiles:
     commentsToLikes: 0.228923
     id: ck134t2uxy28w0i19g8ks3k5c
     verified: false
-    hashtags: "#govegan, #quartasemcarne, #pratienlouquecer, #juntalocal"
+    hashtags: "#pratienlouquecer, #juntalocal, #govegan, #quartasemcarne"
   - username: "nubiafelipeti"
     fullname: >-
       Núbia Felipeti
     bio: >-
-      ASSISTA OS STORIES 📍Vinhedo-SP | 24 Vegan 🌱 Medicina Veterinária - UNESP 🐾 Dicas | Cabelos | Edição de Fotos | Dia a Dia
+      📍Vinhedo/Botucatu - SP | 25 🐾 Médica Veterinária - UNESP Botucatu 🌱 Vegan Dicas | Cabelos | Edição de Fotos | Dia a Dia
     location: "Brazil"
-    followers: 63635
-    engagement: 757
-    commentsToLikes: 0.076451
+    followers: 61492
+    engagement: 708
+    commentsToLikes: 0.089601
     id: ck13cgkeu08f10i19xnckkiv0
     verified: false
-    hashtags: "#ruivosdobrasil, #ruivasradiantes, #ruivas, #ruivasacobreadas"
+    hashtags: "#redhead, #ruivasradiantes, #ruivas, #ruiva"
+  - username: "renatoshippee"
+    fullname: >-
+      Renato Shippee
+    bio: >-
+      🇧🇷 Criador da @karenkardasha📍Los Angeles🇺🇸 🌱 Vegan - Actor / 🎶 writer 🎬 Filmmaker 📩 renato.solipe@hotmail.com Ouça minhas músicas👇🏼
+    location: "Brazil"
+    followers: 1284588
+    engagement: 741
+    commentsToLikes: 0.011950
+    id: ck8t3ure44kk30j78co17t0w8
+    verified: false
+    hashtags: "#vam, #brasil, #fashioneditorial, #renatoshippe"
   - username: "lurygrabovski"
     fullname: >-
       Lury Grabovski
     bio: >-
       VEGAN 🌱 • Beauty & lifestyle • Cook • Horror fan Collabs/Business: Direct or e-mail. 💌 New collab vídeo:
     location: "Brazil"
-    followers: 19594
-    engagement: 725
-    commentsToLikes: 0.181937
+    followers: 19249
+    engagement: 632
+    commentsToLikes: 0.165473
     id: ck14hmvtub4ce0i19sb5oo7sg
     verified: false
-    hashtags: "#tbt"
-  - username: "renatoshippee"
+    hashtags: "#tbt, #bussitchallenge"
+  - username: "triveganas"
     fullname: >-
-      Renato Shippee
+      Laís Palma Elsing
     bio: >-
-      🌱 Vegan - SAG Actor / 🎓 Teacher 📍Los Angeles 🇺🇸 From Brazil 🇧🇷 🎬 Filmmaker 🎶 Writer Ouça minhas músicas
+      Um casal vegano, duas cachorras e trigêmeas surpresa! São Paulo triveganas@gmail.com
     location: "Brazil"
-    followers: 186991
-    engagement: 491
-    commentsToLikes: 0.044939
-    id: ck8t3ure44kk30j78co17t0w8
+    followers: 35782
+    engagement: 954
+    commentsToLikes: 0.033279
+    id: ck14l5s0aszwd0i19128yrh80
     verified: false
-    hashtags: "#menhaircuts, #chest, #brazilianboy, #motivations"
-  - username: "olena.starodubets"
-    fullname: >-
-      Olena Starodubets🍀 Oficial
-    bio: >-
-      💯% Atleta Natural 🌱 Vegan desde 2017💚 💪 #mamafit 👩‍👧 🏆4 x Campeã Wellness 🔺️ @prozis -10%+🎁 Cupão"OLENA10" 🇺🇦🇵🇹 ☆STAR PHYSIQUE☆ 🎥 YouTube 1M ♡
-    location: "Brazil"
-    followers: 384078
-    engagement: 989
-    commentsToLikes: 0.023849
-    id: ck8t8yy9bmc9w0j78haonvy8z
-    verified: false
-    hashtags: "#fitmom, #gravidez, #gratid, #motiva"
-  - username: "gian_eidler"
-    fullname: >-
-      Giancarlo | VegEstrito
-    bio: >-
-      🌿 Vegetariano Estrito há 8 anos 🎓 Psicólogo | Tec. Nutrição 📚 Autor 🥦 @vegan_fitness_meal 🎬 YouTube:Giancarlo Eidler 📍São Carlos - SP
-    location: "Brazil"
-    followers: 50573
-    engagement: 657
-    commentsToLikes: 0.041425
-    id: ck0ty0jpol39l0i19f1aq79xz
-    verified: false
-    hashtags: "#saocarlos, #skyfit"
+    hashtags: "#paralisiacerebral, #trigemeas, #oftalmologia, #trigemeos"
 ---

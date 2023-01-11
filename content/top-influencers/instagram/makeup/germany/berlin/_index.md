@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Berlin In 2022
+title: Top 10 Makeup Instagram Influencers In Berlin In 2023
 description: >-
-  Find top makeup Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #makeup #fashion #autumn.
+  Find top makeup Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #love #makeup #fashion.
 platform: Instagram
-hits: 373
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 373 Instagram influencers like this in Berlin, Germany for you to connect with.
+hits: 252
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 252 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "biancalalilu"
+  - username: "conn_ie_"
     fullname: >-
-      Bianca Lalilu
+      🌬Connie
     bio: >-
-      • Berlin | 030 🖤 • F A S H I O N & F O O D 🌎 T R A V E L • For collabs & business inquiry : DM / Email #LOVE.#GROW.#CONNECT
+      near Berlin
     location: "Germany"
-    followers: 24247
-    engagement: 340
-    commentsToLikes: 0.106270
-    id: ck6u721s3j0qc0j710bw8zteo
+    followers: 39182
+    engagement: 143
+    commentsToLikes: 0.173462
+    id: ck6triltpz71a0j71np07aw92
     verified: false
-    hashtags: "#kudamm, #goodtime, #crete, #autumn"
-  - username: "celinajadakerr"
+    hashtags: "#weekend, #minimalism, #mermaidandme, #liebe"
+  - username: "lespacious"
     fullname: >-
-      Celina Jada Kerr 🦋
+      
     bio: >-
-      ✉️ Management @musetheagency
+      GET SCHWIFTY
     location: "Germany"
-    followers: 70572
-    engagement: 2064
-    commentsToLikes: 0.007866
-    id: ck5hclxbtir5g0i11wrprl4cs
+    followers: 4045
+    engagement: 506
+    commentsToLikes: 0.095575
+    id: ck6tu0tqgdo1b0j71913lca6q
     verified: false
-    hashtags: "#revolve, #goldenhour, #outfit, #outfitinspo"
-  - username: "xomilano"
+    hashtags: "#brunette, #black, #stuttgart, #makeup"
+  - username: "cestwijdane"
     fullname: >-
-      özz milano
+      
     bio: >-
-      make your heart the most beautiful feature you carry because outer beauty is only skin deep.
+      🦋
     location: "Germany"
-    followers: 24349
-    engagement: 920
-    commentsToLikes: 0.015913
-    id: ck5cdb7keiv2t0i11ae3nu432
+    followers: 8172
+    engagement: 432
+    commentsToLikes: 0.064158
+    id: ckaoyn9vfi7yy0i78ss3hd9yf
     verified: false
-    hashtags: "#sun, #lips, #face, #happy"
-  - username: "makeup.by.luc"
+    hashtags: "#goodvibes, #fun, #summer, #happy"
+  - username: "sarahknappik"
     fullname: >-
-      • PRO MAKEUP ARTIST BERLIN •
+      sarahknappik
     bio: >-
-      • Professional Makeup & Hairstyling • Represented by @prestigeartists • Passioned in BEAUTY & FASHION • BOOKINGS | INQUIRIES: muah.luc@gmail.com
+      Entertainer 🔸 Actor 🔸 Model 🔸 Singer 🔸 Mein neuer Song Nur an dich 🔻🔻🔻
     location: "Germany"
-    followers: 5256
-    engagement: 411
-    commentsToLikes: 0.134643
-    id: ck6u736r2j7f90j71xjmp5588
-    verified: false
-    hashtags: "#pixibypetra, #editorialmakeupartist, #campaign, #campaignshoot"
-  - username: "luxsface"
+    followers: 53385
+    engagement: 352
+    commentsToLikes: 0.040162
+    id: ck6ub7mmc7y4b0j71cdme4l7y
+    verified: true
+    hashtags: "#videooftheday, #picoftheday, #amazing, #babygirl"
+  - username: "cubazitrone"
     fullname: >-
-      Makeup & Hair Styling Hamburg
+      Nicole
     bio: >-
-      Diplom celebrity Make-up Artist, cosmeticologist, Hairstylist. Founder luxsface academy & @luxsfacecosmetics 🇩🇪+49 17631491585 سالون آرايش لوكس فيس
+      🇩🇪♥Model♥ 🇨🇺 *Nach(t)denkerin*Braunaugenzwerg* DD/HH/Leipzig/Berlin/Stuttgart TFP & Pay
     location: "Germany"
-    followers: 39627
-    engagement: 314
-    commentsToLikes: 0.112148
-    id: ck5q70wudzjfw0i119dp4ljxi
+    followers: 4475
+    engagement: 880
+    commentsToLikes: 0.057644
+    id: ck5q997629zpr0i11ys1gefnx
     verified: false
-    hashtags: "#makeupbyme, #brautmakeup, #muah, #bride"
+    hashtags: "#domorephotograher, #bnwportrait, #dresden, #fotodome"
   - username: "surfdietz"
     fullname: >-
       Ina Dietz
     bio: >-
       Newsanchor Sat1 Frühstücksfernsehen, Nachrichten RadioEins und INFORADIO (rbb), Familienmensch liebt auch 🏊🏻‍♀️+🚴🏻‍♀️+Nordseeinseln
     location: "Germany"
-    followers: 26346
-    engagement: 886
-    commentsToLikes: 0.033241
+    followers: 27465
+    engagement: 907
+    commentsToLikes: 0.033564
     id: ck14lub6bwitv0i19zrtv0oj8
     verified: false
-    hashtags: "#beachcleanup, #seashells, #fr, #langeoog"
-  - username: "vanessa_blumhagen"
+    hashtags: "#blessed, #masketragen, #friedrichshain, #newsanchor"
+  - username: "_anna_geddes_"
     fullname: >-
-      Vanessa Blumhagen
+      Anna Prohodski
     bio: >-
-      Autorin - Moderatorin - Hashimoto Ambassador 🎤 Sat.1 Frühstücksfernsehen 📚 Piper & mvg Verlag 🎀 @hashimoto_deutschland 📞 info@herr-havermann.de
+      #MRSDeutschland 2020/21🇩🇪🏆 #MRS.#sachsenanhalt 2019/2020⚜️💍 🇩🇪🇷🇺🇬🇧 #missdeutschland #influencer #model#travel#beauty#gourmet #business : direct 📩
     location: "Germany"
-    followers: 163541
-    engagement: 517
-    commentsToLikes: 0.029292
-    id: ck15ss9nzekoa0i19t42peljw
-    verified: true
-    hashtags: "#liebe, #fashion, #adlermode, #anzeige"
-  - username: "aatypi"
-    fullname: >-
-      alexandra
-    bio: >-
-      Los Angeles - Berlin - Stockholm / Let me act your face / Even Bukowski prefer to drink in company // dm for collab
-    location: "Germany"
-    followers: 19633
-    engagement: 353
-    commentsToLikes: 0.031150
-    id: ck5c88rsh8zjz0i114bg5yc1l
+    followers: 212601
+    engagement: 250
+    commentsToLikes: 0.080489
+    id: ckapckcwa468w0i78ywoyzusg
     verified: false
-    hashtags: "#meltradioactive, #avantgardemakeup, #berlinmodel, #avantgardefashion"
-  - username: "tara_gra"
+    hashtags: "#mrsdeutschland2020, #mrsdeutschland, #missdeutschland, #fashionstyle"
+  - username: "michelle.chnel"
     fullname: >-
-      TΔRΔ🌺
+      M I C H E L L E 🤍 C H A N E L
     bio: >-
-      Extra Sparkly ✨|📍BLN
+      📩 Michelle.Chanel.esen1006@gmail.com
     location: "Germany"
-    followers: 25174
-    engagement: 535
-    commentsToLikes: 0.015045
-    id: ck5qayqe7iy9o0i11mi3e51ls
+    followers: 56399
+    engagement: 631
+    commentsToLikes: 0.024343
+    id: ckf5m71klsjyf0j23k6tqftzr
     verified: false
-    hashtags: "#fall, #red, #girl, #berlin"
-  - username: "juliane_seyffert"
+    hashtags: "#fff, #ootd, #outfitoftheday, #getintothisstyle"
+  - username: "daisy.wolanski"
     fullname: >-
-      𝐉𝐮𝐥𝐢𝐚𝐧𝐞 𝐒𝐞𝐲𝐟𝐟𝐞𝐫𝐭🦋
+      Daisy Wolanski ☁️♋︎♏︎♈︎
     bio: >-
-      𝐅𝐎𝐓𝐎 𝐈𝐃𝐄𝐄𝐍 📸 📝| Foto & Editing 📸| @juliane.seyffert_fotografie 💌| info@julianeseyffert.de
+      Germany | 27 | #goodenergy ॐ TikTok: @daisy.wolanski ✉️ daisy.wolanski@hotmail.de
     location: "Germany"
-    followers: 2577
-    engagement: 1573
-    commentsToLikes: 0.229729
-    id: ckap6jgoqg3ql0i7803365wsp
+    followers: 549837
+    engagement: 210
+    commentsToLikes: 0.006438
+    id: ck139wbn3nfw70i19i9jx3xa3
     verified: false
-    hashtags: "#autumn, #november, #fototipps, #sexy"
+    hashtags: "#hudabeauty, #berlin, #makeup, #hairtutorial"
+  - username: "eva_brenner_official"
+    fullname: >-
+      Eva Brenner
+    bio: >-
+      ▪️Dipl.-Ing. Innenarchitektur▪️TV-Host ▫️Interior▫️Garden▫️Food ▫️Yoga ▫️Running▫️Travelling ▫️Nachhaltigkeit ▫️www.eva-brenner.de
+    location: "Germany"
+    followers: 41858
+    engagement: 515
+    commentsToLikes: 0.033647
+    id: ck5zwg47962j00i143kh79h37
+    verified: false
+    hashtags: "#interiordesign, #teamwork, #interirordesign, #interiorinspo"
 ---

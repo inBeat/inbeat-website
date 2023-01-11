@@ -1,84 +1,84 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In India In 2022
+title: Top 10 Cosmetics Instagram Influencers In India In 2023
 description: >-
-  Find top cosmetics Instagram influencers in India in 2022. Most popular hashtags: #cosmetics #makeup #beauty #fashionphotography.
+  Find top cosmetics Instagram influencers in India in 2023. Most popular hashtags: #makeup #beauty #hudabeauty #reels.
 platform: Instagram
-hits: 188
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 188 Instagram influencers like this in India for you to collaborate.
+hits: 147
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 147 Instagram influencers like this in India for you to collaborate.
 profiles:
+  - username: "mendywhitehair"
+    fullname: >-
+      ↠MENDY WITHAAR↞ HAIR 'ND MUA
+    bio: >-
+      Owner of @whitehaircreations Beauty content creator ×Commercial ×Film ×Photo ×Wedding | Ambassadrice of @finnleys @remington.benelux @pune_cosmetics
+    location: "India"
+    followers: 17526
+    engagement: 222
+    commentsToLikes: 0.206399
+    id: ck55mjdkv43dh0i11nnhpc9ls
+    verified: false
+    hashtags: "#ladyboss, #leukstebaanvannederland, #setwork, #remingtonbenelux"
   - username: "ashish_rughoobur"
     fullname: >-
       Ashish Rughoobur | Barbie
     bio: >-
       💄Makeup artist - M•A•C Cosmetics Indian Ocean 🇲🇺Mauritian 🌴 👢Fashion enthusiast, beauty & lifestyle 🌀L’Occitane En Provence Ambassador
     location: "India"
-    followers: 9294
-    engagement: 774
-    commentsToLikes: 0.024251
+    followers: 9739
+    engagement: 599
+    commentsToLikes: 0.014412
     id: ck6toynzkgucf0j71ympulsog
     verified: false
-    hashtags: "#vegan, #mauritius, #smileup, #teethwhiteningkit"
-  - username: "bharanielangovan"
+    hashtags: "#backstageawards2020, #mauritius, #maccosmeticsmauritius, #hedevil"
+  - username: "makeupwithjah"
     fullname: >-
-      bharani elangovan
+      Makeup Artist and Educator
     bio: >-
-      BRACHA Cosmetic product For product details DM Actress Model - Passion Suntv Kanmani Birthday 🎂 December 14 Dm for collaboration
+      NO DMs for bookings 👩‍🎨 @jahmakeupstudio my studio @jahcosmetics_ to buy cosmetics Email for bookings: Info@makeupwithjah.com Sydney AU📍
     location: "India"
-    followers: 59647
-    engagement: 387
-    commentsToLikes: 0.024985
-    id: ck8sy08d4ja5g0j78fha3i5im
+    followers: 420707
+    engagement: 134
+    commentsToLikes: 0.014326
+    id: ck13abtc6pmjs0i192tckyowj
     verified: false
-    hashtags: "#ricardochennai, #bahubali2, #fashionphotography, #instabeauty"
+    hashtags: "#cutcrease, #clientelepalette, #hudabeauty, #makeup"
   - username: "megha_sidharth"
     fullname: >-
-      Fashion stylist/Blogger
+      Megha Sidharth
     bio: >-
-      cosmetic dentist Travel: fashion blogger/stylist Content creator #bangalorebloggers DM for collaboration or mail me at drmeghasmiles@gmail.com
+      Fashion.Fitness.Travel Cosmetic dentist #bangalorebloggers DM for paid collaboration or mail me at drmeghasmiles@gmail.com
     location: "India"
-    followers: 56213
-    engagement: 177
-    commentsToLikes: 0.090056
+    followers: 84510
+    engagement: 80
+    commentsToLikes: 0.083551
     id: ck9wft9yoqfvl0j784vrjgwoo
     verified: false
-    hashtags: "#stylelookbook, #travelgoals, #flashesofdelight, #fashionmodel"
+    hashtags: "#outfitoftheday, #whatiwore, #reelsindia, #outfitinspo"
   - username: "lilrocket"
     fullname: >-
       NAVREET JOSAN
     bio: >-
-      India’s 1st IFBB Fitness Bikini Pro Fitness| Food | Lifestyle National Artist,MAC Cosmetics India @reet.makeup Earthnutri, Purenutrition sponsored.
+      India’s 1st IFBB Fitness Bikini Pro National Artist,MAC Cosmetics India @reet.makeup
     location: "India"
-    followers: 85149
-    engagement: 134
-    commentsToLikes: 0.038376
+    followers: 84704
+    engagement: 132
+    commentsToLikes: 0.050039
     id: ck6tyb3l52p3c0j717nowjsd7
     verified: true
-    hashtags: "#sotd, #health, #wellness, #earthnutri"
+    hashtags: "#purenutrition, #cvit, #shotoniphone, #womensday2021"
   - username: "natasha.moor"
     fullname: >-
       Natasha Moor
     bio: >-
-      Award Winning Make Up Artist & Cosmetic Innovator || Chief Empowerment Officer & Founder of @natashamoorcosmetics available on SEPHORA SEA 💄 ❤️
+      Award Winning Make Up Artist & Cosmetic Innovator || Chief Empowerment Officer & Founder of @natashamoorcosmetics available on @sephora SEA & @macys💋
     location: "India"
-    followers: 61200
-    engagement: 100
-    commentsToLikes: 0.039302
+    followers: 78865
+    engagement: 69
+    commentsToLikes: 0.058859
     id: ck0tw29ncdpj80i198srpy9wn
     verified: true
-    hashtags: "#moorpower, #moorlove, #love, #look"
-  - username: "sunnyleone"
-    fullname: >-
-      Sunny Leone
-    bio: >-
-      Owner of StarStruck Cosmetics ! @starstruckbysl
-    location: "India"
-    followers: 41377177
-    engagement: 109
-    commentsToLikes: 0.008930
-    id: ck0tyfuf4mn070i1964x0k3ro
-    verified: true
-    hashtags: "#sunnyleone, #fashion, #cosmetics, #luxurymakeup"
+    hashtags: "#moorthanmakeup, #moorpower, #cosmetics, #beauty"
   - username: "atiqahhasiholan"
     fullname: >-
       atiqah hasiholan
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.004740
     id: ck6tnso3bahuk0j71bj195yxy
     verified: true
-    hashtags: "#dirumahaja, #layarterkembang, #bts, #budayasaya"
+    hashtags: "#banggabuatanindonesia, #bts, #whiterajah, #budayasaya"
+  - username: "dr.poorvashah"
+    fullname: >-
+      Dr. Poorva Shah
+    bio: >-
+      Cosmetic Dermatologist | Kathak Dancer | Classical singer | YouTuber | Reader | Seeker | Food lover | Traveller Use this life to make a difference !
+    location: "India"
+    followers: 10882
+    engagement: 348
+    commentsToLikes: 0.031050
+    id: ck9wfwo2hqu3r0j78mpxflmcu
+    verified: false
+    hashtags: "#drpoorvashah, #dermatologist, #dermacentre, #feelitreelit"
   - username: "paragon.id"
     fullname: >-
       Paragon Tech. and Innovation
     bio: >-
-      Paragon Technology and Innovation is the company behind the largest national skin care & cosmetics brands Wardah, Make Over, Emina, and Putri
+      Paragon Technology and Innovation is the company behind the largest national skin care & cosmetics brands Wardah, Make Over, Emina, Putri, and Kahf
     location: "India"
-    followers: 57548
-    engagement: 294
-    commentsToLikes: 0.011804
+    followers: 69822
+    engagement: 100
+    commentsToLikes: 0.005109
     id: ck5qa06ridw550i112ko4bth9
     verified: false
-    hashtags: "#kataparagonian, #paratalk, #paragonpenuhmakna, #staysafeparagonian"
-  - username: "chantey_speelman"
+    hashtags: "#paragonsalingjaga, #innovateforthegreatergood, #penggerakkebaikan, #paratalk"
+  - username: "baemiya__"
     fullname: >-
-      𝒄𝒖𝒓𝒍𝒚 𝒄𝒉𝒂𝒏𝒕𝒆𝒚🌀| south african
+      Maleeha Mehboob💫
     bio: >-
-      🌀Natural Hair&Beauty Enthusiast 📲e-mail for collaboration 📧 chanteyspeelman@gmail.com 🎥 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚘𝚖𝚒𝚗𝚐 ⤵️ 𝚙𝚕𝚎𝚊𝚜𝚎 𝚜𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎
+      Mua 🎨 Dm for Pr/collaboration ⚡️ All about fashion, makeup and skin care 💯 Your one stop simplest fashion blog 🌍 Islamabad 🇵🇰
     location: "India"
-    followers: 4004
-    engagement: 1346
-    commentsToLikes: 0.219917
-    id: ck8szn1o3p2000j78a7rys18k
+    followers: 9373
+    engagement: 332
+    commentsToLikes: 0.386472
+    id: ck9wgj2bvtnfx0j78sd1x8fwn
     verified: false
-    hashtags: "#keracareafrica, #curlyculture, #sablogger, #makeuprevolutionsa"
-  - username: "khushigadhvi"
-    fullname: >-
-      Khushi Gadhvi
-    bio: >-
-      Public figure Official account of khushigadhvi Music/entertainment Blogger Dm/email for collaboration - Fb link ⬇️
-    location: "India"
-    followers: 1128844
-    engagement: 183
-    commentsToLikes: 0.018069
-    id: ck1374wq99sr80i1973r7r0g6
-    verified: false
-    hashtags: "#longhair, #curvyblogger, #heels, #makeup"
+    hashtags: "#enticecosmetics, #skincare, #anastasiabeverlyhills, #fashionblogger"
 ---

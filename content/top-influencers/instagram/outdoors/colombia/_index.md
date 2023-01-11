@@ -1,130 +1,130 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Colombia In 2022
+title: Top 10 Outdoors Instagram Influencers In Colombia In 2023
 description: >-
-  Find top outdoors Instagram influencers in Colombia in 2022. Most popular hashtags: #outdoors #travel #colombia #adventure.
+  Find top outdoors Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #outdoors #travel #picoftheday.
 platform: Instagram
-hits: 23
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 23 Instagram influencers like this in Colombia for you to pitch.
+hits: 21
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 21 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "locombia"
     fullname: >-
       Locombia
     bio: >-
-      ♥ We love #hiking #mountains #outdoors #fitness #fashion #vanlifer with 🚐 Mistral Ligia (Colombian)+ Stephen (Irish) @esmurphy01 📍London
+      ♥ We love #hiking #mountains #outdoors #fitness #fashion #vanlifer with 🚐 Mistral Ligia (Colombian)+ Stephen (Irish) @esmurphy01 📍right now in Germany
     location: "Colombia"
-    followers: 23232
-    engagement: 244
-    commentsToLikes: 0.219215
+    followers: 23486
+    engagement: 194
+    commentsToLikes: 0.241737
     id: ck5zw15bi5a3m0i148n3du114
     verified: false
-    hashtags: "#getoutside, #intothewilderness, #themountainiscalling, #ukhiking"
+    hashtags: "#topgermanyphoto, #welovegermany, #nicehike, #stayandwander"
   - username: "cath.vera"
     fullname: >-
       Catherine Vera R.
     bio: >-
       𝗟𝗶𝗺𝗮 | 𝗣𝗲𝗿𝘂́ 🇵🇪 Viajes y trekk 👣
     location: "Colombia"
-    followers: 4672
-    engagement: 1815
-    commentsToLikes: 0.071260
+    followers: 4638
+    engagement: 1807
+    commentsToLikes: 0.067699
     id: ckapcdmz43e480i781g45wg17
     verified: false
-    hashtags: "#travel, #traveling, #roadtrip, #mountainlovers"
-  - username: "yermahin_balance7"
+    hashtags: "#sky, #explorerperu, #viajera, #ctperu"
+  - username: "sacostamen"
     fullname: >-
-      Yermahin Solorzano
+      SANTIAGO ACOSTA MENDOZA
     bio: >-
-      🇻🇪 #CIRCUS #fitness #art You can't live a normal life if you want to be extraordinary #handstand #handbalance #goals
+      #FREEDOMPRENEUR 🌍 Creador de Experiencias 🇨🇴 #ADVENTURE | #TRAVEL | #SPORTS
     location: "Colombia"
-    followers: 10815
-    engagement: 543
-    commentsToLikes: 0.025440
-    id: ckf5ptix078d40j2303t8diff
+    followers: 40439
+    engagement: 193
+    commentsToLikes: 0.036355
+    id: ck8svreu0cf850j78ppu4394m
     verified: false
-    hashtags: "#city, #goals, #artist, #dance"
-  - username: "caro_sure"
+    hashtags: "#somosuno, #libertad, #skydive, #kitesurf"
+  - username: "charlie_salinas"
     fullname: >-
-      Carolina Segura
+      🇧🇴Charlie Salinas🇺🇲
     bio: >-
-      |La Cumbre es tan solo la mitad del camino| 📍Garzón • Huila • Colombia 🇨🇴
+      Captura Momentos|Comparte La Vida📷 BienvenidoMundo🌎 @GoPro Family😎 @HuaweiMobileBo Embajador📱 Positivismo Ante Todo🤙🏼 👨🏻‍💻Contacto✉️ @michelleaaranda
     location: "Colombia"
-    followers: 6285
-    engagement: 1115
-    commentsToLikes: 0.040756
-    id: ck8t816v5iqei0j78wgea2590
+    followers: 34167
+    engagement: 282
+    commentsToLikes: 0.023939
+    id: ck6ucvdybhou00j71wxnsxsnn
     verified: false
-    hashtags: "#paradise, #mountainlife, #trekking, #instamountains"
-  - username: "eli.paz"
+    hashtags: "#travel, #love, #instagood, #goproambassador"
+  - username: "stefschreier"
     fullname: >-
-      Elizabeth Paz
+      Stefan Schreier
     bio: >-
-      ♡ Civil Engineer 🚜⚠️ @gheikaingenieros ♡ Model 📸🎞 ♡ Traveler ✈️🌏 . . . . Dios guia mi camino❣ 🇨🇴💯💫✌🏼🇬🇧
+      💡 Digital Content- & 📈 Social-Media Manager @radioregenbogen 🎙 Host @nffspodcast 📸 Landscapes / Lifestyle / Portraits 📍 Mannheim/Heidelberg
     location: "Colombia"
-    followers: 5820
-    engagement: 1550
-    commentsToLikes: 0.058953
-    id: ckap0kntcqq5d0i78ibkynj55
+    followers: 4405
+    engagement: 458
+    commentsToLikes: 0.018032
+    id: ck5hq855zso9w0i111m6wbqco
     verified: false
-    hashtags: "#canonphotography, #streetphotography, #photography, #photoshoot"
-  - username: "stephaniepanisello"
+    hashtags: "#stage, #nature, #snow, #guitar"
+  - username: "viajandoconberbeo"
     fullname: >-
-      Stephanie Panisello
+      J Berbeo | 🎒Travel + Lifestyle
     bio: >-
-      🔺Actress🔻Host🔺Voice Actress🔻MOCAP 🔸Video games🔸Animation🔸Film Adventurer 🏔 #claireredfield #residentevil Colombian 🇨🇴 Spanish 🇪🇸 #G4NeedsStephanie
+      👔 Quit my Fortune500 job to travel the 🌍 💻✏️ Digital nomad | Nómada digital ☕ 📖 Coffee + Book addict 👇🏼¡Tengo un blog! Anímense
     location: "Colombia"
-    followers: 14392
-    engagement: 1090
-    commentsToLikes: 0.023528
-    id: ck5q7agd80m7w0i11owhuwpec
+    followers: 26128
+    engagement: 1448
+    commentsToLikes: 0.016070
+    id: ckaoxnh5de00g0i78xoctnhoc
     verified: false
-    hashtags: "#halloween, #claireredfield, #residentevil2remake, #videogames"
-  - username: "alemedinacasas"
+    hashtags: "#pursuitofportrait, #tropicalparadise, #reiseblogger, #allaboutadventures"
+  - username: "twowheelzrider"
     fullname: >-
-      Alejandra Medina
+      David Restrepo 🌍🚴🏻‍♂️💨
     bio: >-
-      📺 Presentadora de noticias 🎙 Podcast Alejandra Medina @spotify 💋 Fundadora @contour.mx 👇🏻 Latest YouTube Video
+      Go Out, the World is your Playground 🤟🏻🤩 5 Continents by Bike @specialized_co | @pearlizumiofficial | @aeroebikepack Plant Powered 🌱
     location: "Colombia"
-    followers: 33880
-    engagement: 213
-    commentsToLikes: 0.036853
-    id: ck8svwe0gcybr0j78ukt6pqhm
+    followers: 28828
+    engagement: 362
+    commentsToLikes: 0.063483
+    id: ck6uelkc7rndy0j71vg37n6zz
     verified: false
-    hashtags: "#motivaci, #hidrataci, #regiaencolombia, #outfit"
-  - username: "mariapaulamorenoc"
+    hashtags: "#mtb, #epicevo, #unicycle, #thisisgoingtobeepic"
+  - username: "acardonat"
     fullname: >-
-      Maria Paula Moreno Con
+      Andrés Cardona T
     bio: >-
-      Kitesurfer Solo buena energía por aquí ✨ @goodvibes.balance
+      Yo propongo. Ustedes disponen. 🤵🏻‍♂️Luxury Wedding & Event Planning | RRPP | Lifestyle @casadenoviasbaq @cdn.eventos 🌎 Colombia
     location: "Colombia"
-    followers: 23319
-    engagement: 429
-    commentsToLikes: 0.052220
-    id: ck6ufpfq7ydyb0j718ltxu87e
+    followers: 9507
+    engagement: 418
+    commentsToLikes: 0.035417
+    id: ck5hrz5tivqb20i117nmc1vbd
     verified: false
-    hashtags: "#photography, #travelblogger, #beautifuldestinations, #abaroundtheworld"
-  - username: "entrenandomentes"
+    hashtags: "#weddingplanner, #weddingplannercolombia, #luxuryweddingcolombia, #bodasdelujo"
+  - username: "elcompagotzy"
     fullname: >-
-      Liv / Traveler 🌎🌍🌏
+      🦖
     bio: >-
-      🤓 Coach Live| 🏡Interior Designer | 🚴‍♀️ Adventure Sports 🌎 |Adventure Traveler | 🏕 Nomad 👩‍❤️‍👨 @vivetussuenos_ • L❤️VE SOLDIER •
+      Hola me dicen gotzy 🤪 @hacvisual 📸🎥💻🎨 🌎🇲🇽 🇺🇸 🇨🇴 🇨🇱 🇦🇷 🇵🇪 🇪🇸 Mi canal de YouTube 👇🏼 colabs dm 📩📲
     location: "Colombia"
-    followers: 21386
-    engagement: 212
-    commentsToLikes: 0.054914
-    id: ck6uf43weury70j711pkurr64
+    followers: 30505
+    engagement: 316
+    commentsToLikes: 0.047434
+    id: ck6tug9wkg62d0j71m66wib19
     verified: false
-    hashtags: "#girlpower, #womanbiker, #cumplea, #viajerosporelmundo"
-  - username: "martinme5a"
+    hashtags: "#mazatlan, #goodvibes, #tranquilon, #style"
+  - username: "byfoot.travels"
     fullname: >-
-      Martin Mesa
+      Santorini by foot
     bio: >-
-      VIVIR BONITO! Adventure Traveler 🌎 Adventure Sports ° @travel5ouls @xperiencefactoryco
+      STAY & EXPLORE WITH US #santoriniisland 👨‍👩‍👧 Family business 🏡 Villa by the sea 👣 Private Hiking Tours & Experiences 🐴 Horse-feeding & photosessions
     location: "Colombia"
-    followers: 84354
-    engagement: 413
-    commentsToLikes: 0.080493
-    id: ck0tuq0ux87b80i19pcc86mjq
+    followers: 4030
+    engagement: 1683
+    commentsToLikes: 0.073044
+    id: ckap6u5yqhd950i78w728uazu
     verified: false
-    hashtags: "#paramotor, #viajes, #versys1000, #hotel"
+    hashtags: "#mysantorini, #greeksummer, #bogotacolombia, #thira"
 ---

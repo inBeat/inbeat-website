@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Spain In 2022
+title: Top 10 Cooking TikTok Influencers In Spain In 2023
 description: >-
-  Find top cooking TikTok influencers in Spain in 2022. Most popular hashtags: #foryou #fyp #parati #cooking.
+  Find top cooking TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #cooking #foryoupage #foryou.
 platform: TikTok
-hits: 18
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 18 TikTok influencers like this in Spain for you to collaborate.
+hits: 16
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 16 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "saynacho"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       Cooking to learn
     location: "Spain"
-    followers: 20600
-    engagement: 1360
-    commentsToLikes: 0.029509
+    followers: 20200
+    engagement: 1327
+    commentsToLikes: 0.028473
     id: ckaftrwfr6lye0i785xou5ds7
     verified: false
     hashtags: "#pizza, #chinese"
+  - username: "pierinaam"
+    fullname: >-
+      pierina isabella
+    bio: >-
+      la flaca | 19 venezolana
+    location: "Spain"
+    followers: 2851
+    engagement: 713
+    commentsToLikes: 0.032814
+    id: ckc82budx33ty0j23iv8u1zzg
+    verified: false
+    hashtags: "#cooking, #parati, #madrid, #fyp"
   - username: "damn.bushra"
     fullname: >-
       Damn Bushra
@@ -26,105 +38,93 @@ profiles:
       Make a donation to complete the construction of the Tariq Alfalah mosque.
     location: "Spain"
     followers: 16100
-    engagement: 861
-    commentsToLikes: 0.015529
+    engagement: 854
+    commentsToLikes: 0.015477
     id: ckb9s7mompch90j234dy2ckrm
     verified: false
-    hashtags: "#foodtok, #food, #cooking, #pourtoi"
+    hashtags: "#fyp, #cooking, #foodie, #foodtok"
   - username: "aigostar_"
     fullname: >-
       Best food share
     bio: >-
       Do you love food ?🤗 If so turn on my NOTIFICATIONS! 📣Best food ACC🍲
     location: "Spain"
-    followers: 72600
-    engagement: 472
-    commentsToLikes: 0.014139
+    followers: 71100
+    engagement: 467
+    commentsToLikes: 0.014088
     id: ckc30vbn4rh2v0j232d1rtz4e
     verified: false
-    hashtags: "#chickenwings, #recipe, #foryou, #lovefood"
-  - username: "moonyvbes"
+    hashtags: "#lovefood, #recipe, #cook, #delicious"
+  - username: "grun6e"
     fullname: >-
-      dms don’t work
+      loopsy lala
     bio: >-
-      tips | grwm’s | diys 𝐡𝐚𝐩𝐩𝐲 𝐯𝐢𝐛𝐞𝐬 ❥
+      hipster
     location: "Spain"
-    followers: 2419
-    engagement: 3013
-    commentsToLikes: 0.056521
+    followers: 2371
+    engagement: 2283
+    commentsToLikes: 0.032520
     id: ckbfi212ydm3b0j23bqu006pl
     verified: false
-    hashtags: "#foryoupage, #charlidamelio, #dance, #pulia"
-  - username: "miriamjlas"
+    hashtags: "#charlidamelio, #italy, #fyp, #foru"
+  - username: "neet_52"
     fullname: >-
-      Miriamjlas
+      whiteytowers52
     bio: >-
-      Feminista y vegana. 💖🌱💥 Políticas y Sociología🔻 Ig:verdequetequieroverde__
+      Just here for fun but If I make you smile just once my job is done 😃
     location: "Spain"
-    followers: 13800
-    engagement: 1243
-    commentsToLikes: 0.038960
-    id: ckamhixw3gahp0i78fiy2mm4m
+    followers: 6063
+    engagement: 382
+    commentsToLikes: 0.167354
+    id: ckbfbab6j362d0j239v4jljx8
     verified: false
-    hashtags: "#feminismo, #vegetarian, #lgbt, #vegan"
+    hashtags: "#hope, #boredom, #ifyoucanbeanythingbekind, #over50andfabulous"
+  - username: "itziarcastro_"
+    fullname: >-
+      Itziar Castro
+    bio: >-
+      #actress #singer Goya en Vis a Vis, Campeones, Pieles. XHOXB, Blancanieves...
+    location: "Spain"
+    followers: 180700
+    engagement: 972
+    commentsToLikes: 0.023362
+    id: ckb97tiz6qud50j235k7dc5gf
+    verified: true
+    hashtags: "#libro, #poemas, #voluntaria, #poes"
   - username: "moon.grwmm"
     fullname: >-
       𝙶𝚊𝚕𝚊✰
     bio: >-
-      22K? 👼🏼 ✰
+      22K? 👼🏼 ✰ cuenta creada el : 08/01/2019
     location: "Spain"
-    followers: 21300
-    engagement: 2168
-    commentsToLikes: 0.012664
+    followers: 20700
+    engagement: 2096
+    commentsToLikes: 0.010985
     id: ckb9bquy1y6ke0j23726soxrx
     verified: false
-    hashtags: "#greenscreen, #coffee, #parati, #fyp"
-  - username: "nataliaa_rom"
+    hashtags: "#cuarentena, #xyzbca, #aesthetic, #fyp"
+  - username: "geraldineofficiel"
     fullname: >-
-      Nataliaa🌪
+      Geraldine officiel
     bio: >-
-      Holiiii💫 📍bcn ♐️ INSTAGRAM: @nataliaa_rom 💜
+      Designer -Dancer - Real estate Broker 📍Dubai
     location: "Spain"
-    followers: 12400
-    engagement: 1768
-    commentsToLikes: 0.018778
-    id: cka0jz0fok8sd0i78n76la7g1
+    followers: 135700
+    engagement: 851
+    commentsToLikes: 0.047243
+    id: ck9uxs9rq1dmr0j78z8c8i9z5
     verified: false
-    hashtags: "#parati, #foryou, #fyp, #greenscreenvideo"
-  - username: "smartwizard"
+    hashtags: "#trend, #fyp, #uae, #viral"
+  - username: "tv3cat"
     fullname: >-
-      ♠️♥️SMART WIZARD♣️♦️
+      TV3
     bio: >-
-      ♠️♥️Smart Wizard by Ivan Ojeda♦️♣️ Magia, Ilusiones Opticas y Malabares Varios
+      Real tiktokers des del 2020
     location: "Spain"
-    followers: 154600
-    engagement: 787
-    commentsToLikes: 0.030294
-    id: ckb9lfg8odu9y0j23kcxfjofh
-    verified: false
-    hashtags: "#ilusion, #percepcion, #magictrick, #fypage"
-  - username: "polvipe"
-    fullname: >-
-      polvivesp
-    bio: >-
-      BLACK&WHITE FAMILY 🤜🏻🤛🏾 Funny Clips 📹👀
-    location: "Spain"
-    followers: 10900
-    engagement: 792
-    commentsToLikes: 0.045993
-    id: cka0tw3tsrrjw0i78uwumvjro
-    verified: false
-    hashtags: "#humor, #prank, #challenge, #viral"
-  - username: "aina.bueso"
-    fullname: >-
-      Aina Bueso
-    bio: >-
-      Hola🙋🏻‍♀️ 📍Navarcles, CAT
-    location: "Spain"
-    followers: 23600
-    engagement: 1620
-    commentsToLikes: 0.011761
-    id: ckb9bia1kxuok0j23i0kwgpah
-    verified: false
-    hashtags: "#llenguacatalana, #viral, #catalunya, #estiktokat"
+    followers: 23500
+    engagement: 920
+    commentsToLikes: 0.015238
+    id: ckdtknbs0yi2h0j231d32fgjh
+    verified: true
+    hashtags: "#humor, #lamarat, #seriestv3, #tocaatothom"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Russia In 2022
+title: Top 10 Makeup TikTok Influencers In Russia In 2023
 description: >-
-  Find top makeup TikTok influencers in Russia in 2022. Most popular hashtags: #makeup #amongus #cosplay #foryou.
+  Find top makeup TikTok influencers in Russia in 2023. Most popular hashtags: #makeup #fyp #love.
 platform: TikTok
-hits: 88
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 88 TikTok influencers like this in Russia for you to pitch.
+hits: 63
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 63 TikTok influencers like this in Russia for you to contact.
 profiles:
   - username: "politola"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       just doing my makeups
     location: "Russia"
-    followers: 44600
-    engagement: 2276
-    commentsToLikes: 0.008662
+    followers: 42600
+    engagement: 2030
+    commentsToLikes: 0.010974
     id: ckavqvjxl2lnw0j236730z628
     verified: false
     hashtags: ""
-  - username: "curly__detective"
+  - username: "toonylly"
     fullname: >-
-      Marie Holmes
+      🦋J U L I A🌈
     bio: >-
-      Marie | St Petersburg cosplay & makeup 16+ Cooperation - inst curly_detective
+      Aesthetic girl Aesthetic | routine | makeup 17 y.o
     location: "Russia"
-    followers: 64000
-    engagement: 1740
-    commentsToLikes: 0.008864
-    id: ck8klf20k3mdx0j782s4hlyq7
+    followers: 65000
+    engagement: 1549
+    commentsToLikes: 0.024112
+    id: ckafuyhjlch6b0i78u4ax32dk
     verified: false
-    hashtags: "#history, #sherlock, #historicalfashion, #vintage"
-  - username: "albakub"
+    hashtags: "#cosmetics, #cosmetic, #aesthetic, #divage"
+  - username: "christina_gubanova"
     fullname: >-
-      Актриса Альбина
+      christina_gubanova
     bio: >-
-      Актриса🎬 Художник по гриму💄 Mосква🇷🇺
+      makeup/hair maker🤞🏻 Сибирь, Кузбасс
     location: "Russia"
-    followers: 4256
-    engagement: 1959
-    commentsToLikes: 0.234824
-    id: ckb0erlxa72iz0j23pnjo8oc2
+    followers: 112400
+    engagement: 425
+    commentsToLikes: 0.020371
+    id: ckbepqmak6v6j0j23gd7b7xrr
     verified: false
-    hashtags: "#halloween2020, #corpsebride, #makeuptutorials, #timburtonchallenge"
-  - username: "maya.ch2004"
+    hashtags: "#wok, #greenmakeup, #makeup, #howtohairstyles"
+  - username: "poli_snow"
     fullname: >-
-      MaYa 
+      Poli_Snow
     bio: >-
-      16k🤯вы лучшие!🥺💜 👇🏼Подписывайся/Follow me👇🏼 My lnstagram : @maya.ch200
+      你喜欢我吗？ Шутки 18+ Аниме, китайские новеллы Макияжи Не хотите, как хотите
     location: "Russia"
-    followers: 16400
-    engagement: 2184
-    commentsToLikes: 0.033489
-    id: ckbq43bqdqovf0j23o3mi9xks
+    followers: 25700
+    engagement: 2214
+    commentsToLikes: 0.025777
+    id: ckd6brllb4svf0j231rf0tgjm
     verified: false
-    hashtags: "#army, #kpop, #amongus, #foryou"
-  - username: "lilsssia"
+    hashtags: "#haikyuu, #aot, #makeup, #weeb"
+  - username: "anushkanushka228"
     fullname: >-
-      настя / лилсиа 💅🏻
+      МамаУтка🐥
     bio: >-
-      😔💅🏻 Инст: lilsss1a сотрудничество в директ инстаграмма 🧚🏻‍♀️
+      🇷🇺Кемерово 🤟🏻19 условных единиц 👤Vk: MotherDuck Работаю с Perfluence
     location: "Russia"
-    followers: 6007
-    engagement: 2306
-    commentsToLikes: 0.034465
-    id: ckdmzui3ycjzq0j2375jnj7l8
+    followers: 100600
+    engagement: 1861
+    commentsToLikes: 0.015157
+    id: ckb9dxywc1gm40j23kn2nc5w1
     verified: false
-    hashtags: "#fyp, #foryou, #halloween, #makeup"
+    hashtags: "#happynewyear, #art, #monsters, #happynewyear2021"
   - username: "allagerych"
     fullname: >-
       AllaGerych
     bio: >-
       Привет 21
     location: "Russia"
-    followers: 2915
-    engagement: 1631
-    commentsToLikes: 0.049442
+    followers: 13100
+    engagement: 1534
+    commentsToLikes: 0.049070
     id: ckb10c15xouxj0j237gptmwd8
     verified: false
-    hashtags: "#wearesoda, #makeup, #crazymakeup, #beautybomb"
+    hashtags: "#love, #makeup, #harleyquinn, #dc"
   - username: "indintidel"
     fullname: >-
       indintidel
     bio: >-
-      My inst: @tupo_r.i.p.ka @lightfleur_arts My public vk: Light Fleur I’m 17
+      My inst: @tupo_r.i.p.ka @lightfleur_arts My public vk: Light Fleur I’m 18
     location: "Russia"
-    followers: 6965
-    engagement: 1415
-    commentsToLikes: 0.057313
+    followers: 6821
+    engagement: 1334
+    commentsToLikes: 0.049857
     id: ckb9r6gmmnep30j23hi8r67pa
     verified: false
-    hashtags: "#makeup, #pink, #toxic, #relationship"
-  - username: "madamborodkina"
+    hashtags: "#pink, #makeup, #toxic, #purple"
+  - username: "ak.fishh"
     fullname: >-
-      MadamBorodkina
+      🍒Булочка с вишней🍒
     bio: >-
-      Лицо:@madamborodkinaface Плёночные фото: @madamborodkina Рисунки: @vodaprolilas
+      ✨17 годиков✨ 🌸Маленький мечтатель🌸 🌃Новосибирск🌃 🍒Учусь краситься🍒
     location: "Russia"
-    followers: 2481
-    engagement: 1296
-    commentsToLikes: 0.064590
-    id: ckbwj89pg3ghm0j236d5uupjc
+    followers: 19600
+    engagement: 2355
+    commentsToLikes: 0.016226
+    id: ck9fwsfw42ws40j78qizfw0np
     verified: false
-    hashtags: "#makeup, #amongus, #dragqueen, #grim"
-  - username: "bansheeswhisper"
-    fullname: >-
-      ШепотБанши
-    bio: >-
-      18y.o FanFiction, serials, games and cosplay — my love💕 вк: #ШепотБанши
-    location: "Russia"
-    followers: 2179
-    engagement: 1148
-    commentsToLikes: 0.060123
-    id: cka88qa49c97k0i78v1vrt6n6
-    verified: false
-    hashtags: "#loki, #cosplay, #makeup, #lucifer"
+    hashtags: "#recomendation, #foyou, #sallyfacecosplay, #pov"
   - username: "zrya.ya.eto.sdelal"
     fullname: >-
       съел деда
     bio: >-
       Крошка Мей 🦖дИнАзЁвР🦖 На улучшение качества контента:
     location: "Russia"
-    followers: 32000
-    engagement: 2469
-    commentsToLikes: 0.013473
+    followers: 31100
+    engagement: 2400
+    commentsToLikes: 0.012423
     id: ckbbko9qr8zlb0j23zcahv5sc
     verified: false
-    hashtags: "#metalfamily, #metalfamilyches, #metalfamilyvictoria, #makeupartist"
+    hashtags: "#metalfamilydee, #metalfamilyvictoria, #makeup, #metalfamily"
+  - username: "jagermiss"
+    fullname: >-
+      user1654667513542
+    bio: >-
+      Instagram @jagermiss Russia, spb 💎 MUA 💎 Goth Aesthetics 💎 DIY
+    location: "Russia"
+    followers: 4316
+    engagement: 1681
+    commentsToLikes: 0.029334
+    id: ck9euik41dpmk0j78aihweodt
+    verified: false
+    hashtags: "#sonic, #punkhair, #beautyblog, #pet"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In San Diego In 2022
+title: Top 10 Food TikTok Influencers In San Diego In 2023
 description: >-
-  Find top food TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #food #sandiego #foryou.
+  Find top food TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #food #sandiego #foryou.
 platform: TikTok
-hits: 52
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 52 TikTok influencers like this in San Diego, United States for you to contact.
+hits: 42
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 42 TikTok influencers like this in San Diego, United States for you to work with.
 profiles:
+  - username: "reynapizarro"
+    fullname: >-
+      reynapizarro
+    bio: >-
+      Finding the local goods and sharing them with you. San Diego and beyond🌎
+    location: "United States"
+    followers: 28400
+    engagement: 1035
+    commentsToLikes: 0.036140
+    id: ck9dwory0pyk40j782h7s5m8h
+    verified: false
+    hashtags: "#latina, #adventure, #california, #coffeetime"
+  - username: "explore_sd"
+    fullname: >-
+      user7751984492931
+    bio: >-
+      Sharing my passion for Food 🍱 Beauty💄Fashion 👗 Lifestyle, single mom 👩‍👦‍👦
+    location: "United States"
+    followers: 21300
+    engagement: 560
+    commentsToLikes: 0.077486
+    id: ckcpd8p1mfwz40j233wdcyqu9
+    verified: false
+    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
+  - username: "the_beason_family"
+    fullname: >-
+      Jesse Beason
+    bio: >-
+      God Parents to 4 girls Mentor to 100s of students And add value to others!
+    location: "United States"
+    followers: 66400
+    engagement: 1553
+    commentsToLikes: 0.011535
+    id: ck9v516m8wc4e0j78rf5xs5nx
+    verified: false
+    hashtags: "#fyp, #baby, #babygirl, #foryoupage"
+  - username: "diana81garrido"
+    fullname: >-
+      diana garrido
+    bio: >-
+      
+    location: "United States"
+    followers: 26600
+    engagement: 1361
+    commentsToLikes: 0.011101
+    id: ckd6q5ibil4p70j237ez5zdo3
+    verified: false
+    hashtags: "#ketorecipes, #yum, #fyp, #foryoupagechallege"
   - username: "esquer_fam"
     fullname: >-
       Esquer Fam
     bio: >-
       🔹️Mike- USMC Vet./ ceo Supreme Singlets 🔸️Susie- Registered Nurse 🌴San Diego
     location: "United States"
-    followers: 13400
-    engagement: 492
-    commentsToLikes: 0.062056
+    followers: 14500
+    engagement: 620
+    commentsToLikes: 0.085120
     id: ckaj9ud8rg3zt0i78ccls4hqn
     verified: false
-    hashtags: "#food, #sandiego, #dadsoftiktok, #original"
-  - username: "explore_sd"
+    hashtags: "#sandiego, #fyp, #fire, #food"
+  - username: "nataliatoma"
     fullname: >-
-      user7751984492931
+      Nataliaaa
     bio: >-
-      Sharing my passion for food! 🥘 San Diego hidden gem 💎 travel ✈️ Chef mom 👩‍🍳
+      San Diego
     location: "United States"
-    followers: 18700
-    engagement: 506
-    commentsToLikes: 0.046756
-    id: ckcpd8p1mfwz40j233wdcyqu9
+    followers: 57100
+    engagement: 945
+    commentsToLikes: 0.059377
+    id: ckcor9aq47inn0j23m5bl53w4
     verified: false
-    hashtags: "#sandiegolife, #sd, #food, #sandiegohiddengems"
-  - username: "the_beltran_fam"
+    hashtags: "#dance, #trending, #foryou, #parents"
+  - username: "mxney.j"
     fullname: >-
-      the_beltran_fam
+      Judy🦋
     bio: >-
-      The Beltrans PO BOX 531285 San Diego, CA 92153 Venmo: Joe_el619
+      I love all 131k of you ❤️ I’ll be back soon 🥺 Cash app: $jbannddz
     location: "United States"
-    followers: 80200
-    engagement: 702
-    commentsToLikes: 0.024910
-    id: ckbfdog4c765o0j23wxxg560d
+    followers: 132000
+    engagement: 1154
+    commentsToLikes: 0.014474
+    id: ckcdko62c9dis0j23co77ob9h
     verified: false
-    hashtags: "#california, #cookingvideo, #cooking, #family"
-  - username: "itssabss26"
+    hashtags: "#explore, #fyp, #explorepage, #lmao"
+  - username: "chefonlyphans"
     fullname: >-
-      Sabrina
+      phan
     bio: >-
-      📍 San Diego
+      san diego still figuring out how to cook
     location: "United States"
-    followers: 4440
-    engagement: 649
-    commentsToLikes: 0.049544
-    id: ckdnjsggriwe50j23ukwrnhbr
+    followers: 48900
+    engagement: 1884
+    commentsToLikes: 0.008437
+    id: ckbqbxl0rxzug0j23tn66539s
     verified: false
-    hashtags: "#foryoupage, #tiktokrestarea, #fyp, #lajolla"
-  - username: "allymcdub"
+    hashtags: "#krakboba, #fyp, #boba, #barista"
+  - username: "keepingitketosd"
     fullname: >-
-      allymcdub
+      Keepingitketosd
     bio: >-
-      Mexican American 💃🏽🇲🇽 ig + venmo: allymcdub
+      Just a girl from San Diego keepingitketo 🥑 Down 100lbs 💪🏻
     location: "United States"
-    followers: 31000
-    engagement: 1044
-    commentsToLikes: 0.039131
-    id: ck9c5rjf1qq490j78zyis828d
+    followers: 25300
+    engagement: 763
+    commentsToLikes: 0.042439
+    id: cka0x4ogq5ijh0i78kzhv070a
     verified: false
-    hashtags: "#diy, #home, #apartment, #foryou"
-  - username: "ryanochoaofficial"
+    hashtags: "#keepingitketo, #weightlossprogress, #omad, #latina"
+  - username: "nutritionwithles"
     fullname: >-
-      Ryan Ochoa
+      Leslie gonzalez
     bio: >-
-      Yes, I was the evil guy. ‘LIT NATION’ Live: 11/11 @ 6pm PST Cameo: ryanochoa
+      HELLLOO 🤍 Future RD 🔜 Realistic nutrition 🥑 San Diego📍 / SDSU 📚 / 20
     location: "United States"
-    followers: 932000
-    engagement: 1767
-    commentsToLikes: 0.013881
-    id: ck8oq3xcn5zmp0j78f2fb5kam
-    verified: true
-    hashtags: "#pairofkings, #fyp, #chuck, #icarly"
-  - username: "ravengirl.75"
-    fullname: >-
-      Sasha McKnight
-    bio: >-
-      Love your life! ❤ You're in control 😘💋
-    location: "United States"
-    followers: 8890
-    engagement: 594
-    commentsToLikes: 0.042988
-    id: ckcjiwrgud1mg0j23dnd9lncn
+    followers: 6073
+    engagement: 802
+    commentsToLikes: 0.041750
+    id: ckcuyupu6mjd10j23llt9kvil
     verified: false
-    hashtags: "#fyp, #quarantinevibes, #fall, #tgif"
-  - username: "sweetsafis"
-    fullname: >-
-      sweetsafis
-    bio: >-
-      San Diego, CA BLACK OWNED ✊🏽 NO SHIPPING YET 📨business: sweetsafis1@gmail.com
-    location: "United States"
-    followers: 52300
-    engagement: 1324
-    commentsToLikes: 0.021079
-    id: ckfplxkgw13di0j236et5ag80
-    verified: false
-    hashtags: "#fyp, #didyouknow, #smallbusiness, #scarystories"
-  - username: "robrast"
-    fullname: >-
-      Rob Rast
-    bio: >-
-      Wild and Free in San Diego Insta & YT here 👆
-    location: "United States"
-    followers: 20200
-    engagement: 681
-    commentsToLikes: 0.027534
-    id: cka0w9vew20gn0i784myx39ud
-    verified: false
-    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
-  - username: "novaakan3"
-    fullname: >-
-      Novian Cherry
-    bio: >-
-      🏀Pro Athlete ♦️NUPE 🏠 San Diego, CA Follow me on IG —> @Novaakan3 BLM ✊🏿
-    location: "United States"
-    followers: 349100
-    engagement: 1739
-    commentsToLikes: 0.098973
-    id: ckb0zdez3o43y0j23zi0dkijf
-    verified: true
-    hashtags: "#biden2020, #blm, #fyp, #trump"
+    hashtags: "#health, #nutrition, #thatwitch, #rd2b"
 ---

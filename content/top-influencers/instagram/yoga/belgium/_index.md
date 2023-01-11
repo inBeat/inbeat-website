@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Belgium In 2022
+title: Top 10 Yoga Instagram Influencers In Belgium in 2023
 description: >-
-  Find top yoga Instagram influencers in Belgium in 2022. Most popular hashtags: #yoga #yogainspiration #nature #handstand.
+  Find top yoga Instagram influencers in Belgium in 2023. Most popular hashtags: #yoga #yogainspiration #nature #handstand.
 platform: Instagram
 hits: 14
 text_top: See the most popular Instagram profiles on inBeat.
@@ -83,7 +83,7 @@ profiles:
     fullname: >-
       Hanne Maudens
     bio: >-
-      Ex-heptathlete (6252 points) 400-800 m runner Longjump 6m53 @runnerslabathleticsteam @adidas Follow my dream to Tokyo2022 🎌 Equicoaching 🦓
+      Ex-heptathlete (6252 points) 400-800 m runner Longjump 6m53 @runnerslabathleticsteam @adidas Follow my dream to Tokyo2023 🎌 Equicoaching 🦓
     location: "Belgium"
     followers: 6672
     engagement: 765

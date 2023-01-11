@@ -1,96 +1,96 @@
 ---
-title: Top 10 Christian TikTok Influencers In Brazil In 2022
+title: Top 10 Christian TikTok Influencers In Brazil In 2023
 description: >-
-  Find top christian TikTok influencers in Brazil in 2022. Most popular hashtags: #fy #christian #foryou #fyp.
+  Find top christian TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #christian #fyp #jesus.
 platform: TikTok
-hits: 88
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 88 TikTok influencers like this in Brazil for you to connect with.
+hits: 85
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 85 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "alfacy"
     fullname: >-
       Natã ✨
     bio: >-
-      oii 👁️👄👁️ menino da pipoca 🍿 perfil livre de ódio. Christian✝ Slytherin 💚🐍
+      oii 🖖🏻 menino da pipoca 🍿 Christian✝ perfil livre de ódio 🖤
     location: "Brazil"
-    followers: 19200
-    engagement: 1984
-    commentsToLikes: 0.099860
+    followers: 19100
+    engagement: 1850
+    commentsToLikes: 0.074353
     id: ckbfc9ar44xen0j23ghcgfd5c
     verified: false
-    hashtags: "#foryou, #harrypotter, #foryoupage, #fyp"
-  - username: "lunanwoficial"
+    hashtags: "#foryoupage, #slytherin, #fyp, #foryou"
+  - username: "lunadidioficial"
     fullname: >-
       Luna
     bio: >-
       THIS IS A FAMILY SHOW! •Singer• •Christian•
     location: "Brazil"
-    followers: 1100000
-    engagement: 1761
-    commentsToLikes: 0.029345
+    followers: 1200000
+    engagement: 1757
+    commentsToLikes: 0.029272
     id: ckbbhdgn75xtg0j23b4bqp3x0
     verified: false
-    hashtags: "#nicehousebr, #dueto, #cultodosflopados, #pov"
+    hashtags: "#fy, #1d, #onlythebrave, #dueto"
   - username: "jhulycurty"
     fullname: >-
       jhulyenny
     bio: >-
-      Ele morreu por mim e hoje vivo por Ele. 💗✨
+      💗✨
     location: "Brazil"
-    followers: 4397
-    engagement: 2396
-    commentsToLikes: 0.086874
+    followers: 4422
+    engagement: 2255
+    commentsToLikes: 0.068138
     id: ckbbfte0b4gpy0j23vsxp4bvl
     verified: false
-    hashtags: "#gospel, #fyp, #page, #fy"
+    hashtags: "#foryou, #fyp, #foryoupage, #jesus"
   - username: "vxyz.h"
     fullname: >-
-      🔥Victória 🕊
+      𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂 𝒄𝒐𝒎 𝑪
     bio: >-
-      🇧🇷 Jesus é o suficiente 🕊 Musicista, artista e bailarina.
+      𝙹𝚎𝚜𝚞𝚜 é 𝚜𝚞𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚎 𝙼𝚞𝚜𝚒𝚌𝚒𝚜𝚝𝚊 🎻 𝙰𝚜𝚜𝚎𝚖𝚋𝚕𝚎𝚒𝚊𝚗𝚊
     location: "Brazil"
-    followers: 12400
-    engagement: 2589
-    commentsToLikes: 0.081449
+    followers: 18500
+    engagement: 2240
+    commentsToLikes: 0.074191
     id: ckaif9d28vw250i78m7fivbws
     verified: false
-    hashtags: "#fy, #fyp, #foryou, #christiangirl"
-  - username: "helloisyreis"
-    fullname: >-
-      Helloisy Reis
-    bio: >-
-      BAHIA🌴 cristian young 💞
-    location: "Brazil"
-    followers: 58200
-    engagement: 2578
-    commentsToLikes: 0.024232
-    id: cka88j9nbbgnf0i78nlyp5ekf
-    verified: false
-    hashtags: "#fe, #pravc, #church, #deus"
+    hashtags: "#jesus, #fy, #viral, #shingekinokyojin"
   - username: "mateusclement3"
     fullname: >-
       Mateus Clemente
     bio: >-
       ❤️!!!JESUS!!!❤️ ⛳Belo Horizonte-MG
     location: "Brazil"
-    followers: 98800
-    engagement: 1931
-    commentsToLikes: 0.032419
+    followers: 97500
+    engagement: 1929
+    commentsToLikes: 0.035017
     id: ckbf463e1seyc0j23f40kxxff
     verified: false
-    hashtags: "#christianboy, #comedia, #varoa, #paravoce"
-  - username: "alanfern"
+    hashtags: "#comediagospel, #christianboy, #fyp, #foryou"
+  - username: "wagner_moisess"
     fullname: >-
-      Alan Fernandes
+      Wagner Moisés
     bio: >-
-      Comédia cristã 🤪 Uma maneira diferente de apresentar Jesus✝️
+      Carrego o nome de alguém que é Lindo! 👇🏽Vem aprender a influenciar comigo👇🏽
     location: "Brazil"
-    followers: 139800
-    engagement: 2665
-    commentsToLikes: 0.012129
-    id: ckad64wary8fg0i78u9slahfr
+    followers: 423900
+    engagement: 2722
+    commentsToLikes: 0.023014
+    id: ckavp276f01h90j23qoivspqk
     verified: false
-    hashtags: "#jesus, #christianguy, #oretiro, #gospel"
+    hashtags: "#foryoupage, #fyp, #minisserie, #action"
+  - username: "lorenavieirat"
+    fullname: >-
+      prazer, Lorena💖
+    bio: >-
+      ME SEGUE NO 1NSTAAAAAA Prazer, filha do Rei 💖
+    location: "Brazil"
+    followers: 531400
+    engagement: 2991
+    commentsToLikes: 0.017214
+    id: ck9e1ff4zafcd0j784vont934
+    verified: false
+    hashtags: "#foryou, #foryoupage, #christian, #fy"
   - username: "biancarvalho__"
     fullname: >-
       biancarvalho__
@@ -98,33 +98,33 @@ profiles:
       Jesus ama você 💖 RJ • 22y ME ACOMPANHA MAIS DE PERTIN NO INSTA
     location: "Brazil"
     followers: 32600
-    engagement: 1952
-    commentsToLikes: 0.028474
+    engagement: 1887
+    commentsToLikes: 0.027474
     id: cka6mha9w76sl0i78a3pqi0vr
     verified: false
-    hashtags: "#christian, #humorgospel, #christiangirl, #tiktokcristao"
-  - username: "anajufgomess"
+    hashtags: "#christian, #christiangirl, #gospel, #garotacrist"
+  - username: "luizaceolin"
     fullname: >-
-      anajugomes
+      Luiza  Ceolin
     bio: >-
-      16y Católica Apostólica Romana sigam @am.ruah no insta
+      Jesus †🤍
     location: "Brazil"
-    followers: 2546
-    engagement: 1336
-    commentsToLikes: 0.057020
-    id: ckcv55q01p4vw0j23o3uo4it2
+    followers: 28300
+    engagement: 1680
+    commentsToLikes: 0.018808
+    id: ckcjsibibhs8n0j23yy4cwkzx
     verified: false
-    hashtags: "#fyp, #foryou, #catholic, #religi"
-  - username: "worshipgod_"
+    hashtags: "#fyp, #jesus, #cristao, #crist"
+  - username: "alanfern"
     fullname: >-
-      Jesus Save 💕✝️
+      Alan Fernandes
     bio: >-
-      Imperatriz-MA // cristã ✝️💕 119K pessoas seguindo Jesus 🥰 Me segue aí ouu👆🏼
+      Antigo criador de comédia cristã, agora um apaixonado por Jesus ✝️
     location: "Brazil"
-    followers: 118800
-    engagement: 2872
-    commentsToLikes: 0.010871
-    id: ckcuh3fwefhcb0j23tqthjyjn
+    followers: 173100
+    engagement: 2620
+    commentsToLikes: 0.014529
+    id: ckad64wary8fg0i78u9slahfr
     verified: false
-    hashtags: "#deus, #nofyp, #god, #fyp"
+    hashtags: "#foryou, #jesus, #christian, #gospel"
 ---

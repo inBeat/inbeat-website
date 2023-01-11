@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In United States In 2022
+title: Top 10 Vegan Instagram Influencers In United States In 2023
 description: >-
-  Find top vegan Instagram influencers in United States in 2022. Most popular hashtags: #styleinspo #fashiongram #whatiwore.
+  Find top vegan Instagram influencers in United States in 2023. Most popular hashtags: #vegan #plantbased #veganrecipes.
 platform: Instagram
-hits: 3867
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 3867 Instagram influencers like this in United States for you to connect with.
+hits: 4896
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 4896 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "danascruggs"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Vegan
     location: "United States"
-    followers: 40458
-    engagement: 1112
-    commentsToLikes: 0.034781
+    followers: 43961
+    engagement: 876
+    commentsToLikes: 0.033935
     id: ck0u9yn1pax240i19k3bololm
     verified: false
-    hashtags: "#pentax67, #danascruggs, #glossier, #filmisnotdead"
-  - username: "silversparklesonme"
+    hashtags: "#pentax67, #glossier, #outtake, #filmisnotdead"
+  - username: "vegicano"
     fullname: >-
-      K r i s t e l
+      Rudy Ramos
     bio: >-
-      56 and Silver But still on the journey / under construction 🛠 Mom of 🐒🐒🐕 Vegan ▪ Love Animals and Nature ▪Great Interest for Fashion and Photography
+      NYC’s Original Vegan Taquero 🌮 Taquiza (DIY Taco Kit): SOLD OUT 🌮 Order Deadline: Tuesday 5PM 🚚 Free NYC Delivery: Fridays 📋 Menu: Highlights
     location: "United States"
-    followers: 15947
-    engagement: 2301
-    commentsToLikes: 0.098526
-    id: ck9wftswjqij20j78jzzzm8m0
+    followers: 41084
+    engagement: 121
+    commentsToLikes: 0.032618
+    id: ck135fab314mb0i19g5dgg7mf
     verified: false
-    hashtags: "#peloblanco, #silverandfree, #embracethegrey, #veganbeauty"
-  - username: "stephanie.depena"
+    hashtags: "#vegan"
+  - username: "jamesaspey"
     fullname: >-
-      Fashion • Beauty • Fitness
+      JAMES ASPEY
     bio: >-
-      Bad vibes don’t go with my outfit ✨ 🌱 Vegan Since 2016 ✨ Owner of @shopdenvy 🎥 Youtube Stephanie De Pena 💫 Tiktok Stephanie.Depena
+      Here to share my vegan life, inspire & teach, spread good vibes & increase the✌🏽 TacoCat 🌮🐈 Charity Advisor Soulmate😍 @nickyaspey Vids + more👇🏽
     location: "United States"
-    followers: 17505
-    engagement: 1373
-    commentsToLikes: 0.174033
-    id: ck8wdfbwedra60j78evq4xzms
-    verified: false
-    hashtags: "#fashionista, #bellamihair, #vegans, #explorepage"
-  - username: "darbigwynn"
+    followers: 232112
+    engagement: 219
+    commentsToLikes: 0.065059
+    id: ck0w1jkmnjo0m0i19gbi5y6my
+    verified: true
+    hashtags: "#endtheanimalholocaust, #govegan, #seaspiracy, #vegan"
+  - username: "payalia"
     fullname: >-
-      Darbi Gwynn
+      Payal Shah 🧿
     bio: >-
-      Vegan Sober
+      -Founder / Fine jeweler @LDezen | @Psylish.Jewelry -Web3 ✨ -Plant-Based #VeganPieChallenge 🌱🌞🫶🏽
     location: "United States"
-    followers: 16464
-    engagement: 907
-    commentsToLikes: 0.077488
-    id: ck55lvk9i2jl90i11su2fm82r
-    verified: false
-    hashtags: ""
-  - username: "theteesharenee"
+    followers: 93676
+    engagement: 402
+    commentsToLikes: 0.030518
+    id: ck0vxkk1jzclh0i191qztnrva
+    verified: true
+    hashtags: "#metgala, #ldezennydiaries, #panik, #failforward"
+  - username: "y0ur.vibe.is.pretty"
     fullname: >-
-      Teesha Renée💓
+      Joyce Ann Wert Ⓥ
     bio: >-
-      💡Artist | 🧘🏾‍♀️ Yogi | 🌱 Vegan | 📍ATL Sharon on Tyler Perry's "The Oval" on @BET Destiny on Black Lightning on @thecw Teesharenee.com
+      24 • SOBER • NORMALIZE MENTAL HEALTH #YourExistenceIsPowerful Fentanyl OD Survivor •Idiopathic Hypersomnia 272K TikTok Vegan 🌱 @koalatyboxes
     location: "United States"
-    followers: 12475
-    engagement: 1092
-    commentsToLikes: 0.076475
-    id: ck5hmfev6luow0i11hv73wjeh
+    followers: 27285
+    engagement: 3188
+    commentsToLikes: 0.009388
+    id: ckzddmzvnbxbk0j23bshvt7i9
     verified: false
-    hashtags: "#theovalonbet, #betawards, #womenempowerment, #covidtesting"
-  - username: "emilyrosdahl"
+    hashtags: "#trauma, #relatable, #anxiety, #tired"
+  - username: "sabrina.skyee"
     fullname: >-
-      EMILY ROSDAHL
+      Sabrina Skye
     bio: >-
-      ♡ rhode island ♡ #fitsbyemily ♡ my style, life + vegan things ♡ email me: emily@therosedoll.com
+      Life is a dream @shewandxrs @eatyumjo @stronger.vegan Let’s be friends:
     location: "United States"
-    followers: 10863
-    engagement: 923
-    commentsToLikes: 0.158614
-    id: ck5hn8212ndkm0i11fy9rezlq
+    followers: 67834
+    engagement: 461
+    commentsToLikes: 0.038428
+    id: ck6udm5p5lvmz0j71puru8icw
     verified: false
-    hashtags: "#nastygalsdoitbetter, #petalandpup"
-  - username: "sophtheshopper"
+    hashtags: "#urbanskinrx, #urbanambassador, #ad, #bombabambola"
+  - username: "vardanyanmarianna"
     fullname: >-
-      Sophie
+      Marianna Vardanyan
     bio: >-
-      A mom.A wife.A Middle ager. A Frenchie lover. Vegan, Minimalist, and optimistic. 📩sophie@sophtheshopper.com Blog@ SophTheShopper.com
+      🌱Vegan food blogger ☘️The easy and delicious vegan recipes 🙋🏼‍♀️Healthy living 👩🏼‍💻PR specialist, sociologist 🤳🏻Into hospitality and marketing 🎤Singer
     location: "United States"
-    followers: 20380
-    engagement: 614
-    commentsToLikes: 0.128221
-    id: ck8szd5m5nykh0j78pacgyd74
+    followers: 60985
+    engagement: 366
+    commentsToLikes: 0.016895
+    id: ck8t366n521930j78bk8ugo8q
     verified: false
-    hashtags: "#photoshoot, #dallasblogger, #mydailystyle, #agelessbeauty"
-  - username: "sydnipaige_"
+    hashtags: "#veganrecipes, #tomatopasta, #vegan, #veganparmesan"
+  - username: "veganhippiesol"
     fullname: >-
-      Sydni 🤎
+      Dominique | Vegan Hippie Sol
     bio: >-
-      🌱 Vegan 🌿 Health coach student Mama of ✌🏽: 👦🏽 @tmathieu_jr 👶🏼 @msmilamathieu Owner: @shopjillmarie 🎀
+      Here to inspire my community. ✨ Food Enthusiast, Author, Vegan. 🌱 My cookbook ‘Vegan Hippie Sol’ out now! 🌻 Let’s Collab ➡️ info@veganhippiecafe.com
     location: "United States"
-    followers: 37954
-    engagement: 811
-    commentsToLikes: 0.033914
-    id: ck15qtisp4kfv0i19flivhnrq
+    followers: 105083
+    engagement: 301
+    commentsToLikes: 0.034628
+    id: ckmw1cjn16bm50j23th6f2oa8
     verified: false
-    hashtags: "#fitlife, #dontstop, #goals, #chiefs"
-  - username: "thedajagay"
+    hashtags: "#vegan, #plantbased, #veganuary, #immunityboost"
+  - username: "pole_mimi"
     fullname: >-
-      Empress
+      🌸 Carolin Schmitt
     bio: >-
-      Manifest Queen 🦋 Vegan 🌱 Founder of @empwrd.us ☁️ @dollpolaroids 🎥
+      Founder @poleheaven Vegan🌱/ ❤️ Pole,Hammock,Contortion Ambassador @polesportshop_de, @monkey.hands 🥇SteelonFire Elite 🥈PSO Champ./Exotic 🥉PSO Champ.
     location: "United States"
-    followers: 16284
-    engagement: 616
-    commentsToLikes: 0.082962
-    id: ck5hho10b98cq0i11d9b251mq
+    followers: 65998
+    engagement: 184
+    commentsToLikes: 0.010795
+    id: ck6tjs0wk3b660j71qkk9rkb8
     verified: false
-    hashtags: "#virgo, #stayempwrd, #halloween, #virgomood"
-  - username: "rhiannomu"
+    hashtags: "#flexygirl, #flexibility, #poleaddicted, #pdtrick"
+  - username: "thefoodietakesflight"
     fullname: >-
-      ˚✧₊⁎ Rhi ♡ リィ⁎⁺˳✧༚
+      Jeeca • Vegan Recipes 🥢
     bio: >-
-      🎀 ✧₊⁎☁️21☠️she/her☁️⁎⁺˳🎀 👻☆mixed magical girl☆👻 ✧₊⁎🐮vegan & cruelty free🐰⁎⁺˳ ☠️Jfashion & everything kawaii☠️ ☁️✧₊⁎♡@nozomuhara♡⁎⁺˳✧☁️ 🎀☠️💉日本語の学生💉☠️🎀
+      creating dishes from my childhood, travels & more 🇵🇭🇨🇳 👇🏼click the link for all recipes + videos 📖 Author: ‘Vegan Asian’ Cookbook
     location: "United States"
-    followers: 6748
-    engagement: 2325
-    commentsToLikes: 0.048399
-    id: ck0vzqk9naeyw0i19t9sbmhpj
+    followers: 898608
+    engagement: 145
+    commentsToLikes: 0.011112
+    id: ck0tzwcrlrq1a0i195y0cz53z
     verified: false
-    hashtags: "#yumekawaii, #pastelfashion, #sweetlolita, #kawaii"
+    hashtags: "#veganph, #f52grams, #filipinofood, #letscook"
 ---

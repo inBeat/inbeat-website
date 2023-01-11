@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Indonesia In 2022
+title: Top 10 Beauty Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top beauty Instagram influencers in Indonesia in 2022. Most popular hashtags: #lfl #makeup #ootdhijabindo #ootdhijab.
+  Find top beauty Instagram influencers in Indonesia in 2023. Most popular hashtags: #wayukicob #mykaluela #upgradecerahmu.
 platform: Instagram
-hits: 2466
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 2466 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 2179
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 2179 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "balqisalfilatifaahh_"
+  - username: "skingasmid"
     fullname: >-
-      Balqis Alfi Latifaah, S.Pd 🌺
+      Fitri
     bio: >-
-      • PP/Endorse by DM 🎉 ___ • Owner : @balqisboutique_ // @balqissoftlens_ // @testibalqissoftlens // @myquins.beauty // @saladkrimi_ //
+      Skincare . Beauty 📸 @trizastudio 🍂 @sheisfitri_
     location: "Indonesia"
-    followers: 8576
-    engagement: 1363
-    commentsToLikes: 0.118776
-    id: ck8t3gb6335ou0j78obe62zro
+    followers: 13797
+    engagement: 468
+    commentsToLikes: 0.197752
+    id: cl3w8ztbod9z00i23ifj2oupn
     verified: false
-    hashtags: "#ootdhijabindo, #malangkuliner, #cafemalang, #malanghits"
-  - username: "karinporavne"
+    hashtags: "#modernurban, #azarinecosmetic, #marvelxazarine, #reviewrombongan"
+  - username: "clarissaputri_"
     fullname: >-
-      MAKEUP & LASH FILLER 🤍
+      Clarissa Putri H 😽
     bio: >-
-      • Makeup artist | Bridal & beauty •Certified by @makeupbymario @belamakeuplada @ana.minic • Lash filler by @inlei_italy 📍Ljubljana, Slovenia
+      Beauty & Fashion Enthusiast✨ #GenerasiKulitSehat Bersama @npureofficial Olshop: 081389164343 (WA) Brand: 081294584704 (Kartika) / 0812 82820619 (Momi)
     location: "Indonesia"
-    followers: 14913
-    engagement: 1327
-    commentsToLikes: 0.090320
-    id: ck6tuqz0uhwdy0j71pn10zbsd
+    followers: 1205363
+    engagement: 530
+    commentsToLikes: 0.003916
+    id: ck0vvfnomoxe20i19i2qvn84r
     verified: false
-    hashtags: "#lashfiller, #ad, #muabykarin, #nudestix"
-  - username: "cynthiadelav"
+    hashtags: "#fdnevent, #enjoyamazingskin, #lazadafestivalfashion, #sipalingbestie"
+  - username: "milla_khs"
     fullname: >-
-      C y n t h i a
+      MILLA HISYAM S.Pd 🇲🇨🇸🇦
     bio: >-
-      👶🏻KIKIN💙 🙏🏻GODs GIRL 👑BEAUTY QUEEN🇲🇽 👠@vegamanagementmx 🌬@allogamx 💜@mercadodetodounpoco ☝🏻@missnuevoleon_org 📧cynthiadelavega@hotmail.es
+      LIFESTYLE,BEAUTY,FOOD,TRAVEL JOGJA Pp/Endorse(DM/Email/Wa CP) 📩millakhs1999@gmail.com TIKTOK 30K CEO @myndmanagement @rioslvs_ 🔒 Wa Cp (Mario) 👇🏻
     location: "Indonesia"
-    followers: 263254
-    engagement: 812
-    commentsToLikes: 0.122303
-    id: ck5qbggeglhyw0i11y2v7gr2r
+    followers: 122173
+    engagement: 408
+    commentsToLikes: 0.025745
+    id: ckf5s6zluewgv0j232p2dmoz5
+    verified: false
+    hashtags: "#pesanuntuknur, #thatskygameid, #glowingjuicyskin, #kelilingbarengbecakichitan"
+  - username: "nabilaishma"
+    fullname: >-
+      Nabila Ishma Nurhabibah
+    bio: >-
+      Enthusiast Learner, Fashion, & Beauty BA of @airinbeautycare @umama_id @texlascarf CP : +62 877-8595-4834 / +62 821-3077-7424
+    location: "Indonesia"
+    followers: 1237200
+    engagement: 1757
+    commentsToLikes: 0.003851
+    id: ck9whra3nz4ed0j78ypsblpwy
+    verified: false
+    hashtags: "#wardahrenewyou, #youthpowerdroplets, #7wonderstoners, #lifeyourway"
+  - username: "ganisss"
+    fullname: >-
+      Ganis Pevita Sari
+    bio: >-
+      اَللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ Beauty, lifestyle, Mom. 👶🏻 @babyprilly.farasya 📩DM for Bussines Inquiries 📌SOC,ID
+    location: "Indonesia"
+    followers: 17039
+    engagement: 581
+    commentsToLikes: 0.066528
+    id: ck9wh8jhiwr310j789366khjq
+    verified: false
+    hashtags: "#giveawaysolo, #greenplum, #minalaidzinwalfaidzin, #giveawayberhadiah"
+  - username: "jmiefu"
+    fullname: >-
+      J-Mie Fu 猪咪
+    bio: >-
+      Content creator · Youtube · Beauty Enthusiast newmom Contact : jmiegurl@gmail.com Good vibes only 🤍
+    location: "Indonesia"
+    followers: 105601
+    engagement: 341
+    commentsToLikes: 0.007291
+    id: ck5cj318etvmp0i11ku07g1hs
+    verified: false
+    hashtags: "#argitalmalaysia, #argitalgreenclay, #strongerinsideout, #lifewithargital"
+  - username: "abellyc"
+    fullname: >-
+      Abel Cantika ♥
+    bio: >-
+      See the beauty in everything // Beauty Enthusiast 🇲🇨 I Love Food - 158cm 💁🏻‍♀️ Spotify: Abel Cantika 📩: abelcantika.business@gmail.com
+    location: "Indonesia"
+    followers: 1014098
+    engagement: 324
+    commentsToLikes: 0.006817
+    id: ck0tzxq8mrwcg0i198cepsjxl
     verified: true
-    hashtags: "#enamorada, #1month, #nosedejaba, #teamo"
-  - username: "elenacoffey777"
+    hashtags: "#takethespotlight, #wajahmukekuatanmu, #mykaluela, #upgradecerahmu"
+  - username: "nindypricilia"
     fullname: >-
-      Elena Coffey
+      drg. Ayu Nindy Pricilia
     bio: >-
-      Fashion | Beauty | Lifestyle | Travelling the World Non Stop✈️ My main account: @elenacoffey
+      God is good🕉 📲Endorse/CP (LINE: nindypricilia) Owner Of @belle_beautybali @grandpacanggu @milikitoday @drgnindypricilia Part of @geminidentalcare
     location: "Indonesia"
-    followers: 28406
-    engagement: 793
-    commentsToLikes: 0.097526
-    id: ck8t5rzc5b1ce0j78bh9g5vsq
+    followers: 122203
+    engagement: 288
+    commentsToLikes: 0.008867
+    id: ckf5n443hwnvy0j23xdzcol5h
     verified: false
-    hashtags: "#beautifulbali, #thetraveltag, #journeyofgirls, #elenacoffey"
-  - username: "irmafrz"
+    hashtags: "#kebayabali, #repost, #bornpinkworldtour, #bali"
+  - username: "novkrisst"
     fullname: >-
-      Irma Farez
+      Nova ~ 🍭
     bio: >-
-      💄makeup artist x beauty vlogger Wa : 081703003833 (nia ) Email : irmafarez14@gmail.com MyYoutubechannel ⬇️⬇️⬇️
+      Beauty | Fashion | Games | Lifestyle 🌸 ¦ Live Youtube : Novkrisst (7pm) 🌸 ¦ Tiktok : Nopnopajah 🌸 ¦ Inq / Endorsement : -Yap (081937076365)
     location: "Indonesia"
-    followers: 85084
-    engagement: 711
-    commentsToLikes: 0.050132
-    id: ck5ce8jq9kjwx0i112dzmoy74
+    followers: 100586
+    engagement: 211
+    commentsToLikes: 0.030437
+    id: ck0tsy0as0ebf0i194k71wy0a
     verified: false
-    hashtags: "#facepaint, #facepainting, #disney, #tiktokindonesia"
-  - username: "istii0298"
+    hashtags: "#gaminggear, #onlinemedan, #mousegaming, #komputermedan"
+  - username: "widya98"
     fullname: >-
-      Ⓘⓢⓣⓘⓠⓞⓜⓐⓗ🍑||TANGERANG
+      Surabaya Foodies
     bio: >-
-      بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ 🍑FASHION•FOOD•BEAUTY💦 💍ʷⁱᶠᵉ : @ahmdrizal15👰 📍CIKUPA TANGEƦANG ✏Part of : ADR 📩ENDORSE DLL,WA👇
+      Fashion•Beauty•Lifestyle•Staycation♡ 📩 TAP LINK FOR ENDORSEMENT 🖤 Tiktok(22k+) & Youtube #Wstaycationdisini #Wayukicob 🙆‍♀️ KursusMUA @widya98_mua
     location: "Indonesia"
-    followers: 19352
-    engagement: 1041
-    commentsToLikes: 0.120091
-    id: ck9wh93hawtx20j785he705cp
+    followers: 62374
+    engagement: 212
+    commentsToLikes: 0.145789
+    id: ck9wght21th390j78fik69ir7
     verified: false
-    hashtags: "#onepaletteallmakeup, #dazzlemebeauty, #beautybeyondboundaries, #pondsindonesia"
-  - username: "farnazjavdankherad"
-    fullname: >-
-      Farnaz
-    bio: >-
-      Farnaz businesswoman owner and founder of Fj @f.jcollection fashion | beauty | lifestyle maried mehran ghalamchi 📧farnaz.javdan@gmail.com
-    location: "Indonesia"
-    followers: 7648
-    engagement: 1893
-    commentsToLikes: 0.075238
-    id: ck6u4x2da6a4m0j71adqdys8y
-    verified: false
-    hashtags: "#love, #bali, #birthday, #couplegoal"
-  - username: "syahfrizaauliaa"
-    fullname: >-
-      Aulia Ahmad, S 👸
-    bio: >-
-      👸🏻Hi, Welcome to my page and enjoy it 🎓Psychology Student 💄Beauty Enthusiast 📍Jakarta Raya, ID 🇮🇩
-    location: "Indonesia"
-    followers: 9163
-    engagement: 1937
-    commentsToLikes: 0.067623
-    id: ck9wp4x5g7tgx0j780enlgzgp
-    verified: false
-    hashtags: "#estetidermaonline, #makeup, #lfl, #makeuplooks"
-  - username: "zelitaptr24"
-    fullname: >-
-      Ikke Zelita Putri💫
-    bio: >-
-      influencer|beauty|lifestyle|food|hijaber 𝗘𝗻𝗱𝗼𝗿𝘀𝗲 👇🏻 UNIVERSITAS RIAU’18🎓 #endorsebyzelita
-    location: "Indonesia"
-    followers: 12827
-    engagement: 1128
-    commentsToLikes: 0.186355
-    id: ck9wh8ehrwqfy0j782jhdp4ri
-    verified: false
-    hashtags: "#pekanbaru, #endorsebyzelita, #skincare, #bersamalawancorona"
-  - username: "annisahidayarahmahica"
-    fullname: >-
-      ᴀɴɴɪsᴀ ʜɪᴅᴀʏᴀ ʀᴀʜᴍᴀʜ
-    bio: >-
-      📍Pekanbaru BEAUTY | HIJAB TRAVELLER | LIFESTYLE | OOTD 📩ENDORSEMENT DM 💌 📒Science of Communication '17
-    location: "Indonesia"
-    followers: 16093
-    engagement: 2119
-    commentsToLikes: 0.057784
-    id: ck9wd1jaydnew0j78h04eyw4x
-    verified: false
-    hashtags: "#lengkaplezatnya, #cuntukcucitangan, #lifebuoyid, #jumatberkah"
+    hashtags: "#wstaycationdisini, #gengkulinerseru, #wayukicob, #mangkokkusurabaya"
 ---

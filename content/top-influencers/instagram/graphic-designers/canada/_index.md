@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Canada In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Canada In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Canada in 2022. Most popular hashtags: #canada #toronto #art #beautiful.
+  Find top graphic-designers Instagram influencers in Canada in 2023. Most popular hashtags: #design #graphicdesign #graphicdesigner #artist.
 platform: Instagram
-hits: 60
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 60 Instagram influencers like this in Canada for you to collaborate.
+hits: 13
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "thehilaryann"
-    fullname: >-
-      Hilary
-    bio: >-
-      I create art that inspires people to get outside. • award-winning photographer | graphic designer | ultrarunner 📍: #sunshinecoast 📮 @triskotalent
-    location: "Canada"
-    followers: 22223
-    engagement: 434
-    commentsToLikes: 0.039349
-    id: ck0vv1x0dn5w20i195ucacgz7
-    verified: false
-    hashtags: "#blackouttuesday, #apartmentart, #womensupportingwomen, #challengeaccepted"
-  - username: "her.must"
-    fullname: >-
-      H E R . M U S T
-    bio: >-
-      J e s s M e t n i Fueled by ART Creative direction. freelance photographer/ graphic designer Fdr: @hermust.thelabel Minimal / vintage / conscious
-    location: "Canada"
-    followers: 38805
-    engagement: 319
-    commentsToLikes: 0.025777
-    id: ck0tv2x1x9phk0i19w9f4uxlt
-    verified: false
-    hashtags: "#ootdfashion, #thenoisetier, #gisouofficial, #minimalisthome"
   - username: "fullsnack_developer"
     fullname: >-
       Nicholas Olsen | Developer
     bio: >-
       #web #software #developer | #graphicdesigner | #youtuber | #christian | #Artist | 🇨🇦 | #fullstackdeveloper ⬇️ AMAZING CANDLES ⬇️
     location: "Canada"
-    followers: 44759
-    engagement: 234
-    commentsToLikes: 0.022540
+    followers: 43622
+    engagement: 221
+    commentsToLikes: 0.020253
     id: ck15qkc4m39l40i19vtq2pk0o
     verified: false
-    hashtags: "#developer, #reactjs, #beautiful, #beardeddragon"
-  - username: "justmyglam"
+    hashtags: "#beautiful, #coder, #shnoodle, #webdev"
+  - username: "kevin_poveda"
     fullname: >-
-      Justmyglam
+      Kevin Poveda
     bio: >-
-      🇨🇦 YYC• Graphic Designer• 30• Cat Mom🐈 💄 |𝑩𝒆𝒂𝒖𝒕𝒚 |𝑭𝒂𝒔𝒉𝒊𝒐𝒏 |𝑺𝒌𝒊𝒏𝒄𝒂𝒓𝒆 ✉️ justmyglamm@gmail.com @imethodbeauty justmyglam 10%off
+      Sober Rebel Tattoo Artist Visual Communicator Illustrator and Graphic Designer To book an appointment please fill the form on my website
     location: "Canada"
-    followers: 27402
-    engagement: 440
-    commentsToLikes: 0.394652
-    id: ck0w2ezo2o0ut0i19j1hrgthe
+    followers: 38889
+    engagement: 106
+    commentsToLikes: 0.030476
+    id: ck6udcqrskctv0j71r38wy8ka
     verified: false
-    hashtags: "#blushmarksquad, #blushmarkstyle, #blushmark, #sheinofficial"
-  - username: "_skalsi"
+    hashtags: "#render, #prada, #blackworktattoo, #traditionaltattoo"
+  - username: "allo.melo"
     fullname: >-
+      Mélodie Bouchard
+    bio: >-
+      🌿 Graphic Designer/Illustrator 🇨🇦 Québec, Canada 💌 allo.melodie@gmail.com 🌟 Elle/She/Her
+    location: "Canada"
+    followers: 8177
+    engagement: 683
+    commentsToLikes: 0.054636
+    id: ck5zxc8t07qnd0i142l9xzqgd
+    verified: false
+    hashtags: "#plant, #drawing, #summer, #photoshop"
+  - username: "gochu.design"
+    fullname: >-
+      Gochu
+    bio: >-
+      Graphic designer and editor. 📧| gochu.designs@gmail.com 📍| Ontario, Canada
+    location: "Canada"
+    followers: 8398
+    engagement: 1521
+    commentsToLikes: 0.013153
+    id: ckaoqvoupkmeh0i78ptkmk680
+    verified: false
+    hashtags: "#edits, #vaporwave, #tokyo, #dragonballz"
+  - username: "s.z.a.theory"
+    fullname: >-
+      Szabi
+    bio: >-
+      🇬🇧 Bath, England | 🇨🇦 Toronto, Canada Graphic Designer, Sometimes Photographer 📷 Sony α7rIII
+    location: "Canada"
+    followers: 7983
+    engagement: 1022
+    commentsToLikes: 0.061201
+    id: ck0vx3mc7wyxg0i195656bnvq
+    verified: false
+    hashtags: "#agameof10k, #longexposure, #master, #citykillerz"
+  - username: "alexunderhess.design"
+    fullname: >-
+      Alexunder Hess - Design
+    bio: >-
+      Educator • Mentor 🇨🇦 🔥 Making Design Simple ✨ You’ll get a job, promotion, first money, new skills in 1 month! I’ll show you How! 👇 Learn Motion UI
+    location: "Canada"
+    followers: 87495
+    engagement: 300
+    commentsToLikes: 0.087499
+    id: ck5zr8qdew4730i14cwwxwci0
+    verified: false
+    hashtags: "#figma, #template, #ux, #uidesigner"
+  - username: "wraw.visuals"
+    fullname: >-
+      wraw.visuals
+    bio: >-
       
-    bio: >-
-      Graphic Designer | Fashion Designer | Illustrator OCAD U Alumni | GBC Fashion Student Inquiries - contact@skalsi.ca @_khalsi @sukisfilms
     location: "Canada"
-    followers: 3446
-    engagement: 1137
-    commentsToLikes: 0.103405
-    id: ck8wftmtug8ov0j78bswrls8t
+    followers: 57
+    engagement: 227690
+    commentsToLikes: 0.118431
+    id: ck9hc326gjjbq0j78ury06rp2
     verified: false
-    hashtags: "#diymask, #nike, #nikeshoes, #reversible"
-  - username: "eric.m.kirk"
+    hashtags: "#iggrowth, #creativebusiness, #freelancedesign, #designers"
+  - username: "tropicoolstudio"
     fullname: >-
-      E.K.
+      🌞 Tropicool Studio 🌞
     bio: >-
-      Full time graphic designer, part time meme lord 🙏 ••• @tsn_official | @bardown
+      • Surf • Art • Design • Hand Drawn • Please email for collaborations 🧡 🌼 California 🌼
     location: "Canada"
-    followers: 10633
-    engagement: 2020
-    commentsToLikes: 0.014218
-    id: ck5bw9905l90f0i11dvox3p5c
+    followers: 10356
+    engagement: 295
+    commentsToLikes: 0.016076
+    id: ck6tozsnyh11b0j71pohsy9e9
     verified: false
-    hashtags: "#leafs, #hockey, #tsn, #bardown"
-  - username: "shabidesign"
+    hashtags: "#graphicdesigner, #freelance, #illustrator, #surfart"
+  - username: "nezumiliv_moved"
     fullname: >-
-      
+      MOVED TO @olibiarus
     bio: >-
-      Listen to your heART Graphic Designer از خواب که بیدار شدم فهمیدم باید همه چیو خودم بسازم🌱اینجا طراحی،ایده پردازی و حسای خوبمو اشتراک میذارم Toronto🇨🇦
+      MOVED TO @olibiarus bc this one too messy
     location: "Canada"
-    followers: 17171
-    engagement: 520
-    commentsToLikes: 0.120867
-    id: ck6tieklz0kgq0j71oxhdigqo
+    followers: 2623
+    engagement: 1707
+    commentsToLikes: 0.103709
+    id: ckaorknnmnnq60i781sj7hjbq
     verified: false
-    hashtags: "#procreate, #graphicdesign, #ipadpro, #illustration"
-  - username: "victoriasiecz"
+    hashtags: "#doodledump, #myoc, #aestheticart, #procreate"
+  - username: "fvckrender"
     fullname: >-
-      
+      Frederic Duquette
     bio: >-
-      illustrator🤡graphic designer vancouver based music @frankiietheband don’t check DMs - use ‘email’ for work inquiries
+      🌱 plant fueled MONTREAL-VANCOUVER-LOS ANGELES// OVER 4 YEARS DAILY CREATIONS// VISUALS FOR SHOWS// REP @hplus_creative // PRINTS IN BIO//
     location: "Canada"
-    followers: 7404
-    engagement: 614
-    commentsToLikes: 0.015364
-    id: ckaoul9uf0rbu0i78crhzy9mg
+    followers: 339559
+    engagement: 98
+    commentsToLikes: 0.012899
+    id: ck0w5nl9a4j8c0i19y0unbqp2
     verified: false
-    hashtags: "#saytheirnames, #makeartwhileapart"
-  - username: "hey_eh_joe"
-    fullname: >-
-      Joe Cantin
-    bio: >-
-      Graphic Designer | Photographer | Toronto. 🇨🇦 ON.
-    location: "Canada"
-    followers: 11992
-    engagement: 738
-    commentsToLikes: 0.043025
-    id: ck0w5w6e75q1q0i19i6h7n0so
-    verified: false
-    hashtags: "#6tour, #explorecanada, #canada, #imagesoftoronto"
-  - username: "shopsundae"
-    fullname: >-
-      ＨＡＬＥＹ ＫＥＮＮＥＤＹ
-    bio: >-
-      ⋐ freelance illustrator + graphic designer Let's work together! > sundaestudios01@gmail.com self care, mental health, and sunshine Kelowna, BC 🌿
-    location: "Canada"
-    followers: 57215
-    engagement: 433
-    commentsToLikes: 0.011152
-    id: ck5hfqjg6yt700i11fo8p8s2l
-    verified: false
-    hashtags: "#mentalhealthadvocate, #friday, #monday, #digitalartist"
+    hashtags: "#cryptocurrency, #portrait, #c4d, #art"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chile In 2022
+title: Top 10 Travel TikTok Influencers In Chile In 2023
 description: >-
-  Find top travel TikTok influencers in Chile in 2022. Most popular hashtags: #travel #chile #parati #foryou.
+  Find top travel TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #travel #parati.
 platform: TikTok
-hits: 29
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 29 TikTok influencers like this in Chile for you to contact.
+hits: 28
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 28 TikTok influencers like this in Chile for you to work with.
 profiles:
   - username: "beluviaja"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Instagram: beluviaja⬆️ Travel Inspo ✈️🌍 Ahora Estoy en YouTube ⬇️
     location: "Chile"
-    followers: 758700
-    engagement: 1493
-    commentsToLikes: 0.011050
+    followers: 885900
+    engagement: 1206
+    commentsToLikes: 0.015019
     id: ckc33moviteho0j23fnncorhd
     verified: false
-    hashtags: "#foryou, #parati, #viajar, #chile"
+    hashtags: "#tiktokchile, #chiletiktok, #chile, #traveler"
   - username: "lamissroo"
     fullname: >-
       Lamissroo
     bio: >-
-      🔖Young Lady 🎈30 🌬Auténtic✨🌎Curious Traveler✈️ Proudly Scorpio ♏️ 📍Chilean
+      🔖Young Lady 🎈31 🌬Auténtic✨🌎Curious Traveler✈️ Proudly Scorpio ♏️ 📍Chilean
     location: "Chile"
-    followers: 2543
-    engagement: 844
-    commentsToLikes: 0.029075
+    followers: 2500
+    engagement: 891
+    commentsToLikes: 0.032434
     id: ckcpa7d99eogq0j23c24bo5b5
     verified: false
-    hashtags: "#chile, #surdechile, #tiktokchile, #covid19"
+    hashtags: "#tiktoktravel, #southamerica, #surdechile, #cuarentena"
+  - username: "luislepine"
+    fullname: >-
+      Luis Lepine
+    bio: >-
+      🇨🇱🇧🇷32 años/ #tiktok /Santiago de CHILE 🇨🇱 🌎Travel / Datos Turismo 💦🌿
+    location: "Chile"
+    followers: 5215
+    engagement: 774
+    commentsToLikes: 0.006445
+    id: ckb8zx296fn5w0j237s8v8p5y
+    verified: false
+    hashtags: "#eranbuenostiempos, #chile, #sensa, #ax"
+  - username: "princesaaa_cat"
+    fullname: >-
+      PRINCESA_cat
+    bio: >-
+      VIVO EN LA SERENA, CHILE 🇨🇱! Soy muy mimada y hago lo que quiero 😽
+    location: "Chile"
+    followers: 74700
+    engagement: 2077
+    commentsToLikes: 0.030950
+    id: ckcv7ru88q3xe0j2373g7jgpb
+    verified: false
+    hashtags: "#chile, #princesaaa, #gatostiktokers, #gatos"
   - username: "yuuki.sweet"
     fullname: >-
       Yuuki Sweet
     bio: >-
-      🎀 Cosplayer/Cositas Kawaii🌸 /Hello Kitty lover 💖/ 🇨🇱 Insta: @yuuki.sweet
+      🎀 Cosplayer/Cositas Kawaii🌸 /Sanrio lover 💖/ 🇨🇱 Insta: @yuuki.sweet
     location: "Chile"
-    followers: 13600
-    engagement: 1479
-    commentsToLikes: 0.023339
+    followers: 14400
+    engagement: 1742
+    commentsToLikes: 0.023629
     id: ckb9nwe77hsx00j23rfxlzajr
     verified: false
-    hashtags: "#tokyo, #cute, #japon, #mikucosplay"
-  - username: "basti_goldner"
+    hashtags: "#miku, #cosplay, #travel, #hellokitty"
+  - username: "gustavocabrera_"
     fullname: >-
-      Bastian Goldner
+      Gustavo Ignacio
     bio: >-
-      🥵☕️ IG: basti_goldner 2. Cuenta: bastime_
+      ¿Quién dijo que no? ¿Que no puedo? Yo hago lo que me de la gana 🔥🇨🇱
     location: "Chile"
-    followers: 659900
-    engagement: 2005
-    commentsToLikes: 0.010345
-    id: ckc7ovkrgup160j238pa9ptl6
+    followers: 2837
+    engagement: 686
+    commentsToLikes: 0.076825
+    id: ckb9tgmvdrh8z0j23fo2hyy2w
     verified: false
-    hashtags: "#humor, #colombia, #parati, #longdistancerelationship"
+    hashtags: "#puntaitata, #chile, #roadtrip, #sanpedrodeatacama"
+  - username: "vicenter0jas"
+    fullname: >-
+      Vicente Rojas
+    bio: >-
+      18,🇨🇱// CEO en viajes del tiempo
+    location: "Chile"
+    followers: 283200
+    engagement: 1822
+    commentsToLikes: 0.008363
+    id: cka0gc7c33kt10i78kkvjfj9g
+    verified: false
+    hashtags: "#travelintime, #xyzbca, #backintime, #parati"
   - username: "manuelmoscosov"
     fullname: >-
       Manuel Moscoso
     bio: >-
       Fundador de ayudando a la patagonia 🐾 Padre / Esposo / Outdoor / Overland
     location: "Chile"
-    followers: 9755
-    engagement: 1344
-    commentsToLikes: 0.010249
+    followers: 15700
+    engagement: 1244
+    commentsToLikes: 0.015941
     id: ck900wproatza0j78kq4x71st
     verified: false
-    hashtags: "#fyou, #coyhaique, #tiktokchile, #foryoupage"
-  - username: "kaminamii"
-    fullname: >-
-      Kaminami
-    bio: >-
-      🌸🇨🇱🌸 Ka minami
-    location: "Chile"
-    followers: 29200
-    engagement: 991
-    commentsToLikes: 0.015720
-    id: ckb9jfmsoakw90j23ptpi2nv6
-    verified: false
-    hashtags: "#osaka, #preguntasyrespuestas, #sakai, #jap"
+    hashtags: "#patagonia, #catlover, #travel, #fyp"
   - username: "diegonorambuenar"
     fullname: >-
       Diego Norambuena Rojas
     bio: >-
-      @diegonorambuena IG 👋🏼📲 MY IG IS SO MUCH BETTER 💐 Chileno / Cocinero
+      @diegonorambuena IG 👋🏼📲 MY IG IS SO MUCH BETTER 💐 Creador de contenido
     location: "Chile"
-    followers: 21600
-    engagement: 617
-    commentsToLikes: 0.051472
+    followers: 22500
+    engagement: 852
+    commentsToLikes: 0.069908
     id: ckcdcygnl5apj0j23lchtvtxx
     verified: false
-    hashtags: "#wap, #chile, #parati, #dance"
-  - username: "nataliamundt"
-    fullname: >-
-      Natalia
-    bio: >-
-      🌿Viajes | Trekking | Chile 🌿
-    location: "Chile"
-    followers: 4721
-    engagement: 1476
-    commentsToLikes: 0.015546
-    id: ck900wqhvau0j0j78bowbh8ax
-    verified: false
-    hashtags: "#travellife, #roadtrip, #wild, #chile"
+    hashtags: "#chile, #patagonia, #travel, #fyp"
   - username: "hotuititeao"
     fullname: >-
       Rapa Nui
     bio: >-
       From Rapa Nui 🗿 Preguntas al Instagram
     location: "Chile"
-    followers: 25900
-    engagement: 765
-    commentsToLikes: 0.025885
+    followers: 33700
+    engagement: 445
+    commentsToLikes: 0.024678
     id: ckdbnwp27au570j23wmqbc8k2
     verified: false
-    hashtags: "#anakena, #playa, #foryoupage, #amor"
-  - username: "isidora_padron"
-    fullname: >-
-      isidora_padron
-    bio: >-
-      Ig : isidora_padron ✨💛🌎
-    location: "Chile"
-    followers: 25300
-    engagement: 980
-    commentsToLikes: 0.005782
-    id: ckb9c14fjyo0g0j23gfcre2y8
-    verified: false
-    hashtags: "#travel, #chile, #art, #adventure"
+    hashtags: "#fun, #tiktok, #tapatirapanui2021, #tiktokchile"
 ---

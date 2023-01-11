@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In South Korea In 2022
+title: Top 10 Gaming Instagram Influencers In South Korea In 2023
 description: >-
-  Find top gaming Instagram influencers in South Korea in 2022. Most popular hashtags: #gaming #gamer #naming.
+  Find top gaming Instagram influencers in South Korea in 2023. Most popular hashtags: #gaming #gamer #videogames #twitchstreamer.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in South Korea for you to contact.
+hits: 13
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 13 Instagram influencers like this in South Korea for you to connect with.
 profiles:
   - username: "gengesports"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       Global esports org • Gen.G GAMING + CONTENT + MERCH 🎮 #GenG #TigerNation #ChangeTheGame
     location: "South Korea"
-    followers: 51813
-    engagement: 342
-    commentsToLikes: 0.025354
+    followers: 62579
+    engagement: 313
+    commentsToLikes: 0.016482
     id: ck55j9tpbwl2a0i11cem6mbjr
     verified: true
-    hashtags: "#worlds2020, #wearegeng, #tigernation, #genglol"
+    hashtags: "#gengpubg, #worlds2020, #genglol, #tigernation"
+  - username: "gamer_lafan"
+    fullname: >-
+      라판 | LAFAN
+    bio: >-
+      게임을 좋아하는 여러분 환영합니다.🤗 Welcome to the Game World. 🌏 Nintendo | Playstation | Sega | Neogeo | Dosgame
+    location: "South Korea"
+    followers: 46648
+    engagement: 601
+    commentsToLikes: 0.037007
+    id: ck0vz9gni7zfh0i19u1q511xj
+    verified: false
+    hashtags: "#segagenesis, #megadrive, #ninstagram, #videogameaddict"
   - username: "babyydvaa.moved"
     fullname: >-
       
@@ -30,89 +42,89 @@ profiles:
     commentsToLikes: 0.009754
     id: ck0w6pj2z9p180i19zfnejfcy
     verified: false
-    hashtags: "#kpop, #overwatchedits, #roadhog, #tracer"
-  - username: "xiraoficial"
-    fullname: >-
-      XIRA
-    bio: >-
-      🎤 Singer&Rapper🇰🇷🇵🇪 🎥 TV Host 🎧 @primusgamingpi Ambass 🎮 @twitch Partnered Streamer 📍 YT&FB: XiraOficial 📩 xira_2603@hotmail.com
-    location: "South Korea"
-    followers: 16700
-    engagement: 602
-    commentsToLikes: 0.132034
-    id: ck139emaokxoi0i193t31jw3q
-    verified: false
-    hashtags: "#streamer, #peru, #halloween, #outfit"
-  - username: "codingheroes"
-    fullname: >-
-      DIY Electronics Richard
-    bio: >-
-      👾Coding and English Literacy 🤖Doctorate in Education 👍“Collabs/Promos/Contact: selects98@gmail.com
-    location: "South Korea"
-    followers: 81142
-    engagement: 106
-    commentsToLikes: 0.013353
-    id: ck0txgqvoj2a30i19p28ly67e
-    verified: false
-    hashtags: "#arduinoprojects, #diyproject, #gadgets, #3dprinted"
+    hashtags: "#grandmaster, #kpop, #potg, #explorepage"
   - username: "paladin_vann"
     fullname: >-
       Vann Marcus
     bio: >-
-      No.1 Paladin #nerdlife Newly Atlanta Resident Cosplayer, Gamer, Anime and Korean Music fan Twitch: PaladinVann
+      No.1 Paladin #nerdlife Gamer, Anime and Korean Music fan Twitch: PaladinVann
     location: "South Korea"
-    followers: 3338
-    engagement: 659
-    commentsToLikes: 0.041787
+    followers: 3547
+    engagement: 808
+    commentsToLikes: 0.060820
     id: ck0w25dyqmp3u0i19bjp99thw
     verified: false
-    hashtags: "#cosplayer, #repost, #wecosplay, #wakanda"
+    hashtags: "#gamer, #cosplayer, #cosplayingwhileblack, #follow"
+  - username: "xiraoficial"
+    fullname: >-
+      XIRA
+    bio: >-
+      🎤 Singer 🇰🇷🇵🇪 🎥 TV Host 🎮 Twitch: XiraOficial 🎧 @primusgamingpi Ambass 📩 xira_2603@hotmail.com 💎 C.C of @irest_team 🕹 @ggtvlatam 👇🏻 Último Video
+    location: "South Korea"
+    followers: 21012
+    engagement: 700
+    commentsToLikes: 0.026978
+    id: ck139emaokxoi0i193t31jw3q
+    verified: false
+    hashtags: "#picoftheday, #outfitoftheday, #xiraoficial, #nike"
+  - username: "shimmycocopuffs"
+    fullname: >-
+      Shimmy
+    bio: >-
+      OG YouTuber 🎥 Digital Entrepreneur 💻 Life Mentor 📚 Mood & Vibe 🧠❤️ Inspirator & Motivator 📣🎤 Toronto & Korean 🇨🇦🇰🇷
+    location: "South Korea"
+    followers: 19930
+    engagement: 2551
+    commentsToLikes: 0.154572
+    id: ck14hyqv3ct990i19nuostep8
+    verified: false
+    hashtags: "#asianguy, #asianboy, #koreanboy, #bubbletea"
+  - username: "iamartosis"
+    fullname: >-
+      Dan Stemkoski
+    bio: >-
+      Artosis the professional commentator living in Seoul, South Korea!
+    location: "South Korea"
+    followers: 11444
+    engagement: 464
+    commentsToLikes: 0.025649
+    id: ck6twjd0lsbx90j71im0vum82
+    verified: false
+    hashtags: "#dadtosis, #nintendoswitch, #bostonterrier, #zerglings"
   - username: "ryan.kimw"
     fullname: >-
       ryankim_
     bio: >-
       🏋️‍♂️HUMAN BALANCE INDONESIA 📌JAKUT KELAPA GADING🇲🇨 인생 다시 담백하게 함 살아봅시다. YOUTUBE: Oppa Mantul
     location: "South Korea"
-    followers: 6630
-    engagement: 507
-    commentsToLikes: 0.045623
+    followers: 6812
+    engagement: 498
+    commentsToLikes: 0.036291
     id: ck5zyta19ahpr0i14f30isgtg
     verified: false
-    hashtags: "#workout, #semangat, #scitecnutritionindonesia, #fitness"
-  - username: "_hyeoon__"
+    hashtags: "#jagajarakcovid, #natural, #bali, #gym"
+  - username: "dhyeee_e"
     fullname: >-
-      재현
+      da hye
     bio: >-
-      👫🏻 @whxzooo
+      PNU business
     location: "South Korea"
-    followers: 3696
-    engagement: 3219
-    commentsToLikes: 0.039341
-    id: ck9hag0mwce8j0j786evt8myo
+    followers: 2166
+    engagement: 1305
+    commentsToLikes: 0.031532
+    id: ckaovnho25c8v0i78tfgalbkc
     verified: false
-    hashtags: "#naming, #ad"
-  - username: "do_ob93"
+    hashtags: "#dmsupporters, #naming, #drmartens, #1461smooth"
+  - username: "goma___cafe"
     fullname: >-
-      됴브 do_ob93
+      ☕️ღ
     bio: >-
-      💌 DM•ehdud8738@naver.com ㅤㅤㅤㅤ ⚠️Do not use my picture ㅤㅤㅤㅤ 공구,체험단 안해요🙌🏼 👇🏼My Youtube💕
+      sɪɴᴄᴇ 𝟸𝟶𝟷𝟿. 𝟷.𝟿. ☕️🥖 ᵞᴼᵁᵀᵁᴮᴱ👇
     location: "South Korea"
-    followers: 64589
-    engagement: 84
-    commentsToLikes: 0.025665
-    id: ck5zytj6jai6z0i14orqto8bz
+    followers: 26220
+    engagement: 199
+    commentsToLikes: 0.014515
+    id: ckap0sqm5rmjn0i78188pepht
     verified: false
-    hashtags: "#eyemakeuplooks, #ad, #eyelooks, #aq"
-  - username: "iammaeng"
-    fullname: >-
-      make-up Artist 맹(Woosun)
-    bio: >-
-      🏡청담동84-15 우 선 02)540.1107
-    location: "South Korea"
-    followers: 295073
-    engagement: 431
-    commentsToLikes: 0.003104
-    id: ck14jm8uql2200i1942f13yl8
-    verified: false
-    hashtags: "#woosun, #makeupbymaeng, #lisa, #thoughtful"
+    hashtags: "#baking, #homecafe, #goma, #croffle"
 ---

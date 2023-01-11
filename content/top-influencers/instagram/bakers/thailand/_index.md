@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Thailand In 2022
+title: Top 10 Bakers Instagram Influencers In Thailand In 2023
 description: >-
-  Find top bakers Instagram influencers in Thailand in 2022. Most popular hashtags: #thailand #patisserie #breadstagram.
+  Find top bakers Instagram influencers in Thailand in 2023. Most popular hashtags: #cafe #sonyalpha #foodporn.
 platform: Instagram
-hits: 23
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 23 Instagram influencers like this in Thailand for you to connect with.
+hits: 16
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 16 Instagram influencers like this in Thailand for you to work with.
 profiles:
   - username: "artz"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🎥I am casting director 🎧I am radio DJ. 🎭I am actress 🎬I am acting coach 🎤I am announcer and I am baker 🍰
     location: "Thailand"
-    followers: 25677
-    engagement: 107
-    commentsToLikes: 0.055668
+    followers: 25683
+    engagement: 119
+    commentsToLikes: 0.042112
     id: ck5c0k5uqtam00i11tzaxv29o
     verified: false
-    hashtags: "#unlockrunkhaoyaiecotrail2020, #16, #artzannc, #savethailand"
-  - username: "ayla_a"
+    hashtags: "#artzannc, #change2561, #16, #amarintv34"
+  - username: "firstwang"
     fullname: >-
-      AYLA’S DAY OFF .
+      
     bio: >-
-      เ อ๋ ย | เ อ ล่ า. Oskn . yfu usa . jctu . jumcnext Parttime - Event organizer | Baker @gin.aeng.boi Fulltime - Traveler . #aylasdayoff
+      Miss Intercontinental 2014 Top5 Miss Universe Thailand 2019 K.A 084-5654654 🍰@misswang_baker 🍒@misswangboutique 🦋@betterfly_academy
     location: "Thailand"
-    followers: 7359
-    engagement: 607
-    commentsToLikes: 0.010370
-    id: ck13bq7nswng00i19cmcki1wj
+    followers: 104455
+    engagement: 330
+    commentsToLikes: 0.011155
+    id: ck5zlk0g9kxo20i142p7xvcyn
+    verified: true
+    hashtags: "#besoslife, #dragqueen, #fashion, #stylebytonn"
+  - username: "aberonx"
+    fullname: >-
+      Anurag Baruah
+    bio: >-
+      A plate of function, with a side of form. For work contact: @theformco
+    location: "Thailand"
+    followers: 8132
+    engagement: 884
+    commentsToLikes: 0.033098
+    id: ck5hl45yhjjf00i115i6fxaqe
     verified: false
-    hashtags: "#thailand, #reviewthailand, #socialgiver, #loveandaman"
-  - username: "nathalie_davies"
+    hashtags: "#coffee, #food, #sonyalphain, #coffeehouse"
+  - username: "misterchou.bkk"
     fullname: >-
-      นาตาลี เดวิส
+      Chou
     bio: >-
-      Thai-British SingerActressRacerAnimals  Baker🍰 @mollybakery_bynathalie @ndshopshop Work>> 0624156551 , 0809941444🙏🏻line: @ndshopshop หรือ inbox
+      Bangkok-based pâtissier & croissant enthusiast 🇹🇭 🥐 For orders, please DM
     location: "Thailand"
-    followers: 359009
-    engagement: 79
-    commentsToLikes: 0.007401
-    id: ck0tuo8jx7z7n0i1983ccfxcs
-    verified: true
-    hashtags: "#catsofinstagram, #adoptdontshop, #25weeks6dayspregnant, #22weekspregnant"
-  - username: "yossiebistro"
-    fullname: >-
-      Yossie Nanakorn
-    bio: >-
-      Content Provider, TV Producer, Baker สั่ง #Brownies Line@: @yossiebistro ติดต่องานที่น้องโดนัท: 0818995672 My Cooking Page FB: YossieBistro
-    location: "Thailand"
-    followers: 786158
-    engagement: 103
-    commentsToLikes: 0.005774
-    id: ck55m57ol39000i11kifzibgj
-    verified: true
-    hashtags: "#yossiebistro, #heartmade, #heartbake, #tangzhongmilkbread"
-  - username: "monsieur.chou"
-    fullname: >-
-      Chulapât
-    bio: >-
-      Bangkok-based pâtissier & croissant enthusiast 🇹🇭 🥐
-    location: "Thailand"
-    followers: 6646
-    engagement: 1165
-    commentsToLikes: 0.043791
+    followers: 7404
+    engagement: 1025
+    commentsToLikes: 0.036508
     id: ck9wfbryro5lo0j787suyuk59
     verified: false
-    hashtags: "#briochemaison, #feuilletage, #viennoiseries, #gourmandcroquant"
-  - username: "ginygigy"
+    hashtags: "#laminateddough, #artisanbaker, #kouignamann, #croissanterie"
+  - username: "rattomarty"
     fullname: >-
-      G
+      Natdachat
     bio: >-
-      contact for work : 081-8545291(p’a)
+      📷 Fujiflim X-E2 Fujinon lens xf35 f2, xf60 f2.4 📱 iPhone 12 Pro Max 🧪Editing in Adobe Lightroom Line 🆔 : naddachat E-mail : naddachat@hotmail.com
     location: "Thailand"
-    followers: 101957
-    engagement: 383
-    commentsToLikes: 0.001755
-    id: ckap5dpdpb7lb0i78oukyeq1y
+    followers: 51004
+    engagement: 318
+    commentsToLikes: 0.007994
+    id: ck14lmiqcvetd0i195r9bwndk
     verified: false
-    hashtags: "#yvesrocherth, #loccitanexlazmall, #minerethailand, #minereexperience"
-  - username: "aroisnap"
+    hashtags: ""
+  - username: "aoddyz"
     fullname: >-
-      AroiSnap 😋📸 (อร่อย-สแนป)
+      Aoddy T.
     bio: >-
-      📷✨มาร่วมกันแชร์ภาพอาหารให้น้ำลายหกกันจ้า~ 💖โดยใส่ tag #aroisnap หรือ @aroisnap 😋😋 📩Email : AroiSnap@gmail.com
+      coffeelover | cafehopper | traveler | blogger 📷 sony | fuji | olympus bangkok | thailand 🇹🇭 ☕️🥤🍰🌿🎧📸
     location: "Thailand"
-    followers: 70711
-    engagement: 144
-    commentsToLikes: 0.005343
-    id: ckap7r0zbl6ki0i78j194c4s4
+    followers: 24793
+    engagement: 220
+    commentsToLikes: 0.019002
+    id: ck14i99hle9ak0i19nfck04rr
     verified: false
-    hashtags: "#dessert, #sweet, #icecream, #aroisnap"
-  - username: "makkieez"
-    fullname: >-
-      Jarinporn  Boonrit
-    bio: >-
-      The best thing that ever happened to me🌈 • Le cordon bleu 👩‍🍳 • Facebook : Jarinporn boonrit • Bakery : @De_SweetKie 🍮💗
-    location: "Thailand"
-    followers: 65812
-    engagement: 237
-    commentsToLikes: 0.018278
-    id: ck137qesfcuq90i191lbf9s0o
-    verified: false
-    hashtags: "#happy, #chef, #desweetkie, #afternoontea"
+    hashtags: "#interiordesign, #sonyalpha, #coffeelover, #instaphoto"
   - username: "chutiiii"
     fullname: >-
       Jue
     bio: >-
       @mind.made dm : for all bakes
     location: "Thailand"
-    followers: 21204
-    engagement: 245
-    commentsToLikes: 0.009365
+    followers: 21109
+    engagement: 362
+    commentsToLikes: 0.005804
     id: ck5hcvmb9k75f0i11232o4uhr
     verified: false
-    hashtags: "#armaniparagon, #huxley, #prooforganicworks, #premiumorganic"
+    hashtags: "#venz, #lancomeclarifique, #28thbd, #merryclinique2020"
   - username: "saimai_s"
     fullname: >-
       Saimai S. T.
     bio: >-
       For work, P'Petch 094-162-6426 , line ID: petch_yy 🏔 @sansan.myboy #smyyss ☕️ @BakerxFlorist 🌎@Sm.kinda.day
     location: "Thailand"
-    followers: 161540
-    engagement: 257
-    commentsToLikes: 0.004271
+    followers: 163080
+    engagement: 250
+    commentsToLikes: 0.003831
     id: ck5bxncgio1hx0i11ekua8c8j
     verified: false
-    hashtags: "#mamypokosuperpremiumorganic, #audithailand, #audi, #neverfollow"
+    hashtags: "#kenzothailand, #mamypokosuperpremiumorganic, #repost"
+  - username: "songsweetsong"
+    fullname: >-
+      Song Sweet Song
+    bio: >-
+      Welcome to my sweet story💕 🍨　@iseacream_cafe 🍪　@songsweetsong_icingcookies 👩🏻‍🍳　@sweetenupcafe 👧🏻 @songxsongxsong 📞　LINE id : @songsweetsong
+    location: "Thailand"
+    followers: 141161
+    engagement: 113
+    commentsToLikes: 0.008140
+    id: ckaori8ztnc9c0i784v0vb94c
+    verified: false
+    hashtags: "#iseacream, #cafeathome, #delistagrammer, #reviewchonburi"
+  - username: "b.bowpeeraya"
+    fullname: >-
+      🎀บาบิบุ'โบ
+    bio: >-
+      🎌🎐 わたしは ボーです。どうぞ よろしく。 🤍รับงานรีวิว งานถ่ายแบบ ติดต่องานได้ทางข้อความนะคะ 🙏🏻 #revu_th_fb957cd3
+    location: "Thailand"
+    followers: 50294
+    engagement: 238
+    commentsToLikes: 0.003717
+    id: ckap05x65ovsq0i7840h6tgbv
+    verified: false
+    hashtags: "#cafe, #dessertlover, #shopee22freeshippingsale, #cnxcafe"
 ---

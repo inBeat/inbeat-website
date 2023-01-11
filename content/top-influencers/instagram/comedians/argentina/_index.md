@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Argentina In 2022
+title: Top 10 Comedians Instagram Influencers In Argentina In 2023
 description: >-
-  Find top comedians Instagram influencers in Argentina in 2022. Most popular hashtags: #humor #tbt #argentina.
+  Find top comedians Instagram influencers in Argentina in 2023. Most popular hashtags: #tbt #bariloche #model.
 platform: Instagram
-hits: 119
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 119 Instagram influencers like this in Argentina for you to work with.
+hits: 144
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 144 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "macamadernalaprebende"
+  - username: "dilennysegura"
     fullname: >-
-      ᴍᴀᴄᴀ ᴍᴀᴅᴇʀɴᴀ ʟᴀᴘʀᴇʙᴇɴᴅᴇ
+      D i l e n n y   S e g u ra
     bio: >-
-      • Aᴄᴛʀɪᴢ • 🎬 • Productora de TV y eventos • • Cantante • 🎤 • Comedianta • • Escribo • ✍️ • Bailo • 💃 “ᴠɪᴠɪʀ ᴀʟ ᴍᴀxɪᴍᴏ” 📍 𝐵.𝒜 🇦🇷
+      📍LadelGuayabaldeAzua 🇩🇴 Jociadora, relambia y también; Lic. en Educación Básica 📚 Maestra de ceremonias 🎤 Política ⚖️ Actriz/Comediante 🎭
     location: "Argentina"
-    followers: 37573
-    engagement: 305
-    commentsToLikes: 0.789239
-    id: ck15pwf4bzyxu0i19k4ywbszr
+    followers: 312789
+    engagement: 130
+    commentsToLikes: 0.027227
+    id: ck15pepadxinc0i19qtbygo6l
     verified: false
-    hashtags: "#colombia, #tiktok, #music, #argentina"
+    hashtags: "#outfit, #app, #brillo, #gn"
+  - username: "yamireyna"
+    fullname: >-
+      Yamila Reyna
+    bio: >-
+      Actriz-comediante-argenchilena🇦🇷🇨🇱 Vestite como👑 en @todasreynas
+    location: "Argentina"
+    followers: 455400
+    engagement: 185
+    commentsToLikes: 0.016176
+    id: ck5zkfnr6je8x0i14wa6jjx3x
+    verified: true
+    hashtags: "#todasreynas, #tbt, #bariloche, #lasreynagonzalez"
+  - username: "delhisvq"
+    fullname: >-
+      Delhis Quezada
+    bio: >-
+      Doctora en estomatología🦷PUCMM18’—————— Operatic Soprano, Musician , Actress , Comedian—@dominicanasgottalent semifinal Season 1 -RD🇩🇴
+    location: "Argentina"
+    followers: 8722
+    engagement: 534
+    commentsToLikes: 0.034912
+    id: ck5hfxnkmzv8t0i11v1pxryl7
+    verified: false
+    hashtags: ""
+  - username: "gordosprofesionales"
+    fullname: >-
+      💜Xanic | THAT FUNNY FOODIE 💜
+    bio: >-
+      Medio Comediante 🤣, Medio Viajera ✈️, Completamente Gorda 🌮 Código de descuento en @lusttoys 🤩 “Xanic” #gordosprofesionales #comedy #travel
+    location: "Argentina"
+    followers: 28172
+    engagement: 226
+    commentsToLikes: 0.022815
+    id: ckaoz8gyjktyo0i786k8wo565
+    verified: false
+    hashtags: "#oaxaca, #gordosprofesionales, #gordosdeviaje, #foodie"
+  - username: "bossimartin"
+    fullname: >-
+      Martín Bossi
+    bio: >-
+      Martín Bossi - Sitio Oficial Comediante Argentino
+    location: "Argentina"
+    followers: 367040
+    engagement: 299
+    commentsToLikes: 0.052877
+    id: ck15qz4em5boz0i193c2urzed
+    verified: true
+    hashtags: "#clandestino2, #clandestino, #estreno"
   - username: "nerinasistok"
     fullname: >-
       ♡🦋 NERINA SIST OK 🦋 ♡♧🇦🇷
     bio: >-
       📺 PANELISTA @tremendoshow x @telefecordoba 🎭 COMEDIANTE "Caprichos"Luisa Albinoni 2017 💃 VEDETTE de Carmen Barbieri Revista Norteña y MAGNÍFICA 2018
     location: "Argentina"
-    followers: 110818
-    engagement: 198
-    commentsToLikes: 0.038555
+    followers: 111299
+    engagement: 207
+    commentsToLikes: 0.036433
     id: ck14hjxucaouz0i194iejtgcm
     verified: false
-    hashtags: "#2020, #vedette, #hairstyle, #produ2020"
-  - username: "fermledesma"
+    hashtags: "#2020, #vedette, #cordoba, #produ2020"
+  - username: "sebaprestaok"
     fullname: >-
-      Fer Ledesma
+      Sebastián Presta
     bio: >-
-      🤣Comediante 🤡 Clown 🎤 Cantante Creador de #charlasconrita 🐾 😻 Fan de @loscaligarisoficial y @raulsencillezok - Amo el olor a Mandarina 🍊#masde100lives
+      Actor - Comediante a media jornada 🤣 🎬👇🏻Mas videos en mi canal de YouTube!
     location: "Argentina"
-    followers: 36894
-    engagement: 557
-    commentsToLikes: 0.081903
-    id: ck15tqyd5jgu20i191u74i2qg
+    followers: 497101
+    engagement: 244
+    commentsToLikes: 0.029846
+    id: ck5c6x1au6dl90i11ofg1p5oo
+    verified: true
+    hashtags: "#jason, #viernes"
+  - username: "fernandamarsano"
+    fullname: >-
+      Maria Fernanda 🦄
+    bio: >-
+      Comediante • Emprendedora Actriz en formación @firaysana @labodegadefernanda_
+    location: "Argentina"
+    followers: 27919
+    engagement: 169
+    commentsToLikes: 0.028846
+    id: ck6ucvulyhr0m0j7186ra4e96
     verified: false
-    hashtags: "#ritalamejordetodas, #ritalamasbuena, #humor, #cats"
+    hashtags: "#dachshund, #loki, #peru, #teckel"
   - username: "geniodemente"
     fullname: >-
       Rafael Lecaro Manrique
     bio: >-
       🔻COMEDIANTE ▪️INFLUENCER=LÍDER EN REDES 🔻LIDER DE OPINIÓN ▪️MOTIVADOR 🔻CREADOR DE TENDENCIAS ▪️REVENTADOR💸 DE NEGOCIOS,MARCAS, PRODUCTOS,SERVICIOS‼️
     location: "Argentina"
-    followers: 108529
-    engagement: 362
-    commentsToLikes: 0.065668
+    followers: 139561
+    engagement: 253
+    commentsToLikes: 0.157612
     id: ckap37n781w3i0i78r7db6ast
     verified: false
-    hashtags: "#kylochallenge, #kungfuchallenge"
-  - username: "bossimartin"
+    hashtags: "#genioglass, #ohno"
+  - username: "camilonicolasok"
     fullname: >-
-      Martín Bossi
+      Camilo Nicolás
     bio: >-
-      Martín Bossi - Sitio Oficial Comediante Argentino Tickets #Clandestino2 EL AMOR EN TIEMPOS DE PANDEMIA ⬇️
+      • Cordobés, Actor y Comediante • @fuerteeseaplauso Producciones • 👉🏼Jueves a Domingos, Teatro Libertad (Carlos Paz). ENTRADAS CARLOS PAZ 👇🏼
     location: "Argentina"
-    followers: 358130
-    engagement: 273
-    commentsToLikes: 0.092281
-    id: ck15qz4em5boz0i193c2urzed
+    followers: 383296
+    engagement: 191
+    commentsToLikes: 0.035397
+    id: ck14h71km8v0p0i19rgx1elyt
     verified: true
-    hashtags: "#faceapp, #clandestino, #clandestino2, #estreno"
-  - username: "elgeorgeharris"
-    fullname: >-
-      George Harris 🧿
-    bio: >-
-      Stand Up Comedian Folklórico 👑 📥 elgeorgeharris@gmail.com
-    location: "Argentina"
-    followers: 1385305
-    engagement: 153
-    commentsToLikes: 0.035974
-    id: ck0tya1etm3r30i196ai9dbck
-    verified: true
-    hashtags: "#elshowdegeorgeharris, #gatopaisa, #tbt, #maigualidanoespendeja"
-  - username: "mayalandes"
-    fullname: >-
-      MAYA LANDESMAN
-    bio: >-
-      👽 Soy humana (o al menos lo parezco) 🎤Comediante de stand up 👉 Show: Me ❤ como soy 👇+ info y comercial
-    location: "Argentina"
-    followers: 26558
-    engagement: 238
-    commentsToLikes: 0.120138
-    id: ck8wdelbidq6y0j78p8o7oyja
-    verified: false
-    hashtags: "#mayaparodia, #standup, #2020, #humor"
-  - username: "molinerd"
-    fullname: >-
-      Pablo Molinari
-    bio: >-
-      Comediante. 🎙 Locutor en @benditac9 🤝 Comercial: @latinfluence 🎉 Nuevo show #EntreOtrasCuatroParedes Info y tickets en este link 👇
-    location: "Argentina"
-    followers: 546879
-    engagement: 237
-    commentsToLikes: 0.026244
-    id: ck0u89aem6u4y0i19m2tmi9v8
-    verified: true
-    hashtags: "#humorargento, #humorargentino, #sonrisas, #reir"
-  - username: "mitiovilchezoficial"
-    fullname: >-
-      Carlitos Vilchez
-    bio: >-
-      ACTOR, COMEDIANTE, CONDUCTOR DE TV Y RADIO 🔝 Contratos: 987-765-782 (Melva Bravo) Canal de Youtube: Mi Tío Vilchez Oficial
-    location: "Argentina"
-    followers: 805189
-    engagement: 93
-    commentsToLikes: 0.030667
-    id: ck8sxv39wis1k0j78iraqdfup
-    verified: true
-    hashtags: "#borat, #publicidad, #criollosdeterror"
-  - username: "rodrigoesmella"
-    fullname: >-
-      • RODRIGO ESMELLA •
-    bio: >-
-      📍Uritorco 🛸 📍Bs.As.🎬￼ 🎭 actor | bailarin | comediante ⚠️👀 🧗🏼‍♂️Prestador de Turismo Alternativo de la Pcia. de Córdoba Res.436/18 STAFF🔹LIBO.OFICIAL🔹
-    location: "Argentina"
-    followers: 5580
-    engagement: 257
-    commentsToLikes: 0.129795
-    id: ck8szxzkhq58s0j780yz7yo9h
-    verified: false
-    hashtags: "#foto, #selfie, #picture, #videosgraciosos"
+    hashtags: "#hellmannselsaborirresistible, #largavidaalrey, #analizandotemaiken, #orbilex"
 ---

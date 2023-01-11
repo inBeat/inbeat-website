@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Argentina In 2022
+title: Top 10 Guitar TikTok Influencers In Argentina In 2023
 description: >-
-  Find top guitar TikTok influencers in Argentina in 2022. Most popular hashtags: #fyp #parati #argentina #foryou.
+  Find top guitar TikTok influencers in Argentina in 2023. Most popular hashtags: #fyp #parati #foryou #guitar.
 platform: TikTok
-hits: 14
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 14 TikTok influencers like this in Argentina for you to connect with.
+hits: 12
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 12 TikTok influencers like this in Argentina for you to pitch.
 profiles:
   - username: "tusclasesdeguitarra"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Aprende a tocar guitarra hoy! Los mejores cursos online: TusClasesDeGuitarra.com
     location: "Argentina"
-    followers: 83100
-    engagement: 474
-    commentsToLikes: 0.016488
+    followers: 138900
+    engagement: 616
+    commentsToLikes: 0.007580
     id: ckcoqogay7bys0j23q7p7zj66
     verified: false
-    hashtags: "#guitar, #guitarraacustica, #guitartutorial, #mariofreiria"
+    hashtags: "#cursodeguitarra, #playguitar, #guitarrafacil, #guitarraelectrica"
   - username: "victoria__may"
     fullname: >-
       Victoria
     bio: >-
-      🇦🇷🇬🇧 44k thank u 🥺🥰 Follow me on insta, i upload covers🤍 ANYMORE OUT NOW
+      🇦🇷🇬🇧 Follow me on insta, i upload covers🤍 SPELL OUT NOW 🥰💕
     location: "Argentina"
-    followers: 45100
-    engagement: 1004
-    commentsToLikes: 0.025482
+    followers: 44500
+    engagement: 1137
+    commentsToLikes: 0.031692
     id: ckcdz3jerh0cg0j238n6090eo
     verified: false
-    hashtags: "#makemeviral, #musiccover, #voiceeffects, #cover"
-  - username: "micafolgar"
+    hashtags: "#piano, #sing, #bodyissues, #voiceeffects"
+  - username: "yamisafdie"
     fullname: >-
-      Mica Folgar
+      yamisafdie
     bio: >-
-      Micartedibujos@hotmail.com📩 @micafolgar 🙋🏼‍♀️ @micartee 🎨 🦋🇦🇷
+      Cantautora🎶 Argentina🇦🇷 Management @paulferreyraok “No me digas” OUT NOW 👇🏻
     location: "Argentina"
-    followers: 197000
-    engagement: 2075
-    commentsToLikes: 0.014500
-    id: cka0s38qtjndo0i78u29qporx
-    verified: false
-    hashtags: "#dibujar, #bobesponja, #zentangleart, #spongebob"
+    followers: 1600000
+    engagement: 1596
+    commentsToLikes: 0.013490
+    id: ck92ud4q9lp1q0j78uxrdyoe3
+    verified: true
+    hashtags: "#musica, #cantante, #canto, #oliviarodrigo"
   - username: "vladiredzko"
     fullname: >-
       Vladimir Redzko
     bio: >-
       take pictures as a return ticket to a moment otherwise gone
     location: "Argentina"
-    followers: 12200
-    engagement: 1782
-    commentsToLikes: 0.040439
+    followers: 12500
+    engagement: 1775
+    commentsToLikes: 0.034142
     id: cka7o57un03wz0i78v0jo7bfs
     verified: false
-    hashtags: "#argentina, #photography, #arcticmonkeys, #filmcamera"
-  - username: "themarulina"
+    hashtags: "#35mm, #filmcamera, #foryou, #sk8"
+  - username: "agosnisiok"
     fullname: >-
-      Maru Vázquez
+      agosnisi
     bio: >-
-      Cantante/Vocal Coach🎙️ Mi web, otras redes y clases👇
+      Artista Argentina 🇦🇷 me caes piola✨✨ ME ENAMORO ultimo single 💘🥰
     location: "Argentina"
-    followers: 65000
-    engagement: 1035
-    commentsToLikes: 0.037016
-    id: ckbq6hrc7suui0j232gkdc10f
-    verified: false
-    hashtags: "#voz, #cantantestiktok, #aprendeentiktok, #cantante"
-  - username: "modoavion_arg"
-    fullname: >-
-      Modo Avion
-    bio: >-
-      Quien se anima a hacer tiktoks con nuestras fundas? 📲🙌🏻🎉 ig @modoavion_arg
-    location: "Argentina"
-    followers: 2313
-    engagement: 1754
-    commentsToLikes: 0.016651
-    id: ckavt3gso5u1a0j23cp8e47qd
-    verified: false
-    hashtags: "#modoavion, #iphonecase, #parati, #modoavionarg"
+    followers: 2000000
+    engagement: 1573
+    commentsToLikes: 0.008977
+    id: ck8s83xj1rwe00j78fzcg0vat
+    verified: true
+    hashtags: "#fyp, #music, #foryou, #parati"
   - username: "sebadentisok"
     fullname: >-
       Seba Dentis
     bio: >-
       🇦🇷 Mi vida es la música🎶 IG: @sebadentis 👇Canto tu canción👇
     location: "Argentina"
-    followers: 88800
-    engagement: 1056
-    commentsToLikes: 0.131457
+    followers: 89000
+    engagement: 1066
+    commentsToLikes: 0.143204
     id: ckae5plpm8ksm0i78zlmdhfnb
     verified: false
-    hashtags: "#fyp, #xyzbca, #viral, #cover"
-  - username: "maxivivero_kb"
+    hashtags: "#challenge, #viral, #trend, #cover"
+  - username: "modoavion_arg"
     fullname: >-
-      Maximiliano Vivero
+      Modo Avion
     bio: >-
-      🤪ZONREIR🎥 *ĐĘ Ë§Ø ŞĖ ȚŘĄŢÄ*
+      Quien se anima a hacer tiktoks con nuestras fundas? 📲🙌🏻🎉 ig @modoavion_arg
     location: "Argentina"
-    followers: 28900
-    engagement: 873
-    commentsToLikes: 0.098077
-    id: ckcd0pyiqznz40j2377oh4nhz
+    followers: 2287
+    engagement: 1642
+    commentsToLikes: 0.014160
+    id: ckavt3gso5u1a0j23cp8e47qd
     verified: false
-    hashtags: "#yo, #el, #aidangallagher, #respondiendocomentarios"
-  - username: "davidlon4"
+    hashtags: "#modoavionarg, #foryou, #funditas, #modoavion"
+  - username: "alexispey"
     fullname: >-
-      David Tik Tok
+      alexispey
     bio: >-
-      curiosidades, electrónica, chistes, artes marciales, gimnasio, música, 80s
+      Músico 👇🏻 MIRA CONVENCIDA 👇🏻
     location: "Argentina"
-    followers: 25300
-    engagement: 540
-    commentsToLikes: 0.058887
-    id: cka6ar8w0xfwf0i78ykh5rkyu
+    followers: 167900
+    engagement: 1554
+    commentsToLikes: 0.016957
+    id: ckb9qihr4ml3v0j2387eq4c3j
     verified: false
-    hashtags: "#divertido, #ti, #sipalki, #datoscuriosos"
+    hashtags: "#humor, #xyzbca, #zorra, #parati"
   - username: "diegopablo0"
     fullname: >-
       Diego Pablo
     bio: >-
       Solo Locura... 🤓
     location: "Argentina"
-    followers: 3632
-    engagement: 523
-    commentsToLikes: 0.044367
+    followers: 3612
+    engagement: 514
+    commentsToLikes: 0.039009
     id: ckbfik7mbegj70j23jtksgjdq
     verified: false
-    hashtags: "#baby, #trending, #parati, #siguiendo"
+    hashtags: "#trending, #foryou, #follow, #siguiendo"
+  - username: "yannickcohen"
+    fullname: >-
+      Yannick Cohen
+    bio: >-
+      Papelones > seriedad Instagram: YannickCohen
+    location: "Argentina"
+    followers: 11166
+    engagement: 533
+    commentsToLikes: 0.015757
+    id: ck901r883brka0j782ky8njby
+    verified: false
+    hashtags: "#parati, #comedia, #fyou, #fory"
 ---

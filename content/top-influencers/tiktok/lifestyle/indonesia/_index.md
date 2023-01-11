@@ -1,118 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Indonesia In 2022
+title: Top 10 Lifestyle TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryou #voiceeffects #foryoupage.
+  Find top lifestyle TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #skincare.
 platform: TikTok
-hits: 9
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in Indonesia for you to work with.
+hits: 11
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Indonesia for you to connect with.
 profiles:
+  - username: "tyaskiws"
+    fullname: >-
+      tyaskiws✨
+    bio: >-
+      ✨Beauty & Lifestyle✨ Bussiness inq: DM instagram @tyaskiws
+    location: "Indonesia"
+    followers: 618400
+    engagement: 1297
+    commentsToLikes: 0.032719
+    id: ck9eulklbefdu0j78syyl0udz
+    verified: false
+    hashtags: "#gayadirumah, #fyp, #foryou, #foryoupage"
   - username: "achiywitan"
     fullname: >-
       Achiy
     bio: >-
       Follow My iG @achiy_witan Lifestyle
     location: "Indonesia"
-    followers: 146200
-    engagement: 962
-    commentsToLikes: 0.078694
+    followers: 163800
+    engagement: 1213
+    commentsToLikes: 0.053788
     id: ckc323k44sd970j23odoluuvx
     verified: false
-    hashtags: "#beranda, #tiktokpapua, #tiktokjayapura, #voiceeffects"
-  - username: "deasilistiani"
-    fullname: >-
-      ECHI
-    bio: >-
-      Instagram & Youtube 🔝 Skincare • Lifestyle • Fun Facts CP admin - 085216161996
-    location: "Indonesia"
-    followers: 1400000
-    engagement: 1412
-    commentsToLikes: 0.011654
-    id: ckbkq6rm2khry0j23wk1e79ty
-    verified: false
-    hashtags: "#facts, #fyp, #samasamabelajar, #skincare"
+    hashtags: "#papua, #papuatiktok, #tiktokpapua, #humorpapua"
   - username: "jejakbayuubay69"
     fullname: >-
       Jejakbayuubay 
     bio: >-
       TRAVEL / FASHION / LIFESTYLE / DAGELAN IG : jejakbayuubay
     location: "Indonesia"
-    followers: 2958
-    engagement: 405
-    commentsToLikes: 0.112692
+    followers: 3362
+    engagement: 499
+    commentsToLikes: 0.164784
     id: ckdsx4zmmqmhr0j234h9us10b
     verified: false
-    hashtags: "#travel, #jogja, #julianjacob, #samasamaditiktok"
+    hashtags: "#fypgakni, #fypdongggggggg, #fyp, #1111shopeehaul"
   - username: "traveloka"
     fullname: >-
       Traveloka
     bio: >-
       Travel & Lifestyle Experience Planning & Booking Platform
     location: "Indonesia"
-    followers: 558300
-    engagement: 654
-    commentsToLikes: 0.012634
+    followers: 689200
+    engagement: 436
+    commentsToLikes: 0.015997
     id: ckbqu4kdjel220j23nsfuq23x
     verified: true
-    hashtags: "#fyp, #traveloka, #tiktokfoodie, #hotel"
+    hashtags: "#staycation, #travelokaeats, #tiktoktravel, #bali"
+  - username: "deasilistiani"
+    fullname: >-
+      ECHI
+    bio: >-
+      Skincare | Lifestyle | Storyteller Interesting Facts Instagram & Youtube 👆
+    location: "Indonesia"
+    followers: 2300000
+    engagement: 1174
+    commentsToLikes: 0.010479
+    id: ckbkq6rm2khry0j23wk1e79ty
+    verified: false
+    hashtags: "#storytime, #kelascinta, #story, #kreasivalentine"
+  - username: "aminyandawi"
+    fullname: >-
+      Aminy Andawi
+    bio: >-
+      REVIEW • TUTORIAL • LIFESTYLE ✨Beli produknya langsung di TikTok Shop aku✨
+    location: "Indonesia"
+    followers: 76300
+    engagement: 525
+    commentsToLikes: 0.022859
+    id: ckd6b3ig94mma0j23uaj5833w
+    verified: false
+    hashtags: "#makeup, #skincare, #avoskinbeauty, #kataamii"
   - username: "titantyra"
     fullname: >-
       Titan
     bio: >-
       Beauty & lifestyle influencer, new entrepreneur ☺️
     location: "Indonesia"
-    followers: 118700
-    engagement: 664
-    commentsToLikes: 0.012228
+    followers: 126600
+    engagement: 652
+    commentsToLikes: 0.011342
     id: ckc7nkfbmtp050j23zyipwnb5
     verified: false
-    hashtags: "#dogs, #fyp, #duet, #edandrose"
+    hashtags: "#relationshipgoals, #fyp, #duet, #couplegoals"
   - username: "lisadewiwood"
     fullname: >-
       Lisa Dewi
     bio: >-
       Healthy lifestyle addict
     location: "Indonesia"
-    followers: 32800
-    engagement: 507
-    commentsToLikes: 0.045168
+    followers: 77600
+    engagement: 515
+    commentsToLikes: 0.033791
     id: ckd0m7w4kglkc0j23rbg3atkg
     verified: false
-    hashtags: "#beranda, #tips, #sehat, #fitmom"
+    hashtags: "#tipssehat, #olahraga, #sehat, #tiktoksehat"
   - username: "rachel_exotic"
     fullname: >-
       Rachel exotic
     bio: >-
-      Happy life style Ig Rachel_exsotic88
+      Happy life style
     location: "Indonesia"
-    followers: 28000
-    engagement: 383
-    commentsToLikes: 0.040995
+    followers: 27600
+    engagement: 318
+    commentsToLikes: 0.048431
     id: ck9f2332hbcgx0j78ibyvw7k7
     verified: false
-    hashtags: "#timika, #cantik, #papua, #voiceeffects"
-  - username: "dearmebeauty"
+    hashtags: "#tiktok, #for, #msglow, #corona"
+  - username: "patrishiela"
     fullname: >-
-      Dear Me Beauty
+      patrishiela
     bio: >-
-      Lets have fun in Tiktok Indonesian beauty brand 🧡 •Halal & Bpom certified•
+      Follow my Instagram⬆️ • TRAVEL • PHOTOGRAPHY • LIFESTYLE Content Creator 🎞🇮🇩
     location: "Indonesia"
-    followers: 269300
-    engagement: 1114
-    commentsToLikes: 0.016710
-    id: ckc91c35lr8v00j23bxeyg3lr
-    verified: true
-    hashtags: "#fyp, #foryou, #voiceeffects, #samasamabelajar"
-  - username: "travelawan"
-    fullname: >-
-      Awan Yulianto
-    bio: >-
-      Indonesian 🇮🇩 Travel Blogger & Foodie Follow my Instagram: @travelawan
-    location: "Indonesia"
-    followers: 11000
-    engagement: 638
-    commentsToLikes: 0.016823
-    id: ck8nbf0cc9ll70j784i6wjihe
+    followers: 39700
+    engagement: 843
+    commentsToLikes: 0.019778
+    id: ckcdpiqojbs2b0j23pap6jb9s
     verified: false
-    hashtags: "#tiktoktravel, #fyp, #travelawan, #jelajahkotaku"
+    hashtags: "#indonesia, #fyp, #travel, #bali"
 ---

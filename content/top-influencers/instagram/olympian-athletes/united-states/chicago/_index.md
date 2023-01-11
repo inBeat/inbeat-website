@@ -1,130 +1,130 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Chicago In 2022
+title: Top 10 Olympian Athletes Instagram Influencers In Chicago In 2023
 description: >-
-  Find top olympian athletes Instagram influencers in Chicago in 2022. Most popular hashtags: #fitness #bodybuilding #olympia #chicagopro.
+  Find top olympian athletes Instagram influencers in Chicago in 2023. Most popular hashtags: #fitness #motivation #bodybuilding #athlete.
 platform: Instagram
-hits: 12
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 12 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 6
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 6 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "chaimer"
+  - username: "tivancik_ifbbpro"
     fullname: >-
-      Chaim Schalk
+      Theresa Ivancik IFBB PRO 💋
     bio: >-
-      Married to @lanecarico❤️ Rio Olympian🏐 AVP champion 🏆
+      ✨Wpd Pro ✨Chicago Pro Champ & 2020 Olympian ✨Ceo/Coach @harlanselitefitness ✨Sponsor Athlete of @gaspari @stagereadyhair @drinkchillh2o @megafitmeals
     location: "United States"
-    followers: 5548
-    engagement: 651
-    commentsToLikes: 0.040025
-    id: ck5c98g9iaywo0i11ncv17lgi
+    followers: 212172
+    engagement: 98
+    commentsToLikes: 0.038869
+    id: ck5zn5brent8j0i144e30rpue
+    verified: false
+    hashtags: "#daretobedifferent, #gamechanger, #nextlevel, #strongisbeautiful"
+  - username: "livehappii"
+    fullname: >-
+      Tori Franklin, OLY
+    bio: >-
+      USA PROFESSIONAL TRIPLE JUMPER 🇺🇸AMERICAN RECORD HOLDER🇺🇸 Public Speaker.Writer
+    location: "United States"
+    followers: 10661
+    engagement: 933
+    commentsToLikes: 0.034072
+    id: ck8swslj9f3dx0j78uenykixw
+    verified: false
+    hashtags: "#monday, #nature, #olympian, #blackgirlmagic"
+  - username: "mishina_valentina_ifbb_pro"
+    fullname: >-
+      Valentina Mishina IFBB PRO🇷🇺
+    bio: >-
+      🎆3x Olympian 🏆🥇ChicagoPro2019;RomâniaMuscleFest 💚🥈 Ferrigno, OrlandoEuropa,OmahaPro, AtlanticCoast 💙 @gaspari athlete 🏋🏿Your coach ✨Top6 Olympia2019
+    location: "United States"
+    followers: 167482
+    engagement: 178
+    commentsToLikes: 0.018278
+    id: ck5qe9xijzf8l0i119ygfb9qe
+    verified: false
+    hashtags: "#bodybuilding, #ifbbpro, #gasparinutrition, #sport"
+  - username: "ajalevans"
+    fullname: >-
+      Aja Evans, OLY
+    bio: >-
+      📍IL | ATL 👸🏿Bobsled Bombshell 🥉2x Olympian #TeamUSA 📧Inquiries: kelli@kmmsports.com �Beauty and the Beast Mode #ComingSoon
+    location: "United States"
+    followers: 17687
+    engagement: 336
+    commentsToLikes: 0.086447
+    id: ck5hdrhivozvj0i115qh4obnf
     verified: true
-    hashtags: "#themckibbinbrothers, #beachvolley, #avp2020, #beachmode"
-  - username: "ryanhinton"
-    fullname: >-
-      IFBB PRO Ryan Hinton
-    bio: >-
-      2x-Olympian 15’-16’ Team Legacy Coach 50 IFBB PROS 16’-19’ @globalformulas: LEGACY @getflawlesshair: LEGACY10 @abafitnessclothing : RYANABA
-    location: "United States"
-    followers: 27188
-    engagement: 174
-    commentsToLikes: 0.049016
-    id: ck55pntevaz5m0i11y5ti3udp
-    verified: false
-    hashtags: "#legacy, #contestprep, #mensphysique, #teamlegacy"
-  - username: "biscaiapro"
-    fullname: >-
-      IFBB PRO BEATRIZ BISCAIA
-    bio: >-
-      YOUNGEST BIKINI PRO ⭕lympian 2x PRO CHAMP 19 years old @teamgandra @projectadofficial @professornutz @anesteziafitness @protan_official @gluteband
-    location: "United States"
-    followers: 61404
-    engagement: 364
-    commentsToLikes: 0.016546
-    id: ck15sx6t9f98p0i19kolqw2ew
-    verified: false
-    hashtags: "#gym, #projectad, #fitness, #bikini"
-  - username: "ifbb_pro_league"
-    fullname: >-
-      IFBB Professional League
-    bio: >-
-      The OFFICIAL Instagram Of The IFBB Professional League. President Jim Manion
-    location: "United States"
-    followers: 168966
-    engagement: 62
-    commentsToLikes: 0.009772
-    id: ck0tsrysv0ccm0i195ant7tic
-    verified: false
-    hashtags: "#olympia, #ifbbpro, #ifbbprofessionalleague, #mrolympia"
-  - username: "carlovaldes_usa"
-    fullname: >-
-      Carlo Valdes
-    bio: >-
-      Team USA 🇺🇸 | Bobsled | 2018 Winter Olympian | UCLA Bruin | Mater Dei HS Alum | @virusintl | @theragun | CA->NY
-    location: "United States"
-    followers: 5690
-    engagement: 591
-    commentsToLikes: 0.049554
-    id: ck5zxq4nc8gff0i14jkwertdy
-    verified: true
-    hashtags: "#jerk, #hype, #poweredbybeer, #athlete"
-  - username: "ifbb_figure_pro_dia"
-    fullname: >-
-      Nadia Wyatt
-    bio: >-
-      18' & 19' Olympia🥉3rd 19' Arnold🥈2nd #IAM1STPHORM @protan_official @isewityoushowit @getflawlesshair: FHNADIA15 ❤️ @rdbradford 📧nlwposing@yahoo.com
-    location: "United States"
-    followers: 33228
-    engagement: 189
-    commentsToLikes: 0.033999
-    id: ck0w6cr5i7ytc0i197yh6eqk1
-    verified: false
-    hashtags: "#fitness, #protan, #gym, #transformationtuesday"
-  - username: "ifbb_broku"
-    fullname: >-
-      Jason Lowe
-    bio: >-
-      @fusionmuscle Athlete! Code- BROKU @flexcomics Gym Hero 🦸🏻‍♂️ @finalform_physiques For Coaching #BeatYourBest
-    location: "United States"
-    followers: 73689
-    engagement: 172
-    commentsToLikes: 0.023212
-    id: ck0w6cmhs7y4e0i19lvvj1sz4
-    verified: false
-    hashtags: "#beatyourbest, #gains, #nolimits, #mrolympia"
-  - username: "underground.athletes"
-    fullname: >-
-      Underground Athletes
-    bio: >-
-      Coaches - Mandus Buckle/Sarah Lyon 🏆 Lifetime Coach of MP MR. O @brvndonflexx 🥇🥇 2 Arnold Classic Titles 🥇 1 Olympia Title All Inquiries 📧 👇🏼
-    location: "United States"
-    followers: 18297
-    engagement: 278
-    commentsToLikes: 0.031833
-    id: ck0w6ck507xv80i19cm1vz843
-    verified: false
-    hashtags: "#repost, #flashbackfriday, #undergroundathletes, #prodebut"
+    hashtags: "#olympian, #blackathletes, #beautyandthebeastmode, #ajaevans"
   - username: "themsolympia"
     fullname: >-
       Lenda Murray
     bio: >-
       8x Ms Olympia World Champion. IFBB & NPC Promoter. Owner of Crystal Planet Nutrition www.crystalplanetnutrtion.com 👇👇 www.lendamurraybodybuilding.com
     location: "United States"
-    followers: 63105
-    engagement: 80
-    commentsToLikes: 0.028900
+    followers: 64212
+    engagement: 94
+    commentsToLikes: 0.019107
     id: ck0w6cgiv7xba0i19lghqz6jr
     verified: false
-    hashtags: "#girlswholift, #girlswithmuscles, #wingsofstrength, #npcworldwide"
-  - username: "ifbbpronicki"
+    hashtags: "#wingsofstrength, #womensbodybuilding, #figure, #fitnessmotivation"
+  - username: "mrolympiallc"
     fullname: >-
-      Nicki Chartrand Ifbb Pro
+      Mr. Olympia LLC
     bio: >-
-      Livin the dream! IFBB Pro 🏆4th in the WORLD 🌎 Dedicated and Motivated to be my best version. Hopefully inspiring you to be your best also!
+      Official IG of the fitness industry’s most prestigious event. - Orlando, FL / Oct 7-10 / Order Tickets Now at MrOlympia.com #Olympia21
     location: "United States"
-    followers: 46777
-    engagement: 185
-    commentsToLikes: 0.042285
-    id: ck9hboybbhtmv0j78xhk5uvj5
+    followers: 3164859
+    engagement: 37
+    commentsToLikes: 0.007184
+    id: ck0tsrxwj0c9n0i196kprceh8
+    verified: true
+    hashtags: "#fitness, #ifbbproleague, #ifbbpro, #olympia2021"
+  - username: "lalahurdles2"
+    fullname: >-
+      LaVonne Idlette
+    bio: >-
+      Olympian MBA JD #TheAmazingRace32 RealEstateInvestor #iFinanceRealEstate I help athletes and UHNWI invest in Biz & RE M&A Advisor @athletetechgroup
+    location: "United States"
+    followers: 71292
+    engagement: 109
+    commentsToLikes: 0.043035
+    id: ck5pz3yn6z3tx0i1186rjj3os
     verified: false
-    hashtags: "#stretch, #lift, #attitudeofgratitude, #girlswithmuscles"
+    hashtags: "#travellife, #realestateinvesting, #duediligence, #happynewyear"
+  - username: "devonallen13"
+    fullname: >-
+      Devon Allen
+    bio: >-
+      Olympian. NIKE athlete. 3x US/NCAA champ 110HH. Twitter-DevonAllen13
+    location: "United States"
+    followers: 69576
+    engagement: 573
+    commentsToLikes: 0.007803
+    id: ck6tpfr94jm3n0j71i0impjy0
+    verified: true
+    hashtags: "#haywardfield, #sonya6400, #usatf, #track"
+  - username: "nooralotta"
+    fullname: >-
+      NOORALOTTA NEZIRI
+    bio: >-
+      🇫🇮🇦🇱 @puma ATHLETE. @foodin & @fitnessfirstfi ATHLETE. OLYMPIAN. PB 12.81 & 7.91 (NR). Master of Economic Sciences.👩🏽‍🎓
+    location: "United States"
+    followers: 49672
+    engagement: 710
+    commentsToLikes: 0.022803
+    id: ck5q08yuw4tz90i11lm8d1uxm
+    verified: true
+    hashtags: "#puma, #heloglobal, #pumawomen, #femmegang"
+  - username: "anderson_peters1"
+    fullname: >-
+      Anderson Peters
+    bio: >-
+      Tokyo 2021 Olympian 🇬🇩 Pro athlete @adidasrunning 2019 Javelin World Champion 🥇 2019 Pan am games champion & record holder 2x NCAA Champ🥇🏆 Believer🙏🏿
+    location: "United States"
+    followers: 12874
+    engagement: 1097
+    commentsToLikes: 0.020054
+    id: ck55n3p4d5eh60i11lrbkgz29
+    verified: false
+    hashtags: "#trackandfield, #sport, #javelinthrower, #strength"
 ---

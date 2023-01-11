@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Brazil In 2022
+title: Top 10 Rappers TikTok Influencers In Brazil In 2023
 description: >-
-  Find top rappers TikTok influencers in Brazil in 2022. Most popular hashtags: #tiktok #rapper #viral #meme.
+  Find top rappers TikTok influencers in Brazil in 2023. Most popular hashtags: #rapper #fyp #tiktok #music.
 platform: TikTok
-hits: 15
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 15 TikTok influencers like this in Brazil for you to work with.
+hits: 16
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "unfamous_willsmith"
     fullname: >-
@@ -13,48 +13,72 @@ profiles:
     bio: >-
       Todos os tipos de rappers 📩:iagogsantos@hotmail.com 🌃SP🌃 comédia
     location: "Brazil"
-    followers: 52100
-    engagement: 1764
-    commentsToLikes: 0.031880
+    followers: 51100
+    engagement: 1744
+    commentsToLikes: 0.041131
     id: ck8semmswkcm20j78o09tsd2l
     verified: false
-    hashtags: "#comedy, #humor, #freshprinceofbelair, #willsmith"
+    hashtags: "#com, #freshprince, #comedia, #humor"
   - username: "hongjoongbrasil"
     fullname: >-
-      HongJoong Brasil
+      🦋Hongjoong/Edward🌳
     bio: >-
-      1° tik tok dedicado ao líder, compositor, rapper Kim Hongjoong #에이티즈 #홍중🦋#평홍만
+      1° tik tok dedicado ao líder, compositor, rapper Kim Hongjoong/Edward #홍중🦋#평홍만
     location: "Brazil"
-    followers: 33500
-    engagement: 3483
-    commentsToLikes: 0.014805
+    followers: 34700
+    engagement: 3642
+    commentsToLikes: 0.014689
     id: ck9gmg71as8jo0j789xxjt5sl
     verified: false
-    hashtags: "#kimhongjoong, #mingi, #hongjoong, #treasure"
+    hashtags: "#san, #yeosang, #jongho, #hongjoong"
   - username: "pretararaoficial"
     fullname: >-
       pretararaoficial
     bio: >-
       Rapper | Historiadora | Escritora Segue lá no insta @pretararaoficial
     location: "Brazil"
-    followers: 67700
-    engagement: 1563
-    commentsToLikes: 0.018896
+    followers: 71200
+    engagement: 1518
+    commentsToLikes: 0.030780
     id: ck931ialges420j78v8h5cn7k
     verified: true
-    hashtags: "#blackwomen, #dueto, #bahia, #pretarara"
+    hashtags: "#pretarara, #bahia, #dueto, #pretosnotopo"
+  - username: "gabrielopensadoroficial"
+    fullname: >-
+      Gabriel o Pensador
+    bio: >-
+      rapper, escritor e solitário surfista
+    location: "Brazil"
+    followers: 29100
+    engagement: 715
+    commentsToLikes: 0.040741
+    id: ckdcknqyymphc0j23sqjov5zj
+    verified: true
+    hashtags: "#aglomeracaoa2, #gabrielopensador, #live, #fyp"
   - username: "eplifewolf"
     fullname: >-
       EPLIFEWOLF
     bio: >-
       Instagram: @felipeflow.wolf & #rbdreadmarker rapper compositor dreadmaker, poeta
     location: "Brazil"
-    followers: 5362
-    engagement: 358
-    commentsToLikes: 0.026133
+    followers: 5315
+    engagement: 672
+    commentsToLikes: 0.022092
     id: ck8vy40glt68a0j78jn470iqa
     verified: false
-    hashtags: "#viral, #tiktokbrasil, #humor, #riobonitorj"
+    hashtags: "#youtube, #hiphop, #rap, #tiktokbrasil"
+  - username: "viinny_v"
+    fullname: >-
+      Viinny_V
+    bio: >-
+      INSTAN NOVO LINK NA BIO
+    location: "Brazil"
+    followers: 12500
+    engagement: 662
+    commentsToLikes: 0.030688
+    id: ck9gmgkldsbhr0j78937uq0h6
+    verified: false
+    hashtags: "#barone, #tiktok, #like, #dex"
   - username: "rimasiradas"
     fullname: >-
       RIMAS IRADAS
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.012126
     id: ckcjcbzah9f4d0j23g9tulzfw
     verified: false
-    hashtags: "#trapnacional, #trappers, #hiphop, #music"
-  - username: "vinicius.vn7"
+    hashtags: "#rapbrasil, #trapnacional, #rimasiradas, #trap"
+  - username: "freedy_sheik"
     fullname: >-
-      Vinicius.vn7
+      👳🏻‍♂️✨👳🏻‍♂️
     bio: >-
-      👨‍💻|Marketing digital 🌐|Ceo Million Plus 🔥|Vendas online
+      👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️👳🏻‍♂️
     location: "Brazil"
     followers: 11800
-    engagement: 771
-    commentsToLikes: 0.050702
-    id: ck9gmgkldsbhr0j78937uq0h6
+    engagement: 2215
+    commentsToLikes: 0.252320
+    id: ckdntzswumfxi0j23yfccuhe5
     verified: false
-    hashtags: "#losgrandes, #black, #traphouse, #tiktok"
-  - username: "ghost_coelho"
+    hashtags: "#arab, #tiktok, #tiktokchallenge, #sheikh"
+  - username: "cirodaniel_"
     fullname: >-
-      Kurosawa
+      Ciro
     bio: >-
-      Insta: laricoelho007 ✨ Se curtir todos os vídeos de uma vez toma block 😳
+      Producer / Beatmaker 23 🇧🇷
     location: "Brazil"
-    followers: 76700
-    engagement: 2427
-    commentsToLikes: 0.015087
-    id: ckb931jynjiiv0j23rra3crzj
+    followers: 2777
+    engagement: 984
+    commentsToLikes: 0.057798
+    id: ckd6xgy3wubwr0j23yzvrnuic
     verified: false
-    hashtags: "#foryou, #fyp, #kpop, #btsarmy"
-  - username: "vitoriatravassos"
+    hashtags: "#duet, #domesticgirlfriend, #fyp, #foryou"
+  - username: "mainstreamtop20"
     fullname: >-
-      Vitória Travassos
+      Mainstream Top 20
     bio: >-
-      Oi,eu canto e danço🥰✨18,Recife. Insta @vitoriatravassoss
+      2° feira Top 20 Pop 4° e Domingos Top 20 MTV Brasil Retrô 6°feira Top 20 Rock
     location: "Brazil"
-    followers: 21800
-    engagement: 1677
-    commentsToLikes: 0.038167
-    id: ckahzbjrz2rh40i78mb4mcebi
+    followers: 116400
+    engagement: 2315
+    commentsToLikes: 0.008871
+    id: cka0fwu0m1p4o0i78n0p04whz
     verified: false
-    hashtags: "#sing, #dueto, #dance, #mudan"
-  - username: "kaiqueods"
-    fullname: >-
-      Kaique Oliveira
-    bio: >-
-      *1999💫 Embu das artes 🏠 +55119 Me sigam no Instagram ⬆️ 🏄🏻‍♂️
-    location: "Brazil"
-    followers: 102100
-    engagement: 1319
-    commentsToLikes: 0.024765
-    id: ckcp5j7gicrvy0j23hk3ncyi0
-    verified: false
-    hashtags: "#dankmemes, #boatarde, #repost, #cute"
-  - username: "bieldon"
-    fullname: >-
-      Don Biel
-    bio: >-
-      Cantor, compositor e poeta! Produtor de conteúdo! Segue meu insta: @DONBIEL.MP3
-    location: "Brazil"
-    followers: 39500
-    engagement: 1055
-    commentsToLikes: 0.017735
-    id: ck92tdj3qhg8f0j781j8nrnz9
-    verified: false
-    hashtags: "#netflix, #risos, #tiktok, #desenho"
+    hashtags: "#1999, #rock, #mtv, #musicvideo"
 ---

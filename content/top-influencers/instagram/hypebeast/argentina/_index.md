@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Argentina In 2022
+title: Top 10 Hypebeast Instagram Influencers In Argentina In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Argentina in 2022. Most popular hashtags: #hypebeast #buenosaires #photography #ig.
+  Find top hypebeast Instagram influencers in Argentina in 2023. Most popular hashtags: #hypebeast #instagood #buenosaires #photooftheday.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 11 Instagram influencers like this in Argentina for you to collaborate.
+hits: 8
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 8 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "ph.meni"
     fullname: >-
@@ -13,118 +13,94 @@ profiles:
     bio: >-
       👤 @ffrancomeni 📍Buenos Aires, Argentina - Books, colaboraciones y eventos. Link para comunicarte conmigo 👇🏼
     location: "Argentina"
-    followers: 6608
-    engagement: 888
-    commentsToLikes: 0.093657
+    followers: 6801
+    engagement: 862
+    commentsToLikes: 0.094631
     id: ck5pwntk9nprz0i11vrv7ihrw
     verified: false
-    hashtags: "#nikonphotography, #flowerporn, #ig, #outfitoftheday"
-  - username: "adelselphoto"
-    fullname: >-
-      Agustin del Sel
-    bio: >-
-      🌎 Buenos Aires - Argentina 📸 Portrait photographer 📥 Sesiones y eventos al MD   👤 Personal / B&W @agus.delsel 💼 Staff de @tpconcept   ⬇️ Portfolio ⬇️
-    location: "Argentina"
-    followers: 18902
-    engagement: 1130
-    commentsToLikes: 0.026193
-    id: ck13brezzwt8e0i19e96zobx1
-    verified: false
-    hashtags: "#coscuarmy, #nvjshop, #ig, #hypebeast"
-  - username: "agussarmientoo"
-    fullname: >-
-      𝑨𝒈𝒖𝒔𝒕𝒊𝒏𝒂 𝑺𝒂𝒓𝒎𝒊𝒆𝒏𝒕𝒐
-    bio: >-
-      𝘗𝘶𝘯𝘵𝘢𝘯𝘢 𝘦𝘯 𝘉𝘶𝘦𝘯𝘰𝘴 𝘈𝘪𝘳𝘦𝘴📍 Contacto 💌
-    location: "Argentina"
-    followers: 3277
-    engagement: 1006
-    commentsToLikes: 0.274071
-    id: ck14lngdsvjkj0i195b8xagyd
-    verified: false
-    hashtags: "#photography, #moderndance, #makeuplove, #travel"
+    hashtags: "#ig, #bleachmyfilm, #hypebeast, #streetshared"
   - username: "jaydelysmusic"
     fullname: >-
       Jay de Lys
     bio: >-
       DJ & Producer • ELROW / SAVED / TOOLROOM • BOOKINGS: @demivecchio @grooveridersagency ➖
     location: "Argentina"
-    followers: 17712
-    engagement: 855
-    commentsToLikes: 0.110301
+    followers: 18165
+    engagement: 775
+    commentsToLikes: 0.110263
     id: ck15rhrvl7zyr0i19o0y6f3dc
     verified: false
-    hashtags: "#dj, #beatport, #techhouse, #party"
-  - username: "jp.audiovisual"
-    fullname: >-
-      Filmaker / JP.Audiovisual 🎥
-    bio: >-
-      Freelance Buenos Aires, Argentina 📍 Consultas sobre trabajo al MD 📩 Portfolio 👇🏻
-    location: "Argentina"
-    followers: 2931
-    engagement: 726
-    commentsToLikes: 0.045596
-    id: ck6tuwsckiv7j0j7185ha2978
-    verified: false
-    hashtags: "#rap, #buenosairesphoto, #nikon, #sonyphotography"
+    hashtags: "#techno, #techhouse, #dj, #beatport"
   - username: "rokemd"
     fullname: >-
       ROKEMD | Royalteamsneakers
     bio: >-
-      VIVIENDO EN EL MUNDO DE LOS SNEAKERS!!! 🇲🇽 🔵@dejandohuellasneakerexpo 🔵#worldwidesneakerheadsunited 🔵#rokeknows #royalteamsneakers @royalteamsneakers
+      SNEAKERS AND MUSIC LOVER!!! 🇲🇽 🔵@dejandohuellasneakerexpo 🔵tiktok @rokemd 🔵#rokeknows #royalteamsneakers @royalteamsneakers 🔷CEO @royalteamstore
     location: "Argentina"
-    followers: 90393
-    engagement: 304
-    commentsToLikes: 0.115831
+    followers: 212541
+    engagement: 75
+    commentsToLikes: 0.028305
     id: ck5zptncrtblz0i1473iy20r8
     verified: false
-    hashtags: "#yocolecciono, #teamlust, #sneakerlover, #hypebeastmx"
+    hashtags: "#yocolecciono, #soyroyalteamstore, #normalicemoslossneakers, #superfuego"
+  - username: "animalize21"
+    fullname: >-
+      𝐚𝐧𝐢𝐦𝐚𝐋𝐢𝐳𝐞𝟐𝟏🏆
+    bio: >-
+      📍𝕸𝖆𝖉𝖗𝖎𝖉 𝘁𝗶𝗸𝘁𝗼𝗸 +4 Millones 𝘆𝗼𝘂𝘁𝘂𝗯𝗲: animalize21 +100K 📩 animalize21@bushidotalent.com
+    location: "Argentina"
+    followers: 35158
+    engagement: 2428
+    commentsToLikes: 0.012525
+    id: ck8weimvee3s50j78famb9vli
+    verified: false
+    hashtags: "#swag, #amazing, #humor, #cars"
   - username: "imsantiherrera"
     fullname: >-
       S A N T I H E R R E R A
     bio: >-
-      🥁 | Grabación y clases online • 🇦🇷 | ARG • 🇹🇷 | @istanbulagop • 💡 | @seminarioescuchaactiva •
+      🥁 | Grabación y clases online • 🇦🇷 | ARG • 🇹🇷 | @istanbulagop • 💡 | @experienciaescuchaactiva •
     location: "Argentina"
-    followers: 7110
-    engagement: 733
-    commentsToLikes: 0.066921
+    followers: 7111
+    engagement: 767
+    commentsToLikes: 0.064018
     id: ck5c5u10d45ea0i112w70cnu1
     verified: false
-    hashtags: "#photooftheday, #photoshoot, #drumgroove, #wednesday"
+    hashtags: "#instagroove, #lofibeats, #photoshoot, #lofi"
   - username: "jaun_oner"
     fullname: >-
-      JAun
+      JAun Oner - Sneaker Enthusiast
     bio: >-
-      Sneakers | Outfits | Diseño | Graffiti Sneaker Specialist de @shoter_net . - Buenos Aires, Argentina.
+      #Sneakers | #Outfits | #Diseño | #Emprendedor Sneaker Specialist de @shoter_net - Ituzaingó | 🇦🇷
     location: "Argentina"
-    followers: 3542
-    engagement: 1161
-    commentsToLikes: 0.087443
+    followers: 3693
+    engagement: 1000
+    commentsToLikes: 0.064574
     id: ck8t2vixt0utf0j7857jcggp4
     verified: false
-    hashtags: "#sneakers, #buenosaires, #sneakersofinstagram, #hskicks"
-  - username: "srbuenosairesph"
+    hashtags: "#travisscott, #eos, #sneakersaddicts, #crawlersnews"
+  - username: "agussarmientoo"
     fullname: >-
-      Martín de sousa
+      𝑨𝒈𝒖𝒔𝒕𝒊𝒏𝒂 𝑺𝒂𝒓𝒎𝒊𝒆𝒏𝒕𝒐
     bio: >-
-      Embajador de @visico_china 📸 Fotógrafo y filmmaker 📸 Buenos Aires, argentina 🇦🇷 Productora @ibz.films 🎥 Nuevo video de YouTube ♦️
+      𝘗𝘶𝘯𝘵𝘢𝘯𝘢 𝘦𝘯 𝘉𝘶𝘦𝘯𝘰𝘴 𝘈𝘪𝘳𝘦𝘴📍 Contacto 💌
     location: "Argentina"
-    followers: 16913
-    engagement: 159
-    commentsToLikes: 0.062060
-    id: ck0w6n15u9cik0i1946f3aqmx
+    followers: 3305
+    engagement: 1016
+    commentsToLikes: 0.173510
+    id: ck14lngdsvjkj0i195b8xagyd
     verified: false
-    hashtags: "#loves, #nature, #feedfeed, #onthetable"
-  - username: "frane.ph"
+    hashtags: "#photography, #travelphotography, #vscoportrait, #vision"
+  - username: "agusparedesmx"
     fullname: >-
-      Frane
+      Agus ✘ Paredes
     bio: >-
-      🏆 Award winning photographer🏆 🇦🇷 BA | TDF 📽️ tiktok @lasfotosdefrane 📸 Presets y curso online de edicion MD📩 🙋 @fullfrane
+      Fundador de @mousaimag @minimal_people Fotografia análoga: @filmbyagus Fotografia boudoir: @impredecivle Canal de YouTube:
     location: "Argentina"
-    followers: 29453
-    engagement: 455
-    commentsToLikes: 0.052383
-    id: ck602x9s6jtkm0i14tw6og2od
+    followers: 35379
+    engagement: 121
+    commentsToLikes: 0.047701
+    id: ck0uefxt4la0n0i19su6g122y
     verified: false
-    hashtags: "#tripinargentina, #travelarg, #turismonacionar, #editz"
+    hashtags: "#endlessfaces, #streetclassics, #portrait, #capturestreets"
 ---

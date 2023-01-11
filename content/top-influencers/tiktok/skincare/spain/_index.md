@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Spain In 2022
+title: Top 10 Skincare TikTok Influencers In Spain In 2023
 description: >-
-  Find top skincare TikTok influencers in Spain in 2022. Most popular hashtags: #parati #fyp #skincare #viral.
+  Find top skincare TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #skincare #foryou #parati.
 platform: TikTok
-hits: 15
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 15 TikTok influencers like this in Spain for you to work with.
+hits: 17
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 17 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "melissabitondo"
     fullname: >-
       Melissabitondo
     bio: >-
-      Belleza (skincare🍃) y Moda SUSCRIBETE A MI CANAL DE YOUTUBE ⬇️⬇️⬇️
+      SkinCare, HairCare💁🏻‍♀️ 💌info@melissabitondo.com SUSCRÍBETE A MI YOUTUBE ⬇️
     location: "Spain"
-    followers: 79200
-    engagement: 469
-    commentsToLikes: 0.013256
+    followers: 126700
+    engagement: 386
+    commentsToLikes: 0.016992
     id: cka0gdg0n3vzi0i78hmfey6re
     verified: false
-    hashtags: "#tips, #cabellolargo, #trucosdebelleza, #tipsdemoda"
+    hashtags: "#micabello, #pelo, #shampoobomba, #cabellograso"
+  - username: "latoxi"
+    fullname: >-
+      Latoxi
+    bio: >-
+      🌈🇪🇸🇨🇱 Valeeeee goordaaaas☝🏻 Makeup artist Toxi@kdt.es Follow👇🏻
+    location: "Spain"
+    followers: 542700
+    engagement: 1584
+    commentsToLikes: 0.039083
+    id: ckceip5tdr3cy0j232ihwg10a
+    verified: false
+    hashtags: "#latoxi, #humor, #tiktok, #mask"
+  - username: "nadina_ioana"
+    fullname: >-
+      Nadina Ioana
+    bio: >-
+      Sígueme en Instagram ❤️👆🏼 PR/Business: nadinaioana24@outlook.com 💌
+    location: "Spain"
+    followers: 3300000
+    engagement: 1062
+    commentsToLikes: 0.005961
+    id: cka637f4a34p40i787pow9lle
+    verified: false
+    hashtags: "#asmrbeauty, #asmrbelleza, #rutinafacial, #pesta"
   - username: "peachygirll.xxx"
     fullname: >-
       p e a c h
     bio: >-
-      🏄‍♀️🐠🌊🌺 blm! filiming my live📷 8k elite people💅
+      🏄‍♀️🐠🌊🌺 blm! filiming my live📷 7k elite people💅
     location: "Spain"
-    followers: 7828
-    engagement: 3333
-    commentsToLikes: 0.214372
+    followers: 7449
+    engagement: 2978
+    commentsToLikes: 0.165516
     id: ck9rm6gik1du30j7841n68scg
     verified: false
-    hashtags: "#lifestylemaddy, #makemefamous, #grwm, #foryoupage"
-  - username: "lauriky_00ruiz"
+    hashtags: "#xcyzba, #makemefamous, #lifestylemaddy, #foryoupage"
+  - username: "astr0gui"
     fullname: >-
-      Laura Ruiz
+      astrology videos
     bio: >-
-      Graphic designer, art and crafts lover 🌼 Dancer ✨ Spain 🇪🇸
+      astrology :) have fun <3 ily
     location: "Spain"
-    followers: 27700
-    engagement: 1297
-    commentsToLikes: 0.046802
-    id: ckb98cgpfrqoa0j23t2byru94
+    followers: 228300
+    engagement: 2114
+    commentsToLikes: 0.033202
+    id: ckdsx2wx6qm0t0j239pgcuxum
     verified: false
-    hashtags: "#halloween, #humor, #halloweenmakeup, #art"
-  - username: "iikermontero"
+    hashtags: "#justdancemoves, #xyzbca, #pijamachallenge, #yearontiktok"
+  - username: "ewimsad"
     fullname: >-
-      Iker Montero
+      lena
     bio: >-
-      ✨💖IKER MONTERO💖✨ Instagram/ @ikermontero “La vida es comedia”
+      𝕺𝖓 𝖂𝖊𝖉𝖓𝖊𝖘𝖉𝖆𝖞𝖘 𝖜𝖊 𝖜𝖊𝖆𝖗 𝖇𝖑𝖆𝖈𝖐 madrid 22 ✨🖤
     location: "Spain"
-    followers: 397800
-    engagement: 2367
-    commentsToLikes: 0.009034
-    id: ckce1xd4wihe90j23fmgu7ac8
+    followers: 48600
+    engagement: 1891
+    commentsToLikes: 0.026991
+    id: ck9shbznqsp6w0j78ab14502b
     verified: false
-    hashtags: "#funny, #comedia, #humor, #bilbao"
-  - username: "alba.t.m"
+    hashtags: "#foryoupage, #lgbt, #altgirl, #gothbimbo"
+  - username: "perezjagger"
     fullname: >-
-      Alba TM
+      Dave
     bio: >-
-      🇪🇸Actress/Model/Youtuber/Taekwondo ESP/ENG/한국어 Albatkd1111@gmail.com 📩
+      NENAS! MIRA -> mi Instagram: perezjagger 😏
     location: "Spain"
-    followers: 44800
-    engagement: 1704
-    commentsToLikes: 0.025327
-    id: cka0rvn3nipqp0i78drf6n9wl
+    followers: 47800
+    engagement: 2019
+    commentsToLikes: 0.017184
+    id: ckbf3hbw2r9zm0j23ay0wkt29
     verified: false
-    hashtags: "#coreadelsur, #viral, #albatellez, #korean"
-  - username: "mallorcalush"
+    hashtags: "#foryourpage, #gaylgtb, #acnejuvenil, #lgtbiespa"
+  - username: "annersite"
     fullname: >-
-      mallorca
+      ANNERSITE
     bio: >-
-      El TikTok de la tienda Lush de Mallorca 🌈 Compra online haciendo click 👇👇
+      ✨ANDREA✨ 📍Girona/Barcelona Makeup || Lifestyle || Music 📬 annersite@tkers.es
     location: "Spain"
-    followers: 96300
-    engagement: 1217
-    commentsToLikes: 0.024825
-    id: ckc7q3rzkvnvi0j23kuxwvldz
-    verified: false
-    hashtags: "#lushcommunity, #ba, #navidad, #lushcosmetics"
-  - username: "lissmorr"
+    followers: 614600
+    engagement: 2303
+    commentsToLikes: 0.010609
+    id: ck904fvc3e8110j78ehh8w2o5
+    verified: true
+    hashtags: "#tutorial, #makeupartist, #ad, #elinternadolascumbres"
+  - username: "la_chica_bona"
     fullname: >-
-      lissmorr
+      La chica Bona
     bio: >-
-      ACTRÍZ 🇦🇷 🇲🇽 🇪🇸
+      ✉️ lachicabona@tkers.es ✨Más anécdotas en INSTAGRAM✨ ⬇️Mi canal de YOUTUBE⬇️
     location: "Spain"
-    followers: 53900
-    engagement: 1539
-    commentsToLikes: 0.019144
-    id: cka0knp7hni030i78j8j1hs4p
+    followers: 3700000
+    engagement: 2138
+    commentsToLikes: 0.004468
+    id: ckb9t6j9eqv8i0j23djctu5f9
     verified: false
-    hashtags: "#parati, #viral, #rebeldeway, #netflix"
-  - username: "porexxpan"
-    fullname: >-
-      porexxpan
-    bio: >-
-      💕 i’m a slytherin 💕
-    location: "Spain"
-    followers: 7149
-    engagement: 1467
-    commentsToLikes: 0.026537
-    id: ckc8wthdykcup0j23lwnduu6w
-    verified: false
-    hashtags: "#fyp, #citasterrorificas, #parati, #harrypotter"
+    hashtags: "#maternidad, #diy, #hijos, #makeup"
   - username: "thereddandelion"
     fullname: >-
       thereddandelion
     bio: >-
       Tengo una canción llamada Quiet, puedes escucharla 💖 🏳️‍🌈
     location: "Spain"
-    followers: 17900
-    engagement: 1366
-    commentsToLikes: 0.026177
+    followers: 17500
+    engagement: 1378
+    commentsToLikes: 0.028604
     id: ckai6buqtvgtt0i785f8ut7tc
     verified: false
-    hashtags: "#lgbt, #foryoupage, #gay, #trans"
-  - username: "pittybernad"
-    fullname: >-
-      Pitty Bernad
-    bio: >-
-      Instagram: @PittyBernad
-    location: "Spain"
-    followers: 26300
-    engagement: 982
-    commentsToLikes: 0.016389
-    id: ckbbun0d6i3ij0j23fbh61z2k
-    verified: false
-    hashtags: "#curlygirl, #parati, #puppy, #dogsoftiktok"
+    hashtags: "#xyzbca, #lol, #parati, #bisexual"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Barcelona In 2022
+title: Top 10 Vegan Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top vegan Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #love #vegan #spain.
+  Find top vegan Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #vegan #recetassaludables #catalunya.
 platform: Instagram
-hits: 46
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 46 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 31
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 31 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "jacksflavours"
+  - username: "inandoutbarcelona"
     fullname: >-
-      Jack
+      IN and OUT Barcelona
     bio: >-
-      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 🌏@jackarribas 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
+      👋🏻 We’re Stefania & Andreu 🍉 Since 2012 sharing our favorite EAT&DRINK places and things TO DO in Bcn. 📌BODEGAS CASTIZAS BARCELONA 👇🏻
     location: "Spain"
-    followers: 22786
-    engagement: 429
-    commentsToLikes: 0.236116
-    id: ck6ty9fa22evr0j71kliadtre
+    followers: 28250
+    engagement: 223
+    commentsToLikes: 0.058632
+    id: ck8t0ekdvrsst0j78sjvtchh1
     verified: false
-    hashtags: "#food, #vegan, #barcelona, #trueitaliantaste"
-  - username: "healthykaty_es"
+    hashtags: "#supportsmallbusiness, #barcelona, #inandoutbarcelona, #shoplocal"
+  - username: "fran_decatta"
     fullname: >-
-      Recetas Saludables & Foodie
+      Fotógrafo de bodas 📸 Girona
     bio: >-
-      🇺🇦Ucraniana en BCN 🇪🇸 👩🏼‍💻 Creadora de @platogonistas y @gorishky.bcn 👇🏻 38% en MyProtein
+      ⚡ Fotógrafo de bodas, mascotas y momentos que mola recordar 📸 - Animal lover - ◽info@frandecatta.com ◽(+34)679739271 📍 #Girona - #Barcelona 🌍
     location: "Spain"
-    followers: 26459
-    engagement: 146
-    commentsToLikes: 0.268950
-    id: ck14hnh84b7hh0i19h7ypgx0e
+    followers: 2432
+    engagement: 1150
+    commentsToLikes: 0.164047
+    id: ck6u0n8mngoaj0j71zp8i8wkx
     verified: false
-    hashtags: "#barcelonavegfriendly, #myproteinkitchen, #restaurantesbarcelona, #barcelonafood"
+    hashtags: "#bodasbarcelona, #parejas, #noscasamos, #fotografobarcelona"
   - username: "fattoincasa_ok"
     fullname: >-
       Fatto by Ampi Dalla Torre
     bio: >-
-      📍Barcelona 👇🏼Encarga tu granola casera🤤 ☎️+34 652457070 📩DM o ampidallatorre@gmail.com Foodie | Travel | Life Style Blogger |
+      🏡Mendoza 📍Barcelona 📩DM o ampidallatorre@gmail.com Foodie | Travel | Life Style Blogger |
     location: "Spain"
-    followers: 15936
+    followers: 15463
     engagement: 193
-    commentsToLikes: 0.062692
+    commentsToLikes: 0.059304
     id: ckaovc9y63ymv0i78u4lvlyc7
     verified: false
-    hashtags: "#fattoincasa, #sinharina, #facilyrico, #mendoza"
-  - username: "carlamiskov"
+    hashtags: "#healthyfood, #espa, #vegano, #saludable"
+  - username: "andrea_m_m"
     fullname: >-
-      🎧
+      A
     bio: >-
-      HOUSE - TECHHOUSE - TECHNO - VEGAN 🇦🇷 From Argentina📍Based in BARCELONA ________ SOUNDCLOUD HERE 👇🏻______________
+      📍 Barcelona 🌱 slow life | veganism | consciousness ▫️ collab - DM / mail
     location: "Spain"
-    followers: 41987
-    engagement: 211
-    commentsToLikes: 0.040212
-    id: ck5bzznwrs5h00i11an7kj8jo
+    followers: 24435
+    engagement: 197
+    commentsToLikes: 0.171773
+    id: ck0vyy56q6cz10i197g6k1m7k
     verified: false
-    hashtags: "#techhouse, #tour, #love, #party"
+    hashtags: "#slowliving, #sustainablefashion, #vegan, #slowlife"
   - username: "in.our.souls"
     fullname: >-
       SORAIA & PEDRO ᶠᵃᵐᶦˡʸ
     bio: >-
-      and our baby’s ♥ turn dreams into reality 𖢻 ⌂ houses @borgeshouses
+      and our baby’s ♥ turn dreams into reality 𖢻 ⌂ Rental houses @borgeshouses
     location: "Spain"
-    followers: 8050
-    engagement: 1341
-    commentsToLikes: 0.077155
+    followers: 7768
+    engagement: 1270
+    commentsToLikes: 0.074362
     id: ck8szil59ol460j787jbhwcg1
     verified: false
-    hashtags: "#azoreswhatelse, #bcn, #familytravel, #azoreslovers"
-  - username: "vidasana.lau"
+    hashtags: "#goexplore, #familytravel, #igersazores, #shareazores"
+  - username: "juanjomonje"
     fullname: >-
-      VIDA SANA | LAU
+      𝙅𝙐𝘼𝙉𝙅𝙊 𝙈𝙊𝙉𝙅𝙀
     bio: >-
-      🍴Recetas saludables,sencillas y deliciosas 🌿Colon Irritable #SugarFree#GlutenFree 💫Real Food|Positive Mind|Be active 🤍Futura Dietista|Ámate muy,mucho
+      Lifestyle - Fashion - Fitness I Content Creator 📩 infojuanjomonje@gmail.com 📍Barcelona, Spain
     location: "Spain"
-    followers: 24245
-    engagement: 469
-    commentsToLikes: 0.373568
-    id: ck8sxqoyoib7u0j78zf51grjk
+    followers: 32437
+    engagement: 422
+    commentsToLikes: 0.143880
+    id: ck8t8zk7jmelj0j788oe1hj9f
     verified: false
-    hashtags: "#comidasaludable, #recetasaludable, #foodie, #reflexiones"
-  - username: "zrako.animal"
+    hashtags: "#gaypride, #fashion, #gym, #gayfit"
+  - username: "jacksflavours"
     fullname: >-
-      Xavi | Animal Tattoos
+      Jack
     bio: >-
-      🌱Vegan Animalist Tattoo Artist 📍Currently in Barcelona 💸Most of tattoo benefits goes to save wildlife🦏 💚Your tattoo can help nature #savinknature
+      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
     location: "Spain"
-    followers: 7343
-    engagement: 533
-    commentsToLikes: 0.155503
-    id: ckaoypj8aii6m0i7814725xkf
+    followers: 23029
+    engagement: 284
+    commentsToLikes: 0.210856
+    id: ck6ty9fa22evr0j71kliadtre
     verified: false
-    hashtags: "#veganartist, #veganart, #fanartdrawing, #thebestspaintattooartists"
-  - username: "olgaupinthesky"
+    hashtags: "#panellets, #chef, #recetassaludables, #gourmet"
+  - username: "laurabudo"
     fullname: >-
-      Olga . Cabin Crew . Lifestyle
+      💗🦋 LAURA BUDÓ  🐺❤️ 23
     bio: >-
-      Hice de mi pasión mi trabajo ✈️ Viajes, moda, belleza y aviación Veggie 🌱 @myproteines olgaupinthesky 38% descuento @shein_spain olgaupinthesky15
+      📍Barcelona | Costa Brava 💄Beauty Ambassador @marvimundo ✨Brand Ambassador @snaptaste.app 👓 @opticagracia @bambouonline @la_casa_dels_pantalons
     location: "Spain"
-    followers: 18057
-    engagement: 351
-    commentsToLikes: 0.131988
-    id: ck6tloxl16d0a0j71e8my3j5k
+    followers: 82368
+    engagement: 54
+    commentsToLikes: 0.163885
+    id: ckaovk41r4wun0i787xihzx2v
     verified: false
-    hashtags: "#outfitdetails, #halloweenideas, #lightroom, #bloggerstyle"
+    hashtags: "#jeans, #ecofriendly, #pink, #bookstagram"
   - username: "roma.ba"
     fullname: >-
       Roma
     bio: >-
-      • Sales Team Developer 💻 • Dad of two cats 🐈 📍Barcelona 🇪🇸🇷🇺🇬🇧🇦🇲🇺🇦
+      📍BARCELONA 📩 romaba13.9@gmail.com
     location: "Spain"
-    followers: 62983
-    engagement: 776
-    commentsToLikes: 0.016410
+    followers: 63171
+    engagement: 684
+    commentsToLikes: 0.019076
     id: ck5bwkdp6lvat0i119easix87
     verified: false
-    hashtags: "#madrid, #selfie, #goodvibes, #beard"
-  - username: "alegnaslife"
+    hashtags: "#selfie, #sunday, #espan, #barcelona"
+  - username: "nataliagtimofeeva"
     fullname: >-
-      Angiie
+      Natalia Garcia Timofeeva
     bio: >-
-      Born in Valencia🔥 #barcelona 📍 Welcome to my world 🖖🏽🛸👽 Teal’c 🐰 ♥️25/09/09♥️ Collab~DM or Email📲 Tiktok 👉🏼 +30k
+      Spanish National Team of Rhytmic Gymnastics🇪🇸💖 nataliagtimofeeva@gmail.com💌 📍Barcelona
     location: "Spain"
-    followers: 13950
-    engagement: 867
-    commentsToLikes: 0.132338
-    id: ck5hp3szwqpj90i110u60i0k0
+    followers: 101107
+    engagement: 517
+    commentsToLikes: 0.016658
+    id: ck5py5wd2ugsk0i11wlm1jny7
     verified: false
-    hashtags: "#style, #collar, #blonde, #espan"
+    hashtags: "#therabody, #ibiza, #encuentratufitness, #ringana"
 ---

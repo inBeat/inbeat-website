@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Capetown In 2022
+title: Top 10 Vegan Instagram Influencers In Capetown in 2023
 description: >-
-  Find top vegan Instagram influencers in Capetown in 2022. Most popular hashtags: #vegan #ad #women #capetown.
+  Find top vegan Instagram influencers in Capetown in 2023. Most popular hashtags: #vegan #ad #women #capetown.
 platform: Instagram
 hits: 4
 text_top: Discover the top-rated Instagram influencers on inBeat.

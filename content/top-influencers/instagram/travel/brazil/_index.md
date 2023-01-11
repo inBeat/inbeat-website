@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Brazil In 2022
+title: Top 10 Travel Instagram Influencers In Brazil In 2023
 description: >-
-  Find top travel Instagram influencers in Brazil in 2022. Most popular hashtags: #goodvibes #halloween #gratidao.
+  Find top travel Instagram influencers in Brazil in 2023. Most popular hashtags: #lifestyle #photography #traveler.
 platform: Instagram
-hits: 2475
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 2475 Instagram influencers like this in Brazil for you to collaborate.
+hits: 2456
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 2456 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "amandhasa"
+  - username: "aonoya8287"
     fullname: >-
-      Amanda Araújo
+      ↟Maggy Shih｜施美加𖧨◭𖤕..
     bio: >-
-      @lojasexclusivaa João Pessoa | Campina Grande 📩 amandhasaa@gmail.com Fashion | Travel | Business
+      📍12/27-1/10Stay in曼谷清邁🇹🇭 Sharinglifestyle,camping,travel,hiking,backpacking ꕀ合作邀約請聯繫郵件mumulicoco@gmail.com ㅤㅤㅤㅤㅤㅤㅤㅤㅤ Founder of @cestlaviee.8
     location: "Brazil"
-    followers: 106015
-    engagement: 948
-    commentsToLikes: 0.517423
-    id: ck14gnyo2668h0i19gbh4ddg9
+    followers: 26045
+    engagement: 461
+    commentsToLikes: 0.018246
+    id: ckap9fm79sh200i783luvg6qn
     verified: false
-    hashtags: "#maisumaunidade, #exclusivacampina, #morrodosaopaulo, #bahia"
+    hashtags: "#brilliantblossoms, #jomalonelondontw, #fastlacing, #instinctsolar"
+  - username: "marina"
+    fullname: >-
+      Marina
+    bio: >-
+      Brazilian TV Show Hostess and EXCLUSIVE TRAVEL AGENCY, Luxury Travel specialist and Digital Influencer. contato@marinamantega.com.br @bestlifecomvc
+    location: "Brazil"
+    followers: 175473
+    engagement: 37
+    commentsToLikes: 0.089728
+    id: ck55m1rop2zls0i11ffl2fsqn
+    verified: true
+    hashtags: "#boanoite, #travelblogger, #italy, #beautifuldestinations"
+  - username: "jessicaalvesuk"
+    fullname: >-
+      Jessica Alves
+    bio: >-
+      TV Personality📺 Model 🫦 🤷‍♀️based in📍#London🇬🇧 travels the world 🌎 Play at @playjessicaalves Agents @daddytheagency A @fashionnova ambassador
+    location: "Brazil"
+    followers: 7096079
+    engagement: 9
+    commentsToLikes: 0.016648
+    id: ck5hclroiiqaq0i11xnk3l8h1
+    verified: true
+    hashtags: "#beauty, #milano, #metaverse, #london"
+  - username: "travelakcja"
+    fullname: >-
+      Monika
+    bio: >-
+      Traveller/Podróżniczka ✈ Polish Rock 🎧🎶 🥁 My visual diary 📷 📍Warsaw, Poland 🇵🇱
+    location: "Brazil"
+    followers: 5441
+    engagement: 1734
+    commentsToLikes: 0.202064
+    id: ck8t5d6fr9pwn0j78phmo8ktt
+    verified: false
+    hashtags: "#nature, #instagram, #outdoors, #travelgirl"
   - username: "gveronese"
     fullname: >-
       Gabriel Veronese
     bio: >-
-      🙋🏼‍♂️ 📱 ✈️ 🌎 📍 São Paulo, 🇧🇷 | Cidadão do Mundo 🗺 🧳 Luxury travels & lifestyle 👦🏼 ☘️ Partner @pelaestradaviagens 🏖
+      🙋🏼‍♂️ 📱 ✈️ 🌎 📍 São Paulo, 🇧🇷 | Cidadão do Mundo 🗺 🧳 Luxury travels & lifestyle 👦🏻 ☘️ Partner @pelaestradaviagens 🏖
     location: "Brazil"
-    followers: 48125
-    engagement: 815
-    commentsToLikes: 0.878982
+    followers: 45622
+    engagement: 844
+    commentsToLikes: 0.855122
     id: ck9wfo36wppp10j78j5c8fbwk
     verified: false
     hashtags: "#ficaemcasa, #lookdodia, #quarentena, #tbt"
+  - username: "_gabicastrop"
+    fullname: >-
+      Gabriela Castro
+    bio: >-
+      ☪︎ Você é fotogênico sim! Só não sabe sobre ângulos e edições ☪︎ O look faz metade da foto! ☪︎ Travel | @mineirismotrip BAIXE MEU PRESET GRÁTIS ⇩
+    location: "Brazil"
+    followers: 16935
+    engagement: 886
+    commentsToLikes: 0.111436
+    id: ckaovi4bg4nku0i78yv8stbbq
+    verified: false
+    hashtags: "#sheinsummersale, #sheinhaul, #sheingals, #shein"
   - username: "liliwgt"
     fullname: >-
       Louise Minski
     bio: >-
       Alt fashion | Horror | Books | Travel 📚 @bocadoinfernobr |🎬 @baconsideoficial
     location: "Brazil"
-    followers: 10882
-    engagement: 1185
-    commentsToLikes: 0.154592
+    followers: 11507
+    engagement: 1618
+    commentsToLikes: 0.043989
     id: ckapaigszw8s40i78qyn73y1x
     verified: false
-    hashtags: ""
-  - username: "biabeible"
+    hashtags: "#rpdr, #pride2021, #orgulho, #hairstyle"
+  - username: "vinibuttel"
     fullname: >-
-      Bia Beible
+      Vini Büttel
     bio: >-
-      🌈 Travel | Creative Content | Fashion 💡 Photo & Editing Tips 📍Brazilian living in California 🇧🇷🇺🇸 ⚡️ My life in California and my trips around 🌏
+      @mtvbrasil Lifestyle | Food | Sports | Travel 📫vinibuttel@hotmail.com
     location: "Brazil"
-    followers: 19330
-    engagement: 844
-    commentsToLikes: 0.095786
-    id: ck9wfhqw6ov260j78o55sh39v
+    followers: 203845
+    engagement: 471
+    commentsToLikes: 0.025213
+    id: ckf5q484584s60j23doxiyshz
     verified: false
-    hashtags: "#californiablogger, #fotoscriativas, #fotosinspiradoras, #happycreativelife"
-  - username: "ramonbernardess"
+    hashtags: "#choramimizento, #2905, #frangoprateado, #quarentenamaldita"
+  - username: "patrickpfornari"
     fullname: >-
-      Ramon Bernardes
+      𝙋𝘼𝙏𝙍𝙄𝘾𝙆 𝙁𝙊𝙍𝙉𝘼𝙍𝙄
     bio: >-
-      Sports • Lifestyle • Travel 🎓 Adm - UFF 📺 Soltos em Floripa - @primevideobr 📤 assessoriaramonbernardes@outlook.com Rj 📍
+      🇧🇷 actor • dreamer • traveler 📍currently in Rio
     location: "Brazil"
-    followers: 142140
-    engagement: 514
-    commentsToLikes: 0.042351
-    id: ckap6ngapgn1j0i78ojpmukr5
+    followers: 9324
+    engagement: 1881
+    commentsToLikes: 0.058357
+    id: ckap1nzsdvd1e0i78t7l62nqf
     verified: false
-    hashtags: ""
-  - username: "lulivecchietti"
+    hashtags: "#boy, #lifestyle, #instagood, #man"
+  - username: "pedeaopai"
     fullname: >-
-      Luciana Vecchietti
+      Inês Ribolhos
     bio: >-
-      lifestyle | travel | beauty | nature 🌈🦋🌅🥥🌱🏄🏼‍♀️🧉📝🐚✈️🌍 founder @luli.comunica 👩🏼‍💻￼🇦🇷 owner @dreamstourportogalinhas 🇧🇷
+      Proud mom of ✌🏻. Newbie wife. Traveller. Occasionally runner. Sarcasm ninja. Gifted napper. Prideful owner of @pedeaopai.store ⭐️. Lisboa, 🇵🇹.
     location: "Brazil"
-    followers: 27376
-    engagement: 587
-    commentsToLikes: 0.582477
-    id: ck9wgqyu4ulqc0j7845ulp90d
+    followers: 14695
+    engagement: 916
+    commentsToLikes: 0.298122
+    id: ck5c2h1bsx8wd0i11libm8yze
     verified: false
-    hashtags: "#portodegalinhas, #octubrerosa, #outubrorosa, #lulitasortea"
-  - username: "lastlostlovers"
-    fullname: >-
-      𝓟𝓪𝓽𝓻𝓲𝓬𝓲𝓪 ♥ 𝓔𝓶𝓪𝓷𝓾𝓮𝓵®
-    bio: >-
-      ⚤ from Portugal ✎ Make it simple but significant ❥ love | photography | travel 📍 #lisboa
-    location: "Brazil"
-    followers: 19013
-    engagement: 662
-    commentsToLikes: 0.124421
-    id: ck0w5yxue63si0i19taqdsp0f
-    verified: false
-    hashtags: "#goodvibes, #bridge, #photographylovers, #travelphotography"
-  - username: "lucaskerkhoff"
-    fullname: >-
-      Lucas kerkhoff
-    bio: >-
-      Filho de um Deus vivo! Mergulhador @letsdive @paditv 🇧🇷🇵🇾🇦🇷🇬🇧🇱🇺🇫🇷🇺🇾🇨🇱 Lifestyle / Fashion / Travels Parcerias Email ou Direct Tikoteko ⬇️ +197K
-    location: "Brazil"
-    followers: 62631
-    engagement: 477
-    commentsToLikes: 0.050285
-    id: ckf5ukjsfl81d0j23eoc186hc
-    verified: false
-    hashtags: "#newerabrasil, #trend, #welcomeonboard, #newera100anos"
-  - username: "juancarlocarvalho"
-    fullname: >-
-      Juan Carlo Carvalho
-    bio: >-
-      Tiktok 220k+ (CoroaToker 👑) #carioca ⛱ #brazilian 🇧🇷 #taurino ♉️ #fitnessaddict 🏋🏻‍♂️ #traveller 🌎 #healthylifestyle 🥦 #doglover 🐶
-    location: "Brazil"
-    followers: 29605
-    engagement: 1040
-    commentsToLikes: 0.040730
-    id: ck9hc2r4ojhv80j78cbmnqo3n
-    verified: false
-    hashtags: "#brazilianboy, #itboy, #healthylifestyle, #goodvibes"
-  - username: "mfernandaa"
-    fullname: >-
-      MARIA FERNANDA LINHARES
-    bio: >-
-      Arquiteta e Urbanista. Fashion | Travel | Beauty | Architecture | Lifestyle Give this world good energy 🦋.
-    location: "Brazil"
-    followers: 61038
-    engagement: 434
-    commentsToLikes: 0.290916
-    id: ck6ugv2mi5c3d0j71k1611ak2
-    verified: false
-    hashtags: "#inspiracaodelook, #nailsdesign, #tbt, #nailart"
+    hashtags: "#lifeofmanuel, #lifeofguigas, #dontgrowupitsatrap, #youngerbrother"
 ---

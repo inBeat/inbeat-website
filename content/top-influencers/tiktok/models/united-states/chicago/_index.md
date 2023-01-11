@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Chicago In 2022
+title: Top 10 Models TikTok Influencers In Chicago In 2023
 description: >-
-  Find top models TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #viral #model.
+  Find top models TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #foryou #model.
 platform: TikTok
-hits: 53
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database has 53 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 38
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 38 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
+  - username: "midwestdreamcars"
+    fullname: >-
+      Jon
+    bio: >-
+      Kentucky car spotter. Insta: @midwest_dream_cars
+    location: "United States"
+    followers: 39900
+    engagement: 1533
+    commentsToLikes: 0.047735
+    id: ckb9kz7mpd8fy0j2368akvdzu
+    verified: false
+    hashtags: "#supercars, #foryou, #kyuprise, #mclaren"
   - username: "danithemodel"
     fullname: >-
-      Danielle Horace
+      Dani
     bio: >-
-      25 yo Model from Chicago
+      Sam’s Beauty Hair Model Published Chicago Model Age: 25
     location: "United States"
-    followers: 43300
-    engagement: 595
-    commentsToLikes: 0.040028
+    followers: 53300
+    engagement: 573
+    commentsToLikes: 0.051614
     id: ckbfaslt62cib0j23gm7x3yit
     verified: false
-    hashtags: "#xybzca, #duet, #viral, #melanin"
-  - username: "marvmore"
+    hashtags: "#chicagomodel, #viral, #pepsihalftimechallenge, #itwasntme"
+  - username: "peachesboutique"
     fullname: >-
-      Marv
+      PeachesBoutique
     bio: >-
-      I stand in front of tweets/looks like Khalid 📍Boston 26 Y.O 4 Mil likes 🎂😳
+      World’s Largest Prom, Quince & Evening Dress Store 🍑👗👑💃🏼👠👛
     location: "United States"
-    followers: 11200
-    engagement: 988
-    commentsToLikes: 0.016175
-    id: ckd09b430bida0j23zlc7azm8
+    followers: 66700
+    engagement: 978
+    commentsToLikes: 0.013315
+    id: ck9vefd1byucq0j78zi7rok4g
     verified: false
-    hashtags: "#greenscreen, #teacher, #twitter, #immuneupvapedown"
-  - username: "stronger.vlad"
-    fullname: >-
-      Vlad
-    bio: >-
-      📍Chicago | Fitness model 🔥Workouts/advice🔥 Follow for helpful fitness
-    location: "United States"
-    followers: 46500
-    engagement: 548
-    commentsToLikes: 0.118416
-    id: ck8vw3furnd4o0j78k0pe6f25
-    verified: false
-    hashtags: "#familyimpression, #fallfashion, #shred, #vanquish"
+    hashtags: "#musthaves, #style, #red, #fy"
   - username: "justbrit01"
     fullname: >-
       Just Britt
     bio: >-
       🐰PB Playmate!🐰 FF/EMT 🔥 📍Chicago ❤️Professional model 💋
     location: "United States"
-    followers: 61100
-    engagement: 1092
-    commentsToLikes: 0.030423
+    followers: 83100
+    engagement: 799
+    commentsToLikes: 0.020641
     id: ckc8ero2m9yzd0j23te6bjoah
     verified: false
-    hashtags: "#babesoftiktok, #wewintogether, #duet, #tiktokfood"
-  - username: "paulina_cargirl"
+    hashtags: "#babesoftiktok, #duet, #stayupallnight, #newcontent"
+  - username: "nhl_com"
     fullname: >-
-      Paulina🤫🇵🇱🏎
+      NHL.com
     bio: >-
-      Car girl🤪 Polishhhh🇵🇱 Model🥵💕🤩 Chicagoooooooo🏙🌇 Snap;Paulina.Masnica
+      HOCKEY CONTENT🏒🥅🔝 every day the best video is here Follow me in Instagram☝️
     location: "United States"
-    followers: 8103
-    engagement: 770
-    commentsToLikes: 0.072248
-    id: ck83ze7zfzyrm0j78t8wypgec
+    followers: 19000
+    engagement: 929
+    commentsToLikes: 0.036699
+    id: ckahw65jepgdi0i7823i39uxi
     verified: false
-    hashtags: "#boyfriend, #chicago, #sad, #staystrong"
+    hashtags: "#caps, #wilson, #hockey, #capitals"
   - username: "lauraldrin"
     fullname: >-
       lauraldrin
     bio: >-
-      Hey 🥰 Spanish model living in 📍Chicago Follow my ig: @lauraldrin
+      9748 Hey 🥰 Spanish model living in 📍Chicago Follow my ig: @lauraldrin
     location: "United States"
-    followers: 18200
-    engagement: 537
-    commentsToLikes: 0.044282
+    followers: 18000
+    engagement: 613
+    commentsToLikes: 0.050195
     id: ck9nhf644fz3g0j78osemjvf2
     verified: false
-    hashtags: "#transformation, #foxyeyes, #fyp, #ihavenothing"
-  - username: "callmebyyourwifesname"
+    hashtags: "#blushmarksquad, #chicago, #tiktokdance, #foxyeyes"
+  - username: "malortluvr"
     fullname: >-
-      Andrew
+      malortluvr
     bio: >-
-      joker/writer/actor/slut Sickelmedia@gmail.com Venmo: callmebyyourwifesname
+      🤙🏻✌🏻 She/her Wingnut
     location: "United States"
-    followers: 55900
-    engagement: 1504
-    commentsToLikes: 0.034308
-    id: ckbf0gtdem52s0j23gcq0z45e
+    followers: 12000
+    engagement: 1131
+    commentsToLikes: 0.069347
+    id: ckav3lk8z9x5l0j23lv1chgnq
     verified: false
-    hashtags: "#slasher, #spooky, #horror, #halloween"
+    hashtags: "#greenscreen, #dumb, #chicago, #artist"
+  - username: "russiaancream"
+    fullname: >-
+      САНЯ 222
+    bio: >-
+      Следи за собой ur fav photographer & stylist chicago/nyc 20
+    location: "United States"
+    followers: 26900
+    engagement: 1577
+    commentsToLikes: 0.017133
+    id: ck9aaylbqmlmx0j78f0wepbvx
+    verified: false
+    hashtags: "#newyork, #model, #style, #fit"
   - username: "_itsnallely"
     fullname: >-
       _itsnallely
     bio: >-
-      Be silly, Be fun - Welcome to my life✨ Follow my ig: _nallelypadilla 📍Chicago
+      Just here to have fun ✨ IG: @_nallelypadilla Coldest Water: “Naly” for 10% off
     location: "United States"
-    followers: 29000
-    engagement: 439
-    commentsToLikes: 0.011981
+    followers: 84900
+    engagement: 946
+    commentsToLikes: 0.007487
     id: ckczvofxu61jz0j23yg9pp5n9
     verified: false
-    hashtags: "#chicago, #motivation, #workout, #trending"
-  - username: "maca_pospi"
+    hashtags: "#parati, #foryou, #viral, #fyp"
+  - username: "capfem"
     fullname: >-
-      Maca Marcel
+      nutella
     bio: >-
-      Hit me up on instagram and check out my links ⬇️🤪😈
+      i am an enigma any pronouns chicago 📍 email on insta
     location: "United States"
-    followers: 156100
-    engagement: 599
-    commentsToLikes: 0.043593
-    id: ckacs0m3m7v0s0i78stqtrb9r
+    followers: 40500
+    engagement: 2137
+    commentsToLikes: 0.043598
+    id: ck95z2fc2cmkq0j78i4s5jr29
     verified: false
-    hashtags: "#dating, #instagram, #trending, #relationship"
-  - username: "lucerosfineboutique"
-    fullname: >-
-      LucerosFineBoutique
-    bio: >-
-      Quinceañeras Paradise✨ IG:LucerosFineBoutique👑💓 Aurora, Illinois📍
-    location: "United States"
-    followers: 108900
-    engagement: 1283
-    commentsToLikes: 0.016237
-    id: ckbkecrrv51470j23fycixg3p
-    verified: false
-    hashtags: "#showupshowoff, #quinceanera, #crown, #fy"
+    hashtags: "#foryou, #pets, #cat, #dance"
 ---

@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Brazil In 2022
+title: Top 10 Instagram Influencers In Brazil In 2023
 description: >-
-  Find top Instagram influencers in Brazil in 2022. Most popular hashtags: #challenge #maquiagembrasil #challengemakeup.
+  Find top Instagram influencers in Brazil in 2023. Most popular hashtags: #dance #sidebysidecosplay #blackcosplayerhere.
 platform: Instagram
-hits: 82063
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 82063 Instagram influencers like this in Brazil for you to collaborate.
+hits: 74466
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 74466 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "eu_marist"
+  - username: "neymarjr"
     fullname: >-
-      M A R I    S T E N C E L
+      NJ 🇧🇷
     bio: >-
-      💥 ASSISTAM OS STORIES 📣 PARCERIAS VIA DIRECT 🎬 YouTuber +16k
+      Isaías 54:17 🙏🏽
     location: "Brazil"
-    followers: 4920
-    engagement: 9184
-    commentsToLikes: 4.224135
-    id: ckap5pobgcmv80i78qkfv0doa
-    verified: false
-    hashtags: "#pegandofogochallenge, #canttouchthischallenge, #nemligochallenge, #brabachallenge"
-  - username: "_pascoaal"
+    followers: 201021785
+    engagement: 464
+    commentsToLikes: 0.000215
+    id: ck0tu0eu852wm0i197q3cwnqi
+    verified: true
+    hashtags: "#playerofthehistory, #bebacommodera"
+  - username: "mariadeantonia"
     fullname: >-
-      YASMIN PASCOAL
+      maria karina
     bio: >-
-      SP | 17 @miin.lash 💎 Apaixonada por maquiagem💗 📩 Parceria e publicidade via direct ou e-mail. ➡️ Contatoyasminpascoal@gmail.com
+      ♡ mãe da Antonia ☆ transforma preconceito em potência ☾ sonha com um mundo que abrace todas as existências
     location: "Brazil"
-    followers: 8521
-    engagement: 5620
-    commentsToLikes: 2.507357
-    id: ckaoszxrvtr830i78rhjgxkqg
+    followers: 44637
+    engagement: 668
+    commentsToLikes: 0.079219
+    id: ckaoyzyjgjrv30i785hh93urw
     verified: false
-    hashtags: "#makeuplover, #sorteio, #challengemakeup, #maquiagemx"
-  - username: "diogoanjosr_"
+    hashtags: "#amor, #cronicasmaternas, #autismo, #vivaosus"
+  - username: "deboracunha"
     fullname: >-
-      𝗗𝗶𝗼𝗴𝗼 𝗔𝗻𝗷𝗼𝘀
+      Debora Cunha
     bio: >-
-      • 𝗢𝗰𝗰𝘂𝗽𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗧𝗵𝗲𝗿𝗮𝗽𝗶𝘀𝘁 𝗶𝗻 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 - 𝗘𝗦𝗦 𝗣𝗼𝗿𝘁𝗼 • -𝟭𝟱% @eunutrition_pt : 𝗗𝗜𝗢𝗚𝗢𝗔𝗡𝗝𝗢𝗦𝟭𝟱 • -𝟱𝟬% @madnesscuff : 𝗗𝗜𝗢𝗚𝗢𝟱𝟬
+      Aqui vc encontra amor com humor Dou dicas legais e mostro meu dia Souaprovavivadeque“casar é ótimo” Publi- Debora@conectadoscasacriativa.com.br
     location: "Brazil"
-    followers: 2207
-    engagement: 5401
-    commentsToLikes: 0.129517
-    id: ck9wf5u8fnbni0j78za2ahgsy
+    followers: 2309204
+    engagement: 436
+    commentsToLikes: 0.089736
+    id: ck9hau39xe55g0j78iupwwyve
     verified: false
-    hashtags: "#tbt, #travel, #instamoment, #insta"
-  - username: "_euvitoria"
+    hashtags: "#publi, #estudos, #canetas, #leitecamponesa"
+  - username: "bianapolitano"
     fullname: >-
-      Vitória Alves ✨
+      Bia Napolitano
     bio: >-
-      Compartilho dicas de cabelo & vida! 🤍 Região dos Lagos| RJ 📌 🎥 YOUTUBE ↴
+      😂 Alegria tem que ser compartilhada! 📩 contato@bianapolitano.com.br 📦 CX Postal 42032 CEP 04082-970 NA SALA POD? 👇🏼
     location: "Brazil"
-    followers: 7119
-    engagement: 4612
-    commentsToLikes: 0.275026
-    id: ck8t7v1xsi2bt0j78cb96em8p
+    followers: 2197279
+    engagement: 725
+    commentsToLikes: 0.019995
+    id: ck6ua7dsz1xns0j71ovyh8ch8
     verified: false
-    hashtags: "#cachosperfeitos, #araruama, #cacheiaamiga, #curlynaturalhair"
-  - username: "_carolfreitasr"
+    hashtags: "#meumodernlove, #earthion"
+  - username: "taina"
     fullname: >-
-      C A R O L   F R E I T A S
+      Tainá Costa
     bio: >-
-      BH | 20 | em constante evolução ✨ looks, beleza, dicas e vida real CEO @carolfreitasstore | @carolfreitasmake É novo por aqui?! Clica ai 😮⬇️
+      🐦 Twitter: eutainacosta 📬 @showdatai CONFIRA MÚSICA NOVA LOVEZINHO, AQUI👇🏼
     location: "Brazil"
-    followers: 3272
-    engagement: 4465
-    commentsToLikes: 1.921749
-    id: ckf5xkqluw0280j233gzb5q6o
-    verified: false
-    hashtags: "#garotavs"
-  - username: "victtsouza"
+    followers: 16329051
+    engagement: 650
+    commentsToLikes: 0.008599
+    id: ck0vz6p5n7kwi0i19ib9icvma
+    verified: true
+    hashtags: "#fusioncapudocup2021, #desxcontovigoroso, #lovezinho"
+  - username: "larasilva"
     fullname: >-
-      V I C T Ó R I A
+      Lara Silva
     bio: >-
-      • Cristã • 18 anos • Cacheada • Mangaratiba - RJ • facebook: Victória Souza • @paulovicttor_21 💍
+      🎤 shows: (11) 9 1265-2665 📞 Publi: (11) 97511-6976 MENINA MÁ ;) 👇🏻
     location: "Brazil"
-    followers: 7127
-    engagement: 4365
-    commentsToLikes: 0.086841
-    id: ck8tczhxe1ab80j78xk3iuc71
+    followers: 17181814
+    engagement: 420
+    commentsToLikes: 0.007972
+    id: ck13465p8uwfl0i195nh2ytyt
     verified: false
-    hashtags: ""
-  - username: "naaymacedo"
+    hashtags: "#halloweendalet"
+  - username: "shai_t_music"
     fullname: >-
-      Nayara Macedo 🦋
+      Shai T (Official)
     bio: >-
-      Ativa as Notificações Digital Influencer Parceria/Contato Direct✨ aceito divulgação 💜
+      All Day I Dream | Anjunadeep | Lost & Found 🌎 caviarartists@gmail.com 🇺🇸🇨🇦 seehamsrahman@elysiumaffairs.com 🇧🇷 priscila@allianceartists.com.br
     location: "Brazil"
-    followers: 17658
-    engagement: 4169
-    commentsToLikes: 0.155186
-    id: ck0w19nxdi8uw0i1907eb6swb
+    followers: 10831
+    engagement: 634
+    commentsToLikes: 0.053142
+    id: cl4l96r18tgkn0i23xzbnpb65
     verified: false
-    hashtags: ""
-  - username: "paidrudi"
+    hashtags: "#party, #dc, #housemusic, #miami"
+  - username: "luizacordery"
     fullname: >-
-      Cassio Drudi
+      lu¡za
     bio: >-
-      Hello migas e migos 👻 Toda mulher devia andar pelas ruas, pegar um ônibus e se sentir segura e ser tratada com dignidade por todos os homens!
+      🇧🇷🇬🇧 19 ✮ @filmbyluiza tiktok: lilstaryuh2.0 yt: Luiza Cordery
     location: "Brazil"
-    followers: 239049
-    engagement: 4002
-    commentsToLikes: 3.527659
-    id: ck8t4djrj6e440j78fmkapzrj
+    followers: 350423
+    engagement: 623
+    commentsToLikes: 0.001637
+    id: ckxp7y6cc9zmh0j23hle74zud
     verified: false
-    hashtags: "#familiadrudisempree"
-  - username: "karoool_012"
+    hashtags: "#ad, #ootd"
+  - username: "sydsugoi.cosplay"
     fullname: >-
-      𝕂𝕒𝕣𝕠𝕠𝕝 𝕍𝕚𝕝𝕜
+      S Y D S U G O I
     bio: >-
-      🇧🇷 GAÚCHA 🧉 💌Contato via direct 💓💍 @ian_arambula ⬇️solicite mídia kit abaixo⬇️
+      Cosplayer • Digital Creator • ⁣Nostalgia Queen 📰Feat: DC Comics, Adult Swim, Rare Beauty If Sydsugoi posts it, she produced it.
     location: "Brazil"
-    followers: 14531
-    engagement: 3727
-    commentsToLikes: 0.997707
-    id: ckap9v2qqtqbg0i78zpzyh9uv
+    followers: 8176
+    engagement: 709
+    commentsToLikes: 0.040517
+    id: cl34yk06l0kwi0i23j89oie1b
     verified: false
-    hashtags: "#lacoste, #luzdoluarchallenge, #riograndedosul, #caxiasdosulrs"
-  - username: "marcodanjos"
+    hashtags: "#blackcosplayersrock, #blackwomenincostume, #sidebysidecosplay, #blackgirlcosplay"
+  - username: "luvadepedreiro"
     fullname: >-
-      Marco dos Anjos "MeiKilo" 👦🏻
+      Iran Ferreira
     bio: >-
-      Miami 🇺🇸| Betim 🇧🇷 💰 Empresário e 1.3 MILHÕES DE INSCRITOS 🔥 Parcerias e Divulgação via email ⬇️ 📧 marcodosanjoscontato@gmail.com
+      Graças a deus pai ❤️📩 luva@desafio1pra1.com
     location: "Brazil"
-    followers: 635098
-    engagement: 3724
-    commentsToLikes: 7.073832
-    id: ck14i3yafdiud0i19ibxqazsx
+    followers: 20113589
+    engagement: 627
+    commentsToLikes: 0.010852
+    id: clas9eusbxdpp0i23khf9myjw
     verified: false
-    hashtags: "#matue, #maquinadotempo, #mdt"
+    hashtags: "#pariscestmagique, #weareparis, #fifaworldcup, #publicidade"
 cities:
   - name: Rio de Janeiro
     link: /instagram/brazil/rio-de-janeiro

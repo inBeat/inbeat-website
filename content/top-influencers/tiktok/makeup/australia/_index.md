@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Australia In 2022
+title: Top 10 Makeup TikTok Influencers In Australia In 2023
 description: >-
-  Find top makeup TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
+  Find top makeup TikTok influencers in Australia in 2023. Most popular hashtags: #makeup #fyp #makeupartist #foryoupage.
 platform: TikTok
-hits: 374
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 374 TikTok influencers like this in Australia for you to connect with.
+hits: 303
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 303 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "sam.b.perry"
     fullname: >-
       sam.b.perry
     bio: >-
-      💖20💖 🇦🇺 Aussie 🇦🇺 Makeup, art & life Born Bred Talent
+      💖21💖 🇦🇺 Aussie 🇦🇺 Makeup, trapeze & life Born Bred Talent
     location: "Australia"
-    followers: 677700
-    engagement: 2016
-    commentsToLikes: 0.019897
+    followers: 755600
+    engagement: 2426
+    commentsToLikes: 0.043351
     id: ck9k4demvs0by0j78u1wfd7d2
     verified: true
-    hashtags: "#ad, #anime, #homeoffice, #foryou"
-  - username: "deadawaken"
-    fullname: >-
-      💀Deadawaken💀
-    bio: >-
-      🥀🖤gothic🖤🥀❤️Insta❤️👣auzzie👣🔥SFX makeup artist🔥🕸Patreon🕸
-    location: "Australia"
-    followers: 14500
-    engagement: 1921
-    commentsToLikes: 0.032785
-    id: ck9e3895ui99a0j78fa9mikgi
-    verified: false
-    hashtags: "#fyp, #gothic, #punk, #goth"
-  - username: "sophiegmakeup"
-    fullname: >-
-      Soph
-    bio: >-
-      ✨16✨ Instagram: @sophh.makeupp Love you all! 🥳
-    location: "Australia"
-    followers: 15200
-    engagement: 2041
-    commentsToLikes: 0.018626
-    id: ckb9rxz03osbf0j23xgkcaqnp
-    verified: false
-    hashtags: "#fyp, #foryou, #creative, #1d"
+    hashtags: "#hogwarts, #harrypotter, #makeup, #duet"
   - username: "makeupbymyke"
     fullname: >-
       Makeup By Myke
     bio: >-
-      Just a boy who loves makeup. ❤️ 25, 6”2, AU 🇦🇺 Support in any way you can!👇🏼
+      Just a boy who loves makeup. 26, 6”2, AU 🇦🇺 I do it for the girls & the gays
     location: "Australia"
-    followers: 63500
-    engagement: 2473
-    commentsToLikes: 0.026361
+    followers: 63700
+    engagement: 2427
+    commentsToLikes: 0.031355
     id: ck8nitp74791v0j78rw1i3ja7
     verified: false
-    hashtags: "#foryoupage, #makeuptutorial, #fyp, #beautyhaul"
+    hashtags: "#keepingitcute, #foryoupage, #fyp, #hiddentalents"
+  - username: "kathryndenny"
+    fullname: >-
+      Kathryn Denny
+    bio: >-
+      DAILY VLOGS + MAKEUP CHALLENGES • Come join me on Instagram • 24 | Mumma | Aus
+    location: "Australia"
+    followers: 513500
+    engagement: 1986
+    commentsToLikes: 0.003474
+    id: ckbbfthod4h680j23jwouzndc
+    verified: false
+    hashtags: "#dayinmylife, #vlog, #makeup, #selfemployed"
   - username: "reddelicious000"
     fullname: >-
       Kellie Smith
     bio: >-
       📸 IG: @reddelicious000 🎥 YouTube: reddelicious000 Kmart | Makeup | Curves
     location: "Australia"
-    followers: 3846
-    engagement: 1128
-    commentsToLikes: 0.111218
+    followers: 4444
+    engagement: 868
+    commentsToLikes: 0.114129
     id: ckbrcfl0iqbks0j23ap5qmsul
     verified: false
-    hashtags: "#over40s, #momsoftiktok, #over30s, #aussiethings"
-  - username: "venus.amore"
+    hashtags: "#over50s, #over40s, #redhair, #newfriends"
+  - username: "a.o.h.m"
     fullname: >-
-      🏳️‍🌈 Venus Amoré 🏳️‍🌈
+      𝔸𝕝𝕠𝕟𝕕𝕣𝕒 𝔾𝕒𝕥𝕒é
     bio: >-
-      ☀️ GOLD COAST, AU ☀️ Makeup, life, love and fun! 👇🏽👇🏽INSTA LINKED 👇🏽👇🏽
+      Hair & Makeup School! 📍Melbourne, AU 🌍 ✨A.O.H.M✨ we might follow you back!
     location: "Australia"
-    followers: 30000
-    engagement: 1131
-    commentsToLikes: 0.065119
-    id: ck9dsse339dj30j785o2mg0pv
+    followers: 16200
+    engagement: 937
+    commentsToLikes: 0.222024
+    id: ckc7gm7nnp2f70j23epnniv10
     verified: false
-    hashtags: "#follow, #funny, #forupage, #tiktok"
-  - username: "samjtodd"
-    fullname: >-
-      💓 sam todd 💓
-    bio: >-
-      fashion/makeup/DIY’s owner/designer @the.volt 💞 bris, AU 💌 samtodd@hotmail.com
-    location: "Australia"
-    followers: 11600
-    engagement: 955
-    commentsToLikes: 0.046536
-    id: ckbqej5b40dxh0j235h9iab39
-    verified: false
-    hashtags: "#brisbane, #festivalfashion, #handmadefashion, #thevolt"
-  - username: "thefauxchanel"
-    fullname: >-
-      TheFauxChanel
-    bio: >-
-      🇦🇺🇳🇿🇵🇭 Hi, I’m Cat! Makeup Illusionist thefauxchanel@gmail.com
-    location: "Australia"
-    followers: 139500
-    engagement: 1663
-    commentsToLikes: 0.022099
-    id: ck94lj4f2zf5o0j78f9cbrkke
-    verified: false
-    hashtags: "#makeup, #foryou, #creepy, #fyp"
+    hashtags: "#viral, #fyp, #ap, #cd"
   - username: "ains_mua"
     fullname: >-
       Ainsley
     bio: >-
       🎉 22 | passion for makeup 💄| Victoria, Aus 🇦🇺 | Follow me on Instagram ⬇️
     location: "Australia"
-    followers: 76800
-    engagement: 1630
-    commentsToLikes: 0.021557
+    followers: 80800
+    engagement: 1592
+    commentsToLikes: 0.024373
     id: ckacvdkh0n86g0i78i70ejx48
     verified: false
-    hashtags: "#foryou, #orange, #art, #paint"
-  - username: "ozbeautyexpert"
+    hashtags: "#fyp, #foryoupage, #paint, #makeupart"
+  - username: "ke_ke_makeup"
     fullname: >-
-      OzBeautyExpert
+      Keylee Cochrane 
     bio: >-
-      Have you got me on insta too? @ozbeautyexpert See my makeup brand in this link
+      Aussie 18 Country Girl Insta: keyleemakeup_13 Makeup & Drawing/Painting/Horses
     location: "Australia"
-    followers: 7487
-    engagement: 285
-    commentsToLikes: 0.048138
-    id: ckdhy2hyf4pjf0j23mlzccuyf
+    followers: 36200
+    engagement: 1586
+    commentsToLikes: 0.007327
+    id: cka0hzpthbhb00i78bz5tdmpo
     verified: false
-    hashtags: "#fyp, #foryou, #friday, #lol"
+    hashtags: "#creativemakeup, #puppies, #artist, #painting"
+  - username: "shestly01"
+    fullname: >-
+      shestly01 
+    bio: >-
+      Daily updates on IG stories makeupbynamrata❤️ boutique acc frozen 👇link
+    location: "Australia"
+    followers: 150900
+    engagement: 380
+    commentsToLikes: 0.043682
+    id: ckceiokjjr2ht0j23j9rjbx9h
+    verified: false
+    hashtags: ""
+  - username: "duchess_of_tiktok"
+    fullname: >-
+      Duchess of Tiktok
+    bio: >-
+      New to Tiktok & Victims of Lockdown International MakeUp & Hair Artist 🇦🇺 🇵🇭
+    location: "Australia"
+    followers: 107800
+    engagement: 366
+    commentsToLikes: 0.059197
+    id: ckal7zgafhdtl0i78cz81eo8r
+    verified: false
+    hashtags: "#fun, #funny, #duet, #love"
+  - username: "janellemyh"
+    fullname: >-
+      Janelle Han
+    bio: >-
+      🤪 insta @janellemyh Perth, Australia i do makeup n stuff
+    location: "Australia"
+    followers: 111900
+    engagement: 1397
+    commentsToLikes: 0.012109
+    id: ckbqpqsahak5t0j2322guqipb
+    verified: false
+    hashtags: "#perth, #australia, #makeuptrends, #vlog"
 ---

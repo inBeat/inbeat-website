@@ -1,72 +1,48 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Turkey In 2022
+title: Top 10 Gaming Instagram Influencers In Turkey In 2023
 description: >-
-  Find top gaming Instagram influencers in Turkey in 2022. Most popular hashtags: #gaming #gamer #game #csgo.
+  Find top gaming Instagram influencers in Turkey in 2023. Most popular hashtags: #gaming #pubg #gamer #game.
 platform: Instagram
-hits: 24
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 24 Instagram influencers like this in Turkey for you to connect with.
+hits: 22
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 22 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "risingamers"
+  - username: "baskan.gaming"
     fullname: >-
-      Rising Gamers
+      ~{b@$k@π}~[20K⏩30K]
     bio: >-
-      Rising Gamers Facebook Grubunun Resmi Instagram Sayfasıdır. %100 Özgün İçerik Facebook Grubumuz 🔽
+      ⭐ 🇹 🇷🇹🇷 ⭐ 🎬|Gameplays 😂|Memes 🎨|Fanart ☁|Best ideas 📩|DM for business ➖➖➖➖➖➖➖➖➖➖➖ 👇👇👇FOR MORE👇👇👇 FOLLOW ➡ @baskan.gaming BASKAN GAMEPLAY 🎬 🔥 👇🏻
     location: "Turkey"
-    followers: 23401
-    engagement: 1727
-    commentsToLikes: 0.047749
-    id: ckaoxl2n7dqcw0i780u6y6ffg
+    followers: 29786
+    engagement: 351
+    commentsToLikes: 0.037665
+    id: ckaovspo05zx10i78jhsdoz5s
     verified: false
-    hashtags: "#oyuncular, #gamingmeme, #gamingpost, #gamersonly"
+    hashtags: "#brawlstarsmeme, #brawlstarsmemes, #brawlstarsfunny, #brawlstarsturkiye"
   - username: "masterinsec"
     fullname: >-
       MASTER INSEC
     bio: >-
-      🎭∣ Eğlenceli, Komik Paylaşımlar ve Dahası 👌 🚩∣ Epic Leesin Montage Parts
+      
     location: "Turkey"
-    followers: 12853
-    engagement: 465
-    commentsToLikes: 0.088846
+    followers: 11651
+    engagement: 559
+    commentsToLikes: 0.088535
     id: ck9hbt3lzibu60j78kux1jf7c
     verified: false
-    hashtags: "#art, #loltr, #leagueoflegendsfanart, #fanart"
-  - username: "hz_yasuoloji"
+    hashtags: "#lolturkey, #leagueoflegendsart, #league, #gamer"
+  - username: "pubgciik"
     fullname: >-
-      hazretiyasuo
+      PUBG MOBİLE HEDEF (25K)
     bio: >-
-      💎 @hazretiyasuo Fan Sayfası 💎 📢Reklam vs için @hz.network 📢 👇👇Discord adresimiz 👇👇👇
+      YOUTUBE; Nailkaradeniz 👉🏻TAKİP EDERSENİZ DESTEK OLABİLİRSİNİZ 👉🏻REKLAM VE İŞ BİRLİĞİ İÇİN DM ATINIZ . PUBG MOBİLE SON VİDEO 👇🏻
     location: "Turkey"
-    followers: 29520
-    engagement: 723
-    commentsToLikes: 0.020568
-    id: ckap1bpmxtw8a0i789ux358il
+    followers: 20804
+    engagement: 296
+    commentsToLikes: 0.087081
+    id: ckf5t9htwh8sz0j23c7jcpqdk
     verified: false
-    hashtags: "#twitcht, #hzyasuo, #csgo, #cs"
-  - username: "pubg___lovers__india"
-    fullname: >-
-      🔥𝐏𝐔𝐁𝐆_𝐋𝐎𝐕𝐄𝐑'𝐒_𝐈𝐍𝐃𝐈𝐀🔥||𝟕𝟎𝐊||
-    bio: >-
-      👉#𝐩𝐮𝐛𝐠__𝐥𝐨𝐯𝐞𝐫𝐬__𝐩𝐚𝐠𝐞😘 💥𝐃𝐚𝐢𝐥𝐲 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 & 𝐅𝐮𝐧𝐧𝐢𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬 𝐦𝐨𝐦𝐞𝐧𝐭𝐬🎬 👉𝐃𝐌 𝐟𝐨𝐫 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 𝐨𝐫 𝐏𝐨𝐬𝐭 𝐑𝐞𝐦𝐨𝐯𝐞𝐥✉️ 💰𝐃𝐌 𝐦𝐞 𝐟𝐨𝐫 𝐩𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧💰 👇 Click here👇
-    location: "Turkey"
-    followers: 70253
-    engagement: 389
-    commentsToLikes: 0.015511
-    id: ck14k2edpndze0i198ox9yult
-    verified: false
-    hashtags: "#wtcnn, #pubgmobilekocak, #playerunknownsbattleground, #twitchfails"
-  - username: "counterstrike1.6tv"
-    fullname: >-
-      Counter Strike 1.6
-    bio: >-
-      Türkiye’nin En büyük CounterStrike1.6 Sayfasına Hoş geldiniz. Hedef 20k takip edelim.. ❤💪 #GEBZE41DOSTLAR PUB Server Adress ; 95.173.173.7
-    location: "Turkey"
-    followers: 19673
-    engagement: 187
-    commentsToLikes: 0.033735
-    id: ck9wdocd0gicq0j78um0ld8we
-    verified: false
-    hashtags: ""
+    hashtags: "#pubgtu, #pubglite, #20likes, #instafollow"
   - username: "boroda_master_"
     fullname: >-
       
@@ -78,7 +54,19 @@ profiles:
     commentsToLikes: 0.012448
     id: ck5hr200lu4jp0i116tm92x2b
     verified: false
-    hashtags: "#batman, #gymnastics, #boxing, #bodibildingfederation"
+    hashtags: "#fullenergy, #batman, #gymgirl, #bomdia"
+  - username: "tersmaske"
+    fullname: >-
+      TersMaske
+    bio: >-
+      Youtuber - BF @klalbloonkaaf
+    location: "Turkey"
+    followers: 54102
+    engagement: 1316
+    commentsToLikes: 0.064251
+    id: ckapb7u4uywgt0i78s338i3qb
+    verified: false
+    hashtags: "#tersmaske, #kar, #youtube, #gist"
   - username: "tech_raptor"
     fullname: >-
       Tech Raptor 🦖™
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.005069
     id: ck6tuwx5sivyr0j71dhiya912
     verified: false
-    hashtags: "#pcmods, #rgb, #gamingcommunity, #gamer"
-  - username: "cosplaymila"
+    hashtags: "#gamerforlife, #respawn, #gamingsetups, #pcsetup"
+  - username: "matt_najm"
     fullname: >-
-      Almila Kekeç
+      Matt 🇹🇲
     bio: >-
-      🐼🦄 Cosplayer 🤷 The Last Rainbow Bender 🌈
+      📍Based in Istanbul🇹🇷 Height:186 📩
     location: "Turkey"
-    followers: 5437
-    engagement: 1667
-    commentsToLikes: 0.052231
-    id: ckaoyjqilhren0i78eowzieog
+    followers: 11048
+    engagement: 1351
+    commentsToLikes: 0.090022
+    id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#gamergirl, #leagueoflegendscosplay, #fashion, #dva"
-  - username: "fashionablover"
+    hashtags: "#moda, #hairstyle, #poz, #fotografia"
+  - username: "gry.game"
     fullname: >-
-      Tuana Schumacher
+      GRY GAME
     bio: >-
-      Typical sagittarius thing😜♐️ All about trends 33 Countries📍🌎 To buy my epilady👇
+      🕹️ | 🔥Oyun & Mizah Ve Güncel Paylaşımlar 📢 | Türkiye'nin En Aktif Oyun Sayfası 🃏 🎮 | Sende Aramıza Katıl ! 🔥 Reklam & Telif📌@serkangkk & @grymalii
     location: "Turkey"
-    followers: 125276
-    engagement: 110
-    commentsToLikes: 0.095066
-    id: ck5q7sgbw2x4j0i11l90ooe69
+    followers: 41279
+    engagement: 768
+    commentsToLikes: 0.066535
+    id: ck8tb8cytup6d0j78vakdyiyx
     verified: false
-    hashtags: "#fallfashion, #balay, #cappadociaturkey, #tarihiyolculuk"
-  - username: "mustafak"
+    hashtags: "#gaminggecesi"
+  - username: "risingamers"
     fullname: >-
-      Mustafa Ak
+      Rising Gamers
     bio: >-
-      Her gün video attığım kanalım
+      Rising Gamers Facebook Grubunun Resmi Instagram Sayfasıdır. %100 Özgün İçerik Facebook Grubumuz 🔽
     location: "Turkey"
-    followers: 264096
-    engagement: 1173
-    commentsToLikes: 0.022098
-    id: ck0txr86tk8fm0i19iqkl2qdj
-    verified: true
-    hashtags: "#pillowchallenge, #evdekal, #hayat5, #csgo"
+    followers: 24213
+    engagement: 779
+    commentsToLikes: 0.036224
+    id: ckaoxl2n7dqcw0i780u6y6ffg
+    verified: false
+    hashtags: "#cyberpunk2077t, #risingamers, #cyberpunk2077game, #cyberpunk2077"
+  - username: "oldelmas"
+    fullname: >-
+      OldElmas ⚡️
+    bio: >-
+      ➰ | Aykut Elmas'ın Tüm Efsane Vine'lari 👀 🕯 | Eski Günlerdeki Gibi.. 🔱 ✨ | Ücretli reklam, öneri ve görüşleriniz için Dm✉
+    location: "Turkey"
+    followers: 234181
+    engagement: 274
+    commentsToLikes: 0.004100
+    id: ck0uaomkqco3f0i19r6l7tu4t
+    verified: false
+    hashtags: "#komiksahneler, #komikpaylasimlar, #ibrahimgo, #aykutelmasvine"
 ---

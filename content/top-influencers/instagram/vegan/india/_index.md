@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In India In 2022
+title: Top 10 Vegan Instagram Influencers In India In 2023
 description: >-
-  Find top vegan Instagram influencers in India in 2022. Most popular hashtags: #vegan #love #reelsinstagram.
+  Find top vegan Instagram influencers in India in 2023. Most popular hashtags: #love #nature #cosplaygirls.
 platform: Instagram
-hits: 600
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 600 Instagram influencers like this in India for you to pitch.
+hits: 413
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 413 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "kuntalj"
+  - username: "shivya"
     fullname: >-
-      Kuntal A. Joisher
+      Shivya Nath
     bio: >-
-      #Vegan AF, Mountaineer, Programmer Summited #Everest twice - via North & South routes @Save_The_Duck athlete .
+      🌏Stories of offbeat and conscious travel 🌱Founder: @climateconscioustravel ✍🏼Travel writer, author, vegan, drifter 👣Feat: NatGeo, BBC, T+L etc
     location: "India"
-    followers: 12618
-    engagement: 523
-    commentsToLikes: 0.090296
-    id: ck0vv0jv8mzfd0i19dqiakf3u
-    verified: false
-    hashtags: "#himalaya, #veganathlete, #mounteverestofficial, #trekkersofindia"
-  - username: "lucasclp"
-    fullname: >-
-      Lucas Carvalho 🌱
-    bio: >-
-      • Ashtanga Yoga Student and Teacher Authorized Level 2 by Sharath Jois. • @ashtangayogafortaleza • vegano por amor à vida e por sustentabilidade 🌱💚🌎
-    location: "India"
-    followers: 19605
-    engagement: 382
-    commentsToLikes: 0.045137
-    id: ckf5mhtpotvaz0j23pdf2zznd
-    verified: false
-    hashtags: "#ashtangayoga, #morethanasana, #ashtangayogafortaleza, #primaryseries"
-  - username: "rhythm_of_yoga"
-    fullname: >-
-      YᗩᔕᔕᗰIᑎE Yoga Teacher Dubai
-    bio: >-
-      ☾CYT 500hrs مدربة يوغا معتمدة ➵Yoga & Wellness | Vegan traveler ➵Dm 4 classes↴& Collaborations ➵Prenatal- Adult & kids yoga ➵Discounts↴@liquidodubai
-    location: "India"
-    followers: 40161
-    engagement: 107
-    commentsToLikes: 0.212685
-    id: ck9h9sslg9tqq0j78qpb49pf5
-    verified: false
-    hashtags: "#yogateacherdubai, #funpinkyogis, #yogaforeveryone, #yogachallenge2020"
-  - username: "keanlewis"
-    fullname: >-
-      Kean Lewis
-    bio: >-
-      Professional Footballer 🇮🇳 📍Delhi 🌱 Vegan ⚽️Certified Coaching Licenses:USSF🇺🇸NJCAA🇺🇸SFA🏴󠁧󠁢󠁳󠁣󠁴󠁿 Email for Private Training Sessions/Collaborations
-    location: "India"
-    followers: 10569
-    engagement: 885
-    commentsToLikes: 0.015605
-    id: ck0ubx8lnfgrn0i19b0s2855p
+    followers: 109479
+    engagement: 210
+    commentsToLikes: 1.153168
+    id: ck6tkcjdt4fnz0j71ajjpz8lc
     verified: true
-    hashtags: "#isl6, #bfc, #athlete, #work"
-  - username: "itisinthename"
+    hashtags: "#sustainabletourism, #responsibletravelwriting, #sustainableaccommodations, #centroamerica"
+  - username: "_eldho_.jr"
     fullname: >-
-      Prakriti Varshney 🇮🇳 Traveller
+      𝐄𝐥𝐝𝐡𝐨𝐬𝐞 𝐬𝐢𝐛𝐲
     bio: >-
-      I travel Solo in India, and I feel safe in India #itisinthename Travelling the world currently 🌍 Vegan, Animal & Nature Lover 🌱 📌 Delhi/Manali
+      You are the writer of the story of ur LiFe. ȶ #veganforthevoiceless 🍃
     location: "India"
-    followers: 59672
-    engagement: 590
-    commentsToLikes: 0.018997
-    id: ck601qf2ifz7w0i14tamj5fe3
+    followers: 3156
+    engagement: 1649
+    commentsToLikes: 0.143846
+    id: ck9whoib7yto60j78z37p6a5z
     verified: false
-    hashtags: "#india, #mountains, #reelsinstagram, #kashmirbeauty"
-  - username: "darya.ponomaryova"
+    hashtags: "#keralagram, #ootd, #kerala, #igers"
+  - username: "efefkay"
     fullname: >-
-      ❄️𝐏𝐨𝐰𝐝𝐞𝐫 𝐍𝐨𝐦𝐚𝐝❄️
+      Farial Faisal🌧
     bio: >-
-      😎Supported by @we_are_sungod 🎿Freeride @powdernomads.kz 👙Getting sun in @kinikitanthrough 🎨Tie-dye @tiedye.kz 🧘‍♀️Yoga🍏Vegan lifestyle 𝖠𝗅𝗆𝖺𝗍𝗒, 𝖪𝖹🇰🇿
+      Musician | Blogger | SMM Strategist | Vegan 💞 @billyhowerdel 📍Pakistan gigs/ queries @iconicsolnltd
     location: "India"
-    followers: 6076
-    engagement: 806
-    commentsToLikes: 0.089780
-    id: ckf5utnsgma6g0j232wkonjv1
+    followers: 11029
+    engagement: 743
+    commentsToLikes: 0.099041
+    id: ckf5rtxczdv9k0j23xmrt6se0
     verified: false
-    hashtags: "#kazakhstanmountains, #visitkazakhstan, #wheretofindme, #charyn"
-  - username: "gouri_koushik"
+    hashtags: "#cosplaycommunity, #cosplaygirls, #halloweencostumes, #halloween2020"
+  - username: "codylinley"
     fullname: >-
-      GK
+      Cody Linley
     bio: >-
-      Vegan 🌱 Baker/owner of @plantbased.edibles 🧁 Bengaluru, India.
+      Actor 🎭| Film-Maker🎥 | Acting Coach 🎬| Singer song writer 🎼 | Guitar player 🎸 | I ❤️ life!🌎 Vegan 🌱| Activist ☮️❤️🙏
     location: "India"
-    followers: 2064
-    engagement: 1254
-    commentsToLikes: 0.025727
-    id: ckap0s1i8rjib0i78pseeox95
-    verified: false
-    hashtags: "#fosteringsaveslives, #indies, #bangaloreadoption, #indiepuppies"
-  - username: "yoga__woman"
+    followers: 96876
+    engagement: 698
+    commentsToLikes: 0.018566
+    id: ck14jceyajmvi0i19ldjhoxce
+    verified: true
+    hashtags: "#actor, #codylinley, #instadaily, #codylinleylove"
+  - username: "campatafio"
     fullname: >-
-      CLASE DE YOGA GRATIS 🤚🏻18:00
+      maternidad - yoga - veganismo
     bio: >-
-      Anais Sorensen COMPRA mi libro AQUI 👇🏻Clases yoga en VIVO📺 lunes 18:00 pm 🇨🇱 VEGAN ♻️mom👶🏻🌞 ❁ ashtanga yoga Homeschool
+      soy mamá de eloísa 🌿 #veganfamily esp. en ortodoncia @cerettiodontologia practico ashtanga vinyasa yoga embajadora @luleamindful
     location: "India"
-    followers: 819301
-    engagement: 178
-    commentsToLikes: 0.115270
-    id: ck13a9i8opagg0i194vb4q6wh
+    followers: 8529
+    engagement: 521
+    commentsToLikes: 0.143282
+    id: ck5zqimoyuo080i14va12f2vn
     verified: false
-    hashtags: "#instagood, #vegan, #love, #gratitude"
-  - username: "daisymayqueen"
+    hashtags: "#laserranita, #yogaeverydamnday, #seventhseries, #cordoba"
+  - username: "funamentals"
     fullname: >-
-      Vegana viviendo en Rishikesh.
+      Funa Maduka
     bio: >-
-      Love cows, don't eat them, don't milk them. Facebook page: Cookie Lady - Vegan Bakery. Para viajes a India, link abajo
+      dms welcome but plssss direct all business queries to funa.assistant@gmail.com filmmaker 👩🏾‍🎨 & aspiring vegan baker👩🏾‍🍳 film @waitingforhassana
     location: "India"
-    followers: 28060
-    engagement: 224
-    commentsToLikes: 0.144856
-    id: ck6tv7dfdkl8v0j71nbc1p7in
+    followers: 10881
+    engagement: 446
+    commentsToLikes: 0.093641
+    id: ck8t00dozqexk0j78wk7x4dyg
     verified: false
-    hashtags: ""
-  - username: "oakes.fiona"
+    hashtags: "#blacklivesmatter, #celinesciamma, #pedroalmodovar, #bongjoonho"
+  - username: "manishayadavsuresh"
     fullname: >-
-      Fiona Louise Oakes
+      Manisha Yadav
     bio: >-
-      Fastest female to run a marathon on each continent and the North Pole. 4x Guinness WR's. Owner @towerhillstables Vegan 47+ years.
+      Cinephile for Quality Cinema ,Zoophilist 😍 ,Vegan🌱, Traveller and Mental Health Advocate
     location: "India"
-    followers: 18337
-    engagement: 492
-    commentsToLikes: 0.041598
-    id: ck5bzn551rgwd0i11v3v5iiwh
+    followers: 63493
+    engagement: 723
+    commentsToLikes: 0.008545
+    id: ck15qawzx1yjz0i19pxexsg91
     verified: false
-    hashtags: "#bekind, #fionaoakes, #vegan, #change"
+    hashtags: "#throwbackthursday, #manishayadav, #thursdaythoughts, #beyourself"
+  - username: "yairs96"
+    fullname: >-
+      Yair Stern
+    bio: >-
+      Actor | Dancer | WiFi lover 🔅 let’s travel 📍#TLV #vegan🌱
+    location: "India"
+    followers: 9211
+    engagement: 716
+    commentsToLikes: 0.039640
+    id: ckf5p0uj84k4b0j23ybe056su
+    verified: false
+    hashtags: "#gaytelaviv, #gaytravelblog, #malemodelibg, #gaymodelmen"
+  - username: "max.solarink"
+    fullname: >-
+      ❊ Max Becker | Tattoo Artist ❊
+    bio: >-
+      🏠Solar Ink Tattoo Shop (Koblenz) Fineline Tattoo Artist ✍🏻 Open Mind | 22 | Traveller | Vegan 🌱 @kayjaykay_33 🔒 📩CONTACT: via DM
+    location: "India"
+    followers: 11503
+    engagement: 1015
+    commentsToLikes: 0.019341
+    id: ck6tmst3f8grp0j71jkd42zjd
+    verified: false
+    hashtags: "#rosetattoo, #tattooedgirl, #solarink, #tattoofineline"
+  - username: "urmikakkad2"
+    fullname: >-
+      Urmi Kakkad 2
+    bio: >-
+      Model • Photoshoot producer • Fashion art director • Content ideation • Wardrobe consultant • Rampwalk coach 🧿yoga + vegan + gluten-free
+    location: "India"
+    followers: 11531
+    engagement: 219
+    commentsToLikes: 0.103319
+    id: ck0tua20m69rv0i19ryi28lgd
+    verified: false
+    hashtags: "#model, #2021, #urmikakkad2, #gandhinagar"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Berlin In 2022
+title: Top 10 Instagram Influencers In Berlin In 2023
 description: >-
-  Find top Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #nature #dog.
+  Find top Instagram influencers in Berlin in 2023. Most popular hashtags: #ootd #berlin #love.
 platform: Instagram
-hits: 4160
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 4160 Instagram influencers like this in Berlin, Germany for you to work with.
+hits: 2840
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 2840 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "liamluca"
+  - username: "maurice_kapeace"
     fullname: >-
-      Liam
+      Maurice
     bio: >-
-      Berlin
+      BERLIN
     location: "Germany"
-    followers: 57116
-    engagement: 224
-    commentsToLikes: 0.068067
-    id: ck8t3nrpx3ufy0j78b6y2e2us
+    followers: 25531
+    engagement: 1473
+    commentsToLikes: 0.012840
+    id: ck8wgl77yhkis0j780alfq1sn
     verified: false
-    hashtags: ""
-  - username: "viktorherak"
-    fullname: >-
-      Viktor Herak
-    bio: >-
-      Berlin
-    location: "Germany"
-    followers: 18281
-    engagement: 939
-    commentsToLikes: 0.030493
-    id: ck0vxix1iz3xp0i19atd8n5kn
-    verified: false
-    hashtags: "#baduizm, #alevruhusar, #goodwitchesifuckwith"
-  - username: "elena._k._"
-    fullname: >-
-      Елена
-    bio: >-
-      🪐 Berlin
-    location: "Germany"
-    followers: 10619
-    engagement: 1201
-    commentsToLikes: 0.100173
-    id: ck9haf3sucaut0j780c3ehc90
-    verified: false
-    hashtags: "#moroccanoildach, #moroccanoil, #london, #arganeveryday"
-  - username: "_pavelhofman"
-    fullname: >-
-      Pavel Hofman
-    bio: >-
-      Berlin
-    location: "Germany"
-    followers: 7086
-    engagement: 665
-    commentsToLikes: 0.027552
-    id: ck6u5wudtc7qj0j71n6dzsvfa
-    verified: false
-    hashtags: "#kaltblut, #magazine, #zalando, #styledayfriday"
+    hashtags: "#sun, #love, #water, #holidayfeeling"
   - username: "irsonvladi"
     fullname: >-
       Irsonvladi
     bio: >-
       Berlin 🇩🇪🇷🇺
     location: "Germany"
-    followers: 65319
-    engagement: 401
-    commentsToLikes: 0.096172
+    followers: 65656
+    engagement: 305
+    commentsToLikes: 0.085829
     id: ck8tcto8i0mzm0j78rmjp0zmw
     verified: false
-    hashtags: "#blonde, #instagood, #blueeyes, #ootd"
-  - username: "agostinoiacurci"
+    hashtags: "#goodmorning, #holiday, #beautiful, #lifestyle"
+  - username: "teesytones"
     fullname: >-
-      Agostino Iacurci
+      Teesy
     bio: >-
       Berlin
     location: "Germany"
-    followers: 33840
-    engagement: 378
-    commentsToLikes: 0.019670
-    id: ck137e8igb3p80i19kz2ld7lk
+    followers: 35902
+    engagement: 605
+    commentsToLikes: 0.042166
+    id: ck15pjj6ay71g0i197yy3gm94
     verified: true
-    hashtags: "#agostinoiacurci, #contemporaryart, #painting, #fences"
-  - username: "ruby_marylennox"
-    fullname: >-
-      Studio Mary Lennox
-    bio: >-
-      Berlin
-    location: "Germany"
-    followers: 180796
-    engagement: 231
-    commentsToLikes: 0.013071
-    id: ck0w2knvpoudv0i19tonxgomt
-    verified: false
-    hashtags: "#les, #cartierparfums, #cartierparfum, #lesepuresdeparfum"
+    hashtags: "#croni, #ohneunswirdsstill, #alarmstuferot, #aktionsendepause"
   - username: "as_fokus"
     fullname: >-
       Andy
     bio: >-
       Berlin
     location: "Germany"
-    followers: 7412
-    engagement: 718
-    commentsToLikes: 0.019309
+    followers: 7413
+    engagement: 633
+    commentsToLikes: 0.021732
     id: ck5hgze6z5lcz0i11ex1hxvfu
     verified: false
-    hashtags: "#flyingdog, #beautifulnature, #photolovers, #sigma135art"
-  - username: "berlin"
+    hashtags: "#sigma500mmf4, #wildlifeanimals, #instamalinois, #sigma135art"
+  - username: "miriton_teamkuku"
     fullname: >-
-      Berlin
+      ♛TEAM KUKU♛
     bio: >-
-      🇩🇪 Berlin 🚀 The curated guide by @Bucketlisters 📷 Tag us to be featured
+      🇦🇱Berlin🇽🇰
     location: "Germany"
-    followers: 137648
-    engagement: 529
-    commentsToLikes: 0.022422
-    id: ck0tyirj7n00s0i19vcqo4j4y
+    followers: 27623
+    engagement: 932
+    commentsToLikes: 0.027876
+    id: ck5c62xuu4lwf0i11g4dvqmb5
     verified: false
-    hashtags: "#berlin, #architecture"
-  - username: "total_black"
+    hashtags: "#alhamdulillah, #teamkuku, #boxerschnitt"
+  - username: "vanessa.rhd"
     fullname: >-
-      BW
+      Vanessa 🦋
     bio: >-
-      Berlin
+      Berlin / Barcelona📍19yo @vannibunny26 @fashionnova ambassador
     location: "Germany"
-    followers: 5433
-    engagement: 514
-    commentsToLikes: 0.011662
-    id: ck5cd0bhgib4g0i11es4ylxga
+    followers: 1875590
+    engagement: 912
+    commentsToLikes: 0.007031
+    id: ck0w4s0dj04hc0i19mgbdpogi
     verified: false
-    hashtags: ""
+    hashtags: "#chngepartner"
+  - username: "jasmin_penelope"
+    fullname: >-
+      JASMIN HOPPE
+    bio: >-
+      A little slice of my world 🧸 Braunschweig | Berlin 📧jasmin@wecreate.media 🇹🇭 TikTok: jasmin.hoppe
+    location: "Germany"
+    followers: 169071
+    engagement: 1552
+    commentsToLikes: 0.011521
+    id: cl881ezup20qn0i23buptnhbg
+    verified: false
+    hashtags: "#stylediaries, #summervibes, #discoverunder50k, #beigeaesthetic"
+  - username: "nadinebreaty"
+    fullname: >-
+      nadinebreaty🐮
+    bio: >-
+      98 | Rostock~Berlin 🌱 -a girl who turns her weakness into a strength 📩 nadine@wecreate.media TikTok: 9.6M | YouTube: 2M❤️
+    location: "Germany"
+    followers: 1055519
+    engagement: 500
+    commentsToLikes: 0.006831
+    id: ck15u3ayrl7x00i193o3sjmup
+    verified: false
+    hashtags: "#explorepage, #oldmoney, #girl, #nature"
+  - username: "diese.marleen"
+    fullname: >-
+      marleen :(: ♒︎
+    bio: >-
+      18 | berlin
+    location: "Germany"
+    followers: 118197
+    engagement: 1065
+    commentsToLikes: 0.040694
+    id: ck6u18tyxkahl0j715wp7jta9
+    verified: false
+    hashtags: "#corona, #berlin, #marleen, #instagood"
+  - username: "sarafaber_"
+    fullname: >-
+      Sara Faber ✏️
+    bio: >-
+      ☁️ artist based in Berlin 🍂 character design & illustration 👇🏼 Patreon: tutorials, step-by-steps, videos & more
+    location: "Germany"
+    followers: 542282
+    engagement: 362
+    commentsToLikes: 0.003985
+    id: ck0w2inz0ok290i19jysqq32t
+    verified: false
+    hashtags: "#sketching, #drawingreels, #coloredinks, #characterdrawing"
 ---

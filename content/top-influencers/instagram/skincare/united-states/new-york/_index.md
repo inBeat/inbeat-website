@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In New York In 2022
+title: Top 10 Skincare Instagram Influencers In New York In 2023
 description: >-
-  Find top skincare Instagram influencers in New York in 2022. Most popular hashtags: #skincare #newyork #beauty #selflove.
+  Find top skincare Instagram influencers in New York in 2023. Most popular hashtags: #skincare #beauty #newyork #fashion.
 platform: Instagram
-hits: 187
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 187 Instagram influencers like this in New York, United States for you to work with.
+hits: 200
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 200 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "jaymefoxx"
+  - username: "mrkbay"
     fullname: >-
-      JAYME FOXX
+      Mark Bay
     bio: >-
-      𝐓𝐕 𝐇𝐎𝐒𝐓 / 𝐑𝐀𝐃𝐈𝐎 𝙇𝙤𝙨 𝘼𝙣𝙜𝙚𝙡𝙚𝙨, 𝘾𝙖 CMT - "Tattoo Titans" FreeForm - "Oh My Josh" Sirius XM - “Jason Ellis Show” @Onnit @local.human #Onnit #TeamGalaxy
+      Lifestyle | Wellness | Menswear 📍 New York themarkbay@gmail.com
     location: "United States"
-    followers: 79725
-    engagement: 215
-    commentsToLikes: 0.035113
-    id: ck0vx5otlx9jt0i1903rlwxqb
+    followers: 106015
+    engagement: 52
+    commentsToLikes: 0.056848
+    id: ck5cgiw7toxyn0i11se5oq9x2
+    verified: false
+    hashtags: "#outfitinspiration, #skincare, #newyork, #coffee"
+  - username: "alkaneminphotography"
+    fullname: >-
+      Alkan Emin Photography
+    bio: >-
+      Fashion and Portrait photographer. Creative director/Toronto. Co owner Me.modelmanagement #photographer #agent #animallovers
+    location: "United States"
+    followers: 20785
+    engagement: 117
+    commentsToLikes: 0.019048
+    id: ck0ueln47lmj80i19z48m6e73
+    verified: false
+    hashtags: "#art, #skincare, #newyork, #womensbeauty"
+  - username: "callmeflakaa_"
+    fullname: >-
+      Dhara🌙🦋✨
+    bio: >-
+      Drink water and mind your own businesses 😉 🧿🧿🧿🧿🧿🧿🧿 Publicidad DM 📩
+    location: "United States"
+    followers: 47588
+    engagement: 950
+    commentsToLikes: 0.010918
+    id: ck5q53l9mr9230i115mra2dnb
+    verified: false
+    hashtags: "#callmeflakaa, #curlyhair, #egoshoes, #model"
+  - username: "damn.davie"
+    fullname: >-
+      YOUTUBE: D A V I E  M U A
+    bio: >-
+      two toned brows r kinda my thing 🚨 #blacklivesmatter 💄 NC MUA ☎️ PR/ BUSINESS: damn.davie@gmail.com
+    location: "United States"
+    followers: 15861
+    engagement: 988
+    commentsToLikes: 0.026543
+    id: ck9wf04k1moa90j78n1l6zk9v
+    verified: false
+    hashtags: "#gayboy, #milanicosmetics, #anastasiabeverlyhills, #travel"
+  - username: "myskinincolor"
+    fullname: >-
+      Amna
+    bio: >-
+      Effortless Style | Beauty | Skincare 🗽 New York Life’s Moments in a Moodboard
+    location: "United States"
+    followers: 5918
+    engagement: 620
+    commentsToLikes: 0.184166
+    id: ckf5nenx9xxwh0j23223649ov
+    verified: false
+    hashtags: "#livetinted, #minimalstreetstyle, #moodboardaesthetic, #desifashionista"
+  - username: "thejenniferdoll"
+    fullname: >-
+      Jennifer Doll 🍒
+    bio: >-
+      Just a girl that doesn't know what to do with her hands in pictures travel•lifestyle 🍎NYC 📸 @gofginc @gofgincstaff 💌 jenniferkarenhing@gmail.com
+    location: "United States"
+    followers: 59504
+    engagement: 297
+    commentsToLikes: 0.006761
+    id: ckap20n9ywvel0i78094xj0hn
+    verified: false
+    hashtags: "#nyceats, #summerofnyc, #revolveme, #notmilk"
+  - username: "nicoleservinis"
+    fullname: >-
+      Nicole Servinis
+    bio: >-
+      📍| Toronto 🎥| Host/ Reporter/ Producer 🐤| @nicole.servinis 🤷🏼‍♀️| tiktok @nicole.servinis Email for inquiries!
+    location: "United States"
+    followers: 22453
+    engagement: 1167
+    commentsToLikes: 0.064556
+    id: ck5c9425jaqpv0i11xibcuz39
+    verified: false
+    hashtags: "#mentalhealth, #clean, #mfmexperiencebox, #skincare"
+  - username: "clarissalunanyc"
+    fullname: >-
+      CLARISSA LUNA
+    bio: >-
+      Celebrity Makeup 💫 Beauty Brand PD Consultant 💄🎨 she•her 🙋🏻‍♀️ Indigenous 🍎NY • LA☀️ Bookings/Partnerships: Bryan@uncommon-artists.com
+    location: "United States"
+    followers: 40664
+    engagement: 110
+    commentsToLikes: 0.102085
+    id: ck8swkw4gefjc0j78yu06a7v6
     verified: true
-    hashtags: "#lob, #skincare, #newyork, #hashtag"
-  - username: "drkassir"
+    hashtags: "#makeup, #queen, #love, #linkinbio"
+  - username: "cathdanneskiold"
     fullname: >-
-      Plastic Surgeon Dr. Kassir™
+      Cath A. Danneskiold-Samsøe
     bio: >-
-      3X Board Certified 🔝 Celebrity Facial Plastic Surgeon for 23 years Designer Rhinoplasty ® & Facelift ® 💡 DM Your Questions ⬇️ Click Link To Book
+      ◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ Content Creation & some moments in btw ◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️
     location: "United States"
-    followers: 295102
-    engagement: 104
-    commentsToLikes: 0.033622
-    id: ck6uh2q9y6n430j71iup3t8l4
-    verified: true
-    hashtags: "#drkassir, #dubai, #faceliftnj, #nosejob"
-  - username: "pink4passions"
-    fullname: >-
-      𝐊𝐈𝐌𝐁𝐄𝐑𝐋𝐘🍒
-    bio: >-
-      ◦ Beauty Content Creator ◦ Makeup & Skincare ◦ New York City ◦ Links/Codes ↓
-    location: "United States"
-    followers: 52163
-    engagement: 104
-    commentsToLikes: 0.106588
-    id: ck0tva9gbajlh0i19u3s5onlf
+    followers: 23948
+    engagement: 280
+    commentsToLikes: 0.026933
+    id: ck13cv1n62b2e0i19ohrdpdc6
     verified: false
-    hashtags: "#instamakeup, #skincareblogger, #colourpopme, #contentcreator"
-  - username: "leckieroberts"
+    hashtags: "#positivity, #people, #success, #fashionable"
+  - username: "patrick_xiong"
     fullname: >-
-      LECKIE
+      Patrick Xiong
     bio: >-
-      Serious Style for UNSERIOUS People 📍NYC | NC LeckieRoberts.com
+      Photographer
     location: "United States"
-    followers: 274323
-    engagement: 76
-    commentsToLikes: 0.029461
-    id: ck0ub3253dp120i19qq7ok91s
+    followers: 30923
+    engagement: 207
+    commentsToLikes: 0.015595
+    id: ck5bxhtcbnr5k0i11qhzwupgs
     verified: false
-    hashtags: "#seaisland, #brunomagli, #thecloisterseaisland, #partner"
-  - username: "wrenparker"
-    fullname: >-
-      Wren Parker
-    bio: >-
-      📍NYC🗽@musecurve stand-up comedy 🎤 Child of God 🌻 Self Love Suicide Prevention Lifeline: 1 (800) 273-8255 YOU ARE NOT ALONE
-    location: "United States"
-    followers: 25701
-    engagement: 245
-    commentsToLikes: 0.049606
-    id: ck5zor72dr5p50i14hied12mm
-    verified: false
-    hashtags: "#musecurve, #confidentcurves, #wrenparker, #thicc"
-  - username: "gracemedicalaesthetics"
-    fullname: >-
-      CT + NYC MedSpa 💉
-    bio: >-
-      Galderma USA 6th Top Injector 💎 RealSelf Top 25 Injector💉 Lip Queen 👑💋 CoolSculpting👙 Skincare + Lasers⚡️ Tattoo Removal 🐉 • SCHEDULE, FAQs, + MORE ⬇️
-    location: "United States"
-    followers: 49026
-    engagement: 128
-    commentsToLikes: 0.192988
-    id: ck14khzm7pl7h0i19ohhsker9
-    verified: false
-    hashtags: "#cheekfiller, #facialfillers, #restylane, #injectables"
-  - username: "thegloccult"
-    fullname: >-
-      Nicole
-    bio: >-
-      ✨Antisocialite✨ •Skincare/Beauty/Ramblings• •New York•
-    location: "United States"
-    followers: 15999
-    engagement: 393
-    commentsToLikes: 0.069831
-    id: ck6u1bjhqkr8b0j71fhp4bjii
-    verified: false
-    hashtags: "#laneigeus, #laneigegiftedme, #soldejaneirogiftedme, #octolyfamily"
-  - username: "thesilentceleb"
-    fullname: >-
-      Karyn Mercedeze
-    bio: >-
-      Mercedeze l #Netflix @thecirclenetflix Celeb @DaSquadMusicGroup 🎶 P.O Box 521206 Bronx, New York 10452
-    location: "United States"
-    followers: 153052
-    engagement: 74
-    commentsToLikes: 0.046126
-    id: ck5qa86y6f1ws0i11u6kllklp
-    verified: true
-    hashtags: "#lgbtq, #chillceleb, #influencer, #prayfornigeria"
-  - username: "tiffanypanhilason"
-    fullname: >-
-      🦋 Tiffany Panhilason Schmidt 🦋
-    bio: >-
-      🌟Expanding Consciousness through Love🌟 ✨Warrior of Light✨President @mentariusa Human Trafficking Survivor Empowerment Prgm 💫Creatrix @oneonesix.shop💫
-    location: "United States"
-    followers: 131395
-    engagement: 249
-    commentsToLikes: 0.017615
-    id: ck0tyzymjol690i19969lat8l
-    verified: false
-    hashtags: "#unity, #endhumantrafficking, #strength, #actorslife"
-  - username: "thisthatbeauty"
-    fullname: >-
-      Felicia  Walker
-    bio: >-
-      Skincare & Beauty Expert Founder @ThisThatBeauty Co Founder @faceflawlessskin Beauty I’m loving right now?👇🏾click here
-    location: "United States"
-    followers: 44965
-    engagement: 118
-    commentsToLikes: 0.105821
-    id: ck0ubquhjf1ma0i199rakxlkw
-    verified: true
-    hashtags: "#beautyinfluencer, #skincare, #grandelashmd, #ad"
+    hashtags: "#thewowmag, #diversity, #film, #nyc"
 ---

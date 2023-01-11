@@ -1,108 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Montreal In 2022
+title: Top 10 Beauty Instagram Influencers In Montreal In 2023
 description: >-
-  Find top beauty Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #mtlblogger #fallfashion.
+  Find top beauty Instagram influencers in Montreal in 2023. Most popular hashtags: #model #montreal #makeup #beauty.
 platform: Instagram
-hits: 77
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 77 Instagram influencers like this in Montreal, Canada for you to collaborate.
+hits: 24
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "heliahomam"
+  - username: "kateheartsbeauty"
     fullname: >-
-      ❂ Helia ❂
+      Kate
     bio: >-
-      .Singer and Song Writer . Music| Fashion | Beauty | Life Style 📍MTL “It Hurts So Much” is now available on Spotify.
+      📷 Content Creator ♥️ By reviews for dry combo skin. 💌 PR/Collab: DM or e-mail kateheartsbeauty1@gmail.com @fohr.co verified
     location: "Canada"
-    followers: 39667
-    engagement: 1137
-    commentsToLikes: 0.025910
-    id: ck9wj132l4tt00j784in1m8oz
+    followers: 4348
+    engagement: 561
+    commentsToLikes: 0.294710
+    id: ckap8t13xpr930i786w6qq1k5
     verified: false
-    hashtags: "#heliahomam, #singermtl, #fallvibes, #montreal2020"
-  - username: "sicilianudimontreal"
+    hashtags: "#glowyskin, #productphotography, #skincaregoals, #skincareblogger"
+  - username: "mommy_and_mira"
     fullname: >-
-      Nick Messina
+      Tahani.H 🇨🇦🇮🇶✨Ottawa♡Canada
     bio: >-
-      Born and raised in east-end Montreal from proud Sicilian origins! 🇮🇹sicilianudimontreal@gmail.com nick@sicilianudimontreal.com #sicilianudimontreal™
+      Fashion& Beauty|Lifestyle|Travel| Mum to #mommyyandmira 📍Ottawa•Montreal Beauty account: @withstyyle | 📧 For Business inquiries |
     location: "Canada"
-    followers: 17326
-    engagement: 407
-    commentsToLikes: 0.078162
-    id: ck13anyosrbfx0i1956vo20d1
+    followers: 52973
+    engagement: 122
+    commentsToLikes: 1.225108
+    id: ck6u7w19snz1x0j71cpu5wk7j
     verified: false
-    hashtags: "#mtl, #italians, #sicilianudimontreal, #happymothersday"
-  - username: "amoula__style"
-    fullname: >-
-      Amal Lassoued | Lifestyle
-    bio: >-
-      🇨🇦 | 📍Montréal 🌎🦋📸 Modest Fashion | Beauty | Travel | Food #montreal 📧 for collabs: amelhope.inc@gmail.com
-    location: "Canada"
-    followers: 20209
-    engagement: 257
-    commentsToLikes: 0.261554
-    id: ck0w0z38mgqtm0i19nkz6byk7
-    verified: false
-    hashtags: "#hijabfashionista, #ootdhijab, #hfinspo, #canadianbloggers"
-  - username: "sugarcoatedshushu"
-    fullname: >-
-      SUGARCOATEDSHUSHU
-    bio: >-
-      Shubana (she/her) Montreal based beauty + lifestyle content creator ↓ Promo codes ↓
-    location: "Canada"
-    followers: 5536
-    engagement: 1406
-    commentsToLikes: 0.452682
-    id: ckaoub0tczl0b0i78rnvd3r2c
-    verified: false
-    hashtags: "#orosabeauty, #summerfridays, #chantecaille, #herbivorebotanicals"
-  - username: "devine_beauty_by_t"
-    fullname: >-
-      𝔻𝕖𝕧𝕚𝕟𝕖 𝔹𝕖𝕒𝕦𝕥𝕪 𝔹𝕪 𝕋
-    bio: >-
-      •ALPHA FEMALE• 📍Canada|MTL 🛍@sheinofficial Code:4Devi15 💄Influencer|Blogger| Collabs&Inquires:👇🏼 💌Devinebeautybyt@gmail.com
-    location: "Canada"
-    followers: 161411
-    engagement: 62
-    commentsToLikes: 0.027407
-    id: ck0vvh4pkp49b0i198g0xa14y
-    verified: false
-    hashtags: "#beautybloggers, #montreal, #influencermarketing, #influencerstyle"
+    hashtags: "#15daysofgiving, #ad, #shein, #sheingals"
   - username: "joaohguedes"
     fullname: >-
-      The Diaries Project
+      Joao Guedes
     bio: >-
-      Ottawa Boudoir Photographer @cosmiaphotography
+      Intimate Portrait Photographer Photography Educator Ottawa | Montreal | Vancouver Booking April 2021
     location: "Canada"
-    followers: 60238
-    engagement: 346
-    commentsToLikes: 0.017500
+    followers: 59921
+    engagement: 323
+    commentsToLikes: 0.021439
     id: ck5q6dcmywy5a0i11ddpbgnxw
     verified: false
-    hashtags: "#model, #lifestyle, #ottawa, #morning"
-  - username: "demidiamandis"
-    fullname: >-
-      DEMI DIAMANDIS  |  STYLE INSPO
-    bio: >-
-      #fashion #beauty #lifestyle 💍SD pittsburgh | montreal @demi__makeup demitra.stappas@gmail.com
-    location: "Canada"
-    followers: 9794
-    engagement: 513
-    commentsToLikes: 0.062389
-    id: ck137fbn8b8pe0i19a2455nzh
-    verified: false
-    hashtags: "#misslola, #30daysofoutfits, #americanstyle, #mlpartner"
-  - username: "_curiozite_"
-    fullname: >-
-      Hanna🇭🇹
-    bio: >-
-      Natural Hair + Beauty +Lifestyle ✨Digital Creator 📍Montreal 📧 Curiozite@icould.com 🎬 YouTube video ⬇️
-    location: "Canada"
-    followers: 5333
-    engagement: 821
-    commentsToLikes: 0.049214
-    id: ckaovd2j542j00i78991331ho
-    verified: false
-    hashtags: ""
+    hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
   - username: "bylauragdiaz"
     fullname: >-
       Laura - Conscious Lifestyle
@@ -114,17 +54,77 @@ profiles:
     commentsToLikes: 0.244004
     id: ck13bok3gwepl0i19265dty97
     verified: false
-    hashtags: "#thetravelwomen, #womenwhoexplore, #womenwhotravel, #girlsthattravel"
-  - username: "westmountfashionista"
+    hashtags: "#travelandleisure, #mtlblogger, #travelinladies, #womenwhotravel"
+  - username: "moralview"
     fullname: >-
-      Jessica 📍 Montreal Blogger
+      Carlos Mora
     bio: >-
-      {Blogging since 2011} Montreal|Flowers| Fashion|Handbags|Travel|Beauty|Mum to #madamandme 💌:jessica@westmountfashionista.com
+      🇨🇴🇨🇦 Canada YYC, YOW Other account @morac3 DM for pics
     location: "Canada"
-    followers: 29716
-    engagement: 164
-    commentsToLikes: 0.097280
-    id: ck0tvzowhdhsy0i195evfsxa1
+    followers: 15180
+    engagement: 448
+    commentsToLikes: 0.054234
+    id: ck9hb13ozexi20j78vutjkasl
     verified: false
-    hashtags: "#wmftravels, #traveltuesday, #cccertified, #montrealjewelry"
+    hashtags: "#portraitpage, #montreal, #edits, #calgary"
+  - username: "mayawith_love"
+    fullname: >-
+      The Queen Maya 👑 الملكة مايا
+    bio: >-
+      Aphrodite of the 21st century! Singer 🎤 LINK in Bio...رابط التويتر تحت ناااار يراقبونني بشدة ويقلدونني بدقة🐆جيش مايا
+    location: "Canada"
+    followers: 152888
+    engagement: 193
+    commentsToLikes: 0.071413
+    id: ckap1ez0subag0i78z7d9uog6
+    verified: false
+    hashtags: "#body, #turkey, #gym, #hot"
+  - username: "anacruz"
+    fullname: >-
+      Ana Cruz🌶
+    bio: >-
+      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
+    location: "Canada"
+    followers: 21900
+    engagement: 202
+    commentsToLikes: 0.108976
+    id: ck0u9oei7ad2e0i198tdo1bex
+    verified: false
+    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
+  - username: "harleens3khon"
+    fullname: >-
+      Harleen Sekhon
+    bio: >-
+      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
+    location: "Canada"
+    followers: 3271
+    engagement: 966
+    commentsToLikes: 0.169015
+    id: ckf5o291c0m3d0j232y4q9oxq
+    verified: false
+    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
+  - username: "zelatakogan"
+    fullname: >-
+      Zelata Kogan
+    bio: >-
+      Based in Montreal 📍⁣⁣ Naturopathic student ⁣⁣🌿 How I met Dave👇🏻👇🏻
+    location: "Canada"
+    followers: 27410
+    engagement: 147
+    commentsToLikes: 0.125755
+    id: ck0w5crhg30dy0i19c333e796
+    verified: false
+    hashtags: "#gifted, #todaysatkins, #atkins, #lowcarb"
+  - username: "gabiliciousxsx"
+    fullname: >-
+      𝐠𝐚𝐛𝐢𝐥𝐢𝐜𝐢𝐨𝐮𝐬𝐱𝐬𝐱 🖤|𝑀𝒶𝓀𝑒𝓊𝓅 𝒜𝓇𝓉𝒾𝓈𝓉
+    bio: >-
+      ✨💖👼🏼 Angel @danessamyricksangels 💌 DM for business & PR TikTok : Gabiliciousxsx Self Taught 💄& 📸 📍🇨🇦 Montreal Discount Codes In Highlights ⬇️
+    location: "Canada"
+    followers: 11398
+    engagement: 387
+    commentsToLikes: 0.167061
+    id: ck5bu5ibeh70r0i11pv62kfct
+    verified: false
+    hashtags: "#afl, #ardellca, #morpheglamfam, #ttdeye"
 ---

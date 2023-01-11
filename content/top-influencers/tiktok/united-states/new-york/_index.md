@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In New York In 2022
+title: Top 10 TikTok Influencers In New York In 2023
 description: >-
-  Find top TikTok influencers in New York in 2022. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top TikTok influencers in New York in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
-hits: 1843
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 1843 TikTok influencers like this in New York, United States for you to connect with.
+hits: 1767
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform has 1767 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "brandon_woelfel"
+  - username: "nuzzi.cristiana"
     fullname: >-
-      Brandon Woelfel
+      Cristiana Nuzzi
     bio: >-
-      Photographer, New York Instagram: Brandonwoelfel ✨
+      team edward jason bateman fan page new york
     location: "United States"
-    followers: 466800
-    engagement: 2124
-    commentsToLikes: 0.028728
-    id: ckbbjoy4o82fm0j23413va6zm
+    followers: 3659
+    engagement: 2353
+    commentsToLikes: 0.080317
+    id: ckdsm9btmnkz60j23521rdq65
     verified: false
-    hashtags: "#fyp, #photography101, #photomagic, #photography"
-  - username: "hamadi_musa"
+    hashtags: "#fyp, #harrystyles, #onedirection, #thinkingabout"
+  - username: "deerodx"
     fullname: >-
-      Real Hamadi
+      Dee Rod (Danny)
     bio: >-
-      New York 📍🗽🇰🇪 Let’s get to 40k🥺 Subscribe ⬆️ Instagram ⬆️
+      New York 🏙 Liberal 🌐
     location: "United States"
-    followers: 36400
-    engagement: 2112
-    commentsToLikes: 0.104145
-    id: ckcuea9nee82y0j236gdycyj8
+    followers: 108100
+    engagement: 1766
+    commentsToLikes: 0.181585
+    id: ckbqq6r5yb0d80j23gov2apt7
     verified: false
-    hashtags: "#hamadimusa, #muslim, #allah, #muslimtiktok"
-  - username: "anissathefarmer"
-    fullname: >-
-      Anibster
-    bio: >-
-      African, Asian, Muslim Real New York bitch. Cash app: $anissatou
-    location: "United States"
-    followers: 15600
-    engagement: 2002
-    commentsToLikes: 0.062758
-    id: ckdhg7n35xmca0j23x5frhblw
-    verified: false
-    hashtags: "#nyc, #biden2020, #fyp, #duet"
-  - username: "dgibbsofficial"
-    fullname: >-
-      Dominic Gibbons
-    bio: >-
-      🤪New York🤪 Follow my Instagram @dominic.gibbons
-    location: "United States"
-    followers: 531600
-    engagement: 2698
-    commentsToLikes: 0.021879
-    id: ck8kob54zgxfp0j78ahb2fblo
-    verified: false
-    hashtags: "#foryou, #election, #fyp, #foryoupage"
-  - username: "joeynero"
-    fullname: >-
-      Joey Nero
-    bio: >-
-      18🇮🇹 New York snap-joenero14 insta-joey.nero Youtube in BIO!!!!
-    location: "United States"
-    followers: 3700000
-    engagement: 2004
-    commentsToLikes: 0.021739
-    id: ck8j96d65m0740j78b7x8kqf6
-    verified: true
-    hashtags: "#stitch, #fyp, #foryou, #bangenergy"
+    hashtags: "#chipsgottalent, #xyzbca, #tiktokggt, #liberal"
   - username: "nyknicks"
     fullname: >-
-      nyknicks
+      New York Knicks
     bio: >-
       The Official Tik Tok of the New York Knicks #NewYorkForever
     location: "United States"
-    followers: 256600
-    engagement: 1803
-    commentsToLikes: 0.030656
+    followers: 337400
+    engagement: 1712
+    commentsToLikes: 0.035279
     id: ck8sf869on1ns0j78nx8lhnqe
     verified: true
-    hashtags: "#newyork, #knicks, #foryou, #basketball"
+    hashtags: "#basketball, #newyorkforever, #knicks, #morph"
   - username: "kyle_krebs"
     fullname: >-
       Kyle Krebs
     bio: >-
-      New York Venmo: KyleKrebs11
+      New York Venmo: KyleKrebs11 17
     location: "United States"
-    followers: 69500
-    engagement: 1782
-    commentsToLikes: 0.056302
+    followers: 67700
+    engagement: 1616
+    commentsToLikes: 0.053433
     id: ck8z2oa1q65k60j78zwue4nsj
     verified: false
-    hashtags: "#morningcheer, #fyp, #actingchallenge, #duet"
-  - username: "jannahsbh"
+    hashtags: "#oliviarodrigo, #fyp, #rickrolled, #bagelbopscontest"
+  - username: "j_bardu"
     fullname: >-
-      Jannah🏀🦋
+      John Bardunias
     bio: >-
-      New York🗽 🇵🇸
+      Check the YouTube link☝️ 34//Néw York//Dad Inherently inappropriate ➡️18+⬅️
     location: "United States"
-    followers: 15200
-    engagement: 1619
-    commentsToLikes: 0.105477
-    id: ckcelyg2lw07a0j2355hxi85y
+    followers: 131800
+    engagement: 1410
+    commentsToLikes: 0.086861
+    id: ckcvhxxn6uv1v0j23udap2qxj
     verified: false
-    hashtags: "#foryoupage, #arab, #fyp, #nyc"
-  - username: "333eterna"
+    hashtags: "#oneofthem, #singlemom, #fyp, #wokeidiots"
+  - username: "rahulny"
     fullname: >-
-      eterna
+      rahulny
     bio: >-
-      20 | New York | IG: eternalucid
+      NEW YORK 🇺🇸 INSTA 👆 @rahulny FOLLOW @armaansbridal_ny
     location: "United States"
-    followers: 85100
-    engagement: 2376
-    commentsToLikes: 0.030317
-    id: ck83yt767vig60j78amjvc7xl
+    followers: 11800
+    engagement: 3800
+    commentsToLikes: 0.336072
+    id: ckae15ou3n7bd0i787ly904md
     verified: false
-    hashtags: "#happyhalloween, #fyp, #lgbtq, #yougotthis"
-  - username: "vkatart"
+    hashtags: "#newyork, #tiktoklover, #fashionista, #comm"
+  - username: "ali.hossain01"
     fullname: >-
-      🧢🧢🧢
+      ali.hossain01
     bio: >-
-      18 📍New York insta: vkatartzis 🖤
+      🔥From Bangladesh 🇧🇩❤️ 🔥Live in Bronx New York 🔥 ❤️❤️🇧🇩🇧🇩🇺🇸🇺🇸❤️❤️
     location: "United States"
-    followers: 81888
-    engagement: 1612
-    commentsToLikes: 0.044000
-    id: ck81s3zg2ptl80j78hticlk1o
+    followers: 10100
+    engagement: 3465
+    commentsToLikes: 0.292147
+    id: ckbr2a8ofj1dd0j235qjz7gkk
     verified: false
-    hashtags: "#promdiy, #cover, #travelthrowback, #wicked"
+    hashtags: "#tiktok, #alihossain01, #foryou, #foryoupage"
+  - username: "tehrealkitten"
+    fullname: >-
+      ⚡𝕂𝕚𝕥𝕥𝕖𝕟! 🐈
+    bio: >-
+      Nichole. 35. New York. CEO of #OOF - Mental Health Advocate - Be A 🌟 (she/her)
+    location: "United States"
+    followers: 20100
+    engagement: 2853
+    commentsToLikes: 0.135928
+    id: ckbfijh61ecv60j23isrmvqj4
+    verified: false
+    hashtags: "#intuition, #over30, #overshareinyourunderwear, #duet"
+  - username: "swervoballin"
+    fullname: >-
+      Swervo jay
+    bio: >-
+      8540legends🌝 New York 😈 My snaps is jaden5674
+    location: "United States"
+    followers: 8610
+    engagement: 2445
+    commentsToLikes: 0.075648
+    id: ckcu6m1c3bj3f0j23ao7kastd
+    verified: false
+    hashtags: "#getcrocd, #glowup, #foryoupage, #yasclean"
+  - username: "mdpiashchowdhury1226"
+    fullname: >-
+      Md Piash
+    bio: >-
+      Bangladeshi 🇧🇩 Lives In Queens New York Jamaica 🇱🇷 Bike Rider 🏍️
+    location: "United States"
+    followers: 5860
+    engagement: 2216
+    commentsToLikes: 0.086417
+    id: ckbql0van64h90j23eevywz2o
+    verified: false
+    hashtags: "#viral, #tiktokbdofficial, #muslim, #foryoupage"
 ---

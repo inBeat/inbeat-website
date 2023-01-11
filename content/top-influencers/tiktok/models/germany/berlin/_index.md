@@ -1,36 +1,48 @@
 ---
-title: Top 10 Models TikTok Influencers In Berlin In 2022
+title: Top 10 Models TikTok Influencers In Berlin In 2023
 description: >-
-  Find top models TikTok influencers in Berlin in 2022. Most popular hashtags: #berlin #foryou #fyp #model.
+  Find top models TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #berlin #viral.
 platform: TikTok
-hits: 15
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 15 TikTok influencers like this in Berlin, Germany for you to contact.
+hits: 13
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 13 TikTok influencers like this in Berlin, Germany for you to collaborate.
 profiles:
+  - username: "aldinzhc"
+    fullname: >-
+      aldinzhc🦖
+    bio: >-
+      19 y.o. Boy from Munich, Germany🇩🇪 with Balkan roots🇧🇦 Instagram: aldinzhc
+    location: "Germany"
+    followers: 95300
+    engagement: 1159
+    commentsToLikes: 0.024339
+    id: ck81t1952uo180j78bj17mth9
+    verified: false
+    hashtags: "#fashion, #fyp, #malemodel, #shooting"
+  - username: "miniaturwunderland"
+    fullname: >-
+      Miniatur Wunderland
+    bio: >-
+      Miniatur Wunderland, world's largest model railway in Hamburg/Germany.
+    location: "Germany"
+    followers: 125900
+    engagement: 1005
+    commentsToLikes: 0.009773
+    id: ck8ncnv7gf93b0j78t9ll0rw0
+    verified: false
+    hashtags: "#hamburg, #foryoupage, #viral, #fyp"
   - username: "11sevendome"
     fullname: >-
       11sevenDome
     bio: >-
-      🎥 Fotograf/Videograf 📸 IG 11sevendome 📨 Business: 11sevendome@gmail.com
+      Stay Creative! ✌️ Fotograf/Videograf 📸🎥
     location: "Germany"
-    followers: 17100
-    engagement: 1750
-    commentsToLikes: 0.026103
+    followers: 16900
+    engagement: 1020
+    commentsToLikes: 0.032166
     id: ck9r8vybqe0za0j786indd95h
     verified: false
-    hashtags: "#pose, #nature, #foryou, #fotograf"
-  - username: "marvinvlogt"
-    fullname: >-
-      Marvinvlogt
-    bio: >-
-      Snapchat: Marvin28307 ✅ YouTube 250.000 🎥Marvinvlogt ✅ Instagram Marvin_Vlogt ✅
-    location: "Germany"
-    followers: 74500
-    engagement: 1945
-    commentsToLikes: 0.017297
-    id: ckdck1hb3m1ih0j23q6i6xwbe
-    verified: false
-    hashtags: "#live, #opening, #supersell, #fortnite"
+    hashtags: "#fyp, #11sevendome, #photography, #filmmaker"
   - username: "astroo030"
     fullname: >-
       Astroo
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.033200
     id: cka0ivb9ufc0b0i7879w535d3
     verified: false
-    hashtags: "#bts, #berlin, #fun, #fyp"
-  - username: "alina_kossan"
+    hashtags: "#cute, #love, #style, #army"
+  - username: "erikschlz"
     fullname: >-
-      Alina Kossan
+      Erik Scholz
     bio: >-
-      Stylist/Model ⚡️IG:alina_kossan⚡️
+      22 y old | 📍Berlin 🤸🏻IG: @erik [100k]
     location: "Germany"
-    followers: 19000
-    engagement: 1142
-    commentsToLikes: 0.015573
-    id: ck9nbgnozb1rl0j78lq2d5ain
+    followers: 18000
+    engagement: 657
+    commentsToLikes: 0.050244
+    id: ckblf8xxy96n90j23a3hkxmgp
+    verified: true
+    hashtags: "#mode, #meinstyle, #style, #styling"
+  - username: "dancertascha"
+    fullname: >-
+      Natascha Gaass
+    bio: >-
+      Instagram ☝🏼 || German/Belorussian || Dancer || Fitness || Based in Berlin
+    location: "Germany"
+    followers: 3865
+    engagement: 561
+    commentsToLikes: 0.029380
+    id: ckbeymygbj8350j23nix7bt1v
     verified: false
-    hashtags: "#fashion, #vintage, #fyp, #berlin"
+    hashtags: "#russian, #fyp, #germany, #russia"
+  - username: "fabianxarnold"
+    fullname: >-
+      fabianxarnold
+    bio: >-
+      Fashion Model @dtmodelmanagment
+    location: "Germany"
+    followers: 331900
+    engagement: 799
+    commentsToLikes: 0.020047
+    id: ck8knhggnd6kq0j78cydbuu11
+    verified: false
+    hashtags: "#visionboard, #fabianxarnold, #trends, #model"
   - username: "marie.levskaia"
     fullname: >-
       Marie Levskaia
     bio: >-
       🧘🏼‍♀️Fitness-Model | Top-Performance | 💃🏻Dance Teacher 🇧🇾🇷🇺🇩🇪
     location: "Germany"
-    followers: 10500
-    engagement: 596
-    commentsToLikes: 0.029917
+    followers: 10800
+    engagement: 556
+    commentsToLikes: 0.032952
     id: ckbkyeds9ukgt0j237t16lk5r
     verified: false
-    hashtags: "#lach, #foryou, #fun, #viral"
-  - username: "miniaturwunderland"
+    hashtags: "#urlaub, #wei, #fun, #belarus"
+  - username: "bokibalboaa"
     fullname: >-
-      Miniatur Wunderland
+      Boris Boskovic
     bio: >-
-      Miniatur Wunderland, world's largest model railway in Hamburg/Germany.
+      Insta vom Capi Imitator: @089__leo ❤️
     location: "Germany"
-    followers: 48800
-    engagement: 1151
-    commentsToLikes: 0.008451
-    id: ck8ncnv7gf93b0j78t9ll0rw0
+    followers: 48700
+    engagement: 751
+    commentsToLikes: 0.013957
+    id: ckcuiqs2zg6te0j23c30m5vcg
     verified: false
-    hashtags: "#airport, #toiletpaper, #model, #stayathome"
-  - username: "alamancininkarisi"
+    hashtags: "#comedy, #croatia, #samra, #mois"
+  - username: "mellihontas"
     fullname: >-
-      Alamancinin Karisi
+      ↬❄️ Melissa ❄️↫
     bio: >-
-      
+      I n s t a g r a m ↑ 🇩🇪Ｇｅｒｍａｎ | Ｔｈａi 🇹🇭 Vinted: melli_x33x ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓
     location: "Germany"
-    followers: 2833
-    engagement: 532
-    commentsToLikes: 0.103947
-    id: ckdbsq17rcm1d0j23hkiv7t2p
+    followers: 17700
+    engagement: 961
+    commentsToLikes: 0.049452
+    id: ckbqdnhkrzm450j23he6knfd4
     verified: false
-    hashtags: "#fotogen, #urlaub, #berlintagundnacht, #gala"
-  - username: "thepeoplespotter"
-    fullname: >-
-      thePEOPLESPOTTERbyJM
-    bio: >-
-      The best fashion show is on the streets.
-    location: "Germany"
-    followers: 10300
-    engagement: 801
-    commentsToLikes: 0.044370
-    id: ckafukluiavlz0i786vkhc0xy
-    verified: false
-    hashtags: "#traumjob, #fashionweek, #bts, #berlin"
-  - username: "vvarholla"
-    fullname: >-
-      vvarholla
-    bio: >-
-      CHARLLÉ FOLLOW MY INSTAGRAM 🙏🏾 @vvarholla 🙏🏾
-    location: "Germany"
-    followers: 18700
-    engagement: 1450
-    commentsToLikes: 0.053010
-    id: ckbkyt88juxkj0j23ctk984gm
-    verified: false
-    hashtags: "#streetwear, #ootd, #vvarholla, #drip"
-  - username: "lauralatoofficial"
-    fullname: >-
-      LAURA LATO
-    bio: >-
-      German Artist & Songwriter. 🎤🎶 I‘m not a snack - I‘m the whole damn meal. 🍕
-    location: "Germany"
-    followers: 2973
-    engagement: 627
-    commentsToLikes: 0.161391
-    id: ck9nahybta8dh0j788n8n8oct
-    verified: false
-    hashtags: "#eswirdbunt, #fy, #fds, #fyp"
+    hashtags: "#trend, #heidiklum, #fyp, #dance"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In Malaysia In 2022
+title: Top 10 Music TikTok Influencers In Malaysia In 2023
 description: >-
-  Find top music TikTok influencers in Malaysia in 2022. Most popular hashtags: #foryou #fyp #foryoupage #duet.
+  Find top music TikTok influencers in Malaysia in 2023. Most popular hashtags: #tiktok #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 26
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 26 TikTok influencers like this in Malaysia for you to contact.
+hits: 20
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 20 TikTok influencers like this in Malaysia for you to contact.
 profiles:
   - username: "elaine_1019"
     fullname: >-
       Yee Leng Tan
     bio: >-
-      🇲🇾 || Musical.ly page TSW/TTH Smile here Aight, love yall so much❤️
+      🇲🇾 Musical.ly page TSW/TTH Glad you’re here❤️
     location: "Malaysia"
-    followers: 193100
-    engagement: 1543
-    commentsToLikes: 0.030751
+    followers: 277400
+    engagement: 1520
+    commentsToLikes: 0.024935
     id: ckbkqtz64l7py0j23kgtdmh4k
     verified: false
-    hashtags: "#makantime, #foryou, #tmbattle, #transition"
-  - username: "chinglook"
+    hashtags: "#transition, #cooksition, #cookathome, #foryou"
+  - username: "nknantha"
+    fullname: >-
+      Nk NanTha
+    bio: >-
+      "live with passion, live musical.ly" Malaysian boy 🇲🇾🇳🇿🇱🇰🖤🖤🖤🔥
+    location: "Malaysia"
+    followers: 54700
+    engagement: 626
+    commentsToLikes: 0.033933
+    id: ckbkr2mfxll5s0j23h2sz6j2o
+    verified: false
+    hashtags: "#dancersspeakfordancersthe"
+  - username: "chinglook66"
     fullname: >-
       陸玟靜
     bio: >-
       我是歌手 Singer，Musician，Producer，Song-writer
     location: "Malaysia"
-    followers: 49200
-    engagement: 619
-    commentsToLikes: 0.033850
+    followers: 49400
+    engagement: 1020
+    commentsToLikes: 0.019622
     id: ckbkf2vvf65so0j23vqey5yfj
     verified: false
-    hashtags: "#cmco, #stayathome, #cover, #stayhome"
-  - username: "nknantha"
-    fullname: >-
-      Nk NanTha
-    bio: >-
-      "live with passion, live musical.ly"
-    location: "Malaysia"
-    followers: 53100
-    engagement: 777
-    commentsToLikes: 0.025987
-    id: ckbkr2mfxll5s0j23h2sz6j2o
-    verified: false
-    hashtags: "#allaboutyou, #malaysianboy, #splitscreenchallenge, #alliwantforchristmas"
-  - username: "officialwmm"
-    fullname: >-
-      warnermusicmy
-    bio: >-
-      Music is always the answer!
-    location: "Malaysia"
-    followers: 252600
-    engagement: 661
-    commentsToLikes: 0.029245
-    id: cka0kmy9jnbdt0i78sxei4d2b
-    verified: true
-    hashtags: "#kpop, #v20bethefocusmy, #foryou, #fyp"
+    hashtags: "#cuticutimalaysia2020, #stayathome, #cover, #magicchange"
   - username: "shabbyofficial"
     fullname: >-
       Shabby De Cruz
     bio: >-
       ♥ Shabby.Official 🇲🇾 ♥ ♥ Musical.ly is my Love ♥ ♥ Duets are most welcomed ♥ ♥
     location: "Malaysia"
-    followers: 51500
-    engagement: 980
-    commentsToLikes: 0.011715
+    followers: 56200
+    engagement: 1110
+    commentsToLikes: 0.013014
     id: ckbqkl54c5o3v0j23r3ard2zk
     verified: false
-    hashtags: "#malaysiamuser, #duet, #thalabathy, #tamil"
-  - username: "fadilrezor"
-    fullname: >-
-      Fadil Rezor
-    bio: >-
-      Spreading Smiles I See My Life In Terms Of Music 🎶 Thanks For 8K Followers 🥺
-    location: "Malaysia"
-    followers: 8223
-    engagement: 1214
-    commentsToLikes: 0.023976
-    id: ckd6wn1cvslf30j231nj6luw8
-    verified: false
-    hashtags: "#chillwithtiktok, #iqiyistyle, #trending, #fyp"
+    hashtags: "#funpandrom, #master, #thalapathy, #indian"
   - username: "chishikuzan88"
     fullname: >-
       🥀Chishikuzan🐈
     bio: >-
-      ALL ABOUT ANIME🤹🏻‍♀️,FOOD🍰,RELAXING MUSIC🎹,follow me🥀 enjoy....
+      ALL ABOUT ANIME🤹🏻‍♀️,FOOD🍰,CARTOON,ANIMATION,RELAXING MUSIC🎹,🥀 just enjoy
     location: "Malaysia"
-    followers: 267500
-    engagement: 738
-    commentsToLikes: 0.009756
+    followers: 463200
+    engagement: 663
+    commentsToLikes: 0.010924
     id: ck83wx81cmpj00j7854rnh28j
     verified: false
-    hashtags: "#sadvideo, #shortvideo, #editvideo, #dumpling"
-  - username: "karthik_santiran"
+    hashtags: "#sounds, #missing, #cartoon, #missyou"
+  - username: "officialwmm"
     fullname: >-
-      KarthiK卐சந்திரன்
+      warnermusicmy
     bio: >-
-      வாழ்க தமிழ் வழர்க எண் தாய்மொழியே.musical.ly
+      Music is always the answer!
     location: "Malaysia"
-    followers: 12900
-    engagement: 495
-    commentsToLikes: 0.015292
-    id: ckbbm8scbafjj0j236mcxgoho
+    followers: 294300
+    engagement: 370
+    commentsToLikes: 0.028825
+    id: cka0kmy9jnbdt0i78sxei4d2b
+    verified: true
+    hashtags: "#vday2021, #supportlocal, #laguterbaru, #valentinesday"
+  - username: "fadilrezor"
+    fullname: >-
+      Fadil Rezor
+    bio: >-
+      Spreading Smiles I See My Life In Terms Of Music 🎶 Thanks For 100K Loves ♥️🥺
+    location: "Malaysia"
+    followers: 13700
+    engagement: 1130
+    commentsToLikes: 0.019525
+    id: ckd6wn1cvslf30j231nj6luw8
     verified: false
-    hashtags: "#stayathome, #tranding, #foryou, #foryoupage"
+    hashtags: "#fyp, #foryoupage, #tamiltiktok, #capcut"
+  - username: "zubir.khan"
+    fullname: >-
+      Z u b i r K h a n 🤍
+    bio: >-
+      🤍🦋 Thevadhai Official Music Video Link
+    location: "Malaysia"
+    followers: 512900
+    engagement: 989
+    commentsToLikes: 0.008696
+    id: ck85cmmoe2ewj0j786tqqp1e0
+    verified: false
+    hashtags: "#foryoupage, #tiktokmalaysia, #foryou, #fyp"
   - username: "lynbeannn"
     fullname: >-
       lynbeannn
     bio: >-
       Musically account Official Tiktok Account : Elynleonggg
     location: "Malaysia"
-    followers: 264000
-    engagement: 1155
-    commentsToLikes: 0.003665
+    followers: 261400
+    engagement: 1147
+    commentsToLikes: 0.003536
     id: ckbl6r5jz4ifm0j237g2no6su
     verified: true
-    hashtags: "#backtomusically, #tiktok, #malaysia, #tiktokxmalaysia"
-  - username: "lysspua_oe"
+    hashtags: "#tiktok, #malaysia, #tiktokxmalaysia, #karmasabitch"
+  - username: "toktitiktok"
     fullname: >-
-      Lyss Pua 水果妹
+      Siti Nurhaliza
     bio: >-
-      生活小知识 ❤️马来西亚 世界宣明会爱心大使 2017❤️
+      Malaysian Singer . Music Producer . Businesswoman . For more info click here👇🏻
     location: "Malaysia"
-    followers: 93800
-    engagement: 1301
-    commentsToLikes: 0.229814
-    id: ckbqeakcw030o0j23itnsgx3x
-    verified: false
-    hashtags: "#tiktok, #tiktokmalaysia, #malaysia, #oe"
+    followers: 807500
+    engagement: 503
+    commentsToLikes: 0.012797
+    id: ckaifgf36ws290i78324azjkv
+    verified: true
+    hashtags: "#fantastik, #takhtadunia, #manifestasiti2020, #abpbhkita2020"
 ---

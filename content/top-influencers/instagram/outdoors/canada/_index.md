@@ -1,130 +1,130 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Canada In 2022
+title: Top 10 Outdoors Instagram Influencers In Canada In 2023
 description: >-
-  Find top outdoors Instagram influencers in Canada in 2022. Most popular hashtags: #canada #exploremore #stayandwander.
+  Find top outdoors Instagram influencers in Canada in 2023. Most popular hashtags: #canada #summer #backcountry.
 platform: Instagram
-hits: 598
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 598 Instagram influencers like this in Canada for you to work with.
+hits: 320
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 320 Instagram influencers like this in Canada for you to work with.
 profiles:
   - username: "daniellegraham"
     fullname: >-
       Danielle Graham
     bio: >-
-      ▫️TV Host @etalkctv ▫️Mama to Bea @beatrixgraham 🐝 & Marigold 🌼 🎈Kitchen 🎈Cottage 🎈Garden 🎈Antiquing 🎈The Great Outdoors #TheFamilyGraham
+      ▫️TV Host @etalkctv ▫️Mama to Bea 👧🏼 & Marigold 👶🏼 🎈Kitchen 🎈Cottage 🎈Garden 🎈The Great Outdoors #TheFamilyGraham
     location: "Canada"
-    followers: 36800
-    engagement: 427
-    commentsToLikes: 0.061401
+    followers: 37511
+    engagement: 342
+    commentsToLikes: 0.046710
     id: ck14gyjzd7nlb0i19uctdihvx
     verified: true
-    hashtags: "#thefamilygraham, #sponsored, #heymarigoldie, #thebeanut"
+    hashtags: "#howyouweargap, #thebeanut, #ad, #thefamilygraham"
   - username: "reecejrowat"
     fullname: >-
       Reece Rowat
     bio: >-
       He/him Toronto/Vancouver Gay af Dance + Theatre + Fitness + Travel + Outdoors Repped by: @dacosta_talent, @quickballchange ✨💕✨
     location: "Canada"
-    followers: 2180
-    engagement: 1860
-    commentsToLikes: 0.109727
+    followers: 2231
+    engagement: 1779
+    commentsToLikes: 0.102659
     id: ck6to6gz8cdct0j715digvwoo
     verified: false
-    hashtags: "#gayboy, #gayselfie, #summergirl, #gaymuscle"
-  - username: "splorin.lauren"
+    hashtags: "#gayselfie, #summergirl, #summer2020, #love"
+  - username: "bexmax_"
     fullname: >-
-      Lauren Meeker Canada Travel
+      Rebecca🌻
     bio: >-
-      ٭ Travel ٭ Ski ٭ Adventure ٭ Surf ٭ Sustainability 🛶 Always outdoors 💍 #engaged 📍Whistler BC ⛷🏔 🇨🇦 Free presets, blog, etc↡↡
+      Doing things outdoors.🌲🎣🏹 A sucker for sunsets 🌅 🇺🇸🇨🇦📍Ontario, Canada. TJ & Milo 🐾💛
     location: "Canada"
-    followers: 98640
-    engagement: 108
-    commentsToLikes: 0.048283
-    id: ck13cpe2z1ie00i19eid5xmt7
-    verified: false
-    hashtags: "#earthoutdoors, #stayandwander, #keepitwild, #hiking"
-  - username: "waderobinson_druryoutdoors"
-    fullname: >-
-      Wade Robinson
-    bio: >-
-      Husband/Bowhunter/Iowa/Drury Outdoors🎥🏹🦌🦃
-    location: "Canada"
-    followers: 17734
-    engagement: 628
-    commentsToLikes: 0.020232
-    id: ck5c1eehov0ks0i11b2nszrh6
-    verified: false
-    hashtags: "#cabo, #dod, #deercast, #mexico"
-  - username: "bradflowerss"
-    fullname: >-
-      BRAD FLOWERDEW
-    bio: >-
-      outdoors | adventure whistler, canada
-    location: "Canada"
-    followers: 8227
-    engagement: 1423
-    commentsToLikes: 0.100705
-    id: ckaoqpqywjsjn0i78ne9fcw8b
+    followers: 51622
+    engagement: 434
+    commentsToLikes: 0.018574
+    id: ckap8y0m0qdpb0i788tepg3xn
     verified: false
     hashtags: ""
-  - username: "esawatzky75"
+  - username: "x.sleestak.x"
     fullname: >-
-      Erdman
+      SLEE • Eco Tattooer
     bio: >-
-      Non-profit page dedicated to the outdoors sharing some of my pic, and some of yours 🎣🦌🌅🏕 DM or tag 🏷 me @esawatzky75 for a chance to be featured.
+      Art, Boards & Outdoors ✌️ 1 Tattoo = 1 🌲Planted VANCOUVER sleestak.tattoos@gmail.com @thatgreengoodgood Co-owner @gratefulhousetoronto
     location: "Canada"
-    followers: 23685
-    engagement: 483
-    commentsToLikes: 0.032005
-    id: ck5pvgq4vhswi0i1148px91fe
-    verified: false
-    hashtags: "#canada, #catchandrelease, #musky, #walleyewednesday"
-  - username: "evelynbarkeyphoto"
-    fullname: >-
-      Evelyn Barkey 🌞
-    bio: >-
-      Hey, I’m Ev Photography + Brand Content for unrefined souls who feel deeply & love the outdoors↟☾ Home is 🇨🇦 Owner of @daughtersofindie + @therockpine
-    location: "Canada"
-    followers: 12339
-    engagement: 486
-    commentsToLikes: 0.028751
-    id: ck5hjfr8egjrm0i11gt9hk7ir
-    verified: false
-    hashtags: "#paradisefound"
-  - username: "thevicxen_huntress"
-    fullname: >-
-      Crystal
-    bio: >-
-      Sask 🇨🇦 @blackwidow_innovations @antlerobsessiontrophymix @rack_getter_scentsnlures @bushkingapparel Operating partner @wildside.outdoors
-    location: "Canada"
-    followers: 2648
-    engagement: 1498
-    commentsToLikes: 0.040173
-    id: ck6tzsbu1bkgb0j71bwakftq3
-    verified: false
-    hashtags: "#wildsideoutdoors, #bowhuntress, #saskatchewan, #canada"
-  - username: "lentaloutdoors"
-    fullname: >-
-      Len Talarico
-    bio: >-
-      Multi-species Angler 🎣 Always searching for a good walleye chop 🌊 Hunter/Outdoorsman 🛶🏕🏹 Will travel for fish 🌎 🚤 @legendboats
-    location: "Canada"
-    followers: 5260
-    engagement: 1586
-    commentsToLikes: 0.095109
-    id: ck6u1cnn0ky1k0j71cvntn0l3
+    followers: 43894
+    engagement: 437
+    commentsToLikes: 0.009466
+    id: ck5c5dps839ya0i11lesq0uta
     verified: false
     hashtags: ""
-  - username: "victoraerden"
+  - username: "hikingcorry"
     fullname: >-
-      Victor Aerden
+      Corry
     bio: >-
-      I create Photo and Video assets for adventurous brands. Passionate about exploring the great outdoors & going further @melanielynnn_ @roamcreative.ca
+      Living in the interior of British Columbia, Canada. The outdoors are what makes me happy!
     location: "Canada"
-    followers: 24825
-    engagement: 699
-    commentsToLikes: 0.084202
-    id: ck0uel9t9lktk0i19ezf96bmz
+    followers: 15143
+    engagement: 207
+    commentsToLikes: 0.035869
+    id: ck138ae9ofa850i19wosu5qir
     verified: false
-    hashtags: "#allaboutadventures, #pnwlife, #explorecanada, #borntoroam"
+    hashtags: "#summer, #explorekamloops, #canada, #explorebc"
+  - username: "monicawehlan"
+    fullname: >-
+      Monica Wehlan
+    bio: >-
+      Mexican🇲🇽 German 🇩🇪 Outdoors gal with a great passion for music, sports, nature & movies. 🌱 ⚽️ 🎵 🎥 📍Montreal, Canada 🇨🇦
+    location: "Canada"
+    followers: 276189
+    engagement: 77
+    commentsToLikes: 0.028659
+    id: ckapbpr9f0uke0i78xiz6fpvy
+    verified: false
+    hashtags: "#lesoleilbrille, #hiking, #summer, #quebec"
+  - username: "simon.dentremont"
+    fullname: >-
+      Simon d'Entremont
+    bio: >-
+      🇨🇦 Amateur who enjoys the outdoors and gathering photons of mainly wildlife and astro. Exploring Nova Scotia, Canada. DM for prints.
+    location: "Canada"
+    followers: 9208
+    engagement: 865
+    commentsToLikes: 0.043346
+    id: ck1363tlt4moj0i19etgdb7rb
+    verified: false
+    hashtags: "#audubonsociety, #bird, #canada, #best"
+  - username: "alexisoutdoors"
+    fullname: >-
+      Careena Alexis
+    bio: >-
+      🍁Ontario, Canada | Avid Canadian Outdoorswoman | Learning & Growing my knowledge as I go 🌲 alexisoutdoors.ca Latest Video 👇🏽
+    location: "Canada"
+    followers: 19189
+    engagement: 874
+    commentsToLikes: 0.033445
+    id: ck0w5vpbp5ne70i19gggvhpik
+    verified: false
+    hashtags: "#backcountrypaws, #sheexplores, #exploremore, #ontario"
+  - username: "styledtosparkle"
+    fullname: >-
+      Carlee K 🇨🇦 Modern Lifestyle
+    bio: >-
+      Girl mom who loves hockey & the outdoors Sharing Interior Design ▪️ DIY Renos ▪️ Travel & Wine Always Unapologetically Me 💌collabs@styledtosparkle.com
+    location: "Canada"
+    followers: 52891
+    engagement: 172
+    commentsToLikes: 0.097730
+    id: ckaotbkqhv6ue0i78e5r17yef
+    verified: false
+    hashtags: "#peepmypad, #canadianrockies, #albertaviews, #canadianblogger"
+  - username: "the_happiest_outdoors"
+    fullname: >-
+      🇨🇦   Kerstin   🌲
+    bio: >-
+      Vancouver Island, British Columbia, Canada, THE HAPPIEST OUTDOORS 🌲🌈🦅🐬🐞🌵🌻 Lost in the city. Only alive in nature. 🌲🌻🌳🌵🌿🍁
+    location: "Canada"
+    followers: 4312
+    engagement: 1699
+    commentsToLikes: 0.052232
+    id: ck5hffwa8xa5y0i11dz59cqag
+    verified: false
+    hashtags: "#canadiancoastguard"
 ---

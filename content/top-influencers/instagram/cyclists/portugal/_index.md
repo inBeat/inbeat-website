@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Portugal In 2022
+title: Top 10 Cyclists Instagram Influencers In Portugal in 2023
 description: >-
-  Find top cyclists Instagram influencers in Portugal in 2022. Most popular hashtags: #cycling #cyclist #cyclinglife.
+  Find top cyclists Instagram influencers in Portugal in 2023. Most popular hashtags: #cycling #cyclist #cyclinglife.
 platform: Instagram
 hits: 9
 text_top: Analyze the top-rated Instagram influencers on inBeat.

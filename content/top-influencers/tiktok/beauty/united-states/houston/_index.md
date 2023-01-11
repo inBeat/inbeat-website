@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Houston In 2022
+title: Top 10 Beauty TikTok Influencers In Houston In 2023
 description: >-
-  Find top beauty TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #beauty #foryou #makeup.
+  Find top beauty TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #beauty #foryoupage.
 platform: TikTok
-hits: 26
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 26 TikTok influencers like this in Houston, United States for you to contact.
+hits: 24
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 24 TikTok influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "richluxvlogs"
-    fullname: >-
-      RICH LUX
-    bio: >-
-      Just a clown
-    location: "United States"
-    followers: 6115
-    engagement: 742
-    commentsToLikes: 0.043702
-    id: cka0om60c4gt90i78xgbabpjs
-    verified: false
-    hashtags: "#richlux713, #richlux, #fashion, #houston"
-  - username: "curlyysenpai"
-    fullname: >-
-      Maria 💜
-    bio: >-
-      Texas weeb 🌵 | Latina 🇳🇮 | #BLM🤎 🖤 Anime is my job | 日本語を話します
-    location: "United States"
-    followers: 36000
-    engagement: 1626
-    commentsToLikes: 0.028030
-    id: ckd0i9a22ewe60j23xnnqyb57
-    verified: false
-    hashtags: "#japan, #naruto, #kawaii, #japanesefood"
   - username: "hala_st"
     fullname: >-
       Hala Taha
     bio: >-
       Houston 🚀 | Saudi 🐪 | Sudan ☀️
     location: "United States"
-    followers: 12200
-    engagement: 882
-    commentsToLikes: 0.064083
+    followers: 12000
+    engagement: 742
+    commentsToLikes: 0.062745
     id: ckd0i8unpevw70j23z7vvc01x
     verified: false
-    hashtags: "#foryourpage, #foryoupage, #fyp, #outwestchallenge"
-  - username: "themarketingchick"
+    hashtags: "#fyp, #foryoupage, #foryourpage, #letsfaceit"
+  - username: "vivaalaad"
     fullname: >-
-      Nicole Mathews
+      Dee
     bio: >-
-      ☕️Coffee Snob 🤓Marketing Guru 🤑Lover of luxe 💁🏽‍♀️Sarcasm Queen
+      I make bomb brows Follow to see future content 🔥
     location: "United States"
-    followers: 12900
-    engagement: 1169
-    commentsToLikes: 0.012130
-    id: ckcde6mi35z9j0j23gbjq1jgq
+    followers: 3721
+    engagement: 1058
+    commentsToLikes: 0.021966
+    id: ckbf5tmbov1sc0j23vzzcth9h
     verified: false
-    hashtags: "#foodie, #foryoupage, #beauty, #money"
-  - username: "maceymerolling"
-    fullname: >-
-      Macey Hodge
-    bio: >-
-      18 Houston Tx Apple Music: MaceyH1 🦋✨💋🧚🏻‍♂️🍄💫🤍🧿
-    location: "United States"
-    followers: 2377
-    engagement: 791
-    commentsToLikes: 0.114227
-    id: ckcv0n7nrn8zj0j23d88u2xie
-    verified: false
-    hashtags: "#fyp, #greenscreen, #doitbold, #duet"
+    hashtags: "#houston, #fyp, #ombrepowdereyebrows, #ombrepowderbrows"
   - username: "mr___fabulous"
     fullname: >-
       MRFABULOUS
     bio: >-
       I CREATE MAKEUP TUTORIALS. IG: @mr.fabulous 📍Houston,TX
     location: "United States"
-    followers: 6400
-    engagement: 1432
-    commentsToLikes: 0.040993
+    followers: 6439
+    engagement: 1226
+    commentsToLikes: 0.042562
     id: ck9kbo92um0d30j78ncc6kmd5
     verified: false
-    hashtags: "#fyp, #beauty, #freddykrueger, #freddykruegermakeup"
-  - username: "ashlynnhirth"
+    hashtags: "#louisvuitton, #fyp, #makeup, #fembot"
+  - username: "jus_kandice"
     fullname: >-
-      Ashlynn Hirth
+      Kandice
     bio: >-
-      Instagram: ashlynnhirth Houston
+      Pretty lil chic from da Southside Houston, TX (🦄 A safe place for BARBZ)
     location: "United States"
-    followers: 43800
-    engagement: 997
-    commentsToLikes: 0.038800
-    id: ckbf8f7w1ywb70j23kqsd2gmy
+    followers: 9800
+    engagement: 856
+    commentsToLikes: 0.046529
+    id: cka7ni16xx3pe0i786bohe0fs
     verified: false
-    hashtags: "#greenscreen, #transformation, #fyp, #foryou"
+    hashtags: "#foryoupage, #rhoa, #prayforvictoria, #fyp"
   - username: "mego__"
     fullname: >-
       Meg O.
     bio: >-
       beauty lover, mom of 3 having fun, sharing favorite things 📍Houston
     location: "United States"
-    followers: 5273
-    engagement: 693
-    commentsToLikes: 0.062829
+    followers: 5440
+    engagement: 691
+    commentsToLikes: 0.057289
     id: ck8rs69unxeww0j78a3ewrvuf
     verified: false
-    hashtags: "#quarantinelife, #momlife, #selfcare, #makeuplook"
-  - username: "organicskintherapy"
+    hashtags: "#makeup, #makeuphacks, #drugstoremakeup, #foryou"
+  - username: "ashlynnhirth"
     fullname: >-
-      Organic Skin Therapy Spa
+      Ashlynn Hirth
     bio: >-
-      Skincare Advisor•SPF Queen•Esthetician•Houston, TX 🇨🇦 🇺🇸 Venmo michee359
+      Houston
     location: "United States"
-    followers: 20800
-    engagement: 149
-    commentsToLikes: 0.042028
-    id: ckai5kgzyshx50i78l0jm1p1r
+    followers: 43600
+    engagement: 929
+    commentsToLikes: 0.031179
+    id: ckbf8f7w1ywb70j23kqsd2gmy
     verified: false
-    hashtags: "#estheticianlife, #selfcaretips, #skincareproducts, #skincareroutine"
-  - username: "kthabarbz"
+    hashtags: "#texas, #transformation, #greenscreen, #fyp"
+  - username: "xoxohannahluv"
     fullname: >-
-      kthabarbz
+      (:
     bio: >-
-      College Student | 20 | HTX Fashion|Hair|Beauty|Nails|Cooking|Fun|Decor
+      hotel without the el<3 Htown📍💋
     location: "United States"
-    followers: 88500
-    engagement: 500
-    commentsToLikes: 0.013545
-    id: ckdt0dt4mrjre0j23o6v7yhic
+    followers: 19200
+    engagement: 1070
+    commentsToLikes: 0.032297
+    id: ckbl4dmhf1wct0j23diqll2g6
     verified: false
-    hashtags: "#foryourpage, #viral, #foodtiktok, #blacktiktok"
+    hashtags: "#houston, #936, #foryoupage, #texas"
+  - username: "statickiss"
+    fullname: >-
+      ⚡️💋Statickiss
+    bio: >-
+      
+    location: "United States"
+    followers: 2831
+    engagement: 1040
+    commentsToLikes: 0.066030
+    id: ck8key137bkvl0j78fmbdikhb
+    verified: false
+    hashtags: "#nature, #explore, #viral, #hike"
+  - username: "9mayraalejandra"
+    fullname: >-
+      Beauty_by_Mayra
+    bio: >-
+      
+    location: "United States"
+    followers: 3369
+    engagement: 639
+    commentsToLikes: 0.067866
+    id: cka0kfe7pmebm0i78ye4t7ocm
+    verified: false
+    hashtags: "#25, #mexico, #norte, #burpees"
+  - username: "domo_arigatoo06"
+    fullname: >-
+      dominiquechilli
+    bio: >-
+      BANNED AT 10k DUET KING IS BACK! JOIN THE DOMOGANG! F.O.E Subscribe to my YT!
+    location: "United States"
+    followers: 37600
+    engagement: 1345
+    commentsToLikes: 0.040002
+    id: ckbf5ti13v19u0j23kc0nfoad
+    verified: false
+    hashtags: "#blacklivesmatter, #weeb, #mom, #india"
 ---

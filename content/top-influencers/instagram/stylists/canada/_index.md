@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Canada In 2022
+title: Top 10 Stylists Instagram Influencers In Canada In 2023
 description: >-
-  Find top stylists Instagram influencers in Canada in 2022. Most popular hashtags: #ad #halloween #sponsored.
+  Find top stylists Instagram influencers in Canada in 2023. Most popular hashtags: #haircut #summerblonde #uberliss.
 platform: Instagram
-hits: 185
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 185 Instagram influencers like this in Canada for you to contact.
+hits: 65
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 65 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "claudianovoa_01"
-    fullname: >-
-      CLAUDIA NOVOA
-    bio: >-
-      Stylist | @claudian_stylist X X l l l BE A LIGHT IN THIS WORLD💫
-    location: "Canada"
-    followers: 17955
-    engagement: 451
-    commentsToLikes: 0.596824
-    id: ck14gykaa7nmo0i19t2t29tou
-    verified: false
-    hashtags: "#downtown, #calaveras, #cloudscape, #halloween"
-  - username: "ericaonfashion"
-    fullname: >-
-      Erica Wark
-    bio: >-
-      Talking and sharing everything fashion. Celebrity Stylist. Fashion Expert.
-    location: "Canada"
-    followers: 38860
-    engagement: 234
-    commentsToLikes: 0.091601
-    id: ck14h64zz8q5z0i19y8u8wbpl
-    verified: false
-    hashtags: "#styletips, #warkit, #ad, #denim"
-  - username: "styleconceptblog"
-    fullname: >-
-      SC BY ELENA | CANADIAN BLOGGER
-    bio: >-
-      𝕋𝕠𝕣𝕠𝕟𝕥𝕠 ⁣FASHION ★ BEAUTY ★ LIFESTYLE Home + Fashion Stylist and Content Creator Inquiries ✉️ style.concept.hd@gmail.com ⇩ THE LATEST 👩🏼‍💻
-    location: "Canada"
-    followers: 20979
-    engagement: 288
-    commentsToLikes: 0.236058
-    id: ck5cdo8vzjho50i111icuxhgi
-    verified: false
-    hashtags: "#gorgeousgrowth, #liketkit, #diyprojects, #viviscaljourney"
-  - username: "shann.hardy"
-    fullname: >-
-      Shannon Hardy
-    bio: >-
-      ☆ Ryerson Fashion Design Grad ☆ Designer • Stylist ☆ 💍 @sir.jasonhardy
-    location: "Canada"
-    followers: 3325
-    engagement: 1058
-    commentsToLikes: 0.430886
-    id: ck5zu70ma1sz10i14xj1wr3nm
-    verified: false
-    hashtags: "#tagtowin, #gifted, #supportlocal, #ariaclothingboutique"
   - username: "styledbyamrita"
     fullname: >-
-      Amrita | Wardrobe Stylist
+      Amrita 🌸
     bio: >-
-      LA | Vancouver Published Wardrobe Stylist | Personal Shopper | PR Styledbyamrita@gmail.com 🐶 @charliethecavapooh
+      LA | Vancouver Published Wardrobe Stylist | PR | styledbyamrita@gmail.com
     location: "Canada"
-    followers: 13776
-    engagement: 644
-    commentsToLikes: 0.057976
+    followers: 15572
+    engagement: 471
+    commentsToLikes: 0.052211
     id: ck15pzh1f0ec70i19leafodw0
     verified: false
-    hashtags: "#bebebabe, #cozyvibes"
-  - username: "luna_horror"
+    hashtags: "#alohouse"
+  - username: "arshmultanii"
     fullname: >-
-      𝕮𝖆𝖗𝖎𝖘𝖘𝖆 🌙
+      𝐀𝐑𝐒𝐇 𝐌𝐔𝐋𝐓𝐀𝐍𝐈
     bio: >-
-      ✨Hi kids. Do you like violence?✨ ✨Glorified garbage collector. ✨Licensed hair colourist / stylist
+      vancouver, bc • 6’2” influencer, stylist, owner @offwhitefilms and more use #yourstyleplug to get noticed email to work 🤍
     location: "Canada"
-    followers: 17868
-    engagement: 495
-    commentsToLikes: 0.047793
-    id: ckaoulbw70rkx0i78gy6ly14q
+    followers: 10106
+    engagement: 1485
+    commentsToLikes: 0.041385
+    id: ck9whlru1yg5q0j78b0c5bxrf
     verified: false
-    hashtags: "#horrormovies, #horrorhome, #horrorfan, #vhs"
-  - username: "kristenmcgowan"
+    hashtags: "#trueoutfit, #modishgallery, #trillestoufit, #urbanstylemens"
+  - username: "bohemewandering"
     fullname: >-
-      Kristen McGowan
+      Leilani ⋒ piscean mermaid
     bio: >-
-      💁🏼‍♀️🏠🔨 Interior Stylist + YouTuber YouTube: Kristen McGowan Business inquiries: digitmgmt@gmail.com Blog: www.kristenmcgowan.com
+      Philosophic spiritualist . Poet & speaker. Channeller. Vintage curator & stylist. Collage artist. Microdosing with @blumlabss - “LEILANI15” 🍄
     location: "Canada"
-    followers: 191805
-    engagement: 829
-    commentsToLikes: 0.007585
-    id: ck5py2eu9tzot0i11krym6sfk
+    followers: 18968
+    engagement: 75
+    commentsToLikes: 0.136602
+    id: ck5hm2zualaad0i116k5nnxmm
     verified: false
-    hashtags: "#onemorocco, #ad, #blackouttuesday, #ourarticle"
-  - username: "alexiedesjean"
+    hashtags: "#islandgirl, #yyj, #vintagestyle, #bohemehoney"
+  - username: "aurelafashionista"
     fullname: >-
-      Alexie Desjean ☾
+      Aurela Nasedkin
     bio: >-
-      •Barbière/Styliste chez Jimlebarbier •Pour un rendez-vous 👇🏼
+      STYLIST 📩 aurelafashionista@gmail.com
     location: "Canada"
-    followers: 10004
-    engagement: 778
-    commentsToLikes: 0.045185
-    id: ckf5lfb5kpdcs0j23q8fybbkx
+    followers: 149371
+    engagement: 46
+    commentsToLikes: 0.144150
+    id: ck0tv8m4iabzl0i19t4aimlpi
     verified: false
-    hashtags: ""
-  - username: "blondehanes"
+    hashtags: "#haircut, #hairtransformation, #maxmara"
+  - username: "josiestevens"
     fullname: >-
-      sara wells • toronto blogger
+      Josie Stevens
     bio: >-
-      Effortless & Affordable Style ✨ Wife 💞 Mama to Poppy🤱🏼Rescue Dogs 🐾 E-comm Stylist👗 @urbanplanet 📍Toronto ⬇️ My GAD Story ⬇️ #whatsarawears
+      Fashion designer & stylist, interior designer, MUA. TV Personality-E!’s “Married to Rock”.
     location: "Canada"
-    followers: 6423
-    engagement: 788
-    commentsToLikes: 0.202421
-    id: ck14hujp9c7nx0i19asz7qr08
-    verified: false
-    hashtags: "#poppyjoywells, #whatsarawears, #gifted, #loveyourstretchmarks"
-  - username: "jennabitovenaumovich"
+    followers: 46142
+    engagement: 290
+    commentsToLikes: 0.062584
+    id: ck0vw9j9wspmu0i1933ue7baz
+    verified: true
+    hashtags: "#youractionssavelives, #rockthevote, #dollskill, #slowthespread"
+  - username: "hoodhippiespice"
     fullname: >-
-      Jenna Bitove Naumovich
+      🦋SUZUKI🦋
     bio: >-
-      Personal Shopper & Stylist ❤️
+      🧚🏾 we connected bb GROOVY STYLIST expressive🎍 @spice.disposablez☮️
     location: "Canada"
-    followers: 17265
-    engagement: 366
-    commentsToLikes: 0.056961
-    id: ck137xel1diye0i197tz0xm9d
+    followers: 6544
+    engagement: 957
+    commentsToLikes: 0.067502
+    id: ck5bukbt3hxw90i11rm05cbk2
     verified: false
-    hashtags: "#cafa, #wearcanadian, #legallyblonde, #happyhalloween"
+    hashtags: "#pride"
+  - username: "capricestylist"
+    fullname: >-
+      CAPRICE CONNERS
+    bio: >-
+      Creative Director | Fashion Stylist Editorial | TV & Film 🎞 Mama to Everly Blue 🦋 For Inquiries & Partnerships 📧 anna@sinclaircreativeagency.com
+    location: "Canada"
+    followers: 9961
+    engagement: 353
+    commentsToLikes: 0.087705
+    id: ck5c6l8jg5o6t0i11vqijxo04
+    verified: false
+    hashtags: "#canadafashion, #fashionedit, #streetwearculture, #fashionstylists"
+  - username: "karlgbrown"
+    fullname: >-
+      KARL BROWN
+    bio: >-
+      co-founder | stylist + colorist @happybirthdaysalon
+    location: "Canada"
+    followers: 24392
+    engagement: 37
+    commentsToLikes: 0.030791
+    id: ck6tmbdi57j1q0j71ik5v7oem
+    verified: false
+    hashtags: "#karlgbrown, #texture, #kevinmurphy, #longlayers"
+  - username: "chantal_li"
+    fullname: >-
+      Chantal Li
+    bio: >-
+      Creative. Blogger. Stylist. Photographer 小红书/微博:chantal_li contact: chantal_li@live.ca
+    location: "Canada"
+    followers: 188522
+    engagement: 87
+    commentsToLikes: 0.010503
+    id: ck135nbq429o20i19c34q9tw6
+    verified: false
+    hashtags: "#ad, #armanibeauty, #lipmaestro, #armanimyway"
+  - username: "terianncarty"
+    fullname: >-
+      Food Photographer + Stylist
+    bio: >-
+      👩🏻‍🍳Vegan Recipe Developer & Food Photographer 📝Contributor @bestofvegan 📷Food stylist 🧘🏻‍♀️Yoga Teacher📍Toronto
+    location: "Canada"
+    followers: 27667
+    engagement: 268
+    commentsToLikes: 0.272545
+    id: ck5zzcswubhtr0i14rz5mp0un
+    verified: false
+    hashtags: "#vegansofig, #easyvegan, #glutenfreevegan, #foodphotography"
 ---

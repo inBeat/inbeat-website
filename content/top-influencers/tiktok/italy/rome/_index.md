@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Rome In 2022
+title: Top 10 TikTok Influencers In Rome In 2023
 description: >-
-  Find top TikTok influencers in Rome in 2022. Most popular hashtags: #duet #greenscreen #fyp.
+  Find top TikTok influencers in Rome in 2023. Most popular hashtags: #perte #foryou #fyp #duet.
 platform: TikTok
-hits: 91
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 91 TikTok influencers like this in Rome, Italy for you to connect with.
+hits: 83
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 83 TikTok influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "noblethomas96"
-    fullname: >-
-      Noble Thomas
-    bio: >-
-      💪BEAST💪 ❤💚❤💚❤💚 🇮🇳EKM🇮🇹ROME
-    location: "Italy"
-    followers: 2909
-    engagement: 3134
-    commentsToLikes: 0.258550
-    id: cka84abbfsr6e0i78jeiy2wuv
-    verified: false
-    hashtags: "#beard, #pearl2060, #fitness, #mallu"
-  - username: "itsmearien"
-    fullname: >-
-      arianna.petricca
-    bio: >-
-      ☛ rome ☚ ✿ 22 yo ✿ ⭑cosplayer & actress⭑ » 10%off with *itsmearien* on @ttdeye «
-    location: "Italy"
-    followers: 124700
-    engagement: 2034
-    commentsToLikes: 0.014592
-    id: ckbex3ivah2l50j23ueua8em2
-    verified: false
-    hashtags: "#unboxing, #halloween, #perte, #makeup"
-  - username: "gioiaxoxo1"
-    fullname: >-
-      Gioiaxoxo1
-    bio: >-
-      rome 🇮🇹 🌟road to 900k🌟
-    location: "Italy"
-    followers: 844700
-    engagement: 2174
-    commentsToLikes: 0.008365
-    id: ckbwbh1l60oty0j23bc3hhegm
-    verified: false
-    hashtags: "#harrypotter, #fyp, #dracotok, #dracomalfoy"
-  - username: "federica.tardia"
-    fullname: >-
-      Federica Tardia
-    bio: >-
-      📍Rome CURIOSITÀ NUOVE OGNI GIORNO📌 instagram: @federicatardia🌟⬇️ sun
-    location: "Italy"
-    followers: 401000
-    engagement: 1703
-    commentsToLikes: 0.057892
-    id: ckc82aeja32et0j23e1hwrzx8
-    verified: false
-    hashtags: "#indovinello, #losapevi, #federicatardia, #impararediverte"
-  - username: "matteo.filipponi"
-    fullname: >-
-      Matteo Filipponi🦊
-    bio: >-
-      👉🏻17 y.o 👉🏻Rome 👉🏻Instagram: @matteofilipponii
-    location: "Italy"
-    followers: 37200
-    engagement: 2155
-    commentsToLikes: 0.013987
-    id: ck9v7hwmi63d10j786cwg5m11
-    verified: false
-    hashtags: "#foryoupage, #foryou, #duet, #greenscreen"
-  - username: "babyy.yla"
-    fullname: >-
-      Ilaria Perfetti
-    bio: >-
-      canto sempre scusate 📍Rome, Italy 🇮🇹 instagram: baby.yla
-    location: "Italy"
-    followers: 745000
-    engagement: 2469
-    commentsToLikes: 0.005975
-    id: ck8ttecjqruv40j78dzckxr92
-    verified: false
-    hashtags: "#adv, #duet, #blooper, #perte"
   - username: "matthewbolds"
     fullname: >-
       Matthew Bolds
     bio: >-
-      Rome - Italy 🇮🇹 19y - Italian🚶🏻‍♂️ 📩matthewbolds.business@gmail.com📩
+      Rome - Italy 🇮🇹 20y - Italian🚶🏻‍♂️ 📩matthewbolds.business@gmail.com📩
     location: "Italy"
     followers: 1100000
-    engagement: 1959
-    commentsToLikes: 0.009338
+    engagement: 2320
+    commentsToLikes: 0.020411
     id: ck83k081i8ano0j78oxaq1xsc
     verified: true
-    hashtags: "#doubleyourimpact, #foryou, #fyp, #foryoupage"
+    hashtags: "#drawing, #fyp, #trend, #spin"
+  - username: "noblethomas96"
+    fullname: >-
+      Noble Thomas
+    bio: >-
+      ❤💚❤💚❤💚 🇮🇳EKM🇮🇹ROME
+    location: "Italy"
+    followers: 2926
+    engagement: 2610
+    commentsToLikes: 0.188259
+    id: cka84abbfsr6e0i78jeiy2wuv
+    verified: false
+    hashtags: "#malyalamcomedy, #kalkki, #nofilter, #fun19"
+  - username: "matteo.filipponi"
+    fullname: >-
+      Matteo Filipponi🦊
+    bio: >-
+      👉🏻Rome 👉🏻Instagram: @matteofilipponii
+    location: "Italy"
+    followers: 66600
+    engagement: 1892
+    commentsToLikes: 0.016562
+    id: ck9v7hwmi63d10j786cwg5m11
+    verified: false
+    hashtags: "#foryou, #foryoupage, #perte, #greenscreen"
+  - username: "bennyy._.cos"
+    fullname: >-
+      🖤📓ᵇᵉⁿⁿʸ💭🥀
+    bio: >-
+      🤸rome🌹 💗she/her💙 🎭cosplayer💭 ✊🏻if you're racist go away✊🏿
+    location: "Italy"
+    followers: 15700
+    engagement: 1945
+    commentsToLikes: 0.016929
+    id: ckavm1catvnsr0j23yzehap3j
+    verified: false
+    hashtags: "#weeb, #otaku, #fyp, #manga"
   - username: "_labruni"
     fullname: >-
       Francesca Bruni Ercole
     bio: >-
       18 years old / Italy, Rome 🇮🇹 Singer,actress,painter collab. in DM
     location: "Italy"
-    followers: 80300
-    engagement: 2240
-    commentsToLikes: 0.010039
+    followers: 81100
+    engagement: 1809
+    commentsToLikes: 0.019910
     id: ck9ey5u17ueo80j781aqix4nu
     verified: false
-    hashtags: "#curvy, #duet, #halloween, #makeup"
-  - username: "benedettafortini"
+    hashtags: "#hogwarts, #greenscreen, #piton, #duet"
+  - username: "babyy.yla"
     fullname: >-
-      benedetta fortini
+      Ilaria Perfetti
     bio: >-
-      🖤 insta: benedettafortini rome📍
+      canto sempre scusate 📍Rome, Italy 🇮🇹 instagram: baby.yla
     location: "Italy"
-    followers: 307000
-    engagement: 1986
-    commentsToLikes: 0.007679
-    id: ckbqc601cy9m10j23mw3q4hcb
+    followers: 822100
+    engagement: 2509
+    commentsToLikes: 0.005716
+    id: ck8ttecjqruv40j78dzckxr92
     verified: false
-    hashtags: "#greenscreen"
-  - username: "flaviaadonnini"
+    hashtags: "#ironia, #stitch, #bozza, #perte"
+  - username: "so.gian"
     fullname: >-
-      Flavia Donnini
+      Gianmarco Rottaro
     bio: >-
-      Rome, Italy❤️ collabs: flaviadonnini434@gmail.com
+      😈21 years 🌎 Italy,Rome 🔥Road to 3M🔥
     location: "Italy"
-    followers: 116200
-    engagement: 1961
-    commentsToLikes: 0.014206
-    id: ck8w4nlw58swv0j78phvc68sb
+    followers: 2900000
+    engagement: 2110
+    commentsToLikes: 0.005238
+    id: ck83k4iae99h50j78rcfi1slf
+    verified: true
+    hashtags: ""
+  - username: "lady_giorgia"
+    fullname: >-
+      giorgia🌈
+    bio: >-
+      Insta: lady_giorgia_official rome|milan📍 🌈🌈🌈🌈
+    location: "Italy"
+    followers: 1700000
+    engagement: 1951
+    commentsToLikes: 0.004516
+    id: ck8zbdu0251qs0j78v8jqqeps
     verified: false
-    hashtags: "#greenscreen, #duetto, #bulletproof"
+    hashtags: "#donnecheodianoledonne, #cuorevstesta, #foryou, #tecla"
+  - username: "daviddialuce"
+    fullname: >-
+      David Dialuce
+    bio: >-
+      Rome 🇮🇹/🇺🇸 Seguimi su Instagram❤️
+    location: "Italy"
+    followers: 14600
+    engagement: 1163
+    commentsToLikes: 0.098989
+    id: ck8qh4zfw3k360j78fk1fjom9
+    verified: false
+    hashtags: "#viral, #lazio, #calcio, #dzeko"
+  - username: "meriamamarir"
+    fullname: >-
+      Meriam Amarir
+    bio: >-
+      16y.o 📍Rome,Italy Su Instagram sono più carina, giuro🧚🏾 IG:meriam.amarir 11k?
+    location: "Italy"
+    followers: 10100
+    engagement: 1553
+    commentsToLikes: 0.068762
+    id: ckd193k3bqp9f0j238j2tscba
+    verified: false
+    hashtags: "#song, #photo, #viral, #comedy"
 ---

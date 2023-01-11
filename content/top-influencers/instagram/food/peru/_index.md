@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Peru In 2022
+title: Top 10 Food Instagram Influencers In Peru In 2023
 description: >-
-  Find top food Instagram influencers in Peru in 2022. Most popular hashtags: #comidaperuana #peruvianfood #peru.
+  Find top food Instagram influencers in Peru in 2023. Most popular hashtags: #peru #lima #igersperu.
 platform: Instagram
-hits: 64
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 64 Instagram influencers like this in Peru for you to work with.
+hits: 55
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 55 Instagram influencers like this in Peru for you to contact.
 profiles:
+  - username: "placeresculpososblog"
+    fullname: >-
+      Magda Pérez
+    bio: >-
+      Old-school foodie 🎓 Reseñas de 📍Lima y 📍Trujillo +82K en TikTok ⬆️
+    location: "Peru"
+    followers: 41463
+    engagement: 151
+    commentsToLikes: 0.047085
+    id: ck9haxy7nejmw0j788nvfr17v
+    verified: false
+    hashtags: "#peru, #comidaperu, #igersperu, #placeresculposos"
   - username: "veggienazi"
     fullname: >-
-      NAZARENA GARCÍA-RADA
+      NAZARENA GARCÍA-RADA
     bio: >-
       • Real food has mud not blood •   Me dicen Nazi por Nazarena 🌼 Vegan | Sportaholic
     location: "Peru"
-    followers: 43894
-    engagement: 1856
-    commentsToLikes: 0.097723
+    followers: 46265
+    engagement: 1723
+    commentsToLikes: 0.107976
     id: ck6u7eyral4910j71g3r37h1k
     verified: false
-    hashtags: "#chok"
-  - username: "barbiechifa"
+    hashtags: ""
+  - username: "viajarparavivir"
     fullname: >-
-      Claudia Peschiera
+      Analú | Travel Blogger 🇵🇪🇪🇸
     bio: >-
-      🥠 Fashion, Laughs, Adventure, Food 🤍 Chief founder @aridaspirit 💪🏼 Activist @todosxparacas 📍Milano
+      🟣Do what you love, and do it often✈ 🔵71/194 países🌍, 17/24 dptos🇵🇪, infinitas experiencias 🟢Mi versión foodie @viajarparacomerrr 📍Hoy, Perú.
     location: "Peru"
-    followers: 27553
-    engagement: 275
-    commentsToLikes: 0.039268
-    id: ck5q3jv6fl3070i11vn353eho
-    verified: false
-    hashtags: "#roofclimbing, #loveitaly, #lanoviamaslinda, #salvemosparacas"
-  - username: "manu___mg"
-    fullname: >-
-      Manu
-    bio: >-
-      | Foodlover | Traveler 🏝 obsessed with cakes and all things sweet #manueats #manu_travels
-    location: "Peru"
-    followers: 4938
-    engagement: 2009
-    commentsToLikes: 0.028077
-    id: ck6tucbacfiqx0j71qsyjhil9
-    verified: false
-    hashtags: "#nom, #foodphotography, #streetfood, #peru"
-  - username: "placeresculpososblog"
-    fullname: >-
-      Magda Pérez G.
-    bio: >-
-      🍔Food Blogger a punto de volverse chef 📍Lima 📍Trujillo 📩 placeresculpososblog@gmail.com
-    location: "Peru"
-    followers: 15275
-    engagement: 582
-    commentsToLikes: 0.043245
-    id: ck9haxy7nejmw0j788nvfr17v
-    verified: false
-    hashtags: "#trujillo, #guiltypleasure, #instafood, #igersperu"
-  - username: "enjoy_eat_lima"
-    fullname: >-
-      Enjoy Eat Lima
-    bio: >-
-      Nos encanta comer y compartir lo que más nos gusta 🔪 Embajadores @cortez.peru 👩‍❤️‍👨 @pesaquesergio @chrystelaurich 🤩 🍽 #foodlovers 💜 ⬇️ Youtube
-    location: "Peru"
-    followers: 29277
+    followers: 36781
     engagement: 100
-    commentsToLikes: 0.126767
-    id: ck8swpuivetqi0j78gdt4cwt0
+    commentsToLikes: 0.080471
+    id: ck15rvi9s9x940i19qs7fmw2k
     verified: false
-    hashtags: "#chocolate, #almuerzo, #foodie, #manjar"
+    hashtags: "#lagunaazul, #visitperu, #viajarparavivir, #elsauce"
+  - username: "peruvianknife"
+    fullname: >-
+      Guillermo Velásquez
+    bio: >-
+      Asesorías, Food Styling @lecordonbleuparis Alumni 👨🏽‍🍳 © 2021 📸
+    location: "Peru"
+    followers: 28450
+    engagement: 258
+    commentsToLikes: 0.084589
+    id: ck6u1dtj2l53v0j71xjqfg5hc
+    verified: false
+    hashtags: "#peru, #igersperu, #lima, #comidaperuana"
   - username: "tirifilo.foodphotography"
     fullname: >-
-      Food Photography
+      Armando 🇵🇪- Food Photography
     bio: >-
-      🧔Tirifilo 🇵🇪 Lima, Peru 📸 Food and photo lover 👇 Business inquiries / Consultas o pedidos tirifilo.foodphotography@gmail.com
+      📸 Food and photo lover 🇵🇪 Lima, Peru 👇 Business inquiries / Consultas o pedidos tirifilo.foodphotography@gmail.com
     location: "Peru"
-    followers: 3995
-    engagement: 1715
-    commentsToLikes: 0.039484
+    followers: 6503
+    engagement: 631
+    commentsToLikes: 0.053637
     id: ckaotpxnkwyya0i78nyhu215v
     verified: false
-    hashtags: "#foodphotononstop, #darkfoodphotography, #darkfoodphoto, #photographyfood"
-  - username: "buenazotuplato"
+    hashtags: "#foodcomposition, #darkandmoody, #foodartblog, #foodbloggerpro"
+  - username: "diegomunozchef"
     fullname: >-
-      Diana Zegarra | buenazotuplato
+      Diego Munoz
     bio: >-
-      📍 #Foodie en Lima, Perú Aquí te cuento lo que voy probando 📝 A veces intento cocinar, pero me va mejor comiendo 😉
+      Peruvian Chef 👉@3gatos.pe @thebodrumedition @publichotels @lavikingaburger @tiyapuy_foods @cantina.peruana @refettoriolima
     location: "Peru"
-    followers: 11654
-    engagement: 583
-    commentsToLikes: 0.083885
-    id: ck9wf8cw5nnya0j78y6hzpt3i
+    followers: 31374
+    engagement: 157
+    commentsToLikes: 0.031388
+    id: ck0udwdf5k1050i193xrt2z71
     verified: false
-    hashtags: "#gastronomiaperuana, #peruvianfood, #almuerzocasero, #foodiepics"
-  - username: "instafoodperu"
-    fullname: >-
-      Instafood Perú
-    bio: >-
-      👉🏻Comunidad de FOODLOVERS 👈🏻 🌏¿Quieres ser parte de la comunidad? 💌 Etiquétanos en tus 📸 y sigue a #INSTAFOODPERU 📌@hiromi_kudo @chichasour
-    location: "Peru"
-    followers: 114604
-    engagement: 147
-    commentsToLikes: 0.013585
-    id: ck15qse6e4end0i19vdt5b7b6
-    verified: false
-    hashtags: "#foodiesencasa, #instafoodperu"
+    hashtags: "#cuarentena, #tbt, #food, #healthyfood"
   - username: "healthy_pleasure"
     fullname: >-
       𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
     bio: >-
       Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
     location: "Peru"
-    followers: 55493
-    engagement: 195
-    commentsToLikes: 0.100407
+    followers: 58358
+    engagement: 137
+    commentsToLikes: 0.113241
     id: ck5zlrnnbl9gc0i14k1khb4zx
     verified: true
-    hashtags: "#plantbasedrecipe, #nutricion, #plantbased, #healthypleasure"
-  - username: "copenhagen_foodie"
+    hashtags: "#dieta, #foodfight, #healthy, #peru"
+  - username: "pechufree_glutenfree"
     fullname: >-
-      Peter Atzen
+      PechuFree | Glutenfree Blog 🌿
     bio: >-
-      Foodlover who will travel the World for excepcional food and does so as often as possible. 📌 Lima (Peru)
+      👩🏻 @anikaweinstein1 📍Lima, Perú 🍪Foodie ¿Para qué romper la dieta si tienes a Pechufree?
     location: "Peru"
-    followers: 47228
-    engagement: 267
-    commentsToLikes: 0.019036
-    id: ck15sv0ezextg0i19rqo0144a
+    followers: 45234
+    engagement: 70
+    commentsToLikes: 0.112385
+    id: ck0vz0aet6nki0i19p280n3c3
     verified: false
-    hashtags: "#simplisticfood, #restaurantfood, #gourmetfoods, #gastronomylover"
+    hashtags: ""
+  - username: "foodandtravel.pe"
+    fullname: >-
+      Foodandtravel.pe
+    bio: >-
+      👨🏽‍🎓Administrador Hotelero 🕵🏽‍♂️Restaurantero ✈️Viajero 🌎 👨🏽‍💻Asesor Gastronómico 👨🏽‍🏫Docente A&B 📍Lima - Peru 🇵🇪
+    location: "Peru"
+    followers: 10521
+    engagement: 426
+    commentsToLikes: 0.118521
+    id: ckaovhi7k4kem0i78t4cval7u
+    verified: false
+    hashtags: "#travelblogger, #comida, #picoftheday, #igers"
+  - username: "adrianajch"
+    fullname: >-
+      •Adriana Jimenez Chiang•
+    bio: >-
+      🍃 Estilo de vida saludable 💪🏻 Fitness girl 💫 Modelo publicitaria 👑 Miss Teen Sudamérica Internacional 2E 👑 MTS Perú 2017 ✨ Tik tok(25k+)
+    location: "Peru"
+    followers: 6121
+    engagement: 575
+    commentsToLikes: 0.050870
+    id: ckaorjxlbnkhy0i78esgx0q6w
+    verified: false
+    hashtags: "#mindset, #marcosalbercaencasa, #tweegram, #follow4follow"
 ---

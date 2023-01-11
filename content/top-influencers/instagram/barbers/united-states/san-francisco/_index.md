@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In San Francisco In 2022
+title: Top 10 Barbers Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top barbers Instagram influencers in San Francisco in 2022. Most popular hashtags: #barbershopconnect #barber #sanfrancisco #faded.
+  Find top barbers Instagram influencers in San Francisco in 2023. Most popular hashtags: #barbershopconnect #barbershop #barber #andis.
 platform: Instagram
 hits: 10
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 10 Instagram influencers like this in San Francisco, United States for you to connect with.
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "davediggsthebarber"
+    fullname: >-
+      Dave Diggs The Barber ✪
+    bio: >-
+      Intl Educator & Platform Artist Andis Company Luster / S Curl Owner & Barber The Barbers Inc San Jose CA cell 408.396.1919
+    location: "United States"
+    followers: 25960
+    engagement: 253
+    commentsToLikes: 0.050605
+    id: ck6tk5l7o41ng0j71skdzylg4
+    verified: false
+    hashtags: "#manstyle, #sanjose, #menshair, #barbersinc"
   - username: "cakenisrandy"
     fullname: >-
       Randy Tagle ✪
     bio: >-
-      @cakencuts Barbershop Owner San Francisco’s celebrity barber
+      @cakencuts Barbershop Owner San Francisco’s celebrity barber • Podcast @buzzingwithanxiety @abovethebrimpod • #caken #cakencuts #sanfranciscobarber
     location: "United States"
-    followers: 17361
-    engagement: 399
-    commentsToLikes: 0.045972
+    followers: 17515
+    engagement: 491
+    commentsToLikes: 0.042542
     id: ck5zm5of9ly480i143pgiew53
     verified: false
-    hashtags: "#sanfranciscobarbershop, #babb, #bayareabarberbrotherhood, #cakencuts"
+    hashtags: "#barbergang, #booksy, #sanfranciscobarber, #haircut"
+  - username: "blendgod"
+    fullname: >-
+      Luis Solis
+    bio: >-
+      Profesional Barber
+    location: "United States"
+    followers: 34205
+    engagement: 97
+    commentsToLikes: 0.045601
+    id: ck5zm5rqflybq0i141bbmtg69
+    verified: false
+    hashtags: "#melrose, #blendgod, #stockton, #melroseavenue"
   - username: "tee_dabarber"
     fullname: >-
       TEE 👉🏾(THE BARBER) ✪
     bio: >-
       •San Francisco 49ers💈 •Oakland Raiders💈 •CFP NATIONAL CHAMPIONSHIP 💈 •PHILIPPIANS 4:13🙏🏾 •SUPER BOWL LIV 💈
     location: "United States"
-    followers: 15815
-    engagement: 349
-    commentsToLikes: 0.079830
+    followers: 16218
+    engagement: 357
+    commentsToLikes: 0.090193
     id: ck6tk5lwu41op0j71id9wvf80
     verified: false
-    hashtags: "#barberlife, #andisnation, #oaklandbarber, #faded"
-  - username: "blendgod"
+    hashtags: "#barbergang, #menshair, #menstreetstyle, #barberlifestyle"
+  - username: "mows510"
     fullname: >-
-      Luis Solis
+      
     bio: >-
-      • Professional Barber • Haircuts $40+ For appointments, press “Book” below!
+      Mows as in Mouse. San Francisco Bay Area street artist transplanted to the Twin Cities. L.O.V.E team . . mows510@gmail.com
     location: "United States"
-    followers: 34558
-    engagement: 109
-    commentsToLikes: 0.036690
-    id: ck5zm5rqflybq0i141bbmtg69
+    followers: 14199
+    engagement: 472
+    commentsToLikes: 0.029549
+    id: ck5zmyglgnfsc0i14ot22u30u
     verified: false
-    hashtags: "#hairtransformation, #faded, #sharpfade, #wavecheck"
-  - username: "worldclassbarbering"
+    hashtags: "#minnesota, #stpaul, #graffiti, #saintpaul"
+  - username: "gabriell_boss"
     fullname: >-
-      ♛WorldClassBarbering♛FL Barber
+      Gabriell Boss
     bio: >-
-      💈 Best barbers in the game 💲Tag @worldclassbarbering and use #worldclassbarbering for s/o and reposts❗️ 🔥 Hottest haircuts and styles ✂️ Features
+      📍Madrid 💈Barber💈 Underwear Model Co-founder: ⬇️
     location: "United States"
-    followers: 41262
-    engagement: 399
-    commentsToLikes: 0.040523
-    id: ck5c6es9e5afb0i117ca8hb6w
+    followers: 15844
+    engagement: 1051
+    commentsToLikes: 0.026620
+    id: ck6tlp2386d6z0j718imm6o92
     verified: false
-    hashtags: "#hairtransformation, #ukbarbers, #denverbarber, #babylisspro"
+    hashtags: "#latino, #work, #gabriell, #summer"
   - username: "john_gitthens"
     fullname: >-
       John Gitthens
     bio: >-
       - Appointments Only - 🚨Click “BOOK” below to schedule your next haircut💈 👇🏼
     location: "United States"
-    followers: 16891
-    engagement: 537
-    commentsToLikes: 0.027045
+    followers: 16235
+    engagement: 407
+    commentsToLikes: 0.037210
     id: ck0txtrxbke5w0i19anj6bvlp
     verified: false
-    hashtags: "#crispy, #wahldetailer, #2020, #sanfrancisco"
-  - username: "windycityboi209"
-    fullname: >-
-      Barber Allan✂💈💺
-    bio: >-
-      @barbernova_ Ambassadors sponsored by @hairillusionllc Haircuts $40 and up Founder of @LosBarberosclothing CASSANDRA ORDAZ💍
-    location: "United States"
-    followers: 37127
-    engagement: 243
-    commentsToLikes: 0.018128
-    id: ck5c6gtkx5eq70i11alvpvm2z
-    verified: false
-    hashtags: "#barbershopconnect, #barbersleague, #shave, #barberlife"
-  - username: "diego_djdgaf"
-    fullname: >-
-      Diego Elizarraras  ✪
-    bio: >-
-      •Owner @HOUSEOFFADE •CEO @STRANDTHEBRAND •Office @STRUCTUREDTLA •Education @THECONCEPTACADEMY
-    location: "United States"
-    followers: 148082
-    engagement: 115
-    commentsToLikes: 0.054477
-    id: ck6tp1jkyhbfg0j71af8ewr3i
-    verified: false
-    hashtags: "#structuredtla, #portland, #grindmode, #newyork"
+    hashtags: "#crispy, #lessons, #sacramento, #faded"
   - username: "kindakrisp"
     fullname: >-
-      Krisp 🎨
+      Pedro*Kindakrisp 🎨
     bio: >-
-      20 Orbits
+      im a failure :)
     location: "United States"
-    followers: 4553
-    engagement: 7789
-    commentsToLikes: 0.066267
+    followers: 4742
+    engagement: 6428
+    commentsToLikes: 0.085586
     id: ckaovtmqx643h0i78598jklye
     verified: false
-    hashtags: "#barberlove, #barbers, #barberfades, #newyorkbarber"
-  - username: "jaguarcontainers"
-    fullname: >-
-      Jaguar Containers
-    bio: >-
-      . 🔥Top 10 Most Expensive Cigars🔥 . . CLICK👇 .
-    location: "United States"
-    followers: 53466
-    engagement: 326
-    commentsToLikes: 0.010263
-    id: ck6tz8edw87jx0j715h63gb21
-    verified: false
-    hashtags: "#homesweethome, #trendy, #cabinvibes, #shippingcontainerhomes"
+    hashtags: "#andis, #combover, #barberlove, #barberia"
   - username: "takeospikes51"
     fullname: >-
       Takeo Spikes (HOF Nominee)
     bio: >-
       🦅Auburn Athlete to NFL Vet to MBA Living My Dreams | 📸Photographer + Author + Podcaster + Producer + Motivator + Dad 🎙Listen to Me on @thebtmpodcast
     location: "United States"
-    followers: 39301
-    engagement: 136
-    commentsToLikes: 0.079972
+    followers: 40732
+    engagement: 115
+    commentsToLikes: 0.090166
     id: ckaorw54tp0pr0i78sutp2ko3
     verified: true
-    hashtags: "#love, #blackfathers, #mixitup, #wareagle"
+    hashtags: "#influencer, #throwbackthursday, #successfulmindset, #nflplayer"
+  - username: "taystyles707"
+    fullname: >-
+      Braid/Stylist Directory
+    bio: >-
+      👉🏽❗I DO NOT BRAID ANYMORE🙅🏽‍♀️❗👈🏽 👑 RECOMMENDED BRAIDERS, LOCTICIANS & STYLISTS 💘 Stylists: follow @hair_sleeve
+    location: "United States"
+    followers: 21311
+    engagement: 46
+    commentsToLikes: 0.025723
+    id: ck0vz9b7t7yiq0i197b8da0cb
+    verified: false
+    hashtags: "#instantlocsbayarea, #loctician, #sports, #braidart"
 ---

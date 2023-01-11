@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In South Africa In 2022
+title: Top 10 Fashion TikTok Influencers In South Africa In 2023
 description: >-
-  Find top fashion TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #makeup.
+  Find top fashion TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #foryou.
 platform: TikTok
-hits: 42
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform has 42 TikTok influencers like this in South Africa for you to connect with.
+hits: 35
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 35 TikTok influencers like this in South Africa for you to pitch.
 profiles:
-  - username: "avril_albetti"
-    fullname: >-
-      Avril Albetti
-    bio: >-
-      Model Maker, Former Local & International Model🇿🇦🇮🇹 RGB Fashion Police,
-    location: "South Africa"
-    followers: 3650
-    engagement: 1281
-    commentsToLikes: 0.106112
-    id: ckdt4mgassu9o0j23dep31je9
-    verified: false
-    hashtags: "#instyle, #projectxsa, #amazingtransition, #pheadraparks"
   - username: "__ohsodandy_"
     fullname: >-
       kiara.a.dandridge
     bio: >-
       21 Vibes on good music, good fashion Sews as well Art too 🇿🇦
     location: "South Africa"
-    followers: 11500
-    engagement: 1682
-    commentsToLikes: 0.027734
+    followers: 11600
+    engagement: 1605
+    commentsToLikes: 0.026421
     id: ckav3zycnad8w0j23grzfftv1
     verified: false
-    hashtags: "#photoshoot, #transition, #fashion, #outfits"
-  - username: "addfashion"
+    hashtags: "#fashiontok, #transition, #fashiondesignstudent, #30daysofoutfits"
+  - username: "avril_albetti"
     fullname: >-
-      cutegirls
+      Avril Albetti
     bio: >-
-      Fashion girl
+      Former Local & International Model🇿🇦🇮🇹 Model Maker RGB Fashion Police
     location: "South Africa"
-    followers: 1800000
-    engagement: 872
-    commentsToLikes: 0.004589
-    id: ck85cin0a1u140j7828ujstlz
+    followers: 11200
+    engagement: 652
+    commentsToLikes: 0.069481
+    id: ckdt4mgassu9o0j23dep31je9
     verified: false
-    hashtags: "#beautiful, #fyp, #makeup, #fashion"
+    hashtags: "#servinglooks, #fortedeimarmi2021, #myfavoritefragrance, #loveisgod"
   - username: "siyabunny"
     fullname: >-
       Siyanda Bani
     bio: >-
-      Fashion, Beauty, Lifestyle & Travel And fun 🇿🇦
+      Fashion, Beauty, Lifestyle, Travel And fun 🇿🇦
     location: "South Africa"
-    followers: 61600
-    engagement: 580
-    commentsToLikes: 0.011028
+    followers: 103100
+    engagement: 552
+    commentsToLikes: 0.012230
     id: ck9k9olv9dzh60j78fgxhi9n3
     verified: false
-    hashtags: "#foryoupage, #fyp, #covid19, #fashion"
+    hashtags: "#fyp, #foryoupage, #fypage, #fashion"
+  - username: "mr.passy"
+    fullname: >-
+      Mr.passy
+    bio: >-
+      Men’s Fashion | Instagram Coach FREE Instagram Tips 👇🏽
+    location: "South Africa"
+    followers: 967900
+    engagement: 691
+    commentsToLikes: 0.013370
+    id: cka8g8rya5k070i78yrii4tvn
+    verified: false
+    hashtags: "#instagramcoach, #instagramtips, #instagramhack, #instacoach"
+  - username: "audrey_lunda"
+    fullname: >-
+      Audrey Lunda
+    bio: >-
+      Let’s reach 250k?? For more Style & Fashion FOLLOW ME ON IG: audrey_lunda
+    location: "South Africa"
+    followers: 222300
+    engagement: 717
+    commentsToLikes: 0.012338
+    id: ckcjh51fbc0n50j23pqpexwhr
+    verified: false
+    hashtags: "#menstyle, #southafrica, #capetown, #southafricatiktok"
   - username: "kandyslife"
     fullname: >-
       Kandy
     bio: >-
-      DANCE 💃 MAKEUP 💄 AND FASHION ❤️ YOUTUBE: @kandykanemakeup Follow me ON INSTA!
+      DANCE 💃 FASHION 👗 BEAUTY 💄 Married 💍 Dog mom 🐶
     location: "South Africa"
-    followers: 13900
-    engagement: 446
-    commentsToLikes: 0.019275
+    followers: 20900
+    engagement: 560
+    commentsToLikes: 0.028305
     id: ck9gtpy8qnsyb0j78js37bl1k
     verified: false
-    hashtags: "#tiktokdance, #fyp, #dancetiktok, #southafrica"
+    hashtags: "#dancechallenge, #rakeitup, #foryou, #dance"
   - username: "kimsayers1"
     fullname: >-
       kimsayers1
     bio: >-
       South African 🌍❤️ Introvert ☺️ Fitness freak💪 Fashion Lover👗👛
     location: "South Africa"
-    followers: 6299
-    engagement: 538
-    commentsToLikes: 0.017139
+    followers: 6224
+    engagement: 529
+    commentsToLikes: 0.015789
     id: ckc8drfwr99zs0j23pivdd97y
     verified: false
-    hashtags: "#fyppage, #sundayfunday, #viral, #fypforyou"
-  - username: "aar0n_perry_"
+    hashtags: "#sundayfunday, #fyppage, #fypforyou, #fyp"
+  - username: "parnygram"
     fullname: >-
-      🌼Aaron Perry 🌼
+      Wayne Parnell
     bio: >-
-      South African Creator🍵 Love light ✨ Realaaronperry44@gmail.com
+      Dad 🕺🏼 Athlete🏏 Urban Culture. 👑 Insta: @parnygram 📍CPT 😹🌊🐻
     location: "South Africa"
-    followers: 465000
-    engagement: 1434
-    commentsToLikes: 0.021440
-    id: ckbl3xh1g1dtr0j23fe2lcnyl
+    followers: 25600
+    engagement: 556
+    commentsToLikes: 0.054074
+    id: ckbf85dp7ydzc0j23wcb0zo3x
     verified: true
-    hashtags: "#wowfactor, #fashion, #bestmzansimemer, #aaronperry"
-  - username: "tarynemarupen"
+    hashtags: "#junebugchallenge, #fyp, #dadsoftiktok, #cricket"
+  - username: "nadiabouwer"
     fullname: >-
-      Taryne Marupen
+      Nadia Bouwer
     bio: >-
-      IG: taryne_m Sc: raynie_m 🇿🇦
+      Hi :) Insta : @nadiabouwer
     location: "South Africa"
-    followers: 59800
-    engagement: 1693
-    commentsToLikes: 0.020995
-    id: ckcejpu0ispmp0j238c2iyag5
+    followers: 67600
+    engagement: 1586
+    commentsToLikes: 0.026453
+    id: ckb9pxdssl9ie0j238ex1g925
     verified: false
-    hashtags: "#tiktoksa, #fyp, #halloweenmakeup, #halloweenmakeuplook"
+    hashtags: "#afrikaans, #bsnv, #fashion, #duet"
   - username: "_itsanavocadothanksss"
     fullname: >-
       Tylerrrr 🥐
     bio: >-
       •𝐃𝐨𝐨𝐝𝐥𝐞𝐬 𝐟𝐫𝐨𝐦 𝐏𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 •𝔽𝕒𝕤𝕙𝕚𝕠𝕟 𝕥𝕚𝕡𝕤 • etc 😌
     location: "South Africa"
-    followers: 11800
-    engagement: 1969
-    commentsToLikes: 0.030677
+    followers: 11500
+    engagement: 1773
+    commentsToLikes: 0.026747
     id: cka0tw69lrs9j0i78x6vushme
     verified: false
-    hashtags: "#feature, #fyp, #foryou, #quarintine"
-  - username: "may.tayla"
-    fullname: >-
-      Tayla May 🦋
-    bio: >-
-      my Instagram^ 💘 17 🇿🇦
-    location: "South Africa"
-    followers: 181300
-    engagement: 1608
-    commentsToLikes: 0.026233
-    id: ckd06jk3ba9x00j23gcbik4cb
-    verified: true
-    hashtags: "#tiktoksouthafrica, #relatable, #style, #greenscreen"
+    hashtags: "#doodles, #fyp, #quarintine, #fashion"
 ---

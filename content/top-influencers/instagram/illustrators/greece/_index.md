@@ -1,72 +1,84 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Greece In 2022
+title: Top 10 Illustrators Instagram Influencers In Greece In 2023
 description: >-
-  Find top illustrators Instagram influencers in Greece in 2022. Most popular hashtags: #art #illustration #artwork #illustrator.
+  Find top illustrators Instagram influencers in Greece in 2023. Most popular hashtags: #illustration #design #artistsoninstagram #art.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 13 Instagram influencers like this in Greece for you to work with.
+hits: 11
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 11 Instagram influencers like this in Greece for you to contact.
 profiles:
+  - username: "super.foteini"
+    fullname: >-
+      Foteini Traka
+    bio: >-
+      Fashion Designer~Fashion Illustrator~Vintage Curator/Seller~Image Maker~Stylist~Muse Master of all trades🤘🏻@intothelightclothing @foteinitrakadesigns
+    location: "Greece"
+    followers: 38309
+    engagement: 381
+    commentsToLikes: 0.025126
+    id: ck13bonkdwf4p0i19c4zx613n
+    verified: false
+    hashtags: "#zaraaccessories, #calzedonia, #rienbypennyvomva, #fashioninspo"
   - username: "natalialampropoulou"
     fullname: >-
       Natalie’s Cozyland
     bio: >-
       Video Content Creator | DIY Youtuber | Filmmaker | illustrator | jewerly designer last youtube video:
     location: "Greece"
-    followers: 10880
-    engagement: 602
-    commentsToLikes: 0.329326
+    followers: 10565
+    engagement: 568
+    commentsToLikes: 0.291878
     id: ck5qdkqsnw21y0i11tuf3cxhz
     verified: false
-    hashtags: "#photography, #instagrammer, #beautiful, #mycozylife"
-  - username: "gavaskantira"
-    fullname: >-
-      Georgia Avaskantira
-    bio: >-
-      Professional Dancer | Choreographer | Graphic designer | illustrator @parisianou.gr | Healthy pastry lover •I wish my eyes could take photos•
-    location: "Greece"
-    followers: 16625
-    engagement: 1142
-    commentsToLikes: 0.012828
-    id: ck6tiomp314du0j71hv1hp960
-    verified: false
-    hashtags: "#thebabycity, #moodoftheday, #quaxgreece, #quaxbaby"
+    hashtags: "#happynewyear, #greekinstagrammer, #nataliescozyland, #crafter"
   - username: "stamatis.laskos"
     fullname: >-
       Stamatis Laskos
     bio: >-
       Athens School of Fine Arts #illustrator at #thenewyorker & #jordan #nike #usa 📨stamatislaskos@gmail.com
     location: "Greece"
-    followers: 7073
-    engagement: 1471
-    commentsToLikes: 0.014038
+    followers: 7162
+    engagement: 1531
+    commentsToLikes: 0.014406
     id: ck5pvef8rhh060i114gutf1wp
     verified: false
-    hashtags: "#contemporarypainting, #stamatislaskos, #drawingsketch, #portrait"
+    hashtags: "#oil, #paper, #characterdesign, #2020"
+  - username: "gavaskantira"
+    fullname: >-
+      Georgia Avaskantira
+    bio: >-
+      >Professional Dancer | Choreographer | Graphic designer | illustrator @parisianou.gr | > mother of a prince 👶🏼 •I wish my eyes could take photos•
+    location: "Greece"
+    followers: 17859
+    engagement: 1294
+    commentsToLikes: 0.086980
+    id: ck6tiomp314du0j71hv1hp960
+    verified: false
+    hashtags: "#teliskikeriseshop, #teliskikerishairbeauty, #sunlover, #6monthsold"
   - username: "marina_gioti"
     fullname: >-
       Marina Gioti
     bio: >-
-      Children's book author, illustrator and unwearied explorer of children's imagination📚 #marinagioti #childrensbooks #illustrator #author #kidslit
+      Children's book author, illustrator and explorer of children's imagination📚 #marinagioti #childrensbooks #illustrator #author #paidikavivlia #kidslit
     location: "Greece"
-    followers: 8059
-    engagement: 437
-    commentsToLikes: 0.017043
+    followers: 10152
+    engagement: 538
+    commentsToLikes: 0.057077
     id: ck136mjt1787v0i19sf5310fb
     verified: false
-    hashtags: "#reading, #summer, #picturebook, #hiking"
+    hashtags: "#athens, #booksforkids, #childrensbooks, #bookstagram"
   - username: "fishermanspyros"
     fullname: >-
       Fisherman Spyros
     bio: >-
-      🇬🇷 Graphic Designer & Illustrator ✍️ COMMISSIONS ARE OPEN 🎤 Making 🎼 as @korfianofficial
+      🇬🇷 Graphic Designer & Illustrator ✍️ COMMISSIONS ARE OPEN 🎤 Making 🎼 as @korfianmusic
     location: "Greece"
-    followers: 5386
-    engagement: 365
-    commentsToLikes: 0.008081
+    followers: 5330
+    engagement: 375
+    commentsToLikes: 0.012127
     id: ckf5wq8h7svp60j23ghsauqxc
     verified: false
-    hashtags: "#sugimori, #digitalart, #pokemonartists, #tortoise"
+    hashtags: "#pokedex, #pokemonbelow, #graphicdesign, #cartoon"
   - username: "littlemiss.grumpy"
     fullname: >-
       Little miss Grumpy ♡
@@ -85,46 +97,34 @@ profiles:
     bio: >-
       I ❤ nature🌿 OPW: #ourplanetweek #letsdrawthechange DrawThisInYourStyle —> #elenig14k All rights reserved©
     location: "Greece"
-    followers: 14432
-    engagement: 1150
-    commentsToLikes: 0.062019
+    followers: 14352
+    engagement: 1134
+    commentsToLikes: 0.064669
     id: ck0tyvoobo99b0i19xmmv5tz9
     verified: false
-    hashtags: "#artoftheday, #instadrawing, #illustrationwork, #procreateartist"
-  - username: "zalligraphy__"
-    fullname: >-
-      ℓαнzα ѕυƒα∂ 🌻
-    bio: >-
-      ℓιƒє ιѕ вєαυтιιƒυℓℓℓℓℓ 😇❤️ | 🇴🇲 × 🇮🇳 | | ᥇ꪗꫀ ƚꪖӄe ᥴꪖrꫀ. | 💜
-    location: "Greece"
-    followers: 2612
-    engagement: 1545
-    commentsToLikes: 0.129564
-    id: ck9wg69f5s37x0j78oz1w17kj
-    verified: false
-    hashtags: "#editing, #thistooshallpass, #hijabiblogger, #photographerlife"
-  - username: "bewildbrother"
-    fullname: >-
-      - BEWILD BROTHER -
-    bio: >-
-      _Designs / Illustrations / Arts n Crafts _Athens based Digital Werewolf
-    location: "Greece"
-    followers: 8312
-    engagement: 1009
-    commentsToLikes: 0.028185
-    id: ck0vzj89y9dkz0i197qvw35kz
-    verified: false
-    hashtags: "#craftbeer, #texture, #neon, #yeah"
+    hashtags: "#illustrationartist, #illust, #artsy, #instadrawing"
   - username: "proheroes015"
     fullname: >-
       Pro Heroes 015 ®
     bio: >-
-      ❌Pro Heroes Squad ® ❌ @gluesquad ❌@proheroes_sqd ❌ #proheroesgr ❌ #proheroesath ❌DM for commissions 📦📪
+      ❌ Pro Heroes 015® ❌ Made in Greece 🇬🇷 ❌ @proheroes_squad ❌ @gluesquad ❌ #proheroesgr ❌ #proheroesath ❌DM for commissions 📦📪
     location: "Greece"
-    followers: 7597
-    engagement: 458
-    commentsToLikes: 0.022790
+    followers: 8278
+    engagement: 500
+    commentsToLikes: 0.036606
     id: ck8svz63bd8ra0j78d82fa7hd
     verified: false
-    hashtags: "#trump, #pasteups, #illuminati, #posterdesign"
+    hashtags: "#political, #tv, #pasteupart, #photography"
+  - username: "tinyjackal"
+    fullname: >-
+      Tiny Jackal
+    bio: >-
+      RAPPER & JACKALSTATTOO STUDIO OWNER ANTARTA / E13 / SCRIPTA MANENT / RHYMESHOT / M.O.V / NTOΠΑΖ 18120 / FULLFACE / NO HARD FEELINGS / J.T.C 15
+    location: "Greece"
+    followers: 24543
+    engagement: 1309
+    commentsToLikes: 0.117119
+    id: ck5hjq2gih2930i11xv94v19u
+    verified: false
+    hashtags: "#rap, #poetry, #hiphop, #urban"
 ---

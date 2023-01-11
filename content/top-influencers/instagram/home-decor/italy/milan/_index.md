@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Milan In 2022
+title: Top 10 Home Decor Instagram Influencers In Milan In 2023
 description: >-
-  Find top home decor Instagram influencers in Milan in 2022. Most popular hashtags: #homedecor #love #autumn #milano.
+  Find top home decor Instagram influencers in Milan in 2023. Most popular hashtags: #homedecor #love #milano #home.
 platform: Instagram
-hits: 47
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 47 Instagram influencers like this in Milan, Italy for you to collaborate.
+hits: 56
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 56 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "manuel1na"
+  - username: "elisabettamarangoni"
     fullname: >-
-      Manuela Mercurio 🌺
+      Elisabetta Marangoni Casabase
     bio: >-
-      •I pensieri diventano cose• 🍀 Mom * Lifestyle * Home * Kids Preparo dolci👩🏻‍🍳 📍Milano - CG YVES ROCHER
+      AG. IMMOBILIARE spiego tutto del mondo immobiliare. 💌info@in-sta-casa.com CASABASEACADEMY corsi per ag immobiliari. www.in-sta-casa.com per arredare
     location: "Italy"
-    followers: 5053
-    engagement: 1180
-    commentsToLikes: 0.390885
-    id: ck9hb9nxlfxt30j78vw8l7hv6
+    followers: 31051
+    engagement: 200
+    commentsToLikes: 0.045425
+    id: ckaoye9q4h5jx0i786zsfb9p4
     verified: false
-    hashtags: "#casadolcecasa, #autunno, #arredarecasa, #babygirl"
-  - username: "camilla.bellini"
+    hashtags: "#youcan, #love, #arredocasa, #lifestyle"
+  - username: "rich_kids_milano"
     fullname: >-
-      Camilla Bellini Design
+      Rich_kids_milano
     bio: >-
-      Designer and #Design #Blogger: love to share my life, my work and my passion with you 💛 Email me at: camilla@camillabellini.com
+      -RICH | MILANO | LIFE | STYLE | CARS| 👻snap :Richkidsmilano 📥DM for promo follow richkidsmilano follow Follower by Richkidsmilano
     location: "Italy"
-    followers: 75355
-    engagement: 132
-    commentsToLikes: 0.085566
-    id: ck9hacd2nc0as0j786oechjco
+    followers: 35794
+    engagement: 840
+    commentsToLikes: 0.015110
+    id: ck8t46u1d5pc30j780ycks9q4
     verified: false
-    hashtags: "#designlovers, #interiordesign, #designsuggestion, #designtips"
-  - username: "fiorellanardelli"
+    hashtags: "#tirana, #dollar, #view, #dollars"
+  - username: "paolamarella"
     fullname: >-
-      Fiorella Nardelli
+      Paola Marella
     bio: >-
-      📸Just my life 📍Milan, Italy
+      #Architetto e conduttrice e per gioco mi piace parlare di #lifestyle e anche un po' di #fashion 😉
     location: "Italy"
-    followers: 45484
-    engagement: 273
-    commentsToLikes: 0.055182
-    id: ckaoz3rmak8nn0i78j0uohjs5
-    verified: false
-    hashtags: "#zuiki, #zuikiitalia, #napoli, #beautyroutine"
-  - username: "elisabetta_pistoni"
+    followers: 354308
+    engagement: 144
+    commentsToLikes: 0.032874
+    id: ck55nt9z76xgb0i1176xl5t8t
+    verified: true
+    hashtags: "#adv, #monday, #milano, #ootd"
+  - username: "tegamini"
     fullname: >-
-      𝑬𝒍𝒊𝒔𝒂𝒃𝒆𝒕𝒕𝒂
+      Francesca Crescentini
     bio: >-
-      Elegance never goes out of style Youtube +100K Based in Milan / Vicenza Co-founder of @italianbusinessimage
+      🖊 Scrivo delle cose 📚 Traduco libri 🎉 Propago entusiasmi 💌 francesca@tegamini.it 👇🏻 Blog e altre mete utili
     location: "Italy"
-    followers: 71477
-    engagement: 553
-    commentsToLikes: 0.013913
-    id: ck13ahzz4qhjl0i1946z0j5cu
+    followers: 199570
+    engagement: 689
+    commentsToLikes: 0.012113
+    id: ck5zsnuxtyv1b0i145s6mboc7
     verified: false
-    hashtags: "#happiness, #love, #lookoftheday, #haircare"
-  - username: "travelliamo"
+    hashtags: "#baby, #adv, #pov, #beb"
+  - username: "valentinamoreo"
     fullname: >-
-      Federica Xotti
+      𝐕𝐚𝐥𝐞𝐧𝐭𝐢𝐧𝐚 | 𝐁𝐞𝐚𝐮𝐭𝐲 & 𝐅𝐚𝐬𝐡𝐢𝐨𝐧
     bio: >-
-      Travel&Lifestyle Blogger 🇮🇹 Storyteller 🖋 Made in Friuli 🏠 Based in Milan 📍 Il mio libro: “Il mio mondo é a colori”📚 💌 fedexotti@hotmail.it 💌
+      “Good skin is the best foundation for makeup” Addicted Skincare✨ Fashion addict👠 Dm for collab 💌
     location: "Italy"
-    followers: 106299
-    engagement: 244
-    commentsToLikes: 0.047291
-    id: ck14io2yqgd660i19c97f3eg9
+    followers: 10001
+    engagement: 284
+    commentsToLikes: 0.070833
+    id: ckap8nh4tp4d70i784ot7z27y
     verified: false
-    hashtags: "#tuta, #ostunicitt, #eyes, #friland"
-  - username: "elenasessa"
-    fullname: >-
-      엘레나 • FASHION • TRAVEL • INSPO
-    bio: >-
-      🍝 • More pasta, less drama 📚 • Graphic design in SantaGiuliaAcademy, Brescia 🎓 • Graphic designer from NABA, Milan 🎓 • Photo editor - @adobe certified
-    location: "Italy"
-    followers: 36093
-    engagement: 267
-    commentsToLikes: 0.019658
-    id: ck8szj7u1onm60j78s0krfemc
-    verified: false
-    hashtags: "#etsy, #blog, #gems, #sheinofficial"
-  - username: "accadeintavola"
-    fullname: >-
-      MariangelaRusso
-    bio: >-
-      Live in Bernalda- Mt-Milan Travel food and lifestyle writer Sommelier 🍷 Mum of Cecilia Finalista cucinablogaward '18 @cucina_corriere #accadeintavola
-    location: "Italy"
-    followers: 11059
-    engagement: 379
-    commentsToLikes: 0.142801
-    id: ck0vzivcj9bsa0i19v8p8vsa2
-    verified: false
-    hashtags: "#accadeintavola, #healthyfood, #countrystyle, #breakfasttime"
+    hashtags: "#liketime, #outfitoftheday, #modadonna, #aesthetic"
   - username: "basilgreenpencil"
     fullname: >-
       Basil Green Pencil
     bio: >-
-      Chiara&Maykol || Milan #designtastesgood 🌿Interior designers 👩🏻‍💻👨🏻‍💻 📍Progettiamo ristoranti/bar/hotel 📍Vetrine/scenografie 📍Ideas suppliers
+      Chiara&Maykol || Milan #DesignTastesGood 🌿Interior designers 👩🏻‍💻👨🏻‍💻 📍Progettiamo ristoranti/bar/hotel 📍Vetrine/scenografie 📍Ideas suppliers
     location: "Italy"
-    followers: 26380
-    engagement: 266
-    commentsToLikes: 0.069878
+    followers: 26238
+    engagement: 213
+    commentsToLikes: 0.085241
     id: ck6txne86yrrn0j71sdt0kd3h
     verified: false
-    hashtags: "#designasyouseeit, #bellaitalia, #homedecor, #delighthofdecor"
-  - username: "ellabortoli"
+    hashtags: "#xmasdecor, #funkycandles, #restaurantsdecor, #diyidea"
+  - username: "francescadeandre"
     fullname: >-
-      🌺Antonella Bortoli 🌺
+      Francesca De André
     bio: >-
-      Modella @qvc_italy My fashion life, travel and work Based in Milan 📍 #mood_ella Facebook @AntonellaEllaBortoli YouTube Channel ⬇️⬇️⬇️
+      📺 Tv: management.cellerino@gmail.com 💌Collaborazioni: francescadeandre.collaborazioni@gmail.com
     location: "Italy"
-    followers: 18862
-    engagement: 507
-    commentsToLikes: 0.141396
-    id: ckaosx8cntfie0i78as7v98rb
-    verified: false
-    hashtags: "#reels, #styleinspo, #vampire, #fashionstyle"
-  - username: "sabrinamusco"
+    followers: 313032
+    engagement: 278
+    commentsToLikes: 0.051791
+    id: ck5c07rhtslnx0i11rirmvr4p
+    verified: true
+    hashtags: "#summer, #bestoftheday, #bella, #energy"
+  - username: "lorenzo_carone"
     fullname: >-
-      Sabrina Musco
+      Lorenzo Carone
     bio: >-
-      ✒ Storyteller since 2011 📖 1 fantasy book • Life • Style • Travel Luxury Gipsy Nomad 💫 🎓 Fashion&Communication 📍 Milan 📩 info@freakyfridayblog.com
+      Basketball Player @tumminelliromanabasket 🏀 Digital PR 💼 Membro Attivo di @plasticfreeit Onlus 🌱 from Piedmont to Milan 📩 mngmt.info@gmail.com
     location: "Italy"
-    followers: 168151
-    engagement: 135
-    commentsToLikes: 0.018844
-    id: ck138z9f5iqva0i19nj8zziof
+    followers: 61540
+    engagement: 229
+    commentsToLikes: 0.020570
+    id: ck6u853kbphli0j71b27qe0lc
     verified: false
-    hashtags: "#birthdaypartydecoration, #birthdaylove, #newyorkers, #sabrina30"
+    hashtags: "#futureoftravel, #photooftheday, #photography, #photo"
+  - username: "ariannacorrado"
+    fullname: >-
+      Arianna🎀
+    bio: >-
+      📍Salento 📸 Scatto foto per passione e vado sempre al mare 🗺 Alla scoperta di nuovi posti 💗 Pillole di fashion e beauty Team @raccontiamo_italia 🇮🇹
+    location: "Italy"
+    followers: 12372
+    engagement: 465
+    commentsToLikes: 0.116328
+    id: ck6ti8etx08lu0j71ventwyas
+    verified: false
+    hashtags: "#girl, #loveisintheair, #breakfast, #sanvalentino"
+  - username: "lorenzodin"
+    fullname: >-
+      LORENZO
+    bio: >-
+      — Milan info.lorenzodinoto@gmail.com
+    location: "Italy"
+    followers: 5655
+    engagement: 1238
+    commentsToLikes: 0.069819
+    id: ck5ck7enpwain0i11tdxsqe0m
+    verified: false
+    hashtags: "#shadow, #portraitphotography, #blackandwhitephotography, #baldandbearded"
 ---

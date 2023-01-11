@@ -1,24 +1,36 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Toronto In 2022
+title: Top 10 Athletes Instagram Influencers In Toronto In 2023
 description: >-
-  Find top athletes Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #athlete #tbt.
+  Find top athletes Instagram influencers in Toronto in 2023. Most popular hashtags: #athlete #fitness #bodybuilding #aesthetics.
 platform: Instagram
-hits: 50
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 50 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 17
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "tseguin92"
+  - username: "jaydennelsonn"
     fullname: >-
-      Tyler Seguin
+      Jayden Nelson
     bio: >-
-      Forward for the Dallas Stars. Stanley Cup Champion. @Adidas @Biosteelsports athlete. Toronto/Dallas
+      Footballer for @torontofc @niketoronto Athlete #HumbleBeast
     location: "Canada"
-    followers: 615752
-    engagement: 936
-    commentsToLikes: 0.008631
-    id: ck0u2fqz9ztsg0i190n7py0fx
+    followers: 7330
+    engagement: 3289
+    commentsToLikes: 0.054086
+    id: ck8t01w2eqjvs0j78jy54w7mz
     verified: true
-    hashtags: "#applearcade, #ultimaterivals, #itsanyonesgame, #ad"
+    hashtags: "#stayathomechallenge, #year1, #humblebeast, #blacklivesmatter"
+  - username: "shreddedd_chicken"
+    fullname: >-
+      Ron Lee Fitness
+    bio: >-
+      🇨🇦 Toronto 👕 @jed_north Athlete (RON15) 💊 @steelsupplements Athlete (CODE: SHREDDEDCHICKEN) ✉️ Email for Program
+    location: "Canada"
+    followers: 40226
+    engagement: 326
+    commentsToLikes: 0.038959
+    id: ck8tch1onzg4v0j78ekev62jl
+    verified: false
+    hashtags: "#dietplan, #aesthetic, #aesthetics, #workoutmotivation"
   - username: "elitedanceworx"
     fullname: >-
       Elite Danceworx
@@ -30,101 +42,89 @@ profiles:
     commentsToLikes: 0.022531
     id: ck0txim2djak90i19zjljmt3i
     verified: false
-    hashtags: "#dancesafe, #letusdance, #kidsneeddance, #istandwithdancestudios"
-  - username: "jacobshaff"
+    hashtags: "#worldballetday, #letustrain, #istandwithdancestudios, #letusdance"
+  - username: "minaj.mp"
     fullname: >-
-      Jacob Shaffelburg
+      ♏️inajmp💮
     bio: >-
-      • @torontofc • @adidasfootball athlete • Nova Scotia • Berkshire School
+      Fashion Stylist~Model~Beauty pro~ Miss face of humanity 2021👑 I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨🇨🇦 @unik.models
     location: "Canada"
-    followers: 5252
-    engagement: 2879
-    commentsToLikes: 0.024860
-    id: ck0w09maxd32c0i19ho8y8t5a
-    verified: true
-    hashtags: "#thanksgiving, #tfc, #hometeam, #createdwithadidas"
+    followers: 81514
+    engagement: 267
+    commentsToLikes: 0.055639
+    id: ckaotndqcwn0x0i78myma80eh
+    verified: false
+    hashtags: "#fashionshow, #beautiful, #artoftheday, #outfitinspiration"
   - username: "thatshitkraay"
     fullname: >-
       Ashley Nicole Kraayeveld🇳🇱🇧🇧
     bio: >-
-      Team Canada | Taekwondo🇨🇦 World Ranked #3️⃣ Pan American Champion🥇🥇🥉 Military World Champion🥇 Canadian Armed Forces⚔️ Registered Nurse💉
+      Team Canada | Taekwondo🇨🇦 Pan American Champion🥇🥇🥉🥉 World Military Champion🥇🥉 Canadian Armed Forces⚔️ Registered Nurse🩺 Stuntwoman🎬 Toronto📍
     location: "Canada"
-    followers: 5427
-    engagement: 700
-    commentsToLikes: 0.037701
+    followers: 5551
+    engagement: 660
+    commentsToLikes: 0.063403
     id: ck14j5kjeiqpw0i19aw2frgxz
     verified: false
-    hashtags: "#taekwondo, #teamcanada, #2020armor, #girlswhokick"
-  - username: "cbctoronto"
+    hashtags: "#repost, #tgif, #toronto, #taekwondo"
+  - username: "julianyeeee"
     fullname: >-
-      CBC Toronto
+      Julian Yee 茹自杰
     bio: >-
-      CBC Toronto is your source for breaking, investigative and community news.
+      Julian Yee 🇲🇾 2018 Winter Olympian Gangwon Tourism Ambassador •Edea •MKBlades • Uniqlo 📍Toronto/KL
     location: "Canada"
-    followers: 120403
-    engagement: 54
-    commentsToLikes: 0.049273
-    id: ck5hm14ral7dc0i11q02nxvxt
+    followers: 51546
+    engagement: 633
+    commentsToLikes: 0.004741
+    id: ck0ubg503ej8s0i19an3no768
     verified: true
-    hashtags: "#ontario, #cbctoronto, #frontlineheroes, #covid19"
-  - username: "pedlowsamuel"
+    hashtags: "#iceskating, #sports, #athlete, #figureskating"
+  - username: "vancouversveryown"
     fullname: >-
-      Sam Pedlow | 🇨🇦 Pro Athlete
+      Brandon Nair | DJ Nizzy 🇫🇯🌺
     bio: >-
-      🍁 Professional Beach Volleyball Player 😺 Registered Physiotherapist MPT, BPHED BScH 🙌 @canfund recipient ⤵️ @whoop discount
+      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
     location: "Canada"
-    followers: 34147
-    engagement: 299
-    commentsToLikes: 0.043008
-    id: ck5zulono2lo30i14ojcz7jbh
+    followers: 7165
+    engagement: 736
+    commentsToLikes: 0.068972
+    id: ck13b1trvt9wo0i19cb8j91bu
+    verified: false
+    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
+  - username: "jasmincullgolf"
+    fullname: >-
+      Jasmin Cull | PGA Tour Driven
+    bio: >-
+      🏌️| Follow my journey to the PGA Tour ⛳️| Tips and techniques, let’s learn together 🇨🇦| Former Pro Volleyball 📍| Toronto, On 📧| For partnership
+    location: "Canada"
+    followers: 11452
+    engagement: 707
+    commentsToLikes: 0.069949
+    id: ck6ui4hncd0in0j71taxyr0mw
+    verified: false
+    hashtags: "#golfpro, #golfswag, #golfaddict, #pga"
+  - username: "taylorxcross"
+    fullname: >-
+      Taylor Cross
+    bio: >-
+      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
+    location: "Canada"
+    followers: 16398
+    engagement: 206
+    commentsToLikes: 0.110018
+    id: ck8syvtfdm7ft0j78ugrn2b83
+    verified: false
+    hashtags: ""
+  - username: "eliastheodorou"
+    fullname: >-
+      Elias Theodorou
+    bio: >-
+      🇨🇦 | MMA Athlete #TheManeEvent 💨 | 1st sanctioned cannabis athlete 🥊 | Athlete, advocate, actor, poker pro + more ♠️ | All-in with @ggpokerofficial
+    location: "Canada"
+    followers: 141622
+    engagement: 133
+    commentsToLikes: 0.060726
+    id: ck5c48jbw0tlw0i11jqib1h9t
     verified: true
-    hashtags: "#wilsonvolleyball, #fivb, #sponsoredathlete, #volleyball"
-  - username: "nobahardadui"
-    fullname: >-
-      NobaharDadui
-    bio: >-
-      | Pro Figure Skater | Skating Choreographer | Cirque du Soleil Artist at ‘Crystal’ | Actor / Dancer | World Traveller | 🇮🇷🇨🇦
-    location: "Canada"
-    followers: 5151
-    engagement: 1184
-    commentsToLikes: 0.046660
-    id: ck5hsogaxwxm00i11y3qitp94
-    verified: false
-    hashtags: "#2020, #coldembrace, #love, #flow"
-  - username: "heyits_monika"
-    fullname: >-
-      monika k.
-    bio: >-
-      👑toronto 🇭🇷/🇷🇸 🥋elite karate athlete 🇨🇦team canada she slept with wolves without fear for the wolves knew a lion was among them
-    location: "Canada"
-    followers: 12589
-    engagement: 1038
-    commentsToLikes: 0.030996
-    id: ckaozyo9cnzyo0i78qx612b76
-    verified: false
-    hashtags: "#thesweatlife, #lululemonambassador, #standingwithyou, #womensupportingwomen"
-  - username: "josieargento"
-    fullname: >-
-      Josie Argento
-    bio: >-
-      25 | Toronto 📍 @hammerfitness bikini athlete @tc.nutrition sponsored athlete | JOSIE10 @firsthealthapparel | @firsthealth_ | JOSIE @cabanapoolbar
-    location: "Canada"
-    followers: 6789
-    engagement: 1171
-    commentsToLikes: 0.033662
-    id: ck6009u6yd7cu0i1476shklqt
-    verified: false
-    hashtags: "#25"
-  - username: "shreddedd_chicken"
-    fullname: >-
-      Ron Lee Fitness
-    bio: >-
-      🏋️‍♂️ 9 years 🇨🇦 Toronto 👕 @jed_north Athlete (RON20) 💊 @steelsupplements Athlete (CODE: SHREDDEDCHICKEN) ✉️ Email for Program
-    location: "Canada"
-    followers: 40109
-    engagement: 331
-    commentsToLikes: 0.031009
-    id: ck8tch1onzg4v0j78ekev62jl
-    verified: false
-    hashtags: "#dietplan, #workoutmotivation, #physique, #outdoors"
+    hashtags: "#poker, #bro, #athlete, #letsgochamp"
 ---

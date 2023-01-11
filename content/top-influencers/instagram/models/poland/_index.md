@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Poland In 2022
+title: Top 10 Models Instagram Influencers In Poland In 2023
 description: >-
-  Find top models Instagram influencers in Poland in 2022. Most popular hashtags: #model #makeup #photoshoot #blonde.
+  Find top models Instagram influencers in Poland in 2023. Most popular hashtags: #model #photo #photooftheday #love.
 platform: Instagram
-hits: 1172
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 1172 Instagram influencers like this in Poland for you to connect with.
+hits: 1016
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1016 Instagram influencers like this in Poland for you to work with.
 profiles:
-  - username: "kasiawuczko"
-    fullname: >-
-      Kasia Wuczko
-    bio: >-
-      🌍Poland 📍Wrocław 🎭 AST Wrocław (The National Academy of Theatre Arts) 🎥📸 VANILLA MODELS 🎼🎵🎶
-    location: "Poland"
-    followers: 12154
-    engagement: 1729
-    commentsToLikes: 0.064881
-    id: ck5bxay0dndcl0i11a2cv8emj
-    verified: false
-    hashtags: "#yourvisiongallery, #portraits, #bnw, #fashionphotographer"
-  - username: "evii.pl"
-    fullname: >-
-      Evelina
-    bio: >-
-      👩🏼‍💼Language Coach 🍀Professional Optimist 💙Trying to make a difference 🧘🏼‍♀️🌿🐛🥦 #mountainlover🗻 #model #poledancer
-    location: "Poland"
-    followers: 8420
-    engagement: 1174
-    commentsToLikes: 0.099373
-    id: ck8t7c3y5g9zy0j78nxsv372k
-    verified: false
-    hashtags: "#chorwacja, #croatia, #niedziela, #croatie"
-  - username: "roksana_szajkowska"
-    fullname: >-
-      𝑹𝑶𝑿𝑰
-    bio: >-
-      OFFICIAL ACCOUNT Polish model 🇵🇱🇺🇸🇩🇪🇫🇷🇬🇧 coperation/ business 📩roksanaszajkowskacollab@gmail.com #model #influencer
-    location: "Poland"
-    followers: 45893
-    engagement: 1078
-    commentsToLikes: 0.032163
-    id: ck0uelyxvlo9b0i19cgccxixy
-    verified: false
-    hashtags: "#roksanaszajkowska, #greeneyes, #blondehair, #instamood"
-  - username: "de_mona.zielinska"
-    fullname: >-
-      Monika Zielińska
-    bio: >-
-      🇵🇱 173cm 🎥GryMałżeńskie-s6, odc.56 talented: model, photomodel, stylist, actress, presenter, dancer, makeup for yourself too 😉cooperation? DM->✉️
-    location: "Poland"
-    followers: 20447
-    engagement: 579
-    commentsToLikes: 0.099021
-    id: ck8t6h08xdln80j7870pypv83
-    verified: false
-    hashtags: "#modelka, #szczecin, #warszawa, #pi"
-  - username: "renata_molenda"
-    fullname: >-
-      Renata Molenda Official💎
-    bio: >-
-      DM📥 #tvpresenter #model #actress 📸🎥🎬🎤Master of IER 👩‍🎓Pięknem Kobiety jest jej klasa i wdzięk, a jej największą siłą niezależność i własne zdanie⚔️
-    location: "Poland"
-    followers: 22017
-    engagement: 566
-    commentsToLikes: 0.063793
-    id: ck9we4ty4ilio0j78d3l9oun7
-    verified: false
-    hashtags: "#beauty, #hairstyle, #eyes, #natural"
-  - username: "ewalubert"
-    fullname: >-
-      FitMama Ewa Lubert
-    bio: >-
-      Fitness Model 🤸🏼‍♂️ Personal trainer 💪 @lubertypomagaja ❤️ 📩lubertewa@gmail.com
-    location: "Poland"
-    followers: 29450
-    engagement: 426
-    commentsToLikes: 0.145165
-    id: ck0u7uyjd5q190i19o1q7rnkm
-    verified: false
-    hashtags: "#makeup, #fit, #body, #shoes"
-  - username: "niciachel99"
-    fullname: >-
-      N I K O L A
-    bio: >-
-      Makeup artist and model Półfinalistka @miss.polonia 2020
-    location: "Poland"
-    followers: 25078
-    engagement: 954
-    commentsToLikes: 0.029518
-    id: ck8tdq0wx4cl70j78bqs21v1m
-    verified: false
-    hashtags: "#model, #summer, #beach, #summervibes"
   - username: "natalia.pigula"
     fullname: >-
       Natalia Piguła
     bio: >-
       🌸 Model & Engineer 🇵🇱 Łódź, Poland 👑 Miss @missziemilodzkiej 2019 👑 I Wice @miss.polski 2019 👠 Model @newstage_models
     location: "Poland"
-    followers: 9430
-    engagement: 1252
-    commentsToLikes: 0.053366
+    followers: 9187
+    engagement: 1307
+    commentsToLikes: 0.052495
     id: ck5c9snjec1l40i11b9ucuwuw
     verified: false
-    hashtags: "#longhair, #view, #vacation, #self"
-  - username: "biernatagata"
+    hashtags: "#hair, #dzienszpilek, #darlingdaily, #streetstyle"
+  - username: "marcinklosowski.official"
     fullname: >-
-      MISS WORLD POLAND 2018👑
+      Marcin Kłosowski
     bio: >-
-      👑 MISS POLONIA 2017 👑 MISS WORLD Poland 2018 🇵🇱 💪🏻 Fit Freak 💃🏻 Dancer 👸🏻 Model @olimp_nutrition_pl @adidaswomen @etam agatabiernat@misspolonia.com.pl
+      ➡ Singer🎵 🎤 ❤ Songwriter ✍🏻 ➡️ Aktor 🎬 Model🕴➡ Snap: marcin22338 👻 ➡️ Kontakt/Współpraca: marcin22338@gmail.com ➡️ Kanał YouTube Marcin Kłosowski👇📀🎞
     location: "Poland"
-    followers: 86418
-    engagement: 264
-    commentsToLikes: 0.044928
-    id: ck0udl13djf8y0i196fnwovvx
+    followers: 62355
+    engagement: 286
+    commentsToLikes: 0.029534
+    id: ck13cnlci18op0i192di2e2ax
     verified: true
-    hashtags: "#biernat, #sport, #photomodel, #paris"
+    hashtags: "#musician, #sunset, #selfie, #fun"
+  - username: "renata_molenda"
+    fullname: >-
+      Renata Molenda Official💎
+    bio: >-
+      DM📥 #tvpresenter #model #actress 📸🎥🎬🎤Master of IER 👩‍🎓Pięknem Kobiety jest jej klasa i wdzięk, a jej największą siłą niezależność i własne zdanie⚔️
+    location: "Poland"
+    followers: 30042
+    engagement: 467
+    commentsToLikes: 0.066394
+    id: ck9we4ty4ilio0j78d3l9oun7
+    verified: false
+    hashtags: "#style, #love, #photography, #happy"
+  - username: "aleksandraprazmo"
+    fullname: >-
+      Aleksandra Prażmo
+    bio: >-
+      Polish model 🇵🇱 Cooperation ➡ olaprazmo@wp.pl Szczecin
+    location: "Poland"
+    followers: 13408
+    engagement: 1027
+    commentsToLikes: 0.065673
+    id: ckapahzemw6vl0i78diqgj33w
+    verified: false
+    hashtags: "#beautifull, #purebeauty, #ilovemakup, #aleksandraprazmo"
+  - username: "halinkawisniewska"
+    fullname: >-
+      Halinka Wisniewska
+    bio: >-
+      •Model •Photomodel • Lingerie model •Influencer •Linkwoman in internetTV🎤 •traveller, love world 🌍 #workaholic
+    location: "Poland"
+    followers: 425236
+    engagement: 248
+    commentsToLikes: 0.037303
+    id: ck5hkm49sio8z0i11rjfx7rmd
+    verified: false
+    hashtags: "#gatta, #bieliznagatta, #gattawoman, #gattaofficial"
   - username: "edyta_zajac"
     fullname: >-
       Edyta Zając
     bio: >-
-      International model mother agency: @mc2telaviv 🇵🇱 @uncovermodelswarsaw 📍 contact: agnieszka@uncovermodels.com PRManager @filipmecner
+      International model PR manager @filipmecner mother agency: @mc2telaviv 🇵🇱 @uncovermodelswarsaw 📍 contact: agnieszka@uncovermodels.com
     location: "Poland"
-    followers: 130970
-    engagement: 474
-    commentsToLikes: 0.030200
+    followers: 129519
+    engagement: 487
+    commentsToLikes: 0.029410
     id: ck0w5uuwf5jiq0i19u9j8dxsg
     verified: true
-    hashtags: "#strajkkobiet, #backstage, #comingsoon, #mybodymychoice"
+    hashtags: "#backstage, #tb, #nomakeup"
+  - username: "gloria.nalborczyk"
+    fullname: >-
+      Gloria Nalborczyk
+    bio: >-
+      ⭐️OFFICIAL ACCOUNT ⭐️ 🇵🇱Polish MODEL & DANCER📸 📩Collaboration: Dm 📧 paulina098n@interia.pl Account monitored by my mum Paulina
+    location: "Poland"
+    followers: 40765
+    engagement: 429
+    commentsToLikes: 0.036016
+    id: ck14hfdrha1p80i19dhknf0qr
+    verified: false
+    hashtags: "#photoshoot, #photosession, #perfect, #photooftheday"
+  - username: "damian.tkaczuk"
+    fullname: >-
+      DAMIAN TKACZUK
+    bio: >-
+      model | creator stuck in Warsaw visit my TikTok: damian_tkaczuk | +300k |
+    location: "Poland"
+    followers: 22638
+    engagement: 792
+    commentsToLikes: 0.039053
+    id: ck8tb8gdoupiz0j7879b6pr18
+    verified: false
+    hashtags: "#sopot, #zaraman, #warszawa, #menwithstreetstyle"
+  - username: "wikiss94"
+    fullname: >-
+      Weronika | Lifestyle
+    bio: >-
+      🇵🇱Cracow @wikiss94 📷Photoshoot inspiration | model 💄Makeup Artist 🌼🙈 @weronikastarego_makeup
+    location: "Poland"
+    followers: 3565
+    engagement: 2711
+    commentsToLikes: 0.055165
+    id: ck8t8xnavm7u50j78vs7o9tng
+    verified: false
+    hashtags: "#polskauroda, #kobiecafotoszkola, #dziewczynykfs, #uroda"
+  - username: "karolina.zaworska"
+    fullname: >-
+      🌺Karolina Zaworska🌺
+    bio: >-
+      👉Kraków 📍 👉1 Wicemiss Polski Nastolatek 2018👑 👉Miss Nastolatek Podkarpacia 2018👑 👉@newstage_models 🇵🇱 👉@26modelsmilano 🇮🇹 👉@mazarinemodel 🇹🇼
+    location: "Poland"
+    followers: 4107
+    engagement: 2415
+    commentsToLikes: 0.045856
+    id: ckaoyah3ygohz0i78o9l2258v
+    verified: false
+    hashtags: "#cracow, #dubaj, #whitedress, #modelka"
 ---

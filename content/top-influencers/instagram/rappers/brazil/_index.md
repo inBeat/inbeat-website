@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Brazil In 2022
+title: Top 10 Rappers Instagram Influencers In Brazil In 2023
 description: >-
-  Find top rappers Instagram influencers in Brazil in 2022. Most popular hashtags: #model #rapnacional #corposaudavel.
+  Find top rappers Instagram influencers in Brazil in 2023. Most popular hashtags: #rapnacional #rap #hiphop.
 platform: Instagram
-hits: 104
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 104 Instagram influencers like this in Brazil for you to collaborate.
+hits: 92
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 92 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "coebuddy"
     fullname: >-
       BUDDY POKE
     bio: >-
-      💙 Pai do Bernardo 🎤 Rapper RJ 🤪 REI DA GASTATIVIDADE! . ☎️: 21 98068-5040 (Shows e parcerias)
+      💙 Pai do Bernardo 🎤 Rapper RJ 🤪 REI DA GASTATIVIDADE! . ☎️: 21 98068-5040 (Agenda fechada!) . ÚLTIMO LANÇAMENTO! 👇👇👇👇
     location: "Brazil"
-    followers: 413416
-    engagement: 585
-    commentsToLikes: 0.030200
+    followers: 407142
+    engagement: 679
+    commentsToLikes: 0.040831
     id: ck6u5ukp5bu4a0j71x7cayreh
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "matheusxcoringa"
-    fullname: >-
-      Matheus Coringa
-    bio: >-
-      Desde 1995 o + sujo 🇧🇷 I’m not a Rapper 🏴‍☠️ COM TÍTULO no Youtube ⛩
-    location: "Brazil"
-    followers: 11297
-    engagement: 844
-    commentsToLikes: 0.127582
-    id: ckap4az906jna0i781ulg7gz3
-    verified: false
-    hashtags: "#hondapatrocinaobotafogo, #hondaparadecutcharra"
+    hashtags: ""
   - username: "mcbmooo"
     fullname: >-
       MC BMO
     bio: >-
-      rapper, compositor, freestyle • shows: 011 941798066 cria de bsb
+      rapper, compositor, freestyle • shows: 011 941798066 @nviprodutora
     location: "Brazil"
-    followers: 814153
-    engagement: 900
-    commentsToLikes: 0.015014
+    followers: 829755
+    engagement: 1021
+    commentsToLikes: 0.024751
     id: ck5hgprqc43gb0i112ypo3zkq
     verified: false
     hashtags: ""
-  - username: "juninhoandradi"
-    fullname: >-
-      Andradii
-    bio: >-
-      Modelo, rapper e criador de conteúdo⁣⁣⁣⁣ moda | lifestyle | vida fitness⁣ 💌 contatoandradi@outlook.com⁣.br 📍 RJ⁣ Assista ao clipe “Nosso Mundo”
-    location: "Brazil"
-    followers: 23602
-    engagement: 316
-    commentsToLikes: 0.159205
-    id: ck9we1weei7ww0j78ujl1ng1u
-    verified: false
-    hashtags: "#lookpraia, #homematualizado, #modelosbr, #modelofotografico"
   - username: "juniormcoficial"
     fullname: >-
       Júnior Mc / Faixa Preta
     bio: >-
       Rapper Integrante da @familiatriplice Lauro De Freitas BA Se inscreve lá
     location: "Brazil"
-    followers: 13912
-    engagement: 813
-    commentsToLikes: 0.037973
+    followers: 17501
+    engagement: 1345
+    commentsToLikes: 0.054776
     id: ck5q1y76hdcwv0i1119ifmpeb
     verified: false
-    hashtags: "#model, #negrosnotopo, #cacheadas, #pretinhodopoder"
-  - username: "morcegoreal"
+    hashtags: "#reels, #africanizeoficial, #pretinhodopoder, #oftriip"
+  - username: "crissnjoficial"
     fullname: >-
-      MORCEGO
+      Cris SNJ | Negona
     bio: >-
-      Rapper 👾 +100M 🌽VIEWS/PLAYS
+      Rapper 🎤 Facebook: Cris SNJ SHOWS: 📧 contato.crisproducoes@gmail.com LANÇAMENTO "ACEITA"👇🏾
     location: "Brazil"
-    followers: 41836
-    engagement: 134
-    commentsToLikes: 0.058455
-    id: ck1357fob02sm0i19x9gtncof
+    followers: 42466
+    engagement: 309
+    commentsToLikes: 0.055439
+    id: ck1390zlwizqt0i19m4v2o1pk
     verified: false
-    hashtags: "#tudubom, #nikeboys, #sant, #faveladochique"
-  - username: "flaviorenegado"
+    hashtags: "#crissnj, #hiphopbrasil, #rns, #lan"
+  - username: "juninhoandradi"
     fullname: >-
-      Flávio Renegado
+      Andradii
     bio: >-
-      Cantor, Rapper, Compositor Colunista @midianinja Gestão @aprojetart 📩 pedro@projetar.art.br 👇🏾 Clipe “Negão Negra"
+      Modelo, rapper e criador de conteúdo⁣⁣⁣⁣ moda | lifestyle | vida fitness⁣ 💌 contatoandradi@outlook.com⁣.br 📍 RJ⁣ Assista ao clipe “Nosso Mundo”
     location: "Brazil"
-    followers: 35409
-    engagement: 125
-    commentsToLikes: 0.130519
+    followers: 22664
+    engagement: 224
+    commentsToLikes: 0.227301
+    id: ck9we1weei7ww0j78ujl1ng1u
+    verified: false
+    hashtags: "#modelosbr, #estilomasculino, #machomoda, #importados"
+  - username: "renegado"
+    fullname: >-
+      Renegado
+    bio: >-
+      Cantor, Rapper, Compositor Colunista @midianinja Gestão @aprojetart Gravadora @ummusic 📩 pedro@projetar.art.br 👇🏾 Onda Negra no Municipal
+    location: "Brazil"
+    followers: 37857
+    engagement: 165
+    commentsToLikes: 0.138790
     id: ck9hc014vj6770j78giatvx2c
     verified: true
-    hashtags: "#filhodorei, #caf, #elzasoares, #blackbody"
-  - username: "aulad7"
+    hashtags: "#filhodorei, #musicabrasileira, #blackbody, #rapbrasil"
+  - username: "manojiu_"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ D I E G O .
+      Mano Jiu Jitsu
     bio: >-
-      Rapper/Produtor — Astro Gang 🌠 📨: contatodalua@tatumedia.com.br Label: @tatu.midia | TimePRO! 🐙🕸 ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ “DIEGO” Out Now! ASSISTA AGORA‼️
+      Rapper e MC 🎙️ @ana.drrposse ♡ ⬇⬇Escute "Sangue Frio" ⬇⬇
     location: "Brazil"
-    followers: 42783
-    engagement: 541
-    commentsToLikes: 0.028836
-    id: ck134qq1zxqj50i19sur5gue3
+    followers: 7395
+    engagement: 857
+    commentsToLikes: 0.045711
+    id: ckaowmgp99i2h0i7822617pxo
     verified: false
-    hashtags: "#covid19"
+    hashtags: "#lofibeats, #beat, #beatmaker, #streetstyle"
   - username: "panterabl4ck"
     fullname: >-
       Bl4ckPanther
     bio: >-
-      MC/RAPPER/NEGAÇA/MODELO Bela dona boladona na ilha de lost shit ✨💯🖕🏿 Real gangstar 👸🏿
+      MC/RAPPER/NEGAÇA/MODELO/SAGITARIANA Bela dona boladona ✨💯👸🏿
     location: "Brazil"
-    followers: 3946
-    engagement: 895
-    commentsToLikes: 0.106503
+    followers: 4258
+    engagement: 979
+    commentsToLikes: 0.110506
     id: ck6ufyqhjzx030j71m7q82d5c
     verified: false
-    hashtags: "#afropunk, #blackquen, #jamaica, #narima"
+    hashtags: "#rua, #blackgirlsrock, #maranh, #ancestralidade"
+  - username: "zuymoah"
+    fullname: >-
+      🛸Zuy Moah🛸
+    bio: >-
+      Mãe🦅Rapper Compositora e poetisa 🪐 Apesar de ser filha da terra a minha raça vem das estrelas 🛸 Dona: @nativas_surf Restaurante/chalés/camping
+    location: "Brazil"
+    followers: 17649
+    engagement: 347
+    commentsToLikes: 0.044023
+    id: ck5znzsnqpgz20i14dgauo6l6
+    verified: false
+    hashtags: "#vaiziah, #alunoderayan, #drip, #hiphop"
   - username: "mcsoffia"
     fullname: >-
       MC Soffia
     bio: >-
       *Rapper Teen *Publicidade: mcsoffia@mynd8.com.br *Contato shows: contatomcsoffia@hotmail.com
     location: "Brazil"
-    followers: 314133
-    engagement: 151
-    commentsToLikes: 0.017117
+    followers: 326710
+    engagement: 196
+    commentsToLikes: 0.016308
     id: ck0tzsgnwrfv00i199i2mlbxa
     verified: true
-    hashtags: "#ceanothevoicebrasil, #empoderadachallenge, #ceamuitoeu, #publi"
+    hashtags: "#belezanegra, #stabilobethecolor, #publi, #empoderadachallenge"
 ---

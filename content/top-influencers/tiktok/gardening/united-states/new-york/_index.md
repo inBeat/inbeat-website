@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening TikTok Influencers In New York In 2022
+title: Top 10 Gardening TikTok Influencers In New York In 2023
 description: >-
-  Find top gardening TikTok influencers in New York in 2022. Most popular hashtags: #fyp #gardening #plants #newyork.
+  Find top gardening TikTok influencers in New York in 2023. Most popular hashtags: #fyp #plants #gardening #garden.
 platform: TikTok
-hits: 7
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 7 TikTok influencers like this in New York, United States for you to connect with.
+hits: 6
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 6 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "greg.rh"
+  - username: "alexandertheswag"
     fullname: >-
-      Greg
+      ‘xander
     bio: >-
-      Art, furniture, fashion, and cooking g96harder@gmail.com
+      😎 🔮 🐻 🌻 I am very nice and cool
     location: "United States"
-    followers: 2677
-    engagement: 776
-    commentsToLikes: 0.118627
-    id: ckcjhqtugceoo0j237jtjk2h3
+    followers: 4131
+    engagement: 1298
+    commentsToLikes: 0.209748
+    id: ckamjtkw1plza0i78mih858gm
     verified: false
-    hashtags: "#modeling, #furniture, #photography, #malemodel"
-  - username: "relauren"
+    hashtags: "#actor, #fyp, #pov, #soccer"
+  - username: "cosgrome"
     fullname: >-
-      Lauren Ferree
+      Moira Cosgrove | Plants 🌱
     bio: >-
-      🌍 sustainability 🍊 plant based 🌞 la ⚡️ boom baby 📺 live wednesdays 2pm PT
+      📍NYC • FOLLOW IG ⬆️ PLANTS 🌱 GARDENING hello@cosgrome.com • links to stuff ↙️
     location: "United States"
-    followers: 104500
-    engagement: 1363
-    commentsToLikes: 0.015218
-    id: ck9riokgwkr5n0j78relv6x9c
-    verified: true
-    hashtags: "#vegan, #sustainability, #learnontiktok, #plantbased"
-  - username: "swimmingandliving"
-    fullname: >-
-      Elena Sinitsyn
-    bio: >-
-      My FUN very ADHD life
-    location: "United States"
-    followers: 5182
-    engagement: 761
-    commentsToLikes: 0.142629
-    id: ckbezc2ugkfo10j23rz3zm8tq
+    followers: 144900
+    engagement: 722
+    commentsToLikes: 0.014932
+    id: ck9rcjcbatppw0j78j6txlvp2
     verified: false
-    hashtags: "#momsoftiktok, #diy, #diyersoftiktok, #genx"
+    hashtags: "#indoorgarden, #plant, #planttips, #planttiktok"
+  - username: "thisyoudana"
+    fullname: >-
+      Dana Dub
+    bio: >-
+      🖤Thank you for being here 🖤 Constantly learning
+    location: "United States"
+    followers: 11500
+    engagement: 2161
+    commentsToLikes: 0.062687
+    id: ckavht67tptg00j23e1ap6qgu
+    verified: false
+    hashtags: "#memories, #fyp, #duet, #braiding"
   - username: "sugarhouse303"
     fullname: >-
       Chini
     bio: >-
       🇺🇸love yourself first ! so u can love others🇺🇸
     location: "United States"
-    followers: 3137
-    engagement: 1558
-    commentsToLikes: 0.006080
+    followers: 3179
+    engagement: 1626
+    commentsToLikes: 0.007773
     id: ck8qjdf93d3m60j785vwy7r19
     verified: false
-    hashtags: "#rasulallah, #beautiful, #allah, #beach"
+    hashtags: "#bismillah, #dua, #rassulullah, #love"
   - username: "the_blumencranz"
     fullname: >-
       Luke Blumencranz
     bio: >-
-      Long Island NY 🌈 CEO of bad spelling
+      Long Island NY Cuse 2025 🍊 🌈 CEO of bad spelling
     location: "United States"
-    followers: 37800
-    engagement: 423
-    commentsToLikes: 0.032197
+    followers: 42100
+    engagement: 469
+    commentsToLikes: 0.035455
     id: ckc8d2or78tve0j234m6sws1e
     verified: false
-    hashtags: "#fyp, #tiktok, #product, #foryoupage"
-  - username: "makeachange.world"
-    fullname: >-
-      makeachange
-    bio: >-
-      Environmental media 🌊 Uplifting videos to #makeachange Follow us on YouTube! 👇
-    location: "United States"
-    followers: 150600
-    engagement: 1995
-    commentsToLikes: 0.010844
-    id: ck92t67p6gjng0j78xzieddu3
-    verified: false
-    hashtags: "#fyp, #ocean, #foryourpage, #pollution"
+    hashtags: "#tiktokmademebuyit, #christmas, #fivethingschallenge, #foryoupage"
   - username: "kaymarie2521"
     fullname: >-
       KaylaMarie💋
     bio: >-
-      PA 📸IG: kayla.moll 💵Venmo: kaylam23 ☕️buymeacoff.ee/AlwaysAddCream2
+      PA Drop some jokes in the DM Hope you’re testing negative and staying positive
     location: "United States"
-    followers: 5597
-    engagement: 347
-    commentsToLikes: 0.038463
+    followers: 5484
+    engagement: 355
+    commentsToLikes: 0.040719
     id: ckb0zr4eooegk0j230ibf2o9c
     verified: false
-    hashtags: "#target, #girls, #comfy, #selfcare"
+    hashtags: "#target, #eastside, #selfcare, #girlspower"
   - username: "growingthroughtheweeds"
     fullname: >-
       Growing Through The Weeds 🍓
     bio: >-
       🌱 Gardening 🧵 Sewing 🍪 Cooking 🌟 Positivity & dash of sarcasm
     location: "United States"
-    followers: 6974
-    engagement: 2156
-    commentsToLikes: 0.248635
+    followers: 9525
+    engagement: 2144
+    commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#growingthroughtheweeds, #learnontiktok, #diy, #sewing"
-  - username: "minigarden_"
-    fullname: >-
-      🌱🍄🌈🌻
-    bio: >-
-      blm she/her Gardening stuff 🍄🌱🌞🌿🧿 depop @franciefrickee
-    location: "United States"
-    followers: 2038
-    engagement: 2085
-    commentsToLikes: 0.066653
-    id: ckbf7oxi4xqvf0j23k3fkne7a
-    verified: false
-    hashtags: "#viral, #foryou, #botanistsoftiktok, #xyzbca"
+    hashtags: "#gardening, #garden, #summer, #growfoodnow"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
     bio: >-
       Homesteading, Gardening, Permaculture and more! LEARN TEACH GROW
     location: "United States"
-    followers: 10600
-    engagement: 1440
-    commentsToLikes: 0.158028
+    followers: 11500
+    engagement: 1272
+    commentsToLikes: 0.130380
     id: ck8vuqcv4jlc90j78gme30n29
     verified: false
-    hashtags: "#plants, #feelinggood, #houseplants, #wholesomeroots"
+    hashtags: "#wholesomeroots, #gardening, #homesteadersoftiktok, #growyourown"
+  - username: "nirianvigora"
+    fullname: >-
+      Nirian Vigora
+    bio: >-
+      🪴Steph🪴 cottagecore gardening and travel ‼️Taxidermist‼️ Insta: nirian_vigora
+    location: "United States"
+    followers: 3683
+    engagement: 2029
+    commentsToLikes: 0.034276
+    id: ckb10ql6ep92k0j2385rk4qy2
+    verified: false
+    hashtags: "#frogtiktok, #plants, #frog, #lgbt"
+  - username: "levelupirl"
+    fullname: >-
+      levelupirl
+    bio: >-
+      Anime Computers Cooking Gardening Photography
+    location: "United States"
+    followers: 2874
+    engagement: 967
+    commentsToLikes: 0.090171
+    id: cka0kuku7o7l20i78ksst02ak
+    verified: false
+    hashtags: "#foryou, #fyp, #onepiece, #stitch"
 ---

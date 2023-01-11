@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Chile In 2022
+title: Top 10 Fitness TikTok Influencers In Chile In 2023
 description: >-
-  Find top fitness TikTok influencers in Chile in 2022. Most popular hashtags: #parati #foryou #viral #fitness.
+  Find top fitness TikTok influencers in Chile in 2023. Most popular hashtags: #parati #fyp #fitness #viral.
 platform: TikTok
 hits: 21
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 21 TikTok influencers like this in Chile for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 21 TikTok influencers like this in Chile for you to connect with.
 profiles:
   - username: "valevidalacevedo"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Pastry Chef 🍰🧁 Profesora de Pastelería 👩🏽‍🍳 Fitness 💪 🏋️
     location: "Chile"
-    followers: 198600
-    engagement: 790
-    commentsToLikes: 0.018452
+    followers: 212000
+    engagement: 912
+    commentsToLikes: 0.014477
     id: ckcv00g0mmzu80j23bopdqnjg
     verified: false
-    hashtags: "#tiktokchile, #tiktokchef, #parati, #aprendoentiktok"
+    hashtags: "#tiktokchile, #tiktokchef, #pasteler, #dest"
   - username: "reyalcalde"
     fullname: >-
       ReyAlcalde
     bio: >-
       Actor / Entretenedor / Lifestyle & Fitness Youtuber "BE REAL OR BE GONE"
     location: "Chile"
-    followers: 169800
-    engagement: 813
-    commentsToLikes: 0.011710
+    followers: 280800
+    engagement: 764
+    commentsToLikes: 0.009019
     id: ckdc30zrqg8480j23uyx22mdw
     verified: true
-    hashtags: "#foryourpage, #pets, #cats, #love"
-  - username: "ignafitness"
+    hashtags: "#fyp, #reyalcalde, #reyconfesiones, #viral"
+  - username: "kukopacheco"
     fullname: >-
-      Ignafitness
+      KUKO
     bio: >-
-      Siganme en instagram @Ignacio.cardenasfit 🐺👈🏽 Coach online 🦾🔥 Personal trai
+      📷 Instagram : "Kukopacheco " 📍Melipilla Meta 20k 😛😝 Ceo en “Cuatico no”
     location: "Chile"
-    followers: 163800
-    engagement: 1182
-    commentsToLikes: 0.021838
-    id: ckace937qlq030i784g4u1g8h
+    followers: 19700
+    engagement: 1158
+    commentsToLikes: 0.131412
+    id: ckdcjj9zqlfoe0j23i14ziowg
     verified: false
-    hashtags: "#challenge, #foryoupage, #abs, #foryou"
+    hashtags: "#yoenlafiesta, #parati, #respuesta, #fyp"
   - username: "brakone"
     fullname: >-
       Mauricio Idrogo
     bio: >-
       -Comedia 😁 -Deporte 💪🏻 -Baile 🕺🏻 -GamerPC 🖥️
     location: "Chile"
-    followers: 154700
-    engagement: 969
-    commentsToLikes: 0.022516
+    followers: 156100
+    engagement: 1211
+    commentsToLikes: 0.027363
     id: ckc8v2dvdho7b0j23dxzfxbmw
     verified: false
-    hashtags: "#fitness, #parati, #mexico, #humor"
-  - username: "riidelrey"
+    hashtags: "#fitnessmodels, #humor, #parati, #viral"
+  - username: "ignafitness"
     fullname: >-
-      Riidelrey
+      Ignafitness
     bio: >-
-      Chile 🇨🇱 💗 San Antonio 🌈💕 Instagram: Riidelrey 😊🙌🏾✨❤️👑🌎🎶🧜🏾‍♀️👽🥰
+      Siganme en instagram @Ignacio.cardenasfit 🐺👈🏽 Coach online 🦾🔥 Personal trai
     location: "Chile"
-    followers: 8085
-    engagement: 988
-    commentsToLikes: 0.025083
-    id: cka0vlltxz43g0i78uy180aw0
+    followers: 180400
+    engagement: 954
+    commentsToLikes: 0.018664
+    id: ckace937qlq030i784g4u1g8h
     verified: false
-    hashtags: "#halloweenmakeup, #humor, #comedia, #foryou"
-  - username: "healthydelight"
+    hashtags: "#aesthetic, #gymlover, #fyp, #parati"
+  - username: ".camilapaz"
     fullname: >-
-      🍎🍓🥥🍊🥝🍒🍌🍑🥭🍇
+      Camila Paz
     bio: >-
-      QUÉ COMO EN UN DÍA🍒
+      🏋️‍♀️🌎✈️ Lash artist 🇨🇱 Nail artist @ame__belle
     location: "Chile"
-    followers: 12900
-    engagement: 1082
-    commentsToLikes: 0.013896
-    id: ckdc6lua1hg330j2323po4xte
+    followers: 26500
+    engagement: 646
+    commentsToLikes: 0.029714
+    id: ckcjk35oydpsg0j231t8tqata
     verified: false
-    hashtags: "#healthy, #recetasaludable, #receta, #saludable"
-  - username: "titan.cat"
-    fullname: >-
-      Titan the Cat
-    bio: >-
-      Soy Titán, un siamés Seal Point glotón y juguetón 😸🇨🇱Instagram: titanthecat18
-    location: "Chile"
-    followers: 353500
-    engagement: 2172
-    commentsToLikes: 0.011321
-    id: ckac6zkbhegmm0i78v863wb7p
-    verified: false
-    hashtags: "#funny, #siamese, #foryou, #chile"
+    hashtags: "#chiste, #viral, #fitgirl, #enunminuto"
   - username: "conanobregon"
     fullname: >-
       Coach Conan
     bio: >-
       Preparador Físico 🏋️ aprende sobre entrenamiento 🤓 quieres entrenar conmigo?⬇
     location: "Chile"
-    followers: 19600
-    engagement: 532
-    commentsToLikes: 0.053103
+    followers: 19500
+    engagement: 523
+    commentsToLikes: 0.053216
     id: ckcv1og54nrz90j23sd75vb1z
     verified: false
-    hashtags: "#gluteos, #squats, #aumentomuscular, #entrenamiento"
-  - username: "oliverbornercerda1"
-    fullname: >-
-      Oliver Börner 🎞
-    bio: >-
-      ❤️ Actor en formación 🎭 Síganme en Instagram @oliverbornercerda 🇨🇱😉
-    location: "Chile"
-    followers: 2000000
-    engagement: 2093
-    commentsToLikes: 0.007851
-    id: ck9f48e6dl5700j78u9ex7xbw
-    verified: true
-    hashtags: "#parati, #viral, #comedia, #situaciones"
+    hashtags: "#gluteos, #aumentomuscular, #entrenamiento, #crossfit"
   - username: "le_petit_le_puff"
     fullname: >-
       Le Petit Le Puff
     bio: >-
       Aguántenme mientras no salgo de casa🤷🏻‍♂️ Diseño de moda y tik toks muy gays☄️
     location: "Chile"
-    followers: 2491
-    engagement: 1389
-    commentsToLikes: 0.037013
+    followers: 2425
+    engagement: 1386
+    commentsToLikes: 0.040800
     id: ckbffubr4aqy30j23v08jg60r
     verified: false
-    hashtags: "#fyp, #outfit, #fashiondesign, #cuarentena"
+    hashtags: "#model, #runway, #lgbt, #gay"
+  - username: "marcoarayar"
+    fullname: >-
+      Marco Antonio Araya 
+    bio: >-
+      De Chile pal mundo 🇨🇱
+    location: "Chile"
+    followers: 2664
+    engagement: 780
+    commentsToLikes: 0.043232
+    id: cka0om4z44gkl0i78f4bzjdjo
+    verified: false
+    hashtags: "#fashion, #nyc, #dise, #pedreria"
+  - username: "sebadreams"
+    fullname: >-
+      SebaDreams
+    bio: >-
+      META 100K ayúdame ❤️ Sígueme en TWITCH! ⬇️
+    location: "Chile"
+    followers: 91500
+    engagement: 1519
+    commentsToLikes: 0.015109
+    id: ckb9c17viyog90j23c9i5dlhg
+    verified: false
+    hashtags: "#fyp, #foryou, #foryoupage, #lentejas"
 ---

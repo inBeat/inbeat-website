@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In London In 2022
+title: Top 10 Beauty TikTok Influencers In London In 2023
 description: >-
-  Find top beauty TikTok influencers in London in 2022. Most popular hashtags: #fyp #london #beauty #uk.
+  Find top beauty TikTok influencers in London in 2023. Most popular hashtags: #beauty #london #fyp #love.
 platform: TikTok
 hits: 48
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database has 48 TikTok influencers like this in London, United Kingdom for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 48 TikTok influencers like this in London, United Kingdom for you to pitch.
 profiles:
-  - username: "indiaalexandrial"
-    fullname: >-
-      𝕀ℕ𝔻𝕀𝔸 🏳️‍🌈
-    bio: >-
-      Manc 🐝 Model ✨ LDN📍 IG 👉🏻 @indiaalexandrial Enquiries ✉️ liz@zone-models.com
-    location: "United Kingdom"
-    followers: 3511
-    engagement: 943
-    commentsToLikes: 0.034349
-    id: ck8far19a4iyg0j78fh47wcxo
-    verified: false
-    hashtags: "#beautytips, #makeuplook, #makeuplife, #puglife"
-  - username: "houseofsienna1"
-    fullname: >-
-      houseofsienna1
-    bio: >-
-      IG:houseofsienna 🇬🇧 Content Creator💄 Glam Queen 🎨 Cut Crease Guru 😍❤️❤️❤️
-    location: "United Kingdom"
-    followers: 27400
-    engagement: 957
-    commentsToLikes: 0.043554
-    id: ckbqvnwlofuz50j239xp8397k
-    verified: false
-    hashtags: "#foryoupage, #uk, #dollhousechallenge, #london"
   - username: "toobaaiqbal"
     fullname: >-
       Tooba
     bio: >-
-      New to TikTok 🙈 ❤️Please subscribe my YouTube Channel ❤️ Just for fun
+      New to TikTok 🙈 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇵🇰 ❤️Please subscribe my YouTube Channel ❤️
     location: "United Kingdom"
-    followers: 10100
-    engagement: 809
-    commentsToLikes: 0.038182
+    followers: 10200
+    engagement: 730
+    commentsToLikes: 0.058521
     id: ck90023ej9xb10j78k5a9i16s
     verified: false
-    hashtags: "#uk, #scottishgirl, #mothernature, #punjabi"
-  - username: "azooridesigns"
+    hashtags: "#illu, #scottishpakistani, #motd, #4u"
+  - username: "prishabathia"
     fullname: >-
-      Azoori Designs
+      Prisha Bathia
     bio: >-
-      ~Traditional Afghan Engagement & Wedding Accessories.🇦🇫 Insta @azooridesigns
+      Educate•Empower•Encourage Inspiring young people🌟Career advice🌟Confidence🌟
     location: "United Kingdom"
-    followers: 2093
-    engagement: 627
-    commentsToLikes: 0.044411
-    id: cka0jbyvahga70i78aj3c7dv5
+    followers: 14300
+    engagement: 897
+    commentsToLikes: 0.047111
+    id: ck94k57g9txsf0j783itho7cx
     verified: false
-    hashtags: "#shirinkhori, #muslim, #afghani, #afghan"
-  - username: "stazzylicious"
+    hashtags: "#office, #corporate, #makeuptutorial, #dreamjob"
+  - username: "shadybabyj"
     fullname: >-
-      Anastazia
+      🍄✨ JIEANNE  💌🦋
     bio: >-
-      no❤️
+      🎬
     location: "United Kingdom"
-    followers: 13600
-    engagement: 872
-    commentsToLikes: 0.013214
-    id: ckdbuyb7sddqc0j236xq07ceg
+    followers: 13100
+    engagement: 969
+    commentsToLikes: 0.021853
+    id: ckaux8cww2olt0j23w6kpzk9q
     verified: false
-    hashtags: "#makeup, #countryside, #whatieatinaday, #christmas"
-  - username: "alicex50"
+    hashtags: "#student, #uni, #ringlight, #fashion"
+  - username: "rajiyaa.da.raja.maharaja"
     fullname: >-
-      Alice ⚡️
+      Jass singh
     bio: >-
-      insta : Alicenendickx⚡️💘 business : alicex50enquires@gmail.com outfit links👇🏼
+      The glories are in the Lord’s own hand He blesses those with whom He is pleased
     location: "United Kingdom"
-    followers: 65200
-    engagement: 817
-    commentsToLikes: 0.012995
-    id: ck9jzd3g289qa0j7819ukvgcm
+    followers: 27500
+    engagement: 1423
+    commentsToLikes: 0.048293
+    id: ck8oreoi4bwnq0j78qt242cl0
     verified: false
-    hashtags: "#fashion, #fits, #fyp, #foryou"
-  - username: "figgyoflondon"
+    hashtags: "#follow, #happy, #fun, #foryou"
+  - username: "dilmatharu"
     fullname: >-
-      Moro and Sous 🌸
+      Dil Matharu
     bio: >-
-      Pink car on instagram above!! @figgyoflondon 💖🌸💖🌸💖🌸💖
+      Make up Artist - INSTA & YOUTUBE CLICK ⬆️ 🇬🇧
     location: "United Kingdom"
-    followers: 10100
-    engagement: 1353
-    commentsToLikes: 0.010952
-    id: ck87u08az4hu20j78dgilr3wd
+    followers: 27400
+    engagement: 566
+    commentsToLikes: 0.038043
+    id: ckbf8g56jz1d70j2385slkd8q
     verified: false
-    hashtags: "#classiccar, #car, #love, #nissanfigaro"
+    hashtags: "#uk, #love, #liftlockpop, #sikhbride"
+  - username: "vijaya0609"
+    fullname: >-
+      Vijjjj
+    bio: >-
+      Kannadathi from London.. Love dancing!! Interests : beauty, fashion and art!!
+    location: "United Kingdom"
+    followers: 30400
+    engagement: 1357
+    commentsToLikes: 0.332610
+    id: ck8nk9il1e6s50j78mnfp57m3
+    verified: false
+    hashtags: "#tiktoktelugu, #telugu, #telugumuser, #tollywood"
   - username: "naturesnoteslondon"
     fullname: >-
       Nature’s Notes
     bio: >-
       Natural soap fun 🇬🇧 Instagram : NaturesNotesLondon
     location: "United Kingdom"
-    followers: 28200
-    engagement: 237
-    commentsToLikes: 0.018008
+    followers: 28100
+    engagement: 263
+    commentsToLikes: 0.019398
     id: ckbl3wai7191u0j23wbcd7rek
     verified: false
-    hashtags: "#love, #soap, #nature, #fyp"
-  - username: "nicetokyouvegot"
+    hashtags: "#washyourhands, #beauty, #mood, #weekend"
+  - username: "nippleclamp500"
     fullname: >-
-      nicetokyouvegot
+      Nippleclamp500
     bio: >-
-      Mountains & Memes.
+      An overly logical asshole. Running for PM 2024
     location: "United Kingdom"
-    followers: 7681
-    engagement: 542
-    commentsToLikes: 0.036683
-    id: cka6etxj7d3c70i786xjeaxls
+    followers: 46300
+    engagement: 834
+    commentsToLikes: 0.069766
+    id: ck8ore4yzbssy0j787d3przy1
     verified: false
-    hashtags: "#music, #movie, #lockdown, #ukcomedy"
-  - username: "ibabthekebab"
+    hashtags: "#nippleclamp500, #stitch, #nippleclamp, #replytocomments"
+  - username: "grays.lashes.and.beauty"
     fullname: >-
-      Ibabthekebab
+      Gray’s Lashes and Beauty
     bio: >-
-      London Yuh Pakistani Yuh
+      Restock is live! Website in bio🌟 Thank you for 100K!💞
     location: "United Kingdom"
-    followers: 10100
-    engagement: 1435
-    commentsToLikes: 0.078488
-    id: ckdnbs1h9gfzg0j23synovgom
+    followers: 120000
+    engagement: 1823
+    commentsToLikes: 0.020815
+    id: ckbqdvfg5zrij0j23ocr0lgnl
     verified: false
-    hashtags: "#trend, #dajjal, #makkah, #hijab"
+    hashtags: "#lipliner, #makeup, #lashes, #grayslashes"
+  - username: "tasmina_khan"
+    fullname: >-
+      Tasmina Khan
+    bio: >-
+      📸 @tasmina_khan 👻 @tasmina_khan
+    location: "United Kingdom"
+    followers: 3965
+    engagement: 511
+    commentsToLikes: 0.029903
+    id: ckamyj9tshue40i78hp6rql3c
+    verified: false
+    hashtags: "#harrods, #birthday, #valentinesday2021, #food"
 ---

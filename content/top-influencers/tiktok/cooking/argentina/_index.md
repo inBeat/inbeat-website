@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Argentina In 2022
+title: Top 10 Cooking TikTok Influencers In Argentina In 2023
 description: >-
-  Find top cooking TikTok influencers in Argentina in 2022. Most popular hashtags: #foryou #parati #viral #fyp.
+  Find top cooking TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #foryou #cooking.
 platform: TikTok
-hits: 33
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 33 TikTok influencers like this in Argentina for you to work with.
+hits: 23
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 23 TikTok influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "de.cambiodehabitos"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Te espero en mi Instagram 👆🏻 Asesoria Cambio de Hábito~Comunidad Batch Cooking
     location: "Argentina"
-    followers: 37800
-    engagement: 477
-    commentsToLikes: 0.025000
+    followers: 73900
+    engagement: 508
+    commentsToLikes: 0.018291
     id: ckcdu0g2xe8sw0j23hh2tk5e7
     verified: false
-    hashtags: "#cocina, #mealprep, #mealprepideas, #bajargrasa"
+    hashtags: "#cocinasemanal, #bajargrasa, #capilladelmonte, #semillas"
   - username: "julieta_delaloye"
     fullname: >-
       julieta_delaloye
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.151329
     id: ckciuysu30kr60j23mmhw7d1t
     verified: false
-    hashtags: "#charlidamelio, #lucasjzumann, #correportuvida, #editss"
+    hashtags: "#fye, #albumlookalike, #amybeth, #xyzbca"
   - username: "mo0nxzodiac"
     fullname: >-
       Aesthetic girl ✨🦋
@@ -42,31 +42,19 @@ profiles:
     commentsToLikes: 0.030682
     id: ckavit1q6r4pu0j234v80qre3
     verified: false
-    hashtags: "#cookinghacks, #fyp, #viralvideo, #cruelrealidad"
+    hashtags: "#xyzbca, #greenscreen, #correportuvida, #viralvideo"
   - username: "virginiasar"
     fullname: >-
       Virginia Sar
     bio: >-
       Pastry-Lifestyle-Entertainment
     location: "Argentina"
-    followers: 20100
-    engagement: 1645
-    commentsToLikes: 0.024678
+    followers: 20700
+    engagement: 1424
+    commentsToLikes: 0.036080
     id: ck9k5xr8aykbi0j7877t4xly2
     verified: true
-    hashtags: "#cream, #cookingchallenge, #bakery, #colorchallenge"
-  - username: "maribelquirozsoli"
-    fullname: >-
-      Maribel Quiroz Soliz
-    bio: >-
-      feibu
-    location: "Argentina"
-    followers: 11496
-    engagement: 927
-    commentsToLikes: 0.026730
-    id: ckav3t7xpa74n0j23fxhqmohi
-    verified: false
-    hashtags: "#findyoursexy, #sexybo, #zyxbca, #sexybody"
+    hashtags: "#cake, #valentin, #parati, #cakechallenge"
   - username: "asadazos"
     fullname: >-
       Asadazos
@@ -74,57 +62,69 @@ profiles:
       Cocino
     location: "Argentina"
     followers: 138300
-    engagement: 626
-    commentsToLikes: 0.009854
+    engagement: 620
+    commentsToLikes: 0.009529
     id: ckbfc9lsv4z320j23cghryk6u
     verified: false
-    hashtags: "#asadazos, #colitadecuadril, #parrilla, #foryou"
+    hashtags: "#cerdo, #foryou, #tritip, #mollejas"
   - username: "recreossaludables"
     fullname: >-
       Recreos Saludables
     bio: >-
       Cocinar es divertirse, crear y dar amor 💕 || Instagram || @recreossaludables
     location: "Argentina"
-    followers: 46300
-    engagement: 1006
-    commentsToLikes: 0.011537
+    followers: 46700
+    engagement: 925
+    commentsToLikes: 0.012077
     id: ckb9mxrwbgcbu0j23vuozu5fp
     verified: false
-    hashtags: "#viral, #chocolate, #recetafacil, #food"
-  - username: "dailywonderpics"
+    hashtags: "#navidad, #recetafacil, #arg, #viralvideo"
+  - username: "dailystreamingram"
     fullname: >-
-      Dailywonderpics
+      Daily streamingram
     bio: >-
-      Dailywonder posts every day - Join us # Dailywonderpics IG to @dailywonderpics
+      New streaming series every day! - join us!!
     location: "Argentina"
-    followers: 75800
-    engagement: 1140
+    followers: 74800
+    engagement: 36
     commentsToLikes: 0.000000
     id: ck9jxtaew26s80j78k0kifhj6
     verified: false
-    hashtags: "#viralvideo, #dessert, #cook, #new"
-  - username: "comeren.ba"
+    hashtags: "#foodtoker, #cake, #friends, #dailywonderpics"
+  - username: "juja.fz"
     fullname: >-
-      comeren.ba
+      Juana Fernandez
     bio: >-
-      • Food & Travel • Me gusta comer 🤷🏽‍♀️ Seguime en Instagram @comeren.ba 🔥
+      
     location: "Argentina"
-    followers: 3282
-    engagement: 569
-    commentsToLikes: 0.013137
-    id: ckbf1thhgo8f20j23p7s845xv
+    followers: 2800
+    engagement: 2345
+    commentsToLikes: 0.042061
+    id: ckcorbric7jo70j23k3g9t0r4
     verified: false
-    hashtags: "#parati, #oreo, #foodporn, #argentina"
-  - username: "chelfudisney"
+    hashtags: "#parati, #felix, #greenscreen, #stay"
+  - username: "tomkeyss"
     fullname: >-
-      Chelfu
+      Tom Keys
     bio: >-
-      Futura licenciada en gastronomía y amante de Disney ❤️ Recetas en Instagram
+      🎹¡Gracias por los 40K!🎹 👇🏼VIDEO DE TANDIL👇🏼
     location: "Argentina"
-    followers: 62000
-    engagement: 1461
-    commentsToLikes: 0.006623
-    id: ckciociaivjzd0j23xpliebgw
+    followers: 43300
+    engagement: 1248
+    commentsToLikes: 0.066413
+    id: cka0kmz5pnboi0i784v55mxxx
     verified: false
-    hashtags: "#harry, #cocinando, #disneyland, #reposteria"
+    hashtags: "#educacion, #humor, #chatroulette, #omegle"
+  - username: "martugarciagalasso_"
+    fullname: >-
+      Martu
+    bio: >-
+      💘✨💖💫🤍 🇦🇷 Ig: martuchigg
+    location: "Argentina"
+    followers: 18300
+    engagement: 1565
+    commentsToLikes: 0.032391
+    id: ckbfbzu9y4f3y0j23sue62mjk
+    verified: false
+    hashtags: "#foryou, #lentejas, #fyp, #xcyzba"
 ---

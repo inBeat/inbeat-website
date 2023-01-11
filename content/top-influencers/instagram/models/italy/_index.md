@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Italy In 2022
+title: Top 10 Models Instagram Influencers In Italy In 2023
 description: >-
-  Find top models Instagram influencers in Italy in 2022. Most popular hashtags: #fashion #model #fashionstyle.
+  Find top models Instagram influencers in Italy in 2023. Most popular hashtags: #portrait #model #love.
 platform: Instagram
-hits: 1699
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 1699 Instagram influencers like this in Italy for you to collaborate.
+hits: 1482
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 1482 Instagram influencers like this in Italy for you to contact.
 profiles:
-  - username: "imgiuliacocola"
+  - username: "_sofi_ko"
     fullname: >-
-      Giulia Cocola
+      Sofi
     bio: >-
-      🇮🇹Model
+      🌿Artist 🎨 🌿Student of @karazinuniver and @khnuvs 📚 🌿Model 👠 @100capri_official 🇧🇱🇫🇷 @whynotmodelistanbul 🇹🇷 @notoysmodels 🇩🇪 MA🇺🇦
     location: "Italy"
-    followers: 60613
-    engagement: 242
-    commentsToLikes: 0.041076
-    id: ck5hcenmzhodg0i11cuv1mehs
+    followers: 13328
+    engagement: 636
+    commentsToLikes: 0.032581
+    id: ckap6ypfhhx350i78u30zolts
     verified: false
-    hashtags: "#adv, #nophotoshop, #tb, #lastnight"
-  - username: "beatricemarchetti__"
+    hashtags: ""
+  - username: "118garagediorama"
     fullname: >-
-      BEATRICE MARCHETTI
+      1:18 Garage Diorama
     bio: >-
-      Model
+      Welcome to diecast model cars world - original 1:18 garage diorama with perfect diecast cars from diecast and resin brands.
     location: "Italy"
-    followers: 15426
-    engagement: 502
-    commentsToLikes: 0.026992
-    id: ck5hsd1itwe8v0i11l8igp70k
+    followers: 7372
+    engagement: 230
+    commentsToLikes: 0.044841
+    id: ckapav1l0xkq20i78wu2p6w40
     verified: false
-    hashtags: "#myjungle, #lovenature, #wildlife, #iorestoacasa"
-  - username: "liciafertz"
+    hashtags: "#bmw, #instadiecast, #mercedes, #gle450amg4matic"
+  - username: "patoparodi18"
     fullname: >-
-      Buongiorno Nonna
+      Patricio Parodi Costa
     bio: >-
-      🦖Accidentally Aged Model & Influencer 🍝 #Aginggracefully since 1930 ⏳ NO TIME TO BE SAD 💕 My incredible life with grandson @elousai 👇Leggi il libro
+      Influencer / Model Streamer Tiktok patoparodi18 Working at @estoesguerraperutv @FashionNova Ambassador
     location: "Italy"
-    followers: 105765
-    engagement: 662
-    commentsToLikes: 0.062517
-    id: ck0udckjriqkd0i194s5mm8ad
-    verified: false
-    hashtags: "#happylife, #vintagelife, #advancedstyle, #over50andfabulous"
-  - username: "pepajfabio"
+    followers: 2538888
+    engagement: 81
+    commentsToLikes: 0.010571
+    id: ck13dc25f4oy70i199yisc54c
+    verified: true
+    hashtags: "#vamosalabodega, #publicidad, #seleccionesmcdonalds, #pringles"
+  - username: "lucaonestini_11"
     fullname: >-
-      Fabio _ Model
+      Luca Onestini
     bio: >-
-      Italy📍 27.12.2016 TikTok @fabio_model1 Model of @ig_fashionkiddies 𝙰𝚌𝚌𝚘𝚞𝚗𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚍 𝚋𝚢 𝚖𝚘𝚖📩 𝙳𝚘𝚗'𝚝 𝚞𝚜𝚎 𝚖𝚢 𝚙𝚑𝚘𝚝𝚘𝚜 𝚞𝚗𝚕𝚎𝚜𝚜 𝚝𝚊𝚐𝚐𝚎𝚝🚫
+      Scent Of Vitality ☀️🌊🌴 Presenter, Model, Actor: Languages 🇮🇹🇪🇸🇬🇧 Collaborations👉✉️ : contact@lucaonestini.com Booking🎧 348 2214308 My TikTok❤️‍🔥👇
     location: "Italy"
-    followers: 9695
-    engagement: 1391
-    commentsToLikes: 0.386406
-    id: ck602uawyj6ut0i14n97enn5w
-    verified: false
-    hashtags: "#kidsmodel, #kidzootd, #thetrendykidz, #justbaby"
-  - username: "silvia.ehigie96"
+    followers: 1319453
+    engagement: 36
+    commentsToLikes: 47.725360
+    id: ck8sza9wmnnta0j78afeset1j
+    verified: true
+    hashtags: "#happiness, #one, #onetrend, #onehome"
+  - username: "denise_forma_mentis_"
     fullname: >-
-      silvia ehigie
+      🚫NO DIRECT-DM-CHAT🚫
     bio: >-
-      24 y/o 🎂 Model💃 Wigs creator 💇‍♂ Nigerian 🇳🇬❤️ - Living in Italy 🇮🇹❤️ Collab: precious.heigie96@gmail.com
+      #artist #photographer #model #eroticmodel #traveler 📩For collab: deniseformamentisonlybusiness@gmail.com
     location: "Italy"
-    followers: 20185
-    engagement: 821
-    commentsToLikes: 0.191474
-    id: ckf5o55f60y6a0j23jdil3lag
+    followers: 29892
+    engagement: 1043
+    commentsToLikes: 0.084006
+    id: ckaou8gnaz9u30i78u2jhseej
     verified: false
-    hashtags: "#model, #acmilan, #influenceritalia, #sexypronostici"
-  - username: "anetmlcak0va"
+    hashtags: "#postureo, #portrait, #bnwpic, #instagood"
+  - username: "vida.de.tyana"
     fullname: >-
-      🌹♛ Anet MLČÁKOVÁ ♛ 𝓐. 𝓜 🌹
+      * ☆𝕋𝕐𝔸ℕ𝔸☆*
     bio: >-
-      🔻 @guess @marciano model 🔻 @houses partner 23📍𝐂𝐳𝐞𝐜𝐡🇨🇿/ 𝐈𝐭𝐚𝐥𝐲🇮🇹/ 𝐒𝐰𝐢𝐬𝐬🇨🇭♡𝓛𝓸𝓿𝓮 𝓝.♡💍 Work 𝐄-𝐦𝐚𝐢𝐥👇🏽/ 𝐃𝐢𝐫𝐞𝐜𝐭 📩 Mgmt • ben@scrollmanagement.com
+      𝕄𝕒𝕞𝕒 @steph.tya ❤️ 🇮🇹 𝕀𝕥𝕒𝕝𝕪 𝔻𝕠𝕟'𝕥 𝕦𝕤𝕖 𝕞𝕪 𝕡𝕚𝕔𝕤 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕥𝕒𝕘 𝕡𝕝𝕖𝕒𝕤𝕖! 📩 𝔻𝕞 𝕗𝕠𝕣 𝕔𝕠𝕝𝕝𝕒𝕓𝕤 @ig_fashionkiddies model 𝕊ℍ𝕆ℙ 𝕎𝕀𝕋ℍ ℂ𝕆𝔻𝔼 𝕋𝕐𝔸ℕ𝔸𝟙𝟝 ⬇️
     location: "Italy"
-    followers: 420089
-    engagement: 643
-    commentsToLikes: 0.026737
-    id: ck0w2scj9pxyh0i19hhmf1qu3
+    followers: 81559
+    engagement: 993
+    commentsToLikes: 0.064919
+    id: ck15qzyzs5g8u0i19u29z3dgg
     verified: false
-    hashtags: "#loveguess, #guess, #happy, #guessvintage"
-  - username: "_michaeldirocco_"
+    hashtags: "#adorable, #fabulous, #hair, #christmas"
+  - username: "davide_phoenix_martini"
     fullname: >-
-      𝐌𝐈𝐂𝐇𝐀𝐄𝐋 𝐃𝐈 𝐑𝐎𝐂𝐂𝐎
+      Davide “Phoenix” Martini
     bio: >-
-      📍 ( 𝘈𝘕 ) 𝘑𝘖𝘎𝘈𝘋𝘖𝘙 𝘋𝘌 𝘍𝘜𝘚𝘛𝘈𝘓 . ⚽️ 𝘈𝘎𝘌𝘕𝘊𝘠 : 𝘔𝘎𝘍𝘐𝘍𝘛𝘠𝘖𝘕𝘌 𝘔𝘖𝘋𝘌𝘓 𝘔𝘐𝘓𝘈𝘕 📸 Fashion Model e Outfit Creators . 👕 For collaborations DM of 📧 maikoli95@icloud.com
+      ✨ Son of the Sun 🇮🇹 Model 🐺 Wolves whisperer ✈️ Drone pilot
     location: "Italy"
-    followers: 35483
-    engagement: 569
-    commentsToLikes: 0.161571
-    id: ck9har7tsdrln0j78d1t4nbkw
+    followers: 103561
+    engagement: 541
+    commentsToLikes: 0.052250
+    id: ck5zwadhu5rwf0i14x50cxmay
     verified: false
-    hashtags: "#fashionweek, #outfitinspo, #beautiful, #italianstyle"
-  - username: "simonasansovini"
+    hashtags: "#greece, #santorini, #love, #daenerystargaryen"
+  - username: "angelo_conforti"
     fullname: >-
-      Simona Sansovini
+      Angelo Conforti
     bio: >-
-      ✨⚡️Electric Soul⚡️✨ Guitarist 🇮🇹 Touring musician Model Blues addicted Endorsed by @daddarioandco Business inquiries 📩
+      𝑷𝒆𝒓 𝒂𝒔𝒑𝒆𝒓𝒂 𝒂𝒅 𝒂𝒔𝒕𝒓𝒂✨ •Actor - Model - Writer •Mister Italia Forever Cinema 👑 📩 angconforti97@gmail.com
     location: "Italy"
-    followers: 160123
-    engagement: 503
-    commentsToLikes: 0.039842
-    id: ck0tzzp0js5uw0i19jrejhow7
+    followers: 8279
+    engagement: 986
+    commentsToLikes: 0.110575
+    id: ckap8fjzco3ga0i78m3q64grk
     verified: false
-    hashtags: "#guitardaily, #guitarist, #guitar, #guitarsarebetter"
-  - username: "alessiadonesss"
+    hashtags: "#italianboy, #blackandwhite, #sea, #l4l"
+  - username: "csnvlr"
     fullname: >-
-      Alessia Dones
+      cesana valeria
     bio: >-
-      Model and Singer 📸🎤 Grid Girl 🏁☂️ Milan 📍🇮🇹 @beatotemilano ambassador 🍕 @mamma_milano ambassador THIS GIRL OUT NOW ⬇️⬇️⬇️ 🔥🔥🔥
+      Acting Academy Model🌷Happy not perfect. #selflove #bodypositive Written & Directed by Woody Allen.📽🎞 #lowofattraction 🪐The world is urs sunshine.
     location: "Italy"
-    followers: 26609
-    engagement: 1245
-    commentsToLikes: 0.045126
-    id: ck55kao69yvl70i11vafc1d62
+    followers: 27077
+    engagement: 990
+    commentsToLikes: 0.054203
+    id: ck5znf5j4ocec0i14i0jr2dl9
     verified: false
-    hashtags: "#mugellocircuit, #snackpata"
-  - username: "martadimatteo__"
+    hashtags: "#nature, #portrait, #portraitphotography, #nakdfashion"
+  - username: "manueldibernardoreal"
     fullname: >-
-      🌸 MARTA DI MATTEO 🌸
+      𝑴𝑨𝑵𝑼𝑬𝑳 𝑫𝑰 𝑩𝑬𝑹𝑵𝑨𝑹𝑫𝑶 ♛
     bio: >-
-      🎓 Economics 💄 Model 🎿 Ski Instructor 💚 Monster Energy Girl 📧 For collabs: DM or marta_dimatteo@libero.it 📍Turin, Italy 🇮🇹
+      👑 𝟏º 𝒊𝒍 𝒑𝒊𝒖̀ 𝒃𝒆𝒍𝒍𝒐 𝒅’𝑰𝒕𝒂𝒍𝒊𝒂 𝟐𝟎𝟏𝟔/𝟏𝟕 🇮🇹 Model-Influencer-Personal trainer🔥 MGMT: @panamamanagement Conosci il mio instagram ma non conosci me🤫
     location: "Italy"
-    followers: 36399
-    engagement: 701
-    commentsToLikes: 0.041850
-    id: ck8szh5zhofe00j78w2gx6kik
+    followers: 216193
+    engagement: 481
+    commentsToLikes: 0.135066
+    id: ck5q94aie9bm50i11wt2u4zwj
     verified: false
-    hashtags: "#monstergirls, #sporty, #monsterenergygirl, #summertime"
+    hashtags: ""
 ---

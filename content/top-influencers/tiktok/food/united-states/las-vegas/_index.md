@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Las Vegas In 2022
+title: Top 10 Food TikTok Influencers In Las Vegas In 2023
 description: >-
-  Find top food TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #lasvegas #food #foryou.
+  Find top food TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #food #lasvegas #vegas.
 platform: TikTok
-hits: 67
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 67 TikTok influencers like this in Las Vegas, United States for you to collaborate.
+hits: 66
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 66 TikTok influencers like this in Las Vegas, United States for you to contact.
 profiles:
+  - username: "hailey2turnt"
+    fullname: >-
+      hails
+    bio: >-
+      20 | Los Angeles just for jokes <3
+    location: "United States"
+    followers: 99600
+    engagement: 1948
+    commentsToLikes: 0.026827
+    id: ck8os1kg4esyt0j78462q4rz9
+    verified: false
+    hashtags: "#fyp, #obsessedwithit, #food, #lasvegas"
   - username: "esahyna13"
     fullname: >-
       Linda Gutierrez
     bio: >-
-      OG Chola from Vegas 💙 I luv to fkn Laugh While I Cook & Drink Some Beer 🍻
+      
     location: "United States"
-    followers: 274300
-    engagement: 877
-    commentsToLikes: 0.010760
+    followers: 386700
+    engagement: 832
+    commentsToLikes: 0.013242
     id: ckaux87j12o4f0j23rfmlg2ss
     verified: false
-    hashtags: "#foryoupage, #esahynafoods, #esahynasfood, #delicious"
-  - username: "cloudy.skys.grwm"
+    hashtags: "#trending, #viral, #sexyhyna, #queeng"
+  - username: "badgebanter"
     fullname: >-
-      ✨𝙶 𝚁 𝚆 𝙼✨
+      Badge Banter
     bio: >-
-      《dm us on Instagram for collabs》 ✨please dont self promo✨ ✊🏽 ✊🏾 ✊🏿
+      Just doing what I love 💙🖤 Law Enforcement and running with #Yourmiles_runclub
     location: "United States"
-    followers: 56300
-    engagement: 2484
-    commentsToLikes: 0.037462
-    id: ckfpluq4f0wfs0j2355fq1p5m
+    followers: 134700
+    engagement: 1182
+    commentsToLikes: 0.023370
+    id: ck83zptqb1y0m0j78lvajopwz
     verified: false
-    hashtags: "#beach, #happy, #sunset, #skincare"
+    hashtags: "#cops, #thinblueline, #keepingbusy, #nikerunning"
   - username: "lasvegasfill"
     fullname: >-
       LasVegasFill 
     bio: >-
-      All about the food in Las Vegas
+      All about the food in Las Vegas! Philiptzeng0@gmail.com
     location: "United States"
-    followers: 55900
-    engagement: 547
-    commentsToLikes: 0.017998
+    followers: 87900
+    engagement: 587
+    commentsToLikes: 0.041670
     id: ckcou8mtl8pgq0j233zdgqmol
     verified: false
-    hashtags: "#vegastiktok, #lasvegastiktok, #fyp, #yum"
-  - username: "makeupxsteff"
+    hashtags: "#japanesefood, #beef, #tiktokfood, #chicken"
+  - username: "haleypiacitelli"
     fullname: >-
-      Estef 🦋
+      Haley Piacitelli
     bio: >-
-      Las Vegas Makeup Artist 💗 instagram: @makeupxsteff 🦋 📩 Makeupxsteff@gmail.com
+      Model, Utah Business: haleypiacitelli@gmail.com Venmo: haleypiacitelli
     location: "United States"
-    followers: 4862
-    engagement: 1278
-    commentsToLikes: 0.054835
-    id: ckb9forsq4ap30j23r7q5d4by
+    followers: 205000
+    engagement: 704
+    commentsToLikes: 0.022011
+    id: ck9nidqffgry70j78wffr21x0
     verified: false
-    hashtags: "#fyp, #euphoriamakeup, #rarebeauty, #makeupartist"
-  - username: "reynapizarro"
+    hashtags: "#fyp, #model, #foryou, #utahmodel"
+  - username: "taquerialacasadelpastor"
     fullname: >-
-      reynapizarro
+      casadelpastor
     bio: >-
-      Sharing a little bit of the good finds as I explore Let’s be IG friends🌎🌿
+      Taco Food Truck ☎️ 702 350 4079 Las Vegas Taqueria la casa del pastor
     location: "United States"
-    followers: 28500
-    engagement: 1027
-    commentsToLikes: 0.021497
-    id: ck9dwory0pyk40j782h7s5m8h
+    followers: 40600
+    engagement: 488
+    commentsToLikes: 0.012556
+    id: ckb9c8cviyuj50j23mf5okywr
     verified: false
-    hashtags: "#coffeeshop, #fyp, #summervlog, #adventure"
+    hashtags: "#parati, #quesadilla, #food, #taquerialacasadelpastor"
+  - username: "unlokt"
+    fullname: >-
+      Unlokt
+    bio: >-
+      The BEST Food, Drinks, Experiences & MORE in Las Vegas & BEYOND!
+    location: "United States"
+    followers: 1100000
+    engagement: 727
+    commentsToLikes: 0.006745
+    id: ck80cr7ftapgm0j78k0k2ta29
+    verified: false
+    hashtags: "#foryourpage, #vegastiktok, #viralfood, #fyp"
+  - username: "hungryinvegas"
+    fullname: >-
+      Vegas baby ✨
+    bio: >-
+      Yes, the corn dog was $13. Find me on Instagram @hungryinvegas
+    location: "United States"
+    followers: 38500
+    engagement: 679
+    commentsToLikes: 0.026823
+    id: cka0m56c8tris0i78qvkldr2t
+    verified: false
+    hashtags: "#yummy, #vegas, #primerib, #vegasfood"
+  - username: "caseyrosenberg"
+    fullname: >-
+      casey rosenberg
+    bio: >-
+      🧠 Droppin’ knowledge! ❤️ 💌 caseyrayrosenberg@gmail.com 📍 Las Vegas, NV
+    location: "United States"
+    followers: 2800000
+    engagement: 1532
+    commentsToLikes: 0.042067
+    id: ckd6etlmk6h0j0j23upn4ne4n
+    verified: true
+    hashtags: "#psychology, #foodtiktok, #cuisine, #tiktokpartner"
   - username: "jaaye_m"
     fullname: >-
       Jasmin Moreno
     bio: >-
       21 ig @jaaye_m Las Vegas
     location: "United States"
-    followers: 4643
-    engagement: 587
-    commentsToLikes: 0.054141
+    followers: 4525
+    engagement: 867
+    commentsToLikes: 0.057917
     id: ckbfenfr08u440j23txog5bbu
     verified: false
-    hashtags: "#lasvegas, #fyp, #food, #tiktok"
-  - username: "jessleetv"
-    fullname: >-
-      Jess
-    bio: >-
-      Follow my IG & YT ⬆️ ✨makeup✨vlogs✨curvy fashion✨ Hi angel 😇
-    location: "United States"
-    followers: 80600
-    engagement: 925
-    commentsToLikes: 0.033992
-    id: cka0zj39vfkkx0i78uo8ntq09
-    verified: false
-    hashtags: "#halloweenishere, #fyp, #storytime, #lasvegas"
-  - username: "lleeeexxiii"
-    fullname: >-
-      lexi🖤
-    bio: >-
-      24 this is my favorite ke$ha song venmo: lleeeexxiii twitter: re_LEX_ation
-    location: "United States"
-    followers: 25900
-    engagement: 602
-    commentsToLikes: 0.032211
-    id: cka0l9wfgq2ll0i780mujpykl
-    verified: false
-    hashtags: "#unwrapthedeals, #showupshowoff, #xyzbca, #redbulldanceyourstyle"
-  - username: "dongkyuverymuch"
-    fullname: >-
-      dongkyuverymuch
-    bio: >-
-      🦷DS2 at UNLV School of Dental Medicine Follow me on IG: @dongkyuverymuch
-    location: "United States"
-    followers: 17800
-    engagement: 637
-    commentsToLikes: 0.016818
-    id: cka0n9mc8yq4n0i784nef2n0t
-    verified: false
-    hashtags: "#foodie, #vegasfood, #kingcrab, #lasvegas"
-  - username: "soutsu_luna"
-    fullname: >-
-      Soutsu_Luna
-    bio: >-
-      I’m pretty ok at cooking. And terrible at jokes Ig: (Soutsu_Luna) (Soutsu_Foodz)
-    location: "United States"
-    followers: 49100
-    engagement: 1117
-    commentsToLikes: 0.028608
-    id: ck81q48jifsx20j78pe0piz2g
-    verified: false
-    hashtags: "#bartending, #homecooking, #dogsoftiktok, #cocktail"
+    hashtags: "#vegas, #sanluis, #fyp, #food"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In United States In 2022
+title: Top 10 Chefs TikTok Influencers In United States In 2023
 description: >-
-  Find top chefs TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryou #foryoupage #chef.
+  Find top chefs TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #foryoupage #plantbased.
 platform: TikTok
-hits: 506
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 506 TikTok influencers like this in United States for you to pitch.
+hits: 406
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 406 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "chefshabba"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       CREATOR CODE: chefshabba #ad KG ON TOP
     location: "United States"
-    followers: 342800
-    engagement: 1640
-    commentsToLikes: 0.014210
+    followers: 341300
+    engagement: 1280
+    commentsToLikes: 0.026201
     id: ckan209lwy45d0i785c50lzpu
     verified: false
-    hashtags: "#fyp, #foryoupage, #foryou, #viral"
-  - username: "808_tikytokhomie"
+    hashtags: "#warzone, #cod, #fyp, #foryou"
+  - username: "sugarpusher"
     fullname: >-
-      808_TikyTokHomie
+      Ally
     bio: >-
-      Aloha 🤙 Mom Hutsle Professional Race Car Photographer Head Chef
+      🍩Pastry Chef 🍫Chocolatier✨Content Creator 📸FOLLOW ME ON IG!
     location: "United States"
-    followers: 25000
-    engagement: 2080
-    commentsToLikes: 0.052788
-    id: ckc7jfx7mqy2e0j23pokod7pj
-    verified: false
-    hashtags: "#friends, #foryou, #momsoftiktok, #gfc"
-  - username: "sugar_pusher"
-    fullname: >-
-      Ally Burnett
-    bio: >-
-      Chocolatier.Pastry chef.Tutorials & sass. Niche but relatable She/her 🏳️‍🌈
-    location: "United States"
-    followers: 105900
-    engagement: 2011
-    commentsToLikes: 0.034867
+    followers: 188500
+    engagement: 849
+    commentsToLikes: 0.034183
     id: ck8z2hf6i5cqh0j78b3sbzzrp
     verified: false
-    hashtags: "#tiktokcooks, #foryou, #spookytreats, #asmr"
-  - username: "avafloflava"
-    fullname: >-
-      avafloflava
-    bio: >-
-      she/they 16 ♐︎ ♌︎ ♒︎ roger waters private chef
-    location: "United States"
-    followers: 21900
-    engagement: 2273
-    commentsToLikes: 0.050997
-    id: cka6pqxhxkmmw0i78w4eiu4f7
-    verified: false
-    hashtags: "#davidgilmour, #ledzeppelin, #nickmason, #pinkfloyd"
-  - username: "chefethanb"
-    fullname: >-
-      Ethan
-    bio: >-
-      not actually a chef
-    location: "United States"
-    followers: 197800
-    engagement: 1726
-    commentsToLikes: 0.034397
-    id: ck81s3d1opp000j783figu5y2
-    verified: false
-    hashtags: "#halloweencandy, #truff, #foodlover, #comidamexicana"
+    hashtags: "#lastcrumbcookies, #unboxing, #fancysprinkles, #icecream"
   - username: "abdulahad.ck"
     fullname: >-
       Abdul Ahad Ck
     bio: >-
       7⃣3⃣❤0⃣6⃣4⃣7⃣3⃣3⃣❤2⃣8⃣ chef ❤ #mytdreams #realhunters
     location: "United States"
-    followers: 128700
-    engagement: 4120
-    commentsToLikes: 0.179233
+    followers: 128600
+    engagement: 4047
+    commentsToLikes: 0.175883
     id: ckbkpywsek7br0j23k4ez4lr5
     verified: false
-    hashtags: "#kattasupport, #love, #1m, #chef"
-  - username: "chefcvyn"
+    hashtags: "#1m, #cheflife, #kattasupport, #foryoupage"
+  - username: "kattholladay"
     fullname: >-
-      Chef C’Vyn
+      Katt Holladay
     bio: >-
-      PERSONAL CHEF (Spiritualist, Herbalist & Buddhist) Rebuild Black Wall Street
+      A Chef and Dancer! Whatz Ya Moves?! Cooked with a KISS 💋! Follow My IG
     location: "United States"
-    followers: 12800
-    engagement: 6580
-    commentsToLikes: 0.058435
-    id: ckc7qzxhfwcjl0j23vq4akgtg
+    followers: 21100
+    engagement: 1033
+    commentsToLikes: 0.184569
+    id: ckdtg6772w7ma0j23jf3zh7nk
     verified: false
-    hashtags: "#chicago, #duet, #fyp, #greenscreen"
+    hashtags: "#danceforpeace, #trendy, #whatzyamoves, #fyp"
+  - username: "soaptokker"
+    fullname: >-
+      Debora Glaze, CEO of Soap
+    bio: >-
+      Debora Glaze, Tiktok’s Soap Chef w/ a dash of Creative Marketing
+    location: "United States"
+    followers: 102000
+    engagement: 1547
+    commentsToLikes: 0.035947
+    id: ckcv23qpqnzeg0j23uqh337n4
+    verified: false
+    hashtags: "#soaptok, #astrology, #newvalhallasoap, #soap"
   - username: "onegreatvegan"
     fullname: >-
       onegreatvegan
     bio: >-
-      Actress, Singer, and Chef + Daily Positivity Musical Cooking Show Host
+      Actress, Singer, and Chef + Daily Positivity 🎵 GET MY MUSICAL COOKBOOK 👇🏽
     location: "United States"
-    followers: 138600
-    engagement: 1630
-    commentsToLikes: 0.032037
+    followers: 162800
+    engagement: 1242
+    commentsToLikes: 0.031080
     id: ck9evvjwgk8j10j78zypngbzm
     verified: false
-    hashtags: "#plantbased, #tiktokcooks, #chef, #pumpkinspice"
+    hashtags: "#vegan, #veganfood, #plantbased, #veganrecipes"
   - username: "jkauffs"
     fullname: >-
       Jkauffs 
     bio: >-
       Pastry Chef. Adventurer. Dork.
     location: "United States"
-    followers: 21300
-    engagement: 981
-    commentsToLikes: 0.174981
+    followers: 22200
+    engagement: 1162
+    commentsToLikes: 0.175671
     id: ckbl0w1wwxrjm0j2301dj6yi9
     verified: false
-    hashtags: "#geocachingpennsylvania, #geocachingnewjersey, #geocachingnewyork, #geocaching"
-  - username: "zeekabi"
+    hashtags: "#geocachingadventures, #geocachingnewjersey, #geocaching, #booktok"
+  - username: "tylerwheaton66"
     fullname: >-
-      zeekabi
+      🤴🏻Tyler 🧢👑
     bio: >-
-      Photographer on instagram, chef on tiktok 🇮🇶 Zainab Rikabi
+      25/ 18+ / open duets Modern Day Viking Chef in Training Indiana Boy
     location: "United States"
-    followers: 3182
-    engagement: 860
-    commentsToLikes: 0.096674
-    id: ckbqpil5habgg0j23fpwf0nhr
+    followers: 30600
+    engagement: 1446
+    commentsToLikes: 0.101678
+    id: ck9numglrnvl40j78c3n6eanh
     verified: false
-    hashtags: "#motivationmonday, #photoshoot, #foodie, #foryoupage"
+    hashtags: "#countrymusic, #love, #duet, #taintedlyric"
+  - username: "reeemvil"
+    fullname: >-
+      reem
+    bio: >-
+      LA☀️🌴 Wannabe Chef 👩🏻‍🍳 English Professor 👩🏻‍🏫 BLM
+    location: "United States"
+    followers: 2235
+    engagement: 1155
+    commentsToLikes: 0.140903
+    id: ckculddphh75z0j23v2639zpx
+    verified: false
+    hashtags: "#foryou, #fypfypfyp, #voiceover, #pepsihalftimechallenge"
+  - username: "chubbycucumber"
+    fullname: >-
+      Drew Schroeder
+    bio: >-
+      🍔Plantbased Chef🍔 ✨NOT here to turn you vegan✨ Followers = Caulifollowers
+    location: "United States"
+    followers: 27600
+    engagement: 1280
+    commentsToLikes: 0.102982
+    id: ckc2zk06cqgki0j238u4qvkcm
+    verified: false
+    hashtags: "#plantbased, #foodie, #seitan, #thatveganteacher"
 ---

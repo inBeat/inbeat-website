@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Brazil In 2022
+title: Top 10 Gaming TikTok Influencers In Brazil In 2023
 description: >-
-  Find top gaming TikTok influencers in Brazil in 2022. Most popular hashtags: #gaming #fyp #foryou #gamer.
+  Find top gaming TikTok influencers in Brazil in 2023. Most popular hashtags: #gaming #fyp #foryou #fortnite.
 platform: TikTok
-hits: 25
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 25 TikTok influencers like this in Brazil for you to pitch.
+hits: 20
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 20 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "adriano_pro_x"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Brasil 🇧🇷 #26 Gaming
     location: "Brazil"
-    followers: 2613
-    engagement: 575
-    commentsToLikes: 0.124116
+    followers: 3482
+    engagement: 586
+    commentsToLikes: 0.138018
     id: ckc7juulkr7zo0j23l7nxw42o
     verified: false
-    hashtags: "#xbox, #xboxgamepass, #tridentx, #dueto"
-  - username: "wolfgamerbrwgbr"
+    hashtags: "#v6, #nfs, #toyota, #dueto"
+  - username: "yurgenmaas"
     fullname: >-
-      Wolf Gamer BR
+      Yurgen Maas
     bio: >-
-      🐺Tik Tok Gaming Brazil🐺 🎬canal no YouTube: Wolf Gamer BR🎬
+      🐥 Twitter: @yurgen_maas 📸 Insta: @yurgenmaas 📩 yurgenmaas.ts@gmail.com
     location: "Brazil"
-    followers: 3694
-    engagement: 2030
-    commentsToLikes: 0.070979
-    id: ckc8ieiapc06t0j2313uf347d
-    verified: false
-    hashtags: "#callofduty, #wgbr, #xboxone, #moderwarfare"
-  - username: "bandadongodongo"
+    followers: 868100
+    engagement: 1361
+    commentsToLikes: 0.028966
+    id: ck9kgg4ro7tik0j789b4lmgdl
+    verified: true
+    hashtags: "#davidbowie, #thestarman, #leagueoflegends, #gaming"
+  - username: "harlansfagundes"
     fullname: >-
-      Dongo Dongo
+      Harlans
     bio: >-
-      DONGO DONGO 🍄 VIDEOGAME ROCK 🦖⬇️ MAIS CONTEÚDO AQUI ⬇️🦖
+      🧪 O Vírus 🧟‍♂️ Tem Zumbi lá Fora! 🎯 Quiz de Animes e Jogos ✖ Fã de One Piece
     location: "Brazil"
-    followers: 86500
-    engagement: 1762
-    commentsToLikes: 0.077691
-    id: ck8hmbfvelfdw0j78zo0wngd8
+    followers: 30700
+    engagement: 1321
+    commentsToLikes: 0.122193
+    id: ckbfho1p1dc4i0j232kj9q5ld
     verified: false
-    hashtags: "#switch, #tiktokbrasil, #nintendo, #supermario"
+    hashtags: "#game, #viral, #tiktok, #games"
   - username: "sharshock"
     fullname: >-
       Sharshock
     bio: >-
-      To aqui pra te fazer sorrir 🤪 Obrigado pelo 1 milhão no YouTube!
+      Acredita no seu sonho, mlk! Code "Shock" = Bjo na bok
     location: "Brazil"
-    followers: 231700
-    engagement: 1196
-    commentsToLikes: 0.019198
+    followers: 243800
+    engagement: 1252
+    commentsToLikes: 0.020188
     id: ckc90ki3qq1t30j232nbikioe
     verified: true
-    hashtags: "#fypchallenge, #gaming, #sharshock, #fortniteclips"
-  - username: "nandohozier"
+    hashtags: "#fypage, #funnyvideos, #sharshock, #fortniteclips"
+  - username: "pedrupaes"
     fullname: >-
-      NANDO HOZIER
+      Pedru Paes
     bio: >-
-      Alagoano 🏳️‍🌈 insta: @nandohozier YOUTUBE 👇
+      Streamer e Criador de conteúdo Personalizadas todos os dias às 10:00👇🏼
     location: "Brazil"
-    followers: 76700
-    engagement: 1110
-    commentsToLikes: 0.014688
-    id: ckb0xm0jymmt20j23bnttywdt
+    followers: 253800
+    engagement: 1761
+    commentsToLikes: 0.020976
+    id: ck8w2k7tx5j070j78ltnhf3uz
     verified: false
-    hashtags: "#free, #afazendarecord, #gaming, #alagoas"
-  - username: "jogos_e_filmes0"
+    hashtags: "#streamer, #fy, #fortnite, #gamer"
+  - username: "driftcomgameplay"
     fullname: >-
-      tô flopado :(
+      Drift com Gameplay
     bio: >-
-      Jogo fifa e fortnite e filmes são top dms! atualmente com 18.2k de seguidores!
+      Conversas entre amigos c/ gameplay de fundo
     location: "Brazil"
-    followers: 18200
-    engagement: 1077
-    commentsToLikes: 0.029683
-    id: ckcomau035uh90j23xwdgjp6j
+    followers: 12000
+    engagement: 1109
+    commentsToLikes: 0.023477
+    id: ck9r6t61w59pr0j78kayw2aqr
     verified: false
-    hashtags: "#musica, #telaverde, #futebol, #paravoce"
-  - username: "acasacaiuoficial"
-    fullname: >-
-      A CASA CAIU
-    bio: >-
-      Humor, memes e muito mais! 📲 PAGINA FACEBOOK: A CASA CAIU 🎬 LINK:
-    location: "Brazil"
-    followers: 38000
-    engagement: 1046
-    commentsToLikes: 0.006899
-    id: ckdnv4ufco6lq0j23dkxb05fs
-    verified: false
-    hashtags: "#top, #fail, #ps5, #cs"
+    hashtags: "#driftagem, #gaming, #tiktokgamer, #ps5"
   - username: "vinnirez"
     fullname: >-
       Vinícius
     bio: >-
       insta: ViniClout
     location: "Brazil"
-    followers: 89500
-    engagement: 2160
-    commentsToLikes: 0.033699
+    followers: 90000
+    engagement: 2098
+    commentsToLikes: 0.030301
     id: ck8w3tnm47u4j0j789hb3vgp3
     verified: false
-    hashtags: "#fortnite, #dinheiro, #challenge, #gamer"
+    hashtags: "#desafio, #fortnite, #paravoce, #challenge"
   - username: "ju4np137r0"
     fullname: >-
-      P137r0
+      P137r0✔
     bio: >-
       I’m not smart. I just wear glasses. ✌😎 (Me sigam aqui também 👇😁)
     location: "Brazil"
-    followers: 73400
-    engagement: 2423
-    commentsToLikes: 0.088028
+    followers: 75200
+    engagement: 2391
+    commentsToLikes: 0.088699
     id: cka0jztw4kfoq0i78qufsvm3a
     verified: false
-    hashtags: "#dueto, #followers, #draw, #fyp"
-  - username: "generalnerd"
+    hashtags: "#foryou, #school, #funny, #fyp"
+  - username: "bellapierini"
     fullname: >-
-      Mike Sant'Anna | General Nerd
+      Bella Pierini
     bio: >-
-      💡Criador de Conteúdo 🖖A Nerdice Nua Crua 🌍ES – Brasil
+      24yo 💜
     location: "Brazil"
-    followers: 105700
-    engagement: 1967
-    commentsToLikes: 0.019715
-    id: ck92tdm81hgvi0j78lhfyuutg
-    verified: true
-    hashtags: "#cavaleirosdozodiaco, #anime, #doctorwho, #saintseiya"
+    followers: 8237
+    engagement: 1836
+    commentsToLikes: 0.031236
+    id: ckbepi1o66g420j23thk1qjr8
+    verified: false
+    hashtags: "#peetamellark, #dorama, #kdrama, #rhysand"
+  - username: "cyclopeletro"
+    fullname: >-
+      Cyclopeletro
+    bio: >-
+      ⭐️Nick: CYCLOPELETRO⭐️
+    location: "Brazil"
+    followers: 27600
+    engagement: 1194
+    commentsToLikes: 0.069109
+    id: ckbepiazt6hjr0j23ocbi6e6t
+    verified: false
+    hashtags: "#foryou, #foryoupage, #apple, #ios"
 ---

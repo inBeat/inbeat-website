@@ -1,130 +1,130 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Malaysia In 2022
+title: Top 10 Outdoors Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top outdoors Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #nature #stayathome #cuticutimalaysia.
+  Find top outdoors Instagram influencers in Malaysia in 2023. Most popular hashtags: #camping #instagood #ootd #lifestyle.
 platform: Instagram
-hits: 18
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat has 18 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 16
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 16 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "iamtomsz"
+  - username: "subalakshmi_rangan26"
     fullname: >-
-      Thompson Goh
+      Subalakshmi Rangan
     bio: >-
-      Campaign/Sponsorship⬇️ 💳: iamtomsz.97@gmail.com Malaysian 🇲🇾 Sarawakian🧒 🔥 Fitness 🎓Student 📱Streamer Baharu Follow ⬇️⬇️⬇️
+      Always believe that something wonderful is about to happen🦄😇🐾 Enquires/ promotion/ managed by @chennaimemes / Alexander: +919841012344
     location: "Malaysia"
-    followers: 31446
-    engagement: 640
-    commentsToLikes: 0.043671
-    id: ckap1r8snvrzn0i78zce4hkpu
+    followers: 95042
+    engagement: 373
+    commentsToLikes: 0.012110
+    id: ck8sxda0kgz1c0j781jglqqpw
     verified: false
-    hashtags: "#pubgmobile, #staysafe, #outdoors, #outdoorworkout"
+    hashtags: "#actorslife, #staytuned, #worklove, #launchingsoon"
   - username: "bushcraft_and_prepping"
     fullname: >-
       Bushcraft and Prepping
     bio: >-
       Marine vet sharing bushcraft, firearms, prepping, travel & DIY tips. DM me for questions, product ambassador or product review. @muhl_media #AvantLink
     location: "Malaysia"
-    followers: 24527
-    engagement: 243
-    commentsToLikes: 0.048253
+    followers: 24815
+    engagement: 229
+    commentsToLikes: 0.057369
     id: ck5c4lo091ltl0i118gnic74q
     verified: false
-    hashtags: "#bushcraft, #bushcraftandprepping, #bushcrafting, #nature"
-  - username: "rainy_lly"
+    hashtags: "#bushcraft, #wilderness, #desert, #hiking"
+  - username: "chiehjwang"
     fullname: >-
-      Rainy Lly ( Loke Li Yin )
+      CJ.Wang
     bio: >-
-      🚶🏼‍♀️ Miles to go for dreams ☂️ Online Media Editor (FoodTravelPlayKL) ☂️ Math Tutor 💌 DM / Email for Collab
+      Hi 👋 I’m CJ. collaboration ： studio.maximus2020@gmail.com
     location: "Malaysia"
-    followers: 120423
-    engagement: 145
-    commentsToLikes: 0.013084
-    id: ck5q822zz43mu0i11nnjat8es
+    followers: 88360
+    engagement: 338
+    commentsToLikes: 0.037767
+    id: ck8t7ihiugxkb0j78r7gkdok6
     verified: false
-    hashtags: "#instadaily, #instamood, #instalikes, #igmodel"
-  - username: "sarahmaylow"
+    hashtags: "#711, #chinesenewyear, #lifestyle, #ootd"
+  - username: "sweetannu"
     fullname: >-
-      Malaysia No.1 Tarot Reader 🔮🃏
+      Anahita Irani ~ 𝕊𝕨𝕖𝕖𝕥𝕒𝕟𝕟𝕦🧿
     bio: >-
-      Cult Leader | Astrologer | Miss Msia Earth Energetic ‘13 | Sociologist | PhD Candidate | Boss @sarahmaylowtarotacademy 👇Book a TAROT READING👇
+      Creating a life I love🦋💕 | Food | Lifestyle | Travel | Recipes | Fitness 📍Mumbai DM for events/promotion/review/collabs📩-anahitairani200@gmail.com
     location: "Malaysia"
-    followers: 47972
-    engagement: 244
-    commentsToLikes: 0.014824
-    id: ck5hdx1pdptcl0i11m5ynfrid
+    followers: 43592
+    engagement: 84
+    commentsToLikes: 0.312745
+    id: ckaor4pkvlpwe0i78n25pkpe5
     verified: false
-    hashtags: "#malaysia, #smltarot, #tarot, #kltarot"
-  - username: "jojostruys"
+    hashtags: "#bloggersofinstagram, #healthyfood, #explorepage, #mumbai"
+  - username: "wayne_wayne23"
     fullname: >-
-      Jojo Struys
+      Wayne Wayne 小唐哥
     bio: >-
-      An Aspiring Yogi, Healer, Speaker & Perpetual Intern @ohanajostudio just following my heart! 💜♥️💚💙
+      #GoProFamily Celebrity Emcee Social Media Talent Traveller Scuba Diver Underwater Photographer ⬇️最新网络节目点击链接⬇️
     location: "Malaysia"
-    followers: 33554
-    engagement: 66
-    commentsToLikes: 0.060245
-    id: ck15tl3hiiluy0i19cinektuu
+    followers: 55381
+    engagement: 247
+    commentsToLikes: 0.021674
+    id: ck5chxgd6rmww0i11e4pv3bfz
     verified: false
-    hashtags: "#strength, #calm, #home, #dance"
-  - username: "jieying_tha"
+    hashtags: "#traveltomorrow, #iwillmeetgangwonagain, #imagineyourkorea, #travelphotothrowbackchallenge"
+  - username: "aqsa.blogs"
     fullname: >-
-      JieYing Tha 趙潔瑩
+      👩🏻Aqsa
     bio: >-
-      MY 阳光灿烂 DJ Singer / Host 📞+60 177299767 📧 enquiry.jyteam@gmail.com 🎤my latest song 每一个今天
+      Henna artist Food blogger Lifestyle Product reviews DM FOR promotion , review & invites http://bit.ly/aqsaablogs
     location: "Malaysia"
-    followers: 102278
-    engagement: 222
-    commentsToLikes: 0.007446
-    id: ck6twwm97uipy0j7142xozpz6
+    followers: 18573
+    engagement: 470
+    commentsToLikes: 0.022320
+    id: ckf5kxj6snldf0j23fyo64xjv
     verified: false
-    hashtags: "#tokyotower, #shuuemuramy, #shuuemuraxonepiece, #sleepinadifferentway"
-  - username: "bakizainal"
+    hashtags: "#lifeisbeautiful, #followforfollowback, #foodphotography, #foodie"
+  - username: "agneswei_wei"
     fullname: >-
-      bakizainal 巴麒
+      Agnes Lim林莉幃
     bio: >-
-      TV Host|Actor|Traveler|Cyclist|Diver #GoProfamily #ripcurlmy #PADIambassadiver #GoProMillionDollarChallenge 🏆
+      Actress 🇲🇾 電影 甲洞1 甲洞2 女主角 敗者為王 中國網路電影 隔牆有眼 🇹🇼微電影 如果可以帶我走,11:55,海 周杰倫合作卡巴斯基防毒軟體廣告 job agneslimliwei@gmail.com 012-2720805 Stay @spsetiabhd 🏠
     location: "Malaysia"
-    followers: 65274
-    engagement: 125
-    commentsToLikes: 0.055696
-    id: ck55myjth540y0i11przlgusa
-    verified: true
-    hashtags: "#terengganu, #foodieofinstagram, #goprotravel, #gopromysg"
+    followers: 178657
+    engagement: 63
+    commentsToLikes: 0.009028
+    id: ck5c5jont3lp50i11foo4g2m8
+    verified: false
+    hashtags: "#arteplus, #sudiosweden, #fullyfishery, #jimeat"
   - username: "fanazzz"
     fullname: >-
       فرحانة محمد
     bio: >-
       Outdoor junkie 👻 Please dm me for any review ☺️ Check out this link yaw!
     location: "Malaysia"
-    followers: 9574
-    engagement: 650
-    commentsToLikes: 0.025341
+    followers: 9376
+    engagement: 696
+    commentsToLikes: 0.029587
     id: ckap6r7j5h31a0i78frios31h
     verified: false
-    hashtags: "#hotelserimalaysia, #dekatje, #matriye, #cuticutimalaysia"
+    hashtags: "#cuticutimalaysia, #hotelserimalaysia, #dekatje, #pikaplinecringedilan1990"
   - username: "sesat_in_malaysia"
     fullname: >-
       Leon | Sabah, Malaysian Borneo
     bio: >-
-      🌏 Currently based in KK 🏕️ Outdoor Enthusiast & 🥏 Frisbee 🗻 Photographer, Filmaker & Guider 📨 DM - WORK | Collab 🎞️ YouTube [MORE VIDEOS ON SABAH]👇🏻
+      🌏 Not your typical Sabahan 🏕️ Outdoor Junkie |🥏 Frisbee 🗻 Photo/video-grapher/drone operator 📸 Sony A6400 📨 DM -WORK | Collab ⬇️ YouTube
     location: "Malaysia"
-    followers: 13562
-    engagement: 516
-    commentsToLikes: 0.023723
+    followers: 14442
+    engagement: 424
+    commentsToLikes: 0.022182
     id: ck5hmp1gimd2b0i11861770ay
     verified: false
-    hashtags: "#sabahtourism, #borneo, #hiking, #sabahtravel"
-  - username: "sherontan94"
+    hashtags: "#sonymalaysia, #alphauniversemy, #sabahtourism, #wanderlust"
+  - username: "irenejian"
     fullname: >-
-      Sheron Tan 陈雪仁
+      Irene麻糬🐽
     bio: >-
-      🔸Cino Rungus 🔸Youtuber 🔺 Contact for work | 合作邀约 📩 xueren94@gmail.com Check out my new song! Auh Oku Kolihu Diya
+      登山/凹豆/健身/旅遊/穿搭/吃貨⛺️⛰️ YT、FB🔍麻糬公主 合作📩mochi.irenejian@gmail.com ✨蝦皮：irenejian24 🔍穿搭 #irenesootd 🔍遊記 #麻糬愛旅遊、#麻糬登山趣 🔍食記 #麻糬美食、#麻糬吃_（捷運、城市 ♨️馬陵溫泉最新路線分享！
     location: "Malaysia"
-    followers: 117328
-    engagement: 217
-    commentsToLikes: 0.013926
-    id: ck5chx4a1rmfv0i11jnpydo69
+    followers: 32224
+    engagement: 352
+    commentsToLikes: 0.028012
+    id: ck5hig2xbdbsy0i111118to7v
     verified: false
-    hashtags: "#positivevibes, #tiktokmalaysia, #sherontan, #modeling"
+    hashtags: "#popdaily, #vscopic, #poptour, #ootdfashion"
 ---

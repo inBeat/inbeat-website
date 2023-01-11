@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Australia In 2022
+title: Top 10 Nail Artists Instagram Influencers In Australia In 2023
 description: >-
-  Find top nail artists Instagram influencers in Australia in 2022. Most popular hashtags: #nails #nailart #makeup #nailsonfleek.
+  Find top nail artists Instagram influencers in Australia in 2023. Most popular hashtags: #nails #nailart #nailsofinstagram #nailsonfleek.
 platform: Instagram
-hits: 14
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 14 Instagram influencers like this in Australia for you to contact.
+hits: 11
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Australia for you to work with.
 profiles:
+  - username: "so_nailicious"
+    fullname: >-
+      Maria V SoNailicious®
+    bio: >-
+      Nail Artist / Trendsetter Owner of @sonailicious_boutique Spreading nail art magic & supporting nail artists! 💫 INTERSTELLAR is HERE! 🤩👇
+    location: "Australia"
+    followers: 89584
+    engagement: 136
+    commentsToLikes: 0.044353
+    id: ck5hsq6f7x0900i11fhgclbqm
+    verified: false
+    hashtags: "#newyorknails, #mavala, #nailsonfleek, #nailtutorial"
+  - username: "missbettyrose"
+    fullname: >-
+      🕷 MISS BETTY ROSE 🕷
+    bio: >-
+      ⚡️SYDNEY NAIL ARTIST ⚡️ 💅🏼 PRESS ON NAILS missbettyrose.com.au🐍 🦋 SALON BOOKINGS ⬇️ 🔥ENQUIRIES P: 0421496649 🖤New Location🖤
+    location: "Australia"
+    followers: 61704
+    engagement: 613
+    commentsToLikes: 0.010745
+    id: ck5cigz52smq40i11a9jge18k
+    verified: false
+    hashtags: "#glitternails, #nailsoftheday, #nails2inspire, #nailedit"
   - username: "liampeternails"
     fullname: >-
       𝕷𝖎𝖆𝖒 𝕻𝖊𝖙𝖊𝖗 - 𝕹𝖆𝖎𝖑 𝕬𝖗𝖙𝖎𝖘𝖙
     bio: >-
       Nail artist/tech Nails are for anybody! ALL bodies Non-binary,they/them In Naarm (Melbourne) BA for @the_gelbottle_inc 🇦🇺 @thegelbottleaus @soak.bar
     location: "Australia"
-    followers: 28745
-    engagement: 405
-    commentsToLikes: 0.069761
+    followers: 28864
+    engagement: 284
+    commentsToLikes: 0.041726
     id: ck5hl93lqjsmo0i11yg9mshfm
     verified: false
-    hashtags: "#nailart, #nails, #ombrenails, #nailartist"
-  - username: "so_nailicious"
-    fullname: >-
-      Maria V SoNailicious®
-    bio: >-
-      Nail Artist / Trendsetter / Activist Owner of @sonailicious_boutique Spreading nail art magic & supporting nail artists worldwide! 💫 See what’s new:
-    location: "Australia"
-    followers: 88661
-    engagement: 75
-    commentsToLikes: 0.060952
-    id: ck5hsq6f7x0900i11fhgclbqm
-    verified: false
-    hashtags: "#naildesigns, #sonailiciousbrush, #nailsoftheday, #nynails"
-  - username: "missbettyrose"
-    fullname: >-
-      🕷 MISS BETTY ROSE 🕷
-    bio: >-
-      ⚡️SYDNEY NAIL ARTIST ⚡️ 💅🏼 PRESS ON NAILS missbettyrose.com.au🐍 🦋 SALON BOOKINGS ⬇️ 🔥ENQUIRIES P: 0421496649
-    location: "Australia"
-    followers: 59407
-    engagement: 441
-    commentsToLikes: 0.013228
-    id: ck5cigz52smq40i11a9jge18k
-    verified: false
-    hashtags: "#nailpro, #nailstagram, #nailsdesign, #nailsdone"
+    hashtags: "#frenchnails, #holographic, #soakbarandbeauty, #longnails"
   - username: "lovelypalaceofbeauty"
     fullname: >-
       Beauty and Style 💅💋💍👜
     bio: >-
-      💅Follow for awesome nail/makeup ideas.💋 💕Click link below for some amazing eyeshadow palettes. 👉Use Code LPOFBEAUTY for 10% off! ⭐Brand Ambassador⭐
+      💅Follow for some awesome nail/makeup ideas.💋
     location: "Australia"
-    followers: 69889
-    engagement: 104
-    commentsToLikes: 0.008773
+    followers: 84422
+    engagement: 97
+    commentsToLikes: 0.008024
     id: ckaoyahs0gomz0i783a4sz845
     verified: false
     hashtags: ""
-  - username: "princesscece.png"
+  - username: "thepaintedkoi"
+    fullname: >-
+      Alecia Mounixay Nail Art inspo
+    bio: >-
+      Stickers from @kandikoishop Classes coming soon @kiaraskynails and @glamandglits ambassador use code “KOI10”
+    location: "Australia"
+    followers: 52194
+    engagement: 168
+    commentsToLikes: 0.045650
+    id: ck0vy5f882bkh0i19edgzmk02
+    verified: false
+    hashtags: "#nailsmagazine, #nailsofinstagram, #sculptednails, #pinknails"
+  - username: "princesscece"
     fullname: >-
       🌸Cece🌸
     bio: >-
       💖 Cats | Melb | Pole | Ravenclaw⚡💖 🐱♡｡･23 ･*(❀´◡`❀)*･161cm･｡♡🐱 Junk @cecesjunkpile 👌🏻
     location: "Australia"
-    followers: 22183
-    engagement: 204
-    commentsToLikes: 0.045101
+    followers: 21704
+    engagement: 200
+    commentsToLikes: 0.043992
     id: ck0ttz2qx4y1l0i19aeyygtot
     verified: false
-    hashtags: "#poledance, #mirrorselfie, #kawaii, #potd"
-  - username: "sugarbeautybyashleejade"
+    hashtags: "#pastels, #cute, #poledancing, #kawaii"
+  - username: "sassnailartistry"
     fullname: >-
-      𝗔𝗦𝗛𝗟𝗘𝗘 𝗝𝗔𝗗𝗘 𝗦𝗡𝗘𝗗𝗗𝗢𝗡
+      Melbourne Nail Tech
     bio: >-
-      ✨ Makeup Artist ✨ Nail Technology Student ✨ Wollongong, Australia ✨ 𝗣𝗥/𝗘𝗡𝗤-𝗗𝗠/𝗘𝗠𝗔𝗜𝗟 𝗮𝘀𝗵𝗹𝗲𝗲.𝗹𝗼𝗰𝗸𝗲𝘁𝘁@𝗵𝗼𝘁𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 ✨@beautiesandblends 𝗦𝗾𝘂𝗮𝗱
+      📍Moonee Ponds 3039 Online masterclasses COMING SOON
     location: "Australia"
-    followers: 2504
-    engagement: 1071
-    commentsToLikes: 0.505664
-    id: ckap8u67wpwi50i782pwe42e9
+    followers: 63951
+    engagement: 274
+    commentsToLikes: 0.023630
+    id: ckaorhdihn83z0i7848dtqfrs
     verified: false
-    hashtags: "#makeupartist, #glammakeup, #learnmakeup, #anastasiabeverlyhills"
-  - username: "indiraekic"
+    hashtags: "#greennails, #nailsofinstagram, #pinkswanprofessional, #kiaraskygellytips"
+  - username: "genevievejauquet"
     fullname: >-
-      Indira Ekic
+      💋 GENEVIEVE Jauquet Perez
     bio: >-
-      💄 Makeup artist & educator ◾️Ambassador @frezydermslovenija ❤️ The Biggest Loser finalist
+      ⚪ Makeup Artist - Photography - Retouching ⚪ Sydney, Australia ⚪ Business: makeupbygj@gmail.com YouTube:
     location: "Australia"
-    followers: 61366
-    engagement: 972
-    commentsToLikes: 0.292172
-    id: ck5bxqcj8o7u70i11kmn00rfd
+    followers: 40019
+    engagement: 582
+    commentsToLikes: 0.019240
+    id: ck6tvadzul3830j71pkuiq810
     verified: false
-    hashtags: "#oglas, #instagood, #aboutyou, #crazybet"
-  - username: "zf_makeupartistry"
-    fullname: >-
-      Zieneb Farha🌻🤰 زينب  فرحة
-    bio: >-
-      Terrible speller ∘ Artist ∘ Educator Skin care enthusiast 🤓 Private lessons & Workshops Snap➸Zanoobs NO DMs accepted make a booking online ⤸
-    location: "Australia"
-    followers: 26932
-    engagement: 292
-    commentsToLikes: 0.248919
-    id: ck6u323fpv8ws0j71xvdnhkzf
-    verified: false
-    hashtags: "#melbournemakeupartist, #zfmakeupartistry, #ctilburymakeup, #drdennisgross"
-  - username: "tanya.mua"
-    fullname: >-
-      🧿 TANYA MUA 🧿
-    bio: >-
-      Makeup Artist Not Currently Freelancing Australia Business Enquires: tanyamua@hotmail.com
-    location: "Australia"
-    followers: 101026
-    engagement: 28
-    commentsToLikes: 0.041488
-    id: ck0vvbl02oen20i19aznkez3j
-    verified: false
-    hashtags: "#ottoman3browbar, #melbourne, #makeup, #boredom"
+    hashtags: "#mattenails, #lipsandnails, #nails, #lips"
   - username: "essypinkdog"
     fullname: >-
       Essy
     bio: >-
-      Comics ♡ Animations 🇦🇺 Nails: @essthetic.nails ♥DM commission QS♥ ♡GOD♡INFP♡ARMY♡PCOS♡ 👇🏻LATEST ANIMATION👇🏻
+      Comics ♡ Animations 🇦🇺 Nails: @essthetic.nails ♥Commissions Closed♥ ♡GOD♡INFP♡ARMY♡PCOS♡ 👇🏻LATEST ANIMATION👇🏻
     location: "Australia"
-    followers: 26593
-    engagement: 2077
-    commentsToLikes: 0.010511
+    followers: 26178
+    engagement: 2034
+    commentsToLikes: 0.009242
     id: ck8t9xyi4pr4a0j78379nmy9e
     verified: false
-    hashtags: "#humour, #comix, #seemedoodle, #funnycartoon"
+    hashtags: "#comic, #ibispaint, #galaxytabs6lite, #couplecomics"
+  - username: "nadiaperixo"
+    fullname: >-
+      N A D I A  P E R I 🦚
+    bio: >-
+      Aussie 🐨 in📍LA Leukaemia Survivor🇮🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇵🇱🇮🇪 BEAUTY || FASHION Content Creator 📧nadiapericontact@gmail.com 📧rebecca@bellamanagement.com.au DONATE⬇️
+    location: "Australia"
+    followers: 28165
+    engagement: 166
+    commentsToLikes: 0.085589
+    id: ck15q4qdz13970i1945z2p7hy
+    verified: false
+    hashtags: "#dior, #whatiwore, #persian, #laevents"
 ---

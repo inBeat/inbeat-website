@@ -1,24 +1,24 @@
 ---
-title: Top 10 TikTok Influencers In Norway In 2022
+title: Top 10 TikTok Influencers In Norway In 2023
 description: >-
-  Find top TikTok influencers in Norway in 2022. Most popular hashtags: #foryou #fyp #foryoupage.
+  Find top TikTok influencers in Norway in 2023. Most popular hashtags: #foryou #fyp #foryoupage.
 platform: TikTok
-hits: 489
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 489 TikTok influencers like this in Norway for you to contact.
+hits: 503
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 503 TikTok influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "horze..girl"
+  - username: ".outdatedzlp"
     fullname: >-
-      ❤️Horse Girl❤️
+      {5.5k} Z hasent noticed🥺💕
     bio: >-
-      ☀️Sunshine Trackers☀️ 🤍Bff acc: Norwegian.Gamer.girls🤍
+      𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙 𝙍𝙖𝙮𝙣𝙖 𝙄𝙡𝙮
     location: "Norway"
-    followers: 5925
-    engagement: 3235
-    commentsToLikes: 0.073238
-    id: ckbkfxtur74780j23k3ogurd0
+    followers: 5450
+    engagement: 3499
+    commentsToLikes: 0.494529
+    id: ckbfflyg2aeao0j231wt0oihn
     verified: false
-    hashtags: "#starstableonline, #foryoupage, #foryou, #sso"
+    hashtags: "#fyp, #charlidamelio, #taggcharli, #react"
   - username: "michellle_tumbling"
     fullname: >-
       ✨GOD DAG MINE SOKKER KLUMPER✨
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.080361
     id: ckck6eu4mrmfm0j23ksxbkqs1
     verified: false
-    hashtags: "#ferie, #bobil, #familie, #gips"
-  - username: "e.questrianedits"
-    fullname: >-
-      e.questrianedits
-    bio: >-
-      Tysm for 100k💞🥺🥰
-    location: "Norway"
-    followers: 109600
-    engagement: 2508
-    commentsToLikes: 0.036545
-    id: ckbf5t75guzfl0j235i5jat2p
-    verified: false
-    hashtags: "#equineedit, #horse, #showjumping, #horseedits"
+    hashtags: "#byebye, #hessdalen, #femunden, #ferie"
   - username: "pacy_soft"
     fullname: >-
       Quitted was pacy_soft
@@ -54,77 +42,89 @@ profiles:
     commentsToLikes: 0.231250
     id: cka84sgvfvbt50i78barvyac1
     verified: false
-    hashtags: "#foryou, #foruyou, #pacybitsfut20, #4yy"
-  - username: "whotfispixie"
+    hashtags: "#foruyou, #pacybitsfut20, #foryoupage, #4yp"
+  - username: "horze..girl"
     fullname: >-
-      {5.7k} C hasent noticed🥺💕
+      ✨900 fantastiska människor ✨🦦
     bio: >-
-      𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙 𝙍𝙖𝙮𝙣𝙖 𝙄𝙡𝙮
+      Kylie Thea Agnes Ida Julia Lilja Tor sesam Harry frisco
     location: "Norway"
-    followers: 5578
-    engagement: 1865
-    commentsToLikes: 0.090909
-    id: ckbfflyg2aeao0j231wt0oihn
+    followers: 951
+    engagement: 3106
+    commentsToLikes: 0.142601
+    id: ckbkfxtur74780j23k3ogurd0
     verified: false
-    hashtags: "#taggcharli, #fyp, #charlidamelio, #react"
+    hashtags: "#sesam, #foryou, #sotis, #han"
+  - username: "miomio_doodles"
+    fullname: >-
+      Miomio
+    bio: >-
+      Insta: miomio_doodles ✨
+    location: "Norway"
+    followers: 277900
+    engagement: 2531
+    commentsToLikes: 0.027528
+    id: ckbf1udnrodsc0j23q7ll6x7m
+    verified: false
+    hashtags: "#digitaldrawing, #fyp, #art, #procreate"
   - username: "zodiac_if"
     fullname: >-
-      Astrology🌙✨
+      ‧͙⁺˚*･༓☾🐸☽༓･*˚⁺‧͙
     bio: >-
-      Zodiac signs💕
+      Can go by your moon and rising💕
     location: "Norway"
-    followers: 114600
-    engagement: 1746
-    commentsToLikes: 0.042537
+    followers: 136500
+    engagement: 2159
+    commentsToLikes: 0.035083
     id: ckdck3zyhm51r0j23i9tzl3t6
     verified: false
     hashtags: ""
-  - username: "oula__49"
+  - username: "not.madeleine"
     fullname: >-
-      قشطة🥺💕🧸😂
+      if you know me, leave
     bio: >-
-      20.6.2020💘🥺 بلعب بوبجي🌚😜 عاشقة الشاورما🌯😋 بنت سوريا وبفتخر😌 لولو🙈💕
+      she/her 🛴🐛 BLM 🪴🧸🪐🫐💒🧷♎️ sc:madeleinea2005
     location: "Norway"
-    followers: 3313
-    engagement: 1596
-    commentsToLikes: 0.263037
-    id: ckb18qpp2wmcp0j23m0h0fid2
+    followers: 6530
+    engagement: 2148
+    commentsToLikes: 0.069056
+    id: ckc8y9wpzmp5e0j23olt4ppan
     verified: false
-    hashtags: "#arab"
-  - username: "mayantr"
+    hashtags: "#foryoupage, #foryou, #doritosflatlife, #duet"
+  - username: "e.questrianedits"
     fullname: >-
-      May-An
+      e.questrianedits
     bio: >-
-      Started as a joke, now im the joke Check out my yt & ig❤️
+      Tysm for 115k💞🥺🥰 ✨Making my own edits✨ Not my footage
     location: "Norway"
-    followers: 512400
-    engagement: 2193
-    commentsToLikes: 0.016430
-    id: ckbqp2nck9w6j0j2389bpvq0n
+    followers: 116200
+    engagement: 2454
+    commentsToLikes: 0.033438
+    id: ckbf5t75guzfl0j235i5jat2p
     verified: false
-    hashtags: "#food, #asian, #foryou, #workout"
-  - username: "supernyttnrk"
-    fullname: >-
-      nrksupernytt
-    bio: >-
-      Her får du: 🎥 NYHETER 🌟 UNDERHOLDNING +++
-    location: "Norway"
-    followers: 161100
-    engagement: 1643
-    commentsToLikes: 0.042219
-    id: ckbagnz1t8kog0j23k2womito
-    verified: true
-    hashtags: "#maskoramadansen"
+    hashtags: "#equineedit, #horseedits, #horseedit, #equestrian"
   - username: "im.frosty"
     fullname: >-
       20k????
     bio: >-
       Goal 20k🤪 Epic ExOTiC_Fr0sty ExOTiC clan
     location: "Norway"
-    followers: 14600
-    engagement: 1510
-    commentsToLikes: 0.106161
+    followers: 14400
+    engagement: 1501
+    commentsToLikes: 0.099431
     id: ckbeok41d4pqv0j238ylxmv8k
     verified: false
-    hashtags: "#foyoupage, #16k, #15k, #foryou"
+    hashtags: "#foryou, #foyoupage, #16k, #15k"
+  - username: "anser2002"
+    fullname: >-
+      Anser Abbas
+    bio: >-
+      Instagram:anser2002 Mail: anser2002@Hotmail.com Snap👻👇👇 abonner
+    location: "Norway"
+    followers: 58500
+    engagement: 1558
+    commentsToLikes: 0.143687
+    id: ckc32nke3st690j23h7epvabd
+    verified: false
+    hashtags: "#anser2002, #norsk"
 ---

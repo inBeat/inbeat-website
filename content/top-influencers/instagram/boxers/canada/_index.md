@@ -1,130 +1,130 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Canada In 2022
+title: Top 10 Boxers Instagram Influencers In Canada In 2023
 description: >-
-  Find top boxers Instagram influencers in Canada in 2022. Most popular hashtags: #boxing #canada #boxer #montreal.
+  Find top boxers Instagram influencers in Canada in 2023. Most popular hashtags: #boxing #fitness #training.
 platform: Instagram
-hits: 34
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 34 Instagram influencers like this in Canada for you to contact.
+hits: 21
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 21 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "_steverolls"
+  - username: "sadriddin_____soq"
     fullname: >-
-      Steve Rolls
+      SOLDIER OF QAZAQ(S.O.Q)
     bio: >-
-      Professional Boxer 20-1 (11KOs) For business and sponsorship inquiries contact: team.mrrolls@gmail.com
+      WBC Youth Super Welterweight World Champion🇰🇿🇨🇦🇺🇸🥊 professional boxer |12-0|10KO’s| Сотрудничество: . Арман:8(707)-616-63-53 . @akbotazh_ ❤️ .
     location: "Canada"
-    followers: 5643
-    engagement: 571
-    commentsToLikes: 0.042598
-    id: ck5qac8itfn520i1152gthjmd
-    verified: false
-    hashtags: "#letsgetit, #teamrolls, #boxing, #toronto"
-  - username: "khan01_01"
-    fullname: >-
-      𝐀𝐛𝐥𝐚𝐢𝐤𝐡𝐚𝐧 𝐊𝐡𝐮𝐬𝐬𝐚𝐢𝐧𝐨𝐯
-    bio: >-
-      Follow me through my journey to World Titles ☝️ 🥊Professional Boxer NBA international champion 🏆 📋Record 11-0-0 (8KOs) 🇺🇸Los Angeles 🇰🇿Kazakhstan
-    location: "Canada"
-    followers: 8917
-    engagement: 1147
-    commentsToLikes: 0.038311
-    id: ck5hp9hfjqz710i11lzyo72ou
-    verified: false
-    hashtags: "#allahuakbar, #boxing, #la, #alhamdulillah"
+    followers: 164340
+    engagement: 824
+    commentsToLikes: 0.013081
+    id: ck9whkyjlycdd0j786awjo8cl
+    verified: true
+    hashtags: "#readdradredemption, #soldierofqazaq, #ufc, #fifa"
   - username: "arslanbek_mahmudov"
     fullname: >-
       Arslanbek Lion Makhmudov
     bio: >-
       ▪️Professional Boxer 🥊 ▪️Eye Of The Tiger Management and Golden Boy Promotion ▪️Record: 11-0 11Ko💥 ▪️WBC Continental Americas Champion; NABF Champion
     location: "Canada"
-    followers: 161752
-    engagement: 176
-    commentsToLikes: 0.078990
+    followers: 152614
+    engagement: 210
+    commentsToLikes: 0.048849
     id: ck6txn6jvyqjp0j71ollgmzzk
     verified: false
-    hashtags: "#last, #week, #man, #safari"
+    hashtags: "#respect, #alhamdulilla, #soon, #quarantine"
+  - username: "ablaikhan_khussainov"
+    fullname: >-
+      𝐀𝐛𝐥𝐚𝐢𝐤𝐡𝐚𝐧 𝐊𝐡𝐮𝐬𝐬𝐚𝐢𝐧𝐨𝐯
+    bio: >-
+      🥊Professional Boxer 📋Record 11-0-0 (8KOs) 🇺🇸Los Angeles 🇰🇿Kazakhstan
+    location: "Canada"
+    followers: 41729
+    engagement: 175
+    commentsToLikes: 0.040899
+    id: ck5hp9hfjqz710i11lzyo72ou
+    verified: false
+    hashtags: "#usa, #kazakhstan, #allahuakbar, #alhamdulillah"
   - username: "erikbzo"
     fullname: >-
       Erik Bazinyan
     bio: >-
-      Professional Boxer 25-(19ko)-0-0 WBO Youth world champion,WBO(Nabo)champion,WBA(naba)champion 🇦🇲🇨🇦
+      Professional Boxer 26-(20ko)-0-0 Super middleweight WBO Youth world champion,WBO(Nabo),WBA(naba)WBC(Nabf) champion 🇦🇲🇨🇦 Amateur record- 108-1
     location: "Canada"
-    followers: 20387
-    engagement: 372
-    commentsToLikes: 0.031414
+    followers: 29403
+    engagement: 264
+    commentsToLikes: 0.046636
     id: ck0ttzphm50zu0i19ohxqvfik
     verified: true
-    hashtags: "#cavabienaller, #haveablessedday, #stayactive, #25"
+    hashtags: "#bzoisback, #haveadream, #boxing, #flashbackfriday"
   - username: "mirage.boxing"
     fullname: >-
-      سراب - Mirage
+      سراب -  M I R A G E
     bio: >-
-      Amateur boxer 🥊 Hard Work▪️Dedication▪️Relentless 📍🇨🇦/ 🇱🇧
+      Mirage Abdul-Hadi •Resilience •Adapt •Relentless 🥊 Amateur Boxer 👊🏼 #teameverlast 📍🇨🇦/🇱🇧 /Free 🇵🇸
     location: "Canada"
-    followers: 49667
-    engagement: 217
-    commentsToLikes: 0.033051
+    followers: 52322
+    engagement: 153
+    commentsToLikes: 0.025828
     id: ck0twiunbfkw60i19bwnlh637
     verified: false
-    hashtags: "#dedication, #ring, #shadowboxing, #covid19"
-  - username: "sadriddin_____soq"
-    fullname: >-
-      SOLDIER OF QAZAQ(S.O.Q)
-    bio: >-
-      WBC Youth Super Welterweight World Champion🇰🇿🇨🇦🇺🇸🥊 professional boxer |11-0|10KO’s| Сотрудничество: . Арман:8(707)-616-63-53 . @akbotazh_ ❤️ .
-    location: "Canada"
-    followers: 144428
-    engagement: 684
-    commentsToLikes: 0.008656
-    id: ck9whkyjlycdd0j786awjo8cl
-    verified: true
-    hashtags: "#lamborghini, #soldierofqazaq, #boxing, #qazaq"
+    hashtags: "#athlete, #montreal, #boxinglife, #fightsports"
   - username: "reee887"
     fullname: >-
       Ree
     bio: >-
       💕MY BOXER BOY💕⭐️KANE Born 06-01-16 💕 Lives in Alberta, Canada 🐾 loves his bacon 🥓🐾 ❤️🐾❤️🐾🐾❤️🐾 MOMMY SAYS IM PAWFECT
     location: "Canada"
-    followers: 4890
-    engagement: 1699
-    commentsToLikes: 0.051177
+    followers: 5685
+    engagement: 1163
+    commentsToLikes: 0.051452
     id: ckapb5pnlyo4y0i78w3rln30n
     verified: false
-    hashtags: "#instaboxer, #instagood, #pets, #love"
+    hashtags: "#instaboxer, #doggy, #dogsofinstagram, #petstagram"
+  - username: "adrienbroner"
+    fullname: >-
+      Adrien AB Broner
+    bio: >-
+      Professional Boxer 4x World Champion in 4 weight classes
+    location: "Canada"
+    followers: 1195752
+    engagement: 105
+    commentsToLikes: 0.112239
+    id: ck5cdte7gjqo90i11w9sa9vn7
+    verified: true
+    hashtags: "#feb20th, #stilladjustingtofame, #tbt, #samethang"
   - username: "abedelsafadi"
     fullname: >-
       T E A M A B E D🦁
     bio: >-
-      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 -What doesn't kill you makes you stronger-👑
+      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 Active on Snapchat 👻 : Abed80 -What doesn't kill you makes you stronger-👑
     location: "Canada"
-    followers: 2353
-    engagement: 1428
-    commentsToLikes: 0.038805
+    followers: 2821
+    engagement: 1275
+    commentsToLikes: 0.037345
     id: ck601tcd3g4vt0i14dqtejepg
     verified: false
-    hashtags: "#boxingday, #gym, #fitnessmotivation, #mixedmartialarts"
-  - username: "lexsonmathieu"
+    hashtags: "#workout, #judo, #boxeo, #fighter"
+  - username: "jelenaboxing"
     fullname: >-
-      Lexson Mathieu
+      jelenaboxing
     bio: >-
-      Pro boxer🥊. NABF Champion
+      Professional Boxer 8 X WORLD BOXING CHAMPION Founder:CHAMPS BOXING STUDIO @champsboxingyeg
     location: "Canada"
-    followers: 5517
-    engagement: 360
-    commentsToLikes: 0.016515
-    id: ck6ubrursbcca0j71vhkxbosd
+    followers: 12275
+    engagement: 397
+    commentsToLikes: 0.037765
+    id: ck5hfy1rvzxbn0i11xduzx28y
     verified: false
-    hashtags: "#lexson, #montreal, #quebec, #eottm"
-  - username: "neeraj_goyat"
+    hashtags: "#fitness, #training, #worldchampion, #family"
+  - username: "cassiuswinston5"
     fullname: >-
-      Neeraj Goyat
+      Cash🖤 Yo world Smoothie Bean 🖤
     bio: >-
-      Professional Boxer 🇮🇳
+      Detroit Made| MSU 💚| Wiz🧙🏾‍♂️| AB❤️| #LuvGang🖤🍹🌍
     location: "Canada"
-    followers: 25636
-    engagement: 720
-    commentsToLikes: 0.017696
-    id: ck136e5n161py0i19paocvu8w
+    followers: 134068
+    engagement: 1023
+    commentsToLikes: 0.010311
+    id: ck0vzdsf48ly30i19sq2s2qis
     verified: true
-    hashtags: "#training, #motivation, #lifestyle, #gangster"
+    hashtags: "#boxerswithpockets, #ad, #att5g, #attathlete"
 ---

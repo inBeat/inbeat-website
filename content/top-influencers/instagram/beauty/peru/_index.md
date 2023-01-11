@@ -1,84 +1,120 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Peru In 2022
+title: Top 10 Beauty Instagram Influencers In Peru In 2023
 description: >-
-  Find top beauty Instagram influencers in Peru in 2022. Most popular hashtags: #peru #beauty #makeup #publicidad.
+  Find top beauty Instagram influencers in Peru in 2023. Most popular hashtags: #beauty #style #publicidad.
 platform: Instagram
-hits: 118
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 118 Instagram influencers like this in Peru for you to pitch.
+hits: 112
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 112 Instagram influencers like this in Peru for you to pitch.
 profiles:
   - username: "nicollechangc"
     fullname: >-
       Nicolle Chang Makeup Artist.
     bio: >-
-      💄MUA & Beauty Vlogger 📍Lima - Perú 📲 Citas en @nicollechangmakeup 📩 nicollechangmakeup@gmail.com
+      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
     location: "Peru"
-    followers: 58250
-    engagement: 1353
-    commentsToLikes: 0.029395
+    followers: 125184
+    engagement: 902
+    commentsToLikes: 0.032827
     id: ck6ucvwnlhrbb0j71u9zr5a8m
     verified: false
-    hashtags: "#halloweenmakeup, #spookyseason, #artist, #beauty"
+    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
   - username: "antonellaleguab"
     fullname: >-
       Anto Legua B
     bio: >-
-      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle | MakeUp ✉ antonellaleguab@gmail.com 📌 Perú
+      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle ✉ antonellaleguab@gmail.com 📌 Perú
     location: "Peru"
-    followers: 82062
-    engagement: 128
-    commentsToLikes: 0.179357
+    followers: 79204
+    engagement: 39
+    commentsToLikes: 0.249237
     id: ck6u904yrupf20j711z5lc25b
     verified: false
-    hashtags: "#dknychallenge, #dknystories, #publicidad, #celebremostodo"
-  - username: "artbycch"
+    hashtags: "#bicentenario, #nyc, #maquillatepararegresarperu, #8m"
+  - username: "roksolanalima"
     fullname: >-
-      Camila Chehade ☆
+      Lima 🤍
     bio: >-
-      Beauty Blogger ☆ MAKEUP ARTIST ☆ 🤍 @closetsalebycch 🪐✨💭 Tik tok 🦄 : cch.99 💌 camilachehade@hotmail.com
+      Lifestyle • Nails • Fashion ▪️My business : 📮@roksolanalima.cooperation ▫️ @lima.school ▫️ @lima.beautystudio . TelegramMusic 👇🏼
     location: "Peru"
-    followers: 10419
-    engagement: 572
-    commentsToLikes: 0.064751
-    id: ck6tibs9h0f3y0j71zb553mbn
+    followers: 100127
+    engagement: 788
+    commentsToLikes: 0.084362
+    id: ck0u7d0fk4gh00i19vo4089y1
     verified: false
-    hashtags: "#muaperu, #muasfam, #muasupport, #benebabe"
-  - username: "maferbenites"
+    hashtags: "#lovestory, #loveislove, #relax, #style"
+  - username: "adiccionallabial"
     fullname: >-
-      MAFER BENITES
+      Miss Mickey 💕Jonas Vloggers 😎🔥
     bio: >-
-      Beauty Influencer-Maquilladora Pro 💄 400K TikTok maferbenitesmk Cursos de Automaquillaje-Makeup Pro 📹YouTube @maferbenites 💳compra aquí ⬇️
+      Espíritu libre 🌙✨ Amante del maquillaje , beauty vlogger & fashion victim 💄💋 Contacto.adiccionallabial@gmail.com💌 @adictosallabial Nuevo video👇😱
     location: "Peru"
-    followers: 52298
-    engagement: 208
-    commentsToLikes: 0.108064
-    id: ck55m203f309u0i11trhkmrnf
+    followers: 261465
+    engagement: 205
+    commentsToLikes: 0.012688
+    id: ck6udnzznm6u60j71lk0fj1ql
+    verified: true
+    hashtags: "#newyear, #newhair, #newbitch, #nailinspo"
+  - username: "daniellaeacosta"
+    fullname: >-
+      Daniella | Outfits y Datos
+    bio: >-
+      ◽️Lifestyle l Fashion & Beauty ◽️Moda para todas l Tips & Datos l Emprendimiento INSCRÍBETE AL CAMPAFIT AQUÍ⬇️
+    location: "Peru"
+    followers: 66808
+    engagement: 218
+    commentsToLikes: 0.075659
+    id: ck13d1tzc38n30i19e4v4c15v
     verified: false
-    hashtags: "#instagramreels, #makeup, #makeuplooks, #maquillaje"
+    hashtags: "#publicidad, #lifestyleblogger, #outfitinspo, #instareel"
   - username: "karlabanto"
     fullname: >-
       Karla Abanto Tantaleán
     bio: >-
-      Fashion • Beauty • Travel • Lifestyle Founder @mbtperu @kloset.pe 📩 kabantot@hotmail.com Adopta, no compres.🐾
+      Fashion • Beauty • Travel • Lifestyle Founder @mbtperu @kloset.pe Adopta, no compres.🐾 📩 kabantot@hotmail.com
     location: "Peru"
-    followers: 30157
-    engagement: 133
-    commentsToLikes: 0.105620
+    followers: 39734
+    engagement: 206
+    commentsToLikes: 0.033447
     id: ck6u90jd7urwr0j714t9irs5n
     verified: false
-    hashtags: "#revolveme, #klosetdesdecasa, #publicidad, #conceptualphotography"
-  - username: "vangers1"
+    hashtags: "#valentinesday, #sheingals, #dresstoimpress, #publicidad"
+  - username: "pmxbeauty"
     fullname: >-
-      Véronique Angers
+      Paola Escalante
     bio: >-
-      Creadora de contenido 📍Lima 🌎🇺🇸🇵🇦🇵🇪 🇧🇴🇨🇴🇧🇷🇦🇷 Contact : veronique.angers16@gmail.com YouTube ⬇️
+      📍 Lima, Perú ✉️ PR/Business: pmxbeauty@gmail.com +300 TikTok
     location: "Peru"
-    followers: 52847
-    engagement: 687
-    commentsToLikes: 0.031224
-    id: ck5zkar2ij4pb0i140nig3zlr
+    followers: 34233
+    engagement: 225
+    commentsToLikes: 0.089189
+    id: ck9wf1jr7mvjd0j78072wplp2
     verified: false
-    hashtags: "#youtube, #lima, #barranco, #sanisidro"
+    hashtags: "#wakeupandmakeup, #makeupdaily, #disney, #abhfam"
+  - username: "denaragonmx"
+    fullname: >-
+      Denisse Aragón
+    bio: >-
+      👩🏼Actriz y cantante 🎙Actriz de doblaje 📍México 📩CONTACTO gerardoluciooso@hotmail.com
+    location: "Peru"
+    followers: 18712
+    engagement: 306
+    commentsToLikes: 0.123287
+    id: ck9hcyf1hnh3i0j78k33gllkq
+    verified: false
+    hashtags: "#me, #igers, #pool, #instagood"
+  - username: "suco_xd"
+    fullname: >-
+      ⚡️ Anthony Herrera ⚡️
+    bio: >-
+      •Cantante 😎🎤 •Ecuatoriano 🇪🇨🔥 •Contratos: contactosuco12@gmail.com / 0962792430 •Escucha mi nueva canción “Tra Tra”👇🏻
+    location: "Peru"
+    followers: 16238
+    engagement: 617
+    commentsToLikes: 0.238933
+    id: ck8tbyajmxnnl0j781sphptyg
+    verified: false
+    hashtags: "#travel, #cute, #amazing, #instalike"
   - username: "camilaheredia.b"
     fullname: >-
       Camila Heredia    • Creadora
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.160490
     id: ckap2igozyz9p0i78udr6facr
     verified: false
-    hashtags: "#peruana, #lifestyle, #lifestyleblogger, #beauty"
-  - username: "bermont__"
-    fullname: >-
-      Bernardo Monteagudo
-    bio: >-
-      Limeño mazamorrero! 🥄🧁 Prometto a me stesso la felicità! 🌟 Más peruano que el pisco! 🍸 🇵🇪 Lima, Perú. 🇵🇪📍
-    location: "Peru"
-    followers: 17490
-    engagement: 1016
-    commentsToLikes: 0.032687
-    id: ck8tbno84wds50j78upkafcth
-    verified: false
-    hashtags: "#florida, #mountains, #photographer, #beautiful"
-  - username: "kelinrk"
-    fullname: >-
-      Kelin Rivera Kroll
-    bio: >-
-      MISS PERU UNIVERSO 2019 ✨TOP 10 MISS UNIVERSE ✨ Business Manager @ruta_solidaria_peru 🤍 📍 Lima, PERU 🇵🇪
-    location: "Peru"
-    followers: 91219
-    engagement: 339
-    commentsToLikes: 0.021084
-    id: ck5zxeuwn7vnw0i143v3thmc5
-    verified: true
-    hashtags: "#shooting, #queenk, #queen, #missuniverse"
-  - username: "comerviajarybailar"
-    fullname: >-
-      ᴄᴏᴍᴇʀ ᴠɪᴀᴊᴀʀ ʏ ʙᴀɪʟᴀʀ
-    bio: >-
-      🇵🇪 Eɴᴀᴍᴏ́ʀᴀᴛᴇ ᴅᴇʟ Pᴇʀᴜ́ 🇵🇪 🏄‍♀️ Alexandra Roncal ᴀʙᴏɢᴀᴅᴀ ᴛʀᴏᴛᴀᴍᴜɴᴅᴏs 🌎✈️ Recorramos juntos el Perú 🚘 Lima Salerosa, nuestro último artículo ⬇️
-    location: "Peru"
-    followers: 9884
-    engagement: 751
-    commentsToLikes: 0.104205
-    id: ck5pv26c3fr4f0i11bz9l4g2i
-    verified: false
-    hashtags: "#photooftheday, #girlsday, #selfie, #lima"
+    hashtags: "#fashionstyle, #mamablogger, #camilaheredia, #peruana"
 ---

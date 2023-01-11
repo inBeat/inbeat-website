@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Madrid In 2022
+title: Top 10 Photographers Instagram Influencers In Madrid In 2023
 description: >-
-  Find top photographers Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #portrait #model #photographer.
+  Find top photographers Instagram influencers in Madrid in 2023. Most popular hashtags: #photography #madrid #photographer #photo.
 platform: Instagram
-hits: 164
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 164 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 128
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 128 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
   - username: "patriciasemirphotography"
     fullname: >-
       𝒫𝒶𝓉𝓇𝒾𝒸𝒾𝒶 𝒹𝑒  𝒮𝑒𝓂𝒾𝓇
     bio: >-
-      👉🏻 Photographer Madrid y Barcelona. ᴱᴺᴬᴹᴼᴿᴬᴰᴬ ᴰᴱ ᴹᴵ ᵀᴿᴬᴮᴬᴶᴼ www.patriciasemirfiltros.com 630964800
+      👉🏻 Photographer Madrid y Barcelona. ᴱᴺᴬᴹᴼᴿᴬᴰᴬ ᴰᴱ ᴹᴵ ᵀᴿᴬᴮᴬᴶᴼ www.patriciasemir.es 630964800
     location: "Spain"
-    followers: 22472
-    engagement: 172
-    commentsToLikes: 0.050028
+    followers: 22791
+    engagement: 133
+    commentsToLikes: 0.043188
     id: ckaoqthw8kba70i78i2hr7yc0
     verified: false
-    hashtags: "#menorca, #modaespa, #workinprogress, #shootingfamiliar"
+    hashtags: "#verano, #labube, #fotosencasa, #lamparasdetecho"
   - username: "dannielrojas"
     fullname: >-
       DANNIEL ROJAS
     bio: >-
       Photographer 📍#Madrid • For bookings ✈ hi@dannielrojas.com or 📩
     location: "Spain"
-    followers: 15858
-    engagement: 756
-    commentsToLikes: 0.065462
+    followers: 17589
+    engagement: 586
+    commentsToLikes: 0.067964
     id: ckaor7lmsm27r0i78bik7nouz
     verified: false
-    hashtags: "#beauty, #yslbeauty, #hair, #ghdspain"
-  - username: "sergio.loshak.photography"
-    fullname: >-
-      Sergio Loshak
-    bio: >-
-      Fashion & Boudoir Photographer 📍Madrid Bodas @sergioloshak.bodas
-    location: "Spain"
-    followers: 23088
-    engagement: 248
-    commentsToLikes: 0.044053
-    id: ck6u51i6271ai0j714r0704cu
-    verified: false
-    hashtags: "#shooting, #bnw, #fotografomadrid, #sensual"
+    hashtags: "#photoassistant, #stylistassistant, #campaign, #gosee"
   - username: "cesarvaldesphoto"
     fullname: >-
       César Valdés
     bio: >-
       📷 Photographer. 📍 Madrid / Burgos ✉ DM for books & jobs
     location: "Spain"
-    followers: 17984
-    engagement: 378
-    commentsToLikes: 0.033255
+    followers: 17654
+    engagement: 383
+    commentsToLikes: 0.034657
     id: ck0u26o98yxtr0i19fpil0pmg
     verified: false
-    hashtags: "#fineartphotography, #likeapainting, #theportraitpr0ject, #fashionportrait"
+    hashtags: "#theportraitpr0ject, #sombrebeings, #fashionportrait, #portrait"
   - username: "tomascmt"
     fullname: >-
       Tomas Mancheño
     bio: >-
       Si sonríes siempre saldrá mejor. Photographer in Madrid - Toledo 📮 tomascmt@gmail.com Para 📷 MD
     location: "Spain"
-    followers: 7216
-    engagement: 403
-    commentsToLikes: 0.051011
+    followers: 7777
+    engagement: 390
+    commentsToLikes: 0.059394
     id: ck6uhkf5t9mt20j71n6lfkdyk
     verified: false
-    hashtags: "#model, #nikon, #photography, #woman"
-  - username: "anabuho"
+    hashtags: "#woman, #madrid, #photo, #photography"
+  - username: "ana.torres___"
     fullname: >-
-      Ana Alborés
+      🍒Ana Torres 🍒
     bio: >-
-      Photographer 📍 Madrid ✉️ anabuhoes@gmail.com
+      MADRID-BCN📍 Futura mamá 🤰 @robertopinilla_madrid 💍 ❤️🔐 Colaboraciones 📩 Inbox
     location: "Spain"
-    followers: 34261
-    engagement: 143
-    commentsToLikes: 0.017046
-    id: ck8sx29x9fyyu0j78uwwowxeq
+    followers: 28551
+    engagement: 361
+    commentsToLikes: 0.081590
+    id: ck8tdk9mb3nip0j78mn9b9l8b
     verified: false
-    hashtags: "#35mm, #zenzabronica, #portra400"
-  - username: "ramses.photography"
+    hashtags: "#photography, #inkedgirls, #lifestyle, #fotografia"
+  - username: "anabeljsantana"
     fullname: >-
-      TRAVEL PHOTOGRAPHY 🌎🌍
+      Anabel Santana
     bio: >-
-      Ramses E. Pereyra 📸 •Trilingual •Private Pilot •Traveler 🗺 18 countries 📍Madrid 👤 @ramses88pereyra 📷 @festivalseasones
+      🇪🇸Spanish Model NaturalRedHead 👩🏻‍🦰✨ 📍Madrid ~ Barcelona 🔸Pasarela🔸Catálogo🔸Publicidad
     location: "Spain"
-    followers: 7521
-    engagement: 956
-    commentsToLikes: 0.034830
-    id: ckaorsjo6ok620i78s2f9zep5
+    followers: 11842
+    engagement: 829
+    commentsToLikes: 0.115625
+    id: ck8sx1otjfwyd0j78itx96knh
     verified: false
-    hashtags: "#blackandwhite, #bnwphotography, #travelphotography, #photographerlife"
-  - username: "morantpi"
+    hashtags: "#glamour, #makeupartist, #redheadbeauty, #redhead"
+  - username: "jie_in_spain"
     fullname: >-
-      Pilar Moraleja
+      Jie Wang
     bio: >-
-      Adoro viajar por el🌍 aquí dejo alguna foto me gustan🐈 🍽🍺🍷🥢 🅰️ @look_valladolid 🅰️ @asi_es_castillayleon 🅰️ @asi_es_blueworld 🅰️ @asi_es_medievalworld
+      Asesora de Marcas | Brand Advisor Promoción y asesoramiento a Marcas Premium, Gastronomía, Hoteles, Arte y Destinos dirigido al mercado asiático.
     location: "Spain"
-    followers: 2974
-    engagement: 1321
-    commentsToLikes: 0.055721
-    id: ck5c8v67taa1k0i11il8w4ma1
+    followers: 28130
+    engagement: 214
+    commentsToLikes: 0.024802
+    id: ck5c3tz1402030i11g0r76agh
     verified: false
-    hashtags: "#detras, #summer, #beach, #asi"
-  - username: "neosphotography_"
+    hashtags: "#photography, #ticino, #style, #restaurante"
+  - username: "sergio.loshak.photography"
     fullname: >-
-      NEOS photography
+      Sergio Loshak
     bio: >-
-      📸 Professional Photographer 📍Andorra🇦🇩Madrid🇪🇸 🎮 Directos gaming 19:00 en Twich
+      Fashion & Boudoir Photographer based in Madrid MARBELLA 18-27 DE AGOSTO @sergioloshak.bodas
     location: "Spain"
-    followers: 25864
-    engagement: 914
-    commentsToLikes: 0.029140
-    id: ck5c9l6x6bmtw0i11of2g2ast
+    followers: 23964
+    engagement: 186
+    commentsToLikes: 0.058502
+    id: ck6u51i6271ai0j714r0704cu
     verified: false
-    hashtags: "#weiderlovers"
-  - username: "kryspasiecznik"
+    hashtags: "#marbellaclub, #porsheboxter, #marbellarestaurants, #sunset"
+  - username: "chiki335_owl_photo"
     fullname: >-
-      Krys Pasiecznik
+      Owl Photo
     bio: >-
-      📷 @krys_pasiecznik_photo 📍MADRID Model & Photographer (∂ + m) ψ = 0
+      Photographer based in Madrid for test/works/books...direct 👉🏻📲 Cuenta personal @chikiowl por si alguien quiere ver algo más q mis fotos 🤗🤗
     location: "Spain"
-    followers: 124224
-    engagement: 233
-    commentsToLikes: 0.071646
-    id: ck55neqlc62590i11ognehm5c
+    followers: 17510
+    engagement: 261
+    commentsToLikes: 0.039840
+    id: ck5q2w8kii3ck0i11m8cz3cbl
     verified: false
-    hashtags: "#tattoo, #tattoos, #moda, #sonya7ii"
+    hashtags: "#barcelona, #sonyalpha, #sony, #cute"
+  - username: "heyrocco"
+    fullname: >-
+      Rocco Parra
+    bio: >-
+      #NoEntiendo | Photography @parra.rocco ex-gymnast / gymnastics coach / Photographer / retoucher 📍Madrid. parra.rocco@gmail.com Twitter heyrocco
+    location: "Spain"
+    followers: 8790
+    engagement: 506
+    commentsToLikes: 0.040139
+    id: ck5q9lihgbpo00i11wpqcvuk1
+    verified: false
+    hashtags: ""
 ---

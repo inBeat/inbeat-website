@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Vancouver In 2022
+title: Top 10 Yoga Instagram Influencers In Vancouver In 2023
 description: >-
-  Find top yoga Instagram influencers in Vancouver in 2022. Most popular hashtags: #canada #vancouver #vancouverisland #yoga.
+  Find top yoga Instagram influencers in Vancouver in 2023. Most popular hashtags: #yoga #love #vancouver #dance.
 platform: Instagram
-hits: 21
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 21 Instagram influencers like this in Vancouver, Canada for you to connect with.
+hits: 13
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
-  - username: "sarka_yoga"
+  - username: "bohemewandering"
     fullname: >-
-      Sarka Kocicka ☀️ Yoga Teacher
+      Leilani ⋒ piscean mermaid
     bio: >-
-      400+ hrs RYT 🙏🏻 LYT™️ 🤸‍♀️ Mom of 👧🏼👧🏼🐶 Vancouver 🇨🇦 Online yoga classes 💫 Discount codes ↙️
+      Philosophic spiritualist . Poet & speaker. Channeller. Vintage curator & stylist. Collage artist. Microdosing with @blumlabss - “LEILANI15” 🍄
     location: "Canada"
-    followers: 66251
-    engagement: 134
-    commentsToLikes: 0.177899
-    id: ck9wfvsx0qpoa0j78dkpl4h9z
+    followers: 18968
+    engagement: 75
+    commentsToLikes: 0.136602
+    id: ck5hm2zualaad0i116k5nnxmm
     verified: false
-    hashtags: "#lytyoga, #alofusarethankful, #aloyoga, #alomoves"
-  - username: "carew_movement"
+    hashtags: "#islandgirl, #yyj, #vintagestyle, #bohemehoney"
+  - username: "vancouversveryown"
     fullname: >-
-      Brian Carew
+      Brandon Nair | DJ Nizzy 🇫🇯🌺
     bio: >-
-      @movement.flow Instructor | Respiratory Therapist | Humble student of life 🙏🏼 #Vancouver BC 🇨🇦 Top 8% on OF 💙 🔽 Online Classes | Trainings 🔽
+      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
     location: "Canada"
-    followers: 21485
-    engagement: 164
-    commentsToLikes: 0.129160
-    id: ckaoqr24yjz140i78b1m4prcp
+    followers: 7165
+    engagement: 736
+    commentsToLikes: 0.068972
+    id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#movementflow, #movementtraining, #vancouverbc, #vancouver"
+    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
   - username: "yoga_mami"
     fullname: >-
       Josephine Jacob
     bio: >-
       Mom of 2, Yogi, Traveler. Vancouver 🇨🇦
     location: "Canada"
-    followers: 52479
-    engagement: 186
-    commentsToLikes: 0.098208
+    followers: 51708
+    engagement: 125
+    commentsToLikes: 0.134383
     id: ck13ajiagqog40i190xn8xljh
     verified: false
-    hashtags: "#fallalorefocus, #fallinaloverthefloor, #alovertheplace, #alobouticonicasanas"
-  - username: "amandaduplessisfit"
-    fullname: >-
-      Amanda
-    bio: >-
-      Amanda DuPlessis - Personal Trainer 📍Whistler Links ⬇️ @youcanbeam : Amandafit @musesonly_yoga : Amanda 10 @freespiritoutlet : Amandafit
-    location: "Canada"
-    followers: 10945
-    engagement: 628
-    commentsToLikes: 0.065289
-    id: ck5zk3ajjiqie0i148umapojy
-    verified: false
-    hashtags: "#beautifulbritishcolumbia, #hikingadventures, #bikini, #escapethecity"
-  - username: "bohemewandering"
-    fullname: >-
-      Leilani ⋒ pisces as fuck
-    bio: >-
-      ☾ lover╳dreamer╳wild woman╳poet ☾ ☼ vancouver island ☼ ♁ student of Ayurveda 𓁺 #poetry #yoga #travel #ayurveda be one of my fans👇🏼
-    location: "Canada"
-    followers: 19501
-    engagement: 225
-    commentsToLikes: 0.036998
-    id: ck5hm2zualaad0i116k5nnxmm
-    verified: false
-    hashtags: "#vanisle, #instadaily, #yyjmodel, #mytoqi"
+    hashtags: "#aloinwinterland, #aloboutyin, #aloboutdirection, #toughtoloveasanas"
   - username: "heikekuzminski"
     fullname: >-
       Heike Kuzminski
     bio: >-
       Designer, Artist, Wife and Mama of two. ❤️watercolour, hiking, kayaking, yoga and chocolate. Not necessarily in that order. Vancouver, 🇨🇦
     location: "Canada"
-    followers: 16820
-    engagement: 489
-    commentsToLikes: 0.044497
+    followers: 28004
+    engagement: 1240
+    commentsToLikes: 0.035031
     id: ck14j8nnfj3s30i198ea8wvh5
     verified: false
-    hashtags: "#artchallenge, #madeinvancouver, #cutebirdsofinstagram, #aquarellepainting"
-  - username: "kane.a.roberts"
+    hashtags: "#illustrationoftheday, #watercolourchallenge, #bcartist, #bird"
+  - username: "sarka_yoga"
     fullname: >-
-      Kane Roberts
+      Sarka Kocicka ☀️
     bio: >-
-      Photography/Art page : @thewhoareyou MA: @lizbellagency Currently: Vancouver, Canada. 📞@lizbellagency,@soulartistmgmt
+      Certified Yoga Teacher 500+ hrs 🧘‍♀️ LYT Yoga™️ Ambassador Mom of 👧🏼👧🏼🐶 Vancouver 🇨🇦 @aloyoga advocate Online classes 🌟 Discounts ↙️
     location: "Canada"
-    followers: 5178
-    engagement: 1225
-    commentsToLikes: 0.016242
-    id: ck14hum06c81o0i196zr3n385
+    followers: 67030
+    engagement: 128
+    commentsToLikes: 0.186084
+    id: ck9wfvsx0qpoa0j78dkpl4h9z
     verified: false
-    hashtags: "#brooklyn, #meditation, #pose, #mensfashion"
-  - username: "noelhendrickson"
+    hashtags: "#aloinwinterland, #aloyogachallenge, #alomoves, #aloyoga"
+  - username: "alihock_yogi"
     fullname: >-
-      
+      Ali 🤸‍♀️
     bio: >-
-      Photographer : Vancouver : puglife : lover of bonzai : repped in USA and Can by @nancygrantrepresentation : repped east coast USA by @_sidecarww_
+      💯Yogagirl 🇨🇦 👊🏻 #yogainjeans👖 ❤️My yoga life🧘‍♀️Yoga heals 🤍 "When you own your life, nobody can steal your peace" 🕊
     location: "Canada"
-    followers: 27906
-    engagement: 72
-    commentsToLikes: 0.034181
-    id: ck1353ee2zhyq0i1917d1ynwn
+    followers: 13512
+    engagement: 237
+    commentsToLikes: 0.175956
+    id: ck8t6mu65e5x50j78a5qkgt69
     verified: false
-    hashtags: "#mercedes, #tofino, #canada, #automotive"
-  - username: "donuts.and.dirt.trails"
+    hashtags: "#yogalife, #yogaoutside, #canadianbrand, #yogiofinstagram"
+  - username: "sweetlyraw"
     fullname: >-
-      MEGAN · outdoor enthusiast ↟
+      Heather Pace l Healthy Recipes
     bio: >-
-      ✧ Adventure | Dogs | Travel ✧ Canada | #vancouverisland ✧ Collab · DM or email for inquiries ✈ Next: TBD ↡ Blog
+      Victoria BC 🇨🇦 @sweetlyraw.sensual Trained chef 👩‍🍳 Healthy Recipes: sweetlyraw.com 💕YouTube: Heather Pace(food & yoga)✨ Certified yoga instructor🧘‍♀️
     location: "Canada"
-    followers: 2861
-    engagement: 1222
-    commentsToLikes: 0.095149
-    id: ckaornvsmo1y80i78jk1yya5y
+    followers: 29315
+    engagement: 114
+    commentsToLikes: 0.279833
+    id: ck0u2f8jhzrhy0i19k6ivtn3i
     verified: false
-    hashtags: "#brmblife, #keepitwild, #explorebclater, #sheisthewild"
-  - username: "nataliepastore"
+    hashtags: "#veganfood, #rawdessert, #sweetlyraw, #yyjfoodie"
+  - username: "maxwithme"
     fullname: >-
-      Ɲatalie♡
+      Max
     bio: >-
-      Yoga & Fitness Instructor You can't live a positive life with a negative mind ☼☾ Toronto <—> Vancouver
+      2021 July ♾Taipei Summer 預約中 Director at @maxwithmestudio hairstylist/storyteller based in Taipei🇹🇼. Traveler🇬🇧🇫🇷🇬🇷🇨🇦🇵🇹🇭🇰🇺🇸🇯🇵🇸🇬🇦🇺🇪🇸🇳🇱🇮🇹🇨🇳🇲🇾🇲🇴
     location: "Canada"
-    followers: 8108
-    engagement: 451
-    commentsToLikes: 0.039911
-    id: ck8tdskb54m630j78rulbue5h
+    followers: 30796
+    engagement: 778
+    commentsToLikes: 0.001423
+    id: ck5hs0hz2vsco0i11qwrerut8
     verified: false
-    hashtags: "#yogapractice, #fitgirl, #yogainspiration, #yogagirl"
+    hashtags: "#travelgram, #canada, #taiwan, #lategram"
+  - username: "ecarnie"
+    fullname: >-
+      Erin Carnie
+    bio: >-
+      Circus🤸🏼‍♀️Fitness🏋🏼‍♀️Wellness🧘🏼‍♀️ Flexibility&Acrobatics Coach🇨🇦 Contortionist/Aerialist/Dancer Owner of @bendybodies Van Plant Powered🌱♏️🦂
+    location: "Canada"
+    followers: 11919
+    engagement: 539
+    commentsToLikes: 0.059184
+    id: ck5hcrfc2jl2j0i11ih8kyk8h
+    verified: false
+    hashtags: "#handstands, #fitgirls, #fit, #yogainspiration"
+  - username: "samanthashakiraclarke"
+    fullname: >-
+      Samantha Clarke
+    bio: >-
+      🎭Actress @officialcue 🌱Vegan for the🐥and🌍 🧘🏼‍♀️/ 🥊Teacher 🌈She/her 👊🏿Ally. 💝Here to serve.
+    location: "Canada"
+    followers: 77943
+    engagement: 163
+    commentsToLikes: 0.053771
+    id: ck15rr0s299i70i19ochgo0fz
+    verified: false
+    hashtags: "#plantbased, #govegan, #foodforthought, #vancouveractress"
 ---

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Denver In 2022
+title: Top 10 Yoga TikTok Influencers In Denver in 2023
 description: >-
-  Find top yoga TikTok influencers in Denver in 2022. Most popular hashtags: #yoga #fyp #duet #foryou.
+  Find top yoga TikTok influencers in Denver in 2023. Most popular hashtags: #yoga #fyp #duet #foryou.
 platform: TikTok
 hits: 4
 text_top: See the best TikTok accounts on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Chicago In 2022
+title: Top 10 Gardening Instagram Influencers In Chicago In 2023
 description: >-
-  Find top gardening Instagram influencers in Chicago in 2022. Most popular hashtags: #gardening #chicago #summer #love.
+  Find top gardening Instagram influencers in Chicago in 2023. Most popular hashtags: #lifestyle #gardening #love.
 platform: Instagram
-hits: 13
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 13 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 6
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 6 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "beerbabejess"
+  - username: "makingitlovely"
     fullname: >-
-      
+      Nicole Balch
     bio: >-
-      📍Chicago Beer writer + beer babe shop All for beer + beer for all 🙌🏻🙌🏽🙌🏿 Member of the North American Guild of Beer Writers Blog + merch:
+      • Chicagoland designer renovating, decorating, and gardening #thelovelyvictorian • inquiries: nicole@makingitlovely.com
     location: "United States"
-    followers: 8033
-    engagement: 781
-    commentsToLikes: 0.038913
-    id: ckap3lbt33hfa0i786x583xea
-    verified: false
-    hashtags: "#womeninbeer, #hops, #craftbeer, #drinkbeer"
-  - username: "makeitinstead"
-    fullname: >-
-      Andrea Williams
-    bio: >-
-      Crafty cat lady ✂️💻😺 My cats 🐈 🐈 @chicagoblackcat My cat foster account 🌿 @furassicpark
-    location: "United States"
-    followers: 6142
-    engagement: 3037
-    commentsToLikes: 0.033157
-    id: ck0vzixk99c250i19m1247sii
-    verified: false
-    hashtags: "#chicagoblackcat, #chicagocat, #plants, #tuxedocat"
-  - username: "otheplaceswellgo"
-    fullname: >-
-      Sarah
-    bio: >-
-      📍#Chicago & #Wisconsin | Traveling the 🌎 while balancing a 9-5 | Co-founder @shopfofas
-    location: "United States"
-    followers: 40931
-    engagement: 146
-    commentsToLikes: 0.009170
-    id: ck5hmrmiqmhr40i111j2z19yp
-    verified: false
-    hashtags: "#dametraveler, #passionpassport, #suitcasetravels, #countryliving"
-  - username: "mrs.arnoldsartroom"
-    fullname: >-
-      Jessie Arnold
-    bio: >-
-      Chicago based artist and art teacher. DM for commissions and collabs. Please credit when reposting!
-    location: "United States"
-    followers: 39252
+    followers: 31826
     engagement: 185
-    commentsToLikes: 0.036178
-    id: ck8tcn1l4zzct0j78lnsa3kj5
+    commentsToLikes: 0.037499
+    id: ck55jtpv5xq1w0i11gheghjnv
     verified: false
-    hashtags: "#procreateart, #lettering, #bujoideas, #applepencil"
-  - username: "hmrdesigns"
+    hashtags: "#makingitlovely, #thelovelyvictorian, #thelovelygarden, #brizoanddeltachicago"
+  - username: "suhedanur"
     fullname: >-
-      HMR Designs
+      Şüheda Nur
     bio: >-
-      Innovative Event Design & Production | Luxury Weddings | Extraordinary Celebrations | Corporate | + Beyond... Want more HMR? Follow @hmrexperiential
+      Bogazici University🎓 Life in Chicago with 2 kids🧚🏻 YouTube Channel👇🏼
     location: "United States"
-    followers: 53228
-    engagement: 152
-    commentsToLikes: 0.019722
-    id: ck0vz2eaj6y0u0i19l7cfn675
+    followers: 117377
+    engagement: 482
+    commentsToLikes: 0.009429
+    id: ck55mczi73ow60i11ie9ct7d6
     verified: false
-    hashtags: "#spring, #hmrdesigns, #wedding, #tabledecor"
-  - username: "prestigetree"
+    hashtags: "#reelsinstagram, #explore, #explorepage, #reels"
+  - username: "ericacobb"
     fullname: >-
-      Ty
+      Erica Cobb
     bio: >-
-      Photography taken during work research and traveling tyclimbstrees
+      TV Co-Host 📺 @DailyBlastLive Podcast 🎙 Comeback: with Erica Cobb #ComebackTV #ComebackWithEricaCobb
     location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
+    followers: 63642
+    engagement: 182
+    commentsToLikes: 0.108277
+    id: ck6u6iblrfra90j711w7sgkdi
+    verified: true
+    hashtags: "#repost, #socialdistancing, #comebackwithericacobb, #comebacktv"
+  - username: "campuslandscape"
+    fullname: >-
+      𝐂𝐀𝐌𝐏𝐔𝐒 🌺 𝕋𝕣𝕠𝕡𝕚𝕔𝕒𝕝 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
+    bio: >-
+      Tampa Design + Build Co. Founder: @campusbotanicalsociety Ambassador: @kobrandoutdoors 𝟐𝐱 𝐖𝐢𝐧𝐧𝐞𝐫 🏆: 𝐁𝐞𝐬𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐁𝐚𝐲 - 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 𝐂𝐨𝐦𝐩𝐚𝐧𝐲
+    location: "United States"
+    followers: 13274
+    engagement: 262
+    commentsToLikes: 0.234697
+    id: ck5hccqy5hdk50i11yprfd6ky
     verified: false
-    hashtags: "#inspirephotography, #birds, #travel, #instagood"
+    hashtags: "#botanicalgardens, #bromeliadsofinstagram, #bromeliads, #landscapedesign"
   - username: "maynev9"
     fullname: >-
       Mayra
     bio: >-
       She/Her we limit ourselves by defining ourselves.
     location: "United States"
-    followers: 9354
-    engagement: 587
-    commentsToLikes: 0.014785
+    followers: 9284
+    engagement: 578
+    commentsToLikes: 0.017236
     id: ck1368ynv5bzi0i19m4ugfyod
     verified: false
-    hashtags: "#life, #tomboy, #whither, #photography"
-  - username: "meredithkoop"
+    hashtags: "#life, #androgynousmodel, #model, #ftm"
+  - username: "yourconcretesource"
     fullname: >-
-      Meredith Koop
+      Your Concrete Source
     bio: >-
-      𝕊𝕥𝕪𝕝𝕚𝕤𝕥 ✰ ℂ𝕣𝕖𝕒𝕥𝕠𝕣 ✰ ℂ𝕠𝕟𝕤𝕦𝕝𝕥𝕒𝕟𝕥 𝗖𝗥𝗘𝗔𝗧𝗜𝗩𝗘 𝗔𝗗𝗩𝗜𝗦𝗢𝗥 @whenweallvote ☞ hello@chicdisruption.com
+      A window into the #world of #concrete! ▶️Join the movement follow @yourconcretesource @architectural_concrete_design @the_art_of_concrete 💎💎💎💎💎
     location: "United States"
-    followers: 33713
-    engagement: 290
-    commentsToLikes: 0.059735
-    id: ck5bvnc9uk05s0i11d1b7kqud
-    verified: true
-    hashtags: "#buyblack, #resources, #americandesigner, #americandesign"
-  - username: "ericacobb"
-    fullname: >-
-      Erica Cobb
-    bio: >-
-      Television Co-Host: @DailyBlastLive YouTuber: Comeback: with Erica Cobb #ComebackKid #ComebackWithEricaCobb
-    location: "United States"
-    followers: 61864
-    engagement: 153
-    commentsToLikes: 0.075862
-    id: ck6u6iblrfra90j711w7sgkdi
-    verified: true
-    hashtags: "#coronavirus, #comebackwithericacobb, #quarantine, #repost"
-  - username: "midwestlivingmag"
-    fullname: >-
-      Midwest Living
-    bio: >-
-      The official Instagram account for Midwest Living magazine. Tag us for a chance to be featured! #midwestlivingmag #midwestmoment
-    location: "United States"
-    followers: 71615
-    engagement: 100
-    commentsToLikes: 0.014434
-    id: ck0vxu3lh0qnj0i19gmrgya0f
+    followers: 107024
+    engagement: 181
+    commentsToLikes: 0.016051
+    id: ck5qctehgs8oy0i11ori5fkux
     verified: false
-    hashtags: "#quarantinelife, #midwestmoment, #minnesota, #midwestlivingmag"
+    hashtags: "#interiordesign, #slab, #stampedconcrete, #design"
+  - username: "northwoodsfolk"
+    fullname: >-
+      Sunny // Folk Living                                       🌲MN🌲
+    bio: >-
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+    location: "United States"
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
+    verified: false
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "laurenselfblogs"
+    fullname: >-
+      Lauren
+    bio: >-
+      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+    location: "United States"
+    followers: 18656
+    engagement: 1858
+    commentsToLikes: 0.022000
+    id: ck8t1vbnlx6dp0j782ei1ya9s
+    verified: false
+    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
+  - username: "seldabelda"
+    fullname: >-
+      anna aromin | ↟ pnw ↟
+    bio: >-
+      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+    location: "United States"
+    followers: 33490
+    engagement: 341
+    commentsToLikes: 0.090660
+    id: ck14kkiiwpyiz0i19q3we0t10
+    verified: false
+    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
+  - username: "life_of_glow"
+    fullname: >-
+      Robyn | Home & Garden Joy
+    bio: >-
+      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
+    location: "United States"
+    followers: 40685
+    engagement: 309
+    commentsToLikes: 0.087218
+    id: ck0u7az5246wj0i19r71e0x0v
+    verified: false
+    hashtags: "#rugsusa"
 ---

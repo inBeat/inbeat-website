@@ -1,33 +1,33 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Germany In 2022
+title: Top 10 Olympian Athletes Instagram Influencers In Germany In 2023
 description: >-
-  Find top olympian athletes Instagram influencers in Germany in 2022. Most popular hashtags: #adidas #athlete #training #sport.
+  Find top olympian athletes Instagram influencers in Germany in 2023. Most popular hashtags: #motivation #tokyo2020 #trainingcamp #training.
 platform: Instagram
-hits: 33
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 33 Instagram influencers like this in Germany for you to pitch.
+hits: 32
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 32 Instagram influencers like this in Germany for you to collaborate.
 profiles:
   - username: "darkredgrape"
     fullname: >-
       Anna Seidel 🕊
     bio: >-
-      2 times olympian + @redbull athlete short-track ⋮💫 #teamtoyota #zurichsportsteam ❁❁❁
+      2 times olympian + @redbull athlete short-track ⋮💫 #teamtoyota @axelent_sverige ❁❁❁
     location: "Germany"
-    followers: 31297
-    engagement: 717
-    commentsToLikes: 0.010479
+    followers: 32723
+    engagement: 821
+    commentsToLikes: 0.012171
     id: ck15t92dbgxgk0i19myxzl950
     verified: true
-    hashtags: "#greece, #greeceislands, #givesyouwings, #toyota"
+    hashtags: "#givesyouwings, #grateful, #europeanchampionship, #silver"
   - username: "simongeschke"
     fullname: >-
       Simon Geschke
     bio: >-
-      Racing bikes for @cccteam - Tour de France stage winner - Olympian - plantbased Athlete
+      Racing bikes for @teamcofidis - Tour de France stage winner - Olympian - plantbased Athlete - personalized video messages on @cameo 👇
     location: "Germany"
-    followers: 39997
-    engagement: 567
-    commentsToLikes: 0.010824
+    followers: 39816
+    engagement: 630
+    commentsToLikes: 0.010996
     id: ck6tr3y83wsj20j714vjn4nqi
     verified: true
     hashtags: ""
@@ -37,94 +37,94 @@ profiles:
     bio: >-
       Bringing back the golden era💪 🏆IFBB Pro Champion 🏅Olympian 👉@esncom Athlete 👉@repone.de Athlete 👉@climaqx_ Athlete 👼Dad
     location: "Germany"
-    followers: 95695
-    engagement: 401
-    commentsToLikes: 0.015784
+    followers: 99598
+    engagement: 373
+    commentsToLikes: 0.015023
     id: ck0vv3m3gndz40i19bez1km1h
     verified: false
-    hashtags: "#shredded, #biceps, #climaqx, #bodypowerstudio"
-  - username: "lauramarie_mueller"
-    fullname: >-
-      Laura Müller
-    bio: >-
-      2016 Olympian | Sprinter | @adidas_de athlete | @foodspring 15% Rabattcode: LauraFSG
-    location: "Germany"
-    followers: 27358
-    engagement: 759
-    commentsToLikes: 0.010230
-    id: ck6twxskjuppp0j71vttwaqm7
-    verified: false
-    hashtags: "#neverdone, #adidas, #hometeam, #trackgirl"
-  - username: "nadja.pries"
-    fullname: >-
-      Nadja Pries | Athlete
-    bio: >-
-      🇩🇪BMX Racer 🎓Psychology 🇧🇷 2016 Olympian • Schamel Meerrettich • NOCCO Athlete • Pure Bicycle Company • Juwelier Winnebeck • Der Goldene Ring e.V.
-    location: "Germany"
-    followers: 7770
-    engagement: 1433
-    commentsToLikes: 0.021043
-    id: ck5q3an1mk0j60i1196bxnovq
-    verified: false
-    hashtags: "#bmxracing, #sportmotivation, #fitnessmotivation, #bmx"
+    hashtags: "#bodybuilding, #teamrepone, #mostmuscular, #gorillawear"
   - username: "philipp.pflieger"
     fullname: >-
-      Philipp Pflieger
+      PHILIPP PFLIEGER
     bio: >-
-      🇩🇪 Professional Runner ⏱ Marathon 2:12:50h 🎖 2016 Olympian 💯 @adidas_de Athlete 🎽 @laufteamhamburg 📚 Author #LaufenAmLimit 🎙 #Bestzeit Podcast
+      RUNNER & CREATOR 💥 Marathon 2:12:15h | 2016 Olympian 💯 @adidas_de Athlete 🎽 @laufteamhamburg 🎙 @bestzeit.podcast 📚 #LaufenAmLimit
     location: "Germany"
-    followers: 20392
-    engagement: 741
-    commentsToLikes: 0.012820
+    followers: 23340
+    engagement: 644
+    commentsToLikes: 0.012175
     id: ck5c75pbp6v8b0i11qwtlf68p
     verified: true
-    hashtags: "#mondaymotivation, #bestzeit, #roadtovalencia, #adizeroadiospro"
-  - username: "rebekka.haase"
+    hashtags: "#workhard, #sestriere, #dreambig, #runnerslife"
+  - username: "konstanze.klosterhalfen"
     fullname: >-
-      Rebekka Haase
+      Konstanze Klosterhalfen
     bio: >-
-      @adidas_de athlete |Track&Field | Sprint | Olympian | Germany 🇩🇪
+      German Recordholder 🇩🇪 I Olympian 🏃‍♀️ I Nike Athlete I RedBull Germany 🐃 I Portland Oregon Contact & Requests: db@wertkonzept.com
     location: "Germany"
-    followers: 31062
-    engagement: 1114
-    commentsToLikes: 0.009413
-    id: ck15sybnnffdb0i19nsl1injw
+    followers: 79453
+    engagement: 1307
+    commentsToLikes: 0.010320
+    id: ck0tuk87q7je10i19v1oonmvv
     verified: true
-    hashtags: "#rebekkarabbit, #moretocome, #heretocreate, #reifeleistung"
-  - username: "pamela_dutkiewicz"
-    fullname: >-
-      PAMELA DUTKIEWICZ
-    bio: >-
-      💪🏼 • Professional Athlete #PÄMBÄM ❤️ • 100m hurdles | Olympian 🌍 • World and European medalist 🎙• Podcast „Sprechstunde Uncut“ ⤵️
-    location: "Germany"
-    followers: 42884
-    engagement: 589
-    commentsToLikes: 0.011185
-    id: ck5cd55p8ik350i11j3wwkacm
-    verified: true
-    hashtags: "#likeagirl, #roadtotokyo, #likeacook, #justdoit"
+    hashtags: "#running, #nike, #redbull, #run"
   - username: "janine.flock"
     fullname: >-
-      J A N I N E • F L O C K
+      Janine Flock   OLY
     bio: >-
-      | 🇦🇹 Athlete | Head first | on Ice | Skeleton | | Olympian | WorldChamps 🥈🥉🥉 | Overall WC 🥇🥈 | EuropeanChamps 🥇🥇🥇🥈🥈🥉 | ✉janine.flock@olympian.org
+      🇦🇹 athlete - head first - on ice • Olympian • WorldChamps 🥈🥉🥉 • Overall WC 🥇🥇 • EuropeanChamps 🥇🥇🥇🥈🥈🥉 🥉🥉🥉 ✉janine.flock@olympian.org
     location: "Germany"
-    followers: 8407
-    engagement: 572
-    commentsToLikes: 0.011294
+    followers: 9685
+    engagement: 545
+    commentsToLikes: 0.024254
     id: ck55krz3bzym40i11slie7suf
     verified: false
-    hashtags: "#organicsbyredbull, #vibes, #teamtoyotabeijing2022, #jf"
+    hashtags: "#motivation, #verleihtfl, #roadtobeijing, #weekend"
+  - username: "marco_koch_swimming"
+    fullname: >-
+      Marco Koch | Swimmer
+    bio: >-
+      Olympian, European- & WorldChampion Club @sgfrankfurt 🥤 @amsport Athlete of @nybreakers 🦏 @iswimleague ▶️ www.isl.global
+    location: "Germany"
+    followers: 8135
+    engagement: 805
+    commentsToLikes: 0.013199
+    id: ck5cd4xayijn70i11wc41pihd
+    verified: false
+    hashtags: "#settecolli, #teamwork, #olympicgames, #amsport"
   - username: "leventuncat"
     fullname: >-
       LEVENT TUNCAT
     bio: >-
-      German Taekwondo Nationalteam 🇩🇪 Olympian 2008🇨🇳&2016🇧🇷 🥇3x European Champ 🥈3x Vice-European Champ 🌍www.levent-tuncat.de ✉️info@ltsports.de #tuncat
+      German Taekwondo Nationalteam 🇩🇪 Olympian 2008🇨🇳&2016🇧🇷 World Championship 🥈🥉 European Championship🥇🥇🥇🥈🥈🥈🥉 Grand Prix 🥈🥉 🌍www.levent-tuncat.de
     location: "Germany"
-    followers: 37416
-    engagement: 808
-    commentsToLikes: 0.012227
+    followers: 38358
+    engagement: 806
+    commentsToLikes: 0.009842
     id: ck5q5eps4sjxt0i11zatfpeam
     verified: true
-    hashtags: "#passion, #model, #action, #taekwondoduisburg"
+    hashtags: "#lifestyle, #hairstyle, #white, #beautiful"
+  - username: "pamela_dutkiewicz"
+    fullname: >-
+      PAMELA DUTKIEWICZ-EMMERICH
+    bio: >-
+      🐆 • Professional PUMA Athlete | #pämbäm 🌍 • World🥉and European🥈🥉medalist ❤️ • 100m hurdles | Olympian 🎙• Podcast „Sprechstunde Uncut“ ⤵️
+    location: "Germany"
+    followers: 44008
+    engagement: 614
+    commentsToLikes: 0.024901
+    id: ck5cd55p8ik350i11j3wwkacm
+    verified: true
+    hashtags: "#tmxfamily, #iamready, #pa, #likeagirl"
+  - username: "daniel_jasinski_discus"
+    fullname: >-
+      Daniel Jasinski OLY
+    bio: >-
+      🇩🇪 Athlete 🥏 Discus thrower | 67,47m 🥉 Olympic Games 2016 🇧🇷 📍 Bochum
+    location: "Germany"
+    followers: 5550
+    engagement: 1115
+    commentsToLikes: 0.039117
+    id: ck6u05naodr910j71cehk7jk9
+    verified: true
+    hashtags: "#work, #nike, #tracklife, #trainingcamp"
 ---

@@ -1,129 +1,129 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Turkey In 2022
+title: Top 10 Stylists Instagram Influencers In Turkey In 2023
 description: >-
-  Find top stylists Instagram influencers in Turkey in 2022. Most popular hashtags: #fashion #style #love.
+  Find top stylists Instagram influencers in Turkey in 2023. Most popular hashtags: #fashion #stylish #hairstyle.
 platform: Instagram
-hits: 156
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 156 Instagram influencers like this in Turkey for you to work with.
+hits: 138
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 138 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "seaofmelis"
+  - username: "alpkavasoglu"
     fullname: >-
-      Melis Deniz
+      Alp Kavasoglu
     bio: >-
-      Pro Makeup Artist & Brow Stylist 📬 seaofmelis@gmail.com 📞 @houseofmelis Gelin, Makyaj, Saç ve Kaş randevuları için 05523920590 ’dan ulaşabilirsiniz.
+      Makeup artist & Hair Stylist Maybelline NY makeup artist Youtube: Maybelline New York Türkiye İletişim: alpkavasoglu@gmail.com
     location: "Turkey"
-    followers: 338549
-    engagement: 1070
-    commentsToLikes: 0.170611
-    id: ck5c9w1z1c8e80i11y0vhv5ij
-    verified: false
-    hashtags: "#hm, #transformation, #plussize, #bodypositivity"
-  - username: "f.busrattt"
-    fullname: >-
-      B Ü Ş R A N U R
-    bio: >-
-      Ankara-İstanbul Freelance Stylist busratas841@gmail.com 📩
-    location: "Turkey"
-    followers: 173147
-    engagement: 329
-    commentsToLikes: 1.141705
-    id: ck0vwv0movqdo0i1909z5opti
-    verified: false
-    hashtags: "#fashion, #style, #ootd, #modanisa"
+    followers: 111690
+    engagement: 294
+    commentsToLikes: 0.025563
+    id: ck5btv8j7go720i11boqyfyfr
+    verified: true
+    hashtags: "#dysonhairpro"
   - username: "summer.shaker"
     fullname: >-
       سمر شاكر Summer Shaker
     bio: >-
-      • TV Host @mbciraqtv @baitbeautyshow • Engineer & Certified stylist by @lcflondon_ ادارة اعمال What’s up +9647705806498 •
+      • Modest lifestyle | stylist | engineer • founder of @summerbreeze.ar • WhatsApp +9647705806498 business inquiries
     location: "Turkey"
-    followers: 1674868
-    engagement: 161
-    commentsToLikes: 0.023811
+    followers: 2026335
+    engagement: 203
+    commentsToLikes: 0.014483
     id: ck5zt3f8ozo7m0i141c1dqmv8
     verified: true
-    hashtags: "#oman, #bahrain, #fashion, #zara"
+    hashtags: "#mydubai, #love, #oman, #hijabfashion"
   - username: "yukselozgur"
     fullname: >-
       Ozgur Yuksel
     bio: >-
       Co-founder & Designer of @yuxelleofficial @hadodesignofficial Celebrity fashion stylist
     location: "Turkey"
-    followers: 23640
-    engagement: 479
-    commentsToLikes: 0.016222
+    followers: 26635
+    engagement: 518
+    commentsToLikes: 0.025058
     id: ck15u0e51kszd0i19dt5bl977
     verified: false
-    hashtags: "#terraamare, #newdress, #yuxelle, #yenigla"
-  - username: "alpkavasoglu"
+    hashtags: "#fallwinter, #yuxelle, #newlook, #newseason"
+  - username: "f.busrattt"
     fullname: >-
-      Alp Kavasoglu
+      B Ü Ş R A N U R
     bio: >-
-      Makeup artist & Hair Stylist Maybelline NY makeup artist Youtube: makyajsehirde İletişim: alpkavasoglu@gmail.com
+      Ankara-İstanbul Freelance Stylist busranur@keepstar.co 📩
     location: "Turkey"
-    followers: 105847
-    engagement: 201
-    commentsToLikes: 0.019599
-    id: ck5btv8j7go720i11boqyfyfr
-    verified: true
-    hashtags: "#aysecanerwedding"
-  - username: "melikkam"
-    fullname: >-
-      MELİK KAM®
-    bio: >-
-      • Men’s Fashion Designer • Personal Stylist • Brand: @melikkamstore • Head of @kambespoke
-    location: "Turkey"
-    followers: 208118
-    engagement: 195
-    commentsToLikes: 0.031368
-    id: ck0vzmt6f9vmo0i19o7zj0msj
+    followers: 233848
+    engagement: 293
+    commentsToLikes: 0.012047
+    id: ck0vwv0movqdo0i1909z5opti
     verified: false
-    hashtags: "#melikkam, #remarkableeveryday, #melikkamstore, #mrmrskam"
+    hashtags: "#modanisa"
   - username: "nafisehkamkar"
     fullname: >-
       Nafiseh Kamkar
     bio: >-
-      ✨✨✨✨✨✨✨ BE A QUEEN WITH ME 👸🏼 ✨✨✨✨✨✨✨ Fashion Designer| Stylist| Production Designer| Pro Makeup Artist| Contact 👇🏻 Nafisehkamkar@yahoo.com 📍Dᴜʙᴀɪ
+      Founder of @nafisehkamkarofficial ‘ ✨BE A QUEEN WITH ME ✨ ‘ Fashion Designer| Stylist| Production Designer| Pro Makeup Artist| ‘ 📍Dᴜʙᴀɪ
     location: "Turkey"
-    followers: 52135
-    engagement: 787
-    commentsToLikes: 0.050125
+    followers: 59315
+    engagement: 660
+    commentsToLikes: 0.061140
     id: ck0w0vfm8g7yf0i19laejweug
     verified: false
-    hashtags: "#fashion, #nafisehkamkar, #fashionstyle, #style"
-  - username: "bbul_julia"
+    hashtags: "#stylish, #fashionstyle, #nafisehkamkar, #fashion"
+  - username: "ecemarda_"
     fullname: >-
-      FOODPHOTO ▪️ JULIA BULYGINA
+      Ecem Arda
     bio: >-
-      📍 Ankara, Turkey ▪️Food photographer | Stylist ▪️Social Media & Website content ❗️Полезное про фуд-фотографию #bbul_aboutphoto
+      Food and tableware stylist | Mom’s journal Ela’nın oyuncakları listesi:
     location: "Turkey"
-    followers: 16064
-    engagement: 1782
-    commentsToLikes: 0.051015
-    id: ck6tylkjl4g5t0j71g4i9zhif
+    followers: 31334
+    engagement: 927
+    commentsToLikes: 0.415851
+    id: ck5zpiffhsqap0i147bqk7cju
     verified: false
-    hashtags: "#foodphotokarusel, #contrse, #bbul"
-  - username: "mutfaktamimarvar"
+    hashtags: "#hmbringonthefuture, #goodnightkiss, #ecorecycle, #annelik"
+  - username: "ilkerbilgi"
     fullname: >-
-      Gülen
+      𝚒𝚕𝚔𝚎𝚛 𝚋𝚒𝚕𝚐𝚒
     bio: >-
-      Mimar|Architect Bodrum based Food photographer I Stylist Co-founder @umamimarlik 📩 mutfaktamimarvar@gmail.com
+      Menajer Moda Tasarımcısı Stylist Fashion account @ilkerbilgifashion www.facebook.com/ilkerbilgi ilkerbilgi & cuneytsayil menajerlik
     location: "Turkey"
-    followers: 64151
-    engagement: 375
-    commentsToLikes: 0.115340
-    id: ck6u8rucrtars0j71ry7mm9p6
+    followers: 85520
+    engagement: 461
+    commentsToLikes: 0.038033
+    id: ck6u96yylvv1y0j71s5ikyp43
     verified: false
-    hashtags: "#foodstyling, #click, #mutfaktamimarvar, #morningslikethis"
+    hashtags: "#ayselg, #italy, #14subat, #oktayrifat"
+  - username: "mustinnn"
+    fullname: >-
+      MUSTAFA AKKUŞ
+    bio: >-
+      Saç Stilisti Renk Kesim Uzmanı & Danışmanı -Hair Stylist Coloring Expert - Randevu -Appointment 📲( 0530 640 41 41 ) Founder @garageacibadem 🇹🇷🌍
+    location: "Turkey"
+    followers: 141613
+    engagement: 101
+    commentsToLikes: 0.005129
+    id: ck138oa93h7e40i19q29p2iyk
+    verified: false
+    hashtags: ""
+  - username: "yusufcandirik"
+    fullname: >-
+      Yusuf Can Dirik
+    bio: >-
+      Celebrity Fashion Stylist / Stil Danışmanı
+    location: "Turkey"
+    followers: 27332
+    engagement: 467
+    commentsToLikes: 0.009282
+    id: ck0w0709acp6s0i19mdx9bwi1
+    verified: false
+    hashtags: "#paris, #missing, #tbt, #kalptekalanlar"
   - username: "rutkayozis"
     fullname: >-
       Rutkay ÖZİŞ®
     bio: >-
-      Stil Danışmanı / Stylist Fashion Director of @partmag
+      Stil Danışmanı / Stylist
     location: "Turkey"
-    followers: 153670
-    engagement: 400
-    commentsToLikes: 0.018914
+    followers: 156572
+    engagement: 371
+    commentsToLikes: 0.015577
     id: ck15u0g4akt9d0i19nhh5tx3j
     verified: false
     hashtags: ""

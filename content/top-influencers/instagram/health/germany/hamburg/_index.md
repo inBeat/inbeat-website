@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Hamburg In 2022
+title: Top 10 Health Instagram Influencers In Hamburg In 2023
 description: >-
-  Find top health Instagram influencers in Hamburg in 2022. Most popular hashtags: #fitness #hamburg #ootd #health.
+  Find top health Instagram influencers in Hamburg in 2023. Most popular hashtags: #hamburg #motivation #fitness #health.
 platform: Instagram
-hits: 145
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 145 Instagram influencers like this in Hamburg, Germany for you to collaborate.
+hits: 85
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 85 Instagram influencers like this in Hamburg, Germany for you to connect with.
 profiles:
-  - username: "german_notes"
+  - username: "theprincemisugi"
     fullname: >-
-      ГЕРМАНИЯ📍КАРЬЕРА | ЭКСКУРСИИ
+      Serkan Akgün
     bio: >-
-      👩🏻‍💻 АЛЛА: Востоковед на Западе ⠀ ПРОЕКТ #германиясюганасевер •ГОРОДСКИЕ ПРОГУЛКИ & АРТ-ЛЕКЦИИ •КАРЬЕРНЫЙ КОУЧИНГ •СЕЛФМЕНЕДЖМЕНТ
+      FITNESS & COVER MODEL @vitaminversand24 SERKAN15 15% @commando_camp 15% with Serkan15
     location: "Germany"
-    followers: 6823
-    engagement: 276
-    commentsToLikes: 0.073444
-    id: ck14i9ov2ebkq0i19g05srgjr
+    followers: 60396
+    engagement: 228
+    commentsToLikes: 0.027828
+    id: ck600jkjedq2m0i14bbpocb2n
     verified: false
-    hashtags: "#gn"
-  - username: "kriszcham"
+    hashtags: "#sunglasses, #outdoorphotography, #gym, #instagram"
+  - username: "karodelafleur"
     fullname: >-
-      Kris Zcham Krauß
+      𝐊𝐀𝐑𝐎 𝐃𝐄𝐋𝐀𝐅𝐋𝐄𝐔𝐑
     bio: >-
-      Inhaber | Tanzlehrer | Tänzer @vibezfrankfurt @vibezhanau @vibez_salmuenster @vibezcrew folgen! ;)
+      STR | 24 🖤𝐓𝐞𝐚𝐦 @gymqueen.de @smilodox @viafortis @foodsbest (-𝟏𝟎% 𝐦𝐢𝐭 𝐊𝐚𝐫𝐨𝟏𝟎) 🤍TikTok: @karodelafleur „𝑨 𝒒𝒖𝒆𝒆𝒏 𝒘𝒊𝒍𝒍 𝒂𝒍𝒘𝒂𝒚𝒔 𝒕𝒖𝒓𝒏 𝒑𝒂𝒊𝒏 𝒊𝒏𝒕𝒐 𝒑𝒐𝒘𝒆𝒓“
     location: "Germany"
-    followers: 2817
-    engagement: 1197
-    commentsToLikes: 0.110410
-    id: ck8sxioinhjic0j78l82v6dds
+    followers: 32091
+    engagement: 374
+    commentsToLikes: 0.136751
+    id: ck0vx58kox7by0i19j2mzn5jw
     verified: false
-    hashtags: "#dancer, #vibezhanau, #fotoshoot, #tanzkurse"
-  - username: "kielfeder"
+    hashtags: "#care, #mode, #gesund, #teamsmilodox"
+  - username: "grossstadtklein"
     fullname: >-
-      Ramona | Kielfeder
+      Sarah Ploss | Hamburg
     bio: >-
-      💁‍♀️ 26 | she/her 📚 Bücherliebe, Mental Health, Nachhaltigkeit ⚓️ Berliner Mädchen in Hamburg ⬇️ Mein Blog:
+      👋🏻 fränkisches Nordlicht #hamburgliebe 🎙 mental health | creative head | podcast | photography @zaracarole 🇦🇹 next 💌 hallo@grossstadtklein.net
     location: "Germany"
-    followers: 5190
-    engagement: 839
-    commentsToLikes: 0.093548
-    id: ckaoyq7vwile00i782gi2izpz
+    followers: 11971
+    engagement: 491
+    commentsToLikes: 0.043872
+    id: ck14lczkxu1rv0i19mr4936x0
     verified: false
-    hashtags: "#germanbookstagram, #endlichkyss, #rainbowshelfie, #booklover"
-  - username: "assal_arian"
+    hashtags: "#discoverfrance, #gl, #elsass, #glasmomente"
+  - username: "murieldng"
     fullname: >-
-      Assal Arian 🍯عسل
+      Muriel Dang
     bio: >-
-      Olympic Weightlifting I Fitness Country Marketing Manager GER/AT ▪️NOCCO ▪️Barebells ▪️VitaminWell
+      LOVING AND FLOW TRUSTING MEATLOVER HEALTH PSYCHOLOGY currently in HAMBURG represented by @pma_models
     location: "Germany"
-    followers: 6027
-    engagement: 825
-    commentsToLikes: 0.051830
-    id: ck15uy2wdp1iq0i19f6l36oxw
+    followers: 4452
+    engagement: 629
+    commentsToLikes: 0.044927
+    id: ck6tp7liyi9uf0j71zjbyyqg2
     verified: false
-    hashtags: "#focus, #mondaymotivation, #goodvibes, #happy"
-  - username: "chantalrodriguezperez"
+    hashtags: "#selflovetips, #healthtipsoftheday, #healthtip, #healthfacts"
+  - username: "f_i_l_o_u_"
     fullname: >-
-      Chantal Rodriguez Perez 🕊
+      Filou & Louisa
     bio: >-
-      FITNESS • FOOD • LIFESTYLE 22 ♡ from Osnabrück Team @morenutrition.de ✉️ chantalfitness@yahoo.com
+      🐾Wiredhair miniature dachshund 🍂Dürrlaubfarben 🎂12.05.2019 ⚓️ Hamburg/ Germany
     location: "Germany"
-    followers: 10765
-    engagement: 568
-    commentsToLikes: 0.089812
-    id: ck8t5rhf5azgg0j78vu3zf3wt
+    followers: 6251
+    engagement: 2670
+    commentsToLikes: 0.028141
+    id: ckaox3eh8blru0i78rs14vwhe
     verified: false
-    hashtags: "#bayern, #ko, #osnabru, #instagram"
-  - username: "patrickheckl"
+    hashtags: "#bestfriends, #dogmodelsearch, #bestwoof, #dackelblick"
+  - username: "vanessa__mariposa"
     fullname: >-
-      ＰＡＴＲＩＣＫ  ＨＥＣＫＬ
+      VANESSA MARIPOSA
     bio: >-
-      𝗳𝗼𝗹𝗹𝗼𝘄 𝗺𝗲 𝗼𝗻 𝗺𝘆 𝗱𝗮𝗶𝗹𝘆 𝗿𝗶𝗱𝗲𝘀 📍Hamburg, 28 y/o 🙋🏼‍♂️ @the.patrickheckl 🎥 TikTok: patrickheckl (21K) ✉️ info@patrickheckl.de
+      🍋 | @fitness_vanessamariposa 📧 | management@vanessamariposa.com EXCLUSIVE CONTENT👇🏼🔥⠀⁣⁣⁣
     location: "Germany"
-    followers: 48950
-    engagement: 595
-    commentsToLikes: 0.217588
-    id: ck0vxb80ey1x70i19oxey07mh
+    followers: 367821
+    engagement: 128
+    commentsToLikes: 0.118760
+    id: ck6tplvpuklvl0j71b2j2zsg5
     verified: false
-    hashtags: "#loveyourself, #futurechampion, #selflove"
+    hashtags: "#vacayallday, #fitness, #blackfriday2020, #friyayvibes"
+  - username: "ladyhammer_official"
+    fullname: >-
+      C H R I S T I N A  H A M M E R
+    bio: >-
+      🌎WORLDBOXINGCHAMP 🇩🇪🇰🇿 sponsored by ⚡️ @rooq.boxing 🔫 @flowsportstech_germany 👄@dreve_company 🥊 @paffensportboxing info@christinahammer.de
+    location: "Germany"
+    followers: 172686
+    engagement: 436
+    commentsToLikes: 0.010502
+    id: ck6tws25ztrr40j71av55ugqw
+    verified: true
+    hashtags: "#femaleempowerment, #sport, #team, #gymlife"
   - username: "nico.runge"
     fullname: >-
-      Fashion/Lifestyle - Nico 📸
+      Fitness & Fashion - Nico 📸
     bio: >-
       📍Hamburg 👔 Mensfashion / Lifestyle 📨 Nicorunge@arcor.de ❤️ L
     location: "Germany"
-    followers: 107404
-    engagement: 303
-    commentsToLikes: 0.037368
+    followers: 107180
+    engagement: 159
+    commentsToLikes: 0.039478
     id: ck13685ti57rx0i19rzgrvojg
     verified: false
-    hashtags: "#streetstyle, #outfitoftheday, #goodlife, #menwithclass"
-  - username: "christina.krall"
+    hashtags: "#sportmotivation, #menwithstreetstyle, #streetwear, #gentlemanstyle"
+  - username: "jc.carlsson"
     fullname: >-
-      𝙲𝚑𝚛𝚒𝚜𝚝𝚒𝚗𝚊 🌞
+      Jonathan Carlsson
     bio: >-
-      NOT VERY ACTIVE ON HERE ANYMORE ⚓️ 23 | Hamburg ⚡️ sunshine, mixed with a little hurricane
+      Food dealer 🥑 Nature 🐒 Health coach @train_simple 🏆 Founder @crunch.and.brunch 🥗 @modelwerk
     location: "Germany"
-    followers: 5176
-    engagement: 647
-    commentsToLikes: 0.277317
-    id: ckap8gm39o8080i78mdi18jsx
+    followers: 12322
+    engagement: 566
+    commentsToLikes: 0.109945
+    id: ck14irsgugwh00i19n987zfae
     verified: false
-    hashtags: "#fashionista, #anajohnsonpreset, #inspo, #womensstyle"
-  - username: "lleennyyy"
+    hashtags: "#nature, #studio, #outdoors, #lifestyle"
+  - username: "running.alexandra"
     fullname: >-
-      𝙻 𝙴 𝙽 𝚈 ☁️ 𝙼𝙾𝙾𝙳 𝙱𝙾𝙰𝚁𝙳
+      Alexandra Stumpenhagen 🏃‍♀️🩺
     bio: >-
-      Lena Katharina Weirauch founder of @soultowear 🤍hamburg, germany 🕊mails: lenykw@gmail.com fashion | interior | diy | mindset
+      👟⠀running | motivation | health 👩‍⚕️⠀doctor⚕️internal medicine 🏃‍♀️⠀ASICS FrontRunner 🔹⠀Type 1 Diabetic 📍⠀Hamburg
     location: "Germany"
-    followers: 65644
-    engagement: 220
-    commentsToLikes: 0.039422
-    id: ck55izztfvwwv0i11ym4ly520
+    followers: 44258
+    engagement: 352
+    commentsToLikes: 0.029100
+    id: ck0tvvcqqcy9f0i198m23re35
     verified: false
-    hashtags: "#homedecor, #interiordesign, #interior, #ootd"
-  - username: "janas.leben"
-    fullname: >-
-      Jani
-    bio: >-
-      Sei freundlich - mache den Unterschied. Hamburg leben & leben lassen
-    location: "Germany"
-    followers: 4541
-    engagement: 496
-    commentsToLikes: 0.196663
-    id: ckap812m3md8p0i787v1nx2hu
-    verified: false
-    hashtags: "#anajohnson, #outfitinspiration, #fashionblogger, #style"
+    hashtags: "#laufenmachtgl, #inspiration, #pregnant, #tipps"
 ---

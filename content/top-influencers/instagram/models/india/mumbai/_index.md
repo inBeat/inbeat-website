@@ -1,60 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Mumbai In 2022
+title: Top 10 Models Instagram Influencers In Mumbai In 2023
 description: >-
-  Find top models Instagram influencers in Mumbai in 2022. Most popular hashtags: #model #instagood #mumbai #love.
+  Find top models Instagram influencers in Mumbai in 2023. Most popular hashtags: #instagood #model #mumbai #instagram.
 platform: Instagram
-hits: 1125
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 1125 Instagram influencers like this in Mumbai, India for you to pitch.
+hits: 698
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 698 Instagram influencers like this in Mumbai, India for you to collaborate.
 profiles:
-  - username: "harshhala16"
-    fullname: >-
-      Harshhala Barade👑
-    bio: >-
-      Actor | Model Mumbai Dm for paid collaboration.
-    location: "India"
-    followers: 28363
-    engagement: 629
-    commentsToLikes: 0.042578
-    id: ck5zp0v51rrt90i14ysucbiyd
-    verified: false
-    hashtags: "#red, #igersofindia, #india, #naturephotography"
-  - username: "revati_19"
-    fullname: >-
-      Revati Venkat💙
-    bio: >-
-      RT❣ Athlete.Coach.Artist.Model Mumbaikar Chennai📍 IAAF Certified Coach South Indian gal👩🏻 🐶❤ Wanderlust🌍
-    location: "India"
-    followers: 9793
-    engagement: 1130
-    commentsToLikes: 0.034088
-    id: ck14jykvgmtge0i19oswm6nak
-    verified: false
-    hashtags: "#rt, #happysoul, #mumbai, #wanderlust"
-  - username: "aartisingh14"
-    fullname: >-
-      Aarti Singh ✨ أرتي سينغ
-    bio: >-
-      MSc in biotech 📖|Blogger - Model|Mumbaikar 🏡|Single ❤️|Gymaholic 💪 |Traveller ✈️| Spiritual soul💕|paid collab 📩 barbieaartisingh@icloud.com
-    location: "India"
-    followers: 422101
-    engagement: 150
-    commentsToLikes: 0.023954
-    id: ck0uac1wibual0i19si83slke
-    verified: false
-    hashtags: "#traveller, #tiktokers, #staysafe, #instalike"
-  - username: "ashwinishinde807"
-    fullname: >-
-      ashwinishinde
-    bio: >-
-      • Social influencer • Tiktok star • • Tiktok I'd ashwinishinde807 • • hello I'd ashwinishinde807 • • For brand collab 👇
-    location: "India"
-    followers: 11683
-    engagement: 3476
-    commentsToLikes: 0.023695
-    id: ck8t1bl6sv53m0j788b2di0i6
-    verified: false
-    hashtags: "#fashionmodel, #modeling, #fashionstyle, #fashionista"
   - username: "_._nehhaaa"
     fullname: >-
       ﷲ🤲🏻
@@ -66,65 +18,113 @@ profiles:
     commentsToLikes: 0.043242
     id: ck9wg8lkpsb3w0j78kj40werf
     verified: false
-    hashtags: "#foryoupage, #neha, #mumbaimaharashtra, #instagram"
-  - username: "insta.____.qu33n1"
+    hashtags: "#neha, #foryou, #photography, #foryoupage"
+  - username: "kajal_c_v_s_360"
     fullname: >-
-      👑🇿​🇴​🇾​🇦 🇰​🇭​🇦​🇳​ 👑🔵
+      Kajal Chandravanshi
     bio: >-
-      ▪️Beauty only gets attention, but personality captures the heart. Mumbaiker🔥 1 Aug🎂. Photoshoot lover ♥️
+      JAY BHOLENATH❤️ •Model•Actor•Influncer Mumbai❤️🇮🇳 TikTok 💫:- 6•4m family Mxtakatak -Kajalchandravanshi Managed by @itsonemedia
     location: "India"
-    followers: 36389
-    engagement: 176
-    commentsToLikes: 0.188937
-    id: ck0u2khzd049e0i19hn9hu7p4
+    followers: 43348
+    engagement: 137
+    commentsToLikes: 0.024874
+    id: ck8wf68asf72c0j788m12kcqn
     verified: false
-    hashtags: "#instagram, #az, #instagood, #life"
-  - username: "one.portrait.please"
+    hashtags: "#instagood, #modeling, #kbye, #reelitfeelit"
+  - username: "aamir_ashraf02"
     fullname: >-
-      Bhushan Gavas
+      Regarde Moi Grandir🏹
     bio: >-
-      ● 𝓟𝓱𝓸𝓽𝓸𝓰𝓻𝓪𝓹𝓱𝓮𝓻 ● §ony Ă⁷iii F̶r̶e̶e̶ 𝘊𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘰𝘯 🇮🇳 🇹🇭
+      Just an other human like you Owner @theartspacestudio Face Of Mumbai 2019 1st runner up Actor, Model, Dancer, Fencer, Inline Skater, Coder
     location: "India"
-    followers: 9948
-    engagement: 685
-    commentsToLikes: 0.015820
-    id: ck0vygmq73w720i19lvk2xy0a
+    followers: 9071
+    engagement: 183
+    commentsToLikes: 0.032831
+    id: ck0vwbe2nsxui0i19epcv76x5
     verified: false
-    hashtags: "#model, #mumbaiportrait, #oneportraitplease, #zee5originals"
-  - username: "therahulkoliofficial6119"
+    hashtags: "#fom, #dancers, #dance, #faceofmumbai"
+  - username: "sonnuuu_23"
     fullname: >-
-      𝙈𝘼𝙆𝙒𝘼𝙉𝘼 🚩🚩𝗷𝗮𝘆 𝗺𝗮𝗻𝗱𝗵𝗮𝘁𝗮🚩🚩
+      👰💕 внαɢʏαƨняɛɛ 💕
     bio: >-
-      . #therahulkoliofficial . ♠ Official account ♠  . 📷 photographer 📷 . 👉 Posemaker👅  . 🖤Present◆ Model ◆ .  👍LoGin In The World 7 feb🎂 .
+      🔥Ａｇａｒｉ ｇｉｒｌ💥 म्हात्रे daughter Mamma's Princess👰 Cat LoVer😻 Black LoVer😍 Birthday Bash 23th june🎂 Mumbaikar😎 💘Lifeline💘 @srphotography_03
     location: "India"
-    followers: 44349
-    engagement: 519
-    commentsToLikes: 0.211476
-    id: ck9whc9dbx9b30j784x0i33a3
+    followers: 26332
+    engagement: 1521
+    commentsToLikes: 0.070998
+    id: ck14jhpmxkekg0i199tx9zy8m
     verified: false
-    hashtags: "#krushnaredde, #likeforlikes, #kingofeditingofficial, #jaipur"
-  - username: "rj_saurabh_ghodeswar"
+    hashtags: "#pictures, #moodygrams, #surat, #photographys"
+  - username: "thrissurkaranphotography"
     fullname: >-
-      ✨🇷‌🇯‌-🇸‌🇴‌🇳‌🇺‌✨
+      krishnaprasad
     bio: >-
-      | LIFESTYLE | FASHION | BLOGGER JALGAONKAR 📍 FOR EDITING🖌️ DM /📲 8888481826 📞 भिमा तुझ्या जन्मामुळे 💎 @rj_sonu_creations
+      Dm for shoot Irinjalakuda | thrissur | kerala commercial photographer Prewedding @tk._stories #thrissurkaranphotography
     location: "India"
-    followers: 4476
-    engagement: 2143
-    commentsToLikes: 0.207740
-    id: ckap7jspfkdfp0i7874xo68j7
+    followers: 11807
+    engagement: 934
+    commentsToLikes: 0.024879
+    id: ck8t5req4az860j78zzn2l9wy
     verified: false
-    hashtags: "#coolestbadboi, #starboynation, #kerala, #instafamous"
-  - username: "rashikhairwar"
+    hashtags: "#thrissurkaran, #fashion, #clickstogallery, #photography"
+  - username: "indiasmisstgpc"
     fullname: >-
-      Rashi Khairwar
+      India's Miss TGPC ™
     bio: >-
-      Queen of Expressions Actor | Model | Influencer Dm for paid collab
+      I.M.T Since 2016 | World's First Ever & Most Trusted Online Beauty Pageant! Created by @tgpc_official Know about IMT 👇
     location: "India"
-    followers: 246779
-    engagement: 595
-    commentsToLikes: 0.024631
-    id: ck8wd15vsd9va0j780d6ql2iz
+    followers: 20335
+    engagement: 250
+    commentsToLikes: 0.008013
+    id: ck5pwdq0imce40i11580zyi1p
     verified: false
-    hashtags: "#photooftheday, #me, #instadaily, #selfie"
+    hashtags: "#tgpckibetiyaan, #cocoaberry, #misstgpc, #missdiva"
+  - username: "_ijjuuzz_khan_"
+    fullname: >-
+      αρρเˢʰ
+    bio: >-
+      ❖ ▃▅▆█ᴍʏ¤ⁱⁿˢᵗᵃ█▆▅ ❂✿❂ ✿❂ ▪ҒᎪՏᎻᏆϴΝ✿мο∂єʟ ▪мγ_ՏԵՎʅє ❖ʍՎ_ѕмιℓє ▪🅚🅐🅢🅡🅞🅓🅘🅐🅝_ᵛⁱᵇᵉ ✧∭✧∰✧∭✧ [ ❖ ▪ˢᴍɪʟᴇ ⁱˢ ʙᴇˢᴛ ᴍᴇᴅɪᴄɪɴᴇ
+    location: "India"
+    followers: 8037
+    engagement: 821
+    commentsToLikes: 0.097822
+    id: ck8t6iwimdt170j784pwuxyij
+    verified: false
+    hashtags: "#chennai, #polikk, #gainwitheepluto, #followforfollowback"
+  - username: "rahul_king_photography_editing"
+    fullname: >-
+      ʀᴀʜᴜʟ ᴋɪɴɢ👑 ᴠᴀsᴜɴɪʏᴀ"
+    bio: >-
+      Owner @rahul_king88 Editor💥/Photographer📸/Photoshoper🖱 ♦Manipulation ♦Poster ♦Retouching Dm/mail for paid work💸/Collabs Khalghat'Indore (India)🇮🇳
+    location: "India"
+    followers: 36155
+    engagement: 268
+    commentsToLikes: 0.051695
+    id: ck0u1t07yxt7v0i193684gx0b
+    verified: false
+    hashtags: "#discoverportrait, #street, #conceptart, #artist"
+  - username: "renuca_singh_thakuri"
+    fullname: >-
+      Renuca Singh Thakuri 🦋
+    bio: >-
+      Model / Actor Mumbai 🇮🇳 / Nepal 🇳🇵 Queries : renucasingh7@gmail.com Join My App For Exclusive Content & Promotion
+    location: "India"
+    followers: 131117
+    engagement: 222
+    commentsToLikes: 0.022993
+    id: ck6ud8g2ijn950j71tydg62qf
+    verified: false
+    hashtags: "#bikini, #model, #modeling, #renucasinghthakuri"
+  - username: "milonijhonsa"
+    fullname: >-
+      Miloni Jhonsa
+    bio: >-
+      Dentist | Actor | Model 📍Mumbai Rendering my million different interests in life🌈
+    location: "India"
+    followers: 50509
+    engagement: 139
+    commentsToLikes: 0.015617
+    id: ck0twjmyifojy0i19gzxasfp5
+    verified: false
+    hashtags: "#mood, #reelitfeelit, #life, #workout"
 ---

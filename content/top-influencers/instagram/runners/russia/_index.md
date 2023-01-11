@@ -1,48 +1,60 @@
 ---
-title: Top 10 Runners Instagram Influencers In Russia In 2022
+title: Top 10 Runners Instagram Influencers In Russia In 2023
 description: >-
-  Find top runners Instagram influencers in Russia in 2022. Most popular hashtags: #california #olympicnationalpark #asicsfrontrunnerrussia.
+  Find top runners Instagram influencers in Russia in 2023. Most popular hashtags: #running #sport #motivation.
 platform: Instagram
-hits: 33
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 33 Instagram influencers like this in Russia for you to collaborate.
+hits: 32
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 32 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "bobditty"
+  - username: "dunya.win"
     fullname: >-
-      bobditty
+      Natalia Pyrozhenko-Chornomaz〄
     bio: >-
-      @Africageo 2019 Photographer Of The Year runner up. #MzeeSeries - capturing elderly portraits in the worlds youngest population. www.bobditty.com
+      Track and Field Athlete🎽 Runner coach🏃🏼‍♀️ Married💍
     location: "Russia"
-    followers: 6033
-    engagement: 1229
-    commentsToLikes: 0.042547
-    id: ck5zmub0mn8jf0i14nt985bew
+    followers: 15267
+    engagement: 1066
+    commentsToLikes: 0.038376
+    id: ckap7cdwojgoy0i783tk343ev
     verified: false
-    hashtags: "#covid19, #mzeeseries, #sonya7riv"
+    hashtags: ""
+  - username: "saule_sergazinova"
+    fullname: >-
+      Saule, Travel & Lifestyle
+    bio: >-
+      😊 PR, influence marketing @prpowerkz 😍 CEO @takeoff_kz ✊🏼 100% self-made person, motivator, runner 🌏 Traveler, visited 44 countries
+    location: "Russia"
+    followers: 78047
+    engagement: 122
+    commentsToLikes: 0.062867
+    id: ck6tk8hl447f60j713zpfppr2
+    verified: false
+    hashtags: "#saule, #takeoffkz, #sonmezrealastate, #rixosborovoe"
+  - username: "viktoriya_400h"
+    fullname: >-
+      Viktoriya Tkachuk
+    bio: >-
+      Runner 400mH from Ukraine 💛💙🏃 PB - 54.93🏃 Nike Athlete✌ Olimpian Rio 2016 #nike #Athlete
+    location: "Russia"
+    followers: 9164
+    engagement: 867
+    commentsToLikes: 0.026194
+    id: ck8tdlyef3v4v0j787bjcnb0f
+    verified: false
+    hashtags: "#we, #together, #sport, #scn"
   - username: "violetta.tyurkina"
     fullname: >-
       Violetta 💎 Tyurkina
     bio: >-
       • 📍Moscow 🇷🇺 • MSU student 📚 • 1-st runner up Miss Russia 2018👑 • 1-ая Вице-мисс Россия 2018
     location: "Russia"
-    followers: 24043
-    engagement: 505
-    commentsToLikes: 0.030728
+    followers: 23960
+    engagement: 559
+    commentsToLikes: 0.033025
     id: ck5hjb6k6gbpp0i110aupqfg5
     verified: false
-    hashtags: "#munich, #bluelagoon, #factfulness, #formula1"
-  - username: "sonya_neks_"
-    fullname: >-
-      I LIKE TO MOTIVATE PEOPLE❤️
-    bio: >-
-      DANCER FITNESS MODEL RUNNER TRAVELER MOMMY Tours @fitintensive_tour_sonyaneks Wear @nekstazy PR+34605145920 👇🏽The BEST version of yourself👇🏽
-    location: "Russia"
-    followers: 1019043
-    engagement: 106
-    commentsToLikes: 0.010332
-    id: ck5hqrx0btm9o0i11geh3obmr
-    verified: false
-    hashtags: "#malibu, #babygirl, #4yearsold, #dance"
+    hashtags: "#style, #familytime, #byebye2020, #factfulness"
   - username: "wowlyolya"
     fullname: >-
       Лёля
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.008516
     id: ck6tzv9bzc2lk0j71kmccftzl
     verified: false
-    hashtags: "#stelmas, #biovita, #goodfoodacademy, #quarantinepillowchallenge"
+    hashtags: "#biovita, #goodfoodacademy, #quarantinepillowchallenge, #stayhome"
+  - username: "ek.zavyalova"
+    fullname: >-
+      Екатерина Гулиева
+    bio: >-
+      🇷🇺Runner of Russian track and field team ⠀⠀⭐️🥈Olympic medalist of London2012 ⠀⠀⠀⭐️Nike Athlete 🏃‍♀️ 🖤 Photographer 📷
+    location: "Russia"
+    followers: 6024
+    engagement: 534
+    commentsToLikes: 0.005601
+    id: ck0txg6faiztc0i19awsr4zpe
+    verified: true
+    hashtags: ""
   - username: "albina_akhtyamova"
     fullname: >-
       Альбина Ахтямова
     bio: >-
       2nd runner up Miss Russia-2017 👑 Charity👴👵 Model, Actress 👠 Kazan, Russia
     location: "Russia"
-    followers: 7176
-    engagement: 680
-    commentsToLikes: 0.047803
+    followers: 7150
+    engagement: 622
+    commentsToLikes: 0.044922
     id: ck6tu9p8cf3j60j71ab0f8s29
     verified: false
-    hashtags: "#muslim, #saharafashion, #bashkortostan, #bashbeauty"
-  - username: "annjoyrun"
+    hashtags: "#eidmubarak, #family, #kushtau"
+  - username: "assel_alimzhan"
     fullname: >-
-      Anya Kosova
+      ASSEL ALIMZHAN
     bio: >-
-      ПОДКАСТЫ:Разговоры про бег Journalist/Runner/Traveller @USATF L2 & RRCA L1 coach 42.195: 3.05.38; 5x>100 km 14x42.195 🏔Elbrus - North 🏔Mont Blanc
+      Almaty Marathon Ambassador • Psychologist ☘️ • Ultramarathon Runner 🏃🏼‍♀️ • Mountaingirl 🏔 • Traveler 🌎
     location: "Russia"
-    followers: 31267
-    engagement: 178
-    commentsToLikes: 0.013179
-    id: ckf5wotijss1j0j23p9m3kmme
+    followers: 7682
+    engagement: 856
+    commentsToLikes: 0.019437
+    id: ck15tnp56izqi0i19iz140lqt
     verified: false
-    hashtags: "#annjoyrun, #run, #instarunners, #olympicnationalpark"
-  - username: "2rude4u"
+    hashtags: "#travelphotography, #lifestyle, #mountains, #life"
+  - username: "breslavtsev"
     fullname: >-
-      Vova (Vladimir) 2rude4u
+      Oleg Breslavtsev
     bio: >-
-      Beautiful daughter's father 👨‍👩‍👧Shootki Band🎸Moskva River Runner 🏃🏼Sneakerhead👟 Basketball ⛹🏼‍♂️All thoughts are mine and not related to my employer.
+      Фотограф в Крыму🌿 Wedding & Elopement Photographer ➤ #breslavtsevphotography Ultramarathon runner🏃 📩 Direct
     location: "Russia"
-    followers: 10754
-    engagement: 524
-    commentsToLikes: 0.061849
-    id: ckap4oxwx87wg0i786emzu5a8
+    followers: 111322
+    engagement: 119
+    commentsToLikes: 0.027848
+    id: ck5cjsajovecd0i11bhog0h8b
     verified: false
-    hashtags: "#moskvariverrunners, #ywnra, #snkrskickcheck, #airmaxday"
-  - username: "shaemsha"
-    fullname: >-
-      Emiliia Shakh
-    bio: >-
-      ☽ 2-nd Runner Up Miss Ukraine World 2017 ☽ Video production @shaemshavideo © ☽ @shaemshart ©
-    location: "Russia"
-    followers: 95960
-    engagement: 424
-    commentsToLikes: 0.014870
-    id: ck0w6wpllamcs0i192kiwgfsk
-    verified: false
-    hashtags: "#shaemshavideo"
-  - username: "artur_burtsev"
-    fullname: >-
-      Артур Бурцев
-    bio: >-
-      ▫️Pro-Runner🏃🏾‍♂️ ◾️10км-29’46" ▫️21км-1.04’36 ◾️42км-Soon⏱ ▫️Беговой лидер #Asics team🇷🇺 ◾️Беговой Проект @probegproject Ссылка на забег в 10миль⤵️
-    location: "Russia"
-    followers: 5446
-    engagement: 711
-    commentsToLikes: 0.044049
-    id: ck0uciffcgygj0i19n9ksd8gq
-    verified: false
-    hashtags: "#spb, #soundmindsoundbody, #untiedyetunited, #oneteam"
+    hashtags: "#morocco, #breslavtsevphotography, #breslavtsevbybicycle, #tuscany"
   - username: "markovevgeniy"
     fullname: >-
       Evgeny Markov | ТРЕНЕР
     bio: >-
-      ТРЕНЕР @skyrun_team Sky/trail/ski runner in the team @salomonRussia/CSKA/@squeezysportsnutrition IP 883 @skyrace_comapedrosa 2019-🥈 #SkyMasters19 -6th
+      ТРЕНЕР @skyrun_team Sky/trail/ski runner in the team @salomonRussia/@squeezysportsnutrition ITRA-883 @skyrace_comapedrosa 2019-🥈 #SkyMasters19 -6th
     location: "Russia"
-    followers: 3054
-    engagement: 1199
-    commentsToLikes: 0.052173
+    followers: 4305
+    engagement: 1329
+    commentsToLikes: 0.071394
     id: ckapbslh916tl0i78u79weu38
     verified: false
-    hashtags: "#timetoplay, #salomonrussia, #skyrunteam, #iamaskyrunner"
+    hashtags: "#madfox, #salomonrussia, #squeezyteamrussia, #salomonrussian"
 ---

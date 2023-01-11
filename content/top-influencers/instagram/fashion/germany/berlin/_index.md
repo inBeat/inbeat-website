@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Berlin In 2022
+title: Top 10 Fashion Instagram Influencers In Berlin In 2023
 description: >-
-  Find top fashion Instagram influencers in Berlin in 2022. Most popular hashtags: #fashion #berlin #fashionblogger #love.
+  Find top fashion Instagram influencers in Berlin in 2023. Most popular hashtags: #fashion #berlin #ootd #fashionblogger.
 platform: Instagram
-hits: 942
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 942 Instagram influencers like this in Berlin, Germany for you to work with.
+hits: 656
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 656 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "rubien__"
-    fullname: >-
-      Mensfashion | Rubien
-    bio: >-
-      📍Germany MD | Fitness | Lifestyle | mensfashion 🎩 🏠From 🇹🇯🇸🇾 my shop @classic__barbershop_ #menswear #style #mensfashion
-    location: "Germany"
-    followers: 6727
-    engagement: 1077
-    commentsToLikes: 0.204815
-    id: ck0tvbs8haqkm0i193al7a1va
-    verified: false
-    hashtags: "#menfashionblogger, #mensfashion, #menwithstreetstyle, #mensweardaily"
-  - username: "sinaensonadora"
-    fullname: >-
-      ✮  🎀  𝒮𝒾𝓃𝒶  🎀  ✮
-    bio: >-
-      Hi 👋 nice 2 meet you! 📍BLN Fashion 🛍I Lifestyle ✈️ | Beauty 💄| Food 🥗𝕂𝕠𝕠𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟𝕖𝕟 𝕒𝕟 𝕤𝕚𝕟𝕒𝕖𝕝𝕚𝕤𝕒@𝕘𝕞𝕩.𝕕𝕖
-    location: "Germany"
-    followers: 15079
-    engagement: 563
-    commentsToLikes: 0.082436
-    id: ck136gwg76fvx0i19ne3h4qba
-    verified: false
-    hashtags: "#october, #pink, #healthylifestyle, #photography"
-  - username: "steffenbrnd__"
-    fullname: >-
-      Steffen Brand
-    bio: >-
-      
-    location: "Germany"
-    followers: 64313
-    engagement: 219
-    commentsToLikes: 0.087141
-    id: ck137gx3mbhb60i19xsv0e4im
-    verified: false
-    hashtags: "#steffenbrnd, #outfit, #fashion, #berlin"
   - username: "felixgabel_"
     fullname: >-
       Felix Gabel
     bio: >-
-      Find Your Greatness in Life & Style Fashion Inspiration for Men 📍Berlin Be the Best & Most Stylish Version of Yourself📈 📩 felixgabel.contact@gmail.com
+      Find Your Greatness in Life & Style Fashion Inspiration for Men | Psychology of Success Berlin, Germany ✉️ contact@felixgabel.de
     location: "Germany"
-    followers: 20448
-    engagement: 1099
-    commentsToLikes: 0.165001
+    followers: 42278
+    engagement: 365
+    commentsToLikes: 0.195048
     id: ck14hp2rcbf1a0i19ar3j318c
     verified: false
-    hashtags: "#menblogger, #boy, #ootd, #lifestyle"
-  - username: "melekmelosh_"
+    hashtags: "#vintage, #mensfashionblog, #handsomeboy, #fitness"
+  - username: "icke_wieder_10777"
     fullname: >-
-      M E L O S H
+      Frank ヅ
     bio: >-
-      1,58 aber FIRE 🔥 „Primetime“ ‼️OUT NOW‼️⬇️
+      Daily men fashion and gaming 📍#Kaiserslautern, #germany🇩🇪 Love #berlin #grancanaria #travel |
     location: "Germany"
-    followers: 2219
-    engagement: 1157
-    commentsToLikes: 0.093912
-    id: ck9h9x7bqabbe0j78g1hhvoqk
+    followers: 48312
+    engagement: 314
+    commentsToLikes: 0.058678
+    id: ckaov8h603i6u0i78ivswwh6l
     verified: false
-    hashtags: "#style, #mannheim, #musician, #deutschrapnewcomer"
-  - username: "lapislazulimodel"
+    hashtags: "#giveaway, #cool, #gay, #gewinnspiel"
+  - username: "vanessa_frr"
     fullname: >-
-      L͞AP̸͟͞IS L͟͞A̸Z͞U̸͟͞ L̸͟͟͞͞ I
+      Vanessa
     bio: >-
-      F̸͟͞ren̸̸̸͟͟͟͞͞͞c͞h Møđēl Arț [&\| p̸͟h͞ot͟͞o̸̸̸̸̸͟͟͟͟g͟͞řāphēr ■> [ B͟͞e̸̸͟͟͞͞r͟͞l͟͞i͟͞n̸͟͞ ͞] •○•#behindthecam >▪︎> @lapis_lazuli_photographie
+      ✗ Augsburg ✎ vanessa_frr@web.de Impressum:
     location: "Germany"
-    followers: 16406
-    engagement: 745
-    commentsToLikes: 0.128428
-    id: ckf5n962sx8cn0j2370dhlnml
+    followers: 21562
+    engagement: 613
+    commentsToLikes: 0.034757
+    id: ck0w4xr1x0xi10i19t2j2hju0
     verified: false
-    hashtags: "#analogphotography, #hairstyle, #fineartphoto, #photoshoot"
-  - username: "vanessa.leoness"
+    hashtags: "#springoutfit, #outfitinspiration, #ootdmagazine, #summer"
+  - username: "vannnyvw"
     fullname: >-
-      Vanessa Lu 🦁☀️
+      𝐕 𝐚 𝐧 𝐞 𝐬 𝐬 𝐚
     bio: >-
-      it's V 🌱 Plantbased vegan 🌱 Fashion | Nutrition | Fitness
+      𝐇 𝐚 𝐦 𝐛 𝐮 𝐫 𝐠 🌑🌘🌗🌖🌕🌔🌓🌒🌑 NURSE 🩺🤍 PODCAST 🍕🔉 It’s not the same without champagne 🥂 Travel | vegetarian | cats
     location: "Germany"
-    followers: 9218
-    engagement: 514
-    commentsToLikes: 0.093369
-    id: ckap9cfwcs3eq0i78ejbqnu2g
+    followers: 7449
+    engagement: 280
+    commentsToLikes: 0.070217
+    id: ck8t3v0nt4lkl0j78y9e14mlr
     verified: false
-    hashtags: "#model, #berlinmodel, #modelcouple, #modelsgermany"
-  - username: "chefin030"
+    hashtags: "#hh, #germany, #anajohnson, #love"
+  - username: "floves_"
     fullname: >-
-      Jolina 𝕒𝕜𝕒 „𝕔𝕙𝕖𝕗𝕚𝕟“
+      Floves
     bio: >-
-      Berlin | Artist 🎵
+      content creator | photographer me & my tiny little girlgang #fashion #family #photography
     location: "Germany"
-    followers: 23676
-    engagement: 791
-    commentsToLikes: 0.020022
-    id: ck5zymogsa5d70i14rixkoldu
+    followers: 9882
+    engagement: 375
+    commentsToLikes: 0.049990
+    id: ck13ctxq225750i192tbp4ljt
     verified: false
-    hashtags: "#nakd, #nakdcode, #fashion, #berlin"
-  - username: "maurice_j.w"
+    hashtags: "#makemoments, #instafashion, #outfit, #prettylittleiiinspo"
+  - username: "christina._be"
     fullname: >-
-      Maurice Jabar Werner
+      christina 🌸
     bio: >-
-      📍Berlin 🇬🇭 Half Fufu & 🇩🇪Half Brezel mischa.rouzbehani@modelwerk.de 🎓Business Informatics 🕺🏽Dance Bookings: Inbox 🏳️‍🌈 Ra 007
+      FASHION | INSPO | TRAVEL 👩🏼 Germany| Nürnberg 🎓 Studentin 🍃 21 5‘11 🎀 kreativer Kopf TikTok: chrissibex
     location: "Germany"
-    followers: 2340
-    engagement: 1333
-    commentsToLikes: 0.056975
-    id: ck6ubwko6c4as0j71y8359as0
+    followers: 3719
+    engagement: 803
+    commentsToLikes: 0.077632
+    id: ck6ufg7kgwv2p0j71v078m3fd
     verified: false
-    hashtags: "#music, #queer, #newwork, #malemodeling"
-  - username: "gabri__ella__"
+    hashtags: "#happy, #fashioninspo, #selfie, #ootd"
+  - username: "julia.runova"
     fullname: >-
-      T H E Y C A L L M E G A B R I
+      Julietta Runova Leonidovna
     bio: >-
-      🔜🤷🏽‍♀️ 📍🇩🇪 HB TIKTOK ➡️ gabri__ella__ ✈️🌍🌴☀️#travel
+      Painter, Model, weirdo Based in Berlin
     location: "Germany"
-    followers: 3009
-    engagement: 1469
-    commentsToLikes: 0.042504
-    id: ck8tc7lzsyktn0j78ka5hyk3k
+    followers: 7392
+    engagement: 706
+    commentsToLikes: 0.032766
+    id: ckaoqtisqkbgg0i78qmd48omz
     verified: false
-    hashtags: "#happy, #griechenland, #instagram, #ootdfashion"
+    hashtags: "#marilynmanson, #boudoir, #creature, #harness"
+  - username: "lil__natalie"
+    fullname: >-
+      Nɑtɑʟıє🌸
+    bio: >-
+      Bloggerin 🎀 ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ 💄Beauty & Fashion ⠀ ⠀ 💗Lifestyle & Fitness 🔜✈️🌏 Upcomer 2019 & 2020 💌 DM/E-Mail for Cooperation
+    location: "Germany"
+    followers: 51213
+    engagement: 229
+    commentsToLikes: 0.508958
+    id: ck5zu7zs01utw0i14awg04qxe
+    verified: false
+    hashtags: "#verlosung, #herz, #toofaced, #benefitclubpink"
+  - username: "robertrieger"
+    fullname: >-
+      Robert Rieger
+    bio: >-
+      Berlin-based photographer Represented by @emeisdeubel in Germany and @common_era_agency in the UK
+    location: "Germany"
+    followers: 7984
+    engagement: 721
+    commentsToLikes: 0.050706
+    id: ck6ubh2qx9j5c0j71jqpqlaj0
+    verified: false
+    hashtags: "#design, #portrait, #interiordesign, #reportage"
+  - username: "misscaterinac"
+    fullname: >-
+      Caterina 🇮🇹🇩🇪 Digital Creator
+    bio: >-
+      ⚜️Fashion ⚜️Photography ⚜️Travel @mytravelartcollection 🗺 @caterinacatalanocollection 📸 📍MUC/Augsburg 🔜🇮🇹🇬🇷 💌E-Mail: contact@caterinacatalano.com
+    location: "Germany"
+    followers: 41805
+    engagement: 491
+    commentsToLikes: 0.016739
+    id: ck14jfubnk4hq0i19t83aue2i
+    verified: false
+    hashtags: "#bloggeritalia, #outfitdestages, #anajohnson, #albarella"
 ---

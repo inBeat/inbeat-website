@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Canada In 2022
+title: Top 10 Gardening Instagram Influencers In Canada In 2023
 description: >-
-  Find top gardening Instagram influencers in Canada in 2022. Most popular hashtags: #gardening #flowers #garden #gardenlife.
+  Find top gardening Instagram influencers in Canada in 2023. Most popular hashtags: #gardening #organicgardening #garden #gardenlife.
 platform: Instagram
-hits: 79
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 79 Instagram influencers like this in Canada for you to collaborate.
+hits: 23
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 23 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "tarahurstdesign"
-    fullname: >-
-      Tara Hurst
-    bio: >-
-      creative director on the west coast. home, food, gardening & bertie.
-    location: "Canada"
-    followers: 6957
-    engagement: 415
-    commentsToLikes: 0.044231
-    id: ck5hrp4etv8n80i11qlnc4g63
-    verified: false
-    hashtags: ""
   - username: "antoniovalenteflowers"
     fullname: >-
       Antonio Valente Flowers
     bio: >-
-      📺 Gardening expert on CTV’s Your Morning 🌸 How-To’s in story highlights 📍 Ontario, Canada
+      📺 Gardening expert on CTV’s Your Morning ⁣ 🌸 How-To’s in story highlights ⁣ 📍 Ontario, Canada⁣ 🌱 Specialty seeds now available
     location: "Canada"
-    followers: 41028
-    engagement: 334
-    commentsToLikes: 0.031513
+    followers: 41410
+    engagement: 292
+    commentsToLikes: 0.036454
     id: ck0w6j69i8t6z0i19ezril67v
     verified: false
-    hashtags: "#canadiangardening, #marketgarden, #springflowers, #daffodils"
+    hashtags: "#christmas, #christmasdecor, #holiday, #yesimfine"
+  - username: "justin__roy__0709"
+    fullname: >-
+      🥀شیخ ربنواز🥀
+    bio: >-
+      20/feb Machayenge 💫 . . Dm for pad promotion . . YouTube channel 👇 . .
+    location: "Canada"
+    followers: 3363
+    engagement: 825
+    commentsToLikes: 0.135962
+    id: ckaos4vifq3hp0i78oo254k31
+    verified: false
+    hashtags: "#styleblogger, #men, #instagram, #selfcare"
   - username: "coniferesetfeuillus"
     fullname: >-
       Annika Patel
     bio: >-
       {conifères & feuillus} humanitarian | environmentalist | storyteller | ambassador @treesforthefuture | @raw_community_member
     location: "Canada"
-    followers: 5483
-    engagement: 1537
-    commentsToLikes: 0.232018
+    followers: 5263
+    engagement: 1621
+    commentsToLikes: 0.232741
     id: ck5hnhqqenstr0i11ha1ejwua
     verified: false
-    hashtags: "#feedfeedbaking, #food52grams, #myseasonalkitchen, #naturelover"
-  - username: "indoorivan"
+    hashtags: "#stilllifephotography, #thesupperclubmag, #covid19, #stilllife"
+  - username: "the_simple_green"
     fullname: >-
-      Ivan
+      Heidi | The Simple Green
     bio: >-
-      🌿 Plant Enthusiast 🌿 • Spec Ed Teacher 👨‍🏫 • Cat Dad 🐈 • ON 🇨🇦 Latest YouTube video ↙️
+      Food Photographer | Gardener | Seasonal Recipes 🌿Vancouver Island, BC, Canada [Zone 8a] 📷@nikoncanada Z Creator ✉️ heidi@thesimplegreen.com
     location: "Canada"
-    followers: 10506
-    engagement: 814
-    commentsToLikes: 0.017630
-    id: ckap4vtif941n0i785d3fqmss
+    followers: 12653
+    engagement: 291
+    commentsToLikes: 0.194008
+    id: ck5cewi6zluqh0i1171mfq1zg
     verified: false
-    hashtags: "#succulents, #gardening, #houseplantlover, #boysandgirlswithplants"
-  - username: "sustainable_homestead"
+    hashtags: "#moodygrams, #gardenersofig, #kitchengardens, #tr"
+  - username: "urbanveggiegarden"
     fullname: >-
-      Sustainable Homestead
+      Luay - ©Urban Farm and Kitchen
     bio: >-
-      🌱 Sustainable Living #HomesteadLife • #LivingWell • #SustainableLiving Admin @Chris.Tinney
+      Seed to Plate 👨‍🌾 Garden Advisor, Educator & Entrepreneur 👨‍💻 Brand Content Creator | Photo/videography 👨‍🍳 Cook | Garden to table recipes Toronto 🇨🇦
     location: "Canada"
-    followers: 29449
-    engagement: 635
-    commentsToLikes: 0.022271
-    id: ck14ldxeku6y80i19j6orlt1b
+    followers: 60085
+    engagement: 238
+    commentsToLikes: 0.034090
+    id: ckaor4yxdlr450i7803ll30a4
     verified: false
-    hashtags: "#whatveganseat, #tinyhome, #organicgardening, #raisedbedgarden"
+    hashtags: "#mygarden, #urbangardening, #vegetablegarden, #growyourownfood"
+  - username: "theartofdoingstuff"
+    fullname: >-
+      Karen Bertelsen
+    bio: >-
+      For people who like to sweat, swear & do stuff. 🐓 🍕 🔨 🏠 —— Featured in: The New York Times — HGTV —Farmer’s Almanac — Better Homes & Gardens & more
+    location: "Canada"
+    followers: 30507
+    engagement: 181
+    commentsToLikes: 0.047235
+    id: ck6trvrb51db70j71mc15jpg3
+    verified: false
+    hashtags: "#growyourown, #taods, #organicgardening, #gardeningistherapy"
   - username: "justgreen_904"
     fullname: >-
       💚Justin Vachon💚
     bio: >-
       🌱Passion for plants,green living 🦋Animals and Nature 🎨Arts and Design 📸All pictures are my own (iPhone7) 👬@john.oue 🇨🇦 From Montreal, Quebec
     location: "Canada"
-    followers: 2356
-    engagement: 1294
-    commentsToLikes: 0.048188
+    followers: 2502
+    engagement: 1010
+    commentsToLikes: 0.058937
     id: ckaoydz6gh4360i78cq5w3gtc
     verified: false
-    hashtags: "#plantcollection, #aroidsofinstagram, #plantdecor, #plants"
-  - username: "jeffdillonfineart"
+    hashtags: "#rhipsalis, #plantcommunity, #plante, #houseplantsofinstagram"
+  - username: "margaretvalleylandscaping"
     fullname: >-
-      Jeff Dillon
+      Margaret Valley Landscaping 💐💕
     bio: >-
-      Professional Canadian Artist Painting Wildlife, Landscape & Urban fine art. Original Paintings & Limited Edition Prints. Waterloo, Ontario, Canada
+      Landscape Design, Consulting, Maintenance & Seasonal Displays 🌳💐 📍Kelowna, British Columbia ✨Rated Kelownas Best Landscaper 2020 & 2021✨
     location: "Canada"
-    followers: 25301
-    engagement: 321
-    commentsToLikes: 0.034343
-    id: ck8sycxeqkguo0j784lfz9bju
+    followers: 12442
+    engagement: 333
+    commentsToLikes: 0.156074
+    id: ck15qifpv2zxo0i19cc95gne8
     verified: false
-    hashtags: "#art, #canadianart, #groupofseven, #gardening"
-  - username: "jodieemery"
+    hashtags: "#hosta, #landscapemaintenance, #garden, #kelowna"
+  - username: "valleylivingdesign"
     fullname: >-
-      Jodie Emery
+      Valley Living Design
     bio: >-
-      Cannabis, Hemp, Freedom ✌🏻 @JodiesJoint @CannabisAmnesty @CannabisCultureMagazine @CannabisCultureStore @CannabisCultureOfficial @420VancouverOfficial
+      ❤Fᴀᴛʜᴇʀ / ᴅᴀᴜɢʜᴛᴇʀ ᴛᴇᴀᴍ❤ ⛰ᴄʀᴇᴀᴛɪɴɢ ᴍᴇᴍᴏʀɪᴇs ᴀɴᴅ sʜᴇʟᴠᴇs⛰ 🛠️ᴄʟᴏsᴇᴅ ꜰᴏʀ ᴄᴜꜱᴛᴏᴍs🛠️ 📍ʜᴀʀʀɪꜱᴏɴ ʜᴏᴛ ꜱᴘʀɪɴɢꜱ, ʙᴄ📍
     location: "Canada"
-    followers: 30513
-    engagement: 175
-    commentsToLikes: 0.054861
-    id: ck5c2h3m4x90l0i11pf3cmwsq
+    followers: 22920
+    engagement: 173
+    commentsToLikes: 0.043427
+    id: ck9wd5bx3e4mo0j78ooemcuds
     verified: false
-    hashtags: "#cannabisamnesty, #cannabiscommunity, #flowers, #growyourown"
-  - username: "drweil"
+    hashtags: "#spiritjunkie, #livingwithplants, #crystalhealing, #hippylife"
+  - username: "evelynaffleck"
     fullname: >-
-      Andrew Weil, M.D.
+      Evelyn Affleck
     bio: >-
-      Dr. Weil is a world-renowned leader & pioneer in the field of integrative medicine which encompasses body, mind and spirit.
+      • Commercial/Editorial/Film • Vancouver, BC • Bookings/Inquiries please email evelynaffleck@gmail.com (no dm’s please)
     location: "Canada"
-    followers: 80555
-    engagement: 314
-    commentsToLikes: 0.033263
-    id: ck0uauko5d0wv0i19lnedbuqg
-    verified: true
-    hashtags: "#sonorandesert, #rhodesianridgeback, #gardening, #cactus"
-  - username: "bvintagestyle"
-    fullname: >-
-      𝐃𝐞𝐛𝐨𝐫𝐚𝐡
-    bio: >-
-      𝐒𝐢𝐦𝐩𝐥𝐞 𝐋𝐢𝐯𝐢𝐧𝐠 𝐒𝐦𝐚𝐥𝐥 𝐭𝐨𝐰𝐧 𝐠𝐢𝐫𝐥 𝐫𝐞𝐧𝐨𝐯𝐚𝐭𝐢𝐧𝐠 𝐨𝐮𝐫 𝟏𝟏𝟕 𝐲𝐞𝐚𝐫 𝐨𝐥𝐝 𝐡𝐨𝐦𝐞 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐲 𝐥𝐢𝐭𝐭𝐥𝐞. 𝐒𝐡𝐚𝐫𝐢𝐧𝐠 𝐥𝐢𝐟𝐞 𝐨𝐧 𝐚𝐧 𝐮𝐫𝐛𝐚𝐧 𝐟𝐚𝐫𝐦. 𝐁𝐥𝐨𝐠 • 𝐒𝐡𝐨𝐩 @𝐯𝐢𝐧𝐭𝐚𝐠𝐞𝐬𝐨𝐜𝐢𝐞𝐭𝐲𝐜𝐨 🇨🇦
-    location: "Canada"
-    followers: 105168
-    engagement: 150
-    commentsToLikes: 0.077782
-    id: ck0tvj555bl9x0i19uq61fxu6
+    followers: 12386
+    engagement: 583
+    commentsToLikes: 0.047456
+    id: ck5cffnetmuwb0i11hy12fdlc
     verified: false
-    hashtags: "#homedecor, #cottagestyle, #ad, #frenchantiques"
+    hashtags: "#danessamyricksangels, #makeupoftheday, #igmakeup, #artist"
 ---

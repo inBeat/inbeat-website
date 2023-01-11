@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In United Kingdom In 2022
+title: Top 10 Chefs Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top chefs Instagram influencers in United Kingdom in 2022. Most popular hashtags: #blessed #reels #homecooking.
+  Find top chefs Instagram influencers in United Kingdom in 2023. Most popular hashtags: #travelgram #wanderlust #instatravel.
 platform: Instagram
-hits: 237
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 237 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 173
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 173 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "shapla11"
-    fullname: >-
-      S H A P L A • H O Q U E💋
-    bio: >-
-      🇬🇧Influencer • Chef • movie connoisseur 🏴 DAILY Content TikTok | shapla_11 PR enquires: 📩 Shaplahoque@hotmail.com
-    location: "United Kingdom"
-    followers: 52439
-    engagement: 157
-    commentsToLikes: 0.112846
-    id: ck5c9dfjtb8c00i11rxq1yyjd
-    verified: false
-    hashtags: "#instagramreels, #undiscovered, #shimycatsmua, #brian"
-  - username: "mellows_catering"
-    fullname: >-
-      Chef Mellow Beezy 🍝🍴
-    bio: >-
-      Managing Director/executive chef of multi award winning Mellow's Catering & Mellow's bar & restaurant.. 100% halal
-    location: "United Kingdom"
-    followers: 16735
-    engagement: 515
-    commentsToLikes: 0.046059
-    id: ck6ty7itl23n80j71a1jgp790
-    verified: false
-    hashtags: "#mellowscatering, #brumtown, #uksfinest, #caribbeanfusion"
   - username: "hollieevelyn"
     fullname: >-
-      Hollie Evelyn ✨
+      Hollie-Evelyn ✨
     bio: >-
-      Mummy to Bug Bug & Bump ♡ Pro Chef turned Private Chef to a Mini Me ✰@bamboosaidthebear ✰@thatmummytribe The yummiest recipes for the whole family👇
+      Mum Life & Professional Chef Archie & Ariella ❤️ Biz: Sustainable & stylish tableware for little foodies 🌎✨@bamboosaidthebear Recipes & Activities 🎨
     location: "United Kingdom"
-    followers: 25442
-    engagement: 484
-    commentsToLikes: 0.059620
+    followers: 33772
+    engagement: 657
+    commentsToLikes: 0.121105
     id: ck0tul6g47nu10i19fyd7zvdl
     verified: false
-    hashtags: "#toddlerlife, #toddlerfood, #blw, #thebump"
+    hashtags: "#realisation137, #ad"
   - username: "katie_anna21"
     fullname: >-
       Katie Anna
     bio: >-
-      Model/Chef/Miss Dolittle 🐕🐕🐕🐕🦜 My business @fresh_clean0 Law of attraction ~ good energy is everything💫 The best things In life aren’t things 🌻
+      Chef/Model/Miss Dolittle 🐕🐕🐕🐕🦜 My business @katies_kitchfix👩🏼‍🍳 Law of attraction ~ good energy is everything💫 The best things In life aren’t things 🌻
     location: "United Kingdom"
-    followers: 84943
-    engagement: 105
-    commentsToLikes: 0.038797
+    followers: 85658
+    engagement: 103
+    commentsToLikes: 0.043302
     id: ck8t0tsoxtach0j781drw2g3p
     verified: false
-    hashtags: "#rainbowlorikeets, #petsofinstagram, #hairgoals, #parrotsofinstagram"
-  - username: "hajralalljee"
+    hashtags: "#dogslife, #rainbowlorikeets, #petsofinstagram, #hairgoals"
+  - username: "followingthethorpes"
     fullname: >-
-      Hajra Lalljee
+      DT 💚
     bio: >-
-      TV Presenter Watch “Guest Chef” on Hum Masala Sat & Sun 12pm and 7:30 pm @denimbyhl www.denimbyhl.com 📍🇬🇧
+      🌱Vegan family 🍔 Food Blogger 👩‍🍳 Proud mummy of Chef DeeDee 📩 DM or Email for collaborations
     location: "United Kingdom"
-    followers: 35006
-    engagement: 98
-    commentsToLikes: 0.057013
-    id: ckap0gs8gq7qw0i78ez4ihsx3
+    followers: 6620
+    engagement: 610
+    commentsToLikes: 0.020512
+    id: ckap32qqz1ayy0i78m4jld57m
     verified: false
-    hashtags: "#reels, #feelitreelit, #november, #tbt"
+    hashtags: "#ad, #pocketmoney, #freekidscard, #hyperjar"
   - username: "aehglory"
     fullname: >-
       Aeh Pannasorn^^
     bio: >-
       😇Team Angel Cycling 🚴Ceepo Bicycle Ambassador Chef: Morning Glory The Bakery House Blog FB: EatPlayRide 📞For Work:0825709998
     location: "United Kingdom"
-    followers: 100216
-    engagement: 162
-    commentsToLikes: 0.022328
+    followers: 101730
+    engagement: 114
+    commentsToLikes: 0.023569
     id: ck5zqr26pv4mg0i147foxsy93
     verified: false
-    hashtags: "#cyclingonearth, #cyclingstagram, #cyclist, #womanonbikesaresexy"
+    hashtags: "#cyclingapparel, #cyclingselfie, #cyclingaddict, #runningmotivation"
   - username: "toniabuxton"
     fullname: >-
       Tonia Buxton
     bio: >-
-      Mum 50+, Pro-aging expert, Fashion, Travel, TV Presenter, Author, Celebrity Chef & Consultant at The Real Greek Restaurants. @vickiewhitemgmnt
+      Mum 50+, Pro-aging advisor, Fashion, Travel, TV Presenter, Author, Celebrity Chef & Consultant at The Real Greek Restaurants. @vickiewhitemgmnt
     location: "United Kingdom"
-    followers: 21911
-    engagement: 267
-    commentsToLikes: 0.029433
+    followers: 23294
+    engagement: 201
+    commentsToLikes: 0.034379
     id: ck6tot19ufy480j718iv4kad4
     verified: true
-    hashtags: "#travellingpresenter, #explorecyprus, #notanad, #toniasbaking"
+    hashtags: "#pampersession, #throwbackthursday, #therealgreek, #toniasstyle"
   - username: "1ogidigirl"
     fullname: >-
-      
+      Ijeoma
     bio: >-
-      🇳🇬Just a Simple Girl 💯 📍London U.K 🇺🇸🧑🏼‍🎓BBA 🏥💉Health Sector 🧑🏼‍🍳 Cook Addict @chef.ijeoma 📖 Romans 8:28
+      🇳🇬Just a Simple Girl No Stress 💯 📍London U.K 🇺🇸🧑🏼‍🎓BBA 🏥💉Health Sector 🧑🏼‍🍳 Cook Addict @chef.ijeoma 📖 Romans 8:28
     location: "United Kingdom"
-    followers: 3600
-    engagement: 851
-    commentsToLikes: 0.073731
+    followers: 3615
+    engagement: 907
+    commentsToLikes: 0.070361
     id: ckapchek33tbq0i78c0e8a9y6
     verified: false
-    hashtags: "#happygirl, #blessed, #abuja, #vacationvibes"
-  - username: "mr__hungry"
+    hashtags: "#blessed, #abuja, #vacationvibes, #strongereveryday"
+  - username: "laurabradymua"
     fullname: >-
-      Chef Shaheen | شيف شاهين
+      Laura
     bio: >-
-      👨‍🍳 Chef | شيف 🗼 Architect | مهندس معماري 🥐 Recipe developer | مطور اكلات 📞00964 772 228 2826 | WhatsApp 📧 mr.hungry.iq@gmail.com - 👇 YouTube | يوتيوب
+      Award winning actress, chef, pathological liar. Makeup Artist/ Queen/ Cat Lady 💖🏳️‍🌈💄 (she/her) ⬇️ NEWEST YOUTUBE VIDEO! ⬇️
     location: "United Kingdom"
-    followers: 1315061
-    engagement: 567
-    commentsToLikes: 0.047902
-    id: ckap6k71ig7250i78hu570yho
+    followers: 58482
+    engagement: 85
+    commentsToLikes: 0.056645
+    id: ck5hiusf6fhqn0i11uqurtddi
     verified: false
-    hashtags: ""
-  - username: "bboxfood"
+    hashtags: "#amazingmakeupart, #makeupideas, #lcxme, #100daysofmakeup"
+  - username: "laylaypowell"
     fullname: >-
-      Thom Bateman | CHEF
+      Layla Powell
     bio: >-
-      Chef Patron of @the.flintlock.cheddleton Exec Chef for The @foodslut Team I like to cook a lot it’s my thing Recipes galore on here
+      What or who I am is still evolving It's not yet written LawGrad, Business owner, Model, Private chef, @laylayskitchen,Art Advisory
     location: "United Kingdom"
-    followers: 20437
-    engagement: 466
-    commentsToLikes: 0.316292
-    id: ck1352ckyzcjj0i191xiijhb1
+    followers: 29344
+    engagement: 131
+    commentsToLikes: 0.025526
+    id: ck5pwizatn1ax0i1144lie6ys
     verified: false
-    hashtags: "#ukfood, #foodslut, #bboxfood, #giveaway"
+    hashtags: "#cooking, #shoot, #chooselove, #work"
+  - username: "healthyvoyager"
+    fullname: >-
+      Carolyn Scott-Hamilton
+    bio: >-
+      World Traveler | TV Host | Latina | Vegan Chef | Nutritionist | Author | Eco Adventure Junkie | HealthyVoyager.com
+    location: "United Kingdom"
+    followers: 43770
+    engagement: 283
+    commentsToLikes: 0.026625
+    id: ck5zvy47x54o90i14p1d8k29a
+    verified: true
+    hashtags: "#thediscoverer, #topdeck, #gltlove, #luxuryworldtraveler"
+  - username: "georgie_kid"
+    fullname: >-
+      ⚡️GEORGIE⚡️
+    bio: >-
+      • LGBTQ+ 🌈 •Travel & Lifestyle blogger✈️🥂 •47 => 🌎 Next stop =>🇲🇽😍 • Head Chef & Foodie 🍽 • Made in Hackney- London UK • DM for collabs 📥
+    location: "United Kingdom"
+    followers: 25940
+    engagement: 806
+    commentsToLikes: 0.059323
+    id: ck8td3oee1qgm0j78m2o2topo
+    verified: false
+    hashtags: "#travelgram, #wanderlust, #lovewins, #instatravel"
 ---

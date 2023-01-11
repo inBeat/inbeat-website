@@ -1,118 +1,130 @@
 ---
-title: Top 10 Rappers TikTok Influencers In France In 2022
+title: Top 10 Rappers TikTok Influencers In France In 2023
 description: >-
-  Find top rappers TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #humour #fyp.
+  Find top rappers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #viral #fyp #humour.
 platform: TikTok
-hits: 9
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in France for you to pitch.
+hits: 10
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 10 TikTok influencers like this in France for you to contact.
 profiles:
-  - username: "millesime_officiel"
+  - username: "millesime_k"
     fullname: >-
-      Millésime
+      Millésime K
     bio: >-
-      Insta/YouTube☝️ Une musique le jeudi, un freestyle le dimanche Spotify 👇
+      Insta/YouTube☝️ Je fais du rap mais je viens pas de la rue Spotify 👇
     location: "France"
-    followers: 64700
-    engagement: 1042
-    commentsToLikes: 0.045818
+    followers: 117300
+    engagement: 960
+    commentsToLikes: 0.032558
     id: ckdc0jk0kfdak0j23fxuslkq5
     verified: false
-    hashtags: "#musique, #viral, #chill, #fy"
-  - username: "camangaaa"
+    hashtags: "#pourtoi, #rap, #rapfrancais, #musique"
+  - username: "melyssa990"
     fullname: >-
-      ⛩Camille⛩
+      Melyssa🌈
     bio: >-
-      🍙 ANIME/MANGA 🍙 ⛩ CULTURE ⛩ 🎨COSPLAY🎨 CEO of « Les amis parlons anime »
+      Insta: ‼️⬆️⬆️⬆️ 👻 mel5413 💛🌈 4K ? I’m 13💋
     location: "France"
-    followers: 24100
-    engagement: 2236
-    commentsToLikes: 0.030840
-    id: ckbfbs7iu46ig0j23g6kg86ol
+    followers: 4758
+    engagement: 2089
+    commentsToLikes: 0.038922
+    id: ckdbbhjth6d8t0j23xagwhlkh
     verified: false
-    hashtags: "#anime, #cosplay, #naruto, #attackontitan"
-  - username: "louis.adbt"
+    hashtags: "#crush, #mec, #pourtoi, #fyp"
+  - username: "cgreg_sw"
     fullname: >-
-      Louis✨
+      Greg
     bio: >-
-      👆JE LIKE LES PHOTOS DE TOUS CEUX QUI ME FOLLOW SUR MON INSTA👆 Woaw déjà 520k❤️
+      👊🏼Street workout athlete👊🏼 Sharing my passion 🔥freestyle🔥 Insta: @cgreg_sw
     location: "France"
-    followers: 520400
-    engagement: 1630
-    commentsToLikes: 0.027560
-    id: ck9v90n17bywi0j7838wymm81
+    followers: 20700
+    engagement: 1359
+    commentsToLikes: 0.055794
+    id: ckbffd3b09yw20j234516cl4k
     verified: false
-    hashtags: "#fy, #pov, #pourtoi, #fyp"
+    hashtags: "#sw, #frontlever, #pourtoi, #humour"
   - username: "ednwar"
     fullname: >-
       Ednwar
     bio: >-
       🇨🇲💎
     location: "France"
-    followers: 3332
-    engagement: 961
-    commentsToLikes: 0.075330
+    followers: 3292
+    engagement: 1010
+    commentsToLikes: 0.071518
     id: ck9gqxds7bgxd0j78enahf5pn
     verified: false
-    hashtags: "#music, #getmefamous, #foryou, #foryoupage"
-  - username: "anastasiaoberlin1"
+    hashtags: "#tiktok, #freestyle, #lerapfrancais, #rapfrancais"
+  - username: "chaudhary_shero"
     fullname: >-
-      Anastasia the QUEEN 👑
+      CH Ali SheR WaRRaicH
     bio: >-
-      Pro: oberlinanastasia@gmail.com Insta: oberlin.anastasia Snap: matmakeupartist
+      La vie est belle♥️
     location: "France"
-    followers: 17900
-    engagement: 836
-    commentsToLikes: 0.039345
-    id: ck9047k0kdxz80j78g9sw87fo
+    followers: 3017
+    engagement: 1091
+    commentsToLikes: 0.053243
+    id: cka9llyij2ube0i7857abfoc2
     verified: false
-    hashtags: "#makeup, #frtiktok, #lgbt, #duo"
-  - username: "tizzulu"
+    hashtags: "#juttlife, #gujrat, #brand, #punjabi"
+  - username: "malian_outstanding_223"
     fullname: >-
-      Tiziano la masse
+      malian_outstanding_223
     bio: >-
-      𝕀ℕ𝕊𝕋𝔸 : tizzulu ou ⬆️ ✊🏻✊🏼✊🏽✊🏾✊🏿 📥 :tizzulu@gmail.com
+      Malian_outstanding_223 SUR INSTA☝🏿 👻exceptionnel223 SUR SNAPCHAT Nos Médias⤵️
     location: "France"
-    followers: 21400
-    engagement: 1169
-    commentsToLikes: 0.014708
-    id: ck9v90dk6bwv20j78do20e7bf
+    followers: 7662
+    engagement: 808
+    commentsToLikes: 0.031086
+    id: cka8g8qu75jph0i78n5jil7c2
     verified: false
-    hashtags: "#lightskin, #basket, #life, #sport"
-  - username: "minahabchi"
+    hashtags: "#tendancetiktok, #african, #foryoupage, #malienne"
+  - username: "emmatorres38"
     fullname: >-
-      Mina Habchi
+      Emma Torres
     bio: >-
-      
+      Mon snap (bieberminnie26) mon épic game (emma3826) ❤️😵🤪
     location: "France"
-    followers: 61800
-    engagement: 773
-    commentsToLikes: 0.006204
-    id: ckc1ucza5ylqt0j23jqwpuarr
+    followers: 66300
+    engagement: 1380
+    commentsToLikes: 0.077169
+    id: ckb981ztpr4wx0j2362rv32r1
     verified: false
-    hashtags: "#italy, #minahabchi, #santorini, #pourtoi"
+    hashtags: "#chretien, #musique, #physique, #pr"
   - username: "yahia69"
     fullname: >-
       Yahia69 
     bio: >-
       📍Lyon AVPS MENTALITY 🤔🤫🦁🗣
     location: "France"
-    followers: 4644
-    engagement: 1137
-    commentsToLikes: 0.057903
+    followers: 4870
+    engagement: 1290
+    commentsToLikes: 0.047691
     id: ckb9kfcc2c5m40j23e6tp33l7
     verified: false
-    hashtags: "#timefortenet, #duo, #rappels, #rappelislam"
-  - username: "loowve"
+    hashtags: "#rappels, #islamfr, #duo, #pourtoi"
+  - username: "amir_kha03"
     fullname: >-
-      Loreley Loowve & fun
+      Amir_kha 03
     bio: >-
-      Pour le plaisir, et si ca peut faire rire ou sourire c'est encore mieux 😁
+      Thanks everyone for your support! Please continue to show me ur love ✌🏽❤️🇨🇵
     location: "France"
-    followers: 10500
-    engagement: 318
-    commentsToLikes: 0.022841
-    id: ckbf1djncnjqg0j23rch07bj3
+    followers: 29900
+    engagement: 2632
+    commentsToLikes: 0.016799
+    id: ckavogn05z8kl0j23cm0byfuw
     verified: false
-    hashtags: "#covid19, #duo, #piscine, #ronde"
+    hashtags: "#allah, #allahisone, #duet, #amirkha03"
+  - username: "f2thewee"
+    fullname: >-
+      F2theWee
+    bio: >-
+      RAP 😎 / CHANT🎤/ RIGOULAAADE 🤣 Venez sur INSTA : @f2thewee 💫 Que du LOVE ❤️
+    location: "France"
+    followers: 63600
+    engagement: 1114
+    commentsToLikes: 0.029142
+    id: ck8sf85bdn1db0j7836b2cvw4
+    verified: false
+    hashtags: "#tiktokfrance, #tiktokfr, #tiktokchallenge, #fyp"
 ---

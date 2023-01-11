@@ -1,84 +1,72 @@
 ---
-title: Top 10 Travel TikTok Influencers In Medellín In 2022
+title: Top 10 Travel TikTok Influencers In Medellín In 2023
 description: >-
-  Find top travel TikTok influencers in Medellín in 2022. Most popular hashtags: #colombia #travel #tiktokcolombia #viral.
+  Find top travel TikTok influencers in Medellín in 2023. Most popular hashtags: #colombia #travel #parati #medellin.
 platform: TikTok
-hits: 8
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Medellín, Colombia for you to pitch.
+hits: 7
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 7 TikTok influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
-  - username: "camiloduque.z"
+  - username: "janiachaparro"
     fullname: >-
-      Camilo Duque
+      Jania chaparro
     bio: >-
-      CONTADOR DE HISTORIAS DE VIAJES Instagram: @camiloduque.z
+      cree en ti mismo ✨
     location: "Colombia"
-    followers: 163400
-    engagement: 1266
-    commentsToLikes: 0.011666
-    id: ckbwextkv1so50j23lh3725o3
+    followers: 4157
+    engagement: 1026
+    commentsToLikes: 0.029071
+    id: ckavrv0rx3zy50j23bxf8msh6
     verified: false
-    hashtags: "#travel, #viaje, #colombia, #viajes"
+    hashtags: "#fyp, #trend, #happy, #partitiktok"
+  - username: "la_vidademike"
+    fullname: >-
+      LaVidaDeMike
+    bio: >-
+      GoPro | Drone | Travel 🎥 IG📲 : @la_vidademike 🇨🇴
+    location: "Colombia"
+    followers: 11200
+    engagement: 767
+    commentsToLikes: 0.032620
+    id: ckbwksx1q3uu70j23qowt004h
+    verified: false
+    hashtags: "#barranquilla, #tiktok, #fyp, #viajestiktok"
   - username: "kasedna_travel"
     fullname: >-
       Juan Camilo Velez Or
     bio: >-
-      Apasionado por los viajes y familia! IG: kasedna_travel
+      sígueme en instagram: kasedna_travel para mas viajes
     location: "Colombia"
     followers: 107900
-    engagement: 1233
-    commentsToLikes: 0.023383
+    engagement: 1263
+    commentsToLikes: 0.022118
     id: ckacldqflf5c90i78cjh1wk27
     verified: false
-    hashtags: "#viral, #viajero, #farm, #tiktoktravel"
+    hashtags: "#bogota, #medellin, #mexico, #tiktoktravel"
   - username: "danielvergel_"
     fullname: >-
       Daniel Vergel
     bio: >-
-      Instagram @danielvergel_ Travel Blogger Colombiano 👇Link SORTEO Voluntariado👇
+      Instagram @danielvergel_ Travel Blogger Colombiano
     location: "Colombia"
-    followers: 580500
-    engagement: 690
-    commentsToLikes: 0.017741
+    followers: 614600
+    engagement: 718
+    commentsToLikes: 0.018628
     id: cka1068b7iamk0i78lzhcdpis
     verified: false
-    hashtags: "#sanandres, #tiktokcolombia, #huracaneta, #guatape"
-  - username: "danielsinbrujula"
+    hashtags: "#parati, #viajestiktok, #cartagena, #marcaribe"
+  - username: "camiloduque.z"
     fullname: >-
-      danielsinbrujula
+      Camilo Duque
     bio: >-
-      🗣️Aventurero de tiempo completo⏳ IG: @danielsinbrujula 🗺️ ¿10k?
+      CONTADOR DE HISTORIAS DE VIAJES escríbeme en instagram: @camiloduque.z
     location: "Colombia"
-    followers: 7649
-    engagement: 764
-    commentsToLikes: 0.046442
-    id: ckb9o7bxlii2j0j2385z5nu43
+    followers: 234100
+    engagement: 1092
+    commentsToLikes: 0.010121
+    id: ckbwextkv1so50j23lh3725o3
     verified: false
-    hashtags: "#travel, #colombia, #viajar, #cascada"
-  - username: "erikerrante"
-    fullname: >-
-      💥Erik Moreno💥
-    bio: >-
-      INSTAGRAM▶️@erikerrante Viajando como Voluntario ✈ CONCURSO PARTICIPA YA👇
-    location: "Colombia"
-    followers: 241000
-    engagement: 961
-    commentsToLikes: 0.022824
-    id: ck9r4x49bx4q30j788xs5fhaw
-    verified: false
-    hashtags: "#travel, #increible, #viralvideo, #nolosabias"
-  - username: "damianrecorre"
-    fullname: >-
-      Damianrecorre
-    bio: >-
-      Sólo abierto por cuarentena .
-    location: "Colombia"
-    followers: 5718
-    engagement: 450
-    commentsToLikes: 0.065176
-    id: ckaux15y12ftc0j23swzu8z7w
-    verified: false
-    hashtags: "#travel, #colombia, #parati, #fyp"
+    hashtags: "#antioquia, #viajes, #florida, #tiktoktravel"
   - username: "colombiatravel"
     fullname: >-
       Viaja por Colombia
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.021599
     id: ck9go86lp01a40j7838i9rtie
     verified: false
-    hashtags: "#playas, #santamarta, #sunset, #naturaleza"
-  - username: "carorojasrincon"
+    hashtags: "#monta, #ciudad, #beach, #medellin"
+  - username: "rinconesdecolombia"
     fullname: >-
-      Caro Rojas Rincón
+      Viaja por Colombia
     bio: >-
-      Te ayudo a iniciar en el mundo digital. 🚀 IG @DominaTusRedesSociales 🤙🏻
+      Apoyanos siguiendonos en Instagram ✈☝️☝️ Recibe ideas de viajes por Colombia
     location: "Colombia"
-    followers: 14500
-    engagement: 432
-    commentsToLikes: 0.052708
-    id: ck9rgyqpwd4mg0j783oe4xani
+    followers: 91100
+    engagement: 648
+    commentsToLikes: 0.004303
+    id: ckan0swrds4oc0i78aetdlbli
     verified: false
-    hashtags: "#socialmedia, #colombia, #instagram, #tiktokcolombia"
+    hashtags: "#couple, #planes, #viajes, #amigos"
+  - username: "jturcios_official"
+    fullname: >-
+      J TURCIOS
+    bio: >-
+      TRAVELS | FASHION | LIFESTYLE —BLOGGER YOUTUBER 📍🌎
+    location: "Colombia"
+    followers: 194900
+    engagement: 620
+    commentsToLikes: 0.049177
+    id: ckamwqotw9q580i78ik2fegvw
+    verified: false
+    hashtags: "#foryoupage, #mexico, #lifestyle, #miami"
   - username: "la_vidademike"
     fullname: >-
       LaVidaDeMike
     bio: >-
       GoPro | Drone | Travel 🎥 IG📲 : @la_vidademike 🇨🇴
     location: "Colombia"
-    followers: 6681
-    engagement: 942
-    commentsToLikes: 0.025835
+    followers: 11200
+    engagement: 767
+    commentsToLikes: 0.032620
     id: ckbwksx1q3uu70j23qowt004h
     verified: false
-    hashtags: "#tiktoktravel, #filmaker, #fouryou, #colombiatravel"
-  - username: "jturcios_official"
+    hashtags: "#barranquilla, #tiktok, #fyp, #viajestiktok"
+  - username: "kasedna_travel"
     fullname: >-
-      J TURCIOS
+      Juan Camilo Velez Or
     bio: >-
-      TRAVELS | FASHION | LIFESTYLE —BLOGGER YOUTUBER HONDUREÑO 🇭🇳 📍🌎
+      sígueme en instagram: kasedna_travel para mas viajes
     location: "Colombia"
-    followers: 26400
-    engagement: 518
-    commentsToLikes: 0.055976
-    id: ckamwqotw9q580i78ik2fegvw
+    followers: 107900
+    engagement: 1263
+    commentsToLikes: 0.022118
+    id: ckacldqflf5c90i78cjh1wk27
     verified: false
-    hashtags: "#tiktokindia, #richboycheck, #tiktoklover, #viral"
+    hashtags: "#bogota, #medellin, #mexico, #tiktoktravel"
 ---

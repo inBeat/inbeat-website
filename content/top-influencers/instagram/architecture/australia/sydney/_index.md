@@ -1,96 +1,72 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Sydney In 2022
+title: Top 10 Architecture Instagram Influencers In Sydney In 2023
 description: >-
-  Find top architecture Instagram influencers in Sydney in 2022. Most popular hashtags: #architecture #interiordesign #sydneyarchitecture #australianarchitecture.
+  Find top architecture Instagram influencers in Sydney in 2023. Most popular hashtags: #architecture #sydney #australianarchitecture #design.
 platform: Instagram
-hits: 54
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 54 Instagram influencers like this in Sydney, Australia for you to contact.
+hits: 27
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 27 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "durbachblockjaggers"
-    fullname: >-
-      Durbach Block Jaggers
-    bio: >-
-      Architects based in Sydney, Australia
-    location: "Australia"
-    followers: 16975
-    engagement: 358
-    commentsToLikes: 0.024583
-    id: ck5zsviymz9fn0i14o709b1uf
-    verified: false
-    hashtags: "#durbachblockjaggers, #architecture, #australianarchitecture, #sydney"
-  - username: "_saota"
-    fullname: >-
-      SAOTA
-    bio: >-
-      In light of COVID-19, we’re working from home. We are fully operational and continue with business as usual. Reach us at info@saota.com #saota
-    location: "Australia"
-    followers: 146585
-    engagement: 139
-    commentsToLikes: 0.009081
-    id: ck13b71estzyl0i1959x6ucum
-    verified: false
-    hashtags: "#wfh, #australia, #senegal, #dakar"
-  - username: "adamkanearchitects"
-    fullname: >-
-      Adam Kane Architects
-    bio: >-
-      Melbourne based Architecture and Interior Design Studio, passionate about creating timeless homes and spaces that exceed our clients’ expectations.
-    location: "Australia"
-    followers: 30314
-    engagement: 293
-    commentsToLikes: 0.017058
-    id: ck0w3xhxlvsa80i19rgqkfnug
-    verified: false
-    hashtags: "#sydneyarchitecture, #adamkanearchitects, #melbourneinteriordesign, #melbournearchitect"
-  - username: "julian.fares"
-    fullname: >-
-      Julian Fares
-    bio: >-
-      University Professor Landscape Photography - 🇱🇧 🇦🇺
-    location: "Australia"
-    followers: 5032
-    engagement: 2037
-    commentsToLikes: 0.027588
-    id: ck8t0r6v9szp40j78h7oprhfg
-    verified: false
-    hashtags: "#earthfocus, #wonderful, #skyvibes, #lebanon"
   - username: "peterbbennetts"
     fullname: >-
       Peter Bennetts
     bio: >-
       Bennetts is an Australian, global-roaming architectural photographer whose work consistently appears in internationally-acclaimed publications.
     location: "Australia"
-    followers: 18303
-    engagement: 281
-    commentsToLikes: 0.022643
+    followers: 18947
+    engagement: 284
+    commentsToLikes: 0.022209
     id: ck8t3zi5e51ri0j78mrcgjssq
     verified: false
-    hashtags: "#melbournearchitecture, #architecturalphotography, #dezeenawards, #bismarckhouse"
-  - username: "george_hall_art"
+    hashtags: "#bismarckhouse, #melbournearchitecture, #residentialarchitecture, #australianarchitecture"
+  - username: "sma.au"
     fullname: >-
-      George Hall
+      Striking Models Agency 🇦🇺
     bio: >-
-      Kiwi Australian artist creating unique artworks. Worldwide Shipping, checkout website shop:
+      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
     location: "Australia"
-    followers: 38407
-    engagement: 160
-    commentsToLikes: 0.022865
-    id: ck0u8rmd7834o0i19pax1zrhy
+    followers: 87897
+    engagement: 10
+    commentsToLikes: 0.023061
+    id: ckaoxw09eezxz0i78z14ggye0
     verified: false
-    hashtags: "#modernart, #abstract, #artwork, #todaysartreport"
-  - username: "trias.studio"
+    hashtags: ""
+  - username: "coaparchitects"
     fullname: >-
-      T R I A S
+      CO-AP (Architects)
     bio: >-
-      Architecture studio in Sydney, Australia. • Solid • Simple • Beautiful •
+      Architecture & Interiors #coaparchitects
     location: "Australia"
-    followers: 21449
-    engagement: 342
-    commentsToLikes: 0.008104
-    id: ck14lh4ybun920i19mdzvcsx0
+    followers: 13820
+    engagement: 206
+    commentsToLikes: 0.026311
+    id: ck13c52l2ynkh0i19wcfdgmin
     verified: false
-    hashtags: "#architectura, #prefab, #architects, #leichhardt"
+    hashtags: "#architecture, #coaparchitects, #canberra, #sydney"
+  - username: "mylesbaldwin"
+    fullname: >-
+      Myles Baldwin
+    bio: >-
+      Myles Baldwin is an Australian landscape designer, horticulturist, writer. Founder and Creative director of Myles Baldwin Design.
+    location: "Australia"
+    followers: 12367
+    engagement: 437
+    commentsToLikes: 0.016796
+    id: ck5zsvi14z9d50i14c8rokuqm
+    verified: false
+    hashtags: "#pool, #swimmingpool, #countrygarden, #perennials"
+  - username: "aussiearchitects"
+    fullname: >-
+      Australian Architects
+    bio: >-
+      Showcasing the works of Australian architects and interior designers #AussieArchitects @finesocialmedia
+    location: "Australia"
+    followers: 53908
+    engagement: 147
+    commentsToLikes: 0.011774
+    id: ck15qjb4o34ef0i19ivnm3ou7
+    verified: false
+    hashtags: "#homedecor, #bookofhomes, #sydney, #lifestyle"
   - username: "sydneyoperahouse"
     fullname: >-
       Sydney Opera House
@@ -102,29 +78,53 @@ profiles:
     commentsToLikes: 0.013585
     id: ck5heaaa9rvq60i11s77u0iu8
     verified: true
-    hashtags: "#pianoday, #ghostlights, #operaaustralia, #allaboutwomen"
-  - username: "andymacpherson.studio"
+    hashtags: "#operaaustralia, #opera, #sydneyoperahouse, #allaboutwomen"
+  - username: "durbachblockjaggers"
     fullname: >-
-      Andy Macpherson Studio
+      Durbach Block Jaggers
     bio: >-
-      Architectural Photographer Co-host @baampodcast Northern NSW + Gold Coast, Australia
+      Architects based in Sydney, Australia
     location: "Australia"
-    followers: 22201
-    engagement: 216
-    commentsToLikes: 0.025886
-    id: ck6tiauzs0d9g0j71412f0v4a
+    followers: 18777
+    engagement: 325
+    commentsToLikes: 0.023080
+    id: ck5zsviymz9fn0i14o709b1uf
     verified: false
-    hashtags: "#archdaily, #lennoxhead, #andymacphersonstudio, #brisbanearchitecture"
-  - username: "perth_air"
+    hashtags: "#sydneyarchitecture, #phoenixcentralpark, #durbachblockjaggers, #phoenixperformancespace"
+  - username: "robmillsarchitects"
     fullname: >-
-      Matt bond
+      Rob Mills Architects (RMA)
     bio: >-
+      Melbourne | Sydney | Brisbane | Perth | Byron Bay | Architecture & Interiors | AAP Firm of the Year | World Interior Practice of the Year
+    location: "Australia"
+    followers: 66213
+    engagement: 100
+    commentsToLikes: 0.010879
+    id: ck5c5mjjc3rbq0i11kk3xy9uk
+    verified: false
+    hashtags: "#robmills, #robmillsarchitects, #interiors, #design"
+  - username: "mk_bricks"
+    fullname: >-
       
+    bio: >-
+      33 YO Australian LEGO fanatic. Come and join me on my build journey 🚀
     location: "Australia"
-    followers: 8866
-    engagement: 466
-    commentsToLikes: 0.042776
-    id: ckap9runytekj0i783jiihy3u
+    followers: 16964
+    engagement: 324
+    commentsToLikes: 0.017375
+    id: ck15s9whcbxrh0i19pcpldzye
     verified: false
-    hashtags: "#manly, #adobephotoshop, #margaretriver, #drone"
+    hashtags: "#legobuilding, #legoroom, #gold, #legoaustralia"
+  - username: "alborzfallah"
+    fullname: >-
+      𝗔𝗹𝗯𝗼𝗿𝘇 𝗙𝗮𝗹𝗹𝗮𝗵
+    bio: >-
+      #Brisbane Adj. Professor & entrepreneur in residence @UniOfQLD Founder @CarExpert.com.au & @CarAdvice
+    location: "Australia"
+    followers: 19588
+    engagement: 244
+    commentsToLikes: 0.041824
+    id: ck5q0glbh5w7z0i11bzv3s889
+    verified: true
+    hashtags: "#458speciale, #huracanperformante, #brisbane, #engineering"
 ---

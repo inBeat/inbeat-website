@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Norway In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Norway in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Norway in 2022. Most popular hashtags: #tattoos #tattoo #artist #art.
+  Find top tattoo-artists Instagram influencers in Norway in 2023. Most popular hashtags: #tattoos #tattoo #artist #art.
 platform: Instagram
 hits: 9
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Portugal In 2022
+title: Top 10 Yoga Instagram Influencers In Portugal In 2023
 description: >-
-  Find top yoga Instagram influencers in Portugal in 2022. Most popular hashtags: #yoga #yogainspiration #yogapractice #portugal.
+  Find top yoga Instagram influencers in Portugal in 2023. Most popular hashtags: #yoga #yogainspiration #nature #yogagirl.
 platform: Instagram
-hits: 26
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 26 Instagram influencers like this in Portugal for you to connect with.
+hits: 14
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 14 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "myredsabbatical"
-    fullname: >-
-      Marcela | Travel, Yoga, Nature
-    bio: >-
-      🛩 Traveller, adventurer, solopreneur 🤱 Solo mom to the coolest little girl 🌱 Founder @nayavita.yoga and @mynayavita
-    location: "Portugal"
-    followers: 7668
-    engagement: 1068
-    commentsToLikes: 0.501685
-    id: ck6tv7bb8kkwj0j71yjlgj1xf
-    verified: false
-    hashtags: "#motherhoodintheraw, #hotmom, #travellingbaby, #familytimeisthebesttime"
-  - username: "yogawith.iva"
-    fullname: >-
-      ivazanotte
-    bio: >-
-      💪instructor streaching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️ @yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 girls 🇵🇹Portugal
-    location: "Portugal"
-    followers: 14378
-    engagement: 468
-    commentsToLikes: 0.239723
-    id: ckapauezvxic70i78ot2ctr0a
-    verified: false
-    hashtags: "#flexibility, #faro, #yogastrong, #yogatime"
   - username: "cizzyew"
     fullname: >-
       Cecilia ॐ CEWYoga
     bio: >-
-      🕉️ Yoga teacher (former self-taught yogini) ~ERYT200 (+25 H) @feetup 💚 Ambassador Plant based diet Meditation Holistic health/Crystals
+      Here for the Yoga community 🕉️ Yoga teacher ~ERYT200 (+25 H) @feetup 💚 Ambassador Plant based diet Meditation
     location: "Portugal"
-    followers: 10688
-    engagement: 412
-    commentsToLikes: 0.232598
+    followers: 13312
+    engagement: 522
+    commentsToLikes: 0.218634
     id: ck8tcnakl00f10j78o6hs3gd4
     verified: false
-    hashtags: "#yogagirl, #breathinbreathout, #yogapractice, #yogastrenght"
-  - username: "klara_yoga"
+    hashtags: "#yogamakesmehappy, #yogini, #yogastretch, #yogaeverydamnday"
+  - username: "yogawith.iva"
     fullname: >-
-      KLARA POKORNA
+      ivazanotte
     bio: >-
-      🤸🏾‍♀️ Yoga teacher 🖤 @yogagangfam founder 📩 Online private classes - DM 🏄‍♀️ Bali Yoga, Surf and Training retreats
+      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
     location: "Portugal"
-    followers: 21963
-    engagement: 453
-    commentsToLikes: 0.009502
-    id: ck13d1j4937190i1908qodlye
+    followers: 16826
+    engagement: 331
+    commentsToLikes: 0.304315
+    id: ckapauezvxic70i78ot2ctr0a
     verified: false
-    hashtags: "#portugal, #longboard, #surfing, #ericeira"
-  - username: "sarahuactive"
+    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
+  - username: "caykuijpers"
     fullname: >-
-      Sara Hu | Fisio, Yoga, Pilates
+      Cay | International Host
     bio: >-
-      📍Lisbon, PT 🇵🇹 🖐🏼 Physiotherapist 🧘🏻‍♀️ Yoga & Pilates Teacher 👇🏼 FREE E-BOOK YOGA & DISCOUNT CODES
+      Cert 3 & 4 PT Academy Australia Plant Queen 🌿 @tulliaindoorplants Fitness and Healthy Mind Advocate 👶 @iammagnusorion
     location: "Portugal"
-    followers: 12252
-    engagement: 260
-    commentsToLikes: 0.045706
-    id: ck15pm1tayjwr0i19janvpahi
+    followers: 66519
+    engagement: 114
+    commentsToLikes: 0.074643
+    id: ck0vws98ovcnv0i1927mqzo5g
     verified: false
-    hashtags: "#fishpose, #mantras, #yogaflows, #aloveforflexibility"
-  - username: "fernandacanezin"
+    hashtags: "#harleydavidsonroadking, #girlswhorun, #cruiserbike, #nature"
+  - username: "laia_violeta"
     fullname: >-
-      Fernanda Cunha Canezin △
+      Laia Violeta
     bio: >-
-      y o g a ॐ l i f e s t y l e • vivo para SER(vir)✨ ❤️ 🦋🍃🌻🌈
+      💫Pilates Instructor 🌍Barcelona 📌Fuerteventura 👉🏽 Polestarpilates® & PMA® certified ON-LINE Private & Group pilates Spanish & English & Portuguese
     location: "Portugal"
-    followers: 14733
-    engagement: 230
-    commentsToLikes: 0.053018
-    id: ckapa35wtuj0v0i78mlbnsikq
+    followers: 12084
+    engagement: 541
+    commentsToLikes: 0.111237
+    id: ck0w2vk20qdjw0i19lgsnpmo7
     verified: false
-    hashtags: "#yogalifestyle, #yogainspiration, #yoga, #yogalife"
-  - username: "tjwellness"
+    hashtags: "#dance, #cadillacpilates, #pilatesstudio, #pilateslovers"
+  - username: "thetwobohemians"
     fullname: >-
-      Tine Johansen
+      Luke & Tyler ≈ TRAVEL COUPLE
     bio: >-
-      Family & a balanced lifestyle is my world! Creator of Balletlates 🙋🏼Physio 💞Mom of 2 💚Healthy Lifestyle Blogger 🎥Youtuber 🌟Workouts
+      Digital Nomads & Mindful Travellers. 🌎 Inspiring millennials to live differently. 📸 @bohemianpresets 📍 Ericeira 🇵🇹 ↡ VlOGS | PRESETS | WEBSITE ↡
     location: "Portugal"
-    followers: 23161
-    engagement: 201
-    commentsToLikes: 0.266722
-    id: ck55j3pm1w6vr0i118gtnv0po
+    followers: 68032
+    engagement: 157
+    commentsToLikes: 0.089701
+    id: ck0u6dt101m860i1921ad3kl5
     verified: false
-    hashtags: "#yogamom, #dancerpose, #prenatalyoga, #yogamama"
-  - username: "zeblackturboofficial"
+    hashtags: "#travelcouplesinspiration, #ericeiraportugal, #coupleswhotravel, #travelcouplelife"
+  - username: "rafaelaalexandra0"
     fullname: >-
-      Zé Preto
+      Rafaela Duarte | Healthy 💫
     bio: >-
-      ◾inhuman core strength😈 ◾born in 1971 natural strength💪 ◾60+ sec world record FL👽
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
     location: "Portugal"
-    followers: 48693
-    engagement: 491
-    commentsToLikes: 0.051767
-    id: ck6tulw93h34k0j71i5ndwdae
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#viralvideoschannel, #bodybuilding, #challengeyourself, #calisthenicsrevolution"
-  - username: "zmfreespirit"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+  - username: "maryplan"
     fullname: >-
-      Manon Z’
+      Maria Pereira
     bio: >-
-      🌙 HOLISTIC TATTOO ARTIST ✨ Private studio in Algarve - Portugal ☾ Agenda open for JUNE-JULY-AUGUST ↟ Each tattoo is @onetreeplanted
+      📍#oporto based Team @yogicouplelove Mary’s life it’s all about Mary’s plan... Follow the plan ❣️ Let’s work : mariapdpereira@hotmail.com 🌱
     location: "Portugal"
-    followers: 64145
-    engagement: 476
-    commentsToLikes: 0.006775
-    id: ck13bltgfw1ez0i194yb26kbl
+    followers: 39255
+    engagement: 170
+    commentsToLikes: 0.268751
+    id: ck5zl46uwkp4v0i143onacgm5
     verified: false
-    hashtags: "#mandalatattoo, #inkedgirls, #moontattoo, #wildlife"
-  - username: "rubenfjorge"
+    hashtags: "#hapiness, #ootd, #kingslandequestrian, #hapinessishere"
+  - username: "evelise_veiga"
     fullname: >-
-      Ruben Jorge
+      🅴🆅🅴🅻🅸🆂🅴 🆅🅴🅸🅶🅰
     bio: >-
-      🌆 Porto ©️ 1991 ♓️ Pharmacist 🏨 🎠The carousel never stops turning 🎠 @myblissbody rubenfjorge15 @mvmt
+      🇨🇻🇵🇹 𝙇𝙤𝙣𝙜 𝙅𝙪𝙢𝙥𝙚𝙧 💎👸🏾 ✨ @sportingclubedeportugal & @nike 𝘼𝙩𝙝𝙡𝙚𝙩𝙚 🥇🥈𝙒𝙤𝙧𝙡𝙙 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙖𝙙𝙚 #VictoryIsInMyVeins🕊
     location: "Portugal"
-    followers: 11558
-    engagement: 1579
-    commentsToLikes: 0.014434
-    id: ck8talc55s8m80j78xs02h0e9
+    followers: 13319
+    engagement: 949
+    commentsToLikes: 0.027166
+    id: ck0u1mi2lx9df0i19glti35zo
     verified: false
-    hashtags: "#fitness, #summer, #body, #shredded"
+    hashtags: "#longjump, #fitness, #beachtraining, #jumpevelise"
+  - username: "idireito"
+    fullname: >-
+      Inês Gomes Direito
+    bio: >-
+      lara@next.pt direitoporlinhastortas.id@gmail.com
+    location: "Portugal"
+    followers: 20968
+    engagement: 158
+    commentsToLikes: 0.118812
+    id: ck9we42r0ihoi0j78g69ssdlt
+    verified: false
+    hashtags: "#workout, #fitgirl, #gravidez, #homeworkout"
+  - username: "gotmypostcard"
+    fullname: >-
+      Andreia | GOT MY POSTCARD?
+    bio: >-
+      Portuguese girl around the world 🗺 📍South Florida info@gotmypostcard.com
+    location: "Portugal"
+    followers: 36977
+    engagement: 94
+    commentsToLikes: 0.044754
+    id: ck13al1vuqwfr0i19euiu47vo
+    verified: false
+    hashtags: "#miamilife, #portugal, #floridalife, #visitflorida"
 ---

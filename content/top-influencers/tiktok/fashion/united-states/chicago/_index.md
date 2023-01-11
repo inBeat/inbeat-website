@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Chicago In 2022
+title: Top 10 Fashion TikTok Influencers In Chicago In 2023
 description: >-
-  Find top fashion TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #fashion #foryou.
+  Find top fashion TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #fashion #chicago #ootd.
 platform: TikTok
-hits: 70
+hits: 65
 text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 70 TikTok influencers like this in Chicago, United States for you to work with.
+text_bottom: Our platform holds 65 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
+  - username: "peachesboutique"
+    fullname: >-
+      PeachesBoutique
+    bio: >-
+      World’s Largest Prom, Quince & Evening Dress Store 🍑👗👑💃🏼👠👛
+    location: "United States"
+    followers: 66700
+    engagement: 978
+    commentsToLikes: 0.013315
+    id: ck9vefd1byucq0j78zi7rok4g
+    verified: false
+    hashtags: "#musthaves, #style, #red, #fy"
+  - username: "katiamarievarga"
+    fullname: >-
+      katia marie
+    bio: >-
+      21 rebel athletic model 🇺🇦💖
+    location: "United States"
+    followers: 71500
+    engagement: 1060
+    commentsToLikes: 0.017181
+    id: cka5xfngedrzz0i78q7g9dmq8
+    verified: false
+    hashtags: "#cheer, #snowboarding, #skiing, #starbucks"
   - username: "margothornberry"
     fullname: >-
       margothornberry
     bio: >-
       chicago all of these are 100% serious insta: @margothornberry
     location: "United States"
-    followers: 12600
-    engagement: 1100
-    commentsToLikes: 0.049325
+    followers: 12500
+    engagement: 1011
+    commentsToLikes: 0.050030
     id: ckc7tb6snxr2y0j234ern6vaz
     verified: false
-    hashtags: "#curlscheck, #safeguardsplash, #ootd, #fyp"
-  - username: "liviflips"
+    hashtags: "#greenscreen, #chicago, #foryou, #fashion"
+  - username: "groovynilo"
     fullname: >-
-      olivia romano
+      GroovyNilo
     bio: >-
-      there’s prolly hella typos my b venmo - oliviaxromano
+      Groovy Out Everywhere link in bio
     location: "United States"
-    followers: 12500
-    engagement: 926
-    commentsToLikes: 0.059175
-    id: cka0wgzwk2rym0i785nkonoc9
+    followers: 34600
+    engagement: 811
+    commentsToLikes: 0.064301
+    id: ckcehp5p9pl3b0j23jnrz5bgx
     verified: false
-    hashtags: "#tylerthecreator, #fyp, #foryou, #chicago"
+    hashtags: "#lol, #comedy, #lmao, #funny"
+  - username: "for_eva89"
+    fullname: >-
+      For-Eva
+    bio: >-
+      🇵🇷✊🏽🏳️‍🌈 Here 2 share my life Venmo:Eva_T_89 Talavera.Eva.89@gmail.com
+    location: "United States"
+    followers: 181000
+    engagement: 961
+    commentsToLikes: 0.060110
+    id: ckdhsaiop2fz30j23f0pj804k
+    verified: false
+    hashtags: "#mentalhealth, #wives, #gay, #stemlesbian"
+  - username: "laniekap"
+    fullname: >-
+      Lanie
+    bio: >-
+      21 | UofAZ
+    location: "United States"
+    followers: 17700
+    engagement: 1363
+    commentsToLikes: 0.035153
+    id: ckb93asu0jz760j23mkv7q0kb
+    verified: false
+    hashtags: "#funny, #relatable, #geicolipsync, #greenscreen"
   - username: "chlobellexx"
     fullname: >-
       chlobellexx
     bio: >-
-      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Dance | FUN!
+      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Photography 7619
     location: "United States"
-    followers: 27100
-    engagement: 866
-    commentsToLikes: 0.073780
+    followers: 30600
+    engagement: 725
+    commentsToLikes: 0.093808
     id: cka0sjq6zls1d0i78cohlipwf
     verified: false
-    hashtags: "#colorado, #ad, #chicagobucketlist, #photomagic"
-  - username: "daisyddaze"
+    hashtags: "#trendyfashion, #weddingguestoutfit, #springfashion, #trendy"
+  - username: "ketsybatschke"
     fullname: >-
-      D A Z E
+      Betsy Katschke
     bio: >-
-      dental assistant + dollar tree trips ✨ daisyolivedaze@gmail.com
+      they say I did something bad (made a tiktok) but why's it feel so good? Chicago
     location: "United States"
-    followers: 15800
-    engagement: 919
-    commentsToLikes: 0.024072
-    id: cka608pefq5ga0i78u7ujo9ey
+    followers: 24800
+    engagement: 705
+    commentsToLikes: 0.057969
+    id: ckd07a7b4aobs0j237g15st2t
     verified: false
-    hashtags: "#collegegotmelike, #doitbold, #vacation, #mexico"
-  - username: "banksburkart1"
+    hashtags: "#swifttok, #fyp, #plussize, #theloop"
+  - username: "bethereinfive"
     fullname: >-
-      Benzø
+      bethereinfive
     bio: >-
-      Hockey 🏒 Music
+      Pop culture commentator, entrepreneur, author & host of Be There in Five Podcast
     location: "United States"
-    followers: 67100
-    engagement: 1782
-    commentsToLikes: 0.011588
-    id: ck9f7ud28zxsg0j78ch6nqb6m
+    followers: 18400
+    engagement: 889
+    commentsToLikes: 0.018425
+    id: ckal65xji9gvn0i78u2z0ji6b
     verified: false
-    hashtags: "#outside, #funny, #skateboarding, #music"
-  - username: "laughlikeit"
+    hashtags: "#dolls, #election2020, #millennial, #nostalgia"
+  - username: "notyailene"
     fullname: >-
-      HiddenJewel_7
+      yailene
     bio: >-
-      📍Chicago 🌱 Vegan 💃🏽TikTok Dancer Wannabe 🤪Silly 💕 Help Me Get To 5k. 💕
+      chicago! 24 she/they
     location: "United States"
-    followers: 3751
-    engagement: 1157
-    commentsToLikes: 0.144154
-    id: ck9e3tvkcl3lb0j784jlpdm9v
+    followers: 3326
+    engagement: 1237
+    commentsToLikes: 0.097311
+    id: ckdi6v2o18iy90j23f1e1t3ay
     verified: false
-    hashtags: "#phlebotomist, #trending, #foryoupage, #plantbased"
-  - username: "jeanenesplitt"
-    fullname: >-
-      Jeanene
-    bio: >-
-      fancy seeing you here 20 🌼 follow my insta (:
-    location: "United States"
-    followers: 12800
-    engagement: 1037
-    commentsToLikes: 0.045627
-    id: ckc90i04opxr10j239wu5ijzw
-    verified: false
-    hashtags: "#colorcustomizer, #fyp, #greenscreen, #10secondsvs"
-  - username: "liveroniandcheese"
-    fullname: >-
-      Liver
-    bio: >-
-      Liv 24 🏳️‍🌈 Boston-Chicago Insta: livdellanno
-    location: "United States"
-    followers: 38300
-    engagement: 2609
-    commentsToLikes: 0.007363
-    id: ckb97t4y0qs170j23e0boa8hw
-    verified: false
-    hashtags: "#election, #queergirl, #wlw, #gays"
-  - username: "noworneverespn"
-    fullname: >-
-      NowOrNeverESPN
-    bio: >-
-      
-    location: "United States"
-    followers: 47400
-    engagement: 1175
-    commentsToLikes: 0.027323
-    id: ck8w2ch5h4sva0j78cgx2p8v7
-    verified: true
-    hashtags: "#football, #viral, #nbamoments, #futbol"
-  - username: "sesleyh"
-    fullname: >-
-      Sesley
-    bio: >-
-      23 | 🇰🇷 I cook sometimes
-    location: "United States"
-    followers: 38600
-    engagement: 1485
-    commentsToLikes: 0.011261
-    id: ckaij0vnhcx340i78kzlx3i3q
-    verified: false
-    hashtags: "#homechef, #quickrecipes, #letscook, #cookinghacks"
+    hashtags: "#fyp, #xyzbca, #catsoftiktok, #duet"
 ---

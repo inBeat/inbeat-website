@@ -1,24 +1,48 @@
 ---
-title: Top 10 Yoga TikTok Influencers In 2022
+title: Top 10 Yoga TikTok Influencers In 2023
 description: >-
-  Find top yoga TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top yoga TikTok influencers in 2023. Most popular hashtags: #fyp #yoga #foryoupage #tiktok.
 platform: TikTok
-hits: 1724
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 1724 TikTok influencers like this for you to collaborate.
+hits: 1484
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat has 1484 TikTok influencers like this for you to contact.
 profiles:
+  - username: "beatsbywaynetaylor"
+    fullname: >-
+      Andrew Halfacre
+    bio: >-
+      Been gone for a few years. Producer/Yoga Teacher @milktoastboys for funnies
+    location: "United States"
+    followers: 231900
+    engagement: 853
+    commentsToLikes: 0.115327
+    id: ckbweqypy1rdb0j23muilxbnb
+    verified: true
+    hashtags: "#duetwithme, #beat, #creator, #comedy"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
     bio: >-
       Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
     location: "United States"
-    followers: 17600
-    engagement: 1520
-    commentsToLikes: 0.182399
+    followers: 20900
+    engagement: 1212
+    commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
+    hashtags: "#cat, #catmom, #musician, #duet"
+  - username: "dalagang04"
+    fullname: >-
+      dalagang🇵🇭
+    bio: >-
+      -💕yoga❤ -29 -cebuana-filipina🇵🇭🇸🇬 💕we only die once live life evryday 💕
+    location: "Singapore"
+    followers: 37600
+    engagement: 1378
+    commentsToLikes: 0.101609
+    id: ckb9vnc7vuza70j23kxc17kjj
+    verified: false
+    hashtags: "#cebuana, #singapore, #yogagirl, #fyp"
   - username: "sonalishewale"
     fullname: >-
       Sonali Shewale 
@@ -26,23 +50,11 @@ profiles:
       Yoga Teacher, Bharatnatyam Dancer, Actor, Model
     location: "India"
     followers: 20800
-    engagement: 1296
-    commentsToLikes: 0.309681
+    engagement: 1285
+    commentsToLikes: 0.309614
     id: ck9n78apd7owf0j78sfnip8vd
     verified: false
-    hashtags: "#foryoupage, #foryou, #tiktok, #danceathome"
-  - username: "yoga_jonathon"
-    fullname: >-
-      Jonathon
-    bio: >-
-      Yoga student 🕉
-    location: "United Kingdom"
-    followers: 2166
-    engagement: 1648
-    commentsToLikes: 0.060281
-    id: ck9bznzgvntbu0j7855qrhweb
-    verified: false
-    hashtags: "#mindfulnesspractice, #onebreathatatime, #mindfulnessmeditation, #yogamen"
+    hashtags: "#foryou, #danceathome, #fyp, #foryoupage"
   - username: "enaasharma"
     fullname: >-
       enaa💖
@@ -50,81 +62,69 @@ profiles:
       (yoga insturctor)
     location: "India"
     followers: 115600
-    engagement: 1259
-    commentsToLikes: 0.041453
+    engagement: 1250
+    commentsToLikes: 0.041689
     id: ck8ozllascnzv0j78g0vgu8kr
     verified: false
-    hashtags: "#yogawithenaa, #yogagirl, #foryoupage, #tiktok"
-  - username: "dalagang04"
+    hashtags: "#yogagirl, #yogawithenaa, #yogalover, #foryoupage"
+  - username: "yoga_jonathon"
     fullname: >-
-      dalagang🇵🇭
+      Jonathon
     bio: >-
-      -yoga lover❤ -29 -cebuana-filipina🇵🇭🇸🇬 we only die once live life evryday💗
-    location: "Singapore"
-    followers: 35000
-    engagement: 1154
-    commentsToLikes: 0.061354
-    id: ckb9vnc7vuza70j23kxc17kjj
+      Yoga student 🕉
+    location: "United Kingdom"
+    followers: 2154
+    engagement: 1600
+    commentsToLikes: 0.051476
+    id: ck9bznzgvntbu0j7855qrhweb
     verified: false
-    hashtags: "#yogagirl, #fyp, #foryoupage, #cebuana"
-  - username: "katiecapecod"
-    fullname: >-
-      katiecapecod🧜🏻‍♀️
-    bio: >-
-      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
-    location: "United States"
-    followers: 7738
-    engagement: 1623
-    commentsToLikes: 0.129260
-    id: ck87u29o14tty0j78453egpae
-    verified: false
-    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
+    hashtags: "#mindfulnesspractice, #menofyoga, #yogamen, #onebreathatatime"
   - username: "desire.furnari"
     fullname: >-
       Desirè Furnari
     bio: >-
-      🏅Yoga della risata,Formatrice&MentalCoach Consigli di felicità♥️Scarica l'ebook
+      🏅Yoga della risata,Formatrice&MentalCoach Consigli di felicità❤️ Ebook gratis👇
     location: "Italy"
-    followers: 11000
-    engagement: 933
-    commentsToLikes: 0.097939
+    followers: 20100
+    engagement: 1071
+    commentsToLikes: 0.081079
     id: ckdi754w28wie0j233qbtt3ke
     verified: false
-    hashtags: "#relazioni, #catania, #buonumore, #perdono"
-  - username: "codiemarie86"
+    hashtags: "#psicologia, #catania, #coraggio, #autostima"
+  - username: "keelsmontana"
     fullname: >-
-      Coddie Adams
+      Kendall Meiller
     bio: >-
-      Wife Boy mom Autism mom Yoga teacher Music lover: it moves me & speaks to me
+      Intuitive Health Coach ✨ Energy Healer ✨ 200hr Cert. Yoga Teacher 🧘🏾‍♀️
     location: "United States"
-    followers: 11600
-    engagement: 1454
-    commentsToLikes: 0.095631
-    id: ckb9alh4avtva0j23iv10d3o7
+    followers: 21700
+    engagement: 1226
+    commentsToLikes: 0.066041
+    id: cka6nb8ybapcj0i78yg3klfvl
     verified: false
-    hashtags: "#xyzbca, #thatwitch, #musiclover, #foryou"
-  - username: "ketocrossfityogi"
+    hashtags: "#justaddbriskzero, #selflove, #emotions, #zithappens"
+  - username: "majo.sole"
     fullname: >-
-      ketocrossfityogi
+      ✨Majo Solé✨
     bio: >-
-      keto/IF junkie 🥩 yoga soul ☮️ CF athlete 💪🏼 stroke survivor 🧠
-    location: "United States"
-    followers: 6609
-    engagement: 652
-    commentsToLikes: 0.205333
-    id: ckbeyugz1jj5w0j239r4cy4tc
+      Miss de Yoga, únete a las clases en zoom 💙🧘🏻‍♀️ Mexico 💖🇲🇽 Live Dom 8pm
+    location: "Mexico"
+    followers: 411300
+    engagement: 1026
+    commentsToLikes: 0.038480
+    id: ck8fb1cc6518s0j78lhsk84zo
     verified: false
-    hashtags: "#ketones, #keto, #ketosis, #yourchoice"
-  - username: "tiffanycroww"
+    hashtags: "#soleyoga, #aprendeyoga, #yoga, #meditacion"
+  - username: "mamasolaris"
     fullname: >-
-      FatYogi
+      Sia Natara
     bio: >-
-      🧘‍♀️fat yoga teacher Mindful Tri 🎊 November 21,2020 Yoga🌀Meditate🌀Walk
+      Yoga & Meditation Teacher she/her 🏳️‍🌈
     location: "United States"
-    followers: 94600
-    engagement: 1364
-    commentsToLikes: 0.053843
-    id: ckbw8skihzagu0j2312kq7qml
+    followers: 221700
+    engagement: 1620
+    commentsToLikes: 0.029132
+    id: ckbb6hrk5wlro0j231r61ifnl
     verified: false
-    hashtags: "#yoga, #fatyoga, #sunday, #haes"
+    hashtags: "#bigchop, #astrology, #locs, #healing"
 ---

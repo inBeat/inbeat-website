@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Bogotá In 2022
+title: Top 10 Nutrition Instagram Influencers In Bogotá In 2023
 description: >-
-  Find top nutrition Instagram influencers in Bogotá in 2022. Most popular hashtags: #fit #fitness #workout #colombia.
+  Find top nutrition Instagram influencers in Bogotá in 2023. Most popular hashtags: #fit #fitness #workout #love.
 platform: Instagram
-hits: 7
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 7 Instagram influencers like this in Bogotá, Colombia for you to contact.
+hits: 5
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 5 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
 profiles:
   - username: "befit.4you"
     fullname: >-
@@ -18,67 +18,43 @@ profiles:
     commentsToLikes: 0.020061
     id: ck14k06szn2450i19wo73twqn
     verified: false
-    hashtags: "#receta, #postresaludable, #healthy, #estilodevida"
+    hashtags: "#estoxesto, #snack, #postre, #recipie"
   - username: "marianelamodel"
     fullname: >-
-      Marianela💋Ramos
+      MARIANELA | PRESENTADORA
     bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "_macs1_"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
+  - username: "camiloroanutricionista"
     fullname: >-
-      Alejandra
+      Dr. Camilo Roa® 👨🏻‍⚕️👱🏻‍♀️✍🏻
     bio: >-
-      🇨🇴🇨🇴🇲🇽🇲🇽 Deportista Colombiana🇨🇴💪 @lunashotsybirras Race Walk🏁 💪🏃🏆 UAEMex🏁🕦💻👊 Derecho Internacional👊💪💀🙌💻📃 Colombia👪💛 México💪🏃🏁💻🏆😍
+      🇨🇴🥇Nutricionista Dietista Coach 💻 Online 🌎 📞+573044713952 🇪🇸Esp.N.Deportiva y Fitness🏃🏻 🇪🇸Esp.Sobrepeso Obesidad🍴 🥗Recomposición Corporal⚙️ 🍔 Hábitos
     location: "Colombia"
-    followers: 9391
-    engagement: 750
-    commentsToLikes: 0.016045
-    id: ck8t5pouqat8a0j78rwayqnxd
+    followers: 121517
+    engagement: 102
+    commentsToLikes: 0.027509
+    id: ck8sz2favmx340j78unmqz99n
     verified: false
-    hashtags: "#running, #colombia, #fit, #futbol"
-  - username: "grow.hair_colombia"
+    hashtags: "#fitness, #nutri, #bajardepesorapido, #tonificar"
+  - username: "leococinero"
     fullname: >-
-      GROW HAIR COLOMBIA OFICIAL 💚
+      Leonardo Moran
     bio: >-
-      CABELLOS HERMOSOS Y LARGOS DISTRIBUIDOR OFICIAL @growhair_oficial ✈️Envíos nacionales COLOMBIA Atendido @marcetorfex 🛒BOGOTÁ #growhaircolombia
+      Chef y presentador 🍽👨🏻‍🍳🔪🥢 Ganador de Master Chef Colombia 2016 Embajador Adidas🥇@adidasco Contacto: lina.coralrestrepo@gmail.com
     location: "Colombia"
-    followers: 24045
-    engagement: 20
-    commentsToLikes: 0.075157
-    id: ck0ubkc9qena70i19wctswqq3
-    verified: false
-    hashtags: "#armenia, #medellin, #antioquia, #growhaircolombia"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    bio: >-
-      🌎 Online Fitness Coach ⭐️ Celebrity Personal Trainer ⚡️ Embajador @fitbitlatam 📱 Planes de entrenamiento y nutrición ⬇️ 😍 eBooks Patty & Juanse ⬇️
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
-    verified: false
-    hashtags: "#perderpeso, #gym, #fitness, #humorfit"
-  - username: "brianaceros"
-    fullname: >-
-      Brian Aceros
-    bio: >-
-      🔷️DESAFÍO SUPER REGIONES 2019 🔷️Modelo Fitness, Línea de ropa @acerosworkout 🥗🥦🍅Instructor DIETA 2 SEMANAS🍅🥦🥗 ⬇️⬇️DESCARGA TU DIETA⬇️⬇️
-    location: "Colombia"
-    followers: 17575
-    engagement: 189
-    commentsToLikes: 0.014863
-    id: ckf5uc22akc360j23mvemqqlo
-    verified: false
-    hashtags: "#motivation, #getfit, #fitnessgirl, #gymlife"
+    followers: 211033
+    engagement: 71
+    commentsToLikes: 0.036990
+    id: ck136xdv48qa10i19fm2liv12
+    verified: true
+    hashtags: "#bienestar, #chefinstagram, #chefplateform, #alimentacionsaludable"
   - username: "calicolfit"
     fullname: >-
       LUZ MARINA GARCIA A 🐼🦄
@@ -90,41 +66,65 @@ profiles:
     commentsToLikes: 0.048433
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#love, #fitness, #fit, #vibes"
-  - username: "reikin.herrera"
+    hashtags: "#home, #workout, #cale, #legs"
+  - username: "cristinaflorez_"
     fullname: >-
-      REIKIN HERRERA  CUENTA OFICIAL
+      🎨CRISTINA🎨
     bio: >-
-      Participante @guerreroscolombia Ganador del @desafiocaracol 🏆 Nutrición y Entrenamiento Mis suplementos @cerete_nutrition Adquiérelos en mi página
+      🇨🇴Colombiana🇵🇷Boricua 💃🏽Dancer🎥Actress✍🏽Poet/Writer 🎹 I❤️to sing 💥Women’s Empowerment 🥒Nutrition/Psych/Biochem Grad📚
     location: "Colombia"
-    followers: 94056
-    engagement: 278
-    commentsToLikes: 0.015224
-    id: ck6tuwk7oitvb0j711uc2vqfx
+    followers: 2399
+    engagement: 829
+    commentsToLikes: 0.155789
+    id: ck13avifbsebo0i190xkzz888
     verified: false
-    hashtags: "#rh90, #recomposicioncorporal"
+    hashtags: "#poet, #losangeles, #love, #choreography"
   - username: "yesitrainer"
     fullname: >-
       Yesi Morales
     bio: >-
-      FITNESS & NUTRITION COACH Online coaching Mi tienda @fittrainerstore 🔘 @mercadeo.celpromax
+      FITNESS & NUTRITION COACH Aquí te dan ganas de entrenar 💪🏻🔥 Online coaching Mi tienda @fittrainerstore 💚🖤 📍Cali . Colombia @mercadeo.celpromax
     location: "Colombia"
-    followers: 318657
-    engagement: 62
-    commentsToLikes: 0.022547
+    followers: 318243
+    engagement: 80
+    commentsToLikes: 0.024620
     id: ck5c7li647r3z0i11tjo895ey
     verified: false
-    hashtags: "#workout, #booty, #yesitrainerfactory, #yesitrainer"
+    hashtags: "#yesitrainerfactory, #workout, #training, #viernes"
+  - username: "paulinaortizj"
+    fullname: >-
+      P A U L I N A • O R T I Z
+    bio: >-
+      Viniste a ser feliz. Health Coach @nutritionschool Jiujitsu @fightsportsmiami 23 • 🇨🇴 Colombian
+    location: "Colombia"
+    followers: 12581
+    engagement: 550
+    commentsToLikes: 0.014782
+    id: ck5cb0sidei1g0i11xfkaz9h9
+    verified: false
+    hashtags: "#jiujitsulifestyle, #ibjjfgirls, #absworkouts, #motivation"
   - username: "anasantafit"
     fullname: >-
       Ana Santa Fitness & Lifestyle
     bio: >-
-      Certified Fitness Nutrition Specialist 🍫 @chacha.colombia Contacto@anasantafit.com 🎬 vídeos de YouTube 🚩⬇️
+      Certified Fitness Nutrition Specialist 🍫 @chacha.colombia Contacto@anasantafit.com 🥑Reto #4semanascomiendobien 🚩⬇️
     location: "Colombia"
-    followers: 63764
-    engagement: 106
-    commentsToLikes: 0.082585
+    followers: 68769
+    engagement: 125
+    commentsToLikes: 0.085066
     id: ck14ifzwkf7mv0i194s50fxu1
     verified: false
-    hashtags: "#delisaludstyle, #healthychoices, #saschafitness, #75hard"
+    hashtags: "#4semanascomiendobien, #healthy, #recetasaschafitness, #healthyrecipe"
+  - username: "cmanriquet"
+    fullname: >-
+      Carolina Manrique Tejedor⭐️
+    bio: >-
+      🇨🇴 COLOMBIANA COACHING ONLINE NEGOCIOS Y MARCAS: cmora@reachoutla.com Certified Personal trainer Certified sports Nutritionist
+    location: "Colombia"
+    followers: 229435
+    engagement: 225
+    commentsToLikes: 0.017566
+    id: ck14k07gln25v0i19mf523ngd
+    verified: false
+    hashtags: "#vals, #pandora, #arm, #cardioworkout"
 ---

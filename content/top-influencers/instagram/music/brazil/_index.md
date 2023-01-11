@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Brazil In 2022
+title: Top 10 Music Instagram Influencers In Brazil In 2023
 description: >-
-  Find top music Instagram influencers in Brazil in 2022. Most popular hashtags: #video #like4likes #longhairmanstyle.
+  Find top music Instagram influencers in Brazil in 2023. Most popular hashtags: #musica #trap #voz.
 platform: Instagram
-hits: 4262
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 4262 Instagram influencers like this in Brazil for you to pitch.
+hits: 4145
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 4145 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "silvillan"
+  - username: "taina"
     fullname: >-
-      Sílvillan Douglas
+      Tainá Costa
     bio: >-
-      a m e ✊🏾 • educação física📕 • gaibu/b13 PE 📍 • música • dança • natureza • 📌
+      🐦 Twitter: eutainacosta 📬 @showdatai CONFIRA MÚSICA NOVA LOVEZINHO, AQUI👇🏼
     location: "Brazil"
-    followers: 2976
-    engagement: 2298
-    commentsToLikes: 0.124737
-    id: ck5qbr830n0f90i11iwekkgz2
-    verified: false
-    hashtags: ""
-  - username: "larasilva"
-    fullname: >-
-      Lara Silva 🔥
-    bio: >-
-      🔂 twitter: @arrobalarasilva 🎤 Contrate: (11) 97200-1838 📞 Publi: 11 9 7511-6976 👇🏻 música nova 👇🏻
-    location: "Brazil"
-    followers: 7650027
-    engagement: 1673
-    commentsToLikes: 0.484112
-    id: ck13465p8uwfl0i195nh2ytyt
-    verified: false
-    hashtags: "#fiquedivacomniely, #escudoprotetore, #novagerac, #ad"
-  - username: "djfabriciorodriguess"
-    fullname: >-
-      DJ • ғᴀʙʀíᴄɪᴏ ʀᴏᴅʀɪɢᴜᴇs
-    bio: >-
-      ASSISTA OS STORIES 🔥 Sempre é Tempo para um novo recomeço ♥️ Music 🎶 I love ♥️ Funk Contrate • Publicidade e Shows 📲👇🏼
-    location: "Brazil"
-    followers: 123318
-    engagement: 1303
-    commentsToLikes: 6.107932
-    id: ckapcp7bg4n8o0i78h5eyy77w
-    verified: false
-    hashtags: "#humor, #explorar, #riodejaneiro, #copacabana"
-  - username: "escariao"
-    fullname: >-
-      E S C A R I Ã O 🦎
-    bio: >-
-      Content Creator • LGBTQ • Music 📍 Brasília 📩 contatoescariao@gmail.com 👇🏼 Vídeo Novo
-    location: "Brazil"
-    followers: 389333
-    engagement: 667
-    commentsToLikes: 0.029845
-    id: ck0vwc33vt1760i192lc4irxx
+    followers: 16329051
+    engagement: 650
+    commentsToLikes: 0.008599
+    id: ck0vz6p5n7kwi0i19ib9icvma
     verified: true
-    hashtags: "#agregadas, #gooddaybadday, #asksi"
+    hashtags: "#fusioncapudocup2021, #desxcontovigoroso, #lovezinho"
+  - username: "killatk"
+    fullname: >-
+      KILLA
+    bio: >-
+      先端技術．darkstar 🌐 music producer/DJ . @dm7group KWIZ RMX OUT NOW . @blackout.records . @cuervo.supply #killatk
+    location: "Brazil"
+    followers: 146489
+    engagement: 880
+    commentsToLikes: 0.011848
+    id: ck134smozy00y0i19ygfaxgo5
+    verified: true
+    hashtags: "#darkpsy, #moshpit, #killatk, #psytrance"
+  - username: "javierhalamadrid"
+    fullname: >-
+      Javier Hala Madrid
+    bio: >-
+      Video Creator y Músico 📩: Javierito321@Outlook.com 🐦 Twitter: Javierito321 👇🏻 REGISTRATE AQUI
+    location: "Brazil"
+    followers: 4424154
+    engagement: 194
+    commentsToLikes: 0.043527
+    id: ck14lgn72ukok0i197wc7if01
+    verified: true
+    hashtags: "#worldcup, #policiadeqatar, #bebezziiitaaaaa, #compa"
+  - username: "victu_sl"
+    fullname: >-
+      Victú $L
+    bio: >-
+      • Pagina face: Victu SL 🔵 • Tiktok: @victu_sl ⚫ • Twitter: SlVictu 🔵 Música nova: CORAL COM OS LOBOS 👇🏽🐺
+    location: "Brazil"
+    followers: 10100
+    engagement: 1539
+    commentsToLikes: 0.118356
+    id: ck9wdnsl7gfn60j788gq8pc07
+    verified: false
+    hashtags: "#trap, #musica, #rells, #cor"
+  - username: "ericricardooficial"
+    fullname: >-
+      Eric Ricardo
+    bio: >-
+      •Mais de 250mil streams em “Hora de Aventura” •Novo Lançamento “ Oração “ no YouTube Link da música a baixo 👇🏽🙏🏾
+    location: "Brazil"
+    followers: 19602
+    engagement: 901
+    commentsToLikes: 0.107417
+    id: ckap2g5ybyorh0i781gz3rhby
+    verified: false
+    hashtags: "#rapnacional, #trapmusic, #matue30, #trap"
+  - username: "miichelemota"
+    fullname: >-
+      Michele Mota 🎙️
+    bio: >-
+      🎶 | Em caso de estresse, ouça música! 📍 | Minas Gerais 💌 | Parcerias/Direct
+    location: "Brazil"
+    followers: 7445
+    engagement: 1566
+    commentsToLikes: 0.621768
+    id: ck9ha8kjxbkjr0j786svhgazk
+    verified: false
+    hashtags: "#sertanejo, #instagram, #fotos, #tumbrlfoto"
+  - username: "rafaelasneves"
+    fullname: >-
+      Rafaela Neves
+    bio: >-
+      Cantora Música • Lifestyle • ♥️ 📩 contato@rafaelaneves.com.br • youtube e assessoria ⬇️
+    location: "Brazil"
+    followers: 81458
+    engagement: 1441
+    commentsToLikes: 0.044234
+    id: ck0u1f0iuwm1k0i195lruuytx
+    verified: false
+    hashtags: "#tbt"
+  - username: "bi_xarte"
+    fullname: >-
+      Bianca Manicongo
+    bio: >-
+      Campeã da @fluprj 2020 Campeã do festival de música da Paraíba 2020 📫: contatobixarte@gmail.com 📫: imprensabixarte@gmail.com
+    location: "Brazil"
+    followers: 192899
+    engagement: 1087
+    commentsToLikes: 0.034787
+    id: ck5cdj5g3j9gp0i11vau94bb0
+    verified: false
+    hashtags: "#defendaosus, #travesti, #osus"
   - username: "chrisleao"
     fullname: >-
       Chris Leão
     bio: >-
-      𝗔𝗦𝗦𝗜𝗦𝗧𝗔 𝗢𝗦 𝗦𝗧𝗢𝗥𝗜𝗘𝗦 👀🤪 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ARTISTA DA KONDZILLA RECORDS músico/DJ/produtor Contrate: (51) 982429107
+      𝗔𝗦𝗦𝗜𝗦𝗧𝗔 𝗢𝗦 𝗦𝗧𝗢𝗥𝗜𝗘𝗦 👀 ARTISTA DA KONDZILLA RECORDS músico/DJ/produtor Patrocinar meus sorteios? 👉🏻 @sorteiode_premios
     location: "Brazil"
-    followers: 1794926
-    engagement: 3391
-    commentsToLikes: 13.215921
+    followers: 1938160
+    engagement: 2774
+    commentsToLikes: 12.335480
     id: ck6tmqwo28cu90j71zgs6qqoo
     verified: true
+    hashtags: "#felizanonovo, #happynewyear"
+  - username: "niccolerodrigues"
+    fullname: >-
+      niccole rodrigues 🍑
+    bio: >-
+      Artista de Funk 🎤 @nicreservaa | PUBLI/SHOWS (85) 996616735 SAIU MÚSICA NOVA ⤵️
+    location: "Brazil"
+    followers: 367523
+    engagement: 1243
+    commentsToLikes: 0.108758
+    id: ck9wh78qgwkvs0j78ymv81n9i
+    verified: false
     hashtags: ""
-  - username: "joao__smith"
-    fullname: >-
-      João Smith 💸
-    bio: >-
-      • Freestyle || Lifestyle 💸 || Músic 🎙 If you believe, then you can do it, just look at me !! [parceria via direct]
-    location: "Brazil"
-    followers: 6721
-    engagement: 2185
-    commentsToLikes: 0.267322
-    id: ckaovywb56ozf0i78tk8jyff2
-    verified: false
-    hashtags: "#negrosestilosos, #negrosoccidental, #negroslindos, #pretosnotopo"
-  - username: "djgabicavallin"
-    fullname: >-
-      Gabi Cavallin
-    bio: >-
-      @gr6explodeoriginal GR6 EXPLODE • Shows: 11 983996115 DOUGLAS + De 3 milhões de acessos nas músicas
-    location: "Brazil"
-    followers: 109759
-    engagement: 860
-    commentsToLikes: 0.582732
-    id: ck6018dr1f0zp0i14hv0dqz42
-    verified: false
-    hashtags: "#fiquemecasa, #tiktok, #wiggle"
-  - username: "djannaghellere"
-    fullname: >-
-      #elapode ✨
-    bio: >-
-      DJ DE TRAP E FUNK #rexpeitaamarrenta #elapode ⚠️ @psentretenimento CONTATO PARA SHOWS: 📲 (21) 99242-0468 📲 (21) 98869-1167 ⚠️ OUÇA MINHA MUSICA ⬇️
-    location: "Brazil"
-    followers: 28615
-    engagement: 815
-    commentsToLikes: 0.338555
-    id: ck6tthn3uanov0j71ecpnkhi8
-    verified: false
-    hashtags: "#reelsinstagram, #toma, #luisasonza, #lu"
-  - username: "tarzan.ofc"
-    fullname: >-
-      Anderson Gómez
-    bio: >-
-      💎• Modelo de eventos📌 🎓• Biomedicina @atleticabiomed9👨‍🔬 🕶• Ator Teatro musical @projeto_xiquete💜 🏋️‍♂️•Musculação @shape_alfa_omega 📲Parcerias Pvd
-    location: "Brazil"
-    followers: 7377
-    engagement: 1211
-    commentsToLikes: 0.117779
-    id: ckap8dg30nud50i78pntc6tlu
-    verified: false
-    hashtags: "#longhairmen, #cabeludosdoale, #homemcabeludo, #longhairmanstyle"
-  - username: "reiroberto.carlos"
-    fullname: >-
-      𝐑𝐨𝐛𝐞𝐫𝐭𝐨 𝐂𝐚𝐫𝐥𝐨𝐬
-    bio: >-
-      🎤Fã clube dedicado ao rei Roberto Carlos 🎤"O importante é que emoções eu vivi" 🎤Rei da música🎶 e das mulheres👩 🎤Conta NÃO oficial
-    location: "Brazil"
-    followers: 18088
-    engagement: 820
-    commentsToLikes: 0.115295
-    id: ck9whfsv5xnmi0j78lcaq7kx9
-    verified: false
-    hashtags: "#like4likes, #saudades, #follow4followback, #fundodoba"
 ---

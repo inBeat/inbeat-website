@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Busan In 2022
+title: Top 10 Models Instagram Influencers In Busan in 2023
 description: >-
-  Find top models Instagram influencers in Busan in 2022. Most popular hashtags: #busan #model #korea.
+  Find top models Instagram influencers in Busan in 2023. Most popular hashtags: #busan #model #korea.
 platform: Instagram
 hits: 5
 text_top: Discover the most popular Instagram influencers on inBeat.

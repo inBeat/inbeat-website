@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Canada In 2022
+title: Top 10 Painters Instagram Influencers In Canada In 2023
 description: >-
-  Find top painters Instagram influencers in Canada in 2022. Most popular hashtags: #makeup #creativemakeup #bodypaint.
+  Find top painters Instagram influencers in Canada in 2023. Most popular hashtags: #art #makeup #oilpaint #femaleartist.
 platform: Instagram
-hits: 164
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 164 Instagram influencers like this in Canada for you to collaborate.
+hits: 98
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 98 Instagram influencers like this in Canada for you to contact.
 profiles:
   - username: "michellenicoletiley"
     fullname: >-
@@ -13,33 +13,33 @@ profiles:
     bio: >-
       Writer, Painter, Pagan 🍃 Völva 🍂 Animal Lover, Bibliophile, Poetry 📜 Ambassador @thegrimfrost ⚔️ Newfoundland, Canada ❄️
     location: "Canada"
-    followers: 17213
-    engagement: 1046
-    commentsToLikes: 0.056878
+    followers: 21291
+    engagement: 649
+    commentsToLikes: 0.066350
     id: ck9hbc2swg7zn0j78xt0d9dus
     verified: false
-    hashtags: "#blonde, #norsepagan, #trollcross, #gothic"
+    hashtags: "#advancedselfie, #gothaesthetic, #spirituality, #valhalla"
   - username: "laurakalmakoff"
     fullname: >-
       Laura
     bio: >-
       abstract editorial face painter / vancouver, canada / lauraleekalmakoff@gmail.com
     location: "Canada"
-    followers: 83913
-    engagement: 475
-    commentsToLikes: 0.012478
+    followers: 81056
+    engagement: 428
+    commentsToLikes: 0.012751
     id: ck5hjm2ergv3h0i11m4ahs881
     verified: false
-    hashtags: "#spooky, #makeupart, #abstractmakeup, #avantegarde"
+    hashtags: "#abstractmakeup, #halloween, #editorial, #motd"
   - username: "brianne_williams_artist"
     fullname: >-
       Brianne Williams
     bio: >-
-      Oil Painter Lover of Water and Reflections Raised in Nova Scotia ⚓️ Based in Toronto, Canada 🇨🇦
+      Oil Painter Lover of Water and Reflections Nova Scotia ⚓️ Canada 🇨🇦
     location: "Canada"
-    followers: 39081
-    engagement: 1035
-    commentsToLikes: 0.070808
+    followers: 52760
+    engagement: 538
+    commentsToLikes: 0.058586
     id: ck14gtpda6z7g0i19v1zkuyaj
     verified: false
     hashtags: ""
@@ -47,84 +47,84 @@ profiles:
     fullname: >-
       Vanessa Ramzieh🦋
     bio: >-
-      📍boston • she/her 🇵🇹🇱🇧 • BLACK LIVES MATTER • body painter I merch girl •tik tok: anactressatheart • PR Inquires: Email
+      📍boston she/her 🇵🇹🇱🇧 • BLACK LIVES MATTER •pfp by: @jasondreamsstuff • body painter I merch girl •tik tok: anactressatheart • PR Inquires email only
     location: "Canada"
-    followers: 31524
-    engagement: 231
-    commentsToLikes: 0.040600
+    followers: 31052
+    engagement: 198
+    commentsToLikes: 0.060535
     id: ck0w1zxtclyo80i19reib1emr
     verified: false
-    hashtags: "#bodypainting, #nyxcosmetics, #mehronmakeup, #mehronparadise"
-  - username: "mrphoenixgrey"
-    fullname: >-
-      Phoenix Ørion Grey
-    bio: >-
-      Artist | Painter | Designer | Model | Asgardian • Open for commissions
-    location: "Canada"
-    followers: 37319
-    engagement: 187
-    commentsToLikes: 0.037681
-    id: ckf5l0v4enxuu0j235dc1iy5e
-    verified: false
-    hashtags: "#comeasyouare"
-  - username: "katharine_burns_art"
-    fullname: >-
-      Katharine Burns
-    bio: >-
-      Oil Painter 🌊 Nova Scotia 🇨🇦 Representation: @james.baird.gallery @abbozzogallery
-    location: "Canada"
-    followers: 46150
-    engagement: 920
-    commentsToLikes: 0.030542
-    id: ck0ty8ysvlyw30i19hqihdjha
-    verified: false
-    hashtags: "#inthestudio, #oceanart, #create, #wip"
+    hashtags: "#freddiemercury, #morphebabe, #mehron, #bodypaint"
   - username: "charlieeaston"
     fullname: >-
       Charlie Easton: Artist
     bio: >-
       Outdoor landscape painter and explorer ✉️ charlie@charlieeaston.com 📌 based in Vancouver, Canada Links to things I mention here:
     location: "Canada"
-    followers: 8921
-    engagement: 1120
-    commentsToLikes: 0.058076
+    followers: 11325
+    engagement: 849
+    commentsToLikes: 0.045893
     id: ck8t7hwqagv730j78redvkpt5
     verified: false
-    hashtags: "#lakelouise, #smokysun, #vancouverisawesome, #trespassingforart"
-  - username: "rycrotty"
+    hashtags: "#prairieskies, #outdoorpainter, #pleinair, #outdoorpainting"
+  - username: "lauren_mycroft"
     fullname: >-
-      Ryan Crotty
+      Lauren Mycroft Art
     bio: >-
-      Artist - Painter “SpringSprung” @marqueeprojects 3/21-4/19 “Myriad” @robertsonaresgallery 4/17-5/9
+      Painter | Victoria BC | No longer taking commissions
     location: "Canada"
-    followers: 5186
-    engagement: 1718
-    commentsToLikes: 0.032816
-    id: ck0w2sg83pyhh0i195xgad9n2
+    followers: 27684
+    engagement: 599
+    commentsToLikes: 0.081248
+    id: ck8t1l6ozw6jg0j78234kayph
     verified: false
-    hashtags: ""
-  - username: "reganjohnston_"
+    hashtags: "#canadianpainter, #femaleartist, #modernart, #art"
+  - username: "katharine_burns_art"
     fullname: >-
-      Regan Johnston
+      Katharine Burns
     bio: >-
-      Canadian painter 🎨 Exploring the wilderness 🏔 Raising awareness with art to protect wildlife and the places they call home 🌱 #reganxchrista
+      Oil Painter 🌊 Representation: @james.baird.gallery @abbozzogallery
     location: "Canada"
-    followers: 15215
-    engagement: 624
-    commentsToLikes: 0.064417
-    id: ck0tw30w2dt060i19hmr8hp77
+    followers: 57774
+    engagement: 471
+    commentsToLikes: 0.028363
+    id: ck0ty8ysvlyw30i19hqihdjha
     verified: false
-    hashtags: "#reganxchrista"
-  - username: "expressionbynada"
+    hashtags: "#oceanart, #painting, #iceberg, #femaleartist"
+  - username: "jeffdillonfineart"
     fullname: >-
-      ✨Expression By Nada✨
+      Jeff Dillon Fine Art
     bio: >-
-      🌻 Fine Art by Nada Khatib 🌸 Professional Palette Knife Painter 🌱Sharing Process, Journey & Inspiration 🤍Art Educator + Classes 👇🏽 Website
+      Professional Canadian Artist/ Painter of Wildlife, Landscapes & Urban. Original Paintings & Limited Edition Prints. 🎨 My Links Below...
     location: "Canada"
-    followers: 101411
-    engagement: 311
-    commentsToLikes: 0.031283
-    id: ck0ud0s9vi2g40i1928k40qx8
+    followers: 33257
+    engagement: 425
+    commentsToLikes: 0.041262
+    id: ck8sycxeqkguo0j784lfz9bju
     verified: false
-    hashtags: "#paletteknifepainting, #acrylicart, #originalartwork, #natureart"
+    hashtags: "#artist, #canadianart, #canada, #livelife"
+  - username: "nogobed"
+    fullname: >-
+      Shanna Van Maurik
+    bio: >-
+      🌸Toronto🌸based🌸painter🌸 ☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️ ✨ ᶜᵒᵗᵗᵒⁿ ᶜᵃⁿᵈʸ ᶠᵉᵛᵉʳ ᵈʳᵉᵃᵐˢ ✨ 💕🕷🍄ᴼʳⁱᵍⁱⁿᵃˡˢ & ᵖ ʳ ⁱⁿᵗˢ 🕸🐍💕
+    location: "Canada"
+    followers: 225041
+    engagement: 358
+    commentsToLikes: 0.003992
+    id: ckapac1qnvhx00i78r11exo6h
+    verified: false
+    hashtags: "#oilpainting, #oilpaint, #wip, #thejunction"
+  - username: "sarahdelaneyart"
+    fullname: >-
+      S A R A H   D E L A N E Y
+    bio: >-
+      painter/ 〰 ⋒ child of the earth based in vancouver, bc
+    location: "Canada"
+    followers: 41874
+    engagement: 178
+    commentsToLikes: 0.014963
+    id: ck0u6yfei3a9z0i19zjm77oj3
+    verified: false
+    hashtags: "#storyofagirl, #sarahdelaney"
 ---

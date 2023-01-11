@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Italy In 2022
+title: Top 10 Yoga TikTok Influencers In Italy In 2023
 description: >-
-  Find top yoga TikTok influencers in Italy in 2022. Most popular hashtags: #perte #yoga #viral #foryou.
+  Find top yoga TikTok influencers in Italy in 2023. Most popular hashtags: #yoga #perte #fitness #sport.
 platform: TikTok
-hits: 13
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in Italy for you to work with.
+hits: 12
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "desire.furnari"
     fullname: >-
       Desirè Furnari
     bio: >-
-      🏅Yoga della risata,Formatrice&MentalCoach Consigli di felicità♥️Scarica l'ebook
+      🏅Yoga della risata,Formatrice&MentalCoach Consigli di felicità❤️ Ebook gratis👇
     location: "Italy"
-    followers: 11000
-    engagement: 933
-    commentsToLikes: 0.097939
+    followers: 20100
+    engagement: 1071
+    commentsToLikes: 0.081079
     id: ckdi754w28wie0j233qbtt3ke
     verified: false
-    hashtags: "#relazioni, #catania, #buonumore, #perdono"
+    hashtags: "#psicologia, #catania, #coraggio, #autostima"
   - username: "elesalvucci"
     fullname: >-
       elesalvucci
     bio: >-
       Yoga for the soul 🤸🏻‍♀️♥️ Lyra for the spirit ⭕🤎 Online classes 💻 Italy 🇮🇹
     location: "Italy"
-    followers: 25200
-    engagement: 1122
-    commentsToLikes: 0.024307
+    followers: 32300
+    engagement: 712
+    commentsToLikes: 0.043164
     id: ck8z12kj704020j78k62x1iza
     verified: false
-    hashtags: "#spaccata, #lyrahoop, #lyra, #sassari"
-  - username: "vanityfairitalia"
+    hashtags: "#yoga, #lyrahoop, #spaccata, #aerialgirl"
+  - username: "marcodelia"
     fullname: >-
-      Vanity Fair Italia
+      Marco D'Elia
     bio: >-
-      Siamo una rivista 🗞 un giornale online📱 e molto altro ✨💕
+      🇮🇹 Mister World Italy 🇮🇹 Model / Actor YouTuber Self-Development / Self Care
     location: "Italy"
-    followers: 64500
-    engagement: 788
-    commentsToLikes: 0.012004
-    id: ck97ylpk700jw0j78en8r3k4o
+    followers: 211600
+    engagement: 855
+    commentsToLikes: 0.050271
+    id: ck9fmcyirsqgw0j782dagw1ji
+    verified: false
+    hashtags: "#duet, #yoga, #foryou, #nature"
+  - username: "behrangyoga"
+    fullname: >-
+      Behrang Danesh Eshraghi 
+    bio: >-
+      www.behrangyoga.com
+    location: "Italy"
+    followers: 709200
+    engagement: 381
+    commentsToLikes: 0.018686
+    id: ck9by4cmwmxn30j78emf4rq14
     verified: true
-    hashtags: "#moda, #2rise, #mfw, #hair"
+    hashtags: "#tiktokitaliasport, #yogatime, #roma, #tiktokyoga"
+  - username: "filiblue"
+    fullname: >-
+      𝓞𝓽𝓽𝓪𝓿𝓲𝓪 ❤🐴
+    bio: >-
+      Ottavia💚 Horse🐴 Dogs🐶 Ambassador: Akhal Teke🍪 Per collaborazioni scrivete ⬇️
+    location: "Italy"
+    followers: 40800
+    engagement: 1757
+    commentsToLikes: 0.017610
+    id: ckbfak8uy21a10j232smv2g5d
+    verified: false
+    hashtags: "#psi, #fili, #horsegirl, #maneggio"
   - username: "laurablitzz"
     fullname: >-
       Laura Braccio
     bio: >-
       Calisthenics girl 🤸🏼 Personal trainer 🍑🧘🏼‍♀️
     location: "Italy"
-    followers: 18300
-    engagement: 1368
-    commentsToLikes: 0.024063
+    followers: 18200
+    engagement: 1229
+    commentsToLikes: 0.019541
     id: ck8zbe6dm54v90j78672rubpg
     verified: false
-    hashtags: "#calisthenics, #sport, #ringmuscleup, #gym"
-  - username: "alessioturturici"
+    hashtags: "#ringmuscleup, #sport, #muscleup, #handstand"
+  - username: "jue_ss"
     fullname: >-
-      Alessio Turturici
+      Jessica Terlizzi
     bio: >-
-      COMIC, EMOJI, GIOCHI, EFFETTI 🧑‍🏫 LIVE: Sabato ore 15/15.30 📲
+      nella vita: recito, chiedo il segno zodiacale e faccio collane con i cristalli🧿
     location: "Italy"
-    followers: 41100
-    engagement: 729
-    commentsToLikes: 0.047791
-    id: ckcdw7epdfipi0j23fkg4nyc3
+    followers: 17500
+    engagement: 933
+    commentsToLikes: 0.059515
+    id: ck9nfovyuel2h0j780qamn2x0
     verified: false
-    hashtags: "#emoji, #adessomidiverto, #comic, #gioco"
-  - username: "pietro_morello"
+    hashtags: "#ledlights, #trend, #xyzbca, #crystal"
+  - username: "raoulswingorchestra"
     fullname: >-
-      Pietro Morello
+      RaoulSwingOrchestra
     bio: >-
-      Ciao! Sono Pietro e amo suonare! (Ogni tanto faccio arrabbiare i miei vicini)😂
+      Speaker Radio Kiss Kiss Doppiatore Rai, National Geographic, Discovery , Sky
     location: "Italy"
-    followers: 659800
-    engagement: 2124
-    commentsToLikes: 0.007951
-    id: ckc3ebqxkzu620j23o241m148
+    followers: 164500
+    engagement: 761
+    commentsToLikes: 0.027605
+    id: ckc8d2qga8tyf0j23j36na4r2
     verified: false
-    hashtags: "#music, #viral, #piano, #bighands"
-  - username: "sissifacose"
+    hashtags: "#foryou, #recitare, #doppiatore, #dizioneitaliana"
+  - username: "amazing_fit.people"
     fullname: >-
-      Sissi Fa Cose
+      Amazing People 💪🔥
     bio: >-
-      YOLO❤️ Humor and a healthy life 😊 Sport:#sissifasport Food:#sissifacibo
+      instagram: @amazing.fit.people TARGET: 20k🔥🎯
     location: "Italy"
-    followers: 3290
-    engagement: 335
-    commentsToLikes: 0.069037
-    id: ckdbqzqr1bzb40j23igguxv4i
+    followers: 16700
+    engagement: 1252
+    commentsToLikes: 0.015655
+    id: ckc1xipkr1ei00j23pznc5ocv
     verified: false
-    hashtags: "#corsica, #sardegna, #equilibrio, #sissifasport"
-  - username: "russooo_25"
-    fullname: >-
-      Alex
-    bio: >-
-      Roma❤️ 18 anni🔞
-    location: "Italy"
-    followers: 20000
-    engagement: 1553
-    commentsToLikes: 0.018712
-    id: ck8vt35rwf3b70j780et616nj
-    verified: false
-    hashtags: "#perte, #stupidcat, #cat, #viral"
+    hashtags: "#fitness, #flip, #sports, #gymnastics"
   - username: "francescacolomboofficial"
     fullname: >-
       Francesca Colombo
     bio: >-
       IG:@francescacolomboofficial ➡️ @50sfumaturedioutfit Www.50sfumaturedioutfit.com
     location: "Italy"
-    followers: 11800
-    engagement: 443
-    commentsToLikes: 0.048554
+    followers: 11700
+    engagement: 440
+    commentsToLikes: 0.049139
     id: ck7zoz37fml1u0j78y41sakll
     verified: false
-    hashtags: "#comicit, #italy, #perte, #neiperte"
-  - username: "axelmarilyn"
-    fullname: >-
-      Axel
-    bio: >-
-      FOLLOW ME ON INSTAGRAM 🥰⬇️ Discount code MYPROTEIN in bio 👇🏼
-    location: "Italy"
-    followers: 41900
-    engagement: 775
-    commentsToLikes: 0.009720
-    id: ck9re33f70k1b0j782fct90a5
-    verified: false
-    hashtags: "#calisthenics, #gym, #foryou, #circus"
+    hashtags: "#cat, #viral, #kitten, #attrice"
 ---

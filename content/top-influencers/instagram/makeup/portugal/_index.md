@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Portugal In 2022
+title: Top 10 Makeup Instagram Influencers In Portugal In 2023
 description: >-
-  Find top makeup Instagram influencers in Portugal in 2022. Most popular hashtags: #makeup #makeupartist #halloween #makeuptutorial.
+  Find top makeup Instagram influencers in Portugal in 2023. Most popular hashtags: #makeup #fashion #ootd #makeupartist.
 platform: Instagram
-hits: 135
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 135 Instagram influencers like this in Portugal for you to pitch.
+hits: 54
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 54 Instagram influencers like this in Portugal for you to connect with.
 profiles:
   - username: "mr.andre.fernandes"
     fullname: >-
       André 🎨
     bio: >-
-      💋 Makeup Artist (DM for info) 📍 Lisboa | Portugal 📧 afgfernandes@gmail.com 📺 ÚLTIMO VÍDEO ⤵️
+      💋 Makeup Artist (DM for info) 📮 Digital & Brands: @wowmeagency 📧 afgfernandes@gmail.com 🏷 Código Lookfantastic: MRANDRE 📺 ÚLTIMO VÍDEO ⤵️
     location: "Portugal"
-    followers: 10137
-    engagement: 2558
-    commentsToLikes: 0.903432
+    followers: 16874
+    engagement: 810
+    commentsToLikes: 0.401918
     id: ck8tduw344uvg0j78zgfznyqt
     verified: false
-    hashtags: "#katyperry, #malemua, #pastelmakeup, #nyxcosmetics"
-  - username: "miss_tet"
-    fullname: >-
-      Teresa Lemos
-    bio: >-
-      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
-    location: "Portugal"
-    followers: 27624
-    engagement: 2192
-    commentsToLikes: 0.114470
-    id: ck55oexap88090i11kxq4k55q
-    verified: false
-    hashtags: "#sunnyday, #summer, #smile, #alegria"
-  - username: "joanamoreira_makeup"
-    fullname: >-
-      Joana Moreira_makeup
-    bio: >-
-      Beauty Makeup Artist 🇵🇹// Lisbon Celebrity / Beauty / Campaign / Brides Tutoriais aos Sábados 🙌🏼
-    location: "Portugal"
-    followers: 25130
-    engagement: 434
-    commentsToLikes: 0.122618
-    id: ck9h9qk9x9kew0j78npxs9q1j
-    verified: false
-    hashtags: "#makeuplisbon, #makeupartistlisbon, #makeupportugal, #makeuplisboa"
-  - username: "marisamarquesg"
-    fullname: >-
-      MarisaMarques•Beauty&Lifestyle
-    bio: >-
-      Marisa Marques Makeup • Beauty • Lifestyle Uma Minhota no Algarve Pro makeup Artist➡️ @marisamarquesbeauty Glitter & Pizza Blog
-    location: "Portugal"
-    followers: 28318
-    engagement: 359
-    commentsToLikes: 0.231121
-    id: ck9hbyhe0izl00j78d5vq088d
-    verified: false
-    hashtags: "#beauty, #portugal, #staysafe, #misssummer"
-  - username: "aanacmcosta"
-    fullname: >-
-      Aɴᴀ Cᴏsᴛᴀ
-    bio: >-
-      🤍 Fashion, Beauty & Lifestyle 🤍 Makeup Artist account: @aanacostamakeupp
-    location: "Portugal"
-    followers: 7447
-    engagement: 879
-    commentsToLikes: 0.075482
-    id: ckaotkp9twcus0i78wetdo7v0
-    verified: false
-    hashtags: "#maquilhagemportugal, #lookdodia, #outfitoftheday, #outfits"
-  - username: "adivadarechousa"
-    fullname: >-
-      CATARINA NORA
-    bio: >-
-      ⋒ fashion trends | beauty tips ⊪ skincare consulting & makeup artist 〈@catarinanora_mua〉 ↷ 𝘀𝗼𝗰𝗶𝗮𝗹 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 ◠ Blog:
-    location: "Portugal"
-    followers: 9740
-    engagement: 534
-    commentsToLikes: 0.241492
-    id: ck8t5v72nbcwr0j78c21xhpra
-    verified: false
-    hashtags: "#influencerportugal, #mamadeprimeiraviagem, #porto, #babyonboard"
-  - username: "golden.nico"
-    fullname: >-
-      𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
-    bio: >-
-      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Wanna Collab? Dm me! 🇧🇴 🇺🇸 🌎 Spanish • English • Portuguese.
-    location: "Portugal"
-    followers: 13967
-    engagement: 540
-    commentsToLikes: 0.053796
-    id: ck6ucvcowhold0j71e8oo86f3
-    verified: false
-    hashtags: "#makeup, #bolivia, #halloween, #yanbalbo"
+    hashtags: "#lookfantastic, #makeuptutorial, #halloween, #makeupartist"
   - username: "jessicab.makeup"
     fullname: >-
       Jéssica Batista
     bio: >-
       💄 Makeup Artist (graduated in ETIC) 👠 Stylist (graduated in ETIC) 🎬 Youtuber 📩 jessicacorreiabatista@gmail.com #jessicabatistayt VIDEO UNHAS PRIMARK↴
     location: "Portugal"
-    followers: 23920
-    engagement: 271
-    commentsToLikes: 0.035332
+    followers: 26730
+    engagement: 357
+    commentsToLikes: 0.038163
     id: ck15tcy69hhjt0i19zx0ifb0e
     verified: false
-    hashtags: "#ad, #pub, #makeupartist, #femalefashion"
-  - username: "miriamtoreiromakeup"
+    hashtags: "#jessicabatistayt, #fashion, #girlsweardaily, #girlwithstyle"
+  - username: "__barbaragoncalves"
     fullname: >-
-      Miriam Toreiro
+      Bárbara Gonçalves 🐆
     bio: >-
-      📍Porto, PT🇵🇹 🌹Makeup Enthusiast 🐥 Twitter @miriam_toreiro 📩Business Inquiries: miriamtoreiro@gmail.com
+      🌍 Portuguese in Luxembourg 🇵🇹🇱🇺 ✨ Beauty and Makeup ✨ 💌 Collaborations DM or E-mail ↓ 💄💅🏼 @barbarag_beauty
     location: "Portugal"
-    followers: 44316
-    engagement: 316
-    commentsToLikes: 0.035139
-    id: ck13bez9mv3u90i193j2irghu
+    followers: 41822
+    engagement: 249
+    commentsToLikes: 0.283557
+    id: ck8t51hvi8j7h0j78n01d89hg
     verified: false
-    hashtags: "#lipart, #instamua, #hoodedeyesmakeup, #pictorial"
-  - username: "alymoniz"
+    hashtags: "#outfitoftheday, #ootd, #photography, #look"
+  - username: "adivadarechousa"
     fullname: >-
-      ️️ALIMARY MONIZ l Influencer
+      CATARINA NORA
     bio: >-
-      Model , Makeup lover , Hair , fashion & LifeStyle〝〞 ♥ GAP 👩🏾‍🎓 l DM for collab 📥 Embaixadora : @glavissimous 🇵🇹🇸🇹 📍 𝐼𝓈𝓁𝒶𝓃𝒹 𝑔𝒾𝓇𝓁 🌴
+      ⋒ fashion trends | beauty tips ⊪ skincare consulting & makeup artist 〈@catarinanora_mua〉 ↷ social network management ◠ Blog:
     location: "Portugal"
-    followers: 8530
-    engagement: 776
-    commentsToLikes: 0.101181
-    id: ckaowngnf9m5q0i788n6pvx11
+    followers: 10436
+    engagement: 520
+    commentsToLikes: 0.389037
+    id: ck8t5v72nbcwr0j78c21xhpra
     verified: false
-    hashtags: "#melanin, #peace, #melaninpoppin, #blackgirlmagic"
+    hashtags: "#wednesdayoutfit, #hat, #presentesdenatal, #momoutfit"
+  - username: "saracardosoooo_"
+    fullname: >-
+      SARITA 🦋
+    bio: >-
+      ✨Fashion | MakeUp | Lifestyle 📍St. Moritz & Portugal 🇨🇭🇵🇹
+    location: "Portugal"
+    followers: 35173
+    engagement: 300
+    commentsToLikes: 0.051695
+    id: ck8t62kzpc0no0j78wjxx9y5e
+    verified: false
+    hashtags: "#fitnessgirl, #fashion, #success, #bloggerlife"
+  - username: "biiaa_cabral"
+    fullname: >-
+      Make Up by Bia
+    bio: >-
+      @guinoahcosmeticos BIACABRAL20 ✨ 📍Lx,PT 💄Antonia Rosa’s Makeup Student 📌Marcações, Orçamentos e Collabs DM ou e-mail 📩makeupbybiiaa.cabral@gmail.com
+    location: "Portugal"
+    followers: 3789
+    engagement: 1226
+    commentsToLikes: 0.094707
+    id: ckap9tpj1tmik0i783h8s8w82
+    verified: false
+    hashtags: "#fullcutcrease, #ptmuas, #creativemakeup, #makeuplover"
+  - username: "golden.nico"
+    fullname: >-
+      𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
+    bio: >-
+      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Spanish • English • Portuguese.
+    location: "Portugal"
+    followers: 14070
+    engagement: 291
+    commentsToLikes: 0.028862
+    id: ck6ucvcowhold0j71e8oo86f3
+    verified: false
+    hashtags: "#reels, #lookyanbal, #yanbal, #makeup"
+  - username: "nikazh_model"
+    fullname: >-
+      Veronika Zhukova
+    bio: >-
+      Hairdresser 💇💇‍♂️ @natalicabeleireirosleiria Makeup artist 💄🎨 @nika_beauty_art
+    location: "Portugal"
+    followers: 2849
+    engagement: 646
+    commentsToLikes: 0.048700
+    id: ck8sz2qxamy8x0j78lgitat69
+    verified: false
+    hashtags: "#winter, #sexylove, #blacklove, #sea"
+  - username: "evafrv"
+    fullname: >-
+      Eva Vitorino
+    bio: >-
+      🌈 azores, portugal 🦋 makeup & fashion 💌 email for business
+    location: "Portugal"
+    followers: 2145
+    engagement: 1554
+    commentsToLikes: 0.649890
+    id: ckf5np5uyz3fd0j23rg3u2u0c
+    verified: false
+    hashtags: ""
+  - username: "martaalvespinklemonade"
+    fullname: >-
+      Marta Alves 🌙 Pink Lemonade
+    bio: >-
+      Makeup and Skincare addict Glam • Workshops • Brides thepinklemonade@hotmail.com Promocode até 25%👇🏻
+    location: "Portugal"
+    followers: 30934
+    engagement: 138
+    commentsToLikes: 0.064470
+    id: ck5zlojp8l3qj0i144bqujskv
+    verified: false
+    hashtags: "#beach, #lookoftheday, #ootd, #naturalmakeup"
 ---

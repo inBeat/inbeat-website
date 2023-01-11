@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Vancouver In 2022
+title: Top 10 Fitness TikTok Influencers In Vancouver In 2023
 description: >-
-  Find top fitness TikTok influencers in Vancouver in 2022. Most popular hashtags: #vancouver #fitness #fyp #workout.
+  Find top fitness TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #fitness #foryoupage #canada.
 platform: TikTok
 hits: 18
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 18 TikTok influencers like this in Vancouver, Canada for you to connect with.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat has 18 TikTok influencers like this in Vancouver, Canada for you to contact.
 profiles:
-  - username: "kaur_bal_21"
+  - username: "train_with_bal"
     fullname: >-
-      Kaur Bal 👑
+      Train with Bal 💪🏻
     bio: >-
-      ▫️Dispatcher @ Transforce ▫️ ▪️Fitness ▫️Trainer ▪️BossBabe▪️
+      👩🏻‍💻 @Transforce ▪️Workout program & Meal plans Available▪️ #Wifey ♥️
     location: "Canada"
-    followers: 28300
-    engagement: 523
-    commentsToLikes: 0.000000
+    followers: 39200
+    engagement: 520
+    commentsToLikes: 0.000489
     id: ck8vyxa0mv9mh0j78zik53k1q
     verified: false
-    hashtags: "#bossbabe, #manifestation, #gym, #sunday"
+    hashtags: "#tiktokfashionmonth, #familyday, #trainwithbal, #fyp"
   - username: "georgina.stokes"
     fullname: >-
       Georgina Stokes
     bio: >-
-      💗 IG: @georginastokes (28k) ✈️ Travel 💪🏽 Fitness 🏔 Lifestyle 📍 YVR 🇬🇧🇨🇦
+      💗 IG: @georginastokes 🇬🇧🇨🇦 📧 hello@georginastokes.com 📍YVR
     location: "Canada"
-    followers: 3686
-    engagement: 201
-    commentsToLikes: 0.052303
+    followers: 3677
+    engagement: 220
+    commentsToLikes: 0.049748
     id: ckd6jgsaeclr60j23pdvu06wp
     verified: false
-    hashtags: "#couplesoftiktok, #foryoupage, #fitness, #canada"
-  - username: "kaligfitness"
+    hashtags: "#fitnessblogger, #foryoupage, #trickedyou, #couplesworkout"
+  - username: "fitfam30"
     fullname: >-
-      Kali G
+      Fit_Mama
     bio: >-
-      ig: kaligfitness fitness x lifestyle 🥀 what I eat in a day (vlog)👇🏽
+      Vancouver, BC South Indian & Middle Eastern Trucker Girl
     location: "Canada"
-    followers: 38600
-    engagement: 585
-    commentsToLikes: 0.025094
-    id: ck80718wqntuk0j785dhtaygq
+    followers: 5119
+    engagement: 1294
+    commentsToLikes: 0.096842
+    id: ckamtdw3yuag20i78ji1k6hjc
     verified: false
-    hashtags: "#healthhustle, #gymroutine, #legs, #shareyourplaylist"
-  - username: "spencermoorefit"
-    fullname: >-
-      Spencer Moore
-    bio: >-
-      Fitness & Lifestyle 🇯🇲🇨🇦 Follow IG: @spencermoorefit Online Training ^ DM
-    location: "Canada"
-    followers: 21900
-    engagement: 532
-    commentsToLikes: 0.015228
-    id: ck806y123myov0j78yq1ygo2s
-    verified: false
-    hashtags: "#fitness, #foryou, #workout, #homeworkout"
+    hashtags: "#bollywood, #turkish, #afghan, #fyp"
   - username: "aflex.a"
     fullname: >-
-      Alexa Shanel
+      aFLEXa
     bio: >-
-      21 🇨🇦 YVR Theatre kid/jock so I’m basically Troy Bolton BLACK LIVES MATTER
+      21 and a jock and a theatre kid but mostly a mess 🥲 Vancouver @ad_astranot
     location: "Canada"
-    followers: 12300
-    engagement: 1662
-    commentsToLikes: 0.021045
+    followers: 12000
+    engagement: 1761
+    commentsToLikes: 0.022438
     id: ckbqeyh630t5k0j23f9jyr82t
     verified: false
-    hashtags: "#ubc, #tiktokdance, #broadway, #university"
-  - username: "alexanddouglas"
+    hashtags: "#theatrekids, #musicaltheatre, #ubc, #zoomuniversity"
+  - username: "charlize.juliett"
+    fullname: >-
+      Charlize RC
+    bio: >-
+      🦋18🦋 vancouver sweeegg
+    location: "Canada"
+    followers: 26800
+    engagement: 1105
+    commentsToLikes: 0.017495
+    id: ckb9kh878cew30j231vauifb3
+    verified: false
+    hashtags: "#gymclothes, #greenscreenvideo, #myhome, #gym"
+  - username: "alex.bischoff"
     fullname: >-
       Alex Bischoff
     bio: >-
-      Canadian 🍁Vegan 🌱 Digital artists📸 👬 IG @Alexbischoff Art @bischoffstudio
+      Vancouver based 🇨🇦 Vegan 🌱 Digital artists📸
     location: "Canada"
     followers: 45100
-    engagement: 1161
-    commentsToLikes: 0.018060
+    engagement: 994
+    commentsToLikes: 0.011627
     id: ck807cmtgpvdw0j78unh4ff7v
     verified: false
-    hashtags: "#vancouver, #lgbtq, #boyfriends, #gays"
-  - username: "michelle.c.smith"
+    hashtags: "#lgbtq, #gaylove, #boyfriends, #fyp"
+  - username: "_doitfortheclout_"
     fullname: >-
-      Michelle C. Smith
+      For The CLOUT🤪
     bio: >-
-      ACTION ACTOR - EDUCATOR 🇨🇦 IG:@michelle.c.smith Online Classes & Tutorials⬇️
+      Vancouver BC 🇨🇦 Send your clout certified content🎬 Be featured
     location: "Canada"
-    followers: 651000
-    engagement: 1372
-    commentsToLikes: 0.017616
-    id: ck9si7ve4xd5o0j782e6iuuja
-    verified: true
-    hashtags: "#martialarts, #greenscreen, #starwars, #myjob"
-  - username: "soobiee"
-    fullname: >-
-      Soobie 
-    bio: >-
-      Wyd if you ain’t following me on the Gram IG: Soobiee
-    location: "Canada"
-    followers: 47100
-    engagement: 782
-    commentsToLikes: 0.030283
-    id: ck9k8i18p93hl0j78cxyo14xb
+    followers: 13900
+    engagement: 337
+    commentsToLikes: 0.024024
+    id: ckai2fknofl6n0i78vns8wd0u
     verified: false
-    hashtags: "#dance, #vibez, #grandpa, #punjabi"
+    hashtags: "#guessmyprovince, #foryoupage, #fyp, #ftp"
+  - username: "andrewpettitt"
+    fullname: >-
+      Andrew Pettitt
+    bio: >-
+      Founded @overlandyukon Health/Fitness - Business - Real estate - Investing
+    location: "Canada"
+    followers: 9751
+    engagement: 943
+    commentsToLikes: 0.058014
+    id: ck90r2155kq150j78ndcfn60b
+    verified: false
+    hashtags: "#hiking, #tiktoktravel, #bc, #sunset"
+  - username: "laura_reidd"
+    fullname: >-
+      Laura Reid
+    bio: >-
+      YOUR TIKTOK TRAVEL EXPERT ✵ ✶ ✺ Canadian My clothing line @livmorethelabel
+    location: "Canada"
+    followers: 139400
+    engagement: 826
+    commentsToLikes: 0.032349
+    id: cka0y8jhoabhy0i78qmo2w1f4
+    verified: false
+    hashtags: "#vancouverbc, #boyfriendproblems, #vancouverfoodie, #vancity"
   - username: "npaasport"
     fullname: >-
       NPAAsport 
     bio: >-
       Official page of the NPAA 🇨🇦 #1 Natural Physique and Athletics Association
     location: "Canada"
-    followers: 5045
-    engagement: 487
-    commentsToLikes: 0.012233
+    followers: 5027
+    engagement: 498
+    commentsToLikes: 0.022312
     id: ckdn85tmgfada0j2319mh9hbw
     verified: false
-    hashtags: "#foryou, #fyp, #community, #foru"
-  - username: "mrmrssaintlion"
-    fullname: >-
-      MrMrsSaintlion
-    bio: >-
-      A MMA Fighter with Wife of Many trades.Welcome to our world🇮🇳🇨🇦 IG @saintion
-    location: "Canada"
-    followers: 31100
-    engagement: 369
-    commentsToLikes: 0.014499
-    id: ckb9qzkjmn9i70j23n8as25th
-    verified: true
-    hashtags: "#quarantine, #funny, #comedy, #tiktok"
+    hashtags: "#yvr, #physique, #fitness, #fyp"
 ---

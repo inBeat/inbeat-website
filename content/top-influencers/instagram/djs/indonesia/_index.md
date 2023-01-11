@@ -1,57 +1,69 @@
 ---
-title: Top 10 Djs Instagram Influencers In Indonesia In 2022
+title: Top 10 Djs Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top djs Instagram influencers in Indonesia in 2022. Most popular hashtags: #freefire #storywakekinian #storywakeren #quotes.
+  Find top djs Instagram influencers in Indonesia in 2023. Most popular hashtags: #djstorywa #storywakeren #dj30detik.
 platform: Instagram
-hits: 96
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 96 Instagram influencers like this in Indonesia for you to work with.
+hits: 87
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 87 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
+  - username: "bayusaptaji"
+    fullname: >-
+      Bambang Bayu Saptaji
+    bio: >-
+      Part of team @ortuseight athlete @pocarisportid Ambassador @topscoresport & @djsportapparel Kawan @ayo.indonesia 📞+82114211788 @ismipricilla
+    location: "Indonesia"
+    followers: 841697
+    engagement: 566
+    commentsToLikes: 0.029455
+    id: ck13683gv57ff0i19bxdoynws
+    verified: true
+    hashtags: "#aplikasibola, #ayoindonesia, #avoiceforamateurs, #aplikasiayo"
   - username: "dj.sakuraaa"
     fullname: >-
-      SAKURA | 苏樱花🌸
+      🌸 SAKURA | 苏樱花🌸
     bio: >-
-      🎧 Hardstyle Bass Trap 🎧 Soundcloud: DJ SAKURA Tiktok: Djsakura Elelive ID : 10479949 🖤 Email for DJ Bookings / ADS 🖤🎶👇🏻
+      🎧 Hardstyle / Bass 💫 Soundcloud: DJ SAKURA Tiktok: Djsakura Email for DJ Bookings / ADS 📩👇🏻
     location: "Indonesia"
-    followers: 38241
-    engagement: 451
-    commentsToLikes: 0.022966
+    followers: 41588
+    engagement: 480
+    commentsToLikes: 0.019177
     id: ck6uafn2p3amx0j71zgs6ssn3
     verified: false
-    hashtags: "#sgdj, #singaporedj, #halloween2020, #halloweencostume"
+    hashtags: "#asiangirls, #potd, #sgdj, #singaporedj"
   - username: "sachin_shirsat_editz"
     fullname: >-
       Sachin Shirsat
     bio: >-
-      Featured by @djsnake @tvfqtiyapa Video editor | sketch artist DM for video edits, sketches Personal id - @suchin.shirsat @marathmola_sachin
+      Featured by @djsnake Video editor : @whiteturtlestudios @primevideoin YT channel Business - sachinseditz@gmail.com Personal id - @suchin.shirsat
     location: "Indonesia"
-    followers: 57501
-    engagement: 1368
-    commentsToLikes: 0.025329
+    followers: 112287
+    engagement: 1380
+    commentsToLikes: 0.017598
     id: ck9wgt6lluvsm0j78fopgq8ri
     verified: false
-    hashtags: "#mashups, #tiktokcringes, #carryminati, #anushkasharma"
-  - username: "djgracelaandreas"
+    hashtags: "#varundhavan, #herapheri, #jethalal, #reels"
+  - username: "ica.saski"
     fullname: >-
-      Gracela P Andreas Br Saragih 🦋
+      kiesha& saskia 🦋🦖
     bio: >-
-      SUBLIME by @splendid_asia 📞: +62 815-5845-8888 (STEVE) 📞: +62 853-5959-1116 (HOTMAN) 👇🏻LIVE - DJSET👇🏻
+      ALWAYS SUPPORT @kiesha.alvaro &@saskiachadwick_ 🗓 22 11 2020 🎬 DJS setiap Hari pukul 16.25 wib @sctv #santironidjs #kieshaalvaro #saskiachadwick
     location: "Indonesia"
-    followers: 47557
-    engagement: 77
-    commentsToLikes: 0.068824
-    id: ck8sxxj42j1a80j78d7vzut3s
+    followers: 5619
+    engagement: 227
+    commentsToLikes: 0.042465
+    id: ckap73xixij230i78nokr23h3
     verified: false
-    hashtags: "#splendidchallenge, #stayathome, #tiktokchallenge, #mirroroutside"
+    hashtags: "#dhiversindonesia, #dhiversjerman, #dhiversalwayssupportyou, #ccpdhil"
   - username: "djsduudaa"
     fullname: >-
       DUUDAA
     bio: >-
-      We are DUUDAA 🎧 DJ Sisters from Amsterdam 🎧 DJ ACT: Sing, Rap & Dance 🎧 Agency Splendid Asia 🎧 Music: RnB, HipHop, Moomba, House & EDM 🎧 Bali 📍
+      We are DUUDAA 🎧 DJ Sisters from Amsterdam 🎧 DJ ACT: Sing, Rap, Piano, MC & Dance 🎧 Music: RnB, HipHop, Moomba, House & EDM 🎧
     location: "Indonesia"
-    followers: 36310
-    engagement: 464
-    commentsToLikes: 0.045689
+    followers: 35608
+    engagement: 484
+    commentsToLikes: 0.049414
     id: ck5c1v47zvzhu0i11z2ukayfl
     verified: false
     hashtags: ""
@@ -59,72 +71,60 @@ profiles:
     fullname: >-
       Kalian Suci Aku Penuh Busa
     bio: >-
-      @thisisedo_ 🤍 @berdikaribaut @satetaichan_la @twerksproject @babelook_ts
+      @thisisedo_ 🤍 @berdikaribaut @berdikariproperty_
     location: "Indonesia"
-    followers: 71042
-    engagement: 87
-    commentsToLikes: 0.043049
+    followers: 71236
+    engagement: 70
+    commentsToLikes: 0.037014
     id: ckaorjagfnhgc0i78vh18tjv9
     verified: false
-    hashtags: "#hutri75, #indonesiaku, #bali, #sunrise"
+    hashtags: "#daratlaut, #pejuangldr, #ldrpelaut, #tlp24jam"
+  - username: "djsiskaeenya2"
+    fullname: >-
+      DJ SISKAEENYA2
+    bio: >-
+      ♀️JAVANESE 📩 PP ENDORSE DM ME 🦄 @adiitioo 🎧 JOB DJ(ONLY)HUB@djavumanagement (081333020789) 🔞 @wotofo_indonesia 🔞 @jutajuice.id 🔞 @dailyjuiceindonesia
+    location: "Indonesia"
+    followers: 90389
+    engagement: 146
+    commentsToLikes: 0.020417
+    id: ck5zwa1ta5ret0i14ecc9sas7
+    verified: false
+    hashtags: "#furlagoldbatch, #dailyjuiceindonesia, #asignofsuccess, #jutajuice"
   - username: "thenay.bekasi_utara"
     fullname: >-
-      Naisa Alifia Yuriza
+      
     bio: >-
-      N.A.Y Id ml:395084413 Acc @fajrick_23 💥OFFICIAL FANBASE NAY RESMI
+      Acc @fajrikurn_
     location: "Indonesia"
-    followers: 92998
-    engagement: 476
-    commentsToLikes: 0.020069
+    followers: 89340
+    engagement: 496
+    commentsToLikes: 0.019702
     id: ckaoym3y7i20y0i78mkcuj81b
     verified: false
-    hashtags: "#quotes, #dj30detik, #djstorywa, #thenay"
-  - username: "kriswantoari"
+    hashtags: "#nayofficial, #quoteserindonesia, #tiktok, #thenayjabodetabek"
+  - username: "k_ananda_"
     fullname: >-
-      Ari Kriswanto
+      👑Kinggg_squard999👑
     bio: >-
-      🇲🇨 Indonesia Owner Youtube Channel Kulgar. Part of Garena Free Fire Indonesia Business inquiries: 📩 arikriswanto12@gmail.com
+      #AKUN_INI_DIJUAL ❤Maesarani @ranikim6 🤘Follow akun ke 2 @_khyananda_ 🤘 KOTA MEDAN, SIBOLGA TAPTENG, 👉Yt; K. Ananda 👇Sukrek My Chanel
     location: "Indonesia"
-    followers: 450224
-    engagement: 386
-    commentsToLikes: 0.039677
-    id: ck0u0b89ot5hf0i191hsklqku
-    verified: false
-    hashtags: "#djsoda, #booyah, #kulgar, #freefire"
-  - username: "ff.deep"
-    fullname: >-
-      Bʟᴀᴄᴋ࿐
-    bio: >-
-      PP? DM 📩 • BUKAN EDITOR ❌ • Jan lupa follow uwoeeee🙏 Enjoyy.....
-    location: "Indonesia"
-    followers: 15436
-    engagement: 1552
-    commentsToLikes: 0.030221
-    id: ckaouu4401twm0i78ks2u3hl7
-    verified: false
-    hashtags: "#djviral, #garenafreefire, #freefireindonesia, #storywabaper"
-  - username: "kinggg_squardd021"
-    fullname: >-
-      CallMeWisnu🔵
-    bio: >-
-      From BANYUMAS . 💯Reall Acount💯 . Support Follow Up 30K Open #ppendorse lanjut DM📥 Ingin bengek disini !! Subscribe Channel Gass 1k ⏬
-    location: "Indonesia"
-    followers: 27456
-    engagement: 953
-    commentsToLikes: 0.019242
-    id: ckaousxnr1oek0i7866pqxjcl
+    followers: 45975
+    engagement: 2182
+    commentsToLikes: 0.020493
+    id: ck8t7ck77gbio0j78fz7hj0n6
     verified: false
     hashtags: ""
-  - username: "ff.rijall_"
+  - username: "remarmartin_official18"
     fullname: >-
-      Xeiiraa
+      @Reemar.official18
     bio: >-
-      🔹Partner : @ivall.ff @ffsyauqii @ff_momy77 @ini.yasha 🔹Jasa Edit Foto and Video 🔹PP/ Endorse DM 📩 🔹Member of : @officialklandnyx 🔹YouTube :
+      Real Account 👧 New Account INSTAGRAM Yt: Reemar M Wa group link
     location: "Indonesia"
-    followers: 17988
-    engagement: 1441
-    commentsToLikes: 0.048376
-    id: ckaouu5kv1u5h0i787v3df8c8
+    followers: 10976
+    engagement: 1531
+    commentsToLikes: 0.042961
+    id: ck9weemmijwra0j78euemczf8
     verified: false
-    hashtags: "#freefiregarena, #garenafreefire, #imbajr, #vidio30detik"
+    hashtags: "#editorberkarya, #quoteseditor, #djrahmattahalu, #antitiktoktiktokclub"
 ---

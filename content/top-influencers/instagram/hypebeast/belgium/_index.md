@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Belgium In 2022
+title: Top 10 Hypebeast Instagram Influencers In Belgium in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Belgium in 2022. Most popular hashtags: #hypebeast #hypebeastkicks #nike #hypedstreets.
+  Find top hypebeast Instagram influencers in Belgium in 2023. Most popular hashtags: #hypebeast #hypebeastkicks #nike #hypedstreets.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram influencers on inBeat.

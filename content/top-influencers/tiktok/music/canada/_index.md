@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Canada In 2022
+title: Top 10 Music TikTok Influencers In Canada In 2023
 description: >-
-  Find top music TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #duet.
+  Find top music TikTok influencers in Canada in 2023. Most popular hashtags: #music #duet #fyp.
 platform: TikTok
-hits: 987
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 987 TikTok influencers like this in Canada for you to collaborate.
+hits: 855
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 855 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "angeingell"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       animal and music lover 🇨🇦
     location: "Canada"
-    followers: 6004
-    engagement: 2242
-    commentsToLikes: 0.168716
+    followers: 6439
+    engagement: 1919
+    commentsToLikes: 0.140046
     id: ckb9rha8yo56a0j23in4gd9xe
     verified: false
-    hashtags: "#0324mytest"
-  - username: "haileyb114"
+    hashtags: ""
+  - username: "danielledoyle"
     fullname: >-
-      Hailey Benedict
+      Danielle Doyle
     bio: >-
-      🇨🇦 18 follow my ig & yt ^🤍 & check out my spotify for more music :)
+      I listen to your dads music Sometimes I’m a naked mole rat
     location: "Canada"
-    followers: 199400
-    engagement: 2182
-    commentsToLikes: 0.053640
-    id: ckcui5zzefyha0j23aj9glky0
+    followers: 194200
+    engagement: 1723
+    commentsToLikes: 0.028108
+    id: ck8f6n7r32r8o0j783p79uk6o
     verified: false
-    hashtags: "#cover, #mashup, #singer, #fyp"
-  - username: "347aidan"
+    hashtags: "#spooky, #murder, #crime, #truecrime"
+  - username: "tommisin"
     fullname: >-
-      347aidan
+      Tomisin
     bio: >-
-      347AIDAN all platforms✨🦋 NEW MUSIC OUT NOW
+      God First Music coming🎶 Snap:trockk2
     location: "Canada"
-    followers: 294900
-    engagement: 1733
-    commentsToLikes: 0.038824
-    id: ckd1a1pnbryv50j23iq8e5rg3
-    verified: true
-    hashtags: "#fyp, #parrot"
+    followers: 74700
+    engagement: 1565
+    commentsToLikes: 0.053415
+    id: ck9fln9pjovmf0j78kb52gi81
+    verified: false
+    hashtags: "#bubbles, #sponsored, #wealthsimple, #wealthsimplecash"
   - username: "iamrobinskies"
     fullname: >-
       iamrobinskies 
     bio: >-
-      Robin Skies - Musician - VAN BC!! 🇨🇦 CEO of honesty, even if I get in trouble!
+      Music- VAN BC!! 🇨🇦 Stream my music with 👇🏻 link
     location: "Canada"
-    followers: 25200
-    engagement: 1667
-    commentsToLikes: 0.129265
+    followers: 48000
+    engagement: 1836
+    commentsToLikes: 0.078657
     id: ck92uy64ko58i0j78jj787ecx
     verified: false
-    hashtags: "#canada, #bc, #music, #thinkaboutit"
-  - username: "freeyonc"
-    fullname: >-
-      Freeyon 鍾君揚
-    bio: >-
-      🇨🇦🇭🇰 🔮 Music, Magnus & More 🎵 New Original Song is on YouTube! 👇🏻
-    location: "Canada"
-    followers: 65900
-    engagement: 2096
-    commentsToLikes: 0.057696
-    id: ck80oeam2h8xz0j78wyb1gs1m
-    verified: true
-    hashtags: "#themortalinstruments, #spooktober, #magnusbane, #mycostume"
-  - username: "singingrat"
-    fullname: >-
-      JacobHayden
-    bio: >-
-      Send me a DM on Instagram❤️ 🇨🇦 Music coming soon..
-    location: "Canada"
-    followers: 368900
-    engagement: 2090
-    commentsToLikes: 0.016581
-    id: ck8kk55u0xpc00j787yheoo9f
-    verified: false
-    hashtags: "#foryoupage, #highnote, #4u, #billieeilish"
-  - username: "djdoubledutch"
-    fullname: >-
-      djdoubledutch
-    bio: >-
-      Music,Positivity#Sayno2h8 ⭐️ xtonetone⭐️ 💥instagram-djdoubledutch💥
-    location: "Canada"
-    followers: 44400
-    engagement: 1510
-    commentsToLikes: 0.115357
-    id: ck9flo57np39w0j78bxfu138b
-    verified: true
-    hashtags: "#ohcanada, #hospital, #lol, #hahaha"
+    hashtags: "#toothemoon, #blowitup, #careeradvice, #deconstruction"
   - username: "manelijamal"
     fullname: >-
       Maneli Jamal
     bio: >-
-      For full videos, music and FREE lessons please check my page above 👆🏼
+      For full videos, music and FREE lessons please check my page below 👇🏼
     location: "Canada"
-    followers: 8218
-    engagement: 1354
-    commentsToLikes: 0.178991
+    followers: 8674
+    engagement: 1470
+    commentsToLikes: 0.149393
     id: ckac5svbldkye0i78ggwin3bg
     verified: false
-    hashtags: "#guitarcentral, #acoustic, #guit, #guitarra"
-  - username: "uncle.tomm"
+    hashtags: ""
+  - username: "kaitlynmusic.ca"
     fullname: >-
-      Tomisin
+      kaitlyn
     bio: >-
-      God First Dm me on IG^ Music coming🎶 Snap:trockk2 Tomisinadeleye@yahoo.com
+      toronto 💜 #BLM i make music :) check out my links👇🏻👇🏻
     location: "Canada"
-    followers: 58300
-    engagement: 1747
-    commentsToLikes: 0.036442
-    id: ck9fln9pjovmf0j78kb52gi81
+    followers: 40000
+    engagement: 1476
+    commentsToLikes: 0.076745
+    id: cka0jrnsqjdaq0i78cv8p34zh
     verified: false
-    hashtags: "#endsars, #africaisbleeding, #nigeria, #endswat"
-  - username: "rolandtheprince"
+    hashtags: "#music, #attackontitan, #bye2020, #fyp"
+  - username: "roland.prince"
     fullname: >-
       Roland Prince
     bio: >-
-      Music: Roland Prince
+      Audio Engineer, Car enthusiast, Sim Racer 🚗 💨 🇨🇦 Sideways music review 👇🏾
     location: "Canada"
-    followers: 26800
-    engagement: 1597
-    commentsToLikes: 0.050212
+    followers: 28700
+    engagement: 1279
+    commentsToLikes: 0.095464
     id: ck92uxut8o2uj0j78ozj1oz9u
     verified: false
-    hashtags: "#fork, #summerworkout, #perfectasiam, #foryou"
+    hashtags: "#carguy, #getreadywitholdspice, #projectcar, #lovemycar"
+  - username: "tiobandz"
+    fullname: >-
+      Tio💰
+    bio: >-
+      B,E- suarezmalcom@sditalent.com ⬇️SUBSCRIBE‼️MUSIC SOON⬇️ Cashapp: $bryce8908
+    location: "Canada"
+    followers: 2200000
+    engagement: 1980
+    commentsToLikes: 0.014736
+    id: ck9fdrsqdpzzg0j78apuovyof
+    verified: true
+    hashtags: ""
+  - username: "dageekybells"
+    fullname: >-
+      ♡ 𝔹𝕖𝕝𝕝𝕒 ♡
+    bio: >-
+      ⤏ lol hi ⤎ ✧ ⇢ musically veteran ⇠ ✧ ⪢ duet me bois ⪡
+    location: "Canada"
+    followers: 10700
+    engagement: 2471
+    commentsToLikes: 0.020303
+    id: ckadzre20ga3x0i789pwhiw4j
+    verified: false
+    hashtags: "#mcytcosplay, #homestuck, #tubbocosplay, #hannahxxrosecosplay"
+  - username: ".ebunnoir"
+    fullname: >-
+      Ebun Noir
+    bio: >-
+      Music sessions from my college dorm room 🖤 New Song⬇️
+    location: "Canada"
+    followers: 61700
+    engagement: 1095
+    commentsToLikes: 0.239068
+    id: ck90zswc2f6oj0j7846pdk7gy
+    verified: false
+    hashtags: "#hiphop, #rap, #music, #musicvideo"
 ---

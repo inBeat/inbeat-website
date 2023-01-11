@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In South Africa In 2022
+title: Top 10 Fitness TikTok Influencers In South Africa In 2023
 description: >-
-  Find top fitness TikTok influencers in South Africa in 2022. Most popular hashtags: #fitness #tiktoksouthafrica #fyp #foryou.
+  Find top fitness TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #fitness #foryoupage #tiktoksouthafrica.
 platform: TikTok
-hits: 34
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 34 TikTok influencers like this in South Africa for you to collaborate.
+hits: 43
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 43 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "stellaboo_xoxo"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Christian girl 💛 - videos about my life & Faith -fitness , Coffee lover
     location: "South Africa"
-    followers: 6197
-    engagement: 1789
-    commentsToLikes: 0.035458
+    followers: 6133
+    engagement: 1769
+    commentsToLikes: 0.037650
     id: ck9kcnzq0qcsp0j78amqiltkq
     verified: false
-    hashtags: "#jesusisking, #bible, #christiantiktok, #christianlife"
+    hashtags: "#bible, #christian, #christiangirl, #faith"
   - username: "jacodbruyn"
     fullname: >-
       Jaco de Bruyn 
     bio: >-
       International fitness model 🇿🇦 Owner of Fitness Runway Model South Africa
     location: "South Africa"
-    followers: 42800
-    engagement: 584
-    commentsToLikes: 0.016441
+    followers: 44000
+    engagement: 589
+    commentsToLikes: 0.021734
     id: ckdtl8usaz8xp0j23mt68jmi6
     verified: true
-    hashtags: "#tiktoksa, #goals, #coronavirus, #bored"
+    hashtags: "#tiktoksa, #fknarmy, #coronavirus, #gym"
   - username: "dylanironlife"
     fullname: >-
       user179785008549
     bio: >-
       Fitness fanatic💪 Lifestyle coach👍 Insta @dylan.ironlife_fitness_model 🤘
     location: "South Africa"
-    followers: 21900
-    engagement: 577
-    commentsToLikes: 0.012986
+    followers: 21600
+    engagement: 576
+    commentsToLikes: 0.012652
     id: ckb9femx53pp60j23jxvuuno9
     verified: false
-    hashtags: "#tutting, #fyp, #foryoupage, #savage"
-  - username: "kimsayers1"
+    hashtags: "#tutting, #savage, #foryoupage, #fingerdance"
+  - username: "petercarvell"
     fullname: >-
-      kimsayers1
+      Peter Carvell
     bio: >-
-      South African 🌍❤️ Introvert ☺️ Fitness freak💪 Fashion Lover👗👛
+      🇿🇦 Home Fitness Expert & YouTuber (1.4m subs) Grab 100 Free Home Workouts👇
     location: "South Africa"
-    followers: 6299
-    engagement: 538
-    commentsToLikes: 0.017139
-    id: ckc8drfwr99zs0j23pivdd97y
+    followers: 8382
+    engagement: 341
+    commentsToLikes: 0.032167
+    id: ck9rmzcg55ala0j78nti438qs
     verified: false
-    hashtags: "#fyppage, #sundayfunday, #viral, #fypforyou"
+    hashtags: "#bodyweightexercise, #6packabs, #foryoupage, #tiktoksa"
   - username: "fitnessbang"
     fullname: >-
       FitnessesBang
     bio: >-
       IG: fitnessbangsa
     location: "South Africa"
-    followers: 7543
-    engagement: 308
-    commentsToLikes: 0.017072
+    followers: 8081
+    engagement: 311
+    commentsToLikes: 0.023297
     id: ckbascat5ix640j23n9lre0k0
     verified: false
-    hashtags: "#100pushupschallenge, #fitness, #fitnessbang, #herbalife"
+    hashtags: "#pushupchallenge, #viral, #fitness, #herbalifenutrition"
+  - username: "kimsayers1"
+    fullname: >-
+      kimsayers1
+    bio: >-
+      South African 🌍❤️ Introvert ☺️ Fitness freak💪 Fashion Lover👗👛
+    location: "South Africa"
+    followers: 6224
+    engagement: 529
+    commentsToLikes: 0.015789
+    id: ckc8drfwr99zs0j23pivdd97y
+    verified: false
+    hashtags: "#sundayfunday, #fyppage, #fypforyou, #fyp"
+  - username: "andrewdanckwerts"
+    fullname: >-
+      Andrew Danckwerts
+    bio: >-
+      Wildlife, Adventure, Fitness - Follow on Instagram @AndrewDanckwerts
+    location: "South Africa"
+    followers: 159400
+    engagement: 585
+    commentsToLikes: 0.007891
+    id: ck81334j0zjy40j78bl9260fp
+    verified: false
+    hashtags: "#nature, #funny, #tiktoksouthafrica, #funnyvideos"
+  - username: "parnygram"
+    fullname: >-
+      Wayne Parnell
+    bio: >-
+      Dad 🕺🏼 Athlete🏏 Urban Culture. 👑 Insta: @parnygram 📍CPT 😹🌊🐻
+    location: "South Africa"
+    followers: 25600
+    engagement: 556
+    commentsToLikes: 0.054074
+    id: ckbf85dp7ydzc0j23wcb0zo3x
+    verified: true
+    hashtags: "#junebugchallenge, #fyp, #dadsoftiktok, #cricket"
   - username: "ninaoosthuizen4"
     fullname: >-
       Nina Oosthuizen
     bio: >-
-      God chose me long before I chose Him ❤️ Give me a follow on the gram 🇿🇦
+      Help me get to 50k 🥰 Child of God. Be Kind always ❤️ Give me a follow on the g
     location: "South Africa"
-    followers: 15900
-    engagement: 938
-    commentsToLikes: 0.053333
+    followers: 24500
+    engagement: 792
+    commentsToLikes: 0.067947
     id: ckauqlobtvpi40j238t6mjxpx
     verified: false
-    hashtags: "#gimmelove, #tiktoksouthafrica, #afrikaans, #love"
-  - username: "eugenewood"
+    hashtags: "#trend, #tiktoksouthafrica, #viral, #relationship"
+  - username: "leonestofberg"
     fullname: >-
-      Eugene Wood
+      Leoné💗
     bio: >-
-      CEO of Motivation Driven to Succeed Founder of Influencer SA
+      🇿🇦 follow the gram☝🏻 other socials: @leonestofberg 💓
     location: "South Africa"
-    followers: 22400
-    engagement: 1624
-    commentsToLikes: 0.186236
-    id: ckbat4yeljrmf0j23u4tav4mt
-    verified: false
-    hashtags: "#driventosucceed, #fitness101, #spartops, #youlightmeupinside"
-  - username: "beefcakessouthafrica"
-    fullname: >-
-      Beefcakes South Africa
-    bio: >-
-      
-    location: "South Africa"
-    followers: 61700
-    engagement: 371
-    commentsToLikes: 0.166667
-    id: ckbl76j9r4wt90j23ycwsdi8p
-    verified: false
-    hashtags: "#fitness, #greenscreen, #meme, #fyp"
-  - username: "seanvannoordwyk"
-    fullname: >-
-      Sean William van Noo
-    bio: >-
-      Just having fun 😋 IG: @seanvannoordwyk
-    location: "South Africa"
-    followers: 25800
-    engagement: 830
-    commentsToLikes: 0.014185
-    id: ck9k9vd3peths0j78wegxln1e
-    verified: false
-    hashtags: "#tiktoksoutafrica, #boredinthehouse, #tiktoksa, #tiktoksouthafrica"
-  - username: "triplejayfit"
-    fullname: >-
-      triplejayfit
-    bio: >-
-      Just a kid from the 017 🇿🇦 Instagram @triplejayfit
-    location: "South Africa"
-    followers: 15700
-    engagement: 633
-    commentsToLikes: 0.036950
-    id: cka6jndhkvgdd0i78i97wk1bs
-    verified: false
-    hashtags: "#fitness, #foryou, #foryo, #foryoupage"
+    followers: 151600
+    engagement: 1447
+    commentsToLikes: 0.019077
+    id: ck9f2u05req0r0j78xzvod0tb
+    verified: true
+    hashtags: "#neysquad, #comedy, #dance, #leonestofberg"
 ---

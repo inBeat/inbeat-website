@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Malaysia In 2022
+title: Top 10 Beauty Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top beauty Instagram influencers in Malaysia in 2022. Most popular hashtags: #explore #tiktok #tiktokmalaysia.
+  Find top beauty Instagram influencers in Malaysia in 2023. Most popular hashtags: #danielwellington #dwinmy #dwmalaysia.
 platform: Instagram
-hits: 236
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 236 Instagram influencers like this in Malaysia for you to pitch.
+hits: 154
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 154 Instagram influencers like this in Malaysia for you to work with.
 profiles:
-  - username: "sushalove"
-    fullname: >-
-      Sharen
-    bio: >-
-      Beauty | Fashion | Style Snapchat : sushalove
-    location: "Malaysia"
-    followers: 42479
-    engagement: 1179
-    commentsToLikes: 0.187139
-    id: ck14ju3t3m7220i190pvjobxv
-    verified: false
-    hashtags: "#indiangirl, #desigirl, #outfitinspiration, #styleblogger"
-  - username: "nfadha"
-    fullname: >-
-      ♥•𝑭𝑨𝑹𝑹𝑨 𝑫𝑯𝑨𝑩𝑰𝑻𝑨𝑯 •♥
-    bio: >-
-      🦋Stay patient and trust your journey🦋 📩DM for paid review/collab 👱🏻‍♀️ @beautybydhabitah 💜Tiktok : nfadha 👇🏻 Tap here 👇🏻
-    location: "Malaysia"
-    followers: 9382
-    engagement: 1375
-    commentsToLikes: 0.042428
-    id: ckapbddbmzhsz0i78pah4w9kf
-    verified: false
-    hashtags: "#tiktok, #tiktokmalaysia, #explorepage, #exploremore"
-  - username: "raebeautyhq"
-    fullname: >-
-      INSTANT WHITENING LOTION !
-    bio: >-
-      The Beauty Wizard
-    location: "Malaysia"
-    followers: 26650
-    engagement: 2453
-    commentsToLikes: 0.018024
-    id: ckap1fb19ucov0i78ffy1fn0e
-    verified: false
-    hashtags: "#slowmoqueen, #slow, #slowmotionvideo, #videolawak"
-  - username: "ohmykaylagirl_k"
-    fullname: >-
-      K A Y L A💋
-    bio: >-
-      ✈️ Airasia Brand Ambassador 🎥 TV Host channel 5 Influencer Travel | Lifestyle | Beauty | Fashion 📩 DM > For Work
-    location: "Malaysia"
-    followers: 38068
-    engagement: 355
-    commentsToLikes: 0.039907
-    id: ck9ha754wbfqe0j781ij27o2e
-    verified: false
-    hashtags: "#flightattendantlife, #lifestyle, #aviationlovers, #style"
-  - username: "lucaseelau"
-    fullname: >-
-      𝐋𝐔𝐂𝐀𝐒 𝐋𝐀𝐔 💎
-    bio: >-
-      FASHION | BEAUTY | LIFESTYLE 📍Malaysia 📩woon_kiet@hotmail.com
-    location: "Malaysia"
-    followers: 73108
-    engagement: 302
-    commentsToLikes: 0.032591
-    id: ck0vx427zx1ip0i19drfybimk
-    verified: false
-    hashtags: "#karllagerfeld, #powerposechallenge, #marvelmy, #archiluxurygroup"
-  - username: "dearcristina"
-    fullname: >-
-      CRISTINA CHEW | Modest Fashion
-    bio: >-
-      ✈️Next:Nepal🇳🇵 🌎Solo Traveller 💄Beauty Junkie 🎥Content Creator 🤲🏻Muslim Baby 🐱@fluffy.cutie.cat | Fb: Dearcristina | Youtube & Tiktok: CristinaChew
-    location: "Malaysia"
-    followers: 62705
-    engagement: 151
-    commentsToLikes: 0.050313
-    id: ck6tqd611qrtu0j71yyygsy5i
-    verified: false
-    hashtags: "#asianskincare, #exploreborneo, #kuchingsarawak, #malaysianig"
-  - username: "man_sixpointtwo"
-    fullname: >-
-      ABANGKOSMETIK
-    bio: >-
-      💄 MARYAM SOFEA BEAUTY 👨‍🔬 BINA PRODUK SENDIRI ( OEM ) +60 13 935 6262 | +60 13 982 0662 SUGARBOMB❌SIXPOINTTWO 💨 SIXPOINTTWOSALT 🍃 AK HERB’S 💋 EMBS
-    location: "Malaysia"
-    followers: 195943
-    engagement: 747
-    commentsToLikes: 0.006206
-    id: ck1345dwiusdv0i19ayapsl0u
-    verified: false
-    hashtags: "#binaproduksendiri, #sixpointtwo, #abangkosmetik, #gurauje"
-  - username: "sharifahwanii"
-    fullname: >-
-      °✧° °✧°
-    bio: >-
-      ♡ 𝓂𝒽𝒹𝒶𝓈𝓇𝑒𝑒 ♡ ✧･ﾟ: *✧･ﾟ:* there is beauty in simplicity *:･ﾟ✧*:･ﾟ✧
-    location: "Malaysia"
-    followers: 9588
-    engagement: 1112
-    commentsToLikes: 0.025345
-    id: ckap5hz2abrkz0i78056wttpx
-    verified: false
-    hashtags: ""
   - username: "blogitwithaqsa_"
     fullname: >-
       ✨ AQSA ALI ✨
     bio: >-
       🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
     location: "Malaysia"
-    followers: 25742
-    engagement: 166
-    commentsToLikes: 0.059595
+    followers: 25338
+    engagement: 185
+    commentsToLikes: 0.078883
     id: ck0vxl3nmzfk80i19bvk8axkb
     verified: false
-    hashtags: "#muharram1442"
-  - username: "gladishchan"
+    hashtags: ""
+  - username: "jeschuhan"
     fullname: >-
-      Gladish Chan祤琹
+      Jes楚涵🍀
     bio: >-
-      🇲🇾Influencer |Youtuber| Lifestyle | Beauty | 🐶：@potatopoodle @steadydogdog 💼For job enquiry : gladishchan@gmail.com YouTube 祤琹Gladish YuQin
+      Slashie 斜杠族 👉lifestyle | fitness | beauty | fashion 👉@jes_room 👉电商 @mayandzymes core partner | Jes Team. Leader | 👉ACCA certified | Igcse tutor
     location: "Malaysia"
-    followers: 309889
-    engagement: 531
-    commentsToLikes: 0.004931
-    id: ck6twwl8duijd0j71yu53142i
+    followers: 26783
+    engagement: 328
+    commentsToLikes: 0.039495
+    id: ckap2834axs9o0i78q5pv2mze
     verified: false
-    hashtags: "#klpjweddingfair, #shopeebrandsfestival, #hadalabo10thanniversary, #shopeemy"
+    hashtags: "#sp, #bepositive, #mco2021, #cnyootd2021"
+  - username: "_geying"
+    fullname: >-
+      _geying
+    bio: >-
+      Miss Astro 2018 Top 5 Miss Tourism World Msia 2017 Top 8 Lifestyle/ Fashion/ Beauty 🌼 job: geyinglee@hotmail.com
+    location: "Malaysia"
+    followers: 23359
+    engagement: 605
+    commentsToLikes: 0.009827
+    id: ck5c5jv1q3lze0i11zy6ot1sy
+    verified: false
+    hashtags: "#moreisevenmore, #mcobirthday, #dwgiftsoflove, #dwinmy"
+  - username: "impollylau"
+    fullname: >-
+      Polly Lau ⭐️
+    bio: >-
+      劉若寶 Actress • Freelance Model Beauty | Fashion | Singing| Travel | Cat Lover Job💌 : pollybo.lau@gmail.com ⭐️ 全民造星3
+    location: "Malaysia"
+    followers: 45064
+    engagement: 297
+    commentsToLikes: 0.012900
+    id: ck0vwiyl8u13s0i19bg217uae
+    verified: false
+    hashtags: "#ultimune, #citiplus, #levelup, #lepalgin"
+  - username: "joycebii"
+    fullname: >-
+      yangyang
+    bio: >-
+      #YouTuber #Actress #beauty #Dancer Sponsorship / collaboration kindly DM insta 🎬 YouTube - - joycebii My Latest video
+    location: "Malaysia"
+    followers: 40687
+    engagement: 396
+    commentsToLikes: 0.007106
+    id: ck5zvth3p4vn00i14uxdu939n
+    verified: false
+    hashtags: "#dwinmy, #danielwellington, #dwmalaysia, #lijinghere"
+  - username: "jennagong"
+    fullname: >-
+      𝒥𝑒𝓃𝓃𝒶 𝒢𝑜𝓃𝑔
+    bio: >-
+      Blogger｜Model | Talent Fashion • Beauty • Lifestyle For jobs & collabs 💌: jennainstyle@gmail.com
+    location: "Malaysia"
+    followers: 79571
+    engagement: 215
+    commentsToLikes: 0.011337
+    id: ck15qb5ij1ztv0i191h6hifjl
+    verified: false
+    hashtags: "#shopee44megasale, #sulwhasoomyxshopee, #shopeeambassadormy, #fashionblogger"
+  - username: "angel.nggg"
+    fullname: >-
+      A N G E L 慧慧 🦄
+    bio: >-
+      Lifestyle | Beauty | Fitness | Food | Pet | Travel 🐶 @happy_little_pom 💋 TikTok : angel.ngggg 📩 Job enquiry > Dm | email angelngnkh@gmail.com
+    location: "Malaysia"
+    followers: 121271
+    engagement: 312
+    commentsToLikes: 0.004086
+    id: ck8sy1ay6jdxc0j78i93iv46o
+    verified: false
+    hashtags: "#chor5, #chor3, #chor2, #chor1"
+  - username: "jovin26"
+    fullname: >-
+      Jovin Chan🐇
+    bio: >-
+      USANA GLOBAL DISTRIBUTOR🤍 Travel. Beauty. Social Media • • • • • • • Sagittarius Baby ♐ • • • • • • • 💌 : jovinnn26@gmail.com @babybae.my
+    location: "Malaysia"
+    followers: 342746
+    engagement: 151
+    commentsToLikes: 0.009453
+    id: ck5px66tqqazj0i11hj5n3jud
+    verified: false
+    hashtags: "#sunplaymy, #celebrateresponsibly, #loveliese, #diptyquemy"
+  - username: "huichenglee"
+    fullname: >-
+      Hui Cheng 珍珍❤
+    bio: >-
+      Lifestyle | Beauty| Travel 💕For job enquiry: 💌kitty_n.n@hotmail.com 🎤小象直播id : 10117956
+    location: "Malaysia"
+    followers: 101183
+    engagement: 98
+    commentsToLikes: 0.031686
+    id: ck0w0bfcvdcsp0i19odeb244r
+    verified: false
+    hashtags: "#goodvibes, #instalikes, #hipster, #filters"
+  - username: "kellytham"
+    fullname: >-
+      Kelly Tham
+    bio: >-
+      ✨Lifestyle | Travel | Beauty | Vegetarian ✉️ wt940226@hotmail.com 📍 Penang
+    location: "Malaysia"
+    followers: 18149
+    engagement: 178
+    commentsToLikes: 0.010294
+    id: ck5q7qgc72oe30i11we0uelt3
+    verified: false
+    hashtags: "#kellywuu, #cthedifference, #melanoccmy, #spotlessfairskin"
 ---

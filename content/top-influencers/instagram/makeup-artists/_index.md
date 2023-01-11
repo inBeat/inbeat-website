@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Artists Instagram Influencers In 2022
+title: Top 10 Makeup Artists Instagram Influencers In 2023
 description: >-
-  Find top makeup artists Instagram influencers in 2022. Most popular hashtags: #makeup #makeupaddict #anastasiabeverlyhills #plouisebase.
+  Find top makeup artists Instagram influencers in 2023. Most popular hashtags: #makeup #makeuplooks #makeuptutorial.
 platform: Instagram
-hits: 4087
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 4087 Instagram influencers like this for you to pitch.
+hits: 3897
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 3897 Instagram influencers like this for you to work with.
 profiles:
-  - username: "jewska.makeup"
+  - username: "vanessa_gyimah"
     fullname: >-
-      Jewska Makeup
+      Vanessa | Beauty Influencer 🇬🇭🇺🇸
     bio: >-
-      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
-    location: "Poland"
-    followers: 3950
-    engagement: 3277
-    commentsToLikes: 0.219874
-    id: ck5qdwruaxnx10i113sbecb9m
+      💄 Published Pro Makeup Artist 📧 : vanessagyimah@a3artistsagency.com
+    location: "United States"
+    followers: 456301
+    engagement: 975
+    commentsToLikes: 0.010222
+    id: ck0tzwjz8rqss0i19txvjjzwi
     verified: false
-    hashtags: "#plouisebase, #rozdaniekosmetyczne, #konkurs, #makeupaddict"
-  - username: "la_sussi_"
+    hashtags: "#fallmakeup, #igreels, #makeuplooks, #juviasplacepartner"
+  - username: "i.am.chanice"
     fullname: >-
-      Gonzalo Gervilla Limon
+      I Am Chanice
     bio: >-
-      🔥MakeUp Artist🔥
-    location: "Spain"
-    followers: 3254
-    engagement: 3140
-    commentsToLikes: 0.141739
-    id: ck6tqxe2pv7yo0j711l48gtma
+      Content Creator | Model | Hair Stylist | Makeup Artist 🇬🇧 London, UK ✉️ Email for PR/Collabs i.am.chanice1@gmail.com
+    location: "United Kingdom"
+    followers: 37872
+    engagement: 545
+    commentsToLikes: 0.049951
+    id: ck6u5qez8b4pa0j71cg1x0l13
     verified: false
-    hashtags: ""
-  - username: "yasssmachado"
-    fullname: >-
-      𝔜𝔞𝔰𝔪𝔦𝔫 𝔐𝔞𝔠𝔥𝔞𝔡𝔬
-    bio: >-
-      • Makeup Artist | Metal | Geek ✨ • 071 📍 • 📧 yasmindahoraa@gmail.com
-    location: "Brazil"
-    followers: 5287
-    engagement: 2931
-    commentsToLikes: 0.131081
-    id: ck8t87w5zje0t0j78usiprw3o
-    verified: false
-    hashtags: "#blackmetalgirl, #halloweenmakeup, #gothgirl, #makeuplook"
-  - username: "antoniyayaneva"
-    fullname: >-
-      
-    bio: >-
-      🌴Aloha👋😬 💌 DM for collabs 🧬Medical University Sofia 🖌Certified Makeup artist @angelbeautybulgaria
-    location: ""
-    followers: 5018
-    engagement: 2589
-    commentsToLikes: 0.316132
-    id: ckaots5cnx9ec0i78lj5knm8b
-    verified: false
-    hashtags: "#followmyself, #fashiondays, #fashiondaysbg, #littleblackdresses"
+    hashtags: "#blackhaircare, #lacefront, #congolaise, #rdcongo"
   - username: "mr.andre.fernandes"
     fullname: >-
       André 🎨
     bio: >-
-      💋 Makeup Artist (DM for info) 📍 Lisboa | Portugal 📧 afgfernandes@gmail.com 📺 ÚLTIMO VÍDEO ⤵️
+      💋 Makeup Artist (DM for info) 📮 Digital & Brands: @wowmeagency 📧 afgfernandes@gmail.com 🏷 Código Lookfantastic: MRANDRE 📺 ÚLTIMO VÍDEO ⤵️
     location: "Portugal"
-    followers: 10137
-    engagement: 2558
-    commentsToLikes: 0.903432
+    followers: 16874
+    engagement: 810
+    commentsToLikes: 0.401918
     id: ck8tduw344uvg0j78zgfznyqt
     verified: false
-    hashtags: "#katyperry, #malemua, #pastelmakeup, #nyxcosmetics"
-  - username: "mrsmlw_"
+    hashtags: "#lookfantastic, #makeuptutorial, #halloween, #makeupartist"
+  - username: "borndiva.ca"
     fullname: >-
-      𝐎̈ 𝐙 𝐆 𝐄  ♥
+      Jonathan Falardeau
     bio: >-
-      Mommy of three ❥ #zwillingsmama // pro makeup artist @mrsmlwcosmetics // wifey to @maroquinox ✨🤲🏻
-    location: "Germany"
-    followers: 2397
-    engagement: 2453
-    commentsToLikes: 0.152220
-    id: ckaos4627q0200i789z5s6xac
+      ♋️ 22 | q.c 🎨 shapeshifter - makeup artist 🎥 youtube | titkok | & more ⬇️
+    location: ""
+    followers: 11486
+    engagement: 417
+    commentsToLikes: 0.033723
+    id: ck8tda94q2j5m0j78pdduvqc6
     verified: false
-    hashtags: "#liebe, #mamablogger, #girls, #mamaleben"
-  - username: "sbenayas"
+    hashtags: "#makeupcanada, #trend, #colourfulmakeup, #makeup"
+  - username: "alessandroorati"
     fullname: >-
-      Sara Benayas
+      Alessandro Orati
     bio: >-
-      Pro Makeup Artist sarabenayas1@gmail.com 📍Madrid
-    location: "Spain"
-    followers: 12268
-    engagement: 2128
-    commentsToLikes: 0.085906
-    id: ck5hj6usxg40z0i112p7exbb0
+      Milano • 🌐Content Creator •💄Makeup Artist Youtube/TikTok: Alessandro Orati Collab: ale.orati@outlook.it Makeup / Hair (on request) ↓ ALL MY INFO ↓
+    location: "Italy"
+    followers: 23240
+    engagement: 309
+    commentsToLikes: 0.011805
+    id: ck5hga6ly1q5e0i116idud8kh
     verified: false
-    hashtags: "#holidaychallenge, #charlottetilbury, #maquizombie2020, #yesiamfabulous"
-  - username: "arnogill"
+    hashtags: "#gaypride, #ootd, #gay, #pridemonth"
+  - username: "bettansbridals"
     fullname: >-
-      A R N O   G I L L
+      Bettans Bridals
     bio: >-
-      🦩 Makeup Artist. Fuck gender rules 🇵🇱 Poland/Bydgoszcz/Warszawa 🥇 NYX makeup influencer academy Winner 2019 ☠️ 19 years old
-    location: "Poland"
-    followers: 13725
-    engagement: 1872
-    commentsToLikes: 0.107262
-    id: ck6tuuvdvik3x0j71y4fuilfg
+      HIT THE “FOLLOW”BUTTON BEFORE YOU SCROLL DOWN😍🇱🇰Sri lanka Makeup artist 🎨 |Bettans Bridals0777220770| The Colombo Makeupstudio 0775503033
+    location: ""
+    followers: 69712
+    engagement: 409
+    commentsToLikes: 0.058741
+    id: ck6tpqnntlviw0j716cks8y4o
     verified: false
-    hashtags: "#thelist, #boldmakeup, #blendtherules, #glamfam"
-  - username: "missxsavic"
+    hashtags: ""
+  - username: "noor_m_officiel"
     fullname: >-
-      𝙈𝙄𝙇𝙄𝘾𝘼 𝙎𝘼𝙑𝙄𝘾
+      Nour El Houda Bouhalissa
     bio: >-
-      MAKEUP ARTIST Content creator 📍🇷🇸 💌Contact/PR: geosa.m.93@gmail.com 💄Clients work @makeupbymilicasavic
+      Youtuber | Traveler | Content creator | Makeup Artist 📍- Algeria 🇩🇿 💡- 600K on Youtube 📌- For business: m.khelil@outlook.com
     location: "France"
-    followers: 16747
-    engagement: 1351
-    commentsToLikes: 0.230789
-    id: ck5ca9u18czue0i11ycpnwin3
+    followers: 2536082
+    engagement: 265
+    commentsToLikes: 0.009125
+    id: ck6u54b7d7iio0j71jzz1ccdp
     verified: false
-    hashtags: "#wakeupandmakeup, #morphebabe, #toofaced, #plouisebase"
-  - username: "karinporavne"
+    hashtags: "#happybirthday, #couplegoals, #jnmfamily, #restons"
+  - username: "rubeylalia"
     fullname: >-
-      MAKEUP & LASH FILLER 🤍
+      Rubey Lalia
     bio: >-
-      • Makeup artist | Bridal & beauty •Certified by @makeupbymario @belamakeuplada @ana.minic • Lash filler by @inlei_italy 📍Ljubljana, Slovenia
-    location: "Indonesia"
-    followers: 14913
-    engagement: 1327
-    commentsToLikes: 0.090320
-    id: ck6tuqz0uhwdy0j71pn10zbsd
+      🇬🇧🇮🇳☬ 🎨Makeup Artist / Creator : @rubeauty_ 📍NCL / LDN 📧Mua.lalia@live.com
+    location: "United Kingdom"
+    followers: 76208
+    engagement: 235
+    commentsToLikes: 0.020764
+    id: ck13cszwd207v0i19dbfc4m0a
     verified: false
-    hashtags: "#lashfiller, #ad, #muabykarin, #nudestix"
+    hashtags: "#smokeyeye, #gainz, #maccosmetics, #wakeupandmakeup"
+  - username: "preciousxabamakeup"
+    fullname: >-
+      PreciousXABA
+    bio: >-
+      Makeup artist, Health & Skin care therapist & Make-up Educator Makeup bookings email-xaba.precious@yahoo.com Campaign bookings email -Percy@uvba.co.za
+    location: "South Africa"
+    followers: 42238
+    engagement: 278
+    commentsToLikes: 0.123191
+    id: ck5hkod83isj10i11i7nk6c8f
+    verified: false
+    hashtags: "#editorialmakeup, #bridalmakeup, #makeup, #editorialphotography"
+  - username: "ibeatthatface"
+    fullname: >-
+      lacey
+    bio: >-
+      •Cali 🌴 •freelance makeup artist 💄 • brow slayer Business inquiries : mua_lacey92@yahoo.com
+    location: "United States"
+    followers: 135107
+    engagement: 160
+    commentsToLikes: 0.019512
+    id: ckqquvmx5xsgk0j23yj2ikfzr
+    verified: false
+    hashtags: "#nyxcosmetics, #kvdbeauty, #rarebeauty, #holidaymakeup"
 ---

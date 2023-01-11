@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Venezuela In 2022
+title: Top 10 Runners Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top runners Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #model #runner.
+  Find top runners Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #model #style.
 platform: Instagram
-hits: 12
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 12 Instagram influencers like this in Venezuela for you to work with.
+hits: 11
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 11 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
+  - username: "gabrielacoronado10"
+    fullname: >-
+      Gabriela Coronado
+    bio: >-
+      Todo está en la mente ✨ Miss Panamerican Venezuela 19’ 2da runner up of Miss Panamerican International 19 @misspanamericaninternational
+    location: "Venezuela"
+    followers: 46897
+    engagement: 346
+    commentsToLikes: 0.026083
+    id: ck5bwz6xsmp4k0i11163551fu
+    verified: false
+    hashtags: "#tbt, #tusbesos, #2021massensual, #transformacion"
+  - username: "sthefanygutierrez1"
+    fullname: >-
+      Sthefany Gutierrez Gutierrez
+    bio: >-
+      📍🇻🇪 Guerreros de amor 💛💙❤️ @guerrerosdeamorfundacion Miss Venezuela 2017 2nd runner up Miss Universe 2018 Twitter @sthefanygutie
+    location: "Venezuela"
+    followers: 1441793
+    engagement: 230
+    commentsToLikes: 0.010037
+    id: ck0tw1g54dlxh0i19xkim88cf
+    verified: true
+    hashtags: "#und, #rutadelaalegria"
   - username: "gabrieladelacruz1"
     fullname: >-
       Gabriela De La Cruz
     bio: >-
       Miss Supranational Venezuela 19’ @misssupravenezuela 4th runner up of @misssupranational 19’
     location: "Venezuela"
-    followers: 27355
-    engagement: 579
-    commentsToLikes: 0.039090
+    followers: 27498
+    engagement: 386
+    commentsToLikes: 0.040231
     id: ck55lq49025cd0i11g8gsoijz
     verified: false
-    hashtags: "#photoshootday, #photoshoot, #birthdaygirl, #sorrynotsorry"
-  - username: "sthefanygutierrez1"
-    fullname: >-
-      Sthefany Gutierrez Gutierrez
-    bio: >-
-      📍🇻🇪 Guerreros de amor 💛💙❤️ @guerrerosdeamorfundacion Miss Venezuela 2017 2nd runner up Miss Universe 2018
-    location: "Venezuela"
-    followers: 1431805
-    engagement: 419
-    commentsToLikes: 0.014398
-    id: ck0tw1g54dlxh0i19xkim88cf
-    verified: true
-    hashtags: "#interiordesign, #homedesigner, #und, #desing"
-  - username: "gabrielacoronado10"
-    fullname: >-
-      Gabriela Coronado
-    bio: >-
-      Miss Panamerican Venezuela 19’ 2da runner up of Miss Panamerican International 19 @misspanamericaninternational 👇🏼👇🏼Entrevista con @dr.obayi
-    location: "Venezuela"
-    followers: 47046
-    engagement: 459
-    commentsToLikes: 0.026434
-    id: ck5bwz6xsmp4k0i11163551fu
-    verified: false
-    hashtags: "#summer, #poolsunday, #amorpropio, #azul"
-  - username: "leonardoc01"
-    fullname: >-
-      Leonardo Carrero
-    bio: >-
-      4th Runner up of @officialmistersupranational 2019 CON DIOS TODO, SIN ÉL NADA.🙏😇 @mistersupravenezuela 🇻🇪2019
-    location: "Venezuela"
-    followers: 16543
-    engagement: 583
-    commentsToLikes: 0.030265
-    id: ck55li0m11ma50i11k6o7xej3
-    verified: false
-    hashtags: "#model, #pose, #mistersupranationalvenezuela, #men"
+    hashtags: "#christmasvibes, #positivemind, #photoshoot, #spam"
   - username: "vacoello"
     fullname: >-
       Dra. Vanessa Coello Coraspe
     bio: >-
-      USM👩🏻‍⚕️🇻🇪 @odcoello Residente @prostodonciaucv Fashion Model 💃 2da Runner Up ‘19 👑 @missvenezuela CEO @labelle.vzla Co-Host @madelabelleza
+      👩🏻‍⚕️🇻🇪 @odcoello Residente @prostodonciaucv Fashion Model 💃 2nd Runner Up ‘19 👑 @missvenezuela CEO @labelle.vzla
     location: "Venezuela"
-    followers: 22825
-    engagement: 392
-    commentsToLikes: 0.041778
+    followers: 26518
+    engagement: 588
+    commentsToLikes: 0.035773
     id: ck55lepus1e830i11wrkcunf6
     verified: false
-    hashtags: "#model, #ccs, #ggfashionshowccs, #tbt"
-  - username: "duquegm_offroad"
+    hashtags: "#venezuela, #latina, #beautyshoot, #tbt"
+  - username: "guisuarez12"
     fullname: >-
-      Land Cruiser SuperCharged
+      Guillermo Suárez P.
     bio: >-
-      #ATOM 2.0 Challenge-Rally @machito_s70 @arq4wd @skorpions4x4 @caracascauchos4x4 @teamcompass4wd ⛰🇻🇪 @power_led @power.led.vzla
+      Papa de Emiliano, Fotoperiodista, profesor de Fotoperiodismo y documentalismo. co-founder de @ghettophotove, runner y crossfit.
     location: "Venezuela"
-    followers: 6498
-    engagement: 534
-    commentsToLikes: 0.026750
-    id: ck6u95t1wvo930j71bhik5mqs
+    followers: 6157
+    engagement: 983
+    commentsToLikes: 0.089296
+    id: ck5q935mz95vc0i11fs7ayhhb
     verified: false
-    hashtags: "#roraima, #tundra, #runner, #machito"
+    hashtags: "#photojournalism, #caracas, #streetphotography, #venezuela"
   - username: "bio.lunatic"
     fullname: >-
-      
+      𝘎𝘌𝘕𝘌𝘚𝘐𝘚 𝘗𝘜𝘎𝘓𝘐𝘌𝘚𝘌
     bio: >-
-      Me and my adventures ☾ Currently in Barcelona R u n n i n g ⋆ T ra i l ⋆ H i k e #adidasrunnersbarcelona @vitaminwellesp ambassador
+      - from Venezuela, currently Barcelona 📩: gen.pugliesep@gmail.com Ambassador: @vitaminwellesp #adidasrunnersbarcelona 👇🏻 Healthy recipes on YouTube
     location: "Venezuela"
-    followers: 17623
-    engagement: 514
-    commentsToLikes: 0.180724
+    followers: 17976
+    engagement: 616
+    commentsToLikes: 0.162496
     id: ck0tvwbrnd2mu0i19v8w7tipq
     verified: false
-    hashtags: "#mondayvibes, #readyforsport, #toledo, #takearisk"
-  - username: "olgapurroytri"
+    hashtags: "#shufflestyles, #vitaminwell, #deportista, #adidasrunnersbarcelona"
+  - username: "lilianamusik"
     fullname: >-
-      Olga Purroy
+      lilianamusik
     bio: >-
-      •Madre y Esposa 👨‍👩‍👧‍👦 •Ciclista de Pista y Ruta🚵 •Triatleta 🏊🚴🏃 • #roadtokona2022 🌺 Team @trespinas 👇Diplomado Inteligencia Mental Deportiva 👇
+      Respiro Radio! Gocha! Mi posición sexual favorita es reírme!! 100% LOCUTORA Venezolana 💛💙♥️
     location: "Venezuela"
-    followers: 10989
-    engagement: 612
-    commentsToLikes: 0.045832
-    id: ck8t4sr627uzg0j78gmpf83r7
+    followers: 57204
+    engagement: 93
+    commentsToLikes: 0.090865
+    id: ck602ww5ojrf60i14d8c33ghk
     verified: false
-    hashtags: "#triathletes, #bike, #citybikesmiami, #swimbikerun"
-  - username: "wendyvic18"
+    hashtags: "#happy, #avila, #training, #tucacas"
+  - username: "annagomez.fit"
     fullname: >-
-      Wendy Alvarez
+      Anna Gómez ❇️
     bio: >-
-      "ENTRE SABORES GOURMET"🍪🥧 ☆Sienci 3.0🏋️‍♀️ ☆MonitorRunning🙋🙆 ☆UltraMaratonista🏃 ☆bailocanto💃 ☆100%Venezolana💛💙❤ ☆MamádeVictoria👭 ☆modelo📸 ☆AmoaDios🙏
+      💘¿Cómo no iba a pensar en ti, 💋si te echo de menos? ¿Cómo no iba a soñar contigo, si eres mi ángel protector?🌺 📲WhatsApp 📲
     location: "Venezuela"
-    followers: 10066
-    engagement: 438
-    commentsToLikes: 0.050511
-    id: ck6031xgckjht0i148k1p3hmu
+    followers: 84511
+    engagement: 190
+    commentsToLikes: 0.023806
+    id: ck8t2tcsb0mrr0j78dauqic9w
     verified: false
-    hashtags: "#mujer, #sisepuede, #vida, #resistencia"
-  - username: "venezueladeayer"
+    hashtags: "#followme, #workout, #hollywood, #love"
+  - username: "roco4wd"
     fullname: >-
-      Venezuela de Ayer 🇻🇪
+      ROCO4wd Caracas Venezuela 🇻🇪🔥
     bio: >-
-      CulTUra 🅿️🅾️🅿️ criOLLA Momentos inolvidables de una Venezuela deslumbrante. #️⃣ #venezueladeayer 🆒 @culturainsolita @musicadeayer @numismaniacos
+      ❗️Taller de customized 🔧🧰 ❗️Master distribuidor FUEL ARB XD series🇺🇸 ❗️arte & engineering 🔧 ♻️ 📍 Chacao 📍El Paraiso 📍 Santa Monica ❗️04123656852📞
     location: "Venezuela"
-    followers: 108115
-    engagement: 181
-    commentsToLikes: 0.054749
-    id: ck6twk30isge60j71nptmzzb7
+    followers: 119874
+    engagement: 106
+    commentsToLikes: 0.013549
+    id: ck5qa7c8xex5g0i11dw1gj7tg
     verified: false
-    hashtags: "#ig, #venezuelaquerida, #conocevenezuela, #hechoenvenezuela"
+    hashtags: "#custom, #wheels, #suspension, #bfgoodrichko2"
+  - username: "gigivillamizar"
+    fullname: >-
+      𝑺𝒐𝒚 𝑮𝒊𝒈𝒊 ✨
+    bio: >-
+      𝑴𝒂𝒎𝒂́ 𝑑𝑒 @babytiziano 𝑫𝒊𝒓𝒆𝒄𝒕𝒐𝒓𝒂 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒂 𝑑𝑒 @auroraboreal_ve 𝑴𝒊 𝑴𝒂𝒓𝒄𝒂 @ggvillamizar 𝑪𝒐𝒏𝒔𝒖𝒍𝒕𝒐𝒓𝒂 𝒅𝒆 @marykaylatam 𝑪𝒐𝒏𝒕𝒂𝒅𝒐𝒓𝒂•𝑨𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒅𝒐𝒓𝒂 𝑑𝑒 𝑃𝑟𝑜𝑓𝑒𝑠𝑖𝑜́𝑛
+    location: "Venezuela"
+    followers: 67496
+    engagement: 121
+    commentsToLikes: 0.020229
+    id: ck602zbgdk5hr0i14c9gwautl
+    verified: false
+    hashtags: "#woman, #sancristobal, #piel, #blonde"
 ---

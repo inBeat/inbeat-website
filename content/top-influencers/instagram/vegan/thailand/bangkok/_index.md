@@ -1,24 +1,12 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bangkok In 2022
+title: Top 10 Vegan Instagram Influencers In Bangkok In 2023
 description: >-
-  Find top vegan Instagram influencers in Bangkok in 2022. Most popular hashtags: #vegan #plantbased #bangkok.
+  Find top vegan Instagram influencers in Bangkok in 2023. Most popular hashtags: #vegan #plantbased #buttertiajourney.
 platform: Instagram
-hits: 5
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in Bangkok, Thailand for you to contact.
+hits: 4
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 4 Instagram influencers like this in Bangkok, Thailand for you to connect with.
 profiles:
-  - username: "noodi_vanessa"
-    fullname: >-
-      Vanessa Race
-    bio: >-
-      FB:อัจฉริยะสร้างได้ Youtube :Noodee BrainWorks โรงเรียนวนิษาสุขุมวิท 👉 www.vanessa.ac.th ติดต่องานทางอีเมลเท่านั้น 😁 ที่ NoodeeBrainWorks@gmail.com
-    location: "Thailand"
-    followers: 108626
-    engagement: 58
-    commentsToLikes: 0.018319
-    id: ck6u78tb4k4hl0j715vj5idvj
-    verified: false
-    hashtags: "#eatplantsfortheplanet, #goodsoulskitchenbkk, #plantpowered, #bkk"
   - username: "mymeatlessmeals"
     fullname: >-
       Vegan Food Tales by a Thai 🌱🇹🇭
@@ -30,79 +18,91 @@ profiles:
     commentsToLikes: 0.032383
     id: ck5hoog7npxh10i11n5zv2zpg
     verified: false
-    hashtags: "#veganfoods, #vegancommunity, #recipes, #veganfoodporn"
+    hashtags: "#sriracha, #vegans, #easyrecipes, #veganeating"
+  - username: "warutthaim"
+    fullname: >-
+      Butter Waruttha karchai
+    bio: >-
+      @wsugarfree I’m #plantbased #vegan
+    location: "Thailand"
+    followers: 925331
+    engagement: 50
+    commentsToLikes: 0.002744
+    id: ckaoqpuvcjsz00i78860tdc6y
+    verified: false
+    hashtags: "#vegan, #plantbased, #buttertiajourney, #chalalahalloween"
   - username: "gainmadeline"
     fullname: >-
       Personal Trainer / Athlete
     bio: >-
       Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
     location: "Thailand"
-    followers: 8355
-    engagement: 348
-    commentsToLikes: 0.019032
+    followers: 8382
+    engagement: 326
+    commentsToLikes: 0.020372
     id: ck55ox92q9bfr0i11nn8p3w63
     verified: false
-    hashtags: "#athlete, #diet, #bangkok, #healthylifestyle"
-  - username: "migrationology"
+    hashtags: "#muscle, #personaltraining, #gym, #transformation"
+  - username: "iankittichai"
     fullname: >-
-      Mark Wiens
+      Pongtawat Chalermkittichai
     bio: >-
-      🍽 Full-Time Eater 🌶 Restaurant: @phedmarkbkk 👇 Watch latest video :
+      🇹🇭@cuisineconcept 🇹🇼@coasttaiwan 🇹🇭@issayasiameseclub 🇺🇸@spotdessertbar 🇸🇬@rwsdiningartisans 🇹🇭Masterchefthailand 🇳🇱KittichaiBV
     location: "Thailand"
-    followers: 1250690
-    engagement: 258
-    commentsToLikes: 0.015262
-    id: ck0uesdtsm2zi0i196x7wfkv2
-    verified: true
-    hashtags: "#tijuana, #markwiens, #jamaicanfood, #thaifood"
-  - username: "sononui"
-    fullname: >-
-      Keira Phitchakorn Balla
-    bio: >-
-      Beauty Within Line: @Sononui 🇮🇹AFS Italy
-    location: "Thailand"
-    followers: 243622
-    engagement: 110
-    commentsToLikes: 0.010299
-    id: ck55n1jau5a640i11p9mrkhuj
+    followers: 215932
+    engagement: 90
+    commentsToLikes: 0.006584
+    id: ck0w3aqkbsfrf0i1993riqqo5
     verified: false
-    hashtags: "#tcm, #sono, #beauty, #quarantinelife"
-  - username: "popcorndouce"
-    fullname: >-
-      Pop Corn
-    bio: >-
-      🌱 Vegan. 🧘‍♀️ Baby yogi. 👯‍♀️ Aerialist.
-    location: "Thailand"
-    followers: 19136
-    engagement: 583
-    commentsToLikes: 0.021241
-    id: ck6ueypnlttb00j71p7bmnwo1
-    verified: false
-    hashtags: "#thailand, #phuket, #cat, #oddeyedcat"
+    hashtags: "#iankittichai, #stayhome, #igdaily, #cuisineconceptbyiankittichai"
   - username: "takiatto"
     fullname: >-
       Tak sawasdibood
     bio: >-
       Vegan Wizard
     location: "Thailand"
-    followers: 7155
-    engagement: 718
-    commentsToLikes: 0.027066
+    followers: 7133
+    engagement: 675
+    commentsToLikes: 0.019803
     id: ckap1l096uzt80i78zfy6qq0s
     verified: false
-    hashtags: "#oskn17"
+    hashtags: "#staycation"
   - username: "jeena_adcharaporn"
     fullname: >-
       Jeena Adcharaporn
     bio: >-
-      จีน่า อัจฉราภรณ์😙💕 นางสาวไทย 2556👸🏼 Miss Thailand 2013 Actress,TV Host,MC 💥True4U,True Inside #For work‭ 091-541-6463 #Vegangirl🍎🌽🥑 @biscuitthecorgi_
+      จีน่า อัจฉราภรณ์😙💕 นางสาวไทย 2556👸🏼 Miss Thailand 2013 Actress,TV Host,MC 💥True Inside #For work‭ 091-541-6463 #Vegangirl🍎🌽🥑 @baconbiscutethecorgi
     location: "Thailand"
-    followers: 30929
-    engagement: 81
-    commentsToLikes: 0.022185
+    followers: 30920
+    engagement: 78
+    commentsToLikes: 0.024311
     id: ck0w354ygrnn10i19fp5atqqa
     verified: false
-    hashtags: "#noojeeinphuket, #noojeemakemerit, #missuniversethailand2020, #joeyjeenamissthailand"
+    hashtags: "#corgistagram, #myfavcorgi, #noojeemakemerit, #lovecorgi"
+  - username: "aannett"
+    fullname: >-
+      ANNETT A.🐥💚🌴
+    bio: >-
+      Contact Line : @aannett YouTube : Annett A. @veganett.th @dress.matters @heartloomstudio
+    location: "Thailand"
+    followers: 73371
+    engagement: 146
+    commentsToLikes: 0.005760
+    id: ck14ig3gdf87g0i191gqrw5sx
+    verified: false
+    hashtags: "#burberrythailand, #thegiftcreatorsspace, #loverlution, #sangsom"
+  - username: "warutthaim"
+    fullname: >-
+      Butter Waruttha karchai
+    bio: >-
+      @wsugarfree I’m #plantbased #vegan
+    location: "Thailand"
+    followers: 925331
+    engagement: 50
+    commentsToLikes: 0.002744
+    id: ckaoqpuvcjsz00i78860tdc6y
+    verified: false
+    hashtags: "#vegan, #plantbased, #buttertiajourney, #chalalahalloween"
   - username: "mymeatlessmeals"
     fullname: >-
       Vegan Food Tales by a Thai 🌱🇹🇭
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.032383
     id: ck5hoog7npxh10i11n5zv2zpg
     verified: false
-    hashtags: "#veganfoods, #vegancommunity, #recipes, #veganfoodporn"
+    hashtags: "#sriracha, #vegans, #easyrecipes, #veganeating"
   - username: "pang.edener"
     fullname: >-
       Pang HealthyRoutine
     bio: >-
-      God’s favorite daughter❣️ 🍎 Founder of @edenerjuice 🌿 Obsessed with HousePlants 📚 Integrative Health Coach 💋 DM for work 🐱Tabby is on Tiktok 🔽
+      God’s favorite❣️ 🍎 Founder of @edenerjuice Organic ColdpressedJuice & Almond milk 💕 Essential Oil 📚 Integrative Health Coach IIN New Video👇🏻
     location: "Thailand"
-    followers: 27557
-    engagement: 100
-    commentsToLikes: 0.035508
+    followers: 33733
+    engagement: 82
+    commentsToLikes: 0.038938
     id: ck5zkbfezj64g0i14gtq5brqw
     verified: false
-    hashtags: "#cacao, #coldpressedjuice, #panghealthyroutine, #plantbased"
+    hashtags: "#youngliving, #panghealthyroutine, #phuketthailand, #vegan"
 ---

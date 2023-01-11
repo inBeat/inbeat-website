@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In France In 2022
+title: Top 10 TikTok Influencers In France In 2023
 description: >-
-  Find top TikTok influencers in France in 2022. Most popular hashtags: #fyp #humour #duo.
+  Find top TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #france #foryou.
 platform: TikTok
-hits: 5468
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 5468 TikTok influencers like this in France for you to pitch.
+hits: 5610
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 5610 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "loulou.starou"
     fullname: >-
       loulou starou
     bio: >-
-      Miss International NA 2020👑 📩Collab: mariionnpro@gmail.com Insta: louloustarou
+      Road to Miss International France 2021 👑 Insta: louloustarou
     location: "France"
-    followers: 80800
-    engagement: 1865
-    commentsToLikes: 0.010103
+    followers: 78400
+    engagement: 1191
+    commentsToLikes: 0.013633
     id: ckb9lyk9qes890j23ohpyd2x5
     verified: false
-    hashtags: "#foryou, #fyp, #tombola, #trend"
-  - username: "matt.brt"
+    hashtags: "#storytime, #louloustarou, #foryou, #voyage"
+  - username: "cedric.sc"
     fullname: >-
-      Matthyss
+      Cédric🙏🏽
     bio: >-
-      • insta: matt.brt 🦋 • Partenariat 📤 matthyss@beam-agency.com Dernière vidéo 🔽
+      Mon Insta Est Juste ici☝🏽Va Voir❤️ Snap\ cedriic.sc Pro>cedric.scpro@gmail.com
     location: "France"
-    followers: 1500000
-    engagement: 2767
-    commentsToLikes: 0.029915
-    id: ck9acyqymuuwk0j7884myjk8z
+    followers: 404500
+    engagement: 2624
+    commentsToLikes: 0.027579
+    id: ck9sm54bvhj1g0j789eu14fbh
     verified: false
-    hashtags: "#duo, #collage"
-  - username: "_chamaelloow_"
-    fullname: >-
-      Chamaelloow
-    bio: >-
-      Maman ou Jean-Eudes maeva@hotmango.fr J’ai 325k enfants ❤️
-    location: "France"
-    followers: 324800
-    engagement: 2621
-    commentsToLikes: 0.030532
-    id: ck9c6x9r2rgx40j78mhed23wx
-    verified: false
-    hashtags: "#duo, #confinement, #collage"
-  - username: "mathis_cherchour"
-    fullname: >-
-      mathis_cherchour
-    bio: >-
-      ⬆️ Dingueries sur INSTA ⬆️ 📥 mathis.cherchour@outlook.fr ENFIN BREF ABONNE TOI
-    location: "France"
-    followers: 627000
-    engagement: 2593
-    commentsToLikes: 0.033672
-    id: ckd5o8d1uwx8x0j23cfs1rg1s
-    verified: false
-    hashtags: "#filles, #humour, #drole, #lycee"
-  - username: "math_adore"
-    fullname: >-
-      Math adore
-    bio: >-
-      Suite Vidéo Horreur😈🎃⬇️CLIQUE⬇️
-    location: "France"
-    followers: 1300000
-    engagement: 2497
-    commentsToLikes: 0.044794
-    id: ckbaupbsvl92s0j23sona0rai
-    verified: false
-    hashtags: "#crush, #duo, #halloween, #humour"
-  - username: "sckrapyy"
-    fullname: >-
-      😈 Sckrapy Teddy 😇
-    bio: >-
-      ✉️ Pro : sckrapyange@rushinfluence.fr ~ 💜 L O V E 💜 ~ Instagram: sckrapyyy
-    location: "France"
-    followers: 981500
-    engagement: 2442
-    commentsToLikes: 0.031929
-    id: ckbasqp8sjdv20j230lnasg1r
-    verified: false
-    hashtags: "#jeu, #fyp, #defi, #tourdepisechallenge"
+    hashtags: "#schoolmouv, #partenariat, #duo"
   - username: "marilou1637"
     fullname: >-
       🦋Mãrīlõū🦋
     bio: >-
-      Instagram: marilou1726 𝚃𝚊𝚔𝚎 𝚜𝚖𝚒𝚕𝚎! ♡︎ 📥marilounrpro@gmail.com
+      Instagram: marilou1726 📥marilounrpro@gmail.com
     location: "France"
-    followers: 291700
-    engagement: 2437
-    commentsToLikes: 0.031937
+    followers: 295800
+    engagement: 2539
+    commentsToLikes: 0.034172
     id: ckbfbj69z3ohr0j23btsq9079
     verified: false
-    hashtags: ""
-  - username: "liahail"
+    hashtags: "#acne, #traitementacne, #acnee, #roaccutanecheck"
+  - username: "babylone_agency"
     fullname: >-
-      Liahailmusic
+      Babylone Agency
     bio: >-
-      ✨Music et Acting✨ Contact: lia@hotmango.fr Music:liahailmusic@yahoo.com
+      Thierry@babylone-agency.com
     location: "France"
-    followers: 246000
-    engagement: 2387
-    commentsToLikes: 0.056138
-    id: ckc8h319cb8fs0j23lk8imbpa
+    followers: 912000
+    engagement: 2366
+    commentsToLikes: 0.066109
+    id: ckacukrlijc860i78ujf0obv2
     verified: false
-    hashtags: "#foryoupage, #pourtoipage, #pourtoi, #enigme"
-  - username: "badi_benali"
+    hashtags: "#foryou, #pourtoi, #humour, #pov"
+  - username: "sireybam"
     fullname: >-
-      badi benali
+      shirley
     bio: >-
-      Hello 🙈 Email Pro: Badibenali.pro@gmail.com 💌 Écoutez ma nouvelle chanson 🎧🔽
+      🕊🧸🥡🔖🤍 merci pour tout + sur ig : junianoe ♡ 💌 : sireybam@gmail.com
     location: "France"
-    followers: 790800
-    engagement: 2288
-    commentsToLikes: 0.024482
-    id: ck9sljc4se9r70j784mw4j7q3
-    verified: true
-    hashtags: "#collage, #voiceeffects, #distorsiontemporelle"
+    followers: 147100
+    engagement: 2329
+    commentsToLikes: 0.014602
+    id: ckbbd9xuc258h0j23zdpjv3fb
+    verified: false
+    hashtags: "#feelyourselfbabe, #showmeyourdenim, #wantemall, #countrymusic"
+  - username: "yesmonga"
+    fullname: >-
+      Alex 🇷🇴
+    bio: >-
+      Follow IG je réponds :) yesmonga@socialcut.agency 📥 MERCI POUR LES 1,1M❤️ 1,2M
+    location: "France"
+    followers: 1100000
+    engagement: 1933
+    commentsToLikes: 0.056061
+    id: ck9er2f70zvqf0j785nhul1c8
+    verified: false
+    hashtags: "#sorstoi, #sponsoris, #bumpme, #zenly"
   - username: "france...vs..usa"
     fullname: >-
-      🇫🇷 vs 🇺🇸
+      🇺🇸Vs🇫🇷
     bio: >-
-      GROS concours du MILLION sur mon Instagram ! Indice :🍎
+      France ou Usa 🇺🇸 🇫🇷 ?⬇️ 1 Millions De Bg 👁🤩 insta: folie_luxieuse
     location: "France"
     followers: 1000000
-    engagement: 2253
-    commentsToLikes: 0.074828
+    engagement: 1925
+    commentsToLikes: 0.043123
     id: ckcuq1kckj4mk0j23h7rq69ef
     verified: false
-    hashtags: "#vote, #pourtoi, #fyp, #france"
+    hashtags: "#france, #usa, #urgence, #fyp"
+  - username: "math_adore"
+    fullname: >-
+      Math adore
+    bio: >-
+      PRO 📩 : mathadoreee@gmail.com OFFRE CANAL+
+    location: "France"
+    followers: 1700000
+    engagement: 1913
+    commentsToLikes: 0.020746
+    id: ckbaupbsvl92s0j23sona0rai
+    verified: false
+    hashtags: ""
+  - username: "aurelienfancy"
+    fullname: >-
+      Aurélien
+    bio: >-
+      Instagram : aurelienfancy 📫: aurelienfancy@influneo-agency.fr
+    location: "France"
+    followers: 288400
+    engagement: 1911
+    commentsToLikes: 0.004712
+    id: ckbl0vjlexouq0j23ohg5gej3
+    verified: false
+    hashtags: ""
+  - username: "luna_husky_siberien"
+    fullname: >-
+      luna_husky_siberien
+    bio: >-
+      🇫🇷 🏔 🐺 🏃‍♂️📸 ⬇️ Luna
+    location: "France"
+    followers: 23300
+    engagement: 1835
+    commentsToLikes: 0.122468
+    id: ckb9v73rdudfr0j231d5bi0mj
+    verified: false
+    hashtags: "#pose, #vue, #model, #moment"
 ---

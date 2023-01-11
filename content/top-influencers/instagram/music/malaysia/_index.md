@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Malaysia In 2022
+title: Top 10 Music Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top music Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysiancover #ootd #cover.
+  Find top music Instagram influencers in Malaysia in 2023. Most popular hashtags: #cover #sunset #beach.
 platform: Instagram
-hits: 101
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 101 Instagram influencers like this in Malaysia for you to work with.
+hits: 65
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 65 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
   - username: "kuangtian_00"
     fullname: >-
-      Kuang Tian
+      Kuang Tian 田士廣
     bio: >-
       Actor.Musician.
     location: "Malaysia"
-    followers: 12611
-    engagement: 1433
-    commentsToLikes: 0.019326
+    followers: 12697
+    engagement: 1122
+    commentsToLikes: 0.018490
     id: ck6tvrfo3nuhs0j717tuomitu
     verified: false
-    hashtags: "#coachss20, #ghostbride, #coachny, #netflixmy"
-  - username: "uriahsk"
-    fullname: >-
-      Uriah 徐凯
-    bio: >-
-      1 Corinthians 13:4-5 On a Journey 🇲🇾🇨🇳 Singer-songwriter • Actor Managed by Idea Music - 012-3118776 Watch this 👇🏻
-    location: "Malaysia"
-    followers: 78535
-    engagement: 660
-    commentsToLikes: 0.008414
-    id: ck5chxu5irnfp0i11jmpi9bbf
-    verified: true
-    hashtags: "#zenbook, #absoluteinfashion, #ootd, #clarinsmy"
-  - username: "chaleedaxgilbert"
-    fullname: >-
-      🦋Chaleeda🦋
-    bio: >-
-      19 Netflix Original, The Stranded as Arisa ‘ปล่อย (Ploi)’ Official Music Video🎵🎶 for work; @gushcloudth 🤍
-    location: "Malaysia"
-    followers: 236623
-    engagement: 822
-    commentsToLikes: 0.004352
-    id: ck0u137r5vnff0i19xpmk0jt4
-    verified: true
-    hashtags: "#kittykawaiixblogger, #v20series5g, #bethefocus"
+    hashtags: "#malaysia, #supporting, #nuyou, #netflix"
   - username: "angelachingwan"
     fullname: >-
       許靖韻 Angela 小背心
     bio: >-
       EEG SINGER Music is life 💋 Job inquiry : angela.chingwan@gmail.com 《別為我好》《謝謝 對不起》￼👇🏻
     location: "Malaysia"
-    followers: 126371
-    engagement: 329
-    commentsToLikes: 0.013236
+    followers: 127370
+    engagement: 394
+    commentsToLikes: 0.012632
     id: ck0vxozc9005q0i19l9ph3w3d
     verified: true
-    hashtags: "#my25, #cover"
+    hashtags: "#yahoo, #pipastyling, #kkbox, #blackpinkcover"
   - username: "kayeepo"
     fullname: >-
       譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
     bio: >-
-      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella ☎️公司email : ella.heung@tvb.com.hk 🎥My Latest MV
+      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella 💻Office : 2335 2305 ☎️ Email : ella.heung@tvb.com.hk 🎥My Latest MV
     location: "Malaysia"
-    followers: 163791
-    engagement: 311
-    commentsToLikes: 0.013859
+    followers: 170188
+    engagement: 250
+    commentsToLikes: 0.015586
     id: ck5c5ipe33jpk0i1117y74mln
     verified: true
-    hashtags: "#mv, #happynight, #loveit, #reallyhocheng1107"
-  - username: "tysnasaputra"
+    hashtags: "#happysunday, #love, #youtubechannel, #kayeetam"
+  - username: "rimka"
     fullname: >-
-      TYSNA SAPUTRA
+      RIMKA
     bio: >-
-      nice clothing, good music & BTS songs make me happy PRELOVED at @lemari.tysna . 📩 hallo.tysnasaputra@hotmail.com
+      Bright fashion, dark music & positive energy ✨ DJ/Producer & Co founder: @unveil.atelier & @immigrant.clothing ⁣⁣ GET MY TA’DUM TRACK👇🏽
     location: "Malaysia"
-    followers: 178706
-    engagement: 329
-    commentsToLikes: 0.007469
-    id: ck0uad0pvbyor0i19xo0jz8sy
+    followers: 6771
+    engagement: 416
+    commentsToLikes: 0.072161
+    id: ck5bwkl90lvsm0i113cnfztxp
     verified: false
-    hashtags: "#antiputusnyambungterus, #tipsalatysna, #nonstopkreasiq"
-  - username: "shahazwani_nafisha"
+    hashtags: "#truth"
+  - username: "emceejesz"
     fullname: >-
-      𝑩𝒖𝒅𝒂𝒌 𝑺𝒖𝒑𝒓𝒊𝒔𝒆🤪💥
+      Kavithai Gundar Emcee Jesz
     bio: >-
-      |19| UPSI🦋 DIPLOMA IN MUSIC🎤
+      New Acc| Pioneer of Tamil HipHop | Natchatra Rap Artist |Actor |Producer | Lyricist Mentor Judge Host Music Producer#RAPPORKALAM #KGGANG#NERIKISEI
     location: "Malaysia"
-    followers: 5780
-    engagement: 1264
-    commentsToLikes: 0.030196
-    id: ckap515xr9pz50i78bdnym3jh
+    followers: 18102
+    engagement: 318
+    commentsToLikes: 0.015926
+    id: ck5zpq2p8t4lb0i14ssr28fw6
     verified: false
-    hashtags: "#malaysiancoversong, #coverlagu, #malaysiancover, #raya2020"
+    hashtags: "#kggang, #tamilrap, #throwback, #2021"
   - username: "karinahor"
     fullname: >-
       !             Karina🎀
     bio: >-
       Singer | Music | Travel 🎵 📩karinahor316@gmail.com ♥ 🎤 #Karina歌曲分享時間 💃🏻 #tripleHORdance ♥ Facebook🔍 www.facebook.com/karinahor ♥ YouTube頻道🎬
     location: "Malaysia"
-    followers: 63402
-    engagement: 170
-    commentsToLikes: 0.006145
+    followers: 62902
+    engagement: 175
+    commentsToLikes: 0.007763
     id: ck5q8bwfg5en20i11x293lypl
     verified: false
-    hashtags: "#foodie, #travel, #streetstyle, #macau"
+    hashtags: "#ootd, #instagood, #travel, #aroundtheworld"
+  - username: "ninamariedaniele"
+    fullname: >-
+      NINA DRAMA
+    bio: >-
+      My Myspace acct got deleted @ 3 Billion followers Social Inquiries 🤳🏻📧 leanne@musicbrandagency.com Follow me on my other channels ⬇️📺
+    location: "Malaysia"
+    followers: 913349
+    engagement: 543
+    commentsToLikes: 0.018502
+    id: ck14kbfwboow70i19q9gp9z06
+    verified: true
+    hashtags: "#instagramreels, #pubityreels, #relatable, #reels"
   - username: "wafiyofficial._"
     fullname: >-
-      𝓜𝓾𝓱𝓪𝓶𝓶𝓪𝓭 𝔀𝓪𝓯𝓲𝔂🐼✨
+      PAID // GIVE REVIEW DM 👌
     bio: >-
-      •15||🇲🇾 paid / gift review dm ‼️ •ℙ𝕖𝕟𝕪𝕒𝕟𝕪𝕚 / ℙ𝕖𝕝𝕒𝕜𝕠𝕟 @star.musicrecords •𝕄𝕒𝕟𝕒𝕘𝕖𝕣 @wafiy_officialfans •𝕤𝕖𝕔 𝕒𝕔𝕔 @wafiyofficial.__
+      16|| 🇲🇾 Tiktok ; Muhammadwafiy Youtube🎥 WAFIY AZYRUL Label 📌 @star.musicrecords Manager @wafiy_officialfans Sec acc @wafiyofficial.__ @wafiyazyrul
     location: "Malaysia"
-    followers: 127231
-    engagement: 976
-    commentsToLikes: 0.026394
+    followers: 146468
+    engagement: 732
+    commentsToLikes: 0.012040
     id: ck8t45jru5kwg0j78ssxwlj58
     verified: false
-    hashtags: "#explore, #covermalaysia, #brokenheart, #jiwang"
-  - username: "aisharetno02"
+    hashtags: "#fyp, #wafiycover, #lagujiwang, #malaysiancover"
+  - username: "smiretzymann"
     fullname: >-
-      Sharifah Aisha Retno
+      翁滋蔓 Smire
     bio: >-
-      🇲🇾🇮🇩 B.Econs UM Sony Music @sonymusicmy @sonymusic_malaysia VOTE AISHA RETNO FOR VOKAL MANIA!!link below For Enquiries: +60 10-773 3649 (Aimeil)
+      Actress, Host, News Anchor, Singer, Music Producer❤️⠀ 📍工作或合作請連繫email：mannorange@gmail.com 📍IG僅此一個帳號😊 📍Facebook：
     location: "Malaysia"
-    followers: 13430
-    engagement: 1025
-    commentsToLikes: 0.041667
-    id: ck5cl4vc2y94t0i11lmy6mtrh
+    followers: 88818
+    engagement: 360
+    commentsToLikes: 0.008123
+    id: ck14jz2hzmw3f0i19iwm5vq2a
+    verified: true
+    hashtags: "#smire, #sunset, #golfer, #golfclubs"
+  - username: "ericexploreshotels"
+    fullname: >-
+      Eʀɪᴄ (Rɪᴄᴋʏ) Cᴀʀᴛᴇʀ Hᴀʜ
+    bio: >-
+      Music producer. Love exploring hotels and checking out what’s new. Now posting Langkawi, 🇲🇾. Next destination, KL, 🇲🇾.
+    location: "Malaysia"
+    followers: 29534
+    engagement: 123
+    commentsToLikes: 0.034387
+    id: ck6tpt0rgmm9m0j71f2cv842j
     verified: false
-    hashtags: "#retnosings, #terimakasihaishayuka, #vokalmania, #2daystogo"
+    hashtags: "#dusk, #rcmemories, #langkawi, #theandamanlangkawi"
 ---

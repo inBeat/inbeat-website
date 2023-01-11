@@ -1,130 +1,118 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Norway In 2022
+title: Top 10 Illustrators Instagram Influencers In Norway In 2023
 description: >-
-  Find top illustrators Instagram influencers in Norway in 2022. Most popular hashtags: #art #artwork #illustration.
+  Find top illustrators Instagram influencers in Norway in 2023. Most popular hashtags: #illustration #art #drawing.
 platform: Instagram
-hits: 10
+hits: 9
 text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 10 Instagram influencers like this in Norway for you to work with.
+text_bottom: Our search engine aggregates 9 Instagram influencers like this in Norway for you to connect with.
 profiles:
+  - username: "lisaaisato"
+    fullname: >-
+      Lisa Aisato
+    bio: >-
+      Norwegian illustrator and author #lisaaisato If you have questions, send an email to contact@lisaaisato.com. No DM’s please. Shop:
+    location: "Norway"
+    followers: 158541
+    engagement: 1124
+    commentsToLikes: 0.015899
+    id: ck0ud21zpi8qv0i19xud4v18d
+    verified: true
+    hashtags: "#livetillustrert, #allthecolorsoflife, #tilossfradeeldste, #lavidaillustrada"
   - username: "annaspeshilova"
     fullname: >-
       Anna Speshilova | artist
     bio: >-
-      ↟ Magic maker ↟ Book illustrator ➳ Originals for sale: #as_original_for_sale ➳ Commissions (2022): e-mail ✎ DM ➳ Prints 👇
+      ↟ Artist, book illustrator from Russia ❆ ➳ Originals for sale: #as_original_for_sale ➳ Commissions closed ➳ Prints 👇
     location: "Norway"
-    followers: 26750
-    engagement: 1400
-    commentsToLikes: 0.033488
+    followers: 28634
+    engagement: 1213
+    commentsToLikes: 0.043689
     id: ck5zk9y3cj3780i14rnjwpzz0
     verified: false
-    hashtags: "#dtiys, #potterheadholidays, #speshilova, #as"
+    hashtags: "#drawthisinyourstyle, #dtiys, #as, #speshilova"
   - username: "kristinaskland"
     fullname: >-
       Kristin Askland
     bio: >-
-      🌲Hello! I’m Kristin, a freelance illustrator from Norway 💌Write me? Kristinolsenaskland@gmail.com 💛My Etsy shop is under here👇🏼
+      ✏️ Illustrator & graphic designer from Norway 💌 KristinOlsenAskland@gmail.com
     location: "Norway"
-    followers: 45951
-    engagement: 557
-    commentsToLikes: 0.014310
+    followers: 50956
+    engagement: 387
+    commentsToLikes: 0.015440
     id: ck0w6s7fxa1kc0i19fwntpfty
     verified: false
-    hashtags: "#midsummermagicmonth, #midsummermagicmonth2020"
+    hashtags: "#gifted, #ad, #animaladventuresweek2021"
   - username: "bjornlie"
     fullname: >-
       bjornlie
     bio: >-
       Norwegian illustrator washed up in the East Neuk of Fife.
     location: "Norway"
-    followers: 6610
-    engagement: 498
-    commentsToLikes: 0.033974
+    followers: 6820
+    engagement: 462
+    commentsToLikes: 0.035428
     id: ck8sylg78l6ht0j78mvtv80fd
     verified: false
-    hashtags: "#deusxbjornlie, #devils, #bukowski"
-  - username: "heliheart"
-    fullname: >-
-      Heli Peach 🇳🇴 (comic artist)
-    bio: >-
-      25 | Mangaka | Educated Illustrator (grade: A) Dream: be a successful manga-artist in Norway! ✨ Read my webcomic: helipeach.com My manga store:
-    location: "Norway"
-    followers: 12154
-    engagement: 1029
-    commentsToLikes: 0.030106
-    id: ck8tc871symx50j78u2qxawxs
-    verified: false
-    hashtags: "#nordicon, #demonslayer, #kimetsunoyaibafanart, #animeart"
+    hashtags: "#alpinist, #mountainclimbing, #mountains, #illustration"
   - username: "ronja_irving"
     fullname: >-
       ℜ𝔬𝔫𝔧𝔞 ℑ𝔯𝔳𝔦𝔫𝔤
     bio: >-
-      Norwegian artist and illustrator. • Inquiries: ronjairvingart@gmail.com
+      Norwegian artist and illustrator Inquiries: ronjairvingart@gmail.com
     location: "Norway"
-    followers: 15017
-    engagement: 883
-    commentsToLikes: 0.021432
+    followers: 14864
+    engagement: 1014
+    commentsToLikes: 0.023391
     id: ck0tu5szp5rnm0i19tdh3jv81
     verified: false
-    hashtags: "#rsa, #mittnorge, #artistic, #witchyvibes"
-  - username: "lisaaisato"
+    hashtags: "#darkartist, #dark, #scandinavia, #rsa"
+  - username: "heliheart"
     fullname: >-
-      Lisa Aisato
+      Heli Peach 🇳🇴 (comic artist)
     bio: >-
-      Norwegian illustrator and author #lisaaisato Shop:
+      26 | Mangaka | Educated Illustrator (grade: A) Dream: be a successful manga-artist in Norway! ✨ Read my webcomic: helipeach.com My manga store:
     location: "Norway"
-    followers: 105502
-    engagement: 1104
-    commentsToLikes: 0.017328
-    id: ck0ud21zpi8qv0i19xud4v18d
-    verified: true
-    hashtags: "#livetillustrert, #dieschneeschwester, #snes, #tilungdommen"
+    followers: 11775
+    engagement: 479
+    commentsToLikes: 0.036343
+    id: ck8tc871symx50j78u2qxawxs
+    verified: false
+    hashtags: "#jujutsukaisen, #pewdiepie, #webcomic, #harrypotteroc"
+  - username: "jellyvamps"
+    fullname: >-
+      
+    bio: >-
+      A simple Norwegian fry. Comic artist🍌illustrator🐀animator
+    location: "Norway"
+    followers: 45651
+    engagement: 1121
+    commentsToLikes: 0.014670
+    id: ck0vypz2a57wj0i19kwv4ytfz
+    verified: false
+    hashtags: "#tegneserieoppr"
   - username: "inasunart"
     fullname: >-
       Illustrator Ina-Kristin Sundet
     bio: >-
-      Illustrator from Norway✒ Love ballpointpens🖊Expect to see a lot of hair, a ton of hair!🧝🏻‍♀️ Ask before repost
+      Illustrator from Norway✒ Love ballpointpens🖊Expect to see a lot of hair, a ton of hair!🧝🏻‍♀️ Ask before repost 🙌🏻 Personal ig @inasun
     location: "Norway"
-    followers: 5821
-    engagement: 1083
-    commentsToLikes: 0.065315
+    followers: 5818
+    engagement: 592
+    commentsToLikes: 0.012827
     id: ckaosnrtcs9xd0i78vdo5jzix
     verified: false
-    hashtags: "#nightsky, #themoon, #crayons, #stickycrayons"
+    hashtags: "#crayonsdrawing, #drawing, #artist, #stickycrayons"
   - username: "minaxieart"
     fullname: >-
-      Minaxie
+      Mina
     bio: >-
-      22 • 🇱🇹 🇧🇻 Business Email : contact@minaxie.com ⬇️ Goodies on patreon
+      Commissions : Open 🖌 Digital Artist Business Email : contact@minaxie.com
     location: "Norway"
-    followers: 27105
-    engagement: 979
-    commentsToLikes: 0.076178
+    followers: 23877
+    engagement: 418
+    commentsToLikes: 0.029080
     id: ck15qq6xc444q0i190hfnpmog
     verified: false
-    hashtags: "#glitter, #illust, #procreate, #artwork"
-  - username: "bygundersons"
-    fullname: >-
-      GUNDERSONS™
-    bio: >-
-      • Illustration Studio / Poster Shop by The Gundersen Brothers 🇧🇻 @Robgundersen & @Rudisign
-    location: "Norway"
-    followers: 15682
-    engagement: 195
-    commentsToLikes: 0.020343
-    id: ck5zmq0e3n0hu0i14o4nexjf5
-    verified: false
-    hashtags: "#weloveillustration, #vectorart, #designspiration, #interior"
-  - username: "askthemunster"
-    fullname: >-
-      AskTheMunster
-    bio: >-
-      🐾 Ask the Kleiner Münsterländer and his little brother Hektor the Vorsteh 🐾 Finnmark, Norway 🇳🇴 🐾 @eukanubanorge 🐾 @nonstopdogwear 📸 @nyvoll
-    location: "Norway"
-    followers: 6616
-    engagement: 983
-    commentsToLikes: 0.024097
-    id: ck5zpern7sjl60i14z8bz1exe
-    verified: false
-    hashtags: "#norge, #dogsonadventures, #kleinemunsterlander, #munsterlandersofinstagram"
+    hashtags: "#artist, #ffxiv, #kawaiiairachan, #drawthisinyourstyle"
 ---

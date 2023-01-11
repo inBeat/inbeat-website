@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Barcelona In 2022
+title: Top 10 Home Decor Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top home decor Instagram influencers in Barcelona in 2022. Most popular hashtags: #homedecor #home #barcelona #igersbcn.
+  Find top home decor Instagram influencers in Barcelona in 2023. Most popular hashtags: #homedecor #barcelona #homesweethome #lifestyle.
 platform: Instagram
-hits: 22
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 13
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 13 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "nuria_tomas"
+  - username: "pompomilicious"
     fullname: >-
-      Núria Tomás
+      Pompomilicious | DogLifeStyle
     bio: >-
-      BCN - MAD 🚀 Founder & CEO @apoloxcommunication 🥚 Founder and Designer @eggsoeggso 🎬 Actress @macutotalent
+      🌟 | Somos la Pomifamily 👩🏻‍🦰 | Beauty & DIY 🧔🏻 | Music & Food 🦊 | Pomeranians & Fun 👑 | Embajadores: @laboutiquedeldiamante
     location: "Spain"
-    followers: 44663
-    engagement: 169
-    commentsToLikes: 0.035100
-    id: ck5cfqfuvng4u0i115i3gwy2q
+    followers: 29282
+    engagement: 154
+    commentsToLikes: 0.191842
+    id: ck6uiihp4fa160j713w267gja
     verified: false
-    hashtags: "#pregnancy, #pregnant, #pregnantstyle, #fotografiaembarazo"
-  - username: "soyunmix"
+    hashtags: "#japanesespitz, #dog, #love, #pomeranianpage"
+  - username: "sweetmadness_sv"
     fullname: >-
-      Mechi Lozada 🎀 Lifestyle
+      𝚂𝚊𝚛𝚊𝚒 𝚅𝚎𝚐𝚊
     bio: >-
-      Mi vida en Francia sin edición. 🎀 Embajadora @shesmercedescolcar Me gusta verle el lado positivo a todo lo que pasa en la vida. Comprá mis productos!
+      📲👩🏼‍💻|Gestión RRSS 🏥💉|Work HSM 👠🥻|Imᥲgᥱ ᥴoᥒsᥙᥣtᥲᥒt ~🏢 Cofunder @vera_community2019 📲
     location: "Spain"
-    followers: 172953
-    engagement: 267
-    commentsToLikes: 0.141719
-    id: ck5hibvxgcpe80i11vvwx4fdm
-    verified: true
-    hashtags: "#abmtravelbug, #loves, #soyunmixfeliz, #abmlifeiscolorful"
-  - username: "dalmauvives"
-    fullname: >-
-      Dalmau Vives 🚶🏻‍♀️bARTcelona
-    bio: >-
-      All pictures taken by me with my iPhone. 🚶🏻Art🚶🏻Streetart🚶🏻Travel🚶🏻Culture🚶🏻Architecture🚶🏻Advertising🚶🏻Lifestyle🚶🏻Nature🚶🏻Barcelona 🚶🏻‍♀️🚶🏻
-    location: "Spain"
-    followers: 2214
-    engagement: 1315
-    commentsToLikes: 0.077438
-    id: ck8t5b8729hr20j78aezg5zkw
+    followers: 7448
+    engagement: 425
+    commentsToLikes: 0.220192
+    id: ck5zminjpmn5u0i14bnqxou7g
     verified: false
-    hashtags: "#barcelonalife, #sport, #mural, #art"
-  - username: "anne.arte"
+    hashtags: "#lookoftheday, #personalshopper, #look, #monday"
+  - username: "kira.davser"
     fullname: >-
-      Ana Clerici
+      𝐾𝑖𝑟𝑎 𝐷𝑎𝑣𝑠𝑒𝑟 -𝑀𝑎𝑚𝑎́ 𝑑𝑒 𝑐𝑢𝑎𝑡𝑟𝑜
     bio: >-
-      Argentinian artist ⓓⓘⓖⓘⓣⓐⓛ ⓐⓡⓣ & ⓟⓐⓘⓝⓣⓘⓝⓖ anaclerici90@gmail.com
+      Maternity •• Fashion •• Lifestyle •• Deco 📸Diario de una familia númerosa 📍Barcelona . ✉️Colab. DM & Email Mis links⤵️
     location: "Spain"
-    followers: 27429
-    engagement: 177
-    commentsToLikes: 0.015198
-    id: ck5cf40k3m8mj0i11suu2vjn7
+    followers: 9399
+    engagement: 721
+    commentsToLikes: 0.124510
+    id: ck9wdxnjwhqip0j78am29qt57
     verified: false
-    hashtags: ""
-  - username: "alexanderap94"
+    hashtags: "#kidzootd, #navidades2020, #babiesofinsta, #minin"
+  - username: "soyainhhoa"
     fullname: >-
-      A L E X A N Ð E R
+      A I N H O A❤️| CASUAL OUTFITS
     bio: >-
-      📍 Granada, Spain 🇪🇸 🚨 Critical Care Nurse
+      ⚡️ Amante de la moda y amiga de Amancio 🐹 FIV I (23/12) 👉🏻🤰futura mamá 📩 soyainhhoa@gmail.com 📍 Barcelona
     location: "Spain"
-    followers: 12889
-    engagement: 777
-    commentsToLikes: 0.013378
-    id: ck15twfg1k8x40i197d218jte
+    followers: 19455
+    engagement: 335
+    commentsToLikes: 0.125479
+    id: ck8t2wl8z0ype0j78wxnjki7x
     verified: false
-    hashtags: "#boy, #amazing, #menswear, #cute"
-  - username: "thegoldlipstick"
+    hashtags: "#zaraoutfit, #influencer, #chalecos, #21buttons"
+  - username: "danaeandco"
     fullname: >-
-      Mireia from The Gold Lipstick
+      D A N A E
     bio: >-
-      ▪️fashion & self-care blogger 📍Barcelona ✉️thegoldlipstick@gmail.com ✨love and lipstick ▫️www.thegoldlipstick.com
+      👩🏻 Mamá, diseñadora y aficionada a la fotografía 📍 Barcelona ⚡️ Emprendiendo en @mamamood.es @danaeandco_foto 👇🏼Si quieres saber más
     location: "Spain"
-    followers: 3558
-    engagement: 1687
-    commentsToLikes: 0.350036
-    id: ck0tyj2kvn1ds0i19upv4nd49
+    followers: 25770
+    engagement: 189
+    commentsToLikes: 0.110314
+    id: ck5zjscqai5yw0i14v1o0tbhr
     verified: false
-    hashtags: "#frenchvibes, #parismood, #outfitselfie, #styledetails"
-  - username: "iraloginova"
+    hashtags: "#thewaytotravel, #family, #vacaciones, #amordemadre"
+  - username: "destinowanderlust"
     fullname: >-
-      irina  loginova
+      IRENE  Y JAVI 🌍 TRAVEL COUPLE
     bio: >-
-      ▪️don’t just exist, live and make money 📍 Barcelona | Spain 🇪🇸
+      Viajamos con 🎒 para contarte lo que vivimos ✨ 📍Barcelona ✉️destinowanderlust@gmail.com ULTIMO POST 👇🏻
     location: "Spain"
-    followers: 31016
-    engagement: 66
-    commentsToLikes: 0.166545
-    id: ck1397toljyye0i191ejr8204
+    followers: 17971
+    engagement: 845
+    commentsToLikes: 0.085241
+    id: ck15plqqryig50i19n7uj23cl
     verified: false
-    hashtags: "#bepositive, #dreamhome, #spf, #horsebackriding"
-  - username: "bella.como.camella"
+    hashtags: "#andalucia, #visitbarcelona, #viajar, #costadelsol"
+  - username: "hap_fashion"
     fullname: >-
-      Amanda Marín Gutiérrez
+      H͙E͙I͙D͙Y͙ ✨ LIFESTYLE
     bio: >-
-      BEAUTY // FASHION // LIFESTYLE 📍Barcelona 💌 Bella.como.camellaa@gmail.com More⬇️ https://bellacomocamella.wordpress.com/
+      Coming 🔜 🛍 @regalitomolones 🏡 @hapdesign_ INSPO • 𝘍𝘈𝘚𝘏𝘐𝘖𝘕 • DECO. Feliz, porque no estoy enojada ☺️💕 www.hapfashion.es 📍BARCELONA
     location: "Spain"
-    followers: 8222
-    engagement: 361
-    commentsToLikes: 0.074438
-    id: ck5ztja9l0is90i14dcvkw48q
+    followers: 216343
+    engagement: 250
+    commentsToLikes: 0.015283
+    id: ck0u0q731uk7t0i19ka2l1eyi
     verified: false
-    hashtags: "#ybb8ed, #flatlay, #hivencyawardses, #irohanaturemask"
-  - username: "allegri_art"
+    hashtags: "#cute, #apartmenttherapy, #bedroomdesign, #design"
+  - username: "joan_alturo"
     fullname: >-
-      Arianna Allegri
+      Joan Alturo
     bio: >-
-      🌱 Venezolana en Barcelona 🌈 Ilustraciones en acuarela #watercolorpainter #handmadewithlove YouTube | Tienda 👇🏻
+      Illustrator from Barcelona 📩 info@joanalturo.com
     location: "Spain"
-    followers: 21111
-    engagement: 1576
-    commentsToLikes: 0.025779
-    id: ck9hahoi8ckz70j785ds0svpx
+    followers: 12452
+    engagement: 434
+    commentsToLikes: 0.025304
+    id: ck8tag3p0rlzm0j78w2rb90st
     verified: false
-    hashtags: "#artistasenbarcelona, #sketch, #acuarelabotanica, #botanicalpainting"
-  - username: "lovelihome"
+    hashtags: "#joanalturo, #perfume, #editorialillustration, #creative"
+  - username: "soniamarnez"
     fullname: >-
-      🌿Maria🌿
+      Sonia Martínez
     bio: >-
-      ▪️Lifestyle • Deco • Kids • Fashion• Beauty▪️ 👬 Mum of Hugo and Lucas Barcelona 🌍 Spain ⬇️⬇️⬇️⬇️
+      ⭐️ ᴾᴱᴿᴵᴼᴰᴵˢᵀᴬ @ondacero_cat @pronto.es ⭐️ ᶜᴬᴺᵀᴬᴺᵀᴱ ᴱᴺ ᴹᴵˢ ˢᵁᴱÑᴼˢ ⭐️ ᴬᶜᵀᴿᴵᶻ ᴱᴺ ᵀᴵᴷᵀᴼᴷ ⭐️ ᴰᴱ ᴹᴬᵞᴼᴿ ᵟᵁᴵᴱᴿᴼ ˢᴱᴿ ᶠᴱᴸᴵᶻ 💌 ˢᴼᴺᴵᴬᴹᴬᴿᴺᴱᶻ@ᴳᴹᴬᴵᴸ.ᶜᴼᴹ 📍 ᴮᶜᴺ
     location: "Spain"
-    followers: 25686
-    engagement: 483
-    commentsToLikes: 0.063023
-    id: ck55oahzf7yw40i11uvbqnu69
+    followers: 40741
+    engagement: 208
+    commentsToLikes: 0.163332
+    id: ck55mkgzu45xl0i11gsygurfh
     verified: false
-    hashtags: "#tarkettflooring, #livingroom, #antesydespues, #salones"
+    hashtags: "#journalist, #igersbarcelona, #beauty, #barcelona"
+  - username: "sav45"
+    fullname: >-
+      Sav Fortyfive
+    bio: >-
+      Represented by @larcadaartgallery savforty5@yahoo.com
+    location: "Spain"
+    followers: 10608
+    engagement: 1151
+    commentsToLikes: 0.042251
+    id: ck6uifdzoermo0j71edq3ih5k
+    verified: false
+    hashtags: "#classicart, #3dart, #fatcap, #portraitart"
 ---

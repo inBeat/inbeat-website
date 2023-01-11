@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Greece In 2022
+title: Top 10 Fitness Instagram Influencers In Greece In 2023
 description: >-
-  Find top fitness Instagram influencers in Greece in 2022. Most popular hashtags: #summer #fitness #greece #staysafe.
+  Find top fitness Instagram influencers in Greece in 2023. Most popular hashtags: #workout #fitness #fitnessmotivation #training.
 platform: Instagram
-hits: 174
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 174 Instagram influencers like this in Greece for you to contact.
+hits: 117
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 117 Instagram influencers like this in Greece for you to work with.
 profiles:
+  - username: "avital"
+    fullname: >-
+      AVITAL COHEN
+    bio: >-
+      ✡️ #FitnessQueen I’m just a GIRL BOSS that’s building MY NEW EMPIRE. Contact 📧 avitalcollab@gmail.com
+    location: "Greece"
+    followers: 2050482
+    engagement: 451
+    commentsToLikes: 0.007396
+    id: ck15td53hhioh0i19e1gsq2mv
+    verified: true
+    hashtags: "#mood, #ad, #bangenergy, #healthylifehappylife"
+  - username: "nikibrah"
+    fullname: >-
+      Nikita Udovichenko
+    bio: >-
+      The God of Hormones. 🏅 Nutrition, Hormones, Training Expert 🔬 Engineering MSc 💉 Biochemistry MSc 🌎 Professional 1:1 Fitness Coaching by me ⤵
+    location: "Greece"
+    followers: 104646
+    engagement: 572
+    commentsToLikes: 0.111176
+    id: ck6uds6okmu4e0j716i3573lp
+    verified: false
+    hashtags: ""
+  - username: "am.konstantina"
+    fullname: >-
+      𝓚𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪✨
+    bio: >-
+      🦷Dentist 💜Fitness, Food 📍Thessaloniki, Greece 🎵TikTok: konstantinas_tiktok 🎥YouTube channel: Konstantina 🎮Livestreaming on Trovo: Konstantina_Official
+    location: "Greece"
+    followers: 131329
+    engagement: 1461
+    commentsToLikes: 0.221004
+    id: ck0w3mozdu6y70i19405f1i8t
+    verified: false
+    hashtags: "#allin5g, #efoodgr, #leapto5g, #realme8series"
   - username: "evi_sa"
     fullname: >-
       Evi Saltaferidou
     bio: >-
       •Fitness coach •Indoor cycling instructor🚲 •Survivor 2018🥥🌴 @newbalance Ambassador #teamNB YouTube⬇️
     location: "Greece"
-    followers: 48670
-    engagement: 1042
-    commentsToLikes: 0.074004
+    followers: 47645
+    engagement: 1082
+    commentsToLikes: 0.380037
     id: ck6toav67d1hh0j710a0b2pj7
     verified: false
-    hashtags: "#sun, #smile, #summer, #coach"
-  - username: "mak.instyle"
+    hashtags: "#evisa, #evisaltaferidou, #coach, #loveyourbody"
+  - username: "anthivoulgari"
     fullname: >-
-      Muhannad Al Khatib Dubai
+      Anthi Voulgari
     bio: >-
-      🧔🏻MAK -مهند 🔝 Family 🏋🏻‍♂️ Fitness Addicted 💭 Curious, Authentic, Resourceful & A Dreamer
+      Journalist Tv presenter Radio producer 🎙 Health, fitness & lifestyle blogger 💻 Travel lover ❤️
     location: "Greece"
-    followers: 38753
-    engagement: 615
-    commentsToLikes: 0.184670
-    id: ck0w1ye7plqsm0i19qdqop8x4
+    followers: 42627
+    engagement: 830
+    commentsToLikes: 0.023608
+    id: ck5zkeso4jcmz0i14u294cwhq
     verified: false
-    hashtags: "#picsdubai, #abudhabi, #unitedarabemirates, #dubailuxury"
-  - username: "ismini_fab"
+    hashtags: "#koinoniaoramega, #tomegatokalo, #larathefrenchieb, #sundays"
+  - username: "stella.christoforou"
     fullname: >-
-      Ismini Fabiatou🍩🍫
+      Sᴛᴇʟʟᴀ Cʜʀɪsᴛᴏғᴏʀᴏᴜ
     bio: >-
-      💪 Fitness 🏋️‍♀️ Crossfit 🎓 Agricultural University of Athens 📍 Athens, Greece 🐶 @charlie__fab 📩 Email: ismfab@yahoo.gr
+      God first ✝️ Made in Greece 🇬🇷 ATH🏛 •Crossfit / Fitness Trainer •Online Individual Coaching •Tactical shooter
     location: "Greece"
-    followers: 50746
-    engagement: 492
-    commentsToLikes: 0.091455
-    id: ck8t0anlnrezk0j78v31dg0oe
+    followers: 100641
+    engagement: 562
+    commentsToLikes: 0.027488
+    id: ck6ubtihpbm480j7100ccqbbw
     verified: false
-    hashtags: "#giveaway, #nokia, #gobiggobeyond, #nokiaphotography"
-  - username: "maria_louiza_real"
+    hashtags: "#crossfitgirls, #fitgirls, #fitnesswomen, #healthylifestyle"
+  - username: "koulourisdim"
     fullname: >-
-      Maria Louiza Vourou
+      Dimitris Koulouris
     bio: >-
-      📺 Tv Presenter 🤸‍♀️ Pilates instructor 🥑🍑🍌 Fitness blogger 🇬🇷 @Queen.gr➡️MLvlog /model 👶🏻 happy mama of Jason
+      Olympian Rio2016 - Swimming Fitness Trainer - Swimming Coach Owner of @_training_room_ @training_pool Sports Nutritionist, MSc Athens, Greece
     location: "Greece"
-    followers: 69643
-    engagement: 297
-    commentsToLikes: 0.197497
-    id: ck55n9iwk5quk0i11bdztjjlt
+    followers: 12946
+    engagement: 960
+    commentsToLikes: 0.184759
+    id: ck8svsuwwckio0j78fv4nfwb1
     verified: false
-    hashtags: "#quarantine, #staysafe, #mood, #staypositive"
-  - username: "am.konstantina"
+    hashtags: "#greece, #summer, #santorini, #protein"
+  - username: "linos.perfit"
     fullname: >-
-      𝓚𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪✨
+      Linos Charalambous
     bio: >-
-      🦷Dentist 💜Fitness & Food 📍Thessaloniki, Greece 🎥YouTube channel: Konstantina 🎮Livestreaming on Facebook Gaming : @pdtproject_official
+      🔹Personal Trainer 🔸Sports Coach 🔹MSc Sports Psychology 🔸Owner of PerFit @perfit.linos 🔹Fitness Professor in @afstudies 📞6948949747
     location: "Greece"
-    followers: 109884
-    engagement: 1304
-    commentsToLikes: 0.013674
-    id: ck0w3mozdu6y70i19405f1i8t
+    followers: 27448
+    engagement: 703
+    commentsToLikes: 0.129129
+    id: ck6txhi3pxv840j71s8n0fexg
     verified: false
-    hashtags: "#fitness, #greece, #konstantina, #summeringreece"
-  - username: "ilias__gkotsis"
+    hashtags: "#fitnessmotivation, #quarantine, #gym, #personaltraining"
+  - username: "georgiasiakavara"
     fullname: >-
-      ▪️ʀᴇᴍᴇᴍʙᴇʀ ᴡʜʏ ʏᴏᴜ sᴛᴀʀᴛᴇᴅ..▪️
+      Georgia Siakavara
     bio: >-
-      ɪʟɪᴀs ɢᴋᴏᴛsɪs 🏆sᴜʀᴠɪᴠᴏʀ₂₀₁₈ ᴏᴡɴᴇʀ ᴏғ @need_for_fitness_ ↓NEED_FOR_FITNESS↓
+      Artist....inside out... fashion freak...fitness lover 🎬 @grmystylerocks 3 @skaitv.gr .....Και μενα τι με νοιαζει.....εδω εχει παντα ηλιο....
     location: "Greece"
-    followers: 86714
-    engagement: 667
-    commentsToLikes: 0.007782
-    id: ck0w1rtwqktck0i19e0brnp4t
+    followers: 6627
+    engagement: 625
+    commentsToLikes: 0.125172
+    id: ck6uayh7n6f6e0j7183nj83vr
     verified: false
-    hashtags: "#pumaperformance, #protein, #summer, #fun"
-  - username: "yulia_spirina_fit"
+    hashtags: "#wintertime, #winteringreece, #fashionpost, #sunnyday"
+  - username: "ster_eleni"
     fullname: >-
-      Yulia Spirina
+      🎀Eleni Ster🎀
     bio: >-
-      🇷🇺🇬🇷 Personal Trainer Fitness model Online coach QNT Ambassador @qntgreece @qntsportnutrition uliaspirin78@mail.ru📩
+      | Mother 👶🏻 👶🏻| Alex`s Wife | Fitness | Friends | Fashion | Lifestyle | Makeup | Nails | UH | OWNER OF ‘KARMA BY ELENI STER’ limited collections
     location: "Greece"
-    followers: 5148
-    engagement: 1081
-    commentsToLikes: 0.047704
-    id: ckap1r9wtvs600i78nrcb5bfy
+    followers: 82902
+    engagement: 1745
+    commentsToLikes: 0.076681
+    id: ck6tspc4s628n0j71mqeapn3a
     verified: false
-    hashtags: "#fitnessmodel, #personaltrainer, #fitnessjourney, #reinaolga"
-  - username: "anamariagoltes"
-    fullname: >-
-      ANAMARIA
-    bio: >-
-      fashion • fitness • lifestyle 🐶 @hugo__gia 💗 Advocate for Self Acceptance ⚡️ AM workouts - Train with me👇🏻 #iAManamaria
-    location: "Greece"
-    followers: 126455
-    engagement: 791
-    commentsToLikes: 0.005864
-    id: ck5cdx6kajyc40i11hhj6z8gd
-    verified: true
-    hashtags: "#fashiondays, #fashion, #bloggerinspo, #style"
-  - username: "kos_slou16"
-    fullname: >-
-      Kostas Sloukas
-    bio: >-
-      @olympiacosbc & @HellenicBF Guard 🏀 fb.com/kos.slou twitter.com/kos_slou @alliance.fitness.center
-    location: "Greece"
-    followers: 156786
-    engagement: 1992
-    commentsToLikes: 0.031548
-    id: ck5c20eiawaf00i11mfpu1mzs
-    verified: true
-    hashtags: "#fenerbah, #childcancerawareness, #neverenough, #team"
-  - username: "imcristiano_dangelo"
-    fullname: >-
-      CRISTIANO  D'ANGELO
-    bio: >-
-      Argentinian Model 🇦🇷 Fitness JOURNEY 🐟🐠🐚 🌏/ Currently in Athens 🇬🇷📍 👻Snapchat: Cristiano.dang 👻 The Lab Milano 🇮🇹//MMG 🇦🇪
-    location: "Greece"
-    followers: 12027
-    engagement: 608
-    commentsToLikes: 0.084621
-    id: ckaorbf62mjmx0i78e6atd3ed
-    verified: false
-    hashtags: "#aesthetic, #idmagazine, #fashioneditorial, #wlyg"
+    hashtags: "#ster, #karmabyelenister, #myfrezyderm, #menswimwear"
 ---

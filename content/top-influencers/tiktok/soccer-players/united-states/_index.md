@@ -1,130 +1,130 @@
 ---
-title: Top 10 Soccer-Players TikTok Influencers In United States In 2022
+title: Top 10 Soccer-Players TikTok Influencers In United States In 2023
 description: >-
-  Find top soccer-players TikTok influencers in United States in 2022. Most popular hashtags: #soccerplayer #soccer #soccergirl #fyp.
+  Find top soccer-players TikTok influencers in United States in 2023. Most popular hashtags: #soccer #fyp #soccerplayer #foryou.
 platform: TikTok
-hits: 59
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our platform has 59 TikTok influencers like this in United States for you to work with.
+hits: 54
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 54 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "ysl_gabe"
+  - username: "lilbroboa"
     fullname: >-
       Gabe Verona
     bio: >-
-      Texas:) Soccer player ❤️snap: gabe.ellis❤️
+      Texas:) Soccer player Click below to add my snap💙💙 ⬇️⬇️⬇️
     location: "United States"
-    followers: 82100
-    engagement: 1497
-    commentsToLikes: 0.047104
+    followers: 79200
+    engagement: 1469
+    commentsToLikes: 0.042472
     id: ck910zqh8juud0j78ky6iez9g
     verified: false
-    hashtags: "#football, #fyp, #greenscreen, #duet"
-  - username: "brittany1wilson"
-    fullname: >-
-      Brittany Wilson
-    bio: >-
-      Professional Soccer Player, Amateur TikTok Creator DM me on Insta
-    location: "United States"
-    followers: 102500
-    engagement: 1992
-    commentsToLikes: 0.015523
-    id: ckbrg8xwnrj0o0j23242sy8u2
-    verified: false
-    hashtags: "#nwsl, #studentathlete, #soccergirl, #soccer"
+    hashtags: "#fyp, #football, #duet, #answerthisplease"
   - username: "tanner.myers_"
     fullname: >-
       Tanner Myers
     bio: >-
       soccer player 👻barfallamue 📷tanner.myers_
     location: "United States"
-    followers: 26300
-    engagement: 2157
-    commentsToLikes: 0.009524
+    followers: 25900
+    engagement: 2110
+    commentsToLikes: 0.010628
     id: ckcvjvld2xgip0j239ahpwdjt
     verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #quickrecipes"
+    hashtags: "#foryou, #fyp, #foryoupage, #summervlog"
+  - username: "brittany1wilson"
+    fullname: >-
+      Brittany Wilson
+    bio: >-
+      Professional Soccer Player, Amateur TikTok Creator Watch Her Grow Collection ⬇️
+    location: "United States"
+    followers: 168500
+    engagement: 1596
+    commentsToLikes: 0.008769
+    id: ckbrg8xwnrj0o0j23242sy8u2
+    verified: false
+    hashtags: "#footballer, #soccergirl, #athlete, #femaleathlete"
   - username: "wags_14"
     fullname: >-
       MattyWags
     bio: >-
       a soccer player who just wants good content. Venmo: Matthew-Wagoner-13
     location: "United States"
-    followers: 243100
-    engagement: 1408
-    commentsToLikes: 0.022886
+    followers: 238000
+    engagement: 1560
+    commentsToLikes: 0.019236
     id: ck904frlze7ig0j785lmdtotj
     verified: false
-    hashtags: "#duet, #greenscreen, #foryou, #fortnite"
-  - username: "melissaortiz5"
+    hashtags: "#foryou, #duet, #greenscreen, #comment"
+  - username: "jrixetts"
     fullname: >-
-      melissaortiz5
+      Jamar
     bio: >-
-      FOLLOW my INSTAGRAM! ⬆️ Olympian 🇨🇴 ⚽️ Former Pro Soccer Player
+      Dirty jerz D1 soccer player 🙂
     location: "United States"
-    followers: 54700
-    engagement: 1526
-    commentsToLikes: 0.019458
-    id: ckbvyod5pvcee0j23rkn6513n
-    verified: true
-    hashtags: "#soccerskills, #soccerlife, #soccertiktok, #soccertime"
+    followers: 23400
+    engagement: 1352
+    commentsToLikes: 0.019025
+    id: ck8kezfcfbw7w0j78roe6adxm
+    verified: false
+    hashtags: "#aeriereal, #xyzcba, #futbol, #fyp"
   - username: "jona2santoss"
     fullname: >-
       Jonathan Dos Santos
     bio: >-
       Soccer player 🇺🇸 LA Galaxy 🇲🇽 National Team
     location: "United States"
-    followers: 148300
-    engagement: 768
-    commentsToLikes: 0.008025
+    followers: 148100
+    engagement: 766
+    commentsToLikes: 0.008006
     id: ckcemduxcwn8o0j23mmcb4v58
     verified: false
     hashtags: "#soccer, #life, #hityorolliechallenge, #getloosechallenge"
-  - username: "coach.ryan"
+  - username: "saney_sm7"
     fullname: >-
-      Daniel Ryan
+      Saleban SM7
     bio: >-
-      ⚽️Head Coach Shrewsbury SC⚽️ TMT
+      Get me famous 🤗 1M Juan Cuadrado his twin brother
     location: "United States"
-    followers: 27400
-    engagement: 1814
-    commentsToLikes: 0.055666
-    id: ckd080xw9azaz0j23qs2p1oqg
+    followers: 67500
+    engagement: 1434
+    commentsToLikes: 0.088327
+    id: ckc8ei7s99uni0j23fh5913t7
     verified: false
-    hashtags: "#fyp, #verifycoachryan, #soccer4life, #soccerworld"
-  - username: "danielgothits"
-    fullname: >-
-      ⚽️ Daniel Got Hits
-    bio: >-
-      SOCCER GANG ⚽️ we dumb and Ugly!! 😍💙 ⠀⠀⠀⠀ Can we be friends on Insta? 🥵😫
-    location: "United States"
-    followers: 256400
-    engagement: 1759
-    commentsToLikes: 0.075446
-    id: ckbqq869qb5st0j23riiw0pyq
-    verified: true
-    hashtags: "#soccerboy, #soccerinfluencer, #soccergirl, #ronaldo"
-  - username: "dg3soccer"
-    fullname: >-
-      DG3 Soccer
-    bio: >-
-      Technical training specialist ✅ Trick shots ✅ Skill Tutorials ✅
-    location: "United States"
-    followers: 156700
-    engagement: 922
-    commentsToLikes: 0.012047
-    id: ck933htawo48m0j78twdatsn6
-    verified: false
-    hashtags: "#uswnt, #soccerplayer, #soccer, #soccertraining"
+    hashtags: "#soccerplayer, #fcbarcelona, #ronaldo, #fyp"
   - username: "refereepov"
     fullname: >-
       Referee POV
     bio: >-
-      ⬇️ Contact ⬇️ refereepovsoccer@gmail.com
+      🔮 Educating and inspiring referees 📥 Contact: ari@refereepov.com ⬇️YouTube⬇️
     location: "United States"
-    followers: 237900
-    engagement: 1140
-    commentsToLikes: 0.008429
+    followers: 308400
+    engagement: 1174
+    commentsToLikes: 0.008909
     id: ckamyizxwhryg0i78u4vmqusd
     verified: false
-    hashtags: "#fyp, #refs, #yellowcard, #foryourpage"
+    hashtags: "#soccerplayer, #foryoupage, #ref, #ari"
+  - username: "gabetekkers"
+    fullname: >-
+      gabetekkers
+    bio: >-
+      ⚽️ Soccer/Football Content ⚽️ Amos 👻 gabriel_g4b3
+    location: "United States"
+    followers: 47300
+    engagement: 665
+    commentsToLikes: 0.018066
+    id: ckbqjja784pu20j23uyshs3wp
+    verified: false
+    hashtags: "#futbol, #messi, #tekkers, #soccerskills"
+  - username: "melissaortiz5"
+    fullname: >-
+      melissaortiz5
+    bio: >-
+      FOLLOW my INSTAGRAM! ⬆️ Olympian 🇨🇴 ⚽️ former pro Co-Founder of ⬇️
+    location: "United States"
+    followers: 58700
+    engagement: 1451
+    commentsToLikes: 0.016656
+    id: ckbvyod5pvcee0j23rkn6513n
+    verified: true
+    hashtags: "#soccerlover, #soccertraining, #soccergirls, #soccerskills"
 ---

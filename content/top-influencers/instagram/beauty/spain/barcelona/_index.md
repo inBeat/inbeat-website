@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Barcelona In 2022
+title: Top 10 Beauty Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top beauty Instagram influencers in Barcelona in 2022. Most popular hashtags: #beauty #barcelona #spain.
+  Find top beauty Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #beauty #love #lifestyle.
 platform: Instagram
-hits: 135
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 135 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 86
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 86 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "rakbcn28"
+  - username: "soniamarnez"
     fullname: >-
-      Rakel Lopez Sanchez
+      Sonia Martínez
     bio: >-
-      🌟 🅡🅐🅚🅑🅒🅝 🌟 🎥Youtuber / Instagrammer📸 📍Salamanca 🚆Madrid / Barcelona ✈️ 📧 contact: hola@rakbcn.com #Salamanca #fashion #beauty #Barcelona #Madrid
+      ⭐️ ᴾᴱᴿᴵᴼᴰᴵˢᵀᴬ @ondacero_cat @pronto.es ⭐️ ᶜᴬᴺᵀᴬᴺᵀᴱ ᴱᴺ ᴹᴵˢ ˢᵁᴱÑᴼˢ ⭐️ ᴬᶜᵀᴿᴵᶻ ᴱᴺ ᵀᴵᴷᵀᴼᴷ ⭐️ ᴰᴱ ᴹᴬᵞᴼᴿ ᵟᵁᴵᴱᴿᴼ ˢᴱᴿ ᶠᴱᴸᴵᶻ 💌 ˢᴼᴺᴵᴬᴹᴬᴿᴺᴱᶻ@ᴳᴹᴬᴵᴸ.ᶜᴼᴹ 📍 ᴮᶜᴺ
     location: "Spain"
-    followers: 95098
-    engagement: 143
-    commentsToLikes: 0.034909
-    id: ckap1u757w6250i7835sd5kp7
+    followers: 40741
+    engagement: 208
+    commentsToLikes: 0.163332
+    id: ck55mkgzu45xl0i11gsygurfh
     verified: false
-    hashtags: "#salamanca, #rakbcn, #enjoyyourlife, #enjoy"
+    hashtags: "#journalist, #igersbarcelona, #beauty, #barcelona"
   - username: "dr.alejandro.segarra"
     fullname: >-
       Dr. Alejandro Segarra
     bio: >-
-      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN ) 📱655460790 (BCN) 📱675955548 (Madrid)
+      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN)
     location: "Spain"
-    followers: 42561
-    engagement: 287
-    commentsToLikes: 0.051741
+    followers: 53832
+    engagement: 229
+    commentsToLikes: 0.037778
     id: ck55kbo51yxte0i11zato21js
     verified: false
     hashtags: ""
-  - username: "laura.gardom"
+  - username: "familishome"
     fullname: >-
-      Laura Garcia Dominguez
+      F A M I L I ‘ S   H O M E  🌸
     bio: >-
-      💜 Infruencer Acquisition for @fancentro 💜 👗 #fashion #imageconsultant 📷 #graphicdesign 📍 #Barcelona 💃🏽 #kizomba
+      Autodidacta adicta al #maquillaje y la #cosmetica . Código de descuento en @maquillalia MAQUIHOME . 📍 #barcelona . Piel MIXTA / SENSIBLE / ACNEICA
     location: "Spain"
-    followers: 11762
-    engagement: 335
-    commentsToLikes: 0.074662
-    id: ck14iry78gwxd0i197ldnspxd
+    followers: 5878
+    engagement: 659
+    commentsToLikes: 0.234149
+    id: ck6u3igg5xz220j715klj0obb
     verified: false
-    hashtags: "#model, #picoftheday, #cute, #photography"
-  - username: "gabbyrucci"
+    hashtags: "#pinkducklondon, #primor, #onlinecosmeticos, #maquillajeespa"
+  - username: "almassaofficiel"
     fullname: >-
-      GABBY RUCCI 💖✨Blogger
+      🤍 Amina 🤍
     bio: >-
-      🌵Happy #Lifestyle 🌵 Belleza🔹Moda🔸Estilo de Vida Mi lema: ✨Unidas somos magia✨ 📍Barcelona 🇪🇨 📩info@ourglam.com #bloggerbarcelona #beauty #fashion
+      🤍Founder @almassaglam 🤍Lifestyle Blogger +700k YTB📍Valencia España 🤍aminacollaboration@gmail.com
     location: "Spain"
-    followers: 22025
-    engagement: 340
-    commentsToLikes: 0.166844
-    id: ck5ztj8yx0ioi0i14y42m29t7
+    followers: 314744
+    engagement: 192
+    commentsToLikes: 0.199199
+    id: ck9weo4yrl5aq0j785neeajcp
     verified: false
-    hashtags: "#beautytester, #piel, #streetstyle, #streetstylespain"
-  - username: "nomad.fran"
+    hashtags: "#lifestyleblogger, #shootingphoto, #fashionstyle, #style"
+  - username: "juliaamuratet"
     fullname: >-
-      Fran Opazo • LaVidaNómade ✈❤🌎
+      JULS
     bio: >-
-      ↠ Periodista ↠ Viajes ↠ Trabajo 100% remoto ↠ Marketing Digital ↠ Recomendaciones ↠ Crece en el mundo digital @franopazoperiodista 🤳 Fundé @achiletb
+      🎓 Protocol & Management | Advertising & PR 💼 Owner @thehumstore 👸🏼 Miss Barcelona @missandmisterstarspain 📩 juliaamuratet@gmail.com 🌍 Barcelona | 26
     location: "Spain"
-    followers: 29977
-    engagement: 219
-    commentsToLikes: 0.132262
-    id: ck55kfywzz7ps0i11npccajhh
+    followers: 20364
+    engagement: 401
+    commentsToLikes: 0.030183
+    id: ck8t6yda8f2n40j78swa7cbe3
     verified: false
-    hashtags: "#comuviajera, #canada, #chilenosporelmundo, #iamtb"
-  - username: "itsrogermc"
-    fullname: >-
-      Holaaaa
-    bio: >-
-      #fashionphotographer #portraitphotography #fashion #beauty #portrait #editorialphotography @itsrogermc ▪️Accepting projects and collabs ▪️
-    location: "Spain"
-    followers: 2259
-    engagement: 1789
-    commentsToLikes: 0.041483
-    id: ckapcobfb4jtm0i784cbgvjv7
-    verified: false
-    hashtags: "#portraits, #coolhunting, #streetstyle, #fashionphotography"
-  - username: "marieberiestain"
-    fullname: >-
-      ℳ𝒶𝓇𝒾𝑒 ℬ𝑒𝓇𝒾𝑒𝓈𝓉𝒶𝒾𝓃
-    bio: >-
-      Artist till I find a real job Fashion and Beauty photographer in Barcelona Work and portfolio inquiries - marieberiestain@gmail.com
-    location: "Spain"
-    followers: 14181
-    engagement: 144
-    commentsToLikes: 0.065163
-    id: ck6tiayr30dh20j717efutvqw
-    verified: false
-    hashtags: "#bts"
+    hashtags: "#me, #cute, #barcelona, #summer"
   - username: "trendy_lover"
     fullname: >-
       Sara Martín
     bio: >-
       🌟 Always follow your dreams 📸 Fashion | Beauty | Lifestyle 📍 Barcelona 🌴 📲 Blog: www.trendy-lover.com 🛍 Mi ropa a la venta en @vinted 👇🏻
     location: "Spain"
-    followers: 15061
-    engagement: 300
-    commentsToLikes: 0.100484
+    followers: 14589
+    engagement: 310
+    commentsToLikes: 0.098070
     id: ckaoxffm4d0wl0i78f7k6afkb
     verified: false
-    hashtags: "#buenasvibras, #zarainspo, #goodnight, #magneticsl"
-  - username: "mariajosecayuela"
+    hashtags: "#cadarayodesol, #blush, #indolaspain, #luxeandjewels"
+  - username: "carlawonderland29"
     fullname: >-
-      Maria Jose Cayuela
+      • C A R L A •
     bio: >-
-      Journalist & Content Creator for brands. Fashion, kids, family, sport & travel. 🎙@ondacero @blogmodabebe @valentinasjewels @theblogsfamily
+      ❤Moda 💆‍♀️Belleza 🌍Viajes 🚇Lifestyle 👉Mi Dia a Dia en Stories👈 💌Colaboraciones.carla@gmail.com 🎥Youtube +73K➡️Carlawonderland
     location: "Spain"
-    followers: 124584
-    engagement: 170
-    commentsToLikes: 0.070812
-    id: ck5hffi5wx8fs0i116p80mhsk
+    followers: 47989
+    engagement: 1003
+    commentsToLikes: 0.334376
+    id: ck9web4jmjhqt0j78zp8wl7uq
     verified: false
-    hashtags: "#vacaciones, #lifestyle, #jugueteseideas, #holidays"
-  - username: "inessachloe"
+    hashtags: "#sun, #relax, #ad, #verano"
+  - username: "pompomilicious"
     fullname: >-
-      • INÉS + CHLOE •
+      Pompomilicious | DogLifeStyle
     bio: >-
-      Chloe’s mum & teacher Lifestyle • Kids • Fashion Lover 📩inessachloe@gmail.com 📍#barcelona 📍#lacerdanya
+      🌟 | Somos la Pomifamily 👩🏻‍🦰 | Beauty & DIY 🧔🏻 | Music & Food 🦊 | Pomeranians & Fun 👑 | Embajadores: @laboutiquedeldiamante
     location: "Spain"
-    followers: 52234
-    engagement: 947
-    commentsToLikes: 1.146470
-    id: ck14lontjvpt80i19n4dsbt8r
+    followers: 29282
+    engagement: 154
+    commentsToLikes: 0.191842
+    id: ck6uiihp4fa160j713w267gja
     verified: false
-    hashtags: "#happy, #momanddaughter, #lacerdanya, #mom"
+    hashtags: "#japanesespitz, #dog, #love, #pomeranianpage"
+  - username: "domenikadiana"
+    fullname: >-
+      Diana Titova
+    bio: >-
+      Ukrainian baby 🇪🇦 UNO Models (MA) 🇭🇰 Synergy Models Hong Kong📍 Business contact: patricia@unomodels.com
+    location: "Spain"
+    followers: 3069
+    engagement: 1088
+    commentsToLikes: 0.048250
+    id: ckap0nufqr43a0i78943v1v3g
+    verified: false
+    hashtags: "#stradivarius, #moda, #ootd, #outfits"
+  - username: "anacrank"
+    fullname: >-
+      ANA CRANK
+    bio: >-
+      *Ana Garcia* *Lulu * Martina💕 My shop @cranksitges @fashmaskofficial 👗Fashion ✈ 🍴️Lifestyle💄Beauty 👭 Kids 📍Barcelona 💌anacrank.style@gmail.com
+    location: "Spain"
+    followers: 43397
+    engagement: 257
+    commentsToLikes: 0.144402
+    id: ck6u1jxpcm6ro0j71svvagtc2
+    verified: false
+    hashtags: "#outfits, #casualstyle, #inwearing, #happy"
 ---

@@ -1,120 +1,108 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Italy In 2022
+title: Top 10 Cosmetics Instagram Influencers In Italy In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Italy in 2022. Most popular hashtags: #photography #nature #summer #fashion.
+  Find top cosmetics Instagram influencers in Italy in 2023. Most popular hashtags: #beauty #makeup #makeupartist #skincare.
 platform: Instagram
-hits: 335
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 335 Instagram influencers like this in Italy for you to collaborate.
+hits: 281
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 281 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "celeste._p"
-    fullname: >-
-      Cᥱᥣᥱstᥱ ​🌺
-    bio: >-
-      ✈️ 🇮🇹 🇪🇬 🇪🇸 🇭🇺 🇫🇷 🇲🇹 🇸🇮 🇨🇿 👩🏻‍🎓🎓 🏋🏻‍♀️ @immissoni_cosmetics ambassador💄
-    location: "Italy"
-    followers: 9877
-    engagement: 961
-    commentsToLikes: 0.079202
-    id: ck8t3yzag4zwf0j78p27ablxa
-    verified: false
-    hashtags: "#likeforlikes, #igerstoscana, #igers, #beautiful"
-  - username: "sandraniketic"
-    fullname: >-
-      Sandra Niketic
-    bio: >-
-      ANDREJ👶🏻🌟❤️ ⚜️ SANIDEI Luxury Real Estate ⚜️ Dahlia Cosmetics🌸
-    location: "Italy"
-    followers: 76983
-    engagement: 441
-    commentsToLikes: 0.019443
-    id: ck1351t8bz9n20i191992q22q
-    verified: false
-    hashtags: "#roaringfreedom, #lavenderset, #streetstyle, #saltbae"
   - username: "elenapiink"
     fullname: >-
       Elena
     bio: >-
       Per info DM Cosmetic Dentist 📍Milan
     location: "Italy"
-    followers: 46519
-    engagement: 113
-    commentsToLikes: 0.078763
+    followers: 46004
+    engagement: 116
+    commentsToLikes: 0.075912
     id: ckapcbmjq35wc0i789992n4ea
     verified: false
-    hashtags: "#ootdmilano, #milano, #thesquaremilano, #albergo"
-  - username: "typ_boww"
+    hashtags: "#milano, #ootdmilano, #thesquaremilano, #outfit"
+  - username: "sandraniketic"
     fullname: >-
-      ᵀᴴᵁᴺʸᴬᴾᴬᵀ  ᵂᴼᴺᴳᵀᴬᵂᴱᴱᶜᴴᴬᴵ ¨̮
+      Sandra Niketic
     bio: >-
-      ʻ ᴮᴬᴺᴳᴷᴼᴷ l ᵀᴴᴬᴵᴸᴬᴺᴰ ʼ ˁ ᴼᵂᴺᴱᴿ ˀ @fav.cosmetics ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡
+      ANDREJ👶🏻🌟❤️ ⚜️ SANIDEI Luxury Real Estate ⚜️ Dahlia Cosmetics🌸
     location: "Italy"
-    followers: 11517
-    engagement: 521
-    commentsToLikes: 0.008324
-    id: ckaozi7ylm00d0i78s4pq5zyh
+    followers: 80856
+    engagement: 488
+    commentsToLikes: 0.005916
+    id: ck1351t8bz9n20i191992q22q
     verified: false
-    hashtags: "#phuket"
-  - username: "jolant4"
+    hashtags: "#bestiessss, #dubai"
+  - username: "evanurlitaa"
     fullname: >-
-      Jolanta
+      Eva nurlita
     bio: >-
-      Inspired by yoga 🧘‍♂️ Macrobiotic lifestyle 🥗 Shiatsu, MTC, Food reflexology Autoproduction of cosmetics, chemist🧪⚗️ Gluten free
+      #Say ما شاء الله @evabeauty.clinic @evabeauty.studio @eb_hijab @evaboutique11 @msglow_temanggung @evabeauty.cosmetics
     location: "Italy"
-    followers: 5940
-    engagement: 2161
-    commentsToLikes: 0.028455
-    id: ckaoxikkqdfaq0i788q2mseir
+    followers: 54023
+    engagement: 200
+    commentsToLikes: 0.016065
+    id: ck8t4kqa173se0j78lwvu6lf6
     verified: false
-    hashtags: "#city, #positivevibes, #positivethinking, #positivity"
+    hashtags: "#engagementvideo, #lamaran, #tunangan, #engagementdress"
+  - username: "onlymesydney"
+    fullname: >-
+      Sydney Lifestyle
+    bio: >-
+      🎀 My LifeStyle 💄 Cosmetic Lover 🦞 Good Food Lover 🍾 Good Wine Lover 📧 For collaborations contact me! 📍Milano
+    location: "Italy"
+    followers: 4796
+    engagement: 1699
+    commentsToLikes: 0.126121
+    id: ck8tbxx4nxm5o0j786fejs8ge
+    verified: false
+    hashtags: "#garnierbioclub, #relaxtime, #foodpasta, #mylife"
   - username: "erikioba"
     fullname: >-
-      𝔈𝔯𝔦𝔨𝔦𝔬𝔟𝔞 Beauty Youtuber
+      Erikioba⚜️
     bio: >-
-      🥀Cybervictorian MUA 👩‍🏫Makeup trainer in MBAcademy 📺YT: Erikioba +95K ⚜️Elegant makeup lover ⚜️My cosmetics @gettheculturelook ⤵️
+      ⚜️Baroque MUA in my boudoir 👩🏼‍🎨Docente di makeup in MBAcademy 📺Youtuber +99K 🖤Phd in singletudine 💄My cosmetics @gettheculturelook ⤵️
     location: "Italy"
-    followers: 61923
-    engagement: 252
-    commentsToLikes: 0.037744
+    followers: 63139
+    engagement: 231
+    commentsToLikes: 0.038679
     id: ck135d3tt0v2k0i19easihr4x
     verified: false
-    hashtags: "#wakeupandmakeup, #lipstick, #eyeshadow, #makeupitalia"
-  - username: "senzatruccoyoutube"
+    hashtags: "#makeupideas, #nudelips, #makeupitaly, #makeupitalia"
+  - username: "dr.costi"
     fullname: >-
-      Gaia
+      DR. COSTI ~ د. كوستي
     bio: >-
-      👉YouTube + 260 K💥 👉TikTok + 154 K 🔥 •Cosmetics💄 •Natural life 🍃 •Outfit 👗 👉Collaboration: 💌 senzatruccoblog@gmail.com (no direct) ⬇ Ultimo video ⬇
+      Celebrity Preferred Cosmetic Dermatologist ⌨ info@drcosti.com 📞+961 71 422 840 / 71 53 93 53 Check link below 👇
     location: "Italy"
-    followers: 29435
-    engagement: 539
-    commentsToLikes: 0.018805
-    id: ck9hd0uzmnowf0j783ts9bmsm
+    followers: 139812
+    engagement: 55
+    commentsToLikes: 0.043553
+    id: ck6tqtukvu85u0j71wngf4j4a
     verified: false
-    hashtags: "#lipstick, #beautyhacks, #photography, #transformation"
-  - username: "drrachaeleckel"
+    hashtags: "#drcosti"
+  - username: "benedettariccio"
     fullname: >-
-      Dr. Rachael Eckel
+      BENEDETTA RICCIO
     bio: >-
-      🏥 Cosmetic Doctor 💉 Medical Skincare • Facial Sculpting • Laser Derm ☎️+1 (868) 622-SKIN 🔗 @theskinhealthinstitute 📍Trinidad and Tobago
+      CEO @benedettariccio_cosmetics @benedettaricciobeautylab 📍Napoli📍Milano📍Cosenza📍Caserta 📍 Palermo📍Bari 📍Lecce ⭐Service VIP www.benedettariccio.it
     location: "Italy"
-    followers: 32653
-    engagement: 168
-    commentsToLikes: 0.094308
-    id: ck0u05szdsp8c0i191gce7r3d
+    followers: 39112
+    engagement: 123
+    commentsToLikes: 0.024879
+    id: ck5zxiw4a83hf0i14odx07gox
     verified: false
-    hashtags: "#skinconfidence, #trinidad, #zoprotectandgo, #beautyinfluencer"
+    hashtags: "#napoli, #love, #italy, #beauty"
   - username: "peachestellsyou"
     fullname: >-
       Katerina Ourda
     bio: >-
-      🌼 Dancer / Host / Organiser / Graphic Designer 💃🏽 Waacker / @lespayswaack 📍 Belgium 📀 @thewaackdown 🐶 @eazythestaff 💄 MAC cosmetics freelancer
+      🌼 Dancer / Host / Organiser / Graphic Designer 💃🏽 Waacker / @lespayswaack 📍 Belgium 📀 @thewaackdown 🐶 @eazythestaff 💄 Working for ABH Cosmetics
     location: "Italy"
-    followers: 3395
-    engagement: 811
-    commentsToLikes: 0.058904
+    followers: 3365
+    engagement: 766
+    commentsToLikes: 0.058945
     id: ck136044b43kx0i19wzn6q4h0
     verified: false
-    hashtags: "#waackingislife, #waackingislove, #lespayswaack, #waackingisfreedom"
+    hashtags: "#waackingislove, #waackingisfreedom, #lespayswaack, #waackingislife"
   - username: "nuvo_cosmetic"
     fullname: >-
       Nuvò Cosmetic
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.024110
     id: ck9h9pasw9elq0j78zd4jmqab
     verified: false
-    hashtags: "#nuvo, #bavadilumaca, #benesserenaturale, #bavadilumacabio"
+    hashtags: "#bavadilumaca, #benesserenaturale, #nuvo, #mascheracapelli"
+  - username: "federicat_12"
+    fullname: >-
+      ◌ ꕤ ◌ 𝐹𝑒𝒹𝑒𝓇𝒾𝒸𝒶 ◌ ꕤ ◌
+    bio: >-
+      ☆ 𝑀𝒶𝓀𝑒 𝓊𝓅 𝒶𝓇𝓉𝒾𝓈𝓉 ☆ ♡ 𝐹𝒶𝓈𝒽𝒾𝑜𝓃 𝒶𝒹𝒹𝒾𝒸𝓉𝑒𝒹 ✭ 𝐿𝒾𝒻𝑒 𝓈𝓉𝓎𝓁𝑒 🍋𝒮𝒾𝒸𝒾𝓁𝓎 #SocialMediaAddict📲 ✎ 𝓓𝓪𝓷𝓲𝓮𝓵 𝓦𝓮𝓵𝓵𝓲𝓷𝓰𝓽𝓸𝓷->>>
+    location: "Italy"
+    followers: 8480
+    engagement: 1446
+    commentsToLikes: 0.127804
+    id: ck9hcn6bhm4sc0j78s2nbjuxh
+    verified: false
+    hashtags: "#eyeshadow, #metropolitanpalette, #igerssicilia, #octolyfamily"
 ---

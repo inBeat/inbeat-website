@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Mumbai In 2022
+title: Top 10 Fashion Instagram Influencers In Mumbai In 2023
 description: >-
-  Find top fashion Instagram influencers in Mumbai in 2022. Most popular hashtags: #fashion #mumbai #instagood #photooftheday.
+  Find top fashion Instagram influencers in Mumbai in 2023. Most popular hashtags: #india #mumbai #instagram #fashion.
 platform: Instagram
-hits: 1616
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 1616 Instagram influencers like this in Mumbai, India for you to pitch.
+hits: 1006
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 1006 Instagram influencers like this in Mumbai, India for you to pitch.
 profiles:
-  - username: "mj__romeo"
+  - username: "kaustubh_gavhane_"
     fullname: >-
-      FeNiL ChAuHaN™🍕
+      
     bio: >-
-      ! lifestyle🤘! Fashion influencer👔 ! Collaborations:- mjromeo222@gmail.com ! Surat💛 #mjromeo
+      🎗Born To Win 🎗 Mister Earth Air 🌏 2018 Mister Earth India 🇮🇳 2018 MuscleMania India Teenage Winner 2017🏆 👻 :- kaustubhgavhane
     location: "India"
-    followers: 93856
-    engagement: 619
-    commentsToLikes: 0.045926
-    id: ck14jtu0im5js0i19e1so2a6l
+    followers: 6844
+    engagement: 739
+    commentsToLikes: 0.028873
+    id: ck5cibdevsc810i11w5mjlco9
     verified: false
-    hashtags: "#mensfashion, #trends, #nightnight, #photography"
-  - username: "xx_mr_dilwale_xx"
+    hashtags: "#goa2021, #india, #hyderabad, #misterearthindia"
+  - username: "bigda_nawa_8055"
     fullname: >-
-      🌈_丂_💦_ㄩ_🥀_尺_👅_卂_🌼_ﾌ_🌈
+      🇳 🇮 🇹 🇮 🇳 ( NAAM TO SUNA HOGA)
     bio: >-
-      F//w 🌈🥀😍@morya_dhol_tasha_phatak . 𝕾𝖎𝖓𝖌𝖑𝖊_99%_😪 . 𝕯𝖍𝖔𝖑_𝖛𝖆𝖉𝖆𝖐_💙😇 . 𝕸𝖚𝖒𝖆𝖇𝖎_𝖐𝖍𝖆𝖗_🌍🔭 . 𝕯𝖒_𝖒𝖊_𝖋𝖔𝖗__𝖘𝖋𝖘_❤️ . 𝕷𝖔𝖌𝖎𝖓_27_𝖆𝖚𝖌🎂 .
+      💯#OFFICIAL_ACCOUNT💯 #huntersupporters 🎂𝖡𝗂𝗋𝗍𝗁𝖽𝖺𝗒 / 2 june🎂 Fashion | Lifestyle | photography 🏣INDIA /Reabareli🏣 🌍 Promotions&DM
     location: "India"
-    followers: 10083
-    engagement: 1308
-    commentsToLikes: 0.034945
-    id: ck9wfe8y2oha30j781yo6t4gd
+    followers: 7515
+    engagement: 429
+    commentsToLikes: 0.183929
+    id: ck8t136wkuaxb0j782ifjpjin
     verified: false
-    hashtags: "#support, #post, #photographylovers, #dholvadak"
-  - username: "shanayas_"
+    hashtags: "#look, #likeforfollow, #sdvtodos, #followtrain"
+  - username: "jatt_lifestyles_"
     fullname: >-
-      Shanaya S
+      Jatt Lifestyles
     bio: >-
-      Jack of all trades ✨ DJ & Content Creator since 2012 Email: Shanaya@ShanayaS.co - www.ShanayaS.co
+      ⭐INSTAGRAM REELS & SONGS PROMOTIONS AVAILABLE 🎯 ⭐COLLCETION OF TOP PAGES ⭐CONTACT :- 9914332969 ⭐ FOUNDER: -@devil_kohli 🤩 ⭐REACH 20+ MILLION 🤝
     location: "India"
-    followers: 73099
-    engagement: 263
-    commentsToLikes: 0.050822
-    id: ck0ucofechbvp0i19s4l355cd
+    followers: 331035
+    engagement: 39
+    commentsToLikes: 0.022962
+    id: ckaos06fjpk3t0i78gj2kok05
+    verified: false
+    hashtags: "#couple, #tiktok, #indianphotography, #fashion"
+  - username: "tina_jain27"
+    fullname: >-
+      TINA JAIN 👑
+    bio: >-
+      It’s Cool To Be Kind. 🕊 Spiritual Butterfly ✨ Athlete • Model• Aspiring Lawyer And sometimes, I write.✍🏻
+    location: "India"
+    followers: 8798
+    engagement: 828
+    commentsToLikes: 0.074572
+    id: ck8t7e3fhggsy0j78anny9ayr
+    verified: false
+    hashtags: "#reels, #instareels, #hakunamatata, #instadaily"
+  - username: "purtika_shree_dutt"
+    fullname: >-
+      Purtika
+    bio: >-
+      🎩Theatre Artist || Model || Youtuber || Fashion Blogger 🤝Follow- @rhythmiccreations 📸DM for Photo & Video Shoot in Lucknow ❤Tribute to Irrfan Khan
+    location: "India"
+    followers: 5225
+    engagement: 859
+    commentsToLikes: 0.163373
+    id: ck6uexjfvtmhk0j71h64cqk09
+    verified: false
+    hashtags: "#lucknowyoutuber, #portraitphotography, #lucknowites, #mumbaiblogger"
+  - username: "hasif_____"
+    fullname: >-
+      🦜/ محمد حاسف
+    bio: >-
+      ↺ ➤@sreenathbhasi • ➤𝘺𝘶𝘱,𝘪' 𝘮 𝘫𝘶𝘴𝘵 𝘢𝘯𝘰𝘵𝘩𝘦𝘳 𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮 𝘪𝘯𝘧𝘭𝘶𝘦𝘯𝘤𝘦𝘳
+    location: "India"
+    followers: 14091
+    engagement: 704
+    commentsToLikes: 0.084724
+    id: ck9hb76a8fo5z0j78ebk2mxki
+    verified: false
+    hashtags: "#kochi, #kannur, #malayalam, #thrissur"
+  - username: "aaryavora"
+    fullname: >-
+      Aarya vora || India 🇮🇳
+    bio: >-
+      I travel solo to know the real me 🧚 Travelling with #sherni 🚘 Managed by: Ignite Edge 📧 aaryavora@missmalini.com YouTube channel "Aarya vora"
+    location: "India"
+    followers: 655286
+    engagement: 45
+    commentsToLikes: 0.053411
+    id: ck0udvjx1jwz80i19boqab27g
     verified: true
-    hashtags: "#portraitsofindia, #goodvibesonly, #shanayadaily, #portraitshoot"
-  - username: "adhunik_world"
+    hashtags: "#travelblogger, #indiantravelblogger, #boireeltime, #mountainview"
+  - username: "iamsamarthverma"
     fullname: >-
-      EESHA MAYENKAR | GOA
+      Samarth Verma Official🇮🇳
     bio: >-
-      This is all out of soul, creativity and love🌺 Represented by: @inega.in Goa📍 || Mumbai
+      Starboy⭐️ Main SAMAЯTH hoo💎 Artist | Dancer | Actor | Content Creator ⭐️ Town boy with Big dreams I've not come here to compete,I'm here to rule🎭
     location: "India"
-    followers: 3144
-    engagement: 1723
-    commentsToLikes: 0.055065
-    id: ck6tj0dz41rza0j71qfgb8u54
+    followers: 2303
+    engagement: 1991
+    commentsToLikes: 0.089086
+    id: ck8wf5jayf5qq0j78d23wk8qv
     verified: false
-    hashtags: "#influencersofinstagram, #instagood, #goa, #portraitsofficial"
-  - username: "thetrendylabel"
+    hashtags: "#casting, #iamcoming2021, #instabollywood, #smile"
+  - username: "muasakshi_"
     fullname: >-
-      BEAUTY BLOGGER | Youtuber
+      Mua Sakshi Madhani
     bio: >-
-      Fashion & Beauty blogger #contentcreator #youtuber To know a little about Lot❤️ DM for Collaboration
+      - Glam Blush || Namrata Soni || Stylicious by Sam -Certified Makeup Artist -DM for collaborations and paid shoots 📍Mumbai Subscribe to my YouTube 👇
     location: "India"
-    followers: 10186
-    engagement: 486
-    commentsToLikes: 0.037858
-    id: ck0vuylwjmqq70i195yjyetxr
+    followers: 3309
+    engagement: 138
+    commentsToLikes: 0.020848
+    id: ck0vyyuf76gff0i19pzu2y5ff
     verified: false
-    hashtags: "#halloween, #makeuplovers, #photography, #hairstyle"
-  - username: "imatulpatidar"
+    hashtags: "#mumbai, #shooting, #quarantinelife, #makeupblog"
+  - username: "pm.photography_pranitmanjarekr"
     fullname: >-
-      ATUL PATIDAR
+      PRANIT  MANJAREKAR | INDIA 🇮🇳
     bio: >-
-      Fashion • Lifestyle • Travel 📍 : India 💌 : atulpatidar90@gmail.com
+      -[ Photography 📸 addicted ] -[ Wedding • Prewedding • fashion • portrait ] • MUMBAI 📍 DM For collaboration 📩 pranitmanjarekar34@gmail.com
     location: "India"
-    followers: 76184
-    engagement: 82
-    commentsToLikes: 0.011472
-    id: ck15pq4naz3l60i19ryyp0ycv
+    followers: 26123
+    engagement: 459
+    commentsToLikes: 0.013508
+    id: ck14hh4vxab010i19gqsw1uvt
     verified: false
-    hashtags: "#staysafe, #indian, #plixxoinfluencer, #styleformen"
-  - username: "_sweta_raj"
-    fullname: >-
-      Swêtā Räj
-    bio: >-
-      20🦋 Model and Actor with positive aura ✨ DM or Mail for collaboration 📩
-    location: "India"
-    followers: 4124
-    engagement: 736
-    commentsToLikes: 0.082837
-    id: ck8td4ukw1vog0j787fkwzcwn
-    verified: false
-    hashtags: "#westside, #fitness, #modelsofinstagram, #streetfashion"
-  - username: "ruchita.ghag"
-    fullname: >-
-      Ruchita Sanjay Ghag
-    bio: >-
-      Beauty • Skincare • Fashion ✨ Artist 🤍 👉🏻 DM / Mail for collaborations 📩 Join #ruchitaghag YouTube ⬇️
-    location: "India"
-    followers: 35180
-    engagement: 711
-    commentsToLikes: 0.032894
-    id: ckapa9oiwvanb0i78s8ep1wqi
-    verified: false
-    hashtags: "#instagood, #fashionblogger, #traditionalmakeup, #ruchitaghag"
-  - username: "poonam0111_"
-    fullname: >-
-      Poonam
-    bio: >-
-      Rise & Slay🌟 Dm/mail for work related queries
-    location: "India"
-    followers: 3827
-    engagement: 1170
-    commentsToLikes: 0.062538
-    id: ck5zzggnmboxx0i140jsookt1
-    verified: false
-    hashtags: "#featureme, #jaipurjewellery, #makeupartistry, #makeup"
-  - username: "sukaina_sultan"
-    fullname: >-
-      Sukaina Sultan
-    bio: >-
-      الحمد لله •👇🏻 My Josh id
-    location: "India"
-    followers: 41304
-    engagement: 350
-    commentsToLikes: 0.018122
-    id: ck5zya4od9i7l0i14qmwfzjy0
-    verified: false
-    hashtags: "#kbye, #pictureoftheday, #instagram, #keepsupporting"
+    hashtags: "#portraitmode, #marathistatus, #marathimeme, #look"
 ---

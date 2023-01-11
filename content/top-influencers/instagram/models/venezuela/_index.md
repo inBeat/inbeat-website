@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Venezuela In 2022
+title: Top 10 Models Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top models Instagram influencers in Venezuela in 2022. Most popular hashtags: #model #venezuela #tbt.
+  Find top models Instagram influencers in Venezuela in 2023. Most popular hashtags: #model #fashion #love.
 platform: Instagram
-hits: 156
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 156 Instagram influencers like this in Venezuela for you to work with.
+hits: 124
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 124 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
-  - username: "gasibae"
+  - username: "patriciaram0s"
     fullname: >-
-      𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐆𝐀𝐒𝐈𝐁𝐀
+      Patricia Ramos
     bio: >-
-      ✖️Miss Distrito Capital 2020 | Miss Fotogénica 20’ ✖️Healthy lifestyle | Model | LATINA 🇻🇪 ✖️Business: workingwith.gasiba@gmail.com 🌟dm for collabs
+      TV Host |Brand Ambassador Psychologist |Speaker| Model @elitemiami CEO: @somos.inmigrantes 👩🏼‍💻 IGTV”Del Éxodo al Éxito”
     location: "Venezuela"
-    followers: 41228
-    engagement: 794
-    commentsToLikes: 0.063985
-    id: ck5cfpfsfnege0i11i3rdr0vh
+    followers: 37450
+    engagement: 217
+    commentsToLikes: 0.073141
+    id: ck0w1dc02isn40i197zbelruc
     verified: false
-    hashtags: "#repost, #girlpower, #womenempowerment, #miss"
-  - username: "ariannapitino"
+    hashtags: "#quotes, #patriciaramos, #somosinmigrantes, #motivation"
+  - username: "steffysoccer"
     fullname: >-
-      ARIANNA PITINO🦂
+      Steffy G. - Coach ⚡️Cachaca
     bio: >-
-      Model | Fashion | Lifestyle Blogger .. not a simple girl living her dream✨ 📍Currently: Caracas/Valencia #creativedirector #production #contentcreator📩
+      🔒22k Player ⚽️ Model 📸 Tv Host 🎥 @pibeycachaca 💍👰🏼🤵🏻 @flp_gt 🇬🇹⚽️ #traveler #advancediver 🧜🏽‍♀️🌺🌊🦈🐙🎒🗺
     location: "Venezuela"
-    followers: 52082
-    engagement: 777
-    commentsToLikes: 0.032270
-    id: ck0tw1ckedlh80i19e0e7a89q
+    followers: 21107
+    engagement: 238
+    commentsToLikes: 0.086016
+    id: ckap1szetw05m0i78rxbzfs5n
     verified: false
-    hashtags: "#editorial, #photoshoot, #lifestyleblogger, #modelscout"
+    hashtags: "#reto21, #motivation, #herbalifenutrition, #reto21dias"
   - username: "veronicaweffer"
     fullname: >-
       Veronica Weffer
     bio: >-
       🎓Lic. Comunicación Social * TravelBlogger✈️ Youtuber * Bikini Model👙
     location: "Venezuela"
-    followers: 465593
-    engagement: 462
-    commentsToLikes: 0.019344
+    followers: 575440
+    engagement: 466
+    commentsToLikes: 0.015899
     id: ck15tapufh6000i198iul4w5x
     verified: false
-    hashtags: "#blogger, #morrocoy, #vzla, #tucacas"
-  - username: "dianavalentinarch"
+    hashtags: "#travel, #asia, #playa, #bikini"
+  - username: "gasibae"
     fullname: >-
-      Diana Valentina
+      𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐆𝐀𝐒𝐈𝐁𝐀
     bio: >-
-      Mi vida y día a día en fotos 📸 💃🏼Hobby model Chef internacional👩🏼‍🍳 📈Uni student
+      🪐 Odontología USM Model | Miss Distrito Capital 2020 | Miss Fotogénica 20’ 🇻🇪 @bookingsima @intermodels 📮 workingwith.gasiba@gmail.com
     location: "Venezuela"
-    followers: 8936
-    engagement: 1969
-    commentsToLikes: 0.018767
-    id: ck9hbo11fhoxf0j78ehdgm62q
+    followers: 44425
+    engagement: 638
+    commentsToLikes: 0.014845
+    id: ck5cfpfsfnege0i11i3rdr0vh
     verified: false
-    hashtags: "#blonde, #bogota, #photography, #pregnant"
-  - username: "steffysoccer"
-    fullname: >-
-      Steffy G. - Coach ⚡️Cachaca
-    bio: >-
-      🔒22k Player ⚽️ Model 📸 Tv Host 🎥 @pibeycachaca 💪🏽🌱 @flp_gt 🇬🇹⚽️ #traveler #advancediver 🧜🏽‍♀️🌺🌊🦈🐙🎒🗺
-    location: "Venezuela"
-    followers: 21585
-    engagement: 250
-    commentsToLikes: 0.081520
-    id: ckap1szetw05m0i78rxbzfs5n
-    verified: false
-    hashtags: "#herbalifelatino, #meentrenoencasa, #lifestyle, #traininghard"
-  - username: "leandry_pauquer"
-    fullname: >-
-      Leandry Pauquer
-    bio: >-
-      D E S I G N E R 24th - Venezuelan Born to the Design Artist | Model | Illustrator [Life, Liberty, Happiness]
-    location: "Venezuela"
-    followers: 8162
-    engagement: 1076
-    commentsToLikes: 0.030957
-    id: ck8tbyr3pxphn0j78rgagoy01
-    verified: false
-    hashtags: "#lights, #photoshoot, #men, #photography"
-  - username: "melissajimenez9"
-    fullname: >-
-      Melissa Jiménez
-    bio: >-
-      Miss International Venezuela '19 🤍 Model | Actress Life Coach | Gymnast #TuÉxitoEsSerTú
-    location: "Venezuela"
-    followers: 94462
-    engagement: 482
-    commentsToLikes: 0.016595
-    id: ck5c6nkj15tbg0i111dh8cjxr
-    verified: false
-    hashtags: "#tbt, #magazine, #missvenezuela, #tuexitoessertu"
-  - username: "yerardymontoya"
-    fullname: >-
-      Yerardy Montoya
-    bio: >-
-      👑TV Host @madelabelleza 🎬TV Host @meridianoonline 👑Miss Nva Esparta 2017 🎥 ℳℴ𝓂ℯ𝓃𝓉ℴ 𝒻𝒾𝓉 - YouTuber👇🏻 🥇Woman’s Fit Model 🎓Lcda Ciencias Fiscales
-    location: "Venezuela"
-    followers: 41248
-    engagement: 235
-    commentsToLikes: 0.047298
-    id: ck5bxv68sogv20i11vedmwgpb
-    verified: false
-    hashtags: "#black, #girl, #top, #topbodies"
-  - username: "camilacisnerosg"
-    fullname: >-
-      Camila Cisneros
-    bio: >-
-      madrid📍currently in Caracas M.A @brickelguerra 🇪🇸 @wildmgmt 🇬🇧 @bma_models 🇲🇽 @quetarojas
-    location: "Venezuela"
-    followers: 14677
-    engagement: 982
-    commentsToLikes: 0.017920
-    id: ck138bbwlfez20i19qoehtj2n
-    verified: false
-    hashtags: "#newreels, #work"
+    hashtags: "#tbt, #missdistritocapital2020"
   - username: "valeriefinlayd"
     fullname: >-
       Valerie Finlay Damiani
     bio: >-
       law | model | valichu | valifinlay@gmail.com @valifinlaybook | @calzadoezio
     location: "Venezuela"
-    followers: 19241
-    engagement: 732
-    commentsToLikes: 0.017588
+    followers: 20399
+    engagement: 678
+    commentsToLikes: 0.016430
     id: ck5ckc41vwkgw0i11d82ugw54
     verified: false
     hashtags: ""
+  - username: "eduarlopezf"
+    fullname: >-
+      E D U A R   L Ó P E Z   £.
+    bio: >-
+      Asesor Comercial Bitcoin Cash💲💼💲 Professional #Dancer🔝 /#Model 🇻🇪 Bailarin: @melodiaperfect @nakarynk Ccs-Vzla 🇻🇪 MI NUEVO VIDEO: REIK #raptame
+    location: "Venezuela"
+    followers: 7586
+    engagement: 623
+    commentsToLikes: 0.086161
+    id: ck5zzol4nc4q00i144orhvhie
+    verified: false
+    hashtags: "#avila, #beard, #caracas, #dance"
+  - username: "darinhneidi"
+    fullname: >-
+      D A R I N  ▪  H N E I D I
+    bio: >-
+      VE🇻🇪 Model | •Positive• 👑Miss Vzla Online 👑Miss Teen Supranacional Vzla 👑Miss Teen Continentes Vzla 👑Miss Teen Belleza Vzla 👑The model fashion Vzla
+    location: "Venezuela"
+    followers: 6947
+    engagement: 593
+    commentsToLikes: 0.129169
+    id: ck6tk7cqu45710j71uav7wbwn
+    verified: false
+    hashtags: "#fotografia, #loveyourself, #familia, #farandula"
+  - username: "kadi_1103"
+    fullname: >-
+      𝒦 𝒶 𝒹 𝒾 𝒿 𝒶  ℬ 𝓇 𝒾 𝓈 𝒶
+    bio: >-
+      📍🇵🇪 Miss Verano 2019 en @marinamoraescuela . Miss Teen Model Madre de Dios 2019 👑 . • Propuestas o canjes al DM ⭐️
+    location: "Venezuela"
+    followers: 6951
+    engagement: 1350
+    commentsToLikes: 0.023944
+    id: ckf5ow0p040e90j23nrsbl0ch
+    verified: false
+    hashtags: "#goldenhour, #sinfiltro"
+  - username: "melissajimenez9"
+    fullname: >-
+      Melissa Jiménez
+    bio: >-
+      Miss International Venezuela '19 🤍 Model | Actress Life Coach | Gymnast #TuÉxitoEsSerTú
+    location: "Venezuela"
+    followers: 93154
+    engagement: 293
+    commentsToLikes: 0.015101
+    id: ck5c6nkj15tbg0i111dh8cjxr
+    verified: false
+    hashtags: "#venezuela, #tbt, #tuexitoessertu, #model"
+  - username: "thequeenenigma"
+    fullname: >-
+      Queen Enigma
+    bio: >-
+      #BlackLivesMatter Haus of Crowne • 🇺🇸 PA Drag Queen Host | Brand Ambassador Model | Social Media Personality Business: E-Mail | DM
+    location: "Venezuela"
+    followers: 33429
+    engagement: 372
+    commentsToLikes: 0.037727
+    id: ckap4g19r77xp0i789qe3n1iy
+    verified: false
+    hashtags: "#allblacklivesmatter, #love, #pride, #runway"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers TikTok Influencers In France In 2022
+title: Top 10 Mothers TikTok Influencers In France In 2023
 description: >-
-  Find top mothers TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #tiktok #humour.
+  Find top mothers TikTok influencers in France in 2023. Most popular hashtags: #foryou #mother #fyp #pourtoi.
 platform: TikTok
-hits: 44
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 44 TikTok influencers like this in France for you to collaborate.
+hits: 45
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 45 TikTok influencers like this in France for you to contact.
 profiles:
+  - username: "amelie_lfs"
+    fullname: >-
+      Amélie
+    bio: >-
+      VIDÉO A 19H TS LES JOURS CEO CONCEPT IN STORE /POV 📩 amelielfs@rushinfluence.fr
+    location: "France"
+    followers: 858100
+    engagement: 1535
+    commentsToLikes: 0.010955
+    id: ck9ka8znhgajz0j78iesxbjq4
+    verified: false
+    hashtags: "#mother, #children, #sketch, #comedy"
+  - username: "pseudo2ouf"
+    fullname: >-
+      Justine
+    bio: >-
+      insta: @jubergen 👩‍👧 French 🥖🥐🇫🇷 21
+    location: "France"
+    followers: 144400
+    engagement: 1830
+    commentsToLikes: 0.005964
+    id: ckcv4i2qtov4w0j23g575r4o3
+    verified: false
+    hashtags: "#maybellinelift, #duo, #france, #cute"
   - username: "minibulle__"
     fullname: >-
       Minibulle__
     bio: >-
       Instagram : @minibulle__
     location: "France"
-    followers: 50300
-    engagement: 441
-    commentsToLikes: 0.041842
+    followers: 48200
+    engagement: 515
+    commentsToLikes: 0.044535
     id: ck9rnrdq38wxy0j78od9isafa
     verified: false
-    hashtags: "#stayathome, #foryou, #humour, #femme"
-  - username: "thecameleongirl"
+    hashtags: "#amour, #pourtoi, #humour, #foryou"
+  - username: "gautiermrqs"
     fullname: >-
-      Mrs Malfoy -Snape - Swan 🦢
+      G A U T I E R 
     bio: >-
-      🎬ᴀᴄᴛʀᴇꜱꜱ- ᴍᴏᴅᴇʟ 🇨🇵 🇬🇧 ᴅᴜᴇᴛ ᴀʀᴇ ᴡᴇʟᴄᴏᴍᴇ💕 Enquêtrice Paranormal 🔮 I am 29.
+      📍Nancy 📥gautierdelaporte03@gmail.com 📥 ~ Rejoins la famille on s’amuse ~
     location: "France"
-    followers: 80000
-    engagement: 2824
-    commentsToLikes: 0.042850
-    id: ck83yre42v1ba0j78el9j9fpm
+    followers: 57500
+    engagement: 1478
+    commentsToLikes: 0.017668
+    id: ckdt4yn2csy6d0j23102axijd
     verified: false
-    hashtags: "#narcissamalfoy, #narcissablack, #duo, #bellatrixlestrange"
+    hashtags: "#foryou, #sia, #reaction, #pourtoi"
+  - username: "racing.stripes"
+    fullname: >-
+      🐾Queen🐾
+    bio: >-
+      𝐷𝑂𝐺 𝐴𝐸𝑆𝑇𝐻𝐸𝐴𝑇𝐼𝐶𝑆
+    location: "France"
+    followers: 124300
+    engagement: 2261
+    commentsToLikes: 0.058730
+    id: ckdh40b48syo50j23kkwd9aqm
+    verified: false
+    hashtags: "#viral, #film, #horsefilm, #racingstripes"
   - username: "anayeth_ripon"
     fullname: >-
       ‘’Anayeth_Ripon’’
     bio: >-
       🙏❤️🇧🇩🥰🇫🇷❤️🙏 Fb//riponahmed90 একটু হাসি খুশির জন্য আমার এই TikTok ! Tnx
     location: "France"
-    followers: 7238
-    engagement: 2142
-    commentsToLikes: 0.320593
+    followers: 27100
+    engagement: 2113
+    commentsToLikes: 0.302099
     id: ckcdfd9886kgt0j23okvg73l4
     verified: false
-    hashtags: "#comedy, #parisiensam, #sylhet, #saintcloud"
-  - username: "leoleeew"
+    hashtags: "#foryou, #romantic, #song, #10frenz"
+  - username: "jaimebiendessinerlol"
     fullname: >-
-      Famacito
+      Elise☁
     bio: >-
-      🌊🏄 Montpellieeeeer
+      J'aime bien dessiner lol 2592 gens qui aiment les raisins 🍇
     location: "France"
-    followers: 39000
-    engagement: 2033
-    commentsToLikes: 0.023330
-    id: ckb0eyerp77s10j23v7v5hhm4
+    followers: 2589
+    engagement: 2634
+    commentsToLikes: 0.071503
+    id: ckbesut95bmic0j236nk7rkkj
     verified: false
-    hashtags: "#lycee, #pourtoi, #foryou, #crush"
-  - username: "ma_dblc"
-    fullname: >-
-      mathylde_dblc🍎
-    bio: >-
-      Nice🌅 IG: ma_dblc 👆🏼 25/12/04🥰
-    location: "France"
-    followers: 38400
-    engagement: 1244
-    commentsToLikes: 0.111385
-    id: ckdmtdn8yaikm0j23xak2rk4w
-    verified: false
-    hashtags: "#pourtoi, #foryou, #sun, #tiktok"
+    hashtags: "#deep, #foryou, #weird, #paint"
   - username: "kuikui921"
     fullname: >-
       Kuikui
     bio: >-
       Thanks a lot❤️ Gros bisous💗 📧 : kuikuiparis@gmail.com
     location: "France"
-    followers: 107400
-    engagement: 2434
-    commentsToLikes: 0.014160
+    followers: 103000
+    engagement: 2427
+    commentsToLikes: 0.011996
     id: ckamf6yo66r5f0i78ogrzshiv
     verified: false
-    hashtags: "#maman, #chinois, #com, #tiktok"
-  - username: "margauxtheparisian"
+    hashtags: "#maman, #chinois, #tiktok, #com"
+  - username: "ornellaaaa20"
     fullname: >-
-      ✨Follow my Instagram ✨
+      BIGFAMILY20❤️
     bio: >-
-      28 k les guys ! Venez sur Insta ( je répond au MP) 📩margauxctn@outlook.fr Paris
+      55k merci 🙏🏻 Marseillaise 💙 Fiancée 💍 Disneyaddict ✨
     location: "France"
-    followers: 28400
-    engagement: 2260
-    commentsToLikes: 0.028311
-    id: ckb0eye9177o90j231f78tybz
+    followers: 55300
+    engagement: 1500
+    commentsToLikes: 0.057273
+    id: ck9bzac5lnmp80j7850e4bnug
     verified: false
-    hashtags: "#netflix, #viral, #humour, #foryoupage"
-  - username: "apuissance2"
+    hashtags: "#olympiquedemarseille, #marseille, #13, #love"
+  - username: "giiingeeerr"
     fullname: >-
-      A puissance 2
+      Ginger 
     bio: >-
-      Abonnez-vous sur youtube : A puissance 2 Insta/ fb : a_puissance_2
+      📍Marseille Insta : _laamarseillaisee_
     location: "France"
-    followers: 31300
-    engagement: 1748
-    commentsToLikes: 0.017353
-    id: ck9shjf8ntqwn0j78pkxw8qhd
+    followers: 40800
+    engagement: 1267
+    commentsToLikes: 0.043738
+    id: ckbky6owquc4u0j23ltsjvzcq
     verified: false
-    hashtags: "#actors, #prank, #drunk, #music"
-  - username: "foodvsfashion"
-    fullname: >-
-      Food Vs Fashion 😘
-    bio: >-
-      Bientôt 25K !!!! 🛎 Active la 🛎
-    location: "France"
-    followers: 25000
-    engagement: 1019
-    commentsToLikes: 0.071300
-    id: ckbky6o45uc170j23nbncbx1a
-    verified: false
-    hashtags: "#trending, #transition, #foryoupage, #pourtoi"
-  - username: "jeanoff_"
-    fullname: >-
-      Jean
-    bio: >-
-      Ressemblance/20 Je me transforme en tout IG: @stadler.jg
-    location: "France"
-    followers: 71400
-    engagement: 2332
-    commentsToLikes: 0.014697
-    id: ckczwcc666d2u0j2367z6tapu
-    verified: false
-    hashtags: "#pourtoii, #foryou, #pourtoi, #fyp"
+    hashtags: "#enjoy, #humour, #collage, #couple"
 ---

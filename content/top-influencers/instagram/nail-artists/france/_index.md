@@ -1,60 +1,24 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In France In 2022
+title: Top 10 Nail Artists Instagram Influencers In France In 2023
 description: >-
-  Find top nail artists Instagram influencers in France in 2022. Most popular hashtags: #nails #nailsofinstagram #nailsonfleek #nailstagram.
+  Find top nail artists Instagram influencers in France in 2023. Most popular hashtags: #nails #nailsonfleek #nailporn #nailstagram.
 platform: Instagram
-hits: 42
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 42 Instagram influencers like this in France for you to connect with.
+hits: 46
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 46 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "corasunsetarts"
-    fullname: >-
-      Nail Artist ϕ
-    bio: >-
-      𓂀 CORALIE. //📍ORLÉANS 🇫🇷 ✏ NAIL ARTIST 🖇 MODE🖇 PAINTINGS🎨👀💅🏽💯 ✨ ALL HANDPAINTED /🔍🖌💥 ❌ NO STICKERS ❌ 📩Contact Pro : corasunsetarts@gmail.com
-    location: "France"
-    followers: 33592
-    engagement: 214
-    commentsToLikes: 0.080111
-    id: ck15r07jz5hhu0i19fvoxbkuc
-    verified: false
-    hashtags: "#halloween, #style, #nailart, #nailartist"
-  - username: "melison_ig"
-    fullname: >-
-      MELISON
-    bio: >-
-      •Dancer •Choreographer •Youtuber •Nail Artist | Mongolia's got talent 2018 3rd place 🇲🇳 | 🛑YOUTUBE CHANNEL 👇🏻👇🏻👇🏻
-    location: "France"
-    followers: 94550
-    engagement: 536
-    commentsToLikes: 0.015476
-    id: ck15rd2797bmc0i19bq9933ir
-    verified: false
-    hashtags: "#makeup, #igersmongolia, #ubeveryday, #photography"
   - username: "vanessa.nailart"
     fullname: >-
       Vanessa Nail Art
     bio: >-
-      Nail Artist & Educator 🇫🇷 Ambassador & Trainer ❤Jet Set Beauty❤ Products www.jet-set-store.de
+      Nail Artist & Educator 🇫🇷
     location: "France"
-    followers: 39986
-    engagement: 565
-    commentsToLikes: 0.010237
+    followers: 53256
+    engagement: 576
+    commentsToLikes: 0.011286
     id: ck9wor30t68t00j78vsii456i
     verified: false
-    hashtags: "#nailtrends, #nailart, #nailpromagazine, #nailtech"
-  - username: "solisbeautys"
-    fullname: >-
-      Solis Beauty'S
-    bio: >-
-      FRENCH MAKE UP ARTIST 🙏🏿 NAILS ARTIST💅🏿 FRENCH ENTREPRENEUR ⚖️💶 FRENCH CURVY STYLE 👠👗
-    location: "France"
-    followers: 6508
-    engagement: 510
-    commentsToLikes: 0.024727
-    id: ck5ck62bxw7q40i11dj9fcnsu
-    verified: false
-    hashtags: "#repasdusoir, #redlips, #contouring, #crazygirl"
+    hashtags: "#artnails, #nailjunkie, #nailswag, #nailart"
   - username: "alexandrasnobl"
     fullname: >-
       Alexandra Snóbl
@@ -66,19 +30,43 @@ profiles:
     commentsToLikes: 0.013229
     id: ck13ac2b8pnwn0i19g9952unc
     verified: false
-    hashtags: "#moyrastamping, #dollypartonchallenge, #frenchnails, #lovestamping"
+    hashtags: "#dollypartonchallenge, #frenchnails, #lovestamping, #moyrastamping"
+  - username: "corasunsetarts"
+    fullname: >-
+      π Nail Artist ϕ
+    bio: >-
+      𓂀 NAIL ART 💅🏼 PAINTING 🎨 MODE ✨ ❌NO STICKERS❌ (All Handpainted ✍🏼)
+    location: "France"
+    followers: 33406
+    engagement: 207
+    commentsToLikes: 0.086377
+    id: ck15r07jz5hhu0i19fvoxbkuc
+    verified: false
+    hashtags: "#fashionaddict, #firehair, #boohoo, #styleinspiration"
+  - username: "matuszewsk.a"
+    fullname: >-
+      NAILS DESIGNER 🔝️#nail
+    bio: >-
+      #nailsinspiration #paznokcie 📨 matuszewska.lipka@gmail.com
+    location: "France"
+    followers: 124969
+    engagement: 377
+    commentsToLikes: 0.016115
+    id: ck0u00yydsc7n0i193zh17e1m
+    verified: false
+    hashtags: "#manicurehybrydowy, #nailsnailsnails, #mattenails, #gelpolish"
   - username: "mel_beautynails"
     fullname: >-
       𝗠𝗲𝗹 𝗕𝗲𝗮𝘂𝘁𝘆𝗡𝗮𝗶𝗹𝘀
     bio: >-
       ℕ𝕒𝕚𝕝𝕤 𝔹𝕪 𝕄 .🇫🇷 ℕ𝕒𝕚𝕝 𝔸𝕣𝕥𝕚𝕤𝕥 & ℕ𝕒𝕚𝕝 𝕋𝕣𝕒𝕚𝕟𝕖𝕣 💅🏼 @lockdown.masterclass.2 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 𝗳𝗼𝗿 @jet_set_beauty_nails💗 𝒲𝑜𝓇𝓀 𝓌𝒾𝓉𝒽 𝓅𝒶𝓈𝓈𝒾𝑜𝓃❤️
     location: "France"
-    followers: 19904
-    engagement: 437
-    commentsToLikes: 0.129093
+    followers: 20216
+    engagement: 338
+    commentsToLikes: 0.044255
     id: ckapamjo0wpfb0i78qouilw6x
     verified: false
-    hashtags: "#frenchmanicure, #nailartists, #coffinnails, #nailsmagazine"
+    hashtags: "#nailsmagazine, #swarovskinails, #ombrenails, #nailtech"
   - username: "naildbyk"
     fullname: >-
       KATIA KATALINA
@@ -93,38 +81,50 @@ profiles:
     hashtags: ""
   - username: "nailsartparis_"
     fullname: >-
-      Nails Art By Lonna 💅🏻
+      Nails Art Paris 💅🏻
     bio: >-
-      💅 Nail spécialiste, My Work! 📍Paris, Noisy Le grand Prise’s de Rendez-vous en DM
+      💅 Nail spécialiste 📍Noisy Le Grand Pour les rdv en DM
     location: "France"
-    followers: 44119
-    engagement: 465
+    followers: 46531
+    engagement: 441
     commentsToLikes: 0.009220
     id: ck5cb2wabemjg0i119z8zebyc
     verified: false
-    hashtags: "#nailsblue, #nailstagram, #nailspink, #nailsstyle"
-  - username: "lilicreuk"
+    hashtags: "#nailsartwow, #nailsonfleek, #marbrenailseffect, #nailsviolet"
+  - username: "bri_bbs"
     fullname: >-
-      LILI CREUK - NAIL ARTIST PARIS
+      𝙱𝚛𝚒 𝚖𝚊𝚍𝚎 𝚒𝚗 𝚏𝚛𝚊𝚗𝚌𝚎 📍Toulouse
     bio: >-
-      💎 RDV - FORMATION - FASHION - EVENT 💅 @the_gelbottle_inc brand ambassador 📍 Owner of @aulocalparis 💌 lilicreuk@gmail.com -pro only
+      DÉCORATION D’INTÉRIEUR & FOOD ♡ 🍂 27 | 𝚂𝚌𝚊𝚗𝚍𝚒 𝚑𝚘𝚖𝚎 📷 Think outside the box ! #toulouse Le parcours qui m’a permit d’être à mon compte :
     location: "France"
-    followers: 25016
-    engagement: 336
-    commentsToLikes: 0.026209
-    id: ck55p1iiv9mbe0i110by28rpy
+    followers: 14228
+    engagement: 774
+    commentsToLikes: 0.185857
+    id: ck5c8lo3s9r0n0i114o74wkaz
     verified: false
-    hashtags: "#blingnails, #nailsofinstagram, #nails, #nailart"
-  - username: "melmagicworld"
+    hashtags: "#interiorinspo, #whiteinterior, #natural, #bohostyle"
+  - username: "bellali.fella"
     fullname: >-
-      ♡ 𝔪𝔢𝔩             🎃
+      🧿fella bellali🧿
     bio: >-
-      French Inked Girl ☞ Slytherin | Disney Girl ☞ Theme park | Geek ☞ 90s Child Avignon | Montpellier . ↓ ↓ ↓ ↓ ↓
+      Chanteuse 🎤;doubleuse de voix; animatrice Radio CH2 ;maison de la cultureT.O;théâtreKatebYacine; Makeup art addict Modèle photo Partenariats en DM📩
     location: "France"
-    followers: 14419
-    engagement: 1428
-    commentsToLikes: 0.053268
-    id: ck8taq0j7smrf0j78w7mb5c1a
+    followers: 48853
+    engagement: 121
+    commentsToLikes: 0.021226
+    id: ck14jx5khmmvr0i199pdtrcki
     verified: false
-    hashtags: "#inkedmodel, #witch, #disneystyle, #grungestyle"
+    hashtags: "#kabylie, #photooftheday, #tiziouzou, #kabyle"
+  - username: "celinealmlinee"
+    fullname: >-
+      Celine Alm Linee
+    bio: >-
+      👩🏻‍🎓Trade Communication & Management 💓Animal enthusiast ✈️Travel Lover 💌 Celinealmlinee@gmail.com 👻Celinealmlinee
+    location: "France"
+    followers: 47539
+    engagement: 392
+    commentsToLikes: 0.012382
+    id: ck6tyrm1o5g7z0j7198vbsprd
+    verified: false
+    hashtags: "#outfitinspiration, #classy, #clothing, #outfittoday"
 ---

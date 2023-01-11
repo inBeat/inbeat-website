@@ -1,48 +1,84 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Montreal In 2022
+title: Top 10 Skincare TikTok Influencers In Montreal In 2023
 description: >-
-  Find top skincare TikTok influencers in Montreal in 2022. Most popular hashtags: #skincare #fyp #foryou #comedy.
+  Find top skincare TikTok influencers in Montreal in 2023. Most popular hashtags: #skincare #montreal #canada #fyp.
 platform: TikTok
-hits: 5
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 5 TikTok influencers like this in Montreal, Canada for you to contact.
+hits: 7
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "itssunnydeb"
+  - username: "katiecung"
     fullname: >-
-      Sunny
+      katiecung
     bio: >-
-      IG @itssunnydeb & @purnaahaldaar
+      🇨🇦🇻🇳 just trying to keep up with the trends 🤷🏻‍♀️
     location: "Canada"
-    followers: 12900
-    engagement: 609
-    commentsToLikes: 0.011789
-    id: ck986jyhcx5o20j788f56thxt
+    followers: 34600
+    engagement: 692
+    commentsToLikes: 0.045092
+    id: ck9v8tefjb49r0j78t713sdez
     verified: false
-    hashtags: "#foryou, #desi, #girlfriend, #fyp"
-  - username: "sonia.lifestyle"
+    hashtags: "#styletips, #howto, #fyp, #bts"
+  - username: "lucamuzzoo"
+    fullname: >-
+      lucamuzzo
+    bio: >-
+      non-binary (they/them) 💌: businesslucamuzzo@gmail.com ⬇️socials⬇️
+    location: "Canada"
+    followers: 230500
+    engagement: 1715
+    commentsToLikes: 0.026325
+    id: ckc7c3ggmlt990j23g3mhyxds
+    verified: false
+    hashtags: "#frenchtok, #montreal, #duet, #french"
+  - username: "matthew.giuffrida"
+    fullname: >-
+      Matthew Giuffrida
+    bio: >-
+      🇮🇹/🇵🇹 Living in 🇨🇦 Facebok: Matthew Giuffrida Snap: matthewgiuffri
+    location: "Canada"
+    followers: 68600
+    engagement: 504
+    commentsToLikes: 0.028083
+    id: ck7zo5i4yhzjz0j783axh2jfs
+    verified: false
+    hashtags: "#canada, #mtlboys, #toronto, #brudder"
+  - username: "sonia_ben_dekhil"
     fullname: >-
       Sonia
     bio: >-
-      Instagram: sonia.lifestyle
+      Instagram: sonia_ben_dekhil
     location: "Canada"
-    followers: 101500
-    engagement: 366
-    commentsToLikes: 0.026630
+    followers: 100700
+    engagement: 359
+    commentsToLikes: 0.019882
     id: ck9ep96ltrlh40j78spw2875n
     verified: false
-    hashtags: "#maroc, #duo, #montreal, #nuxekosmetics"
+    hashtags: "#duo, #tunisie, #maroc, #montreal"
   - username: "scredzmusik"
     fullname: >-
       Scredz
     bio: >-
       Scredz_Musik 🎧
     location: "Canada"
-    followers: 6169
-    engagement: 649
-    commentsToLikes: 0.056364
+    followers: 6120
+    engagement: 646
+    commentsToLikes: 0.056118
     id: ckdhq6f3n1na70j23oosz1m6m
     verified: false
-    hashtags: "#foru, #baby, #fyp, #quebec"
+    hashtags: "#canada, #foru, #quebec, #foryoupage"
+  - username: "emilie.levesque3"
+    fullname: >-
+      emilie.levesque3
+    bio: >-
+      Sup 🌝 24 | 🇨🇦 ytb : Émilie Levesque ig : emilielevesque3
+    location: "Canada"
+    followers: 16300
+    engagement: 827
+    commentsToLikes: 0.009710
+    id: ckbfgxw5sc65s0j23ak1uu80w
+    verified: false
+    hashtags: "#training, #ad, #canada, #workout"
   - username: "marguerite_2718"
     fullname: >-
       Miss Natacha🌹🌿✨
@@ -54,77 +90,41 @@ profiles:
     commentsToLikes: 0.080741
     id: ckdbv8ka9dh5z0j23cpsdccfz
     verified: false
-    hashtags: "#artober, #beconvincing, #affirmations, #babyfur"
-  - username: "youthin.asia"
+    hashtags: "#canadianscare, #roomaesthetic, #duo, #vibewithus"
+  - username: "ryandubs"
     fullname: >-
-      youthin.asia
+      Ryan Dubs
     bio: >-
-      
+      Brand King & creative director to the stars🍾🎈🏳️‍🌈 My skincare brand DEW!👇🏼
     location: "Canada"
-    followers: 34800
-    engagement: 463
-    commentsToLikes: 0.000795
-    id: ckcp6hugmd3na0j230co6nfw5
+    followers: 352900
+    engagement: 1161
+    commentsToLikes: 0.018781
+    id: ck9bxqhdwmpz70j780szuz2c4
     verified: false
-    hashtags: "#canadian, #soulmate, #covid, #husbandandwife"
-  - username: "jenahirsch"
+    hashtags: "#mansion, #manifest, #entrepreneur, #rich"
+  - username: "jahakerrr"
     fullname: >-
-      Jena Hirsch
+      JAHA - Beauty Tutor 🌻
     bio: >-
-      I post clothes & skincare Follow me on insta: @jenahirsch
+      I SHARE SKINCARE & SELF CARE TIPS❤️ MY SKINCARE LINE! 💥SIGN UP FOR 10% OFF⬇️
     location: "Canada"
-    followers: 3956
-    engagement: 644
-    commentsToLikes: 0.067245
-    id: ck9fllc2koft60j78wrr2f4an
+    followers: 32700
+    engagement: 1160
+    commentsToLikes: 0.013401
+    id: ckcdls55h9tr60j23cjl4d0a6
     verified: false
-    hashtags: "#tiktokfashion, #loungewear, #stylechallenge, #outfitinspo"
-  - username: "pamperplace"
+    hashtags: "#beautyhacks, #diybeauty, #skincare, #ingredientslist"
+  - username: "saniaqam"
     fullname: >-
-      thepamperplace
+      Sania⚡️
     bio: >-
-      skincare blogger 🧖🏽‍♀️content creator IG: @ThePamperPlace
+      🇵🇰🇨🇦👩‍🔬🎭🎤 Fashion, Fitness, Skincare Tips, Health, Fun Insta@ san.qam
     location: "Canada"
-    followers: 5087
-    engagement: 741
-    commentsToLikes: 0.044675
-    id: ckcp9huhcebyu0j23087mfvtl
+    followers: 306700
+    engagement: 446
+    commentsToLikes: 0.048682
+    id: ck8072kgmo64z0j783tlsk29j
     verified: false
-    hashtags: "#foryou, #kbeauty, #skincare, #skincarebyhyram"
-  - username: "taylorefford"
-    fullname: >-
-      Taylor Efford
-    bio: >-
-      Skincare and make up but make it improv comedy✨ INSTAGRAM @taylorefford 🦋🦋
-    location: "Canada"
-    followers: 165800
-    engagement: 1494
-    commentsToLikes: 0.021631
-    id: ck83juo0g7drn0j78jg9w7ywh
-    verified: false
-    hashtags: "#homeoffice, #makeuphacks, #makeuptutorial, #acneskin"
-  - username: "andrearodgers7"
-    fullname: >-
-      Andrea Rodgers
-    bio: >-
-      🇨🇦 YVR Mom. Teacher. Skincare. Fun and connection. Check my IG for more!
-    location: "Canada"
-    followers: 23700
-    engagement: 725
-    commentsToLikes: 0.087643
-    id: ckc8gcfkkas8t0j231hhy4kwa
-    verified: false
-    hashtags: "#momsover30, #parenting, #over30, #wip"
-  - username: "janelle.girard"
-    fullname: >-
-      Janelle Girard
-    bio: >-
-      Nerds Out On Skincare Ingredient list junkie Goal 5K ✨
-    location: "Canada"
-    followers: 4803
-    engagement: 290
-    commentsToLikes: 0.053646
-    id: ckcdhm5xo7rw50j23d8c01mig
-    verified: false
-    hashtags: "#fyp, #beautyloverreveal, #skincare, #ghostphotoshoot"
+    hashtags: "#homeremedies, #duet, #skincare, #beautytips"
 ---

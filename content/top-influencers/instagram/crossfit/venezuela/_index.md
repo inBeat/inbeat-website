@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Venezuela In 2022
+title: Top 10 Crossfit Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top crossfit Instagram influencers in Venezuela in 2022. Most popular hashtags: #crossfit #venezuela #tbt #healthylifestyle.
+  Find top crossfit Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #crossfit #training.
 platform: Instagram
 hits: 11
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 11 Instagram influencers like this in Venezuela for you to pitch.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 11 Instagram influencers like this in Venezuela for you to contact.
 profiles:
+  - username: "lalybreortiz"
+    fullname: >-
+      Laly Ortiz
+    bio: >-
+      🥑 Healthy Lover 🏋🏼‍♀️ Crossfiter #Lidera9
+    location: "Venezuela"
+    followers: 6414
+    engagement: 1023
+    commentsToLikes: 0.090985
+    id: ck6tngevn9sgb0j71optsi41a
+    verified: false
+    hashtags: ""
   - username: "dayanabg"
     fullname: >-
       Dayana Brito
     bio: >-
       🌱Enamorada de los aceites esenciales dōTERRA @viviendoentregotas 💪🏻CEO @kettsport 🏋🏻‍♀️ Crossfitter 🐩 #animallover
     location: "Venezuela"
-    followers: 2291
-    engagement: 1130
-    commentsToLikes: 0.062805
+    followers: 2358
+    engagement: 1115
+    commentsToLikes: 0.061724
     id: ck8sy61vzjtz50j78dpoa183y
     verified: false
-    hashtags: "#competencia, #teamkett, #crossfit, #sigoentrenando"
-  - username: "tanialarcon"
-    fullname: >-
-      Tania Alarcón
-    bio: >-
-      📍🇻🇪 ⚙️Ing. Mecánico 🏋🏽‍♀️CF 🥇Bicampeona Fitgames Vzla 18/19 🤸🏼‍♂️Atleta @frontinoinc @metabolicvenezuela 👩🏽‍💼Coach @dragon_crossfit_ccs @speckbox.ccs
-    location: "Venezuela"
-    followers: 6534
-    engagement: 691
-    commentsToLikes: 0.051416
-    id: ck6twk5f1sgsw0j711f9d20x9
-    verified: false
-    hashtags: "#power, #fitness, #quarantine, #motivation"
+    hashtags: "#competencia, #crossfit, #teamkett, #teamescalado"
   - username: "health.yeaah"
     fullname: >-
       By ErikA Guillen.
     bio: >-
       🔜 functional training coach C.E.O @health.yeaah.food Plan de nutrición y Entrenamiento info al DM. Atleta @metabolicvenezuela Crossfitera 🏋️‍♂️
     location: "Venezuela"
-    followers: 18541
-    engagement: 409
-    commentsToLikes: 0.034242
+    followers: 19928
+    engagement: 442
+    commentsToLikes: 0.030295
     id: ck6uce1tuf1zx0j7157m3nqe8
     verified: false
-    hashtags: "#crossfitgirl, #healthylifestyle, #domingo, #beach"
-  - username: "lalybreortiz"
+    hashtags: "#playa, #fuerza, #friday, #saltyhair"
+  - username: "tanialarcon"
     fullname: >-
-      Laly Ortiz
+      Tania Alarcón
     bio: >-
-      🥑 Healthy Lover 🏋🏼‍♀️ Crossfiter 🍏 POSTRES SALUDABLES ¿Quieres comer dulce y no engordar? ⬇️ #Lidera9
+      📍🇻🇪 ⚙️Ing. Mecánico 🏋🏽‍♀️CF 🥇Bicampeona Fitgames Vzla 18/19 🤸🏼‍♂️Atleta @frontinoinc @metabolicvenezuela 👩🏽‍💼Coach @dragon_crossfit_ccs @speckbox.ccs
     location: "Venezuela"
-    followers: 6004
-    engagement: 816
-    commentsToLikes: 0.106297
-    id: ck6tngevn9sgb0j71optsi41a
+    followers: 6617
+    engagement: 678
+    commentsToLikes: 0.052119
+    id: ck6twk5f1sgsw0j711f9d20x9
     verified: false
-    hashtags: ""
+    hashtags: "#athlete, #healthylifestyle, #girl, #fitness"
   - username: "luisedegwitz"
     fullname: >-
       Luis Enrique Degwitz
     bio: >-
       🇻🇪/🇺🇸📍all we need is love. CrossFit Athlete 11th Fittest Teen on Earth (2019) Fittest Teen in Latinoamerica (2019)
     location: "Venezuela"
-    followers: 4288
-    engagement: 1767
-    commentsToLikes: 0.035215
+    followers: 4126
+    engagement: 1494
+    commentsToLikes: 0.021199
     id: ck0vxclqzy8i60i19fnjfx40q
     verified: false
-    hashtags: "#crossfitgames2019, #tbt, #allweneedislove"
-  - username: "billy.doe"
+    hashtags: "#tbt, #allweneedislove, #crossfitgames2019"
+  - username: "guisuarez12"
     fullname: >-
-      Miguel V. Pomenta
+      Guillermo Suárez P.
     bio: >-
-      - Mobility Coach of @morrocrossfit 💪 - Ed Sheeran - Perfect (cover by @briotheduo) Vídeo Completo 👇👇👇
+      Papa de Emiliano, Fotoperiodista, profesor de Fotoperiodismo y documentalismo. co-founder de @ghettophotove, runner y crossfit.
     location: "Venezuela"
-    followers: 2134
-    engagement: 1378
-    commentsToLikes: 0.056969
-    id: ck600tnz1e9110i14nzcrfuja
+    followers: 6157
+    engagement: 983
+    commentsToLikes: 0.089296
+    id: ck5q935mz95vc0i11fs7ayhhb
     verified: false
-    hashtags: "#quedateencasa, #venezuela, #crossfit, #ballet"
+    hashtags: "#photojournalism, #caracas, #streetphotography, #venezuela"
+  - username: "eduarlopezf"
+    fullname: >-
+      E D U A R   L Ó P E Z   £.
+    bio: >-
+      Asesor Comercial Bitcoin Cash💲💼💲 Professional #Dancer🔝 /#Model 🇻🇪 Bailarin: @melodiaperfect @nakarynk Ccs-Vzla 🇻🇪 MI NUEVO VIDEO: REIK #raptame
+    location: "Venezuela"
+    followers: 7586
+    engagement: 623
+    commentsToLikes: 0.086161
+    id: ck5zzol4nc4q00i144orhvhie
+    verified: false
+    hashtags: "#avila, #beard, #caracas, #dance"
   - username: "gatavani"
     fullname: >-
       Ivonne Albornoz
     bio: >-
-      👨‍👩‍👧 ♥️ Me llaman la #gatavani 👩🏻‍🎓Turismo 🛫Trip d Cabina 💪🏼Emprendedor Fitness Motivacion y Bienestar CEO @forzagym_pzo Publicidad 📤 VENEZOLANA🇻🇪
+      👨‍👩‍👧Flia 🐕♥️ Me llaman la #gatavani 👩🏻‍🎓Turismo 🛫Trip d Cabina Emprendedor Fitness Motivacion/Bienestar VENEZOLANA🇻🇪y de Guayana En 📍Orlando,Florida
     location: "Venezuela"
-    followers: 36614
-    engagement: 119
-    commentsToLikes: 0.030286
+    followers: 37675
+    engagement: 143
+    commentsToLikes: 0.038848
     id: ck6031kbdkhe50i1406ppoi2n
     verified: false
-    hashtags: "#actitud, #gatavani, #belleza, #energia"
-  - username: "mimiangulo_"
+    hashtags: "#energiaspositivas, #gatavani, #gata, #legsday"
+  - username: "sabirizza"
     fullname: >-
-      MICHELLE ANGULO
+      SABINA RIZZA
     bio: >-
-      📍Ccs, Venezuela •Tv hostess @zona_i - @todoentendenciai •Lcda. Comunicación social •3ra finalista chica HTV 2015 •Modelo - Bailarina - Locutora
+      Sabina sin R Est. Ing Industrial🇻🇪 My Fit Passion🏋🏻‍♀️♥️💪🏻
     location: "Venezuela"
-    followers: 36515
-    engagement: 295
-    commentsToLikes: 0.085722
-    id: ck5zwzvuw72nq0i14afy1hm4h
+    followers: 61151
+    engagement: 474
+    commentsToLikes: 0.056303
+    id: ck6ubv7gybwa10j71xym6mgpj
     verified: false
-    hashtags: "#goodnight, #25thbirthday, #momentosjeeka, #chicaideal"
-  - username: "chrisbettelli"
+    hashtags: "#superstar, #valencia"
+  - username: "keydomar"
     fullname: >-
-      Christian Bettelli
+      Keydomar Vallenilla
     bio: >-
-      Disfrutando de la vida desde 1986.🇻🇪 #Filmmarker #DronePilot #Cinematographer
+      Weightlifting - Halterofilia 🏋🏾‍♂️((((-----------------------))))🏋🏾‍♂️ #levantandosueños
     location: "Venezuela"
-    followers: 5903
-    engagement: 1861
-    commentsToLikes: 0.067870
-    id: ck0vypnki56cl0i19l9tsx9vv
+    followers: 12860
+    engagement: 541
+    commentsToLikes: 0.018210
+    id: ck15qs6mn4dlv0i19nie8wkwm
     verified: false
-    hashtags: "#mavicpro, #nicaragua, #playas, #cerroelmorro"
-  - username: "izamorafit"
-    fullname: >-
-      Izamar Mora
-    bio: >-
-      ✨Vzla🇻🇪Apureña👢 𝑪𝒂𝒎𝒑𝒆𝒐𝒏𝒂 𝑵𝒂𝒄𝒊𝒐𝒏𝒂𝒍 𝑩𝒊𝒌𝒊𝒏𝒊 2015-2016 One Face🔥
-    location: "Venezuela"
-    followers: 174837
-    engagement: 84
-    commentsToLikes: 0.070269
-    id: ck8sztmdbpnys0j78eyamm0nu
-    verified: false
-    hashtags: "#strong, #gymlife, #cardio, #fitlife"
+    hashtags: "#savage, #training, #power, #weightlifting"
 ---

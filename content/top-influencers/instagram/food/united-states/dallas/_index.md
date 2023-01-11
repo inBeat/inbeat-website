@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Dallas In 2022
+title: Top 10 Food Instagram Influencers In Dallas In 2023
 description: >-
-  Find top food Instagram influencers in Dallas in 2022. Most popular hashtags: #food #foodie #dallas #foodporn.
+  Find top food Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #food #fitness #dallastexas.
 platform: Instagram
-hits: 88
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 88 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 100
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 100 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "imafoodaddictx"
+  - username: "nelliecronenn"
     fullname: >-
-      Houston & Dallas Food | Amity
+      Nellie Cronen
     bio: >-
-      𝑨𝒓𝒆 𝒚𝒐𝒖 𝒕𝒉𝒆 𝒂𝒓𝒕𝒊𝒔𝒕 𝒐𝒓 𝒂𝒓𝒕 𝒊𝒕𝒔𝒆𝒍𝒇? ♡ 📲 Social Media Manager @bestfoodhouston (CL+) @palateconnect @foodietribe @fohr.co 💌Let’s collaborate?▶️DM/Email
+      Sailor | Bread Guru | Full time explorer🌎 US -> Bahamas -> 📍DR -> ... ⛵️ @sailingzola 🦈 @neptunic_com Follow along on YouTube as well❤️⬇️
     location: "United States"
-    followers: 12417
-    engagement: 342
-    commentsToLikes: 0.305213
-    id: ck14ii1esfi530i19dcvfxboy
+    followers: 234087
+    engagement: 128
+    commentsToLikes: 0.021876
+    id: ck8sxgbdshaez0j78n5o0pyfd
     verified: false
-    hashtags: "#food, #dallas, #steak, #asianfood"
-  - username: "adventureswithsoso"
+    hashtags: "#bahamas, #sailing, #bikini, #swimsuit"
+  - username: "desmondmarie"
     fullname: >-
-      ＳＯＰＨＩＡ • Houston Food Blogger
+      Bye Quida! ♓️
     bio: >-
-      On that see food diet #sosopunny Food 📸 + a bit of travel ✈️ 💌let’s collab! adventureswithsoso@gmail.com ↓how to donate
+      PERSONALITY I DO NOT HAVE A BACKUP PAGE!!!! Dallas,Texas #coleworld
     location: "United States"
-    followers: 3639
-    engagement: 696
-    commentsToLikes: 0.371106
-    id: ck0tx34gnhpje0i19905f4x2v
+    followers: 76032
+    engagement: 500
+    commentsToLikes: 0.028004
+    id: ck14gr9p36mi90i19note83x5
     verified: false
-    hashtags: "#bobalove, #brownsugarboba, #halloween, #follow"
+    hashtags: "#tuesday, #original, #mebeingme, #desmondmarie"
+  - username: "dina.thimslick"
+    fullname: >-
+      I AM HER!😤
+    bio: >-
+      25 ♈️ IRAQI 🇮🇶 📍Arlington/Dallas TX ▫️MEAL PLANS 🥦 & meals 🍱 ▫️MACRO COACHING ▫️1 on 1 & group training 🏋🏽‍♀️ YouTube: Dina.thimslick 🎥
+    location: "United States"
+    followers: 31941
+    engagement: 249
+    commentsToLikes: 0.029385
+    id: ck134pj8oxkru0i196cnnblos
+    verified: false
+    hashtags: "#instafit, #instamood, #trainhard, #fit"
   - username: "suellasmr"
     fullname: >-
       Suella
     bio: >-
       📍Dallas Food-loving mama to the most precious little boy  🎥my youtube videos👇🏼
     location: "United States"
-    followers: 202732
-    engagement: 231
-    commentsToLikes: 0.006517
+    followers: 195285
+    engagement: 106
+    commentsToLikes: 0.006737
     id: ck13byudrxt7k0i19indff1rh
     verified: false
-    hashtags: "#eatingsounds, #satisfying, #jajangmyeon, #asmrcommunity"
+    hashtags: "#instafood, #yummy, #noodles, #spicynoodles"
+  - username: "fashionablylateboymom"
+    fullname: >-
+      Letty | DFW Influencer
+    bio: >-
+      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
+    location: "United States"
+    followers: 17993
+    engagement: 70
+    commentsToLikes: 0.320487
+    id: ck5qaykpxixhm0i11xg3o2xkk
+    verified: false
+    hashtags: "#dallas, #dallasblogger, #ootn, #dallasfitnessambassadors"
+  - username: "mindykimdaily"
+    fullname: >-
+      Mindy Kim
+    bio: >-
+      💫PCOS 🦋 Relatable wellness tips for women ✖ Create Daily habits ✖ Sustainable routines #TIUteam #thatdailyglow
+    location: "United States"
+    followers: 7463
+    engagement: 362
+    commentsToLikes: 0.130888
+    id: ck5q6ysajzbqi0i117c7kwr8b
+    verified: false
+    hashtags: "#sundayfunday, #tiucommunity, #toneitupxtarget, #loveyourself"
+  - username: "anjelicacirone"
+    fullname: >-
+      A N J E L I C A
+    bio: >-
+      💪 Trainer at @bodymachinefitness 📍 Dallas ❤️ University of Louisville All-Girl Cheerleader alumna 🇺🇸 2X USA World Champion
+    location: "United States"
+    followers: 4889
+    engagement: 1076
+    commentsToLikes: 0.064432
+    id: ckaoynh0ai8w10i78e9maxo2e
+    verified: false
+    hashtags: "#lululemon, #fitnessmotivation, #frisco, #activelifestyle"
   - username: "marricaevans"
     fullname: >-
       DIGITAL CONTENT PHOTOGRAPHER
     bio: >-
-      ✨I help influencers + business owners create recurring content images that attracts their audience and tells the brands story. 👇🏾 Join 2021 Waitlist!
+      ✨I help influencers + business owners create recurring content that attracts their target audience and tells the brands story. 👇🏾 Join The Waitlist!
     location: "United States"
-    followers: 9996
-    engagement: 849
-    commentsToLikes: 0.039682
+    followers: 11041
+    engagement: 822
+    commentsToLikes: 0.038622
     id: ck139363cjaaa0i19mfb1ae7g
     verified: false
-    hashtags: "#marricaevans, #linkinbio, #dallasblogger, #dallastexas"
-  - username: "eatingthebigd"
+    hashtags: "#dallasblogger, #contentphotographer, #dallasphotographer, #dallasbloggers"
+  - username: "candiceeatsnyc"
     fullname: >-
-      Eating the Big D • Dallas Food
+      Candice’s Food Journal
     bio: >-
-      Fork it I’m getting the pizza 💞DALLAS FOODIE 📩 GET IN TOUCH: eatingthebigD@gmail.com
+      I run on coffee and sugar ☕️🍪 📍nyc | chi | tx | 🇨🇦 | 💌 hi.candiceeats@gmail.com #YelpElite
     location: "United States"
-    followers: 18799
-    engagement: 209
-    commentsToLikes: 0.041599
-    id: ckap9pse9t5pa0i78jr1322fe
+    followers: 3264
+    engagement: 1735
+    commentsToLikes: 0.230345
+    id: ckaou41vtyp9e0i78vner51sm
     verified: false
-    hashtags: ""
-  - username: "dallasfoodwanderer"
+    hashtags: "#eeeeeats, #sweettooth, #breakfast, #acaibowl"
+  - username: "datenight.dallas"
     fullname: >-
-      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
+      Date Night Dallas | Food & Travel
     bio: >-
-      I came🚶🏼‍♀️I saw 🤳 I ate 👅 📍 | dallas & travels 🔜 | only covid19 knows 👯‍♀️ | let’s collaborate! 📧 | dallasfoodwanderer@gmail.com 💁🏼‍♀️ | @saria16
+      ideas your next date night in dallas ✨ ✉️ contact@datenightdallas.com
     location: "United States"
-    followers: 12632
-    engagement: 334
-    commentsToLikes: 0.143952
-    id: ck0w3er8vt17z0i19w116309e
+    followers: 38777
+    engagement: 363
+    commentsToLikes: 0.081483
+    id: ckzdjnefwccjy0j23ccefydgg
     verified: false
-    hashtags: "#igfood, #dallas, #quarantinelife, #stayhome"
-  - username: "junjdm"
-    fullname: >-
-      Jun 🌀
-    bio: >-
-      Photographer/Artist | Shoes | Food | Basketball 🏀 | Dallas, TX | 🌹ILYSB | 📷Canon1DX Mark ii | JBY🦉🌙 Deuce Fam✌️”You can’t teach experience”
-    location: "United States"
-    followers: 12116
-    engagement: 542
-    commentsToLikes: 0.047950
-    id: ck6tm9svd7fuv0j71xlmjab0k
-    verified: false
-    hashtags: "#virgilabloh, #fearofgod, #paulgeorge4, #kicksoncourt"
-  - username: "moving_with_miranda"
-    fullname: >-
-      Miranda Hogue
-    bio: >-
-      🔌 #theplug for #food + #realestate in #Dallas 🙏🏻 Count your blessings, not your calories! 💕 wifey to @summitthogue 🛒 HOUSE hunt & finds ⬇️
-    location: "United States"
-    followers: 6485
-    engagement: 443
-    commentsToLikes: 0.039145
-    id: ck6uhfz7k8wie0j7171goo4et
-    verified: false
-    hashtags: "#day, #freedom, #dallas, #wcw"
-  - username: "pika_thecorgi"
-    fullname: >-
-      Pika & Polka the Corgis
-    bio: >-
-      🍑Pembroke Welsh Corgis ♂Pika 04/02/2018🔑💯Toy-motivated ♀Polka 11/28/2018🔑💯Food-motivated 🏠Dallas,TX 🇺🇸
-    location: "United States"
-    followers: 11737
-    engagement: 880
-    commentsToLikes: 0.044032
-    id: ck14imyu5g7280i1972kj8fvg
-    verified: false
-    hashtags: "#crownandpaw, #autumncolors, #workshop, #bealpha"
-  - username: "imhungwey"
-    fullname: >-
-      imhungwey (hung•wee)
-    bio: >-
-      📍 Dallas, Texas & more ✨ 🍰 Desserts by Caty @missbemeo 👩🏻‍🤝‍👨🏼 Foodie Couple: Caty 👩🏻‍💻 & Nathan 📸
-    location: "United States"
-    followers: 3150
-    engagement: 885
-    commentsToLikes: 0.234818
-    id: ck6tustw7i7la0j71bgxay5xe
-    verified: false
-    hashtags: "#foodie, #cheese, #chicken, #dallasfood"
+    hashtags: "#dallas, #datenight, #cocktails, #foodie"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Indonesia In 2022
+title: Top 10 Rappers Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top rappers Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #hiphop #covid19 #newsingle.
+  Find top rappers Instagram influencers in Indonesia in 2023. Most popular hashtags: #hiphop #rap #rapper #newsong.
 platform: Instagram
-hits: 45
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 45 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 40
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 40 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "naety_bop"
-    fullname: >-
-      CB
-    bio: >-
-      Cuma sendiri ☝ Nama Fb ituevan naetybop I'm rapper 😎busnies dm 📩 Link channel youtube🙏😇👇 BAWAH LARI KO PACAR 👇
-    location: "Indonesia"
-    followers: 30283
-    engagement: 481
-    commentsToLikes: 0.013364
-    id: ck6uafri23ba50j71egqi4rae
-    verified: false
-    hashtags: "#stellmokoibo"
   - username: "dohyon.x173"
     fullname: >-
       Nam Dohyon 남도현 BAE173 & X1
     bio: >-
       —fɑnstɑgrɑm ↪for #BAE173 & #엑스원's maknae,main rapper #남도현↩ ⤴2004.11.10⤵ `Dodo♡ `H&D `X1#엑스원 `MBK Ent. `ONE IT #원잇 `Dwaegaldan🍼 `International, 🇮🇩🇰🇷
     location: "Indonesia"
-    followers: 84560
-    engagement: 190
-    commentsToLikes: 0.005311
+    followers: 79919
+    engagement: 274
+    commentsToLikes: 0.004250
     id: ck0vxbffzy2w50i19ushqhd6c
     verified: false
-    hashtags: "#x1, #bae173, #debut, #dohyon"
-  - username: "sexygoath"
-    fullname: >-
-      SEXY GOATH
-    bio: >-
-      Rapper terBAN666SAT @official100music Official Merchandise @kambingliarofficial @highvolumecloth Bizniz Inquiries : @vidieyall BRAZZERZ
-    location: "Indonesia"
-    followers: 139182
-    engagement: 615
-    commentsToLikes: 0.016245
-    id: ck5zml8rbmrnf0i142uott3ha
-    verified: false
-    hashtags: "#gak, #sexygoath, #dirumahaja, #rockstar"
-  - username: "eckoshowgtown"
-    fullname: >-
-      ECKO SHOW [GHCOD]
-    bio: >-
-      🕋 Hamba اللّٰه Pengikut محمد 💡Hanya Rapper Kampung —————————————— 👇🏽New Song “Anjay Gurinjay”
-    location: "Indonesia"
-    followers: 105607
-    engagement: 614
-    commentsToLikes: 0.018817
-    id: ckaot3kphu8300i781gb64loa
-    verified: false
-    hashtags: "#outnow, #realmidrangekiller, #pocox3nfc, #pocorapchallenge"
+    hashtags: "#dohyon, #x1, #bae173, #rememberx1always"
   - username: "nalello"
     fullname: >-
       nael tjin
     bio: >-
-      🅰 DJJ - JKT 📍 Producer 🎧 Songwriter 🎼 Rapper 🎤 #asikinbelakanglayar @allgoodmusic.ina @nalello_beat New Song 👇👇👇 ( PIGI PIGI )
+      🅰 DJJ - JKT 📍 Producer 🎧 Songwriter 🎼 Rapper 🎤 #asikinbelakanglayar @allgoodmusic.ina @nalello_beat New Song 👇👇👇 ( CUEK REMIX )
     location: "Indonesia"
-    followers: 5671
-    engagement: 743
-    commentsToLikes: 0.112555
+    followers: 5691
+    engagement: 779
+    commentsToLikes: 0.113164
     id: ck139o4s9ma8p0i19mo5n83ei
     verified: false
-    hashtags: "#rap, #hotmusic, #allgood, #asikinbelakanglayar"
-  - username: "mas.gib"
+    hashtags: "#asikinbelakanglayar, #covid19, #papua, #newsingle"
+  - username: "zhavanyameidi"
     fullname: >-
-      MASGIB
+      vanya 반야
     bio: >-
-      Rapper / Actor/ Music Producer/ Content Creator | Food Lover | Vlogger MACK'G ⏯ MASGIB A EN JE A YE NEW VERSION 👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾
+      Vitamin Vanya of Z-Girls @zpopdream Singer, Dancer, Rapper. Z-Girls latest single 'Streets of Gold'
     location: "Indonesia"
-    followers: 86400
-    engagement: 231
-    commentsToLikes: 0.021735
-    id: ck0tu0jrn53kd0i19ow2sl6m3
+    followers: 166042
+    engagement: 471
+    commentsToLikes: 0.012737
+    id: ck136apes5kx40i19wmmnu6b1
+    verified: true
+    hashtags: "#zhavanya, #vanyacover, #vanya, #howyoulikethat"
+  - username: "samurai_reject"
+    fullname: >-
+      ジョーイ
+    bio: >-
+      🎤 Voice Actor Indonesia 📩 samuraireject@gmail.com Main rapper of @obakahito Treasure - ORANGE (Indo Ver) COVER 👇🏻
+    location: "Indonesia"
+    followers: 18888
+    engagement: 594
+    commentsToLikes: 0.021239
+    id: ck0tsy09i0eaa0i19cfff35yc
     verified: false
-    hashtags: "#vapeindo, #yeayea, #nyantaibantai, #liquid"
+    hashtags: "#samuraireject2021, #voiceacting, #voiceactor, #samuraireject"
+  - username: "itsyacko"
+    fullname: >-
+      Yacko
+    bio: >-
+      A college lecturer & a rapper |@flavs.id | @handsoffid | Contact: Gita +628159002313 | New Single Pitutur OUT NOW👇🏽👇🏽
+    location: "Indonesia"
+    followers: 27417
+    engagement: 282
+    commentsToLikes: 0.031311
+    id: ck55nxtau77t70i11tkthi1az
+    verified: false
+    hashtags: "#pitutur, #muztang, #yacko, #pumasuede"
   - username: "killthedj"
     fullname: >-
-      Marzuki Mohamad
+      Marzuki Mohammad
     bio: >-
-      Petani Urban x Rapper Agraris | @javahiphop @sedulur.katalog @ud.anarkisari
+      Petani Urban x Rapper Agraris | @jhf_no.1 @sedulur.katalog @ud.anarkisari
     location: "Indonesia"
-    followers: 67424
-    engagement: 491
-    commentsToLikes: 0.016575
+    followers: 73443
+    engagement: 438
+    commentsToLikes: 0.010382
     id: ck1372m659gmx0i198akmdu5s
     verified: true
-    hashtags: "#coronajancox, #klatenyoben, #purchasetodonate, #klatenpride"
+    hashtags: "#vaksingratis, #kewerkewer, #kopadkopid, #sony"
+  - username: "eckoshowgtown"
+    fullname: >-
+      ECKO SHOW [GHCOD]
+    bio: >-
+      🕋Hamba اللّٰه Pengikut محمد 💡Hanya Rapper Kampung 👕 @3peneti ——————————————— 👇🏽New Music Video
+    location: "Indonesia"
+    followers: 126702
+    engagement: 225
+    commentsToLikes: 0.014471
+    id: ckaot3kphu8300i781gb64loa
+    verified: false
+    hashtags: "#takedownsatutumbuhseribureuploader, #saatnyamelesat, #boldmusic, #boldvirtualxp"
   - username: "fatbrotherhood"
     fullname: >-
       YUSRI DIAZ DARMAWAN
     bio: >-
       OWNER: @surya_jewelry GOLD & SILVER RAPPER song writer MANAGER : +6282385267976 (@andhikarahmadhanr) CEK YOUTUBE
     location: "Indonesia"
-    followers: 2784
-    engagement: 1496
-    commentsToLikes: 0.063619
+    followers: 2986
+    engagement: 1048
+    commentsToLikes: 0.051456
     id: ck6u8v0u5tuiq0j71k3vik75y
     verified: false
-    hashtags: "#bismania, #toyotacrown1971, #polrespadangpanjang, #npm2020"
-  - username: "itsyacko"
+    hashtags: "#pubg, #pubgmobile, #fatbrotherhood, #sukomakan"
+  - username: "emiway_bantai_fans_"
     fullname: >-
-      Yacko
+      EmiwayBantaiFans🔵
     bio: >-
-      A college lecturer & a rapper |@flavs.id | Contact: Gita +628159002313 | new video is here 👇🏽👇🏽👇🏽
+      20k🎯 Biggest Fan Club God Of Rapper @emiway_bantai Sir🤗 KeepSupporting EmiwayBantai #RingRing (OUTNOW)👇
     location: "Indonesia"
-    followers: 24784
-    engagement: 315
-    commentsToLikes: 0.036217
-    id: ck55nxtau77t70i11tkthi1az
+    followers: 15006
+    engagement: 712
+    commentsToLikes: 0.021371
+    id: ck8takp9ss66m0j78rru9i12d
     verified: false
-    hashtags: "#16bars, #flavs, #maysketchday, #jagermusic"
-  - username: "p__frozen"
+    hashtags: "#soon, #independent, #art, #rap"
+  - username: "brayenmc_official"
     fullname: >-
-      P Frozen
+      BrayenMc
     bio: >-
-      #Rapper #Beatmaker #Lecturer cp: +62 819-0618-0619 (@chaerul_adjam)
+      🏅Winner 1st BEEF RAP BATTLE INDONESIA Talent @jenderalpetrukofficial 📍Jayapura "BEDA ARENA"⬇️
     location: "Indonesia"
-    followers: 5419
-    engagement: 674
-    commentsToLikes: 0.056678
-    id: ck5q874xp4ran0i1128mz3bc9
+    followers: 19200
+    engagement: 692
+    commentsToLikes: 0.031050
+    id: ck55nxrtb77qp0i11seiwx3oy
     verified: false
-    hashtags: "#dpscoast, #rapper, #hiphopbali, #hiphop"
+    hashtags: "#hiphopindo, #rapper, #hiphop, #alkohol"
 ---

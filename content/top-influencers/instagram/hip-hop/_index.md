@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hip-Hop Instagram Influencers In 2022
+title: Top 10 Hip-Hop Instagram Influencers In 2023
 description: >-
-  Find top hip-hop Instagram influencers in 2022. Most popular hashtags: #hiphop #pic #freestyle.
+  Find top hip-hop Instagram influencers in 2023. Most popular hashtags: #hiphop #happynewyear #jesiennie.
 platform: Instagram
-hits: 7499
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 7499 Instagram influencers like this for you to work with.
+hits: 7250
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 7250 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "riza.dance"
-    fullname: >-
-      {HipHop}
-    bio: >-
-      [hiphop dancer] [popping dancer] [azarbaijan dancer ] ( _ Or dancing Or loser_ ) @urmuqartallar_dancegroup .IRAN_urumie . My draw page : @riza.draw
-    location: "Iran"
-    followers: 2194
-    engagement: 1695
-    commentsToLikes: 0.083063
-    id: ck9wisqzh3sy10j78oj2fp8qs
-    verified: false
-    hashtags: "#hiphop, #classic, #photo, #pic"
-  - username: "___manu_micko"
-    fullname: >-
-      M A N U 🍁
-    bio: >-
-      Alhamdulillah Travelling 🌎 @hermanoo.__ @under_world_._ @hiphopz_fashionstore @hopes.onlinestore @hiphopz_pmna
-    location: "India"
-    followers: 167546
-    engagement: 917
-    commentsToLikes: 0.136859
-    id: ck9wp9c0r8cky0j78rzntmxev
-    verified: false
-    hashtags: "#pologti, #wols"
   - username: "margovanderherten"
     fullname: >-
       Margo l Travel & Business
     bio: >-
-      ✧ Never needed to begin a 9-to-5 job 😇 ✧ Structured Emerald leader @thebossbabeproject ✧ Dancehall-Afro-HipHop ✧ Click for a business opportunity 👇🏽
-    location: "Belgium"
-    followers: 3374
-    engagement: 1895
-    commentsToLikes: 0.161275
+      ✧ Never needed a 9-to-5 job 😇 ✧ Structured Emerald leader @thebossbabeprojectcrew ✧ Dancehall-Afro-HipHop ✧ Click for a business opportunity 👇🏽
+    location: "United States"
+    followers: 3514
+    engagement: 1768
+    commentsToLikes: 0.165884
     id: ckap79nvfj55q0i784tzs1j8f
     verified: false
     hashtags: ""
-  - username: "lunamaxeiner_"
+  - username: "darealspadeo"
     fullname: >-
-      luna
+      SPADE-O
     bio: >-
-      Luna Maxeiner🥰 📍Köln 📌HipHop/Kunstturnen/Klavier💞 @vybebrothers @momo_agentur
-    location: "Germany"
-    followers: 11296
-    engagement: 2434
-    commentsToLikes: 0.044356
-    id: ck5byl7bupd070i11y5koxd8p
+      ‘GLORY’ THE ALBUM OUT NOW CLICK ON THIS LINK🔥🔥🔥🔥. #philadelphia #hiphop #music #legend #MajorFiggas #DutchandSpade
+    location: "United States"
+    followers: 64561
+    engagement: 249
+    commentsToLikes: 0.048022
+    id: ck138pw91hfb00i19tbamrk6p
+    verified: true
+    hashtags: "#stillhere, #whenfreeaintfree, #invisiblecuffs, #eidmubarak2021"
+  - username: "misz_rocha"
+    fullname: >-
+      Misz Rocha 🎧⚡
+    bio: >-
+      📣🎧💃🏽 #DeepHouse with #AfroVibes & #HipHop 📧: book.misz.rocha@gmail.com 👱🏽‍♀️ 🇨🇻🇳🇱 | 👬🏽 Mom | 🎧 DJ | 🎓Teacher |📍NL | More myself @naat__________
+    location: "Netherlands"
+    followers: 2669
+    engagement: 1280
+    commentsToLikes: 0.111738
+    id: ckaozgjgzlsff0i78c2q9oa4c
     verified: false
-    hashtags: "#takeovervollvertauscht, #unbezahltewerbung"
+    hashtags: "#afrovibes, #blackcoffee, #girldj, #women"
   - username: "morpheus_neo"
     fullname: >-
       Morpheus
     bio: >-
-      💼 : CEO @morpheuscom 🎙 : Radio Host #hiphop since 1989 🎤 : #journaliste #cristalfm #radiofrance 🏈 : Specialist @nfl @starterofficial #starterjacket
+      - CEO @morpheuscom - Radio Host #hiphop since 1989 - Expert @nfl @mlb #nfl #mlb - Journaliste @cristalfm @radiofrance
     location: "France"
-    followers: 40894
+    followers: 41507
     engagement: 501
-    commentsToLikes: 0.055380
+    commentsToLikes: 0.046941
     id: ck0w18zt6i5930i19ic0j735x
     verified: false
-    hashtags: "#oldschool, #tealer, #hiphop, #rapfrancais"
-  - username: "helen_fares"
+    hashtags: "#draw, #france, #beardcream, #hiphop"
+  - username: "aydanuysal"
     fullname: >-
-      Ms Baklava
+      Aydan Uysal
     bio: >-
-      🧿🌙 Sie/Ihr Journalistin, Psychologin, Bildungsaktivistin, Moderatorin, Hiphop-podcast: @deinehomegirls Alle Anfragen an management@helenfares.com
-    location: "Germany"
-    followers: 42592
-    engagement: 681
-    commentsToLikes: 0.020813
-    id: ck5cdcn16ixqe0i11ba4sy6qs
+      🌖From The Moon 🏍Gezgin Dansçı 🧜🏻‍♀️Dreamer,Traveller 💫@moonstarfamily 👩🏻‍🎤@amazonlardans 💃🏻 @hiphopladiesturkey ✨Karadenizli
+    location: "India"
+    followers: 15308
+    engagement: 788
+    commentsToLikes: 0.061300
+    id: ck5catl9ke3sx0i11bdwh9b39
     verified: false
-    hashtags: "#continuetheconversation, #unfcktheinternet, #mentalhealth, #bipolar"
-  - username: "veropereira22"
-    fullname: >-
-      Vero Pereira
-    bio: >-
-      🎤RAPERA/HIPHOPERA/REGGAE🎤 Todo lo que crees que no he dicho,búscalo en mis temas.
-    location: "Venezuela"
-    followers: 21900
-    engagement: 291
-    commentsToLikes: 0.114108
-    id: ck0w2ax69nfvo0i19w010hln1
-    verified: false
-    hashtags: "#style, #can, #song, #stree"
-  - username: "ciesielska_maya"
-    fullname: >-
-      Maja Ciesielska
-    bio: >-
-      ❣️tik tok: majaciesielska51 🎥Uczestnik #MaliGiganci 2 🎥#tvnpl 💃 #Dancer #HipHop 15% zniżki na hasło: maya09 do 04 października ❤️
-    location: "Poland"
-    followers: 11651
-    engagement: 910
-    commentsToLikes: 0.036830
-    id: ck8tc73layivd0j78ob8l0fuz
-    verified: false
-    hashtags: "#portrets, #portretfotografie, #milegodnia, #dominospizza"
-  - username: "dipper_rato"
-    fullname: >-
-      Chugamaican Gyal🇹🇿🇯🇲
-    bio: >-
-      C.F.O @thebosses_spa ONLY HUSTLERs UNDERSTAND HUSTLERs RATO Street Knowledge And Discipline HIPHOP| MUSIC |RATONATION New Song: MAGURATO link ⬇️
-    location: "United States"
-    followers: 51817
-    engagement: 164
-    commentsToLikes: 0.052146
-    id: ckapavolxxmxv0i783bm0ax8y
-    verified: false
-    hashtags: "#ratonation, #badgaltings, #chugamaicangyal, #chugamaicantings"
+    hashtags: "#freeze, #travellers, #dancerslife, #breaking"
   - username: "hollywood_hersh"
     fullname: >-
       Berlin_bleu
     bio: >-
-      Celebrity Hair Stylist: VH1 Black Ink, HipHop Squares, Essence, K.Michelle Business @HairByHerShe https://youtu.be/9IdJVw9UW-Q
+      Celebrity Hair Stylist: VH1 Black Ink, HipHop Squares, Essence Mag, K.Michelle, Business @HairByHerShe https://youtu.be/9IdJVw9UW-Q
     location: "United States"
-    followers: 21680
-    engagement: 405
-    commentsToLikes: 0.053861
+    followers: 21648
+    engagement: 410
+    commentsToLikes: 0.056253
     id: ck55m3odg34uv0i11srjvy4e4
     verified: false
-    hashtags: "#whynot, #thatsbluebytheway, #imtheonethatkeepthemlit, #causeimeanhelloooooo"
+    hashtags: "#everythingscustom, #idancesometimes, #myfriendsarefuckingrich, #whynot"
+  - username: "ciesielska_maya"
+    fullname: >-
+      Maja Ciesielska
+    bio: >-
+      ❣️tik tok: majaciesielska51 🎥Uczestnik #MaliGiganci 2 🎥#tvnpl 💃 #Dancer #HipHop Zapraszam na nowy film na YT❤️
+    location: "Poland"
+    followers: 11361
+    engagement: 852
+    commentsToLikes: 0.042287
+    id: ck8tc73layivd0j78ob8l0fuz
+    verified: false
+    hashtags: "#sheingals, #zima2021, #spacerowo, #sesja"
+  - username: "thehiphopflow"
+    fullname: >-
+      Futurefanever
+    bio: >-
+      🌊 New Wave of hiphop 🚫 No Copyright Intended
+    location: ""
+    followers: 33959
+    engagement: 302
+    commentsToLikes: 0.045124
+    id: ck137h587bilv0i19in0j8i3v
+    verified: false
+    hashtags: "#dripcheck, #worldstar, #future, #travisscott"
+  - username: "deejaymathew"
+    fullname: >-
+      𝚍𝚓𝚖𝚊𝚝𝚑𝚎𝚠
+    bio: >-
+      🎶DJ 📀HipHop & Scratching. #️⃣#bestdreamteamever #mathewontour 🎤offiz. Promoter @hiphopkempde #hhkde 🔻𝚖𝚒𝚡𝚎𝚜🔻
+    location: "United States"
+    followers: 6906
+    engagement: 1044
+    commentsToLikes: 0.032225
+    id: ckap7cm7yjhhc0i7822cltd2b
+    verified: false
+    hashtags: "#djmathew, #positivevibes, #scratchvideo, #mathewontour"
+  - username: "khriztiangc"
+    fullname: >-
+      Gc
+    bio: >-
+      Founder @hiphopnationcr @collectionsworldwide 🇨🇷
+    location: "United States"
+    followers: 28985
+    engagement: 692
+    commentsToLikes: 0.016376
+    id: ck134xixryogf0i194908wsh9
+    verified: false
+    hashtags: ""
 ---

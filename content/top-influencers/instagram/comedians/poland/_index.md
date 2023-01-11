@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Poland In 2022
+title: Top 10 Comedians Instagram Influencers In Poland in 2023
 description: >-
-  Find top comedians Instagram influencers in Poland in 2022. Most popular hashtags: #prawakobiet #standup #ksia.
+  Find top comedians Instagram influencers in Poland in 2023. Most popular hashtags: #prawakobiet #standup #ksia.
 platform: Instagram
 hits: 8
 text_top: Identify the best Instagram influencers on inBeat.

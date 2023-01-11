@@ -1,60 +1,36 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Toronto In 2022
+title: Top 10 Comedians TikTok Influencers In Toronto In 2023
 description: >-
-  Find top comedians TikTok influencers in Toronto in 2022. Most popular hashtags: #comedy #toronto #fyp #comedian.
+  Find top comedians TikTok influencers in Toronto in 2023. Most popular hashtags: #comedy #toronto #canada #fyp.
 platform: TikTok
-hits: 14
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 14 TikTok influencers like this in Toronto, Canada for you to pitch.
+hits: 7
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 7 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "notmarcanthony"
-    fullname: >-
-      Marc Anthony S
-    bio: >-
-      Toronto Comedian instagram: @notmarcanthony www.marcanth.com
-    location: "Canada"
-    followers: 8775
-    engagement: 629
-    commentsToLikes: 0.036457
-    id: ck8f7v5ai39rb0j78p7pdpt44
-    verified: false
-    hashtags: "#italian, #wtf, #fyp, #foryou"
   - username: "sicko2005"
     fullname: >-
       Sicko
     bio: >-
       Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
     location: "Canada"
-    followers: 244700
-    engagement: 1612
-    commentsToLikes: 0.122148
+    followers: 258700
+    engagement: 1940
+    commentsToLikes: 0.244670
     id: ck8fa2xv43zpq0j78kx3cdwrb
     verified: true
-    hashtags: "#actor, #duet, #tutting, #canada"
-  - username: "neemanaz"
-    fullname: >-
-      NeemaNaz
-    bio: >-
-      Comedian/Actor 🤡 🇨🇦🇮🇷 Instagram/YouTube: neemanaz
-    location: "Canada"
-    followers: 127400
-    engagement: 704
-    commentsToLikes: 0.060705
-    id: ckb19yvgzy9bb0j23at5zjlr7
-    verified: false
-    hashtags: "#comedy, #actor, #comedian, #joke"
+    hashtags: "#comedy, #duet, #toronto, #canada"
   - username: "lifeofsterlingnewton"
     fullname: >-
-      Sterling Newton 
+      Sterling Newton comedian
     bio: >-
-      Comedian ...Male Golden retriever pup .. Toronto 🇨🇦 follow my YT and insta 🐾
+      Comedian .. puppy school dropout .. Toronto 🇨🇦with 🇬🇧 family .. sub to YT
     location: "Canada"
     followers: 1100000
-    engagement: 1816
-    commentsToLikes: 0.006280
+    engagement: 1522
+    commentsToLikes: 0.009470
     id: ck9a64s9i1njz0j78nijs4gdr
     verified: false
-    hashtags: "#cute, #cutedogs4life, #goldenretriever, #dogsoftiktok"
+    hashtags: "#goldenretriever, #dogsoftiktok, #cute, #sillydog"
   - username: "cringekev"
     fullname: >-
       Cringe Kev
@@ -66,65 +42,89 @@ profiles:
     commentsToLikes: 0.036334
     id: ck90r2c2kktgx0j78fv2tcwgq
     verified: false
-    hashtags: "#news, #podcast, #comedian, #lol"
-  - username: "thesoftestthug"
+    hashtags: "#america, #toronto, #republican, #fyp"
+  - username: "funnyarmenian"
     fullname: >-
-      your boyfriend
+      FunnyArmenian
     bio: >-
-      im an artist and comedian
+      Happy is Key!~ hope you laughed or smiled from my posts! 😂🤣
     location: "Canada"
-    followers: 42500
-    engagement: 1370
-    commentsToLikes: 0.034132
-    id: ckan47b708qw40i78sntzlnil
+    followers: 5194
+    engagement: 527
+    commentsToLikes: 0.115505
+    id: ckdhnub6q0q5u0j23n3jteg0w
     verified: false
-    hashtags: "#ohno, #fypppppppppppppp, #thesoftestthug, #happyhalloween"
-  - username: "zhannaredneva"
+    hashtags: "#armenianmom, #armenian, #armos, #lebanese"
+  - username: "therealjohnpasha"
     fullname: >-
-      Zhanna Red
+      Ｊｏｈｎ   Ｐａｓｈａ
     bio: >-
-      Full time comedian, part time model 🥰Follow for tips & a good mood🥰
+      My videos are funnier when you drink mtl
     location: "Canada"
-    followers: 55600
-    engagement: 698
-    commentsToLikes: 0.014112
-    id: ck8tpr45vqiui0j78pjkwl0is
+    followers: 5051
+    engagement: 450
+    commentsToLikes: 0.171928
+    id: ckdnf24ouhdr50j23hh8bgczv
     verified: false
-    hashtags: "#modellife, #sugarbearpartner, #thanksgivingvibes, #modelcheck"
-  - username: "offbeatoutlaw"
-    fullname: >-
-      Offbeat Outlaw
-    bio: >-
-      I sunk your battleship Email:offbeatoutlaw@gmail.com I support BLM Merch!! VV
-    location: "Canada"
-    followers: 346600
-    engagement: 2192
-    commentsToLikes: 0.021739
-    id: ckbffmdjzagnf0j2373sde8yt
-    verified: false
-    hashtags: "#panthegod, #fighter, #comedian, #goatman"
-  - username: "bramalea.rd"
-    fullname: >-
-      Bramalea Rd
-    bio: >-
-      🅱️🛣 Instagram: @bramalea.rd Twitter: BramaleaRd
-    location: "Canada"
-    followers: 27200
-    engagement: 564
-    commentsToLikes: 0.023590
-    id: ckbwl7v1z40ox0j23q41yr2z7
-    verified: false
-    hashtags: "#viral, #brown, #surrey, #comedy"
+    hashtags: "#canadian, #corona, #fy, #montreal"
   - username: "sashanicolerose"
     fullname: >-
-      SashaNicoleRose
+      Kass.n.Sash
     bio: >-
-      It’s ok, I was weird before this IG: sashanicolerose Live at 10k Made in 🇨🇦
+      Subscribe to our YouTube channel & follow our IG Live at 10k Made in 🇨🇦
     location: "Canada"
-    followers: 6120
-    engagement: 764
-    commentsToLikes: 0.083751
+    followers: 6329
+    engagement: 627
+    commentsToLikes: 0.064691
     id: cka69jz7ysry40i78fuik2de9
     verified: false
-    hashtags: "#art, #canadianartist, #over30, #lipsync"
+    hashtags: "#love, #canadian, #funnycouple, #kassnsash"
+  - username: "romefamily"
+    fullname: >-
+      ℝ𝕆𝕄𝔼 𝔽𝔸𝕄 🇲🇽🇨🇦
+    bio: >-
+      🇲🇽 Aɴɴɪᴇ ᴀɴᴅ Aʟᴇx 🇨🇦 BIENVENIDO A LA FAMILIA Iɢ: @ᴀɴɴɪᴇᴍᴇʀɪɪɴᴏ our story ⬇️
+    location: "Canada"
+    followers: 72400
+    engagement: 734
+    commentsToLikes: 0.054837
+    id: ckbfaulby2mom0j23bjmboic2
+    verified: false
+    hashtags: "#canada, #comedy, #viral, #vidaencanada"
+  - username: "blindguycomedy"
+    fullname: >-
+      Blind guy comedy
+    bio: >-
+      Visually Challenged Canadian Comedian. Positivity rules!
+    location: "Canada"
+    followers: 43800
+    engagement: 1273
+    commentsToLikes: 0.066693
+    id: ckajk9xvcp9y20i78hlghjrpz
+    verified: false
+    hashtags: "#beingblind, #pets, #catlife, #cat"
+  - username: "sicko2005"
+    fullname: >-
+      Sicko
+    bio: >-
+      Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
+    location: "Canada"
+    followers: 258700
+    engagement: 1940
+    commentsToLikes: 0.244670
+    id: ck8fa2xv43zpq0j78kx3cdwrb
+    verified: true
+    hashtags: "#comedy, #duet, #toronto, #canada"
+  - username: "dalescomedy"
+    fullname: >-
+      Dale Ward
+    bio: >-
+      Comedian + Artist insta: @dalethward ⬆️
+    location: "Canada"
+    followers: 208600
+    engagement: 1458
+    commentsToLikes: 0.044238
+    id: ckahyj8plzkhj0i7833fnclib
+    verified: false
+    hashtags: "#comedy, #joke, #goofy, #funny"
 ---

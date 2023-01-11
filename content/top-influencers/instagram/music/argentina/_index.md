@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Argentina In 2022
+title: Top 10 Music Instagram Influencers In Argentina In 2023
 description: >-
-  Find top music Instagram influencers in Argentina in 2022. Most popular hashtags: #cuarentena #cuarentenacreativa #argentina.
+  Find top music Instagram influencers in Argentina in 2023. Most popular hashtags: #dj #nature #piano.
 platform: Instagram
-hits: 879
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 879 Instagram influencers like this in Argentina for you to work with.
+hits: 945
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 945 Instagram influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "pau.armstrong"
+  - username: "lacintia_"
     fullname: >-
-      Pau Armstrong - Calalini
+      L  A     C  I  N  T  I  A
     bio: >-
-      #GirlBoss at @mf.bondstreet Check my music💔 @pau.armstrong.piercer #tarotist #tattoo #artist 22 Backup @lil.shypau pau.ladymaiden@gmail.com
+      Dj & producer de música electrónica 💙💙💙
     location: "Argentina"
-    followers: 39637
-    engagement: 715
-    commentsToLikes: 0.078548
-    id: ck5qbqxydmz000i11fl1khwv5
+    followers: 68995
+    engagement: 243
+    commentsToLikes: 0.008950
+    id: ck55m7ah13dtc0i11563t7nk3
     verified: false
-    hashtags: "#punkgirl, #egirl, #goth, #gothgirl"
-  - username: "guarnerz"
+    hashtags: "#dj, #techhousedj, #techhouse, #techno"
+  - username: "lildami"
     fullname: >-
-      Guarner
+      lildami
     bio: >-
-      comunicador, tutor de emprendedores/artistas, músico y diseñador info de mis CLASES sobre REDES en destacados 💡
+      Viatge en espiral JA DISPONIBLE!💝 Contractació: ixent@exits.cat / +34 629 372 805 ⬇️⬇️⬇️Concerts, musica, videos..⬇️⬇️⬇️
     location: "Argentina"
-    followers: 25061
-    engagement: 1560
-    commentsToLikes: 0.076565
-    id: ck6u9o523ynip0j71r7226ujg
+    followers: 38831
+    engagement: 857
+    commentsToLikes: 0.009214
+    id: ck14ie3l0eywa0i19lqlg78d8
     verified: false
-    hashtags: "#mercuryretrograde, #arrasando, #fw2020, #mercurioretrogrado"
-  - username: "nissaoficial"
+    hashtags: ""
+  - username: "soymanupozzi"
     fullname: >-
-      Nissa  🎶
+      Manu Pozzi
     bio: >-
-      🎙Músico independiente 📍Morón, Bs As 📝Management: @dantepagez 🐺 @clankayne 📀@fimrecords ⬇️Escuchá “Secreto” ft. @emysmithyt
+      Viajar haciendo música 🛩⛰🎸 >>> Escucha mis canciones en Spotify👇👇👇
     location: "Argentina"
-    followers: 16607
-    engagement: 1004
-    commentsToLikes: 0.077927
-    id: ck0u88bu96ppz0i19kki6y80h
+    followers: 40686
+    engagement: 767
+    commentsToLikes: 0.071141
+    id: ck15u1o4bkzlr0i191fja1z6d
     verified: false
-    hashtags: "#freestyle, #sad, #lilpeep, #trap"
-  - username: "evelynbotto"
-    fullname: >-
-      Evelyn Botto
-    bio: >-
-      Locutora • Conductora • Actríz de doblaje • Cantante Musical surfer Voiceover x @fmlike Viernes x @perroscalle Domingo x @weekender951 x @metro951
-    location: "Argentina"
-    followers: 110461
-    engagement: 578
-    commentsToLikes: 0.065028
-    id: ck5zuc9i7232r0i1414xphvp4
-    verified: false
-    hashtags: "#euphoria, #makeup, #makeupslaves, #red"
+    hashtags: "#nature, #family, #familygoals, #couplegoals"
   - username: "cande.gariso"
     fullname: >-
       C A N D E 🎧 G A R I S O
     bio: >-
       Córdoba, Arg Dj🎧🖤 #dj Youtube: Cande Gariso Urban/electronic music💃🏽 Playlist S P O T I F Y⬇️
     location: "Argentina"
-    followers: 19932
-    engagement: 1202
-    commentsToLikes: 0.064919
+    followers: 37076
+    engagement: 1196
+    commentsToLikes: 0.056687
     id: ckaox06n0b6az0i78lpp6vqut
     verified: false
-    hashtags: "#dj, #djwoman, #sennheiser, #womandj"
-  - username: "marianogabrielmartinezok"
+    hashtags: "#djwoman, #dj, #sennheiser, #womandj"
+  - username: "gastonsardelli"
     fullname: >-
-      Mariano Martinez
+      Gaston Sardelli
     bio: >-
-      Cantante, Músico, Compositor, Productor Artístico/ Musical/ Attaque77
+      Cuenta oficial. Músico Airbag. Vegetariano. Ciencia. Pintor. Nerd. Ajedrez. E-sports. 🤓✊. Más en 👇
     location: "Argentina"
-    followers: 30511
-    engagement: 634
-    commentsToLikes: 0.070681
-    id: ck15psxy7zhtb0i195hipl26w
+    followers: 84737
+    engagement: 619
+    commentsToLikes: 0.036413
+    id: ck1392eq3j6f90i190ww6jigh
+    verified: true
+    hashtags: ""
+  - username: "cesar_losparras"
+    fullname: >-
+      Cesar Parra 🎸
+    bio: >-
+      ®️OFICIAL VOZ🎙 y BAJOQUINTO 🎸 EN @losparras_official ®️ Ecuentra nuestra musica en todas las plataformas digitales !
+    location: "Argentina"
+    followers: 271700
+    engagement: 866
+    commentsToLikes: 0.025301
+    id: ck6u8ienzrro70j71vouzvqsn
     verified: false
-    hashtags: "#triangulodefuerza, #rockargentino, #cuarentena, #attaque"
+    hashtags: "#swipeleft, #2021, #puracalidad, #tbt"
+  - username: "pau.armstrong"
+    fullname: >-
+      Pau Armstrong - Calalini
+    bio: >-
+      #GirlBoss at @mf.bondstreet Check my music💔 Backup @lil.shypau 23 #tvhost #tarotist #tattoo #artist #piercer pau.ladymaiden@gmail.com
+    location: "Argentina"
+    followers: 41216
+    engagement: 693
+    commentsToLikes: 0.014648
+    id: ck5qbqxydmz000i11fl1khwv5
+    verified: false
+    hashtags: "#manga, #cute, #inked, #anime"
   - username: "jnicomelo"
     fullname: >-
       Nico Melo ( melojnico )
     bio: >-
-      Músico -Productor musical @eltemploestudiooficial -1,2M en TikTok (@melojnico) -Percusionista en @mesavip.cumbia -Mi canal de YouTube ⬇️
+      Músico -Productor musical @eltemploestudiooficial -1,7M en TikTok (@melojnico) -Percusionista en @mesavip.cumbia -NUEVO TEMA: FUEGO 🔥 ⬇️
     location: "Argentina"
-    followers: 9070
-    engagement: 931
-    commentsToLikes: 0.117064
+    followers: 10702
+    engagement: 1094
+    commentsToLikes: 0.070936
     id: ck9wdc53vezn00j78s8r45g5i
     verified: false
-    hashtags: "#roedor, #fotino, #acapella, #pedal"
+    hashtags: "#festego, #tab, #coro, #espuma"
+  - username: "nicogarro.ok"
+    fullname: >-
+      Nico Garro 🥵
+    bio: >-
+      🎬 18 🇦🇷 •Pianista •Productor Musical •Compositor
+    location: "Argentina"
+    followers: 59194
+    engagement: 1433
+    commentsToLikes: 0.024457
+    id: ck14lnktcvk890i198yfcbjqm
+    verified: false
+    hashtags: "#beat, #trapargentino, #music, #reels"
   - username: "juanrodo.oficial"
     fullname: >-
       Juan Rodo
     bio: >-
       Cantante, Actor, Músico y Docente Amante del piano, la ópera y el Teatro Musical. -Director de @escuelajuanrodo -Eventos @onsetproducciones
     location: "Argentina"
-    followers: 7566
-    engagement: 933
-    commentsToLikes: 0.107376
+    followers: 7802
+    engagement: 901
+    commentsToLikes: 0.094884
     id: ck15usry5oe4e0i19mp7strgg
     verified: false
-    hashtags: "#artist, #dracula, #singer, #cantante"
-  - username: "shohannamusic"
-    fullname: >-
-      S H O H A N N A
-    bio: >-
-      • Cantante Argentina de Musica Urbana • Mánager: @alanbutel Producer: @mattymusic • Escucha #BoomBoom acá ⬇️
-    location: "Argentina"
-    followers: 31687
-    engagement: 424
-    commentsToLikes: 0.075292
-    id: ck5qasuy5i2ug0i11yxj3mizp
-    verified: false
-    hashtags: "#nattinatasha, #reggaeton, #coronavirus, #musicaurbana"
-  - username: "sheissoheavy"
-    fullname: >-
-      мєℓιѕѕα exx 🖤🔪
-    bio: >-
-      Guitarra y voz en @magicclicks 🔥 #music #videogames #whisky Marketing y comunicación👩🏼‍💻 Alien exist 👽
-    location: "Argentina"
-    followers: 20015
-    engagement: 532
-    commentsToLikes: 0.146710
-    id: ck5q7qxm72q4n0i110ij541gr
-    verified: false
-    hashtags: "#sweetmusic, #gamergirl, #ps4, #guitarcover"
+    hashtags: "#lunapark, #pianist, #encasa, #piano"
 ---

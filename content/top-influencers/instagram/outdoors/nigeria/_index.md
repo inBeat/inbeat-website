@@ -1,130 +1,106 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Nigeria In 2022
+title: Top 10 Outdoors Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top outdoors Instagram influencers in Nigeria in 2022. Most popular hashtags: #explorepage #beauty #photography #portrait.
+  Find top outdoors Instagram influencers in Nigeria in 2023. Most popular hashtags: #portrait #explorepage #nigerianphotographershub #vogueeko.
 platform: Instagram
-hits: 15
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 15 Instagram influencers like this in Nigeria for you to contact.
+hits: 8
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Nigeria for you to pitch.
 profiles:
   - username: "java_studios"
     fullname: >-
       Wedding&Portrait Photographer
     bio: >-
-      Hello, I am Mr. Java. Pick a date ; I'd pick a lens. Available for travel ✈ Personal page @javaailon ☎08079842577, 08027154234 For bookings👇
+      Hello, I am Mr. Java What's your date? Me @javaailon Bookings ☎08079842577, 08027154234 ✉️contact.javastudios@gmail.com
     location: "Nigeria"
-    followers: 3838
-    engagement: 2136
-    commentsToLikes: 0.015434
+    followers: 4428
+    engagement: 1351
+    commentsToLikes: 0.013339
     id: ck6tvg2lpm1at0j71nz4r3ors
     verified: false
-    hashtags: "#naturallight, #model, #beautiful, #ibadanwedding"
-  - username: "fleeky.feeds"
+    hashtags: "#art, #weddingfashionevents, #weddingdigestnaija, #portraitpage"
+  - username: "arshavinjohn"
     fullname: >-
-      DM ME FOR CHEAP PROMOS💋
+      Arshavin John
     bio: >-
-      🦋}Post Page🤩Watch my story for polls.💋 🦋}Daily Outfit/Hair/Nails Inspo😘 🦋}Started on 3/21/19 🦋}Follow my other account @fiya.feeds 🦋} 40k?🥰
+      Wedding/ portrait photographer Wedding page @arshavinjohn_weddings Personal handle @arshavin__7 08085521009 Abuja Based
     location: "Nigeria"
-    followers: 39049
-    engagement: 257
-    commentsToLikes: 0.023286
-    id: ck15qhk532vg50i19qk8foe6y
+    followers: 36693
+    engagement: 473
+    commentsToLikes: 0.012145
+    id: ck5hg5y5o139l0i11g8nr9xkj
     verified: false
-    hashtags: "#comedy, #baby, #edges, #makeup"
-  - username: "k.essy_kai"
-    fullname: >-
-      Iced Heart🖤🖤
-    bio: >-
-      Drink wine and feel fine 🥂❤️❤️ Dm-collaboration/promotions -It’s always my skin for me🧚🏻‍♀️🧚🏻‍♀️ ❤️🔐
-    location: "Nigeria"
-    followers: 27658
-    engagement: 1130
-    commentsToLikes: 0.072987
-    id: ck8szwgzlpyx30j78b8fy6a36
-    verified: false
-    hashtags: "#glowingskin, #explorepage, #naijababes, #foryoupage"
+    hashtags: "#fashionafrica, #arewabride, #calltobar, #photographerinabuja"
   - username: "tope_horpload"
     fullname: >-
       'topeAdenola 📷 🇳🇬
     bio: >-
       
     location: "Nigeria"
-    followers: 53991
-    engagement: 264
-    commentsToLikes: 0.042687
+    followers: 53754
+    engagement: 252
+    commentsToLikes: 0.035279
     id: ck15ucj1amhin0i19hqjlaba8
     verified: false
-    hashtags: "#topeadenola, #art, #photography, #ta"
-  - username: "yjpictures"
-    fullname: >-
-      YJPICTURES
-    bio: >-
-      No Dms🚫 “It’s just Vibes” AVAILABLE TO TRAVEL WORLDWIDE ✈️🚀 Weddings @weddingsbyyjpictures Yemijosephpictures@gmail.com 📞 07062292581 Abuja Nigeria
-    location: "Nigeria"
-    followers: 22451
-    engagement: 636
-    commentsToLikes: 0.021422
-    id: ck1366mup4zq60i19xrf7bq4k
-    verified: false
-    hashtags: "#ninja, #light, #white, #allblack"
-  - username: "ifada_faith"
-    fullname: >-
-      QUEEN👸 FAITH❤
-    bio: >-
-      MISS UNIBEN 2019👸. 🔸Ambassador @creat.ng 🔸Brand influencer Founder @createasmileng 👻:Ifada_faith Bookings/promotions DM📩
-    location: "Nigeria"
-    followers: 4782
-    engagement: 875
-    commentsToLikes: 0.118041
-    id: ck8syqmb5lmqz0j78xx70ds29
-    verified: false
-    hashtags: "#beautyinfluencer, #beauty, #exploremore, #fashionlook"
+    hashtags: "#horpload, #ta, #outdoor, #weddingphotography"
   - username: "cymbeart"
     fullname: >-
       Sadiq Abidemi Simbiat
     bio: >-
-      God first ❤️ I'm ART She's made of BLACK✨and unapologetic about it😎 Baldie🖤(by choice) For Bookings:CLICK EMAIL
+      I'm ART Photo Model 📸|| Editorial || Commercial || High Fashion || Video Vixen 🎥 Baldie🖤(by choice) For Bookings:CLICK EMAIL ⬇️
     location: "Nigeria"
-    followers: 4774
-    engagement: 1147
-    commentsToLikes: 0.111463
+    followers: 5286
+    engagement: 704
+    commentsToLikes: 0.111392
     id: ck5c4rmzv1yfg0i113viuwl70
     verified: false
-    hashtags: "#editorial, #portraitphotography, #follow4followback, #baldie"
-  - username: "rukiejumah"
+    hashtags: "#photography, #editorialphotography, #melaninpoppin, #fashionstyle"
+  - username: "__inedoye"
     fullname: >-
-      
+      Inedoye Adanne Onyenso
     bio: >-
-      Photographer | Art Director 👩🏽‍💻 @rijstudios
+      🐣-@__Inedoye 👻-mzz_steph98 •Scriptwriter •Actress •Model •Businesswoman Growing And Glowing at Godspeed🙏✨
     location: "Nigeria"
-    followers: 12411
-    engagement: 1045
-    commentsToLikes: 0.043647
-    id: ck5q75f9s02lq0i11ir8kj42p
-    verified: false
-    hashtags: "#bnw, #fashionphotography, #portraitphotography, #fashion"
-  - username: "anijohnsonphotography"
-    fullname: >-
-      Ani Johnson
-    bio: >-
-      PHOTOGRAPHER Available to travel ✈✈ Contact:+2347031696041 Email: anijohnsonphotography@gmail.com
-    location: "Nigeria"
-    followers: 5485
-    engagement: 425
-    commentsToLikes: 0.036049
-    id: ck15tew2dhqnw0i19awn1ydn5
-    verified: false
-    hashtags: "#anijohnsonphotography, #portraitmoods, #portraitphotography, #art"
-  - username: "__stephaaany"
-    fullname: >-
-      Stephanie Onyenso
-    bio: >-
-      🐣-@__Stephaaany 👻-mzz_steph98 •Brand influencer •Actress •Model •Vixen✨ Growing And Glowing at Godspeed🙏✨
-    location: "Nigeria"
-    followers: 5126
-    engagement: 880
-    commentsToLikes: 0.082112
+    followers: 5008
+    engagement: 957
+    commentsToLikes: 0.080417
     id: ck5hg5h6210rv0i11hvegsk2n
     verified: false
-    hashtags: "#wednesday, #braids, #mondaymotivation, #explorepage"
+    hashtags: "#mondaymood, #leopardprint, #mondaymotivation, #fridayvibes"
+  - username: "podimagery"
+    fullname: >-
+      THE POD
+    bio: >-
+      ▫️Visual Artist ▫️Photographer ▫️Content Creator ▫️Retouching & Bookings: podimagery@gmail.com or Send A DM ▫️Wedding Page @podweddings
+    location: "Nigeria"
+    followers: 17544
+    engagement: 546
+    commentsToLikes: 0.057643
+    id: ck5zzjrmmbv120i14121y7czs
+    verified: false
+    hashtags: "#couplegoals, #familyphotography, #familyshoot, #art"
+  - username: "naturally_unbothered_mane_"
+    fullname: >-
+      4CHAIRGIRL 🎀M U S H A 🎀💛 🇿🇲🇬🇧
+    bio: >-
+      | 💁🏾‍♀️Natural Hair Enthousiaste | 🎬Content Creator | 💌Naturallyunbotheredmane@gmail.com | 🎥Watch My YouTube video ⤵️
+    location: "Nigeria"
+    followers: 5369
+    engagement: 858
+    commentsToLikes: 0.069869
+    id: ckaorw709p0zr0i78u413qwoh
+    verified: false
+    hashtags: "#protectivestyles, #oneminutehairtutorial, #lengthcheck, #hairjourney"
+  - username: "jayclinton_"
+    fullname: >-
+      Jay Clinton
+    bio: >-
+      Dike Mbano 🤴 Computer Engineer | Photographer | Filmaker | Motion-graphics Artist Bookings: jayclinton15@gmail.com Weddings : @weddingsbyjayclinton
+    location: "Nigeria"
+    followers: 15735
+    engagement: 114
+    commentsToLikes: 0.024333
+    id: ck8syg8ehkqkv0j78bkcwufu8
+    verified: false
+    hashtags: "#retouchingcenter, #igboweddingng, #bridesmaids, #jayclinton"
 ---

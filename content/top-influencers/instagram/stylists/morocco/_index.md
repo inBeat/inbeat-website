@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Morocco In 2022
+title: Top 10 Stylists Instagram Influencers In Morocco In 2023
 description: >-
-  Find top stylists Instagram influencers in Morocco in 2022. Most popular hashtags: #makeup #fashion #fashionblogger #style.
+  Find top stylists Instagram influencers in Morocco in 2023. Most popular hashtags: #love #fashionblogger #fashion #makeup.
 platform: Instagram
-hits: 43
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 43 Instagram influencers like this in Morocco for you to work with.
+hits: 29
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 29 Instagram influencers like this in Morocco for you to connect with.
 profiles:
-  - username: "fatimazohraelfilali"
+  - username: "nounoua_selma"
     fullname: >-
-      La sultana
+      Fashion designer 🇩🇿
     bio: >-
-      Styliste ❤ Hand made with love ❤ Modest fashion 🌹 Sur rdv❤ Be the Sultana 💎💎💎💎
+      Propriétaire de : @nns_dz 🔸 Modeliste ✂️ Styliste. 🔸 Dermo-conseillère. 🔸 Fashionista. 🔸 Animatrice. 🔸 Self development.
     location: "Morocco"
-    followers: 24507
-    engagement: 32
-    commentsToLikes: 0.137218
-    id: ck5hsce71wcw40i11zaqxkufw
+    followers: 26990
+    engagement: 456
+    commentsToLikes: 0.048854
+    id: ck6ufvz8pzgb20j71ansox9z3
     verified: false
-    hashtags: "#positivevibes, #maroc, #mua, #takchita"
+    hashtags: "#nns, #bienetre, #revue, #hijabinspiration"
   - username: "hindelmekaoui"
     fullname: >-
       Hind Elmekaoui • هند المكاوي
     bio: >-
-      MUA & Hair stylist Brides / Ceremonies / Masterclasses •Influencer •Num Salons ☎️0537699407/0537696213 18 AV Hassan2 Agdal Rabat à 200m de la gare TGV
+      MUA & Hair stylist Bride House / Makeup courses / Beauty center •Influencer •Contact☎️0537699407/0537696213 18AV Hassan2 à 200m de la gare Rabat Agdal
     location: "Morocco"
-    followers: 528310
-    engagement: 112
-    commentsToLikes: 0.015813
+    followers: 541162
+    engagement: 151
+    commentsToLikes: 0.013303
     id: ck139aw09ke6w0i19zy72phgf
     verified: false
-    hashtags: "#bridehousehindelmekaoui, #bridalhairstyle, #makeupartist, #bridalmakeup"
-  - username: "sofia_lahrichi"
-    fullname: >-
-      Sofia Lahrichi officiel
-    bio: >-
-      👗 Styliste collège la salle 🎥 D.artistique A3S PROD 🎊 Happy Luxury Évent
-    location: "Morocco"
-    followers: 160977
-    engagement: 10
-    commentsToLikes: 0.077638
-    id: ck5qb7iufk7hb0i11moarvfj6
-    verified: false
-    hashtags: "#sdv, #france, #couple, #couplegoals"
+    hashtags: "#bridalmakeup, #beforeandafter, #hairstyle, #makeupartist"
   - username: "ingyelengbawy"
     fullname: >-
       IngyElengbawy انچي الانجباوى
     bio: >-
-      Fashion blogger , certified celebrity stylist , personal stylist and shopper, Fashion Blogger Lifestyle TV Presenter TV Show ساعة موضة
+      Certified Stylist Fashion blogger Egyptian Love to travel Wife-Mommy For inquiries : Ingyelengbawy@gmail.com Watch my episodes @mbcbeautymatch
     location: "Morocco"
-    followers: 456169
-    engagement: 325
-    commentsToLikes: 0.017777
+    followers: 573663
+    engagement: 274
+    commentsToLikes: 0.018790
     id: ck5c4e07r15id0i11orq74i78
     verified: false
-    hashtags: "#styleblogger, #fashionista, #love, #outfitinspiration"
-  - username: "lisalapauw"
+    hashtags: "#pictureoftheday, #blogger, #fashion, #outfitinspo"
+  - username: "sofia_lahrichi"
     fullname: >-
-      Lisa Lea
+      Sofia Lahrichi officiel
     bio: >-
-      🌹 belgium based stylist 🍒 for inquieries ~ info@lisalapauw.com 🤟🏽
+      👗 Styliste collège la salle 🎥 D.artistique A3S PROD @a3s_production 🎊 Happy Luxury Évent
     location: "Morocco"
-    followers: 5539
-    engagement: 513
-    commentsToLikes: 0.022477
-    id: ck6uazs5z6nem0j713hgifgwe
+    followers: 178884
+    engagement: 27
+    commentsToLikes: 0.045833
+    id: ck5qb7iufk7hb0i11moarvfj6
     verified: false
-    hashtags: "#freeuyghur, #stopconcentrationcamps, #freeou, #womenempoweringwomen"
-  - username: "thesecretsouk"
-    fullname: >-
-      The Secret Souk
-    bio: >-
-      treasure hunters • eternal nomads • curated by @nicxxxdesign and @stylistjasmine - currently on IG for @riad42marrakech - hop over to explore 𓁿𓁿
-    location: "Morocco"
-    followers: 55907
-    engagement: 167
-    commentsToLikes: 0.008905
-    id: ck0vuzsj3mw1m0i1936r562tx
-    verified: false
-    hashtags: "#sanctuary, #livingmorewithless, #theartofslowliving, #souking"
+    hashtags: "#marocco, #paris, #maman, #citationamour"
   - username: "rg_s.oukaina"
     fullname: >-
       𝓢𝓸𝓾𝓴𝓪𝓲𝓷𝓪
     bio: >-
-      • البساطة جمال ♡ • وداد الأمة🔴⚪ 📍𝒞𝒶𝓈𝒶𝒷𝓁𝒶𝓃𝒸𝒶 , ℳℴ𝓇ℴ𝒸𝒸ℴ 🇲🇦
+      • البساطة جمال ♡ • وداد الأمة🔴⚪ 📍𝒞𝒶𝓈𝒶𝒷𝓁𝒶𝓃𝒸𝒶 , ℳℴ𝓇ℴ𝒸𝒸ℴ 🇲🇦ⵣ
     location: "Morocco"
-    followers: 15141
-    engagement: 1726
-    commentsToLikes: 0.036811
+    followers: 16110
+    engagement: 1631
+    commentsToLikes: 0.029101
     id: ck9wfmh5ypi4t0j78i4t00zj5
     verified: false
-    hashtags: "#fashionista, #hijabturkey, #lookoftheday, #hijabpremium"
-  - username: "safae.ntifi.benchrif"
-    fullname: >-
-      🎀 Safae / صفاء 🎀
-    bio: >-
-      إهتمِي بنفسِك وكُوني أقوى مما يظنونْ، فكيُدك عظيّم 👸 ❤ Influencer ❤ Blogueur ❤ beauty ❤lifestyle
-    location: "Morocco"
-    followers: 261767
-    engagement: 59
-    commentsToLikes: 0.061557
-    id: ck134hn56wgqz0i19hkp8umfn
-    verified: false
-    hashtags: "#djelaba, #safae, #beldistyle, #casablanca"
+    hashtags: "#fashionillustration, #hijabturkey, #fashion, #look"
   - username: "karima_said_officiel"
     fullname: >-
       ❤Karima & Said ❤
     bio: >-
       ❤ كريمة وسعيد ❤ - لالة لعروسة 2020 - قلعة سراغنة - Lala laroussa 2020 - 📩 karima.aissaoui@usmba.ac.ma - 📍Casablanca - Chaîne YouTube
     location: "Morocco"
-    followers: 117171
-    engagement: 665
-    commentsToLikes: 0.032833
+    followers: 112361
+    engagement: 631
+    commentsToLikes: 0.026159
     id: ck9hbs5zmi7i40j78gh8t4ops
     verified: false
-    hashtags: "#video, #casablanca, #amour, #maroc"
-  - username: "yasminadaas"
+    hashtags: "#confinement, #marocaine, #instagood, #video"
+  - username: "hananexcellent"
     fullname: >-
-      Yasmine Daas | ياسمين دعاس
+      HananExcellent-Bridalstylist©️
     bio: >-
-      Personal Style | Fashion | Travel | Beauty | Lifestyle Palestinian✌🏻 Contact: daasisgood@gmail.com YouTube: YASMINE DAAS | Styling page: @yd.styling
+      📍Amsterdam and Morocco 📞 00316- 18960935. 🌎 Working Worldwide Exclusive with Moroccan Designer @larinihouda
     location: "Morocco"
-    followers: 51785
-    engagement: 418
-    commentsToLikes: 0.044766
-    id: ck14j2idqiauu0i194hnqzaoe
+    followers: 56766
+    engagement: 242
+    commentsToLikes: 0.029452
+    id: ck6u9ix6wxtqg0j71lzby0vch
     verified: false
-    hashtags: "#bloggerstyle, #lockdownlife, #covid, #fashionblogger"
+    hashtags: "#caftan2020, #moroccanbride, #exclusivity, #hairstylist"
+  - username: "foufamjk"
+    fullname: >-
+      ⵊⴰⵡⵀⴰⵔⵉ   ⵡⴰⴼⴰ
+    bio: >-
+      • Model 🇲🇦 Amazighia ⵣ Barbie Imazighen • makeupartist •Jeune entrepreneur • For for business inquiries👇🏻 Mjkfoufa@gmail.com • Snapchat(ouafala1)
+    location: "Morocco"
+    followers: 199831
+    engagement: 190
+    commentsToLikes: 0.041948
+    id: ck5pyyjs4yfv00i11gimllxwo
+    verified: false
+    hashtags: "#dontrushchallenge, #quarantine, #mariage, #maroc"
+  - username: "manal_haddaoui_officiel"
+    fullname: >-
+      Manal El Haddaoui
+    bio: >-
+      Personne publique Ⓜ️ Moroccan model and actress 🇲🇦 Fashion designer 👗 happy 💍❤️ My snap monnikaty🧸
+    location: "Morocco"
+    followers: 153956
+    engagement: 77
+    commentsToLikes: 0.019352
+    id: ckap76wcbivkt0i78oim9abls
+    verified: false
+    hashtags: "#manalelhaddaoui, #love, #london, #maroc"
+  - username: "salwa.jd1"
+    fullname: >-
+      Salwa JD🇲🇦'Official
+    bio: >-
+      ﷽ ●MOROCCAN 🇲🇦/ MODEL🇲🇦/Blogger/influencer ●contact Business&collaboration 💰 :Salwajlaidi2000@gmail.com
+    location: "Morocco"
+    followers: 143722
+    engagement: 483
+    commentsToLikes: 0.019232
+    id: ck5hqup4htr6o0i11h3it82uu
+    verified: false
+    hashtags: "#fashiondaily, #socialenvy, #styles, #fashiongram"
 ---

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Ukraine In 2022
+title: Top 10 Crossfit Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top crossfit Instagram influencers in Ukraine in 2022. Most popular hashtags: #crossfit #workout #fitness #motivation.
+  Find top crossfit Instagram influencers in Ukraine in 2023. Most popular hashtags: #crossfit #workout #fitness #motivation.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram accounts on inBeat.

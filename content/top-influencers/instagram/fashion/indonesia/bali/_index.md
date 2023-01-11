@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Bali In 2022
+title: Top 10 Fashion Instagram Influencers In Bali In 2023
 description: >-
-  Find top fashion Instagram influencers in Bali in 2022. Most popular hashtags: #bali #baliindonesia #balilife #fashion.
+  Find top fashion Instagram influencers in Bali in 2023. Most popular hashtags: #bali #fashion #ootd #indonesia.
 platform: Instagram
-hits: 193
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 193 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 141
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 141 Instagram influencers like this in Bali, Indonesia for you to work with.
 profiles:
-  - username: "katie_sudekova"
+  - username: "alitarthayasa"
     fullname: >-
-      KATIE SUDEKOVA
+      U can’t see me again
     bio: >-
-      PHOTOGRAPHER WORLDWIDE 📍 BALI 🌴🐍
+      🏠 Bali Pendosa yg bermimpi mendapat pengampunan dan keajaiban Tuhan
     location: "Indonesia"
-    followers: 20588
-    engagement: 369
-    commentsToLikes: 0.027834
-    id: ck6twxo0xup100j71wgoqe7nr
+    followers: 27751
+    engagement: 596
+    commentsToLikes: 0.150109
+    id: ck5q3g6mjklce0i11o5977os0
     verified: false
-    hashtags: "#beauty, #picoftheday, #fashion, #bali"
-  - username: "omararef"
+    hashtags: "#instagramers, #fujifilmxa7, #jimbaran, #thebalibible"
+  - username: "dela_deni"
     fullname: >-
-      Omar
+      D_d
     bio: >-
-      
+      Miss Grand Indonesia Gorontalo 2019 Top 5 popular Miss Friendship Intl 2019 4 ru the supermodel 2019 @flavors_snack.id @g_modelsmanagement
     location: "Indonesia"
-    followers: 32619
-    engagement: 157
-    commentsToLikes: 0.080470
-    id: ck55nvzq673zu0i11xlrkj39c
+    followers: 11346
+    engagement: 347
+    commentsToLikes: 0.054724
+    id: ck5zq9s9ju7bz0i148esrqe4c
     verified: false
-    hashtags: "#travelgram, #beachmodel, #naturephotography, #vintagestyle"
-  - username: "krsty_d"
+    hashtags: "#fashion, #bali, #baliindonesia, #model"
+  - username: "duta.wisata.indonesia"
     fullname: >-
-      KRISTINA D
+      Duta Wisata Indonesia
     bio: >-
-      🇲🇨 @castawaymodelmanagement 🇧🇬 @visages_models
+      TUAN RUMAH PDWI 2020 KALIMANTAN TIMUR DUTA WISATA INDONESIA 2019 Toni Prayogo @tonnipray_ Yosia Sinthabella @ysbela
     location: "Indonesia"
-    followers: 3673
-    engagement: 668
-    commentsToLikes: 0.068391
-    id: ck6tipsz416sb0j71grayqgyn
+    followers: 13790
+    engagement: 769
+    commentsToLikes: 0.005984
+    id: ck6uc0u0sctrq0j71i2zoiynj
     verified: false
-    hashtags: "#baliphotographers, #baliphoto, #balimodels, #modelslifestyle"
-  - username: "thib_sel"
+    hashtags: "#pariwisatabali, #bujangdarapku, #balipageant, #baliandbeyond"
+  - username: "ikasanz"
     fullname: >-
-      
+      Ikasanz Yoe ♠️
     bio: >-
-      📍Sevilla Faites décoller vos ventes ⬇️⬇️⬇️
+      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
     location: "Indonesia"
-    followers: 16814
-    engagement: 582
-    commentsToLikes: 0.051479
-    id: ck8syrktjlqk70j78weosc66a
+    followers: 53312
+    engagement: 224
+    commentsToLikes: 0.142564
+    id: ck9wgk1f5trp10j78o2ldtyun
     verified: false
-    hashtags: "#ad, #canggu, #belgium, #bali"
-  - username: "gekanikesnawa_"
+    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
+  - username: "queendeeianna"
     fullname: >-
-      m s.   G E K✨
+      queendeeianna
     bio: >-
-      “a dreamer with a million symphony in her mind”
+      Happily ever after🍒 lifestyle, fashion, beauty💟 🏆1st winner IMAE beauty vlogger 2018 “ZLRQUEEN” -22% + 10% on zalora 🎬YOUTUBE CHANNEL : queen deeianna
     location: "Indonesia"
-    followers: 3204
-    engagement: 1673
-    commentsToLikes: 0.039326
-    id: ck13cx75w2ltp0i19otxp81hs
-    verified: false
-    hashtags: "#nusaduabeach, #travelgram, #savenowtravellater, #gekanistory"
-  - username: "cantik_ayubali"
-    fullname: >-
-      CANTIK BALI | FOLLBACK SEMETON
-    bio: >-
-      GALERI SUKA SUKA,has tag #cantikayubali for us to post!!! based in BALI YUK FOLLOW👉👉@cantik_ayubali & tag @cantik_ayubali
-    location: "Indonesia"
-    followers: 54714
-    engagement: 350
-    commentsToLikes: 0.025875
-    id: ck0vwilyvtz900i19mm455hlc
-    verified: false
-    hashtags: "#balijegeg, #cantiksexy, #cewek, #jegbali"
-  - username: "varyabaikova"
-    fullname: >-
-      JAKARTA MODEL
-    bio: >-
-      Currently represented by @amormodel 🇷🇺 @moremodelmanagement All about Aesthetic & Style Fashion content creation ⠀ 📍Jakarta
-    location: "Indonesia"
-    followers: 48090
-    engagement: 282
-    commentsToLikes: 0.015188
-    id: ck5cho319r5610i117ptkkz2m
-    verified: false
-    hashtags: "#baliblogger, #modelbali, #baliphotoshoot, #jakartablogger"
-  - username: "model_gadies"
-    fullname: >-
-      💘Christina❤
-    bio: >-
-      Sukses Tidak Pernah Dimiliki. Itu Disewakan, dan Sewa jatuh tempo Setiap hari. ✌terimakasih teman2 baik hati️ suda follow aku 😍❤️
-    location: "Indonesia"
-    followers: 73163
-    engagement: 168
-    commentsToLikes: 0.019516
-    id: ckaotu3ubxj0m0i783wqmd88z
-    verified: false
-    hashtags: "#tiktokindonesia, #hijabers, #wanitabali, #kekinianbanget"
-  - username: "shelby_nugroho"
-    fullname: >-
-      Bali Fashion Photographer
-    bio: >-
-      📍Bali
-    location: "Indonesia"
-    followers: 32947
+    followers: 249253
     engagement: 108
-    commentsToLikes: 0.013952
-    id: ck0vwo9ucurux0i19wm5jgwyx
+    commentsToLikes: 0.015106
+    id: ck6ud2k23ir7c0j712yyo4a5b
     verified: false
-    hashtags: "#baliphotoshoot, #baliphotographer, #balimodel, #balibabes"
-  - username: "candicehalliday"
+    hashtags: "#ootd, #travelphotography, #paradiseisland, #ryoureadytoplay"
+  - username: "nat.germania"
     fullname: >-
-      Candice Halliday.Model.Bali
+      Natascha Germania Santana
     bio: >-
-      𓋹 𓋴 𓍑 Being of light 𓆸 V gang 🌱🥑𓂀 Teaching Himilayan kriya yoga 🧘🏾‍♀️ Meditation, Moon Circles 🌚🌝 𓆃
+      🎥 TV Host|Sportscaster & MC ♓️ #Happysoul 📩 Contact: DM 👇🏻Informasi seru seputar sepakbola⚽️
     location: "Indonesia"
-    followers: 14971
-    engagement: 227
-    commentsToLikes: 0.102200
-    id: ck0tvgzdpbb4f0i191u2blz1c
+    followers: 10996
+    engagement: 462
+    commentsToLikes: 0.032385
+    id: ck0ub7n6fdvk30i195veq00me
     verified: false
-    hashtags: "#indonesia, #balibabe, #balilife, #balibabes"
+    hashtags: "#photography, #explore, #photo, #presenterindonesia"
+  - username: "lidyarosip"
+    fullname: >-
+      Lidya Rosi 🌹
+    bio: >-
+      Designer Founder @lerosefashion Fashion Model DJ @kin_dyaa For business inquiries contact • 📩 lidya.rp@yahoo.com • 📍 Bandung
+    location: "Indonesia"
+    followers: 42065
+    engagement: 271
+    commentsToLikes: 0.025945
+    id: ckap7h6b6k2320i78ttiaggru
+    verified: false
+    hashtags: "#ootd, #bali, #fashion, #asianmodel"
+  - username: "mikelmylo"
+    fullname: >-
+      Mikel Mylo
+    bio: >-
+      Lifestyle Blogger 📷 Sony Alpha 7ii / iPhone X ✈️ Travel addict | 🍕 Foodie at heart 🎤 Passionated singer | 📍 Jakarta 😬 Sanguine & Melancholic
+    location: "Indonesia"
+    followers: 10687
+    engagement: 462
+    commentsToLikes: 0.016825
+    id: ck6uc3xy5dd510j71uey4d2o2
+    verified: false
+    hashtags: "#bali, #fashion, #mensgrooming, #ootd"
+  - username: "ratihdhamma"
+    fullname: >-
+      A. A. A. RATIH DHAMMA • BALI
+    bio: >-
+      I LIVE THE LIFE I LOVE 📍Bali, Indonesia Mom of 3 • @ara.ata.aka Check this out! @reviewdibali @andarivillabali @aravillabali
+    location: "Indonesia"
+    followers: 18907
+    engagement: 229
+    commentsToLikes: 0.082883
+    id: ck5hpvvvcs2120i11swkxa4as
+    verified: false
+    hashtags: "#mommyandme, #blessed, #wonderfulindonesia, #fashiongram"
+  - username: "ferdinanfiv"
+    fullname: >-
+      Ferdinan Linardi
+    bio: >-
+      1998 ENFJ a dream chaser, half artist, full time learner soon to be someone inspiring!❤ melancholic surrealist. based in Surabaya, Indonesia
+    location: "Indonesia"
+    followers: 2602
+    engagement: 1153
+    commentsToLikes: 0.099792
+    id: ck6u9jamsxw4g0j71685644nx
+    verified: false
+    hashtags: "#quote, #risochan, #procreate, #lowbrow"
 ---

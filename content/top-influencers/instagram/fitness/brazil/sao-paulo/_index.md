@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Sao Paulo In 2022
+title: Top 10 Fitness Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top fitness Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #fitness #saopaulo #brasil #quarentena.
+  Find top fitness Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #fitness #saopaulo #brasil #academia.
 platform: Instagram
-hits: 258
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 258 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 230
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 230 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
-  - username: "milkaborges"
+  - username: "ana_mamakin"
     fullname: >-
-      Milka Borges
+      Ana Mamakin
     bio: >-
-      💪🏻 A força da mulher @milkaborgesbarueri 🗳 17333 ⚖️ Lutando por justiça #casomilkaborges 🏠 Empresária @milkaemariimoveis ✝️ Isaías 43 - Não temas
+      Curitiba/Campo Largo/Ex-obesa/Viciada em Rock/ Apaixonada por esportes/Franqueada @influxbr / Psicóloga/ ✨
     location: "Brazil"
-    followers: 205567
-    engagement: 66
-    commentsToLikes: 0.058059
-    id: ck6u8d9evqw9v0j7182ibtxzg
+    followers: 27278
+    engagement: 62
+    commentsToLikes: 0.041124
+    id: ck8t3wis64qxn0j78a9mubhyp
     verified: false
-    hashtags: "#barueri, #mulher, #na, #milkaborgesbarueri"
+    hashtags: "#curitiba, #curitibanas, #brasil, #curitibacool"
   - username: "raayssaluna"
     fullname: >-
       Rayssa Luna 🇧🇷
     bio: >-
       ❤️Beleza & Fitness 📍São paulo 📚8ºsem nutrição 💪🏻@kaisanbrasil CUPOM RAAYSSALUNA 💄@glamboxbrasil CUPOM RAYS0770 👇🏻
     location: "Brazil"
-    followers: 29600
-    engagement: 768
-    commentsToLikes: 0.861645
+    followers: 31301
+    engagement: 484
+    commentsToLikes: 0.865367
     id: ckaovphex5l850i7893u3z7ks
     verified: false
-    hashtags: "#butanta, #squats, #loira, #saopaulo"
+    hashtags: "#gym, #treino, #biquini, #loiras"
   - username: "wellingtonpradopessoal"
     fullname: >-
       Wellington Prado
     bio: >-
-      🦁leonino.💪🏾 Fitness. 📍São Paulo 🔗Parceria 🔓❤️Solteiro.Buscando sempre minha melhor versão . Perfil profissional 👇🏽👇🏽@wellingtonpradoprofissional
+      🦁leonino.💪🏾 Fitness. 📍São Paulo 🔗Parceria.👉🔝Buscando sempre minha melhor versão . Perfil profissional 👇🏽👇🏽@wellingtonpradoprofissional
     location: "Brazil"
-    followers: 46387
-    engagement: 255
-    commentsToLikes: 0.030161
+    followers: 48461
+    engagement: 221
+    commentsToLikes: 0.036334
     id: ckf5qdygt91zf0j234pq9yazk
     verified: false
-    hashtags: "#lindo, #elegante, #top, #selfie"
-  - username: "lucasalveslino1"
+    hashtags: "#homem, #mensphysique, #homematualizado, #follow"
+  - username: "carlosrickoficial"
     fullname: >-
-      Lucas Alves Lino
+      Carlos Rick
     bio: >-
-      ⭐ DANCER ⭐ BRASIL ⭐ SÃO PAULO ⭐ BELLOSDANOITE ⭐ STRIPPER | GOGO DANCER | TEQUILEIRO ⭐ FESTAS | ANIVERSÁRIOS |DESPEDIDAS | EVENTOS↔CONTRATAÇÃO DIRECT
+      Modelo Dançarino Amarante Muay Thay 🥊 Jiu-jítsus🥋 Contato: Direct
     location: "Brazil"
-    followers: 19942
-    engagement: 1043
-    commentsToLikes: 0.034943
-    id: ck8sx3p5kg3tr0j789ss6nqkw
+    followers: 49243
+    engagement: 287
+    commentsToLikes: 0.034822
+    id: ck6u8fd3er9mo0j71hrkhqlzk
     verified: false
-    hashtags: "#hot, #man, #ny, #prazer"
-  - username: "dudaa_cardosoo"
+    hashtags: "#shapeboy, #bodybuildingbrasilianboy, #sexyman, #hot"
+  - username: "riabrahao"
     fullname: >-
-      Duda Cardoso
+      Ricardo Abrahao
     bio: >-
-      Olá Amores, Bem vindos🥰 Assistam os Stories 📲 Quer ser divulgado por mim? Será um prazer trabalharmos juntos! @chocolate_envolvencia ❤️💍👩🏼‍🤝‍👨🏽
+      Brazilian fashion photographer based between Paris, Lisbon and Sao Paulo.
     location: "Brazil"
-    followers: 8336
-    engagement: 591
-    commentsToLikes: 0.219543
-    id: ck8t59iyx9agt0j78zlu3m2kl
+    followers: 10740
+    engagement: 278
+    commentsToLikes: 0.042968
+    id: ck0w12vd2halp0i19awbya8ic
     verified: false
-    hashtags: "#amor, #menina, #conteudodigital, #varginha"
-  - username: "rafael_aragao"
+    hashtags: "#makeup, #archive, #model, #love"
+  - username: "nathirenner"
     fullname: >-
-      Rafael Aragão
+      Nathália Renner
     bio: >-
-      🎭 Ator ☀️🌵 Made in Ceará 📍São Paulo / Rio de Janeiro ♈️ Ariano. Edgar em Home Office - A Série @homeofficeaserie
+      • Fernweh •
     location: "Brazil"
-    followers: 18066
-    engagement: 265
-    commentsToLikes: 0.074652
-    id: ck6udnut0m5zr0j71fy1yuf7a
+    followers: 13427
+    engagement: 865
+    commentsToLikes: 0.057599
+    id: ckapartnox8930i78t5djeimd
     verified: false
-    hashtags: "#reels, #heathers, #renatoaguiartogo, #amigos"
-  - username: "wilianamancio"
+    hashtags: "#praia, #brasil, #daylight, #verao"
+  - username: "cadubarretobr"
     fullname: >-
-      Wilian Amâncio
+      Cadu Barreto
     bio: >-
-      Welcome to my world 📍 São Paulo - SP 🖊 Empresário 🐠 Pisciano 🌎 Viajante 🇦🇷 🇨🇱 🇵🇦 🇲🇽 🇺🇸 🇫🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇨🇭 🇮🇹 🇪🇸 🇧🇸 🇨🇴 🇦🇪 🇹🇭
+      📍São Paulo #Globetrotter | #Fitness | #Travel | #Nutrition ✈️ 🌎 🏋🏻‍♀️🍗🏳️‍🌈 👑 Teste meus filtros! Try my Filters! 🤗
     location: "Brazil"
-    followers: 12106
-    engagement: 1010
-    commentsToLikes: 0.041849
-    id: ck8t9dtkrnq2g0j78p0bs0p74
+    followers: 33670
+    engagement: 339
+    commentsToLikes: 0.042725
+    id: ck8t33zf51rjt0j78ptl521m2
     verified: false
-    hashtags: "#lookmasculino, #man, #homensdeverdade, #photography"
-  - username: "micaellidemiguel"
+    hashtags: ""
+  - username: "rodrigosangion"
     fullname: >-
-      Micaelli Andriotti de Miguel
+      RODRIGO SANGION - WBFF Pro
     bio: >-
-      • Campinas/SP 🇧🇷 • Mamãe do Gustavo 🧒💚 • @vcp_joaoalberto 💑💍 • Muay Thai 🙏👊🥊 • Palmeirense 🐽🇮🇹 • Canceriana 🦀
+      Fitness Model Wbff Pro CEO Les Cinq Gym Atleta @optimumnutrition_br @filabr Colunista Fitness @quemacontece Embaixador @technogym São Paulo / Brasil
     location: "Brazil"
-    followers: 5510
-    engagement: 1404
-    commentsToLikes: 0.019776
-    id: ck9weuce4lv7i0j783xcwu2qe
-    verified: false
-    hashtags: "#love, #maedemenino, #muaythai, #cr7"
-  - username: "samara_pimenta"
+    followers: 124095
+    engagement: 105
+    commentsToLikes: 0.077369
+    id: ck5q5j47tt46d0i11f4xbfa8d
+    verified: true
+    hashtags: "#fitnessmotivation, #carnaval, #lescinqgym, #workout"
+  - username: "bfaulin"
     fullname: >-
-      Samara Pimenta
+      Bruno Faulin
     bio: >-
-      Psicóloga 💕 🎥 Youtuber do canal HOJE É DIA. 📸 Fotos Autorais. 📬 CAIXA POSTAL 240, Juiz de Fora - MG, CEP: 36013-971 💻 hojeediacontato@hotmail.com
+      📍 São Paulo - SP 🍿 Apaixonado pelo mundo do #Entretenimento! 🎬 Comunicólogo pós graduado em #Cinema 📫 bfaulin@gmail.com Meu canal no Youtube! ⤵️
     location: "Brazil"
-    followers: 10193
-    engagement: 629
-    commentsToLikes: 0.045957
-    id: ck8taqrluspe80j78gt5lkk61
+    followers: 22924
+    engagement: 236
+    commentsToLikes: 0.100208
+    id: ck15pircfy39q0i199gpozacp
     verified: false
-    hashtags: "#plant, #amoler, #girl, #bookphotography"
-  - username: "feliperossininutricionista"
+    hashtags: "#brunofaulin, #ccxpworlds, #geekbrasil, #netflixbrasil"
+  - username: "saritalazzarini"
     fullname: >-
-      Felipe Rossini
+      Sarita Lazzarini
     bio: >-
-      ❖ Nutrição Funcional ⧨ Nutrigenômica ＠ Consulta Presencial e Online ↴
+      📍São Paulo ✨Healthy Lifestyle 🌸 Welcome 🌸
     location: "Brazil"
-    followers: 24647
-    engagement: 251
-    commentsToLikes: 0.162051
-    id: ck0vxzqt71j8i0i19nqx6t7aj
+    followers: 41257
+    engagement: 248
+    commentsToLikes: 0.039874
+    id: ckap77eqpixza0i780ph5iy60
     verified: false
-    hashtags: "#feliperossinisuplementos, #saude, #emagrecer, #dieta"
+    hashtags: "#doglovers, #publi, #dogsofinstagram, #americanbully"
 ---

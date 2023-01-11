@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Montreal In 2022
+title: Top 10 Photographers Instagram Influencers In Montreal In 2023
 description: >-
-  Find top photographers Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #photographer #photography #love.
+  Find top photographers Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #beauty #canada.
 platform: Instagram
-hits: 70
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 70 Instagram influencers like this in Montreal, Canada for you to collaborate.
+hits: 23
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 23 Instagram influencers like this in Montreal, Canada for you to contact.
 profiles:
-  - username: "florian_beaufreton"
-    fullname: >-
-      FLORIAN | TECH | MONTREAL
-    bio: >-
-      📽 Video 💻 Tech 🇨🇦 Montréal, Canada
-    location: "Canada"
-    followers: 5895
-    engagement: 764
-    commentsToLikes: 0.017491
-    id: ck0vv60d3np0g0i19gvxyz456
-    verified: false
-    hashtags: "#podcastfrancais, #shotoniphone, #canadatravel, #podcastlife"
   - username: "chelseyboll"
     fullname: >-
       Chelsey
     bio: >-
       🏳️‍🌈 She/they Photographer & model 🇨🇦 Montreal @plutinomodels @housmanagement 📸 For more photography follow @chelseyshoots
     location: "Canada"
-    followers: 24747
-    engagement: 560
-    commentsToLikes: 0.028229
+    followers: 24356
+    engagement: 452
+    commentsToLikes: 0.025977
     id: ck14hulfoc7xx0i196wyvjqwn
     verified: false
-    hashtags: ""
-  - username: "melika.dez"
+    hashtags: "#3dart, #mentalhealthmonday, #bpd, #bpdthings"
+  - username: "saydejabraphotography"
     fullname: >-
-      MELIKA DEZ
+      Photographer in Montreal 🇨🇦
     bio: >-
-      MTL based international Photographer & Art Director DM or Email to buy prints. . . @fubizstudio Talent @plieproject Photographer 📍MONTREAL
+      Fashion|Portrait|Food|Content Creator 📩 saydejabra@gmail.com 🍩 Food Shots @sissitable 🎬 Connect to @lestudiobysj 🛤️ On the road @onerideinlife
     location: "Canada"
-    followers: 21541
-    engagement: 434
-    commentsToLikes: 0.020895
-    id: ck14l4t7qsuv00i19uaiyk1zb
+    followers: 24301
+    engagement: 252
+    commentsToLikes: 0.048929
+    id: ck14gw55z7bsz0i19djv9yas2
     verified: false
-    hashtags: "#maledancer, #melikadezphotography, #fashionshoot, #giambattistavalli"
-  - username: "montreal.planes"
-    fullname: >-
-      Célian & Thibault
-    bio: >-
-      📍 | Based at YUL 🇨🇦 🐓 | French 📸 | Aviation Photographers 📩 | montreal.planes@gmail.com ✈️ | Fly safe!!!
-    location: "Canada"
-    followers: 22873
-    engagement: 518
-    commentsToLikes: 0.018605
-    id: ck5hdwsb2prx50i11bl4heyqk
-    verified: false
-    hashtags: "#planesdaily, #aviationlife, #airliners, #airbus"
-  - username: "adrienwilliamsphotos"
-    fullname: >-
-      Adrien Williams
-    bio: >-
-      Architecture photographer From Montreal but now based in BC for ⛷ #adrienwilliams #architecturephotography
-    location: "Canada"
-    followers: 5884
-    engagement: 445
-    commentsToLikes: 0.008703
-    id: ck5caj5lzdi9o0i1141pmt06f
-    verified: false
-    hashtags: "#rogertaillibert, #quebec, #architecturephotography, #design"
-  - username: "yannickfornacciari"
-    fullname: >-
-      Yannick Fornacciari
-    bio: >-
-      100% Analog Montreal, CA 💊💊💊 BUY HEROIN DAYS BOOK ⤵⤵⤵
-    location: "Canada"
-    followers: 6531
-    engagement: 617
-    commentsToLikes: 0.006628
-    id: ck8sw2y49dl9w0j78mm8zl66p
-    verified: false
-    hashtags: "#filmisgod, #canada, #lgbtq, #kodak"
-  - username: "prissworldwide"
-    fullname: >-
-      Prisselda Voltaire
-    bio: >-
-      Selfportraits ✨🌟 + political science scholar 📍Tiohtià:ke (mtl) | Paris Founder of : @directedbypriss DM for any project
-    location: "Canada"
-    followers: 3001
-    engagement: 1467
-    commentsToLikes: 0.039553
-    id: ck8swql75ewbw0j785kkimjt2
-    verified: false
-    hashtags: "#photography, #photoshoot, #creative, #aesthetic"
-  - username: "brentcalis"
-    fullname: >-
-      Montreal Photographer
-    bio: >-
-      Worldwide Wedding Photographer for the wildly romantic and quirky. Montreal is home. my boudoir @soulsessionz Youtube tutorials-->
-    location: "Canada"
-    followers: 25453
-    engagement: 149
-    commentsToLikes: 0.031922
-    id: ck6totu9bg2y50j713vggyqed
-    verified: false
-    hashtags: "#authenticlovemag, #montrealelopement, #lookslikefilmweddings, #montrealfamilyphotography"
-  - username: "refinedmoment"
-    fullname: >-
-      MONTREAL Photographer.
-    bio: >-
-      📷Travel | Commercial | Sport ✉️Charles@refinedmoment.com 📱Co-Founder @thesiftrapp 🚴🏻‍♂️ @charlesouimet Managed by @Counterculture.agency YT👇
-    location: "Canada"
-    followers: 39264
-    engagement: 230
-    commentsToLikes: 0.024122
-    id: ck139zr6bnwpy0i19xhhgsa5y
-    verified: false
-    hashtags: "#lululemonhuddle, #worthit, #cavabienaller, #lululemon"
+    hashtags: "#flashphotography, #saydejabraphotography, #fashion, #fashionstyle"
   - username: "yasmeen.ghanavi"
     fullname: >-
       Yass 🌞
     bio: >-
-      Montreal ⚑ Photographer, traveler & lover of adventure ✈ Always with @samdowal Formerly known as @mapping.along book me for a shoot 📷
+      Montreal ⚑ Photographer, & lover of adventure ✈ Ambassadrice @tourismequebec ✨ 📩 yass@possible-media.com Portfolio @possible.media Bookings 👇🏽 📷
     location: "Canada"
-    followers: 33250
-    engagement: 129
-    commentsToLikes: 0.048817
+    followers: 31340
+    engagement: 150
+    commentsToLikes: 0.053604
     id: ck14iqmkbgqmh0i19m9u1rqch
     verified: false
-    hashtags: "#seekthesimplicity, #quebecoriginal, #quebectravelers, #enjoythelittlethings"
+    hashtags: "#quebeccite, #justeparfaite, #mybeigelife, #bonjourquebec"
+  - username: "arcpixel"
+    fullname: >-
+      Freddy | Montréal | 🇨🇦
+    bio: >-
+      Montreal Based Photographer & Designer. ⭐️DM for prints & inquires. 👁@arcpixel_portraits 🚁@df2mtl . . 📩 freddyarciniegas@gmail.com
+    location: "Canada"
+    followers: 12392
+    engagement: 388
+    commentsToLikes: 0.043471
+    id: ck5qaaqm4fez30i110h8mdq53
+    verified: false
+    hashtags: ""
+  - username: "contrailsphotography"
+    fullname: >-
+      Matthew Lee
+    bio: >-
+      🇨🇦 Canadian (Montreal) 📷 Photographer 🎓 University of North Dakota grad ✈️ Avgeek shooting with Canon 6D 📽 All photos & videos are mine unless noted
+    location: "Canada"
+    followers: 77522
+    engagement: 396
+    commentsToLikes: 0.011649
+    id: ck14klj2oq3rc0i19d2x5yi9x
+    verified: false
+    hashtags: "#boeing, #windowseat, #deice, #lineup"
+  - username: "billiebopbillie"
+    fullname: >-
+      B I L L I E ☾
+    bio: >-
+      Model • MTL Paid bookings only Tiktok: billiebopbillie YouTube channel ☟︎
+    location: "Canada"
+    followers: 20494
+    engagement: 527
+    commentsToLikes: 0.014954
+    id: ck5hcjwwwigby0i11bcu7r0b9
+    verified: false
+    hashtags: "#followme, #photograph, #girl, #like4like"
+  - username: "joaohguedes"
+    fullname: >-
+      Joao Guedes
+    bio: >-
+      Intimate Portrait Photographer Photography Educator Ottawa | Montreal | Vancouver Booking April 2021
+    location: "Canada"
+    followers: 59921
+    engagement: 323
+    commentsToLikes: 0.021439
+    id: ck5q6dcmywy5a0i11ddpbgnxw
+    verified: false
+    hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
+  - username: "dantyartphotography"
+    fullname: >-
+      Daniel Tremblay
+    bio: >-
+      Montreal based landscape photographer in love with his job😍 DM for prints!🏞 Visit website for more! 👇New blog post👇
+    location: "Canada"
+    followers: 6595
+    engagement: 1251
+    commentsToLikes: 0.223157
+    id: ck5pye0tuvkdp0i113byhatyf
+    verified: false
+    hashtags: "#planet, #raw, #rawireland, #discoverourland"
+  - username: "belowtheblonde"
+    fullname: >-
+      Amanda Weldon
+    bio: >-
+      ⋒ Photographer + Content Creator ☁️ ☼ YouTuber / ex @weathernetwork / @torontomarlies ☼ Host & Creator of @wediditpodcast ￼ ☼ ENFJ & Colitis Warrior ✨
+    location: "Canada"
+    followers: 13850
+    engagement: 302
+    commentsToLikes: 0.153474
+    id: ck13alkzrqz230i19rjo4twu1
+    verified: false
+    hashtags: "#belowtheblonde, #hamont, #ad, #scrunchies"
+  - username: "fernandolandinofficial"
+    fullname: >-
+      Fernando Landin
+    bio: >-
+      #Photographer #Fotógrafo #Photographe 📸 DM me for Prints / Rates / Info 📩 Available Worldwide ✈
+    location: "Canada"
+    followers: 25784
+    engagement: 269
+    commentsToLikes: 0.038658
+    id: ck15pv3kzzrza0i19b2vdvlnu
+    verified: false
+    hashtags: "#blackandwhitepics, #blackandwhiteforever, #blackandwhiteportrait, #mycalvins"
 ---

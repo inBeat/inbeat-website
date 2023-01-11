@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In France In 2022
+title: Top 10 Guitar TikTok Influencers In France In 2023
 description: >-
-  Find top guitar TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #fyp #music.
+  Find top guitar TikTok influencers in France in 2023. Most popular hashtags: #guitare #pourtoi #fyp #guitar.
 platform: TikTok
-hits: 41
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 41 TikTok influencers like this in France for you to connect with.
+hits: 39
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 39 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "_kerya_cosplay_"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       cosplayer👆 Draw🖍️ guitar player 🎸 Love japan🇯🇵
     location: "France"
-    followers: 7936
-    engagement: 3056
-    commentsToLikes: 0.072890
+    followers: 8179
+    engagement: 2960
+    commentsToLikes: 0.075252
     id: ck9sl4qy4c2wi0j78j4y7jv5j
     verified: false
-    hashtags: "#erzascarlettcosplay, #erzascarletcosplay, #otaku, #duo"
+    hashtags: "#erzascarlet, #erzascarlettcosplay, #duo, #fairytail"
   - username: "bovvary"
     fullname: >-
       Bovvary
     bio: >-
-      producteur et guitariste 🎹 🎸 Viens me parler sur Insta : Bovvary_
+      Des beats et de la guitare ! Suis-moi sur Twitch (je fais des prods en live)👇
     location: "France"
-    followers: 201900
-    engagement: 1244
-    commentsToLikes: 0.031026
+    followers: 300000
+    engagement: 1111
+    commentsToLikes: 0.029673
     id: ckb0lgxtwc55t0j23tqkwggw2
     verified: false
-    hashtags: "#beatmaker, #duo, #ableton, #abletonlive"
-  - username: "elfamosoflafla"
-    fullname: >-
-      Flavie
-    bio: >-
-      Guitariste, insta : flavielj
-    location: "France"
-    followers: 2818
-    engagement: 1102
-    commentsToLikes: 0.048039
-    id: ckb9ed97z1wp40j23kcfbm7qw
-    verified: false
-    hashtags: "#couple, #foryoupage, #amour, #pourtoipage"
+    hashtags: "#abletonlive, #beatmaker, #bovvary, #ableton"
   - username: "lucasgitanofamily"
     fullname: >-
       Lucas Goitia
     bio: >-
       YouTube : LucasGitanoFamily ✅⬇️ Leçon de guitare ⬇️✅
     location: "France"
-    followers: 3763
-    engagement: 388
-    commentsToLikes: 0.037303
+    followers: 3971
+    engagement: 373
+    commentsToLikes: 0.019353
     id: ckai0hrcy7r0t0i780ca8wsrb
     verified: false
-    hashtags: "#bleach, #music, #guitarra, #foryou"
-  - username: "doc.smooth"
+    hashtags: "#flamenco, #guitarcover, #guitar, #requiem"
+  - username: "smooth.n.sour"
     fullname: >-
-      Doc' Smooth
+      Smooth'n'Sour
     bio: >-
-      "Quelqu'un a vu mon médiator?" 🌌🌠
+      H e l l o , f r i e n d Ça va péter ⚡
     location: "France"
-    followers: 3816
-    engagement: 2052
-    commentsToLikes: 0.342948
+    followers: 4316
+    engagement: 1533
+    commentsToLikes: 0.230174
     id: ckd16pufcnqwc0j23tsfupiz1
     verified: false
-    hashtags: "#drsmooth, #fast, #foryoupage, #chill"
+    hashtags: "#guitare, #duo, #fyp, #metal"
+  - username: "dylanlapassadeoff"
+    fullname: >-
+      Dylan Lapassade off
+    bio: >-
+      📸- Instagram -> Dylan Lapassade officiel
+    location: "France"
+    followers: 121000
+    engagement: 1078
+    commentsToLikes: 0.058126
+    id: ckbf45ij2sbkv0j23gofrp5bn
+    verified: false
+    hashtags: "#cover, #frenchsinger, #foryou, #acoustic"
+  - username: "gabriel_smile"
+    fullname: >-
+      Gs_milee
+    bio: >-
+      Viens me suivre sur Insta : Gs_milee et Road to 150k 🥰
+    location: "France"
+    followers: 121100
+    engagement: 1740
+    commentsToLikes: 0.046498
+    id: ck81swet1tlhr0j787yp667e7
+    verified: false
+    hashtags: "#ami, #humour, #chanteur, #guitare"
   - username: "fripouilles"
     fullname: >-
       Fripouilles
     bio: >-
       Rhaa ouaisss
     location: "France"
-    followers: 12300
-    engagement: 1750
-    commentsToLikes: 0.040602
+    followers: 12200
+    engagement: 1634
+    commentsToLikes: 0.045556
     id: ck8sahv2o280b0j78cv4exefd
     verified: false
-    hashtags: "#foryou, #guitare, #fyp, #musique"
-  - username: "rebecca.officiel"
+    hashtags: "#noel, #son, #pourtoi, #music"
+  - username: "scoubitussy"
     fullname: >-
-      Rebecca.officiel
+      Zoz 
     bio: >-
-      🇫🇷 Singer, pianist 🌻 The Voice France 2018
+      Twitter : enzo_tulissi 📩 enzo.tulissi@laposte.net Plaiz :scoubitussy 😇
     location: "France"
-    followers: 95800
-    engagement: 1354
-    commentsToLikes: 0.029421
-    id: ckbepraip6z800j23hqo0yb6c
+    followers: 46100
+    engagement: 1636
+    commentsToLikes: 0.012552
+    id: ckbfbij033j4p0j2358k5ckxw
     verified: false
-    hashtags: "#femme, #fyp, #cover, #summer"
-  - username: "lancelot.musique"
-    fullname: >-
-      Lancelot
-    bio: >-
-      Feder 🍑 ➡️ 2 Au DD ➡️3 👏🏻 Maroon ➡️ 5 😏 Ne me quitte pas ➡️ 3
-    location: "France"
-    followers: 15100
-    engagement: 803
-    commentsToLikes: 0.124042
-    id: ck9eq1netv4ow0j78i3545zwh
-    verified: false
-    hashtags: "#compo, #musique, #blindtest, #test"
+    hashtags: "#drole, #pourtoi, #chill, #gf"
   - username: "saults_music"
     fullname: >-
       Saultsmusic 
     bio: >-
       📍London 🇫🇷 Pop band 📀 Listen here 👇🏻
     location: "France"
-    followers: 11200
-    engagement: 801
-    commentsToLikes: 0.074190
+    followers: 11700
+    engagement: 761
+    commentsToLikes: 0.080998
     id: ckavc0tmmjs4e0j23avlf393v
     verified: false
-    hashtags: "#electricguitar, #guitarist, #livemusic, #pourtoi"
-  - username: "vincent_thevivi"
+    hashtags: "#fyp, #guitarsolo, #musician, #coversong"
+  - username: "anthonybeymusic"
     fullname: >-
-      TheVivi
+      AnthonyBeyMusic
     bio: >-
-      Vidéaste et Musicien, 20 yo Insta : TheVivi.offi Twitch : thevivistream
+      Instagram : @anthonybeymusic Snap 👻 : anthony_bey
     location: "France"
-    followers: 42500
-    engagement: 1240
-    commentsToLikes: 0.022300
-    id: ckcjbm0uy924c0j23soe8k1vx
+    followers: 29700
+    engagement: 1185
+    commentsToLikes: 0.049311
+    id: ckai0hub57rn30i78d3nec0j8
     verified: false
-    hashtags: "#music, #rap, #fy, #cover"
+    hashtags: "#july, #cover, #voice, #julynoahcyrus"
 ---

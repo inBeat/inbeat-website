@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Russia In 2022
+title: Top 10 Yoga Instagram Influencers In Russia In 2023
 description: >-
-  Find top yoga Instagram influencers in Russia in 2022. Most popular hashtags: #nice #liketime #yogagirl.
+  Find top yoga Instagram influencers in Russia in 2023. Most popular hashtags: #yogagirl #yoga #herbalessencesrussia.
 platform: Instagram
-hits: 145
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 145 Instagram influencers like this in Russia for you to collaborate.
+hits: 161
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 161 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "igorfresh"
+  - username: "elena_chilelavida"
     fullname: >-
-      Йога Отец📿Игорь Ковалёв
+      Влюбляю в ЙОГУ 🕉
     bio: >-
-      Следуй за белым кроликом🐇   @yogam_online - онлайн йога 📲Предложения W/A: +79853439054 • Телега👇🏼
+      УРОКИ ➡️ youtube "Йога chilelavida" ПРОГРАММЫ ➡️ yogamatic.ru ПРОВЕРЬ ОТВЕТЫ ➡️ #chilelavida_полезное
     location: "Russia"
-    followers: 549817
-    engagement: 441
-    commentsToLikes: 0.252890
-    id: ckap2suhv063n0i78dgc2n5tt
+    followers: 84174
+    engagement: 588
+    commentsToLikes: 0.024226
+    id: ck5pv9x3agula0i11kqvhxyol
     verified: false
     hashtags: ""
   - username: "rashevskaya_anastasia"
     fullname: >-
-      Йога с умом 🧠
+      Анастасия | Здесь про йогу
     bio: >-
-      Пишу о йоге интересно #rashevskaya_yoga_навигация ⠀ Учу критически мыслить в асанах ⠀ Zoom вт|пт 11:00 Мск ⠀ Занятия, которые вам понравятся ↙️
+      Делаю тело умнее, а ум гибче НЕ мотивирую, работаю с теми, кто сам готов развиваться #rashevskaya_yoga_навигация ⠀ Заниматься со мной: курсы, zoom ↙️
     location: "Russia"
-    followers: 18481
-    engagement: 480
-    commentsToLikes: 0.050753
+    followers: 20534
+    engagement: 540
+    commentsToLikes: 0.052952
     id: ck6tyn8364pt70j71glpbkm4l
     verified: false
     hashtags: "#rashevskaya"
+  - username: "annazvizh"
+    fullname: >-
+      АНЯ ЗВИЖИНСКАЯ/ANIA ZVIZH
+    bio: >-
+      Music, Soul, Yoga🐘🌸📿 Сертифицированный преподаватель mindfulness Пою, пишу, исследую, делюсь с вами✨ Проект @soulmate.vmeste 💌 Annazvizh@gmail.com
+    location: "Russia"
+    followers: 98474
+    engagement: 115
+    commentsToLikes: 0.095285
+    id: ck5hgjl1c34730i119gtvc44q
+    verified: false
+    hashtags: "#herbalessences, #herbalessencesrussia, #zvizhplaces, #happyvalentine"
+  - username: "veronika_chic"
+    fullname: >-
+      Нутрициолог🌱Эксперт по питанию
+    bio: >-
+      Вероника Селюнина ⠀ YOGA&NUTRITION🌱 ⠀ WELLNESS •Персональные тренировки •Китайская медицина •Аюрведа ⠀ Консультации👇🏻
+    location: "Russia"
+    followers: 54673
+    engagement: 21
+    commentsToLikes: 0.279340
+    id: ck15pljdbyhde0i1985i26sn5
+    verified: false
+    hashtags: ""
   - username: "vera_pshenichnikova_"
     fullname: >-
       ! Вера Пшеничникова
     bio: >-
       RUSSIA, Moscow, 22 y.o. ⠀ HSE bachelor alumni👩🏼‍🎓⠀ HSE master 🔜⠀ Yoga, meditation and psychology lover🧘🏼‍♀️
     location: "Russia"
-    followers: 6413
-    engagement: 1245
-    commentsToLikes: 0.024614
+    followers: 6161
+    engagement: 1159
+    commentsToLikes: 0.024364
     id: ckap0pfohrasz0i78jfypxtc3
     verified: false
-    hashtags: "#covid19, #lastworkingday, #hpe, #hewlettpackard"
+    hashtags: "#hpe, #hewlettpackard, #changes, #covid19"
+  - username: "yulia.repik"
+    fullname: >-
+      Influencer | UA | IT-marketing
+    bio: >-
+      Жить моментами, а не ради момента. ⠀ fashion • beauty• yoga ⠀ 📩 @yuliarepik_collab
+    location: "Russia"
+    followers: 178052
+    engagement: 147
+    commentsToLikes: 0.023979
+    id: ck14ltdcdwdus0i19xca9g2bm
+    verified: false
+    hashtags: "#foodporn, #outfit, #julkko, #makeuproutine"
+  - username: "anna_chertopolox"
+    fullname: >-
+      Wedding Photographer
+    bio: >-
+      Photographer Moscow @wedding.kozdurova . Booking 2021 📩 annystu@gmail.com or Direct Message Creator: @bridesbible.ru 📝💗 Traveler 🌎 InLove yoga🌚
+    location: "Russia"
+    followers: 13412
+    engagement: 348
+    commentsToLikes: 0.041523
+    id: ck0ty5jyvlq6e0i198mly7ohe
+    verified: false
+    hashtags: "#weddingdress, #lakecomo, #marriage, #wedding"
   - username: "alizzannn"
     fullname: >-
       Nedogovorova Alisa
     bio: >-
-      certified yoga teacher🪐 model Мой курс⬇️
+      модель преподаю йогу тут👉🏼 @yogaforu__ мы делаем ее и говорим о ней
     location: "Russia"
-    followers: 25376
-    engagement: 155
-    commentsToLikes: 0.077868
+    followers: 24565
+    engagement: 140
+    commentsToLikes: 0.077506
     id: ck5pyw21vy2rc0i11sjl2y4xp
     verified: false
-    hashtags: "#tests, #modeltest"
-  - username: "_lucky_ladybird"
+    hashtags: "#nofilters, #nowordsneeded"
+  - username: "yaroslava_doroganova"
     fullname: >-
-      Yoga💫Stretching💫Workouts
+      Yaroslava Doroganova
     bio: >-
-      Elena 📍 Moscow based yoga teacher 🧘🏼‍♀️ Daily workouts are in stories 😊 Share smile with you
+      📍| From UKR in KOR 💃🏻| Ballroom Latin dancer 🧘🏻‍♀️| Model | Yoga | Surf | Argentine Tango 💌| yaroslavadoroganova@gmail.com
     location: "Russia"
-    followers: 25096
-    engagement: 355
-    commentsToLikes: 0.141366
-    id: ck9hbedrjgghq0j788n47p5uy
+    followers: 5062
+    engagement: 428
+    commentsToLikes: 0.041854
+    id: ckaoyxbspjfvx0i78sb4y1t5d
     verified: false
-    hashtags: "#fitness, #fitgirl, #fitnessmotivation, #abs"
-  - username: "viktorovnaj5"
+    hashtags: "#aesthetic, #doroganova, #busan, #southkorea"
+  - username: "annayoga_blog"
     fullname: >-
-      JL
+      ⚘𝓐𝓷𝓷𝓪⚘  𝓨𝓸𝓰𝓪 𝓛𝓲𝓯𝓮𝓼𝓽𝔂𝓵𝓮 ¹⁰⁸
     bio: >-
-      Photo Model 📸 I'm studying to be a psychologist 👩🏻‍🎓 Natural beauty😍 Love animals🐶 I meditate🧘‍♀️ Doing yoga 🧘🏻 I'm a vegetarian 🥑🥦🥬
+      🇷🇺🇺🇸🇩🇪 📍Germany YogaTeacher RYS 200 🕉 Учитель Йоги Vegetarian 🌱 Почти Веган Study Psychology 👩‍🎓 Учусь на Психолога #annayoga_yoga 🧘🏼‍♀️ Йога ॐ
     location: "Russia"
-    followers: 60195
-    engagement: 125
-    commentsToLikes: 0.038263
-    id: ck6u7afr1kdnm0j719v2yooet
+    followers: 4405
+    engagement: 2141
+    commentsToLikes: 0.083806
+    id: ckap825h7mhvw0i78xwa48r1x
     verified: false
-    hashtags: "#mood, #nice, #girl, #liketime"
-  - username: "kamshat__zholdybayeva"
-    fullname: >-
-      Камшат Жолдыбаева
-    bio: >-
-      Реклама/сотрудничество: +7 777 5555 826 Куаныш Выступления/концерты: +7 702 882 77 44 Ляззат Say’ Bol Yoga👇🏼
-    location: "Russia"
-    followers: 2832177
-    engagement: 55
-    commentsToLikes: 0.055341
-    id: ck6tj4kpg1zth0j71m5kxfxyl
-    verified: true
-    hashtags: "#tattadtattad, #ramleela"
-  - username: "nataliamelniik"
-    fullname: >-
-      NataliaMelnik
-    bio: >-
-      @my.beauty.yoga #MyBeautyYoga Just my space
-    location: "Russia"
-    followers: 8416
-    engagement: 317
-    commentsToLikes: 0.016083
-    id: ck14kj01fpql60i19zknbswsd
-    verified: false
-    hashtags: "#morningyoga, #mybeautyyoga, #handstands, #backstage"
-  - username: "veronika_chic"
-    fullname: >-
-      ЗДОРОВЬЕ МОЛОДОСТЬ КРАСОТА
-    bio: >-
-      Красота залог здоровья ⠀ YOGA & NUTRITION ⠀ Моя Галерея @art_by_vs ⠀
-    location: "Russia"
-    followers: 55243
-    engagement: 31
-    commentsToLikes: 0.312969
-    id: ck15pljdbyhde0i1985i26sn5
-    verified: false
-    hashtags: ""
-  - username: "lessenka"
-    fullname: >-
-      Olesya Zakirova . Slovenia
-    bio: >-
-      -Yoga teacher. -All about Slovenia my eyes. - все личные вопросы👇👇. -olesya.zakirova@list.ru
-    location: "Russia"
-    followers: 6588
-    engagement: 763
-    commentsToLikes: 0.155810
-    id: ckap8amzxnk2y0i78hbwmmfvp
-    verified: false
-    hashtags: "#happy, #follow, #love, #beautifulgirls"
+    hashtags: "#yogalover, #dreamscometrue, #yoga, #besttimeoflife"
 ---

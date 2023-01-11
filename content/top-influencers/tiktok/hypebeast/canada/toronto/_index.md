@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Toronto In 2022
+title: Top 10 Hypebeast TikTok Influencers In Toronto In 2023
 description: >-
-  Find top hypebeast TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #hypebeast #sneakers #toronto.
+  Find top hypebeast TikTok influencers in Toronto in 2023. Most popular hashtags: #hypebeast #fyp #toronto #nike.
 platform: TikTok
 hits: 10
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 10 TikTok influencers like this in Toronto, Canada for you to contact.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "overdoseto"
     fullname: >-
       ODTO
     bio: >-
-      273 Queen St W, Toronto Mon-Tue CLOSED Wed-Sun 12pm - 7pm
+      273 Queen St W, Toronto Friday - Saturday: 12PM - 7PM Sunday - Thursday: CLOSED
     location: "Canada"
-    followers: 23500
-    engagement: 1111
-    commentsToLikes: 0.021626
+    followers: 27300
+    engagement: 1270
+    commentsToLikes: 0.021266
     id: ckck5lcelqkm80j23b684fhh0
     verified: false
-    hashtags: "#yeezy, #toronto, #foryou, #shoecheck"
+    hashtags: "#supremenewyork, #foryoupage, #trophyroom, #sneakers"
+  - username: "thatsoccerplayer77"
+    fullname: >-
+      Patty Lamanna
+    bio: >-
+      23 🇮🇹 Toronto Follow me on IG
+    location: "Canada"
+    followers: 113500
+    engagement: 928
+    commentsToLikes: 0.017508
+    id: ckdnud1cun00y0j231h6e1ho2
+    verified: false
+    hashtags: "#waitaminute, #airpodsjump, #imobsessed, #fyp"
   - username: "theplug.to"
     fullname: >-
       The Plug 👟
     bio: >-
       TWGE"⁶" ➿Sneakerhead ➿Personal Shopper ➿Community Leader 📍Toronto’s Biggest 🔌
     location: "Canada"
-    followers: 5189
-    engagement: 536
-    commentsToLikes: 0.046460
+    followers: 5077
+    engagement: 711
+    commentsToLikes: 0.041308
     id: ck8f7uls537nu0j78o36zl0bl
     verified: false
-    hashtags: "#toronto, #fyp, #hypebeast, #xyzcba"
-  - username: "rubyaquaaccessories"
+    hashtags: "#xyzcba, #ww3, #toronto, #hypechallenge"
+  - username: "ja5min33"
     fullname: >-
-      Ruby Aqua
+      JA5MiN3
     bio: >-
-      🦋affordable, trendy accessories🦋 👑follow insta and youtube👑 🇨🇦Toronto🇨🇦
+      High school teacher 🍎 Sneaker Head 👟 IG: @hype6ixplug
     location: "Canada"
-    followers: 135300
-    engagement: 1581
-    commentsToLikes: 0.022986
-    id: ckcdq757mc2zp0j23wr7bw3ff
+    followers: 2605
+    engagement: 680
+    commentsToLikes: 0.097767
+    id: ckc35jqcpuqm50j23ay1mvk4p
     verified: false
-    hashtags: "#biz, #smallbusiness, #canada, #16"
+    hashtags: "#teacher, #welcomeweek, #teacherlife2020, #tiktokteacher"
   - username: "lqmnahmed"
     fullname: >-
       Luqman
     bio: >-
-      Go follow my Instagram ⬆️ @lqmnahmed Soleistermgnt@gmail.com 🇨🇦 Toronto
+      Toronto 📍 Soleistermgnt@gmail.com Your Average Sneaker Head 👟
     location: "Canada"
-    followers: 50700
-    engagement: 1232
-    commentsToLikes: 0.037784
+    followers: 100100
+    engagement: 988
+    commentsToLikes: 0.026899
     id: ckcjczohy9swl0j23a0yy16bm
     verified: false
-    hashtags: "#sneakerhead, #nike, #jordan1, #snkrs"
+    hashtags: "#diy, #tiktokggt, #sneakers, #foryoupage"
+  - username: "itsfivethree"
+    fullname: >-
+      Five Three
+    bio: >-
+      Redefining Luxury @ New Toronto LLDR
+    location: "Canada"
+    followers: 5342
+    engagement: 775
+    commentsToLikes: 0.023780
+    id: ckavjn311sda80j23716zfbqc
+    verified: false
+    hashtags: "#kith, #hypebeast, #offwhite, #virgilabloh"
   - username: "daavid.chen"
     fullname: >-
       daavid
     bio: >-
       imagine throwing the biggest party in toronto
     location: "Canada"
-    followers: 6624
-    engagement: 712
-    commentsToLikes: 0.042772
+    followers: 6565
+    engagement: 613
+    commentsToLikes: 0.042034
     id: ck80crn2hat300j78pauri4rq
     verified: false
-    hashtags: "#funny, #fyp, #foryou, #foryoupage"
+    hashtags: "#prank, #foryoupage, #foryou, #tdsb"
   - username: "thewashedmarket"
     fullname: >-
       THEWASHEDMARKET
     bio: >-
       GROUP OF GUYS SELLING SNEAKERS FOLLOW OUR IG
     location: "Canada"
-    followers: 13800
-    engagement: 1446
-    commentsToLikes: 0.076789
+    followers: 13700
+    engagement: 1413
+    commentsToLikes: 0.076528
     id: ck8fa2unv3zae0j78oc64h3ty
     verified: false
-    hashtags: "#onmyway, #xyzbca, #4upage, #sneakermeetup"
-  - username: "abi.sals"
-    fullname: >-
-      Abs😇
-    bio: >-
-      Only my shoes go viral
-    location: "Canada"
-    followers: 7544
-    engagement: 875
-    commentsToLikes: 0.029450
-    id: ck9dx92mcsa1i0j780cixc623
-    verified: false
-    hashtags: "#shoes, #euphoria, #hypebeast, #canada"
+    hashtags: "#sneakermeetup, #topdog, #famous, #sneakers"
   - username: "grlramirez"
     fullname: >-
       G Dawg
     bio: >-
-      CEO of Basketball, Sneakers and Music
-    location: "Canada"
-    followers: 2380
-    engagement: 1091
-    commentsToLikes: 0.039765
-    id: ck8vy2pr2syeu0j7819xwkgjh
-    verified: false
-    hashtags: "#nba, #sound, #hiphop, #hoops"
-  - username: "cainbeaudoin"
-    fullname: >-
-      Cain Beaudoin
-    bio: >-
-      Artist & Sneakerhead checkout my friends store
-    location: "Canada"
-    followers: 8575
-    engagement: 1143
-    commentsToLikes: 0.033660
-    id: ckcp3xunvc4yn0j23bfxk4qau
-    verified: false
-    hashtags: "#sneakerhead, #shoe, #jordan, #ooh"
-  - username: "itsfivethree"
-    fullname: >-
-      Five Three
-    bio: >-
       
     location: "Canada"
-    followers: 4793
-    engagement: 675
-    commentsToLikes: 0.024586
-    id: ckavjn311sda80j23716zfbqc
+    followers: 2357
+    engagement: 1072
+    commentsToLikes: 0.039020
+    id: ck8vy2pr2syeu0j7819xwkgjh
     verified: false
-    hashtags: "#streetwear, #fashion, #hiphop, #kicks"
+    hashtags: "#ball, #nba, #hiphop, #xyzbca"
+  - username: "sbj.vtg"
+    fullname: >-
+      Jack
+    bio: >-
+      🇨🇦🇨🇦🇨🇦 Check da ig for more @sbj.vtg
+    location: "Canada"
+    followers: 23300
+    engagement: 723
+    commentsToLikes: 0.033209
+    id: ckdhya8wg4s080j23civcd0cl
+    verified: false
+    hashtags: "#fashion, #bandtee, #vintage, #vintageclothes"
 ---

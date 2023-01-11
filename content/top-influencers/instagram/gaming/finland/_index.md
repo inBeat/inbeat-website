@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Finland In 2022
+title: Top 10 Gaming Instagram Influencers In Finland in 2023
 description: >-
-  Find top gaming Instagram influencers in Finland in 2022. Most popular hashtags: #gaming #ps4 #gamer #finland.
+  Find top gaming Instagram influencers in Finland in 2023. Most popular hashtags: #gaming #ps4 #gamer #finland.
 platform: Instagram
 hits: 9
 text_top: Analyze the top-rated Instagram profiles on inBeat.

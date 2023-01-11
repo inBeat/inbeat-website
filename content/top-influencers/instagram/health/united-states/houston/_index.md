@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Houston In 2022
+title: Top 10 Health Instagram Influencers In Houston In 2023
 description: >-
-  Find top health Instagram influencers in Houston in 2022. Most popular hashtags: #houston #health #quarantine #texas.
+  Find top health Instagram influencers in Houston in 2023. Most popular hashtags: #houston #health #loveyourself.
 platform: Instagram
-hits: 116
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 116 Instagram influencers like this in Houston, United States for you to work with.
+hits: 111
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 111 Instagram influencers like this in Houston, United States for you to collaborate.
 profiles:
-  - username: "hangryyhippo"
-    fullname: >-
-      M. Nguyen
-    bio: >-
-      • Houston | Everywhere • Food x Travel x Lifestyle • Collab: hangryyhippo@gmail.com
-    location: "United States"
-    followers: 3106
-    engagement: 1109
-    commentsToLikes: 0.178608
-    id: ck0ue2062kblo0i19m8rf9xf5
-    verified: false
-    hashtags: "#food, #foodporn, #foodilysm, #foodstagram"
-  - username: "brianda.carrasco"
-    fullname: >-
-      Brianda Carrasco
-    bio: >-
-      Everything you ever wanted is on the other side of fear 💙 Fitness, beauty & travel
-    location: "United States"
-    followers: 45174
-    engagement: 136
-    commentsToLikes: 0.033539
-    id: ck138nqqrh4o60i19rd4wiuby
-    verified: false
-    hashtags: "#quarantine, #functionaltraining, #indoorworkout, #f45"
-  - username: "sylvesterturner"
-    fullname: >-
-      Sylvester Turner
-    bio: >-
-      Mayor of Houston. For nearly three decades, transforming the lives of people who need a voice – and making government work better for all of us.
-    location: "United States"
-    followers: 26106
-    engagement: 153
-    commentsToLikes: 0.044591
-    id: ckaoqll13j9m80i781gbv7rd3
-    verified: true
-    hashtags: "#houston, #hounews, #covid19, #kprc"
   - username: "_gifted_handzvip"
     fullname: >-
-      K.J. Harris
+      Pro Grooming
     bio: >-
-      Business Consultant 📈 Grambling State University Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 Htx.📍 U.S. Air Force Veteran ⬇️ Products Available ⬇️
+      Business Consultant Movie Director 🎬 GSU Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 HTX📍 U.S. Air Force Veteran ⬇️ Products, Courses, Services ⬇️
     location: "United States"
-    followers: 19419
-    engagement: 283
-    commentsToLikes: 0.023843
+    followers: 21622
+    engagement: 92
+    commentsToLikes: 0.022672
     id: ck5cl4k5ky8fv0i11hhkr69wc
     verified: false
-    hashtags: "#veganfriendlyproducts, #dubaibarber, #ukbarber, #haircutsformen"
-  - username: "stacieluraann"
+    hashtags: "#houstonbarbers, #redcarpetfresh, #phillybarber, #organic"
+  - username: "maimedicalmuse"
     fullname: >-
-      S T A C I E✨
+      👑 Maius | Medical Student
     bio: >-
-      ✖️Nursing Student ✖️BS in Psychology ✖️Registered Behavior Technician ✖️NSCA Certified Personal Trainer
+      just a med student keepin it real 👩🏻‍⚕️ MS2, she/her 🩺 Dell Med (all opinions are my own) 🥼 current rotation: gyn surg 🇵🇭 -->📍Austin, TX
     location: "United States"
-    followers: 8322
-    engagement: 608
-    commentsToLikes: 0.056338
-    id: ck5zzx2oecki80i14353h17t2
+    followers: 14484
+    engagement: 1239
+    commentsToLikes: 0.038508
+    id: ckap08v69p9i50i78elf6fa07
     verified: false
-    hashtags: "#motivation, #fitgirl, #fitlife, #highbeauty"
+    hashtags: "#healthcare, #premedstudent, #medical, #medicine"
+  - username: "unearthedamber"
+    fullname: >-
+      Amber 🩺
+    bio: >-
+      Family Nurse Practitioner ❤️ Wife 💍 Content Creator📍Houston Health & Wellness | Natural Hair 💌 amber@unearthedamber.com
+    location: "United States"
+    followers: 29458
+    engagement: 303
+    commentsToLikes: 0.048339
+    id: ckaoxmq2kdwzk0i78y3e3804k
+    verified: false
+    hashtags: "#black, #blacknursesmatter, #nursepractitioner, #blacknursesrock"
+  - username: "chubbystruggles"
+    fullname: >-
+      Alex Sundstrom
+    bio: >-
+      👗: Queer fat model 🪡: Crafty sewing queen 🌵: Plant and dog mama ❤️ Self-love, mental health, yoga 📍Houston, TX 📧: alexandriasundstrom@gmail.com
+    location: "United States"
+    followers: 34713
+    engagement: 107
+    commentsToLikes: 0.052317
+    id: ck14kfgxqp9h30i19esmzrc35
+    verified: false
+    hashtags: "#visiblyfat, #athleta, #plussizeathleisure, #fatgirlsummer"
+  - username: "aphricanace"
+    fullname: >-
+      Dami Olatunde
+    bio: >-
+      😂🎤 MC/Entertainer 📧 Booking/Promo: AphricanAce@Gmail.com 🏠 TX Realtor (Houston) @damitherealtor Health/Wellness @acetlcfitness Click here 👇🏾👇🏾
+    location: "United States"
+    followers: 502560
+    engagement: 158
+    commentsToLikes: 0.053332
+    id: ck0vwhtu2tuyj0i19cbafjoq1
+    verified: true
+    hashtags: "#funnyrealtor, #realestateagent, #texasrealestateagent, #dtr"
+  - username: "jasminerdh"
+    fullname: >-
+      Jasmine RDH, BSDH, MHA🦷💕
+    bio: >-
+      Registered Dental Hygienist | Houston📍 Oral Health Educator | Content Creator 600,000+ supporters on TikTok Side Hustle E-Book | Teeth Whitening⤵️
+    location: "United States"
+    followers: 42474
+    engagement: 2987
+    commentsToLikes: 0.040319
+    id: ck8wgldpvhku30j78qdp4u1ya
+    verified: false
+    hashtags: "#smilecouncil, #barcobrigade, #barcouniforms, #ad"
   - username: "atrainlanier"
     fullname: >-
       ᴀᴜsᴛɪɴ ʟᴀɴɪᴇʀ
     bio: >-
-      
+      757 ✈️🌎
     location: "United States"
-    followers: 38105
-    engagement: 583
-    commentsToLikes: 0.051411
+    followers: 37070
+    engagement: 602
+    commentsToLikes: 0.051115
     id: ck0tzmo84qx8s0i19agjmhhlw
     verified: false
-    hashtags: "#crowdsurfing, #joy, #faith, #highschool"
-  - username: "nailed_by_becky"
+    hashtags: "#schoolspeaker, #god, #crowdsurfing, #hope"
+  - username: "rioredskyg"
     fullname: >-
-      BECKY WITH THE GOOD NAILS™️
+      Rio Red Sky Gonzales
     bio: >-
-      📍Austin, TX 💃🏼Celebrity Nail Artist💅🏻 💓Nail Mentor 🇺🇸 💌 Not taking any new clients at the moment 📩
+      Grand Traverse Band of Ottawa and Chippewa Indians HTX // Musician Click link for a sexy video! 💌
     location: "United States"
-    followers: 35471
-    engagement: 112
-    commentsToLikes: 0.040427
-    id: ck6tk5n3o41r70j71oizdxx9j
+    followers: 35877
+    engagement: 414
+    commentsToLikes: 0.036395
+    id: ck6uc99h6e8yb0j71o6vbbwbl
     verified: false
-    hashtags: "#beauty, #nail, #nailgirl, #nailart"
-  - username: "houstonfoodbaby"
+    hashtags: "#thickwomen, #instagramreels, #sheingal, #fyp"
+  - username: "kennedybonham_"
     fullname: >-
-      Paige Ngo
+      Kennedy Bonham
     bio: >-
-      Little person BIG appetite 🙌🏻😋.
+      health & wellness ⚡️ @ehplabs & @inakapower code 'KENNEDY10' houston, texas TrainWithKennedy ✨👇🏽
     location: "United States"
-    followers: 4774
-    engagement: 823
-    commentsToLikes: 0.254917
-    id: ck0ue204pkbkw0i19h00w6yl7
+    followers: 119770
+    engagement: 1098
+    commentsToLikes: 0.011210
+    id: cl7i19kuptxul0i23f4u9t8fi
     verified: false
-    hashtags: "#houstontxfood, #houstonfoodie, #tacos, #houstonblogger"
-  - username: "samminadine"
+    hashtags: ""
+  - username: "every_now_and_jenn"
     fullname: >-
-      sammi nadine
+      Jenn Peterson
     bio: >-
-      perfectly imperfect ✨ ▹ artist. mental health advocate. cat mom. ▹ houston, tx
+      🌟LIVING WITH JOY🌟 🙏 God 👩‍❤️‍👨 Family🤰Mommy 🐾 Pets 🌍Travel 🧘🏼Health 💻Entreprenuer Owner of @blend_nutrition_houston & @workfromhome
     location: "United States"
-    followers: 4903
-    engagement: 539
-    commentsToLikes: 0.037485
-    id: ck9h9yi71aguc0j78floo1j4q
+    followers: 28584
+    engagement: 181
+    commentsToLikes: 0.026817
+    id: ckap37ufo1x2e0i78z40y7epj
     verified: false
-    hashtags: "#houstoninfluencer, #mentalhealthtips, #discoverunder5k, #mushroomart"
-  - username: "hangryhoustonian"
-    fullname: >-
-      Danielle | Houston Foodie ✨
-    bio: >-
-      📍Houston Food + Lifestyle ⚜️Louisiana Roots | LSU🐯 📧Hangryhoustonian@gmail.com 🎙“I’m Sorry For What I Said When I Was Hangry” CBS RADIO 650 & Podcast
-    location: "United States"
-    followers: 51851
-    engagement: 344
-    commentsToLikes: 0.414700
-    id: ck0txaxzvijjr0i196ozzy6rb
-    verified: false
-    hashtags: "#seltzerszn, #ad, #21, #hardseltzer"
+    hashtags: "#blessed, #raymondwroe, #babysophie, #entrepreneur"
 ---

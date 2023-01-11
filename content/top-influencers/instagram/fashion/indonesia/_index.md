@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Indonesia In 2022
+title: Top 10 Fashion Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top fashion Instagram influencers in Indonesia in 2022. Most popular hashtags: #fashionstyle #ootd #instadaily.
+  Find top fashion Instagram influencers in Indonesia in 2023. Most popular hashtags: #ootdinspiration #ootd #ootdfashion.
 platform: Instagram
-hits: 1319
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 1319 Instagram influencers like this in Indonesia for you to contact.
+hits: 1167
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 1167 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "elenacoffey777"
+  - username: "clarissaputri_"
     fullname: >-
-      Elena Coffey
+      Clarissa Putri H 😽
     bio: >-
-      Fashion | Beauty | Lifestyle | Travelling the World Non Stop✈️ My main account: @elenacoffey
+      Beauty & Fashion Enthusiast✨ #GenerasiKulitSehat Bersama @npureofficial Olshop: 081389164343 (WA) Brand: 081294584704 (Kartika) / 0812 82820619 (Momi)
     location: "Indonesia"
-    followers: 28406
-    engagement: 793
-    commentsToLikes: 0.097526
-    id: ck8t5rzc5b1ce0j78bh9g5vsq
+    followers: 1205363
+    engagement: 530
+    commentsToLikes: 0.003916
+    id: ck0vvfnomoxe20i19i2qvn84r
     verified: false
-    hashtags: "#beautifulbali, #thetraveltag, #journeyofgirls, #elenacoffey"
-  - username: "istii0298"
+    hashtags: "#fdnevent, #enjoyamazingskin, #lazadafestivalfashion, #sipalingbestie"
+  - username: "nabilaishma"
     fullname: >-
-      Ⓘⓢⓣⓘⓠⓞⓜⓐⓗ🍑||TANGERANG
+      Nabila Ishma Nurhabibah
     bio: >-
-      بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ 🍑FASHION•FOOD•BEAUTY💦 💍ʷⁱᶠᵉ : @ahmdrizal15👰 📍CIKUPA TANGEƦANG ✏Part of : ADR 📩ENDORSE DLL,WA👇
+      Enthusiast Learner, Fashion, & Beauty BA of @airinbeautycare @umama_id @texlascarf CP : +62 877-8595-4834 / +62 821-3077-7424
     location: "Indonesia"
-    followers: 19352
-    engagement: 1041
-    commentsToLikes: 0.120091
-    id: ck9wh93hawtx20j785he705cp
+    followers: 1237200
+    engagement: 1757
+    commentsToLikes: 0.003851
+    id: ck9whra3nz4ed0j78ypsblpwy
     verified: false
-    hashtags: "#onepaletteallmakeup, #dazzlemebeauty, #beautybeyondboundaries, #pondsindonesia"
-  - username: "farnazjavdankherad"
+    hashtags: "#wardahrenewyou, #youthpowerdroplets, #7wonderstoners, #lifeyourway"
+  - username: "steffisanta"
     fullname: >-
-      Farnaz
+      Steffi Santa
     bio: >-
-      Farnaz businesswoman owner and founder of Fj @f.jcollection fashion | beauty | lifestyle maried mehran ghalamchi 📧farnaz.javdan@gmail.com
+      🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
     location: "Indonesia"
-    followers: 7648
-    engagement: 1893
-    commentsToLikes: 0.075238
-    id: ck6u4x2da6a4m0j71adqdys8y
+    followers: 13636
+    engagement: 327
+    commentsToLikes: 0.029745
+    id: ck8sx7vvzggci0j78zgcb3gwn
     verified: false
-    hashtags: "#love, #bali, #birthday, #couplegoal"
-  - username: "vidaarmeta_"
+    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
+  - username: "adindathomas"
     fullname: >-
-      𝓥𝓲𝓭𝓪 𝓐𝓻𝓶𝓮𝓽𝓪
+      Adinda N.N Thomas
     bio: >-
-      Lifestyle ▪️ Fashion ▪️ Beauty 📍PTI - SMG 📩 For business inquires DM Brand Affiliate @simplynu.sosmed.central
+      -Fashion & Travel Enthusiast - #dindadimana @kknmovie * Founder @parole.id * Event @langit.tak.beratap
     location: "Indonesia"
-    followers: 7603
-    engagement: 1084
-    commentsToLikes: 0.090217
-    id: ckap7caavjg7g0i788tm37wpl
-    verified: false
-    hashtags: "#donasi, #sahabat, #sedekah, #gotongroyongkebaikan"
-  - username: "zailinaqeesha"
+    followers: 1408514
+    engagement: 215
+    commentsToLikes: 0.002721
+    id: ck5bt8i5pfiuu0i11sbiq724q
+    verified: true
+    hashtags: "#yslbeautyid, #havaianasindonesia, #roninfitcamp, #babysitting"
+  - username: "novkrisst"
     fullname: >-
-      Princess Zailin Aqeesha
+      Nova ~ 🍭
     bio: >-
-      👱🏻‍♀️ 13yrs old 👠 Runway Fashion Show 📸 Photoshoot 🎬 Shooting 🌸 Tiktok id : zailinaqeesha_
+      Beauty | Fashion | Games | Lifestyle 🌸 ¦ Live Youtube : Novkrisst (7pm) 🌸 ¦ Tiktok : Nopnopajah 🌸 ¦ Inq / Endorsement : -Yap (081937076365)
     location: "Indonesia"
-    followers: 2566
-    engagement: 2410
-    commentsToLikes: 0.092665
-    id: ckap3le8m3hs00i787o6isdtu
+    followers: 100586
+    engagement: 211
+    commentsToLikes: 0.030437
+    id: ck0tsy0as0ebf0i194k71wy0a
     verified: false
-    hashtags: "#sa40k, #pesonapenggantin, #pengantinthecatwalkedition2019, #rehearsalday"
-  - username: "asq04_"
+    hashtags: "#gaminggear, #onlinemedan, #mousegaming, #komputermedan"
+  - username: "widya98"
     fullname: >-
-      𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝙈𝙞𝙛𝙩𝙖𝙝𝙪𝙡 𝘼𝙨𝙞𝙦𝙞𝙣 아시 친
+      Surabaya Foodies
     bio: >-
-      Collab & Work Inquiries 📞📩 Let It Be 👻 I 💞 Pose In Front 📸 #lifestyle 👨‍🦱 #food 🍹🍱 #fashion 👔 #beauty 🛍️ Onin•Adr•SHR•Milenial•Stellar•TCE•Ball
+      Fashion•Beauty•Lifestyle•Staycation♡ 📩 TAP LINK FOR ENDORSEMENT 🖤 Tiktok(22k+) & Youtube #Wstaycationdisini #Wayukicob 🙆‍♀️ KursusMUA @widya98_mua
     location: "Indonesia"
-    followers: 14699
-    engagement: 765
-    commentsToLikes: 0.141731
-    id: ck5hnvjkoogsq0i11y2l34uj9
+    followers: 62374
+    engagement: 212
+    commentsToLikes: 0.145789
+    id: ck9wght21th390j78fik69ir7
     verified: false
-    hashtags: "#asiqiinootd, #dirumahaja, #explorewithasiqiin, #asiqiinfood"
-  - username: "sitinurcahyani"
+    hashtags: "#wstaycationdisini, #gengkulinerseru, #wayukicob, #mangkokkusurabaya"
+  - username: "vallerieaudrey"
     fullname: >-
-      
+      Vallerie Audrey
     bio: >-
-      Lifestyle||Beauty||Fashion #LemonSquad Endorse or Business⬇️ 💌ssitinurcahyani@gmail.com @sociolla @qa.management__ @sahirah_management @oninfluencer
+      ♥ Fashion | Beauty | Food | Lifestyle ♥ #StylebyVall 🪐 ☁️Line@ : @vallerieaudrey (with @)📲 // DM 🇮🇩Jakarta, Indonesia 💌vallerie.audrey@yahoo.com
     location: "Indonesia"
-    followers: 40040
-    engagement: 383
-    commentsToLikes: 0.091862
-    id: ck9wh7iiywm5c0j788dlft4bo
+    followers: 37903
+    engagement: 202
+    commentsToLikes: 0.013240
+    id: ck5cbcc48f5jc0i118nrotk24
     verified: false
-    hashtags: "#lifebuoyid, #ekspresimerdekamu, #ekspresimerdeka, #tanganbersihuntukindonesia"
-  - username: "bethaniamw"
+    hashtags: "#ootdfashion, #ootdindo, #ootdinspiration, #ootdstyle"
+  - username: "sabrinachairunnisa_"
     fullname: >-
-      𝐁💜
+      Mrs. Corbuzier | Beauty Creators
     bio: >-
-      📍Sby — Fashion enthusiast💫 — business inquiries trough dm📩 Best Socmed #alphagirls2019 @museby.bee @buyornah.id
+      👰🏻‍♀️A Proud Wife 💄Beauty,👗Fashion & Sport Enthusiast 💅🏻Founder of @adelinee.id 📞Business WA+6287872484815(Lisa) 👑RU-3 PuteriIndonesia'11
     location: "Indonesia"
-    followers: 5996
-    engagement: 1548
-    commentsToLikes: 0.038104
-    id: ck5zpqh8bt5ej0i14rvtq8olj
-    verified: false
-    hashtags: "#happynationalfathersday2020, #batikdaerah, #fpdruntheworld, #oweekuc2020"
-  - username: "piyanka_mongia"
+    followers: 1112900
+    engagement: 198
+    commentsToLikes: 0.012736
+    id: ck15sitsqd8370i19jmk12rwz
+    verified: true
+    hashtags: "#reels, #ootd, #deddycorbuzier, #tampildireels"
+  - username: "vellaaania"
     fullname: >-
-      Piyanka Mongia❤ (Official)
+      Vellania
     bio: >-
-      Proud To Be A Punjaban🔥 👄Fashion • Beauty • Lifestyle 👻Snap- Iampiyanka 📮Email For Collaborations 👅MOJ ID @piyanka_mongia
+      dance & fashion enthusiast🍒 BUSINESS/ENDORSEMENT? WA : +62 813-8069-9508 (Adm 1) WA : +62 821-2453-6413 (Adm 2)
     location: "Indonesia"
-    followers: 1679813
-    engagement: 636
-    commentsToLikes: 0.019465
-    id: ck8wfbxnwfhyq0j78l4pfddql
+    followers: 159020
+    engagement: 289
+    commentsToLikes: 0.004528
+    id: ck0vx8bjpxnfu0i19a8hntudf
     verified: false
-    hashtags: "#insta, #fashionphotography, #piifam, #fashionweek"
-  - username: "wynnehwang_"
+    hashtags: "#dancecover, #blackpink, #barenbliss, #shutdown"
+  - username: "farasyahid"
     fullname: >-
-      WYNNE IGNACIA
+      Farsya || GIVEAWAY tiap bulan✨🌈
     bio: >-
-      Half salmon😶😶 🍑full time BTS lovers🍑 Welcome to my not so fashionable fashion page😌 My skincare routine @pinkroulette.id 🧚🏻
+      Beauty & Fashion OPEN ENDORSEMENT, COLLAB, VISIT! —— 𝙄’𝙢 𝙞𝙣𝙩𝙤 𝙢𝙖𝙠𝙚𝙪𝙥 ଘ(੭ˊᵕˋ)੭* ੈ✩‧˚ Sub, ID #revu_id_73405fc1
     location: "Indonesia"
-    followers: 72749
-    engagement: 287
-    commentsToLikes: 0.056272
-    id: ck5hjeb3vgh6k0i1188avhogm
+    followers: 39611
+    engagement: 185
+    commentsToLikes: 0.018396
+    id: ckaoslom3s05e0i78hv93uoyg
     verified: false
-    hashtags: "#happyjiminday, #ootd"
+    hashtags: "#momsfluencer, #videounboxing, #giveawayindo, #makeuptutorial"
 ---

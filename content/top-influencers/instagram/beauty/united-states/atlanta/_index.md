@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Atlanta In 2022
+title: Top 10 Beauty Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top beauty Instagram influencers in Atlanta in 2022. Most popular hashtags: #beauty #explore #atlanta #melanin.
+  Find top beauty Instagram influencers in Atlanta in 2023. Most popular hashtags: #beauty #atlanta #explorepage #fashion.
 platform: Instagram
-hits: 330
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 330 Instagram influencers like this in Atlanta, United States for you to connect with.
+hits: 331
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 331 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
-  - username: "urban.blonde"
+  - username: "_xaboveaveragex_"
     fullname: >-
-      Stephanie Konkle Caligiuri
+      𝔏𝔢𝔦𝔞
     bio: >-
-      Style blogger + beauty Atlanta -> Florida urbanblondeblog@gmail.com 💌 Shop My Instagram👇🏼
+      ѕnαpchαt: αlєíαlσvєє 🌈 RIP Daddy 😇 Owner of @shesaqueenhair B.S. Degree 📃
     location: "United States"
-    followers: 202009
-    engagement: 135
-    commentsToLikes: 0.040924
-    id: ck5hnxirbokca0i11pmlm54n0
+    followers: 8474
+    engagement: 967
+    commentsToLikes: 0.041786
+    id: ck8taq6zjsnbd0j78ap336h0b
     verified: false
-    hashtags: "#ltkunder50, #ltkshoecrush, #falloutfits, #ltkfall"
-  - username: "curlfriendari"
+    hashtags: "#fashion, #followers, #jaydacheaves, #like"
+  - username: "_stylesbyporchej"
     fullname: >-
-      ARIELLE
+      ✨BRAIDER✨
     bio: >-
-      •Natural Hair + Beauty •Atlanta, Ga 🇯🇲🇲🇸 •CurlFriendAri@gmail.com •YouTube: 2 mill+ views P.O. Box 2045 Mableton, GA 30126
+      ❌No Facebook Account❌ Atlanta Ga 📍 SHOP & BOOK APPOINTMENTS ONLINE LINK BELOW ⬇️
     location: "United States"
-    followers: 61150
-    engagement: 546
-    commentsToLikes: 0.020164
-    id: ckap9ah0pru9q0i78ghbv3hrl
+    followers: 152000
+    engagement: 594
+    commentsToLikes: 0.006427
+    id: ck134417wulcv0i1913i7c9ni
     verified: false
-    hashtags: "#healthy, #naturalchixs, #africanpridepartner, #naturalhair"
-  - username: "brownsugarglam"
+    hashtags: "#braidedhairstyles, #trendy, #reels, #neatbraids"
+  - username: "themuaalex"
     fullname: >-
-      Shahntay Simpson
+      Alexandra Butler
     bio: >-
-      Philippians 4:13 BS 🎓|Licensed Cosmetologist 💇🏽‍♀️ Blogging Beauty| Atlanta based For Campaigns email Shahntay_Simpson@hotmail.com
+      Professional MUA, A Soror (💃🏾🐥🐘🔺), STL made/ATL paid, @bayabadass mommy, @kingrio82 wife. Serious inquiries send an email, please no 🚫DMs #themuaalex
     location: "United States"
-    followers: 45607
-    engagement: 310
-    commentsToLikes: 0.010635
-    id: ck0u0vqocuzaw0i19gbhyac7e
-    verified: false
-    hashtags: "#blackwomendomakeup, #melaninmakeupdaily, #naturalchixs, #naturalhairstyles"
-  - username: "candyrichards__"
+    followers: 119292
+    engagement: 210
+    commentsToLikes: 0.051509
+    id: ck15sc9pcca5h0i1940mmzqig
+    verified: true
+    hashtags: "#beauty, #atlanta, #mua, #themuaalex"
+  - username: "aiyanaangell"
     fullname: >-
-      Candy Richards
+      Yana🦋
     bio: >-
-      🎬 Sometimes i act & sometimes i act a damn fool😜 ▪️ Brand ambass 📍 NC 🚘 ATL 🇱🇷 Liberian Girl ❤️ WSSU Alum • MBA 🎓 (Strayer)Owner of @crichcollection_
+      D(M)V Published Independent Model Libra ♎️
     location: "United States"
-    followers: 19073
-    engagement: 343
-    commentsToLikes: 0.064549
-    id: ck5hrkhwkv0mv0i11infjvvw6
+    followers: 7084
+    engagement: 678
+    commentsToLikes: 0.054930
+    id: ck5c9q9oobwlp0i114idt3s8l
     verified: false
-    hashtags: "#liberianskilling, #liberia, #tvpersonality, #braids"
-  - username: "te_coristyles"
+    hashtags: "#love, #nycmodels, #style, #fashion"
+  - username: "artistryofjazzhorn"
     fullname: >-
-      TeCori💇🏾
+      Jazzmeia Horn
     bio: >-
-      BMore Girl slaying in the ATL. Just eating and praying my way through life 💕🙏🏾 Weaving and healthy hair specialist. find me 📍Snob Life Studio
+      CEO @empresslegacyrecords APTTMH 🙌🏾 Vocalist 2X Grammy Nominated Artist NAACP Image Award Winning Artist Artist, Arranger, Author, Activist
     location: "United States"
-    followers: 26967
-    engagement: 138
-    commentsToLikes: 0.049594
-    id: ck5hntkkqod930i113lizs0w9
-    verified: false
-    hashtags: "#fashioninspo, #makeup, #baddie, #lacewig"
-  - username: "mindfulmizfitz"
+    followers: 23311
+    engagement: 312
+    commentsToLikes: 0.055374
+    id: ck5qdtf5wx9160i118bg0989q
+    verified: true
+    hashtags: "#vocalists, #jazzhands, #blackwomanmagic, #jazzrock"
+  - username: "pinkraye"
     fullname: >-
-      Mindful Mizfitz Academy
+      Raven Alyssia Brown
     bio: >-
-      Owner: @iamslym @choculateshop💅🏾💇🏾‍♀️ Mobile Notary Relationship, Life, Business & Financial Coach Author & Realtor @booksbusinessandbspodcast
+      25 ♓️ Fashion Designer. Model. CAU Alumna. Sales Associate @ Nordstrom-Perimeter. ATL📍 My brand: @_thepinkrayeaffect Shop my curated looks👇🏾
     location: "United States"
-    followers: 129822
-    engagement: 225
-    commentsToLikes: 0.005392
-    id: ck0tv71mva7te0i199mv7cfhy
+    followers: 8432
+    engagement: 305
+    commentsToLikes: 0.060563
+    id: ck602j07jhhsc0i1413d54819
     verified: false
-    hashtags: "#mtv, #blackwriters, #blackmarriage, #blackcouples"
-  - username: "andzelika_bobrova"
+    hashtags: "#fashion, #nordstromemployee, #atlanta, #losangeles"
+  - username: "lashedbynoa"
     fullname: >-
-      Andzelika
+      Lash Boss
     bio: >-
-      𝓉𝒽𝑒𝓇𝑒’𝓈 𝓈𝑜𝓂𝑒𝒷𝑜𝒹𝓎 𝒻𝑜𝓇 𝑒𝓋𝑒𝓇𝓎𝒷𝑜𝒹𝓎
+      Detroit Drama Lash Artist @therealnoal Click “BOOK NOW” ⬇️ For Appointments I DO NOT TEACH VOLUME STAY HOME 🏠💕
     location: "United States"
-    followers: 32676
-    engagement: 310
-    commentsToLikes: 0.030527
-    id: ck8sxf0emh5s40j78hce8tuqa
+    followers: 6831
+    engagement: 547
+    commentsToLikes: 0.038938
+    id: ckaos6t91qclt0i789ber51io
     verified: false
-    hashtags: "#fashion, #atlantamodels, #blonde, #ovmefiller"
-  - username: "kanobipollard"
+    hashtags: "#lashlife, #detroithair, #chicagolashes, #lashtech"
+  - username: "style_on_with_chelsi"
     fullname: >-
-      Atlanta Photographer
+      CHELSI | Atlanta Blogger
     bio: >-
-      #Atlanta-based storyteller, inspiring creative entrepreneurs to build their dream aesthetic. Campaigns • Personal Branding • Editorials ⇣BOOK ME⇣
+      Fashion👛 Travel✈️ 🎦Vlogs💄beauty 📍 Atlanta , USA 🇺🇲 👩‍🎓 Marist College Collab 💌 mailtochelsi@gmail.com Watch my YouTube videos 👇
     location: "United States"
-    followers: 2485
-    engagement: 1231
-    commentsToLikes: 0.150570
-    id: ck5cbxwqjgd470i11i5s1dm1g
+    followers: 4644
+    engagement: 1319
+    commentsToLikes: 0.323823
+    id: ck8tadrkprcli0j78kuu9cifg
     verified: false
-    hashtags: "#blacklove, #sisterlocks, #atlphotographer, #photographer"
-  - username: "braidsbykamesha"
+    hashtags: "#reelsviralvideo, #fashionbloggers, #styleblogger, #atlantablogger"
+  - username: "anilasajja"
     fullname: >-
-      Ka’Mesha Cathcart
+      ANILA SAJJA | Atlanta Blogger
     bio: >-
-      ALL PHOTOS ARE MY WORK... 13+ to book ( no young children) I DO NOT USE FLAT IRONS 📍Dallas Texas
+      Official Cast Member of BravoTV’s Married to Medicine #married2med 📺 @bravotv Fashion|Lifestyle|Beauty|🧿 #AtlantaBlogger 📧peplumnbubblegum@gmail.com
     location: "United States"
-    followers: 20203
-    engagement: 1302
-    commentsToLikes: 0.024172
-    id: ck15pc7izx5gk0i19c1oz3noz
+    followers: 73923
+    engagement: 298
+    commentsToLikes: 0.042385
+    id: ck13bqo5uwpos0i19mlv91rbm
     verified: false
-    hashtags: "#boxbraids, #cornrowstyles, #tuck, #chicagobraids"
-  - username: "wstco"
+    hashtags: "#styleinspo, #married2medicine, #beautyblogger, #atlblogger"
+  - username: "jadacook"
     fullname: >-
-      TATYANA WSTCO
+      jada
     bio: >-
-      Busy•✘ YouTube:Beauty/Fashion •Atlanta ⓔ•Tatyanawstco@gmail.com
+      🧿 atlanta beauty & lifestyle ✉️| jadascook@gmail.com
     location: "United States"
-    followers: 140799
-    engagement: 349
-    commentsToLikes: 0.009773
-    id: ck8sxr40gictq0j78f2pjw9dr
+    followers: 2642
+    engagement: 1687
+    commentsToLikes: 0.076588
+    id: ck6ugadet1ue40j71mgn10m6z
     verified: false
-    hashtags: ""
+    hashtags: "#outfit, #grwmmakeup, #beauty, #meritbeauty"
 ---

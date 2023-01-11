@@ -1,57 +1,57 @@
 ---
-title: Top 10 Models Instagram Influencers In Dallas In 2022
+title: Top 10 Models Instagram Influencers In Dallas In 2023
 description: >-
-  Find top models Instagram influencers in Dallas in 2022. Most popular hashtags: #model #beauty #fashion.
+  Find top models Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #fashion #model.
 platform: Instagram
-hits: 222
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 222 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 218
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 218 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "tamie_lawson"
+  - username: "melaniesanroman"
     fullname: >-
-      𝒯𝒶𝓂𝒾𝑒 𝐿𝒶𝓌𝓈𝑜𝓃
+      Melanie San Roman WBFF PRO
     bio: >-
-      𝘋𝘢𝘭𝘭𝘢𝘴 𝘛𝘟 📍 𝘉𝘦𝘢𝘶𝘵𝘺.𝘔𝘰𝘥𝘦𝘭.𝘍𝘢𝘴𝘩𝘪𝘰𝘯.𝘌𝘯𝘵𝘳𝘦𝘱𝘳𝘦𝘯𝘦𝘶𝘳 𝘍𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘪𝘯𝘲𝘶𝘪𝘳𝘦𝘥. 𝘵𝘢𝘮𝘪𝘦𝘭𝘢𝘸𝘴𝘰𝘯2468@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 𝘍𝘰𝘶𝘯𝘥 @nanitaboutique @model_tamielawson @tamieartwork
+      WBFF Bikini Model Pro 🥇 Playboy May 2020 @playboymagsweden Big Heart, Bigger Dreams 💕 Dm me for booking rates: paid shoots only 🌟 Dallas, Texas
     location: "United States"
-    followers: 32565
-    engagement: 185
-    commentsToLikes: 0.022678
-    id: ck5bzbosbqtwi0i11olbz3yiy
+    followers: 20103
+    engagement: 532
+    commentsToLikes: 0.065523
+    id: ck5c3g3lrz9730i11v1bdgis4
     verified: false
-    hashtags: "#lookoftheday, #beautybloggers, #fashionstyle, #fashionmodel"
-  - username: "jaxkieezz"
+    hashtags: "#lingeriemodel, #february, #valentines, #wbffpro"
+  - username: "bybxev"
     fullname: >-
-      Arlington Tx📍
+      
     bio: >-
-      A strong women accepts both compliments and criticism graciously, knowing that it takes both sun and rain for a flower to grow...🦋
+      CD / Photographer more+textúras @elevaeted ESOM. @elevaetedradio
     location: "United States"
-    followers: 23644
-    engagement: 1298
-    commentsToLikes: 0.019734
-    id: ck6u4gvil3nal0j71co7p7de2
+    followers: 3008
+    engagement: 779
+    commentsToLikes: 0.071935
+    id: ck5c35r2wyngt0i11wv8k4uj9
     verified: false
-    hashtags: "#austintexas, #maskon, #model, #dallasfw"
+    hashtags: "#fatalframes, #fashion, #folkgood, #igmasters"
   - username: "mirandaxsasha"
     fullname: >-
       𝙈𝙄𝙍𝘼𝙉𝘿𝘼 𝙎𝘼𝙎𝙃𝘼| MODEL| Dallas
     bio: >-
-      Dallas, TX • 📍Montego Bay, JA MANAGED BY: @big_escada_ OWNER OF: @shopklassi FOLLOW & BOOK @beautyxsashaa 💎 #DallasModel
+      Dallas, TX •📍Montego Bay, JA Licensed esthetician GET WAXED @beautyxsashaa MANAGED BY: @big_escada_ OWNER OF: @shopklassi Book Now 🦋 #DallasModel
     location: "United States"
-    followers: 21115
-    engagement: 251
-    commentsToLikes: 0.052955
+    followers: 21093
+    engagement: 247
+    commentsToLikes: 0.055092
     id: ck5c4ub5z24ex0i116ld2lx5a
     verified: false
-    hashtags: "#creativeprocess, #likeforlikes, #photo, #happy"
+    hashtags: "#style, #beautyshoot, #curlyhair, #editorial"
   - username: "llil.yas"
     fullname: >-
       yasmeen nicole
     bio: >-
-      Dallas Model Email Me For Booking 600,000+ subs on YT 🎥 snap: chickacurls twitter: yasmeennikole YouTube
+      Dallas Model Email Me For Booking 600,000+ subs on YT 🎥 snap: chickacurls twitter: yasmeennikole YouTube #yassygoons
     location: "United States"
-    followers: 1265331
+    followers: 1222566
     engagement: 854
-    commentsToLikes: 0.007770
+    commentsToLikes: 0.005648
     id: ck0ttbug521f20i19uu4xvruk
     verified: false
     hashtags: ""
@@ -61,70 +61,70 @@ profiles:
     bio: >-
       Kyra. 26. Black Queen✊🏾👑 Born in Miami. Chicago in My Blood. Residing in Dallas. Model. Mother to a Princess #CZH #10ten 🌻🍼💕
     location: "United States"
-    followers: 9066
-    engagement: 646
-    commentsToLikes: 0.062192
+    followers: 8685
+    engagement: 414
+    commentsToLikes: 0.043024
     id: ck5qe6iytyylb0i11omguapc3
     verified: false
-    hashtags: "#1010, #westcoastmeetsmiamidade, #dontrushchallenge, #tenten"
-  - username: "susanaojedaa"
+    hashtags: "#princessczh, #bouttomakeheraig, #upanditsstuck, #family"
+  - username: "924photography"
     fullname: >-
-      Susana Ojeda West 🇻🇪🇺🇸
+      Keydrin Keylo Franklin
     bio: >-
-      Healthy Life - Fitness - Cooking👩🏽‍🍳🌱 Model📸 Actress🎬 📍Dallas, TX 📩susanaojedawest@gmail.com
+      📸 𝚈𝚘𝚞𝚃𝚞𝚋𝚎𝚛 | 𝙿𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚎𝚛 📍 𝙵𝚘𝚛𝚝 𝚆𝚘𝚛𝚝𝚑, 𝚃𝚇 😈 𝙲𝚊𝚛 𝙰𝚌𝚌𝚘𝚞𝚗𝚝: @924_with_a_hemi 📢 𝙻𝙴𝙰𝚁𝙽 𝙷𝙾𝚆 𝙸 𝙲𝙾𝙻𝙾𝚁 𝙶𝚁𝙰𝙳𝙴 𝙷𝙴𝚁𝙴
     location: "United States"
-    followers: 14252
-    engagement: 659
-    commentsToLikes: 0.072255
-    id: ck8sxovdei4os0j78xrt9j44s
+    followers: 109530
+    engagement: 367
+    commentsToLikes: 0.031195
+    id: ck5byuwtbpw9m0i11tp2mq5c8
     verified: false
-    hashtags: "#siswimsearch2022, #dallas, #model, #photography"
-  - username: "thecheydawn"
+    hashtags: "#fwcamera, #924photography, #sigma85mmdgdn, #sonyalpha"
+  - username: "cassimonae"
     fullname: >-
-      Chey Dawn
+      𝓒𝓪𝓼𝓼𝓲 𝓜𝓸𝓷𝓪𝓮
     bio: >-
-      • Model, photographer, & co owner of @lunadawncreative (DM TO BOOK) • • BLM 🖤 North TX 🌈 • •photos : @cheydawnphotog
+      Dallas, TX 📍 📷 Published Model 👻Snapchat: cassimonae1 💌 Email for booking +rates (collabs) cassi.monae@yahoo.com or DM
     location: "United States"
-    followers: 9719
-    engagement: 627
-    commentsToLikes: 0.167812
-    id: ck5qdqa7rwt3e0i11bltc53rf
+    followers: 5923
+    engagement: 1006
+    commentsToLikes: 0.039780
+    id: ck5hocasspbc40i115patezsl
     verified: false
-    hashtags: "#likeforfollow, #photoshoot, #fortworthphotographer, #abandonedtexas"
-  - username: "sterlingstumphauzer"
+    hashtags: "#explorepage, #likesforlike, #model, #fashionnovababe"
+  - username: "anactingangel"
     fullname: >-
-      🕷Sterling Stumphauzer🕷
+      Angel
     bio: >-
-      16 @mtaagency @dv8_the_company @tigerfriday #TIGRTRIBE ⚡️ @dancewearsolutions model Reverence dance model SIO ambassador
+      The organized, non-shitposting social media account for @angelinaduplisea
     location: "United States"
-    followers: 7929
-    engagement: 778
-    commentsToLikes: 0.261766
-    id: ck5zq9q5eu79d0i14nbo6yro2
+    followers: 1253
+    engagement: 2344
+    commentsToLikes: 0.024632
+    id: ck13clp7s0yhn0i19ll1tanq0
     verified: false
-    hashtags: "#ad, #dancesnzmagazine, #tigerfriday, #exploremore"
-  - username: "thestyleride"
+    hashtags: "#dallasphotographer, #model, #repost, #mattblum"
+  - username: "inked.exclusives"
     fullname: >-
-      M Λ Η I
+      
     bio: >-
-      Mom | Fashion | Beauty | Travel | YouTuber Email Me 📨- thestyleride@gmail.com 📍Dallas TX 🇺🇸 FB👤 | Snapchat👻 | twitter🐦: @thestyleride Blog👩🏼‍💻👇
+      Representing inked talent, artists & models! #inkedexclusives || Premium content below! 💥 ||
     location: "United States"
-    followers: 110185
-    engagement: 162
-    commentsToLikes: 0.114484
-    id: ck5q9cqi1ag5l0i11frmsb2u9
+    followers: 32244
+    engagement: 49
+    commentsToLikes: 0.026088
+    id: ck5cffuv2mvc10i116l0bvdiq
     verified: false
-    hashtags: "#miamibloggers, #aidanmattox, #luxuryblogger, #myapmoment"
-  - username: "amyachanel"
+    hashtags: "#pursuitofportraits, #uncensored, #fashion, #fitmodels"
+  - username: "tatti.thebody"
     fullname: >-
-      AMYACHANEL🦋
+      Tatti ♥️
     bio: >-
-      Entertainer/choreographer💜 Freelance Model Email for collaborations and partnerships✨ SUBSCRIBE to my channel‼️
+      JXN ➡️ DTX 📍 Girl mom 👶🏽👧🏿👧🏽 @securethebodyllc 🛍
     location: "United States"
-    followers: 11980
-    engagement: 781
-    commentsToLikes: 0.078356
-    id: ck8swjyv9ecco0j78n5epipc9
+    followers: 23497
+    engagement: 493
+    commentsToLikes: 0.036073
+    id: ck8t85h6qj6cw0j78quegnws1
     verified: false
-    hashtags: "#beauty, #fashion, #health, #fashionnova"
+    hashtags: "#fashion, #boutiqueclothing, #instafashion, #womensfashion"
 ---

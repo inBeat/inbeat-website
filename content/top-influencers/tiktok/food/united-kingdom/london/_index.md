@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In London In 2022
+title: Top 10 Food TikTok Influencers In London In 2023
 description: >-
-  Find top food TikTok influencers in London in 2022. Most popular hashtags: #fyp #london #food #uk.
+  Find top food TikTok influencers in London in 2023. Most popular hashtags: #london #fyp #food #viral.
 platform: TikTok
-hits: 126
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 126 TikTok influencers like this in London, United Kingdom for you to connect with.
+hits: 110
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 110 TikTok influencers like this in London, United Kingdom for you to collaborate.
 profiles:
   - username: "londonseen_"
     fullname: >-
       س
     bio: >-
-      instead of stalking me everyday, just follow me 🤷🏻‍♀️
+      
     location: "United Kingdom"
-    followers: 16900
-    engagement: 1135
-    commentsToLikes: 0.018979
+    followers: 31600
+    engagement: 1104
+    commentsToLikes: 0.018634
     id: ckb9k063dbpfb0j23r6felqa3
     verified: false
-    hashtags: "#food, #londonlife, #firstdate, #halal"
-  - username: "chelseapledge"
+    hashtags: "#halalfoodlondon, #london, #christmas2020, #foodblogger"
+  - username: "tamxnnaaa"
     fullname: >-
-      Chelsea Pledge
+      T 🕊
     bio: >-
-      21 Trying to get a degree whilst getting Tik Tok famous Insta: @chelseapledge
+      Peace + Love ♥️ Do not repost 🙏🏼
     location: "United Kingdom"
-    followers: 3495
-    engagement: 936
-    commentsToLikes: 0.026319
-    id: ckb99jnuktw720j23tkhwtjr2
+    followers: 53800
+    engagement: 1274
+    commentsToLikes: 0.013228
+    id: ck8kf6onect050j78i5gwuxbi
     verified: false
-    hashtags: "#fyp, #duet, #foryoupage, #ukuni"
-  - username: "stazzylicious"
+    hashtags: "#bidai, #xyzbca, #rukhsati, #xzybca"
+  - username: "runthemjewels"
     fullname: >-
-      Anastazia
+      Run them jewels
     bio: >-
-      no❤️
+      When I feel like it
     location: "United Kingdom"
-    followers: 13600
+    followers: 29900
+    engagement: 1085
+    commentsToLikes: 0.007004
+    id: ckcdgnwxn76bl0j23kf50m4ys
+    verified: false
+    hashtags: "#comedy, #xyzbca, #fyp, #chain"
+  - username: "tahsincooks"
+    fullname: >-
+      tahsincooks
+    bio: >-
+      21 ☁️ N London 🇬🇧
+    location: "United Kingdom"
+    followers: 17700
+    engagement: 928
+    commentsToLikes: 0.048808
+    id: ckdncq5kbgq0o0j23mmae270k
+    verified: false
+    hashtags: "#easy, #food, #grubspot, #london"
+  - username: "monikasimla"
+    fullname: >-
+      Monika Simla
+    bio: >-
+      London Follow me on Instagram: ninja_foodi
+    location: "United Kingdom"
+    followers: 7874
+    engagement: 372
+    commentsToLikes: 0.020428
+    id: cka0rgla7h0p20i78m2uvqv8k
+    verified: false
+    hashtags: "#dessert, #supercar, #cooking, #tasty"
+  - username: "elias1.o"
+    fullname: >-
+      Elias hoyek
+    bio: >-
+      Species:HUMAN Mcdeltatheta=energyrequiredtoheatonekiloofasubstancebyonekelvin
+    location: "United Kingdom"
+    followers: 23700
     engagement: 872
-    commentsToLikes: 0.013214
-    id: ckdbuyb7sddqc0j236xq07ceg
+    commentsToLikes: 0.072299
+    id: ckb0px50afr1g0j23bb94x9gx
     verified: false
-    hashtags: "#makeup, #countryside, #whatieatinaday, #christmas"
-  - username: "thelittlelondonvegan"
+    hashtags: "#marvel, #mindset, #exams2021, #fifa21packs"
+  - username: "hispassport"
     fullname: >-
-      thelittlelondonvegan
+      Han Zhao
     bio: >-
-      🍔Food blogger & restaurant reviewer 📸104k IG @thelittlelondonvegan
+      London 🏳️‍🌈 Instagram: @hispassport
     location: "United Kingdom"
-    followers: 7659
-    engagement: 777
-    commentsToLikes: 0.052864
-    id: ckd0z2veoljnk0j23lmmwb23w
+    followers: 3759
+    engagement: 1034
+    commentsToLikes: 0.029777
+    id: ckbkuldtwpr100j23o0bpu8iz
     verified: false
-    hashtags: "#vegantok, #foodlover, #vegansoftiktok, #veganssupportingvegans"
-  - username: "iamtanzii"
+    hashtags: "#fypage, #catbug, #kitty, #london"
+  - username: "maaaa_digger"
     fullname: >-
-      Tanz
+      Maaaa_Digger
     bio: >-
-      Just for fun || foodieoftictok || makeup || crafts || YouTube&Insta attached x
+      🚨 Get A Grip Mate 🚨
     location: "United Kingdom"
-    followers: 6266
-    engagement: 589
-    commentsToLikes: 0.026422
-    id: ckd100e42lvd50j230wqyybeo
+    followers: 5441
+    engagement: 271
+    commentsToLikes: 0.058788
+    id: ckcdeyhxg6dp20j23qux72n45
     verified: false
-    hashtags: "#trending, #dayout, #thingstodo, #fyp"
-  - username: "mahwish_lashari"
+    hashtags: "#animals, #foryoupage, #happy, #love"
+  - username: "dasssubramaniam"
     fullname: >-
-      Mahwish Lashari
+      Dass Subramaniam
     bio: >-
-      📍London • Artist 🎨 IG: @mahwish_lashari 👻: lal_hatheli
+      "live with passion, live musical.ly"
     location: "United Kingdom"
-    followers: 15200
-    engagement: 917
-    commentsToLikes: 0.031140
-    id: ck8adcoa455zp0j78v0nlcrsu
+    followers: 2172
+    engagement: 803
+    commentsToLikes: 0.045889
+    id: ckdhuwuuj3ky30j23e4x4n88j
     verified: false
-    hashtags: "#artist, #fy, #recipe, #foryoupage"
+    hashtags: "#tiktoktraditions, #winter, #homecooking, #love"
   - username: "catchfiftytwo"
     fullname: >-
       Em - catchfiftytwo
     bio: >-
-      CEO aka Chief Eating Officer Food & Travel Photographer / Blogger 🇬🇧 London
+      CEO - Chief Eating Officer Food & Travel Photographer UK | Dogmama @lord.falcor
     location: "United Kingdom"
-    followers: 4411
-    engagement: 500
-    commentsToLikes: 0.031208
+    followers: 4371
+    engagement: 483
+    commentsToLikes: 0.030880
     id: cka0xdnq16oq70i78kd4tb1cl
     verified: false
-    hashtags: "#taipei, #foodphotographer, #foodblog, #foodie"
-  - username: "thesanashiraz"
-    fullname: >-
-      Sana Shiraz
-    bio: >-
-      Just for fun Beauty & Style Blogger. Insta @thesanashiraz
-    location: "United Kingdom"
-    followers: 2709
-    engagement: 478
-    commentsToLikes: 0.045399
-    id: ckc8hnqprbkq30j2364s3bzyr
-    verified: false
-    hashtags: "#fyp, #powerofmakeup, #kuwk, #uk"
-  - username: "nicetokyouvegot"
-    fullname: >-
-      nicetokyouvegot
-    bio: >-
-      Mountains & Memes.
-    location: "United Kingdom"
-    followers: 7681
-    engagement: 542
-    commentsToLikes: 0.036683
-    id: cka6etxj7d3c70i786xjeaxls
-    verified: false
-    hashtags: "#music, #movie, #lockdown, #ukcomedy"
-  - username: "renren__"
-    fullname: >-
-      RenTalks🥺🌈
-    bio: >-
-      🏳️‍🌈🏳️‍🌈 London 🇬🇧 20 FOLLOW MY INSTAGRAM⬆️ 🎥YouTube ⬆️
-    location: "United Kingdom"
-    followers: 137200
-    engagement: 1653
-    commentsToLikes: 0.018458
-    id: ckavk8866t4570j2333w7ztof
-    verified: false
-    hashtags: "#foryou, #duet, #rentalks, #viral"
+    hashtags: "#desserts, #foodblogger, #londonblogger, #foodphotographer"
 ---

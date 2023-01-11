@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Osaka In 2022
+title: Top 10 Health Instagram Influencers In Osaka In 2023
 description: >-
-  Find top health Instagram influencers in Osaka in 2022. Most popular hashtags: #fashion #beauty #osaka.
+  Find top health Instagram influencers in Osaka in 2023. Most popular hashtags: #pr #instafashion #ootd.
 platform: Instagram
-hits: 6
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 6 Instagram influencers like this in Osaka, Japan for you to work with.
+hits: 4
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 4 Instagram influencers like this in Osaka, Japan for you to contact.
 profiles:
-  - username: "mamiset"
+  - username: "__nnm09"
     fullname: >-
-      瀬戸 麻実　セトマミ
+      n a n a m i
     bio: >-
-      🇯🇵 美容家 色×形×質感で無限大の #マミ様メイク #メイクアップのための色彩学 マミ様メイク書籍大人気爆走中📚
+      𓂃 osaka𓂃 cafe巡り 𖠚𓂃洋服𓍯
     location: "Japan"
-    followers: 83148
-    engagement: 157
-    commentsToLikes: 0.009347
-    id: ck0vwpyj1v0at0i19lj9aw76z
-    verified: true
-    hashtags: "#makeup, #cosmetics, #tokyo, #beauty"
+    followers: 26588
+    engagement: 388
+    commentsToLikes: 0.002033
+    id: ck15qqovh46ri0i1994uowwk2
+    verified: false
+    hashtags: "#l4l, #lawgy, #fff, #instagood"
   - username: "shin_kuroobisan"
     fullname: >-
       黒帯さん^ ^
     bio: >-
-      model•influencer料理研究家賃貸マンション経営空手•グルメ•ビューティーの黒帯が目標横浜ベイシェラトンスーパーフード料理監修食べログGooglemapRetty人気ブロガーとしてTV出演 @woomy.me @woomy.beauty @woomy.restaurant
+      空手・グルメ・美容の黒帯が目標!料理研究家・横浜ベイシェラトンスーパーフード料理監修・食べログGooglemapRetty人気インフルエンサーとしてTV出演・マンション経営・model・influencer コーデウーミー⇒@woomy.me 0145
     location: "Japan"
-    followers: 62427
-    engagement: 256
-    commentsToLikes: 0.022602
+    followers: 61441
+    engagement: 242
+    commentsToLikes: 0.018178
     id: ck14gn8qo62a00i19x842erjn
     verified: false
-    hashtags: "#pr, #onsen, #hello100, #canon"
-  - username: "hami0519"
+    hashtags: "#fujimi, #afternoontea, #tokyo, #beyondsosho"
+  - username: "tamaki_iam"
     fullname: >-
-      岩永ハミ
+      🌗
     bio: >-
-      osaka/freelance 👑@famys123 🐶@coromo0810
+      
     location: "Japan"
-    followers: 12839
-    engagement: 417
-    commentsToLikes: 0.064168
-    id: ck55kdin6z2gq0i110pwbslzk
+    followers: 51367
+    engagement: 129
+    commentsToLikes: 0.069006
+    id: ckap0irauqh3y0i78pep1vi8p
     verified: false
-    hashtags: "#pr, #bouquet, #code, #knit"
-  - username: "tokuayu819"
-    fullname: >-
-      得あゆ( 得丸あゆみ)
-    bio: >-
-      KADOKAWAから写真集『得あゆ』12/16発売決定🔥 特設サイト出来ました🔥Amazon予約特典あり🔥 最初で最後の写真集命がけで撮影したぞ🔥 @neome_life @anakiss.official @girlytokyo プロデュース🔥 富山産⛰→TOKYO🗼170cm
-    location: "Japan"
-    followers: 269289
-    engagement: 166
-    commentsToLikes: 0.016677
-    id: ck5hlpy3akmwb0i11ta0xweq7
-    verified: false
-    hashtags: "#universalstudiosjapan, #halloweencostume, #osaka, #autumnleaves"
-  - username: "yukico_twingram"
+    hashtags: "#ootd, #pr, #cat, #todayscode"
+  - username: "yukicolifecom"
     fullname: >-
       𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
     bio: >-
-      💌 グルメ取材・商品撮影依頼はDMへ 📷 𝑙𝑒𝑠𝑠𝑜𝑛 フォトレッスン @zeniya_juku 💋 𝑏𝑒𝑎𝑢𝑡𝑦 コスメ美容はストーリーにて 🌐 𝑡𝑟𝑎𝑣𝑒𝑙 旅記事 @tabimuse 🍽 𝑓𝑜𝑜𝑑 𝑤𝑟𝑖𝑡𝑒𝑟 @dessanew 🥄公式 @kyoto_parfait
+      撮影｜月1フォトレッスン📩｜Googleローカルガイド スイーツ｜グルメ｜おうちごはん｜ファッション｜旅 💋 コスメ美容はストーリー 🧥 ファッションは楽天ROOM
     location: "Japan"
-    followers: 40880
-    engagement: 156
-    commentsToLikes: 0.007244
+    followers: 45433
+    engagement: 162
+    commentsToLikes: 0.006353
     id: ck0w6lg5c950l0i19ivtszcm3
     verified: false
-    hashtags: "#instacafe, #flower, #phonto, #winter"
-  - username: "pakio999"
+    hashtags: "#livethelittlethings, #flowerpower, #still, #love"
+  - username: "gabrielasage"
     fullname: >-
-      アリー（パキ男）
+      Gabby Sage Masuda
     bio: >-
-      japan🇯🇵×pakistan🇵🇰 adidas fashion🍁 BITTER読者モデル🍫 team win♪win🐒
+      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
     location: "Japan"
-    followers: 12456
-    engagement: 358
-    commentsToLikes: 0.043725
-    id: ckap63hnhe8cz0i78hmj171rg
+    followers: 25194
+    engagement: 344
+    commentsToLikes: 0.029850
+    id: ck14jntl0lafx0i19ix71idmh
     verified: false
-    hashtags: "#beauty, #adidas, #me, #macaron"
+    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
   - username: "xobearhugs"
     fullname: >-
       🐻🌱🌸💕
     bio: >-
-      🌴 Currently in SoCal 🌴 ~ Made in Hawaii ~ ~ Healthy Living ~ ~ Japanese Hawaiian German ~
+      🌴 Currently in SoCal 🌴 ~ Made in Hawaii ~ ~ Healthy Living ~ ~ Japanese Chinese Hawaiian German ~
     location: "Japan"
-    followers: 124226
-    engagement: 1003
-    commentsToLikes: 0.023055
+    followers: 130293
+    engagement: 597
+    commentsToLikes: 0.034146
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
     hashtags: ""
+  - username: "taylor_lovee"
+    fullname: >-
+      TAYLOR LOVE |Love Inside & Out
+    bio: >-
+      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
+    location: "Japan"
+    followers: 117005
+    engagement: 204
+    commentsToLikes: 0.040832
+    id: ck0w2og84peih0i19iayfjkxx
+    verified: false
+    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
   - username: "kuuu.kumiko"
     fullname: >-
       Kumiko Suzuki  鈴木久美子
     bio: >-
-      #fashion#beauty#health #lifestyle#foods #naturalbeauty #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ☆Freelance model☆ 経歴…第8回美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
+      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
     location: "Japan"
-    followers: 39244
-    engagement: 321
-    commentsToLikes: 0.044874
+    followers: 41897
+    engagement: 316
+    commentsToLikes: 0.032118
     id: ckap4ky277r6y0i78yzmchql7
     verified: false
-    hashtags: "#fashion, #happybirthday, #yummy, #recommend"
-  - username: "xlindabaex"
+    hashtags: "#lifestyle, #fashion, #beautiful, #health"
+  - username: "daianaanghel"
     fullname: >-
-      你的星際寶貝🌙雷達達
+      DAIANA Anghel
     bio: >-
-      French & Japanese/ born in Taiwan. Healthy energy geek🥦🥕🤓 - 日法混血but台灣出生 在集體意識旅遊中🌙 物質世界阻礙雖大 卻不會改變我們是”一”的真相 🌍🧚‍♀️ - 只來地球玩一下下 倡導集體意識覺醒🧘🏾‍♀️ 你知道我愛你吧？ -
+      • Communication & Brand Strategy • Skincare Advisor • Elle New Media Awards 2020 winner 🏆- Beauty & Health
     location: "Japan"
-    followers: 78157
-    engagement: 757
-    commentsToLikes: 0.007717
-    id: ckap3gdnl2wee0i785wpl4fj0
-    verified: true
-    hashtags: "#cb300r, #homeinktw, #suzukisaluto125, #garminrun"
-  - username: "winson.champa"
-    fullname: >-
-      Win Champ
-    bio: >-
-      Healthy living is my lifestyle 🏋🏻‍♂️
-    location: "Japan"
-    followers: 19095
-    engagement: 477
-    commentsToLikes: 0.015960
-    id: ckf5ocz591ron0j23zoxjikb3
+    followers: 199705
+    engagement: 515
+    commentsToLikes: 0.006491
+    id: ck5bzyq7ss3jf0i110q4wly88
     verified: false
-    hashtags: "#loveyou, #lala, #thinking, #dalat"
+    hashtags: "#toplineromania, #ad, #makelifebetterathome, #skincarefirst"
+  - username: "moeoshikiri"
+    fullname: >-
+      Moe Oshikiri.   押切もえ
+    bio: >-
+      モデル・文筆家 お仕事のご依頼は所属事務所（株）pearl へお願いします。 Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
+    location: "Japan"
+    followers: 109708
+    engagement: 174
+    commentsToLikes: 0.022739
+    id: ck0vzceq68ep60i19638qqorb
+    verified: true
+    hashtags: "#cosmetics, #flowers, #organic, #sawai"
 ---

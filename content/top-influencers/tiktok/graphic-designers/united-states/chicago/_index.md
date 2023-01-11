@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Chicago In 2022
+title: Top 10 Graphic-Designers TikTok Influencers In Chicago In 2023
 description: >-
-  Find top graphic-designers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #graphicdesign #halloween #duet.
+  Find top graphic-designers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #chicago.
 platform: TikTok
-hits: 4
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat has 4 TikTok influencers like this in Chicago, United States for you to connect with.
+hits: 9
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 9 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
-  - username: "rockyy____"
-    fullname: >-
-      Raquelita
-    bio: >-
-      Chicago. 26. Hairstylist IG @rockyy____ @raquelschair_ ✊🏿✊🏽✊🏼
-    location: "United States"
-    followers: 5282
-    engagement: 443
-    commentsToLikes: 0.033058
-    id: ckcumx3t7ht610j23kcomkwvq
-    verified: false
-    hashtags: "#fyp, #diy, #funny, #laceemup"
   - username: "tylerissoepic"
     fullname: >-
       tylerissoepic
     bio: >-
       Graphic Designer Wallpapers On My Instagram: @tylerissoepic Comment Requests!
     location: "United States"
-    followers: 3124
-    engagement: 1549
-    commentsToLikes: 0.076477
+    followers: 3289
+    engagement: 869
+    commentsToLikes: 0.085192
     id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#rappers, #micellarrewind, #meleaving, #tiktokfood"
-  - username: "jranaephotography"
+    hashtags: "#art, #xxl, #micellarrewind, #fyp"
+  - username: "nehmeh.designs"
     fullname: >-
-      Jeena Metzger
+      Hussein Nehmeh
     bio: >-
-      • Peyton & Titan 🐕🐕 • Boudoir photographer in CO & soon SD/IA! OF: @jeenam
+      Graphic Designer 👨🏻‍💻 For edits & tutorials, check out @Nehmeh.designs IG
     location: "United States"
-    followers: 15700
-    engagement: 881
-    commentsToLikes: 0.107146
-    id: ckbw9tqmizw080j23skaam5cs
+    followers: 7798
+    engagement: 1119
+    commentsToLikes: 0.059236
+    id: ckdbvw2dtdqhg0j2376woz702
     verified: false
-    hashtags: "#confidence, #boudoirphotographer, #cna, #bringtheheat"
-  - username: "saintkenneth"
+    hashtags: "#sports, #marvel, #xyzbca, #art"
+  - username: "abandonedexplosquad"
     fullname: >-
-      saintkenneth
+      Darick
     bio: >-
-      Master of Divinity a voice calling out in the wilderness
+      Adventurer and treasure hunter
     location: "United States"
-    followers: 110900
-    engagement: 2221
-    commentsToLikes: 0.061511
-    id: cka0qshlpdy6c0i78y3ibmb2c
+    followers: 180300
+    engagement: 1058
+    commentsToLikes: 0.012946
+    id: ck83zfln70bx70j78spzgm5pl
     verified: false
-    hashtags: "#god, #loveyourself, #bible, #christian"
-  - username: "themagecat"
+    hashtags: "#viral, #money, #foryou, #night"
+  - username: "keej_sheldon"
     fullname: >-
-      The Mage Cat
+      kjsheldon.co
     bio: >-
-      Graphic designer, artist, and cat lady 🐱🔮🌿 I’m a resin witch.
+      Professional tap dancer. Professional goofball. Chicago. 23
     location: "United States"
-    followers: 52300
-    engagement: 2269
-    commentsToLikes: 0.038114
-    id: ckai8v1hn5shg0i78p3tanl7v
+    followers: 8873
+    engagement: 1611
+    commentsToLikes: 0.022924
+    id: ckb9bzdrtygql0j236sxfvbsg
     verified: false
-    hashtags: "#boo, #ghostmode, #halloween, #redbulldanceyourstyle"
-  - username: "tylerissoepic"
+    hashtags: "#tapdancer, #foryou, #chicago, #fyp"
+  - username: "luisauceee"
     fullname: >-
-      tylerissoepic
+      Luisauceee
     bio: >-
-      Graphic Designer Wallpapers On My Instagram: @tylerissoepic Comment Requests!
+      Like it up ⬇️⬇️⬇️ Road to 40k 🤩 Chicago 🌃
     location: "United States"
-    followers: 3124
-    engagement: 1549
-    commentsToLikes: 0.076477
-    id: ckav2llyn8qqk0j23vqbjckl5
+    followers: 33800
+    engagement: 1433
+    commentsToLikes: 0.021847
+    id: ckcdkeod399nh0j23zzrxjwdj
     verified: false
-    hashtags: "#rappers, #micellarrewind, #meleaving, #tiktokfood"
-  - username: "cami.creative"
+    hashtags: "#crazy, #sad, #fyp, #viral"
+  - username: "_olivia_mancuso_"
     fullname: >-
-      ˗ˏˋ cami ˊˎ˗
+      _olivia_mancuso_
     bio: >-
-      graphic designer 〰️ order a name logo on my Etsy (limited slots available!)
+      ig: _olivia_mancuso_ Chicago #BLM
     location: "United States"
-    followers: 392000
-    engagement: 1742
-    commentsToLikes: 0.496003
-    id: ckcdncl27aodn0j233fe0wrft
+    followers: 33400
+    engagement: 605
+    commentsToLikes: 0.025407
+    id: ckacmz94els0y0i7824urrqj4
     verified: false
-    hashtags: "#namelogochallenge, #typography, #fyp, #logo"
-  - username: "lettersandlettering"
+    hashtags: "#foryou, #foryourpage, #greenscreenvideo, #fyp"
+  - username: "robnbanx"
     fullname: >-
-      lettersandlettering
+      riboflvn80.rg
     bio: >-
-      🖊🖍✨✒️✏️ lauren elise graphic designer by day hand letterer by night
+      Chicagogirl🌈RIARIDER🌈#spreadlovenothate NotHereForDrama
     location: "United States"
-    followers: 382800
-    engagement: 1736
-    commentsToLikes: 0.028807
-    id: ckdc3s1vrgi3m0j23sjmn01o9
+    followers: 19600
+    engagement: 690
+    commentsToLikes: 0.047780
+    id: ckbkg6c6f7g0z0j23j51l3sbc
     verified: false
-    hashtags: "#fyp, #stationery, #ecoline, #handlettering"
+    hashtags: "#duet, #fyp, #eminem, #robnbanx"
+  - username: "ben.yale_03"
+    fullname: >-
+      Ben.yale_03
+    bio: >-
+      16| IL Insta:ben_yale_03 🇮🇹🇮🇹🇮🇹 6k? Venmo: Ben-Yale-1
+    location: "United States"
+    followers: 5140
+    engagement: 1505
+    commentsToLikes: 0.085682
+    id: ckbl0v7xaxnf80j23gutaxx9x
+    verified: false
+    hashtags: "#xyzbca, #vanscheckerboardday, #fyp, #greenscreen"
+  - username: "dentistryobsession"
+    fullname: >-
+      Mamdouh Yasin
+    bio: >-
+      UofL Dentistry دمي فلسطيني 🩸 🇵🇸 سوريتي هويتي 🇸🇾 ⬇️SYRIA DONATION ⬇️
+    location: "United States"
+    followers: 11000
+    engagement: 1036
+    commentsToLikes: 0.043629
+    id: ck90ty1iluebl0j784hen1fd1
+    verified: false
+    hashtags: "#arab, #xyzabc, #school, #muslim"
   - username: "its_memageek"
     fullname: >-
       Mema
     bio: >-
       I'M NOT FUNNY 😐 Maracucha☀️ •Cosplay 💥 •BodyPaint 🎨 •Graphic Designer 👩‍💻
     location: "United States"
-    followers: 40300
-    engagement: 1702
-    commentsToLikes: 0.055797
+    followers: 43700
+    engagement: 1434
+    commentsToLikes: 0.054845
     id: cka0r8lkgg2790i788r8ilvy2
     verified: false
-    hashtags: "#toycollector, #makeup, #welldone, #cosplaygirl"
-  - username: "denanguyencom"
-    fullname: >-
-      Dena
-    bio: >-
-      Graphic Designer, Digital Artist & Content Creator 🎨
-    location: "United States"
-    followers: 112900
-    engagement: 2165
-    commentsToLikes: 0.016578
-    id: ckamlcpp9vucy0i78gfk037j1
-    verified: false
-    hashtags: "#pridemonth, #designer, #artistsoftiktok, #loveislove"
+    hashtags: "#anime, #mandalorianhelmet, #hellboymakeup, #makeup"
 ---

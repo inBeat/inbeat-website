@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Belgium In 2022
+title: Top 10 Djs Instagram Influencers In Belgium in 2023
 description: >-
-  Find top djs Instagram influencers in Belgium in 2022. Most popular hashtags: #tomorrowland #festival #dance #spinninrecords.
+  Find top djs Instagram influencers in Belgium in 2023. Most popular hashtags: #tomorrowland #festival #dance #spinninrecords.
 platform: Instagram
 hits: 12
 text_top: Analyze the best Instagram profiles on inBeat.

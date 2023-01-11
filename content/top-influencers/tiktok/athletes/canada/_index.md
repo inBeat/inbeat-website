@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Canada In 2022
+title: Top 10 Athletes TikTok Influencers In Canada In 2023
 description: >-
-  Find top athletes TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #fail #fitness.
+  Find top athletes TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #athlete #fitness #workout.
 platform: TikTok
-hits: 70
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 70 TikTok influencers like this in Canada for you to collaborate.
+hits: 71
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 71 TikTok influencers like this in Canada for you to pitch.
 profiles:
+  - username: "jorden_hall"
+    fullname: >-
+      Jorden Hall
+    bio: >-
+      Alphabet mafia Athlete Vancouver 🇨🇦 She/her
+    location: "Canada"
+    followers: 265200
+    engagement: 1765
+    commentsToLikes: 0.016863
+    id: ck964of3qzjoo0j78qxhle0ub
+    verified: false
+    hashtags: "#lgbtq, #lol, #trackstar, #gay"
   - username: "flippinghub"
     fullname: >-
       Flipping Hub
     bio: >-
       The best athletes around the world🌎 DM us or use #flippinghub To be featured!
     location: "Canada"
-    followers: 47600
-    engagement: 1681
-    commentsToLikes: 0.021145
+    followers: 47200
+    engagement: 1672
+    commentsToLikes: 0.020453
     id: ck90r26lkkru00j78u2msje4w
     verified: false
-    hashtags: "#tricking, #flipping, #parkour, #flip"
-  - username: "_mrwoo"
-    fullname: >-
-      Andrew
-    bio: >-
-      🇨🇦🇰🇷💪🤓 MyProtein Athlete - Link below & code WOOMYP for 40% off
-    location: "Canada"
-    followers: 79300
-    engagement: 2018
-    commentsToLikes: 0.019612
-    id: ckb9u7va0ss3r0j23r9z3p1y4
-    verified: false
-    hashtags: "#korean, #greenscreen, #asian, #foryou"
+    hashtags: "#flips, #flip, #flippinghub, #flipping"
   - username: "patrickaramouni"
     fullname: >-
       Patrick Aramouni
     bio: >-
-      Vegan Athlete • Recipes • Workouts • Lifestyle 👇for online Coaching. 🇨🇦
+      Vegan Athlete @Canadianprotein (discount👇) Fitness & Recipes Coaching 👇
     location: "Canada"
-    followers: 153300
-    engagement: 595
-    commentsToLikes: 0.058319
+    followers: 204900
+    engagement: 791
+    commentsToLikes: 0.023828
     id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#random, #masculine, #naked, #vegan"
-  - username: "trailraiders"
-    fullname: >-
-      Trail Raiders
-    bio: >-
-      Trail Raiders Fraternity of Explorers & OFF/ROAD Athletes YOUTUBE👇🔥
-    location: "Canada"
-    followers: 5820
-    engagement: 1686
-    commentsToLikes: 0.018248
-    id: ckcp2dkmmbk8y0j231tftqyf2
-    verified: false
-    hashtags: "#vancouverisland, #braplife, #dirtbiking, #vanisle"
-  - username: "jorden_hall"
-    fullname: >-
-      Jorden Hall
-    bio: >-
-      CLUB J Athlete I’m a girl 🏳️‍🌈Vancouver 🇨🇦
-    location: "Canada"
-    followers: 219700
-    engagement: 1663
-    commentsToLikes: 0.018638
-    id: ck964of3qzjoo0j78qxhle0ub
-    verified: false
-    hashtags: "#lgbtq, #girlcouple, #wlw, #lgbt"
+    hashtags: "#smoothie, #fitness, #beach, #man"
   - username: "mc.design"
     fullname: >-
       mc design
     bio: >-
       16 yr old artist I design stuff and draw athletes Goal 🔀 20K
     location: "Canada"
-    followers: 11000
-    engagement: 1511
-    commentsToLikes: 0.039754
+    followers: 12100
+    engagement: 1572
+    commentsToLikes: 0.039633
     id: ck9r3mn24qlnt0j78r2rs71j3
     verified: false
-    hashtags: "#2k20, #basketball, #fyp, #lakers"
-  - username: "markymath"
+    hashtags: "#trending, #nba2k, #rap, #nba"
+  - username: "streamlineathletes"
     fullname: >-
-      Mark Matthews
+      streamlineathletes
     bio: >-
-      Pro MTB Athlete 🇨🇦 New YouTube series:
+      We help t&f athletes get recruited to university Click below 👇
     location: "Canada"
-    followers: 291100
-    engagement: 1633
-    commentsToLikes: 0.012953
-    id: ck8f7uwe338k30j7836sf5d7t
+    followers: 15100
+    engagement: 672
+    commentsToLikes: 0.050300
+    id: ckamnpino5qn40i78ofzvkdyg
     verified: false
-    hashtags: "#rideit, #fyp, #sendit, #gopro"
+    hashtags: "#college, #track, #trackandfield, #running"
   - username: "natalieallport"
     fullname: >-
       Natalie Allport
     bio: >-
-      Former Team 🇨🇦 Athlete 🏂 Host: All In w. Natalie Allport podcast 🏋🏻‍♀️🧠💛
+      Former Team 🇨🇦 Athlete 🏂 Empowering you to go #ALLIN 🧠💪 More on IG 👇
     location: "Canada"
-    followers: 36200
-    engagement: 1078
-    commentsToLikes: 0.017769
+    followers: 48600
+    engagement: 1248
+    commentsToLikes: 0.015540
     id: ck8qe3whcqx7a0j787aanljr4
     verified: false
-    hashtags: "#athletetraining, #workoutroutine, #athlete, #crossfit"
-  - username: "the.nick.pro"
+    hashtags: "#proathlete, #homeworkout, #gymmotivation, #motivation"
+  - username: "w2sixpackchef"
     fullname: >-
-      Nick Pro
+      Wallace W
     bio: >-
-      Parkour athlete 🤸🏻‍♂️ Youtuber (4m subs) 📹 Geek 👨🏻‍🎤
+      Recipes On IG⤴️ Dieting Ebook & More⤵️ www.sixpackchef.com Chef|Athlete|Survivor
     location: "Canada"
-    followers: 320600
-    engagement: 1462
-    commentsToLikes: 0.004783
-    id: ckbfbj0163n0n0j23fjhvy4o7
+    followers: 637600
+    engagement: 842
+    commentsToLikes: 0.014277
+    id: ck806ysqxn5xz0j780zu0q8u9
     verified: false
-    hashtags: "#parkour, #fail, #win, #stunts"
-  - username: "jacobardown"
+    hashtags: "#christmas2020, #asmr, #food, #react"
+  - username: "chase.gains"
     fullname: >-
-      jacobardown
+      Chase
     bio: >-
-      BEST HOCKEY PLAYER IN THE WORLD and natural athlete
+      Reality is wrong. Dreams are for real Mammoth supplements athlete code: CHASE20
     location: "Canada"
-    followers: 18500
-    engagement: 1686
-    commentsToLikes: 0.017232
-    id: cka7v9c33v8o00i78u1ld80v4
+    followers: 200100
+    engagement: 1187
+    commentsToLikes: 0.022224
+    id: ckbf3gr04r6vj0j23mah24zoc
     verified: false
-    hashtags: "#foryoupage, #fyp, #hockey, #beast"
+    hashtags: "#workout, #health, #fitness, #tips"
+  - username: "vincegambowah"
+    fullname: >-
+      Vince Gamboa
+    bio: >-
+      🇨🇦🇵🇭 Twitch Affiliate. Athlete. Barber.
+    location: "Canada"
+    followers: 5127
+    engagement: 530
+    commentsToLikes: 0.155794
+    id: cka8dwxetumdp0i78omkvwmmh
+    verified: false
+    hashtags: "#foryou, #gamer, #twitch, #girlfriend"
+  - username: "littletfitness"
+    fullname: >-
+      T | IFBB FITNESS PRO
+    bio: >-
+      Sometimes I flip sometimes I flop Gymshark athlete 🦈
+    location: "Canada"
+    followers: 361400
+    engagement: 1278
+    commentsToLikes: 0.011312
+    id: ck8tps2a5qnqm0j78irtjlmsu
+    verified: false
+    hashtags: "#handstand, #calisthenics, #fyp, #gymshark"
 ---

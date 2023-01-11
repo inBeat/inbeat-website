@@ -1,130 +1,130 @@
 ---
-title: Top 10 Calisthenics Instagram Influencers In 2022
+title: Top 10 Calisthenics Instagram Influencers In 2023
 description: >-
-  Find top calisthenics Instagram influencers in 2022. Most popular hashtags: #calisthenics #streetworkout #workout #handstand.
+  Find top calisthenics Instagram influencers in 2023. Most popular hashtags: #calisthenics #streetworkout #workout #fitness.
 platform: Instagram
-hits: 1271
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 1271 Instagram influencers like this for you to work with.
+hits: 1229
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1229 Instagram influencers like this for you to contact.
 profiles:
-  - username: "calisthenics_girls__"
+  - username: "calisthenicsath"
     fullname: >-
-      calisthenics_girls_
+      calisthenics
     bio: >-
-      ▫️Dedicated for female athletes within the Calisthenics Community 🔥📍🌍 ▫️Use #calisthenics_girls_ ✌️🤸 ▫️Send your request via DM 📩📥
+      🔥Bᴇsᴛ ᴄᴏɴᴛᴇɴᴛ ᴅᴀɪʟʏ 🔥Tᴜʀɴ ᴏɴ ᴘᴏsᴛ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs 🔥Usᴇ #calisthenicsath
     location: "United States"
-    followers: 11558
-    engagement: 366
-    commentsToLikes: 0.013737
-    id: ck0txqgh4k5f40i19ug52uk0r
+    followers: 93
+    engagement: 21733
+    commentsToLikes: 0.015117
+    id: ck602hryuhey10i144d4c997v
     verified: false
-    hashtags: "#calisthenics"
-  - username: "calisthenicsfreestyle"
+    hashtags: "#planche, #wecnqr, #handstandlove, #kalisthenics"
+  - username: "rj_yuvraaj"
     fullname: >-
-      Calisthenics
+      RJ Yuvraaj
     bio: >-
-      ⚫️1st Freestyle Calisthenics page on Instagram! ⚫️DM FOR CALISTHENICS COACHING PROGRAMS ⚫️Tag/DM Calisthenicsfreestyle for a chance to get featured!
-    location: "United States"
-    followers: 87628
-    engagement: 123
-    commentsToLikes: 0.012848
-    id: ck55lhbb11kc30i11lsflafjx
+      Fittest💪 | Digital Head @radioonefm95📻 | (Ex RJ) . Actor🎭 | Model🎬 | Host🎙| Artist🎨 #artist #calisthenics #creative
+    location: "India"
+    followers: 59444
+    engagement: 1849
+    commentsToLikes: 0.023350
+    id: ck6tqpfl2sywy0j71t7qo6xf6
     verified: false
-    hashtags: ""
+    hashtags: "#amdavad, #classic, #bhavnagar, #workout"
   - username: "esmeedijjers_"
     fullname: >-
       ESMEE | yourprogress
     bio: >-
-      Online coach & Trainer Powerlifting |Calisthenics SBD Athlete|@sbdapparel_nederland @aestheticwolfofficialESMEE. @nxtlevelsportsnutritionESMEE15
+      Online coach & Trainer Powerlifting |Calisthenics SBD Athlete|@sbdapparel_nederland
     location: "Netherlands"
-    followers: 4303
-    engagement: 2533
-    commentsToLikes: 0.261067
+    followers: 6035
+    engagement: 1300
+    commentsToLikes: 0.200952
     id: ck6uakuvm44n60j71etav8sih
     verified: false
-    hashtags: "#fitinspo, #lifestyle, #wiw, #bodybuilding"
+    hashtags: "#calisthenics, #fitfam, #healthylifestyle, #powerlifting"
   - username: "dan_rosenberg_"
     fullname: >-
       Dan Rosenberg דן רוזנברג
     bio: >-
-      📍TLV | Athlete • Creator • Coach 22 - Freestyle Calisthenics - Worldwide top 5 - 3x Israeli Champion נינג׳ה ישראל💪 @GORNATION Pro Athlete Discount⬇️
-    location: "United States"
-    followers: 58393
-    engagement: 754
-    commentsToLikes: 0.044691
+      📍TLV | Athlete • Creator • Coach 22 I AM 🙏 - Freestyle Calisthenics - Worldwide top 5 - 3x Israeli Champion @GORNATION Pro Athlete Discount⬇️
+    location: "United Kingdom"
+    followers: 57181
+    engagement: 768
+    commentsToLikes: 0.047050
     id: ck0txqfguk5a40i19p7qqr5u2
     verified: false
-    hashtags: "#calisthenics, #freestylecalisthenics, #streetworkout, #gornation"
-  - username: "julianmiguelarroyo"
-    fullname: >-
-      Julian Miguel Arroyo 🇺🇸
-    bio: >-
-      Active Duty U.S. Marine Second-Generation Marine Calisthenics & Weight Training @Redcon1 Elite Athlete (Use code ARROYO to save 20%)
-    location: "United States"
-    followers: 113806
-    engagement: 800
-    commentsToLikes: 0.035455
-    id: ck8t86effja4s0j78748obspw
-    verified: false
-    hashtags: "#motivation, #usmc, #usmarines, #workoutmotivation"
+    hashtags: "#freestylecalisthenics, #calisthenics, #streetworkout, #gornation"
   - username: "flomarrec"
     fullname: >-
-      Florian
+      Florian Marrec
     bio: >-
-      @swatteam_official Calisthenics / Street lifting 🌍2019 « Endurance Legend » 🏆 🇪🇺2019 « All bars games » 🥉 👇🏼Ma dernière vidéo YouTube
+      @swatteam_official Calisthenics / Street lifting @nutrimuscle 🏆2019 « Endurance Legend » 👇🏼Ma dernière vidéo YouTube
     location: "France"
-    followers: 6596
-    engagement: 1721
-    commentsToLikes: 0.040825
+    followers: 8196
+    engagement: 1788
+    commentsToLikes: 0.038561
     id: ck6u9dz38x0320j71jmezjety
     verified: false
-    hashtags: "#paris, #team, #fitnesspark, #setandreps"
-  - username: "alessandramojana"
+    hashtags: "#lyon, #endurance, #swatteam, #workout"
+  - username: "eleonoradellatorre"
     fullname: >-
-      Alessandra Mojana
+      Eleonora Della Torre 🤸🏽‍♀️💪🔥
     bio: >-
-      Nothing worth having comes easy.The best is yet to come,don't be afraid to dream big rider🏍acroyoga👌calisthenics🐨 @netgateadv peace🙏love💘&rock'n'
+      DISCOUNT:@prozisitalia 10%❤️👉ELEDT90 @revengesport 10% ❤️👉 ELEONORADT19 @gorilant 7% ❤️👉 ELEGPRO7 #calisthenics ❤️🇮🇹🇪🇸 🏆🥇 Catalunya 2019 🥉🥉Italia 2019
     location: "Italy"
-    followers: 8692
-    engagement: 1314
-    commentsToLikes: 0.037511
-    id: ck134udfty88e0i19honyjsj7
+    followers: 13080
+    engagement: 1122
+    commentsToLikes: 0.021059
+    id: ck6u9ejx2x3rj0j71ccip1oe6
     verified: false
-    hashtags: "#happygirl, #enduro, #motoguzzi, #girlrider"
+    hashtags: "#workout, #me, #girl, #fit"
   - username: "profilekenka"
     fullname: >-
       🔱 Ken 🔱
     bio: >-
       ▪️ #calisthenics ▪️ #personaltraining ▪️ #functionalfitness ▪️ #TRXtraining ⠀ ▪️ #profilekenka 🔥 ⠀
-    location: "Ukraine"
-    followers: 10567
-    engagement: 712
-    commentsToLikes: 0.167090
+    location: "Russia"
+    followers: 10728
+    engagement: 646
+    commentsToLikes: 0.124750
     id: ck6u9e7fdx1ho0j716voxhorm
     verified: false
-    hashtags: "#calisthenics, #workout, #profilekenka, #workoutacademy"
-  - username: "julian_pagel_sw"
-    fullname: >-
-      Julian Pagel
-    bio: >-
-      📍Switzerland • @GORNATION athlete • Swiss National Calisthenics Champion
-    location: "Germany"
-    followers: 8627
-    engagement: 1315
-    commentsToLikes: 0.030881
-    id: ck5zq94lbu62w0i144159kd5h
-    verified: false
     hashtags: ""
-  - username: "andry_russo"
+  - username: "pauls_jemeljanovs"
     fullname: >-
-      Andrea Russo 🌸
+      Pauls Jemeļjanovs
     bio: >-
-      Andrea,25, 🇮🇹 #CALISTHENICS ATHLETE💪🏼🤸🏻‍♀️ • 🥇National x2 • 🥈INTERNATIONAL • 🥈Coppa Italia PROZIS 10% : ANDRYR #MODEL 📸 Osteopath: @emilianoracitid.o
-    location: "Italy"
-    followers: 15567
-    engagement: 1607
-    commentsToLikes: 0.024928
-    id: ck14jwk7fmjv00i19umj4kbc9
+      LEMME GET AN OWA OWA Calisthenics 🇱🇻 Riga, Latvia
+    location: "United States"
+    followers: 21284
+    engagement: 1656
+    commentsToLikes: 0.021855
+    id: ck602hlzchemk0i149zw1whms
     verified: false
-    hashtags: "#strenght, #stretching, #calisthenicseverywhere, #fitnessmodel"
+    hashtags: "#calisthenics, #fitness, #freestyle, #gym"
+  - username: "melnikstyle"
+    fullname: >-
+      ᴠɪᴛᴀʟɪɪ ᴍᴇʟɴɪᴋ
+    bio: >-
+      CALISTHENICS ATHLETE International cups winner🏆 @gornation athlete Cinematographer @melnikshots Business inquiries: Vet.melnik2002@gmail.com
+    location: "United States"
+    followers: 166230
+    engagement: 1158
+    commentsToLikes: 0.017033
+    id: ck14kgshwpg3u0i19788zlbj3
+    verified: false
+    hashtags: "#shreddedunion, #handstand, #calisthenics, #equilibrium"
+  - username: "daniels_laizans"
+    fullname: >-
+      Daniels Laizāns
+    bio: >-
+      📍WORLDWIDE • @NEOH Athlete • Current World Champion - Freestyle Calisthenics • 7x National Champion
+    location: "United States"
+    followers: 323702
+    engagement: 1060
+    commentsToLikes: 0.011787
+    id: ck0ubr26qf2la0i19jeto6jik
+    verified: false
+    hashtags: "#teamlaizans, #wayoflife, #calisthenics, #viafortis"
 ---

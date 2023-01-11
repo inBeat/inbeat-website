@@ -1,24 +1,60 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Italy In 2022
+title: Top 10 Makeup TikTok Influencers In Italy In 2023
 description: >-
-  Find top makeup TikTok influencers in Italy in 2022. Most popular hashtags: #makeup #perte #fyp #halloween.
+  Find top makeup TikTok influencers in Italy in 2023. Most popular hashtags: #makeup #makeupartist #perte #foryoupage.
 platform: TikTok
-hits: 298
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 298 TikTok influencers like this in Italy for you to pitch.
+hits: 268
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 268 TikTok influencers like this in Italy for you to contact.
 profiles:
+  - username: "morgana.makeup"
+    fullname: >-
+      Makeup
+    bio: >-
+      🥀31k?🥀 ✨IG:@Morgana_Makeup_Art✨
+    location: "Italy"
+    followers: 30900
+    engagement: 1600
+    commentsToLikes: 0.029452
+    id: cka63snrs5q960i781nis6v4x
+    verified: false
+    hashtags: "#makeup, #foryoupage, #fyp, #makeupartist"
+  - username: "martinaerriu_"
+    fullname: >-
+      martinaerriu
+    bio: >-
+      She/her ⬆️FOLLOW ME ON INSTAGRAM⬆️ 🎨 Makeup 💄 ⚡ Positive Vibes ⚡
+    location: "Italy"
+    followers: 197000
+    engagement: 2090
+    commentsToLikes: 0.014593
+    id: cka67dx6ukoko0i78ytnhhw4z
+    verified: false
+    hashtags: "#fantasy, #mermaid, #marvel, #viral"
+  - username: "elioicon"
+    fullname: >-
+      Elio ICON
+    bio: >-
+      Makeup is art. Don’t fuck it up 🎨🔥 He/Him Hairstylist 🔥 Sicily ✨ YouTube⬇️
+    location: "Italy"
+    followers: 59000
+    engagement: 1612
+    commentsToLikes: 0.047074
+    id: ckbf6j5yow4cn0j234puvqflj
+    verified: false
+    hashtags: "#perte, #haircolor, #hair, #neiperte"
   - username: "soraya_makeup"
     fullname: >-
       Soraya Make Up
     bio: >-
       Make Up Artist❤️ #makeupisforeveryone🏳️‍🌈
     location: "Italy"
-    followers: 4842
-    engagement: 1794
-    commentsToLikes: 0.079520
+    followers: 4768
+    engagement: 1680
+    commentsToLikes: 0.098056
     id: cka67dy0mkosq0i788ujecrz5
     verified: false
-    hashtags: "#makeupartist, #illusionmakeup, #armpainting, #bodypainting"
+    hashtags: "#egirlmakeup, #makeupartist, #transition, #makeup"
   - username: "zuccherinomakeup_"
     fullname: >-
       ZuccherinoMakeUp
@@ -26,105 +62,69 @@ profiles:
       Makeup Artist Pov/Duetti CosplayerOc lgt[b]🏳️‍🌈 per Nuovi Cosplay Support Me❤
     location: "Italy"
     followers: 11700
-    engagement: 1785
-    commentsToLikes: 0.126198
+    engagement: 1707
+    commentsToLikes: 0.110189
     id: ck8j4g50w22y70j78tqnsyg98
     verified: false
-    hashtags: "#thewitcher, #duetto, #makeuphalloween2020, #demon"
-  - username: "elioicon"
+    hashtags: "#duetto, #cosplay, #makeup, #viral"
+  - username: "larasperanza"
     fullname: >-
-      Elio ICON
+      La Suprema
     bio: >-
-      Makeup is art. Don’t fuck it up 🎨🔥 Ig: _eliovicari_ Hairstylist 🔥 Sicily ⚡️
+      She/her Faccio tanti bei pov ✨ Makeup 🌿 ho un mini shop🌸
     location: "Italy"
-    followers: 23000
-    engagement: 1644
-    commentsToLikes: 0.030507
-    id: ckbf6j5yow4cn0j234puvqflj
+    followers: 137300
+    engagement: 2069
+    commentsToLikes: 0.011280
+    id: ck9exykiztg1p0j78a14qtzib
     verified: false
-    hashtags: "#perte, #halloween, #hair, #fyp"
-  - username: "xlipsaddictedx"
-    fullname: >-
-      Dalila Dell’Amura
-    bio: >-
-      💄 Makeup lover Ig: xlipsaddictedx Cruelty free supporter 🐰 LISTA CRUELTY FREE⬇
-    location: "Italy"
-    followers: 5031
-    engagement: 1167
-    commentsToLikes: 0.046643
-    id: ckbf1cr09neli0j23s4ozpjpt
-    verified: false
-    hashtags: "#crueltyfreeproducts, #crueltyfreemakeup, #halloweenmakeup, #stopanimaltesting"
-  - username: "martinaerriu_"
-    fullname: >-
-      martinaerriu
-    bio: >-
-      She/her ⬆️FOLLOW ME ON INSTAGRAM⬆️ 🎨 Makeup 💄 ⚡ Positive Vibes ⚡
-    location: "Italy"
-    followers: 138900
-    engagement: 1971
-    commentsToLikes: 0.008767
-    id: cka67dx6ukoko0i78ytnhhw4z
-    verified: false
-    hashtags: "#duetto, #monsterhigh, #makeup, #hair"
-  - username: "fearlessmakeup97"
-    fullname: >-
-      Francesca
-    bio: >-
-      22🇮🇹 Makeup Lover💄 Ig: fearlessmakeup
-    location: "Italy"
-    followers: 7602
-    engagement: 1898
-    commentsToLikes: 0.023772
-    id: ckdtdtmoxvhtj0j23ofol1ykd
-    verified: false
-    hashtags: "#fyp, #sheglam, #blendtherules, #collaboration"
+    hashtags: "#originalsuprema1, #pov, #spiritualsuprema, #blushberry"
   - username: "arienne.makeup"
     fullname: >-
       Arianna
     bio: >-
       È Arienne con la E 💌: ariannacommerciale@tomsnetwork.it INSTA: arienne.makeup
     location: "Italy"
-    followers: 699000
-    engagement: 2073
-    commentsToLikes: 0.002850
+    followers: 1000000
+    engagement: 2418
+    commentsToLikes: 0.003955
     id: cka67dv26ko850i78qahka7df
     verified: false
-    hashtags: "#comedy, #commessa, #asmr, #americaland"
-  - username: "elenagonella"
+    hashtags: "#perte, #comedy, #commessa, #assaggio"
+  - username: "fearlessmakeup97"
     fullname: >-
-      LaGonni😈
+      Francesca D’Alessandro
     bio: >-
-      💄Makeup addicted💄 21🇮🇹 Ig: @elenagonella
+      23🇮🇹 Makeup Lover💄 International relations student🌍 Ig: fearlessmakeup ✨
     location: "Italy"
-    followers: 6659
-    engagement: 1032
-    commentsToLikes: 0.023852
-    id: cka6oijlwfke20i78e200gyee
+    followers: 9331
+    engagement: 1556
+    commentsToLikes: 0.048572
+    id: ckdtdtmoxvhtj0j23ofol1ykd
     verified: false
-    hashtags: "#shooting, #halloween, #photography, #adayinmylife"
-  - username: "varyaren"
+    hashtags: "#perte, #emojichallenge, #neiperte, #makeupartist"
+  - username: "xlipsaddictedx"
     fullname: >-
-      Alexia Varyaren
+      Dalila Dell’Amura
     bio: >-
-      🌸 Makeup Artist & Model from Milan 🌸 💜 @varyaren on instagram 💜
+      💄 Makeup lover Ig: xlipsaddictedx Cruelty free supporter 🐰 LISTA CRUELTY FREE⬇
     location: "Italy"
-    followers: 109100
-    engagement: 1566
-    commentsToLikes: 0.017158
-    id: cka6bswc91kwu0i7863fhkaav
+    followers: 6897
+    engagement: 1722
+    commentsToLikes: 0.059694
+    id: ckbf1cr09neli0j23s4ozpjpt
     verified: false
-    hashtags: "#foryou, #viral, #chupalloween, #perte"
-  - username: "debora.fulli"
+    hashtags: "#caffesospeso, #stopanimalsabuse, #crueltyfree, #crueltyfreemakeup"
+  - username: "martina4you"
     fullname: >-
-      Debora Fulli
+      𝕸𝖆𝖗𝖙𝖎𝖓𝖆🧸🤍
     bio: >-
-      🙆🏼‍♀️ Mi chiamo Debora 💄 Amo il makeup 🍕 la pizza ✨ i glitter
+      📍Rome 20/Canadian Certified Makeup Artist 💄 she/her 🤍ʕ•́ᴥ•̀ʔっ🏳️‍🌈
     location: "Italy"
-    followers: 85900
-    engagement: 1434
-    commentsToLikes: 0.005140
-    id: cka6oj5qjfqmj0i78cvnsz81c
+    followers: 15000
+    engagement: 1754
+    commentsToLikes: 0.033109
+    id: ckbf3gtidr7e60j236w93ek4i
     verified: false
-    hashtags: "#perte, #neiperte, #fyp, #glowup"
+    hashtags: "#like, #rome, #foryou, #featureme"
 ---

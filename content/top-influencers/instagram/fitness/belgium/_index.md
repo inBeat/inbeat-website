@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Belgium In 2022
+title: Top 10 Fitness Instagram Influencers In Belgium In 2023
 description: >-
-  Find top fitness Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #outfitoftheday #motivation.
+  Find top fitness Instagram influencers in Belgium in 2023. Most popular hashtags: #fitness #fitnessgirl #gymlife #motivation.
 platform: Instagram
-hits: 72
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 72 Instagram influencers like this in Belgium for you to pitch.
+hits: 35
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 35 Instagram influencers like this in Belgium for you to work with.
 profiles:
-  - username: "laura.oliveiragranja"
+  - username: "sachafarber"
     fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+      𝔰𝔞𝔠𝔥𝔞🦋סשה
     bio: >-
-      ☆ 26 ∣ Antwerp ‣ Model ∣ Content Creator ♡ Fashion - Fitness - Lifestyle @qntsportnutrition 20 % off | LAURA20 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
+      ♡ Personal Trainer 🏋️‍♀️ ♡ 𝙰𝚗𝚒𝚖𝚊𝚕 rights / veggie 🌱 ♡ Boxing / Fitness / Crossfit 🥊 ♡ Tattoo Apprentice @loveinketc 💉
     location: "Belgium"
-    followers: 17432
-    engagement: 458
-    commentsToLikes: 0.122512
-    id: ck6txv5tn019a0j71dktpndhx
+    followers: 20751
+    engagement: 109
+    commentsToLikes: 0.074123
+    id: ck5c1w6u6w1th0i11i7j99rx2
     verified: false
-    hashtags: "#fashionist, #stevemaddeneu, #stevemaddenboots, #casual"
-  - username: "loic_vanlang"
-    fullname: >-
-      Loic Van Lang
-    bio: >-
-      Fitness | Food | Fashion 🇧🇪 Head coach @upgrade.brussels 🏋🏻‍♂️ ⚡️ @noccobenelux ⚡️ @qntsportnutrition - LOIC23 ↪️ -23% sur ta commande 📦
-    location: "Belgium"
-    followers: 31117
-    engagement: 201
-    commentsToLikes: 0.070291
-    id: ck6txv4o6013a0j71cdbx4z2e
-    verified: false
-    hashtags: "#shredded, #menstyleblogger, #blogger, #preworkout"
+    hashtags: "#samensterk, #mysportshero, #voetbal, #ek2021"
   - username: "justinevandermeersch"
     fullname: >-
       JUSTINE VAN DER MEERSCH
     bio: >-
       | photography| fitness| fashion| ambassador @bonbiniline Part of @summerbash.be family 📸@seeknokke 📸 @justinevandermeersch_photos
     location: "Belgium"
-    followers: 14022
-    engagement: 609
-    commentsToLikes: 0.030498
+    followers: 15317
+    engagement: 603
+    commentsToLikes: 0.016530
     id: ck5hmpp55me7b0i11zsn18amm
     verified: false
     hashtags: ""
-  - username: "hennyseroeyen"
-    fullname: >-
-      WBFF PRO Fitness Model
-    bio: >-
-      🏃🏻‍♂️TorchRun🇧🇪@sobelgium 🏆2x#EU 1xVice#WorldChampion 🎬#Actor#FitnessModel 🏎By @mercedesbenz 🥊By @venum
-    location: "Belgium"
-    followers: 171321
-    engagement: 321
-    commentsToLikes: 0.022004
-    id: ck6trfi5nyorg0j7144qgzj2o
-    verified: true
-    hashtags: "#olimplaf, #olimpsportnutrition, #olimp, #olimpsport"
-  - username: "allegramariear"
-    fullname: >-
-      A L L E G R A
-    bio: >-
-      📍Belgium 🎥- Lifestyle / Fitness @tammyxallegra 📥- Hairstyle @josephine_hair_
-    location: "Belgium"
-    followers: 11073
-    engagement: 577
-    commentsToLikes: 0.021484
-    id: ckap16ii8t9bp0i78yt72j7qi
-    verified: false
-    hashtags: "#otd, #outfitoftheday, #outfit, #tenuedujour"
-  - username: "magzzfit"
-    fullname: >-
-      MAGALI 🌼
-    bio: >-
-      📍Belgium - 23 💪🏽 Fitness&mental health 💥 @idealofsweden : ID15-631830 (15%) ✈️ Next stop: .. 😺 @bono_the_british_shorthair 👩🏼‍🎓 Paralegal graduate
-    location: "Belgium"
-    followers: 7033
-    engagement: 1092
-    commentsToLikes: 0.054898
-    id: ck15t7ms7gq4z0i19nr9yidau
-    verified: false
-    hashtags: "#fitdutchie, #fitnesslife, #famfriday, #gymlover"
   - username: "lexharlee"
     fullname: >-
-      alexis
+      Lex
     bio: >-
-      LA DJ•Producer•Fitness•Vegan Panamanian & Belgian
+      LA @lexharleefitness coming soon Fitness•Vegan•Producer Panamanian & Belgian
     location: "Belgium"
-    followers: 53235
-    engagement: 670
-    commentsToLikes: 0.019830
+    followers: 77400
+    engagement: 1162
+    commentsToLikes: 0.017735
     id: ck5hf8yliwd0b0i118glo6s22
     verified: false
-    hashtags: ""
-  - username: "fitness_raver"
+    hashtags: "#sistersister"
+  - username: "magzzfit"
     fullname: >-
-      Sander🦍
+      MAGALI🌺
     bio: >-
-      IFBB Mens Physique Competitor🏆/🇪🇪 Don't be afraid of being different.👻 NaTuRaL aThLeTe 🥦 Living in 🇫🇮 Hardstyle 💥 YT Festival & Fitness vlogger 📽⬇️
+      📍België 💪🏽 fitness&mental health 💥 @idealofsweden BBMAGZZFIT15 ✈️ next: 😺 @bono_the_british_shorthair 💁🏼‍♀️ privé acc @the_magzz_official
     location: "Belgium"
-    followers: 2986
-    engagement: 993
-    commentsToLikes: 0.043125
-    id: ckaoz230xk1fy0i78rr987s96
+    followers: 6749
+    engagement: 825
+    commentsToLikes: 0.077780
+    id: ck15t7ms7gq4z0i19nr9yidau
     verified: false
-    hashtags: "#vqfit, #bodyengineers, #gainzville, #fitnessvillage"
-  - username: "sterck_tamara"
+    hashtags: "#strongereveryday, #train, #fitnesspage, #gymlife"
+  - username: "coralie_vdb_"
     fullname: >-
-      💕💕💕Tamara Sterck💕💕💕
+      ℭ𝔬𝔯𝔞𝔩𝔦𝔢 🧜🏽‍♀️
     bio: >-
-      𝟸𝟺 ʏᴏ •ʙᴇʟɢɪᴜᴍ-ʟɪᴇ̀ɢᴇ 🇧🇪. •ᴡɪғᴇ ᴀɴᴅ ᴍᴏᴍ. •ᴛʀᴀᴠᴇʟ | ʟɪғᴇsᴛʏʟᴇ. .💍@christian_houbben . @local_beauties_benelux #travel #photo #fashion #fitness
+      ❝ BODY IS ART. ♒︎ Mauritian / belgian model ✐ Fitness life @v.d.body ☾ Dreamer and sea lover
     location: "Belgium"
-    followers: 11907
-    engagement: 371
-    commentsToLikes: 0.029197
-    id: ckap1wvfwwf9y0i78cj7tg8hd
+    followers: 36748
+    engagement: 622
+    commentsToLikes: 0.019800
+    id: ck9wdjpx9fyhr0j78yjarlkst
     verified: false
-    hashtags: "#photo, #motivation, #picoftheday, #photography"
+    hashtags: "#mirrowselfie, #fitnessmotivations, #bikinilifestyle, #mirrorselfie"
   - username: "fit_with_kelly_"
     fullname: >-
       KELLY DEJAEGERE 🌻
     bio: >-
-      FITNESS || MENTAL HEALTH 📍Based in Belgium @bootytools.be team 🍑 #teamgetinshape 20 y/o
+      FITNESS || MENTAL HEALTH 📍Based in Belgium @bootytools team 🍑 20 y/o
     location: "Belgium"
-    followers: 3067
-    engagement: 783
-    commentsToLikes: 0.173082
+    followers: 2942
+    engagement: 709
+    commentsToLikes: 0.178688
     id: ckf5qr4h8aao20j23kal0eayn
     verified: false
-    hashtags: "#bootytoolsbe, #bolerodrinks, #gymsharkwomen, #gymshark"
+    hashtags: "#proud, #reign, #reignbodyfuel, #bootytoolsbe"
+  - username: "steveboedt"
+    fullname: >-
+      Steve Boedt
+    bio: >-
+      🙋🏼‍♂️ Life coach-Keynote speaker 🌎 Fitness presenter in 90 + 🌍 💪🏼 7 International 🏆 📺 3 national shows 📍🇧🇪🇪🇸🇩🇰 👩🏻‍🤝‍👨🏼Confidence coach 🕺 Zumba® ZES
+    location: "Belgium"
+    followers: 144008
+    engagement: 59
+    commentsToLikes: 0.029131
+    id: ck135zw7b42gg0i19d2bkhv29
+    verified: true
+    hashtags: "#selfcare, #growthmindset, #goals, #entrepreneur"
+  - username: "rgls.fitness"
+    fullname: >-
+      尺ロ乃モ尺イロ.  G乚ら
+    bio: >-
+      || 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑻𝒓𝒂𝒊𝒏𝒆𝒓 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑩𝒓𝒖𝒔𝒔𝒆𝒍𝒔 || 𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝑴𝒐𝒅𝒆𝒍 𝑫𝑴 𝒎𝒆 𝒇𝒐𝒓 𝒂 𝒄𝒐𝒏𝒔𝒖𝒍𝒕𝒂𝒕𝒊𝒐𝒏 📩 📍BE🇧🇪 🔒❣️ @saraks.fit || @animaleurope 💊 𝟏𝟎% 𝐑𝐆𝐋𝐒 ⤵️
+    location: "Belgium"
+    followers: 120935
+    engagement: 196
+    commentsToLikes: 0.004953
+    id: ck600jwtwdql20i149rv3xbiz
+    verified: false
+    hashtags: "#belgium, #gymlife, #training, #instafit"
+  - username: "elizemol"
+    fullname: >-
+      ELIZE MOL
+    bio: >-
+      
+    location: "Belgium"
+    followers: 20655
+    engagement: 672
+    commentsToLikes: 0.061903
+    id: ck5zxzx4o8z5j0i14x49rl884
+    verified: false
+    hashtags: "#fitnessmotivation, #outfitoftheday, #fitness, #outfitinspiration"
+  - username: "camillelaus"
+    fullname: >-
+      C a m i l l e    L a u s
+    bio: >-
+      400m @belgiancheetahs Road to @tokyo2020 Represented by @vitam_sport Powered by @belleroseofficial @oppobelgium @basicfit_be @hyundaibelgium
+    location: "Belgium"
+    followers: 23624
+    engagement: 1067
+    commentsToLikes: 0.028357
+    id: ck6tu06afdk4a0j71bjj4c97j
+    verified: false
+    hashtags: "#trackgirl, #healthylifestyle, #roadtotokyo, #trainingcamp"
 ---

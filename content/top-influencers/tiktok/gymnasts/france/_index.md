@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In France In 2022
+title: Top 10 Gymnasts TikTok Influencers In France In 2023
 description: >-
-  Find top gymnasts TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #gym #fyp.
+  Find top gymnasts TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #gymnastique #fyp #gym.
 platform: TikTok
-hits: 48
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 48 TikTok influencers like this in France for you to pitch.
+hits: 39
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 39 TikTok influencers like this in France for you to work with.
 profiles:
+  - username: "coco.dlmz"
+    fullname: >-
+      𝐂𝐡𝐥𝐨𝐞́.𝐃
+    bio: >-
+      Gymnaste 🤸🏻‍♀️ ESI Don’t grow up ! It’s a trap. 🍃 📩 coco.dlmz12@gmail.com
+    location: "France"
+    followers: 68500
+    engagement: 2023
+    commentsToLikes: 0.054640
+    id: ck9vd83z0tt790j78rh6wuzrf
+    verified: false
+    hashtags: "#handstand, #gymnaste, #surlesmains, #fitnessgirl"
   - username: "arnaudnanoudubien"
     fullname: >-
       Arnaud Nanou Dubien
     bio: >-
       20k🤝 Instagram ➡️ Arnaud_nanou_dubien Gymnast Monaco 🇲🇨 CLF France 🇫🇷
     location: "France"
-    followers: 20800
-    engagement: 1970
-    commentsToLikes: 0.019488
+    followers: 22200
+    engagement: 1874
+    commentsToLikes: 0.018811
     id: ck9v90l9hbykt0j78r8c32rb9
     verified: false
-    hashtags: "#gymnastics, #gymnastique, #gym, #airtrack"
-  - username: "kassyfitgirly"
-    fullname: >-
-      Ketty Buisson
-    bio: >-
-      30ans🙊modele photo📸🤩 équitation🐎🔥 ancienne gymnaste & trampoliniste❤maman❤
-    location: "France"
-    followers: 19000
-    engagement: 1452
-    commentsToLikes: 0.117260
-    id: ckbkr1weslht60j23i69ec5i6
-    verified: false
-    hashtags: "#pourvous, #pourtoiii, #pourtoii, #foryoupage"
+    hashtags: "#floor, #gym, #gymnastics, #gymnastique"
   - username: "ana.gyym"
     fullname: >-
       ana.gyym
     bio: >-
       french gymnast insta : ana.grimaud
     location: "France"
-    followers: 127700
-    engagement: 2961
-    commentsToLikes: 0.008936
+    followers: 120200
+    engagement: 2868
+    commentsToLikes: 0.009293
     id: ck9vftkmm4jhp0j78v2jvtt5u
     verified: false
-    hashtags: "#gym, #gymnastics, #pourtoi, #shein"
+    hashtags: "#gymnastique, #gym, #gymnastics, #pourtoi"
   - username: "leopold.dutrey"
     fullname: >-
       Leopold Dutrey
     bio: >-
-      Gymnaste français retraité🤸🏻‍♂️ 📸 Insta modelboy @leopold.fr leopold.france👻
+      Gymnaste français retraité🤸🏻‍♂️ 📸 Insta modelboy leopold.france👻
     location: "France"
-    followers: 309200
-    engagement: 2048
-    commentsToLikes: 0.012268
+    followers: 372000
+    engagement: 1877
+    commentsToLikes: 0.013430
     id: ck9fc8350io7f0j78j3y76nmj
     verified: false
-    hashtags: "#duo, #foryou, #devinelapersonne"
-  - username: "maelissandtaissia"
+    hashtags: "#petites, #babyboss, #sourireforce, #pov"
+  - username: "bdslekedi"
     fullname: >-
-      Maëliss Et Taïssia🖤
+      BDS Le KEDI
     bio: >-
-      TWINS / corse🦋 17 - danseuse & gymnaste mail : maelissandtaissia@orange.fr
+      ♦️Mes amis : @compte_gymnaste123 @dream_toxena ♦️Membre BDS #BDSPOWER
     location: "France"
-    followers: 200900
-    engagement: 1721
-    commentsToLikes: 0.011472
-    id: ck9001s329ve20j78stlzg7y1
-    verified: true
-    hashtags: "#friends, #pourtoi, #fyp, #fun"
-  - username: "kedioff"
-    fullname: >-
-      KediOfficiel
-    bio: >-
-      ♦️Code SIR-KEDI ♦️Mes amis : @compte_gymnaste123 @enzo654
-    location: "France"
-    followers: 23200
-    engagement: 919
-    commentsToLikes: 0.074577
+    followers: 23500
+    engagement: 864
+    commentsToLikes: 0.159540
     id: ck9v91b02c4f30j78wpvrxslh
     verified: false
-    hashtags: "#rocketleaguepro, #fortnitecreative, #rockeleaguehighlights, #tiktokgame"
-  - username: "coco.dlmz"
-    fullname: >-
-      𝐂𝐡𝐥𝐨𝐞́.𝐃
-    bio: >-
-      Gymnaste 🤸🏻‍♀️ ESI #nurse Don’t grow up ! It’s a trap. 🍃
-    location: "France"
-    followers: 58100
-    engagement: 1662
-    commentsToLikes: 0.023282
-    id: ck9vd83z0tt790j78rh6wuzrf
-    verified: false
-    hashtags: "#gym, #test, #salto, #algotiktok"
+    hashtags: "#rocketleaguepassingplay, #rocketleague, #rocketleaguepro, #rl"
   - username: "oceane_1206"
     fullname: >-
       Océanee
     bio: >-
       🥇//GymnastiqueRythmique\\🥇 |18yo|
     location: "France"
-    followers: 14200
-    engagement: 1281
-    commentsToLikes: 0.017007
+    followers: 14000
+    engagement: 1258
+    commentsToLikes: 0.016660
     id: ckacc45b8hzi50i78txake0uv
     verified: false
-    hashtags: "#fyp, #gymroutine, #tiktok, #rg"
+    hashtags: "#foryou, #rg, #fyp, #pourtoi"
   - username: "manon.gymnastics"
     fullname: >-
       🤸🏻Manon 🤸🏻
     bio: >-
-      French girl 🇫🇷// gymnastics💪🏼❤️ 18 years🥳
+      French girl 🇫🇷// gymnastics💪🏼❤️ 19 years🥳
     location: "France"
-    followers: 42600
-    engagement: 2303
-    commentsToLikes: 0.009101
+    followers: 42000
+    engagement: 2279
+    commentsToLikes: 0.009369
     id: ck9r3mkqxqkqy0j78c1zz6nmn
     verified: false
-    hashtags: "#pourtoi, #fail, #gymnastics, #sport"
-  - username: "capricieuse_24"
+    hashtags: "#feauture, #featureme, #sports, #toujoursdebout"
+  - username: "milanoalyssa"
     fullname: >-
       Milanoalyssa
     bio: >-
-      Insta : capricieuse_24 Snap : milanoalyssa GYMNASTIQUE 🤸‍♂️ CORSE / AJACCIO🦋
+      Insta : capricieuse_24 GYMNASTIQUE 🤸‍♂️ CORSE / AJACCIO🦋
     location: "France"
-    followers: 0
-    engagement: 1167
-    commentsToLikes: 0.007813
+    followers: 15500
+    engagement: 891
+    commentsToLikes: 0.004086
     id: ckcioykuqw1m70j23yjp9k3hl
     verified: false
-    hashtags: "#ajaccio, #dance, #fyp, #bebeww"
+    hashtags: "#corse, #pourtoi, #ajaccio, #fyp"
+  - username: "havakaramemis"
+    fullname: >-
+      Hava♡
+    bio: >-
+      c'est fun mais la honte un peu GYMNAST
+    location: "France"
+    followers: 3522
+    engagement: 2621
+    commentsToLikes: 0.063015
+    id: ckdtl2x8sz1530j23a38z3hlb
+    verified: false
+    hashtags: "#jesuisune2004, #fyp, #makemefamouswsh, #michealjackson"
+  - username: "_snooky"
+    fullname: >-
+      Sophie.D
+    bio: >-
+      🇫🇷🤸🏼‍♀️ IG : _snooky_ 📩 snooky@boltinfluence.fr 🤍370K❤️
+    location: "France"
+    followers: 370600
+    engagement: 1836
+    commentsToLikes: 0.011315
+    id: ck8s9iak7y1140j78sj6a4fvq
+    verified: false
+    hashtags: "#teamgym, #gymnastique, #fitnessweek, #stalder"
 ---

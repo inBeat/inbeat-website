@@ -1,96 +1,84 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Jakarta In 2022
+title: Top 10 Fashion Instagram Influencers In Jakarta In 2023
 description: >-
-  Find top fashion Instagram influencers in Jakarta in 2022. Most popular hashtags: #fashion #jakarta #indonesia.
+  Find top fashion Instagram influencers in Jakarta in 2023. Most popular hashtags: #fashion #jakarta #instagram #beautiful.
 platform: Instagram
-hits: 216
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 216 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
+hits: 182
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 182 Instagram influencers like this in Jakarta, Indonesia for you to connect with.
 profiles:
-  - username: "risyadsalman"
+  - username: "jepetetew"
     fullname: >-
-      Risyad
+      재페
     bio: >-
-      ▪️Lecturer & Model/Talent (185cm) ▪️Sport enthusiast #janganlupaolahraga 📞 CP: 08123217180 (glen)
+      🦩🍧🌸🥢 handle by @fyee.influencer manager : ‪+62 819‑9343‑1312‬ (fiyer) 𝓑𝓮𝓴𝓪𝓼𝓲, 𝓙𝓪𝔀𝓪 𝓫𝓪𝓻𝓪𝓽
     location: "Indonesia"
-    followers: 17593
+    followers: 50686
     engagement: 341
-    commentsToLikes: 0.023759
-    id: ck13a91c1p83t0i19upvm8gbk
+    commentsToLikes: 0.380493
+    id: ck9whh9kzxuly0j78c31b08z6
     verified: false
-    hashtags: "#canggu, #designer, #beautyshoot, #streetphotography"
-  - username: "varyabaikova"
-    fullname: >-
-      JAKARTA MODEL
-    bio: >-
-      Currently represented by @amormodel 🇷🇺 @moremodelmanagement All about Aesthetic & Style Fashion content creation ⠀ 📍Jakarta
-    location: "Indonesia"
-    followers: 48090
-    engagement: 282
-    commentsToLikes: 0.015188
-    id: ck5cho319r5610i117ptkkz2m
-    verified: false
-    hashtags: "#baliblogger, #modelbali, #baliphotoshoot, #jakartablogger"
-  - username: "ariencathrine"
-    fullname: >-
-      Arien Cathrine
-    bio: >-
-      Contact Person: +6281290299051 (manager) arinie_pu3@yahoo.co.id Owner KETSKY SLIM
-    location: "Indonesia"
-    followers: 70275
-    engagement: 157
-    commentsToLikes: 0.037569
-    id: ck5c5d6l438u70i11k6sue30l
-    verified: false
-    hashtags: "#workfromhome, #virtualphotographer, #giveaway, #selebgram"
+    hashtags: "#like4likes, #skyphotography, #quotes, #beranda"
   - username: "gamisjubaya"
     fullname: >-
-      GAMIS ABAYA BYK MODEL & MURAH
+      GAMIS ABAYA MURAH DAN NYAMAN
     bio: >-
-      ☘USE REAL PICTURE 🍀Check available product @katalogjubaya 🍀Check our sleepwear (daster) @das.te.ran Untuk order silahkan klik link di bawah 👇👇👇
+      💎READY STOCK 💎CARI DASTER? @das.te.ran 💎SHOPEE : GAMISJUBAYA 💎KIRIM DARI JAKARTA 👇👇
     location: "Indonesia"
-    followers: 6527
-    engagement: 480
-    commentsToLikes: 0.000832
+    followers: 4752
+    engagement: 412
+    commentsToLikes: 0.000891
     id: ck9wf94b0nrpt0j78hcd1dwu3
     verified: false
-    hashtags: "#pemudahijrah, #hijrah, #bajulebaran, #1minutebooster"
+    hashtags: "#bajulebaran, #gamisbusui, #alhamdulillah, #lebaran"
   - username: "hans_sallam"
     fullname: >-
       Hans Sallam
     bio: >-
       Fashion Designer Jakarta +6281290926844
     location: "Indonesia"
-    followers: 47787
-    engagement: 101
+    followers: 47020
+    engagement: 103
     commentsToLikes: 0.043301
     id: ck0tw3w8hdwsc0i19bf8s3anv
     verified: false
     hashtags: "#bts, #roadtoputeriindonesia2020"
-  - username: "nicknock_28"
-    fullname: >-
-      Nicky Gunawan
-    bio: >-
-      Jakarta | Fashion & Beauty Photographer |nicknock28@gmail.com | LINE: nicky.gunawan |
-    location: "Indonesia"
-    followers: 18562
-    engagement: 213
-    commentsToLikes: 0.066219
-    id: ck14j0ssoi2140i19qbp10pul
-    verified: false
-    hashtags: "#photo, #campaign, #stylist, #makeup"
   - username: "muhisukendar"
     fullname: >-
       Muhi Sukendar
     bio: >-
       ᴠɪʀɢᴏ'95 ʀ ᴀ ɴ ᴅ ᴏ ᴍ ꜰ ᴇ ᴇ ᴅ Tangerang, Indonesia 🇮🇩
     location: "Indonesia"
-    followers: 13957
-    engagement: 557
-    commentsToLikes: 0.483614
+    followers: 14455
+    engagement: 575
+    commentsToLikes: 0.451584
     id: ck9wi5lj80uax0j78fzi32gn5
     verified: false
-    hashtags: "#ootd, #ootdindo, #followforfollow, #jakartahits"
+    hashtags: "#jakartahits, #fashion, #travelblogger, #fff"
+  - username: "razeboys._"
+    fullname: >-
+      Razeboys.
+    bio: >-
+      ɪ ꜱʜᴀʟʟ ᴡʜᴀᴛ ɪ ᴅᴇꜱᴇʀᴠᴇ - 🧚‍♀️ yuk bisa yuk glowing @msg.elsaskincare 🎮 Talent @snack_video_indonesia
+    location: "Indonesia"
+    followers: 408212
+    engagement: 61
+    commentsToLikes: 0.011042
+    id: ck14jbtzzjjtp0i197hwhmnve
+    verified: false
+    hashtags: "#jakarta, #fashion, #msglowbeauty, #msglow"
+  - username: "febriansy20"
+    fullname: >-
+      Robby Febriansyah
+    bio: >-
+      Jomblo Bahagia
+    location: "Indonesia"
+    followers: 3313
+    engagement: 1164
+    commentsToLikes: 0.511122
+    id: ckf5u9hpmk2df0j23k1redim1
+    verified: false
+    hashtags: "#madkucil, #indovidgram, #internetpositif, #boomingkan"
   - username: "jakartaviral"
     fullname: >-
       Jakarta Viral
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.022955
     id: ckaosg8rcrgq50i78xk1ttars
     verified: false
-    hashtags: "#explorejakarta, #jakartaviral, #likejakarta, #amazingjakarta"
-  - username: "megamelianty"
+    hashtags: "#jakartaviral, #explorejakarta, #likejakarta, #potopotokota"
+  - username: "mr.njoo"
     fullname: >-
-      megamelianty
+      Chris Njoo
     bio: >-
-      Models | 📍Bandung Line : Megamelianty (Business Inquiries) Founder of @me_design
+      Lifestyle - Fashion - Travel 📍 Jakarta 📩 njooisme@gmail.com 📺 YOUTUBE :
     location: "Indonesia"
-    followers: 33536
-    engagement: 119
-    commentsToLikes: 0.034251
-    id: ck6u7q0ivmzqv0j713891z2i8
+    followers: 83203
+    engagement: 197
+    commentsToLikes: 0.021984
+    id: ck5c42t1r0j440i119yizk5dk
     verified: false
-    hashtags: ""
-  - username: "tarigansilangit_"
+    hashtags: "#casetifysea, #valuelifebetter, #ilovecosrx, #temancosrx"
+  - username: "jacob_a_official"
     fullname: >-
-      ᗪᕼT
+      Jacob A Couture
     bio: >-
-      KALAK KARO 🧚‍♀️ Fashion, Lifestyle 📍 Jakarta, ID 💌 Business inquires : DM @oninfluencer @millenial.modelagency New Video
+      Jakarta based fashion designer Any Enquiries: 087728282823 ( WA only )
     location: "Indonesia"
-    followers: 31624
-    engagement: 202
-    commentsToLikes: 0.030113
-    id: ck136ovqx7jac0i19sdfonvnu
+    followers: 144838
+    engagement: 184
+    commentsToLikes: 0.031298
+    id: ck14i7025dyh70i196zah8dh9
     verified: false
-    hashtags: "#kalakkarokerina, #borubatak, #bataakhitss, #batakpariban"
+    hashtags: "#instadaily, #blessed, #stayfit, #stayathome"
+  - username: "yourabellv"
+    fullname: >-
+      Yourabellv
+    bio: >-
+      Influencer : Mom - Lifestyle - Beauty - Healthy - Parenting - Fashion - Food 🌟 Jakarta
+    location: "Indonesia"
+    followers: 115718
+    engagement: 102
+    commentsToLikes: 0.051665
+    id: ck14hv8d2caiv0i19hqgs8fmd
+    verified: false
+    hashtags: "#yourabellvmomreview, #carapintarmam, #yourabellv, #toyskingdom"
 ---

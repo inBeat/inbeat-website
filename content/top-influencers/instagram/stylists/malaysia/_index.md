@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Malaysia In 2022
+title: Top 10 Stylists Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top stylists Instagram influencers in Malaysia in 2022. Most popular hashtags: #love #influencer #stayhome #fashion.
+  Find top stylists Instagram influencers in Malaysia in 2023. Most popular hashtags: #throwback #stylist #stayhome.
 platform: Instagram
-hits: 12
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Malaysia for you to contact.
+hits: 15
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in Malaysia for you to work with.
 profiles:
   - username: "doniaabdelmaboud"
     fullname: >-
@@ -13,48 +13,108 @@ profiles:
     bio: >-
       Egyptian cinema costume Designer،Stylist ،Look consultant, www.facebook/donia abd elmaboud
     location: "Malaysia"
-    followers: 58366
-    engagement: 182
-    commentsToLikes: 0.018757
+    followers: 58263
+    engagement: 155
+    commentsToLikes: 0.016823
     id: ck5hcghh1hycf0i11vmb5r5j3
     verified: false
-    hashtags: "#superstar, #photoshoot, #ramadan2020, #photoghrapher"
+    hashtags: ""
   - username: "yumimarina"
     fullname: >-
       Yumi Marina
     bio: >-
-      MY 🇲🇾 Fashion & Celebrity Stylist fasshonsutairubyyumi #yumipunya #glamstyledbyyumi For Bookings yumimimarinara@yahoo.com IG Review kindly DM💋
+      MY 🇲🇾 Stylist #yumipunya #styledbyyumi #byyumimarina For Bookings yumimimarinara@yahoo.com
     location: "Malaysia"
-    followers: 18546
-    engagement: 230
-    commentsToLikes: 0.018430
+    followers: 18828
+    engagement: 211
+    commentsToLikes: 0.014968
     id: ck0w2djtzntda0i19z3lqfbwc
     verified: false
-    hashtags: "#byyumimarina, #yumipunya, #styledbyyumi, #bluebellmy"
+    hashtags: "#lagucintakita2, #styledbyyumi, #byyumimarina, #shopee1111bigsale"
   - username: "euniceeunny"
     fullname: >-
       Eunice Martin Lim
     bio: >-
-      Visual Storyteller Food/Prop Stylist Professional Photographer ✉️ admin@throughmylensproduction.com 🇲🇾 KUL/Penang
+      Visual Storyteller Food/Prop Stylist Professional Photographer ✉️ admin@throughmylensproduction.com 🇲🇾 KUL/Penang NO REVIEW/PRODUCT SPONSORSHIP
     location: "Malaysia"
-    followers: 49131
-    engagement: 133
-    commentsToLikes: 0.024396
+    followers: 49100
+    engagement: 138
+    commentsToLikes: 0.032068
     id: ck14hd5n99q2b0i19gmwncvd3
     verified: false
-    hashtags: "#nikonz6, #nikonmalaysia, #zcreators, #concordekl"
+    hashtags: "#liverhealth, #newyearnewme, #2021resolutions, #jolokokl"
+  - username: "andraastari"
+    fullname: >-
+      Andra Astari
+    bio: >-
+      Freelance Fashion Stylist I also do daily review of beauty stuff in here 💄✨ Collab/Endorsement: DM or 📩
+    location: "Malaysia"
+    followers: 20070
+    engagement: 266
+    commentsToLikes: 0.017507
+    id: ck6txx2m10csz0j71ftignzp2
+    verified: false
+    hashtags: "#patunganuntukberbagithr, #dirumahaja, #photoshootideas, #andralifehacks"
+  - username: "fsstudiodesign"
+    fullname: >-
+      FLORENCIA  SECCHI
+    bio: >-
+      •Celebrity stylist •visual manager of @cantieridipisa • business owner @lavelatirrenia @fb.mediterranean 👉🏻📩 florenciasecchi@hotmail.com 👈🏻 Italy 🇮🇹
+    location: "Malaysia"
+    followers: 176394
+    engagement: 264
+    commentsToLikes: 0.021820
+    id: ck8tazicjtqo90j781ndxlu5a
+    verified: false
+    hashtags: "#myaesthetic, #myesthetic, #visualportraits, #theparisguru"
   - username: "spring_cottage"
     fullname: >-
       Spring Cottage
     bio: >-
-      Team of aspiring wedding stylist ,floral designers ,decorators in the Ritz-Carlton & Westin hotelKL, Malaysia.Email us contact@springcottage.com.my
+      Team of aspiring wedding stylist ,floral designers ,decorators in the Ritz-Carlton Malaysia.Email us contact@springcottage.com.my
     location: "Malaysia"
-    followers: 28040
-    engagement: 100
-    commentsToLikes: 0.006860
+    followers: 28674
+    engagement: 90
+    commentsToLikes: 0.004433
     id: ck13bg9q2va1v0i19jbtvh5d7
     verified: false
-    hashtags: "#weddingdecor, #mothersday, #flowersbouquet, #wedding"
+    hashtags: "#flowerstagram, #blessed, #flowers, #staysafe"
+  - username: "abaotw"
+    fullname: >-
+      ABAO_阿爆(阿仍仍)
+    bio: >-
+      Indigenous singer from Taiwan . Paiwanese 排灣族 📧vjdust@gmail.com 📀New single新單曲 《zaljum水》lyrics mv Out Now ⬇️⬇️
+    location: "Malaysia"
+    followers: 47404
+    engagement: 442
+    commentsToLikes: 0.006090
+    id: ck5chu1pargne0i11yjfsbt5b
+    verified: false
+    hashtags: "#stylist, #taipei, #throwback, #abao"
+  - username: "uyainaarshad"
+    fullname: >-
+      UA
+    bio: >-
+      🇲🇾 Actress & TV Host Manager: +60122278539 (Ridzwan) 🤍 @galeriariani 🤍 @prettian.my 🤍 @dyxycosmeticshq
+    location: "Malaysia"
+    followers: 1655470
+    engagement: 128
+    commentsToLikes: 0.006793
+    id: ck134c5q9vq550i19u0xatul8
+    verified: true
+    hashtags: "#mua, #stylist, #familiduo, #ratuhijabista"
+  - username: "alleyzheng"
+    fullname: >-
+      Alley Zheng
+    bio: >-
+      📧alleyzh.work@gmail.com - Have courage, and be kind. Store @zheng_studio Click #alleysoutfit
+    location: "Malaysia"
+    followers: 83270
+    engagement: 117
+    commentsToLikes: 0.007231
+    id: ck6tmxs3l8qgf0j71xqadatio
+    verified: false
+    hashtags: "#guerlainmakeup, #louisvuitton, #happyvalentinesday, #poodlecznbd"
   - username: "skybambi"
     fullname: >-
       Journal Scrapbooking | Tersh 🦌
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.038940
     id: ck0vy5ghk2bnb0i19trd8ev0f
     verified: false
-    hashtags: "#flatlaystyle, #stayhome, #calligraphy, #stationery"
-  - username: "5uperman"
-    fullname: >-
-      𝔻𝕒𝕟 ™  𝕃𝕠 🇲🇾
-    bio: >-
-      #MrEverywhere #SocialiteKL #PersatuanBubbleTeaMalaysia #MissVirtualMalaysia KOL ▪️Influencer ▪️Reviewer▪️Talent Manager ▪️Actor ▪️Events planner
-    location: "Malaysia"
-    followers: 29231
-    engagement: 452
-    commentsToLikes: 0.002607
-    id: ckaotojwkwsol0i78co0qxtko
-    verified: false
-    hashtags: "#bespokedaily, #classicdapper, #beautyqueen, #suit"
-  - username: "jannahreduan_"
-    fullname: >-
-      Fashion & Beauty
-    bio: >-
-      @alja.couture @jannahreduanmakeup @melaleucabyjannahreduan PRELOVED 👇🏻
-    location: "Malaysia"
-    followers: 60585
-    engagement: 253
-    commentsToLikes: 0.012543
-    id: ck6u111saix9g0j7181fopxhm
-    verified: false
-    hashtags: "#stylish, #ramadan2020, #blogger, #hijabselfie"
-  - username: "rassamfeali"
-    fullname: >-
-      Rassam Feali ™️
-    bio: >-
-      Award winner #photographer & #filmmaker #visualartist Co-founder 👉@un1que.leather👈 rassamfeali@gmail.com 👇👇👇👇
-    location: "Malaysia"
-    followers: 39487
-    engagement: 117
-    commentsToLikes: 0.022080
-    id: ck5zu83291v1i0i140zdklmu9
-    verified: false
-    hashtags: "#portraitphotography, #photographylovers, #red, #others"
-  - username: "baby_kilian_albert"
-    fullname: >-
-      Kilian Torres
-    bio: >-
-      ❌ #HAIR For Days🦁 ▪️Brand Rep ✖️Fashion/ Influencer/ Toy Review ▪️Dm To Collab ✖️Mama Runs My IG
-    location: "Malaysia"
-    followers: 51356
-    engagement: 393
-    commentsToLikes: 0.153645
-    id: ck13d2mee3cvt0i194p4pm0bc
-    verified: false
-    hashtags: "#deltachildren, #dmtocollab, #learning, #dino"
-  - username: "iam_irfun"
-    fullname: >-
-      𝐈𝐑𝐅𝐀𝐍 𝐙𝐀𝐈𝐍𝐈️️️️️  🧢
-    bio: >-
-      Sc/Twitter : iam_irfun Fb : IRFAN ZAINI (Enquiries Manager: +601111227100 GERI) CEO of @izcosmeticsmy
-    location: "Malaysia"
-    followers: 71401
-    engagement: 1067
-    commentsToLikes: 0.008128
-    id: ck0w3g0lwt7o80i19cnwygs40
-    verified: false
-    hashtags: "#merdeka, #astrovinmeenhd, #stylishdrama, #love"
+    hashtags: "#art, #writemore, #scrapbooklayout, #covid19"
 ---

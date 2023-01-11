@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Barcelona In 2022
+title: Top 10 Models TikTok Influencers In Barcelona In 2023
 description: >-
-  Find top models TikTok influencers in Barcelona in 2022. Most popular hashtags: #fyp #parati #model #foryou.
+  Find top models TikTok influencers in Barcelona in 2023. Most popular hashtags: #foryou #parati #fyp #viral.
 platform: TikTok
-hits: 11
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 11 TikTok influencers like this in Barcelona, Spain for you to pitch.
+hits: 5
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 5 TikTok influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "fabio_mendoza"
-    fullname: >-
-      Fabio Vega
-    bio: >-
-      
-    location: "Spain"
-    followers: 0
-    engagement: 1267
-    commentsToLikes: 0.012749
-    id: ck9jvth1kto110j78vnlr2m33
-    verified: false
-    hashtags: "#life, #handstand, #focus, #workout"
-  - username: "8chooxxx"
-    fullname: >-
-      Nael
-    bio: >-
-      Actor/model 18years en insta: @naeel.lp Contact:@hbaichinae@ipm.cat 300k?‼️
-    location: "Spain"
-    followers: 256000
-    engagement: 1659
-    commentsToLikes: 0.060309
-    id: ckb0f5i0q7dxn0j23veyy86vh
-    verified: false
-    hashtags: "#tiktok, #goviral, #fyp, #20k"
   - username: "chris_loan"
     fullname: >-
       chris_loan
     bio: >-
       Just a doctor trying to be happy 💉 Barcelona
     location: "Spain"
-    followers: 66600
-    engagement: 1373
-    commentsToLikes: 0.015777
+    followers: 73000
+    engagement: 1292
+    commentsToLikes: 0.015795
     id: ckbbaxsie00gd0j237s0xvqvi
     verified: false
-    hashtags: "#viralvideo, #foryou, #parati, #fyp"
+    hashtags: "#comedia, #viralvideo, #xyzbca, #medicina"
   - username: "evecasino"
     fullname: >-
       Eve
     bio: >-
       📍Barcelona
     location: "Spain"
-    followers: 9198
-    engagement: 546
-    commentsToLikes: 0.019294
+    followers: 9184
+    engagement: 527
+    commentsToLikes: 0.021731
     id: ckb0edkbp6rxb0j23b7o5ycfj
     verified: false
-    hashtags: "#bebe, #happy, #risa, #princess"
-  - username: "emitaz"
-    fullname: >-
-      EMITAZ - EMELIE 🦋
-    bio: >-
-      Fashion & A little bit of my life 💃🏽 Barcelona - London
-    location: "Spain"
-    followers: 40600
-    engagement: 523
-    commentsToLikes: 0.008611
-    id: ck9vfmwcq3vhq0j78o6sznbl3
-    verified: true
-    hashtags: "#tiktokfashion, #outfit, #outfits, #haul"
-  - username: "anastasia_sax_mcqueen"
-    fullname: >-
-      Anastasia McQueen
-    bio: >-
-      🎷International saxophonist 📸Model 🏄‍♀️Watersports & yachts 📍Ibiza
-    location: "Spain"
-    followers: 15300
-    engagement: 414
-    commentsToLikes: 0.018921
-    id: ckac8656dfald0i78136x9zsp
-    verified: false
-    hashtags: "#summertime, #saxophone, #superyacht, #formentera"
+    hashtags: "#fiesta, #castle, #smile, #boy"
   - username: "paasky_jr"
     fullname: >-
       Àlex Pascual
     bio: >-
       Insta: @pasky_jr From Barcelona📍
     location: "Spain"
-    followers: 15200
-    engagement: 687
-    commentsToLikes: 0.007356
+    followers: 14900
+    engagement: 715
+    commentsToLikes: 0.008798
     id: cka0igd2cdlgj0i78g27mtaff
     verified: false
-    hashtags: "#gym, #freelive, #crazy, #friends"
-  - username: "electrogirls"
-    fullname: >-
-      ElectroGirls
-    bio: >-
-      🚀 Girls & Electronic Music 🔥 Send us your Videos 🌍 Welcome to Our World
-    location: "Spain"
-    followers: 30500
-    engagement: 696
-    commentsToLikes: 0.010346
-    id: ckb9d7b490bgk0j2358s9169c
-    verified: false
-    hashtags: "#amelielens, #beauty, #peggygou, #music"
+    hashtags: "#party, #friends, #muscleup, #viral"
   - username: "evababicbell"
     fullname: >-
       Eva Babic Bell
     bio: >-
       instagram 📸: evabbell
     location: "Spain"
-    followers: 25500
-    engagement: 360
-    commentsToLikes: 0.012525
+    followers: 24900
+    engagement: 505
+    commentsToLikes: 0.008695
     id: cka0vl4voyzki0i78imgwwd7g
     verified: false
-    hashtags: "#foryou, #parati, #tiktok, #fyp"
-  - username: "anatorresmodel2"
+    hashtags: "#boyfriend, #fyp, #foryou, #model"
+  - username: "venusbcn"
     fullname: >-
-      Ana Torres Model
+      Venus BCN 
     bio: >-
-      Soy Ana Instagram➡️ @anatorresmodel ❤💜💙🧡💛 Ya que estás aquí SONRÍE😍
+      
     location: "Spain"
-    followers: 50200
-    engagement: 1165
-    commentsToLikes: 0.224523
-    id: ckbes1taxar0t0j23qu5h1h9w
+    followers: 7517
+    engagement: 1003
+    commentsToLikes: 0.023488
+    id: cka0hzyp6bjju0i78vz8ry0x2
     verified: false
-    hashtags: "#covid, #quierete, #sonrie, #dancing"
+    hashtags: "#educacion, #catal, #cultura, #espa"
+  - username: "ansesurff"
+    fullname: >-
+      Ansesurf
+    bio: >-
+      🥴 No mires mi Instagram 🥴 🇪🇸 Spanish model living in México 🇲🇽
+    location: "Spain"
+    followers: 376200
+    engagement: 1264
+    commentsToLikes: 0.019625
+    id: ckbbf8jzj3zck0j23ktrbtttq
+    verified: true
+    hashtags: "#malemodeling, #aprendecontiktok, #modelosespa, #pegar"
+  - username: "rebecca_casiraghi"
+    fullname: >-
+      Rebecca Casiraghi 
+    bio: >-
+      Model in @enjoymodelsagency 🌟 Italian 🇮🇹 - French 🇫🇷 📍Paris🗼- Côte D'Azur
+    location: "Spain"
+    followers: 56700
+    engagement: 220
+    commentsToLikes: 0.047578
+    id: ckcdm79kva1ge0j23xxt1xsyz
+    verified: false
+    hashtags: "#challenge, #rebecca, #pourtoi, #foryou"
+  - username: "alba.t.m"
+    fullname: >-
+      Alba TM
+    bio: >-
+      🇪🇸Actress/Model/Youtuber/Taekwondo ESP/ENG/한국어 Albatkd1111@gmail.com 📩
+    location: "Spain"
+    followers: 46500
+    engagement: 1245
+    commentsToLikes: 0.028449
+    id: cka0rvn3nipqp0i78drf6n9wl
+    verified: false
+    hashtags: "#aprendecoreano, #kpop, #lentejas, #coreano"
+  - username: "tata_0rozco"
+    fullname: >-
+      tata_0rozco
+    bio: >-
+      Entrepreneur Blogger & model
+    location: "Spain"
+    followers: 2796
+    engagement: 798
+    commentsToLikes: 0.024599
+    id: ckbkz14jsv7ez0j23980und4f
+    verified: false
+    hashtags: "#foryoupage, #parati, #foryou, #fyp"
+  - username: "bushidoagent"
+    fullname: >-
+      Bushidoagent
+    bio: >-
+      CEO-Fundador Bushido Talents / Influencer manager - Model Agent
+    location: "Spain"
+    followers: 21200
+    engagement: 724
+    commentsToLikes: 0.012617
+    id: ck9epgmhbsl5u0j78oy13tocd
+    verified: false
+    hashtags: "#felicidad, #humor, #bushidofamily, #bushidotalent"
 ---

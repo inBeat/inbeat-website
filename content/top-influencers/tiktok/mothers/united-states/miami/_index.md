@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Miami In 2022
+title: Top 10 Mothers TikTok Influencers In Miami In 2023
 description: >-
-  Find top mothers TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #viral #miami #duet.
+  Find top mothers TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #viral #mother.
 platform: TikTok
-hits: 11
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 11 TikTok influencers like this in Miami, United States for you to work with.
+hits: 12
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
+  - username: "1sweetsugababy"
+    fullname: >-
+      Shavonne Jones
+    bio: >-
+      Body care products that promotes self care 👇🏾👇🏾
+    location: "United States"
+    followers: 3012
+    engagement: 1081
+    commentsToLikes: 0.051027
+    id: ckai476d7mt4a0i78uutsxkp7
+    verified: false
+    hashtags: "#smallbusinesstiktok, #fyp, #widenthescreen, #nailtutorial"
   - username: "yudyvaldes8"
     fullname: >-
       yudy valdes
     bio: >-
       CUBAN 🇨🇺 from Miami 🏝 ♓️PISCES Mother of 2 boys (31yrs old) YouTube ⬇️
     location: "United States"
-    followers: 33500
-    engagement: 1812
-    commentsToLikes: 0.038164
+    followers: 36600
+    engagement: 1301
+    commentsToLikes: 0.031426
     id: ck9gldcm8nri10j7880ix5veu
     verified: false
-    hashtags: "#pati, #duet, #comipescao, #problemsolved"
-  - username: "laliplopurbina"
+    hashtags: "#newbeginnings, #2021, #colorcustomizer, #greenscreen"
+  - username: "chelsblog"
     fullname: >-
-      Tia Bitter
+      Chel
     bio: >-
-      (Judging you in Spanish) MIAMI 🌺MAMI
+      Oh hey, didn’t see ya there :)
     location: "United States"
-    followers: 13200
-    engagement: 1176
-    commentsToLikes: 0.046240
-    id: ckav2lras8rop0j23o2o4s4eg
+    followers: 137800
+    engagement: 2032
+    commentsToLikes: 0.016946
+    id: ck9v8g0og9psx0j78sibstuxp
     verified: false
-    hashtags: "#blacklivesmatter, #stopracism, #okkaren, #notonething"
-  - username: "____amays.officia"
+    hashtags: "#greenscreen, #greenscreenvideo, #mompov, #dadjokes"
+  - username: "nickbogolepov"
     fullname: >-
-      ____amays.official__
+      NICK B
     bio: >-
-      El tiempo de Dios es perfecto..🙏 @____amays.official____ Cubano🇨🇺 Miami Model
+      IG : nickbogolepov MAMACITA OUT NOW ⬇
     location: "United States"
-    followers: 77800
-    engagement: 1135
-    commentsToLikes: 0.036702
-    id: ckacfmx5drkh30i78fojq0a4x
+    followers: 19400
+    engagement: 846
+    commentsToLikes: 0.034676
+    id: ckacs8htx8ywl0i780z1ga13e
     verified: false
-    hashtags: "#tiktok, #love, #foryou, #paratii"
-  - username: "bettylkelley"
+    hashtags: "#fyp, #russianmom, #russianpranks, #russian"
+  - username: "eleganterin4"
     fullname: >-
-      Betty L Kelley
+      ElegantErin4
     bio: >-
-      Wife💍 Mother👭🏽🤾🏾‍♂️ Model📷 Jewelry Designer 🧹📿 Follow my IG: @_jewelher
+      Insta: @eleganterin4 @twyguy315
     location: "United States"
-    followers: 3799
-    engagement: 940
-    commentsToLikes: 0.053132
-    id: ckdhpe8ef1biu0j23sfhb7keb
+    followers: 62700
+    engagement: 283
+    commentsToLikes: 0.017510
+    id: ckcjswf7bhzdt0j232wu5oy6u
     verified: false
-    hashtags: "#fun, #braids, #spooky, #family"
+    hashtags: "#stitch, #fyp, #foryoupage, #food"
+  - username: "chylo_"
+    fullname: >-
+      Chylo
+    bio: >-
+      Tuh! Insta: Chyrock_
+    location: "United States"
+    followers: 39500
+    engagement: 516
+    commentsToLikes: 0.009766
+    id: ckbezb3wrkbf70j23wk8j669i
+    verified: false
+    hashtags: "#fyp, #brothersister, #foryoupage, #funny"
   - username: "wtfmiami"
     fullname: >-
       Miami WTF
     bio: >-
       🚧Miami🚧 H👀D Report‼️ Ⓜ️ature Audience Only | 🔞 Viewers Discretions Advised
     location: "United States"
-    followers: 4754
-    engagement: 575
-    commentsToLikes: 0.023599
+    followers: 5225
+    engagement: 585
+    commentsToLikes: 0.032882
     id: ckberdqyv9n040j23taiijii7
     verified: false
-    hashtags: "#exclusive, #funny, #videos, #fly"
-  - username: "nickbogolepov"
+    hashtags: "#video, #trending, #miami, #miamiwtf"
+  - username: "gizele_.tavares"
     fullname: >-
-      NICK B
+      Gizele Tavares
     bio: >-
-      IG : nickbogolepov Russian New Yorker MAMACITA OUT NOW ⬇
+      Author with 9 published books , actress and model follow my Ig @gizele_.tavares
     location: "United States"
-    followers: 17300
-    engagement: 844
-    commentsToLikes: 0.038091
-    id: ckacs8htx8ywl0i780z1ga13e
+    followers: 41000
+    engagement: 750
+    commentsToLikes: 0.053477
+    id: ck8hnfg0lqpmu0j78gurl6zxv
     verified: false
-    hashtags: "#greenscreen, #fyp, #nyc, #brighton"
-  - username: "azulathecheezit"
+    hashtags: "#love, #fy, #jet, #model"
+  - username: "a.d.woods"
     fullname: >-
-      azula the cheezit
+      Dada&YaYa
     bio: >-
-      jinora’s biggest fan korra’s lawyer she/her buy my art!
+      Daddy&Daughter Life Aaliyah Rose & Andre D. Woods Daddy’s IG: @a.d.woods
     location: "United States"
-    followers: 36100
-    engagement: 2271
-    commentsToLikes: 0.023599
-    id: ckd0bl7qjcenr0j23dkzw440z
+    followers: 120200
+    engagement: 1382
+    commentsToLikes: 0.012321
+    id: ckacfuea7sinq0i78jg6lep8w
     verified: false
-    hashtags: "#chem, #neonshadow, #college, #tlok"
-  - username: "ilovemar_"
+    hashtags: "#father, #la, #daddy, #viral"
+  - username: "maya.bensaadon"
     fullname: >-
-      ILoveMar
+      maya_bensaadon
     bio: >-
-      CEO of do y’all remember? Young king just Tryna make people laugh
+      That Calabasas girl ig🤷🏽‍♀️💕✨ Snap- mayabensaadonn 50k?
     location: "United States"
-    followers: 48500
-    engagement: 1635
-    commentsToLikes: 0.018047
-    id: ckb9izdkza0r50j231sa74liv
+    followers: 21000
+    engagement: 955
+    commentsToLikes: 0.030645
+    id: ckb9b6bv0x3l40j23l1p9p3it
     verified: false
-    hashtags: "#fyp, #xyzbca, #nba, #theboys"
-  - username: "kari.nautique"
-    fullname: >-
-      kari.nautique
-    bio: >-
-      Author, Model, Mom 📍Miami Click my link for all my other sites
-    location: "United States"
-    followers: 68300
-    engagement: 942
-    commentsToLikes: 0.022352
-    id: ck9dz5xcf05o70j78kjgpmjh8
-    verified: false
-    hashtags: "#fyp, #singlelife, #dogsoftiktok, #studyhacks"
-  - username: "ilovemusicfestivals"
-    fullname: >-
-      fatherbrittany
-    bio: >-
-      🧿 🌈 guide to the other side (no labels, just use the force) follow my insta
-    location: "United States"
-    followers: 178100
-    engagement: 1690
-    commentsToLikes: 0.011096
-    id: ckamlcb95vrbd0i780mz6959m
-    verified: false
-    hashtags: "#spirituality, #comedy, #witchtok, #1111"
+    hashtags: "#foryou, #me, #viral, #car"
 ---

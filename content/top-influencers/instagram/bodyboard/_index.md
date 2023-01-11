@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodyboard Instagram Influencers In 2022
+title: Top 10 Bodyboard Instagram Influencers In 2023
 description: >-
-  Find top bodyboard Instagram influencers in 2022. Most popular hashtags: #bodyboard #bodyboarding #surf.
+  Find top bodyboard Instagram influencers in 2023. Most popular hashtags: #bodyboard #bodyboarding #surfing.
 platform: Instagram
-hits: 249
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 249 Instagram influencers like this for you to collaborate.
+hits: 242
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 242 Instagram influencers like this for you to contact.
 profiles:
-  - username: "kyra.97"
-    fullname: >-
-      白波瀬 海来🌞Shirahase Kyra
-    bio: >-
-      アーティストハウスピラミッド所属 🦋Talent / Bodyboarder🦋 💡11/25(水)発売.現在予約受付中!! DVD【1st Impact かいらの日焼け跡 白波瀬海来】 💡【ヤングジャンプ】巻末掲載!! 💡【週刊FLASHデジタル写真集】 💡【ポストデジタル写真集】
-    location: "Japan"
-    followers: 30902
-    engagement: 1171
-    commentsToLikes: 0.016491
-    id: ck5zwt9zn6q3h0i14b1am2d96
-    verified: false
-    hashtags: "#surf, #aircontrol, #bodyboard, #dvd"
   - username: "alexandrarinder"
     fullname: >-
       Alexandra Rinder
     bio: >-
       Pro Bodyboarder from the Canary Islands 🇮🇨 🏆2x APB World Champion 🥇1x European Champion 🥇2x Junior European Champion
     location: "Canary Islands"
-    followers: 36306
-    engagement: 666
-    commentsToLikes: 0.022285
+    followers: 35962
+    engagement: 667
+    commentsToLikes: 0.020139
     id: ck0vznc3v9ygd0i19bpd0x0tc
     verified: false
-    hashtags: "#sonrisasescribanoescriva, #escribanoescriva, #costaadejeesgarant, #costaadejeyourguarantee"
-  - username: "robertobruno_"
+    hashtags: "#elfronton"
+  - username: "brahim_iddouch"
     fullname: >-
-      Roberto Bruno
+      Brahim Iddouch
     bio: >-
-      5X Campeão Brasileiro Top 7 mundial 2017 11X Campeão Cearense Direito ⚖️ @maresiaoficial @genesisbodyboards_ce @bodyboardshow @invertstyle
-    location: "Brazil"
-    followers: 7927
-    engagement: 744
-    commentsToLikes: 0.035915
-    id: ck5zuu14t31d80i14sg7turl8
-    verified: false
-    hashtags: "#surf, #praiadofuturo, #bodyboarder, #vivacadamomento"
-  - username: "lara_ascanio"
-    fullname: >-
-      Lara Ascanio
-    bio: >-
-      Canary Islands. #bodyboard
-    location: "Spain"
-    followers: 7885
-    engagement: 848
-    commentsToLikes: 0.020954
-    id: ck0vznbr09yf40i19hqkxl8kc
-    verified: false
-    hashtags: "#newleggings, #autumn, #aventuras, #youarebeautiful"
-  - username: "iloveturtlepoo"
-    fullname: >-
-      Lujain
-    bio: >-
-      Currently in: Male 🇲🇻 🏝 Cloth diapering, traveling, diving, kiteboarding, bodyboarding, skating, food, parenting and a lot more.
+      Professional Bodyboarder From Morocco 🇲🇦
     location: "United States"
-    followers: 8964
-    engagement: 1503
-    commentsToLikes: 0.017985
-    id: ck5zk0r7sim4u0i1480cy1a9w
+    followers: 30505
+    engagement: 445
+    commentsToLikes: 0.027256
+    id: ck0vy4kb127ou0i19dnbq2eoq
     verified: false
-    hashtags: "#2yearsold, #aylihamdhanhameed, #julehamdhanhameed, #1yearold"
+    hashtags: "#teamwildboar, #frmsb, #frms, #lanzarote"
+  - username: "mikahelaquinn"
+    fullname: >-
+      MIKA🐉
+    bio: >-
+      Atleta Nacional Bodyboard🇨🇷 Escalar🧗🏼‍♀️ 📩 immikahelac@gmail.com If you're not making waves, you're not kicking hard enough @sleepymikah
+    location: "Spain"
+    followers: 29482
+    engagement: 572
+    commentsToLikes: 0.012648
+    id: ck5hmfpj0lv9q0i11ihh7mi6r
+    verified: false
+    hashtags: ""
   - username: "vudukchild"
     fullname: >-
       natalia
     bio: >-
       🌵Photographer, bodyboarder and fashion lover 🌴 @tutublueca Ambassador 🍍Around Fuerteventura and interested in a shooting? Message me.
     location: "United Kingdom"
-    followers: 17334
-    engagement: 400
-    commentsToLikes: 0.024425
+    followers: 17603
+    engagement: 407
+    commentsToLikes: 0.030311
     id: ck6tw55tqq2e30j715663pc6b
     verified: false
-    hashtags: "#islabastimentos, #abikiniaday, #canaryislands, #corralejo"
-  - username: "mikahelaquinn"
+    hashtags: "#northshore, #desertliving, #islabastimentos, #fuerteventura"
+  - username: "paola_simao"
     fullname: >-
-      MIKA🐉
+      Paola Simão
     bio: >-
-      Atleta Nacional Bodyboard🇨🇷 Escalar🧗🏼‍♀️ @662mob @besodemar @zoom_accesorios If you're not making waves, you're not kicking hard enough
-    location: ""
-    followers: 27245
-    engagement: 450
-    commentsToLikes: 0.008493
-    id: ck5hmfpj0lv9q0i11ihh7mi6r
+      🐚Pro Bodyboarder from Brasil 🌻paolasimao@yahoo.com.br
+    location: "Brazil"
+    followers: 14995
+    engagement: 475
+    commentsToLikes: 0.027279
+    id: ck55nowq36nqa0i116195t59v
     verified: false
-    hashtags: "#bodyboarding, #morning, #freedom, #happyhalloween"
+    hashtags: "#dentrodevoce, #alguemve, #praiadorosa, #itacoatiaraeuteamo"
   - username: "nany_vc2511"
     fullname: >-
       Nany (roquita 🐠)
     bio: >-
       📚 Enfermería UV 💉 ⚡ Bodyboard 💙 🌊Quintero🌬️ 🌺G°99 🌺 🇨🇱❤️
     location: ""
-    followers: 6059
-    engagement: 626
-    commentsToLikes: 0.030082
+    followers: 6328
+    engagement: 754
+    commentsToLikes: 0.019306
     id: ck6uayk9z6fqt0j71wropk0a1
     verified: false
-    hashtags: "#chile, #chilewaves, #bodyboarding, #leyendasdequintero"
-  - username: "eriksilviino"
+    hashtags: "#costasdechile, #girlspower, #chilewaves, #chilebodyboard"
+  - username: "jatoba_gabriel"
     fullname: >-
-      Erik Silvino
+      Gabriel Jatoba
     bio: >-
-      🌊❤️ Bodyboarder from 🇧🇷 @melhorbrowniedoplaneta 🌱
-    location: "Brazil"
-    followers: 7266
-    engagement: 641
-    commentsToLikes: 0.040069
-    id: ck6too0dwf4i40j71drx2trlm
+      Bodyboarder / FROM : Itacoatiara IBC @itacoatiarabc #somaluco #itacoa
+    location: "Sweden"
+    followers: 2300
+    engagement: 1813
+    commentsToLikes: 0.066861
+    id: ck6tml5an81k20j71r3kgquur
     verified: false
-    hashtags: "#photography, #bodyboard, #canon, #gopro"
-  - username: "paola_simao"
+    hashtags: "#irmandade, #bodyboard, #amizade, #terral"
+  - username: "lara_ascanio"
     fullname: >-
-      Paola Simão
+      Lara Ascanio
     bio: >-
-      🐚Pro Bodyboarder from Brasil 🦋paolasimao@yahoo.com.br
-    location: "Brazil"
-    followers: 14627
-    engagement: 535
-    commentsToLikes: 0.027154
-    id: ck55nowq36nqa0i116195t59v
+      Canary Islands. #bodyboard
+    location: "Spain"
+    followers: 8137
+    engagement: 1059
+    commentsToLikes: 0.070282
+    id: ck0vznbr09yf40i19hqkxl8kc
     verified: false
-    hashtags: "#chapadadosveadeiros, #imagensquecuram, #nikiti, #trabalharcomoqueama"
+    hashtags: "#islascanarias, #elconfital, #surfgirl, #bodyboard"
+  - username: "socrates_santana"
+    fullname: >-
+      • Little doctor •👨🏾‍⚕️
+    bio: >-
+      Professional Bodyboard 🏆 2015 and 2016 apbtour 🌎 Junior Champion ⠀ 🥇@isasurfing (equipes) 🏆 2018 @cbrasb Champion ⠀ ⠀ ⠀ 🏡🇧🇷 #socratesbb
+    location: "Brazil"
+    followers: 20226
+    engagement: 930
+    commentsToLikes: 0.358506
+    id: ckaot4npiud9c0i78fhzki868
+    verified: false
+    hashtags: "#errejota, #ibcworldtour, #favelastorm, #posto5"
+  - username: "melody.stevenss"
+    fullname: >-
+      MELODY STEVENS 🏄🏼‍♀️
+    bio: >-
+      National Champ of CR 2018 junior ( Bodyboard) 18 years old 🇨🇷- 🇺🇸📍Oside CA
+    location: "United States"
+    followers: 30015
+    engagement: 625
+    commentsToLikes: 0.025971
+    id: ck5zvgwka47pk0i14x3ceq06a
+    verified: false
+    hashtags: "#camelogirl, #bodyboard, #costarica, #bikinigirl"
 ---

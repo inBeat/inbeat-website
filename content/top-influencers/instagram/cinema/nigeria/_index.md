@@ -1,130 +1,106 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Nigeria In 2022
+title: Top 10 Cinema Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top cinema Instagram influencers in Nigeria in 2022. Most popular hashtags: #bellanaijaweddings #cinematography #love.
+  Find top cinema Instagram influencers in Nigeria in 2023. Most popular hashtags: #love #photography #cinematography #beautiful.
 platform: Instagram
-hits: 24
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 24 Instagram influencers like this in Nigeria for you to collaborate.
+hits: 8
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Nigeria for you to pitch.
 profiles:
-  - username: "iam_frush"
-    fullname: >-
-      Victor Giwa
-    bio: >-
-      SLaY PaPi😍 *Entertainer *Host/Compere *Youtuber *Actor*DronePilot *Cinematograher📽 @createdbyfrush *Enquires: @getworldwide_
-    location: "Nigeria"
-    followers: 54736
-    engagement: 1196
-    commentsToLikes: 0.052385
-    id: ck134n413x83c0i19cglq9fjl
-    verified: false
-    hashtags: "#bts, #endsars, #endsarsmovement, #endsarz"
-  - username: "kristofbrandl"
-    fullname: >-
-      Kristof Brandl
-    bio: >-
-      cinematographer, montréal
-    location: "Nigeria"
-    followers: 12132
-    engagement: 527
-    commentsToLikes: 0.023984
-    id: ck5qcztsyt4yd0i11tqfy3886
-    verified: false
-    hashtags: ""
-  - username: "mcefilms"
-    fullname: >-
-      Wilfred A. Samson 🇳🇬
-    bio: >-
-      • Media Concept ® • #CINEMATOGRAPHER™ • #Wedding • #Event • #Videographer • WhatsApp: +234 813 192 6017
-    location: "Nigeria"
-    followers: 2298
-    engagement: 624
-    commentsToLikes: 0.143361
-    id: ckf5m9vkzsw470j236pfictu9
-    verified: false
-    hashtags: "#weddingfilm, #naijaweddingvideo, #afterparty, #naijawedding"
-  - username: "nayaeffectz"
-    fullname: >-
-      NAYA
-    bio: >-
-      TRONIQ INC. / CINEMATOGRAPHER / DIRECTOR. Mgmt. @man_ent1 @iamgiovanni1 @bobby_yanky
-    location: "Nigeria"
-    followers: 30203
-    engagement: 431
-    commentsToLikes: 0.048973
-    id: ck1383mwkecbf0i19ns8mzb3k
-    verified: false
-    hashtags: "#nayacreativestudios, #nayaeffectz, #yougofilmschool"
   - username: "kola_oye"
     fullname: >-
       KOLAOYE | CINEMATOGRAPHER
     bio: >-
       Cinematography/ Film Director 🇫🇷 Photographer 🥂 Director @kola_oye For bookings - 08100499841
     location: "Nigeria"
-    followers: 2760
-    engagement: 803
-    commentsToLikes: 0.179068
+    followers: 2770
+    engagement: 820
+    commentsToLikes: 0.207677
     id: ck5hq711nsmad0i11p7vu90xp
     verified: false
-    hashtags: "#kolaoyefilms, #weddingphotography, #cinematography, #filmmaking"
-  - username: "fedworks"
-    fullname: >-
-      F E D W O R K S
-    bio: >-
-      Creative | Cinematographer | Film
-    location: "Nigeria"
-    followers: 7841
-    engagement: 589
-    commentsToLikes: 0.071905
-    id: ck0w0b37pdb1y0i19maidjcnw
-    verified: false
-    hashtags: "#storytelling, #story, #cinematography, #versefive"
+    hashtags: "#cinematography, #explorepage, #love, #photography"
   - username: "galleriafilms"
     fullname: >-
       Galleria Films RC: 2648026
     bio: >-
-      A team of Professional wedding cinematographer, Available for ✈️travels 📞08099449399 NO DM🚫 Whatsapp Only: 08036858426
+      A team of Professional wedding/documentary/advert cinematographers, Available for ✈️travels 📞 and Whatsapp ::08036858426 NO DM🚫 NO REFUND 🚫
     location: "Nigeria"
-    followers: 45900
-    engagement: 443
-    commentsToLikes: 0.017164
+    followers: 66202
+    engagement: 359
+    commentsToLikes: 0.016519
     id: ck5hrd8g6uod00i11lp5mvcqj
     verified: false
-    hashtags: "#groom, #dinner, #arewaweddings, #northernweddings"
+    hashtags: "#wedding, #beauty, #weddingcinematography, #love"
   - username: "java_studios"
     fullname: >-
       Wedding&Portrait Photographer
     bio: >-
-      Hello, I am Mr. Java. Pick a date ; I'd pick a lens. Available for travel ✈ Personal page @javaailon ☎08079842577, 08027154234 For bookings👇
+      Hello, I am Mr. Java What's your date? Me @javaailon Bookings ☎08079842577, 08027154234 ✉️contact.javastudios@gmail.com
     location: "Nigeria"
-    followers: 3838
-    engagement: 2136
-    commentsToLikes: 0.015434
+    followers: 4428
+    engagement: 1351
+    commentsToLikes: 0.013339
     id: ck6tvg2lpm1at0j71nz4r3ors
     verified: false
-    hashtags: "#naturallight, #model, #beautiful, #ibadanwedding"
-  - username: "octalayke"
+    hashtags: "#art, #weddingfashionevents, #weddingdigestnaija, #portraitpage"
+  - username: "fedworks"
     fullname: >-
-      OCTA | CINEMATOGRAPHER
+      F E D W O R K S
     bio: >-
-      LIFESTYLE | CREATIVITY Director | DP | Drone Pilot
+      Creative | Film | Documentary
     location: "Nigeria"
-    followers: 11851
-    engagement: 951
-    commentsToLikes: 0.104926
-    id: ck5hq6zshsm7v0i11bnmljerz
+    followers: 8197
+    engagement: 642
+    commentsToLikes: 0.062647
+    id: ck0w0b37pdb1y0i19maidjcnw
     verified: false
-    hashtags: "#events, #endpolicebrutality, #cinematography, #endsars"
-  - username: "fabolousbanji"
+    hashtags: "#endsars, #cinematography, #story, #endpolicebrutality"
+  - username: "khalifashema"
     fullname: >-
-      Fine Art Photographer
+      Mr.K          🍊
     bio: >-
-      Portraits | Painterly Portraits | Weddings | Fashion ▪️ Weddings • @thefabweddings Alternative Account • @filmictonesbyfab
+      • 🎥Videographer •Bussiness @flares_media & @mr.k_photogram •twitter: khalifa_shema
     location: "Nigeria"
-    followers: 88706
-    engagement: 264
-    commentsToLikes: 0.014644
-    id: ck5q766o904zp0i11jmiypkbs
+    followers: 11852
+    engagement: 446
+    commentsToLikes: 0.024173
+    id: ck8szwcxzpyha0j781qqmxjsn
     verified: false
-    hashtags: ""
+    hashtags: "#cats, #photography, #filmmaker, #photoshop"
+  - username: "baajadebule"
+    fullname: >-
+      Baaj Adebule
+    bio: >-
+      Actor | Film Maker | World Influencer Twitter: @BaajAdebule Actor Showreel link on the website. Please Check out my film @comewithme_movie
+    location: "Nigeria"
+    followers: 57692
+    engagement: 219
+    commentsToLikes: 0.058074
+    id: ck5bv6zb4j3jz0i11g01v1rpl
+    verified: true
+    hashtags: "#covid, #onelove, #actor, #stayhealthy"
+  - username: "ybimultimedia"
+    fullname: >-
+      YBI Multimedia
+    bio: >-
+      We are a PR company that builds extraordinary digital experiences. Studio/weddings @ybimultimedia_studios For bookings 08107058787
+    location: "Nigeria"
+    followers: 10118
+    engagement: 485
+    commentsToLikes: 0.008846
+    id: ck5hftwepzb560i11m3m8ydq4
+    verified: false
+    hashtags: "#photosession, #photographer, #photoshooting, #instagram"
+  - username: "capt_elma"
+    fullname: >-
+      Elma Mbadiwe
+    bio: >-
+      Actor | Human being | Not your role model
+    location: "Nigeria"
+    followers: 12698
+    engagement: 640
+    commentsToLikes: 0.058147
+    id: ck5bv6xdzj3h00i11vsg16vj3
+    verified: false
+    hashtags: "#rattlesnaketheahannastory, #playnetworkstudios, #rs2billi, #rattlesnake"
 ---

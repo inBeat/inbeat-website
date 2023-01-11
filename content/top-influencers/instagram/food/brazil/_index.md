@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Brazil In 2022
+title: Top 10 Food Instagram Influencers In Brazil In 2023
 description: >-
-  Find top food Instagram influencers in Brazil in 2022. Most popular hashtags: #fotografia #quarentena #tbt.
+  Find top food Instagram influencers in Brazil in 2023. Most popular hashtags: #publi #love #tbt.
 platform: Instagram
-hits: 1025
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 1025 Instagram influencers like this in Brazil for you to connect with.
+hits: 940
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 940 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "kertes_"
+  - username: "luciano"
     fullname: >-
-      Bruna Kertes
+      Luciano Bruno
     bio: >-
-      lifestyle | geek | games | food | decor 💌oikertes@gmail.com
+      •Nutricionista | Palestrante | Escritor •PhD em Food Science - Cornell University •Doutor e Mestre •Faça parte do meu clube! ✨🖥️📚⤵️
     location: "Brazil"
-    followers: 16014
-    engagement: 1092
-    commentsToLikes: 0.231020
-    id: ck8t1xukqxh7w0j785qxr2ypi
-    verified: false
-    hashtags: "#ape41a, #silverhair, #platinado, #scandihome"
-  - username: "lyviaroberta_"
-    fullname: >-
-      Lyvia Roberta ✨
-    bio: >-
-      🏡| Alagoana 🙌🏻| God is love 💍| Lucas Martins 📲| Aceito parcerias e jobs 📌| Dailylife-blogger-beauty-food 💕| Seja morada de sentimentos bons.
-    location: "Brazil"
-    followers: 8694
-    engagement: 1115
-    commentsToLikes: 0.210868
-    id: ck8tauhayt3yc0j78f10meouk
-    verified: false
-    hashtags: "#likes, #lightroompresets, #feedorganizado, #arapiraca"
-  - username: "vii_freitasxw"
-    fullname: >-
-      ANDRESSA VIVIANE FREITAS
-    bio: >-
-      • orar, esperar e agradecer ✨lifestyle | fashion | food → Rondonópolis | MT
-    location: "Brazil"
-    followers: 5076
-    engagement: 2328
-    commentsToLikes: 0.437676
-    id: ckap1k5s5uvkx0i78z6icwrd1
-    verified: false
-    hashtags: "#formaturaengenhariacivil, #photograph, #photo, #fotografia"
-  - username: "rafaelaalexandra0"
-    fullname: >-
-      Rafaela Duarte | Healthy 💫
-    bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
-    location: "Brazil"
-    followers: 51046
-    engagement: 628
-    commentsToLikes: 0.041349
-    id: ckapbzw1a1xic0i78r1nx98i6
-    verified: false
-    hashtags: "#breakfastideas, #fruit, #foodie, #pub"
-  - username: "myketakashi"
-    fullname: >-
-      Myke Takashi
-    bio: >-
-      ▪️ Jornalismo | Marketing e comunicação 📍 São Paulo - Curitiba ✨ Saúde | lifestyle | food | autocuidado✨
-    location: "Brazil"
-    followers: 13256
-    engagement: 982
-    commentsToLikes: 0.064936
-    id: ckap1g78xugko0i78k3czew7o
-    verified: false
-    hashtags: "#lagoaazul, #tbt, #blackouttuesday"
+    followers: 1129979
+    engagement: 106
+    commentsToLikes: 0.051716
+    id: ck0w1p4udkfy90i199i57wm0k
+    verified: true
+    hashtags: "#nutricaoeficiente"
   - username: "vinibuttel"
     fullname: >-
       Vini Büttel
     bio: >-
       @mtvbrasil Lifestyle | Food | Sports | Travel 📫vinibuttel@hotmail.com
     location: "Brazil"
-    followers: 155186
-    engagement: 614
-    commentsToLikes: 0.015493
+    followers: 203845
+    engagement: 471
+    commentsToLikes: 0.025213
     id: ckf5q484584s60j23doxiyshz
     verified: false
-    hashtags: "#2905, #choratio, #frangoprateado, #quarentenamaldita"
+    hashtags: "#choramimizento, #2905, #frangoprateado, #quarentenamaldita"
+  - username: "lastlostlovers"
+    fullname: >-
+      𝓟𝓪𝓽𝓻𝓲𝓬𝓲𝓪 ♥ 𝓔𝓶𝓪𝓷𝓾𝓮𝓵®
+    bio: >-
+      ⚤ from Portugal ≏ @loversphilosophycaffe ❥ love | photography | travel | food 𖡡 #pontedelima
+    location: "Brazil"
+    followers: 18603
+    engagement: 529
+    commentsToLikes: 0.169712
+    id: ck0w5yxue63si0i19taqdsp0f
+    verified: false
+    hashtags: "#traveltheworld, #pontedelima, #philippines, #couples"
+  - username: "lyviaroberta_"
+    fullname: >-
+      Lyvia Roberta 💕
+    bio: >-
+      💍| Lucas ✨| 18 anos 🌳| Arapiraca-AL 🙌🏼| Daughter of God 📌| Dailylife-blogger-beauty-food 🦋| Vivendo em constante metamorfose.
+    location: "Brazil"
+    followers: 8775
+    engagement: 884
+    commentsToLikes: 0.153379
+    id: ck8tauhayt3yc0j78f10meouk
+    verified: false
+    hashtags: "#tumblrgirl, #fotografia, #newpost, #mensagens"
+  - username: "euannaliima"
+    fullname: >-
+      𝘼𝙣𝙣𝙖 💕
+    bio: >-
+      •lifestyle | dicas | filmes,séries | rotina | food | criativo -🚨perfil monitorado🚨 -Araras-SP -parcerias/trabalhos @euannaliima (direct)📩
+    location: "Brazil"
+    followers: 6677
+    engagement: 867
+    commentsToLikes: 0.207624
+    id: ckap73tlhiiid0i78nflx1q50
+    verified: false
+    hashtags: ""
+  - username: "myketakashi"
+    fullname: >-
+      Myke Takashi
+    bio: >-
+      ▪️ Jornalismo | Marketing e comunicação 📍 São Paulo - Curitiba ✨ Saúde | lifestyle | food | autocuidado✨
+    location: "Brazil"
+    followers: 17512
+    engagement: 752
+    commentsToLikes: 0.063914
+    id: ckap1g78xugko0i78k3czew7o
+    verified: false
+    hashtags: "#lagoaazul, #tbt, #blackouttuesday"
+  - username: "laylyne_"
+    fullname: >-
+      Laylyne Lopes
+    bio: >-
+      Make • Look • Food • Viagens 🦋 🛍 @glowmakeslz 👩🏻‍🎓 Fisioterapia ⚡️🐍 📍São Luís-MA
+    location: "Brazil"
+    followers: 16530
+    engagement: 521
+    commentsToLikes: 0.098927
+    id: ck8tal8zts8aa0j782lmfcp8f
+    verified: false
+    hashtags: "#aerolook, #publi, #reels, #makeup"
   - username: "ana_gregory"
     fullname: >-
       Ana Gregory
     bio: >-
       • lifestyle •travel • fashion •food •makeup - modelo fotográfica - @foodpelomundo Whatsapp da Assessoria: (85) 996296748 COMPRA DO MEU PRESET 👇🏻
     location: "Brazil"
-    followers: 153927
-    engagement: 492
-    commentsToLikes: 0.029072
+    followers: 157368
+    engagement: 511
+    commentsToLikes: 0.029915
     id: ck0vw54z1s5cv0i19d0u46j2y
     verified: false
-    hashtags: "#publi, #colors, #colorful, #colorblock"
-  - username: "rafabuzinari"
+    hashtags: "#publi"
+  - username: "sarabodowsky"
     fullname: >-
-      RAFAELLA BUZINARI ✈️ Travel
+      Sara Bodowsky
     bio: >-
-      🇧🇷Brazilian in Dubai 🇦🇪 ✨Travel • Foodie • Lifestyle 🌎I moved to another country on my own 4 times 💌 rafaellabuzinari@gmail.com
+      🚗 on the road ✈️ travel 🍛 food 🍷 wine&drinks 🤷🏻‍♀️ matters o’life 🎙@102.3oficial 🗞 @gauchazh 🏢 @grupo_rbs Mais em @RoteirodaSara
     location: "Brazil"
-    followers: 8187
-    engagement: 954
-    commentsToLikes: 0.068909
-    id: ck9wehowwkbf10j78xcuvqvxe
-    verified: false
-    hashtags: ""
-  - username: "natialves87"
+    followers: 52334
+    engagement: 254
+    commentsToLikes: 0.063615
+    id: ckapb46h5yifa0i780gsd6y5f
+    verified: true
+    hashtags: "#saranaestrada, #tb, #tbt, #2018"
+  - username: "brendamelos_"
     fullname: >-
-      Natalia Thais Alves
+      Brenda Melo ✨✌🏼
     bio: >-
-      Outdoor Sports Lifestyle & Health Food 🇧🇷 Natural Chef 👩🏼‍🍳 ✉️ contato.natialves@outlook.com Assista os Stories 🔛
+      JESUS 📍MG • life style • fashion • makeup • food • tips • Compartilhando minhas escolhas e experiências. 👇🏼Minha loja de calçados @usebetashoes 👡✨
     location: "Brazil"
-    followers: 50688
-    engagement: 453
-    commentsToLikes: 0.034240
-    id: ck8t1to2nwzmq0j7856swjcts
+    followers: 44460
+    engagement: 272
+    commentsToLikes: 0.132045
+    id: ck8tal7m7s81k0j78ophujcu2
     verified: false
-    hashtags: ""
-  - username: "_greenga"
-    fullname: >-
-      // paola s. troian
-    bio: >-
-      . VAMOS REPENSAR O MUNDO? 🌏 . ⚡️ colunista @voguebrasil 🧠 #reprograma ⁣🚀 futurismo 👽 autenticidade⁣ 🌱 vegan⁣/kind-food ✌️ cineasta/chef/bizdev⁣ 📍 POA
-    location: "Brazil"
-    followers: 26169
-    engagement: 225
-    commentsToLikes: 0.074444
-    id: ck13affvmq4za0i1971iz2tvh
-    verified: false
-    hashtags: "#alimentos, #tbt, #org, #oqtdb"
+    hashtags: "#lookcomlingerie, #lookdeaniversario, #mulhermaravilhafitness, #crossfiteiras"
 ---

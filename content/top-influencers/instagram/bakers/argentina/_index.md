@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Argentina In 2022
+title: Top 10 Bakers Instagram Influencers In Argentina In 2023
 description: >-
-  Find top bakers Instagram influencers in Argentina in 2022. Most popular hashtags: #budin #torta #receta #chocolate.
+  Find top bakers Instagram influencers in Argentina in 2023. Most popular hashtags: #pan #tarta #cake #bread.
 platform: Instagram
 hits: 44
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 44 Instagram influencers like this in Argentina for you to connect with.
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 44 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "germantorres.pan"
-    fullname: >-
-      Germán Torres
-    bio: >-
-      Baker/
-    location: "Argentina"
-    followers: 29716
-    engagement: 294
-    commentsToLikes: 0.044762
-    id: ck0uadxg8c2vf0i19hykd9n23
-    verified: false
-    hashtags: ""
   - username: "paz_baker"
     fullname: >-
       Paz Baker
     bio: >-
-      Baking in Buenos Aires! Pedidos a @bakingismybusiness Encontrá mis recetas en historias destacadas y en mi canal de YouTube👇🏻🧁
+      Baking in Buenos Aires! Pedidos a @bakingismybusiness Encontrá mis recetas en historias destacadas y en mi canal de YouTube Paz Baker 🍰
     location: "Argentina"
-    followers: 27926
-    engagement: 590
-    commentsToLikes: 0.055701
+    followers: 28167
+    engagement: 543
+    commentsToLikes: 0.041453
     id: ck5zubamh21ir0i14pvozeoxx
     verified: false
-    hashtags: "#harrypotter, #netflix, #hogwarts, #receta"
+    hashtags: "#youtube, #harrypotter, #cake, #brownies"
+  - username: "germantorres.pan"
+    fullname: >-
+      Germán Torres
+    bio: >-
+      Baker/ @delirante.centeno. ex@salvajebakery. Proyectando @lavalientepan.
+    location: "Argentina"
+    followers: 30958
+    engagement: 328
+    commentsToLikes: 0.054132
+    id: ck0uadxg8c2vf0i19hykd9n23
+    verified: false
+    hashtags: ""
+  - username: "olga_vila"
+    fullname: >-
+      Olga Vila | Food Stylist
+    bio: >-
+      Food & drink Stylist | Recipe developer Mis trabajos en @olga_foodstyler Mis servicios Olgavila.com. Mis recetas pepitagreens.com
+    location: "Argentina"
+    followers: 12466
+    engagement: 511
+    commentsToLikes: 0.128107
+    id: ck5zu96tf1x310i14wlra1gbu
+    verified: false
+    hashtags: "#pepitagreens, #foodfluffer, #foodstyling, #cookmagazine"
   - username: "amasa.madre"
     fullname: >-
       Claudia Romero 🥖🇦🇷
     bio: >-
       🙋🏼Madre, panadera, diseñadora de interiores 🏡 recetas 🍞amasa madre 💆🏼estas en el horno💁🏼el horno no muerde 🙍🏼#tesacopanadera 😎 La Plata ❤️🍞🇦🇷
     location: "Argentina"
-    followers: 232526
-    engagement: 95
-    commentsToLikes: 0.057078
+    followers: 241822
+    engagement: 100
+    commentsToLikes: 0.047332
     id: ck15pt14fzi9f0i19857jydag
     verified: false
-    hashtags: "#thefeedfeed, #foodlover, #tarta, #pandulce"
-  - username: "singele.cocina"
-    fullname: >-
-      Pau Singer
-    bio: >-
-      🍴Recetas , consejos y recomendaciones. 📸Fotografía. 📩 singele.cocina@gmail.com 📍 B.s A.s, 🇦🇷
-    location: "Argentina"
-    followers: 109973
-    engagement: 268
-    commentsToLikes: 0.204541
-    id: ck5qatkc1i6df0i11ump88dfh
-    verified: false
-    hashtags: "#caseroyrico, #cookies, #fotogastronomica, #sweet"
+    hashtags: "#pancasero, #foodporn, #amasamadre, #tarta"
   - username: "daro_1801"
     fullname: >-
       Daro Rodriguez
     bio: >-
       Lic. En Gastronomía-UADE. Pastelería Docente en @iagastronomia
     location: "Argentina"
-    followers: 9533
-    engagement: 604
-    commentsToLikes: 0.036868
+    followers: 9545
+    engagement: 620
+    commentsToLikes: 0.043090
     id: ckap42vec5lsv0i78irlldwjt
     verified: false
-    hashtags: "#casa, #molde, #pan, #manteca"
-  - username: "paulampics"
+    hashtags: "#manteca, #croissant, #dough, #laminado"
+  - username: "elcapipanadeiro"
     fullname: >-
-      Paula Montenegro ~ Pastelera
+      El Capi Panadeiro
     bio: >-
-      RECETAS desde #BuenosAires 🇦🇷 🧁Pastelería, mucha, y un poquito así de salado🍴 Food blogger 👉🏻 @vintagekitchenblog Blog de Recetas 👇🏻
+      #soypanadero Capitán de Navío en honrosa situación de retiro BsSc & MsSc en Computación Maestro Panadero/Pastelero/Chocolatier
     location: "Argentina"
-    followers: 154181
-    engagement: 116
-    commentsToLikes: 0.025088
-    id: ckaor4loqlpfh0i78397735ox
+    followers: 28534
+    engagement: 87
+    commentsToLikes: 0.082030
+    id: ck5hd18rpkzef0i11ssjba2v9
     verified: false
-    hashtags: "#recetadulce, #recetafacil, #receta, #tortadechocolate"
+    hashtags: "#pan, #bread, #aprendizajeencuarentena, #caracas"
   - username: "solitacohen"
     fullname: >-
       Solita Cohen
     bio: >-
-      Arte!! Pasión por el arte, arte contemporáneo, arte latinoamericano.
+      Art Consultant
     location: "Argentina"
-    followers: 28819
-    engagement: 111
-    commentsToLikes: 0.041519
+    followers: 29198
+    engagement: 95
+    commentsToLikes: 0.040835
     id: ckaotzisay4jy0i786bqljxa2
     verified: false
-    hashtags: "#pinturas, #pintura, #artistas, #obras"
+    hashtags: "#noticias, #pintura, #news, #pinturas"
   - username: "hernanbakeoff"
     fullname: >-
       Hernan Lambertucci
     bio: >-
       40 años Finalista #bakeoff #argentina🇦🇷 Lic en Administración Postrero - Pastelero - 🍫🍨🍦 Pasión y Creatividad 😃😄😁
     location: "Argentina"
-    followers: 69586
-    engagement: 188
-    commentsToLikes: 0.066286
+    followers: 68244
+    engagement: 183
+    commentsToLikes: 0.064467
     id: ck8t8fnqzka810j7863fklqfm
     verified: false
-    hashtags: "#instagood, #chocolate, #budin, #recipe"
-  - username: "author_of_travel"
+    hashtags: "#recipe, #food, #torta, #tart"
+  - username: "eljuanpazurita"
     fullname: >-
-      Author Of Travel - Путешествия
+      Juanpa se Mudó! ⬇️
     bio: >-
-      🌎Поможем построить маршруты по Москве и по миру ПУТЕШЕСТВУЙТЕ с нами САМИ 🇷🇺Russian/🇬🇧English/🇮🇹Italiano/🇪🇸Espanol @veranova86,@marinakruglenya
+      Hubo un error en tu búsqueda. Prueba @juanpazurita 😜
     location: "Argentina"
-    followers: 4660
-    engagement: 470
-    commentsToLikes: 0.079561
-    id: ck5zp6yprs3sg0i141y4fome2
-    verified: false
-    hashtags: "#viveargentina, #conociendoba, #turistaenbuenosaires, #buenosaires"
+    followers: 23976
+    engagement: 259387
+    commentsToLikes: 0.009919
+    id: ck0tvo3dxc3rg0i19pju5mzpf
+    verified: true
+    hashtags: "#cuarentena, #quarantine"
   - username: "elianapedersen"
     fullname: >-
       𝙀𝙡𝙞𝙖𝙣𝙖 𝙋𝙚𝙙𝙚𝙧𝙨𝙚𝙣
     bio: >-
       🇧🇻| Vikinga en Argentina. 💡| Lo invisible CREA lo VISIBLE. Mi repostería saludable @nutrin.bakery
     location: "Argentina"
-    followers: 5298
-    engagement: 823
-    commentsToLikes: 0.042576
+    followers: 5256
+    engagement: 901
+    commentsToLikes: 0.038289
     id: ck5cj1pkxtsr30i116qt2jxhc
     verified: false
-    hashtags: "#capital, #viajar, #travel, #salta"
+    hashtags: "#capital, #travel, #viajar, #salta"
 ---

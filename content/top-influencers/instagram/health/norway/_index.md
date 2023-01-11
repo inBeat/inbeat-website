@@ -1,60 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Norway In 2022
+title: Top 10 Health Instagram Influencers In Norway In 2023
 description: >-
-  Find top health Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #ad.
+  Find top health Instagram influencers in Norway in 2023. Most popular hashtags: #visitnorway #winter #healthylifestyle.
 platform: Instagram
-hits: 78
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 78 Instagram influencers like this in Norway for you to pitch.
+hits: 76
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 76 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "walkandtalkoflife"
+  - username: "maritaystevik"
     fullname: >-
-      Walk & Talk of LIFE🌏
+      Marita Ystevik
     bio: >-
-      ✨Cecilie & Miriam 🌿🌼 ☘️Nature is our therapy☘️ Mental Health, friendship, Nature & Photo 💌Walkandtalkoflife@outlook.com
+      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
     location: "Norway"
-    followers: 5329
-    engagement: 1723
-    commentsToLikes: 0.082143
-    id: ck9hbkj3bh8le0j78h1lybaa4
+    followers: 18258
+    engagement: 185
+    commentsToLikes: 0.118382
+    id: ck5c2uz4by1ib0i11zquptmde
     verified: false
-    hashtags: "#hikersofinstagram, #norge, #utno, #alfah"
+    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
   - username: "gunhild_stordalen"
     fullname: >-
       Gunhild A. Stordalen
     bio: >-
       Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 185531
-    engagement: 368
-    commentsToLikes: 0.028644
+    followers: 186309
+    engagement: 379
+    commentsToLikes: 0.025769
     id: ck5zmq1uzn0kg0i147yvuqe2w
     verified: true
-    hashtags: "#plantforward, #greatdanesofinstagram, #healthyfood, #betterfoodforall"
-  - username: "michellebettina"
-    fullname: >-
-      🦋Storyteller🦋 📍Norway
-    bio: >-
-      ✈️ Travel 🌱 Healthy lifestyle 🏋🏼‍♀️ Fitness 👑 Private marketing consultant 🏦 Marketing Real Estate Collab: michelle@cconsult.no
-    location: "Norway"
-    followers: 39947
-    engagement: 481
-    commentsToLikes: 0.063986
-    id: ckaoz3jbjk7ne0i78aulzu91d
-    verified: false
-    hashtags: ""
+    hashtags: "#photoshoot, #dryjanuary, #artphotography, #nonpaidpromo"
   - username: "billyjohnbob"
     fullname: >-
       BillyJohnBob 🐻 Eerie Fairy
     bio: >-
       🇳🇴Norway 🔞Disclaimer ⚔️Gaymer 💪Body Positive & Natural 🧘‍♂️Mental Health ❤️Friends 👬Engaged to @Kimmern84 🎮Ambassador for @playstationnorge 🎬Twitch/YT
     location: "Norway"
-    followers: 32178
-    engagement: 462
-    commentsToLikes: 0.022246
+    followers: 32574
+    engagement: 414
+    commentsToLikes: 0.018638
     id: ck9we77wcixpc0j78yr0es0qt
     verified: false
-    hashtags: "#skjeggmenn, #lgbtqstreamers, #gaymerbear, #twitch"
+    hashtags: "#bearded, #playstationnorge, #playstationgaymer, #malegay"
+  - username: "andreabadendyck"
+    fullname: >-
+      ANDREA BADENDYCK
+    bio: >-
+      🦋 26 y’o Norwegian influencer 👩🏼‍💻 Marketing student ✨ Fashion, travel, fitness & healthy foods 💌 Contact: andreabadendyck.blogg@hotmail.com
+    location: "Norway"
+    followers: 132297
+    engagement: 213
+    commentsToLikes: 0.041342
+    id: ck6uedlcnqaxu0j7143097j9w
+    verified: true
+    hashtags: "#visitnorway, #betakarotengold, #goodforme, #lofoten"
   - username: "typical.doctor"
     fullname: >-
       Patrycja J.
@@ -62,69 +62,69 @@ profiles:
       Medical Doctor in Norway 🩺 🇳🇴 Research🔬 Books 📚 Traveling 🛫 Yoga🙏🏻 Healthy lifestyle 🥦 Skiing ⛷ Hiking ⛰
     location: "Norway"
     followers: 6684
-    engagement: 964
-    commentsToLikes: 0.022930
+    engagement: 859
+    commentsToLikes: 0.021979
     id: ck8t1d2f5vavk0j78vrj3625b
     verified: false
-    hashtags: "#hike, #northnorway, #fall, #travelphotography"
+    hashtags: "#mountains, #hike, #julepynt, #weekend"
   - username: "lindalike"
     fullname: >-
       Linda Sannesmoen
     bio: >-
       NORWEGIAN GREENFLUENCER • Eco hedonist • Healthy and sustainable lifestyle • Ambassador: @norronahvitserk @hvitserkeventyr @woollandsport @gai.lisva
     location: "Norway"
-    followers: 37471
-    engagement: 74
-    commentsToLikes: 0.041841
+    followers: 36894
+    engagement: 63
+    commentsToLikes: 0.043422
     id: ck0vwanbssuii0i19rovn2gwt
     verified: false
-    hashtags: "#lindalike, #woollandsport, #sustainableliving, #naturefix"
-  - username: "ingridkristiansen_"
-    fullname: >-
-      PT Ingrid Kristiansen
-    bio: >-
-      FITNESS • HEALTH • LIFESTYLE 📍Tromsø, Norway 🏋🏼‍♀️Personal trainer @skyfitnesstromsoe INGRIDK20 for 20% hos @icaniwill 🖤Ambassadør @mmsports_norge
-    location: "Norway"
-    followers: 4566
-    engagement: 1061
-    commentsToLikes: 0.114398
-    id: ck8t68e32cn750j78d0yv667f
-    verified: false
-    hashtags: "#norwegian, #happiness, #skyfitnessnorge, #lifting"
+    hashtags: "#lindalike, #happygram, #welcometonature, #ad"
   - username: "inamoor"
     fullname: >-
       Ina Moor 🧡
     bio: >-
-      Healthy happy lifestyle 🥝🍫🍓 ▫️Sert. PT og instruktør ▫️💚 26.02.19 - 💜 18.09.20
+      Healthy happy lifestyle 🥝🍫🍓 ▫️Sert. PT og instruktør ▫️ Online coach @personalbest.no Ønsker du å bestille coaching? 👇🏼⭐️
     location: "Norway"
-    followers: 6539
-    engagement: 668
-    commentsToLikes: 0.088101
+    followers: 7377
+    engagement: 557
+    commentsToLikes: 0.058965
     id: ckf5mtfw1vbfy0j23br6fo4vn
     verified: false
-    hashtags: "#postpartum"
-  - username: "kathsolberg"
+    hashtags: "#wearefit, #healthylifestyle, #transformation, #sammenervisterke"
+  - username: "triplets_of_copenhagen"
     fullname: >-
-      Kathrine Madelen | FITNESS
+      triplets_of_copenhagen
     bio: >-
-      Norway | 24 ➖ Fitness, fashion, healthy lifestyle 🎀 Mom ✉️ For questions/collabs; DM or e-mail
+      Maria Nordø Jørstad ✨Norwegian in Denmark ✨Mom to 4 year old boy & 2 year old triplets ✨Postpartum health Collabs: maria.jorstad@gmail.com Links👇🏼
     location: "Norway"
-    followers: 14293
-    engagement: 504
-    commentsToLikes: 0.082175
-    id: ck5q5p68stwjq0i11qz0dw0td
-    verified: false
-    hashtags: "#postpartumjourney, #ad, #momlife, #postpartumbody"
+    followers: 374617
+    engagement: 253
+    commentsToLikes: 0.026796
+    id: ck5qca7bepl5i0i11vzsxpplj
+    verified: true
+    hashtags: "#optimalprint, #postpartumbody, #optimalprint2021, #diastasisrecti"
   - username: "weightliftingadvice"
     fullname: >-
       Weightlifting Advice | Fitness
     bio: >-
       💪🏼 Making Weightlifting Simple 💡 Evidence-Based Content 🍊 Healthy Nutrition Tips 📍 Norway
     location: "Norway"
-    followers: 4119
-    engagement: 1196
-    commentsToLikes: 0.192819
+    followers: 4161
+    engagement: 1216
+    commentsToLikes: 0.189045
     id: ck6uhmknf9zna0j717bycmfpd
     verified: false
-    hashtags: "#coreworkouts, #musclefitness, #dwaynetherockjohnson, #nobodyoutworksme"
+    hashtags: "#bestlifeproject, #gymbeast, #projectrock, #alwaysinbeta"
+  - username: "zackgeorge"
+    fullname: >-
+      zackgeorge
+    bio: >-
+      🦍Fittest in U.K. 🥇🇬🇧 2020 Crossfit Games Athlete 🦍Men’s health cover model 🦍Team Silverback for life 👇🏾Sponsors/Discount codes👇🏾
+    location: "Norway"
+    followers: 192843
+    engagement: 139
+    commentsToLikes: 0.011896
+    id: ck5heewdrsjnw0i115p0ijpbb
+    verified: false
+    hashtags: "#wod, #assaultbike, #training, #crossfit"
 ---

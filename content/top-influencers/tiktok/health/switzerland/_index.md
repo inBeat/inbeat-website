@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Switzerland In 2022
+title: Top 10 Health TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top health TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #foryou #switzerland #foryoupage.
+  Find top health TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #fyp #covid19 #foryoupage.
 platform: TikTok
-hits: 18
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 18 TikTok influencers like this in Switzerland for you to pitch.
+hits: 20
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 20 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "who"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       We are the United Nations’ health agency: #HealthForAll!
     location: "Switzerland"
-    followers: 2700000
-    engagement: 399
-    commentsToLikes: 0.021376
+    followers: 2800000
+    engagement: 415
+    commentsToLikes: 0.025337
     id: ck83yqzpjuxeg0j780tv5syfp
     verified: true
-    hashtags: "#mentalhealth, #moveformentalhealth, #wearamask, #covid19"
-  - username: "joly2210"
+    hashtags: "#covid19, #vaccinequity, #healthworkers, #bekind"
+  - username: "akimbrian"
     fullname: >-
-      Jo
+      akimpbrian
     bio: >-
-      Follow me on instagram: be_real2210 Healthy food 🥦🥑🥑🥩🥩🍓🍓🥝
+      🇨🇭 venez je vous montre insta : akimpbrian
     location: "Switzerland"
-    followers: 109500
-    engagement: 604
-    commentsToLikes: 0.009430
-    id: ck95xi9ii61fa0j78r9zcyjfs
+    followers: 36200
+    engagement: 1431
+    commentsToLikes: 0.012452
+    id: ckbfftxrjapem0j2392m8x70f
     verified: false
-    hashtags: "#foryoupage, #homeworkout, #abs, #fyp"
+    hashtags: "#pourtoi, #cadeauxdeno, #suisse, #recipe"
   - username: "globalshaperscommunity"
     fullname: >-
       GlobalShapers
     bio: >-
       We believe in a 🌎 where young people are central to lasting change.
     location: "Switzerland"
-    followers: 2335
-    engagement: 559
-    commentsToLikes: 0.033300
+    followers: 2466
+    engagement: 536
+    commentsToLikes: 0.024177
     id: cka617kg3u8cd0i78031xwg20
     verified: true
-    hashtags: "#coronavirus, #healthheroes, #healthyathome, #globalshapers"
-  - username: "ch1n00ck"
+    hashtags: "#stayhomestaystrong, #globalshapers, #healthheroes, #coronavirus"
+  - username: "unmigration"
     fullname: >-
-      TamRa
+      UN Migration
     bio: >-
-      
+      IOM promotes safe, regular and dignified migration since 1951 🌍
     location: "Switzerland"
-    followers: 5014
-    engagement: 267
-    commentsToLikes: 0.009689
-    id: ckafu405k8twm0i78j274l97r
+    followers: 1500000
+    engagement: 173
+    commentsToLikes: 0.015302
+    id: ck83yr2houy410j78zqfx6n7b
+    verified: true
+    hashtags: "#humanity, #health, #fyp, #covid19"
+  - username: "rudylong_17"
+    fullname: >-
+      RudyLong
+    bio: >-
+      🤗acting, dabing, positive vibes🤗 🇸🇰 / 🇨🇭 welcome in funnyland
+    location: "Switzerland"
+    followers: 78400
+    engagement: 2077
+    commentsToLikes: 0.142195
+    id: ckdnv4w1xo6q00j230wqor8yy
     verified: false
-    hashtags: "#freedom, #nature, #fyp, #funny"
+    hashtags: "#slap, #wayto100k, #4u, #duetme"
+  - username: "fanyartl"
+    fullname: >-
+      Fanyart
+    bio: >-
+      🏳️‍🌈 ~(-w-)~
+    location: "Switzerland"
+    followers: 2294
+    engagement: 2202
+    commentsToLikes: 0.040754
+    id: ck9euinamdqei0j78itghy7y7
+    verified: false
+    hashtags: "#punk, #fyp, #4u, #alt"
+  - username: "draiona"
+    fullname: >-
+      TikTok's Wolf Princess
+    bio: >-
+      LARP ⚔ Art 🏴󠁧󠁢󠁷󠁬󠁳󠁿+🇩🇪 live in 🇨🇭 All duets open! ⬇️ Discord + FAQ ⬇️
+    location: "Switzerland"
+    followers: 278600
+    engagement: 1646
+    commentsToLikes: 0.022363
+    id: ckbrct83tqj2h0j239tx72029
+    verified: false
+    hashtags: "#princesslakendria, #larp, #switzerland, #pettok"
+  - username: "habtz"
+    fullname: >-
+      🐰
+    bio: >-
+      Genève, Suisse 📍 Je vous partage quelques unes de mes recettes favorites 🥞🥨⤵️
+    location: "Switzerland"
+    followers: 4345
+    engagement: 994
+    commentsToLikes: 0.032814
+    id: ckai1nzbgcjmi0i78ffpd6w2i
+    verified: false
+    hashtags: "#foryoupage, #cookingvideo, #foryou, #pourtoi"
+  - username: "jenny._zhh"
+    fullname: >-
+      𝐽 𝐸 𝑁 𝑁 𝑌
+    bio: >-
+      📍𝐵𝑎𝑠𝑒𝑑 𝑖𝑛 𝑍𝑢̈𝑟𝑖𝑐ℎ 𝐺𝑜𝑜𝑑 𝑡ℎ𝑖𝑛𝑔𝑠 𝑛𝑒𝑒𝑑𝑠 𝑡𝑖𝑚𝑒
+    location: "Switzerland"
+    followers: 114600
+    engagement: 2664
+    commentsToLikes: 0.009179
+    id: ck9ntu3hgk2ts0j78nnbjkt5l
+    verified: false
+    hashtags: "#love, #2021, #winter, #foryoupage"
   - username: "worldeconomicforum"
     fullname: >-
       World Economic Forum
     bio: >-
       International Organization, committed to improving the state of the world
     location: "Switzerland"
-    followers: 1500000
-    engagement: 515
-    commentsToLikes: 0.019396
+    followers: 1600000
+    engagement: 394
+    commentsToLikes: 0.019274
     id: ck81q2se4fh3a0j78gu0d038j
     verified: true
-    hashtags: "#environment, #coronavirus, #london, #coronavirusspreading"
-  - username: "pascal..schmid"
-    fullname: >-
-      ⭐️ Pascal Schmid ⭐️
-    bio: >-
-      🇨🇭 dogsittingandtraining.ch 🇨🇭 Continental Bulldogs IG: Dogs_Planet
-    location: "Switzerland"
-    followers: 16500
-    engagement: 1589
-    commentsToLikes: 0.025317
-    id: ck999vpzzewxl0j78g37xtdxn
-    verified: false
-    hashtags: "#continentalbulldog, #goodmorning, #switzerland, #puppylife"
-  - username: "boccalino.lana"
-    fullname: >-
-      boccalino.lana 🇨🇭
-    bio: >-
-      Live, Love, Laugh 🙏🏻❣️😂 From Switzerland 🇨🇭 🗣 🇫🇷🇮🇹🇪🇸🇬🇧
-    location: "Switzerland"
-    followers: 9179
-    engagement: 512
-    commentsToLikes: 0.075095
-    id: ckamm3qgcyt3r0i78luxbyfnl
-    verified: false
-    hashtags: "#foryou, #perte, #foryoupage, #funny"
-  - username: "delikates.ch"
-    fullname: >-
-      delikates.ch
-    bio: >-
-      ☺️ FOLGE MIR AUF INSTA 😊 ⬆️ Oder Besuch mich in meinen Shop⬇️ Code: NEXT18FIVE
-    location: "Switzerland"
-    followers: 3166
-    engagement: 368
-    commentsToLikes: 0.128653
-    id: ck8tlndh7c7my0j781m6cfa20
-    verified: false
-    hashtags: "#burger, #safran, #schweiz, #switzerland"
-  - username: "smallturnsbig"
-    fullname: >-
-      small turns BIG
-    bio: >-
-      🇨🇭 🌞Choose Happiness🌞 Smallturnsbig@gmail.com
-    location: "Switzerland"
-    followers: 861900
-    engagement: 654
-    commentsToLikes: 0.010043
-    id: ck81qzrr9l9ug0j78wp3kio1d
-    verified: false
-    hashtags: "#microscope, #stitch, #fyp, #science"
-  - username: "izabel.philippa"
-    fullname: >-
-      Izabel Philippa
-    bio: >-
-      𖤥 Switzerland ✈︎ Wanderlust soul | 유 Daydreamer Instagram: @izabel.philippa
-    location: "Switzerland"
-    followers: 4257
-    engagement: 504
-    commentsToLikes: 0.022878
-    id: cka62t23d1buq0i78jgw6rhin
-    verified: false
-    hashtags: "#foryoupage, #fy, #summermodeon, #foryou"
+    hashtags: "#plastic, #sustainable, #coronavirus, #food"
 ---

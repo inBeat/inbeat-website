@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Turkey In 2022
+title: Top 10 Lifestyle TikTok Influencers In Turkey in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Turkey in 2022. Most popular hashtags: #lifestyle #tiktokturkey #tiktok #fyp.
+  Find top lifestyle TikTok influencers in Turkey in 2023. Most popular hashtags: #lifestyle #tiktokturkey #tiktok #fyp.
 platform: TikTok
 hits: 13
 text_top: Discover the most popular TikTok influencers on inBeat.

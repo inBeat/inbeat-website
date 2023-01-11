@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Nigeria In 2022
+title: Top 10 Mothers Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top mothers Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #wcw #lagos.
+  Find top mothers Instagram influencers in Nigeria in 2023. Most popular hashtags: #blackgirlmagic #photography #birthday.
 platform: Instagram
-hits: 43
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 43 Instagram influencers like this in Nigeria for you to connect with.
+hits: 22
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 22 Instagram influencers like this in Nigeria for you to contact.
 profiles:
   - username: "hafizayahayabello"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Philanthropist, Patron Christian Muslim Unity Foundation. Chairperson, Mothercare Welfare Outreach. Personal Page: @Hafiza_Bello
     location: "Nigeria"
-    followers: 23136
-    engagement: 362
-    commentsToLikes: 0.051352
+    followers: 23346
+    engagement: 378
+    commentsToLikes: 0.054052
     id: ck5hrdf2auon80i11ph027lbx
     verified: false
-    hashtags: "#staysafe, #happymothersday, #eidmubarak, #jummahmubarak"
+    hashtags: "#stayhome, #staysafe, #happymothersday, #eidmubarak"
   - username: "officialtboss_"
     fullname: >-
       TBoss Idowu📺
     bio: >-
       Mother to an Absolute Starr⭐️☺️💖 Ex BBN S2 Finalist. The Original BossLady. Actor. Model Brand Ambassador & Influencer. Complete women don’t compete
     location: "Nigeria"
-    followers: 843129
-    engagement: 262
-    commentsToLikes: 0.041397
+    followers: 836288
+    engagement: 242
+    commentsToLikes: 0.014658
     id: ck6tx4rt1vtg30j716avsz78a
     verified: true
-    hashtags: "#perfection, #bossbaby, #loveislove, #aprincess"
-  - username: "ifyokoye1"
-    fullname: >-
-      Ify Okoye
-    bio: >-
-      Motherhood | Beauty | Fashion | lifestyle Youtuber | Content creator #ifyokoye Founder @thepaintednailng 📍Lagos, Nigeria
-    location: "Nigeria"
-    followers: 106942
-    engagement: 225
-    commentsToLikes: 0.043021
-    id: ck5q75n0o03d90i11oknei0qe
-    verified: true
-    hashtags: "#ifyokoye, #athome, #stayhome, #lagosmum"
+    hashtags: "#aniboobs, #ratchetwontraiseaqueen, #youaremyhappy, #flawed"
   - username: "vincyprobraider"
     fullname: >-
-      🇻🇨  Ms Fluffy Sharika John🇻🇨
+      🇻🇨  Ms Sharika  Fluffy John🇻🇨
     bio: >-
       -God First💯 -Mother Of An International Scholar. The Grass Is Greener Wherever I Am. -A Certified Braider. Located at Marsha's Hair Magic.
     location: "Nigeria"
-    followers: 6378
-    engagement: 695
-    commentsToLikes: 0.016628
+    followers: 6679
+    engagement: 336
+    commentsToLikes: 0.020951
     id: ck55jjkixx5wh0i11eim4xpo3
     verified: false
-    hashtags: "#vincypro, #vincybraider, #vincyprobraider, #knotlessboxbraids"
-  - username: "benitaonyiuke"
-    fullname: >-
-      Benita Onyiuke
-    bio: >-
-      •Mother,Producer,script writer🎬 •CEO •@bnit_production movies •@beautyaffairbybnit salon •Follow Jesus 1st he’s the way, the truth and the life 🙏🏻😇 •🐝
-    location: "Nigeria"
-    followers: 103631
-    engagement: 129
-    commentsToLikes: 0.032102
-    id: ck5c57mia2wka0i11zfymf4p8
-    verified: false
-    hashtags: "#endpolicebrutality, #somethingtogetyouallinyourfeelings, #memories, #amstelmaltarattlesnakechallenge"
+    hashtags: "#neatfreak, #neatfromstarttofinish, #vincyprobraider, #vincyprobraidergang"
   - username: "therealbolajiayinde"
     fullname: >-
       BOLAJI•CHIZOBA•AYINDE🇳🇬
     bio: >-
-      🏡Nigeria 📍Lagos Digital Content Creator Fashion|Motherhood|Lifestyle|Beauty|Entreprenuer 📩Bolaji-ayinde@live.co.uk Founder @nouvaafrica @nouvartw
+      🏡Nigeria 📍Lagos Digital Content Creator Fashion|Motherhood|Lifestyle|Beauty|Entreprenuer 📩Bolaji-ayinde@live.co.uk Founder @nouvawoman @nouvaafrica
     location: "Nigeria"
-    followers: 29659
-    engagement: 131
-    commentsToLikes: 0.054513
+    followers: 36071
+    engagement: 65
+    commentsToLikes: 0.076827
     id: ck601qs27fzx00i14n0jjx64t
     verified: false
-    hashtags: "#mom, #fashionblogger, #ootd, #ootw"
-  - username: "tukemorgan"
-    fullname: >-
-      Tuke Morgan|Content Creator
-    bio: >-
-      Saxophonist🎷 Versatile Content Creator🎥 Motherhood|Hair|Style|Beauty|Lifestyle Blog|Youtube|TikTok @tukemorgansband @tukeshotit Tukemorgan@gmail.com
-    location: "Nigeria"
-    followers: 19875
-    engagement: 203
-    commentsToLikes: 0.101070
-    id: ck8ta7euzqqf80j78fyfk5go0
-    verified: false
-    hashtags: "#justicefornigerians, #lekkimassacre, #lekkigenocide, #sarsmustend"
+    hashtags: "#blackandproud, #entrepreneurlife, #ootd, #meditation"
   - username: "brittanysymone"
     fullname: >-
-      BrittanySymone |📍Dallas,Tx
+      Brittany Symone
     bio: >-
-      Youtuber 🎥 Natural Hair ➿ Book Hair Appt.👇🏽 @symoneprotectivestyles God|Wife|Mother of 2
+      God|Wife|Mother @ad_str8tgettinit 💍 Youtube Book Hair Appt.👇🏽 @symoneprotectivestyles
     location: "Nigeria"
-    followers: 5860
-    engagement: 172
-    commentsToLikes: 0.062320
+    followers: 5671
+    engagement: 200
+    commentsToLikes: 0.069853
     id: ck8sx5utkg9gv0j78a7juirfg
     verified: false
-    hashtags: "#nutraburst, #nipseyhussle, #twa, #iasotea"
-  - username: "ourmotherlan"
+    hashtags: "#nutraburst, #iasotea, #cwkgirls, #naturallyshesdope"
+  - username: "ovia_reflex"
     fullname: >-
-      MTN
+      Nigeria Based Photographer
     bio: >-
-      
+      Creative Director/ Photographer / Retoucher Bookings: Oviareflex3112@gmail.com WhatsApp: +2347055930290 Published Photographer Lightroom presets 🔗
     location: "Nigeria"
-    followers: 15136
-    engagement: 1231
-    commentsToLikes: 0.029316
-    id: ck55ku1ds03gs0i117mleb4g1
+    followers: 15859
+    engagement: 556
+    commentsToLikes: 0.025037
+    id: ck0w0uiuag3n90i197bxelsvm
     verified: false
-    hashtags: "#thegetupstandupissue, #phenomenon, #motherlan, #converse"
-  - username: "adinoyi_"
+    hashtags: "#stylist, #blue, #beautyphotographer, #birthday"
+  - username: "nicole_riziki"
     fullname: >-
-      ADINOYI David
+      Ziki Cole
     bio: >-
-      Portrait | Wedding Photographer adinoyi32@gmail.com 📞/Whatsapp 07033368229 Studio Page @adinoyistudio
+      Creative Designer 🎓Fashion and Interior design 📍Nairobi 🇰🇪 Illustrator @zikicole 🌿natural hair enthusiast God's child 🙏 ✉nikkyefex@gmail.com
     location: "Nigeria"
-    followers: 9065
-    engagement: 457
-    commentsToLikes: 0.017565
-    id: ck8taew26rh650j78jn1gk4f2
+    followers: 7606
+    engagement: 1408
+    commentsToLikes: 0.011250
+    id: ckap9061bqng80i78grdtofus
     verified: false
-    hashtags: "#adinoyiweddings, #themdaffairs, #lagos, #pictureoftheday"
+    hashtags: "#happymood, #melaninafrica, #beautifulsmiles, #muse"
+  - username: "khaleegraphy"
+    fullname: >-
+      DaNLaDi
+    bio: >-
+      Portrait + Wedding Photographer We burn incense, drink tea and create beautiful portraits of people! @khaleegraphyweddings
+    location: "Nigeria"
+    followers: 8348
+    engagement: 451
+    commentsToLikes: 0.065476
+    id: ck8szwbstpyde0j78f92o27na
+    verified: false
+    hashtags: "#instagood, #naijabeauty, #instatag, #africa"
+  - username: "ceracerni"
+    fullname: >-
+      Cera Cerni | Muralist
+    bio: >-
+      MY DREAMS HAVE INSOMNIA..... THEY DON'T LET ME SLEEP ~ Cera Cerni Somewhere painting!!! ⚠ @ceracernis_arthub For Bookings Call: 08061176101
+    location: "Nigeria"
+    followers: 25247
+    engagement: 749
+    commentsToLikes: 0.077845
+    id: ck5pz1pmuyu3m0i11c2fl978b
+    verified: false
+    hashtags: "#school, #wallmural, #art, #color"
+  - username: "hayoor"
+    fullname: >-
+      PHOTOGRAPHER || SHOOTMEHAYOOR
+    bio: >-
+      Beauty || Fashion || lifestyle || Events 📞 : 08147497239 📧 : Ayodeleadebunmi015@gmail.com
+    location: "Nigeria"
+    followers: 16177
+    engagement: 571
+    commentsToLikes: 0.066618
+    id: ck0w0vz1zgar60i198oda8ib1
+    verified: false
+    hashtags: "#explore, #lagosnigeria, #lagosphotographer, #explorepage"
 ---

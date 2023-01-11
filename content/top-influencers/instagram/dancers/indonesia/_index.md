@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Indonesia In 2022
+title: Top 10 Dancers Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top dancers Instagram influencers in Indonesia in 2022. Most popular hashtags: #dance #photography #model #bali.
+  Find top dancers Instagram influencers in Indonesia in 2023. Most popular hashtags: #dance #fashion #model.
 platform: Instagram
-hits: 133
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 133 Instagram influencers like this in Indonesia for you to contact.
+hits: 128
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 128 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "itsleniamour"
     fullname: >-
       𝐅𝐀𝐒𝐇𝐈𝐎𝐍 | 𝐃𝐀𝐍𝐂𝐄 | 𝐈𝐍𝐒𝐏𝐎
     bio: >-
-      🍡| dancer 🧚🏼‍♀️| based in austria 🐄| tik tok {Leniamour 670k+} 🌬| @johanneserhard_ 𝔧𝔲𝔡𝔤𝔢 𝔪𝔢 𝔴𝔥𝔢𝔫 𝔶𝔬𝔲 𝔞𝔯𝔢 𝔭𝔢𝔯𝔣𝔢𝔠𝔱
+      🦭| dancer 🃏| based in austria 🧃|tik tok {Leniamour 670k+} 🫂|@johanneserhard_ 𝔧𝔲𝔡𝔤𝔢 𝔪𝔢 𝔴𝔥𝔢𝔫 𝔶𝔬𝔲 𝔞𝔯𝔢 𝔭𝔢𝔯𝔣𝔢𝔠𝔱
     location: "Indonesia"
-    followers: 65059
-    engagement: 3054
-    commentsToLikes: 0.025909
+    followers: 67833
+    engagement: 2899
+    commentsToLikes: 0.024781
     id: ckap8p85vpcgk0i78a76n7ad7
     verified: false
-    hashtags: "#schna, #instax, #fuji, #apple"
-  - username: "felicianathalie_"
-    fullname: >-
-      펠리시아🍑felicia nathalie
-    bio: >-
-      📍BALI | TNG UMN '19 #model | #dancer DM For #endorsement 📥 Part of @teen_management @chb_management CiaAgency BA @mamaleonofficial YTChannel👇🏻
-    location: "Indonesia"
-    followers: 18695
-    engagement: 698
-    commentsToLikes: 0.222421
-    id: ck9wgk3pjts0e0j78vcntnir1
-    verified: false
-    hashtags: "#modelbali, #makeup, #fotograferbali, #model"
+    hashtags: "#schna, #rabatte, #kamera, #airpods"
   - username: "riismanita"
     fullname: >-
       Virgo♍️
     bio: >-
-      Kristiadi🖤 •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
+      Kristiadi❤️ •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
     location: "Indonesia"
-    followers: 5601
-    engagement: 1365
-    commentsToLikes: 0.046864
+    followers: 5639
+    engagement: 1189
+    commentsToLikes: 0.029934
     id: ckap2m2yszfj20i787zhl15zt
     verified: false
-    hashtags: "#makeuptiktokchallenge, #makeupcollection, #tutorialmakeupsimple, #makeuplooks"
+    hashtags: "#ukmkeputrianundiksha, #sosimplesobeautiful, #indobeauty, #makeuptransitionrizal"
   - username: "reytayoo"
     fullname: >-
       Tayo⛄️
     bio: >-
-      Dancer | Choreographer | Content Creator Runner Up @byarr_indonesia Season 1 ✨ @sunkiss_dc @therangers_ofc Pp/Endorse : DM 📩
+      Dancer | Choreographer | Content Creator Runner Up @byarr_indonesia Season 1 ✨ @sunkiss_dc @therangers.ofc Business : DM 📩 📍Pontianak,Indonesia
     location: "Indonesia"
-    followers: 13992
-    engagement: 1086
-    commentsToLikes: 0.016403
+    followers: 13288
+    engagement: 621
+    commentsToLikes: 0.027241
     id: ck8t0doxtrpz00j78m5soquwu
     verified: false
-    hashtags: "#bankpunyekite, #sunkiss, #dance, #23"
-  - username: "iamanajas"
+    hashtags: "#soundmindsoundbody, #gerysaluutmalkist, #dance, #mainnyagamainmain"
+  - username: "charlenne.prscl"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Igor Amanajás
+      Charlenne🦋
     bio: >-
-      👹 Actor, director and dancer of balinese traditional dance-dramas 🇧🇷 & 🇵🇹 📍 🇮🇩Bali ♉️🔆 ɓσ∂ყ ɱเɳ∂ & รσµℓ 🔆🏳️‍🌈 🍦 Ice cream addicted! 雪君のお父さんです。
+      📍BDO - IND 📩 business inquiries contact @pevent.id (endorsment|choreographer|dancer)
     location: "Indonesia"
-    followers: 17135
-    engagement: 509
-    commentsToLikes: 0.066042
-    id: ckf5lk0tlpv7o0j23gxlno6ey
+    followers: 10823
+    engagement: 1009
+    commentsToLikes: 0.018703
+    id: ck5bwdlpmlhjp0i11n17ifrzg
     verified: false
-    hashtags: "#malemodel, #uluwatu, #model, #photography"
-  - username: "_romantic_fero_"
-    fullname: >-
-      Mohamad ferose
-    bio: >-
-      BEAST BORN ON FEB 8 BAD😈BOY 🤘🏻AttituDe LuB🤘🏻 🕺DANCER🕺 🎸MUSER📷 🏍️LOVE TO RIDE🧤 💯KETTAVAN👿
-    location: "Indonesia"
-    followers: 2275
-    engagement: 1846
-    commentsToLikes: 0.066039
-    id: ckaoynf1pi8na0i783s0rhxa0
-    verified: false
-    hashtags: "#portraitphotography, #indianphotography, #goodnight, #smart"
-  - username: "sally.sbb"
-    fullname: >-
-      Salma bendali 🦋
-    bio: >-
-      🤍 @salma_bendali_ ▪️Official dancer at :@darbinofficiel 💊💉Medical student 👩🏼‍⚕️ 𝒷𝑜𝓇𝓃 𝓉𝑜 𝑒𝓍𝓅𝓇𝑒𝓈𝓈, 𝓃𝑜𝓉 𝓉𝑜 𝒾𝓂𝓅𝓇𝑒𝓈𝓈 🧡 (9GSBXK)
-    location: "Indonesia"
-    followers: 3369
-    engagement: 1438
-    commentsToLikes: 0.082395
-    id: ck8tbxe1sxjzx0j78c9qcgjot
-    verified: false
-    hashtags: "#dancecover, #dancers, #morocco, #stayathome"
-  - username: "polinaglen"
-    fullname: >-
-      POLINA GLEN
-    bio: >-
-      • DANCER & CHOREOGRAPHER #PolinaGlenDanceTutorial • Owner @GlenHats • 8 лет обучаю танцам девушек по всему Моя онлайн школа танцев #comingsoon
-    location: "Indonesia"
-    followers: 159053
-    engagement: 91
-    commentsToLikes: 0.044368
-    id: ck5q7ajli0mn40i11evonjdu2
-    verified: true
-    hashtags: "#highheels, #dancetutorial, #polinaglendancetutorial, #highheelsdance"
+    hashtags: "#kpop, #dance, #dancecoverkpop, #dancecover"
   - username: "zes_zoor"
     fullname: >-
       ZES Mansoor Galant
     bio: >-
-      🔥Zumba® Education Specialist 🗺️International Presenter 🕺Dancer | 🌍 South Africa Zumba Virtual Class:
+      🔥Zumba® Education Specialist 🗺️International Presenter Dancer | ZA 🇿🇦 MUA @zoor_hair.makeup TikTok @zoor_g93 Crop Top Lover 👕 Zumba Virtual Class:
     location: "Indonesia"
-    followers: 37921
-    engagement: 344
-    commentsToLikes: 0.048405
+    followers: 42092
+    engagement: 269
+    commentsToLikes: 0.047813
     id: ck5c10w0ru8bo0i11bqh91ygf
     verified: false
-    hashtags: "#transformation, #bodygoals, #zeslife, #zinsqaud"
-  - username: "okvia.wr_"
+    hashtags: "#gainz, #zeszoor, #fitnessmotivation, #gymlover"
+  - username: "kameaam"
     fullname: >-
-      Oktavian W.R.
+      Kameaam
     bio: >-
-      —𝙎𝙪𝙣𝙨𝙝𝙞𝙣𝙚✨ Dancer | Potoshoot | Freelance Model | Lifestyle PP / Endorse? DM📩 PART OF💘 [VR, BEST, PRISKILA, NAYRA, VIBES, SOC, CATTZ, KEEGAN, TITTLE]
+      Cosplayer * gamer * dancer BA of @echoesports.id 💎@unipinindonesia 2nd account @k4mehaaa 🐵monkey 💞 🐵Cp082125655247/rendy
     location: "Indonesia"
-    followers: 61341
-    engagement: 145
-    commentsToLikes: 0.028367
-    id: ck9wi0wfp0c9k0j78s1tg7l79
+    followers: 730397
+    engagement: 404
+    commentsToLikes: 0.017989
+    id: ck15r81056lum0i19pn1wspdz
     verified: false
-    hashtags: "#ayudermaofficial, #youthessential, #kulinerindonesia, #ayudermaskincare"
+    hashtags: "#shorthair, #gawrguravtuber, #mlbbcosplay, #boahancock"
+  - username: "sally.sbb"
+    fullname: >-
+      Salma bendali 🦋
+    bio: >-
+      🤍 @salma_bendali_ 🤍 💃DANCER 💉Medical student 𝒷𝑜𝓇𝓃 𝓉𝑜 𝑒𝓍𝓅𝓇𝑒𝓈𝓈, 𝓃𝑜𝓉 𝓉𝑜 𝒾𝓂𝓅𝓇𝑒𝓈𝓈 🧡 (9GSBXK)
+    location: "Indonesia"
+    followers: 3332
+    engagement: 1472
+    commentsToLikes: 0.086292
+    id: ck8tbxe1sxjzx0j78c9qcgjot
+    verified: false
+    hashtags: "#choreography, #dancers, #quarantinelife, #stayathome"
+  - username: "rihyunaahh_"
+    fullname: >-
+      rihyuna
+    bio: >-
+      REAL ACCOUNT !!! 👑 Influencer / Dancer / Model 📽️ OFC Content Creator @snack_video_indonesia DM for Business
+    location: "Indonesia"
+    followers: 65194
+    engagement: 160
+    commentsToLikes: 0.023727
+    id: ck0vzehtp8pll0i19zefdeurn
+    verified: false
+    hashtags: "#modelindonesia, #photoshoot, #koreanmakeup, #tiktokindonesia"
+  - username: "id0lls"
+    fullname: >-
+      IDolls |😸Adi and Lei🐸| IG Duo
+    bio: >-
+      ♡Adi and Lei♡ 🐸25 and 28😸 Two girls sharing their lives with you. Book publisher, dancer and hairdresser. collaboration@id0lls.com
+    location: "Indonesia"
+    followers: 250980
+    engagement: 129
+    commentsToLikes: 0.009662
+    id: ck5pwq48ro1b80i11hezbjv8c
+    verified: false
+    hashtags: "#jfashion, #barbiegirl, #pastelgoth, #model"
+  - username: "uchuphutaurux"
+    fullname: >-
+      YUSUF AFRISAL HUTAURUK
+    bio: >-
+      •Mc •Singer •Dancer •Choreographer •Endorsement Call / WA : 085365182799
+    location: "Indonesia"
+    followers: 19509
+    engagement: 333
+    commentsToLikes: 0.018303
+    id: ck14hqoa2bnas0i19gotbk1vn
+    verified: false
+    hashtags: "#shopeepay, #amanbersamagojek, #j3k, #gocar"
 ---

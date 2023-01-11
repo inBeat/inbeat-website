@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Dallas In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Dallas In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Dallas in 2022. Most popular hashtags: #tattoos #dallastattooartist #tattooartist #rosetattoo.
+  Find top tattoo-artists Instagram influencers in Dallas in 2023. Most popular hashtags: #tattoo #tattoos #tattooartist #dallastattooartist.
 platform: Instagram
-hits: 28
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 28 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 29
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 29 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "deecorseytattoos"
+  - username: "chasenashh"
     fullname: >-
-      D E R E K   C O R S E Y
+      Chase Nash
     bio: >-
-      🐐 🇨🇱Dallas, Tx (469) 755-9769 👍🏾Please select the “TEXT” tab for tattoo inquiries!!! 🙅🏾‍♂️DO NOT select the “Message” tab
+      Questions?⚡️EMAIL BUTTON⚡️ Chasenashh@gmail.com Dallas, Tx 👨‍👩‍👦@healthbyhales 🎨@chasebepaintin 📸@photosnaggins
     location: "United States"
-    followers: 11541
-    engagement: 462
-    commentsToLikes: 0.038746
-    id: ck9wdxqs1hqua0j78altw3va1
+    followers: 37432
+    engagement: 136
+    commentsToLikes: 0.021635
+    id: ck5hi1rs8b7dn0i11ukia8ect
     verified: false
-    hashtags: "#realismtattoo, #inkedmag, #tattooist, #inked"
-  - username: "mani.ne"
+    hashtags: "#art, #tattooed, #tattooartist, #tattoo"
+  - username: "mike_cruz87"
     fullname: >-
-      Mani.Negarestan
+      ⚜️MIKE CRUZ⚜️
     bio: >-
-      Sometimes I Draw On Paper, Sometimes On Skin For inquiries 👉 mani.art.ne@gmail.com Darkage tattoo studio
+      ⚜️God first⚜️ Family🙏🏻Tattooing✍🏼 🌎 College Station TX ‼️BOOKS OPEN‼️‼️
     location: "United States"
-    followers: 7536
-    engagement: 541
-    commentsToLikes: 0.049902
-    id: ck5cjyc9zvqrd0i114j31oq1n
+    followers: 170920
+    engagement: 180
+    commentsToLikes: 0.014389
+    id: ck6tk4qka404g0j71cakmrs4c
     verified: false
-    hashtags: "#dallastattooartist, #dentontattoo, #tattooidea, #inked"
-  - username: "inked.exclusives"
+    hashtags: "#ink, #htown, #tatts, #tattoosofinstagram"
+  - username: "inkbypnut"
     fullname: >-
-      
+      🍄1UP🍄
     bio: >-
-      Representing inked talent, artists & models! #inkedexclusives || Premium content below! 💥 ||
+      Anime Ink God Owner of @1upink_tattoostudio & @1up_eats For booking ⛩9725766442⛩ (Business & Tattoo tips) 👇🏿 Www.onlyfans.com/inkbypnut
     location: "United States"
-    followers: 31760
-    engagement: 47
-    commentsToLikes: 0.017089
-    id: ck5cffuv2mvc10i116l0bvdiq
+    followers: 126858
+    engagement: 119
+    commentsToLikes: 0.030077
+    id: ck6tnibnn9wgs0j71ga5lg989
     verified: false
-    hashtags: "#tattoos, #pretty, #exclusives, #hotellife"
+    hashtags: "#anime, #inkbypnut, #nerd, #blerd"
   - username: "lizcooktattoo"
     fullname: >-
       Liz Cook
     bio: >-
-      •Dallas TX• •Tattoo Artist & Owner• @rebelmusetattoo @rebelmusetattoodallas @rebelmusedenver @everafterpigments To schedule or for seminar info 👇🏻
+      •Dallas TX• •Tattoo Artist & Owner• @rebelmusetattoo @rebelmusetattoodallas @rebelmusedenver @rebelmusekcmo To schedule or for seminar info 👇🏻
     location: "United States"
-    followers: 228408
-    engagement: 124
-    commentsToLikes: 0.022026
+    followers: 227649
+    engagement: 123
+    commentsToLikes: 0.023155
     id: ck5zs29ofxoos0i149feme48h
     verified: false
-    hashtags: "#eternalinktattoo, #stencilstuff, #permanentcosmetics, #rebelmusetattoo"
+    hashtags: "#lizcooktattoo, #inkaddictapparel, #stencilstuff, #eternalinktattoo"
   - username: "franciscosanchez_tattoo"
     fullname: >-
       Francisco Sanchez
     bio: >-
       Dallas Tx Tattoo Artist. @darkagetattoostudio info@franksancheztattoo.com #texastattooartist #dallastattooartist
     location: "United States"
-    followers: 73237
-    engagement: 130
-    commentsToLikes: 0.036343
+    followers: 76642
+    engagement: 105
+    commentsToLikes: 0.025743
     id: ck5cjy7tivqhq0i11jizabl23
     verified: false
-    hashtags: "#persianart, #persiantattoo, #assasintattoo, #rosetattoo"
-  - username: "mikeflorestattoo"
-    fullname: >-
-      Mike Flores
-    bio: >-
-      📍Central Texas📍 Email mikeflores.appt@gmail.com for booking
-    location: "United States"
-    followers: 198356
-    engagement: 92
-    commentsToLikes: 0.012677
-    id: ck13czvsg2yvk0i19qr0uquw2
-    verified: false
-    hashtags: "#ink, #blackandgreytattoo, #realism, #kyletx"
+    hashtags: "#assasintattoo, #eyetattoo, #texastattooartist, #angeltattoo"
   - username: "lot_lizard"
     fullname: >-
       lot_lizard
     bio: >-
       Huntington beach/Dallas Award winning tattoo artist #freestylelife #tacticalmindzstuntshop #stuntlife #slacklife
     location: "United States"
-    followers: 5758
-    engagement: 560
-    commentsToLikes: 0.045556
+    followers: 6405
+    engagement: 500
+    commentsToLikes: 0.053763
     id: ckaorzqy8phyk0i78wz67asv2
     verified: false
-    hashtags: "#stampedeharley, #fxdb, #streetbobmob, #fxrt"
-  - username: "sushiiimilk"
+    hashtags: "#stuntride, #ftworth, #roadking, #hoffmandesigns"
+  - username: "deecorseytattoos"
     fullname: >-
-      Female Tattoo Artist
+      D E R E K   C O R S E Y
     bio: >-
-      Bringing you: Tattoos, Jams, & Threads DM for booking inquires Deposit required ✨
+      🐐 🇨🇱Dallas, Tx (469) 755-9769 👍🏾Please select the “TEXT” tab for tattoo inquiries!!! 🙅🏾‍♂️DO NOT select the “Message” tab
     location: "United States"
-    followers: 12037
-    engagement: 1141
-    commentsToLikes: 0.043071
-    id: ck6tu8c3cevrb0j71kdtyt3d9
+    followers: 11442
+    engagement: 419
+    commentsToLikes: 0.037536
+    id: ck9wdxqs1hqua0j78altw3va1
     verified: false
-    hashtags: "#styledby, #plants, #fyp, #ootd"
-  - username: "kristeloreto"
+    hashtags: "#blackandgreytattoo, #colortattoo, #tattoorealistic, #blackandgrey"
+  - username: "davidmushaneytattoos"
     fullname: >-
-      KRISTEL ORETO
+      David Mushaney
     bio: >-
-      🚫 NO DMS ✨ Tattoo Artist / Succubus ✨ 💌 Philly / Appointment ONLY 👇🏼 Click for Tattoo Appts, OnlyFans, PO Box & More
+      Tattoo Artist ➖Owner of Rebel Muse Tattoo ➖@RebelMuseTattoo ➖@RebelMuseTattooDallas ➖@RebelMuseKCMO 🖤 @Ellen_Mushaney
     location: "United States"
-    followers: 67744
-    engagement: 111
-    commentsToLikes: 0.036047
-    id: ck6tojllzefqe0j71fp9rxk2u
+    followers: 56135
+    engagement: 283
+    commentsToLikes: 0.027123
+    id: ck8t1v33mx5bv0j788j5evidj
     verified: false
-    hashtags: "#coverups, #coverup, #wreckitralph, #pheonix"
+    hashtags: "#digitalillustration, #dallastattooartist, #tattoo, #abstractdrawing"
+  - username: "emactattoos_"
+    fullname: >-
+      Emac Tattoos
+    bio: >-
+      Maryland-Based Tattoo Artist 🛩 @paramountplus @InkMaster 13 July BOOKING Limited: NOW BOOKING FOR AUG •Emactattoos@gmail.com
+    location: "United States"
+    followers: 14028
+    engagement: 83
+    commentsToLikes: 0.052348
+    id: ck5c1253zub4g0i1106kl3yyo
+    verified: false
+    hashtags: "#tatted, #industryinks, #art, #blackartistry101"
   - username: "vaultt_tec"
     fullname: >-
-      Dallas Hogarth
+      Dallas
     bio: >-
-      Hoagie | Shop: @hoagies.originals | Tattoo artist @tigertattoo_lv | Pins & Stickers || || DM for Shop Password and Commissions
+      | Latinx✨They/She | Shop: @hoagies.originals for Pins & Stickers | Tattoo artist ➡️ @tigertattoo_lv | | DM to book, for Shop Password and Commissions
     location: "United States"
-    followers: 6115
-    engagement: 570
-    commentsToLikes: 0.031909
+    followers: 6201
+    engagement: 441
+    commentsToLikes: 0.029657
     id: ck6ug9dap1okp0j71r14uvxb1
     verified: false
-    hashtags: "#falloutnv, #tattoos, #skeleton, #traditionaltattoo"
+    hashtags: "#tattoos, #enamelpins, #enamelpin, #fnv"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Hamburg In 2022
+title: Top 10 Food TikTok Influencers In Hamburg In 2023
 description: >-
-  Find top food TikTok influencers in Hamburg in 2022. Most popular hashtags: #hamburg #foryou #foryoupage #viral.
+  Find top food TikTok influencers in Hamburg in 2023. Most popular hashtags: #fyp #foryou #hamburg #food.
 platform: TikTok
-hits: 15
+hits: 13
 text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 15 TikTok influencers like this in Hamburg, Germany for you to connect with.
+text_bottom: Our database aggregates 13 TikTok influencers like this in Hamburg, Germany for you to work with.
 profiles:
-  - username: "plantbasedcouple"
+  - username: "vsco_starshine"
     fullname: >-
-      Johanna & Lenni 🌻
+      lara 🦋
     bio: >-
-      a couple showing their love for vegan food💚 biz: plantbasedcouple@web.de
+      lara 🦋 tysm for 3k 🥰 link to my pinterest board from my last video ⬇️
     location: "Germany"
-    followers: 105700
-    engagement: 1164
-    commentsToLikes: 0.017367
-    id: ck7zog9knjrxw0j78gaxosdbh
+    followers: 3140
+    engagement: 1999
+    commentsToLikes: 0.022359
+    id: ckc7uydx0yolm0j23gtbt66wf
     verified: false
-    hashtags: "#wholey, #couplegoals, #vegancouple, #veganfoodnews"
+    hashtags: "#skincare, #vsco, #roadtrip, #fyp"
+  - username: "annalentfer"
+    fullname: >-
+      anna :)
+    bio: >-
+      17 Hamburg🦋 zweiter Account: @anna.lentfer
+    location: "Germany"
+    followers: 32100
+    engagement: 1310
+    commentsToLikes: 0.047505
+    id: ckcdnvy9oazx60j23dlb4fy1n
+    verified: false
+    hashtags: "#freshmoneyfever, #foryou, #unleashthebeast, #jeckimduett"
+  - username: "schmackofatzo"
+    fullname: >-
+      SCHMACKOFATZO®
+    bio: >-
+      SCHMACKOFATZO® ⚜️ FOOD & LIFESTYLE ⚜️ Collab ✉️ mail@schmackofatzo.de
+    location: "Germany"
+    followers: 74200
+    engagement: 448
+    commentsToLikes: 0.119141
+    id: ckbw5xcony6wn0j23iu1zxbks
+    verified: false
+    hashtags: "#winter, #fyp, #kitchen, #luxury"
   - username: "herfitnessfeed"
     fullname: >-
       L A U R A
     bio: >-
-      Booty gains are made by peanut butter🥜😜 ◇Fitness◇Student◇23◇ 📍Hamburg
+      📍Hamburg
     location: "Germany"
-    followers: 24900
-    engagement: 838
-    commentsToLikes: 0.022079
+    followers: 23500
+    engagement: 819
+    commentsToLikes: 0.020996
     id: ckb9jom16azg20j23qi3odp55
     verified: false
-    hashtags: "#thiccc, #gymcheck, #fyp, #glutesworkout"
-  - username: "kangaroo.marcel"
+    hashtags: "#fitness, #foryou, #viral, #youpage"
+  - username: "haschmat_"
     fullname: >-
-      Känguru Marcel🦘
+      hascho
     bio: >-
-      🇩🇪Marcel 17 Nürnberg🏡 🦘#teamkänguru🇦🇺 😬1.96m tall🗽 😉Insta ist oben|🔝
+      Hamburg | 30 | Afghan
     location: "Germany"
-    followers: 16100
-    engagement: 941
-    commentsToLikes: 0.073031
-    id: cka64s8t89yqx0i7874c0eqby
-    verified: false
-    hashtags: "#lost, #germany, #schule, #viral"
-  - username: "ich"
-    fullname: >-
-      ❗️FOLGE JEDEN ZURÜCK
-    bio: >-
-      ✅ Liked 5 Videos von mir und ich like auch bei euch ✅
-    location: "Germany"
-    followers: 15300
-    engagement: 1775
-    commentsToLikes: 0.027826
-    id: ckbktwr2gowih0j23lsovo7qd
-    verified: false
-    hashtags: "#hund, #fdp, #firatelvito, #dog"
-  - username: "celinamzn"
-    fullname: >-
-      𝓒𝓮𝓵𝓲𝓷𝓪𝓶𝔃𝓷
-    bio: >-
-      SUPPORT EACH OTHER❗️❤️ SPREAD LOVE❤️ ig: Celinamzn 🌸
-    location: "Germany"
-    followers: 92000
-    engagement: 1437
-    commentsToLikes: 0.025248
-    id: ck8s5ii0sfzdb0j78bsz0cash
-    verified: false
-    hashtags: "#asiatisch, #girlssupportgirls, #justforfun, #food"
-  - username: "pinkishoney"
-    fullname: >-
-      🦋☁️
-    bio: >-
-      instagram: jaennye
-    location: "Germany"
-    followers: 3942
-    engagement: 1680
-    commentsToLikes: 0.012809
-    id: ckbqdwevjzulk0j23fcylehul
-    verified: false
-    hashtags: "#foryou, #outfit, #foryoupage, #viral"
-  - username: "mohamadezzat_"
-    fullname: >-
-      Mohamad Ezzat
-    bio: >-
-      Follow my new IG ❤️ Luv u all
-    location: "Germany"
-    followers: 164300
-    engagement: 1124
-    commentsToLikes: 0.013985
-    id: ckcdsff6odd3d0j23zt5cv47u
-    verified: false
-    hashtags: "#4u, #4upage, #foryoupage, #hamburg"
-  - username: "hascho_adn"
-    fullname: >-
-      HASCHO
-    bio: >-
-      Follow me on IG: hascho_adn Follow me on YT: AUS DEM NIX
-    location: "Germany"
-    followers: 7981
-    engagement: 371
-    commentsToLikes: 0.041497
+    followers: 7825
+    engagement: 367
+    commentsToLikes: 0.040409
     id: cka0odd4337yd0i78bqfls5hm
     verified: false
-    hashtags: "#afghanistan, #040, #lohbr, #afghan"
+    hashtags: "#trend, #foryou, #hamburg, #040"
+  - username: "ich"
+    fullname: >-
+      ich
+    bio: >-
+      - Verified Instagram Account ☑️ - Winter Season will be soon out 06.01.20❄️
+    location: "Germany"
+    followers: 15100
+    engagement: 1715
+    commentsToLikes: 0.031697
+    id: ckbktwr2gowih0j23lsovo7qd
+    verified: false
+    hashtags: "#katze, #fds, #hund, #bushido"
+  - username: "pinkishoney"
+    fullname: >-
+      🤍
+    bio: >-
+      
+    location: "Germany"
+    followers: 3792
+    engagement: 1663
+    commentsToLikes: 0.010085
+    id: ckbqdwevjzulk0j23fcylehul
+    verified: false
+    hashtags: "#outfit, #haul, #brandymelville, #fyp"
   - username: "ichbinnichtcoollo"
     fullname: >-
       michelle
     bio: >-
-      snapchat michelleemxl hh/bs L💍
+      snapchat michelleemxl
     location: "Germany"
-    followers: 4855
-    engagement: 1358
-    commentsToLikes: 0.009324
+    followers: 4543
+    engagement: 1473
+    commentsToLikes: 0.013298
     id: cka9llhly2rjt0i78973u7r6l
     verified: false
-    hashtags: "#tiktoktraditions, #girlfriend, #couple, #boyfriend"
-  - username: "iloka_"
+    hashtags: "#fyp, #xyzcba, #foryoupage, #tiktoktraditions"
+  - username: "shabnam_and_mortesa"
     fullname: >-
-      ilo
+      Mortesa and Shabnam Ghahreman
     bio: >-
-      📍 Berlin Instagram: liloos__ 🙆🏻‍♀️ krmbx030 🙆🏻‍♂️
+      
     location: "Germany"
-    followers: 52400
-    engagement: 1132
-    commentsToLikes: 0.009880
-    id: ckcosv89j84lr0j23ivcg2mer
+    followers: 56100
+    engagement: 239
+    commentsToLikes: 0.029069
+    id: cka0yggfaba9x0i78xfkepho5
     verified: false
-    hashtags: "#girl, #lecker, #viral, #fy"
+    hashtags: "#goals, #married, #coupleschallenge, #marriedlife"
+  - username: "lt.dm"
+    fullname: >-
+      LT.DM
+    bio: >-
+      Do not forget to subscribe to my Youtube Channel.
+    location: "Germany"
+    followers: 235900
+    engagement: 802
+    commentsToLikes: 0.009958
+    id: ck7zog3aijq5s0j785v4zwccq
+    verified: false
+    hashtags: "#diy, #ideas, #hacks, #food"
 ---

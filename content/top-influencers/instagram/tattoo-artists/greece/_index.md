@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Greece In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Greece In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Greece in 2022. Most popular hashtags: #tattoo #athens #greece #tattooideas.
+  Find top tattoo-artists Instagram influencers in Greece in 2023. Most popular hashtags: #tattoo #greece #athens #tattoos.
 platform: Instagram
-hits: 19
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 19 Instagram influencers like this in Greece for you to collaborate.
+hits: 8
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in Greece for you to work with.
 profiles:
   - username: "tattoosbygonzo"
     fullname: >-
@@ -13,118 +13,94 @@ profiles:
     bio: >-
       Inkmaster S11 Grudge Match S1 Athens Tattoo Co. ⭕Empire Inks Signature Artist ⭕MD Wipeoutz ⭕24/7 Ink Magazine ⭕️Saniderm ⭕️Peak Needles Books Closed
     location: "Greece"
-    followers: 38054
-    engagement: 683
-    commentsToLikes: 0.030217
+    followers: 38698
+    engagement: 696
+    commentsToLikes: 0.027431
     id: ck8sxswefijle0j7826dbzu75
     verified: false
-    hashtags: "#tattooing, #healedtattoo, #tattooart, #tattoostudio"
-  - username: "sevenpavel"
-    fullname: >-
-      H&M
-    bio: >-
-      Songwriter & singer 🇷🇺
-    location: "Greece"
-    followers: 11155
-    engagement: 1347
-    commentsToLikes: 0.015207
-    id: ckaozvad0nk470i78mxtkuw3m
-    verified: false
-    hashtags: "#haircolor, #traditional, #tattooartist, #tattooculture"
+    hashtags: ""
   - username: "raiden_division"
     fullname: >-
       raiden
     bio: >-
       owner at raiden tattoo division studio
     location: "Greece"
-    followers: 28049
-    engagement: 288
-    commentsToLikes: 0.014429
+    followers: 27632
+    engagement: 302
+    commentsToLikes: 0.017972
     id: ck8t6mp11e5fj0j78o0kxzrvg
     verified: false
-    hashtags: "#tattooartist, #summervibes, #inkedgirls, #portrait"
-  - username: "christos_zorbas"
-    fullname: >-
-      ᴄʜʀɪsᴛᴏs ᴢᴏʀʙᴀs
-    bio: >-
-      ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪsᴛ 🖋🙆‍♂️ sᴋɢ,ɢʀ📍 ᴄᴏɴᴛᴀᴄᴛ:ᴢᴏʀʙᴀsᴛᴀᴛᴛᴏᴏ@ʜᴏᴛᴍᴀɪʟ.ᴄᴏᴍ 10 July - 10 August @inked_nyc Owner : @three_d.o.t.s_and_a_dash
-    location: "Greece"
-    followers: 14715
-    engagement: 580
-    commentsToLikes: 0.018189
-    id: ck5qeapzdzjif0i11i4weixw7
-    verified: false
-    hashtags: "#realism, #tattoogirl, #tattooedgirls, #tattoomodel"
-  - username: "creative_forest_elf"
-    fullname: >-
-      ᠻꪮ𝕣ꫀડ𝕥 ꫀꪶᠻ ᥴ𝕣ꫀꪖ𝕥ⅈꪮꪀડ
-    bio: >-
-      ηєχт ѕнσρ υρᴅαтє 20.10.2020 🌱ωєℓ¢σмє тσ му ℓιттℓє ƒσяєѕт σƒ ¢яєαтισηѕ🌱 ρℓєαѕє яєα∂ ꘘ𐌀ⵕ вєƒσяє ѕєη∂ιηg ᴅм🧡 αναιℓαвℓє ιѕ σηℓу ωнαт'ѕ ιη тнє ѕнσρ! ѕнσρ🔻
-    location: "Greece"
-    followers: 80657
-    engagement: 449
-    commentsToLikes: 0.013223
-    id: ck134ulcdy9fa0i190bcy0627
-    verified: false
-    hashtags: "#gemstonejewelry, #labradorite, #seashell, #handmadejewelry"
+    hashtags: "#tattooedgirls, #blackandgraytattoo, #blackandgreytattoo, #tattooartist"
   - username: "black_velour"
     fullname: >-
       B L A C K   V E L O U R
     bio: >-
       ▫️NAIL ARTIST💅🏾 ▫️YOUTUBER🎥 👨🏼‍💻@dimitriskourakos 🐱&🐶@thevelourians 💅🏾#blackvelournails 👇🏼ΝΕΟ ΒΙΝΤΕΟ
     location: "Greece"
-    followers: 54380
-    engagement: 1123
-    commentsToLikes: 0.005324
+    followers: 54913
+    engagement: 1712
+    commentsToLikes: 0.447637
     id: ck13a5xunorwc0i19hc5fde23
     verified: false
-    hashtags: "#blackhair, #lifo, #athens, #nailstyle"
-  - username: "saketattoocrew"
+    hashtags: "#nailstyle, #manicure, #nails, #makeup"
+  - username: "sevenpavel"
     fullname: >-
-      Sake Tattoo Crew
+      BABY THUG 13/4
     bio: >-
-      *World renowned *Tattoo studio *Greece @monsterenergy @adidas @bepantholgreece @hustlebutterdeluxe @dermalizepro @vodafonecu @sullenclothing
+      
     location: "Greece"
-    followers: 81912
-    engagement: 158
-    commentsToLikes: 0.001269
-    id: ck15pghyxxreq0i19o580gby3
+    followers: 8866
+    engagement: 1184
+    commentsToLikes: 0.027044
+    id: ckaozvad0nk470i78mxtkuw3m
     verified: false
-    hashtags: "#colourtattoo, #saketattoocrew, #rosetattoo, #athens"
-  - username: "k_lazaridou"
+    hashtags: "#ink, #jobstopper, #christmas, #tattoos"
+  - username: "natalienox"
     fullname: >-
-      Katerina🥀
+      NOX NATALIE ART
     bio: >-
-      I sing, I watch a lot of movies, I’m obsessed with tattoos and I definitely work my ass off to get what I want. Based in Antiparos🌊 From Thessaloniki🏠
+      #noxviolet @silverletter_gallery Athens, Greece 🇬🇷 ⚔️@cheyenne_tattooequipment ➕ᴀʙ𝚜ᴛʀᴀᴄᴛ.ᴅᴀʀᴋ.ᴄʜᴀᴏ𝚜➕ ɴᴏ ᴅᴍ ❌ 📩 𝙽𝙾𝚇𝙰𝚁𝚃.𝙸𝙽𝙵𝙾@ɢᴍᴀɪʟ.ᴄᴏᴍ . 💙ʙᴇɴᴊᴀᴍɪɴ💍
     location: "Greece"
-    followers: 4369
-    engagement: 3285
-    commentsToLikes: 0.021323
-    id: ckap1aojytrkq0i789mdc31sr
+    followers: 56739
+    engagement: 488
+    commentsToLikes: 0.021717
+    id: ck5qeanyvzj730i116qnwts5u
     verified: false
-    hashtags: "#instagood, #baby, #cover, #greek"
-  - username: "los_ecret"
+    hashtags: "#nox, #solnovaunlimited, #noxviolet, #abstracttattoo"
+  - username: "dreambleed"
     fullname: >-
-      Gregory Mlv ®
+      Ｍａｎｏｌｉｓ🎤Ｌｅｏｎ
     bio: >-
-      24 | visual artist | art director •Eplkt 66 | visuals | graphics •Designer @error_404official •Co-Founder/Owner @baseline.co.gr 📍A T H (Gr).
+      🎤 Singer🎼Songwriter of " 𝕯𝖗𝖊𝖆𝖒𝖇𝖑𝖊𝖊𝖉 " 🎸 , New Alternative Metal Album Out Now 🤟 Listen/Buy My New Record : "We All Bleed Red" here 👇
     location: "Greece"
-    followers: 2106
-    engagement: 1357
-    commentsToLikes: 0.040515
-    id: ck0vva174o7i40i19xc9fqj0s
+    followers: 5884
+    engagement: 823
+    commentsToLikes: 0.013544
+    id: ck5pvhd9jhw2t0i110r26zgji
     verified: false
-    hashtags: "#motiondesigners, #art, #c4d, #octane"
-  - username: "louisgeorgiouofficial"
+    hashtags: "#inked, #dreambleed, #beautifuldestinations, #vscocam"
+  - username: "alexandra_alexi2"
     fullname: >-
-      Louis Georgiou ®️
+      Alexandra Alexi 🖤⚫️️️
     bio: >-
-      📍 𝔸𝕥𝕙𝕖𝕟𝕤, 𝔾𝕣𝕖𝕖𝕔𝕖 🇬🇷 🎤 𝘗𝘰𝘱/𝘙𝘯𝘉 𝘚𝘪𝘯𝘨𝘦𝘳 🎧 @panik_entertainment_group 🎵 Latest hit “ ＳＴＯＲＹ “ 👇🏼
+      ♌️11/8 actor Don’t stop when you’re tired, stop when you’re done.🖤
     location: "Greece"
-    followers: 7839
-    engagement: 1796
-    commentsToLikes: 0.140653
-    id: ck9wg11n2rf520j785hsjisxb
+    followers: 34401
+    engagement: 452
+    commentsToLikes: 0.098521
+    id: ckaovtuyy654v0i789lt1a3ea
     verified: false
-    hashtags: "#workout, #boy, #arcade, #covid"
+    hashtags: "#happymoments, #tattoos, #totalblack, #memories"
+  - username: "damianszymanskii"
+    fullname: >-
+      Damian Szymański
+    bio: >-
+      God is First☝️ @aekfc_official 🇵🇱🇬🇷 4️⃣🙏
+    location: "Greece"
+    followers: 18420
+    engagement: 2737
+    commentsToLikes: 0.020857
+    id: ck5hq8wxespl30i11dilwqgnm
+    verified: false
+    hashtags: "#kot, #artist, #london, #fulham"
 ---

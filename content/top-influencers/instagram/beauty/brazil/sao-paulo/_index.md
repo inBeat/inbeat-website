@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2022
+title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top beauty Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #beauty #makeup #saopaulo #model.
+  Find top beauty Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #makeup #beauty #saopaulo #hair.
 platform: Instagram
-hits: 206
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 206 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 184
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 184 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
-  - username: "dannytoledor"
-    fullname: >-
-      DANNY TOLEDO
-    bio: >-
-      Brazilian Model AM @officeim SP 🇧🇷 THE FACES SP 🇧🇷 STORY MODEL ANÁPOLIS 🇧🇷 LENIS MODEL 🇬🇧
-    location: "Brazil"
-    followers: 3677
-    engagement: 1445
-    commentsToLikes: 0.084582
-    id: ck0tu5hcp5q4m0i19mtldxsbn
-    verified: false
-    hashtags: "#voguechina, #voguemagazine, #goiania, #china"
-  - username: "mundocabeleireiro"
-    fullname: >-
-      Mundo do Cabeleireiro
-    bio: >-
-      A sua Beauty Store! Compre pelo site e também pelo delivery | Acesse ⬇️
-    location: "Brazil"
-    followers: 347760
-    engagement: 29
-    commentsToLikes: 0.095429
-    id: ck601df2xfafm0i14wjp247h2
-    verified: false
-    hashtags: "#delivery, #repost, #tratamentoprofissional, #kimkadarshian"
   - username: "ramonamorimoficial"
     fullname: >-
       Ramon Amorim
     bio: >-
       Beauty Artist | São Paulo @casaflorah 📩 ramonamorimoficial@gmail.com Link venda/livro Maquiagem Teen 👇🏻
     location: "Brazil"
-    followers: 550691
-    engagement: 34
-    commentsToLikes: 0.133220
+    followers: 551696
+    engagement: 20
+    commentsToLikes: 0.137569
     id: ck5bxkh3mnwjg0i11hdb23t3h
     verified: false
-    hashtags: "#makeup, #halloweenmakeup, #debutante, #beauty"
+    hashtags: "#makeglam, #debutante, #makeglow, #makeup"
+  - username: "miiablog"
+    fullname: >-
+      𝓜𝓲𝓲𝓪
+    bio: >-
+      🌼Tester | Beauty | Fashion 📍São Paulo - SP 👒 Idealizadora @closetnoventaoficial 💛 daughter of God 👣 Belle e Cauê
+    location: "Brazil"
+    followers: 5620
+    engagement: 412
+    commentsToLikes: 0.216853
+    id: ckaosap38qvnc0i78w489dpwj
+    verified: false
+    hashtags: "#blogger, #nails, #unhasnaturais, #tbtzao"
+  - username: "paulodetarso_"
+    fullname: >-
+      Paulo de Tarso
+    bio: >-
+      🇧🇷 Perfil profissional. ✖️ Lifestyle | Moda | Fitness 🔱 @flay_online
+    location: "Brazil"
+    followers: 21676
+    engagement: 100
+    commentsToLikes: 0.039407
+    id: ckaowsx5wab4n0i78mkaetndy
+    verified: false
+    hashtags: "#photooftheday, #cross, #sjc, #fitness"
+  - username: "nathinog"
+    fullname: >-
+      Nathália Nogueira
+    bio: >-
+      30 | São Paulo | Makeup, Beauty, Moda e Lifestyle 📱 Me conheça nos STORIES 💻 YouTuber quase 500K 🙋🏽‍♀️ 💌 nathinog@pgbagency.com 👩‍❤️‍👨 @brunosilcor
+    location: "Brazil"
+    followers: 176476
+    engagement: 293
+    commentsToLikes: 0.037029
+    id: ck14kwar5rn0a0i1914rdxhgl
+    verified: false
+    hashtags: "#makeup, #shein, #sheinofficial, #makeuptutorial"
+  - username: "maahway"
+    fullname: >-
+      Matheus
+    bio: >-
+      Beauty Artist Drag Queen São Paulo, BR.
+    location: "Brazil"
+    followers: 3599
+    engagement: 1005
+    commentsToLikes: 0.094668
+    id: ck8t7jvsbh2wu0j78v69rjxuv
+    verified: false
+    hashtags: "#sephoradarksidechallenge, #linhabrunatavares, #make, #fentybeauty"
+  - username: "elyda.r"
+    fullname: >-
+      Èlyda
+    bio: >-
+      ♡ Rm 8:38-39 🕊 •moda - beauty - lifestyle• 📍RP-São Paulo
+    location: "Brazil"
+    followers: 18206
+    engagement: 207
+    commentsToLikes: 0.048506
+    id: ck8t7aoulg4u50j78udd6p1cw
+    verified: false
+    hashtags: "#fed, #storyinstagram, #ideiasnewpost, #crerparaver"
   - username: "brigittecalegari"
     fullname: >-
       B R I G I TT E C A L E G A R I
     bio: >-
-      | Entrepreneur, Creative Director, Content Creator & Beauty Artist | São Paulo | contato@brigittecalegari.com.br | #brigittecalegari
+      | Beauty Lover & Lipstick Obsessed | São Paulo | contato@brigittecalegari.com.br | #brigittecalegari
     location: "Brazil"
-    followers: 277518
-    engagement: 151
-    commentsToLikes: 0.050408
+    followers: 276053
+    engagement: 158
+    commentsToLikes: 0.040505
     id: ck15tj7fiicnl0i19ggu6shsd
     verified: true
-    hashtags: "#brigittecalegari, #quemdisseberenice, #beauty, #skinq"
-  - username: "giovannamaira"
+    hashtags: "#beauty, #brigittecalegari, #publicidade, #tbt"
+  - username: "marco_diniz"
     fullname: >-
-      Giovanna Maira🎤🎶
+      Marco Diniz
     bio: >-
-      Brazilian soprano, pianist, songwriter, actress, motivational speaker and tv host of A Bella Italia on @redevida . 📧 contato@giovannamaira.com.br
+      Welcome to my world 🌎 São Paulo SP🇧🇷 Beauty/Personal Care @marcodinizbeauty 📧 mdinizbeauty@gmail.com 📞 55 11 98516-1656
     location: "Brazil"
-    followers: 14163
-    engagement: 595
-    commentsToLikes: 0.189555
-    id: ckapcdgvi3dbp0i78n905gani
+    followers: 25476
+    engagement: 102
+    commentsToLikes: 0.029169
+    id: ck5bxqc9uo7sy0i118tzuyg8p
     verified: false
-    hashtags: "#fashion, #lookdodia, #tvhost, #tvstar"
-  - username: "titaa"
+    hashtags: "#hair, #marcodiniz, #makeup, #repost"
+  - username: "thitadiogo"
     fullname: >-
-      Thaysa de Paula
+      THITA DIOGO
     bio: >-
-      Beleza & Lifestyle Curitiba, 🇧🇷 ▫️Sou mais legal pelos Stories! ✉ contato.thaysa@outlook.com
+      ⚡️Fashion | Beauty | Lifestyle | Redhead⚡️ •Model | Adm. de Empresas | Jurist ⚖️• •Romanos 8:39
     location: "Brazil"
-    followers: 18490
-    engagement: 213
-    commentsToLikes: 0.129601
-    id: ck15rkca88cb90i19qe10syvx
+    followers: 7721
+    engagement: 1334
+    commentsToLikes: 0.141050
+    id: ckap1kswiuymz0i78rtblvfrj
     verified: false
-    hashtags: "#ootd, #beauty, #maquiagembrasil, #saopaulo"
-  - username: "anavaleriarsouza"
+    hashtags: "#ruivanatural, #beleza, #ruivice, #ruivante"
+  - username: "emilyrybar_"
     fullname: >-
-      ꪖ​ꪀ​ꪖ​ ꪜ​ꪖ​ꪶ​ꫀ​́𝘳​𝓲​ꪖ​ 🌻
+      ✨ Emily ✨
     bio: >-
-      •𝙲𝚒𝚗𝚎𝚖𝚊 𝙴 𝙰𝚞𝚍𝚒𝚘𝚟𝚒𝚜𝚞𝚊𝚕 3/8🎞 ∙𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚘𝚛𝚊 𝚍𝚎 𝙱𝚎𝚕𝚎𝚣𝚊 𝙼𝚊𝚛𝚢 𝙺𝚊𝚢💄 ∙𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚘𝚛𝚊 𝙼𝙳𝚃🌿 ∙𝙿𝚛𝚘𝚍𝚞𝚝𝚘𝚛𝚊 @retratosporana 📸 ∙𝕍𝕚𝕒𝕛𝕒𝕟𝕥𝕖, 𝕘𝕦𝕚𝕒𝕕𝕒 𝕡𝕖𝕝𝕒 𝕝𝕦𝕫 𝕖 𝕡𝕖𝕝𝕒 𝔽𝕖́!✈︎
+      Sport | Healthy lifestyle | Model @anotheragency_ ♎️🦋🌟🧿🔮🌺
     location: "Brazil"
-    followers: 6109
-    engagement: 347
-    commentsToLikes: 0.042856
-    id: ckaorr1v4odan0i783208ssjc
+    followers: 81691
+    engagement: 72
+    commentsToLikes: 0.058371
+    id: ck6tl1jcc5st30j71s9g2rfbh
     verified: false
-    hashtags: "#make, #makeuptutorial, #makeuplovers, #batom"
-  - username: "natszulzik"
-    fullname: >-
-      Natasha Szulzik
-    bio: >-
-      Foco, força e fome 🐍 Slytherin 📍 São Paulo - Brazil 🎮 iOS/Game Developer 👾 Streamer - https://twitch.tv/natxusqui 🎥 Youtuber 📩 Parcerias via e-mail👇🏻
-    location: "Brazil"
-    followers: 14319
-    engagement: 605
-    commentsToLikes: 0.045369
-    id: ck5zj5or9gzm90i14wsvmquoq
-    verified: false
-    hashtags: "#cabelo, #halloweencostume, #halloween, #makeupartist"
-  - username: "iedalima_"
-    fullname: >-
-      IEDA LIMA
-    bio: >-
-      ASSISTA AOS STORIES! • Dicas, maquiagem & muita vida real ✨ • Se inscrevam no meu canal 👇🏻
-    location: "Brazil"
-    followers: 10535
-    engagement: 702
-    commentsToLikes: 0.112316
-    id: ck13cvlae2dts0i19p7sy26n6
-    verified: false
-    hashtags: "#maquiagem, #challengemakeup, #challenge, #model"
-  - username: "dynahgimenes"
-    fullname: >-
-      Dynah Gimenes
-    bio: >-
-      ✨ Makeup • Lifestyle • Beauty ✨ 📍São Paulo 📥Parcerias e trabalhos via direct ou e-mail 💌 contatodynahgimenes@gmail.com
-    location: "Brazil"
-    followers: 7384
-    engagement: 850
-    commentsToLikes: 0.139754
-    id: ckf5l3qb4o9aq0j239zarlrmy
-    verified: false
-    hashtags: "#trend, #euphoriaedit, #euphoria, #makerio"
+    hashtags: "#happy, #brazil, #moda, #outfit"
 ---

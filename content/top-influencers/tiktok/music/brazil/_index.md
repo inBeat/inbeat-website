@@ -1,36 +1,24 @@
 ---
-title: Top 10 Music TikTok Influencers In Brazil In 2022
+title: Top 10 Music TikTok Influencers In Brazil In 2023
 description: >-
-  Find top music TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #foryoupage #dueto #comedia.
+  Find top music TikTok influencers in Brazil in 2023. Most popular hashtags: #dueto #foryou #fyp #foryoupage.
 platform: TikTok
-hits: 846
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 846 TikTok influencers like this in Brazil for you to pitch.
+hits: 775
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 775 TikTok influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "hmagal"
-    fullname: >-
-      Henrique
-    bio: >-
-      Comédia e música🎭 Postei e saí correndo Publis: anticomediante@gmail.com insta:
-    location: "Brazil"
-    followers: 345900
-    engagement: 2472
-    commentsToLikes: 0.030956
-    id: ckb9r7c42nj9v0j23dk6dzoye
-    verified: false
-    hashtags: "#gift, #vocesabia, #salvearmonca, #comedia"
   - username: "marlysousa64"
     fullname: >-
       user5722531671465
     bio: >-
       Música, Dueto , Comédia meu Instagram 👉@marlly.sousa Sigo todos de Volta!
     location: "Brazil"
-    followers: 6761
-    engagement: 5150
-    commentsToLikes: 0.149480
+    followers: 6666
+    engagement: 4982
+    commentsToLikes: 0.148617
     id: ckdnveuozojnu0j235p08jcy8
     verified: false
-    hashtags: "#dueto, #reagir, #foryoupage, #arraialtiktok"
+    hashtags: "#foryoupage, #dueto, #reagir, #arraialtiktok"
   - username: "alexsenna74"
     fullname: >-
       Ale Senna
@@ -42,79 +30,43 @@ profiles:
     commentsToLikes: 0.895655
     id: ckbwa1pye00ut0j23k0hwzske
     verified: false
-    hashtags: "#maisde40, #fyp, #quarent, #foryoupage"
+    hashtags: "#maisde40, #maisde30, #foryou, #foryoupage"
   - username: "itsbrunico"
     fullname: >-
       Brunico ⚡️
     bio: >-
-      Cantor, ator, atleta, músico, escritor e mentiroso 📬 brunico1d@hotmail.com
+      Cantor, ator, escritor, atleta, músico e mentiroso 📬 brunico1d@hotmail.com
     location: "Brazil"
-    followers: 1500000
-    engagement: 2490
-    commentsToLikes: 0.021044
+    followers: 1900000
+    engagement: 2174
+    commentsToLikes: 0.046784
     id: ck9ep8zlurjhh0j78zr37rrwi
     verified: true
-    hashtags: "#signos, #foryou, #comedia, #daumcroc"
+    hashtags: "#foryou, #fyp, #comedia, #fusioninfluencers"
   - username: "polaralho"
     fullname: >-
       Polaris
     bio: >-
       💖spammou eh block💖 ⬇️link da musica nova⬇️ meu conteudo eh um microondas
     location: "Brazil"
-    followers: 12900
-    engagement: 2181
-    commentsToLikes: 0.058199
+    followers: 19800
+    engagement: 1811
+    commentsToLikes: 0.067835
     id: ck9fjboa5f1yx0j78moegayxz
     verified: false
-    hashtags: "#fy, #fyp, #pobremaceo, #quarantine"
-  - username: "ninho"
+    hashtags: "#fy, #fyp, #dueto, #costurar"
+  - username: "bailedokin"
     fullname: >-
-      Ninho
+      bailedokin
     bio: >-
-      Comédia, Memes e Músicas 😜 Curitiba / Baln. Camboriú 🇧🇷 Instagram @ninho 🔥
+      Quer ter um amigo Dj?☝️ Um Dj que faz passinho 25Y😎 PEÇA UMA MÚSICA AQUI ↕️
     location: "Brazil"
-    followers: 1000000
-    engagement: 1903
-    commentsToLikes: 0.020595
-    id: ck9eq20nlv8c90j78znjccit1
+    followers: 918700
+    engagement: 1464
+    commentsToLikes: 0.100309
+    id: ckcoxeobp9t4u0j23pr8iwsha
     verified: false
-    hashtags: "#resso, #ads, #paid, #fusioninfluencers"
-  - username: "zenaideribeirooo"
-    fullname: >-
-      zenardesouza@hotmail
-    bio: >-
-      Amooo as amizades que tenho Aqui ❤️❤️❤️ Frases motivacionais trecho de músicas .
-    location: "Brazil"
-    followers: 29200
-    engagement: 1678
-    commentsToLikes: 0.432543
-    id: cka64kvfb924n0i78s90uzqcl
-    verified: false
-    hashtags: "#deus, #fotos, #reflexaododia, #musicatop"
-  - username: "kelvinbohm"
-    fullname: >-
-      Kelvin Bohm
-    bio: >-
-      21 anos amando música 📀 Ouça a música que eu fiz quando meu cachorro morreu ⬇️
-    location: "Brazil"
-    followers: 14600
-    engagement: 1600
-    commentsToLikes: 0.148404
-    id: ck92z0n2856gs0j78stn3id0x
-    verified: false
-    hashtags: "#cachorro, #musicaautoral, #spotify, #cachorrosdotiktok"
-  - username: "81rosane"
-    fullname: >-
-      81rosane
-    bio: >-
-      Vamos de TikTok! Infos, música e distração! #Cuidem-se
-    location: "Brazil"
-    followers: 5850
-    engagement: 1487
-    commentsToLikes: 0.114559
-    id: ckb9g5w3e534d0j23i12l4n9k
-    verified: false
-    hashtags: "#recife, #et, #cafe, #coleguinhas"
+    hashtags: "#live, #dancer, #foryou, #funkbh"
   - username: "augustus_marx.1972"
     fullname: >-
       J Augusto Campos
@@ -126,5 +78,53 @@ profiles:
     commentsToLikes: 0.663419
     id: ckc7sdiikx7d80j236u4mqdno
     verified: false
-    hashtags: "#fyp, #musicaromantica, #viral, #dublagemengra"
+    hashtags: "#paravc, #tenhomaisde40, #amizade, #viral"
+  - username: "bibitattto_"
+    fullname: >-
+      bibitatto 586k🎉
+    bio: >-
+      Viva com paixão, Viva Musical.ly❤ BibiTatto sempre no meu coração❤😍 FC da bibi❤
+    location: "Brazil"
+    followers: 593600
+    engagement: 2124
+    commentsToLikes: 0.025793
+    id: ck9ohnm03c4550j78qsll5z5f
+    verified: false
+    hashtags: "#foryoupage, #cover, #cantora, #paravoc"
+  - username: "ricardonevesf"
+    fullname: >-
+      Ricardo Neves Rico
+    bio: >-
+      Papai do Lucas! Amo Jesus, minha Familia, Músicas e a Vida! #deusébomotempotodo
+    location: "Brazil"
+    followers: 7230
+    engagement: 2077
+    commentsToLikes: 0.279479
+    id: cka8f5upp0zfu0i78w6tzc6j8
+    verified: false
+    hashtags: "#tiktok, #comedy, #love, #tiktokbrasil"
+  - username: "mihportilla20"
+    fullname: >-
+      Mih Portilla
+    bio: >-
+      Cover da Mia Colucci ❤ Dublagens 😉 Músicas 🎶 Um pouco de tudo!!! 👔⭐🎀
+    location: "Brazil"
+    followers: 14800
+    engagement: 1914
+    commentsToLikes: 0.175868
+    id: ckcvjge0pwvsp0j23s3ohzone
+    verified: false
+    hashtags: "#viral, #rbd, #tiktokbrasil, #dublagens"
+  - username: "gustavotarui"
+    fullname: >-
+      Maior gado do tiktok
+    bio: >-
+      👺Otaku👺 🎵spotify: tarui🎵 👾twitch: gktaru👾 ig:tarui__ minha nova música:
+    location: "Brazil"
+    followers: 86800
+    engagement: 2527
+    commentsToLikes: 0.027382
+    id: ckb19yohzy7s40j235toqgzuw
+    verified: false
+    hashtags: "#foryoupage, #anime, #weeb, #naruto"
 ---

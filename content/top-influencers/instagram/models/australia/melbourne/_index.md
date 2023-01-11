@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Melbourne In 2022
+title: Top 10 Models Instagram Influencers In Melbourne In 2023
 description: >-
-  Find top models Instagram influencers in Melbourne in 2022. Most popular hashtags: #model #melbourne #fashion #style.
+  Find top models Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #model #instagood #love.
 platform: Instagram
-hits: 107
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 107 Instagram influencers like this in Melbourne, Australia for you to work with.
+hits: 64
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 64 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
-  - username: "akiramorrow_"
+  - username: "joshkua"
     fullname: >-
-      𝐀𝐊𝐈𝐑𝐀 𝐌𝐎𝐑𝐑𝐎𝐖
+      Josh Kua
     bio: >-
-      DANCER | MODEL Melbourne 🇦🇺 *DM for collab* @hoffastudios @gkphotography_insta @divadolly_australia Code: DivaSquadAkira
+      Genre-defying Aussie violinist, composer & model Melbourne / Kuala Lumpur 🇸🇬 @avemanagement
     location: "Australia"
-    followers: 28105
-    engagement: 325
-    commentsToLikes: 0.093635
-    id: ck14hu3ync5c20i198pb22c61
-    verified: false
-    hashtags: "#activewear, #melbourne, #longhair, #dancer"
-  - username: "mackenzieduffy_"
-    fullname: >-
-      MACKENZIE JADE DUFFY
-    bio: >-
-      DANCER. MODEL. •Samoan/Australian• 🖤 @dancenationacademy 🖤 @energetiks model 📷 🖤 @hoffastudios ambassador
-    location: "Australia"
-    followers: 17881
-    engagement: 281
-    commentsToLikes: 0.137477
-    id: ck5hdrdn3ozai0i112di2rbza
-    verified: false
-    hashtags: "#tanned, #teenmodel, #dancemodel, #potd"
-  - username: "zana_pali"
-    fullname: >-
-      𝐙𝐚𝐧𝐚 | 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
-    bio: >-
-      💍 𝗪𝗶𝗳𝗲𝘆 𝘁𝗼 @gianniromano5 👼🏻 𝗠𝗮𝗺𝗮 𝘁𝗼 @the_romano_brothers 👑 𝐑𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐞𝐝 𝐛𝐲 @brazenmodels 🎓 𝐋𝐚𝐰𝐲𝐞𝐫 𝗟𝗟𝗠(𝗝𝗗), 𝗕.𝗔(𝐂𝗿𝗶𝗺𝗶𝗻𝗼𝗹𝗼𝗴𝘆), 𝗠𝗼𝗻𝗮𝘀𝗵 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆
-    location: "Australia"
-    followers: 110029
-    engagement: 94
-    commentsToLikes: 0.071625
-    id: ck5hg71l119460i11roqzbygg
+    followers: 63492
+    engagement: 254
+    commentsToLikes: 0.046901
+    id: ckap97zc3rjcy0i785nnctbaq
     verified: true
-    hashtags: "#baby, #pregnant, #sp, #bump"
-  - username: "lucaslua.tattoos"
+    hashtags: "#chambord, #ad, #sponsored, #improv"
+  - username: "babushka.ferenczi"
     fullname: >-
-      Lucas Lua  🌙
+      Babushka Ferenczi
     bio: >-
-      ✨Books currently closed✨ Tattoo inquiries through FB only. 📍Melbourne, Australia 🖤Movember donations 👇🏼
+      🇫🇷🇭🇺 - 🇦🇺 Model Performer Actor Owner @jalwadanceco Catwalk Trainer @ AAM Pres. of Skyhigh Paragliding BA @fixmykite 🏍- Paraglide - kitesurf
     location: "Australia"
-    followers: 35253
-    engagement: 610
-    commentsToLikes: 0.010610
-    id: ck5c8ee7i9awq0i11zk5uv1jn
+    followers: 5467
+    engagement: 444
+    commentsToLikes: 0.046207
+    id: ck6u6k70qg2f30j71ls6t45wx
     verified: false
-    hashtags: "#tattoo, #tattooideas, #blackwork, #tattooed"
-  - username: "iamshimakhosravi"
+    hashtags: "#frenchmodel, #funtimes, #model, #melbournephotography"
+  - username: "curvyamelia"
     fullname: >-
-      shima khosravi
+      Amelia Stubbs
     bio: >-
-      Model, Actress, Stylist, Makeup artist,📍SYDNEY.🇭🇲 @shimakhosravimua @stylebyshima
+      Curve Model 📍Melbourne, Australia ❄️🥚 Follow my egg freezing journey 📧contact@ameliastubbs.com.au
     location: "Australia"
-    followers: 15843
-    engagement: 295
-    commentsToLikes: 0.196478
-    id: ck6tq2ll0p2040j71ojmm7o19
+    followers: 168697
+    engagement: 72
+    commentsToLikes: 0.062138
+    id: ck5hpk1sdrhja0i11ruwku1h1
     verified: false
-    hashtags: "#beautiful, #makeupartist, #celebritystylist, #halloween"
-  - username: "yagalterry"
+    hashtags: "#melbourne, #takingshape, #ad, #beyou"
+  - username: "jaxandlulufrenchies"
     fullname: >-
-      TERRY
+      JAX & LULU |Dog Influencers
     bio: >-
-      ✨ Just a facade ✨ (MODEL) 📍 Melbourne, Australia Blog ➖ yagalterry.wordpress.com Portfolio ➖ yagalterry.net
+      Dogs of @melbourne.foodies @melbournegrazing.co Models / Influencers & Food Bloggers Our Cake Day 🎂 Jax 11th Sept 16 💙 Lulu 11th Sept 19 💖
     location: "Australia"
-    followers: 22638
-    engagement: 661
-    commentsToLikes: 0.011512
-    id: ck5bzj0gzr8p10i11rl1qz8f7
+    followers: 7542
+    engagement: 426
+    commentsToLikes: 0.335723
+    id: ck5ho5m01oz8o0i11akvac5eo
     verified: false
-    hashtags: "#vlog, #dailyreminder"
+    hashtags: "#mondaymood, #throwback, #lockdown3, #highteaparty"
   - username: "kristyleedenovan"
     fullname: >-
       KRISTY LEE  DENOVAN
     bio: >-
       Ballerina | Silhouette Models 🌏Melbourne, Australia 📧kristyleedenovan@gmail.com 💌info@silhouettemanagement.com.au
     location: "Australia"
-    followers: 6152
-    engagement: 1320
-    commentsToLikes: 0.057396
+    followers: 5978
+    engagement: 1123
+    commentsToLikes: 0.076628
     id: ck6ua2t5a15km0j71pd1u5tzx
     verified: false
-    hashtags: "#instaballet, #2020reveals, #contemporarydance, #dancersofig"
-  - username: "rosannafaraci"
+    hashtags: "#repost, #classicalballet, #ballet, #ballerina"
+  - username: "alecgolinger"
     fullname: >-
-      www.rosannafaraci.com
+      Alec Golinger
     bio: >-
-      MAXIM Magazine PHOTOGRAPHER 📸 Inspire 🌈💫🌟 Do what you can with what you have with where you are ! 💕
+      Made in Australia 🇦🇺 @eaton_management @cesdtalent @chadwickmodels
     location: "Australia"
-    followers: 29155
-    engagement: 212
-    commentsToLikes: 0.043937
-    id: ck0tzj9gbqh6z0i19gg09kagj
+    followers: 164022
+    engagement: 260
+    commentsToLikes: 0.121087
+    id: ck1343mkpuja30i19med59o5a
     verified: false
-    hashtags: "#model, #beautiful, #melbourne, #bnwphotography"
-  - username: "mikayla_stevens.06"
+    hashtags: "#comedy, #70sfashion, #instagood, #cover"
+  - username: "rprtalent"
     fullname: >-
-      MIKAYLA STEVENS
+      RPR Talent Management
     bio: >-
-      🌸AGENT - @jrmanagement 🌸MODEL 184CM 🌸MELBOURNE AUSTRALIA 🌸DM TO COLLAB
+      |▪️Film, TV & Commercial Talent Agency - AUS 🇦🇺🎬 |▪️Proud sponsors @vidcon @castingguildaust |▪️Owned and operated by @roslynrpr |▪️Apply ⬇️
     location: "Australia"
-    followers: 38393
-    engagement: 352
-    commentsToLikes: 0.081657
-    id: ck6u71fqeiww80j712x08dvh3
+    followers: 24271
+    engagement: 42
+    commentsToLikes: 0.028233
+    id: ck13cxxke2pjp0i19t3i1xda2
     verified: false
-    hashtags: "#pricelineau, #discoveraustralia, #fitnessgirl, #idealportrait"
-  - username: "jewelthealternative"
+    hashtags: "#extras, #vidcon, #actor, #openday"
+  - username: "gustavoviglio"
     fullname: >-
-      JEWEL 🇫🇷🇲🇦 ヅ
+      Gustavo Viglio
     bio: >-
-      We make love and then we die. {model & stylist @ request} Melbourne, Australia @jewelshotitt I take photos too.
+      Made in 🇮🇹 Pro Dancer on @dancingau 📧gustavoviglio@gmail.com
     location: "Australia"
-    followers: 5655
-    engagement: 1277
-    commentsToLikes: 0.068178
-    id: ck5c7ed4j7dly0i11n5xapfou
+    followers: 31257
+    engagement: 166
+    commentsToLikes: 0.042502
+    id: ck5hmh7flly1p0i11p1bvdhqe
     verified: false
-    hashtags: ""
+    hashtags: "#likeforlikes, #fashionblogger, #fashion, #melbourne"
+  - username: "frankieandvelvetlove"
+    fullname: >-
+      Frankie ♡ Velvet Love
+    bio: >-
+      💙 Frankie: 28th November 2016 💖 Velvet Love: 5th February 2020 📍 Melbourne, Australia 🇦🇺 😍 Models, Influencer’s & Food Bloggers
+    location: "Australia"
+    followers: 41221
+    engagement: 245
+    commentsToLikes: 0.128208
+    id: ck139jdt3llj50i19gm5w3muq
+    verified: false
+    hashtags: "#babygirl, #puppy, #instafrenchie, #frenchie"
+  - username: "natkalinowski"
+    fullname: >-
+      Natalia Kalinowski
+    bio: >-
+      Model•Lifestyle & Fashion Blogger 📍Melbourne ✈️ Luxury Traveler @themoderndaylifestyle 📩 natalia@nataliakalinowski.com 📸 @silhouettemanagement
+    location: "Australia"
+    followers: 116385
+    engagement: 277
+    commentsToLikes: 0.008310
+    id: ck6trxfdr1mj30j71xddclqcz
+    verified: false
+    hashtags: "#shein, #ad, #lanistar, #sheinx"
 ---

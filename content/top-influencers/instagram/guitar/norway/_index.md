@@ -1,130 +1,106 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Norway In 2022
+title: Top 10 Guitar Instagram Influencers In Norway In 2023
 description: >-
-  Find top guitar Instagram influencers in Norway in 2022. Most popular hashtags: #norway #guitar #picoftheday #blackmetal.
+  Find top guitar Instagram influencers in Norway in 2023. Most popular hashtags: #norway #metal #guitar #blackmetal.
 platform: Instagram
-hits: 12
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 12 Instagram influencers like this in Norway for you to contact.
+hits: 8
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "leprous_toro"
+  - username: "teloch.mayhem"
     fullname: >-
-      Tor Oddmund Suhrke
+      Morten Bergeton Iversen
     bio: >-
-      Guitarist in Leprous 🇳🇴 👇🏻 Live stream concert October 9th
+      Norwegian guitarist in : @thetruemayhem @nidingr_norway #umoral
     location: "Norway"
-    followers: 8938
-    engagement: 955
-    commentsToLikes: 0.017972
-    id: ck15q5uiy193n0i19ykmkpitt
+    followers: 51094
+    engagement: 434
+    commentsToLikes: 0.022798
+    id: ck5zj95unh65i0i142d852jh8
+    verified: true
+    hashtags: "#helvete, #mayhem, #blackmetal, #repost"
+  - username: "keveneknes"
+    fullname: >-
+      Keven Eknes
+    bio: >-
+      🇳🇴 Norwegian guitar dude in Los Angeles🏝 📨 Contact me for gear/product demos! 🎸 ❗️ Ultimate guide to the CAGED System! Don’t skip this! 🤯📖
+    location: "Norway"
+    followers: 38754
+    engagement: 258
+    commentsToLikes: 0.037516
+    id: ck0tybpmymblc0i190dnksnh4
     verified: false
-    hashtags: ""
+    hashtags: "#fender, #victoryamps, #fractalaudio, #shredguitar"
   - username: "martine_roenning"
     fullname: >-
       Martine Rønning
     bio: >-
       Artist/model - Norway🇧🇻 Singer at @playagencyofficial🎤 Model at @ebmodels📷 Booking DM/email ❣️
     location: "Norway"
-    followers: 12523
-    engagement: 1563
-    commentsToLikes: 0.365391
+    followers: 13218
+    engagement: 1402
+    commentsToLikes: 0.268635
     id: ck55k7pvwyokz0i110g2y9sgs
     verified: false
-    hashtags: "#artist, #beach, #summer, #picoftheday"
-  - username: "toradaa"
+    hashtags: "#christmas, #photoshoot, #instacover, #cover"
+  - username: "magnus_klausen"
     fullname: >-
-      Tora Dahle Aagård
+      Magnus klausen
     bio: >-
-      «GIRLS» OUT NOW👇🏼💦
+      Norwegian. Probably making a riff... Music I listen to 👇
     location: "Norway"
-    followers: 132198
-    engagement: 452
-    commentsToLikes: 0.034575
-    id: ck0tyfbw5mkpg0i19qjca4c5z
+    followers: 58545
+    engagement: 397
+    commentsToLikes: 0.034385
+    id: ck6ud1r3wim5o0j71vdhqbj09
     verified: false
-    hashtags: "#soundofguitars, #pickupmusic, #riffs4u, #marceauguitars"
+    hashtags: "#pickupjazz, #soundofguitars, #guitarsarebetter, #drakememes"
   - username: "henrylemoin"
     fullname: >-
       Henry Lemoin | Norwegian Model
     bio: >-
       📍Oslo, Norway . ⚘Ambassador @eromaperfumes Discount code: LEMOIN Please check out the music video i'm starring in for The Da Vinci Code
     location: "Norway"
-    followers: 31564
-    engagement: 696
-    commentsToLikes: 0.036211
+    followers: 35539
+    engagement: 863
+    commentsToLikes: 0.046501
     id: ck6u5xvxkce1r0j71t220u2qo
     verified: false
-    hashtags: "#darkaesthetic, #portrait, #aesthetic, #instagood"
-  - username: "resch410"
-    fullname: >-
-      
-    bio: >-
-      Bruno Labrador 🐶🌈 Janto Labrador 🐶🌈 Gismo Maine Coon 13 years 😺 Bosse Norwegian Forestcat 😾🌈 Ylvie Maine Coon 1 year 😺 Near Hamburg
-    location: "Norway"
-    followers: 7387
-    engagement: 641
-    commentsToLikes: 0.291583
-    id: ck9habi3bbwqm0j785ythlz2y
-    verified: false
-    hashtags: "#amazingcat, #catsoninstagram, #mainecoonworld, #foreverlove"
-  - username: "funnybubbledogs"
-    fullname: >-
-      💬🐾Fᴜɴɴʏ ʙᴜʙʙʟᴇ ᴅᴏɢs🐾💬
-    bio: >-
-      Twins❤️ And their 6 Amazing dogs!! The border collies Kylie - Henry - Harley - Janis, the Podengo Jolie and the funniest Corgi Hugo.
-    location: "Norway"
-    followers: 12389
-    engagement: 405
-    commentsToLikes: 0.069191
-    id: ck8t8syo5lose0j787en1q1nq
-    verified: false
-    hashtags: "#barkhappy, #cracksmeup, #barked, #instagram"
-  - username: "javipostigo"
-    fullname: >-
-      Javi Postigo
-    bio: >-
-      | | ANOTHER WAY OF LIVING || 📷🎥🍮🍻🍥🌅🌊🌎⚓🏂🏄✈ Twin Bro @josepostigo Norwegian 🇳🇴
-    location: "Norway"
-    followers: 7610
-    engagement: 739
-    commentsToLikes: 0.023450
-    id: ck136zagz907n0i19c31u6b6i
-    verified: false
-    hashtags: "#cuarentena, #mediterranean, #octopus, #spain"
-  - username: "ihsahnofficial"
-    fullname: >-
-      Ihsahnofficial
-    bio: >-
-      https://ihsahn.lnk.to/Telemark
-    location: "Norway"
-    followers: 51260
-    engagement: 457
-    commentsToLikes: 0.016963
-    id: ck6tj4ppo202c0j71g9cmr31h
-    verified: true
-    hashtags: "#rhodesianridgeback, #rr, #aristides, #telemark"
+    hashtags: "#mensstyle, #suited, #heathenry, #vikingstyle"
   - username: "mork.official"
     fullname: >-
       MORK - Thomas Eriksen
     bio: >-
-      Creator of Norwegian Black Metal-band MORK - LIVESTREAM Link below
+      Musician-Producer-Songwriter-Podcaster. Creator of Norwegian Black Metal-band MORK. For booking, merch & Podcast visit the homepage.
     location: "Norway"
-    followers: 8105
-    engagement: 641
-    commentsToLikes: 0.015951
+    followers: 11983
+    engagement: 634
+    commentsToLikes: 0.013023
     id: ck6tj4oi81zzu0j71siyvdo25
     verified: false
-    hashtags: "#norway, #truehaldenblackmetal, #truenorwegianblackmetal, #thomaseriksen"
-  - username: "kampfar_official"
+    hashtags: "#podcast, #norway, #peacevillerecords, #metalpodcast"
+  - username: "emilsollitangen"
     fullname: >-
-      KAMPFAR
+      Emil Solli-Tangen
     bio: >-
-      To Ofidian!
+      •Stjernekamp 2020 🌟 •Mastergrad i Opera (Tenor) •Musiker/Gitarist •Fallskjermhopper (C-I3) •På TV i noget varierende frekvens
     location: "Norway"
-    followers: 18495
-    engagement: 313
-    commentsToLikes: 0.011083
-    id: ck6tj4f1m1zhd0j71casb76j0
+    followers: 6662
+    engagement: 599
+    commentsToLikes: 0.047016
+    id: ckap99z2urs820i786dzuevu1
     verified: false
-    hashtags: "#august2020, #norway, #ofidiansmanifest, #blackmetal"
+    hashtags: "#korona, #sentralen, #livestream, #hjemmealene"
+  - username: "dumduminsta"
+    fullname: >-
+      Dumdum Boys
+    bio: >-
+      LØSØRE I BOKS: ➡www.ramalama.net⬅ Billetter:
+    location: "Norway"
+    followers: 5998
+    engagement: 1177
+    commentsToLikes: 0.028903
+    id: ck5qa5oymeoag0i11t52ls1r1
+    verified: false
+    hashtags: "#konsertfoto, #ddboys, #dumdumboys, #ddb"
 ---

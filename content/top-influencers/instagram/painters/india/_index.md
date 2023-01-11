@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In India In 2022
+title: Top 10 Painters Instagram Influencers In India In 2023
 description: >-
-  Find top painters Instagram influencers in India in 2022. Most popular hashtags: #fashionblogger #model #reels #love.
+  Find top painters Instagram influencers in India in 2023. Most popular hashtags: #model #actor #painting #blogger.
 platform: Instagram
-hits: 361
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 361 Instagram influencers like this in India for you to collaborate.
+hits: 291
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 291 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "riddhikumar_"
-    fullname: >-
-      Riddhi Kumar
-    bio: >-
-      I like food and films Amateur writer, painter and cook Professional over thinker Experimenting @riddhiculousart
-    location: "India"
-    followers: 96803
-    engagement: 867
-    commentsToLikes: 0.014282
-    id: ck15tihmei8v00i19m3fcaait
-    verified: false
-    hashtags: "#portraitphotography, #imgmodelscout, #portfolio, #model"
-  - username: "thatbindigirl"
-    fullname: >-
-      Mittali arora
-    bio: >-
-      ੴ MODEL | Influencer | Painter | Blogger ✨ I don’t care How I am viewed, I know me. I am good. ❤️ @artbrushcanvases Chandigarh
-    location: "India"
-    followers: 77678
-    engagement: 270
-    commentsToLikes: 0.029488
-    id: ck8t7jmwoh20x0j78anyaf5pu
-    verified: false
-    hashtags: "#positivevibes, #chandigarhgirls, #bollywoodstyle, #curlyhair"
-  - username: "lifeinabackpack01"
-    fullname: >-
-      कप्तान साहिबा👩🏻‍✈️🇮🇳
-    bio: >-
-      Love to be in "HakunaMatata" state. Traveler 🗺 Trekker 🏔 Fashionista 💃 Foodie 🍕Painter 👩🏻‍🎨 👀 Watch my #googleindia Ad...👇🏻
-    location: "India"
-    followers: 6894
-    engagement: 663
-    commentsToLikes: 0.022628
-    id: ckaosdpk3r7cb0i78t31o3iri
-    verified: false
-    hashtags: "#pahadism, #itshimalayas, #ladakhtourism, #hillsin"
-  - username: "anthonyhopkins"
-    fullname: >-
-      Anthony Hopkins
-    bio: >-
-      Artist, Painter, Composer, Actor of film, stage, and television @anthonyhopkinscollection
-    location: "India"
-    followers: 2339871
-    engagement: 408
-    commentsToLikes: 0.025953
-    id: ck0vwgjnltlvz0i19d1dlevlr
-    verified: true
-    hashtags: "#nationalcatday"
   - username: "shivrajwaichal"
     fullname: >-
       Shivraj Waichal
     bio: >-
-      Painter | Actor | Director Do follow @paintershonbob for artworks
+      शिवराज वायचळ Painter | Actor | Director Do follow @paintershonbob for artworks
     location: "India"
-    followers: 21750
-    engagement: 696
-    commentsToLikes: 0.009676
+    followers: 22022
+    engagement: 760
+    commentsToLikes: 0.012293
     id: ck5pwh0s5mrbo0i114tdrqfi5
     verified: true
-    hashtags: "#procreate, #procreateart, #selfportrait, #ipadpro"
-  - username: "aartiinaagpal"
+    hashtags: "#arjun, #madhubanfilms, #trunk, #theatronentertainment"
+  - username: "yash__shrivastava"
     fullname: >-
-      AARTII NAAGPAL
+      YASH SHRIVASTAVA© | BLOGGER 🇮🇳
     bio: >-
-      Actress/writer /director/athlete/ shotokan black belt/painter living my legacy.tweet me @aartiinaagpal
+      •MODEL • BLOGGER • ACTOR • PAINTER • MBA• Fashion | Lifestyle |Food |Travel 💢 Featured - @myfmindia @dainikbhaskar_ 📧Dm/Mail for Work Related Queries
     location: "India"
-    followers: 520046
-    engagement: 57
-    commentsToLikes: 0.033191
-    id: ck15sagg8c0lz0i191tnwlq6t
-    verified: true
-    hashtags: "#mood, #iam, #me, #legend"
-  - username: "varunpainter"
-    fullname: >-
-      Varun
-    bio: >-
-      - Automotive Journalist - Mail - varun.painter@gmail.com for business queries
-    location: "India"
-    followers: 27502
-    engagement: 812
-    commentsToLikes: 0.014726
-    id: ckap60vaudzfb0i78apchw9fy
+    followers: 131597
+    engagement: 93
+    commentsToLikes: 0.022240
+    id: ck8t73qbwfjnn0j78ys8zt1ms
     verified: false
-    hashtags: "#follow, #kawasaki, #subscribe, #edit"
+    hashtags: "#mumbaiinfluencer, #delhiblogger, #reelsindia, #explorepage"
+  - username: "raqeshbapat"
+    fullname: >-
+      Raqesh Bapat
+    bio: >-
+      Actor | Painter | Sculptor | Animal lover | Producer | Account Handled By #TeamRaq . . Vote for Raqesh here 👇🏻
+    location: "India"
+    followers: 1035517
+    engagement: 63
+    commentsToLikes: 0.017535
+    id: ck137p0brcncg0i19y8qds7g5
+    verified: true
+    hashtags: "#teamraqeshbapat, #biggboss15, #brothersister, #rakhee"
+  - username: "nitinchauhanofficial"
+    fullname: >-
+      𝐍𝐈𝐓𝐈𝐍 𝐂𝐇𝐀𝐔𝐇𝐀𝐍
+    bio: >-
+      Fashion Model || Actor Painter || Photographer || Traveler My Artpage @creaativehigh 📍Mumbai Hometown - Batala, Punjab
+    location: "India"
+    followers: 44550
+    engagement: 488
+    commentsToLikes: 0.013032
+    id: ck0w3h3bmtdhr0i19b7x7bkxw
+    verified: false
+    hashtags: "#nitinchauhan, #model, #manbun, #grateful"
+  - username: "artpoorna"
+    fullname: >-
+      Annapurna Jha | Watercolor Art
+    bio: >-
+      ▪️Creating art mostly with watercolours and gouache 🎨🖌️ ▪️DM to purchase/art classes/commissions/collaborations📩 ▪️Earlier known as 'anxious_painter_'
+    location: "India"
+    followers: 23747
+    engagement: 1213
+    commentsToLikes: 0.034192
+    id: ck9wf1nycmw4m0j78wipazyct
+    verified: false
+    hashtags: "#artist, #art, #artjournal, #watercolour"
+  - username: "musku____"
+    fullname: >-
+      muskan
+    bio: >-
+      Painter/DM for paid collab wish me on 30th aug👸 Virgo pwc⛪ Art is not what you see,but what you make others see❤
+    location: "India"
+    followers: 7893
+    engagement: 525
+    commentsToLikes: 0.021133
+    id: ck1369j2l5f1m0i19mcz81i8s
+    verified: false
+    hashtags: "#fashionblogger, #reelitfeelit, #instagram, #instadaily"
+  - username: "hemangiikavi"
+    fullname: >-
+      Hemangi Kavi / हेमांगी कवी
+    bio: >-
+      Painter🎨 Actor🎭 Human😬 #terilaadlimain @8pm For Collabs : kavihemangi@yahoo.com 🤝🏽 www.facebook.com/hemangii.kavidhumal tweet me @kavihemangii
+    location: "India"
+    followers: 315255
+    engagement: 340
+    commentsToLikes: 0.022328
+    id: ck135394zzh9n0i19cuejcu0r
+    verified: true
+    hashtags: "#kavihunmain, #trends, #thatduskywoman, #blackandwhite"
   - username: "arka_patra"
     fullname: >-
       Arka Patra
     bio: >-
       Visual artist/fashion photographer/painter/sculptor. Based in India.
     location: "India"
-    followers: 9895
-    engagement: 733
-    commentsToLikes: 0.020111
+    followers: 10539
+    engagement: 636
+    commentsToLikes: 0.024188
     id: ck14gyfo17mwb0i199zf1p2tl
     verified: false
-    hashtags: "#fashions, #model, #print, #white"
-  - username: "musku____"
+    hashtags: "#fashion, #painting, #theindiaphotoproject, #queerart"
+  - username: "riddhikumar_"
     fullname: >-
-      
+      Riddhi Kumar
     bio: >-
-      Painter/DM for paid collab wish me on 30th aug👸 Virgo pwc⛪ Art is not what you see,but what you make others see❤
+      I like food and films Amateur writer, painter and cook Professional over thinker Experimenting @riddhiculousart
     location: "India"
-    followers: 7686
-    engagement: 680
-    commentsToLikes: 0.021479
-    id: ck1369j2l5f1m0i19mcz81i8s
+    followers: 98450
+    engagement: 743
+    commentsToLikes: 0.010425
+    id: ck15tihmei8v00i19m3fcaait
     verified: false
-    hashtags: "#positivevibes, #insta, #peaceful, #fashionhub"
-  - username: "yash__shrivastava"
+    hashtags: "#nainital, #bollywood, #shoot, #indianactress"
+  - username: "thatbindigirl"
     fullname: >-
-      YASH SHRIVASTAVA © | India 🇮🇳
+      Mittali arora
     bio: >-
-      • MODEL • BLOGGER • ACTOR • PAINTER • MBA • | Fashion | Lifestyle | Food | Travel | 💢 Dada Saheb Phalke Student🎥 Dm/Mail 📩 for Collaboration
+      ੴ •A girl known for her SMILE ⭐️ Positive Vibes 🌈 •MODEL| Actor | Influencer | Painter •DM for Collaboration •SC: Mittsarora •@artbrushcanvases
     location: "India"
-    followers: 55292
-    engagement: 252
-    commentsToLikes: 0.059642
-    id: ck8t73qbwfjnn0j78ys8zt1ms
+    followers: 81417
+    engagement: 247
+    commentsToLikes: 0.032436
+    id: ck8t7jmwoh20x0j78anyaf5pu
     verified: false
-    hashtags: "#bangloreblogger, #immunityboosters, #healthylifestyle, #indoreblogger"
+    hashtags: "#punjabimodel, #reelitfeelit, #actorslife, #explorepage"
 ---

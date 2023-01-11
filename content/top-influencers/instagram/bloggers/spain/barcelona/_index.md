@@ -1,96 +1,24 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Barcelona In 2022
+title: Top 10 Bloggers Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top bloggers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #blogger #travelgram #spain.
+  Find top bloggers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #blogger #summer #verano.
 platform: Instagram
-hits: 57
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 57 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 42
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 42 Instagram influencers like this in Barcelona, Spain for you to collaborate.
 profiles:
-  - username: "thegoldlipstick"
+  - username: "back_dox"
     fullname: >-
-      Mireia from The Gold Lipstick
+      Back_dox
     bio: >-
-      ▪️fashion & self-care blogger 📍Barcelona ✉️thegoldlipstick@gmail.com ✨love and lipstick ▫️www.thegoldlipstick.com
+      🇪🇸 Barcelona 🌍 Travel 🌈 ⚡️Lifestyle 🍴Food
     location: "Spain"
-    followers: 3558
-    engagement: 1687
-    commentsToLikes: 0.350036
-    id: ck0tyj2kvn1ds0i19upv4nd49
+    followers: 51965
+    engagement: 218
+    commentsToLikes: 0.079298
+    id: ck15q5pbm18c50i19wez82wci
     verified: false
-    hashtags: "#frenchvibes, #parismood, #outfitselfie, #styledetails"
-  - username: "nicarodriguez_"
-    fullname: >-
-      Nica Rodríguez
-    bio: >-
-      Fashion & Travel blogger from Barcelona. Visita mi blog👇
-    location: "Spain"
-    followers: 104212
-    engagement: 112
-    commentsToLikes: 0.063171
-    id: ck6tuzkkajbte0j716lvqfkur
-    verified: false
-    hashtags: "#britishstyle, #potd, #nicarodriguez, #anthropologie"
-  - username: "mariiiasanchz"
-    fullname: >-
-      M A R Í A ✨
-    bio: >-
-      ~ From Barcelona, since 1988. 📚 Marketing & Publicidad 💌 mariiiasanchz1988@gmail.com 💖 Moda, belleza & lifestyle. ✨ Canal YT #ASMR 👇
-    location: "Spain"
-    followers: 8558
-    engagement: 537
-    commentsToLikes: 0.047030
-    id: ck5zmi7lcmm990i14ri28oa7y
-    verified: false
-    hashtags: "#perfectskin, #skincareroutine, #barcelonablogger, #blogger"
-  - username: "talgilboa"
-    fullname: >-
-      Tal Gilboa 🐼
-    bio: >-
-      SMILE FOR SMILE 😍 ✡️ Israeli Boy 🇮🇱 📍living in Barcelona 🇪🇸 ✈️ Traveler
-    location: "Spain"
-    followers: 22992
-    engagement: 654
-    commentsToLikes: 0.052350
-    id: ckap5vabydbf00i784mkml6g4
-    verified: false
-    hashtags: "#follow, #gaylife, #traveler, #travelgram"
-  - username: "victordanielrs"
-    fullname: >-
-      Victor Daniel Rincon Suarez
-    bio: >-
-      📍 Living in Madrid. Licdo. En Artes mención Diseño Gráfico, Fotografo, amante de la democracia. @vicopicture
-    location: "Spain"
-    followers: 3178
-    engagement: 1551
-    commentsToLikes: 0.085030
-    id: ck14jyqflmubn0i19kaaupybi
-    verified: false
-    hashtags: "#london, #paris, #barcelona, #blogger"
-  - username: "irenecocinaparati"
-    fullname: >-
-      Irene cocina para ti
-    bio: >-
-      📍Barcelona. Food blogger 🖋. Recetas 📝Gastronomía 🍴Fotografía 📸📱. 📩 irenecocinaparati@gmail.com . 👇🏻RECETAS Y MI WEB 👇🏻
-    location: "Spain"
-    followers: 43539
-    engagement: 463
-    commentsToLikes: 0.349567
-    id: ck5hhqgrr9l7o0i116joeraph
-    verified: false
-    hashtags: "#photooftheday, #receta, #gloobyfood, #barcelonafoodie"
-  - username: "carles_castillejo"
-    fullname: >-
-      Carles
-    bio: >-
-      🏃Atleta olímpico. Maratoniano (2h10') Personal coach Patrocinado por Adidas y sponsorizado por Powergym y Stryd ✏ Blogger 🏃AR Barcelona Captain .
-    location: "Spain"
-    followers: 32513
-    engagement: 393
-    commentsToLikes: 0.029431
-    id: ck5c0gpdut3pg0i11sc9upqfg
-    verified: true
-    hashtags: "#castinosepara, #instarunner, #marathontraining, #training"
+    hashtags: "#hotelesconencanto, #barcelonalovers, #bcnmoltmes, #barcelonaexperience"
   - username: "tonibuenog"
     fullname: >-
       ToniBuenoG
@@ -102,29 +30,101 @@ profiles:
     commentsToLikes: 0.034700
     id: ck5cencddlbwq0i11hrmvz1if
     verified: false
-    hashtags: "#padel, #envialia, #plasson, #wptlasrozasopen"
+    hashtags: "#wptlasrozasopen, #envialia, #worldpadeltour, #plasson"
   - username: "peinetapintxos"
     fullname: >-
       Peineta & Pintxos ⚡💃Nerea💃⚡
     bio: >-
       Realidad pura➡️humor ➕ pasión ◽Social media en @salenlasrrss ◽ Madre de 👧👦🏻 ◽Blogger x vocación 📍Barcelona 📬 hola@peinetapintxos.com 🥘#Pintxiconsejos
     location: "Spain"
-    followers: 21611
-    engagement: 367
-    commentsToLikes: 0.497449
+    followers: 22513
+    engagement: 310
+    commentsToLikes: 0.420744
     id: ck5zoqsh3r4t60i14rrxs6bqw
     verified: false
-    hashtags: "#nuevatemporada, #navidadpeinetera, #familytime, #fotografiaprofesional"
-  - username: "dontworrybecamper"
+    hashtags: "#sorteo, #yomisma, #andalucia, #recuerdos"
+  - username: "irenecocinaparati"
     fullname: >-
-      Eric & Mari ✱ Travel Couple
+      Irene cocina para ti
     bio: >-
-      ⊹ Travel bloggers · Vanlife ⌕Based in Barcelona ☾ Let your dreams be your wings PERNOCTAR POR ESPAÑA 🚐
+      📍Barcelona. Food blogger 🖋. Recetas 📝Gastronomía 🍴Fotografía 📸📱. 📩 irenecocinaparati@gmail.com . 👇🏻RECETAS Y MI WEB 👇🏻
     location: "Spain"
-    followers: 27829
-    engagement: 538
-    commentsToLikes: 0.049934
-    id: ck5qegsce0evv0i11xl9jepwu
+    followers: 46607
+    engagement: 485
+    commentsToLikes: 0.196074
+    id: ck5hhqgrr9l7o0i116joeraph
     verified: false
-    hashtags: "#passionpassport, #turismoespan, #iamtb, #travelcouplelife"
+    hashtags: "#theweekoninstagram, #recipeoftheday, #storyofmytable, #photooftheday"
+  - username: "manukenpis"
+    fullname: >-
+      Manuel Moreno
+    bio: >-
+      🙎🏽‍♂️ Creador de contenido 👕 Moda, viajes, música y lifestyle 👖 📍#Madrid ↔️ Andújar (Jaén) 🌍 Next stop: Santander 📧 manukenpis@outlook.com
+    location: "Spain"
+    followers: 16597
+    engagement: 1347
+    commentsToLikes: 0.151261
+    id: ck9wdmsq4ge460j78xt0jibg6
+    verified: false
+    hashtags: "#valencia, #hoscos, #outfitpost, #sunglasses"
+  - username: "dibarzstyle"
+    fullname: >-
+      Desireé Ibarz
+    bio: >-
+      #periodista #fashionblogger 🦄 Live 💖 Love 🙃 Laugh✌️ 📩 desibarz90@gmail.com
+    location: "Spain"
+    followers: 33405
+    engagement: 398
+    commentsToLikes: 0.102217
+    id: ck6tk2gd93vl10j713pozfyql
+    verified: false
+    hashtags: "#tarragona, #barcelona, #beautiful, #influencer"
+  - username: "justmumit"
+    fullname: >-
+      🌟 Maria MR 🌟 mompreneur
+    bio: >-
+      🌿 Adventures with our two girls 🌿 #myfamilyrocks Lifestyle | Fashion | Travels ⚡ MODERN FAMILY TIPS ⚡ #familyadventures 💌 Shop @justmumit_shop 🛍️
+    location: "Spain"
+    followers: 20943
+    engagement: 119
+    commentsToLikes: 0.098679
+    id: ck5qbyip5nzvr0i11trlzm03n
+    verified: false
+    hashtags: "#planesenfamilia, #andorraconni, #rebajas, #baricentro"
+  - username: "markelistravels"
+    fullname: >-
+      Markelistravels
+    bio: >-
+      〰️ Travel Bloggers 〰️ 📬 markeli22@hotmail.com 📍 Barcelona ⚓️ Enjoy Life
+    location: "Spain"
+    followers: 5178
+    engagement: 454
+    commentsToLikes: 0.132164
+    id: ckap0luzlqvfs0i781oola82b
+    verified: false
+    hashtags: "#greece, #cyclades, #yucatan, #maldives"
+  - username: "mirlerma"
+    fullname: >-
+      Momlife | Blogger | Lifestyle
+    bio: >-
+      ⋒ Miriam, mamá de Ainara ⋒ Contacto: dm - email ⋒ Barcelona
+    location: "Spain"
+    followers: 14626
+    engagement: 827
+    commentsToLikes: 0.159407
+    id: ckaoxpsfzea1b0i78mvxov70c
+    verified: false
+    hashtags: "#navidad, #instamamis, #maternidad, #christmasiscoming"
+  - username: "susanamorenogam"
+    fullname: >-
+      Susana Moreno / Blogger Moda
+    bio: >-
+      ESTILISTA, blogger,lifestyle, creador de contenido 🇪🇸 🆉🅰🆁🅰🅶🅾🆉🅰/ 🆂🅿🅰🅸🅽 smorenobycacahuete@hotmail.com 👇🏻👆🏻 Puedes mandarme privado o email
+    location: "Spain"
+    followers: 21028
+    engagement: 440
+    commentsToLikes: 0.334622
+    id: ck0w610d26e740i19ldghs8x9
+    verified: false
+    hashtags: "#lookstyle, #lookdeldia, #instalook, #instagramerzaragoza"
 ---

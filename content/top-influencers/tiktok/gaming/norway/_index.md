@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Norway In 2022
+title: Top 10 Gaming TikTok Influencers In Norway In 2023
 description: >-
-  Find top gaming TikTok influencers in Norway in 2022. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
+  Find top gaming TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #gaming #foryoupage.
 platform: TikTok
-hits: 12
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in Norway for you to connect with.
+hits: 17
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 17 TikTok influencers like this in Norway for you to contact.
 profiles:
   - username: "20k_freeze"
     fullname: >-
-      .Use code FREEZE-DZU♡
+      ッ 𝙵 𝚁 𝙴 𝙴 𝚉 𝙴 - 𝙳 𝚉 𝚄
     bio: >-
-      Click↖️ 🥶Gaming CONTENT!🤖 💚code FREEZE-DZU💚 👾CONTENT CREATOR👾 👻 [ICEY] 👻
+      I like Rocket League♡ backup -> @20k_freezee2 𝗗𝗢𝗡'𝗧 𝗦𝗧𝗘𝗔𝗟 𝗠𝗬 𝗖𝗟𝙄𝙋
     location: "Norway"
-    followers: 37400
-    engagement: 904
-    commentsToLikes: 0.154772
+    followers: 43300
+    engagement: 827
+    commentsToLikes: 0.278435
     id: ckd012r6589me0j23qgi0a95i
     verified: false
-    hashtags: "#freezyonkeys, #fortnite, #rocketleague, #special"
-  - username: "doomeyy"
+    hashtags: "#fyp, #freezyonkeys, #foryou, #dzufreeze"
+  - username: "estitwitch"
     fullname: >-
-      dead acc
+      Streamer
     bio: >-
-      thanks for 90k 💙 Zavian is my bro 🥺 code online_tryharder 😈
+      Norsk streamer
     location: "Norway"
-    followers: 90200
-    engagement: 1283
-    commentsToLikes: 0.295737
-    id: cka0gtl1t5zxt0i78e7q03yd4
-    verified: false
-    hashtags: "#fyp, #fortnitetrend, #fortnite, #gaming"
-  - username: "gamingworldbest"
-    fullname: >-
-      FunnyMoments
-    bio: >-
-      Not my videos! Dm for credit❤️Worth following
-    location: "Norway"
-    followers: 3247
-    engagement: 737
-    commentsToLikes: 0.016088
+    followers: 3231
+    engagement: 871
+    commentsToLikes: 0.023451
     id: cka695dpyr8080i78ueqni9ci
     verified: false
     hashtags: ""
-  - username: "thejumifilm"
+  - username: "ellexsundae"
     fullname: >-
-      TheJumiFilm
+      46k children in my basement
     bio: >-
-      Thanks for 40k subscribers! ❤️ I upload weekly-ish videos on Youtube📸
+      r: L0wkeynattie😛 46.6k hotties🤍😏 Ig: Lizzie.plays🖇
     location: "Norway"
-    followers: 122100
-    engagement: 1063
-    commentsToLikes: 0.008129
-    id: ckb9joopwazt40j231v1gkmpq
+    followers: 46900
+    engagement: 2969
+    commentsToLikes: 0.225310
+    id: ckbki92vqakbq0j23g29lg9bb
     verified: false
-    hashtags: "#brickfilm, #fyp, #sirenhead, #fallguys"
-  - username: "tyvo.af"
-    fullname: >-
-      Hi
-    bio: >-
-      Goal 10k
-    location: "Norway"
-    followers: 4323
-    engagement: 770
-    commentsToLikes: 0.212344
-    id: ckac36n76b8uv0i7830tdit60
-    verified: false
-    hashtags: "#slowmotion, #xyzbca, #fortnite, #fyp"
-  - username: "mrsavage"
-    fullname: >-
-      MrSavage
-    bio: >-
-      Pro Fortnite Player & Content Creator for 100 Thieves. Buy my apparel here:
-    location: "Norway"
-    followers: 582700
-    engagement: 1766
-    commentsToLikes: 0.008900
-    id: ckc2z2a9jq1hm0j238ocjycgk
-    verified: true
-    hashtags: "#trios, #fortnite, #harpoon, #carepackage"
+    hashtags: "#fyp, #adoptme, #makethisviral, #foryou"
   - username: "nerdforge"
     fullname: >-
       Nerdforge
     bio: >-
       Martina&Hansi nerdy art & making stuff
     location: "Norway"
-    followers: 65600
-    engagement: 1939
-    commentsToLikes: 0.007114
+    followers: 65100
+    engagement: 1960
+    commentsToLikes: 0.008075
     id: ckc804e4k1mro0j2377hhs3zw
     verified: false
-    hashtags: "#fyp, #learnontiktok, #art, #tiktokpartner"
-  - username: "darjyeetty"
+    hashtags: "#art, #tiktokpartner, #learnontiktok, #diy"
+  - username: "adambby"
     fullname: >-
-      Dark_yeet_YT
+      banana
     bio: >-
-      @eliasnjoten on Instagram
+      
     location: "Norway"
-    followers: 103300
-    engagement: 1653
-    commentsToLikes: 0.022080
-    id: ck8p0u73biepa0j78foie3p8y
+    followers: 90200
+    engagement: 1210
+    commentsToLikes: 0.200105
+    id: cka0gtl1t5zxt0i78e7q03yd4
     verified: false
-    hashtags: "#foryoupage, #food, #foru, #speed"
+    hashtags: "#fyp, #fortnite, #gaming"
   - username: "haltabart"
     fullname: >-
       Haltab
     bio: >-
       Follow me on Instagram @haltabart before my TikTok dies completely :/
     location: "Norway"
-    followers: 87200
-    engagement: 746
-    commentsToLikes: 0.050133
+    followers: 85800
+    engagement: 720
+    commentsToLikes: 0.051384
     id: cka0hbm0c8jh10i78vw82davd
     verified: false
-    hashtags: "#foryoupage, #xyzbca, #memes, #procreate"
-  - username: "remo.munkeboe"
+    hashtags: "#memes, #xyzbca, #fyp, #art"
+  - username: "darjyeetty"
     fullname: >-
-      Remo.Munkeboe
+      Dark_yeet_YT
     bio: >-
-      Mer morro ting på Insta og snap 👉🏻 Remo.Munkeboe
+      
     location: "Norway"
-    followers: 2338
-    engagement: 640
-    commentsToLikes: 0.026023
-    id: ckc90r4r1qdfq0j23rwea5uon
+    followers: 103800
+    engagement: 1727
+    commentsToLikes: 0.018478
+    id: ck8p0u73biepa0j78foie3p8y
     verified: false
-    hashtags: "#norge, #foryou, #fyp, #funny"
+    hashtags: "#funny, #for, #speed, #fyp"
+  - username: "paaledvard"
+    fullname: >-
+      Pål Edvard Hellan
+    bio: >-
+      23 🇳🇴 🕵️ for my 3k
+    location: "Norway"
+    followers: 2232
+    engagement: 345
+    commentsToLikes: 0.054363
+    id: ckb9cz03e00k10j23exf6w2ej
+    verified: false
+    hashtags: "#couples, #christmas, #foryou, #foryoupage"
+  - username: "stine_stromskag"
+    fullname: >-
+      Sytinaa🦋
+    bio: >-
+      Code: 25stinestromskag on
+    location: "Norway"
+    followers: 11600
+    engagement: 929
+    commentsToLikes: 0.052753
+    id: ckce62fjlkd4c0j23layy65zq
+    verified: false
+    hashtags: "#ootd, #getthisonthefyp, #fashion, #corset"
+  - username: "gladejoa"
+    fullname: >-
+      Labbis🐈 Enzo🐈 Joakim👀
+    bio: >-
+      Follow me and my two cats here👋🏻 Enzo the default🎈 Labbeline the chonky BSH🎈
+    location: "Norway"
+    followers: 26400
+    engagement: 792
+    commentsToLikes: 0.023718
+    id: ckd669dyo33rx0j23wylgnusb
+    verified: false
+    hashtags: "#labbeline, #bruhcat, #catdad, #bruhgirl"
 ---

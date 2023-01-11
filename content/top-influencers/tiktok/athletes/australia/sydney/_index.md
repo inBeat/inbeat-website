@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Sydney In 2022
+title: Top 10 Athletes TikTok Influencers In Sydney In 2023
 description: >-
-  Find top athletes TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #foryou #australia #viral.
+  Find top athletes TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #parkour #foryou #viral.
 platform: TikTok
-hits: 6
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 6 TikTok influencers like this in Sydney, Australia for you to connect with.
+hits: 5
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 5 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
   - username: "dylanpawson"
     fullname: >-
@@ -14,95 +14,59 @@ profiles:
       📲 Instagram @dylanpawson 💻 YouTube ParkourTwins 🏃🏽‍♂️ Pro Parkour Athlete
     location: "Australia"
     followers: 2400000
-    engagement: 1599
-    commentsToLikes: 0.014672
+    engagement: 1688
+    commentsToLikes: 0.013254
     id: ck81sw3ywtjc50j784a0o7gif
     verified: true
-    hashtags: "#love, #tiktokviral, #tiktok, #fy"
-  - username: "sophiasiempre"
-    fullname: >-
-      Sophia
-    bio: >-
-      owner and designer of @siempregolden from los angeles to sydney 🤍
-    location: "Australia"
-    followers: 18700
-    engagement: 284
-    commentsToLikes: 0.032972
-    id: ck9v17r7tfuer0j788swd14x3
-    verified: false
-    hashtags: "#sydney, #boating, #haiti, #childatheart"
+    hashtags: "#tiktokviral, #viral, #omg, #australia"
   - username: "domtomato"
     fullname: >-
       Domtomato
     bio: >-
       Actor/Athlete Red Bull | Team Farang | AAPES 📸 Instagram: domtomato
     location: "Australia"
-    followers: 180100
-    engagement: 1197
-    commentsToLikes: 0.009901
+    followers: 190500
+    engagement: 1166
+    commentsToLikes: 0.009134
     id: ck910epeyhdsy0j78bzsnyz9r
     verified: true
-    hashtags: "#jump, #twist, #givesyouwings, #fitness"
-  - username: "ashe_media"
+    hashtags: "#twist, #jump, #givesyouwings, #trick"
+  - username: "brodiepawson"
     fullname: >-
-      ashe_media
+      Brodie Pawson 
     bio: >-
-      Hi its Liam Business- liamashesocials@gmail.com Insta/snap- ashe_media
+      🏃🏻 🇦🇺 Pro Parkour Athlete My IG @brodiepawson New YouTube Video out 👇
     location: "Australia"
-    followers: 103600
-    engagement: 1376
-    commentsToLikes: 0.011112
-    id: cka5z125uko3m0i78ew259dvp
-    verified: false
-    hashtags: "#woolies, #diving, #duet, #tv"
-  - username: "julzjulzjulzz"
+    followers: 7900000
+    engagement: 1006
+    commentsToLikes: 0.008120
+    id: ck81qyzqjl2xn0j789mq5deqi
+    verified: true
+    hashtags: "#viral, #risk, #youshouldknow, #gone"
+  - username: "alexrbsn"
     fullname: >-
-      Julia Woodford 
+      Alex the Lion 🦁
     bio: >-
-      AUS🇦🇺 WBFF PRO Started tiktok before it was cool info@juliawoodfordfitness.com
+      Parkour Comedy Plant Athlete Syd, Au 👇 Business 👇 lucy@bornbredtalent.com
     location: "Australia"
-    followers: 323000
-    engagement: 615
-    commentsToLikes: 0.019214
-    id: ckav70f74dx5n0j23wq99tqco
-    verified: false
-    hashtags: "#workout, #fyp, #foryoupage, #photoshoot"
+    followers: 804300
+    engagement: 885
+    commentsToLikes: 0.007627
+    id: ck80ods4yh48j0j789kmgo7k1
+    verified: true
+    hashtags: "#adventure, #athlete, #ad, #chase"
   - username: "elijah_williams0"
     fullname: >-
       Elijah Williams
     bio: >-
       🇦🇺 Follow my Instagram: Elijah_williams1
     location: "Australia"
-    followers: 24300
-    engagement: 934
-    commentsToLikes: 0.032319
+    followers: 24800
+    engagement: 731
+    commentsToLikes: 0.029817
     id: ckb0piwk7fe3u0j23rfu3hg2h
     verified: false
-    hashtags: "#fyp, #duet, #foryourpage, #foryou"
-  - username: "brodiepawson"
-    fullname: >-
-      Brodie Pawson 
-    bio: >-
-      🏃🏻 Pro Parkour Athlete 👉 My IG @brodiepawson 👇 YouTube
-    location: "Australia"
-    followers: 5300000
-    engagement: 1673
-    commentsToLikes: 0.014334
-    id: ck81qyzqjl2xn0j789mq5deqi
-    verified: true
-    hashtags: "#dayforit, #2020, #danger, #tiktokau"
-  - username: "sleezey96"
-    fullname: >-
-      sleezey96
-    bio: >-
-      Elite Krusader athlete Here to have fun Australia 🇦🇺 28
-    location: "Australia"
-    followers: 13000
-    engagement: 920
-    commentsToLikes: 0.045195
-    id: cka0h2fgc7a4k0i78usjx9w6m
-    verified: false
-    hashtags: "#bored, #bodybuilder, #keepfighting, #couldbeamodel"
+    hashtags: "#fyp, #foryoupage, #love, #duet"
   - username: "dylanpawson"
     fullname: >-
       dylanpawson
@@ -110,21 +74,57 @@ profiles:
       📲 Instagram @dylanpawson 💻 YouTube ParkourTwins 🏃🏽‍♂️ Pro Parkour Athlete
     location: "Australia"
     followers: 2400000
-    engagement: 1599
-    commentsToLikes: 0.014672
+    engagement: 1688
+    commentsToLikes: 0.013254
     id: ck81sw3ywtjc50j784a0o7gif
     verified: true
-    hashtags: "#love, #tiktokviral, #tiktok, #fy"
-  - username: "helene_philippou"
+    hashtags: "#tiktokviral, #viral, #omg, #australia"
+  - username: "sleezey96"
     fullname: >-
-      Helene
+      sleezey96
     bio: >-
-      50k on IG❤️ IG: Helene_Philippou📸 Ryderwear Athlete🏋🏽 Racka’s Sis🤡 Aus🇦🇺
+      Elite Krusader athlete Here to have fun Australia 🇦🇺 28
     location: "Australia"
-    followers: 1100000
-    engagement: 776
-    commentsToLikes: 0.018154
-    id: ck7zo26nwh3rl0j7836nqxkpq
+    followers: 14500
+    engagement: 984
+    commentsToLikes: 0.036902
+    id: cka0h2fgc7a4k0i78usjx9w6m
+    verified: false
+    hashtags: "#baseballseason, #goingtoregretthis, #whynot, #myroutine"
+  - username: "nickrowley"
+    fullname: >-
+      Nick Rowley
+    bio: >-
+      Pro Parkour Athlete From Australia 🇦🇺 Business: nickrowleybusiness@gmail.com
+    location: "Australia"
+    followers: 713800
+    engagement: 1421
+    commentsToLikes: 0.016504
+    id: ckbl0vgn0xoc10j23ii8r0mmq
     verified: true
-    hashtags: "#fyp, #video, #egypt, #fitness"
+    hashtags: "#pov, #escape, #security, #foryoupage"
+  - username: "morganrmoroney"
+    fullname: >-
+      Morgan Rose 
+    bio: >-
+      Australian | Move With Us Coach Gymshark Athlete 🤸🏼‍♀️ Follow me on insta for
+    location: "Australia"
+    followers: 777800
+    engagement: 889
+    commentsToLikes: 0.010604
+    id: ck9rk74qyrjqk0j78oo6a38co
+    verified: true
+    hashtags: "#challenge, #fitness, #gymshark, #australia"
+  - username: "julzjulzjulzz"
+    fullname: >-
+      Julia Woodford 
+    bio: >-
+      Ghostlifestyle Athlete 👻 Save $$ code “JULZ” Started tiktok before it was cool
+    location: "Australia"
+    followers: 344500
+    engagement: 581
+    commentsToLikes: 0.028068
+    id: ckav70f74dx5n0j23wq99tqco
+    verified: false
+    hashtags: "#strong, #bikinipro, #workout, #fitness"
 ---

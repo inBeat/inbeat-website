@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Vancouver In 2022
+title: Top 10 Lifestyle TikTok Influencers In Vancouver In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Vancouver in 2022. Most popular hashtags: #vancouver #fyp #canada #fitness.
+  Find top lifestyle TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #vancouver #foryou #canada.
 platform: TikTok
-hits: 14
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 14 TikTok influencers like this in Vancouver, Canada for you to connect with.
+hits: 8
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 8 TikTok influencers like this in Vancouver, Canada for you to connect with.
 profiles:
   - username: "itsbigben"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Adventure lifestyle photographer Vancouver BC Canada IG: @itsbigben 415k
     location: "Canada"
-    followers: 18500
-    engagement: 1239
-    commentsToLikes: 0.017031
+    followers: 18600
+    engagement: 1250
+    commentsToLikes: 0.021376
     id: ck8f7uvyj38he0j786408yee9
     verified: false
-    hashtags: "#canada, #vancouver, #britishcolumbia, #foryou"
-  - username: "kaur_bal_21"
-    fullname: >-
-      Kaur Bal 👑
-    bio: >-
-      ▫️Dispatcher @ Transforce ▫️ ▪️Fitness ▫️Trainer ▪️BossBabe▪️
-    location: "Canada"
-    followers: 28300
-    engagement: 523
-    commentsToLikes: 0.000000
-    id: ck8vyxa0mv9mh0j78zik53k1q
-    verified: false
-    hashtags: "#bossbabe, #manifestation, #gym, #sunday"
+    hashtags: "#vancouver, #chilliwack, #canada, #britishcolumbia"
   - username: "stephencovic"
     fullname: >-
       Stephen Covic
     bio: >-
       lifestyle | real estate | interior design 📍vancouver + toronto
     location: "Canada"
-    followers: 2991
-    engagement: 476
-    commentsToLikes: 0.061123
+    followers: 3314
+    engagement: 510
+    commentsToLikes: 0.055197
     id: ckcdtxztie73a0j23sl51vnfo
     verified: false
-    hashtags: "#luxury, #canada, #northvan, #money"
-  - username: "jasminmccarthyy"
-    fullname: >-
-      Jasmin McCarthy
-    bio: >-
-      IG: @jasminmccarthyy ♡ Inquiries → jasmin.mccarthy3@gmail.com Travel/Lifestyle
-    location: "Canada"
-    followers: 57400
-    engagement: 1056
-    commentsToLikes: 0.051674
-    id: ck9k8ip7098kx0j78ne1rqwrk
-    verified: false
-    hashtags: "#banff, #canadian, #alberta, #canadiangirl"
-  - username: "kaligfitness"
-    fullname: >-
-      Kali G
-    bio: >-
-      ig: kaligfitness fitness x lifestyle 🥀 what I eat in a day (vlog)👇🏽
-    location: "Canada"
-    followers: 38600
-    engagement: 585
-    commentsToLikes: 0.025094
-    id: ck80718wqntuk0j785dhtaygq
-    verified: false
-    hashtags: "#healthhustle, #gymroutine, #legs, #shareyourplaylist"
-  - username: "constancelh"
-    fullname: >-
-      Connie Hackett
-    bio: >-
-      plus-size fashion + lifestyle + daily vlogs ✨
-    location: "Canada"
-    followers: 39500
-    engagement: 1029
-    commentsToLikes: 0.032479
-    id: ck8kg1th3gm4t0j78gahhhu9b
-    verified: false
-    hashtags: "#scarystories, #gravetales, #ghoststories, #dayinmylife"
+    hashtags: "#ocean, #realtor, #penthouse, #canada"
   - username: "majakwei"
     fullname: >-
       Maja Kwei
     bio: >-
       Beauty + Lifestyle Blogger ✨ I hope to inspire! All Details at MajaKwei.com 👇
     location: "Canada"
-    followers: 26000
-    engagement: 230
-    commentsToLikes: 0.050637
+    followers: 25700
+    engagement: 238
+    commentsToLikes: 0.034366
     id: ck9v8tbhyb3ix0j785kt8ravb
     verified: false
-    hashtags: "#skintechnique, #lipfiller, #foryoupage, #travel"
-  - username: "georgina.stokes"
+    hashtags: "#vancouverblogger, #travel, #skintechnique, #majakwei"
+  - username: "rakirhaqeb"
     fullname: >-
-      Georgina Stokes
+      RHAQEB
     bio: >-
-      💗 IG: @georginastokes (28k) ✈️ Travel 💪🏽 Fitness 🏔 Lifestyle 📍 YVR 🇬🇧🇨🇦
+      My Life style Goal 500k
     location: "Canada"
-    followers: 3686
-    engagement: 201
-    commentsToLikes: 0.052303
-    id: ckd6jgsaeclr60j23pdvu06wp
+    followers: 154200
+    engagement: 962
+    commentsToLikes: 0.028065
+    id: ck9c5rd27qp2e0j787k1vwuu0
     verified: false
-    hashtags: "#couplesoftiktok, #foryoupage, #fitness, #canada"
-  - username: "spencermoorefit"
+    hashtags: "#viral, #video, #fyp, #foryou"
+  - username: "adventureswithmase"
     fullname: >-
-      Spencer Moore
+      Goldenmase
     bio: >-
-      Fitness & Lifestyle 🇯🇲🇨🇦 Follow IG: @spencermoorefit Online Training ^ DM
+      Kiki 👩🏻 & Mason 🐶 IG: @goldenmase / @hikeswithkiki
     location: "Canada"
-    followers: 21900
-    engagement: 532
-    commentsToLikes: 0.015228
-    id: ck806y123myov0j78yq1ygo2s
+    followers: 15200
+    engagement: 1697
+    commentsToLikes: 0.020485
+    id: ckdte0cb7vjyw0j23nqemd3x2
     verified: false
-    hashtags: "#fitness, #foryou, #workout, #homeworkout"
-  - username: "thechristinawhiteley"
+    hashtags: "#canada, #foryou, #toocold, #vancouver"
+  - username: "jas_sandhu31"
     fullname: >-
-      Christina Whiteley
+      Jas Sandhu
     bio: >-
-      Belief Builder 💫 Confidently create your dream lifestyle City Girl on a Farm
+      📍Surrey, BC
     location: "Canada"
-    followers: 43500
-    engagement: 767
-    commentsToLikes: 0.097840
-    id: ck8osv6xtihab0j78lb5eje31
+    followers: 6239
+    engagement: 739
+    commentsToLikes: 0.021533
+    id: ckae9kje5r7qm0i78ty5ahhjb
     verified: false
-    hashtags: "#momsoftiktok, #welldone, #30something, #selfcareroutine"
+    hashtags: "#pb31wale, #vancouver, #fyp, #punjabisong"
+  - username: "itsjack_"
+    fullname: >-
+      Jack
+    bio: >-
+      17 | 🇮🇶 Instagram ↗️ A follow a day keeps the bamya away
+    location: "Canada"
+    followers: 46400
+    engagement: 1619
+    commentsToLikes: 0.051058
+    id: ckb0w1xm2lb580j23q8ivbf4r
+    verified: false
+    hashtags: "#arabtiktok, #syrian, #lebanese, #food"
+  - username: "keelanpinnau"
+    fullname: >-
+      Keelan Pinnau
+    bio: >-
+      💟Wife + Mama/Stepmama 💟Entrepreneur + Bizz Owner 💕spreading love and joy💕
+    location: "Canada"
+    followers: 2794
+    engagement: 858
+    commentsToLikes: 0.046196
+    id: ckbknm6a8hnz90j23vslju4mi
+    verified: false
+    hashtags: "#momsoftiktokclub, #momsontiktok, #boymomma, #duet"
+  - username: "naomileanage"
+    fullname: >-
+      Naomi Leanage
+    bio: >-
+      Lifestyle • Vlogs • Comedy • Fashion • Travel 📧 Naomi.leanage@gmail.com
+    location: "Canada"
+    followers: 454800
+    engagement: 1799
+    commentsToLikes: 0.024703
+    id: ck806vbblmaom0j78ddv18enc
+    verified: false
+    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+  - username: "samsvsco"
+    fullname: >-
+      sam 🖤
+    bio: >-
+      she/her | pan :) motivation + lifestyle 🦋 ✨ 🪐 🌫 🌊 🥂 🕊
+    location: "Canada"
+    followers: 20200
+    engagement: 2651
+    commentsToLikes: 0.171563
+    id: ckb904xfwfwcn0j23dk59i56k
+    verified: false
+    hashtags: "#beachy, #fyp, #vlog, #haul"
 ---

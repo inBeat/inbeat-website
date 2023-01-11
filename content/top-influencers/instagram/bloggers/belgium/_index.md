@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Belgium In 2022
+title: Top 10 Bloggers Instagram Influencers In Belgium In 2023
 description: >-
-  Find top bloggers Instagram influencers in Belgium in 2022. Most popular hashtags: #belgianblogger #ad #ootd #belgium.
+  Find top bloggers Instagram influencers in Belgium in 2023. Most popular hashtags: #belgium #blogger #ootd #fashion.
 platform: Instagram
-hits: 69
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 69 Instagram influencers like this in Belgium for you to collaborate.
+hits: 29
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 29 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "ariacous"
-    fullname: >-
-      Ariane
-    bio: >-
-      Vlaamse Youtuber/ Blogger 25 | Belgium l Ghent |🍂 Contact: arianecouss@gmail.com Youtube: Ariacous Latest video ⤵️
-    location: "Belgium"
-    followers: 6324
-    engagement: 838
-    commentsToLikes: 0.094743
-    id: ck6ub5q557mii0j7132rl8uut
-    verified: false
-    hashtags: "#autumnoutfit, #falloutfit, #outfitinspo, #outfitinspiration"
-  - username: "fashionaddictedhellas"
-    fullname: >-
-      Mitsi Siouta
-    bio: >-
-      🇬🇷 Fashion stylist & blogger Based in 🇧🇪 Travel addict 🌍 fashionaddicted.com.gr YouTube:Fashion Addicted ✉ info@fashionaddicted.com.gr Latest Post
-    location: "Belgium"
-    followers: 33717
-    engagement: 278
-    commentsToLikes: 0.084671
-    id: ckapbxvaj1p870i78r4mim56q
-    verified: false
-    hashtags: "#zigkinetica, #vlog"
-  - username: "sarahdegheselle"
-    fullname: >-
-      Travel With Me | Travel blog
-    bio: >-
-      ✧Belgian travel blogger & content creator✧ ✎ travel guides & tips 🔜 @maison.botanique Download my 6 free lightroom presets ↓
-    location: "Belgium"
-    followers: 106530
-    engagement: 175
-    commentsToLikes: 0.114563
-    id: ck0w4m81lza0h0i19wlb108kk
-    verified: false
-    hashtags: "#creativetravelcouples, #belgium, #wearethetravelgirls, #hello"
-  - username: "lafilleagateaux"
-    fullname: >-
-      Kristel - Travel Blogger
-    bio: >-
-      Travel, lifestyle & food blogger 🌍 Content Creator 💫 Story Teller 💫 Book writer 📍Bxl but wanderlust spirit 🗺 🔜 Italy 👇🏻
-    location: "Belgium"
-    followers: 33395
-    engagement: 137
-    commentsToLikes: 0.066121
-    id: ck13anyz9rbif0i198idr8gqq
-    verified: false
-    hashtags: "#ootdfashion, #food, #vegan, #foodie"
-  - username: "thesparkleflake"
-    fullname: >-
-      Amandine Peignois
-    bio: >-
-      ✶ Fashion addict & life enthusiast ✶ YouTube lover & fashion blogger ✶ Fashion designer & founder of @aceandglow ✶ Contact : thesparkleflake@gmail.com
-    location: "Belgium"
-    followers: 15689
-    engagement: 187
-    commentsToLikes: 0.074207
-    id: ck8sxrvedifp10j78swu8d3as
-    verified: false
-    hashtags: "#belgianblogger, #makelifebetter, #philipssonicare, #monikea"
-  - username: "annabelpesant"
-    fullname: >-
-      Annabel
-    bio: >-
-      Fashion and lifestyle blogger/ content creator 💌 info@annabelpesant.com 📍Antwerp, Brussels (Belgium) 📸 Co-Founder @authentic__tales
-    location: "Belgium"
-    followers: 135223
-    engagement: 126
-    commentsToLikes: 0.033844
-    id: ck14gwhy27dp10i19dzj95sy7
-    verified: false
-    hashtags: "#tml, #coat, #ootd, #nakdfashion"
   - username: "thewildgirlblog"
     fullname: >-
       VANESSA  🐯 THEWILDGIRL
     bio: >-
       • Belgian blogger since 2012 ► Founder @thewildgirlshop • 📍#Brussels ► Use #thewildreality to tell the truth behind your IG pics 🦖
     location: "Belgium"
-    followers: 28406
-    engagement: 247
-    commentsToLikes: 0.031633
+    followers: 27468
+    engagement: 244
+    commentsToLikes: 0.089060
     id: ck5bx0286mqxs0i11mobytskr
     verified: false
-    hashtags: "#ad, #carlsbergbe, #thewildgirlshop, #sezanelovers"
-  - username: "sophyfantasy"
+    hashtags: "#dashbelgium, #lookdujour, #ad, #ootd"
+  - username: "lafilleagateaux"
     fullname: >-
-      🆂🅾🅿🅷🅸🅴 ♡
+      Kristel - Travel Blogger
     bio: >-
-      📍 》Liège ~ Luxembourg 🗯 》Fashion & lifestyle blogger since 2017 📌 》Daily tips & #OOTD 🕶 》#FashionMaisFauchée 💌 》sophie.duchene@hotmail.be
+      Travel, lifestyle & food blogger 🌍 Content Creator | Story Teller | 📍Bxl but wanderlust spirit 🗺 Spending summer in #italy
     location: "Belgium"
-    followers: 7151
-    engagement: 475
-    commentsToLikes: 0.111961
-    id: ck0tvlg5abv4k0i19mwa4mmby
+    followers: 33641
+    engagement: 254
+    commentsToLikes: 0.035338
+    id: ck13anyz9rbif0i198idr8gqq
     verified: false
-    hashtags: "#outfit, #sets, #lie, #girlsgoneloavies"
-  - username: "ruxandraioana"
+    hashtags: "#shein, #food, #cotebelge, #brussels"
+  - username: "sarahdegheselle"
     fullname: >-
-      ♥ RUX ♥ 🦂
+      Travel With Me | Travel blog
     bio: >-
-      Full time professional blogger& content creator🖋blog launched in 2011 fashion👗 lifestyle 🍸 beauty💄 food🍱 travel✈️ 📍🇧🇪Ｂｒｕｓｓｅｌｓ,Ｂｅｌｇｉｕｍ
+      ✧Belgian travel blogger & content creator✧ ✎ travel guides & tips 🔜 @maison.botanique Download my 6 free lightroom presets ↓
     location: "Belgium"
-    followers: 47261
-    engagement: 310
-    commentsToLikes: 0.055722
-    id: ck0w5g7i43hq00i19uzu7oqse
+    followers: 104207
+    engagement: 136
+    commentsToLikes: 0.116313
+    id: ck0w4m81lza0h0i19wlb108kk
     verified: false
-    hashtags: "#ootdshare, #belgianblogger, #blogueusebelge, #belgischeblogger"
-  - username: "sigridofthesun"
+    hashtags: "#girldiscoveres, #westvlaanderen, #belgiumtrip, #visitbruges"
+  - username: "annabelpesant"
     fullname: >-
-      SIGRID 🌻 TRAVEL BLOGGER
+      Annabel
     bio: >-
-      ➵ belgian travel blogger (nl/eng) ➵ roadtrippers of the sun ➵ edits @sigridofthesunpresets ↓ FREE traveltips & inspiration ↓
+      Fashion and lifestyle blogger/ content creator 💌 info@annabelpesant.com 📍Antwerp (Belgium) 📸 Founder @authentic__tales
     location: "Belgium"
-    followers: 16508
-    engagement: 583
-    commentsToLikes: 0.192904
-    id: ck9wfa4denx5c0j78s6cmnu6m
+    followers: 131016
+    engagement: 108
+    commentsToLikes: 0.031808
+    id: ck14gwhy27dp10i19dzj95sy7
     verified: false
-    hashtags: "#germanytravel, #belgique, #wallonia, #nomadict"
+    hashtags: "#glamiradiamonds, #hutch, #engagement, #omoda"
+  - username: "belge_une_fois"
+    fullname: >-
+      Belge une fois
+    bio: >-
+      💛 | Natacha & Arthur ✍🏻 | Instagramers / Bloggers proud to be 🇧🇪 📍 | Concept Store 🇧🇪 ✂️ | The brand Belge une fois 📎 | www.belgeunefois.be
+    location: "Belgium"
+    followers: 21630
+    engagement: 266
+    commentsToLikes: 0.102989
+    id: ck6uhdx6g8jzx0j71q5fwy9u1
+    verified: false
+    hashtags: "#weareparkbrussels, #happy, #passionpassport, #naturephotography"
+  - username: "durmazznazlii"
+    fullname: >-
+      Nazli Durmaz
+    bio: >-
+      Coffee Blogger ☕️ Brussels / Belgium 🇧🇪 Dm > @durmazznazlii ⬅️ Lover ❤️ of #coffee (&nature) ☘️
+    location: "Belgium"
+    followers: 4958
+    engagement: 154
+    commentsToLikes: 0.028208
+    id: ck9wgkoi0tu8f0j78a87mpgj9
+    verified: false
+    hashtags: "#naturephotography, #coffeeaddict, #coffeebreak, #brussels"
+  - username: "ella_fairytale"
+    fullname: >-
+      Anca Moraru
+    bio: >-
+      🇷🇴Blogger since 2016 ✍Autor @literpress 🌈Welcome to my Fairytale!🦄 📧fairytaleingeras@gmail.com
+    location: "Belgium"
+    followers: 16474
+    engagement: 234
+    commentsToLikes: 0.426013
+    id: ck0vva5e2o8240i19rlegpkyj
+    verified: false
+    hashtags: "#discoverunder17k, #skincareroutine, #yvesrocher, #goodvibesonly"
+  - username: "laura.oliveiragranja"
+    fullname: >-
+      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+    bio: >-
+      Freelance Model ∣ Content Creator ♊️ Gemini @gofitwithlaura @qntsportnutrition 20 % off | CREWLAURA 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
+    location: "Belgium"
+    followers: 18602
+    engagement: 420
+    commentsToLikes: 0.054751
+    id: ck6txv5tn019a0j71dktpndhx
+    verified: false
+    hashtags: "#pinkoofficial, #styleblogger, #outfitinspiration, #ysl"
+  - username: "rosevaniity"
+    fullname: >-
+      Your Fav Guinean ✨
+    bio: >-
+      🇬🇳| Brussels 🇧🇪 | Travel lover ✈️🌴| Business Management and Marketing 🎓
+    location: "Belgium"
+    followers: 11917
+    engagement: 1046
+    commentsToLikes: 0.131256
+    id: ck8t69d3scqyg0j78ijzc2y0s
+    verified: false
+    hashtags: "#outfitlove, #discoverunder10k, #outfit, #outfits"
+  - username: "liafailwijnen"
+    fullname: >-
+      ✰ 𝐓𝐑𝐀𝐕𝐄𝐋 ✰ 𝐈𝐍𝐒𝐏𝐎 ✰ 𝐅𝐀𝐒𝐇𝐈𝐎𝐍
+    bio: >-
+      🌸 Sharing what i love 🎀 Travel | Fashion | Inspo 💌 liafail.wijnen98@hotmail.com
+    location: "Belgium"
+    followers: 29727
+    engagement: 239
+    commentsToLikes: 0.105355
+    id: ck0vx1hkwwo3a0i194d524iz0
+    verified: false
+    hashtags: "#travelphotography, #travelblogger, #travelgram, #shein"
 ---

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Rome In 2022
+title: Top 10 Lifestyle TikTok Influencers In Rome in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Rome in 2022. Most popular hashtags: #fyp #italia #perte #lifestyle.
+  Find top lifestyle TikTok influencers in Rome in 2023. Most popular hashtags: #fyp #italia #perte #lifestyle.
 platform: TikTok
 hits: 4
 text_top: See the most popular TikTok profiles on inBeat.
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2023"
   - username: "giuliogenova_"
     fullname: >-
       Giulio Genova  🌍☄️💕

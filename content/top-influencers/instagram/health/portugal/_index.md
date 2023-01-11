@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Portugal In 2022
+title: Top 10 Health Instagram Influencers In Portugal In 2023
 description: >-
-  Find top health Instagram influencers in Portugal in 2022. Most popular hashtags: #mensblog #men #ootdinspo #portugal.
+  Find top health Instagram influencers in Portugal in 2023. Most popular hashtags: #healthy #selflove #nutrition.
 platform: Instagram
-hits: 114
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 114 Instagram influencers like this in Portugal for you to pitch.
+hits: 57
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 57 Instagram influencers like this in Portugal for you to work with.
 profiles:
-  - username: "nescp"
+  - username: "tothepointenutrition"
     fullname: >-
-      Inês Costa Pereira
+      Dance Nutritionist Rachel Fine
     bio: >-
-      🌱 Vegetarian, Health & Lifestyle 🌟 📍 Lisboa, Portugal 🛍 Compra a minha roupa @nescpcloset 🎥 YouTube +23k 🎓 Gestão de Marketing
+      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
     location: "Portugal"
-    followers: 13731
-    engagement: 2018
-    commentsToLikes: 0.105267
-    id: ck6012z18eqtz0i14zh0znn8z
+    followers: 37160
+    engagement: 204
+    commentsToLikes: 0.012168
+    id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#sorteio, #giveaway, #pub, #girlsgoneloavies"
-  - username: "brunoodiaz"
-    fullname: >-
-      Bruno Dias
-    bio: >-
-      •Stay fit🏋•Happy and Healthy🍏 ▫️Menstyle 📩 bruno.dias1120@hotmail.com Currently in Bucarest 🇷🇴 I love my pit 🐶 EngenhariaAlimentar▪️IPB
-    location: "Portugal"
-    followers: 9854
-    engagement: 865
-    commentsToLikes: 0.072712
-    id: ck9wf0kgemqk60j78g9aexnxm
-    verified: false
-    hashtags: "#mensblog, #summer, #menwithstyle, #men"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    bio: >-
-      From Lisbon, Portugal Fashion, beauty & healthy living Represented by @Notable.pt ALICE TREWINNARD X CATA VASSALO SHOP NOW!
-    location: "Portugal"
-    followers: 250312
-    engagement: 872
-    commentsToLikes: 0.091161
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#cas, #portugal, #lorealparispub, #wells"
+    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
   - username: "xxsweetcharlottexx"
     fullname: >-
       Charlotte Marie
     bio: >-
-      Travel || lifestyle || Health My own boss ❀ Self love ♥ Dutch/Portuguese ☾ ⇣
+      Travel || lifestyle || Health My own boss ❀ Self love ♥ Dutch/Portuguese ☾
     location: "Portugal"
-    followers: 16994
-    engagement: 443
-    commentsToLikes: 0.148078
+    followers: 16783
+    engagement: 396
+    commentsToLikes: 0.210320
     id: ck0tvkfc9brae0i19kemqpu58
     verified: false
-    hashtags: "#ootdinspo, #fitgirlsnl, #dutchie, #tipsandtricks"
-  - username: "susanareich"
+    hashtags: "#dutchie, #selflovefirst, #fitgirls, #solotravels"
+  - username: "alicetrewinnard"
     fullname: >-
-      Susana Reich
+      Alice Trewinnard
     bio: >-
-      ‎ ‎יהוה • the future is bright ✨ 💃🏼Artist | Creative Head ✈️🌍💕with @manuel.reich 📷 @mrandmrsreich 🌱🏃🏼‍♀️fit&healthy 📍Munich,GER 📩 susanareich@gmx.de
+      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
     location: "Portugal"
-    followers: 6259
-    engagement: 630
-    commentsToLikes: 0.102315
-    id: ckaouo0bx13xn0i78v8h8gcuw
-    verified: false
-    hashtags: "#travel, #bali, #thoughtoftheday, #giveaway"
-  - username: "rubisero"
-    fullname: >-
-      Ruben Heath Seromenho | Coach
-    bio: >-
-      Youtuber 🎥 Health and Nutrition Coach 🍎 Fitness Trainer 💪🏼 Masters in Clinical Psychology 🧠
-    location: "Portugal"
-    followers: 10513
-    engagement: 922
-    commentsToLikes: 0.040402
-    id: ck8tagnk4ro9f0j78l9wzfqfn
-    verified: false
-    hashtags: "#gaygymrat, #travelling, #sun, #traveling"
-  - username: "jonvenus"
-    fullname: >-
-      Jon Venus
-    bio: >-
-      My mission is to help you THRIVE🌱✨ 🔸Health🔸Nutrition🔸Mindset 👇🏼Coaching, Vegan Plans & eBooks
-    location: "Portugal"
-    followers: 182882
-    engagement: 111
-    commentsToLikes: 0.035711
-    id: ck0u8sdvb86vc0i19svaj0t0s
+    followers: 269425
+    engagement: 1129
+    commentsToLikes: 0.006114
+    id: ck134v13sybqz0i19a00owtxx
     verified: true
-    hashtags: "#dateswithdates, #itsoktochangeyourmind, #veganbodybuilding, #easiersaidthandone"
-  - username: "cizzyew"
+    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+  - username: "alannimal16"
     fullname: >-
-      Cecilia ॐ CEWYoga
+      Ａｌａｎｎａ  M a r i a
     bio: >-
-      🕉️ Yoga teacher (former self-taught yogini) ~ERYT200 (+25 H) @feetup 💚 Ambassador Plant based diet Meditation Holistic health/Crystals
+      OR 👩🏻‍⚕️💉 CF Games Team 17’ ⚒🖤 5x CF Regionals @xendurance @fitcoveraustralia : code ALANNA Inspiring others through an active & healthy lifestyle
     location: "Portugal"
-    followers: 10688
-    engagement: 412
-    commentsToLikes: 0.232598
-    id: ck8tcnakl00f10j78o6hs3gd4
+    followers: 11858
+    engagement: 482
+    commentsToLikes: 0.027615
+    id: ck5hmt3xpmkpp0i119lcb9hy8
     verified: false
-    hashtags: "#yogagirl, #breathinbreathout, #yogapractice, #yogastrenght"
-  - username: "anacatarinamar"
+    hashtags: "#crossfitgames, #roamtheplanet, #workoutplans, #hiitworkout"
+  - username: "joanatelesrtp"
     fullname: >-
-      Ana Martins • Health Lifestyle
+      Joana Teles 🧿
     bio: >-
-      Healthy l Positive mind l Lifestyle Boas vibes e desenvolvimento pessoal 📍 Figueira da Foz | Lisboa 💎 Graphic Designer 🖥 Founder @bellartidesign
+      TV. Host | Brand Owner — www.bbme.pt — Health & nature lover 🧘🏼🍃 Agente: miguel@brain.com.pt
     location: "Portugal"
-    followers: 6833
-    engagement: 457
-    commentsToLikes: 0.081763
-    id: ck8szqhampc8g0j78yx1fhlvk
-    verified: false
-    hashtags: "#motivacaodiaria, #realizacaopessoal, #acreditaemti, #agradece"
-  - username: "raaquelmatoss"
+    followers: 99966
+    engagement: 145
+    commentsToLikes: 0.058160
+    id: ck0w6s8b9a1oq0i19u4ud8d6d
+    verified: true
+    hashtags: "#kerastase, #pub, #giveaway, #sensilis"
+  - username: "lindsaydcst"
     fullname: >-
-      Raquel Matos
+      Lindsay Da Costa
     bio: >-
-      📍Porto/ 🏠 Setúbal Fashion, Lifestyle, Healthy Living RAQUELMATOS15 @eunutrition_pt 15% desconto RAQUELM 15% @tummytox_pt ✉️ anarsmatos9@gmail.com
+      🇫🇷 🇧🇪 | Sport | Healthy food | Travel ⚡️ @qntsportnutrition -20% CREWLINDSAY 🔥 @hipro.belgium 🎒 @kingkongapparel
     location: "Portugal"
-    followers: 12702
-    engagement: 620
-    commentsToLikes: 0.044531
-    id: ckap1o61jvdsj0i78njw9k4qr
+    followers: 3140
+    engagement: 585
+    commentsToLikes: 0.041959
+    id: ckap9t0mgtjb50i78b1t0xl9h
     verified: false
-    hashtags: "#today, #portugal, #fashionblogger, #fitnessmotivation"
+    hashtags: "#crossfitfrance, #qntsportnutrition, #summervibes, #crossfitbelgium"
+  - username: "elizabethshealthylife"
+    fullname: >-
+      Elizabeth
+    bio: >-
+      💍 👦🏻 👦🏻🤱🏼🐶. Healthy, easy, family recipes always dairy-free. Fitness/Motivation. Pilates Instructor & PT MI. Spinal fusion and chronic pain recovery.
+    location: "Portugal"
+    followers: 5413
+    engagement: 810
+    commentsToLikes: 0.650059
+    id: ck14hyk16cs900i19y1cf1hu2
+    verified: false
+    hashtags: "#kidfriendly, #applegateambassador, #sponsor, #nopreservatives"
+  - username: "susanafashion"
+    fullname: >-
+      Susana Chavez
+    bio: >-
+      HEALTHY🍃 FITNESS🏃🏼‍♀️ LIFE STYLE ⭐️ TRAVEL 🚀🛸✈️🚁🛥 BEAUTY💅 My Sport brand 🤸🏼 @kay.moves celebrate your body✨✨✨
+    location: "Portugal"
+    followers: 50403
+    engagement: 229
+    commentsToLikes: 0.194214
+    id: ck15uj5btnfip0i192x1zobt6
+    verified: false
+    hashtags: ""
+  - username: "filipacortezfaria"
+    fullname: >-
+      Filipa Cortez Faria
+    bio: >-
+      Lifestyle & Nutrition Nutricionista 0586N Consultas: 218438920/963934639 Founder & Creator of Dieta3Passos PhD Student | MSc Public Health
+    location: "Portugal"
+    followers: 23918
+    engagement: 118
+    commentsToLikes: 0.022382
+    id: ckaor1wxildd70i786tf6nho2
+    verified: false
+    hashtags: "#nyc, #saudavel, #acredita, #alimentacaosaudavel"
+  - username: "glutenfree.com.paixao"
+    fullname: >-
+      Sofia Paixão
+    bio: >-
+      • Natural Chef • Teacher • Recipe Developer • Health Coach • Mãe x 4 • Book Author ‘Sem Glúten com paixão’ • www.glutenfree.pt • #Natural #GlutenFree
+    location: "Portugal"
+    followers: 40255
+    engagement: 166
+    commentsToLikes: 0.030970
+    id: ck5hj2cd6fvm90i115tvhr29q
+    verified: false
+    hashtags: "#healthyeating, #intuitivecooking, #homemade, #naturalingredients"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In United States In 2022
+title: Top 10 Health Instagram Influencers In United States In 2023
 description: >-
-  Find top health Instagram influencers in United States in 2022. Most popular hashtags: #ootdmagazine #igfashion #nyxcosmetics.
+  Find top health Instagram influencers in United States in 2023. Most popular hashtags: #ad #liketkit #fitnessmotivation #gymmotivation.
 platform: Instagram
-hits: 13459
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 13459 Instagram influencers like this in United States for you to collaborate.
+hits: 15138
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 15138 Instagram influencers like this in United States for you to contact.
 profiles:
-  - username: "_health_"
+  - username: "thehalliescene"
     fullname: >-
-      HEALTH
+      Hallie | Nashville Blogger
     bio: >-
-      HEALTH+ ::
+      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
     location: "United States"
-    followers: 47759
-    engagement: 317
-    commentsToLikes: 0.024408
-    id: ck5cbh0s2fevj0i11d3h2w5ti
+    followers: 52689
+    engagement: 414
+    commentsToLikes: 0.115509
+    id: ckn9ayfvumbl20j23lt41y6yv
+    verified: false
+    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
+  - username: "savannah_joyyy"
+    fullname: >-
+      Savannah Joy
+    bio: >-
+      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
+    location: "United States"
+    followers: 132122
+    engagement: 417
+    commentsToLikes: 0.012208
+    id: ck5q33lorj2160i11tlfrq9s1
+    verified: false
+    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
+  - username: "nataliekennedyblog"
+    fullname: >-
+      Natalie Kennedy
+    bio: >-
+      Nashville • fashion • home • healthy recipes Poppy’s mom 🤍 + baby girl #2 on the way 💍 @patrickkennedy1223 Shop my outfits & presets ⬇️
+    location: "United States"
+    followers: 573501
+    engagement: 452
+    commentsToLikes: 0.056414
+    id: ck15pk4joy9z30i19xg53dw1e
+    verified: false
+    hashtags: "#walmartpartner, #liketkit, #bumpstyle, #walmartfashion"
+  - username: "rrayyme"
+    fullname: >-
+      Remi Ishizuka
+    bio: >-
+      Health | Wellness | Easy recipes | Lifestyle Co-Founder @clubhomebodies Join our 21 day challenge👇🏼
+    location: "United States"
+    followers: 377687
+    engagement: 414
+    commentsToLikes: 0.013939
+    id: ck0tztrryrlv90i19i3yavym2
     verified: true
-    hashtags: "#deathmagic"
-  - username: "alannahlewks"
+    hashtags: "#targetfinds, #shopwithme, #hmxme, #skincare"
+  - username: "kirra.mov"
     fullname: >-
-      ALANNAH
+      Kirra Dickinson
     bio: >-
-      [inactive] will return soon, idk?? ig is weird. take care 💙 ⁣ 👽 alannahmarief@gmail.com • she/her⁣⁣ ⤹ Looking After Your Mental Health Online
+      🇺🇸🇯🇵⁣ ♡ Mgmt: @nextmodels ⁣ ♡ Lifestyle, Wellness, Mental Health⁣ ♡ Dickinsonkirra@gmail.com⁣⁣⁣⁣ / luis@nextmanagement.com
     location: "United States"
-    followers: 6266
-    engagement: 2015
-    commentsToLikes: 0.231168
-    id: ck5c29sv2wto60i11r1wyeoyp
+    followers: 101836
+    engagement: 1026
+    commentsToLikes: 0.009725
+    id: cl3u8mp8matcs0i238u8gj4gj
     verified: false
-    hashtags: "#beccacosmetics, #urbandecay, #morphe, #collabmakeup"
-  - username: "petrakorpi"
+    hashtags: "#wellnessjourney, #morningvibes, #inspirationalreels, #minivlog"
+  - username: "zarrine_beautyjunkie"
     fullname: >-
-      P E T R A  W
+      Zarrine | London Beautyjunkie
     bio: >-
-      🍋HEALTH COACH 👯‍♀️yes girl co-founder: @yesgirlofficial 🤓 positive psychology student 🍟 Food podcaster: @bella.table 💌 hello@petrakorpi.com
+      Pharmacist 💊 Health | Skincare | Haircare | Sunset Lover
     location: "United States"
-    followers: 22422
-    engagement: 863
-    commentsToLikes: 0.062321
-    id: ck13cwag72h8p0i19yuspamka
+    followers: 7097
+    engagement: 852
+    commentsToLikes: 0.268348
+    id: ck5zm1qadlqtg0i14gakgeiz9
     verified: false
-    hashtags: "#kirjavinkit, #itcosmetics, #24hpositivity, #surprise"
-  - username: "gosiajfashion"
+    hashtags: "#travelvlog, #dermalogicaskincare, #skincarecommunity, #travelgram"
+  - username: "kbfitusa"
     fullname: >-
-      Gosia
+      KATIE🥊
     bio: >-
-      Fashionlover 🤎🖤🤍Lifestyle 🤎🖤🤍 🎓/University lecturer/Translator/Online Sales&Marketing 🤍🤎 Healthy lifestyle 🤍💚 Married🤍🤎 Mom🙎🏼‍♂️🤎🖤 🇵🇱🇳🇴🇩🇪
+      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
     location: "United States"
-    followers: 7797
-    engagement: 2169
-    commentsToLikes: 0.111546
-    id: ck8t8z7ltmd900j7831z0bpk8
+    followers: 74597
+    engagement: 2547
+    commentsToLikes: 0.009460
+    id: cl4ipwlnnsa1u0i23nwgkjc0b
     verified: false
-    hashtags: "#besexybeyou, #womanwithstyle, #gainposts, #streetstyleinspo"
-  - username: "withchelle_"
+    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
+  - username: "sabrazaraa"
     fullname: >-
-      Michelle Tirronen
+      Seattle Lifestyle & Travel | PharmD, MPH, PhC
     bio: >-
-      🌴 CA based creative & photographer 🌊 Fashion | Art | Mental Health #CreateWithChelle
+      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
     location: "United States"
-    followers: 12188
-    engagement: 1404
-    commentsToLikes: 0.155956
-    id: ck5bzy1fbs1z70i11bqz8y8sr
+    followers: 77441
+    engagement: 726
+    commentsToLikes: 0.023415
+    id: ck14lbl7wtu3i0i191qq4vdxr
     verified: false
-    hashtags: "#petitefashion, #spookyseason, #mentalhealthblogger, #withchelle"
-  - username: "chloe__chamberlain"
+    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
+  - username: "kennedybonham_"
     fullname: >-
-      Chloe Chamberlain
+      Kennedy Bonham
     bio: >-
-      Owner + Designer @balanceathletica⁣⁣⁣⁣ @tolucaswim ⁣ 📚Purdue University Alumn ⁣⁣⁣ 📈 Business 🌿 Health 💋 Beauty ⚖️ Wellness⁣⁣⁣⁣⁣⁣⁣ ⁣
+      health & wellness ⚡️ @ehplabs & @inakapower code 'KENNEDY10' houston, texas TrainWithKennedy ✨👇🏽
     location: "United States"
-    followers: 71960
-    engagement: 1212
-    commentsToLikes: 0.088736
-    id: ck0uav00bd2xv0i19127d3k1s
+    followers: 119770
+    engagement: 1098
+    commentsToLikes: 0.011210
+    id: cl7i19kuptxul0i23f4u9t8fi
     verified: false
-    hashtags: "#stayhome, #flattenthecurve, #bywomxnforwomxn"
-  - username: "gratefulandgray"
+    hashtags: ""
+  - username: "tashaonlock"
     fullname: >-
-      Karen |gray hair transition|
+      Tasha | Sisterlocks + Lifestyle Blogger
     bio: >-
-      Positive Aging Growth Mindset Healthy Living Skincare & Fitness Fanatic Yoga Teacher Mama to 4 sweeties and wife to Ben
+      Hair | Health | Home | Lifestyle Helping busy women simplify their life so they can actually enjoy it 📩hello@tashaonlock.com📍#indy 👇🏽NEW CURL TUTORIAL
     location: "United States"
-    followers: 28681
-    engagement: 812
-    commentsToLikes: 0.077049
-    id: ck14kyf8grya60i19rhhj4nkk
+    followers: 12121
+    engagement: 424
+    commentsToLikes: 0.095218
+    id: cl8q7vulq8pzu0i23r2wxms16
     verified: false
-    hashtags: "#silversisters, #agepositive, #artinaging, #encouragequarantinesilversisters"
-  - username: "lifestyle_fashion68"
-    fullname: >-
-      Carpe Diem🇧🇪
-    bio: >-
-      ♥️Living healthy with smile😀♥️Passionate in Sports💪 ♥️Fashion/Lifestyles /Travel😍🌍An interior architect . @fittrainer_ivojones @scarlettfashion_gent
-    location: "United States"
-    followers: 24458
-    engagement: 797
-    commentsToLikes: 0.201395
-    id: ck15uaov9m8sn0i194u5jq4h2
-    verified: false
-    hashtags: "#ootd, #easystyle, #streetstyle, #fashion"
-  - username: "romejohns"
-    fullname: >-
-      Rome Johnson | Dad Swag
-    bio: >-
-      📍|Seattle, WA 🥊|Father to a #pfeiffersyndrome fighter 👖|Using fashion to push health 🗣|Lifestyle Creator 🏀|Sports fan & traveler 👇🏿How to support👇🏿
-    location: "United States"
-    followers: 33992
-    engagement: 3751
-    commentsToLikes: 0.051573
-    id: ck8t1v9nix65e0j78gkeeieo6
-    verified: false
-    hashtags: "#dadswag, #blackfathers, #trachbaby, #blackfather"
-  - username: "valentiinapzz"
-    fullname: >-
-      𝙑𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙖 🦋
-    bio: >-
-      makeup artist • beauty creator ✦ based in Rome ✦ vintage lover ✦ healthy lifestyle
-    location: "United States"
-    followers: 22360
-    engagement: 1066
-    commentsToLikes: 0.060395
-    id: ck135d3a40v020i19zax04rh7
-    verified: false
-    hashtags: "#nyxcosmetics, #makeup, #kryolan, #lippencil"
+    hashtags: "#ltk, #naturalhairgrowth, #naturalhairfreedom, #locqueens"
 ---

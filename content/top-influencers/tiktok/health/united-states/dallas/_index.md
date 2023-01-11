@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Dallas In 2022
+title: Top 10 Health TikTok Influencers In Dallas In 2023
 description: >-
-  Find top health TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #dallas #health.
+  Find top health TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #stitch #health.
 platform: TikTok
-hits: 24
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 24 TikTok influencers like this in Dallas, United States for you to work with.
+hits: 15
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 15 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "sumnerhaye"
+  - username: "thebentist"
     fullname: >-
-      sumnerhaye
+      The Bentist 
     bio: >-
-      Professional Amateur Strongman Official GASP Ambassador
+      FOLLOW IG AND YT HERE!⬆️ TWITCH.TV/THABENTIST 🦷✌🏻 SUB TO MY SNAP 4 MORE! ⬇️👻
     location: "United States"
-    followers: 35600
-    engagement: 1227
-    commentsToLikes: 0.042557
-    id: ck9fm3kaer6gy0j78ctnobyv7
-    verified: false
-    hashtags: "#friday, #viral, #motivation, #strength"
-  - username: "chefmimij"
+    followers: 7700000
+    engagement: 2165
+    commentsToLikes: 0.007824
+    id: ck807b8wkpiua0j780spz0gg7
+    verified: true
+    hashtags: "#braces, #stitch, #reaction, #teeth"
+  - username: "midknight85"
     fullname: >-
-      Meika Johnson
+      KyleWonder
     bio: >-
-      I admire Food, how it makes us FEEL, memories it CREATES & bonds that FORM.
+      🇺🇸🏳️‍🌈🚑 🚁✈️ My page is random like me
     location: "United States"
-    followers: 50500
-    engagement: 1104
-    commentsToLikes: 0.032641
-    id: ckbw9m9gbzrvj0j23mm1qzq1c
+    followers: 8143
+    engagement: 1011
+    commentsToLikes: 0.043011
+    id: ckb9l0ea6dein0j23fzwmqnok
     verified: false
-    hashtags: "#blacktiktok, #xyzbca, #food, #foodtiktok"
-  - username: "stephenvtran"
+    hashtags: "#duet, #funny, #firstresponder, #4u"
+  - username: "ms_carterr93"
     fullname: >-
-      stephenvtran
+      ms_carterr
     bio: >-
-      Discover Dallas with me 💎 Full episodes on IG: @stephenvtran
+      4282, Health/Wellness, Travel, & Me. WeirdHoney Podcast host, go listen
     location: "United States"
-    followers: 24600
-    engagement: 993
-    commentsToLikes: 0.037647
-    id: ckc7uqedyyjae0j23dw3s3m7r
+    followers: 3296
+    engagement: 773
+    commentsToLikes: 0.100120
+    id: ckbqh05mr2e100j23m4hgt3h9
     verified: false
-    hashtags: "#dallasfood, #dallasfoodie, #dallas, #dallasdesserts"
-  - username: "absanders101"
+    hashtags: "#fyp, #skincare, #texas, #houston"
+  - username: "imbosslee"
     fullname: >-
-      Adam Sanders
+      Jessie Lee
     bio: >-
-      My IG @absanders101
+      32 & CEO CEO CEO Grab trial/info/po box on link tree in bio Over $200M in sales
     location: "United States"
-    followers: 4092
-    engagement: 1514
-    commentsToLikes: 0.055819
-    id: ckcjh5h6sc18q0j23zdctpowc
+    followers: 133300
+    engagement: 514
+    commentsToLikes: 0.074747
+    id: cka0rgly5h0wb0i78mcxx5t8r
     verified: false
-    hashtags: "#menfashion, #cheflife, #sleflove, #blm"
-  - username: "joshpray239"
+    hashtags: "#keto, #girlstrip, #italia, #napavalley"
+  - username: "level_up1987"
     fullname: >-
-      Josh Pray
+      Anna Brown
     bio: >-
-      I’m funny everywhere else so let’s try it here 🙃 @joshpray on IG/YT/FB
+      🌮 Taco lover 🌮 cashapp @savedbygrace1987 Venmo- @anna-brown1987
     location: "United States"
-    followers: 75200
-    engagement: 863
-    commentsToLikes: 0.043205
-    id: ck9c7im9as0jr0j789emvkhrl
+    followers: 19200
+    engagement: 881
+    commentsToLikes: 0.099837
+    id: ckbfdo2ou74fg0j23x4120jvz
     verified: false
-    hashtags: "#fyp, #comedy, #women, #over30"
-  - username: "thevonandmommyshow"
+    hashtags: "#birthday, #duet, #fyp, #over30"
+  - username: ".mersch"
     fullname: >-
-      iamnitaab
+      Christof Mersch
     bio: >-
-      Mental Health Awareness and spreading love is our thing! BLM✊🏾🖤❤️💚
+      Spotify: I and the Lad IG: Merschandmore
     location: "United States"
-    followers: 78100
-    engagement: 1247
-    commentsToLikes: 0.043375
-    id: ckb9l7f9zdk7b0j2343p6zq3s
+    followers: 3862
+    engagement: 1213
+    commentsToLikes: 0.156032
+    id: ck8ou474eo1sn0j78p6c2pult
     verified: false
-    hashtags: "#explorepage, #blktiktok, #explore, #duet"
-  - username: "jennahrenee88"
+    hashtags: "#greenscreenvideo, #iandthelad, #duet, #spotify"
+  - username: "aliciazeller1p"
     fullname: >-
-      Jennah Przybiski
+      Alicia Zeller
     bio: >-
-      Female Taxidermist/Nurse/Mental Health Advocate ⬇️⬇️
+      TX➡️KY PO Box 283 Somerset, KY 42502 🖤#5secondpositivity🖤
     location: "United States"
-    followers: 132500
-    engagement: 1242
-    commentsToLikes: 0.012120
-    id: cka3vg6uyy1mc0i78bbzpou3w
+    followers: 96800
+    engagement: 1568
+    commentsToLikes: 0.084851
+    id: ck999vbkzesq60j78ebpqtlfk
     verified: false
-    hashtags: "#nurselife, #foryoupage, #fyp, #nurse"
-  - username: "scottfreda"
+    hashtags: "#dance, #kentucky, #momsoftiktok, #duetwithme"
+  - username: "billmaniatv"
     fullname: >-
-      Scott Freda
+      Billmaniatv
     bio: >-
-      👨🏻‍💼Health 🤵🏻Model 🗣Comedian 🥃Alcoholic🦸‍♂️World Class Sprinter
+      Official page of Billmania Media
     location: "United States"
-    followers: 95700
-    engagement: 312
-    commentsToLikes: 0.410069
-    id: ckd6kc6ewdrb00j23wfmra84z
+    followers: 46600
+    engagement: 626
+    commentsToLikes: 0.021395
+    id: ck806w30kmh5u0j78f9a4heoe
     verified: false
-    hashtags: "#marriage, #single, #mom, #soouse"
-  - username: "davisonabrantes"
+    hashtags: "#rap, #hiphop, #fyp, #boxing"
+  - username: "foodieshivani"
     fullname: >-
-      Davison Abrantes
+      Shivani Patel
     bio: >-
-      ⬆️follow me on here & IG⬆️ Just trying to make you laugh venmo:@davison-abrantes
+      • BLESSING YOUR MOUTHS since ‘97 • 🍕🥪🍝🍪🍰🌮 Dallas, TX 📍
     location: "United States"
-    followers: 43900
-    engagement: 2022
-    commentsToLikes: 0.033220
-    id: ck81t23qwuvky0j78av0e1n3l
+    followers: 3805
+    engagement: 637
+    commentsToLikes: 0.044849
+    id: ckakodmk8azh70i78dq37epit
     verified: false
-    hashtags: "#travel, #fyp, #nba, #life"
-  - username: "naivivx"
+    hashtags: "#quickrecipes, #food, #mexican, #quarantinelife"
+  - username: "amberleybradleyy"
     fullname: >-
-      Naiviv
+      Amberley Bradley
     bio: >-
-      💫✨Come with me...I'll show you the way ✨💫🎡 IG: @naivivlift
+      Texas gal ☆ let’s be friends Insta: @amberleybradley
     location: "United States"
-    followers: 5817
-    engagement: 1214
-    commentsToLikes: 0.035920
-    id: ckc1rcmzzvs6z0j23ni941t3l
+    followers: 267000
+    engagement: 1803
+    commentsToLikes: 0.023856
+    id: ck83zu6y833xu0j78tcehhm6f
     verified: false
-    hashtags: "#positive, #latina, #foryou, #foryoupage"
+    hashtags: "#dallastx, #stitch, #love, #teacher"
 ---

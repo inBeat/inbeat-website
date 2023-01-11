@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Berlin In 2022
+title: Top 10 Stylists Instagram Influencers In Berlin In 2023
 description: >-
-  Find top stylists Instagram influencers in Berlin in 2022. Most popular hashtags: #ootd #berlin #details.
+  Find top stylists Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #outfit #beauty #stylist.
 platform: Instagram
-hits: 71
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 71 Instagram influencers like this in Berlin, Germany for you to collaborate.
+hits: 38
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 38 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "rekii.fotografie"
-    fullname: >-
-      Rekii | FantasyTransformation
-    bio: >-
-      European Photographer 🧚‍♀️ High Fantasy 💄 MUA/Stylist/Design 📷 NikonZ6 🇪🇺 Berlin 🥰 Mainly client's photos ❤️ YOU ARE BEAUTIFUL❤️ ❤️ Du bist #schöni ❤️
-    location: "Germany"
-    followers: 48295
-    engagement: 425
-    commentsToLikes: 0.011416
-    id: ck14lg4d1uhvb0i1900fxoxrl
-    verified: false
-    hashtags: "#darkdreams, #magick, #autumn, #samhain"
-  - username: "masha_medusa"
-    fullname: >-
-      Masha Schubbach
-    bio: >-
-      💌 masha-schubbach@hotmail.de 📍 FRANKFURT / BERLIN 🧥 FREELANCE STYLIST @stylistmashaschubbach 🤍 @kuechenpartnerschubbach
-    location: "Germany"
-    followers: 18398
-    engagement: 614
-    commentsToLikes: 0.039912
-    id: ck14hses6bw740i19q2qvckyr
-    verified: false
-    hashtags: "#hairstyle, #basementapproved, #makeup, #jordan"
-  - username: "studio_nahili"
-    fullname: >-
-      Anna Albertine Baronius
-    bio: >-
-      Slow living.Conscious content creator. Travel🌍Berlin designer.Interior stylist. photography🌿 plant lover 🥦 #printbynahili artprint shop & Impressum 👇🏼
-    location: "Germany"
-    followers: 32111
-    engagement: 175
-    commentsToLikes: 0.033692
-    id: ck55jhutix2c40i115m48g06c
-    verified: false
-    hashtags: "#behomefree, #whitehome, #monochromehome, #styleatmine"
-  - username: "annaaborisovna"
-    fullname: >-
-      Anna Borisovna
-    bio: >-
-      Fashion Editor www.annaborisovna.de Stylist @borisovnaannaa Mail anna@annaborisovna.de Munich
-    location: "Germany"
-    followers: 67752
-    engagement: 56
-    commentsToLikes: 0.018013
-    id: ck8swi43ee6070j78y7q6vh0h
-    verified: false
-    hashtags: "#blackboots, #sweater, #leathershoes, #sunday"
   - username: "alina_kossan"
     fullname: >-
       Аlina
     bio: >-
       STYLIST/ MODEL/ SOCIAL MEDIA MANAGER Berlin based @vivamodelsberlin content creation inquiries: alina_kossan@gmx.de
     location: "Germany"
-    followers: 24276
-    engagement: 856
-    commentsToLikes: 0.015582
+    followers: 30279
+    engagement: 685
+    commentsToLikes: 0.008981
     id: ck0tyvhcro8ab0i19l6fl771l
     verified: false
-    hashtags: "#feellucky, #feelskullcandy, #ad, #nikeblazer"
-  - username: "salomehaymanot"
+    hashtags: "#ad, #filaeurope, #realitytoideaxhavaianas, #zalandostyle"
+  - username: "sabirapongracz"
     fullname: >-
-      ሶሎሜ
+      SABIRA
     bio: >-
-      ⋆ Sacramento/Cologne ⋆ Ethiopian+German 🇪🇹🇩🇪 ⋆ Model, Singer, Fitness ⋆ 1,77cm / 5'10ft 📩 haymanotsalome@gmail.com My account to help @stopwarintigray
+      
     location: "Germany"
-    followers: 9570
-    engagement: 1196
-    commentsToLikes: 0.066392
-    id: ck5q5eddhsife0i11ud6vnj02
+    followers: 30000
+    engagement: 231
+    commentsToLikes: 0.047734
+    id: ck6txk3yxy9tr0j71plblj7b2
     verified: false
-    hashtags: "#photography, #picoftheday, #model, #habesha"
-  - username: "esteban_pomar"
+    hashtags: "#djlife, #fashionphotography, #hair, #streetstyle"
+  - username: "elena.may.xx"
     fullname: >-
-      Esteban Pomar
+      Fashion Stylist🎀Vegan Girl🌿
     bio: >-
-      우주 왕 🌚✨🌝 Berlin📍 Art and Creative Director / Stylist
+      📍 Berlin | Heilbronn 📱 #elenamayxx 🌟@elena.may.styling
     location: "Germany"
-    followers: 21870
-    engagement: 270
-    commentsToLikes: 0.024632
-    id: ck0w60aim6anr0i199ysgyj32
+    followers: 4788
+    engagement: 913
+    commentsToLikes: 0.235756
+    id: ck15u4se7leln0i194lrev8bc
     verified: false
-    hashtags: "#apruebo"
-  - username: "loulanie1"
+    hashtags: ""
+  - username: "loulanie"
     fullname: >-
       𝐽𝑎𝑛𝑖𝑛𝑒 𝐻𝑜𝑒𝑙𝑧𝑛𝑒𝑟
     bio: >-
-      FASHIONLOVER | RULEBREAKER EDITOR @feineadressen MAGAZINLEITUNG BERLIN Content Creator 👰🏻 to #mrbig
+      FASHIONLOVER | RULEBREAKER MAGAZINLEITUNG | PR BERLIN @feineadressen Content Creator 👰🏻 to #mrbig Picker ⬇️⬇️⬇️
     location: "Germany"
-    followers: 19252
-    engagement: 254
-    commentsToLikes: 0.045953
+    followers: 28239
+    engagement: 299
+    commentsToLikes: 0.059892
     id: ck14lbqrntuzh0i19spuaph6y
     verified: false
-    hashtags: "#mumlive, #instamamagang, #styleinspo, #fashioninspo"
-  - username: "elena.may.xx"
+    hashtags: "#berlinmama, #fashionblogger, #ootd, #sommer"
+  - username: "laurasimon8"
     fullname: >-
-      Fashion Stylist|Vegan Girl🌿
+      Laura Simon
     bio: >-
-      🌼25📍 HN | BERLIN 🌱Sustainability 📲#elenamayxx ⭐️founder of @instacafeheilbronn
+      Blogger • Make-up Artist • Fashion Stylist 💌laurasimon.mua@gmail.com 📍 030 Berlin based ▶️ Tik Tok: laura.simon8
     location: "Germany"
-    followers: 4696
-    engagement: 1014
-    commentsToLikes: 0.212674
-    id: ck15u4se7leln0i194lrev8bc
+    followers: 54144
+    engagement: 179
+    commentsToLikes: 0.029365
+    id: ck9hcyfxznh600j78scrrmn9d
     verified: false
-    hashtags: "#peanutbutter, #foodlover, #gesundnaschen, #rezeptideen"
-  - username: "anabacinger"
+    hashtags: "#mondays, #nakdfashion, #sundays, #fridays"
+  - username: "sabine_grodd"
     fullname: >-
-      Ana Bacinger
+      Sabine Grodd
     bio: >-
-      blogger @ Little Fashion Paradise since 2010/journalist/freelance stylist/content creator/Elle Style Awards Best Fashion Blogger 2015/Croatia/
+      Fashion Photographer 📸 based in Berlin & Booking worldwide. 🤘🏻All pictures posted are my own work 📧 info@sabinegrodd.com Homepage 👇🏼 👇🏼 👇🏼 👇🏼
     location: "Germany"
-    followers: 18953
-    engagement: 297
-    commentsToLikes: 0.078336
-    id: ck0w3ut5vve3m0i1917espjim
+    followers: 13793
+    engagement: 38
+    commentsToLikes: 0.080304
+    id: ck15tn95hix9r0i19q37pxalm
     verified: false
-    hashtags: "#travelblogger, #retrovibes, #tammyandbenjamin, #details"
+    hashtags: "#deutschlandfotograf, #photographer, #outdoor, #germanphotographer"
+  - username: "nurii_b"
+    fullname: >-
+      𝖓𝖚𝖗𝖎•𝕭
+    bio: >-
+      ๏ 80s HAIR STYLIST / 📍🇩🇪 📩Termine auf Anfrage 👨🏾‍🎨Seminare/ Anfragen Per Dm 📩
+    location: "Germany"
+    followers: 46133
+    engagement: 441
+    commentsToLikes: 0.016751
+    id: ck5bw5ebgl14i0i11fzmp539z
+    verified: false
+    hashtags: "#du, #berlin, #essencity, #istanbul"
+  - username: "miras_world_com"
+    fullname: >-
+      Mira
+    bio: >-
+      * Fashion Inspo * Nordrhein Westfalen * Germany * Founder of Mira's World 📧 my@miras-world.com DSGVO und Impressum ⬇️
+    location: "Germany"
+    followers: 25264
+    engagement: 346
+    commentsToLikes: 0.322947
+    id: ck14kgayupdp90i19gyzjtnyj
+    verified: false
+    hashtags: "#blazeroutfit, #mylibertywoman, #modeblogger, #maison123"
+  - username: "aneliajaneva_official"
+    fullname: >-
+      🦋AneliaJaneva🦋
+    bio: >-
+      International Photographer, Hair&MakeUp Artist, Dancer + Performing Coach For bookings : info@aneliajaneva.de
+    location: "Germany"
+    followers: 18983
+    engagement: 425
+    commentsToLikes: 0.023092
+    id: ck8sx7qysgfvt0j78ypuzygnm
+    verified: false
+    hashtags: "#outfit, #studiophotography, #music, #strikeapose"
+  - username: "dianaschell_official"
+    fullname: >-
+      Diana Schell
+    bio: >-
+      ᴛᴠ ʜᴏꜱᴛ (ʜꜱᴇ) • ᴍᴏᴅᴇʀᴀᴛᴏʀɪɴ • ᴄᴏᴀᴄʜ - ᴋᴏɴᴛᴀᴋᴛ: ᴀɴꜰʀᴀɢᴇ@ꜱᴄʜᴇʟʟ-ᴍᴇᴅɪᴀ.ᴄᴏᴍ ᴋᴏᴏᴘᴇʀᴀᴛɪᴏɴ@ꜱᴄʜᴇʟʟ-ᴍᴇᴅɪᴀ.ᴄᴏᴍ - ʙʟᴏɴᴅʜÖʀɪɢ - ɴᴇᴜᴇ ꜱʜᴏᴡ:
+    location: "Germany"
+    followers: 62517
+    engagement: 147
+    commentsToLikes: 0.012686
+    id: ck6tstva96sob0j717x9rj8vb
+    verified: false
+    hashtags: "#meinhse, #berlin, #entertainer, #munich"
 ---

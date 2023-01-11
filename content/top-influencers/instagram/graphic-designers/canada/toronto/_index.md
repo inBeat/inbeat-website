@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Toronto In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Toronto in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Toronto in 2022. Most popular hashtags: #art #toronto #artist.
+  Find top graphic-designers Instagram influencers in Toronto in 2023. Most popular hashtags: #art #toronto #artist.
 platform: Instagram
 hits: 7
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In France In 2022
+title: Top 10 Cyclists Instagram Influencers In France In 2023
 description: >-
-  Find top cyclists Instagram influencers in France in 2022. Most popular hashtags: #cycling #cyclinglife #tdf2020.
+  Find top cyclists Instagram influencers in France in 2023. Most popular hashtags: #cycling #cyclinglife #bike.
 platform: Instagram
-hits: 79
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 79 Instagram influencers like this in France for you to connect with.
+hits: 67
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 67 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "primozroglic"
-    fullname: >-
-      Primoz Roglic
-    bio: >-
-      Ex skijumper from Slovenia, now a pro cyclist riding for Team Jumbo - Visma🚴🏻
-    location: "France"
-    followers: 348995
-    engagement: 1412
-    commentsToLikes: 0.010021
-    id: ck0u6l3t928dl0i19pc04ie0p
-    verified: false
-    hashtags: "#vuelta, #lavuelta20, #teamjumbovisma, #cyclinglife"
   - username: "yoyo.offredo"
     fullname: >-
       Yoann Offredo
     bio: >-
       French Pro cyclist 🇫🇷🚴🏻 for @circuswgt 🎪 Beers lover @bieredesamis 🍺 Globe-trotter 🌍 Cobbles addict @cube.bikes 🇧🇪
     location: "France"
-    followers: 42235
-    engagement: 1056
-    commentsToLikes: 0.012407
+    followers: 41422
+    engagement: 1069
+    commentsToLikes: 0.012471
     id: ck6u15t7cjrkd0j71xvbwp3ia
     verified: false
-    hashtags: "#bieresdesamis, #circus, #wantygobert, #towalkagain"
-  - username: "iding410"
-    fullname: >-
-      이딩(eding)
-    bio: >-
-      Ambassador BMC korea🇰🇷 GranfondoWorldTour Pella,HJC,roka,GARMIN,Giro,Aftershokz Mavic,rpmsports,dlkiller 모즈엠버서더 @moz.culture @noname_cyclist_factory
-    location: "France"
-    followers: 119420
-    engagement: 213
-    commentsToLikes: 0.024609
-    id: ck5pywb22y4050i11rryh1jxt
-    verified: true
-    hashtags: "#cycling, #ride, #pella, #roka"
-  - username: "michaelmorkov"
-    fullname: >-
-      Michael Mørkøv
-    bio: >-
-      🇩🇰 Pro cyclist @ Deceuninck - Quick-Step cycling team.
-    location: "France"
-    followers: 18228
-    engagement: 843
-    commentsToLikes: 0.006051
-    id: ck0udr1s1jrsz0i1966xtij6t
-    verified: false
-    hashtags: "#1000piecepuzzle, #sworksexos, #frederik, #nophotoshop"
+    hashtags: "#wantygobert, #towalkagain, #m2competition, #bieresdesamis"
   - username: "clementventurini"
     fullname: >-
       Clément
     bio: >-
       Cyclist rider @ag2rlamondiale_procyclingteam 💙❤️
     location: "France"
-    followers: 17302
-    engagement: 912
-    commentsToLikes: 0.004178
+    followers: 18469
+    engagement: 1241
+    commentsToLikes: 0.005007
     id: ck5q6jf5nxmt20i112vq01kc2
     verified: false
-    hashtags: ""
+    hashtags: "#ridebmccostarica, #ridedifferently, #ridebmc"
   - username: "maxime_bouet"
     fullname: >-
       Maxime
     bio: >-
-      🇫🇷 Coureur #cycliste professionnel chez @arkeasamsic | French professional cyclist with #TeamArkeaSamsic 👨‍👧Papa de Victoire ✌️#allezleblond #cycling
+      🇫🇷 Coureur #cycliste professionnel chez @arkeasamsic | French professional cyclist with #TeamArkeaSamsic 👨‍👧Papa de Victoire ✌️#AllezLeBlond #Cycling
     location: "France"
-    followers: 10113
-    engagement: 763
-    commentsToLikes: 0.019312
+    followers: 10115
+    engagement: 764
+    commentsToLikes: 0.019131
     id: ck5zkvrrvk91k0i14678jr3ad
     verified: false
-    hashtags: "#cycling, #cyclisme, #ilovemyjob, #tousensemble"
-  - username: "andrea.bagioli"
+    hashtags: "#cyclisme, #cycling, #tousensemble, #provenceterredesports"
+  - username: "tonythetiger_12"
     fullname: >-
-      Andrea Bagioli
+      Antoine Duchesne
     bio: >-
-      Professional cyclist for @deceuninck_quickstepteam
+      Canadian Pro cyclist Ambassadeur sportif @erableduquebec 🍁
     location: "France"
-    followers: 12028
-    engagement: 1915
-    commentsToLikes: 0.012220
-    id: ckf5mpoetux5p0j2340cy1gqn
-    verified: false
-    hashtags: "#lavuelta, #deceuninckquickstepteam, #spain, #lavuelta2020"
-  - username: "maximilian_schachmann"
-    fullname: >-
-      Maximilian Schachmann
-    bio: >-
-      Pro cyclist for Team Bora Hansgrohe 🟡 Paris-Nice 2020 🇩🇪 Former German national champion 🇮🇹 Giro d'Italia stage winner Ambassador for RightToPlay
-    location: "France"
-    followers: 41286
-    engagement: 1215
-    commentsToLikes: 0.008433
-    id: ck5hnfi02noze0i11s5zit6me
-    verified: false
-    hashtags: "#letour, #tdf2020, #tdf, #tourdefrance"
-  - username: "alexysbrnl"
-    fullname: >-
-      A L E X Y S ⚡️ B R U N E L
-    bio: >-
-      Je crois, que tout ce qui ne nous tue pas nous rend simplement plus...bizarre 🃏 Pro cyclist for @equipegroupamafdj 🍀 🇫🇷x3 – 🇪🇺x1
-    location: "France"
-    followers: 5747
-    engagement: 1214
-    commentsToLikes: 0.003511
-    id: ck6u33hhovhax0j71ibrn8r2b
-    verified: false
-    hashtags: "#equipegroupamafdj, #667, #contiroad, #fdj"
-  - username: "nilspolitt"
-    fullname: >-
-      Nils Politt
-    bio: >-
-      Pro Cyclist 🚴‍♂️
-    location: "France"
-    followers: 32010
-    engagement: 970
-    commentsToLikes: 0.007247
-    id: ck5py264dtyke0i11jpmtqg3b
+    followers: 9587
+    engagement: 748
+    commentsToLikes: 0.017139
+    id: ck0w4tipu0cb70i19sqv9g8m2
     verified: true
-    hashtags: "#maxxistires, #orangeseal, #girohelmets, #4iiiipowermeter"
+    hashtags: "#arvi, #foiegrastoast, #criteriumdudauphine, #erableduquebec"
+  - username: "lindalovescycling"
+    fullname: >-
+      LindaLovesCycling
+    bio: >-
+      🚲 Entrepreneur/ Content creator/ Cyclist 📩 LindaLovesCycling@gmail.com #Cyclist #Traveler #Outdoors #Entrepreneur
+    location: "France"
+    followers: 25998
+    engagement: 366
+    commentsToLikes: 0.041518
+    id: ck9ham7i2d2f70j78e2mlpniz
+    verified: false
+    hashtags: "#lindalovescycling, #linda, #staysafe, #lifestyle"
+  - username: "francoispervis"
+    fullname: >-
+      François PERVIS
+    bio: >-
+      🇫🇷Cyclist of French Team Sprint 🌈7x World Champion (km🥇🥇🥇🥇 keirin🥇🥇, sprint🥇) 2x🥈8x🥉 🌍2x World Record(km: 56"303, 200m: 9"347) 🇧🇷Rio Olympic medalist🥉
+    location: "France"
+    followers: 8004
+    engagement: 1019
+    commentsToLikes: 0.024751
+    id: ck5hndpddnlsj0i11idpultuk
+    verified: false
+    hashtags: "#cyclinglife, #cyclingshots, #karpfenangeln, #cycliste"
+  - username: "mariedessart_trail_cycling"
+    fullname: >-
+      Marie Dessart 🇧🇪
+    bio: >-
+      Trail+cycling+ski💕 Powered by @nutribayofficial @urbantrisports_spa Pro cyclist @lottosoudal 2019 World Champion UCI Gran Fondo 2018
+    location: "France"
+    followers: 4613
+    engagement: 1050
+    commentsToLikes: 0.023222
+    id: ck5c10bmyu77x0i1164tzoe3h
+    verified: false
+    hashtags: "#instacycling, #cyclinglove, #nopainnogain, #yogapractice"
+  - username: "paulineferrandprevot"
+    fullname: >-
+      Pauline FERRAND-PREVOT
+    bio: >-
+      Professional cyclist🇫🇷 6X world champion Riding for @absoluteabsalon_bmc @energiedusport Mum of @mauricette_ferrandprevot 🐰 rp@paulineferrandprevot.fr
+    location: "France"
+    followers: 413475
+    engagement: 377
+    commentsToLikes: 0.004381
+    id: ck0u9uiqlartj0i194f4gofz2
+    verified: true
+    hashtags: "#stretchyourlimits, #sorrynotsorry, #houhouestil, #unirnosenergies"
+  - username: "jacovangass"
+    fullname: >-
+      Jaco van Gass
+    bio: >-
+      🚴🏻‍♂️ Champion Para-Cyclist 📢 Motivational Speaker 🏔 Adventurer 👷🏽‍♂️ @thewigleygroup 🏡 @assetacademyuk 🚵🏼‍♀️ @thinairsports
+    location: "France"
+    followers: 10508
+    engagement: 447
+    commentsToLikes: 0.010860
+    id: ck6tqj2slrr600j71l6ra6sih
+    verified: false
+    hashtags: "#lovecycling, #fit, #cyclingshot, #cyclingphoto"
+  - username: "marion.vlt"
+    fullname: >-
+      Marion Vlt
+    bio: >-
+      Agrégée d'anglais, cycliste (du dimanche 😅) et maman ✌️ // High school teacher, cyclist and mom✌️ 🇫🇷
+    location: "France"
+    followers: 36949
+    engagement: 253
+    commentsToLikes: 0.029257
+    id: ckaozj4avm40h0i78386fzwh8
+    verified: false
+    hashtags: "#cycling, #workout, #womencycling, #cyclisme"
 ---

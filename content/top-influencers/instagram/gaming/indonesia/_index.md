@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Indonesia In 2022
+title: Top 10 Gaming Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top gaming Instagram influencers in Indonesia in 2022. Most popular hashtags: #naisaalifiayuriza #nayofficial #thenay.
+  Find top gaming Instagram influencers in Indonesia in 2023. Most popular hashtags: #freefire #pubgmobile #freefirememe #freefireindonesia.
 platform: Instagram
-hits: 292
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 292 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 257
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 257 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "syivangel"
-    fullname: >-
-      𝒚𝒐𝒖𝒓 𝑨𝒏𝒈𝒆𝒍♥
-    bio: >-
-      an independent woman✨ . TikTok ~> @syivangel @angelova.guild @angelova.gaming . Bussines inquiries please kindly send email!
-    location: "Indonesia"
-    followers: 45113
-    engagement: 797
-    commentsToLikes: 0.036570
-    id: ck5zm5pexly5h0i143t75074w
-    verified: false
-    hashtags: "#senseiten, #apaya, #razer, #livik"
-  - username: "kleponjowo"
-    fullname: >-
-      Junior Andrian Rub
-    bio: >-
-      🎮 @avatar.gaminghouse 🐬 @potlotaquatic 🐋 @makaliweaquarium 🎈 @johan.balonmagetan
-    location: "Indonesia"
-    followers: 6111
-    engagement: 1123
-    commentsToLikes: 0.024639
-    id: ck55nfqfz63zp0i11avkcixs0
-    verified: false
-    hashtags: "#yowessorry, #gowes, #sunmori, #dirumahaja"
-  - username: "vinaeleast"
-    fullname: >-
-      Vina Eleast
-    bio: >-
-      🕹Gaming Enthusiast & Cosplayer • 📽 MC/Host & LiveStreamer • 🎬 Netmarble Official Streamer • 💌 vinaeleast@gmail.com
-    location: "Indonesia"
-    followers: 51660
-    engagement: 456
-    commentsToLikes: 0.014593
-    id: ck1391158j0040i19jjkerax7
-    verified: false
-    hashtags: "#topup, #pubgmobile1111, #pubgmobileindo, #games"
   - username: "matchamei"
     fullname: >-
       Matcha Mei
     bio: >-
-      🇮🇩 ➡️ 🇰🇷 😇 @reoncomics Official Cos 💻 @asusid TUF Gaming BA 📩 Business: matchamei.contact@gmail.com Skincare cegah jerawat👇🏻
+      🇮🇩 ➡️ 🇰🇷 😇 @reoncomics Official Cos 💻 @asusid TUF Gaming BA 📩 Business: matchamei.contact@gmail.com HD photos download👇🏻
     location: "Indonesia"
-    followers: 214507
-    engagement: 284
-    commentsToLikes: 0.013478
+    followers: 219677
+    engagement: 292
+    commentsToLikes: 0.011962
     id: ck0vxovatzzk80i19rxur5dbx
     verified: true
-    hashtags: ""
+    hashtags: "#asusid, #tufgaming, #genshinimpact, #asusgaming"
   - username: "ar.kaw"
     fullname: >-
       Arkaw
     bio: >-
-      BA 👕 @waglerstore_panjipetualang Business WA : 083898873710 🎮Official Creator Facebook Gaming 🖥️Konten YT : Arkaw 🎥Everyday Livestream ⬇️
+      BA 👕 @waglerstore_panjipetualang Business WA : 083142149971 a/n uta 🎮Official Creator Facebook Gaming 🖥️Konten YT : Arkaw 🎥Everyday Livestream ⬇️
     location: "Indonesia"
-    followers: 119952
-    engagement: 230
-    commentsToLikes: 0.019102
+    followers: 129925
+    engagement: 185
+    commentsToLikes: 0.016216
     id: ck5cb1276eila0i112um9ulmy
     verified: false
-    hashtags: "#3megic, #alwayson, #jabarjuara, #seriusmain"
-  - username: "thenay.squads"
-    fullname: >-
-      naisaalifiayuriza
-    bio: >-
-      N.A.Y Official Thenay Squads Since: 12 March 2019🔥 #StayHumble • -William 🕹️Gaming 📹Daily Vlog • Info PP 👉🏻 DM📩
-    location: "Indonesia"
-    followers: 63672
-    engagement: 224
-    commentsToLikes: 0.019355
-    id: ckap1unn9w83l0i78epcnxwtw
-    verified: false
-    hashtags: "#thenayindonesia, #thenayteam, #nayofficial, #thenayofficial"
-  - username: "naisaaliflayuriizaa"
-    fullname: >-
-      THENAY INDONESIA
-    bio: >-
-      ◀OFFICIAL FANBASE▶ Always support naisa💗 N.A.Y 🕹 gaming🥳 🖥 daily vlog 📹 💻Reaction 🎥 📺NAYOFFICIAL Subscribe & nyalakan notifikasinya guys 👇 👇
-    location: "Indonesia"
-    followers: 217396
-    engagement: 145
-    commentsToLikes: 0.018728
-    id: ckaovzm6s6ryc0i78mf5v1mpr
-    verified: false
-    hashtags: "#nay, #naisaalifayuriza, #thenaysquad, #cewek"
-  - username: "ff.spyke"
-    fullname: >-
-      Reza Risnuansyah
-    bio: >-
-      YouTube : spyke gaming Id game :
-    location: "Indonesia"
-    followers: 128817
-    engagement: 523
-    commentsToLikes: 0.038143
-    id: ck5cb26nnel1m0i113f2e40bw
-    verified: false
-    hashtags: "#freefireshare, #freefireid, #freefirehack, #topglobalsubsobbyphy"
+    hashtags: "#siapatakut, #alwayson, #jabarjuara, #pubgmobile"
   - username: "naaisaalifiayuuriza"
     fullname: >-
       Naisa Alifia Yuriza
     bio: >-
-      N.A.Y 🕹️ gaming🥳 🖥️ daily vlog 📹 📺 NAYOFFICIAL Pp/Endorse? Line @jasapromosi_dhera (pakai @) Fanbase Official @naisaalifiayuriza
+      𝙉.𝘼.𝙔 - FANBASE 🕹️ gaming🥳 🖥️ daily vlog 📹 |🎀|𝐒𝐔𝐏𝐏𝐎𝐑𝐓: @naisaalifiayuriza PP/ENDORSE WA 087788976862 Line@ : @jasapromosi_dhera (pakai @)
     location: "Indonesia"
-    followers: 214631
-    engagement: 82
-    commentsToLikes: 0.014360
+    followers: 242877
+    engagement: 60
+    commentsToLikes: 0.013656
     id: ckaot3lhfu86v0i78lg3mydt9
     verified: false
-    hashtags: "#thenayteam, #tiktok, #nayofficial, #thenayeditor"
+    hashtags: "#naisaofficial, #quoteskeren, #tiktokers, #tanyamama"
+  - username: "dreamerop"
+    fullname: >-
+      DreamerINTENSE
+    bio: >-
+      ▪️clan : iNTENSE ▪️Device : iPhone 11 ▪️Pubg id :5559871675 ▪️ Personal id : @sham_singh07 ▪️🔍search youtube : Dreamer Gaming
+    location: "Indonesia"
+    followers: 33838
+    engagement: 1125
+    commentsToLikes: 0.022895
+    id: ck9wggusotcu60j78vmvp02ab
+    verified: false
+    hashtags: ""
+  - username: "ff.spyke"
+    fullname: >-
+      Spyke Siapa?
+    bio: >-
+      Akun kedua👑 @rezaaofc YouTube : spyke gaming
+    location: "Indonesia"
+    followers: 130235
+    engagement: 418
+    commentsToLikes: 0.035478
+    id: ck5cb26nnel1m0i113f2e40bw
+    verified: false
+    hashtags: ""
   - username: "ig_ripzy"
     fullname: >-
-      RipzyGAMING
+      Tyco Ripzy
     bio: >-
-      YouTube - Ripzy GAMING ID-5130964063 Device - OnePlus 6T GFX - @mart1n_dzns Check Out My Latest Video👇 Personal - @abhi.nand._
+      YouTube - Ripzy GAMING ID-5130964063 Device - OnePlus 6T GFX - @m1.pain_ Personal - @abhi.nand._
     location: "Indonesia"
-    followers: 10781
-    engagement: 1434
-    commentsToLikes: 0.046915
+    followers: 12307
+    engagement: 1057
+    commentsToLikes: 0.046150
     id: ckaou8lokzaj70i78ln0k7u4r
     verified: false
-    hashtags: "#pubgindia, #pubgfunny, #pubgmobilewtf, #ripzy"
+    hashtags: "#pubgpro, #epicpubgmemes, #pubgepicmemes, #pubgmobileindonesia"
+  - username: "aandermawan_"
+    fullname: >-
+      🙏🙏🙏
+    bio: >-
+      Going where I feel most alive. 📍 Makassar ✈️ Freelance drone pilot 🎮 Gaming Streamer (Online almost everyday) check fanpage fb for link streaming⬇️
+    location: "Indonesia"
+    followers: 3083
+    engagement: 1315
+    commentsToLikes: 0.113864
+    id: ck13ag328q87m0i19fplatlhb
+    verified: false
+    hashtags: "#dji, #beautifuldestinations, #indonesia, #mavicpro"
+  - username: "sf_gaming01"
+    fullname: >-
+      SF GaminG
+    bio: >-
+      🎯 || YT : SF GaminG 👥 || 2ACC @ff_ucuup . SUBSCRIBE 👇
+    location: "Indonesia"
+    followers: 95499
+    engagement: 881
+    commentsToLikes: 0.054517
+    id: ckapa88djv4l70i78teipeg9g
+    verified: false
+    hashtags: "#quoteskeren, #freefirewtf, #garenafreefire, #freefirebucin"
+  - username: "cherrylimon"
+    fullname: >-
+      𝓛𝓲𝓼𝓪 𝓚𝔂𝓸𝓲𝓬𝓱𝓲
+    bio: >-
+      💄@cherrylimon.mua 🎮 Gaming Caster ✨Makeup & Fashion enthusiast . Subs My OnlyFans!👇🏻
+    location: "Indonesia"
+    followers: 9767
+    engagement: 337
+    commentsToLikes: 0.036598
+    id: ck8sxi2l4hh6q0j78600d16iq
+    verified: false
+    hashtags: "#egirl, #alt, #egirlmakeup, #altgirl"
+  - username: "ichsanfl"
+    fullname: >-
+      Ihsan Fahd Lubis
+    bio: >-
+      Work hard & play hard. Joki Gaming : @jokemon.id
+    location: "Indonesia"
+    followers: 5425
+    engagement: 648
+    commentsToLikes: 0.086423
+    id: ckap78mwnj0zt0i78c2tui3xh
+    verified: false
+    hashtags: "#jualakunmoba, #jualakunml, #jualakunmlbb, #mlbb"
 ---

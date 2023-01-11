@@ -1,10 +1,10 @@
 ---
-title: Top 10 Travel TikTok Influencers In Malaysia In 2022
+title: Top 10 Travel TikTok Influencers In Malaysia In 2023
 description: >-
-  Find top travel TikTok influencers in Malaysia in 2022. Most popular hashtags: #fyp #malaysia #travel #foryou.
+  Find top travel TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #travel #tiktoktravel.
 platform: TikTok
 hits: 19
-text_top: Identify the best TikTok profiles on inBeat.
+text_top: See the top-rated TikTok accounts on inBeat.
 text_bottom: Our database holds 19 TikTok influencers like this in Malaysia for you to connect with.
 profiles:
   - username: "eqiantravels"
@@ -13,21 +13,21 @@ profiles:
     bio: >-
       Travel log
     location: "Malaysia"
-    followers: 6735
-    engagement: 974
-    commentsToLikes: 0.070191
+    followers: 7093
+    engagement: 726
+    commentsToLikes: 0.051286
     id: ckbwhznki32560j23atkmh2fp
     verified: false
-    hashtags: "#fyp, #travel, #foryou, #cuticutimalaysia"
+    hashtags: "#cuticutimalaysia, #travel, #eqiantravels, #fyp"
   - username: "izuanizzaidiazmi"
     fullname: >-
       Izuan Izzaidi Azmi
     bio: >-
       🌎 Travelller Kerna setiap langkahku mengingatkanku tentang hebatnya Dia...
     location: "Malaysia"
-    followers: 70800
-    engagement: 693
-    commentsToLikes: 0.023351
+    followers: 73100
+    engagement: 876
+    commentsToLikes: 0.019692
     id: ck90z0qprca430j78aevjvqh9
     verified: false
     hashtags: "#hajj, #mecca"
@@ -37,94 +37,94 @@ profiles:
     bio: >-
       Traveller stories I will inspire you to travel the world 🌎
     location: "Malaysia"
-    followers: 215300
-    engagement: 704
-    commentsToLikes: 0.011656
+    followers: 212300
+    engagement: 747
+    commentsToLikes: 0.011529
     id: ckdhymc0s4wnd0j23pnggj5la
     verified: false
-    hashtags: "#youngcreators, #travellife, #china, #tiktoktravel"
-  - username: "ichriskee"
+    hashtags: "#china, #traveltip, #tiktoktravel, #youngcreators"
+  - username: "aomdisaya"
     fullname: >-
-      Chris Liew
+      Disaya Teerathonsopon
     bio: >-
-      ♍️ IG: iChrisKee Marathoner 🏃🏻 + ChefWannaBe 👨🏻‍🍳 + Traveller ✈️ from 🇲🇾
+      Welcome to my travel world Thanks for following me😘
     location: "Malaysia"
-    followers: 58500
-    engagement: 546
-    commentsToLikes: 0.038288
-    id: ckb0yzid0ns7x0j23bw7kq9th
+    followers: 9662
+    engagement: 763
+    commentsToLikes: 0.018000
+    id: ck9ev7v2uh17h0j78eafpn5mh
     verified: false
-    hashtags: "#smile, #foryoupage, #foryourpage, #tiktokmalaysia"
+    hashtags: "#unwrapthedeals"
   - username: "uniquepassports"
     fullname: >-
       uniquepassports
     bio: >-
-      ❤️ Stephi & Thomas 🇦🇹 ✈️ Full-Time Travel Couple 🌴 #travelcouple #fyp #viral
+      Stephi & Thomas |📍 Bali based ✈️ Full-Time Travel Couple 🌴
     location: "Malaysia"
-    followers: 30800
-    engagement: 418
-    commentsToLikes: 0.022039
+    followers: 30600
+    engagement: 421
+    commentsToLikes: 0.020779
     id: ck8njg818a9720j78qqiwid0j
     verified: false
-    hashtags: "#malaysia, #fyp, #editing101, #travelcouple"
-  - username: "lofstedtdude"
+    hashtags: "#travelcouple, #ownthecurve, #fuerdich, #newtrending"
+  - username: "mhdsyaher"
     fullname: >-
-      Eric Lau Lofstedt
+      MhdSyaher
     bio: >-
-      That tiktok guy from Malaysia 😉🇲🇾 Follow the IG for a free cookie :3
+      Twentytwo✨ Traveler🤞🏻
     location: "Malaysia"
-    followers: 633600
-    engagement: 875
-    commentsToLikes: 0.024362
-    id: ck83zaqp1z7oq0j786yzfg0j4
+    followers: 52400
+    engagement: 578
+    commentsToLikes: 0.015931
+    id: ckc3f843m172d0j23hqx5bwut
     verified: false
-    hashtags: "#ericexplores, #fyp, #tiktokmalaysia, #travel"
+    hashtags: "#zoommyface, #workhardforthefuture, #perlisteam, #fyp"
   - username: "faizpaehh"
     fullname: >-
       FaizPaeh
     bio: >-
-      🔥New Video On YouTube🔥
+      BORN TO BE 🏆🥷🏻
     location: "Malaysia"
-    followers: 526100
-    engagement: 737
-    commentsToLikes: 0.015049
+    followers: 623300
+    engagement: 673
+    commentsToLikes: 0.015492
     id: ckach9cajyfw00i78grtz9fht
     verified: false
-    hashtags: "#youtube, #kayaitravel, #tiktokguru, #ninebotz10"
+    hashtags: "#bajumelayufavourite, #bulanbintangipoh, #faizpaehh, #travelperaklah"
   - username: "travel.tiktoker"
     fullname: >-
       Travel Tiktoker
     bio: >-
       Youtube: 阿勇Johnsom-旅遊美食TV Facebook : Johnsom阿勇-旅游美食TV ⬇️Subscribe us now⬇️
     location: "Malaysia"
-    followers: 63600
-    engagement: 330
-    commentsToLikes: 0.012612
+    followers: 63300
+    engagement: 332
+    commentsToLikes: 0.012801
     id: ckcpfz193gymd0j23dhmv5ugd
     verified: false
-    hashtags: "#travel, #traveltiktoker, #tiktoktraveller, #tiktoktravel"
-  - username: "johnsom.eattravel"
+    hashtags: "#tiktoktraveller, #tiktoktravel, #travel, #traveltiktoker"
+  - username: "ichriskee"
     fullname: >-
-      Johnsom阿勇-旅游美食TV
+      Chris Liew
     bio: >-
-      Youtube: 阿勇Johnsom-旅遊美食TV FB : 阿勇Johnsom-旅遊美食TV ⬇️ Subscribe me now⬇️
+      Follow my IG: iChrisKee 🥰😘😍
     location: "Malaysia"
-    followers: 14200
-    engagement: 433
-    commentsToLikes: 0.010016
-    id: ck9fwzt783wpg0j78zk6hxczi
+    followers: 77900
+    engagement: 920
+    commentsToLikes: 0.071713
+    id: ckb0yzid0ns7x0j23bw7kq9th
     verified: false
-    hashtags: "#stayathome, #cooking, #tiktokmalaysia, #tiktokfood"
-  - username: "varunkhatriofficial"
+    hashtags: "#foryou, #tiktokmalaysia, #fyp, #tiktok"
+  - username: "chinglook66"
     fullname: >-
-      vArUn kHaTri ✔️
+      陸玟靜
     bio: >-
-      🇮🇳 🇲🇾 🇨🇦 👇🏻 Owner Of 👇🏻 🛫 VK GL🌍BAL SERVICE’S 🛫 DreAm Big WoRK HaRD
+      我是歌手 Singer，Musician，Producer，Song-writer
     location: "Malaysia"
-    followers: 17700
-    engagement: 1261
-    commentsToLikes: 0.010370
-    id: ck9ev7w3jh1in0j78hwo9z2ph
+    followers: 49400
+    engagement: 1020
+    commentsToLikes: 0.019622
+    id: ckbkf2vvf65so0j23vqey5yfj
     verified: false
-    hashtags: "#foryoupage, #punjab, #foreignerchalla, #tiktokdubai"
+    hashtags: "#cuticutimalaysia2020, #stayathome, #cover, #magicchange"
 ---

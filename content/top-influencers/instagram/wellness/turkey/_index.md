@@ -1,36 +1,72 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Turkey In 2022
+title: Top 10 Wellness Instagram Influencers In Turkey In 2023
 description: >-
-  Find top wellness Instagram influencers in Turkey in 2022. Most popular hashtags: #wellness #sa #healthylifestyle.
+  Find top wellness Instagram influencers in Turkey in 2023. Most popular hashtags: #healthylifestyle #instagood #hijab #kiloverme.
 platform: Instagram
 hits: 27
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 27 Instagram influencers like this in Turkey for you to contact.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 27 Instagram influencers like this in Turkey for you to connect with.
 profiles:
+  - username: "ojemrujumrimelim"
+    fullname: >-
+      Nihal Kanık
+    bio: >-
+      Beauty | Wellness | Lifestyle | Skincare Social Media & Influencer Marketing Yeni Video⬇️
+    location: "Turkey"
+    followers: 272662
+    engagement: 58
+    commentsToLikes: 0.105558
+    id: ck8t91bqqmlhq0j78ie2isgu5
+    verified: false
+    hashtags: "#summer, #sundayfunday, #sa, #helpturkey"
   - username: "duygucirakfitpilates"
     fullname: >-
       DUYGU ÇIRAK
     bio: >-
-      PILATES TRAINER FITNESS PERSONAL TRAINER TURKEY BIKINI FITNESS CHAMPIONSHIP 🏆🏅 NATIONAL ATHLETE 🏅 WELLNESS COACH FITNESS MODELING
+      PILATES TRAINER FITNESS PERSONAL TRAINER ONLINE PERSONAL TRAINER TURKEY BIKINI FITNESS CHAMPIONSHIP 🏆🏅 NATIONAL ATHLETE🏅 WELLNESS COACH FIT MODELLING
     location: "Turkey"
-    followers: 124831
-    engagement: 201
-    commentsToLikes: 0.016619
+    followers: 122995
+    engagement: 214
+    commentsToLikes: 0.013716
     id: ckapbsto317pv0i788jxngket
     verified: false
-    hashtags: ""
-  - username: "black_pantheres"
+    hashtags: "#tb"
+  - username: "sadeceserra"
     fullname: >-
-      N O U N E T T A
+      𝓼𝓮𝓻𝓻𝓪 𝓴𝓾𝓻𝓽
     bio: >-
-      Digital journey of family, fashion, style, beauty and wellness 🇫🇷🇨🇩
+      📍İstanbul 💌 sadeceserra@outlook.com.tr Siberian Wellness @sadecesiberian 𝓼𝓪𝓭𝓮𝓬𝓮𝓴𝓲𝓹 ❤︎ Biraz ben, biraz indirim, biraz evim • 🄻🅄🄽🄰 ☼🄻🄴🄾
     location: "Turkey"
-    followers: 118744
-    engagement: 204
-    commentsToLikes: 0.016679
-    id: ck6ugwohm5m9h0j71hw0s3m0j
+    followers: 96262
+    engagement: 172
+    commentsToLikes: 0.039107
+    id: ckapcmk844d120i787xqf0xv3
     verified: false
-    hashtags: "#fashionweek, #model, #stayhome, #fashionshow"
+    hashtags: "#clothes, #ootd, #outfitpost, #homesweethome"
+  - username: "bedis__"
+    fullname: >-
+      Covergirlbedis🐾
+    bio: >-
+      SIBERIAN WELLNESS URUNLERI İÇİN DM❤️
+    location: "Turkey"
+    followers: 14063
+    engagement: 73
+    commentsToLikes: 0.043552
+    id: ck0u2km2t04pn0i19k7b4d6nf
+    verified: false
+    hashtags: "#hobby, #coffee, #qarantine, #reels"
+  - username: "ozgestopal"
+    fullname: >-
+      ÖZGE TOPAL
+    bio: >-
+      Hemşire 💉 İzmit Seka DH🏥 Reklam ve tanıtım için 📩 Siberian Wellness Danışman
+    location: "Turkey"
+    followers: 38866
+    engagement: 205
+    commentsToLikes: 0.039350
+    id: ck0vyets43mic0i19wpiuvvph
+    verified: false
+    hashtags: "#liketime, #hijabers, #hijab, #hijabstyle"
   - username: "ebrarozllpkoca"
     fullname: >-
       ZiN™𝔼𝕓𝕣𝕒𝕣 𝕄𝕦𝕤𝕥𝕒𝕗𝕒 𝕂𝕠𝕔𝕒
@@ -42,89 +78,53 @@ profiles:
     commentsToLikes: 0.021387
     id: ck8tdn2d0400n0j78jkzqepkk
     verified: false
-    hashtags: "#anneyim, #tbt, #instagood, #manzararesimleri"
+    hashtags: "#tbt, #happyday, #evdekalt, #hamileyim"
   - username: "wellnesscoach_zefrayigit58"
     fullname: >-
-      𝓦𝓸𝓻𝓵𝓭𝓣𝓮𝓪𝓶 𝓩𝓮𝓯𝓻𝓪 🥰 𝓘𝓼𝓶𝓪𝓲𝓵 𝓒𝓲𝓽𝓪
+      ᗩKTIᖴ ᗯOᖇᒪᗪTEᗩᗰ ᘔEᖴᖇᗩ❤️İᔕᗰᗩIᒪ
     bio: >-
-      Hiç bir his kendinizi fit hissetmeniz kadar Güzel değildir... ürün odaklı değil sonuç odaklı çalışıyoruz 💚Worms💚 Selbstândiges Herbalife Mitglied💚
+      Evli 👨‍👩‍👧‍👦 ürün odaklı değil sonuç odaklı çalışıyoruz 💚Worms💚 Selbstândiges Herbalife Mitglied💚 Whats App üzeri Reklam ve İş Birliği için 📩 👇🏻👇🏻👇🏻
     location: "Turkey"
-    followers: 32581
-    engagement: 209
-    commentsToLikes: 0.065258
+    followers: 53299
+    engagement: 123
+    commentsToLikes: 0.050538
     id: ckf5vwsxfq5sc0j23jlyemas5
     verified: false
-    hashtags: "#herbalifedeutschland, #istanbul, #tiktok, #polatl"
-  - username: "gizemozdilli"
+    hashtags: "#gesundessen, #acaba, #tiktoktu, #fransadakitu"
+  - username: "wellnesscoach_diljin"
     fullname: >-
-      Gizem Özdilli
+      • HERBAL WELLNESS COACH •
     bio: >-
-      Digital pr @umutakyuzzz ( draw-b medya) 📕AlfaKitap❤#Gizeminmutfakaşkı #Aşkınlezzeti @alfakitap
+      👩🏻‍🎓Gazi Üniversitesi 🎉 🧘🏻‍♀️İdeal kilona ulaş 🧚🏻‍♀️ 🍪Sağlıklı fit tarifler🍹 🧖🏻‍♀️Cilt Bakımı 🛁 🐣Kişiye özel program ve takip 📝 🔻Bana ulaşmak için 🔻
     location: "Turkey"
-    followers: 152096
-    engagement: 225
-    commentsToLikes: 0.091027
-    id: ck0vvmm8upsiz0i19rxixxdt1
-    verified: true
-    hashtags: "#bak, #karde, #medical, #day"
+    followers: 53670
+    engagement: 15
+    commentsToLikes: 0.005311
+    id: ck9hcmag2m0c10j78ppw44u8b
+    verified: false
+    hashtags: "#nosugar, #kahvalt, #herbalifeskin, #herbalifeliftoff"
   - username: "neslisahduzyatan"
     fullname: >-
       Neslisah Alkoclar
     bio: >-
-      @beyzisah info@alphafilmpro.com
+      info@alphafilmpro.com
     location: "Turkey"
-    followers: 554563
-    engagement: 649
-    commentsToLikes: 0.010701
+    followers: 585215
+    engagement: 408
+    commentsToLikes: 0.010095
     id: ck1365vek4w9n0i19lhvd8oae
     verified: true
-    hashtags: "#vitd, #wellness, #memekanserifark, #healthyskin"
-  - username: "profdrismettamer"
+    hashtags: "#selfcare, #youarewhatyoueat, #wellness, #healthylifestyle"
+  - username: "gloriavenz"
     fullname: >-
-      İsmet Tamer
+      Gloria🦂
     bio: >-
-      İstinye Üniversitesi Tıp Fakültesi Liv Hospital afs’86 Cerrahpaşa’92 #sağlıklıyaşam #sağlıklıbeslenme #estetik#bütünselsağlık#antiaging#sporcusağlığı
+      For Collabs: gloriaventseslavova@gmail.com ☆ Fitness ☆ Stretching ☆ Pole dance ☆ Love animals 🌱❣️☆ Visual communication 👇🏻 @glovisuals.studio
     location: "Turkey"
-    followers: 20034
-    engagement: 449
-    commentsToLikes: 0.031425
-    id: ck8td1yma1iwa0j780nm7j63d
+    followers: 30315
+    engagement: 263
+    commentsToLikes: 0.024133
+    id: ck139eygpkzj70i19t08gn15h
     verified: false
-    hashtags: "#nutrition, #diyet, #hipertansiyon, #doktorlar"
-  - username: "draytackaradag"
-    fullname: >-
-      Aytac Karadag
-    bio: >-
-      Fonksiyonel Tıp, Bütüncül Tıp, İç Hastalıkları (Dahiliye) Uzmanı ONLİNE RANDEVU / DANIŞMANLIK HİZMETİ *05529505151*@officialnurullahgunes *
-    location: "Turkey"
-    followers: 31088
-    engagement: 506
-    commentsToLikes: 0.074444
-    id: ck15s8k1abrqw0i19xza1ewkl
-    verified: false
-    hashtags: "#draytackaradag, #detoks, #detox, #corona"
-  - username: "drgurkankubilay"
-    fullname: >-
-      Dr Gürkan Kubilay
-    bio: >-
-      İç Hast. Uzm. KızBabası❤️ 👍Obezite Tedavisi 👍İnsülin Bıraktırma(T2DM) 👍Probiyotik Beslenme 👍Yedire Yedire Zayıflatma ☎️02167090708☎️02125566071
-    location: "Turkey"
-    followers: 109493
-    engagement: 231
-    commentsToLikes: 0.049718
-    id: ck8sx70szgd8g0j782rpbnoym
-    verified: false
-    hashtags: "#ins, #onlinediet, #wellness, #gurkankubilay"
-  - username: "prof.dr.osmanmuftuoglu"
-    fullname: >-
-      Prof.Dr.Osman Müftüoğlu
-    bio: >-
-      İç Hastalıkları Uzmanı Yaşasın Hayat Kliniği ☎️ 0212 230 74 00
-    location: "Turkey"
-    followers: 1009622
-    engagement: 147
-    commentsToLikes: 0.023264
-    id: ck5q9y5zodlr20i11vk7e2in9
-    verified: true
-    hashtags: ""
+    hashtags: "#girlswhotravel, #girlsjustwannahavefun, #bikiniseason, #love"
 ---

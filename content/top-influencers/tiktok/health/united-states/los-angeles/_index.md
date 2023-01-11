@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Los Angeles In 2022
+title: Top 10 Health TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top health TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #health #losangeles #funny.
+  Find top health TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #comedy #losangeles #health.
 platform: TikTok
-hits: 43
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 43 TikTok influencers like this in Los Angeles, United States for you to contact.
+hits: 51
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 51 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "tiktokpharmacist"
+  - username: "_mishazo"
     fullname: >-
-      John Probst, PharmD
+      Michelle DeShazo
     bio: >-
-      Public Health Pharmacist 📍Los Angeles, CA Educator | Clinician | Advocate 🌎✌🏻
+      actor and open book... discount codes below!!
     location: "United States"
-    followers: 43400
-    engagement: 466
-    commentsToLikes: 0.119974
-    id: ckailsx74pnmc0i78biv4fvjg
+    followers: 93500
+    engagement: 1324
+    commentsToLikes: 0.033269
+    id: ckb9q7nlilvjg0j23s918vmdk
     verified: false
-    hashtags: "#homecooking, #pharmd, #med, #tiktokdoc"
-  - username: "natashaxoriental"
-    fullname: >-
-      Oriental 💮
-    bio: >-
-      Bangkok 🔄 Los Angeles mental health advice ❤️
-    location: "United States"
-    followers: 4003
-    engagement: 1706
-    commentsToLikes: 0.018220
-    id: ck8qo56hwxix30j78w16hqq9b
-    verified: false
-    hashtags: "#fyp, #amongus, #bipolar, #boyfriend"
-  - username: "seamstressbae"
-    fullname: >-
-      Unique
-    bio: >-
-      Fashion designer Custom Seamstress Hoping to inspire you to follow your dreams
-    location: "United States"
-    followers: 72700
-    engagement: 867
-    commentsToLikes: 0.016521
-    id: ckdbwcrdbdxa80j23x252qij2
-    verified: false
-    hashtags: "#makeup, #seamstressbae, #custommade, #custom"
-  - username: "mykielikesit"
-    fullname: >-
-      Mykie Rogers
-    bio: >-
-      Lover of life - Join me! 🌇 LA Native // 🌵 Dad // 🦥 Nature Lover
-    location: "United States"
-    followers: 9077
-    engagement: 610
-    commentsToLikes: 0.029359
-    id: ckbf2bh3gp76t0j23xzukn3l3
-    verified: false
-    hashtags: "#iloveyou, #daddy, #healthy, #beach"
+    hashtags: "#learnontiktok, #period, #justgirlythings, #stitch"
   - username: "jamesdeveney"
     fullname: >-
       James Deveney
     bio: >-
       Hot-Takes | Always Yelling Co-Host of 🔥Raiders of the Lost Podcast🔥
     location: "United States"
-    followers: 82900
-    engagement: 1286
-    commentsToLikes: 0.053873
+    followers: 81400
+    engagement: 1255
+    commentsToLikes: 0.049784
     id: ck8hrxj8zaq0q0j78hi4qudcf
     verified: false
-    hashtags: "#cnn, #fox, #fyp, #boston"
-  - username: "derekandmimi"
+    hashtags: "#comedy, #boston, #newengland, #cnn"
+  - username: "dr.kojosarfo"
     fullname: >-
-      Derek and Mimi
+      Kojo Sarfo
     bio: >-
-      The anti-traditional family 📍Los Angeles, CA We reply on Instagram!
+      Psych DNP Mental Health Forensic Psych info@kojosarfo.com 📍 Los Angeles, CA
     location: "United States"
-    followers: 601000
-    engagement: 1606
-    commentsToLikes: 0.028775
-    id: ckb9hwkk47xrl0j23qw3mxvjn
+    followers: 947100
+    engagement: 1031
+    commentsToLikes: 0.025201
+    id: ck8zasq912umf0j781i90x0v7
     verified: false
-    hashtags: "#dadsoftiktok, #funny, #derekandmimi, #over30"
-  - username: "kook.on.a.scoot"
+    hashtags: "#relationships, #trauma, #stitch, #losangeles"
+  - username: "whatyouneedtoknow"
     fullname: >-
-      Alex Awaida 
+      Geoff Plitt | Comedian
     bio: >-
-      Not your homie🛴🗡️ Dissidence USA-KookSoles🔌 Los Angeles🌇 1998🐣 2020 Edit⬇️
+      🙋‍♂️ Geoff Plitt. 🏠 Los Angeles 📺 TikTok's #1 Satirical News Show
     location: "United States"
-    followers: 20400
-    engagement: 1596
-    commentsToLikes: 0.020478
-    id: ckb18y4qbwvz30j23c40yjuc8
+    followers: 49300
+    engagement: 1143
+    commentsToLikes: 0.035496
+    id: ckbf9l9qd0kl20j23c8xkb6ud
     verified: false
-    hashtags: "#myart, #tiktokpartner, #learnontiktok, #sports"
-  - username: "doctor.jarrett"
+    hashtags: "#progressive, #news, #democrat, #science"
+  - username: "nick_norcia"
     fullname: >-
-      Dr. Jarrett Schanzer
+      Nick Norcia
     bio: >-
-      Instagram (150k) ⤴️ 📍Miami / NYC Health💉Humor💉Inspiration Anesthesia😷
+      📍Los Angeles | Follow me on insta for daily content IG: nick_norcia
     location: "United States"
-    followers: 150900
-    engagement: 846
-    commentsToLikes: 0.030527
-    id: ckdbs9wzgcgxv0j23tvaoyutk
+    followers: 233700
+    engagement: 1686
+    commentsToLikes: 0.019692
+    id: ckc911ac0qtq20j230xkg6cj8
     verified: false
-    hashtags: "#adhd, #foryoupage, #comedy, #fyp"
-  - username: "cuppinglosangeles"
+    hashtags: "#comedy, #gay, #fyp, #god"
+  - username: "sandraxcarolina"
     fullname: >-
-      Cupping Los Angeles
+      Sandra Carolina
     bio: >-
-      CuppingLosAngeles.com
+      Los Angeles food, fun & fits
     location: "United States"
-    followers: 35400
-    engagement: 271
-    commentsToLikes: 0.008492
-    id: ckav5sqb1cgkf0j23b2n7o7ny
+    followers: 116600
+    engagement: 997
+    commentsToLikes: 0.010661
+    id: ckbex39yxh16k0j23hhe2fn7u
     verified: false
-    hashtags: "#tik, #tiktoknurse, #cupping, #lymphaticdrainage"
-  - username: "k3chocolate"
+    hashtags: "#fyp, #sheingals, #shein, #familyrecipe"
+  - username: "sonagasparian_"
     fullname: >-
-      k3chocolate
+      SonaGasparian
     bio: >-
-      Instagram @ K3chocolate FaceBook & YouTube - K3chocolate 📍LA 🇺🇦🇨🇺 😀
+      Beauty Obsessed living in Los Angeles
     location: "United States"
-    followers: 372700
-    engagement: 1482
-    commentsToLikes: 0.016198
-    id: ckbf7ps4xxuv10j23gpicst1c
+    followers: 163100
+    engagement: 585
+    commentsToLikes: 0.017859
+    id: ck7znzfn1gcnz0j78g6c0voll
+    verified: true
+    hashtags: "#makeuptutorial, #beauty, #skincare, #makeup"
+  - username: "prunomarz"
+    fullname: >-
+      Josiah David
+    bio: >-
+      Windex for the Soul 👻/🐦: @PrunoMarz My Mental Health Discord Link 🦋↙️
+    location: "United States"
+    followers: 142400
+    engagement: 1402
+    commentsToLikes: 0.038973
+    id: ckd6ctmn154lk0j230n5m7h8o
     verified: false
-    hashtags: "#covid19, #lifehacks, #funny, #dancer"
+    hashtags: "#fyp, #prunomarz, #duet, #astrology"
+  - username: "kaileyelisemann"
+    fullname: >-
+      Kailey Mann
+    bio: >-
+      health & confidence coach beauty, snacks, life advice LA, CA IG: @kaileyeliseman
+    location: "United States"
+    followers: 183300
+    engagement: 772
+    commentsToLikes: 0.112258
+    id: ck8kexqyqbie40j783f6coxjb
+    verified: true
+    hashtags: "#snacks, #palmsprings, #grwm, #fyp"
+  - username: "jessicagolich"
+    fullname: >-
+      JessicaGolich 🏳️‍🌈
+    bio: >-
+      Welcome to Jessica’s 🌍🏳️‍🌈✌️ Love, Good Vibes, Vegan Life, Travel & Health
+    location: "United States"
+    followers: 118800
+    engagement: 553
+    commentsToLikes: 0.062348
+    id: ck8hk5rm6cjeo0j78s2q7szjd
+    verified: true
+    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
 ---

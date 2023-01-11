@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Peru In 2022
+title: Top 10 Fashion Instagram Influencers In Peru In 2023
 description: >-
-  Find top fashion Instagram influencers in Peru in 2022. Most popular hashtags: #publicidad #fashion #lima.
+  Find top fashion Instagram influencers in Peru in 2023. Most popular hashtags: #publicidad #model #fashionblogger.
 platform: Instagram
-hits: 98
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 98 Instagram influencers like this in Peru for you to contact.
+hits: 106
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 106 Instagram influencers like this in Peru for you to pitch.
 profiles:
+  - username: "taliaechecopar"
+    fullname: >-
+      Talía Echecopar
+    bio: >-
+      Fashion & Lifestyle Creator My Brand: @_inmaculada 📍Lima Mira la nueva colección de mi marca de ropa aquí ✨ ⬇️
+    location: "Peru"
+    followers: 143310
+    engagement: 82
+    commentsToLikes: 0.019542
+    id: ck138g9vgg35s0i19a2m2hipf
+    verified: true
+    hashtags: "#modaperu, #moda, #styleinspo, #navidadperu"
   - username: "antonellaleguab"
     fullname: >-
       Anto Legua B
     bio: >-
-      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle | MakeUp ✉ antonellaleguab@gmail.com 📌 Perú
+      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle ✉ antonellaleguab@gmail.com 📌 Perú
     location: "Peru"
-    followers: 82062
-    engagement: 128
-    commentsToLikes: 0.179357
+    followers: 79204
+    engagement: 39
+    commentsToLikes: 0.249237
     id: ck6u904yrupf20j711z5lc25b
     verified: false
-    hashtags: "#dknychallenge, #dknystories, #publicidad, #celebremostodo"
-  - username: "brendaserpaa"
-    fullname: >-
-      Brenda Serpa
-    bio: >-
-      Modelo, fashion lover✨ Sé única 🌸 Agency @creativa.studioo
-    location: "Peru"
-    followers: 129041
-    engagement: 327
-    commentsToLikes: 0.020154
-    id: ck134l2xswy8u0i19nfwmg1te
-    verified: false
-    hashtags: "#beach, #model, #sonrisa, #peru"
-  - username: "santiagosalazarph"
-    fullname: >-
-      SANTIAGO SALAZAR
-    bio: >-
-      Fotografo en Lima 🇵🇪 Fashion | Commercial Mis trabajos aquí ⏩ @sant.work
-    location: "Peru"
-    followers: 6054
-    engagement: 678
-    commentsToLikes: 0.061027
-    id: ck5c5xvn14ckw0i11bq58jxq9
-    verified: false
-    hashtags: "#archives, #californiaphotographers, #losangeles, #lamodel"
-  - username: "barbiechifa"
-    fullname: >-
-      Claudia Peschiera
-    bio: >-
-      🥠 Fashion, Laughs, Adventure, Food 🤍 Chief founder @aridaspirit 💪🏼 Activist @todosxparacas 📍Milano
-    location: "Peru"
-    followers: 27553
-    engagement: 275
-    commentsToLikes: 0.039268
-    id: ck5q3jv6fl3070i11vn353eho
-    verified: false
-    hashtags: "#roofclimbing, #loveitaly, #lanoviamaslinda, #salvemosparacas"
+    hashtags: "#bicentenario, #nyc, #maquillatepararegresarperu, #8m"
   - username: "alessandra.salazar"
     fullname: >-
       Alessandra Salazar
     bio: >-
       Estudiante de publicidad📍Based in Lima 🎒 Travel | Reader | Fashion | Lifestyle
     location: "Peru"
-    followers: 7618
-    engagement: 602
-    commentsToLikes: 0.052222
+    followers: 7133
+    engagement: 427
+    commentsToLikes: 0.079732
     id: ck8t1m991w8eu0j78q7w267lq
     verified: false
-    hashtags: "#bffs"
-  - username: "theholystyle"
+    hashtags: ""
+  - username: "santiagosalazarph"
     fullname: >-
-      𝐀𝐁𝐃𝐔𝐋 𝐄𝐅𝐅𝐈𝐎 | 𝐓𝐇𝐒
+      SANTIAGO SALAZAR
     bio: >-
-      FASHION | LIFESTYLE | PHOTOGRAPHY Creador digital de contenidos - Director creativo y fundador de @thscreate y @theholystyle_ #thslooks #menswear
+      Fotografo en Lima 🇵🇪 Fashion | Commercial Mis trabajos aquí ⏩ @sant.work
     location: "Peru"
-    followers: 34849
-    engagement: 162
-    commentsToLikes: 0.042211
-    id: ck5zlwduylhq00i1452aipxw3
+    followers: 5876
+    engagement: 631
+    commentsToLikes: 0.053719
+    id: ck5c5xvn14ckw0i11bq58jxq9
     verified: false
-    hashtags: "#outfit, #sun, #menstyle, #thslooks"
+    hashtags: "#photostudio, #makeup, #archives, #model"
+  - username: "callme.marla"
+    fullname: >-
+      ⛓🔗MarLa | Grungeblog🔗⛓
+    bio: >-
+      📍Perú 🇵🇪 ♡ Grunge Alt Fashion Blogger. ♡ Tiktok (+24k) callme.marla ♡ NUEVO VIDEO 👇🏼 botas demonia 🖤
+    location: "Peru"
+    followers: 16276
+    engagement: 1896
+    commentsToLikes: 0.106122
+    id: ckaotvcblxonl0i78lxs33q69
+    verified: false
+    hashtags: "#90sgrunge, #gothaesthetic, #grungeaesthetic, #grungeblog"
   - username: "c.salazarfoto"
     fullname: >-
       CARLOS SALAZAR
     bio: >-
       Fashion photographer DM for facetime shootings Retoucher Lima, Peru 🇵🇪📍
     location: "Peru"
-    followers: 18564
-    engagement: 278
-    commentsToLikes: 0.028351
+    followers: 18730
+    engagement: 285
+    commentsToLikes: 0.024171
     id: ck0vymztj4syd0i19mtqch916
     verified: false
-    hashtags: "#fashion, #model, #shot, #editorial"
-  - username: "callme.marla"
+    hashtags: "#shot, #fashion, #model, #editorial"
+  - username: "roksolanalima"
     fullname: >-
-      ⛓🔗MarLa | Grungeblog🔗⛓
+      Lima 🤍
     bio: >-
-      📍Perú. ♡ Grunge Fashion Blogger. ♡ Ambassador: @lamoda ✨ ♡ NUEVO VIDEO 👇🏼 Mi colección de zapatos 🖤
+      Lifestyle • Nails • Fashion ▪️My business : 📮@roksolanalima.cooperation ▫️ @lima.school ▫️ @lima.beautystudio . TelegramMusic 👇🏼
     location: "Peru"
-    followers: 12802
-    engagement: 1156
-    commentsToLikes: 0.156660
-    id: ckaotvcblxonl0i78lxs33q69
+    followers: 100127
+    engagement: 788
+    commentsToLikes: 0.084362
+    id: ck0u7d0fk4gh00i19vo4089y1
     verified: false
-    hashtags: "#altfashion, #grungestyle, #grungeaccount, #egirloutfit"
-  - username: "alecabani"
+    hashtags: "#lovestory, #loveislove, #relax, #style"
+  - username: "adiccionallabial"
     fullname: >-
-      𝐀𝐥𝐞𝐱 𝐂𝐚𝐛𝐚𝐧𝐢𝐥𝐥𝐚𝐬
+      Miss Mickey 💕Jonas Vloggers 😎🔥
     bio: >-
-      🌸|Healthy lifestyle 🔜| Fashion designer 🌻|Smart women can achieve everything 🌿@talezza.healthymarket 🍑@holypeach.peru
+      Espíritu libre 🌙✨ Amante del maquillaje , beauty vlogger & fashion victim 💄💋 Contacto.adiccionallabial@gmail.com💌 @adictosallabial Nuevo video👇😱
     location: "Peru"
-    followers: 9514
-    engagement: 673
-    commentsToLikes: 0.038067
-    id: ckap4eoqc71bz0i78zsybyr8w
-    verified: false
-    hashtags: "#nuncam, #estecongresonomerepresenta"
-  - username: "karlabanto"
+    followers: 261465
+    engagement: 205
+    commentsToLikes: 0.012688
+    id: ck6udnzznm6u60j71lk0fj1ql
+    verified: true
+    hashtags: "#newyear, #newhair, #newbitch, #nailinspo"
+  - username: "daniellaeacosta"
     fullname: >-
-      Karla Abanto Tantaleán
+      Daniella | Outfits y Datos
     bio: >-
-      Fashion • Beauty • Travel • Lifestyle Founder @mbtperu @kloset.pe 📩 kabantot@hotmail.com Adopta, no compres.🐾
+      ◽️Lifestyle l Fashion & Beauty ◽️Moda para todas l Tips & Datos l Emprendimiento INSCRÍBETE AL CAMPAFIT AQUÍ⬇️
     location: "Peru"
-    followers: 30157
-    engagement: 133
-    commentsToLikes: 0.105620
-    id: ck6u90jd7urwr0j714t9irs5n
+    followers: 66808
+    engagement: 218
+    commentsToLikes: 0.075659
+    id: ck13d1tzc38n30i19e4v4c15v
     verified: false
-    hashtags: "#revolveme, #klosetdesdecasa, #publicidad, #conceptualphotography"
+    hashtags: "#publicidad, #lifestyleblogger, #outfitinspo, #instareel"
+  - username: "jeremyiturri"
+    fullname: >-
+      J E R E M Y    I T U R R I
+    bio: >-
+      📍Lima, Perú | 👑 👑 Maestro/ Coreógrafo/ Bailarín 🎵 Maluma/Akon/Farina/Leslie Grace/Fonsi/Leslie Shaw 🧢 Fashion/ @gshockperuof 🤞🏽RICHFAM 🔰 COMBATE
+    location: "Peru"
+    followers: 98660
+    engagement: 117
+    commentsToLikes: 0.058515
+    id: ck5zrsugwx7560i14jps3clzb
+    verified: false
+    hashtags: "#teamgshockperu, #publicidad, #essentialshoodie, #btimeperu"
 ---

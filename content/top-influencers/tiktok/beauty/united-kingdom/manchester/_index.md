@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Manchester In 2022
+title: Top 10 Beauty TikTok Influencers In Manchester In 2023
 description: >-
-  Find top beauty TikTok influencers in Manchester in 2022. Most popular hashtags: #fyp #beauty #manchester #love.
+  Find top beauty TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #beauty #love #foryou.
 platform: TikTok
-hits: 14
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 14 TikTok influencers like this in Manchester, United Kingdom for you to contact.
+hits: 10
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Manchester, United Kingdom for you to contact.
 profiles:
   - username: "thednbboys"
     fullname: >-
@@ -13,72 +13,60 @@ profiles:
     bio: >-
       Dropping big stinkers for the dnb lovers Send vids to be featured 🤔🔥
     location: "United Kingdom"
-    followers: 7676
-    engagement: 757
-    commentsToLikes: 0.042253
+    followers: 7800
+    engagement: 785
+    commentsToLikes: 0.041935
     id: ck8z668pikvuk0j7801bj54ra
     verified: false
-    hashtags: "#jumpup, #raver, #foryoupage, #bassline"
-  - username: "skye_h111"
-    fullname: >-
-      Skye Henderson 
-    bio: >-
-      17, Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cam 🥰 Storms don’t last forever❤️
-    location: "United Kingdom"
-    followers: 25100
-    engagement: 1278
-    commentsToLikes: 0.026746
-    id: ck8oxds4m20zx0j78l24h7v9t
-    verified: false
-    hashtags: "#timefortenet, #viral, #foryoupage, #fyp"
+    hashtags: "#bassline, #jumpup, #dnb, #bass"
   - username: "whoissamman"
     fullname: >-
       SK
     bio: >-
       CEO of attracting Fobs
     location: "United Kingdom"
-    followers: 98900
-    engagement: 1124
-    commentsToLikes: 0.048238
+    followers: 98000
+    engagement: 1058
+    commentsToLikes: 0.045310
     id: ckbqm3evv74qr0j23xcdn7gxo
     verified: false
-    hashtags: "#pakistan, #desi, #pakistani, #arab"
-  - username: "mollhunterxoxo"
+    hashtags: "#travel, #desi, #pakistani, #arab"
+  - username: "taylorsprks"
     fullname: >-
-      Molly Hunter 
+      Taylor Sparks
     bio: >-
-      𝑀𝑜𝓁𝓁𝓎 / 21 ⇾ Model / Influencer ⇾ Beauty Queen 👑 OF link in insta bio 🤫
+      ✨ You deserve happiness too just sayin... ✨ 19 | Manchester Insta: @taylorsprks
     location: "United Kingdom"
-    followers: 17800
-    engagement: 407
-    commentsToLikes: 0.042814
-    id: ckbf62by7vf650j23ir724j7g
+    followers: 5987
+    engagement: 1623
+    commentsToLikes: 0.029010
+    id: ckcv9yq0yr2aj0j2302251bbp
     verified: false
-    hashtags: "#linkinmybio, #trend, #fyp, #boohoo"
+    hashtags: "#4youpage, #foryoupage, #makeup, #4u"
+  - username: "badgirlaesthetics_"
+    fullname: >-
+      BadGirlAesthetics
+    bio: >-
+      Aesthetics Based In Manchester Insta @badgirlaesthetics_ FILLERS&BOTOX 💉💉💉
+    location: "United Kingdom"
+    followers: 57200
+    engagement: 1122
+    commentsToLikes: 0.018645
+    id: cka5zg4a8mmj70i78bc8anlrv
+    verified: false
+    hashtags: "#work, #cecilhotel, #foryoupage, #mukbang"
   - username: "jordanrtw"
     fullname: >-
       Jordan Scott
     bio: >-
       🙎🏼‍♂️Jordan🙎🏼‍♂️ 📍Manchester, UK📍 🌍 Travelling the world 🌍 💍 @Samm6794
     location: "United Kingdom"
-    followers: 5300
-    engagement: 346
-    commentsToLikes: 0.026669
+    followers: 5235
+    engagement: 330
+    commentsToLikes: 0.023648
     id: ck80oe0abh6hk0j78zu7llw7p
     verified: false
-    hashtags: "#couplegoals, #phiphi, #animals, #australia"
-  - username: "hafsa_786x"
-    fullname: >-
-      hafsa_786x
-    bio: >-
-      180K DUDES⚡️ 💞LOVE YOU ALL💞 Biz 📧- hafsaworld3@gmail.com BUY JELLY FRUIT👇🏼
-    location: "United Kingdom"
-    followers: 181300
-    engagement: 1752
-    commentsToLikes: 0.024300
-    id: cka0t8u8goxup0i78tmw66txr
-    verified: false
-    hashtags: "#pov, #quotes, #charlidamelio, #makeup"
+    hashtags: "#folllowme, #loveontour, #thailand, #phiphi"
   - username: "pilotaadikhan"
     fullname: >-
       Aadi Khan
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.029094
     id: cka0tng9sqlud0i78o3m7g89v
     verified: false
-    hashtags: "#luton, #birmingham, #tiktokglobal, #airlinepilot"
+    hashtags: "#uae, #pakistani, #peshawar, #india"
   - username: "bullyeliteuk"
     fullname: >-
       Bully Elite Uk
     bio: >-
       Owner,breeder and trainer of American Bullys 😍🐕 UK based..Family not pets 😎🤙
     location: "United Kingdom"
-    followers: 67400
-    engagement: 862
-    commentsToLikes: 0.012114
+    followers: 66700
+    engagement: 858
+    commentsToLikes: 0.011534
     id: ck9eiwrs9ziil0j78j61xdz0j
     verified: false
-    hashtags: "#muscle, #family, #abkc, #houseoftiktok"
-  - username: "kvyxee"
+    hashtags: "#americanbully, #love, #marvel, #bully"
+  - username: "baldmuthatrucka"
     fullname: >-
-      Kc 
+      Ryan
     bio: >-
-      Staying Home and making TikToks 🇹🇭🇬🇧
+      🔞 Adult Humour 🔞 A parody of myself Can Beer and Takeaway food = Love ❤️
     location: "United Kingdom"
-    followers: 4064
-    engagement: 424
-    commentsToLikes: 0.033710
-    id: cka0nii5szx2b0i78onjb3kwx
+    followers: 11000
+    engagement: 1318
+    commentsToLikes: 0.189571
+    id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
-    hashtags: "#fyp, #makeup, #beauty, #couples"
-  - username: "jmpr5"
+    hashtags: "#fun, #kids, #tiktok, #uk"
+  - username: "joshwilliamson25"
     fullname: >-
-      Jmpr
+      Josh Williamson
     bio: >-
-      Click here to see my secret talent 😱 ⬇️
+      UK Horses and hunting is my thing if you hadn’t guessed!
     location: "United Kingdom"
-    followers: 4113
-    engagement: 1774
-    commentsToLikes: 0.113617
-    id: ckdhfgecwxbti0j2339id3xb8
+    followers: 4543
+    engagement: 1366
+    commentsToLikes: 0.011929
+    id: ck98r8ae19icu0j78xzhb3r1l
     verified: false
-    hashtags: "#imjustbait, #job, #truth, #london"
+    hashtags: "#cute, #foryoupage, #hunting, #shire"
+  - username: "elpeaks"
+    fullname: >-
+      Ellie Peaks
+    bio: >-
+      
+    location: "United Kingdom"
+    followers: 9120
+    engagement: 719
+    commentsToLikes: 0.013958
+    id: ckamnioee50dd0i78w0pia5dv
+    verified: false
+    hashtags: "#foryoupage, #university, #fyp, #summer"
 ---

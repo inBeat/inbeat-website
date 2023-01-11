@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Indonesia In 2022
+title: Top 10 Dancers TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top dancers TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryou #duet #tiktok.
+  Find top dancers TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #dance #foryoupage.
 platform: TikTok
-hits: 18
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 18 TikTok influencers like this in Indonesia for you to contact.
+hits: 24
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 24 TikTok influencers like this in Indonesia for you to collaborate.
 profiles:
+  - username: "hendrysaputra82"
+    fullname: >-
+      Hendry Saputra
+    bio: >-
+      Suka joged tp bukan dancer, suka nyanyi tp bukan penyanyi, smg terhibur 😁
+    location: "Indonesia"
+    followers: 38400
+    engagement: 1239
+    commentsToLikes: 0.149588
+    id: ckai6q5qqx63i0i7894h7f9co
+    verified: false
+    hashtags: "#sapasuruhlewatmulu, #salamsehatsalamsukses, #duet"
   - username: "vichaadhelia07"
     fullname: >-
-      SCTV💃Vicha Adhelia
+      SCTV🐓Vicha Adhelia
     bio: >-
       Ig vicha_adhelia Makassar dancer lipsing drama
     location: "Indonesia"
-    followers: 8285
-    engagement: 3233
-    commentsToLikes: 0.289431
+    followers: 9693
+    engagement: 3261
+    commentsToLikes: 0.246507
     id: ck9ewk6uen1pi0j78fyshvr85
     verified: false
-    hashtags: "#lazada1111, #tiktokmakassar, #sctvstory, #goyangkelapa"
+    hashtags: "#sctvstory, #beranda, #tiktokviraltrending, #tiktokviral"
+  - username: "syatya.29"
+    fullname: >-
+      Syatya
+    bio: >-
+      DANCER From Indonesia 🇲🇨
+    location: "Indonesia"
+    followers: 16800
+    engagement: 866
+    commentsToLikes: 0.065699
+    id: ckcpsn4b3mzjh0j23cl1fh84h
+    verified: false
+    hashtags: "#dpr, #syatyadance, #itsokaytobelebay, #yearontiktok"
   - username: "k1ng1van"
     fullname: >-
       KING IVAN KWANANTA
     bio: >-
       Dancer 🇮🇩 #k1ng1vanchallenge
     location: "Indonesia"
-    followers: 37800
-    engagement: 709
-    commentsToLikes: 0.040877
+    followers: 62000
+    engagement: 1099
+    commentsToLikes: 0.035506
     id: ckble2zws88ic0j23m9sj8kur
     verified: false
-    hashtags: "#icantstopme, #twice, #k1ng1van, #secretnumber"
+    hashtags: "#fyp, #ipop, #k1ng1van, #fypage"
+  - username: "yosikonazalafazid_"
+    fullname: >-
+      Yosiko Nazalafazid
+    bio: >-
+      IG: yosikonazalafazid_ Bangka Belitung🗾 Have Fun😂 Dancer🕺🏼
+    location: "Indonesia"
+    followers: 129100
+    engagement: 422
+    commentsToLikes: 0.064013
+    id: ck9ex6e39pwy00j78dc8jvre6
+    verified: false
+    hashtags: "#bangkabelitungisland, #dance, #tiktokindo, #dancer"
+  - username: "brandonlilhero"
+    fullname: >-
+      Lilhero.brandon
+    bio: >-
+      Dancers ✅ CEO Ai2 Surabaya ✅ #Heavybuckstylez 19 yo! Surabaya, Indonesia
+    location: "Indonesia"
+    followers: 588800
+    engagement: 623
+    commentsToLikes: 0.021322
+    id: ckc91ln7trorr0j23oysp7zew
+    verified: true
+    hashtags: "#bisalah, #bootywurkchallenge, #brandonlilherochallenge, #draft"
   - username: "sandrinaazzhra"
     fullname: >-
       Sandrina Mazaya
     bio: >-
-      Juara 1 IMB3 Dancer&Singer IG : Sandrinamazayya Youtube : Sandrina Azzahra
+      Artist , Dancer ,Singer IG : Sandrinamazayya Youtube : Sandrina Azzahra
     location: "Indonesia"
-    followers: 1400000
-    engagement: 352
-    commentsToLikes: 0.006772
+    followers: 2000000
+    engagement: 452
+    commentsToLikes: 0.005569
     id: ck9a39r0npoke0j78nr4zzktd
     verified: false
-    hashtags: "#fyp, #reviewproduk, #simpedesbisa, #prsvirtual2020"
+    hashtags: "#ritzglam, #ritzglamskincare, #fyp, #pemutihviral"
   - username: "sandrinamazayya"
     fullname: >-
       SandrinaMazayya
     bio: >-
       Dancer & Singer 💃🎤
     location: "Indonesia"
-    followers: 251900
-    engagement: 425
-    commentsToLikes: 0.006907
+    followers: 248700
+    engagement: 420
+    commentsToLikes: 0.006882
     id: ckc37jcy8weox0j23y40y8zyr
     verified: false
-    hashtags: "#terortiktok, #fyp, #doubletrouble, #foryourpage"
+    hashtags: "#doubletrouble, #terortiktok, #fyp, #foryourpage"
   - username: "adieztyfersa_"
     fullname: >-
       Adiezty Fersa
     bio: >-
       Singer & Dancer
     location: "Indonesia"
-    followers: 462800
-    engagement: 258
-    commentsToLikes: 0.005239
+    followers: 491200
+    engagement: 239
+    commentsToLikes: 0.004876
     id: ckcjj4jj8d6h40j2305ybm0a1
     verified: true
-    hashtags: "#weddingjakarta, #duet, #indomieinmypocket, #tiktokstagewithblackpink"
-  - username: "sanjna_mukherjee"
+    hashtags: "#jomblohalu, #prewedding, #weddingjakarta, #spacejakarta"
+  - username: "sarilinc"
     fullname: >-
-      Sanjna Mukherjee
+      SariLinc
     bio: >-
-      Ig @sanjna_mukherjee youtube Sanjna Mukherjee
+      💕BLINK💕 JISOO JENNIE ROSE LISA ALWAYS SUPPORT BLACKPINK
     location: "Indonesia"
-    followers: 9812
-    engagement: 748
-    commentsToLikes: 0.098555
-    id: ckb9q8rqwm1aa0j23yd1eh3bh
+    followers: 289300
+    engagement: 1264
+    commentsToLikes: 0.013710
+    id: ckc359n5yujc80j23twgptk3r
     verified: false
-    hashtags: "#hot, #sewabajuindia, #parodiindia, #penariindia"
-  - username: "zilmizola"
-    fullname: >-
-      zilmizola
-    bio: >-
-      FOLLOW ME ON INSTAGRAM @ZILMIZOLA Freelance guide in lombok island 🌴
-    location: "Indonesia"
-    followers: 81700
-    engagement: 511
-    commentsToLikes: 0.055570
-    id: cka6lohnx3zhw0i787r6iwxxc
-    verified: false
-    hashtags: "#lfl, #holidayresortlombok, #pool, #lombok"
-  - username: "..aa0627"
-    fullname: >-
-      Azmi Mimi
-    bio: >-
-      
-    location: "Indonesia"
-    followers: 2130
-    engagement: 755
-    commentsToLikes: 0.055449
-    id: ckcel71h5uxfp0j23ubhxv95h
-    verified: false
-    hashtags: "#fyp, #viralditiktok, #zoommyface, #lagiviralditiktok"
-  - username: "twins_meynow"
-    fullname: >-
-      Babby Twins_MeyNow
-    bio: >-
-      Real Account Twins_Maira-Naura Terima kasih sdh menyukai kami & dukungannya.
-    location: "Indonesia"
-    followers: 2600000
-    engagement: 719
-    commentsToLikes: 0.007967
-    id: ckdi6x2b38lro0j23vqxqp42m
-    verified: false
-    hashtags: "#winwithasmile, #awesomeisus, #beranda, #fyp"
-  - username: "brandonlilhero"
-    fullname: >-
-      Lilhero.brandon
-    bio: >-
-      Hi! Cuma mau joged di tiktok! #Heavybuckstylez 👊🏼 18 yo
-    location: "Indonesia"
-    followers: 452500
-    engagement: 669
-    commentsToLikes: 0.023576
-    id: ckc91ln7trorr0j23oysp7zew
-    verified: false
-    hashtags: "#throwback, #sicepatekspres, #1111, #loonawhynotchallenge"
+    hashtags: "#rose, #jennie, #birthday, #swag"
 ---

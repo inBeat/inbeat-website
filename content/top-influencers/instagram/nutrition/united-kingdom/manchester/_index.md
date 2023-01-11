@@ -1,72 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Manchester In 2022
+title: Top 10 Nutrition Instagram Influencers In Manchester In 2023
 description: >-
-  Find top nutrition Instagram influencers in Manchester in 2022. Most popular hashtags: #fitness #training #nutrition #motivation.
+  Find top nutrition Instagram influencers in Manchester in 2023. Most popular hashtags: #nutrition #healthylifestyle #fitness #healthyeating.
 platform: Instagram
-hits: 8
+hits: 5
 text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 8 Instagram influencers like this in Manchester, United Kingdom for you to collaborate.
+text_bottom: inBeat aggregates 5 Instagram influencers like this in Manchester, United Kingdom for you to work with.
 profiles:
-  - username: "akeemojuko"
+  - username: "danhotchocolate"
     fullname: >-
-      Akeem Ojuko | Cheekysport Ak
+      Danny Roberts
     bio: >-
-      #endsars 🇳🇬 - please sign below @cheekysportinsta Founder @wildpeanutfoods - 2 million units sold currently building @getscript.tv
+      🇬🇧🇺🇸 🥊 @UFC Fighter 📧 Business Enquiries: @yurijavier @bossmodelmanagement / Manchester @soulartistmgmt / NYC
     location: "United Kingdom"
-    followers: 20207
-    engagement: 468
-    commentsToLikes: 0.026062
-    id: ck6turtwli1hp0j71m6ho28cs
-    verified: false
-    hashtags: "#cheekysport, #superrep, #justiceforgeorgefloyd, #hackneymoves"
+    followers: 36677
+    engagement: 359
+    commentsToLikes: 0.024395
+    id: ck55ps7kzb9jq0i1190mmngd0
+    verified: true
+    hashtags: "#ukmma, #fighter, #ufc, #savage"
   - username: "_.naomifit_"
     fullname: >-
-      N A O M I 💪🏼|| Fitness Blogger
+      NAOMI ARMSTRONG // FITNESS
     bio: >-
-      25 || Manchester 🐝🇬🇧 ▪️PT in Training @origym_coe ▫️@gymshark Lover 🦈 • 𝐖𝐞 𝐚𝐫𝐞 𝐒𝐭𝐫𝐨𝐧𝐠 & 𝐰𝐞 𝐚𝐫𝐞 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 💪🏼
+      ➳ PT in training 📚 ➳ 26 | UK ♥ Your potential is 𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐞 ♥ @beaybl NAOMIFIT ⬇️🛍
     location: "United Kingdom"
-    followers: 5394
-    engagement: 592
-    commentsToLikes: 0.175273
+    followers: 5973
+    engagement: 353
+    commentsToLikes: 0.143158
     id: ckaospetishrs0i78ym7428rz
     verified: false
-    hashtags: "#gymsharktrain, #fitnesslifestyle, #gymsharkwomen, #training"
-  - username: "hdidancecamp"
+    hashtags: "#newpost, #fitnessuk, #fitfamuk, #gsfamily"
+  - username: "eatswithamy_x"
     fullname: >-
-      HDI Dance Camp
+      Amy 🍭Food 🇬🇧 Newcastle/Mcr
     bio: >-
-      UK’s leading dance camps, intensives & workshops. UK SUMMER CAMP LONDON 8-15 AUG 2020 / MANCHESTER 15-20 AUG 2020 Mother Company @soaruk HDI🇬🇧🇦🇺🇮🇱
+      💕23 ~ Student 💕 ✨Just your average girl eating a lot✨ 📍North East ~ Currently Darlo based📍 📥 DM/email for enquiries/collabs ~ eatswithamy1@gmail.com📥
     location: "United Kingdom"
-    followers: 20057
-    engagement: 91
-    commentsToLikes: 0.019952
-    id: ck0u11f1nvfcl0i19kimeqf26
+    followers: 10871
+    engagement: 253
+    commentsToLikes: 0.070776
+    id: ck6uaj1pp3u9t0j71yi28j8pn
     verified: false
-    hashtags: "#hdi2016, #hdisummercamp, #hdidancecamp, #manchester"
-  - username: "lpresi145"
-    fullname: >-
-      Lerone Murphy
-    bio: >-
-      ▪️ @ufc Featherweight ▪️M-T-T ▪️Manchester,England ▪️THROUGH EVERY DARK NIGHT, THERES A BRIGHTER DAY AFTER 💫
-    location: "United Kingdom"
-    followers: 17941
-    engagement: 543
-    commentsToLikes: 0.031024
-    id: ck5c6fnzq5cag0i111x2z0e60
-    verified: true
-    hashtags: "#workout, #gym, #mma, #gymmotivation"
-  - username: "eatwellwithgabs"
-    fullname: >-
-      Gabs
-    bio: >-
-      👩🏼 @gabyrishover98 🥗 Healthy foodie based in London 💌 DM me to collab! 💜 Use my code Gabs15 for 15% off @fuel10k and Gabs10 for 10% off @nuzest_europe
-    location: "United Kingdom"
-    followers: 5222
-    engagement: 375
-    commentsToLikes: 0.127357
-    id: ck8syskktlug90j78x1kebikq
-    verified: false
-    hashtags: "#healthybreakfast, #acaibowls, #veganrecipes, #oats"
+    hashtags: "#porridgebowl, #ukblogger, #oats, #breakfasttime"
   - username: "jordanthomaskarate"
     fullname: >-
       Jordan Thomas
@@ -78,53 +54,77 @@ profiles:
     commentsToLikes: 0.028085
     id: ck5zo4ha1pqs90i145k0hys30
     verified: false
-    hashtags: "#lifestyle, #opro, #coronavirus, #adidaskarate"
-  - username: "chiara_pugliesi"
+    hashtags: "#adidaskarate, #karate, #inspired, #motivation"
+  - username: "akeemojuko"
     fullname: >-
-      Chiara Pugliesi
+      Akeem Ojuko
     bio: >-
-      🍑Natural booty @bma_models 👩🏻‍🎓 PT qualification @thefitnessgrp 🏋🏽‍♀️ @nothingtoprove.official athlete 📖 GLUTE GUIDES available here ⬇️🍑
+      founder @wildpeanutfoods - 2 million units sold - 3,500+ stores currently building @getscript.tv - decentralised film + tv (I produce content too)
     location: "United Kingdom"
-    followers: 391103
-    engagement: 297
-    commentsToLikes: 0.017022
-    id: ck6u88mdxq2pb0j71mzspii4h
+    followers: 20346
+    engagement: 462
+    commentsToLikes: 0.025869
+    id: ck6turtwli1hp0j71m6ho28cs
     verified: false
-    hashtags: "#pt, #bodypositivity, #resistancetraining, #weights"
-  - username: "robbahollow"
+    hashtags: "#cheekysport, #superrep, #niketraining, #hackneymoves"
+  - username: "amanda_strachan"
     fullname: >-
-      Robbahollow
+      AMANDA STRACHAN
     bio: >-
-      🎤Manny Way🎧 🎳still doing wrong 4 da right reasons #MGMC 🔊Producers send beats 2 beats4Robbahollow@gmail.com 🎯 📢 'HARD IN THE TRAP' OUT NOW👇👇👇
+      Everything is more than what we see 👁 Clean Beauty | Rituals | Mindfulness 🧘🏼‍♀️ Ayurvedic Wisdom & Nutrition 🌱
     location: "United Kingdom"
-    followers: 15753
-    engagement: 260
-    commentsToLikes: 0.108670
-    id: ck5hm5xbwlepm0i11b7ql9m48
+    followers: 146707
+    engagement: 401
+    commentsToLikes: 0.014126
+    id: ck0vv2h8dn8kb0i199rg3n3qx
     verified: false
-    hashtags: "#freestyle, #workmode, #hardinthetrap, #grmdaily"
+    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
+  - username: "jacobcollier"
+    fullname: >-
+      Jacob Collier
+    bio: >-
+      Quester of delicion and nutrition ☃️
+    location: "United Kingdom"
+    followers: 1971478
+    engagement: 783
+    commentsToLikes: 0.006086
+    id: ck0vy477k25qn0i19tjgji8cx
+    verified: true
+    hashtags: "#15, #19, #23"
+  - username: "roarfitnessgirl"
+    fullname: >-
+      Sarah Lindsay
+    bio: >-
+      •3x Olympian •Owner @roarfitnessldn gyms 🇬🇧 🇦🇪 •Founder @roarclasses •Sports Pundit @bbc •Personal Trainer •Nutrition coach •Public Speaker
+    location: "United Kingdom"
+    followers: 90402
+    engagement: 117
+    commentsToLikes: 0.083805
+    id: ck5px3kjrpxhe0i11y2wwn406
+    verified: true
+    hashtags: "#positivemindset, #personaltrainer, #fitness, #dubai"
+  - username: "ciaralondon"
+    fullname: >-
+      BODY BY CIARA
+    bio: >-
+      London 📍 @bodybyciaraapp Online Training & Nutrition📱 @bodybyciarahq Gym & Real Life Training🏠 ⬇️LINKS TO EVERYTHING⬇️
+    location: "United Kingdom"
+    followers: 132382
+    engagement: 127
+    commentsToLikes: 0.435709
+    id: ck6tnvx80aokp0j71yfzhdj21
+    verified: false
+    hashtags: ""
   - username: "jodiewood_"
     fullname: >-
       Jodie Matthews (Lawson-Wood)
     bio: >-
       Fashion, Beauty & Lifestyle MSc Nutrition Work enquiries ~ influencers@andrea.ie Shop my jewelry line
     location: "United Kingdom"
-    followers: 58206
-    engagement: 491
-    commentsToLikes: 0.360314
+    followers: 72179
+    engagement: 457
+    commentsToLikes: 0.035153
     id: ck5c301niybu70i11uia8230y
     verified: true
-    hashtags: "#mazda, #shopirish, #sp, #supportirish"
-  - username: "hannahmaysouthwood"
-    fullname: >-
-      Hannah May Southwood
-    bio: >-
-      ◾️Online Strength & Nutrition Coach ◾️ @ryderwear athlete • Code HANNAH10 ◾️57 kg Powerlifter ◾️Owner @conquercoaching ◾️DM/Email for Online Coaching
-    location: "United Kingdom"
-    followers: 82340
-    engagement: 349
-    commentsToLikes: 0.049355
-    id: ck6tooa13f65j0j71jju6o3ez
-    verified: false
-    hashtags: "#teamryderwear, #ryderwear, #conquercoaching, #fitpregnancy"
+    hashtags: "#puenteromano, #marbella, #couple, #outfitinspiration"
 ---

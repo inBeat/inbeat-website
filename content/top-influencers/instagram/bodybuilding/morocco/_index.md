@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Morocco In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Morocco In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Morocco in 2022. Most popular hashtags: #fitness #motivation #bodybuilding #workout.
+  Find top bodybuilding Instagram influencers in Morocco in 2023. Most popular hashtags: #fitness #bodybuilding #motivation #love.
 platform: Instagram
-hits: 13
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 13 Instagram influencers like this in Morocco for you to pitch.
+hits: 8
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 8 Instagram influencers like this in Morocco for you to pitch.
 profiles:
   - username: "chaymae_fit"
     fullname: >-
@@ -13,118 +13,94 @@ profiles:
     bio: >-
       •fitness & lifestyle •sport & musculation
     location: "Morocco"
-    followers: 10500
-    engagement: 985
-    commentsToLikes: 0.057199
+    followers: 11550
+    engagement: 999
+    commentsToLikes: 0.049856
     id: ckf5wnyajsorm0j239kfgok1n
     verified: false
-    hashtags: "#agadir, #nevergiveupyourdreams, #moroco, #agadirmarina"
-  - username: "espada.yassinee"
-    fullname: >-
-      Yassine Moussaoui
-    bio: >-
-      _2eme: @espadayassinephotography _ambassador : @newchic_asia -📷ArtPhotography -👔Fashion blogger -🏋️‍♂️Fitness - 🤝Collab Dm Me - 🇲🇦 Morocco/Tanger
-    location: "Morocco"
-    followers: 89588
-    engagement: 252
-    commentsToLikes: 0.042663
-    id: ck6uevi25tbae0j714d36cpnl
-    verified: false
-    hashtags: "#yellowtshirt, #motivation, #fitnessmotivation, #dapperman"
-  - username: "ayoubfitt"
-    fullname: >-
-      Ayoub El Azri / coach
-    bio: >-
-      My PURPOSE is my fire 🔥sponsored by @afleteathletics & @paraflorida 📚 ENS CASA " Education physique et sportive " 💪 Natural body 🌍 Online trainer 📩📩
-    location: "Morocco"
-    followers: 21129
-    engagement: 474
-    commentsToLikes: 0.037449
-    id: ck5hp9cjjqyxj0i11w3vu8typ
-    verified: false
-    hashtags: "#getfit, #instagood, #diet, #cardio"
-  - username: "esirawi_aya"
-    fullname: >-
-      ALAMI AYA
-    bio: >-
-      Follow ➡ @cid.marie22 ❤🥰 ​ 👇😱👇 @cid.marie22
-    location: "Morocco"
-    followers: 762630
-    engagement: 41
-    commentsToLikes: 0.025955
-    id: ck9hblb22hc530j78i2603xya
-    verified: false
-    hashtags: "#meknes, #algerie, #alger, #tlemcen"
-  - username: "chakouk_mohammed"
-    fullname: >-
-      Mohammed"THE SERIOUS" Chakouk🌐
-    bio: >-
-      From🇲🇦to 🌎 •IFBB Elite Pro®️ •19 Mediterranean Championship OVerall Winner🥇 •19 Moroccan Championship🥈 •🎽@afleteathletics Athlete •📮OnlineCoaching
-    location: "Morocco"
-    followers: 8007
-    engagement: 1373
-    commentsToLikes: 0.024993
-    id: ck5hp9d3jqyys0i112t3w7hr1
-    verified: false
-    hashtags: "#stayfocused, #npc, #torontoproshow, #trainforlife"
-  - username: "ay_assaidi84"
-    fullname: >-
-      𝘼 𝙔 𝙊 𝙐 𝘽 🇲🇦 𝘼 𝙎 𝙎 𝘼 𝙄 𝘿 𝙄 ⵣ
-    bio: >-
-      𝑀𝑜𝓇𝑜𝒸𝒸𝑜,𝒩𝒶𝒹𝑜𝓇 ꨄ📍ⵣ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💻 𝙭3 𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙊𝙛 𝙈𝙤𝙧𝙤𝙘𝙘𝙤🥇 ᴍᴏʀᴏᴄᴄᴏ ɴᴀᴛɪᴏɴᴀʟ ᴋᴀʀᴀᴛᴇ ᴛᴇᴀᴍ 🇲🇦 𝙖𝙨𝙨𝙖𝙞𝙙𝙞𝙖𝙮𝙤𝙪 👻
-    location: "Morocco"
-    followers: 5794
-    engagement: 1344
-    commentsToLikes: 0.030454
-    id: ck8t9cgdcnlb10j784o6v3198
-    verified: false
-    hashtags: "#vscocam, #igers, #instadaily, #instagramhub"
-  - username: "mandri_larosa"
-    fullname: >-
-      🏅STREET WORKOUT KILLER.🏅
-    bio: >-
-      Hello my Friends i'm Mandri From Morocco and i'm Calisthenics & Street workout Pro★🏅❤️
-    location: "Morocco"
-    followers: 4152
-    engagement: 1697
-    commentsToLikes: 0.099303
-    id: ck9hborrjhsnv0j788vqto6b6
-    verified: false
-    hashtags: "#beastofstatic, #workout24, #beast, #calisthenics"
-  - username: "lesfitkho"
-    fullname: >-
-      FitKho
-    bio: >-
-      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
-    location: "Morocco"
-    followers: 20900
-    engagement: 541
-    commentsToLikes: 0.135702
-    id: ck5hp9bxsqywa0i11d9217mwu
-    verified: false
-    hashtags: "#beautiful, #picoftheday, #workout, #girl"
-  - username: "assil.amor"
-    fullname: >-
-      • Assil Amor  | أصيل عمور
-    bio: >-
-      •Personal trainer 🏋🏻‍♂️ •DOP / Filmmaker 📽 @theaaproduction •Content creator 🔮 • 📩 :amorassil25@gmail.com •LATEST VLOGG SUBSCRIBE👇🏻 🚨
-    location: "Morocco"
-    followers: 23416
-    engagement: 238
-    commentsToLikes: 0.021750
-    id: ck14ht85hc0je0i19k2oqy8av
-    verified: false
-    hashtags: "#style, #motorbike, #love, #biker"
+    hashtags: "#morocco, #fitnessgirl, #bodytransformation, #musique"
   - username: "ahmed_shokier"
     fullname: >-
       Ahmed  Shokier /أحمد شقير
     bio: >-
       🔮Online Coach🏋🏻‍♂️ 🌟👻Snapchat: ahmed_shokier👻
     location: "Morocco"
-    followers: 39610
-    engagement: 120
-    commentsToLikes: 0.049408
+    followers: 37444
+    engagement: 124
+    commentsToLikes: 0.058221
     id: ckaozg5kclqo50i786segmwz3
     verified: false
-    hashtags: "#sun, #goodday, #mornings, #beauty"
+    hashtags: "#hard, #goodnight, #sunrise, #happiness"
+  - username: "hassan_cobraa"
+    fullname: >-
+      Hassan🐍cobra
+    bio: >-
+      ⚡️bodyfitness🇲🇦 ⚡️fb⚡️hassan cobraa ⚡️Chaîne YouTube🎥👇
+    location: "Morocco"
+    followers: 17933
+    engagement: 628
+    commentsToLikes: 0.021301
+    id: ckf5tia2chvt70j23f3v4goj0
+    verified: false
+    hashtags: "#island, #beachlife, #bodybuilding, #summer"
+  - username: "mandri_larosa"
+    fullname: >-
+      🏅STREET WORKOUT KILLER.🏅
+    bio: >-
+      Coach ⚫️
+    location: "Morocco"
+    followers: 5829
+    engagement: 1324
+    commentsToLikes: 0.117601
+    id: ck9hborrjhsnv0j788vqto6b6
+    verified: false
+    hashtags: "#calisthenics, #thenx, #baristiworkout, #teamortizsw"
+  - username: "alibelabess"
+    fullname: >-
+      علي بلعباس
+    bio: >-
+      •𝙢𝙤𝙙𝙚𝙡 & 𝙖𝙘𝙩𝙤𝙧 •𝙄𝙣𝙛𝙡𝙪𝙚𝙣𝙘𝙚𝙧 . Traveler 🧳 📩𝐅𝐨𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 : 𝙖𝙡𝙞.𝙗𝙚𝙡𝙖𝙗𝙗𝙚𝙨𝙨@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 📍𝙢𝙤𝙧𝙤𝙘𝙘𝙤 🇲🇦
+    location: "Morocco"
+    followers: 352514
+    engagement: 171
+    commentsToLikes: 0.030938
+    id: ck9hcu0hvmyxn0j78g25nmnc3
+    verified: false
+    hashtags: "#bhfyp, #picoftheday, #photo, #pics"
+  - username: "abdelfattah.eloufir"
+    fullname: >-
+      Abdelfattah El Oufir
+    bio: >-
+      {وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ} •model 📩: abdelfatah.eloufir@gmail.com
+    location: "Morocco"
+    followers: 57922
+    engagement: 1285
+    commentsToLikes: 0.022602
+    id: ck0w15pjphouu0i19toaf5823
+    verified: false
+    hashtags: "#instamood, #me, #bestoftheday, #instagramhub"
+  - username: "chakouk_mohammed"
+    fullname: >-
+      Mohammed [THE SERIOUS]Chakouk🌐
+    bio: >-
+      •From🇲🇦To Da🌎 •Ifbb Elite Pro Champ | @afleteathletics Atlhete •DailyDose of Serious Motivation & Training Tips💡 •Online Coaching 📩#trainwithchak
+    location: "Morocco"
+    followers: 10296
+    engagement: 1164
+    commentsToLikes: 0.025144
+    id: ck5hp9d3jqyys0i112t3w7hr1
+    verified: false
+    hashtags: "#npcfigure, #art, #dreambig, #ifbb"
+  - username: "zouhairelkhaldaoui"
+    fullname: >-
+      زهير الخلداوي
+    bio: >-
+      .🇦🇪DUBAI📍 .🇲🇦Moroccan .🎓international certificat 🥇 .⏱COACH SPORTIF @tigerfitofficiel .🎓Sports & Fitness Instruction .🎓Muay thai"Thai massage"pro🇹🇭
+    location: "Morocco"
+    followers: 216099
+    engagement: 408
+    commentsToLikes: 0.009886
+    id: ck9wosdnp6est0j78blsbi1hp
+    verified: false
+    hashtags: "#beach, #travelphotography, #thailand, #life"
 ---

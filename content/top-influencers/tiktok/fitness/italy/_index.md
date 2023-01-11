@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Italy In 2022
+title: Top 10 Fitness TikTok Influencers In Italy In 2023
 description: >-
-  Find top fitness TikTok influencers in Italy in 2022. Most popular hashtags: #fitness #perte #fyp #allenamento.
+  Find top fitness TikTok influencers in Italy in 2023. Most popular hashtags: #fitness #allenamento #perte #personaltrainer.
 platform: TikTok
-hits: 132
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 132 TikTok influencers like this in Italy for you to collaborate.
+hits: 116
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 116 TikTok influencers like this in Italy for you to contact.
 profiles:
-  - username: "beatrice.finizii95"
+  - username: "stormy_seaa"
     fullname: >-
-      BEATRICE FINIZII
+      stormy_seaa
     bio: >-
-      ♦️Crea la TUA creazione ♦️ ➡️ig: B_FITNESS.COLLECTION⬅️ IG: LEFINIZIICREAZIONI
+      CEO:Fitness Saiyan Princess. ⬆️IG/YT⬆️ Collab:marinaia99@icloud.com ⬇️TWITCH⬇️
     location: "Italy"
-    followers: 7537
-    engagement: 923
-    commentsToLikes: 0.141071
-    id: ck8qh4xkj3jnk0j78guxuycy6
+    followers: 78400
+    engagement: 1243
+    commentsToLikes: 0.095751
+    id: ckagedcqqkine0i785q52mkz7
     verified: false
-    hashtags: "#harrypotteralways, #harrypotterita, #palestrato, #handmadenecklace"
-  - username: "falonvr"
+    hashtags: "#bassdadada, #video, #reaction, #instagramfilters"
+  - username: "emanuele_zzz"
     fullname: >-
-      Falon Vargas
+      emanuele_zzz
     bio: >-
-      🇨🇷 in 🇮🇹 Vice Campionessa IFBB Italia Fitness Model Instagram: Falonvargar
+      💚 🦋 ingst : emanuele_zz 🦋 🛸 Flips 🛸 👑 Fitness 👑 🌏 ITA 🌏
     location: "Italy"
-    followers: 63300
-    engagement: 1314
-    commentsToLikes: 0.029596
-    id: ckbkgv7kc8hgb0j23st9hrz2v
+    followers: 65600
+    engagement: 1063
+    commentsToLikes: 0.028478
+    id: ckdsuioyrpt1t0j23p7e2vz7f
     verified: false
-    hashtags: "#dance, #perte, #tiktokitalia, #puravida"
-  - username: "francesco_beautycoach"
-    fullname: >-
-      FrancescoBeautyCoach
-    bio: >-
-      💫 TikTok Trends LIVE: Make-up, sopracciglia perfette, skincare, fitness ✨🌟✨
-    location: "Italy"
-    followers: 13500
-    engagement: 1176
-    commentsToLikes: 0.247744
-    id: ckck5u04wqvuj0j23hqar0ei1
-    verified: false
-    hashtags: "#trend, #viral, #newtrend, #francescobeautycoach"
-  - username: "emmanuelpt.com"
-    fullname: >-
-      Emmanuel_pt 
-    bio: >-
-      Follow me on IG ☝🏻 John’s Daddy 🐕 Lifestyle and Fitness 👇🏻New workout
-    location: "Italy"
-    followers: 95100
-    engagement: 570
-    commentsToLikes: 0.060945
-    id: ckb9id1r48kc50j23w6pjqysr
-    verified: false
-    hashtags: "#personaltrainer, #imparacontiktok, #ironia, #trend"
+    hashtags: "#allenamento, #ginnasticaartistica, #roma, #piscina"
   - username: "dragoneddyow"
     fullname: >-
       DragonEddy
     bio: >-
       Asian Boy, Fitness Addict 💪 Pro Player and Twitch Streamer 🎮👾 Follow me on IG
     location: "Italy"
-    followers: 4825
-    engagement: 1035
-    commentsToLikes: 0.045100
+    followers: 4766
+    engagement: 1021
+    commentsToLikes: 0.044017
     id: cka0yn1gcbvux0i7827on5agz
     verified: false
-    hashtags: "#gymmotivation, #fyp, #wasian, #plankchallenge"
+    hashtags: "#asianboy, #homegym, #iorestoacasa, #smile"
   - username: "gionata_triplaa_system"
     fullname: >-
       Gionata Raffaelli
     bio: >-
       Esperto di fitness creatore del metodo TRIPLA A SYSTEM. ▶️ Aggiungimi su IG
     location: "Italy"
-    followers: 76300
-    engagement: 371
-    commentsToLikes: 0.073279
+    followers: 82900
+    engagement: 315
+    commentsToLikes: 0.089832
     id: ckc7zjtwv18ub0j23jef9xqv6
     verified: false
-    hashtags: "#perte, #upperbodyworkout, #fitnesstrainer, #bodytransformation"
-  - username: "matteo.paolini.88"
+    hashtags: "#perte, #allenamento, #manigliedellamore, #dimagrire"
+  - username: "francesca.pezzano"
     fullname: >-
-      Matteo Paolini
+      𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
     bio: >-
-      Fitness & food lover 🇮🇹Italian athlete🇮🇹 ⬇️My Instagram for more⬇️
+      Fitness lifestyle 𝗢𝗻𝗹𝗶𝗻𝗲 & 𝗟𝗶𝘃𝗲 𝗖𝗼𝗮𝗰𝗵𝗶𝗻𝗴 📍Milano
     location: "Italy"
-    followers: 427000
-    engagement: 1051
-    commentsToLikes: 0.006438
-    id: ckc30kog0r9g60j23d6ll9w6n
+    followers: 57500
+    engagement: 872
+    commentsToLikes: 0.012343
+    id: ck8vsi512doq90j78h4cdonym
     verified: false
-    hashtags: "#perte, #foryoupage, #sport, #fitnessmotivation"
+    hashtags: "#fitness, #bikinifitness, #bodybuilding, #fit"
   - username: "federicocorvi"
     fullname: >-
       Federico
     bio: >-
       PRO FREERIDE ATHLETE SPORT // FITNESS // TRAVEL Instagram: @federicocorvi 🙏🏻
     location: "Italy"
-    followers: 16400
-    engagement: 565
-    commentsToLikes: 0.020972
+    followers: 16500
+    engagement: 590
+    commentsToLikes: 0.019139
     id: ck9dx2ho7rjgu0j78qcy5v7p4
     verified: false
-    hashtags: "#ski, #mountain, #winter, #skifreeride"
-  - username: "deborahfashionsport"
-    fullname: >-
-      Deborah Spinelli
-    bio: >-
-      Triathlon | Fitness | Inspiration Instagram 👉🏻 @deborahfashionsport
-    location: "Italy"
-    followers: 4385
-    engagement: 303
-    commentsToLikes: 0.068829
-    id: cka6e6xx2alj30i784l33iico
-    verified: false
-    hashtags: "#italy, #fit, #italiangirl, #fitgirl"
+    hashtags: "#notviral, #ski, #skifreeride, #notforyou"
   - username: "sonia_dedo"
     fullname: >-
       Sonia Dedo
     bio: >-
       Torino, Italia 🇮🇹 01/01/98 ♑️ Fitness 💪🏼🍑 Seguitemi su Instagram ❤️
     location: "Italy"
-    followers: 58600
-    engagement: 664
-    commentsToLikes: 0.025524
+    followers: 59000
+    engagement: 762
+    commentsToLikes: 0.027828
     id: ck8w4fs458fik0j78day4fyol
     verified: false
-    hashtags: "#distorsione, #greenscreen, #miofuturoamore, #bulletproof"
+    hashtags: "#disney, #fitnessmotivation, #gymgirl, #fitnessitalia"
+  - username: "gigifarne"
+    fullname: >-
+      gigif_62
+    bio: >-
+      Fitness & Personal Trainer Model over 58 📸 enjoy life Live and let live ❤️ 📬
+    location: "Italy"
+    followers: 3043
+    engagement: 1345
+    commentsToLikes: 0.007374
+    id: ckcuzcxtjmqoj0j23nhqxhmtb
+    verified: false
+    hashtags: "#gigif, #shooting, #personaltrainer, #fashion"
+  - username: "emmanuelpt.com"
+    fullname: >-
+      EMMANUELPT
+    bio: >-
+      Follow me on IG ☝🏻 John’s Daddy 🐕 Lifestyle and Fitness 👇🏻New workout
+    location: "Italy"
+    followers: 126800
+    engagement: 533
+    commentsToLikes: 0.023215
+    id: ckb9id1r48kc50j23w6pjqysr
+    verified: false
+    hashtags: "#fit, #imparacontiktok, #fitnessitalia, #allenamento"
+  - username: "informaconfederica"
+    fullname: >-
+      Federica Saccone
+    bio: >-
+      Chi è Federica? 👉🏻 Educatrice alimentare e fitness coach 👇🏻👇🏻
+    location: "Italy"
+    followers: 51900
+    engagement: 676
+    commentsToLikes: 0.000000
+    id: ckb9bg05xxkoi0j23m5uqd730
+    verified: false
+    hashtags: "#fitipsbyfederica, #ledietenonservono, #informaconfederica, #informasenzadieta"
 ---

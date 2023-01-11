@@ -1,81 +1,117 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Nigeria In 2022
+title: Top 10 Beauty Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top beauty Instagram influencers in Nigeria in 2022. Most popular hashtags: #explorepage #explore #beauty.
+  Find top beauty Instagram influencers in Nigeria in 2023. Most popular hashtags: #blackgirlmagic #explorepage #naturalhairjourney #healthyhairjourney.
 platform: Instagram
-hits: 216
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 216 Instagram influencers like this in Nigeria for you to connect with.
+hits: 118
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 118 Instagram influencers like this in Nigeria for you to contact.
 profiles:
+  - username: "happycurlhappygirl"
+    fullname: >-
+      Rayna
+    bio: >-
+      curls • beauty • family • lifestyle 🤍 los angeles rayna@cfg.co 220K+ youtube subbies • 190K+ tik tok
+    location: "Nigeria"
+    followers: 155677
+    engagement: 808
+    commentsToLikes: 0.028313
+    id: ck5ccz2wbi91n0i11r5ffjtz4
+    verified: false
+    hashtags: "#marriedlife, #momlife, #ariesseason, #husbandandwife"
+  - username: "hameedah_xx"
+    fullname: >-
+      Hammed Hamidat Oyindamola
+    bio: >-
+      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
+    location: "Nigeria"
+    followers: 11437
+    engagement: 1361
+    commentsToLikes: 0.050829
+    id: ck5q769s9057p0i116byq3ebi
+    verified: false
+    hashtags: "#selflove, #happyvalentinesday"
+  - username: "beautyw.cat"
+    fullname: >-
+      Cat with a C
+    bio: >-
+      Beauty•Hair•Lifestyle Manifesting my reality ✨ Lover of all things beautiful 🌻 3 million+ YouTube views 45K+ subbies NEW VIDEO BELOW
+    location: "Nigeria"
+    followers: 15980
+    engagement: 1575
+    commentsToLikes: 0.079823
+    id: ck14gqruh6ksi0i19m3bsv1rt
+    verified: false
+    hashtags: "#lacefrontunit, #thecrayoncase, #lacefrontwigs, #ootd"
+  - username: "thejennjackson"
+    fullname: >-
+      Jenn Jackson | Influencer
+    bio: >-
+      ➿ Your favourite natural hair guru sharing beauty, skincare and lifestyle tips! ➿ 🎬YouTube: 135k+ 💌 jenn@itsjennj.com ✨ 👇🏽Get your self-care box👇🏽✨
+    location: "Nigeria"
+    followers: 30472
+    engagement: 406
+    commentsToLikes: 0.053406
+    id: ck14h8hhb92fw0i19a6im80f2
+    verified: false
+    hashtags: "#4chairchicks, #blacklifestyleblogger, #naturalhairloves, #4cnaturalhair"
   - username: "feyisoge"
     fullname: >-
       LAGOS MAKEUP ARTIST
     bio: >-
-      CONTENT CREATOR | BEAUTY INFLUENCER I DO MAKEUP COMMERCIALLY💕 PR/Paid Promo📥 thefeyisoge@gmail.com I DON’T MAKE REFUNDS🙂 T&C APPLY #makeupartist
+      CONTENT CREATOR | BEAUTY INFLUENCER COMMERCIAL MUA| TV/MOVIE MAKEUP ARTIST SISTER BRAND: @nailsbyfeyisoge 💅🏽💕 PR/Paid AD📥 thefeyisoge@gmail.com
     location: "Nigeria"
-    followers: 9334
-    engagement: 768
-    commentsToLikes: 0.123766
+    followers: 9894
+    engagement: 533
+    commentsToLikes: 0.115717
     id: ckaovei4549hz0i78ekofwlkz
     verified: false
-    hashtags: "#weddingdress, #birthdaygirl, #bellanaijaweddings, #entrepreneur"
-  - username: "istina.manners"
+    hashtags: "#makeupforwoc, #bridalglam, #muainlagos, #asoebibella"
+  - username: "fayette_nyehn"
     fullname: >-
-      K R I S T I N A
+      Fayette Faith Nyehn✨
     bio: >-
-      Natural Hair + Beauty Blogger 📍NYC | 🇭🇹 🇩🇪 YouTube: Kristina Manners NEW VIDEO 👇🏽
+      Natural Hair Care Tips | Hairstyle Tutorials | Beauty 📍Texas | 📩 : fayettecontact@gmail.com YouTube Channel ⬇️
     location: "Nigeria"
-    followers: 13462
-    engagement: 2216
-    commentsToLikes: 0.022191
-    id: ckaowjffe96u20i78rgwos8k5
+    followers: 36020
+    engagement: 496
+    commentsToLikes: 0.026082
+    id: ck15u82oylvku0i19f4aiz8vd
     verified: false
-    hashtags: "#hairdaily, #curls, #bigchophair, #makeup"
+    hashtags: "#type4naturals, #blackgirlhairstyles, #kinksuluv, #afrohair"
+  - username: "simplycrystalmichelle"
+    fullname: >-
+      Natural Hair Influencer
+    bio: >-
+      ✨Influencer | Natural Hair-Beauty ✨46K Subscribers/ 6Million Views YT ✨📧simplycrystalmichelle@gmail.com ✨Watch my latest video!
+    location: "Nigeria"
+    followers: 5909
+    engagement: 1034
+    commentsToLikes: 0.048578
+    id: ck5ztahic01kt0i147mksxoxx
+    verified: false
+    hashtags: "#protectivestyling, #hemakesmesmile, #shesaidyes, #amazingnaturalhair"
   - username: "belove_falana"
     fullname: >-
       Ayanfe Falana
     bio: >-
       THIS IS MY ONLY ACCOUNT 👌 Beauty Queen 👸🏿(MBGE2016/2017) Political Scientist👩‍🎓 Brand Ambassador @bismidcosmetics💄 @gpennyfoods Sc:👻belovefalana
     location: "Nigeria"
-    followers: 8823
-    engagement: 581
-    commentsToLikes: 0.079495
+    followers: 8785
+    engagement: 653
+    commentsToLikes: 0.082173
     id: ck5zwe33a5yw30i14zhlrnku5
     verified: false
-    hashtags: "#glow, #beauty, #model, #explorepage"
-  - username: "bulamabinta_"
-    fullname: >-
-      Bulama Binta Nkemakolam
-    bio: >-
-      🇳🇬🇳🇬 Inspiring and powerful contents Success|motivation|Business💰 Brand Influencer Twitter @bulamabinta_ CEO @beautybyybinta @shopwithbinta_
-    location: "Nigeria"
-    followers: 221947
-    engagement: 310
-    commentsToLikes: 0.029240
-    id: ckaowa03f808a0i78e2qhmhlu
-    verified: false
-    hashtags: "#endsars, #endpolicebrutality, #endswat"
-  - username: "nellyville01"
-    fullname: >-
-      Nelly
-    bio: >-
-      CEO : @nellyville_beautyplace 💁 @nellyville_skincare @freshchills_treats Insist on urself, never imitate 😜 PROUDLY DELTA👍👍👍. snapchat: nellyville9
-    location: "Nigeria"
-    followers: 9624
-    engagement: 918
-    commentsToLikes: 0.037623
-    id: ckap4v6rt90ql0i785au28lcb
-    verified: false
-    hashtags: "#cappadocia, #loved, #cheers, #happynewmonth"
+    hashtags: "#glow, #explorepage, #explore, #exploremore"
   - username: "dammy_adesh"
     fullname: >-
       Dammy Adesh
     bio: >-
       Nigerian 🇳🇬 Ex Beauty Queen👸🏽 Model 💄 Activist 💪🏾 Interview with Vanguard 👇 Snapchat:Dharmiz Business page : @thedammy_adesh
     location: "Nigeria"
-    followers: 16242
-    engagement: 333
-    commentsToLikes: 0.052127
+    followers: 15944
+    engagement: 376
+    commentsToLikes: 0.059257
     id: ck8swldxdehbj0j78v827guy6
     verified: false
     hashtags: ""
@@ -85,46 +121,10 @@ profiles:
     bio: >-
       •Beauty •Portrait •Weddings •Retoucher •Educator Bookings:📞+2348100164803 📧Abayomiakinaina@gmail.com Based In Lagos Nigeria
     location: "Nigeria"
-    followers: 26842
-    engagement: 326
-    commentsToLikes: 0.022299
+    followers: 30052
+    engagement: 259
+    commentsToLikes: 0.016879
     id: ck14i486qdkby0i191u4p8lck
     verified: false
-    hashtags: "#photography, #abujamakeupartist, #fashionphotography, #studio"
-  - username: "nnennao"
-    fullname: >-
-      ᑎᑎᗴᑎᑎᗩ OKOYᗴ
-    bio: >-
-      𝑾𝒊𝒇𝒆- 𝑴𝒖𝒎- 𝑭𝒐𝒖𝒏𝒅𝒆𝒓 @youtopiabeauty @youskin_beauty !🙏🏼𝑺𝒌𝒊𝒏𝒄𝒂𝒓𝒆 𝑬𝒙𝒑𝒆𝒓𝒕, 💁🏼𝑩𝒆𝒂𝒖𝒕𝒚𝑷𝒓𝒆𝒏𝒆𝒖𝒓....𝑶𝒏 𝒂 𝒋𝒐𝒖𝒓𝒏𝒆𝒓𝒚 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒗𝒆𝒓𝒔𝒊𝒐𝒏 𝒐𝒇 𝒎𝒚𝒔𝒆𝒍𝒇!💃🙏
-    location: "Nigeria"
-    followers: 40473
-    engagement: 207
-    commentsToLikes: 0.026619
-    id: ck5hri6t7ux5l0i11ai9ggtcs
-    verified: false
-    hashtags: "#thatbeautychic, #youtopiabeauty, #youskinbeauty, #nwoke"
-  - username: "yomi.visuals"
-    fullname: >-
-      FINE BOY PHOTOGRAPHER😎🇳🇬
-    bio: >-
-      Celebrity Photographer🤤 Beauty | Portrait | Retoucher Wedding page: @yv.weddings NO REFUND! Yomi Photography and Visuals art studio✨ #yomivisuals
-    location: "Nigeria"
-    followers: 11269
-    engagement: 599
-    commentsToLikes: 0.031051
-    id: ck8t6bjezczgq0j78wjy57fs5
-    verified: false
-    hashtags: "#vogueeko, #nigerian, #celebrityphotographer, #birthday"
-  - username: "lovethkaykay"
-    fullname: >-
-      Ekwosiobi Loveth
-    bio: >-
-      📍 Lagos, Nigeria 🎥 Content creator/ Youtuber Beauty | Lifestyle Gemini ♊️ 📧 | lovethkaykay@gmail.com
-    location: "Nigeria"
-    followers: 6868
-    engagement: 1155
-    commentsToLikes: 0.097793
-    id: ckap61lrre2od0i78c5t9su0q
-    verified: false
-    hashtags: "#exploremore, #explorepage, #explore, #nigerianyoutuber"
+    hashtags: "#wedding, #portraitmood, #red, #couples"
 ---

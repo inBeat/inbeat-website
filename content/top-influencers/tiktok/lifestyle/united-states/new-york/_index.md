@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In New York In 2022
+title: Top 10 Lifestyle TikTok Influencers In New York In 2023
 description: >-
-  Find top lifestyle TikTok influencers in New York in 2022. Most popular hashtags: #fyp #newyork #foryou #lifestyle.
+  Find top lifestyle TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #foryou #nyc.
 platform: TikTok
-hits: 39
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 39 TikTok influencers like this in New York, United States for you to pitch.
+hits: 38
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 38 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "emilyxinfinity"
-    fullname: >-
-      emilyxinfinity
-    bio: >-
-      25 • nyc
-    location: "United States"
-    followers: 27700
-    engagement: 1490
-    commentsToLikes: 0.152518
-    id: ckan6djy8jbv70i789gvgf1m0
-    verified: false
-    hashtags: "#biden2020, #nyccheck, #fyp, #adhd"
-  - username: "unknownparkour"
-    fullname: >-
-      The Unknown Project
-    bio: >-
-      IG-@unknownparkour NYC’s finest Just your friendly neighborhood Parkour team
-    location: "United States"
-    followers: 12500
-    engagement: 1408
-    commentsToLikes: 0.018135
-    id: ck9kf20no1fpo0j78dnpvzx0a
-    verified: false
-    hashtags: "#bail, #movement, #viral, #mirrorsedge"
-  - username: "growingupitalian"
-    fullname: >-
-      growingupitalian
-    bio: >-
-      ⬆️ Instagram (210k+)/ YouTube ⬆️ “THE ITALIAN HOUSE” CLICK LINK FOR MERCH🔽
-    location: "United States"
-    followers: 185500
-    engagement: 1354
-    commentsToLikes: 0.015077
-    id: ck92w3xe4szje0j78htnh967s
-    verified: false
-    hashtags: "#growingupitalian, #viral, #tiktokitaly, #foryou"
-  - username: "vincentjac"
-    fullname: >-
-      vincent 
-    bio: >-
-      
-    location: "United States"
-    followers: 57000
-    engagement: 2080
-    commentsToLikes: 0.040406
-    id: ck80nouyodode0j78hzz5flhq
-    verified: false
-    hashtags: "#meme, #spookyszn, #fyp, #halloween"
-  - username: "nattiescloset"
-    fullname: >-
-      Nattiescloset
-    bio: >-
-      More fashion inspo on IG @nattiescloset
-    location: "United States"
-    followers: 3583
-    engagement: 375
-    commentsToLikes: 0.076780
-    id: ckbf7yjehy8pk0j234r4qjv1k
-    verified: false
-    hashtags: "#foryou, #fallfashion, #foryoupage, #zara"
-  - username: "beautiful_wreck_"
-    fullname: >-
-      Today’sTrends
-    bio: >-
-      fashion🤍glam✨aesthetic☁️
-    location: "United States"
-    followers: 9656
-    engagement: 1730
-    commentsToLikes: 0.006476
-    id: ckbwimmx437p40j23iz8bfov1
-    verified: false
-    hashtags: "#shopping, #streetwear, #london, #home"
   - username: "soxsoul"
     fullname: >-
       _SOXSOUL _
     bio: >-
       Instagram Soxsoul Inquiries👇🏽 Soxsoul.666@gmail.com
     location: "United States"
-    followers: 533000
-    engagement: 1064
-    commentsToLikes: 0.020561
+    followers: 532700
+    engagement: 1074
+    commentsToLikes: 0.019270
     id: ck8kexmqdbh960j786rpvtn14
     verified: true
-    hashtags: "#newyorker, #pufik, #workout, #calisthenics"
-  - username: "chrisgallant30"
+    hashtags: "#motivation, #nyc, #parkour, #mimariela"
+  - username: "leepetropoulos"
     fullname: >-
-      Chris Gallant
+      Lee Petropoulos 
     bio: >-
-      Rhode Island ⚓️ 22 years old
+      God is love ✝️🇬🇷🇨🇾🇺🇸 Ann Arbor Michigan📍✈️ Seeking Laughs, And spread ❤️
     location: "United States"
-    followers: 20700
-    engagement: 1551
-    commentsToLikes: 0.007703
-    id: cka0zyfzqhedm0i78gmg5l2mo
+    followers: 83400
+    engagement: 896
+    commentsToLikes: 0.125242
+    id: ckbf38wsvqujy0j236hzy9vhs
     verified: false
-    hashtags: "#fyp, #towing, #rhodeisland, #largecar"
-  - username: "megradice"
+    hashtags: "#lifestyle, #makemomepic, #newyork, #michigan"
+  - username: "unknownparkour"
     fullname: >-
-      user8859859555749
+      The Unknown Project
     bio: >-
-      
+      Just your friendly neighborhood Parkour team Help us get to 3k on Youtube👇🏻
     location: "United States"
-    followers: 4
-    engagement: 1338
-    commentsToLikes: 0.006175
-    id: ck9glcm9inlt90j78tjtd3gj5
+    followers: 14700
+    engagement: 1370
+    commentsToLikes: 0.017527
+    id: ck9kf20no1fpo0j78dnpvzx0a
     verified: false
-    hashtags: "#mexican, #todayilearned, #happyhour, #hiddengems"
-  - username: "penelopeezz"
+    hashtags: "#parkour, #parkourworld, #fyp, #worldchasetag"
+  - username: "lauracubillooss"
     fullname: >-
-      Penelope
+      Laura Cubillos
     bio: >-
-      Lifestyle 🥂 & Travel 🌎 ig - penelopeezz
+      🇨🇴🤍
     location: "United States"
-    followers: 12400
-    engagement: 655
-    commentsToLikes: 0.072086
-    id: ckbl1aw2ty4in0j230qd8mc49
+    followers: 158200
+    engagement: 788
+    commentsToLikes: 0.008866
+    id: ckbf9dt0l0d3g0j23szdeyotc
     verified: false
-    hashtags: "#malibu, #fyp, #greece, #nyc"
+    hashtags: "#fyp, #humor, #2021, #dad"
+  - username: "daniellexvictoria"
+    fullname: >-
+      Danielle Victoria
+    bio: >-
+      𝑑𝑖𝑣𝑖𝑛𝑒 𝑒𝑛𝑒𝑟𝑔𝑦 𝑜𝑛𝑙𝑦 🕊
+    location: "United States"
+    followers: 67500
+    engagement: 990
+    commentsToLikes: 0.020093
+    id: cka0me83juya90i78gvvmtj0z
+    verified: false
+    hashtags: "#foryou, #latina, #fyp, #travel"
+  - username: "cactuskish"
+    fullname: >-
+      Cactuskish
+    bio: >-
+      RAGER CEO of Going Concerts Follow Me on Instagram To see my crazy Life Nyc
+    location: "United States"
+    followers: 63900
+    engagement: 1801
+    commentsToLikes: 0.015698
+    id: ck8ronp44idxg0j786sefw4wx
+    verified: false
+    hashtags: "#sheckwes, #nyc, #concert, #mobamba"
+  - username: "eliteluxurynyc"
+    fullname: >-
+      Francisco
+    bio: >-
+      NYC Real Estate Showing off amazing apartments 👆🏾 Contact me on Instagram 👆🏾
+    location: "United States"
+    followers: 12900
+    engagement: 273
+    commentsToLikes: 0.021279
+    id: ck8s7q9eiqa1k0j78xo8pdbw5
+    verified: false
+    hashtags: "#newyorkapartments, #myguy, #newyorker, #fyp"
+  - username: "pramiti._"
+    fullname: >-
+      𝐩𝐫𝐚𝐦𝐢𝐭𝐢✰
+    bio: >-
+      new york
+    location: "United States"
+    followers: 8624
+    engagement: 1691
+    commentsToLikes: 0.077024
+    id: ckb9asrvpw12h0j23g4y9oepc
+    verified: false
+    hashtags: "#hijabi, #newyork, #thebronx, #arab"
+  - username: "chinatownphil"
+    fullname: >-
+      Chinatown Phil
+    bio: >-
+      I film New York 🎥 Follow me on instagram: chinatown_phil
+    location: "United States"
+    followers: 42500
+    engagement: 361
+    commentsToLikes: 0.038692
+    id: cka6pco31j40t0i78x3bfgwer
+    verified: false
+    hashtags: "#fyp, #summer2021, #puppy, #foryourpage"
+  - username: "lifestylesoqhia"
+    fullname: >-
+      sophia 💐
+    bio: >-
+      lifestyle, fashion + selflove🎨 follow insta,let’s b friends!🌷 john 13:7✞🤍
+    location: "United States"
+    followers: 436100
+    engagement: 1494
+    commentsToLikes: 0.019340
+    id: ck85cqo9w32lv0j78vl3zb2r3
+    verified: false
+    hashtags: "#fy, #pinterestaesthetic, #whatieatinaday, #viralvid"
 ---

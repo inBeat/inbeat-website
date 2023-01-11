@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Canada In 2022
+title: Top 10 Skincare Instagram Influencers In Canada In 2023
 description: >-
-  Find top skincare Instagram influencers in Canada in 2022. Most popular hashtags: #ootd #ad #fashionblogger.
+  Find top skincare Instagram influencers in Canada in 2023. Most popular hashtags: #sephoracanada #sephora #texturetuesday.
 platform: Instagram
-hits: 221
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 221 Instagram influencers like this in Canada for you to collaborate.
+hits: 100
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 100 Instagram influencers like this in Canada for you to collaborate.
 profiles:
+  - username: "skin.and.scrubs"
+    fullname: >-
+      Stefanie
+    bio: >-
+      med student | skincare & beauty | self-care queen | 🇨🇦 reviews, recos, routines 💌skinandscrubs18@gmail.com 👇discounts, support, shop my faves
+    location: "Canada"
+    followers: 7875
+    engagement: 465
+    commentsToLikes: 0.274806
+    id: cl45xxt82jicz0i23w3as78e0
+    verified: false
+    hashtags: "#skincaretips, #skinfluencer, #creamblush, #makeuptips"
+  - username: "glowwitherin"
+    fullname: >-
+      erin | skincare enthusiast
+    bio: >-
+      skincare & accutane journey & memes YEG 🇨🇦 | glowwitherin@gmail.com
+    location: "Canada"
+    followers: 27179
+    engagement: 49
+    commentsToLikes: 0.091841
+    id: ck8tbakakuxd90j78r1kyzihc
+    verified: false
+    hashtags: "#dontdespairrepair, #priorities, #juicebeauty, #normaderm"
   - username: "kgmtl"
     fullname: >-
       Katherine Garbarino
     bio: >-
       Founder @girlslivingwell ✨ 👩🏽‍🤝‍👩🏻 Your virtual BFF 🍋 Health & Wellness 💅🏽 Beauty & Skincare 🎞 Daily Tips & Tricks 💌 emma@kg-mtl.com
     location: "Canada"
-    followers: 72129
-    engagement: 520
-    commentsToLikes: 0.124757
+    followers: 89793
+    engagement: 379
+    commentsToLikes: 0.009993
     id: ck55ke17yz3wj0i11cnnamu23
     verified: false
-    hashtags: "#crueltyfree, #sustainablefashion, #kgmtlxardene, #glossup"
-  - username: "fatimacaser"
+    hashtags: "#protectyoface, #kgmtlxardene, #welcometothelowerlevel, #dondala"
+  - username: "guneetbenipal"
     fullname: >-
-      𝖋𝖆𝖙𝖎𝖒𝖆 𝖈𝖆𝖘𝖊𝖗✨
+      Gunu 🌸
     bio: >-
-      〰️ makeup + skincare ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💌 fatimaalexcaser@gmail.com ⠀⠀⠀⠀⠀⠀ 🇨🇦 #toronto ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
     location: "Canada"
-    followers: 28880
-    engagement: 602
-    commentsToLikes: 0.057739
-    id: ck15tfjhxhtzw0i19wlxwykgu
+    followers: 4700
+    engagement: 716
+    commentsToLikes: 0.201164
+    id: ckap7d7injk6w0i78ee3qs4iu
     verified: false
-    hashtags: "#vescaglow, #whereveryouglow, #dewitwithlaneige, #underdawg"
-  - username: "nursey16"
-    fullname: >-
-      Sarah Nurse
-    bio: >-
-      Olympian • Silver Medalist 🇨🇦🥈 @adidasca & @CCMHockey Athlete I enjoy skincare, a good outfit & french fries @pwhpa • Wisconsin Badger Alum 👐🏽
-    location: "Canada"
-    followers: 25209
-    engagement: 815
-    commentsToLikes: 0.026455
-    id: ck5zijek7ftla0i141b68j1xd
-    verified: true
-    hashtags: "#ootd, #curlyhair, #instamood, #hockey"
-  - username: "dominique.baker"
-    fullname: >-
-      Dominique Baker
-    bio: >-
-      · Award-Winning Skincare & Hair Expert | Divine Feminine · Feat in @CBC, @guardian, @globeandmail, @cityline, @flaredotcom · ✉️: dl@debbielu.com · 🎥🎬
-    location: "Canada"
-    followers: 44413
-    engagement: 283
-    commentsToLikes: 0.158775
-    id: ck14gyl0f7np60i19usawtxg3
-    verified: false
-    hashtags: "#relaxedhaircommunity, #equality, #pec, #blkcreative"
+    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
   - username: "sincerelyambermarie"
     fullname: >-
       AMBER MARIE
     bio: >-
       Edmonton AB Simple feminine fashion | skincare | beauty 💞 Inquiries: sincerelyambermarie@gmail.com TikTok: Sincerelyambermarie
     location: "Canada"
-    followers: 17313
-    engagement: 367
-    commentsToLikes: 0.235848
+    followers: 17376
+    engagement: 253
+    commentsToLikes: 0.202044
     id: ckaorpj3uo8zh0i788fgkgjbk
     verified: false
-    hashtags: "#yeghair, #myskinforhim, #oversized, #fallvibes"
-  - username: "simplymaham"
+    hashtags: "#ltksalealert, #ltkunder50, #makeupartist, #gisou"
+  - username: "imaansaboune"
     fullname: >-
-      Maham
+      Imaan Sabouné
     bio: >-
-      📍Toronto Pakistani-Canadian Recollection of my memory🕊 Skincare • Lifestyle • Photography Fanatic #behindtheshotwithmaham #travelingwithmaham
+      fashion, skincare & more fashion vancouver ✉️ imaansaboune@gmail.com @bentleythebernedoodledog
     location: "Canada"
-    followers: 13502
-    engagement: 867
-    commentsToLikes: 0.191671
-    id: ck6u0k6kig66u0j71ia22m1vr
+    followers: 20578
+    engagement: 226
+    commentsToLikes: 0.252429
+    id: ck5q1j7rcb94x0i118ogiwjbb
     verified: false
-    hashtags: "#modestfashion, #posingforthecamera, #modestfashionblogger, #trendyfashion"
-  - username: "kennawhitnell"
-    fullname: >-
-      Kenna Whitnell
-    bio: >-
-      beauty/skincare/science/motherhood biochemist/cosmeticformulator/creator toronto
-    location: "Canada"
-    followers: 16244
-    engagement: 1032
-    commentsToLikes: 0.013918
-    id: ck5q9qz4ycjc60i11pnnu02gx
-    verified: false
-    hashtags: "#torontoskincare, #cherylstrayed, #marcellecosmetics, #neutrogenaca"
+    hashtags: "#revolveme, #bentleythebernedoodle, #michaelkors, #sukis"
   - username: "paulzedrich"
     fullname: >-
-      Paul Zedrich
+      Paul Zedrich | fashion beauty
     bio: >-
-      🌟 fashion, lifestyle + skincare 💌 paulcaoili_@hotmail.com 📍 vancouver, canada 👇🏼 youtube - new video, SUMMER LOOKBOOK!
+      🌟 fashion, lifestyle + skincare 💌 paulcaoili_@hotmail.com 📍 vancouver, canada 👇🏼 subscribe to my youtube
     location: "Canada"
-    followers: 13316
-    engagement: 430
-    commentsToLikes: 0.110710
+    followers: 13043
+    engagement: 148
+    commentsToLikes: 0.091327
     id: ck8t4taay7w5b0j78cihgm3c6
     verified: false
-    hashtags: "#blacklivesmatter, #starbuckschristmasdrinks, #pride, #sephora"
+    hashtags: "#drdennisgross, #sephoracanadalife, #gaycouple, #sephoralife"
   - username: "carlingliski"
     fullname: >-
       Carling Liski
     bio: >-
-      Co-Founder @prairieswim 👙 Lover of fashion, travel, skincare, wine & l i f e ✨ Toronto, Canada
+      Co-Founder @prairieswim 👙 Lover of fashion, travel, skincare, wine & l i f e ✨
     location: "Canada"
-    followers: 14375
-    engagement: 231
-    commentsToLikes: 0.100671
+    followers: 13684
+    engagement: 239
+    commentsToLikes: 0.112728
     id: ck0twl3bmfv460i19cy6ppqrd
     verified: false
-    hashtags: "#ootd, #ootn, #covid, #tobermory"
-  - username: "icingandglitter"
+    hashtags: "#makeup, #spring, #ootd, #weddingseason"
+  - username: "petiteandbold"
     fullname: >-
-      Siffat Haider
+      Josiane Konaté
     bio: >-
-      Lifestyle blogger | broccoli enthusiast | skincare junkie | wanderer 🎙 Host: @thedreambiggerpodcast 🛍 Co-Founder: @arrae.co ✉️ siffat.h91@gmail.com
+      Skincare Enthusiast & Visual Story Teller Maman @lataneskincare ⏳ Founder @maisonpetiteandbold @anothernarrativeofafrica @keurlule
     location: "Canada"
-    followers: 56956
-    engagement: 84
-    commentsToLikes: 0.063915
-    id: ck0vxutiv0ucj0i19gnagvv1a
+    followers: 30182
+    engagement: 93
+    commentsToLikes: 0.140160
+    id: ck5hn83c3ndn40i11sj038xs2
     verified: false
-    hashtags: "#femmetravel, #ootd, #fashioninspo, #whatiwore"
+    hashtags: "#postitforaesthetics, #limitededition2021, #petiteandbold, #bloguesemode"
+  - username: "kennawhitnell"
+    fullname: >-
+      Kenna Whitnell
+    bio: >-
+      beauty/skincare/science/motherhood biochemist/cosmeticformulator/creator toronto business/pr please email kenna@gushcloud.com
+    location: "Canada"
+    followers: 14458
+    engagement: 321
+    commentsToLikes: 0.016635
+    id: ck5q9qz4ycjc60i11pnnu02gx
+    verified: false
+    hashtags: "#cerave, #ad, #neutrogenaambassador, #askinkey"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Singapore In 2022
+title: Top 10 Fitness TikTok Influencers In Singapore In 2023
 description: >-
-  Find top fitness TikTok influencers in Singapore in 2022. Most popular hashtags: #fyp #fitness #duet #foryou.
+  Find top fitness TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #foryou #fitness #tiktoksg.
 platform: TikTok
-hits: 14
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 14 TikTok influencers like this in Singapore for you to connect with.
+hits: 10
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Singapore for you to contact.
 profiles:
   - username: "arasi_10"
     fullname: >-
       Arasi👸🏼
     bio: >-
-      May Girl♉️53yrs young Indian Just wanna have fun Ageing gracefully-Fitness Freak
+      May Girl♉️ Senior Station Manager (SMRT) TikTok for fun🤩 Fitness freak from🇸🇬
     location: "Singapore"
-    followers: 36100
-    engagement: 1562
-    commentsToLikes: 0.100745
+    followers: 47800
+    engagement: 1240
+    commentsToLikes: 0.074272
     id: ckbewvni9grj90j236mi2h5bj
     verified: false
-    hashtags: "#myfavoritesong, #fyp, #nightshift, #simran"
-  - username: "thebuffessor"
-    fullname: >-
-      The Buffessor 🇸🇬
-    bio: >-
-      Spreading positivity with fitness | DM me questions | Follow for daily uploads
-    location: "Singapore"
-    followers: 19300
-    engagement: 500
-    commentsToLikes: 0.124969
-    id: ckcdhxoop7zf00j23cnh2hjub
-    verified: false
-    hashtags: "#tiktoksg, #replytocomments, #buffessor, #fitness"
+    hashtags: "#loa, #tgifvibes, #tamildialogue, #limitededition"
   - username: "jmeteo"
     fullname: >-
       Jaime Teo
     bio: >-
       Host/Actress 🇸🇬 Fitness/Arts enthusiast Twelve Cupcakes co-founder(biz sold!)
     location: "Singapore"
-    followers: 19500
-    engagement: 326
-    commentsToLikes: 0.043591
+    followers: 22500
+    engagement: 236
+    commentsToLikes: 0.011434
     id: ck83zqodv25o90j78tiv4r6l0
     verified: false
-    hashtags: "#transition, #duet, #fyp, #foryou"
-  - username: "missfitfi"
+    hashtags: "#duet, #fyp, #foryou, #prrrumchallenge"
+  - username: "thebuffessor"
     fullname: >-
-      Miss FITFI
+      The Buffessor 🇸🇬
     bio: >-
-      Road to 100k 🎯 Fitness + Finance
+      ⬆️ Pls Follow & Subscribe 📕 DM Me Questions ⬇️ Personal Training Link
     location: "Singapore"
-    followers: 27800
-    engagement: 219
-    commentsToLikes: 0.054276
-    id: ck81s4n45pya30j78bg4qgnxk
+    followers: 44200
+    engagement: 440
+    commentsToLikes: 0.053245
+    id: ckcdhxoop7zf00j23cnh2hjub
     verified: false
-    hashtags: "#foryoupage, #uniquirky, #photogenic, #fyp"
+    hashtags: "#buffessor, #learningisfun, #fitness, #nft"
   - username: "amirkhanmma"
     fullname: >-
       amirkhanmma
     bio: >-
-      🇸🇬 / ONE CHAMPIONSHIP ATHLETE Fighting 🥊 Fitness 🏋🏽‍♀️ Family ❤️
+      MMA 🥊/ mental toughness skills 🧠 / strength and conditioning🏋🏾‍♂️/ health🥗
     location: "Singapore"
-    followers: 12400
-    engagement: 246
-    commentsToLikes: 0.010408
+    followers: 19200
+    engagement: 321
+    commentsToLikes: 0.029438
     id: ckc8v3lgrhqac0j23ub674npo
     verified: true
-    hashtags: "#howto, #weightloss, #martialarts, #homeworkout"
-  - username: "buffbaby88"
+    hashtags: "#fyp, #fitness, #fyppage, #tips"
+  - username: "graceglazee"
     fullname: >-
-      buff baby
+      Graceglazee
     bio: >-
-      fitness + fashion nellyjellylana@yahoo.com📩 VLOG #2 OUT ON YOUTUBE⬇️
+      Follow for more content🥰 Check out my Ig @Graceglazee🌸😛
     location: "Singapore"
-    followers: 70700
-    engagement: 822
-    commentsToLikes: 0.012848
-    id: cka0w2eas15z90i78x89bhnu6
+    followers: 126000
+    engagement: 815
+    commentsToLikes: 0.026534
+    id: ck9f22kubb8c40j78fz7g1zq6
     verified: false
-    hashtags: "#weightloss, #fyp, #photogenic, #tiktokfashion"
-  - username: "igotnorules"
+    hashtags: "#graceglazee, #foryou, #fyp, #transformation"
+  - username: "neilanwts"
     fullname: >-
-      Lynn Y
+      Neilan Wong Tun Shane
     bio: >-
-      I think I'm hilarious, timeless and progressive.
+      🇸🇬🇨🇳
     location: "Singapore"
-    followers: 9801
-    engagement: 3891
-    commentsToLikes: 0.221950
-    id: ckcupgemaisx30j23f6c6h8qe
+    followers: 36300
+    engagement: 737
+    commentsToLikes: 0.015999
+    id: ckamukhb4zk5g0i78nabipfai
     verified: false
-    hashtags: "#lisacrabdance, #halloweenishere, #learningisfun, #sgfoodie"
-  - username: "douglasokj"
+    hashtags: "#fyp, #foryou, #singapore, #zoommyface"
+  - username: "venusgwc"
     fullname: >-
-      Douglas Ong
+      Venus Gwc
     bio: >-
-      singaporean 🇸🇬 food / travel / comedy follow me on IG for a cookie ⬆️
+      Penangnite. A globetrotter, travel with me through my vlog. 🇲🇾
     location: "Singapore"
-    followers: 46500
-    engagement: 690
-    commentsToLikes: 0.088738
-    id: ckck2dlaklrt50j231l9bs6a7
+    followers: 62200
+    engagement: 463
+    commentsToLikes: 0.035207
+    id: ck80odtp1h4pk0j78u00n1ueq
     verified: false
-    hashtags: "#uniquirk, #fyp, #tiktoksg, #duet"
-  - username: "nottynoah"
+    hashtags: "#painting, #familyathome, #covid, #stayhome"
+  - username: "shawnthia"
     fullname: >-
-      Noah
+      Shawn Thia
     bio: >-
-      Don’t take me seriously CEO of random
+      Actor based in Singapore🇸🇬 Managed by TCP Artistes Follow me on IG! @shawnthia
     location: "Singapore"
-    followers: 21200
-    engagement: 326
-    commentsToLikes: 0.043371
-    id: ckbb6w20gwyys0j23lx3s7cl5
+    followers: 65500
+    engagement: 504
+    commentsToLikes: 0.039402
+    id: ckai9nfjt8zda0i78a5ynjnp9
     verified: false
-    hashtags: "#happymothersday, #boomerang, #humour, #comedy"
-  - username: "romewjamal"
+    hashtags: "#foryou, #tiktoksg, #xyzbca, #foryoupage"
+  - username: "missfitfi"
     fullname: >-
-      Creator Jamal
+      Miss FITFI
     bio: >-
-      CEO of Livestreaming from Blue Galaxy Lights room. CEO of Lame Comedy 🇸🇬
+      Road to 100k 🎯
     location: "Singapore"
-    followers: 77400
-    engagement: 515
-    commentsToLikes: 0.058195
-    id: ck9gpby304f7m0j78prmmt96n
+    followers: 29700
+    engagement: 328
+    commentsToLikes: 0.053703
+    id: ck81s4n45pya30j78bg4qgnxk
     verified: false
-    hashtags: "#exploresingapore, #timburton, #timewrapscan, #trend"
+    hashtags: "#xyzabc, #fyp, #uniquirk, #sgfoodie"
+  - username: "fooping_arm_balance"
+    fullname: >-
+      fooping_arm_balance
+    bio: >-
+      Singaporean handstander Instagram: fooping_arm_balance
+    location: "Singapore"
+    followers: 33900
+    engagement: 839
+    commentsToLikes: 0.017624
+    id: ck80nscnjed8p0j78jgt23soh
+    verified: false
+    hashtags: "#circus, #handstand, #sgunited, #foryou"
 ---

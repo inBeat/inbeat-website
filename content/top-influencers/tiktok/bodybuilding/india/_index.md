@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In India In 2022
+title: Top 10 Bodybuilding TikTok Influencers In India In 2023
 description: >-
-  Find top bodybuilding TikTok influencers in India in 2022. Most popular hashtags: #foryou #bodybuilding #tiktok #fitness.
+  Find top bodybuilding TikTok influencers in India in 2023. Most popular hashtags: #foryou #tiktok #bodybuilding #fyp.
 platform: TikTok
-hits: 169
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 169 TikTok influencers like this in India for you to collaborate.
+hits: 171
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 171 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "poojagowda992"
     fullname: >-
@@ -13,24 +13,12 @@ profiles:
     bio: >-
       Athlete💪 👉Passion💪BODYBUILDING Jalo mat barabari karo
     location: "India"
-    followers: 639500
-    engagement: 968
-    commentsToLikes: 0.021752
+    followers: 639100
+    engagement: 965
+    commentsToLikes: 0.021767
     id: ck9kch24dpjiu0j78tbqu40ct
     verified: false
-    hashtags: "#2022, #fitnessindia, #myfitness, #bodybuildingwomen"
-  - username: "supriemthakur"
-    fullname: >-
-      Supriem Thakur
-    bio: >-
-      Mr.India / Mr.Delhi 🥇🥇🏆 Bodybuilding 💪 Instagram I’d(supriemthakur)
-    location: "India"
-    followers: 3923
-    engagement: 1283
-    commentsToLikes: 0.027500
-    id: ckbf53ndwtuka0j2318ygb3mb
-    verified: false
-    hashtags: "#mast, #gymshark, #fitnesslover, #tree"
+    hashtags: "#athlete, #myfitness, #bodybuilding, #bodybuildingwomen"
   - username: "ironimranofficial01"
     fullname: >-
       imran khan
@@ -39,10 +27,22 @@ profiles:
     location: "India"
     followers: 29600
     engagement: 1152
-    commentsToLikes: 0.028097
+    commentsToLikes: 0.028004
     id: ckacstxnabrbx0i78mg74ci78
     verified: false
-    hashtags: "#fitness, #tik, #foryou, #like"
+    hashtags: "#fitness, #me, #smart, #back"
+  - username: "supriemthakur"
+    fullname: >-
+      Supriem Thakur
+    bio: >-
+      Mr.India / Mr.Delhi 🥇🥇🏆 Bodybuilding 💪 Instagram I’d(supriemthakur)
+    location: "India"
+    followers: 3922
+    engagement: 1282
+    commentsToLikes: 0.027477
+    id: ckbf53ndwtuka0j2318ygb3mb
+    verified: false
+    hashtags: "#osm, #om, #tiktoksg, #sharethecare"
   - username: "ingene_sportswear"
     fullname: >-
       InGene
@@ -54,19 +54,31 @@ profiles:
     commentsToLikes: 0.014120
     id: ck920jpacehoe0j78ythypsxd
     verified: false
-    hashtags: "#video, #malemodels, #shoot, #model"
+    hashtags: "#sheinfashionweek, #swagstepchallenge, #malefitnessmodel, #video"
   - username: "yarokayaar87"
     fullname: >-
       Sunil Kumar
     bio: >-
       bodybuilding update pahchan insta ID ..sunil87500
     location: "India"
-    followers: 117200
-    engagement: 1076
-    commentsToLikes: 0.013244
+    followers: 117000
+    engagement: 1067
+    commentsToLikes: 0.013100
     id: ck94nkrgw77wp0j78pj8rh18h
     verified: false
-    hashtags: "#trend, #onvoice, #ownvoice, #foryoup"
+    hashtags: "#onvoice, #tidelagaodaaghatao, #treanding, #viral"
+  - username: "kaur_mandy0001"
+    fullname: >-
+      Mandy
+    bio: >-
+      Bodybuilding ♥️ Dentistry 💓 Peace Very new to TikTok
+    location: "India"
+    followers: 4507
+    engagement: 847
+    commentsToLikes: 0.017966
+    id: ckb9966tzt5390j23e3j8c0jq
+    verified: false
+    hashtags: "#fitness, #tiktokdiwali, #fitspo, #shoulders"
   - username: "mr_umesh08"
     fullname: >-
       umeshsuman08
@@ -74,35 +86,35 @@ profiles:
       bodybuilding dancing singing and acting my hoby.. rj_08 vale.. medical student 
     location: "India"
     followers: 125800
-    engagement: 925
-    commentsToLikes: 0.011870
+    engagement: 931
+    commentsToLikes: 0.011434
     id: ck8z9sg5kz72f0j78bo6jekym
     verified: false
-    hashtags: "#fyp, #team08sanwar, #hadotiwale, #viral"
-  - username: "kaur_mandy0001"
-    fullname: >-
-      Mandy
-    bio: >-
-      Bodybuilding ♥️ Dentistry 💓 Peace Very new to TikTok
-    location: "India"
-    followers: 4505
-    engagement: 846
-    commentsToLikes: 0.018080
-    id: ckb9966tzt5390j23e3j8c0jq
-    verified: false
-    hashtags: "#tiktokdiwali, #selfie, #tb, #gymlife"
+    hashtags: "#viral, #tiktok, #fyp, #team08sanwar"
   - username: "chinu_ashwani"
     fullname: >-
       Chinu ashwani
     bio: >-
       Bodybuilding Gym addict On instagram Chinu_ashwani
     location: "India"
-    followers: 30300
-    engagement: 764
-    commentsToLikes: 0.009197
+    followers: 30200
+    engagement: 820
+    commentsToLikes: 0.008942
     id: ckbfau6s72klt0j23urfhrfme
     verified: false
-    hashtags: "#sharethecare, #haintaiyaarhum, #shoulderworkout, #bodybuildingmotivation"
+    hashtags: "#bisceps, #sharethecare, #stayhome, #staysafe"
+  - username: "tahirshaansiddiqu4"
+    fullname: >-
+      💪💪gym lover💪💪
+    bio: >-
+      old id block Dream bodybuilding gym lover💪 🎂 9 nov follow
+    location: "India"
+    followers: 9920
+    engagement: 440
+    commentsToLikes: 0.012189
+    id: ckajko15mrb6r0i7807jlkv9g
+    verified: false
+    hashtags: "#tidelagaodaaghatao, #trending, #viralvideo, #fyp"
   - username: "hemantbodybuildr"
     fullname: >-
       @official Hemant😎😎
@@ -110,21 +122,9 @@ profiles:
       Gym +Lover 💪💪 My Style is My Life 😎😎 Instagram + On + Hemantkumar4907💪💪😎
     location: "India"
     followers: 11500
-    engagement: 1761
-    commentsToLikes: 0.012966
+    engagement: 1760
+    commentsToLikes: 0.012965
     id: ckbf53nx1tuof0j23w14ur6sv
     verified: false
-    hashtags: "#tiktokti, #tik, #gymtime, #bodybuilding"
-  - username: "yagnapunjabi"
-    fullname: >-
-      Yagna 
-    bio: >-
-      Bodybuilder | model | businessman, follow on insta for training/ nutrition tips
-    location: "India"
-    followers: 11600
-    engagement: 1416
-    commentsToLikes: 0.041465
-    id: ck85cpykk2ww90j78uvga24yq
-    verified: false
-    hashtags: "#foryou, #bodybuilding, #fit, #fyp"
+    hashtags: "#bodybuilding, #sadlove, #gymtime, #bodybuilder"
 ---

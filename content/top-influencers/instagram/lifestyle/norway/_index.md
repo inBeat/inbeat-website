@@ -1,96 +1,72 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Norway In 2022
+title: Top 10 Lifestyle Instagram Influencers In Norway In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Norway in 2022. Most popular hashtags: #hiking #visitnorway #naturephotography.
+  Find top lifestyle Instagram influencers in Norway in 2023. Most popular hashtags: #visitnorway #winter #oslo #snow.
 platform: Instagram
-hits: 81
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 81 Instagram influencers like this in Norway for you to pitch.
+hits: 55
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 55 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "saumiya"
+  - username: "maritaystevik"
     fullname: >-
-      MIYA T. 🦋
+      Marita Ystevik
     bio: >-
-      🙋🏾‍♀️ Dark Skin South Asian Fashion | Lifestyle 📧 saumiyainq@hotmail.com
+      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
     location: "Norway"
-    followers: 107075
-    engagement: 1911
-    commentsToLikes: 0.023033
-    id: ck8swuknrfagc0j7874qbjzbg
+    followers: 18258
+    engagement: 185
+    commentsToLikes: 0.118382
+    id: ck5c2uz4by1ib0i11zquptmde
     verified: false
-    hashtags: "#desi, #tamil, #srilankan, #southasian"
-  - username: "aanjaha"
-    fullname: >-
-      Anja Hansen
-    bio: >-
-      🇧🇻...🇧🇻...🇧🇻 🌼Active lifestyle🤸‍♀️ 🌼Trening/ Workout🏋️‍♀️ 🌼Friluftsliv/Hiking 🏇 🌼 🌼Collab: DM/email 🌼
-    location: "Norway"
-    followers: 11232
-    engagement: 698
-    commentsToLikes: 0.422305
-    id: ck9wevvp8m2fe0j78xx2c8c8x
-    verified: false
-    hashtags: "#blond, #norging, #ocr, #utno"
-  - username: "michellebettina"
-    fullname: >-
-      🦋Storyteller🦋 📍Norway
-    bio: >-
-      ✈️ Travel 🌱 Healthy lifestyle 🏋🏼‍♀️ Fitness 👑 Private marketing consultant 🏦 Marketing Real Estate Collab: michelle@cconsult.no
-    location: "Norway"
-    followers: 39947
-    engagement: 481
-    commentsToLikes: 0.063986
-    id: ckaoz3jbjk7ne0i78aulzu91d
-    verified: false
-    hashtags: ""
-  - username: "juliebjanes"
-    fullname: >-
-      Julie Bjanes | NORWAY
-    bio: >-
-      👨‍👩‍👧 Family first 🤰🏽 🤸🏽‍♂️Personal Trainer 🏆Doing all the things they said I couldn’t ⛰Active lifestyle=makes me happy 🌍 travel
-    location: "Norway"
-    followers: 15128
-    engagement: 336
-    commentsToLikes: 0.137986
-    id: ck15qhvuk2x4x0i198u4yylk7
-    verified: false
-    hashtags: "#outdoorlife, #mother, #training, #mittfriluftsliv"
-  - username: "evelinekarlsen"
-    fullname: >-
-      Eveline Karlsen
-    bio: >-
-      Norway YouTuber, Beauty and lifestyle influencer Live and breathe Makeup 💄 Check out my YouTube-channel👇🏼
-    location: "Norway"
-    followers: 73469
-    engagement: 664
-    commentsToLikes: 0.009036
-    id: ck13c53ufynrz0i19n7mrbo8q
-    verified: false
-    hashtags: "#alwaysarden, #yesnakd, #nakdfashion, #wearecaia"
-  - username: "kamisaaurora"
-    fullname: >-
-      K A M I S A
-    bio: >-
-      Lifestyle |Motivation | Fitness ♡ TEAM NOCCO | TEAM BAREBELLS NY YOUTUBE VIDEO
-    location: "Norway"
-    followers: 3079
-    engagement: 1230
-    commentsToLikes: 0.111330
-    id: ck5bwq7eum74i0i11v5lwi1y0
-    verified: false
-    hashtags: "#melodigrandprix, #igtv, #blm, #reklame"
+    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
   - username: "anneliaaland"
     fullname: >-
-      ANNELI AALAND 🐬
+      ANNELI AALAND
     bio: >-
-      oslo, norway fashion, beauty, interior, food & lifestyle ✉️ anneli-aaland@hotmail.com
+      fashion, beauty, interior, food & lifestyle ✉️ anneli-aaland@hotmail.com
     location: "Norway"
-    followers: 7383
-    engagement: 473
-    commentsToLikes: 0.071035
+    followers: 9419
+    engagement: 706
+    commentsToLikes: 0.043657
     id: ck15r51nm66qx0i19agkwr2l9
     verified: false
-    hashtags: "#zalandostyle, #outfit, #interior, #ootd"
+    hashtags: "#annonse, #getthelook, #zalando, #essiebucketlist"
+  - username: "sssbeena"
+    fullname: >-
+      SHABEENA KHAN
+    bio: >-
+      ♡ Lifestyle & momlife ♡ Passion for interior ♡ Mom to five girls --> Living with chronic illness ▪️#sssbeena_interior
+    location: "Norway"
+    followers: 8520
+    engagement: 337
+    commentsToLikes: 0.138097
+    id: ck136tu1z889d0i19myk1wjko
+    verified: false
+    hashtags: "#momlife, #interiordetails, #gullfj, #interior123"
+  - username: "kamisaaurora"
+    fullname: >-
+      Kamisa | Glute & Fitness
+    bio: >-
+      Lifestyle |Motivation | Fitness TEAM NOCCO & BAREBELLS
+    location: "Norway"
+    followers: 3186
+    engagement: 1169
+    commentsToLikes: 0.100704
+    id: ck5bwq7eum74i0i11v5lwi1y0
+    verified: false
+    hashtags: "#glutes, #hjemmetrening, #buildyourbooty, #bootybands"
+  - username: "linelangmo"
+    fullname: >-
+      LINE LANGMO
+    bio: >-
+      Stylist || Designer || Lifestyleblogger || 📔Strikk med Line Langmo
+    location: "Norway"
+    followers: 34686
+    engagement: 108
+    commentsToLikes: 0.050981
+    id: ck1366nvu4zum0i19shsqe3g4
+    verified: false
+    hashtags: "#drgrevepharma, #ellosfeatured, #ellosfashion, #rosasl"
   - username: "typical.doctor"
     fullname: >-
       Patrycja J.
@@ -98,33 +74,57 @@ profiles:
       Medical Doctor in Norway 🩺 🇳🇴 Research🔬 Books 📚 Traveling 🛫 Yoga🙏🏻 Healthy lifestyle 🥦 Skiing ⛷ Hiking ⛰
     location: "Norway"
     followers: 6684
-    engagement: 964
-    commentsToLikes: 0.022930
+    engagement: 859
+    commentsToLikes: 0.021979
     id: ck8t1d2f5vavk0j78vrj3625b
     verified: false
-    hashtags: "#hike, #northnorway, #fall, #travelphotography"
-  - username: "woicefu"
+    hashtags: "#mountains, #hike, #julepynt, #weekend"
+  - username: "lindalike"
     fullname: >-
-      Kjærsti
+      Linda Sannesmoen
     bio: >-
-      I reeeally love food 🦋 Front-end developer 🦋 Fitness & Lifestyle
+      NORWEGIAN GREENFLUENCER • Eco hedonist • Healthy and sustainable lifestyle • Ambassador: @norronahvitserk @hvitserkeventyr @woollandsport @gai.lisva
     location: "Norway"
-    followers: 2110
-    engagement: 1211
-    commentsToLikes: 0.082200
-    id: ckap2tdqr08lh0i78w6rnzmpt
+    followers: 36894
+    engagement: 63
+    commentsToLikes: 0.043422
+    id: ck0vwanbssuii0i19rovn2gwt
     verified: false
-    hashtags: "#fitnessaddict, #motivasjon, #homeworkout, #homegymlife"
-  - username: "zimmerchristina"
+    hashtags: "#lindalike, #happygram, #welcometonature, #ad"
+  - username: "marenplatou"
     fullname: >-
-      🇳🇴 Christina Zimmer ❆
+      Maren Platou
     bio: >-
-      ↟ Photography ↟ Lifestyle ↟ Nature Karmøy / Alta #SonyA6500
+      Norwegian | Oslo & Bergen • Fashion • Beauty • Lifestyle • Interior ✉️ mar.platou@gmail.com
     location: "Norway"
-    followers: 2287
-    engagement: 2704
-    commentsToLikes: 0.153962
-    id: ckaoubbhczm8u0i78xurqtttk
+    followers: 56221
+    engagement: 248
+    commentsToLikes: 0.017731
+    id: ck0w5gc5v3ib40i19pf4o6tq6
+    verified: true
+    hashtags: ""
+  - username: "morten_munthe"
+    fullname: >-
+      Morten Munthe
+    bio: >-
+      Norwegian Photographer Adventure | Lifestyle | Brand ⤖ hello@mortenmunthe.com Get my Presets here:
+    location: "Norway"
+    followers: 14857
+    engagement: 985
+    commentsToLikes: 0.064416
+    id: ck14km5jxq7010i19b7rd70nb
     verified: false
-    hashtags: "#nordnorge, #thegreatplanet, #turjenter, #outdoorlife"
+    hashtags: "#thediscoverer, #folkmagazine, #escapeandwonder, #folkscenery"
+  - username: "theanorman93"
+    fullname: >-
+      🎀 Thea Norman
+    bio: >-
+      📍Norway • Kristiansand/Lillehammer ⚖ Law Student 👫 Boyfriend 🏃🏼Lifestyle ➡️ Pers 10km run; 55:25 min ⚡️ 🌎 Travelling 📷 All photos are taken by me!
+    location: "Norway"
+    followers: 6078
+    engagement: 1411
+    commentsToLikes: 0.043548
+    id: ck136q8us7q9i0i19czmzsdwc
+    verified: false
+    hashtags: "#utpa, #utp, #solnedg, #solnedgang"
 ---

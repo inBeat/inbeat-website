@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In South Africa In 2022
+title: Top 10 Makeup TikTok Influencers In South Africa In 2023
 description: >-
-  Find top makeup TikTok influencers in South Africa in 2022. Most popular hashtags: #makeup #fyp #foryou #foryoupage.
+  Find top makeup TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #makeup #tiktoksa #foryoupage.
 platform: TikTok
-hits: 64
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 64 TikTok influencers like this in South Africa for you to pitch.
+hits: 58
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 58 TikTok influencers like this in South Africa for you to contact.
 profiles:
+  - username: "slimgirlsupreme"
+    fullname: >-
+      Mrs. Lawliet
+    bio: >-
+      i love makeup, art, anime and you! ig: slimgirlsupreme goal: 400K 🇿🇦🏳️‍🌈🇿🇼
+    location: "South Africa"
+    followers: 371400
+    engagement: 2226
+    commentsToLikes: 0.020764
+    id: ckbqw4qsfgc580j23vwakz5kx
+    verified: true
+    hashtags: "#greenscreen, #weebtok, #weebtiktok, #tiktoksa"
+  - username: "tangible_terri"
+    fullname: >-
+      Terri-Lee
+    bio: >-
+      My brain is a weird place, so is my content 🇿🇦🔞 All things Makeup @tlc_makeup
+    location: "South Africa"
+    followers: 8816
+    engagement: 1557
+    commentsToLikes: 0.208130
+    id: ckd173fpzo81o0j23m5tg37fk
+    verified: false
+    hashtags: "#tangible, #humor, #adulthumor, #husbandandwife"
+  - username: "bella_monsoon"
+    fullname: >-
+      bella_monsoon
+    bio: >-
+      A literal shapeshifter. Makeup💄Mental Health🧠 Mystery🕵🏽‍♀️ Rising Voices🇿🇦
+    location: "South Africa"
+    followers: 155400
+    engagement: 1447
+    commentsToLikes: 0.059912
+    id: ckbkxz3f3u4to0j23q35zvek1
+    verified: true
+    hashtags: "#lilnasx, #fyp, #bellamonsoon, #risingvoices"
   - username: "hecallsmebeautifulone"
     fullname: >-
       Sam
     bio: >-
       28 Boss babe Makeup artist Fearfully & wonderfully made pslm 139:14 Woman of God
     location: "South Africa"
-    followers: 12100
-    engagement: 1365
-    commentsToLikes: 0.063582
+    followers: 14900
+    engagement: 1147
+    commentsToLikes: 0.049438
     id: ckdbzpv5of2ls0j23afmer0ps
     verified: false
-    hashtags: "#tattoedwoman, #fyp, #southafrican, #happy"
-  - username: "kandyslife"
-    fullname: >-
-      Kandy
-    bio: >-
-      DANCE 💃 MAKEUP 💄 AND FASHION ❤️ YOUTUBE: @kandykanemakeup Follow me ON INSTA!
-    location: "South Africa"
-    followers: 13900
-    engagement: 446
-    commentsToLikes: 0.019275
-    id: ck9gtpy8qnsyb0j78js37bl1k
-    verified: false
-    hashtags: "#tiktokdance, #fyp, #dancetiktok, #southafrica"
-  - username: "v4r5h4"
+    hashtags: "#happy, #foryoupage, #southafrica, #tattoolover"
+  - username: "vivimaks"
     fullname: >-
       Vee
     bio: >-
-      she/they
+      she/they i’m 17
     location: "South Africa"
-    followers: 147600
-    engagement: 2554
-    commentsToLikes: 0.018695
+    followers: 150200
+    engagement: 2645
+    commentsToLikes: 0.020246
     id: ck9f48do6l5180j78dki5otq1
     verified: false
-    hashtags: "#foryou, #makeup, #tutorial, #fyp"
-  - username: "murry.pinheiro"
-    fullname: >-
-      murry.pinheiro
-    bio: >-
-      nUmB 🥀 Follow me on Instagram - murry.pinheiro 95,5K reasons to smile 🌸
-    location: "South Africa"
-    followers: 95500
-    engagement: 1997
-    commentsToLikes: 0.032653
-    id: ckb9r8jgqnozm0j23nbufx0dv
-    verified: false
-    hashtags: "#slowmotion, #laughs, #southafrica, #dancer"
-  - username: "bella_monsoon"
-    fullname: >-
-      bella_monsoon
-    bio: >-
-      a.k.a The Shapeshifter💄 👀Find me on Instagram for exclusive content👀 📍🇿🇦
-    location: "South Africa"
-    followers: 140200
-    engagement: 1753
-    commentsToLikes: 0.036223
-    id: ckbkxz3f3u4to0j23q35zvek1
-    verified: true
-    hashtags: "#halloweenlooks, #makeupartist, #cosplay, #coraline"
-  - username: "a.e.s.t.h.e.t.i.c_15"
-    fullname: >-
-      ℝ𝕠𝕤𝕖𝕤🌹❤️
-    bio: >-
-      Heyy welcome to my page シ Imagine if you followed🥺💛 🍒❤️
-    location: "South Africa"
-    followers: 404600
-    engagement: 2202
-    commentsToLikes: 0.017612
-    id: ck9rm6tfu1hm50j78sxpj726n
-    verified: false
-    hashtags: "#makeup, #bling, #trending, #wow"
+    hashtags: "#makeup, #greenscreen, #foryoupage, #eyeshadow"
   - username: "liandrivelzel"
     fullname: >-
       Liandri Velzel
     bio: >-
       Instagram: @artbyliandri Facebook: Art by Liandri 🇳🇱 🇿🇦
     location: "South Africa"
-    followers: 13400
-    engagement: 1679
-    commentsToLikes: 0.035128
+    followers: 13600
+    engagement: 1625
+    commentsToLikes: 0.037411
     id: ckbkz272xvdi00j23vjrtyl58
     verified: false
-    hashtags: "#hogwarts, #jensen, #makeup, #weasleytwins"
-  - username: "tarynemarupen"
+    hashtags: "#pencil, #photoshoot, #twins, #waterpaint"
+  - username: "caitlin.lakey"
     fullname: >-
-      Taryne Marupen
+      Caitlin ✨
     bio: >-
-      IG: taryne_m Sc: raynie_m 🇿🇦
+      20✨ She/her
     location: "South Africa"
-    followers: 59800
-    engagement: 1693
-    commentsToLikes: 0.020995
-    id: ckcejpu0ispmp0j238c2iyag5
+    followers: 20500
+    engagement: 1766
+    commentsToLikes: 0.020100
+    id: ckb17rc16vgqg0j23tlg1020i
     verified: false
-    hashtags: "#tiktoksa, #fyp, #halloweenmakeup, #halloweenmakeuplook"
-  - username: "sphokuhle.n"
+    hashtags: "#tiktok, #fyp, #makeup, #draft"
+  - username: "sandycorn_101"
     fullname: >-
-      Sphokuhle.n
+      Sandy 🦄
     bio: >-
-      Positive vibes only! South African 🇿🇦 19 Insta:s.crumptious
+      💄 Beauty & Lifestyle 🌸 🇿🇦 Anime & KDrama fan Link to my YouTube👇🏽
     location: "South Africa"
-    followers: 608200
-    engagement: 1620
-    commentsToLikes: 0.012510
-    id: ckbb2ddaisqss0j23104htmlm
+    followers: 108000
+    engagement: 1042
+    commentsToLikes: 0.021152
+    id: cka0s3owajr3x0i78k9cwj64w
     verified: false
-    hashtags: "#tiktoksa, #seemeontrace, #makeup, #fyp"
-  - username: "gabsolo"
+    hashtags: "#makeup, #tiktoksouthafrica, #valentinesday2021, #stitch"
+  - username: "__ohsodandy_"
     fullname: >-
-      𝖌𝖆𝖇𝖇𝖞
+      kiara.a.dandridge
     bio: >-
-      ˚✧₊⁎18⁎⁺˳✧༚ honestly just wait for my yt, it’s coming soon
+      21 Vibes on good music, good fashion Sews as well Art too 🇿🇦
     location: "South Africa"
-    followers: 43900
-    engagement: 1750
-    commentsToLikes: 0.033789
-    id: ck977blh03l8i0j78kpv9uxpe
+    followers: 11600
+    engagement: 1605
+    commentsToLikes: 0.026421
+    id: ckav3zycnad8w0j23grzfftv1
     verified: false
-    hashtags: "#fy, #duet, #narnia, #fyp"
+    hashtags: "#fashiontok, #transition, #fashiondesignstudent, #30daysofoutfits"
+  - username: "shewolfsa"
+    fullname: >-
+      Hannah Kruyer
+    bio: >-
+      Husky Mother Too old for TikTok Check out my IG for beauty things ✌🏻
+    location: "South Africa"
+    followers: 3683
+    engagement: 1318
+    commentsToLikes: 0.035594
+    id: ck9glnj0wp5j10j78esl50e7q
+    verified: false
+    hashtags: "#makeuptransition, #makeupinspo, #glitter, #foryoupage"
 ---

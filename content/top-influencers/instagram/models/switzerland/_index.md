@@ -1,72 +1,84 @@
 ---
-title: Top 10 Models Instagram Influencers In Switzerland In 2022
+title: Top 10 Models Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top models Instagram influencers in Switzerland in 2022. Most popular hashtags: #swissmodel #model #portrait #switzerland.
+  Find top models Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #portrait #photoshoot #model.
 platform: Instagram
-hits: 161
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 161 Instagram influencers like this in Switzerland for you to contact.
+hits: 85
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 85 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "jangudde"
+  - username: "flawenty"
     fullname: >-
-      🌿 J A N  G U D D E 🌿
+      Angelina Lau 福
     bio: >-
-      🍼FATHER OF ZAYA MABLE🍼 • 🇨🇭 @bibamodelmanagement 🇦🇹 @inmodels.at 🇳🇱+🇪🇸 @dc.models 🇩🇪 @mbmodelmanagement • 🏆 FINALIST 2019 @swissmensaward
+      model | social media marketing ✘ lemme be yo manager @creation.more ceo | founder @flamore.ch @rauch2000
     location: "Switzerland"
-    followers: 50673
-    engagement: 599
-    commentsToLikes: 0.085762
-    id: ck5pwssmpof1p0i11o9igo68a
+    followers: 44561
+    engagement: 244
+    commentsToLikes: 0.016384
+    id: ck8wg7mnpgv6l0j787e3hnkxk
     verified: false
-    hashtags: "#new, #outdoor, #foodporn, #body"
+    hashtags: "#sunday, #thatslaw, #zurichfilmfestival, #movingfast"
   - username: "angelsaurora"
     fullname: >-
       𝐀𝐮𝐫𝐨𝐫𝐚
     bio: >-
-      From Switzerland🇨🇭| TI Swiss girl | Model 1,78 m #teamLH ♡
+      From Switzerland🇨🇭| TI Swiss girl | Model 1,78 m
     location: "Switzerland"
-    followers: 40443
-    engagement: 590
-    commentsToLikes: 0.393568
+    followers: 40202
+    engagement: 600
+    commentsToLikes: 0.425843
     id: ckap24mwwxcl10i78d4d1wte6
     verified: false
-    hashtags: "#france, #instafashion, #instafit, #fashiondiaries"
+    hashtags: "#brunette, #swimsuit, #fashiondiaries, #instafit"
   - username: "alina.victoria06"
     fullname: >-
       𝑨𝒍𝒊𝒏𝒂 𝑪𝒂𝒓𝒃𝒐𝒏𝒊 🅾︎🅵🅵🅸🅲🅸🅰︎🅻
     bio: >-
       💥Model, Dancer, gymnast💥 🥇Swiss champion RG2019🥇 Ambassador @balletclub_ Agency @hip4kidz I speak 🇫🇷 🇬🇧 🇷🇺 🇩🇪 (little) Member @teamsportgala
     location: "Switzerland"
-    followers: 40776
-    engagement: 782
-    commentsToLikes: 0.066275
+    followers: 40560
+    engagement: 794
+    commentsToLikes: 0.065101
     id: ck8tb3u7vu5pa0j785agbvrb4
     verified: false
-    hashtags: "#internationalteenmodels, #tsga, #wlyg, #mytravelalina"
-  - username: "georseny"
+    hashtags: "#mytravelalina, #internationalteenmodels, #wlyg, #tsga"
+  - username: "model_dg_"
     fullname: >-
-      👁 The boy with an eye
+      FASHION | BEAUTY | PORTRAIT
     bio: >-
-      Model, influencer DM for business ⠀ 𝙀𝙭𝙘𝙡𝙪𝙨𝙞𝙫𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 🔥⬇️
+      📸 @facesmodels_ ©️ @bali_brunchsuisse 📍 St. Gallen | Zürich | München 💻 daniela.graf.model@gmail.com
     location: "Switzerland"
-    followers: 81680
-    engagement: 665
-    commentsToLikes: 0.021781
-    id: ckap6jo7vg4ks0i78s033kzfc
+    followers: 19338
+    engagement: 389
+    commentsToLikes: 0.145294
+    id: ck13c1wyky7zh0i190aek2hfv
     verified: false
-    hashtags: ""
+    hashtags: "#urbex, #swissmodel, #munichgermany, #sensual"
+  - username: "josevitari"
+    fullname: >-
+      Josevi Tari
+    bio: >-
+      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩
+    location: "Switzerland"
+    followers: 43474
+    engagement: 249
+    commentsToLikes: 0.360018
+    id: ck5hjldijgtwo0i114h28ac9n
+    verified: false
+    hashtags: "#dapperlydone, #dappermen, #menfashiontips, #tailoredsuit"
   - username: "trillprime"
     fullname: >-
       FASHION BLOGGER
     bio: >-
       🇨🇩🇦🇴 📩 david.ndala444@gmail.com Dm for Collaboration 📍Zürich Switzerland 📸Model
     location: "Switzerland"
-    followers: 14560
-    engagement: 1075
-    commentsToLikes: 0.061212
+    followers: 16279
+    engagement: 1694
+    commentsToLikes: 0.040912
     id: ck6tmv4al8laf0j71jxpa9d41
     verified: false
-    hashtags: "#zalandosneakers, #nike, #cactusjack, #zalandostyle"
+    hashtags: "#zalando, #nike, #hhstyle, #laflame"
   - username: "marieschoenmann"
     fullname: >-
       Marie Schönmann| Actress Model
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.048172
     id: ck5bxdvbynjax0i11zxm24ise
     verified: false
-    hashtags: "#alwaysactive, #fashionkid, #denimjacket, #bareface"
-  - username: "donnazed"
+    hashtags: "#purpledress, #bareface, #makeupfree, #blueeyedbeauty"
+  - username: "shunsukecos"
     fullname: >-
-      D O N N A       Z E D
+      Shunsuke
     bio: >-
-      Artist | Model | She/her Songs from and for the soul Renaissance @donna.zed @square_models_agency (MA) Switzerland ↓ NEW VIDEO ↓
+      Model, Coser and Self-photographer | 23 | 🇨🇭
     location: "Switzerland"
-    followers: 3329
-    engagement: 1449
-    commentsToLikes: 0.081921
-    id: ck9h9ptl49h3q0j78a3mvtl2t
+    followers: 269637
+    engagement: 1427
+    commentsToLikes: 0.004861
+    id: ck6twj3c2sa8p0j71w4rrad8q
     verified: false
-    hashtags: "#confinementcreatif, #selfportrait, #notimetodie, #eurasian"
-  - username: "amelia.averescu"
+    hashtags: "#naruto, #toxic, #sasuke, #britneyspears"
+  - username: "lucy_zzz"
     fullname: >-
-      𝑨𝑴𝑬𝑳𝑰𝑨 𝑨𝑽𝑬𝑹𝑬𝑺𝑪𝑼
+      ✨LU✨
     bio: >-
-      21 | Switzerland | Fotogen Models DM for collab
+      💙Eyeballtattoo Tattoomodel 🖤 Erotic Model Bookings per DM Adult videos on “Of” dm=link Dieser Körper ist die Vase meiner Seele🔮
     location: "Switzerland"
-    followers: 52539
-    engagement: 257
-    commentsToLikes: 0.060874
-    id: ck5bxe0fhnjj30i114pg1omyq
+    followers: 28097
+    engagement: 347
+    commentsToLikes: 0.032923
+    id: ck5bvc1pajdcf0i11s89j9r47
     verified: false
-    hashtags: "#endlessfaces, #fashionmodels, #germanmodel, #pulsefilm"
-  - username: "josevitari"
+    hashtags: "#italia, #bluesky, #milano, #mountains"
+  - username: "francesca_dmodel"
     fullname: >-
-      Josevi Tari
+      Francesca
     bio: >-
-      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩 Hextie Code: josevi25 (25%)
+      Pro Photomodel Based in Zürich📍 For bookings: DM/email📩 Agency @creative.models.agency @modelsklickofficial
     location: "Switzerland"
-    followers: 31359
-    engagement: 278
-    commentsToLikes: 0.382741
-    id: ck5hjldijgtwo0i114h28ac9n
+    followers: 40599
+    engagement: 207
+    commentsToLikes: 0.029447
+    id: ckf5lxc6lrejq0j23fklw7sao
     verified: false
-    hashtags: "#reels, #ootd, #moda, #outfitgrids"
-  - username: "lenny.iza"
-    fullname: >-
-      LENNY IZAGUIRE ‎⎊
-    bio: >-
-      • 🇨🇭 Square Models • 👱🏼‍♂️ 19 y.o / 187cm • 📩 Lenny@soeuretteproductions.com • ✨ Fashion / Acting / Travel • 📱 Other SocialMedia ⬇️
-    location: "Switzerland"
-    followers: 123771
-    engagement: 1497
-    commentsToLikes: 0.010565
-    id: ck5pwxr6rp4kg0i11wo0iua2r
-    verified: false
-    hashtags: "#modeling, #halloweenedits, #outfit, #harrypotter"
+    hashtags: "#photography, #portrait, #model, #photoshoot"
 ---

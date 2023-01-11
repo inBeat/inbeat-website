@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Sydney In 2022
+title: Top 10 Instagram Influencers In Sydney In 2023
 description: >-
-  Find top Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #gifted #beachgirl.
+  Find top Instagram influencers in Sydney in 2023. Most popular hashtags: #gym #love #fashion.
 platform: Instagram
-hits: 1854
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 1854 Instagram influencers like this in Sydney, Australia for you to pitch.
+hits: 957
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 957 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "ariggers"
+  - username: "mafuivan"
     fullname: >-
-      Andrew Rigby
+      Iván Martín
     bio: >-
-      Sydney 🇦🇺
+      ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀• Iváи Martíи • ⠀ ⠀ ⠀ ⠀ ✖️мσ∂єℓ ⠀ ⠀🇪🇸✖️🇦🇺 ⠀ ⠀ƒιтηєѕѕ ✖️⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀📍Based in Sydney
     location: "Australia"
-    followers: 9938
-    engagement: 1313
-    commentsToLikes: 0.023878
-    id: ck5qd18kctbvi0i11y3dl8by8
+    followers: 50059
+    engagement: 451
+    commentsToLikes: 0.089285
+    id: ck5qdzcdzxzlb0i11uuq31vag
     verified: false
-    hashtags: "#mardigras2020, #operahouse, #happybirthday, #mates"
-  - username: "lucy_lane_the_queen_of_balmain"
+    hashtags: "#instagoodboys, #instagoodshot, #instagood, #me"
+  - username: "byemmaleah"
     fullname: >-
-      Lucy The German Shepherd
+      Em | skincare + beauty
     bio: >-
-      🎬 creator 🇦🇺 Sydney 🤳 TikTok 1.4M 📽 YouTube 20k 📷 Dog Photographer ▶️ Latest YouTube video below
+      sydney, aus 📍 skincare / hair / beauty + everyday life 🤍 💌: emilia@cloutcommunications.com.au
     location: "Australia"
-    followers: 35555
-    engagement: 375
-    commentsToLikes: 0.020638
-    id: ck8wfxpaegf6p0j78a9qrmod6
+    followers: 15952
+    engagement: 1913
+    commentsToLikes: 0.112932
+    id: cl4l962k3t1en0i232ak4mtb9
     verified: false
-    hashtags: "#gsdpage, #germanshepherds, #germanshepherdpuppy, #k9"
-  - username: "lewismillss"
+    hashtags: "#aveneau, #personalbestskin, #tymodryer, #tymobeauty"
+  - username: "erinlouisecamilleri"
     fullname: >-
-      Lew
+      ERIN-LOUISE CAMILLERI
     bio: >-
-      Sydney
+      📍 Sydney, Australia ✨ SPREAD LOVE, BE KIND, BE YOU 🦋 Cabin Crew • Cheerleader 💌 erinlouise@vivemanagement.com.au ♾ Mu
     location: "Australia"
-    followers: 70290
-    engagement: 1260
-    commentsToLikes: 0.009578
-    id: ck5c3x3j807zo0i11q24rr4z0
+    followers: 71889
+    engagement: 163
+    commentsToLikes: 0.012395
+    id: ck13c72neyxdw0i19o4auz2kh
     verified: false
-    hashtags: "#alwaysfiending, #monsterenergy, #realbmx, #tb"
-  - username: "lettymortensen"
-    fullname: >-
-      LETTY
-    bio: >-
-      sydney
-    location: "Australia"
-    followers: 13602
-    engagement: 1122
-    commentsToLikes: 0.028155
-    id: ck1352696zbka0i19g5kmjagv
-    verified: false
-    hashtags: ""
-  - username: "jacobwoodhouse"
-    fullname: >-
-      Jacob woodhouse
-    bio: >-
-      Sydney 🇦🇺
-    location: "Australia"
-    followers: 7795
-    engagement: 614
-    commentsToLikes: 0.019745
-    id: ck5hjc8tegdir0i11p1i470r4
-    verified: false
-    hashtags: "#baywatch, #yep"
-  - username: "nickmeliska"
-    fullname: >-
-      Nick Meliska
-    bio: >-
-      18 Rep | @jeepmgmt Sydney | Australia Snap | nickeroo343
-    location: "Australia"
-    followers: 2439
-    engagement: 2392
-    commentsToLikes: 0.140664
-    id: ck8t84eydj28g0j78kvkr6kp4
-    verified: false
-    hashtags: "#brentstreet, #sydney, #shirtlessguys, #iykyk"
-  - username: "postcards_from_maria"
-    fullname: >-
-      Maria Francesca Reynolds ❀
-    bio: >-
-      London 🇬🇧 Sydney 🇦🇺 Founder of @plan_my_travels, providing bespoke itineraries within Australia
-    location: "Australia"
-    followers: 7147
-    engagement: 2107
-    commentsToLikes: 0.127842
-    id: ckap3yn6x52i80i78gi5tpuwo
-    verified: false
-    hashtags: "#trip, #newsouthwales, #traveltheworld, #coogee"
+    hashtags: "#trending, #reeloftheday, #dance, #dancechallenge"
   - username: "assadarmani"
     fullname: >-
       Assad Armani
     bio: >-
-      📍 Sydney, Australia Tiktok: assadarmani YouTube: Assad Armani 📧 info@winkmodels.com.au
+      🫀 Medical Device Sales | 👨🏻‍🎓 Medical Science Tiktok: 115k [assadarmani] YouTube: 113k [Assad Armani] 📍 Sydney, Australia
     location: "Australia"
-    followers: 17857
-    engagement: 1873
-    commentsToLikes: 0.095721
+    followers: 17405
+    engagement: 1785
+    commentsToLikes: 0.080211
     id: ckap0hgjyqazz0i78tlszyqje
     verified: false
-    hashtags: "#readerboi, #yd, #barberboi, #islandboy"
-  - username: "marciacoronado4"
+    hashtags: "#barberboi, #islandboy, #inclinebench, #coolstyleguy"
+  - username: "kellympreston"
     fullname: >-
-      • Fitness | Running | Sports •
+      Kelly Preston
     bio: >-
-      🇦🇷 Arg - Based 🇦🇺 Sydney, Australia. 🏋️‍♀️ Fitness 🏆Athlete 🏃🏼‍♀️ Run 💌 Enquiries: marcia.coronado.sm@gmail.com Check my website 🤗
+      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
     location: "Australia"
-    followers: 101115
-    engagement: 755
-    commentsToLikes: 0.052366
-    id: ck8wgbibrh2110j78z8fj9zg0
+    followers: 160384
+    engagement: 503
+    commentsToLikes: 0.028158
+    id: ck0u1bzaxwhw00i199j4biujl
     verified: false
-    hashtags: "#fitnessmotivaton, #beachtime, #runninggirl, #swimminggirl"
+    hashtags: "#fit, #bodyinspo, #hairstyle, #makeup"
+  - username: "suzanmarie__"
+    fullname: >-
+      SuzanMarie
+    bio: >-
+      Actor 📍Sydney, Australia
+    location: "Australia"
+    followers: 32043
+    engagement: 475
+    commentsToLikes: 0.084826
+    id: ck0ubg6suejgr0i19uxs4nr0i
+    verified: false
+    hashtags: ""
+  - username: "sophie.viljoen"
+    fullname: >-
+      S O P H I E
+    bio: >-
+      19 | SYDNEY | 🌊 @edge_models Nursing student Sophieviljoen101@gmail.com
+    location: "Australia"
+    followers: 5477
+    engagement: 1318
+    commentsToLikes: 0.102392
+    id: ckap8jkerolkn0i78psb6fg0f
+    verified: false
+    hashtags: "#whitefoxboutique, #beachvibes, #lifestyle, #prettylittlething"
+  - username: "rahrahry"
+    fullname: >-
+      Ryan 라이언
+    bio: >-
+      Living the aussie dream with @paristhelabradoodle Hometown 🇰🇷 Seoul. I call 🇦🇺 Sydney home. Oh, I get my brows done @parlourb #animalrights
+    location: "Australia"
+    followers: 64426
+    engagement: 713
+    commentsToLikes: 0.038206
+    id: ck136ipzy6oib0i19qkp1qbzi
+    verified: false
+    hashtags: "#picnicbythesea, #fuckyoucovid19, #almostcovid19free, #iloveyou"
   - username: "fitfastfoods"
     fullname: >-
       CAROLENA KOSTAS
     bio: >-
-      Runner 🏃‍♀️ | Fit & Fast Recipes👩‍🍳 | Sydney 🇦🇺 | Digital Marketing & Communications👩‍💻 | 💌fitfastfoods@yahoo.com.au
+      Runner 🏃‍♀️| Fit & Fast Recipes 👩‍🍳 | Sydney 🇦🇺 | 💌 fitfastfoods@yahoo.com.au @viciswim Athlete “FITFAST10” 🏊‍♀️ @workoutmeals “CAROLENA10” 💪
     location: "Australia"
-    followers: 30188
-    engagement: 698
-    commentsToLikes: 0.059334
+    followers: 28876
+    engagement: 691
+    commentsToLikes: 0.061729
     id: ck5hn62z0n9y20i11te9pamgm
     verified: false
-    hashtags: "#plantbased, #barillaaus, #gifted, #vegan"
+    hashtags: "#partner"
+  - username: "sammyxkay"
+    fullname: >-
+      Sammyboo - Livestreamer
+    bio: >-
+      📍Sydney girl 🇦🇺 💕Lifestyle 🙆🏼‍♀️ Travel ✈️ Streamer🎥 💄 @sammyxglam 🐹 Living a double life 📩collab@sammyxkay.com (business/collab/PR) 🍯☀️🌈
+    location: "Australia"
+    followers: 51062
+    engagement: 451
+    commentsToLikes: 0.110260
+    id: ck15qncmd3p2w0i19k4twt0s4
+    verified: false
+    hashtags: "#newzealandfinds, #ootdstyle, #sydneygirl, #sydneyfoodblogger"
 ---

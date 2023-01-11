@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Osaka In 2022
+title: Top 10 Food Instagram Influencers In Osaka In 2023
 description: >-
-  Find top food Instagram influencers in Osaka in 2022. Most popular hashtags: #osaka #food #lunch #japan.
+  Find top food Instagram influencers in Osaka in 2023. Most popular hashtags: #foodstagram #instafood #food #osaka.
 platform: Instagram
-hits: 20
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 20 Instagram influencers like this in Osaka, Japan for you to contact.
+hits: 18
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in Osaka, Japan for you to connect with.
 profiles:
-  - username: "akane.h.0430"
+  - username: "we_love_osaka_"
     fullname: >-
-      あかねᵕ̈*
+      🌐we love 大阪🌐
     bio: >-
-      Osaka🇯🇵﻿ おいしい幸せに出逢いにゆく日々🐰🌷﻿ 大阪♥京都♥奈良♥神戸でもぐもぐしてます♥♥﻿ Ambassador﻿ @aumo.jp @kansai_trip @trevary_cafe @likesweetsbox﻿ #大阪カフェ #大阪グルメ
+      🚩大阪のスポットやグルメ、役に立つ情報をお届けする魅力発信サイト ☻大阪に住んでいる人 ☻大阪に遊びや仕事で来る人 チェックしてくださいね 👀 #ういらぶ大阪 キャンペーンやってます😊 【ハッシュタグ＋@we_love_osaka_】 あなたの好きな大阪を投稿し採用されれば ↓↓Webサイトに🆙
     location: "Japan"
-    followers: 24503
-    engagement: 598
-    commentsToLikes: 0.007853
-    id: ck8ta59i7qgz70j786w7p1ic1
+    followers: 8744
+    engagement: 921
+    commentsToLikes: 0.005291
+    id: ck5ck7nt6wb2f0i1146kfh9o4
     verified: false
-    hashtags: "#osakajapan, #yummy, #delicious, #retrip"
+    hashtags: "#yummy, #good, #instafood, #travel"
   - username: "hananakko"
     fullname: >-
       
     bio: >-
       思いついたら大好きな飛行機や鉄道に乗って行く宛の無い旅を♪旅先で出会ったグルメを紹介します✨ 　 麺類・和食・中華・エスニック・Cafe&モーニング巡り☕ フォロー•コメントお気軽に✨ 　 - - -✈ #genic_food Ambassador BASED IN OSAKA/JPN
     location: "Japan"
-    followers: 7099
-    engagement: 3247
-    commentsToLikes: 0.008228
+    followers: 7248
+    engagement: 3002
+    commentsToLikes: 0.008328
     id: ckaowxf23avx50i78n9b9kkqn
     verified: false
-    hashtags: "#genic, #cafe, #instafoodgram"
+    hashtags: "#genic, #cafe, #godiva, #instafoodgram"
   - username: "yurin1020"
     fullname: >-
       *yurin*
     bio: >-
       camp,hike,dogs,family,cooking,bread‥ 暮らし‥ソトアソビ‥ may☆toypoodle coco☆lovebird from osaka japan ↓obento...food...
     location: "Japan"
-    followers: 8692
-    engagement: 483
-    commentsToLikes: 0.017157
+    followers: 8699
+    engagement: 439
+    commentsToLikes: 0.016636
     id: ck13c87giz2ee0i194iao085i
     verified: false
-    hashtags: "#foodstagram, #outdoor, #poodle, #lunch"
-  - username: "ayu888ayu"
+    hashtags: "#tent, #foodporn, #watch, #camperlifestyle"
+  - username: "ma7007ho"
     fullname: >-
-      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
+      𝙺𝚒𝚜𝚑𝚒𝚖𝚘𝚝𝚘 𝙼𝚊𝚑𝚘
     bio: >-
-      お仕事のご依頼はDMにお願いします💌 愛用品は楽天ROOMにまとめています🦋 🇯🇵🇺🇸🇬🇧🇦🇪🇹🇭🇻🇳🇰🇷🇰🇿🇺🇸🇻🇳🇬🇺🇲🇾🇸🇬🇺🇸🇺🇸🇲🇾 🇦🇪🇵🇹 🇧🇷🇰🇷2020🇲🇾🇨🇳🇹🇭🇩🇪🇸🇬🇹🇭🇮🇳🇲🇾🌺🌈🕌👑🧚‍♀️ ⭐️2019年日本TV出演📺🇯🇵
+      𝟿𝟼"𝟶𝟾/𝟸𝟷 ▼𝚈𝚘𝚞𝚃𝚞𝚋𝚎
     location: "Japan"
-    followers: 91071
-    engagement: 405
-    commentsToLikes: 0.039750
-    id: ck8sy23uqjgsa0j78ox8ik1pn
+    followers: 14511
+    engagement: 254
+    commentsToLikes: 0.044544
+    id: ck13acl3wpprs0i19f3fb3s1z
     verified: false
-    hashtags: "#code, #outfit, #wardrobe, #osakajapan"
+    hashtags: "#ootd, #code, #makeup, #pr"
+  - username: "fuku_stgrm"
+    fullname: >-
+      フク／福岡裕介（毎日カレー生活９年目）
+    bio: >-
+      🍛カレー愛食家🌶🌿 国内、インド、スリランカ、東南アジア諸国を巡り、スパイス食文化の過去と未来を探求している。★出演★マツコの知らない世界／news every.食べ歩きの極め人／雑誌PEN／エスビー食品note／カレー３兄弟・次男／SARAH JAPAN MENU AWARDカレー部門審査員
+    location: "Japan"
+    followers: 7335
+    engagement: 459
+    commentsToLikes: 0.004329
+    id: ckaovhpkp4ljz0i78f2zhn30b
+    verified: false
+    hashtags: "#delicious, #currystagram, #instafood, #india"
   - username: "ami_kisaki"
     fullname: >-
       綺咲 あみ(杏海)💋 Kisaki Ami
     bio: >-
-      #OSAKA ♥タレントモデル 📺KTV 真夜中市場 🌸撮影・モデル 🌸TVメディア出演 🌸MC.ナレーション❤ ଘ(੭*ˊᵕˋ)੭ ੈ✩ お仕事のご依頼・ご相談はDMにて🙏✉📬 ⚠️お仕事以外のDMは返信不可❌ ⬇️楽天room♡♡🪑👚
+      OSAKA♥タレントモデル 📺KTV 真夜中市場 🌸撮影・モデル・TV出演 🌸MC.ナレーション❤ ଘ(੭*ˊᵕˋ)੭ ੈ✩ お仕事のご依頼・ご相談はDMにて🙏✉📬 ⚠️お仕事以外のDMは返信不可❌ ⏬楽天ルーム🛋
     location: "Japan"
-    followers: 4576
-    engagement: 871
-    commentsToLikes: 0.158796
+    followers: 4805
+    engagement: 735
+    commentsToLikes: 0.166966
     id: ck8sy2huxji6l0j78x6khcr5g
     verified: false
-    hashtags: "#photo, #cafe, #osaka, #waldenwoodskyoto"
-  - username: "hiromitravel"
+    hashtags: "#loft, #tiffany, #curry, #12"
+  - username: "yuukaluxury"
     fullname: >-
-      Hiromi ひろみ
+      米倉 由華
     bio: >-
-      travel&entertainment📷Japan&world🇯🇵✈️ 兵庫出身🇯🇵日本・海外の景色など✈️たまにfood🍽フォローご自由に🙏コメント返信遅れ見落とし🙇‍♀️
+      Osaka Japan🇯🇵Dubai🇦🇪YOLO! Gotta have fun! Beauty✨Fashion👗Travel🌎 Food🍽Car🏎Music🎹🎻 たまに🔐ストーリーメイン、ドバイライフは非公開用のみでこちらにもたまにストーリー　ビジネス依頼お問い合わせのDMは全てハリーの⬇️へ
     location: "Japan"
-    followers: 14096
-    engagement: 1398
-    commentsToLikes: 0.019048
-    id: ck5qa44f8eg410i11bzspsv0x
+    followers: 34346
+    engagement: 126
+    commentsToLikes: 0.025776
+    id: ck9wdyfjzhu3l0j78paoc88ym
     verified: false
-    hashtags: "#jalan, #travellingthroughtheworld, #beautifuldestinations, #lonelyplanet"
-  - username: "nickblitzz"
+    hashtags: "#amazing, #fashion, #luxuryhotel, #cannes"
+  - username: "kmk.sakura"
     fullname: >-
-      🌛 𝙉 𝙄 𝘾 𝙃 𝙊 ⚡️𝘼 𝙎 🌜 | 𝙎𝙂𝙁𝙤𝙤𝙙
+      kimi@フードアナリスト
     bio: >-
-      Mostly Food, but travel sometimes. 🇸🇬 📷 Fujifilm X-T20 and iPhone 📱 XS #nickeatsg DM or email for collab or opportunities 👋🏻
+      ＊#飲食店応援 の為フォロー誰でも大歓迎✨励みになります☺️無言🆗転載の際はお声がけ下さい🙇 ＊@shibuya.entertainment エンタメ応援中📣 ＊@genic_food 公認アンバサダー ＊渋谷区(渋谷,代官山,恵比寿,原宿,表参道等)の店を渋谷地元民目線で紹介 ＊渋谷のラジオ出演↓
     location: "Japan"
-    followers: 6776
-    engagement: 526
-    commentsToLikes: 0.086965
-    id: ckaowe2ti8j000i787jcy8oyn
+    followers: 20031
+    engagement: 1114
+    commentsToLikes: 0.011202
+    id: ckap01oh8obvn0i78h4iwvcw6
     verified: false
-    hashtags: "#throwback, #aroimakmak, #homecooking, #osaka"
-  - username: "smine27"
+    hashtags: "#japanesegourmet, #foodstagram, #ramen, #followme"
+  - username: "momoichigo0515"
     fullname: >-
-      TabiEats Shinichi
+      YASUKO TAKESUE
     bio: >-
-      Food and Travel ⬇️ YouTube Channel
+      JAPAN🇯🇵OSAKA おうちご飯🍚 たまに お菓子作り🍰 . . cafe巡りアカウント @momoichigo0902
     location: "Japan"
-    followers: 20405
-    engagement: 399
-    commentsToLikes: 0.047253
-    id: ckf5op92w37610j23xqzxle8z
+    followers: 34815
+    engagement: 321
+    commentsToLikes: 0.009966
+    id: ck8sy7338jxx70j78p7ipmkfg
     verified: false
-    hashtags: "#noodles, #japanesefood, #tokyo, #tasty"
-  - username: "koles_helena_"
+    hashtags: "#instafood, #instagood, #foodphotography, #bibigo"
+  - username: "sae16_hi"
     fullname: >-
-      Helena
+      𝓼𝓪𝓮
     bio: >-
-      ⛩🏯日本で住んでいます、外国人です😘 お料理🥑🍤お出掛け🏖写真撮り📷ハンドメイド📌ファッション👗ネイル💅🏻 コスメ💄映画鑑賞🎦 🦋イイネ・フォロー・コメント嬉しいですありがとうございます❣️ 携帯見れない時もあるのでイイネ・お返事遅れる時があります🙏🏻 #food#travel#japan
+      カフェだったり ◌𓈒 おやつを作ったり𓂃◌𓈒𓐍
     location: "Japan"
-    followers: 7610
-    engagement: 1728
-    commentsToLikes: 0.010571
-    id: ckap27recxqrn0i78g86gdfcd
+    followers: 14635
+    engagement: 995
+    commentsToLikes: 0.012076
+    id: ck8t3pan63z9c0j78o67d3o2m
     verified: false
-    hashtags: "#daily, #fujifilmglobal, #shrine, #photooftheday"
-  - username: "sakura.007"
-    fullname: >-
-      foodie_travevler_sakura
-    bio: >-
-      I'm living in Tokyo.🇯🇵 Travel2019🇮🇹🇫🇷🇩🇰🇫🇴♪ #blogger #wrighter #concierge #traveler #foodie #consultant #sony #α7iii #restaurant #gourmet #food
-    location: "Japan"
-    followers: 7849
-    engagement: 1246
-    commentsToLikes: 0.011397
-    id: ckaorram4oe7x0i78xbnkyrzp
-    verified: false
-    hashtags: "#foodie, #tokyojapan, #italianfood, #osakafood"
+    hashtags: "#kobe, #parfait, #delicious, #toast"
 ---

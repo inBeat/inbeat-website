@@ -1,108 +1,120 @@
 ---
-title: Top 10 Christian Instagram Influencers In Norway In 2022
+title: Top 10 Christian Instagram Influencers In Norway In 2023
 description: >-
-  Find top christian Instagram influencers in Norway in 2022. Most popular hashtags: #norway #norge #nature #mittnorge.
+  Find top christian Instagram influencers in Norway in 2023. Most popular hashtags: #norway #mgp #eurovision.
 platform: Instagram
-hits: 59
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 59 Instagram influencers like this in Norway for you to contact.
+hits: 48
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database holds 48 Instagram influencers like this in Norway for you to collaborate.
 profiles:
   - username: "christiantrustrup"
     fullname: >-
-      CHRISTIAN TRUSTRUP
+      Christian Trustrup
     bio: >-
-      Norwegian creator based in Levanger • adventure • outdoor • lifestyle • contact: 📩 hello@christiantrustrup.com
+      Norwegian creator based in Levanger • nordic • outdoor • lifestyle •
     location: "Norway"
-    followers: 54572
-    engagement: 601
-    commentsToLikes: 0.027721
+    followers: 215019
+    engagement: 292
+    commentsToLikes: 0.014629
     id: ck0u7nijh54pt0i19fkfm20bw
     verified: false
-    hashtags: "#theoutbound, #mittvestland, #ourplanetdaily, #liveadventurously"
-  - username: "raw_norway"
+    hashtags: "#yrbilder, #visitinnherred, #exploretrondelag, #stedervielsker"
+  - username: "christianeelene_"
     fullname: >-
-      Norway |Norge |Norwegian
+      Christiane Ødegård | Strikk
     bio: >-
-      Act of @raw_community TAG #raw_norway A @nomadic_memoirs M @tid.vitne @helge.christiansen.71 @pias_photo @oranda06 @ksfotografering
+      Strikkeinspirasjon for alle🌻⁣⁣ ⁣ 🤍 Eier av @knittersbox 👩🏼‍💻 Vernepleiestudent 💕 Ambassadør @maskemarkorer ⁣⁣og @strikkeprat 💌 DM for samarbeid
     location: "Norway"
-    followers: 18716
-    engagement: 196
-    commentsToLikes: 0.023020
-    id: ck0vxvb0z0wtj0i19r5kku3ff
+    followers: 9208
+    engagement: 944
+    commentsToLikes: 0.089022
+    id: ck55lupal2hbv0i1148mqnl8o
     verified: false
-    hashtags: "#nortrip, #bestofnorway, #norsknatur, #igscandinavia"
+    hashtags: "#christianegenseren, #kaspergenseren, #modernebroderi, #onegiftamonth"
   - username: "christiansorum"
     fullname: >-
       Christian Sandlie Sørum
     bio: >-
       - Pro Beach volleyball player🇳🇴🏐 - Nr 1 in the world 2018-2020🏆 - World tour 10x🥇2x🥈1x🥉 - @redbull athlete🔥 - Friend of the Brand @mauricelacroix 😎
     location: "Norway"
-    followers: 29790
-    engagement: 1194
-    commentsToLikes: 0.011507
+    followers: 29765
+    engagement: 1190
+    commentsToLikes: 0.014300
     id: ck0tu5ecz5ptd0i19daohlrn2
     verified: false
-    hashtags: "#vikingsontour, #givesyouwings, #kingofthecourt, #roadtrip"
+    hashtags: "#reklame, #goodnetproject, #ghostgear, #redbull"
   - username: "christian_ingebrigtsen"
     fullname: >-
       Christian Ingebrigtsen
     bio: >-
       Member of a1, artist, songwriter, producer & actor.
     location: "Norway"
-    followers: 21477
-    engagement: 461
-    commentsToLikes: 0.053723
+    followers: 21716
+    engagement: 435
+    commentsToLikes: 0.058168
     id: ck5c7p0st7xo90i11387k3426
     verified: false
-    hashtags: "#boysarebacktour, #jul, #christmas, #esc"
-  - username: "mitt_landlige_hjem"
+    hashtags: "#a1, #mgp, #boysarebacktour, #music"
+  - username: "ingridivarson"
     fullname: >-
-      Linda🇳🇴
+      Ingrid Suhr Olsen
     bio: >-
-      •Landlig cottage stil🏡 •Nytt og gammelt interiør🪑 •Blomster, uterom, håndarbeid🌸🧶 •Maine Coon🐈 •Følg meg gjerne🤗 If you use my pictures - cred me😊
+      Norwegian living in Copenhagen🇳🇴🇩🇰 Proud dog-mom of Leopold 🐶 Welcome to my world of: Fashion👗 Interior🏡 Travel✈️ ✉️ ingridivarson@hotmail.com
     location: "Norway"
-    followers: 3071
-    engagement: 1686
-    commentsToLikes: 0.164009
-    id: ck5bwjvuclua20i11g8qfj8qa
+    followers: 14818
+    engagement: 251
+    commentsToLikes: 0.059799
+    id: ck0vwbsv4szr10i192bnfjexo
     verified: false
-    hashtags: "#homeandcottagenorge, #delvakkerthjem, #thriftedhomestyle, #vintagebasket"
-  - username: "stylingbymalla"
+    hashtags: "#girlstraveleurope, #tuscany, #elegantwoman, #zarawoman"
+  - username: "originalex"
     fullname: >-
-      Malin Nilsen 🇳🇴
+      Alex Rosén
     bio: >-
-      It's all about the details ☆ •Finalist Gullfjæren Interiør Awards 2020 🐼 Styling | interior | family 📮Collab - DM/email
+      Alex Rosén show på podcast nå. Trykk på linken. For Booking : erik@alexrosen.no
     location: "Norway"
-    followers: 142187
-    engagement: 49
-    commentsToLikes: 0.086636
-    id: ck5hmssrdmk0p0i11uw0ylehm
+    followers: 26773
+    engagement: 258
+    commentsToLikes: 0.010530
+    id: ck6txy7cy0jde0j71qcivxbd9
     verified: false
-    hashtags: "#jenterom, #kidsinteriors, #barnemote, #kidsroomdesign"
-  - username: "gaiadottir"
+    hashtags: "#ekspedisjonlothepus, #alexrosenshow, #motocross, #alexrosenandtheyoungdudes"
+  - username: "einarnilsson"
     fullname: >-
-      🌱 Kama Sofie Gaiadóttir 🌱
+      Einar Nilsson
     bio: >-
-      Storyteller from the Norwegian Woods 🌲 Intersectional environmentalist 🌳 Activist and artist 🕊️ Nature | Folklore | Magic 🍃💚🍃
+      Maleren i Tid For Hjem på Tv2 🎨🎸😁🕺
     location: "Norway"
-    followers: 13048
-    engagement: 725
-    commentsToLikes: 0.054441
-    id: ck6uc8u8ue67w0j71vi946twz
+    followers: 12107
+    engagement: 594
+    commentsToLikes: 0.020781
+    id: ck5zrxjhpxfrr0i141by8cbrh
     verified: false
-    hashtags: "#witchesofinstsgram, #museum, #enchantedforest, #fairy"
-  - username: "olesunde"
+    hashtags: "#maleglede, #fortidsminneforeningen, #gamletrehus, #restaurering"
+  - username: "halligansand_hairties"
     fullname: >-
-      Ole Sunde
+      Dakota Waldum 🥄
     bio: >-
-      📍: Volda - Norway🇳🇴 👨🏻‍🏫: socialworker ☀️: hiking, camping and kayaking ⛰🏕 ❄️: ski⛷🎿
+      Follow Christ. Work hard. Be nice. Wife. Momma. Texan. CrossFit. Celiac. CVS. Thyroid Disease. Fireman/EMTP🔥 @next_rung Board Member🚒 @nickwaldumgolf💍
     location: "Norway"
-    followers: 2450
-    engagement: 1367
-    commentsToLikes: 0.027752
-    id: ck6tmidec7wni0j71j6998bfk
+    followers: 7655
+    engagement: 349
+    commentsToLikes: 0.040218
+    id: ck14hfxt7a4np0i19xpnhgbzh
     verified: false
-    hashtags: "#skiing, #hiking, #norge, #hj"
+    hashtags: "#autoimmunedisease, #firefighterworkout, #fitforduty, #girlswithtattoos"
+  - username: "rein_alexander"
+    fullname: >-
+      Rein Alexander
+    bio: >-
+      Norwegian singer and artist 🎤 To Pre-Save my Eurovision entry this year, click the link below 👇🏻
+    location: "Norway"
+    followers: 7057
+    engagement: 339
+    commentsToLikes: 0.032036
+    id: ck6tm8olw7dp90j71bbsq49w2
+    verified: false
+    hashtags: "#eyeswideopen, #reinalexander, #mgp, #nrkmgp"
   - username: "nordicnature_vackrastenatur"
     fullname: >-
       Pure Nordic Nature 🇳🇴🇸🇪🇫🇮🇦🇽🇫🇴
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.013490
     id: ck6tk91bs48iu0j71gi1vvh8y
     verified: false
-    hashtags: "#lost, #landscape, #nature, #moodygrams"
-  - username: "gorgorothofficial"
-    fullname: >-
-      Gorgoroth Official
-    bio: >-
-      GORGOROTH is a Norwegian black metal band based in Bergen, It was formed and founded in 1992 by "Infernus"
-    location: "Norway"
-    followers: 24616
-    engagement: 719
-    commentsToLikes: 0.008233
-    id: ck6u3ntvnyufi0j71jzw0vmgj
-    verified: false
-    hashtags: "#extrememetal, #metalfan, #thrashmetal, #festival"
+    hashtags: "#beautifuldestinations, #bestofnorway, #lost, #magic"
 ---

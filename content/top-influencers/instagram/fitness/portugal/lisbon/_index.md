@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Lisbon In 2022
+title: Top 10 Fitness Instagram Influencers In Lisbon In 2023
 description: >-
-  Find top fitness Instagram influencers in Lisbon in 2022. Most popular hashtags: #fashion #fitness #portugal #lisbon.
+  Find top fitness Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #fashion #photooftheday #instagood.
 platform: Instagram
-hits: 23
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 23 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
+hits: 7
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 7 Instagram influencers like this in Lisbon, Portugal for you to work with.
 profiles:
-  - username: "brunoanjoss"
+  - username: "goncaloasilva"
     fullname: >-
-      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
+      Gonçalo Silva
     bio: >-
-      MensWear • Lifestyle • Fitness Contact : E-Mail 📩 Lisbon 📍 -10% @zumub.pt - ANJOS
+      Portuguese Photographer #goncalosilva #film #lisbon
     location: "Portugal"
-    followers: 4971
-    engagement: 1402
-    commentsToLikes: 0.279553
-    id: ck9womla25rjc0j78gw86m3wr
+    followers: 28937
+    engagement: 160
+    commentsToLikes: 0.017782
+    id: ck6ueo5ois3q90j71b3ki618u
     verified: false
-    hashtags: "#travelblogger, #algarve, #influencer, #menfashionpost"
-  - username: "ewerthonjhony"
-    fullname: >-
-      Ewerthon Jhony
-    bio: >-
-      • Proprietário @lizzerati_oficial • PT 🇵🇹 • Viseu📍 • Odontologia 👨🏽‍⚕️🦷💉 • Mister MT 2018 • La Renovence 🩺 • Segue de volta 😻
-    location: "Portugal"
-    followers: 5866
-    engagement: 1253
-    commentsToLikes: 0.056186
-    id: ckap87go0n5xh0i786e9i2fqw
-    verified: false
-    hashtags: "#chapadadosguimaraes, #modelos, #cuiab, #fashion"
-  - username: "whatever.joana"
-    fullname: >-
-      Joana Dias
-    bio: >-
-      Based in Lisbon, Portugal Collaborations/shoot inquiries: 💌 joanadiasngd@gmail.com
-    location: "Portugal"
-    followers: 7747
-    engagement: 1034
-    commentsToLikes: 0.203523
-    id: ck0u12aejvj8w0i19k9pnujgn
-    verified: false
-    hashtags: "#outfit, #love, #style, #fashion"
-  - username: "martinhagomez"
-    fullname: >-
-      Martinha Gomez
-    bio: >-
-      💄Portuguese Blogger & Youtuber 💄 🖌️Graphic Designer |📍Lisbon ▪️Mother of 🐈🐈🐕 . Collabs ✉️ Insta.martinhagomez@gmail.com .
-    location: "Portugal"
-    followers: 28732
-    engagement: 573
-    commentsToLikes: 0.265003
-    id: ck0tybj33marc0i19b7w37ha9
-    verified: false
-    hashtags: "#fridayloveday, #novidade, #playa, #verao2020"
-  - username: "barbaraduartz"
-    fullname: >-
-      BÁRBARA DUARTE✨
-    bio: >-
-      FITNESS & LIFESTYLE 🇵🇹 Be Yourself. Be Free.🦋 🗻 From Azores 💄Makeup Lover 🌐@zumub: BARBARA10
-    location: "Portugal"
-    followers: 5207
-    engagement: 1185
-    commentsToLikes: 0.040490
-    id: ckaoy4a4nfzym0i78lm1h1v1o
-    verified: false
-    hashtags: "#influencer, #portugal, #gymgear, #influencerstyle"
-  - username: "italo_limaa"
-    fullname: >-
-      Italo Lima
-    bio: >-
-      • From Brasil 🇧🇷 • living in Lisbon 🇵🇹 • -40% off @myproteinpt code: ITALOMP • -10% off @ubonlinestore code: italo10 link 👇🏽
-    location: "Portugal"
-    followers: 87584
-    engagement: 198
-    commentsToLikes: 0.009131
-    id: ck5qc3r3dopkd0i11yvzxmjbj
-    verified: false
-    hashtags: "#streetstyle, #style, #styleoftheday, #fashionstyle"
-  - username: "saraserol_fitgirl"
+    hashtags: "#portra800, #lisbon, #film, #goncalosilva"
+  - username: "coach_saraserol"
     fullname: >-
       Sara Serol
     bio: >-
-      📍Lisbon, 23y ⚡ Personal Trainer @eunutrition_pt : SARASEROL15 💥
+      📍Lisbon, 24 ⚡ Personal Trainer- presencial & online 📩 @eunutrition_pt : SARASEROL15 💥
     location: "Portugal"
-    followers: 3561
-    engagement: 1410
-    commentsToLikes: 0.019586
+    followers: 3663
+    engagement: 1196
+    commentsToLikes: 0.014761
     id: ckf5n8h9ix5j30j23bhiyg8gx
     verified: false
-    hashtags: "#follow, #kindness, #beauty, #personaltrainer"
-  - username: "marina.belun"
-    fullname: >-
-      Marina Belun - Content Creator
-    bio: >-
-      👩🏽‍💻 Designer @moonmagicjewelry 📸 #videographer 🌎 #Traveladdicted 📍 Lisbon
-    location: "Portugal"
-    followers: 7090
-    engagement: 473
-    commentsToLikes: 0.049261
-    id: ck5hp973hqyok0i11chy9wfod
-    verified: false
-    hashtags: "#comewithme, #inspiration, #explore, #travel"
+    hashtags: "#fitgirl, #ootd, #summer, #water"
   - username: "andrerodrigues.oficial"
     fullname: >-
       André Rodrigues
     bio: >-
       Lisboa, Portugal 🇵🇹 🔒❤
     location: "Portugal"
-    followers: 16190
-    engagement: 1064
-    commentsToLikes: 0.018679
+    followers: 15170
+    engagement: 1150
+    commentsToLikes: 0.018539
     id: ck8t3nr4e3udw0j787sidv9zu
     verified: false
-    hashtags: "#like4like, #boy, #tbt, #gay"
-  - username: "veralspereira"
+    hashtags: "#portuguese, #gayman, #follow4follow, #manstyle"
+  - username: "borrachinhacapoeiramuzenza"
     fullname: >-
-      Vera Pereira
+      𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙤𝙧𝙖 𝘽𝙤𝙧𝙧𝙖𝙘𝙝𝙞𝙣𝙝𝙖
     bio: >-
-      Enjoy the life ✈️
+      Capoeira e Personal Trainer 5x🥇World Champ 2x🥇European Champ 🥇Woman’s Fitness 👩‍🎓Licenciada Exercício Bem Estar @goldnutrition_official YOUTUBER CEO
     location: "Portugal"
-    followers: 41413
-    engagement: 431
-    commentsToLikes: 0.013916
-    id: ck8tbo5iqwfm80j78v3lh5qld
+    followers: 76619
+    engagement: 324
+    commentsToLikes: 0.017900
+    id: ckaouatudzk7d0i78xnbln1wz
     verified: false
-    hashtags: "#white, #girlpower, #picoftheday, #lingerie"
+    hashtags: "#ifbb, #ifbbportugal, #capoeiraarte, #martialarts"
+  - username: "gabrielaxsantos"
+    fullname: >-
+      GABRIELA SANTOS
+    bio: >-
+      My life + style in squares ♡ 23 portugal 💌 gabriela.santos97@outlook.pt
+    location: "Portugal"
+    followers: 13465
+    engagement: 1473
+    commentsToLikes: 0.059922
+    id: ck8tbun49x7wk0j78ufnfzww2
+    verified: false
+    hashtags: "#blackdress, #blonde, #coimbra, #porto"
+  - username: "zeblackturboofficial"
+    fullname: >-
+      Zé Preto
+    bio: >-
+      🥇World records front lever🥇 🦍 inhumam power ▪️🇨🇻🇵🇹🇺🇲50 years old and still crazy af ◾100% natural strength💪 ◾the strongest core in the world 👽
+    location: "Portugal"
+    followers: 76442
+    engagement: 442
+    commentsToLikes: 0.046478
+    id: ck6tulw93h34k0j71i5ndwdae
+    verified: false
+    hashtags: "#beast, #oldschool, #california, #crossfit"
+  - username: "luislevylima.art"
+    fullname: >-
+      Luis Levy Lima
+    bio: >-
+      Contemporary figurative artist. Represented by @krystelannart_management
+    location: "Portugal"
+    followers: 9378
+    engagement: 413
+    commentsToLikes: 0.102149
+    id: ckapagud2w1pc0i78yccwtk07
+    verified: false
+    hashtags: "#marvel, #figurativeart, #portugueseartist, #fit"
+  - username: "im.susanasilva"
+    fullname: >-
+      SUSANA SILVA ♡
+    bio: >-
+      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
+    location: "Portugal"
+    followers: 14331
+    engagement: 306
+    commentsToLikes: 0.080679
+    id: ckaovkl9a4ys60i787iawknf3
+    verified: false
+    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
+  - username: "joliendhoore"
+    fullname: >-
+      Jolien D'hoore
+    bio: >-
+      ▪️Pro cyclist @teamsdworx @sportvlaanderen ▪️Bach physio @ugent ▪️Personal trainer @nasm_fitness ▪️Olympic🥉omnium Rio’16 ▪️Ambassador @sobelgium
+    location: "Portugal"
+    followers: 25283
+    engagement: 652
+    commentsToLikes: 0.013282
+    id: ck5hf9kzzwghk0i11qh02yh9t
+    verified: false
+    hashtags: "#spring, #doit, #wesparksuccess, #tokyo2021"
+  - username: "eumarianajade"
+    fullname: >-
+      Mariana Jade MK - LEWD Cosplay
+    bio: >-
+      👠 NSFW/LEWD Cosplayer🔞 🏋🏽‍♀️ Fitness 💃🏽 Pole Dancer & Belly Dancer 📖 Intérprete 🇧🇷PT/🇮🇹IT/🇺🇲EN/🇪🇸SP 👑 Contato para jobs, feiras e eventos: DM/E-mail
+    location: "Portugal"
+    followers: 3474
+    engagement: 857
+    commentsToLikes: 0.143793
+    id: ckf5tcqynhhei0j23h9yyd7zc
+    verified: false
+    hashtags: "#cosplay, #cosplaygirl, #nightwolf, #cyrax"
 ---

@@ -1,36 +1,60 @@
 ---
-title: Top 10 TikTok Influencers In Brisbane In 2022
+title: Top 10 TikTok Influencers In Brisbane In 2023
 description: >-
-  Find top TikTok influencers in Brisbane in 2022. Most popular hashtags: #fyp #duet #brisbane #foryoupage.
+  Find top TikTok influencers in Brisbane in 2023. Most popular hashtags: #foryoupage #fyp #brisbane #foryou.
 platform: TikTok
-hits: 183
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 183 TikTok influencers like this in Brisbane, Australia for you to work with.
+hits: 202
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 202 TikTok influencers like this in Brisbane, Australia for you to contact.
 profiles:
-  - username: "connorevanstv"
+  - username: "kikafilipo"
     fullname: >-
-      Connor Evans
+      Kika Filipo
     bio: >-
-      Brisbane 🇦🇺
+      you might as well hit that follow 📍Brisbane Australia 👨‍👩‍👦‍👦💍🇼🇸
     location: "Australia"
-    followers: 526600
-    engagement: 2452
-    commentsToLikes: 0.034656
-    id: ck8adcl2j55aq0j78ws5bhdyu
-    verified: true
-    hashtags: "#fyp, #prank, #aussie, #bf"
-  - username: "chloemariez"
-    fullname: >-
-      Chloe 🐢
-    bio: >-
-      📍brisbane, australia 21 🤍 i love you
-    location: "Australia"
-    followers: 21300
-    engagement: 1923
-    commentsToLikes: 0.044361
-    id: ckbkjdorxc5ob0j23m2z69lcf
+    followers: 7490
+    engagement: 1937
+    commentsToLikes: 0.099906
+    id: ckc7m8exssqbr0j23x7tonq6x
     verified: false
-    hashtags: "#australia, #foryoupage, #dance, #trend"
+    hashtags: "#issavibe, #duet, #mumbod, #tiktokaustralia"
+  - username: "thatsgilbert"
+    fullname: >-
+      GILBEEERT✝️
+    bio: >-
+      Brisbane | Australia Follow me on IG for a follow back ✌🏾 Snapchat; gpeba5
+    location: "Australia"
+    followers: 109700
+    engagement: 2377
+    commentsToLikes: 0.139098
+    id: ckcvjoeztx5lh0j23kgme07qd
+    verified: false
+    hashtags: "#foryou, #xyzbca, #funny, #foryoupage"
+  - username: "zariah_79"
+    fullname: >-
+      Zah_79
+    bio: >-
+      Proud Mama 💪🏼 Māori 🇳🇿 Good vibes 👌🏼🎵 Brisbane/Australia LOVE IS LOVE 🌈
+    location: "Australia"
+    followers: 9902
+    engagement: 2281
+    commentsToLikes: 0.118710
+    id: ckbqej6av0e320j234wwr2jwp
+    verified: false
+    hashtags: "#foryoupage, #love, #acting, #foryou"
+  - username: "dylanmeakins"
+    fullname: >-
+      Dylan
+    bio: >-
+      19 Brisbane, Australia Follow @notdylanmeakins if you’re cool Sc: dylanmeakins
+    location: "Australia"
+    followers: 52700
+    engagement: 1463
+    commentsToLikes: 0.052793
+    id: ckbw3ebtxx36f0j231n01nlcb
+    verified: false
+    hashtags: ""
   - username: "cdj78"
     fullname: >-
       🏳️‍🌈 Celeste 🇦🇺
@@ -38,93 +62,69 @@ profiles:
       I love to laugh, make others laugh, empath and caring 🇦🇺 Brisbane Australia!!
     location: "Australia"
     followers: 29500
-    engagement: 1432
-    commentsToLikes: 0.092106
+    engagement: 1411
+    commentsToLikes: 0.095461
     id: ckbr92ohqnqt60j238twxkum9
     verified: false
-    hashtags: "#foryoupage, #duet, #smilemafia, #lgbt"
-  - username: "dylanmeakins"
+    hashtags: "#lgbt, #bekind, #foryoupage, #duet"
+  - username: "dadcos"
     fullname: >-
-      Dylan
+      Your dad
     bio: >-
-      19 Brisbane, Australia Follow @notdylanmeakins if you’re cool Sc: dylanmeakins
+      Brisbane, He/Him, 24 Alt: dadcos2 BLM! resources in link below
     location: "Australia"
-    followers: 54000
-    engagement: 1441
-    commentsToLikes: 0.053529
-    id: ckbw3ebtxx36f0j231n01nlcb
+    followers: 20000
+    engagement: 2459
+    commentsToLikes: 0.028919
+    id: ckbasqsjdjejb0j23h64q5qpl
     verified: false
-    hashtags: ""
+    hashtags: "#incubus, #demon, #dantei, #necropolishigh"
   - username: "the_achayans"
     fullname: >-
       Nibin Babu 
     bio: >-
       Kollam ✈️ Brisbane Chef 👨🏻‍🍳 #ozmallutiktokers Text me in insta to know me 😇
     location: "Australia"
-    followers: 6850
-    engagement: 2352
-    commentsToLikes: 0.065500
+    followers: 6838
+    engagement: 2253
+    commentsToLikes: 0.065123
     id: ckaij81q2dtrk0i788tkcagg3
     verified: false
-    hashtags: "#foryoupage, #kattankaappi, #trending, #viral"
+    hashtags: "#slowmo, #viral, #foryoupage, #foryou"
+  - username: "chloemariez"
+    fullname: >-
+      Chloe 🐢
+    bio: >-
+      📍brisbane, australia 21 🤍 i love you
+    location: "Australia"
+    followers: 21100
+    engagement: 1857
+    commentsToLikes: 0.033490
+    id: ckbkjdorxc5ob0j23m2z69lcf
+    verified: false
+    hashtags: "#foryoupage, #australia, #comedy, #stateoforigin2020"
   - username: "parkourayce"
     fullname: >-
       ParkourAYCE
     bio: >-
       📍Brisbane, Australia 👻 Snapchat @ParkourAYCE Go Buy Some Merch! 👕👇
     location: "Australia"
-    followers: 13400
-    engagement: 1873
-    commentsToLikes: 0.039673
+    followers: 13700
+    engagement: 1811
+    commentsToLikes: 0.035060
     id: ck9kdgilzu41l0j780anez21n
     verified: false
-    hashtags: "#flipping, #tricking, #flips, #flip"
-  - username: "official_corzzaa"
-    fullname: >-
-      Corzzaa
-    bio: >-
-      😱Thankyou for 250k😱 👻snapchat - corzzaa_real👻 🇦🇺Brisbane🇦🇺 🖤25🖤 Single
-    location: "Australia"
-    followers: 252300
-    engagement: 1889
-    commentsToLikes: 0.014821
-    id: ck9gkwc7tlk4z0j78w10lhwu9
-    verified: false
-    hashtags: "#funny, #comedy, #duet, #driving"
+    hashtags: "#flips, #fyp, #tricking, #parkourayce"
   - username: "lakhbirsinghbal"
     fullname: >-
       Mr BAL
     bio: >-
       PB02🇮🇳Brisbane🇦🇺 ❤️ਤੈਨੂੰ ਮੇਰੀ ਵੀ ਉਮਰ ਲੱਗ ਜਾਵੇ ਜੁੱਗ -ਜੁੱਗ ਜੀ ਸੌਹਣਿਆ❤️
     location: "Australia"
-    followers: 7212
-    engagement: 1491
-    commentsToLikes: 0.182058
+    followers: 7479
+    engagement: 1560
+    commentsToLikes: 0.174150
     id: cka0jbm1qhdhl0i789aeqqi2o
     verified: false
-    hashtags: "#brisbane, #australia, #lakhbirsinghbal, #amritsar"
-  - username: "justinazzarello"
-    fullname: >-
-      Justin Azzarello
-    bio: >-
-      Brisbane Aus Filipino Italian FB, Insta, YT Justin Azzarello VLOGS ON YOUTUBE
-    location: "Australia"
-    followers: 170100
-    engagement: 951
-    commentsToLikes: 0.033814
-    id: ckb98wr9ossm80j23wofo0n3c
-    verified: false
-    hashtags: "#theazzarellofamily, #hiphiphappy, #filipinomoms, #justinthedancer"
-  - username: "xeroshero"
-    fullname: >-
-      XerosHero
-    bio: >-
-      48 / Cybersecurity Professional American living in Brisbane 🇦🇺 Dry Humor
-    location: "Australia"
-    followers: 13200
-    engagement: 1488
-    commentsToLikes: 0.195247
-    id: ckbaa901n2zso0j23algqnhz3
-    verified: false
-    hashtags: "#80s, #genx, #80smusic, #80smovies"
+    hashtags: "#goldentemple, #kalola, #australia, #amritsar"
 ---

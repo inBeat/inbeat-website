@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Busan In 2022
+title: Top 10 Fashion Instagram Influencers In Busan in 2023
 description: >-
-  Find top fashion Instagram influencers in Busan in 2022. Most popular hashtags: #fashion #ootd #style #instagood.
+  Find top fashion Instagram influencers in Busan in 2023. Most popular hashtags: #fashion #ootd #style #instagood.
 platform: Instagram
 hits: 4
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,120 +1,108 @@
 ---
-title: Top 10 Boxers TikTok Influencers In United Kingdom In 2022
+title: Top 10 Boxers TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top boxers TikTok influencers in United Kingdom in 2022. Most popular hashtags: #boxer #boxing #fyp #training.
+  Find top boxers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #boxing #boxer #foryoupage #fyp.
 platform: TikTok
-hits: 46
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 46 TikTok influencers like this in United Kingdom for you to contact.
+hits: 38
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database has 38 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "lethalboxing"
+  - username: "willosbornefights"
     fullname: >-
-      King Hemphill
+      Will Osborne
     bio: >-
-      Best Boxing channel on tiktok!!! Daily vids on any boxers you request!! 👊👊👊
+      Boxer and MMA Fighter 🥊/🥋 General Fight Content 🏆
     location: "United Kingdom"
-    followers: 75200
-    engagement: 681
-    commentsToLikes: 0.011706
-    id: ckcotl56j8eyw0j23co4esg7r
+    followers: 37500
+    engagement: 1044
+    commentsToLikes: 0.037914
+    id: ck97wwjgtsxik0j780q0g83lw
     verified: false
-    hashtags: "#boxingfans, #king, #boxing, #mexico"
+    hashtags: "#knockout, #mma, #ufc, #boxing"
+  - username: "savannahatlanta"
+    fullname: >-
+      uncultured swine
+    bio: >-
+      kick-boxer, online currency trader & published model
+    location: "United Kingdom"
+    followers: 2493
+    engagement: 758
+    commentsToLikes: 0.045986
+    id: ckajkawudpjxe0i78rxshljc2
+    verified: false
+    hashtags: "#foryoupage, #art, #selfisolation, #makeover"
+  - username: "mimilouj"
+    fullname: >-
+      mimilouj
+    bio: >-
+      📍LDN 🏋🏼‍♀️ Fitness blogger & level 3 PT ♥️ Insta @mimilouj (20k) ✨
+    location: "United Kingdom"
+    followers: 3920
+    engagement: 550
+    commentsToLikes: 0.091608
+    id: ckcuqp74pjdbb0j23lj2wt0b8
+    verified: false
+    hashtags: "#healthy, #diet, #workout, #health"
+  - username: "brotherhoodboxing"
+    fullname: >-
+      brotherhoodboxing
+    bio: >-
+      Insta @brotherhoodboxing📸 B R O T H E R H O O D⚔️ Yorkshire champion Louis Brow
+    location: "United Kingdom"
+    followers: 35700
+    engagement: 656
+    commentsToLikes: 0.026348
+    id: ck8adfhdp5tx40j78y1ziq5w6
+    verified: false
+    hashtags: "#boxer, #sparbar, #foryoupage, #boxingfans"
+  - username: "sporthut"
+    fullname: >-
+      Sport Hut
+    bio: >-
+      🥊#1 Boxing / UFC page on TikTok ✅Follow for more! 👀40k followers?
+    location: "United Kingdom"
+    followers: 33600
+    engagement: 638
+    commentsToLikes: 0.018357
+    id: ckb9aj0hvvjal0j231jd52j1g
+    verified: false
+    hashtags: "#foryoupage, #boxing, #boxer, #fyp"
   - username: "wimborneabc"
     fullname: >-
       Wimborne Boxing Club
     bio: >-
       England Boxing and BBBoC registered boxing club, Dorset
     location: "United Kingdom"
-    followers: 32000
-    engagement: 1448
-    commentsToLikes: 0.014308
+    followers: 34000
+    engagement: 907
+    commentsToLikes: 0.011913
     id: ck8adficg5u470j78fx07px0z
     verified: false
-    hashtags: "#girlsboxing, #boxing, #squad, #workhard"
-  - username: "lionarofficial"
-    fullname: >-
-      Ali Rashid-Athlete & Youtuber
-    bio: >-
-      Motivational Athlete | 🙌🏽 1 Million Likes 🙌🏽 Strength Overcomes Weakness
-    location: "United Kingdom"
-    followers: 73000
-    engagement: 486
-    commentsToLikes: 0.056749
-    id: ck97wwkt3sxzt0j780j4814cr
-    verified: false
-    hashtags: "#alirashid, #wow, #inspire, #ufc"
-  - username: "ll_s_k_malik_17_ll"
-    fullname: >-
-      ꧁S_K_Malik_17꧂
-    bio: >-
-      ꧁S_K_Malik_17꧂ ꧁🇦🇫AFG_GANG🇦🇫꧂
-    location: "United Kingdom"
-    followers: 43100
-    engagement: 1030
-    commentsToLikes: 0.041466
-    id: ck982tg0mhphv0j78r842kybg
-    verified: false
-    hashtags: "#perfectasiam, #tiktok, #afghanistan, #foyou"
-  - username: "brotherhoodboxing"
-    fullname: >-
-      brotherhoodboxing
-    bio: >-
-      69kg Yorkshire Champion🏆 B R O T H E R H O O D ⚔️ Insta @brotherhoodboxing 📸
-    location: "United Kingdom"
-    followers: 27600
-    engagement: 596
-    commentsToLikes: 0.021363
-    id: ck8adfhdp5tx40j78y1ziq5w6
-    verified: false
-    hashtags: "#boxingfans, #foryou, #fight, #houseoftiktok"
-  - username: "a1fightgear"
-    fullname: >-
-      A1 Fight Gear
-    bio: >-
-      REFUSE TO LOSE
-    location: "United Kingdom"
-    followers: 17000
-    engagement: 842
-    commentsToLikes: 0.010835
-    id: ckbkz2bruvec00j23wowk11w2
-    verified: false
-    hashtags: "#punching, #kickboxing, #abs, #tyson"
+    hashtags: "#southpaw, #boxathome, #keepingfit, #training"
   - username: "seicholab"
     fullname: >-
       Seichō Lab
     bio: >-
       Boxing - Kickboxing - Muay Thai - MMA Videos 🥊 Shop our Canvas Art ⬇️
     location: "United Kingdom"
-    followers: 14000
-    engagement: 505
-    commentsToLikes: 0.006320
+    followers: 13900
+    engagement: 504
+    commentsToLikes: 0.006178
     id: ckdhqfqyb1qoe0j23q28jwvoh
     verified: false
-    hashtags: "#boxer, #training, #mma, #ufc"
-  - username: "leapfrogcombatsports"
+    hashtags: "#fight, #sports, #fighting, #mma"
+  - username: "bestofboxing1"
     fullname: >-
-      LeapFrogCombatSports
+      BestOfBoxing🥊🧟‍♂️
     bio: >-
-      We love Combat Sports It changes lives!! www.leapfrogcombatsports.com
+      Best boxing content on TikTok🤩 Loma, USYK🇷🇺 Mike Tyson, Muhammad Ali🇺🇸
     location: "United Kingdom"
-    followers: 18200
-    engagement: 596
-    commentsToLikes: 0.004711
-    id: ck9eja2n21r570j78876tpibk
+    followers: 29700
+    engagement: 856
+    commentsToLikes: 0.013191
+    id: ck97wwk7fsxt00j78t1qoq0d3
     verified: false
-    hashtags: "#thaiboxing, #k1, #muaythai, #muaythaigirl"
-  - username: "evieannax"
-    fullname: >-
-      ❤️👑Evie-Anna 👑❤️
-    bio: >-
-      16💩 I’m 11.5% on my way to 100k The local with curly hair 🍻
-    location: "United Kingdom"
-    followers: 12200
-    engagement: 2158
-    commentsToLikes: 0.094355
-    id: ckal7lfnofsfg0i78m9ll52mu
-    verified: false
-    hashtags: "#trend, #fyp, #fight, #couple"
+    hashtags: "#foryoupage, #foryou, #bestofboxing, #boxing"
   - username: "rmfisky"
     fullname: >-
       🧿 Richard Fisk
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.219660
     id: cka6o4pa5e3np0i78z7w506vf
     verified: false
-    hashtags: "#comedy, #loveyou, #alreadyfamouscrew, #shesmine"
+    hashtags: "#comingsoon, #love, #tiktoklove, #meaning"
+  - username: "george.png"
+    fullname: >-
+      George
+    bio: >-
+      🇲🇺🇬🇧 Sc: marshall_george I’m a constant mental breakdown don’t support hate
+    location: "United Kingdom"
+    followers: 61500
+    engagement: 1797
+    commentsToLikes: 0.137200
+    id: ckcv43zgropnc0j23bj2bw6b4
+    verified: false
+    hashtags: "#relatable, #foryoupage, #foryou, #wholesome"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Toronto In 2022
+title: Top 10 Vegan TikTok Influencers In Toronto In 2023
 description: >-
-  Find top vegan TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #vegan #toronto #healthy.
+  Find top vegan TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #vegan #foryou #foryoupage.
 platform: TikTok
-hits: 10
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 10 TikTok influencers like this in Toronto, Canada for you to connect with.
+hits: 6
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 6 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "sage_shah"
+  - username: "blogto"
     fullname: >-
-      sage
+      blogTO
     bio: >-
-      b nice to the planet 🌎💚
+      Toronto’s source for local news and culture, restaurant reviews and events.
     location: "Canada"
-    followers: 19600
-    engagement: 750
-    commentsToLikes: 0.027009
-    id: ckd65o6yi2w780j23zp1385sm
-    verified: false
-    hashtags: "#tiktokdance, #xyzbca, #fyp, #chacha"
-  - username: "edenthefoodie"
-    fullname: >-
-      Edenthefoodie
-    bio: >-
-      Food+Culture 👩🏾‍🍳 🇪🇹 Ethio cookbook drops soon 👉🏾 Insta @EdentheFoodie
-    location: "Canada"
-    followers: 11100
-    engagement: 574
-    commentsToLikes: 0.019171
-    id: ck9v26ijik7t00j78ps9f0qm3
-    verified: false
-    hashtags: "#ethiopianfood, #blackowned, #blackfoodie, #fyp"
-  - username: "healthy.tasty"
-    fullname: >-
-      Healthy & tasty
-    bio: >-
-      🇨🇦Toronto 🇨🇦
-    location: "Canada"
-    followers: 13800
-    engagement: 498
-    commentsToLikes: 0.014747
-    id: ckd0b7knjc8zt0j232at7xbvo
-    verified: false
-    hashtags: "#tiktokfood, #healthy, #learnontiktok, #homerecipe"
-  - username: "alyssafontainerd"
-    fullname: >-
-      Alyssa Fontaine RD
-    bio: >-
-      Registered Dietitian RD🤙🇨🇦 Plant-Based🌱 All Recipes ✍️ on IG Food Freedom✌️
-    location: "Canada"
-    followers: 62300
-    engagement: 841
-    commentsToLikes: 0.035584
-    id: ckdi7lrxy9l840j23yas7vbmy
-    verified: false
-    hashtags: "#easyvegan, #dietitiansoftiktok, #dietitian, #easyveganrecipe"
-  - username: "jaclyn.forbes"
-    fullname: >-
-      Jaclyn Forbes
-    bio: >-
-      i paint faces, eat plants, and interview people WATCH MY LATEST YOUTUBE VID👇🏼
-    location: "Canada"
-    followers: 76900
-    engagement: 1177
-    commentsToLikes: 0.021708
-    id: ckb9uyzd3u1px0j23fvckl4km
-    verified: false
-    hashtags: "#vegan, #duet, #problemsolved, #makeupartist"
-  - username: "everything_delish"
-    fullname: >-
-      Jamie Milne
-    bio: >-
-      recipes & more👇 FOLLOW MY IG: @everything_delish (245k+) RECIPES ON IG & BLOG⚡️
-    location: "Canada"
-    followers: 668100
-    engagement: 787
-    commentsToLikes: 0.009110
-    id: ck8z2w7zq75ur0j78efp72ao1
+    followers: 277900
+    engagement: 839
+    commentsToLikes: 0.019174
+    id: ck8f7ugfk36y30j78le9qyu9f
     verified: true
-    hashtags: "#healthy, #eggs, #halloweenishere, #tiktokfood"
-  - username: "hennabyramnik1"
+    hashtags: "#tiktokfood, #toronto, #torontonews, #fyp"
+  - username: "vrajeshdave7"
     fullname: >-
-      Ramnik Kaur
+      vrajesh
     bio: >-
-      Henna Artist + Nail Tech during the day - Chef by night!
+      Toronto 🇨🇦 Soak up the good stuff
     location: "Canada"
-    followers: 7704
-    engagement: 347
-    commentsToLikes: 0.013030
-    id: ckc35jmt9uqif0j23k4g7kd92
+    followers: 29800
+    engagement: 1218
+    commentsToLikes: 0.019043
+    id: ckbf8w7azzlqe0j23x5i44dkg
     verified: false
-    hashtags: "#massi, #indian, #love, #babygirl"
-  - username: "mayobros"
+    hashtags: "#fyp, #timefortenet, #foryou, #classroom"
+  - username: "carlyvwhitee"
     fullname: >-
-      John and Brad
+      Carly White💗
     bio: >-
-      We’ll teach you to be fit and flexible! Link below with a video with more info!
+      Be kind🌟 Toronto | 💌carlyvwhite@gmail.com
     location: "Canada"
-    followers: 618700
-    engagement: 1718
-    commentsToLikes: 0.009820
-    id: ck806y32qmz7i0j78c1ni1arg
+    followers: 136400
+    engagement: 1313
+    commentsToLikes: 0.008343
+    id: ck7znzkg2ge1y0j78gbc8pn3w
     verified: false
-    hashtags: "#fail, #workout, #tiktokcanada, #cold"
+    hashtags: "#vegan, #healthyrecipe, #foodtiktok, #selfcare"
+  - username: "justpulito"
+    fullname: >-
+      J
+    bio: >-
+      1/4 Vegan Belieber Earth 2 Millionaire
+    location: "Canada"
+    followers: 68500
+    engagement: 437
+    commentsToLikes: 0.043907
+    id: ck8ufl8yh25d60j78kibar1o7
+    verified: false
+    hashtags: "#fyp, #viral, #cottyszn, #skateboarding"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
     bio: >-
       43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3139
-    engagement: 653
-    commentsToLikes: 0.084134
+    followers: 3120
+    engagement: 620
+    commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#yoga, #foryou, #travel, #foryoupage"
-  - username: "thefitfatale"
+    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+  - username: "olgaunleashed"
     fullname: >-
-      Samantha Cutler
+      OLGA the ORIGINAL
     bio: >-
-      Fashion | Clean Eating | Hair Hacks Tech founder & influencer Follow my IG💕
+      I could make you cry, but I’d rather make you laugh 400K?😈 satire
     location: "Canada"
-    followers: 16200
-    engagement: 495
-    commentsToLikes: 0.029475
-    id: ckbeym7goj4a40j238zex4lon
+    followers: 365000
+    engagement: 938
+    commentsToLikes: 0.024391
+    id: ck9flnmg3oym90j78vbbeqmpq
     verified: false
-    hashtags: "#learnontiktok, #vegetarian, #cleaneating, #whatieat"
+    hashtags: "#dating, #easterneuropean, #comedy, #momsbelike"
+  - username: "tania_heath"
+    fullname: >-
+      Tania Heath
+    bio: >-
+      31. She/Her. 🏳️‍🌈 Newfoundland, Canada. 🇨🇦 Photographer. 📸 Vegan. 🌱
+    location: "Canada"
+    followers: 8539
+    engagement: 1155
+    commentsToLikes: 0.080888
+    id: ckajk9kpqp6lp0i786mnykm3r
+    verified: false
+    hashtags: "#foryoupage, #foryou, #femme, #lgbtq"
+  - username: "findbex"
+    fullname: >-
+      Bex 
+    bio: >-
+      Foodie, vegan cookbook author. I have a weird cat. 🇨🇦 Cookingbylaptop.com
+    location: "Canada"
+    followers: 38300
+    engagement: 1005
+    commentsToLikes: 0.042007
+    id: ck961zc8romyz0j78v1axqnn5
+    verified: false
+    hashtags: "#veganfood, #learnwithtiktok, #foryoupage, #foryou"
+  - username: "patrickaramouni"
+    fullname: >-
+      Patrick Aramouni
+    bio: >-
+      Vegan Athlete @Canadianprotein (discount👇) Fitness & Recipes Coaching 👇
+    location: "Canada"
+    followers: 204900
+    engagement: 791
+    commentsToLikes: 0.023828
+    id: ckbl76zw44zl80j23em4x9ron
+    verified: false
+    hashtags: "#smoothie, #fitness, #beach, #man"
+  - username: "jasonfonger"
+    fullname: >-
+      Jason Fonger
+    bio: >-
+      The Vegan Champion Podcast 🎤🌱🏆🔈 👂Listen on Spotify👇
+    location: "Canada"
+    followers: 232100
+    engagement: 1192
+    commentsToLikes: 0.297841
+    id: ckbqtpc00ectg0j230q3ccn3a
+    verified: false
+    hashtags: "#pandemic, #veganrecipes, #plantbased, #youshouldknow"
 ---

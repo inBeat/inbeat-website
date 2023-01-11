@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In France In 2022
+title: Top 10 Dancers Instagram Influencers In France In 2023
 description: >-
-  Find top dancers Instagram influencers in France in 2022. Most popular hashtags: #dance #love #frenchgirl.
+  Find top dancers Instagram influencers in France in 2023. Most popular hashtags: #love #girl #photography #model.
 platform: Instagram
-hits: 684
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 684 Instagram influencers like this in France for you to contact.
+hits: 884
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 884 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "salma__rais"
+  - username: "starkestruck"
     fullname: >-
-      SART
+      Taylor Starke
     bio: >-
-      ♾ Med student ♾ Dancer | Performer ♾ Little actress | Short film producer
+      🍎 NY 🙏🏽Owner @poleposition_ny ✨Pole dancer and performer ✨FKA Twigs, Snoop Dogg, Doja Cat, French Montana ✨Hustler’s Movie ✨DM for collaborations
     location: "France"
-    followers: 31340
-    engagement: 1227
-    commentsToLikes: 0.050844
-    id: ck5q6c1buws7v0i11zh56smzg
+    followers: 26822
+    engagement: 685
+    commentsToLikes: 0.040575
+    id: cl3w8zi0zczu10i23wwrog75s
     verified: false
-    hashtags: "#dance, #yrmonrouge, #loveyourself, #art"
-  - username: "naiaroma"
+    hashtags: "#blackgirlspole, #wednesday, #poledancersofig, #weekendvibes"
+  - username: "alya_manasa"
     fullname: >-
-      N A I A . R O M A
+      alya_manasa
     bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀LIFESTYLE BLOGGER 🌴 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✨ Dancer 📍FR ⠀⠀⠀⠀⠀⠀⠀⠀⠀👩🏼‍💻 CEO: @nightcallevents ⠀⠀⠀⠀⠀⠀⠀⠀⠀👻 naiaroma
+      Actress/Vijay television / dancer /Talent manager : Rahul (personal) contact number : 7200288951(watsup only) For YouTube channel
     location: "France"
-    followers: 26173
-    engagement: 598
-    commentsToLikes: 0.116956
-    id: ck6005716cyz70i14ku7ksd41
+    followers: 4247151
+    engagement: 106
+    commentsToLikes: 0.001939
+    id: ck14gvl5s78y90i1993g1ry8l
     verified: false
-    hashtags: "#photoinspiration, #dailypost, #ootn, #getthelook"
-  - username: "modelsdoingballet"
+    hashtags: "#iniya, #suntv, #iniyaonsuntv, #sundigital"
+  - username: "_emmytinglin"
     fullname: >-
-      MODELS DOING BALLET
+      Emmerly Tinglin ✨
     bio: >-
-      just stop. hire dancers.
+      ♡ Actress | Dancer | Model | @miraclemgmt ♡ Collaborations 📲 | @bloc13losangeles ♡ NBA Dancer | Toronto Raptors Subscribe to my Channel 🦋
     location: "France"
-    followers: 39731
-    engagement: 1176
-    commentsToLikes: 0.039140
-    id: ckap9c7gzs2ed0i78mppuvgp5
+    followers: 31075
+    engagement: 699
+    commentsToLikes: 0.050803
+    id: ck5hozkirqibd0i11cue65wqx
     verified: false
-    hashtags: "#mules, #whodidthistothem, #whodidthistoher, #slipons"
+    hashtags: "#whatlacefront, #summerwigs, #wigslay, #blondewigs"
   - username: "olimpia_noa"
     fullname: >-
       Olimpia Noa Pietras
     bio: >-
       #model // #actress //#dancer //#gymnast #lifestyle #travel #beauty #healthylifestyle
     location: "France"
-    followers: 55057
-    engagement: 858
-    commentsToLikes: 0.034842
+    followers: 62492
+    engagement: 760
+    commentsToLikes: 0.037680
     id: ck14k0oedn4m30i19mfmgtg22
     verified: false
-    hashtags: "#teen, #weekend, #summer, #girl"
-  - username: "julia_book_around_the_world"
+    hashtags: "#spanishgirl, #teen, #nieve, #polishgirl"
+  - username: "modelsdoingballet"
     fullname: >-
-      julia
+      MODELS DOING BALLET
     bio: >-
-      French Girl 🇫🇷 ❤️ @simple_moments_with_u -> Travel around the world 🌎 -> Crewlife 🛩 -> Model 📷 -> Dancer ballerina 💃 -> Mermaid 🐚🧜‍♀️
+      just stop. hire dancers.
     location: "France"
-    followers: 5124
-    engagement: 1252
-    commentsToLikes: 0.156765
-    id: ck0w6bv827u9m0i19xxh08ey5
+    followers: 44468
+    engagement: 1172
+    commentsToLikes: 0.043275
+    id: ckap9c7gzs2ed0i78mppuvgp5
     verified: false
-    hashtags: "#bandorebelz, #balletshoes, #sunnyday, #pointeshoes"
-  - username: "aly_lucie"
+    hashtags: "#sos, #whodidthistoher, #parallel, #cambre"
+  - username: "naiaroma"
     fullname: >-
-      Lucie Aly
+      N A I A . R O M A
     bio: >-
-      Française 🇫🇷 @ladycat.co 👩🏻‍💻 📍Montpellier 📩luciealy@hotmail.com Lifestyle|Dancer Performer💃🏻|Beautician💄
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀LIFESTYLE BLOGGER 🌴 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✨ Dancer 📍FR ⠀⠀⠀⠀⠀⠀⠀⠀⠀👩🏼‍💻 CEO: @nightcallevents
     location: "France"
-    followers: 24406
-    engagement: 476
-    commentsToLikes: 0.074681
-    id: ck6tyrqy95gzw0j71b46qxj0a
+    followers: 25905
+    engagement: 547
+    commentsToLikes: 0.125994
+    id: ck6005716cyz70i14ku7ksd41
     verified: false
-    hashtags: "#concoursfrance, #concoursmontpellier, #herault, #partouche"
-  - username: "avaguttmann"
+    hashtags: "#blondegirlsdoitbetter, #getthelook, #getthelookforless, #outfitofthenight"
+  - username: "jayel_jsvn"
     fullname: >-
-      Ava Guttmann / 8
+      🔥Jayel-FanInsta🔥
     bio: >-
-      Dancer/Model/Actress/Singer @mtakids @dreamraytalent 💕Mather Dance Company💕 Hollywood Connection Icon’20 Hollywood Vibe Mini Finalist DOTY’20 Mom Run
+      FB: Оюунномин Батхишиг Follow: 🥰@jasonnn_jsn •Dancer •Youtuber
     location: "France"
-    followers: 48783
-    engagement: 301
-    commentsToLikes: 0.053508
-    id: ck9wdvkqshgmx0j78vnvivikv
+    followers: 69505
+    engagement: 402
+    commentsToLikes: 0.095145
+    id: ck9wdiwhhftzv0j787zcunc7t
     verified: false
     hashtags: ""
-  - username: "jessica_amy01"
+  - username: "elisepetitpas"
     fullname: >-
-      Ｊｅｓｓ 🦋
+      Elise Petitpas
     bio: >-
-      18 | Uk | Dancer 21 buttons : jessica_amy01 TikTok : jessica_amy0011 YouTube ☟︎
+      THE BEST IS YET TO COME 🇫🇷 Charleville-Mézières / Paris 💃🏽 W/ @sabrinalonis ⚡️ Model / Dancer ⚡️ TikTok : elisepetitpas
     location: "France"
-    followers: 5295
-    engagement: 834
-    commentsToLikes: 0.169922
-    id: ck9wekc2yknht0j78i8y6vztj
+    followers: 17237
+    engagement: 1538
+    commentsToLikes: 0.072631
+    id: ck0tx2059hkt50i19py3mm77h
     verified: false
-    hashtags: "#missguided, #prettylittlething"
-  - username: "ornelladance"
+    hashtags: "#sun, #dancergirl, #dance, #instaday"
+  - username: "emilyshaqiri.official"
     fullname: >-
-      Ornella🐍
+      EMILY SHAQIRI
     bio: >-
-      FRENCH DANCER/MODEL/TV SHOW🇫🇷 NRJ Music Awards/Mika/Kendji/Jamel Comedy Kids/M Pokora/Superkids/Gulli Danseuse officiel @yep_off 💃 #TEAMSABRINALONIS
+      Mais la raison n’est pas ce qui règle l’amour ACTRESS🎬 DANCER🩰 SINGER🎤
     location: "France"
-    followers: 16277
-    engagement: 1346
-    commentsToLikes: 0.024240
-    id: ck6u9g6d6xddy0j71m8jzak4t
+    followers: 55598
+    engagement: 673
+    commentsToLikes: 0.105306
+    id: ck600siy1e6ri0i14vlxezty5
     verified: false
-    hashtags: "#teamsabrinalonis, #love, #dance, #stayathome"
-  - username: "beautybychristaline"
+    hashtags: "#rome, #photo, #blueeyes, #emilyshaqiri"
+  - username: "__.ku_tt_api_y_01"
     fullname: >-
-      Christaline | Beauty • NYC
+      Gaeitry
     bio: >-
-      💕| Beauty • Fashion • YouTube 💕|Curly Hair 🇵🇷🇵🇷 • Salsa Dancer 💃🏽 💕|Hair page @hairbychristaline 💕|Youtuber ••• Subscribe ⬇️⬇️
+      。𝟷𝟽\𝟻\𝟸к𝟺🔖 • 16💫 •Dancer🙌❤️ 。ʀᴇᴀʟ ...ᵇᵘᵗ 💯% ʀᴀʀᴇ⚠️🎭 .ʀᵃʳᵉ ᵇᵘᴛ... ⁿᴏᵗ ᴀⁿ ᴇʳʀᵒʀ 👅👊
     location: "France"
-    followers: 5103
-    engagement: 910
-    commentsToLikes: 0.485088
-    id: ckh6rg8hd3im80j23y3tu32a4
+    followers: 11078
+    engagement: 1849
+    commentsToLikes: 0.097642
+    id: ck8t67alqcid80j78qksay6tf
     verified: false
-    hashtags: "#calmcollection, #curlygirlmagic, #sheamoisture, #curlyhair"
+    hashtags: "#keralagallery, #gainwithpaula, #keralam, #love"
 ---

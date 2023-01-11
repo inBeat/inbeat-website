@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Philadelphia In 2022
+title: Top 10 Models Instagram Influencers In Philadelphia In 2023
 description: >-
-  Find top models Instagram influencers in Philadelphia in 2022. Most popular hashtags: #sponsored #tiktok #model.
+  Find top models Instagram influencers in Philadelphia in 2023. Most popular hashtags: #hair #model #nyc.
 platform: Instagram
 hits: 48
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat has 48 Instagram influencers like this in Philadelphia, United States for you to contact.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 48 Instagram influencers like this in Philadelphia, United States for you to work with.
 profiles:
   - username: "michelekay54"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Your Modern Day Renaissance Woman With Sass & Class  Plus Size Model Philadelphia/NYC #amazoninfluencer (⬇️ Link)
     location: "United States"
-    followers: 203274
-    engagement: 37
-    commentsToLikes: 0.128233
+    followers: 217892
+    engagement: 59
+    commentsToLikes: 0.081070
     id: ck8t6au67cwow0j782fc7wc10
     verified: false
-    hashtags: "#60plusmodel, #oversixty, #targethatsforthewin, #over50beauty"
-  - username: "naniegurrola"
+    hashtags: "#celebratemysize, #curvyootd, #curvesarebeautiful, #curvysensedoll"
+  - username: "thesepinklips"
     fullname: >-
-      MARIANNY
+      IRIS BARBEE BONNER
     bio: >-
-      🇺🇸🇨🇴 #CuéntameMás Atlanta, Raleigh & Philadelphia Model & Actress #UWM Miss Georgia USA 2018 Miss USA Intercontinental 2018 UGA Alumni
+      PUSSYPOWER Uplifting & Inspirin for women to be Sexy Strong Beautiful & comfortable with her Femininity & POWER! Showroom @thesepinklipspgarden
     location: "United States"
-    followers: 74428
-    engagement: 94
-    commentsToLikes: 0.044482
-    id: ck5zy76re9coc0i14p4hshj8f
-    verified: true
-    hashtags: "#love, #life, #alysbeach, #atlanta"
+    followers: 99585
+    engagement: 58
+    commentsToLikes: 0.037871
+    id: ck138qtulhk610i196qqud1ei
+    verified: false
+    hashtags: "#goaldigger, #styled, #makeup, #photo"
+  - username: "soudersam"
+    fullname: >-
+      Sam Souder
+    bio: >-
+      🦕 model who loves fashion & never skips dessert 🧠 mental health matters STATEMGMT NYC | Reinhard PHL @shopsamsouder 💌 shopsamsouder@gmail.com
+    location: "United States"
+    followers: 17131
+    engagement: 496
+    commentsToLikes: 0.110404
+    id: ck5q0fbzx5q340i11r6ds0jhr
+    verified: false
+    hashtags: "#beachgirl, #instagf, #casualoutfits, #paintingreels"
+  - username: "samanthaa.lee"
+    fullname: >-
+      1111 🧿
+    bio: >-
+      Mixologist 🍸 Freelance Model 📸 PHILA/NYC/LA
+    location: "United States"
+    followers: 8125
+    engagement: 1076
+    commentsToLikes: 0.032353
+    id: ck6tvn9axn6ch0j71hycvljz0
+    verified: false
+    hashtags: "#bigvirgoenergy, #embraceyourbeauty, #freshface, #natural"
+  - username: "xo_ambeyy"
+    fullname: >-
+      Amber Nicole
+    bio: >-
+      ➕Model NYC MGMT| @emg_models PA MGMT| @joytalentagency.jta Seen on @theellenshow 📰 News for @cbs_philly 🎤👑Founder Of @ambernicoletv 🎬 Actress
+    location: "United States"
+    followers: 16403
+    engagement: 296
+    commentsToLikes: 0.126481
+    id: ck5byi37qp6re0i1147yzg922
+    verified: false
+    hashtags: "#viral, #beauty, #hair, #explore"
+  - username: "kareem_headley"
+    fullname: >-
+      Kareem Headley
+    bio: >-
+      Musician 🎵 Mentor💡 Designer 👨🏽‍🎨 @jamnewyork @perfectsocietynyc @lovecustomdrums @tonum.cymbals @diemondstar
+    location: "United States"
+    followers: 10700
+    engagement: 214
+    commentsToLikes: 0.066289
+    id: ck5pys8f8xjpf0i113zbua9qp
+    verified: false
+    hashtags: "#birthday, #musicislife, #love, #violinist"
   - username: "ahmenah"
     fullname: >-
       Ahmenah Naché
     bio: >-
       📍Philadelphia PA • Fitness • Model • Actress For Bookings DM or Email
     location: "United States"
-    followers: 6251
-    engagement: 1737
-    commentsToLikes: 0.048294
+    followers: 6191
+    engagement: 1545
+    commentsToLikes: 0.056660
     id: ck0vxsq640j4i0i19xhpr7y7o
     verified: false
-    hashtags: "#swipe, #polishxpetalsnaillounge, #blackownednailsalon, #imanibag"
-  - username: "ukiy0_"
-    fullname: >-
-      Sanniyah Antoinette: Musician
-    bio: >-
-      Alternative Grunge Fashion Model and Musician from Philadelphia, PA Business inquiries only📩￼ PRE-SAVE “CRAZY” NOW! 👇🏽💖
-    location: "United States"
-    followers: 11667
-    engagement: 662
-    commentsToLikes: 0.142330
-    id: ck8ta4158qe250j785c9s6zu1
-    verified: false
-    hashtags: "#halloweenmakeup, #grungy, #grungeedits, #altgirls"
+    hashtags: "#polishxpetalsnaillounge, #blackownednailsalon, #imanibag"
   - username: "gabrielleyarabinee"
     fullname: >-
       Gabrielle Yarabinee
     bio: >-
       🥑🍌🍕🦎 📍philadelphia 🌺 freelance model gabrielleyarabinee@gmail.com💌📸 snapchat 👻 gyarabinee
     location: "United States"
-    followers: 19191
-    engagement: 307
-    commentsToLikes: 0.027250
+    followers: 18929
+    engagement: 231
+    commentsToLikes: 0.047124
     id: ck6ufe4riwi3a0j71ujo2aze0
     verified: false
-    hashtags: ""
+    hashtags: "#rsqattillys, #tillysonu, #tillyspartner, #mykaseme"
   - username: "natehilltv"
     fullname: >-
       Nate Hill
     bio: >-
-      26 Pro Fortnite player with @fazeclan | model | content creator 📍Philadelphia •Twitter - Natehilltv •YouTube - Natehill •TikTok - Natehill
+      27 Pro Fortnite player with @fazeclan | model | content creator 📍Philadelphia •Twitter - Natehilltv •YouTube - Natehill •TikTok - Natehill
     location: "United States"
-    followers: 1225413
-    engagement: 231
-    commentsToLikes: 0.011175
+    followers: 1169938
+    engagement: 220
+    commentsToLikes: 0.007790
     id: ck0tts3oi430w0i190vuimcx7
     verified: true
-    hashtags: "#throwback"
-  - username: "thomastheboxer"
+    hashtags: "#sniper, #youneedtochangeyourunderwear, #midas, #midsummermidas"
+  - username: "nayaramlopes"
     fullname: >-
-      𝑻𝒉𝒐𝒎𝒂𝒔  “𝑻𝒉𝒆 𝑩𝒐𝒙𝒆𝒓” 𝑪𝑨𝑵𝑬𝑺𝑻𝑹𝑨𝑹𝑶
+      Nayara M Lopes 🇧🇷
     bio: >-
-      🥊𝙆𝙞𝙘𝙠𝙗𝙤𝙭𝙞𝙣𝙜 𝙒𝙤𝙧𝙡𝙙 𝘾𝙝𝙖𝙢𝙥 🥊 𝔸𝕔𝕥𝕚𝕟𝕘 - 𝕊𝕥𝕦𝕟𝕥 -𝕄𝕠𝕕𝕖𝕝𝕚𝕟𝕘 𝕡𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕋𝕣𝕒𝕚𝕟𝕚𝕟𝕘 / 𝔽𝕚𝕘𝕙𝕥𝕚𝕟𝕘 𝕔𝕠𝕒𝕔𝕙 🄳🄼 🄵🄾🅁 🄸🄽🅀🅄🄸🅁🄸🄴🅂
+      BALLERINA | MODEL | LIFE COACH First soloist @philadelphia_ballet @blochdanceusa Influencer @chameleonactivewear ambassador
     location: "United States"
-    followers: 116443
-    engagement: 198
-    commentsToLikes: 0.016209
-    id: ck14joozrlf5t0i194oic7q8w
+    followers: 22289
+    engagement: 1165
+    commentsToLikes: 0.014274
+    id: ck13avk5wselo0i19u1680grd
     verified: false
-    hashtags: "#workout, #headshot, #foryoupage, #fyp"
-  - username: "missmaryleigh"
-    fullname: >-
-      Mary-Leigh Maxwell
-    bio: >-
-      🦇🖤🦇 🕸model&covergirl since '08 💀philadelphia ✨cosmetic tattooer @pmubymaryleigh 🌱VEGAN 🐕lulu 💌missmaryleighmodel@gmail.com
-    location: "United States"
-    followers: 124439
-    engagement: 130
-    commentsToLikes: 0.056881
-    id: ck8t0fw6krxpg0j78bpl8nywd
-    verified: false
-    hashtags: "#speciesism, #vegan, #babesforblacklives, #blacklivesmatter"
-  - username: "goodoldgreg"
-    fullname: >-
-      GREGTube
-    bio: >-
-      ▫️Greg@newbold-creative.com ▫️Philly, PA
-    location: "United States"
-    followers: 14140
-    engagement: 1331
-    commentsToLikes: 0.029632
-    id: ck9h9s8u79raw0j78p854v1iu
-    verified: false
-    hashtags: "#philly, #quarantine, #reels, #tiktok"
-  - username: "thedisabledhippie"
-    fullname: >-
-      Julian Gavino
-    bio: >-
-      Trans-masc HE/HIM Ehlers Danlos Syndrome Model @wespeakmodels Activist. Writer. Co-founder @disabled.with.dignity Philadelphia✨
-    location: "United States"
-    followers: 48615
-    engagement: 875
-    commentsToLikes: 0.022518
-    id: ck0ty17g4l62t0i19kvndwtfe
-    verified: false
-    hashtags: "#carewithpride, #meditation, #moving, #videographer"
+    hashtags: "#happyweekend, #chameleon, #bestfriend, #mondaymotivation"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers TikTok Influencers In South Africa In 2022
+title: Top 10 Dancers TikTok Influencers In South Africa In 2023
 description: >-
-  Find top dancers TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #dance #duet #foryou.
+  Find top dancers TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #foryou #dancer #fyp.
 platform: TikTok
 hits: 26
 text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 26 TikTok influencers like this in South Africa for you to connect with.
+text_bottom: Our search engine has 26 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "ceezy3"
+  - username: "stella_dlangz"
     fullname: >-
-      Carter⚡️
+      stella_dlangz
     bio: >-
-      Here since 2015 🥴 Self-taught Dancer🕺🏻 South African 🇿🇦 He/Him 🚹
+      Actress | Dancer | Comedian
     location: "South Africa"
-    followers: 565200
-    engagement: 1379
-    commentsToLikes: 0.028115
-    id: ckcehxkuspvu10j235kyn0rag
+    followers: 308700
+    engagement: 1291
+    commentsToLikes: 0.019549
+    id: ckbkrhuufm37t0j23fqvpmekq
     verified: true
-    hashtags: "#transmale, #tiktoksouthafrica, #trans, #selftaughtdancer"
+    hashtags: "#tiktoksouthafrica, #stelladlangz, #fyp, #thandispeaks"
+  - username: "kelly_kikx"
+    fullname: >-
+      Kelly KiKx
+    bio: >-
+      • Kinda Cooks • Undercover Gamer • Pro Dancer • 🇿🇦 ✨18 going on 28✨ ✌🏽♥️ ✝️
+    location: "South Africa"
+    followers: 866300
+    engagement: 1257
+    commentsToLikes: 0.021362
+    id: ck8fc1ul161n70j78s7i8xlyx
+    verified: true
+    hashtags: "#kikxsquad, #capetowngirls, #kellykikx, #capetown"
   - username: "ashleighdames"
     fullname: >-
       Ashleigh Dames
     bio: >-
       Ballet dancer out here doing me🩰💁🏻‍♀️
     location: "South Africa"
-    followers: 69900
-    engagement: 1224
-    commentsToLikes: 0.031406
+    followers: 69200
+    engagement: 1204
+    commentsToLikes: 0.033850
     id: ckcui31yqfwyq0j23ehz5weka
     verified: false
-    hashtags: "#foryou, #challenge, #ballet, #flexible"
-  - username: "jae_____"
-    fullname: >-
-      Jae
-    bio: >-
-      God 1st💜 Belly dancer
-    location: "South Africa"
-    followers: 15700
-    engagement: 407
-    commentsToLikes: 0.045819
-    id: cka5z196tkpqy0i78zkl17411
-    verified: false
-    hashtags: "#duet, #fyp, #viral, #sharingpositivitycampaign"
+    hashtags: "#foryoupage, #fyp, #foryou, #southafrica"
   - username: "keshanchetty"
     fullname: >-
       Keshan Chetty
     bio: >-
       🇿🇦 Actor || Comedian || Occasional Dancer ||
     location: "South Africa"
-    followers: 5627
-    engagement: 698
-    commentsToLikes: 0.015356
+    followers: 6376
+    engagement: 708
+    commentsToLikes: 0.014925
     id: ckbbijsji72270j23q5lqv4gd
     verified: false
-    hashtags: "#tiktokdurban, #15svines, #tiktoksouthafrica, #viralvideo"
+    hashtags: "#viralvideo, #xyzbca, #foryoupage, #funnyvideos"
   - username: "teamsk20"
     fullname: >-
       TeamSK20
     bio: >-
-      Proudly 🇿🇦 ❤Storm&Kayla❤ DANCERS 💃🕺 while your lurking ,follow us🥵🔥😎
+      Proudly 🇿🇦 ❤Storm&Kayla❤ while your lurking ,follow us🥵🔥😎 Dancers💃🕺
     location: "South Africa"
-    followers: 20400
-    engagement: 629
-    commentsToLikes: 0.005681
+    followers: 222200
+    engagement: 685
+    commentsToLikes: 0.005814
     id: ckbfgaienbd9t0j23tjcrwaqg
     verified: false
-    hashtags: "#foryoupage, #dance, #tiktok, #trend"
+    hashtags: "#viral, #dancecreators, #redbulldanceyourstyleza, #teamsk20"
+  - username: "doyouknowkg"
+    fullname: >-
+      Kaegen Grobbelaar
+    bio: >-
+      Bookings & Paypal: beyou.kg@gmail.com insta @do_you_know_kg @ganja_photographer
+    location: "South Africa"
+    followers: 192300
+    engagement: 627
+    commentsToLikes: 0.034571
+    id: ckdtlfecszkx60j23xoiqtgqu
+    verified: false
+    hashtags: "#hiphop, #haha, #freestyle, #amapiano"
   - username: "murry.pinheiro"
     fullname: >-
       murry.pinheiro
     bio: >-
-      nUmB 🥀 Follow me on Instagram - murry.pinheiro 95,5K reasons to smile 🌸
+      nUmB 🥀 Follow my backup - murry101 114,2K reasons I’m here🌸
     location: "South Africa"
-    followers: 95500
-    engagement: 1997
-    commentsToLikes: 0.032653
+    followers: 114200
+    engagement: 1542
+    commentsToLikes: 0.019035
     id: ckb9r8jgqnozm0j23nbufx0dv
     verified: false
-    hashtags: "#slowmotion, #laughs, #southafrica, #dancer"
-  - username: "doyouknowkg"
+    hashtags: "#funny, #dancers, #viral, #comedy"
+  - username: "jojo_radebe"
     fullname: >-
-      Kaegen Kaegie Grobbelaar
+      Johannes Radebe
     bio: >-
-      @do_you_know_kg PayPal and bookings: beyou.kg@gmail.com
+      
     location: "South Africa"
-    followers: 157300
-    engagement: 627
-    commentsToLikes: 0.026224
-    id: ckdtlfecszkx60j23xoiqtgqu
+    followers: 34400
+    engagement: 1022
+    commentsToLikes: 0.021748
+    id: ck9exys7cti5t0j78htfgs988
     verified: false
-    hashtags: "#dancer, #letsdance, #freestyle, #amapiano"
-  - username: "kelly_kikx"
+    hashtags: "#fyp, #dancer, #foryourpage, #foryoupage"
+  - username: "dcz_henz"
     fullname: >-
-      Kelly KiKx
+      Cherie Henderson
     bio: >-
-      Welcome to the #KiKxSquad! Follow my IG: @kelly_kikx Next Follow back at 800K
+      Let's Dance, Let's Have Fun #nostress
     location: "South Africa"
-    followers: 720700
-    engagement: 1517
-    commentsToLikes: 0.024231
-    id: ck8fc1ul161n70j78s7i8xlyx
-    verified: true
-    hashtags: "#reelitin, #mzansidance, #foryou, #mzansicomedy"
-  - username: "_boujeequeen18_"
-    fullname: >-
-      BoujeeQueen18
-    bio: >-
-      I’m just that special🥀 17 🇿🇦🇩🇪
-    location: "South Africa"
-    followers: 24500
-    engagement: 1872
-    commentsToLikes: 0.028891
-    id: ck9nsfw7qde9n0j78mta6x3ml
+    followers: 8200
+    engagement: 2653
+    commentsToLikes: 0.303376
+    id: ckck67d5hrd8x0j23dsrcq8kd
     verified: false
-    hashtags: "#pain, #joburg, #bulletproof, #makemefamous"
-  - username: "figgyfigzz"
+    hashtags: "#curvy, #tiktoksa, #tiktokmom, #footprintsforevercreations"
+  - username: "chadmaroun"
     fullname: >-
-      Keegs
+      Chad Maroun
     bio: >-
-      Pedigree :) 🇿🇦🇵🇹
+      this kid can’t be stopped 😛 PARTY ANIMAL 🇱🇧🇿🇦🇱🇧🇿🇦
     location: "South Africa"
-    followers: 23900
-    engagement: 1698
-    commentsToLikes: 0.027520
-    id: ck9f3n3lbiiw50j7825xjyemq
+    followers: 17700
+    engagement: 367
+    commentsToLikes: 0.179860
+    id: cka6jgalsun4n0i783t0ynmh1
     verified: false
-    hashtags: "#fypthis, #figgyfigzz, #fypit, #tiktoksa"
+    hashtags: "#dancer, #duet, #foryoupage, #goviral"
 ---

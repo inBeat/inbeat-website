@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Peru In 2022
+title: Top 10 Bloggers Instagram Influencers In Peru In 2023
 description: >-
-  Find top bloggers Instagram influencers in Peru in 2022. Most popular hashtags: #publicidad #peru #lookoftheday #lima.
+  Find top bloggers Instagram influencers in Peru in 2023. Most popular hashtags: #model #photography #blogger #photooftheday.
 platform: Instagram
-hits: 40
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 40 Instagram influencers like this in Peru for you to pitch.
+hits: 39
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 39 Instagram influencers like this in Peru for you to connect with.
 profiles:
-  - username: "pierina_dg"
-    fullname: >-
-      Pierina De La Borda Gotuzzo
-    bio: >-
-      Comunicadora Social Lifestyle Blogger 🍃 @qhalella.pe 🎭Actriz 📍Arequipeña en Lima 📩 pieri_dbg@hotmail.com AREQUIPA ❤️⬇️⬇️
-    location: "Peru"
-    followers: 28511
-    engagement: 263
-    commentsToLikes: 0.082306
-    id: ck0u81ats66gj0i19ly75nquv
-    verified: false
-    hashtags: "#lookoftheday, #girl, #ootd, #outfitoftheday"
-  - username: "artbycch"
-    fullname: >-
-      Camila Chehade ☆
-    bio: >-
-      Beauty Blogger ☆ MAKEUP ARTIST ☆ 🤍 @closetsalebycch 🪐✨💭 Tik tok 🦄 : cch.99 💌 camilachehade@hotmail.com
-    location: "Peru"
-    followers: 10419
-    engagement: 572
-    commentsToLikes: 0.064751
-    id: ck6tibs9h0f3y0j71zb553mbn
-    verified: false
-    hashtags: "#muaperu, #muasfam, #muasupport, #benebabe"
   - username: "callme.marla"
     fullname: >-
       ⛓🔗MarLa | Grungeblog🔗⛓
     bio: >-
-      📍Perú. ♡ Grunge Fashion Blogger. ♡ Ambassador: @lamoda ✨ ♡ NUEVO VIDEO 👇🏼 Mi colección de zapatos 🖤
+      📍Perú 🇵🇪 ♡ Grunge Alt Fashion Blogger. ♡ Tiktok (+24k) callme.marla ♡ NUEVO VIDEO 👇🏼 botas demonia 🖤
     location: "Peru"
-    followers: 12802
-    engagement: 1156
-    commentsToLikes: 0.156660
+    followers: 16276
+    engagement: 1896
+    commentsToLikes: 0.106122
     id: ckaotvcblxonl0i78lxs33q69
     verified: false
-    hashtags: "#altfashion, #grungestyle, #grungeaccount, #egirloutfit"
-  - username: "arturobullard"
+    hashtags: "#90sgrunge, #gothaesthetic, #grungeaesthetic, #grungeblog"
+  - username: "malditopretell"
     fullname: >-
-      Arturo Bullard - Fotógrafo
+      Percy Pretell
     bio: >-
-      Deje la corbata y fui tras mis sueños Papá Viajero Blogger 🇵🇪 Embajador: @canonperu @ishopperu @vivaairpe 👉 @bullardphotoart Tambopata 👇👇👇
+      selfmade & creador de contenido • un blogger REAL • creador @shopmalditocloset & @lowbudgetstudio 👇🏼 MI TIENDA VIRTUAL
     location: "Peru"
-    followers: 50296
-    engagement: 229
-    commentsToLikes: 0.051760
-    id: ck14i9u31ecaz0i19zz3waqmn
+    followers: 22338
+    engagement: 128
+    commentsToLikes: 0.035382
+    id: ck9wd6a91e9390j78zl18cwjg
     verified: false
-    hashtags: "#lovefamily, #zorritos, #sun, #peru"
+    hashtags: "#monarch, #antheliosshaka, #throwback, #foodie"
+  - username: "porsegundavezblog"
+    fullname: >-
+      Jenni | Mamá bloguera
+    bio: >-
+      Mamá de 👨‍👦‍👦 lifestyle blogger 🖥️, comparto recetas 🍽️ manualidades 🖌️tips, datos y todo lo que me hace feliz. @bloggerhoodperu | Team @huggiesperu
+    location: "Peru"
+    followers: 40104
+    engagement: 368
+    commentsToLikes: 0.232333
+    id: ck55mhqhj3z9z0i119b309r63
+    verified: false
+    hashtags: "#publicidad, #vlogmas2020, #disney, #navidad"
   - username: "mamiscool"
     fullname: >-
       Kristin Morris S.
     bio: >-
       [Lifestyle & Mom Blogger 👩‍👧‍👦 Comunicadora] Cool Mom ✌🏻💚 Mamá de dos 👦🏻👧🏻 Kiki 💜 💻 Blog: mamiscool.com 📱Facebook: @mamiscool blog ⤵️Último Video⤵️
     location: "Peru"
-    followers: 33442
-    engagement: 168
-    commentsToLikes: 0.090381
+    followers: 35570
+    engagement: 115
+    commentsToLikes: 0.133272
     id: ck6u1dpt1l4jd0j71i6fgnfd1
     verified: false
-    hashtags: "#zumathefrenchie, #goodnight, #publicidad, #mamiscool"
-  - username: "placeresculpososblog"
+    hashtags: "#mamiscool, #vidademadres, #publicidad, #cooltip"
+  - username: "pierina_dg"
     fullname: >-
-      Magda Pérez G.
+      Pierina De La Borda Gotuzzo
     bio: >-
-      🍔Food Blogger a punto de volverse chef 📍Lima 📍Trujillo 📩 placeresculpososblog@gmail.com
+      Comunicadora Social Lifestyle Blogger Founder:🍃 @qhalella.pe 🎭Actriz 📍Arequipeña en Lima 📩 pieri_dbg@hotmail.com AREQUIPA ❤️⬇️⬇️
     location: "Peru"
-    followers: 15275
-    engagement: 582
-    commentsToLikes: 0.043245
-    id: ck9haxy7nejmw0j788nvfr17v
+    followers: 28530
+    engagement: 279
+    commentsToLikes: 0.213252
+    id: ck0u81ats66gj0i19ly75nquv
     verified: false
-    hashtags: "#trujillo, #guiltypleasure, #instafood, #igersperu"
-  - username: "daniellaeacosta"
+    hashtags: "#lookoftheday, #ootd, #outfitoftheday, #arequipa"
+  - username: "tlacaeleloficial"
     fullname: >-
-      Daniella Acosta
+      Tlacaélel Oficial
     bio: >-
-      👩🏻‍🎓l Publicista & Lifestyle Blogger 🎶| #TikTok @daniellaeacosta 🌷l Jeremías 29:11 👩🏻‍💻l @versatile.peru Mira mi último video⬇️
+      Director del proyecto: @xiu_blogger Para que leas más 👇 👇
     location: "Peru"
-    followers: 57299
-    engagement: 221
-    commentsToLikes: 0.188334
-    id: ck13d1tzc38n30i19e4v4c15v
+    followers: 70161
+    engagement: 116
+    commentsToLikes: 0.010143
+    id: ck8t0zc1ctw5w0j78uuu4eyyb
     verified: false
-    hashtags: "#lifestyleblogger, #comfystyle, #fashionblog, #fashionstyle"
-  - username: "estilozas"
+    hashtags: "#orgullomexicano, #culturamexicana, #culturas, #nuncaolvidestusrai"
+  - username: "heiidilg"
     fullname: >-
-      Jeani Jaramillo
+      Christiane
     bio: >-
-      Fashion Director @EstilozasStore Podcaster @EstilozasPodcast Blogger www.estilozas.com #MadreAmigaChofer 📍Made in Perú 🇵🇪 🎙️Nuevo Podcast! 👇🏼👇🏼👇🏼
+      мєχι¢αиα 💌 heidit856@gmail.com 🎥YouTube: Nuevo video 📺⬇️
     location: "Peru"
-    followers: 73544
-    engagement: 94
-    commentsToLikes: 0.121170
-    id: ck5q26xtgekb60i11uk8fsxmo
-    verified: true
-    hashtags: "#miexperiencia, #beauty, #anewprotinol, #merinorenunciaya"
-  - username: "porsegundavezblog"
-    fullname: >-
-      Por Segunda Vez
-    bio: >-
-      Jenni, Mamá de 👨‍👦‍👦🐺🐶 lifestyle blogger 🖥️, comparto recetas 🍽️ manualidades 🖌️tips, datos y todo lo que me hace feliz. 💜 @bloggerhoodperu
-    location: "Peru"
-    followers: 31023
-    engagement: 244
-    commentsToLikes: 0.046255
-    id: ck55mhqhj3z9z0i119b309r63
+    followers: 12558
+    engagement: 900
+    commentsToLikes: 0.164620
+    id: ckap4aavo6gl00i78jimkn90o
     verified: false
-    hashtags: "#recetafacil, #mischicos, #porsegundavezblog, #mamadehombres"
-  - username: "elcharroylamayrita"
+    hashtags: "#atardeceresmagicos, #travel, #visitmexico, #spring"
+  - username: "leonardooterom"
     fullname: >-
-      El Charro y la Mayrita
+      L E O ⚡️ O T E R O
     bio: >-
-      Cantante/Bloggers/ Motivadores 🎶 Inspirando Parejas/Familias 👨‍👩‍👧‍👦💕 5M Facebook/ 200k+ YouTube 💻 📱Contrataciones 817-296-9642 YouTube👇
+      ❌Welcome to my world❌ 👨‍✈️|Flight Attendant ✈️ 🎬l TikTok:@Leonardooterom(+500K) ✈️| Embajador e Imagen @ColumbiaPeru 🕺🏼| Bailarín 📍| Lima - Perú
     location: "Peru"
-    followers: 1085759
-    engagement: 71
-    commentsToLikes: 0.020935
-    id: ck8t2eu56z7tc0j78xb6j4bbq
+    followers: 49097
+    engagement: 929
+    commentsToLikes: 0.032430
+    id: ck6u7eylcl46e0j716bsizkrp
     verified: false
-    hashtags: "#explorepage, #pareja, #hijos, #familia"
+    hashtags: "#style, #latin, #peru, #photography"
+  - username: "laura.lebeau_"
+    fullname: >-
+      LAURA
+    bio: >-
+      “El arte de entrar y salir de una realidad”. Actriz en formación 🎭 Agrónoma en proceso 👩🏻‍🌾 19 🍷 📍Trujillo-Perú 💌Colaboraciones al DM.
+    location: "Peru"
+    followers: 6622
+    engagement: 794
+    commentsToLikes: 0.221850
+    id: ck5casawwe12l0i11v8viylhr
+    verified: false
+    hashtags: "#beautybloggers, #likeforlikes, #instalike, #glamour"
+  - username: "rodespino4"
+    fullname: >-
+      Rodrigo Henry Espino Moreno
+    bio: >-
+      - Bailarín profesional🕺🕺🕺🕺 - Comunicación y publicidad👨‍💻 - Made in Perú 🇵🇪🇵🇪 -Tiktok:rodespino4 ( 100k) NUNCA DEJES DE SOÑAR🏳️‍🌈🏳️‍🌈
+    location: "Peru"
+    followers: 3818
+    engagement: 1218
+    commentsToLikes: 0.112354
+    id: ck6u1dz8vl6570j71xwkd9jxk
+    verified: false
+    hashtags: "#reggaeton, #urbanstyle, #influencer, #baile"
 ---

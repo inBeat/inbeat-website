@@ -1,24 +1,24 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Belgium In 2022
+title: Top 10 Dancers TikTok Influencers In Belgium In 2023
 description: >-
-  Find top dancers TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #dance #foryou #viral.
+  Find top dancers TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #dance #foryoupage.
 platform: TikTok
-hits: 15
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Belgium for you to collaborate.
+hits: 18
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 18 TikTok influencers like this in Belgium for you to work with.
 profiles:
   - username: "haileytje.b"
     fullname: >-
       Hailey Bonduwe
     bio: >-
-      💙Dancer💙 🇧🇪 Belgium 🇧🇪 💌 HaileytjeB@yahoo.com💌 💎 Insta: @haileytje.b 💎
+      💙Dancer💙 🇧🇪 Belgium 🇧🇪
     location: "Belgium"
-    followers: 117400
-    engagement: 2991
-    commentsToLikes: 0.036629
+    followers: 118000
+    engagement: 2463
+    commentsToLikes: 0.034444
     id: ckc3ecli2zvxy0j232vu00p3v
     verified: false
-    hashtags: "#supportlunadupont, #besweet, #fyp, #havefaith"
+    hashtags: "#loldancebe, #sunnyday, #labello, #dontbeshy"
   - username: "chloekiloe"
     fullname: >-
       Chloé Van Deun
@@ -37,60 +37,36 @@ profiles:
     bio: >-
       amateur dj / professional dancer — business & bookings: jasper@omdathetkan.be
     location: "Belgium"
-    followers: 747400
-    engagement: 1145
-    commentsToLikes: 0.016647
+    followers: 796000
+    engagement: 1135
+    commentsToLikes: 0.019530
     id: ck7zo0fxzgmx60j78tcbzod53
     verified: true
-    hashtags: "#voorjou, #how2music, #musiclab, #fyp"
+    hashtags: "#foryou, #shtamp, #fy, #omdathetkan"
   - username: "kimleyers"
     fullname: >-
       Kim Leyers
     bio: >-
       Singer/Dancer Belgium 🇧🇪 Queen of changing hairstyles 🤷🏼‍♀️
     location: "Belgium"
-    followers: 4446
-    engagement: 903
-    commentsToLikes: 0.024068
+    followers: 4439
+    engagement: 844
+    commentsToLikes: 0.038573
     id: ckbf85qeoyg5q0j23inmojcjt
     verified: false
-    hashtags: "#music, #sketch, #choreo, #fyp"
+    hashtags: "#singing, #fyp, #dance, #singer"
   - username: "salaamparagh"
     fullname: >-
       Salaam Paragh
     bio: >-
       Full version of the dj video on my insta @salaamparagh Dancer / Actor / Air DJ
     location: "Belgium"
-    followers: 4239
-    engagement: 486
-    commentsToLikes: 0.034713
+    followers: 4282
+    engagement: 504
+    commentsToLikes: 0.018306
     id: cka0lpv35s04c0i78o0qn68t5
     verified: false
-    hashtags: "#foryou, #dance, #xyzbca, #viral"
-  - username: "kimvanderbeke"
-    fullname: >-
-      Kim Van der Beke
-    bio: >-
-      * Dance Teacher * Fitness Coach * Catmom Follow❤️ Instagram 👉 kimvdb_fitcoach
-    location: "Belgium"
-    followers: 2920
-    engagement: 728
-    commentsToLikes: 0.029503
-    id: ckcujsdm3gm7l0j23xtoayo5c
-    verified: false
-    hashtags: "#foryou, #blonde, #dancers, #foryoupage"
-  - username: "danceslayszz"
-    fullname: >-
-      Danceslayszz 🎨📀🧃
-    bio: >-
-      13 sweet members :) Winactie = gesloten🍕 Started : 26/07/2020 🤪💜
-    location: "Belgium"
-    followers: 21700
-    engagement: 2991
-    commentsToLikes: 0.042502
-    id: ckczu1uod5dg50j236ic3f26a
-    verified: false
-    hashtags: "#foryoupage, #viral, #fyp, #laradanceforpeace"
+    hashtags: "#xyzbca, #belgium, #fyp, #dance"
   - username: "bilmez.oktay"
     fullname: >-
       Oktay
@@ -98,33 +74,57 @@ profiles:
       Arkadaslar takip edin büyük bir aile olalım hep beraber büyüyelim 💪💪💪
     location: "Belgium"
     followers: 2483
-    engagement: 476
-    commentsToLikes: 0.117574
+    engagement: 465
+    commentsToLikes: 0.108412
     id: ckb1d5be322040j23bqtl591i
     verified: false
-    hashtags: "#kesfetdeyiz, #benim, #fypc, #tictoc"
-  - username: "crazyboyomar1"
+    hashtags: "#tictoc, #benim, #kesfetdeyiz, #kesfete"
+  - username: "ibogeorgespears1"
     fullname: >-
-      crazyboyomar
+      ibogeorgespears
     bio: >-
-      #TheMultiCrew volg onze nieuwe account voor meer pranks op @omarandbomouce
+      Ibo 24 yo 🇲🇰 lives in 🇧🇪
     location: "Belgium"
-    followers: 259600
-    engagement: 1127
-    commentsToLikes: 0.073911
-    id: ck8ade2vn5i150j78k8e8d5fs
-    verified: true
-    hashtags: "#crazyomargang, #brother, #viral, #fy"
-  - username: "redbullbe"
+    followers: 3652
+    engagement: 1262
+    commentsToLikes: 0.049574
+    id: ck9euj55uduob0j78aaqzlawp
+    verified: false
+    hashtags: "#icantstopme, #foryoupage, #sister, #viral"
+  - username: "bahaudin_dije"
     fullname: >-
-      Red Bull Belgium
+      𝘽𝙖𝙝𝙖𝙪𝙙𝙙𝙞𝙣 👑
     bio: >-
-      🇧🇪 Geeft je vleugels! Donne des ailes! #givesyouwings
+      ❤️𝙄 𝙡𝙤𝙫𝙚 𝙈𝙮 𝙁𝙤𝙡𝙡𝙤𝙬𝙚𝙧𝙨❤️ 🏝🦅🏝 💙🆃🅷🅰🅽🅺🆂 🅰🅻🅻💙 🤹‍♀️
     location: "Belgium"
-    followers: 89000
-    engagement: 1778
-    commentsToLikes: 0.008182
-    id: ckb9s75xjp9r00j23e12ly8f9
-    verified: true
-    hashtags: "#snowboard, #mtb, #juggling, #racing"
+    followers: 6500000
+    engagement: 540
+    commentsToLikes: 0.018964
+    id: ck8ade1av5hlh0j78qa1my9ug
+    verified: false
+    hashtags: "#tiktoacademie, #wood, #lol, #tiktokacademie"
+  - username: "iamstefanny"
+    fullname: >-
+      iamstefanny 
+    bio: >-
+      Instagram: iamstefanny She/her 🦋
+    location: "Belgium"
+    followers: 67700
+    engagement: 1771
+    commentsToLikes: 0.010130
+    id: ck9em4wpvdldd0j78qbir2fet
+    verified: false
+    hashtags: "#rose, #jisoo, #jennie, #blackpink"
+  - username: "h.ayley.m"
+    fullname: >-
+      Hayley
+    bio: >-
+      Irish girl living in London ❤️INSTAGRAM: h.ayley.m
+    location: "Belgium"
+    followers: 108900
+    engagement: 905
+    commentsToLikes: 0.024043
+    id: ckba83kvq14mt0j23q37ve6tx
+    verified: false
+    hashtags: "#foryou, #london, #irishtiktoker, #comedy"
 ---

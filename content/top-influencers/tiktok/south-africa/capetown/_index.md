@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Capetown In 2022
+title: Top 10 TikTok Influencers In Capetown In 2023
 description: >-
-  Find top TikTok influencers in Capetown in 2022. Most popular hashtags: #capetown #tiktoksouthafrica #southafrica #duet.
+  Find top TikTok influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #tiktoksouthafrica #fyp.
 platform: TikTok
-hits: 39
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 39 TikTok influencers like this in Capetown, South Africa for you to connect with.
+hits: 40
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 40 TikTok influencers like this in Capetown, South Africa for you to connect with.
 profiles:
   - username: "dutchmanscarcareclinic1"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Exotic Car Sales, Detailing, Wrapping, Storage and Customizations .CapeTown🇿🇦
     location: "South Africa"
-    followers: 8907
-    engagement: 693
-    commentsToLikes: 0.022435
+    followers: 9377
+    engagement: 708
+    commentsToLikes: 0.022816
     id: ck9jxlrjo19rx0j788q5dpzje
     verified: false
-    hashtags: "#lamborghini, #tiktokcapetown, #capetowntiktok, #southafricantiktok"
-  - username: "tiktok_anonymous_report"
+    hashtags: "#mclaren, #tiktoksouthafrica, #carsofsouthafrica, #southafrica"
+  - username: "itsjaredsolomon"
     fullname: >-
-      ANONYMOUS
+      Jared Solomon
     bio: >-
-      UK and South Africa #MADCROWD #FARMMURDER sharing my friends link V
+      follow my insta👆🏼 21 more life 🏝 🇿🇦
     location: "South Africa"
-    followers: 46800
-    engagement: 2110
-    commentsToLikes: 0.045093
-    id: ckc8whhdzjxld0j230c8nv09d
+    followers: 54000
+    engagement: 1614
+    commentsToLikes: 0.035212
+    id: ckai5kg0ishq50i78mg65vax9
     verified: false
-    hashtags: "#metime, #chadwickboseman, #savetiktok, #trend"
-  - username: "richardhaubrich"
+    hashtags: "#tiktoksouthafrica, #tiktoksa, #pov, #fyp"
+  - username: "may.tayla"
     fullname: >-
-      Richard Haubrich
+      May 🦋
     bio: >-
-      AWE MAY BRU 😎check out my Instagram 👆
+      🧚🏼‍♀️ ✨ ZA / 17 🇿🇦 📷 she / her Follow the gram 🐉 Random content ⚠️
     location: "South Africa"
-    followers: 47600
-    engagement: 1192
-    commentsToLikes: 0.041567
-    id: ck963n948vjsu0j78h6lutv6r
-    verified: false
-    hashtags: "#tiktokcapetownaweh, #chasingafrica, #lethallo, #seaskyvillas"
-  - username: "conraddb97"
+    followers: 181200
+    engagement: 1533
+    commentsToLikes: 0.026282
+    id: ckd06jk3ba9x00j23gcbik4cb
+    verified: true
+    hashtags: "#travel, #foryou, #capetown, #tiktoksa"
+  - username: "caitlinnjayde"
     fullname: >-
-      Conrad
+      cat 🍃
     bio: >-
-      Living in the moment I want to make u laugh cuz im a joke Help me to 3K plz
+      // Focus on the Good // 📍 cpt, south africa 🌈 ig: caitlinnjayde
     location: "South Africa"
-    followers: 2535
-    engagement: 1251
-    commentsToLikes: 0.059240
-    id: ckb0yl7wenfmx0j231t4w6a7t
-    verified: false
-    hashtags: "#fypsa, #xyzbca, #follow, #tiktoksouthafrica"
+    followers: 320100
+    engagement: 1551
+    commentsToLikes: 0.017382
+    id: ckbq4o9h6qwrp0j23ab33gejl
+    verified: true
+    hashtags: "#curlygirl, #duetsa, #foryou, #capetown"
   - username: "tashmontlake"
     fullname: >-
       Tash Montlake
     bio: >-
       🇿🇦🇬🇧 BLACK LIVES MATTER I look after famous actors on film sets for a living
     location: "South Africa"
-    followers: 14100
-    engagement: 1144
-    commentsToLikes: 0.059878
+    followers: 16100
+    engagement: 1211
+    commentsToLikes: 0.049786
     id: ck981263la2ml0j78gyuatv33
     verified: false
-    hashtags: "#traveldiaries, #birthday, #newjob, #tashsvlogs"
-  - username: "malcolm_moore_"
+    hashtags: "#onset, #funny, #filmindustry, #wearamask"
+  - username: "kelly_kikx"
     fullname: >-
-      Malcolm Moore
+      Kelly KiKx
     bio: >-
-      Dm's open, follow the gram 👇🏻☝🏻
+      • Kinda Cooks • Undercover Gamer • Pro Dancer • 🇿🇦 ✨18 going on 28✨ ✌🏽♥️ ✝️
     location: "South Africa"
-    followers: 26600
-    engagement: 643
-    commentsToLikes: 0.061261
-    id: cka0xdfd36mil0i78t3icl7mr
+    followers: 866300
+    engagement: 1257
+    commentsToLikes: 0.021362
+    id: ck8fc1ul161n70j78s7i8xlyx
+    verified: true
+    hashtags: "#kikxsquad, #capetowngirls, #kellykikx, #capetown"
+  - username: "taryll_vink1"
+    fullname: >-
+      taryll_vink
+    bio: >-
+      19 🇿🇦
+    location: "South Africa"
+    followers: 103300
+    engagement: 1255
+    commentsToLikes: 0.010458
+    id: ck9eixd0pznqu0j78ci4kklze
     verified: false
-    hashtags: "#tiktoksouthafrica, #instyle, #tiktoksa, #capetown"
+    hashtags: "#southafrica, #capetown, #cpt, #sza"
+  - username: "richardhaubrich"
+    fullname: >-
+      Richard Haubrich
+    bio: >-
+      ☝️Follow QUICK to be part of the 50k tribe 😎🔥 AWE MAYBRU 🇿🇦
+    location: "South Africa"
+    followers: 49500
+    engagement: 909
+    commentsToLikes: 0.042539
+    id: ck963n948vjsu0j78h6lutv6r
+    verified: false
+    hashtags: "#travel, #capetown, #southafrica, #chasingafrica"
+  - username: "wolfiizzy"
+    fullname: >-
+      its just 🐺 izzy
+    bio: >-
+      insta @izzybll
+    location: "South Africa"
+    followers: 2112
+    engagement: 803
+    commentsToLikes: 0.059484
+    id: ck80odmsbh2oq0j7827tap0ix
+    verified: false
+    hashtags: "#foryou, #nature, #travel, #tiktoksa"
   - username: "cvanstaden_"
     fullname: >-
       Colby van Staden
     bio: >-
-      According to you I look like Ashton Kutcher 🇿🇦 18
+      Fourways in, no ways out 🇿🇦 18
     location: "South Africa"
-    followers: 18600
-    engagement: 1230
-    commentsToLikes: 0.039213
+    followers: 28300
+    engagement: 1159
+    commentsToLikes: 0.025496
     id: ckack0fvr9pul0i783zcz26w0
     verified: false
-    hashtags: "#foryoupage, #capetown, #seemeontrace, #cvanstaden"
-  - username: "deedeenotdexter"
-    fullname: >-
-      deedeegregory763
-    bio: >-
-      aish well I like my videos and that’s enough for me
-    location: "South Africa"
-    followers: 6437
-    engagement: 987
-    commentsToLikes: 0.039781
-    id: ckbf1mg65o0k80j23cuyr0gdp
-    verified: false
-    hashtags: "#30daysofoutfits, #bts, #timewarpscan, #duet"
-  - username: "talia.tucker"
-    fullname: >-
-      Talia Tucker
-    bio: >-
-      “Tiktok on the clock” - Ke$ha 22 | 🇿🇦
-    location: "South Africa"
-    followers: 102400
-    engagement: 747
-    commentsToLikes: 0.030924
-    id: cka0rw3kwiu840i78c0227tgb
-    verified: false
-    hashtags: "#capetown, #mom, #specialmoment, #gucci"
-  - username: "micaylecrous"
-    fullname: >-
-      Micaylé
-    bio: >-
-      IG @micayleleigh Idk sometimes I’m funny
-    location: "South Africa"
-    followers: 5544
-    engagement: 767
-    commentsToLikes: 0.039450
-    id: ckan4lg5aanzg0i784pu6v8js
-    verified: false
-    hashtags: "#wipeitdown, #oomcyril, #xyzbca, #colouredpeople"
+    hashtags: "#lockdown, #greenscreen, #foryou, #foryoupage"
 ---

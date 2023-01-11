@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Portugal In 2022
+title: Top 10 Dancers TikTok Influencers In Portugal In 2023
 description: >-
-  Find top dancers TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #dance #foryoupage #tiktokportugal.
+  Find top dancers TikTok influencers in Portugal in 2023. Most popular hashtags: #foryou #fyp #foryoupage #dancer.
 platform: TikTok
-hits: 13
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 13 TikTok influencers like this in Portugal for you to pitch.
+hits: 14
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 14 TikTok influencers like this in Portugal for you to contact.
 profiles:
   - username: "leonorfilipaa"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Follow me on instagram👆🏻😝 Portuguese dancer🇵🇹💃🏻 PR & Brands: @thisisluvin
     location: "Portugal"
-    followers: 697100
-    engagement: 2914
-    commentsToLikes: 0.038792
+    followers: 708900
+    engagement: 2650
+    commentsToLikes: 0.029819
     id: ck83zbp6yzgu70j78gy6fv7cd
     verified: true
-    hashtags: "#dance, #tiktokportugal, #trend, #orgulhosamentesumol"
-  - username: "flexible_kiki20"
+    hashtags: "#dance, #trend, #tiktokportugal, #sumol"
+  - username: "leoogoncalvez"
+    fullname: >-
+      Leandro Goncalvez
+    bio: >-
+      18y Hey! Nice to meet you Dancer 🇵🇹
+    location: "Portugal"
+    followers: 65700
+    engagement: 2120
+    commentsToLikes: 0.044767
+    id: ckdcljjdhnrmv0j23taahvkdg
+    verified: false
+    hashtags: "#trend, #fyp, #nowunited, #nowunited18"
+  - username: "flexible.kiki"
     fullname: >-
       Katarina Serralha 
     bio: >-
       Follow my instagram 🙏🏽💙 #flexibility #flexible_kiki #gymnast #dancer
     location: "Portugal"
-    followers: 171500
-    engagement: 821
-    commentsToLikes: 0.018579
+    followers: 169100
+    engagement: 887
+    commentsToLikes: 0.035816
     id: ck7znzr8ygfzi0j787vi2fh25
     verified: false
-    hashtags: "#flexible, #handstand, #circus, #dancer"
-  - username: "patricia_vaz_"
-    fullname: >-
-      Patrícia Franco
-    bio: >-
-      Just be nice and kind :) 16 PT📍
-    location: "Portugal"
-    followers: 31500
-    engagement: 1985
-    commentsToLikes: 0.034617
-    id: ckcpse08nmmj40j23oveh3e7m
-    verified: false
-    hashtags: "#tiktokportugal, #dueto, #fy, #music"
+    hashtags: "#contortion, #talent, #ballerina, #acro"
   - username: "ka_vini2"
     fullname: >-
       Kaua Braz
     bio: >-
-      Me seguem no insta !! 😝 🇵🇹🇧🇷
+      🇵🇹🇧🇷
     location: "Portugal"
-    followers: 2308
-    engagement: 1262
-    commentsToLikes: 0.045274
+    followers: 2319
+    engagement: 2118
+    commentsToLikes: 0.047956
     id: ckd0qx6pfibb40j23bia5f22u
     verified: false
-    hashtags: "#foryou, #tiktokbrasil, #tik, #foryoupage"
+    hashtags: "#foryou, #brasil, #foryoupage, #porto"
   - username: "dario__daniel"
     fullname: >-
       Daniel Dario
     bio: >-
       Follow my IG: @dario__daniel 🇵🇹
     location: "Portugal"
-    followers: 105300
-    engagement: 759
-    commentsToLikes: 0.029655
+    followers: 106000
+    engagement: 727
+    commentsToLikes: 0.027951
     id: ckb9g5tyr52lg0j23pn7m0z8f
     verified: false
-    hashtags: "#funny, #foryoupage, #foryou, #fun"
-  - username: "mafi.o.t"
+    hashtags: "#fun, #funny, #parati, #foryou"
+  - username: "itsbyaa_"
     fullname: >-
-      Mafiot✨
+      itsbyaa
     bio: >-
-      Ig: mafi.o.t Don’t forget to smile🌙
+      🦋 Got Talent Portugal Fam: @vibehouse.pt
     location: "Portugal"
-    followers: 3285
-    engagement: 1783
-    commentsToLikes: 0.026625
-    id: ckacaqocoh5780i78151002tw
+    followers: 84000
+    engagement: 1935
+    commentsToLikes: 0.009433
+    id: ckdc5psy9h5is0j233bmhypc6
     verified: false
-    hashtags: "#ft, #pv, #viral, #foryoupage"
+    hashtags: "#viral, #fyp, #foryou, #leao"
   - username: "crank_lauren"
     fullname: >-
       Lauren Crank
     bio: >-
       Pole. Food. Travel. Life. 🌎 Follow us on insta @polewithaview☝️🙌☺️
     location: "Portugal"
-    followers: 8142
-    engagement: 1217
-    commentsToLikes: 0.014654
+    followers: 8025
+    engagement: 1192
+    commentsToLikes: 0.013366
     id: ckb9ofa5zisjr0j239xi50zs3
     verified: false
-    hashtags: "#portugal, #fyp, #foryoupage, #polefitnessgirl"
+    hashtags: "#fyp, #polefitnessgirl, #poledancing, #passion"
+  - username: "saramorlima"
+    fullname: >-
+      sᴀʀᴀᴍᴏʀʟɪᴍᴀ
+    bio: >-
+      Rumo aos 10k 📍Lourosa,, smf,, Portugal 🇵🇹 ⚡️09/06 📱Ig: @saramorlima
+    location: "Portugal"
+    followers: 8192
+    engagement: 1194
+    commentsToLikes: 0.035231
+    id: ckcujuhaggmur0j233h72j4he
+    verified: false
+    hashtags: "#2021, #covid19, #tiktok, #fyp"
+  - username: "mariia_reiis00"
+    fullname: >-
+      Mariajoaoreis👩🏽‍🦱
+    bio: >-
+      Açores🍍 17y💋
+    location: "Portugal"
+    followers: 3189
+    engagement: 900
+    commentsToLikes: 0.017032
+    id: ckbr48870kg990j23v6kdj0dq
+    verified: false
+    hashtags: "#dancetime, #riri, #dancer, #rihanna"
   - username: "isabelmonteiro945"
     fullname: >-
       Isabel Monteiro
     bio: >-
-      Onlyf@ns bellow
+      
     location: "Portugal"
-    followers: 58500
-    engagement: 811
-    commentsToLikes: 0.010568
+    followers: 58800
+    engagement: 790
+    commentsToLikes: 0.004485
     id: ckbl0ulwnxk760j23j3phzva7
     verified: false
-    hashtags: "#viralvideo, #amazfitchallenge, #tiktokofficial, #tiktok"
-  - username: "maysa.tt"
-    fullname: >-
-      Maysa Teixeira
-    bio: >-
-      🇧🇷 🇵🇹 o que você vai fazer quando tudo isso acabar?
-    location: "Portugal"
-    followers: 7633
-    engagement: 542
-    commentsToLikes: 0.029302
-    id: ckcj882i971yy0j23y3e518d9
-    verified: false
-    hashtags: "#fyp, #fy, #dicas, #child"
-  - username: "joanafagulha7"
-    fullname: >-
-      Joana Fagulha
-    bio: >-
-      🐿⭐️ Follow me on IG: @joana.fagulha
-    location: "Portugal"
-    followers: 9763
-    engagement: 611
-    commentsToLikes: 0.019849
-    id: ckbeu5cxfdexn0j23vons5nqr
-    verified: false
-    hashtags: "#funny, #viral, #portugal, #comedia"
+    hashtags: "#viralvideo, #summer, #portugaltiktok, #amazfitchallenge"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In India In 2022
+title: Top 10 Beauty Instagram Influencers In India In 2023
 description: >-
-  Find top beauty Instagram influencers in India in 2022. Most popular hashtags: #ootd #fashionblogger #indianfashionblogger #indianblogger.
+  Find top beauty Instagram influencers in India in 2023. Most popular hashtags: #trending #explore #trendingreels #fashionblogger.
 platform: Instagram
-hits: 5376
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 5376 Instagram influencers like this in India for you to collaborate.
+hits: 3755
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 3755 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "shriyagothi"
+  - username: "belinda.fashionista"
     fullname: >-
-      Shriya Gothi// Artistry
+      Seoul travel fashion
     bio: >-
-      Makeup, Beauty, Fashion💄👗 Visual Artist & Designer Living in the world of colour🌈 📩DM/Email to collab- shriyagothi@gmail.com
+      Visual content creator 🧜‍♀️ Best fashion/beauty award winner @kachenmagazine Fashion stylist👠 Traveler🌏 Sharing fashion and travel tips
     location: "India"
-    followers: 5242
-    engagement: 1684
-    commentsToLikes: 0.200465
-    id: ckaou5j03yw400i780gekzjst
+    followers: 12994
+    engagement: 5050
+    commentsToLikes: 0.213421
+    id: ck5zxl8hh884e0i14gmlv01lm
     verified: false
-    hashtags: "#indianmakeupsociety, #bloggersofindia, #artisticmakeuplooks, #makeupbysg"
-  - username: "yogita__gupta__"
+    hashtags: "#koreanadventures, #bukchonhanokvillage, #seoulfashionweek, #blogger"
+  - username: "estherduaofficial"
     fullname: >-
-      Yogita Gupta
+      ESTHER DUA
     bio: >-
-      Managed by @barcodeent Content creator 🔸Influencer 🔸| Beauty |Tech | Fashion | Lifestyle 💌 Email me for collabs Collab.inquiry007@gmail.com
+      By grace † 🌸 Fashion, Beauty, Lifestyle 📍Ludhiana, Punjab 💌 Collaborations/ PR : business@estherdua.com
     location: "India"
-    followers: 541941
-    engagement: 651
-    commentsToLikes: 0.165614
-    id: ck0ty0x1ql52l0i198adlw0fk
+    followers: 74576
+    engagement: 793
+    commentsToLikes: 0.022766
+    id: ck9haoqy0deqe0j78aoa2irix
     verified: false
-    hashtags: "#stayhome, #fashionstyle, #love, #danceandmusic"
-  - username: "sushma_pappya_gaikwad"
+    hashtags: "#reelsinstagram, #bosslady, #beautyblogger, #lifestyleinfluencer"
+  - username: "swati_chauhan_"
     fullname: >-
-      👑Sony PapPya Gaikwad👑
+      Swati Chauhan
     bio: >-
-      ▶️Influencer | Lifestyle | Beauty| Fashion 🏠Lonavala | 🎂 2 Feb 📩 Mail For Collaborations @pappya_gaikwad_official
+      🎬Actor/Creator 💫 Humanity above all 🦢Lifestyle | Beauty | fashion 📍Chandigarh | Shimla 📩 mail for collaborations ▶️ YouTube👇🏻
     location: "India"
-    followers: 347903
-    engagement: 842
-    commentsToLikes: 0.038922
-    id: ck14h9f98978q0i19ezacqkwe
+    followers: 319785
+    engagement: 628
+    commentsToLikes: 0.010478
+    id: ck600azjpd9gx0i141rpr709f
     verified: false
-    hashtags: ""
-  - username: "feelingfashioninside"
+    hashtags: "#feelitreelit, #foryou, #explore, #feelkaroreelkaro"
+  - username: "sarahsaroshh"
     fullname: >-
-      FEELINGFASHIONINSIDE
+      Sarah Sarosh
     bio: >-
-      Fashion | Beauty |Travel | Skin care | vlogs For collaboration: Dm 📩 feelingfashioninside@gmail.com YOUTUBER▶️🎦 🆕 https://youtu.be/ramhOf5ITlE
+      Made from ambition and strong coffee ☕️ Empowering lives via #HustleWSar⚡️ REAL Beauty & Lifestyle✨ Founder & CEO: @impulsecoffees 800K+ #SarahSquad
     location: "India"
-    followers: 9031
-    engagement: 1261
-    commentsToLikes: 0.308896
-    id: ck8t8az4cjr370j786zot9dwa
+    followers: 121183
+    engagement: 940
+    commentsToLikes: 0.013610
+    id: ckmw1d68f6j8u0j23oouw07ao
     verified: false
-    hashtags: "#productreview, #odishabloggers, #indianyoutubers, #contentcreators"
-  - username: "srijita.mitraaaaa"
+    hashtags: "#trending, #fitswsar, #divaliciousdiwali, #fashionblogger"
+  - username: "stunning_since_1998"
     fullname: >-
-      Srijita Mitra 💞
+      Aishwarya Prabhu Gaonkar / Goa / India
     bio: >-
-      Fashion Beauty & Lifestyle 🌸 Backup account: @srijita_mitraaa DM for paid promotions/collaborations ✨
+      Travel/fashion/beauty/lifestyle ❤️😍 @aisha_pictography
     location: "India"
-    followers: 358150
-    engagement: 639
-    commentsToLikes: 0.029798
-    id: ck6uddp1ekigv0j71dpp1p4a4
+    followers: 23540
+    engagement: 464
+    commentsToLikes: 0.024860
+    id: ckapce6qf3gi90i78wvc8ydzd
     verified: false
-    hashtags: "#instapicture, #potraitmood, #curvygirlsrock, #curvywomen"
-  - username: "dfw_oma"
+    hashtags: "#outfitoftheday, #healthylifestyle, #travelingram, #naturelife"
+  - username: "babelicious_indiana"
     fullname: >-
-      Alozie oma
+      𝗗𝗥.𝗥𝗜𝗧𝗨 𝗦𝗜𝗡𝗚𝗛 𝗬𝗔𝗟𝗔𝗚𝗜 | 𝘍𝘈𝘚𝘏𝘐𝘖𝘕 & 𝘓𝘐𝘍𝘌𝘚𝘛𝘠𝘓𝘌
     bio: >-
-      Hey cutie 😊 Welcome to my official page No Facebook/Twitter account Dm/email for paid promotion Hazel eyed🥺 Beauty/Brand influencer 😘
+      🦷 𝗗𝗘𝗡𝗧𝗜𝗦𝗧 Owner @dr.ritusdentalstudio 📍𝕄𝕌𝕄𝔹𝔸𝕀 Travel | Beauty | Luxury 📩 𝐬𝐦𝐚𝐫𝐭.𝐝𝐞𝐧𝐭𝐢𝐬𝐭𝟏𝟗𝟗𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 “𝘘𝘜𝘈𝘓𝘐𝘛𝘠 𝘪𝘯 𝘌𝘷𝘦𝘳𝘺 𝘬𝘪𝘯𝘥 𝘰𝘧 𝘈𝘋𝘝𝘌𝘙𝘛𝘐𝘚𝘌”
     location: "India"
-    followers: 74967
-    engagement: 602
-    commentsToLikes: 0.049587
-    id: ck8syg97rkqnd0j78fjfmxwpz
+    followers: 60203
+    engagement: 365
+    commentsToLikes: 0.017261
+    id: ck5bxlj67nygn0i11l5uuez5r
     verified: false
-    hashtags: "#buharimustgo, #explore, #explorepage, #whalezbabygallardo"
-  - username: "rinkuchatlani"
+    hashtags: "#explore, #trendingreels, #ad, #posesforpictures"
+  - username: "chadha_alisha"
     fullname: >-
-      Rinku Chatlani
+      Alisha Chadha🌺
     bio: >-
-      Fashion • Beauty • Lifestyle Living the dream💫 thechicdust@gmail.com 💌 Founder @quirkstruck.store 🦄
+      Content Creator - Fashion X Beauty X Lifestyle X Travel🌸 Dm / mail for Collaboration 🌼 Founder - @styleyourfeet07
     location: "India"
-    followers: 80739
-    engagement: 1615
-    commentsToLikes: 0.037546
-    id: ck0w4w8xb0pra0i19dcblflh6
+    followers: 303621
+    engagement: 310
+    commentsToLikes: 0.053841
+    id: ckapabvykvh8d0i78if1h5h3h
     verified: false
-    hashtags: "#diwali2020, #classics, #happysurprises, #viishere"
-  - username: "belikehira"
+    hashtags: "#getstyledwithamazon, #ootd, #ad, #founditonamazon"
+  - username: "shreya_chawla"
     fullname: >-
-      Hira Ahmed | Content Creator
+      Shreya Chawla
     bio: >-
-      Food•Fashion•Beauty Owns @thefantasypr Lifestyle Blogger 🦋 DM for PR & Collab. Lahore.
+      Twinningforlife w @soumya_chawla Managed by @strawhat_network •Fashion• Beauty• Lifestyle 📧: Shreyachawlaofficial@gmail.com 📍: Delhi
     location: "India"
-    followers: 5267
-    engagement: 1323
-    commentsToLikes: 0.177364
-    id: ck6ty2upw1d040j71b4ssdzsm
+    followers: 179452
+    engagement: 245
+    commentsToLikes: 0.008656
+    id: ck138blu4ffkf0i19c2xzbpcb
     verified: false
-    hashtags: "#modestfashion, #quarntine, #belikehira, #supportsmallbusiness"
-  - username: "kimaayasharmaa"
+    hashtags: "#happyhalloween, #uniqlo, #ootd, #americaneagle"
+  - username: "laxmireddy75"
     fullname: >-
-      KIMAAYA SHARMA OFFICIAL
+      Laxmi Reddy💯
     bio: >-
-      🎂1st October 👰🏼FASHION / LIFESTYLE / BEAUTY / 📍PUNE | MUMBAI 📱𝑭𝒃,Roposo,👻, 𝑻𝒘𝒊𝒕𝒕𝒆𝒓 - @kimaayasharmaa 📩 DM for collaboration👇🏻
+      • LR🖤• Dia Awards Lifestyle Influencer Of The Year 20-21 Lifestyle • Beauty • Fashion Collaboration: laxmireddy75@gmail.com
     location: "India"
-    followers: 214842
-    engagement: 786
-    commentsToLikes: 0.023093
-    id: ck15rqrih986s0i19pta2vsvw
+    followers: 85278
+    engagement: 222
+    commentsToLikes: 0.006501
+    id: ck8t7jk7yh1qp0j78ktw8hl2y
     verified: false
-    hashtags: "#influencer, #puneblogger, #candid, #digitekmobilegimbal"
-  - username: "hautemissy"
+    hashtags: "#instagramreels, #explorepage, #laxmireddy75, #trending"
+  - username: "nikitasoni_13"
     fullname: >-
-      Jaspreet Kaur
+      NIKITA
     bio: >-
-      Fashion | Beauty | Lifestyle Dm or email for collaboration.
+      All things fashion, beauty and skincare ✨ •Femina Miss India Rajasthan 2018 👑 •Miss Indore 2017👸 @anniki_official 🛍
     location: "India"
-    followers: 25066
-    engagement: 531
-    commentsToLikes: 0.126653
-    id: ck13bmp96w62t0i19rycvump0
+    followers: 27343
+    engagement: 157
+    commentsToLikes: 0.063925
+    id: ck602npu8i6f80i14iwuxiiqk
     verified: false
-    hashtags: "#delhifashionblogger, #longhair, #mumbaifashionblogger, #mumbai"
+    hashtags: "#lazymakeup, #explore, #natural, #rokafied"
 ---

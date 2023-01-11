@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Miami In 2022
+title: Top 10 Food Instagram Influencers In Miami In 2023
 description: >-
-  Find top food Instagram influencers in Miami in 2022. Most popular hashtags: #miami #food #miamibeach #fitness.
+  Find top food Instagram influencers in Miami in 2023. Most popular hashtags: #miami #food #foodporn #foodie.
 platform: Instagram
-hits: 206
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 206 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 237
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 237 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "michelle_vanessaa_"
+  - username: "broward_eats"
     fullname: >-
-      Michelle Vanessa
+      Lina 🇨🇴 | BROWARD_EATS 🍣
     bio: >-
-      Miami🏝TV Host🎤Foodie 🍴 Wanderlust ✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+      💌: DM for collabs/events/partnerships ☀️: #southflorida #fortlauderdale #miami 📸 : @yelpbrowardpalmbeach @bestfoodfeed @bestfoodmiami
     location: "United States"
-    followers: 33192
-    engagement: 471
-    commentsToLikes: 0.116469
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 2253
+    engagement: 557
+    commentsToLikes: 0.203193
+    id: ck5qcpze5rrxq0i113ence21j
     verified: false
-    hashtags: "#novababe, #food, #miami, #health"
-  - username: "paulinaortizj"
+    hashtags: "#eats, #love, #eeats, #food"
+  - username: "zashiasantiago"
     fullname: >-
-      Paulina🦁🇨🇴
+      Zashia Santiago
     bio: >-
-      Im 22// Inspire.Educate.Transform ✨ 👩🏼‍⚕️🥑Health Coach @nutritionschool 🥋⭕️JIUJITSU @fightsportsmiami 👩🏼‍🍳♨️I can cook
+      📍𝑳𝑨 Advertise on my platforms: ZashiaSantiago1@gmail.com
     location: "United States"
-    followers: 10298
-    engagement: 500
-    commentsToLikes: 0.030400
-    id: ck5cb0sidei1g0i11xfkaz9h9
+    followers: 403962
+    engagement: 259
+    commentsToLikes: 0.017353
+    id: ck5bvxxavkm630i110ydrx036
     verified: false
-    hashtags: "#fitness, #getfitgetlit, #fitnessjourney, #bossbabe"
+    hashtags: "#silkpress, #twasfun, #smoothmoisture, #saturday"
+  - username: "galvarezm"
+    fullname: >-
+      Gustavo Alvarez
+    bio: >-
+      Just Live 🕺🛫🇻🇪🇨🇱🇺🇸
+    location: "United States"
+    followers: 9996
+    engagement: 916
+    commentsToLikes: 0.014411
+    id: ck6ticiqt0gdb0j71xy4yft2r
+    verified: false
+    hashtags: "#petlove, #loveislove, #instatravel, #instachile"
+  - username: "jasmine_jones0608"
+    fullname: >-
+      Aspiring Model/Youtuber📸  PA📍
+    bio: >-
+      🎥Youtube: Jasmine Jones 🤪Tik Tok: jasminejones0608 👻Little_love0608 CEO of @jassy.beauty_ Subscribe to my channel⬇️
+    location: "United States"
+    followers: 2950
+    engagement: 832
+    commentsToLikes: 0.081709
+    id: ckaou3w0eyohk0i781fg3ebi0
+    verified: false
+    hashtags: "#shein, #lacefrontal, #likers, #likeforlikeback"
+  - username: "andressgarcia1"
+    fullname: >-
+      Andres Garcia
+    bio: >-
+      ✖️UTRGV Math Tutor ➕Fitness/Fashion Model ✖️Mechanical Engineering 📚 ➕For booking/inquiries email down below
+    location: "United States"
+    followers: 16365
+    engagement: 504
+    commentsToLikes: 0.061207
+    id: ck6u1yp0moohb0j71sbzdr9iq
+    verified: false
+    hashtags: "#fitfam, #begginerpianoplayer, #pianocover, #instafitness"
   - username: "patiolefromage"
     fullname: >-
       •Patio Le Fromage•
     bio: >-
-      
+      Chef . Gabriela Alvarez • Lux Grazing Platters & Tables • Raclette Station • 📍Miami Orders online ⬇️
     location: "United States"
-    followers: 34329
-    engagement: 103
-    commentsToLikes: 0.039580
+    followers: 41667
+    engagement: 92
+    commentsToLikes: 0.019725
     id: ck6uh2kjq6m5s0j71zjug5pwg
     verified: false
-    hashtags: "#cheeseboardmiami, #colors, #cheese, #yummy"
-  - username: "sandiego.city"
+    hashtags: "#cumplean, #miamisurprise, #foodporn, #valentinesday"
+  - username: "haya_khattab"
     fullname: >-
-      Official San Diego Page
+      HAYA KHATTAB G
     bio: >-
-      ♦️Tᴀɢ Us: @sandiego.city ♦️Hᴀsʜᴛᴀɢ Us: #sandiegocity ♦️Gᴏᴀʟ: #500 #500kfollowers ♦️Sʜᴀʀᴇ ᴀɴᴅ Rᴇᴘᴏsᴛ:🔁🔄 ♦️Nᴇᴡ Pᴏsᴛ Eᴠᴇʀʏ Dᴀʏ:📲📸 🔺SAN DIEGO CITY
+      Mom | Food Brat MIAMI
     location: "United States"
-    followers: 134159
-    engagement: 200
-    commentsToLikes: 0.016912
-    id: ck5pvukg1jpio0i11o1rgzzx5
+    followers: 8500
+    engagement: 582
+    commentsToLikes: 0.073614
+    id: ckaospsd4sjhx0i78p58p4ttx
     verified: false
-    hashtags: "#sandiegocomiccon, #socal, #sandiegohairstylist, #sandiegosunset"
-  - username: "gabyquintero17"
-    fullname: >-
-      Gaby Quintero
-    bio: >-
-      Deco Models MIA/NYC @couplegoals ambassador 🌹 💍 @joacomicillo University of Miami 🙌🏻💚🧡
-    location: "United States"
-    followers: 146673
-    engagement: 117
-    commentsToLikes: 0.065456
-    id: ck13587sp06qt0i194gc47w8y
-    verified: false
-    hashtags: "#bbq, #miamirestaurants, #braziliansteakhouse, #beef"
+    hashtags: "#love, #goldenhour, #withyou, #brickell"
   - username: "breakingmydiet"
     fullname: >-
       Miami Food | Fat Adventures
     bio: >-
       🌞 Based in Miami ✈️ NY, Montréal y mas Eat life to the fullest DM for Collaboration 🙋🏻‍♂️ @lechristiano 🔸 @zipkick 🔸 @bestfoodmiami
     location: "United States"
-    followers: 3890
-    engagement: 961
-    commentsToLikes: 0.629727
+    followers: 4407
+    engagement: 1046
+    commentsToLikes: 0.573344
     id: ck134n7vdx8lo0i19m40bwz6s
     verified: false
-    hashtags: "#delicious, #yum, #yummy, #foodlover"
-  - username: "sly_royal_productions"
+    hashtags: "#eat, #foodphotography, #miamieats, #delicious"
+  - username: "foodiefollowings"
     fullname: >-
-      Sly Royal Productions Co.™
+      • L D •
     bio: >-
-      DM for inquiries ☝🏾 #LLJ🕊 ▪️Sly Royal Productions Co.▪️ Founder of @freshfood_fast
+      📍Chicago• Just for Pun 😜 #foodiefollowings foodiefollowings@gmail.com 📩
     location: "United States"
-    followers: 25409
-    engagement: 8
-    commentsToLikes: 0.020557
-    id: ck5zz1ssgax4r0i148wcwdm8q
+    followers: 12828
+    engagement: 289
+    commentsToLikes: 0.274575
+    id: ck6ugiagu36gr0j7126wy53vo
     verified: false
-    hashtags: ""
-  - username: "ll_fitcouple"
+    hashtags: "#happyhour, #chicago, #yum, #blogger"
+  - username: "karishkhan"
     fullname: >-
-      Laura y Leiser/😀🏖💕🌊
+      Karishma Khan
     bio: >-
-      -Más de 3 años de experiencia💃🏻 -Ayudamos a personas a vivir una mejor vida💕familia,amigos,negocio,estado físico,calidad de tiempo🏝😀 @healthylife.cm
+      Medium-Spicy 🌶 #stopasianhate
     location: "United States"
-    followers: 32601
-    engagement: 204
-    commentsToLikes: 0.031651
-    id: ck8wggxk4hc8z0j786f52uvum
+    followers: 2496
+    engagement: 2139
+    commentsToLikes: 0.071031
+    id: ck5zpdoqsshj20i14q07ha1bf
     verified: false
-    hashtags: "#love, #tampa, #pregnant, #jacksonville"
-  - username: "ifbbpro_stevenwain"
-    fullname: >-
-      
-    bio: >-
-      🌐IFBB PRO @the.tn.supplement.co owner @jednorthbodybuilding SWAIN20 20% OFF @blackstonelabs_official STEVEN_WAIN 20% OFF
-    location: "United States"
-    followers: 6642
-    engagement: 407
-    commentsToLikes: 0.051410
-    id: ck5hlbhibjx7a0i111abq45cc
-    verified: false
-    hashtags: "#teamcardone, #deal, #grind, #biceps"
-  - username: "getfitwithcabi"
-    fullname: >-
-      Cabi
-    bio: >-
-      Health & Fitness I have no idea what I’m doing, but it’s working. Let’s do this💪🏼 💗 @yvettesports_official Ambassador | Cabi15
-    location: "United States"
-    followers: 110533
-    engagement: 328
-    commentsToLikes: 0.018536
-    id: ck14jqcrulo0b0i19fetlebo2
-    verified: false
-    hashtags: "#healthyhabits, #blogger, #sidebyside, #scale"
+    hashtags: "#newyork, #wedding, #reels, #chicago"
 ---

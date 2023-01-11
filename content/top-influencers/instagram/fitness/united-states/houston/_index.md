@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Houston In 2022
+title: Top 10 Fitness Instagram Influencers In Houston In 2023
 description: >-
-  Find top fitness Instagram influencers in Houston in 2022. Most popular hashtags: #fitness #houston #texas #fitfam.
+  Find top fitness Instagram influencers in Houston in 2023. Most popular hashtags: #fitness #houston #fitnessmotivation #fitnessjourney.
 platform: Instagram
-hits: 189
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 189 Instagram influencers like this in Houston, United States for you to collaborate.
+hits: 176
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 176 Instagram influencers like this in Houston, United States for you to collaborate.
 profiles:
-  - username: "uc.camjam"
+  - username: "ness.in.the.us"
     fullname: >-
-      Cam-Jam™
+      Vanessa Wilson-Watson
     bio: >-
-      DM ~ inquiry|shoots|collabs Houston,TX | Galveston,TX Published Model~Actress TrophiesTV-EMILY WE BlackOps Worlds🥈Medalist Nfinity Legend ❤️🔐
+      Fitness | Fashion | Food 📌 UK girl trying to make her way in Houston, TX
     location: "United States"
-    followers: 100373
-    engagement: 288
-    commentsToLikes: 0.055196
-    id: ck5bwobzhm37d0i11evxxdkey
+    followers: 39641
+    engagement: 62
+    commentsToLikes: 0.313235
+    id: ck8szu0zvppic0j78ftgq2n26
     verified: false
-    hashtags: "#potd, #instagood, #camjam, #beauty"
-  - username: "tylerdonatelli"
-    fullname: >-
-      Tyler Donatelli
-    bio: >-
-      Houston Ballet Soloist • hou.tx|hb.ca
-    location: "United States"
-    followers: 15822
-    engagement: 1000
-    commentsToLikes: 0.010433
-    id: ck55q9esmcg8b0i11kxnn810f
-    verified: false
-    hashtags: "#workout, #fitness, #houstonballet, #corona"
-  - username: "thestarsbarber"
-    fullname: >-
-      Barry Hairston /TheStarsBarber
-    bio: >-
-      🌟Exclusive🧳 #celebritybarber 🌟💪🏽 Junkie 🌟NBA🏀 /MLB⚾️ 💈 🌟@jetaime211 Wifey 👸 🌟 @schedulicity📲 Brand Ambassador 🌟 @gillette #BarberCouncil 📰Press👇🏽
-    location: "United States"
-    followers: 35176
-    engagement: 205
-    commentsToLikes: 0.006297
-    id: ck5q89pw353pb0i111ops9k9v
-    verified: false
-    hashtags: "#ringlight, #illuzien, #haircut, #gillettepartner"
-  - username: "victoriavilla__"
-    fullname: >-
-      Victoria Villa MUA
-    bio: >-
-      Lover of Christ Pro Makeup Artist | @victoriavillabeauty Plus Size Model | Influencer Houston | Miami @buffbunny_collection use code VICTORIA
-    location: "United States"
-    followers: 22266
-    engagement: 275
-    commentsToLikes: 0.044410
-    id: ck55ozizu9h040i11s14f4nld
-    verified: false
-    hashtags: "#plussizefashion, #blessed, #thick, #fashionnovacurve"
+    hashtags: "#seasonaldecor, #tinyfestivemoments, #festiveblogger, #magicofchristmas"
   - username: "mariafit92_"
     fullname: >-
       Maria Rivera
     bio: >-
-      •Only Acct. •Aiden&Mason❤️ @squeez_me_skinny MR92 @noquitsociety (MR92) •Team @hcfitness.texas •Team @1upnutrition
+      •Only Acct. •Mom of 2 Boys Aiden&Mason❤️ @squeez_me_skinny MR92 @noquitsociety (MR92) •Team @hcfitness.texas •Team @1upnutrition
     location: "United States"
-    followers: 19256
-    engagement: 439
-    commentsToLikes: 0.017864
+    followers: 28494
+    engagement: 509
+    commentsToLikes: 0.016573
     id: ckap6dps5fgnd0i78cecdh21z
     verified: false
-    hashtags: "#fitnessmotivation, #fitnessjourney, #happiness, #fitnessmodel"
-  - username: "selectbodydoc"
-    fullname: >-
-      Select Spine & Sports Medicine
-    bio: >-
-      📍Friendswood, TX Select Spine & Sports Medicine · Joe Denke, DC, CCSP · Joe Fuhrman, DC · Jerica Carlton, Ex. Phys. . Our Products⤵️ Selectbodydoc 20%
-    location: "United States"
-    followers: 56400
-    engagement: 190
-    commentsToLikes: 0.079740
-    id: ck9hbx4jiitrl0j78y7641n79
-    verified: false
-    hashtags: "#backpain, #backpainrelief, #sportsinjury, #fitness"
-  - username: "tellittoyourneighbor"
-    fullname: >-
-      Erica Smith | Designer | HTX
-    bio: >-
-      Sharing discoveries & experiences! #tityndesign#tityntravel#titynquote BIG monthly GIVEAWAYS to share the things I ♥️ most with YOU!
-    location: "United States"
-    followers: 7334
-    engagement: 244
-    commentsToLikes: 0.189467
-    id: ck134xuwayq2h0i196si7yua1
-    verified: false
-    hashtags: "#wfh, #tityn, #corona, #titynquote"
-  - username: "brt.ann"
-    fullname: >-
-      BrittanyAnn
-    bio: >-
-      But GOD... ΔΣΘ @i_amlift Certified PT 📧 for inquiries 2x Overall NQ Bikini bodybuilder @snapkitchen $15 off CODE: brtann @stakkedcouture athlete
-    location: "United States"
-    followers: 5231
-    engagement: 520
-    commentsToLikes: 0.055619
-    id: ck8sxf158h5un0j78ljk838bm
-    verified: false
-    hashtags: "#iamlift, #womenlift, #keepgoing, #actions"
+    hashtags: "#houston, #fitmom, #fitnessmodel, #fitness"
   - username: "ramyainti"
     fullname: >-
       Ramya
     bio: >-
-      Desi Girl📍Houston | Fitness | Fashion | Travel 🔥 DOWNLOAD MY APP FOR MORE 🔥 👇
+      Desi Girl📍Houston | Fitness | Fashion | Travel
     location: "United States"
-    followers: 392427
-    engagement: 451
-    commentsToLikes: 0.020497
+    followers: 411123
+    engagement: 211
+    commentsToLikes: 0.018247
     id: ck8t8t4xqlpk00j78uclyox52
     verified: false
-    hashtags: "#fallstyle, #styleblogger, #girl, #croptop"
-  - username: "ll_fitcouple"
+    hashtags: "#bikiniseason, #fashionnova, #mondaymotivation, #houstonblogger"
+  - username: "dulcediana"
     fullname: >-
-      Laura y Leiser/😀🏖💕🌊
+      𝗗𝗶𝗮𝗻𝗮 𝗣𝗮𝗿𝗲𝗷𝗮 | 𝗛𝗼𝘂𝘀𝘁𝗼𝗻 𝗧𝗿𝗮𝗶𝗻𝗲𝗿
     bio: >-
-      -Más de 3 años de experiencia💃🏻 -Ayudamos a personas a vivir una mejor vida💕familia,amigos,negocio,estado físico,calidad de tiempo🏝😀 @healthylife.cm
+      Personal Trainer & Online Coach 🇨🇴 @doubletaketeam Strength•Balance•Movement #IAM1STPHORM Apply for coaching in the link ⤵️
     location: "United States"
-    followers: 32601
-    engagement: 204
-    commentsToLikes: 0.031651
-    id: ck8wggxk4hc8z0j786f52uvum
+    followers: 12578
+    engagement: 338
+    commentsToLikes: 0.051676
+    id: ckwx3iv46wlz30j235p34o6w4
     verified: false
-    hashtags: "#love, #tampa, #pregnant, #jacksonville"
+    hashtags: "#latina, #gluteworkout, #houston, #legday"
+  - username: "baby_briiiannaa"
+    fullname: >-
+      •Baby B•💋
+    bio: >-
+      Be the light • 21 •Houston, tx 📍 •fitness, fashion and lifestyle •twitter: baby_briiianna
+    location: "United States"
+    followers: 53555
+    engagement: 1208
+    commentsToLikes: 0.029631
+    id: ckap3s4if4bpu0i78rtvjny60
+    verified: false
+    hashtags: "#nightout, #fitnessmotivation, #fitnessjourney, #gym"
+  - username: "shadessofblu"
+    fullname: >-
+      Glamorous Bruja Blu
+    bio: >-
+      Only 1 IG & Snap (iceychick) Bluday 💙🔒 World Explorer 🗺 📍HTX Business Owner / TAX PREP. Follow @shadessoffood 🍽 Spiritual & Crystal Lover 🔮📿
+    location: "United States"
+    followers: 18717
+    engagement: 331
+    commentsToLikes: 0.027722
+    id: ck6u2x4vxuf440j71s0zc5fmq
+    verified: false
+    hashtags: "#houston, #fitness, #crystallover, #adventureseeker"
+  - username: "agentshawn"
+    fullname: >-
+      Trainer/Sports Performance
+    bio: >-
+      🏋🏽‍♂️ Cypherdemics 📐 Engineering Professional 🇺🇸 Houston, TX 📩 mrshawn06@gmail.com #cypherdemics
+    location: "United States"
+    followers: 17305
+    engagement: 143
+    commentsToLikes: 0.195510
+    id: ck6u42nl71c2q0j71qj8wd6mx
+    verified: false
+    hashtags: "#menshealthmag, #bootcamp, #weightlossjourney, #cypherdemics"
+  - username: "morganthebayer"
+    fullname: >-
+      M O R G A I N Z
+    bio: >-
+      Founder // Owner of: @morgainz_collection 💪🏻Online/ Personal Trainer: @bossletics_gym #morgainzmentality ⬇️ SHOP or APPLY for 1:1 Training⬇️
+    location: "United States"
+    followers: 102736
+    engagement: 289
+    commentsToLikes: 0.033707
+    id: ck9hchq38lgcf0j784cyzwzc6
+    verified: false
+    hashtags: ""
+  - username: "ryanweavercountry"
+    fullname: >-
+      🇺🇸🎤Ryan Weaver Official🎤🇺🇸
+    bio: >-
+      Country Music Artist, Motivational Speaker, @turningpointusa Ambassador, Former US Army Blackhawk Aviator
+    location: "United States"
+    followers: 66830
+    engagement: 236
+    commentsToLikes: 0.054748
+    id: ck6tthsr0aoms0j71of1vksnb
+    verified: true
+    hashtags: "#whey, #eatclean, #letstalkaboutheroes, #numismatist"
+  - username: "ciadifference"
+    fullname: >-
+      Ciara
+    bio: >-
+      I Owe God EVERYTHING *Social Media Is Not Real Life* Austin📍 30
+    location: "United States"
+    followers: 3094
+    engagement: 1216
+    commentsToLikes: 0.105534
+    id: ck6u44soh1ope0j71fdk9n5u9
+    verified: false
+    hashtags: "#michaelbjordan, #peace, #ciadifference, #melanin"
 ---

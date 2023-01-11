@@ -1,36 +1,72 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Colombia In 2022
+title: Top 10 Comedians TikTok Influencers In Colombia In 2023
 description: >-
-  Find top comedians TikTok influencers in Colombia in 2022. Most popular hashtags: #parati #colombia #fyp #comedia.
+  Find top comedians TikTok influencers in Colombia in 2023. Most popular hashtags: #parati #viral #foryou #fyp.
 platform: TikTok
-hits: 282
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 282 TikTok influencers like this in Colombia for you to contact.
+hits: 246
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 246 TikTok influencers like this in Colombia for you to work with.
 profiles:
-  - username: "paaaola.r"
+  - username: "__jennylu__"
     fullname: >-
-      Pao Romero :)
+      Jenny Lu
     bio: >-
-      🇨🇴🇵🇦 17 Just for art Me creo maquilladora y a veces comediante
+      Soy una pulga al lado suyo 👍🏻 Welcome to panas I purple you 💜 🔽GET INSUP🔽
     location: "Colombia"
-    followers: 89200
-    engagement: 1936
-    commentsToLikes: 0.022980
-    id: ckb9nn7pxhcj70j231gaxl4jc
+    followers: 283600
+    engagement: 1998
+    commentsToLikes: 0.016575
+    id: ckd0ekf6gdfo10j23oufe3z2f
     verified: false
-    hashtags: "#fyp, #parati, #paratipagina, #xzybca"
-  - username: "erikalopez_9002"
+    hashtags: "#ni, #comedy, #bogota, #foryou"
+  - username: "maestro_.ff"
     fullname: >-
-      Erika López
+      Maestro ff
     bio: >-
-      Si nos cruzamos por la vida ,No me preguntes dónde voy, Mira mis ojos y adivina”
+      NICK: MÆSTROㅤTKㅤ:) COLOMBIANO 🔥🇨🇴 21 años LEVEL: 76 📨danielxz080@gmail.com📨
     location: "Colombia"
-    followers: 23900
-    engagement: 644
-    commentsToLikes: 0.028518
-    id: ckdhf7p23x8hy0j23n07z8716
+    followers: 305500
+    engagement: 1597
+    commentsToLikes: 0.017707
+    id: ckdst9faopg970j23xqgjz3d0
     verified: false
-    hashtags: "#fyp, #comediantesdelanoche, #xyzbca, #comedia"
+    hashtags: "#garena, #freefire, #parati, #foryou"
+  - username: "carlosmlina"
+    fullname: >-
+      Carlos Molina
+    bio: >-
+      Sígueme en Instagram @carlosmlina 🤍 https://youtu.be/oW4l86EvZZo
+    location: "Colombia"
+    followers: 104800
+    engagement: 1724
+    commentsToLikes: 0.054962
+    id: ckblk35jxcznk0j23e6mxvwth
+    verified: false
+    hashtags: "#fyp, #luismiguel, #pov, #comedy"
+  - username: "missbarbieken"
+    fullname: >-
+      LaBarbieKenEsa
+    bio: >-
+      Bisexual, bicultural con voz de pito 🏳️‍🌈🇪🇦🇨🇴 Mi meta es hacerte sonreír ❤
+    location: "Colombia"
+    followers: 427500
+    engagement: 1922
+    commentsToLikes: 0.010132
+    id: ckd6wjkteseja0j23xe9zejkg
+    verified: false
+    hashtags: "#humornegro, #comediaenespa, #sketch, #humor"
+  - username: "sergioolarte_13"
+    fullname: >-
+      SergioOlarte
+    bio: >-
+      🇨🇴 colombia : 🇨🇴 ⚠️ Insta: sergioolarte ⚠️ 🏁 Meta: 2M🖤
+    location: "Colombia"
+    followers: 1000000
+    engagement: 880
+    commentsToLikes: 0.047941
+    id: cka0hbk2x8j3t0i78pv10mvej
+    verified: false
+    hashtags: "#humor, #comedia, #parati, #lol"
   - username: "karitocruiz1"
     fullname: >-
       Karito C Ruiz
@@ -42,89 +78,53 @@ profiles:
     commentsToLikes: 0.038451
     id: ckaikegvbj2q10i78rzjinyoy
     verified: false
-    hashtags: "#zyxbca, #fypc, #comediaa, #duos"
+    hashtags: "#zyxbca, #duos, #colombia, #paratiii"
+  - username: "latiendadejuank"
+    fullname: >-
+      latiendadejuank
+    bio: >-
+      😃hola amigos y seguidores de empredimiento 🤑 www.latiendadejuank.com
+    location: "Colombia"
+    followers: 26500
+    engagement: 318
+    commentsToLikes: 0.029109
+    id: cka83taasqipy0i785qh9um2e
+    verified: false
+    hashtags: "#greenscreen, #water, #hdmi, #latiendadejuank"
   - username: "marianae_blog"
     fullname: >-
       Mariana E
     bio: >-
       
     location: "Colombia"
-    followers: 23600
-    engagement: 634
-    commentsToLikes: 0.022385
+    followers: 23400
+    engagement: 603
+    commentsToLikes: 0.020913
     id: ckdnmws4mjt0j0j23v65bvxzb
     verified: false
-    hashtags: "#foryou, #comedia, #catsoftiktok, #colombia"
-  - username: "carloskajuactor"
+    hashtags: "#colombia, #colombiana, #foryou, #catsoftiktok"
+  - username: "mafegomez95"
     fullname: >-
-      Carlos  Kaju 🎬
+      Mafe Gómez 💕🍒
     bio: >-
-      Actor 🇨🇴 Sígueme en mi Ig: @carloskajuactor 🎬 ❤️ 😱Pronto llegaremos a 80k ❤️
+      Bienvenidos 😘Solo No Critiques Ni Juzgues Sin Haberte Examinado Tu Primero🙏
     location: "Colombia"
-    followers: 75600
-    engagement: 963
-    commentsToLikes: 0.016895
-    id: ckberl1hk9voy0j23vwpgkfmd
+    followers: 189700
+    engagement: 736
+    commentsToLikes: 0.026650
+    id: cka7nxikpz2gq0i78jjbnu8qx
     verified: false
-    hashtags: "#virall, #comedia, #hijo, #job"
-  - username: "ariadnavvegaa"
+    hashtags: "#mafegomez95, #comenta, #love, #real"
+  - username: "aleexleon_"
     fullname: >-
-      ᗣɾɩᥲᑯᥒᥲ ᘎᥱɠᥲ
+      aleexleon_
     bio: >-
-      Hi guys ✌🏼 |📍Sígueme no le temas al éxito EsPaCiO pUbLiCiTaRiO ¿60?
+      No bio yet
     location: "Colombia"
-    followers: 53800
-    engagement: 1091
-    commentsToLikes: 0.013953
-    id: ckbqglasj22y90j23ta6gyg26
+    followers: 30400
+    engagement: 796
+    commentsToLikes: 0.019974
+    id: ckb98bhzjrlja0j23dnk2f9mp
     verified: false
-    hashtags: "#parati, #comedia, #foryoupage, #zyxbca"
-  - username: "juancarlosmonsalv10"
-    fullname: >-
-      Juan Carlos Monsalve
-    bio: >-
-      Momentos para un buen tik tok. Solo originales. Cartagena Colombia 🇨🇴
-    location: "Colombia"
-    followers: 8545
-    engagement: 594
-    commentsToLikes: 0.015041
-    id: cka0u3h9kskt90i78imqprht6
-    verified: false
-    hashtags: "#costa, #novela, #lornapaz, #parati"
-  - username: "alejoromaan"
-    fullname: >-
-      Alejo Román
-    bio: >-
-      Colombia - Manizales Instagram: @Alejoromaan Curiosidades - Terror - comedia
-    location: "Colombia"
-    followers: 800400
-    engagement: 3280
-    commentsToLikes: 0.016236
-    id: ckb9f717z3i3n0j23bzea57bf
-    verified: false
-    hashtags: "#pareja, #fyp, #amor, #arruinandoinfancias"
-  - username: "sincara_iv"
-    fullname: >-
-      SinCaraWey_IV
-    bio: >-
-      He/ edad?🔭 comedia ❤ Diviértete ante todo🤣 Ya me sigues en Insta ? 📸 SUBLIME
-    location: "Colombia"
-    followers: 38000
-    engagement: 2653
-    commentsToLikes: 0.033354
-    id: ckb9jftvjals30j23dvlnm09j
-    verified: false
-    hashtags: "#comedia, #love, #crazy, #dibujos"
-  - username: "joserojasaba"
-    fullname: >-
-      Jose Rojas
-    bio: >-
-      🎉50k🎉 Comedia, lipsync y frikicosas. 🤗🌈 IG: joserojasaba
-    location: "Colombia"
-    followers: 54000
-    engagement: 1400
-    commentsToLikes: 0.044400
-    id: ckbf2bwn8p9fb0j23uf2rk3h9
-    verified: false
-    hashtags: "#parati, #fyp, #loserschallenge, #gracias"
+    hashtags: "#foryou, #fyp, #xzybca, #comedia"
 ---

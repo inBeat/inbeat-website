@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Argentina In 2022
+title: Top 10 Stylists Instagram Influencers In Argentina In 2023
 description: >-
-  Find top stylists Instagram influencers in Argentina in 2022. Most popular hashtags: #style #makeup #look.
+  Find top stylists Instagram influencers in Argentina in 2023. Most popular hashtags: #style #look #makeup.
 platform: Instagram
-hits: 42
+hits: 51
 text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 42 Instagram influencers like this in Argentina for you to contact.
+text_bottom: Our platform has 51 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "bassixs"
     fullname: >-
       Sol Bassi 🌴⛸
     bio: >-
-      Mi nombre es Sol 🤍 Founder @murdastudio @murda.cosmetics @murda.store Content Creator Fashion Stylist Lash & brow artist
+      Founder @murdastudio @murda.cosmetics Content Creator Fashion Stylist Lash & brow artist
     location: "Argentina"
-    followers: 18464
-    engagement: 930
-    commentsToLikes: 0.106879
+    followers: 18852
+    engagement: 580
+    commentsToLikes: 0.006928
     id: ck0w60o6a6cjo0i19f37yev4s
     verified: false
-    hashtags: "#airbarrage, #jordangirl, #sneakerhead, #jordan1"
-  - username: "abrilcassella"
+    hashtags: "#jordan1squad, #jordan1, #jordangirl, #jordan3"
+  - username: "kativara"
     fullname: >-
-      Abril
+      KATERINA
     bio: >-
-      agency @multitalentoficial 🇦🇷 fashion stylist buenos aires | arg
+      🎓Lic en Diseño y Gestión de Moda ⚡️Celebrity Stylist 🚀Producción de moda para campañas de marca, editoriales y publicidades ✨Content creator también
     location: "Argentina"
-    followers: 11577
-    engagement: 918
-    commentsToLikes: 0.125426
-    id: ck5zwxx7d6yy90i14xvdhcwd4
+    followers: 10828
+    engagement: 622
+    commentsToLikes: 0.098223
+    id: ck5cbj5r0fjcg0i11wxvete6n
+    verified: false
+    hashtags: "#highlightergoals, #bikiniseason, #summer2021, #healthytanning"
+  - username: "mr.yeezuscool"
+    fullname: >-
+      Miguel Ángel
+    bio: >-
+      Inspiración Visual ◼️CREATIVE DESIGNER ◼️VESTUARISTA&STYLIST Creative director ofmy own life🔛 CEO📥
+    location: "Argentina"
+    followers: 27362
+    engagement: 748
+    commentsToLikes: 0.062631
+    id: ck0tysqcanvyc0i1981c55w7g
     verified: false
     hashtags: ""
-  - username: "karolinesmode"
+  - username: "luisenriquebolivar"
     fullname: >-
-      Carolina Berro Madero
+      BOLÍVAR | Style Connaisseur
     bio: >-
-      Fashion Stylist 🏹 Karolinesmode@gmail.com
+      Contenido de estilo, un poco de arte y buena música. Comunicólogo y publicista. Editor, stylist, creativo en LE STYLE MAISON | Profesor en UDG. 🇲🇽 🇻🇪
     location: "Argentina"
-    followers: 92177
-    engagement: 402
-    commentsToLikes: 0.233231
-    id: ck6ti9kmg0aqj0j710ytmk41b
+    followers: 9088
+    engagement: 834
+    commentsToLikes: 0.124296
+    id: ck8t0pp7tsttp0j78tfa0fnhi
     verified: false
-    hashtags: "#look, #ootd, #homedecor, #interiordesign"
+    hashtags: "#leather, #tulum, #landscape, #fashion"
   - username: "albertafashioninsta"
     fullname: >-
       Alberta fashion insta
     bio: >-
-      Stylist + Conductora Estilos & tendencias TV +diseñadora +CEO Alberta Models -Estoy en 3 de Febrero 333 Pergamino
+      Artist- Stylist + Conductora Estilos & tendencias TV +diseñadora +CEO Alberta Models -Estoy en 3 de Febrero 333 Pergamino
     location: "Argentina"
-    followers: 63563
-    engagement: 220
-    commentsToLikes: 0.340821
+    followers: 69299
+    engagement: 258
+    commentsToLikes: 0.166686
     id: ck8t0iz3xs7wf0j780i2p99ha
     verified: false
-    hashtags: "#albertafashioninsta, #sneakers, #sorteo, #streetstyle"
-  - username: "theblueyedgal"
+    hashtags: "#creadoradecontenido, #verano, #playa, #campan"
+  - username: "dianavergaraeizaguirre"
     fullname: >-
-      Agustina Torti
+      Fashion Self Love Coach
     bio: >-
-      A girl with chameleon like style who poses for a living 📷 Freelance Model + Content creator + Stylist 🇦🇷 Buenos Aires ✉️ theblueyedgalblog@gmail.com
+      MA Fashion Marketing & Communication-Stylist 🇵🇪en🇪🇸 Te ayudo a POTENCIAR TU IMAGEN! Pregunta por las Asesorías 360 Cree en TI y sé tu mejor versión.
     location: "Argentina"
-    followers: 10477
-    engagement: 815
-    commentsToLikes: 0.082984
-    id: ck5cckwf0hjto0i11m3uzh2ii
+    followers: 50488
+    engagement: 157
+    commentsToLikes: 0.044122
+    id: ck15sf6hucpit0i19ftz6mhm4
     verified: false
-    hashtags: "#neutralstyle, #vintagestyle, #outfitdujour, #theparisguru"
+    hashtags: "#styleinspirations, #outfitlove, #outfitoftheday, #postoftheday"
   - username: "maruvenancio"
     fullname: >-
       Marina Venancio
     bio: >-
       Make up Artist - Fashion Stylist.
     location: "Argentina"
-    followers: 90699
-    engagement: 208
-    commentsToLikes: 0.029438
+    followers: 91023
+    engagement: 166
+    commentsToLikes: 0.026095
     id: ck0vuvllmmd4w0i194bj1bxac
     verified: false
-    hashtags: "#dior, #style, #styling, #makeup"
-  - username: "sofianro"
+    hashtags: "#styling, #makeup, #look, #verolozano"
+  - username: "mayraballest"
     fullname: >-
-      SOFIA ANRÓ 🏳️‍🌈
+      Mayra Ballesteros
     bio: >-
-      #loveislove 🏳️‍🌈 Model Fashion stylist Make up artist @maccosmeticsarg anrosofia@gmail.com
+      Fashion designer, stylist & producer Escribo en @mermeladainc ✍🏽 Nota: “Vistiendo resistencia: el feminismo en nuestra ropa”⬇️
     location: "Argentina"
-    followers: 91043
-    engagement: 468
-    commentsToLikes: 0.013808
-    id: ck5znf7qfociu0i14dual3ny9
+    followers: 8490
+    engagement: 637
+    commentsToLikes: 0.035040
+    id: ck6u07pm1e3130j71bkcyn9xd
     verified: false
-    hashtags: "#ad, #ckeveryone, #tb, #ckone"
-  - username: "mr.yeezuscool"
+    hashtags: "#theeighties"
+  - username: "olga_vila"
     fullname: >-
-      Miguel Ángel
+      Olga Vila | Food Stylist
     bio: >-
-      ◼️CREATIVE DESIGNER ◼️CLOTHING MAKER ◼️VESTUARISTA&STYLIST Creative director ofmy own life🔛 CEO📥
+      Food & drink Stylist | Recipe developer Mis trabajos en @olga_foodstyler Mis servicios Olgavila.com. Mis recetas pepitagreens.com
     location: "Argentina"
-    followers: 25888
-    engagement: 757
-    commentsToLikes: 0.035812
-    id: ck0tysqcanvyc0i1981c55w7g
+    followers: 12466
+    engagement: 511
+    commentsToLikes: 0.128107
+    id: ck5zu96tf1x310i14wlra1gbu
     verified: false
-    hashtags: ""
+    hashtags: "#pepitagreens, #foodfluffer, #foodstyling, #cookmagazine"
   - username: "rpsi.queen"
     fullname: >-
       👑•P•S•I•C•O•👑
     bio: >-
       ☆DRAG☆MUA☆HAIRDRESSER☆WIG-STYLIST☆ #GETTHELOOK
     location: "Argentina"
-    followers: 5686
-    engagement: 536
-    commentsToLikes: 0.064781
+    followers: 5901
+    engagement: 467
+    commentsToLikes: 0.064082
     id: ck5c9bgcwb4u40i1118f1pfo4
     verified: false
-    hashtags: "#pedroalmodovar, #taconeslejanos, #santelmo, #dragqueen"
-  - username: "merybernardioficial"
-    fullname: >-
-      Mery Bernardi
-    bio: >-
-      Cocinera en constante aprendizaje • Food Stylist Snowboarder • Playera • Amante de la vida • En búsqueda del equilibrio entre el cuerpo, mente y alma
-    location: "Argentina"
-    followers: 21783
-    engagement: 109
-    commentsToLikes: 0.051336
-    id: ckap5sartcyan0i78sf9qod63
-    verified: false
-    hashtags: "#naturalhealing, #sourdoughpizza, #masamadresaleosale, #pizzaconalcachofa"
+    hashtags: "#mujeresalbordedeunataquedenervios, #muypronto, #pedroalmodovar, #pasion"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Poland In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Poland In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Poland in 2022. Most popular hashtags: #bodybuilding #polishgirl #workout #trening.
+  Find top bodybuilding Instagram influencers in Poland in 2023. Most popular hashtags: #bodybuilding #trening #polishgirl #body.
 platform: Instagram
-hits: 218
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 218 Instagram influencers like this in Poland for you to contact.
+hits: 203
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 203 Instagram influencers like this in Poland for you to work with.
 profiles:
   - username: "gainzdesire"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🥇Mistrz Czech ICN 🏆NATURAL BODYBUILDING COACH 🇵🇱TEAM#gainzdesireteam 📈PROWADZENIE ONLINE 📚INFOGRAFIKI👉🏻 @scidesire 👨🏻‍🏫SZKOLENIE👇🏻
     location: "Poland"
-    followers: 22191
-    engagement: 430
-    commentsToLikes: 0.021449
+    followers: 22327
+    engagement: 443
+    commentsToLikes: 0.021114
     id: ck6tybuep2tmk0j71edexwgya
     verified: false
-    hashtags: "#dietetykasportowa, #dietetyk, #dietabezdiety, #gymguy"
-  - username: "karolstuglik"
-    fullname: >-
-      Karol Stuglik
-    bio: >-
-      IFBB Pro Bodybuilder Diamond Cup 2016 Overall Winner IFBB PRO Maker Bodybuilding Coach @bsn_pl Sponsored Athlete
-    location: "Poland"
-    followers: 28755
-    engagement: 422
-    commentsToLikes: 0.012338
-    id: ck14gqb0f6ih30i19crejfv8y
-    verified: false
-    hashtags: "#forma, #wymagajodsiebie, #bodybuilding, #fitfam"
+    hashtags: "#kreatyna, #trener, #bodybuilding, #treningwdomu"
   - username: "inspektorin"
     fullname: >-
       Magda 🇪🇺🇵🇱🏳️‍🌈
     bio: >-
       🏋🏻‍♀️Gym 💪Bodybuilding 🍓Foodlover 🌱Healthylifestyle
     location: "Poland"
-    followers: 5056
-    engagement: 1333
-    commentsToLikes: 0.026095
+    followers: 4871
+    engagement: 1338
+    commentsToLikes: 0.026114
     id: ckap5hhukbpdk0i78zh93olmk
     verified: false
-    hashtags: "#goodmorning, #sniadaniemistrzow, #healthyfood, #healthy"
+    hashtags: "#fitsernik, #wiemcojem, #healthyfood, #allnutrition"
   - username: "fornalskimaciek"
     fullname: >-
       maciek fornalski
     bio: >-
       #bodybuilding #cooking #healthyfood #drummer
     location: "Poland"
-    followers: 2636
-    engagement: 1569
-    commentsToLikes: 0.043057
+    followers: 2506
+    engagement: 610
+    commentsToLikes: 0.040816
     id: ck15tcsnkhgrh0i19xwq4vtdv
     verified: false
     hashtags: ""
   - username: "ela_fab_"
     fullname: >-
-      Ela
+      Ela🇵🇱
     bio: >-
       💪20%https://olimpsport.com/pl/ kod rabat „Elafab” 💪Team @xtreme_fitness_gyms 💪15% Sklep Furia Kod rabat „elafab” www. sklepfuria.pl/
     location: "Poland"
-    followers: 8586
-    engagement: 1510
-    commentsToLikes: 0.137020
+    followers: 9191
+    engagement: 1401
+    commentsToLikes: 0.122452
     id: ck9hbtw96iff10j78lo7v1r3a
     verified: false
-    hashtags: "#mylife, #olimp, #strongwomen, #motivation"
+    hashtags: "#mylife, #motywacja, #muscle, #olimpsportnutrition"
+  - username: "kasiula.fit"
+    fullname: >-
+      Kasia Dzierżanowska
+    bio: >-
+      ★ 𝘾𝙚𝙧𝙩𝙮𝙛𝙞𝙠𝙤𝙬𝙖𝙣𝙮 𝙩𝙧𝙚𝙣𝙚𝙧 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡𝙣𝙮 ★ —𝔹𝕦𝕕𝕦𝕛𝕖̨ 𝕤𝕪𝕝𝕨𝕖𝕥𝕜𝕚 𝕞𝕒𝕣𝕫𝕖𝕟́— 📩prowadzenie online (DM) ⭐️ @carpatree -20% „KASIULA.FIT” ⭐️ @sklep.sfd-10% „KASIA10”
+    location: "Poland"
+    followers: 12169
+    engagement: 988
+    commentsToLikes: 0.035932
+    id: ck8t3q16w41zv0j78akzvxrfv
+    verified: false
+    hashtags: "#girl, #carpatree, #bodygoals, #strong"
+  - username: "_szubert_"
+    fullname: >-
+      Wiktoria Szubert
+    bio: >-
+      Studentka dietetyki 👩🏽‍🎓 Kontakt 📧 ➡️wikaszubert@gmail.com
+    location: "Poland"
+    followers: 38150
+    engagement: 373
+    commentsToLikes: 0.049886
+    id: ck8t9ohzzore40j78xfxzuqwm
+    verified: false
+    hashtags: "#dubaifitness, #vacaymode, #fitwomen, #bikinifitness"
+  - username: "magda_biala"
+    fullname: >-
+      MAGDALENA BIAŁACHOWSKA🏋️‍♀️
+    bio: >-
+      💪 Trener Personalny w Szczecinie ❤️ @rough_radical "Magda15" 🥰 @sklep.sfd "MAGDABIALA10" 🏋️‍♀️ @studio_treningu 🏋️‍♀️ 📪mbialachowska@o2.pl📪
+    location: "Poland"
+    followers: 9861
+    engagement: 312
+    commentsToLikes: 0.096806
+    id: ck8t60bm1bt1y0j78ybqk23ci
+    verified: false
+    hashtags: "#las, #crossfit, #shape, #inked"
   - username: "trener_marcin"
     fullname: >-
       Marcin Krzesiński
     bio: >-
       💪🏽 Certified PT (Warsaw) 🍎 Student of dietetics 📥 Collaboration: marcinkrzesinski.wspolpraca@gmail 🔑 @dietbox_ kod rabatowy -15%: TRENER_MARCIN
     location: "Poland"
-    followers: 7548
-    engagement: 1226
-    commentsToLikes: 0.087932
+    followers: 8046
+    engagement: 1577
+    commentsToLikes: 0.054989
     id: ck9hcghkel9y50j78hab2jrkn
     verified: false
-    hashtags: "#trenerpersonalny, #kateringdietetyczny, #polishboy, #warszawa"
-  - username: "_szubert_"
+    hashtags: "#humanrace, #kateringdietetycznywarszawa, #dieta, #online"
+  - username: "dominika_wisniewska2"
     fullname: >-
-      Wiktoria Szubert
+      Dominika Wiśniewska
     bio: >-
-      Studentka dietetyki 👩🏽‍🎓 Kontakt 📧 ➡️wikaszubert@gmail.com #gymherogirl 💗 KOD „szubert” -15% http://gymhero.eu/
+      🇵🇱 Warszawa https://mym.fans/dominika_wisniewska2 Team @real_pharm_nutrition -10% "Domi10" @fitby.nature @gattafashioneurope 🥰
     location: "Poland"
-    followers: 25665
-    engagement: 622
-    commentsToLikes: 0.066604
-    id: ck8t9ohzzore40j78xfxzuqwm
+    followers: 130140
+    engagement: 461
+    commentsToLikes: 0.053377
+    id: ck8t1rewdwqkv0j78cj59oftk
     verified: false
-    hashtags: "#body, #fitdziewczyna, #gymgirl, #legs"
-  - username: "zetesis1727"
+    hashtags: "#lingiere, #body, #czarnulka, #goodnight"
+  - username: "sonrisove"
     fullname: >-
-      
+      Kinga
     bio: >-
-      Filozof, psycholog, podróżniczka. Kocham trenować mózg i ciało😉 collaboration - zetesis@o2.pl
+      -10% na "sonrisove10" u @sklep.sfd @allnutrition ❤️ Oglądnij story 🥰 📝Współpraca: kosowicz.kinga@gmail.com 📥
     location: "Poland"
-    followers: 110273
-    engagement: 476
-    commentsToLikes: 0.046201
-    id: ck6tv3poxjzz60j71z7zgvycd
+    followers: 34757
+    engagement: 349
+    commentsToLikes: 0.065565
+    id: ck5zt5phgzs9f0i14bd8e2veb
     verified: false
-    hashtags: "#lillylashes, #lingerieoftheday, #fitnessgirl, #smile"
-  - username: "kasiula.fit"
-    fullname: >-
-      Kasia Dzierżanowska
-    bio: >-
-      TRENER PERSONALNY 📩prowadzenie online ⭐️ @carpatree -20% „KASIULA.FIT” ⭐️ @sklep.sfd-10% „KASIA10” ⭐️ @gipara_fitness -30% „KASIA30”
-    location: "Poland"
-    followers: 10321
-    engagement: 1339
-    commentsToLikes: 0.044562
-    id: ck8t3q16w41zv0j78akzvxrfv
-    verified: false
-    hashtags: "#body, #si, #fitgirl, #fitslodycze"
-  - username: "oliwkamorawska"
-    fullname: >-
-      Oliwia Morawska
-    bio: >-
-      📍Wrocław 💌 morawska000@gmail.com
-    location: "Poland"
-    followers: 29410
-    engagement: 951
-    commentsToLikes: 0.030852
-    id: ckap056fyosj80i78ldqhorv8
-    verified: false
-    hashtags: "#brunette, #love, #potd, #polishmodel"
+    hashtags: "#lifestyle, #polishgirl, #blogger, #girl"
 ---

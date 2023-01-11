@@ -1,118 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Chile In 2022
+title: Top 10 Bakers Instagram Influencers In Chile In 2023
 description: >-
-  Find top bakers Instagram influencers in Chile in 2022. Most popular hashtags: #chile #happy #picoftheday #yamaha.
+  Find top bakers Instagram influencers in Chile in 2023. Most popular hashtags: #chile #bikelife #santiagodechile #nature.
 platform: Instagram
-hits: 9
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 9 Instagram influencers like this in Chile for you to connect with.
+hits: 12
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in Chile for you to collaborate.
 profiles:
   - username: "istvanmolnarb"
     fullname: >-
       Istvan Molnar
     bio: >-
-      Artisan Baker Membre de @lestoquesblanches Embajador @polselli_la_farina_italiana
+      Artisan Baker Pasta maker Pizza lover
     location: "Chile"
-    followers: 90566
-    engagement: 132
-    commentsToLikes: 0.059121
+    followers: 92841
+    engagement: 121
+    commentsToLikes: 0.049911
     id: ck0w76c1xbz840i19q2cwmyde
     verified: false
-    hashtags: "#foodphotography, #bakery, #nytfood, #cheflife"
-  - username: "benjaencinas"
-    fullname: >-
-      Benjamin Encinas
-    bio: >-
-      Fotógrafo, montañista, profesional en ecoturismo Mi emprendimiento, @ecoturismofotografico Apoyado por @huaweimobilecl @thinktankphoto
-    location: "Chile"
-    followers: 20521
-    engagement: 550
-    commentsToLikes: 0.026452
-    id: ck0twrgpvgjf20i19lxvctq96
-    verified: false
-    hashtags: "#visitchile, #capturedonhuawei, #amazonjungle, #wildlifechile"
+    hashtags: "#bakery, #bakingbread, #foodphotography, #tampabay"
   - username: "recetasdejavi"
     fullname: >-
       Recetas de Javi 👩‍🍳
     bio: >-
-      🌻Enseño cocina #PlantBased Desde la cocina podemos cambiar el mundo 🌍🍃 📩contacto@recetasdejavi.cl Mi blog👇💚
+      🌻Cocinera #PlantBased #Vegana👩‍🍳 Desde la cocina podemos cambiar el mundo 🌍🍃 📩contacto@recetasdejavi.cl Mi blog de recetas👇
     location: "Chile"
-    followers: 80725
-    engagement: 192
-    commentsToLikes: 0.121696
+    followers: 81608
+    engagement: 166
+    commentsToLikes: 0.056439
     id: ck5hogrpnpjbn0i11j5wflf3b
     verified: false
-    hashtags: "#veganos, #desayuno, #recetasdejavi, #concurso"
-  - username: "sheeey._"
+    hashtags: "#recetavegana, #singluten, #recetasdejavi, #veganfood"
+  - username: "camicamilagallardo"
     fullname: >-
-      S h e y 🏍
+      CAMI Camila Gallardo
     bio: >-
-      Yamaha R6 💛
+      Somos la comunidad oficial de seguidores de la cantante chilena @cami 🦁 🎧 Trabajando junto a @umusicchile 🛸 Escucha el último sencillo BIG BANG:
     location: "Chile"
-    followers: 7554
-    engagement: 5805
-    commentsToLikes: 0.008151
-    id: ck9h9scq69rsi0j78m8qmi2ru
+    followers: 56509
+    engagement: 297
+    commentsToLikes: 0.012362
+    id: ckap1eelmu8jo0i78l3wc5hl7
     verified: false
-    hashtags: "#bikequeens, #bikers, #suzuki, #motorbikelife"
-  - username: "stonewilliam"
+    hashtags: "#camilagallardo, #tini, #tinistoessel, #camigallardo"
+  - username: "diego_grandecom"
     fullname: >-
-      William “𝕎𝕒𝕝𝕝𝕒𝕔𝕖” Stone
+      ᴅɪᴇɢᴏ ɢʀᴀɴᴅᴇ
     bio: >-
-      Polyɢoɴ вιĸeѕ rιder @ridepolygonbikes @crossmountain.cl @ion_chile @patreon #mtbendurochile 🚵‍♀️ Aficionado de la fotografía 📸 ⬇️ YouTube 🎥
+      ⚡Recuerda que no puedes dejar de ser tú mismo. 🏍Test Rider / Coach #moto 🔸Ex Rider #supermotard 🥇x2 CL |🥉CE |🇪🇸 Team Iberoamericano 2013
     location: "Chile"
-    followers: 13020
-    engagement: 1583
-    commentsToLikes: 0.011131
-    id: ck8tbh8qmvo0c0j787daoy4ta
+    followers: 30733
+    engagement: 424
+    commentsToLikes: 0.056650
+    id: ck8sziq40oloc0j78mohrz1x2
     verified: false
-    hashtags: "#mtbendurochile, #instamtbchile, #enduromtbchile, #mountainbike"
-  - username: "estebaaaanjofre"
+    hashtags: "#cbr, #dragster, #bikersofinstagram, #kawasakih2"
+  - username: "javiromanm"
     fullname: >-
-      𝙀𝙨𝙩𝙚𝙗𝙖𝙣 𝙟𝙤𝙛𝙧𝙚 💫
+      Javiera Roman 🇨🇱
     bio: >-
-      Sᴀɴᴛɪᴀɢᴏ📍 ʏᴀᴍᴀʜᴀ R6 🏍 🎨 @ejdesign.cl My Partner 🇨🇱 @high.average 🇨🇱 @bravebikeschile 🇨🇱 @motoshop.cl
+      ✨ Rally Codriver ✨ •👸🏻•🏆•🚗•🏁• - 1era Mujer Chilena 🇨🇱 Campeona de Rally. - 🇨🇱🇬🇧. - @full_motorsport_dynamics ⚙️🔧. AnimalLover 💚
     location: "Chile"
-    followers: 18583
-    engagement: 452
-    commentsToLikes: 0.019765
-    id: ck9wgq617uhtv0j78dl11y2wg
+    followers: 25480
+    engagement: 824
+    commentsToLikes: 0.034164
+    id: ck13bhlz5vfyl0i19byk0phjf
     verified: false
-    hashtags: "#yamaha, #instamotorcycle, #followforfollowbackandlike, #bikercouple"
-  - username: "cani_pack"
+    hashtags: "#autoschile, #rallymobil, #cars, #womeninmotorsport"
+  - username: "micamurua"
     fullname: >-
-      Chileno Santiaguino Alegre 😊🙈
+      
     bio: >-
-      Mi intención es sacarles una sonrisa, compartir ideas y ayudar a crear un mundo más positivo🙈 49/51💙 @toronto_agency_kaese_media 👇Aca lo que vendo👇
+      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
     location: "Chile"
-    followers: 39987
-    engagement: 273
-    commentsToLikes: 0.017514
-    id: ckap7r1xfl6od0i783dafp9zl
+    followers: 23851
+    engagement: 336
+    commentsToLikes: 0.145892
+    id: ck139t27qmz500i19t1yqfv2v
     verified: false
-    hashtags: "#guatemala, #chile, #buenosaires, #montevideo"
-  - username: "clau.saludable"
+    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
+  - username: "__haku__"
     fullname: >-
-      Dra. Claudia Acevedo
+      Claudia
     bio: >-
-      Médico Cirujano👩🏻‍⚕️ (c) Mg.Nutrición 🥦 Consulta Online 📩 dra.acevedo.online@gmail.com Mamá de 👧🏻 👶🏻 Recetas Ricas y Saludables 🍓🍋🥑 📍Chile
+      ⚓️VALPARAISO, Chile Matrona ❤️ Capturando momentos 📸⛺️🏔 Amiga de tienda outdoor @trekking_en_chile
     location: "Chile"
-    followers: 33472
-    engagement: 195
-    commentsToLikes: 0.194800
-    id: ckap66dtbelc80i782relllxc
+    followers: 3148
+    engagement: 1069
+    commentsToLikes: 0.045702
+    id: ck0ttabdi1u8e0i19zshxqn98
     verified: false
-    hashtags: "#healthy, #ricoysano, #plantbased, #yummy"
-  - username: "susiebakesfun"
+    hashtags: "#visitachile, #mountains, #longexposures, #losrios"
+  - username: "sebamirandaxc"
     fullname: >-
-      𝐒𝐔𝐒𝐈𝐄
+      Seba Miranda
     bio: >-
-      I bake cakes and scream about kpop NO VENDO TORTAS NI HAGO PEDIDOS SOLO Vendo COOKIE BOX (porfa ver: INFO🍪) ⬇️ link halloween box
+      POR MI Y PARA MI 🚲🌎 🏆 8X Campeón Nacional MTB Chile 🏆 Trans Andes Challenge 🇨🇱 Team Chile. @bortec_cycling
     location: "Chile"
-    followers: 34453
-    engagement: 558
-    commentsToLikes: 0.017971
-    id: ck15pff7fxmgi0i19xf11hxrf
+    followers: 9466
+    engagement: 835
+    commentsToLikes: 0.026265
+    id: ck6txruitzhmv0j717kqkh7hb
     verified: false
-    hashtags: "#kpop, #army, #baking, #koreanstyle"
+    hashtags: "#montonsportchile, #sentirsebien, #ciclismoderuta, #ciclistasurbanos"
+  - username: "marcos_evora"
+    fullname: >-
+      M A R C O S   E V O R A
+    bio: >-
+      OJALÁ LOS OJOS SACARÁN FOTOS —————— •Cuenta de trabajo 👉🏻 @me.fotos •📸Fotógrafo y Realizador🎥 —————— Página Oficial:👇🏻
+    location: "Chile"
+    followers: 13858
+    engagement: 725
+    commentsToLikes: 0.024412
+    id: ck0vy97bo2udu0i19y5y1m1a5
+    verified: false
+    hashtags: "#photography, #photographer, #mar, #beach"
+  - username: "nudofrances"
+    fullname: >-
+      Escuela | Bordado ⭐ Pedrería
+    bio: >-
+      🖤 Con mis cursos potencia tu técnica y encuentra tu sello propio para que logres crear bordados extraordinarios 🎆 👇 Mis experiencias creativas:
+    location: "Chile"
+    followers: 52490
+    engagement: 120
+    commentsToLikes: 0.065807
+    id: ck9wfnz7ppp3p0j789fl9dj9p
+    verified: false
+    hashtags: "#beadlove, #bordadochile, #nudofrancesbordados, #needleandthread"
 ---

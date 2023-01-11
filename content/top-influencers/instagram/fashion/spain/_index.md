@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Spain In 2022
+title: Top 10 Fashion Instagram Influencers In Spain In 2023
 description: >-
-  Find top fashion Instagram influencers in Spain in 2022. Most popular hashtags: #sorteo #lookoftheday #halloween #photography.
+  Find top fashion Instagram influencers in Spain in 2023. Most popular hashtags: #fashion #moda #fashionstyle.
 platform: Instagram
-hits: 1413
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 1413 Instagram influencers like this in Spain for you to contact.
+hits: 1084
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 1084 Instagram influencers like this in Spain for you to contact.
 profiles:
-  - username: "rachelcolinas"
+  - username: "melimtx"
     fullname: >-
-      Raquel Fernandez Colinas
+      Melissa 🦅
     bio: >-
-      • FASHION • BEAUTY • LIFESTYLE Encargada de gestión en @clinica.valderrama Collabs: raquelfernandezcolinas@gmail.com 📍Ponferrada
+      Albanian | Bosnian 20♍️ @fashionnova ambassador
     location: "Spain"
-    followers: 5087
-    engagement: 2518
-    commentsToLikes: 0.540386
-    id: ck6u1jwjxm6j00j71vizk3ukf
+    followers: 3009727
+    engagement: 988
+    commentsToLikes: 0.004942
+    id: ck8t38ujc2d1k0j78m12wqyaq
     verified: false
-    hashtags: "#inspiration, #model, #look, #me"
-  - username: "saraguchi84"
+    hashtags: ""
+  - username: "orianagonzalezmarzoli"
     fullname: >-
-      saraguchi84
+      ORIANA MARZOLI
     bio: >-
-      Maternity •• Lifestyle •• Fashion •• Deco 🩺 Mum & Nurse 📍Barcelona 📩 saraguchi84@gmail.com
+      Tiktok: oriana_marzoli92 🎶 Colaboraciones: oriana@mitiempoesahora.com 📩🇪🇸 paola@benegasmanagement.com 📍🇮🇹 @fashionnova Ambassador
     location: "Spain"
-    followers: 154527
-    engagement: 1034
-    commentsToLikes: 0.542150
-    id: ck139y39wnp0e0i19ob6whumn
-    verified: false
-    hashtags: "#publi, #familianumerosa, #home, #halloween"
-  - username: "inessachloe"
+    followers: 2202421
+    engagement: 365
+    commentsToLikes: 0.011843
+    id: ck6tn2tp390s00j71fcv14pl5
+    verified: true
+    hashtags: "#obsessionginpurple, #mysummerobsession, #publi, #shein"
+  - username: "jessicarosegale"
     fullname: >-
-      • INÉS + CHLOE •
+      JESSICA GALE
     bio: >-
-      Chloe’s mum & teacher Lifestyle • Kids • Fashion Lover 📩inessachloe@gmail.com 📍#barcelona 📍#lacerdanya
+      Twinning @evegale Ambassador @fashionnova Contact: saffron@rizzopr.com
     location: "Spain"
-    followers: 52234
-    engagement: 947
-    commentsToLikes: 1.146470
-    id: ck14lontjvpt80i19n4dsbt8r
+    followers: 999902
+    engagement: 218
+    commentsToLikes: -12.986504
+    id: cl56a91zd223i0i23f0872h9w
     verified: false
-    hashtags: "#happy, #momanddaughter, #lacerdanya, #mom"
-  - username: "ardiyaworld"
+    hashtags: "#meetshein, #sheinforall, #sheinpopuplondon, #2btanned"
+  - username: "rohaloje"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀              ARDIYA
+      Rocío Halcón 🖤
     bio: >-
-      DJ & Fashion/Lifestyle 📥CONTACT: hello@carlosardiya.com
+      Algo Caótica, no lo puedo evitar, me gusta el caos organizado 💋 📸 Fashion | Travel | Animal Lover | Live 📩 rohaloje1@gmail.com 📍-Sevilla- España 🇪🇸
     location: "Spain"
-    followers: 17022
-    engagement: 847
-    commentsToLikes: 0.118733
-    id: ck5pvs0ntjcyd0i1162q2vm8k
+    followers: 20748
+    engagement: 833
+    commentsToLikes: 0.095795
+    id: ck9hcar52kjlg0j78z7jt7svw
     verified: false
-    hashtags: "#alertaroja"
-  - username: "whereis_adrii"
+    hashtags: "#moda, #instafashion, #beach, #verano2021"
+  - username: "unamexicanaenparis"
     fullname: >-
-      ADRIANA | Barcelona 🌞
+      Mirella Bouteiller 🇲🇽🇫🇷
     bio: >-
-      ✈️Travel | Lifestyle | Fashion 🏡Home is 🇪🇨🇮🇹🇪🇸🇹🇼🇳🇱🇩🇪 💸@sheinofficial 15% off "adrii15" 💫Latin girl around the world 🚀15 countries in 12 months
+      Youtuber 🎥 +350k Lifestyle. Travel . Fashion Contact: unamexicanaenparis@gmail.com
     location: "Spain"
-    followers: 31015
-    engagement: 585
-    commentsToLikes: 0.132059
-    id: ck0tu25qf5azv0i19518gnp7e
+    followers: 106458
+    engagement: 679
+    commentsToLikes: 0.029282
+    id: ckf5qoboja1a70j23dsmfyqmk
     verified: false
-    hashtags: "#unlimitedbarcelona, #valenciaspain, #spain, #malaga"
-  - username: "marikowskaya"
+    hashtags: "#mirellabou, #unamexicanaenparis, #parisjetaime, #lookdujour"
+  - username: "aina.simon"
     fullname: >-
-      Marikowskaya
+      AINA SIMON
     bio: >-
-      MAKE UP • BEAUTY • FASHION • LIFESTYLE
+      Fashion • Food • Travel ✈️ | Barcelona - Madrid| 💌 ainasimonm@gmail.com
     location: "Spain"
-    followers: 83197
-    engagement: 543
-    commentsToLikes: 0.195257
-    id: ck0u7wsm95yi90i199hgav5f4
+    followers: 332763
+    engagement: 842
+    commentsToLikes: 0.005175
+    id: ck0vyy6sp6d680i19gk2enc5c
     verified: false
-    hashtags: "#urbandecay, #smokeyeyes, #marikoinspiredby, #fall2020"
+    hashtags: "#primania, #embajadoraprimark, #iworkwithprimark, #adikagirls"
   - username: "modajustcoco"
     fullname: >-
       Veronica Diaz | JustCoco
     bio: >-
-      • 📩 justcoco.fashion@gmail.com • 📹 +900K Youtube friends Más vídeos aquí
+      • ✉️ justcoco.fashion@gmail.com •📷 Moda, decoración, mi día a día y todo aquello que me inspira •🤍 Mi familia @familiacoquetesoficial
     location: "Spain"
-    followers: 647520
-    engagement: 528
-    commentsToLikes: 0.116311
+    followers: 704808
+    engagement: 450
+    commentsToLikes: 0.093582
     id: ck0w367xirsdk0i19d4ffn43v
     verified: false
-    hashtags: "#rincones, #mamiygala, #justcoco, #halloween"
-  - username: "miss_style.88"
+    hashtags: "#porencimadelasaguilas, #justcoco, #oporto, #hazmagiaentupelo"
+  - username: "saraguchi84"
     fullname: >-
-      🌸 MONICA🌸
+      saraguchi84
     bio: >-
-      LIFESTYLE / FASHION 〰️#wolfiesstyle 📍Granollers-Barcelona “No te pongas límites, ponte guapa”
+      Maternity •• Lifestyle •• Fashion •• Deco 🩺 Mum & Nurse 📩 saraguchi84@gmail.com
     location: "Spain"
-    followers: 4757
-    engagement: 1913
-    commentsToLikes: 0.632972
-    id: ck5zt5abpzrfw0i14rrllevew
+    followers: 216919
+    engagement: 555
+    commentsToLikes: 0.232951
+    id: ck139y39wnp0e0i19ob6whumn
     verified: false
-    hashtags: "#andalucia, #mystyle, #autumn, #fashionstyle"
-  - username: "tamarayuste"
+    hashtags: "#visitbenidorm, #ibiza, #viajarconni, #mixedkids"
+  - username: "marinallorca"
     fullname: >-
-      T A M A R A 💟
+      Marina Llorca
     bio: >-
-      Do more of what makes you happy 💌tamarayuste91@gmail.com 📍Madrid 👗🌏💄Lifestyle | Food | Fashion | Beauty |Travel @sheinofficial ❤️15%dto: s867h
+      📍Marbella • Madrid 🙋🏻‍♀️ Graphic Designer • Fashion 💌 marinallorcablog@gmail.com • @blvrd22agency ⇩MORE⇩
     location: "Spain"
-    followers: 28507
-    engagement: 548
-    commentsToLikes: 0.560940
-    id: ck14hdqwc9t5b0i19vt7o4cn2
-    verified: false
-    hashtags: "#giveaway, #sheinspain, #sorteo, #sheingals"
-  - username: "fashionqueen_mystyle"
+    followers: 214757
+    engagement: 979
+    commentsToLikes: 0.105493
+    id: ck5btzgp9gw5u0i11qknwznfe
+    verified: true
+    hashtags: "#villanasdisneyurbanas, #hm, #hmxme, #8demarzo"
+  - username: "rachelcolinas"
     fullname: >-
-      
+      Raquel Fernandez Colinas
     bio: >-
-      ✨STYLE INSPIRATION ✨ Style 🎀 Fashion👗 Travel ✈️ Nails 💅 Location📍Hampshire England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+      • FASHION • BEAUTY • LIFESTYLE Encargada de gestión en @clinica.valderrama Embajadora de @lasal.shop Collabs: raquelfernandezcolinas@gmail.com
     location: "Spain"
-    followers: 7902
-    engagement: 1095
-    commentsToLikes: 0.685756
-    id: ck8t2a8mkypnt0j78cr8ncc6j
+    followers: 6754
+    engagement: 2369
+    commentsToLikes: 0.198672
+    id: ck6u1jwjxm6j00j71vizk3ukf
     verified: false
-    hashtags: "#hmxme, #bikini, #mystyle, #instadaily"
+    hashtags: "#oceansapart, #deportedeverano, #weareone, #inlove"
 ---

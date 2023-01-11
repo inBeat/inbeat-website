@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Montreal In 2022
+title: Top 10 Models TikTok Influencers In Montreal In 2023
 description: >-
-  Find top models TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #montreal #model #dance.
+  Find top models TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #foryou #model #fashion.
 platform: TikTok
-hits: 12
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 12 TikTok influencers like this in Montreal, Canada for you to collaborate.
+hits: 8
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
   - username: "craig_major"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Im a Fashion stylist and model based in Montreal! Enjoy life! 👖👟IG @craigmajor
     location: "Canada"
-    followers: 71500
-    engagement: 913
-    commentsToLikes: 0.020238
+    followers: 76600
+    engagement: 1055
+    commentsToLikes: 0.025861
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#love, #dance, #boy, #fun"
+    hashtags: "#fashion, #muscle, #boy, #menstyle"
+  - username: "hjerando"
+    fullname: >-
+      hjerando
+    bio: >-
+      jerando fashion is a Canadian company based in Montreal . visit our website
+    location: "Canada"
+    followers: 45100
+    engagement: 253
+    commentsToLikes: 0.023483
+    id: ck8f7uufd38ar0j78ok8o4kmu
+    verified: false
+    hashtags: "#fashion, #menstyle, #suit, #mensuits"
+  - username: "hunnyhigh"
+    fullname: >-
+      Hunny
+    bio: >-
+      model/artist based in mtl !! Managed by Folio Montreal - insta: @emxtive 🪐
+    location: "Canada"
+    followers: 8738
+    engagement: 1205
+    commentsToLikes: 0.041706
+    id: ck806vqz3me7r0j78bxtikj1s
+    verified: false
+    hashtags: "#greenscreenvideo, #blackcat, #kitten, #model"
   - username: "sunsetsandbellinis"
     fullname: >-
       t a n y a
     bio: >-
-      married life + dance + model tips ⚡️i run an influencer agency ⚡️ montreal
+      married life + dance + model tips ⚡️i run a marketing agency ⚡️ montreal
     location: "Canada"
-    followers: 8472
-    engagement: 749
-    commentsToLikes: 0.041911
+    followers: 8420
+    engagement: 752
+    commentsToLikes: 0.042668
     id: ck8nbuegjbj9z0j78zlr6e2fv
     verified: false
-    hashtags: "#dancer, #dance, #fyp, #wedding"
-  - username: "mamanannie68"
-    fullname: >-
-      Annie Belisle
-    bio: >-
-      🇨🇦 Montreal. #over50 Vaut mieux en rire 💃 having fun one tik tok at the time
-    location: "Canada"
-    followers: 32000
-    engagement: 658
-    commentsToLikes: 0.131084
-    id: ck9shq8voukr80j78kserwnux
-    verified: false
-    hashtags: "#over50, #autumn, #canadianmom, #love"
-  - username: "thewhiteasiann"
-    fullname: >-
-      Gelinas👑😍
-    bio: >-
-      🇨🇦 Montreal 🇹🇼 Taiwan snap: gelinasmatthew8 Ig: ydy_mgelinas
-    location: "Canada"
-    followers: 44600
-    engagement: 875
-    commentsToLikes: 0.045578
-    id: ck7zo5a9fhxhd0j78p6gnjdwg
-    verified: false
-    hashtags: "#canada, #basketball, #foryoupage, #taiwan"
-  - username: "steven_uno"
-    fullname: >-
-      Steven Uno
-    bio: >-
-      🇧🇯 || Entrepreneur - Dancer - Model || Mtl 🇨🇦 stevenunomaster@gmail.com 👑
-    location: "Canada"
-    followers: 7083
-    engagement: 691
-    commentsToLikes: 0.055069
-    id: ckb94kp72m7og0j23q75jf715
-    verified: false
-    hashtags: "#tiktok, #tiktokmontreal, #montreal, #canada"
-  - username: "_annamarier"
-    fullname: >-
-      annamarier
-    bio: >-
-      📍MONTREAL | 21 🇨🇦 WOMEN’S HEALTH COACH MY WEBSITE 🛒⬇️
-    location: "Canada"
-    followers: 81100
-    engagement: 480
-    commentsToLikes: 0.032789
-    id: ck90vwxt61pq80j78e3qosq12
-    verified: false
-    hashtags: "#fit, #workout, #fitgirl, #babe"
+    hashtags: "#wedding, #francais, #pourtoi, #hospital"
   - username: "yannkd0"
     fullname: >-
-      🔴🟠🟡🟢🔵🟣
+      🇭🇹♊️🇨🇦
     bio: >-
-      🇨🇦#jacmelien🇭🇹 Follow me 10k🙏👇🏾 IG @Yann_model_03 Snap:👻xolove93👻 FB:Ya
+      🤌🏽______________☝🏾 follow me on IG @Yann_Model_03
     location: "Canada"
-    followers: 3094
-    engagement: 398
-    commentsToLikes: 0.037396
+    followers: 3404
+    engagement: 458
+    commentsToLikes: 0.093098
     id: ckbeu5j0ldfug0j2314m2cjlq
     verified: false
-    hashtags: "#savage, #fyp, #quarantine, #foryoupage"
-  - username: "bitcoin121"
+    hashtags: "#friendlyfuture, #motivation, #5k, #patager"
+  - username: "jobellafit"
     fullname: >-
-      V.C
+      Joanna J.
     bio: >-
-      MTL Insta: bitcoinn121 Snap: vinhk11
+      WORLDWIDE COACHING 🌏💪🏾 PROFESSIONAL FITNESS MODEL. 💦 FAT LOSS -🥦MEAL PLAN
     location: "Canada"
-    followers: 42900
-    engagement: 1494
-    commentsToLikes: 0.049281
-    id: ck7zo5b6ehxp90j7899yfy5c3
+    followers: 153000
+    engagement: 808
+    commentsToLikes: 0.058252
+    id: ckdstgewwpi5p0j23wqf6j88m
     verified: false
-    hashtags: "#asian, #mtl, #montreal, #musicallybeast"
-  - username: "urfavcowgirl"
+    hashtags: "#fitnesscreator, #tiktokcanadacreates, #haitiangirl, #fitok"
+  - username: "annekrystelgoyerofficial"
     fullname: >-
-      emilie🤠🤍
+      Anne Krystel
     bio: >-
-      ily pinterest- @emilietougastremblay depop - @the_tt_clothes
+      Créatrice de parfums haut de gamme, modèle et actrice.
     location: "Canada"
-    followers: 42900
-    engagement: 1783
-    commentsToLikes: 0.010503
-    id: ck806xb8oms310j78ltymz0rt
+    followers: 14600
+    engagement: 239
+    commentsToLikes: 0.033204
+    id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#montreal, #foryoupage, #duet, #fyp"
-  - username: "olliverlucas"
+    hashtags: "#fragrance, #sexy, #perfume, #parfum"
+  - username: "therealjohnpasha"
     fullname: >-
-      Lucas Oliver
+      Ｊｏｈｎ   Ｐａｓｈａ
     bio: >-
-      welcome to my crazy world😝🌍✌️
+      My videos are funnier when you drink mtl
     location: "Canada"
-    followers: 18800
-    engagement: 693
-    commentsToLikes: 0.040211
-    id: ckcdj964h8p2y0j23xl80qz0t
+    followers: 5051
+    engagement: 450
+    commentsToLikes: 0.171928
+    id: ckdnf24ouhdr50j23hh8bgczv
     verified: false
-    hashtags: "#foryou, #challenges, #fyp, #boys"
+    hashtags: "#canadian, #corona, #fy, #montreal"
+  - username: "nehchalb"
+    fullname: >-
+      nehchal
+    bio: >-
+      model
+    location: "Canada"
+    followers: 30400
+    engagement: 934
+    commentsToLikes: 0.022342
+    id: ck8kg0kgfge5v0j78pxquufxj
+    verified: false
+    hashtags: "#foryou, #tiktok, #punjabi, #pourtoi"
+  - username: "modelsforyou"
+    fullname: >-
+      Models
+    bio: >-
+      TikToks #1 Model Page! 🍑🍒 Dm for Business and Promotional Deals! 👍📈
+    location: "Canada"
+    followers: 201300
+    engagement: 468
+    commentsToLikes: 0.006502
+    id: ck9flmlmhopzz0j78yjgykhx9
+    verified: false
+    hashtags: "#model, #bikinimodel, #modelgirl, #fyp"
 ---

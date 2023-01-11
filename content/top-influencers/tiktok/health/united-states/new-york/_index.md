@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In New York In 2022
+title: Top 10 Health TikTok Influencers In New York In 2023
 description: >-
-  Find top health TikTok influencers in New York in 2022. Most popular hashtags: #fyp #health #duet #learnontiktok.
+  Find top health TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #health #nyc.
 platform: TikTok
-hits: 73
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 73 TikTok influencers like this in New York, United States for you to work with.
+hits: 56
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database holds 56 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "diego.j.rivas"
+  - username: "chefcvyn"
     fullname: >-
-      Diego Rivas
+      Chef C’Vyn
     bio: >-
-      CEO of Gibberish Interesting things you’ve never heard of Come learn with me 🌎
+      A New Me Begins...I’M THE BEAUTIFUL C’VYN Come Join Me...ON THE QUEST TO HEALTH
     location: "United States"
-    followers: 125900
-    engagement: 1028
-    commentsToLikes: 0.036482
-    id: ck8qj596fbz3f0j78uqgujo6l
+    followers: 13000
+    engagement: 3440
+    commentsToLikes: 0.266695
+    id: ckc7qzxhfwcjl0j23vq4akgtg
     verified: false
-    hashtags: "#learn, #religion, #french, #hispanic"
-  - username: "dr.scaligiuri"
+    hashtags: "#dmx, #duet, #fyp, #chefcvyn"
+  - username: "girlwithadoge"
     fullname: >-
-      Dr. Stephanie, PhD
+      Eva Yu
     bio: >-
-      Nutrition & Addiction Neuroscientist👩‍🔬 The People’s Scientist podcast🎧 NYC🍎
+      Proud Asian IG: Kittycateva Venmo: Eva-Yu
     location: "United States"
-    followers: 3587
-    engagement: 729
-    commentsToLikes: 0.026888
-    id: ckcjgyucibvn20j23c0y9k81h
+    followers: 29400
+    engagement: 869
+    commentsToLikes: 0.153896
+    id: ckcjffj7tb0np0j23szxfs901
     verified: false
-    hashtags: "#fyp, #mentalhealth, #addictionawareness, #neuroscience"
-  - username: "maudylo"
+    hashtags: "#beauty, #asian, #fyp, #covid19"
+  - username: "aye.jessiee"
     fullname: >-
-      Ahmadjg
+      jessie chen
     bio: >-
-      Content Creator ❗️Mental Health is #1 Here to make you smile ❗️ Road to 100k
+      SF | NYC 💌 jessiechen2601@gmail.com
     location: "United States"
-    followers: 70400
-    engagement: 1753
-    commentsToLikes: 0.108296
-    id: ckc8uoakgh4cf0j230euxm4kn
+    followers: 31300
+    engagement: 922
+    commentsToLikes: 0.025280
+    id: ckce7rh0fl7d70j233hpksv98
     verified: false
-    hashtags: "#foryoupage, #fup, #duet, #foryoupagethis"
-  - username: "tay_nic_fit"
+    hashtags: "#korean, #fyp, #ootd, #asian"
+  - username: "tehrealkitten"
     fullname: >-
-      Taylor Nicole
+      ⚡𝕂𝕚𝕥𝕥𝕖𝕟! 🐈
     bio: >-
-      B.S. in Kinesiology and Health Ex D1 🏐player ⭐️positivity over everything⭐️
+      Nichole. 35. New York. CEO of #OOF - Mental Health Advocate - Be A 🌟 (she/her)
     location: "United States"
-    followers: 11400
-    engagement: 1264
-    commentsToLikes: 0.029339
-    id: ckcpt5i2dnqgf0j2303pqodpw
+    followers: 20100
+    engagement: 2853
+    commentsToLikes: 0.135928
+    id: ckbfijh61ecv60j23isrmvqj4
     verified: false
-    hashtags: "#volleyball, #foryoupage, #fitgirl, #girlswholift"
-  - username: "sophianikki"
+    hashtags: "#intuition, #over30, #overshareinyourunderwear, #duet"
+  - username: "yendegreez_"
     fullname: >-
-      Sophia Nichole
+      kevin “yen” nguyen
     bio: >-
-      Fitness & Health Coach in NYC⚡️ What’s up guys?! @AARMY Coach | NASM Trainer
+      📍NYC Yendegreez@gmail.com
     location: "United States"
-    followers: 11700
-    engagement: 600
-    commentsToLikes: 0.057542
-    id: ckb9bg5mqxlj70j23g5hkv3aq
+    followers: 18600
+    engagement: 1047
+    commentsToLikes: 0.033608
+    id: cka7nx8xvyzct0i78dqih2ytr
     verified: false
-    hashtags: "#tiktokpartner, #selflove, #learnontiktok, #oneminutefitness"
-  - username: "newyorkeyedoc"
+    hashtags: "#championsleague, #lawofattraction, #voiceeffects, #millenial"
+  - username: "mayemuskofficial"
     fullname: >-
-      newyorkeyedoc
+      maye
     bio: >-
-      NYC Eye Doc • Eye Health Tips • 👩🏻‍⚕️🇺🇸🇵🇪
+      International author/dietitian/speaker/model
     location: "United States"
-    followers: 2955
-    engagement: 659
-    commentsToLikes: 0.103972
-    id: ck9v10sznf00v0j78uvf9ikm2
-    verified: false
-    hashtags: "#doctor, #eyedoctor, #optometry, #dayinmylife"
-  - username: "doctor.jarrett"
+    followers: 65000
+    engagement: 765
+    commentsToLikes: 0.041318
+    id: ckbqkkpbl5m5o0j233ni2wzlu
+    verified: true
+    hashtags: "#xyzbca, #model, #awomanmakesaplan, #foryou"
+  - username: "maliamakaila"
     fullname: >-
-      Dr. Jarrett Schanzer
+      Malia Makaila 👼🏼
     bio: >-
-      Instagram (150k) ⤴️ 📍Miami / NYC Health💉Humor💉Inspiration Anesthesia😷
+      NEW YORK CITY GAL 🤍
     location: "United States"
-    followers: 150900
-    engagement: 846
-    commentsToLikes: 0.030527
-    id: ckdbs9wzgcgxv0j23tvaoyutk
+    followers: 197500
+    engagement: 832
+    commentsToLikes: 0.040768
+    id: ck9rjt5bkppgu0j78hm0nuym0
     verified: false
-    hashtags: "#adhd, #foryoupage, #comedy, #fyp"
-  - username: "oliviavoz"
-    fullname: >-
-      olivia voz
-    bio: >-
-      Olivia Voz Instagram oliviavoz Twitter thevoz4real www.voznews.com
-    location: "United States"
-    followers: 14200
-    engagement: 347
-    commentsToLikes: 0.083837
-    id: ckbqe3bcdzxqg0j23n5nc9jfe
-    verified: false
-    hashtags: "#money, #politics, #funny, #trending"
+    hashtags: "#transition, #nyc, #fyp, #fitness"
   - username: "bettyimages"
     fullname: >-
       ✊🏾 ☭
     bio: >-
-      ⭐️ HI MOM 💖⭐️ reading list linked below ⭐️
+      ⚔️ Hiatus till May 2021 ⚔️
     location: "United States"
-    followers: 96700
-    engagement: 2501
-    commentsToLikes: 0.020024
+    followers: 106800
+    engagement: 2832
+    commentsToLikes: 0.015747
     id: ckbrfnmlnr9sy0j23cv7blmwl
     verified: false
-    hashtags: "#leftist, #vegan, #health, #braids"
-  - username: "j.ooniiz"
+    hashtags: "#quickrecepies, #cookingtips, #2020election, #health"
+  - username: "leepetropoulos"
     fullname: >-
-      Evan Goodman
+      Lee Petropoulos 
     bio: >-
-      Just posting things I think need a highlight.
+      God is love ✝️🇬🇷🇨🇾🇺🇸 Ann Arbor Michigan📍✈️ Seeking Laughs, And spread ❤️
     location: "United States"
-    followers: 22400
-    engagement: 744
-    commentsToLikes: 0.051460
-    id: ckbw4b6bhxjhz0j230opnhqgq
+    followers: 83400
+    engagement: 896
+    commentsToLikes: 0.125242
+    id: ckbf38wsvqujy0j236hzy9vhs
     verified: false
-    hashtags: "#quarentine, #5d, #science, #fyp"
+    hashtags: "#lifestyle, #makemomepic, #newyork, #michigan"
+  - username: "lizlele"
+    fullname: >-
+      Liz Lele
+    bio: >-
+      Creator of the #showerhairchallenge
+    location: "United States"
+    followers: 376600
+    engagement: 784
+    commentsToLikes: 0.050977
+    id: ck7zp97doo19o0j78kodp1uya
+    verified: false
+    hashtags: "#fy, #hairs, #dog, #pets"
 ---
